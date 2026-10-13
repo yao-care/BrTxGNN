@@ -2,7 +2,7 @@
 layout: default
 title: Tenecteplase
 parent: Apenas Predição do Modelo (L5)
-nav_order: 459
+nav_order: 610
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,74 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tenecteplase: Do Infarto Agudo do Miocárdio ao Infarto Posteroinferior
+# Tenecteplase: Do infarto agudo do miocárdio ao infarto do miocárdio posteroinferior
 
 ## Resumo em Uma Frase
 
-Tenecteplase é um agente trombolítico fibrina-específico de terceira geração (tPA recombinante modificado), aprovado para o tratamento do infarto agudo do miocárdio com supradesnivelamento do segmento ST (STEMI).
-O modelo TxGNN prevê que pode ser eficaz para **Infarto Posteroinferior (Posteroinferior Myocardial Infarction)** com pontuação de **99,87%** — esta indicação corresponde a uma subclassificação anatômica do STEMI, mecanisticamente coberta pela aprovação regulatória já existente.
-No pacote de evidências atual, não há ensaios clínicos ou publicações específicas indexadas para esta subclassificação.
-
----
+Tenecteplase é um ativador do plasminogênio tecidual, específico para fibrina, originalmente associado ao tratamento do infarto do miocárdio e da trombose coronariana.
+O modelo TxGNN prevê que pode ser eficaz para **infarto do miocárdio posteroinferior (posteroinferior myocardial infarction)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando diretamente esta previsão específica.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infarto Agudo do Miocárdio com Supradesnivelamento do ST (STEMI) |
-| Nova Indicação Prevista | Infarto Posteroinferior (Posteroinferior Myocardial Infarction) |
+| Indicação Original | Infarto do miocárdio, trombose coronariana (conforme o grafo de conhecimento TxGNN; não há texto de indicação de registro no Brasil) |
+| Nova Indicação Prevista | Infarto do miocárdio posteroinferior (posteroinferior myocardial infarction) |
 | Pontuação de Previsão TxGNN | 99,87% |
-| Nível de Evidência | L1 (subclassificação anatômica de indicação já aprovada via ASSENT-2 Phase 3) |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação (MOA) disponíveis neste pacote de evidências. Com base em informações estabelecidas, Tenecteplase é um ativador do plasminogênio tecidual (tPA) recombinante com três modificações moleculares em relação ao alteplase: substituição de aminoácidos que aumentam a especificidade pela fibrina (~14×), reduzem a inibição pelo PAI-1 e prolongam a meia-vida plasmática, permitindo administração como bolus intravenoso único. Seu mecanismo central consiste em ativar plasminogênio → plasmina, que cliva as ligações cruzadas da fibrina no trombo coronariano, restaurando a perfusão miocárdica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação registrados nos dados compilados. Segundo informações conhecidas, a tenecteplase é um ativador do plasminogênio tecidual específico para fibrina, que dissolve trombos coronarianos. Sua eficácia no infarto do miocárdio já é estabelecida, e mecanisticamente pode ser aplicável a subtipos anatômicos dessa doença.
 
-O infarto posteroinferior é uma subclassificação anatômica do STEMI — corresponde à oclusão da artéria coronária direita (ACD) ou da artéria circunflexa esquerda (ACX) com isquemia atingindo a parede posterior e inferior do ventrículo esquerdo. Eletrocardiograficamente, manifesta-se com supradesnivelamento em derivações inferiores (DII, DIII, aVF) e, nas derivações posteriores (V7–V9), o que é o critério diagnóstico para o subtipo posteroinferior. Clinicamente, segue os mesmos protocolos de reperfusão do STEMI em geral, inclusive trombólise farmacológica quando a ICP-P não está disponível em tempo hábil.
+O infarto posteroinferior é um subtipo anatômico do infarto agudo do miocárdio, que já é uma indicação original do fármaco. A previsão, portanto, parece refletir a proximidade com a indicação-mãe no grafo de conhecimento, e não uma nova evidência. Em outras palavras, o potencial de reposicionamento é limitado: trata-se mais de uma extensão natural da indicação existente do que de um uso verdadeiramente novo.
 
-Portanto, a previsão do TxGNN não representa reposicionamento no sentido estrito: o mecanismo trombolítico de Tenecteplase aplica-se diretamente ao infarto posteroinferior como subclassificação anatômica do STEMI. O ensaio ASSENT-2 (Phase 3, n > 16.000), pivô da aprovação de Tenecteplase para STEMI, não excluiu pacientes com base na localização anatômica do infarto — incluindo, portanto, o subtipo posteroinferior. Isso confere base de evidências de nível L1 por cobertura direta da indicação aprovada.
-
----
+Outras previsões do modelo seguem a mesma lógica (infarto posterolateral e septal). Já as previsões para doenças como deleção parcial do braço curto do cromossomo 16, anemias hemolíticas hereditárias e deficiência de piruvato quinase não têm vínculo mecanístico plausível com a fibrinólise e provavelmente são artefatos do grafo.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados especificamente para infarto posteroinferior e Tenecteplase.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada especificamente para infarto posteroinferior e Tenecteplase.
+Atualmente não há literatura relacionada para a indicação principal (infarto posteroinferior).
 
----
+Como referência, as publicações recuperadas para previsões vizinhas (infarto septal e estenose coronariana) são apenas indiretamente relevantes. Destacam-se:
 
-## Informações de Comercialização no Brasil
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [31870492](https://pubmed.ncbi.nlm.nih.gov/31870492/) | 2020 | Estudo randomizado de viabilidade/segurança (40 pacientes) | Am J Cardiol | Tenecteplase intracoronária em baixa dose (4 mg) durante ICP primária no IAMCSST: viabilidade e segurança avaliadas contra solução salina |
+| [16053952](https://pubmed.ncbi.nlm.nih.gov/16053952/) | 2005 | Estudo comparativo | J Am Coll Cardiol | Angioplastia facilitada por tenecteplase vs. tenecteplase isolada em IAMCSST de alto risco (CAPITAL AMI) |
+| [17102829](https://pubmed.ncbi.nlm.nih.gov/17102829/) | 2006 | Estudo piloto de viabilidade | Can J Cardiol | Transferência para ICP urgente após trombólise no IAMCSST (TRANSFER-AMI) |
+| [23975441](https://pubmed.ncbi.nlm.nih.gov/23975441/) | 2014 | Série clínica | J Thromb Thrombolysis | Eficácia e segurança da tenecteplase ajustada ao peso em 30 pacientes com embolia pulmonar aguda |
+| [18183355](https://pubmed.ncbi.nlm.nih.gov/18183355/) | 2009 | Relato de caso | J Thromb Thrombolysis | Embolia pulmonar maciça que simulava infarto septal, tratada com tenecteplase |
+| [42220791](https://pubmed.ncbi.nlm.nih.gov/42220791/) | 2026 | Relato de caso | Cureus | Ruptura do septo ventricular após reperfusão fármaco-invasiva com tenecteplase em IAMCSST anterior |
 
-Tenecteplase possui **1 registro ativo no Brasil** com status de produto comercializado. Os detalhes do registro — número de registro, nome comercial, forma farmacêutica e texto integral da indicação aprovada — não foram recuperados no presente pacote de evidências. Para consulta completa, acesse diretamente a base de dados de medicamentos da ANVISA (Bulário Eletrônico / Consulta de Produtos Registrados).
-
----
+Nenhuma delas fornece evidência direta de eficácia para o infarto posteroinferior como indicação distinta.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Interações Medicamentosas** (100 interações registradas; principais exemplos):
+  - **Gravidade maior**: abciximabe, apixabana, acalabrutinibe, avapritinibe, betrixabana, deferasirox, ibritumomabe tiuxetana, tositumomabe. A maioria envolve aumento do risco de sangramento com anticoagulantes, antiagregantes e outros fármacos que afetam a hemostasia.
+  - **Gravidade moderada**: ácido acetilsalicílico, ibuprofeno, cetorolaco, celecoxibe, diclofenaco tópico, ácido aminocaproico, ácidos graxos ômega-3, fenfluramina, dexfenfluramina e sibutramina.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-O infarto posteroinferior é uma subclassificação anatômica do STEMI — indicação para a qual Tenecteplase já possui aprovação regulatória sustentada por ensaio de Phase 3 (ASSENT-2, n > 16.000) — tornando o mecanismo trombolítico diretamente aplicável sem necessidade de novos ensaios de Phase 3 específicos. A recomendação de avançar com cautela reflete as lacunas de dados ainda pendentes no registro brasileiro e nas informações de segurança.
+- A previsão principal é um subtipo anatômico de uma indicação já existente (infarto do miocárdio), sem ensaios clínicos nem publicações específicas; o nível de evidência é L5 e a pontuação alta do modelo não é respaldada por dados reais. O fármaco não possui registro comercializado no Brasil.
 
 **Para prosseguir, é necessário:**
-- Confirmar os detalhes do registro junto à ANVISA: número de registro, nome comercial, forma farmacêutica e indicação aprovada em bula (remediation DG001)
-- Obter dados formais do mecanismo de ação via DrugBank API (DrugBank ID: DB00031 — remediation DG002)
-- Recuperar advertências e contraindicações da bula ANVISA/TFDA, especialmente contraindicações à trombólise (cirurgia recente, sangramento ativo, AVC hemorrágico, HAS grave não controlada)
-- Verificar protocolos clínicos específicos para infarto posteroinferior, incluindo critérios diagnósticos por derivações posteriores (V7–V9) e manejo de complicações associadas (bloqueio AV, disfunção do VD em infarto de parede inferior)
-- Avaliar disponibilidade de ICP-P no contexto brasileiro e janela temporal para trombólise, considerando a infraestrutura hospitalar local
+- Dados do mecanismo de ação (MOA) detalhados a partir do DrugBank
+- Bula da ANVISA com advertências e contraindicações, hoje indisponível e que bloqueia a triagem de segurança
+- Esclarecer a situação regulatória no Brasil (não há registros vigentes)
+- Evidências clínicas específicas para o infarto posteroinferior, ou confirmação de que a indicação já está coberta pela indicação geral de infarto do miocárdio
+- Entre as demais previsões, apenas a estenose coronariana (nível L3, estudo de viabilidade de tenecteplase intracoronária) justifica uma questão de pesquisa; as previsões de doenças hematológicas e cromossômicas devem ser descartadas como provável artefato do grafo
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

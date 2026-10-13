@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lidocaine
-parent: Evidência Moderada (L3-L4)
-nav_order: 323
-evidence_level: L3
+parent: Apenas Predição do Modelo (L5)
+nav_order: 418
+evidence_level: L5
 indication_count: 10
 ---
 
 # Lidocaine
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,66 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Lidocaína: De Anestésico Local a Distúrbio Conjuntival
+# Lidocaína: De anestésico local à ceratoconjuntivite epitelial punctata
 
 ## Resumo em Uma Frase
 
-Lidocaína é um anestésico local e antiarrítmico de classe IB amplamente utilizado em procedimentos cirúrgicos, bloqueios nervosos regionais e manejo de arritmias ventriculares refratárias.
-O modelo TxGNN prevê que pode ser eficaz para **Distúrbio Conjuntival (Conjunctival Disorder)** — indicação com mecanismo de ação diretamente aplicável ao segmento ocular anterior —, atualmente com **17 ensaios clínicos** e **20 publicações** apoiando esta direção.
-
----
+A lidocaína é um anestésico local (bloqueador de canais de sódio), originalmente registrado na ANVISA como anestésico local.
+O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)**, mas, até o momento, **não há ensaios clínicos nem publicações** que apoiem diretamente esta previsão: ela se baseia apenas na pontuação computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anestesia local e regional; arritmia ventricular |
-| Nova Indicação Prevista | Distúrbio Conjuntival (Conjunctival Disorder) |
-| Pontuação de Previsão TxGNN | 99.84% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não localizado no sistema ANVISA (verificação manual recomendada) |
-| Número de Registros | 0 (não encontrado no sistema) |
-| Decisão Recomendada | Proceed with Guardrails |
-
-> **Nota sobre a previsão TxGNN:** A indicação com maior pontuação absoluta no modelo é *punctate epithelial keratoconjunctivitis* (99.99%, rank 1), porém sem qualquer evidência clínica ou laboratorial identificada (L5, Hold). A indicação *Conjunctival Disorder* (rank 6) apresenta a melhor combinação de pontuação e evidências, sendo adotada como foco deste relatório.
-
----
+| Indicação Original | Anestésicos locais |
+| Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
+| Pontuação de Previsão TxGNN | 99,99% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente não há dados detalhados sobre o mecanismo de ação extraídos do DrugBank para este ciclo de análise. Com base no conhecimento farmacológico estabelecido, a lidocaína é um bloqueador de canais de sódio voltagem-dependentes (Nav1.x) da classe aminoamida. Ao se ligar ao estado inativado do canal, impede a geração e propagação de potenciais de ação em fibras nervosas sensitivas e motoras. Sistemicamente, esse mecanismo confere também propriedades antiarrítmicas (classe IB) e anti-inflamatórias mediadas pela supressão da atividade ectópica neuronal.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a lidocaína é um bloqueador de canais de sódio com ação anestésica local, e sua eficácia como anestésico está bem estabelecida.
 
-A relação entre lidocaína e distúrbios conjuntivais não é especulativa: trata-se de uma aplicação **clinicamente estabelecida**. A lidocaína tópica em gel 2% ou colírio é utilizada rotineiramente como anestésico padrão em cirurgias conjuntivais — excisão de pterígio, injeções intravítreas, trabeculectomia e vitrectomia posterior —, agindo diretamente sobre as terminações nervosas do epitélio conjuntival e escleral. O TxGNN reconhece essa ligação estrutural no grafo de conhecimento ao associar o composto à entidade anatômica "conjunctiva".
+Mecanisticamente, a anestesia da superfície ocular poderia aliviar a dor associada à ceratoconjuntivite epitelial punctata. Trata-se, porém, de um efeito sintomático, e não modificador da doença. A pontuação TxGNN muito alta (0,9999) é uma previsão computacional, sem respaldo de ensaios ou literatura nesta condição.
 
-Adicionalmente, há uma segunda via mecanística relevante: na síndrome SUNCT/SUNA (*Short-lasting Unilateral Neuralgiform headache attacks with Conjunctival injection and Tearing*), a lidocaína intravenosa é empregada para interromper a cascata trigeminal-autonômica que produz, como sintoma cardinal, injeção conjuntival e lacrimejamento ipsilateral. Ensaios prospectivos e meta-análises (PMID 33361408) documentam essa eficácia. A convergência dessas duas vias — anestesia tópica local e bloqueio central trigeminal — explica por que o modelo TxGNN associa consistentemente a lidocaína a múltiplas entidades conjuntivais entre as previsões de rank mais alto.
-
----
-
-## Evidências de Ensaios Clínicos
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT05978687](https://clinicaltrials.gov/study/NCT05978687) | Phase 4 | Concluído | 41 | Comparação entre gel de lidocaína tópico (*Ophtesic*) e injeção subconjuntival de xilocaína em excisão de pterígio; gel oferece contato superficial prolongado e proteção contra dessecação corneana |
-| [NCT02324166](https://clinicaltrials.gov/study/NCT02324166) | Phase 4 | Desconhecido | 54 | Solução combinada cefazolina-lidocaína para reduzir dor associada à profilaxia antibiótica subconjuntival em cirurgia vítreo-retiniana |
-| [NCT01087489](https://clinicaltrials.gov/study/NCT01087489) | N/A | Concluído | 53 | Comparação de dois protocolos anestésicos (swabs com lidocaína 4% em gotas vs gel lidocaína HCl 3,5%) para injeções intravítreas; avaliação de conforto na região conjuntival |
-| [NCT02150460](https://clinicaltrials.gov/study/NCT02150460) | Phase 4 | Concluído | 100 | ECR duplo-cego de bloqueio peribulbar com lidocaína (1 vs 2 sítios de injeção) em cirurgia de catarata em pacientes nigerianos; eficácia e segurança anestésica ocular |
-| [NCT03397069](https://clinicaltrials.gov/study/NCT03397069) | N/A | Concluído | 90 | Adição de midazolam à lidocaína em bloqueio peribulbar para cirurgia de catarata; avaliação de duração da ação anestésica |
-| [NCT03189329](https://clinicaltrials.gov/study/NCT03189329) | Phase 4 | Concluído | 66 | Bloqueio retrobulbar com lidocaína 2% vs levobupivacaína 0,5% em cirurgia vítreo-retiniana; impacto sobre saturação cerebral de O₂ e funções cognitivas pós-operatórias em idosos |
-
----
-
-## Evidências da Literatura
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [18989343](https://pubmed.ncbi.nlm.nih.gov/18989343/) | 2009 | ECR | Eye (London) | ECR comparando gel de lidocaína 2% vs tetracaína 1% em cirurgia primária de pterígio; lidocaína gel demonstrou eficácia anestésica equivalente como agente tópico único |
-| [15799734](https://pubmed.ncbi.nlm.nih.gov/15799734/) | 2005 | Estudo clínico | Acta Ophthalmol Scand | Gel de lidocaína 2% como anestésico tópico eficaz em cirurgia de pterígio, eliminando necessidade de injeção subconjuntival |
-| [16954710](https://pubmed.ncbi.nlm.nih.gov/16954710/) | 2006 | Estudo clínico | Ophthalmologica | Gel de lidocaína 2% (viscosa) reduz significativamente a dor pós-operatória após cirurgia de pterígio |
-| [23330822](https://pubmed.ncbi.nlm.nih.gov/23330822/) | 2013 | Estudo clínico | Current Eye Research | Avaliação de diferentes anestésicos tópicos (incluindo lidocaína) e anti-inflamatórios em injeções intravítreas; impacto sobre dor ocular peri-procedimento |
-| [10696746](https://pubmed.ncbi.nlm.nih.gov/10696746/) | 2000 | Estudo clínico | Retina | Anestesia tópica com lidocaína como alternativa eficaz à anestesia peribulbar/retrobulbar em vitrectomia posterior |
-| [33361408](https://pubmed.ncbi.nlm.nih.gov/33361408/) | 2021 | Prospectivo + meta-análise | J Neurol Neurosurg Psychiatry | Lidocaína IV como opção terapêutica em SUNCT/SUNA (síndrome cujo sintoma cardinal é injeção conjuntival); estudo prospectivo com meta-análise de braço único |
-| [34003160](https://pubmed.ncbi.nlm.nih.gov/34003160/) | 2021 | Review | Neurology India | Revisão atualizada de SUNCT/SUNA: papel da lidocaína IV no manejo das crises com injeção conjuntival e lacrimejamento |
-| [38415675](https://pubmed.ncbi.nlm.nih.gov/38415675/) | 2024 | Review | Cephalalgia | Atualização sobre SUNHA 2024: lidocaína entre as abordagens terapêuticas para crises com sintomas conjuntivais; debate sobre evidências atuais |
-| [21876597](https://pubmed.ncbi.nlm.nih.gov/21876597/) | 2011 | Case series | NEPJOPH | Oftalmomíase humana: lidocaína tópica utilizada na imobilização e remoção de larvas com envolvimento periocular e conjuntival |
-| [19250287](https://pubmed.ncbi.nlm.nih.gov/19250287/) | 2009 | Review / Case series | Cephalalgia | Efeitos colaterais neuropsiquiátricos da lidocaína no tratamento de cefaleia refratária; série de 20 pacientes e revisão sistemática |
-
----
+**Outras indicações previstas (resumo):** a previsão de maior suporte é a de **distúrbio conjuntival** (nível L3), com dois ensaios clínicos e literatura sobre uso em cirurgia de pterígio, mas tratando-se de anestesia procedimental, que se sobrepõe ao uso original. A **conjuntivite atópica** (L4) tem apoio mecanístico indireto (via de sinalização nervosa). As demais previsões (conjuntivite papilar, conjuntivite rosácea, ceratite por exposição, síndrome nefrótica, doença animal não humana, tinea corporis, síndrome nefrótica esteroide-resistente) permanecem em L5, sem evidência de benefício. Na ceratite por exposição, anestésicos tópicos costumam ser desaconselhados por prejudicarem a cicatrização epitelial.
 
 ## Informações de Comercialização no Brasil
 
-Nenhum registro foi localizado no sistema ANVISA para Lidocaína neste ciclo de consulta (data de corte: 2026-04-20). Este resultado é inesperado dado o amplo uso clínico e a longa história regulatória do fármaco. Recomenda-se verificação direta no portal da ANVISA (consulta.anvisa.gov.br) para confirmar o status atual dos registros.
+Todos os 20 registros estão cancelados; não há produto de lidocaína com registro válido nos dados compilados. Principais registros:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 155840162 | LIDOGEL | Não informada | Anestésicos locais |
+| Registro 104400188 | LIDIAL | Não informada | Anestésicos locais |
+| Registro 105730589 | DERMOMAX | Não informada | Anestésicos |
+| Registro 102980365 | XYLESTESIN ISOBÁRICO | Não informada | Medicamentos com ação no miocárdio |
+| Registro 165070015 | Cloridrato de Lidocaína | Não informada | Anestésicos locais |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (não é texto de bula):** o grafo de conhecimento associa a lidocaína a contraindicações em doenças como hipertensão, insuficiência hepática, epilepsia, doença renal, cirrose, insuficiência adrenocortical, hipotireoidismo, glaucoma de ângulo aberto, osteoporose, transtornos psicóticos, infecções fúngicas e gastrite, entre outras. Devem ser verificadas na bula.
+- **Interações medicamentosas (100 registradas):** entre as principais, a interação **Maior** com **bupropiona**; interações **Moderadas** com aprepitanto, cimetidina, morfina lipossomal, ácido obeticólico, polietilenoglicol (3350 com eletrólitos), ácido picossulfúrico e sulfato de sódio; interações Menores com dexametasona, canamicina, neomicina, omeprazol, estreptomicina e troglitazona.
+- **Sinais de segurança na literatura:** metemoglobinemia em criança com síndrome nefrótica com uso tópico de lidocaína, benzocaína e cotrimoxazol (PMID 41995267); convulsões em macacos após ceftriaxona dissolvida em lidocaína 1% (PMID 19858165); efeitos neuropsiquiátricos e cardiológicos da lidocaína intravenosa (PMID 19250287); alteração da ligação a proteínas plasmáticas na doença renal (PMID 7037263).
 
----
+Para as advertências e contraindicações oficiais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-A utilização de lidocaína em distúrbios conjuntivais não configura reposicionamento especulativo: múltiplos ensaios de Fase 4 já completados documentam o uso direto do fármaco em cirurgias conjuntivais, e estudos clínicos prospectivos demonstram eficácia no tratamento de SUNCT/SUNA, condição que tem injeção conjuntival como critério diagnóstico. A previsão TxGNN reflete, portanto, uma aplicação clinicamente estabelecida que carece de indicação formal registrada — cenário favorável para extensão de indicação ou posicionamento de produto dedicado.
+- Para a indicação principal prevista (ceratoconjuntivite epitelial punctata), não há ensaios clínicos nem literatura. A previsão é apenas computacional (L5), e todos os registros no Brasil estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Confirmar registros ANVISA atualizados com consulta direta ao portal da Agência (discrepância entre uso clínico estabelecido e zero registros no sistema)
-- Obter bula completa (PDF ANVISA) para extração de advertências, contraindicações e interações medicamentosas
-- Definir qual subtipo específico de "distúrbio conjuntival" representa a maior oportunidade terapêutica não atendida (pterígio, anestesia para injeções intravítreas, SUNCT/SUNA)
-- Avaliar viabilidade regulatória de extensão formal de indicação com base nos dados de Fase 4 existentes
-- Mapear formulações oftálmicas de lidocaína disponíveis no mercado brasileiro (gel, colírio, solução injetável subconjuntival)
+- Obter e analisar a bula oficial da ANVISA (advertências e contraindicações), uma lacuna que impede a triagem de segurança.
+- Obter dados do mecanismo de ação (por exemplo, via DrugBank).
+- Realizar revisão da literatura e estudos pré-clínicos específicos para ceratoconjuntivite epitelial punctata, avaliando o risco de toxicidade epitelial corneana com anestésicos tópicos.
+- Definir via de administração e formulação oftálmica, já que a compatibilidade de via ainda está pendente.
+- Como alternativa, priorizar a linha de **distúrbio conjuntival** (L3) ou **conjuntivite atópica** (L4, hipótese neural), tratadas como questões de pesquisa.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

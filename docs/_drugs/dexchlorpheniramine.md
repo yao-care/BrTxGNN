@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dexchlorpheniramine
-parent: Evidência Alta (L1-L2)
-nav_order: 217
-evidence_level: L2
+parent: Evidência Moderada (L3-L4)
+nav_order: 260
+evidence_level: L3
 indication_count: 2
 ---
 
 # Dexchlorpheniramine
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **2** 
+Nível de evidência: **L3** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,69 @@ Nível de evidência: **L2** | Indicações previstas: **2**
 
 </div>
 
-Com base no Evidence Pack fornecido, segue o relatório de avaliação de reposicionamento:
-
----
-
-# Dexchlorpheniramine: De antihistamínico H1 de 1ª geração para urticária alérgica
+# Dexclorfeniramina: De anti-histamínico sistêmico para urticária alérgica
 
 ## Resumo em Uma Frase
 
-Dexchlorpheniramine é o enantiômero ativo (dextroisômero R) da clorfeniramina, um antihistamínico H1 de primeira geração classicamente utilizado no manejo de condições alérgicas, porém sem registro ativo na ANVISA.
-O modelo TxGNN prevê que pode ser eficaz para **Urticária Alérgica (Allergic Urticaria)**, atualmente com **0 ensaios clínicos registrados** e **6 publicações** apoiando esta direção.
-A pontuação TxGNN de 99,89% e o alinhamento mecanístico direto fundamentam a recomendação de **Proceed with Guardrails**.
-
----
+Dexclorfeniramina é um anti-histamínico H1 de primeira geração, registrado no Brasil como anti-histamínico sistêmico.
+O modelo TxGNN prevê que pode ser eficaz para **Urticária Alérgica (Allergic Urticaria)**,
+atualmente com **nenhum ensaio clínico registrado** e **3 publicações** relacionadas (apenas estudos farmacodinâmicos e um relato de caso de outra forma de urticária) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Antihistamínico H1 de 1ª geração (sem registro formal no Brasil) |
+|------|------|
+| Indicação Original | Anti-histamínicos sistêmicos |
 | Nova Indicação Prevista | Urticária Alérgica (Allergic Urticaria) |
 | Pontuação de Previsão TxGNN | 99,89% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Nível de Evidência | L3 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 1 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Dexchlorpheniramine é o isômero dextrógiro da clorfeniramina, pertencente à classe dos antihistamínicos H1 de primeira geração. Embora os dados formais de MOA estejam pendentes de complementação via DrugBank (lacuna DG002), o mecanismo farmacológico da classe é amplamente estabelecido: a molécula atua como antagonista competitivo do receptor H1, bloqueando a ligação da histamina liberada por mastócitos e basófilos após sensibilização alérgena — inibindo assim vasodilatação, aumento da permeabilidade vascular e estímulo nociceptivo responsáveis pelo prurido.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a dexclorfeniramina é um antagonista (agonista inverso) do receptor H1 de histamina, de primeira geração, e sua classe terapêutica já é a indicada originalmente no registro brasileiro.
 
-A urticária alérgica tem como eixo fisiopatológico central exatamente esses eventos. A exposição ao alérgeno desencadeia desgranulação de mastócitos dérmicos, com liberação de histamina que ativa receptores H1 em células endoteliais e fibras nervosas sensoriais, resultando em pápulas eritematosas pruriginosas e eritema circundante. O bloqueio desse receptor pelo dexchlorpheniramine ataca diretamente os mediadores responsáveis pela lesão clínica característica da doença.
+Na urticária alérgica, a liberação de histamina pelos mastócitos age sobre receptores H1 na vasculatura e nas fibras nervosas sensitivas da pele, produzindo o clássico "vergão e eritema" (wheal and flare). O bloqueio H1 é a base farmacológica padrão do tratamento da urticária, portanto o vínculo mecanístico é forte.
 
-Complementarmente, literatura de base mecanística (PMID 2523357) documenta que antihistamínicos desta classe exercem efeitos anti-inflamatórios multimodais — inibição da quimiotaxia de eosinófilos e da ativação plaquetária dependente de IgE — que conferem suporte além do simples antagonismo H1. O estudo farmacológico controlado conduzido no Brasil (PMID 29723372) avaliou diretamente a potência de supressão de pápula e eritema do dexchlorpheniramine frente a outros antihistamínicos disponíveis no mercado brasileiro, reforçando a relevância local da molécula.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados (ClinicalTrials.gov e ICTRP consultados em 26/03/2026).
-
----
+Vale ressaltar que, na prática, trata-se de um uso dentro da própria classe e muito próximo da indicação original, e não de um reposicionamento genuíno. A pontuação elevada do TxGNN (99,89%) é coerente com essa farmacologia já estabelecida. Uma segunda previsão, **urticária ao frio** (pontuação de 99,61%), também é plausível pelo mesmo raciocínio de classe, mas sem nenhuma evidência específica do fármaco (nível L5, decisão Hold).
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [39265704](https://pubmed.ncbi.nlm.nih.gov/39265704/) | 2024 | Estudo Clínico Comparativo (Fase I RCT) | Eur J Pharm Sci | Comparação entre bilastina oral, dexchlorpheniramine parenteral e nova formulação parenteral de bilastina na supressão de pápula e eritema induzidos por histamina; dexchlorpheniramine utilizado como comparador ativo de referência padrão |
-| [29723372](https://pubmed.ncbi.nlm.nih.gov/29723372/) | 2018 | Estudo Farmacodinâmico Controlado | An Bras Dermatol | Avaliação comparativa da potência dos principais antihistamínicos H1 comercializados no Brasil; dexchlorpheniramine demonstrou supressão significativa da resposta ao teste de histamina cutânea |
-| [39803](https://pubmed.ncbi.nlm.nih.gov/39803/) | 1979 | Estudo Clínico Inicial | Dermatologica | Caso de urticária de contato por calor adquirida em mulher jovem; documenta resposta ao tratamento antihistamínico e parâmetros imunológicos envolvidos na urticária física |
-| [2523357](https://pubmed.ncbi.nlm.nih.gov/2523357/) | 1989 | Estudo Mecanístico In Vitro | Int Arch Allergy | Documentação de mecanismos anti-inflamatórios adicionais de antihistamínicos H1 — inibição de quimiotaxia eosinofílica e ativação plaquetária IgE-dependente; relevante para a compreensão das ações de classe do dexchlorpheniramine |
-| [28601540](https://pubmed.ncbi.nlm.nih.gov/28601540/) | 2017 | Relato de Caso | Am J Med | Fibrilação atrial em anafilaxia; uso de dexchlorpheniramine no manejo de reação alérgica grave com complicação cardiovascular, ilustrando aplicação clínica em contexto agudo |
-| [26179134](https://pubmed.ncbi.nlm.nih.gov/26179134/) | 2015 | Relato de Caso | Contact Dermatitis | Angioedema palpebral e dermatite de contato alérgica por cerumenolítico; dexchlorpheniramine empregado no manejo de reação alérgica com componente urticariforme |
+|------|-----|------|------|---------|
+| [39265704](https://pubmed.ncbi.nlm.nih.gov/39265704/) | 2024 | Ensaio randomizado de fase I (farmacodinâmico) | Eur J Pharm Sci | Compara a inibição do vergão e eritema induzidos por histamina entre bilastina oral, dexclorfeniramina parenteral e nova formulação parenteral de bilastina; a dexclorfeniramina serve como comparador |
+| [29723372](https://pubmed.ncbi.nlm.nih.gov/29723372/) | 2018 | Estudo farmacodinâmico comparativo | An Bras Dermatol | Compara a supressão do vergão e eritema no teste de histamina pelos principais anti-histamínicos H1 comercializados no Brasil |
+| [39803](https://pubmed.ncbi.nlm.nih.gov/39803/) | 1979 | Estudo clínico/imunológico (relato de caso) | Dermatologica | Caso de urticária de contato por calor adquirida em uma mulher jovem; pequena escala e antigo, com relevância indireta |
 
----
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 143810082 (cancelado) | DEXMINE | Não informada | Anti-histamínicos sistêmicos |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança. *(Dados de advertências, contraindicações e interações medicamentosas não disponíveis nesta versão do Evidence Pack — lacunas DG001 e DG002 pendentes de resolução via bula ANVISA/TFDA e DrugBank API.)*
+- **Contraindicações descritas no grafo de conhecimento (não extraídas da bula)**: o grafo de conhecimento do TxGNN associa o fármaco a contraindicações em diversas condições, entre elas: hipertensão, insuficiência hepática e doença hepática, epilepsia, úlcera gástrica/péptica, doença renal, pancreatite, doença da vesícula biliar, hipotireoidismo, doença inflamatória intestinal, diabetes mellitus e cetoacidose diabética, hiperplasia prostática benigna, hipotensão, abuso/dependência de substâncias, doença arterial coronariana e infarto do miocárdio, hipertensão ocular, entre outras. Esses dados são relações computacionais e devem ser confirmados na bula oficial.
+- **Interações Medicamentosas**: nenhuma interação foi encontrada nos dados compilados.
 
----
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-O alinhamento entre o mecanismo de antagonismo H1 do dexchlorpheniramine e a fisiopatologia central da urticária alérgica é direto e bem fundamentado farmacologicamente; estudos farmacodinâmicos controlados — incluindo um conduzido no próprio Brasil — demonstram eficácia quantificável na supressão da resposta histamínica cutânea. O principal obstáculo é a ausência de registro na ANVISA e de dados formais de segurança neste pacote de evidências.
+- O mecanismo é plausível e a pontuação do TxGNN é alta, mas não há ensaios clínicos e a literatura disponível é de natureza farmacodinâmica ou indireta (L3). Além disso, o único registro no Brasil está cancelado, e faltam dados formais de segurança da bula, o que impede avançar na triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Resolver lacuna DG001: obter bula ANVISA/TFDA para levantamento completo de advertências e contraindicações (severidade **Blocking**)
-- Resolver lacuna DG002: confirmar MOA formal via DrugBank API (severidade **High**)
-- Investigar se existem registros ANVISA de produtos **combinados** contendo dexchlorpheniramine (e.g., formulações antitussígenas ou antigripais) que possam viabilizar uso off-label em urticária
-- Conduzir revisão sistemática comparando dexchlorpheniramine (1ª geração, perfil sedativo) com antihistamínicos de 2ª geração nas diretrizes brasileiras de urticária (SBD/SBAI), avaliando se o perfil de segurança justifica posicionamento em sub-populações específicas
-- Avaliar viabilidade de estudo clínico controlado no Brasil caso a estratégia regulatória prossiga, com desfecho primário em escore de atividade de urticária (UAS7)
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência bloqueante
+- Complementar os dados de mecanismo de ação (DrugBank)
+- Verificar a situação regulatória atual: há apenas um registro cancelado, sem produto válido no mercado
+- Buscar ensaios clínicos ou revisões sistemáticas específicos da dexclorfeniramina em urticária alérgica
+- Avaliar a compatibilidade de vias de administração e formas farmacêuticas, ainda pendente
+- Considerar que anti-histamínicos de segunda geração são alternativas já consolidadas, o que reduz o valor incremental do reposicionamento
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

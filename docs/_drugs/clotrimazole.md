@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Clotrimazole
-parent: Evidência Moderada (L3-L4)
-nav_order: 198
-evidence_level: L3
+parent: Evidência Alta (L1-L2)
+nav_order: 236
+evidence_level: L1
 indication_count: 10
 ---
 
 # Clotrimazole
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L1** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,17 +29,13 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Com base no Evidence Pack fornecido e seguindo o formato do sistema, aqui está o relatório completo:
-
----
-
-# Clotrimazole: Das infecções fúngicas ao acne
+# Clotrimazol: De antimicótico tópico para vulvovaginite (candidiásica)
 
 ## Resumo em Uma Frase
 
-Clotrimazole é um antifúngico azólico sintético de amplo espectro, amplamente utilizado no tratamento de infecções fúngicas superficiais como tinea pedis, candidíase vulvovaginal e candidíase orofaríngea.
-O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, com pontuação de previsão de **99,86%**.
-Atualmente há apenas **1 ensaio clínico** (em estado suspenso, formulação combinada) e **nenhuma publicação científica** apoiando especificamente esta direção para uso isolado do fármaco.
+Clotrimazol é um antifúngico azólico de uso tópico, originalmente registrado no Brasil como antimicótico para uso tópico e como anti-infeccioso ginecológico.
+O modelo TxGNN prevê que pode ser eficaz para **Vulvovaginite (vulvovaginitis)**,
+atualmente com **12 ensaios clínicos** e **20 publicações** apoiando esta direção. Trata-se, na prática, de um uso já estabelecido (on-label) e não de um reposicionamento genuíno.
 
 ---
 
@@ -47,23 +43,25 @@ Atualmente há apenas **1 ensaio clínico** (em estado suspenso, formulação co
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antifúngico tópico (tinea, candidíase) — sem registro no Brasil |
-| Nova Indicação Prevista | Acne (acne (disease)) |
-| Pontuação de Previsão TxGNN | 99,86% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros ANVISA | 0 |
-| Decisão Recomendada | Hold |
+| Indicação Original | Antimicóticos para uso tópico |
+| Nova Indicação Prevista | Vulvovaginite (vulvovaginitis) |
+| Pontuação de Previsão TxGNN | 99,59% |
+| Nível de Evidência | L1 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 |
+| Decisão Recomendada | Proceed with Guardrails |
+
+> Observação: a pontuação TxGNN refere-se à vulvovaginite (2ª posição do ranking). A 1ª posição do modelo é acne (99,86%), mas com evidência fraca (L4, decisão Hold); por isso este relatório foca na indicação com maior respaldo clínico.
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Com base no conhecimento farmacológico publicado, Clotrimazole é um imidazol sintético que inibe a enzima CYP51 (lanosterol 14α-desmetilase) dos fungos, bloqueando a biossíntese de ergosterol — componente essencial da membrana fúngica. Este mecanismo resulta em aumento da permeabilidade celular e morte do organismo fúngico (PMID 24863842).
+Atualmente, não há dados detalhados de mecanismo de ação nos dados compilados. Segundo informações conhecidas, o clotrimazol é um antifúngico azólico que inibe a lanosterol 14-alfa-desmetilase, enzima da síntese de ergosterol, componente essencial da membrana fúngica. Esse efeito é fungistático e, em concentrações maiores, pode ser fungicida.
 
-A relação mecanística entre Clotrimazole e acne é indireta. O fármaco possui atividade comprovada contra *Malassezia* spp., responsável pela foliculite por *Malassezia* (pityrosporum folliculitis), uma condição frequentemente confundida clinicamente com acne vulgar. Contudo, o acne verdadeiro é uma doença inflamatória primariamente desencadeada por *Cutibacterium acnes* (bactéria Gram-positiva), que não possui parede celular com ergosterol — o alvo do Clotrimazole — e portanto não é susceptível ao seu mecanismo antifúngico.
+A indicação original (antimicótico tópico e anti-infeccioso ginecológico) e a nova indicação (vulvovaginite, em especial a candidiásica) são praticamente a mesma área terapêutica: infecção fúngica de mucosa genital por *Candida*. Um dos registros brasileiros (GINO-CANESTEN) já está classificado como anti-infeccioso ginecológico.
 
-O único ensaio clínico identificado (NCT01244256) avaliou uma combinação tripla de beclometasona + gentamicina + Clotrimazole, o que impossibilita isolar qualquer contribuição do Clotrimazole. O ensaio foi suspenso sem divulgação do motivo, levantando dúvidas adicionais de segurança ou viabilidade. A alta pontuação TxGNN provavelmente reflete sobreposição de categorias de doença inflamatória cutânea no grafo do conhecimento, e não uma relação mecanística direta com o acne vulgar.
+Por isso o mecanismo é plenamente aplicável. Ressalva importante: a previsão vale para a vulvovaginite **candidiásica**. Para etiologias bacterianas ou tricomonas, o clotrimazol não é tratamento de primeira linha.
 
 ---
 
@@ -71,54 +69,89 @@ O único ensaio clínico identificado (NCT01244256) avaliou uma combinação tri
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT01244256](https://clinicaltrials.gov/study/NCT01244256) | Phase 2/3 | Suspenso | 80 | Estudo comparativo da combinação Clotrimazole + Gentamicina + Beclometasona em pacientes com dermatose contaminada e lesões simétricas bilaterais. Ensaio suspenso; motivo não divulgado. Impossível isolar a contribuição individual do Clotrimazole. |
+| [NCT00755053](https://clinicaltrials.gov/study/NCT00755053) | Phase 3 | Concluído | 466 | Não inferioridade do óvulo de clotrimazol 500 mg frente ao comprimido vaginal 500 mg em candidíase vaginal |
+| [NCT00313131](https://clinicaltrials.gov/study/NCT00313131) | Phase 3 | Concluído | 1524 | Tinidazol+fluconazol em dose única vs. metronidazol+clotrimazol por mais dias em corrimento vaginal (África Ocidental); clotrimazol como parte do regime comparador |
+| [NCT06835361](https://clinicaltrials.gov/study/NCT06835361) | Phase 2/3 | Recrutando | 264 | Clotrimazol+lactulose vs. clotrimazol isolado (Canesten®) em vulvovaginite candidiásica; sem resultados ainda |
+| [NCT02180828](https://clinicaltrials.gov/study/NCT02180828) | Phase 4 | Concluído | 240 | Comprimido vaginal de clotrimazol vs. fluconazol em candidíase vulvovaginal grave |
+| [NCT02242695](https://clinicaltrials.gov/study/NCT02242695) | Phase 4 | Concluído | 150 | Cloreto de dequalínio vs. clotrimazol 100 mg (comparador ativo) em candidíase vulvovaginal |
+| [NCT04699240](https://clinicaltrials.gov/study/NCT04699240) | Phase 4 | Concluído | 140 | Comprimidos vaginais de clotrimazol com ou sem *Lactobacillus* oral na prevenção de recorrência |
+| [NCT03005353](https://clinicaltrials.gov/study/NCT03005353) | Phase 2/3 | Concluído | 100 | Supositórios de extrato de cominho vs. comparador (provavelmente clotrimazol) em vulvovaginite candidiásica |
+| [NCT03024502](https://clinicaltrials.gov/study/NCT03024502) | Phase 1/2 | Desconhecido | 90 | Gel mucoadesivo de própolis (EPP-AF) comparado a creme de clotrimazol |
+| [NCT03115073](https://clinicaltrials.gov/study/NCT03115073) | Phase 2/3 | Concluído | 84 | ProF-001/Candiplus® em três doses vs. creme vaginal de clotrimazol 1% (controle ativo) |
+| [NCT02248506](https://clinicaltrials.gov/study/NCT02248506) | Phase 4 | Concluído | 56 | Estudo epidemiológico da evolução clínica e microbiológica após tratamento de candidíase vulvovaginal aguda |
+
+Outros ensaios registrados incluem um estudo pós-comercialização de segurança do creme Empecid L (NCT03599323, n=1033, concluído), um estudo retirado (NCT02907307) e um estudo de laser de CO2 (NCT04292704).
 
 ---
 
 ## Evidências da Literatura
 
-Atualmente não há literatura científica relacionada ao uso de Clotrimazole especificamente para acne.
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [3895960](https://pubmed.ncbi.nlm.nih.gov/3895960/) | 1985 | RCT | Am J Obstet Gynecol | Comprimido único de clotrimazol 500 mg comparado a 6 dias de comprimidos de 100 mg em vulvovaginite candidiásica (n=199) |
+| [30565745](https://pubmed.ncbi.nlm.nih.gov/30565745/) | 2019 | RCT | Mycoses | Probióticos e lactoferrina como manutenção na candidíase vulvovaginal recorrente |
+| [41765149](https://pubmed.ncbi.nlm.nih.gov/41765149/) | 2026 | RCT | Complement Ther Med | Creme de *Prangos ferulacea* vs. creme vaginal de clotrimazol na vulvovaginite por *Candida* |
+| [2644595](https://pubmed.ncbi.nlm.nih.gov/2644595/) | 1989 | Estudo clínico | Obstet Gynecol | Supositórios de clotrimazol 500 mg induziram remissão clínica em 90,4% de 42 mulheres com candidíase recorrente |
+| [32992877](https://pubmed.ncbi.nlm.nih.gov/32992877/) | 2020 | Revisão sistemática | Pharmaceuticals | Mais de 45 anos de experiência clínica com clotrimazol na candidose vulvovaginal |
+| [24863842](https://pubmed.ncbi.nlm.nih.gov/24863842/) | 2014 | Revisão | J Appl Microbiol | Clotrimazol como fármaco: passado, presente e futuro; inibe a biossíntese de ergosterol |
+| [39432168](https://pubmed.ncbi.nlm.nih.gov/39432168/) | 2024 | Retrospectivo | Mycopathologia | Esquema de três doses melhora a eficácia na candidíase vulvovaginal grave (n=1303) |
+| [41350226](https://pubmed.ncbi.nlm.nih.gov/41350226/) | 2025 | Coorte | Pharmacoepidemiol Drug Saf | Risco de malformações congênitas maiores com antifúngicos tópicos no primeiro trimestre |
+| [40886781](https://pubmed.ncbi.nlm.nih.gov/40886781/) | 2025 | In vitro/ex vivo | Pharmacol Res | Azólicos clássicos, incluindo clotrimazol, afetam a atividade esteroidogênica em modelo de placenta humana |
+| [40464716](https://pubmed.ncbi.nlm.nih.gov/40464716/) | 2025 | Revisão | Expert Rev Anti Infect Ther | Perspectivas de tratamentos azólicos não invasivos para candidíase vulvovaginal |
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-Clotrimazole não possui nenhum registro ativo na ANVISA. O medicamento não está comercializado no mercado brasileiro em nenhuma indicação.
+Todos os 20 registros encontrados estão **cancelados**; não há registro válido atualmente. Principais exemplos:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 170560102 | Canesten | Não informada | Antimicóticos para uso tópico |
+| Registro nº 170560124 | Gino-Canesten | Não informada | Anti-infecciosos e antissépticos ginecológicos excluindo associações com corticosteroides |
+| Registro nº 105710162 | Clotrimazol | Não informada | Antimicótico |
+| Registro nº 103900217 | Clotrimix | Não informada | Antimicóticos para uso tópico |
+| Registro nº 103700249 | Clotren | Não informada | Antimicóticos para uso tópico |
+
+---
+
+## Citotoxicidade
+
+Seção não aplicável: o clotrimazol não é um antineoplásico.
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações descritas no grafo de conhecimento** (relações fármaco-doença, não texto de bula): insuficiência adrenocortical, doença de Addison, atrofia da pele, telangiectasia, doença capilar, telangiectasia hemorrágica hereditária, doença vascular periférica, claudicação vascular intermitente e doença arterial periférica. Devem ser confirmadas na bula, pois podem refletir associações com corticosteroides presentes em combinações.
+- **Interações medicamentosas** (100 interações registradas; exemplos de maior gravidade):
+  - **Graves (Major):** fentanila, alfentanila, amiodarona, hidrocodona.
+  - **Moderadas:** abemaciclibe, paclitaxel, acalabrutinibe, nifedipino, levonorgestrel, alfuzosina, aliskireno, estradiol, alprazolam, noretisterona, amlodipino, apixabana, aprepitanto.
+  - **Leves (Minor):** dolutegravir, anfotericina B.
+- **Gravidez:** há estudo de coorte (2025) sobre malformações após exposição tópica no primeiro trimestre e dados in vitro sobre efeitos esteroidogênicos na placenta; esses dados devem ser revisados antes do uso em gestantes.
+
+Para advertências e contraindicações formais, consulte a bula.
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Embora a pontuação do TxGNN para acne seja elevada (99,86%), a base mecanística é fundamentalmente fraca — Clotrimazole não possui atividade relevante contra *Cutibacterium acnes*, o principal agente causador do acne vulgar, pois este organismo não contém ergosterol. O único ensaio clínico disponível foi suspenso e avalia uma formulação combinada, não permitindo nenhuma conclusão sobre o Clotrimazole isolado, e não há qualquer literatura de suporte.
+Há vários ensaios de Phase 3 concluídos e décadas de literatura clínica sustentando o clotrimazol na vulvovaginite candidiásica (L1), mas trata-se de uso já estabelecido, e todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Esclarecer previamente se o alvo terapêutico real é a foliculite por *Malassezia* (clinicamente confundida com acne), caso em que o mecanismo antifúngico poderia ser justificável
-- Conduzir estudos pré-clínicos in vitro com Clotrimazole em modelos de foliculite fúngica
-- Obter dados completos do mecanismo de ação via DrugBank API (remediação já identificada no Evidence Pack como DG002)
-- Solicitar registro regulatório na ANVISA antes de qualquer desenvolvimento clínico no Brasil
+- Verificar a disponibilidade de produto e formulação no Brasil, já que não há registro válido.
+- Restringir a indicação à vulvovaginite candidiásica (não bacteriana nem tricomonal).
+- Obter dados de bula da ANVISA (advertências e contraindicações) e de mecanismo de ação.
+- Revisar a segurança na gravidez (exposição tópica no primeiro trimestre) e as interações relevantes.
 
----
-
-> **📋 Contexto: Outras Indicações no Evidence Pack**
->
-> Este Evidence Pack contém 10 indicações previstas com perfis de evidência muito distintos. As indicações de maior potencial de desenvolvimento imediato são:
->
-> | Rank | Indicação | Nível de Evidência | Recomendação | Ensaios / Publicações |
-> |------|-----------|-------------------|--------------|----------------------|
-> | 2 | Vulvovaginite (vulvovaginitis) | **L1** | **Proceed with Guardrails** | 22 ensaios / 20 publicações |
-> | 9 | Micose superficial (superficial mycosis) | **L2** | **Proceed with Guardrails** | 3 ensaios / 20 publicações |
-> | 4 | Vulvovaginite tricomonial | L3 | Research Question | 4 ensaios / 20 publicações |
->
-> A indicação de **vulvovaginite candidíasica (Rank 2)** possui o maior suporte clínico, incluindo Phase 3 RCT concluído com n=466 (NCT00755053) e múltiplos estudos de alta qualidade — representando a prioridade mais promissora no pipeline de reposicionamento deste fármaco no Brasil.
+**Outras previsões do modelo (resumo):**
+- Acne (99,86%): Hold, L4; único ensaio é de combinação fixa, suspenso e sem resultados.
+- Micose superficial (98,62%): Proceed with Guardrails, L3; uso tópico estabelecido, com apoio de estudos comparativos antigos.
+- Vulvovaginite tricomonal: pesquisa adicional (L3); nitroimidazóis são o padrão.
+- Vaginite atrófica pós-menopausa, tinea profunda, granuloma de Majocchi, infecções ectotrix/endotrix e dermatofitose do couro cabeludo ou barba: Hold (L4-L5); sem ensaios, ou doença folicular/profunda que exige tratamento sistêmico.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

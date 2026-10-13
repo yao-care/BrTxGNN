@@ -2,7 +2,7 @@
 layout: default
 title: Vitamin A
 parent: Apenas Predição do Modelo (L5)
-nav_order: 506
+nav_order: 672
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,69 +29,83 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Vitamina A: De suplemento nutricional à deficiência congênita de protrombina
+# Vitamina A: Da deficiência de vitamina A à congenital prothrombin deficiency (deficiência congênita de protrombina)
 
 ## Resumo em Uma Frase
 
-Vitamina A (retinol) é um micronutriente essencial amplamente utilizado como suplemento para prevenir e tratar deficiências nutricionais e suas complicações, como cegueira noturna, xeroftalmia e imunossupressão.
-O modelo TxGNN prevê que pode ser eficaz para **Deficiência Congênita de Protrombina (Congenital Prothrombin Deficiency)**,
-atualmente sem nenhum ensaio clínico diretamente relevante e sem nenhuma publicação científica apoiando esta direção específica.
+A vitamina A é um nutriente essencial, originalmente usado no tratamento de distúrbios de deficiência vitamínica e da deficiência de vitamina A.
+O modelo TxGNN prevê que pode ser eficaz para **deficiência congênita de protrombina (congenital prothrombin deficiency)**, mas **não há nenhum ensaio clínico nem publicação** apoiando esta direção. A previsão baseia-se apenas na estrutura do grafo de conhecimento.
 
 ---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|---------|
-| Indicação Original | Suplemento vitamínico / deficiência de vitamina A (texto de indicação não disponível no registro ANVISA consultado) |
-| Nova Indicação Prevista | Deficiência Congênita de Protrombina (Congenital Prothrombin Deficiency) |
+|------|------|
+| Indicação Original | Distúrbio de deficiência vitamínica / deficiência de vitamina A |
+| Nova Indicação Prevista | Deficiência congênita de protrombina (congenital prothrombin deficiency) |
 | Pontuação de Previsão TxGNN | 99,97% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros consultados. Com base em informações conhecidas, Vitamina A (retinol) é o protótipo dos retinoides — micronutriente lipossolúvel que, metabolizado a ácido retinoico, atua como ligante dos receptores nucleares RAR (*Retinoic Acid Receptor*) e RXR (*Retinoid X Receptor*). Por meio dessa via hormonal, regula a transcrição de genes envolvidos na diferenciação e proliferação celular, manutenção da integridade epitelial e resposta imunológica inata e adaptativa. Clinicamente, é empregada para prevenir e tratar a deficiência vitamínica e suas manifestações.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a vitamina A (retinol) participa da visão, da diferenciação do epitélio, da imunidade e do desenvolvimento embrionário, e sua eficácia na deficiência de vitamina A é bem estabelecida.
 
-A relação mecanística entre Vitamina A e a Deficiência Congênita de Protrombina, no entanto, é indireta e sem suporte causal estabelecido. A protrombina (Fator II da coagulação) é uma proteína dependente de **vitamina K** para sofrer γ-carboxilação pós-translacional — etapa essencial para sua atividade biológica. Vitamina A não participa dessa via bioquímica. A única conexão biológica remota seria uma disfunção hepática grave secundária à deficiência extrema de vitamina A, que comprometeria a síntese de proteínas hepáticas em geral; contudo, isso representa uma complicação inespecífica, não uma indicação terapêutica direcionada.
+A relação com a deficiência congênita de protrombina, porém, é fraca. Trata-se de um distúrbio genético da coagulação, e a vitamina relevante para a síntese de protrombina é a vitamina K, não a vitamina A. A pontuação muito alta do modelo provavelmente reflete uma associação genérica, dentro da rede do grafo, entre fármacos da categoria "vitaminas" e distúrbios nutricionais ou metabólicos, e não um mecanismo específico.
 
-A alta pontuação do TxGNN (99,97%) provavelmente reflete conexões indiretas no grafo de conhecimento entre os nós de "deficiência vitamínica", "disfunção hepática" e "coagulopatia" — um caminho de associação estatística, não de causalidade farmacológica. Não existem ensaios clínicos registrados nem publicações científicas que investiguem Vitamina A como tratamento para esta condição.
+Por isso, esta previsão deve ser tratada com cautela: não há base mecanística estabelecida que a sustente.
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-> Nenhum dos estudos identificados utiliza Vitamina A como intervenção terapêutica para deficiência congênita de protrombina. Os ensaios encontrados tratam de outras condições hemorrágicas ou doenças metabólicas, sem sobreposição com a indicação prevista.
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|:----:|---------|
-| [NCT04384341](https://clinicaltrials.gov/study/NCT04384341) | N/A | Recrutando | 480 | Estudo observacional de perda óssea em hemofilia (ausência de fator VIII ou IX); sem intervenção com vitamina A e sem relação com deficiência de protrombina |
-| [NCT03534752](https://clinicaltrials.gov/study/NCT03534752) | N/A | Concluído | 220 | Registro retrospectivo de adultos com erros inatos do metabolismo na Suíça francófona; estudo observacional, não é ensaio de intervenção com vitamina A |
-| [NCT00168077](https://clinicaltrials.gov/study/NCT00168077) | Phase 3 | Concluído | 40 | Concentrado de complexo protrombínico BERIPLEX P/N para reversão rápida de anticoagulação oral; o agente testado é PCC, não vitamina A |
-| [NCT00562783](https://clinicaltrials.gov/study/NCT00562783) | Phase 2 | Concluído | 90 | "Vitalliver" em cirrose descompensada (n=90); possível formulação vitamínica, mas sem foco em deficiência congênita de protrombina |
-| [NCT02392767](https://clinicaltrials.gov/study/NCT02392767) | N/A | Concluído | 25 | Suplemento dietético com L-arginina, vitamina K2, B6, B12 e ácido fólico em hipertensão leve a moderada; sem relação com deficiência de protrombina |
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ---
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada ao uso de Vitamina A no tratamento da Deficiência Congênita de Protrombina.
+Atualmente não há literatura relacionada.
+
+---
+
+## Outras Indicações Previstas com Algum Respaldo
+
+Embora a indicação de maior pontuação não tenha evidências, outras previsões do modelo têm dados que merecem registro:
+
+| Indicação Prevista | Pontuação TxGNN | Nível | Observação |
+|------|------|------|------|
+| Doença perinatal (perinatal disease) | 99,63% | L1 | Várias revisões sistemáticas Cochrane (2000–2016) sobre suplementação de vitamina A em recém-nascidos de muito baixo peso para prevenir displasia broncopulmonar e mortalidade; efeitos modestos e rótulo heterogêneo. O ensaio NCT01115478 (n=2.500, concluído) trata de malária na gravidez e não é específico para vitamina A. |
+| Lesão (injury) | 99,69% | L2 | Ensaio NCT01203488 (Fase 1/2, n=807, concluído) e NCT02102711 (n=62), ambos em recém-nascidos de muito baixo peso; relaciona-se mais à lesão pulmonar neonatal do que a lesão em geral. |
+| Distúrbio de proliferação celular | 99,64% | L4 | Evidência mecanística (retinoides regulam proliferação e diferenciação); único ensaio é sobre olho seco, não sobre doença proliferativa. |
+| Distúrbio induzido por radiação ou químicos | 99,63% | L4 | Literatura indireta sobre fotoenvelhecimento e fotobiologia. |
+
+As demais previsões (doença do metabolismo da biotina, malformação esofágica não sindrômica, displasia odontomaxilar segmentar, displasia cemento-óssea florida e categoria genérica "doença por sistema subcelular afetado") não têm ensaios, e a literatura disponível é geral e não testa a vitamina A como tratamento.
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-Consta **1 registro ativo** na ANVISA com situação de comercialização confirmada. Os dados detalhados do registro (número de registro, nome comercial, forma farmacêutica e texto de indicação aprovada) não estão disponíveis no conjunto de dados atual e deverão ser consultados diretamente no portal ANVISA.
+Segundo os dados compilados para este relatório, não há registros ativos de vitamina A isolada na ANVISA, e o fármaco consta como não comercializado.
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (grafo de conhecimento, não texto de bula)**: o grafo associa a vitamina A a contraindicação em diversas condições, entre elas: doença renal, doença hepática, doença da vesícula biliar, úlcera péptica, sarcoidose, hipercalcemia, nefrocalcinose, nefrolitíase, hiperfosfatemia, hiperoxalúria primária, hemocromatose hereditária, hemossiderose, doença de Wilson, anemia falciforme, anemia hemolítica, retocolite ulcerativa, doença inflamatória intestinal, gastroenterite, hipervitaminose e arteriosclerose obliterante.
+- **Interações Medicamentosas**: foram identificadas 68 interações. As principais, de gravidade **maior**, são:
+  - Retinoides: isotretinoína, acitretina, tretinoína (risco de toxicidade aditiva por hipervitaminose A).
+  - Tetraciclinas: doxiciclina, tetraciclina, minociclina, demeclociclina, oxitetraciclina, omadaciclina, eravaciclina e sarecilina.
+  
+  De gravidade **moderada**: bexaroteno, colestiramina, colesevelam, colestipol, sevelâmer e selpercatinibe. De gravidade **menor**: orlistate.
+- **Toxicidade**: a literatura destaca o risco de hipervitaminose A (toxicidade hepática, óssea) e de teratogenicidade, o que exige atenção especial à dose.
+
+Para advertências e contraindicações em bula, consulte a bula do produto, pois não há texto de bula da ANVISA disponível.
 
 ---
 
@@ -100,13 +114,14 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN não é sustentada por evidências clínicas nem mecanísticas — a protrombina é uma proteína dependente de vitamina K, não de vitamina A, e nenhum ensaio clínico ou publicação científica apoia este reposicionamento. A pontuação elevada do modelo reflete provavelmente um artefato de caminhamento no grafo de conhecimento, sem correspondência com biologia causal.
+- A indicação de maior pontuação (deficiência congênita de protrombina) é uma previsão puramente de grafo (L5), sem ensaios, sem literatura e sem mecanismo plausível; a vitamina relevante para a protrombina é a vitamina K.
+- O fármaco não é comercializado no Brasil, e faltam os dados de bula da ANVISA, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Identificar mecanismo biológico plausível que conecte o retinol (ou seus metabólitos) à síntese ou função do Fator II (protrombina)
-- Obter evidências pré-clínicas — estudos in vitro ou in vivo — demonstrando efeito mensurável sobre a coagulação
-- Revisar se a associação no grafo do TxGNN representa causalidade real ou co-ocorrência estatística entre nós de deficiência vitamínica e coagulopatia
-- Recuperar dados completos de registro ANVISA (indicação aprovada, forma farmacêutica) para contextualização regulatória
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), que é uma lacuna bloqueante.
+- Obter os dados do mecanismo de ação no DrugBank.
+- Se houver interesse em reposicionamento, priorizar a direção com mais respaldo (doença perinatal / displasia broncopulmonar em recém-nascidos de muito baixo peso), definindo dose, via de administração (intramuscular vs. oral) e limites de segurança quanto a toxicidade e teratogenicidade.
+- Confirmar a viabilidade regulatória e de via de administração, já que não há registro vigente no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

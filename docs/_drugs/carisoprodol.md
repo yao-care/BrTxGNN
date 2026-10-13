@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Carisoprodol
-parent: Evidência Moderada (L3-L4)
-nav_order: 171
-evidence_level: L4
+parent: Apenas Predição do Modelo (L5)
+nav_order: 197
+evidence_level: L5
 indication_count: 1
 ---
 
 # Carisoprodol
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **1** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,77 +33,63 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 ## Resumo em Uma Frase
 
-Carisoprodol é um relaxante muscular de ação central, cujo principal metabólito ativo (meprobamato) produz efeito sedativo via modulação do receptor GABA-A.
-O modelo TxGNN prevê que pode ser eficaz para **Insônia (Insomnia)**, atualmente com **0 ensaios clínicos** e **1 publicação** apoiando esta direção.
-As evidências disponíveis são escassas, sustentando a previsão principalmente em bases mecanicistas.
-
----
+Carisoprodol é um relaxante muscular de ação central. Não há indicação original registrada no Brasil nos dados compilados para este relatório.
+O modelo TxGNN prevê que pode ser eficaz para **Insônia (insomnia)**, mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (uma revisão indireta sobre câimbras noturnas) relacionada a esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Relaxamento muscular (espasmos musculares agudos) |
-| Nova Indicação Prevista | Insônia (Insomnia) |
+| Indicação Original | Relaxante muscular esquelético de ação central (sem texto de indicação aprovada nos dados de registro) |
+| Nova Indicação Prevista | Insônia (insomnia) |
 | Pontuação de Previsão TxGNN | 99,02% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Carisoprodol é um relaxante muscular de ação central. Após administração oral, é rapidamente metabolizado em **meprobamato** (metabólito ativo), que exerce modulação nos receptores **GABA-A**, gerando supressão do sistema nervoso central, sedação e ansiolíse. Esse perfil farmacológico é mecanisticamente próximo ao de benzodiazepínicos e barbitúricos, classes tradicionais no tratamento da insônia.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo conhecimento farmacológico geral, o carisoprodol é um relaxante muscular esquelético de ação central. Seu metabólito ativo, o meprobamato, tem efeitos sedativos e ansiolíticos semelhantes aos dos barbitúricos, e o próprio carisoprodol parece modular receptores GABA-A.
 
-A ligação com a insônia, portanto, não é direta: carisoprodol não atua primariamente sobre os sistemas de regulação do sono (como as vias orexinérgica ou melatoninérgica), mas o efeito sedativo do meprobamato pode **reduzir a latência do sono** e **melhorar a insônia secundária** associada a condições dolorosas ou espásticas — como as cãibras noturnas nas pernas, citadas na literatura identificada.
+Essa farmacologia sedativa oferece um elo teórico plausível com a insônia: a depressão do sistema nervoso central pode favorecer o início e a manutenção do sono. Contudo, essa ligação foi inferida da farmacologia geral e não de dados fornecidos.
 
-A previsão do TxGNN é plausível do ponto de vista mecanicista, porém representa uma **via indireta**: o benefício hipnótico seria consequência do efeito sedativo global, e não de ação seletiva sobre o sono. Isso limita a aplicabilidade clínica e exige avaliação cuidadosa do perfil de risco, dado o potencial de abuso do meprobamato.
-
----
+A pontuação elevada do TxGNN (99,02%) é uma previsão computacional e não equivale a evidência clínica. Não há dados sobre a similaridade entre a indicação original e a nova indicação.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [22963024](https://pubmed.ncbi.nlm.nih.gov/22963024/) | 2012 | Review | American Family Physician | Revisão sobre cãibras noturnas nas pernas: a tightening dolorosa recorrente nos músculos da panturrilha pode causar insônia grave. Discute fatores associados (doença vascular, estenose do canal lombar, cirrose, hemodiálise, gravidez) e abordagens terapêuticas, incluindo relaxantes musculares. |
-
----
-
-## Informações de Comercialização no Brasil
-
-Carisoprodol possui **20 registros ativos** no Brasil. Os detalhes individuais de cada registro (nome comercial, forma farmacêutica, indicação aprovada) não estão disponíveis nesta versão do Evidence Pack — consulte o portal da ANVISA para informações completas.
-
----
+| [22963024](https://pubmed.ncbi.nlm.nih.gov/22963024/) | 2012 | Revisão | American Family Physician | Revisão sobre câimbras noturnas nas pernas, que podem causar insônia intensa. Trata-se de evidência indireta: não avalia o carisoprodol como tratamento para insônia. |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações previstas pelo grafo de conhecimento (PrimeKG, não extraídas da bula)**: epilepsia, doença renal, doença hepática, doença da vesícula biliar, trombocitopenia, hipotireoidismo (incluindo mixedema e hipotireoidismo congênito), doença ulcerosa péptica, doença inflamatória intestinal, hiperplasia prostática benigna, distúrbios hipotensivos, gota, abuso/dependência de substâncias, hemofilia, anemia (incluindo macrocítica), colite por *Clostridium difficile*, enterocolite necrosante perinatal, parada cardíaca súbita, doenças da condução cardíaca, insuficiência respiratória e insuficiência adrenal (incluindo doença de Addison e formas congênitas).
+- **Interações Medicamentosas**: foram identificadas 100 interações. Entre as listadas:
+  - **Graves (Major)**: morfina e morfina lipossomal.
+  - **Moderadas**: dronabinol, metoclopramida, nabilona, ópio, sibutramina, difenoxina e difenoxilato. O risco principal é a depressão aditiva do sistema nervoso central.
+  - **Nível desconhecido**: fentermina, pantoprazol, glimepirida, mesalazina, doxiciclina, clotrimazol, metformina, omeprazol, sucralfato, rosiglitazona e lansoprazol.
+- **Preocupações gerais**: sedação, potencial de dependência e abuso, e alta carga de interações com depressores do SNC, relevantes para qualquer uso como hipnótico.
 
-> **Nota:** Os dados de advertências, contraindicações e interações medicamentosas não foram recuperados nesta versão do Evidence Pack. Destaca-se que carisoprodol é um medicamento de ação central com potencial de dependência e abuso (via metabólito meprobamato), o que deve ser considerado cuidadosamente em qualquer avaliação de reposicionamento.
-
----
+As advertências e contraindicações da bula não estavam disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão TxGNN é mecanisticamente plausível (sedação via GABA-A/meprobamato), mas as evidências clínicas são insuficientes — há apenas 1 publicação indiretamente relacionada (revisão sobre cãibras noturnas) e nenhum ensaio clínico dedicado à indicação de insônia. Somado ao perfil de risco relevante (potencial de abuso, dependência), a recomendação é aguardar evidências mais robustas antes de avançar.
+A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos e com uma única publicação indireta. Além disso, o fármaco não está registrado no Brasil e apresenta importantes preocupações de segurança (dependência, sedação e interações com depressores do SNC).
 
 **Para prosseguir, é necessário:**
-- Recuperar dados completos de segurança (advertências, contraindicações e interações da bula ANVISA)
-- Definir o mecanismo de ação formal (MOA) via DrugBank API
-- Identificar ensaios clínicos que avaliem carisoprodol ou meprobamato diretamente para insônia
-- Avaliar o enquadramento regulatório no Brasil (carisoprodol pode estar sujeito a controle especial)
-- Considerar se o risco de dependência do meprobamato é aceitável para a população-alvo de insônia
+- Obter e analisar a bula (advertências e contraindicações) para a triagem de segurança.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Buscar evidências clínicas diretas do carisoprodol ou do meprobamato na insônia.
+- Avaliar o risco de dependência e abuso frente aos hipnóticos já disponíveis.
+- Verificar a situação regulatória do fármaco no Brasil, já que não há registros.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

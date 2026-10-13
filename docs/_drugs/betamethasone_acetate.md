@@ -2,7 +2,7 @@
 layout: default
 title: Betamethasone Acetate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 112
+nav_order: 128
 evidence_level: L5
 indication_count: 0
 ---

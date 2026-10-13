@@ -2,7 +2,7 @@
 layout: default
 title: Thiamine Nitrate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 478
+nav_order: 632
 evidence_level: L5
 indication_count: 0
 ---

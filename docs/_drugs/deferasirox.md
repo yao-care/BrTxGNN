@@ -2,7 +2,7 @@
 layout: default
 title: Deferasirox
 parent: Evidência Moderada (L3-L4)
-nav_order: 212
+nav_order: 253
 evidence_level: L4
 indication_count: 5
 ---
@@ -29,80 +29,67 @@ Nível de evidência: **L4** | Indicações previstas: **5**
 
 </div>
 
-# Deferasirox: Da quelação crônica de ferro à infecção por HIV
+# Deferasirox: Da talassemia e hemoglobinopatias à infecção por HIV
 
 ## Resumo em Uma Frase
 
-Deferasirox é um quelante de ferro oral aprovado para o tratamento da sobrecarga crônica de ferro decorrente de transfusões sanguíneas frequentes.
-O modelo TxGNN prevê que pode ser eficaz para **Infecção por HIV (HIV Infectious Disease)**,
-atualmente com **0 ensaios clínicos** e **2 publicações** apoiando esta direção.
-
----
+Deferasirox é um quelante de ferro, originalmente associado ao tratamento de hemoglobinopatias, como a beta-talassemia.
+O modelo TxGNN prevê que pode ser eficaz para **Infecção por HIV (HIV infectious disease)**,
+atualmente sem **nenhum ensaio clínico** e com apenas **2 publicações** (uma revisão geral e um estudo pré-clínico) relacionadas a esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Sobrecarga crônica de ferro por transfusões sanguíneas repetidas |
-| Nova Indicação Prevista | Infecção por HIV (HIV Infectious Disease) |
+|------|------|
+| Indicação Original | Beta-talassemia e hemoglobinopatias (segundo o grafo de conhecimento do TxGNN; não há indicação em registro brasileiro) |
+| Nova Indicação Prevista | Infecção por HIV (HIV infectious disease) |
 | Pontuação de Previsão TxGNN | 99,40% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 10 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Deferasirox é um quelante de ferro oral tridentado que forma complexos estáveis e de alta afinidade com Fe³⁺, promovendo sua excreção predominantemente pelas fezes. Clinicamente, é o tratamento padrão para a sobrecarga de ferro transfusional em pacientes com talassemia, anemia falciforme e síndromes mielodisplásicas que necessitam de suporte transfusional crônico.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, deferasirox é um quelante de ferro de uso oral, usado em situações de sobrecarga de ferro, como a que ocorre em pacientes com beta-talassemia. Mecanisticamente, pode ser aplicável a processos em que o ferro intracelular influencia a biologia da doença.
 
-A ligação mecanicista com o HIV baseia-se no papel essencial que o ferro desempenha no ciclo replicativo do vírus. O Fe³⁺ é cofator da ribonucleotídeo redutase viral e regula a conformação ativa da proteína transativadora Tat do HIV-1. O estudo PMID 34550543 demonstrou in vitro que o ferro armazenado em endolisossomas controla a oligomerização da proteína Tat: ao restringir o ferro endolisossomal, induz-se a oligomerização do Tat e, consequentemente, a inibição da transativação do promotor LTR do HIV-1 — este sendo o gatilho central da replicação viral. Trata-se de um downstream direto e plausível da quelação intracelular de ferro mediada por deferasirox.
+A relação entre a indicação original e a nova é indireta. Um estudo pré-clínico in vitro (2021) indica que o ferro nos endolisossomos restringe a transativação do LTR do HIV-1 mediada pela proteína Tat, ao aumentar a oligomerização de Tat e a expressão de β-catenina. Isso sugere que a homeostase do ferro modula a transcrição do HIV-1, e que um quelante como o deferasirox poderia, em tese, afetar a expressão gênica viral.
 
-No entanto, a evidência permanece exclusivamente em nível in vitro e em contexto neurológico (HAND — HIV-associated neurocognitive disorder). A aplicação clínica enfrenta barreiras relevantes: deferasirox apresenta penetração no sistema nervoso central inferior a 1%; não existem modelos animais validando o efeito antiviral sistêmico; e não há qualquer ensaio clínico registrado. A hipótese é biologicamente plausível, mas a distância translacional é considerável.
-
----
+A direção do efeito, porém, é incerta: a quelação reduziria o ferro intracelular e poderia eliminar essa restrição, o que seria contraproducente. A pontuação elevada do TxGNN é apenas uma previsão computacional.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [34550543](https://pubmed.ncbi.nlm.nih.gov/34550543/) | 2021 | Estudo mecanicista in vitro | Journal of Neurovirology | O ferro endolisossomal regula a oligomerização do HIV-1 Tat e suprime a transativação do LTR; a limitação do ferro intracelular (mecanismo compatível com deferasirox) reduz a replicação viral in vitro |
-| [16529348](https://pubmed.ncbi.nlm.nih.gov/16529348/) | 2006 | Revisão / Comentário farmacêutico | J Am Pharmacists Assoc (JAPhA) | Revisão introdutória de deferasirox como novo fármaco aprovado; não apresenta dados de eficácia anti-HIV, mas contextualiza o perfil farmacológico do fármaco |
-
----
-
-## Informações de Comercialização no Brasil
-
-Deferasirox está registrado no Brasil com **10 registros ativos** e situação de comercialização confirmada. Os detalhes individuais dos registros (número, nome comercial, forma farmacêutica, indicação aprovada) não estão disponíveis neste conjunto de dados. Para consulta completa dos registros, acesse o portal de consulta de medicamentos da ANVISA.
-
----
+|------|-----|------|------|---------|
+| [34550543](https://pubmed.ncbi.nlm.nih.gov/34550543/) | 2021 | Estudo pré-clínico/in vitro | Journal of Neurovirology | O ferro endolisossomal restringe a transativação do LTR do HIV-1 mediada por Tat, aumentando a oligomerização de Tat e a expressão de β-catenina |
+| [16529348](https://pubmed.ncbi.nlm.nih.gov/16529348/) | 2006 | Revisão | Journal of the American Pharmacists Association | Visão geral de novos fármacos (incluindo deferasirox); sem evidência específica para HIV |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (derivadas do grafo de conhecimento, não do texto da bula)**: insuficiência hepática, doença renal e função renal comprometida, cirrose, doença da vesícula biliar, trombocitopenia, neutropenia e agranulocitose (incluindo formas congênitas), anemia, hiperbilirrubinemia (incluindo síndrome de Gilbert), hipertensão ocular, úlcera péptica ativa, síndrome de disfunção de múltiplos órgãos e câncer.
+- **Interações medicamentosas** (100 registradas; principais exemplos):
+  - **Gravidade maior**: hidrocortisona, dexametasona, betametasona, triamcinolona, ácido acetilsalicílico, mesalazina, balsalazida e as formulações de anfotericina B.
+  - **Gravidade moderada**: rabeprazol, pioglitazona, alosetrona, aprepitanto, claritromicina, saxagliptina, hidróxido de alumínio, cisaprida e dexfenfluramina.
 
----
+Consulte a bula para informações adicionais de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-As únicas evidências disponíveis são um estudo mecanicista in vitro realizado em modelo de neurotoxicidade por HIV e um comentário farmacêutico introdutório de 2006, sem qualquer ensaio clínico registrado em nenhuma base global. Embora a hipótese de que a quelação de ferro intracelular interfira na replicação do HIV-1 seja biologicamente coerente, o nível de evidência atual (L4) e as barreiras farmacocinéticas conhecidas (baixa penetração em SNC, ausência de dados em células imunes) não justificam avanço imediato.
+- Não há ensaios clínicos, e a única evidência direta é um estudo in vitro cuja direção do efeito é incerta e pode ser contrária à hipótese. O perfil de contraindicações (hepáticas, renais e hematológicas) também exige cautela, especialmente em pessoas com HIV, que frequentemente usam outros fármacos com potencial de interação.
+- O fármaco não está registrado no Brasil.
 
 **Para prosseguir, é necessário:**
-- Validação em modelos animais do efeito de deferasirox sobre a carga viral do HIV-1 (murino ou primata não humano)
-- Estudos de distribuição intracelular em linfócitos CD4⁺ e macrófagos — células-alvo primárias do HIV
-- Obtenção do mecanismo de ação completo via DrugBank (lacuna DG002)
-- Obtenção de advertências, contraindicações e interações via bula oficial da ANVISA (lacuna DG001 — nível Blocking)
-- Avaliação de interações farmacológicas com antirretrovirais de uso concomitante habitual (ITRN, ITRNN, IP, inibidores de integrase)
+- Dados do mecanismo de ação (MOA) detalhados.
+- Texto da bula aprovada (advertências e contraindicações) para a triagem de segurança.
+- Estudos pré-clínicos que esclareçam se a quelação de ferro por deferasirox aumenta ou reduz a replicação do HIV-1.
+- Avaliação de interações com antirretrovirais e do cenário regulatório no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

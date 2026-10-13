@@ -2,7 +2,7 @@
 layout: default
 title: Erythromycin
 parent: Evidência Moderada (L3-L4)
-nav_order: 238
+nav_order: 297
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,131 +29,70 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Erythromycin: De antibiótico macrolídeo a queratoconjuntivite epitelial punctata
+# Eritromicina: De antibiótico sistêmico para ceratoconjuntivite epitelial punctata
 
 ## Resumo em Uma Frase
 
-Erythromycin é um antibiótico macrolídeo clássico com atividade documentada contra *Chlamydia trachomatis*, *Staphylococcus aureus* e outros patógenos bacterianos, disponível em formulação sistêmica e oftálmica (pomada), com uso histórico registrado desde a década de 1950.
-O modelo TxGNN prevê que pode ser eficaz para **Queratoconjuntivite Epitelial Punctata (Punctate Epithelial Keratoconjunctivitis)** como indicação mais bem ranqueada entre 10 novas indicações previstas, atualmente com **0 ensaios clínicos** e **2 publicações** apoiando esta direção específica.
-Entre todas as indicações previstas, **Linfogranuloma Venéreo (rank 4)** apresenta o maior suporte histórico com uso documentado de erythromycin e evidência de nível L3.
-
----
+Eritromicina é um antibiótico macrolídeo, registrado no Brasil na categoria "antibióticos sistêmicos simples".
+O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)**,
+mas até o momento há **0 ensaios clínicos** e apenas **1 publicação** (uma revisão pediátrica) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antibiótico macrolídeo para infecções bacterianas (sem registro ANVISA) |
-| Nova Indicação Prevista | Queratoconjuntivite Epitelial Punctata (Punctate Epithelial Keratoconjunctivitis) |
+| Indicação Original | Antibióticos sistêmicos simples |
+| Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
 | Pontuação de Previsão TxGNN | 99,89% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 1 |
 | Decisão Recomendada | Hold |
-
----
-
-## Painel de Indicações Previstas (Top 10)
-
-| Rank | Indicação | TxGNN Score | Evidência | Ensaios | Literatura | Decisão |
-|------|-----------|-------------|-----------|---------|------------|---------|
-| 1 | Queratoconjuntivite Epitelial Punctata | 99,89% | L4 | 0 | 2 | Hold |
-| 2 | Conjuntivite Aguda Contagiosa | 99,55% | L5 | 0 | 0 | Hold |
-| 3 | Ceratite por Exposição | 99,50% | L4 | 0 | 8 | Hold |
-| **4** | **Linfogranuloma Venéreo** | **99,05%** | **L3** | **1** | **20** | **Research Question** |
-| **5** | **Gengivite Ulcerativa Necrotizante** | **99,00%** | **L3** | **0** | **5** | **Research Question** |
-| 6 | Síndrome de Hiperviscosidade Policlonal | 98,84% | L5 | 0 | 0 | Hold |
-| 7 | Hiperamilasemia | 98,84% | L5 | 0 | 0 | Hold |
-| 8 | Vasculite Pós-infecciosa | 98,77% | L5 | 0 | 0 | Hold |
-| 9 | Distúrbio Pós-bacteriano | 98,75% | L3 | ~50* | 0 | Research Question |
-| 10 | Síndrome Pós-infecciosa | 98,71% | L3 | ~38* | 4 | Research Question |
-
-> \* Ensaios recuperados por similaridade de classe (principalmente azithromycin); relevância direta variável.
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados nesta base de evidências. Segundo informações conhecidas, Erythromycin é um antibiótico macrolídeo com **duplo mecanismo de ação**: ação antibacteriana por inibição da síntese proteica bacteriana via ligação à subunidade ribossomal 50S, eficaz contra bactérias gram-positivas, *Chlamydia trachomatis* e *Staphylococcus aureus*; e ação imunomoduladora com inibição de NF-κB e IL-8 e regulação da secreção de muco — mecanismo relevante em condições inflamatórias crônicas das mucosas. A formulação oftálmica (pomada 0,5%) com uso documentado em infecções oculares bacterianas reforça a plausibilidade de aplicação ocular.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a eritromicina é um antibiótico macrolídeo que inibe a subunidade ribossômica 50S bacteriana, tem atividade contra bactérias Gram-positivas e alguns microrganismos atípicos, e apresenta ainda efeito anti-inflamatório (imunomodulador).
 
-A queratoconjuntivite epitelial punctata é caracterizada por lesões puntiformes no epitélio corneal e conjuntival. Quando de etiologia bacteriana, os principais agentes envolvidos incluem *Chlamydia trachomatis* e *Staphylococcus aureus* — exatamente os micro-organismos para os quais erythromycin demonstra atividade antimicrobiana documentada. Nesse subgrupo específico, a relação mecanística entre o fármaco e a patologia é coerente.
+A relação com a nova indicação é indireta. A blefaroceratoconjuntivite estafilocócica pode causar ceratopatia epitelial punctata, e macrolídeos, tópicos ou sistêmicos, são plausivelmente úteis nesse quadro, seja pelo efeito antibacteriano, seja pelo imunomodulador. Essa ligação se apoia em uma única revisão pediátrica sobre blefaroceratoconjuntivite crônica.
 
-No entanto, é importante considerar que a maioria das queratoconjuntivites punctatas tem etiologia viral (ex.: adenovírus, herpes) ou não infecciosa (olho seco, hipersensibilidade), para as quais erythromycin não apresenta eficácia direta. A conexão mecanística é considerada **fraca** para a indicação no sentido amplo, e o modelo TxGNN pode estar captando uma associação indireta via grafo de conhecimento fármaco-doença.
+Portanto, a previsão é mecanisticamente plausível, mas não está demonstrada. A pontuação alta do modelo não substitui evidência clínica direta.
 
----
+## Evidências de Ensaios Clínicos
 
-## Evidências de Ensaios Clínicos — Queratoconjuntivite Epitelial Punctata
+Atualmente não há ensaios clínicos relacionados registrados.
 
-Atualmente não há ensaios clínicos relacionados a erythromycin e queratoconjuntivite epitelial punctata registrados.
-
----
-
-## Evidências da Literatura — Queratoconjuntivite Epitelial Punctata
+## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [11495307](https://pubmed.ncbi.nlm.nih.gov/11495307/) | 2001 | Review/Case Series | J Pediatric Ophthalmol Strabismus | Diagnóstico e manejo de blefaroqueratoconjuntivite crônica em crianças; discute tratamento da condição, sem focar especificamente em erythromycin |
-| [32826651](https://pubmed.ncbi.nlm.nih.gov/32826651/) | 2021 | Case Report | Cornea | Caso de queratoconjuntivite por microsporídios (*Encephalitozoon hellem*) em adulto imunocompetente; diagnóstico por sequenciamento metagenômico profundo; relevância indireta à etiologia infecciosa |
+| [11495307](https://pubmed.ncbi.nlm.nih.gov/11495307/) | 2001 | Revisão | Journal of Pediatric Ophthalmology and Strabismus | Descreve história, sintomas, sinais clínicos e tratamento da blefaroceratoconjuntivite crônica em crianças; não testa a eritromicina de forma específica |
 
----
+## Informações de Comercialização no Brasil
 
-## Destaque: Linfogranuloma Venéreo — Indicação com Maior Suporte Histórico
-
-Entre todas as indicações previstas, **Linfogranuloma Venéreo (LGV)** apresenta a evidência mais robusta para uso de erythromycin, com mecanismo direto e uso clínico historicamente documentado.
-
-**Conexão Mecanística**: LGV é causado por *Chlamydia trachomatis* sorovares L1-L3. Erythromycin como macrolídeo tem eficácia comprovada contra clamídia e foi listado historicamente como tratamento alternativo para LGV — especialmente em gestantes quando doxiciclina é contraindicada. O vínculo mecanístico é **claro e direto**.
-
-### Ensaio Clínico Relevante
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT03608774](https://clinicaltrials.gov/study/NCT03608774) | Phase 4 | Concluído | 177 | Azithromycin vs. doxiciclina para *Chlamydia trachomatis* retal em HSH; suporte de classe para macrolídeos no tratamento de infecção clamidial anotretal (Grau B — efeito de classe) |
-
-### Literatura Selecionada
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [13239093](https://pubmed.ncbi.nlm.nih.gov/13239093/) | 1955 | Estudo Clínico Precoce | Antibiotic Medicine & Clinical Therapy | Combinação de erythromycin + tripla sulfonamida no tratamento precoce de LGV — uso direto de erythromycin documentado |
-| [22760150](https://pubmed.ncbi.nlm.nih.gov/22760150/) | 2012 | Case Report | Rev Soc Bras Med Trop | Caso de LGV em adolescente tratado com erythromycin; uso direto do fármaco registrado em prática clínica |
-| [25870512](https://pubmed.ncbi.nlm.nih.gov/25870512/) | 2015 | Review | Infection and Drug Resistance | Revisão de desafios diagnósticos e terapêuticos do LGV; surtos em HSH na América do Norte, Europa e Austrália; aborda regimes alternativos incluindo macrolídeos |
-| [40815293](https://pubmed.ncbi.nlm.nih.gov/40815293/) | 2025 | Cohort/Registry | Sexually Transmitted Diseases | Estudo de prevalência e tratamento de LGV em gbMSM no Canadá (2018–2022); caracteriza perfil epidemiológico atual e práticas de tratamento |
-| [33462582](https://pubmed.ncbi.nlm.nih.gov/33462582/) | 2021 | Case Series | Clin Infect Dis | Azithromycin semanal oral 1 g por 3 semanas no tratamento de proctite por LGV; eficácia de macrolídeo de mesma classe |
-
----
-
-## Destaque: Gengivite Ulcerativa Necrotizante — Uso Histórico em Odontologia
-
-**Conexão Mecanística**: A gengivite ulcerativa necrotizante (Vincent) é causada por flora mista de fusiformes e espiroquetas. Erythromycin demonstra atividade contra essas espécies e foi estudado diretamente para infecções fusoespiroquetais desde 1953 — mecanismo **explicitamente documentado em literatura histórica**.
-
-### Literatura Selecionada
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [13221896](https://pubmed.ncbi.nlm.nih.gov/13221896/) | 1953 | Estudo Clínico Precoce | The Journal-Lancet | "Ilotycin" (erythromycin) para infecções fusoespiroquetais da orofaringe — evidência direta mais antiga identificada |
-| [6589179](https://pubmed.ncbi.nlm.nih.gov/6589179/) | 1984 | Review | Dent Clin North Am | Erythromycin como antibiótico de segunda escolha em infecções dentárias; primeira escolha em pacientes alérgicos a penicilina |
-| [36268928](https://pubmed.ncbi.nlm.nih.gov/36268928/) | 2022 | Narrative Review | Eur J Transl Myology | Uso de antibióticos em tratamento endodôntico na gestação; erythromycin citado como opção segura em gestantes |
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 125680089 (cancelado) | RUBROMICIN | Não informada | Antibióticos sistêmicos simples |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações e condições de risco (grafo de conhecimento do TxGNN, não texto de bula)**: síndrome do QT longo (inclusive familiar) e torsades de pointes; porfirias; doença renal; doença hepática; doença da vesícula biliar; doenças hematológicas; dermatite esfoliativa e dermatite; colite por *Clostridium difficile*; enterocolite necrosante perinatal; miastenia gravis e doenças da junção neuromuscular; anemia por deficiência de folato; distúrbios da audição.
+- **Interações medicamentosas**: foram identificadas 100 interações; entre as exibidas, destacam-se as de gravidade **maior** com **loperamida** e **claritromicina**. Há também várias interações de gravidade moderada (por exemplo, corticosteroides como dexametasona, hidrocortisona e budesonida; cimetidina; famotidina; aprepitanto; pioglitazona; clorpropamida; alosetrona), e uma menor (amoxicilina).
 
----
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold** (indicação primária) | **Research Question** (LGV e NUG)
+**Decisão: Hold**
 
 **Justificativa:**
-Para a indicação primária ranqueada pelo TxGNN (queratoconjuntivite epitelial punctata), as evidências são insuficientes — nível L4, sem ensaios clínicos diretos e apenas 2 publicações periféricas, com mecanismo de ação indiretamente conectado à patologia. Contudo, entre as 10 indicações previstas, Linfogranuloma Venéreo e Gengivite Ulcerativa Necrotizante apresentam suporte histórico clínico direto para erythromycin, com uso documentado desde os anos 1950 e mecanismo plausível, justificando investigação formal.
+- A previsão se baseia quase só no modelo e em uma revisão pediátrica indireta, sem ensaios clínicos (nível L4). Além disso, o único registro brasileiro está cancelado, o que limita a relevância prática imediata.
 
 **Para prosseguir, é necessário:**
-- Obter dados de mecanismo de ação (MOA) completos via DrugBank API (item prioritário)
-- Obter dados de segurança — bula ANVISA ou FDA — para avaliação de contraindicações, advertências e interações medicamentosas
-- Avaliar compatibilidade de via de administração para indicações oftálmicas (pomada) vs. sistêmicas (oral/IV)
-- Priorizar investigação clínica para **Linfogranuloma Venéreo** (L3, uso histórico direto de erythromycin, contexto de gestantes como população-alvo sem alternativas seguras) e **Gengivite Ulcerativa Necrotizante** (L3, estudos diretos desde 1953)
-- Avaliar possibilidade de registro na ANVISA caso haja interesse em avançar para uso clínico no Brasil — atualmente o fármaco não possui nenhuma autorização ativa
+- Obter a bula na ANVISA para análise de advertências e contraindicações, etapa necessária para a triagem de segurança.
+- Obter os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Buscar evidência clínica direta (ensaios ou estudos comparativos) de eritromicina na ceratoconjuntivite epitelial punctata.
+- Definir a via de administração (por exemplo, pomada oftálmica) e verificar sua disponibilidade no Brasil, dado que não há produto vigente.
+- Avaliar também as demais indicações previstas. A linfogranuloma venéreo (pontuação de 99,05%, com revisões e diretrizes que listam macrolídeos como alternativa à doxiciclina) corresponde mais a um uso antibiótico já plausível do que a um reposicionamento inovador.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

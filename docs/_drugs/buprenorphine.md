@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Buprenorphine
-parent: Evidência Moderada (L3-L4)
-nav_order: 143
-evidence_level: L4
+parent: Apenas Predição do Modelo (L5)
+nav_order: 165
+evidence_level: L5
 indication_count: 6
 ---
 
 # Buprenorphine
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **6** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,73 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-# Buprenorfina: Da dependência opioide à porfiria intermitente aguda
+# Buprenorfina: De analgésico narcótico para porfiria aguda intermitente
 
 ## Resumo em Uma Frase
 
-Buprenorfina é um analgésico opioide de ação parcial, amplamente utilizado no tratamento da dor moderada a grave e no manejo da dependência de opioides.
-O modelo TxGNN prevê que pode ser eficaz para **Porfiria Intermitente Aguda (Acute Intermittent Porphyria)**,
-atualmente com **0 ensaios clínicos** e **1 publicação** apoiando esta direção.
-
----
+Buprenorfina é um analgésico opioide, originalmente registrado na ANVISA como analgésico narcótico.
+O modelo TxGNN prevê que possa ser eficaz para **Porfiria Aguda Intermitente (Acute Intermittent Porphyria)**,
+mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (um relato de caso de manejo anestésico de 1993), que não demonstra eficácia no tratamento da doença.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Tratamento da dor moderada a grave e dependência de opioides |
-| Nova Indicação Prevista | Porfiria Intermitente Aguda (Acute Intermittent Porphyria) |
-| Pontuação de Previsão TxGNN | 99.41% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Analgésicos narcóticos |
+| Nova Indicação Prevista | Porfiria Aguda Intermitente (Acute Intermittent Porphyria) |
+| Pontuação de Previsão TxGNN | 99,41% |
+| Nível de Evidência | L5 (apenas previsão do modelo; a literatura disponível é um relato de caso sem evidência de eficácia) |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 5 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Com base em conhecimento farmacológico estabelecido, buprenorfina é um agonista parcial dos receptores μ-opioides e antagonista dos receptores κ-opioides. Sua alta afinidade aliada à baixa eficácia intrínseca nos receptores μ confere um perfil de segurança diferenciado em relação a opioides plenos — incluindo menor risco de depressão respiratória —, o que a torna relevante em contextos clínicos com janelas terapêuticas estreitas.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a buprenorfina é um agonista parcial do receptor opioide mu e antagonista do receptor kappa, usada para analgesia, e mecanisticamente não há uma ligação clara com a nova indicação.
 
-A porfiria intermitente aguda (AIP) é uma doença metabólica rara causada por deficiência da enzima HMBS (hidroximetilbilano sintase), resultando em acúmulo de percursores de porfirinas (ALA e PBG). Crises agudas podem ser desencadeadas por inúmeros fármacos — barbitúricos, sulfonamidas, certos anticonvulsivantes — tornando o manejo farmacológico perioperatório especialmente desafiador.
+A porfiria aguda intermitente é causada por um defeito na biossíntese do heme. Não se identificou relação mecanística entre a ação opioide da buprenorfina e esse defeito. O único trabalho encontrado descreve o manejo anestésico de uma paciente com porfiria, refletindo considerações de segurança perioperatória e analgesia opioide durante crises, e não modificação da doença.
 
-O vínculo sugerido pela previsão TxGNN não representa um reposicionamento para tratar a patologia de base da AIP, mas sim o reconhecimento de que buprenorfina pode figurar como opção analgésica relativamente segura em pacientes portadores da doença. Não há suporte mecanístico para inibição da via de biossíntese do heme ou redução do acúmulo de precursores de porfirina — a conexão é de contexto de segurança farmacológica, não de terapia etiológica.
-
----
+Portanto, a pontuação elevada do TxGNN (99,41%) deve ser entendida como uma previsão computacional sem respaldo clínico. A plausibilidade mais realista seria o uso da buprenorfina como analgésico sintomático nas crises dolorosas, o que é diferente de tratar a doença.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [8301837](https://pubmed.ncbi.nlm.nih.gov/8301837/) | 1993 | Case Report | Masui – Japanese Journal of Anesthesiology | Relato de manejo anestésico em paciente de 40 anos com AIP submetida a histerectomia radical por tumor maligno ovariano; descreve as precauções com fármacos indutores de crises e a estratégia de analgesia perioperatória adotada |
-
----
+| [8301837](https://pubmed.ncbi.nlm.nih.gov/8301837/) | 1993 | Relato de caso | Masui (Jpn J Anesthesiol) | Manejo anestésico de uma paciente de 40 anos com suspeita de porfiria aguda intermitente submetida a cirurgia por tumor ovariano maligno; foca em segurança perioperatória, sem avaliar eficácia da buprenorfina na doença |
 
 ## Informações de Comercialização no Brasil
 
-Buprenorfina não possui registro ativo na ANVISA e não é comercializada no mercado brasileiro. Não há licenças ativas a listar.
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 122140137 (cancelado) | LUSANDA | Não informada | Analgésicos narcóticos |
+| Registro 191980002 (cancelado) | RESTIVA | Não informada | Analgésicos narcóticos |
+| Registro 186100012 (cancelado) | TRANSTEC | Não informada | Analgésicos |
+| Registro 122140134 (cancelado) | BUPRENORFINA | Não informada | Analgésicos narcóticos |
+| Registro 191980011 (cancelado) | NORPATCH | Não informada | Analgésicos narcóticos |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (TxGNN/PrimeKG, não texto de bula)**: síndrome de taquicardia postural ortostática, hipotensão ortostática, atrofia de múltiplos sistemas, síndrome do QT longo (incluindo familiar) e torsades de pointes, doença pulmonar obstrutiva crônica, insuficiência respiratória, doença hepática (incluindo hepatite B e C crônicas), doença da vesícula biliar, insuficiência adrenocortical/doença de Addison, hipotireoidismo/mixedema, hiperplasia prostática benigna, íleo paralítico e obstrução intestinal, estenose uretral, hipertensão intracraniana/pseudotumor cerebral, dependência e abuso de substâncias.
+- **Interações Medicamentosas** (100 interações registradas; exemplos de gravidade maior): alvimopano, bupropiona, morfina, cisaprida e dolasetrona. Entre as de gravidade moderada: famotidina, hiosciamina, loperamida, aprepitanto, atropina, dexametasona, claritromicina, cimetidina, entre outras.
 
----
+As advertências e contraindicações da bula da ANVISA não estavam disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A única evidência disponível é um relato de caso de 1993 sobre manejo anestésico em pacientes com AIP, sem nenhum ensaio clínico registrado e sem estudo dedicado ao reposicionamento terapêutico. O vínculo é fundamentalmente indireto: buprenorfina aparece no contexto como analgésico perioperatório relativamente seguro em AIP — e não como agente modificador da doença de base. A pontuação TxGNN de 99.41% provavelmente reflete conexões no grafo de conhecimento relacionadas ao perfil de segurança farmacológica em condições metabólicas raras, e não uma hipótese de reposicionamento convencional.
+- Não há ensaios clínicos nem evidência de eficácia; a única publicação é um relato de caso anestésico, e não há ligação mecanística plausível entre a buprenorfina e a porfiria aguda intermitente. Além disso, todos os registros no Brasil estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Confirmação do MOA detalhado de buprenorfina via DrugBank API (DG002 pendente)
-- Download e análise da bula (DG001 pendente) para avaliar advertências e contraindicações formais
-- Revisão das diretrizes da European Porphyria Network (E-POC) e listas de fármacos seguros/inseguros em AIP
-- Pesquisa ampliada em PubMed com termos combinados como *"buprenorphine porphyria safety"* e *"opioids acute intermittent porphyria"*
-- Caso haja interesse clínico real, seria necessário registro na ANVISA antes de qualquer uso no Brasil
+- Dados do mecanismo de ação e análise da ligação mecanística com a via de biossíntese do heme
+- Bula da ANVISA com advertências e contraindicações, para triagem de segurança
+- Evidências pré-clínicas ou clínicas específicas para porfiria aguda intermitente
+- Avaliação da situação regulatória (registros cancelados) e da via de administração compatível
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Esomeprazole
-parent: Evidência Moderada (L3-L4)
-nav_order: 239
-evidence_level: L4
+parent: Evidência Alta (L1-L2)
+nav_order: 298
+evidence_level: L1
 indication_count: 10
 ---
 
 # Esomeprazole
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L1** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,72 +29,107 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Esomeprazole: Do refluxo gastroesofágico ao refluxo duodenogástrico
+# Esomeprazol: Do tratamento antiulceroso à úlcera duodenal
 
 ## Resumo em Uma Frase
 
-Esomeprazole é um inibidor da bomba de prótons (PPI) amplamente utilizado no tratamento da doença do refluxo gastroesofágico (DRGE), úlceras pépticas e erradicação de *Helicobacter pylori*.
-O modelo TxGNN prevê que pode ser eficaz para **Refluxo Duodenogástrico (Duodenogastric Reflux)**, com pontuação de **99.53%**.
-Atualmente, há **0 ensaios clínicos** e **1 publicação** apoiando diretamente esta direção.
-
----
+Esomeprazol é um inibidor da bomba de prótons, originalmente registrado na ANVISA como antiulceroso e para outros produtos do aparelho digestivo e metabolismo.
+O modelo TxGNN prevê que pode ser eficaz para **Úlcera Duodenal (duodenal ulcer)**, com **36 ensaios clínicos** e **19 publicações** associados a esta direção. Trata-se de um uso já próximo da indicação original, portanto não é um reposicionamento no sentido estrito.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Doença do refluxo gastroesofágico, úlcera péptica, erradicação de *H. pylori* |
-| Nova Indicação Prevista | Refluxo Duodenogástrico (Duodenogastric Reflux) |
-| Pontuação de Previsão TxGNN | 99.53% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Hold |
+| Indicação Original | Antiulcerosos |
+| Nova Indicação Prevista | Úlcera Duodenal (duodenal ulcer) |
+| Pontuação de Previsão TxGNN | 99,40% |
+| Nível de Evidência | L1 |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 15 (todos cancelados) |
+| Decisão Recomendada | Proceed with Guardrails |
 
----
+> Observação: a previsão de maior pontuação (refluxo duodenogástrico, 99,53%) tem apenas uma revisão geral sobre IBPs como evidência (nível L4, decisão Hold). Por isso, este relatório se concentra na úlcera duodenal, a previsão com maior sustentação clínica entre as dez avaliadas.
 
 ## Por que Esta Previsão é Razoável?
 
-Esomeprazole é o S-isômero óptico do omeprazol e o primeiro PPI desenvolvido como isômero único. Seu mecanismo de ação consiste na inibição irreversível da H⁺/K⁺-ATPase (bomba de prótons) nas células parietais gástricas, resultando em supressão dose-dependente da secreção de ácido clorídrico. Por apresentar menor susceptibilidade ao metabolismo pela via CYP2C19 em comparação ao omeprazol racêmico, o Esomeprazole confere maior biodisponibilidade sistêmica e controle do pH intragástrico mais consistente e duradouro ao longo de 24 horas.
+Não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o esomeprazol é o S-isômero do omeprazol e inibe de forma irreversível a bomba de prótons H+/K+ ATPase das células parietais gástricas, reduzindo a secreção de ácido. Isso permite a cicatrização de úlceras e faz do fármaco um pilar dos esquemas de erradicação do *Helicobacter pylori*.
 
-O refluxo duodenogástrico caracteriza-se pelo retorno de conteúdo duodenal — bile, enzimas pancreáticas e bicarbonato — ao estômago. Sua patogênese abrange dois subtipos distintos: o refluxo biliar **puro** (de natureza alcalina, no qual os PPIs têm eficácia muito limitada, pois não atuam sobre o componente biliar em si) e o refluxo **misto** ácido-bile (no qual a supressão ácida pelo PPI pode reduzir o dano à mucosa ao atenuar a sinergia lesiva entre ácido e bile). A ponte mecanicista entre a indicação original de Esomeprazole e o refluxo duodenogástrico existe, portanto, apenas no contexto do subtipo misto.
+A indicação original (antiulceroso) e a úlcera duodenal pertencem ao mesmo grupo de doenças pépticas relacionadas ao ácido. A previsão é, portanto, mecanisticamente coerente e praticamente equivale a um uso já estabelecido.
 
-A pontuação TxGNN extremamente elevada (99.53%) provavelmente reflete a forte conexão no grafo de conhecimento entre DRGE e PPIs, estendida por adjacência ao nó de refluxo duodenogástrico — um efeito de vizinhança que não implica necessariamente eficácia terapêutica direta. A ausência completa de ensaios clínicos específicos e a escassez de literatura direcionada recomenda cautela antes de qualquer aplicação clínica nesta indicação.
-
----
+Há uma ressalva importante: todos os 15 registros brasileiros constam como cancelados. Antes de qualquer avanço, é preciso verificar a disponibilidade regulatória atual.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para refluxo duodenogástrico com Esomeprazole.
+Foram identificados 36 ensaios; abaixo estão os mais relevantes (priorizando fase 3 concluídos e diretamente ligados a úlcera).
 
----
+| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
+|---------|------|------|------|---------|
+| [NCT00542789](https://clinicaltrials.gov/study/NCT00542789) | Phase 3 | Concluído | 343 | Esomeprazol 20 mg vs placebo na prevenção de úlceras gástricas/duodenais associadas a AINE por até 24 semanas |
+| [NCT00629928](https://clinicaltrials.gov/study/NCT00629928) | Phase 3 | Concluído | 800 | Esomeprazol 20/40 mg vs placebo na prevenção de úlceras gástricas e duodenais associadas a AINE |
+| [NCT01069939](https://clinicaltrials.gov/study/NCT01069939) | Phase 3 | Concluído | 427 | Esomeprazol 20 mg vs placebo na prevenção de úlceras gástricas/duodenais com ácido acetilsalicílico em baixa dose |
+| [NCT00595517](https://clinicaltrials.gov/study/NCT00595517) | Phase 3 | Concluído | 395 | Segurança e tolerabilidade por até 52 semanas na prevenção de úlceras associadas a AINE |
+| [NCT01142245](https://clinicaltrials.gov/study/NCT01142245) | Phase 3 | Concluído | 263 | Esomeprazol intravenoso e oral na prevenção de ressangramento de úlcera péptica após terapia endoscópica |
+| [NCT03553563](https://clinicaltrials.gov/study/NCT03553563) | Phase 3 | Concluído | 50 | Terapia de manutenção e prevenção de recorrência de úlcera gástrica/duodenal em pacientes pediátricos japoneses |
+| [NCT06850480](https://clinicaltrials.gov/study/NCT06850480) | Phase 3 | Recrutando | 356 | Zastaprazana vs Nexium® em esofagite de refluxo (esomeprazol como comparador) |
+| [NCT02296021](https://clinicaltrials.gov/study/NCT02296021) | Phase 4 | Concluído | 612 | Terapia quádrupla com berberina vs bismuto na erradicação de *H. pylori*, com esomeprazol |
+| [NCT04678492](https://clinicaltrials.gov/study/NCT04678492) | Phase 4 | Concluído | 658 | Terapia dupla de alta dose (esomeprazol + amoxicilina) vs quádrupla com bismuto no resgate de *H. pylori* |
+| [NCT07312370](https://clinicaltrials.gov/study/NCT07312370) | Phase 4 | Ainda não recrutando | 120 | Esomeprazol IV com sucralfato na cicatrização de úlcera após dissecção endoscópica da submucosa |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Narrative Review | European Journal of Clinical Pharmacology | Revisão abrangente de uso clínico e farmacocinética dos PPIs; confirma PPIs como fármacos de primeira escolha para úlcera péptica, DRGE, infecção por *H. pylori*, lesões por AINEs e síndrome de Zollinger-Ellison — sem menção específica ao refluxo duodenogástrico |
+| [11742194](https://pubmed.ncbi.nlm.nih.gov/11742194/) | 2001 | RCT | Eur J Gastroenterol Hepatol | Uma semana de terapia tripla com esomeprazol erradica *H. pylori* e cicatriza úlcera duodenal |
+| [11121908](https://pubmed.ncbi.nlm.nih.gov/11121908/) | 2000 | RCT | Aliment Pharmacol Ther | Terapia tripla de uma semana com esomeprazol é eficaz na erradicação de *H. pylori* em úlcera duodenal |
+| [12093317](https://pubmed.ncbi.nlm.nih.gov/12093317/) | 2002 | Revisão | Drugs | Esomeprazol oferece melhor controle ácido que IBPs racêmicos e maiores taxas de cicatrização de esofagite erosiva |
+| [18627213](https://pubmed.ncbi.nlm.nih.gov/18627213/) | 2008 | Revisão | Drugs | Uso em doenças ácidas gástricas, incluindo úlcera associada a AINE e úlcera duodenal por *H. pylori* |
+| [10983736](https://pubmed.ncbi.nlm.nih.gov/10983736/) | 2000 | Revisão | Drugs | Esomeprazol, primeiro IBP em isômero único, com melhor controle do pH intragástrico |
+| [22372726](https://pubmed.ncbi.nlm.nih.gov/22372726/) | 2012 | Revisão | Drugs Aging | Combinação fixa de AAS/esomeprazol para pacientes em AAS em baixa dose com risco de úlcera |
+| [19221370](https://pubmed.ncbi.nlm.nih.gov/19221370/) | 2009 | Ensaio randomizado | Ann Intern Med | Esomeprazol intravenoso na prevenção de ressangramento de úlcera péptica |
+| [16335855](https://pubmed.ncbi.nlm.nih.gov/16335855/) | 2005 | Revisão | Drugs | IBPs devem ser usados na erradicação de *H. pylori*, cicatrização de úlcera péptica e lesões por AINE |
+| [11060758](https://pubmed.ncbi.nlm.nih.gov/11060758/) | 2000 | Revisão | Expert Opin Investig Drugs | Atualização sobre tratamentos de úlceras gástricas e duodenais |
+| [39319279](https://pubmed.ncbi.nlm.nih.gov/39319279/) | 2024 | Estudo clínico | Pediatr Gastroenterol Hepatol Nutr | Uso prolongado de esomeprazol em pacientes pediátricos japoneses (1–14 anos) com doença ácida crônica |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os registros encontrados estão cancelados. Os dados compilados não informam a forma farmacêutica.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 116180105 | Nexium | Não informada | Antiulcerosos |
+| Registro nº 105730119 | Esomeprazol Magnésico | Não informada | Antiulcerosos |
+| Registro nº 100431217 | Ésio | Não informada | Antiulcerosos |
+| Registro nº 105730531 | Gaeso | Não informada | Antiulcerosos |
+| Registro nº 165070003 | Yesom | Não informada | Outros produtos para o aparelho digestivo e metabolismo |
+
+Total de 15 registros, todos cancelados; apenas os 5 principais são exibidos.
+
+## Citotoxicidade
+
+Esta seção não se aplica: esomeprazol não é antineoplásico.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: insuficiência hepática, osteoporose, osteoporose pós-menopausa, fratura óssea e gastrite atrófica crônica.
+- **Interações Medicamentosas**: foram consultadas 100 interações. Entre as listadas, destacam-se as de nível **grave**: **acalabrutinibe** e **atazanavir**. As de nível **moderado** incluem hidroclorotiazida, anfotericina B, amicacina, anfetamina, fenofibrato, apalutamida, armodafinila, atorvastatina, bendamustina, bosutinibe e bumetanida. As de nível **leve** incluem ácido acetilsalicílico, axitinibe, bortezomibe, brivaracetam e cianocobalamina.
+- Estudos farmacocinéticos de interação (por exemplo, com clopidogrel e ácido acetilsalicílico) constam entre os ensaios identificados.
+- Um relato de caso descreve elevação de cromogranina A induzida por esomeprazol, o que pode confundir o diagnóstico de tumores neuroendócrinos.
 
----
+Para advertências e contraindicações formais, consulte a bula, pois o texto da bula da ANVISA não estava disponível nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Apesar da pontuação TxGNN elevada (99.53%), a evidência clínica direta para refluxo duodenogástrico é insuficiente — não há nenhum ensaio clínico registrado e apenas 1 publicação de revisão narrativa indiretamente relacionada. O mecanismo de ação do Esomeprazole (supressão ácida) tem relevância apenas parcial nesta indicação, sendo aplicável somente ao subtipo de refluxo misto ácido-bile, e não ao refluxo biliar puro, que é mecanisticamente distinto.
+Há vários ensaios de fase 3 concluídos e ensaios randomizados que sustentam o uso do esomeprazol em úlceras gástricas e duodenais (nível L1). Contudo, trata-se de uso praticamente já estabelecido, e todos os registros brasileiros estão cancelados, o que exige verificação regulatória antes de qualquer avanço.
 
 **Para prosseguir, é necessário:**
-- Confirmar dados de registro na ANVISA e obter informações completas de segurança a partir da bula aprovada
-- Realizar revisão sistemática dedicada ao papel dos PPIs no refluxo duodenogástrico misto, distinguindo-o do refluxo biliar puro
-- Investigar se o alto escore TxGNN representa uma associação causal real ou um artefato de proximidade no grafo de conhecimento (análise de vizinhança)
-- Avaliar a viabilidade de um estudo exploratório de Fase 2 com desfecho primário centrado no componente misto do refluxo duodenogástrico
+- Confirmar a situação regulatória atual na ANVISA (registros cancelados, possível novo registro ou alternativas disponíveis no mercado).
+- Obter e analisar a bula para advertências e contraindicações formais.
+- Obter dados do mecanismo de ação (por exemplo, via DrugBank).
+- Avaliar os riscos de interação medicamentosa (acalabrutinibe e atazanavir) e as preocupações em populações específicas (insuficiência hepática, osteoporose).
+- Manter as demais previsões (refluxo duodenogástrico, obstrução duodenal, perfuração, acne, entre outras) em Hold, pois carecem de evidência clínica direta ou de plausibilidade mecanística.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

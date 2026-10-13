@@ -2,15 +2,15 @@
 layout: default
 title: Clobetasol Propionate
 parent: Evidência Alta (L1-L2)
-nav_order: 194
-evidence_level: L1
+nav_order: 231
+evidence_level: L2
 indication_count: 7
 ---
 
 # Clobetasol Propionate
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **7** 
+Nível de evidência: **L2** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,12 @@ Nível de evidência: **L1** | Indicações previstas: **7**
 
 </div>
 
-# Clobetasol Propionato: Das Dermatoses Inflamatórias ao Exantema
+# Propionato de Clobetasol: De corticosteroide tópico para exantema (com evidências reais em líquen plano oral e líquen escleroso)
 
 ## Resumo em Uma Frase
 
-Clobetasol propionato é um corticosteroide tópico superpotente amplamente utilizado no tratamento de dermatoses inflamatórias como psoríase, eczema e líquen escleroso.
-O modelo TxGNN prevê que pode ser eficaz para **Exantema (Exanthem)** — espectro de erupções cutâneas inflamatórias imunomediadas —
-com **21 ensaios clínicos** e **6 publicações** apoiando esta direção.
+O propionato de clobetasol é um corticosteroide tópico de alta potência, registrado no Brasil na classe dos glicocorticoides tópicos (exceto uso oftálmico) e dos corticosteroides tópicos.
+O modelo TxGNN prevê que pode ser eficaz para **exantema (Exanthem)**, atualmente com **7 ensaios clínicos** e **nenhuma publicação** apoiando esta direção. Os ensaios tratam, na verdade, de líquen plano oral e líquen escleroso, e não de exantema propriamente dito.
 
 ---
 
@@ -43,23 +42,25 @@ com **21 ensaios clínicos** e **6 publicações** apoiando esta direção.
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Dermatoses inflamatórias (psoríase, eczema, líquen escleroso) |
+| Indicação Original | Glicocorticoides tópicos, exceto uso oftálmico |
 | Nova Indicação Prevista | Exantema (Exanthem) |
-| Pontuação de Previsão TxGNN | 99.26% (TxGNN rank #4584) |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Sem registro identificado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Pontuação de Previsão TxGNN | 99,26% |
+| Nível de Evidência | L2 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 |
+| Decisão Recomendada | Hold (questão de pesquisa: esclarecer o mapeamento da indicação) |
+
+**Observação sobre a seleção da indicação:** a indicação de maior pontuação (rank 1) é a ceratose folicular invertida vulvar (99,46%), mas não há ensaios nem literatura para ela (L5). Esta avaliação foca no exantema (rank 3), que reúne o maior volume de evidências. Outras previsões estão resumidas na seção de conclusão.
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Com base no conhecimento farmacológico estabelecido, Clobetasol propionato é um glicocorticoide sintético superpotente (Classe I na classificação americana) que atua por meio de receptores intracelulares de glicocorticoides. O principal mecanismo envolve a inibição da via NF-κB, a redução da produção de citocinas pró-inflamatórias (IL-1β, TNF-α, IL-6) e a supressão da ativação de linfócitos T — conferindo potente efeito anti-inflamatório e imunossupressor de ação local. A confirmação formal do mecanismo de ação via base de dados farmacológica ainda está pendente.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o clobetasol é um agonista sintético do receptor de glicocorticoide (NR3C1), de alta potência, usado por via tópica para inflamação e prurido da pele em condições como reações alérgicas, eczema e psoríase.
 
-O termo "exantema" engloba um amplo espectro de erupções cutâneas de origem inflamatória ou imunomediada, incluindo líquen plano oral (OLP), líquen escleroso vulvar (LS), síndrome DRESS e dermatites por hipersensibilidade. Todas essas condições compartilham como substrato patológico a inflamação tecidual mediada por células T ou por desregulação de citocinas — exatamente o alvo central do mecanismo dos corticosteroides tópicos.
+A rotulagem "exantema" parece ser um mapeamento impreciso. Os ensaios vinculados tratam principalmente de líquen plano oral (LPO) e de uma doença inflamatória de mucosa semelhante, além de um ensaio em líquen escleroso vulvar. A supressão da inflamação mucocutânea mediada por linfócitos T, via receptor de glicocorticoide, é um mecanismo coerente para essas doenças.
 
-Clobetasol já é reconhecido como tratamento **padrão-ouro** para o líquen escleroso vulvar e é amplamente utilizado para o líquen plano oral, ambos enquadrados na categoria "exantema". A previsão do TxGNN, portanto, reflete e formaliza usos já estabelecidos na prática dermatológica internacional, sustentados por múltiplos ensaios de Fase 2 e Fase 3 concluídos com o próprio fármaco como braço de intervenção ou controle ativo.
+Portanto, as evidências sustentam o uso em líquen plano e líquen escleroso, não em exantema como tal. É preciso esclarecer o mapeamento da indicação antes de qualquer recomendação.
 
 ---
 
@@ -67,57 +68,57 @@ Clobetasol já é reconhecido como tratamento **padrão-ouro** para o líquen es
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT05010421](https://clinicaltrials.gov/study/NCT05010421) | Phase 3 | Concluído | 246 | Maior RCT disponível: compara laser CO₂ não ablativo com Clobetasol tópico para líquen escleroso — doença autoimune genital com risco aumentado de câncer vulvar. Clobetasol atua como braço controle ativo padrão. |
-| [NCT02573883](https://clinicaltrials.gov/study/NCT02573883) | Phase 3 | Concluído | 52 | Estudo CuRLS: Clobetasol 0,05% pomada vs laser CO₂ fracionado para líquen escleroso vulvar. Avalia eficácia e segurança de ambas as abordagens. |
-| [NCT00102557](https://clinicaltrials.gov/study/NCT00102557) | Phase 2 | Concluído | 74 | RCT direto: Clobetasol em bochecho vs Hidroxicloroquina para líquen plano oral. A condição causa úlceras dolorosas que interferem na alimentação e no funcionamento diário. |
-| [NCT00393263](https://clinicaltrials.gov/study/NCT00393263) | Phase 2 | Concluído | 38 | RCT duplo-cego: Pimecrolimus 1% vs Clobetasol 0,05% para líquen escleroso vulvar. Confirma Clobetasol como padrão-ouro e avalia imunomodulador alternativo. |
-| [NCT03592342](https://clinicaltrials.gov/study/NCT03592342) | Phase 2 | Concluído | 140 | RCT duplo-cego: 3 doses de Clobetasol em patches mucoadesivos Rivelin® para líquen plano oral sintomático. Avalia resposta dose-dependente em 4 semanas. |
-| [NCT04364555](https://clinicaltrials.gov/study/NCT04364555) | Phase 2/3 | Em andamento (recrutamento encerrado) | 90 | Ensaio multicêntrico placebo-controlado: três braços (ativo 2×/dia, ativo 1×/dia, placebo) para líquen plano oral sintomático. Alta qualidade metodológica; resultados esperados até dez/2025. |
-| [NCT04673916](https://clinicaltrials.gov/study/NCT04673916) | NA | Concluído | 61 | Comparação de dois protocolos terapêuticos para líquen plano oral: gel de Clobetasol 0,05% vs enxaguante anti-inflamatório. Avalia eficácia clínica e perfil de efeitos adversos. |
-| [NCT01987076](https://clinicaltrials.gov/study/NCT01987076) | NA | Desconhecido | 112 | Primeiro estudo controlado proposto para DRESS (síndrome grave de hipersensibilidade com eosinofilia e sintomas sistêmicos) — exantema com mortalidade superior a 10%. Avalia papel dos corticosteroides como tratamento curativo. |
-| [NCT01323673](https://clinicaltrials.gov/study/NCT01323673) | Phase 4 | Concluído | 125 | RCT de Clobetasol em espuma sem etanol (Olux-E) vs veículo para dermatite crônica das mãos. Suporta a eficácia de diferentes formulações de Clobetasol em exantemas localizados. |
-| [NCT06752343](https://clinicaltrials.gov/study/NCT06752343) | Phase 2 | Concluído | 29 | Estudo split-mouth: terapia fotodinâmica vs Clobetasol tópico para forma erosiva de líquen plano oral. Forma erosiva associada a risco aumentado de carcinoma oral. |
-
----
-
-## Evidências da Literatura
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [34289766](https://pubmed.ncbi.nlm.nih.gov/34289766/) | 2021 | Coorte Retrospectivo | Current Medical Research and Opinion | Caracterização de hospitalizações e visitas ao pronto-socorro por psoríase pustulosa generalizada (GPP) nos EUA — forma grave de exantema pustuloso com alta morbidade, requerendo tratamento imediato com corticosteroides. |
-| [36342724](https://pubmed.ncbi.nlm.nih.gov/36342724/) | 2022 | Relato de Caso | Journal of Drugs in Dermatology | Erupção eritematosa quase eritrodérmica e assintomática mantida por 10 anos em paciente com HAP em uso de epoprostenol IV — documentação de exantema farmacológico atípico de curso crônico. |
-| [18544295](https://pubmed.ncbi.nlm.nih.gov/18544295/) | 2008 | Relato de Caso | Journal of Cutaneous Medicine and Surgery | Síndrome de Gianotti-Crosti em adultos: exantema benigno autolimitado de etiologia viral, originalmente descrito em crianças. Dois casos adultos relatados, expandindo o espectro clínico da doença. |
-| [29974124](https://pubmed.ncbi.nlm.nih.gov/29974124/) | 2018 | Relato de Caso | Singapore Medical Journal | Exantema por fotossensibilidade induzida por tansulosina — documentação de erupção medicamentosa com padrão fotograficamente típico, relevante para diagnóstico diferencial de exantemas por drogas. |
-| [29736978](https://pubmed.ncbi.nlm.nih.gov/29736978/) | 2018 | Relato de Caso | Clinical and Experimental Dermatology | Exantema papular eritematoso após contato com plantas durante jardinagem — caso de exantema de contato por irritantes ambientais. |
-| [30604475](https://pubmed.ncbi.nlm.nih.gov/30604475/) | 2019 | Relato de Caso | Clinical and Experimental Dermatology | Cornos cutâneos múltiplos eruptivos no couro cabeludo — apresentação incomum de lesões queratóticas em padrão eruptivo, contextualizando o espectro de exantemas proliferativos. |
+| [NCT04364555](https://clinicaltrials.gov/study/NCT04364555) | Phase 2/3 | Ativo, sem recrutamento | 90 | Ensaio multicêntrico, controlado por placebo, de clobetasol tópico em LPO sintomático (3 grupos, bochechos 2x/dia). Desenho mais forte entre os ensaios; sem resultados disponíveis |
+| [NCT02573883](https://clinicaltrials.gov/study/NCT02573883) | Phase 3 | Concluído | 52 | Clobetasol 0,05% pomada vs. laser de CO2 fracionado em líquen escleroso vulvar |
+| [NCT03592342](https://clinicaltrials.gov/study/NCT03592342) | Phase 2 | Concluído | 140 | Randomizado, duplo-cego, controlado por placebo; adesivos Rivelin®-CLO (0, 1, 5 ou 20 μg) em LPO, por 4 semanas |
+| [NCT03026478](https://clinicaltrials.gov/study/NCT03026478) | Phase 2 | Desconhecido | 30 | Clobetasol vs. betametasona em Orabase, com clotrimazol, em LPO |
+| [NCT03386643](https://clinicaltrials.gov/study/NCT03386643) | Phase 2 | Concluído | 22 | Probiótico HN019 sobre aspectos clínicos e histopatológicos do LPO; clobetasol provavelmente como tratamento de base ou comparador |
+| [NCT07536737](https://clinicaltrials.gov/study/NCT07536737) | N/A | Concluído | 65 | Terapia fotodinâmica vs. corticosteroide tópico, com foco em paladar e estresse oxidativo salivar em LPO (exploratório) |
+| [NCT07278999](https://clinicaltrials.gov/study/NCT07278999) | N/A | Recrutando | 60 | Fotobiomodulação, terapia fotodinâmica e clobetasol (padrão atual) em LPO erosivo; sem resultados |
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-Nenhum registro ANVISA foi identificado para Clobetasol Propionato nos dados consultados (total de registros: 0). Esta informação diverge do uso clínico amplamente estabelecido do fármaco no Brasil e provavelmente reflete uma limitação da fonte de dados. Recomenda-se verificação direta no portal público da ANVISA antes de qualquer decisão regulatória.
+Todos os 20 registros estão **cancelados**; não há registro válido atualmente. Principais registros (máximo de 5):
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 155840199 | Propionato de Clobetasol | Não informada | Glicocorticoides tópicos, simples, exceto uso oftálmico |
+| Registro nº 101070198 | Psorex | Não informada | Glicocorticoides tópicos, simples, exceto uso oftálmico |
+| Registro nº 101910238 | Therapsor | Não informada | Glicocorticoides tópicos, simples, exceto uso oftálmico |
+| Registro nº 129160066 | Clob-X | Não informada | Corticosteroides tópicos |
+| Registro nº 118190220 | Topirex | Não informada | Glicocorticoides tópicos, simples, exceto uso oftálmico |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações previstas pelo grafo de conhecimento** (relações fármaco-doença do TxGNN, não texto de bula): hiperglicemia, insuficiência adrenocortical, doença de Addison, diabetes mellitus, cetoacidose diabética, foliculite, dermatite seborreica, glaucoma, atrofia da pele, doença vascular periférica, claudicação intermitente e doença arterial periférica.
+- **Interações medicamentosas:** a consulta foi concluída e retornou apenas a interação farmacológica com o receptor de glicocorticoide (alvo terapêutico), sem interações medicamentosas clinicamente classificadas.
+- **Pontos de atenção do contexto:** corticosteroides potentes podem agravar a atrofia cutânea. Em neonatos, há alto risco de absorção sistêmica e supressão do eixo hipotálamo-hipófise-adrenal.
+
+Consulte a bula para advertências e contraindicações oficiais.
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Existem pelo menos dois ensaios clínicos de Fase 3 concluídos e múltiplos ensaios de Fase 2 avaliando diretamente o Clobetasol propionato em condições classificadas como exantema imunomediado — especialmente líquen escleroso vulvar e líquen plano oral —, com Clobetasol já reconhecido como padrão-ouro nessas subindicações. As evidências atingem nível L1, tornando a progressão clinicamente justificável.
+- Existem ensaios de Phase 2/3 e um de Phase 3 concluído (nível L2), mas todos tratam de líquen plano oral e líquen escleroso, não de exantema. O mapeamento da indicação é impreciso e todos os registros brasileiros estão cancelados.
+
+**Outras previsões (resumo):**
+- **Acne queloidiana (rank 4, 99,21%, L3):** um estudo aberto de 2005 (PMID [16047868](https://pubmed.ncbi.nlm.nih.gov/16047868/), *Cutis*) com espumas de clobetasol 0,05% e betametasona 0,12% em 20 pacientes; sem controle e com baixo poder estatístico, mas é evidência clínica direta. Candidata a questão de pesquisa.
+- **Ceratose folicular invertida vulvar, acrodermatite crônica atrófica, dermatomiosite neonatal, doença pulmonar intersticial infantil secundária e dermatomiosite amiopática (ranks 1, 2, 5, 6 e 7):** apenas previsão do modelo (L5), sem ensaios nem literatura; recomendação Hold.
 
 **Para prosseguir, é necessário:**
-- Verificar o registro regulatório atualizado diretamente no portal ANVISA, pois os dados do Evidence Pack indicam ausência de registro, o que é inconsistente com o perfil estabelecido do fármaco
-- Obter dados completos de segurança, advertências e contraindicações da bula de referência (ANVISA, EMA ou FDA)
-- Confirmar mecanismo de ação formal via DrugBank API (DG002 pendente)
-- Definir a subindicação-alvo prioritária dentro do espectro "exantema" para desenvolvimento clínico estruturado — recomenda-se **líquen escleroso vulvar** como ponto de entrada, onde Clobetasol já é padrão-ouro com suporte de Fase 3
-- Avaliar o perfil de segurança específico para uso prolongado, incluindo risco de atrofia cutânea, supressão do eixo hipotálamo-hipófise-adrenal (HPA) e infecções secundárias em uso crônico
+- Esclarecer se a indicação-alvo é exantema ou, mais plausivelmente, líquen plano oral e líquen escleroso, que já têm evidência direta.
+- Obter os resultados dos ensaios concluídos (NCT03592342, NCT02573883) e do NCT04364555 após a conclusão.
+- Obter a bula oficial na ANVISA (advertências e contraindicações) e dados de mecanismo de ação.
+- Avaliar a viabilidade regulatória, já que não há registro válido no Brasil, e a compatibilidade de via de administração (por exemplo, formulações mucoadesivas orais).
+- Definir um plano de segurança para absorção sistêmica, atrofia cutânea e uso pediátrico.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

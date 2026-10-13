@@ -2,7 +2,7 @@
 layout: default
 title: Potassium Hydroxide
 parent: Apenas Predição do Modelo (L5)
-nav_order: 407
+nav_order: 540
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,13 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Hidróxido de Potássio (KOH): De Reagente Diagnóstico para Hiperplasia Prostática Benigna
+# Hidróxido de Potássio: De nutriente parenteral para hiperplasia prostática benigna
 
 ## Resumo em Uma Frase
 
-O hidróxido de potássio (KOH) é um álcali forte sem indicação terapêutica aprovada, utilizado na medicina principalmente como reagente diagnóstico — a preparação KOH para identificação microscópica de fungos em pele e cabelo.
-O modelo TxGNN prevê que pode ser eficaz para **Hiperplasia Prostática Benigna (Benign Prostatic Hyperplasia)**, porém com **0 ensaios clínicos** e **0 publicações** apoiando especificamente esta direção.
-A pontuação elevada (97.99%) é considerada um artefato do grafo de conhecimento, sem bioplausibilidade biológica que sustente o reposicionamento.
+O hidróxido de potássio é um álcali inorgânico que constava em um produto de nutrição parenteral (NUTRIFLEX PLUS), registrado na ANVISA com a indicação "nutrientes parenterais".
+O modelo TxGNN prevê que poderia ser eficaz para **Hiperplasia Prostática Benigna (benign prostatic hyperplasia)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção.
+Trata-se de uma previsão puramente computacional, sem respaldo experimental ou clínico.
 
 ---
 
@@ -43,47 +43,65 @@ A pontuação elevada (97.99%) é considerada um artefato do grafo de conhecimen
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Nenhuma indicação terapêutica aprovada (uso como reagente diagnóstico laboratorial) |
-| Nova Indicação Prevista | Hiperplasia Prostática Benigna (Benign Prostatic Hyperplasia) |
-| Pontuação de Previsão TxGNN | 97.99% |
+| Indicação Original | Nutrientes parenterais |
+| Nova Indicação Prevista | Hiperplasia Prostática Benigna (benign prostatic hyperplasia) |
+| Pontuação de Previsão TxGNN | 97,99% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (0 registros ANVISA) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 1 (cancelado) |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-O hidróxido de potássio (KOH) é uma base forte inorgânica (fórmula: KOH), amplamente utilizada como reagente industrial e laboratorial. No contexto clínico, seu único uso reconhecido é o **exame de KOH** (KOH mount ou KOH prep): uma solução diluída a 10–20% aplicada sobre raspados de pele, unhas ou cabelo para dissolver queratina e permitir a visualização de hifas ou esporos fúngicos ao microscópio. Trata-se inteiramente de uma ferramenta **diagnóstica**, não terapêutica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o hidróxido de potássio é um álcali inorgânico usado historicamente como ajustador de pH ou fonte de eletrólitos (potássio) em nutrição parenteral. Sua função nesse contexto é de apoio nutricional e de equilíbrio eletrolítico, não de ação terapêutica específica.
 
-Não há dados sobre mecanismo de ação terapêutico porque o KOH não possui indicação farmacológica reconhecida por nenhum órgão regulatório. Sua atividade química — dissolução alcalina de proteínas e lipídios — é útil no laboratório diagnóstico, mas representa risco de lesão tecidual severa em qualquer aplicação clínica sistêmica ou tópica com finalidade de tratamento.
+Não foi identificada relação mecanística plausível entre essa função e o tecido prostático. A pontuação elevada do TxGNN (97,99%) reflete apenas proximidade na rede de conhecimento, sem estudos ou farmacologia que a sustentem. Não há similaridade demonstrada entre a indicação original e a nova.
 
-A previsão do TxGNN para hiperplasia prostática benigna (BPH) obteve pontuação de 97.99%, provavelmente devido a conexões indiretas no grafo de conhecimento envolvendo metabolismo de potássio ou vias de sinalização iónica compartilhadas. No entanto, **não há bioplausibilidade para o uso de KOH no tratamento de BPH**: a fisiopatologia da BPH envolve hiperplasia do epitélio prostático e estroma mediada por andrógenos (DHT via 5α-redutase) e fatores de crescimento (IGF, EGF), mecanismos completamente distintos das propriedades cáusticas do KOH. Esta previsão é classificada como **falso positivo de alto risco** no contexto do grafo de conhecimento.
+**Previsões alternativas.** Entre as 10 principais previsões do modelo (pontuações de 96,1% a 97,99%), todas têm nível de evidência L5 e recomendação Hold:
+
+| Posição | Doença prevista | Pontuação TxGNN | Observação |
+|---|---|---|---|
+| 2 | Alopecia | 97,47% | A literatura recuperada trata da tinha do couro cabeludo; o KOH aparece como reagente diagnóstico (exame direto), não como tratamento. Provável artefato de palavra-chave. |
+| 3 | Osteoartrite | 97,16% | Dois capítulos sobre microscopia eletrônica de varredura de osso (preparo de amostras); sem evidência terapêutica. |
+| 4 | Insuficiência cardíaca congestiva | 97,00% | Literatura sobre infecções fúngicas e método histológico; KOH apenas como reagente. O KOH não é fonte clínica adequada de potássio. |
+| 5 | Hipotricose simples do couro cabeludo | 96,94% | Sem evidências; distúrbio genético sem mecanismo plausível. |
+| 6 | Hipotricose congênita com milia | 96,82% | Sem evidências; provável proximidade no grafo com fenótipos capilares. |
+| 7 | Suscetibilidade à osteoartrite | 96,81% | Conceito de suscetibilidade genética; previsão puramente computacional. |
+| 8 | Alopecia areata difusa | 96,33% | Único artigo é diagnóstico (dermatoscopia); sem mecanismo imunomodulador conhecido. |
+| 9 | Doença cardíaca pulmonar aguda | 96,32% | Sem evidências nem mecanismo plausível. |
+| 10 | Angina de Prinzmetal | 96,10% | Sem evidências; o KOH é um álcali cáustico, não uma fonte terapêutica de potássio. |
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados ao uso de Potassium hydroxide em Hiperplasia Prostática Benigna registrados.
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ---
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada ao uso terapêutico de Potassium hydroxide em Hiperplasia Prostática Benigna.
+Atualmente não há literatura relacionada para hiperplasia prostática benigna.
+
+Para outras indicações previstas, a literatura recuperada (por exemplo, revisões sobre tinha do couro cabeludo, PMID 38786712 e 31906842) refere-se ao uso do KOH como reagente de diagnóstico laboratorial, não como tratamento. Essas correspondências não sustentam o reposicionamento.
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-O hidróxido de potássio não possui nenhum registro de medicamento ativo junto à ANVISA. É comercializado exclusivamente como reagente químico de laboratório (produto industrial/diagnóstico), sem qualquer registro farmacêutico.
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 100850109 (cancelado) | NUTRIFLEX PLUS | Não informada | Nutrientes parenterais |
 
 ---
 
 ## Considerações de Segurança
 
-Não há bula farmacêutica registrada para o Potassium hydroxide no Brasil. Do ponto de vista da segurança química, o KOH é classificado como substância corrosiva (GHS05), capaz de causar queimaduras graves em pele, mucosas e trato gastrointestinal. Qualquer desenvolvimento para uso terapêutico exigiria avaliação toxicológica completa desde a fase pré-clínica.
+Consulte a bula para informações de segurança.
+
+Observação: o hidróxido de potássio é um álcali cáustico. Não foram localizadas interações medicamentosas nos dados compilados para este relatório.
 
 ---
 
@@ -92,15 +110,14 @@ Não há bula farmacêutica registrada para o Potassium hydroxide no Brasil. Do 
 **Decisão: Hold**
 
 **Justificativa:**
-O hidróxido de potássio é um reagente químico cáustico sem indicação terapêutica, sem registro regulatório no Brasil e sem qualquer mecanismo biológico plausível para o tratamento de hiperplasia prostática benigna. A pontuação elevada do TxGNN (97.99%) é interpretada como artefato de propagação indireta no grafo de conhecimento — não reflete utilidade clínica real e representa um falso positivo estrutural do modelo para esta classe de substâncias.
+A previsão para hiperplasia prostática benigna baseia-se apenas na pontuação do modelo, sem ensaios clínicos, sem literatura e sem mecanismo plausível. O único registro no Brasil está cancelado, e as demais previsões também carecem de sustentação.
 
-**Para prosseguir com qualquer investigação futura, seria necessário:**
-- Investigar a origem do alto score no grafo de conhecimento do TxGNN (identificar o caminho de propagação que gerou o falso positivo)
-- Avaliar se existem derivados ou formas galênicas diluídas de compostos de potássio com perfil de segurança adequado para investigação farmacológica
-- Estabelecer bioplausibilidade biológica básica antes de qualquer consideração clínica
-- Considerar a exclusão de reagentes laboratoriais cáusticos da base de candidatos do pipeline de reposicionamento para evitar falsos positivos sistemáticos
-
-> ⚠️ **Aviso**: Os resultados deste relatório são de natureza exploratória e gerados por modelo computacional. Não constituem recomendação terapêutica nem substituem avaliação clínica especializada. O hidróxido de potássio é uma substância cáustica — qualquer uso experimental requer supervisão regulatória e toxicológica rigorosa.
+**Para prosseguir, é necessário:**
+- Dados de mecanismo de ação (MOA) que justifiquem uma ligação biológica com o tecido prostático
+- Bula e informações de segurança (advertências e contraindicações) do registro da ANVISA
+- Estudos pré-clínicos ou observacionais que sustentem a hipótese
+- Avaliação da compatibilidade de via de administração, já que o KOH é cáustico e não é apropriado como fonte terapêutica de potássio
+- Revisão crítica das previsões do modelo, pois a literatura recuperada parece resultar de coincidência de palavras-chave
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

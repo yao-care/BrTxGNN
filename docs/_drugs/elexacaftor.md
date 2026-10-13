@@ -2,7 +2,7 @@
 layout: default
 title: Elexacaftor
 parent: Apenas Predição do Modelo (L5)
-nav_order: 235
+nav_order: 285
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,52 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Elexacaftor: Da Fibrose Cística à Artrite Reumatoide
+# Elexacaftor: Da fibrose cística à artrite reumatoide
 
 ## Resumo em Uma Frase
 
-Elexacaftor é um corretor da proteína CFTR, comercializado como parte da combinação tripla Elexacaftor/Tezacaftor/Ivacaftor (ETI) para o tratamento da Fibrose Cística (FC) em pacientes com pelo menos uma mutação F508del.
-O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid Arthritis)**, atualmente com **1 ensaio clínico** de relevância indireta e **nenhuma publicação** direta apoiando esta direção.
-
----
+Elexacaftor é um corretor da proteína CFTR, usado em combinação tripla (com tezacaftor e ivacaftor) no tratamento da fibrose cística.
+O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid Arthritis)**, mas até o momento não há **nenhum ensaio clínico** nem **nenhuma publicação** que apoie esta direção; a previsão se baseia apenas em cálculo computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Fibrose Cística (Cystic Fibrosis) |
+|------|------|
+| Indicação Original | Fibrose cística |
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
 | Pontuação de Previsão TxGNN | 98,11% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 2 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Elexacaftor é um corretor molecular do CFTR (Cystic Fibrosis Transmembrane conductance Regulator): ele estabiliza o dobramento da proteína CFTR mutante F508del, permitindo que ela seja processada e transportada corretamente até a membrana celular. Atualmente, não há dados detalhados sobre o mecanismo de ação completo disponíveis neste Evidence Pack. Com base no conhecimento estabelecido, Elexacaftor faz parte da combinação ETI (Trikafta®/Kaftrio®) — sua eficácia na Fibrose Cística está amplamente documentada como modulador primário da proteína CFTR.
+Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, o elexacaftor faz parte de uma terapia tripla para fibrose cística, junto com tezacaftor e ivacaftor. Ele atua sobre o canal CFTR, aumentando a quantidade de canais corretamente dobrados na membrana celular (função de corretor), com um pequeno efeito potencializador do canal. Em conjunto, a combinação restaura o fluxo de cloreto e ajuda a equilibrar sal e água nas superfícies epiteliais. Dados farmacológicos também indicam efeitos fora do alvo sobre alguns canais de potássio.
 
-O elo hipotético com a Artrite Reumatoide parte da observação de que o CFTR é expresso em neutrófilos e linfócitos T. Pacientes com FC apresentam disfunção de neutrófilos e inflamação sistêmica exacerbada (elevação de IL-8 e TNF-α), marcadores inflamatórios que também desempenham papel central na patogênese da AR. Estudos recentes demonstram que o tratamento com ETI altera o fenótipo e a função dos neutrófilos circulantes em pacientes com FC, o que fornece uma pista biológica inicial para a sobreposição entre as duas condições.
+Não há, nos dados compilados, uma ligação mecanística plausível entre a modulação do CFTR e a artrite reumatoide, uma doença autoimune inflamatória das articulações. A previsão vem exclusivamente da pontuação do grafo de conhecimento do TxGNN (0,981) e não foi corroborada por estudos clínicos ou publicações. A similaridade com a indicação original também não foi avaliada.
 
-Contudo, esta conexão permanece altamente especulativa. Não existe nenhum estudo mecanístico que investigue diretamente o efeito do Elexacaftor no tecido sinovial ou nas células imunes articulares características da AR. A previsão do TxGNN reflete, provavelmente, a sobreposição de vias inflamatórias no grafo de conhecimento — e não evidências clínicas ou pré-clínicas estabelecidas para esta indicação.
-
----
-
-## Evidências de Ensaios Clínicos
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|------------------|------|--------|---------------|--------------------|
-| [NCT04970225](https://clinicaltrials.gov/study/NCT04970225) | N/A | Concluído | 47 | Estudo prospectivo analisando função e fenótipo de neutrófilos em pacientes com FC, avaliando o impacto da infecção crônica por *Pseudomonas aeruginosa*, do tratamento com moduladores CFTR e de exacerbações agudas. Relevância para AR classificada como indireta (Grau C): neutrófilos são componentes do processo inflamatório articular, mas o ensaio não foi desenhado para AR e não constitui evidência de reposicionamento. |
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
-
-## Informações de Comercialização no Brasil
-
-O Elexacaftor está registrado no Brasil com **2 registros ativos** e situação de comercialização confirmada. Os detalhes individuais de cada registro (número do registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no presente Evidence Pack. Consulte o banco de dados da ANVISA para informações completas dos registros.
-
----
+Por isso, a previsão deve ser tratada como uma hipótese computacional a ser investigada, e não como indício de eficácia.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Interações Medicamentosas**: foram identificadas 9 interações. Oito têm gravidade moderada: empagliflozina, repaglinida, rifaximina, rosuvastatina, sinvastatina, selexipague, revefenacina e etinilestradiol. A nona refere-se à interação farmacológica com o alvo CFTR, sem classificação de gravidade.
+- Não há dados de advertências e contraindicações da bula. Consulte a bula para informações adicionais de segurança.
+- Outros achados da literatura, no contexto da fibrose cística, incluem um caso de hipervitaminose A com hipertensão intracraniana após o início da terapia tripla e uma avaliação do risco de síndrome metabólica após um ano de exposição. Esses dados não se referem à artrite reumatoide.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão TxGNN para Artrite Reumatoide apoia-se em sobreposição de vias inflamatórias no grafo de conhecimento (CFTR em neutrófilos/células T), sem qualquer evidência pré-clínica ou clínica direta nesta indicação. O único ensaio recuperado é tangencial (foco em fenótipo de neutrófilos em FC), e nenhuma publicação direta foi identificada — configurando nível de evidência L5 e estágio de decisão S0.
+A previsão para artrite reumatoide tem pontuação alta no modelo, mas nenhuma evidência clínica, de literatura ou mecanística a sustenta (nível L5). Além disso, o medicamento não está comercializado no Brasil e faltam dados de segurança da bula.
 
-> **Observação estratégica:** Embora Artrite Reumatoide seja a indicação com maior pontuação TxGNN (98,11%), a análise do Evidence Pack revela que **Hipertensão Pulmonar** (rank 10, score 97,45%) apresenta evidências substancialmente mais sólidas: 1 ensaio clínico com relevância Grau B (NCT07363304, 150 participantes em recrutamento), 7 publicações incluindo dados de MRI funcional mostrando melhora de perfusão pulmonar pós-ETI, e mecanismo biológico direto (melhora de CFTR → melhora V/Q → redução de HP secundária à hipóxia). Nível de evidência L4, estágio S1. Recomenda-se avaliar Hipertensão Pulmonar como candidatura prioritária para aprofundamento.
-
-**Para prosseguir com Artrite Reumatoide, é necessário:**
-- Estudos pré-clínicos em modelos animais de AR tratados com moduladores CFTR
-- Dados de MOA detalhados para Elexacaftor (obter via DrugBank API — DG002)
-- Análise de expressão de CFTR em sinoviócitos e células imunes do líquido sinovial
-- Avaliação de segurança completa (download e análise da bula — DG001 Blocking)
-- Revisão de literatura expandida (CFTR + inflamação autoimune + neutrófilos)
+**Para prosseguir, é necessário:**
+- Obter dados do mecanismo de ação (MOA), por exemplo, consultando a API do DrugBank
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa necessária para a triagem de segurança
+- Realizar revisão sistemática da literatura e avaliar se há uma hipótese biológica plausível ligando o CFTR à artrite reumatoide
+- Se a hipótese se sustentar, buscar evidências pré-clínicas antes de qualquer ensaio clínico
+- Avaliar a situação regulatória no Brasil, já que não há registro vigente
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

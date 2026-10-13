@@ -2,7 +2,7 @@
 layout: default
 title: Penciclovir
 parent: Apenas Predição do Modelo (L5)
-nav_order: 391
+nav_order: 516
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,55 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Penciclovir: Do herpes labial à fasciolíase
+# Penciclovir: Do herpes labial à fasciolíase (previsão computacional)
 
 ## Resumo em Uma Frase
 
-Penciclovir é um antiviral nucleosídeo análogo aprovado para uso tópico no tratamento do herpes labial (herpes simples tipo 1).
-O modelo TxGNN prevê potencial para **Fasciolíase (Fascioliasis)**, contudo esta direção possui **0 ensaios clínicos** e **0 publicações** de suporte — a plausibilidade biológica desta previsão é considerada muito baixa, com elevada probabilidade de falso positivo estrutural do modelo.
-
----
+Penciclovir é um antiviral análogo de guanosina, originalmente usado no tratamento do herpes labial.
+O modelo TxGNN prevê que pode ser eficaz para **Fasciolíase (Fascioliasis)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Herpes labial (herpes simples tipo 1) |
+| Indicação Original | Herpes labial (conforme as relações de indicação do grafo de conhecimento, pois não há registros no Brasil) |
 | Nova Indicação Prevista | Fasciolíase (Fascioliasis) |
-| Pontuação de Previsão TxGNN | 99.06% |
+| Pontuação de Previsão TxGNN | 99,06% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 8 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente não há dados detalhados de mecanismo de ação (MOA) disponíveis neste pacote. Com base no conhecimento farmacológico estabelecido, o Penciclovir é um análogo da guanosina que, após ativação pela **timidina quinase (TK) viral** presente exclusivamente em células infectadas por herpesvírus (HSV-1, HSV-2, VZV), tem sua forma trifosforilada ativar a inibição seletiva da **DNA polimerase viral**, interrompendo a replicação do vírus. A formulação disponível é exclusivamente tópica (creme).
+Atualmente, não há dados detalhados de mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, o penciclovir é um análogo de guanosina: após ser fosforilado pela timidina quinase viral, sua forma trifosfato ativa inibe a DNA polimerase dos herpesvírus. Sua eficácia no herpes labial é reconhecida.
 
-A fasciolíase é uma parasitose hepática causada por trematódeos (*Fasciola hepatica* e *F. gigantica*), com biologia fundamentalmente distinta dos vírus DNA. Helmintos **não possuem enzimas homólogas à TK viral** responsável pela ativação do Penciclovir — portanto, o fármaco não pode ser convertido à sua forma ativa no ambiente parasitário, e a inibição de DNA polimerase viral não tem paralelo funcional na biologia de worms.
+Para a fasciolíase, porém, **não se identifica um vínculo mecanístico plausível**. *Fasciola hepatica* é um trematódeo e não possui via de ativação dependente de timidina quinase viral. Os anti-helmínticos estabelecidos (como albendazol e praziquantel) atuam por alvos diferentes.
 
-A pontuação elevada do TxGNN (99.06%) provavelmente reflete um **viés estrutural no grafo de conhecimento**: o nó "nucleosídeo análogo" apresenta alta conectividade com o nó genérico "doenças infecciosas", gerando associações artificiais com doenças parasitárias. Este padrão se repete nas posições 2 a 4 do ranking (cysticercosis, coenurosis, intestinal helminthiasis), reforçando o diagnóstico de **agrupamento de falso positivo** (*parasitic cluster bias*).
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
+A pontuação alta (99,06%) reflete apenas uma previsão computacional, sem respaldo clínico ou da literatura. As demais previsões do modelo seguem o mesmo padrão: cisticercose, cenurose, helmintíase intestinal, endomiometrite e diversos subtipos de mesotelioma e tumores pleurais ou sinoviais, todas também com nível L5 e sem evidências. Nos mesoteliomas, o único vínculo teórico passa por terapia gênica suicida (HSV-TK associada a um análogo nucleosídico), que exige entrega de gene e não corresponde ao uso do fármaco isolado.
 
 ## Informações de Comercialização no Brasil
 
-O Penciclovir possui **8 registros ativos** no mercado brasileiro com status de comercialização confirmado. Os dados individuais de cada registro (número ANVISA, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste pacote de evidências.
-
-Para consulta completa dos registros, acesse: [Consulta de Medicamentos ANVISA](https://consultas.anvisa.gov.br/#/medicamentos/)
-
----
+O penciclovir não possui registros ativos na ANVISA nos dados compilados para este relatório (0 registros), portanto não está comercializado no Brasil.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+Consulte a bula para informações de segurança. Não foram encontradas interações medicamentosas nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O mecanismo de ação do Penciclovir — inibição da DNA polimerase viral dependente de ativação por TK viral exclusiva de herpesvírus — é biologicamente incompatível com a fasciolíase (infecção por helminto). Somada à ausência total de evidências clínicas ou pré-clínicas e à limitação crítica da via de administração exclusivamente tópica, esta candidatura é classificada como **falso positivo de alta probabilidade** e não deve avançar para nenhum estágio de investigação translacional.
+- A previsão para fasciolíase não tem ensaios clínicos nem literatura, e o mecanismo do fármaco (dependente de timidina quinase viral) não é aplicável a trematódeos. Além disso, o fármaco não está registrado no Brasil.
 
-**Para prosseguir, seria necessário:**
-- Dados completos de MOA (via DrugBank API ou ANVISA/bula)
-- Detalhes dos 8 registros ANVISA (nomes comerciais, formas farmacêuticas, indicações aprovadas)
-- Revisão crítica do grafo de conhecimento TxGNN para mitigar o viés de agrupamento entre nós de "nucleosídeos análogos" e "doenças infecciosas parasitárias"
-- Reavaliação das posições 2–10 do ranking (todas pertencentes a dois clusters de falso positivo: parasitárias e mesotelioma) para priorizar candidaturas com maior plausibilidade biológica para Penciclovir — como infecções virais sistêmicas por HSV em locais além da pele
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula (advertências e contraindicações), lacuna que impede a triagem de segurança
+- Obter dados do mecanismo de ação a partir do DrugBank
+- Realizar estudos pré-clínicos *in vitro* contra *Fasciola hepatica* para testar se há alguma atividade, já que atualmente não há racional mecanístico
+- Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original
+- Considerar outras previsões do modelo somente se surgir evidência de suporte
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

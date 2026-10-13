@@ -2,7 +2,7 @@
 layout: default
 title: Ibuprofen
 parent: Apenas Predição do Modelo (L5)
-nav_order: 276
+nav_order: 358
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,78 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ibuprofen: Do tratamento da dor e inflamação à Displasia Acromesomélica tipo Hunter-Thompson
+# Ibuprofeno: Da artrite reumatoide à displasia acromesomélica tipo Hunter-Thompson
 
 ## Resumo em Uma Frase
 
-Ibuprofen é um anti-inflamatório não esteroidal (AINE) amplamente utilizado no alívio de dor, febre e inflamação, com 20 registros ativos no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Displasia Acromesomélica tipo Hunter-Thompson (Acromesomelic Dysplasia, Hunter-Thompson Type)**, uma doença genética rara do desenvolvimento esquelético.
-Entretanto, esta previsão **não conta com nenhum ensaio clínico nem publicação científica** de suporte, situando-se no nível de evidência mais baixo (L5).
-
----
+Ibuprofeno é um anti-inflamatório não esteroidal (AINE), originalmente usado no tratamento de artrite reumatoide, osteoartrite, cefaleia e artropatias, entre outras condições.
+O modelo TxGNN prevê que pode ser eficaz para **displasia acromesomélica tipo Hunter-Thompson (Acromesomelic dysplasia, Hunter-Thompson type)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A previsão baseia-se apenas no modelo computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Dor, febre e inflamação (AINE clássico) |
-| Nova Indicação Prevista | Displasia Acromesomélica tipo Hunter-Thompson |
-| Pontuação de Previsão TxGNN | 99.74% |
+| Indicação Original | Artrite reumatoide (entre outras: cefaleia, osteoartrite, artropatia, artrite idiopática juvenil, espondiloartropatia, persistência do canal arterial) |
+| Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (Acromesomelic dysplasia, Hunter-Thompson type) |
+| Pontuação de Previsão TxGNN | 99,74% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Com base no conhecimento farmacológico bem estabelecido, Ibuprofen é um inibidor das enzimas ciclo-oxigenase (COX-1 e COX-2), reduzindo a síntese de prostaglandinas e, consequentemente, dor, inflamação e febre. Este mecanismo é amplamente documentado na literatura e constitui a base do seu uso como AINE de referência.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo o conhecimento geral, o ibuprofeno inibe as enzimas ciclo-oxigenase 1 e 2 (COX-1 e COX-2), reduzindo a produção de prostaglandinas e, com isso, a inflamação, a dor e a febre. Sua eficácia em doenças articulares e musculoesqueléticas inflamatórias é bem estabelecida.
 
-A Displasia Acromesomélica tipo Hunter-Thompson é causada por mutações no gene GDF5 (também denominado CDMP1), resultando em defeito na formação de cartilagem e encurtamento característico dos segmentos médios dos membros. Trata-se de uma condição estrutural e genética, sem componente inflamatório primário conhecido. A ligação entre a inibição de COX pelo Ibuprofen e a via de sinalização GDF5 não possui suporte mecanístico direto na literatura atual.
+Não há relação mecanística plausível com a nova indicação. A displasia acromesomélica tipo Hunter-Thompson é uma doença esquelética rara, causada por variantes de perda de função no gene *CDMP1/GDF5* (via de sinalização BMP), sem relação com a inibição de COX. Uma ação anti-inflamatória não corrigiria um defeito genético do desenvolvimento.
 
-A hipótese mais plausível seria uma influência indireta: inibição de COX-2 → redução de PGE2 → possível modulação do microambiente da placa epifisária. Contudo, esta cadeia de raciocínio permanece estritamente teórica. A elevada pontuação do TxGNN (99.74%) provavelmente reflete padrões estruturais no grafo de conhecimento — como conectividade entre AINEs e doenças esqueléticas via nós intermediários — e não necessariamente uma relação farmacológica direta. Esta previsão é classificada como **L5: apenas sinal do modelo, sem suporte empírico**.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
+A pontuação elevada (0,997) provavelmente reflete a proximidade, no grafo de conhecimento, com termos musculoesqueléticos e de artropatia, e não uma justificativa biológica. Deve ser interpretada com cautela.
 
 ## Informações de Comercialização no Brasil
 
-O Ibuprofen possui **20 registros ativos** no Brasil. Os detalhes individuais dos registros (número ANVISA, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no conjunto de dados atual — os campos retornaram vazios na consulta. Para consulta completa, acesse diretamente o **[portal ANVISA — Consulta de Produtos Registrados](https://consultas.anvisa.gov.br/#/medicamentos/)**.
-
----
+Nos dados compilados, não há registros de ibuprofeno na ANVISA (situação: não comercializado; 0 registros). Recomenda-se confirmar diretamente no portal da ANVISA, pois o ibuprofeno costuma ter ampla presença comercial em muitos países.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+Não há dados de advertências e contraindicações de bula nos dados compilados. Consulte a bula para esses itens.
 
----
+- **Contraindicações/precauções derivadas do grafo de conhecimento** (não correspondem ao texto de bula): hipertensão, insuficiência hepática, doença renal, úlcera péptica, doença inflamatória intestinal, trombocitopenia, distúrbios da coagulação sanguínea, acidente vascular cerebral, infarto do miocárdio, lúpus eritematoso sistêmico, diabetes mellitus, epilepsia, DPOC, hipotireoidismo, deficiência de potássio, hiperplasia prostática benigna, hipotensão, abuso/dependência de substâncias, entre outras.
+- **Interações medicamentosas** (100 interações registradas; exibidas as principais):
+  - **Maior:** ácido acetilsalicílico.
+  - **Moderadas:** corticosteroides (betametasona, budesonida, dexametasona, hidrocortisona), sulfonilureias (acetoexamida, clorpropamida, glimepirida, glipizida, glibenclamida), aprepitanto, balsalazida, dexfenfluramina, fenfluramina, exenatida, canamicina, levofloxacino.
+  - **Menores:** famotidina, ranitidina, cimetidina.
+- **Observação sobre a indicação prevista:** no caso de condições com neutropenia ou citopenia (como a síndrome WHIM, outra previsão do modelo), o uso de AINEs exigiria cautela.
+
+## Outras Previsões do Modelo
+
+Além da primeira, o modelo previu as indicações abaixo. Todas têm nível L5, sem ensaios clínicos nem literatura nos dados compilados, e decisão **Hold**.
+
+| Posição | Doença prevista | Pontuação TxGNN | Avaliação do vínculo mecanístico |
+|------|------|------|------|
+| 2 | Síndrome braquiolmia-amelogênese imperfeita | 99,71% | Sem vínculo estabelecido |
+| 3 | Miosclerose | 99,68% | Fraco e especulativo; no máximo alívio sintomático |
+| 4 | Braquiolmia | 99,67% | Sem vínculo; no máximo analgesia genérica |
+| 5 | Síndrome braquidactilia-sindactilia | 99,66% | Sem vínculo estabelecido |
+| 6 | Pseudoacondroplasia | 99,66% | Indireto e fraco; uso apenas sintomático para dor articular |
+| 7 | Síndrome de microftalmia colobomatosa-displasia rizomélica | 99,60% | Sem vínculo estabelecido |
+| 8 | Hipotricose simples do couro cabeludo | 98,59% | Sem vínculo; hipótese especulativa via prostaglandinas |
+| 9 | Síndrome WHIM | 98,43% | Sem vínculo (via CXCR4); cautela com AINEs |
+| 10 | Hipotricose congênita com milia | 98,31% | Sem vínculo estabelecido |
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN baseia-se exclusivamente em padrão do grafo de conhecimento (L5), sem nenhum ensaio clínico, estudo pré-clínico ou publicação científica que relacione Ibuprofen à Displasia Acromesomélica tipo Hunter-Thompson. A doença é de origem genética estrutural (mutação GDF5), sem componente inflamatório primário que justifique o uso de um AINE como abordagem terapêutica de modificação de doença.
+A previsão tem apenas suporte computacional (L5), sem ensaios clínicos nem literatura, e carece de mecanismo plausível: o ibuprofeno não atua na via BMP/GDF5 envolvida na doença. A pontuação alta do modelo provavelmente reflete proximidade no grafo de conhecimento, e não biologia relevante.
 
 **Para prosseguir, é necessário:**
-- Obter advertências e contraindicações via bula ANVISA (resolve DG001 — bloqueante para avaliação de segurança)
-- Confirmar mecanismo de ação completo via DrugBank API (resolve DG002)
-- Realizar busca manual em PubMed com termos combinados: `ibuprofen AND (GDF5 OR "skeletal dysplasia" OR chondrocyte OR "bone morphogenetic protein")` para verificar se há literatura relevante não capturada pelo coletor automático
-- Consultar especialista em doenças raras ou genética médica para avaliar plausibilidade biológica antes de qualquer etapa de desenvolvimento clínico
+- Dados de mecanismo de ação (MOA) consultados na DrugBank.
+- Bula da ANVISA (advertências e contraindicações) e confirmação da situação de registro no Brasil.
+- Evidências pré-clínicas que mostrem efeito do ibuprofeno sobre a via de sinalização GDF5/BMP, ou outra justificativa biológica.
+- Revisão sistemática da literatura sobre AINEs em displasias esqueléticas, para avaliar apenas o benefício sintomático (dor).
+- Avaliação de viabilidade da via de administração e análise de similaridade com as indicações originais (ambas ainda pendentes).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

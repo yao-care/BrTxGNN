@@ -2,7 +2,7 @@
 layout: default
 title: Biperiden Lactate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 126
+nav_order: 142
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,15 +2,15 @@
 layout: default
 title: Amikacin
 parent: Evidência Moderada (L3-L4)
-nav_order: 45
-evidence_level: L3
+nav_order: 50
+evidence_level: L4
 indication_count: 10
 ---
 
 # Amikacin
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,83 +29,78 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Amikacin: De infecções bacterianas gram-negativas para febre paratifóide
+# Amicacina: De aminoglicosídeo antibacteriano à febre paratifoide
 
 ## Resumo em Uma Frase
 
-Amikacin é um antibiótico aminoglicosídeo de amplo espectro, utilizado no tratamento de infecções graves por bactérias gram-negativas resistentes, especialmente Pseudomonas aeruginosa e Enterobacteriaceae.
-O modelo TxGNN prevê que pode ser eficaz para **Febre Paratifóide (Paratyphoid Fever)**,
-atualmente com **0 ensaios clínicos** e **12 publicações** apoiando esta direção.
-
----
+Amicacina (amikacin) é um antibiótico aminoglicosídeo, registrado na ANVISA com a indicação genérica "aminoglicosídeos".
+O modelo TxGNN prevê que pode ser eficaz para **febre paratifoide (paratyphoid fever)**, mas **nenhum ensaio clínico** foi registrado e as **8 publicações** encontradas são, em sua maioria, estudos epidemiológicos e de perfil de sensibilidade, sem avaliação direta da amicacina como tratamento.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções bacterianas graves por gram-negativos resistentes |
-| Nova Indicação Prevista | Febre Paratifóide (Paratyphoid Fever) |
-| Pontuação de Previsão TxGNN | 99.82% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Indicação Original | Aminoglicosídeos (texto do registro na ANVISA) |
+| Nova Indicação Prevista | Febre paratifoide (paratyphoid fever) |
+| Pontuação de Previsão TxGNN | 99,82% |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 3 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Embora os dados detalhados de mecanismo de ação não estejam disponíveis neste pacote de evidências, o Amikacin é bem estabelecido na literatura farmacológica como aminoglicosídeo semissintético derivado da canamicina. Seu mecanismo central envolve a ligação irreversível à subunidade ribossômica 30S de bactérias gram-negativas, inibindo a síntese proteica e exercendo efeito bactericida. Uma vantagem importante é sua resistência à maioria das enzimas inativadoras de aminoglicosídeos (como acetiltransferases e fosfotransferases), o que preserva sua atividade contra cepas resistentes a gentamicina e tobramicina.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a amicacina pertence à classe dos aminoglicosídeos, antibióticos com ampla atividade contra bactérias Gram-negativas. A *Salmonella paratyphi* é, em princípio, um microrganismo Gram-negativo suscetível, o que explica a lógica da previsão.
 
-Salmonella paratyphi A, B e C — os agentes causadores da febre paratifóide — pertencem à família Enterobacteriaceae, exatamente o grupo de microrganismos gram-negativos para o qual o Amikacin apresenta atividade bactericida comprovada. Estudos in vitro confirmam concentrações inibitórias mínimas (MIC) adequadas para este agente, e a lógica microbiológica da conexão é direta.
+Contudo, a previsão tem limitações importantes. A *Salmonella* é um patógeno intracelular e os aminoglicosídeos penetram mal nas células. Por isso, apesar da atividade in vitro, esses fármacos geralmente são clinicamente ineficazes na febre entérica. Os estudos disponíveis tratam sobretudo de epidemiologia e antibiogramas, não de ensaios de tratamento com amicacina.
 
-O contexto clínico de maior relevância é o das **infecções por cepas multirresistentes (MDR)**: quando S. paratyphi adquire resistência a quinolonas, cloranfenicol ou ampicilina — tratamentos históricos de primeira linha — o Amikacin emerge como opção de resgate. Dois documentos clínicos diretos sustentam esta previsão: PMID 2516600 (1989) avaliou 48 pacientes com infecção por S. paratyphi B resistente ao tratamento clássico, documentando o uso de antibióticos alternativos; PMID 9459410 (1997) relatou meningite neonatal por S. paratyphi B resistente a quinolona tratada com Amikacin. A limitação central permanece a ausência de ensaios clínicos prospectivos randomizados especificamente desenhados para febre paratifóide.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
+Outras indicações previstas pelo modelo também têm pontuações altas (acima de 99%), mas apoio fraco. Febre tifoide, salmonelose e meningococcemia têm apenas literatura indireta (nível L4). Esclerodermia difusa, ceratoconjuntivite epitelial punctata, epiglotite, analbuminemia congênita, síndrome de hiperviscosidade policlonal e hiperamilasemia não têm nenhuma evidência (nível L5) nem plausibilidade mecanística.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [2516600](https://pubmed.ncbi.nlm.nih.gov/2516600/) | 1989 | Estudo clínico retrospectivo | Mikrobiyoloji Bulteni | 48 pacientes com infecção por S. paratyphi B resistente ao tratamento clássico (ampicilina, cloranfenicol, co-trimoxazol); avaliação de antibióticos alternativos e resultados de antibiograma |
-| [9459410](https://pubmed.ncbi.nlm.nih.gov/9459410/) | 1997 | Relato de caso | Journal of Infection | Meningite neonatal por cepa de S. paratyphi B resistente a quinolona; Amikacin utilizado como terapia de resgate — um dos primeiros relatos desta resistência no subcontinente indiano |
-| [10505326](https://pubmed.ncbi.nlm.nih.gov/10505326/) | 1999 | Relato de caso | Pediatric Hematology and Oncology | Criança de 9 anos com leucemia linfoblástica e colecistite acalculosa por S. paratyphi B; recuperação completa com cefepima + Amikacin e G-CSF |
-| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | Estudo observacional prospectivo | Journal of the Indian Medical Association | 145 hemoculturas positivas para febre entérica em menores de 18 anos; perfil de sensibilidade de S. typhi e S. paratyphi — febre entérica significativa em pré-escolares |
-| [17337835](https://pubmed.ncbi.nlm.nih.gov/17337835/) | 2007 | Relato de caso/série | Indian Journal of Pediatrics | Sepse paratifóide neonatal por S. paratyphi A multissensível adquirida provavelmente no berçário hospitalar |
-| [27407999](https://pubmed.ncbi.nlm.nih.gov/27407999/) | 2007 | Estudo observacional clínico | Medical Journal, Armed Forces India | 45 hemoculturas positivas para febre entérica no norte da Índia; padrão in vitro de S. typhi e S. paratyphi A — reemergência de sensibilidade ao cloranfenicol e manutenção da sensibilidade a aminoglicosídeos |
-| [30724049](https://pubmed.ncbi.nlm.nih.gov/30724049/) | 2018 | Estudo microbiológico | Pakistan Journal of Biological Sciences | Isolamento e identificação de S. paratyphi em pacientes com febre entérica em quatro hospitais de Quetta; aspectos microbiológicos e perfis de sensibilidade |
-| [26905550](https://pubmed.ncbi.nlm.nih.gov/26905550/) | 2014 | Estudo de antibiograma | JNMA (Nepal Medical Association) | Isolados de hemoculturas e seus antibiogramas em hospital universitário; padrões de sensibilidade antimicrobiana para orientar terapia empírica em bacteremia |
-| [14596347](https://pubmed.ncbi.nlm.nih.gov/14596347/) | 2003 | Estudo epidemiológico | New Microbiologica | Ocorrência de S. typhi e S. paratyphi na Jordânia entre 1988–2000; 1.399.563 casos diarreicos notificados pelo Ministério da Saúde |
-| [16410091](https://pubmed.ncbi.nlm.nih.gov/16410091/) | 2006 | Série de casos | Journal of Pediatric Surgery | Manejo bem-sucedido de abscesso esplênico em 4 crianças por aspiração percutânea e antibióticos; preservação esplênica como alternativa à esplenectomia |
+| [14596347](https://pubmed.ncbi.nlm.nih.gov/14596347/) | 2003 | Epidemiologia | The New Microbiologica | Ocorrência de *S. typhi* e *S. paratyphi* na Jordânia entre 1988 e 2000, com foco em casos de diarreia |
+| [27407999](https://pubmed.ncbi.nlm.nih.gov/27407999/) | 2007 | Coorte | Medical Journal, Armed Forces India | Perfil de sensibilidade de *S. typhi* e *S. paratyphi* A em 45 casos de febre entérica no norte da Índia, com reaparecimento da sensibilidade ao cloranfenicol |
+| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | Coorte | Journal of the Indian Medical Association | Estudo clínico e microbiológico de 145 crianças com febre entérica e perfil de sensibilidade a antibióticos |
+| [26905550](https://pubmed.ncbi.nlm.nih.gov/26905550/) | 2014 | Coorte | JNMA (Nepal) | Frequência de isolados de hemocultura e antibiograma em hospital de ensino |
+| [16410091](https://pubmed.ncbi.nlm.nih.gov/16410091/) | 2006 | Série de casos | Journal of Pediatric Surgery | Quatro crianças com abscesso esplênico tratadas com aspiração por agulha e antibióticos |
+| [30724049](https://pubmed.ncbi.nlm.nih.gov/30724049/) | 2018 | Epidemiologia | Pakistan Journal of Biological Sciences | Isolamento e identificação de *S. paratyphi* em pacientes com febre entérica em Quetta |
+| [2516600](https://pubmed.ncbi.nlm.nih.gov/2516600/) | 1989 | Série de casos | Mikrobiyoloji Bülteni | Antibióticos usados em 48 pacientes com infecção por *S. paratyphi* B resistente ao tratamento clássico |
+| [10505326](https://pubmed.ncbi.nlm.nih.gov/10505326/) | 1999 | Relato de caso | Pediatric Hematology and Oncology | Colecistite alitiásica por *S. paratyphi* B em criança com leucemia, tratada com cefepima, amicacina e fator estimulador de granulócitos |
 
----
+Também há um estudo de sensibilidade de *S. typhi* (PMID 8354556, 1993) em que as cepas foram sensíveis a aminoglicosídeos e ciprofloxacino, mas ele se refere à febre tifoide, não à paratifoide.
+
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada | Situação |
+|---------|------|------|-----------|------|
+| Registro nº 113430141 | Sulfato de Amicacina | Não informada | Aminoglicosídeos | Cancelado |
+| Registro nº 100410217 | Sulfato de Amicacina | Não informada | Aminoglicosídeos | Cancelado |
+| Registro nº 103700297 | Sulfato de Amicacina | Não informada | Aminoglicosídeos | Cancelado |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Contraindicações (baseadas no grafo de conhecimento, não na bula)**: doença renal, piureter, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, vertigem de origem no sistema nervoso central, miastenia gravis (inclusive de início na idade adulta), doenças da junção neuromuscular, parkinsonismo e doença de Parkinson.
+- **Interações medicamentosas**: foram identificadas 100 interações, das quais as principais são:
+  - **Maiores**: sulfato de magnésio e manitol.
+  - **Moderadas**: anfotericina B (e suas formulações), canamicina, neomicina, ácido acetilsalicílico, inibidores da bomba de prótons (omeprazol, esomeprazol, lansoprazol, dexlansoprazol, pantoprazol, rabeprazol), mesalazina, balsalazida, olsalazina e exenatida.
+- Aminoglicosídeos podem causar toxicidade ocular de superfície, e a nefrotoxicidade pode confundir a avaliação de parâmetros laboratoriais.
+- Advertências e contraindicações da bula brasileira não estavam disponíveis; consulte a bula para informações complementares.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-A atividade bactericida do Amikacin contra Salmonella paratyphi A/B/C é mecanisticamente sólida e clinicamente documentada em cenários de resistência a múltiplas drogas, representando uma opção de resgate relevante num contexto global de crescente resistência a quinolonas; entretanto, a ausência completa de ensaios clínicos prospectivos específicos para febre paratifóide impede uma recomendação de uso amplo sem salvaguardas rigorosas.
+- Apesar da pontuação alta do TxGNN (99,82%), não há ensaios clínicos e a literatura é indireta (epidemiologia e antibiogramas). Um estudo comparativo em febre tifoide relatou eficácia clínica de apenas 36,4% com amicacina, contra 100% com ofloxacino. A penetração intracelular limitada dos aminoglicosídeos e a existência de alternativas estabelecidas (azitromicina, cefalosporinas de terceira geração, fluoroquinolonas) reduzem o interesse da proposta. Além disso, os três registros no Brasil estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Recuperar dados detalhados de MOA e toxicidade no DrugBank (gap de dados DG002 identificado)
-- Obter e revisar as advertências e contraindicações oficiais da bula ANVISA/TFDA (gap de dados DG001, classificado como Blocking)
-- Verificar e atualizar o status regulatório atual no Brasil — o conjunto de dados indica 0 registros, porém o Amikacin possui uso clínico estabelecido em vários países
-- Planejar estudo clínico controlado focado em febre paratifóide MDR com resistência a quinolonas (população prioritária: países endêmicos com alta prevalência de MDR-Salmonella)
-- Estabelecer protocolo obrigatório de monitoramento de **nefrotoxicidade e ototoxicidade** (efeitos adversos característicos de aminoglicosídeos), com Monitoramento Terapêutico de Drogas (TDM) para otimização de dose e prevenção de toxicidade cumulativa
-- Definir duração máxima de terapia e critérios de interrupção para uso seguro nesta indicação
+- Obter a bula da ANVISA com advertências e contraindicações (lacuna bloqueante na triagem de segurança).
+- Obter dados do mecanismo de ação (por exemplo, via DrugBank).
+- Gerar dados clínicos comparativos de amicacina na febre paratifoide ou entérica, incluindo a penetração intracelular e o desempenho frente a esquemas padrão.
+- Definir via de administração e forma farmacêutica compatíveis e verificar a situação regulatória atual (não há registro vigente no Brasil).
+- Avaliar o perfil de risco de nefrotoxicidade e ototoxicidade e o plano de monitoramento, dadas as contraindicações indicadas.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

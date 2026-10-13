@@ -2,7 +2,7 @@
 layout: default
 title: Serine
 parent: Apenas Predição do Modelo (L5)
-nav_order: 438
+nav_order: 584
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,13 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Serina: De aminoácido à miopatia visceral familiar
+# Serina: Da nutrição parenteral à miopatia visceral familiar
 
 ## Resumo em Uma Frase
 
-Serina é um aminoácido não essencial com papéis metabólicos centrais — incluindo síntese de esfingolipídeos, proteínas e fosfolipídeos —, sem indicação farmacêutica aprovada registrada no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Miopatia Visceral Familiar (Familial Visceral Myopathy)**,
-atualmente com **0 ensaios clínicos** e **0 publicações** apoiando diretamente esta direção.
+A serina (L-serina) é um aminoácido usado em soluções de nutrição parenteral, aprovado para reposição de nutrientes e alimentação parenteral.
+O modelo TxGNN prevê que pode ser eficaz para **miopatia visceral familiar (familial visceral myopathy)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
 
 ---
 
@@ -43,23 +43,23 @@ atualmente com **0 ensaios clínicos** e **0 publicações** apoiando diretament
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Sem indicação farmacêutica aprovada |
-| Nova Indicação Prevista | Miopatia Visceral Familiar (Familial Visceral Myopathy) |
+| Indicação Original | Nutrientes parenterais |
+| Nova Indicação Prevista | Miopatia visceral familiar (familial visceral myopathy) |
 | Pontuação de Previsão TxGNN | 99,99% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 16 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação farmacológico da Serina como medicamento. Trata-se de um aminoácido não essencial que o organismo sintetiza endogenamente, mas que pode ser obtido pela dieta ou administrado como suplemento. A via metabólica mais relevante para esta previsão é a síntese de esfingolipídeos: a Serina é o **substrato limitante da enzima SPT (serine palmitoyltransferase)**, ponto de partida obrigatório da biossíntese de esfingolipídeos.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a serina é um aminoácido nutricional, componente de soluções de aminoácidos para nutrição parenteral, e não um fármaco com alvo terapêutico específico.
 
-A Miopatia Visceral Familiar (FVM) é uma doença rara caracterizada por degeneração progressiva da musculatura lisa intestinal, levando a grave disfunção motora do trato gastrointestinal. Os esfingolipídeos desempenham papel fundamental na integridade das membranas celulares e na sinalização das células musculares lisas. A hipótese mecanicista subjacente à previsão do TxGNN sugere que alterações no metabolismo de esfingolipídeos poderiam participar da patogênese da FVM, tornando a Serina — como precursora limitante da via — um candidato teórico.
+A miopatia visceral familiar é um distúrbio genético da musculatura lisa (por exemplo, variantes em ACTG2). Não há mecanismo estabelecido pelo qual a serina, como suplemento nutricional, modifique essa doença. A pontuação alta (99,99%) reflete apenas a proximidade em um grafo de conhecimento, e não evidência clínica ou biológica.
 
-Contudo, esta hipótese é **altamente especulativa**. Não existem estudos pré-clínicos nem clínicos que testem diretamente a suplementação de Serina em modelos de FVM. A previsão fundamenta-se exclusivamente na topologia do grafo de conhecimento do TxGNN, sem qualquer suporte de evidências empíricas diretas.
+As demais previsões do modelo (pseudo-obstrução intestinal, obstrução intestinal, displasia neuronal intestinal, glaucoma de ângulo fechado, entre outras) também não têm ensaios clínicos nem literatura que as sustentem. Vários pares de doenças têm pontuações idênticas, o que sugere um sinal compartilhado do grafo, e não evidências independentes.
 
 ---
 
@@ -71,13 +71,32 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+Atualmente não há literatura relacionada para a miopatia visceral familiar.
+
+Observação: para outras indicações previstas (obstrução intestinal e glaucoma de ângulo fechado), as publicações recuperadas tratam de síndrome de Peutz-Jeghers, serina proteases (como PRSS56) e serina/treonina quinases (como STK11). Isso decorre da coincidência da palavra "serina" e não constitui evidência sobre o aminoácido como terapia.
+
+---
+
+## Informações de Comercialização no Brasil
+
+Todos os 16 registros estão cancelados. Principais registros:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100410131 | Nephrotect | — | Nutrientes parenterais |
+| Registro 100410159 | Aminoven 10% Infant | — | Nutrientes parenterais |
+| Registro 100850145 | Amixal | — | Nutrientes parenterais |
+| Registro 100850109 | Nutriflex Plus | — | Nutrientes parenterais |
+| Registro 106830181 | Olimel | — | Reposição hidroeletrolítica e alimentação parenteral |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (com base no grafo de conhecimento, não na bula)**: o grafo de conhecimento do TxGNN associa o fármaco a contraindicações em diversas condições, entre elas doença renal (incluindo doença renal crônica e insuficiência renal terminal), cardiopatias e doenças cardiovasculares, diabetes e cetoacidose diabética, hipercalcemia e nefrocalcinose, nefrolitíase, epilepsia, transtornos psiquiátricos (ansiedade, transtornos psicóticos, esquizoafetivo), deficiência de vitamina B12 e anemia megaloblástica, sarcoidose e fibrilação ventricular. Esses itens não vêm de texto de bula e devem ser verificados.
+- **Interações Medicamentosas**: nenhuma interação foi encontrada na consulta realizada.
+
+Consulte a bula para advertências e contraindicações oficiais.
 
 ---
 
@@ -86,14 +105,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se exclusivamente no modelo TxGNN (nível L5), sem nenhum ensaio clínico ou publicação científica que teste diretamente a Serina na Miopatia Visceral Familiar. Adicionalmente, o composto não possui registro no Brasil, o que representa barreira regulatória expressiva para qualquer desenvolvimento clínico local.
+- Não há ensaios clínicos nem literatura que sustentem o uso da serina na miopatia visceral familiar, e não existe mecanismo plausível. A previsão é puramente computacional (L5), e todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Estudos pré-clínicos em modelos animais de miopatia visceral para avaliar o impacto da suplementação de Serina na função da musculatura lisa intestinal
-- Investigação direta do papel da via SPT/esfingolipídeos na fisiopatologia da FVM
-- Levantamento do perfil de MOA atualizado via DrugBank (DB00133) para embasar análise mecanicista
-- Avaliação toxicológica para uso terapêutico crônico (distinção entre uso nutricional e uso como fármaco)
-- Consulta regulatória sobre o enquadramento do composto no Brasil (suplemento nutricional vs. medicamento) antes de qualquer pedido de registro
+- Dados do mecanismo de ação (MOA) e uma hipótese biológica plausível que ligue a serina à doença
+- Revisão de literatura curada, para descartar coincidências de palavras-chave
+- Informações de segurança da bula da ANVISA (advertências e contraindicações), bloqueio atual para a triagem de segurança
+- Avaliação da compatibilidade de via de administração e da situação regulatória, dado que não há registros vigentes no Brasil
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

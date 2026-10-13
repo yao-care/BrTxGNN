@@ -2,7 +2,7 @@
 layout: default
 title: Gefitinib
 parent: Apenas Predição do Modelo (L5)
-nav_order: 263
+nav_order: 337
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,87 +29,83 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Gefitinib: Do câncer de pulmão à fibromatose gengival
+# Gefitinibe: Do câncer de pulmão de células não pequenas à fibromatose gengival
 
 ## Resumo em Uma Frase
 
-Gefitinib (Iressa®) é um inibidor seletivo da tirosina quinase do EGFR (receptor do fator de crescimento epidérmico), amplamente utilizado no tratamento de câncer de pulmão de não pequenas células (CPNPC) com mutações ativadoras do EGFR. O modelo TxGNN prevê que pode ser eficaz para **Fibromatose Gengival (Fibromatosis, Gingival)**, porém atualmente **sem ensaios clínicos** e **sem publicações** apoiando diretamente esta direção. A pontuação de previsão é elevada (99,89%), mas baseia-se exclusivamente em inferência topológica do grafo de conhecimento, sem suporte de evidências clínicas ou pré-clínicas diretas.
-
----
+Gefitinibe é um inibidor da tirosina quinase do receptor do fator de crescimento epidérmico (EGFR), originalmente usado no tratamento do câncer de pulmão de células não pequenas.
+O modelo TxGNN prevê que pode ser eficaz para **Fibromatose Gengival (Fibromatosis, gingival)**, mas essa previsão é **apenas do modelo**: não há **nenhum ensaio clínico** nem **nenhuma publicação** que a apoie.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Câncer de pulmão de não pequenas células (CPNPC) com mutações ativadoras do EGFR |
-| Nova Indicação Prevista | Fibromatose Gengival (Fibromatosis, Gingival) |
+| Indicação Original | Carcinoma pulmonar de células não pequenas / câncer de pulmão |
+| Nova Indicação Prevista | Fibromatose Gengival (Fibromatosis, gingival) |
 | Pontuação de Previsão TxGNN | 99,89% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 10 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis no Evidence Pack. Com base no conhecimento consolidado da literatura, Gefitinib atua como inibidor seletivo da tirosina quinase do domínio intracelular do EGFR, bloqueando a fosforilação do receptor e interrompendo as cascatas de sinalização downstream — especialmente RAS/MAPK e PI3K/AKT — que são responsáveis por promover proliferação celular, angiogênese e resistência à apoptose. O fármaco demonstrou eficácia superior à quimioterapia convencional em pacientes com CPNPC portadores de mutações ativadoras nos exons 19 e 21 do EGFR, estabelecendo-se como um dos marcos da era das terapias-alvo em oncologia torácica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o gefitinibe é um inibidor seletivo da tirosina quinase do EGFR. Sua eficácia no câncer de pulmão de células não pequenas com mutações de EGFR está bem estabelecida, e a bloqueio dessa via reduz a proliferação e a sobrevivência celular.
 
-A fibromatose gengival é uma condição caracterizada por proliferação excessiva e descontrolada de fibroblastos gengivais, resultando em espessamento progressivo do tecido gengival. O EGFR tem papel indireto na ativação e migração de fibroblastos, e sob esta perspectiva teórica, a inibição do EGFR poderia, em princípio, suprimir a proliferação fibrótica do tecido gengival. No entanto, a expressão e a função do EGFR em fibroblastos gengivais não estão estabelecidas por estudos específicos nesta condição.
+A relação com a fibromatose gengival é, por ora, especulativa. Uma hipótese plausível, porém não verificada, é o envolvimento da sinalização EGFR/ERK na proliferação de fibroblastos. A similaridade com a indicação original não foi avaliada, e a compatibilidade de via de administração também está pendente.
 
-A pontuação elevada do TxGNN (0,9989) provavelmente decorre da proximidade topológica no grafo de conhecimento entre os nós "EGFR", "proliferação de fibroblastos" e "fibromatose", configurando uma inferência de vizinhança e não um sinal de indicação direta. A ausência completa de evidências clínicas ou pré-clínicas torna esta previsão especulativa e insuficiente para justificar avanço clínico sem etapas robustas de validação experimental prévia.
+A pontuação alta (99,89%) reflete a posição do candidato no modelo de grafo de conhecimento e não equivale a evidência de eficácia. Para esta doença, não foi reunido nenhum ensaio clínico nem artigo.
 
----
+## Outras Indicações Previstas (Contexto)
+
+O modelo gerou outras previsões com pontuações semelhantes. Todas permanecem em **Hold**, com evidência apenas indireta:
+
+| Posição | Doença prevista | Pontuação | Nível | Observação |
+|------|------|------|------|------|
+| 2 | Fibroma de pulmão | 99,86% | L5 | Sem estudos; ligação mecanística especulativa |
+| 3 | Miopatia por corpúsculos de inclusão com doença de Paget precoce ± demência frontotemporal | 99,86% | L5 | Doença causada por mutações em VCP; sem conexão evidente com EGFR |
+| 4 | Hamartoma de pulmão | 99,86% | L5 | Sem estudos |
+| 5 | Carcinoma do hilo pulmonar | 99,86% | L4 | Um relato de caso de cirurgia de resgate após resposta ao gefitinibe em câncer de pulmão avançado |
+| 6 | Neoplasia benigna de pulmão | 99,85% | L4 | Literatura sobre câncer de pulmão maligno, não benigno; perfil risco-benefício desfavorável |
+| 7 | Síndrome leucomelanodermia-infantilismo-deficiência intelectual-hipodontia-hipotricose | 99,84% | L5 | Literatura trata de eventos adversos, não de eficácia |
+| 8 | Neoplasia do sulco pulmonar (tumor de Pancoast) | 99,84% | L4 | Subtipo anatômico de câncer de pulmão; evidência indireta |
+| 9 | Tumor de células germinativas do pulmão | 99,84% | L4 | Um ensaio fase I em câncer de cabeça e pescoço/pulmão, sem relação direta |
+| 10 | Epidermólise bolhosa juncional | 99,84% | L5 | Toxicidade cutânea do gefitinibe é preocupação em pele frágil |
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
+Atualmente não há ensaios clínicos relacionados registrados para fibromatose gengival.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
-
----
-
-## Informações de Comercialização no Brasil
-
-Gefitinib possui **10 registros ativos** no Brasil. No entanto, os dados individuais de cada produto (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis nesta versão do Evidence Pack — todos os campos correspondentes encontram-se sem preenchimento. Recomenda-se consulta direta ao portal de consulta de medicamentos da ANVISA para obter as informações completas de cada registro.
-
----
-
-## Citotoxicidade
-
-| Item | Conteúdo |
-|------|------|
-| Classificação de Citotoxicidade | Terapia-alvo (Inibidor de tirosina quinase do EGFR — EGFR-TKI de 1ª geração; não citotóxico convencional) |
-| Risco de Mielossupressão | Baixo (mielossupressão não é toxicidade característica de EGFR-TKIs; diferente de quimioterapia citotóxica) |
-| Classificação de Emetogenicidade | Baixa (agente oral com baixo potencial emetogênico) |
-| Itens de Monitoramento | Função hepática (ALT/AST/bilirrubina — hepatotoxicidade frequente), função pulmonar (pneumonite intersticial — evento adverso grave), avaliação cutânea (erupção acneiforme — toxicidade mais comum), função renal |
-| Proteção no Manuseio | Recomendado seguir regulamentos institucionais de manuseio de agentes antineoplásicos, conforme orientação da ANVISA e protocolos farmacêuticos locais |
-
----
+Atualmente não há literatura relacionada para fibromatose gengival.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações no grafo de conhecimento** (relações do grafo, não texto de bula): doença hepática, doença da vesícula biliar, doença pulmonar intersticial, fibrose pulmonar e fibrose pulmonar pós-inflamatória.
+- **Alerta da literatura:** relatos de pneumonite aguda e doença pulmonar intersticial associadas ao gefitinibe (incluindo caso fatal), além de toxicidade cutânea, prolongamento do intervalo QT e eventos cardiovasculares.
+- **Interações medicamentosas:** foram identificadas 100 interações no total; as principais, de gravidade moderada, incluem:
+  - Antiácidos e redutores de acidez gástrica: famotidina, ranitidina, cimetidina, nizatidina e inibidores da bomba de prótons (omeprazol, esomeprazol, pantoprazol, lansoprazol, dexlansoprazol, rabeprazol)
+  - Claritromicina, miconazol, clotrimazol
+  - Aprepitanto, dexametasona, naltrexona, troglitazona
+  - Calcitriol e glimepirida (gravidade não classificada)
 
----
+Para advertências e contraindicações de bula, consulte a bula do produto.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para fibromatose gengival é classificada como nível de evidência L5 — exclusivamente inferência do modelo, sem qualquer estudo clínico ou pré-clínico de suporte. A conexão mecanística entre inibição do EGFR e fibromatose gengival é especulativa e sem sustentação experimental, e o uso de um inibidor sistêmico de tirosina quinase para uma condição benigna proliferativa — onde o risco de toxicidade (pneumonite intersticial, hepatotoxicidade, toxicidade cutânea) supera amplamente qualquer benefício teórico — não encontra embasamento clínico.
+A previsão para fibromatose gengival baseia-se exclusivamente na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura de suporte. Além disso, o fármaco não está registrado no Brasil e traz riscos relevantes (pneumonite, toxicidade cutânea e hepática) que exigiriam justificativa sólida para uso em uma condição não maligna.
 
 **Para prosseguir, é necessário:**
-- Estudos pré-clínicos in vitro com fibroblastos gengivais humanos para validar a hipótese mecanística (requisito mínimo antes de qualquer avanço)
-- Dados completos de MOA via DrugBank API (lacuna DG002 — severidade Alta)
-- Advertências, contraindicações e precauções da bula ANVISA (lacuna DG001 — severidade Bloqueante)
-- Dados individuais dos 10 registros ANVISA (números, formas farmacêuticas, indicações aprovadas)
-- Avaliação do perfil de segurança em população com condição benigna, onde a relação risco-benefício é particularmente desfavorável para agentes antineoplásicos sistêmicos
+- Dados detalhados do mecanismo de ação (MOA) do gefitinibe
+- Estudos pré-clínicos que testem a via EGFR/ERK em fibroblastos gengivais
+- Revisão sistemática da literatura específica sobre fibromatose gengival e inibidores de EGFR
+- Obtenção e análise da bula (advertências e contraindicações) para triagem de segurança
+- Avaliação da situação regulatória no Brasil (o fármaco consta como não comercializado) e da compatibilidade de via de administração
+- Avaliação comparativa de risco-benefício frente às alternativas terapêuticas existentes
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

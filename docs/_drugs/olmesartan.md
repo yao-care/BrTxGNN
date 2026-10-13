@@ -2,7 +2,7 @@
 layout: default
 title: Olmesartan
 parent: Apenas Predição do Modelo (L5)
-nav_order: 366
+nav_order: 485
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,67 +29,81 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-O skill não sobrescreve as instruções do relatório. Vou gerar o relatório agora com base no Evidence Pack fornecido.
-
----
-
-# Olmesartan: Da hipertensão arterial à angina de Prinzmetal
+# Olmesartana: Da hipertensão arterial à Angina de Prinzmetal
 
 ## Resumo em Uma Frase
 
-Olmesartan é um bloqueador do receptor de angiotensina tipo 1 (ARB), amplamente utilizado no tratamento da hipertensão arterial.
-O modelo TxGNN prevê que pode ser eficaz para **Angina de Prinzmetal (Prinzmetal angina)**,
-atualmente sem **nenhum ensaio clínico** e sem **publicações** registradas apoiando diretamente esta direção.
+Olmesartana é um bloqueador do receptor de angiotensina II (AT1), classe usada classicamente no tratamento da hipertensão arterial. Não há registro de indicação original no Brasil nos dados compiladros para este relatório.
+O modelo TxGNN prevê que pode ser eficaz para **Angina de Prinzmetal (Prinzmetal angina)**, porém atualmente com **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica (apenas previsão do modelo).
+
+> Observação: a indicação original não consta nos dados compilados (nenhum registro na ANVISA). A menção à hipertensão baseia-se no conhecimento geral sobre a classe do fármaco.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Hipertensão arterial |
+|------|------|
+| Indicação Original | Não disponível nos dados compilados (sem registro na ANVISA) |
 | Nova Indicação Prevista | Angina de Prinzmetal (Prinzmetal angina) |
-| Pontuação de Previsão TxGNN | 99.84% |
+| Pontuação de Previsão TxGNN | 99,84% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
+
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Segundo informações farmacológicas conhecidas, Olmesartan pertence à classe dos ARBs (Angiotensin Receptor Blockers) e age bloqueando seletivamente o receptor AT1 da angiotensina II, impedindo seus efeitos vasoconstritores, pró-inflamatórios e promotores de remodelamento cardiovascular. Sua eficácia no controle da pressão arterial sistêmica está amplamente comprovada.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a olmesartana é um bloqueador do receptor AT1 da angiotensina II. A angiotensina II contribui para a vasoconstrição, e o bloqueio desse receptor pode, em teoria, reduzir o tônus vascular.
 
-A ligação teórica com a Angina de Prinzmetal reside no fato de que a angiotensina II é um mediador vasoconstritor potente, capaz de desencadear ou amplificar o vasoespasmo coronariano — mecanismo central dessa forma de angina. O bloqueio do AT1R pelo Olmesartan poderia, em teoria, reduzir a suscetibilidade da artéria coronária ao espasmo induzido pelo sistema renina-angiotensina, especialmente em pacientes com hipertensão concomitante.
+A angina de Prinzmetal (variante) é causada por vasoespasmo coronariano. Por isso, existe um elo biológico plausível entre o bloqueio do AT1 e a redução do vasoespasmo. No entanto, trata-se apenas de uma previsão do modelo: não foram encontrados ensaios clínicos nem literatura sobre esta indicação.
 
-Entretanto, a Angina de Prinzmetal possui tratamento padrão bem estabelecido com bloqueadores dos canais de cálcio (nifedipino, diltiazem) e nitratos de longa duração, que demonstraram eficácia clínica robusta. Os ARBs não possuem nenhuma base de ensaios clínicos em humanos para esta indicação específica, e a extrapolação mecanicista permanece estritamente teórica no estágio atual.
+Vale lembrar que os bloqueadores dos canais de cálcio e os nitratos continuam sendo o tratamento padrão para esta condição, o que limita o espaço para um novo uso da olmesartana.
+
+---
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
+---
+
 ## Evidências da Literatura
 
 Atualmente não há literatura relacionada.
 
-## Informações de Comercialização no Brasil
-
-O Olmesartan possui **20 registros** ativos no mercado brasileiro (situação: comercializado). Os dados individuais de cada registro (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não foram incluídos nesta versão do Evidence Pack.
+---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 94 interações no total; as principais entre as listadas são:
+  - **Gravidade maior**: cloreto de potássio e bicarbonato de potássio (risco de hipercalemia).
+  - **Gravidade moderada**: diversas insulinas (humana, asparte, degludeca, detemir, glargina, glulisina, lispro e outras), exenatida, hidrocortisona, eluxadolina e polietilenoglicol com eletrólitos.
+
+Para advertências e contraindicações, consulte a bula.
+
+---
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Apesar da alta pontuação de previsão do TxGNN (99,84%), não existe nenhum ensaio clínico nem publicação científica apoiando o uso de Olmesartan na Angina de Prinzmetal. A base mecanicista é puramente teórica e o padrão terapêutico estabelecido para essa indicação é amplamente consolidado com outras classes farmacológicas.
+- A previsão para angina de Prinzmetal baseia-se apenas no modelo (L5), sem ensaios clínicos nem publicações, e o tratamento padrão já é bem estabelecido. Além disso, o fármaco não possui registro no Brasil.
 
 **Para prosseguir, é necessário:**
-- Estudos pré-clínicos em modelos animais de vasoespasmo coronariano para validar o potencial mecanicista do bloqueio AT1R nesta indicação
-- Revisão sistemática específica sobre ARBs em angina vasospástica
-- Dados completos de mecanismo de ação (MOA) do Olmesartan a partir do DrugBank
-- Dados de segurança completos (advertências, contraindicações e interações da bula ANVISA)
-- Levantamento dos registros individuais com textos de indicação aprovados no Brasil para confirmar a indicação original e eventuais usos aprovados correlatos
+- Dados do mecanismo de ação e da indicação original do fármaco
+- Informações de bula (advertências e contraindicações) para a triagem de segurança
+- Estudos pré-clínicos ou clínicos sobre olmesartana em vasoespasmo coronariano
+- Esclarecimento da situação regulatória no Brasil
+
+---
+
+### Nota sobre outras previsões
+
+Entre as demais indicações previstas, a **enxaqueca (migraine disorder)** é a que tem apoio mais consistente (nível L3: dois estudos de 2006 e uma revisão sistemática de 2019, com ARBs; a candesartana é o ARB mais bem sustentado). A **hipertensão pulmonar** tem apenas dados pré-clínicos em animais (L4). Ambas poderiam ser priorizadas como questões de pesquisa em uma avaliação futura, caso seja desejado reorientar a análise.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Teriparatida
 parent: Apenas Predição do Modelo (L5)
-nav_order: 465
+nav_order: 618
 evidence_level: L5
 indication_count: 0
 ---

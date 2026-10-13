@@ -2,7 +2,7 @@
 layout: default
 title: Lithium Carbonate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 327
+nav_order: 422
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,16 +29,13 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o formato de relatório de reposicionamento para estruturar a avaliação do Evidence Pack de Carbonato de Lítio.
-
----
-
-# Carbonato de Lítio: Do Transtorno Bipolar à Pseudoacondroplasia
+# Carbonato de lítio: De antidepressivo à pseudoacondroplasia
 
 ## Resumo em Uma Frase
 
-Carbonato de lítio é um estabilizador de humor clássico, amplamente utilizado no tratamento do transtorno afetivo bipolar em diversas partes do mundo, porém sem registro regulatório no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Pseudoacondroplasia (Pseudoachondroplasia)**, atualmente com **0 ensaios clínicos** e **0 publicações** específicas apoiando esta direção — a previsão apoia-se exclusivamente na análise computacional do grafo de conhecimento.
+O carbonato de lítio foi originalmente registrado na ANVISA na categoria "antidepressivos".
+O modelo TxGNN prevê que pode ser eficaz para **pseudoacondroplasia (pseudoachondroplasia)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção: trata-se de uma previsão puramente computacional.
 
 ---
 
@@ -46,23 +43,23 @@ O modelo TxGNN prevê que pode ser eficaz para **Pseudoacondroplasia (Pseudoacho
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Transtorno afetivo bipolar (uso internacional; sem registro no Brasil) |
-| Nova Indicação Prevista | Pseudoacondroplasia (Pseudoachondroplasia) |
-| Pontuação de Previsão TxGNN | 99.98% |
+| Indicação Original | Antidepressivos |
+| Nova Indicação Prevista | Pseudoacondroplasia (pseudoachondroplasia) |
+| Pontuação de Previsão TxGNN | 99,98% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 10 |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação de DB14509 disponíveis neste pacote de evidências. Segundo o conhecimento farmacológico consolidado, o carbonato de lítio atua principalmente pela **inibição da enzima GSK-3β (Glicogênio Sintase Quinase 3 beta)**, resultando na ativação da via de sinalização **Wnt/β-catenin** — um caminho crítico para a diferenciação e proliferação celular, incluindo condrócitos e osteoblastos.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o lítio inibe a GSK-3β e modula a via Wnt/β-catenina, o que pode influenciar a biologia dos condrócitos.
 
-A pseudoacondroplasia é uma displasia esquelética rara causada por mutações no gene **COMP** (Proteína Oligomérica da Matriz da Cartilagem). Essas mutações provocam o acúmulo intracelular de COMP mal dobrada no retículo endoplasmático dos condrócitos, gerando estresse crônico do ER e morte celular prematura das células cartilaginosas, com consequente nanismo desproporcional. A via Wnt/β-catenin possui papel regulatório demonstrado na diferenciação de condrócitos, o que fornece uma justificativa mecanística **indireta** para a previsão do modelo.
+A relação com a indicação original é fraca: o carbonato de lítio é usado em psiquiatria, enquanto a pseudoacondroplasia é uma displasia esquelética rara. A doença é causada por mutações no gene COMP, que levam a estresse do retículo endoplasmático e morte de condrócitos. Um vínculo mecanístico direto com o lítio é especulativo e não é sustentado pelos dados disponíveis.
 
-No entanto, a ligação proposta é **altamente indireta**: a ativação de Wnt/β-catenin pelo lítio não possui mecanismo de ação conhecido sobre o acúmulo de proteína COMP mutante — que constitui o problema central da doença. Não há evidências publicadas nem ensaios clínicos relacionando carbonato de lítio à pseudoacondroplasia. A pontuação elevada do TxGNN provavelmente reflete agrupamento de nós de doenças esqueléticas no grafo de conhecimento, e não uma ligação mecanística direta.
+A pontuação alta do TxGNN (99,98%) reflete inferência baseada em grafo de conhecimento, e não evidência clínica. Outras previsões do mesmo fármaco (por exemplo, displasia acromesomélica tipo Hunter-Thompson, braquiolmia, síndrome WHIM) também se concentram em displasias esqueléticas e imunodeficiências raras, sem suporte clínico fornecido.
 
 ---
 
@@ -74,13 +71,35 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+Atualmente não há literatura relacionada para a pseudoacondroplasia.
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-Carbonato de lítio (DB14509) não possui nenhum registro ativo na ANVISA e não é comercializado no Brasil.
+Todos os 10 registros encontram-se cancelados. A forma farmacêutica não consta nos dados compilados.
+
+| Número de Registro | Nome Comercial | Indicação Aprovada |
+|---------|------|-----------|
+| Registro nº 113430167 | Carbonato de Lítio | Antidepressivos |
+| Registro nº 100430518 | Carbolitium | Antidepressivos |
+| Registro nº 102980545 | Carbonato de Lítio | Antidepressivos |
+| Registro nº 109740347 | Carbonato de Lítio | Antidepressivos |
+| Registro nº 102980556 | Literata | Antidepressivos |
+
+*Mostrados os 5 primeiros de 10 registros, todos cancelados.*
+
+---
+
+## Considerações de Segurança
+
+- **Contraindicações segundo o grafo de conhecimento (não extraídas da bula)**: doença renal, hipotireoidismo (inclusive congênito), mixedema, transtorno cognitivo, psoríase e parapsoríase, parada cardíaca súbita, doença do sistema de condução cardíaco, diabetes insípido (inclusive central e neuro-hipofisário) e piureter.
+- **Interações medicamentosas** (100 interações registradas; principais):
+  - **Maior gravidade**: bupropiona, lorcaserina.
+  - **Moderada**: acarbose, famotidina, metformina, pioglitazona, loperamida, mesalazina, morfina, metronidazol, claritromicina, canagliflozina, clorpropamida, citrato de potássio, entre outras.
+  - **Menor**: doxiciclina, epinefrina, ácido acetilsalicílico.
+
+As advertências e contraindicações da bula não estavam disponíveis; consulte a bula para informações completas de segurança.
 
 ---
 
@@ -89,14 +108,14 @@ Carbonato de lítio (DB14509) não possui nenhum registro ativo na ANVISA e não
 **Decisão: Hold**
 
 **Justificativa:**
-As evidências resumem-se exclusivamente à previsão computacional do TxGNN (nível L5), sem nenhum ensaio clínico ou publicação científica específica para carbonato de lítio em pseudoacondroplasia. O mecanismo proposto via inibição de GSK-3β não possui ligação direta estabelecida com a patofisiologia primária da doença (acúmulo de COMP mutante e estresse do ER), tornando a hipótese biologicamente especulativa no estágio atual.
+- Não há ensaios clínicos nem literatura para a pseudoacondroplasia, e o vínculo mecanístico é especulativo. Além disso, todos os registros brasileiros estão cancelados e a triagem de segurança não pôde ser concluída.
 
 **Para prosseguir, é necessário:**
-- Confirmar a identidade da entidade química DB14509 versus DB01356 (lítio elementar/íon), pois ambos constam na base DrugBank com perfis farmacológicos distintos — essa ambiguidade é bloqueante para qualquer avaliação subsequente
-- Obter dados completos de mecanismo de ação (MOA) via DrugBank API
-- Obter informações de segurança, advertências e contraindicações da bula junto à ANVISA ou fontes internacionais (item bloqueante para avaliação clínica)
-- Conduzir estudos pré-clínicos em modelos animais de pseudoacondroplasia antes de qualquer consideração clínica
-- Verificar a possibilidade de registro ou uso compassivo junto à ANVISA, caso estudos pré-clínicos demonstrem sinal de eficácia
+- Obter e analisar a bula da ANVISA (advertências e contraindicações).
+- Complementar os dados de mecanismo de ação (consulta ao DrugBank).
+- Realizar estudos pré-clínicos (por exemplo, modelos celulares ou animais com mutação em COMP) para testar a hipótese.
+- Avaliar o perfil de segurança do lítio (janela terapêutica estreita, função renal e tireoidiana) na população-alvo, em geral pediátrica.
+- Esclarecer a situação regulatória do produto no Brasil, já que não há registro vigente.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Brimonidine Tartrate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 133
+nav_order: 152
 evidence_level: L5
 indication_count: 0
 ---

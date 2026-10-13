@@ -2,7 +2,7 @@
 layout: default
 title: Pyridoxine
 parent: Apenas Predição do Modelo (L5)
-nav_order: 422
+nav_order: 556
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,72 +29,76 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Pyridoxine: De Deficiência de Vitamina B6 para Uretrite por Ureaplasma
+# Piridoxina: De monovitamina à uretrite por Ureaplasma
 
 ## Resumo em Uma Frase
 
-Pyridoxine (Vitamina B6) é um cofator enzimático essencial utilizado globalmente no tratamento e prevenção da deficiência de vitamina B6, embora não possua registro aprovado no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Uretrite por Ureaplasma (Ureaplasma urethritis)** com escore de **93.87%**,
-porém sem **nenhum ensaio clínico** e **nenhuma publicação** específica apoiando esta direção — a previsão é baseada exclusivamente na conectividade do grafo de conhecimento.
-
----
+A piridoxina (vitamina B6) foi originalmente registrada no Brasil como monovitamina e como componente de associações antieméticas e vitamínicas.
+O modelo TxGNN prevê que ela possa ser eficaz para **uretrite por Ureaplasma (Ureaplasma urethritis)**, mas **não há ensaios clínicos nem publicações** que apoiem essa direção. É uma previsão puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Sem registro no Brasil (uso global reconhecido: suplementação de Vitamina B6 / deficiência de B6) |
+|------|------|
+| Indicação Original | Monovitaminas, exceto vitamina K |
 | Nova Indicação Prevista | Uretrite por Ureaplasma (Ureaplasma urethritis) |
-| Pontuação de Previsão TxGNN | 93.87% |
+| Pontuação de Previsão TxGNN | 93,87% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis nesta base. Segundo o conhecimento farmacológico estabelecido, Pyridoxine é a forma natural da Vitamina B6 que, no organismo, é convertida na sua forma biologicamente ativa — o piridoxal-5'-fosfato (PLP). O PLP atua como cofator em mais de 100 reações enzimáticas, abrangendo síntese de neurotransmissores (GABA, serotonina, dopamina), metabolismo de aminoácidos, catabolismo da homocisteína e síntese de heme. A deficiência de B6 está associada ao comprometimento da imunidade celular e da integridade epitelial das mucosas, o que representa a base teórica mais distante para qualquer ligação com infecções urogenitais.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a piridoxina é a forma de vitamina B6 que o organismo converte em fosfato de piridoxal (PLP), coenzima do metabolismo de aminoácidos, neurotransmissores e unidades de um carbono. Sua eficácia na reposição vitamínica e, em associações, no controle de náuseas é conhecida.
 
-A conexão entre Pyridoxine e Uretrite por Ureaplasma é, contudo, extremamente indireta. O *Ureaplasma urealyticum* é uma bactéria que causa infecção do trato urogenital cujo tratamento padrão envolve antibióticos (azitromicina ou doxiciclina). Pyridoxine não possui atividade antibacteriana direta contra este patógeno. A avaliação indica que o escore elevado do TxGNN provavelmente reflete **conectividade topológica no grafo de conhecimento** — nós relacionados ao trato urogenital e a infecções bacterianas encontram-se próximos a vias metabólicas B6-dependentes dentro da rede —, e não uma relação biológica direta entre o fármaco e a doença.
-
-Um indício importante deste artefato: os escores para *Ureaplasma urethritis* (rank 1, **93.87%**) e *Uretrite Gonocócica* (rank 2, escore **idêntico**, 93.87%) são matematicamente iguais. Isso demonstra que ambas as doenças compartilham nós altamente similares no grafo, gerando pontuações equivalentes que não refletem especificidade biológica real — característica típica de um **graph topology artifact**.
-
----
+**A previsão não se sustenta do ponto de vista mecanístico.** A piridoxina não tem atividade antimicrobiana conhecida contra *Ureaplasma*, e o tratamento padrão da uretrite é feito com antibióticos. A pontuação alta (93,87%) parece refletir apenas associações no grafo de conhecimento, sem respaldo clínico ou na literatura. A análise de similaridade com a indicação original não foi concluída.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 Atualmente não há literatura relacionada.
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 20 registros encontrados estão cancelados. A tabela mostra os 5 principais.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 107150060 | NEURI - B6 | Não informada | Monovitaminas, exceto vitamina K |
+| Registro nº 115600078 | NAUSILON B6 | Não informada | Antieméticos e antinauseantes |
+| Registro nº 103920092 | DIMENIDRIN | Não informada | Antieméticos e antinauseantes |
+| Registro nº 103920210 | DRIVOM B6 | Não informada | Antieméticos e antinauseantes |
+| Registro nº 178170907 | DRAMIN B6 | Não informada | Antieméticos e antinauseantes |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+As informações de bula sobre advertências e contraindicações não estavam disponíveis nos dados compilados. Consulte a bula para esses itens.
 
----
+- **Contraindicações sugeridas pelo grafo de conhecimento** (não provêm do texto de bula e devem ser tratadas como sinais a verificar): insuficiência e doença hepática, doença renal e comprometimento da função renal, úlcera péptica, doenças da vesícula biliar, diabetes mellitus e cetoacidose diabética, gota, lúpus eritematoso sistêmico e doenças autoimunes, neuropatia periférica e doenças do sistema nervoso periférico, transtornos de ansiedade e neuróticos, dependência de substâncias, rabdomiólise, hemocromatose e doenças do metabolismo do ferro, doença de Wilson, doença diarreica, deficiência de potássio e acetilação lenta.
+- **Interações medicamentosas** (13 registradas):
+  - **Moderadas**: altretamina, fenobarbital, levodopa e fenitoína.
+  - **Leves**: amobarbital, butabarbital, butalbital, metoexital, pentobarbital, secobarbital, tiopental, metilfenobarbital e primidona.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Não existe evidência clínica nem literatura científica específica apoiando o uso de Pyridoxine para Uretrite por Ureaplasma. O escore TxGNN de 93.87% é um artefato da topologia do grafo de conhecimento, confirmado pelo escore idêntico atribuído à Uretrite Gonocócica — duas doenças com etiologias e tratamentos distintos, mas com representação estrutural similar na rede.
+- A previsão tem nível de evidência L5: não há ensaios, não há literatura e não há mecanismo plausível. Além disso, todos os registros brasileiros estão cancelados.
+- Os demais candidatos de maior pontuação (gonorreia, infecção urinária, doença inflamatória uterina, pielonefrite xantogranulomatosa) também ficam em Hold, por falta de fundamento mecanístico.
+- O candidato **"distúrbio por deficiência vitamínica"** (pontuação de 85,50%) é uma exceção. Tem nível L2, com um ensaio de Fase 2/3 concluído (NCT01128244, 13 participantes, efeitos da vitamina B6 no metabolismo de um carbono) e revisões sobre epilepsias dependentes de B6.
+  - Esse candidato é mais bem descrito como uso nutricional próprio da vitamina do que como reposicionamento.
+  - Sua recomendação preliminar é *Proceed with Guardrails*, com cautela quanto à neuropatia sensorial em doses altas e crônicas, às interações (como levodopa sem inibidor de descarboxilase) e à situação regulatória.
 
 **Para prosseguir, é necessário:**
-- Identificação de mecanismo biológico plausível que vincule Pyridoxine à infecção por *Ureaplasma urealyticum*
-- Estudos pré-clínicos (in vitro) avaliando eventual efeito de B6 sobre o patógeno
-- Dados completos de MOA via consulta à API DrugBank (Data Gap DG002)
-- Avaliação de segurança via bula ANVISA (Data Gap DG001)
-
-> **💡 Nota sobre este Evidence Pack:** A indicação com evidências mais robustas neste conjunto de dados é **Distúrbio por Deficiência de Vitaminas** (*vitamin deficiency disorder*, rank 10, escore 85.50%, nível **L1**, decisão **Proceed with Guardrails**) — correspondente ao uso já estabelecido de Pyridoxine em ensaios Phase 3/4 concluídos (ex.: [NCT03302299](https://clinicaltrials.gov/study/NCT03302299), [NCT00642408](https://clinicaltrials.gov/study/NCT00642408)). Esta sobreposição entre indicação prevista e uso consolidado sugere que o modelo TxGNN está corretamente capturando a farmacologia conhecida do fármaco, ainda que a previsão principal (rank 1) não possua suporte empírico.
+- Obter as advertências e contraindicações da bula na ANVISA.
+- Obter dados de mecanismo de ação da piridoxina, por exemplo no DrugBank.
+- Para uretrite por Ureaplasma, realizar estudos pré-clínicos ou observacionais que demonstrem algum efeito antimicrobiano ou adjuvante. Sem isso, a previsão não deve avançar.
+- Considerar priorizar a avaliação do candidato "distúrbio por deficiência vitamínica", verificando a disponibilidade regulatória, já que os registros atuais estão cancelados.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

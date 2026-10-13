@@ -2,7 +2,7 @@
 layout: default
 title: Allopurinol
 parent: Evidência Moderada (L3-L4)
-nav_order: 37
+nav_order: 40
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,72 +29,76 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Allopurinol: Da Hiperuricemia à Porfiria Hepática
+# Alopurinol: Do tratamento da gota à porfiria hepática
 
 ## Resumo em Uma Frase
 
-Allopurinol é um inibidor da xantina oxidase (XO) clássico, utilizado no tratamento da gota e da hiperuricemia. O modelo TxGNN prevê que pode ser eficaz para a **Porfiria Hepática (Hepatic Porphyria)**, com **0 ensaios clínicos** e **2 publicações** indiretamente relacionadas disponíveis como suporte. As evidências identificadas são hipotéticas e indiretas, indicando que esta direção ainda requer validação experimental dedicada antes de qualquer consideração clínica.
-
----
+O alopurinol é um inibidor da xantina oxidase, originalmente registrado no Brasil como antigotoso.
+O modelo TxGNN prevê que pode ser eficaz para **porfiria hepática (hepatic porphyria)**,
+mas atualmente há **0 ensaios clínicos** e apenas **2 publicações** (uma hipótese e um estudo animal, ambos indiretos) associadas a esta previsão. Nenhuma delas demonstra efeito terapêutico do alopurinol.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Gota e hiperuricemia |
-| Nova Indicação Prevista | Porfiria Hepática (Hepatic Porphyria) |
+| Indicação Original | Antigotosos (gota) |
+| Nova Indicação Prevista | Porfiria hepática (hepatic porphyria) |
 | Pontuação de Previsão TxGNN | 99,95% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 5 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Com base no conhecimento farmacológico estabelecido, allopurinol inibe competitivamente a xantina oxidase (XO), enzima responsável pela conversão de hipoxantina e xantina em ácido úrico. Como efeito secundário, essa inibição reduz a produção de espécies reativas de oxigênio (ROS) geradas pela XO, conferindo ao fármaco propriedades antioxidantes adicionais.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o alopurinol é um inibidor da xantina oxidase, que reduz a produção de ácido úrico, e sua utilização em gota está estabelecida.
 
-A porfiria hepática aguda tem como evento central a hiperativação da 5-aminolevulinato sintase 1 (ALAS1), enzima limitante da biossíntese do heme hepático. A hipótese de conexão metabólica, proposta em publicação recente (PMID 31443750), sugere que o catabolismo das purinas — via XO — pode interferir na regulação do pool de heme livre no citosol hepático. A inibição da XO pelo allopurinol poderia, teoricamente, reduzir essa interferência e aliviar a pressão sobre ALAS1, moderando a produção excessiva de precursores tóxicos do heme característicos das crises porfíricas.
+A ligação com a porfiria hepática é **indireta e especulativa**. Um artigo de hipótese de 2019 propõe direcionar a enzima 5-aminolevulinato sintase (ALAS1) por meio de triptofano e inibidores do uso de heme pelo triptofano 2,3-dioxigenase. Um estudo de 1992 em ratos avaliou os efeitos da carbamazepina sobre o metabolismo do heme hepático. Nenhum dos dois estudou o alopurinol nem mostrou efeito terapêutico dele em porfiria.
 
-Contudo, essa conexão permanece no nível de hipótese especulativa. Nenhum estudo experimental testou diretamente o allopurinol em modelos de porfiria hepática. A pontuação elevada do TxGNN (99,95%) provavelmente reflete similaridades estruturais no grafo de conhecimento entre as vias metabólicas envolvidas, e não evidência clínica ou pré-clínica direta. A previsão merece investigação, mas requer validação básica antes de qualquer avanço.
-
----
+Não há um mecanismo claro que conecte a inibição da xantina oxidase à biossíntese do heme. Literatura antiga sugere que o alopurinol poderia influenciar o turnover de heme/citocromo P450 hepático, mas isso não é sustentado pelos dados compilados. A pontuação alta do modelo reflete sobretudo associações no grafo de conhecimento, não evidência específica.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Hipótese / Revisão narrativa | *Medical Hypotheses* | Propõe alvo metabólico de ALAS1 via inibição do uso de heme pela triptofano 2,3-dioxigenase (TDO) como terapia para porfirias hepáticas agudas; allopurinol não é testado diretamente, mas a via XO é mencionada no contexto do metabolismo das purinas |
-| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Estudo animal (rato) | *Biochemical Pharmacology* | Examina efeitos agudos de carbamazepina sobre o metabolismo hepático do heme em ratos, incluindo a depleção do pool de heme regulatório e indução de ALAS1; allopurinol não é o objeto do estudo, mas o modelo experimental é relevante para entender a dinâmica porfírica |
+| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Revisão/hipótese | Medical Hypotheses | Propõe o direcionamento metabólico da ALAS1 hepática, via triptofano ou inibição do uso de heme pela triptofano 2,3-dioxigenase, como terapia das porfirias hepáticas agudas. Não envolve o alopurinol. |
+| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Pré-clínico (animal) | Biochemical Pharmacology | A carbamazepina, em dose muito baixa, agravou o metabolismo do heme em fígado de rato, potencializando a perda de heme utilizado pela triptofano pirrolase. Não envolve o alopurinol. |
 
----
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 183260035 | ALOPURINOL | Não informada | Antigotosos (cancelado) |
+| Registro nº 100470331 | ALOPURINOL | Não informada | Antigotosos (cancelado) |
+| Registro nº 100681154 | ALOPURINOL | Não informada | Antigotosos (cancelado) |
+| Registro nº 137640122 | ZYLORIC | Não informada | Não informada (cancelado) |
+| Registro nº 125680191 | ALOPURINOL | Não informada | Antigotosos (cancelado) |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Contraindicações e condições de risco (grafo de conhecimento TxGNN, não texto de bula)**: doença hepática, doença da vesícula biliar, insuficiência da função renal, vasculite de hipersensibilidade, angeíte leucocitoclástica cutânea, vasculite cutânea alérgica e doença antimembrana basal glomerular. Chama atenção o fato de a porfiria hepática ser uma doença do fígado, o que exige cautela adicional.
+- **Interações Medicamentosas** (100 interações registradas; principais exemplos):
+  - Moderadas: hidróxido de alumínio, atapulgita, caulim, magaldrato e sucralfato (antiácidos e protetores de mucosa).
+  - Leves: amoxicilina e clorpropamida.
+  - Nível não classificado: calcitriol, vitamina A, pantoprazol, glimepirida, mesalazina, doxiciclina, clotrimazol, acarbose, morfina, metformina, omeprazol, rosiglitazona e palonosetrona.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Apesar da pontuação TxGNN elevada (99,95%), o nível de evidência é L4 — sustentado exclusivamente por hipóteses mecanísticas indiretas e estudos em modelos animais não relacionados diretamente ao allopurinol. A ausência total de ensaios clínicos e de estudos experimentais dedicados impede qualquer avanço responsável sem etapas de validação prévias.
+A previsão se baseia essencialmente no modelo: não há ensaios clínicos, e a literatura disponível é uma hipótese e um estudo animal que não envolvem o alopurinol. Além disso, todos os registros brasileiros estão cancelados e os dados de bula não estão disponíveis, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Conduzir estudos pré-clínicos dedicados (modelos murinos de porfiria aguda ou culturas de hepatócitos) testando allopurinol diretamente
-- Obter dados completos de mecanismo de ação (MOA) via consulta à API do DrugBank
-- Recuperar informações de segurança, advertências e contraindicações da bula oficial (ANVISA)
-- Avaliar a situação regulatória e viabilidade de registro no Brasil, dado que o fármaco não está comercializado no país
-- Ampliar a busca na literatura com termos combinados (allopurinol + xanthine oxidase + heme biosynthesis + ALAS1) para identificar eventuais evidências mecanísticas mais robustas
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
+- Obter dados do mecanismo de ação no DrugBank e investigar a relação entre a inibição da xantina oxidase e o metabolismo do heme.
+- Realizar estudos pré-clínicos específicos de alopurinol em modelos de porfiria hepática.
+- Avaliar a segurança em pacientes com doença hepática, dada a presença dessa condição entre as contraindicações do grafo de conhecimento.
+- Esclarecer a situação regulatória, já que não há registro vigente no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Tazobactam
 parent: Evidência Alta (L1-L2)
-nav_order: 457
+nav_order: 607
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,102 +29,104 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-O skill não contém instruções específicas para geração de relatórios a partir de Evidence Pack. Prossigo diretamente com o relatório conforme o formato do prompt do sistema.
-
----
-
-# Tazobactam: Do inibidor de beta-lactamase à pneumonia nosocomial
+# Tazobactam: Das infecções bacterianas originais à pneumonia
 
 ## Resumo em Uma Frase
 
-Tazobactam é um inibidor de beta-lactamase utilizado clinicamente em combinação com Piperacillin (Pip/Tazo), formando um antibiótico de amplo espectro para o tratamento de infecções bacterianas graves.
-O modelo TxGNN prevê que pode ser eficaz para **Pneumonia (Pneumonia)**, indicação amplamente suportada por evidências clínicas de alto nível — com **Pip/Tazo já posicionado como controle ativo ou tratamento padrão em múltiplos ensaios de Fase 3**.
-Há pelo menos **4 estudos Fase 3 concluídos** envolvendo diretamente Pip/Tazo no tratamento de pneumonia hospitalar e associada à ventilação mecânica.
-
----
+Tazobactam é um inibidor de beta-lactamases, originalmente usado em associação com antibióticos beta-lactâmicos no tratamento de pneumonia bacteriana, peritonite, apendicite e infecções por *Staphylococcus aureus*.
+O modelo TxGNN prevê que pode ser eficaz para **Pneumonia (pneumonia)**, com **20 ensaios clínicos** e **20 publicações** apoiando esta direção.
+Como a pneumonia bacteriana já consta entre as indicações originais, este achado é, em grande parte, uma indicação já existente ou muito próxima dela, e não um reposicionamento propriamente dito.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Inibidor de beta-lactamase em combinação com Piperacillin para infecções bacterianas graves (dados de registro ANVISA não disponíveis neste pacote) |
-| Nova Indicação Prevista | Pneumonia — incluindo HAP e VAP (Hospital/Ventilator-Associated Pneumonia) |
-| Pontuação de Previsão TxGNN | 99.46% |
+|------|------|
+| Indicação Original | Pneumonia bacteriana (a partir das indicações originais do grafo de conhecimento; não há registro no Brasil) |
+| Nova Indicação Prevista | Pneumonia (pneumonia) |
+| Pontuação de Previsão TxGNN | 99,46% |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Tazobactam atua inibindo beta-lactamases das classes TEM, SHV e CTX-M, enzimas produzidas por bactérias Gram-negativas para degradar antibióticos beta-lactâmicos. Ao bloquear essas enzimas, o Tazobactam restaura e expande a atividade bactericida do Piperacillin contra patógenos resistentes, incluindo *Pseudomonas aeruginosa*, *Klebsiella pneumoniae* e *Escherichia coli* produtoras de ESBL. Embora os dados formais de MOA não estejam disponíveis neste pacote, o mecanismo da combinação Pip/Tazo é bem caracterizado na literatura farmacológica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base de dados compilada. Segundo informações conhecidas, o tazobactam é um inibidor de beta-lactamases: protege antibióticos parceiros (piperacilina, ceftolozana, associações do tipo imipenem) da hidrólise por bactérias Gram-negativas resistentes que causam pneumonia nosocomial e associada à ventilação mecânica.
 
-A pneumonia hospitalar (HAP) e a pneumonia associada à ventilação mecânica (VAP) são causadas predominantemente por patógenos Gram-negativos — exatamente o espectro para o qual o Pip/Tazo foi desenvolvido. Em contexto de UTI, onde a pressão seletiva favorece bactérias resistentes a beta-lactâmicos, a presença do Tazobactam como inibidor enzimático é farmacologicamente justificada e clinicamente essencial.
-
-A combinação Pip/Tazo já consta como opção de primeira linha ou como comparador-padrão nos guidelines internacionais de HAP/VAP (IDSA/ATS 2016, ECMID 2017). Diversos ensaios Fase 3 concluídos utilizam Pip/Tazo como braço de controle ativo — o que, em termos de evidência, equivale a validar sua eficácia de forma indireta e robusta. A previsão do TxGNN, portanto, reflete uma relação clínica já consolidada, mais do que uma hipótese nova.
-
----
+A pneumonia já está muito próxima das indicações originais (pneumonia bacteriana). Por isso, trata-se de um achado essencialmente dentro da bula ou muito próximo dela. É importante notar que a eficácia depende do antibiótico parceiro: o tazobactam não tem papel antibacteriano isolado.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|-----------------|------|--------|---------------|--------------------|
-| [NCT03583333](https://clinicaltrials.gov/study/NCT03583333) | Phase 3 | Concluído | 274 | Comparou IMI/REL vs Pip/Tazo em HAP/VABP; Pip/Tazo atuou como controle ativo com mortalidade de 28 dias como desfecho primário — validação direta de sua eficácia na indicação |
-| [NCT02493764](https://clinicaltrials.gov/study/NCT02493764) | Phase 3 | Concluído | 537 | IMI/REL vs Pip/Tazo em HABP/VABP (Fase 3 duplo-cego); não-inferioridade avaliada pela mortalidade por todas as causas — Pip/Tazo como padrão de referência |
-| [NCT00253955](https://clinicaltrials.gov/study/NCT00253955) | Phase 3 | Concluído | 460 | Levofloxacin 750 mg/dia vs Pip/Tazo 4g/500 mg q8h em pneumonia hospitalar leve a moderada (enfermarias + UTI); desfecho de cura clínica |
-| [NCT02070757](https://clinicaltrials.gov/study/NCT02070757) | Phase 3 | Concluído | 726 | Ceftolozane/Tazobactam vs Meropenem para pneumonia nosocomial ventilada (VABP/HABP); mortalidade no Dia 28 como desfecho primário |
-| [NCT01796717](https://clinicaltrials.gov/study/NCT01796717) | Phase 2/3 | Desconhecido | 50 | Pip/Tazo 4,5g q6h infusão prolongada vs intermitente em pneumonia nosocomial; avaliação PK/PD e resposta clínica/bacteriológica |
-| [NCT06743529](https://clinicaltrials.gov/study/NCT06743529) | N/A | Em Recrutamento | 686 | Estratégia imediata vs conservadora de antibióticos (incluindo Pip/Tazo) na VAP não-grave suspeita; grande estudo prospectivo randomizado |
-| [NCT05464680](https://clinicaltrials.gov/study/NCT05464680) | N/A | Concluído | 34 | Difusão pulmonar de antibióticos (incluindo Pip/Tazo) em ventilação mecânica pós-SARS-CoV-2; fornece dados de ELF/plasma ratio para Pip/Tazo |
-| [NCT03897582](https://clinicaltrials.gov/study/NCT03897582) | N/A | Em Recrutamento | 65 | Dosagem de beta-lactâmicos (incluindo Pip/Tazo) em pneumonia em UTI com terapia renal substitutiva contínua (CRRT); dados PK em população especial |
-| [NCT04986254](https://clinicaltrials.gov/study/NCT04986254) | N/A | Concluído | 179 | Definição de esquemas de dose individualizados para otimizar eficácia de antibióticos (incluindo Pip/Tazo) em pneumonia em UTI |
-| [NCT05102162](https://clinicaltrials.gov/study/NCT05102162) | Phase 4 | Encerrado | 35 | Infusão contínua vs intermitente de beta-lactâmicos (Meropenem, Cefepime, Pip/Tazo) em pneumonia por Gram-negativos; avaliação de resistência bacteriana emergente |
+Foram identificados 20 ensaios; abaixo estão os 10 mais relevantes. A maioria testa combinações que contêm tazobactam (ceftolozana/tazobactam ou piperacilina/tazobactam), não o tazobactam isoladamente.
 
----
+| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
+|---------|------|------|------|---------|
+| [NCT02070757](https://clinicaltrials.gov/study/NCT02070757) | Phase 3 | Concluído | 726 | Ceftolozana/tazobactam vs meropenem em pneumonia nosocomial ventilada; desfecho primário: não inferioridade na mortalidade por todas as causas no dia 28 |
+| [NCT02493764](https://clinicaltrials.gov/study/NCT02493764) | Phase 3 | Concluído | 537 | Imipenem/relebactam vs piperacilina/tazobactam em pneumonia hospitalar ou associada à ventilação; duplo-cego, controlado por comparador ativo |
+| [NCT00253955](https://clinicaltrials.gov/study/NCT00253955) | Phase 3 | Concluído | 460 | Levofloxacino 750 mg vs piperacilina/tazobactam em pneumonia hospitalar leve a moderada; não inferioridade de eficácia clínica |
+| [NCT01853982](https://clinicaltrials.gov/study/NCT01853982) | Phase 3 | Encerrado | 4 | Ceftolozana/tazobactam vs piperacilina/tazobactam em pneumonia associada à ventilação; encerrado com apenas 4 pacientes, sem dados úteis de eficácia |
+| [NCT04223752](https://clinicaltrials.gov/study/NCT04223752) | Phase 1 | Concluído | 41 | Segurança, tolerabilidade e farmacocinética de ceftolozana/tazobactam em crianças com pneumonia nosocomial |
+| [NCT02387372](https://clinicaltrials.gov/study/NCT02387372) | Phase 1 | Concluído | 37 | Farmacocinética plasmática e penetração pulmonar de ceftolozana/tazobactam em pacientes críticos |
+| [NCT00438269](https://clinicaltrials.gov/study/NCT00438269) | Phase 2 | Concluído | 80 | Estudo piloto randomizado sobre terapia antimicrobiana apropriada em cuidados intensivos; avalia uma estratégia, não o tazobactam especificamente |
+| [NCT06972537](https://clinicaltrials.gov/study/NCT06972537) | NA | Recrutando | 42 | Dosagem guiada por modelo vs empírica de piperacilina/tazobactam em idosos com pneumonia; sem resultados |
+| [NCT04673175](https://clinicaltrials.gov/study/NCT04673175) | Phase 4 | Encerrado | 17 | Piloto de ceftolozana/tazobactam com diagnóstico molecular rápido em *Pseudomonas aeruginosa* em doenças hematológicas; evidência limitada |
+| [NCT06977347](https://clinicaltrials.gov/study/NCT06977347) | NA | Ainda não recrutando | 100 | Piperacilina/tazobactam isolada vs associada a fluoroquinolona em pneumonia comunitária grave na Coreia do Sul |
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada indexada para a combinação Tazobactam + Pneumonia neste Evidence Pack.
+Foram identificadas 20 publicações; abaixo estão as 10 mais relevantes.
 
-> **Nota:** A ausência de literatura específica não diminui a força das evidências clínicas, dado que Pip/Tazo figura como controle ativo em múltiplos ensaios Fase 3 concluídos — o que constitui, por si só, evidência indireta de eficácia de nível L1.
-
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [31563344](https://pubmed.ncbi.nlm.nih.gov/31563344/) | 2019 | RCT | Lancet Infect Dis | ASPECT-NP: ceftolozana/tazobactam vs meropenem em pneumonia nosocomial Gram-negativa (fase 3, duplo-cego, não inferioridade) |
+| [32785589](https://pubmed.ncbi.nlm.nih.gov/32785589/) | 2021 | RCT | Clin Infect Dis | RESTORE-IMI 2: imipenem/cilastatina/relebactam vs piperacilina/tazobactam em pneumonia hospitalar/associada à ventilação |
+| [39674398](https://pubmed.ncbi.nlm.nih.gov/39674398/) | 2025 | RCT | Int J Infect Dis | Ensaio fase 3 de não inferioridade de imipenem/relebactam vs piperacilina/tazobactam em pacientes críticos |
+| [38823453](https://pubmed.ncbi.nlm.nih.gov/38823453/) | 2024 | Revisão sistemática / meta-análise em rede | Clin Microbiol Infect | Regimes antibióticos empíricos em pneumonia hospitalar não associada à ventilação |
+| [38971203](https://pubmed.ncbi.nlm.nih.gov/38971203/) | 2024 | Revisão sistemática | Int J Antimicrob Agents | Farmacocinética/farmacodinâmica de novos beta-lactâmicos e associações com inibidores em pneumonia por bactérias resistentes a carbapenêmicos |
+| [36543346](https://pubmed.ncbi.nlm.nih.gov/36543346/) | 2022 | Revisão | Eur Respir Rev | Visão geral dos novos antibióticos para pneumonia por Gram-negativos |
+| [35088403](https://pubmed.ncbi.nlm.nih.gov/35088403/) | 2022 | Revisão | Semin Respir Crit Care Med | Novos antibióticos para pneumonia hospitalar e associada à ventilação |
+| [32662691](https://pubmed.ncbi.nlm.nih.gov/32662691/) | 2020 | Revisão | Expert Rev Anti Infect Ther | Ceftolozana/tazobactam no tratamento da pneumonia hospitalar |
+| [38862579](https://pubmed.ncbi.nlm.nih.gov/38862579/) | 2024 | Observacional | Sci Rep | Cefepima vs piperacilina/tazobactam em pneumonia comunitária em pacientes críticos (2.026 pacientes) |
+| [42129898](https://pubmed.ncbi.nlm.nih.gov/42129898/) | 2026 | Ensaio farmacocinético randomizado | Crit Care | Penetração intrapulmonar de ceftolozana/tazobactam e ceftazidima/avibactam em infusão contínua |
 
 ## Informações de Comercialização no Brasil
 
-Os dados detalhados dos 20 registros individuais (nome comercial, forma farmacêutica, fabricante e indicação aprovada) não estão disponíveis neste Evidence Pack — os campos correspondentes estão em branco na fonte consultada (ANVISA/TFDA). Recomenda-se consulta direta ao portal de consultas de medicamentos da ANVISA para obtenção dessas informações.
-
-| Status | Detalhe |
-|--------|---------|
-| Situação | ✓ Comercializado no Brasil |
-| Total de Registros | 20 |
-| Dados de registro individuais | Não disponíveis neste pacote — consulte ANVISA |
-
----
+Não há registros de tazobactam isolado na base de dados compilada para o Brasil (0 registros; situação: não comercializado).
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (a partir do grafo de conhecimento, não da bula)**: doença renal, piureter, neutropenia, agranulocitose, doenças da coagulação sanguínea, colite por *Clostridium difficile*, enterocolite necrosante perinatal, mononucleose infecciosa e síndrome de infecção crônica pelo vírus Epstein-Barr.
+- **Interações medicamentosas**: não foram encontradas interações na consulta realizada.
 
-> As advertências, contraindicações e dados de interações medicamentosas não estão disponíveis neste Evidence Pack. Para uso clínico ou avaliação regulatória, é indispensável obter a bula completa via ANVISA e revisar as interações via base de dados especializada (ex.: Micromedex, Lexi-Interact).
-
----
+Para advertências formais e demais informações de segurança, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-A combinação Piperacillin/Tazobactam é um tratamento consolidado e recomendado por guidelines internacionais para pneumonia hospitalar (HAP) e pneumonia associada à ventilação mecânica (VAP), com papel de controle ativo em pelo menos quatro ensaios Fase 3 concluídos e mais de 1.900 pacientes avaliados em estudos diretamente relevantes. O nível de evidência L1 reflete maturidade clínica plena nesta indicação — a previsão do TxGNN captura uma associação farmacológica já estabelecida, não uma hipótese exploratória.
+Há vários ensaios fase 3 concluídos e RCTs publicados em pneumonia nosocomial com associações que contêm tazobactam (nível L1). Porém, a evidência vem de associações e a indicação já é próxima da original, o que limita o caráter de reposicionamento.
 
 **Para prosseguir, é necessário:**
-- Recuperar os dados completos dos 20 registros ANVISA (nome comercial, forma farmacêutica, indicação aprovada)
-- Obter bula completa via ANVISA para avaliação de advertências, contraindicações e precauções
-- Confirmar o perfil de interações medicamentosas em contexto de UTI (especialmente com vancomicina, aminoglicosídeos e anticoagulantes)
-- Avaliar ajustes de dose em populações especiais: insuficiência renal (TFG < 40 mL/min), pacientes em CRRT/hemodiálise e pacientes pediátricos
-- Checar registros de Pip/Tazo especificamente para a indicação de HAP/VAP nos registros ANVISA brasileiros
+- Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), pois esses dados estão ausentes e bloqueiam a triagem de segurança.
+- Obter dados detalhados do mecanismo de ação (MOA) em fontes como o DrugBank.
+- Definir os antibióticos parceiros e os regimes posológicos, já que o tazobactam não tem ação antibacteriana isolada.
+- Considerar o risco em pacientes com doença renal, neutropenia ou distúrbios de coagulação (contraindicações sugeridas pelo grafo de conhecimento).
+- Verificar a situação regulatória: não há registro no Brasil nos dados compilados.
+
+### Outras indicações previstas (resumo)
+
+| Indicação prevista | Pontuação TxGNN | Nível de evidência | Decisão |
+|------|------|------|------|
+| Infecção do trato urinário | 99,12% | L1 | Proceed with Guardrails |
+| Pielonefrite | 93,77% | L1 | Proceed with Guardrails |
+| Uretrite por *Ureaplasma* | 98,99% | L5 | Hold (*Ureaplasma* não tem parede celular; mecanismo implausível) |
+| Uretrite gonocócica | 98,99% | L5 | Hold |
+| Artrite bacteriana | 98,79% | L4 | Hold |
+| Doença inflamatória uterina | 98,66% | L4 | Hold |
+| Pielonefrite xantogranulomatosa | 98,62% | L4 | Hold |
+| Tuberculose urogenital | 94,94% | L5 | Hold |
+| Pneumonia estreptocócica | 94,75% | L4 | Hold (o pneumococo costuma ser sensível a penicilinas sem inibidor) |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

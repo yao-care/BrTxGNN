@@ -2,7 +2,7 @@
 layout: default
 title: Gestodene
 parent: Apenas Predição do Modelo (L5)
-nav_order: 265
+nav_order: 340
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,82 +29,82 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Gestodene: De contraceptivo oral à enxaqueca (Migraine Disorder)
+# Gestodeno: Da contracepção hormonal à acne (indicação prevista de menor risco)
 
 ## Resumo em Uma Frase
 
-Gestodene é um progestagênio de terceira geração, utilizado como componente ativo em contraceptivos orais combinados (COC).
-O modelo TxGNN prevê potencial eficácia para **Enxaqueca (migraine disorder)**,
-atualmente sem nenhum ensaio clínico registrado e com apenas **3 publicações** associadas — todas enfocando riscos vasculares do uso de COC, e não tratamento da enxaqueca.
-
----
+Gestodeno é um progestágeno de terceira geração, usado em associação com etinilestradiol em contraceptivos orais combinados. Não há indicação original registrada na ANVISA nos dados compilados.
+O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**, a previsão de maior pontuação, mas a literatura associada trata de risco trombótico, e não de benefício terapêutico. A previsão com respaldo biológico mais plausível é **acne (acne disease)**, com **15 publicações** (nenhum ensaio clínico registrado) de apoio indireto, em geral estudos com associações contraceptivas.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Contracepção oral (componente de COC) |
-| Nova Indicação Prevista | Enxaqueca (migraine disorder) |
-| Pontuação de Previsão TxGNN | 94.35% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 2 |
-| Decisão Recomendada | Hold |
-
----
+| Indicação Original | Não informada nos dados de registro (uso conhecido: contracepção hormonal combinada) |
+| Nova Indicação Prevista | Enxaqueca (migraine disorder), primeira posição do ranking; acne analisada à parte |
+| Pontuação de Previsão TxGNN | 94,35% (enxaqueca); 91,31% (acne) |
+| Nível de Evidência | L5 para enxaqueca; L3 para acne |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold (enxaqueca); acne como questão de pesquisa |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação (MOA) do gestodene no Evidence Pack. Com base no conhecimento farmacológico estabelecido, o gestodene é um progestagênio de terceira geração com alta seletividade pelo receptor de progesterona, baixa atividade androgênica e sem atividade estrogênica intrínseca. Nos contraceptivos combinados, atua suprimindo a liberação de gonadotrofinas (LH/FSH) para inibir a ovulação.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o gestodeno é um progestágeno potente, com baixa atividade androgênica, que atua em receptores de progesterona e andrógenos. Em associação com etinilestradiol, suprime a liberação de gonadotrofinas e inibe a ovulação.
 
-A hipótese mecanística para enxaqueca baseia-se no fato de que flutuações nos níveis de esteroides sexuais — especialmente a queda abrupta de estrogênio no período peri-menstrual — podem desencadear crises de enxaqueca via ativação do sistema CGRP e da via trigeminovascular. A estabilização hormonal promovida por progestagênios poderia, em tese, reduzir essa variabilidade.
+**Enxaqueca:** a pontuação alta provavelmente reflete uma associação computacional, e não um mecanismo terapêutico. Os dois artigos recuperados tratam de contraceptivos orais e risco de tromboembolismo venoso. A enxaqueca, sobretudo com aura, é fator de risco para eventos isquêmicos em usuárias de contraceptivos com estrogênio. Trata-se de sinal de segurança, não de evidência de reposicionamento.
 
-Contudo, esta previsão apresenta uma contradição clínica fundamental: a **enxaqueca com aura** é contraindicação absoluta reconhecida para contraceptivos orais que contêm estrogênio (formulações típicas com gestodene), devido ao risco substancialmente elevado de acidente vascular cerebral isquêmico. As três publicações recuperadas tratam justamente desse risco vascular — reforçando a contraindicação, não suportando um papel terapêutico para gestodene na enxaqueca. A alta pontuação TxGNN provavelmente reflete conexões não-específicas no grafo (hormônios ↔ vascular ↔ enxaqueca) e não um mecanismo terapêutico real.
+**Acne:** é biologicamente plausível. O estrogênio eleva a SHBG e reduz os andrógenos livres, e o gestodeno tem atividade androgênica mínima, o que pode diminuir a produção de sebo e as lesões. Contudo, as evidências vêm de produtos combinados, de modo que o efeito isolado do gestodeno não pode ser separado, e os estudos são antigos (década de 1990).
 
----
+As demais previsões (linfoma cutâneo de células T primário, ceratose seborreica, ceratose folicular invertida vulvar, úlcera corneana micótica, cardiopatia cifoescoliótica e asma alérgica) não têm mecanismo plausível demonstrado nos dados.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
+
+**Enxaqueca (principal previsão)**
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [8984464](https://pubmed.ncbi.nlm.nih.gov/8984464/) | 1996 | Observational | The Practitioner | Avaliação do risco de trombose venosa profunda (TVP) com uso de contraceptivos orais; foco em risco, não em tratamento de enxaqueca |
-| [10342951](https://pubmed.ncbi.nlm.nih.gov/10342951/) | 1998 | Review | Prescrire International | Revisão do risco cardiovascular de COC; alerta para risco coronariano aumentado em mulheres >35 anos, fumantes e hipertensas; risco absoluto baixo em jovens sem fatores de risco |
-| [9093141](https://pubmed.ncbi.nlm.nih.gov/9093141/) | 1997 | Case-control | Acta Obstet Gynecol Scand | Estudo sobre prescrição preferencial de COC segundo fatores de risco trombótico; não relacionado ao tratamento de enxaqueca |
+| [8984464](https://pubmed.ncbi.nlm.nih.gov/8984464/) | 1996 | Revisão | The Practitioner | Risco de trombose venosa profunda com contraceptivos orais; sem relação terapêutica com enxaqueca |
+| [9093141](https://pubmed.ncbi.nlm.nih.gov/9093141/) | 1997 | Caso-controle | Acta Obstet Gynecol Scand | Influência de fatores de risco trombótico na prescrição de contraceptivos orais |
 
----
+**Acne (previsão com evidência indireta)**
 
-## Informações de Comercialização no Brasil
-
-O sistema registra **2 licenças ativas** para o gestodene no Brasil (status: comercializado), porém os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no presente Evidence Pack. Recomenda-se consulta direta ao banco de dados da ANVISA para obter as informações completas dos registros.
-
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [8222658](https://pubmed.ncbi.nlm.nih.gov/8222658/) | 1993 | RCT | Contraception | Contraceptivo trifásico com gestodeno vs noretindrona: ambos eficazes; gestodeno superior em controle do ciclo e tolerabilidade geral |
+| [7796587](https://pubmed.ncbi.nlm.nih.gov/7796587/) | 1995 | RCT multicêntrico | Contraception | Comparação de dois contraceptivos monofásicos (desogestrel vs gestodeno) em 783 mulheres tailandesas |
+| [8689881](https://pubmed.ncbi.nlm.nih.gov/8689881/) | 1996 | Estudo clínico | Contraception | Etinilestradiol com gestodeno vs desogestrel em 19 jovens com acne vulgar não grave, avaliando lesões e hormônios androgênicos |
+| [8689882](https://pubmed.ncbi.nlm.nih.gov/8689882/) | 1996 | Estudo clínico | Contraception | Alterações de andrógenos em 100 mulheres com quatro contraceptivos de baixa dose |
+| [8521763](https://pubmed.ncbi.nlm.nih.gov/8521763/) | 1995 | Revisão | Drugs | Farmacologia, eficácia e tolerabilidade do gestodeno em contraceptivos combinados |
+| [8616979](https://pubmed.ncbi.nlm.nih.gov/8616979/) | 1995 | Revisão | Clin Obstet Gynecol | Gestodeno é o progestágeno mais potente em contraceptivos orais; forte efeito antiestrogênico e progestagênico |
+| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Revisão | Am J Med | Androgenicidade dos progestágenos |
+| [8520092](https://pubmed.ncbi.nlm.nih.gov/8520092/) | 1995 | Revisão | Ann Pharmacother | Comparação de desogestrel, norgestimato e gestodeno |
+| [10652979](https://pubmed.ncbi.nlm.nih.gov/10652979/) | 1999 | Coorte/base de dados | Hum Reprod Update | Risco de tromboembolismo venoso por formulação de contraceptivo combinado |
+| [2096480](https://pubmed.ncbi.nlm.nih.gov/2096480/) | 1990 | Experiência clínica | Therapeutische Umschau | Eficácia contraceptiva, controle do ciclo e baixa incidência de efeitos adversos com etinilestradiol 0,03 mg + gestodeno 0,075 mg |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Risco tromboembólico e vascular:** a literatura recuperada indica que contraceptivos hormonais combinados se associam a tromboembolismo venoso e eventos isquêmicos arteriais, incluindo trombose cerebral. O risco persiste mesmo com formulações modernas, e há relato específico de preocupação com progestágenos de terceira geração.
+- **Enxaqueca com aura:** é fator de cautela ou contraindicação para contraceptivos com estrogênio, por risco de AVC isquêmico. Isso contraria o uso do gestodeno como tratamento de enxaqueca.
 
----
+Para as demais informações de segurança (advertências, contraindicações e interações), consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Hold** (enxaqueca e demais previsões sem evidência); **acne** pode ser tratada como questão de pesquisa (L3).
 
 **Justificativa:**
-A previsão TxGNN para enxaqueca provavelmente é um artefato de grafo — o gestodene está conectado a nós de "doença vascular" e "hormônio", que por sua vez conectam-se à enxaqueca, gerando uma pontuação inflacionada sem sustentação clínica real. Ao contrário: enxaqueca com aura constitui **contraindicação** para COC contendo gestodene, e toda a literatura disponível reforça esse alerta de risco, não um potencial terapêutico.
+- A previsão principal (enxaqueca) não tem respaldo terapêutico e sugere um problema de segurança. As outras previsões são apenas computacionais. A acne tem plausibilidade biológica, mas apenas com evidência indireta, antiga e de produtos combinados. Além disso, o gestodeno não é comercializado no Brasil.
 
-**Para considerar qualquer avanço nesta direção, seria necessário:**
-- Hipótese mecanística clara para uso de progestagênio **puro** (sem estrogênio) na enxaqueca menstrual
-- Dados pré-clínicos demonstrando efeito protetor do gestodene isolado em modelos de enxaqueca
-- Distinção entre populações (enxaqueca sem aura vs. com aura) para avaliar segurança mínima
-- Dados completos de MOA (DrugBank) e dados de segurança (bula ANVISA)
-
-> ⚠️ **Nota clínica importante:** Das 10 indicações previstas pelo TxGNN para gestodene, a indicação com maior suporte mecanístico e evidências reais é **acne vulgaris** (rank 4, L3 — Research Question): o perfil de baixa androgenicidade do gestodene e o aumento de SHBG com consequente redução de testosterona livre são mecanismos bem documentados. Embora as evidências disponíveis sejam de estudos com COC combinado (não gestodene isolado), esta linha investigativa merece atenção prioritária em relação às demais previsões.
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
+- Obter dados de mecanismo de ação no DrugBank.
+- Esclarecer a situação regulatória do gestodeno no Brasil, incluindo possíveis registros de associações.
+- Para acne, comparar com contraceptivos já aprovados para essa indicação e avaliar o balanço benefício-risco, especialmente quanto ao tromboembolismo venoso.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

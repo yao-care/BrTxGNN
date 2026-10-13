@@ -2,7 +2,7 @@
 layout: default
 title: Levodopa
 parent: Apenas Predição do Modelo (L5)
-nav_order: 314
+nav_order: 409
 evidence_level: L5
 indication_count: 1
 ---
@@ -33,61 +33,59 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 ## Resumo em Uma Frase
 
-Levodopa é um precursor da dopamina, amplamente utilizado no tratamento da doença de Parkinson para repor a deficiência dopaminérgica no sistema nigroestriatal.
-O modelo TxGNN prevê que pode ser eficaz para **Encefalite Subaguda de Rasmussen (Rasmussen Subacute Encephalitis)**,
-porém **sem ensaios clínicos** e **sem publicações** apoiando diretamente esta direção.
-
----
+Levodopa é um precursor da dopamina, originalmente usado no tratamento da doença de Parkinson e de síndromes parkinsonianas relacionadas.
+O modelo TxGNN prevê que pode ser eficaz para **Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Doença de Parkinson |
-| Nova Indicação Prevista | Encefalite Subaguda de Rasmussen |
-| Pontuação de Previsão TxGNN | 99.06% |
+| Indicação Original | Doença de Parkinson e síndromes parkinsonianas relacionadas (conforme o grafo de conhecimento; não há indicação em bula brasileira) |
+| Nova Indicação Prevista | Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis) |
+| Pontuação de Previsão TxGNN | 99,06% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Levodopa é um precursor da dopamina que atravessa a barreira hematoencefálica e é convertido em dopamina pela enzima DOPA descarboxilase. Seu uso principal é repor a deficiência dopaminérgica na via nigroestriatal, sendo o tratamento de referência para a doença de Parkinson. Não há dados detalhados de MOA disponíveis neste pacote de evidências — a análise abaixo baseia-se no conhecimento farmacológico estabelecido.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a levodopa é um precursor da dopamina, usado em síndromes parkinsonianas caracterizadas por deficiência dopaminérgica, e sua utilidade nesse contexto é bem estabelecida.
 
-A encefalite de Rasmussen (RSE) é uma doença neuroinflamatória crônica rara, de caráter unilateral, cujo mecanismo patológico central envolve ataque autoimune mediado por linfócitos T CD8+ citotóxicos e microglia, resultando em epilepsia focal refratária e déficits neurológicos progressivos. Existe uma ligação mecanística teoricamente possível, porém muito fraca: os receptores dopaminérgicos D1 e D2 são expressos em linfócitos T, células dendríticas e macrófagos, o que poderia modular a neuroinflamação. Entretanto, o processo central da RSE é um ataque autoimune mediado por linfócitos T, sem relação farmacológica direta com o sistema dopaminérgico.
+A encefalite de Rasmussen é uma doença rara, crônica e unilateral, caracterizada por convulsões focais refratárias e atrofia progressiva de um hemisfério cerebral, causada por lesão imunomediada por linfócitos T. A levodopa não tem ação anti-inflamatória, anticonvulsivante ou imunomoduladora conhecida que seja relevante para essa doença.
 
-O efeito da dopamina sobre o limiar epiléptico varia conforme o subtipo de receptor (D1 pró-convulsivante, D2 anticonvulsivante), impossibilitando prever o efeito líquido em pacientes com RSE. A pontuação elevada do TxGNN (0.9906) provavelmente reflete a **proximidade topológica dos nós de doenças do SNC** no grafo de conhecimento — ambas são doenças neurológicas — e não uma relevância farmacológica genuína.
-
----
-
-## Informações de Comercialização no Brasil
-
-Levodopa possui **20 registros ativos** no Brasil com situação **Comercializado**. Os detalhes individuais dos registros (número de registro, nome comercial, forma farmacêutica, indicação aprovada) não estão disponíveis no conjunto de dados atual e precisam ser obtidos via ANVISA.
-
----
+A pontuação elevada do TxGNN provavelmente reflete vizinhos compartilhados no grafo de conhecimento (por exemplo, envolvimento dos gânglios da base, transtornos do movimento ou fenótipos neurológicos sobrepostos), e não uma justificativa terapêutica real. Portanto, o vínculo mecanístico é fraco e não está documentado. Teoricamente, a levodopa poderia até piorar convulsões ou sintomas neuropsiquiátricos, embora isso não seja sustentado pelos dados fornecidos.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações descritas no grafo de conhecimento** (não são texto de bula): doenças que o grafo associa como contraindicação à levodopa incluem:
+  - Neurológicas e psiquiátricas: epilepsia, atrofia de múltiplos sistemas, discinesia induzida por fármacos, transtornos de ansiedade, transtorno neurótico, distimia, transtornos psicóticos, esquizofreniforme e esquizoafetivo, transtorno mental.
+  - Cardiovasculares: hipotensão ortostática, síndrome da taquicardia postural ortostática, infarto do miocárdio, trombose coronariana, parada cardíaca súbita, doença do sistema de condução cardíaco.
+  - Gastrointestinais, hepáticas e renais: úlcera gástrica, doença ulcerosa péptica, doença diarreica, doença hepática, doença da vesícula biliar, doença renal, piureter.
+  - Oculares: glaucoma de ângulo aberto e de ângulo fechado.
+  - Metabólicas e outras: diabetes mellitus, cetoacidose diabética, melanoma, hemoglobinopatia.
 
----
+  Destaca-se a **epilepsia**, por sua relevância direta para a nova indicação, que cursa com convulsões.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; entre as listadas nos dados compilados:
+  - Moderadas: epinefrina, efedrina, bupropiona, metronidazol, piridoxina, ferro, metoclopramida e anticolinérgicos/antiespasmódicos (atropina, hioscimina, metescopolamina, glicopirrônio, clidínio, diciclomina, mepenzolato).
+  - Leves: antiácidos (hidróxido de alumínio, carbonato de cálcio, magaldrato e sais de magnésio).
+
+Advertências principais e contraindicações da bula não estão disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para Levodopa na encefalite de Rasmussen está classificada como nível **L5** — apenas previsão do modelo, sem nenhum ensaio clínico ou publicação de suporte. A ligação mecanística é extremamente fraca: o alto score provavelmente reflete proximidade topológica no grafo de conhecimento de doenças do SNC, e não relevância farmacológica genuína. A relação risco-benefício é incerta e não justifica avanço sem evidências adicionais.
+A previsão se apoia apenas na pontuação do modelo (L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível. Além disso, a levodopa não está comercializada no Brasil segundo os dados compilados, e há contraindicação teórica em epilepsia.
 
 **Para prosseguir, é necessário:**
-- Obter dados detalhados de MOA via DrugBank API (DG002)
-- Download e análise da bula ANVISA em PDF para advertências e contraindicações (DG001)
-- Busca bibliográfica expandida sobre dopamina e neuroinflamação em encefalites autoimunes
-- Identificação de estudos pré-clínicos que sustentem a hipótese mecanística antes de qualquer reavaliação do nível de evidência
-- Levantamento dos 20 registros ANVISA com detalhes de forma farmacêutica e indicação aprovada
+- Dados do mecanismo de ação da levodopa e uma hipótese biológica explícita ligando-a à encefalite de Rasmussen
+- Revisão sistemática da literatura e busca em registros de ensaios clínicos (inclusive ICTRP) sobre levodopa ou agonistas dopaminérgicos nessa doença
+- Bula da ANVISA (advertências e contraindicações), em especial sobre risco de convulsões e sintomas neuropsiquiátricos
+- Verificação da situação regulatória no Brasil, pois os dados compilados indicam 0 registros, o que deve ser confirmado
+- Avaliação pré-clínica ou em modelos antes de qualquer estudo em humanos
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Copper
 parent: Apenas Predição do Modelo (L5)
-nav_order: 201
+nav_order: 242
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,83 +29,89 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-**Análise rápida do Evidence Pack:**
-- **Fármaco:** Cobre (DB09130) — oligoelemento essencial, sem indicação aprovada no Brasil (0 registros ANVISA)
-- **Indicação #1 (foco do relatório):** Esotropia — score TxGNN 96,25%, mas **sem nenhuma evidência** (0 ensaios clínicos, 0 literatura) → Nível L5
-- **Indicação #2 com mais evidências:** Dermatite — 6 ensaios clínicos + 20 publicações (referência secundária)
-- **Segurança:** Todos os campos são [Data Gap]
-- **Citotoxicidade:** Não aplicável (não é antineoplásico)
-
----
-
-# Cobre: De suplemento mineral essencial à esotropia
+# Cobre: Do uso em polivitamínicos com minerais à dermatite
 
 ## Resumo em Uma Frase
 
-Cobre (Copper, DB09130) é um oligoelemento essencial, amplamente reconhecido pelo seu papel em processos enzimáticos fundamentais como a atividade da ceruloplasmina, superóxido dismutase (SOD1) e citocromo-c-oxidase, sendo empregado clinicamente no manejo da deficiência de cobre.
-O modelo TxGNN prevê que pode ser eficaz para **Esotropia (Esotropia)**, condição caracterizada pelo desvio ocular convergente e frequentemente associada a disfunções neuromusculares oculares.
-No entanto, esta previsão **não conta com nenhum ensaio clínico nem publicação** de suporte direto, representando atualmente apenas uma hipótese computacional.
-
----
+Cobre (Copper) foi originalmente registrado no Brasil como componente de um produto polivitamínico com minerais (VITERGAN ZINCO), hoje com registro cancelado.
+O modelo TxGNN prevê, em primeiro lugar, **esotropia (esotropia)**, mas essa previsão não tem nenhuma evidência de apoio. A direção mais bem sustentada é **dermatite (dermatitis)**, com **2 ensaios clínicos** (um retirado e um piloto muito pequeno) e **20 publicações**, em sua maioria revisões sobre oligoelementos.
 
 ## Visão Geral Rápida
 
+A previsão de maior pontuação (esotropia) não possui ensaios nem literatura e é considerada um provável artefato do grafo. Por isso, o relatório detalha também a dermatite (2ª colocada), a indicação com mais evidências disponíveis.
+
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Deficiência de cobre / suplemento mineral essencial (sem indicação aprovada no Brasil) |
-| Nova Indicação Prevista | Esotropia (Esotropia) |
-| Pontuação de Previsão TxGNN | 96,25% |
-| Nível de Evidência | L5 — apenas previsão do modelo, sem estudos reais |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros ANVISA | 0 |
-| Decisão Recomendada | Hold |
-
----
+| Indicação Original | Polivitamínicos com minerais |
+| Nova Indicação Prevista (1ª colocada) | Esotropia (esotropia) |
+| Pontuação de Previsão TxGNN (1ª colocada) | 96,25% |
+| Nível de Evidência (1ª colocada) | L5 |
+| Indicação com mais evidências | Dermatite (dermatitis), pontuação TxGNN de 95,06%, nível L4 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 1 |
+| Decisão Recomendada | Hold (esotropia); dermatite: questão de pesquisa, sem avanço clínico no momento |
 
 ## Por que Esta Previsão é Razoável?
 
-O cobre é um micronutriente essencial que participa como cofator em enzimas críticas para o metabolismo energético, proteção antioxidante e síntese de neurotransmissores. Entre as enzimas cobre-dependentes mais relevantes estão a citocromo-c-oxidase (complexo IV da cadeia respiratória mitocondrial), a superóxido dismutase 1 (SOD1) e a dopamina beta-hidroxilase, esta última envolvida na síntese de norepinefrina. A deficiência de cobre é associada a manifestações neurológicas, incluindo mielopatia, neuropatia periférica e degeneração da medula espinhal — o que fornece uma plausibilidade biológica geral para efeitos do cobre sobre estruturas neuromusculares.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o cobre é um oligoelemento essencial, usado como suplemento mineral em polivitamínicos. Seu uso aprovado refere-se à reposição nutricional, e não ao tratamento de doenças específicas.
 
-A esotropia é uma forma de estrabismo em que o olho desvia medialmente. Sua fisiopatologia envolve desequilíbrio entre os músculos extraoculares, com componentes neurológicos centrais (controle motor ocular no tronco cerebral e cerebelo) e periféricos (junção neuromuscular e integridade muscular). Como o cobre é fundamental para a manutenção de vias mitocondriais nos neurônios motores e para a atividade da SOD1 na proteção contra estresse oxidativo, é plausível — embora especulativo — que alterações nos níveis de cobre possam influenciar a função neuromuscular ocular.
+**Esotropia:** não há relação mecanística identificável entre o cobre e esse distúrbio do alinhamento ocular e da visão binocular. A pontuação alta (96%) parece ser um artefato da previsão baseada em grafo, sem ensaios ou literatura de apoio.
 
-É importante frisar, no entanto, que atualmente não há dados de mecanismo de ação (MOA) disponíveis no DrugBank para este fármaco no Evidence Pack, nem estudos clínicos ou pré-clínicos publicados que investiguem diretamente o cobre no contexto da esotropia. A previsão do TxGNN é gerada exclusivamente por padrões inferidos do grafo de conhecimento biomédico e deve ser interpretada como hipótese a ser investigada, não como evidência de eficácia.
-
----
+**Dermatite:** a relação é biologicamente plausível, mas bidirecional. O cobre é cofator de enzimas como a lisil oxidase e a superóxido dismutase, e a homeostase de cobre e zinco está ligada à barreira cutânea e à inflamação. Trabalho recente aponta o envolvimento da cuproptose na inflamação crônica da pele (PMID 41064128). Por outro lado, a hipersensibilidade ao cobre é causa descrita de dermatite de contato, ou seja, o cobre pode ser tanto gatilho quanto fator ligado à deficiência. A literatura é composta principalmente por revisões sobre oligoelementos (sobretudo zinco), sem dados diretos de eficácia da suplementação de cobre.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para a combinação Cobre + Esotropia.
+Ensaios referentes à dermatite (a esotropia não tem ensaios registrados):
 
----
+| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
+|---------|------|------|------|---------|
+| [NCT06726707](https://clinicaltrials.gov/study/NCT06726707) | Phase 2/3 | Retirado | 0 | Avaliaria produtos absorventes para incontinência com substância à base de cobre na dermatite associada à incontinência em idosos. Foi retirado sem inclusão de participantes, portanto não gerou dados. |
+| [NCT01291628](https://clinicaltrials.gov/study/NCT01291628) | NA | Desconhecido | 10 | Estudo piloto com meias contendo fibras de cobre para prevenir a síndrome mão-pé induzida por capecitabina. Muito pequeno, sem resultados conclusivos. |
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada para a combinação Cobre + Esotropia.
+Seleção das publicações mais relevantes sobre dermatite (revisões e estudos mecanísticos priorizados):
 
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [38612631](https://pubmed.ncbi.nlm.nih.gov/38612631/) | 2024 | Revisão | Int J Mol Sci | Zinco, cobre e ferro em doenças de pele; deficiência ou excesso de oligoelementos pode alterar o risco de doenças cutâneas. |
+| [39102684](https://pubmed.ncbi.nlm.nih.gov/39102684/) | 2024 | Revisão sistemática | JMIR Dermatol | Nutrição, obesidade e dermatite seborreica; dieta e suplementos podem modular a doença. |
+| [38367035](https://pubmed.ncbi.nlm.nih.gov/38367035/) | 2024 | Revisão | Clin Exp Med | Papel do zinco na saúde e na doença (foco em zinco). |
+| [25098945](https://pubmed.ncbi.nlm.nih.gov/25098945/) | 2014 | Revisão | Contact Dermatitis | Hipersensibilidade ao cobre: reações alérgicas são raras apesar da ampla exposição. |
+| [37331278](https://pubmed.ncbi.nlm.nih.gov/37331278/) | 2023 | Revisão | J Trace Elem Med Biol | Metais pesados na dermatite de contato. |
+| [34264859](https://pubmed.ncbi.nlm.nih.gov/34264859/) | 2023 | Revisão | Altern Ther Health Med | Uso terapêutico de oligoelementos em dermatologia. |
+| [41064128](https://pubmed.ncbi.nlm.nih.gov/41064128/) | 2025 | Pré-clínico/mecanístico | MedComm | A cuproptose favorece a inflamação cutânea crônica via via α-cetoglutarato/H3K4me3/FTH1 e ferroptose. |
+| [42565357](https://pubmed.ncbi.nlm.nih.gov/42565357/) | 2026 | Pré-clínico | Pharm Dev Technol | Hidrogel ácido à base de cobre para dermatite atópica, com atividade antimicrobiana em avaliação pré-clínica. |
+| [38520630](https://pubmed.ncbi.nlm.nih.gov/38520630/) | 2024 | Relato de caso | CEN Case Rep | Anemia por deficiência de cobre causada por suplementação de zinco em paciente em hemodiálise. |
+| [14672513](https://pubmed.ncbi.nlm.nih.gov/14672513/) | 2003 | Revisão | Rev Environ Health | Reações de hipersensibilidade ao cobre, imediatas e tardias. |
+
+Para as demais indicações previstas, há pouca ou nenhuma literatura relevante. Para acne queloide, dry eye (olho seco) e doença de Paget óssea, os poucos itens encontrados são indiretos (pesquisas ocupacionais, nanopartículas de cobre-selênio em estudo pré-clínico e biologia estrutural de p97) e não sustentam o uso do cobre.
+
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 101550091 (cancelado) | VITERGAN ZINCO | Não informada | Polivitamínicos com minerais |
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
 
----
+Observação relevante da literatura: a suplementação de zinco em doses habituais pode causar anemia por deficiência de cobre (PMID 38520630), e o cobre pode induzir hipersensibilidade cutânea e dermatite de contato (PMID 25098945).
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A pontuação TxGNN de 96,25% indica que o modelo identificou um sinal no grafo de conhecimento biomédico, mas a completa ausência de evidências clínicas ou pré-clínicas publicadas (nível L5) e a falta de dados de MOA disponíveis tornam prematuro qualquer avanço clínico nesta direção. Além disso, o fármaco não possui registro na ANVISA e não é comercializado no Brasil.
+- A previsão principal (esotropia) é só do modelo (L5), sem mecanismo plausível, e provavelmente é um artefato do grafo. Para dermatite, há plausibilidade biológica (L4), mas as evidências são revisões, estudos pré-clínicos e um ensaio retirado, sem dados clínicos de eficácia. Além disso, o único registro brasileiro está cancelado.
 
 **Para prosseguir, é necessário:**
-- Recuperar e analisar o mecanismo de ação do cobre via DrugBank API (Data Gap DG002)
-- Realizar revisão bibliográfica aprofundada sobre deficiência de cobre e manifestações oftalmológicas / neuromusculares oculares
-- Verificar se há literatura sobre cuproenzimas (SOD1, citocromo-c-oxidase) e função dos músculos extraoculares
-- Conduzir estudos pré-clínicos para investigar a relação entre metabolismo do cobre e controle motor ocular
-- Avaliar se a previsão pode ser um artefato do modelo (associação indireta via conectividade no grafo)
-- Obter registro junto à ANVISA antes de qualquer uso clínico no Brasil
-
-> ⚠️ **Aviso:** Este relatório destina-se exclusivamente a fins de pesquisa. As previsões do TxGNN não constituem aconselhamento médico e requerem validação clínica antes de qualquer aplicação.
+- Obter e analisar a bula na ANVISA, para advertências e contraindicações, hoje indisponíveis.
+- Complementar os dados de mecanismo de ação (DrugBank).
+- Definir qual forma química do cobre e qual via de administração seriam adequadas (tópica, dispositivo ou oral), pois a compatibilidade de via ainda não foi avaliada.
+- Realizar ensaios clínicos controlados em dermatite, com atenção ao risco de hipersensibilidade ao cobre.
+- Reavaliar a previsão de esotropia somente se surgir justificativa mecanística independente.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

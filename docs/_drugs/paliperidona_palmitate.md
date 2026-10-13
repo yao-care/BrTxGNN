@@ -2,7 +2,7 @@
 layout: default
 title: Paliperidona Palmitate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 385
+nav_order: 507
 evidence_level: L5
 indication_count: 0
 ---

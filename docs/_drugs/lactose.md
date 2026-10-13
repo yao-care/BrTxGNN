@@ -2,7 +2,7 @@
 layout: default
 title: Lactose
 parent: Apenas Predição do Modelo (L5)
-nav_order: 296
+nav_order: 386
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,81 +29,50 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Analisando o Evidence Pack: Lactose (DB04465) é um excipiente farmacêutico inativo, e todas as previsões TxGNN têm scoring L5 ou L4 com recomendação Hold. Vou estruturar o relatório focado na indicação #1 com transparência sobre os artefatos do modelo.
-
----
-
-# Lactose: De Excipiente Farmacêutico às Varizes Esofágicas com Sangramento
+# Lactose: Da intolerância à lactose ao sangramento de varizes esofágicas
 
 ## Resumo em Uma Frase
 
-Lactose (DB04465) é um dissacarídeo amplamente utilizado como **excipiente inativo** em formulações farmacêuticas, sem indicação terapêutica própria reconhecida. O modelo TxGNN prevê que pode ser eficaz para **Varizes Esofágicas com Sangramento (Esophageal Varices with Bleeding)**, com pontuação de 99,93%; contudo, **nenhum ensaio clínico ou publicação diretamente relevante** apoia esta associação — o único ensaio identificado avalia Tenofovir Disoproxil como agente ativo, não lactose. A previsão é interpretada como artefato de co-ocorrência no grafo de conhecimento.
-
----
+A lactose é um dissacarídeo usado como açúcar alimentar e excipiente farmacêutico, associado originalmente à intolerância à lactose.
+O modelo TxGNN prevê que possa ser eficaz para **varizes esofágicas com sangramento (esophageal varices with bleeding)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se de um sinal puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Excipiente farmacêutico (sem indicação terapêutica aprovada) |
-| Nova Indicação Prevista | Varizes Esofágicas com Sangramento (Esophageal Varices with Bleeding) |
+|------|------|
+| Indicação Original | Intolerância à lactose |
+| Nova Indicação Prevista | Varizes esofágicas com sangramento (esophageal varices with bleeding) |
 | Pontuação de Previsão TxGNN | 99,93% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 3 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Lactose é um dissacarídeo composto por galactose e glicose, sem atividade farmacológica intrínseca documentada. Na indústria farmacêutica, sua função é exclusivamente tecnológica: atua como diluente, agente de preenchimento e veículo em comprimidos, cápsulas e pós para inalação. Não possui mecanismo de ação terapêutico identificado para nenhuma condição patológica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a lactose é um dissacarídeo de uso alimentar e excipiente em medicamentos. Não foi identificado um vínculo mecanístico plausível com as varizes esofágicas.
 
-A alta pontuação TxGNN (99,93%) para varizes esofágicas com sangramento é quase certamente um **artefato de viés de co-ocorrência no grafo de conhecimento**: por ser excipiente onipresente em dezenas de formulações de antivirais, hepatoprotetores e outros fármacos usados em doenças hepáticas (incluindo Tenofovir Disoproxil), a lactose aparece frequentemente associada a registros de estudos nessa área — sem ser o agente terapêutico ativo. O modelo interpreta essa co-ocorrência como sinal preditivo, mas ela não reflete causalidade farmacológica.
+A pontuação alta do modelo provavelmente reflete uma confusão com açúcares estruturalmente semelhantes. A lactulose, outro dissacarídeo sintético, é usada na encefalopatia hepática e em contextos de sangramento varicoso. A previsão, portanto, parece ser um artefato do grafo de conhecimento, e não uma hipótese biológica sustentada.
 
-Do ponto de vista mecanístico, não há base científica para atribuir à lactose qualquer efeito sobre hipertensão portal, vasoconstrição esplâncnica, hemostasia ou remodelagem vascular — mecanismos centrais no manejo de varizes esofágicas. Esta previsão não constitui oportunidade genuína de reposicionamento.
-
----
-
-## Evidências de Ensaios Clínicos
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|------------------|------|--------|---------------|--------------------|
-| [NCT02224456](https://clinicaltrials.gov/study/NCT02224456) | Phase 4 | Concluído | 197 | Estudo multicêntrico prospectivo de Tenofovir Disoproxil Fumarate (TDF) em hepatite B crônica com fibrose avançada e cirrose compensada, avaliando efeito de longo prazo na progressão hepática e risco de CHC. Lactose, se presente, é excipiente da formulação — sem dados de eficácia própria para varizes esofágicas. |
-
-> ⚠️ **Nota de relevância (Grau C):** O ensaio NCT02224456 avalia **Tenofovir Disoproxil** como agente terapêutico ativo. A associação com lactose decorre de mapeamento de dados no pipeline de evidências — não representa evidência de eficácia de lactose para esta indicação.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada que avalie lactose como agente terapêutico para varizes esofágicas com sangramento.
-
----
-
-## Informações de Comercialização no Brasil
-
-Foram identificados **3 registros** na base regulatória brasileira para Lactose (DB04465). Os dados detalhados de número de registro, nome comercial, forma farmacêutica e indicação aprovada não estão disponíveis nesta consulta. A lactose é tipicamente registrada na condição de ingrediente inativo/excipiente, e não como produto terapêutico independente.
-
----
+A previsão para varizes esofágicas sem sangramento tem pontuação idêntica, o que reforça a suspeita de artefato. As demais previsões de maior pontuação (varizes em geral, síndrome de Steel, cistinose, hipofosfatasia, entre outras) também não têm vínculo mecanístico identificado, nem ensaios ou literatura de apoio.
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
-
----
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Lactose é um excipiente farmacêutico inativo, sem mecanismo de ação terapêutico nem histórico de uso como fármaco. A pontuação TxGNN de 99,93% reflete, com alta probabilidade, um viés sistemático de co-ocorrência no grafo de conhecimento, e não evidência de eficácia clínica. Nenhum ensaio ou publicação diretamente relevante suporta o reposicionamento de lactose para varizes esofágicas com sangramento — ou para qualquer uma das outras 9 indicações previstas (todas com recomendação Hold ou "Research Question" apenas para cystinosis em nível L4 pré-clínico muito indireto).
+- A previsão está no nível L5 (apenas modelo), sem ensaios clínicos, sem literatura e sem mecanismo plausível. O fármaco não tem registro no Brasil, e os dados de segurança da bula não estão disponíveis.
 
 **Para prosseguir, é necessário:**
-- **Ação estrutural no pipeline:** Avaliar a inclusão de um filtro de exclusão de excipientes farmacêuticos conhecidos (lactose, celulose microcristalina, estearato de magnésio, etc.) antes da etapa de predição TxGNN, para reduzir ruído de artefatos de co-ocorrência
-- **Auditoria do grafo de conhecimento:** Investigar como e por que lactose recebeu arestas de associação com doenças hepáticas no KG, para calibrar o modelo
-- **Sem necessidade de follow-up clínico** para esta previsão específica
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
+- Esclarecer o mecanismo de ação a partir do DrugBank
+- Verificar se a previsão não resulta de confusão com a lactulose ou de artefato do grafo de conhecimento
+- Identificar estudos pré-clínicos ou observacionais que sustentem alguma relação com a hipertensão portal ou varizes antes de reconsiderar a decisão
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

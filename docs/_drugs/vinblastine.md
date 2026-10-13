@@ -2,15 +2,15 @@
 layout: default
 title: Vinblastine
 parent: Evidência Moderada (L3-L4)
-nav_order: 505
-evidence_level: L4
+nav_order: 670
+evidence_level: L3
 indication_count: 10
 ---
 
 # Vinblastine
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L3** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,97 +29,91 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
----
-
-# Vinblastine: Do Linfoma de Hodgkin ao Rabdomiossarcoma
+# Vimblastina: De antineoplásico geral a rabdomiossarcoma
 
 ## Resumo em Uma Frase
 
-Vinblastine é um alcaloide da vinca citotóxico historicamente utilizado no tratamento do linfoma de Hodgkin, câncer testicular e outros tumores sólidos.
-O modelo TxGNN prevê que pode ser eficaz para **Rabdomiossarcoma (Rhabdomyosarcoma)**, com pontuação de predição de **99,86%**, atualmente com **0 ensaios clínicos registrados** e **15 publicações** apoiando esta direção.
-
----
+Vimblastina (Vinblastine) é um alcaloide da vinca, registrado no Brasil como antineoplásico.
+O modelo TxGNN prevê que pode ser eficaz para **Rabdomiossarcoma (Rhabdomyosarcoma)**,
+atualmente sem ensaios clínicos registrados e com **7 publicações** associadas a esta direção, em sua maioria relatos de caso e estudos pré-clínicos.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Linfoma de Hodgkin e outros tumores sólidos (uso histórico; sem registro ANVISA disponível) |
+| Indicação Original | Antineoplásico |
 | Nova Indicação Prevista | Rabdomiossarcoma (Rhabdomyosarcoma) |
 | Pontuação de Previsão TxGNN | 99,86% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não registrado no Brasil |
-| Número de Registros ANVISA | 0 |
+| Nível de Evidência | L3 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 3 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados formais do mecanismo de ação disponíveis neste Evidence Pack. Com base no conhecimento farmacológico estabelecido, Vinblastine é um alcaloide da vinca derivado de *Catharanthus roseus* que age se ligando à β-tubulina, inibindo a polimerização dos microtúbulos do fuso mitótico. Esse bloqueio na fase M do ciclo celular impede a separação cromossômica e desencadeia apoptose em células de alta taxa proliferativa — o fundamento central do seu uso oncológico.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada para este relatório. Segundo informações conhecidas, a vimblastina é um alcaloide da vinca que se liga à tubulina e inibe a polimerização dos microtúbulos, causando parada mitótica em células de divisão rápida.
 
-O rabdomiossarcoma (RMS) é o sarcoma de partes moles mais frequente na infância e adolescência, originado de células precursoras do músculo esquelético com intensa atividade mitótica. Por essa característica, células de RMS são intrinsecamente suscetíveis a agentes que desestabilizam o fuso mitótico. A plausibilidade da previsão é reforçada por um dado clínico de peso: vincristine — outro alcaloide da vinca da mesma classe farmacológica, com idêntico sítio de ligação na tubulina — integra o protocolo padrão de primeira linha do RMS (esquema VAC: vincristine + actinomicina-D + ciclofosfamida). Vinblastine e vincristine diferem principalmente no perfil de toxicidade e seletividade tecidual, não no mecanismo.
+O rabdomiossarcoma é um sarcoma pediátrico altamente proliferativo, o que torna plausível a ação de um agente antimitótico. Alcaloides da vinca (principalmente a vincristina) já fazem parte dos esquemas padrão para essa doença, de modo que a novidade do reposicionamento específico da vimblastina é limitada.
 
-A evidência mais direta para vinblastine em RMS vem de relatos de caso históricos de 1987: esquemas contendo cisplatina + vinblastine obtiveram resposta tumoral em RMS prostático refratário em crianças. Paralelamente, vinorelbine — análogo semissintético do vinblastine desenvolvido para melhor tolerabilidade — demonstrou em estudos de Phase 2 (2004–2012) atividade documentada em RMS pediátrico recorrente, e estudos pré-clínicos com xenoenxertos de RMS humano confirmaram sensibilidade intrínseca diferencial aos alcaloides da vinca dependente de fatores como acumulação intratumoral e dinâmica do GTP-tubulina.
-
----
+A literatura inclui um esquema metronômico pediátrico com vários fármacos (2011), um estudo de letalidade sintética entre inibidores de PLK1 e fármacos desestabilizadores de microtúbulos (2015) e relatos de caso. A contribuição isolada da vimblastina nas combinações descritas não pode ser separada.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos de Vinblastine especificamente em rabdomiossarcoma registrados.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [22633624](https://pubmed.ncbi.nlm.nih.gov/22633624/) | 2012 | Phase 2 Trial | Eur J Cancer | Vinorelbine + ciclofosfamida oral em crianças e jovens com tumores sólidos recorrentes ou refratários; boa tolerância e eficácia documentada especificamente em RMS |
-| [22156656](https://pubmed.ncbi.nlm.nih.gov/22156656/) | 2011 | Pilot Study | Oncotarget | Esquema metrônomico pediátrico com 4 fármacos em tumores resistentes, incluindo RMS; valida a abordagem de alcaloide da vinca em baixa dose contínua |
-| [15378498](https://pubmed.ncbi.nlm.nih.gov/15378498/) | 2004 | Pilot / Phase 2 | Cancer | Vinorelbine + ciclofosfamida oral de baixa dose em sarcomas pediátricos refratários/recorrentes; estudo-piloto base para o protocolo europeu de manutenção em RMS |
-| [38050209](https://pubmed.ncbi.nlm.nih.gov/38050209/) | 2023 | Case Report | Medicine | RMS perianal em adulta jovem: após progressão com epirrubicina/ifosfamida/bevacizumabe, esquema nivolumabe + dacarbazina + cisplatina + **vinblastine** resultou em resposta parcial |
-| [2451411](https://pubmed.ncbi.nlm.nih.gov/2451411/) | 1987 | Case Report / Review | Hinyokika kiyo | RMS prostático refratário em criança de 3 anos: resposta rápida da massa pélvica ao esquema cisplatina + **vinblastine** + peplomicina (PVP) após recidiva pós-operatória |
-| [3329524](https://pubmed.ncbi.nlm.nih.gov/3329524/) | 1987 | Mechanistic Study | Anti-Cancer Drug Design | Seletividade terapêutica de vincristine vs. vinblastine em xenoenxertos de RMS humano em camundongos; acumulação intratumoral diferencial explica eficácia distinta entre os dois alcaloides |
-| [26024389](https://pubmed.ncbi.nlm.nih.gov/26024389/) | 2015 | Mechanistic / In Vitro | Cell Death Differ | Letalidade sintética entre inibidores de PLK1 e fármacos desestabilizadores de microtúbulos (incluindo **vinblastine**) em modelos pré-clínicos de RMS; sinergia pró-apoptótica quantificada |
-| [6692363](https://pubmed.ncbi.nlm.nih.gov/6692363/) | 1984 | Preclinical | Cancer Res | Determinantes de sensibilidade intrínseca a alcaloides da vinca em 3 linhagens de xenoenxerto de RMS pediátrico; linhagem Rh28 demonstrou alta responsividade específica ao **vinblastine** |
-| [12115359](https://pubmed.ncbi.nlm.nih.gov/12115359/) | 2002 | Clinical Study | Cancer | Vinorelbine em sarcomas pediátricos previamente tratados; evidência de atividade específica em RMS, fornecendo base clínica para investigação de alcaloides da vinca nessa indicação |
-| [41216926](https://pubmed.ncbi.nlm.nih.gov/41216926/) | 2026 | Prospective Trial | Pediatr Blood Cancer | Resultados dos ensaios CWS-96 e CWS-2002P para sarcomas de partes moles não-RMS em crianças e adolescentes; nova estratificação de risco e avaliação de diferentes regimes quimioterápicos |
+| [41216926](https://pubmed.ncbi.nlm.nih.gov/41216926/) | 2026 | Coorte | Pediatric Blood & Cancer | Ensaios CWS-96 e CWS-2002P em sarcomas de partes moles não rabdomiossarcoma em crianças e adolescentes (relevância indireta) |
+| [22156656](https://pubmed.ncbi.nlm.nih.gov/22156656/) | 2011 | Estudo piloto | Oncotarget | Regime metronômico pediátrico com 4 fármacos |
+| [38050209](https://pubmed.ncbi.nlm.nih.gov/38050209/) | 2023 | Relato de caso/Revisão | Medicine | Rabdomiossarcoma perianal em adulta; resposta parcial após nivolumabe, dacarbazina, cisplatina e vimblastina, seguida de ressecção cirúrgica |
+| [26024389](https://pubmed.ncbi.nlm.nih.gov/26024389/) | 2015 | Pré-clínico | Cell Death & Differentiation | Letalidade sintética entre inibidores de PLK1 e fármacos desestabilizadores de microtúbulos em modelos de rabdomiossarcoma |
+| [3329524](https://pubmed.ncbi.nlm.nih.gov/3329524/) | 1987 | Pré-clínico/Mecanístico | Anti-Cancer Drug Design | Seletividade terapêutica dos alcaloides da vinca em xenoenxertos de rabdomiossarcoma humano em camundongos |
+| [2451411](https://pubmed.ncbi.nlm.nih.gov/2451411/) | 1987 | Relato de caso/Revisão | Hinyokika Kiyo | Rabdomiossarcoma prostático refratário em criança, com redução rápida da massa pélvica após cisplatina, vimblastina e peplomicina |
+| [14328283](https://pubmed.ncbi.nlm.nih.gov/14328283/) | 1965 | Revisão (histórica) | Br J Clin Pract | Revisão histórica da quimioterapia de tumores em crianças |
 
----
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 115410006 (cancelado) | VINATIN | Não informada | Antineoplásico |
+| Registro nº 155620015 (cancelado) | VELBAN | Não informada | Antineoplásico |
+| Registro nº 100330130 (cancelado) | FAULBLASTINA | Não informada | Antineoplásico |
 
 ## Citotoxicidade
 
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Citotóxico convencional — Alcaloide da vinca (inibidor da polimerização de microtúbulos) |
-| Risco de Mielossupressão | **Alto** — Neutropenia e leucopenia são os efeitos adversos dose-limitantes mais frequentes; requer monitoramento hematológico rigoroso antes de cada ciclo |
-| Classificação de Emetogenicidade | Baixa a moderada |
-| Itens de Monitoramento | Hemograma completo com diferencial (pré-ciclo), avaliação de neuropatia periférica, função hepática (metabolismo via CYP3A4), sinais de constipação grave e íleo paralítico |
-| Proteção no Manuseio | Obrigatório seguir regulamentação para citotóxicos: EPI completo (luvas duplas, avental impermeável, máscara), câmara de segurança biológica e descarte conforme regulamentação ANVISA vigente |
-
----
+| Classificação de Citotoxicidade | Citotóxico convencional (alcaloide da vinca, inibidor de microtúbulos) |
+| Risco de Mielossupressão | Alto (neutropenia é a toxicidade limitante de dose conhecida da classe; o grafo de conhecimento também associa o fármaco a neutropenia, trombocitopenia e agranulocitose) |
+| Classificação de Emetogenicidade | Baixa a média |
+| Itens de Monitoramento | Hemograma completo com diferencial, função hepática e renal, avaliação neurológica periférica |
+| Proteção no Manuseio | Necessário seguir os regulamentos de manuseio de citotóxicos; consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança. Não há dados de advertências, contraindicações ou interações medicamentosas disponíveis neste Evidence Pack.
+- **Contraindicações sinalizadas pelo grafo de conhecimento (não provenientes de bula)**: insuficiência hepática, trombocitopenia, neutropenia, agranulocitose, neuropatia periférica e doenças do sistema nervoso periférico, hiperbilirrubinemia (incluindo síndrome de Gilbert), doença pulmonar, isquemia miocárdica e doença arterial coronariana, doenças infecciosas (incluindo infecções fúngicas e dermatofitose), além de transtornos de ansiedade e distímico.
+- **Interações medicamentosas** (100 interações registradas; principais):
+  - **Maior**: claritromicina.
+  - **Moderada**: aprepitanto, dexametasona, metronidazol, eliglustate, miconazol, rolapitanto, rosuvastatina, sinvastatina, tinidazol, fenilbutirato de glicerol e troglitazona.
+  - **Menor**: levofloxacino.
+- **Alerta da literatura**: relato de íleo grave com infusão de cisplatina e vimblastina em neuroblastoma (1988).
 
----
+As advertências e contraindicações da bula aprovada pela ANVISA não estavam disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN tem plausibilidade biológica fundamentada na classe farmacológica (alcaloide da vinca / inibição de microtúbulos), e a literatura documenta desde 1987 o uso de vinblastine em esquemas combinados para RMS refratário. No entanto, as evidências disponíveis limitam-se a relatos de caso históricos e estudos mecanísticos pré-clínicos (Nível L4), sem nenhum ensaio clínico prospectivo específico para vinblastine em RMS; adicionalmente, o fármaco não possui qualquer registro junto à ANVISA.
+- A evidência é de nível L3, composta por relatos de caso, estudos pré-clínicos e um estudo piloto de combinação, sem ensaios registrados. A vincristina já ocupa o lugar dos alcaloides da vinca nos esquemas padrão de rabdomiossarcoma. Os três registros brasileiros estão cancelados, e faltam dados de segurança da bula, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Registrar o fármaco junto à ANVISA ou avaliar viabilidade de importação para pesquisa clínica / uso compassional
-- Obter dados formais de MOA e segurança completa (advertências, contraindicações, interações) via DrugBank e bula de referência
-- Comparar o perfil de segurança do vinblastine com o vincristine (padrão do protocolo VAC) para avaliar se há vantagem clínica diferencial — particularmente em termos de neurotoxicidade
-- Investigar se subgrupos de RMS pediátrico refratário ao protocolo VAC podem se beneficiar da substituição ou adição do vinblastine
-- Considerar proposta de pergunta de pesquisa formal: estudo de Phase 1/2 avaliando vinblastine em combinação com agentes modernos (ex.: inibidores de checkpoint ou mTOR) em RMS refratário pediátrico
-
-> ⚠️ **Nota:** A análise acima considera apenas a indicação de rank 1 (rabdomiossarcoma geral). O Evidence Pack contém a indicação de rank 9 — **neuroblastoma** — com nível de evidência L2 (1 ensaio de Phase 2 concluído + 20 publicações) e recomendação **Proceed with Guardrails**, que merece avaliação em relatório separado.
+- Obter a bula da ANVISA (advertências e contraindicações) e os dados do mecanismo de ação.
+- Realizar revisão sistemática comparando vimblastina com vincristina em rabdomiossarcoma.
+- Avaliar se há interesse regulatório, já que não há registro válido no Brasil e não há formas farmacêuticas informadas.
+- Definir plano de monitoramento hematológico, hepático e neurológico para populações pediátricas.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Beclomethasone Dipropionate
-parent: Evidência Alta (L1-L2)
-nav_order: 99
-evidence_level: L2
+parent: Evidência Moderada (L3-L4)
+nav_order: 110
+evidence_level: L3
 indication_count: 1
 ---
 
 # Beclomethasone Dipropionate
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **1** 
+Nível de evidência: **L3** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,88 @@ Nível de evidência: **L2** | Indicações previstas: **1**
 
 </div>
 
-# Beclometasona Dipropionato: Da asma e rinite alérgica ao eczema atópico
+# Dipropionato de Beclometasona: De antiasmático e corticosteroide tópico para eczema atópico
 
 ## Resumo em Uma Frase
 
-Beclometasona Dipropionato (BDP) é um glicocorticoide sintético amplamente utilizado no tratamento de asma brônquica e rinite alérgica, principalmente por via inalatória e intranasal. O modelo TxGNN prevê que pode ser eficaz para **Eczema Atópico (Atopic Eczema)**, contando atualmente com **0 ensaios clínicos registrados** e **18 publicações** apoiando esta direção — incluindo um ensaio clínico randomizado controlado com resultado positivo.
-
----
+O dipropionato de beclometasona é um corticosteroide (glicocorticoide) originalmente usado como antiasmático e corticosteroide tópico.
+O modelo TxGNN prevê que pode ser eficaz para **eczema atópico (atopic eczema)**,
+atualmente com **0 ensaios clínicos** e **9 publicações** relacionadas, em sua maioria de evidência indireta ou de segurança.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Asma brônquica e rinite alérgica (uso inalatório/intranasal) |
-| Nova Indicação Prevista | Eczema Atópico (Atopic Eczema) |
+|------|------|
+| Indicação Original | Antiasmáticos |
+| Nova Indicação Prevista | Eczema atópico (atopic eczema) |
 | Pontuação de Previsão TxGNN | 99,41% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Nível de Evidência | L3 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 13 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-O BDP é um glicocorticoide sintético de alta potência. Seu mecanismo de ação central consiste na ligação ao receptor intracelular de glicocorticoides (GR-α), que suprime o fator de transcrição NF-κB e reduz a expressão de citocinas pró-inflamatórias do eixo Th2 — incluindo IL-4, IL-13, IL-31 e TSLP. Em paralelo, inibe a degranulação de mastócitos e a infiltração tecidual de eosinófilos. Esses efeitos correspondem diretamente aos alvos patológicos do eczema atópico, que é uma doença inflamatória crônica da pele mediada exatamente pelo mesmo eixo Th2.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o dipropionato de beclometasona é um agonista do receptor de glicocorticoides, com efeitos anti-inflamatórios e imunossupressores. Sua eficácia em asma e em usos de corticosteroide tópico está estabelecida.
 
-O eczema atópico e as indicações originais do BDP (asma, rinite alérgica) pertencem ao mesmo espectro de doenças atópicas IgE-mediadas, compartilhando inflamação Th2, ativação de mastócitos e infiltração eosinofílica como denominadores comuns. Não por acaso, os corticosteroides tópicos já são reconhecidos como tratamento de primeira linha para o eczema como classe farmacológica — e a previsão do TxGNN identifica o BDP especificamente dentro dessa classe, com excelente plausibilidade biológica.
+A dermatite atópica é impulsionada por vias inflamatórias que os corticosteroides suprimem: citocinas pró-inflamatórias e atividade de linfócitos T e eosinófilos. Além disso, as indicações originais do fármaco já incluem o uso como corticosteroide tópico. Por isso, a pontuação alta (0,994) é coerente com a farmacologia conhecida, e a indicação se descreve melhor como uma extensão de formulação ou via dentro da classe dos corticosteroides do que como reposicionamento inovador.
 
-A literatura publicada reforça esse raciocínio de forma concreta: um RCT duplo-cego controlado por placebo de 1984 (PMID 6434024) demonstrou melhora significativa com BDP oral e nasal em crianças com eczema atópico grave; estudos clínicos subsequentes utilizaram BDP oral e tópico em dermatite atópica refratária na infância; e estudos comparativos em modelos animais posicionam o BDP como referência de eficácia anti-inflamatória local nessa indicação.
-
----
+Há uma ressalva mecanística: um estudo in vitro (PMID 8765824) relatou aumento da produção espontânea de IgE com corticosteroides tópicos em pacientes com dermatite atópica.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [6434024](https://pubmed.ncbi.nlm.nih.gov/6434024/) | 1984 | RCT | British Medical Journal | RCT duplo-cego cruzado em 26 crianças com eczema atópico grave: BDP oral + nasal por 4 semanas produziu melhora significativa vs. placebo; cortisol urinário levemente reduzido |
-| [1476023](https://pubmed.ncbi.nlm.nih.gov/1476023/) | 1992 | Série de Casos Clínicos | Acta Derm Venereol Suppl | BDP oral controlou dermatite atópica grave em 10/14 crianças (dose média 1.000 µg/dia); monitoramento de crescimento linear e função adrenal durante o tratamento |
-| [30911861](https://pubmed.ncbi.nlm.nih.gov/30911861/) | 2019 | Estudo de Formulação | AAPS PharmSciTech | Desenvolvimento de micelas mistas de BDP para entrega dérmica em modelo animal de dermatite subcrônica; demonstra viabilidade de formulação tópica otimizada |
-| [14522624](https://pubmed.ncbi.nlm.nih.gov/14522624/) | 2003 | Estudo Clínico Intervencionista | J Dermatol Treat | Terapia de curativo úmido oclusivo com corticoide em 8 crianças com eczema atópico; avaliação de efeitos no crescimento e turnover ósseo ao longo de 2 semanas |
-| [19874229](https://pubmed.ncbi.nlm.nih.gov/19874229/) | 2009 | Estudo Experimental | Immunopharmacol Immunotoxicol | Comparação entre mometasona e BDP em modelo murino de dermatite atópica; MF apresentou maior potência anti-inflamatória local com menores efeitos sistêmicos que BDP |
-| [9463794](https://pubmed.ncbi.nlm.nih.gov/9463794/) | 1998 | Revisão | Drugs | Revisão de mometasona (análogo sintético do BDP); BDP utilizado como comparador ativo em ensaios de dermatite atópica, consolidando a classe na indicação |
-| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Revisão | Neuroimmunomodulation | Corticosteroides intranasais (incluindo BDP) podem causar supressão do eixo HPA em pacientes com rinite + asma + dermatite atópica em tratamento combinado |
-| [11488426](https://pubmed.ncbi.nlm.nih.gov/11488426/) | 2001 | Revisão | Jpn J Pharmacol | Revisão abrangente sobre fármacos para doenças alérgicas; BDP citado como referência entre os glicocorticoides para asma e doenças atópicas relacionadas |
-| [14616123](https://pubmed.ncbi.nlm.nih.gov/14616123/) | 2003 | Revisão | Allergy | Investigação de alergia a corticosteroides em pacientes asmáticos; BDP identificado como potencial alérgeno de contato em formulações tópicas — relevante para monitoramento de segurança |
-| [37023229](https://pubmed.ncbi.nlm.nih.gov/37023229/) | 2023 | Computacional / Grafo de Conhecimento | J Chem Inf Model | Estudo de reposicionamento por grafos de conhecimento (DrugRep-KG); valida metodologicamente abordagens de KG para identificação de novas indicações, como a realizada pelo TxGNN |
-
----
+|------|-----|------|------|---------|
+| [1476023](https://pubmed.ncbi.nlm.nih.gov/1476023/) | 1992 | Estudo clínico | Acta Derm Venereol Suppl | Beclometasona oral em crianças com dermatite atópica grave: controle estável em 10/14 pacientes (dose média de 1000 µg/dia), mas com sinais de desaceleração do crescimento linear e efeitos na função adrenal |
+| [14522624](https://pubmed.ncbi.nlm.nih.gov/14522624/) | 2003 | Estudo clínico | J Dermatolog Treat | Curativos oclusivos com esteroide ("wet-wrap") em 8 crianças pré-púberes com eczema atópico: avaliação de crescimento de curto prazo e renovação óssea (foco em segurança) |
+| [374799](https://pubmed.ncbi.nlm.nih.gov/374799/) | 1979 | Estudo clínico comparativo | Nihon Hifuka Gakkai Zasshi | Efeitos sistêmicos da beclometasona tópica em comparação com betametasona valerato e fluocinonida (foco em segurança; sem resumo disponível) |
+| [8765824](https://pubmed.ncbi.nlm.nih.gov/8765824/) | 1996 | In vitro / mecanístico | J Allergy Clin Immunol | Esteroides tópicos aumentaram a produção espontânea de IgE in vitro em pacientes com dermatite atópica |
+| [30911861](https://pubmed.ncbi.nlm.nih.gov/30911861/) | 2019 | Pré-clínico (formulação) | AAPS PharmSciTech | Micelas de dipropionato de beclometasona em hidrogel avaliadas em modelo animal de dermatite subcrônica |
+| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Revisão | Neuroimmunomodulation | Corticosteroides intranasais e supressão adrenal (evidência indireta de segurança) |
+| [14616123](https://pubmed.ncbi.nlm.nih.gov/14616123/) | 2003 | Revisão/relato clínico | Allergy | Alergia a corticosteroides em pacientes com asma (indireto) |
+| [11488426](https://pubmed.ncbi.nlm.nih.gov/11488426/) | 2001 | Revisão | Jpn J Pharmacol | Fármacos para doenças alérgicas; glicocorticoides inalatórios como beclometasona têm eficácia estabelecida na asma (indireto) |
+| [7813169](https://pubmed.ncbi.nlm.nih.gov/7813169/) | 1994 | Revisão | Clin Ter | Tratamento de alergias na gravidez (indireto) |
 
 ## Informações de Comercialização no Brasil
 
-Não foram encontrados registros de Beclometasona Dipropionato na base regulatória consultada (0 registros ativos).
+Todos os 13 registros encontrados estão cancelados; não há registro válido atualmente. Principais registros:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 110130294 | Dipropionato de Beclometasona | – | Antiasmáticos |
+| Registro nº 100580104 | Alerfin | – | Corticosteroides tópicos |
+| Registro nº 100580009 | Clenil | – | Antiasmáticos |
+| Registro nº 101070188 | Beclosol | – | Glicocorticoides tópicos simples, exceto uso oftálmico |
+| Registro nº 100580120 | Trimbow | – | Outros produtos para o aparelho respiratório |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: doença hepática, doença da vesícula biliar, sarampo, ceratite por herpes simples, insuficiência adrenocortical, doença de Addison, infecção por varicela-zóster, doenças fúngicas, dermatofitose, hipertensão ocular, glaucoma, infecções parasitárias, doenças infecciosas em geral, doenças micobacterianas e hanseníase, além de doenças das vias respiratórias inferiores e superiores, dos seios paranasais e da cavidade nasal.
+- **Interações medicamentosas**: foram identificadas 49 interações. Entre as principais:
+  - **Grave**: desmopressina.
+  - **Moderada**: acetazolamida, foscarnet, furosemida, hidroclorotiazida e outros diuréticos tiazídicos (bendroflumetiazida, benztiazida, clortalidona, clorotiazida), bumetanida, anfotericina B (e formulações lipídicas), capreomicina e cisplatina.
+  - **Leve**: formoterol, salbutamol e arformoterol.
+- **Sinais de segurança na literatura**: supressão do eixo hipotálamo-hipófise-adrenal, desaceleração do crescimento e efeitos na renovação óssea em crianças, e possível aumento da produção de IgE.
 
----
+As advertências e contraindicações da bula brasileira não estavam disponíveis nos dados compilados; consulte a bula para informações completas.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Existe um RCT publicado com resultado positivo e múltiplos estudos clínicos que demonstram eficácia do BDP em eczema atópico, com mecanismo de ação diretamente alinhado à fisiopatologia da doença. A pontuação TxGNN de 99,41% é consistente com esse suporte de literatura. Contudo, a ausência de ensaios clínicos registrados contemporâneos, a falta de registro regulatório no Brasil e a ausência de dados formais de segurança da bula impõem a necessidade de salvaguardas antes de qualquer avanço.
+- Não há ensaios clínicos registrados e a literatura é majoritariamente indireta ou voltada à segurança. A indicação é uma extensão dentro da classe dos corticosteroides, e não reposicionamento inovador. Além disso, todos os 13 registros no Brasil estão cancelados e faltam dados de bula, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Confirmar situação regulatória na ANVISA — verificar se há registros ativos não capturados na base consultada (ex.: Clenil, Becotide, Qvar)
-- Obter dados completos de segurança da bula (advertências, contraindicações, interações), preferencialmente via ANVISA ou FDA
-- Definir a via de administração e formulação adequadas para eczema atópico (tópica, oral ou combinada) com as respectivas faixas de dose
-- Protocolo de monitoramento do eixo hipotálamo-hipófise-adrenal (HPA), especialmente em uso pediátrico ou prolongado
-- Consideração de novos ensaios clínicos prospectivos com formulações tópicas modernas de BDP para validação da indicação em populações brasileiras
+- Obter e analisar a bula na ANVISA (advertências e contraindicações).
+- Complementar os dados do mecanismo de ação (DrugBank).
+- Esclarecer a situação regulatória: motivos dos cancelamentos e disponibilidade atual de formulações tópicas ou outras no mercado.
+- Buscar ensaios controlados que comparem a beclometasona com corticosteroides tópicos já estabelecidos no eczema atópico.
+- Avaliar o risco em crianças (supressão adrenal, crescimento) e a ressalva sobre a produção de IgE.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

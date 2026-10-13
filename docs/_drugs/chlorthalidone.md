@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Chlorthalidone
-parent: Evidência Moderada (L3-L4)
-nav_order: 185
-evidence_level: L3
+parent: Apenas Predição do Modelo (L5)
+nav_order: 220
+evidence_level: L5
 indication_count: 10
 ---
 
 # Chlorthalidone
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,83 +29,91 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Clortalidona: Da Hipertensão ao Cor Pulmonale Crônico
+# Clortalidona: De anti-hipertensivo e diurético para glaucoma hereditário primário
 
 ## Resumo em Uma Frase
 
-Clortalidona é um diurético tiazídico-símile com uso consagrado no tratamento da hipertensão arterial e edema sistêmico.
-O modelo TxGNN prevê que pode ser eficaz para **Doença Cardíaca Pulmonar Crônica (Chronic Pulmonary Heart Disease / Cor Pulmonale)** — a indicação com maior suporte clínico dentre as 10 previsões analisadas neste pacote, com **1 observação clínica direta** (PMID 5597001) e **2 publicações de suporte histórico** identificadas.
-
----
+Clortalidona (clorotalidona) é um diurético tiazídico-símile, originalmente registrado no Brasil como diurético simples e anti-hipertensivo (isolado ou em associações, como com atenolol).
+O modelo TxGNN prevê que pode ser eficaz para **glaucoma hereditário primário (primary hereditary glaucoma)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se de uma previsão puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial e edema (uso farmacológico consagrado; sem registros ANVISA ativos) |
-| Nova Indicação Prevista | Doença Cardíaca Pulmonar Crônica (Chronic Pulmonary Heart Disease) |
-| Pontuação de Previsão TxGNN | 99.82% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Diuréticos simples |
+| Nova Indicação Prevista | Glaucoma hereditário primário (primary hereditary glaucoma) |
+| Pontuação de Previsão TxGNN | 99,92% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados formais de mecanismo de ação no Evidence Pack (DG002). Com base no conhecimento farmacológico estabelecido, clortalidona é um diurético da classe tiazídico-símile que inibe o cotransportador sódio-cloreto (NCC) no túbulo contorcido distal renal, promovendo excreção de sódio e água, redução da volemia e queda sustentada da pressão arterial — ação com meia-vida longa (40–60 horas), diferenciando-a dos tiazídicos convencionais.
+Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, a clortalidona é um diurético tiazídico-símile que inibe o cotransportador sódio-cloreto (Na-Cl) no túbulo contorcido distal do rim, aumentando a excreção de sódio e água e reduzindo a pressão arterial. Sua eficácia como diurético e anti-hipertensivo é bem estabelecida.
 
-A doença cardíaca pulmonar crônica (cor pulmonale) é caracterizada por disfunção e dilatação do ventrículo direito secundária à hipertensão pulmonar crônica, frequentemente associada a DPOC ou fibrose pulmonar. Nesses pacientes, congestão sistêmica com edema periférico, ascite e ingurgitamento jugular são manifestações prevalentes da insuficiência cardíaca direita descompensada. O mecanismo diurético da clortalidona — redução da pré-carga venosa e alívio da sobrecarga hídrica — possui coerência fisiopatológica direta com o quadro clínico.
+A relação entre a indicação original (controle de volume e pressão arterial) e o glaucoma é distante. Qualquer efeito sobre a pressão intraocular seria especulativo: diuréticos sistêmicos poderiam, em teoria, alterar a dinâmica do humor aquoso, mas isso não é sustentado por nenhum dado disponível. Sem o mecanismo de ação original verificado, não é possível construir uma ponte mecanística confiável.
 
-Dentre as 10 indicações previstas pelo TxGNN neste pacote, o cor pulmonale crônico é a única com evidência clínica direta: o estudo PMID 5597001 (1967) relata uso de clortalidona em insuficiência cardíaca congestiva causada por cor pulmonale crônico, com eficácia diurética observada. Embora o estudo seja historicamente datado e os diuréticos de alça (furosemida) sejam atualmente preferidos nas diretrizes, o papel adjuvante dos tiazídicos em casos refratários permanece uma questão de pesquisa legítima, sem exploração por estudos controlados modernos.
+A pontuação alta do TxGNN (99,92%) reflete padrões no grafo de conhecimento, e não evidência clínica. Por isso, a previsão deve ser tratada como hipótese a investigar, não como indicação pronta.
 
----
+**Outras indicações previstas (todas sem ensaios clínicos registrados):**
+
+| Posição | Indicação prevista | Pontuação TxGNN | Nível | Comentário |
+|------|------|------|------|------|
+| 2 | Glaucoma de ângulo aberto | 99,90% | L5 | Sem dados clínicos; efeito apenas teórico |
+| 3 | Doença renal hipertensiva maligna | 99,89% | L5 | Plausível pelo efeito anti-hipertensivo, mas tiazídicos não são primeira linha e há sobreposição com a indicação atual |
+| 4 | Hipertensão renovascular maligna | 99,89% | L5 | Diuréticos podem ativar o sistema renina-angiotensina; emergência hipertensiva |
+| 5 | Hipertensão pulmonar de mecanismo multifatorial incerto | 99,88% | L5 | Alívio de sobrecarga de volume, sem efeito sobre a pressão vascular pulmonar |
+| 6 | Hipertensão pulmonar por doença pulmonar e/ou hipóxia | 99,88% | L5 | Única publicação recuperada é irrelevante |
+| 7 | Síndrome de Braddock | 99,85% | L5 | Sem racional mecanístico identificável |
+| 8 | Cor pulmonale crônico | 99,82% | L4 | Único candidato com indício indireto (relato de 1967) |
+| 9 | Cor pulmonale agudo | 99,32% | L5 | Diuréticos não são terapia direcionada |
+| 10 | Hipotricose congênita com milia | 99,19% | L5 | Sem conexão mecanística crível |
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos com clortalidona em doença cardíaca pulmonar crônica registrados.
-
-> **Nota:** O ensaio NCT05580510 (Empagliflozin + Sacubitril/Valsartan em insuficiência cardíaca associada a cardiopatia congênita) foi recuperado pelo sistema de busca no contexto desta patologia, mas não investiga clortalidona e possui status UNKNOWN. Relevância grau C — não incluído na análise principal.
-
----
+Atualmente não há ensaios clínicos relacionados registrados para glaucoma hereditário primário.
 
 ## Evidências da Literatura
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [5597001](https://pubmed.ncbi.nlm.nih.gov/5597001/) | 1967 | Observação Clínica | La Clinica Terapeutica | **Evidência direta:** relato de uso de clortalidona em insuficiência cardíaca congestiva causada por cor pulmonale crônico, com observação de eficácia diurética |
-| [431831](https://pubmed.ncbi.nlm.nih.gov/431831/) | 1979 | Observação Clínica | Minerva Medica | Terapia de depleção (incluindo diuréticos) reverteu alterações radiológicas em 5 pacientes com doença broncopulmonar crônica e "pulmão úmido"; sugere papel da descompressão hídrica pulmonar |
-| [28711447](https://pubmed.ncbi.nlm.nih.gov/28711447/) | 2017 | Review | JACC Heart Failure | Revisão da transição hipertensão → insuficiência cardíaca; remodelamento cardíaco por sobrecarga pressórica e implicações terapêuticas — contexto de fundo relevante |
+Atualmente não há literatura relacionada para glaucoma hereditário primário.
 
----
+Observação sobre as demais previsões: para o cor pulmonale crônico (posição 8), foram recuperadas duas publicações, sendo um relato clínico de 1967 sobre clortalidona em insuficiência cardíaca congestiva por cor pulmonale crônico (PMID 5597001, desenho provavelmente não controlado) e uma revisão de 2017 sobre a transição de hipertensão para insuficiência cardíaca (PMID 28711447), que serve apenas de contexto geral. Para a hipertensão pulmonar por doença pulmonar/hipóxia (posição 6), a única publicação recuperada (PMID 14288313, 1965) trata de transporte de íons no intestino médio de uma mariposa e não tem relevância clínica.
 
 ## Informações de Comercialização no Brasil
 
-Clortalidona **não possui registros ativos na ANVISA** e não está comercializada no mercado brasileiro.
+Todos os 20 registros estão cancelados; não há produto atualmente comercializado. Principais registros:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 135690691 | Clortalil | — | Diuréticos simples |
+| Registro 102350614 | Clorotalidona | — | Diuréticos simples |
+| Registro 103920047 | Clordilon | — | Diuréticos simples |
+| Registro 105831031 | Atenolol + Clortalidona | — | Anti-hipertensivos – associações medicamentosas |
+| Registro 100430981 | Diupress | — | Associação de fármacos com ação diurética |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (segundo o grafo de conhecimento do TxGNN, não o texto da bula):** doença renal, anúria, insuficiência hepática, gota e hiperuricemia, diabetes mellitus tipo 2, deficiência de potássio, hipercalcemia e nefrocalcinose, distúrbios do metabolismo do fósforo, pancreatite, úlcera péptica, lúpus eritematoso sistêmico, asma, psoríase e parapsoríase, infarto do miocárdio e trombose coronariana, parada cardíaca súbita, hemoglobinopatia, epilepsia, transtornos de ansiedade, neuróticos e distímicos, e piureter.
+- **Interações Medicamentosas:** foram identificadas 100 interações; entre as listadas, as de gravidade **maior** são com **cisaprida** e **dolasetrona** (risco associado a distúrbios eletrolíticos e prolongamento do intervalo QT). Há interações moderadas, por exemplo, com acarbose, metformina, alogliptina, albiglutida (efeito sobre a glicemia), hidrocortisona, dexametasona, triamcinolona e beclometasona (corticoides, risco de hipocalemia), anfotericina B, omeprazol, rabeprazol, bupropiona, morfina e colecalciferol. Interações menores incluem doxiciclina, atropina e hiosciamina.
 
----
+Consulte a bula para advertências e contraindicações oficiais, pois o texto aprovado pela ANVISA não estava disponível para este relatório.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A única evidência clínica direta disponível (PMID 5597001) é uma observação histórica de 1967, sem delineamento controlado adequado aos padrões contemporâneos de evidência. A coerência mecanística é sólida, mas o conjunto de dados — ausência de ensaios clínicos modernos, fármaco não registrado no Brasil e lacunas críticas de segurança (DG001, DG002) — não justifica avanço imediato para uso clínico.
+- A previsão para glaucoma hereditário primário baseia-se apenas na pontuação do modelo (nível L5), sem ensaios, sem literatura e sem mecanismo plausível verificado. Além disso, todos os registros brasileiros estão cancelados e a bula não foi analisada, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Preencher as lacunas de dados críticos: MOA completo via DrugBank (DG002) e advertências/contraindicações via ANVISA/bula (DG001)
-- Realizar revisão sistemática sobre tiazídicos como adjuvantes ao tratamento da insuficiência cardíaca direita e cor pulmonale
-- Avaliar perfil de segurança específico: risco de hipocalemia e hiponatremia em pacientes com DPOC e hipoxemia crônica
-- Investigar potencial interação farmacodinâmica com diuréticos de alça em regime combinado
-- Avaliar viabilidade de protocolo de pesquisa prospectivo (ex.: tiazídico vs. placebo como adjuvante em cor pulmonale com edema refratário à furosemida)
-- Verificar necessidade de registro ANVISA antes de qualquer ensaio clínico no Brasil
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança.
+- Obter o mecanismo de ação detalhado (por exemplo, via DrugBank) para analisar uma ligação mecanística com o glaucoma.
+- Realizar revisão sistemática da literatura sobre diuréticos tiazídicos e pressão intraocular, além de estudos pré-clínicos.
+- Avaliar a compatibilidade de via de administração (a via sistêmica atual versus a via tópica ocular típica do glaucoma).
+- Entre as demais previsões, o cor pulmonale crônico é a única com indício indireto e poderia ser tratado como questão de pesquisa, exigindo validação moderna.
+- Avaliar a viabilidade regulatória e comercial, dado que não há registro válido no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

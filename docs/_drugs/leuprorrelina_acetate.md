@@ -2,7 +2,7 @@
 layout: default
 title: Leuprorrelina Acetate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 308
+nav_order: 403
 evidence_level: L5
 indication_count: 0
 ---

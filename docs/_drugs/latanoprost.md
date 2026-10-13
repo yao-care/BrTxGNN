@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Latanoprost
-parent: Evidência Alta (L1-L2)
-nav_order: 301
-evidence_level: L2
+parent: Apenas Predição do Modelo (L5)
+nav_order: 393
+evidence_level: L5
 indication_count: 10
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,73 +29,79 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Latanoprost: Do glaucoma de ângulo aberto ao glaucoma hereditário primário
+# Latanoprosta: Do glaucoma de ângulo aberto ao glaucoma hereditário primário
 
 ## Resumo em Uma Frase
 
-Latanoprost é um análogo sintético da prostaglandina F2α (PGF2α), amplamente utilizado no tratamento do glaucoma de ângulo aberto e da hipertensão ocular para reduzir a pressão intraocular (PIO).
-O modelo TxGNN prevê que pode ser eficaz para **Glaucoma Hereditário Primário (Primary Hereditary Glaucoma)**,
-atualmente com **1 ensaio clínico** concluído apoiando esta direção e **nenhuma publicação** indexada especificamente para esta indicação.
-
----
+A latanoprosta é um análogo da prostaglandina F2-alfa, originalmente usado no tratamento do glaucoma de ângulo aberto e da hipertensão ocular.
+O modelo TxGNN prevê que ela pode ser eficaz para **Glaucoma Hereditário Primário (Primary Hereditary Glaucoma)**,
+mas, até o momento, **não há ensaios clínicos nem publicações** nos dados compilados para este relatório que apoiem esta direção; a previsão se baseia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Glaucoma de ângulo aberto / Hipertensão ocular (uso clínico estabelecido) |
+| Indicação Original | Glaucoma de ângulo aberto e hipertensão ocular (conforme a base de conhecimento do TxGNN, pois não há registros no Brasil) |
 | Nova Indicação Prevista | Glaucoma Hereditário Primário (Primary Hereditary Glaucoma) |
-| Pontuação de Previsão TxGNN | 99.88% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Pontuação de Previsão TxGNN | 99,88% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado (nos dados compilados) |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no Evidence Pack. Contudo, com base no conhecimento clínico consolidado, Latanoprost é um análogo sintético da prostaglandina F2α que atua como agonista seletivo do receptor FP. Ao ativar esse receptor no músculo ciliar e no epitélio da malha trabecular, promove aumento do fluxo uveoscleral, reduzindo a PIO. É considerado tratamento de primeira linha para o glaucoma primário de ângulo aberto no adulto em todo o mundo.
+A latanoprosta é um análogo da prostaglandina F2-alfa que reduz a pressão intraocular ao aumentar o escoamento uveoscleral do humor aquoso. Esse é o mecanismo que sustenta seu uso no glaucoma de ângulo aberto e na hipertensão ocular. Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados; a descrição acima baseia-se em conhecimento farmacológico geral.
 
-O glaucoma hereditário primário — também denominado glaucoma congênito ou glaucoma pediátrico — tem como mecanismo fisiopatológico central a goniodesgenesia: um defeito no desenvolvimento do ângulo da câmara anterior que compromete a drenagem do humor aquoso e resulta em elevação crónica da PIO. Este é precisamente o mesmo parâmetro terapêutico alvo do Latanoprost, tornando a extrapolação mecanística altamente coerente e biologicamente plausível.
+O glaucoma hereditário primário (congênito ou juvenil) pertence à mesma área de doença da indicação original, e o objetivo terapêutico, reduzir a pressão intraocular, é o mesmo. Isso torna a pontuação elevada do modelo plausível do ponto de vista mecanístico.
 
-Na prática clínica, Latanoprost já é utilizado de forma off-label em crianças com glaucoma refratário a procedimentos cirúrgicos. O ensaio identificado (NCT01527682) confirma essa realidade clínica e reforça que a previsão do TxGNN representa uma extensão natural e bem fundamentada do uso já estabelecido, distinguindo-se de um reposicionamento para uma área completamente nova.
+Há, porém, uma ressalva importante: os glaucomas pediátricos e do desenvolvimento costumam envolver malformações da malha trabecular ou do ângulo da câmara anterior, e os análogos de prostaglandinas são frequentemente menos eficazes nesses casos. A previsão deve, portanto, ser tratada como hipótese de pesquisa.
 
----
+## Outras Indicações Previstas (para contexto)
+
+| Posição | Doença | Pontuação TxGNN | Avaliação |
+|------|------|------|------|
+| 2 | Calcifilaxia visceral | 99,83% | Hold, sem vínculo mecanístico claro |
+| 3 | Hipotricose simples do couro cabeludo | 99,81% | Pergunta de pesquisa; plausível pelo efeito de prostaglandinas no ciclo do folículo piloso (fase anágena) |
+| 4 | Síndrome do desfiladeiro torácico venosa | 99,78% | Hold |
+| 5 | Síndrome do desfiladeiro torácico arterial | 99,78% | Hold |
+| 6 | Síndrome do desfiladeiro torácico neurogênica | 99,72% | Hold |
+| 7 | Hipotricose congênita com milia | 99,71% | Pergunta de pesquisa; mesma lógica da hipotricose |
+| 8 | Angiodisplasia do estômago | 99,70% | Hold |
+| 9 | Síndrome do dedo azul | 99,69% | Hold |
+| 10 | Linfangiectasia | 99,67% | Hold |
+
+Todas estão no nível L5, sem ensaios clínicos nem literatura nos dados compilados. A pontuação idêntica das formas venosa e arterial da síndrome do desfiladeiro torácico sugere que a previsão vem de vizinhos compartilhados no grafo, e não de evidência específica da doença.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Phase 2 | Concluído | 37 | Avalia o efeito hipotensor ocular de latanoprost e dorzolamida em pacientes pediátricos com Glaucoma Primário refratário a procedimentos cirúrgicos; inclui avaliação de eficácia e segurança |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada indexada para a combinação Latanoprost + glaucoma hereditário primário.
-
----
+Atualmente não há literatura relacionada.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo a base de conhecimento (TxGNN/PrimeKG, não é texto de bula)**: uveíte, doença da íris, doença do corpo ciliar, panuveíte, edema macular da retina, edema macular cistoide, irite, conjuntivite e conjuntivite contagiosa aguda. Esses itens indicam condições oculares inflamatórias em que o uso exige cautela.
+- **Interações Medicamentosas**: foram identificadas 100 interações potenciais na consulta, mas todas com nível de gravidade "Desconhecido". Exemplos: calcitriol, glimepirida, doxiciclina, clotrimazol, lansoprazol, cimetidina, atropina, pantoprazol, mesalazina, acarbose, morfina, metformina, omeprazol, sucralfato, rosiglitazona, vancomicina, lactulose, triancinolona, prednisona e sinvastatina. A relevância clínica não pôde ser classificada.
 
----
+As advertências e contraindicações da bula não estão disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Um ensaio clínico de Phase 2 concluído apoia diretamente o uso de Latanoprost em glaucoma pediátrico primário, e o mecanismo de ação (redução da PIO via agonismo do receptor FP) é idêntico ao da indicação estabelecida, conferindo plausibilidade biológica máxima. A lacuna está na ausência de literatura PubMed indexada com este descritor específico, não em falta de evidência clínica.
+A previsão para glaucoma hereditário primário tem pontuação alta e plausibilidade mecanística, mas não há ensaios clínicos nem literatura (nível L5), o fármaco não tem registro no Brasil, e a eficácia dos análogos de prostaglandinas em glaucomas do desenvolvimento é duvidosa. As demais indicações previstas têm vínculo mecanístico fraco ou inexistente.
 
 **Para prosseguir, é necessário:**
-- Recuperar advertências, contraindicações e informações de posologia da bula ANVISA (dado atualmente ausente — DG001)
-- Confirmar mecanismo de ação detalhado via consulta ao DrugBank API (DG002)
-- Ampliar busca PubMed com termos alternativos: "latanoprost pediatric glaucoma", "latanoprost congenital glaucoma", "prostaglandin analogue childhood glaucoma"
-- Verificar disponibilidade e adequação da formulação colírio 0,005% para faixa etária pediátrica no Brasil
-- Consultar especialista em oftalmologia pediátrica para validação clínica antes de qualquer aplicação prática
+- Revisão sistemática da literatura sobre análogos de prostaglandinas em glaucoma congênito e juvenil, e busca de ensaios em registros internacionais
+- Dados formais de mecanismo de ação (consulta ao DrugBank)
+- Obtenção e análise da bula (advertências e contraindicações) no site da ANVISA
+- Avaliação da situação regulatória: o fármaco não possui registro no Brasil
+- Avaliação de segurança e de formulação para a população pediátrica
+- Classificação clínica das interações medicamentosas de gravidade desconhecida
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

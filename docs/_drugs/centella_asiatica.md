@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Centella Asiatica
-parent: Evidência Moderada (L3-L4)
-nav_order: 183
-evidence_level: L4
+parent: Apenas Predição do Modelo (L5)
+nav_order: 214
+evidence_level: L5
 indication_count: 10
 ---
 
 # Centella Asiatica
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,83 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-O skill é sobre gestão de pipeline de treinamento e deploy — não se aplica à geração de relatório. Prossigo diretamente com o relatório conforme as instruções do prompt.
-
----
-
-# Centella asiatica: Da cicatrização de feridas à insônia
+# Centella asiatica: De uso sem indicação registrada no Brasil para insônia
 
 ## Resumo em Uma Frase
 
-Centella asiatica (Gotu Kola / Erva-tigre) é uma planta medicinal com longa tradição de uso na medicina Ayurvédica e asiática, principalmente para cicatrização de feridas, condições de pele e melhora da microcirculação, com 16 registros ativos no Brasil. O modelo TxGNN prevê que pode ser eficaz para **insônia (Insomnia Disease)**, com pontuação de predição de **99,94%**, atualmente apoiado por **2 ensaios clínicos** e **1 publicação** nesta direção. A evidência disponível, contudo, é ainda de caráter pré-clínico (modelo animal com peixe-zebra) e os ensaios clínicos identificados não foram desenhados especificamente para insônia com Centella asiatica isolada.
-
----
+Centella asiatica (centela asiática, também conhecida como gotu kola) é uma planta medicinal tradicional que não possui indicação original registrada na ANVISA e não é comercializada no Brasil como medicamento.
+O modelo TxGNN prevê que ela pode ser eficaz para **insônia (insomnia)**, com pontuação muito alta, mas o único suporte é **1 publicação** pré-clínica (modelo em larvas de peixe-zebra) e **nenhum ensaio clínico** registrado.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Cicatrização de feridas, condições de pele e suporte microcirculatório (uso tradicional e aprovado) |
-| Nova Indicação Prevista | Insônia (Insomnia Disease) |
+|------|------|
+| Indicação Original | Não há indicação registrada (sem registros na ANVISA) |
+| Nova Indicação Prevista | Insônia (insomnia) |
 | Pontuação de Previsão TxGNN | 99,94% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 16 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste pacote de evidências. Com base no conhecimento farmacológico estabelecido na literatura, Centella asiatica contém compostos triterpênicos principais — asiaticoside, madecassoside, ácido asiático e ácido madecássico — responsáveis por ações anti-inflamatórias, antioxidantes, neuroprotetoras e de modulação da síntese de colágeno. Esses mecanismos justificam o uso aprovado na cicatrização de feridas, úlceras varicosas, e condições inflamatórias da pele.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a Centella asiatica é uma erva usada há muito tempo na medicina ayurvédica e em outras medicinas tradicionais asiáticas, sobretudo para cicatrização, saúde da pele e, tradicionalmente, ansiedade e memória. Seus principais constituintes são triterpenos (ácido asiático, madecassosídeo, asiaticosídeo).
 
-A hipótese mecanística para insônia apoia-se em duas vias principais identificadas em estudos pré-clínicos: (1) modulação positiva do receptor GABA-A — mecanismo análogo ao das benzodiazepinas — que promoveria sedação e facilitação da manutenção do sono; e (2) inibição do eixo HPA (hipotálamo-hipófise-adrenal), reduzindo os níveis de cortisol noturno que frequentemente comprometem o início e a qualidade do sono. Adicionalmente, o estudo em larvas de peixe-zebra (PMID 38812527) demonstrou que o extrato etanólico de C. asiatica inibiu a sinalização de orexina e as vias MAPK/ERK e p38, moléculas centrais do sistema de alerta circadiano.
+A relação com a insônia é indireta. O único estudo disponível indica que um extrato etanólico da planta reduziu a sinalização de orexina, ERK, Akt e p38 em larvas de peixe-zebra com modelo de insônia. A orexina (hipocretina) participa do sistema de vigília, de modo que a inibição dessa via seria compatível com um efeito sedativo. Também se especula uma ligação com efeitos ansiolíticos ou sobre receptores GABA-A, mas isso é hipótese.
 
-No entanto, essas hipóteses mecanísticas carecem inteiramente de validação em estudos humanos. A evidência mais robusta disponível para insônia provém de um modelo pré-clínico com larvas de peixe-zebra, e os dois ensaios clínicos identificados não foram desenhados especificamente para avaliar o efeito de Centella asiatica isolada sobre o sono em pacientes com insônia. A alta pontuação do TxGNN (99,94%) reflete provavelmente a sobreposição de mecanismos neurológicos detectada na rede de conhecimento — especialmente a proximidade com transtornos de ansiedade, para os quais a evidência clínica é consideravelmente mais sólida (L3).
+É preciso cautela: o estudo é pré-clínico, em organismo não mamífero, sem dados em humanos. A pontuação alta do TxGNN (0,999) é uma previsão computacional e não equivale a evidência de eficácia.
 
----
+### Outras indicações previstas (para contexto)
+
+| Indicação | Pontuação TxGNN | Nível de Evidência | Observação |
+|------|------|------|------|
+| Ansiedade / transtorno de ansiedade | 99,08% / 98,03% | L3 | Um pequeno estudo clínico em transtorno de ansiedade generalizada (33 participantes, sem grupo controle documentado) e revisões; um estudo de 2025 sugere que os constituintes testados não explicam o efeito ansiolítico |
+| Artrite reumatoide | 98,05% | L4 | Estudos consistentes em modelos animais; sem dados em humanos |
+| Distúrbio do sono (iniciar e manter o sono) | 99,03% | L5 | Mesmo estudo em peixe-zebra |
+| Agorafobia | 98,07% | L5 | Apenas revisão geral sobre ansiedade |
+| Demais (delirium por abstinência alcoólica, torcicolo paroxístico benigno da infância, encefalopatia aguda bifásica, síndrome colobomatosa) | 97,5% a 97,9% | L5 | Sem literatura; provavelmente artefatos do grafo |
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|-----------------|------|--------|---------------|--------------------|
-| [NCT07274371](https://clinicaltrials.gov/study/NCT07274371) | NA | Em andamento (sem novas inscrições) | 30 | Massagem nos pés com óleo de Brahmi–Gotu Kola em mulheres perimenopáusicas (40–55 anos); sono é desfecho secundário; intervenção tópica e em formulação combinada — não permite isolar contribuição de C. asiatica |
-| [NCT04872946](https://clinicaltrials.gov/study/NCT04872946) | NA | Concluído | 74 | Suplementação oral + tópica para saúde da pele e bem-estar; insônia não é desfecho principal ou secundário; relevância para insônia é mínima — provavelmente falso-positivo por correspondência de palavras-chave |
-
-> **Nota:** Nenhum ensaio foi desenhado especificamente para tratar insônia com Centella asiatica isolada em dose padronizada. Ambos receberam grau de relevância **C** pelos avaliadores do pipeline.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [38812527](https://pubmed.ncbi.nlm.nih.gov/38812527/) | 2024 | Modelo Animal (larvas de peixe-zebra) | F1000Research | Extrato etanólico de C. asiatica reduziu comportamento de insônia em modelo de larvas de peixe-zebra; mecanismo envolve inibição de orexina, ERK1/2, Akt e p38-MAPK — sinalizadores-chave do sistema de alerta circadiano |
+|------|-----|------|------|---------|
+| [38812527](https://pubmed.ncbi.nlm.nih.gov/38812527/) | 2024 | Pré-clínico (peixe-zebra) | F1000Research | Extrato etanólico de C. asiatica em modelo de insônia em larvas de peixe-zebra, com inibição das vias de orexina, ERK, Akt e p38 |
 
----
+Para as indicações vizinhas, a literatura mais relevante é a seguinte (ansiedade, relacionada ao sono):
 
-## Informações de Comercialização no Brasil
-
-Centella asiatica possui **16 registros ativos** na ANVISA, confirmando ampla disponibilidade no mercado brasileiro. Os detalhes individuais de cada registro (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis nos dados processados neste relatório. Recomenda-se consulta direta ao [portal de consulta de medicamentos da ANVISA](https://consultas.anvisa.gov.br/) para obter a listagem completa e as bulas correspondentes.
-
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [20677602](https://pubmed.ncbi.nlm.nih.gov/20677602/) | 2010 | Estudo clínico pequeno | Nepal Med Coll J | 33 participantes com transtorno de ansiedade generalizada receberam extrato hidroetanólico (500 mg, duas vezes ao dia) |
+| [23653088](https://pubmed.ncbi.nlm.nih.gov/23653088/) | 2013 | Revisão | CNS Drugs | Revisão de medicamentos à base de plantas para ansiedade, com evidências clínicas e pré-clínicas |
+| [26848139](https://pubmed.ncbi.nlm.nih.gov/26848139/) | 2016 | Pré-clínico (camundongo) | Phytother Res | Efeito neuroprotetor contra ansiedade, dano oxidativo e neuroinflamação induzidos por privação de sono, com envolvimento do óxido nítrico |
+| [27062315](https://pubmed.ncbi.nlm.nih.gov/27062315/) | 2016 | Pré-clínico (in vitro) | Chem Biol Drug Des | Triterpenos (ácidos asiático e madecássico) mostraram modulação negativa seletiva de subtipos de receptores GABA-A |
+| [41097248](https://pubmed.ncbi.nlm.nih.gov/41097248/) | 2025 | Pré-clínico (camundongo) | Nutrients | Triterpenos e ácidos cafeoilquínicos contribuem para a cognição, mas não para o efeito ansiolítico |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Interações medicamentosas**: não foram encontradas interações registradas nos dados compilados.
+- **Outros dados de segurança**: as advertências e contraindicações da bula não estão disponíveis nos dados compilados. Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A evidência atual para o uso de Centella asiatica em insônia é de nível **L4** — restrita a um estudo pré-clínico com larvas de peixe-zebra e dois ensaios clínicos de relevância periférica (grau C) não desenhados para esta indicação. Embora o mecanismo hipotético (modulação GABA-A e supressão do eixo HPA) seja biologicamente plausível e internamente coerente, nenhum estudo clínico controlado avaliou diretamente o efeito de Centella asiatica sobre insônia em humanos.
+- Para insônia, a previsão tem nível de evidência L5: um único estudo em larvas de peixe-zebra, sem dados em mamíferos ou humanos, e nenhum ensaio clínico. A alta pontuação do TxGNN é apenas computacional.
+- A planta não tem registro na ANVISA, e a ausência dos dados de bula impede a triagem de segurança.
+- Entre as indicações previstas, ansiedade (L3) e artrite reumatoide (L4) têm suporte um pouco maior, mas ainda como questões de pesquisa, e não como candidatas a avanço clínico.
 
 **Para prosseguir, é necessário:**
-- Ensaio clínico randomizado e controlado (Phase 2) desenhado especificamente para insônia, com Centella asiatica oral em extrato padronizado e dose definida
-- Caracterização do mecanismo de ação em humanos — especialmente modulação do receptor GABA-A (polissonografia + marcadores de cortisol noturno)
-- Obtenção dos dados de segurança completos (advertências, contraindicações, interações medicamentosas) diretamente das bulas registradas na ANVISA
-- Estudo de farmacocinética oral para estabelecer biodisponibilidade dos triterpenos (asiaticoside, madecassoside) e correlacioná-la com efeito sedativo em humanos
-- Avaliação prioritária das indicações com evidência mais robusta: **ansiedade** (rank 2, L3) e **transtorno de ansiedade** (rank 6, L3) apresentam um ensaio Phase 2 concluído (NCT03482063, n=141), um estudo clínico não randomizado em GAD (PMID 20677602), e múltiplas revisões sistemáticas — constituindo base mais sólida para desenvolvimento clínico imediato
+- Obter advertências e contraindicações de bulas ou monografias oficiais, para a triagem de segurança.
+- Obter dados de mecanismo de ação (por exemplo, no DrugBank).
+- Replicar o efeito sobre o sono em modelos de mamíferos.
+- Se houver interesse clínico, conduzir ensaio randomizado e controlado, com padronização do extrato, em ansiedade ou insônia.
+- Definir a categoria regulatória no Brasil (fitoterápico, medicamento ou suplemento), já que não há registros atualmente.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

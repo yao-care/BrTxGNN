@@ -2,7 +2,7 @@
 layout: default
 title: Azathioprine
 parent: Evidência Alta (L1-L2)
-nav_order: 88
+nav_order: 98
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,97 +29,105 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Azatioprina: Da Imunossupressão Sistêmica à Doença Inflamatória Intestinal
+# Azatioprina: Do imunossupressor à doença inflamatória intestinal
 
 ## Resumo em Uma Frase
 
-Azatioprina é uma pró-droga imunossupressora da classe das tiopurinas, amplamente utilizada no mundo inteiro na prevenção de rejeição em transplantes de órgãos e no tratamento de doenças autoimunes — porém sem registro ativo na ANVISA segundo os dados disponíveis neste Evidence Pack. O modelo TxGNN prevê que pode ser eficaz para **Doença Inflamatória Intestinal (Inflammatory Bowel Disease)**, com pontuação de **99,52%**, atualmente com **múltiplos ensaios clínicos de Fase 3 concluídos** e **20 publicações** — incluindo três revisões sistemáticas Cochrane sobre colite ulcerosa — apoiando esta direção e conferindo nível de evidência **L1**.
-
----
+Azatioprina é um imunossupressor análogo da purina, registrado na ANVISA como imunodepressor e imunomodulador.
+O modelo TxGNN prevê que pode ser eficaz para **Doença Inflamatória Intestinal (Inflammatory Bowel Disease)**, com **25 ensaios clínicos** e **20 publicações** apoiando esta direção.
+Atenção: as duas primeiras previsões do modelo (síndromes congênitas raras) não têm nenhuma evidência. A previsão com respaldo real é a doença inflamatória intestinal (DII), que já é uso estabelecido na prática clínica.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível no mercado brasileiro (sem registro ANVISA) |
+| Indicação Original | Imunodepressor |
 | Nova Indicação Prevista | Doença Inflamatória Intestinal (Inflammatory Bowel Disease) |
 | Pontuação de Previsão TxGNN | 99,52% |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 5 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
 
----
+**Observação sobre a ordem das previsões:** as previsões de maior pontuação (rank 1 a 4: síndrome de microftalmia colobomatosa com displasia rizomélica, síndrome de braquidactilia-sindactilia, suscetibilidade à osteoartrite e síndrome WHIM) não têm ensaios clínicos nem literatura, e não há racional mecanístico plausível. Elas parecem artefatos do grafo de conhecimento. Este relatório foca na DII, a primeira previsão com evidências reais. A colite ulcerativa (rank 9) é um subtipo da DII e está incluída nas evidências abaixo.
 
 ## Por que Esta Previsão é Razoável?
 
-Azatioprina é uma pró-droga que, no organismo, é convertida em nucleotídeos de 6-tioguanina (6-TGN). Esses metabólitos ativos exercem imunossupressão por três mecanismos complementares: (1) inibição competitiva da síntese de novo de purinas, reduzindo drasticamente os nucleotídeos disponíveis para a proliferação linfocitária; (2) incorporação ao DNA, induzindo apoptose seletiva de células T ativadas; e (3) bloqueio da via Rac1 GTPase → coestimulação CD28, interrompendo o segundo sinal necessário para a ativação completa de linfócitos T. Embora o mecanismo de ação formal não esteja disponível no Evidence Pack atual (dado ausente no DrugBank), este perfil farmacodinâmico está amplamente documentado na literatura científica internacional há mais de 45 anos.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a azatioprina é um pró-fármaco da 6-mercaptopurina. Seus metabólitos nucleotídicos (6-TGN) inibem a síntese de purinas e induzem apoptose de linfócitos T ativados (via inibição de Rac1), o que reduz a resposta imune da mucosa intestinal.
 
-A Doença Inflamatória Intestinal — que engloba a Doença de Crohn (DC) e a Colite Ulcerosa (CU) — é impulsionada por ativação anômala de linfócitos T CD4+: predomínio Th1/Th17 na DC e Th2/Th9 na CU, resultando em inflamação crônica e progressiva da mucosa gastrointestinal com ciclos de recidiva e remissão. A tripla ação da azatioprina sobre a proliferação, sobrevivência e ativação das células T encaixa-se diretamente na fisiopatologia central da DII, tornando esta previsão computacional mecanisticamente sólida e biologicamente coerente.
+A indicação original (imunossupressão e antimetabólito análogo da purina) se relaciona diretamente com a DII, uma doença inflamatória crônica mediada por mecanismos imunes. A azatioprina é um imunomodulador consolidado para manutenção da remissão na doença de Crohn e na colite ulcerativa, com revisões Cochrane que sustentam o uso na colite ulcerativa.
 
-A robustez desta previsão é confirmada pela convergência entre o modelo TxGNN e décadas de evidências clínicas: as principais diretrizes internacionais (ECCO, ACG, AGA, GETECCU) já incorporaram azatioprina como imunomodulador de segunda linha para manutenção de remissão na DII. Vale destacar que a Colite Ulcerosa (Rank 9 neste painel, TxGNN: 99,33%) partilha a mesma base de evidências L1 e é contemplada diretamente pelas revisões sistemáticas Cochrane e pelos ensaios clínicos de Fase 3 aqui apresentados, reforçando duplamente a validade da previsão.
-
----
+Na prática, trata-se de uma indicação já estabelecida e não de um reposicionamento propriamente dito.
 
 ## Evidências de Ensaios Clínicos
 
+Dos ensaios identificados para DII e colite ulcerativa, estes são os mais relevantes (com a azatioprina como braço ou foco direto):
+
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00094458](https://clinicaltrials.gov/study/NCT00094458) | Phase 3 | Concluído | 508 | Comparação direta triplo-braço: Infliximab vs Azatioprina (IMURAN®) vs terapia combinada em Doença de Crohn naïve a imunossupressores — maior evidência direta do valor de AZA como tratamento ativo |
-| [NCT00946946](https://clinicaltrials.gov/study/NCT00946946) | Phase 3 | Concluído | 78 | Azatioprina vs mesalazina (duplo-cego) na prevenção de recorrência clínica pós-operatória em DC com recorrência endoscópica moderada a grave |
-| [NCT00976690](https://clinicaltrials.gov/study/NCT00976690) | Phase 3 | Concluído | 83 | Estudo multicêntrico randomizado aberto: AZA vs mesalazina para prevenção de recorrência pós-operatória na Doença de Crohn |
-| [NCT03101800](https://clinicaltrials.gov/study/NCT03101800) | Phase 3 | Desconhecido | 84 | AZA em dose baixa + Alopurinol vs AZA em dose padrão na Colite Ulcerosa — otimização terapêutica para reduzir taxa de falha (até 50%) e eventos adversos |
-| [NCT00098111](https://clinicaltrials.gov/study/NCT00098111) | Phase 3 | Encerrado precocemente | 31 | ACORDIS: Dose ótima baseada em peso de IMURAN® (azatioprina) em DC ativa com corticosteroide — dados de dose-resposta e segurança |
-| [NCT01536535](https://clinicaltrials.gov/study/NCT01536535) | Phase 4 | Concluído | 431 | Estudo multicêntrico aberto em crianças/adolescentes com CU recém-diagnosticada: efetividade e segurança da terapia inicial padronizada incluindo AZA |
-| [NCT05535946](https://clinicaltrials.gov/study/NCT05535946) | Phase 3 | Em andamento | 1.116 | Maior ensaio de manutenção em CU moderada a grave: AZA como terapia de referência ativa para comparação com novo agente (ABX464) — confirma centralidade de AZA na prática clínica atual |
-| [NCT02852694](https://clinicaltrials.gov/study/NCT02852694) | Phase 4 | Concluído | 192 | Estudo estratificado por risco: Metotrexato vs Azatioprina/6-MP na DC pediátrica de baixo risco — evidência comparativa direta de eficácia de AZA em população pediátrica |
-| [NCT02425852](https://clinicaltrials.gov/study/NCT02425852) | Phase 4 | Concluído | 65 | Estudo multicêntrico randomizado: IFX + AZA vs corticosteroide + AZA em CU grave aguda — valida o papel de AZA na estratégia de terapia combinada |
-| [NCT01802593](https://clinicaltrials.gov/study/NCT01802593) | Phase 4 | Encerrado precocemente | 20 | Comparação de regimes de retirada de imunomodulador (AZA) para monoterapia com Infliximab em DC pediátrica — confirma o papel da AZA na manutenção da remissão |
-
----
+| [NCT00537316](https://clinicaltrials.gov/study/NCT00537316) | Phase 3 | Encerrado precocemente | 242 | Infliximabe em monoterapia ou com azatioprina vs. azatioprina em monoterapia na colite ulcerativa moderada a grave |
+| [NCT00976690](https://clinicaltrials.gov/study/NCT00976690) | Phase 3 | Concluído | 83 | Azatioprina vs. mesalazina na prevenção de recorrência pós-operatória na doença de Crohn |
+| [NCT00098111](https://clinicaltrials.gov/study/NCT00098111) | Phase 3 | Encerrado precocemente | 31 | Estudo de dose de azatioprina (Imuran) na doença de Crohn ativa |
+| [NCT03101800](https://clinicaltrials.gov/study/NCT03101800) | Phase 3 | Desconhecido | 84 | Azatioprina em baixa dose com alopurinol vs. azatioprina em monoterapia na colite ulcerativa |
+| [NCT00984568](https://clinicaltrials.gov/study/NCT00984568) | Phase 3 | Encerrado precocemente | 28 | Terapia convencional escalonada (com azatioprina) vs. infliximabe na colite ulcerativa; amostra pequena |
+| [NCT02177071](https://clinicaltrials.gov/study/NCT02177071) | Phase 4 | Concluído | 211 | Infliximabe + antimetabólitos vs. cada um isolado na doença de Crohn em remissão sustentada |
+| [NCT02425852](https://clinicaltrials.gov/study/NCT02425852) | Phase 4 | Concluído | 65 | Azatioprina + infliximabe precoce vs. corticoide + azatioprina na colite aguda grave |
+| [NCT00546546](https://clinicaltrials.gov/study/NCT00546546) | Phase 4 | Concluído | 120 | Imunossupressores precoces vs. estratégia convencional nos três primeiros anos da doença de Crohn |
+| [NCT02247258](https://clinicaltrials.gov/study/NCT02247258) | Phase 2 | Encerrado precocemente | 63 | Azatioprina sistemática vs. guiada por endoscopia na recorrência pós-operatória da doença de Crohn ileal |
+| [NCT07235904](https://clinicaltrials.gov/study/NCT07235904) | Phase 4 | Recrutando | 300 | Mirikizumabe "top-down" vs. tratamento padrão com azatioprina na colite ulcerativa recém-diagnosticada |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [40013523](https://pubmed.ncbi.nlm.nih.gov/40013523/) | 2025 | Cochrane Systematic Review | Cochrane Database Syst Rev | Revisão Cochrane (3ª atualização): AZA e 6-MP para manutenção de remissão na Colite Ulcerosa — síntese definitiva e mais recente de todas as evidências disponíveis |
-| [39586616](https://pubmed.ncbi.nlm.nih.gov/39586616/) | 2025 | RCT | Gut | ACTIVE Trial: IFX + AZA vs AZA isolada em CU grave aguda responsiva a corticoides IV — ensaio randomizado controlado publicado no periódico Gut, demonstra efetividade de AZA em manutenção |
-| [27192092](https://pubmed.ncbi.nlm.nih.gov/27192092/) | 2016 | Cochrane Systematic Review | Cochrane Database Syst Rev | Segunda revisão Cochrane sobre AZA/6-MP na manutenção de remissão da CU — dados favoráveis ao uso contínuo na prática clínica |
-| [22972046](https://pubmed.ncbi.nlm.nih.gov/22972046/) | 2012 | Cochrane Systematic Review | Cochrane Database Syst Rev | Primeira revisão Cochrane: AZA/6-MP na CU — base evidencial histórica que fundamentou as diretrizes atuais |
-| [19392869](https://pubmed.ncbi.nlm.nih.gov/19392869/) | 2009 | Meta-Analysis | Aliment Pharmacol Ther | Meta-análise da eficácia de AZA e 6-MP na CU — confirma superioridade sobre placebo na manutenção da remissão |
-| [29293971](https://pubmed.ncbi.nlm.nih.gov/29293971/) | 2018 | Review | J Crohn's Colitis | Estado da arte das tiopurinas na DII: mecanismos de ação, eficácia, segurança, adesão terapêutica e perspectivas futuras |
-| [22072847](https://pubmed.ncbi.nlm.nih.gov/22072847/) | 2011 | Clinical Review | World J Gastroenterol | Otimização da terapia com AZA/6-MP na DII: correlação entre níveis de 6-TGN e eficácia clínica, prevenção de toxicidade hepática e mielossupressão |
-| [19072367](https://pubmed.ncbi.nlm.nih.gov/19072367/) | 2008 | Mechanistic Review | Expert Rev Gastroenterol Hepatol | Novos insights moleculares do mecanismo de ação da AZA na DII: via Rac1 GTPase, apoptose T celular seletiva e implicações clínicas resultantes |
-| [16048561](https://pubmed.ncbi.nlm.nih.gov/16048561/) | 2005 | Pharmacogenomics Review | J Gastroenterol Hepatol | Farmacogenética da AZA/6-MP e monitorização de metabólitos na DII — base científica para terapia personalizada com TPMT e 6-TGN |
-| [37586320](https://pubmed.ncbi.nlm.nih.gov/37586320/) | 2023 | Translational | Cell Rep Med | Alta prevalência de Blautia wexlerae intestinal associada à falha terapêutica da AZA na DII — mecanismo microbiológico de resistência e implicações para monitoramento clínico |
-
----
+| [39586616](https://pubmed.ncbi.nlm.nih.gov/39586616/) | 2025 | RCT | Gut | Estudo ACTIVE: infliximabe + azatioprina vs. azatioprina isolada na colite ulcerativa aguda grave responsiva a corticoide intravenoso |
+| [40013523](https://pubmed.ncbi.nlm.nih.gov/40013523/) | 2025 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Azatioprina e 6-mercaptopurina na manutenção da remissão da colite ulcerativa (atualização) |
+| [27192092](https://pubmed.ncbi.nlm.nih.gov/27192092/) | 2016 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Versão anterior da mesma revisão; a eficácia era considerada controversa |
+| [19392869](https://pubmed.ncbi.nlm.nih.gov/19392869/) | 2009 | Meta-análise | Aliment Pharmacol Ther | Eficácia de azatioprina e mercaptopurina na colite ulcerativa |
+| [29293971](https://pubmed.ncbi.nlm.nih.gov/29293971/) | 2018 | Revisão | J Crohns Colitis | Tiopurinas na DII: panorama atual e perspectivas |
+| [16048561](https://pubmed.ncbi.nlm.nih.gov/16048561/) | 2005 | Revisão | J Gastroenterol Hepatol | Farmacogenética e monitoramento de metabólitos de azatioprina e 6-MP |
+| [19072367](https://pubmed.ncbi.nlm.nih.gov/19072367/) | 2008 | Revisão | Expert Rev Gastroenterol Hepatol | Mecanismos moleculares e implicações clínicas da azatioprina na DII |
+| [15177535](https://pubmed.ncbi.nlm.nih.gov/15177535/) | 2004 | Revisão | Gastroenterol Clin North Am | Eficácia clínica e toxicidade de azatioprina e 6-MP na DII |
+| [37586320](https://pubmed.ncbi.nlm.nih.gov/37586320/) | 2023 | Pré-clínico/mecanístico | Cell Rep Med | Bactérias comensais (Blautia wexlerae) reduzem a biodisponibilidade da 6-MP e favorecem falha terapêutica |
+| [32799195](https://pubmed.ncbi.nlm.nih.gov/32799195/) | 2020 | Revisão | Digestion | Neoplasias malignas na DII |
 
 ## Informações de Comercialização no Brasil
 
-Azatioprina não possui registros ativos na ANVISA conforme os dados consultados neste Evidence Pack. O fármaco apresenta **0 registros** e situação de mercado classificada como **não comercializado** no Brasil. A regularização do registro seria pré-requisito para qualquer estratégia de introdução no mercado nacional.
+Todos os registros estão cancelados; não há produto com registro válido atualmente.
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 102980090 | IMUNEN | Não informada | Imunodepressor |
+| Registro nº 137640128 | IMURAN | Não informada | Antimetabólitos análogos da purina |
+| Registro nº 100630306 | AZATIOPRINA | Não informada | Imunodepressor |
+| Registro nº 110390107 | FURP-AZATIOPRINA | Não informada | Antimetabólitos análogos da purina |
+| Registro nº 105830003 | IMUSSUPREX | Não informada | Imunomodulador |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (associações no grafo de conhecimento, não texto de bula):** pancreatite, trombocitopenia, anemia (incluindo macrocítica), insuficiência renal, infecções (incluindo fúngicas e dermatofitose), linfomas (incluindo linfoma primário do SNC, linfossarcoma e linfoma hepatoesplênico de células T), trombose da veia hepática e síndrome de Budd-Chiari.
+- **Riscos a vigiar:** mielossupressão, hepatotoxicidade, infecções e neoplasias (linfoma, câncer de pele). A genotipagem de TPMT/NUDT15 e o monitoramento de metabólitos são recomendados.
+- **Interações medicamentosas** (100 interações registradas; principais):
+  - **Moderadas:** mesalazina, balsalazida, olsalazina e sulfassalazina (aminossalicilatos).
+  - **Leves:** acetato, gluconato e sulfato de zinco.
+  - **Nível desconhecido:** epinefrina, anfotericina B, ácido acetilsalicílico, calcitriol, pantoprazol, omeprazol, glimepirida, doxiciclina, clotrimazol, morfina, metformina, sucralfato e rosiglitazona.
+  - Evitar também o uso de alopurinol sem redução de dose da azatioprina.
 
----
+Os dados de advertências e contraindicações da bula da ANVISA não estavam disponíveis. Consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Existem múltiplos ensaios clínicos de Fase 3 concluídos (NCT00094458, n=508; NCT00946946, n=78; NCT00976690, n=83) e três revisões sistemáticas Cochrane atualizadas (2012, 2016, 2025) documentando de forma consistente a eficácia da azatioprina na Doença Inflamatória Intestinal. O alinhamento entre a previsão TxGNN (99,52%), a coerência mecanística e o nível de evidência L1 sustenta com solidez a recomendação de avanço com salvaguardas.
+Há ensaios de Fase 3 e Fase 4, um RCT recente publicado (Gut, 2025) e revisões Cochrane que sustentam o uso na DII, sobretudo na colite ulcerativa. Trata-se de uso já estabelecido, mas todos os registros brasileiros estão cancelados. As demais previsões de alta pontuação (síndromes congênitas, osteoartrite, WHIM, doença granulomatosa crônica) devem permanecer em **Hold**, por falta de evidência e de racional mecanístico.
 
 **Para prosseguir, é necessário:**
-- Regularizar o registro junto à ANVISA para viabilizar a comercialização no Brasil
-- Complementar os dados do mecanismo de ação (MOA) via consulta à API do DrugBank (DB00993)
-- Obter e analisar a bula atualizada com advertências, contraindicações e interações medicamentosas relevantes para a população brasileira
-- Implementar protocolo de rastreio farmacogenômico (genotipagem de TPMT e/ou NUDT15) antes do início da terapia, especialmente relevante em populações com alta prevalência de variantes de risco (como populações asiáticas) para prevenção de leucopenia grave
-- Mapear as especificidades epidemiológicas da DII no Brasil para adequação da estratégia terapêutica e regulatória local
+- Verificar a disponibilidade comercial da azatioprina no Brasil (todos os registros cancelados) e a situação regulatória atual.
+- Obter as advertências e contraindicações da bula na ANVISA.
+- Complementar os dados do mecanismo de ação.
+- Implementar protocolo de segurança: genotipagem de TPMT/NUDT15, hemograma e função hepática periódicos, e vigilância de infecções e neoplasias.
+- Revisar o risco de interações, em especial com aminossalicilatos e alopurinol.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

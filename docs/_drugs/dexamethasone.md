@@ -2,7 +2,7 @@
 layout: default
 title: Dexamethasone
 parent: Evidência Alta (L1-L2)
-nav_order: 216
+nav_order: 259
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,92 +29,89 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
----
-
-# Dexamethasona: Da Imunossupressão Sistêmica à Alopecia Areata
+# Dexametasona: De glicocorticoide sistêmico e oftálmico à alopecia areata
 
 ## Resumo em Uma Frase
 
-Dexamethasona é um corticosteroide sintético de alta potência, amplamente utilizado no tratamento de condições inflamatórias, autoimunes e como suporte em protocolos oncológicos.
-O modelo TxGNN prevê que pode ser eficaz para **Alopecia Areata (Alopecia Areata)**, uma forma autoimune de perda de cabelo,
-atualmente com **nenhum ensaio clínico dedicado registrado**, mas com **20 publicações** — incluindo 1 ensaio clínico randomizado, 1 revisão sistemática com meta-análise em rede e múltiplas coortes prospectivas — apoiando esta direção.
-
----
+Dexametasona é um glicocorticoide potente, registrado no Brasil como glicocorticoide sistêmico, glicocorticoide oftálmico tópico e em associações com anti-infecciosos oftálmicos.
+O modelo TxGNN prevê que pode ser eficaz para **Alopecia Areata (alopecia areata)**,
+atualmente com **nenhum ensaio clínico registrado** e **20 publicações** recuperadas (das quais cerca de 10 abordam diretamente o uso de dexametasona na doença).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Glicocorticoide sistêmico — imunossupressão, inflamação, suporte oncológico (dados regulatórios não disponíveis no sistema) |
-| Nova Indicação Prevista | Alopecia Areata (Alopecia Areata) |
+| Indicação Original | Glicocorticoides sistêmicos |
+| Nova Indicação Prevista | Alopecia Areata (alopecia areata) |
 | Pontuação de Previsão TxGNN | 99,99% |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Não registrado (sem dados no sistema ANVISA) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-A dexamethasona é um glicocorticoide sintético que se liga ao receptor de glucocorticoide (GR) intracelular, desencadeando supressão potente da resposta imune: inibe a produção de citocinas pró-inflamatórias (IL-2, IFN-γ), bloqueia a ativação e proliferação de células T e reduz a expressão de moléculas de adesão. Este mecanismo é a base de seu uso consolidado em múltiplas condições autoimunes e inflamatórias.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a dexametasona é um glicocorticoide potente, com eficácia anti-inflamatória e imunossupressora estabelecida, e mecanisticamente pode ser aplicável à alopecia areata.
 
-A alopecia areata é uma doença autoimune em que células T CD8+ atacam os folículos pilosos, destruindo a "imunoprivilégio" local e desencadeando a queda de cabelo. A conexão mecanística com a dexamethasona é, portanto, direta: ao bloquear a ativação das células T CD8+ e suprimir as citocinas inflamatórias responsáveis pelo dano folicular, o fármaco pode interromper o processo patológico. O regime denominado "mini-pulse" — tipicamente 5 mg oral em dois dias consecutivos por semana, ou pulso intravenoso mensal — foi desenvolvido especificamente para equilibrar eficácia imunossupressora com menor risco de supressão do eixo hipotálamo-hipófise-adrenal (HPA), tornando-se um regime de segunda linha estabelecido em dermatologia.
+A alopecia areata é uma doença autoimune em que células T atacam o folículo piloso, com colapso do privilégio imune. Um glicocorticoide sistêmico suprime esse ataque mediado por linfócitos T. O esquema de minipulso oral (por exemplo, 5 mg em dois dias consecutivos por semana) é uma estratégia sistêmica consolidada para a doença moderada a grave. A dexametasona também é usada como terapia de resgate ou adjuvante junto a inibidores de JAK, como o baricitinibe.
 
-A analogia entre a indicação original (imunossupressão sistêmica) e a nova indicação (AA de etiologia autoimune) é direta e bem fundamentada mecanisticamente, o que explica tanto a alta pontuação do modelo TxGNN (99,99%) quanto a existência de literatura clínica substancial em múltiplos desenhos de estudo apoiando este uso.
-
----
+Assim, a previsão do TxGNN é coerente com o mecanismo e com a literatura clínica disponível. Como o uso original já é de corticoide sistêmico, a nova indicação representa, na prática, a extensão de uma classe terapêutica já conhecida a outra doença imunomediada.
 
 ## Evidências de Ensaios Clínicos
 
-> ⚠️ **Nota sobre relevância:** Os ensaios clínicos recuperados pelo sistema utilizaram dexamethasona predominantemente como medicação adjuvante (pré-medicação, antiemético, manejo de edema) em protocolos oncológicos — não como tratamento primário para alopecia areata. Não foi identificado nenhum ensaio clínico registrado no ClinicalTrials.gov com dexamethasona como intervenção principal para AA. A literatura clínica (seção abaixo) constitui a fonte de evidências direta mais relevante.
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT04343560](https://clinicaltrials.gov/study/NCT04343560) | N/A | Concluído | 380 | Estudo observacional sobre efeitos do metabolismo anormal de esteroides na densidade e qualidade óssea, remodelação e composição corporal em pacientes com secreção autônoma de cortisol (MACS); fornece dados de segurança a longo prazo de corticosteroides |
-| [NCT02685826](https://clinicaltrials.gov/study/NCT02685826) | Phase 1/2 | Concluído | 56 | Durvalumab + Lenalidomida ± Dexametasona em mieloma múltiplo recém-diagnosticado; dexametasona como componente do regime imunomodulador, não como principal agente |
-| [NCT02288078](https://clinicaltrials.gov/study/NCT02288078) | Phase 2 | Desconhecido | 74 | Avaliação prospectiva e randomizada de dexametasona oral profilática para fadiga e mal-estar por Regorafenibe em câncer colorretal metastático; demonstra efeito anti-fadiga do corticoide |
-| [NCT01866449](https://clinicaltrials.gov/study/NCT01866449) | Phase 2 | Concluído | 24 | Cabazitaxel em glioblastoma refratário a Temozolomida; dexametasona utilizada para manejo de edema cerebral, demonstrando papel anti-inflamatório do SNC |
-| [NCT01126736](https://clinicaltrials.gov/study/NCT01126736) | Phase 1/2 | Concluído | 98 | Eribulina + Pemetrexede em CPNPC estágio IIIB/IV; dexametasona como pré-medicação obrigatória para Pemetrexede |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [36086930](https://pubmed.ncbi.nlm.nih.gov/36086930/) | 2022 | RCT | Dermatologic Therapy | ECR em 30 crianças com AA grave comparando mini-pulse de dexametasona oral vs. DPCP (difenicilopropenona); ambas as modalidades apresentaram eficácia, com dexametasona demonstrando respostas rápidas |
-| [39042154](https://pubmed.ncbi.nlm.nih.gov/39042154/) | 2024 | Systematic Review / Network Meta-analysis | Archives of Dermatological Research | Revisão sistemática e meta-análise em rede conforme PRISMA comparando corticosteroides sistêmicos, inibidores de JAK e imunoterapia de contato em AA grave (SALT ≥ 50%); corticosteroides sistêmicos com perfil de eficácia comparável |
-| [35330017](https://pubmed.ncbi.nlm.nih.gov/35330017/) | 2022 | Prospective Cohort | Journal of Clinical Medicine | Coorte prospectiva de vida real avaliando eficácia e segurança do mini-pulse oral de corticosteroides para AA; identificou fatores clínicos preditivos de boa resposta |
-| [41243342](https://pubmed.ncbi.nlm.nih.gov/41243342/) | 2025 | Case Series | Journal of Dermatological Treatment | Remissão durável de AA grave com mini-pulse de dexametasona oral em pacientes inelegíveis ou sem acesso a inibidores de JAK; revisão focada de alternativas ao JAKi |
-| [36070222](https://pubmed.ncbi.nlm.nih.gov/36070222/) | 2022 | Retrospective Cohort | Dermatologic Therapy | Estudo multicêntrico de mini-pulse oral de dexametasona para AA moderada a grave em subtipos extensos (totalis, universalis, multifocal), em contexto europeu com acesso limitado a JAKi |
-| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Clinical Review | Pediatric Dermatology | Revisão da literatura sobre pulsoterapia com corticosteroides em crianças com AA; avalia esquemas de dosagem, vias de administração e perfil de efeitos adversos em faixa etária pediátrica |
-| [31579982](https://pubmed.ncbi.nlm.nih.gov/31579982/) | 2019 | Observational Study | Dermatologic Therapy | 73 pacientes pediátricos com AA grave (>30% do couro cabeludo); pulsos IV mensais de dexametasona por 1 ou 3 dias; 67% de boa resposta (>50% de recrescimento), com seguimento estruturado |
-| [26179196](https://pubmed.ncbi.nlm.nih.gov/26179196/) | 2015 | Longitudinal Cohort | Dermatologic Therapy | Seguimento de longo prazo (mediana de 96 meses) de 65 crianças com AA afetando >30% do couro cabeludo tratadas com pulso oral de dexametasona; dados sobre manutenção da resposta e recidiva |
-| [16707886](https://pubmed.ncbi.nlm.nih.gov/16707886/) | 2006 | Comparative Study | Dermatology (Basel) | Comparação de três modalidades de corticosteroides sistêmicos em AA extensiva; análise de eficácia, taxa de recidiva e efeitos colaterais entre as diferentes estratégias posológicas |
-| [10535249](https://pubmed.ncbi.nlm.nih.gov/10535249/) | 1999 | Observational Study | Journal of Dermatology | 30 pacientes com AA extensiva (média de 4,2 anos de evolução) tratados com pulso oral de dexametasona 5 mg em 2 dias consecutivos por semana; avaliação de recrescimento de cabelo terminal após mínimo de 12 semanas |
+| [36086930](https://pubmed.ncbi.nlm.nih.gov/36086930/) | 2022 | RCT | Dermatologic Therapy | Estudo randomizado aberto com 30 crianças com alopecia areata grave: minipulso oral de dexametasona em baixa dose versus sensibilização de contato com difenciclopropenona |
+| [39042154](https://pubmed.ncbi.nlm.nih.gov/39042154/) | 2024 | Revisão sistemática / meta-análise em rede | Arch Dermatol Res | Compara corticoides sistêmicos, inibidores de JAK orais e imunoterapia de contato na alopecia areata grave |
+| [35330017](https://pubmed.ncbi.nlm.nih.gov/35330017/) | 2022 | Coorte prospectiva | J Clin Med | Dados de vida real sobre eficácia e segurança do minipulso de dexametasona e fatores associados à resposta |
+| [36070222](https://pubmed.ncbi.nlm.nih.gov/36070222/) | 2022 | Coorte multicêntrica | Dermatologic Therapy | Minipulso oral de dexametasona em alopecia areata moderada a grave |
+| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Revisão | Pediatric Dermatology | Revisão dos esquemas de dosagem de corticoide em pulso e dos efeitos adversos em crianças com alopecia areata |
+| [10535249](https://pubmed.ncbi.nlm.nih.gov/10535249/) | 1999 | Estudo clínico | J Dermatol | Pulso oral de 5 mg de dexametasona duas vezes por semana em 30 pacientes com alopecia areata extensa |
+| [31579982](https://pubmed.ncbi.nlm.nih.gov/31579982/) | 2019 | Estudo prospectivo | Dermatologic Therapy | Pulsos intravenosos de dexametasona (1 dia versus 3 dias) associados a clobetasol tópico em 73 crianças com alopecia areata grave |
+| [26179196](https://pubmed.ncbi.nlm.nih.gov/26179196/) | 2015 | Estudo de seguimento | Dermatologic Therapy | Pulso oral combinado com corticoide tópico em 65 crianças e adolescentes, com seguimento de longo prazo (mediana de 96 meses) |
+| [41872082](https://pubmed.ncbi.nlm.nih.gov/41872082/) | 2026 | Série retrospectiva | Eur J Dermatol | Estratégia escalonada com corticoide tópico e baricitinibe, seguida de resgate com dexametasona em pulso, em 19 pacientes |
+| [41243342](https://pubmed.ncbi.nlm.nih.gov/41243342/) | 2025 | Relato de caso | J Dermatol Treat | Remissão duradoura de alopecia areata grave com minipulso oral de dexametasona quando inibidores de JAK não são opção |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 20 registros constam como cancelados. Abaixo, os 5 principais:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 105830879 | Dexametasona | Não informada | Glicocorticoides sistêmicos |
+| Registro nº 115600100 | Dexaden | Não informada | Glicocorticoides sistêmicos |
+| Registro nº 100681097 | Maxidex | Não informada | Glicocorticoides tópicos oftálmicos simples |
+| Registro nº 105730303 | Decadron | Não informada | Glicocorticoides sistêmicos |
+| Registro nº 170420030 | Cloridrato de ciprofloxacino + dexametasona | Não informada | Anti-infecciosos tópicos, associações medicamentosas |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Condições associadas a contraindicação (base de conhecimento do TxGNN, não texto de bula)**: hipertensão, epilepsia, hiperglicemia, insuficiência cardíaca congestiva, sarampo, ceratite por herpes simples, defeitos do ciclo da ureia (deficiência de carbamoil-fosfato sintetase I, hiperargininemia, citrulinemia) e deficiências hipofisárias/hipogonadismo hipogonadotrófico (incluindo síndrome de Kallmann e síndrome de Sheehan).
+- **Interações medicamentosas** (100 registradas; exemplos):
+  - **Maior**: fentanila, adalimumabe.
+  - **Moderada**: zidovudina, paclitaxel, isotretinoína, acalabrutinibe, acarbose, acebutolol, codeína, di-hidrocodeína, acetazolamida, cetorolaco, nifedipino, ibuprofeno, abemaciclibe e toxoide tetânico.
+  - **Menor**: dolutegravir, lidocaína, formoterol.
 
----
+As advertências e contraindicações da bula aprovada pela ANVISA não estão disponíveis nos dados compilados; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Existe base mecanística sólida (imunossupressão GR-mediada direcionada ao mecanismo central da AA) e literatura clínica consistente — incluindo um ECR pediátrico, revisão sistemática com meta-análise em rede e múltiplas coortes prospectivas e longitudinais — que suporta o uso do regime mini-pulse de dexametasona para alopecia areata moderada a grave. O nível de evidência L2 e a ausência de ensaios clínicos dedicados registrados justificam avançar com cautela estruturada.
+Há um RCT (pediátrico, com 30 participantes), uma meta-análise em rede e várias coortes apoiando o minipulso de dexametasona na alopecia areata, o que sustenta o nível L2. Contudo, não há ensaios registrados, as evidências são em grande parte observacionais e de pequeno porte, e todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- **Verificar registros ANVISA:** O sistema não identificou registros ativos de dexametasona no Brasil, o que é inconsistente com o perfil clínico do fármaco; uma consulta direta à base de dados da ANVISA é prioritária
-- **Obter dados completos de segurança:** Advertências, contraindicações e interações medicamentosas da bula brasileira aprovada
-- **Definir protocolo de monitoramento:** Para o regime mini-pulse, estabelecer parâmetros de vigilância de glicemia, pressão arterial, densidade mineral óssea e supressão do eixo HPA
-- **Mapear posologia e cobertura regulatória:** Confirmar se o esquema mini-pulse (5 mg oral 2x/semana) está coberto pelas indicações aprovadas existentes ou requer uso off-label estruturado
-- **Análise comparativa com inibidores de JAK:** Baricitinibe e ritlecitinibe receberam aprovações recentes para AA; definir o posicionamento terapêutico relativo da dexamethasona (custo, acesso, populações específicas como gestantes ou pacientes imunossuprimidos)
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), pendência que bloqueia a triagem de segurança.
+- Esclarecer a situação regulatória: não há registro válido atualmente, sendo necessário avaliar nova submissão ou registro vigente de outra apresentação.
+- Obter dados detalhados do mecanismo de ação (MOA).
+- Definir esquema e via de administração (minipulso oral ou pulso intravenoso) e plano de monitoramento de segurança (glicemia, pressão arterial, eixo hipotálamo-hipófise-adrenal, crescimento em crianças), além de conferir interações relevantes.
+- Planejar ensaio controlado maior, comparando com inibidores de JAK, dada a taxa de recidiva e os efeitos adversos do uso sistêmico prolongado.
+- Observação: as demais indicações previstas (por exemplo, alopecia mucinosa, eflúvio telógeno, foliculite decalvante) têm nível L5 e recomendação Hold, sem evidências de suporte.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

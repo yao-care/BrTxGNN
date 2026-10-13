@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Hydrocortisone Acetate
-parent: Evidência Alta (L1-L2)
-nav_order: 275
-evidence_level: L2
+parent: Apenas Predição do Modelo (L5)
+nav_order: 356
+evidence_level: L5
 indication_count: 10
 ---
 
 # Hydrocortisone Acetate
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,79 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-A skill foi verificada. Agora vou gerar o relatório com base no Evidence Pack fornecido.
-
----
-
-# Hydrocortisone Acetate: De inflamação cutânea para Alopecia Areata
+# Acetato de Hidrocortisona: De glicocorticoide tópico e anti-hemorroidário à alopecia areata
 
 ## Resumo em Uma Frase
 
-Hydrocortisone Acetate é um corticosteroide tópico de baixa potência, classicamente utilizado no tratamento de condições inflamatórias da pele como dermatite de contato e eczema.
-O modelo TxGNN prevê que pode ser eficaz para **Alopecia Areata (alopecia areata)**, com **1 ensaio clínico** e **2 publicações** apoiando esta direção.
-
----
+O acetato de hidrocortisona é um glicocorticoide de baixa potência, registrado no Brasil como glicocorticoide tópico, anti-inflamatório/antirreumático e anti-hemorroidário tópico.
+O modelo TxGNN prevê que pode ser eficaz para **alopecia areata (Alopecia Areata)**,
+atualmente com **1 ensaio clínico** (Phase 3, no qual a hidrocortisona foi usada como comparador) e **2 publicações** antigas (1973 e 1979) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Inflamação cutânea / dermatites (sem registro formal no Brasil) |
-| Nova Indicação Prevista | Alopecia Areata (alopecia areata) |
-| Pontuação de Previsão TxGNN | 99.94% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Indicação Original | Glicocorticoides tópicos simples, exceto uso oftálmico |
+| Nova Indicação Prevista | Alopecia areata (Alopecia Areata) |
+| Pontuação de Previsão TxGNN | 99,94% |
+| Nível de Evidência | L1 (formalmente, por um Phase 3 RCT concluído; na prática, evidência fraca, ver ressalvas abaixo) |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 6 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Hydrocortisone Acetate é a forma éster acetato do cortisol (hidrocortisona natural), um glicocorticoide endógeno. Embora os dados detalhados de mecanismo de ação não estejam disponíveis no pacote de evidências, sabe-se que o fármaco age ligando-se ao receptor de glucocorticoide (GR), suprimindo a via NF-κB e reduzindo a produção de citocinas pró-inflamatórias como IL-1, IL-2 e TNF-α. Essa ação imunossupressora está bem estabelecida na literatura dermatológica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação neste material. Segundo informações conhecidas, a hidrocortisona é um glicocorticoide com efeito anti-inflamatório e imunossupressor, e sua eficácia em condições inflamatórias da pele e das hemorroidas está de acordo com seus registros no Brasil.
 
-A alopecia areata é uma doença autoimune em que linfócitos CD8⁺ perdem a tolerância ao folículo piloso, destruindo o seu "privilégio imune" e causando queda de cabelo em placas. Ao suprimir a ativação das células T e reduzir a inflamação perifolicular, os glicocorticoides agem diretamente sobre esse mecanismo patológico — tornando a previsão do TxGNN biologicamente plausível.
+A alopecia areata é uma doença autoimune em que células T atacam os folículos pilosos. Um glicocorticoide pode reduzir a inflamação ao redor do folículo, o que é coerente com o uso consagrado de corticoides intralesionais e tópicos nessa doença.
 
-A principal ressalva é que o hydrocortisone acetate pertence à classe de **corticosteroides de baixa potência** (Classe VI–VII na escala americana), o que pode limitar sua eficácia terapêutica comparado a agentes de maior potência como o clobetasol propionato. O único ensaio clínico de Fase 3 identificado posiciona o hydrocortisone 1% como grupo de comparação contra o clobetasol 0,05% em crianças, o que sugere que ele pode funcionar melhor como referência de segurança do que como tratamento de primeira linha.
-
----
+Há, porém, limitações importantes. A hidrocortisona é um corticoide de baixa potência, e o único ensaio disponível a utiliza como comparador de um corticoide de alta potência (clobetasol), sem demonstrar sua eficácia própria. Além disso, o ensaio usou creme de hidrocortisona 1% (provavelmente base), e não o sal acetato. O benefício esperado é, portanto, provavelmente modesto.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT01453686](https://clinicaltrials.gov/study/NCT01453686) | Phase 3 | Concluído | 41 | Ensaio randomizado comparando clobetasol propionato 0,05% creme vs. hydrocortisone 1% creme em crianças com alopecia areata. Avalia qual potência de corticoide tópico é segura e eficaz para uso pediátrico. Hydrocortisone atua como controle de menor potência. |
-
----
+| [NCT01453686](https://clinicaltrials.gov/study/NCT01453686) | Phase 3 | Concluído | 41 | Estudo randomizado em crianças com alopecia areata comparando creme de clobetasol propionato 0,05% com creme de hidrocortisona 1%. A hidrocortisona serve como comparador de baixa potência; o estudo testa a superioridade do clobetasol e não estabelece a eficácia da hidrocortisona. Amostra pequena (2002–2003). |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [4755919](https://pubmed.ncbi.nlm.nih.gov/4755919/) | 1973 | Case Series / Observacional | Przeglad dermatologiczny | Relata tratamento de formas graves de alopecia areata com injeções subcutâneas intralesionais de suspensão de hydrocortisone acetate, demonstrando aplicação direta do fármaco na indicação prevista. |
-| [153470](https://pubmed.ncbi.nlm.nih.gov/153470/) | 1979 | Revisão Narrativa | MMW Münchener Med. Wochenschrift | Revisão de terapias tópicas para doenças dermatológicas; aborda hydrocortisone acetate como referência anti-inflamatória e compara ao novo corticoide fluocortina butil éster, com destaque para perfil de efeitos sistêmicos. |
+| [4755919](https://pubmed.ncbi.nlm.nih.gov/4755919/) | 1973 | Série de casos | Przeglad Dermatologiczny | Tratamento de formas graves de alopecia areata com injeções intralesionais/subcutâneas de suspensão de acetato de hidrocortisona (artigo em polonês, sem resumo disponível). |
+| [153470](https://pubmed.ncbi.nlm.nih.gov/153470/) | 1979 | Revisão | MMW Munch Med Wochenschr | Panorama da terapia tópica em doenças de pele; o efeito anti-inflamatório do fluocortina butil éster é aproximadamente igual ao do acetato de hidrocortisona. Não é específico para alopecia areata. |
 
----
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 104971333 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado) |
+| Registro 103700527 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado) |
+| Registro 103700768 | Acecorthyl | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado) |
+| Registro 104971404 | Cortigen | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado) |
+| Registro 104970020 | Cortisonal | Não informada | Anti-inflamatórios e antirreumáticos – associações medicamentosas (cancelado) |
+
+Há ainda um sexto registro cancelado (Xyloproct, nº 137640159), com indicação de anti-hemorroidário tópico.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações previstas pelo grafo de conhecimento (não extraídas da bula):** hipertensão, epilepsia, úlcera gástrica, doença renal, doença hepática, doença da vesícula biliar, hiperglicemia, sarampo, ceratite por herpes simples, além de diversas deficiências hipofisárias e hipogonadismo hipogonadotrófico (incluindo síndrome de Kallmann e síndrome de Sheehan).
+- Considerações específicas para a indicação prevista: em condições com deficiência de anticorpos, glicocorticoides imunossupressores podem ser contraproducentes.
 
----
+Para advertências, contraindicações formais e interações medicamentosas, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Existe um ensaio clínico de Fase 3 concluído que avaliou diretamente o hydrocortisone 1% em alopecia areata pediátrica, e a ligação mecanística entre o glicocorticoide e a fisiopatologia autoimune da doença é biologicamente sólida. No entanto, a baixa potência do fármaco, a ausência total de registro na ANVISA e a falta de dados de segurança disponíveis impõem cautela antes de qualquer avanço clínico no Brasil.
+Embora exista formalmente um Phase 3 RCT concluído em alopecia areata, a hidrocortisona atuou apenas como comparador de baixa potência, em amostra pequena e em formulação diferente (1% creme, não acetato). A literatura é antiga e de baixa qualidade, e todos os registros brasileiros estão cancelados, sem produto comercializado.
 
 **Para prosseguir, é necessário:**
-- Obter os resultados completos do ensaio NCT01453686 para confirmar se o hydrocortisone demonstrou eficácia independente ou funcionou apenas como controle inferior ao clobetasol
-- Levantar dados de segurança (advertências, contraindicações) via bula em outros mercados (ex.: EMA, FDA) ou DrugBank, dado que os dados locais estão indisponíveis
-- Avaliar a viabilidade de registro na ANVISA antes de qualquer protocolo de estudo clínico no Brasil
-- Definir a via de administração mais adequada para alopecia areata: tópica (creme 1%), intralesional (suspensão injetável) ou combinada
-- Considerar se o desenvolvimento clínico faz mais sentido posicionando o fármaco como **opção de menor risco em crianças** ou populações com contraindicação a corticosteroides de alta potência
+- Obter e analisar a bula na ANVISA para advertências e contraindicações (lacuna bloqueante para a triagem de segurança)
+- Obter dados do mecanismo de ação no DrugBank
+- Avaliar o resultado do ensaio NCT01453686 especificamente quanto ao braço de hidrocortisona
+- Comparar com corticoides mais potentes e terapias já estabelecidas para alopecia areata, definindo via de administração e formulação (tópica ou intralesional) e sua disponibilidade no Brasil
+- Outras indicações previstas (eflúvio telógeno, alopecia mucinosa, foliculite decalvante, entre outras) têm apenas previsão do modelo (L5) e permanecem em Hold
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

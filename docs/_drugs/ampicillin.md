@@ -2,7 +2,7 @@
 layout: default
 title: Ampicillin
 parent: Evidência Moderada (L3-L4)
-nav_order: 59
+nav_order: 65
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,90 +29,88 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Ampicillin: De infecções bacterianas à laringite
+# Ampicilina: De penicilina de amplo espectro para laringite
 
 ## Resumo em Uma Frase
 
-Ampicillin é um antibiótico β-lactâmico de amplo espectro historicamente utilizado no tratamento de diversas infecções bacterianas por gram-positivos e gram-negativos sensíveis.
-O modelo TxGNN prevê que pode ser eficaz para **Laringite (Laryngitis)**, com pontuação de previsão de **99,97%**.
-Atualmente, há **1 ensaio clínico** e **20 publicações** oferecendo suporte — majoritariamente indireto — a esta direção.
-
----
+Ampicilina é uma penicilina de amplo espectro, originalmente usada como antibiótico sistêmico no tratamento de infecções bacterianas.
+O modelo TxGNN prevê que pode ser eficaz para **Laringite (Laryngitis)**, mas atualmente **não há ensaios clínicos registrados** e as **19 publicações** recuperadas são indiretas (epiglotite, abscessos e profilaxia cirúrgica, não laringite propriamente dita).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções bacterianas de amplo espectro |
+| Indicação Original | Penicilina de amplo espectro |
 | Nova Indicação Prevista | Laringite (Laryngitis) |
 | Pontuação de Previsão TxGNN | 99,97% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Research Question |
-
----
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Os dados de mecanismo de ação não estavam disponíveis no banco de dados consultado. Com base em conhecimento farmacológico consolidado, Ampicillin é um antibiótico β-lactâmico de amplo espectro que inibe a síntese da parede celular bacteriana por ligação covalente às Proteínas Ligadoras de Penicilina (PBPs), bloqueando a transpeptidação do peptidoglicano. Esse mecanismo é eficaz contra bactérias gram-positivas — incluindo *Streptococcus* spp. e *Actinomyces* spp. — e gram-negativas não produtoras de β-lactamase, como cepas sensíveis de *Haemophilus influenzae*.
+Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a ampicilina é uma aminopenicilina de amplo espectro que inibe a síntese da parede celular bacteriana, e sua eficácia em infecções bacterianas sistêmicas é estabelecida.
 
-A laringite é predominantemente de etiologia viral (>90% dos casos), mas a laringite bacteriana — que inclui epiglotite aguda, abscesso perilaríngeo e laringite actinomicótica — é causada por *H. influenzae*, *Streptococcus* spp. e *Actinomyces* spp., patógenos com sensibilidade teórica ao Ampicillin. A conexão mecanística é, portanto, plausível para o subgrupo bacteriano dessas condições.
+A relação com a nova indicação é indireta. Infecções bacterianas da laringe, como a epiglotite (causada por *Haemophilus influenzae* tipo b) e abscessos laríngeos ou cervicais profundos, podem ser suscetíveis ao fármaco. Porém, a maior parte das laringites é viral, e os antibióticos não têm papel nesses casos.
 
-Historicamente, o Ampicillin foi utilizado como terapia inicial para epiglotite aguda em crianças nas décadas de 1970 a 1990, conforme documentado em múltiplas séries de casos da literatura. No entanto, a ascensão de *H. influenzae* produtores de β-lactamase (PPNG/BLNAR) deslocou o Ampicillin em monoterapia para segundo plano, sendo atualmente preterido em favor de Amoxicillin/Clavulanato ou cefalosporinas de terceira geração. O único ensaio clínico identificado (NCT01406275) avaliou CLAVAMOX® (Amoxicillin/Clavulanato) — e não o Ampicillin especificamente —, indicando que a evidência clínica direta para esta indicação é restrita a relatos históricos.
-
----
+Além disso, a literatura recuperada trata de epiglotite, abscessos e profilaxia perioperatória em laringectomia, e não de laringite em si. A pontuação alta do modelo, portanto, não é sustentada por evidência clínica direta.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT01406275](https://clinicaltrials.gov/study/NCT01406275) | N/A | Concluído | 363 | Estudo pós-comercialização (PMS) do CLAVAMOX® pediátrico em pó para suspensão no Japão, cobrindo diversas infecções incluindo laringite. Não é um RCT específico para laringite nem para Ampicillin; relevância limitada à classe dos β-lactâmicos |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
+Foram recuperadas 19 publicações; abaixo estão as mais relevantes (nenhuma é RCT para laringite).
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [3977063](https://pubmed.ncbi.nlm.nih.gov/3977063/) | 1985 | Série de casos retrospectiva | Anaesthesia and Intensive Care | Revisão de 161 crianças com epiglotite aguda (1975–1984); documenta o uso histórico do Ampicillin como antibiótico inicial padrão no período, com 5 óbitos em 34 pacientes com complicações |
-| [5314768](https://pubmed.ncbi.nlm.nih.gov/5314768/) | 1971 | Série de casos retrospectiva | British Medical Journal | Série histórica de epiglotite em adultos com Ampicillin como tratamento antibiótico da época; marco inicial para uso de β-lactâmicos na epiglotite |
-| [6465636](https://pubmed.ncbi.nlm.nih.gov/6465636/) | 1984 | Série de casos | Annals of Emergency Medicine | Três adultos com epiglotite aguda; curso benigno nos três casos; discute papel dos antibióticos e risco de obstrução aguda das vias aéreas superiores |
-| [3347186](https://pubmed.ncbi.nlm.nih.gov/3347186/) | 1988 | Série de casos | Medical Journal of Australia | Três pacientes adultos com epiglotite; enfatiza variabilidade da apresentação clínica e discussão sobre antibioticoterapia com β-lactâmicos |
-| [30579693](https://pubmed.ncbi.nlm.nih.gov/30579693/) | 2019 | Relato de caso | Auris, Nasus, Larynx | Laringite actinomicótica pós-transplante de medula óssea em adolescente de 14 anos; resolução com curso prolongado de penicilina, corroborando o papel dos β-lactâmicos em laringite bacteriana incomum |
-| [24930374](https://pubmed.ncbi.nlm.nih.gov/24930374/) | 2014 | Relato de caso | Journal of Voice | Actinomicose laríngea em paciente de 74 anos com neutropenia induzida por quimioterapia; infecção resolvida após curso prolongado de penicilina — única referência direta a β-lactâmico na laringite actinomicótica em imunocomprometido |
-| [12402494](https://pubmed.ncbi.nlm.nih.gov/12402494/) | 2002 | Série de casos | Acta Otorrinolaringológica Española | Dois casos de abscesso laríngeo no espaço paraglótico; revisão de literatura sobre esta entidade rara e potencialmente fatal, com uso de β-lactâmicos no manejo |
-| [35923122](https://pubmed.ncbi.nlm.nih.gov/35923122/) | 2023 | Relato de caso + revisão de literatura | Annals of Otology, Rhinology & Laryngology | Caso moderno de abscesso laríngeo espontâneo em paciente diabético; revisão histórica documenta associação com infecções sistêmicas e o papel dos antibióticos na era moderna |
-| [39879424](https://pubmed.ncbi.nlm.nih.gov/39879424/) | 2025 | Avaliação metodológica de diretrizes | CoDAS | Avaliação da qualidade de diretrizes clínicas para laringite e faringite pelo instrumento AGREE II; referência para identificar lacunas no manejo padronizado dessas condições |
-| [8651625](https://pubmed.ncbi.nlm.nih.gov/8651625/) | 1996 | Série de casos retrospectiva | Annals of Otology, Rhinology & Laryngology | Manifestações laringotraqueais da rinoscleroma (infecção por *Klebsiella rhinoscleromatis*); tratamento precoce com tetraciclina oral é eficaz — ilustra a diversidade etiológica da laringite bacteriana |
+| [25944348](https://pubmed.ncbi.nlm.nih.gov/25944348/) | 2015 | Coorte | Otolaryngol Head Neck Surg | Avalia a relação entre a escolha do antibiótico perioperatório em laringectomia e complicações (infecção de sítio cirúrgico, deiscência) |
+| [38145982](https://pubmed.ncbi.nlm.nih.gov/38145982/) | 2024 | Coorte | Eur Arch Otorhinolaryngol | Microbiologia e estratégia de antibióticos em abscessos cervicais de pacientes com diabetes |
+| [3026014](https://pubmed.ncbi.nlm.nih.gov/3026014/) | 1986 | Revisão | Rev Infect Dis | Sulbactam/ampicilina no tratamento da epiglotite aguda em crianças, diante da resistência de Hib produtor de beta-lactamase |
+| [3977063](https://pubmed.ncbi.nlm.nih.gov/3977063/) | 1985 | Revisão | Anaesth Intensive Care | 161 crianças com epiglotite aguda: 45 complicações e 5 óbitos; ênfase no manejo da via aérea |
+| [2603419](https://pubmed.ncbi.nlm.nih.gov/2603419/) | 1989 | Revisão | West J Med | 9 adultos com epiglotite aguda; 4 necessitaram de intubação |
+| [3322611](https://pubmed.ncbi.nlm.nih.gov/3322611/) | 1987 | Série retrospectiva | Clin Otolaryngol | 19 casos de epiglotite em adultos; bacteriologia e princípios terapêuticos |
+| [35923122](https://pubmed.ncbi.nlm.nih.gov/35923122/) | 2023 | Revisão/Relato de caso | Ann Otol Rhinol Laryngol | Abscesso laríngeo espontâneo é raro na era moderna dos antibióticos |
+| [6881564](https://pubmed.ncbi.nlm.nih.gov/6881564/) | 1983 | Série clínica | Anesth Analg | 23 crianças com epiglotite tratadas com ampicilina ou cloranfenicol; duração da intubação e da febre |
+| [3290661](https://pubmed.ncbi.nlm.nih.gov/3290661/) | 1988 | Série clínica | Monatsschr Kinderheilkd | Mudança na resistência do Hib à ampicilina e consequências terapêuticas na epiglotite |
+| [41536375](https://pubmed.ncbi.nlm.nih.gov/41536375/) | 2025 | Relato de caso | Cureus | Reconsideração do diagnóstico diferencial de crupe |
 
----
+## Informações de Comercialização no Brasil
 
-## Situação no Mercado Brasileiro
+Todos os 20 registros estão cancelados. Principais registros:
 
-Ampicillin (DrugBank ID: DB00415) **não possui registros ativos na ANVISA**. O medicamento não está comercializado no mercado brasileiro, o que representa uma barreira regulatória relevante para qualquer desenvolvimento clínico neste contexto.
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 103700299 | Ampicilina Sódica | Não informada | Penicilina de amplo espectro |
+| Registro nº 116370098 | Cilinon | Não informada | Penicilina de amplo espectro |
+| Registro nº 100410185 | Amplatil | Não informada | Antiinfecciosos |
+| Registro nº 100430793 | Sulbactam Sódico + Ampicilina Sódica | Não informada | Antibióticos sistêmicos simples |
+| Registro nº 174200008 | Ampicilina Sódica + Sulbactam Sódica | Não informada | Antibióticos sistêmicos - associações medicamentosas |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações e condições de risco (grafo de conhecimento, não texto de bula)**: doença renal e função renal comprometida, doenças hematológicas, doença ulcerosa péptica, colite por *Clostridium difficile*, enterocolite necrosante perinatal, mononucleose infecciosa, síndrome crônica de infecção por vírus Epstein-Barr, nefropatia aguda por urato e piureter.
+- **Interações medicamentosas**: foram identificadas 61 interações. As de gravidade moderada incluem doxiciclina, minociclina, tetraciclina, canamicina, balsalazida, lansoprazol, dexlansoprazol e ácido picossulfúrico. A claritromicina tem interação leve. Outras (omeprazol, pantoprazol, ranitidina, morfina, vancomicina, lactulose, prednisona, prednisolona, hidrocortisona, nistatina, cloreto de potássio) têm gravidade não classificada.
 
----
+Para advertências principais e contraindicações da bula, consulte a bula do medicamento.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Research Question**
+**Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN é mecanisticamente plausível para laringite bacteriana — especialmente para subtipos causados por *H. influenzae* sensível, *Streptococcus* spp. e *Actinomyces* spp. — mas a evidência clínica direta para o Ampicillin nesta indicação é restrita a relatos históricos e séries de casos (nível L4), sem ensaios clínicos controlados específicos, e a resistência bacteriana por β-lactamase constitui uma limitação terapêutica crescente.
+- A previsão tem pontuação alta no modelo, mas não há ensaios clínicos e a literatura é indireta (epiglotite, abscessos, profilaxia), sem dados de eficácia para laringite, em geral de origem viral.
+- No Brasil, todos os 20 registros estão cancelados, o que impede uso imediato.
 
 **Para prosseguir, é necessário:**
-- Obter dados de mecanismo de ação (MOA) via DrugBank API para embasar a análise farmacológica formal
-- Levantar dados de segurança completos (advertências, contraindicações, interações) por meio da bula oficial / ANVISA
-- Conduzir ou identificar ensaios clínicos controlados direcionados especificamente ao Ampicillin em laringite bacteriana confirmada microbiologicamente
-- Realizar mapeamento de sensibilidade microbiológica local para os principais patógenos laríngeos, considerando taxas de resistência a β-lactamases no Brasil
-- Avaliar viabilidade de registro na ANVISA como pré-requisito regulatório para qualquer desenvolvimento comercial no mercado brasileiro
+- Dados de mecanismo de ação e de advertências e contraindicações da bula (lacunas atuais).
+- Estudos clínicos que avaliem a ampicilina especificamente em laringite bacteriana, distinguindo-a das causas virais.
+- Esclarecer a situação regulatória e o motivo dos cancelamentos dos registros.
+- Comparação com alternativas atuais para infecções laríngeas bacterianas, considerando a resistência por beta-lactamase.
+
+**Observação sobre outras previsões:** as demais indicações previstas (uretrite gonocócica, rinossinusite crônica, gengivite, conjuntivite, pericoronite, artrite bacteriana, entre outras) também receberam recomendação Hold. A uretrite gonocócica tem estudos comparativos históricos (nível L3), mas trata-se de uso já estabelecido e hoje obsoleto por resistência.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

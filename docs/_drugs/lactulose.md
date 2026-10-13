@@ -2,7 +2,7 @@
 layout: default
 title: Lactulose
 parent: Apenas Predição do Modelo (L5)
-nav_order: 297
+nav_order: 387
 evidence_level: L5
 indication_count: 8
 ---
@@ -33,71 +33,58 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 ## Resumo em Uma Frase
 
-Lactulose é um dissacarídeo sintético não absorvível, amplamente utilizado no tratamento da constipação intestinal e da encefalopatia hepática. O modelo TxGNN prevê que pode ser eficaz para **Nefropatia Aguda por Urato (Acute Urate Nephropathy)**, com pontuação de **99,89%** — porém, atualmente **não há ensaios clínicos nem publicações** diretamente apoiando essa direção.
+Lactulose é um laxante osmótico, originalmente usado no tratamento da encefalopatia hepática, do coma hepático e da constipação.
+O modelo TxGNN prevê que pode ser eficaz para **Nefropatia Aguda por Urato (Acute Urate Nephropathy)**, mas **não há ensaios clínicos nem publicações** apoiando esta previsão específica; trata-se apenas de uma previsão computacional.
 
----
+> Nota: entre as demais indicações previstas, a **icterícia obstrutiva** (3ª posição) é a que reúne mais literatura (20 publicações, nível L3). Ela é discutida na conclusão como alternativa de maior interesse.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Encefalopatia hepática / Constipação intestinal (dados detalhados de registro indisponíveis neste pack) |
+| Indicação Original | Encefalopatia hepática; coma hepático; constipação (conforme o grafo de conhecimento do TxGNN, pois não há texto de indicação aprovado no Brasil) |
 | Nova Indicação Prevista | Nefropatia Aguda por Urato (Acute Urate Nephropathy) |
 | Pontuação de Previsão TxGNN | 99,89% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 19 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Com base no conhecimento farmacológico estabelecido, a lactulose é um dissacarídeo não absorvível fermentado pela microbiota do cólon, gerando ácidos graxos de cadeia curta que acidificam o ambiente intestinal e produzem efeito osmótico laxante. Essa acidificação do cólon é também o mecanismo central pelo qual a lactulose reduz a absorção intestinal de amônia, sendo aplicada há décadas no tratamento da encefalopatia hepática.
+Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a lactulose é um dissacarídeo não absorvível que atua como laxante osmótico, acidifica o cólon e reduz a absorção de amônia. Sua eficácia na encefalopatia hepática e na constipação é bem estabelecida.
 
-A nefropatia aguda por urato (NAU) é uma complicação comum da síndrome de lise tumoral, em que cristais de ácido úrico se depositam nos túbulos renais, desencadeando insuficiência renal aguda. A lactulose não possui ação direta sobre o metabolismo do ácido úrico. O caminho mecanístico especulativo proposto envolve a excreção intestinal de urato: certas bactérias intestinais (como *Lactobacillus gasseri* e *Bifidobacterium*) são capazes de degradar urato; ao modificar a composição da microbiota intestinal, a lactulose poderia teoricamente aumentar essa degradação, reduzindo a carga sistêmica de urato.
+Para a nefropatia aguda por urato, **não se identifica um mecanismo plausível** nos dados disponíveis. Essa condição envolve a precipitação de cristais de ácido úrico nos túbulos renais, e a lactulose não tem efeito conhecido sobre o manejo do ácido úrico. A pontuação elevada (0,999) reflete apenas a previsão do modelo, sem respaldo clínico ou da literatura.
 
-Esse caminho indireto, porém, carece completamente de suporte em estudos clínicos ou em modelos animais para esta indicação específica. A alta pontuação do TxGNN reflete provavelmente a conectividade indireta no grafo do conhecimento entre nós de "lesão renal aguda" e nós de "proteção renal" vinculados à lactulose — e não uma relação farmacológica direta. Trata-se de um sinal de hipótese, não de indicação terapêutica estabelecida.
-
----
+Por isso, esta previsão deve ser tratada com cautela até que haja algum dado de apoio.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 Atualmente não há literatura relacionada.
 
----
-
-## Informações de Comercialização no Brasil
-
-Os dados individuais dos 19 registros (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste Evidence Pack. A situação geral de mercado confirma que a lactulose está **comercializada no Brasil** com 19 registros ativos.
-
----
-
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (derivadas do grafo de conhecimento, não do texto da bula)**: diabetes mellitus, cetoacidose diabética, apendicite, galactosemia, doença de depósito de glicogênio, deficiência de G6PD, cistinúria e má absorção de glicose-galactose.
+- **Interações Medicamentosas**: foram identificadas 100 interações; as 20 listadas nos dados compilados são, em sua maioria, de gravidade moderada. Entre elas: abiraterona, tramadol, acetazolamida, hidrocortisona, salbutamol, alfuzosina, hidroclorotiazida, amilorida, amiodarona, amissulprida, anagrelida, propofol, apalutamida, apomorfina, triancinolona, trióxido de arsênio, lumefantrina, asenapina e atomoxetina. A interação com citrato de sódio é de gravidade menor.
 
----
+Para advertências principais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para nefropatia aguda por urato não possui suporte de ensaios clínicos nem de literatura diretamente relacionada. O caminho mecanístico proposto — modulação da microbiota intestinal para aumentar a degradação de urato — é altamente especulativo e carece de qualquer validação experimental, tornando prematuro qualquer avanço clínico nesta direção.
+- A previsão para nefropatia aguda por urato não tem ensaios, publicações nem mecanismo plausível (L5). Como não há registro no Brasil, o acesso ao produto também seria uma barreira.
 
 **Para prosseguir, é necessário:**
-- Estudos mecanísticos *in vitro* / *in vivo* investigando o efeito da lactulose sobre a excreção intestinal de urato e a microbiota associada
-- Modelos animais de síndrome de lise tumoral com avaliação do papel da microbiota intestinal na clearance de urato
-- Dados detalhados dos 19 registros ANVISA (indicações aprovadas, formas farmacêuticas e posologia)
-- Mecanismo de ação completo (MOA) obtido via consulta ao DrugBank API
-- Informações de segurança da bula brasileira (advertências, contraindicações)
+- Dados de mecanismo de ação (MOA) e relação plausível entre lactulose e o metabolismo/excreção de urato.
+- Estudos pré-clínicos que sustentem a hipótese.
+- Texto de bula e informações regulatórias da ANVISA (advertências e contraindicações), atualmente ausentes.
+- Considerar priorizar a **icterícia obstrutiva** (nível L3): a literatura sugere que a lactulose pode reduzir a endotoxemia e a translocação bacteriana, com possível proteção renal no perioperatório. Existe um estudo randomizado com 102 pacientes (Pain et al., 1991; PMID 2032107), mas os resultados são antigos, de qualidade heterogênea e possivelmente conflitantes (revisão de 1997 sem demonstração conclusiva de efeito renoprotetor). Essa indicação poderia ser tratada como pergunta de pesquisa.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

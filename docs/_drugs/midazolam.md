@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Midazolam
-parent: Evidência Alta (L1-L2)
-nav_order: 351
-evidence_level: L2
+parent: Evidência Moderada (L3-L4)
+nav_order: 458
+evidence_level: L3
 indication_count: 1
 ---
 
 # Midazolam
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **1** 
+Nível de evidência: **L3** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,83 +29,78 @@ Nível de evidência: **L2** | Indicações previstas: **1**
 
 </div>
 
-# Midazolam: Da Sedação Procedural à Insônia
+# Midazolam: Da ansiedade à insônia
 
 ## Resumo em Uma Frase
 
-Midazolam é um benzodiazepínico de curta ação amplamente utilizado para sedação procedural, indução anestésica e pré-medicação cirúrgica. O modelo TxGNN prevê que pode ser eficaz para **Insônia (Insomnia)**, com **2 ensaios clínicos com relevância direta** e **4 estudos clínicos controlados publicados** apoiando essa direção — evidências que, em grande parte, datam de décadas anteriores à chegada dos hipnóticos modernos.
-
----
+Midazolam é um benzodiazepínico de ação curta, originalmente associado ao tratamento da ansiedade.
+O modelo TxGNN prevê que pode ser eficaz para **Insônia (insomnia)**,
+atualmente com **2 ensaios clínicos** (ambos de relevância indireta) e **10 publicações** relacionadas a esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Sedação, indução anestésica e pré-medicação ansiolítica (uso hospitalar) |
-| Nova Indicação Prevista | Insônia (Insomnia) |
-| Pontuação de Previsão TxGNN | 99.74% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Indicação Original | Ansiedade (conforme o grafo de conhecimento do TxGNN; não há texto de indicação de registro no Brasil) |
+| Nova Indicação Prevista | Insônia (insomnia) |
+| Pontuação de Previsão TxGNN | 99,74% |
+| Nível de Evidência | L3 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Midazolam atua como modulador alostérico positivo do receptor GABA-A, ligando-se ao sítio das benzodiazepinas e aumentando a frequência de abertura dos canais de cloreto. Isso reduz a excitabilidade neuronal e produz efeitos sedativos, hipnóticos e ansiolíticos — o mesmo mecanismo dos benzodiazepínicos aprovados especificamente para insônia, como triazolam e temazepam. A base mecanística para o reposicionamento é, portanto, sólida e bem-estabelecida.
+Não há dados detalhados do mecanismo de ação registrados para este fármaco. Pela farmacologia de classe, bem estabelecida, o midazolam é um benzodiazepínico de ação curta que modula positivamente os receptores GABA-A, aumentando a neurotransmissão inibitória e produzindo efeito sedativo-hipnótico.
 
-A meia-vida curta de midazolam (T½ ≈ 2–4 horas) torna o fármaco farmacologicamente adequado para a insônia de início do sono, minimizando o risco de sedação residual matinal ("efeito ressaca"). A literatura clínica dos anos 1980–1990 já havia demonstrado sua eficácia em pacientes com insônia secundária a doenças musculoesqueléticas e neurológicas, com perfil de tolerabilidade superior a barbitúricos contemporâneos.
+A ansiedade e a insônia compartilham a mesma base farmacológica: a potencialização do GABA reduz a excitação do sistema nervoso central, o que alivia a ansiedade e favorece a indução e a manutenção do sono. Esse mecanismo é comum a hipnóticos benzodiazepínicos já aprovados, como flurazepam e triazolam, o que torna a previsão do TxGNN (pontuação elevada) coerente.
 
-No entanto, é fundamental contextualizar que o uso de midazolam para insônia foi progressivamente abandonado em favor de alternativas mais seguras: Z-drugs (zolpidem, zaleplona) e, mais recentemente, antagonistas de receptores de orexina (lemborexant, suvorexant), que apresentam menor risco de dependência, tolerância e abuso. A previsão do TxGNN reflete compatibilidade farmacológica — não uma lacuna terapêutica não atendida — o que limita o valor estratégico deste reposicionamento para o mercado geral.
-
----
+Vale ressaltar que o midazolam oral já foi estudado como hipnótico nas décadas de 1980 e 1990 e, segundo a análise compilada, é comercializado como hipnótico em alguns países. Assim, a insônia pode ser considerada uma indicação já existente em outras regiões, e não um reposicionamento propriamente inédito. A classificação "não comercializado" pode refletir limitações regionais ou da base de dados.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT06407518](https://clinicaltrials.gov/study/NCT06407518) | N/A | Recrutando | 280 | Midazolam oral como pré-medicação em pacientes com distúrbio do sono e ansiedade submetidos à ressecção colorretal laparoscópica; avalia dor pós-operatória (desfecho primário) e qualidade do sono (desfecho secundário), oferecendo dados de segurança em pacientes com distúrbio do sono diagnosticado |
-| [NCT02142595](https://clinicaltrials.gov/study/NCT02142595) | Phase 4 | Concluído | 111 | Comparação direta da qualidade do sono pós-operatório entre midazolam IV e dexmedetomidina em pacientes submetidos à ressecção prostática transuretral (TURP); fornece dados quantitativos de eficácia de midazolam sobre sono |
+| [NCT02142595](https://clinicaltrials.gov/study/NCT02142595) | Phase 4 | Concluído | 111 | Compara a qualidade do sono pós-operatório com sedação por dexmedetomidina vs. midazolam em ressecção transuretral da próstata. O midazolam é comparador de sedação, não tratamento de insônia crônica. |
+| [NCT00886314](https://clinicaltrials.gov/study/NCT00886314) | NA | Desconhecido | 80 | Palhaços de hospital vs. pré-medicação sedativa (midazolam) para reduzir a ansiedade pré-operatória em crianças. O desfecho não é o sono; relevância apenas contextual. |
 
----
+Nenhum dos ensaios avalia diretamente a eficácia do midazolam na insônia.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [6138072](https://pubmed.ncbi.nlm.nih.gov/6138072/) | 1983 | RCT | British Journal of Clinical Pharmacology | Midazolam 15 mg vs. Vesparax (secobarbital + brallobarbital + hidroxizina) em estudo duplo-cego em 30 pacientes com insônia: ambos eficazes como hipnóticos; midazolam com melhor tolerabilidade e ausência de efeito residual matinal |
-| [2121802](https://pubmed.ncbi.nlm.nih.gov/2121802/) | 1990 | Ensaio Clínico Controlado | Journal of Clinical Psychopharmacology | Estudo multicêntrico, duplo-cego, paralelo de 14 dias comparando flurazepam e midazolam em insônia crônica; analisa sono, desempenho cognitivo, humor e níveis plasmáticos em amostra heterogênea com histórico de uso de benzodiazepínicos |
-| [2229461](https://pubmed.ncbi.nlm.nih.gov/2229461/) | 1990 | Ensaio Clínico Multicêntrico | Journal of Clinical Psychopharmacology | Resumo executivo do ensaio multicêntrico de 14 dias (flurazepam vs. midazolam em insônia crônica); consolida achados sobre eficácia comparativa e perfis de plasma |
-| [6120704](https://pubmed.ncbi.nlm.nih.gov/6120704/) | 1981 | Ensaio de Dose-Resposta | Arzneimittel-Forschung | Midazolam oral 10–30 mg em 75 pacientes internados com insônia secundária a distúrbios musculoesqueléticos, neuropatias e alergias; estabeleceu faixa de dose ótima com boa relação eficácia/tolerabilidade |
-| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Revisão Clínica | Acta Psychiatrica Scandinavica | Revisão das indicações clínicas dos benzodiazepínicos hipnóticos (incluindo midazolam); discute perfis farmacocinéticos diferenciados e seleção por subtipo de insônia (início vs. manutenção) |
+| [2121802](https://pubmed.ncbi.nlm.nih.gov/2121802/) | 1990 | RCT | J Clin Psychopharmacol | Estudo multicêntrico, duplo-cego, comparando sono, desempenho e níveis plasmáticos em insones crônicos durante 14 dias de uso de flurazepam e midazolam |
+| [2229461](https://pubmed.ncbi.nlm.nih.gov/2229461/) | 1990 | RCT | J Clin Psychopharmacol | Resumo executivo do mesmo estudo multicêntrico em insones crônicos (flurazepam vs. midazolam por 14 dias) |
+| [6138072](https://pubmed.ncbi.nlm.nih.gov/6138072/) | 1983 | RCT | Br J Clin Pharmacol | Midazolam 15 mg e Vesparax foram hipnóticos eficazes em 30 mulheres com insônia secundária a doença neuromuscular; o midazolam foi mais bem tolerado e não causou ressaca |
+| [6120704](https://pubmed.ncbi.nlm.nih.gov/6120704/) | 1981 | RCT | Arzneimittel-Forschung | Estudo de busca de dose (10 a 30 mg por via oral) em 75 pacientes hospitalizados com insônia leve a moderada secundária a outras condições |
+| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Revisão | Acta Psychiatr Scand Suppl | Indicações de uso clínico de hipnóticos benzodiazepínicos e necessidade de diferentes perfis farmacocinéticos |
+| [17988972](https://pubmed.ncbi.nlm.nih.gov/17988972/) | 2007 | Revisão | Orv Hetil | Revisão sobre insônia e hipoperfusão cerebral; relevância indireta para o midazolam |
+| [36615100](https://pubmed.ncbi.nlm.nih.gov/36615100/) | 2022 | Coorte | J Clin Med | Estudo-piloto de lemborexante para insônia e prevenção de delirium em pacientes de alto risco; benzodiazepínicos podem aumentar o delirium |
 
----
-
-## Informações de Comercialização no Brasil
-
-Midazolam possui **20 registros ativos** na ANVISA com situação **✓ Comercializado**. Os detalhes específicos de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste conjunto de dados. Para consulta completa, acesse o portal ANVISA — Consulta de Medicamentos Registrados.
-
----
+Os demais resultados recuperados (zolpidem em modelo pré-clínico, relatos de caso de COVID-19 em fim de vida e síndrome de Satoyoshi) têm relevância muito limitada e não foram listados.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: doença pulmonar obstrutiva crônica (incluindo forma grave de início precoce), cirrose hepática, glaucoma de ângulo fechado e doença renal crônica (incluindo insuficiência renal crônica e doença renal terminal).
+- **Interações medicamentosas**: 100 interações registradas. Entre as listadas, as de nível **moderado** incluem ranitidina, bupropiona, aprepitanto, morfina, omeprazol, cimetidina, claritromicina, dronabinol, eluxadolina, teduglutida, nabilona, metoclopramida, miconazol, clotrimazol e fenilbutirato de glicerol. As de nível **leve** incluem dexametasona, betametasona, óxido de magnésio, hidróxido de alumínio e carbonato de cálcio. Inibidores da CYP3A4 merecem atenção especial.
+- **Preocupações gerais da classe**: meia-vida curta, tolerância, dependência, comprometimento no dia seguinte e depressão respiratória.
 
----
+Consulte a bula para as advertências e contraindicações formais, que não estavam disponíveis nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Embora midazolam possua mecanismo de ação compatível com o tratamento de insônia e exista literatura clínica controlada comprovando eficácia histórica, a prática clínica atual já superou este uso com alternativas mais seguras (Z-drugs, antagonistas de orexina). O risco de dependência, tolerância e o deslocamento para posição de segunda linha tornam improvável a abertura de um caminho regulatório competitivo para insônia geral — exceto em nichos específicos (p. ex., insônia perioperatória em ambiente hospitalar onde midazolam já está aprovado para sedação).
+- Há RCTs antigos (1981-1990) que apoiam o midazolam como hipnótico, mas os ensaios clínicos registrados são apenas indiretos, o fármaco não tem registro no Brasil e faltam dados de bula e de mecanismo, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Definir nicho clínico específico onde midazolam apresente vantagem real sobre alternativas modernas (ex.: insônia perioperatória, pacientes com contraindicação a Z-drugs)
-- Sanar o gap crítico de segurança (DG001): obter advertências e contraindicações da bula ANVISA via download de PDF do sítio oficial
-- Completar dados de MOA via DrugBank API (DG002) para análise mecanística formal
-- Avaliar estratégia regulatória comparativa frente ao perfil de segurança de lemborexant e zolpidem antes de qualquer investimento em desenvolvimento
+- Obter e analisar a bula da ANVISA (advertências e contraindicações)
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
+- Confirmar a situação regulatória do midazolam oral como hipnótico em outros países e no Brasil, e a viabilidade de uma forma farmacêutica oral
+- Avaliar o balanço risco-benefício frente a hipnóticos já disponíveis, considerando dependência, depressão respiratória e interações com inibidores da CYP3A4
+- Considerar, para populações com DPOC, cirrose, glaucoma de ângulo fechado ou doença renal, um plano específico de monitoramento de segurança
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

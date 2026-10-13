@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Amoxicillin
-parent: Evidência Moderada (L3-L4)
-nav_order: 56
-evidence_level: L3
+parent: Apenas Predição do Modelo (L5)
+nav_order: 62
+evidence_level: L5
 indication_count: 10
 ---
 
 # Amoxicillin
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,12 +29,12 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Amoxicillin: De Infecções Bacterianas à Epiglotite Aguda
+# Amoxicilina: Da penicilina de amplo espectro à síndrome de hiperviscosidade policlonal
 
 ## Resumo em Uma Frase
 
-Amoxicillin é um antibiótico beta-lactâmico de amplo espectro amplamente utilizado no tratamento de infecções bacterianas do trato respiratório superior, urinário e odontológico.
-O modelo TxGNN prevê que pode ser eficaz para **Epiglotite (Epiglottitis)**, atualmente com **15 publicações** — incluindo **3 diretrizes clínicas** e uma série de casos prospectiva com 24 pacientes — apoiando esta direção.
+Amoxicilina é um antibiótico da classe das penicilinas de amplo espectro, originalmente usado no tratamento de infecções bacterianas sistêmicas.
+O modelo TxGNN prevê que pode ser eficaz para **síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome)**, mas **não há nenhum ensaio clínico nem publicação** apoiando esta direção. A previsão é puramente computacional.
 
 ---
 
@@ -42,68 +42,75 @@ O modelo TxGNN prevê que pode ser eficaz para **Epiglotite (Epiglottitis)**, at
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções bacterianas (respiratórias, urinárias, odontológicas) |
-| Nova Indicação Prevista | Epiglotite (Epiglottitis) |
-| Pontuação de Previsão TxGNN | 98.70% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não identificado na consulta automática (verificação ANVISA recomendada) |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Indicação Original | Penicilina de amplo espectro |
+| Nova Indicação Prevista | Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) |
+| Pontuação de Previsão TxGNN | 99,63% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados de mecanismo de ação (MOA) no presente Evidence Pack — este é um gap de alta severidade identificado no processo de coleta. Com base no conhecimento farmacológico estabelecido, Amoxicillin é um antibiótico beta-lactâmico que inibe a síntese da parede celular bacteriana ao se ligar seletivamente às proteínas de ligação à penicilina (PBPs). Esse bloqueio impede a transpeptidação final do peptidoglicano, levando à lise osmótica e morte bacteriana. O fármaco é ativo contra ampla gama de bactérias Gram-positivas (*Streptococcus pyogenes*, *S. pneumoniae*, *Staphylococcus aureus* sensível) e Gram-negativas (*Haemophilus influenzae* não produtor de beta-lactamase, *Moraxella catarrhalis* sensível).
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a amoxicilina é um antibiótico beta-lactâmico da classe das penicilinas, cuja eficácia em infecções bacterianas está estabelecida, e age sobre a síntese da parede celular bacteriana.
 
-A epiglotite aguda é causada predominantemente por *Haemophilus influenzae* tipo b (Hib) e por *Streptococcus* spp. — exatamente os patógenos-alvo primários do Amoxicillin. A transposição da indicação original (infecções bacterianas do trato respiratório) para epiglotite é mecanisticamente direta e clinicamente lógica: trata-se da mesma classe de patógenos, na mesma via anatômica, com o mesmo mecanismo de ação antibacteriana. A epiglotite representa, portanto, uma extensão natural do espectro clínico já coberto pelo fármaco.
+Para a síndrome de hiperviscosidade policlonal, **não se identifica um vínculo mecanístico plausível**. Essa condição decorre do excesso de imunoglobulinas policlonais, e a amoxicilina não tem atividade conhecida sobre esse processo. A pontuação elevada parece ser um artefato da predição baseada em grafos, sem respaldo clínico ou na literatura.
 
-A combinação Amoxicillin-clavulanato (Augmentin) possui posição consolidada em diretrizes internacionais de infecções ORL, sendo recomendada na terapia sequencial (IV → oral) em crianças hospitalizadas e no tratamento de casos de menor gravidade. A adição do clavulanato amplia a cobertura para cepas produtoras de beta-lactamase — variante relevante em *H. influenzae* — tornando a formulação combinada a preferida clinicamente para epiglotite bacteriana documentada.
+Outras previsões do modelo também apresentam o mesmo problema. Entre as 10 principais, a maioria (hiperamilasemia, analbuminemia congênita, doenças hematológicas pré-malignas, gamopatia monoclonal, entre outras) não tem mecanismo plausível. As duas exceções com plausibilidade biológica, **peste septicêmica** e **epiglotite**, são infecções bacterianas, mas apoiadas apenas por evidências indiretas (estudos in vitro, modelos animais, revisões e relatos de caso). A epiglotite, em especial, está dentro do uso já existente da classe antibacteriana, não sendo um reposicionamento propriamente dito.
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados.
+Atualmente não há ensaios clínicos relacionados registrados para a síndrome de hiperviscosidade policlonal.
 
 ---
 
 ## Evidências da Literatura
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [37730165](https://pubmed.ncbi.nlm.nih.gov/37730165/) | 2023 | Diretriz Clínica | Infectious Diseases Now | Diretrizes de tratamento antimicrobiano de infecções ORL; define papel do Amoxicillin em infecções bacterianas do trato respiratório superior, incluindo indicações de uso e critérios de escalonamento |
-| [29290238](https://pubmed.ncbi.nlm.nih.gov/29290238/) | 2017 | Diretriz Clínica | Archives de Pédiatrie | Diretrizes pediátricas francesas de infecções ORL; posiciona antibióticos beta-lactâmicos como primeira linha em infecções bacterianas supraglóticas confirmadas |
-| [26332822](https://pubmed.ncbi.nlm.nih.gov/26332822/) | 2015 | Diretriz Clínica | Ned Tijdschr Geneeskd | Revisão da diretriz holandesa para faringite aguda; inclui critérios de diagnóstico diferencial para epiglotite e orientações de manejo |
-| [3571053](https://pubmed.ncbi.nlm.nih.gov/3571053/) | 1987 | Série de Casos Prospectiva | J Antimicrob Chemother | Terapia sequencial IV→oral com Amoxicillin-clavulanato em 71 crianças hospitalizadas, incluindo **24 casos de epiglotite aguda**; desfechos favoráveis com boa tolerabilidade |
-| [10893774](https://pubmed.ncbi.nlm.nih.gov/10893774/) | 2000 | Revisão | Anales de Medicina Interna | Manifestações clínicas e tratamento de infecções invasivas por *H. influenzae*; analisa papel dos beta-lactâmicos (incluindo Amoxicillin) na epiglotite e outras infecções supraglóticas |
-| [17334726](https://pubmed.ncbi.nlm.nih.gov/17334726/) | 2007 | Coorte Retrospectiva | J Infect Chemother | 52 crianças com infecções invasivas por *H. influenzae* no Japão (1996–2005); epiglotite em 7,7% dos casos; análise de sensibilidade antimicrobiana antes da vacinação Hib |
-| [21404603](https://pubmed.ncbi.nlm.nih.gov/21404603/) | 2011 | Estudo Microbiológico | Kansenshogaku Zasshi | CIM e CMB de 8 antibióticos parenterais contra *H. influenzae* invasivo em crianças; inclui casos de epiglotite; confirma sensibilidade dos beta-lactâmicos |
-| [15960127](https://pubmed.ncbi.nlm.nih.gov/15960127/) | 2005 | Relato de Caso | Acta Otorrinolaringol Esp | Actinomicose da base da língua com massa epiglótica; resolução clínica completa após incisão cirúrgica e **1 mês de Amoxicillin oral** |
-| [8322095](https://pubmed.ncbi.nlm.nih.gov/8322095/) | 1993 | Relato de Caso | Southern Medical Journal | Epiglotite aguda por *S. aureus* no 3º trimestre de gestação; intubação precoce e antibioticoterapia eficaz; discussão sobre diagnóstico diferencial em adultos |
-| [1755915](https://pubmed.ncbi.nlm.nih.gov/1755915/) | 1991 | Série de Casos | Laryngo-Rhino-Otologie | 79 adultos com epiglotite aguda; revisão de etiologia bacteriana, apresentação clínica e protocolo de antibioticoterapia em serviço universitário de referência |
+Atualmente não há literatura relacionada para a síndrome de hiperviscosidade policlonal.
+
+---
+
+## Informações de Comercialização no Brasil
+
+Todos os 20 registros estão **cancelados**; não há registro válido atualmente. Principais registros (5 de 20):
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 170420029 | Amoxicilina | Não informada | Penicilina de amplo espectro |
+| Registro nº 167730477 | Polimoxil | Não informada | Penicilina de amplo espectro |
+| Registro nº 155840102 | Amoxicilina | Não informada | Penicilina de amplo espectro |
+| Registro nº 105730548 | Amoxicilina tri-hidratada | Não informada | Antibióticos sistêmicos simples |
+| Registro nº 125680375 | Apluc | Não informada | Penicilina de amplo espectro |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações descritas no grafo de conhecimento (não extraídas de bula)**: síndrome do QT longo, torsades de pointes, insuficiência e doenças hepáticas, colestase, porfirias, doença renal, doenças da vesícula biliar, osteoporose, fratura óssea, colite por *Clostridium difficile*, enterocolite necrosante perinatal, miastenia gravis, taquicardia ventricular, mononucleose infecciosa e infecção crônica pelo vírus Epstein-Barr. Esses itens vêm de relações do grafo de conhecimento e devem ser confirmados na bula.
+- **Interações medicamentosas** (100 registradas; principais):
+  - **Maior gravidade**: metotrexato; vacina viva contra cólera (*Vibrio cholerae* CVD 103-HgR).
+  - **Moderada**: doxiciclina, minociclina, demeclociclina, etinilestradiol, estradiol, anisindiona, dicumarol, balsalazida, entecavir, micofenolato de mofetila, probióticos (*Lactobacillus acidophilus*, *Bifidobacterium longum infantis*) e índio-111 oxiquinolina.
+  - **Menor**: alopurinol, amilorida, azitromicina, claritromicina, eritromicina.
+- **Sinal de segurança na literatura**: relato de anemia hemolítica não imune induzida por amoxicilina em criança com deficiência de glicose-6-fosfato isomerase (PMID 20516363).
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-A epiglotite aguda bacteriana é a indicação prevista pelo TxGNN com maior grau de evidência clínica (L3) e com mecanismo biológico direto para o Amoxicillin: três diretrizes clínicas internacionais e uma série de casos prospectiva com 24 pacientes pediátricos sustentam o uso da formulação Amoxicillin-clavulanato na terapia sequencial da epiglotite, atuando diretamente sobre os agentes etiológicos *H. influenzae* e *Streptococcus* spp.
+- A previsão tem pontuação alta (99,63%), mas não há ensaios, literatura nem vínculo mecanístico plausível (nível L5). Além disso, todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Confirmar registro da formulação Amoxicillin e/ou Amoxicillin-clavulanato na ANVISA — a ausência de registros neste Evidence Pack é provavelmente uma falha de consulta, devendo ser verificada manualmente no portal ANVISA
-- Obter e analisar a bula ANVISA para levantamento completo de advertências, contraindicações e interações (Data Gap DG001 — severidade Bloqueante)
-- Obter dados completos de mecanismo de ação via DrugBank API (Data Gap DG002 — severidade Alta)
-- Definir protocolo clínico: Amoxicillin simples vs. Amoxicillin-clavulanato conforme perfil de resistência a beta-lactamase da população-alvo local
-- Considerar que a ausência de ensaios clínicos registrados para epiglotite limita a geração de evidência de fase 2/3 — a indicação opera em nível de prática clínica estabelecida, não em nível de investigação formal
+- Obter dados do mecanismo de ação (DrugBank) e analisar qualquer vínculo com a hiperviscosidade policlonal.
+- Baixar e analisar a bula na ANVISA para advertências e contraindicações (lacuna bloqueante para a triagem de segurança).
+- Confirmar a situação regulatória atual no Brasil, já que não há registro válido.
+- Considerar priorizar outras previsões com racional biológico, como epiglotite e peste septicêmica, que ainda exigem estudos clínicos diretos.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Amitriptyline Hydrochloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 52
+nav_order: 58
 evidence_level: L5
 indication_count: 0
 ---

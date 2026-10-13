@@ -2,7 +2,7 @@
 layout: default
 title: Amilorida
 parent: Apenas Predição do Modelo (L5)
-nav_order: 47
+nav_order: 52
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Betaxolol Hydrochloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 115
+nav_order: 131
 evidence_level: L5
 indication_count: 0
 ---

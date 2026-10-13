@@ -2,7 +2,7 @@
 layout: default
 title: Ticlopidina Hydrochloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 482
+nav_order: 637
 evidence_level: L5
 indication_count: 0
 ---

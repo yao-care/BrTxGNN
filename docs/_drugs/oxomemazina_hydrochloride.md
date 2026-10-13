@@ -2,7 +2,7 @@
 layout: default
 title: Oxomemazina Hydrochloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 378
+nav_order: 500
 evidence_level: L5
 indication_count: 0
 ---

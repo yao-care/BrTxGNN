@@ -2,7 +2,7 @@
 layout: default
 title: Baclofen
 parent: Evidência Moderada (L3-L4)
-nav_order: 95
+nav_order: 105
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,90 +29,89 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Baclofen: Da Espasticidade Muscular ao Transtorno de Déficit de Atenção e Hiperatividade (TDAH)
+# Baclofeno: De indicação original não registrada no Brasil para transtorno de déficit de atenção e hiperatividade (TDAH)
 
 ## Resumo em Uma Frase
 
-Baclofen é um agonista do receptor GABA-B, amplamente utilizado no tratamento da espasticidade muscular associada a condições como esclerose múltipla e lesão medular.
-O modelo TxGNN prevê que pode ser eficaz para o **Transtorno de Déficit de Atenção e Hiperatividade (attention deficit-hyperactivity disorder)**,
-atualmente com **0 ensaios clínicos** e **10 publicações** apoiando esta direção — nenhuma das quais avalia diretamente o Baclofen em pacientes com TDAH.
+O baclofeno é um agonista do receptor GABA-B, conhecido como relaxante muscular. Não há indicação original registrada nos dados compiladados para este relatório, pois não consta nenhum registro ativo na ANVISA.
+O modelo TxGNN prevê que pode ser eficaz para o **transtorno de déficit de atenção e hiperatividade (Attention Deficit-Hyperactivity Disorder)**, mas esta previsão tem **0 ensaios clínicos** e apenas **9 publicações indiretas** (revisões sobre síndrome de Tourette e estudos pré-clínicos em roedores).
 
----
+> **Observação importante:** entre as indicações previstas, a de maior pontuação (TDAH) tem a evidência mais fraca. A **dependência de nicotina** é a candidata com maior sustentação clínica (3 ensaios de Fase 2). Ela é apresentada ao final como alternativa mais promissora.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Espasticidade muscular (detalhes dos registros ANVISA não disponíveis no Evidence Pack atual) |
-| Nova Indicação Prevista | Transtorno de Déficit de Atenção e Hiperatividade (attention deficit-hyperactivity disorder) |
+| Indicação Original | Não disponível (sem registro ativo na ANVISA) |
+| Nova Indicação Prevista | Transtorno de déficit de atenção e hiperatividade (Attention Deficit-Hyperactivity Disorder) |
 | Pontuação de Previsão TxGNN | 99,32% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 7 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Segundo informações conhecidas, Baclofen é um agonista do receptor GABA-B (ácido γ-aminobutírico tipo B): sua ligação ao receptor inibe a neurotransmissão excitatória pré e pós-sinapticamente, reduzindo a hiperexcitabilidade neuronal e a contração muscular excessiva. Essa ação fundamenta sua indicação aprovada para espasticidade em esclerose múltipla e lesão medular.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o baclofeno é um agonista do receptor GABA-B, usado como relaxante muscular e antiespástico, e mecanisticamente poderia modular a excitabilidade cortical e estriatal.
 
-A hipótese mecanística para o TDAH baseia-se no papel do GABA-B no circuito córtico-estriatal: a ativação desses receptores no córtex pré-frontal e nos gânglios da base poderia modular o equilíbrio entre excitação e inibição (E/I), influenciando indiretamente o controle do impulso e a regulação da atenção — ambas funções centralmente comprometidas no TDAH. Disfunções no tônus GABAérgico pré-frontal têm sido descritas na fisiopatologia do transtorno, conferindo alguma coerência neurobiológica à hipótese.
+A relação com o TDAH é indireta. A literatura recuperada trata principalmente do tratamento de tiques na síndrome de Tourette (frequentemente associada ao TDAH) e de estudos em roedores sobre impulsividade e função do hipocampo, da habênula e do córtex cingulado. Nenhum estudo testou o baclofeno em pacientes com TDAH.
 
-Entretanto, a associação permanece especulativa do ponto de vista clínico: nenhum dos 10 trabalhos identificados avalia diretamente o Baclofen em pacientes com TDAH. A maior parte das evidências refere-se à Síndrome de Tourette (frequentemente comórbida ao TDAH) ou a estudos em animais sobre controle do impulso, sem ligação direta ao fármaco em questão. O modelo TxGNN pode ter capturado sobreposições de nós no grafo de conhecimento entre "transtornos neurodesenvolvimentais" e "modulação GABAérgica", sem que isso reflita uma relação terapêutica estabelecida.
-
----
+Portanto, a previsão é biologicamente plausível, mas especulativa: o vínculo é indireto e pré-clínico.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para Baclofen em TDAH.
-
----
+Atualmente não há ensaios clínicos relacionados registrados para TDAH.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [35345730](https://pubmed.ncbi.nlm.nih.gov/35345730/) | 2022 | Revisão Sistemática | Cureus | Revisão de intervenções (comportamentais, antipsicóticos, agonistas alfa) para tiques na Síndrome de Tourette; TDAH é comorbidade frequente, mas baclofen não é avaliado especificamente para TDAH |
-| [26366961](https://pubmed.ncbi.nlm.nih.gov/26366961/) | 2015 | Revisão | Clinical Neuropharmacology | Estabilizadores de humor em crianças/adolescentes com transtorno do espectro autista; déficit de atenção abordado como comorbidade, sem avaliação de baclofen no TDAH |
-| [24295630](https://pubmed.ncbi.nlm.nih.gov/24295630/) | 2013 | Revisão | Int Review of Neurobiology | Estratégias emergentes para Síndrome de Tourette; TDAH e TOC listados como comorbidades relevantes; baclofen não estudado diretamente para TDAH |
-| [11393328](https://pubmed.ncbi.nlm.nih.gov/11393328/) | 2001 | Revisão | Paediatric Drugs | Manejo farmacológico da Síndrome de Tourette; baclofen citado como opção para supressão de tiques em contexto de comorbidade com TDAH |
-| [10342599](https://pubmed.ncbi.nlm.nih.gov/10342599/) | 1999 | Revisão | Journal of Child Neurology | Estudo com 450 pacientes com tiques/Tourette tratados com baclofen e toxina botulínica; avaliação pela Yale Global Tic Severity Scale; relação indireta com TDAH via comorbidade |
-| [30122296](https://pubmed.ncbi.nlm.nih.gov/30122296/) | 2019 | Observacional | L'Encephale | Prescrição off-label supervisionada de metilfenidato no TDAH adulto; baclofen não avaliado — documento o contexto de uso não aprovado em psiquiatria |
-| [21300040](https://pubmed.ncbi.nlm.nih.gov/21300040/) | 2011 | Estudo Animal | Brain Research | Mecanismos neurotrasmissores em ratos espontaneamente hipertensos (modelo animal de TDAH); agonistas GABA-B incluídos na análise de EEG cortical e hipocampal — evidência preclinica indireta |
-| [24062084](https://pubmed.ncbi.nlm.nih.gov/24062084/) | 2014 | Estudo Animal | Psychopharmacology | Estimulação α2A-adrenérgica no hipocampo ventral reduz tomada de decisão impulsiva em ratos; guanfacina como referência de tratamento para TDAH — sem envolvimento de baclofen |
-| [24496320](https://pubmed.ncbi.nlm.nih.gov/24496320/) | 2014 | Estudo Animal | Neuropsychopharmacology | Contribuições dissociáveis do córtex cingulado anterior e da amígdala basolateral em decisão baseada em esforço cognitivo em roedores; modelo de déficits observados em depressão, esquizofrenia e TDAH |
-| [24103016](https://pubmed.ncbi.nlm.nih.gov/24103016/) | 2013 | Estudo Animal | European Journal of Neuroscience | Papel da habenula na modulação monoaminérgica e no comportamento social de ratos em período pós-desmame; relevância periférica para circuitos de recompensa alterados em TDAH |
-
----
-
-## Informações de Comercialização no Brasil
-
-O Baclofen possui **7 registros** ativos no Brasil com situação de comercializado. Os dados detalhados dos registros (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não foram retornados pela consulta atual. Recomenda-se consultar diretamente o portal de consulta de medicamentos da ANVISA para verificar as informações completas dos produtos disponíveis no mercado.
-
----
+| [35345730](https://pubmed.ncbi.nlm.nih.gov/35345730/) | 2022 | Revisão | Cureus | Eficácia de intervenção comportamental, antipsicóticos e agonistas alfa no tratamento de tiques na síndrome de Tourette, frequentemente comórbida com TDAH |
+| [24295630](https://pubmed.ncbi.nlm.nih.gov/24295630/) | 2013 | Revisão | Int Rev Neurobiol | Estratégias emergentes de tratamento da síndrome de Tourette |
+| [30122296](https://pubmed.ncbi.nlm.nih.gov/30122296/) | 2019 | Revisão | L'Encephale | Prescrição off-label supervisionada de metilfenidato no TDAH adulto |
+| [11393328](https://pubmed.ncbi.nlm.nih.gov/11393328/) | 2001 | Revisão | Paediatr Drugs | Características clínicas e manejo da síndrome de Tourette |
+| [10342599](https://pubmed.ncbi.nlm.nih.gov/10342599/) | 1999 | Revisão/série clínica | J Child Neurol | 450 pacientes com tiques/Tourette tratados com baclofeno e toxina botulínica A |
+| [21300040](https://pubmed.ncbi.nlm.nih.gov/21300040/) | 2011 | Estudo pré-clínico | Brain Res | Efeitos de agonistas de neurotransmissores no EEG de ratos modelo de TDAH e epilepsia |
+| [24062084](https://pubmed.ncbi.nlm.nih.gov/24062084/) | 2014 | Estudo pré-clínico | Psychopharmacology | Estimulação de receptores α2A no hipocampo ventral reduz a tomada de decisão impulsiva |
+| [24103016](https://pubmed.ncbi.nlm.nih.gov/24103016/) | 2013 | Estudo pré-clínico | Eur J Neurosci | Integridade da habênula é necessária para o comportamento de brincadeira social em ratos |
+| [24496320](https://pubmed.ncbi.nlm.nih.gov/24496320/) | 2014 | Estudo pré-clínico | Neuropsychopharmacology | Contribuições do córtex cingulado anterior e da amígdala na decisão custo/benefício em roedores |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (segundo o grafo de conhecimento TxGNN, não o texto da bula):** epilepsia, doença renal, transtornos psicóticos (incluindo esquizofrenia, transtorno esquizoafetivo e esquizofreniforme), transtornos mentais em geral, doenças cerebrovasculares (acidente vascular cerebral, infarto cerebral), doenças do sistema nervoso autônomo (síndrome de Horner, disreflexia autonômica), piureter e doença do colo da bexiga.
+- **Interações medicamentosas (100 interações registradas):** as principais classificadas como **graves** são com **morfina** e **morfina lipossomal** (risco de depressão do sistema nervoso central). Interações **moderadas** incluem dronabinol, nabilona, metoclopramida, ópio, sibutramina, difenoxina e difenoxilato. Outras interações listadas têm gravidade não classificada (por exemplo, pantoprazol, glimepirida, metformina, omeprazol, doxiciclina).
 
----
+Consulte a bula para as advertências e contraindicações oficiais, que não estavam disponíveis nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A pontuação TxGNN de 99,32% reflete sobreposição no grafo de conhecimento entre modulação GABAérgica e transtornos neurodesenvolvimentais, mas não encontra respaldo em evidência clínica direta: não há ensaios registrados para TDAH, e os 10 trabalhos da literatura são inteiramente indiretos (Tourette, estudos em animais, comparadores de outros fármacos). O nível de evidência L4 não justifica progressão sem dados clínicos em humanos.
+- Para TDAH, não há ensaios clínicos nem estudos em humanos com baclofeno; a evidência é indireta e pré-clínica (L4).
+- O baclofeno não tem registro ativo no Brasil, e as contraindicações do grafo de conhecimento incluem transtornos psiquiátricos, o que exige cautela adicional.
 
 **Para prosseguir, é necessário:**
-- Conduzir estudos clínicos piloto (Phase 1/2) avaliando diretamente Baclofen em pacientes com diagnóstico formal de TDAH
-- Obter dados completos de mecanismo de ação (MOA) via DrugBank API — lacuna de dados de alta prioridade (DG002)
-- Recuperar advertências, contraindicações e informações de segurança a partir das bulas registradas na ANVISA (DG001 — bloqueante para triagem de segurança S1)
-- Completar os dados de registro ANVISA (números, indicações aprovadas, formas farmacêuticas disponíveis)
-- Mapear interações medicamentosas com os tratamentos de primeira linha para TDAH (metilfenidato, lisdexanfetamina, atomoxetina)
+- Obter a bula da ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
+- Obter dados do mecanismo de ação pelo DrugBank.
+- Realizar estudos pré-clínicos e piloto específicos de baclofeno em TDAH antes de qualquer avanço.
+- Avaliar o perfil psiquiátrico de segurança, dado o histórico de contraindicações em transtornos mentais.
 
-> **Nota sobre avaliação multi-indicação (TW-DB00181-multi):** Este Evidence Pack contém 10 candidatos avaliados. A indicação de **Dependência de Nicotina (Rank 2, 99,19%)** apresenta o perfil de evidências mais robusto do conjunto: 3 ensaios Phase 2 (incluindo 1 concluído, NCT01821560, n=44) e 20 publicações, atingindo nível L2 com recomendação *Research Question* — tornando-a o candidato de prioridade clínica mais imediata. **Síndrome de Dor Miofascial (Rank 4)** e **Transtornos do Desenvolvimento Específicos (Rank 10)** também alcançam nível L3 com recomendação *Research Question* e merecem aprofundamento. Por outro lado, os Ranks 5, 7, 8 e 9 (síndrome fáciodigenital, metahemoglobinemia e fibroma condromixoide) apresentam ausência completa de embasamento mecanístico com Baclofen e devem ser descartados da pipeline.
+### Outras Indicações Previstas (para priorização)
+
+| Posição | Indicação | Pontuação TxGNN | Nível | Recomendação |
+|------|------|------|------|------|
+| 2 | Dependência de nicotina | 99,19% | L2 | Questão de pesquisa (mais promissora) |
+| 3 | TDAH, tipo desatento | 98,89% | L5 | Hold |
+| 4 | Síndrome de dor miofascial | 98,87% | L4 | Questão de pesquisa |
+| 5 | Síndrome faciodigitogenital | 98,78% | L5 | Hold |
+| 6 | Neoplasia do nervo trigêmeo | 98,70% | L4 | Hold |
+| 7 | Metemoglobinemia | 98,33% | L5 | Hold |
+| 8 | Fibroma condromixoide | 98,15% | L5 | Hold |
+| 9 | Metemoglobinemia, tipo alfa | 97,97% | L5 | Hold |
+| 10 | Transtorno específico do desenvolvimento | 97,95% | L4 | Hold |
+
+**Destaque, dependência de nicotina:** há 3 ensaios de Fase 2 ([NCT01228994](https://clinicaltrials.gov/study/NCT01228994), terminado com apenas 6 participantes; [NCT00257894](https://clinicaltrials.gov/study/NCT00257894), terminado com 41; [NCT01821560](https://clinicaltrials.gov/study/NCT01821560), concluído com 44). Nenhum fornece dados pivotais de cessação do tabagismo. A literatura sobre transtorno por uso de álcool, em que o baclofeno já é usado off-label, sustenta a plausibilidade biológica. Recomenda-se priorizar esta indicação para um ensaio de Fase 2 adequadamente dimensionado.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

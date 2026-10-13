@@ -2,7 +2,7 @@
 layout: default
 title: Ornitina Aspartate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 369
+nav_order: 489
 evidence_level: L5
 indication_count: 0
 ---

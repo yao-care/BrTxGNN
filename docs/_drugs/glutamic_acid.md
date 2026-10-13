@@ -2,15 +2,15 @@
 layout: default
 title: Glutamic Acid
 parent: Evidência Moderada (L3-L4)
-nav_order: 268
-evidence_level: L3
+nav_order: 346
+evidence_level: L4
 indication_count: 4
 ---
 
 # Glutamic Acid
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **4** 
+Nível de evidência: **L4** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,12 +29,12 @@ Nível de evidência: **L3** | Indicações previstas: **4**
 
 </div>
 
-# Ácido Glutâmico: De Aminoácido Endógeno para Osteoporose Pós-Menopausa
+# Ácido Glutâmico: Da nutrição parenteral à osteoporose pós-menopausa
 
 ## Resumo em Uma Frase
 
-O ácido glutâmico é um aminoácido não essencial de ocorrência natural, com múltiplas funções fisiológicas como neurotransmissor excitatório e componente da síntese proteica, sem indicação terapêutica formalmente registrada no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Osteoporose Pós-Menopausa (Postmenopausal Osteoporosis)**, atualmente com **1 ensaio clínico** e **11 publicações** apoiando esta direção, embora a maioria das evidências seja indireta — envolvendo derivados como poli-γ-ácido glutâmico e vitamina K2.
+O ácido glutâmico é um aminoácido usado originalmente em formulações de nutrição parenteral, reposição hidroeletrolítica e polivitamínicos com minerais.
+O modelo TxGNN prevê que pode ser eficaz para **osteoporose pós-menopausa (postmenopausal osteoporosis)**, mas atualmente há **0 ensaios clínicos** e **10 publicações** associadas, nenhuma delas com ensaio clínico do ácido glutâmico propriamente dito nessa condição.
 
 ---
 
@@ -42,33 +42,29 @@ O modelo TxGNN prevê que pode ser eficaz para **Osteoporose Pós-Menopausa (Pos
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Aminoácido endógeno / Suplemento nutricional (sem indicação terapêutica registrada) |
-| Nova Indicação Prevista | Osteoporose Pós-Menopausa (Postmenopausal Osteoporosis) |
+| Indicação Original | Polivitamínicos com minerais |
+| Nova Indicação Prevista | Osteoporose pós-menopausa (postmenopausal osteoporosis) |
 | Pontuação de Previsão TxGNN | 99,34% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 10 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados formais de mecanismo de ação farmacológico para o ácido glutâmico como agente terapêutico isolado. Trata-se de um aminoácido com múltiplas funções fisiológicas: principal neurotransmissor excitatório do SNC, precursor do GABA (via descarboxilação), e bloco de construção de diversas proteínas estruturais e funcionais do organismo.
+Atualmente, não há dados detalhados sobre o mecanismo de ação do ácido glutâmico. Segundo informações conhecidas, ele é um aminoácido proteinogênico, usado em produtos de nutrição parenteral e polivitaminas com minerais, e participa de diversas vias metabólicas.
 
-O elo mecanístico mais relevante para a osteoporose reside no papel do ácido glutâmico como substrato direto da **γ-carboxilação dependente de vitamina K**. Resíduos de ácido glutâmico presentes na **osteocalcina** — a principal proteína não-colágena da matriz óssea — são convertidos enzimaticamente em resíduos de γ-carboxiglutamato (Gla), que são imprescindíveis para a ligação da osteocalcina aos íons cálcio e à hidroxiapatita. Em estados de deficiência estrogênica pós-menopausa, este processo é prejudicado, resultando em maior fração de osteocalcina subcarboxilada e deterioração da qualidade óssea. A hipótese é que a disponibilidade aumentada de ácido glutâmico livre poderia potencializar este processo de mineralização.
+A relação com o metabolismo ósseo é plausível, porém **indireta**: resíduos de glutamato são convertidos, após a síntese proteica, em resíduos de γ-carboxiglutamato em proteínas dependentes de vitamina K, como a osteocalcina. Esse processo depende da vitamina K, e não de um efeito direto do ácido glutâmico administrado. Um estudo em camundongos ovariectomizados sugeriu que o ácido glutâmico atenua sintomas semelhantes aos da menopausa, mas se trata de dado pré-clínico.
 
-Os dados de suporte são promissores, porém indiretos: um estudo pré-clínico em camundongos ovariectomizados demonstrou que a suplementação com ácido glutâmico atenuou sintomas induzidos pela deficiência estrogênica; um estudo de intervenção humana mostrou que o poli-γ-ácido glutâmico (polímero derivado) aumentou a absorção aguda de cálcio em mulheres pós-menopáusicas japonesas. Múltiplos RCTs com vitamina K2 (menatetrenona) reforçam a importância da γ-carboxilação do osteocalcina como alvo, porém não testam o ácido glutâmico livre como intervenção principal.
+A pontuação elevada do TxGNN (99,34%) é apenas uma previsão do modelo. A maior parte da literatura recuperada trata de compostos relacionados (vitamina K2, vitamina D3, ácido poli-γ-glutâmico), e não do ácido glutâmico em si.
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT00048061](https://clinicaltrials.gov/study/NCT00048061) | Phase 3 | Concluído | 1.609 | Comparação de ibandronato oral mensal (100 mg e 150 mg) versus 2,5 mg diários em mulheres com osteoporose pós-menopausa; todas receberam suplementação diária de vitamina D e cálcio. O ácido glutâmico não foi o agente investigado — relevância indireta (Grade C): o contexto de uso de cálcio/vitamina D reforça a relevância da matriz bioquímica em que o ácido glutâmico atua. |
-
-> ⚠️ **Atenção**: Não foram identificados ensaios clínicos que testem diretamente o ácido glutâmico livre como intervenção terapêutica para osteoporose pós-menopausa.
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ---
 
@@ -76,28 +72,41 @@ Os dados de suporte são promissores, porém indiretos: um estudo pré-clínico 
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [26144993](https://pubmed.ncbi.nlm.nih.gov/26144993/) | 2015 | Estudo Animal (OVX) | Nutrition Research | **Evidência mais direta**: ácido glutâmico atenuou sintomas menopáusicos induzidos por deficiência estrogênica em camundongos ovariectomizados, sugerindo possível efeito estrogênico-like |
-| [18187428](https://pubmed.ncbi.nlm.nih.gov/18187428/) | 2007 | Intervenção Humana | J Am Coll Nutrition | **Estudo humano com derivado**: poli-γ-ácido glutâmico (PGA) aumentou a absorção aguda de cálcio em mulheres pós-menopáusicas — primeiro dado humano da família do ácido glutâmico nesta indicação |
-| [14529146](https://pubmed.ncbi.nlm.nih.gov/14529146/) | 2003 | RCT | Keio J Medicine | Vitamina K2 (menatetrenona) potencializa γ-carboxilação de resíduos de ácido glutâmico na osteocalcina, sustenta DMO lombar e previne fraturas vertebrais em mulheres com osteoporose |
-| [14584089](https://pubmed.ncbi.nlm.nih.gov/14584089/) | 2003 | RCT | Yonsei Med J | Vitamina K2 combinada com bifosfonatos na osteoporose; mecanismo central é a γ-carboxilação dos resíduos de ácido glutâmico do osteocalcina, aumentando a densidade óssea lombar e femoral |
-| [19172219](https://pubmed.ncbi.nlm.nih.gov/19172219/) | 2009 | RCT Prospectivo | J Bone Miner Metab | Terapia curta com menatetrenona (45 mg/dia, 6 meses) aumentou significativamente a γ-carboxilação do osteocalcina em 109 pacientes com osteoporose pós-menopausa |
-| [29437025](https://pubmed.ncbi.nlm.nih.gov/29437025/) | 2018 | Estudo de Associação Genética | Endocr Metab Immune Disord Drug Targets | Polimorfismo VKORC1 -1639G>A afeta a capacidade de γ-carboxilação de resíduos de ácido glutâmico; alelo A associado à menor produção de osteocalcina carboxilada e maior risco de osteoporose |
-| [34529430](https://pubmed.ncbi.nlm.nih.gov/34529430/) | 2021 | Entrega de Fármaco / Pré-clínico | Nano Letters | Vesícula polimérica com poli(L-ácido glutâmico) conjugado ao alendronato para entrega óssea direcionada de β-estradiol em modelo de osteoporose — uso do ácido glutâmico como veículo de direcionamento ósseo |
-| [40950804](https://pubmed.ncbi.nlm.nih.gov/40950804/) | 2025 | Metabolômica Transversal | J Diabetes Metab Disord | Perfis de aminoácidos séricos (incluindo ácido glutâmico) correlacionados com envelhecimento e níveis de hormônios sexuais em idosos — sinaliza papel do ácido glutâmico no eixo metabólico hormonal |
-| [39698319](https://pubmed.ncbi.nlm.nih.gov/39698319/) | 2024 | Mecanístico / TCM | Front Cell Infect Microbiol | Ação de preparação fitoterapêutica mediada pelo eixo microbiota-barreira mucosa intestinal-metabolismo ósseo na osteoporose pós-menopausa |
-| [11668761](https://pubmed.ncbi.nlm.nih.gov/11668761/) | 2001 | Revisão | Tidsskr Nor Laegeforen | Vitamina K na dieta e osteoporose; revisão do papel da γ-carboxilação dependente de vitamina K na qualidade óssea |
+| [19172219](https://pubmed.ncbi.nlm.nih.gov/19172219/) | 2009 | Estudo randomizado prospectivo (aberto) | J Bone Miner Metab | Em 109 pacientes, a menatetrenona (vitamina K2) por 6 meses aumentou a γ-carboxilação da osteocalcina, comparada ao aspartato de cálcio. Não envolve ácido glutâmico |
+| [18187428](https://pubmed.ncbi.nlm.nih.gov/18187428/) | 2007 | Estudo fisiológico humano pequeno | J Am Coll Nutr | Avaliou o efeito agudo do ácido poli-γ-glutâmico (polímero distinto) na absorção de cálcio em mulheres pós-menopausa |
+| [14529146](https://pubmed.ncbi.nlm.nih.gov/14529146/) | 2003 | Estudo clínico/revisão | Keio J Med | Tratamento com vitamina D3 e/ou K2 na osteoporose pós-menopausa; a vitamina K2 favorece a γ-carboxilação de resíduos de glutamato ósseos |
+| [14584089](https://pubmed.ncbi.nlm.nih.gov/14584089/) | 2003 | Estudo clínico | Yonsei Med J | Tratamento combinado de vitamina K2 e bisfosfonatos em mulheres pós-menopausa com osteoporose |
+| [26144993](https://pubmed.ncbi.nlm.nih.gov/26144993/) | 2015 | Pré-clínico (camundongo) | Nutr Res | O ácido glutâmico atenuou sintomas do tipo menopausa em camundongos ovariectomizados |
+| [34529430](https://pubmed.ncbi.nlm.nih.gov/34529430/) | 2021 | Pré-clínico | Nano Lett | Vesículas poliméricas com ácido glutâmico para liberação de estradiol direcionada ao osso; o ácido glutâmico é componente do material, não o princípio ativo |
+| [29437025](https://pubmed.ncbi.nlm.nih.gov/29437025/) | 2018 | Estudo de associação genética | Endocr Metab Immune Disord Drug Targets | Associação entre o polimorfismo VKORC1 -1639G>A e osteoporose em mulheres pós-menopausa |
+| [18414001](https://pubmed.ncbi.nlm.nih.gov/18414001/) | 2008 | Estudo farmacogenético | Mol Cells | SNPs do SLC22A11 (hOAT4) em pacientes coreanas com osteoporose |
+| [11668761](https://pubmed.ncbi.nlm.nih.gov/11668761/) | 2001 | Revisão | Tidsskr Nor Laegeforen | Resumo sobre vitamina K na dieta norueguesa e osteoporose |
+| [40950804](https://pubmed.ncbi.nlm.nih.gov/40950804/) | 2025 | Estudo transversal | J Diabetes Metab Disord | Estudo metabolômico de perfis de aminoácidos, envelhecimento e hormônios sexuais em idosos iranianos |
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-O ácido glutâmico **não possui nenhum registro ativo na ANVISA**. Não há produtos comercializados no Brasil com este princípio ativo como ingrediente farmacêutico ativo registrado.
+Todos os 10 registros encontram-se cancelados; atualmente não há registro válido.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 104440053 | Organoneuro Cerebral | — | Polivitamínicos com minerais |
+| Registro 100850145 | Amixal | — | Nutrientes parenterais |
+| Registro 100850109 | Nutriflex Plus | — | Nutrientes parenterais |
+| Registro 100850246 | Nutriflex Lipid | — | Nutrientes parenterais |
+| Registro 100850124 | Nutriflex Lipid | — | Nutrientes parenterais |
+
+(Listados os 5 principais, de um total de 10 registros cancelados.)
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações relatadas no grafo de conhecimento (TxGNN/PrimeKG, não oriundas de bula)**: doença renal (incluindo doença renal crônica e insuficiência renal terminal), nefrolitíase, nefrocalcinose, hipercalcemia e distúrbios relacionados (hiperparatireoidismo, osteíte fibrosa, hipercalcemia humoral da malignidade, sarcoidose), distúrbios do metabolismo do fósforo, doenças cardíacas e cardiovasculares, intoxicação digitálica, fibrilação ventricular, nefropatia aguda por urato, fenilcetonúria e distúrbios do metabolismo da fenilalanina.
+- **Interações Medicamentosas** (5 registradas, todas de gravidade moderada): anfetamina, benzfetamina, dextroanfetamina, lisdexanfetamina e metanfetamina.
+
+Para advertências e contraindicações formais, consulte a bula.
 
 ---
 
@@ -106,15 +115,17 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-Embora exista uma ligação mecanística plausível via γ-carboxilação do osteocalcina, as evidências clínicas disponíveis são majoritariamente indiretas — os estudos testam derivados (poli-γ-ácido glutâmico) ou cofatores (vitamina K2), não o ácido glutâmico livre como agente terapêutico isolado. A ausência de registros no Brasil e de qualquer ensaio clínico direto impede a progressão imediata para desenvolvimento clínico.
+- Não há ensaios clínicos do ácido glutâmico na osteoporose pós-menopausa; a literatura refere-se a compostos relacionados (vitamina K2, vitamina D3, ácido poli-γ-glutâmico) ou a modelos animais. A evidência é de nível L4 e a pontuação do modelo não é respaldada por dados clínicos diretos.
+- Todos os registros brasileiros estão cancelados, e há contraindicações potencialmente relevantes (doença renal, hipercalcemia, doenças cardiovasculares).
 
 **Para prosseguir, é necessário:**
-- Conduzir ou identificar ensaio clínico controlado testando ácido glutâmico livre (oral) em mulheres pós-menopáusicas com osteoporose confirmada
-- Obter dados de mecanismo de ação formal (DrugBank API — lacuna DG002)
-- Levantar advertências e contraindicações na bula ANVISA/FDA (lacuna DG001)
-- Definir dose terapêutica, via de administração e regime de suplementação
-- Estabelecer diferenciação farmacológica clara entre ácido glutâmico livre, poli-γ-ácido glutâmico e vitamina K2 como intervenções distintas
-- Avaliar segurança de suplementação exógena dado o papel do ácido glutâmico como neurotransmissor excitatório (risco teórico de excitotoxicidade em doses elevadas)
+- Dados do mecanismo de ação (MOA) e da relação direta entre o ácido glutâmico e o metabolismo ósseo
+- Bula oficial da ANVISA, com advertências e contraindicações
+- Estudos pré-clínicos específicos do ácido glutâmico em modelos de osteoporose, antes de qualquer ensaio clínico
+- Avaliação da viabilidade regulatória, dado que não há registro válido no Brasil, e da via de administração
+- Avaliação de segurança em pacientes com doença renal ou cardiovascular
+
+**Observação sobre outras indicações previstas:** osteoporose associada à gravidez, glaucoma hereditário primário e gastroparesia têm nível de evidência L5 e recomendação Hold. Para o glaucoma, a excitotoxicidade do glutamato sugere risco, e não benefício. Para a gastroparesia, a literatura recuperada (anticorpos anti-GAD) não tem relação com o ácido glutâmico como fármaco.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

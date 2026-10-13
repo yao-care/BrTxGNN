@@ -2,7 +2,7 @@
 layout: default
 title: Colchicine
 parent: Apenas Predição do Modelo (L5)
-nav_order: 200
+nav_order: 241
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,88 +29,100 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-O skill TxGNN Pipeline não fornece instruções específicas para geração de relatórios — o sistema prompt já contém o formato completo. Vou gerar o relatório diretamente com base no Evidence Pack.
-
----
-
-# Colchicine: Da Gota à Malária por Plasmodium falciparum
+# Colchicina: De antiinflamatório/antigotoso para Febre Familiar do Mediterrâneo
 
 ## Resumo em Uma Frase
 
-Colchicine é um alcaloide natural derivado do açafrão-dos-prados (*Colchicum autumnale*), classicamente utilizado no tratamento agudo da gota e como profilaxia da Febre Mediterrânea Familiar (FMF). O modelo TxGNN prevê que pode ser eficaz contra a **Malária por Plasmodium falciparum**, atualmente apoiada por **6 publicações científicas** — todas restritas a estudos *in vitro* ou básicos, sem nenhum ensaio clínico registrado nessa indicação.
-
----
+Colchicina é um fármaco originalmente classificado no Brasil como antiinflamatório antirreumático e antigotoso.
+O modelo TxGNN prevê que pode ser eficaz para **Febre Familiar do Mediterrâneo, autossômica dominante (familial Mediterranean fever, autosomal dominant)**,
+atualmente com **0 ensaios clínicos registrados** e **20 publicações** (em sua maioria revisões) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Gota aguda / Febre Mediterrânea Familiar (FMF) |
-| Nova Indicação Prevista | Malária por Plasmodium falciparum |
-| Pontuação de Previsão TxGNN | 99,60% |
-| Nível de Evidência | L4 (apenas estudos pré-clínicos) |
-| Situação no Mercado Brasileiro | Não comercializado (sem registros ANVISA) |
-| Número de Registros | 0 |
-| Decisão Recomendada | Hold |
+| Indicação Original | Antiinflamatórios antirreumáticos (e antigotosos) |
+| Nova Indicação Prevista | Febre Familiar do Mediterrâneo, autossômica dominante (familial Mediterranean fever, autosomal dominant) |
+| Pontuação de Previsão TxGNN | 99,38% |
+| Nível de Evidência | L1 (atribuído com base em ensaios clássicos de fase 3 controlados por placebo, dos anos 1970-80, que não constam nos dados compilados e precisam ser verificados; pelos dados disponíveis, a evidência seria L3) |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 7 (todos cancelados) |
+| Decisão Recomendada | Proceed with Guardrails |
 
----
+> Observação: a indicação com maior pontuação TxGNN é a malária por *Plasmodium falciparum* (99,60%), mas ela tem apenas evidência L5 e racional fraco (Hold). Este relatório foca na Febre Familiar do Mediterrâneo, que tem a evidência mais robusta entre as três indicações previstas. A terceira indicação (dermatofibrossarcoma protuberans, 99,37%) também está em L5 e Hold.
 
 ## Por que Esta Previsão é Razoável?
 
-Colchicine liga-se com alta afinidade à subunidade β da tubulina no chamado **sítio de ligação da colchicine**, impedindo a polimerização dos microtúbulos e bloqueando a divisão celular na fase G2/M do ciclo mitótico. É esse mesmo mecanismo que explica sua ação anti-inflamatória: ao desestabilizar os microtúbulos de neutrófilos, inibe a migração, desgranulação e ativação do inflamassoma de pirina. Trata-se, portanto, de um fármaco cujo alvo molecular é a dinâmica dos microtúbulos em células eucarióticas.
+Atualmente, não há dados detalhados de mecanismo de ação na base compilada. Segundo conhecimento estabelecido, a colchicina liga-se à tubulina e inibe a polimerização dos microtúbulos. Com isso, reduz a quimiotaxia e a degranulação de neutrófilos e suprime a ativação de IL-1β ligada ao inflamassoma NLRP3/pirina.
 
-O *Plasmodium falciparum* depende criticamente de um sistema de microtúbulos funcional em múltiplas etapas do seu ciclo de vida intraeritrocítico — incluindo a montagem do fuso mitótico durante a esquizogonia, a formação dos merozoítos e o desenvolvimento dos gametócitos. Compostos que interferem na dinâmica do citoesqueleto parasitário demonstraram atividade inibitória *in vitro*: o colcemid (análogo estrutural da colchicine) inibiu a síntese proteica em *P. falciparum* (PMID 2221861), e substâncias ligantes de tubulina mostraram atividade antimalárica experimental (PMIDs 2670249/2655935). Existe, portanto, uma base mecanística plausível para a previsão do modelo.
+A Febre Familiar do Mediterrâneo (FMF) é causada por mutações de ganho de função no gene *MEFV* (pirina), que geram inflamação excessiva mediada por IL-1β, com crises de febre e serosite. A relação com a indicação original é direta: em ambas as situações (gota e FMF) há inflamação neutrofílica, e a colchicina atua nessa via. Ela é o tratamento de primeira linha da FMF, usado para prevenir crises e a amiloidose AA, conforme descrito em diretrizes e revisões (por exemplo, PMIDs 37298536, 32806879 e 30686512).
 
-Contudo, há ressalvas importantes que justificam cautela: (1) as tubulinas do *P. falciparum* apresentam diferenças moleculares significativas em relação às de mamíferos, o que pode limitar a seletividade; (2) toda a evidência disponível data de estudos *in vitro* publicados entre 1984 e 2013, sem nenhum dado *in vivo* ou clínico; (3) a colchicine possui janela terapêutica estreita, o que impõe limitações sérias ao uso em doses antiparasitárias. O salto translacional da bancada para a clínica permanece completamente inexplorado.
-
----
+Um ponto de atenção: o rótulo "autossômica dominante" corresponde a um subtipo; a FMF típica tem herança autossômica recessiva, então o mapeamento na ontologia de doenças deve ser conferido.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para Colchicine em Malária por *Plasmodium falciparum*.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
+Foram identificadas 20 publicações, majoritariamente revisões. Seguem as 10 mais relevantes:
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [2221861](https://pubmed.ncbi.nlm.nih.gov/2221861/) | 1990 | In vitro | Antimicrob Agents Chemother | Colcemid (análogo da colchicine) inibiu síntese proteica em *P. falciparum*, semelhante às tubulozolas; aponta o citoesqueleto parasitário como alvo relevante |
-| [2670249](https://pubmed.ncbi.nlm.nih.gov/2670249/) | 1989 | In vitro | Cell Biol Int Rep | Nove compostos ligantes de tubulina testados contra desenvolvimento intraeritrocítico de *P. falciparum*; tubulinas do parasita diferem molecularmente das de mamíferos |
-| [2655935](https://pubmed.ncbi.nlm.nih.gov/2655935/) | 1989 | In vitro | Cell Biol Int Rep | Mesmo experimento (possível publicação duplicada): compostos ligantes do citoesqueleto com atividade antimalárica *in vitro*; tubulozola-T destaque como candidato antimalarial |
-| [23505424](https://pubmed.ncbi.nlm.nih.gov/23505424/) | 2013 | In vitro | PLoS ONE | Curcumina (outro ligante de tubulina) disrupta microtúbulos de *P. falciparum*; suporte indireto ao conceito de alvo tubulínico no parasita |
-| [6362934](https://pubmed.ncbi.nlm.nih.gov/6362934/) | 1984 | Observacional | Clin Exp Immunol | 82% dos pacientes com malária aguda apresentavam anticorpos anti-filamentos intermediários do citoesqueleto; evidência de envolvimento imunológico do citoesqueleto na patogênese |
-| [7511206](https://pubmed.ncbi.nlm.nih.gov/7511206/) | 1994 | Básico/Molecular | Mol Cell Biol | Estudo sobre pfmdr1 e resistência à cloroquina em *P. falciparum*; relevância periférica ao contexto de alvos moleculares no parasita |
-
----
+| [37298536](https://pubmed.ncbi.nlm.nih.gov/37298536/) | 2023 | Revisão | Int J Mol Sci | Atualização sobre FMF, a doença autoinflamatória prototípica, incluindo resistência ao tratamento e adesão |
+| [32806879](https://pubmed.ncbi.nlm.nih.gov/32806879/) | 2020 | Revisão | Turk J Med Sci | Da patogênese ao tratamento: FMF é causada por mutações de ganho de função em *MEFV* (pirina); novidades em diagnóstico e terapia |
+| [29768139](https://pubmed.ncbi.nlm.nih.gov/29768139/) | 2018 | Revisão | N Engl J Med | Canaquinumabe em síndromes febris autoinflamatórias recorrentes, incluindo FMF (contexto de segunda linha) |
+| [30686512](https://pubmed.ncbi.nlm.nih.gov/30686512/) | 2019 | Revisão | Presse Med | FMF é a síndrome febril periódica hereditária mais frequente e antiga; associada a mutações em *MEFV* |
+| [28413100](https://pubmed.ncbi.nlm.nih.gov/28413100/) | 2017 | Revisão | Semin Arthritis Rheum | Colchicina é o padrão-ouro; até 5% dos pacientes são resistentes ou intolerantes; alternativas terapêuticas |
+| [38925725](https://pubmed.ncbi.nlm.nih.gov/38925725/) | 2024 | Revisão/comentário | J Am Coll Cardiol | Inflamação, colchicina e doença aterosclerótica na FMF |
+| [25649364](https://pubmed.ncbi.nlm.nih.gov/25649364/) | 2014 | Revisão | Acta Med (Hradec Kralove) | A colchicina é o agente que reduz o desenvolvimento de amiloidose e a frequência/gravidade das crises |
+| [25760087](https://pubmed.ncbi.nlm.nih.gov/25760087/) | 2015 | Revisão | Curr Med Chem | Agentes biológicos na FMF; 5% a 10% dos pacientes são resistentes ou intolerantes à colchicina |
+| [36062765](https://pubmed.ncbi.nlm.nih.gov/36062765/) | 2022 | Revisão | Clin Exp Rheumatol | Inibição de IL-1 na FMF; colchicina é a droga de escolha desde 1972; níveis regulados por glicoproteína-P e CYP3A4 |
+| [26572612](https://pubmed.ncbi.nlm.nih.gov/26572612/) | 2016 | Revisão | Curr Med Chem | Colchicina, biológicos e outras opções no tratamento da FMF |
 
 ## Informações de Comercialização no Brasil
 
-Colchicine **não possui registros ativos na ANVISA** conforme dados disponíveis neste Evidence Pack. Não há licenças, formas farmacêuticas registradas ou indicações aprovadas no Brasil.
+Todos os 7 registros encontrados estão cancelados; atualmente não há registro válido.
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 120190075 | COXYM | Não informada | Antiinflamatórios antirreumáticos |
+| Registro 101180109 | COLCHIS | Não informada | Antigotosos |
+| Registro 154230203 | COLCHICINA | Não informada | Antigotosos |
+| Registro 118190144 | COLCHICINA | Não informada | Antiinflamatórios antirreumáticos |
+| Registro 118190397 | GOLTRITE | Não informada | Antiinflamatórios antirreumáticos |
+
+## Citotoxicidade
+
+| Item | Conteúdo |
+|------|------|
+| Classificação de Citotoxicidade | Não aplicável como antineoplásico; trata-se de agente antimitótico (inibidor de microtúbulos) com toxicidade sistêmica |
+| Risco de Mielossupressão | Consulte as advertências e precauções na bula (o grafo de conhecimento associa o fármaco a contraindicações em neutropenia, leucopenia, agranulocitose, trombocitopenia e anemia aplástica) |
+| Classificação de Emetogenicidade | Consulte as advertências e precauções na bula (intolerância gastrointestinal é relatada na literatura) |
+| Itens de Monitoramento | Hemograma completo, função hepática e renal, sinais de miotoxicidade |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
-Colchicine possui **estreita janela terapêutica**, sem distinção clara entre doses não tóxicas, tóxicas e letais. Consulte a bula oficial e as diretrizes clínicas vigentes para informações completas sobre advertências, contraindicações e interações medicamentosas antes de qualquer uso clínico.
-
----
+- **Contraindicações e condições de risco (segundo o grafo de conhecimento TxGNN/PrimeKG, não o texto da bula)**: insuficiência hepática, insuficiência renal, doenças hematológicas (trombocitopenia, leucopenia, agranulocitose, neutropenia e anemia aplástica), úlcera péptica, miopatia e rabdomiólise, doenças diarreicas e nefropatia aguda por urato.
+- **Interações medicamentosas** (100 interações registradas; principais exemplos):
+  - **Graves**: aprepitanto, claritromicina, eliglustate, rolapitanto, rosuvastatina, sinvastatina, cobicistate, deferiprona.
+  - **Moderadas**: metronidazol, cimetidina, eluxadolina, miconazol, tinidazol, deferasirox, ticagrelor, cloroquina, benznidazol, dissulfiram, fostamatinibe, cloreto de estrôncio Sr-89.
+  - O risco está ligado principalmente a inibidores de CYP3A4/glicoproteína-P e a estatinas (miotoxicidade).
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Toda a evidência disponível para colchicine em malária por *P. falciparum* se restringe a estudos *in vitro* publicados entre 1984 e 2013, sem nenhum ensaio clínico registrado e sem modelos *in vivo* publicados. O nível L4 de evidência, combinado com a janela terapêutica estreita do fármaco, é insuficiente para avançar sem dados experimentais adicionais. Ademais, a ausência de registro na ANVISA impõe barreira regulatória adicional para qualquer desenvolvimento clínico no Brasil.
+- A colchicina é o tratamento de primeira linha estabelecido para a FMF, com mecanismo diretamente ligado à via da pirina/IL-1β e ampla documentação em revisões e diretrizes. Porém, os dados compilados não trazem ensaios registrados nem estudos primários, e o mercado brasileiro tem apenas registros cancelados.
 
-> **⚠️ Achado paralelo de alta relevância:** A segunda indicação prevista pelo TxGNN — **Febre Mediterrânea Familiar (FMF)** — possui evidência de nível **L1**, com colchicine reconhecida globalmente como tratamento de primeira linha (grau A pelas diretrizes EULAR/ACR). Este achado deve ser priorizado em análises subsequentes.
-
-**Para prosseguir com a indicação de malária, é necessário:**
-- Estudos *in vivo* em modelos animais de *P. falciparum* para determinar eficácia e janela terapêutica segura
-- Determinação da IC₅₀ da colchicine diretamente contra *P. falciparum* (separado dos dados de análogos estruturais como colcemid)
-- Avaliação do risco de toxicidade sistêmica em doses antiparasitárias
-- Obtenção do MOA completo via DrugBank API (gap DG002) e triagem de interações medicamentosas relevantes ao contexto de malária
-- Regularização do registro na ANVISA caso se avance para estudos clínicos no Brasil
+**Para prosseguir, é necessário:**
+- Verificar os ensaios clássicos controlados por placebo que sustentam o nível L1, pois não constam nos dados compilados.
+- Obter a bula da ANVISA (advertências e contraindicações), hoje ausente, e os dados formais de mecanismo de ação.
+- Confirmar a disponibilidade local do produto, já que todos os registros estão cancelados.
+- Definir salvaguardas: ajuste de dose por função renal e hepática, triagem de interações com CYP3A4/glicoproteína-P, monitoramento de intolerância gastrointestinal e miotoxicidade, e uso de inibidor de IL-1 (por exemplo, canaquinumabe) em casos resistentes ou intolerantes.
+- Revisar o mapeamento do subtipo "autossômico dominante" na ontologia de doenças.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Aclidínio Bromide
 parent: Apenas Predição do Modelo (L5)
-nav_order: 22
+nav_order: 25
 evidence_level: L5
 indication_count: 0
 ---

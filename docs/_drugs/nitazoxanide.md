@@ -2,7 +2,7 @@
 layout: default
 title: Nitazoxanide
 parent: Apenas Predição do Modelo (L5)
-nav_order: 359
+nav_order: 471
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,81 +29,70 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Skill carregada. Agora gero o relatório com base no Evidence Pack.
-
----
-
-# Nitazoxanide: Da antiparasitária à Hiperamilasemia
+# Nitazoxanida: De antiparasitário a hiperamilasemia
 
 ## Resumo em Uma Frase
 
-Nitazoxanide é um agente antiparasitário/antiprotozoário utilizado internacionalmente para o tratamento de giardíase e criptosporidiose, porém **não registrado no Brasil** pela ANVISA.
-O modelo TxGNN prevê que pode ser eficaz para **Hiperamilasemia (Hyperamylasemia)**,
-contudo esta previsão conta atualmente com **0 ensaios clínicos** e **0 publicações** de suporte direto, representando exclusivamente uma hipótese computacional.
-
----
+Nitazoxanida é um antiparasitário, registrado na ANVISA na categoria "antiparasitários".
+O modelo TxGNN prevê que pode ser eficaz para **hiperamilasemia (hyperamylasemia)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A previsão baseia-se apenas no modelo computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antiparasitária (giardíase, criptosporidiose) — uso internacional; sem registro no Brasil |
-| Nova Indicação Prevista | Hiperamilasemia (Hyperamylasemia) |
+| Indicação Original | Antiparasitários |
+| Nova Indicação Prevista | Hiperamilasemia (hyperamylasemia) |
 | Pontuação de Previsão TxGNN | 97,82% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (0 registros ANVISA) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Somente registros cancelados (nenhum registro vigente) |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Com base em informações conhecidas da literatura farmacológica, Nitazoxanide pertence à classe das tiazolidas, atuando principalmente por inibição da enzima piruvato:ferredoxina oxidorredutase (PFOR), essencial ao metabolismo energético anaeróbico de parasitas. Há também evidências de que o fármaco modula a via mTOR e induz autofagia celular, o que despertou interesse em pesquisa oncológica e antiviral.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a nitazoxanida (por meio do metabólito tizoxanida) é um agente antiparasitário e antiviral que inibe a enzima piruvato:ferredoxina oxidorredutase em organismos anaeróbios e modula vias do hospedeiro, como AMPK/mTOR e a resposta a proteínas mal enoveladas.
 
-A hiperamilasemia é uma alteração laboratorial (elevação da amilase sérica) de origem pancreática ou salivar, e não uma doença com mecanismo patogênico único. A conexão entre a inibição de PFOR/mTOR e a regulação da secreção ou metabolismo de amilase é biologicamente pouco plausível, conforme indicado na própria análise mecanística do modelo.
+**Não foi identificado um vínculo mecanístico plausível** com a hiperamilasemia. Trata-se de um achado laboratorial (elevação da amilase sérica), e não de uma doença com alvo farmacológico definido. A pontuação alta do TxGNN provavelmente reflete proximidade no grafo de conhecimento, e não relevância biológica.
 
-Em termos práticos, **a previsão do TxGNN para esta indicação deve ser interpretada com cautela**. O score elevado (97,82%) reflete o posicionamento no espaço do grafo de conhecimento, mas a ausência total de estudos clínicos, dados pré-clínicos direcionados e suporte literário torna a hipótese exclusivamente especulativa neste momento.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados para Nitazoxanide em hiperamilasemia.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada para Nitazoxanide em hiperamilasemia.
-
----
+Outras indicações previstas, todas sem ensaios ou literatura, também carecem de justificativa mecanística sólida: síndrome de hiperviscosidade policlonal, analbuminemia congênita, incompatibilidade de grupo sanguíneo, doenças hematológicas pré-malignas, gamopatia monoclonal, peste septicêmica e peste bubônica. Para as condições hematológicas pré-malignas e a gamopatia monoclonal, há apenas um vínculo especulativo, baseado em efeitos antiproliferativos in vitro (vias Wnt/β-catenina, mTORC1 e STAT3).
 
 ## Informações de Comercialização no Brasil
 
-Nitazoxanide **não possui nenhum registro ativo na ANVISA** e não é comercializado no Brasil. Não há dados de licenciamento a apresentar.
+Todos os 20 registros estão cancelados. Principais registros:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 155840655 | Nitazoxanida | Não informada | Antiparasitários |
+| Registro nº 135170032 | Nitazoxanida | Não informada | Antiparasitários |
+| Registro nº 135170073 | Irosê | Não informada | Antiparasitários |
+| Registro nº 101180647 | Nydda | Não informada | Antiparasitários |
+| Registro nº 118190391 | Zoxylab | Não informada | Antiparasitários |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações no grafo de conhecimento (não da bula)**: o grafo de conhecimento do TxGNN associa o fármaco a contraindicações em doença renal, piureter, doença hepática, doença da vesícula biliar, diabetes mellitus e cetoacidose diabética. Esses itens precisam ser confirmados na bula.
+- **Interações medicamentosas**: foram identificadas 22 interações, todas de nível moderado (20 detalhadas nos dados compilados):
+  - **Sulfonilureias** (acetohexamida, clorpropamida, glimepirida, glipizida, glibenclamida, tolazamida, tolbutamida): risco potencial de hipoglicemia.
+  - **Anticoagulantes** (varfarina, dicumarol): risco potencial de aumento do efeito anticoagulante.
+  - **Benzodiazepínicos** (ácido clorazépico, diazepam, estazolam, flurazepam, lorazepam, midazolam, oxazepam, quazepam).
+  - **Outros**: lidocaína, metotrexato e fenitoína.
 
----
+Os dados de advertências e contraindicações da bula não estavam disponíveis. Consulte a bula para informações complementares de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para hiperamilasemia em Nitazoxanide não é suportada por nenhum ensaio clínico, estudo pré-clínico direcionado ou publicação científica específica. A análise mecanística indica conexão fraca entre o perfil farmacológico do fármaco e a fisiopatologia da hiperamilasemia, tornando prematura qualquer iniciativa de desenvolvimento nesta direção.
+- Não há ensaios clínicos nem literatura para a hiperamilasemia (nível L5), e a análise não identificou vínculo mecanístico plausível. A pontuação alta do modelo parece ser um artefato do grafo de conhecimento.
+- Além disso, todos os 20 registros brasileiros estão cancelados, o que limita a viabilidade regulatória imediata.
 
-**Para prosseguir, seria necessário:**
-- Dados de MOA completos (DrugBank API) para análise de conectividade mecanística aprofundada
-- Estudos in vitro ou in vivo demonstrando efeito de Nitazoxanide sobre vias de secreção/metabolismo de amilase
-- Hipótese biológica plausível que justifique o vínculo entre PFOR/mTOR e regulação amilásica
-- Registro na ANVISA (processo regulatório local) como pré-requisito para qualquer uso clínico no Brasil
-- Informações de segurança completas (advertências, contraindicações) via bula ANVISA/TFDA
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência que bloqueia a triagem de segurança.
+- Complementar os dados do mecanismo de ação (por exemplo, via consulta ao DrugBank).
+- Verificar se a hiperamilasemia é um alvo terapêutico legítimo, já que se trata de um achado laboratorial, e não de uma doença.
+- Realizar uma busca sistemática de literatura e de ensaios clínicos; sem evidência pré-clínica ou clínica, não se recomenda avançar.
+- Avaliar o status regulatório (registros cancelados) e a compatibilidade de via de administração caso a indicação venha a ser reconsiderada.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

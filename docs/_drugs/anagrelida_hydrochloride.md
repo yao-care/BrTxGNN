@@ -2,7 +2,7 @@
 layout: default
 title: Anagrelida Hydrochloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 63
+nav_order: 69
 evidence_level: L5
 indication_count: 0
 ---

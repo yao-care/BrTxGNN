@@ -2,7 +2,7 @@
 layout: default
 title: Benznidazol
 parent: Apenas Predição do Modelo (L5)
-nav_order: 106
+nav_order: 121
 evidence_level: L5
 indication_count: 0
 ---

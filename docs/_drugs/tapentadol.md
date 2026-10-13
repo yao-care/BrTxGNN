@@ -2,7 +2,7 @@
 layout: default
 title: Tapentadol
 parent: Apenas Predição do Modelo (L5)
-nav_order: 456
+nav_order: 606
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,82 +29,70 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tapentadol: Da dor moderada a grave para o transtorno de enxaqueca
+# Tapentadol: De analgésico opioide para enxaqueca (previsão do modelo)
 
 ## Resumo em Uma Frase
 
-Tapentadol é um analgésico opioide de nova geração com mecanismo dual — agonismo µ-opioide (MOR) e inibição da recaptação de noradrenalina (NRI) —, aprovado para o tratamento de dor moderada a grave, aguda e crônica.
-O modelo TxGNN prevê que pode ser eficaz para o **Transtorno de Enxaqueca (Migraine Disorder)**, contudo atualmente há **0 ensaios clínicos** específicos e apenas **2 publicações** tangencialmente relacionadas apoiando esta direção.
-A plausibilidade clínica desta previsão é muito baixa, configurando provável falso positivo do modelo.
-
----
+Tapentadol é um analgésico de ação central que combina agonismo do receptor μ-opioide e inibição da recaptação de noradrenalina, usado no manejo da dor. Os dados compilados para este relatório não trazem indicação aprovada no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**, atualmente com **0 ensaios clínicos** e **0 publicações** diretamente apoiando esta direção. Trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Dor moderada a grave (aguda e crônica) |
-| Nova Indicação Prevista | Transtorno de Enxaqueca (Migraine Disorder) |
+|------|------|
+| Indicação Original | Não disponível nos dados compilados (sem registro ativo na ANVISA) |
+| Nova Indicação Prevista | Enxaqueca (migraine disorder) |
 | Pontuação de Previsão TxGNN | 99,67% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 4 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Com base em informações conhecidas, Tapentadol é um analgésico de ação central pertencente à classe dos opioides de nova geração, com mecanismo dual único: **agonista do receptor µ-opioide (MOR)** — responsável pela analgesia central clássica — e **inibidor da recaptação de noradrenalina (NRI)**, que potencializa o controle descendente da dor, especialmente em componentes neuropáticos. Esta dupla ação distingue-o dos opioides tradicionais (como morfina e oxicodona) e aproxima-o, em parte, dos antidepressivos SNRIs como duloxetina e venlafaxina.
+Os dados compilados não trazem informações detalhadas sobre o mecanismo de ação registrado. Segundo informações conhecidas, o tapentadol combina agonismo do receptor μ-opioide com inibição da recaptação de noradrenalina, o que poderia modular vias centrais de dor.
 
-A enxaqueca é uma condição neurovascular episódica complexa, cujos mecanismos centrais envolvem sensibilização do nervo trigêmio, liberação de peptídeo relacionado ao gene da calcitonina (CGRP), disfunção do sistema serotonérgico e ativação cortical. A alta pontuação computacional do TxGNN pode refletir sobreposições no grafo de conhecimento entre dor, cefaleia e receptores opioides, capturando associações estruturais sem validação clínica.
+Essa ligação com a dor é a base plausível da previsão: a enxaqueca é uma condição dolorosa e, no grafo de conhecimento, está próxima de outros nós de dor e cefaleia. Contudo, a plausibilidade é limitada. Opioides em geral são desencorajados na enxaqueca por causa do risco de cefaleia por uso excessivo de medicamentos, cronificação, dependência e eficácia limitada.
 
-No entanto, existe uma **contraindicação mecanística crítica**: as principais diretrizes internacionais de neurologia (IHS, AAN, EHF) contra-indicam explicitamente o uso de opioides no tratamento da enxaqueca. O risco de **cefaleia por uso excessivo de medicamento (MOH — Medication Overuse Headache)** é elevado com opioides: o uso frequente paradoxalmente cronifica e agrava a cefaleia. Adicionalmente, o componente NRI não possui mecanismo protetor reconhecido para enxaqueca — diferentemente dos betabloqueadores, antiepilépticos ou antidepressivos tricíclicos usados na profilaxia. Esta previsão configura, portanto, um **provável falso positivo do modelo TxGNN**.
-
----
+A pontuação alta (0,997) não é acompanhada de nenhum ensaio clínico ou publicação sobre tapentadol em enxaqueca. A previsão deve, portanto, ser tratada como hipótese a ser investigada, não como evidência de benefício.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
+Para a enxaqueca (previsão principal) não foi recuperada literatura. Nas indicações próximas, a literatura é apenas indireta:
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [27096578](https://pubmed.ncbi.nlm.nih.gov/27096578/) | 2016 | Cochrane Review | Cochrane Database Syst Rev | Revisão de dipirona (metamizol) para dor pós-operatória aguda; menciona enxaqueca como contexto de uso da dipirona — não avalia Tapentadol |
-| [27096438](https://pubmed.ncbi.nlm.nih.gov/27096438/) | 2016 | Cochrane Review | Cochrane Database Syst Rev | Sumatriptano + naproxeno para enxaqueca aguda em adultos; estudo de referência sobre tratamento da enxaqueca com triptanos e AINEs — não relacionado a Tapentadol |
+|------|-----|------|------|---------|
+| [29760569](https://pubmed.ncbi.nlm.nih.gov/29760569/) | 2018 | Coorte | Drug Healthc Patient Saf | Opioides não são recomendados para enxaqueca (risco de cefaleia por uso excessivo e dependência); alerta da FDA sobre síndrome serotoninérgica com triptanos e antidepressivos serotoninérgicos |
+| [33689517](https://pubmed.ncbi.nlm.nih.gov/33689517/) | 2021 | Revisão | Expert Opin Pharmacother | Discute AINEs e paracetamol como alternativas aos opioides na dor aguda |
+| [29616344](https://pubmed.ncbi.nlm.nih.gov/29616344/) | 2018 | Revisão | Curr Pain Headache Rep | Revisão de terapias não opioides na dor crônica; sem demonstração de eficácia do tapentadol em cefaleia |
+| [28729524](https://pubmed.ncbi.nlm.nih.gov/28729524/) | 2017 | Relato de caso/Revisão | Am J Case Rep | Parada cardíaca após uso abusivo de tapentadol intravenoso em paciente com cefaleia intratável (sinal de segurança, não de eficácia) |
 
-> **Nota importante**: Nenhuma das publicações identificadas avalia Tapentadol para o tratamento de enxaqueca. Ambas tratam de outros fármacos, e a associação com Tapentadol é apenas contextual via termos de busca. A ausência de literatura direta confirma o nível de evidência L5.
-
----
-
-## Informações de Comercialização no Brasil
-
-O fármaco possui **4 registros** ativos na ANVISA, confirmando sua comercialização no mercado brasileiro. Os detalhes individuais dos registros (números de registro, nomes comerciais, formas farmacêuticas e indicações aprovadas) não foram recuperados neste Evidence Pack e devem ser consultados diretamente no [portal de consulta da ANVISA](https://consultas.anvisa.gov.br/).
-
----
+Nenhum desses estudos demonstra eficácia do tapentadol em enxaqueca.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; entre as listadas, as de gravidade **Maior** incluem bupropiona, morfina, lorcasserina, dietilpropiona, dolasetrona, palonosetrona e fentermina. Há também interações de gravidade **Moderada**, como epinefrina, hiosciamina, atropina, glicopirrônio, diciclomina, trospio, naloxona, dronabinol, nabilona, eluxadolina, picossulfato de sódio, polietilenoglicol com eletrólitos e sulfato de sódio.
+- **Riscos observados na literatura**: possível síndrome serotoninérgica quando associado a triptanos ou antidepressivos serotoninérgicos (relevante em enxaqueca); risco de abuso e uso não médico; relato de parada cardíaca com uso intravenoso indevido; risco de cefaleia por uso excessivo de medicamentos com opioides.
 
----
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Apesar da alta pontuação computacional do TxGNN (99,67%), não há nenhum ensaio clínico específico para esta indicação, e a base mecanística é **ativamente desfavorável**: opioides são desaconselhados pelas diretrizes internacionais para enxaqueca pelo alto risco de MOH, e o componente NRI não possui eficácia estabelecida para cefaleia primária. Esta previsão representa um provável artefato do modelo — a alta pontuação decorre de sobreposições genéricas no grafo de conhecimento entre dor e cefaleia, não de uma relação farmacológica real.
+- A previsão tem pontuação alta, porém sem nenhum ensaio clínico ou estudo direto (nível L5). Há desencorajamento do uso de opioides em enxaqueca e sinais de risco (abuso, interação serotoninérgica), e o fármaco não está comercializado no Brasil.
 
-**Para prosseguir com qualquer investigação, seria necessário:**
-- Evidência pré-clínica demonstrando efeito específico de Tapentadol em modelos animais de enxaqueca (ex.: modelo de estimulação do gânglio trigeminal ou modelo de depressão alastrante cortical)
-- Hipótese mecanística que explique como MOR/NRI poderia modular a cascata do CGRP ou a sensibilização central trigeminal sem induzir MOH
-- Dados de farmacovigilância ou coortes retrospectivas de pacientes com enxaqueca que usaram Tapentadol para dor comórbida
-
-> **Nota sobre outras previsões do modelo**: Das 10 indicações previstas neste Evidence Pack, aquelas com melhor relação evidência/mecanismo incluem **insônia** (rank 6, L3, 6 ensaios clínicos indiretos) e **ansiedade** (rank 10, L4, 7 ensaios e 19 publicações), onde o componente NRI apresenta sobreposição com antidepressivos SNRI — indicações mais adequadas para investigação futura comparadas ao transtorno de enxaqueca.
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula/advertências e contraindicações da ANVISA (lacuna bloqueante para a triagem de segurança)
+- Complementar os dados de mecanismo de ação em fonte estruturada (ex.: DrugBank)
+- Buscar estudos pré-clínicos ou clínicos de tapentadol em enxaqueca/cefaleia que justifiquem avançar
+- Avaliar o balanço risco-benefício frente às alternativas estabelecidas (triptanos, gepantes, AINEs) e o risco de cefaleia por uso excessivo de medicamentos
+- Definir a situação regulatória no Brasil (sem registro ativo) e a compatibilidade de vias de administração
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

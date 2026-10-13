@@ -2,7 +2,7 @@
 layout: default
 title: Loperamide
 parent: Apenas Predição do Modelo (L5)
-nav_order: 328
+nav_order: 423
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,15 +29,13 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-A skill é sobre pipeline técnico — as instruções de relatório já estão no system prompt. Vou produzir o relatório agora.
-
----
-
-# Loperamide: Da diarreia aguda à conjuntivite contagiosa aguda
+# Loperamida: De antidiarreico a conjuntivite contagiosa aguda (previsão sem respaldo)
 
 ## Resumo em Uma Frase
 
-Loperamide é um antidiarreico clássico, amplamente utilizado no controle de diarreia aguda e crônica por sua ação agonista sobre os receptores μ-opioide do trato gastrointestinal. O modelo TxGNN prevê uma possível associação com **Conjuntivite Contagiosa Aguda (Acute Contagious Conjunctivitis)**, com pontuação de 99,97%; porém, **não há nenhum ensaio clínico nem publicação científica** apoiando esta direção, e a análise mecanística indica alta probabilidade de falso positivo por artefato do grafo de conhecimento.
+A loperamida é um antidiarreico simples, sem ação antimicrobiana, originalmente usado para controlar a diarreia.
+O modelo TxGNN prevê que poderia ser eficaz para **conjuntivite contagiosa aguda (acute contagious conjunctivitis)**, mas **não há nenhum ensaio clínico nem publicação** que sustente essa previsão.
+A pontuação alta parece ser um artefato do grafo de conhecimento, e não uma evidência biológica.
 
 ---
 
@@ -45,23 +43,23 @@ Loperamide é um antidiarreico clássico, amplamente utilizado no controle de di
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Sem registro regulatório disponível no Brasil (uso estabelecido: controle de diarreia aguda e crônica) |
-| Nova Indicação Prevista | Conjuntivite Contagiosa Aguda (Acute Contagious Conjunctivitis) |
+| Indicação Original | Antidiarreicos simples sem ação antimicrobiana |
+| Nova Indicação Prevista | Conjuntivite contagiosa aguda (acute contagious conjunctivitis) |
 | Pontuação de Previsão TxGNN | 99,97% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 8 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Por conhecimento farmacológico estabelecido, Loperamide (Imodium®) é um agonista seletivo dos receptores μ-opioide periféricos do trato gastrointestinal. Sua eficácia no controle da diarreia decorre da redução da motilidade intestinal, diminuição da secreção luminal de fluidos e eletrólitos, e aumento do tônus do esfíncter anal. Por não atravessar de forma significativa a barreira hematoencefálica em doses terapêuticas habituais, seus efeitos são essencialmente confinados ao intestino.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a loperamida é um agonista dos receptores opioides mu periféricos, que age nos neurônios mioentéricos do intestino e reduz a motilidade intestinal. É essa ação que explica seu uso no alívio sintomático da diarreia.
 
-A relação entre este mecanismo intestinal e a conjuntivite contagiosa aguda é biologicamente implausível. Embora receptores opioides existam em tecidos oculares, não há evidência que suporte qualquer efeito terapêutico de um agonista μ-opioide administrado por via sistêmica ou oral sobre infecções conjuntivais de origem infecciosa. A própria análise de plausibilidade mecanística do Evidence Pack confirma a ausência de vínculo credível, atribuindo a alta pontuação TxGNN a um artefato de propagação por nós intermediários compartilhados no grafo.
+**Na prática, a previsão não é razoável.** Não foi identificado nenhum vínculo mecanístico plausível entre a inibição da motilidade intestinal mediada por opioides e a conjuntivite infecciosa. O papel da loperamida no olho não tem respaldo. A pontuação elevada (0,9997) provavelmente decorre de vizinhos compartilhados na rede do grafo, não de justificativa biológica.
 
-Este padrão de pseudoassociação se repete de forma marcante no top 10 de previsões para este fármaco: **7 das 10 indicações previstas são variantes de conjuntivite** (conjuntivite folicular crônica, serosa, parasitária, pseudomembranosa, etc.), todas sem qualquer suporte mecanístico ou empírico. Trata-se de um cluster de predições espúrias gerado por conectividade indireta no grafo, e não de um sinal de reposicionamento legítimo.
+O mesmo padrão aparece nas demais previsões do modelo. Das 10 principais, 7 são variações de conjuntivite ou condições oculares correlatas (com pontuações idênticas em vários casos, sinal de artefato compartilhado), e nenhuma tem ensaio clínico. As duas previsões com alguma literatura, **disenteria amebiana** e **gastroduodenite**, apontam para **risco**, não para benefício (ver "Evidências da Literatura").
 
 ---
 
@@ -73,15 +71,39 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+Para a indicação principal (conjuntivite contagiosa aguda) não há literatura. A tabela abaixo reúne os estudos encontrados para outras previsões do modelo, que servem principalmente como alerta de segurança.
+
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [17241255](https://pubmed.ncbi.nlm.nih.gov/17241255/) | 2007 | Relato de caso | Journal of Travel Medicine | Colite amebiana fulminante (megacólon tóxico) após uso intenso de loperamida; antimotilidade pode agravar a infecção |
+| [41924411](https://pubmed.ncbi.nlm.nih.gov/41924411/) | 2026 | Relato de caso | Cureus | Depressão respiratória por loperamida em inflamação gastrointestinal grave pós-quimioterapia, com maior absorção sistêmica |
+| [3893119](https://pubmed.ncbi.nlm.nih.gov/3893119/) | 1985 | Revisão | The American Journal of Medicine | Terapias não líquidas e quimioprofilaxia da diarreia aguda; a hidratação oral é a base do tratamento |
+
+---
+
+## Informações de Comercialização no Brasil
+
+Todos os registros estão cancelados; atualmente não há registro válido.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 117170085 | Cloridrato de Loperamida | Não informada | Antidiarreicos simples sem ação antimicrobiana |
+| Registro nº 157211211 | Imosec | Não informada | Antidiarreicos adsorventes e antiflatulentos |
+| Registro nº 100470318 | Diasec | Não informada | Antidiarreicos adsorventes e antiflatulentos |
+| Registro nº 155840142 | Magnostase | Não informada | Antidiarreicos simples sem ação antimicrobiana |
+| Registro nº 105350159 | Cloridrato de Loperamida | Não informada | Antidiarreicos simples sem ação antimicrobiana |
+
+Há outros 3 registros cancelados (nº 100470525, 105350156 e 117170026), não listados por limite de 5 registros.
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (segundo o grafo de conhecimento, não texto de bula)**: doença hepática, doença da vesícula biliar, íleo paralítico, obstrução intestinal, miopatia visceral familiar, disenteria, doenças diarreicas, diarreia infecciosa e doenças infecciosas intestinais.
+- **Interações medicamentosas**: foram identificadas 100 interações no total. Entre as principais, de gravidade **maior**: abiraterona, ranitidina, fosamprenavir e genfibrozila. De gravidade **moderada**: outros opioides (codeína, di-hidrocodeína, tramadol), anti-histamínicos (clorfeniramina, cetirizina, acrivastina), etanol, salbutamol, alfuzosina, galantamina, foscarnet, fostamatinibe, fostemsavir, gemifloxacino e gilteritinibe.
+- **Sinais da literatura**: risco de megacólon tóxico em infecções invasivas (como amebíase) e de depressão respiratória com maior exposição sistêmica em inflamação intestinal grave.
 
-> ⚠️ **Alerta de segurança identificado na análise do top 10:** A previsão de Rank 2 (disenteria amebiana) apresenta sinal de segurança reverso. O artigo PMID [17241255](https://pubmed.ncbi.nlm.nih.gov/17241255/) relata um caso de colite amebiana fulminante precipitada pelo uso de Loperamide — configurando contraindicação potencial, e não candidatura a reposicionamento. O uso de agentes antimotilidade em gastroenterites infecciosas graves já foi associado ao risco de megacólon tóxico.
+Consulte a bula para as demais informações de segurança.
 
 ---
 
@@ -90,14 +112,14 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão de Loperamide para conjuntivite contagiosa aguda não possui suporte mecanístico plausível nem qualquer evidência empírica (nível L5). A pontuação TxGNN elevada reflete artefato de conectividade no grafo de conhecimento, e não potencial terapêutico real. O padrão de cluster de conjuntivites no top 10 sugere necessidade de revisão do pipeline de mapeamento antes de qualquer análise aprofundada.
+- A previsão não tem ensaios clínicos, literatura nem mecanismo plausível (nível L5), e a pontuação alta parece ser artefato do grafo. Não há registro válido no Brasil.
+- Os únicos sinais da literatura nas previsões relacionadas indicam risco, não benefício.
 
-**Para prosseguir, é necessário:**
-- Obter dados completos de MOA do DrugBank (DG002 — severidade High)
-- Obter advertências e contraindicações da bula ANVISA (DG001 — severidade Blocking)
-- Investigar o sinal de segurança negativo identificado (PMID 17241255): risco de agravamento em infecções intestinais invasivas
-- Revisar o pipeline TxGNN para identificar e corrigir o cluster de pseudoassociações com conjuntivite originado por nós intermediários compartilhados no grafo
-- Avaliar separadamente a indicação de Rank 4 (gastroduodenite), a única com hipótese mecanística fraca e registro histórico na literatura (PMID 3520142, 1986), antes de qualquer decisão sobre avanço
+**Para prosseguir, seria necessário:**
+- Dados de mecanismo de ação (MOA) confirmados, por exemplo via DrugBank.
+- Obter e analisar as bulas na ANVISA (advertências e contraindicações), pendência que bloqueia a triagem de segurança.
+- Algum indício biológico ou pré-clínico que ligue a loperamida à superfície ocular; sem isso, não se recomenda investimento adicional.
+- Reavaliar a rota de administração, pois a loperamida é de uso oral e a indicação ocular exigiria via tópica, ainda não avaliada.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

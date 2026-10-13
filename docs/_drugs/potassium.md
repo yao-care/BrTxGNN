@@ -2,7 +2,7 @@
 layout: default
 title: Potassium
 parent: Evidência Alta (L1-L2)
-nav_order: 403
+nav_order: 536
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,94 +29,98 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Potássio: Da Reposição Eletrolítica ao Transtorno Hipertensivo
+# Potássio: De produtos para o trato urinário, reidratação oral e suplementação mineral para transtorno hipertensivo
 
 ## Resumo em Uma Frase
 
-Potássio (K⁺) é um eletrólito essencial amplamente reconhecido como suplemento para correção de hipocalemia e desequilíbrios hidroeletrolíticos.
-O modelo TxGNN prevê que pode ser eficaz para **Transtorno Hipertensivo (Hypertensive Disorder)**,
-atualmente com **múltiplos ensaios clínicos** e **20 publicações** — incluindo três meta-análises de ensaios randomizados de nível L1 — apoiando esta direção.
-
----
+O potássio foi originalmente registrado no Brasil como produto com ação no trato urinário, reidratante oral e suplemento de minerais associado a outros fármacos.
+O modelo TxGNN prevê que pode ser eficaz para **transtorno hipertensivo (hypertensive disorder)**, com **23 ensaios clínicos** recuperados e **20 publicações** apoiando esta direção. Parte desses ensaios, porém, refere-se ao potássio apenas como contraíon de sal de outros fármacos (como losartana potássica), e não ao potássio como agente terapêutico.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Sem indicação aprovada registrada no Brasil |
-| Nova Indicação Prevista | Transtorno Hipertensivo (Hypertensive Disorder) |
-| Pontuação de Previsão TxGNN | 99.16% |
+| Indicação Original | Outros produtos com ação no trato urinário |
+| Nova Indicação Prevista | Transtorno hipertensivo (hypertensive disorder) |
+| Pontuação de Previsão TxGNN | 99,16% |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 6 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados formais de mecanismo de ação (MOA) cadastrados no sistema para o Potássio (DB14500). No entanto, a literatura científica descreve com precisão os três mecanismos pelos quais o potássio dietético reduz a pressão arterial: **(1)** promoção da desfosforilação do co-transportador renal de NaCl (NCC) pela via Ppp1Ca-Ppp1r1a, aumentando a excreção urinária de sódio; **(2)** redução da despolarização das células musculares lisas vasculares, diminuindo a resistência vascular periférica; e **(3)** antagonismo direto do efeito hipertensivo das dietas ricas em sódio, neutralizando a ativação do RAAS induzida por sódio. O estudo mecanístico de 2023 publicado no *Journal of Clinical Investigation* (PMID 37676724) fornece a base molecular mais recente para esses mecanismos, identificando a via Ppp1Ca-Ppp1r1a como o elo molecular central entre ingestão de potássio e inativação do NCC.
+Atualmente, não há dados detalhados sobre o mecanismo de ação cadastrados para este fármaco. Segundo informações conhecidas, o potássio é o cátion mais abundante no meio intracelular e é essencial para o potencial de membrana e a função celular. Seus usos no Brasil (reposição de eletrólitos, reidratação oral e suplementação mineral) estão ligados ao equilíbrio hidroeletrolítico.
 
-O potássio não possui indicação farmacológica registrada no Brasil como anti-hipertensivo convencional, mas seu papel na regulação da pressão arterial é um dos fenômenos mais consistentes da epidemiologia cardiovascular. A relação dose-resposta entre a suplementação de potássio e a redução da pressão sistólica e diastólica foi estabelecida por meta-análises de alta qualidade (PMID 32500831; PMID 23558164). O estudo de maior impacto nesta área, o SSaSS (*Salt Substitute and Stroke Study*, PMID 34459569), randomizou 20.995 participantes e demonstrou que substitutos de sal com teor elevado de potássio e reduzido de sódio diminuíram significativamente eventos cardiovasculares maiores e mortalidade total — evidência que eleva este candidato ao nível L1.
+A relação com a hipertensão é fisiológica: maior ingestão de potássio promove natriurese (excreção de sódio), vasodilatação por ativação da Na⁺/K⁺-ATPase e de canais de potássio retificadores de entrada na musculatura lisa vascular, e atenua a elevação da pressão arterial sensível ao sódio. Meta-análises de ensaios randomizados (PMID 32500831, 23558164) apoiam um efeito de redução da pressão arterial.
 
-A previsão do TxGNN é, portanto, mecanisticamente plausível e clinicamente fundamentada. O potássio atua como regulador fisiológico da pressão arterial por vias distintas das drogas anti-hipertensivas convencionais, o que abre espaço para seu reposicionamento formal como intervenção terapêutica direcionada ao transtorno hipertensivo — especialmente em populações com baixa ingesta dietética de potássio, condição amplamente prevalente em dietas ocidentais ultraprocessadas.
-
----
+Vale ressaltar que a evidência se refere sobretudo à **ingestão/suplementação de potássio**, e não a um medicamento com indicação aprovada para hipertensão. Os demais candidatos previstos (hipertensão pulmonar, hipertensão renovascular maligna, insuficiência cardíaca congestiva, alopecia, entre outros) têm evidência fraca ou indireta, geralmente baseada em fisiologia de canais de potássio, e não em potássio como substância terapêutica.
 
 ## Evidências de Ensaios Clínicos
 
+Dos ensaios recuperados, os mais relevantes para o potássio como intervenção são:
+
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00160368](https://clinicaltrials.gov/study/NCT00160368) | Phase 3 | Status indefinido | 45 | Avalia o efeito de bicarbonato e cloreto de potássio sobre a PA e marcadores de dano a órgãos-alvo cardiovasculares e ósseos em hipertensos |
-| [NCT00000521](https://clinicaltrials.gov/study/NCT00000521) | Phase 4 | Concluído | 285 | Intervenção nutricional com sódio e potássio em crianças e adolescentes para avaliar a taxa de elevação da pressão arterial na transição para a vida adulta |
-| [NCT02759367](https://clinicaltrials.gov/study/NCT02759367) | NA | Concluído | 20 | Avalia a segurança de aumentar a ingesta dietética de potássio em hipertensos em uso de inibidores do RAAS — potencial risco de hipercalemia |
-| [NCT02697708](https://clinicaltrials.gov/study/NCT02697708) | Phase 1/2 | Status indefinido | 40 | Compara três fontes dietéticas de potássio (suplemento, batata, batata frita) sobre retenção do mineral, pressão arterial e equilíbrio ácido-base |
-| [NCT04894344](https://clinicaltrials.gov/study/NCT04894344) | NA | Concluído | 196 | Intervenção educacional para redução de sódio e aumento de potássio (>3,5 g/dia) em universitários, avaliada por excreção urinária de 24 horas |
-| [NCT05991050](https://clinicaltrials.gov/study/NCT05991050) | NA | Status indefinido | 30 | Dieta DASH rica em potássio (6.900 mg/dia) combinada com vibração corporal em mulheres pós-menopáusicas com hipertensão e obesidade |
-| [NCT01693536](https://clinicaltrials.gov/study/NCT01693536) | NA | Concluído | 85 | RCT em idosos avaliando intervenção de nutricionista e fisioterapeuta para redução de sódio e melhora da aptidão física, com monitoramento domiciliar de PA |
-| [NCT01650012](https://clinicaltrials.gov/study/NCT01650012) | NA | Concluído | 158 | Eplerenone (poupador de potássio / antagonista de aldosterona) em pacientes em hemodiálise com insuficiência cardíaca e hipertensão — relação com manejo do potássio |
-| [NCT02975505](https://clinicaltrials.gov/study/NCT02975505) | NA | Encerrado | 108 | RCT piloto sobre controle intensivo da PA domiciliar em DRC avançada; monitoramento de eletrólitos (incluindo potássio) como desfecho de segurança |
-| [NCT03569020](https://clinicaltrials.gov/study/NCT03569020) | NA | Concluído | 43 | Dieta DASH (elevada em potássio) em adultos com hiperuricemia e gota; avalia efeito sobre ácido úrico e marcadores cardiometabólicos |
+| [NCT00000509](https://clinicaltrials.gov/study/NCT00000509) | Phase 3 | Concluído | Não informado | Redução de sódio com e sem suplementação de potássio no controle da pressão arterial em homens hipertensos |
+| [NCT03809884](https://clinicaltrials.gov/study/NCT03809884) | Phase 3 | Concluído | 7 | Dieta versus suplemento para aumentar a ingestão de potássio; amostra muito pequena |
+| [NCT02959931](https://clinicaltrials.gov/study/NCT02959931) | N/A | Concluído | 33 | Efeitos fisiológicos pós-prandiais de refeição rica em potássio sobre a saúde vascular em hipertensos |
+| [NCT00949585](https://clinicaltrials.gov/study/NCT00949585) | N/A | Concluído | 29 | Dois níveis de ingestão de potássio em doença renal crônica; foco em benefício e segurança |
+| [NCT00000501](https://clinicaltrials.gov/study/NCT00000501) | Phase 2 | Concluído | Não informado | Estudo de viabilidade de intervenções nutricionais (redução de sódio, com ou sem aumento de potássio) na prevenção da hipertensão |
+| [NCT02697708](https://clinicaltrials.gov/study/NCT02697708) | Phase 1/2 | Desconhecido | 40 | Fontes alimentares de potássio (suplemento, batata) e efeito sobre retenção de potássio e pressão arterial |
+| [NCT01074918](https://clinicaltrials.gov/study/NCT01074918) | Phase 1/2 | Retirado | 0 | Citrato de potássio-magnésio versus cloreto de potássio na pressão arterial; nunca iniciou |
 
----
+Observação: vários outros ensaios recuperados (por exemplo, NCT01302691, NCT00949884, NCT01216878, NCT05947448, NCT00480805) tratam de losartana potássica ou outros sais de potássio de anti-hipertensivos. Nesses casos o potássio é apenas o contraíon, e eles **não** sustentam a eficácia do potássio.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [32500831](https://pubmed.ncbi.nlm.nih.gov/32500831/) | 2020 | Meta-análise de RCTs | J Am Heart Assoc | Relação dose-resposta entre suplementação de potássio e redução da PA sistólica e diastólica em RCTs com duração ≥4 semanas |
-| [34459569](https://pubmed.ncbi.nlm.nih.gov/34459569/) | 2021 | RCT (N=20.995) | N Engl J Med | Substitutos de sal com teor elevado de K⁺ e reduzido de Na⁺ reduziram eventos cardiovasculares maiores e mortalidade total |
-| [23558164](https://pubmed.ncbi.nlm.nih.gov/23558164/) | 2013 | Revisão Sistemática + Meta-análise | BMJ | Maior ingesta de potássio associada à redução significativa da PA e do risco de AVC; dados de RCTs e estudos prospectivos |
-| [37676724](https://pubmed.ncbi.nlm.nih.gov/37676724/) | 2023 | Estudo Mecanístico (Animal + Humano) | J Clin Invest | Identificação da via Ppp1Ca-Ppp1r1a como mecanismo pelo qual potássio dietético inativa o NCC renal, promovendo excreção de sódio e redução da PA |
-| [39472546](https://pubmed.ncbi.nlm.nih.gov/39472546/) | 2025 | Revisão | Hypertens Res | Potássio dietético e substitutos de sal na prevenção e no manejo da hipertensão; síntese de evidências e implicações para diretrizes |
-| [37772757](https://pubmed.ncbi.nlm.nih.gov/37772757/) | 2024 | Revisão State-of-the-Art | Am J Hypertens | Revisão abrangente do papel do potássio no controle da PA, redução de eventos cardiovasculares e relevância clínica subestimada frente ao sódio |
-| [27455317](https://pubmed.ncbi.nlm.nih.gov/27455317/) | 2016 | Revisão | Nutrients | Ingesta, biodisponibilidade e papel do potássio na regulação da PA e no controle glicêmico |
-| [29771736](https://pubmed.ncbi.nlm.nih.gov/29771736/) | 2018 | Revisão | Curr Opin Cardiol | Abordagens dietéticas baseadas em evidências para prevenção e controle da hipertensão, com destaque para potássio e padrão DASH |
-| [23674806](https://pubmed.ncbi.nlm.nih.gov/23674806/) | 2013 | Revisão | Adv Nutr | Potássio como nutriente de ingestão insuficiente; evidência moderada a forte para redução da PA, proteção óssea e prevenção de cálculos renais |
-| [30190007](https://pubmed.ncbi.nlm.nih.gov/30190007/) | 2018 | Revisão Clínica | J Am Coll Cardiol | Prevenção e controle da hipertensão: potássio dietético inadequado listado como fator de risco ambiental modificável de alta prioridade |
+| [32500831](https://pubmed.ncbi.nlm.nih.gov/32500831/) | 2020 | Meta-análise de RCTs | J Am Heart Assoc | Meta-análise dose-resposta entre suplementação de potássio e pressão arterial em ensaios com duração ≥4 semanas |
+| [23558164](https://pubmed.ncbi.nlm.nih.gov/23558164/) | 2013 | Revisão sistemática e meta-análise | BMJ | Efeito do aumento da ingestão de potássio sobre fatores de risco e doença cardiovascular |
+| [28024910](https://pubmed.ncbi.nlm.nih.gov/28024910/) | 2017 | Revisão sistemática e meta-análise | Int J Cardiol | Efeito da suplementação de potássio sobre a pressão arterial em hipertensos |
+| [37772757](https://pubmed.ncbi.nlm.nih.gov/37772757/) | 2024 | Revisão | Am J Hypertens | Revisão atualizada sobre potássio e hipertensão |
+| [10979053](https://pubmed.ncbi.nlm.nih.gov/10979053/) | 2000 | Revisão/diretriz | Arch Intern Med | Novas diretrizes de reposição de potássio na prática clínica |
+| [35045721](https://pubmed.ncbi.nlm.nih.gov/35045721/) | 2022 | Estudo fisiológico | Hypertension | Natriurese induzida por potássio em mulheres hipertensas na pós-menopausa, comparada à hidroclorotiazida |
+| [41263071](https://pubmed.ncbi.nlm.nih.gov/41263071/) | 2026 | Análise de ensaio | Hypertension | Consistência da resposta da pressão arterial ao sal enriquecido com potássio no China Salt Substitute Study |
+| [9624886](https://pubmed.ncbi.nlm.nih.gov/9624886/) | 1998 | Revisão | Nutr Rev | Meta-análise sustenta papel do aumento da ingestão de potássio na prevenção e tratamento da hipertensão |
+| [26634368](https://pubmed.ncbi.nlm.nih.gov/26634368/) | 2016 | Revisão | J Physiol Biochem | Papel do potássio da dieta na hipertensão e no diabetes |
+| [24721891](https://pubmed.ncbi.nlm.nih.gov/24721891/) | 2015 | Revisão | Clin J Am Soc Nephrol | Regulação da homeostase do potássio |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os registros encontram-se **cancelados**; atualmente não há produto de potássio com registro válido nos dados compilados.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 101180128 | LITOCIT | Não informada | Outros produtos com ação no trato urinário |
+| Registro nº 118190272 | LICITRO | Não informada | Outros produtos com ação no trato urinário |
+| Registro nº 138410049 | HIDRALYTE | Não informada | Reidratantes orais |
+| Registro nº 105530342 | PEDIALYTE 45 ZINCO | Não informada | Reidratantes orais |
+| Registro nº 115600194 | GERILON | Não informada | Vitaminas ou minerais associados a outros fármacos |
+
+(Há um sexto registro cancelado, MATURE, nº 177940035, com a indicação de vitaminas ou minerais associados a outros fármacos.)
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações medicamentosas**: a consulta não retornou interações cadastradas. Ainda assim, a literatura indica risco de hipercalemia com inibidores do sistema renina-angiotensina-aldosterona (IECA, BRA, ARNI), antagonistas de mineralocorticoides e diuréticos poupadores de potássio.
+- **Populações de risco** (conforme a literatura compilada): pacientes com insuficiência renal ou doença renal crônica têm maior risco de hipercalemia, o que exige monitoramento do potássio sérico.
 
-> **Nota clínica relevante:** Embora os dados formais de segurança não estejam disponíveis no sistema para este candidato, a literatura alerta que o aumento da ingesta de potássio pode causar **hipercalemia** em pacientes com doença renal crônica ou em uso concomitante de inibidores do RAAS (IECAs, BRAs, antagonistas de aldosterona). O estudo NCT02759367 foi desenhado especificamente para avaliar este risco. O monitoramento do potássio sérico é imprescindível em populações de risco.
-
----
+Consulte a bula para as demais informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-As evidências de nível L1 — incluindo três meta-análises de RCTs e o estudo SSaSS com 20.995 participantes publicado no *New England Journal of Medicine* — sustentam com solidez o papel terapêutico do potássio na redução da pressão arterial e na prevenção de eventos cardiovasculares, tornando esta previsão do TxGNN bem fundamentada e clinicamente relevante. A ausência de registro regulatório no Brasil representa uma lacuna de acesso, não de evidência científica.
+Para transtorno hipertensivo há meta-análises de ensaios randomizados e ensaios de Fase 3 concluídos com potássio, o que sustenta nível L1 e uma direção plausível. Porém, os ensaios diretamente relevantes são pequenos ou antigos, os registros brasileiros estão todos cancelados e a evidência refere-se à ingestão/suplementação de potássio, não a um medicamento específico. As demais indicações previstas devem permanecer em **Hold** (ou, no caso da insuficiência cardíaca congestiva, como questão de pesquisa), pois a evidência é indireta ou inexistente.
 
 **Para prosseguir, é necessário:**
-- Definir a forma farmacêutica específica de potássio a ser avaliada (cloreto de potássio, bicarbonato de potássio, gluconato de potássio) — cada sal possui perfil farmacocinético e indicações distintas
-- Obter as advertências e contraindicações formais da bula (ANVISA/TFDA), especialmente em relação ao risco de hipercalemia em populações vulneráveis (DRC, uso concomitante de RAAS)
-- Mapear os produtos com potássio já registrados no Brasil sob outras formas farmacêuticas ou combinações (ex.: KCl em soluções de reposição EV) para eventual extensão de indicação
-- Conduzir análise de viabilidade regulatória junto à ANVISA para posicionamento formal do potássio como intervenção anti-hipertensiva adjuvante
+- Obter e analisar as bulas na ANVISA (advertências e contraindicações), hoje ausentes nos dados compilados
+- Complementar os dados de mecanismo de ação (DrugBank)
+- Definir formulação, dose e via de administração e verificar a possibilidade de novo registro, já que não há registro válido
+- Estabelecer plano de monitoramento do potássio sérico e critérios de exclusão (insuficiência renal, uso de IECA/BRA/ARNI, antagonistas de mineralocorticoides ou diuréticos poupadores de potássio)
+- Realizar ensaios controlados maiores e com desfecho claro para o uso de potássio em hipertensão
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

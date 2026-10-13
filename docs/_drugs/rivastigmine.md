@@ -2,7 +2,7 @@
 layout: default
 title: Rivastigmine
 parent: Evidência Moderada (L3-L4)
-nav_order: 431
+nav_order: 572
 evidence_level: L4
 indication_count: 1
 ---
@@ -29,78 +29,84 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-Agora vou analisar o Evidence Pack e gerar o relatório completo:
-
----
-
-# Rivastigmine: Da Demência de Alzheimer ao Glaucoma
+# Rivastigmina: Do uso em outros produtos que atuam sobre o sistema nervoso ao glaucoma
 
 ## Resumo em Uma Frase
 
-Rivastigmine é um inibidor seletivo da acetilcolinesterase (AChEI) do tipo carbamato, originalmente utilizado no tratamento da demência associada à Doença de Alzheimer e à Doença de Parkinson.
-O modelo TxGNN prevê que pode ser eficaz para **Glaucoma**, atualmente com **0 ensaios clínicos** e **3 publicações** apoiando esta direção.
-
----
+Rivastigmina é um inibidor de colinesterase, registrado no Brasil na categoria "outros produtos que atuam sobre o sistema nervoso".
+O modelo TxGNN prevê que pode ser eficaz para **Glaucoma (glaucoma)**,
+atualmente com **0 ensaios clínicos** e **3 publicações** (uma revisão, um estudo pré-clínico em coelhos e uma análise computacional) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Demência associada à Doença de Alzheimer / Parkinson |
-| Nova Indicação Prevista | Glaucoma |
-| Pontuação de Previsão TxGNN | 99.27% |
+|------|------|
+| Indicação Original | Outros produtos que atuam sobre o sistema nervoso |
+| Nova Indicação Prevista | Glaucoma (glaucoma) |
+| Pontuação de Previsão TxGNN | 99,27% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 17 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Rivastigmine é um inibidor seletivo do tipo carbamato da acetilcolinesterase (AChE) e da butirilcolinesterase (BuChE). Ao bloquear a hidrólise da acetilcolina (ACh), eleva sua concentração nas sinapses colinérgicas — mecanismo que sustenta sua eficácia cognitiva na Doença de Alzheimer e na demência de Parkinson.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo conhecimento geral da classe, a rivastigmina inibe a acetilcolinesterase e a butirilcolinesterase, impedindo a degradação da acetilcolina e reforçando a sinalização colinérgica. Esta descrição do mecanismo é inferida a partir da classe do fármaco, e não de um campo de dados confirmado.
 
-O elo com o glaucoma reside no sistema colinérgico do segmento anterior do olho. A ativação dos receptores muscarínicos M3 (M3R) no músculo ciliar promove sua contração e expande o espaço da malha trabecular, facilitando o escoamento do humor aquoso e reduzindo a pressão intraocular (PIO). Este é exatamente o mesmo mecanismo explorado por AChEIs já aprovados para glaucoma — echothiophate (inibidor irreversível) e physostigmine (inibidor reversível) — conferindo alta credibilidade mecanística à previsão do TxGNN.
+No olho, o reforço colinérgico pode promover a contração do músculo ciliar e atuar sobre a malha trabecular, aumentando o escoamento do humor aquoso e reduzindo a pressão intraocular (PIO), principal fator de risco modificável do glaucoma. Esse raciocínio é coerente com o de agentes colinérgicos/mióticos já estabelecidos, como a pilocarpina e a fisostigmina.
 
-Contudo, embora a plausibilidade biológica seja sólida, os dados disponíveis para rivastigmine nesta indicação limitam-se a estudos em animais e análises computacionais. Não existem ensaios clínicos em humanos registrados, o que posiciona esta candidatura no estágio de pesquisa pré-clínica.
-
----
+Há sinais de apoio: um estudo de 2000 mostrou que a rivastigmina tópica reduziu a PIO em coelhos normotensos, e uma análise de 2024 sustenta alvos colinérgicos para a redução da PIO. Contudo, a pontuação elevada do TxGNN é apenas uma previsão computacional e não constitui evidência clínica.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [39130374](https://pubmed.ncbi.nlm.nih.gov/39130374/) | 2024 | Genética de Sistemas / Computacional | Frontiers in Molecular Biosciences | Análise do sistema colinérgico no segmento anterior do olho; modelagem molecular indica que agonistas M3R reduzem a PIO via malha trabecular; apoia o potencial de AChEIs como candidatos para esta via |
-| [27967267](https://pubmed.ncbi.nlm.nih.gov/27967267/) | 2017 | Revisão de Literatura de Patentes | Expert Opinion on Therapeutic Patents | Revisão de patentes 2012–2015 sobre AChEIs; confirma relevância terapêutica de inibição leve de AChE em Alzheimer, miastenia grave e glaucoma; alerta para risco de intoxicação colinérgica em inibição excessiva |
-| [10673128](https://pubmed.ncbi.nlm.nih.gov/10673128/) | 2000 | Estudo Animal (Coelho, In Vivo) | Journal of Ocular Pharmacology and Therapeutics | Rivastigmine tópico reduziu significativamente a PIO em coelhos normotensos; efeito hipotensor ocular monitorado por 8h pós-aplicação; demonstra prova de conceito in vivo, mas ausência de dados em humanos |
+|------|-----|------|------|---------|
+| [10673128](https://pubmed.ncbi.nlm.nih.gov/10673128/) | 2000 | Estudo pré-clínico em animais (coelho) | J Ocul Pharmacol Ther | Rivastigmina tópica, inibidor seletivo da acetilcolinesterase, reduziu a pressão intraocular em coelhos normotensos |
+| [39130374](https://pubmed.ncbi.nlm.nih.gov/39130374/) | 2024 | Genética de sistemas / análise computacional e molecular | Front Mol Biosci | Reforça o papel do sistema colinérgico no segmento anterior do olho e de agentes colinérgicos na redução da PIO; agonistas M3 aprovados têm limitações por efeitos adversos colinérgicos sistêmicos |
+| [27967267](https://pubmed.ncbi.nlm.nih.gov/27967267/) | 2017 | Revisão | Expert Opin Ther Pat | Revisão de patentes sobre inibidores e reativadores da acetilcolinesterase; cita a inibição leve da enzima como terapeuticamente relevante em Alzheimer, miastenia gravis e glaucoma |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 17 registros encontram-se cancelados. Abaixo, os 5 principais:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 100630278 | Hemitartarato de Rivastigmina | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+| Registro nº 105730780 | Vivencia Patch | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+| Registro nº 135690644 | Vastigma | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+| Registro nº 102980499 | Cogniva | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+| Registro nº 125760034 | Exelon | Não informada | Outros produtos que atuam sobre o sistema nervoso |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações previstas pelo grafo de conhecimento (não extraídas da bula)**: o grafo de conhecimento do TxGNN associa a rivastigmina a contraindicação em epilepsia, doenças dos gânglios da base, distonia focal da mão, blefaroespasmo, doença pulmonar obstrutiva crônica (incluindo formas graves de início precoce), asma (incluindo intrínseca e alérgica), doenças diarreicas, parada cardíaca súbita, doenças da condução cardíaca, síndrome do nó sinusal (incluindo a forma familiar), bloqueio atrioventricular, anorexia nervosa, úlcera péptica ativa, obstrução do trato urinário, parkinsonismo e doença de Parkinson.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; entre as listadas, a de nível **grave** é com **bupropiona**. As demais, de nível **moderado**, incluem:
+  - Antissecretores gástricos: famotidina, ranitidina, cimetidina.
+  - Anticolinérgicos/antiespasmódicos: hiosciamina, atropina, glicopirrônio, clidínio, diciclomina, trópsio, mepenzolato.
+  - Antieméticos: dolasetrona, palonosetrona.
+  - Anti-infecciosos: metronidazol, claritromicina, levofloxacino.
+  - Outros: loperamida, ácido picossulfúrico, polietilenoglicol com eletrólitos, sulfato de sódio.
+- **Efeitos oculares esperados da estimulação colinérgica** (conforme a análise do mecanismo): miose, espasmo de acomodação e dor na região supraorbitária.
 
----
+As advertências e contraindicações oficiais da bula não estão disponíveis nos dados compilados; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN é mecanisticamente sólida — o sistema colinérgico é alvo terapêutico estabelecido no glaucoma, e rivastigmine compartilha o mecanismo de ação com AChEIs já aprovados para esta indicação. Porém, a ausência total de ensaios clínicos em humanos, a limitação das evidências a estudos pré-clínicos (animal e computacional) e a inexistência de registro no Brasil impedem qualquer progressão imediata.
+A evidência se limita a um estudo pré-clínico em coelhos, uma análise computacional e uma revisão, sem nenhum ensaio clínico (nível L4). Além disso, todos os registros brasileiros estão cancelados e faltam dados de segurança da bula, o que impede avançar para a triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Conduzir estudo de Fase 1/2 com rivastigmine tópico ocular em humanos para avaliar segurança e eficácia na redução da PIO
-- Levantar dados completos de segurança (advertências e contraindicações) a partir da bula oficial registrada em outras jurisdições (ex.: EMA, FDA)
-- Verificar viabilidade da formulação tópica oftálmica: estabilidade química, pH compatível com tecido corneal e capacidade de penetração
-- Avaliar perfil de interações medicamentosas para pacientes em uso concomitante de colírios antiglaucomatosos
-- Mapear requisitos regulatórios para registro junto à ANVISA caso os estudos clínicos se mostrem positivos
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa atualmente bloqueante
+- Confirmar o mecanismo de ação em fonte primária (por exemplo, DrugBank)
+- Estudos pré-clínicos adicionais de PIO com formulação oftálmica, incluindo dose, tolerabilidade ocular e segurança de longo prazo
+- Avaliar a viabilidade regulatória e comercial diante da situação "apenas cancelados" no Brasil
+- Avaliar o risco de efeitos colinérgicos sistêmicos (cardíacos, respiratórios, gastrointestinais) com uso ocular e as interações relevantes, em especial com bupropiona
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

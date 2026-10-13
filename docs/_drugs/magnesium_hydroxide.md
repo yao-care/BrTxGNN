@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Magnesium Hydroxide
-parent: Evidência Alta (L1-L2)
-nav_order: 335
-evidence_level: L2
+parent: Evidência Moderada (L3-L4)
+nav_order: 432
+evidence_level: L3
 indication_count: 6
 ---
 
 # Magnesium Hydroxide
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **6** 
+Nível de evidência: **L3** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Nível de evidência: **L2** | Indicações previstas: **6**
 
 </div>
 
-# Hidróxido de Magnésio: Do Antiácido Clássico à Úlcera Péptica Ativa
+# Hidróxido de Magnésio: De antiácido para doença ulcerosa péptica ativa
 
 ## Resumo em Uma Frase
 
-Hidróxido de magnésio (Mg(OH)₂) é um antiácido inorgânico clássico, utilizado há décadas no alívio sintomático de azia, dispepsia e como laxativo osmótico, sem registro formal no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Úlcera Péptica Ativa (active peptic ulcer disease)**, com base em mecanismo de neutralização ácida e citoproteção mucosa farmacologicamente coerente.
-Esta previsão é apoiada por **0 ensaios clínicos registrados** e **20 publicações científicas** identificadas na literatura.
+O hidróxido de magnésio é um antiácido, originalmente usado para neutralizar a acidez gástrica e no tratamento de condições ulcerosas associadas.
+O modelo TxGNN prevê que pode ser eficaz para **doença ulcerosa péptica ativa (active peptic ulcer disease)**, atualmente com **nenhum ensaio clínico registrado** e **9 publicações** apoiando esta direção.
+Trata-se, na prática, de uma previsão que reafirma o uso já existente do fármaco, e não de um reposicionamento propriamente dito.
 
 ---
 
@@ -43,73 +43,88 @@ Esta previsão é apoiada por **0 ensaios clínicos registrados** e **20 publica
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antiácido e laxativo osmótico (uso tradicional bem estabelecido; sem registro no Brasil) |
-| Nova Indicação Prevista | Úlcera Péptica Ativa (active peptic ulcer disease) |
-| Pontuação de Previsão TxGNN | 99.98% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Indicação Original | Antiácido |
+| Nova Indicação Prevista | Doença ulcerosa péptica ativa (active peptic ulcer disease) |
+| Pontuação de Previsão TxGNN | 99,98% |
+| Nível de Evidência | L3 |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 13 |
+| Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados estruturados de mecanismo de ação (MOA) disponíveis neste Evidence Pack. Com base em informações farmacológicas bem estabelecidas, o hidróxido de magnésio age como antiácido inorgânico de ação rápida pela reação química direta com o ácido clorídrico gástrico: **Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O**. Esta reação eleva rapidamente o pH intragástrico para valores acima de 3,5, patamar a partir do qual a atividade da pepsina — cuja faixa ótima se situa entre pH 1,5 e 2,5 — é significativamente inibida, reduzindo o dano proteolítico à mucosa ulcerada.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o hidróxido de magnésio é um antiácido que neutraliza o ácido gástrico, e sua utilização como antiácido e antiulceroso consta nos registros brasileiros.
 
-A úlcera péptica ativa resulta do desequilíbrio entre fatores agressores (ácido, pepsina, H. pylori, AINEs) e mecanismos protetores da mucosa (muco, bicarbonato, prostaglandinas, microcirculação). O Mg(OH)₂ atua em dois eixos complementares desse desequilíbrio: além da neutralização ácida imediata, o íon Mg²⁺ estimula a síntese endógena de prostaglandina E₂ pela mucosa gástrica (PMID 2595273), reforçando a barreira de bicarbonato e muco e conferindo citoproteção que ultrapassa o efeito tamponante isolado. Estudos animais demonstraram que esse mecanismo é comparável em potência ao análogo sintético de PGE₂ em modelos de lesão por etanol e AAS.
+A relação entre a indicação original e a nova é direta: a doença ulcerosa péptica ativa é uma condição ácido-dependente, e a neutralização do ácido é justamente o princípio do uso original. Por isso, a previsão do TxGNN praticamente reafirma uma indicação já existente, sem representar um uso realmente novo.
 
-Do ponto de vista histórico, antacids à base de Mg(OH)₂ foram durante décadas o tratamento-padrão da úlcera péptica antes do advento dos bloqueadores H₂ e dos inibidores da bomba de prótons. Ensaios clínicos controlados (PMID 7034155) demonstraram cicatrização de úlcera duodenal em 50% dos pacientes em 3 semanas e revisões recentes (PMID 22950493) consolidam os mecanismos moleculares envolvidos, tornando a previsão do TxGNN clinicamente e mecanisticamente justificada.
+Estudos em animais sugerem ainda um possível efeito citoprotetor da mucosa, envolvendo prostaglandinas endógenas, com um antiácido de alumínio e magnésio. Isso reforça a plausibilidade biológica, mas vale ressaltar que esses achados dizem respeito, em geral, a produtos combinados e não ao hidróxido de magnésio isolado.
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para Hidróxido de Magnésio em Úlcera Péptica Ativa.
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ---
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [7034155](https://pubmed.ncbi.nlm.nih.gov/7034155/) | 1981 | RCT | Scandinavian Journal of Gastroenterology | Ensaio duplo-cego, 72 pacientes, 12 semanas: antacid + anticolinérgico alcançou 50% de cicatrização vs 67% com cimetidina (ambos p<0,005 vs placebo) em úlceras duodenais e pré-pilóricas |
-| [1526089](https://pubmed.ncbi.nlm.nih.gov/1526089/) | 1992 | RCT | Clinical Pharmacology and Therapeutics | Multicêntrico duplo-cego de 8 semanas comparando nizatidina vs placebo em úlcera gástrica benigna ativa; antacid de Mg-Al utilizado como controle sintomático de referência |
-| [22950493](https://pubmed.ncbi.nlm.nih.gov/22950493/) | 2013 | Review | Current Pharmaceutical Design | Revisão abrangente dos mecanismos celulares e moleculares de gastroproteção e cicatrização de úlceras pelos antacids, com foco em prostaglandinas, EGF e defesas pré/pós-epiteliais |
-| [6086186](https://pubmed.ncbi.nlm.nih.gov/6086186/) | 1984 | Estudo Comparativo | Clinics in Gastroenterology | Revisão clínica de anticolinérgicos e antacids na úlcera duodenal; análise de subtipos de receptores e potencialização do efeito de Mg(OH)₂ em combinação |
-| [2401189](https://pubmed.ncbi.nlm.nih.gov/2401189/) | 1990 | Série Clínica | Drugs Under Experimental and Clinical Research | 267 crianças com doença péptica acompanhadas de junho/1985 a maio/1989: terapia antacid mostrou maior eficácia na fase aguda e na prevenção de recidivas |
-| [2595273](https://pubmed.ncbi.nlm.nih.gov/2595273/) | 1989 | Estudo Animal | Scandinavian Journal of Gastroenterology | Maalox 70 e Mg(OH)₂ isolado preveniram lesões gástricas por etanol, AAS acidificado e estresse em ratos dose-dependentemente; efeito equiparável ao análogo de PGE₂; papel central de prostanoides endógenos |
-| [2390927](https://pubmed.ncbi.nlm.nih.gov/2390927/) | 1990 | Estudo Farmacológico | Digestive Diseases and Sciences | Maalox e Al(OH)₃ elevam PGE e EGF na mucosa gástrica de ratos, acelerando cicatrização de úlceras gastroduodenais crônicas; mecanismo parcialmente dependente de prostaglandinas |
-| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | Estudo In Vitro Comparativo | Medicine and Pharmacy Reports | Avaliação da capacidade de neutralização ácida (ANC) de antacids comercializados no Marrocos; fornece parâmetros quantitativos de desempenho de formulações com Mg(OH)₂ |
-| [37146](https://pubmed.ncbi.nlm.nih.gov/37146/) | 1979 | Revisão | Fortschritte der Medizin | Antacids na úlcera péptica: capacidade neutralizante depende da composição química; dose eficaz de 40–80 mval administrada 1 e 3 horas após refeições |
-| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | Estudo Clínico | Journal of Clinical Gastroenterology | Bicarbonato de sódio vs Al-Mg(OH)₂ em úlcera duodenal: antacid insolúvel mantém efeito tamponante por ~2 horas pós-prandial; antacid solúvel tem efeito mais breve em jejum |
+|------|-----|------|------|---------|
+| [4059297](https://pubmed.ncbi.nlm.nih.gov/4059297/) | 1985 | Ensaio clínico randomizado | Pharmatherapeutica | 30 pacientes ambulatoriais com úlcera duodenal ativa, tratados por 8 semanas com antiácidos (hidróxido de alumínio + hidróxido de magnésio), triletida ou a combinação |
+| [3903784](https://pubmed.ncbi.nlm.nih.gov/3903784/) | 1985 | Ensaio clínico controlado | Pharmatherapeutica | 30 pacientes com úlcera gástrica ou duodenal; antiácido (Al/Mg) isolado comparado a antiácido com triletida por 8 semanas |
+| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | Estudo de fisiologia clínica | J Clin Gastroenterol | Bicarbonato de sódio vs. hidróxido de alumínio-magnésio no ácido gástrico pós-prandial em pacientes com úlcera duodenal |
+| [2228342](https://pubmed.ncbi.nlm.nih.gov/2228342/) | 1990 | Revisão | Int J Clin Pharmacol Res | Papel dos antiácidos na proteção da mucosa gastrointestinal alta; efeito sobre a produção de prostanoides em pacientes com úlcera antral |
+| [3660893](https://pubmed.ncbi.nlm.nih.gov/3660893/) | 1987 | Revisão | Z Gastroenterol | Misturas antiácidas de alumínio-magnésio cicatrizaram úlceras gástricas e duodenais, de forma comparável aos antagonistas H2 e melhor que placebo |
+| [9305482](https://pubmed.ncbi.nlm.nih.gov/9305482/) | 1997 | Estudo clínico | Aliment Pharmacol Ther | Antiácidos e antagonistas H2 com efeito agravante sobre a gastrite por *H. pylori* em pacientes com úlcera duodenal |
+| [1526089](https://pubmed.ncbi.nlm.nih.gov/1526089/) | 1992 | Ensaio clínico randomizado | Clin Pharmacol Ther | Nizatidina vs. placebo em úlcera gástrica benigna (o antiácido não foi o braço testado) |
+| [2595273](https://pubmed.ncbi.nlm.nih.gov/2595273/) | 1989 | Estudo animal | Scand J Gastroenterol | Antiácido de Al/Mg preveniu lesões gástricas em ratos de forma dose-dependente, com efeito semelhante ao de um análogo de PGE2 |
+| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | Avaliação in vitro de produtos | Med Pharm Rep | Avaliação da capacidade de neutralização ácida de antiácidos comercializados no Marrocos |
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-O hidróxido de magnésio não possui registros ativos na ANVISA. O medicamento não está registrado nem comercializado formalmente no Brasil segundo os dados disponíveis.
+Todos os 13 registros encontrados estão cancelados; abaixo, os 5 principais.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 155840396 | GASTROL | — | Antiácido |
+| Registro nº 115600111 | GASTROLIV | — | Antiácido |
+| Registro nº 155840640 | PEPSAMAR PLUS | — | Antiácido |
+| Registro nº 178170971 | ESTOMAZIL | — | Antiácido |
+| Registro nº 101430057 | DROXAINE | — | Antiácidos e antiulcerosos associados |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações sugeridas pelo grafo de conhecimento (não extraídas de bula)**: doença renal e função renal comprometida, nefrolitíase e nefrocalcinose, doença hepática, doença da vesícula biliar, hipercalcemia, hiperparatireoidismo, distúrbios do metabolismo do fósforo e hipofosfatemia, doenças diarreicas (incluindo diarreia crônica), apendicite, impactação intestinal, hemorroidas, sarcoidose, neoplasias gástricas, entre outras.
+- **Interações Medicamentosas**: foram identificadas 100 interações, e a amostra analisada inclui:
+  - **Maior**: dolutegravir.
+  - **Moderada**: abiraterona, acalabrutinibe, tramadol, acetazolamida, doxiciclina, hidrocortisona, salbutamol, ácido alendrônico, alfuzosina, hidroclorotiazida, amilorida, amiodarona, amissulprida, dextroanfetamina.
+  - **Menor**: acebutolol, famotidina, ranitidina, ibuprofeno, alprazolam.
+- **Outros achados da literatura**: o uso prolongado ou em altas doses de antiácidos que contêm magnésio e alumínio pode ligar o fosfato no intestino e levar à má absorção, havendo relato de osteomalacia com fratura de quadril após uso abusivo de hidróxido de magnésio.
+
+Consulte a bula para as advertências e contraindicações oficiais, que não estavam disponíveis nos dados compilados.
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-O mecanismo de ação do Mg(OH)₂ na úlcera péptica ativa é farmacologicamente coerente e respaldado por literatura clínica e pré-clínica robusta — incluindo RCTs concluídos e revisões mecanísticas recentes —, mas a ausência de ensaios clínicos modernos específicos, de registro regulatório no Brasil e de dados formais de segurança estruturados exige etapas de validação antes de qualquer avanço clínico ou comercial.
+A previsão coincide com a indicação original de antiácido/antiulceroso, portanto não representa um reposicionamento genuíno. As evidências humanas são antigas, quase sempre envolvem combinações com alumínio e muitas vezes usam o antiácido apenas como comparador. Além disso, não há ensaios registrados, e todos os 13 registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- **Registro regulatório:** iniciar processo de registro na ANVISA, que é pré-requisito para qualquer comercialização formal no Brasil
-- **Dados de segurança:** levantar advertências, contraindicações e interações medicamentosas por meio de consulta à bula e à API do DrugBank (lacunas DG001 e DG002 ainda abertas)
-- **Ensaio clínico moderno:** desenhar estudo controlado com critérios contemporâneos — diagnóstico endoscópico de úlcera ativa, comparador ativo (IBP), desfecho primário de cicatrização endoscópica em 4–8 semanas
-- **Posicionamento clínico:** definir se o papel é de monoterapia em casos selecionados (úlcera leve, sem H. pylori) ou de adjuvante ao IBP para alívio sintomático rápido (aproveitando o início de ação em <5 minutos)
+- Confirmar a situação regulatória atual no Brasil e o motivo dos cancelamentos dos registros.
+- Obter as advertências e contraindicações oficiais na bula da ANVISA.
+- Complementar os dados de mecanismo de ação (MOA) no DrugBank.
+- Buscar estudos recentes do hidróxido de magnésio isolado em úlcera péptica, e não apenas em combinações.
+- Definir se há valor em avançar, dado que a indicação prevista se sobrepõe ao uso já existente.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

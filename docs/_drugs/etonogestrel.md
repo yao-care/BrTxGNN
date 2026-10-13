@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Etonogestrel
-parent: Evidência Moderada (L3-L4)
-nav_order: 244
-evidence_level: L3
+parent: Apenas Predição do Modelo (L5)
+nav_order: 304
+evidence_level: L5
 indication_count: 10
 ---
 
 # Etonogestrel
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,83 +29,80 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Etonogestrel: Da contracepção à amenorreia
+# Etonogestrel: Da contracepção à amenorreia (previsão computacional, sem evidência clínica direta)
 
 ## Resumo em Uma Frase
 
-Etonogestrel é um progestagênio sintético de terceira geração, utilizado em implantes contraceptivos subdérmicos (Nexplanon/Implanon) para prevenção de gravidez.
-O modelo TxGNN prevê potencial eficácia para **Amenorreia (Amenorrhea)**, com **1 ensaio clínico** de fase 3 concluído e **1 publicação** relevante apoiando essa direção.
-Importante ressaltar: a amenorreia é um efeito colateral bem documentado do implante — a hipótese de reposicionamento mais plausível seria o uso *terapêutico intencional* desse efeito em condições como endometriose ou sangramento uterino anormal.
-
----
+Etonogestrel é um progestágeno usado em contracepção hormonal (por exemplo, em implantes). Não há indicação original registrada no Brasil nos dados compilados para este relatório.
+O modelo TxGNN prevê que pode ser eficaz para **amenorreia (amenorrhea)**, mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** associada, sem relação direta com a indicação. A previsão é, portanto, essencialmente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Contracepção (dados detalhados de registro ANVISA pendentes) |
-| Nova Indicação Prevista | Amenorreia (Amenorrhea) |
-| Pontuação de Previsão TxGNN | 99.84% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 8 |
+|------|------|
+| Indicação Original | Não há dados de indicação aprovada na ANVISA (o uso contraceptivo é conhecimento geral do fármaco, não dado de registro) |
+| Nova Indicação Prevista | Amenorreia (amenorrhea) |
+| Pontuação de Previsão TxGNN | 99,84% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Etonogestrel atua suprimindo o eixo hipotálamo-hipófise-ovário (HPO), inibindo o pico de LH e bloqueando a ovulação. Secundariamente, induz atrofia endometrial e altera o muco cervical. Esses mecanismos fazem parte do conhecimento farmacológico estabelecido da classe dos progestagênios — os dados detalhados de MOA do DrugBank (DB00294) ainda estão pendentes de consulta formal.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o etonogestrel é um progestágeno que suprime a ovulação e afina o endométrio.
 
-A amenorreia ocorre em aproximadamente 20–30% das usuárias do implante de etonogestrel após um ano de uso, resultado direto da supressão do ciclo menstrual e atrofia endometrial. Essa característica tem relevância clínica real em condições onde a supressão menstrual é desejada: endometriose, menorragia, sangramento uterino disfuncional e dismenorreia severa. A previsão do TxGNN captura essa sobreposição farmacológica de forma razoável.
+A relação com a nova indicação é, na prática, **invertida**: a amenorreia é um efeito esperado do uso do implante (um padrão de sangramento comum), e não uma condição que ele trate. Usar um progestágeno para tratar amenorreia patológica seria mecanisticamente contraintuitivo, pois a exposição ao progestágeno induz, e não resolve, a amenorreia. A pontuação alta do TxGNN provavelmente reflete a associação fármaco-doença no grafo de conhecimento, e não um sinal terapêutico.
 
-No entanto, é fundamental esclarecer a direção da hipótese de reposicionamento: etonogestrel *causa* amenorreia (efeito colateral documentado), mas não existe evidência de que ele *trate* amenorreia patológica (ex.: amenorreia hipotalâmica, síndrome de Asherman). A hipótese clinicamente coerente seria "uso deliberado do implante para indução terapêutica de amenorreia em populações específicas", o que representa uma indicação expandida, não um reposicionamento clássico. Essa distinção precisa ser formalizada antes de qualquer avanço.
+### Outras previsões avaliadas
 
----
+As demais previsões do modelo também permanecem em **Hold**:
+
+| Doença prevista | Pontuação TxGNN | Nível | Observação |
+|------|------|------|------|
+| Doença fibrocística da mama | 99,61% | L5 | Racional hormonal plausível, mas sem estudos |
+| Adenose apócrina da mama | 99,29% | L5 | Apenas previsão baseada em grafo |
+| Adenose de ductos obtusos da mama | 99,29% | L5 | Mesma pontuação da anterior, sugerindo sinal compartilhado do grafo |
+| Displasia mamária benigna | 99,21% | L5 | Apenas previsão |
+| Necrose gordurosa da mama | 98,99% | L5 | Sem mecanismo hormonal crível (causa traumática/cirúrgica) |
+| Abscesso mamário | 98,99% | L5 | Condição infecciosa, sem mecanismo plausível |
+| Doença da lactação | 98,93% | L4 | Evidência indireta sobre contracepção na lactação, não tratamento |
+| Adenose mamária | 98,86% | L5 | Sem evidência clínica |
+| Acne | 98,69% | L4 | A acne é um evento adverso documentado do implante; sinal oposto ao benefício |
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|------------------|------|--------|---------------|--------------------|
-| [NCT04626596](https://clinicaltrials.gov/study/NCT04626596) | Phase 3 | Concluído | 498 | Avalia eficácia e segurança do implante de etonogestrel em uso estendido (4.º e 5.º anos pós-inserção) em mulheres ≤35 anos. Amenorreia é resultado secundário documentado — o ensaio fornece dados populacionais robustos sobre incidência de amenorreia, mas o endpoint primário é eficácia contraceptiva, não tratamento de amenorreia como doença. |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
+Para amenorreia, a única publicação associada não tem relação com a indicação. Para outras previsões, há duas publicações relevantes, apresentadas separadamente.
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [10549446](https://pubmed.ncbi.nlm.nih.gov/10549446/) | 1999 | RCT | Contraception | Ensaio randomizado multicêntrico (n=200, China) comparando Implanon (bastão único) vs. Norplant (6 cápsulas) por 2–4 anos. Nenhuma gravidez registrada em ambos os grupos. Avalia padrões de sangramento e amenorreia como desfechos secundários, documentando diferenças entre os dois implantes progestagênicos. |
-
-> **Nota sobre qualidade dos dados**: Uma segunda publicação presente na base de dados para esta indicação (PMID [33430924](https://pubmed.ncbi.nlm.nih.gov/33430924/), 2021) refere-se a um ensaio clínico sobre COVID-19 com o composto BIO101, sem qualquer relação com etonogestrel ou amenorreia. Esse registro foi excluído por ausência de relevância — sua inclusão indica ruído no processo de recuperação de evidências para este candidato.
-
----
-
-## Informações de Comercialização no Brasil
-
-O sistema ANVISA registra **8 licenças ativas** para Etonogestrel no Brasil. Os detalhes individuais (número de registro, nome comercial, forma farmacêutica e texto da indicação aprovada) não estão disponíveis no Evidence Pack atual — todos os campos de dados regulatórios estão pendentes de complementação. Recomenda-se consulta direta à base de dados ANVISA para obtenção dessas informações.
-
----
+|------|-----|------|------|---------|
+| [33430924](https://pubmed.ncbi.nlm.nih.gov/33430924/) | 2021 | Protocolo de RCT (não relacionado) | Trials | Protocolo do estudo COVA (BIO101 na deterioração respiratória em COVID-19). Sem relação com etonogestrel ou amenorreia |
+| [26410174](https://pubmed.ncbi.nlm.nih.gov/26410174/) | 2016 | Revisão sistemática | Contraception | Uso de contraceptivos somente com progestágeno em mulheres que amamentam; evidência indireta sobre segurança e lactação (previsão: doença da lactação) |
+| [11861056](https://pubmed.ncbi.nlm.nih.gov/11861056/) | 2002 | Dados agrupados de ensaios clínicos (segurança) | Contraception | Eventos adversos não menstruais com implantes contraceptivos; a acne aparece como evento adverso, não como benefício (previsão: acne) |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (derivadas do grafo de conhecimento, não do texto da bula):** hipertensão, epilepsia, transtornos de ansiedade e neuróticos, distimia, porfirias, doença renal, doença hepática, doença da vesícula biliar, lúpus eritematoso sistêmico, asma, diabetes mellitus e cetoacidose diabética, hipertrigliceridemia, hiperlipidemia, carcinoma de mama feminino, tromboflebite, enxaqueca, doença arterial coronariana e obesidade.
+- **Interações Medicamentosas:** foram identificadas 100 interações no total; entre as listadas, todas de gravidade **moderada**, destacam-se antidiabéticos (acarbose, metformina, glimepiride, clorpropamida), inibidores de SGLT2 (canagliflozina, dapagliflozina, empagliflozina), inibidores de DPP-4 (alogliptina, saxagliptina), agonistas de GLP-1 (albiglutida, dulaglutida, semaglutida), insulinas (asparte, degludeca, detemir, glargina, glulisina), além de aprepitanto, claritromicina e linaclotida.
 
----
+Consulte a bula para advertências e contraindicações oficiais, pois não foram obtidos dados da bula da ANVISA.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN tem plausibilidade mecanística, pois a amenorreia induzida por etonogestrel é um fenômeno farmacológico bem documentado. Contudo, a hipótese de reposicionamento ainda não está claramente definida — é necessário distinguir entre "tratar amenorreia patológica" e "usar amenorreia induzida como recurso terapêutico para outras condições". Além disso, a ausência de dados de segurança da ANVISA (gap classificado como *Blocking*) impede a progressão para avaliação clínica formal.
+- A previsão principal (amenorreia) é apenas computacional (L5) e mecanisticamente contraditória, já que a amenorreia é um efeito esperado do fármaco. Não há ensaios clínicos, o fármaco não está comercializado no Brasil e as demais previsões também carecem de evidência direta.
 
 **Para prosseguir, é necessário:**
-- Formalizar a hipótese de reposicionamento: definir a população-alvo (ex.: pacientes com endometriose ou menorragia) e o endpoint clínico específico (ex.: redução de sangramento, controle da dor)
-- Obter dados completos de advertências e contraindicações via download e análise da bula ANVISA (PDF)
-- Complementar os dados de registro ANVISA: número de licença, nome comercial, forma farmacêutica e indicação aprovada para cada um dos 8 registros
-- Confirmar o mecanismo de ação detalhado via consulta à API DrugBank (DB00294)
-- Realizar busca bibliográfica direcionada para uso intencional do implante de etonogestrel como supressor menstrual terapêutico (ex.: endometriose, menorragia, dismenorreia)
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
+- Complementar os dados de mecanismo de ação (consulta ao DrugBank)
+- Reavaliar a relevância das previsões com revisão da literatura dirigida, priorizando indicações com racional plausível (por exemplo, doenças benignas da mama)
+- Confirmar a situação regulatória e as vias de administração disponíveis no Brasil
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Risdiplam
 parent: Apenas Predição do Modelo (L5)
-nav_order: 427
+nav_order: 568
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,12 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Risdiplam: Da Atrofia Muscular Espinhal à Acne
+# Risdiplam: De indicação original não registrada a acne (doença)
 
 ## Resumo em Uma Frase
 
-Risdiplam é um modificador de splicing do gene SMN2, aprovado para o tratamento da Atrofia Muscular Espinhal (AME) em todas as faixas etárias.
-O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, porém atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção.
-A análise mecanística disponível indica ausência de plausibilidade biológica para esta previsão, sugerindo que o resultado reflete um artefato do grafo de conhecimento.
+Risdiplam é um modulador de splicing do gene SMN2, sem indicação aprovada registrada no Brasil nos dados compilados para este relatório.
+O modelo TxGNN prevê que pode ser eficaz para **acne (disease)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se de uma previsão puramente computacional.
 
 ---
 
@@ -43,23 +42,41 @@ A análise mecanística disponível indica ausência de plausibilidade biológic
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Atrofia Muscular Espinhal (AME) |
-| Nova Indicação Prevista | Acne (acne (disease)) |
-| Pontuação de Previsão TxGNN | 99.45% |
+| Indicação Original | Não disponível nos dados de registro da ANVISA |
+| Nova Indicação Prevista | Acne (disease) |
+| Pontuação de Previsão TxGNN | 99,45% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Risdiplam é um modificador de splicing de RNA pequeno molecular, pertencente a uma nova classe terapêutica de modificadores de splicing do pré-mRNA. Seu mecanismo de ação consiste em estabilizar a inclusão do éxon 7 durante a transcrição do gene SMN2, aumentando a produção de proteína SMN (Survival Motor Neuron) funcional — essencial para a sobrevivência dos neurônios motores. Dados detalhados do mecanismo de ação não constam no pacote de evidências atual (lacuna DG002), mas o contexto molecular é derivado das análises de plausibilidade incluídas.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o risdiplam é um modulador de splicing do SMN2, que promove a inclusão do éxon 7 e aumenta a produção de proteína SMN funcional. Esse é o fundamento de seu uso na atrofia muscular espinhal, mas essa indicação não consta nos registros brasileiros analisados.
 
-A acne é uma doença inflamatória crônica da unidade pilossebácea, mediada por colonização de *Cutibacterium acnes*, hiperprodução de sebo e resposta imune inata com participação das vias IL-1β e TNF-α. Esses processos não têm relação fisiopatológica conhecida com a via de splicing do SMN2. A Atrofia Muscular Espinhal e a acne não compartilham alvos moleculares, vias de sinalização nem mecanismos de patogênese que justifiquem a extrapolação terapêutica.
+Não foi identificado mecanismo que sustente a previsão para acne. Não há relação estabelecida entre a modulação do splicing de SMN2 e a biologia das glândulas sebáceas ou a inflamação associada ao *C. acnes*. A pontuação elevada (0,995) reflete apenas proximidade em grafo de conhecimento, sem respaldo clínico ou de literatura.
 
-De acordo com a análise mecanística embutida no pacote de evidências, **não existe suporte bibliográfico para uma conexão entre a via SMN2 e a patologia da acne**. A pontuação elevada atribuída pelo TxGNN (99,45%) provavelmente decorre de uma associação artificial entre nós de "pele" no grafo de conhecimento, e não de uma conexão biológica genuína. Esta previsão deve ser interpretada com cautela e não justifica investigação clínica no estágio atual.
+Também vale notar que as terapias para acne da classe dos retinoides têm perfis de segurança distintos, e não há dados do risdiplam nesse cenário.
+
+---
+
+## Outras Indicações Previstas (Todas de Nível L5)
+
+Nenhuma das demais previsões do modelo possui ensaios clínicos ou literatura. Todas estão em Hold.
+
+| Posição | Indicação Prevista | Pontuação TxGNN | Observação |
+|------|------|------|------|
+| 2 | Osteoporose induzida por fármacos | 97,72% | A deficiência de SMN é discutida em relação à saúde óssea e muscular na AME, mas isso não estabelece efeito terapêutico. |
+| 3 | Zinco plasmático elevado | 97,32% | Achado bioquímico, sem alvo terapêutico claro. |
+| 4 | Verruga comum | 97,21% | Sem relação conhecida com a proliferação epitelial induzida por HPV. |
+| 5 | Melanoma metastático | 96,84% | Especulativo; seriam necessários dados pré-clínicos e revisão de segurança. |
+| 6 | Dermatite | 96,62% | Efeitos cutâneos adversos já foram relatados com o fármaco, portanto um benefício seria contraintuitivo. |
+| 7 | Melanoma não cutâneo | 96,18% | Provável proximidade no grafo com outras entidades de melanoma. |
+| 8 | Acrodermatite crônica atrófica | 96,11% | Manifestação tardia de infecção por *Borrelia*, tratada com antibióticos. |
+| 9 | Melanoma de células epitelioides | 95,93% | Agrupa-se com outros subtipos de melanoma, sem dados de apoio. |
+| 10 | Melanoma palpebral | 95,88% | Preocupação adicional com segurança ocular, dados achados retinianos em estudos não clínicos. |
 
 ---
 
@@ -75,15 +92,13 @@ Atualmente não há literatura relacionada.
 
 ---
 
-## Informações de Comercialização no Brasil
-
-Consta 1 registro ativo no sistema regulatório brasileiro. Os dados detalhados (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não foram capturados nesta extração. Consulte o portal da ANVISA para informações completas sobre o registro vigente.
-
----
-
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas** (2 interações de nível moderado):
+  - Metformina (moderada)
+  - Metilnaltrexona (moderada)
+
+Para advertências e contraindicações, consulte a bula. Esses dados não estavam disponíveis para este relatório.
 
 ---
 
@@ -92,14 +107,14 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-Esta previsão apresenta nível de evidência L5 (exclusivamente predição do modelo, sem qualquer estudo real publicado) e ausência demonstrada de plausibilidade mecanística — a via de modificação de splicing do SMN2 não tem relação conhecida com a patogênese da acne. A alta pontuação TxGNN reflete, com elevada probabilidade, um artefato de agrupamento de nós de pele no grafo de conhecimento, e não uma conexão terapêutica genuína.
+A previsão para acne baseia-se apenas na pontuação do modelo, sem ensaios clínicos, literatura ou mecanismo plausível. O fármaco não está comercializado no Brasil, e faltam dados de segurança da bula, o que impede avançar para a triagem de segurança.
 
-**Para prosseguir, seria necessário:**
-- Resolução da lacuna DG001: baixar a bula ANVISA em PDF e extrair advertências, contraindicações e dados de segurança
-- Resolução da lacuna DG002: consultar a API do DrugBank para dados completos de MOA e categorias farmacológicas
-- Evidências pré-clínicas em modelos de acne (nível mínimo L4) para elevar o estágio de avaliação
-- Reavaliação da plausibilidade mecanística por especialista em dermatologia antes de qualquer estudo exploratório
-- Dados detalhados do registro ANVISA (número de registro, indicação aprovada, forma farmacêutica)
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), uma lacuna que bloqueia a triagem de segurança
+- Complementar os dados de mecanismo de ação no DrugBank
+- Verificar a situação regulatória do risdiplam no Brasil e sua indicação original
+- Realizar estudos pré-clínicos ou revisão da literatura que sustentem a ligação mecanística com acne
+- Avaliar compatibilidade de via de administração e formulação para a nova indicação
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Elafibranor
 parent: Apenas Predição do Modelo (L5)
-nav_order: 234
+nav_order: 284
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,83 +29,73 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Elafibranor: Da Colangite Biliar Primária à Amenorreia
+# Elafibranor: Da indicação original não registrada no Brasil à amenorreia
 
 ## Resumo em Uma Frase
 
-Elafibranor é um agonista dual de PPAR-α/δ, aprovado para o tratamento da Colangite Biliar Primária (CBP), uma doença hepática autoimune crônica.
-O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (amenorrhea)** como nova indicação potencial,
-com pontuação de **99,86%** — porém, atualmente há **0 ensaios clínicos** e **0 publicações** apoiando diretamente esta direção.
-
----
+Elafibranor é um agonista duplo dos receptores PPARα e PPARδ, desenvolvido inicialmente para esteato-hepatite não alcoólica (NASH) e posteriormente aprovado para colangite biliar primária (FDA em junho de 2024; EMA em setembro de 2024). Não há indicação aprovada registrada no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **amenorreia (amenorrhea)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A previsão é puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Colangite Biliar Primária (PBC) |
+|------|------|
+| Indicação Original | Não há indicação registrada na ANVISA (internacionalmente: colangite biliar primária) |
 | Nova Indicação Prevista | Amenorreia (amenorrhea) |
 | Pontuação de Previsão TxGNN | 99,86% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis no Evidence Pack. Com base nas informações conhecidas, Elafibranor é um agonista dual de PPAR-α/δ (Peroxisome Proliferator-Activated Receptor alpha/delta), cuja eficácia em Colangite Biliar Primária foi clinicamente comprovada — atua reduzindo a inflamação hepática e a fibrose por meio da ativação de vias metabólicas e anti-inflamatórias mediadas pelos receptores PPAR-α e PPAR-δ.
+Atualmente, não há dados detalhados sobre o mecanismo de ação no conjunto de dados compilado. Segundo os dados farmacológicos disponíveis, o elafibranor é um agonista dos receptores PPARα (gene *PPARA*) e PPARβ/δ (gene *PPARD*). É convertido no fígado em seu principal metabólito ativo, o GFT-1007. Em estudos pré-clínicos, reduziu o acúmulo de gordura hepática, a inflamação e a fibrose.
 
-A ligação mecanística proposta com amenorreia é **indireta e especulativa**: a ativação de PPAR-α/δ pode influenciar o metabolismo lipídico e, por via do tecido adiposo como fonte de estrogênio periférico, afetar indiretamente o eixo hipotálamo-hipófise-gonadal (eixo HPG). Contudo, este caminho é de múltiplos passos e não há evidência direta de que Elafibranor module o ciclo menstrual ou corrija deficiências hormonais subjacentes à amenorreia.
+A sinalização PPAR tem papel teórico na regulação metabólica e endócrina. No entanto, não há ligação direta estabelecida entre o fármaco e o eixo hipotálamo-hipófise-ovário, que é central na amenorreia. A pontuação elevada do TxGNN (0,9986) reflete uma inferência computacional baseada no grafo de conhecimento, sem respaldo de ensaios clínicos ou literatura.
 
-Importa notar que a regulação do eixo HPG é primariamente mediada por PPAR-γ (e não PPAR-α/δ), o que torna a hipótese ainda mais tênue. A previsão do TxGNN pode refletir associações indiretas no grafo de conhecimento entre metabolismo lipídico, adiposidade e função reprodutiva, sem necessariamente indicar um efeito farmacológico direto e clinicamente relevante.
+Portanto, a previsão deve ser tratada como uma hipótese a explorar, e não como evidência de eficácia. A relação com a indicação original (doenças hepáticas colestáticas e metabólicas) ainda não foi analisada.
 
----
+## Considerações sobre Outras Previsões do Modelo
 
-## Evidências de Ensaios Clínicos
+Além da amenorreia, o modelo listou outras previsões de alta pontuação, todas de nível L5, sem ensaios clínicos nem literatura, e todas com recomendação Hold:
 
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
+| Posição | Doença prevista | Pontuação TxGNN | Observação sobre plausibilidade |
+|------|------|------|------|
+| 2 | Malformação esofágica não sindrômica | 98,92% | Sem ligação mecanística plausível; defeito de desenvolvimento embrionário |
+| 3 | Doença de Paget óssea | 98,86% | Possível papel dos PPAR no remodelamento ósseo, mas já existem terapias eficazes (bisfosfonatos) |
+| 4 | Dentinogênese imperfeita | 98,52% | Doença genética (DSPP); sem base biológica evidente |
+| 5 | Carcinoma de células escamosas | 98,47% | PPARδ pode ter papel pró-tumoral; efeito potencialmente prejudicial |
+| 6 | Carcinoma cloacogênico retal | 98,46% | Previsão provavelmente por associação no grafo; incerteza ou risco pró-tumoral |
+| 7 | Carcinoma adenoescamoso da vesícula biliar | 98,45% | Apenas associação anatômica hepatobiliar tangencial |
+| 8 | Surdez autossômica dominante 39 com dentinogênese imperfeita 1 | 98,44% | Doença monogênica; pontuação reflete similaridade no grafo |
+| 9 | Carcinoma mamário escamoso variante acantolítica | 98,44% | Sem evidência específica; papel do PPARδ no câncer é dependente do contexto |
+| 10 | Carcinoma mamário adenoescamoso | 98,44% | Mesma inferência do grafo que a variante acantolítica |
 
 ## Informações de Comercialização no Brasil
 
-O registro consta como ativo na base de dados regulatória brasileira, porém os detalhes de nome comercial, forma farmacêutica e indicação aprovada não estão disponíveis no Evidence Pack atual.
-
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|--------------------|----------------|--------------------|--------------------|
-| (não disponível) | (não disponível) | (não disponível) | (não disponível) |
-
-> **Nota:** O `total_licenses = 1` confirma existência de registro ativo. Os campos detalhados devem ser obtidos diretamente junto à ANVISA para complementação.
-
----
+O elafibranor não possui registros ativos ou cancelados na ANVISA nos dados compilados (0 registros). Portanto, não está comercializado no Brasil.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações medicamentosas**: a consulta foi concluída, mas retornou apenas dois registros de farmacologia (alvos PPARα e PPARβ/δ), sem interações medicamentosas clínicas classificadas por nível de gravidade. Nos estudos de fase 1/2, não foram detectados sinais de segurança específicos.
 
----
+Para advertências e contraindicações, consulte a bula do produto.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão TxGNN apresenta pontuação elevada (99,86%), porém a ligação mecanística entre Elafibranor (PPAR-α/δ) e amenorreia é altamente indireta — sem suporte de ensaios clínicos, publicações científicas ou mecanismo de ação diretamente estabelecido. O nível de evidência L5 (apenas previsão computacional) não é suficiente para avançar para avaliação clínica.
+A previsão para amenorreia baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos, literatura ou ligação mecanística estabelecida. Além disso, o fármaco não tem registro no Brasil e faltam dados regulatórios de segurança.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos do mecanismo de ação (MOA) via DrugBank API — identificar se há alguma via conhecida relacionada ao eixo HPG ou função reprodutiva
-- Descarregar a bula aprovada junto à ANVISA para preencher as lacunas de segurança (advertências, contraindicações)
-- Complementar os detalhes do registro ANVISA (nome comercial, forma farmacêutica, indicação aprovada)
-- Realizar busca bibliográfica expandida: pesquisar associações entre PPAR agonistas e função reprodutiva/hormonal em literatura pré-clínica
-- Revisar se outras indicações no ranking TxGNN (ex.: rank 7 — carcinoma de vesícula biliar, mais próximo da indicação original em CBP) apresentam melhor fundamentação mecanística para priorização
+- Obter e analisar a bula (advertências e contraindicações) para a triagem de segurança
+- Complementar os dados de mecanismo de ação a partir do DrugBank
+- Investigar a plausibilidade biológica da ligação entre PPARα/δ e o eixo hipotálamo-hipófise-ovário, com revisão sistemática da literatura
+- Avaliar a similaridade com a indicação original e a compatibilidade de vias de administração
+- Considerar estudos pré-clínicos antes de qualquer ensaio clínico
+- Verificar a situação regulatória do elafibranor no Brasil (pedido de registro ou aprovação futura)
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

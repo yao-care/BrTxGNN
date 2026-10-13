@@ -2,7 +2,7 @@
 layout: default
 title: Tinidazole
 parent: Apenas Predição do Modelo (L5)
-nav_order: 483
+nav_order: 639
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,74 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tinidazole: De antiprotozoário a vaginite atrófica pós-menopausa
+# Tinidazol: De antiprotozoário e antiinfeccioso tópico para vaginite atrófica pós-menopausa
 
 ## Resumo em Uma Frase
 
-Tinidazole é um antibiótico nitroimidazólico usado no tratamento de infecções por protozoários e bactérias anaeróbias — incluindo tricomoníase, vaginose bacteriana, giardíase e amebíase.
-O modelo TxGNN prevê que pode ser eficaz para **Vaginite Atrófica Pós-Menopausa (Postmenopausal Atrophic Vaginitis)**, porém atualmente **não há ensaios clínicos nem publicações** específicas apoiando esta direção.
-
----
+Tinidazol é um nitroimidazólico originalmente registrado no Brasil para amebíases, giardíases e tricomoníase, além de associações tópicas ginecológicas antiinfecciosas e antimicóticas.
+O modelo TxGNN prevê que pode ser eficaz para **vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica: trata-se de uma previsão puramente baseada no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Tricomoníase, vaginose bacteriana, giardíase, amebíase |
-| Nova Indicação Prevista | Vaginite Atrófica Pós-Menopausa (Postmenopausal Atrophic Vaginitis) |
+| Indicação Original | Amebicidas, giardicidas e tricomonicidas |
+| Nova Indicação Prevista | Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis) |
 | Pontuação de Previsão TxGNN | 99,93% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Com base no conhecimento farmacológico consolidado, o Tinidazole pertence à classe dos nitroimidazóis: após redução intracelular em organismos anaeróbios, gera metabólitos citotóxicos que danificam o DNA microbiano. É eficaz contra protozoários (*Trichomonas vaginalis*, *Giardia lamblia*, *Entamoeba histolytica*) e bactérias anaeróbias, incluindo as envolvidas na vaginose bacteriana (BV).
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o tinidazol é um antimicrobiano da classe dos 5-nitroimidazólicos, com atividade contra protozoários e bactérias anaeróbias. Sua eficácia em tricomoníase, giardíase e amebíase está estabelecida, e ele foi comercializado no Brasil em associações vaginais tópicas (por exemplo, com nitrato de miconazol e tioconazol).
 
-A vaginite atrófica pós-menopausa é uma condição fundamentalmente causada pela deficiência estrogênica, que leva à atrofia do epitélio vaginal — não por infecção primária. O Tinidazole pode ter relevância indireta ao tratar a BV que frequentemente complica essa condição, uma vez que o microambiente vaginal alterado favorece o crescimento anaeróbio. Nesse cenário, o fármaco atuaria como adjuvante no manejo de uma complicação infecciosa, e não como tratamento da atrofia em si.
+A previsão do modelo provavelmente decorre da proximidade na rede de conhecimento entre o tinidazol e produtos ginecológicos antiinfecciosos tópicos. A vaginite atrófica, porém, é causada principalmente pela deficiência de estrogênio, e não por infecção. Por isso, a plausibilidade biológica de um mecanismo antimicrobiano é fraca.
 
-A alta pontuação TxGNN (99,93%) provavelmente reflete a proximidade entre os nós de doenças vaginais no grafo de conhecimento, configurando uma associação de vizinhança topológica e não uma relação mecanística direta. A atrofia epitelial propriamente dita requer reposição estrogênica local e não responde a agentes antiprotozoários.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
+Em resumo, o escore alto (99,93%) deve ser interpretado com cautela: reflete associação no grafo, não evidência biológica ou clínica.
 
 ## Informações de Comercialização no Brasil
 
-O Tinidazole não possui registros ativos na ANVISA e não está comercializado no Brasil.
+Todos os 20 registros encontram-se cancelados. Principais exemplos:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 105830520 | Tinidazol | — | Amebicidas, giardicidas e tricomonicidas |
+| Registro 188710005 | Amplogin | — | Antiinfecciosos tópicos – associações medicamentosas |
+| Registro 154230115 | Tinidazol + nitrato de miconazol | — | Produtos ginecológicos antiinfecciosos tópicos, associações medicamentosas |
+| Registro 178170806 | Amplium G | — | Produtos ginecológicos antiinfecciosos tópicos, associações medicamentosas |
+| Registro 102980426 | Tindamas | — | Antimicótico |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (não extraídas da bula)**: epilepsia, neutropenia, agranulocitose, doença do sistema nervoso periférico e neuropatia periférica.
+- **Interações medicamentosas**: foram identificadas 100 interações, e as 20 listadas são todas de nível moderado. Entre as principais estão etanol, paclitaxel, cabazitaxel, capecitabina, bortezomibe, amiodarona, atorvastatina, etinilestradiol, estradiol, levodopa, barbitúricos (amobarbital, butalbital), apalutamida, adalimumabe e trastuzumabe entansina.
 
----
+Consulte a bula para as advertências e contraindicações formais, pois essas informações não estavam disponíveis nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A vaginite atrófica pós-menopausa é uma condição essencialmente estrogênio-dependente, sem mecanismo de ação direto para o Tinidazole, e não há nenhuma evidência clínica (ensaios ou literatura) suportando esta indicação — configurando nível de evidência L5, insuficiente para avançar.
+A previsão para vaginite atrófica pós-menopausa não tem nenhum ensaio clínico ou publicação de apoio (L5), e o mecanismo antimicrobiano é biologicamente pouco plausível para uma condição causada por deficiência estrogênica. Além disso, todos os registros brasileiros do fármaco estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de MOA via DrugBank API (Data Gap DG002)
-- Levantar advertências, contraindicações e interações medicamentosas na bula original (Data Gap DG001)
-- Avaliar se a hipótese mais clinicamente plausível não seria a **vaginose bacteriana associada à atrofia vaginal** como indicação-alvo, em vez da atrofia per se — essa formulação teria embasamento mecanístico mais sólido
-- Realizar revisão de literatura sobre uso de nitroimidazóis no contexto de microbioma vaginal e saúde reprodutiva pós-menopausa
+- Dados do mecanismo de ação do tinidazol.
+- Bula da ANVISA com advertências e contraindicações, para a triagem de segurança.
+- Justificativa biológica para uso em vaginite atrófica (por exemplo, papel de infecção secundária) e estudos pré-clínicos ou exploratórios.
+- Avaliação de compatibilidade de via de administração e forma farmacêutica, hoje pendente.
+- Esclarecimento do status regulatório, já que não há registro válido no Brasil.
+
+### Observação sobre as demais previsões
+
+Nenhuma das outras previsões de maior pontuação tem respaldo suficiente (todas recomendadas como Hold):
+
+- **Úlcera de vulva (99,87%)**, **neoplasia vulvar (99,86%)** e **doenças benignas da mama** (doença fibrocística, adenose de ducto obtuso, adenose apócrina, displasia mamária benigna; 99,2% a 99,75%): L5, sem evidências e sem mecanismo plausível. Para a úlcera vulvar, existe apenas um relato de caso em que a úlcera era causada por *Trichomonas vaginalis* e se resolveu com tinidazol oral, o que corresponde ao uso já aprovado.
+- **AIDS (99,69%)**: nível L4. A literatura recuperada trata de coinfecções parasitárias (amebíase, giardíase, tricomoníase), e não da infecção pelo HIV. O único ensaio (NCT03412071, fase NA, situação desconhecida, 125 participantes) é um estudo piloto de intervenção focada no microbioma para reduzir a suscetibilidade ao HIV em homens ugandenses. O papel do tinidazol nele não está claro e não há resultados de eficácia.
+- **Complexo relacionado à AIDS e HIV congênito (99,39%)**: L5, sem mecanismo anti-HIV e herdando o sinal do mesmo agrupamento de nós do grafo.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Arginine Glutamate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 69
+nav_order: 75
 evidence_level: L5
 indication_count: 0
 ---

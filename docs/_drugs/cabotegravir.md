@@ -2,7 +2,7 @@
 layout: default
 title: Cabotegravir
 parent: Apenas Predição do Modelo (L5)
-nav_order: 147
+nav_order: 170
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,78 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cabotegravir: Do tratamento do HIV à Artrite Reumatoide
+# Cabotegravir: Do HIV à artrite reumatoide (previsão do modelo, sem evidências clínicas)
 
 ## Resumo em Uma Frase
 
-Cabotegravir é um antirretroviral da classe dos inibidores de integrase (INSTI), originalmente utilizado no tratamento e na profilaxia pré-exposição (PrEP) da infecção por HIV.
-O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid Arthritis)**, porém esta previsão possui **evidência nível L5**, sem ensaios clínicos ou publicações científicas que a apoiem diretamente.
-Com base nas evidências disponíveis, a recomendação atual é **Hold** (aguardar mais dados).
-
----
+Cabotegravir é um inibidor da integrase do HIV (inibidor da transferência de fita da integrase), usado no tratamento e na prevenção da infecção pelo HIV.
+O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid Arthritis)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A previsão baseia-se apenas na pontuação do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Tratamento e profilaxia pré-exposição (PrEP) da infecção por HIV |
+| Indicação Original | Não disponível nos registros da ANVISA (sem registros ativos) |
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
 | Pontuação de Previsão TxGNN | 99,45% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 4 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Cabotegravir pertence à classe dos Inibidores de Transferência de Fita da Integrase do HIV (INSTI). Atua bloqueando a enzima integrase viral, impedindo que o DNA do HIV se integre ao genoma da célula hospedeira. Atualmente é aprovado em formulação injetável de ação prolongada — tanto para tratamento combinado do HIV-1 quanto para profilaxia pré-exposição (PrEP injetável) —, representando uma das principais inovações recentes na terapêutica antirretroviral.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o cabotegravir é um inibidor da integrase do HIV, classe que bloqueia a integração do DNA viral ao genoma da célula hospedeira.
 
-A artrite reumatoide (AR) é uma doença autoimune sistêmica caracterizada pelo desequilíbrio entre células Th17 e Treg, hiperativação de citocinas pró-inflamatórias como TNF-α e IL-6, e inflamação sinovial crônica progressiva. O mecanismo INSTI não possui conexão direta conhecida com essas vias imunológicas. Algumas pesquisas sugerem que os INSTIs podem modular a via cGAS-STING da imunidade inata — o que poderia, hipoteticamente, influenciar processos autoimunes —, mas esta hipótese é altamente especulativa e carece completamente de dados experimentais em modelos de AR.
+Não existe um mecanismo estabelecido que ligue essa ação antiviral à inflamação articular imunomediada da artrite reumatoide. A relação entre a indicação original (infecção pelo HIV) e a nova indicação é, portanto, especulativa, e a similaridade com a indicação original ainda está pendente de análise.
 
-A alta pontuação do TxGNN (99,45%) provavelmente reflete a similaridade topológica no grafo de conhecimento entre a ativação imune observada em pacientes com HIV e os mecanismos da AR, e não uma conexão biológica direta e clinicamente validada. Não há ensaios clínicos nem publicações científicas que suportem o uso de Cabotegravir em artrite reumatoide.
+A pontuação alta (99,45%) reflete apenas padrões do grafo de conhecimento do modelo. Sem ensaios clínicos ou literatura, ela não deve ser interpretada como evidência de eficácia.
 
----
+## Considerações sobre Outras Indicações Previstas
 
-## Evidências de Ensaios Clínicos
+O modelo também previu outras indicações, todas com nível de evidência L5, sem ensaios clínicos ou literatura e com recomendação Hold:
 
-Atualmente não há ensaios clínicos relacionados registrados para Cabotegravir em artrite reumatoide.
+| Posição | Indicação Prevista | Pontuação TxGNN |
+|------|------|------|
+| 2 | Colangite esclerosante | 99,22% |
+| 3 | Bronquite | 99,19% |
+| 4 | Síndrome de microftalmia colobomatosa com displasia rizomélica | 99,16% |
+| 5 | Retinopatia diabética não proliferativa grave | 99,03% |
+| 6 | Síndrome de braquidactilia-sindactilia | 98,67% |
+| 7 | Retinopatia diabética | 98,17% |
+| 8 | Malformação visceral não sindrômica | 97,86% |
+| 9 | Síndrome autossômica dominante de hematúria familiar, tortuosidade arteriolar retiniana e contraturas | 97,83% |
+| 10 | Doença de pequenos vasos cerebrais tipo 1, com ou sem anomalias oculares | 97,82% |
 
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada para Cabotegravir em artrite reumatoide.
-
----
-
-## Informações de Comercialização no Brasil
-
-Cabotegravir possui **4 registros ativos** no Brasil com situação **comercializado**. Os detalhes individuais dos registros (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste pacote de evidências e devem ser consultados diretamente no portal da ANVISA.
-
----
+Nenhuma delas tem mecanismo plausível identificado nos dados disponíveis. Os sinais de retinopatia diabética grave e retinopatia diabética são consistentes entre si e, portanto, não constituem evidências independentes.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 7 interações de gravidade moderada, todas com antiácidos ou agentes que contêm cátions polivalentes:
+  - Carbonato de cálcio
+  - Hidróxido de alumínio
+  - Carbonato de magnésio
+  - Hidróxido de magnésio
+  - Óxido de magnésio
+  - Bicarbonato de sódio
+  - Citrato de sódio
 
----
+Consulte a bula para as demais informações de segurança (advertências e contraindicações).
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Todas as 10 indicações previstas pelo TxGNN para Cabotegravir estão classificadas como nível L5 — baseadas exclusivamente no modelo preditivo, sem nenhum ensaio clínico ou publicação científica de suporte direto. A conexão mecanística entre a inibição da integrase do HIV e a artrite reumatoide é altamente especulativa, sem respaldo experimental, tornando prematuro qualquer avanço no desenvolvimento clínico desta hipótese de reposicionamento.
+A previsão se apoia somente na pontuação do modelo (nível L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível. Além disso, o fármaco não possui registro comercializado no Brasil, e faltam dados de segurança de bula.
 
 **Para prosseguir, é necessário:**
-- Confirmar o mecanismo de ação completo via DrugBank (dados de MOA ausentes no pacote atual)
-- Obter advertências, contraindicações e interações medicamentosas a partir da bula oficial registrada na ANVISA
-- Realizar revisão de literatura ampliada para verificar a existência de dados pré-clínicos de Cabotegravir em modelos de autoimunidade ou inflamação articular
-- Avaliar se estudos observacionais em coortes HIV+ tratados com Cabotegravir registram redução de incidência de AR como desfecho secundário, como ponto de partida para geração de hipótese
+- Obter os dados do mecanismo de ação (consulta ao DrugBank) e analisar a ligação mecanística com a artrite reumatoide
+- Baixar e analisar a bula na ANVISA (advertências e contraindicações) para a triagem de segurança
+- Realizar busca sistemática de literatura e de ensaios clínicos sobre cabotegravir em doenças reumáticas e inflamatórias
+- Verificar a situação regulatória no Brasil e a compatibilidade de vias de administração (injetável de longa duração versus necessidades da nova indicação)
+- Avaliar estudos pré-clínicos (L4) antes de qualquer investimento clínico
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

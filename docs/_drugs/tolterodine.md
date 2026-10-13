@@ -2,7 +2,7 @@
 layout: default
 title: Tolterodine
 parent: Evidência Moderada (L3-L4)
-nav_order: 489
+nav_order: 646
 evidence_level: L3
 indication_count: 10
 ---
@@ -29,87 +29,81 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-O skill confirma o contexto de pipeline TxGNN sem alterar o formato de relatório. Prossigo com a geração do relatório completo conforme o Evidence Pack fornecido.
-
----
-
-# Tolterodine: Da Bexiga Hiperativa à Bexiga de Baixa Complacência
+# Tolterodina: De outros produtos com ação no trato urinário para bexiga de baixa complacência
 
 ## Resumo em Uma Frase
 
-Tolterodine é um antagonista dos receptores muscarínicos M2/M3, amplamente utilizado no tratamento da bexiga hiperativa (OAB), atuando diretamente na redução das contrações involuntárias do músculo detrusor.
-O modelo TxGNN prevê que pode ser eficaz para **Bexiga de Baixa Complacência (Low Compliance Bladder)**, condição em que a capacidade de acomodação vesical está comprometida — fisiopatologicamente sobreponível à OAB neurogênica.
-Atualmente, há **1 ensaio clínico** e **9 publicações** apoiando esta direção.
-
----
+Tolterodina é um antagonista muscarínico registrado no Brasil (como Detrusitol) na categoria "outros produtos com ação no trato urinário".
+O modelo TxGNN prevê que pode ser eficaz para **bexiga de baixa complacência (low compliance bladder)**,
+atualmente sem ensaios clínicos registrados, mas com **9 publicações** relacionadas à área (das quais apenas algumas tratam diretamente da tolterodina).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Bexiga hiperativa (OAB) — uso clínico estabelecido internacionalmente; sem registro no Brasil |
-| Nova Indicação Prevista | Bexiga de Baixa Complacência (Low Compliance Bladder) |
+| Indicação Original | Outros produtos com ação no trato urinário |
+| Nova Indicação Prevista | Bexiga de baixa complacência (low compliance bladder) |
 | Pontuação de Previsão TxGNN | 96,31% |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não registrado no Brasil |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 1 |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Tolterodine é um antagonista competitivo dos receptores muscarínicos M2 e M3 presentes no músculo detrusor da bexiga. Ao bloquear esses receptores, interrompe a ativação da via Gq/11-PKC, que medeia as contrações involuntárias do detrusor. O resultado funcional é a redução da pressão intravesical durante a fase de enchimento, o que melhora diretamente a relação ΔV/ΔP — a medida clínica central da complacência vesical.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a tolterodina é um antagonista competitivo dos receptores muscarínicos, que reduz a hiperatividade do detrusor e aumenta a capacidade vesical.
 
-A bexiga de baixa complacência em contexto neurogênico (como nas lesões medulares e na espinha bífida) compartilha a mesma fisiopatologia da bexiga hiperativa: hiperatividade do detrusor com contrações involuntárias que impedem o adequado acomodamento de volume. Nesse sentido, a indicação original (OAB) e a nova indicação prevista (baixa complacência vesical neurogênica) não são entidades biologicamente distintas — representam manifestações de um mesmo espectro de disfunção do detrusor. Watanabe et al. (2010) já avaliaram diretamente a Tolterodine de liberação prolongada em bexiga de baixa complacência, utilizando parâmetros urodinâmicos como desfecho primário.
+Em bexigas neurogênicas (por exemplo, espinha bífida e lesão medular), a baixa complacência vesical costuma vir acompanhada de hiperatividade neurogênica do detrusor, um alvo plausível para a terapia antimuscarínica. A literatura inclui um estudo com tolterodina de liberação prolongada em hiperatividade neurogênica do detrusor e/ou bexiga de baixa complacência, além de um estudo piloto cruzado em pacientes com espinha bífida.
 
-A força da conexão mecanística é classificada como **direta (Classe I)**: o mesmo alvo molecular (M2/M3) e a mesma via farmacológica que fundamentam o uso na OAB são igualmente relevantes para a correção da baixa complacência vesical neurogênica. Trata-se de uma das previsões de reposicionamento com maior coerência biológica no conjunto avaliado.
-
----
+É importante ser realista: esta previsão é, em grande parte, uma extensão do uso já existente da tolterodina na bexiga hiperativa, e não um reposicionamento verdadeiramente novo. Além disso, não há ensaios registrados que tenham a baixa complacência como desfecho principal.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT05745584](https://clinicaltrials.gov/study/NCT05745584) | N/A | Desconhecido | 15 | Comparação prospectiva pareada entre Mirabegron e anticolinérgicos (incluindo Tolterodine) em pacientes com bexiga neurogênica de baixa complacência; avalia complacência vesical como desfecho primário. Indica reconhecimento clínico da classe anticolinérgica para esta indicação, embora o status do ensaio seja incerto e o tamanho amostral seja muito pequeno. |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [20969642](https://pubmed.ncbi.nlm.nih.gov/20969642/) | 2010 | Estudo Clínico Prospectivo | Int J Urology | Tolterodine ER 4 mg/dia avaliada por parâmetros urodinâmicos especificamente em bexiga de baixa complacência e/ou hiperatividade neurogênica do detrusor — o estudo mais diretamente relevante para a indicação prevista |
-| [26676394](https://pubmed.ncbi.nlm.nih.gov/26676394/) | 2011 | Crossover RCT (piloto) | Lower Urinary Tract Symptoms | Comparação cruzada entre oxibutinina e Tolterodine em pacientes com bexiga neurogênica por espinha bífida; demonstra eficácia anticolinérgica da Tolterodine em população neurológica diretamente relacionada |
-| [16465186](https://pubmed.ncbi.nlm.nih.gov/16465186/) | 2006 | Revisão Mecanística | Br J Pharmacology | Base farmacológica dos receptores M2/M3 como alvo terapêutico da bexiga; fundamenta o mecanismo de ação da Tolterodine na complacência vesical |
-| [26149965](https://pubmed.ncbi.nlm.nih.gov/26149965/) | 2015 | Revisão Clínica | Current Urology Reports | Tolterodine como padrão-ouro do tratamento antimuscarínico dos sintomas de armazenamento do trato urinário inferior em homens |
-| [25656013](https://pubmed.ncbi.nlm.nih.gov/25656013/) | 2015 | Estudo Clínico Retrospectivo | Acta Urologica Japonica | Eficácia do Mirabegron adicionado a anticolinérgicos em bexiga neurogênica resistente; inclui especificamente pacientes com baixa complacência (<10 ml/cmH₂O), relevante para a indicação prevista |
-| [17594185](https://pubmed.ncbi.nlm.nih.gov/17594185/) | 2007 | Revisão | Expert Opinion Investig Drugs | Panorama dos tratamentos da bexiga hiperativa em fases iniciais de desenvolvimento; contextualiza a posição da Tolterodine na classe anticolinérgica |
-| [15978301](https://pubmed.ncbi.nlm.nih.gov/15978301/) | 2005 | RCT (Tróspium) | Clinical Therapeutics | Ensaio clínico com cloreto de tróspium para bexiga hiperativa com incontinência de urgência; referência comparativa para o espectro farmacológico anticolinérgico na indicação |
-| [24703195](https://pubmed.ncbi.nlm.nih.gov/24703195/) | 2014 | RCT Phase III (Mirabegron) | Int J Clinical Practice | Segurança e tolerabilidade de Mirabegron em OAB em 3 ensaios de 12 semanas e 1 ensaio de 1 ano; contexto da alternativa β3-agonista à classe anticolinérgica |
-| [32590783](https://pubmed.ncbi.nlm.nih.gov/32590783/) | 2020 | Relato de Caso | Medicine | Baixa complacência vesical secundária a malacoplasia com cistite xantogranulomatosa; ilustra as bases fisiopatológicas e o espectro clínico da indicação prevista |
+| [20969642](https://pubmed.ncbi.nlm.nih.gov/20969642/) | 2010 | Estudo clínico | Int J Urol | Avaliou a eficácia da tolterodina de liberação prolongada 4 mg/dia, por parâmetros urodinâmicos, na hiperatividade neurogênica do detrusor e/ou bexiga de baixa complacência |
+| [26676394](https://pubmed.ncbi.nlm.nih.gov/26676394/) | 2011 | Estudo piloto cruzado | Lower Urin Tract Symptoms | Comparou oxibutinina e tolterodina em pacientes com espinha bífida e bexiga neurogênica |
+| [25656013](https://pubmed.ncbi.nlm.nih.gov/25656013/) | 2015 | Estudo clínico retrospectivo | Hinyokika Kiyo | Terapia combinada com mirabegrona em 7 pacientes com bexiga neurogênica resistente a anticolinérgicos (hiperatividade do detrusor ou baixa complacência); fármaco diferente da tolterodina |
+| [26149965](https://pubmed.ncbi.nlm.nih.gov/26149965/) | 2015 | Revisão | Curr Urol Rep | Tolterodina no tratamento dos sintomas do trato urinário inferior (LUTS) masculinos; antimuscarínicos como base do tratamento dos sintomas de armazenamento |
+| [16465186](https://pubmed.ncbi.nlm.nih.gov/16465186/) | 2006 | Revisão | Br J Pharmacol | Papel dos receptores muscarínicos (M2/M3) na bexiga e base do tratamento da bexiga hiperativa |
+| [17594185](https://pubmed.ncbi.nlm.nih.gov/17594185/) | 2007 | Revisão | Expert Opin Investig Drugs | Tratamentos da bexiga hiperativa em ensaios de fase inicial |
+| [15978301](https://pubmed.ncbi.nlm.nih.gov/15978301/) | 2005 | Revisão | Clin Ther | Cloreto de tróspio na bexiga hiperativa com incontinência de urgência; fármaco diferente da tolterodina |
+| [24703195](https://pubmed.ncbi.nlm.nih.gov/24703195/) | 2014 | Análise de segurança | Int J Clin Pract | Segurança e tolerabilidade da mirabegrona na bexiga hiperativa; fármaco diferente da tolterodina |
+| [32590783](https://pubmed.ncbi.nlm.nih.gov/32590783/) | 2020 | Relato de caso | Medicine | Baixa complacência vesical por malacoplaquia com cistite xantogranulomatosa; sem relação com tolterodina |
 
----
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 188300109 (cancelado) | Detrusitol | Não informada | Outros produtos com ação no trato urinário |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (derivadas do grafo de conhecimento, não do texto da bula)**: síndrome do QT longo (inclusive familiar), torsades de pointes, insuficiência hepática, demência, glaucoma de ângulo fechado, miastenia gravis (inclusive de início na idade adulta), doenças da junção neuromuscular, estenose pilórica e obstrução do colo vesical.
+- **Interações Medicamentosas** (100 interações identificadas; principais exemplos):
+  - **Maior gravidade**: citrato de potássio.
+  - **Moderada**: outros anticolinérgicos/antimuscarínicos (hiosciamina, atropina, glicopirrônio, clidínio, diciclomina, tróspio, mepenzolato, metescopolamina), loperamida, morfina, aprepitanto, cimetidina, claritromicina, eluxadolina, metoclopramida e miconazol.
+  - **Menor**: bupropiona, lorcasserina e eliglustate.
 
----
+As advertências formais da bula brasileira não estavam disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-A previsão TxGNN é biologicamente coerente com conexão mecanística direta (Classe I) — o mesmo alvo M2/M3 que fundamenta o uso na OAB é relevante para a baixa complacência vesical neurogênica. Existem estudos clínicos prospectivos e um crossover RCT piloto avaliando Tolterodine especificamente nesta população, o que confere suporte de nível L3. O maior obstáculo para o avanço no Brasil é a ausência total de registro na ANVISA e a falta de dados de segurança documentados.
+- Há plausibilidade mecanística e estudos clínicos publicados com tolterodina em hiperatividade neurogênica do detrusor e/ou bexiga de baixa complacência, mas a evidência é limitada (nível L3), sem ensaios registrados e com o uso sendo em grande parte uma extensão da indicação já conhecida na bexiga hiperativa. As demais previsões do modelo (por exemplo, doença renal policística, malformação torácica) não têm evidência nem racional mecanístico e devem permanecer em Hold.
 
 **Para prosseguir, é necessário:**
-- **Regulatório**: Iniciar processo de registro na ANVISA (atualmente sem nenhum registro no Brasil)
-- **Segurança**: Levantar advertências e contraindicações oficiais da bula internacional (dados ausentes neste pacote)
-- **Evidência clínica**: Mapear ou conduzir estudo Phase 2 controlado em pacientes com baixa complacência vesical neurogênica com desfecho urodinâmico (complacência ΔV/ΔP, pressão de enchimento)
-- **Interações**: Avaliar DDI relevantes para a população-alvo típica (pacientes com lesão medular, espinha bífida, em uso de múltiplos fármacos)
-- **Monitoramento**: Definir protocolo de acompanhamento urológico (cistometria seriada) para avaliar resposta terapêutica e segurança renal a longo prazo
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados é uma lacuna que impede a triagem de segurança formal.
+- Confirmar o mecanismo de ação em fonte primária (por exemplo, DrugBank).
+- Esclarecer a situação regulatória: o único registro encontrado (Detrusitol) está cancelado, o que exigiria verificar a disponibilidade de outras apresentações ou um novo registro.
+- Avaliar a segurança em populações de risco, como pacientes com QT longo, glaucoma de ângulo fechado, obstrução do colo vesical e insuficiência hepática, bem como o manejo das interações com outros anticolinérgicos e inibidores do CYP3A4.
+- Planejar um ensaio clínico com desfechos urodinâmicos de complacência vesical, ou uma revisão sistemática dos estudos existentes.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

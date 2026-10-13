@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Trimethoprim
-parent: Evidência Alta (L1-L2)
-nav_order: 495
-evidence_level: L1
+parent: Apenas Predição do Modelo (L5)
+nav_order: 656
+evidence_level: L5
 indication_count: 10
 ---
 
 # Trimethoprim
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,16 +29,13 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-> **Nota metodológica:** A previsão de maior pontuação TxGNN corresponde à *ceratoconjuntivite epitelial punctata* (rank 1, 99.57%), porém sem qualquer evidência clínica de suporte (L5 — Hold). A **conjuntivite bacteriana** (rank 2, 99.17%) apresenta o maior nível de evidência (L1) com ensaios clínicos diretos e é o foco deste relatório.
-
----
-
-# Trimethoprim: De antibiótico bacteriano para conjuntivite bacteriana
+# Trimetoprima: De associação com sulfas (antibacteriano) para ceratoconjuntivite epitelial punctata
 
 ## Resumo em Uma Frase
 
-Trimethoprim é um antibiótico clássico amplamente utilizado no tratamento de infecções bacterianas, especialmente infecções do trato urinário (ITU) e respiratórias, habitualmente combinado com sulfametoxazol (cotrimoxazol/TMP-SMX).
-O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite Bacteriana (Conjunctivitis)**, com a combinação tópica Polytrim (TMP/Polymyxin B) já aprovada pela FDA para uso oftálmico — atualmente com **3 ensaios clínicos** e **20 publicações** apoiando esta direção.
+Trimetoprima é um antibacteriano inibidor da di-hidrofolato redutase, registrado no Brasil para uso em associação com sulfas (por exemplo, sulfametoxazol + trimetoprima).
+O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta previsão específica.
 
 ---
 
@@ -46,72 +43,100 @@ O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite Bacteriana (Conjun
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções bacterianas (ITU, infecções respiratórias) |
-| Nova Indicação Prevista | Conjuntivite bacteriana (Conjunctivitis) |
-| Pontuação de Previsão TxGNN | 99.17% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Indicação Original | Trimetoprima em associação com sulfas |
+| Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
+| Pontuação de Previsão TxGNN | 99,57% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 20 |
+| Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação documentados neste pacote de evidências. Segundo informações farmacológicas amplamente estabelecidas, Trimethoprim pertence à classe dos inibidores de dihidrofolato redutase (DHFR) bacteriana, frequentemente utilizado em combinação com sulfametoxazol (cotrimoxazol/TMP-SMX). Sua eficácia em infecções bacterianas sistêmicas foi amplamente comprovada, e mecanisticamente é aplicável à conjuntivite bacteriana por atuar contra os mesmos patógenos oculares — *Haemophilus influenzae*, *Staphylococcus aureus* e *Streptococcus pneumoniae* — por meio de formulação tópica oftálmica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a trimetoprima inibe a di-hidrofolato redutase bacteriana, bloqueando a síntese de folato, e é usada em associação com sulfonamidas no tratamento de infecções bacterianas. Em oftalmologia, é empregada em colírios combinados com polimixina B.
 
-A relação entre a indicação original (infecções bacterianas sistêmicas) e a nova indicação prevista (conjuntivite bacteriana) é direta: o mecanismo antibacteriano é o mesmo, mas a via de administração migra para uso tópico ocular. A combinação Polytrim (Trimethoprim 1 mg/mL + Polymyxin B 10.000 UI/mL) foi aprovada pela FDA para tratamento de conjuntivite bacteriana, criando sinergia contra Gram-negativos (Polymyxin B) e Gram-positivos (Trimethoprim), cobrindo o espectro completo dos principais causadores.
+A ceratoconjuntivite epitelial punctata costuma ter origem viral ou tóxico-inflamatória. Por isso, o vínculo mecanístico só é plausível se houver um componente bacteriano associado. A pontuação alta do TxGNN é apenas uma previsão do modelo: não há ensaios nem literatura nos dados compilados que a sustentem.
 
-A vantagem estratégica da formulação tópica é significativa: as concentrações locais no tecido conjuntival superam amplamente a concentração inibitória mínima (CIM), enquanto a absorção sistêmica é mínima — contornando os riscos de toxicidade sistêmica (discrasias sanguíneas, reações cutâneas graves) associados ao TMP-SMX oral. Esse perfil farmacológico diferenciado, aliado à aprovação regulatória já existente nos EUA, fortalece e fundamenta a previsão do modelo TxGNN.
+### Outras indicações previstas (posições 2 a 10)
+
+Os dados compilados incluem outras previsões, com evidências variadas:
+
+| Posição | Doença prevista | Pontuação | Nível | Comentário |
+|---|---|---|---|---|
+| 2 | Conjuntivite | 99,17% | L3 | Melhor respaldo: estudos clínicos com colírios de trimetoprima + polimixina B. Trata-se de uso tópico já existente de uma combinação, não de um novo reposicionamento do agente oral |
+| 3 | Ceratite de exposição | 98,95% | L4 | Literatura indireta; o problema primário é o ressecamento da córnea |
+| 4 | Vasculite pós-infecciosa | 98,42% | L5 | Condição imunomediada, sem mecanismo claro |
+| 5 | Distúrbio pós-bacteriano | 98,39% | L4 | Quatro ensaios com sulfametoxazol-trimetoprima, mas inespecíficos |
+| 6 | Síndrome pós-infecciosa | 98,31% | L5 | Único ensaio retirado, com 0 participantes |
+| 7 | Estenose uretral infecciosa | 98,25% | L4 | Estenose é fibrótica; antibiótico não a reverte |
+| 8 | Otite externa | 98,14% | L4 | Literatura majoritariamente de suscetibilidade e veterinária; *Pseudomonas* é pouco suscetível à trimetoprima |
+| 9 | Cardiomiopatia chagásica | 98,07% | L5 | Sem evidências |
+| 10 | Síndrome hemolítico-urêmica associada a infecção | 98,05% | L5 | Sem evidências; antibióticos podem ser prejudiciais |
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT00581542](https://clinicaltrials.gov/study/NCT00581542) | Phase 4 | Concluído | 124 | RCT único-cego comparando diretamente Polytrim (TMP/Polymyxin B) vs Moxifloxacino 0,5% no tratamento de conjuntivite em crianças; ambos aprovados pela FDA para esta indicação — evidência direta de nível A |
-| [NCT00168532](https://clinicaltrials.gov/study/NCT00168532) | Phase 3 | Concluído | 218 | RCT duplo-cego com antibióticos profiláticos (incluindo TMP-SMX) em infecção por sarampo na Guiné-Bissau; avaliou redução de pneumonia pós-sarampo e complicações oculares bacterianas secundárias |
-| [NCT03187834](https://clinicaltrials.gov/study/NCT03187834) | Phase 4 | Concluído | 252 | Estudo observacional sobre resistência antimicrobiana e microbioma intestinal/nasofaríngeo após curso curto de antibióticos em crianças de 6–59 meses em Burkina Faso; fornece contexto epidemiológico do uso de TMP em pediatria |
+Atualmente não há ensaios clínicos relacionados registrados para ceratoconjuntivite epitelial punctata.
 
 ---
 
 ## Evidências da Literatura
 
+Atualmente não há literatura relacionada para ceratoconjuntivite epitelial punctata.
+
+Para a segunda indicação prevista (conjuntivite), a literatura mais relevante é:
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [19043945](https://pubmed.ncbi.nlm.nih.gov/19043945/) | 2008 | RCT multicêntrico | J Pediatric Ophthalmol Strabismus | Comparação multicêntrica da velocidade de eficácia clínica entre TMP-Polymyxin B (Polytrim) e Moxifloxacino 0,5% no tratamento de conjuntivite bacteriana em crianças |
-| [30007329](https://pubmed.ncbi.nlm.nih.gov/30007329/) | 2018 | Revisão sistemática & Meta-análise | J Pediatric Infect Dis Soc | Revisão e meta-análise de tratamentos antibióticos para conjuntivite neonatal por Chlamydia, incluindo eritromicina, azitromicina e trimethoprim; avaliação da eficácia e segurança |
-| [6204534](https://pubmed.ncbi.nlm.nih.gov/6204534/) | 1984 | Ensaio clínico | Am J Ophthalmology | Avaliação clínica de soluções oftálmicas de TMP combinado com sulfacetamida e Polymyxin B em pacientes com conjuntivite bacteriana e blefarite; documentação de eficácia e segurança oculares |
-| [8595639](https://pubmed.ncbi.nlm.nih.gov/8595639/) | 1995 | Observação clínica | Clin Ther | Levantamento pediátrico amplo de conjuntivite bacteriana aguda tratada com solução oftálmica TMP-Polymyxin B; eficácia demonstrada contra *H. influenzae* e *S. pneumoniae* — os patógenos mais frequentes |
-| [16491721](https://pubmed.ncbi.nlm.nih.gov/16491721/) | 2006 | Revisão | J Pediatric Ophthalmol Strabismus | Importância do uso de agentes antimicrobianos no controle de surtos epidêmicos de conjuntivite bacteriana contagiosa por *S. pneumoniae*; recomendações clínicas práticas |
-| [20084257](https://pubmed.ncbi.nlm.nih.gov/20084257/) | 2001 | Revisão | Paediatr Child Health | Revisão da etiologia, características clínicas e manejo da conjuntivite infecciosa aguda em crianças após o período neonatal; papel dos antibióticos tópicos incluindo TMP |
-| [24892274](https://pubmed.ncbi.nlm.nih.gov/24892274/) | 2015 | Relato de caso | Ophthalmic Plast Reconstr Surg | Conjuntivite crônica por *Nocardia nova* em paciente com stent de silicone; sensibilidade ao TMP/sulfametoxazol documentada em cultura, sugerindo espectro de cobertura mais amplo do que esperado |
-| [34943657](https://pubmed.ncbi.nlm.nih.gov/34943657/) | 2021 | Estudo retrospectivo | Antibiotics (Basel) | Infecções oculares por MSSA em Taiwan (2010–2017): características clínicas moleculares e perfil de sensibilidade antimicrobiana incluindo TMP, com comparação CA vs HA |
-| [10537781](https://pubmed.ncbi.nlm.nih.gov/10537781/) | 1999 | Série de casos | Curr Opin Ophthalmology | Síndrome oculoglandular de Parinaud por *Bartonella henselae* (doença da arranhadura do gato) como causa de conjuntivite granulomatosa; antimicrobianos e manejo clínico |
-| [3262623](https://pubmed.ncbi.nlm.nih.gov/3262623/) | 1988 | Estudo microbiológico | J Clin Microbiol | Caracterização bioquímica e epidemiológica de *H. influenzae* biótipo aegyptius associado à Febre Purpúrica Brasileira (FPB), precedida por conjuntivite purulenta — patógeno-alvo clássico do TMP |
+| [19043945](https://pubmed.ncbi.nlm.nih.gov/19043945/) | 2008 | RCT/Estudo comparativo | J Pediatr Ophthalmol Strabismus | Comparação multicêntrica da velocidade de eficácia clínica entre polimixina B/trimetoprima e moxifloxacino em conjuntivite bacteriana |
+| [30007329](https://pubmed.ncbi.nlm.nih.gov/30007329/) | 2018 | Revisão sistemática/Metanálise | J Pediatric Infect Dis Soc | Antibióticos (eritromicina, azitromicina e trimetoprima) no tratamento da conjuntivite neonatal por clamídia |
+| [6204534](https://pubmed.ncbi.nlm.nih.gov/6204534/) | 1984 | Avaliação clínica | Am J Ophthalmol | Eficácia e segurança de colírios com trimetoprima (com sulfacetamida e polimixina B) em conjuntivite bacteriana e blefarite |
+| [8595639](https://pubmed.ncbi.nlm.nih.gov/8595639/) | 1995 | Levantamento | Clin Ther | Resultados em crianças com conjuntivite bacteriana aguda tratadas com colírio de trimetoprima-polimixina B |
+
+---
+
+## Informações de Comercialização no Brasil
+
+Todos os 20 registros constam como cancelados. Principais registros:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 103920170 | Sulfametoxazol + Trimetoprima | — | Trimetoprima em associação com sulfas |
+| Registro nº 155840346 | Bac-Sulfitrin | — | Trimetoprima em associação com sulfas |
+| Registro nº 103700625 | Bacteracin | — | Trimetoprima em associação com sulfas |
+| Registro nº 103900205 | Bactrim | — | Trimetoprima em associação com sulfas |
+| Registro nº 125680021 | Espectroprima | — | Trimetoprima em associação com sulfas |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações e doenças de risco (base de conhecimento do modelo, não texto de bula)**: porfiria (incluindo hereditária), doença renal, doença hepática, doença da vesícula biliar, trombocitopenia, neutropenia, agranulocitose, colite por *Clostridium difficile*, enterocolite necrosante perinatal, deficiência de G6PD, anemia por deficiência de folato, entre outras (doença de armazenamento de glicogênio, cistinúria, galactosemia).
+- **Interações medicamentosas** (100 interações encontradas; principais):
+  - **Maior gravidade**: cloreto de potássio, citrato de potássio, bicarbonato de potássio e gluconato de potássio (risco de hipercalemia).
+  - **Moderada**: metformina, pioglitazona, rosiglitazona, repaglinida, balsalazida, picossulfato e sapropterina.
+
+Para advertências formais, consulte a bula.
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-A combinação Polytrim (Trimethoprim/Polymyxin B) em colírio já é aprovada pela FDA para conjuntivite bacteriana, com ensaio clínico direto (Phase 4, n=124) confirmando eficácia comparável ao moxifloxacino. A formulação tópica elimina os principais riscos sistêmicos do TMP-SMX oral. O principal obstáculo é a ausência total de registro no Brasil, que exige avaliação regulatória completa junto à ANVISA antes de qualquer aplicação clínica local.
+- Para a indicação principal prevista, não há ensaios nem literatura (nível L5); a pontuação alta é apenas previsão do modelo.
+- Nenhum registro de trimetoprima está vigente no Brasil (todos os 20 foram cancelados).
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de mecanismo de ação (MOA) via DrugBank API — lacuna de evidência de alta prioridade (DG002)
-- Levantar advertências, contraindicações e interações da bula oficial — lacuna bloqueante (DG001) que impede avaliação de segurança inicial
-- Avaliar a viabilidade de registro do produto oftálmico (Polytrim ou equivalente genérico) junto à ANVISA, incluindo requisitos de estabilidade e esterilidade para uso oftálmico
-- Verificar o perfil de resistência local de *Pseudomonas aeruginosa* (resistência natural ao Trimethoprim), relevante para casos refratários de conjuntivite no contexto brasileiro
-- Validar a aplicabilidade das evidências norte-americanas para o perfil epidemiológico de patógenos causadores de conjuntivite no Brasil
+- Obter e analisar as bulas na ANVISA (advertências e contraindicações), uma lacuna bloqueante para a triagem de segurança.
+- Obter dados do mecanismo de ação (DrugBank).
+- Esclarecer a etiologia da ceratoconjuntivite epitelial punctata (viral vs. bacteriana) e se há justificativa para antibacteriano.
+- Considerar priorizar a **conjuntivite bacteriana** (L3) como pergunta de pesquisa, verificando o contexto de produto combinado tópico (polimixina B + trimetoprima) e a situação regulatória atual.
+- Definir a via de administração (tópica oftálmica vs. oral) e a disponibilidade de formulação no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

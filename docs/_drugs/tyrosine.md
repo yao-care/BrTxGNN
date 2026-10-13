@@ -2,7 +2,7 @@
 layout: default
 title: Tyrosine
 parent: Apenas Predição do Modelo (L5)
-nav_order: 497
+nav_order: 659
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,75 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tyrosine: De Suplemento Nutricional para Síndrome da Cauda Equina
+# Tirosina: De produtos para dietas especiais e nutrição parenteral para síndrome da cauda equina
 
 ## Resumo em Uma Frase
 
-L-Tirosina (Tyrosine) é um aminoácido aromático não essencial que atua como precursor biossintético das catecolaminas (dopamina, noradrenalina, adrenalina) e dos hormônios tireoidianos (T3/T4), amplamente utilizado como suplemento nutricional e em pesquisa clínica.
-O modelo TxGNN prevê que pode ser eficaz para **Síndrome da Cauda Equina (Cauda Equina Syndrome)**, a indicação de maior pontuação no ranking com escore de 99.77%.
-Atualmente, contudo, **nenhum ensaio clínico** e **nenhuma publicação** diretamente relacionados apoiam esta direção terapêutica.
-
----
+Tirosina é um aminoácido usado em produtos para dietas especiais e em soluções de nutrição parenteral (reposição hidroeletrolítica e alimentação parenteral).
+O modelo TxGNN prevê que pode ser eficaz para **síndrome da cauda equina (cauda equina syndrome)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica. Trata-se de uma previsão puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Não registrado no Brasil — aminoácido nutricional / precursor de catecolaminas |
-| Nova Indicação Prevista | Síndrome da Cauda Equina (Cauda Equina Syndrome) |
-| Pontuação de Previsão TxGNN | 99.77% |
+|------|------|
+| Indicação Original | Produtos para dietas especiais |
+| Nova Indicação Prevista | Síndrome da cauda equina (cauda equina syndrome) |
+| Pontuação de Previsão TxGNN | 99,77% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 10 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação (MOA) de L-Tirosina para indicações terapêuticas específicas. Segundo informações conhecidas, L-Tirosina é o substrato inicial da via biossintética das catecolaminas: Tirosina → L-DOPA → Dopamina → Noradrenalina → Adrenalina, via a enzima tirosina hidroxilase (etapa limitante). Paralelamente, resíduos de tirosina na tireoglobulina são iodados para formar os hormônios tireoidianos T3 e T4. Como suplemento, é estudada para suporte cognitivo sob estresse agudo e em condições de depleção catecolaminérgica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a tirosina é um aminoácido que faz parte de formulações nutricionais (parenterais e dietas especiais) e é precursora de catecolaminas (dopamina e noradrenalina) e dos hormônios tireoidianos.
 
-A Síndrome da Cauda Equina é uma emergência neurocirúrgica causada por compressão das raízes nervosas abaixo de L1-L2, manifestando-se com déficits motores e sensitivos nos membros inferiores, disfunção vesical/intestinal e anestesia em sela. O tratamento estabelecido é cirúrgico (descompressão de urgência), sem papel farmacológico documentado para aminoácidos precursores.
+A relação entre a indicação original (suporte nutricional) e a nova indicação é fraca. A síndrome da cauda equina é uma compressão das raízes nervosas da região lombossacra, condição essencialmente cirúrgica. Não há vínculo mecanístico identificável: nada sustenta que a suplementação de tirosina tenha papel na neuropatia compressiva. A pontuação alta (0,998) reflete apenas a previsão do modelo.
 
-A conexão mecanística entre L-Tirosina e esta síndrome é essencialmente inexistente do ponto de vista farmacológico direto. A pontuação elevada do TxGNN (99.77%) reflete, muito provavelmente, associações topológicas indiretas entre nós de sistema nervoso no grafo de conhecimento — não uma via terapêutica real. Conforme o próprio sistema de rationale indica, "não há qualquer caminho mecanístico direto que suporte o uso de L-Tirosina nesta neuropatia compressiva."
-
----
+Outras indicações previstas pelo modelo também apresentam evidência fraca ou nenhuma (por exemplo, hipertireoidismo, glaucoma de ângulo fechado e síndrome da taquicardia postural ortostática). Em várias delas, como hipertireoidismo e hiperti­roxinemia, a tirosina é substrato da síntese de hormônios tireoidianos, o que sugere que o efeito poderia ser neutro ou até desfavorável.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
+Atualmente não há ensaios clínicos relacionados registrados para síndrome da cauda equina.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
-
----
+Atualmente não há literatura relacionada para síndrome da cauda equina.
 
 ## Informações de Comercialização no Brasil
 
-L-Tirosina (DB00135) não possui nenhum registro ativo na ANVISA. O medicamento não é comercializado como produto farmacêutico registrado no Brasil.
+Todos os registros abaixo estão cancelados; não há produto com registro válido no momento.
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100419923 | KETOSTERIL | Não informada | Produtos para dietas especiais |
+| Registro 100410131 | NEPHROTECT | Não informada | Nutrientes parenterais |
+| Registro 100850145 | AMIXAL | Não informada | Nutrientes parenterais |
+| Registro 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | Não informada | Nutrientes parenterais |
+| Registro 106830098 | PRIMENE | Não informada | Nutrientes parenterais |
+
+Há ainda outros cinco registros cancelados (SMOFKABIVEN, OLIMEL, NUMETA PED, NUMETA NEO e AMINOVEN), totalizando 10.
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
 
----
+Observação: para o hipertireoidismo e a hipertiroxinemia (outras indicações previstas), há preocupação teórica de segurança, pois a tirosina é substrato da síntese de hormônios tireoidianos.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão TxGNN para Síndrome da Cauda Equina carece totalmente de suporte clínico ou literário direto (nível de evidência L5), a conexão mecanística é especulativa e possivelmente um artefato topológico do grafo de conhecimento, e L-Tirosina não possui qualquer registro regulatório no Brasil — tornando inviável qualquer avanço clínico no curto prazo.
+- A previsão para síndrome da cauda equina baseia-se apenas no modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, não há registro válido da tirosina no Brasil.
 
-**Para prosseguir, seria necessário:**
-- Estabelecer o mecanismo de ação (MOA) de L-Tirosina em modelos de lesão nervosa compressiva via estudos pré-clínicos
-- Demonstrar sinal biológico em modelos animais de síndrome da cauda equina antes de qualquer hipótese clínica
-- Obter registro regulatório na ANVISA para uso farmacêutico, caso haja progresso pré-clínico
-- Reavaliar se a previsão do TxGNN resulta de associação biológica real ou de artefato de conectividade no grafo de conhecimento (análise de caminho mecanístico formal)
+**Para prosseguir, é necessário:**
+- Dados do mecanismo de ação (MOA) da tirosina
+- Advertências e contraindicações da bula na ANVISA
+- Justificativa biológica para uma relação entre tirosina e neuropatia compressiva da cauda equina
+- Estudos pré-clínicos que sustentem a hipótese, antes de qualquer ensaio clínico
+- Avaliação regulatória, dado que todos os registros brasileiros estão cancelados
+- Reavaliação das demais indicações previstas, priorizando aquelas com racional biológico (por exemplo, disfunção autonômica), com atenção ao risco no hipertireoidismo
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

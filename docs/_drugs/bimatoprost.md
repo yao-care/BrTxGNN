@@ -2,7 +2,7 @@
 layout: default
 title: Bimatoprost
 parent: Evidência Alta (L1-L2)
-nav_order: 121
+nav_order: 137
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,100 +29,94 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Bimatoprost: Do Glaucoma à Alopecia
+# Bimatoprosta: Do glaucoma à alopecia
 
 ## Resumo em Uma Frase
 
-Bimatoprost é um análogo sintético da prostamida F2α, originalmente aprovado para o tratamento do glaucoma de ângulo aberto e hipertensão ocular, e posteriormente para hipotricose dos cílios (Latisse®).
-O modelo TxGNN prevê que pode ser eficaz para **Alopecia (Queda de Cabelo)** — abrangendo alopecia androgênica e alopecia areata —, com evidências de **11 ensaios clínicos** e **20 publicações** apoiando esta direção.
+Bimatoprosta é um análogo sintético de prostamida (semelhante à prostaglandina F2α), originalmente usado no tratamento do glaucoma de ângulo aberto e da hipertensão ocular.
+O modelo TxGNN prevê que pode ser eficaz para **Alopecia (Alopecia)**, a previsão com maior respaldo de evidências entre as dez indicações candidatas, atualmente com **11 ensaios clínicos** e **20 publicações** apoiando esta direção.
 
----
+> Observação: a indicação com a maior pontuação bruta do TxGNN (síndrome de malformação com componente dentário e/ou periodontal, 99,997%) não tem nenhuma evidência real. Por isso, este relatório destaca a alopecia, a candidata com evidências concretas.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Glaucoma / Hipertensão Ocular |
-| Nova Indicação Prevista | Alopecia (Queda de Cabelo) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Indicação Original | Glaucoma de ângulo aberto e hipertensão ocular (também hipertricose/crescimento de cílios) |
+| Nova Indicação Prevista | Alopecia (Alopecia) |
+| Pontuação de Previsão TxGNN | 99,99% (alopecia); a candidata de maior pontuação, 99,997%, não tem evidências |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Bimatoprost é um análogo sintético da prostamida F2α estruturalmente relacionado à prostaglandina F2α. Sua ação terapêutica original no glaucoma ocorre pela ativação dos **receptores FP** (receptores de prostaglandina F) nas células do olho, aumentando o fluxo de saída do humor aquoso e reduzindo a pressão intraocular. Esse mesmo receptor FP é expresso nos **folículos pilosos**, onde a sinalização pelas prostaglandinas PGE2 e PGF2α desempenha papel regulatório central no ciclo de crescimento capilar. Embora os dados formais de MOA não estejam disponíveis neste pacote de evidências, os abstracts científicos incluídos na análise fornecem um quadro mecanístico consistente e bem documentado.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a bimatoprosta é um análogo de prostamida/prostaglandina F2α, cuja eficácia na redução da pressão intraocular está comprovada, e mecanisticamente pode ser aplicável à alopecia.
 
-A conexão entre glaucoma e alopecia foi descoberta de forma **serendipitosa**: pacientes com glaucoma em uso de análogos de prostaglandinas desenvolveram hipertricose (crescimento excessivo de pelos e cílios) como efeito colateral não desejado. Esse achado levou diretamente à aprovação do bimatoprost 0,03% (Latisse®) pela FDA para hipotricose dos cílios, estabelecendo uma ponte clínica e regulatória direta entre o mecanismo ocular e o tratamento capilar. O paralelo com a minoxidila — originalmente anti-hipertensivo que promoveu crescimento capilar indesejado e foi reposicionado com sucesso para alopecia — reforça a plausibilidade dessa trajetória.
+A conexão surgiu de um efeito observado em pacientes com glaucoma: o crescimento de cílios mais longos, escuros e espessos. Esse efeito levou à aprovação de uma solução a 0,03% para hipotricose dos cílios em outros países. Acredita-se que o fármaco prolongue a fase anágena (de crescimento) do ciclo capilar e estimule os folículos.
 
-A extensão do mecanismo dos cílios ao **couro cabeludo** é biologicamente coerente: bimatoprost ativa receptores FP nos folículos pilosos, prolongando a fase anagen (crescimento) e retardando a transição para a fase catagen (regressão). O ambiente do couro cabeludo é, porém, mais complexo: na alopecia androgênica, a dihidrotestosterona (DHT) antagoniza o crescimento folicular, o que pode atenuar o efeito do bimatoprost nessa população. Em contrapartida, a alopecia areata — doença de base autoimune — representa um terreno mais promissor, pois o bimatoprost pode exercer efeito imunomodulador local adicional via sinalização prostanoide, além do estímulo direto ao ciclo folicular.
-
----
+Essa lógica foi estendida ao couro cabeludo. Ensaios de Fase 2 avaliaram a bimatoprosta na alopecia androgenética em homens e na perda de cabelo de padrão feminino. Contudo, os resultados não levaram a uma indicação aprovada para o couro cabeludo, e a eficácia parece modesta em relação ao minoxidil. Nas formas autoimunes, como a alopecia areata, o fármaco não atua na patologia imunológica de base.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT01325337](https://clinicaltrials.gov/study/NCT01325337) | Fase 2 | Concluído | 307 | Avaliação de 3 doses de bimatoprost solução vs. veículo e minoxidil 5% (OTC) em homens com AGA; maior estudo randomizado duplo-cego de bimatoprost para calvície masculina |
-| [NCT01325350](https://clinicaltrials.gov/study/NCT01325350) | Fase 2 | Concluído | 306 | Avaliação de 3 doses de bimatoprost vs. veículo e minoxidil 2% em mulheres com alopecia androgenética feminina; abrange espectro de gênero |
-| [NCT01904721](https://clinicaltrials.gov/study/NCT01904721) | Fase 2 | Concluído | 244 | Estudo de segurança e eficácia de bimatoprost em homens com alopecia androgenética (AGA); segundo maior ensaio direto para AGA masculina |
-| [NCT01023841](https://clinicaltrials.gov/study/NCT01023841) | Fase 4 | Concluído | 71 | Segurança e eficácia de bimatoprost 0,03% em hipotricose dos cílios em crianças; fornece dados de segurança em população pediátrica |
-| [NCT05600673](https://clinicaltrials.gov/study/NCT05600673) | Fase 1/2 | Concluído | 30 | Combinação de laser CO2 fracionado com bimatoprost 0,03% como nova abordagem para alopecia areata; completado em 2021, resultados publicados em 2025 |
-| [NCT02170662](https://clinicaltrials.gov/study/NCT02170662) | Fase 2 | Concluído | 33 | Efeito de bimatoprost 0,03% no crescimento capilar do couro cabeludo (folículos dependentes de andrógenos); estudo mecanístico com biópsias |
-| [NCT02848300](https://clinicaltrials.gov/study/NCT02848300) | Fase 1 | Concluído | 11 | Farmacocinética cutânea e tolerabilidade de duas formulações de bimatoprost aplicadas no couro cabeludo por 14 dias; confirma absorção local em AGA |
-| [NCT00187577](https://clinicaltrials.gov/study/NCT00187577) | Exploratório | Concluído | 14 | Comparação randomizada de latanoprost vs. bimatoprost na promoção do crescimento de cílios em pacientes com perda ciliar por alopecia areata |
-| [NCT02676310](https://clinicaltrials.gov/study/NCT02676310) | Fase 1 | Encerrado Antecipadamente | 53 | Estudo escalonado de segurança, tolerabilidade e farmacocinética de bimatoprost tópico em AGA masculina; dados de doses incompletos |
-| [NCT01189279](https://clinicaltrials.gov/study/NCT01189279) | Fase 1 | Concluído | 42 | Investigação de três novas formulações de bimatoprost em pacientes com alopecia; avaliação de segurança, tolerabilidade e farmacocinética comparativa |
+| [NCT01325337](https://clinicaltrials.gov/study/NCT01325337) | Phase 2 | Concluído | 307 | Três doses de bimatoprosta vs. veículo e minoxidil 5% em homens com alopecia androgenética |
+| [NCT01325350](https://clinicaltrials.gov/study/NCT01325350) | Phase 2 | Concluído | 306 | Três doses de bimatoprosta vs. veículo e minoxidil 2% em mulheres com perda de cabelo de padrão feminino |
+| [NCT01904721](https://clinicaltrials.gov/study/NCT01904721) | Phase 2 | Concluído | 244 | Segurança e eficácia em homens com alopecia androgenética |
+| [NCT02170662](https://clinicaltrials.gov/study/NCT02170662) | Phase 2 | Concluído | 33 | Efeito sobre folículos dependentes de androgênio e crescimento de cabelo no couro cabeludo (prova de conceito) |
+| [NCT05600673](https://clinicaltrials.gov/study/NCT05600673) | Phase 1/2 | Concluído | 30 | Laser fracionado de CO2 combinado com bimatoprosta 0,03% na alopecia areata |
+| [NCT01023841](https://clinicaltrials.gov/study/NCT01023841) | Phase 4 | Concluído | 71 | Segurança e eficácia na perda de cílios/hipotricose em crianças |
+| [NCT01189279](https://clinicaltrials.gov/study/NCT01189279) | Phase 1 | Concluído | 42 | Segurança, tolerabilidade e farmacocinética de nova formulação em alopecia |
+| [NCT02848300](https://clinicaltrials.gov/study/NCT02848300) | Phase 1 | Concluído | 11 | Farmacocinética local e tolerabilidade no couro cabeludo de homens com alopecia androgenética |
+| [NCT02676310](https://clinicaltrials.gov/study/NCT02676310) | Phase 1 | Encerrado | 53 | Escalonamento de dose: segurança, tolerabilidade e farmacocinética em homens com alopecia androgenética |
+| [NCT00187577](https://clinicaltrials.gov/study/NCT00187577) | Não especificada | Concluído | 14 | Latanoprosta e bimatoprosta no crescimento de cílios na alopecia areata (estudo pequeno) |
 
----
+Um décimo primeiro ensaio (NCT00999557, sobre sobrancelhas e cílios após quimioterapia) foi retirado, com 0 participantes, e não fornece dados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [32250713](https://pubmed.ncbi.nlm.nih.gov/32250713/) | 2022 | Revisão Sistemática | J Dermatol Treat | Meta-análise em rede comparando eficácias de tratamentos não cirúrgicos para AGA em homens e mulheres; avalia nível de evidências, incluindo bimatoprost |
-| [29863806](https://pubmed.ncbi.nlm.nih.gov/29863806/) | 2018 | Diretriz Clínica | J Dermatology | Diretrizes japonesas 2017 para diagnóstico e tratamento de alopecia masculina e feminina; incorpora novas terapias emergentes e evidências atualizadas |
-| [28264599](https://pubmed.ncbi.nlm.nih.gov/28264599/) | 2017 | Revisão Narrativa | Expert Opin Investig Drugs | Revisão abrangente sobre bimatoprost para alopecia de cílios, sobrancelhas e couro cabeludo; detalha mecanismo via receptor FP e dados de ensaios clínicos |
-| [37089845](https://pubmed.ncbi.nlm.nih.gov/37089845/) | 2023 | Estudo Prospectivo Comparativo | Indian Dermatol Online J | Estudo não randomizado comparando bimatoprost vs. propionato de clobetasol em alopecia areata do couro cabeludo; bimatoprost demonstrou eficácia clínica mensurável |
-| [40252129](https://pubmed.ncbi.nlm.nih.gov/40252129/) | 2025 | Estudo Clínico | Arch Dermatol Res | Avaliação de CO2 fracionado + bimatoprost em alopecia areata; demonstra que a combinação facilita o recrescimento capilar em doença imunomediada (publicação do NCT05600673) |
-| [35278027](https://pubmed.ncbi.nlm.nih.gov/35278027/) | 2022 | Estudo Prospectivo Aberto | Dermatol Ther | Avaliação de bimatoprost tópico em perda de cílios na alopecia totalis e universalis; alta taxa de resposta ao tratamento em formas graves de alopecia areata |
-| [33631058](https://pubmed.ncbi.nlm.nih.gov/33631058/) | 2021 | Revisão Sistemática | Dermatol Ther | Revisão sistemática e meta-análise em rede de tratamentos para alopecia areata; classifica opções terapêuticas por eficácia usando abordagem frequentista |
-| [37185388](https://pubmed.ncbi.nlm.nih.gov/37185388/) | 2023 | Revisão | Curr Oncol | Revisão sobre prevenção e tratamento da alopecia induzida por quimioterapia; discute bimatoprost como agente emergente para recrescimento capilar pós-quimioterapia |
-| [35040730](https://pubmed.ncbi.nlm.nih.gov/35040730/) | 2022 | Estudo Farmacológico | Drug Delivery | Desenvolvimento de formulação tópica de bimatoprost com 4,6× maior permeabilidade cutânea e 529% maior deposição dérmica; eficácia de recrescimento capilar confirmada em modelo animal de AGA |
-| [29854658](https://pubmed.ncbi.nlm.nih.gov/29854658/) | 2018 | Revisão | Indian Dermatol Online J | Revisão do uso de bimatoprost em dermatologia; cobre alopecia, hiperpigmentação palpebral e vitiligo como aplicações emergentes além do glaucoma |
-
----
+| [35278027](https://pubmed.ncbi.nlm.nih.gov/35278027/) | 2022 | Estudo prospectivo aberto | Dermatol Ther | Bimatoprosta tópica na perda de cílios em alopecia areata total e universal |
+| [37089845](https://pubmed.ncbi.nlm.nih.gov/37089845/) | 2023 | Ensaio clínico não randomizado | Indian Dermatol Online J | Bimatoprosta vs. propionato de clobetasol na alopecia areata do couro cabeludo |
+| [40252129](https://pubmed.ncbi.nlm.nih.gov/40252129/) | 2025 | Estudo clínico | Arch Dermatol Res | Laser fracionado de CO2 mais bimatoprosta para rebrota capilar na alopecia areata |
+| [28264599](https://pubmed.ncbi.nlm.nih.gov/28264599/) | 2017 | Revisão | Expert Opin Investig Drugs | Bimatoprosta no tratamento da alopecia de cílios, sobrancelhas e couro cabeludo |
+| [25601618](https://pubmed.ncbi.nlm.nih.gov/25601618/) | 2015 | Revisão | J Am Acad Dermatol | Usos alternativos de análogos da PGF2α além dos cílios, incluindo alopecia |
+| [29854658](https://pubmed.ncbi.nlm.nih.gov/29854658/) | 2018 | Revisão | Indian Dermatol Online J | Aplicações dermatológicas da bimatoprosta (cílios, sobrancelhas, vitiligo) |
+| [38794131](https://pubmed.ncbi.nlm.nih.gov/38794131/) | 2024 | Revisão | Pharmaceuticals (Basel) | Da oftalmologia ao crescimento capilar: panorama da bimatoprosta |
+| [23104985](https://pubmed.ncbi.nlm.nih.gov/23104985/) | 2013 | Estudo pré-clínico/clínico | FASEB J | Bimatoprosta como abordagem nova para alopecias do couro cabeludo |
+| [27377163](https://pubmed.ncbi.nlm.nih.gov/27377163/) | 2016 | Relato de caso | Pediatr Dermatol | Alopecia areata pediátrica resistente a esteroides tratada com sucesso com bimatoprosta tópica |
+| [35040730](https://pubmed.ncbi.nlm.nih.gov/35040730/) | 2022 | Pré-clínico | Drug Deliv | Formulação tópica com maior penetração cutânea e rebrota em modelo de alopecia androgenética |
 
 ## Informações de Comercialização no Brasil
 
-Bimatoprost possui **20 registros** ativos no Brasil com status de comercialização confirmado. Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste pacote de evidências e devem ser verificados diretamente na base DATAVISA/BPS da ANVISA.
-
-Os produtos de referência conhecidos no mercado incluem **Lumigan®** (colírio para glaucoma/hipertensão ocular) e **Latisse®** (solução para hipotricose dos cílios), que constituem a base regulatória para uma eventual extensão de indicação ao tratamento da alopecia do couro cabeludo.
-
----
+A bimatoprosta não possui registros ativos nos dados compilados para este relatório (0 registros), portanto não há produtos comercializados no Brasil.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações descritas em grafo de conhecimento (não extraídas de bula)**: doença hepática, doença da vesícula biliar, uveíte, doença da íris, doença do corpo ciliar, panuveíte, edema macular da retina, edema macular cistoide e irite.
+- **Interações Medicamentosas**: foram identificadas 66 interações potenciais, todas com nível de gravidade não classificado. Exemplos: calcitriol, fentermina, pantoprazol, morfina, metformina, omeprazol, palonosetrona, rosiglitazona, lansoprazol e vancomicina.
+- **Segurança local**: os estudos de aplicação tópica indicam necessidade de monitorar hiperemia e pigmentação.
 
----
+Consulte a bula para advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Proceed with Guardrails** (para alopecia). As demais candidatas devem permanecer em **Hold** ou como questão de pesquisa.
 
 **Justificativa:**
-Três ensaios clínicos de Fase 2 com amostras robustas (244–307 participantes cada) avaliaram diretamente bimatoprost em alopecia androgênica masculina e feminina, complementados por estudos em alopecia areata e dados de farmacocinética no couro cabeludo. A aprovação prévia da FDA para hipotricose dos cílios (Latisse®) fornece uma âncora regulatória e de segurança validada, tornando a extensão ao couro cabeludo biologicamente plausível e regulatoriamente factível — porém condicionada à obtenção de dados de Fase 3 e à resolução das lacunas de informação identificadas.
+- Há três ensaios de Fase 2 concluídos, com mais de 240 participantes cada, em alopecia androgenética, além de revisões e estudos menores em alopecia areata. Porém, não há aprovação para o couro cabeludo, a eficácia parece modesta frente ao minoxidil e não há ensaio de Fase 3.
+- As candidatas de maior pontuação (malformações dentárias, síndrome de Dandy-Walker, malformação arteriovenosa pulmonar) não têm nenhuma evidência nem mecanismo plausível. A hipertricose de Ambras é um caso à parte: um estimulante do crescimento capilar não seria racional e poderia agravar o quadro.
 
 **Para prosseguir, é necessário:**
-- Resolver a lacuna bloqueante **DG001**: obter advertências e contraindicações da bula ANVISA (necessário para avaliação de segurança S1)
-- Resolver a lacuna de alta prioridade **DG002**: consultar DrugBank API para dados completos de MOA
-- Detalhar os 20 registros brasileiros via DATAVISA/BPS (indicações aprovadas, formas farmacêuticas disponíveis)
-- Definir população-alvo prioritária para investigação adicional: **AGA** (androgênica, onde os dados de Fase 2 mostraram resultados modestos) vs. **alopecia areata** (imunomediada, com maior potencial mecanístico e dados emergentes favoráveis)
-- Avaliar viabilidade de ensaio de **Fase 3 no couro cabeludo** para suportar eventual submissão regulatória à ANVISA
+- Obter as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança)
+- Obter dados do mecanismo de ação (por exemplo, via DrugBank)
+- Divulgar e analisar os desfechos dos ensaios de Fase 2 e comparar a eficácia com comparadores ativos (minoxidil)
+- Restringir o foco a subtipos definidos (hipotricose de cílios/sobrancelhas, alopecia androgenética) e definir plano de monitoramento de segurança local (hiperemia, pigmentação)
+- Como o fármaco não é comercializado no Brasil, avaliar a via regulatória e a viabilidade de uma formulação tópica dermatológica
+- Investigar à parte a hipotricose simples do couro cabeludo e a alopecia areata difusa, classificadas como questões de pesquisa
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Axitinibe
 parent: Apenas Predição do Modelo (L5)
-nav_order: 86
+nav_order: 96
 evidence_level: L5
 indication_count: 0
 ---

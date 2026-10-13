@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Venetoclax
-parent: Evidência Moderada (L3-L4)
-nav_order: 503
-evidence_level: L4
+parent: Apenas Predição do Modelo (L5)
+nav_order: 668
+evidence_level: L5
 indication_count: 10
 ---
 
 # Venetoclax
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,87 +29,67 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Venetoclax: Da leucemia linfocítica crônica ao subtipo CLL/SLL com hipermutação IGHV
+# Venetoclax: Da leucemia linfoblástica aguda e síndrome de Richter à leucemia linfocítica crônica com hipermutação somática de IGHV
 
 ## Resumo em Uma Frase
 
-Venetoclax é um inibidor seletivo de BCL-2 (BH3-mimético), aprovado internacionalmente para o tratamento da leucemia linfocítica crônica/linfoma linfocítico pequeno (CLL/SLL) e leucemia mieloide aguda (AML) — indicações sustentadas por múltiplos ensaios clínicos de Fase 3.
-O modelo TxGNN prevê que pode ser eficaz para o subtipo específico **CLL/SLL com hipermutação somática IGHV (IGHV-mutated CLL/SLL)**, atualmente sem **ensaios clínicos dedicados** e sem **publicações** específicas para este subgrupo molecular.
-
----
+Venetoclax é um inibidor da proteína BCL-2, originalmente associado ao tratamento da leucemia linfoblástica/linfocítica aguda e da síndrome de Richter.
+O modelo TxGNN prevê que pode ser eficaz para **leucemia linfocítica crônica/linfoma linfocítico de pequenas células com hipermutação somática do gene da região variável da cadeia pesada de imunoglobulina (IGHV)**, com pontuação muito alta (99,55%). Para essa indicação específica, porém, **não há ensaios clínicos nem publicações** nos dados compilados: a previsão se apoia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Dados de indicação aprovada não disponíveis no registro consultado |
-| Nova Indicação Prevista | CLL/SLL com hipermutação IGHV (*IGHV-mutated CLL/SLL*) |
+| Indicação Original | Leucemia linfoblástica/linfocítica aguda e síndrome de Richter (conforme o grafo de conhecimento do TxGNN; não há texto de indicação aprovada no Brasil) |
+| Nova Indicação Prevista | Leucemia linfocítica crônica/linfoma linfocítico de pequenas células com hipermutação somática de IGHV |
 | Pontuação de Previsão TxGNN | 99,55% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados; convém verificar nos registros atuais da ANVISA) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Venetoclax atua bloqueando seletivamente a proteína anti-apoptótica BCL-2, impedindo que ela sequestre as proteínas pró-apoptóticas BAX e BAK. Ao liberar essas proteínas, o fármaco restaura a morte celular programada pela via mitocondrial (apoptose intrínseca) em células tumorais que dependem da superexpressão de BCL-2 para sobreviver — mecanismo que define a classe dos miméticos BH3.
+Venetoclax é um inibidor seletivo de BCL-2, proteína que impede a morte programada (apoptose) das células tumorais. Ao bloquear essa proteína, o fármaco restaura a capacidade das células malignas de entrar em apoptose. Os dados compilados não trazem uma descrição formal do mecanismo de ação, mas as publicações incluídas descrevem venetoclax como um antagonista oral potente e seletivo de BCL-2.
 
-Na CLL/SLL, a superexpressão de BCL-2 é uma característica molecular praticamente universal e independe do status mutacional IGHV. O subtipo previsto — **CLL/SLL IGHV-mutado** — corresponde ao subconjunto de células B tumorais que carregam marcas de terem passado pelo centro germinativo, o que confere prognóstico geralmente mais favorável em relação ao subtipo pré-germinal (IGHV não-mutado). Em ambos os subtipos, a dependência a BCL-2 como mecanismo central de sobrevivência permanece biologicamente relevante e clinicamente explorável.
+A leucemia linfocítica crônica (LLC/LLPC) depende da superexpressão de BCL-2 para sobreviver, e a LLC é uma doença em que venetoclax já é terapia estabelecida. A variante com IGHV mutado é apenas um subtipo molecular da LLC, o que torna o vínculo mecanístico forte. O fármaco também já é usado em outras neoplasias linfoides e, segundo o grafo de conhecimento, em leucemias agudas.
 
-Os grandes ensaios de referência de venetoclax em CLL — como o **MURANO** (Phase 3, venetoclax + rituximabe em CLL recidivada/refratária) e o **CLL14** (Phase 3, venetoclax + obinutuzumabe em CLL não tratada) — já incluíram pacientes com IGHV-mutado em suas populações, com benefício clínico demonstrado neste subgrupo. A previsão do TxGNN, portanto, reflete uma sub-especificação molecular dentro de uma indicação já estabelecida, e não um repositionamento para uma doença inteiramente nova. Para caracterizar o diferencial de eficácia e o potencial de remissão livre de tratamento (TFR) neste subtipo específico, análises de subgrupo nos estudos existentes são necessárias.
-
----
+Ressalva importante: não foram fornecidos estudos específicos para esse subtipo. Seriam necessários dados de subgrupos de ensaios já existentes em LLC (como MURANO e CLL14) para sustentar a indicação com evidência real.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados especificamente para CLL/SLL com hipermutação IGHV.
-
----
+Atualmente não há ensaios clínicos relacionados registrados para esta indicação.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada específica para esta subpopulação.
+Não há literatura que avalie venetoclax nesta indicação específica. A publicação mais próxima, listada abaixo, refere-se a um subtipo vizinho da LLC e traz apenas contexto biológico.
 
----
-
-## Informações de Comercialização no Brasil
-
-Os dados detalhados do registro (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis na base de dados consultada. Venetoclax consta como **comercializado no Brasil** com **1 registro ativo** junto à ANVISA.
-
----
-
-## Citotoxicidade
-
-| Item | Conteúdo |
-|------|------|
-| Classificação de Citotoxicidade | Terapia alvo — Inibidor seletivo de BCL-2 (classe BH3-mimético); não é citotóxico convencional |
-| Risco de Mielossupressão | Médio — Linfopenia é o achado mais frequente; neutropenia grau ≥3 ocorre em ~20–30% dos pacientes em esquemas combinados; trombocitopenia e anemia possíveis |
-| Classificação de Emetogenicidade | Baixa |
-| Itens de Monitoramento | Hemograma completo com diferencial; função renal (creatinina); eletrólitos (K⁺, Ca²⁺, PO₄³⁻); ácido úrico — monitoramento rigoroso para **Síndrome de Lise Tumoral (TLS)**, especialmente na fase de ramp-up de dose |
-| Proteção no Manuseio | Seguir protocolos institucionais para manuseio de agentes antineoplásicos orais |
-
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [35158929](https://pubmed.ncbi.nlm.nih.gov/35158929/) | 2022 | Revisão (análise biológica) | Cancers | Análise da estrutura e função do receptor de células B (BCR) tumoral na LLC, distinguindo os subtipos com IGHV não mutado (pior prognóstico) e mutado (melhor prognóstico). Não é evidência clínica de eficácia de venetoclax. |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; as 20 primeiras consultadas incluem:
+  - **Graves (Major)**: aprepitanto, dexametasona, claritromicina, eliglustat, rolapitanto, fidaxomicina, cobicistate, deferiprona e samário (153Sm) lexidronam.
+  - **Moderadas**: alvimopano, loperamida, cimetidina, naldemedina, metreleptina, miconazol, rifaximina, clotrimazol, troglitazona e deferasirox.
+  - **Leve (Minor)**: naloxegol.
+- Outras publicações compiladas indicam risco de síndrome de lise tumoral e mielossupressão, além da necessidade de ajuste de dose com inibidores fortes de CYP3A (por exemplo, posaconazol).
 
----
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O subtipo CLL/SLL IGHV-mutado já está contido nas populações dos ensaios clínicos de Fase 3 aprovados de venetoclax em CLL (MURANO, CLL14), não configurando um repositionamento independente; a previsão do TxGNN representa uma sub-especificação molecular da indicação existente, sem lacuna clínica não coberta que justifique prioridade de desenvolvimento.
+- A previsão tem pontuação alta e base mecanística sólida (dependência de BCL-2 na LLC), mas não há ensaios nem literatura específicos para o subtipo com IGHV mutado (nível L5). Além disso, o fármaco não consta como comercializado no Brasil, e os dados de segurança da bula estão ausentes.
 
 **Para prosseguir, é necessário:**
-- Análises de subgrupo estratificadas por status IGHV nos ensaios MURANO, CLL14 e GAIA/CLL13 para quantificar o diferencial de eficácia
-- Avaliação da taxa de negatividade para MRD (doença residual mínima) e potencial de remissão livre de tratamento (TFR) estratificada por IGHV-mutado vs. não-mutado
-- Confirmação dos dados de registro da ANVISA: número de registro, nome comercial, indicação aprovada completa e posologia
-- Recuperação dos dados de MOA e de advertências/contraindicações a partir da bula registrada na ANVISA (DG001 e DG002 pendentes)
+- Extrair dados de subgrupos por status de IGHV de ensaios existentes em LLC (MURANO, CLL14 e outros).
+- Obter a bula da ANVISA (advertências e contraindicações) e confirmar a situação regulatória atual do venetoclax no Brasil.
+- Obter dados detalhados do mecanismo de ação (MOA).
+- Definir plano de monitoramento de segurança (síndrome de lise tumoral, mielossupressão, interações com inibidores de CYP3A).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

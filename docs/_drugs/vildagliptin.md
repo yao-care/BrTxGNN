@@ -2,7 +2,7 @@
 layout: default
 title: Vildagliptin
 parent: Apenas Predição do Modelo (L5)
-nav_order: 504
+nav_order: 669
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,79 +29,57 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-A skill foi verificada — não contém instruções específicas para geração de relatórios individuais. Prossigo diretamente com o relatório conforme o formato v5 definido no system prompt.
-
----
-
-# Vildagliptin: Do diabetes mellitus tipo 2 à síndrome de rigidez muscular clássica
+# Vildagliptina: Do diabetes mellitus tipo 2 à síndrome da pessoa rígida clássica
 
 ## Resumo em Uma Frase
 
-Vildagliptin é um inibidor seletivo da DPP-4 (dipeptidil peptidase-4), utilizado no tratamento do diabetes mellitus tipo 2, onde melhora o controle glicêmico ao potencializar os efeitos dos hormônios incretínicos GLP-1 e GIP.
-O modelo TxGNN prevê que pode ser eficaz para a **Síndrome de Rigidez Muscular Clássica (Classic Stiff Person Syndrome)**, porém atualmente **não há ensaios clínicos nem publicações** apoiando diretamente esta direção.
-
----
+A vildagliptina é um inibidor da dipeptidil peptidase-4 (DPP-4), originalmente usado no tratamento do diabetes mellitus tipo 2.
+O modelo TxGNN prevê que pode ser eficaz para a **síndrome da pessoa rígida clássica (Classic Stiff Person Syndrome)**, mas há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Diabetes mellitus tipo 2 |
-| Nova Indicação Prevista | Síndrome de Rigidez Muscular Clássica (Classic Stiff Person Syndrome) |
-| Pontuação de Previsão TxGNN | 99.88% |
+| Nova Indicação Prevista | Síndrome da pessoa rígida clássica (Classic Stiff Person Syndrome) |
+| Pontuação de Previsão TxGNN | 99,88% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste pacote de evidências. Segundo informações conhecidas, vildagliptin é um inibidor seletivo e potente da DPP-4, aprovado para o tratamento do diabetes mellitus tipo 2. Seu mecanismo central consiste em bloquear a degradação das incretinas GLP-1 e GIP, potencializando a secreção de insulina dependente de glicose e suprimindo a secreção inapropriada de glucagon — resultado é melhora sustentada do controle glicêmico com baixo risco de hipoglicemia.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a vildagliptina inibe a DPP-4. Isso aumenta os níveis de GLP-1 e GIP ativos e reduz a secreção de glucagon, o que melhora o controle glicêmico no diabetes tipo 2. Os dados de farmacologia também listam como alvos as enzimas DPP-8 e DPP-9 e o canal TRPV4.
 
-A síndrome de rigidez muscular clássica é uma doença autoimune rara do sistema GABAérgico, mediada por anticorpos anti-GAD65 (descarboxilase do ácido glutâmico). A destruição autoimune das vias GABAérgicas provoca rigidez muscular progressiva e espasmos dolorosos. Embora os inibidores de DPP-4 possuam efeitos imunomoduladores secundários documentados, não existe nenhuma ligação mecanística direta conhecida entre a inibição da DPP-4 e a síntese ou sinalização do GABA, nem com a resposta imune anti-GAD65 que caracteriza esta doença.
+Na prática, **não há uma ligação mecanística sustentada pelos dados** entre essa inibição e a síndrome da pessoa rígida. Essa doença é um distúrbio autoimune do sistema GABAérgico, geralmente associado a anticorpos anti-GAD65, e a inibição da DPP-4 não tem conexão estabelecida com ela. A pontuação alta provavelmente reflete a proximidade entre doenças e fenótipos no grafo de conhecimento, como a associação com diabetes, e não um efeito terapêutico demonstrado.
 
-A alta pontuação do TxGNN (99.88%) é muito provavelmente decorrente de um efeito de vizinhança em nós neuro-imunes dentro da ontologia de doenças do modelo — e não de um sinal terapêutico biologicamente plausível e independente. A ausência total de evidências clínicas ou pré-clínicos direcionadas a esta indicação reforça esta interpretação. A previsão deve ser tratada com cautela significativa.
-
----
+A pontuação idêntica da síndrome do membro rígido focal, uma variante da mesma doença, reforça essa leitura. As duas previsões vêm da mesma vizinhança no grafo e não constituem evidências independentes.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 Atualmente não há literatura relacionada.
 
----
-
-## Informações de Comercialização no Brasil
-
-Vildagliptin está registrado no mercado brasileiro com **20 licenças ativas** (situação: ✓ Comercializado). Os dados individuais de cada registro (número, nome comercial, forma farmacêutica, indicação aprovada) não estão disponíveis neste pacote de evidências e devem ser consultados diretamente no sistema de consulta da ANVISA.
-
----
-
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+Consulte a bula para informações de segurança. Os dados compilados não trazem advertências nem contraindicações da bula brasileira. As entradas de interação são apenas alvos farmacológicos da vildagliptina (DPP-4, DPP-8, DPP-9 e TRPV4), não interações medicamentosas clínicas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Não existe nenhuma evidência clínica, pré-clínica ou mecanística que apoie o uso de vildagliptin para a síndrome de rigidez muscular clássica. A alta pontuação TxGNN (99.88%) é atribuída a artefatos de vizinhança na ontologia de doenças, e não a sinal terapêutico genuíno — classificando esta previsão como nível L5, a categoria de menor suporte evidente.
+- A previsão tem pontuação alta (99,88%), mas não há ensaios, literatura ou ligação mecanística plausível. O nível de evidência é L5, e o fármaco não está comercializado no Brasil (0 registros).
 
-**Para prosseguir, seria necessário:**
-- Identificar qualquer mecanismo biológico plausível entre a inibição de DPP-4 e a patologia GABAérgica autoimune (anti-GAD65)
-- Conduzir estudos pré-clínicos em modelos animais de síndrome de rigidez muscular antes de qualquer ensaio humano
-- Obter os dados detalhados dos 20 registros ANVISA para rastreabilidade regulatória completa
-- Coletar informações de segurança completas (advertências, contraindicações) via bula oficial ANVISA antes de qualquer avaliação clínica
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), uma lacuna que impede a triagem de segurança.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank) e avaliar se existe alguma hipótese biológica que ligue a inibição da DPP-4 à síndrome da pessoa rígida.
+- Realizar uma busca sistemática de literatura e de registros de ensaios específica para esta indicação.
+- Considerar priorizar outra previsão do mesmo fármaco com suporte clínico real: o **diabetes mellitus tipo 1** (pontuação 99,37%, nível L2). Há um ensaio de Fase 2 concluído (NCT02803892, rapamicina + vildagliptina, n=55), com publicação de RCT duplo-cego (PMID 33124663). O resultado de eficácia não consta nos dados compilados, e há um ensaio de Fase 3 com status desconhecido (NCT01559025, n=44). Também existe um relato de caso de pancreatite provavelmente associada à vildagliptina, que representa um sinal de segurança a monitorar.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

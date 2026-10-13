@@ -2,7 +2,7 @@
 layout: default
 title: Carbinoxamina Maleate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 167
+nav_order: 193
 evidence_level: L5
 indication_count: 0
 ---

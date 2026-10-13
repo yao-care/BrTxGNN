@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Clopidogrel
-parent: Evidência Moderada (L3-L4)
-nav_order: 197
-evidence_level: L3
+parent: Apenas Predição do Modelo (L5)
+nav_order: 235
+evidence_level: L5
 indication_count: 10
 ---
 
 # Clopidogrel
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,95 +29,103 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Com base no Evidence Pack fornecido, aqui está o relatório de avaliação de reposicionamento:
-
----
-
-# Clopidogrel: Da Prevenção Aterotrombótica à Enxaqueca com Aura do Tronco Cerebral
+# Clopidogrel: Da síndrome coronariana aguda à enxaqueca
 
 ## Resumo em Uma Frase
 
-Clopidogrel é um antiagregante plaquetário da classe tienopiridínica, amplamente utilizado na prevenção de eventos aterotrombóticos como infarto do miocárdio, AVC isquêmico e doença arterial periférica.
-O modelo TxGNN prevê que pode ser eficaz para **Enxaqueca com Aura do Tronco Cerebral (Migraine with Brainstem Aura)**, com **0 ensaios clínicos dedicados** a este subtipo específico e **16 publicações** fornecendo base científica indireta — principalmente em contextos de enxaqueca associada a forame oval patente (FOP) e shunt direita-esquerda.
+Clopidogrel é um antiagregante plaquetário (inibidor do receptor P2Y12), originalmente usado em **síndrome coronariana aguda**, embolia intracraniana e infarto do miocárdio com supradesnivelamento do segmento ST.
+O modelo TxGNN prevê que pode ser eficaz para **enxaqueca com aura de tronco encefálico (migraine with brainstem aura)**, mas essa previsão específica não tem ensaios clínicos e conta com **15 publicações** de apoio, em sua maioria indiretas. A evidência mais consistente refere-se à **enxaqueca em geral (migraine disorder)**, a segunda previsão, com **6 ensaios clínicos** registrados e **22 publicações**, sobretudo em pacientes com forame oval patente (FOP) ou após fechamento de comunicação interatrial.
 
 ---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Prevenção de eventos aterotrombóticos (infarto do miocárdio, AVC isquêmico, doença arterial periférica) |
-| Nova Indicação Prevista | Enxaqueca com Aura do Tronco Cerebral (Migraine with Brainstem Aura) |
-| Pontuação de Previsão TxGNN | 99.44% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
-| Decisão Recomendada | Hold |
+|------|------|
+| Indicação Original | Síndrome coronariana aguda (embolia intracraniana e infarto do miocárdio com supra de ST também constam no grafo de conhecimento) |
+| Nova Indicação Prevista | Enxaqueca com aura de tronco encefálico (migraine with brainstem aura) |
+| Pontuação de Previsão TxGNN | 99,44% |
+| Nível de Evidência | L2 (L5 se considerada estritamente a aura de tronco encefálico; a evidência de L2 vem da enxaqueca em geral/FOP) |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold (previsão de aura de tronco encefálico); Proceed with Guardrails seria adequado apenas para a enxaqueca associada a FOP |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros deste Evidence Pack. Com base em conhecimento consolidado, Clopidogrel é um inibidor irreversível do receptor P2Y12 do ADP nas plaquetas: ao bloquear irreversivelmente este receptor, impede a amplificação da ativação plaquetária e a subsequente formação de trombos. É esta propriedade que sustenta seu uso na prevenção de eventos aterotrombóticos e que fornece a base racional para o reposicionamento.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o clopidogrel é um pró-fármaco que bloqueia o receptor plaquetário P2Y12, reduzindo a agregação plaquetária. Sua eficácia na prevenção de eventos trombóticos em síndrome coronariana aguda e doença cerebrovascular está estabelecida.
 
-A enxaqueca com aura do tronco cerebral é um subtipo específico no qual os sintomas de aura refletem disfunção do território vertebrobasilar. A hipótese mecanística central baseia-se na forte associação deste subtipo com o forame oval patente (FOP): microêmbolos venosos originados no sistema venoso sistêmico podem contornar a filtração pulmonar através do FOP, atingir diretamente as artérias cerebrais e, ao chegarem à circulação posterior, desencadear depressão alastrante cortical (CSD) no tronco cerebral. A ativação plaquetária durante esse percurso geraria mediadores pró-inflamatórios e vasoconstritores que amplificam o evento. A inibição do P2Y12 por Clopidogrel teria como efeito teórico a redução da frequência e magnitude desses microêmbolos.
+A hipótese para a enxaqueca é que a ativação plaquetária e microêmbolos paradoxais (principalmente em pacientes com shunt direita-esquerda, como o FOP) liberariam mediadores vasoativos e serotoninérgicos capazes de desencadear a aura. Bloquear o P2Y12 poderia, portanto, reduzir esses eventos. Estudos pré-clínicos também sugerem participação do receptor P2Y12 em modelos de enxaqueca em camundongos.
 
-Um segundo mecanismo, descrito em modelos animais (PMID 31722730), aponta que o receptor P2Y12 medeia a ativação de micróglia no núcleo caudal do trigêmio via RhoA/ROCK — estrutura diretamente envolvida na transmissão nociceptiva da enxaqueca. Isso sugere que Clopidogrel poderia agir tanto na fase de geração do estímulo (antiembólico) quanto na fase de transmissão da dor (anti-neuroinflamatório). Contudo, não existem ensaios clínicos que isolem e confirmem este efeito no subtipo de aura do tronco cerebral especificamente.
+Há um limite importante: a evidência concentra-se em enxaqueca com aura em populações com FOP ou após fechamento de comunicação interatrial. Nada específico foi estudado para a aura de tronco encefálico, e os dados não permitem afirmar eficácia na enxaqueca em geral.
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos dedicados à indicação **Enxaqueca com Aura do Tronco Cerebral** com Clopidogrel registrados.
+Não há ensaios registrados para a aura de tronco encefálico. Os ensaios abaixo referem-se à segunda previsão, **enxaqueca (migraine disorder)**, e são os mais relevantes para a direção terapêutica.
 
-> **Nota:** Ensaios clínicos para a indicação mais ampla de enxaqueca (rank 2 — *Migraine Disorder*) incluem 8 estudos relevantes, entre eles o CANOA (NCT00799045, Phase 4, n=220, concluído) e o COMPETE (NCT05546320, Phase 4, n=1.000), que testam diretamente Clopidogrel na profilaxia da enxaqueca. Esses dados contextuais são altamente relevantes para sustentar a plausibilidade da previsão.
+| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
+|---------|------|------|------|---------|
+| [NCT05546320](https://clinicaltrials.gov/study/NCT05546320) | Phase 2 | Concluído | 1000 | COMPETE: compara anticoagulação, antiagregante plaquetário e medicação convencional para enxaqueca com FOP; resultados publicados (PMID 42526943) |
+| [NCT00799045](https://clinicaltrials.gov/study/NCT00799045) | Phase 4 | Concluído | 220 | CANOA: clopidogrel somado à aspirina para prevenir enxaqueca de início recente após fechamento de comunicação interatrial |
+| [NCT02938182](https://clinicaltrials.gov/study/NCT02938182) | Phase 4 | Desconhecido | 50 | Eficácia profilática do clopidogrel em enxaqueca com shunt direita-esquerda; pequeno e com situação incerta |
+| [NCT04946734](https://clinicaltrials.gov/study/NCT04946734) | Phase 3 | Ativo, sem recrutamento | 440 | SPRING: fechamento de FOP versus medicação para enxaqueca; o dispositivo é a intervenção (relevância indireta) |
+| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Phase 3 | Concluído | 664 | CLOSE: fechamento de FOP versus anticoagulantes versus antiagregantes na recorrência de AVC; enxaqueca não é o desfecho principal (indireto) |
+| [NCT04100135](https://clinicaltrials.gov/study/NCT04100135) | NA | Encerrado | 7 | Estudo de dispositivo (oclusor GORE) para enxaqueca; encerrado com 7 participantes, sem dados úteis |
 
 ---
 
 ## Evidências da Literatura
 
+Publicações mais relevantes (enxaqueca com aura/FOP e enxaqueca em geral):
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [39989443](https://pubmed.ncbi.nlm.nih.gov/39989443/) | 2025 | Revisão Sistemática | *Headache* | Revisão sistemática sobre papel de antitromboticos na prevenção de enxaqueca; sintetiza evidências de Clopidogrel em enxaqueca com aura e PFO |
-| [26908949](https://pubmed.ncbi.nlm.nih.gov/26908949/) | 2016 | ECR (PRIMA) | *European Heart Journal* | Trial PRIMA: fechamento percutâneo de FOP em enxaqueca com aura refratária; confirma a associação fisiopatológica entre FOP e enxaqueca com aura |
-| [24836213](https://pubmed.ncbi.nlm.nih.gov/24836213/) | 2014 | Pilot ECR | *Cephalalgia* | Único ECR piloto avaliando Clopidogrel como profilaxia de enxaqueca; sinais preliminares de redução de frequência de ataques |
-| [16103551](https://pubmed.ncbi.nlm.nih.gov/16103551/) | 2005 | Observacional | *Heart* | Primeiro relato clínico: Clopidogrel reduziu enxaqueca **com aura** após fechamento percutâneo de FOP e CIA — diretamente relevante ao subtipo em análise |
-| [32848048](https://pubmed.ncbi.nlm.nih.gov/32848048/) | 2020 | Observacional | *J Investigative Medicine* | Clopidogrel 75 mg/dia como profilaxia complementar em enxaqueca refratária com FOP; FOP confirmado em 56,8% dos migrâneos estudados |
-| [30478067](https://pubmed.ncbi.nlm.nih.gov/30478067/) | 2018 | Piloto Aberto (TRACTOR) | *Neurology* | Estudo TRACTOR com ticagrelor foi motivado por achados prévios de que Clopidogrel e prasugrel reduziram enxaqueca em pacientes com FOP |
-| [30478066](https://pubmed.ncbi.nlm.nih.gov/30478066/) | 2018 | Retrospectivo | *Neurology* | Revisão retrospectiva de terapia com tienopiridina em migrâneos com FOP; Clopidogrel associado a redução clínica de ataques de enxaqueca |
-| [24770421](https://pubmed.ncbi.nlm.nih.gov/24770421/) | 2014 | Retrospectivo | *Cephalalgia* | Clopidogrel como terapia primária em migrâneos com shunt direita-esquerda; fundamenta o mecanismo de embolia paradoxal como elo patogênico |
-| [22992406](https://pubmed.ncbi.nlm.nih.gov/22992406/) | 2012 | Relato/Revisão | *Cephalalgia* | CIA pós-fechamento e enxaqueca de novo: antiplaquetários incluindo Clopidogrel associados à melhora dos sintomas migrâneos pós-procedimento |
-| [15966922](https://pubmed.ncbi.nlm.nih.gov/15966922/) | 2005 | Série de Casos | *J Interventional Cardiology* | Enxaqueca intensa após fechamento percutâneo de CIA em 5 de 13 pacientes; alívio dramático após administração de 300 mg de Clopidogrel |
+|------|-----|------|------|---------|
+| [42526943](https://pubmed.ncbi.nlm.nih.gov/42526943/) | 2026 | RCT | BMJ | Ensaio multicêntrico, randomizado e aberto sobre tratamento antitrombótico na prevenção de enxaqueca em pacientes com FOP (COMPETE) |
+| [26551304](https://pubmed.ncbi.nlm.nih.gov/26551304/) | 2015 | RCT | JAMA | CANOA: clopidogrel + aspirina versus aspirina isolada após fechamento de comunicação interatrial |
+| [32965476](https://pubmed.ncbi.nlm.nih.gov/32965476/) | 2021 | RCT | JAMA Cardiology | Resultados de 1 ano do CANOA, após a suspensão do clopidogrel aos 3 meses |
+| [24836213](https://pubmed.ncbi.nlm.nih.gov/24836213/) | 2014 | RCT (piloto) | Cephalalgia | Estudo piloto randomizado do clopidogrel como profilaxia da enxaqueca |
+| [39989443](https://pubmed.ncbi.nlm.nih.gov/39989443/) | 2025 | Revisão sistemática | Headache | Avalia o papel dos antitrombóticos na prevenção da enxaqueca |
+| [40144614](https://pubmed.ncbi.nlm.nih.gov/40144614/) | 2025 | Revisão sistemática | Indian J Thorac Cardiovasc Surg | Incidência e manejo da cefaleia/enxaqueca de início recente após fechamento de comunicação interatrial |
+| [32848048](https://pubmed.ncbi.nlm.nih.gov/32848048/) | 2020 | Coorte/observacional | J Investig Med | Clopidogrel 75 mg/dia como profilaxia complementar em enxaqueca refratária com FOP |
+| [16103551](https://pubmed.ncbi.nlm.nih.gov/16103551/) | 2005 | Coorte/observacional | Heart | Clopidogrel reduziu enxaqueca com aura após fechamento de FOP e comunicação interatrial |
+| [30478066](https://pubmed.ncbi.nlm.nih.gov/30478066/) | 2018 | Revisão retrospectiva | Neurology | Uso off-label de tienopiridinas em pacientes com enxaqueca e FOP |
+| [30478067](https://pubmed.ncbi.nlm.nih.gov/30478067/) | 2018 | Piloto aberto | Neurology | Ticagrelor (mesma classe de inibidores P2Y12) em enxaqueca refratária com FOP |
 
 ---
 
-## Informações de Registro no Brasil
+## Informações de Comercialização no Brasil
 
-Há **20 registros** de Clopidogrel cadastrados no Brasil. Os dados detalhados dos registros individuais — número de registro, nome comercial, forma farmacêutica e indicação aprovada — não foram recuperados nesta versão do Evidence Pack.
-
-> Para consultar os registros individuais, acesse o portal de consulta ANVISA: [https://consultas.anvisa.gov.br/](https://consultas.anvisa.gov.br/)
+Segundo os dados compilados, o clopidogrel consta como **não comercializado** e sem registros listados. Essa informação deve ser confirmada diretamente na ANVISA antes de qualquer decisão, pois contraria o esperado para um medicamento amplamente utilizado.
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (segundo o grafo de conhecimento, não a bula)**: insuficiência hepática aguda, hepatite, doenças da coagulação, lesões/traumatismos, púrpura trombocitopênica, úlcera péptica ativa e hemorragia intracraniana.
+- **Interações medicamentosas**: foram identificadas 100 interações, sendo as principais de gravidade **maior**: omeprazol, esomeprazol, rabeprazol (inibição da ativação via CYP2C19), pioglitazona, repaglinida e loperamida. Entre as de gravidade moderada estão ácido acetilsalicílico (risco de sangramento), clopidogrel com cimetidina, claritromicina, bupropiona, morfina, lansoprazol e pantoprazol.
+- **Riscos observados na literatura**: sangramento, inclusive hemorragia intracerebral com uso concomitante de AINEs, e hemartrose espontânea com a associação clopidogrel-aspirina.
+
+As advertências e contraindicações da bula não estavam disponíveis nos dados compilados; consulte a bula aprovada pela ANVISA.
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Hold** (para a enxaqueca com aura de tronco encefálico)
 
 **Justificativa:**
-As evidências existentes para o subtipo específico de **Enxaqueca com Aura do Tronco Cerebral** são predominantemente observacionais e retrospectivas (nível L3), sem nenhum ensaio clínico dedicado a este subtipo. Embora a hipótese mecanística seja biologicamente plausível e haja evidências mais robustas para a enxaqueca com aura em geral e para a enxaqueca associada a FOP (nível L2, rank 2), a extrapolação para este subtipo específico ainda carece de validação prospectiva independente.
+- A previsão específica tem pontuação alta (99,44%), mas não conta com ensaios clínicos nem com estudos dirigidos ao subtipo; a evidência vem de enxaqueca com aura/FOP e é extrapolada.
+- Para a enxaqueca associada a FOP ou pós-fechamento de comunicação interatrial, há ensaios Phase 2/4 e o RCT do BMJ, o que sustentaria uma pergunta de pesquisa (nível L2). O nível L1 não é atribuído porque os ensaios Phase 3 tratam do fechamento de FOP, não do clopidogrel.
 
 **Para prosseguir, é necessário:**
-- Confirmar o mecanismo de ação completo (MOA) via consulta à base DrugBank
-- Obter dados de segurança (advertências, contraindicações e interações medicamentosas) via bula ANVISA ou RDC
-- Identificar se estudos existentes (CANOA, COMPETE, SPRING) coletaram dados de subtipo de aura — potencial análise de subgrupo retrospectiva
-- Definir critério diagnóstico preciso para aura do tronco cerebral (critérios ICHD-3) para uso em futuros protocolos
-- Avaliar viabilidade de ensaio clínico prospectivo em pacientes com FOP confirmado e enxaqueca com aura do tronco cerebral documentada
+- Ler integralmente o RCT COMPETE (PMID 42526943) e os resultados do CANOA para avaliar a magnitude do efeito e a segurança.
+- Obter o mecanismo de ação detalhado e as advertências/contraindicações da bula na ANVISA.
+- Confirmar a situação regulatória no Brasil (registros e indicações aprovadas).
+- Definir a população-alvo (enxaqueca com aura e shunt direita-esquerda) e avaliar o balanço risco-sangramento.
+- Considerar um ensaio dirigido ao subtipo com aura de tronco encefálico, caso haja interesse nessa indicação específica.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

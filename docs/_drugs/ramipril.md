@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ramipril
-parent: Apenas Predição do Modelo (L5)
-nav_order: 423
-evidence_level: L5
+parent: Evidência Moderada (L3-L4)
+nav_order: 558
+evidence_level: L4
 indication_count: 10
 ---
 
 # Ramipril
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,77 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ramipril: Da hipertensão arterial à hipertensão pulmonar por doença pulmonar e/ou hipóxia
+# Ramipril: Da hipertensão arterial à hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia
 
 ## Resumo em Uma Frase
 
-Ramipril é um inibidor da enzima conversora de angiotensina (IECA), amplamente utilizado no tratamento de hipertensão arterial, insuficiência cardíaca e redução de risco cardiovascular.
-O modelo TxGNN prevê que pode ser eficaz para **Hipertensão Pulmonar por Doença Pulmonar e/ou Hipóxia (pulmonary hypertension owing to lung disease and/or hypoxia)**,
-atualmente com **0 ensaios clínicos** e **20 publicações** identificadas — contudo, toda a literatura levantada aborda mecanismos gerais de hipóxia sem relação direta com o uso de ramipril nesta indicação específica.
-
----
+Ramipril é um inibidor da enzima conversora de angiotensina (ECA), originalmente usado no tratamento da hipertensão arterial e na redução do risco de acidente vascular cerebral (AVC).
+O modelo TxGNN prevê que pode ser eficaz para **hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia (pulmonary hypertension owing to lung disease and/or hypoxia)**,
+atualmente com **0 ensaios clínicos** e apenas **1 estudo pré-clínico diretamente relevante** (em ratos) entre as 11 publicações recuperadas.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial, insuficiência cardíaca, proteção cardiovascular |
-| Nova Indicação Prevista | Hipertensão Pulmonar por Doença Pulmonar e/ou Hipóxia |
+| Indicação Original | Hipertensão arterial (e AVC / doença cerebrovascular, segundo o grafo de conhecimento do TxGNN) |
+| Nova Indicação Prevista | Hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia |
 | Pontuação de Previsão TxGNN | 99,93% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Ramipril é um IECA que bloqueia a conversão de angiotensina I em angiotensina II (Ang II) pela enzima conversora de angiotensina. Ao reduzir os níveis de Ang II, promove vasodilatação sistêmica e pulmonar, diminui a resistência vascular e atenua o processo de remodelamento da parede vascular. Um dado anatomofisiológico relevante é que o leito vascular pulmonar expressa de forma particularmente elevada a ECA, o que coloca os IECAs em posição teórica para interferir na vasoconstrição pulmonar e no remodelamento vascular característicos da hipertensão pulmonar (HP) do Grupo 3 (OMS).
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o ramipril pertence à classe dos inibidores da ECA, que reduzem a formação de angiotensina II, e sua eficácia em hipertensão arterial e prevenção de AVC é estabelecida.
 
-A relação entre a indicação original e a nova indicação reside no eixo SRAA (sistema renina-angiotensina-aldosterona). Tanto na hipertensão sistêmica quanto na HP por doença pulmonar crônica, há ativação de Ang II mediando vasoconstrição e fibrose vascular — portanto, a base mecanística da previsão é biologicamente plausível.
+A angiotensina II contribui para a vasoconstrição pulmonar hipóxica e para o remodelamento vascular. Por isso, a inibição da ECA é mecanisticamente plausível na hipertensão pulmonar associada à hipóxia. O estudo mais relevante (PMID 9200213, 1996) mostrou, em ratos expostos a hipóxia crônica, que o ramipril reduziu a pressão de perfusão pulmonar basal e atenuou os efeitos da hipóxia sobre os vasos pulmonares.
 
-Porém, é necessário destacar uma limitação crítica: as 20 publicações identificadas pelo pipeline de evidências são artigos de revisão sobre vias gerais de hipóxia (envelhecimento cerebral, câncer, altitude, esclerose múltipla), sem nenhuma relação direta com o uso de ramipril nesta condição. O próprio racional de reposicionamento classifica esta literatura como "falso positivo por co-ocorrência de palavras-chave". Na prática clínica atual, IECAs não integram os algoritmos de tratamento recomendados para HP do Grupo 3.
-
----
+Essa evidência, porém, é exclusivamente animal. Não há ensaios clínicos nem dados em humanos com hipertensão pulmonar. As demais publicações recuperadas tratam de remodelamento cardíaco, capilares renais ou necrose por radiação, e só se relacionam indiretamente.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
-> ⚠️ **Nota de qualidade**: As 20 publicações identificadas são artigos de revisão sobre mecanismos gerais de hipóxia. Nenhuma avalia diretamente ramipril em hipertensão pulmonar por doença pulmonar e/ou hipóxia. A listagem abaixo é apresentada para transparência do processo de busca.
+Entre as publicações recuperadas, destacam-se as mais pertinentes. Várias outras (por exemplo, toxoplasmose amazônica, doença de Cushing com etomidato) não têm relação com a indicação prevista e foram omitidas.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [33862277](https://pubmed.ncbi.nlm.nih.gov/33862277/) | 2021 | Review | Ageing Research Reviews | Hipóxia e envelhecimento cerebral: neuroproteção vs. neurodegeneração em altitude e doenças pulmonares |
-| [34618295](https://pubmed.ncbi.nlm.nih.gov/34618295/) | 2022 | Review | Metabolic Brain Disease | Déficit cognitivo por hipóxia aguda e crônica: evidências clínicas e mecanismos moleculares |
-| [40347693](https://pubmed.ncbi.nlm.nih.gov/40347693/) | 2025 | Review | Redox Biology | Hipóxia na esclerose múltipla: inflamação, disfunção vascular e progressão da doença |
-| [31961750](https://pubmed.ncbi.nlm.nih.gov/31961750/) | 2020 | Review | Annual Review of Immunology | Hipóxia e imunidade inata: papel do HIF na inflamação fisiológica e patológica |
-| [34535359](https://pubmed.ncbi.nlm.nih.gov/34535359/) | 2021 | Review | Clinical Oncology | Modificação terapêutica da hipóxia em tumores sólidos: resistência à radioterapia |
-| [27423661](https://pubmed.ncbi.nlm.nih.gov/27423661/) | 2016 | Review | Cell and Tissue Research | Hipóxia no reparo tecidual e fibrose: papel do HIF-1 na regeneração vascular |
-| [21328446](https://pubmed.ncbi.nlm.nih.gov/21328446/) | 2011 | Review | Journal of Cellular Biochemistry | Controle biológico mediado por hipóxia: crescimento, metabolismo e angiogênese |
-| [11172576](https://pubmed.ncbi.nlm.nih.gov/11172576/) | 2000 | Review | Respiratory Care Clinics | Mecanismos de hipoxemia: hipoventilação, mismatch V/Q, shunt direita-esquerda |
-| [36100192](https://pubmed.ncbi.nlm.nih.gov/36100192/) | 2022 | Review | Journal of Controlled Release | Nanomedicina baseada em hipóxia tumoral para terapia do câncer |
-| [40815459](https://pubmed.ncbi.nlm.nih.gov/40815459/) | 2025 | Review | Rev Med IMSS | Hipóxia hipobarica em altitude: aclimatação morfofisiológica em populações de altitude |
-
----
+|------|-----|------|------|---------|
+| [9200213](https://pubmed.ncbi.nlm.nih.gov/9200213/) | 1996 | Estudo pré-clínico (rato) | Physiological Research | Ramipril (10 mg/kg/dia) durante 3 semanas de hipóxia reduziu a pressão de perfusão pulmonar basal e atenuou os efeitos da hipóxia crônica nos vasos pulmonares |
+| [12069940](https://pubmed.ncbi.nlm.nih.gov/12069940/) | 2002 | Pré-clínico (rato) | Am J Physiol Regul Integr Comp Physiol | O sistema renina-angiotensina modulou a suscetibilidade da função cardíaca à hipóxia-reoxigenação (relevância indireta) |
+| [15671045](https://pubmed.ncbi.nlm.nih.gov/15671045/) | 2005 | Pré-clínico / tecido humano | Eur Heart J | A expressão de ECA2 aumenta após infarto do miocárdio em ratos e em corações humanos com insuficiência (relevância indireta) |
+| [19380417](https://pubmed.ncbi.nlm.nih.gov/19380417/) | 2009 | Pré-clínico (rato) | Cardiovasc Res | A inibição da ECA promoveu progenitoras endoteliais e neoangiogênese na sobrecarga pressórica cardíaca (relevância indireta) |
+| [18464162](https://pubmed.ncbi.nlm.nih.gov/18464162/) | 2008 | Pré-clínico (rato) | Microcirculation | Ramipril ou valsartana atenuaram a perda de capilares peritubulares (renoproteção; relevância indireta) |
+| [24907870](https://pubmed.ncbi.nlm.nih.gov/24907870/) | 2014 | Pré-clínico (rato) | Basic Res Cardiol | Ativação da guanilato ciclase solúvel mostrou benefício sobre a inibição da ECA no remodelamento pós-infarto (relevância indireta) |
 
 ## Informações de Comercialização no Brasil
 
-O ramipril possui **20 registros ativos** no Brasil (ANVISA). Os detalhes individuais dos registros — nome comercial, forma farmacêutica e indicação aprovada — não estão disponíveis neste Evidence Pack (campos em branco na fonte TFDA/ANVISA consultada). Recomenda-se consulta direta ao [portal ANVISA](https://consultas.anvisa.gov.br/) para verificação das indicações aprovadas constantes nas bulas registradas.
-
----
+Segundo os dados compilados, não há registros ativos de ramipril comercializados no Brasil (0 registros).
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (derivadas do grafo de conhecimento, não do texto da bula)**: doença renal, obstrução da artéria renal, doença hepática, doença da vesícula biliar, angioedema hereditário (inclusive com deficiência de C1 inibidor), hipotensão, neutropenia, agranulocitose, lúpus eritematoso sistêmico (inclusive pediátrico), esclerodermia (localizada e sistêmica/esclerose sistêmica), doenças do tecido conjuntivo, doenças ósseas e da cartilagem, piureter.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; entre as exibidas, as de gravidade **grave** são com **citrato de potássio** e **bicarbonato de potássio** (risco de hipercalemia). As demais são de gravidade moderada, incluindo corticoides (hidrocortisona, dexametasona, betametasona, budesonida, triancinolona), ácido acetilsalicílico, antidiabéticos (alogliptina, canagliflozina, dapagliflozina, empagliflozina, metformina, glimepirida, clorpropamida), morfina, bupropiona, dronabinol, ácido picossulfúrico e polietilenoglicol com eletrólitos.
+- **Pontos de atenção para a nova indicação**: o risco de hipotensão e de piora da função renal exige cautela, sobretudo em pacientes com doença pulmonar grave ou comorbidades renais.
 
-> As informações de advertências, contraindicações e interações medicamentosas não estão disponíveis neste Evidence Pack (itens DG001 e DG002 pendentes de remediação via download de bula ANVISA e consulta à API DrugBank).
-
----
+As advertências e contraindicações da bula aprovada pela ANVISA não estavam disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A pontuação TxGNN de 99,93% provavelmente reflete co-ocorrência topológica no grafo de conhecimento (nós compartilhados entre SRAA e vias de hipóxia), e não uma associação clínica estabelecida. Não há nenhum ensaio clínico registrado avaliando ramipril especificamente em HP do Grupo 3, e as 20 publicações identificadas são artigos de revisão sobre hipóxia geral — o próprio racional de reposicionamento classifica este conjunto como "falso positivo por co-ocorrência de palavras-chave". Na prática clínica atual, IECAs não são agentes recomendados para HP por doença pulmonar e/ou hipóxia.
+A previsão tem pontuação alta no modelo (99,93%), mas se apoia em um único estudo pré-clínico de 1996 em ratos, sem ensaios clínicos nem dados em humanos (nível L4). Além disso, o ramipril não tem registro comercializado no Brasil, e as informações de segurança da bula não estão disponíveis.
 
 **Para prosseguir, é necessário:**
-- Realizar busca bibliográfica dirigida especificamente para "ramipril OR ACEI AND pulmonary hypertension Group 3" com filtro de relevância clínica
-- Sanar DG001: baixar e analisar bula ANVISA (PDF) para advertências, contraindicações e precauções de uso
-- Sanar DG002: consultar DrugBank API para obter MOA detalhado e categorias do fármaco
-- Avaliar se o mecanismo vasodilatador pulmonar do ramipril justifica estudo em modelos pré-clínicos de HP-hipóxia (seria o ponto de entrada para L4 → L3)
-- Verificar potenciais riscos de segurança em pacientes com doença pulmonar crônica avançada (hipotensão, tosse por IECA, angioedema)
+- Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), etapa necessária antes de qualquer triagem de segurança
+- Complementar os dados de mecanismo de ação (consulta ao DrugBank)
+- Realizar revisão sistemática da literatura sobre inibidores da ECA em hipertensão pulmonar, com busca de dados em humanos
+- Gerar evidência pré-clínica adicional e, se favorável, planejar estudo clínico exploratório de fase 2
+- Avaliar a viabilidade regulatória e comercial, dado que o ramipril não está comercializado no Brasil
+- Definir plano de monitoramento de pressão arterial, função renal e potássio sérico
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

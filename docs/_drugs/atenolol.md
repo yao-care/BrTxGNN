@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Atenolol
-parent: Evidência Moderada (L3-L4)
-nav_order: 77
-evidence_level: L4
+parent: Apenas Predição do Modelo (L5)
+nav_order: 85
+evidence_level: L5
 indication_count: 9
 ---
 
 # Atenolol
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **9** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,77 +29,61 @@ Nível de evidência: **L4** | Indicações previstas: **9**
 
 </div>
 
-# Atenolol: Da Hipertensão ao Infarto do Miocárdio Posterolateral
+# Atenolol: Da hipertensão e do infarto do miocárdio ao infarto do miocárdio posterolateral
 
 ## Resumo em Uma Frase
 
-Atenolol é um bloqueador β1-adrenérgico seletivo amplamente utilizado no tratamento da hipertensão arterial e angina pectoris. O modelo TxGNN prevê que pode ser eficaz para **Infarto do Miocárdio Posterolateral (Posterolateral Myocardial Infarction)**, com pontuação de previsão de **99,87%**. Contudo, não há ensaios clínicos registrados nem publicações científicas específicas para este subtipo de infarto, o que limita o nível de evidência atual.
-
----
+Atenolol é um betabloqueador cardiosseletivo (beta-1), originalmente usado no tratamento da hipertensão arterial e do infarto do miocárdio.
+O modelo TxGNN prevê que pode ser eficaz para **infarto do miocárdio posterolateral (posterolateral myocardial infarction)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica. A previsão reflete sobretudo a proximidade com uma indicação já existente (infarto do miocárdio), e não um sinal novo de reposicionamento.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Não disponível nos registros regulatórios (uso estabelecido: hipertensão arterial, angina pectoris) |
-| Nova Indicação Prevista | Infarto do Miocárdio Posterolateral (Posterolateral Myocardial Infarction) |
+|------|------|
+| Indicação Original | Hipertensão arterial e infarto do miocárdio (conforme as indicações do grafo de conhecimento; não há texto de indicação de registro na ANVISA) |
+| Nova Indicação Prevista | Infarto do miocárdio posterolateral (posterolateral myocardial infarction) |
 | Pontuação de Previsão TxGNN | 99,87% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Os dados detalhados do mecanismo de ação não estão disponíveis nos registros fornecidos. Com base no conhecimento farmacológico amplamente estabelecido, Atenolol é um bloqueador β1-adrenérgico seletivo que reduz a frequência cardíaca e a pressão arterial ao antagonizar seletivamente os receptores β1 do coração, diminuindo o consumo de oxigênio pelo miocárdio e a atividade simpática. Esta classe terapêutica possui indicação Classe I nas diretrizes internacionais para o infarto do miocárdio (IM) em geral, protegendo contra o remodelamento cardíaco adverso pós-infarto e reduzindo a mortalidade cardiovascular.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o atenolol é um betabloqueador beta-1 seletivo: ao reduzir a frequência cardíaca e a demanda de oxigênio do miocárdio, tem eficácia estabelecida no infarto do miocárdio e na hipertensão.
 
-A extensão desta indicação ao subtipo posterolateral possui fundamento mecanístico coerente: a redução da demanda de oxigênio pelo miocárdio e o bloqueio da hiperatividade simpática no período peri-infarto são benéficos independentemente da localização do infarto. Nesse sentido, os β-bloqueadores são considerados componentes essenciais do tratamento padrão pós-IM em múltiplas topografias isquêmicas.
+O infarto posterolateral é um subtipo anatômico do infarto do miocárdio, indicação que o atenolol já possui. Assim, a pontuação alta (0,9987) reflete principalmente a proximidade na ontologia de doenças com uma indicação existente, e não uma descoberta nova. O potencial de novidade do reposicionamento é baixo, e a plausibilidade mecanística é alta apenas por extensão da indicação já conhecida.
 
-No entanto, o infarto posterolateral frequentemente envolve a artéria coronária direita e pode comprometer o ventrículo direito (VD). Em situações de disfunção do VD com baixo débito cardíaco — frequente neste subtipo —, a administração de β-bloqueadores pode potencialmente agravar a queda da função ventricular, exigindo avaliação clínica individualizada. Esta preocupação de segurança específica ao subtipo posterolateral distingue este cenário de outros territórios de IM e justifica cautela antes de qualquer recomendação de uso.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
+Outras previsões do modelo, com menor sustentação, incluem a hipertensão renovascular maligna, a hipertensão pulmonar e a cor pulmonale crônico. Nelas, a lógica mecanística é fraca ou há ressalvas de segurança (ver abaixo).
 
 ## Informações de Comercialização no Brasil
 
-Atenolol está comercializado no Brasil com **20 registros ativos** na ANVISA. Os dados individuais de cada registro (número de registro, nome comercial, forma farmacêutica e texto da indicação aprovada) não estão disponíveis neste relatório. Para informações completas, consulte o sistema DATAVISA da ANVISA.
-
----
+Segundo os dados compilados, não há registros de atenolol com situação de comercialização no Brasil (0 registros). Por isso, não há tabela de registros.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (com base em relações do grafo de conhecimento, não em texto de bula)**: o grafo associa o atenolol a contraindicação ou cautela nas seguintes condições: bloqueio atrioventricular, asma (incluindo as formas intrínseca e alérgica), doença de Raynaud, anafilaxia, diabetes mellitus (tipos 1 e 2) e cetoacidose diabética, insuficiência hepática, anúria, lúpus eritematoso sistêmico, psoríase e parapsoríase, pancreatite, gota e hiperuricemia, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, deficiência de potássio, transtornos de ansiedade, transtorno neurótico e distimia.
+- **Interações Medicamentosas**: foram identificadas 100 interações na consulta; as 20 listadas nos dados compilados são, em sua maioria, de gravidade moderada:
+  - Moderadas: epinefrina, hidrocortisona, hiosciamina, bupropiona, triancinolona, morfina, acetoexamida, atropina, betametasona, budesonida e sais de cálcio (acetato, carbonato, citrato, glubionato, gluconato, lactato e fosfato).
+  - Leves: ácido acetilsalicílico, hidróxido de alumínio e attapulgita.
+- **Cautelas específicas das previsões**: na hipertensão renovascular, betabloqueadores exigem cautela em estenose bilateral de artéria renal; na hipertensão pulmonar e em doença pulmonar crônica, há risco de piora de estados hipóxicos ou broncoespasmo.
 
----
+As advertências e contraindicações da bula brasileira não estavam disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN é mecanisticamente plausível, pois β-bloqueadores possuem indicação estabelecida para IM em geral. Entretanto, a completa ausência de evidências clínicas específicas para o subtipo posterolateral — somada à preocupação de segurança com possível disfunção do ventrículo direito nessa topografia —, e a falta de dados regulatórios e de segurança na ANVISA, impedem a recomendação de avanço sem investigação adicional.
+- A indicação prevista (infarto posterolateral) é um subtipo de uma indicação já existente, sem ensaios clínicos nem literatura específica; o nível de evidência é L5, e a alta pontuação reflete proximidade na ontologia, não novidade terapêutica.
+- Não há registro do atenolol no Brasil segundo os dados compilados, e a bula brasileira não foi analisada, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Obter dados detalhados do mecanismo de ação (MOA) via DrugBank API — atualmente indisponível
-- Levantar os registros completos da ANVISA, incluindo indicações aprovadas, advertências e contraindicações (download e parsing dos PDFs das bulas)
-- Realizar revisão sistemática da literatura sobre β-bloqueadores em subtipos específicos de IM (posterolateral e posteroinferior)
-- Avaliar a segurança em pacientes com comprometimento documentado do ventrículo direito
-- Verificar se ensaios clínicos de β-bloqueadores em IM geral (ex.: REDUCE-SWEDEHEART) incluem dados estratificados por topografia do infarto
-
-> ⚠️ **Aviso**: Este relatório destina-se exclusivamente a fins de pesquisa e não constitui recomendação médica. Qualquer candidato a reposicionamento deve ser validado em estudos clínicos antes de aplicação terapêutica.
+- Obter e analisar a bula na ANVISA (advertências e contraindicações) e confirmar a situação regulatória do atenolol no Brasil.
+- Completar os dados de mecanismo de ação a partir do DrugBank.
+- Verificar se a indicação já está coberta pela aprovação de infarto do miocárdio, o que tornaria desnecessário tratá-la como reposicionamento.
+- Para a previsão com alguma literatura de apoio (infarto posteroinferior), há apenas um estudo cruzado pequeno de 1985 (atenolol vs. diltiazem); seria necessária evidência mais robusta e específica ao subtipo.
+- Para as demais previsões (hipertensão renovascular maligna, hipertensão pulmonar, cor pulmonale crônico), a literatura é indireta, pré-clínica ou fora do tema, e não sustenta recomendação.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

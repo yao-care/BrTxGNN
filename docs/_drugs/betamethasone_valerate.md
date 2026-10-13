@@ -2,7 +2,7 @@
 layout: default
 title: Betamethasone Valerate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 114
+nav_order: 130
 evidence_level: L5
 indication_count: 0
 ---

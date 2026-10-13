@@ -2,7 +2,7 @@
 layout: default
 title: Anastrozole
 parent: Evidência Alta (L1-L2)
-nav_order: 64
+nav_order: 70
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,109 +29,113 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Anastrozole: Da inibição da aromatase ao carcinoma mamário feminino
+# Anastrozol: Do tratamento antineoplásico ao carcinoma de mama feminino
 
 ## Resumo em Uma Frase
 
-Anastrozole é um inibidor de aromatase de terceira geração utilizado globalmente como tratamento hormonal de primeira linha para câncer de mama receptor hormonal positivo (ER+/HER2−) em mulheres pós-menopausa. O modelo TxGNN prevê que pode ser eficaz para **Carcinoma Mamário Feminino (Female Breast Carcinoma)**, atualmente com **mais de 50 ensaios clínicos** e **20 publicações** apoiando esta direção. Embora esta seja a indicação internacionalmente consolidada do medicamento, Anastrozole não possui registro no mercado brasileiro, configurando uma lacuna de acesso crítica.
-
----
+Anastrozol é um inibidor de aromatase não esteroidal, registrado na ANVISA como antineoplásico.
+O modelo TxGNN prevê eficácia para **carcinoma de mama feminino (female breast carcinoma)**, com **29 ensaios clínicos** e **20 publicações** associados a esta direção.
+Trata-se, na prática, de uma indicação já estabelecida (uso oncológico em bula), e não de um reposicionamento propriamente dito: as evidências validam a previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Câncer de mama ER+/HER2− em pós-menopausa (aprovado nos EUA e Europa; sem registro no Brasil) |
-| Nova Indicação Prevista | Carcinoma Mamário Feminino (Female Breast Carcinoma) |
+| Indicação Original | Antineoplásico (agentes antineoplásicos) |
+| Nova Indicação Prevista | Carcinoma de mama feminino (female breast carcinoma) |
 | Pontuação de Previsão TxGNN | 99,68% |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 18 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Anastrozole atua inibindo seletivamente a enzima CYP19A1 (aromatase), responsável pela conversão de andrógenos em estrógenos nos tecidos periféricos — principal fonte de estrógeno após a menopausa. Esta inibição resulta em redução superior a 96% nos níveis circulantes de estradiol, privando as células tumorais estrógeno-dependentes de seu principal estímulo proliferativo. Seu mecanismo difere fundamentalmente do tamoxifeno: enquanto este bloqueia o receptor tumoral, Anastrozole age "na fonte", reduzindo a disponibilidade do hormônio em nível sistêmico.
+Atualmente, não há dados detalhados de mecanismo de ação na base de dados consultada. Segundo informações conhecidas, o anastrozol é um inibidor de aromatase não esteroidal de terceira geração: bloqueia a conversão de androgênios em estrogênios e, assim, reduz o estrogênio circulante em mulheres na pós-menopausa.
 
-A conexão entre o mecanismo de ação e o carcinoma mamário feminino é direta e biologicamente bem estabelecida. Aproximadamente 70–80% dos cânceres de mama femininos expressam receptores de estrógeno (ER+) e dependem deste hormônio para crescimento e progressão. Ao eliminar a produção periférica de estrógeno, Anastrozole suprime o sinal proliferativo nas células ER+ tumorais — mecanismo de "privação hormonal" com eficácia comprovada tanto no cenário adjuvante quanto na doença avançada.
+O carcinoma de mama com receptor hormonal positivo depende de estrogênio para crescer. Reduzir a produção de estrogênio atinge diretamente esse mecanismo, o que torna a previsão do TxGNN biologicamente coerente. A indicação "antineoplásico" registrada na ANVISA é genérica e não especifica o tipo de tumor.
 
-Anastrozole foi aprovado pelo FDA em 1995 e tornou-se padrão global de tratamento adjuvante, superando o tamoxifeno no emblemático estudo ATAC (9.366 pacientes) em sobrevida livre de doença, tempo para recorrência distante e câncer contralateral — benefício sustentado após mais de 10 anos de seguimento. A pontuação TxGNN de 99,68% reflete precisamente a robustez dessas evidências acumuladas ao longo de três décadas.
-
----
+Os estudos clássicos (como o ATAC e o IBIS-II) já demonstraram a eficácia do anastrozol no tratamento adjuvante e na prevenção do câncer de mama, o que confirma a previsão.
 
 ## Evidências de Ensaios Clínicos
 
+Foram identificados 29 ensaios; abaixo estão os 10 mais relevantes (priorizando fases 3 concluídos e estudos que testam diretamente o anastrozol).
+
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00849030](https://clinicaltrials.gov/study/NCT00849030) | Phase 3 | Concluído | 9.358 | ATAC: Anastrozole isolado superior ao tamoxifeno e à combinação como adjuvante em câncer de mama pós-menopausa; maior RCT cabeça-a-cabeça de referência histórica |
-| [NCT00066573](https://clinicaltrials.gov/study/NCT00066573) | Phase 3 | Concluído | 7.576 | MA.27: Anastrozole vs Exemestane em câncer de mama ER+ pós-cirurgia; avaliação de recorrência e sobrevida em maior RCT entre IAs de 3ª geração |
-| [NCT00556374](https://clinicaltrials.gov/study/NCT00556374) | Phase 3 | Concluído | 3.420 | Denosumabe vs placebo em câncer de mama não-metastático sob terapia com IA (anastrozole/letrozole) para prevenção de fraturas clínicas |
-| [NCT00248170](https://clinicaltrials.gov/study/NCT00248170) | Phase 3 | Concluído | 4.172 | Letrozole vs Anastrozole adjuvante por 5 anos em pós-menopausa ER+ com linfonodo positivo; comparação direta entre IAs de 3ª geração |
-| [NCT00072462](https://clinicaltrials.gov/study/NCT00072462) | Phase 3 | Concluído | 2.980 | IBIS-II DCIS: Anastrozole vs tamoxifeno para prevenção de recorrência locoregional e câncer contralateral em DCIS ER+ pós-menopausa |
-| [NCT00301457](https://clinicaltrials.gov/study/NCT00301457) | Phase 3 | Concluído | 1.914 | Avaliação de 6 vs 3 anos de anastrozole adjuvante após tamoxifeno sequencial; otimização da duração da terapia endócrina |
-| [NCT00143390](https://clinicaltrials.gov/study/NCT00143390) | Phase 3 | Concluído | 298 | Exemestane vs Anastrozole como terapia hormonal inicial em câncer de mama avançado/recorrente pós-menopausa; validação de não-inferioridade do exemestane |
-| [NCT00256698](https://clinicaltrials.gov/study/NCT00256698) | Phase 3 | Concluído | 514 | FACT: Anastrozole monoterapia vs bloqueio máximo de estrógeno (anastrozole + fulvestrant) na primeira recaída de câncer de mama HR+ |
-| [NCT06311383](https://clinicaltrials.gov/study/NCT06311383) | N/A | Concluído | 2.610 | Estudo observacional real-world (Alemanha): efetividade de ribociclib + IA/fulvestrant vs terapia endócrina isolada em câncer de mama HR+/HER2− metastático na 1ª linha |
-| [NCT01151215](https://clinicaltrials.gov/study/NCT01151215) | Phase 2 | Encerrado | 482 | MINT: AZD8931 + Anastrozole vs Anastrozole isolado em câncer de mama HR+ localmente avançado/metastático sem tratamento endócrino prévio; encerrado por razão não divulgada |
-
----
+| [NCT00784680](https://clinicaltrials.gov/study/NCT00784680) | Phase 3 | Concluído | 308 | Qualidade de vida com anastrozol (Arimidex), tamoxifeno ou a combinação como adjuvante em mulheres na pós-menopausa |
+| [NCT00327769](https://clinicaltrials.gov/study/NCT00327769) | Phase 3 | Concluído | 234 | Fulvestranto 250 mg versus anastrozol 1 mg como segunda linha em câncer de mama avançado RE+ |
+| [NCT00143390](https://clinicaltrials.gov/study/NCT00143390) | Phase 3 | Concluído | 298 | Exemestano versus anastrozol como terapia hormonal inicial em câncer de mama avançado/recorrente (não inferioridade) |
+| [NCT00300508](https://clinicaltrials.gov/study/NCT00300508) | Phase 3 | Concluído | 856 | 3 anos adicionais de anastrozol versus nenhum tratamento após 5 anos de terapia hormonal adjuvante |
+| [NCT00301457](https://clinicaltrials.gov/study/NCT00301457) | Phase 3 | Concluído | 1.914 | 6 anos versus 3 anos de anastrozol após 2–3 anos de tamoxifeno |
+| [NCT00784940](https://clinicaltrials.gov/study/NCT00784940) | Phase 3 | Concluído | 308 | Efeitos do anastrozol, tamoxifeno ou combinação sobre densidade mineral óssea e metabolismo |
+| [NCT02246621](https://clinicaltrials.gov/study/NCT02246621) | Phase 3 | Ativo, sem recrutamento | 493 | Inibidor de aromatase não esteroidal (anastrozol ou letrozol) com abemaciclibe versus placebo em câncer de mama avançado HR+/HER2− |
+| [NCT03425838](https://clinicaltrials.gov/study/NCT03425838) | Phase 3 | Ativo, sem recrutamento | 1.050 | Estudo SONIA: sequência de inibidor de aromatase + inibidor de CDK4/6 em 1ª linha versus 2ª linha |
+| [NCT00256217](https://clinicaltrials.gov/study/NCT00256217) | Phase 2 | Concluído | 42 | Quimioprevenção com anastrozol em CDIS e câncer de mama invasivo inicial |
+| [NCT04272801](https://clinicaltrials.gov/study/NCT04272801) | Phase 2 | Ativo, sem recrutamento | 84 | Terapia endócrina pré-operatória em mulheres idosas com câncer de mama inicial para orientar decisões de radioterapia |
 
 ## Evidências da Literatura
 
+Foram identificadas 20 publicações; abaixo estão as 10 mais relevantes (RCT priorizados).
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [31839281](https://pubmed.ncbi.nlm.nih.gov/31839281/) | 2020 | RCT (seguimento longo prazo) | Lancet | IBIS-II: Anastrozole reduziu incidência de câncer de mama em 49% em mulheres de alto risco ao longo de 131 meses de seguimento médio; benefício preventivo sustentado após término do tratamento |
-| [15639680](https://pubmed.ncbi.nlm.nih.gov/15639680/) | 2005 | RCT (grande ensaio pivô) | Lancet | ATAC: Anastrozole prolongou significativamente a sobrevida livre de doença vs tamoxifeno (RR 0,87; p=0,01) com menor taxa de câncer contralateral e de recorrência distante |
-| [26686313](https://pubmed.ncbi.nlm.nih.gov/26686313/) | 2016 | RCT | Lancet | IBIS-II DCIS: Anastrozole superior ao tamoxifeno na prevenção de recorrência locoregional e câncer contralateral em DCIS ER+ pós-menopausa; ensaio duplo-cego de alta qualidade |
-| [28415634](https://pubmed.ncbi.nlm.nih.gov/28415634/) | 2017 | Meta-análise de RCTs | Oncotarget | Meta-análise de RCTs confirmando superioridade do anastrozole vs tamoxifeno em sobrevida livre de doença no câncer de mama ER+, com análise sistemática de benefícios e toxicidades |
-| [20923259](https://pubmed.ncbi.nlm.nih.gov/20923259/) | 2010 | Revisão abrangente | Expert Opinion on Drug Safety | Síntese de múltiplos ensaios adjuvantes demonstrando maior eficácia do anastrozole vs tamoxifeno; discussão detalhada do perfil de segurança em longo prazo |
-| [16761927](https://pubmed.ncbi.nlm.nih.gov/16761927/) | 2006 | Revisão | Expert Review of Anticancer Therapy | Análise dos desenvolvimentos clínicos do anastrozole com foco no estudo ATAC; eficácia e tolerabilidade no cenário adjuvante e na doença avançada |
-| [16439860](https://pubmed.ncbi.nlm.nih.gov/16439860/) | 2006 | Revisão | Oncology | Papel do anastrozole ao longo do contínuo do câncer de mama: doença avançada (segunda e primeira linha), câncer precoce e prevenção primária |
-| [28614542](https://pubmed.ncbi.nlm.nih.gov/28614542/) | 2017 | Revisão de literatura | Revista da AMB | Revisão em português sobre quimioprevenção e tratamento com anastrozole; discussão de farmacodinâmica, farmacocinética e variabilidade interindividual |
-| [19445563](https://pubmed.ncbi.nlm.nih.gov/19445563/) | 2009 | Revisão comparativa | Expert Opinion on Pharmacotherapy | Comparação dos três IAs de 3ª geração (anastrozole, letrozole, exemestane) em câncer de mama precoce; todos superiores ao tamoxifeno com diferentes nuances de eficácia e tolerabilidade |
-| [12113022](https://pubmed.ncbi.nlm.nih.gov/12113022/) | 2001 | Perfil clínico | Expert Review of Anticancer Therapy | Perfil farmacológico e clínico do anastrozole em pós-menopausa; atividade superior ao megestrol e à aminoglutetimida no câncer de mama avançado, com base para uso adjuvante |
-
----
+| [15639680](https://pubmed.ncbi.nlm.nih.gov/15639680/) | 2005 | RCT | Lancet | Estudo ATAC (9.366 mulheres): após 5 anos, o anastrozol prolongou significativamente a sobrevida livre de doença em relação ao tamoxifeno |
+| [31839281](https://pubmed.ncbi.nlm.nih.gov/31839281/) | 2020 | RCT | Lancet | IBIS-II: resultados de longo prazo do anastrozol versus placebo na prevenção do câncer de mama (invasivo e CDIS) em mulheres de alto risco |
+| [27908454](https://pubmed.ncbi.nlm.nih.gov/27908454/) | 2016 | RCT | Lancet | FALCON: fulvestranto 500 mg versus anastrozol 1 mg em câncer de mama avançado HR+ sem terapia endócrina prévia |
+| [42384406](https://pubmed.ncbi.nlm.nih.gov/42384406/) | 2026 | RCT | JAMA Surgery | NSABP B-35: margens de lumpectomia e recorrência local em CDIS com anastrozol ou tamoxifeno adjuvante |
+| [31615937](https://pubmed.ncbi.nlm.nih.gov/31615937/) | 2020 | Ensaio clínico | Clin Cancer Res | neoMONARCH: abemaciclibe com anastrozol no cenário neoadjuvante, com forte inibição do ciclo celular |
+| [41632158](https://pubmed.ncbi.nlm.nih.gov/41632158/) | 2025 | Coorte | JAMA Netw Open | Comparação de efetividade entre anastrozol, letrozol e exemestano em câncer de mama na pós-menopausa |
+| [20923259](https://pubmed.ncbi.nlm.nih.gov/20923259/) | 2010 | Revisão | Expert Opin Drug Saf | Anastrozol como inibidor de aromatase de terceira geração, com maior eficácia adjuvante que o tamoxifeno |
+| [28614542](https://pubmed.ncbi.nlm.nih.gov/28614542/) | 2017 | Revisão | Rev Assoc Med Bras | Revisão do uso do anastrozol na quimioprevenção e no tratamento do câncer de mama |
+| [16439860](https://pubmed.ncbi.nlm.nih.gov/16439860/) | 2006 | Revisão | Oncology | Papel do anastrozol em todo o espectro do câncer de mama, da doença avançada à prevenção |
+| [17033446](https://pubmed.ncbi.nlm.nih.gov/17033446/) | 2006 | Relato de caso | Eur J Gastroenterol Hepatol | Primeiro caso descrito de hepatotoxicidade induzida por anastrozol em uma idosa |
 
 ## Informações de Comercialização no Brasil
 
-Anastrozole **não possui registros aprovados pela ANVISA** e não está disponível comercialmente no Brasil. O medicamento possui aprovação regulatória em mais de 60 países — incluindo EUA (FDA, 1995), União Europeia (EMA) e Japão (PMDA) — para o tratamento adjuvante e de primeira linha do câncer de mama ER+/HER2− em mulheres pós-menopausa, além de aprovação específica para prevenção em populações de alto risco. A ausência de registro nacional contrasta com a ampla disponibilidade internacional e o robusto perfil de evidências do fármaco.
+Todos os 18 registros constam como **cancelados**; não há registro válido no momento. Os 5 primeiros da lista:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 100410161 | Anastrozol | — | Antineoplásico |
+| Registro nº 169170006 | Anastrozol | — | Antineoplásico |
+| Registro nº 165070036 | Anastrozol | — | Antineoplásico |
+| Registro nº 102351234 | Arazabi | — | Antineoplásico |
+| Registro nº 116180063 | Arimidex | — | Antineoplásico |
 
 ## Citotoxicidade
 
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Terapia alvo hormonal – inibidor seletivo da aromatase (endocrinoterapia; não é quimioterapia citotóxica convencional) |
-| Risco de Mielossupressão | Baixo (mecanismo hormonal sem ação direta sobre células hematopoiéticas; não causa supressão de medula óssea) |
-| Classificação de Emetogenicidade | Baixa (agente oral com emetogenicidade mínima, inferior a regimes citotóxicos convencionais) |
-| Itens de Monitoramento | Densidade mineral óssea/DEXA (risco de osteoporose e fraturas), perfil lipídico (colesterol total, LDL), função hepática (AST/ALT), sintomas musculoesqueléticos (artralgia, mialgia) |
-| Proteção no Manuseio | Precauções padrão para medicamentos orais; protocolos específicos de citotóxicos geralmente não são necessários para inibidores de aromatase orais (verificar regulamentações locais da ANVISA) |
-
----
+| Classificação de Citotoxicidade | Terapia hormonal (inibidor de aromatase); não é citotóxico convencional |
+| Risco de Mielossupressão | Baixo |
+| Classificação de Emetogenicidade | Baixa |
+| Itens de Monitoramento | Função hepática (há relato de hepatotoxicidade), densidade mineral óssea, perfil lipídico e risco cardiovascular |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (grafo de conhecimento, não texto de bula)**: associação com isquemia miocárdica e doença arterial coronariana.
+- **Sinais da literatura**: relato de hepatotoxicidade (PMID 17033446) e efeitos sobre densidade óssea e função endotelial, estudados em ensaios dedicados (NCT00784940, NCT00719966).
+- **Interações medicamentosas**: foram identificadas 100 interações registradas, todas com nível de gravidade não classificado. Entre as principais listadas: bupropiona, pantoprazol, glimepirida, morfina, metformina, omeprazol, rosiglitazona, lansoprazol, prednisona e sinvastatina.
 
----
+Advertências e contraindicações da bula não estão disponíveis nos dados compilados; consulte a bula para informações completas de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Anastrozole possui um dos perfis de evidências mais robustos já documentados em oncologia: múltiplos ensaios Phase 3 concluídos — com destaque para o ATAC (9.358 pacientes) e o MA.27 (7.576 pacientes) —, aprovação regulatória em mais de 60 países e três décadas de uso clínico confirmando eficácia e segurança no tratamento adjuvante do câncer de mama ER+/HER2− em pós-menopausa. A ausência de registro no Brasil representa uma lacuna de acesso significativa, dado que o câncer de mama é o tumor de maior incidência em mulheres no país.
+Há vários ensaios de fase 3 concluídos e RCTs de grande porte (ATAC, IBIS-II, FALCON) que sustentam o uso do anastrozol no câncer de mama, o que confere nível de evidência L1. A ressalva é que todos os registros no Brasil estão cancelados e faltam dados de bula e de mecanismo de ação.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de segurança (bula, advertências e contraindicações formais) para a avaliação de segurança S1 — atualmente classificada como bloqueante (DG001)
-- Submeter dossiê de registro à ANVISA, avaliando a viabilidade de via acelerada por comparabilidade com produtos referência com aprovação global consolidada
-- Verificar disponibilidade de formulações genéricas internacionais com equivalência comprovada que possam agilizar o processo regulatório
-- Estabelecer protocolo de monitoramento de densidade mineral óssea (DEXA basal e seguimento periódico) para pacientes em tratamento
-- Avaliar custo-efetividade comparativo com tamoxifeno (disponível no SUS) para definir populações-alvo prioritárias no contexto do sistema de saúde brasileiro
+- Verificar a situação regulatória atual no Brasil (novo registro ou reativação), já que nenhum registro está válido.
+- Obter e analisar a bula na ANVISA (advertências e contraindicações).
+- Complementar os dados de mecanismo de ação (DrugBank).
+- Definir plano de monitoramento de segurança (função hepática, saúde óssea e risco cardiovascular, sobretudo em pacientes com doença coronariana).
+- Revisar as interações medicamentosas sem classificação de gravidade.
+
+**Observação sobre as demais indicações previstas:** neuroblastoma, ganglioneuroblastoma, leucemias, rabdomiossarcoma e outras condições previstas não têm ensaios clínicos nem literatura que as sustentem e permanecem como **Hold**. Para o neoplasma retroperitoneal, a única publicação é um relato de caso de metástase de câncer de mama, que não representa uma nova indicação.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

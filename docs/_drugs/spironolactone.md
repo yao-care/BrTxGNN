@@ -2,7 +2,7 @@
 layout: default
 title: Spironolactone
 parent: Apenas Predição do Modelo (L5)
-nav_order: 450
+nav_order: 598
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,68 +29,79 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Spironolactone: Do Tratamento da Hipertensão e Edema à Hipotricose Simples do Couro Cabeludo
+# Espironolactona: De diurético a hipotricose simples do couro cabeludo
 
 ## Resumo em Uma Frase
 
-Spironolactone é um antagonista da aldosterona (diurético poupador de potássio) amplamente utilizado no tratamento da hipertensão arterial, edema e hiperaldosteronismo primário, com propriedades anti-androgênicas adicionais que motivam uso off-label em condições hormonais. O modelo TxGNN prevê que pode ser eficaz para a **Hipotricose Simples do Couro Cabeludo (Hypotrichosis Simplex of the Scalp)**, porém atualmente **não há ensaios clínicos nem publicações** específicas apoiando esta direção — a evidência se restringe à previsão computacional.
-
----
+A espironolactona foi originalmente registrada no Brasil como diurético.
+O modelo TxGNN prevê que pode ser eficaz para **hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial, edema, hiperaldosteronismo primário |
-| Nova Indicação Prevista | Hipotricose Simples do Couro Cabeludo (Hypotrichosis Simplex of the Scalp) |
+| Indicação Original | Diuréticos simples |
+| Nova Indicação Prevista | Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) |
 | Pontuação de Previsão TxGNN | 99,26% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 8 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Os dados de mecanismo de ação (MOA) ainda não foram obtidos via DrugBank API (DG002 — pendente). Com base em conhecimento farmacológico estabelecido, Spironolactone é um antagonista competitivo da aldosterona que atua nos receptores mineralocorticoides do túbulo distal renal, promovendo natriurese e retenção de potássio. De forma secundária, bloqueia receptores androgênicos periféricos e inibe parcialmente a 5-alfa-redutase, reduzindo os efeitos da testosterona e da di-hidrotestosterona (DHT) nos tecidos-alvo — mecanismo pelo qual é utilizado off-label em acne hormonal e alopecia androgenética feminina.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo conhecimento farmacológico geral, a espironolactona é um antagonista do receptor mineralocorticoide e também tem atividade antiandrogênica (bloqueio do receptor de androgênio e redução da síntese de androgênios). Seu efeito diurético está bem estabelecido, e ela é usada fora da bula em alopecia de padrão feminino.
 
-A aparente conexão com condições capilares deriva exatamente desta ação anti-androgênica: em patologias dependentes de andrógenos (ex.: alopecia androgenética), o fármaco demonstra efeito sobre o ciclo folicular. O modelo TxGNN provavelmente identificou o padrão fenotípico compartilhado de "escassez capilar no couro cabeludo" como elo de similaridade entre as indicações, gerando a previsão.
+A hipotricose simples do couro cabeludo, porém, é uma condição hereditária rara, geralmente associada a variantes em genes como CDSN, APCDD1 ou RPL21, e não é primariamente dependente de androgênios. A relação com a indicação original (diurético) é indireta, e a ligação mecanística é **especulativa**: baseia-se apenas na pontuação elevada do TxGNN, sem estudos que a sustentem.
 
-**Contudo, a Hipotricose Simples do Couro Cabeludo é uma condição monogênica** — causada por mutações de perda de função nos genes *LPAR6* e *LIPH*, que codificam proteínas da via do ácido lisofosfatídico essenciais para a integridade estrutural da haste capilar e do folículo. Sua fisiopatologia é **completamente independente do eixo aldosterona-andrógeno**. Nenhum mecanismo conhecido de Spironolactone atua sobre defeitos de desenvolvimento folicular de origem genética. A análise do pipeline classifica internamente esta ligação mecanística como **fraca — extrapolação fenotípica de alto risco de falso positivo**.
-
----
+Uma segunda indicação prevista, **hipotricose congênita com milia** (pontuação de 99,04%), apresenta o mesmo cenário: nível L5, sem ensaios nem literatura, e base mecanística ainda mais fraca por se tratar de distúrbio genético com origem estrutural/de desenvolvimento do folículo.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 Atualmente não há literatura relacionada.
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 8 registros estão cancelados; não há registro válido atualmente.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 154230266 | Espironolactona | Não informada | Diuréticos simples |
+| Registro nº 113430155 | Espironolactona | Não informada | Diuréticos simples |
+| Registro nº 121100419 | Aldactone | Não informada | Diuréticos |
+| Registro nº 100431399 | Diacqua | Não informada | Diuréticos simples |
+| Registro nº 105830285 | Espironolactona | Não informada | Diuréticos simples |
+
+(Exibidos os 5 primeiros de 8 registros.)
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (grafo de conhecimento TxGNN/PrimeKG, não derivadas da bula)**: doença renal, anúria, pancreatite, lúpus eritematoso sistêmico (inclusive pediátrico), deficiência de potássio, diabetes mellitus, cetoacidose diabética, hiperuricemia, gota, hiperparatireoidismo, osteíte fibrosa, coma hepático, encefalopatia hepática, icterícia neonatal, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo e piureter.
+- **Interações Medicamentosas** (100 interações identificadas; amostra de 20 exibida):
+  - **Grave**: loperamida.
+  - **Moderada**: hidrocortisona, metformina, bupropiona, triamcinolona, morfina, dexametasona, betametasona, bisacodil, budesonida, canagliflozina, óleo de rícino, dapagliflozina, dronabinol, empagliflozina, ertugliflozina, exenatida.
+  - **Leve**: doxiciclina, ácido acetilsalicílico, fidaxomicina.
 
----
+As advertências e contraindicações da bula não estavam disponíveis nos dados compilados; consulte a bula aprovada pela ANVISA.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A pontuação elevada do TxGNN (99,26%) reflete provavelmente transferência fenotípica por similaridade de padrão capilar, sem correspondência mecanística real — a Hipotricose Simples do Couro Cabeludo é uma doença genética estrutural, não responsiva ao bloqueio androgênico ou mineralocorticoide que Spironolactone provê. A ausência total de ensaios clínicos e literatura específica confirma que esta previsão não evoluiu além do estágio computacional.
+A previsão tem pontuação alta no modelo, mas nível de evidência L5, sem ensaios ou literatura, e com base mecanística especulativa para uma condição genética rara. Além disso, todos os registros brasileiros estão cancelados e os dados de segurança da bula estão ausentes.
 
 **Para prosseguir, é necessário:**
-- Obter o MOA completo via DrugBank API (pendência DG002) para formalizar a análise mecanística
-- Consultar especialista em genética dermatológica para avaliação da plausibilidade biológica desta indicação específica
-- Caso o interesse clínico seja em perda capilar androgênica, redirecionar a avaliação para **alopecia androgenética** — indicação com base mecanística robusta e literatura existente para Spironolactone
-- Registrar este candidato como baixa prioridade de desenvolvimento, mantendo monitoramento passivo da literatura
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
+- Complementar os dados do mecanismo de ação (MOA) a partir do DrugBank.
+- Realizar busca sistemática de literatura e de registros de ensaios clínicos para hipotricose hereditária.
+- Avaliar estudos pré-clínicos que testem se o bloqueio androgênico é relevante para as variantes genéticas envolvidas.
+- Esclarecer a situação regulatória (registros cancelados) e a via de administração adequada (por exemplo, oral vs. tópica).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

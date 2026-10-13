@@ -2,7 +2,7 @@
 layout: default
 title: Carbocisteine
 parent: Apenas Predição do Modelo (L5)
-nav_order: 168
+nav_order: 194
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,89 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Carbocisteine: De mucolítico à gota
+# Carbocisteína: De expectorante mucolítico a gota (previsão do modelo)
 
 ## Resumo em Uma Frase
 
-Carbocisteine é um agente mucolítico utilizado no manejo de doenças respiratórias com hipersecreção brônquica, atuando na modificação da composição do muco para reduzir sua viscosidade e facilitar a eliminação. O modelo TxGNN prevê que pode ser eficaz para **Gota (Gout)**, com pontuação de previsão de **99,67%**. Contudo, esta indicação conta atualmente com **0 ensaios clínicos** e **0 publicações** de suporte direto.
+Carbocisteína é um mucolítico/expectorante, originalmente usado para facilitar a eliminação de secreções das vias respiratórias.
+O modelo TxGNN prevê que pode ser eficaz para **Gota (Gout)**, com a maior pontuação entre as previsões, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se apenas de uma previsão computacional.
 
----
+Observação importante: a segunda previsão, **Bronquite (Bronchitis)**, é a única com respaldo na literatura (1 RCT de 1985, 1 metanálise de 2024 e estudos pré-clínicos). Ela corresponde, em grande parte, à indicação original e não a um reposicionamento verdadeiro. Ela é apresentada adiante como alternativa de maior interesse prático.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Mucolítico (doenças respiratórias com hipersecreção brônquica) |
+| Indicação Original | Expectorantes |
 | Nova Indicação Prevista | Gota (Gout) |
 | Pontuação de Previsão TxGNN | 99,67% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 14 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Carbocisteine é classificado farmacologicamente como agente mucolítico. Seu mecanismo de ação envolve a modificação da composição do muco brônquico — inibindo a síntese de sulfomucina e promovendo a secreção de sialomucina —, reduzindo a viscosidade do muco e melhorando a função mucociliar. Como precursor da cisteína, também contribui para a síntese de glutationa e atividade antioxidante celular. Dados detalhados do mecanismo de ação não estão disponíveis na base consultada e precisam ser confirmados via DrugBank.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a carbocisteína é um mucolítico com atividade mucorreguladora e antioxidante, usado para reduzir a viscosidade do muco respiratório.
 
-A gota é causada por hiperuricemia, resultante de distúrbios no metabolismo das purinas. O metabolismo da cisteína — principal via metabólica do Carbocisteine — não possui interseção direta com o metabolismo das purinas. A plausibilidade biológica desta previsão específica é, portanto, **baixa** com base nos dados disponíveis.
+Para a **gota**, não há nenhum elo mecanístico identificável. Nada nos dados conecta a carbocisteína ao metabolismo do urato ou à inflamação gotosa. A pontuação alta (99,67%) reflete apenas associações do grafo de conhecimento, e deve ser interpretada com cautela.
 
-Vale notar, porém, que o modelo TxGNN também previu a Síndrome de Lesch-Nyhan para este fármaco (rank 9) — uma doença genética do metabolismo das purinas. Isso sugere que o modelo pode ter capturado uma conexão indireta via eixo "metabolismo cisteína-purinas" no grafo de conhecimento biológico, possivelmente através da hipótese antioxidante: cisteína → glutationa → redução do estresse oxidativo → proteção articular. Esta conexão é altamente especulativa e requer investigação mecanicista básica antes de qualquer consideração clínica.
-
----
+Em contraste, para a **bronquite** (2º lugar, 98,77%), a plausibilidade é forte: a carbocisteína regula a viscosidade do muco, melhora o transporte mucociliar (modelo de bronquite induzida por SO₂ em ratos) e elimina espécies reativas de oxigênio in vitro. Ainda assim, isso é essencialmente a reconfirmação da indicação original.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para Carbocisteine em gota.
-
----
+Atualmente não há ensaios clínicos relacionados registrados para a gota.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada para Carbocisteine em gota.
+Atualmente não há literatura relacionada à gota.
 
----
+Para referência, a literatura disponível para a previsão de **bronquite** (2º lugar):
+
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [3907681](https://pubmed.ncbi.nlm.nih.gov/3907681/) | 1985 | RCT | Br J Clin Pract | Estudo duplo-cego, controlado por placebo, de carbocisteína oral a longo prazo em bronquite crônica (sem resumo disponível) |
+| [39413571](https://pubmed.ncbi.nlm.nih.gov/39413571/) | 2024 | Revisão sistemática | Respir Investig | Metanálise sobre eficácia e segurança de mucolíticos em DPOC estável |
+| [18832259](https://pubmed.ncbi.nlm.nih.gov/18832259/) | 2008 | Revisão | Drug Ther Bull | Compara a erdosteína com carbocisteína e mecisteína, usadas por mais tempo para prevenir exacerbações de DPOC |
+| [8500784](https://pubmed.ncbi.nlm.nih.gov/8500784/) | 1993 | Estudo animal | Fundam Clin Pharmacol | Carbocisteína melhorou o transporte mucociliar em ratos com bronquite por SO₂ |
+| [1487227](https://pubmed.ncbi.nlm.nih.gov/1487227/) | 1992 | Estudo animal | Fundam Clin Pharmacol | Efeito sobre parâmetros ventilatórios em ratos com bronquite por SO₂ |
+| [19144049](https://pubmed.ncbi.nlm.nih.gov/19144049/) | 2009 | In vitro | Respirology | Carbocisteína elimina espécies reativas de oxigênio |
+| [3518737](https://pubmed.ncbi.nlm.nih.gov/3518737/) | 1986 | In vitro | Biol Chem Hoppe-Seyler | Efeito sobre enzimas proteolíticas e oxidação do inibidor de α1-proteinase |
+| [23291681](https://pubmed.ncbi.nlm.nih.gov/23291681/) | 2013 | Relato de caso | Intern Med | Pneumonia induzida por L-carbocisteína em paciente com síndrome CATCH22 |
 
 ## Informações de Comercialização no Brasil
 
-Carbocisteine não possui registros na base de dados regulatória brasileira consultada. O fármaco não está atualmente comercializado no mercado nacional.
+Todos os 14 registros estão cancelados; não há produto comercializado atualmente. Principais registros:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 118190009 | Mucolab | — | Expectorantes |
+| Registro 125680034 | Carbocisteína | — | Expectorantes balsâmicos e mucolítico |
+| Registro 143810037 | Carbocin | — | Expectorantes |
+| Registro 138410034 | Mucobronq | — | Expectorantes balsâmicos e mucolítico |
+| Registro 103700180 | Fluitoss | — | Expectorantes simples |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicação (grafo de conhecimento, não texto de bula)**: doença ulcerosa péptica ativa.
+- **Evento adverso descrito na literatura**: relato de caso de pneumonia induzida por L-carbocisteína (paciente com síndrome CATCH22), com teste de estimulação linfocitária positivo.
+- **Interações medicamentosas**: nenhuma interação encontrada na consulta realizada.
 
----
+Consulte a bula para as demais informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para gota baseia-se exclusivamente no score do modelo (nível L5), sem nenhum suporte de ensaios clínicos, literatura científica ou plausibilidade mecanicista direta bem estabelecida. O Carbocisteine atua no metabolismo da cisteína e na regulação do muco, enquanto a gota envolve o metabolismo das purinas e o depósito de urato — eixos metabólicos distintos com conexão apenas hipotética.
+- Para a gota, não há ensaios, literatura nem mecanismo plausível (nível L5). A pontuação alta do modelo é um provável artefato do grafo, possivelmente por associação com doenças do metabolismo de purinas.
+- A única previsão com respaldo real é a bronquite (L3, "Proceed with Guardrails"), mas ela é basicamente a indicação original. Além disso, não há registro ativo no Brasil.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos do mecanismo de ação via DrugBank API (DG002 — severidade Alta)
-- Obter dados de segurança, advertências e contraindicações da bula TFDA/ANVISA (DG001 — severidade Bloqueante)
-- Realizar busca bibliográfica ampliada sobre Carbocisteine e metabolismo de urato ou purinas
-- Investigar in vitro a hipótese de proteção antioxidante mediada por glutationa em modelos de gota
-- Considerar como indicação prioritária **Bronchite (rank 2, score 98,77%, decisão: Proceed with Guardrails)** — possui plausibilidade mecanicista direta comprovada (inibição de sulfomucina, melhora da clearance mucociliar) e nível de evidência superior (L5/L1★)
+- Obter dados do mecanismo de ação (consulta à API do DrugBank).
+- Baixar e analisar as bulas na ANVISA para advertências e contraindicações (lacuna bloqueante para a triagem de segurança).
+- Para a gota: gerar evidência pré-clínica de um elo com o metabolismo do urato ou a inflamação gotosa antes de qualquer avanço.
+- Para a bronquite: verificar fase e tamanhos de efeito dos estudos (apenas títulos e resumos parciais estavam disponíveis) e esclarecer o motivo do cancelamento dos registros.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

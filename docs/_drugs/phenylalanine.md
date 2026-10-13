@@ -2,7 +2,7 @@
 layout: default
 title: Phenylalanine
 parent: Apenas Predição do Modelo (L5)
-nav_order: 394
+nav_order: 522
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,69 +29,77 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Fenilalanina: De aminoácido essencial à colangite esclerosante
+# Fenilalanina: De nutriente parenteral para colangite esclerosante
 
 ## Resumo em Uma Frase
 
-Fenilalanina (Phenylalanine, DB00120) é um aminoácido essencial sem indicação terapêutica aprovada registrada no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Colangite Esclerosante (Sclerosing Cholangitis)**, com pontuação de 99,43% — porém atualmente com **0 ensaios clínicos** e apenas **4 publicações de relevância indireta**, sendo que ao menos uma delas apresenta achados mecanisticamente desfavoráveis ao reposicionamento.
-
----
+Fenilalanina é um aminoácido essencial, usado originalmente como componente de soluções de nutrição parenteral e de reposição hidroeletrolítica.
+O modelo TxGNN prevê que pode ser eficaz para **colangite esclerosante (sclerosing cholangitis)**, mas atualmente há **0 ensaios clínicos** e apenas **3 publicações** de caráter observacional, sem demonstração de efeito terapêutico.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Sem indicação terapêutica aprovada registrada |
-| Nova Indicação Prevista | Colangite Esclerosante (Sclerosing Cholangitis) |
+| Indicação Original | Nutrientes parenterais |
+| Nova Indicação Prevista | Colangite esclerosante (sclerosing cholangitis) |
 | Pontuação de Previsão TxGNN | 99,43% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros ANVISA | 0 |
+| Nível de Evidência | L5 (apenas previsão do modelo; a literatura encontrada é observacional e não avalia efeito terapêutico) |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 15 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente não há dados detalhados sobre o mecanismo de ação terapêutico de fenilalanina. Como aminoácido essencial, ela é precursor direto da tirosina — que por sua vez origina catecolaminas (dopamina, noradrenalina, adrenalina) e hormônio tireoidiano. Em condições hepatobiliares crônicas como a colangite esclerosante primária (CEP) e a cirrose biliar primária (CBP), estudos observacionais documentaram desequilíbrios nos padrões de aminoácidos plasmáticos — incluindo a razão tirosina/fenilalanina — correlacionados com fadiga, sugerindo que o metabolismo de fenilalanina está alterado nessas doenças.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a fenilalanina é um aminoácido aromático essencial, precursor da tirosina e das catecolaminas, e faz parte das formulações de nutrição parenteral. Seu uso como nutriente está estabelecido, mas isso não implica efeito terapêutico em doenças hepatobiliares.
 
-Contudo, existe um sinal de alerta crítico que deve ser considerado antes de qualquer avanço: peptídeos bacterianos quimiotáticos contendo resíduos de fenilalanina — especificamente fMLP (N-formil-Met-Leu-Phe) e fMLT (N-formil-Met-Leu-Tir) — foram identificados como **agentes indutores** de colangite em modelos animais e demonstraram circulação entero-hepática em humanos, com absorção aumentada em contextos de colite. Isso significa que a relação mecanística identificada na literatura aponta fenilalanina (em forma peptídica) como **causadora** da lesão biliar, não como potencial terapêutico.
+A relação entre a indicação original e a nova indicação é fraca. A literatura encontrada associa o metabolismo de aminoácidos aromáticos (tirosina plasmática) à fadiga na cirrose biliar primária e na colangite esclerosante primária. Trata-se de uma associação observacional com sintomas da doença, e não de evidência de benefício terapêutico.
 
-A alta pontuação do TxGNN (99,43%) provavelmente reflete a forte presença de fenilalanina nos processos biológicos associados à colangite esclerosante, sem discriminar entre associação patológica e efeito terapêutico. A ausência total de ensaios clínicos e a natureza exclusivamente indireta da literatura confirmam que esta previsão, no momento, não sustenta progressão clínica.
-
----
+Portanto, a pontuação elevada do TxGNN (99,43%) é apenas uma previsão computacional baseada em grafo de conhecimento. Não há racional mecanístico direto que justifique o uso da fenilalanina para tratar a colangite esclerosante.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Observacional transversal | BMC Gastroenterology | Pacientes com CEP/CBP apresentam desequilíbrios nos padrões de aminoácidos plasmáticos (incluindo tirosina, derivada de fenilalanina) correlacionados com fadiga — relação de associação, não de causalidade terapêutica |
-| [32025163](https://pubmed.ncbi.nlm.nih.gov/32025163/) | 2020 | Metabolômica / Biomarcador | J Clin Exp Hepatology | Perfis metabolômicos séricos em colangiocarcinoma e doenças hepatobiliares benignas; estudo de identificação de biomarcadores diagnósticos, sem implicação terapêutica direta |
-| [8000512](https://pubmed.ncbi.nlm.nih.gov/8000512/) | 1994 | Estudo animal (modelo em ratos) | J Gastroenterology | Administração retal de fMLT (peptídeo bacteriano contendo resíduo de fenilalanina) **induziu colangite de pequenos ductos** em ratos — sinal mecanístico negativo para reposicionamento |
-| [2103382](https://pubmed.ncbi.nlm.nih.gov/2103382/) | 1990 | Ciência básica / Animal | J Gastroenterol Hepatol | Demonstração de circulação entero-hepática de peptídeos fMet (contendo fenilalanina) em humanos; absorção biliar aumentada em contexto de colite — informativo para patogênese, sem utilidade terapêutica direta |
+| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Coorte | BMC Gastroenterology | Investigou a relação entre a concentração plasmática de tirosina, padrões de aminoácidos e fadiga em pacientes com cirrose biliar primária e colangite esclerosante primária |
+| [32025163](https://pubmed.ncbi.nlm.nih.gov/32025163/) | 2020 | Coorte | Journal of Clinical and Experimental Hepatology | Caracterizou o perfil metabolômico sérico de colangiocarcinoma em comparação com doenças hepatobiliares benignas, buscando biomarcadores precoces |
+| [2103382](https://pubmed.ncbi.nlm.nih.gov/2103382/) | 1990 | Outro | Journal of Gastroenterology and Hepatology | Radioimunoensaio de peptídeo quimiotático bacteriano (formil-metionil-leucil-fenilalanina) e circulação êntero-hepática; relevância indireta |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os registros estão cancelados. São listados os 5 principais:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100410131 | Nephrotect | — | Nutrientes parenterais |
+| Registro 100410159 | Aminoven 10% Infant | — | Nutrientes parenterais |
+| Registro 100850145 | Amixal | — | Nutrientes parenterais |
+| Registro 100850109 | Nutriflex Plus | — | Nutrientes parenterais |
+| Registro 100410149 | SmofKabiven livre de eletrólitos | — | Nutrientes parenterais |
+
+## Considerações de Segurança
+
+- **Contraindicações (segundo o grafo de conhecimento, não a bula)**: o grafo de conhecimento do TxGNN aponta associação de contraindicação com fenilcetonúria e outros distúrbios do metabolismo da fenilalanina, doença renal (incluindo doença renal crônica e insuficiência renal terminal), nefrolitíase, nefrocalcinose, hipercalcemia (incluindo hipercalcemia humoral da malignidade), sarcoidose, doenças do metabolismo do fósforo, doença cardíaca e cardiovascular, nefropatia aguda por urato, intoxicação digitálica, fibrilação ventricular e piureter.
+- **Interações Medicamentosas**: não foram encontradas interações registradas nos dados compilados.
+
+Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-As evidências disponíveis não sustentam o reposicionamento de fenilalanina para colangite esclerosante. Além da ausência completa de ensaios clínicos (nível L5), a literatura identificada inclui um sinal mecanístico desfavorável: peptídeos bacterianos contendo fenilalanina são agentes **causadores** de lesão biliar em modelos experimentais — o oposto do efeito terapêutico esperado. A pontuação elevada do TxGNN reflete associação biológica, não potencial terapêutico.
+- Não há ensaios clínicos nem evidência de efeito terapêutico; a literatura é apenas observacional, e a pontuação do TxGNN é uma previsão computacional sem racional mecanístico estabelecido. Além disso, todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Levantamento de evidências sobre o papel da **fenilalanina livre** (não peptídica) em modelos de colangite — distinção fundamental do sinal negativo identificado
-- Estudos pré-clínicos diretos que demonstrem efeito protetor ou terapêutico em modelos de CEP
-- Esclarecimento do paradoxo mecanístico (aminoácido livre vs. peptídeo bacteriano quimiotático)
-- Revisão da arquitetura do modelo TxGNN para avaliar se está distinguindo adequadamente associações patológicas de relações terapêuticas
-- Obtenção de dados completos de segurança (MOA, advertências, contraindicações via DrugBank/ANVISA) antes de qualquer consideração clínica adicional
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
+- Complementar os dados de mecanismo de ação via DrugBank
+- Gerar evidência pré-clínica ou mecanística que relacione a fenilalanina à fisiopatologia da colangite esclerosante
+- Avaliar o risco das contraindicações apontadas no grafo de conhecimento (renais, cardiovasculares e do metabolismo da fenilalanina) em pacientes com doença hepatobiliar
+- Definir a via de administração e a viabilidade regulatória, dado que não há produto comercializado no país
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

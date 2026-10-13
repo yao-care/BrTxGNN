@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fluticasone Furoate
-parent: Evidência Moderada (L3-L4)
-nav_order: 257
-evidence_level: L3
+parent: Apenas Predição do Modelo (L5)
+nav_order: 325
+evidence_level: L5
 indication_count: 8
 ---
 
 # Fluticasone Furoate
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **8** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,83 +29,79 @@ Nível de evidência: **L3** | Indicações previstas: **8**
 
 </div>
 
-# Fluticasone Furoate: Da Asma ao Eczema Atópico
+# Fluticasona Furoato: De glicocorticoide tópico/antiasmático para eczema atópico
 
 ## Resumo em Uma Frase
 
-Fluticasone Furoate (FF) é um corticosteroide inalado de terceira geração aprovado internacionalmente (Relvar Ellipta®) para asma e DPOC, porém ainda não comercializado no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Eczema Atópico (Atopic Eczema)**, com **11 ensaios clínicos** e **2 publicações** identificados nessa direção — contudo, a maior parte das evidências provém de estudos com Fluticasone Propionate em formulação tópica cutânea, inexistente para o FF.
-
----
+Fluticasona furoato é um corticosteroide inalatório e nasal, originalmente registrado no Brasil como glicocorticoide tópico (exceto uso oftálmico), antiasmático e broncodilatador (em associações).
+O modelo TxGNN prevê que pode ser eficaz para **eczema atópico (atopic eczema)**, mas atualmente há **0 ensaios clínicos** e apenas **2 publicações indiretas** apoiando esta direção. Trata-se, portanto, de uma previsão computacional sem confirmação experimental.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Asma e DPOC (aprovação internacional; não registrado no Brasil) |
-| Nova Indicação Prevista | Eczema Atópico (Atopic Eczema) |
+| Indicação Original | Glicocorticoides tópicos simples, exceto uso oftálmico |
+| Nova Indicação Prevista | Eczema atópico (atopic eczema) |
 | Pontuação de Previsão TxGNN | 99,98% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 3 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Fluticasone Furoate é um corticosteroide sintético de terceira geração com excepcional afinidade pelo receptor de glicocorticoide (GCR) — superior à do Fluticasone Propionate e de outros corticosteroides convencionais. Ao ativar o GCR, o FF suprime potentemente a transcrição de citocinas pró-inflamatórias, incluindo IL-4, IL-13 e TSLP, que são os principais mediadores da resposta Th2 característica do eczema atópico. Do ponto de vista mecanístico, portanto, a previsão do TxGNN é biologicamente bem fundamentada.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a fluticasona furoato é um agonista potente do receptor de glicocorticoide, com ação anti-inflamatória. Sua eficácia em doenças inflamatórias alérgicas das vias aéreas (asma, rinite) é estabelecida.
 
-O eczema atópico e as indicações respiratórias aprovadas do FF compartilham a mesma base inflamatória Th2: em ambos os casos ocorrem ativação de eosinófilos, hiperprodução de IgE e desequilíbrio entre as vias Th1 e Th2. Isso cria uma ponte farmacológica natural — se administrado topicamente na pele, o FF poderia, em teoria, controlar a inflamação cutânea com eficácia semelhante à observada nas vias aéreas, e com menor risco sistêmico em virtude de seu perfil de baixa biodisponibilidade.
+O eczema atópico é uma doença inflamatória da pele, e os corticosteroides tópicos são uma classe padrão de tratamento. Por isso, mecanisticamente a previsão é plausível, e há proximidade com a indicação original (glicocorticoide tópico).
 
-Entretanto, existe um obstáculo estrutural importante: o FF não possui formulação tópica cutânea aprovada. As evidências clínicas disponíveis provêm quase exclusivamente de ensaios com Fluticasone Propionate (Cutivate®) em creme ou loção — um análogo estruturalmente distinto que não pode ser equiparado farmacocineticamente ao Furoate sem dados comparativos diretos. Para tornar esta indicação viável, seria necessário desenvolver uma nova formulação dermatológica de FF e conduzir estudos específicos de absorção percutânea, segurança sistêmica e eficácia clínica.
-
----
+Contudo, as duas publicações associadas (uma revisão sobre supressão adrenal por corticosteroides intranasais e um relato de caso sobre imunoterapia alérgica) não testam a fluticasona furoato no eczema. A pontuação alta do TxGNN é apenas uma previsão computacional. Outras indicações previstas (bronquite, dermatite de contato, dermatite ocupacional, dermatite fototóxica) seguem lógica semelhante, e algumas, como a bronquite, se sobrepõem ao uso respiratório já existente, não representando um sinal real de reposicionamento.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT01772056](https://clinicaltrials.gov/study/NCT01772056) | Phase 3 | Encerrado | 54 | Fluticasone Propionate 0,05% tópico duas vezes por semana como manutenção em crianças com eczema atópico leve/moderado; ensaio encerrado antes da conclusão, resultado inconclusivo |
-| [NCT01915914](https://clinicaltrials.gov/study/NCT01915914) | Phase 4 | Concluído | 107 | Regime intermitente de Fluticasone Propionate 0,05% creme (2×/semana) adicionado à hidratação diária para reduzir recidivas em dermatite atópica pediátrica estabilizada; evidência indireta de mecanismo sustentável |
-| [NCT00546000](https://clinicaltrials.gov/study/NCT00546000) | Phase 4 | Concluído | 56 | Cutivate (Fluticasone Propionate) loção 0,05% e efeitos sobre o eixo HPA em lactentes com dermatite atópica; estudo aberto de segurança sistêmica com formulação análoga |
-| [NCT03594565](https://clinicaltrials.gov/study/NCT03594565) | Early Phase 1 | Concluído | 13 | Corticosteroide nasal tópico (possivelmente FF) utilizado para reações cutâneas ao sensor CGM em crianças com DM tipo 1; série de casos exploratória com indícios iniciais de segurança cutânea do FF |
-| [NCT00690105](https://clinicaltrials.gov/study/NCT00690105) | Phase 4 | Concluído | 577 | Tacrolimus 0,1% vs Fluticasone 0,005% pomada em adultos com dermatite atópica moderada/grave em face e pescoço; Fluticasone atuou como comparador ativo neste grande ensaio |
-| [NCT00689832](https://clinicaltrials.gov/study/NCT00689832) | Phase 4 | Concluído | 487 | Tacrolimus 0,03% vs Fluticasone 0,005% pomada em crianças ≥2 anos com dermatite atópica moderada/grave; Fluticasone novamente como comparador, não como intervenção principal |
-| [NCT03742414](https://clinicaltrials.gov/study/NCT03742414) | Phase 2 | Ativo (sem recrutamento) | 398 | Estudo SEAL: creme de barreira tri-lipídica + Fluticasone Propionate proativo vs terapia reativa para prevenir alergia alimentar em lactentes com eczema precoce |
-| [NCT00616538](https://clinicaltrials.gov/study/NCT00616538) | Phase 4 | Concluído | 121 | EpiCream vs Fluticasone Propionate 0,05% creme na dermatite atópica pediátrica moderada/grave; piloto avaliando alternativa sem corticosteroide |
-| [NCT04706559](https://clinicaltrials.gov/study/NCT04706559) | N/A | Concluído | 98 | Suplementação oral de probióticos em crianças com dermatite atópica avaliada pelo índice SCORAD; sem relação direta com FF, demonstra atividade de pesquisa ativa na área |
-| [NCT00426283](https://clinicaltrials.gov/study/NCT00426283) | Phase 2 | Concluído | 42 | Fluticasone Propionate deglutido (1.760 mcg) vs placebo na esofagite eosinofílica; não relacionado ao uso tópico cutâneo para eczema |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Review | Neuroimmunomodulation | Corticosteroides intranasais (classe que inclui o FF) e supressão adrenal: rinite alérgica frequentemente coexiste com asma e dermatite atópica; o uso simultâneo de múltiplas formas de corticosteroide amplifica o risco de supressão do eixo HPA |
-| [40066386](https://pubmed.ncbi.nlm.nih.gov/40066386/) | 2025 | Case Report | Indian J Otolaryngol Head Neck Surg | Imunoterapia com alérgenos em paciente com doença autoimune; discute aplicações emergentes incluindo dermatite atópica, sem menção direta ao FF; relevância periférica ao contexto imunológico |
+| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Revisão | Neuroimmunomodulation | Revisa a supressão do eixo hipotálamo-hipófise-adrenal por corticosteroides intranasais usados na rinite alérgica, frequentemente associada a asma e dermatite atópica. Aborda segurança, não eficácia no eczema. |
+| [40066386](https://pubmed.ncbi.nlm.nih.gov/40066386/) | 2025 | Relato de caso | Indian J Otolaryngol Head Neck Surg | Discute imunoterapia alérgica em pacientes com autoimunidade, mencionando a dermatite atópica como aplicação recente. Não avalia a fluticasona furoato. |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os registros abaixo estão cancelados; atualmente não há registro válido.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 101070271 | AVAMYS | — | Glicocorticoides tópicos simples, exceto uso oftálmico |
+| Registro 101070299 | RELVAR ELLIPTA | — | Antiasmáticos |
+| Registro 101070344 | TRELEGY | — | Broncodilatadores |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (com base no grafo de conhecimento do TxGNN, não em texto de bula)**: o grafo associa o fármaco a condições em que corticosteroides exigem cautela ou são contraindicados, incluindo:
+  - Infecções: sarampo, ceratite por herpes simples, varicela-zóster, infecções fúngicas, dermatofitose, tuberculose pulmonar, infecções parasitárias e doenças infecciosas em geral.
+  - Oculares: hipertensão ocular e glaucoma.
+  - Endócrinas: insuficiência adrenocortical, doença de Addison, hiperfunção adrenal e síndrome de Cushing.
+  - Vias aéreas: doenças do trato respiratório inferior e superior, dos seios paranasais e da cavidade nasal.
+- **Preocupação sistêmica**: a literatura associada destaca a possível supressão do eixo hipotálamo-hipófise-adrenal por corticosteroides intranasais, relevante em uso prolongado ou em crianças.
+- **Interações medicamentosas**: não foram encontradas interações nos dados compilados.
 
----
+Consulte a bula para advertências e contraindicações oficiais, que não estavam disponíveis.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Embora o mecanismo de ação do FF seja biologicamente plausível para o eczema atópico, não existe nenhum ensaio clínico avaliando o FF em formulação tópica cutânea para essa indicação, e toda a evidência clínica disponível refere-se ao Fluticasone Propionate — um análogo distinto. A ausência de uma formulação dermatológica do FF representa uma barreira estrutural que impede o avanço direto para estudos clínicos.
+A previsão é mecanisticamente plausível, mas não há ensaios clínicos nem literatura direta sobre a fluticasona furoato no eczema atópico (nível L5). Além disso, todos os registros brasileiros estão cancelados e faltam dados de bula.
 
 **Para prosseguir, é necessário:**
-- Desenvolvimento e caracterização farmacocinética de uma formulação tópica cutânea de Fluticasone Furoate
-- Dados de segurança sistêmica específicos do FF aplicado na pele (absorção percutânea, supressão do eixo HPA)
-- Estudos pré-clínicos de eficácia em modelos validados de dermatite atópica com o FF tópico
-- Avaliação de segurança em populações pediátricas antes de qualquer ensaio clínico de fase I/II
+- Obter e analisar as bulas na ANVISA (advertências e contraindicações), o que bloqueia a triagem de segurança.
+- Obter dados do mecanismo de ação (por exemplo, via DrugBank).
+- Buscar estudos clínicos ou pré-clínicos diretos da fluticasona furoato em dermatite atópica.
+- Avaliar a viabilidade de forma farmacêutica e via de administração cutânea, já que os produtos conhecidos são inalatórios e nasais.
+- Esclarecer a situação regulatória atual (registros cancelados) e comparar com corticosteroides tópicos já estabelecidos para eczema.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

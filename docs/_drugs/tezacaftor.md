@@ -2,7 +2,7 @@
 layout: default
 title: Tezacaftor
 parent: Apenas Predição do Modelo (L5)
-nav_order: 474
+nav_order: 628
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,75 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tezacaftor: Da Fibrose Cística à Doença Infecciosa por HIV
+# Tezacaftor: Da fibrose cística à infecção pelo HIV
 
 ## Resumo em Uma Frase
 
-Tezacaftor é um corretor de CFTR aprovado, em combinação com Ivacaftor, para o tratamento de fibrose cística em pacientes portadores de mutações específicas no gene CFTR.
-O modelo TxGNN prevê que pode ser eficaz para **Doença Infecciosa por HIV (HIV Infectious Disease)**, porém esta associação apresenta **baixa plausibilidade biológica** — atualmente com **0 ensaios clínicos** e **0 publicações** apoiando esta direção.
-
----
+Tezacaftor é um corretor da proteína CFTR, originalmente usado no tratamento da fibrose cística, em associação com outros moduladores de CFTR.
+O modelo TxGNN prevê que pode ser eficaz para **Doença infecciosa por HIV (HIV infectious disease)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Fibrose cística (em combinação com Ivacaftor) |
-| Nova Indicação Prevista | Doença Infecciosa por HIV (HIV Infectious Disease) |
-| Pontuação de Previsão TxGNN | 99.24% |
+| Indicação Original | Fibrose cística |
+| Nova Indicação Prevista | Doença infecciosa por HIV (HIV infectious disease) |
+| Pontuação de Previsão TxGNN | 99,24% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 3 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados formais de mecanismo de ação disponíveis neste Evidence Pack. Com base no conhecimento científico estabelecido, Tezacaftor é um **corretor da proteína CFTR** (Cystic Fibrosis Transmembrane Conductance Regulator): seu mecanismo consiste em estabilizar o dobramento da proteína CFTR mutante — especialmente a variante F508del —, permitindo que ela seja transportada adequadamente até a membrana celular e exerça sua função de canal de cloreto. É utilizado em combinação com Ivacaftor (como Symdeko®/Symkevi®) para potencializar o transporte iônico em pacientes com fibrose cística portadores de mutações específicas.
+Atualmente, não há dados detalhados sobre o mecanismo de ação neste material. Segundo informações conhecidas, o tezacaftor é um corretor da CFTR: melhora o enovelamento e o transporte da proteína CFTR até a superfície celular. Foi aprovado pela primeira vez em 2018 em combinação de dose fixa com ivacaftor (Symdeko®) e também integra terapias triplas, como Trikafta® e Alyftrek®, para fibrose cística com mutações genéticas específicas. O alvo farmacológico registrado é o CFTR humano.
 
-A conexão hipotética entre fibrose cística e HIV reside no fato de que o CFTR possui expressão funcional em células imunes como linfócitos CD4+ e macrófagos. Em teoria, a modulação do CFTR nessas células poderia influenciar aspectos da resposta imune inata. No entanto, o ciclo replicativo do HIV — baseado na integração retroviral ao DNA do hospedeiro, evasão imune e depleção progressiva de CD4+ — não tem nenhuma interseção conhecida com o dobramento proteico do CFTR. Além disso, o mecanismo de Tezacaftor é restrito a proteínas CFTR com **mutações de dobramento específicas**; pacientes com HIV geralmente não apresentam essas mutações, tornando a ação do fármaco biologicamente irrelevante nesse contexto.
+A previsão para HIV se apoia unicamente na pontuação elevada do grafo de conhecimento do TxGNN (0,992). Com os dados compilados para este relatório, não se identifica um caminho mecanístico entre a correção da CFTR e atividade antiviral ou a patogênese do HIV. Os candidatos seguintes na lista (hanseníase, síndrome de imunodeficiência felina e infecção pelo vírus da imunodeficiência símia) parecem refletir proximidade no grafo com nós relacionados ao HIV, e não uma justificativa biológica independente.
 
-A alta pontuação do TxGNN (99.24%) reflete quase certamente **conexões inespecíficas no grafo de conhecimento**: nós do sistema imunológico onde o CFTR tem expressão estão topologicamente próximos à rede patológica do HIV dentro do KG, gerando uma falsa associação. A ausência de dados de indicação original no Evidence Pack provavelmente agravou esse efeito, impedindo que o modelo contextualizasse adequadamente o escopo restrito de aplicação de Tezacaftor — exclusivo para fibrose cística com mutações CFTR responsivas ao corrector.
+Portanto, a razoabilidade desta previsão é baixa e deve ser tratada como hipótese a ser testada, não como indicação de eficácia.
 
----
+## Outras Indicações Previstas (para referência)
+
+Todas com nível L5, sem ensaios clínicos nem literatura, e recomendação Hold:
+
+| Posição | Indicação | Pontuação TxGNN |
+|------|------|------|
+| 2 | Hanseníase | 99,14% |
+| 3 | Neoplasia endócrina múltipla | 99,06% |
+| 4 | Síndrome da imunodeficiência adquirida felina | 98,96% |
+| 5 | Infecção pelo vírus da imunodeficiência símia | 98,96% |
+| 6 | Transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical | 98,85% |
+| 7 | Artrite reumatoide | 98,65% |
+| 8 | Carcinoma de mama feminina | 98,39% |
+| 9 | Hipercolesterolemia familiar homozigótica | 98,37% |
+| 10 | Esclerose lateral amiotrófica | 98,35% |
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para Tezacaftor em doença infecciosa por HIV.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada para Tezacaftor em doença infecciosa por HIV.
+Atualmente não há literatura relacionada.
 
----
+## Interações Medicamentosas
 
-## Informações de Comercialização no Brasil
-
-Tezacaftor está registrado no Brasil com **3 registros ativos** na ANVISA. Os detalhes individuais de cada registro (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no conjunto de dados atual. Para consulta completa, acesse o portal da ANVISA em [consultas.anvisa.gov.br](https://consultas.anvisa.gov.br/).
-
----
-
-## Considerações de Segurança
-
-Consulte a bula para informações de segurança.
-
----
+Foi identificada uma entrada de farmacologia: o tezacaftor tem como alvo a proteína humana **CFTR** (gene *CFTR*), o que corresponde ao seu mecanismo esperado como corretor. Não foram listadas interações com outros medicamentos nem níveis de gravidade.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Todas as 10 indicações previstas pelo TxGNN para Tezacaftor estão classificadas em nível de evidência L5 (somente previsão do modelo, sem estudos reais de suporte), e a análise de plausibilidade biológica demonstra que nenhuma das previsões possui justificativa mecanística suficiente para avançar — especialmente a indicação de maior pontuação (doença infecciosa por HIV), para a qual o próprio Evidence Pack conclui ausência de interseção biológica conhecida. O padrão de distribuição das pontuações (ranks 4.696 a 8.822 de um total de ~17.000 doenças) e a repetição de scores idênticos entre patologias relacionadas (FIV e SIV) reforçam a hipótese de viés sistemático por proximidade de rede no KG.
+- A previsão é apenas computacional (L5), sem ensaios clínicos, sem literatura e sem vínculo mecanístico plausível entre a correção da CFTR e o HIV. Além disso, o fármaco não é comercializado no Brasil (0 registros).
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de mecanismo de ação (MOA) via DrugBank API (DG002) para análise de plausibilidade biológica aprofundada
-- Preencher os dados de registros ANVISA (número, nome comercial, indicação aprovada) para caracterização regulatória completa (DG001 — severidade Blocking)
-- Investigar indicações com maior proximidade fisiopatológica à fibrose cística, como bronquiectasias não-CF, DPOC com disfunção de CFTR ou outras channelopatias, que poderiam ter maior plausibilidade de reposicionamento
-- Reavaliar o modelo TxGNN após complementar os dados de indicação original no Knowledge Graph, a fim de reduzir o viés de previsão observado
+- Obter a bula na ANVISA ou fontes equivalentes, com advertências e contraindicações, para a triagem de segurança
+- Complementar os dados de mecanismo de ação (MOA) a partir do DrugBank
+- Realizar estudos pré-clínicos (por exemplo, atividade antiviral in vitro contra HIV) para avaliar se há algum fundamento biológico
+- Revisar sistematicamente a literatura para confirmar a ausência de evidências
+- Avaliar a compatibilidade de vias de administração e a viabilidade regulatória, já que não há registro no Brasil
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

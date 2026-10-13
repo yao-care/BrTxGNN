@@ -2,7 +2,7 @@
 layout: default
 title: Dimenhydrinate
 parent: Evidência Moderada (L3-L4)
-nav_order: 223
+nav_order: 270
 evidence_level: L4
 indication_count: 2
 ---
@@ -29,80 +29,80 @@ Nível de evidência: **L4** | Indicações previstas: **2**
 
 </div>
 
-# Dimenhydrinate: Da cinetose à urticária alérgica
+# Dimenidrinato: Do uso antiemético à urticária alérgica
 
 ## Resumo em Uma Frase
 
-Dimenhydrinate é um anti-histamínico de primeira geração — sal composto por difenidramina e 8-cloroteofilina —, classicamente utilizado na prevenção e no tratamento de náusea, vômito e tontura causados por cinetose (enjoo de viagem).
-O modelo TxGNN prevê que pode ser eficaz para **Urticária Alérgica (Allergic Urticaria)**, atualmente com **0 ensaios clínicos** e **1 publicação** apoiando esta direção.
-
----
+Dimenidrinato é um sal de difenidramina e 8-cloroteofilina, originalmente usado como antiemético e antinauseante.
+O modelo TxGNN prevê que pode ser eficaz para **Urticária Alérgica (Allergic Urticaria)**,
+mas atualmente há **nenhum ensaio clínico** e apenas **1 publicação** (estudo farmacocinético em cães) relacionada a esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Cinetose (náusea e vômito por movimento) |
+|------|------|
+| Indicação Original | Antieméticos e antinauseantes |
 | Nova Indicação Prevista | Urticária Alérgica (Allergic Urticaria) |
 | Pontuação de Previsão TxGNN | 99,74% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 14 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis no Evidence Pack. Com base nas informações conhecidas: Dimenhydrinate é um sal de difenidramina (diphenhydramine) e 8-cloroteofilina. A difenidramina é um antagonista competitivo do receptor H1 de histamina de primeira geração — mecanismo pelo qual o fármaco atua nas indicações tradicionais de cinetose.
+Atualmente, não há dados detalhados sobre o mecanismo de ação do medicamento. Segundo informações conhecidas, o dimenidrinato é o sal da difenidramina (anti-histamínico H1 de primeira geração) com a 8-cloroteofilina. Sua eficácia como antiemético e antinauseante está estabelecida, e mecanisticamente pode ser aplicável à urticária alérgica.
 
-A urticária alérgica tem como núcleo patológico a ativação de mastócitos com desgranulação e liberação de histamina, que estimula os receptores H1 cutâneos e produz as características pápulas eritematosas e prurido intenso. Antagonistas H1, incluindo a difenidramina, são reconhecidos nas diretrizes EAACI/WAO como tratamento de primeira linha para urticária — o que torna a previsão do TxGNN mecanisticamente plausível.
+Na urticária alérgica, a histamina liberada pelos mastócitos age nos receptores H1 e provoca o aparecimento de urticas (vergões) e eritema. O componente difenidramina bloqueia esses receptores, de modo que o vínculo biológico é plausível e coerente com a pontuação elevada do TxGNN. Esse vínculo, porém, foi inferido da farmacologia conhecida da difenidramina, e não de dados específicos do dimenidrinato.
 
-No entanto, existem ressalvas relevantes: as diretrizes modernas recomendam anti-histamínicos de segunda geração (cetirizina, loratadina) em substituição aos de primeira geração, para minimizar os efeitos sedativos e anticolinérgicos. Adicionalmente, o papel do componente 8-cloroteofilina (antagonista da adenosina) no tratamento da urticária permanece indefinido, introduzindo incerteza mecanística adicional que diferencia o dimenhydrinate da difenidramina isolada.
+A indicação original (náusea e vômito, inclusive cinetose) e a nova indicação (urticária) são distintas do ponto de vista clínico, mas ambas dependem do bloqueio de receptores H1. Essa é a ponte mecanística entre elas.
 
----
+Uma segunda previsão do modelo, **urticária ao frio** (pontuação de 99,24%), tem o mesmo racional mecanístico, mas não conta com ensaios nem literatura (nível L5). As diretrizes atuais preferem anti-histamínicos de segunda geração, que causam menos sedação, de modo que um agente de primeira geração oferece pouca vantagem.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [30779257](https://pubmed.ncbi.nlm.nih.gov/30779257/) | 2019 | Estudo de Farmacocinética | Veterinary Dermatology | Avaliação da farmacocinética de difenidramina oral e IV em cães saudáveis; dimenhydrinate produziu absorção oral superior de difenidramina; o efeito farmacodinâmico foi mensurado pela supressão de pápulas induzidas por histamina — modelo que apoia indiretamente a relevância anti-histamínica do fármaco |
-
-> ⚠️ **Nota:** O único estudo disponível foi conduzido em modelo animal (cão), não em humanos, e tem foco farmacocinético — não é um ensaio clínico de eficácia para urticária.
-
----
+|------|-----|------|------|---------|
+| [30779257](https://pubmed.ncbi.nlm.nih.gov/30779257/) | 2019 | Estudo farmacocinético (cães) | Veterinary Dermatology | Estudo piloto sobre a farmacocinética da difenidramina após administração oral e intravenosa, e do dimenidrinato por via oral, em cães saudáveis, com avaliação do efeito sobre a formação de urticas induzidas por histamina. O dimenidrinato foi descrito como capaz de proporcionar melhor absorção oral da difenidramina. Oferece apoio indireto quanto à exposição, mas não traz dados de eficácia em urticária. |
 
 ## Informações de Comercialização no Brasil
 
-Dimenhydrinate **não possui registro ativo na ANVISA**. Não há produtos com este ativo comercializados no mercado brasileiro.
+Todos os 14 registros encontrados estão **cancelados**; não há registro válido no momento. Os cinco principais:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 155840550 | Dimenidrinato | — | Antieméticos e antinauseantes |
+| Registro nº 104971530 | Dimenidrinato | — | Antieméticos e antinauseantes |
+| Registro nº 178170901 | Dramin | — | Antieméticos e antinauseantes |
+| Registro nº 155840559 | Dramavit | — | Antieméticos e antinauseantes |
+| Registro nº 104971536 | Nausicalm cápsula mole | — | Antieméticos e antinauseantes |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações sugeridas pelo grafo de conhecimento (não extraídas da bula):** doenças hipertensivas e hipotensivas, doença hepática, doença da vesícula biliar, trombocitopenia, distúrbios de coagulação, hiperglicemia, diabetes mellitus e cetoacidose diabética, úlcera péptica, estenose pilórica, hiperplasia prostática benigna, obstrução do colo vesical, gota, abuso/dependência de substâncias, síndrome coronariana aguda, doença arterial coronariana, infarto do miocárdio, trombose coronariana, hemoglobinopatias, hipertensão ocular, glaucoma de ângulo fechado, hipertireoidismo (doença de Graves, tireotoxicose) e hipofosfatemia.
+- **Interações medicamentosas:** foram identificadas 67 interações; as principais:
+  - **Graves:** cloreto de potássio e citrato de potássio.
+  - **Moderadas:** anticolinérgicos (atropina, escopolamina, hioscina/hiosciamina, glicopirrônio, diciclomina, clidínio, trospio, mepenzolato, metescopolamina, propantelina), opioides e antidiarreicos (morfina, ópio, loperamida, eluxadolina), além de metoclopramida, procaloprida e nabilona.
 
----
+As advertências e contraindicações da bula não estavam disponíveis nos dados compilados; consulte a bula para as informações oficiais de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN (99,74%) é mecanisticamente coerente — a difenidramina é um H1 antagonista com indicação reconhecida para urticária —, mas o nível de evidência atual é L4: há apenas um estudo farmacocinético em modelo animal, sem ensaios clínicos em humanos para esta indicação específica. A ausência de registro no Brasil e a preferência clínica atual por anti-histamínicos de segunda geração reforçam a recomendação de aguardar evidências mais robustas antes de avançar.
+- A previsão é mecanisticamente plausível e tem pontuação alta, mas se apoia em um único estudo farmacocinético veterinário, sem ensaios clínicos em humanos (nível L4). Além disso, o produto não tem registro válido no Brasil e existem alternativas de segunda geração com melhor perfil de tolerabilidade.
 
 **Para prosseguir, é necessário:**
-- Dados completos de segurança (advertências e contraindicações) via bula oficial do fabricante
-- Dados de MOA detalhados via DrugBank API (DG002)
-- Ensaios clínicos em humanos com dimenhydrinate ou difenidramina oral especificamente para urticária alérgica
-- Análise comparativa de eficácia e segurança frente a cetirizina e loratadina (padrão-ouro atual nas diretrizes)
-- Avaliação regulatória para eventual pedido de registro na ANVISA, caso as evidências se fortaleçam
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a lacuna atual impede a triagem de segurança.
+- Obter dados do mecanismo de ação no DrugBank.
+- Buscar estudos clínicos em humanos que avaliem eficácia em urticária, em comparação com anti-histamínicos de segunda geração.
+- Avaliar a viabilidade regulatória, já que todos os registros estão cancelados.
+- Revisar a carga anticolinérgica e sedativa em populações vulneráveis (idosos, pacientes com glaucoma, hiperplasia prostática ou doença cardiovascular).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

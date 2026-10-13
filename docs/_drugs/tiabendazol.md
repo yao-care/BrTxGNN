@@ -2,7 +2,7 @@
 layout: default
 title: Tiabendazol
 parent: Apenas Predição do Modelo (L5)
-nav_order: 480
+nav_order: 635
 evidence_level: L5
 indication_count: 0
 ---

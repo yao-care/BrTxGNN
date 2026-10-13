@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Darunavir
-parent: Evidência Moderada (L3-L4)
-nav_order: 211
-evidence_level: L4
+parent: Apenas Predição do Modelo (L5)
+nav_order: 252
+evidence_level: L5
 indication_count: 4
 ---
 
 # Darunavir
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **4** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,77 +29,63 @@ Nível de evidência: **L4** | Indicações previstas: **4**
 
 </div>
 
-A seguir, o relatório gerado a partir do Evidence Pack fornecido:
-
----
-
-# Darunavir: Do HIV-1 à Síndrome de Imunodeficiência Adquirida Felina
+# Darunavir: Da infecção por HIV à imunodeficiência felina adquirida
 
 ## Resumo em Uma Frase
 
-Darunavir é um inibidor de protease antirretroviral originalmente desenvolvido para o tratamento da infecção por HIV-1 em adultos e pacientes pediátricos. O modelo TxGNN prevê que pode ser eficaz para a **Síndrome de Imunodeficiência Adquirida Felina (Feline Acquired Immunodeficiency Syndrome / FIV)**, com **1 ensaio clínico identificado** — porém reclassificado como não relevante por erro de mapeamento — e **nenhuma publicação direta** apoiando esta aplicação em felinos, situando a hipótese como mecanisticamente plausível, mas ainda sem respaldo empírico específico.
-
----
+Darunavir é um inibidor de protease, originalmente usado no tratamento da infecção por HIV e da AIDS.
+O modelo TxGNN prevê que pode ser eficaz para **síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica; trata-se de uma previsão exclusivamente do modelo, em indicação veterinária.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecção por HIV-1 (inibidor de protease antirretroviral) |
-| Nova Indicação Prevista | Síndrome de Imunodeficiência Adquirida Felina (Feline AID / FIV) |
+| Indicação Original | Infecção por HIV / AIDS |
+| Nova Indicação Prevista | Síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome) |
 | Pontuação de Previsão TxGNN | 99,97% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 6 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Os dados detalhados de mecanismo de ação não estão disponíveis no Evidence Pack atual. Com base no conhecimento publicado, o darunavir é um inibidor de protease de segunda geração que atua bloqueando a enzima protease viral do HIV-1 — essencial para a clivagem das poliproteínas precursoras e a maturação das partículas virais infecciosas. Seu perfil de inibição é mais robusto que inibidores de primeira geração, com menor propensão ao desenvolvimento de resistência.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o darunavir faz parte da classe dos inibidores de protease do HIV, sua utilização em HIV/AIDS está estabelecida e, mecanisticamente, poderia ser aplicável a lentivírus relacionados.
 
-O FIV (vírus da imunodeficiência felina) e o HIV-1 pertencem ambos à família *Lentivirus*, compartilhando homologia estrutural relevante na protease viral. Estudos de bioquímica estrutural demonstraram que alguns inibidores de protease desenvolvidos para HIV apresentam atividade cruzada in vitro sobre a protease do FIV, o que justifica biologicamente a conexão feita pelo grafo de conhecimento TxGNN. A elevada pontuação do modelo (99,97%) reflete essa proximidade vetorial entre os nós de HIV e FIV.
+O vírus da imunodeficiência felina (FIV) é um lentivírus aparentado ao HIV-1. No entanto, sua protease difere da protease do HIV-1 quanto à especificidade de substrato e à sensibilidade a inibidores. A atividade do darunavir contra a protease do FIV não está estabelecida. A pontuação muito alta do TxGNN (99,97%) baseia-se, portanto, apenas em inferência de similaridade entre doenças.
 
-Contudo, a analogia tem limitações importantes: os sítios de ligação da protease diferem de forma significativa entre HIV-1 e FIV, e o darunavir foi otimizado especificamente para a conformação do HIV-1. A ausência de qualquer estudo publicado específico para felinos e o fato de o único ensaio clínico identificado ser um caso de mapeamento incorreto (ensaio humano de HIV) reduzem substancialmente a confiança na previsão. O alto score do TxGNN é provavelmente resultado do efeito de vizinhança vetorial (agrupamento de doenças lentivirais no grafo), e não de uma conexão mecanística direta bem estabelecida.
+Trata-se de uma indicação veterinária, sem relevância direta para o reposicionamento de fármacos em humanos.
 
----
+### Outras previsões do modelo (para contexto)
 
-## Evidências de Ensaios Clínicos
-
-> ⚠️ **Alerta de qualidade:** O ensaio abaixo foi identificado pela busca automatizada, mas classificado como **Grau C — não relevante** após análise de pertinência. Trata-se de um estudo realizado em seres humanos com HIV-1, mapeado incorretamente para FIV pelo agrupamento de doenças lentivirais no grafo de conhecimento. **Não constitui evidência clínica para imunodeficiência felina.**
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT02770508](https://clinicaltrials.gov/study/NCT02770508) | Phase 4 | Concluído | 145 | ⚠️ **Mapeamento incorreto.** Estudo em humanos HIV-1 naïve: darunavir/ritonavir + lamivudina vs. darunavir/ritonavir + tenofovir/emtricitabina ou tenofovir/lamivudina. Avalia esquema de dois fármacos (2-DR) versus três fármacos. Não é ensaio veterinário nem investiga FIV. |
-
----
-
-## Informações de Comercialização no Brasil
-
-O darunavir possui **6 registros ativos** no Brasil. Os detalhes individuais de cada registro (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste Evidence Pack devido a lacunas nos dados regulatórios coletados. Para informações completas e atualizadas, consulte diretamente o sistema **DATAVISA/ANVISA** em [consultas.anvisa.gov.br](https://consultas.anvisa.gov.br).
-
----
+| Indicação prevista | Pontuação TxGNN | Nível | Comentário |
+|------|------|------|------|
+| Infecção pelo vírus da imunodeficiência símia (SIV) | 99,97% | L4 | Modelo animal do HIV; 4 estudos pré-clínicos em macacos, que avaliam esquemas de terapia antirretroviral combinada e não permitem confirmar a contribuição específica do darunavir. Sobrepõe-se à indicação já existente e agrega pouco valor de reposicionamento. |
+| Transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical | 99,97% | L5 | Doença genética rara, sem vínculo mecanístico evidente com a inibição da protease do HIV; provável falso positivo. |
+| Hiperlipidemia familiar combinada (termo obsoleto) | 99,19% | L5 | Inibidores de protease estão associados a dislipidemia, de modo que a associação pode refletir dano, e não benefício terapêutico. |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (associações do grafo de conhecimento, não texto de bula)**: insuficiência hepática, doença hepática, cirrose hepática, doença da vesícula biliar, hiperglicemia, diabetes mellitus, cetoacidose diabética, hepatite C (infecção crônica e geral), hepatite B crônica, hipertrigliceridemia, hemofilia (incluindo a forma sintomática em portadoras).
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; entre as 20 listadas, a maioria é de nível moderado, e uma é de nível **grave**:
+  - **Grave**: cisaprida.
+  - **Moderado (principais)**: antidiabéticos (acarbose, metformina, pioglitazona, alogliptina, albiglutida, canagliflozina, dapagliflozina, saxagliptina, clorpropamida, acetohexamida), corticosteroides (hidrocortisona, dexametasona, betametasona, budesonida, triancinolona), aprepitanto e claritromicina.
 
----
+Consulte a bula para advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A homologia estrutural entre as proteases de FIV e HIV-1 oferece uma base mecanística plausível para a previsão, mas o único ensaio clínico identificado é um caso de mapeamento incorreto (estudo de HIV humano sem relação com felinos), e não há nenhuma publicação científica que avalie o uso de darunavir diretamente em FIV — tornando a base de evidências insuficiente para qualquer avanço clínico ou regulatório.
+- A previsão de maior pontuação refere-se a uma doença veterinária (AIDS felina), sem ensaios clínicos nem literatura, e com atividade do darunavir contra a protease do FIV não demonstrada. As demais previsões são animais, sem vínculo mecanístico ou potencialmente direcionalmente enganosas.
 
 **Para prosseguir, é necessário:**
-- Realizar busca direcionada em literatura veterinária especializada (ex.: *Journal of Feline Medicine and Surgery*, *Veterinary Immunology and Immunopathology*, *Antiviral Research*)
-- Encomendar ou identificar estudos in vitro de atividade inibitória do darunavir sobre a protease do FIV (ensaios enzimáticos e de cultura celular)
-- Complementar o mecanismo de ação (MOA) via consulta à API do DrugBank (DB01264) para análise de similaridade de sítio de ligação
-- Obter o perfil farmacocinético do darunavir em espécie felina (biodisponibilidade oral, distribuição, metabolismo hepático e eliminação)
-- Recuperar advertências, contraindicações e interações medicamentosas a partir da bula aprovada pela ANVISA (download do PDF no DATAVISA)
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), uma lacuna bloqueante para a triagem de segurança; o fármaco não possui registro comercializado no Brasil.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Dados experimentais de atividade do darunavir contra a protease do FIV, caso haja interesse veterinário.
+- Definir se há interesse em indicações humanas; as previsões atuais não oferecem candidato de reposicionamento humano com evidência.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

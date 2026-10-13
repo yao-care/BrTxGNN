@@ -2,7 +2,7 @@
 layout: default
 title: Naproxen
 parent: Apenas Predição do Modelo (L5)
-nav_order: 356
+nav_order: 467
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,75 +29,61 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Naproxen: De Anti-inflamatório e Analgésico para Síndrome de Braquidactilia-Sindactilia
+# Naproxeno: Da dor e inflamação musculoesquelética à síndrome de braquidactilia-sindactilia
 
 ## Resumo em Uma Frase
 
-Naproxen é um anti-inflamatório não esteroidal (AINE) amplamente utilizado no tratamento da dor aguda e crônica, inflamação e condições reumáticas — uma das classes farmacológicas mais prescritas no mundo. O modelo TxGNN prevê que pode ser eficaz para a **Síndrome de Braquidactilia-Sindactilia (brachydactyly-syndactyly syndrome)**, porém esta direção não conta com **nenhum ensaio clínico** nem **publicação científica** de suporte — apenas a previsão computacional do modelo.
-
----
+Naproxeno é um anti-inflamatório não esteroide (AINE), originalmente usado em condições como artrite reumatoide, osteoartrite, espondilite anquilosante, gota, bursite, tendinite e enxaqueca.
+O modelo TxGNN prevê que pode ser eficaz para a **síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se de uma previsão exclusivamente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Não disponível nos registros ANVISA desta consulta |
-| Nova Indicação Prevista | Síndrome de Braquidactilia-Sindactilia (brachydactyly-syndactyly syndrome) |
+|------|------|
+| Indicação Original | Bursite, artrite reumatoide, espondilite anquilosante, tendinite, gota, enxaqueca, osteoartrite e outras (segundo o grafo de conhecimento; não há texto de indicação aprovada no Brasil) |
+| Nova Indicação Prevista | Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) |
 | Pontuação de Previsão TxGNN | 99,35% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados para este relatório) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Naproxen é um AINE da classe dos ácidos propiônicos que atua por inibição competitiva das enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas, tromboxanos e prostaciclinas. Isso se traduz em efeitos anti-inflamatórios, analgésicos e antipiréticos bem estabelecidos. Os dados completos do mecanismo de ação não estão disponíveis neste Evidence Pack — a recuperação via DrugBank API está pendente e deverá complementar esta análise.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o naproxeno é um inibidor não seletivo das enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas, e sua eficácia em condições inflamatórias e dolorosas do sistema musculoesquelético é bem estabelecida.
 
-A **Síndrome de Braquidactilia-Sindactilia** é uma rara malformação congênita dos membros, causada primariamente por mutações nos genes de padronização do desenvolvimento dos membros (como *HOXD13* e *GJA1*), que resultam em dedos encurtados e fundidos. Embora a prostaglandina E2 (PGE2) exerça papel modulador no desenvolvimento ósseo embrionário, esta função se insere num contexto estritamente de morfogênese embrionária — muito distante do mecanismo terapêutico anti-inflamatório de Naproxen em pacientes adultos ou pediátricos pós-natais.
+A síndrome de braquidactilia-sindactilia é uma malformação esquelética congênita, de origem genética e relacionada ao desenvolvimento. Não foi identificada, nos dados disponíveis, nenhuma via plausível pela qual a inibição de prostaglandinas modificaria a evolução dessa doença. Qualquer benefício se limitaria, no máximo, ao alívio sintomático de dor articular, o que não está sustentado por evidências aqui.
 
-A análise técnica inclusa no Evidence Pack indica que **esta associação provavelmente reflete ruído topológico do grafo de conhecimento**: o alto escore TxGNN decorre da proximidade estrutural entre o nó de "fenótipos esqueléticos" — compartilhado com doenças como osteoartrite e artrite reumatoide, onde o Naproxen tem eficácia amplamente documentada — e o nó desta síndrome rara, gerando uma correlação artificial sem respaldo farmacológico real. Nenhuma evidência pré-clínica foi identificada que valide este reposicionamento.
+Portanto, a pontuação elevada do TxGNN (99,35%) reflete apenas uma associação no grafo de conhecimento. Não há base mecanística, clínica ou bibliográfica que a corrobore.
 
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
-
-## Informações de Comercialização no Brasil
-
-O Naproxen possui **20 registros ativos na ANVISA**, confirmando disponibilidade comercial consolidada no Brasil. Os detalhes individuais de cada registro (nome comercial, forma farmacêutica, indicação aprovada) não foram retornados nesta consulta e devem ser verificados diretamente no portal da ANVISA.
-
----
+Outras previsões do modelo, igualmente sem evidências, foram: síndrome de microftalmia colobomatosa-displasia rizomélica (99,22%), displasia acromesomélica tipo Hunter-Thompson (99,17%) e síndrome de braquiolmia-amelogênese imperfeita (99,06%). Todas são doenças genéticas raras do desenvolvimento, sem racional mecanístico identificado para o naproxeno.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento** (não correspondem ao texto da bula): hipertensão, insuficiência hepática, doença hepática, doença renal, insuficiência cardíaca congestiva, doença arterial coronariana, infarto do miocárdio, acidente vascular cerebral e doenças cerebrovasculares, distúrbios da coagulação, anemia, diabetes mellitus, cetoacidose diabética, osteoporose, epilepsia, doença da vesícula biliar, hiperplasia prostática benigna, obesidade e abuso/dependência de substâncias.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; as principais listadas (todas de nível moderado) incluem:
+  - Antiácidos e inibidores de secreção gástrica: famotidina, ranitidina, cimetidina, rabeprazol, dexlansoprazol
+  - Corticosteroides: hidrocortisona, dexametasona, betametasona, budesonida, triancinolona
+  - Antidiabéticos: metformina, clorpropamida
+  - Anti-inflamatórios intestinais: mesalazina, balsalazida
+  - Outros: ácido acetilsalicílico, aprepitanto, citrato de potássio, bicarbonato de potássio, ácido picossulfúrico, polietilenoglicol com eletrólitos
 
----
+Consulte a bula para advertências principais e contraindicações formais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-As quatro indicações previstas neste Evidence Pack — Síndrome de Braquidactilia-Sindactilia, Síndrome de Microftalmia Colobomatosa com Displasia Rizomélica, Displasia Acromesomélica tipo Hunter-Thompson e Síndrome de Brachyolmia-Amelogenesis Imperfecta — são todas raras síndromes de desenvolvimento esquelético congênito de base genética, sem qualquer ensaio clínico ou publicação de suporte identificados. O padrão uniforme de predições de alto escore para doenças esqueléticas raras sugere um artefato estrutural do grafo de conhecimento (proximidade topológica com nós de doenças ósseas onde Naproxen já está mapeado), e não um sinal farmacológico genuíno de reposicionamento.
+A previsão está no nível de evidência L5: não há ensaios clínicos, publicações nem racional mecanístico plausível, e o fármaco não está comercializado no Brasil. Não há base para avançar além da triagem inicial.
 
 **Para prosseguir, é necessário:**
-- Recuperar o mecanismo de ação completo (MOA) do Naproxen via DrugBank API para fundamentar análises mecanísticas
-- Consultar a bula ANVISA para advertências, precauções e contraindicações antes de qualquer avaliação de segurança
-- Complementar os detalhes dos 20 registros ANVISA (nome comercial, forma farmacêutica, indicação aprovada)
-- Consultar especialista em dismorfologia ou genética clínica para avaliar se há qualquer plausibilidade terapêutica de AINEs nas quatro síndromes identificadas
-- Considerar análise de ruído do modelo TxGNN para investigar se o padrão de predições em síndromes esqueléticas raras é sistemático para outros AINEs
+- Obter e analisar a bula e os dados de segurança (advertências e contraindicações) de fontes oficiais, como o site da ANVISA
+- Complementar os dados de mecanismo de ação (MOA) no DrugBank
+- Investigar se existe alguma ligação biológica plausível entre a via das prostaglandinas e a doença prevista
+- Buscar evidências pré-clínicas ou clínicas antes de qualquer reconsideração
+- Esclarecer a situação regulatória do naproxeno no Brasil, já que não constam registros nos dados compilados
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

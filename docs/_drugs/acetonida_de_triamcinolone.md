@@ -2,7 +2,7 @@
 layout: default
 title: Acetonida De Triamcinolone
 parent: Apenas Predição do Modelo (L5)
-nav_order: 20
+nav_order: 21
 evidence_level: L5
 indication_count: 0
 ---

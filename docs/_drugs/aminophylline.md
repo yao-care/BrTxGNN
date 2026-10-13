@@ -2,7 +2,7 @@
 layout: default
 title: Aminophylline
 parent: Evidência Moderada (L3-L4)
-nav_order: 49
+nav_order: 55
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,82 +29,100 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Aminophylline: Do broncoespasmo à enxaqueca
+# Aminofilina: De broncodilatador para enxaqueca
 
 ## Resumo em Uma Frase
 
-Aminophylline é a sal etilenodiamina da teofilina, amplamente utilizada como broncodilatador no tratamento de broncoespasmo, asma brônquica e apneia da prematuridade.
-O modelo TxGNN prevê que pode ser eficaz para **Transtorno de Enxaqueca (Migraine Disorder)**,
-atualmente com **0 ensaios clínicos** e **6 publicações** apoiando esta direção.
-
----
+Aminofilina é uma xantina (sal de teofilina com etilenodiamina), originalmente registrada no Brasil como broncodilatador.
+O modelo TxGNN prevê que pode ser eficaz para **Enxaqueca (Migraine Disorder)**,
+atualmente com **nenhum ensaio clínico** e **4 publicações** apoiando esta direção (uma revisão de 2023, dois relatos de caso e uma revisão antiga de 1964).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Broncoespasmo / Asma brônquica (indicação reconhecida internacionalmente; sem registro no Brasil) |
-| Nova Indicação Prevista | Transtorno de Enxaqueca (Migraine Disorder) |
+| Indicação Original | Broncodilatadores |
+| Nova Indicação Prevista | Enxaqueca (Migraine Disorder) |
 | Pontuação de Previsão TxGNN | 99,88% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 9 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Aminophylline atua por dois mecanismos principais: inibição da fosfodiesterase (PDE), que eleva os níveis intracelulares de AMPc, e antagonismo não seletivo dos receptores de adenosina (A1, A2A, A2B e A3). Embora os dados formais de mecanismo de ação (MOA) não estejam disponíveis neste pacote de evidências, o perfil farmacológico geral do fármaco é amplamente documentado na literatura médica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada para este relatório. Segundo informações conhecidas, a aminofilina é um antagonista não seletivo dos receptores de adenosina e inibidor de fosfodiesterases. Sua eficácia como broncodilatador é conhecida, e mecanisticamente pode ser aplicável à enxaqueca.
 
-A base mecanística para o reposicionamento em enxaqueca converge no papel da adenosina como mediador central da crise: a ativação do receptor A2A cerebral promove dilatação seletiva das artérias piais e ativa neurônios nociceptivos trigeminais, resultando na dor característica da enxaqueca. A revisão de Phillips et al. (PMID 38059379, 2023) sintetiza evidências observacionais de que aminophylline, ao bloquear estes receptores, proporciona alívio terapêutico significativo em dores, incluindo a cefaleia pós-dural — uma condição com fisiopatologia sobreponível à enxaqueca.
+A relação entre as duas indicações não é a doença em si, mas a via de sinalização: a adenosina participa da dor trigeminovascular e, segundo uma revisão de 2023, a enxaqueca pode estar associada a um metabolismo energético cerebral prejudicado, com níveis patologicamente elevados de adenosina. Um relato de caso descreve ainda um episódio de enxaqueca hemiplégica desencadeado por regadenoson (agonista de adenosina A2A), o que reforça a lógica do antagonismo da adenosina.
 
-O caso relatado por Elsadany et al. (PMID 34308528, 2022) oferece uma prova de conceito reversa especialmente convincente: a administração de regadenoson (agonista seletivo A2A utilizado em imagem miocárdica de estresse) desencadeou um episódio de enxaqueca hemiplégica, cujos efeitos foram revertidos com metiilxantinas como aminophylline. Este relato inverso confirma experimentalmente que a sinalização via A2A é capaz de precipitar enxaqueca, e que o seu bloqueio — mecanismo exato de aminophylline — pode ter efeito terapêutico.
-
----
+Esse raciocínio, porém, é indireto. Não há ensaios clínicos registrados, e a literatura disponível é composta por uma revisão narrativa, relatos de caso e um texto de 1964, o que sustenta apenas uma hipótese de pesquisa.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [38059379](https://pubmed.ncbi.nlm.nih.gov/38059379/) | 2023 | Review / Clinical Study | Pain Management | Propõe que a enxaqueca é mediada por adenosina em contexto de metabolismo energético cerebral comprometido; aminophylline, como antagonista adenosinérgico, demonstrou forte alívio terapêutico em cefaleia pós-dural e em série observacional de casos de enxaqueca |
-| [34308528](https://pubmed.ncbi.nlm.nih.gov/34308528/) | 2022 | Case Report | Journal of Nuclear Cardiology | Regadenoson (agonista A2A) induziu episódio de enxaqueca hemiplégica durante MPI; aminophylline e cafeína foram utilizados para reversão — prova de conceito direta do papel antagonista A2A no tratamento da enxaqueca |
-| [7728647](https://pubmed.ncbi.nlm.nih.gov/7728647/) | 1995 | Case Report | Canadian Journal of Cardiology | Síndrome X atribuída a efeito excessivo de adenosina descrita como "enxaqueca miocárdica sem isquemia"; dipiridamol (indutor de adenosina endógena) provocou dor torácica intensa e alterações eletrocardiográficas sem evidência de isquemia focal |
-| [219563](https://pubmed.ncbi.nlm.nih.gov/219563/) | 1979 | In Vitro Study | Stroke | Adenosina e compostos adenínicos (AMP, AMPc, ADP, ATP) dilataram seletivamente artérias piais cerebrais felinas e humanas in vitro, sem efeito em artérias extracranianas; autores sugerem envolvimento na fisiopatologia da enxaqueca |
-
----
+| [38059379](https://pubmed.ncbi.nlm.nih.gov/38059379/) | 2023 | Revisão | Pain Management | A enxaqueca pode estar ligada a metabolismo energético cerebral alterado e adenosina elevada; a aminofilina, antagonista da adenosina, pode aliviar dores, em especial a cefaleia pós-punção dural, com observações de série de casos prévia |
+| [34308528](https://pubmed.ncbi.nlm.nih.gov/34308528/) | 2022 | Relato de caso | J Nucl Cardiol | Episódio de enxaqueca hemiplégica desencadeado por regadenoson (agonista de adenosina A2A); metilxantinas como a aminofilina revertem reações adversas do regadenoson |
+| [7728647](https://pubmed.ncbi.nlm.nih.gov/7728647/) | 1995 | Relato de caso | Can J Cardiol | Paciente com síndrome X atribuída a efeito excessivo de adenosina ("enxaqueca miocárdica" sem isquemia) |
+| [14168418](https://pubmed.ncbi.nlm.nih.gov/14168418/) | 1964 | Revisão | Aggiornamenti Clinicoterapeutici | Revisão antiga sobre cefaleias, sem resumo disponível |
 
 ## Informações de Comercialização no Brasil
 
-Aminophylline não possui registro ativo na ANVISA e não está comercializado no mercado brasileiro. Não há licenças vigentes na base de dados regulatória consultada.
+Todos os registros encontrados estão cancelados; não há registro válido atualmente.
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 113430118 | Aminofilina | Não informada | Broncodilatadores |
+| Registro nº 103700669 | Resminoliv | Não informada | Broncodilatadores |
+| Registro nº 103920165 | Aminofilina | Não informada | Broncodilatadores |
+| Registro nº 103870059 | Aminofilina | Não informada | Broncodilatadores |
+| Registro nº 103700286 | Aminofilina | Não informada | Broncodilatadores |
+
+Há mais 4 registros cancelados (nº 113430165, 110850024, 103700445 e Asmafin nº 107150067), todos com a mesma indicação.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; as principais entre as listadas:
+  - **Grave**: bupropiona.
+  - **Moderada**: bloqueadores H2 (cimetidina, ranitidina, famotidina, nizatidina), corticosteroides (hidrocortisona, dexametasona, betametasona, triancinolona, budesonida), tetraciclinas (doxiciclina, minociclina, tetraciclina), claritromicina, ácido obeticólico, metreleptina, além de preparos intestinais (ácido picossulfúrico, polietilenoglicol, sulfato de sódio).
+  - **Leve**: lansoprazol.
+- **Alerta da literatura**: em angina de Prinzmetal, o término de estresse com dipiridamol por aminofilina desencadeou vasoespasmo coronariano, o que é motivo de cautela em pacientes com doença vasoespástica. Em hipertireoidismo, a aminofilina aumentou o tremor e alterou o metabolismo da teofilina, e os efeitos simpaticomiméticos das xantinas podem agravar sintomas tireotóxicos.
 
----
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A hipótese de reposicionamento em enxaqueca apresenta plausibilidade mecanística sólida (antagonismo adenosinérgico via A2A), sustentada por evidências indiretas de nível L4 — revisão clínica observacional e casos documentados. No entanto, a ausência total de ensaios clínicos controlados e o fato de aminophylline não estar registrado no Brasil impedem progressão imediata. Vale destacar que, dentre todas as indicações previstas neste pacote de evidências, **hipertensão pulmonar (rank 7)** apresenta o perfil de evidência mais maduro (L3, 1 ensaio Fase 1 concluído com ambrisentan — NCT01530464), podendo ser considerada candidata prioritária para desenvolvimento paralelo.
+- A pontuação do TxGNN é alta (99,88%), mas a evidência sustentadora é L4: apenas uma revisão e relatos de caso, sem ensaios clínicos. Além disso, todos os 9 registros no Brasil estão cancelados e os dados de bula (advertências e contraindicações) não estão disponíveis, o que impede a triagem de segurança.
 
-**Para prosseguir com enxaqueca, é necessário:**
-- Conduzir ensaio clínico Fase 2 com desfecho primário de alívio de crise aguda de enxaqueca
-- Obter dados completos de MOA via DrugBank API (DG002)
-- Levantar advertências, contraindicações e perfil de interações medicamentosas a partir da bula oficial (DG001)
-- Avaliar viabilidade de registro do produto na ANVISA previamente à condução de estudos clínicos no Brasil
-- Definir via de administração adequada para o contexto de enxaqueca (oral vs. intravenoso)
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a avaliação de segurança.
+- Complementar os dados do mecanismo de ação (consulta ao DrugBank).
+- Realizar uma revisão sistemática ou estudos clínicos (fase 2) de aminofilina em enxaqueca, incluindo a cefaleia pós-punção dural como modelo.
+- Definir via de administração e formulação viáveis, já que não há produto com registro válido no país.
+- Elaborar plano de gerenciamento das interações (em especial com bupropiona) e da janela terapêutica estreita das xantinas.
+
+## Outras Indicações Previstas (Resumo)
+
+| Posição | Indicação | Pontuação TxGNN | Nível | Recomendação |
+|------|------|------|------|------|
+| 2 | Enxaqueca com aura de tronco encefálico | 99,84% | L5 | Hold |
+| 3 | Suscetibilidade a enxaqueca com ou sem aura | 99,82% | L4 | Questão de pesquisa (evidência indireta, sobreposta à enxaqueca geral) |
+| 4 | Atrofoderma vermiculado | 99,60% | L5 | Hold |
+| 5 | Uleritema ofriógene | 99,50% | L5 | Hold |
+| 6 | Angina de Prinzmetal | 99,33% | L4 | Hold (literatura sugere possível dano) |
+| 7 | Hipertensão pulmonar | 99,23% | L3 | Questão de pesquisa (estudos hemodinâmicos pequenos e um ensaio de fase 1 de segurança, NCT01530464, com 18 voluntários saudáveis) |
+| 8 | Neuropatia ciática | 99,07% | L4 | Hold |
+| 9 | Hipertireoidismo | 99,06% | L4 | Hold (risco de piora dos sintomas) |
+| 10 | Cardiopatia cifoescoliótica | 99,01% | L5 | Hold |
+
+Entre as alternativas, a **hipertensão pulmonar** tem o maior nível de evidência (L3), com estudos hemodinâmicos em humanos e animais, mas sem ensaios de fase 2/3 que comprovem eficácia.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

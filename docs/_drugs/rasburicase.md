@@ -2,7 +2,7 @@
 layout: default
 title: Rasburicase
 parent: Apenas Predição do Modelo (L5)
-nav_order: 425
+nav_order: 560
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,69 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Rasburicase: Da Hiperuricemia à Hipouricemia Renal
+# Rasburicase: Da hiperuricemia à hipouricemia renal (previsão do modelo, sem respaldo clínico)
 
 ## Resumo em Uma Frase
 
-Rasburicase é uma urato oxidase recombinante aprovada para redução rápida do ácido úrico elevado em pacientes oncológicos sob risco de síndrome de lise tumoral (SLT). O modelo TxGNN prevê que pode ser eficaz para **Hipouricemia Renal (hypouricemia, renal)** — contudo, esta previsão apresenta uma **contradição de direção farmacológica crítica**: a hipouricemia renal caracteriza-se por ácido úrico já anormalmente baixo, e rasburicase reduziria ainda mais esse nível, agravando a condição. Atualmente, há **0 ensaios clínicos** e **0 publicações** apoiando esta direção, e a previsão é classificada como **potencial falso positivo do modelo**.
-
----
+Rasburicase é uma enzima urato oxidase recombinante, originalmente associada ao tratamento da hiperuricemia.
+O modelo TxGNN prevê que pode ser eficaz para **Hipouricemia Renal (hypouricemia, renal)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A previsão não tem respaldo mecanístico plausível.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hiperuricemia associada à síndrome de lise tumoral em pacientes oncológicos |
+| Indicação Original | Hiperuricemia |
 | Nova Indicação Prevista | Hipouricemia Renal (hypouricemia, renal) |
 | Pontuação de Previsão TxGNN | 99,99% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 3 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Rasburicase (DB00049) é uma urato oxidase recombinante que catalisa a conversão do ácido úrico em alantoína — um metabólito mais solúvel e prontamente excretado pelos rins. Esta via enzimática está naturalmente ausente em humanos (o gene UOX é um pseudogene silenciado), razão pela qual rasburicase oferece uma redução de ácido úrico extraordinariamente rápida e potente, sendo especialmente útil no contexto de síndrome de lise tumoral em leucemias, linfomas e tumores sólidos sob quimioterapia intensa.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a rasburicase é uma urato oxidase recombinante que converte o ácido úrico em alantoína, reduzindo o ácido úrico sérico. Sua eficácia na hiperuricemia decorre exatamente dessa ação.
 
-A hipouricemia renal (hypouricemia, renal), por outro lado, é causada por defeito nos transportadores tubulares renais de urato — principalmente URAT1 (*SLC22A12*) e GLUT9 (*SLC2A9*) — resultando em reabsorção insuficiente de urato e excreção excessiva. O quadro clínico é de ácido úrico sérico cronicamente baixo (geralmente < 2 mg/dL), com risco de nefropatia por exercício e urolitíase de urato de amônio.
+A hipouricemia renal é uma condição em que o ácido úrico sérico já é baixo, por defeito na reabsorção renal de urato (por exemplo, variantes de SLC22A12/URAT1 ou SLC2A9). Reduzir ainda mais o urato seria mecanisticamente contraproducente e potencialmente prejudicial. **A pontuação alta do TxGNN provavelmente é um artefato de proximidade no grafo de conhecimento**, ligado à via do ácido úrico, e não um vínculo terapêutico racional.
 
-A conexão mecanística é **inversa e clinicamente prejudicial**: aplicar um fármaco que reduz ativamente o urato sérico em uma condição cujo problema central é justamente o urato sérico já insuficiente representa uma contradição terapêutica fundamental. O alto score TxGNN (99,99%) provavelmente reflete a proximidade topológica entre os nós "metabolismo de purinas" e "transportadores renais de urato" no grafo de conhecimento, sem que o modelo avalie a **direção do desequilíbrio** ou o sentido do efeito farmacológico. Esta previsão deve ser tratada como falso positivo de modelo (model artifact por inversão de direção).
+As demais previsões entre as dez primeiras também carecem de respaldo. A deficiência parcial de HPRT (rank 2) é a única com relação conceitual com o ácido úrico, mas a rasburicase não corrige o defeito enzimático nem as manifestações neurológicas. Além disso, é de uso intravenoso, com limitações de imunogenicidade e risco de hemólise e metemoglobinemia na deficiência de G6PD. As previsões para porfiria hepática, esclerose hepatoportal, síndrome hepatopulmonar, hipertensão portal familiar de início precoce, trombose primária da veia porta, cirrose associada ao cobre, acidose tubular renal e distúrbios do metabolismo da fenilalanina não têm mecanismo identificado e parecem refletir associações de rede.
 
----
+## Previsões Adicionais do Modelo (sem evidências)
 
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
-
-## Informações de Comercialização no Brasil
-
-Rasburicase está registrado no Brasil com **3 licenças ativas** confirmadas na base ANVISA. Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e texto de indicação aprovada) não constam nos dados estruturados disponíveis neste Evidence Pack. Recomenda-se consultar diretamente o sistema de Consulta de Medicamentos da ANVISA para obter as informações completas dos registros.
-
----
+| Posição | Doença prevista | Pontuação TxGNN | Avaliação |
+|------|------|------|------|
+| 2 | Deficiência parcial de HPRT | 99,97% | Relevância conceitual limitada; uso crônico impraticável |
+| 3 | Porfiria hepática | 99,97% | Sem vínculo mecanístico |
+| 4 | Esclerose hepatoportal | 99,97% | Sem mecanismo plausível |
+| 5 | Síndrome hepatopulmonar | 99,97% | Sem mecanismo conhecido |
+| 6 | Hipertensão portal familiar não cirrótica de início precoce | 99,97% | Sem racional |
+| 7 | Trombose primária da veia porta | 99,97% | Sem vínculo com urato oxidase |
+| 8 | Cirrose idiopática associada ao cobre | 99,97% | Sem efeito conhecido no metabolismo do cobre |
+| 9 | Acidose tubular renal | 99,85% | Sem ação conhecida; associação indireta |
+| 10 | Distúrbio do metabolismo da fenilalanina | 99,83% | Sem suporte mecanístico ou clínico |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas** (13 registradas, fonte: DDInter):
+  - **Maior gravidade**: prilocaína e ácido nitroso.
+  - **Gravidade moderada**: idelalisibe e anestésicos locais, como tetracaína (oftálmica e tópica), lidocaína (tópica e oftálmica), benzocaína, cocaína (tópica e nasal), proparacaína, oxibuprocaína e cinchocaína.
+- **Riscos adicionais** (do raciocínio da previsão): risco de hemólise e metemoglobinemia em pacientes com deficiência de G6PD, e imunogenicidade (anticorpos antifármaco) em uso repetido.
 
----
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão de rank 1 (hipouricemia renal) é um **falso positivo do modelo TxGNN por inversão de direção terapêutica** — rasburicase reduz ácido úrico, e a hipouricemia renal já apresenta ácido úrico insuficiente; não existe qualquer evidência clínica ou pré-clínica que suporte esta direção, e o uso do fármaco seria clinicamente contraindicado nesta indicação.
+- Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5). Para a principal (hipouricemia renal), o mecanismo indica efeito contraproducente, e a pontuação alta parece artefato do grafo.
+- O fármaco não é comercializado no Brasil (0 registros), o que impede avançar na triagem de segurança.
 
-> **Nota sobre a indicação de rank 2:** A segunda previsão — **Deficiência Parcial de HGPRT** (síndrome de Kelley-Seegmiller, score 99,97%) — apresenta lógica mecanística válida e oposta: pacientes com deficiência parcial de hipoxantina-guanina fosforribosiltransferase produzem ácido úrico em excesso, e rasburicase poderia oferecer redução aguda de urato neste contexto. Esta indicação foi classificada como "Research Question" e merece avaliação separada antes de ser descartada.
-
-**Para prosseguir com qualquer nova indicação de rasburicase, é necessário:**
-- Obter texto completo das advertências e contraindicações da bula ANVISA (dado bloqueante — DG001)
-- Obter dados de mecanismo de ação detalhados do DrugBank (DG002)
-- Realizar revisão bibliográfica manual para indicações com lógica mecanística positiva, especialmente **deficiência parcial de HGPRT** (rank 2)
-- Recuperar os detalhes estruturados dos 3 registros ANVISA ativos (número, nome comercial, indicações aprovadas)
-- Avaliar se o perfil de segurança (incluindo risco de hemólise em deficiência de G6PD — contraindicação clássica de rasburicase) é compatível com as populações-alvo das novas indicações
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), hoje uma lacuna bloqueante.
+- Obter dados do mecanismo de ação na DrugBank.
+- Reavaliar as previsões de forma crítica, e só considerar a deficiência parcial de HPRT, se houver, com revisão de especialista e evidência pré-clínica ou clínica.
+- Avaliar a viabilidade regulatória e de acesso, já que não há registro no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

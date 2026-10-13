@@ -2,15 +2,15 @@
 layout: default
 title: Cyclobenzaprine
 parent: Evidência Alta (L1-L2)
-nav_order: 203
-evidence_level: L1
+nav_order: 244
+evidence_level: L2
 indication_count: 10
 ---
 
 # Cyclobenzaprine
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,94 +29,100 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Cyclobenzaprine: Do espasmo muscular agudo à Síndrome de Dor Miofascial
+# Ciclobenzaprina: De relaxante muscular à síndrome de dor miofascial
 
 ## Resumo em Uma Frase
 
-Cyclobenzaprine é um relaxante muscular de ação central, aprovado pela FDA para o tratamento do espasmo muscular associado a condições musculoesqueléticas agudas e dolorosas.
+A ciclobenzaprina é um relaxante muscular de ação central, originalmente registrado no Brasil na categoria "relaxantes musculares".
 O modelo TxGNN prevê que pode ser eficaz para a **Síndrome de Dor Miofascial (Myofascial Pain Syndrome)**,
-atualmente com **17 ensaios clínicos** e **5 publicações** apoiando esta direção.
-
----
+atualmente com **10 ensaios clínicos** listados (a maioria de forma indireta, em fibromialgia) e **5 publicações** apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Espasmo muscular associado a condições musculoesqueléticas agudas e dolorosas |
+| Indicação Original | Relaxantes musculares |
 | Nova Indicação Prevista | Síndrome de Dor Miofascial (Myofascial Pain Syndrome) |
-| Pontuação de Previsão TxGNN | 99.09% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Pontuação de Previsão TxGNN | 99,09% |
+| Nível de Evidência | L2 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste pacote. Com base nas informações extraídas dos ensaios clínicos, Cyclobenzaprine é um relaxante muscular de ação central com estrutura química semelhante aos antidepressivos tricíclicos (TCA). O fármaco atua no tronco cerebral inibindo reflexos motores espinhais polissinápticos, reduzindo o tônus muscular excessivo e aliviando diretamente o espasmo persistente associado aos pontos-gatilho (*trigger points*) da síndrome de dor miofascial. Sua estrutura TCA confere adicionalmente um benefício analgésico central por meio da modulação de serotonina e noradrenalina.
+A ciclobenzaprina é um relaxante muscular de ação central, estruturalmente relacionado aos antidepressivos tricíclicos. Atua principalmente no tronco cerebral, com antagonismo 5-HT2 e atividade anti-histamínica e anticolinérgica. Não há dados detalhados de mecanismo de ação no conjunto de dados compilado para este relatório; a descrição acima vem da análise de racional de reposicionamento.
 
-A relação entre a indicação original (espasmo muscular agudo) e a nova indicação (MPS) é de proximidade patofisiológica direta: a MPS é caracterizada por espasmos musculares sustentados e pontos-gatilho que perpetuam o ciclo dor–espasmo–dor. O mecanismo relaxante muscular central do cyclobenzaprine tem potencial para interromper esse ciclo de forma etiologicamente justificada. Ensaios clínicos randomizados já testaram o fármaco diretamente em MPS mandibular e miofascial lombar, fornecendo evidências clínicas de primeiro nível.
+A indicação original (espasmo e relaxamento muscular) está muito próxima da dor miofascial, que envolve pontos-gatilho, tensão e espasmo musculares. Por isso, o efeito de reduzir o espasmo e a dor é mecanisticamente plausível, e o uso proposto é uma extensão natural do uso aprovado.
 
-Um elemento particularmente relevante é que a formulação sublingual de baixa dose (TNX-102 SL, 5,6 mg/noite), aprovada pela FDA em 2023 sob a marca **TONMYA**, destina-se ao tratamento da fibromialgia — condição que compartilha com a MPS os mecanismos centrais de sensibilização, dor muscular difusa e distúrbio do sono. Três ensaios de Fase 3 completados com n total superior a 1.400 pacientes sustentam essa aprovação, conferindo uma base indireta de evidências de nível L1 para a aplicação em MPS.
-
----
+**Ressalva importante:** vários ensaios de Fase 3 listados usam o TNX-102 SL (ciclobenzaprina sublingual) e, pelos títulos, visam a **fibromialgia**, e não a dor miofascial. Eles não devem ser contados como evidência direta de Fase 3 para esta indicação. A classificação L2 baseia-se em ensaios randomizados pequenos em dor miofascial ou distensão muscular.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00635037](https://clinicaltrials.gov/study/NCT00635037) | N/A | Concluído | 30 | Comparação direta em MPS: acupuntura vs. injeção em ponto-gatilho combinada com cyclobenzaprine 10 mg/dia + dipirona; avaliou efeito analgésico e efeitos adversos em clínica de dor |
-| [NCT02436096](https://clinicaltrials.gov/study/NCT02436096) | Phase 3 | Concluído | 519 | TNX-102 SL 2,8 mg noturno vs. placebo em fibromialgia (12 semanas); resultados positivos em dor, sono e sintomatologia geral — estudo pivô que embasou a aprovação FDA |
-| [NCT04508621](https://clinicaltrials.gov/study/NCT04508621) | Phase 3 | Concluído | 514 | TNX-102 SL 5,6 mg noturno vs. placebo em fibromialgia (14 semanas); replicação com nova dose; avaliação primária de eficácia e segurança |
-| [NCT05273749](https://clinicaltrials.gov/study/NCT05273749) | Phase 3 | Concluído | 457 | TNX-102 SL 5,6 mg noturno vs. placebo em fibromialgia (14 semanas); confirmação da eficácia e tolerabilidade da dose aprovada |
-| [NCT04172831](https://clinicaltrials.gov/study/NCT04172831) | Phase 3 | Concluído | 503 | TNX-102 SL 5,6 mg noturno vs. placebo em fibromialgia (14 semanas); terceiro estudo confirmatório da série pivô |
-| [NCT02015234](https://clinicaltrials.gov/study/NCT02015234) | Phase 3 | Concluído | 158 | Extensão aberta de 12 meses (F202): avaliação de segurança de longo prazo do TNX-102 SL em fibromialgia; pacientes provenientes do duplo-cego |
-| [NCT02589275](https://clinicaltrials.gov/study/NCT02589275) | Phase 3 | Concluído | 375 | Extensão aberta de 3 meses (F301/F302): segurança e eficácia de longo prazo; pacientes que completaram os estudos F301 e F302 |
-| [NCT01903265](https://clinicaltrials.gov/study/NCT01903265) | Phase 2b/3 | Concluído | 205 | Estudo BESTFIT: TNX-102 SL 2,8 mg em fibromialgia (12 semanas); estudo seminal que demonstrou efeitos benéficos em dor e sono, motivando o programa de Fase 3 |
-| [NCT02829814](https://clinicaltrials.gov/study/NCT02829814) | Phase 3 | Encerrado precocemente | 51 | TNX-102 SL 2,8 mg em fibromialgia (12 semanas); encerrado antes da conclusão (n=51), fornece dados limitados de segurança |
-| [NCT04704297](https://clinicaltrials.gov/study/NCT04704297) | Phase 4 | Recrutando | 180 | T-PIMPS: injeção em ponto-gatilho para MPS lombar em pronto-socorro; cyclobenzaprine como co-intervenção; avalia heterogeneidade de resultados em estudos anteriores |
-
----
+| [NCT04704297](https://clinicaltrials.gov/study/NCT04704297) | Phase 4 | Recrutando | 180 | Injeção em ponto-gatilho para dor miofascial lombar; a condição coincide, mas a intervenção provavelmente não é ciclobenzaprina |
+| [NCT04508621](https://clinicaltrials.gov/study/NCT04508621) | Phase 3 | Concluído | 514 | TNX-102 SL 5,6 mg vs placebo por 14 semanas em fibromialgia (evidência indireta) |
+| [NCT04172831](https://clinicaltrials.gov/study/NCT04172831) | Phase 3 | Concluído | 503 | TNX-102 SL 5,6 mg vs placebo por 14 semanas em fibromialgia (evidência indireta) |
+| [NCT02436096](https://clinicaltrials.gov/study/NCT02436096) | Phase 3 | Concluído | 519 | TNX-102 SL 2,8 mg ao deitar por 12 semanas em fibromialgia (evidência indireta) |
+| [NCT05273749](https://clinicaltrials.gov/study/NCT05273749) | Phase 3 | Concluído | 457 | TNX-102 SL 5,6 mg vs placebo por 14 semanas em fibromialgia (evidência indireta) |
+| [NCT02589275](https://clinicaltrials.gov/study/NCT02589275) | Phase 3 | Concluído | 375 | Extensão aberta de 3 meses do TNX-102 SL; segurança e eficácia a longo prazo em fibromialgia |
+| [NCT01903265](https://clinicaltrials.gov/study/NCT01903265) | Phase 2/3 | Concluído | 205 | TNX-102 SL 2,8 mg vs placebo por 12 semanas em fibromialgia (evidência indireta) |
+| [NCT02015234](https://clinicaltrials.gov/study/NCT02015234) | Phase 3 | Concluído | 158 | Extensão aberta de 12 meses do TNX-102 SL; segurança a longo prazo em fibromialgia |
+| [NCT02829814](https://clinicaltrials.gov/study/NCT02829814) | Phase 3 | Encerrado | 51 | TNX-102 SL vs placebo em fibromialgia; encerrado precocemente, valor informativo limitado |
+| [NCT01041495](https://clinicaltrials.gov/study/NCT01041495) | Phase 4 | Encerrado | 37 | Ciclobenzaprina ER como terapia adjuvante para fadiga e dor muscular na fibromialgia; encerrado precocemente, evidência fraca |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [12764337](https://pubmed.ncbi.nlm.nih.gov/12764337/) | 2003 | RCT | Annals of Emergency Medicine | Cyclobenzaprine + ibuprofeno vs. ibuprofeno isolado em distensão miofascial aguda no pronto-socorro; avaliou benefício analgésico adicional do relaxante muscular e perfil de efeitos adversos |
-| [24822235](https://pubmed.ncbi.nlm.nih.gov/24822235/) | 2014 | RCT | Journal of Oral & Facial Pain and Headache | Cyclobenzaprine vs. tizanidina vs. placebo adicionados a programa de educação e autocuidado para dor miofascial mandibular ao despertar; comparação de eficácia clínica |
-| [11889661](https://pubmed.ncbi.nlm.nih.gov/11889661/) | 2002 | RCT | Journal of Orofacial Pain | Cyclobenzaprine vs. clonazepam vs. placebo para dor miofascial mandibular ao despertar; relaxante muscular comparado a benzodiazepínico no tratamento da dor miofascial orofacial |
-| [20673246](https://pubmed.ncbi.nlm.nih.gov/20673246/) | 2011 | RCT | Pain Practice | Acupuntura vs. injeção em ponto-gatilho + cyclobenzaprine + dipirona em síndrome de dor miofascial; comparação de eficácia analgésica entre modalidades farmacológica e não farmacológica |
-| [3464212](https://pubmed.ncbi.nlm.nih.gov/3464212/) | 1986 | Review | The American Journal of Medicine | Síndrome fibrósica (precursor terminológico da fibromialgia/MPS): prevalência de 6–15% em clínica, razão F:M 5:1, múltiplos pontos-gatilho — contexto histórico da dor muscular crônica difusa |
-
----
+| [11889661](https://pubmed.ncbi.nlm.nih.gov/11889661/) | 2002 | RCT | Journal of Orofacial Pain | Compara clonazepam, ciclobenzaprina e placebo adicionados à educação e autocuidado para dor mandibular ao despertar |
+| [12764337](https://pubmed.ncbi.nlm.nih.gov/12764337/) | 2003 | RCT | Annals of Emergency Medicine | Ciclobenzaprina com ibuprofeno vs ibuprofeno isolado em distensão miofascial aguda, duplo-cego, em pacientes de pronto-socorro |
+| [24822235](https://pubmed.ncbi.nlm.nih.gov/24822235/) | 2014 | RCT | Journal of Oral & Facial Pain and Headache | Educação e autocuidado com adição de ciclobenzaprina, tizanidina ou placebo em dor miofascial com dor mandibular ao despertar |
+| [20673246](https://pubmed.ncbi.nlm.nih.gov/20673246/) | 2011 | RCT | Pain Practice | Acupuntura vs injeção em ponto-gatilho combinada com ciclobenzaprina e dipirona em dor miofascial |
+| [3464212](https://pubmed.ncbi.nlm.nih.gov/3464212/) | 1986 | Revisão | The American Journal of Medicine | Descrição clínica da fibrosite (dor musculoesquelética com pontos dolorosos); contexto da doença |
 
 ## Informações de Comercialização no Brasil
 
-Cyclobenzaprine **não possui registros ativos na ANVISA** e não está comercializado no Brasil. Nenhum produto com este princípio ativo foi identificado nas bases regulatórias brasileiras consultadas.
+Todos os 20 registros localizados estão **cancelados**; atualmente não há registro válido. Principais exemplos:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 105730572 | Cloridrato de ciclobenzaprina | — | Relaxantes musculares |
+| Registro nº 167730107 | Miofibrax | — | Relaxantes musculares |
+| Registro nº 178170792 | Cizax | — | Relaxantes musculares |
+| Registro nº 154230279 | Miebra | — | Relaxantes musculares |
+| Registro nº 101180646 | Miosan ODT | — | Relaxantes musculares |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações previstas pelo grafo de conhecimento (não extraídas da bula):** insuficiência hepática, glaucoma (incluindo glaucoma de ângulo aberto), parada cardíaca súbita, doenças da condução cardíaca, bloqueio atrioventricular e dissociação atrioventricular, bloqueio cardíaco, hipertireoidismo, doença de Graves e tireotoxicose.
+- **Interações medicamentosas:** 100 interações registradas. Entre as de gravidade **maior** estão bupropiona, morfina, citrato de potássio, dexfenfluramina e fenfluramina. Entre as de gravidade **moderada** estão anticolinérgicos (hioscina, atropina, glicopirrônio, diciclomina, clidínio, mepenzolato, metescopolamina), loperamida, aprepitanto, dronabinol e eluxadolina.
+- O perfil anticolinérgico, a sedação e o risco de interações serotoninérgicas exigem atenção especial.
 
----
+As advertências e contraindicações da bula não estavam disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-A formulação sublingual de cyclobenzaprine (TNX-102 SL / TONMYA) obteve aprovação da FDA para fibromialgia em 2023, sustentada por ao menos três ensaios de Fase 3 completados com n total superior a 1.400 pacientes, além de extensões abertas de longo prazo. A fibromialgia compartilha com a síndrome de dor miofascial os mecanismos patofisiológicos centrais (sensibilização central, pontos-gatilho, dor muscular crônica), e ensaios clínicos randomizados testaram cyclobenzaprine diretamente em MPS. O conjunto de evidências fundamenta o avanço com cautela.
+- A dor miofascial está muito próxima da indicação original, e há ensaios randomizados pequenos em dor miofascial e distensão muscular. A evidência direta, porém, é limitada: os ensaios de Fase 3 são em fibromialgia, e todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Levantar advertências, contraindicações e interações medicamentosas na bula FDA/ANVISA — **item bloqueante** para avaliação completa de segurança (especialmente interações com IMAOs e outros depressores do SNC)
-- Obter dados de MOA detalhados via DrugBank API (DB00924) para fortalecer a análise de mecanismo
-- Avaliar viabilidade regulatória de registro no Brasil (ANVISA), dado que o produto não possui comercialização local
-- Definir estratégia de formulação e posologia para MPS (oral IR 10 mg TID, ER 15–30 mg QD ou sublingual de baixa dose), considerando perfil de segurança diferenciado por formulação
-- Mapear população-alvo específica: MPS aguda vs. crônica, subgrupo orofacial vs. axial vs. generalizado
+- Confirmar a condição e a intervenção de cada ensaio listado, separando os ensaios em fibromialgia dos de dor miofascial.
+- Obter as advertências e contraindicações da bula da ANVISA e os dados detalhados do mecanismo de ação (DrugBank).
+- Esclarecer a situação regulatória no Brasil (registros cancelados) e definir a via de nova submissão.
+- Elaborar um plano de segurança para glaucoma, doenças cardíacas, hepatopatia, idosos e polimedicação.
+
+### Outras indicações previstas (resumo)
+
+| Indicação | Pontuação TxGNN | Nível | Recomendação |
+|------|------|------|------|
+| Neuralgia | 99,08% | L4 | Questão de pesquisa |
+| Enxaqueca (migraine disorder) | 98,68% | L4 | Questão de pesquisa (único ensaio de Fase 3, NCT01151787, encerrado com 35 participantes) |
+| Glossodinia | 97,72% | L4 | Hold (literatura desfavorável, efeito xerogênico anticolinérgico) |
+| Conjuntivite papilar, enxaqueca com aura de tronco encefálico, síndrome da cauda equina, neuropatia ciática, coccigodinia, transtorno distímico | 97,5% a 99,1% | L5 | Hold (sem estudos) |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

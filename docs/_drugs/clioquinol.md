@@ -2,15 +2,15 @@
 layout: default
 title: Clioquinol
 parent: Evidência Moderada (L3-L4)
-nav_order: 192
-evidence_level: L3
+nav_order: 229
+evidence_level: L4
 indication_count: 10
 ---
 
 # Clioquinol
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,84 +29,77 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Clioquinol: Do antisséptico tópico à candidíase cutânea
+# Clioquinol: De tinha dos pés a candidíase cutânea
 
 ## Resumo em Uma Frase
 
-Clioquinol (Vioform / iodocloridroxi-quinolina) é um antisséptico e antifúngico tópico com histórico de uso clínico em dermatoses infecciosas, já comercializado na combinação Locacorten-Vioform para infecções cutâneas mistas. O modelo TxGNN prevê que pode ser eficaz para **Candidíase Cutânea (Cutaneous Candidiasis)**, atualmente sem ensaios clínicos registrados e com **6 publicações** apoiando esta direção. Trata-se, na prática, de uma reconfirmação de indicação histórica bem documentada, e não de uma nova indicação propriamente dita.
-
----
+Clioquinol é uma hidroxiquinolina halogenada, originalmente usada em infecções fúngicas da pele, como tinha dos pés (tinea pedis), tinha do corpo (tinea corporis) e dermatofitose da região inguinal e perianal.
+O modelo TxGNN prevê que pode ser eficaz para **Candidíase Cutânea (Cutaneous Candidiasis)**,
+atualmente com **0 ensaios clínicos** e **1 publicação** de relevância indireta apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Antisséptico/antifúngico tópico em dermatoses infecciosas (uso histórico) |
-| Nova Indicação Prevista | Candidíase Cutânea (Cutaneous Candidiasis) |
-| Pontuação de Previsão TxGNN | 99.84% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+|------|------|
+| Indicação Original | Tinha dos pés (tinea pedis), tinha do corpo (tinea corporis), infecções por tinha e dermatofitose da região inguinal e perianal (segundo o grafo de conhecimento do TxGNN; não há texto de indicação de registro no Brasil) |
+| Nova Indicação Prevista | Candidíase cutânea (Cutaneous Candidiasis) |
+| Pontuação de Previsão TxGNN | 99,84% |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Clioquinol atua como quelante de íons metálicos bivalentes — especialmente Zn²⁺ e Cu²⁺ — inibindo enzimas fúngicas dependentes de metais, como a superoxide dismutase da *Candida*. Adicionalmente, o composto promove ruptura da permeabilidade da membrana celular fúngica, conferindo-lhe atividade antifúngica de amplo espectro mesmo em concentrações baixas.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o clioquinol é uma hidroxiquinolina halogenada com atividade antifúngica e antibacteriana associada à quelação de metais (cobre, zinco e ferro). Sua eficácia contra dermatófitos sustenta uma ação antifúngica tópica, e mecanisticamente ela pode se estender a leveduras do gênero *Candida*.
 
-A relação entre clioquinol e candidíase cutânea é direta e historicamente estabelecida: a combinação Locacorten-Vioform (clioquinol + corticosteroide tópico) foi desenvolvida especificamente para dermatoses com componente infeccioso por *Candida*, e os estudos clínicos dos anos 1970–1980 confirmam essa aplicação de forma consistente, inclusive com desenhos comparativos e duplo-cego.
+A tinha (dermatofitose) e a candidíase cutânea são infecções fúngicas superficiais da pele, frequentemente tratadas com antifúngicos tópicos. Essa proximidade clínica e biológica explica por que o modelo associou o fármaco à candidíase cutânea.
 
-É importante destacar que o campo `original_indications` aparece vazio neste Evidence Pack por limitação de coleta de dados — trata-se de uma lacuna de dados, não de ausência real de indicação histórica. Clioquinol foi amplamente utilizado como antisséptico e antifúngico tópico por décadas, tendo seu uso oral descontinuado em muitos países por neurotoxicidade (neuropatia subaguda mieloóptica — SMON), mas o uso tópico permanece aceito em diversas jurisdições.
-
----
+Ressalva importante: a única publicação encontrada é um estudo de 1988 sobre prevenção de infecção ocupacional por *Candida albicans* com aditivos de sabonetes, e seu conteúdo não pôde ser confirmado como evidência direta do clioquinol. A previsão, portanto, continua sendo principalmente computacional.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [155507](https://pubmed.ncbi.nlm.nih.gov/155507/) | 1979 | Clinical Study | Current Medical Research and Opinion | Comparação de HNA vs. iodocloridroxi-quinolina-hidrocortisona (I-HC) em 80 pacientes com candidíase cutânea; resposta excelente em 95% no grupo HNA vs. 43% no grupo I-HC |
-| [6459255](https://pubmed.ncbi.nlm.nih.gov/6459255/) | 1981 | Comparative Clinical Study | Journal of International Medical Research | Estudo randomizado paralelo (n=154) em eczema infectado e candidíase cutânea; duas formulações tópicas contendo iodocloridroxi-quinolina apresentaram eficácia terapêutica equivalente |
-| [128475](https://pubmed.ncbi.nlm.nih.gov/128475/) | 1975 | Clinical Case Series | Dermatologica | Estudo duplo-cego (n=430): Locacorten-Vioform (clioquinol 3% + flumetasona) foi significativamente superior a Vioform isolado, Locacorten isolado e placebo no tratamento de dermatoses com infecção bacteriana secundária |
-| [136333](https://pubmed.ncbi.nlm.nih.gov/136333/) | 1976 | Clinical Study | Current Therapeutic Research | Avaliação clínica de combinação halcinonida-antifúngico (incluindo clioquinol) para dermatoses infecciosas |
-| [4220930](https://pubmed.ncbi.nlm.nih.gov/4220930/) | 1965 | Case Report / Mechanistic | Zeitschrift fur Haut- und Geschlechtskrankheiten | Papel de leveduras na etiologia da acrodermatite enteropática de Danbolt-Closs; relevância mecanística para candidíase cutânea |
-| [2978600](https://pubmed.ncbi.nlm.nih.gov/2978600/) | 1988 | Observational / Prevention | Przeglad Dermatologiczny | Estudo in vitro do efeito fungicida de aditivos em sabonetes sobre *C. albicans*; clioquinol demonstrou efeito fungicida em soluções alcalinas |
+|------|-----|------|------|---------|
+| [2978600](https://pubmed.ncbi.nlm.nih.gov/2978600/) | 1988 | Outro (relato de prevenção ocupacional) | Przeglad Dermatologiczny | Estudo *in vitro* de cerca de vinte aditivos de sabonetes sobre cepas de *C. albicans* isoladas de pacientes; o efeito fungicida mais forte ocorreu em soluções de sabonete fortemente alcalinas. Relevância direta para o clioquinol não confirmada. |
 
----
+## Outras Indicações Previstas
 
-## Informações de Comercialização no Brasil
-
-O clioquinol possui **20 registros** ativos no banco de dados regulatório brasileiro. Os detalhes individuais de cada registro (número ANVISA, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste Evidence Pack e devem ser consultados diretamente no portal da ANVISA (consultas.anvisa.gov.br).
-
----
+| Indicação prevista | Pontuação TxGNN | Nível | Observação |
+|------|------|------|------|
+| Doença infecciosa ectotrix | 99,26% | L5 | Infecção dermatofítica do pelo; sem estudos |
+| Granuloma de Majocchi | 99,26% | L5 | Infecção folicular profunda; a penetração tópica é limitada |
+| Doença infecciosa endotrix | 99,19% | L5 | Infecção intra-haste; geralmente requer terapia sistêmica |
+| Micose superficial | 99,18% | L4 | Estudo de 2021 ([PMID 33772895](https://pubmed.ncbi.nlm.nih.gov/33772895/), *Mycoses*) avaliou clioquinol combinado com ciclopirox e terbinafina em modelos alternativos de dermatofitose; trabalho aparentemente pré-clínico, sem evidência em pacientes. Classificada como questão de pesquisa |
+| Dermatofitose do couro cabeludo ou da barba | 99,17% | L5 | Geralmente requer terapia sistêmica |
+| Tinea profunda | 99,13% | L5 | Infecção profunda; a penetração tópica é uma preocupação |
+| Pitiríase versicolor | 98,97% | L5 | Causada por *Malassezia*; existem alternativas eficazes (azóis, sulfeto de selênio) |
+| Granuloma anular | 95,27% | L5 | Dermatose inflamatória não infecciosa; sem justificativa antifúngica clara |
+| Tinea manuum | 94,12% | L5 | Extensão natural das indicações originais, mas sem evidência específica |
 
 ## Considerações de Segurança
 
-> Os dados de advertências e contraindicações não foram recuperados neste Evidence Pack. Recomenda-se consulta obrigatória à bula e à base de dados da ANVISA antes de qualquer uso clínico.
+- **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: insuficiência adrenocortical, doença de Addison, atrofia da pele, telangiectasia, doença capilar, telangiectasia hemorrágica hereditária, doença vascular periférica, claudicação vascular intermitente e doença arterial periférica.
 
-Não foram identificadas interações medicamentosas registradas no banco de dados consultado.
-
----
+Para demais informações de segurança, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para candidíase cutânea é biologicamente coerente e consistente com uso histórico bem documentado — as evidências de nível L3 (estudos clínicos comparativos dos anos 1970–1980, incluindo um duplo-cego com 430 pacientes) confirmam a eficácia de formulações tópicas à base de clioquinol nesta indicação. O principal ponto de atenção é o perfil de segurança do composto, especialmente o histórico de neurotoxicidade por uso sistêmico e eventuais restrições regulatórias derivadas disso.
+- A previsão para candidíase cutânea tem pontuação alta no modelo, mas não há ensaios clínicos e a única publicação é de 1988, de relevância indireta. O fármaco não é comercializado no Brasil e a triagem de segurança está bloqueada pela falta de dados da bula.
 
 **Para prosseguir, é necessário:**
-- Recuperar dados completos de advertências e contraindicações via bula ANVISA (bloqueante para avaliação de segurança S1)
-- Confirmar detalhes dos 20 registros ANVISA: nome comercial, forma farmacêutica e indicação aprovada
-- Verificar se há restrições específicas vigentes no Brasil para uso tópico de clioquinol, em função do histórico de SMON
-- Obter mecanismo de ação completo via DrugBank API (DB04815)
-- Considerar se a ausência de ensaios clínicos modernos é uma lacuna a preencher ou se a evidência histórica é suficiente para o contexto regulatório pretendido
+- Obter e analisar a bula (advertências e contraindicações) no site da ANVISA
+- Obter dados do mecanismo de ação (MOA) no DrugBank
+- Realizar revisão da literatura e estudos *in vitro* de atividade do clioquinol contra *Candida* spp.
+- Avaliar a compatibilidade de via de administração e formulação tópica, bem como a situação regulatória do fármaco no Brasil
+- Considerar priorizar a micose superficial (estudo de 2021) como questão de pesquisa, e a tinea manuum como extensão natural das indicações já conhecidas
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

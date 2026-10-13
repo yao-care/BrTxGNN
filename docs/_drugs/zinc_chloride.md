@@ -2,7 +2,7 @@
 layout: default
 title: Zinc Chloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 512
+nav_order: 681
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,70 +29,69 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-# Cloreto de Zinco: De antisséptico mineral para retinopatia diabética grave não proliferativa
+# Cloreto de Zinco: De nutriente parenteral para retinopatia diabética não proliferativa grave
 
 ## Resumo em Uma Frase
 
-Cloreto de Zinco (ZnCl₂) é uma sal inorgânica de zinco utilizada como antisséptico, astringente e fonte de zinco em formulações farmacêuticas diversas, sem indicação aprovada registrada no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Retinopatia Diabética Grave Não Proliferativa (Severe Nonproliferative Diabetic Retinopathy)**, porém esta direção conta atualmente com **0 ensaios clínicos** e **0 publicações** de suporte direto — classificando-se no nível de evidência mais preliminar possível.
-
----
+Cloreto de zinco é um oligoelemento originalmente usado como nutriente parenteral (nutrição parenteral).
+O modelo TxGNN prevê que pode ser eficaz para **Retinopatia Diabética Não Proliferativa Grave (severe nonproliferative diabetic retinopathy)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Não registrada no Brasil |
-| Nova Indicação Prevista | Retinopatia Diabética Grave Não Proliferativa (Severe Nonproliferative Diabetic Retinopathy) |
-| Pontuação de Previsão TxGNN | 99.34% |
+|------|------|
+| Indicação Original | Nutrientes parenterais |
+| Nova Indicação Prevista | Retinopatia Diabética Não Proliferativa Grave (severe nonproliferative diabetic retinopathy) |
+| Pontuação de Previsão TxGNN | 99,34% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 1 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação do Cloreto de Zinco disponíveis no banco de dados consultado. Com base em conhecimento farmacológico geral, o zinco é um mineral essencial que atua como cofator de mais de 300 enzimas, incluindo a superóxido dismutase dependente de zinco (Zn-SOD) — uma das principais defesas antioxidantes celulares. O Cloreto de Zinco representa uma das formas solúveis de entrega de zinco iônico ao organismo.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o cloreto de zinco é uma fonte de zinco usada em nutrição parenteral para repor as necessidades desse oligoelemento. Sua eficácia como suplemento nutricional é estabelecida, e mecanisticamente poderia ser aplicável à retinopatia diabética.
 
-A retinopatia diabética grave não proliferativa é caracterizada por estresse oxidativo crônico na retina, decorrente de hiperglicemia persistente que leva ao dano microvascular progressivo. Um dado anatômico relevante é que o epitélio pigmentário da retina (RPE) possui uma das maiores concentrações de zinco do corpo humano, o que sugere papel funcional desse mineral na manutenção da homeostase retiniana. Em modelos conceituais, a depleção de zinco associada ao diabetes poderia comprometer os mecanismos antioxidantes locais, tornando o Cloreto de Zinco uma hipótese biologicamente plausível como agente protetor.
+O zinco participa da defesa antioxidante (por exemplo, na superóxido dismutase Cu/Zn) e do metabolismo da retina, o que pode se relacionar ao estresse oxidativo na retinopatia diabética. Essa ligação, porém, é especulativa e não é sustentada por evidências nos dados compilados para este relatório. A pontuação do modelo é muito alta, mas baseia-se apenas em relações do grafo de conhecimento.
 
-No entanto, essa ligação mecanística permanece em nível de inferência puramente indireta. Não há estudos clínicos nem pré-clínicos publicados documentando o uso de ZnCl₂ especificamente nesta indicação. A via de administração adequada (oral, intravítrea ou tópica), a concentração terapêutica eficaz, o perfil de biodistribuição ocular e os limites de segurança para uso continuado estão completamente por definir.
+Vale notar que o uso original (infusão intravenosa como nutriente) é muito diferente do uso previsto (doença ocular). A via de administração e a segurança ocular do cloreto de zinco para essa finalidade não foram avaliadas.
 
----
+### Outras previsões do modelo
 
-## Evidências de Ensaios Clínicos
+| Indicação Prevista | Pontuação TxGNN | Nível de Evidência | Comentário |
+|------|------|------|------|
+| Síndrome de Sjögren (Sjogren syndrome) | 99,18% | L5 | Zinco atua na regulação imune e na função epitelial/mucosa; hipótese sem evidência de apoio |
+| Síndrome do olho seco (dry eye syndrome) | 99,18% | L5 | Racional plausível (integridade epitelial, cicatrização, ação antioxidante), mas não verificado; provavelmente não é independente da previsão de Sjögren, pois o olho seco é característica central dessa doença |
 
-Atualmente não há ensaios clínicos relacionados registrados para Cloreto de Zinco em retinopatia diabética grave não proliferativa.
+## Informações de Comercialização no Brasil
 
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada ao uso de Cloreto de Zinco em retinopatia diabética grave não proliferativa.
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 100410165 (cancelado) | ADDAVEN | Não informada | Nutrientes parenterais |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações sugeridas pelo grafo de conhecimento** (relações do modelo, não texto de bula): meta-hemoglobinemia, sulfo-hemoglobinemia, deficiência de G6PD, doença de depósito de glicogênio, cistinúria, galactosemia, deficiência de piruvato desidrogenase E3, meta-hemoglobinemia por deficiência de meta-hemoglobina redutase, doença de Wilson, doenças do metabolismo do ferro e hemocromatose hereditária.
+- **Interações Medicamentosas**: foram identificadas 76 interações no total; as 20 listadas nos dados compilados incluem:
+  - **Moderadas**: tetraciclina, minociclina, levofloxacino (provável redução da absorção por quelação; separar os horários de administração é uma medida usual, a confirmar em fontes oficiais).
+  - **Leves**: corticosteroides (hidrocortisona, triamcinolona, dexametasona, betametasona, budesonida, prednisona, prednisolona) e imunossupressores/imunobiológicos (abatacepte, adalimumabe, alefacepte, anakinra, imunoglobulinas antilinfocitárias/antitimocitárias, azatioprina, baricitinibe, basiliximabe, belatacepte).
 
----
+Para advertências e contraindicações da bula, consulte a bula; não foi possível obter esses dados da ANVISA.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN é biologicamente plausível com base no papel do zinco na defesa antioxidante retiniana, porém nenhum dado clínico ou pré-clínico específico foi identificado para Cloreto de Zinco em retinopatia diabética grave não proliferativa. A ausência total de evidências (L5) e o fato de o fármaco não estar sequer comercializado no Brasil tornam prematuro qualquer avanço nesta direção.
+- A previsão tem pontuação alta, mas é apenas computacional (L5): não há ensaios clínicos nem literatura, não há dados de mecanismo de ação, o único registro no Brasil está cancelado e as informações de bula não foram obtidas.
 
 **Para prosseguir, é necessário:**
-- Levantamento sistemático de estudos pré-clínicos (modelos animais de retinopatia diabética com suplementação de zinco)
-- Definição da via de administração viável (oral vs. ocular) e respectiva biodisponibilidade retiniana
-- Dados completos de mecanismo de ação (MOA) do Cloreto de Zinco a partir do DrugBank
-- Dados de segurança e advertências da bula (ANVISA/TFDA)
-- Avaliação da janela terapêutica vs. toxicidade ocular do ZnCl₂
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Realizar busca sistemática de literatura pré-clínica e clínica sobre zinco em retinopatia diabética, síndrome de Sjögren e olho seco.
+- Avaliar a compatibilidade de via e formulação (uso ocular/tópico vs. parenteral) e a segurança ocular.
+- Considerar as previsões de Sjögren e olho seco em conjunto, dada sua relação biológica.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

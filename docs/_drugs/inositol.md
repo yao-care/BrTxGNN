@@ -2,7 +2,7 @@
 layout: default
 title: Inositol
 parent: Apenas Predição do Modelo (L5)
-nav_order: 282
+nav_order: 368
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,74 +29,70 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Inositol: De Suplemento Nutricional à Trombose Primitiva da Veia Porta
+# Inositol: Das indicações lipídicas e nutricionais à trombose portal primitiva (previsão computacional)
 
 ## Resumo em Uma Frase
 
-Inositol (myo-inositol) é um composto de ocorrência natural com papel reconhecido como precursor dos fosfatidilinositóis (PI) na sinalização celular, amplamente utilizado como suplemento nutricional. O modelo TxGNN prevê que pode ser eficaz para **Trombose Primitiva da Veia Porta (Primitive Portal Vein Thrombosis)**, porém esta previsão não conta com **nenhum ensaio clínico** nem **publicação específica** de suporte — e apresenta forte indicativo de viés de agrupamento (*cluster bias*) do modelo.
-
----
+Inositol foi originalmente associado ao tratamento de condições como pelagra, beribéri, hipertrigliceridemia, hiperlipidemia familiar combinada e hipoalfalipoproteinemia.
+O modelo TxGNN prevê que pode ser eficaz para **Trombose da Veia Porta Primitiva (primitive portal vein thrombosis)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção, ou seja, é apenas uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Suplemento nutricional (detalhes regulatórios indisponíveis nos registros) |
-| Nova Indicação Prevista | Trombose Primitiva da Veia Porta (Primitive Portal Vein Thrombosis) |
+| Indicação Original | Pelagra, beribéri, hipertrigliceridemia, hiperlipidemia familiar combinada, hipoalfalipoproteinemia (conforme o grafo de conhecimento; não há texto de indicação aprovada no Brasil) |
+| Nova Indicação Prevista | Trombose da veia porta primitiva (primitive portal vein thrombosis) |
 | Pontuação de Previsão TxGNN | 99,98% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação (MOA) formal disponíveis neste pacote de evidências. Com base no conhecimento científico estabelecido, inositol — especificamente myo-inositol — é um precursor essencial dos fosfatidilinositóis (PI), lipídios de membrana que atuam como segundos mensageiros em diversas vias de sinalização intracelular, incluindo PI3K/Akt e PLC-IP3. Esta participação na sinalização de membrana fornece uma base teórica geral para investigação em diversas doenças.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o inositol é um composto envolvido no metabolismo lipídico e na sinalização celular (via fosfoinositídeos e IP3), e as indicações originais registradas no grafo de conhecimento são lipídicas e nutricionais.
 
-A trombose primitiva da veia porta é uma condição extremamente rara, caracterizada pela formação de trombos no sistema portal sem causa identificável. A ligação com inositol é puramente teórica: como precursor dos PI, myo-inositol poderia, em tese, influenciar a via de sinalização plaquetária envolvida na trombogênese — uma vez que o sistema PI participa da agregação plaquetária e da cascata de coagulação. No entanto, não existe nenhum estudo mecanístico dirigido, modelo animal ou dado clínico que suporte especificamente este uso.
+Os dados compilados para este relatório **não sustentam um vínculo mecanístico** entre o inositol e a trombose da veia porta. A pontuação do modelo é muito alta (99,98%), mas é idêntica à de várias outras doenças hepáticas e portais (cirrose associada ao cobre, hipertensão portal familiar não cirrótica, síndrome hepatopulmonar, esclerose hepatoportal), o que sugere um artefato computacional e não um sinal biológico específico. Não há ensaios clínicos nem literatura para essa indicação.
 
-> ⚠️ **Alerta de viés de modelo:** As pontuações TxGNN para os ranks 1 a 5 são **idênticas** (0.9997956), cobrindo cinco doenças hepáticas/portais completamente distintas. Este padrão é fortemente indicativo de *cluster bias* — o modelo agrupou doenças por similaridade topológica no grafo, não por mecanismo farmacológico real. A interpretação clínica desta previsão deve ser feita com extrema cautela.
-
----
+Outras previsões do mesmo fármaco apresentam algum respaldo indireto:
+- **Hiperlipoproteinemia** (pontuação 99,40%, nível L3): é a mais próxima das indicações originais. Há estudos clínicos antigos (1976–1983) com a combinação de clofibrato e nicotinato de inositol, que reduziram colesterol e triglicerídeos. Contudo, o efeito é confundido pelo clofibrato e pelo éster de ácido nicotínico, e a indicação se sobrepõe às já existentes, portanto não é um reposicionamento realmente novo.
+- **Insuficiência cardíaca congestiva** (pontuação 99,44%, nível L4): a literatura é majoritariamente pré-clínica ou mecanística. Um estudo de coorte de 2024 relata mio-inositol plasmático elevado em pacientes com insuficiência cardíaca, o que é uma associação de biomarcador e pode até indicar direção oposta à benéfica.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para trombose primitiva da veia porta.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada para trombose primitiva da veia porta.
-
----
+Atualmente não há literatura relacionada para a indicação principal (trombose da veia porta primitiva).
 
 ## Informações de Comercialização no Brasil
 
-Há **20 registros** de inositol no mercado brasileiro. Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não foram carregados neste Evidence Pack e precisam ser obtidos diretamente via consulta à base de dados regulatória.
-
----
+O inositol não possui registros ativos na ANVISA nos dados compilados (0 registros; situação: não comercializado).
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento TxGNN** (não provêm de bula): doença hepática, doença da vesícula biliar, trombocitopenia, hiperglicemia, úlcera péptica, diabetes mellitus, cetoacidose diabética, distúrbios hipotensivos, gota, abuso/dependência de substâncias, distúrbios da coagulação sanguínea, síndrome coronariana aguda, doença arterial coronariana, AVC e doenças cerebrovasculares (incluindo infarto cerebral e oclusão de artéria cerebral), infarto do miocárdio, trombose coronariana, hemoglobinopatias e hipofosfatemia.
+- **Relevância para a indicação prevista:** as contraindicações de doença hepática e de distúrbios da coagulação merecem atenção especial em um cenário de trombose portal.
+- Não foram encontradas interações medicamentosas nos dados consultados.
 
----
+Consulte a bula para advertências e contraindicações formais, pois o texto aprovado pela ANVISA não estava disponível.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Esta previsão apresenta nível de evidência L5 (exclusivamente computacional, sem suporte empírico de qualquer tipo) e exibe um padrão de pontuação idêntica em cinco doenças distintas — sinal inequívoco de viés de agrupamento do modelo TxGNN. A trombose primitiva da veia porta é uma condição extremamente rara para a qual não existe nenhum estudo envolvendo inositol, tornando prematuro qualquer avanço nesta direção.
+- A previsão principal (trombose da veia porta primitiva) baseia-se apenas em pontuação do modelo, sem ensaios, sem literatura e sem vínculo mecanístico documentado; a pontuação é idêntica à de várias outras condições hepáticas, o que enfraquece sua especificidade.
+- O fármaco não está comercializado no Brasil e as contraindicações do grafo incluem doença hepática e distúrbios da coagulação.
 
 **Para prosseguir, é necessário:**
-- Obter dados de MOA via DrugBank API (DB13178) para verificar mecanismo de ação formal
-- Obter detalhes dos 20 registros regulatórios (indicações aprovadas, formas farmacêuticas) via consulta direta à base regulatória
-- Investigar e documentar o viés de agrupamento do modelo para o cluster hepático/portal antes de interpretar qualquer previsão neste grupo
-- Caso haja interesse em reposicionamento de inositol, priorizar indicações com maior evidência empírica disponível no pack: **hiperlipoproteinemia** (rank 8, L3, 10 publicações com inositol nicotinato) ou **insuficiência cardíaca congestiva** (rank 7, L4, 20 publicações — incluindo dado prospectivo adverso em HFpEF que requer avaliação cuidadosa antes de qualquer desenvolvimento)
+- Dados do mecanismo de ação (por exemplo, consulta à API do DrugBank)
+- Bula da ANVISA com advertências e contraindicações, para a triagem de segurança
+- Revisão sistemática da literatura sobre inositol e trombose/hipertensão portal
+- Avaliação de candidatas alternativas com mais respaldo (hiperlipoproteinemia, com estudos isolados de inositol sem clofibrato; insuficiência cardíaca, apenas como questão de pesquisa)
+- Avaliação de compatibilidade de vias de administração e de situação regulatória no Brasil
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

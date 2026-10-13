@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Levofloxacin
-parent: Evidência Moderada (L3-L4)
-nav_order: 315
-evidence_level: L4
+parent: Apenas Predição do Modelo (L5)
+nav_order: 410
+evidence_level: L5
 indication_count: 10
 ---
 
 # Levofloxacin
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,73 +29,74 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Levofloxacin: De infecções bacterianas a ceratoconjuntivite epitelial punctata
+# Levofloxacino: De infecções bacterianas para ceratoconjuntivite epitelial punctata
 
 ## Resumo em Uma Frase
 
-Levofloxacin é um antibiótico fluoroquinolona amplamente utilizado no tratamento de infecções bacterianas, com formulação oftálmica já aprovada para conjuntivite bacteriana e úlcera corneana bacteriana.
-O modelo TxGNN prevê que pode ser eficaz para **Ceratoconjuntivite Epitelial Punctata (Punctate Epithelial Keratoconjunctivitis)**, atualmente com **0 ensaios clínicos** e **1 publicação** apoiando esta direção.
-
----
+Levofloxacino é um antibiótico da classe das fluoroquinolonas, originalmente usado no tratamento de infecções bacterianas, como pneumonia, sinusite maxilar, conjuntivite, pielonefrite e infecção por antraz.
+O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)**, mas a previsão tem apenas **1 publicação** associada (um relato de surto de ceratoconjuntivite microsporidiana, que não demonstra eficácia) e **nenhum ensaio clínico** registrado.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções bacterianas (trato respiratório, urinário e ocular) |
-| Nova Indicação Prevista | Ceratoconjuntivite Epitelial Punctata (Punctate Epithelial Keratoconjunctivitis) |
-| Pontuação de Previsão TxGNN | 99.92% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Indicação Original | Infecções bacterianas (infecção estreptocócica, pneumonia bacteriana, infecção por antraz, infecção estafilocócica, sinusite maxilar, conjuntivite, pielonefrite, entre outras) |
+| Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
+| Pontuação de Previsão TxGNN | 99,92% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
----
+> Observação: a indicação original vem das relações de indicação do grafo de conhecimento do TxGNN, e não de texto de bula, pois não há registros ANVISA nos dados compilados.
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste pacote de evidências. Segundo informações amplamente conhecidas na literatura científica, o Levofloxacin é um antibiótico da classe das fluoroquinolonas que age inibindo duas enzimas bacterianas essenciais: a DNA gyrase (topoisomerase II) e a topoisomerase IV. Essa dupla inibição impede a replicação e a transcrição do DNA bacteriano, resultando em morte celular. Já existe formulação oftálmica de Levofloxacin aprovada para o tratamento de conjuntivite bacteriana e úlcera corneana bacteriana, demonstrando penetração ocular eficaz.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, levofloxacino pertence à classe das fluoroquinolonas, que inibem a DNA girase e a topoisomerase IV bacterianas. Sua eficácia em infecções bacterianas, incluindo conjuntivite, está estabelecida.
 
-A Ceratoconjuntivite Epitelial Punctata (PEK) é uma inflamação da córnea e conjuntiva caracterizada por múltiplas lesões punctatas no epitélio corneal. Sua etiologia é multifatorial: pode ser desencadeada por vírus (principalmente adenovírus), bactérias, agentes físico-químicos ou permanecer de causa indeterminada — como na Ceratoconjuntivite Epitelial Punctata de Thygeson, de origem desconhecida. Em casos de etiologia bacteriana comprovada, o mecanismo antibacteriano do Levofloxacin seria teoricamente aplicável, dada a sobreposição com infecções oculares já tratadas pelo fármaco.
+A relação com a nova indicação é, na melhor das hipóteses, indireta. Como o levofloxacino já é usado em formulações oftálmicas tópicas para conjuntivite bacteriana, a exposição ocular é plausível. Contudo, a única publicação recuperada trata de um surto de ceratoconjuntivite por microsporídios associado à contaminação de piscinas em Taiwan. Os microsporídios não são sensíveis às fluoroquinolonas no sentido habitual, de modo que o artigo **não sustenta eficácia**.
 
-Entretanto, a única publicação identificada neste conjunto de dados (PMID 30055152) descreve um surto de ceratoconjuntivite por **microsporídios** — organismos parasitários — associado à contaminação de piscinas em Taiwan. Fluoroquinolonas não possuem atividade estabelecida contra microsporídios, o que torna o embasamento desta previsão frágil com as evidências atualmente disponíveis. Não há ensaios clínicos registrados, e a justificativa mecanística permanece especulativa para as formas não bacterianas de PEK.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
+A pontuação muito alta do TxGNN (99,92%) é apenas uma previsão computacional baseada em proximidade no grafo de conhecimento, sem confirmação experimental ou clínica.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Investigação de Surto / Série de Casos | American Journal of Ophthalmology | Relato de surto de ceratoconjuntivite por microsporídios associada à contaminação de piscinas em Taiwan; o Levofloxacin não é o tratamento indicado para infecções por microsporídios |
+| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Relato de surto | American Journal of Ophthalmology | Descreve um surto de ceratoconjuntivite microsporidiana ligado à água contaminada de piscinas em Taiwan; não avalia o levofloxacino como tratamento |
 
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações e condições de risco (grafo de conhecimento, não texto de bula)**: síndrome do QT longo (inclusive familiar), torsades de pointes, epilepsia, doença hepática e lesão hepática induzida por fármacos, doença da vesícula biliar, trombocitopenia, leucopenia, pancitopenia, anemia, deficiência de potássio, tendinite e outras afecções tendinosas/periarticulares, diabetes mellitus e cetoacidose diabética, neuropatia periférica e doenças do sistema nervoso periférico, rabdomiólise, colite por *Clostridium difficile*, enterocolite necrosante perinatal, insuficiência renal, miastenia gravis e doenças da junção neuromuscular, isquemia miocárdica e doença arterial coronariana.
+- **Interações medicamentosas** (100 interações identificadas; exemplos de maior gravidade):
+  - Gravidade **maior**: tramadol, hidrocortisona.
+  - Gravidade **moderada**: abiraterona, acarbose, famotidina, formoterol, cetorolaco, adenosina, ibuprofeno, etinilestradiol, metformina, pioglitazona, salbutamol, alfuzosina, alogliptina, amifampridina, entre outros.
+  - Gravidade **menor**: paclitaxel, aldesleucina, altretamina.
 
----
+Para advertências e contraindicações de bula, consulte a bula aprovada, pois não foram obtidas nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Embora a formulação oftálmica do Levofloxacin tenha eficácia comprovada em infecções oculares bacterianas — o que confere plausibilidade mecanística parcial para a PEK de etiologia bacteriana —, a única evidência encontrada neste conjunto de dados refere-se a uma infecção parasitária por microsporídios, para a qual fluoroquinolonas não são indicadas. A ausência de ensaios clínicos e o nível de evidência L4 não suportam avanço imediato.
+- A previsão não tem nenhum ensaio clínico e a única publicação não apoia eficácia do levofloxacino (microsporídios não são sensíveis a fluoroquinolonas). O nível de evidência é L5 e o fármaco não está comercializado no Brasil, segundo os dados compilados.
 
 **Para prosseguir, é necessário:**
-- Busca bibliográfica direcionada sobre o papel de antibióticos tópicos especificamente em PEK de etiologia bacteriana confirmada
-- Verificação das formulações oftálmicas de Levofloxacin já registradas na ANVISA (20 registros existentes, sem detalhamento disponível neste pacote)
-- Obtenção dos dados completos de advertências, contraindicações e MOA da bula ANVISA (lacunas identificadas como DG001 e DG002)
-- Avaliação clínica para delimitar o subtipo de PEK (bacteriana vs. viral vs. Thygeson's) antes de qualquer protocolo de uso
+- Revisão da literatura sobre o tratamento da ceratoconjuntivite epitelial punctata (etiologia viral, microsporidiana ou outra) e avaliação de se há papel para um antibacteriano.
+- Dados de mecanismo de ação (MOA) e de bula da ANVISA (advertências e contraindicações), que estão ausentes.
+- Verificação da situação regulatória no Brasil (nenhum registro nos dados compilados) e da compatibilidade de via/forma farmacêutica (formulação oftálmica).
+- Estudos pré-clínicos ou ensaios exploratórios, caso haja justificativa biológica.
 
-> **Nota clínica relevante:** Entre as 10 indicações previstas pelo TxGNN para o Levofloxacin, a indicação de **Gamopatia Monoclonal / Profilaxia em Mieloma Múltiplo** (rank 7) apresenta nível de evidência **L1**, sustentado por 1 Phase 3 RCT publicado no *Lancet Oncology* (TEAMM trial, PMID 31668592) e múltiplos estudos de coorte. Esta indicação possui fundamentação mecanística sólida e pode merecer um relatório dedicado de avaliação prioritária.
+## Observação sobre Outras Previsões do Modelo
+
+Entre as demais previsões de maior pontuação, duas merecem registro:
+
+- **Gamopatia monoclonal** (pontuação 99,81%): há evidência de nível L1, com o ensaio de fase 3 TEAMM (PMID 31668592), duplo-cego e controlado por placebo, em mieloma recém-diagnosticado. Ele mostrou que o levofloxacino reduz episódios febris e mortes nas primeiras 12 semanas, mas como **profilaxia de infecções**, e não como tratamento da doença plasmocitária. Os dados são de mieloma sintomático, não de gamopatia monoclonal de significado indeterminado (MGUS). Classificação: questão de pesquisa.
+- **Peste septicêmica** (pontuação 99,80%): evidência de nível L3, baseada em modelos animais (macaco-verde-africano, camundongo) que sustentaram a aprovação da FDA pela Regra do Animal. Os dados em camundongos são mistos, os mais fortes se referem à peste pneumônica, e o atraso no tratamento reduz a eficácia. Decisão em nível de candidato: Proceed with Guardrails.
+
+As demais previsões (hiperviscosidade policlonal, hiperamilasemia, analbuminemia congênita, incompatibilidade de grupo sanguíneo, doença hematológica pré-maligna, neuropatia periférica hematológica e distúrbio hematológico congênito) não têm base mecanística ou literatura de apoio, e a previsão de neuropatia periférica entra em conflito com o perfil de segurança conhecido das fluoroquinolonas.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

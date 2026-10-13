@@ -2,7 +2,7 @@
 layout: default
 title: Potassium Bicarbonate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 405
+nav_order: 538
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,71 +29,64 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Bicarbonato de Potássio: De Suplemento Eletrolítico para Gastroduodenite
+# Bicarbonato de Potássio: De antiácido para gastroduodenite
 
 ## Resumo em Uma Frase
 
-Bicarbonato de Potássio (KHCO₃) é um composto inorgânico alcalino utilizado principalmente como suplemento de potássio e agente tamponante, sem indicações formalmente registradas no Brasil.
+O bicarbonato de potássio foi originalmente registrado no Brasil como antiácido.
 O modelo TxGNN prevê que pode ser eficaz para **Gastroduodenite (Gastroduodenitis)**,
-porém, atualmente, **nenhum ensaio clínico** e **nenhuma publicação** apoiam diretamente esta direção — a evidência é inteiramente baseada na previsão computacional.
-
----
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Sem indicação aprovada registrada no Brasil |
+| Indicação Original | Antiácido |
 | Nova Indicação Prevista | Gastroduodenite (Gastroduodenitis) |
 | Pontuação de Previsão TxGNN | 99,72% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 1 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação formal do Bicarbonato de Potássio no DrugBank. Do ponto de vista químico, sabe-se que o KHCO₃ é um sal alcalino que, em contato com ácido clorídrico gástrico, realiza uma reação de neutralização: **KHCO₃ + HCl → KCl + H₂O + CO₂**. Essa propriedade tamponante poderia, em tese, reduzir a irritação ácida sobre a mucosa gastroduodenal, justificando a associação com gastroduodenite.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o bicarbonato de potássio é um agente alcalinizante que neutraliza o ácido gástrico, o que fundamenta sua indicação original como antiácido.
 
-A relação com a indicação prevista é de ordem mecanística indireta: compostos alcalinos similares (como o bicarbonato de sódio) são usados empiricamente como antiácidos, e a gastroduodenite está frequentemente associada ao excesso de ácido ou à erosão da mucosa por agentes ácidos. A suplementação adequada de potássio também pode, de forma acessória, apoiar a função das células da mucosa gástrica.
+Essa ação oferece uma justificativa sintomática plausível para a gastroduodenite, na qual a irritação da mucosa relacionada ao ácido contribui para os sintomas. A indicação prevista, portanto, se sobrepõe de perto à indicação original, e a previsão pode ser vista mais como uma extensão do uso existente do que como um reposicionamento genuíno.
 
-Contudo, o próprio sistema classifica este raciocínio como **inferência química indireta**, sem nenhuma base em estudos clínicos ou pré-clínicos. O bicarbonato de potássio tem sido muito menos estudado que o bicarbonato de sódio para uso gastrointestinal, e o excesso de alcalinização pode interferir na fisiologia gastrointestinal normal. A previsão do TxGNN, embora matematicamente elevada (99,72%), reflete padrões de similaridade no grafo de conhecimento — não validação clínica.
+Há ressalvas importantes: a pontuação elevada do TxGNN (0,997) é apenas uma previsão computacional. A atividade antiácida, no máximo, alivia sintomas e não trata causas subjacentes, como infecção por *H. pylori*, lesão por anti-inflamatórios não esteroidais (AINEs) ou outras etiologias.
 
----
+## Informações de Comercialização no Brasil
 
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 173900005 (cancelado) | LUFTAGASTRO | Não informada | Antiácido |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (não extraídas da bula)**: insuficiência cardíaca congestiva, anúria, bloqueio atrioventricular, paralisia periódica hipercalêmica, paralisia periódica, hipoaldosteronismo e miotonia congênita. Essas associações vêm das relações do grafo de conhecimento PrimeKG e devem ser confirmadas na bula. O componente potássio explica a preocupação com hipercalemia nesses quadros.
+- **Interações medicamentosas**: foram identificadas 59 interações no total. As principais, de gravidade **Maior**, incluem:
+  - Inibidores da ECA: fosinopril, benazepril, captopril, enalapril
+  - Bloqueadores do receptor de angiotensina: olmesartana, valsartana, azilsartana medoxomila, eprosartana
+  - Diuréticos poupadores de potássio e antagonistas da aldosterona: amilorida, espironolactona, eplerenona
 
----
+  Interações de gravidade **Moderada** incluem AINEs (cetorolaco, ibuprofeno, diclofenaco, oxaprozina, bromfenaco, diflunisal, etodolaco), além de alisquireno e drospirenona. De modo geral, a combinação com fármacos que elevam o potássio sérico exige cautela pelo risco de hipercalemia.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O nível de evidência é L5 — a indicação de gastroduodenite é suportada exclusivamente pela previsão do modelo TxGNN, sem nenhum ensaio clínico, estudo pré-clínico ou publicação científica identificados. Adicionalmente, o fármaco não está comercializado no Brasil e não possui indicação aprovada em nenhum registro nacional, o que eleva a barreira regulatória para qualquer iniciativa de desenvolvimento.
+Não há ensaios clínicos nem literatura que sustentem a previsão (nível L5). A indicação prevista praticamente coincide com a original, e o único registro brasileiro está cancelado. Além disso, há alertas de segurança relevantes relacionados ao potássio.
 
 **Para prosseguir, é necessário:**
-- Levantamento de estudos pré-clínicos (modelos animais de gastroduodenite com bicarbonato de potássio ou compostos alcalinos análogos) para elevar o nível de evidência para pelo menos L4
-- Descrição formal do mecanismo de ação (MOA) via consulta ao DrugBank API ou literatura farmacológica
-- Avaliação de segurança detalhada: advertências, contraindicações e interações medicamentosas a partir da bula ou fontes regulatórias
-- Análise comparativa com bicarbonato de sódio (composto análogo mais estudado) para fundamentar translação mecanística
-- Estudo de viabilidade regulatória no Brasil antes de qualquer investimento em desenvolvimento clínico
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
+- Obter os dados de mecanismo de ação no DrugBank
+- Fazer busca sistemática de ensaios clínicos e literatura sobre gastroduodenite
+- Avaliar se há real valor de reposicionamento, dado que a indicação se sobrepõe à antiácida original
+- Esclarecer o motivo do cancelamento do registro e a viabilidade regulatória de nova comercialização
+- Definir forma farmacêutica e via de administração compatíveis com a nova indicação
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Meloxicam
 parent: Apenas Predição do Modelo (L5)
-nav_order: 341
+nav_order: 440
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,93 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Meloxicam: Da artrite à displasia acromesomélica de Hunter-Thompson
+# Meloxicam: De artrite reumatoide e osteoartrite para a síndrome de displasia acromesomélica tipo Hunter-Thompson
 
 ## Resumo em Uma Frase
 
-Meloxicam é um anti-inflamatório não esteroidal (AINE) com ação preferencial sobre COX-2, amplamente utilizado no tratamento de doenças inflamatórias articulares como artrite reumatoide, osteoartrite e espondilite anquilosante.
-O modelo TxGNN prevê que pode ser eficaz para **Displasia Acromesomélica tipo Hunter-Thompson (Acromesomelic Dysplasia, Hunter-Thompson Type)**, porém esta previsão conta atualmente com **0 ensaios clínicos** e **0 publicações** de suporte direto.
-
----
+Meloxicam é um anti-inflamatório não esteroidal (AINE) com preferência pela COX-2, originalmente usado em condições articulares como artrite reumatoide, osteoartrite e artrite idiopática juvenil.
+O modelo TxGNN prevê que pode ser eficaz para **displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Artrite reumatoide, osteoartrite, espondilite anquilosante |
-| Nova Indicação Prevista | Displasia Acromesomélica tipo Hunter-Thompson (Acromesomelic Dysplasia, Hunter-Thompson Type) |
-| Pontuação de Previsão TxGNN | 99.92% |
+|------|------|
+| Indicação Original | Artrite reumatoide, osteoartrite e artrite idiopática juvenil (conforme o grafo de conhecimento do TxGNN; não há texto de indicação de registro no Brasil) |
+| Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
+| Pontuação de Previsão TxGNN | 99,92% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. De acordo com o conhecimento farmacológico estabelecido, Meloxicam é um inibidor preferencial de COX-2 que reduz a síntese de prostaglandinas — mediadores centrais da inflamação, da dor e da febre. Sua eficácia em condições articulares inflamatórias é bem documentada e fundamentada neste mecanismo.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o meloxicam é um AINE com preferência pela COX-2, que reduz a produção de prostaglandinas e, assim, alivia inflamação e dor articular. Sua eficácia em doenças articulares inflamatórias é conhecida.
 
-A displasia acromesomélica tipo Hunter-Thompson é uma condição genética rara causada por mutações no gene **GDF5**, resultando em encurtamento desproporcionado dos segmentos distais dos membros (antebraço e perna) durante o desenvolvimento. Trata-se de uma doença estrutural do esqueleto, sem componente inflamatório primário como causa subjacente.
+A displasia acromesomélica tipo Hunter-Thompson é uma displasia esquelética rara, causada por mutações de perda de função em CDMP1/GDF5, que comprometem a formação da cartilagem (condrogênese). Não há mecanismo plausível pelo qual o meloxicam corrija esse defeito do fator de crescimento. No máximo, poderia oferecer alívio sintomático inespecífico da dor.
 
-O vínculo mecanístico entre Meloxicam e esta condição é **fraco**: a inibição de COX-2 pode, teoricamente, aliviar a inflamação secundária em articulações afetadas pela displasia, mas não tem capacidade de corrigir o defeito genético subjacente — que é o verdadeiro determinante da doença. A alta pontuação do TxGNN (99,92%) provavelmente reflete a proximidade estrutural entre nós de doenças ósseas e nós de agentes anti-inflamatórios no grafo de conhecimento, e não uma relação biológica direta com a patogênese da displasia.
+A pontuação alta (99,92%) provavelmente reflete a proximidade na rede do conhecimento com fenótipos esqueléticos e articulares, e não um vínculo terapêutico real. Esta previsão deve ser tratada com cautela.
 
----
+## Outras Previsões do Modelo
+
+Entre as 10 principais previsões, quase todas carecem de ensaios clínicos e literatura:
+
+| Posição | Indicação prevista | Pontuação | Nível | Comentário |
+|------|------|------|------|------|
+| 2 | Síndrome braquiolmia-amelogênese imperfeita | 99,92% | L5 | Sem mecanismo COX-2 conhecido |
+| 3 | Miosclerose | 99,90% | L5 | Possível alívio da dor, sem evidência de modificação da doença |
+| 4 | Braquiolmia | 99,89% | L5 | Sem fator inflamatório a ser alvo |
+| 5 | Pseudoacondroplasia | 99,81% | L5 | AINEs são usados para dor articular, mas sem evidência específica |
+| 6 | Espondiloartropatia (suscetibilidade) | 99,52% | L5 | Sobreposição com a indicação já conhecida |
+| 7 | Nodulose reumatoide | 99,51% | L5 | Plausibilidade indireta via artrite reumatoide |
+| 8 | Artrite idiopática juvenil poliarticular FR-positiva | 99,44% | L4 | Dentro da família de AIJ; única literatura indireta |
+| 9 | Síndrome WHIM | 99,38% | L5 | Sem relação com a via CXCR4 |
+| 10 | Síndrome de microftalmia colobomatosa-displasia rizomélica | 99,36% | L5 | Sem mecanismo plausível |
+
+A previsão mais próxima de uma hipótese coerente é a AIJ poliarticular FR-positiva (posição 8), por estar dentro da família da indicação já conhecida.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+Atualmente não há literatura relacionada para a indicação principal.
 
----
+Para a previsão de posição 8 (AIJ poliarticular FR-positiva), há uma publicação indireta:
 
-## Informações de Comercialização no Brasil
-
-O Meloxicam possui **20 registros** ativos na ANVISA e está comercializado no mercado brasileiro. Os detalhes individuais dos registros (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis nesta versão do Evidence Pack e devem ser consultados diretamente no portal da ANVISA.
-
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [25057265](https://pubmed.ncbi.nlm.nih.gov/25057265/) | 2014 | Coorte/estudo de segurança (classe AINE) | Pediatric Rheumatology Online Journal | Registro de fase 4 que avaliou a segurança de longo prazo e dados de desenvolvimento em pacientes com AIJ tratados com celecoxibe ou AINEs não seletivos |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Contraindicações (do grafo de conhecimento, não do texto da bula):** hipertensão, doença renal e insuficiência renal, insuficiência cardíaca congestiva, doenças cardiovasculares e cardíacas, infarto do miocárdio, trombose coronariana, acidente vascular cerebral e doenças cerebrovasculares, infarto cerebral, úlcera péptica ativa, gastrite, distúrbios da coagulação, anemia e hemoglobinopatias, diabetes mellitus e cetoacidose diabética, hiperlipidemia (incluindo familiar), abuso/dependência de substâncias e piureter.
+- **Interações Medicamentosas:** 100 interações registradas; entre as exibidas, a maioria é de gravidade moderada:
+  - Corticosteroides (hidrocortisona, triamcinolona, dexametasona, betametasona, budesonida)
+  - Ácido acetilsalicílico
+  - Antidiabéticos (metformina, clorpropamida, glimepirida)
+  - Mesalazina e balsalazida
+  - Aprepitanto
+  - Vancomicina e canamicina
+  - Citrato e bicarbonato de potássio
+  - Laxantes e preparos intestinais (ácido picossulfúrico, polietilenoglicol com eletrólitos, sulfato de sódio)
+  - Interação de gravidade leve: linaclotida
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para displasia acromesomélica tipo Hunter-Thompson baseia-se exclusivamente no modelo computacional (Nível L5 — sem estudos reais), e o vínculo mecanístico é fraco: Meloxicam não age sobre o defeito genético subjacente (mutação em GDF5), tornando esta indicação biologicamente implausível como terapia modificadora da doença. Vale notar que, entre as 10 previsões do modelo, as indicações de maior plausibilidade mecanística são **espondiloartropatia** (Rank 6, L4) e **artrite idiopática juvenil RF-positiva** (Rank 8, L4 — com 1 publicação de suporte), que merecem avaliação prioritária em próximas iterações.
+A previsão é apenas do modelo (L5), sem ensaios clínicos nem literatura. O mecanismo de ação do meloxicam não tem relação plausível com o defeito genético da displasia, e o fármaco não está comercializado no Brasil. As contraindicações cardiovasculares, renais e gastrointestinais também pesam contra uma nova indicação sem benefício claro.
 
 **Para prosseguir, é necessário:**
-- Obter dados detalhados dos registros ANVISA (número, nome comercial, forma farmacêutica e indicação aprovada)
-- Levantar o mecanismo de ação completo (MOA) via DrugBank API para confirmar perfil COX-2
-- Redirecionar a análise de reposicionamento para as indicações de maior suporte mecanístico (espondiloartropatia, JIA RF+), onde o perfil anti-inflamatório de Meloxicam é clinicamente relevante
-- Obter advertências e contraindicações da bula ANVISA para completar a avaliação de segurança (S1)
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), ainda ausente nos dados compilados
+- Obter dados do mecanismo de ação (MOA) no DrugBank
+- Realizar estudos pré-clínicos ou de mecanismo que justifiquem uma relação entre COX-2/prostaglandinas e a patologia
+- Priorizar, se houver interesse, a hipótese mais coerente (AIJ poliarticular FR-positiva), com revisão de estudos específicos do meloxicam
+- Avaliar a viabilidade regulatória, já que não há registro vigente no Brasil
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

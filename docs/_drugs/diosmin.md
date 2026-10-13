@@ -2,7 +2,7 @@
 layout: default
 title: Diosmin
 parent: Apenas Predição do Modelo (L5)
-nav_order: 224
+nav_order: 271
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,81 +29,80 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Com base no Evidence Pack fornecido, aqui está o relatório de avaliação completo:
-
----
-
-# Diosmin: Da Insuficiência Venosa Crônica à Amenorreia
+# Diosmina: De indicação original não documentada para amenorreia
 
 ## Resumo em Uma Frase
 
-Diosmin é um flavonoide venotônico amplamente utilizado no tratamento de insuficiência venosa crônica e hemorroidas.
-O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (Amenorrhea)**, com pontuação de 99,42%.
-Atualmente, **não há ensaios clínicos nem publicações** que apoiem esta direção — a previsão carece de respaldo clínico e a ligação mecanística é biologicamente implausível.
-
----
+A diosmina é um flavonoide venoativo, usado em geral em doenças venosas crônicas, mas sem indicação original registrada nos dados compilados para este relatório.
+O modelo TxGNN prevê que ela possa ser eficaz para **amenorreia (amenorrhea)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se de uma previsão puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Insuficiência venosa crônica, hemorroidas e varizes |
-| Nova Indicação Prevista | Amenorreia (Amenorrhea) |
+| Indicação Original | Não disponível nos dados compilados |
+| Nova Indicação Prevista | Amenorreia (amenorrhea) |
 | Pontuação de Previsão TxGNN | 99,42% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Diosmin é um flavonoide derivado da hesperidina, com perfil farmacológico venotônico e venoativo. Embora os dados de mecanismo de ação detalhado não estejam disponíveis no Evidence Pack atual, o conhecimento farmacológico consolidado indica que o Diosmin atua reduzindo a hiperpermeabilidade capilar, inibindo a ativação de células endoteliais, suprimindo a inflamação vascular e exercendo atividade antiplaquetária leve. Sua aplicação clínica estabelecida está restrita ao sistema venoso periférico.
+Atualmente, não há dados detalhados sobre o mecanismo de ação da diosmina. Segundo informações gerais, ela é um flavonoide venoativo, com efeitos sobre o tônus vascular e sobre a inflamação. Não há, porém, dados compilados que confirmem sua indicação original.
 
-A ligação mecanística entre Diosmin e amenorreia é biologicamente fraca. Amenorreia resulta de causas hormonais (ex: insuficiência ovariana, hiperprolactinemia), estruturais (ex: síndrome de Asherman) ou funcionais (ex: amenorreia hipotalâmica por estresse), todas afetando o eixo hipotálamo-hipófise-ovário — espectro completamente distinto do perfil venotônico do Diosmin. A previsão TxGNN provavelmente capturou um caminho topológico indireto no grafo de conhecimento ("congestão venosa uterina" → "irregularidade menstrual"), constituindo um falso positivo do modelo.
+Não foi identificada uma via plausível que ligue esses efeitos às causas endócrinas ou estruturais da amenorreia. A pontuação do TxGNN é alta (0,994), mas o resultado vem apenas de cálculo computacional: o ranking global da previsão é 3.817, e não há estudos que a sustentem.
 
-Destaca-se que, entre as 10 indicações avaliadas neste lote, **Trombofilia (rank 7, score 92,94%)** apresenta a conexão mecanística mais robusta e é a candidata mais promissora: o Diosmin possui atividade antiplaquetária documentada, protege o endotélio vascular (fator de risco trombótico primário) e exerce efeito anti-inflamatório que reduz o estado pró-coagulante. O estudo RIDILOTT DVT (PubMed 32348101) testou a combinação Diosmin + Rivaroxabana em trombose venosa profunda, oferecendo suporte clínico indireto relevante.
+Por isso, a razoabilidade mecanística desta previsão é **baixa** com os dados disponíveis. A similaridade com a indicação original também não pôde ser avaliada.
 
----
+## Outras Indicações Previstas (para referência)
+
+| Posição | Doença prevista | Pontuação TxGNN | Nível de Evidência | Observação |
+|------|------|------|------|------|
+| 2 | Distúrbio primário de liberação plaquetária | 94,41% | L5 | Efeitos menores da diosmina sobre a agregação plaquetária são relatados, mas sem estudos de apoio |
+| 3 | Pseudo-doença de von Willebrand | 94,25% | L5 | Sem vínculo conhecido com GPIb-IX-V ou fator de von Willebrand |
+| 4 | Deficiência de cofator 2 da heparina | 94,17% | L5 | Deficiência genética de proteína; sem evidência |
+| 5 | Excesso de fator V com trombose espontânea | 93,68% | L5 | Relevância indireta em doenças venosas, sem dados específicos |
+| 6 | Deficiência de antitrombina tipo 2 | 93,63% | L5 | Sem vínculo mecanístico ou clínico |
+| 7 | Trombofilia | 92,94% | L4 | Apenas apoio indireto e fraco (2 publicações não diretamente relacionadas) |
+| 8 | Trombastenia de Glanzmann | 92,74% | L5 | Defeito genético da integrina αIIbβ3; sem evidência |
+| 9 | Doença óssea de Paget | 92,53% | L5 | Existem terapias estabelecidas (bisfosfonatos) |
+| 10 | Malformação esofágica não sindrômica | 91,98% | L5 | Condição cirúrgica; mecanismo farmacológico implausível |
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para Diosmin em amenorreia.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada para Diosmin em amenorreia.
+Atualmente não há literatura relacionada para amenorreia.
 
----
+Observação: para a trombofilia (7ª previsão), foram recuperadas duas publicações, mas nenhuma delas estuda a diosmina como tratamento:
 
-## Informações de Comercialização no Brasil
-
-O Diosmin possui **20 registros** ativos junto à ANVISA e está atualmente comercializado no Brasil. Os detalhes específicos dos produtos (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis nesta versão do Evidence Pack. Recomenda-se consulta direta ao portal da ANVISA (https://consultas.anvisa.gov.br/) para obter a listagem completa.
-
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [33496999](https://pubmed.ncbi.nlm.nih.gov/33496999/) | 2021 | Coorte | Dermatologic Therapy | Série de 75 pacientes brasileiros com vasculopatia livedoide (clínica, histopatologia e terapia), em centro único da USP |
+| [24214586](https://pubmed.ncbi.nlm.nih.gov/24214586/) | 2013 | Estudo clínico de patogênese | Georgian Medical News | Em 94 gestantes com pré-eclâmpsia, observou-se trombofilia com maior agregação plaquetária e alterações da variabilidade da frequência cardíaca fetal |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+Consulte a bula para informações de segurança. Não foram encontradas interações medicamentosas nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão TxGNN de Diosmin para amenorreia apresenta nível de evidência L5 — baseada exclusivamente no modelo, sem qualquer suporte de ensaios clínicos ou literatura, e com mecanismo de ação biologicamente improvável. O alto score (99,42%) reflete conectividade topológica no grafo de conhecimento, não relevância clínica real. A indicação prioritária para investigação futura é **Trombofilia (rank 7)**, a única com evidência L4 e plausibilidade mecanística credível entre as 10 previsões avaliadas.
+A previsão para amenorreia tem pontuação alta no modelo, mas não conta com ensaios clínicos, literatura nem vínculo mecanístico plausível (nível L5). Além disso, a diosmina não possui registro ativo no Brasil nos dados compilados.
 
 **Para prosseguir, é necessário:**
-- Redirecionar a investigação para **Trombofilia** como indicação principal, com busca ativa de ensaios clínicos em DVT, trombofilia hereditária e síndrome antifosfolipídio
-- Obter dados completos de mecanismo de ação (MOA) via DrugBank API (lacuna classificada como severidade *High* no Evidence Pack)
-- Obter a bula via portal da ANVISA para preenchimento das advertências, contraindicações e forma farmacêutica dos 20 registros (lacuna classificada como *Blocking*)
-- Avaliar o estudo RIDILOTT DVT (PubMed 32348101) como ponto de partida para o dossiê de evidências em trombofilia
-- Reavaliar as previsões de rank 2–6 (distúrbios plaquetários e coagulopatias) com cautela: o perfil antiplaquetário do Diosmin pode representar **risco de agravamento** nessas indicações, não benefício
+- Obter os dados de mecanismo de ação (MOA) em fonte como o DrugBank
+- Obter as advertências e contraindicações da bula na ANVISA, o que bloqueia a triagem de segurança
+- Esclarecer a indicação original e a situação regulatória da diosmina no Brasil
+- Realizar uma revisão sistemática da literatura e estudos pré-clínicos que sustentem uma ligação entre diosmina e amenorreia
+- Avaliar se outra previsão, como a trombofilia (L4), tem melhor respaldo, ainda que fraco
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Calcipotriol
 parent: Evidência Moderada (L3-L4)
-nav_order: 152
+nav_order: 175
 evidence_level: L3
 indication_count: 10
 ---
@@ -29,86 +29,61 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Calcipotriol: Da Psoríase à Ceratose Seborreica
+# Calcipotriol: Da psoríase à queratose seborreica
 
 ## Resumo em Uma Frase
 
-Calcipotriol é um análogo sintético da vitamina D3, amplamente utilizado no tratamento tópico da psoríase em placa.
-O modelo TxGNN prevê que pode ser eficaz para **Ceratose Seborreica (Seborrheic Keratosis)**,
-atualmente com **0 ensaios clínicos registrados** e **6 publicações científicas** apoiando esta direção.
-
----
+Calcipotriol é um análogo da vitamina D3, usado topicamente em doenças hiperqueratóticas da pele, como a psoríase. Não há indicação original registrada na ANVISA nos dados compilados para este relatório.
+O modelo TxGNN prevê que ele pode ser eficaz para **queratose seborreica (seborrheic keratosis)**, atualmente com **0 ensaios clínicos** e **4 publicações** (séries de casos e relatos) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Psoríase em placa (uso tópico) |
-| Nova Indicação Prevista | Ceratose Seborreica (Seborrheic Keratosis) |
+| Indicação Original | Não registrada nos dados da ANVISA compilados para este relatório |
+| Nova Indicação Prevista | Queratose seborreica (Seborrheic Keratosis) |
 | Pontuação de Previsão TxGNN | 99,96% |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 4 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Calcipotriol é um análogo sintético do calcitriol (forma ativa da vitamina D3) que age através da ligação ao receptor de vitamina D (VDR — Vitamin D Receptor). Por meio do VDR, o fármaco inibe a proliferação de queratinócitos e induz a diferenciação e apoptose celular, com redução da expressão de PCNA (marcador de proliferação celular). Esses efeitos antiproliferativos e pró-diferenciadores são o mecanismo central pelo qual calcipotriol controla as lesões da psoríase.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo as informações da análise de reposicionamento, o calcipotriol é um análogo da vitamina D3 que ativa o receptor de vitamina D nos queratinócitos. Isso inibe a proliferação celular, favorece a diferenciação e induz apoptose.
 
-A ceratose seborreica é o tumor epitelial benigno mais comum, caracterizado por proliferação anormal e diferenciação aberrante de queratinócitos — mecanismo biologicamente análogo ao da psoríase. Como ambas as condições compartilham a via de hiperproliferação de queratinócitos, a ação do calcipotriol via VDR possui racionalidade mecanística direta para ceratose seborreica. A denominação alternativa "senile wart" (verruga senil), comum na literatura japonesa e asiática, corresponde exatamente à mesma entidade clínica.
+A queratose seborreica é um tumor epitelial benigno, de crescimento lento, comum em idosos e em áreas expostas ao sol. Esses efeitos sobre os queratinócitos explicam de forma plausível a regressão de lesões epidérmicas hiperqueratóticas benignas, como a queratose seborreica plana e as verrugas senis, relatada na literatura.
 
-A plausibilidade biológica é adicionalmente sustentada por séries de casos e estudos comparativos que demonstraram regressão completa de lesões faciais de ceratose seborreica após aplicação de pomada de calcipotriol 0,005%, com períodos de remissão prolongados (6 a 10 anos). O mecanismo proposto inclui indução de apoptose via VDR nas células tumorais benignas, com efeitos documentados de redução de proliferação celular.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados no ClinicalTrials.gov ou no ICTRP para calcipotriol em ceratose seborreica.
-
----
+A base de evidências é, porém, fraca: consiste em pequenas séries clínicas e relatos de casos, sem ensaios clínicos registrados. A relação com a indicação original não pôde ser avaliada, pois ela não consta nos dados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [36752725](https://pubmed.ncbi.nlm.nih.gov/36752725/) | 2023 | Estudo Clínico Prospectivo | Australas J Dermatol | Série de 12 pacientes com ceratose seborreica facial tratados com calcipotriol 0,005%: regressão completa em 3–8 meses; remissão de 6–10 anos |
-| [16043912](https://pubmed.ncbi.nlm.nih.gov/16043912/) | 2005 | Série de Casos / Estudo Mecanístico | J Dermatol | 116 casos tratados com vitamina D3 tópica (incluindo calcipotriol); 30,2% com resposta objetiva; mecanismo proposto: indução de apoptose |
-| [15090020](https://pubmed.ncbi.nlm.nih.gov/15090020/) | 2004 | Estudo Comparativo | Int J Dermatol | Comparação entre criocirurgia padrão vs. calcipotriol tópico, tazaroteno e imiquimod para ceratose seborreica; avalia eficácia relativa |
-| [15577148](https://pubmed.ncbi.nlm.nih.gov/15577148/) | 2004 | Série de Casos / Revisão | Clinical Calcium | Revisão do uso de vitamina D3 ativa (tacalcitol, calcipotriol, maxacalcitol) em verruga senil; suporte mecanístico e clínico |
-| [10721662](https://pubmed.ncbi.nlm.nih.gov/10721662/) | 2000 | Relato de Caso | J Dermatol | Resposta expressiva à pomada de calcipotriol em queratose liquenóide crônica com componente seborreico facial |
-| [21534378](https://pubmed.ncbi.nlm.nih.gov/21534378/) | 2011 | Vinheta Clínica / Relato de Caso | JAAPA | Caso clínico de ceratose seborreica pruriginosa nas pernas; revisão diagnóstica e terapêutica |
-
----
-
-## Informações de Comercialização no Brasil
-
-Calcipotriol possui **4 registros** ativos no Brasil com situação de comercialização confirmada. Os detalhes individuais dos registros (número, nome comercial, forma farmacêutica e texto de indicação) não estão disponíveis neste pacote de dados.
-
-> Para consultar os registros completos, acesse o portal de consulta de medicamentos da ANVISA em [consultas.anvisa.gov.br](https://consultas.anvisa.gov.br/).
-
----
+| [36752725](https://pubmed.ncbi.nlm.nih.gov/36752725/) | 2023 | Série de casos (estudo clínico) | Australas J Dermatol | 12 pacientes com queratose seborreica facial tratados com pomada de calcipotriol 0,005% por 3 a 8 meses; regressão completa das lesões e remissão por 6 a 10 anos |
+| [16043912](https://pubmed.ncbi.nlm.nih.gov/16043912/) | 2005 | Série clínica | J Dermatol | Vitamina D3 tópica (tacalcitol, calcipotriol ou maxacalcitol) em 116 casos de verrugas senis tratados por 3 a 12 meses; 35 (30,2%) apresentaram resposta, possivelmente por indução de apoptose |
+| [15577148](https://pubmed.ncbi.nlm.nih.gov/15577148/) | 2004 | Relato clínico | Clin Calcium | Tratamento de verrugas senis (queratose seborreica) com formas ativas de vitamina D3 tópica |
+| [10721662](https://pubmed.ncbi.nlm.nih.gov/10721662/) | 2000 | Relato de caso | J Dermatol | Resposta marcante à pomada de calcipotriol em queratose liquenoide crônica (distúrbio queratótico relacionado) |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Contraindicações (segundo o grafo de conhecimento TxGNN, não o texto da bula):** insuficiência adrenocortical e doença de Addison; hipercalcemia e outros distúrbios do metabolismo do cálcio e do fósforo; nefrocalcinose; calcinose e calcifilaxia; hipervitaminose; atrofia cutânea; telangiectasia e doenças vasculares periféricas; ictioses; doença de Darier; pseudoxantoma elástico; psoríase gutata.
+- **Interações Medicamentosas:** foram identificadas 84 possíveis interações, sem classificação de gravidade. Entre as listadas estão ácido acetilsalicílico, bupropiona, pantoprazol, doxiciclina, clotrimazol, morfina, metformina, omeprazol, rosiglitazona, lansoprazol, vancomicina, triancinolona, prednisona, hidrocortisona, sulfassalazina, prednisolona, glibenclamida, rabeprazol, claritromicina e sinvastatina.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Embora existam séries de casos e estudos comparativos pequenos que sugerem atividade clínica do calcipotriol tópico em ceratose seborreica — incluindo um estudo prospectivo com regressão completa e remissão prolongada —, a ausência total de ensaios clínicos controlados e randomizados impede uma recomendação de avanço neste momento. O mecanismo biológico é plausível e direto, mas o nível de evidência L3 exige geração de dados controlados antes de qualquer aplicação clínica.
+- A evidência é limitada a séries pequenas e relatos de casos (L3), sem ensaios clínicos registrados. O fármaco não possui registro ativo no Brasil nos dados compilados, e as informações de segurança da bula não estão disponíveis.
 
 **Para prosseguir, é necessário:**
-- Conduzir um ensaio clínico randomizado (Phase 2) comparando calcipotriol tópico 0,005% vs. placebo ou criocirurgia em ceratose seborreica
-- Obter dados completos de segurança e contraindicações da bula registrada na ANVISA
-- Detalhar o mecanismo de ação (MOA) via DrugBank para fortalecer a análise mecanística
-- Confirmar compatibilidade de via de administração (uso tópico já existente favorece viabilidade prática)
-- Definir endpoints objetivos de resposta (ex.: redução ≥50% da área da lesão, regressão completa)
+- Obter e analisar a bula na ANVISA (advertências e contraindicações) e confirmar a situação regulatória do calcipotriol no Brasil.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Realizar ensaio clínico controlado, de preferência randomizado, de calcipotriol tópico em queratose seborreica.
+- Avaliar a segurança de uso tópico, em especial o risco de hipercalcemia, e revisar as interações medicamentosas.
+
+*Observação: as demais indicações previstas (queratose folicular invertida vulvar, vulvovaginite, vulvite, neoplasias vulvares, úlcera vulvar, vaginite atrófica pós-menopausa, doença de Paget óssea e doença fibrocística da mama) têm evidência nula ou indireta (L4–L5) e recebem decisão **Hold**.*
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

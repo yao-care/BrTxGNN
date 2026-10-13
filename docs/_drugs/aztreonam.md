@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Aztreonam
-parent: Evidência Alta (L1-L2)
-nav_order: 93
-evidence_level: L2
+parent: Apenas Predição do Modelo (L5)
+nav_order: 103
+evidence_level: L5
 indication_count: 10
 ---
 
 # Aztreonam
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,69 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Aztreonam: De Infecções por Bactérias Gram-Negativas à Uretrite Gonocócica
+# Aztreonam: De infecções por bactérias gram-negativas à síndrome de hiperviscosidade policlonal
 
 ## Resumo em Uma Frase
 
-Aztreonam é um antibiótico monobactâmico utilizado no tratamento de infecções graves causadas por bactérias gram-negativas, incluindo infecções do trato urinário, pulmonares, septicemia e infecções intra-abdominais.
-O modelo TxGNN prevê que pode ser eficaz para **Uretrite Gonocócica (Gonococcal Urethritis)**, uma indicação com urgência clínica crescente diante do cenário global de resistência antimicrobiana à *Neisseria gonorrhoeae*.
-Atualmente, há **1 ensaio clínico** de Fase 2/3 concluído apoiando esta direção.
-
----
+Aztreonam é um antibiótico monobactâmico, originalmente usado em infecções por bactérias gram-negativas, como infecção do trato urinário, infecção por *Pseudomonas aeruginosa*, peritonite e infecção por *Escherichia coli*.
+O modelo TxGNN prevê que pode ser eficaz para **síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome)**, mas **não há ensaios clínicos nem publicações** apoiando esta previsão. A pontuação alta parece ser um artefato do grafo de conhecimento.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções por bactérias gram-negativas (ITU, infecções respiratórias baixas, septicemia, infecções de pele e intra-abdominais) |
-| Nova Indicação Prevista | Uretrite Gonocócica (Gonococcal Urethritis) |
-| Pontuação de Previsão TxGNN | 99,59% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 11 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Indicação Original | Infecção do trato urinário, infecção por *Pseudomonas aeruginosa*, peritonite, rinoscleroma, infecção por *E. coli*, endometrite (segundo o grafo de conhecimento do TxGNN; não há texto de indicação registrado no Brasil) |
+| Nova Indicação Prevista | Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) |
+| Pontuação de Previsão TxGNN | 99,73% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Aztreonam é o único antibiótico monobactâmico (beta-lactâmico monocíclico) disponível na prática clínica. Seu mecanismo de ação baseia-se na ligação seletiva à proteína ligadora de penicilina 3 (PBP3) de bactérias gram-negativas aeróbias, inibindo a síntese da parede celular e provocando lise bacteriana. Uma característica farmacológica marcante é sua seletividade exclusiva para microrganismos gram-negativos — sem atividade contra gram-positivos ou anaeróbios — e com reatividade cruzada mínima com outros beta-lactâmicos. Isso o torna especialmente valioso em pacientes com hipersensibilidade a penicilinas e cefalosporinas.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o aztreonam é um monobactâmico que inibe a síntese da parede celular bacteriana ao se ligar à PBP3 em aeróbios gram-negativos, e sua eficácia em infecções como as do trato urinário e a peritonite está estabelecida.
 
-A *Neisseria gonorrhoeae*, agente etiológico da gonorreia e da uretrite gonocócica, é um diplococco gram-negativo aeróbio — alvo direto do espectro antimicrobiano do Aztreonam. A gonorreia resistente a múltiplos antimicrobianos (MDRGC) tornou-se uma emergência de saúde pública global: o patógeno já desenvolveu resistência às fluoroquinolonas, às penicilinas e às tetraciclinas, e apresenta cepas com sensibilidade progressivamente reduzida ao ceftriaxone, atualmente o único agente de primeira linha com eficácia consistente. O CDC classificou *N. gonorrhoeae* resistente como uma das três ameaças antimicrobianas mais urgentes dos Estados Unidos.
+Para a nova indicação, **não existe um vínculo mecanístico plausível**. A síndrome de hiperviscosidade é um distúrbio hematológico, ligado a proteínas, e não uma infecção. A pontuação elevada do TxGNN (99,73%) parece refletir apenas proximidade na rede do grafo, sem respaldo em ensaios ou literatura.
 
-Neste contexto, o reposicionamento do Aztreonam para a uretrite gonocócica apresenta forte coerência mecanística: o fármaco atua sobre o mesmo alvo molecular (PBP) das cefalosporinas de terceira geração, porém com estrutura química distinta (monobactâmico vs. cefalosporina), o que abre a possibilidade de contornar determinados mecanismos de resistência já estabelecidos. A convergência entre a indicação original — infecções por gram-negativos em geral — e a nova indicação proposta — infecção por *N. gonorrhoeae* gram-negativa — é, portanto, biologicamente fundamentada e clinicamente motivada pela escassez de alternativas terapêuticas.
-
----
+Outras previsões do mesmo modelo também têm pontuações muito altas. Entre elas, a **uretrite gonocócica** (99,59%) é a única biologicamente plausível, com atividade contra *Neisseria gonorrhoeae*. Ela é apresentada abaixo como alternativa de pesquisa, mas a indicação principal deste relatório permanece a de maior pontuação.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT03867734](https://clinicaltrials.gov/study/NCT03867734) | Phase 2/3 | Concluído | 32 | Estudo de demonstração de Aztreonam para gonorreia faríngea por *N. gonorrhoeae* resistente a antimicrobianos; avaliou a viabilidade do fármaco como terapia alternativa diante do esgotamento das opções de primeira linha. Limitações: amostra pequena (n=32) e foco na localização faríngea — resultados devem ser extrapolados para uretrite com cautela |
-
----
+Atualmente não há ensaios clínicos relacionados registrados para a síndrome de hiperviscosidade policlonal.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada indexada especificamente para Aztreonam em uretrite gonocócica.
+Atualmente não há literatura relacionada para a síndrome de hiperviscosidade policlonal.
 
----
+## Outras Previsões Relevantes (Para Referência)
 
-## Informações de Comercialização no Brasil
-
-Aztreonam possui **11 registros** ativos no Brasil com situação de comercialização confirmada. Os dados individuais de cada registro (número, nome comercial, forma farmacêutica e texto da indicação aprovada) não estão disponíveis no presente Evidence Pack. Para consulta completa e atualizada, recomenda-se acesso direto ao banco de dados de registros da ANVISA (consulta.anvisa.gov.br).
-
----
+| Indicação Prevista | Pontuação | Nível | Comentário |
+|------|------|------|------|
+| Uretrite gonocócica | 99,59% | L3 | Plausível; estudos de braço único e não randomizados (incluindo um ensaio aberto de 2020 com 2 g IM, PMID [33077658](https://pubmed.ncbi.nlm.nih.gov/33077658/)) mostram eficácia; há relatos de resistência |
+| Epiglotite | 99,53% | L4 | Evidência indireta (série pediátrica de 1986, PMID [3766490](https://pubmed.ncbi.nlm.nih.gov/3766490/)) |
+| Gamopatia monoclonal | 99,50% | L4 | Apenas uso de suporte em infecções de pacientes hematológicos (PMID [4079014](https://pubmed.ncbi.nlm.nih.gov/4079014/)) |
+| Uretrite por *Ureaplasma* | 99,59% | L5 | Mecanismo contradito: *Ureaplasma* não tem parede celular |
+| Pielonefrite xantogranulomatosa | 99,49% | L5 | Plausível, mas sem evidência específica; o tratamento definitivo costuma ser cirúrgico |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento** (não são texto de bula): doença renal, piureter, doença hepática, doença da vesícula biliar, colite por *Clostridium difficile*, enterocolite necrosante perinatal e doença brônquica.
+- **Interações Medicamentosas**: foram identificadas 27 interações no total. As de nível moderado são com **ácido picosulfúrico**, **dicumarol** e **varfarina** (atenção ao monitoramento da coagulação). As demais, entre elas vancomicina, anfotericina B, amicacina, tacrolimo, heparina, ácido acetilsalicílico, morfina, inibidores de bomba de prótons (omeprazol, pantoprazol, lansoprazol), metronidazol, fluconazol, aciclovir e corticoides, têm gravidade não classificada.
 
----
+Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Existe um ensaio clínico de Fase 2/3 concluído que avaliou Aztreonam diretamente para infecção gonocócica, sustentado por forte racionalidade mecanística — *N. gonorrhoeae* é bactéria gram-negativa e alvo direto do espectro do fármaco. A progressão global da resistência antimicrobiana na gonorreia, com esgotamento das alternativas terapêuticas de primeira linha, confere urgência clínica e relevância estratégica a este reposicionamento.
+- A previsão para síndrome de hiperviscosidade policlonal não tem vínculo mecanístico, ensaios nem literatura (nível L5). O aztreonam não está comercializado no Brasil.
 
 **Para prosseguir, é necessário:**
-- Revisão detalhada dos resultados completos do NCT03867734 (taxa de cura microbiológica, desfechos de segurança e tolerabilidade)
-- Expansão dos estudos para avaliação específica em uretrite gonocócica, visto que o ensaio existente focou na localização faríngea
-- Dados de sensibilidade in vitro de isolados brasileiros de *N. gonorrhoeae* ao Aztreonam (CIM locais)
-- Consulta à bula registrada na ANVISA para informações completas de segurança, advertências e contraindicações
-- Avaliação do perfil de resistência cruzada com cefalosporinas de terceira geração em cepas circulantes no Brasil
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a triagem de segurança não pôde ser concluída.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Se houver interesse em reposicionamento, redirecionar a análise para a **uretrite gonocócica**, a candidata mais plausível. Isso exigiria ensaios controlados e randomizados, avaliação de resistência e comparação com as alternativas das diretrizes atuais.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

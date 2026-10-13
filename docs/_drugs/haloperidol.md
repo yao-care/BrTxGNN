@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Haloperidol
-parent: Evidência Alta (L1-L2)
-nav_order: 271
-evidence_level: L1
+parent: Apenas Predição do Modelo (L5)
+nav_order: 350
+evidence_level: L5
 indication_count: 10
 ---
 
 # Haloperidol
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,93 +29,65 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Haloperidol: Da esquizofrenia ao transtorno bipolar maníaco
+# Haloperidol: Dos transtornos psicóticos ao distúrbio congênito de glicosilação com fucosilação defeituosa
 
 ## Resumo em Uma Frase
 
-Haloperidol é um antipsicótico típico da classe das butirofenonas, originalmente desenvolvido e utilizado no tratamento da esquizofrenia e outros transtornos psicóticos.
-O modelo TxGNN prevê que pode ser eficaz para o **Transtorno Bipolar Maníaco (Manic Bipolar Affective Disorder)**, com **9 ensaios clínicos** (incluindo múltiplos estudos de Fase 3 concluídos) e **20 publicações** apoiando esta direção.
-Esta é a indicação prevista com maior suporte clínico nesta análise, classificada com nível de evidência **L1** e recomendação **Proceed with Guardrails**.
-
----
+Haloperidol é um antipsicótico típico, originalmente usado em transtornos psicóticos, esquizofrenia, transtorno esquizoafetivo e síndrome de Tourette.
+O modelo TxGNN prevê que pode ser eficaz para **distúrbio congênito de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosylation)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se de uma previsão exclusivamente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Esquizofrenia e transtornos psicóticos |
-| Nova Indicação Prevista | Transtorno Bipolar Maníaco (Manic Bipolar Affective Disorder) |
-| Pontuação de Previsão TxGNN | 99.83% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Indicação Original | Transtornos psicóticos, esquizofrenia, transtorno esquizoafetivo, síndrome de Tourette (conforme as indicações originais compiladas para este relatório) |
+| Nova Indicação Prevista | Distúrbio congênito de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosylation) |
+| Pontuação de Previsão TxGNN | 99,91% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados formais de mecanismo de ação disponíveis neste Evidence Pack. Com base em conhecimento farmacológico estabelecido, o haloperidol é um antagonista potente dos receptores D2 de dopamina (Ki ≈ 1 nM), pertencente à classe das butirofenonas — um dos primeiros grupos de antipsicóticos desenvolvidos. Seu mecanismo central é o bloqueio da via mesolímbica dopaminérgica, que medeia sintomas como alucinações, delírios e pensamento desorganizado na esquizofrenia.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o haloperidol é um antagonista dos receptores de dopamina D2, e sua eficácia em transtornos psicóticos e esquizofrenia está bem estabelecida.
 
-A hipótese dopaminérgica da mania propõe que episódios maníacos no transtorno bipolar são parcialmente sustentados por hiperatividade da mesma via mesolímbica que o haloperidol antagoniza na esquizofrenia. A transição de esquizofrenia → mania bipolar representa, portanto, uma extensão natural do mesmo alvo farmacológico — não uma mudança de mecanismo, mas uma aplicação do bloqueio D2 em outro contexto clínico onde a hiperdopaminergia é patogênica.
-
-Na prática clínica internacional, o haloperidol foi um dos primeiros fármacos utilizados no controle agudo de episódios maníacos, e sua posição como **comparador ativo** em múltiplos ensaios de Fase 3 de novos antipsicóticos confirma que ele é reconhecido como padrão de referência para esta indicação. A previsão do TxGNN valida, portanto, um uso clinicamente bem estabelecido.
-
----
+Não foi identificada uma relação mecanística entre o bloqueio de receptores D2 e defeitos de glicosilação. Os distúrbios congênitos de glicosilação são doenças metabólicas genéticas que afetam a fixação de açúcares a proteínas e lipídeos, e não há uma justificativa biológica plausível para o efeito do haloperidol sobre esse processo. A pontuação do TxGNN é muito alta (posição 797 no ranking do modelo), mas reflete apenas padrões do grafo de conhecimento, sem respaldo em estudos reais.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT00097266](https://clinicaltrials.gov/study/NCT00097266) | Phase 3 | Concluído | 615 | Aripiprazol vs Placebo vs Haloperidol em mania aguda bipolar I por 12 semanas; haloperidol utilizado como comparador ativo de referência, confirmando seu papel como padrão de cuidado |
-| [NCT00253162](https://clinicaltrials.gov/study/NCT00253162) | Phase 3 | Concluído | 439 | Risperidona vs Haloperidol vs Placebo em episódios maníacos associados ao transtorno bipolar I; avaliação de eficácia e segurança em 3 semanas (agudo) e 12 semanas (manutenção) |
-| [NCT00129220](https://clinicaltrials.gov/study/NCT00129220) | Phase 3 | Concluído | 224 | Olanzapina vs Haloperidol vs Placebo em episódio maníaco ou misto do transtorno bipolar I; haloperidol como padrão de referência no desenho do estudo |
-| [NCT00253149](https://clinicaltrials.gov/study/NCT00253149) | Phase 3 | Concluído | 158 | Risperidona vs Placebo vs Haloperidol como terapia adjuvante a estabilizadores de humor no tratamento de episódios maníacos do transtorno bipolar |
-| [NCT00126009](https://clinicaltrials.gov/study/NCT00126009) | Phase 2 | Concluído | 120 | Valproato + Amisulprida vs Valproato + Haloperidol em pacientes com bipolar I em episódio maníaco; estudo de 3 meses avaliando eficácia e segurança da associação |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [34642461](https://pubmed.ncbi.nlm.nih.gov/34642461/) | 2022 | Revisão Sistemática + Meta-Análise em Rede | Molecular Psychiatry | Comparação abrangente de eficácia, aceitabilidade e segurança de intervenções farmacológicas para mania bipolar aguda em adultos; inclui haloperidol no pool de comparadores |
-| [36789916](https://pubmed.ncbi.nlm.nih.gov/36789916/) | 2023 | Estudo Comparativo | BMJ Mental Health | Investigação sobre equivalência de doses de antipsicóticos entre mania bipolar aguda e esquizofrenia, com implicações para prática clínica |
-| [22134043](https://pubmed.ncbi.nlm.nih.gov/22134043/) | 2012 | RCT | Journal of Affective Disorders | Eficácia e segurança de olanzapina vs haloperidol vs placebo em pacientes japoneses com bipolar I em episódio maníaco ou misto; RCT duplo-cego |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Diretriz Clínica / Revisão | Acta Psychiatrica Scandinavica | Revisão de opções de tratamento baseadas em evidências para mania bipolar e sugestões de manejo; discute papel de antipsicóticos incluindo haloperidol |
-| [22070611](https://pubmed.ncbi.nlm.nih.gov/22070611/) | 2012 | Revisão | CNS Neuroscience & Therapeutics | Tratamento do transtorno bipolar refratário; haloperidol como estratégia de add-on em pacientes com resposta parcial a lítio, valproato ou carbamazepina |
-| [22161387](https://pubmed.ncbi.nlm.nih.gov/22161387/) | 2011 | Revisão Cochrane | Cochrane Database of Systematic Reviews | Oxcarbazepina para episódios afetivos agudos em transtorno bipolar; contexto comparativo com antipsicóticos convencionais |
-| [39756485](https://pubmed.ncbi.nlm.nih.gov/39756485/) | 2025 | Estudo Retrospectivo | Journal of Affective Disorders | Avaliação de antipsicóticos de ação prolongada (LAI) durante episódios maníacos no transtorno bipolar; análise de taxas de re-hospitalização no mundo real |
-| [19454110](https://pubmed.ncbi.nlm.nih.gov/19454110/) | 2007 | Revisão Clínica | BMJ Clinical Evidence | Revisão do transtorno bipolar com foco em epidemiologia, risco de suicídio e opções terapêuticas; papel dos antipsicóticos no manejo agudo |
-| [3312180](https://pubmed.ncbi.nlm.nih.gov/3312180/) | 1987 | Estudo Controlado | J Clin Psychiatry | Comparação duplo-cega de clonazepam vs lítio vs haloperidol em pacientes agudamente maníacos; histórico de estabelecimento do haloperidol nessa indicação |
-| [15147609](https://pubmed.ncbi.nlm.nih.gov/15147609/) | 2004 | Avaliação de Tecnologia em Saúde | Health Technology Assessment | Avaliação de eficácia clínica e custo-efetividade de novos medicamentos para mania associada ao transtorno bipolar; contexto histórico vs antipsicóticos convencionais |
-
----
-
-## Informações de Comercialização no Brasil
-
-Haloperidol possui **20 registros ativos** no Brasil com situação **Comercializado**. Os dados detalhados de cada registro (número, nome comercial, forma farmacêutica, indicação aprovada) não estão disponíveis nesta versão do Evidence Pack. Recomenda-se consultar diretamente o portal da ANVISA para informações completas.
-
----
+Atualmente não há literatura relacionada.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações e condições de risco (derivadas do grafo de conhecimento, não do texto da bula)**:
+  - Cardíacas: síndrome do QT longo (inclusive a familiar) e torsades de pointes.
+  - Neurológicas: epilepsia, doenças dos núcleos da base, distonia focal da mão, blefaroespasmo e síndrome neuroléptica maligna.
+  - Hematológicas: neutropenia (inclusive as formas congênitas), agranulocitose e leucopenia.
+  - Outras: doença hepática, doença da vesícula biliar, hipotireoidismo e mixedema, deficiência de potássio, distúrbios hipotensivos e carcinoma de mama feminino.
+- **Interações medicamentosas**: foram registradas 100 interações. Entre as de gravidade **Maior** estão bupropiona, morfina, claritromicina e dolasetrona. Entre as de gravidade **Moderada** estão famotidina, epinefrina, hidrocortisona, anfotericina B, atropina, loperamida e aprepitanto, entre outras.
 
----
+As advertências e contraindicações do texto da bula da ANVISA não estavam disponíveis. Consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-O haloperidol tem evidência clínica robusta (nível L1) como agente para controle de episódios maníacos no transtorno bipolar, sendo sistematicamente empregado como comparador ativo em ensaios de Fase 3 de novos antipsicóticos — posição que, em metodologia clínica, equivale ao reconhecimento de padrão de cuidado. O mecanismo D2-antagonista é diretamente relevante para a fisiopatologia da mania, e a previsão do TxGNN confirma uma aplicação clínica já bem estabelecida, tornando o risco de aprovação regulatória ou expansão de indicação relativamente baixo.
+- A previsão não tem nenhum ensaio clínico, nenhuma publicação e nenhuma justificativa mecanística identificável (nível L5). Além disso, o fármaco tem um perfil de segurança relevante e não consta como comercializado no Brasil.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de segurança (advertências, contraindicações, DDI) via download e análise da bula registrada na ANVISA
-- Confirmar mecanismo de ação formal via consulta à API do DrugBank (DB00502)
-- Levantar os 20 registros ANVISA individuais para verificar se a indicação em transtorno bipolar maníaco já está formalmente aprovada no Brasil (o que reclassificaria este caso de "reposicionamento" para "extensão de indicação já registrada")
-- Avaliar perfil de segurança específico para uso em mania bipolar, em especial risco de síndrome extrapiramidal, discinesia tardia e síndrome neuroléptica maligna — efeitos adversos clinicamente relevantes nesta classe
+- Dados do mecanismo de ação e uma hipótese biológica que ligue o antagonismo D2 à via de fucosilação.
+- Estudos pré-clínicos (in vitro ou em modelos) que sustentem qualquer efeito nesse distúrbio.
+- Obtenção e análise da bula da ANVISA, com advertências e contraindicações oficiais.
+- Verificação da situação de registro no Brasil, já que não há registros identificados.
+- Avaliação da relação risco-benefício em uma população pediátrica e metabólica, considerando QT longo, efeitos extrapiramidais e as 100 interações medicamentosas registradas.
+
+**Observação:** entre as demais previsões analisadas, a de **transtorno bipolar afetivo maníaco** (posição 10) é a única com respaldo clínico real. Há ensaios de Fase 3 concluídos, como o NCT00129220, que usa haloperidol como controle, e metanálises em rede. Trata-se, porém, de um uso já estabelecido e não de um reposicionamento inovador. Se o objetivo for avançar com uma direção sustentada por evidências, essa indicação merece avaliação separada, com cautela quanto a QT prolongado e sintomas extrapiramidais.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

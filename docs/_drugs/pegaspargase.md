@@ -2,7 +2,7 @@
 layout: default
 title: Pegaspargase
 parent: Evidência Alta (L1-L2)
-nav_order: 388
+nav_order: 511
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,112 +29,88 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Pegaspargase: Da leucemia linfoblástica aguda ao linfoma/leucemia linfoblástica de precursores
+# Pegaspargase: Da leucemia linfoblástica aguda ao linfoma/leucemia linfoblástica precursora
 
 ## Resumo em Uma Frase
 
-Pegaspargase (Oncaspar®) é uma L-asparaginase peguilada derivada de *Escherichia coli*, utilizada como componente essencial de regimes de quimioterapia combinada para tratamento da leucemia linfoblástica aguda (LLA) em pacientes pediátricos e adultos.
-O modelo TxGNN prevê que pode ser eficaz para **Linfoma/Leucemia Linfoblástica de Precursores (Precursor Lymphoblastic Lymphoma/Leukemia)**,
-atualmente com **mais de 10 ensaios clínicos de Fase 3** e **20 publicações** apoiando esta direção.
-
----
+Pegaspargase é uma forma pegilada da enzima L-asparaginase, originalmente usada no tratamento da leucemia linfoblástica aguda (LLA).
+O modelo TxGNN prevê que pode ser eficaz para **linfoma/leucemia linfoblástica precursora (precursor lymphoblastic lymphoma/leukemia)**,
+atualmente com **39 ensaios clínicos** e **20 publicações** apoiando esta direção. Vale notar que esta indicação prevista é, na prática, praticamente idêntica à indicação original; não se trata de um reposicionamento genuíno.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Leucemia linfoblástica aguda (LLA) |
-| Nova Indicação Prevista | Linfoma/Leucemia Linfoblástica de Precursores (Precursor Lymphoblastic Lymphoma/Leukemia) |
+| Indicação Original | Leucemia linfoblástica aguda (LLA), incluindo LLA de células T precursoras |
+| Nova Indicação Prevista | Linfoma/leucemia linfoblástica precursora (precursor lymphoblastic lymphoma/leukemia) |
 | Pontuação de Previsão TxGNN | 99,96% |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 3 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Pegaspargase é uma enzima antineoplásica cujo mecanismo de ação se baseia na depleção do aminoácido asparagina no plasma sanguíneo. Células tumorais de linhagem linfoblástica — tanto B quanto T — apresentam expressão drasticamente reduzida ou ausente de asparagine synthetase (ASNS), a enzima necessária para sintetizar asparagina intracelularmente a partir de glutamina. Diferentemente das células normais, essas células neoplásicas são incapazes de compensar a queda plasmática de asparagina, resultando em colapso da síntese proteica e subsequente apoptose. A conjugação com polietilenoglicol (PEG) prolonga a meia-vida plasmática para aproximadamente 5,7 dias — versus ~1,2 dias da L-asparaginase nativa — reduzindo a frequência de administração e a imunogenicidade.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo informações conhecidas, a pegaspargase é uma L-asparaginase pegilada que depleta a asparagina circulante. Os linfoblastos têm baixa expressão de asparagina sintetase e dependem da asparagina externa; sua depleção inibe a síntese proteica e induz apoptose.
 
-A indicação original (LLA) e a nova indicação prevista (linfoma/leucemia linfoblástica de precursores, ALL/LBL pela classificação da OMS) representam dois polos de um mesmo espectro biológico: ambas resultam da expansão clonal de linfoblastos precursores B ou T com baixa expressão de ASNS. A distinção clínica reside principalmente no grau de envolvimento medular (predomínio leucêmico versus apresentação linfonodal/extranodal), e não em diferenças moleculares que alterariam a sensibilidade ao fármaco.
+A doença prevista (leucemia/linfoma linfoblástico de precursores B ou T) é essencialmente a mesma da indicação original. Por isso, a previsão do modelo reflete o uso já estabelecido do fármaco, e não uma nova oportunidade terapêutica. O mecanismo é plenamente aplicável, pois a mesma dependência de asparagina está presente nas células linfoblásticas, tanto na leucemia quanto no linfoma linfoblástico.
 
-A previsão do TxGNN é, portanto, plenamente consistente com a biologia tumoral e com a prática clínica internacional. Protocolos pediátricos e adultos de referência global — BFM, COG, NOPHO, GIMEMA, FRALLE — já incorporam pegaspargase como agente obrigatório tanto no tratamento da LLA quanto do linfoma linfoblástico (LBL) de linhagem B e T, validando a aplicabilidade mecanística desta previsão de forma inequívoca.
-
----
+Entre as demais previsões do modelo, a de LLA (rank 5) tem a mesma base de evidências. Previsões como a leucemia linfocítica crônica, o linfoma folicular e a deficiência de metilcobalamina cblE têm apenas pontuação do modelo, sem estudos, e o racional mecanístico é fraco.
 
 ## Evidências de Ensaios Clínicos
 
+Foram identificados 39 ensaios para esta indicação; abaixo estão os 10 mais relevantes (priorizando os classificados como de maior relevância e de fase mais avançada).
+
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT01190930](https://clinicaltrials.gov/study/NCT01190930) | Phase 3 | Ativo (não recrutando) | 9.350 | LLA-B de risco padrão recém-diagnosticada e LBL-B localizado; avaliação de regimes de quimioterapia adaptados ao risco; maior RCT ativo nesta indicação |
-| [NCT01117441](https://clinicaltrials.gov/study/NCT01117441) | Phase 3 | Concluído | 6.136 | Protocolo ALL-BFM colaborativo internacional para crianças e adolescentes; pegaspargase como droga-backbone; alta qualidade metodológica e evidência direta |
-| [NCT03914625](https://clinicaltrials.gov/study/NCT03914625) | Phase 3 | Ativo (não recrutando) | 6.720 | Blinatumomabe + quimioterapia (incluindo pegaspargase) em LLA-B de risco padrão e síndrome de Down; avalia adição de imunoterapia ao backbone padrão |
-| [NCT03959085](https://clinicaltrials.gov/study/NCT03959085) | Phase 3 | Recrutando | 5.951 | Inotuzumabe ozogamicina em LLA-B de alto risco; terapia pós-indução adaptada ao risco com pegaspargase como base quimioterápica |
-| [NCT02716233](https://clinicaltrials.gov/study/NCT02716233) | Phase 3 | Ativo (não recrutando) | 2.044 | Protocolo FRALLE 2016 francês: otimização do uso de L-asparaginase em crianças e adolescentes com LLA; compara diferentes regimes de asparaginase |
-| [NCT00819351](https://clinicaltrials.gov/study/NCT00819351) | Phase 3 | Concluído | 650 | NOPHO: PEG-asparaginase intermitente vs contínua em LLA não-AR; define esquema ótimo de depleção de asparagina com menor toxicidade |
-| [NCT00549848](https://clinicaltrials.gov/study/NCT00549848) | Phase 3 | Concluído | 600 | Total Therapy XVI: dose alta vs convencional de PEG-asparaginase na continuação; avalia farmacocinética, farmacodinâmica e sobrevida livre de eventos |
-| [NCT00671034](https://clinicaltrials.gov/study/NCT00671034) | Phase 3 | Concluído | 166 | Calaspargase pegol vs Oncaspar® (pegaspargase) em LLA de alto risco; comparação direta de formulações PEG-asparaginase confirma eficácia do produto original |
-| [NCT00866307](https://clinicaltrials.gov/study/NCT00866307) | Phase 1 | Concluído | 104 | PEG-asparaginase intensificada em LLA de alto risco: estudo piloto de segurança e tolerabilidade; base para intensificação de dose nos protocolos atuais |
-| [NCT00186875](https://clinicaltrials.gov/study/NCT00186875) | Phase 2 | Concluído | 47 | LLA pediátrica recidivada ou refratária: avalia taxa de resposta e sobrevida; fornece dados de eficácia em população de difícil tratamento |
-
----
+| [NCT00967057](https://clinicaltrials.gov/study/NCT00967057) | Phase 3 | Concluído | 470 | ALLR3: ensaio internacional parcialmente randomizado de quimioterapia combinada em LLA recidivada/refratária pediátrica; pegaspargase faz parte do regime base |
+| [NCT00103285](https://clinicaltrials.gov/study/NCT00103285) | Phase 3 | Concluído | 5377 | Regimes de quimioterapia combinada em LLA de precursor B de risco padrão recém-diagnosticada; a contribuição específica da pegaspargase não pode ser isolada |
+| [NCT00905034](https://clinicaltrials.gov/study/NCT00905034) | Phase 2 | Concluído | 37 | Regime MOAD (metotrexato, vincristina, L-asparaginase pegilada, dexametasona) em resgate de LLA do adulto |
+| [NCT00890656](https://clinicaltrials.gov/study/NCT00890656) | Phase 2 | Concluído | 90 | Hyper-CVAD aumentado em resgate de LLA; a asparaginase não é a variável testada |
+| [NCT05602194](https://clinicaltrials.gov/study/NCT05602194) | Phase 3 | Ativo, sem recrutamento | 440 | Levocarnitina para prevenir hepatotoxicidade associada à asparaginase em adolescentes e adultos jovens; relevante para segurança, não para eficácia |
+| [NCT02003222](https://clinicaltrials.gov/study/NCT02003222) | Phase 3 | Ativo, sem recrutamento | 488 | Blinatumomabe somado à quimioterapia em LLA B recém-diagnosticada em adultos; evidência indireta para pegaspargase |
+| [NCT03643276](https://clinicaltrials.gov/study/NCT03643276) | Phase 3 | Recrutando | 5000 | Protocolo AIEOP-BFM ALL 2017 para crianças e adolescentes com LLA |
+| [NCT03914625](https://clinicaltrials.gov/study/NCT03914625) | Phase 3 | Ativo, sem recrutamento | 6720 | Blinatumomabe com quimioterapia (incluindo pegaspargase) em LLA-B de risco padrão ou síndrome de Down e linfoma B localizado |
+| [NCT01005914](https://clinicaltrials.gov/study/NCT01005914) | Phase 2 | Encerrado | 11 | Adição de PEG-asparaginase ao Hyper-CVAD em LLA de adultos recém-diagnosticada |
+| [NCT01403415](https://clinicaltrials.gov/study/NCT01403415) | Phase 1 | Concluído | 13 | Temsirolimo com reindução intensiva (incluindo pegaspargase) em LLA/linfoma não Hodgkin pediátrico recidivado; estudo pequeno |
 
 ## Evidências da Literatura
 
+Foram identificadas 20 publicações; abaixo estão as 10 mais relevantes.
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [35271306](https://pubmed.ncbi.nlm.nih.gov/35271306/) | 2022 | Phase III RCT | J Clin Oncol | COG AALL1231: bortezomibe em T-ALL/T-LL recém-diagnosticados com pegaspargase como backbone obrigatório; avalia redução de irradiação craniana profilática |
-| [27114587](https://pubmed.ncbi.nlm.nih.gov/27114587/) | 2016 | Phase III RCT | J Clin Oncol | COG AALL0232: dexametasona e metotrexate em alta dose melhoram sobrevida em LLA-B de alto risco pediátrica; pegaspargase é componente central do regime |
-| [32813610](https://pubmed.ncbi.nlm.nih.gov/32813610/) | 2020 | Phase III RCT | J Clin Oncol | COG AALL0434: nelarabina em T-ALL recém-diagnosticada; pegaspargase como backbone; maior RCT em T-ALL pediátrica |
-| [32552472](https://pubmed.ncbi.nlm.nih.gov/32552472/) | 2020 | Phase III RCT | J Clin Oncol | COG AALL0434: resultados favoráveis em T-LBL pediátrico com C-MTX/pegaspargase; valida eficácia de pegaspargase especificamente no componente linfoma linfoblástico |
-| [34228505](https://pubmed.ncbi.nlm.nih.gov/34228505/) | 2021 | Estudo comparativo | J Clin Oncol | DFCI 11-001: eficácia e toxicidade comparadas de pegaspargase vs calaspargase pegol em LLA pediátrica; confirma pegaspargase como padrão de referência |
-| [37276451](https://pubmed.ncbi.nlm.nih.gov/37276451/) | 2023 | Phase II | Blood Advances | GIMEMA LAL1913: pegaspargase 2000 UI/m² em 8 blocos para Ph− ALL/LL em adultos de 18–65 anos; demonstra viabilidade com estratificação por risco para TMO |
-| [39322712](https://pubmed.ncbi.nlm.nih.gov/39322712/) | 2024 | Phase II longitudinal | Leukemia | HyperCVAD + nelarabina + pegaspargase ± venetoclax em T-ALL/LBL adultos; acompanhamento prolongado confirma eficácia de pegaspargase em LBL de adultos |
-| [21454191](https://pubmed.ncbi.nlm.nih.gov/21454191/) | 2011 | Estudo prospectivo | Clin Lymphoma Myeloma Leuk | Hyper-CVAD aumentado com intensificação de pegaspargase em LLA adulta em recaída; demonstra atividade clínica significativa no resgate |
-| [40109190](https://pubmed.ncbi.nlm.nih.gov/40109190/) | 2025 | Revisão consenso | Haematologica | Painel de especialistas sobre reconhecimento, prevenção e manejo de eventos adversos de pegaspargase em adultos com LLA; estratégias práticas de mitigação |
-| [31977001](https://pubmed.ncbi.nlm.nih.gov/31977001/) | 2020 | Revisão de especialista | Blood | Manejo de toxicidades de pegaspargase em adultos com LLA; revisão abrangente do perfil único de toxicidade, monitoramento e ajuste de dose |
-
----
-
-## Informações de Comercialização no Brasil
-
-O medicamento conta com **3 registros ativos** na ANVISA e está classificado como **Comercializado** no mercado brasileiro. Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e texto de indicação aprovada) não estavam disponíveis nos dados desta análise.
-
-Para consulta dos registros, acesse: [https://consultas.anvisa.gov.br/](https://consultas.anvisa.gov.br/) e pesquise por "pegaspargase".
-
----
-
-## Citotoxicidade
-
-| Item | Conteúdo |
-|------|------|
-| Classificação de Citotoxicidade | Enzima antineoplásica (L-asparaginase PEGuilada) — mecanismo de depleção de asparagina, distinto das citotóxicas convencionais com dano ao DNA |
-| Risco de Mielossupressão | Baixo (pegaspargase não causa mielossupressão direta; o efeito citotóxico é específico para células com baixa expressão de ASNS, poupando as células hematopoiéticas normais) |
-| Classificação de Emetogenicidade | Baixa |
-| Itens de Monitoramento | Função hepática (ALT, AST, bilirrubinas), enzimas pancreáticas (amilase, lipase), hemostasia (fibrinogênio, TP, TTPa, antitrombina III), glicemia, triglicerídeos, hemograma completo com diferencial, e atividade sérica de asparaginase |
-| Proteção no Manuseio | Necessário seguir regulamentos de manuseio de medicamentos citotóxicos; preparação em cabine de segurança biológica (BSC classe II) |
-
----
+| [35271306](https://pubmed.ncbi.nlm.nih.gov/35271306/) | 2022 | RCT | J Clin Oncol | Estudo de fase III AALL1231 do COG: bortezomibe em LLA-T e linfoma linfoblástico recém-diagnosticados |
+| [32813610](https://pubmed.ncbi.nlm.nih.gov/32813610/) | 2020 | RCT | J Clin Oncol | Estudo de fase III AALL0434 do COG: nelarabina em LLA-T recém-diagnosticada |
+| [27114587](https://pubmed.ncbi.nlm.nih.gov/27114587/) | 2016 | RCT | J Clin Oncol | AALL0232: dexametasona e metotrexato em altas doses melhoram o desfecho em LLA-B de alto risco |
+| [37276451](https://pubmed.ncbi.nlm.nih.gov/37276451/) | 2023 | Coorte | Blood Adv | Estudo GIMEMA LAL1913: programa com pegaspargase adaptado ao risco em adultos de 18 a 65 anos com LLA Ph-negativa |
+| [31030380](https://pubmed.ncbi.nlm.nih.gov/31030380/) | 2019 | Revisão | Drugs | Revisão da pegaspargase em LLA: circulação prolongada e menor imunogenicidade em comparação com a L-asparaginase de E. coli |
+| [40109190](https://pubmed.ncbi.nlm.nih.gov/40109190/) | 2025 | Revisão | Haematologica | Consenso de especialistas sobre reconhecimento, prevenção e manejo de eventos adversos da asparaginase/pegaspargase em adultos com LLA |
+| [40858769](https://pubmed.ncbi.nlm.nih.gov/40858769/) | 2025 | Coorte | Ann Hematol | Tolerabilidade da pegaspargase em 90 pacientes com 55 anos ou mais no programa LAL1913 |
+| [34228505](https://pubmed.ncbi.nlm.nih.gov/34228505/) | 2021 | Ensaio clínico | J Clin Oncol | DFCI 11-001: eficácia e toxicidade de calaspargase pegol versus pegaspargase em LLA infantil |
+| [14499708](https://pubmed.ncbi.nlm.nih.gov/14499708/) | 2003 | Revisão | Adv Drug Deliv Rev | Revisão de estudos clínicos: a pegaspargase mantém o efeito antileucêmico com menos injeções e menos reações alérgicas |
+| [27643446](https://pubmed.ncbi.nlm.nih.gov/27643446/) | 2017 | Revisão | Leuk Lymphoma | Reações de hipersensibilidade à pegaspargase: infusão intravenosa versus injeção intramuscular |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 100 interações, todas de gravidade moderada nos dados exibidos. Entre as principais: corticosteroides (hidrocortisona, dexametasona, betametasona, triamcinolona, budesonida), antidiabéticos (metformina, acarbose, alogliptina, albiglutida, canagliflozina, dapagliflozina, saxagliptina, dulaglutida, clorpropamida), tetraciclinas (doxiciclina, tetraciclina), claritromicina, bupropiona, ácido acetilsalicílico e ácido quenodesoxicólico.
+- **Toxicidades descritas na literatura**: hepatotoxicidade, pancreatite, trombose, hipertrigliceridemia, hiperglicemia (especialmente com glicocorticoides) e reações de hipersensibilidade, com risco aumentado em adultos mais velhos e em pacientes obesos.
 
----
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-A previsão do TxGNN é respaldada por nível de evidência L1, com múltiplos ensaios clínicos de Fase 3 concluídos — incluindo estudos com mais de 6.000 participantes — e literatura de alta qualidade em periódicos de primeira linha (*J Clin Oncol*, *Blood*, *Leukemia*). O mecanismo de ação é biologicamente validado e o fármaco já integra protocolos padrão internacionais para a indicação prevista, tanto para LLA quanto para LBL de precursores B e T.
+Há vários ensaios de fase 3 concluídos em LLA que incluem a pegaspargase no regime base, além de ampla literatura. Contudo, a evidência confirma o uso já estabelecido, e não um novo reposicionamento, e o fármaco não possui registro no Brasil.
 
 **Para prosseguir, é necessário:**
-- Verificar e consolidar os detalhes dos 3 registros ANVISA (números, nomes comerciais, formas farmacêuticas e indicações aprovadas no Brasil)
-- Obter a bula brasileira para levantamento formal de advertências, contraindicações e indicações oficialmente aprovadas
-- Confirmar se o registro brasileiro cobre explicitamente o linfoma linfoblástico (LBL), além da LLA
-- Estabelecer protocolo de monitoramento de segurança adaptado para populações adultas (especialmente >55 anos), dado o perfil de toxicidade diferenciado em relação à população pediátrica
+- Verificar a situação regulatória: não há registros no Brasil, então é preciso esclarecer a via de acesso ou de registro
+- Obter e analisar a bula (advertências e contraindicações), que ainda não estava disponível
+- Complementar os dados do mecanismo de ação
+- Plano de monitoramento das toxicidades específicas da asparaginase (função hepática, amilase/lipase, triglicerídeos, glicemia, coagulação e hipersensibilidade), especialmente em adultos acima de 40 anos e pacientes obesos
+- Planejar a revisão das interações com corticosteroides e antidiabéticos
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

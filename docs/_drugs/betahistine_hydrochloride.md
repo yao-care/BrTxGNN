@@ -2,7 +2,7 @@
 layout: default
 title: Betahistine Hydrochloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 110
+nav_order: 126
 evidence_level: L5
 indication_count: 0
 ---

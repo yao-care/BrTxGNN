@@ -2,7 +2,7 @@
 layout: default
 title: Palbociclibe
 parent: Apenas Predição do Modelo (L5)
-nav_order: 383
+nav_order: 505
 evidence_level: L5
 indication_count: 0
 ---

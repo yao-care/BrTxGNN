@@ -2,7 +2,7 @@
 layout: default
 title: Romiplostim
 parent: Apenas Predição do Modelo (L5)
-nav_order: 432
+nav_order: 573
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,126 +29,78 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Romiplostim: Da Trombocitopenia Imune ao Distúrbio Primário de Liberação Plaquetária
+# Romiplostim: Da anemia aplástica e trombocitopenia autoimune a distúrbio de liberação plaquetária (previsão primária)
 
 ## Resumo em Uma Frase
 
-Romiplostim (Nplate®) é um agonista do receptor de trombopoietina (TPO-RA), aprovado para o tratamento da trombocitopenia imune crônica (ITP), que estimula a produção de plaquetas pela ativação do receptor c-Mpl em megacariócitos da medula óssea.
-O modelo TxGNN identificou **10 novas indicações potenciais** no espectro de distúrbios hemorrágicos plaquetários — a de maior pontuação é o **Distúrbio Primário de Liberação Plaquetária (primary release disorder of platelets)** com escore de 99,99983%, apoiada por 1 ensaio clínico e 2 publicações.
-O destaque clínico desta avaliação é o **Distúrbio Hemorrágico do Tipo Plaquetário (platelet-type bleeding disorder)**, com **8 ensaios clínicos** (incluindo Phase 3 RCTs concluídos) e nível de evidência **L1**.
-
----
+Romiplostim é um agonista do receptor de trombopoietina, originalmente associado ao tratamento de anemia aplástica (incluindo a forma idiopática) e de trombocitopenia autoimune.
+O modelo TxGNN prevê que pode ser eficaz para **distúrbio primário de liberação plaquetária (primary release disorder of platelets)**, mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (sobre um tema diferente, a trombocitopenia imune) ligada a esta direção. A previsão é, portanto, essencialmente teórica.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Trombocitopenia imune crônica (ITP) |
-| Nova Indicação Prevista (Top TxGNN) | Distúrbio Primário de Liberação Plaquetária (primary release disorder of platelets) |
-| Pontuação de Previsão TxGNN | 99,99983% |
-| Nível de Evidência | L4 (indicação top TxGNN) · **L1** (platelet-type bleeding disorder — melhor evidência) |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 3 |
-| Decisão Recomendada | Hold (indicação top TxGNN) · **Proceed with Guardrails** (platelet-type bleeding disorder) |
-
----
+|------|------|
+| Indicação Original | Anemia aplástica idiopática, anemia aplástica e trombocitopenia autoimune (conforme o grafo de conhecimento; não há texto de indicação aprovado no Brasil) |
+| Nova Indicação Prevista | Distúrbio primário de liberação plaquetária (primary release disorder of platelets) |
+| Pontuação de Previsão TxGNN | 99,99% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Romiplostim é um *peptibody* — fusão de peptídeos miméticos de trombopoietina com o domínio Fc de IgG1 humana. Ao se ligar ao receptor c-Mpl expresso nos megacariócitos, ativa as vias JAK2/STAT5 e MAPK, promovendo proliferação, diferenciação e maturação de precursores megacariocíticos. O resultado é o aumento sustentado da produção e liberação de plaquetas na circulação, de forma independente do mecanismo imunológico subjacente à trombocitopenia.
+Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, o romiplostim é um peptídeo agonista do receptor de trombopoietina (MPL), que estimula a maturação dos megacariócitos e aumenta a produção de plaquetas. Seu uso estabelecido é na trombocitopenia imune (PTI) crônica, e a farmacologia o relaciona ao receptor MPL.
 
-A plausibilidade das previsões do TxGNN reside no **fenótipo compartilhado de trombocitopenia ou disfunção hemorrágica plaquetária**. O "Distúrbio Primário de Liberação Plaquetária" envolve deficiência dos grânulos densos ou alfa, comprometendo a liberação de mediadores pró-agregação — a contagem de plaquetas é geralmente normal, mas o aumento do pool circulante induzido por Romiplostim poderia, em teoria, oferecer compensação numérica parcial. Esta hipótese, contudo, carece de validação experimental direta.
+A relação com a nova indicação é fraca. O distúrbio de liberação plaquetária é um defeito de **função** (secreção de grânulos), e não de **contagem** de plaquetas. Aumentar a produção dificilmente corrigiria esse defeito funcional. O único artigo encontrado trata de PTI, na qual autoanticorpos inibem a formação de pró-plaquetas, e não da doença prevista.
 
-É essencial distinguir entre indicações mecanisticamente compatíveis e incompatíveis. Para condições de **qualidade plaquetária** — como Glanzmann (ausência de GPIIb/IIIa), Scott (defeito de escramblase) ou deficiência de receptor de colágeno — o aumento do número de plaquetas não corrige a disfunção molecular intrínseca, tornando a aplicação de Romiplostim mecanisticamente inviável. A exceção clinicamente válida é o **distúrbio hemorrágico do tipo plaquetário** (espectro ITP), onde o TPO-RA age diretamente sobre o déficit de produção, suportado por evidência robusta de nível L1.
-
----
-
-## Panorama das 10 Indicações Previstas
-
-| Rank | Indicação | Score TxGNN | Ensaios | Literatura | Evidência | Recomendação |
-|------|-----------|-------------|---------|-----------|-----------|--------------|
-| 1 | Distúrbio primário de liberação plaquetária | 99,99983% | 1 | 2 | L4 | Hold |
-| 2 | Pseudo-doença de von Willebrand | 99,99977% | 0 | 0 | L5 | Hold |
-| 3 | Trombastenia de Glanzmann | 99,99954% | 0 | 0 | L5 | Hold |
-| 4 | Trombocitopenia aloimune fetal e neonatal (FNAIT) | 99,98730% | 0 | 2 | L4 | Research Question |
-| 5 | Síndrome de Scott | 99,96656% | 0 | 0 | L5 | Hold |
-| 6 | Distúrbio hemorrágico por trombocitopenia constitucional | 99,95290% | 0 | 0 | L5 | Hold |
-| 7 | Diátese hemorrágica por defeito de receptor de colágeno | 99,95080% | 0 | 1 | L4 | Hold |
-| **8** | **Distúrbio hemorrágico do tipo plaquetário** | **99,93190%** | **8** | **0** | **L1** | **Proceed with Guardrails** |
-| 9 | Macrotrombocitopenia autossômica dominante (MYH9-RD) | 99,88074% | 0 | 1 | L4 | Research Question |
-| 10 | Síndrome de Ehlers-Danlos tipo fibronectínico | 99,84516% | 0 | 0 | L5 | Hold |
-
----
+A pontuação muito alta do TxGNN provavelmente reflete a proximidade na rede do conhecimento com a PTI e com nós relacionados a plaquetas, e não evidência de benefício clínico.
 
 ## Evidências de Ensaios Clínicos
 
-*(Indicação #1 — Distúrbio Primário de Liberação Plaquetária)*
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|--------|--------------|-------------------|
-| [NCT03820960](https://clinicaltrials.gov/study/NCT03820960) | N/A | Concluído | 10.039 | Estudo observacional de fatores de risco para trombose em ITP primária (doença autoimune rara). Caracteriza a população ITP como contexto epidemiológico; não avalia Romiplostim diretamente em distúrbio de liberação plaquetária. |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-*(Indicação #1 — Distúrbio Primário de Liberação Plaquetária)*
-
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [25682608](https://pubmed.ncbi.nlm.nih.gov/25682608/) | 2015 | Mechanistic/Translational | Haematologica | Autoanticorpos em ITP inibem a formação de proplatelet e a liberação plaquetária por megacariócitos in vitro, estabelecendo a ligação entre supressão da produção e deficiência de liberação. |
-| [23594368](https://pubmed.ncbi.nlm.nih.gov/23594368/) | 2013 | Review | British Journal of Haematology | Revisão sobre megacariocitopoiese: a TPO é o principal regulador da linhagem megacariocítica, da proliferação de progenitores à liberação plaquetária — fundamento mecanístico dos TPO-RAs. |
+|------|-----|------|------|---------|
+| [25682608](https://pubmed.ncbi.nlm.nih.gov/25682608/) | 2015 | Pesquisa básica/mecanística (PTI) | Haematologica | Em estudo in vitro, soro e IgG de pacientes com PTI inibiram a formação de pró-plaquetas pelos megacariócitos e prejudicaram a produção de plaquetas. Trata-se de outra doença, não do distúrbio de liberação plaquetária. |
 
----
+## Outras Indicações Previstas (Contexto)
 
-## Evidências de Ensaios Clínicos — Indicação de Destaque (L1)
+| Posição | Doença prevista | Pontuação TxGNN | Nível | Observação |
+|------|------|------|------|------|
+| 2 | Pseudo-doença de von Willebrand | 99,99% | L5 | Defeito de ganho de função da GPIb; sem vínculo mecanístico nem evidências |
+| 3 | Trombastenia de Glanzmann | 99,99% | L5 | Defeito qualitativo (integrina αIIbβ3) com contagem normal; risco trombótico sem benefício claro |
+| 4 | Trombocitopenia aloimune fetal e neonatal | 99,99% | L4 | Evidência indireta: extrapolação da PTI, relatos de caso e revisões; nenhum estudo avalia romiplostim na doença; faltam dados de segurança fetal e de transferência placentária |
+| 5 | Síndrome de Scott | 99,97% | L5 | Defeito funcional (TMEM16F/ANO6); sem evidências |
+| 6 | Doença hemorrágica por trombocitopenia constitucional | 99,95% | L5 | Categoria ampla; alguns subtipos podem responder, sem dados específicos |
+| 7 | Diátese hemorrágica por defeito de receptor de colágeno | 99,95% | L5 | Defeito qualitativo; sem evidências |
+| 8 | Distúrbio hemorrágico do tipo plaquetário | 99,93% | L5 | Grupo genérico; provável efeito de proximidade no grafo |
+| 9 | Macrotrombocitopenia autossômica dominante | 99,88% | L5 | Hipotético em algumas formas hereditárias; sem evidências |
+| 10 | Síndrome de Ehlers-Danlos, tipo fibronectinêmico | 99,85% | L5 | Sem vínculo plausível; provável artefato da rede |
 
-*(Indicação #8 — Distúrbio Hemorrágico do Tipo Plaquetário — maior nível de evidência desta avaliação)*
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|--------|--------------|-------------------|
-| [NCT03362177](https://clinicaltrials.gov/study/NCT03362177) | Phase 3 | Concluído | 165 | **RECITE**: RCT duplo-cego placebo-controlado de Romiplostim para trombocitopenia induzida por quimioterapia com oxaliplatina em cânceres GI, pancreático e colorretal. |
-| [NCT05492409](https://clinicaltrials.gov/study/NCT05492409) | Phase 3 | Concluído | 160 | Estudo de extensão Phase 3 avaliando segurança e imunogenicidade de longo prazo do biossimilar GNR-069 em pacientes com ITP. |
-| [NCT04638829](https://clinicaltrials.gov/study/NCT04638829) | Phase 4 | Concluído | 60 | Estudo prospectivo multicêntrico aberto: segurança e satisfação de tratamento após troca de Eltrombopag ou Romiplostim para Avatrombopag em ITP crônica adulta. |
-| [NCT02298075](https://clinicaltrials.gov/study/NCT02298075) | N/A | Concluído | 148 | Estudo retrospectivo: taxa de resposta sustentada e duração da resposta após descontinuação de TPO-RA (Eltrombopag e Romiplostim) em ITP persistente ou crônica. |
-| [NCT02046291](https://clinicaltrials.gov/study/NCT02046291) | Phase 1 | Concluído | 21 | Segurança de Romiplostim em falha de enxertia plaquetária pós-transplante de sangue de cordão umbilical: escalonamento de dose (4–10 mcg/kg/semana por 6 semanas). |
-| [NCT07321626](https://clinicaltrials.gov/study/NCT07321626) | Phase 1 | Recrutando | 130 | Eficácia e segurança de Romiplostim N01 na reconstrução plaquetária pós-TCTH haploidentical em LMA, SMD e outras malignidades hematológicas (previsão: conclusão 12/2027). |
-| [NCT02335268](https://clinicaltrials.gov/study/NCT02335268) | Phase 2 | Concluído | 77 | **EUROPE-trial**: Validação prospectiva de modelo preditivo de resposta ao Romiplostim em SMD baixo/intermediário-1 com trombocitopenia (TPO endógena e histórico transfusional como preditores). |
-| [NCT02227576](https://clinicaltrials.gov/study/NCT02227576) | Phase 2 | Encerrado | 20 | Romiplostim como profilaxia secundária para trombocitopenia induzida por Temozolomide em glioblastoma recém-diagnosticado. Encerrado precocemente (20 pacientes); reduz força das conclusões. |
-
----
-
-## Informações de Comercialização no Brasil
-
-Romiplostim está registrado no Brasil com **3 registros ativos** e situação de mercado confirmada como comercializado. Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada conforme bula) não estão disponíveis na base de dados desta avaliação.
-
-> Para consultar os registros completos e a bula aprovada, acesse a base de dados da ANVISA: [consultas.anvisa.gov.br](https://consultas.anvisa.gov.br)
-
----
+Entre as alternativas, a **trombocitopenia aloimune fetal e neonatal** é a única com racionalidade conceitual (L4), derivada das seis publicações recuperadas, todas sobre PTI ou agentes trombopoéticos em geral (revisões, relatos de caso e um relato com eltrombopague, outro fármaco). Ela pode merecer uma pergunta de pesquisa específica.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 2 entradas. A interação de nível **Maior** é com o **carfilzomibe**. Além disso, o romiplostim atua sobre o receptor de trombopoietina (MPL), por farmacologia.
 
-> **Nota clínica baseada em literatura:** O uso prolongado de TPO-RAs como Romiplostim está associado a risco de fibrose medular (aumento de reticulina), risco aumentado de eventos tromboembólicos — especialmente em pacientes com fatores de risco pré-existentes — e trombocitopenia rebote após descontinuação abrupta. O estudo PMID 21902682 demonstrou aumento estatisticamente significativo de reticulina em biópsias de medula óssea de pacientes ITP em uso de TPO-RA. Monitorização periódica de hemograma completo (CBC com diferencial) é recomendada durante todo o tratamento.
-
----
+Para as demais informações de segurança (advertências e contraindicações), consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
-
-*(aplicável à Indicação #8 — Distúrbio Hemorrágico do Tipo Plaquetário, L1)*
+**Decisão: Hold**
 
 **Justificativa:**
-Romiplostim possui múltiplos ensaios Phase 3 concluídos e dados de uso real (Phase 4) que suportam sua eficácia no espectro de distúrbios hemorrágicos plaquetários por mecanismo imune, com evidência de nível L1. As demais 9 indicações previstas pelo TxGNN carecem de suporte mecanístico adequado (distúrbios de qualidade plaquetária) ou possuem apenas evidências exploratórias preliminares (FNAIT, MYH9-RD), mantendo recomendação de Hold ou Research Question.
+- A previsão principal não tem ensaios clínicos, e a única publicação trata de outra doença (PTI). O mecanismo (aumentar a contagem de plaquetas) não corrige um defeito de função plaquetária, e o fármaco não possui registro no Brasil.
 
 **Para prosseguir, é necessário:**
-- Confirmar dados completos dos 3 registros ANVISA (número de registro, nome comercial, forma farmacêutica e indicação aprovada na bula brasileira)
-- Revisar bula brasileira para extrair advertências, contraindicações e protocolos de monitoramento específicos (actualmente classificados como Data Gap)
-- Definir se "platelet-type bleeding disorder" representa extensão regulatória de indicação ou uso dentro do escopo já aprovado de ITP no Brasil
-- Para indicações com recomendação **Research Question** (FNAIT — rank 4; MYH9-RD — rank 9), avaliar viabilidade de protocolos de estudo piloto, considerando que ambas possuem racional mecanístico parcial e evidências de caso/série
-- Confirmar MOA completo via consulta à bula e DrugBank API (Data Gap classificado como severidade High)
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois o fármaco não tem registro local.
+- Complementar os dados do mecanismo de ação (MOA) a partir do DrugBank.
+- Avaliar, como pergunta de pesquisa separada, a trombocitopenia aloimune fetal e neonatal, com dados de segurança fetal e de transferência placentária.
+- Verificar se há qualquer estudo direto do romiplostim em distúrbios de liberação plaquetária antes de qualquer avanço.
+- Confirmar a situação regulatória do romiplostim no Brasil (ausência de registros nos dados compilados).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Betahistine
-parent: Evidência Alta (L1-L2)
-nav_order: 108
-evidence_level: L1
+parent: Apenas Predição do Modelo (L5)
+nav_order: 124
+evidence_level: L5
 indication_count: 10
 ---
 
 # Betahistine
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,14 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Betahistine: Da Doença de Ménière para a Vertigem Periférica
+# Betaistina: De antivertiginoso/vasodilatador à síndrome das pernas inquietas
 
 ## Resumo em Uma Frase
 
-Betahistine é um análogo estrutural da histamina amplamente utilizado no tratamento da doença de Ménière e vertigens vestibulares em mais de 80 países (Europa, Ásia, América Latina), embora não registrado no Brasil. O modelo TxGNN prevê eficácia para **Vertigem Periférica (Peripheral Vertigo)** — a indicação com maior suporte de evidências entre todas as dez previstas neste pacote —, com **4 ensaios clínicos** e **20 publicações** apoiando esta direção, incluindo revisões Cochrane, meta-análises de ECRs e diretrizes clínicas europeias.
+Betaistina é um análogo da histamina, originalmente registrado no Brasil como vasodilatador e antivertiginoso.
+O modelo TxGNN prevê que pode ser eficaz para a **Síndrome das Pernas Inquietas (Restless Legs Syndrome)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica; trata-se apenas de uma previsão do modelo.
+
+Observação: entre as 10 previsões geradas, a de maior evidência é a de **vertigem periférica** (e doença de Ménière), que corresponde a um uso já aprovado da classe antivertiginosa e, portanto, não é um reposicionamento genuíno. Ela é discutida ao longo do relatório como referência.
 
 ---
 
@@ -41,77 +44,100 @@ Betahistine é um análogo estrutural da histamina amplamente utilizado no trata
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Doença de Ménière / Vertigem vestibular (aprovado internacionalmente; sem registro no Brasil) |
-| Nova Indicação Prevista | Vertigem Periférica (Peripheral Vertigo) |
-| Pontuação de Previsão TxGNN | 98,07% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Indicação Original | Vasodilatadores (classe do registro); antivertiginosos |
+| Nova Indicação Prevista | Síndrome das Pernas Inquietas (Restless Legs Syndrome) |
+| Pontuação de Previsão TxGNN | 98,51% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Betahistine atua como **agonista fraco do receptor histaminérgico H1** e **antagonista/agonista inverso potente do receptor H3**. O bloqueio do receptor H3 inibe os autoreceptores pré-sinápticos que normalmente suprimem a liberação de histamina nos neurônios do núcleo vestibular lateral, resultando em aumento da neurotransmissão histaminérgica central e aceleração da compensação vestibular após lesão unilateral. Paralelamente, o agonismo H1 periférico induz vasodilatação nas arteríolas da estria vascular coclear e do labirinto membranoso, melhorando a microcirculação do ouvido interno e reduzindo a pressão endolinfática. Esse duplo mecanismo — central (neuromodulação vestibular) e periférico (melhora hemodinâmica coclear) — configura uma ação farmacológica multifacetada, diretamente relevante para a fisiopatologia da vertigem de origem periférica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a betaistina atua como agonista do receptor H1 de histamina (fraco) e antagonista do receptor H3 (mais potente), o que aumenta a liberação central de histamina. Acredita-se que isso melhore a microcirculação da orelha interna e favoreça a compensação vestibular.
 
-A vertigem periférica é um espectro clínico que engloba a doença de Ménière, a neuronite vestibular, a vertigem posicional paroxística benigna (VPPB) e outras disfunções do labirinto membranoso. Em todos esses subtipos, a disfunção da homeostase endolinfática, o desequilíbrio do tônus histaminérgico nos núcleos vestibulares e/ou a insuficiência microcirculatória coclear contribuem para os sintomas. O mecanismo de betahistine aborda múltiplos componentes fisiopatológicos desse espectro simultaneamente, o que explica sua eficácia documentada em revisões sistemáticas e meta-análises abrangendo diferentes subtipos de vertigem periférica.
+A relação com a indicação original é indireta: a betaistina foi usada contra vertigem e distúrbios vestibulares, enquanto a síndrome das pernas inquietas é um transtorno neurológico sensório-motor. Existe apenas um elo teórico, via vias histaminérgicas e, secundariamente, dopaminérgicas e do metabolismo do ferro.
 
-Embora betahistine não possua registro na ANVISA, está aprovado e amplamente prescrito na Europa (Serc®/Betaserc®, Solvay/Abbott), Japão, Coreia e em vários países da América Latina como Argentina e México. A Academia Europeia de Otologia e Neurotologia (EAONO) o posiciona como tratamento farmacológico de primeira linha para a doença de Ménière. A ausência de registro no Brasil representa uma lacuna regulatória — não científica —, configurando uma oportunidade concreta de reposicionamento.
+Os dados compilados não trazem ensaios nem literatura que sustentem essa ligação. A pontuação alta do TxGNN reflete proximidade na rede de conhecimento, e não evidência clínica. A previsão deve ser tratada como hipótese de pesquisa.
+
+### Outras previsões do modelo (para contexto)
+
+| Indicação prevista | Pontuação TxGNN | Nível de Evidência | Observação |
+|------|------|------|------|
+| Doença de Ménière vestibular ativa | 98,34% | L3 | Revisões e estudos observacionais; uso já estabelecido |
+| Doença de Ménière coclear ativa | 98,34% | L4 | Apenas estudos pré-clínicos mecanísticos |
+| Doença de Ménière cocleovestibular ativa | 98,34% | L5 | Somente previsão |
+| Otosclerose | 98,19% | L4 | Evidência indireta; possível alívio de sintomas vestibulares |
+| Vertigem periférica | 98,07% | L1 | RCT (BEMED) e revisões sistemáticas, com eficácia incerta |
+| Perda auditiva relacionada à idade | 97,93% | L5 | Somente previsão |
+| Vertigem recorrente benigna tipo 2 | 97,78% | L2 | Estudos comparativos como adjuvante em VPPB |
+| Hiperinsulinismo por deficiência de Kir6.2 | 97,77% | L5 | Sem mecanismo plausível |
+| Hipoglicemia hiperinsulinêmica familiar | 97,32% | L5 | Sem mecanismo plausível |
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT01759251](https://clinicaltrials.gov/study/NCT01759251) | N/A (Observacional) | Concluído | 309 | Programa pós-comercialização do Betaserc® (betahistine diidrocloreto) em pacientes com vertigem vestibular na Rússia e Ucrânia; avaliou efetividade em condições de prática clínica real e evolução dos sintomas após descontinuação do tratamento. |
-| [NCT03908567](https://clinicaltrials.gov/study/NCT03908567) | Phase 2 | Concluído | 124 | Ensaio TRAVERS: AM-125 (formulação nasal de betahistine) versus placebo no tratamento da vertigem periférica aguda pós-cirurgia de schwannoma vestibular; avaliou redução dos sintomas vertiginosos agudos — prova de conceito para nova via de administração do mesmo mecanismo ativo. |
+Atualmente não há ensaios clínicos relacionados registrados para a síndrome das pernas inquietas, nem para as demais indicações previstas.
 
 ---
 
 ## Evidências da Literatura
 
+Para a síndrome das pernas inquietas, atualmente não há literatura relacionada.
+
+Como referência, a literatura da indicação com maior evidência (vertigem periférica / Ménière) inclui:
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [36827524](https://pubmed.ncbi.nlm.nih.gov/36827524/) | 2023 | Cochrane Systematic Review | Cochrane Database | Revisão sistemática de intervenções farmacológicas sistêmicas para doença de Ménière; avalia evidências de betahistine, diuréticos, antivirais e corticosteroides na prevenção de crises de vertigem. |
-| [40070497](https://pubmed.ncbi.nlm.nih.gov/40070497/) | 2025 | Revisão Sistemática / Meta-análise | World J Otorhinolaryngol | Meta-análise avaliando betahistine como terapia adjuvante à manobra de Epley no VPPB; quantifica redução da tontura residual pós-manobra de reposicionamento. |
-| [26797774](https://pubmed.ncbi.nlm.nih.gov/26797774/) | 2016 | ECR Fase 2b/3 (BEMED Trial) | BMJ | Ensaio multicêntrico, duplo-cego, randomizado, placebo-controlado e de longa duração; avaliou a eficácia do betahistine na redução da frequência de crises de vertigem na doença de Ménière. |
-| [23778722](https://pubmed.ncbi.nlm.nih.gov/23778722/) | 2014 | Meta-análise | Eur Arch Otorhinolaryngol | Meta-análise de 12 ECRs duplo-cegos, placebo-controlados com betahistine em vertigem vestibular ou doença de Ménière; demonstrou razão de chances favorável ao tratamento, incluindo dados não publicados. |
-| [30256205](https://pubmed.ncbi.nlm.nih.gov/30256205/) | 2018 | Diretriz Clínica Europeia | J Int Adv Otol | Declaração de posição da EAONO sobre diagnóstico e tratamento da doença de Ménière; recomenda betahistine como opção farmacológica de primeira linha. |
-| [26245698](https://pubmed.ncbi.nlm.nih.gov/26245698/) | 2015 | Review | Acta Oto-Laryngologica | Revisão de estudos clínicos e meta-análises confirmando eficácia e segurança de betahistine na doença de Ménière, VPPB, neuronite vestibular e outros tipos de vertigem periférica. |
-| [26998036](https://pubmed.ncbi.nlm.nih.gov/26998036/) | 2016 | Meta-análise | Exp Ther Med | Meta-análise de ECRs sobre tratamento combinado (puerárin + betahistine) na vertigem por isquemia vertebrobasilar; suporte adicional para a eficácia de betahistine em vertigem de origem vascular. |
-| [38440440](https://pubmed.ncbi.nlm.nih.gov/38440440/) | 2024 | Estudo Prospectivo | Indian J Otolaryngol | Comparação prospectiva da manobra de Epley, betahistine e dimenidrinato no VPPB; betahistine mostrou redução significativa dos sintomas residuais pós-manobra. |
-| [31111729](https://pubmed.ncbi.nlm.nih.gov/31111729/) | 2020 | Coorte Prospectiva (Vida Real) | Ear Nose Throat J | Estudo de vida real em atenção primária na Colômbia (n=150); betahistine 48 mg/dia demonstrou efeito clínico positivo e boa tolerabilidade na vertigem vestibular periférica. |
-| [32530417](https://pubmed.ncbi.nlm.nih.gov/32530417/) | 2020 | Review | Dtsch Arztebl Int | Revisão abrangente sobre distúrbios vestibulares; atualiza diagnóstico, fisiopatologia, genética, etiologia e tratamento farmacológico incluindo betahistine para síndromes periféricas. |
+| [26797774](https://pubmed.ncbi.nlm.nih.gov/26797774/) | 2016 | RCT | BMJ | Ensaio BEMED, multicêntrico, duplo-cego, controlado por placebo, de longa duração em doença de Ménière; reanálises indicam que a betaistina não reduziu significativamente as crises de vertigem em relação ao placebo |
+| [36827524](https://pubmed.ncbi.nlm.nih.gov/36827524/) | 2023 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Intervenções farmacológicas sistêmicas na doença de Ménière, incluindo betaistina; eficácia relatada como incerta |
+| [27327415](https://pubmed.ncbi.nlm.nih.gov/27327415/) | 2016 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Avalia se a betaistina supera o placebo nos sintomas de vertigem de diferentes causas |
+| [23778722](https://pubmed.ncbi.nlm.nih.gov/23778722/) | 2014 | Meta-análise | Eur Arch Otorhinolaryngol | Meta-análise de 12 estudos duplo-cegos controlados por placebo em vertigem vestibular e doença de Ménière |
+| [12582782](https://pubmed.ncbi.nlm.nih.gov/12582782/) | 2003 | RCT | Eur Arch Otorhinolaryngol | 144 pacientes com Ménière ou vertigem posicional paroxística; betaistina vs. placebo, duplo-cego |
+| [6363584](https://pubmed.ncbi.nlm.nih.gov/6363584/) | 1984 | RCT (cruzado) | J Laryngol Otol | Estudo duplo-cego e cruzado com 24 pacientes com vertigem de origem vestibular periférica |
+| [26245698](https://pubmed.ncbi.nlm.nih.gov/26245698/) | 2015 | Revisão | Acta Otolaryngol | Descreve a betaistina como eficaz e segura em Ménière, VPPB e neuronite vestibular |
+| [40070497](https://pubmed.ncbi.nlm.nih.gov/40070497/) | 2025 | Revisão sistemática / meta-análise | World J Otorhinolaryngol Head Neck Surg | Betaistina como adjuvante da manobra de Epley na VPPB, com foco na tontura residual |
+| [26139562](https://pubmed.ncbi.nlm.nih.gov/26139562/) | 2015 | Pré-clínico | Audiol Neurootol | Receptores H3 como possíveis mediadores do aumento do fluxo sanguíneo coclear induzido pela betaistina |
+| [20940335](https://pubmed.ncbi.nlm.nih.gov/20940335/) | 2011 | Estudo clínico randomizado | J Clin Pharmacol | Betaistina melhorou a recuperação de sintomas estáticos após neurotomia vestibular unilateral |
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-Betahistine **não possui registro na ANVISA** e não está disponível comercialmente no Brasil. O fármaco é aprovado em mais de 80 países, sendo comercializado sob as marcas Serc® e Betaserc® na Europa, com equivalentes genéricos disponíveis na Ásia e em países vizinhos da América Latina (Argentina, México, Chile). A obtenção de registro no Brasil exigiria a submissão de dossiê regulatório completo à ANVISA, podendo utilizar como referência os dossiês já aprovados pela EMA ou MHRA.
+Todos os 20 registros são de medicamentos de princípio ativo único e estão cancelados. Os cinco principais:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 105530343 | Betaserc | — | Vasodilatadores |
+| Registro nº 100431088 | Betina | — | Antivertiginosos |
+| Registro nº 103720260 | Debet | — | Antivertiginosos |
+| Registro nº 105530395 | Serc | — | Vasodilatadores |
+| Registro nº 101180596 | Labirin | — | Antivertiginosos |
 
 ---
 
 ## Considerações de Segurança
 
-Dados de segurança específicos para registro brasileiro não estão disponíveis. Consulte a bula europeia aprovada (EMA/MHRA — Serc®/Betaserc®) para informações completas sobre advertências, contraindicações e interações medicamentosas antes de qualquer avaliação clínica ou regulatória.
+Consulte a bula para informações de segurança. Não foram encontradas interações medicamentosas nem contraindicações no grafo de conhecimento para esta substância nos dados compilados.
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Betahistine possui base de evidências de nível L1 para vertigem periférica — sustentada por duas revisões Cochrane, múltiplas meta-análises de ECRs, ensaio clínico BEMED (Fase 2b/3 publicado no BMJ) e diretrizes clínicas europeias que o posicionam como tratamento de primeira linha. A ausência de registro no Brasil reflete uma lacuna regulatória histórica, não científica; as evidências de segurança e eficácia são robustas e bem caracterizadas em populações de múltiplos países.
+- Para a síndrome das pernas inquietas há apenas previsão do modelo (L5), sem ensaios nem literatura, e o mecanismo proposto é meramente teórico. Além disso, todos os registros da betaistina no Brasil estão cancelados, e o ensaio BEMED, principal RCT, não demonstrou superioridade sobre o placebo em Ménière.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de segurança da bula europeia (EMA/MHRA): advertências, contraindicações, interações medicamentosas e dados de farmacovigilância pós-comercialização
-- Definir estratégia regulatória junto à ANVISA: registro por dossiê completo ou reconhecimento de aprovação de agência de referência (EMA/FDA)
-- Avaliar equivalência farmacêutica e perfil de biodisponibilidade para as formulações de interesse (comprimidos 8 mg, 16 mg e 24 mg)
-- Mapear potencial de mercado no Brasil: prevalência de vertigem periférica e Ménière, lacuna terapêutica existente e concorrência com dimenidrinato e cinarizina
-- Estruturar plano de farmacovigilância pós-comercialização adaptado às exigências regulatórias brasileiras
+- Dados do mecanismo de ação (MOA) a partir do DrugBank
+- Bulas da ANVISA (advertências e contraindicações), hoje ausentes e bloqueantes para a triagem de segurança
+- Revisão da literatura sobre histamina e síndrome das pernas inquietas, além de estudos pré-clínicos que justifiquem a hipótese
+- Leitura crítica das conclusões do BEMED e das revisões Cochrane, caso se priorize a linha vestibular, que não é reposicionamento genuíno
+- Confirmação da viabilidade regulatória de um novo registro, dado que todos os atuais foram cancelados
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

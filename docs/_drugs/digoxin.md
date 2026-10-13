@@ -2,7 +2,7 @@
 layout: default
 title: Digoxin
 parent: Apenas Predição do Modelo (L5)
-nav_order: 222
+nav_order: 269
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,12 +29,12 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-# Digoxin: Da insuficiência cardíaca à angina de Prinzmetal
+# Digoxina: Da fibrilação atrial à angina de Prinzmetal
 
-## Resumo
+## Resumo em Uma Frase
 
-Digoxin é um glicosídeo cardíaco com longa história de uso clínico no tratamento da insuficiência cardíaca congestiva e no controle da frequência ventricular em fibrilação atrial.
-O modelo TxGNN prevê que pode ser eficaz para **Angina de Prinzmetal (Prinzmetal angina)**, com pontuação de **99,81%** — contudo, não há ensaios clínicos registrados e apenas **2 publicações** perifericamente relacionadas apoiam esta direção, resultando em evidência de nível L5.
+A digoxina é um glicosídeo cardíaco, originalmente usado no tratamento da fibrilação atrial e da intoxicação digitálica.
+O modelo TxGNN prevê que ela possa ser eficaz para **Angina de Prinzmetal (Prinzmetal angina)**, mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (uma revisão sem relação direta com o fármaco) associadas a esta previsão.
 
 ---
 
@@ -42,29 +42,23 @@ O modelo TxGNN prevê que pode ser eficaz para **Angina de Prinzmetal (Prinzmeta
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Insuficiência cardíaca congestiva / Fibrilação atrial (detalhes regulatórios não disponíveis neste pack) |
+| Indicação Original | Fibrilação atrial; intoxicação digitálica (conforme o grafo de conhecimento TxGNN, pois não há texto de indicação de registro no Brasil) |
 | Nova Indicação Prevista | Angina de Prinzmetal (Prinzmetal angina) |
 | Pontuação de Previsão TxGNN | 99,81% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no Evidence Pack. Com base no conhecimento farmacológico estabelecido, Digoxin é um inibidor da Na⁺/K⁺-ATPase que eleva o cálcio intracelular nos cardiomiócitos (efeito inotrópico positivo) e potencializa o tono vagal (parassimpático), reduzindo a frequência cardíaca. Suas indicações consolidadas incluem insuficiência cardíaca sistólica com fração de ejeção reduzida e controle da resposta ventricular na fibrilação atrial.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a digoxina inibe a Na⁺/K⁺-ATPase das células miocárdicas, o que aumenta a contratilidade (efeito inotrópico positivo) e reduz a condução atrioventricular, sendo útil no controle da frequência na fibrilação atrial.
 
-A angina de Prinzmetal é causada por espasmo transitório das artérias coronárias, mediado principalmente por hiperreatividade adrenérgica α e serotoninérgica da musculatura lisa vascular — não por obstrução aterosclerótica fixa. O tratamento padrão consiste em antagonistas dos canais de cálcio (ex.: verapamil, diltiazem) e nitratos de ação prolongada, que relaxam diretamente a musculatura lisa coronariana.
+A angina de Prinzmetal, por sua vez, é causada por vasoespasmo coronariano e costuma ser tratada com bloqueadores de canal de cálcio e nitratos. Não há um vínculo mecanístico evidente entre a digoxina e essa condição: o efeito inotrópico positivo não traz benefício claro contra o vasoespasmo e, teoricamente, poderia até piorá-lo.
 
-A ligação mecanística entre Digoxin e a angina de Prinzmetal é **biologicamente implausível**: o efeito vagotônico do fármaco não antagoniza o espasmo coronariano α-adrenérgico/serotoninérgico e, mais preocupante, há relatos na literatura de que a estimulação vagal pode **precipitar** espasmo coronariano em pacientes susceptíveis. A alta pontuação TxGNN (99,81%) reflete, muito provavelmente, proximidade topológica no grafo de conhecimento cardiovascular — Digoxin e angina de Prinzmetal compartilham muitos nós intermediários (frequência cardíaca, isquemia, sistema nervoso autônomo) —, e não uma associação farmacológica real com potencial terapêutico.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
+Assim, apesar da pontuação muito alta do modelo (99,81%), a previsão não é sustentada por evidências biológicas ou clínicas. A única publicação associada trata de cronofarmacologia no tratamento anti-hipertensivo e não aborda a digoxina nem a angina vasoespástica. A pontuação provavelmente reflete proximidade na rede do grafo de conhecimento, e não um racional terapêutico.
 
 ---
 
@@ -72,22 +66,22 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [9206110](https://pubmed.ncbi.nlm.nih.gov/9206110/) | 1996 | Narrative Review | Chinese Medical Sciences Journal | Reavaliação de 30 pacientes com angina decubitus: a condição foi associada a lesões coronárias obstrutivas graves e aumento do consumo miocárdico de oxigênio — não ao espasmo coronariano isolado característico da angina de Prinzmetal |
-| [10736610](https://pubmed.ncbi.nlm.nih.gov/10736610/) | 1999 | Review | Acta Physiologica et Pharmacologica Bulgarica | Revisão sobre cronofarmacogia e tratamento anti-hipertensivo; discute ritmos circadianos em doenças cardiovasculares — sem menção a Digoxin ou angina vasospástica |
+| [10736610](https://pubmed.ncbi.nlm.nih.gov/10736610/) | 1999 | Revisão | Acta Physiol Pharmacol Bulg | Revisão sobre cronofarmacologia e ritmos circadianos no tratamento anti-hipertensivo; não aborda digoxina nem angina de Prinzmetal |
 
-> ⚠️ **Nota**: Nenhuma das publicações investiga diretamente o uso de Digoxin no tratamento da angina de Prinzmetal. A relevância é periférica e o nível de evidência permanece L5.
-
----
-
-## Informações de Comercialização no Brasil
-
-Digoxin possui **20 registros** ativos junto à ANVISA e encontra-se comercializado no Brasil. Os dados detalhados dos registros individuais (nome comercial, forma farmacêutica, indicação aprovada) não foram coletados nesta versão do Evidence Pack. Para consulta completa, acesse o portal ANVISA em [consultas.anvisa.gov.br](https://consultas.anvisa.gov.br).
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações descritas no grafo de conhecimento** (relações fármaco-doença do TxGNN, não texto de bula): doença renal, deficiência de potássio, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, infarto do miocárdio, trombose coronariana, hemoglobinopatia, cor pulmonale, síndrome de Wolff-Parkinson-White, doença do nó sinusal (inclusive familiar), fibrilação ventricular, cardiomiopatia hipertrófica (inclusive familiar), bloqueio atrioventricular, mixedema, hipotireoidismo (inclusive congênito), miocardite, pericardite constritiva e cardiomiopatia restritiva.
+- **Interações medicamentosas**: foram identificadas 100 interações; entre as listadas, a maioria é de gravidade moderada, por exemplo:
+  - Acarbose, rabeprazol, doxiciclina, epinefrina, hidrocortisona
+  - Colecalciferol, metformina, anfotericina B (inclusive complexo lipídico), bupropiona, triancinolona
+  - Ácido acetilsalicílico, dexametasona, betametasona, tetraciclina, fosfato de cálcio
+  - De gravidade leve: albiglutida, hiosciamina, atropina, glicopirrônio
+
+Para advertências e demais informações de segurança, consulte a bula.
 
 ---
 
@@ -96,14 +90,14 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-Não existe suporte mecanístico para o uso de Digoxin na angina de Prinzmetal — o perfil farmacológico do fármaco (vagotônico, inotrópico positivo) é incompatível com o mecanismo de espasmo coronariano, e a estimulação vagal pode inclusive agravar o quadro vasospástico. A ausência total de ensaios clínicos e de literatura primária relevante, combinada com uma análise mecanística contraindicatória, torna esta previsão um artefato topológico do modelo TxGNN, sem valor clínico imediato.
+- A previsão tem pontuação alta, mas nenhum ensaio clínico, nenhuma literatura relevante e nenhum racional mecanístico plausível (nível L5). Além disso, o fármaco tem índice terapêutico estreito e várias contraindicações cardiovasculares, e não está registrado no Brasil nos dados compilados.
 
 **Para prosseguir, é necessário:**
-- Completar os dados regulatórios da ANVISA: nomes comerciais, formas farmacêuticas e indicações aprovadas por registro
-- Obter dados de mecanismo de ação (MOA) via DrugBank API (DB00390)
-- Baixar e parsear a bula ANVISA para advertências, contraindicações e interações medicamentosas
-- Realizar revisão farmacológica especializada sobre efeito de Digoxin em musculatura lisa vascular coronariana antes de qualquer decisão de desenvolvimento
-- Avaliar as demais indicações previstas (postos 2–6) sob perspectiva de maior plausibilidade mecanística, especialmente à luz dos dados de segurança disponíveis
+- Obter dados de mecanismo de ação (por exemplo, via DrugBank) e analisar um possível vínculo com o vasoespasmo coronariano.
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), bem como confirmar a situação de registro no Brasil.
+- Realizar busca sistemática na literatura e em registros de ensaios sobre digoxina e angina vasoespástica.
+- Se houver avanço, avaliar estudos pré-clínicos antes de qualquer estudo clínico.
+- As demais previsões (obstrução duodenal, úlcera duodenal, refluxo duodenogástrico, hipoalfalipoproteinemia) também não têm evidências e permanecem em Hold.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

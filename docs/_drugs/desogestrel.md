@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Desogestrel
-parent: Evidência Alta (L1-L2)
-nav_order: 215
-evidence_level: L2
+parent: Evidência Moderada (L3-L4)
+nav_order: 258
+evidence_level: L3
 indication_count: 10
 ---
 
 # Desogestrel
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L3** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,84 +29,87 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Desogestrel: Da contracepção à amenorreia
+# Desogestrel: De contracepção hormonal para amenorreia
 
 ## Resumo em Uma Frase
 
-Desogestrel é um progestogênio de terceira geração utilizado como componente de anticoncepcionais orais combinados (com etinilestradiol) e como pílula de progestogênio isolado (minipílula 75 µg).
-O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (Amenorrhea)**, atualmente com **2 ensaios clínicos** e **16 publicações** apoiando esta direção.
-
----
+Desogestrel é um progestágeno usado em contraceptivos hormonais, isolado (minipílula) ou combinado com etinilestradiol. Não há indicação original registrada no Brasil nos dados compilados.
+O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (amenorrhea)**, atualmente com **1 ensaio clínico** (de relevância indireta) e **11 publicações** associadas a esta direção, a maioria indireta.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Contracepção (anticoncepcional oral) |
-| Nova Indicação Prevista | Amenorreia (Amenorrhea) |
+| Indicação Original | Não disponível nos dados compilados (nenhuma licença ANVISA ativa) |
+| Nova Indicação Prevista | Amenorreia (amenorrhea) |
 | Pontuação de Previsão TxGNN | 99,96% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Nível de Evidência | L3 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente não há dados formais de mecanismo de ação (MOA) disponíveis no Evidence Pack. Com base no conhecimento clínico consolidado, desogestrel é um progestogênio gonano com alta seletividade pelo receptor de progesterona e baixa atividade androgênica intrínseca. Na formulação combinada com etinilestradiol (EE), atua suprimindo a secreção hipofisária de LH e FSH, inibindo a ovulação e modulando o eixo hipotálamo-hipófise-ovário (HPO axis). Na formulação de progestogênio isolado (75 µg/dia), o efeito antigonadotrópico é suficiente para inibir a ovulação na maioria dos ciclos.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o desogestrel é um progestágeno que suprime as gonadotrofinas e é usado em combinação com etinilestradiol em contraceptivos orais. Ele é um pró-fármaco, metabolizado em sua forma ativa.
 
-A relação mecanística com a amenorreia é bidirecional e clinicamente relevante. Por um lado, a minipílula de desogestrel pode **induzir** amenorreia como efeito sobre o endométrio e o ciclo menstrual — conforme documentado no PMID 35261299 (2022). Por outro, a combinação EE+desogestrel pode **tratar** a amenorreia hipotalâmica funcional (como a observada em atletas de alto rendimento e mulheres com restrição calórica severa), fornecendo reposição estrogênica que restaura o feedback negativo do eixo HPO e protege a densidade óssea. É nesse segundo papel — terapêutico — que o modelo TxGNN identifica o potencial de reposicionamento.
+Na oligoamenorreia hipotalâmica, a terapia estrogênio-progestágeno pode restaurar o sangramento por privação e apoiar a saúde óssea. Há um estudo de coorte sobre densidade mineral óssea em mulheres jovens com oligoamenorreia hipotalâmica tratadas com contraceptivos orais (PMID 11725730).
 
-O estudo farmacodinâmico de Cullberg (PMID 3161265, 1985) já apontava que o desogestrel reduz androgênios circulantes e suprime o eixo HPO, e Nappi et al. (PMID 2956138, 1987) demonstraram diretamente que EE+desogestrel reduz LH, FSH, androstenediona e testosterona em adolescentes com oligomenorreia e hiperandrogenismo ovariano — população com alta sobreposição com amenorreia hipotalâmica/hiperandrogênica.
-
----
+É importante notar que o vínculo é **sintomático e semelhante à reposição hormonal**, e não modificador da doença: o desogestrel não trata a causa subjacente (deficiência energética hipotalâmica). A comparação com a indicação original (contracepção) ainda está pendente de análise.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Phase 3 | Concluído | 121 | Investiga mudanças hormonais e de composição corporal que diferenciam atletas que perdem o ciclo menstrual daquelas que mantêm; avalia estrogênio transdérmico vs oral para melhora de densidade óssea em atletas adolescentes com amenorreia hipotalâmica e deficiência estrogênica |
-| [NCT01588873](https://clinicaltrials.gov/study/NCT01588873) | Phase 4 | Desconhecido | 42 | Compara uso prolongado (59 semanas) de anticoncepcional vaginal e oral sobre secreção androgênica, metabolismo de insulina e glicose, perfil lipídico e SHBG em mulheres com SOP; relevante para amenorreia hiperandrogênica |
+| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Phase 3 | Concluído | 121 | Modulação da função reprodutiva e endócrina em atletas jovens; avalia se estrogênio transdérmico ou oral aumenta a densidade óssea em atletas adolescentes sem menstruação. Não está evidente que o desogestrel seja a intervenção estudada; os braços precisam ser verificados. |
 
----
+Este ensaio é tratado apenas como contexto indireto e não pode ser considerado evidência direta de Phase 3 para o desogestrel.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [18843653](https://pubmed.ncbi.nlm.nih.gov/18843653/) | 2008 | Cochrane Review | Cochrane Database Syst Rev | Revisão sistemática comparando COCs com 20 µg vs >20 µg de estrogênio; avalia eficácia contraceptiva e padrões de sangramento — relevante para formulações de desogestrel de baixa dose |
-| [21249657](https://pubmed.ncbi.nlm.nih.gov/21249657/) | 2011 | Cochrane Review | Cochrane Database Syst Rev | Atualização da revisão Cochrane 2008; confirma que redução do estrogênio impacta o controle do ciclo, incluindo risco de amenorreia |
-| [8218004](https://pubmed.ncbi.nlm.nih.gov/8218004/) | 1993 | RCT Comparativo | Br J Obstet Gynaecol | Compara Mercilon (150 µg desogestrel + 20 µg EE) vs Marvelon (150 µg desogestrel + 30 µg EE) quanto a eficácia, controle do ciclo e perfil de efeitos adversos em ensaio randomizado |
-| [35261299](https://pubmed.ncbi.nlm.nih.gov/35261299/) | 2022 | Observacional | Gynecol Endocrinol | Compara perfil de sangramento de drospirenona 4 mg vs desogestrel 75 µg em mulheres com risco cardiovascular; documenta que desogestrel 75 µg apresenta controle de ciclo deficiente com alta taxa de amenorreia |
-| [3161265](https://pubmed.ncbi.nlm.nih.gov/3161265/) | 1985 | Estudo Farmacodinâmico | Acta Obstet Gynecol Scand Suppl | Avalia androgenicidade do desogestrel vs outros progestogênios; contexto de SOP com amenorreia como modelo de comparação clínica |
-| [8447356](https://pubmed.ncbi.nlm.nih.gov/8447356/) | 1993 | Estudo Clínico | Am J Obstet Gynecol | Perfil de tolerabilidade do desogestrel/EE; documenta benefícios não contraceptivos incluindo dismenorreia, endometriose e doença mamária benigna |
-| [8324604](https://pubmed.ncbi.nlm.nih.gov/8324604/) | 1993 | Revisão | Br Med Bull | Revisão sobre aceitabilidade e uso efetivo de COCs; discute triagem, seleção e monitoramento de usuárias com base em estudos de coorte e caso-controle |
-| [1436906](https://pubmed.ncbi.nlm.nih.gov/1436906/) | 1992 | Revisão | Obstet Gynecol Surv | Caracteriza desogestrel como pró-hormônio que precisa ser metabolizado à sua forma biologicamente ativa; descreve vantagens dos novos progestogênios de terceira geração |
-| [1604074](https://pubmed.ncbi.nlm.nih.gov/1604074/) | 1992 | Revisão | Rev Med Liege | Revisão sobre contracepção hormonal, abordando mecanismos e indicações dos progestogênios |
-| [7838435](https://pubmed.ncbi.nlm.nih.gov/7838435/) | 1994 | Revisão | Nurse Practitioner | Revisão clínica sobre anticoncepcionais orais combinados, incluindo impacto no ciclo menstrual e amenorreia associada |
+| [11725730](https://pubmed.ncbi.nlm.nih.gov/11725730/) | 2001 | Coorte/estudo clínico | J Reprod Med | Avalia se doses decrescentes de etinilestradiol afetam a perda óssea associada à amenorreia hipotalâmica |
+| [8218004](https://pubmed.ncbi.nlm.nih.gov/8218004/) | 1993 | Estudo clínico comparativo | Br J Obstet Gynaecol | Compara dois contraceptivos com 150 µg de desogestrel (20 ou 30 µg de etinilestradiol) quanto a confiabilidade, controle do ciclo e efeitos adversos |
+| [8447356](https://pubmed.ncbi.nlm.nih.gov/8447356/) | 1993 | Estudo clínico (tolerabilidade) | Am J Obstet Gynecol | Perfil de tolerabilidade de desogestrel/etinilestradiol; benefícios não contraceptivos dos contraceptivos orais |
+| [3161265](https://pubmed.ncbi.nlm.nih.gov/3161265/) | 1985 | Estudo farmacodinâmico | Acta Obstet Gynecol Scand Suppl | Avalia a androgenicidade de progestágenos, com ênfase no desogestrel |
+| [35261299](https://pubmed.ncbi.nlm.nih.gov/35261299/) | 2022 | Coorte (pílula de drospirenona, não desogestrel) | Gynecol Endocrinol | Perfil de sangramento da pílula de drospirenona vs. desogestrel 75 µg; o desogestrel mostra controle de ciclo ruim |
+| [8324604](https://pubmed.ncbi.nlm.nih.gov/8324604/) | 1993 | Revisão | Br Med Bull | Aceitabilidade e uso eficaz de contraceptivos orais combinados |
+| [1436906](https://pubmed.ncbi.nlm.nih.gov/1436906/) | 1992 | Revisão | Obstet Gynecol Surv | Pílulas com gestodeno, norgestimato e desogestrel |
+| [8513962](https://pubmed.ncbi.nlm.nih.gov/8513962/) | 1993 | Estudo comparativo | Fertil Steril | Agonista de GnRH vs. contraceptivo oral de baixa dose para dor pélvica na endometriose |
+| [1604074](https://pubmed.ncbi.nlm.nih.gov/1604074/) | 1992 | Revisão | Rev Med Liege | Contracepção hormonal |
+| [7838435](https://pubmed.ncbi.nlm.nih.gov/7838435/) | 1994 | Revisão | Nurse Pract | Breve revisão de contraceptivos orais combinados |
 
----
+Nenhuma publicação demonstra diretamente a eficácia do desogestrel no tratamento da amenorreia.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (grafo de conhecimento do TxGNN, não texto de bula)**: hipertensão, epilepsia, doença hepática, doença da vesícula biliar, diabetes mellitus e cetoacidose diabética, hiperglicemia, hipertrigliceridemia, porfirias, lúpus eritematoso sistêmico, asma, hipotireoidismo, hipercalcemia, carcinoma de mama feminino, tromboflebite, leiomioma uterino e transtornos de ansiedade/distimia.
+- **Interações Medicamentosas**: 43 interações registradas, todas as 20 listadas de nível moderado, principalmente com fármacos antidiabéticos e que afetam a glicemia:
+  - Insulinas (asparte, degludeca, detemir, glulisina, lispro, humana)
+  - Agonistas de GLP-1 (albiglutida, liraglutida, lixisenatida)
+  - Inibidores de DPP-4 (alogliptina, linagliptina)
+  - Inibidores de SGLT2 (dapagliflozina, ertugliflozina)
+  - Metformina, nateglinida, rosiglitazona, metreleptina
+  - Aprepitanto e fenilbutirato de glicerol
+- **Risco tromboembólico**: estudos de coorte/caso-controle sobre tromboembolismo venoso associado a contraceptivos orais combinados (PMID 10652979) reforçam a necessidade de cautela.
 
----
+As advertências e contraindicações da bula brasileira não foram obtidas; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Embora o TxGNN atribua pontuação muito elevada (99,96%) e exista 1 ensaio Phase 3 concluído (NCT00946192, n=121), as evidências disponíveis são ainda indiretas — o ensaio avalia reposição estrogênica geral em atletas com amenorreia hipotalâmica, sem confirmar desogestrel como agente interventor principal. A literatura disponível documenta o efeito do desogestrel sobre o ciclo menstrual, mas não estabelece eficácia terapêutica específica no tratamento da amenorreia como indicação primária.
+A pontuação do modelo é alta, mas a evidência direta é limitada: o único ensaio (Phase 3) não demonstra que o desogestrel seja a intervenção avaliada, e a literatura é composta sobretudo por revisões e estudos indiretos com contraceptivos combinados. Além disso, o fármaco não tem registro ativo no Brasil e faltam dados de bula e de mecanismo, o que impede avançar na triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Revisar o protocolo completo do NCT00946192 para confirmar se desogestrel é o componente ativo avaliado na intervenção principal
-- Obter dados de MOA via DrugBank API (DG002) para fundamentar a análise de plausibilidade mecanística
-- Recuperar as advertências e contraindicações da bula ANVISA (DG001) antes de qualquer iniciativa clínica
-- Definir o subtipo-alvo de amenorreia: hipotalâmica funcional (atletas/restrição calórica) vs. hiperandrogênica (SOP) — os mecanismos e as populações são distintos
-- Conduzir revisão sistemática focada especificamente em EE+desogestrel como intervenção para amenorreia hipotalâmica, separando dos estudos gerais de anticoncepção
+- Verificar os braços de intervenção do NCT00946192 para confirmar se o desogestrel é avaliado.
+- Obter a bula da ANVISA (advertências e contraindicações) e dados de mecanismo de ação (DrugBank).
+- Esclarecer a situação regulatória no Brasil (ausência de registros) e a viabilidade de vias de administração.
+- Buscar estudos que avaliem desogestrel (isolado ou combinado) em amenorreia, separando o efeito do progestágeno do efeito do estrogênio.
+- Definir a similaridade com a indicação original e analisar a relação risco-benefício, dadas as contraindicações (p. ex., risco tromboembólico, hipertensão, doença hepática).
+
+**Outras indicações previstas (contexto):** acne (L3; ensaio de fase 4 com norgestimato, não desogestrel, além de estudos específicos de desogestrel como PMID 8894800 e 8689881) é a segunda direção com mais evidências. As demais previsões (adenose mamária, abscesso mamário, necrose gordurosa da mama, doença da lactação, insuficiência ovariana primária e síndrome do X frágil em portadoras) têm apenas previsão do modelo ou evidência indireta (L4–L5), e a recomendação para elas é Hold.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

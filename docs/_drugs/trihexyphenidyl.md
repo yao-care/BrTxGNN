@@ -2,7 +2,7 @@
 layout: default
 title: Trihexyphenidyl
 parent: Evidência Moderada (L3-L4)
-nav_order: 494
+nav_order: 655
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,77 +29,71 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Trihexyphenidyl: Do Parkinson e Distonia ao Transtorno de Déficit de Atenção e Hiperatividade
+# Triexifenidil: Do parkinsonismo ao transtorno de déficit de atenção e hiperatividade (TDAH)
 
 ## Resumo em Uma Frase
 
-Trihexyphenidyl é um fármaco anticolinérgico amplamente utilizado como tratamento auxiliar da doença de Parkinson e de síndromes distônicas, atuando pelo bloqueio de receptores muscarínicos M1 nos gânglios da base.
-O modelo TxGNN prevê que pode ser eficaz para o **Transtorno de Déficit de Atenção e Hiperatividade (ADHD)**, contudo há **0 ensaios clínicos** e apenas **1 publicação** — uma série de casos não relacionada diretamente ao TDAH — apoiando esta direção.
-Importantemente, a análise mecanística aponta para uma **contradição farmacológica**: o bloqueio colinérgico pode prejudicar, e não melhorar, a função cognitiva e atencional no contexto do TDAH.
-
----
+O triexifenidil (trihexyphenidyl) foi originalmente usado como antiparkinsoniano.
+O modelo TxGNN prevê que pode ser eficaz para **Transtorno de Déficit de Atenção e Hiperatividade (attention deficit-hyperactivity disorder)**,
+mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** indireta (um estudo de coorte sobre tiques associados à distonia, condição diferente do TDAH) relacionada a esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Doença de Parkinson e distonia (não registrado no Brasil) |
-| Nova Indicação Prevista | Transtorno de Déficit de Atenção e Hiperatividade (ADHD) |
+| Indicação Original | Antiparkinsonianos |
+| Nova Indicação Prevista | Transtorno de Déficit de Atenção e Hiperatividade (attention deficit-hyperactivity disorder) |
 | Pontuação de Previsão TxGNN | 99,92% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 1 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, os dados formais de mecanismo de ação do Trihexyphenidyl não estão disponíveis neste pacote de evidências. Com base na literatura clínica consolidada, o fármaco é um antagonista muscarínico (anticolinérgico) que bloqueia receptores M1 de acetilcolina no sistema nervoso central, restaurando o equilíbrio dopaminérgico/colinérgico nos gânglios da base. É por esse mecanismo que atua eficazmente no alívio de tremor, rigidez e distonia — condições nas quais há excesso relativo de tônus colinérgico em relação ao dopaminérgico.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o triexifenidil é um antagonista muscarínico de ação central, seletivo para o receptor M1, e sua utilização em sintomas parkinsonianos está bem estabelecida.
 
-A previsão do TxGNN para o TDAH provavelmente decorre de sobreposições na rede de conhecimento: o Trihexyphenidyl está conectado a múltiplos distúrbios neurológicos (Parkinson, distonia, tiques), e o TDAH compartilha nódulos de comorbidade com algumas dessas condições — especialmente tiques e síndrome de Tourette. O modelo inferiu uma associação a partir de conexões indiretas no grafo de conhecimento, não de uma relação mecanística direta.
+A hipótese por trás da previsão é que o desequilíbrio colinérgico-dopaminérgico no estriado pode estar relacionado à hiperatividade, a tiques e à distonia, que frequentemente coexistem com o TDAH. Essa é, porém, uma ligação indireta: o único artigo recuperado trata do transtorno primário de tiques associado à distonia, que é uma condição distinta do TDAH.
 
-Contudo, existe uma **contradição farmacológica fundamental**: o TDAH é tratado aumentando a sinalização dopaminérgica e noradrenérgica no córtex pré-frontal (metilfenidato, anfetaminas, atomoxetina). O bloqueio colinérgico pelo Trihexyphenidyl pode, na prática, prejudicar a cognição e a regulação da atenção — efeito diametralmente oposto ao desejado. Não há evidência clínica de benefício no TDAH e há razão mecanística para suspeitar de risco de piora cognitiva, especialmente em crianças.
-
----
+Há ainda um argumento contrário importante: anticolinérgicos podem piorar a atenção e a cognição. Assim, o efeito líquido sobre os sintomas centrais do TDAH é incerto e possivelmente desfavorável. A pontuação muito alta do TxGNN é uma previsão computacional, sem respaldo em dados clínicos.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [21506147](https://pubmed.ncbi.nlm.nih.gov/21506147/) | 2011 | Case Series | Movement Disorders | Série de casos descrevendo co-ocorrência de tiques e distonia idiopática persistente em múltiplos pacientes; aborda exclusivamente distonia, sem dados sobre TDAH — a relevância para esta previsão é indireta e periférica |
-
----
+|------|-----|------|------|---------|
+| [21506147](https://pubmed.ncbi.nlm.nih.gov/21506147/) | 2011 | Coorte | Movement Disorders | Série clínica de pacientes com tiques e distonia persistente, descrevendo a prevalência e as características clínicas dessa síndrome. Não testa o triexifenidil no TDAH. |
 
 ## Informações de Comercialização no Brasil
 
-Trihexyphenidyl **não possui registro ativo na ANVISA** e não é comercializado no Brasil. Nenhuma licença foi identificada na consulta realizada em 2026-03-09.
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 101180604 (cancelado) | ARTANE | Não informada | Antiparkinsonianos |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Contraindicações (com base no grafo de conhecimento do TxGNN, não em texto de bula)**: o grafo associa o fármaco a doenças como glaucoma de ângulo aberto e de ângulo fechado, hiperplasia prostática benigna, miastenia gravis, íleo paralítico, acalasia, megaesôfago, hérnia de hiato, colite ulcerativa, doença inflamatória intestinal, colite por *Clostridium difficile*, enterocolite necrosante perinatal, doença arterial coronariana, doenças da condução cardíaca, parada cardíaca súbita, hipertensão, hipotensão, doença pulmonar obstrutiva crônica, úlcera gástrica, doença renal, doença hepática e doença da vesícula biliar.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total. As de gravidade **maior** incluem **cloreto de potássio** e **citrato de potássio**. As de gravidade moderada incluem outros anticolinérgicos e antiespasmódicos (atropina, escopolamina, hioscina/hiosciamina, glicopirrônio, diciclomina, propantelina, trospio, metescopolamina, mepenzolato), opioides e antidiarreicos (morfina, loperamida, eluxadolina), canabinoides (dronabinol, nabilona) e procinéticos ou outros (metoclopramida, prucaloprida, pramlintida, hidróxido de magnésio). O risco principal é o efeito anticolinérgico aditivo.
+- Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para TDAH carece de suporte mecanístico e apresenta contradição farmacológica direta: o bloqueio colinérgico promovido pelo Trihexyphenidyl pode agravar déficits cognitivos e atencionais, contrariando o objetivo terapêutico central do TDAH. Não há ensaios clínicos registrados e a única publicação encontrada é uma série de casos sobre distonia, sem relação direta com o TDAH.
+- Não há ensaios clínicos nem literatura que testem o triexifenidil no TDAH; a pontuação alta do modelo é apenas computacional. Além disso, os efeitos adversos cognitivos dos anticolinérgicos podem agravar a desatenção, e o único registro no Brasil está cancelado.
 
 **Para prosseguir, é necessário:**
-- Obter dados formais de mecanismo de ação via API do DrugBank (pendência DG002)
-- Obter a bula/monografia oficial para levantamento completo de advertências, contraindicações e interações medicamentosas (pendência DG001)
-- Reavaliar as indicações de menor rank com melhor plausibilidade mecanística: a indicação de **rank 5 — PLA2G6-associated neurodegeneration (PLAN)** — apresenta a conexão mecanística mais sólida de todo o pacote, pois o PLAN pode manifestar parkinsonismo e distonia, condições para as quais o Trihexyphenidyl já é tratamento estabelecido; esta indicação foi classificada como **Research Question** e é o candidato mais promissor para investigação adicional
+- Dados de mecanismo de ação (MOA) detalhados, a partir do DrugBank.
+- Bula do ANVISA com advertências e contraindicações, para a triagem de segurança.
+- Revisão sistemática da literatura sobre anticolinérgicos em TDAH, tiques e hiperatividade, com atenção ao impacto cognitivo.
+- Avaliação de estudos pré-clínicos ou de um ensaio exploratório antes de qualquer avanço.
+- Avaliação da viabilidade regulatória, já que não há registro vigente no Brasil.
+
+**Observação sobre outras previsões:** as demais indicações previstas (síndrome faciodigitogenital, TDAH tipo desatento, encefalite de Rasmussen, neurodegeneração associada ao PLA2G6, entre outras) também carecem de evidência clínica. A neurodegeneração associada ao PLA2G6 foi classificada como "questão de pesquisa", pelo possível benefício sintomático em distonia e tremor, com base em um único relato de caso.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

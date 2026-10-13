@@ -2,7 +2,7 @@
 layout: default
 title: Calcium Propionate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 159
+nav_order: 182
 evidence_level: L5
 indication_count: 0
 ---

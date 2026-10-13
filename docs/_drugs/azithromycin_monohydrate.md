@@ -2,7 +2,7 @@
 layout: default
 title: Azithromycin Monohydrate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 92
+nav_order: 102
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Tisagenlecleucel
 parent: Apenas Predição do Modelo (L5)
-nav_order: 484
+nav_order: 641
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,101 +29,79 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-O skill confirma o contexto TxGNN. Agora vou gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
-# Tisagenlecleucel: De leucemia linfoblástica aguda para colite de Crohn
+# Tisagenlecleucel: De terapia CAR-T anti-CD19 para a colite de Crohn (previsão do modelo)
 
 ## Resumo em Uma Frase
 
-Tisagenlecleucel (Kymriah) é uma terapia de células T com receptor de antígeno quimérico (CAR-T) direcionada ao antígeno CD19, aprovada para o tratamento de leucemia linfoblástica aguda de células B e linfoma difuso de grandes células B refratários ou recidivantes.
-O modelo TxGNN prevê que pode ser eficaz para **Colite de Crohn (Crohn's colitis)**, com pontuação de 91,39% — contudo, atualmente **não existem ensaios clínicos nem publicações científicas** apoiando diretamente esta indicação.
-A previsão fundamenta-se exclusivamente em raciocínio mecanístico indireto, vinculado ao papel dos linfócitos B CD19⁺ na fisiopatologia intestinal da doença de Crohn.
-
----
+Tisagenlecleucel é uma terapia celular CAR-T dirigida ao antígeno CD19, que depleta células B e é utilizada em neoplasias hematológicas de células B. Os dados compilados para este relatório não trazem uma indicação original registrada no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **Colite de Crohn (Crohn's colitis)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se apenas de uma previsão baseada em grafo de conhecimento.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Leucemia linfoblástica aguda de células B (recidivante/refratária); linfoma difuso de grandes células B (recidivante/refratário) |
+|------|------|
+| Indicação Original | Não disponível nos dados de registro da ANVISA |
 | Nova Indicação Prevista | Colite de Crohn (Crohn's colitis) |
 | Pontuação de Previsão TxGNN | 91,39% |
-| Nível de Evidência | L4 — apenas raciocínio mecanístico; sem ensaios clínicos ou literatura direta |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Tisagenlecleucel é uma terapia celular viva: linfócitos T do próprio paciente são coletados, geneticamente modificados para expressar um receptor quimérico anti-CD19, expandidos ex vivo e reinfundidos. Ao reconhecer o CD19 na superfície celular, as células CAR-T montam uma resposta citotóxica sustentada que elimina seletivamente a população B CD19⁺ — tanto células malignas (em leucemia e linfoma) quanto linfócitos B normais. É este segundo efeito — a depleção profunda e prolongada de células B — que fundamenta a hipótese de reposicionamento em doenças autoimunes.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo informações conhecidas, tisagenlecleucel é uma terapia CAR-T dirigida a CD19, que elimina células B. Seu uso estabelecido é em neoplasias de células B, e não há indicação registrada no Brasil nos dados compilados.
 
-Na colite de Crohn, os linfócitos B CD19⁺ participam da fisiopatologia intestinal por meio da produção de autoanticorpos dirigidos à mucosa, da ativação de células dendríticas e da cooperação com linfócitos T autorreativos para amplificar a cascata inflamatória crônica. O grupo de Erlangen (Universidade Friedrich-Alexander, Alemanha) já demonstrou que CAR-T anti-CD19 — não especificamente tisagenlecleucel — pode induzir remissão sustentada em doenças autoimunes refratárias como lúpus eritematoso sistêmico e miosite, oferecendo suporte biológico indireto ao conceito de depleção B celular em autoimunidade.
+Para a doença de Crohn, a justificativa mecanística é **fraca**. A patologia é conduzida principalmente por células T e pela imunidade inata, e não por células B. A pontuação elevada do TxGNN (0,914) reflete apenas uma associação no grafo de conhecimento, sem respaldo de ensaios ou literatura nos dados disponíveis.
 
-No entanto, a previsão enfrenta limitações importantes. A colite de Crohn é primariamente mediada pela via Th1/Th17 (linfócitos T CD4⁺, IL-12/IL-23), com o papel das células B sendo secundário e menos estabelecido do que em doenças autoimunes clássicas B-celulares (lúpus, artrite reumatoide). Além disso, tisagenlecleucel foi desenvolvido e validado exclusivamente em contextos oncológicos hematológicos: seu perfil toxicológico — especialmente síndrome de liberação de citocinas (CRS) e neurotoxicidade associada a células efetoras imunes (ICANS) — pode ser amplificado em pacientes com inflamação sistêmica intestinal ativa preexistente. A relação risco-benefício nesta população nunca foi avaliada clinicamente.
+Além disso, os riscos conhecidos da terapia, como linfodepleção, síndrome de liberação de citocinas e infecções, seriam preocupações importantes em pacientes com doença inflamatória intestinal.
 
----
+### Outras previsões do modelo (todas L5, Hold)
 
-## Evidências de Ensaios Clínicos
+Outras indicações previstas também não têm ensaios clínicos nem literatura nos dados compilados:
 
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
-
-## Informações de Comercialização no Brasil
-
-O tisagenlecleucel possui **1 registro ativo** no mercado brasileiro. Os dados detalhados do registro (número ANVISA, nome comercial, forma farmacêutica e texto da indicação aprovada) não foram recuperados nesta consulta à base regulatória.
-
-| Item | Detalhe |
-|------|---------|
-| Total de Registros Ativos | 1 |
-| Situação | Comercializado |
-| Detalhes do Registro | Não disponíveis nesta consulta — consultar diretamente a ANVISA (consultas.anvisa.gov.br) |
-
----
-
-## Citotoxicidade
-
-Tisagenlecleucel é uma imunoterapia celular antineoplásica; esta seção se aplica.
-
-| Item | Conteúdo |
-|------|----------|
-| Classificação de Citotoxicidade | Imunoterapia celular adotiva — CAR-T anti-CD19 (não é citotóxico convencional nem anticorpo monoclonal) |
-| Risco de Mielossupressão | **Alto** — o regime de condicionamento (fludarabina + ciclofosfamida) causa mielossupressão significativa; a expansão das células CAR-T pode prolongar citopenias; risco adicional de aplasia de células B prolongada pós-tratamento |
-| Classificação de Emetogenicidade | Baixa a moderada — a infusão de células CAR-T em si é de baixo potencial emético; o potencial emético relevante é do regime de condicionamento (moderado) |
-| Itens de Monitoramento | CBC diário durante internação pós-infusão; ferritina, IL-6, PCR e LDH para monitoramento de CRS; avaliação neurológica diária (ICANS); IgG sérica mensalmente após alta (risco de hipogamaglobulinemia); função hepática e renal periodicamente |
-| Proteção no Manuseio | Produto de terapia avançada — manipulação em ambiente estéril com cadeia de custódia rastreada e identificação do paciente em todas as etapas; não requer precauções de citotóxico convencional na infusão, mas exige protocolo institucional certificado para terapias CAR-T |
-
----
+| Posição | Doença prevista | Pontuação TxGNN | Avaliação mecanística resumida |
+|------|------|------|------|
+| 2 | Neoplasia endócrina múltipla | 91,34% | Sem vínculo claro; tecidos endócrinos geralmente não expressam CD19 |
+| 3 | Anemia aplástica idiopática | 89,69% | Rationale indireto e fraco; risco de agravar citopenias |
+| 4 | Hiperfunção da glândula adrenal | 88,34% | Sem vínculo plausível; processo não é de células B CD19+ |
+| 5 | Carcinoma de mama HER2 positivo | 88,02% | Células tumorais não expressam CD19; exigiria outro produto (anti-HER2) |
+| 6 | Espondilite anquilosante | 87,11% | Doença dirigida por IL-17/IL-23 e TNF; rationale fraco |
+| 7 | Mastocitose linfadenopática com eosinofilia | 87,04% | Neoplasia de mastócitos; alvo incompatível |
+| 8 | Mastocitose sistêmica | 87,00% | Doença clonal de mastócitos (KIT); sem base mecanística |
+| 9 | Mastocitose sistêmica indolente (smouldering) | 86,83% | Alvo incompatível e relação risco-benefício desfavorável |
+| 10 | Vasculite reumatoide | 86,24% | Rationale teórico e indireto (células B produtoras de autoanticorpos); especulativo |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 41 interações nos dados compilados. Entre as listadas, destacam-se as de gravidade **maior** com:
+  - Deferiprona
+  - Samário (153Sm) lexidronam
+  - Adalimumabe
+  - Baricitinibe
+  - Certolizumabe pegol
+  - Cladribina
+  - Leflunomida
+  - Natalizumabe
 
----
+  Também há interações de gravidade **moderada** com, por exemplo, estrôncio-89, roflumilaste, cloranfenicol, alefacepte, alentuzumabe, anaquinra, azatioprina, canaquinumabe, fumarato de dimetila, niraparibe e ocrelizumabe. Em geral, trata-se de imunossupressores e agentes mielossupressores, com risco aditivo de imunossupressão e citopenias.
+- **Riscos esperados da classe (conforme avaliação mecanística)**: linfodepleção, síndrome de liberação de citocinas, risco de infecção e citopenias prolongadas.
+
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Embora exista plausibilidade biológica indireta — a depleção de células B CD19⁺ pelo tisagenlecleucel poderia modular a inflamação intestinal na colite de Crohn — não há nenhum ensaio clínico nem publicação científica apoiando diretamente esta indicação. O perfil de risco do tisagenlecleucel (CRS grau 3-4, ICANS, mielossupressão prolongada) é substancial e nunca foi avaliado nesta população com inflamação sistêmica ativa.
+A previsão é apenas computacional (L5), sem ensaios clínicos nem literatura, com racional mecanístico fraco para a colite de Crohn e perfil de risco elevado. O produto também não é comercializado no Brasil.
 
 **Para prosseguir, é necessário:**
-- Recuperar os dados completos do registro ANVISA (número, nome comercial, forma farmacêutica e indicação aprovada) — bloqueio de dados DG001
-- Baixar e analisar a bula aprovada no Brasil para advertências, contraindicações e precauções
-- Ampliar a busca bibliográfica para CAR-T anti-CD19 como classe em doença inflamatória intestinal (não restrita ao tisagenlecleucel)
-- Avaliar o perfil de segurança específico em pacientes com inflamação intestinal ativa (risco de CRS amplificado)
-- Consultar especialistas em gastroenterologia e imunologia clínica para viabilidade de um estudo-piloto ou série de casos exploratória
+- Obter e analisar a bula/advertências e contraindicações na ANVISA
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
+- Realizar busca sistemática de ensaios clínicos e literatura sobre CAR-T anti-CD19 em doenças autoimunes e inflamatórias intestinais
+- Avaliar a viabilidade regulatória e a relação risco-benefício antes de qualquer estudo exploratório
+- Se houver interesse em autoimunidade, priorizar doenças mediadas por células B (por exemplo, vasculite reumatoide), que têm racional teórico mais plausível
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

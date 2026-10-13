@@ -2,7 +2,7 @@
 layout: default
 title: Dutasteride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 232
+nav_order: 281
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,70 +29,81 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Dutasteride: Da hiperplasia prostática benigna à hipertricose universal congênita tipo Ambras
+# Dutasterida: Do inibidor da alfa-redutase à hipertricose congênita de Ambras
 
 ## Resumo em Uma Frase
 
-Dutasteride é um inibidor dual da 5α-redutase, originalmente utilizado no tratamento da **hiperplasia prostática benigna (HPB)** e da alopecia androgenética.
-O modelo TxGNN prevê que pode ser eficaz para a **Hipertricose Universal Congênita tipo Ambras (Ambras type hypertrichosis universalis congenita)**, porém atualmente **não há ensaios clínicos nem publicações** diretamente apoiando esta direção.
-A pontuação de previsão elevada contrasta com a ausência total de evidências clínicas, o que exige cautela na interpretação dos resultados.
-
----
+Dutasterida é um inibidor da alfa-redutase, originalmente usado em condições do trato urinário (como a hiperplasia prostática benigna).
+O modelo TxGNN prevê que pode ser eficaz para **Hipertricose universal congênita do tipo Ambras (Ambras type hypertrichosis universalis congenita)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hiperplasia prostática benigna (HPB) |
-| Nova Indicação Prevista | Hipertricose Universal Congênita tipo Ambras |
+| Indicação Original | Inibidor da alfa-redutase |
+| Nova Indicação Prevista | Hipertricose universal congênita do tipo Ambras (Ambras type hypertrichosis universalis congenita) |
 | Pontuação de Previsão TxGNN | 99,998% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não registrado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 13 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Dutasteride é um inibidor dual da 5α-redutase (tipos 1 e 2), enzima responsável pela conversão de testosterona em di-hidrotestosterona (DHT). Ao suprimir a produção de DHT, o fármaco reduz o volume prostático em pacientes com HPB e, em folículos capilares sensíveis a andrógenos, pode modular o ciclo de crescimento capilar — fundamento do seu uso aprovado na alopecia androgenética (AGA) em vários países.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a dutasterida inibe a 5-alfa-redutase dos tipos 1 e 2, reduzindo a di-hidrotestosterona (DHT). Sua eficácia no trato urinário (inibição da alfa-redutase) está estabelecida no Brasil, e seu uso off-label mais conhecido é na alopecia androgenética.
 
-A Síndrome de Ambras é uma condição geneticamente determinada por mutações no gene **TRPS1**, que resulta em crescimento excessivo e generalizado de pelos em todo o corpo desde o nascimento. Trata-se de uma anomalia estrutural de base genética, **não dependente do eixo androgênico**, o que a distingue fundamentalmente das condições para as quais o Dutasteride possui mecanismo comprovado.
+A relação com a nova indicação é fraca. A síndrome de Ambras é uma hipertricose congênita associada a alterações genéticas que afetam a regulação do gene *TRPS1* e não é claramente dependente da DHT. Um mecanismo antiandrogênico é, portanto, pouco plausível. A pontuação muito alta do modelo (99,998%) não é acompanhada de qualquer ensaio clínico ou publicação, e deve ser lida como uma hipótese gerada pela rede de conhecimento, não como evidência.
 
-O modelo TxGNN provavelmente associou categoricamente "anormalidades de crescimento piloso" ao grupo farmacológico dos inibidores de 5α-redutase. No entanto, a patofisiologia da Síndrome de Ambras é impulsionada por defeito gênico — não por excesso de DHT —, de modo que a inibição do DHT **não apresenta via de atuação plausível** sobre a causa primária desta condição. A previsão, embora tecnicamente de alta pontuação, carece de correspondência patofisiológica real.
-
----
+Outras previsões do modelo seguem o mesmo padrão: hipertricose geral (99,997%), síndromes de malformação com componente dentário, anomalias genéticas da haste capilar, hipotricose simples do couro cabeludo, entre outras. Em geral, estão ligadas a cabelos e pelos, mas sem apoio mecanístico claro. Entre elas, a hipotricose simples do couro cabeludo e a alopecia areata difusa foram classificadas como "Pergunta de Pesquisa".
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+Para a indicação principal (síndrome de Ambras), atualmente não há literatura relacionada.
 
----
+Como referência indireta, para outra indicação prevista (alopecia areata difusa) há uma única publicação:
+
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [41714473](https://pubmed.ncbi.nlm.nih.gov/41714473/) | 2026 | Revisão | American Journal of Clinical Dermatology | Revisão narrativa sobre fisiopatologia, avaliação clínica e tratamentos da alopecia androgenética em mulheres; afeta cerca de 50% das mulheres ao longo da vida. Trata de condição diferente e é apenas indireta |
+
+## Informações de Comercialização no Brasil
+
+Todos os 13 registros encontram-se cancelados. Principais registros:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 101070231 | AVODART | Não informada | Inibidor da alfa-redutase |
+| Registro 105730618 | DUTASTERIDA | Não informada | Inibidor da alfa-redutase |
+| Registro 105730022 | DROALFA | Não informada | Inibidor da alfa-redutase |
+| Registro 105730472 | DASTENE | Não informada | Inibidor da alfa-redutase |
+| Registro 101070287 | COMBODART (dutasterida + tansulosina) | Não informada | Outros produtos com ação no trato urinário |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (não extraídas da bula)**: atrofia de múltiplos sistemas, síndrome de taquicardia postural ortostática, hipotensão ortostática, doença hepática, doença da vesícula biliar, priapismo e síndrome da íris flácida intraoperatória.
+- **Gravidez**: segundo a análise de mecanismo, a dutasterida é contraindicada na gravidez pelo efeito no desenvolvimento genital de fetos masculinos, o que é uma preocupação adicional para indicações congênitas ou pediátricas.
+- **Interações Medicamentosas** (100 interações encontradas; principais de nível moderado): aprepitanto, cimetidina, claritromicina, clotrimazol e miconazol. Outras interações listadas, de nível desconhecido, incluem omeprazol, pantoprazol, lansoprazol, metformina, glimepirida, sinvastatina, prednisona, hidrocortisona, morfina e doxiciclina, entre outras.
 
----
+Advertências e contraindicações da bula não estavam disponíveis; consulte a bula na ANVISA para informações completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A Síndrome de Ambras é impulsionada por mutação no gene TRPS1 e não pelo eixo androgênico, tornando o mecanismo de ação do Dutasteride — inibição da síntese de DHT — sem via de atuação plausível sobre esta condição. A ausência total de ensaios clínicos e de literatura de suporte confirma que esta previsão ainda não possui base empírica suficiente para avançar.
+A previsão tem pontuação alta, mas nível de evidência L5: não há ensaios clínicos nem literatura, e o mecanismo (redução da DHT) não explica a síndrome de Ambras, de origem genética. Além disso, todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de mecanismo de ação (MOA) via DrugBank API
-- Identificar estudos pré-clínicos que demonstrem qualquer efeito do Dutasteride em modelos de hipertricose de origem genética
-- Obter informações de segurança completas (bula/ANVISA) — atualmente bloqueante para avaliação S1
-- Verificar o status de registro do fármaco no mercado brasileiro junto à ANVISA
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem ela
+- Complementar os dados de mecanismo de ação (consulta ao DrugBank)
+- Realizar revisão de literatura e estudos pré-clínicos que testem um vínculo entre a via da DHT e a regulação de *TRPS1*
+- Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original
+- Caso o interesse seja em queda de cabelo, priorizar indicações com maior plausibilidade (por exemplo, alopecia androgenética) e formular a hipotricose simples do couro cabeludo como pergunta de pesquisa
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

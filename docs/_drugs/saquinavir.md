@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Saquinavir
-parent: Evidência Moderada (L3-L4)
-nav_order: 435
-evidence_level: L3
+parent: Apenas Predição do Modelo (L5)
+nav_order: 579
+evidence_level: L5
 indication_count: 6
 ---
 
 # Saquinavir
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **6** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,84 +29,73 @@ Nível de evidência: **L3** | Indicações previstas: **6**
 
 </div>
 
-# Saquinavir: Do HIV/AIDS à infecção por vírus da imunodeficiência símia (SIV)
+# Saquinavir: Da infecção por HIV/AIDS à infecção pelo vírus da imunodeficiência símia
 
 ## Resumo em Uma Frase
 
-Saquinavir é o primeiro inibidor de protease do HIV aprovado pelo FDA (1995), utilizado como componente da terapia antirretroviral combinada (HAART) no tratamento da infecção por HIV/AIDS.
-O modelo TxGNN prevê que pode ser eficaz para a **infecção por vírus da imunodeficiência símia (Simian Immunodeficiency Virus Infection)**, atualmente sem **ensaios clínicos registrados** e com **4 publicações** apoiando esta direção — todas em contexto pré-clínico ou animal.
-
----
+Saquinavir é um inibidor da protease do HIV-1, originalmente usado no tratamento da infecção por HIV e da AIDS.
+O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection)**, mas essa previsão tem apoio apenas de **4 publicações pré-clínicas** e **nenhum ensaio clínico**. A previsão reflete sobretudo a proximidade biológica com a indicação original, e não um novo uso terapêutico em humanos.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | HIV/AIDS — terapia antirretroviral combinada (dados de registro ANVISA não disponíveis neste pacote) |
-| Nova Indicação Prevista | Infecção por vírus da imunodeficiência símia (SIV) |
+| Indicação Original | HIV (infecção pelo HIV) e AIDS (indicação obtida do grafo de conhecimento, pois não há registros no Brasil) |
+| Nova Indicação Prevista | Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) |
 | Pontuação de Previsão TxGNN | 99,97% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 14 |
+| Nível de Evidência | L4 (apenas estudos pré-clínicos e de mecanismo) |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste pacote de evidências. Com base no conhecimento amplamente estabelecido na literatura científica, Saquinavir é um inibidor competitivo da protease do HIV-1 — enzima viral essencial para a clivagem de poliproteínas precursoras (Gag-Pol) durante a maturação de viriões infecciosos. Sem essa clivagem, as partículas virais produzidas são estruturalmente imaturas e incapazes de infectar novas células.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o saquinavir é um inibidor da protease do HIV-1: ele bloqueia a maturação de partículas virais infecciosas. Sua eficácia na infecção por HIV e na AIDS está comprovada, e mecanisticamente pode ser aplicável a outros lentivírus com protease semelhante.
 
-O vírus da imunodeficiência símia (SIV) é filogeneticamente próximo ao HIV-1 e compartilha alta homologia estrutural na região da protease viral. Estudos in vitro confirmam que a protease do SIVmac239 é susceptível à inibição por saquinavir com EC₅₀ de 55 ± 3 nM, valor comparável ao obtido para HIV-1 (47 ± 10 nM), demonstrando que a actividade inibitória se preserva entre espécies virais aparentadas. Esta similaridade molecular é suficiente para justificar a elevada pontuação TxGNN.
+A protease do vírus da imunodeficiência símia (SIV) é estruturalmente relacionada às proteases do HIV-1 e do HIV-2. Um estudo in vitro mostrou que o SIVmac239 é inibido pelo saquinavir com concentração efetiva de 50% de cerca de 55 nM, valor próximo ao observado para o HIV-1 (cerca de 47 nM). Isso torna a atividade plausível.
 
-**Importante ressalva clínica:** SIV infecta exclusivamente primatas não-humanos (macaco rhesus, chimpanzé etc.) e não representa uma doença humana com cenário terapêutico directo. O contexto de aplicação é restrito à investigação básica — nomeadamente como modelo animal para estudar a neuroAIDS, reservatórios virais no SNC e eficácia de regimes HAART. Esta previsão reflecte a homologia biológica explorada pelo grafo de conhecimento do TxGNN, e não configura oportunidade de reposicionamento clínico convencional.
-
----
+É importante ressaltar que o SIV é um vírus de modelo animal. Não existe indicação clínica humana nem ensaios em humanos. A pontuação alta do TxGNN reflete principalmente a semelhança com a indicação original (HIV), e não um uso terapêutico novo.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados para esta indicação.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [12709355](https://pubmed.ncbi.nlm.nih.gov/12709355/) | 2003 | In Vitro / Pré-clínico | Antimicrob Agents Chemother | SIVmac239 é inibido por saquinavir com EC₅₀ de 55 ± 3 nM, comparável ao HIV-1 (47 ± 10 nM); confirma susceptibilidade cruzada da protease SIV a inibidores de protease do HIV |
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In Vitro Comparativo | Antiviral Therapy | 16 fármacos antirretrovirais aprovados avaliados contra HIV-2, SIV e SHIV; saquinavir demonstra actividade anti-SIV e anti-SHIV, com implicações para profilaxia pós-exposição em laboratório |
-| [20497048](https://pubmed.ncbi.nlm.nih.gov/20497048/) | 2010 | Estudo Animal (Macaco) | J Infect Dis | HAART (contendo saquinavir) reduz replicação viral e inflamação no SNC de macacos infectados por SIV, porém o DNA viral persiste; modelo relevante para neuroAIDS |
-| [16809296](https://pubmed.ncbi.nlm.nih.gov/16809296/) | 2006 | Biologia Estrutural | J Virology | Análise do resíduo invariante Thr80 na protease do HIV-1; dados estruturais com implicações para a compreensão da selectividade de inibidores de protease entre HIV-1 e SIV |
+|------|-----|------|------|---------|
+| [12709355](https://pubmed.ncbi.nlm.nih.gov/12709355/) | 2003 | Estudo de suscetibilidade in vitro | Antimicrob Agents Chemother | SIVmac239 foi inibido por indinavir, saquinavir e ritonavir, com potência semelhante à observada para o HIV-1 |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | Estudo de suscetibilidade in vitro | Antivir Ther | Avaliação da atividade de 16 fármacos aprovados contra HIV-2, SIV e SHIV, com implicações para tratamento e profilaxia pós-exposição |
+| [20497048](https://pubmed.ncbi.nlm.nih.gov/20497048/) | 2010 | Pré-clínico (primata não humano) | J Infect Dis | Macacos infectados com SIV tratados com terapia antirretroviral altamente ativa (HAART) tiveram menor replicação viral e inflamação no sistema nervoso central, mas o DNA viral persistiu |
+| [16809296](https://pubmed.ncbi.nlm.nih.gov/16809296/) | 2006 | Pré-clínico (estrutura/função da protease) | J Virol | Papel do resíduo invariante Thr80 na estrutura, função e infectividade da protease do HIV-1 |
 
----
+## Citotoxicidade
 
-## Informações de Comercialização no Brasil
-
-Saquinavir possui **14 registros** ativos no mercado brasileiro (situação: comercializado). Os dados detalhados de nome comercial, forma farmacêutica e indicação aprovada por produto não constam neste pacote de evidências. Recomenda-se consulta direta à base de dados da ANVISA (Consulta de Produtos Registrados) para informações completas dos registros vigentes.
-
----
+Esta seção não se aplica: o saquinavir é um antirretroviral, não um antineoplásico.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+Os dados de advertências e contraindicações da bula não estavam disponíveis. Consulte a bula para essas informações.
 
----
+- **Contraindicações (segundo o grafo de conhecimento, não texto de bula)**: síndrome do QT longo (incluindo a forma familiar), torsades de pointes, bloqueio atrioventricular, insuficiência hepática, doença hepática, cirrose, hepatite B e C crônicas, doença da vesícula biliar, hiperglicemia, diabetes mellitus, cetoacidose diabética, deficiência de potássio, hipertrigliceridemia, hemofilia (incluindo a forma sintomática em portadoras) e abuso/dependência de substâncias.
+- **Interações Medicamentosas**: 100 interações foram identificadas. Entre as listadas, as de gravidade **maior** são com **triancinolona**, **budesonida** e **claritromicina**. Há ainda várias de gravidade **moderada**, incluindo antidiabéticos (acarbose, metformina, alogliptina, canagliflozina, clorpropamida, albiglutida), inibidores da bomba de prótons e antiácidos (omeprazol, rabeprazol, famotidina), corticosteroides (hidrocortisona, dexametasona, betametasona), aprepitanto, loperamida e bisacodil.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão TxGNN para infecção por SIV é mecanisticamente coerente — a elevada homologia estrutural entre as proteases de SIV e HIV-1 fundamenta a susceptibilidade cruzada observada in vitro — mas o SIV não é uma doença humana, pelo que esta indicação não representa uma oportunidade de reposicionamento clínico com impacto em pacientes.
+- A indicação prevista (SIV) é uma condição de modelo animal, sem uso clínico humano e sem ensaios, e apoiada apenas por estudos pré-clínicos (L4). O fármaco não é comercializado no Brasil.
+
+**Outras indicações previstas avaliadas:**
+- **AIDS related complex (L1, Hold)** e **HIV congênito (L3, Hold)** são extensões da indicação original, não reposicionamento real. Há ensaios de Fase 2 e um de Fase 3 (NCT00002334, 3.000 participantes), mas são da década de 1990, em regimes combinados. A contribuição isolada do saquinavir não é separável nos dados. Antirretrovirais mais novos o substituíram.
+- **AIDS felina**, **transtorno do neurodesenvolvimento raro** e **hiperlipidemia combinada familiar (obsoleta)** são previsões sem evidências. As duas primeiras não têm vínculo mecanístico plausível com um inibidor da protease do HIV. A última tem direção de efeito desfavorável, pois inibidores de protease causam dislipidemia.
 
 **Para prosseguir, é necessário:**
-
-- **Redirecionar análise para indicações com relevância clínica humana:** este pacote contém indicações de maior impacto terapêutico com evidências mais robustas:
-  - **Rank 5 — AIDS Related Complex (ARC):** nível L1, 8 ensaios clínicos (incluindo Phase 3 com n=3.000), decisão *Proceed with Guardrails* — representa a oportunidade de reposicionamento com maior base de evidências
-  - **Rank 6 — HIV Congénito (vertical):** nível L2, 1 ensaio clínico pediátrico directo com saquinavir/ritonavir (NCT00623597, n=18), decisão *Research Question* — potencial para desenvolvimento pediátrico
-- Obter dados regulatórios detalhados dos 14 registros ANVISA (nome comercial, forma farmacêutica, indicação aprovada)
-- Recuperar o mecanismo de ação completo via DrugBank API (dados actualmente ausentes neste pacote — DG002)
-- Consultar a bula ANVISA para advertências e contra-indicações (DG001 — severidade Blocking para avaliação de segurança)
-- Caso o objectivo seja utilização de Saquinavir em modelos animais SIV (investigação básica), esta previsão é suporte válido; nesse caso, definir protocolo de modelo animal e parceiros de investigação
+- Obter o texto da bula da ANVISA (advertências e contraindicações), lacuna bloqueante para a triagem de segurança.
+- Complementar os dados do mecanismo de ação (por exemplo, via DrugBank).
+- Reavaliar se há relevância humana ou veterinária para a indicação prevista; sem ela, não há valor de reposicionamento a perseguir.
+- Considerar o risco cardiovascular (prolongamento do QT) e as muitas interações medicamentosas em qualquer plano futuro.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Cabotegravir Sodium
 parent: Apenas Predição do Modelo (L5)
-nav_order: 148
+nav_order: 171
 evidence_level: L5
 indication_count: 0
 ---

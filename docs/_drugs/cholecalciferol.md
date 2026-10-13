@@ -2,7 +2,7 @@
 layout: default
 title: Cholecalciferol
 parent: Apenas Predição do Modelo (L5)
-nav_order: 186
+nav_order: 221
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,83 +29,78 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-O skill confirma que estou no contexto correto do pipeline TxGNN. Agora vou gerar o relatório seguindo o formato especificado no sistema.
-
----
-
-# Colecalciferol: Da Deficiência de Vitamina D ao Hipoparatireoidismo Familiar Isolado por Secreção Deficiente de PTH
+# Colecalciferol: De vitamina D e análogos para hipoparatireoidismo isolado familiar por secreção deficiente de PTH
 
 ## Resumo em Uma Frase
 
-Colecalciferol (Vitamina D3) é um pró-hormônio essencial amplamente utilizado na prevenção e tratamento da deficiência de vitamina D, raquitismo nutricional e osteomalácia — atualmente sem registro ANVISA identificado na base consultada.
-O modelo TxGNN prevê que pode ser eficaz para o **Hipoparatireoidismo Familiar Isolado por Secreção Deficiente de PTH (familial isolated hypoparathyroidism due to impaired PTH secretion)**, com pontuação de **99,79%**, porém atualmente sem **nenhum ensaio clínico** nem **publicação** específica apoiando esta direção nesta indicação.
-
----
+Colecalciferol (vitamina D3) é registrado na ANVISA na categoria "vitamina D e análogos".
+O modelo TxGNN prevê que pode ser eficaz para **hipoparatireoidismo isolado familiar por secreção deficiente de PTH**, mas até o momento há **0 ensaios clínicos** e **0 publicações** específicas apoiando esta direção. A previsão se baseia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Deficiência de Vitamina D / Raquitismo nutricional (nenhum registro ANVISA identificado na base consultada) |
-| Nova Indicação Prevista | Hipoparatireoidismo Familiar Isolado por Secreção Deficiente de PTH |
+|------|------|
+| Indicação Original | Vitamina D e análogos |
+| Nova Indicação Prevista | Hipoparatireoidismo isolado familiar por secreção deficiente de PTH |
 | Pontuação de Previsão TxGNN | 99,79% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (nenhum registro identificado) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados na fonte consultada. Com base no conhecimento farmacológico estabelecido, o Colecalciferol (Vitamina D3) é o precursor da vitamina D, convertido no fígado em 25-hidroxivitamina D₃ e, posteriormente, nos rins pela enzima 1α-hidroxilase em calcitriol [1,25(OH)₂D₃] — a forma biologicamente ativa. O calcitriol atua como hormônio esteroidal, ligando-se ao receptor VDR para promover a absorção intestinal de cálcio, a reabsorção tubular renal de cálcio e a mobilização óssea de cálcio, processos centrais para a homeostase calcêmica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o colecalciferol é um pró-hormônio da vitamina D. É convertido no fígado em 25-hidroxivitamina D e, depois, no rim em calcitriol, a forma ativa. O calcitriol atua no intestino, nos ossos e nos rins para regular cálcio e fosfato.
 
-No hipoparatireoidismo familiar isolado por secreção deficiente de PTH, um defeito genético impede a produção adequada de PTH pelas paratireoides, resultando em hipocalcemia crônica. Como o calcitriol — forma ativa derivada do colecalciferol — pode contornar a ausência de PTH ao agir diretamente nos tecidos-alvo (intestino e rim), existe uma conexão teórica pela via Colecalciferol → Calcitriol. De fato, o calcitriol é parte do tratamento padrão do hipoparatireoidismo.
+A biologia da previsão é plausível. Metabólitos da vitamina D são usados no hipoparatireoidismo para elevar o cálcio sérico. Nessa condição, porém, há um obstáculo importante: a ativação do colecalciferol nativo depende da 1-alfa-hidroxilação renal, que é estimulada pelo PTH. Quando a secreção de PTH está comprometida, essa conversão fica prejudicada. Por isso, análogos ativos como calcitriol ou alfacalcidol costumam ser preferidos ao colecalciferol nativo.
 
-Contudo, há uma limitação mecanística importante: o passo de ativação renal do colecalciferol (25-OH-D → calcitriol) é catalisado pela 1α-hidroxilase, cuja atividade é estimulada justamente pelo PTH. Na ausência de PTH, essa conversão fica gravemente prejudicada, tornando o colecalciferol um substrato menos eficiente do que a administração direta de calcitriol. Por isso, as diretrizes clínicas de hipoparatireoidismo preferem o calcitriol ou alfacalcidol ao colecalciferol. A pontuação elevada do TxGNN provavelmente reflete a proximidade de nós no grafo de conhecimento ("doenças do metabolismo do cálcio"), e não uma evidência clínica real para esta indicação ultrarara.
-
----
+A ligação entre a indicação original e a nova é, portanto, apenas uma previsão do grafo de conhecimento. Os dados compilados para este relatório não trazem estudos que a confirmem.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para o uso de colecalciferol no hipoparatireoidismo familiar isolado por secreção deficiente de PTH.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada especificamente ao uso de colecalciferol nesta indicação.
-
----
+Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Nenhum registro ANVISA foi identificado para colecalciferol na base de dados consultada (total de registros: 0).
+Todos os 20 registros localizados estão **cancelados**, e não há registro válido atualmente. Principais registros (5 de 20):
 
-> **Observação:** O colecalciferol é um princípio ativo amplamente disponível no Brasil, frequentemente comercializado como suplemento alimentar ou medicamento de venda livre. A ausência de registros na consulta pode refletir limitações na cobertura da base ANVISA consultada ou classificação do produto como suplemento nutricional (fora do escopo da busca por medicamentos). Recomenda-se verificação direta no portal ANVISA (consulta.anvisa.gov.br).
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100431390 | OHDE CAPS | Não informada | Vitamina D e análogos |
+| Registro 105730171 | VIT. D SOLEIL CAPS | Não informada | Vitamina D e análogos |
+| Registro 143810246 | VITAMINA D CIMED | Não informada | Vitamina D e análogos |
+| Registro 100380106 | DEFULL | Não informada | Vitamina D e análogos |
+| Registro 170420025 | VITAMINA D3 | Não informada | Análogo sintético da vitamina D |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento** (relações fármaco-doença do TxGNN/PrimeKG, não texto de bula): hipertensão, doença renal, doença hepática, doença da vesícula biliar, gastrite, sarcoidose, diabetes mellitus, cetoacidose diabética, fibrilação atrial, hiperparatireoidismo, osteíte fibrosa, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, distúrbios da coagulação, anemia falciforme, hiperoxalúria primária, hemocromatose hereditária, hemossiderose, doença de Wilson, câncer de mama feminino, câncer de próstata, hiperlipidemia e hiperlipidemia familiar, entre outras.
+- **Interações medicamentosas** (56 registradas):
+  - **Gravidade maior**: calcifediol, calcitriol, di-hidrotaquisterol e doxercalciferol. Combinar análogos da vitamina D aumenta o risco de hipercalcemia.
+  - **Gravidade moderada**: diuréticos tiazídicos (clortalidona, clorotiazida, bendroflumetiazida, benzotiazida), barbitúricos (amobarbital, butabarbital, butalbital), carbamazepina, digoxina e digitoxina, e sequestrantes de ácidos biliares (colestiramina, colesevelam, colestipol).
+  - **Gravidade menor**: cimetidina.
 
----
+Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão possui base mecanística teórica — o calcitriol (forma ativa do colecalciferol) é de fato utilizado no manejo do hipoparatireoidismo — mas a indicação específica de "hipoparatireoidismo familiar isolado por secreção deficiente de PTH" é ultrarara, não possui nenhum ensaio clínico nem publicação direcionada a colecalciferol, e na prática clínica o substrato ativo (calcitriol) é claramente preferido ao precursor (colecalciferol) neste contexto. O nível de evidência L5 não sustenta progressão clínica.
+- A pontuação do modelo é muito alta (99,79%), mas não há ensaios clínicos nem literatura específica (nível L5).
+- A ativação do colecalciferol nativo depende do PTH, o que o torna menos adequado que análogos ativos nessa condição.
+- Os 20 registros brasileiros estão cancelados.
+- Na mesma lista de previsões, a **doença óssea renal (osteodistrofia renal)** tem muito mais suporte (nível L2). Inclui um ensaio de Fase 3 (NCT00752401, status desconhecido e sem resultados) e um estudo comparativo concluído contra doxercalciferol (NCT00285467). Essa indicação merece avaliação prioritária, com monitoramento de cálcio, fosfato e PTH.
 
 **Para prosseguir, é necessário:**
-- Obter dados de mecanismo de ação (MOA) completos via DrugBank API (DG002)
-- Realizar busca sistemática de relatos de caso e séries de casos sobre colecalciferol no hipoparatireoidismo familiar isolado
-- Comparar eficácia relativa colecalciferol vs. calcitriol/alfacalcidol neste contexto genético específico
-- Revisar diretrizes clínicas de hipoparatireoidismo (Endocrine Society, ETA) quanto ao papel do colecalciferol como suplementação adjuvante
-- Consultar diretamente o portal ANVISA para regularização regulatória no Brasil (DG001)
-- Avaliar indicações com evidência superior identificadas no mesmo Evidence Pack: **佝僂病低磷血症 (L3, Rank 5)** e **osteodistrofia renal (L3, Rank 6)** apresentam suporte de ensaios clínicos e podem ser priorizadas
+- Dados de mecanismo de ação (MOA) e comparação direta com calcitriol/alfacalcidol no hipoparatireoidismo.
+- Revisão dirigida da literatura e dos registros de ensaios para esta doença rara.
+- Informações de segurança da bula da ANVISA, incluindo risco de hipercalcemia.
+- Verificação do status regulatório, já que não há registro válido no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

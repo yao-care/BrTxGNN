@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tetracaine
-parent: Evidência Alta (L1-L2)
-nav_order: 470
-evidence_level: L2
+parent: Apenas Predição do Modelo (L5)
+nav_order: 624
+evidence_level: L5
 indication_count: 9
 ---
 
 # Tetracaine
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **9** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,97 +29,108 @@ Nível de evidência: **L2** | Indicações previstas: **9**
 
 </div>
 
-# Tetracaine: De Anestésico Local para Acne Keloid
+# Tetracaína: Do anestésico local à síndrome da cauda equina? (previsão sem respaldo)
+
+> Observação: o relatório avalia a previsão de maior pontuação do TxGNN (acrodermatite crônica atrófica). Também comenta a única indicação com estudos relacionados (acne queloidiana) e o caso de segurança da síndrome da cauda equina.
 
 ## Resumo em Uma Frase
 
-Tetracaine é um anestésico local de tipo éster, amplamente utilizado para anestesia de superfície em procedimentos oftalmológicos, otorrinolaringológicos e dermatológicos, agindo pelo bloqueio dos canais de sódio voltagem-dependentes (Nav).
-Entre as 9 indicações previstas pelo modelo TxGNN, a de **melhor evidência clínica** é **Acne Keloid (Cicatriz Queloide por Acne)** — especificamente como adjuvante anestésico em procedimentos de laser dermatológico —, apoiada por **1 ensaio clínico Phase 4 concluído** e **1 publicação RCT** no British Journal of Dermatology.
-
----
+Tetracaína é um anestésico local do tipo éster, originalmente usado em anestesia local, em antissépticos tópicos para orofaringe e em associações com glicocorticoides tópicos.
+O modelo TxGNN prevê que pode ser eficaz para **acrodermatite crônica atrófica (acrodermatitis chronica atrophicans)**, mas **não há ensaios clínicos nem publicações** que apoiem essa previsão. Trata-se de uma previsão puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anestesia local e superficial (oftalmológica, dermatológica, otorrinolaringológica) |
-| Nova Indicação Prevista | Acne Keloid — anestesia tópica pré-procedimental para laser (Acne Keloidalis Nuchae) |
-| Pontuação de Previsão TxGNN | 99.91% (rank geral #779) |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails *(apenas para acne keloid)* |
-
----
+| Indicação Original | Anestésicos locais |
+| Nova Indicação Prevista | Acrodermatite crônica atrófica (acrodermatitis chronica atrophicans) |
+| Pontuação de Previsão TxGNN | 99,93% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 5 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Tetracaine é um anestésico local da classe dos ésteres que exerce seu efeito pelo bloqueio reversível dos canais de sódio voltagem-dependentes (Nav) na membrana neuronal, impedindo a despolarização e a condução do impulso doloroso. Embora os dados detalhados de MOA não estejam disponíveis no Evidence Pack consultado, Tetracaine é farmacologicamente bem caracterizado na literatura científica. É utilizado classicamente em preparações tópicas (colírio, spray, gel, creme) e para raquianestesia.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a tetracaína é um anestésico local do tipo éster que bloqueia canais de sódio dependentes de voltagem, e sua eficácia como anestésico local está estabelecida.
 
-A acne keloidalis nuchae (AKN) é uma dermatose inflamatória crônica que forma pápulas e placas queloideanas na região da nuca e couro cabeludo posterior. Seu tratamento de primeira linha inclui procedimentos físicos dolorosos como laser Nd:YAG, laser de diodo, criocirurgia ou excisão cirúrgica. Para reduzir a dor associada a esses procedimentos, a formulação em creme de 7% Lidocaína / 7% Tetracaína é aplicada topicamente de forma prévia como anestésico de superfície de ação profunda e prolongada — superando formulações convencionais como EMLA (2,5% Lid/2,5% Pril) em eficácia analgésica para procedimentos dérmicos profundos.
+A acrodermatite crônica atrófica é uma manifestação dermatológica tardia da infecção por *Borrelia* (doença de Lyme). O bloqueio de canais de sódio não tem papel antimicrobiano nem modificador da doença. **Não foi identificado vínculo mecanístico plausível**: a pontuação alta reflete apenas proximidade no grafo de conhecimento, não uma justificativa farmacológica.
 
-Portanto, o papel de Tetracaine neste contexto não é como terapia modificadora da fibrose ou da inflamação subjacente à AKN, mas sim como **adjuvante anestésico procedimental** — um uso clinicamente direto, mecanisticamente coerente com o perfil farmacológico do fármaco, e respaldado por evidência clínica formal. O RCT duplo-cego de Phase 4 identificado confirma especificamente a eficácia e a segurança desta aplicação.
+As demais previsões de topo seguem o mesmo padrão e não têm respaldo clínico:
 
----
-
-## Visão Geral das 9 Indicações Previstas
-
-| Rank | Doença Prevista | Score TxGNN | Evidência | Recomendação | Interpretação |
-|------|-----------------|-------------|-----------|--------------|---------------|
-| 1 | Acrodermatitis chronica atrophicans | 99.93% | L5 | Hold | Falso positivo — doença bacteriana (Borrelia); Nav sem papel terapêutico |
-| 2 | Neonatal dermatomyositis | 99.92% | L5 | Hold | Doença autoimune (IFN/complemento); sem mecanismo relevante |
-| 3 | Bronchitis | 99.92% | L4 | Hold | Uso procedimental em broncoscopia, não tratamento da bronquite em si |
-| 4 | ILD pediátrica + doença do tecido conjuntivo | 99.92% | L5 | Hold | Falso positivo — doença pulmonar autoimune fibrótica |
-| **5** | **Acne Keloid** | **99.91%** | **L2** | **Proceed with Guardrails** | **Melhor evidência: RCT Phase 4 completo (n=30)** |
-| 6 | Hydroa vacciniforme, familiar | 99.91% | L5 | Hold | Doença EBV-relacionada (NK/T); sem mecanismo com Nav |
-| 7 | Amyopathic dermatomyositis | 99.90% | L5 | Hold | Autoimune (anti-MDA5); completamente sem relação com Nav |
-| 8 | Cauda equina syndrome | 99.55% | L4 | Hold | ⚠️ **ALERTA**: Tetracaine é causa conhecida de CES iatrogênica — sinal invertido |
-| 9 | Irritable bowel syndrome | 99.41% | L5 | Hold | Sem biodisponibilidade oral; inviável para alcance sistêmico intestinal |
-
----
+- **Dermatomiosite neonatal e dermatomiosite amiopática**: doenças autoimunes que a tetracaína não trata. Além disso, o uso em neonatos levanta preocupações de segurança.
+- **Bronquite**: vínculo fraco e indireto. Anestésicos tópicos suprimem a tosse (sintoma), mas não tratam a doença.
+- **Doença pulmonar intersticial secundária da infância associada a doença do tecido conjuntivo**: sem vínculo plausível.
+- **Hidroa vaciniforme familiar**: sem atividade fotoprotetora, antiviral ou imunomoduladora.
+- **Síndrome do intestino irritável**: hipótese especulativa (hipersensibilidade visceral), sem estudos.
 
 ## Evidências de Ensaios Clínicos
 
-*(Indicação com evidência: Acne Keloid — rank #5)*
+Para a indicação principal (acrodermatite crônica atrófica), atualmente não há ensaios clínicos relacionados registrados.
+
+Entre as outras previsões, há um ensaio relacionado à acne queloidiana (rank 5), de relevância apenas indireta:
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT02372786](https://clinicaltrials.gov/study/NCT02372786) | Phase 4 | Concluído | 30 | Ensaio duplo-cego randomizado comparando creme 7% Lidocaína/7% Tetracaína vs. 2,5% Lidocaína/2,5% Prilocaína para anestesia local durante laser em acne keloidalis nuchae e remoção de tatuagem. Desfecho primário: redução da dor autorreferida durante o procedimento. Design rigoroso; amostra pequena (n=30). |
-
----
+| [NCT02372786](https://clinicaltrials.gov/study/NCT02372786) | Phase 4 | Concluído | 30 | Creme de lidocaína 7%/tetracaína 7% vs. lidocaína 2,5%/prilocaína 2,5% para dor durante laser em acne queloidiana da nuca e remoção de tatuagem. Avalia analgesia do procedimento, não tratamento da doença. |
 
 ## Evidências da Literatura
 
-*(Indicação com evidência: Acne Keloid — rank #5)*
+Para a indicação principal, atualmente não há literatura relacionada.
+
+Literatura das outras previsões (selecionada, priorizando RCT, depois revisões e relatos de caso):
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [27377616](https://pubmed.ncbi.nlm.nih.gov/27377616/) | 2017 | RCT | British Journal of Dermatology | Resultados de dois ensaios clínicos randomizados comparando lidocaína/tetracaína vs. lidocaína/prilocaína em creme para anestesia tópica em laser para acne keloidalis nuchae e remoção de tatuagens. Confirma eficácia da formulação com Tetracaína para procedimentos dérmicos profundos; alta correspondência com NCT02372786 (possível publicação do mesmo estudo). |
+| [27377616](https://pubmed.ncbi.nlm.nih.gov/27377616/) | 2017 | RCT | Br J Dermatol | Comparação de creme lidocaína/tetracaína vs. lidocaína/prilocaína para anestesia em laser de acne queloidiana da nuca e remoção de tatuagem (anestesia do procedimento) |
+| [9033758](https://pubmed.ncbi.nlm.nih.gov/9033758/) | 1996 | Revisão | Ann Fr Anesth Reanim | Neurotoxicidade de agentes administrados por via intratecal |
+| [10876464](https://pubmed.ncbi.nlm.nih.gov/10876464/) | 2000 | Revisão | AANA J | Sintomas neurológicos transitórios e raquianestesia |
+| [30625770](https://pubmed.ncbi.nlm.nih.gov/30625770/) | 2009 | Relato de caso | Korean J Anesthesiol | Síndrome da cauda equina após raquianestesia com tetracaína hiperbárica 0,5% com epinefrina |
+| [11685003](https://pubmed.ncbi.nlm.nih.gov/11685003/) | 2001 | Relato de caso | Anesthesiology | Síndrome da cauda equina após tetracaína espinhal, com acompanhamento eletromiográfico de 20 anos |
+| [8982894](https://pubmed.ncbi.nlm.nih.gov/8982894/) | 1996 | Relato de caso | J Clin Anesth | Lesão do cone medular após raquianestesia com tetracaína e lidocaína |
+| [20739341](https://pubmed.ncbi.nlm.nih.gov/20739341/) | 2010 | Relato de caso | Br J Radiol | Realce da cauda equina por gadolínio após anestesia combinada raquidiana-peridural |
+| [8017646](https://pubmed.ncbi.nlm.nih.gov/8017646/) | 1994 | Pré-clínico | Anesthesiology | Bloqueio de condução irreversível em nervo isolado por altas concentrações de anestésicos locais |
+| [8024139](https://pubmed.ncbi.nlm.nih.gov/8024139/) | 1994 | Pré-clínico (animal) | Anesthesiology | Déficit sensorial sacral persistente após infusão intratecal de anestésico local em ratos |
 
----
+**Atenção:** a literatura sobre síndrome da cauda equina descreve a tetracaína como **causa** (neurotoxicidade após uso espinhal/intratecal), não como tratamento. A pontuação alta do modelo provavelmente reflete essa relação de evento adverso e não é um sinal de reposicionamento. Essa direção seria contraindicada por segurança.
+
+## Informações de Comercialização no Brasil
+
+Todos os registros estão cancelados; atualmente não há produto com registro válido.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 101430075 | Pliaglis | Não informada | Anestésicos locais |
+| Registro 102980565 | Skincaine | Não informada | Anestésicos locais |
+| Registro 178170933 | Hexomedine | Não informada | Antiinfecciosos e antissépticos tópicos para orofaringe |
+| Registro 102980552 | Lidocaína + Tetracaína | Não informada | Anestésicos locais |
+| Registro 103900162 | Oto Betnovate | Não informada | Glicocorticoides tópicos – associação medicamentosa |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações previstas pelo grafo de conhecimento** (relações do grafo TxGNN/PrimeKG, não texto de bula): epilepsia, doença renal, doença hepática, doença da vesícula biliar, doença cardíaca e cardiovascular, parada cardíaca súbita, doença do sistema de condução cardíaco, insuficiência respiratória, miastenia gravis (inclusive de início na idade adulta), doença da junção neuromuscular, deficiência de butirilcolinesterase, hipertireoidismo, doença de Graves, tireotoxicose, uveíte, doenças da íris e do corpo ciliar, panuveíte, doenças infecciosas oculares e conjuntivite.
+- **Interações medicamentosas** (32 registradas; principais):
+  - **Maior gravidade:** ácido nitroso e bupivacaína lipossomal.
+  - **Moderada:** sulfassalazina e sulfametoxazol; outros anestésicos (lidocaína tópica e oftálmica, benzocaína, cocaína tópica e nasal, proparacaína, oxibuprocaína, cinchocaína); benzodiazepínicos (alprazolam, clordiazepóxido, clobazam, clonazepam, ácido clorazépico, diazepam, estazolam).
+  - **Menor:** hialuronidase.
+- **Risco neurológico:** casos de síndrome da cauda equina e lesão do cone medular após uso espinhal/intratecal.
+- **Neonatos:** o uso de anestésico tópico ou espinhal em neonatos exige cautela (relevante para a previsão de dermatomiosite neonatal).
 
-> **⚠️ Alerta Especial — Causalidade Reversa (Rank #8, Cauda Equina Syndrome):**
-> A previsão TxGNN para síndrome da cauda equina deve ser interpretada como **sinal falso positivo por associação inversa**: Tetracaine em raquianestesia — especialmente em altas concentrações ou com formulações hipobáricas/hiperbáricas inadequadas — é uma **causa conhecida** de lesão neurológica iatrogênica, incluindo síndrome da cauda equina. Há múltiplos relatos de caso na literatura descrevendo este dano neurológico após injeção intratecal de Tetracaine. Este fármaco **não deve** ser considerado para tratamento desta condição.
-
----
+As advertências e contraindicações da bula da ANVISA não estavam disponíveis nos dados compilados; consulte a bula para informações completas de segurança.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails** *(indicação: Acne Keloid como anestésico tópico pré-procedimental para laser)*
+**Decisão: Hold**
 
 **Justificativa:**
-Um RCT duplo-cego de Phase 4 (NCT02372786, n=30) avaliou diretamente a formulação 7% Lidocaína/7% Tetracaína para redução de dor durante laser em acne keloidalis nuchae, com publicação formal no British Journal of Dermatology (2017). O uso é mecanisticamente coerente com o perfil farmacológico de Tetracaine como bloqueador Nav, porém restringe-se ao papel de **anestésico procedimental** — não representa terapia modificadora da doença queloide subjacente.
+- A previsão principal tem pontuação alta (99,93%), mas está no nível L5: não há ensaios, literatura nem vínculo mecanístico plausível. O único estudo relacionado (acne queloidiana) avalia analgesia de procedimento, já alinhada à indicação original, e não configura reposicionamento. Todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Registrar a formulação 7% Lidocaína / 7% Tetracaína em creme junto à ANVISA (atualmente sem registro no Brasil)
-- Obter dados completos de advertências, contraindicações e MOA via consulta ao DrugBank e à bula oficial
-- Avaliar viabilidade regulatória: registro de formulação composta, importação ou manipulação em farmácia de manipulação com laudo de equivalência
-- Delimitar claramente o contexto de uso: anestesia tópica pré-procedimento de laser/criocirurgia — não como tratamento da fibrose ou inflamação da AKN
-- Para as demais **8 indicações previstas**: recomendação **Hold** universal, por ausência de mecanismo plausível (ranks 1, 2, 4, 6, 7, 9), natureza procedimental sem benefício terapêutico real (ranks 3, 5), ou risco de interpretação de causalidade inversa (**rank 8 — contraindicado investigar**)
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a ausência desses dados bloqueia a triagem de segurança.
+- Consultar o mecanismo de ação detalhado no DrugBank.
+- Apresentar uma hipótese mecanística plausível e evidência pré-clínica antes de qualquer investimento clínico.
+- Definir a via de administração compatível com a nova indicação e avaliar sua viabilidade regulatória, já que não há registro válido no Brasil.
+- Descartar a síndrome da cauda equina como alvo terapêutico, por refletir um evento adverso.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

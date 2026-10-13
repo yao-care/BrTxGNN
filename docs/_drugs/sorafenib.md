@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Sorafenib
-parent: Evidência Moderada (L3-L4)
-nav_order: 448
-evidence_level: L3
+parent: Evidência Alta (L1-L2)
+nav_order: 595
+evidence_level: L2
 indication_count: 10
 ---
 
 # Sorafenib
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,93 +29,86 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Sorafenib: Do carcinoma hepatocelular ao lipossarcoma
+# Sorafenibe: Do carcinoma hepatocelular ao lipossarcoma
 
 ## Resumo em Uma Frase
 
-Sorafenib (Nexavar®) é um inibidor oral de multicinase aprovado para o tratamento de carcinoma hepatocelular avançado, carcinoma de células renais e carcinoma diferenciado de tireoide.
-O modelo TxGNN prevê que pode ser eficaz para **Lipossarcoma (Liposarcoma)**, com **2 ensaios clínicos** — incluindo 1 estudo de Fase 2 que avaliou diretamente Sorafenib em sarcomas de partes moles avançados — apoiando esta direção.
-
----
+Sorafenibe é um inibidor de múltiplas quinases, originalmente usado no tratamento do carcinoma hepatocelular (câncer de fígado), do carcinoma de células renais e do carcinoma de tireoide.
+O modelo TxGNN prevê que pode ser eficaz para **Lipossarcoma (Liposarcoma)**, atualmente com **1 ensaio clínico** (Fase 2, em sarcomas de partes moles de histologia mista) e **8 publicações** relacionadas, sendo que nenhum estudo avalia especificamente o lipossarcoma.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Carcinoma hepatocelular avançado; carcinoma de células renais; carcinoma diferenciado de tireoide |
+| Indicação Original | Carcinoma hepatocelular (câncer de fígado) |
 | Nova Indicação Prevista | Lipossarcoma (Liposarcoma) |
-| Pontuação de Previsão TxGNN | 99.82% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 4 |
+| Pontuação de Previsão TxGNN | 99,82% |
+| Nível de Evidência | L2 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Com base nas informações conhecidas, Sorafenib é um inibidor oral de multicinase que bloqueia simultaneamente múltiplos receptores de tirosina quinase — VEGFR-1/2/3, PDGFR-β, KIT, FLT-3, RET — e membros da família RAF (Raf-1, B-RAF). Esses dois eixos de atuação interrompem tanto a proliferação direta das células tumorais quanto a formação de novos vasos que nutrem o tumor. Sua eficácia em carcinoma hepatocelular, carcinoma de células renais e carcinoma diferenciado de tireoide está amplamente estabelecida.
+Sorafenibe é um inibidor de múltiplas quinases que atua sobre a via RAF/MEK/ERK e sobre receptores como VEGFR, PDGFR e KIT. Os dados compilados para este relatório não trazem uma descrição detalhada do mecanismo de ação, mas essa caracterização é amplamente conhecida. Ela combina efeito antiproliferativo (via MAPK) e antiangiogênico.
 
-Lipossarcomas frequentemente apresentam sobreexpressão de PDGFR e amplificações de CDK4/MDM2. A inibição de VEGFR/PDGFR-β pelo Sorafenib interfere diretamente na angiogênese tumoral e na sinalização do estroma mesenquimal; a inibição da via RAF/MEK/ERK acrescenta uma base antiproliferativa adicional. Essa sobreposição de alvos moleculares — compartilhada entre as indicações já aprovadas e o lipossarcoma — torna a hipótese de reposicionamento mecanisticamente plausível.
+A relação com a indicação original é indireta: os carcinomas hepático e renal dependem fortemente de angiogênese e de sinalização por quinases, e os sarcomas de partes moles também podem depender dessas vias. Estudos pré-clínicos mostraram inibição da via MAPK em modelos de sarcoma, como o tumor maligno da bainha de nervo periférico, e o estudo incluiu linhagens de lipossarcoma desdiferenciado.
 
-O ensaio NCT00217620 (Fase 2, concluído, n=51) avaliou diretamente Sorafenib em sarcomas de partes moles avançados, categoria que inclui o lipossarcoma como subtipo histológico. Esse estudo constitui o principal pilar de evidência clínica disponível até o momento. A confirmação de eficácia específica no subgrupo lipossarcoma — a partir dos dados publicados desse ensaio — é o próximo passo crítico para justificar progressão.
-
----
+Há, porém, uma limitação importante. Os ensaios de Fase 2 incluíram sarcomas de histologias mistas, sem resultados separados para lipossarcoma. Os subtipos de lipossarcoma (por exemplo, o desdiferenciado, associado a MDM2/CDK4) dependem de vias que o sorafenibe não inibe diretamente. A plausibilidade mecanística é, portanto, apenas moderada.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00217620](https://clinicaltrials.gov/study/NCT00217620) | Phase 2 | Concluído | 51 | Sorafenib (BAY-9006) avaliado em sarcomas de partes moles avançados; estuda o bloqueio de enzimas necessárias ao crescimento celular e a inibição do fluxo sanguíneo tumoral — inclui lipossarcoma como subtipo histológico elegível |
-| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Phase 2 | Concluído | 131 | **Regorafenib** (não Sorafenib) em subtipos selecionados de sarcoma; destaca precedente histórico de atividade de Sorafenib em osteossarcoma — evidência indireta de classe, não aplicável diretamente |
-
----
+| [NCT00217620](https://clinicaltrials.gov/study/NCT00217620) | Phase 2 | Concluído | 51 | Estudo de braço único de sorafenibe em sarcomas de partes moles avançados; população de histologia mista, sem resultados separados para lipossarcoma |
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada a Sorafenib + lipossarcoma registrada neste Evidence Pack.
-
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [21751200](https://pubmed.ncbi.nlm.nih.gov/21751200/) | 2012 | Ensaio de Fase 2 (SWOG S0505) | Cancer | Sorafenibe, inibidor multialvo (RAF, VEGFR1-3, PDGFR-B, FLT3, KIT), avaliado em sarcomas de partes moles avançados |
+| [24554062](https://pubmed.ncbi.nlm.nih.gov/24554062/) | 2014 | Ensaio de Fase 1 | Ann Surg Oncol | Radioterapia conformada neoadjuvante associada a sorafenibe em sarcoma de partes moles localmente avançado de extremidade |
+| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Revisão | Magy Onkol | Tratamento medicamentoso de sarcomas de partes moles conforme o subtipo histológico |
+| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Revisão | Ann Oncol | Terapias orientadas ou não pela histologia nos sarcomas de partes moles; trabectedina com alta atividade em lipossarcoma mixoide |
+| [18413802](https://pubmed.ncbi.nlm.nih.gov/18413802/) | 2008 | Pré-clínico | Mol Cancer Ther | Sorafenibe inibe o crescimento e a sinalização MAPK em células de tumor da bainha de nervo periférico e linhagens de lipossarcoma desdiferenciado |
+| [23416162](https://pubmed.ncbi.nlm.nih.gov/23416162/) | 2013 | Pré-clínico | Am J Pathol | Modelos de xenoenxerto de lipossarcoma desdiferenciado mostram redução de PTEN e resposta à inibição da via PI3K |
+| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Revisão (modelos PDOX) | Front Oncol | Modelos de xenoenxerto ortotópico em sarcoma para identificar combinações com palbociclibe |
 
 ## Informações de Comercialização no Brasil
 
-Sorafenib possui **4 registros ativos** no Brasil. Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e texto da indicação aprovada) não estão disponíveis nos dados processados deste Evidence Pack. Para consulta completa, acesse o portal da ANVISA: [https://consultas.anvisa.gov.br/](https://consultas.anvisa.gov.br/)
-
----
+Segundo os dados compilados para este relatório, não há registros de sorafenibe comercializado no Brasil.
 
 ## Citotoxicidade
 
-Sorafenib é um agente antineoplásico de uso sistêmico. Esta seção se aplica.
-
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Terapia alvo — inibidor oral de multicinase (classe dos inibidores de tirosina quinase) |
-| Risco de Mielossupressão | Baixo a médio (menos mielossupressivo que quimioterapia citotóxica convencional; leucopenia e trombocitopenia podem ocorrer) |
-| Classificação de Emetogenicidade | Baixa (agente oral; náuseas e vômitos possíveis, porém geralmente de baixo grau) |
-| Itens de Monitoramento | Pressão arterial, hemograma completo (CBC), provas de função hepática (ALT, AST, bilirrubina), TSH, eletrólitos séricos, lipase pancreática |
-| Proteção no Manuseio | Manejo como antineoplásico oral; uso de luvas ao manipular comprimidos; seguir protocolos institucionais para medicamentos citotóxicos |
-
----
+| Classificação de Citotoxicidade | Terapia alvo (inibidor de múltiplas quinases) |
+| Risco de Mielossupressão | Consulte as advertências e precauções na bula |
+| Classificação de Emetogenicidade | Consulte as advertências e precauções na bula |
+| Itens de Monitoramento | Hemograma completo, função hepática e renal, pressão arterial (ver contraindicações do grafo de conhecimento abaixo) |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (não extraídas da bula)**: hipertensão, insuficiência hepática, transtornos de ansiedade e neuróticos, distimia, trombocitopenia, neutropenia, agranulocitose, distúrbios da coagulação, síndrome coronariana aguda, doença arterial coronariana, infarto do miocárdio, trombose coronariana, isquemia miocárdica, hemoglobinopatias, anemia, hipofosfatemia e pancreatite.
+- **Interações medicamentosas**: foram identificadas 100 interações no total; entre as listadas, destaca-se a de **gravidade maior** com **dolasetrona**. As de gravidade moderada incluem famotidina, loperamida, dexametasona, bisacodil, ácido cólico, claritromicina, palonosetrona, naltrexona, levofloxacino, metreleptina, lactitol e lactulose, além de laxantes/preparos intestinais (picossulfato, polietilenoglicol com eletrólitos, sulfato de sódio). As de gravidade menor incluem dapagliflozina, naloxegol e metronidazol.
 
----
+As advertências e contraindicações da bula aprovada pela ANVISA não estavam disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Existe 1 ensaio clínico de Fase 2 concluído (NCT00217620) que avalia diretamente Sorafenib em sarcomas de partes moles — categoria que inclui o lipossarcoma — mas os dados de eficácia específicos para esse subtipo histológico ainda não foram confirmados a partir dos resultados publicados. A ausência de literatura dedicada e a indisponibilidade de dados de segurança da bula ANVISA impedem a progressão imediata.
+- Apesar da pontuação alta do TxGNN (99,82%), o único ensaio clínico (Fase 2, n=51) incluiu sarcomas de histologias mistas sem resultados específicos para lipossarcoma. O mecanismo do sorafenibe não atinge diretamente as vias dominantes do lipossarcoma (MDM2/CDK4). Além disso, o fármaco não tem registro no Brasil e as informações de segurança da bula estão ausentes.
 
 **Para prosseguir, é necessário:**
-- Recuperar e confirmar os resultados do subgrupo lipossarcoma no NCT00217620
-- Obter dados detalhados do mecanismo de ação (MOA) via DrugBank API
-- Verificar advertências, contraindicações e interações medicamentosas na bula ANVISA (DG001 — Blocking)
-- Recuperar os detalhes dos 4 registros ANVISA (número, nome comercial, indicações aprovadas)
-- Definir hipótese de pesquisa formal e desenho de estudo de Fase 2 específico para lipossarcoma com Sorafenib, caso os dados do NCT00217620 confirmem atividade no subgrupo
+- Obter os resultados do subgrupo de lipossarcoma nos estudos NCT00217620 e SWOG S0505
+- Obter a bula e as informações regulatórias (advertências e contraindicações) na ANVISA
+- Complementar os dados detalhados do mecanismo de ação (MOA) no DrugBank
+- Avaliar a viabilidade regulatória, já que não há registro no Brasil
+- Gerar dados pré-clínicos ou clínicos específicos para subtipos de lipossarcoma
+- Elaborar um plano de monitoramento de segurança (hipertensão, função hepática, parâmetros hematológicos e risco cardiovascular)
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

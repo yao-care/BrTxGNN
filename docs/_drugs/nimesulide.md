@@ -2,7 +2,7 @@
 layout: default
 title: Nimesulide
 parent: Evidência Moderada (L3-L4)
-nav_order: 358
+nav_order: 470
 evidence_level: L3
 indication_count: 10
 ---
@@ -29,36 +29,52 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Nimesulide: Da Dor e Inflamação à Artrite Gotosa
+# Nimesulida: De fármaco anti-inflamatório (sem indicação registrada no Brasil) para gota
 
 ## Resumo em Uma Frase
 
-Nimesulide é um anti-inflamatório não esteroidal (AINE) com inibição preferencial da COX-2, amplamente utilizado para o tratamento da dor e de processos inflamatórios musculoesqueléticos.
-O modelo TxGNN prevê que pode ser eficaz para **Gota / Artrite Gotosa (Gout)**, atualmente com **0 ensaios clínicos registrados** e **14 publicações identificadas**, das quais ao menos 8 são clinicamente relevantes para esta indicação.
+Nimesulida é um anti-inflamatório não esteroidal (AINE), inibidor preferencial da COX-2, usado em diversos países para dor aguda, osteoartrite e dismenorreia primária. Não há indicação aprovada registrada no Brasil nos dados compilados para este relatório.
+O modelo TxGNN prevê que pode ser eficaz para **gota (gout)**, atualmente com **0 ensaios clínicos registrados** e **2 estudos clínicos pequenos em russo** (entre 12 publicações listadas) apoiando esta direção.
 
 ---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Dor e inflamação (AINE — inibidor preferencial de COX-2) |
-| Nova Indicação Prevista | Gota / Artrite Gotosa (Gout) |
+|------|------|
+| Indicação Original | Não informada nos dados de registro da ANVISA (referência farmacológica: dor aguda, osteoartrite, dismenorreia primária) |
+| Nova Indicação Prevista | Gota (gout) |
 | Pontuação de Previsão TxGNN | 97,57% |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 2 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Nimesulide é um AINE da classe sulfonamida que inibe preferencialmente a ciclooxigenase-2 (COX-2), enzima induzida em tecidos inflamados e responsável pela síntese de prostaglandinas pró-inflamatórias — especialmente a PGE₂. Ao contrário dos AINEs não seletivos clássicos, o nimesulide preserva em maior grau a COX-1 constitutiva, que protege a mucosa gástrica e regula a função plaquetária. Esse perfil de seletividade confere ao fármaco um potencial de menor risco gastrointestinal em comparação a agentes como indometacina ou diclofenaco.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações farmacológicas conhecidas, a nimesulida é um inibidor preferencial da COX-2 (e também interage com a COX-1), reduzindo a síntese de prostaglandinas que mediam inflamação e dor.
 
-A artrite gotosa aguda resulta da deposição de cristais de urato monossódico nas articulações, que ativam macrófagos sinoviais e desencadeiam uma cascata inflamatória intensa com produção de PGE₂, interleucinas e quimiocinas via COX-2. Os AINEs são o tratamento de primeira linha recomendado pelas diretrizes da ACR (*American College of Rheumatology*) e da EULAR para a crise aguda de gota — sendo a indometacina o agente histórico de referência. O mecanismo de inibição de COX-2 do nimesulide é, portanto, diretamente aplicável a esse processo inflamatório, com base biológica sólida.
+Os AINEs são uma opção padrão no tratamento da artrite gotosa aguda, pois suprimem a inflamação mediada por prostaglandinas. Como a nimesulida atua nessa mesma via, a previsão do modelo é mecanisticamente plausível: o uso original (dor e inflamação) e a nova indicação (crise inflamatória da gota) compartilham o mesmo alvo.
 
-Pacientes gotosos frequentemente apresentam comorbidades como hipertensão arterial, insuficiência renal leve a moderada e diabetes tipo 2 — condições que aumentam o risco de complicações gastrointestinais por AINEs não seletivos. Nesse contexto, a seletividade de COX-2 do nimesulide representa uma potencial vantagem clínica. Estudos publicados entre 2003 e 2007 (PMIDs 17672073, 15732721, 12847901) demonstraram eficácia e boa tolerabilidade do nimesulide no tratamento da artrite gotosa aguda, com resultados comparáveis ao diclofenaco sódico. Cabe destacar, no entanto, que preocupações com hepatotoxicidade levaram ao recolhimento ou restrição do nimesulide em alguns países europeus, exigindo monitoramento rigoroso da função hepática no uso clínico.
+Há, porém, ressalvas importantes. Os dois estudos clínicos específicos em gota são pequenos, em russo e de desenho incerto. Além disso, a nimesulida tem preocupações de hepatotoxicidade em humanos e não é comercializada no Brasil.
+
+**Outras indicações previstas (para contexto):**
+
+| Indicação | Pontuação TxGNN | Nível | Recomendação |
+|------|------|------|------|
+| Cefaleia (headache disorder) | 96,60% | L3 | Pergunta de pesquisa |
+| Cefalalgia autonômica trigeminal | 96,23% | L5 | Hold |
+| Artrite reumatoide | 95,32% | L3 | Pergunta de pesquisa |
+| Enxaqueca (migraine disorder) | 94,85% | L3 | Pergunta de pesquisa |
+| Enxaqueca com aura do tronco encefálico | 94,72% | L5 | Hold |
+| Tendinite | 94,20% | L2 | Pergunta de pesquisa |
+| Exostose | 94,17% | L5 | Hold |
+| Miosite granulomatosa idiopática | 93,97% | L5 | Hold |
+| Miosite fibrosa | 93,97% | L5 | Hold |
+
+Entre as alternativas, a **tendinite** tem a evidência clínica mais consistente (estudos duplo-cegos comparativos com naproxeno e diclofenaco), embora antigos e sem controle com placebo.
 
 ---
 
@@ -71,49 +87,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [17672073](https://pubmed.ncbi.nlm.nih.gov/17672073/) | 2007 | Estudo Comparativo Clínico | Terapevticheskii arkhiv | Comparou o tempo para efeito analgésico e anti-inflamatório entre nimesulide (granulado e comprimido) e diclofenaco sódico na artrite gotosa aguda |
-| [15732721](https://pubmed.ncbi.nlm.nih.gov/15732721/) | 2004 | Estudo de Efetividade Clínica | Klinicheskaia meditsina | Avaliou eficácia e segurança do nimesulide como inibidor seletivo de COX-2 em pacientes com artrite gotosa e comorbidades renais, hepáticas e metabólicas |
-| [12847901](https://pubmed.ncbi.nlm.nih.gov/12847901/) | 2003 | Estudo Clínico | Terapevticheskii arkhiv | Avaliou eficácia e segurança do Nimesil® (nimesulide granulado) como inibidor seletivo de COX-2 para o tratamento da artrite gotosa |
-| [32841190](https://pubmed.ncbi.nlm.nih.gov/32841190/) | 2020 | Revisão de Algoritmo Clínico | Georgian medical news | Discute erros comuns no diagnóstico e tratamento da gota e propõe algoritmo terapêutico baseado nas recomendações atualizadas ACR/EULAR 2018, incluindo AINEs |
-| [12115158](https://pubmed.ncbi.nlm.nih.gov/12115158/) | 2002 | ECR | Arthritis and rheumatism | Avaliou se colchicina adicionada ao nimesulide (tratamento de base) tem efeito modificador de sintomas na osteoartrite do joelho — nimesulide utilizado como braço de referência |
-| [40106177](https://pubmed.ncbi.nlm.nih.gov/40106177/) | 2025 | Estudo de Utilização de Fármacos | Advances in therapy | Descreve padrões de prescrição de AINEs (incluindo nimesulide) na prática clínica real na Itália entre 2019–2022, conforme os critérios da Nota 66 da AIFA |
-| [29300762](https://pubmed.ncbi.nlm.nih.gov/29300762/) | 2018 | Estudo In vitro | PloS one | Avaliou propriedades antiglicação de 18 fármacos comuns, incluindo nimesulide, em contexto de reposicionamento para complicações diabéticas — relevante às comorbidades do perfil gotoso |
-| [20012865](https://pubmed.ncbi.nlm.nih.gov/20012865/) | 2010 | Relato de Caso | Rheumatology international | Descreve quadro incomum de gota tofácea poliarticular crônica com imagens clínicas e radiográficas; ilustra a gravidade da doença não controlada |
+|------|-----|------|------|---------|
+| [15732721](https://pubmed.ncbi.nlm.nih.gov/15732721/) | 2004 | Estudo clínico (provavelmente aberto/não controlado) | Klinicheskaia meditsina | Eficácia e segurança da nimesulida em pacientes com artrite gotosa, população de alto risco para complicações dos AINEs |
+| [17672073](https://pubmed.ncbi.nlm.nih.gov/17672073/) | 2007 | Estudo clínico comparativo | Terapevticheskii arkhiv | Comparação do tempo até o efeito analgésico e anti-inflamatório entre nimesulida (granulado e comprimido) e diclofenaco sódico na artrite gotosa |
+| [32841190](https://pubmed.ncbi.nlm.nih.gov/32841190/) | 2020 | Revisão / relato de caso | Georgian Medical News | Erros de diagnóstico e tratamento na gota, à luz das diretrizes ACR e EULAR 2018 (relevância indireta) |
+| [14963695](https://pubmed.ncbi.nlm.nih.gov/14963695/) | 2005 | In vitro / mecanístico | Rheumatology International | Efeitos da colchicina e da hidroxicloroquina sobre COX-1 e COX-2 (relevância indireta) |
+| [29300762](https://pubmed.ncbi.nlm.nih.gov/29300762/) | 2018 | In vitro | PLoS One | Triagem de propriedades anti-glicação de 18 fármacos comuns, em contexto de reposicionamento |
 
-> **Nota:** 4 publicações sobre toxicidade de nimesulide em aves rapineiras (abutres) foram excluídas desta tabela por ausência de relevância clínica para a indicação humana, conforme indicado na racionalidade de reposicionamento.
-
----
-
-## Informações de Comercialização no Brasil
-
-O nimesulide possui **2 registros ativos** na ANVISA com situação **Comercializado**. Os detalhes individuais de cada registro — número de registro, nome comercial, forma farmacêutica e texto de indicação aprovada — não constam nos dados disponíveis nesta versão do Evidence Pack.
-
-Para consulta completa, acesse o portal da ANVISA: [consultas.anvisa.gov.br](https://consultas.anvisa.gov.br/#/medicamentos/)
+**Observação:** outras publicações listadas tratam da toxicidade da nimesulida em aves necrófagas (abutres do gênero *Gyps* e milhafres), não relevantes para eficácia em humanos, e foram omitidas desta tabela.
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações e alvos farmacológicos:** a nimesulida atua sobre COX-1 (PTGS1) e COX-2 (PTGS2) em humanos, e sobre o transportador B⁰AT1 (Slc6a19) em ratos. Não há níveis de gravidade de interação medicamentosa classificados nos dados compilados.
+- **Hepatotoxicidade:** a literatura relata preocupações de hepatotoxicidade em humanos, incluindo um caso de hepatite subfulminante que exigiu transplante hepático (PMID 12070417), além de trombocitopenia. O uso oral foi banido em vários países.
+- **Toxicidade em animais:** a nimesulida é letal para abutres do gênero *Gyps*, o que é relevante do ponto de vista ambiental, não clínico.
 
-> ⚠️ **Atenção ao perfil hepático:** Embora os dados formais de advertências e contraindicações estejam pendentes de coleta, a literatura científica registra casos de hepatite fulminante e hepatotoxicidade grave associados ao uso de nimesulide, inclusive com necessidade de transplante hepático (PMID 12070417, identificado na coleta de tendinite). Essa sinalização deve ser considerada prioritária na avaliação de segurança, especialmente em pacientes com hepatopatia subjacente.
+Consulte a bula para informações adicionais de segurança.
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Há múltiplos estudos clínicos publicados — incluindo ensaios comparativos diretos com desfecho de dor e inflamação — demonstrando eficácia do nimesulide na artrite gotosa aguda; o mecanismo de inibição preferencial de COX-2 é biologicamente coerente com a fisiopatologia da gota; e o fármaco já está regularmente comercializado no Brasil, reduzindo barreiras regulatórias. O nível de evidência L3 (estudos observacionais e clínicos não randomizados) é suficiente para avançar com cautela, mas insuficiente para uso amplo sem monitoramento.
+- A previsão é mecanisticamente plausível, mas a evidência específica para gota se limita a dois estudos pequenos em russo, sem ensaios registrados. O fármaco não é comercializado no Brasil e tem risco hepático relevante, o que pesa contra o avanço imediato.
 
 **Para prosseguir, é necessário:**
-- Obter os dados completos da bula ANVISA (advertências, contraindicações, posologia) via download do PDF no portal da ANVISA
-- Confirmar o número de registro, nome comercial e indicações aprovadas nos 2 registros ativos
-- Avaliar rigorosamente o perfil de segurança hepática — o sinal de hepatotoxicidade do nimesulide requer protocolo de monitoramento de função hepática (ALT, AST, bilirrubinas) definido antes do uso estruturado
-- Identificar ou conduzir um ECR de Phase 2/3 com desfechos modernos (escala VAS de dor, tempo para resolução da crise, marcadores inflamatórios) comparando nimesulide vs colchicina ou indometacina na crise aguda de gota, para elevar o nível de evidência de L3 para L2
-- Definir critérios de exclusão claros para pacientes com disfunção hepática, dado o risco específico associado ao fármaco
+- Obter a bula e os dados de advertências e contraindicações na ANVISA (lacuna bloqueante para a triagem de segurança)
+- Obter dados detalhados do mecanismo de ação (MOA) no DrugBank
+- Confirmar o desenho e os resultados dos estudos em gota (PMIDs 15732721 e 17672073), incluindo texto completo traduzido
+- Comparar o perfil benefício-risco com os AINEs já disponíveis no Brasil para gota (por exemplo, naproxeno e indometacina) e avaliar se o risco hepático é aceitável
+- Considerar priorizar a tendinite, que tem a base de evidência mais sólida entre as indicações previstas, se houver interesse em avançar com o fármaco
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

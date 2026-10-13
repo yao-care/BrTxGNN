@@ -2,7 +2,7 @@
 layout: default
 title: Misoprostol
 parent: Evidência Moderada (L3-L4)
-nav_order: 354
+nav_order: 463
 evidence_level: L4
 indication_count: 2
 ---
@@ -29,12 +29,12 @@ Nível de evidência: **L4** | Indicações previstas: **2**
 
 </div>
 
-# Misoprostol: Das Indicações Obstétricas ao Tratamento da Amenorreia
+# Misoprostol: Da indicação original não registrada à amenorreia
 
 ## Resumo em Uma Frase
 
-Misoprostol é um análogo sintético da prostaglandina E1 (PGE1), amplamente utilizado em procedimentos obstétricos como interrupção medicamentosa da gravidez, tratamento de abortamento retido e indução do trabalho de parto.
-O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (Amenorrhea)**, atualmente com **0 ensaios clínicos** e **7 publicações** de suporte — a maioria como evidência indireta, sem estudos desenhados especificamente para o tratamento da amenorreia.
+Misoprostol é um análogo da prostaglandina E1 que induz contração uterina e amadurecimento do colo do útero. Não há indicação original registrada nos dados compilados para este relatório.
+O modelo TxGNN prevê que pode ser eficaz para **amenorreia (amenorrhea)**, mas atualmente há **0 ensaios clínicos** e **7 publicações** relacionadas, nenhuma delas avaliando o tratamento da amenorreia em si (a maioria trata de aborto medicamentoso com mifepristona + misoprostol).
 
 ---
 
@@ -42,23 +42,23 @@ O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (Amenorrhea)**, atua
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Indicações obstétricas (interrupção da gravidez, abortamento retido, indução do parto) |
-| Nova Indicação Prevista | Amenorreia (Amenorrhea) |
+| Indicação Original | Não disponível nos dados compilados (nenhuma indicação registrada na ANVISA) |
+| Nova Indicação Prevista | Amenorreia (amenorrhea) |
 | Pontuação de Previsão TxGNN | 99,64% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 2 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no Evidence Pack. Com base em informações conhecidas, misoprostol é um análogo sintético da prostaglandina E1 (PGE1) que atua nos receptores EP1 e EP3 do músculo liso uterino, desencadeando contrações do miométrio e descamação endometrial. É essa farmacologia que fundamenta seu uso consolidado em interrupção medicamentosa da gravidez, esvaziamento uterino em abortamento retido e preparo cervical pré-procedimento.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o misoprostol é um análogo sintético da prostaglandina E1 que estimula contrações uterinas e promove o amadurecimento cervical.
 
-A conexão teórica com a amenorreia baseia-se nesse mesmo mecanismo: em subtipos de amenorreia secundária — como síndrome de Asherman (aderências intrauterinas pós-curetagem), retenção de resíduos trofoblásticos ou insuficiência lútea com endométrio atrófico —, a estimulação dos receptores EP1/EP3 poderia, em princípio, restaurar o fluxo menstrual. O caso mais direto é o abortamento retido: a amenorreia causada por tecido gestacional retido pode ser revertida pela administração de misoprostol, e há evidência clínica observacional para isso desde 1992.
+Existe um elo plausível, porém indireto, com a amenorreia: o fármaco atua sobre o endométrio e o sangramento uterino, sendo usado na interrupção da gestação, na evacuação de restos ovulares e na indução de sangramento de privação. A gravidez e seu término estão ligados à interrupção do ciclo menstrual, o que pode explicar a associação captada pelo modelo.
 
-Entretanto, é fundamental ressaltar que nenhum dos 7 artigos identificados foi desenhado com o **tratamento da amenorreia** como desfecho primário. A grande maioria utiliza "amenorreia ≤35 dias" como critério de inclusão para estudos de abortamento ultrarprecoce — ou seja, a amenorreia é o marcador de gravidez inicial, não a condição a ser tratada. Isso posiciona esta previsão no nível de hipótese mecanicista (L4), exigindo estudos prospectivos específicos antes de qualquer avanço clínico.
+É importante ressaltar que a literatura recuperada trata sobretudo de aborto medicamentoso (mifepristona + misoprostol), e **não** do tratamento da amenorreia. Nesses estudos, a amenorreia aparece apenas como critério de idade gestacional (por exemplo, "amenorreia ≤ 35 dias"). A pontuação elevada do TxGNN é uma previsão computacional, sem respaldo de dados clínicos diretos.
 
 ---
 
@@ -72,25 +72,27 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [25394644](https://pubmed.ncbi.nlm.nih.gov/25394644/) | 2015 | RCT | Reproductive Sciences | RCT com 2.500 mulheres (amenorreia ≤35 dias): doses decrescentes de mifepristona (150–50 mg) + 200 µg misoprostol para interrupção ultrarprecoce; avalia taxa de abortamento completo sem intervenção cirúrgica |
-| [27678099](https://pubmed.ncbi.nlm.nih.gov/27678099/) | 2017 | RCT | Reproductive Sciences | RCT com 744 mulheres (amenorreia ≤35 dias): 75 mg mifepristona + misoprostol autoadministrado; compara administração hospitalar vs. domiciliar em termos de eficácia e aceitabilidade |
-| [26001691](https://pubmed.ncbi.nlm.nih.gov/26001691/) | 2015 | Systematic Review | JOGC | Revisão sistemática sobre ablação endometrial no manejo de sangramento uterino anormal; misoprostol citado como agente de preparo cervical pré-procedimento (evidência indireta) |
-| [26405260](https://pubmed.ncbi.nlm.nih.gov/26405260/) | 2015 | Cohort (Observacional) | Human Reproduction | Estudo de coorte sobre eficácia de mifepristona + misoprostol administrados antes da menstruação esperada para manutenção/restauração do estado não-gravídico |
-| [29974571](https://pubmed.ncbi.nlm.nih.gov/29974571/) | 2018 | Open-label Cohort | J Obstet Gynaecol Res | Coorte aberta: baixa dose de mifepristona + misoprostol autoadministrado para interrupção precoce da gravidez; avalia segurança e eficácia em contexto de atendimento descentralizado |
-| [1486304](https://pubmed.ncbi.nlm.nih.gov/1486304/) | 1992 | Prospective Observational | BMJ | Estudo pioneiro: misoprostol para manejo médico de abortamento retido e gestação anembriônica — a evidência mais direta de resolução de amenorreia causada por tecido gestacional retido |
-| [37113350](https://pubmed.ncbi.nlm.nih.gov/37113350/) | 2023 | Case Report | Cureus | Relato de caso de fígado gorduroso agudo da gravidez; amenorreia figura como sintoma de apresentação, e misoprostol foi usado no manejo obstétrico (evidência indireta de contexto clínico) |
-
----
-
-## Informações de Comercialização no Brasil
-
-O Evidence Pack confirma **2 registros ativos** no Brasil com status **Comercializado**. No entanto, os dados de número de registro, nome comercial, forma farmacêutica e indicação aprovada não estão disponíveis no pacote atual. Para detalhes dos registros, consulte o [portal de consulta da ANVISA](https://consultas.anvisa.gov.br/).
+| [27678099](https://pubmed.ncbi.nlm.nih.gov/27678099/) | 2017 | RCT | Reproductive Sciences | Mifepristona em baixa dose + misoprostol autoadministrado para aborto medicamentoso ultraprecoce (744 mulheres, amenorreia ≤35 dias); avaliação de eficácia, segurança e aceitabilidade |
+| [25394644](https://pubmed.ncbi.nlm.nih.gov/25394644/) | 2015 | RCT (dose-ranging) | Reproductive Sciences | 2.500 mulheres com gravidez ultraprecoce receberam doses decrescentes de mifepristona (150 a 50 mg) seguidas de 200 µg de misoprostol oral; desfecho primário: aborto completo sem cirurgia |
+| [26405260](https://pubmed.ncbi.nlm.nih.gov/26405260/) | 2015 | Coorte | Human Reproduction | Avaliação da viabilidade e eficácia de mifepristona em baixa dose + misoprostol antes da menstruação esperada para prevenir gravidez não planejada |
+| [29974571](https://pubmed.ncbi.nlm.nih.gov/29974571/) | 2018 | Coorte | J Obstet Gynaecol Res | Segurança e eficácia de mifepristona em baixa dose + misoprostol autoadministrado para interrupção de gravidez precoce |
+| [1486304](https://pubmed.ncbi.nlm.nih.gov/1486304/) | 1992 | Revisão | BMJ | Manejo medicamentoso de aborto retido e gestação anembrionária |
+| [26001691](https://pubmed.ncbi.nlm.nih.gov/26001691/) | 2015 | Revisão | J Obstet Gynaecol Can | Ablação endometrial no manejo do sangramento uterino anormal (relação indireta com misoprostol) |
+| [37113350](https://pubmed.ncbi.nlm.nih.gov/37113350/) | 2023 | Relato de caso | Cureus | Esteatose hepática aguda da gravidez: desafio diagnóstico (a amenorreia é citada apenas como sintoma de apresentação) |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (TxGNN/PrimeKG, não derivadas de bula):** hipertensão, insuficiência e doenças hepáticas, doença da vesícula biliar, insuficiência cardíaca congestiva, doença inflamatória intestinal, asma (incluindo intrínseca e alérgica), dependência/abuso de substâncias, distúrbios da coagulação, AVC e doenças cerebrovasculares, infarto cerebral, infarto do miocárdio e trombose coronariana, hemoglobinopatias, anemias (incluindo macrocítica), lesão hepática induzida por fármacos, doenças cardiovasculares e cardíacas, úlcera péptica ativa e meningite não infecciosa.
+- **Interações medicamentosas** (100 interações registradas; principais exemplos):
+  - **Grave:** dinoprostona (tópica).
+  - **Moderada:** óxido de magnésio, hidróxido de magnésio, carbonato de magnésio, magaldrato e quinapril.
+  - **Leve:** citrato de sódio, hidróxido de alumínio, carbonato de cálcio, bicarbonato de sódio e naproxeno.
+  - **Nível não classificado:** goserelina, ciclosporina, cianocobalamina, calcitriol, ácido fólico, pravastatina, valsartana, ramipril e lorazepam.
+- **Gestação:** o misoprostol tem perfil uterotônico, com preocupações conhecidas de teratogenicidade e ruptura uterina na gravidez, o que é particularmente relevante para uma indicação ligada à saúde reprodutiva feminina.
+
+Consulte a bula para informações adicionais de advertências e contraindicações.
 
 ---
 
@@ -99,13 +101,14 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN (99,64%) é mecanisticamente plausível — a ação do misoprostol nos receptores EP1/EP3 com indução de descamação endometrial oferece uma base racional para subtipos de amenorreia secundária. Porém, a ausência completa de ensaios clínicos específicos e o caráter indireto de toda a literatura identificada (L4) não sustentam avanço clínico sem estudos dedicados.
+- Não há ensaios clínicos e a literatura disponível trata de aborto medicamentoso, não do tratamento da amenorreia. A pontuação do TxGNN (99,64%) é apenas uma previsão computacional, e o fármaco não possui registro ativo no Brasil nos dados compilados.
 
 **Para prosseguir, é necessário:**
-- Definir o subtipo de amenorreia-alvo (ex.: amenorreia secundária por abortamento retido, síndrome de Asherman ou insuficiência lútea com endométrio atrófico)
-- Obter dados completos de segurança a partir da bula registrada na ANVISA (advertências, contraindicações, perfil de eventos adversos — atualmente indisponíveis no pack)
-- Projetar um estudo de viabilidade prospectivo com **restauração do ciclo menstrual** como desfecho primário, separando claramente subtipos de amenorreia
-- Consultar o DrugBank (DB00929) para obter o perfil completo de MOA e interações, complementando a análise mecanicista
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Esclarecer a situação regulatória e as indicações aprovadas do misoprostol no Brasil.
+- Buscar estudos que avaliem diretamente o misoprostol no tratamento da amenorreia (por exemplo, sangramento de privação), com análise de risco-benefício em mulheres em idade fértil.
+- Avaliar a segunda previsão do modelo (coarctação atípica da aorta), que não tem ensaios nem literatura (nível L5) e para a qual o perfil de segurança do misoprostol desfavorece o uso; ela não deve avançar sem evidências novas.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

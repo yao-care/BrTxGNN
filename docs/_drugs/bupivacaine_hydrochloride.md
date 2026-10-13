@@ -2,7 +2,7 @@
 layout: default
 title: Bupivacaine Hydrochloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 141
+nav_order: 163
 evidence_level: L5
 indication_count: 0
 ---

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tetracycline
-parent: Apenas Predição do Modelo (L5)
-nav_order: 472
-evidence_level: L5
+parent: Evidência Moderada (L3-L4)
+nav_order: 626
+evidence_level: L4
 indication_count: 10
 ---
 
 # Tetracycline
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,81 +29,79 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tetracycline: De Infecções por Chlamydia à Ceratoconjuntivite Epitelial Puntiforme
+# Tetraciclina: De antibiótico sistêmico e tópico para ceratoconjuntivite epitelial punctata
 
 ## Resumo em Uma Frase
 
-Tetracycline é um antibiótico de amplo espectro com atividade comprovada contra *Chlamydia trachomatis*, micoplasmas, riquétsias e diversas bactérias Gram-positivas e Gram-negativas, sem indicação aprovada nem registro ativo no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Ceratoconjuntivite Epitelial Puntiforme (Punctate Epithelial Keratoconjunctivitis)**, atualmente com **0 ensaios clínicos** e **1 publicação** apoiando esta direção.
-
----
+A tetraciclina é um antibiótico da classe das tetraciclinas, originalmente usado como antibiótico sistêmico e em preparações tópicas oftálmicas, ginecológicas e antimicóticas.
+O modelo TxGNN prevê que ela pode ser eficaz para **Ceratoconjuntivite Epitelial Punctata (Punctate Epithelial Keratoconjunctivitis)**,
+mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (um relato de casos) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções bacterianas de amplo espectro (sem indicação aprovada registrada no Brasil) |
-| Nova Indicação Prevista | Ceratoconjuntivite Epitelial Puntiforme (Punctate Epithelial Keratoconjunctivitis) |
-| Pontuação de Previsão TxGNN | 99.58% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Classe das tetraciclinas |
+| Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (Punctate Epithelial Keratoconjunctivitis) |
+| Pontuação de Previsão TxGNN | 99,58% |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 10 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Tetracycline é um antibiótico bacteriostático de amplo espectro que age pela ligação reversível à subunidade ribossomal 30S bacteriana, bloqueando a associação do aminoacil-tRNA ao complexo ribossomo-mRNA e inibindo, assim, a síntese proteica. Historicamente, é o tratamento de referência para infecções por *Chlamydia trachomatis* — um dos principais agentes etiológicos da ceratoconjuntivite folicular —, além de possuir atividade contra bactérias atípicas, riquétsias e *Helicobacter pylori*.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a tetraciclina faz parte da classe das tetraciclinas, sua eficácia em infecções bacterianas (incluindo as oculares) está estabelecida, e mecanisticamente pode ser aplicável à nova indicação.
 
-A ceratoconjuntivite epitelial puntiforme (PEK) é uma condição inflamatória da superfície ocular caracterizada por lesões puntiformes no epitélio corneano, podendo ter origem infecciosa (viral, bacteriana ou por Chlamydia) ou imunomediada. A conexão teórica com Tetracycline assenta em dois eixos: (1) atividade anti-*Chlamydia*, já que a infecção por *C. trachomatis* pode desencadear ou perpetuar a ceratoconjuntivite; e (2) inibição de metaloproteinases da matriz MMP-8 e MMP-9, enzimas envolvidas na degradação do estroma corneano, que em tese poderia atenuar a lesão epitelial por via anti-inflamatória.
+A tetraciclina é um tratamento reconhecido para a conjuntivite por clamídia (tracoma e conjuntivite de inclusão). Além do efeito antibacteriano, as tetraciclinas têm ação anti-inflamatória e inibem metaloproteinases de matriz (MMPs) na superfície ocular, o que poderia ser relevante em lesões epiteliais da córnea.
 
-No entanto, o único estudo disponível (PMID 1424659, 1992) relata justamente um achado paradoxal: dois pacientes desenvolveram PEK persistente bilateral como *sequela* após o tratamento bem-sucedido de conjuntivite folicular por *C. trachomatis* com Tetracycline ou doxiciclina oral. Esse dado sugere que a alta pontuação TxGNN (0.9958) reflete, provavelmente, a proximidade geográfica no grafo de conhecimento entre doenças associadas a infecção por Chlamydia — e não uma predição genuína de eficácia terapêutica na PEK como alvo primário. As hipóteses mecanísticas permanecem não testadas clinicamente nesta indicação específica.
-
----
+Ainda assim, o suporte é apenas indireto. A única publicação identificada descreve dois casos de ceratite epitelial punctata persistente que surgiram *após* a resolução de uma conjuntivite folicular por clamídia tratada com tetraciclina ou doxiciclina oral. Ou seja, o relato não demonstra benefício da tetraciclina na ceratite; ao contrário, a condição apareceu apesar do tratamento.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [1424659](https://pubmed.ncbi.nlm.nih.gov/1424659/) | 1992 | Série de Casos Retrospectiva | *Cornea* | Dois casos de PEK puntiforme epitelial bilateral persistente após resolução de conjuntivite folicular por *Chlamydia trachomatis*. Ambos os pacientes foram inicialmente tratados com Tetracycline oral ou doxiciclina, com resolução dos folículos. Apesar da cura da infecção primária, desenvolveram lesões corneanas recidivantes em múltiplos níveis epiteliais com coloração fluorescente puntiforme, além de edema estromal anterior em um dos casos. |
-
----
+|------|-----|------|------|---------|
+| [1424659](https://pubmed.ncbi.nlm.nih.gov/1424659/) | 1992 | Relato de casos | Cornea | Dois casos de conjuntivite folicular por *Chlamydia trachomatis* tratados com tetraciclina ou doxiciclina oral, com resolução dos folículos, seguidos de ceratite epitelial punctata recorrente e bilateral, com lesões coradas por fluoresceína. |
 
 ## Informações de Comercialização no Brasil
 
-Tetracycline não possui registros ativos na ANVISA e não está comercializado no Brasil (total de registros: 0).
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 103700010 | TETRACLIN | Não informada | Classe das tetraciclinas |
+| Registro nº 115600027 | CINATREX | Não informada | Antiinfecciosos tópicos para uso oftálmico |
+| Registro nº 109170071 | Cloridrato de Tetraciclina | Não informada | Antibióticos sistêmicos simples |
+| Registro nº 177940048 | OFITE PLUS | Não informada | Antiinfecciosos tópicos para uso oftálmico |
+| Registro nº 116370017 | NOVASUTIN | Não informada | Antimicótico |
 
----
+Observação: todos os 10 registros encontrados estão cancelados; não há registro válido atualmente. Os cinco acima são apresentados como amostra.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações por grafo de conhecimento (não provenientes de bula):** o grafo de conhecimento do TxGNN associa a tetraciclina a contraindicação em diversas condições, entre elas insuficiência e doença hepática, doença renal, insuficiência renal e uremia, epilepsia, neutropenia e agranulocitose, deficiência de G6PD, diabetes e cetoacidose diabética, gota, neuropatia periférica, distúrbios da coagulação, colite por *Clostridium difficile*, fibrilação atrial e bloqueio atrioventricular. Por não derivarem do texto da bula, devem ser confirmadas.
+- **Interações medicamentosas:** foram identificadas 100 interações; entre as listadas, as de gravidade **maior** envolvem **isotretinoína**, **acitretina** e **ácido aminolevulínico**. Há interações moderadas, por exemplo, com etinilestradiol, amoxicilina, ampicilina, aminofilina, atracúrio, atovaquona, balsalazida, hidróxido de alumínio e citrato de sódio.
+- **Otológico (relevante para outras previsões):** estudo in vitro mostrou citotoxicidade de tetraciclinas em fibroblastos da membrana timpânica humana.
 
----
+Advertências e contraindicações da bula não estavam disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A base de evidências para Tetracycline na ceratoconjuntivite epitelial puntiforme é insuficiente para qualquer avanço clínico — apenas um relato de série de casos de 1992, sem ensaios clínicos registrados, com um achado paradoxal que documenta PEK como *complicação* do tratamento com tetraciclinas, e não como benefício terapêutico. Adicionalmente, o medicamento não está registrado no Brasil, o que representa uma barreira regulatória adicional.
+A previsão tem pontuação alta no TxGNN (99,58%), mas o único suporte é um relato de casos indireto, sem ensaios clínicos. Além disso, não há registro válido da tetraciclina no Brasil (todos cancelados), e os dados de segurança da bula estão ausentes.
 
 **Para prosseguir, é necessário:**
-- Estudos mecanísticos in vitro que validem a hipótese anti-MMP na PEK e na superfície ocular
-- Avaliação de citotoxicidade em células epiteliais corneanas e fibroblastos da membrana timpânica humana
-- Definição da via de administração adequada (sistêmica vs. tópica ocular) e desenvolvimento de formulação adequada
-- Ensaios clínicos de fase inicial (Phase 1/2) específicos para PEK, com estratificação por etiologia (infecciosa vs. imunomediada)
-- Regularização do registro de Tetracycline na ANVISA antes de qualquer desenvolvimento clínico no Brasil
-- Avaliação comparativa com doxiciclina, que apresenta maior penetração tecidual e perfil anti-MMP mais robusto, e para a qual existem dados clínicos mais extensos em indicações relacionadas (ex.: sinusite rinossinal crônica — Rank 3 neste pacote, Nível L2)
+- Obter e analisar a bula (advertências e contraindicações) na ANVISA
+- Obter dados do mecanismo de ação (MOA) no DrugBank
+- Realizar revisão de literatura direcionada (ceratite epitelial punctata, tetraciclina/doxiciclina tópica ou oral) e, se houver base, planejar estudo exploratório
+- Avaliar a viabilidade regulatória e de via de administração, dado que não há registro vigente no país
+- Comparar com alternativas já estabelecidas (por exemplo, lubrificantes, corticoides tópicos e outros anti-infecciosos oftálmicos)
 
-> ⚠️ **Nota sobre o conjunto de previsões**: Embora a ceratoconjuntivite epitelial puntiforme seja a indicação com maior pontuação TxGNN neste pacote, outras indicações apresentam suporte clínico consideravelmente mais robusto — em particular a **Rinossinusite Crônica** (Rank 3, L2, 4 ensaios clínicos incluindo Phase 3 com doxiciclina) e o **Distúrbio Pós-Bacteriano / Erradicação de *H. pylori*** (Rank 7, L2, com ensaio Phase 3 direto utilizando Tetracycline em quadriterapia bismutada). Recomenda-se reavaliar o portfólio de reposicionamento priorizando essas indicações com evidências mais sólidas.
+**Outras previsões do modelo (resumo):** as demais indicações previstas apresentam evidências ainda mais fracas ou indiretas. Rinossinusite crônica (L4, apoio de revisões sobre a classe, sobretudo doxiciclina) e as condições pós-infecciosas (L3, ensaio de fase 2 NCT05219929 sobre tolerabilidade no pós-tratamento da doença de Lyme, sem dados de eficácia) são as mais relevantes como perguntas de pesquisa.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

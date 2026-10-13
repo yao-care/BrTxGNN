@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Captopril
-parent: Evidência Moderada (L3-L4)
-nav_order: 163
-evidence_level: L4
+parent: Apenas Predição do Modelo (L5)
+nav_order: 188
+evidence_level: L5
 indication_count: 4
 ---
 
 # Captopril
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **4** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,75 +33,71 @@ Nível de evidência: **L4** | Indicações previstas: **4**
 
 ## Resumo em Uma Frase
 
-Captopril é um inibidor da enzima conversora de angiotensina (IECA), originalmente utilizado no tratamento da hipertensão arterial e insuficiência cardíaca.
-O modelo TxGNN prevê que pode ser eficaz para **Doença Renal Hipertensiva Maligna (Malignant Hypertensive Renal Disease)**,
-atualmente com **0 ensaios clínicos** e **1 publicação** apoiando esta direção.
-
----
+Captopril é um inibidor da enzima conversora de angiotensina (ECA), originalmente usado no tratamento de hipertensão arterial e nefropatia diabética.
+O modelo TxGNN prevê que pode ser eficaz para **doença renal hipertensiva maligna (malignant hypertensive renal disease)**,
+mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (um relato de caso diagnóstico, sem valor terapêutico) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial, insuficiência cardíaca |
-| Nova Indicação Prevista | Doença Renal Hipertensiva Maligna (Malignant Hypertensive Renal Disease) |
-| Pontuação de Previsão TxGNN | 99.28% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Indicação Original | Hipertensão arterial e nefropatia diabética (segundo o grafo de conhecimento do TxGNN; não há texto de indicação aprovado no Brasil) |
+| Nova Indicação Prevista | Doença renal hipertensiva maligna (malignant hypertensive renal disease) |
+| Pontuação de Previsão TxGNN | 99,28% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis no Evidence Pack. Segundo informações farmacológicas estabelecidas, Captopril é um inibidor competitivo da enzima conversora de angiotensina (ECA), que bloqueia a conversão de angiotensina I em angiotensina II (Ang II) e inibe a degradação de bradicinina. Sua eficácia no controle da hipertensão arterial e na proteção cardiorrenal foi amplamente comprovada ao longo de décadas de uso clínico.
+Não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o captopril inibe a ECA, reduzindo a formação de angiotensina II (vasoconstritora) e a liberação de aldosterona. Sua eficácia na hipertensão e na nefropatia diabética já é reconhecida.
 
-A patologia da doença renal hipertensiva maligna é impulsionada pela hiperativação do sistema renina-angiotensina (SRA), no qual a Ang II em excesso induz espasmo das arteríolas aferentes e eferentes, culminando em necrose fibrinoide e lesão isquêmica renal acelerada. O bloqueio da ECA por Captopril reduz diretamente os níveis de Ang II, conferindo teoricamente um efeito nefroprotetor e anti-hipertensivo direcionado ao mecanismo central desta doença.
+Na hipertensão maligna com comprometimento renal, a ativação do sistema renina-angiotensina-aldosterona (SRAA) contribui para a lesão vascular. Por isso, bloquear esse eixo é biologicamente plausível.
 
-Contudo, existe uma ressalva clínica importante: em pacientes com estenose arterial renal bilateral ou rim único funcionante, a pressão de filtração glomerular depende da vasoconstrição mediada por Ang II na arteríola eferente. O uso de IECA nesse subgrupo pode precipitar insuficiência renal aguda grave. A indicação, portanto, exige triagem cuidadosa da anatomia vascular renal e monitoramento rigoroso da função renal antes e após o início do tratamento.
-
----
+Ressalva importante: a nova indicação prevista é, em grande parte, uma extensão das indicações já existentes (hipertensão e doença renal), e não um sinal de reposicionamento genuíno. A pontuação alta do TxGNN é apenas uma previsão computacional. A única publicação disponível trata do uso diagnóstico da renografia com captopril, não de benefício terapêutico.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [28902735](https://pubmed.ncbi.nlm.nih.gov/28902735/) | 2017 | Case Report | Clinical Nuclear Medicine | Relato de cintilografia renal com Captopril positiva sem estenose de artéria renal, mas com carcinoma de células renais cromófobo volumoso. A hipertensão renina-dependente foi resolvida após nefrectomia, ilustrando que a positividade ao Captopril pode ocorrer em contextos de hipertensão mediada por renina além da estenose clássica. |
-
----
-
-## Informações de Comercialização no Brasil
-
-O Evidence Pack confirma **20 registros ativos** junto à ANVISA com status de comercialização vigente. Os detalhes individuais dos registros (número, nome comercial, forma farmacêutica, indicação aprovada) não estão disponíveis no pacote de dados atual e deverão ser obtidos diretamente no portal da ANVISA.
-
----
+| [28902735](https://pubmed.ncbi.nlm.nih.gov/28902735/) | 2017 | Relato de caso (diagnóstico) | Clinical Nuclear Medicine | Renografia com captopril positiva sem estenose de artéria renal; a causa foi um carcinoma de células renais cromófobo, e a hipertensão dependente de renina melhorou após a nefrectomia. Não é evidência terapêutica. |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (grafo de conhecimento TxGNN, não texto de bula)**: angioedema (incluindo hereditário, adquirido e induzido por bloqueadores do SRAA), doença renal, doença hepática e encefalopatia hepática, pancreatite, doença da vesícula biliar, lúpus eritematoso sistêmico e doenças do tecido conjuntivo, neutropenia e agranulocitose, estenose aórtica e doença da valva aórtica, hipotensão, deficiência de potássio, diabetes mellitus e cetoacidose diabética, hiperparathyroidismo e doença óssea, além de hiperuricemia.
+- **Interações Medicamentosas** (100 interações registradas; principais de gravidade moderada): corticosteroides (hidrocortisona, dexametasona, betametasona, budesonida, triancinolona), antidiabéticos (metformina, alogliptina, canagliflozina, dapagliflozina, empagliflozina, ertugliflozina, exenatida, clorpropamida, acetoexamida), bupropiona, morfina, ácido acetilsalicílico e dronabinol. De gravidade leve: hidróxido de alumínio e carbonato de cálcio.
+- **Atenção específica à indicação**: inibidores da ECA podem precipitar insuficiência renal aguda em estenose bilateral de artéria renal ou rim único.
 
----
+Para advertências e contraindicações oficiais, consulte a bula; os dados da bula da ANVISA não estavam disponíveis.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-As evidências disponíveis para a indicação de doença renal hipertensiva maligna limitam-se a um único relato de caso (nível L4), sem ensaios clínicos registrados. Embora a conexão mecanística entre a inibição da ECA e a patologia do SRA seja racionalmente sólida, o risco de insuficiência renal aguda em subgrupos com comprometimento vascular renal constitui uma barreira de segurança que impede progressão imediata.
+- A previsão tem pontuação alta, mas se apoia apenas no modelo (L5): não há ensaios clínicos e a única publicação é um relato de caso diagnóstico. Além disso, o fármaco não é comercializado no Brasil e já é indicado para hipertensão e nefropatia diabética.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de MOA e perfil de segurança via consulta ao DrugBank API (DG002)
-- Baixar e analisar o PDF da bula oficial da ANVISA para advertências e contraindicações (DG001)
-- Realizar busca sistemática por estudos observacionais e séries de casos de Captopril em hipertensão maligna com nefropatia
-- Definir critérios de exclusão formais para pacientes com estenose arterial renal bilateral ou rim único
-- Avaliar os dados de evidência L3 disponíveis para a indicação relacionada **Malignant Renovascular Hypertension** (Rank 2, 20 publicações, recomendação *Proceed with Guardrails*), que pode oferecer base mecanística comparável com suporte bibliográfico mais robusto para embasar um redesenho da estratégia de investigação
+- Obter dados do mecanismo de ação (por exemplo, via DrugBank).
+- Obter e analisar a bula da ANVISA (advertências e contraindicações) para a triagem de segurança.
+- Buscar evidências clínicas terapêuticas (ensaios ou estudos observacionais) em hipertensão maligna com comprometimento renal.
+- Esclarecer a situação regulatória do captopril no Brasil, já que não há registros nos dados compilados.
+- Definir um plano de monitoramento de função renal e potássio, dado o risco em populações com estenose de artéria renal.
+
+---
+
+**Outras previsões do modelo (todas com decisão Hold):**
+
+| Indicação Prevista | Pontuação TxGNN | Nível de Evidência | Observação |
+|------|------|------|------|
+| Hipertensão renovascular maligna | 99,28% | L4 | Sem ensaios; literatura majoritariamente diagnóstica ou de relatos de caso, com um relato antigo (1984) sobre captopril em hipertensão maligna. |
+| Hipertensão pulmonar por doença pulmonar e/ou hipóxia | 99,15% | L5 | Literatura pré-clínica ou fora do tema; vasodilatadores sistêmicos podem piorar a relação ventilação-perfusão. |
+| Hipertensão pulmonar de mecanismo multifatorial incerto | 99,15% | L5 | Sem ensaios nem literatura; baseada apenas na previsão do modelo. |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

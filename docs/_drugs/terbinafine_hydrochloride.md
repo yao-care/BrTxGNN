@@ -2,7 +2,7 @@
 layout: default
 title: Terbinafine Hydrochloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 462
+nav_order: 615
 evidence_level: L5
 indication_count: 0
 ---

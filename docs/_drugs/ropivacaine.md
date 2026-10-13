@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ropivacaine
-parent: Evidência Alta (L1-L2)
-nav_order: 433
-evidence_level: L2
+parent: Apenas Predição do Modelo (L5)
+nav_order: 574
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ropivacaine
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,99 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Ropivacaine: Da anestesia regional à enxaqueca
+# Ropivacaína: De anestésico local a enxaqueca (migraine disorder)
 
 ## Resumo em Uma Frase
 
-Ropivacaine é um anestésico local de longa duração da classe amida, amplamente utilizado em procedimentos de anestesia regional e controle de dor aguda ao redor do mundo, embora não possua registro na ANVISA.
-O modelo TxGNN prevê que pode ser eficaz para **Enxaqueca (migraine disorder)**,
-atualmente com **4 ensaios clínicos** e **6 publicações** apoiando esta direção.
-
----
+Ropivacaína é um anestésico local, registrado no Brasil na categoria "Anestésicos Locais".
+O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (Migraine Disorder)**,
+atualmente com **2 ensaios clínicos** e **3 publicações** apoiando esta direção, todos de escala pequena ou de desenho observacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anestesia regional e controle de dor aguda (uso global consagrado; não registrado no Brasil) |
-| Nova Indicação Prevista | Enxaqueca (migraine disorder) |
-| Pontuação de Previsão TxGNN | 99.65% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros ANVISA | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Indicação Original | Anestésicos locais |
+| Nova Indicação Prevista | Enxaqueca (Migraine Disorder) |
+| Pontuação de Previsão TxGNN | 99,65% |
+| Nível de Evidência | L2 (ver observação abaixo) |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 8 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
----
+> **Observação sobre o nível de evidência:** o conjunto de dados atribui L2 à enxaqueca. Aplicando estritamente os critérios deste relatório, porém, o único estudo diretamente relevante e concluído é um ensaio randomizado de Fase 4 com apenas 10 participantes, e não há RCT de Fase 2/3 concluído. As demais evidências são estudos observacionais (L3). O nível L2 deve, portanto, ser interpretado com cautela, e a evidência real situa-se entre L2 e L3, com baixa robustez.
 
 ## Por que Esta Previsão é Razoável?
 
-Ropivacaine é um anestésico local amida que age bloqueando canais de sódio voltagem-dependentes (Na⁺), interrompendo a geração e propagação de potenciais de ação nos nervos periféricos e autonômicos. Embora os dados formais de mecanismo de ação (MOA) estejam indisponíveis no banco de dados atual, o bloqueio de Na⁺ desta classe farmacológica é amplamente estabelecido na literatura — e é justamente esse mecanismo que sustenta a hipótese de reposicionamento.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a ropivacaína é um bloqueador de canais de sódio dependentes de voltagem, que suprime a condução de sinais nociceptivos e autonômicos.
 
-A ligação com enxaqueca ocorre por meio de técnicas de bloqueio nervoso direcionado: quando aplicado ao **gânglio esfenopalatino (SPG)**, ao **gânglio estrelado** ou em **pontos-gatilho craniocervicais**, o Ropivacaine interrompe o circuito trigeminoautonômico — a via central na fisiopatologia da enxaqueca. Essa modulação pode proporcionar tanto alívio agudo da crise quanto efeito preventivo, ao interromper a retroalimentação de estímulos nociceptivos periféricos que perpetuam o estado migranhoso.
+Na enxaqueca, a ropivacaína é aplicada de forma localizada em estruturas ligadas à via trigeminovascular: o gânglio esfenopalatino, o gânglio estrelado ou pontos-gatilho. O bloqueio pode interromper as vias trigeminovasculares e parassimpáticas envolvidas na crise. O mecanismo é plausível e coerente com o uso regional do anestésico, e o escore elevado do TxGNN é compatível com essa leitura.
 
-Trata-se de uma extensão natural e mecanisticamente coerente do uso já estabelecido em anestesia regional para uma aplicação em subtipo específico de cefaleia. A plausibilidade biológica é considerada alta pelo sistema TxGNN (score 99.65%), e é corroborada por um RCT Phase 4 concluído (NCT03666663), por um estudo com n=150 em pronto-socorro pediátrico (NCT00680823), e por estudos observacionais diretos com ropivacaine em pontos-gatilho migranhosos.
-
----
+É importante notar que a nova indicação depende de **técnicas de bloqueio regional/injeção localizada**, e não de uso sistêmico. A compatibilidade de vias de administração com as formas farmacêuticas registradas no Brasil ainda não foi avaliada.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT03666663](https://clinicaltrials.gov/study/NCT03666663) | Phase 4 | Concluído | 10 | RCT duplo-cego controlado por placebo avaliando bloqueio do gânglio esfenopalatino (SPG) com anestésicos locais versus placebo para **prevenção de enxaqueca em adultos**; amostra limitada (n=10), mas constitui evidência direta de Phase 4 |
-| [NCT00680823](https://clinicaltrials.gov/study/NCT00680823) | N/A | Concluído | 150 | Avalia injeção intramuscular paracervical inferior de **ropivacaine** como tratamento para cefaleia pediátrica em pronto-socorro; n=150 com boa potência estatística; resultados em população adulta requerem validação adicional |
-| [NCT05301387](https://clinicaltrials.gov/study/NCT05301387) | N/A | Concluído | 38 | Efeitos de longo prazo do bloqueio do gânglio esfenopalatino (GSP block) em cefaleia pós-punção dural; mecanismo SPG com sobreposição à fisiopatologia da enxaqueca; suporte indireto |
-| [NCT06470581](https://clinicaltrials.gov/study/NCT06470581) | N/A | Não iniciado | 78 | Bloqueio do gânglio simpático torácico para síndrome de dor regional complexa; droga principal é toxina botulínica; ropivacaine em papel secundário; relação com enxaqueca indireta |
-
----
+| [NCT03666663](https://clinicaltrials.gov/study/NCT03666663) | Phase 4 | Concluído | 10 | RCT duplo-cego, controlado por placebo, de bloqueio do gânglio esfenopalatino com anestésicos para prevenção de enxaqueca em adultos; amostra muito pequena, poder estatístico limitado |
+| [NCT00680823](https://clinicaltrials.gov/study/NCT00680823) | NA | Concluído | 150 | Injeção intramuscular paraespinhal de ropivacaína para cefaleia pediátrica em pronto-socorro; a cefaleia pode não ser estritamente enxaqueca |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [17244105](https://pubmed.ncbi.nlm.nih.gov/17244105/) | 2007 | Estudo Clínico | Pain Medicine | Avalia eficácia profilática de **injeções de ropivacaine em pontos-gatilho** em pacientes com enxaqueca grave durante 12 semanas; pesquisa direta do fármaco na indicação |
-| [35331152](https://pubmed.ncbi.nlm.nih.gov/35331152/) | 2022 | Coorte Observacional | BMC Anesthesiology | Bloqueio do gânglio estrelado guiado por ultrassom alivia efetivamente a dor migranhosa e melhora qualidade de vida dos pacientes |
-| [30043973](https://pubmed.ncbi.nlm.nih.gov/30043973/) | 2019 | Observacional | Headache | Bloqueio do gânglio esfenopalatino com anestésico regional reduz dor autorreferida em pacientes com **estado de mal migranhoso** (crises > 72h) resistentes a medicamentos convencionais |
-| [24284858](https://pubmed.ncbi.nlm.nih.gov/24284858/) | 2013 | Série de Casos / Técnica | Pain Physician | Nova variação da técnica de bloqueio transnasal do SPG para cefaleia e dor facial; descreve o SPG como alvo estratégico e revisa evidências de diferentes abordagens de bloqueio |
-| [19145569](https://pubmed.ncbi.nlm.nih.gov/19145569/) | 2009 | Relato de Caso | Revista de Neurología | Síndrome de Horner após analgesia epidural com anestésico local; evento adverso neurológico relevante para avaliação de segurança |
-| [17058040](https://pubmed.ncbi.nlm.nih.gov/17058040/) | 2006 | Relato de Caso | J Headache Pain | Cefaleia do tipo enxaqueca como complicação rara de bloqueio cervicotorácico; sinaliza interação entre bloqueios regionais e circuito migranhoso |
-
----
+| [35331152](https://pubmed.ncbi.nlm.nih.gov/35331152/) | 2022 | Coorte | BMC Anesthesiology | Estudo observacional do bloqueio do gânglio estrelado guiado por ultrassom para alívio da dor e qualidade de vida na enxaqueca |
+| [17244105](https://pubmed.ncbi.nlm.nih.gov/17244105/) | 2007 | Coorte | Pain Medicine | Eficácia profilática da inativação de pontos-gatilho com ropivacaína em enxaqueca grave, ao longo de 12 semanas |
+| [24284858](https://pubmed.ncbi.nlm.nih.gov/24284858/) | 2013 | Série de casos | Pain Physician | Técnica transnasal revisada de bloqueio do gânglio esfenopalatino para cefaleia e dor facial |
 
 ## Informações de Comercialização no Brasil
 
-Ropivacaine **não possui registro na ANVISA** e não é comercializado no Brasil. Nenhuma licença consta no banco de dados regulatório brasileiro.
+Todos os 8 registros encontram-se **cancelados**; não há registro válido atualmente.
 
-> Para uso no Brasil, seria necessário solicitar registro à ANVISA ou, em caráter excepcional, autorização de importação por uso compassivo ou protocolo de pesquisa clínica aprovado pelo CEP/CONEP.
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 103700645 | OPIVAC | Não informada | Anestésicos locais |
+| Registro nº 100430957 | Cloridrato de Ropivacaína | Não informada | Anestésicos locais |
+| Registro nº 103870072 | Cloridrato de Ropivacaína | Não informada | Anestésicos locais |
+| Registro nº 102980555 | ROPI® BOLSA | Não informada | Anestésicos locais |
+| Registro nº 103700633 | Cloridrato de Ropivacaína | Não informada | Anestésicos locais |
 
----
+Existem ainda outros 3 registros cancelados (NAROPIN, HYROVI e ROPI), não listados por limite de 5 itens.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações descritas na base de conhecimento (grafo PrimeKG, não texto de bula):** doença pulmonar obstrutiva crônica, insuficiência respiratória, asma, cor pulmonale, doenças cardiovasculares e cardíacas, doença renal, doença hepática e das vias biliares (incluindo icterícia obstrutiva), doença inflamatória intestinal, íleo paralítico e obstrução intestinal, hiperplasia prostática benigna, estenose uretral, miastenia gravis e doenças da junção neuromuscular, deficiência de butirilcolinesterase, hipertensão intracraniana/pseudotumor cerebral, e transtornos relacionados ao uso de substâncias. Por não derivarem da bula, devem ser confirmadas na documentação oficial.
+- **Interações medicamentosas:** foram identificadas 64 interações, das quais as principais listadas incluem:
+  - *Moderadas:* ácido obeticólico, morfina (lipossomal), deferasirox, fostamatinibe.
+  - *Leves:* aprepitanto, cimetidina, claritromicina, miconazol, clotrimazol, cafeína, cobicistate, hialuronidase, ticagrelor.
+  - *Gravidade não classificada:* omeprazol, atropina, triamcinolona, sinvastatina, epinefrina, iohexol, heparina.
+- **Citotoxicidade tecidual (contexto de tendinite):** estudos in vitro mostram toxicidade para tenócitos e tenofibroblastos, o que sugere cautela em aplicações repetidas próximas a tendões.
 
----
+Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Há evidências de nível L2 apoiando o uso de Ropivacaine em enxaqueca — incluindo um RCT Phase 4 concluído de bloqueio SPG (NCT03666663) e um estudo de n=150 com injeção paracervical direta de ropivacaine em cefaleia (NCT00680823). O mecanismo de bloqueio do circuito trigeminoautonômico possui plausibilidade biológica sólida, e estudos observacionais com desfechos positivos reforçam a direção, embora o conjunto de evidências ainda seja limitado em escala.
+Existe plausibilidade mecanística e algum suporte clínico para bloqueios com ropivacaína na enxaqueca, mas as evidências são frágeis: um RCT de Fase 4 com apenas 10 participantes, um estudo de cefaleia pediátrica não específico para enxaqueca e estudos observacionais. Além disso, todos os registros brasileiros estão cancelados, e faltam dados de bula e de mecanismo de ação. O conjunto não sustenta avançar além de uma pergunta de pesquisa.
 
 **Para prosseguir, é necessário:**
-- **Registro na ANVISA** ou aprovação formal de importação/uso compassivo (fármaco sem presença no mercado brasileiro)
-- **Dados completos de MOA** via consulta à API do DrugBank (atualmente ausentes)
-- **Informações de segurança da bula** — advertências, contraindicações e interações medicamentosas (todos os dados de segurança estão indisponíveis no pack atual)
-- **Replicação de RCT com amostra maior** para o bloqueio SPG em enxaqueca (NCT03666663 possui apenas n=10, sem potência estatística adequada)
-- **Padronização do protocolo de administração**: definir rota (transnasal, injeção intramuscular, bloqueio guiado por ultrassom), dose, concentração e frequência para a indicação migranhosa
-- **Análise de subgrupo**: distinguir uso agudo (abortar crise) versus profilático (prevenção), visto que os estudos disponíveis avaliam ambos os contextos
+- Obter e analisar a bula oficial da ANVISA (advertências e contraindicações), pois a triagem de segurança não pode ser concluída sem esses dados.
+- Complementar os dados do mecanismo de ação a partir do DrugBank.
+- Realizar ensaios randomizados maiores (Fase 2/3), controlados por placebo, de bloqueios com ropivacaína especificamente em enxaqueca.
+- Avaliar a compatibilidade entre as vias de administração necessárias (bloqueio de gânglio, injeção em pontos-gatilho) e as formas farmacêuticas disponíveis.
+- Verificar a situação regulatória: não há registro válido no Brasil, o que exigiria novo registro ou comercialização por outra via.
+
+### Outras indicações previstas (resumo)
+
+| Indicação prevista | Evidência | Recomendação |
+|------|------|------|
+| Síndrome dolorosa miofascial | L3, 1 ensaio de Fase 4 (combinação com pregabalina, n=74) e RCTs comparativos | Proceed with Guardrails |
+| Fibromialgia | L3, apenas ensaio indireto de combinação | Pergunta de pesquisa |
+| Tendinite | L4, evidência indireta e alerta de citotoxicidade em tenócitos | Hold |
+| Bronquite | L4, associação incidental com analgesia pós-cirurgia cardíaca | Hold |
+| Enxaqueca com aura do tronco encefálico, dismorfia distímica, síndrome nefrogênica de antidiurese inapropriada, miosite granulomatosa idiopática, miosite fibrosa | L5, apenas previsão do modelo; vários sem mecanismo plausível | Hold |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Gemcitabine
 parent: Evidência Alta (L1-L2)
-nav_order: 264
+nav_order: 338
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,105 +29,119 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Gemcitabine: Do câncer pancreático ao carcinoma de mama feminino
+# Gencitabina: De antineoplásico citotóxico a carcinoma de mama feminino
 
 ## Resumo em Uma Frase
 
-Gemcitabine é um análogo de nucleosídeo citotóxico (antimetabólito), amplamente reconhecido como quimioterapia de referência para cânceres pancreático e pulmonar em âmbito internacional.
+Gencitabina (gemcitabina) é um antimetabólito citotóxico, registrado no Brasil como medicamento antineoplásico.
 O modelo TxGNN prevê que pode ser eficaz para **Carcinoma de Mama Feminino (Female Breast Carcinoma)**,
-atualmente com **mais de 50 ensaios clínicos** e **20 publicações** apoiando esta direção.
-
----
+com **34 ensaios clínicos** e **20 publicações** nos dados compilados para esta direção, incluindo ensaios de Fase 3 concluídos.
+Ressalva: a gemcitabina associada ao paclitaxel já é um esquema estabelecido no câncer de mama metastático, de modo que se trata de uma indicação validada, e não de uma descoberta nova.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Câncer pancreático e câncer de pulmão (reconhecidos internacionalmente; sem registros no Brasil neste banco de dados) |
+| Indicação Original | Antineoplásico |
 | Nova Indicação Prevista | Carcinoma de Mama Feminino (Female Breast Carcinoma) |
-| Pontuação de Previsão TxGNN | 99.98% |
+| Pontuação de Previsão TxGNN | 99,98% |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (sem registros ANVISA no banco de dados atual) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 17 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Gemcitabine é um análogo de nucleosídeo da classe dos antimetabólitos que atua em dois mecanismos coordenados: incorpora-se à cadeia de DNA em síntese na fase S do ciclo celular e inibe a enzima ribonucleotídeo redutase (RRM2), reduzindo o pool intracelular de dCTP necessário para replicação. Este duplo bloqueio é especialmente eficaz em tumores com alta taxa proliferativa. O transportador hENT1 (human equilibrative nucleoside transporter 1) regula a captação celular do fármaco e emerge como biomarcador preditivo de resposta, relevante para estratificação de pacientes.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a gemcitabina é um análogo de nucleosídeo (pirimidina) que inibe a síntese de DNA e a ribonucleotídeo redutase. Sua eficácia como antineoplásico é comprovada, e mecanisticamente pode ser aplicável ao câncer de mama.
 
-O carcinoma de mama feminino, em particular os subtipos Triplo-Negativo (TNBC) e hormônio-receptor-negativo (HR-), compartilha com o câncer pancreático a dependência crítica da fase S do ciclo celular para proliferação, tornando ambos os tumores sensíveis à inibição da síntese de DNA. No câncer de mama, Gemcitabine demonstrou sinergia comprovada com taxanos (paclitaxel, nab-paclitaxel, docetaxel), cujos mecanismos complementares — estabilização de microtúbulos — potencializam o efeito antiproliferativo. A combinação Gemcitabine + Paclitaxel recebeu aprovação da FDA em 2004 especificamente para câncer de mama metastático, consolidando a base regulatória internacional da indicação.
+A indicação original é genérica ("antineoplásico"), e o câncer de mama é um tumor sólido sensível a quimioterápicos citotóxicos. A gemcitabina mostra sinergia com taxanos, platinas e antraciclinas, e a literatura descreve atividade como agente único (taxas de resposta de 16% a 37%) e em combinações no câncer de mama metastático.
 
-Adicionalmente, evidências emergentes sugerem que ALDH1A1, um marcador de células-tronco tumorais em câncer de mama, promove progressão tumoral por remodulação de células supressoras derivadas de mielócitos (MDSCs), e que Gemcitabine pode exercer efeito imunomodulador parcial nesse contexto. A convergência de múltiplos ensaios clínicos de Fase 3, a aprovação em mercados internacionais e os dados mecanísticos robustos justificam plenamente a previsão do modelo TxGNN.
-
----
+Como a combinação gemcitabina + paclitaxel já é um esquema reconhecido no câncer de mama metastático, a pontuação muito alta do TxGNN é coerente com o histórico clínico.
 
 ## Evidências de Ensaios Clínicos
 
+Foram selecionados os ensaios mais relevantes (de 34 identificados):
+
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00039546](https://clinicaltrials.gov/study/NCT00039546) | Phase 3 | Desconhecido | N/A | tAnGo RCT: compara Paclitaxel/Epirrubicina/Ciclofosfamida ± Gemcitabine como quimioterapia adjuvante em câncer de mama ER/PgR-pobre de estágio inicial |
-| [NCT00561119](https://clinicaltrials.gov/study/NCT00561119) | Phase 3 | Concluído | 326 | Manutenção com Gemcitabine + Paclitaxel vs observação após resposta clínica em câncer de mama metastático ou recorrente em 1ª linha |
-| [NCT00408408](https://clinicaltrials.gov/study/NCT00408440) | Phase 3 | Desconhecido | 1.206 | Neoadjuvância: Docetaxel ± Capecitabine ou Gemcitabine antes de AC ± Bevacizumab; avalia resposta patológica completa e preditores de resposta |
-| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | Phase 3 | Concluído | N/A | Gemcitabine + Paclitaxel vs Paclitaxel em câncer de mama irressecável, localmente recorrente ou metastático |
-| [NCT00070278](https://clinicaltrials.gov/study/NCT00070278) | Phase 3 | Desconhecido | 800 | Neoadjuvância: EC sequencial + Paclitaxel ± Gemcitabine em câncer de mama precoce de alto risco |
-| [NCT00440622](https://clinicaltrials.gov/study/NCT00440622) | Phase 3 | Encerrado | 90 | Gemcitabine + Herceptin vs Capecitabine + Herceptin em câncer de mama HER2+ metastático pré-tratado; estudo interrompido prematuramente |
-| [NCT00110084](https://clinicaltrials.gov/study/NCT00110084) | Phase 2 | Concluído | 50 | nab-Paclitaxel semanal + Gemcitabine em câncer de mama metastático; avalia eficácia e segurança da combinação |
-| [NCT02252887](https://clinicaltrials.gov/study/NCT02252887) | Phase 2 | Concluído | 45 | Gemcitabine + Trastuzumab + Pertuzumab em câncer de mama HER2+ metastático após progressão em terapia anti-HER2 prévia |
-| [NCT06027268](https://clinicaltrials.gov/study/NCT06027268) | Phase 2 | Ativo (sem novo recrutamento) | 36 | ToPCourT: Trilaciclib + Pembrolizumab + Gemcitabine + Carboplatina em TNBC avançado irressecável ou metastático |
-| [NCT00027989](https://clinicaltrials.gov/study/NCT00027989) | Phase 2 | Desconhecido | N/A | Doxorrubicina lipossomal (Doxil) + Gemcitabine em mulheres com câncer de mama metastático; estudo de fase II monobraço |
-
----
+| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | Phase 3 | Concluído | Não informado | Paclitaxel com ou sem gencitabina em câncer de mama avançado, irressecável, localmente recorrente ou metastático |
+| [NCT00093795](https://clinicaltrials.gov/study/NCT00093795) | Phase 3 | Concluído | 4.894 | Três esquemas adjuvantes em câncer de mama com linfonodos positivos, incluindo AC denso seguido de paclitaxel + gencitabina |
+| [NCT00408408](https://clinicaltrials.gov/study/NCT00408408) | Phase 3 | Desconhecido | 1.206 | Neoadjuvância: adição de capecitabina ou gencitabina ao docetaxel, avaliando resposta patológica completa |
+| [NCT00070278](https://clinicaltrials.gov/study/NCT00070278) | Phase 3 | Desconhecido | 800 | Neoadjuvância sequencial com epirrubicina/ciclofosfamida e paclitaxel ± gencitabina em câncer de mama inicial de mau prognóstico |
+| [NCT00039546](https://clinicaltrials.gov/study/NCT00039546) | Phase 3 | Desconhecido | Não informado | Estudo tAnGo: gencitabina adicionada a esquema adjuvante com paclitaxel, epirrubicina e ciclofosfamida (RE/RP-negativo) |
+| [NCT07528768](https://clinicaltrials.gov/study/NCT07528768) | Phase 2 | Ainda não recrutando | 750 | Gencitabina vs paclitaxel em câncer de mama triplo-negativo metastático em mulheres de ascendência africana |
+| [NCT00006007](https://clinicaltrials.gov/study/NCT00006007) | Phase 2 | Concluído | 59 | Pemetrexede + gencitabina em câncer de mama metastático (braço único) |
+| [NCT00005991](https://clinicaltrials.gov/study/NCT00005991) | Phase 2 | Concluído | 76 | Gencitabina + doxorrubicina lipossomal em tumores sólidos avançados e câncer de mama |
+| [NCT00110084](https://clinicaltrials.gov/study/NCT00110084) | Phase 2 | Concluído | 50 | Nab-paclitaxel semanal + gencitabina em câncer de mama metastático |
+| [NCT00003540](https://clinicaltrials.gov/study/NCT00003540) | Phase 2 | Concluído | 30 | Gencitabina isolada em câncer de mama metastático previamente tratado com antraciclina e taxano |
 
 ## Evidências da Literatura
 
+Foram selecionadas as publicações mais relevantes (de 20 identificadas). Os dados compilados não trazem RCTs publicados; predominam revisões e estudos clínicos.
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | Phase II | Breast Cancer Res Treat | Carboplatina + Gemcitabine + Mifepristone em câncer de mama avançado GR-positivo; antagonismo do receptor de glicocorticoide potencializa citotoxicidade da combinação |
-| [38262235](https://pubmed.ncbi.nlm.nih.gov/38262235/) | 2024 | Phase I | Gynecologic Oncology | Mirvetuximab Soravtansine + Gemcitabine em TNBC FRα-positivo; determinação de MTD e dose recomendada para fase 2 |
-| [25398698](https://pubmed.ncbi.nlm.nih.gov/25398698/) | 2015 | Retrospective Cohort | Cancer Chemo Pharmacol | Docetaxel + Gemcitabine + Bevacizumab como quimioterapia de resgate em câncer de mama HER2-negativo metastático pré-tratado |
-| [19856651](https://pubmed.ncbi.nlm.nih.gov/19856651/) | 2009 | Phase II | Tumori | Docetaxel + Gemcitabine em câncer de mama metastático pré-tratado com antraciclinas; estudo de determinação de dose |
-| [16020974](https://pubmed.ncbi.nlm.nih.gov/16020974/) | 2005 | Phase II | Oncology | Docetaxel + Gemcitabine semanais como 1ª linha em câncer de mama metastático; estudo multicêntrico de fase II |
-| [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Review | Oncology | Revisão de Gemcitabine + Paclitaxel em câncer de mama metastático: 52% de resposta objetiva nos estudos de fase II |
-| [15685820](https://pubmed.ncbi.nlm.nih.gov/15685820/) | 2004 | Review | Oncology | Gemcitabine + Docetaxel em câncer de mama metastático; revisão de dados de fase II e escalas de dose |
-| [15685821](https://pubmed.ncbi.nlm.nih.gov/15685821/) | 2004 | Review/Cohort | Oncology | Gemcitabine + compostos de platina em câncer de mama metastático como alternativa após falha de antraciclinas/taxanos |
-| [14768404](https://pubmed.ncbi.nlm.nih.gov/14768404/) | 2003 | Review | Oncology | Combinações de Gemcitabine com antraciclinas e taxanos no câncer de mama avançado; base para desenvolvimento de regimes de combinação |
-| [12138397](https://pubmed.ncbi.nlm.nih.gov/12138397/) | 2002 | Review | Seminars Oncology | Gemcitabine como agente único (16–37% de resposta) e em combinação com terapias-alvo em câncer de mama metastático |
+| [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Revisão | Oncology (Williston Park) | Gencitabina e paclitaxel são ativos no câncer de mama metastático; em fase II, 52% dos pacientes responderam à combinação |
+| [15685821](https://pubmed.ncbi.nlm.nih.gov/15685821/) | 2004 | Revisão | Oncology (Williston Park) | Gencitabina com platinas traz benefício clínico e taxas de resposta significativas no câncer de mama metastático |
+| [15685820](https://pubmed.ncbi.nlm.nih.gov/15685820/) | 2004 | Revisão | Oncology (Williston Park) | Combinação gencitabina + docetaxel, com toxicidades parcialmente não sobrepostas, em câncer de mama metastático |
+| [14768404](https://pubmed.ncbi.nlm.nih.gov/14768404/) | 2003 | Revisão | Oncology (Williston Park) | Combinações de gencitabina, antraciclinas e taxanos no câncer de mama avançado |
+| [12138397](https://pubmed.ncbi.nlm.nih.gov/12138397/) | 2002 | Revisão | Seminars in Oncology | Gencitabina isolada tem taxas de resposta de 16% a 37%; combinações aumentam as respostas |
+| [14754469](https://pubmed.ncbi.nlm.nih.gov/14754469/) | 2004 | Revisão | Clinical Breast Cancer | Racional e dados clínicos de gencitabina + trastuzumabe em câncer de mama HER2-positivo |
+| [14754467](https://pubmed.ncbi.nlm.nih.gov/14754467/) | 2004 | Revisão | Clinical Breast Cancer | Taxanos mostram atividade notável com toxicidade manejável quando combinados com gencitabina |
+| [12057045](https://pubmed.ncbi.nlm.nih.gov/12057045/) | 2002 | Revisão | Clinical Breast Cancer | Gencitabina neoadjuvante, com bom perfil de toxicidade e toxicidade não sobreposta |
+| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | Estudo clínico (Fase I) | Breast Cancer Research and Treatment | Mifepristona + carboplatina + gencitabina em câncer de mama avançado e de ovário recorrente |
+| [12057039](https://pubmed.ncbi.nlm.nih.gov/12057039/) | 2002 | Pré-clínico | Clinical Breast Cancer | Estudos in vitro de gencitabina e trastuzumabe em linhagens de mama e pulmão |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 17 registros encontrados estão cancelados; não há registro válido atualmente. Principais registros:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 189770013 | GEMZAR | Não informada | Antineoplásico |
+| Registro nº 102980497 | GCIB | Não informada | Antineoplásico |
+| Registro nº 100431007 | Cloridrato de Gencitabina | Não informada | Antineoplásico |
+| Registro nº 100470636 | GEMCIT | Não informada | Antineoplásico |
+| Registro nº 165070007 | HETGEM | Não informada | Agentes antineoplásicos |
 
 ## Citotoxicidade
 
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Citotóxico convencional (Análogo de nucleosídeo / Antimetabólito — gemcitabina) |
-| Risco de Mielossupressão | Alto (neutropenia grau 3–4 e trombocitopenia são toxicidades dose-limitantes frequentes; risco aumentado em combinação com platinas) |
-| Classificação de Emetogenicidade | Baixa a média (aumenta para média quando em combinação com carboplatina ou cisplatina) |
-| Itens de Monitoramento | Hemograma completo (CBC com diferencial) antes de cada ciclo; função hepática (ALT, AST, bilirrubina); função renal (creatinina, TFG); sinais de neuropatia periférica quando combinado com taxanos |
-| Proteção no Manuseio | Obrigatório seguir regulamentos de manuseio de agentes citotóxicos: preparo em câmara de segurança biológica, uso de EPI (luvas duplas, avental impermeável, proteção ocular), descarte conforme normas de resíduo quimioterápico |
+| Classificação de Citotoxicidade | Citotóxico convencional (antimetabólito, análogo de nucleosídeo) |
+| Risco de Mielossupressão | Alto a médio. As relações de contraindicação do grafo de conhecimento citam leucopenia, trombocitopenia e anemia |
+| Classificação de Emetogenicidade | Baixa a média |
+| Itens de Monitoramento | Hemograma completo com diferencial, função hepática e renal |
+| Proteção no Manuseio | Necessário seguir os regulamentos de manuseio de citotóxicos |
 
----
+Consulte as advertências e precauções na bula para dados detalhados.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Condições associadas a risco (grafo de conhecimento TxGNN, não texto de bula):** doença renal, doença hepática, doença da vesícula biliar, trombocitopenia, leucopenia, anemia (incluindo macrocítica), doença pulmonar intersticial, síndrome hemolítico-urêmica (incluindo a forma típica), piureter e doenças infecciosas.
+- **Interações Medicamentosas:** foram identificadas 100 interações no total. Entre as listadas, apenas naltrexona tem nível moderado e levofloxacino nível leve. As demais (por exemplo, calcitriol, doxiciclina, pantoprazol, metformina, morfina, omeprazol, prednisona, sinvastatina, aprepitanto, vancomicina) têm gravidade não classificada e requerem triagem individual.
+- Um relato de caso descreve retinopatia induzida por gencitabina (PMID 28961673).
 
----
+Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Múltiplos ensaios clínicos de Fase 3 — incluindo o tAnGo RCT (adjuvância) e a combinação Gemcitabine + Paclitaxel com aprovação FDA consolidada — associados a mais de 20 publicações científicas, configuram nível de evidência L1 para o uso de Gemcitabine no carcinoma de mama feminino. A base mecanística é robusta e a indicação já é reconhecida em mercados regulatórios internacionais de referência.
+Há vários ensaios de Fase 3 concluídos (por exemplo, NCT00006459 e NCT00093795) e extensa literatura que apoiam a gencitabina no câncer de mama, o que corresponde ao nível L1. Contudo, a indicação já é estabelecida, e não há registro válido no Brasil, o que limita a disponibilidade imediata.
 
 **Para prosseguir, é necessário:**
-- Verificar diretamente o portal ANVISA para confirmar o status de registro de Gemcitabine no Brasil, dado que o banco de dados atual não contém registros (possível lacuna de dados)
-- Obter e analisar a bula ANVISA/DrugBank para preencher os Data Gaps DG001 (advertências e contraindicações) e DG002 (mecanismo de ação detalhado), bloqueadores para a avaliação formal de segurança
-- Definir o subtipo molecular-alvo prioritário (TNBC, HER2+, HR+/HER2-) para selecionar o parceiro de combinação mais adequado (nab-Paclitaxel, Docetaxel, Carboplatina ou terapia anti-HER2)
-- Avaliar a expressão de hENT1 como biomarcador preditivo de resposta para estratificação de pacientes candidatos
-- Mapear disponibilidade de fornecimento e cadeia logística para eventual uso em protocolo institucional no Brasil
+- Confirmar a disponibilidade do produto e a situação regulatória no Brasil, já que todos os 17 registros estão cancelados
+- Obter e analisar a bula na ANVISA (advertências e contraindicações oficiais)
+- Obter dados do mecanismo de ação no DrugBank
+- Realizar triagem completa de interações medicamentosas
+- Definir um plano de monitoramento hematológico, hepático e renal
+- Definir o subtipo (por exemplo, triplo-negativo, HER2-positivo) e o esquema combinado mais adequado
+
+---
+
+**Nota sobre as demais previsões:** as outras indicações previstas (adenocarcinomas mucinosos de reto, cólon, vesícula biliar e colo do útero; adenocarcinomas endometriais; adenocarcinoma da rete ovarii) têm evidências de nível L3 a L5. Sem ensaios ou com apenas relatos de caso, estão em Hold ou como questão de pesquisa, e não foram avaliadas em detalhe neste relatório.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

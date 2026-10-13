@@ -2,7 +2,7 @@
 layout: default
 title: Domperidone
 parent: Apenas Predição do Modelo (L5)
-nav_order: 227
+nav_order: 275
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,75 +29,66 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Domperidona: De antiemético/procinético à Síndrome Nefrogênica de Antidiurese Inapropriada
+# Domperidona: De antieméticos e antinauseantes à síndrome nefrogênica de antidiurese inapropriada
 
 ## Resumo em Uma Frase
 
-Domperidona é um antagonista periférico dos receptores de dopamina D2/D3, amplamente utilizado como agente procinético no tratamento de náuseas, vômitos e gastroparesia.
-O modelo TxGNN prevê potencial eficácia para a **Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis — NSIAD)**, porém sem **nenhum ensaio clínico** nem **publicação científica** apoiando diretamente esta direção, e com forte indicativo de falso-positivo pela análise mecanística.
-
----
+Domperidona é um antiemético e antinauseante, utilizado originalmente no controle de náuseas e vômitos.
+O modelo TxGNN prevê que pode ser eficaz para a **Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis, NSIAD)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Náuseas, vômitos e distúrbios de motilidade gastrointestinal (procinético) |
-| Nova Indicação Prevista | Síndrome Nefrogênica de Antidiurese Inapropriada (NSIAD) |
+| Indicação Original | Antieméticos e antinauseantes |
+| Nova Indicação Prevista | Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
 | Pontuação de Previsão TxGNN | 99,08% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 19 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Domperidona atua como antagonista dos receptores de dopamina D2 e D3 periféricos. Sua principal ação se dá no trato gastrointestinal e na zona de gatilho quimiorreceptora, acelerando o esvaziamento gástrico e suprimindo náuseas e vômitos. Por não cruzar significativamente a barreira hematoencefálica, seus efeitos extrapiramidais são raros — característica que a diferencia de antieméticos de ação central como a metoclopramida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo a farmacologia geral, a domperidona é um antagonista periférico dos receptores de dopamina D2 (e também D3, conforme os dados de farmacologia compilados), usado para dispepsia, azia, dor epigástrica, náuseas e vômitos.
 
-A NSIAD é uma doença genética rara causada por mutações de ganho de função no gene *AVPR2* (que codifica o receptor V2 da vasopressina). Essas mutações levam à ativação constitutiva do V2R, elevação persistente do AMPc intracelular, superexpressão da aquaporina-2 (AQP2) nas células do ducto coletor renal e retenção crônica de água, resultando em hiponatremia dilucional grave mesmo na ausência de vasopressina circulante.
+A NSIAD é causada por mutações de ganho de função no receptor V2 da vasopressina (AVPR2), que provocam retenção de água e hiponatremia independentemente da vasopressina. Não há um mecanismo plausível pelo qual um antagonista D2 inibiria a sinalização constitutivamente ativa do receptor V2, que ocorre a jusante do receptor.
 
-O TxGNN identificou conectividade topológica entre os nós D2R → AQP2 → regulação hídrica no grafo de conhecimento e gerou uma pontuação elevada (99,08%). Contudo, a análise mecanística revela uma contradição crítica: os receptores D2R renais exercem normalmente uma influência inibitória sobre a via do AMPc. O bloqueio desses receptores pela domperidona **removeria essa inibição tônica**, podendo **agravar** a superativação do AMPc e o acúmulo de AQP2 — efeito diametralmente oposto ao objetivo terapêutico na NSIAD. O modelo capturou a conectividade estrutural, mas não a **direcionalidade funcional** do efeito, configurando alta probabilidade de falso-positivo. Soma-se ainda o risco conhecido de prolongamento do intervalo QTc associado à domperidona, o que introduziria complexidade adicional no manejo de pacientes com NSIAD.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
+A previsão provavelmente reflete a proximidade no grafo de conhecimento (por exemplo, nós ligados a hiponatremia, náuseas ou vias relacionadas à vasopressina), e não um vínculo farmacológico validado. Deve ser tratada apenas como sinal gerador de hipóteses.
 
 ## Informações de Comercialização no Brasil
 
-Domperidona não possui registros ativos na ANVISA. Nenhum produto foi identificado nas bases consultadas para o mercado brasileiro.
+Todos os 19 registros encontram-se cancelados; abaixo, os 5 primeiros. A forma farmacêutica não consta nos dados compilados.
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 167730457 | Dompgran | Não informada | Antieméticos e antinauseantes |
+| Registro nº 105830824 | Motiridona | Não informada | Antieméticos e antinauseantes |
+| Registro nº 105710187 | Perigite | Não informada | Antieméticos e antinauseantes |
+| Registro nº 135690689 | Molidon | Não informada | Antieméticos e antinauseantes |
+| Registro nº 155840633 | Domperidona | Não informada | Antieméticos e antinauseantes |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Possíveis contraindicações (grafo de conhecimento, não texto de bula)**: síndrome do QT longo, síndrome do QT longo familiar, torsades de pointes, doença hepática e doença da vesícula biliar.
+- **Alvos farmacológicos**: antagonismo dos receptores D2 (DRD2) e D3 (DRD3). Não foram identificadas interações medicamentosas propriamente ditas com outros fármacos nos dados compilados.
 
----
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão TxGNN é classificada como nível **L5** — sem qualquer ensaio clínico ou publicação de suporte —, e a análise mecanística indica que o bloqueio do D2R renal provavelmente **agrava**, e não trata, a fisiopatologia da NSIAD. A ausência de registro regulatório no Brasil e os dados de segurança incompletos reforçam a recomendação de não avançar com esta hipótese nas condições atuais.
+A única sustentação é a pontuação elevada do TxGNN, sem ensaios clínicos nem literatura, e sem mecanismo plausível que ligue o antagonismo D2 à fisiopatologia da NSIAD (ganho de função do AVPR2). Além disso, todos os registros brasileiros estão cancelados, e os sinais de risco cardíaco (QT longo, torsades de pointes) reforçam a cautela.
 
-**Para reconsiderar esta indicação, seria necessário:**
-- Estudos pré-clínicos em modelos animais de NSIAD demonstrando direção de efeito farmacológico favorável
-- Revisão mecanística aprofundada da interação D2R/AMPc/AQP2 no contexto de mutações *AVPR2* com ganho de função
-- Dados completos de segurança (advertências, contraindicações e interações medicamentosas da domperidona)
-- Avaliação do risco de prolongamento de QTc na população-alvo antes de qualquer protocolo clínico
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna considerada bloqueante para a triagem de segurança
+- Obter dados de mecanismo de ação (MOA) no DrugBank
+- Realizar revisão de literatura e estudos pré-clínicos que testem um vínculo mecanístico com o AVPR2 ou a homeostase da água
+- Esclarecer o motivo do cancelamento dos registros no Brasil e a viabilidade regulatória de uma nova indicação
+- Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original (ainda pendentes)
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

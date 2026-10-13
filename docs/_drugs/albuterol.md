@@ -2,7 +2,7 @@
 layout: default
 title: Albuterol
 parent: Apenas Predição do Modelo (L5)
-nav_order: 32
+nav_order: 35
 evidence_level: L5
 indication_count: 0
 ---

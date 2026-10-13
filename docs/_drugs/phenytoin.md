@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Phenytoin
-parent: Evidência Moderada (L3-L4)
-nav_order: 396
-evidence_level: L3
+parent: Apenas Predição do Modelo (L5)
+nav_order: 524
+evidence_level: L5
 indication_count: 10
 ---
 
 # Phenytoin
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,78 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-**Nota editorial:** A indicação de rank 1 (neoplasia do nervo trigêmeo) foi identificada pelo próprio `repurposing_rationale` como artefato do modelo. O relatório foca na indicação de maior suporte clínico (**rank 9 — nevralgia do trigêmeo, L3, Proceed with Guardrails**), com transparência completa sobre o ranking bruto do TxGNN.
-
----
-
-# Phenytoin: De Epilepsia para Nevralgia do Trigêmeo
+# Fenitoína: Do anticonvulsivante à neoplasia do nervo trigêmeo (previsão do modelo)
 
 ## Resumo em Uma Frase
 
-Phenytoin (fenitoína) é um anticonvulsivante clássico utilizado no tratamento de epilepsia e convulsões tônico-clônicas. O modelo TxGNN identifica a **Nevralgia do Trigêmeo (Trigeminal Neuralgia)** como a indicação com maior suporte clínico para reposicionamento (escore TxGNN 99.97%, rank 9), atualmente com **1 ensaio clínico prospectivo** e **19 publicações** apoiando esta direção. A indicação de maior escore bruto — neoplasia do nervo trigêmeo (rank 1, 99.99%) — foi identificada como artefato de confusão terminológica no modelo e não apresenta evidências clínicas.
-
----
+A fenitoína (phenytoin) é um anticonvulsivante, registrado no Brasil na classe dos "anticonvulsivantes".
+O modelo TxGNN prevê, com maior pontuação, que ela poderia ser eficaz para **neoplasia do nervo trigêmeo (trigeminal nerve neoplasm)**, mas **não há ensaios clínicos** e as 2 publicações recuperadas tratam de neuralgia do trigêmeo e síndrome de Sturge-Weber, não de tumores. A previsão é considerada um provável artefato do grafo de conhecimento. Entre as demais previsões, a **neuralgia do trigêmeo** é a mais bem sustentada (literatura clínica, sem ensaios registrados).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Epilepsia / Convulsões |
-| Nova Indicação Prevista | Nevralgia do Trigêmeo (Trigeminal Neuralgia) |
-| Pontuação de Previsão TxGNN | 99.97% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Indicação Original | Anticonvulsivantes |
+| Nova Indicação Prevista | Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) |
+| Pontuação de Previsão TxGNN | 99,99% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 12 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Phenytoin atua como bloqueador de canais de sódio dependentes de voltagem (Nav), estabilizando neurônios na fase de inativação prolongada e suprimindo descargas repetitivas de alta frequência. Este mecanismo é diretamente relevante à fisiopatologia da nevralgia do trigêmeo: a condição decorre de desmielinização focal da raiz do nervo trigêmeo, gerando descargas ectópicas paroxísticas nos neurônios sensoriais trigeminais. O bloqueio Nav pela fenitoína suprime essas descargas de forma análoga à carbamazepina — o fármaco de primeira linha consagrado para esta indicação.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a fenitoína bloqueia canais de sódio dependentes de voltagem, o que explica sua ação anticonvulsivante e seu uso em dor neuropática.
 
-A via intravenosa de Phenytoin ganhou uso clínico estabelecido em crises agudas de nevralgia do trigêmeo, preenchendo uma lacuna terapêutica real: quando a dor intensa impede a alimentação oral, os fármacos de primeira linha tornam-se inacessíveis, e a fenitoína IV funciona como opção de resgate hospitalar. Estudos comparativos recentes avaliaram diretamente sua eficácia frente à lacosamida IV neste contexto.
+Para a indicação de maior pontuação, **neoplasia do nervo trigêmeo**, não há vínculo mecanístico crível. A fenitoína não tem atividade antineoplásica conhecida contra tumores nervosos. A pontuação alta parece decorrer da proximidade no grafo com o nó vizinho "neuralgia do trigêmeo". Por isso, a previsão não é considerada razoável como reposicionamento oncológico.
 
-> **Nota sobre o Rank 1 do TxGNN:** A indicação "neoplasia do nervo trigêmeo" recebeu escore 99.99% (rank 1), porém é interpretada como artefato de confusão terminológica entre "neuralgia" e "neoplasm" no grafo de conhecimento. Phenytoin não possui mecanismo antitumoral conhecido, e o bloqueio de Nav não demonstra efeito sobre proliferação ou progressão tumoral. Esta previsão não representa oportunidade terapêutica real — **decisão: Hold**.
-
----
+As previsões seguintes são, na prática, extensões dentro da classe antiepiléptica (crises reflexas: miccionais, audiogênicas, por alimentação, por sobressalto, por leitura etc.), com evidência majoritariamente pré-clínica ou de relatos de caso. A **neuralgia do trigêmeo** (pontuação 99,97%, nível L3) é a mais plausível: o bloqueio de sódio reduz a descarga ectópica de alta frequência nas aferências trigeminais, mesmo mecanismo da carbamazepina. A fenitoína seria opção de segunda linha ou de resgate intravenoso agudo; carbamazepina e oxcarbazepina continuam como primeira linha.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT03712254](https://clinicaltrials.gov/study/NCT03712254) | N/A | Concluído | 15 | Estudo prospectivo sistemático de Phenytoin IV para exacerbações agudas de nevralgia do trigêmeo; avalia viabilidade como alternativa de resgate quando o tratamento oral está comprometido pela intensidade da dor e incapacidade de deglutição |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [30860637](https://pubmed.ncbi.nlm.nih.gov/30860637/) | 2019 | Diretriz Clínica | Eur J Neurology | Diretrizes da Academia Europeia de Neurologia para nevralgia do trigêmeo; define padrão de manejo farmacológico e inclui opções de resgate IV |
-| [35469475](https://pubmed.ncbi.nlm.nih.gov/35469475/) | 2022 | Observacional Comparativo | Cephalalgia | Lacosamida vs Phenytoin IV em 144 casos de nevralgia do trigêmeo aguda; análise descritiva de eficácia e segurança comparativas — maior série publicada para Phenytoin IV nesta indicação |
-| [32981076](https://pubmed.ncbi.nlm.nih.gov/32981076/) | 2020 | Série de Casos | Headache | Phenytoin IV como resgate em crise de nevralgia do trigêmeo; coorte retrospectiva com análise de resposta analgésica |
-| [31908187](https://pubmed.ncbi.nlm.nih.gov/31908187/) | 2020 | Revisão Narrativa | Molecular Pain | Revisão abrangente de fisiopatologia e farmacoterapia da nevralgia do trigêmeo; descreve o papel do bloqueio Nav no contexto do tratamento |
-| [28761370](https://pubmed.ncbi.nlm.nih.gov/28761370/) | 2017 | Review | J Pain Research | Análise crítica comparando Phenytoin vs Carbamazepina na nevralgia do trigêmeo: tratamento baseado em marketing versus evidências; questiona a posição secundária do Phenytoin |
-| [39993829](https://pubmed.ncbi.nlm.nih.gov/39993829/) | 2024 | Review | Clin Med Research | Manejo hospitalar de crises agudas de nevralgia do trigêmeo; Phenytoin IV posicionado no protocolo de resgate com orientações práticas |
-| [19445753](https://pubmed.ncbi.nlm.nih.gov/19445753/) | 2009 | Revisão Sistemática | BMJ Clinical Evidence | Revisão de evidências para tratamentos da nevralgia do trigêmeo; análise comparativa de intervenções médicas e cirúrgicas, incluindo anticonvulsivantes |
-| [15062534](https://pubmed.ncbi.nlm.nih.gov/15062534/) | 2004 | Review | Neurologic Clinics | Nevralgia do trigêmeo e glossofaríngea; anticonvulsivantes como agentes mais eficazes — discute papel histórico e atual do Phenytoin |
-| [11903537](https://pubmed.ncbi.nlm.nih.gov/11903537/) | 2001 | Review | Headache | Anticonvulsivantes no manejo de cefaleia em salvas e nevralgia do trigêmeo; contextualiza Phenytoin no arsenal terapêutico |
-| [6487105](https://pubmed.ncbi.nlm.nih.gov/6487105/) | 1984 | Review | Arch Neurology | Etiologia e patogênese da nevralgia do trigêmeo; mecanismo periférico/central dos fármacos eficazes — referência seminal que contextualiza o uso de Phenytoin |
+| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Revisão | Expert Rev Neurother | Panorama dos tratamentos clínicos e cirúrgicos da neuralgia do trigêmeo; não trata de neoplasia |
+| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Série de casos | An Esp Pediatr | Experiência com 14 casos de síndrome de Sturge-Weber; não trata de neoplasia do trigêmeo |
 
----
+Para a neuralgia do trigêmeo (indicação alternativa, não a de maior pontuação), a literatura recuperada inclui a diretriz da Academia Europeia de Neurologia (2019), uma análise retrospectiva de 144 casos de lacosamida e fenitoína intravenosas em exacerbações agudas (2022), uma coorte retrospectiva de fenitoína IV como resgate (2020) e uma revisão crítica (2017) que sugere evidência fraca para a fenitoína em comparação com a carbamazepina.
 
 ## Informações de Comercialização no Brasil
 
-Phenytoin **não possui registro ativo na ANVISA** e não é comercializado no Brasil. Esta é uma barreira regulatória significativa para qualquer estratégia de uso clínico nacional — qualquer iniciativa requer processo de registro ou importação excepcional.
+Todos os 12 registros estão cancelados; não há registro válido. Principais registros (máximo de 5):
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 110390036 | FURP - Fenitoína | Não informada | Anticonvulsivantes (cancelado) |
+| Registro 103700473 | Fenitoína | Não informada | Anticonvulsivantes (cancelado) |
+| Registro 107150171 | Fenitoína | Não informada | Anticonvulsivantes (cancelado) |
+| Registro 112090023 | FUNED - Fenitoína | Não informada | Anticonvulsivantes (cancelado) |
+| Registro 107150095 | Dantalin | Não informada | Anticonvulsivantes (cancelado) |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (grafo de conhecimento, não texto de bula)**: o grafo associa a fenitoína a contraindicações em síndrome do QT longo e torsades de pointes, insuficiência e doença hepática, encefalopatia hepática, porfiria, doença renal, doença da vesícula biliar, trombocitopenia, neutropenia e agranulocitose, hiperglicemia, diabetes e cetoacidose diabética, lúpus eritematoso sistêmico, hipotensão, apneia do sono, transtornos de ansiedade e dependência de substâncias.
+- **Interações Medicamentosas**: 100 interações listadas; as principais retornadas são de nível moderado, com acarbose, famotidina, ranitidina, doxiciclina, hidrocortisona, dexametasona, betametasona, triamcinolona, metformina, pioglitazona, alogliptina, albiglutida, bupropiona, aprepitanto, morfina, omeprazol, metronidazol, colecalciferol e calcifediol. Interação com ácido acetilsalicílico é de nível leve.
+- **Pontos da literatura**: casos de trombocitopenia, hiperglicemia/cetoacidose, crises de porfiria, reações cutâneas graves associadas à radioterapia craniana (síndrome EMPACT), hiperplasia gengival e neuropatia periférica. A fenitoína tem índice terapêutico estreito e farmacocinética não linear.
 
----
+Para as demais advertências, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Existe suporte clínico de nível L3 — diretriz europeia de neurologia e estudo observacional comparativo com 144 casos — para o uso de Phenytoin IV como resgate em crises agudas de nevralgia do trigêmeo. O mecanismo de bloqueio Nav é fisiopatologicamente direto e análogo à carbamazepina de primeira linha, e há precedente de uso clínico estabelecido internacionalmente.
+- A indicação de maior pontuação (neoplasia do nervo trigêmeo) tem apenas previsão do modelo (L5), sem ensaios, sem literatura pertinente e sem vínculo mecanístico. Além disso, todos os registros brasileiros estão cancelados. A neuralgia do trigêmeo (L3, "Proceed with Guardrails" na avaliação individual) é a direção mais viável, mas como terapia de segunda linha ou resgate.
 
 **Para prosseguir, é necessário:**
-- **Barreira regulatória:** Phenytoin não possui registro na ANVISA — avaliar viabilidade de registro específico ou importação excepcional para uso hospitalar
-- **Lacunas de segurança:** Obter advertências e contraindicações completas da bula (gap DG001) e mecanismo de ação detalhado do DrugBank (gap DG002)
-- **Evidência clínica:** Conduzir ensaio clínico randomizado controlado comparando Phenytoin IV vs lacosamida IV em crises agudas de nevralgia do trigêmeo
-- **Monitoramento:** Definir protocolo de monitoramento de concentração sérica (janela terapêutica estreita: 10–20 µg/mL) e protocolo de infusão IV segura (risco de arritmia e hipotensão com infusão rápida)
-- **Interações:** Mapear DDIs relevantes para a população-alvo, frequentemente em polifarmácia
+- Obter da bula da ANVISA as advertências e contraindicações oficiais (lacuna de dados bloqueante para a triagem de segurança).
+- Complementar os dados de mecanismo de ação.
+- Se houver interesse, redirecionar a avaliação para neuralgia do trigêmeo, com revisão sistemática da evidência de fenitoína versus carbamazepina/oxcarbazepina e eventual ensaio de resgate IV.
+- Verificar a situação regulatória atual no Brasil, já que não há registro válido, e planejar monitoramento de níveis séricos e de interações medicamentosas.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

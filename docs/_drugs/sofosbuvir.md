@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Sofosbuvir
-parent: Evidência Alta (L1-L2)
-nav_order: 446
-evidence_level: L2
+parent: Evidência Moderada (L3-L4)
+nav_order: 593
+evidence_level: L3
 indication_count: 8
 ---
 
 # Sofosbuvir
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **8** 
+Nível de evidência: **L3** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,94 +29,87 @@ Nível de evidência: **L2** | Indicações previstas: **8**
 
 </div>
 
-# Sofosbuvir: Da Hepatite C à Infecção pelo Vírus da Hepatite B
+# Sofosbuvir: Da hepatite C crônica à infecção pelo vírus da hepatite B
 
 ## Resumo em Uma Frase
 
-Sofosbuvir é um análogo nucleotídico inibidor da NS5B RNA polimerase dependente de RNA do vírus da hepatite C (HCV), aprovado e amplamente utilizado para o tratamento da hepatite C crônica em todos os genótipos. O modelo TxGNN prevê que pode ser eficaz para **Infecção pelo Vírus da Hepatite B (Hepatitis B Virus Infection)**, atualmente com **múltiplos ensaios clínicos relevantes** e **19 publicações indexadas** apoiando esta hipótese, com nível de evidência **L2**.
-
----
+Sofosbuvir é um inibidor nucleotídico da polimerase NS5B do vírus da hepatite C (HCV), originalmente usado no tratamento da infecção crônica pelo HCV.
+O modelo TxGNN prevê que pode ser eficaz para a **infecção pelo vírus da hepatite B (Hepatitis B virus infection)**, mas os dados compilados mostram **10 ensaios clínicos** e **20 publicações** recuperados, quase todos realizados em populações com HCV. Nenhum demonstra atividade anti-HBV do fármaco.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hepatite C crônica (infecção pelo HCV, todos os genótipos) |
-| Nova Indicação Prevista | Infecção pelo Vírus da Hepatite B (Hepatitis B Virus Infection) |
+| Indicação Original | Infecção crônica pelo vírus da hepatite C (conforme o grafo de conhecimento; não há texto de bula brasileira disponível) |
+| Nova Indicação Prevista | Infecção pelo vírus da hepatite B (Hepatitis B virus infection) |
 | Pontuação de Previsão TxGNN | 99,77% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 9 |
+| Nível de Evidência | L3 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os registros compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis no pacote de evidências. Com base em conhecimento estabelecido, sofosbuvir é um pró-fármaco do análogo nucleotídico uridina que, após ativação intracelular, forma o metabólito trifosfato ativo (GS-461203). Este metabólito incorpora-se à cadeia de RNA viral em crescimento e causa terminação prematura da replicação, agindo sobre a NS5B RNA polimerase dependente de RNA (RdRp) do HCV.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o sofosbuvir é um análogo nucleotídico que inibe a RNA polimerase RNA-dependente NS5B do HCV, e sua eficácia na hepatite C está bem estabelecida.
 
-A relação com a hepatite B reside em uma sobreposição mecanística parcial e indireta: embora o HBV seja primariamente um vírus de DNA, sua replicação envolve um RNA pré-genômico intermediário (pgRNA) convertido em DNA pela transcriptase reversa viral. Estudos indicam que o metabólito ativo GS-461203 pode potencialmente interferir nesta etapa — que possui atividade análoga à RdRp — mas a relevância clínica desta interação permanece controversa. Os alvos estabelecidos para HBV (nucleos(t)ídeos análogos como entecavir e tenofovir, direcionados à transcriptase reversa) diferem estruturalmente do alvo primário do sofosbuvir, tornando o mecanismo proposto indireto.
+Mecanisticamente, porém, a previsão é fraca. O HBV é um vírus de DNA que replica por uma etapa de transcrição reversa e não possui homólogo da NS5B. Uma ação antiviral direta do sofosbuvir contra o HBV, portanto, não é plausível. A pontuação alta do TxGNN (0,998) provavelmente reflete a proximidade na rede de "hepatite viral" e não um mecanismo real.
 
-A justificativa clínica mais concreta vem de observações em pacientes com coinfecção HCV/HBV: durante o tratamento com sofosbuvir para HCV, foi registrada redução modesta do antígeno de superfície do HBV (HBsAg), sugerindo possível atividade anti-HBV residual. Um estudo piloto de Fase 2 (NCT03312023 / PMID 36045503) avaliou diretamente a combinação ledipasvir/sofosbuvir em pacientes com HBV monoinfectado, representando a evidência clínica mais direta disponível — com amostra limitada (n=21) e resultados modestos.
-
----
+Os ensaios recuperados foram conduzidos em pacientes com HCV, e o HBV aparece como coinfecção ou questão de monitoramento. Na coinfecção HCV/HBV, os antivirais de ação direta eliminam o HCV, e a reativação do HBV é uma preocupação de segurança, não um efeito terapêutico.
 
 ## Evidências de Ensaios Clínicos
 
+Os ensaios mais relevantes entre os recuperados:
+
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT02613871](https://clinicaltrials.gov/study/NCT02613871) | Phase 3b | Concluído | 111 | LDV/SOF por 12 semanas em adultos com HCV genótipos 1 ou 2 coinfectados com HBV em Taiwan; avaliação de eficácia antiviral, segurança e tolerabilidade em contexto de coinfecção |
-| [NCT03312023](https://clinicaltrials.gov/study/NCT03312023) | Phase 2 | Concluído | 21 | LDV/SOF por 12 semanas em pacientes com infecção HBV monoinfectada; endpoints primários de redução de HBsAg e DNA-HBV na semana 12 — estudo mais diretamente relevante para esta indicação |
-| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Phase 2/3 | Concluído | 23 | DAAs para coinfecção crônica HCV/HBV; avaliação prospectiva de incidência, morbidade e fatores predisponentes para reativação do HBV durante tratamento anti-HCV direto |
-| [NCT03261349](https://clinicaltrials.gov/study/NCT03261349) | Phase 2 | Status desconhecido | 21 | HARVONI® (LDV/SOF) em linfoma de células B indolente associado a HCV; inclui monitoramento de HBV como desfecho secundário |
-| [NCT04997564](https://clinicaltrials.gov/study/NCT04997564) | Phase 4 | Status desconhecido | 120 | SOF/VEL combinado com uso profilático de TAF para pacientes HCV/HBV coinfectados (genótipos 1–6) na China, com ou sem cirrose compensada |
-| [NCT01826981](https://clinicaltrials.gov/study/NCT01826981) | Phase 2 | Concluído | 359 | Eficácia e segurança de regimes contendo sofosbuvir para HCV crônico; fornece dados de referência de segurança e farmacocinética aplicáveis a populações com coinfecção HBV |
-
----
+| [NCT03312023](https://clinicaltrials.gov/study/NCT03312023) | Phase 2 | Concluído | 21 | Ledipasvir/sofosbuvir por 12 semanas em indivíduos com HBV. É o mais próximo da pergunta, mas é braço único e pequeno. Avalia a queda de HBsAg e HBV DNA |
+| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Phase 2/3 | Concluído | 23 | Antivirais de ação direta em coinfecção HCV/HBV; avalia a reativação do HBV. Informativo para segurança, sem demonstrar atividade anti-HBV |
+| [NCT04997564](https://clinicaltrials.gov/study/NCT04997564) | Phase 4 | Desconhecido | 120 | SOF/VEL com TAF profilático em coinfecção HCV/HBV; o TAF previne a reativação do HBV, não o sofosbuvir |
+| [NCT03261349](https://clinicaltrials.gov/study/NCT03261349) | Phase 2 | Desconhecido | 21 | Ledipasvir/sofosbuvir em linfoma não Hodgkin de células B associado ao HCV; desfecho relacionado ao HBV pouco claro |
+| [NCT03549312](https://clinicaltrials.gov/study/NCT03549312) | Phase 4 | Desconhecido | 25 | Troca para E/C/F/TAF seguida de SOF/VEL em coinfecção HIV-HCV; o componente ativo contra HBV é o TAF |
+| [NCT03186313](https://clinicaltrials.gov/study/NCT03186313) | Phase 3 | Concluído | 72 | Sofosbuvir + daclatasvir ± ribavirina em HCV genótipo 4 no Egito; HBV apenas como contexto |
+| [NCT02483156](https://clinicaltrials.gov/study/NCT02483156) | Phase 2/3 | Concluído | 80 | Sofosbuvir + ribavirina em HCV genótipo 4; o HBV não é o alvo |
+| [NCT02363517](https://clinicaltrials.gov/study/NCT02363517) | Phase 3 | Desconhecido | 420 | Ledipasvir/sofosbuvir em pessoas que usam drogas injetáveis, em ambiente comunitário; sem relação com eficácia contra HBV |
+| [NCT03579576](https://clinicaltrials.gov/study/NCT03579576) | N/A | Concluído | 803 | Projeto demonstrativo de tratamento simplificado do HCV em Mianmar; estudo de implementação |
+| [NCT02768961](https://clinicaltrials.gov/study/NCT02768961) | Phase 4 | Concluído | 64 | Programa de rastreio e eliminação do HCV em prisões; foco em implementação |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [36045503](https://pubmed.ncbi.nlm.nih.gov/36045503/) | 2023 | Phase 2 RCT | Journal of Medical Virology | Estudo piloto de LDV/SOF em HBV monoinfectado: dados retrospectivos de coinfectados HBV/HCV mostraram redução modesta de HBsAg; estudo prospectivo confirmou tendência de redução na semana 12 |
-| [34864948](https://pubmed.ncbi.nlm.nih.gov/34864948/) | 2022 | Coorte | Clinical Infectious Diseases | Acompanhamento de 108 semanas pós-tratamento com LDV/SOF em coinfectados HCV/HBV em Taiwan; avaliação da dinâmica de reativação do HBV durante e após terapia |
-| [31722032](https://pubmed.ncbi.nlm.nih.gov/31722032/) | 2020 | Coorte (HCV/HBV) | Trans R Soc Trop Med Hyg | SOF/daclatasvir em pacientes com HCV crônico e HCV/HBV coinfectados no Egito; análise comparativa de resposta virológica sustentada em ambos os grupos |
-| [33031326](https://pubmed.ncbi.nlm.nih.gov/33031326/) | 2020 | Série de Casos | Medicine | Reativação do HBV após tratamento bem-sucedido de HCV com SOF + ribavirina; alerta de vigilância de segurança relevante para o cenário de reposicionamento |
-| [29334502](https://pubmed.ncbi.nlm.nih.gov/29334502/) | 2018 | Coorte | Journal of Clinical Gastroenterology | Risco de reativação do HBV em pacientes ativamente infectados ou previamente expostos ao HBV durante/após tratamento com LDV/SOF para HCV |
-| [31632097](https://pubmed.ncbi.nlm.nih.gov/31632097/) | 2019 | Coorte | Infection and Drug Resistance | Manejo de reativação do HBV pós-DAA em coinfectados HCV/HBV com soroconversão HBeAg prévia e baixo grau de fibrose hepática; implicações clínicas para protocolos de monitoramento |
-| [33523503](https://pubmed.ncbi.nlm.nih.gov/33523503/) | 2021 | Estudo Prospectivo | Journal of Viral Hepatitis | Reativação do HBV em pacientes oncológicos recebendo DAAs para tratamento de HCV com coinfecção HBV; dados de vigilância em população imunocomprometida |
-| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Revisão | Minerva Gastroenterologica e Dietologica | Panorama comparativo dos antivirais para HBV e HCV e seus efeitos na função renal; contextualiza diferenças mecanísticas e opções terapêuticas entre as duas indicações |
-| [37517414](https://pubmed.ncbi.nlm.nih.gov/37517414/) | 2023 | Modelagem Epidemiológica | The Lancet Gastroenterology & Hepatology | Estimativas de prevalência global, cascata de cuidados e cobertura de profilaxia para HBV em 2022; contextualiza a necessidade de novas opções terapêuticas para eliminação da hepatite B |
-| [25253190](https://pubmed.ncbi.nlm.nih.gov/25253190/) | 2014 | Revisão | Minerva Pediatrica | Tratamento de hepatite B e C em crianças; comparação de estratégias antivirais e perspectivas para novas opções terapêuticas em populações pediátricas |
-
----
-
-## Informações de Comercialização no Brasil
-
-Os dados individuais dos registros (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no pacote de evidências atual — todos os campos de cada licença foram retornados em branco. Conforme a base de dados regulatória, sofosbuvir possui **9 registros ativos** no Brasil, com situação de comercialização confirmada.
-
-> Para informações detalhadas sobre cada registro, consulte o portal da ANVISA: https://consultas.anvisa.gov.br/
-
----
+| [36045503](https://pubmed.ncbi.nlm.nih.gov/36045503/) | 2023 | Ensaio clínico Phase 2 | J Med Virol | Estudo piloto aberto de ledipasvir/sofosbuvir em monoinfecção por HBV, motivado por dados retrospectivos que mostraram redução modesta de HBsAg em coinfectados. Desfechos: queda de HBsAg e HBV DNA na semana 12 |
+| [35268497](https://pubmed.ncbi.nlm.nih.gov/35268497/) | 2022 | Coorte | J Clin Med | Cinéticas distintas de HBV-DNA e HBsAg em coinfectados HCV/HBV durante antivirais de ação direta, com risco de reativação do HBV |
+| [42558970](https://pubmed.ncbi.nlm.nih.gov/42558970/) | 2026 | Estudo multicêntrico | J Clin Transl Hepatol | Segurança e eficácia de SOF/VEL com pré-tratamento com TAF na reativação do HBV em coinfecção HBV/HCV |
+| [33523503](https://pubmed.ncbi.nlm.nih.gov/33523503/) | 2021 | Estudo observacional prospectivo | J Viral Hepat | Reativação do HBV em pacientes com câncer que recebem antivirais de ação direta para HCV |
+| [26967675](https://pubmed.ncbi.nlm.nih.gov/26967675/) | 2016 | Revisão | J Clin Virol | Reativação do HBV em coinfectados durante tratamento do HCV com antivirais de ação direta |
+| [27621502](https://pubmed.ncbi.nlm.nih.gov/27621502/) | 2015 | Relato de reações adversas | Hosp Pharm | Inclui caso de reativação de hepatite B durante tratamento do HCV com simeprevir e sofosbuvir |
+| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Revisão | Minerva Gastroenterol Dietol | Antivirais para hepatites B e C e seus efeitos sobre a função renal |
+| [34092970](https://pubmed.ncbi.nlm.nih.gov/34092970/) | 2021 | Revisão | World J Gastroenterol | Manejo da hepatite viral pediátrica; o tratamento do HBV segue distante da cura |
+| [26904396](https://pubmed.ncbi.nlm.nih.gov/26904396/) | 2016 | Revisão | Acta Pharm Sin B | Antivirais de ação direta contra o HCV, que é curável, ao contrário de HIV e HBV |
+| [39914746](https://pubmed.ncbi.nlm.nih.gov/39914746/) | 2025 | Análise epidemiológica | J Hepatol | Pessoas tratadas para HCV em 2014-2023 e lições para novas terapias de HBV e HDV |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações medicamentosas** (8 registradas):
+  - **Maior gravidade:** apalutamida, enzalutamida e lorlatinibe.
+  - **Moderada:** fostamatinibe, varfarina, dicumarol e encorafenibe.
+  - **Leve:** ciclosporina.
+- **Reativação do HBV:** nos dados compilados, o tratamento do HCV com antivirais de ação direta em pacientes coinfectados pode reativar o HBV. É um risco relevante para qualquer uso do sofosbuvir em pessoas com HBV.
 
----
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Embora o modelo TxGNN apresente pontuação muito elevada (99,77%) para sofosbuvir na infecção pelo HBV, o fundamento mecanístico é indireto e controverso: o HBV replica predominantemente via transcriptase reversa (DNA polimerase), estruturalmente distinta da NS5B RdRp alvo do sofosbuvir. A grande maioria dos ensaios clínicos disponíveis avalia cenários de coinfecção HCV/HBV, onde o sofosbuvir trata o HCV — não o HBV diretamente — e o único estudo direto em HBV monoinfectado (Phase 2, n=21) apresentou resultados modestos e insuficientes para estabelecer eficácia clínica comparável ao padrão de cuidado já consolidado.
+- Não há plausibilidade mecanística para ação direta contra o HBV. Os ensaios e as publicações recuperados tratam do HCV, e o HBV aparece como questão de segurança (reativação) e não como alvo terapêutico. O fármaco também não tem registro ativo no Brasil, segundo os dados compilados.
 
 **Para prosseguir, é necessário:**
-- **Confirmação mecanística:** estudos in vitro e in vivo demonstrando inibição direta e quantificável da RdRp do pgRNA do HBV pelo metabólito GS-461203
-- **Ensaio clínico controlado de Fase 2:** em HBV monoinfectado, com endpoints validados (redução ≥1 log de HBsAg, DNA-HBV indetectável) e comparação ativa com entecavir ou tenofovir
-- **Dados completos de segurança:** MOA detalhado, advertências da bula ANVISA e perfil de interações medicamentosas via DrugBank
-- **Análise de diferenciação clínica:** avaliação de viabilidade frente aos nucleos(t)ídeos análogos já estabelecidos para HBV, que apresentam décadas de dados de eficácia e segurança
+- Resultados completos do ensaio de fase 2 NCT03312023 (PMID 36045503), com análise dos desfechos HBsAg e HBV DNA.
+- Dados de bula da ANVISA (advertências e contraindicações) e dados de mecanismo de ação, hoje ausentes.
+- Verificar a situação regulatória do sofosbuvir no Brasil, pois os registros compilados indicam zero licenças.
+- Se houver interesse em reposicionamento viral, considerar indicações com maior plausibilidade mecanística, como a infecção pelo vírus da hepatite E (rank 2), que tem um piloto de fase 2 (NCT03282474, n=10) e dados in vitro. O piloto não mostrou resposta virológica sustentada, portanto também exige cautela.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Histidine
 parent: Apenas Predição do Modelo (L5)
-nav_order: 273
+nav_order: 353
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,74 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Histidina: Do suporte nutricional à gastroparesia
+# Histidina: Da nutrição parenteral e dietas especiais à gastroparesia
 
 ## Resumo em Uma Frase
 
-Histidina é um aminoácido essencial utilizado principalmente em formulações de nutrição parenteral e suplementação nutricional clínica.
-O modelo TxGNN prevê que pode ser eficaz para **Gastroparesia (Gastroparesis)**,
-porém atualmente **não há ensaios clínicos nem publicações** que apoiem diretamente esta direção.
-
----
+Histidina é um aminoácido essencial, usado em produtos de nutrição parenteral e dietas especiais.
+O modelo TxGNN prevê que pode ser eficaz para **Gastroparesia (Gastroparesis)**, mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** relacionada, que não testa a histidina. A previsão é puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Aminoácido essencial — nutrição parenteral e suplementação |
+| Indicação Original | Produtos para dietas especiais |
 | Nova Indicação Prevista | Gastroparesia (Gastroparesis) |
-| Pontuação de Previsão TxGNN | 99.55% |
+| Pontuação de Previsão TxGNN | 99,55% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 17 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação (MOA) de Histidina disponíveis no DrugBank para esta análise. Com base no conhecimento bioquímico estabelecido, Histidina é um aminoácido essencial que serve como substrato direto da enzima histidina descarboxilase (HDC), sendo convertida em histamina. A histamina, por sua vez, é um mediador fisiológico ativo nos receptores H1 e H2 presentes na musculatura lisa e nas células parietais do trato gastrointestinal.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a histidina faz parte de formulações de aminoácidos para nutrição parenteral e de produtos para dietas especiais. Seu papel nutricional é conhecido, mas não há dados compilados que expliquem mecanisticamente uma ação sobre a motilidade gástrica.
 
-Na gastroparesia — condição caracterizada por esvaziamento gástrico retardado na ausência de obstrução mecânica — a sinalização via receptores gástricos é farmacologicamente relevante. Antagonistas H2 (como ranitidina e famotidina) são utilizados no manejo de sintomas associados, o que sugere que a via histaminérgica possui papel na fisiologia gástrica. Teoricamente, a modulação desta via por suplementação de histidina poderia influenciar a taxa de esvaziamento gástrico por meio do eixo Histidina → HDC → Histamina → Receptores H1/H2 GI.
+A relação entre a indicação original (suporte nutricional) e a gastroparesia (distúrbio de esvaziamento gástrico) é distante. O único artigo recuperado trata de patologia amiloide gástrica e desnervação da mucosa na amiloidose ATTRv. Ele não testa a histidina nem a relaciona à motilidade gástrica. A pontuação alta (99,55%) reflete apenas uma previsão do modelo, sem respaldo clínico.
 
-Contudo, esta conexão permanece inteiramente teórica e especulativa. Não existe atualmente nenhum estudo clínico, pré-clínico ou de revisão sistemática que tenha investigado diretamente o uso de histidina exógena no tratamento da gastroparesia. O TxGNN provavelmente capturou esta associação por meio de nós intermediários partilhados no grafo de conhecimento, sem respaldo experimental direto para esta indicação.
-
----
+Entre as demais previsões, a que tem mais literatura é a colangite esclerosante, mas o sinal é contraditório: a histidina é precursora da histamina, e os estudos pré-clínicos indicam que **inibir** a via da histamina reduz a lesão biliar e a fibrose. Suplementar histidina poderia, em teoria, agravar o quadro. As outras previsões (deficiência congênita de protrombina, miopatia visceral familiar, deficiência de potássio, dispepsia, pseudo-obstrução intestinal, hiperaldosteronismo primário e obstrução intestinal) também não têm evidência clínica nem vínculo mecanístico identificado.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para Histidina em gastroparesia.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada para Histidina em gastroparesia.
-
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [42668409](https://pubmed.ncbi.nlm.nih.gov/42668409/) | 2026 | Coorte/modelo animal (patologia) | Amyloid | Descreve patologia amiloide gástrica e desnervação da mucosa na amiloidose ATTRv com disfunção autonômica gastrointestinal. Não avalia a histidina. |
 
 ## Informações de Comercialização no Brasil
 
-Histidina (DrugBank ID: DB00117) não possui nenhum registro ativo na ANVISA. O fármaco não está comercializado no mercado brasileiro na forma de medicamento registrado.
+Todos os 17 registros estão cancelados; não há produto atualmente válido. Principais registros:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100419923 | KETOSTERIL | Não informada | Produtos para dietas especiais |
+| Registro 100410131 | NEPHROTECT | Não informada | Nutrientes parenterais |
+| Registro 100410159 | AMINOVEN 10% INFANT | Não informada | Nutrientes parenterais |
+| Registro 100850145 | AMIXAL | Não informada | Nutrientes parenterais |
+| Registro 100850109 | NUTRIFLEX PLUS | Não informada | Nutrientes parenterais |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (não extraídas de bula)**: doença renal (incluindo doença renal crônica, insuficiência renal crônica e terminal), nefrolitíase, nefrocalcinose, hipercalcemia (incluindo hipercalcemia humoral da malignidade), sarcoidose, distúrbio do metabolismo do fósforo, doença cardíaca e cardiovascular, intoxicação digitálica, fibrilação ventricular, nefropatia aguda por urato, fenilcetonúria e distúrbios do metabolismo da fenilalanina, entre outras.
 
----
+Não foram encontradas interações medicamentosas nos dados compilados. Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-O nível de evidência é L5 — a previsão baseia-se exclusivamente no modelo TxGNN, sem nenhum suporte de estudos clínicos, pré-clínicos ou literatura publicada para a indicação de gastroparesia. Embora o mecanismo proposto (Histidina → Histamina → receptores GI) seja biologicamente plausível, a ausência total de dados experimentais diretos impede qualquer avanço na hierarquia de desenvolvimento.
+A previsão de gastroparesia se apoia apenas no modelo TxGNN (L5), sem ensaios clínicos e com uma única publicação sem relação com a histidina. Além disso, todos os registros no Brasil estão cancelados, e há contraindicações relevantes em doença renal e cardiovascular.
 
 **Para prosseguir, é necessário:**
-- Estudos pré-clínicos (modelos animais de gastroparesia) para verificar se a suplementação de histidina altera a taxa de esvaziamento gástrico
-- Revisão sistemática da literatura sobre histamina endógena, HDC e motilidade gástrica
-- Obtenção do perfil completo de MOA via DrugBank (lacuna DG002)
-- Levantamento das advertências e contraindicações junto à ANVISA/bula disponível (lacuna DG001)
-- Avaliação da viabilidade regulatória no Brasil antes de qualquer estudo clínico
+- Dados do mecanismo de ação da histidina (por exemplo, via consulta ao DrugBank)
+- Bula da ANVISA com advertências e contraindicações, para triagem de segurança
+- Estudos pré-clínicos que testem a histidina na motilidade gástrica
+- Esclarecer a situação regulatória, já que não há registro válido no Brasil
+- Para colangite esclerosante, avaliar o risco de aumento da síntese de histamina antes de qualquer investigação
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

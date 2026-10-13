@@ -2,15 +2,15 @@
 layout: default
 title: Cephalexin
 parent: Evidência Moderada (L3-L4)
-nav_order: 184
-evidence_level: L3
+nav_order: 215
+evidence_level: L4
 indication_count: 10
 ---
 
 # Cephalexin
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,84 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Cefalexina: Das infecções bacterianas à otite média crônica
+# Cefalexina: De cefalosporina sistêmica à otite média crônica
 
 ## Resumo em Uma Frase
 
-Cefalexina é uma cefalosporina de primeira geração utilizada no tratamento de infecções bacterianas como infecções de pele, do trato urinário e respiratório.
-O modelo TxGNN prevê que pode ser eficaz para **Otite Média Crônica (Chronic Otitis Media)**, com **0 ensaios clínicos** registados e **20 publicações** apoiando essa direção.
-Contudo, a maioria das publicações refere-se a outros antibióticos da classe cefalosporínica, e Cefalexina apresenta limitações de cobertura para os principais patógenos causadores da doença.
-
----
+Cefalexina é um antibiótico cefalosporínico de primeira geração, registrado na ANVISA nas categorias "Cefalosporinas" e "Antibióticos sistêmicos simples".
+O modelo TxGNN prevê que pode ser eficaz para **Otite Média Crônica (Chronic Otitis Media)**,
+mas atualmente há **0 ensaios clínicos** registrados e **8 publicações** associadas, na maioria estudos de bacteriologia, revisões gerais e um ensaio comparativo antigo com outro fármaco.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Infecções bacterianas (nenhum registro ANVISA disponível para extração) |
+|------|------|
+| Indicação Original | Cefalosporinas |
 | Nova Indicação Prevista | Otite Média Crônica (Chronic Otitis Media) |
 | Pontuação de Previsão TxGNN | 98,55% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados formais sobre o mecanismo de ação disponíveis no banco de dados consultado. Com base no conhecimento farmacológico estabelecido, Cefalexina é uma cefalosporina de primeira geração que inibe a síntese da parede celular bacteriana ao se ligar às proteínas de ligação à penicilina (PBPs). Esse mecanismo bactericida é eficaz contra organismos gram-positivos frequentemente implicados na otite média crônica, como *Staphylococcus aureus* e *Streptococcus* spp.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a cefalexina é uma cefalosporina de primeira geração que inibe a síntese da parede celular bacteriana, com atividade principalmente contra bactérias Gram-positivas.
 
-A relação entre o uso original de Cefalexina em infecções bacterianas e a otite média crônica é direta: ambas são condições infecciosas bacterianas nas quais antibióticos beta-lactâmicos têm papel terapêutico reconhecido. Existe inclusive evidência clínica direta — um ensaio controlado duplo-cego de 1983 (PMID 6361325) demonstrou que Cefalexina produziu desfechos clínicos comparáveis a cefroxadina no tratamento da otite média supurativa aguda e de exacerbações da otite média supurativa crônica. Um estudo laboratorial de 1981 (PMID 6798820) avaliou diretamente Cefalexina em pacientes com otite média crônica, comparando a via oral com gotas auriculares.
+A otite média crônica costuma ter componente bacteriano (por exemplo, *Staphylococcus aureus*, *Pseudomonas aeruginosa* e *Proteus*). A cefalexina cobre bem os Gram-positivos, mas tem atividade fraca contra *Pseudomonas*, de modo que o encaixe mecanístico é apenas parcial.
 
-Há, porém, uma limitação mecanística relevante: Cefalexina apresenta cobertura insuficiente para *Haemophilus influenzae* e *Moraxella catarrhalis*, dois dos patógenos mais prevalentes na otite média crônica. Isso restringe seu papel como opção de primeira linha, em comparação com alternativas de espectro mais amplo como amoxicilina-clavulanato, recomendadas pelas diretrizes clínicas atuais.
-
----
+A literatura reunida é composta sobretudo por levantamentos de bacteriologia e suscetibilidade e por revisões gerais, sem ensaio de eficácia direta da cefalexina na doença crônica. Trata-se de uma correspondência entre antibacteriano e infecção, e não de um verdadeiro sinal de reposicionamento. O alto escore do TxGNN provavelmente reflete a proximidade na rede de conhecimento entre as doenças do ouvido médio.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para Cefalexina na indicação de otite média crônica.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [6361325](https://pubmed.ncbi.nlm.nih.gov/6361325/) | 1983 | RCT (duplo-cego) | The Japanese Journal of Antibiotics | Ensaio duplo-cego comparando cefroxadina 250 mg 3×/dia vs. Cefalexina 250 mg 4×/dia em otite supurativa aguda e exacerbação aguda de otite supurativa crônica; eficácia clínica comparável entre os dois fármacos, sem diferença estatisticamente significativa |
-| [6798820](https://pubmed.ncbi.nlm.nih.gov/6798820/) | 1981 | Laboratorial | Acta Oto-Laryngologica | Cefalexina oral vs. gotas auriculares em pacientes com otite média crônica (COM); a redução da contagem bacteriana foi maior com uso tópico do que oral, indicando melhor penetração local |
-| [8177625](https://pubmed.ncbi.nlm.nih.gov/8177625/) | 1994 | Estudo Clínico | Pediatric Infectious Disease Journal | Estudo retrospectivo em 69 crianças com otite média supurativa crônica; 54% apresentavam flora mista aeróbica-anaeróbica; terapia eficaz contra anaeróbios (ex: metronidazol + cefalosporina) obteve resolução mais rápida do que monoterapia |
-| [22737435](https://pubmed.ncbi.nlm.nih.gov/22737435/) | 2011 | Observacional/Laboratorial | Iranian Red Crescent Medical Journal | Perfil de microrganismos aeróbicos e padrão de susceptibilidade antimicrobiana em pacientes com CSOM no Irã; caracteriza os agentes causadores predominantes relevantes para seleção antibiótica |
-| [11838568](https://pubmed.ncbi.nlm.nih.gov/11838568/) | 2001 | Revisão | Indian Journal of Pediatrics | Infecções do trato respiratório superior; otite média compõe 87,5% dos episódios de infecção respiratória superior; maioria de origem viral — antimicrobianos indicados apenas em complicações bacterianas |
-| [7200999](https://pubmed.ncbi.nlm.nih.gov/7200999/) | 1982 | Farmacocinética | Journal of Infectious Diseases | Penetração de amoxicilina, cefaclor, eritromicina-sulfisoxazol e TMP-SMX no fluido do ouvido médio de 83 crianças com otite média serosa crônica; dados de referência para comparação com Cefalexina |
-| [1920724](https://pubmed.ncbi.nlm.nih.gov/1920724/) | 1991 | Observacional | JAMA | Estudo bacteriológico da otite média aguda em adultos nos EUA; levanta dados sobre prevalência de *H. influenzae* como agente causador — um patógeno com cobertura limitada pela Cefalexina |
-| [12017394](https://pubmed.ncbi.nlm.nih.gov/12017394/) | 2002 | Revisão | Clinical Therapeutics | Revisão de cefdinir, cefalosporina de geração avançada aprovada para otite média bacteriana aguda; contextualiza o espectro de cobertura superior de cefalosporinas mais recentes frente à Cefalexina de 1ª geração |
-| [2685215](https://pubmed.ncbi.nlm.nih.gov/2685215/) | 1989 | Estudo Clínico | Nihon Jibiinkoka Gakkai Kaiho | Fatores associados à recuperação tardia de OME em crianças; culturas positivas em 30% dos casos; papel do tratamento antibiótico prolongado no manejo de crianças com patógenos respiratórios identificados |
-| [15212560](https://pubmed.ncbi.nlm.nih.gov/15212560/) | 2004 | Revisão | Drugs | Revisão abrangente de cefdinir; atividade contra *H. influenzae*, *M. catarrhalis* e *S. pneumoniae* — os três principais patógenos da otite média — evidenciando lacuna da Cefalexina de 1ª geração nesses dois primeiros |
+|------|-----|------|------|---------|
+| [6361325](https://pubmed.ncbi.nlm.nih.gov/6361325/) | 1983 | RCT duplo-cego | Jpn J Antibiot | Cefroxadina 250 mg 3x/dia comparada com cefalexina 250 mg 4x/dia em otite média supurativa aguda e exacerbação aguda de otite média supurativa crônica; resultados praticamente equivalentes na forma aguda |
+| [6798820](https://pubmed.ncbi.nlm.nih.gov/6798820/) | 1981 | Estudo microbiológico | Acta Oto-Laryngol | Em otite média crônica, gotas otológicas de cefalexina reduziram a contagem bacteriana na otorreia mais do que a cefalexina oral |
+| [22737435](https://pubmed.ncbi.nlm.nih.gov/22737435/) | 2011 | Estudo transversal de suscetibilidade | Iran Red Crescent Med J | Isolamento de bactérias e perfil de suscetibilidade antimicrobiana em otite média supurativa crônica no Irã |
+| [1920724](https://pubmed.ncbi.nlm.nih.gov/1920724/) | 1991 | Coorte/microbiologia | JAMA | Bacteriologia da otite média aguda em adultos |
+| [3581497](https://pubmed.ncbi.nlm.nih.gov/3581497/) | 1987 | Coorte | Clin Otolaryngol | Derrames persistentes do ouvido médio em crianças com otite média aguda recorrente |
+| [11838568](https://pubmed.ncbi.nlm.nih.gov/11838568/) | 2001 | Revisão | Indian J Pediatr | Visão geral das infecções de vias aéreas superiores, incluindo otite média, em sua maioria virais |
+| [12017394](https://pubmed.ncbi.nlm.nih.gov/12017394/) | 2002 | Revisão | Clin Ther | Revisão do cefdinir, outra cefalosporina oral, sem relação direta com a cefalexina |
+| [3806956](https://pubmed.ncbi.nlm.nih.gov/3806956/) | 1986 | Estudo clínico (outro fármaco) | Jpn J Antibiot | Estudo com T-2588 em otorrinolaringologia, incluindo exacerbação aguda de otite média crônica; não envolve cefalexina |
+| [3063494](https://pubmed.ncbi.nlm.nih.gov/3063494/) | 1988 | Revisão | Drugs | Revisão do enoxacino, sem relação direta com a cefalexina |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 20 registros localizados estão cancelados; não há registro válido atualmente. Abaixo, os 5 principais:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 100430742 | Cefalexina | Não informada | Cefalosporinas |
+| Registro nº 107150140 | Cefaben | Não informada | Antibióticos sistêmicos simples |
+| Registro nº 156260017 | Keflex | Não informada | Cefalosporinas |
+| Registro nº 103700647 | Lexin | Não informada | Cefalosporinas |
+| Registro nº 155620001 | Keforal | Não informada | Cefalosporinas |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento** (relações fármaco-doença, não texto de bula): doença renal, piureter, colite por *Clostridium difficile*, enterocolite necrosante perinatal e colite.
+- **Interações medicamentosas**: foram identificadas 100 interações no total. As de gravidade moderada incluem **metformina**, **balsalazida** e **ácido picossulfúrico**. Outras interações (por exemplo, calcitriol, pantoprazol, omeprazol, vancomicina, doxiciclina, mesalazina e morfina) constam com gravidade não classificada.
 
----
+Para as demais informações de segurança, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Embora exista uma base mecanística plausível e evidências históricas diretas de eficácia de Cefalexina em otite média supurativa (incluindo um RCT duplo-cego de 1983), a cobertura antimicrobiana insuficiente para *H. influenzae* e *M. catarrhalis*, a ausência de ensaios clínicos contemporâneos, a falta de registro na ANVISA e a indisponibilidade de dados de segurança formais impedem o avanço do reposicionamento neste momento.
+- Não há ensaios clínicos, e a literatura da indicação principal é composta por estudos bacteriológicos, revisões e um ensaio antigo em que a cefalexina serviu de comparador. A cefalexina tem cobertura fraca contra *Pseudomonas*, e todos os registros no Brasil estão cancelados.
+- Nota sobre as demais previsões: a **otite média supurativa** e a **doença do ouvido médio** têm evidência L3, com estudos históricos diretos com cefalexina (1970 a 1975), mas são essencialmente usos já conhecidos, e não reposicionamento novo. As demais previsões (otosalpingite, otite média não supurativa, otite média alérgica, granuloma de colesterol, hiperamilasemia, síndrome de hiperviscosidade policlonal e analbuminemia congênita) estão em L5 e não têm respaldo mecanístico nem clínico.
 
 **Para prosseguir, é necessário:**
-- Obter dados formais de mecanismo de ação (MOA) via DrugBank API (gap de alta severidade)
-- Levantar advertências e contraindicações via bula registrada (gap bloqueante)
-- Verificar situação regulatória atual na ANVISA (o resultado "não comercializado" com 0 registros pode refletir limitação de consulta)
-- Avaliar perfil de susceptibilidade dos patógenos prevalentes em CSOM na população brasileira frente à Cefalexina
-- Caso haja interesse em prosseguir, desenhar ensaio clínico prospectivo comparativo — as únicas evidências diretas datam de 1970–1983 e não atendem aos padrões contemporâneos de evidência
+- Dados de mecanismo de ação e de advertências/contraindicações da bula (lacunas atuais)
+- Avaliação de que a atividade limitada contra *Pseudomonas* e *H. influenzae* é compatível com a doença crônica
+- Ensaio direto de eficácia da cefalexina em otite média crônica, comparado com tratamentos atuais, inclusive por via tópica ótica
+- Verificação de viabilidade regulatória, dado que não há registro válido no Brasil
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

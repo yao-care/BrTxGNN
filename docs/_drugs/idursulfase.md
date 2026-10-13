@@ -2,7 +2,7 @@
 layout: default
 title: Idursulfase
 parent: Apenas Predição do Modelo (L5)
-nav_order: 277
+nav_order: 360
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,46 +29,38 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-**Observações-chave antes de escrever:**
-
-- **Idursulfase** = ERT (terapia de reposição enzimática) para MPS II (Hunter syndrome); substitui a enzima iduronate-2-sulfatase
-- **Top 9 previsões**: todas são anomalias oculares congênitas estruturais → sem base mecanística com GAG → falsos positivos sistêmicos do grafo
-- **Rank 10 (Scheie syndrome, L4)**: tem literatura, porém a enzima deficiente é diferente (IDUA, não IDS) → mecanismo incompatível
-- **Dados de registro ANVISA**: campos todos vazios → omitir tabela de comercialização
-- **Não antineoplásico** → omitir seção Citotoxicidade
-
----
-
-# Idursulfase: Da Síndrome de Hunter (MPS II) à Síndrome de Ptose-Estrabismo-Pupilas Ectópicas
+# Idursulfase: Da mucopolissacaridose à síndrome de ptose-estrabismo-pupilas ectópicas
 
 ## Resumo em Uma Frase
 
-Idursulfase é uma terapia de reposição enzimática usada no tratamento da Mucopolissacaridose tipo II (MPS II, Síndrome de Hunter), uma doença lisossomal rara causada pela deficiência hereditária da enzima iduronate-2-sulfatase.
-O modelo TxGNN prevê como primeira indicação a **Síndrome de Ptose-Estrabismo-Pupilas Ectópicas (Ptosis-Strabismus-Ectopic Pupils Syndrome)**, porém esta previsão conta com **0 ensaios clínicos** e **0 publicações** de suporte — sendo identificada como um falso positivo sistemático do grafo de conhecimento, sem base mecanística.
+Idursulfase é uma enzima recombinante (iduronato-2-sulfatase) usada originalmente no tratamento da mucopolissacaridose (MPS II, síndrome de Hunter).
+O modelo TxGNN prevê que possa ser eficaz para a **síndrome de ptose-estrabismo-pupilas ectópicas (ptosis-strabismus-ectopic pupils syndrome)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A previsão é puramente computacional.
 
 ---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Mucopolissacaridose tipo II (Síndrome de Hunter) — deficiência de iduronate-2-sulfatase |
-| Nova Indicação Prevista | Síndrome de Ptose-Estrabismo-Pupilas Ectópicas (*Ptosis-Strabismus-Ectopic Pupils Syndrome*) |
-| Pontuação de Previsão TxGNN | 97.89% |
+|------|------|
+| Indicação Original | Mucopolissacaridose |
+| Nova Indicação Prevista | Síndrome de ptose-estrabismo-pupilas ectópicas (ptosis-strabismus-ectopic pupils syndrome) |
+| Pontuação de Previsão TxGNN | 97,89% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 2 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente não há dados detalhados sobre o mecanismo de ação disponíveis no Evidence Pack. Com base no conhecimento estabelecido, Idursulfase (Elaprase®) é uma forma recombinante da enzima lisossomal iduronate-2-sulfatase (IDS), que catalisa a hidrólise de resíduos sulfatados em glicosaminoglicanos (GAGs) como dermatan sulfate e heparan sulfate. Na MPS II, a deficiência desta enzima leva ao acúmulo progressivo de GAGs em múltiplos tecidos, com manifestações sistêmicas multiviscerais que incluem, entre outras, **manifestações oculares** — opacidade de córnea, papiledema e alterações retinianas.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a idursulfase é uma enzima recombinante que substitui a iduronato-2-sulfatase deficiente na síndrome de Hunter (MPS II), degradando glicosaminoglicanos (GAGs) acumulados nos lisossomos.
 
-São justamente essas manifestações oculares da MPS II que explicam a alta pontuação TxGNN (97.89%) para a síndrome de ptose-estrabismo-pupilas ectópicas. No grafo de conhecimento, os nós de doenças oftalmológicas ficam em proximidade com o nó de Idursulfase por conta das complicações oculares da MPS II — o que cria um **falso positivo estrutural**: o modelo interpreta vizinhança de grafo como plausibilidade terapêutica, sem considerar a etiologia subjacente de cada doença.
+Para a síndrome prevista, **não se identifica um vínculo mecanístico plausível**. Trata-se de uma síndrome ocular e neuromuscular de origem congênita e do desenvolvimento, sem relação conhecida com acúmulo de GAGs ou deficiência de iduronato-2-sulfatase. A pontuação elevada parece refletir proximidade no grafo de conhecimento, e não plausibilidade biológica.
 
-Na prática, a síndrome de ptose-estrabismo-pupilas ectópicas é uma **anomalia congênita do desenvolvimento neuro-ocular** — uma malformação da musculatura extraocular e do esfíncter pupilar de origem embriológica. Não envolve acúmulo de GAGs, nem deficiência enzimática lisossomal. O tratamento é cirúrgico. Este padrão se repete nas 9 indicações mais bem ranqueadas pelo TxGNN para Idursulfase: todas são anomalias estruturais oculares congênitas (ptose, Síndrome de Horner congênita, entrópio, ectrópio, Marcus Gunn, *jaw-winking*, etc.), configurando uma classe sistemática de falso positivo sem suporte biológico.
+O mesmo vale para as demais previsões de maior pontuação (ranks 2 a 9): síndrome de camptodactilia-miopia-fibrose do reto medial, síndrome de Horner congênita, síndrome de ptose-paralisia de corda vocal, síndrome de ptose-limitação do movimento ocular superior-ausência de ponto lacrimal, síndrome de jaw-winking (Marcus Gunn), entrópio congênito, epibléfaro e ectrópio congênito. Em todas, a análise não encontrou vínculo mecanístico nem qualquer evidência clínica ou da literatura.
+
+A única previsão com algum sentido biológico é a **síndrome de Scheie** (forma atenuada da MPS I, por deficiência de alfa-L-iduronidase), com pontuação de 94,79%. As duas enzimas atuam em sequência na degradação de dermatan sulfato e heparan sulfato, então a associação é coerente. Contudo, a idursulfase não substitui a enzima ausente nessa doença; o tratamento aprovado é a laronidase. A literatura recuperada trata de MPS em geral, dessensibilização e biomarcadores, sem demonstrar eficácia da idursulfase na MPS I.
 
 ---
 
@@ -80,9 +72,17 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada para esta indicação prevista.
+Para a indicação de maior pontuação, atualmente não há literatura relacionada.
 
-> **Nota:** A indicação de rank 10 (Síndrome de Scheie, MPS IS) possui 7 publicações, mas a análise mecanística indica incompatibilidade: o Scheie syndrome resulta de deficiência de α-L-iduronidase (IDUA), enzima diferente e posterior a IDS na via de degradação de GAGs. Idursulfase não resolve o bloqueio metabólico do MPS IS; o tratamento correto é Laronidase (Aldurazyme).
+Para fins de contexto, a previsão de rank 10 (síndrome de Scheie) possui as seguintes publicações, todas de evidência indireta:
+
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [22210671](https://pubmed.ncbi.nlm.nih.gov/22210671/) | 2011 | Revisão | Rheumatology (Oxford) | Visão geral das terapias para MPS, incluindo reposição enzimática para MPS I (laronidase) e MPS II (idursulfase) |
+| [21211680](https://pubmed.ncbi.nlm.nih.gov/21211680/) | 2010 | Revisão | La Revue de Médecine Interne | Revisão da terapia de reposição enzimática em doenças de depósito lisossômico |
+| [36329518](https://pubmed.ncbi.nlm.nih.gov/36329518/) | 2022 | Série de casos | Orphanet J Rare Dis | Dessensibilização a idursulfase e laronidase em MPS II e MPS I-S |
+| [39731157](https://pubmed.ncbi.nlm.nih.gov/39731157/) | 2024 | Coorte/seguimento | Orphanet J Rare Dis | Seguimento de dois anos após dessensibilização em MPS, para restabelecer a terapia enzimática após reações de hipersensibilidade |
+| [21732093](https://pubmed.ncbi.nlm.nih.gov/21732093/) | 2012 | Coorte | J Inherit Metab Dis | Observações longitudinais do complexo cofator II da heparina–trombina como biomarcador em pacientes tratados com MPS I e II |
 
 ---
 
@@ -97,14 +97,14 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-Todas as 10 indicações previstas pelo TxGNN carecem de suporte científico válido para Idursulfase: as 9 primeiras são anomalias estruturais congênitas do olho sem relação com metabolismo de GAGs (falsos positivos sistemáticos por proximidade de grafo), e a 10ª envolve deficiência enzimática de uma proteína distinta — inviabilizando o reposicionamento sob qualquer das previsões atuais.
+A previsão principal tem nível de evidência L5: apenas pontuação do modelo, sem ensaios, sem literatura e sem vínculo mecanístico plausível. A pontuação alta provavelmente reflete proximidade no grafo de conhecimento, e não plausibilidade biológica. Além disso, o fármaco não é comercializado no Brasil.
 
 **Para prosseguir, é necessário:**
-- Recuperar dados completos dos 2 registros ANVISA (nome comercial, forma farmacêutica, indicação aprovada) para completar o perfil regulatório
-- Obter bula ANVISA para preenchimento de advertências, contraindicações e informações de segurança
-- Reavaliação das previsões TxGNN com **filtragem de falsos positivos oftalmológicos** gerados por vizinhança de nós de MPS II no grafo de conhecimento
-- Explorar indicações dentro do espectro de **doenças lisossomais por armazenamento de GAG** (ex.: MPS VI, MPS VII) onde a similaridade bioquímica com MPS II é real e o mecanismo de ERT é aplicável
-- Considerar análise de subgrupos populacionais (pacientes pediátricos vs. adultos) dada a natureza rara e progressiva da doença original
+- Dados do mecanismo de ação (MOA) confirmados, por exemplo, via consulta ao DrugBank
+- Bula da ANVISA com advertências e contraindicações, para triagem de segurança (lacuna bloqueante)
+- Racional biológico que ligue a deficiência enzimática à fisiopatologia da síndrome prevista, ou evidência pré-clínica que o sustente
+- Se houver interesse em MPS I/síndrome de Scheie, estudos que avaliem diretamente a idursulfase nessa condição (a terapia aprovada é a laronidase)
+- Definição de compatibilidade de via de administração e de situação regulatória no Brasil (sem registro atualmente)
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

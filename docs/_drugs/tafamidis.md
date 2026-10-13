@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tafamidis
-parent: Apenas Predição do Modelo (L5)
-nav_order: 454
-evidence_level: L5
+parent: Evidência Alta (L1-L2)
+nav_order: 604
+evidence_level: L1
 indication_count: 10
 ---
 
 # Tafamidis
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L1** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,68 +29,76 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tafamidis: Da Amiloidose por Transtirretina ao Transtorno Primário de Liberação de Plaquetas
+# Tafamidis: Da amiloidose à amiloidose primária (amiloidose do tipo transtirretina)
 
 ## Resumo em Uma Frase
 
-Tafamidis é um estabilizador cinético da proteína transtirretina (TTR), utilizado no tratamento da cardiomiopatia por amiloidose de transtirretina (ATTR-CM) e da polineuropatia amiloide hereditária por TTR (ATTR-PN).
-O modelo TxGNN prevê que pode ser eficaz para o **Transtorno Primário de Liberação de Plaquetas (Primary Release Disorder of Platelets)**, porém atualmente **não há ensaios clínicos** nem **publicações** apoiando esta direção.
+Tafamidis é um estabilizador da proteína transtirretina (TTR), originalmente utilizado no tratamento de formas de amiloidose (incluindo amiloidose hereditária por TTR).
+O modelo TxGNN prevê que pode ser eficaz para **amiloidose primária (primary amyloidosis)**,
+atualmente com **0 ensaios clínicos** registrados e **20 publicações** apoiando esta direção, incluindo o ensaio pivotal de Fase 3 ATTR-ACT.
 
----
+> Observação importante: esta é a primeira previsão com evidências reais entre as 10 listadas. Ela é, em grande parte, uma indicação já existente do fármaco (amiloidose por TTR), e não um reposicionamento genuíno. As demais previsões (ex.: distúrbios plaquetários) não têm qualquer evidência de apoio.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Amiloidose por Transtirretina (ATTR-CM / ATTR-PN) |
-| Nova Indicação Prevista | Transtorno Primário de Liberação de Plaquetas (Primary Release Disorder of Platelets) |
-| Pontuação de Previsão TxGNN | 89,27% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 3 |
-| Decisão Recomendada | Hold |
-
----
+| Indicação Original | Amiloidose (incluindo amiloidose AL, AH e ATTRV122I, conforme o grafo de conhecimento) |
+| Nova Indicação Prevista | Amiloidose primária (primary amyloidosis) |
+| Pontuação de Previsão TxGNN | 85,00% |
+| Nível de Evidência | L1 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados; requer verificação) |
+| Número de Registros | 0 |
+| Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
 
-Tafamidis atua como estabilizador cinético do tetrâmero da transtirretina (TTR), ligando-se com alta afinidade aos dois sítios de ligação da tiroxina presentes na proteína. Essa ligação impede a dissociação do tetrâmero em monômeros, bloqueando a cascata que leva à formação e deposição de fibrilas amiloides no miocárdio e nos nervos periféricos — base do mecanismo de eficácia comprovado em ATTR-CM e ATTR-PN.
+Tafamidis liga-se aos sítios de ligação da tiroxina do tetrâmero de transtirretina (TTR) e o estabiliza cineticamente. Isso impede a dissociação em monômeros, etapa inicial da formação de fibrilas amiloides. Estabiliza tanto a TTR selvagem quanto variantes mutadas. Não há dado formal de mecanismo de ação (MOA) na base compilada, mas a informação farmacológica disponível confirma esse mecanismo.
 
-O transtorno primário de liberação de plaquetas é uma condição intrínseca à biologia plaquetária, envolvendo disfunção nos grânulos alfa e densos, sinalização de exocitose e eventos como a exposição da fosfatidilserina na superfície da membrana plaquetária. Todos esses processos pertencem a vias de ativação celular específicas das plaquetas e **não apresentam qualquer interseção conhecida** com o metabolismo, a estabilidade estrutural ou a homeostase da proteína TTR.
+A indicação original (amiloidose) e a nova indicação (amiloidose primária) pertencem à mesma família de doenças por deposição de proteínas mal dobradas. O ensaio de Fase 3 ATTR-ACT (PMID 30145929) mostrou benefício em cardiomiopatia amiloide por transtirretina, com redução da mortalidade por todas as causas e das hospitalizações cardiovasculares.
 
-A análise de plausibilidade mecanística da própria plataforma TxGNN classifica esta previsão como **provável falso positivo**: a pontuação elevada (89,27%) provavelmente reflete proximidade topológica entre nós de doenças hematológicas e nós de doenças sistêmicas no grafo de conhecimento, e não uma associação biológica real. A ausência completa de literatura ou ensaios clínicos reforça esta conclusão.
-
----
+**Ressalva importante:** o tafamidis atua apenas na amiloidose derivada de TTR. Não é eficaz na amiloidose AL (cadeia leve), cuja proteína precursora é diferente. A indicação deve, portanto, ser restrita ao tipo TTR. Além disso, o status "não comercializado" conflita com aprovações regulatórias conhecidas do fármaco e deve ser verificado junto à ANVISA.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+Foram selecionadas as 10 publicações mais relevantes, priorizando ensaios randomizados e meta-análises, depois revisões.
 
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [30145929](https://pubmed.ncbi.nlm.nih.gov/30145929/) | 2018 | RCT (Fase 3, ATTR-ACT) | N Engl J Med | Tafamidis liga-se à TTR, impede a dissociação do tetrâmero e a amiloidogênese em cardiomiopatia amiloide por TTR |
+| [41282536](https://pubmed.ncbi.nlm.nih.gov/41282536/) | 2025 | Meta-análise em rede | Eur Heart J Open | Compara a eficácia relativa de tafamidis, acoramidis, patisiran e vutrisiran na amiloidose cardíaca por TTR |
+| [40889572](https://pubmed.ncbi.nlm.nih.gov/40889572/) | 2025 | Revisão sistemática e meta-análise | J Card Fail | Harmoniza dados dos ensaios de Fase 3 controlados por placebo em ATTR-CM |
+| [41317156](https://pubmed.ncbi.nlm.nih.gov/41317156/) | 2025 | Coorte do mundo real | Eur J Heart Fail | Fenótipo clínico e associação do tafamidis com a sobrevida em ATTRwt-CM, com dados pareados por escore de propensão |
+| [41334760](https://pubmed.ncbi.nlm.nih.gov/41334760/) | 2025 | Coorte com ponderação por escore de propensão | J Am Heart Assoc | Tafamidis reduz morte e hospitalização por insuficiência cardíaca aguda em pacientes octogenários com amiloidose cardíaca por TTR |
+| [39213194](https://pubmed.ncbi.nlm.nih.gov/39213194/) | 2025 | RCT (vutrisiran, contexto comparador) | N Engl J Med | Vutrisiran, terapia de RNA de interferência, inibe a produção hepática de TTR em ATTR-CM |
+| [39556242](https://pubmed.ncbi.nlm.nih.gov/39556242/) | 2025 | Extensão aberta (acoramidis, contexto comparador) | Circulation | Eficácia e segurança de longo prazo de outro estabilizador de TTR |
+| [38441582](https://pubmed.ncbi.nlm.nih.gov/38441582/) | 2024 | Revisão | JAMA | Revisão sobre amiloidose cardíaca por TTR, causa mais comum de cardiomiopatia amiloide |
+| [39819772](https://pubmed.ncbi.nlm.nih.gov/39819772/) | 2025 | Revisão | Curr Opin Cardiol | Novas terapias para amiloidose cardíaca (ATTR-CM e AL-CM) |
+| [35414852](https://pubmed.ncbi.nlm.nih.gov/35414852/) | 2022 | Revisão | Methodist DeBakey Cardiovasc J | Visão geral dos tratamentos atuais e experimentais da amiloidose cardíaca |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Interações Medicamentosas:** foram identificadas 13 interações. A de maior gravidade é com **ozanimode (Maior)**. As demais são de nível moderado: rosuvastatina, deferasirox, eltrombopague, lusutrombopague, artesunato, axitinibe, metotrexato, irinotecano (incluindo lipossomal), belinostate e imatinibe. Para a maioria, recomenda-se atenção a medicamentos que são substratos de transportadores (como BCRP).
+- Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-A previsão de Tafamidis para o transtorno primário de liberação de plaquetas não possui qualquer sustentação mecanística — a estabilização do tetrâmero TTR não tem relação identificada com os mecanismos de liberação de grânulos plaquetários. Nenhum ensaio clínico ou publicação científica apoia esta indicação, e a análise de plausibilidade a classifica como falso positivo do modelo.
+- Há evidência de alto nível (Fase 3, ATTR-ACT) para amiloidose por TTR, mas trata-se majoritariamente de uma indicação já existente, e não de um reposicionamento novo. A evidência não se aplica à amiloidose AL.
 
-**Para prosseguir, seria necessário:**
-- Identificar uma hipótese mecanística plausível que conecte a estabilização de TTR à função plaquetária
-- Realizar busca sistematizada na literatura de estudos pré-clínicos sobre TTR e plaquetas
-- Auditar o grafo de conhecimento do TxGNN para identificar a origem da associação entre estes dois nós de doença
+**Para prosseguir, é necessário:**
+- Restringir a indicação à amiloidose por TTR (excluir amiloidose AL)
+- Verificar a situação regulatória real na ANVISA (o status "não comercializado" conflita com aprovações conhecidas) e obter a bula para advertências e contraindicações
+- Complementar os dados de mecanismo de ação (MOA) na base de dados
+- Avaliar o plano de manejo das interações medicamentosas, em especial com ozanimode
+
+**Outras previsões (todas com decisão Hold, nível L5, sem ensaios nem literatura):** distúrbio primário de liberação plaquetária (89,27%), púrpura trombocitopênica (88,73%), pseudo-doença de von Willebrand (87,88%), trombastenia de Glanzmann (85,79%), hiperoxalúria primária (84,33%), doença da derme (83,36%), doença metabólica da biotina (83,32%) e anemia hemolítica autoimune de tipo misto (82,31%). Não há vínculo mecanístico plausível entre a estabilização da TTR e essas doenças; as pontuações refletem apenas proximidade no grafo de conhecimento. Uma nona previsão, a neuropatia periférica amiloide adquirida (84,77%, nível L3), tem apenas revisões e dados observacionais como suporte e permanece como questão de pesquisa.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

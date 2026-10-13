@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tryptophan
-parent: Apenas Predição do Modelo (L5)
-nav_order: 496
-evidence_level: L5
+parent: Evidência Moderada (L3-L4)
+nav_order: 658
+evidence_level: L3
 indication_count: 10
 ---
 
 # Tryptophan
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L3** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,74 +29,83 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Triptofano: De suplemento nutricional à Síndrome das Pernas Inquietas
+# Triptofano: De nutriente parenteral para síndrome das pernas inquietas
 
 ## Resumo em Uma Frase
 
-Triptofano (L-triptofano) é um aminoácido essencial cujo papel mais reconhecido é o de precursor bioquímico da serotonina e da melatonina, sem indicação terapêutica formalmente aprovada no Brasil. O modelo TxGNN prevê que pode ser eficaz para a **Síndrome das Pernas Inquietas (Restless Legs Syndrome)**, com pontuação de 99,72%, porém atualmente **sem ensaios clínicos** e **sem publicações científicas** que apoiem diretamente esta indicação.
-
----
+Triptofano é um aminoácido essencial, usado no Brasil como componente de produtos para dietas especiais e de nutrição parenteral (soluções de aminoácidos).
+O modelo TxGNN prevê que pode ser eficaz para **Síndrome das Pernas Inquietas (Restless Legs Syndrome)**,
+atualmente com **0 ensaios clínicos** registrados e **6 publicações** (nenhuma delas um ensaio controlado nesta indicação) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Aminoácido essencial / suplemento nutricional (sem indicação aprovada no Brasil) |
+|------|------|
+| Indicação Original | Produtos para dietas especiais |
 | Nova Indicação Prevista | Síndrome das Pernas Inquietas (Restless Legs Syndrome) |
 | Pontuação de Previsão TxGNN | 99,72% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros ANVISA | 0 |
+| Nível de Evidência | L3 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 17 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-O triptofano é o aminoácido essencial que inicia a via bioquímica: **L-triptofano → 5-HTP → Serotonina → Melatonina**. Por esta razão, é o substrato central para a regulação do humor, do ciclo sono-vigília e de diversas funções do sistema nervoso central. Não há dados formais de mecanismo de ação (MOA) disponíveis no DrugBank para este composto aplicados à Síndrome das Pernas Inquietas.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o triptofano é um aminoácido essencial, precursor da serotonina e da melatonina, e participa de vias relacionadas à dopamina e ao metabolismo do ferro.
 
-A Síndrome das Pernas Inquietas (RLS) é uma condição neurológica caracterizada por disfunção dopaminérgica nos gânglios basais — os tratamentos aprovados atuais atuam diretamente sobre receptores de dopamina (agonistas dopaminérgicos) ou sobre canais de cálcio. A hipótese que conecta o triptofano à RLS é indireta: dado que os sistemas serotoninérgico e dopaminérgico interagem no sistema nervoso central, a suplementação de triptofano poderia, em tese, modular indiretamente o equilíbrio dopaminérgico ao elevar os níveis de serotonina. Esta cadeia de eventos permanece altamente especulativa.
+A síndrome das pernas inquietas (SPI) é um distúrbio neurológico caracterizado por sensação desagradável nas pernas, aliviada pelo movimento. Acredita-se que o sistema dopaminérgico participe da sua patogênese. A ligação com o triptofano é indireta: ele alimenta a síntese de monoaminas, e a deficiência de DNAJC12 (cofator das hidroxilases de aminoácidos aromáticos) associa SPI à síntese de monoaminas.
 
-A alta pontuação do TxGNN (0,9972) provavelmente reflete uma **conexão topológica indireta** no grafo de conhecimento — triptofano → serotonina → interação serotonina-dopamina → RLS — e não uma relação terapêutica direta estabelecida. Nenhum estudo pré-clínico ou clínico publicado suporta especificamente este uso, tornando esta previsão uma **hipótese geradora de pesquisa**, e não uma evidência de eficácia.
-
----
+Há ressalvas importantes. Os relatos clínicos que sugerem efeito do L-triptofano sobre sintomas de SPI e movimentos periódicos das pernas são antigos (1986-1987) e pequenos. Além disso, antidepressivos serotoninérgicos estão associados a movimentos anormais semelhantes à SPI, o que torna incerta a direção do efeito.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [3953904](https://pubmed.ncbi.nlm.nih.gov/3953904/) | 1986 | Estudo clínico pequeno/aberto | Am J Psychiatry | L-triptofano no tratamento da síndrome das pernas inquietas (sem resumo disponível) |
+| [3659737](https://pubmed.ncbi.nlm.nih.gov/3659737/) | 1987 | Estudo clínico | Sleep | Movimentos periódicos das pernas com L-dopa, 5-hidroxitriptofano e L-triptofano (sem resumo disponível) |
+| [1305630](https://pubmed.ncbi.nlm.nih.gov/1305630/) | 1992 | Revisão | Int J Neurosci | Revisão do L-triptofano em transtornos neuropsiquiátricos; serotonina e controle motor |
+| [36897462](https://pubmed.ncbi.nlm.nih.gov/36897462/) | 2023 | Série de casos | Neurol Sci | SPI na deficiência de DNAJC12, ligando SPI à neurotransmissão dopaminérgica/serotoninérgica (indireto) |
+| [33836477](https://pubmed.ncbi.nlm.nih.gov/33836477/) | 2021 | Revisão sistemática e metanálise | Sleep Med Rev | SPI em hepatopatia crônica, em que triptofano elevado é um dos fatores possíveis (indireto) |
+| [32546134](https://pubmed.ncbi.nlm.nih.gov/32546134/) | 2020 | Farmacovigilância | BMC Psychiatry | Antidepressivos e transtornos do movimento; possível sinal de segurança (indireto) |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 17 registros encontrados estão cancelados. Principais registros:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100419923 | Ketosteril | Não informada | Produtos para dietas especiais |
+| Registro 100410131 | Nephrotect | Não informada | Nutrientes parenterais |
+| Registro 100410159 | Aminoven 10% Infant | Não informada | Nutrientes parenterais |
+| Registro 106830181 | Olimel | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
+| Registro 106830186 | Numeta Ped | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (inferidas do grafo de conhecimento, não da bula)**: doenças autoimunes, lúpus eritematoso sistêmico (inclusive pediátrico), transtorno de ansiedade, transtorno neurótico, transtorno distímico, esquizofrenia, fenilcetonúria e outros distúrbios do metabolismo da fenilalanina, e síndrome de eosinofilia-mialgia (incluindo a associada ao triptofano).
+- **Interações Medicamentosas**: foram identificadas 17 interações, a maioria relacionada ao risco serotoninérgico.
+  - *Graves (Major)*: lorcasserina, dolasetrona, palonosetrona, ondansetrona, granisetrona, fenfluramina, sibutramina, azul de metileno, doxepina (inclusive tópica) e procarbazina.
+  - *Moderadas*: morfina, codeína, hidrocodona, ciproeptadina, ozanimod e ifosfamida.
 
-**⚠️ Alerta histórico relevante:** Em 1989, mais de 1.500 pacientes que utilizaram L-triptofano como suplemento (para insônia e depressão) desenvolveram **Síndrome de Eosinofilia-Mialgia (EMS)**, doença potencialmente fatal com aproximadamente 40 óbitos registrados. A causa foi atribuída a impurezas do processo de fabricação (um lote de um único fabricante), e não ao triptofano em si. Este precedente — documentado no registro clínico [NCT00001918](https://clinicaltrials.gov/study/NCT00001918) — exige avaliação rigorosa de pureza farmacêutica e rastreabilidade de fabricação em qualquer desenvolvimento clínico futuro com este composto.
-
----
+Consulte a bula para as demais informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Não existem ensaios clínicos nem publicações científicas que apoiem diretamente o uso do triptofano para a Síndrome das Pernas Inquietas. A previsão do TxGNN baseia-se exclusivamente em conexões topológicas indiretas do grafo de conhecimento, sem evidência mecanística ou clínica de suporte. O triptofano não está registrado nem comercializado no Brasil, e seu histórico de segurança (EMS, 1989) requer due diligence adicional antes de qualquer desenvolvimento clínico.
+A pontuação do modelo é alta, mas a evidência para SPI se limita a estudos pequenos e antigos de 1986-1987, sem ensaios clínicos registrados. Todos os registros brasileiros estão cancelados, há 17 interações medicamentosas (várias graves, de natureza serotoninérgica) e o grafo de conhecimento aponta contraindicações relevantes. É uma questão de pesquisa, não uma candidata pronta para avançar.
 
 **Para prosseguir, é necessário:**
-- Estudos pré-clínicos em modelos validados de RLS, investigando especificamente o eixo triptofano → serotonina → modulação dopaminérgica
-- Confirmação do perfil de segurança com triptofano farmacêutico de alta pureza, incluindo análise de contaminantes associados ao EMS
-- Dados de mecanismo de ação (MOA) específicos para o contexto de RLS
-- Processo de registro na ANVISA antes de qualquer ensaio clínico no Brasil
-
----
-
-> **Nota sobre o perfil completo de previsão:** Dentro do conjunto de indicações previstas pelo TxGNN para este fármaco, a **insônia** (Rank 4; TxGNN 99,47%; Nível de Evidência **L2**; Decisão: **Proceed with Guardrails**) apresenta suporte substancialmente maior, incluindo um RCT de 4 braços comparando L-triptofano a hipnóticos ativos ([PMID 6410442](https://pubmed.ncbi.nlm.nih.gov/6410442/), 1983, n=96), estudos de intervenção recentes ([PMID 40772548](https://pubmed.ncbi.nlm.nih.gov/40772548/), 2025) e revisões mecanísticas sobre a via triptofano → serotonina → melatonina aplicada ao sono ([PMID 40681828](https://pubmed.ncbi.nlm.nih.gov/40681828/), 2025). Essa indicação representa a direção de reposicionamento com maior maturidade de evidências para investigação prioritária.
+- Ensaio clínico controlado e randomizado moderno de triptofano em SPI, com desfechos validados
+- Dados do mecanismo de ação e justificativa farmacológica mais sólida
+- Obter e analisar a bula na ANVISA (advertências e contraindicações)
+- Avaliação de segurança, com foco em interações serotoninérgicas, na síndrome de eosinofilia-mialgia e nas populações de risco
+- Esclarecer a via de administração e a forma farmacêutica adequadas, já que os produtos registrados são nutrientes parenterais cancelados
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

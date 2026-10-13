@@ -2,7 +2,7 @@
 layout: default
 title: Benzocaine
 parent: Apenas Predição do Modelo (L5)
-nav_order: 107
+nav_order: 122
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,71 +29,66 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Benzocaine: Da Anestesia Local à Conjuntivite Papilar
+# Benzocaína: Da anestesia local de orofaringe à conjuntivite papilar
 
 ## Resumo em Uma Frase
 
-Benzocaine é um anestésico local do tipo éster, amplamente utilizado para o alívio temporário de dor e prurido em mucosas e tecidos superficiais.
-O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite Papilar (Papillary Conjunctivitis)**,
-porém atualmente há **0 ensaios clínicos** e **0 publicações** apoiando diretamente esta direção.
-
----
+Benzocaína é um anestésico local do tipo éster, originalmente registrado no Brasil em produtos para anestesia local e para tratamento de afecções da orofaringe.
+O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite Papilar (Papillary Conjunctivitis)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia apenas na pontuação do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anestesia local de mucosas e superfícies teciduais |
+| Indicação Original | Anestésicos locais |
 | Nova Indicação Prevista | Conjuntivite Papilar (Papillary Conjunctivitis) |
 | Pontuação de Previsão TxGNN | 99,38% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 10 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Benzocaine é um anestésico local do tipo éster que atua bloqueando canais de sódio voltagem-dependentes (Nav1.x), inibindo a condução de sinais nervosos sensoriais. Teoricamente, essa ação poderia proporcionar alívio sintomático temporário do prurido e da sensação de corpo estranho associados à conjuntivite papilar.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações farmacológicas conhecidas, a benzocaína é um anestésico local tópico do tipo éster que bloqueia canais de sódio dependentes de voltagem, interrompendo a condução do estímulo doloroso. Em teoria, poderia aliviar o desconforto da superfície ocular.
 
-No entanto, a fisiopatologia central da conjuntivite papilar envolve ativação de mastócitos mediada por IgE e inflamação crônica conduzida por linfócitos T — mecanismos tipicamente desencadeados por lentes de contato ou próteses oculares. Um anestésico local age apenas no sintoma e não alcança os mecanismos imunológicos subjacentes.
+Contudo, a relação com a nova indicação é fraca. A conjuntivite papilar (alérgica, associada a lentes de contato ou papilar gigante) é causada principalmente por mecanismos imunológicos e alérgicos e por irritação mecânica, não pela dor em si. A ação anestésica seria, no máximo, sintomática e não trataria a inflamação subjacente.
 
-A pontuação elevada do TxGNN provavelmente reflete uma inferência indireta pelo caminho "anestésico local → tecido mucoso → alívio de sintomas conjuntivais" dentro do grafo de conhecimento. Trata-se de uma extrapolação do modelo sem validação biológica direta. Adicionalmente, o uso oftálmico de benzocaína levanta preocupações de toxicidade epitelial corneal e risco de meta-hemoglobinemia em caso de absorção sistêmica, elevando o risco translacional.
+Além disso, todas as indicações originais são de uso orofaríngeo ou anestésico tópico, sem nenhum uso oftálmico. A única sustentação da previsão é a pontuação elevada do TxGNN (posição 3969 no ranking do modelo), sem estudos que a confirmem.
 
----
+## Informações de Comercialização no Brasil
 
-## Evidências de Ensaios Clínicos
+Todos os 10 registros encontrados são de produtos isolados (monofármaco) e estão cancelados. Os 5 principais:
 
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 101770027 | BENZOTOP | — | Anestésicos locais |
+| Registro 155840367 | NEOPIRIDIN | — | Produtos para orofaringe |
+| Registro 106890215 | RESFEGARGANTA | — | Anti-infecciosos e antissépticos tópicos para orofaringe |
+| Registro 103900159 | DEQUADIN | — | Anti-infecciosos e antissépticos tópicos para orofaringe |
+| Registro 106890151 | SANILIN | — | Anti-infecciosos e antissépticos tópicos para orofaringe |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (PrimeKG, não é texto de bula)**: o grafo associa o fármaco a diversas condições, entre elas insuficiência hepática, doença hepática, encefalopatia hepática, doença renal, epilepsia, porfirias, diabetes mellitus e cetoacidose diabética, neutropenia, agranulocitose, trombocitopenia, doenças da coagulação sanguínea, hipercalcemia, hiperparatireoidismo, sarcoidose, gastrite, herpes simples, transtornos de ansiedade e abuso/dependência de substâncias. Esses itens devem ser verificados com cautela, pois não provêm da bula.
+- **Risco específico para uso ocular**: anestésicos tópicos podem causar toxicidade corneana com uso prolongado e retardo na cicatrização do epitélio, o que é particularmente preocupante para uma condição inflamatória crônica como a conjuntivite papilar.
+- **Interações medicamentosas**: não foram encontradas interações nos dados compilados.
 
----
+Consulte a bula para informações de segurança completas; as advertências e contraindicações oficiais da ANVISA não estavam disponíveis.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN apresenta pontuação elevada (99,38%), porém não há qualquer ensaio clínico ou publicação científica apoiando o uso de benzocaína em conjuntivite papilar. O mecanismo de ação anestésico local não aborda a patogênese imunológica da doença, e há riscos de segurança oftálmica não negligenciáveis. O nível de evidência L5 (apenas previsão do modelo) é insuficiente para avançar.
+- A previsão se apoia apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. O mecanismo anestésico não atinge a causa imunoalérgica da doença, há risco de toxicidade corneana, não há uso oftálmico aprovado e todos os registros no Brasil estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de mecanismo de ação (MOA) via DrugBank para fundamentar a plausibilidade biológica
-- Levantar dados de segurança oftálmica em modelos pré-clínicos (estudos de toxicidade corneal)
-- Verificar se existem formulações oftálmicas de benzocaína registradas em outros países e seus perfis de segurança
-- Registrar o fármaco na ANVISA antes de qualquer desenvolvimento clínico no Brasil
-- Considerar se a indicação-alvo justifica priorização frente a candidatos com evidência de nível L3 ou superior
+- Obter e analisar a bula oficial na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
+- Complementar os dados do mecanismo de ação a partir do DrugBank e analisar a ligação mecanística com a conjuntivite papilar.
+- Realizar revisão sistemática da literatura e de registros de ensaios clínicos sobre anestésicos tópicos em conjuntivite.
+- Avaliar a compatibilidade de via de administração e formulação (uso oftálmico) e a segurança ocular, incluindo risco de toxicidade corneana.
+- Considerar alternativas já estabelecidas para a condição (anti-histamínicos tópicos, estabilizadores de mastócitos) antes de qualquer investimento em desenvolvimento.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

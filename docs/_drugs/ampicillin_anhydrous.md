@@ -2,7 +2,7 @@
 layout: default
 title: Ampicillin Anhydrous
 parent: Apenas Predição do Modelo (L5)
-nav_order: 60
+nav_order: 66
 evidence_level: L5
 indication_count: 0
 ---

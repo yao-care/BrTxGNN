@@ -2,7 +2,7 @@
 layout: default
 title: Pegvaliase
 parent: Apenas Predição do Modelo (L5)
-nav_order: 390
+nav_order: 513
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,55 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Pegvaliase: Da Fenilcetonúria à Retinopatia Diabética
+# Pegvaliase: Da fenilcetonúria à retinopatia diabética
 
 ## Resumo em Uma Frase
 
-Pegvaliase (Palynziq) é uma enzima terapêutica de substituição originalmente indicada para o tratamento da **Fenilcetonúria (PKU)** em adultos, atuando na degradação do excesso de fenilalanina no sangue.
-O modelo TxGNN prevê que pode ser eficaz para a **Retinopatia Diabética (Diabetic Retinopathy)**, com pontuação de 99,17% — porém **sem nenhum ensaio clínico** e **sem publicações** apoiando esta direção.
-A conexão mecanística é considerada indireta e fraca, e a recomendação atual é de espera até que surjam evidências concretas.
-
----
+Pegvaliase é uma enzima fenilalanina amônia-liase peguilada, que degrada a fenilalanina e cujo uso aprovado em outros países é a fenilcetonúria. Não há indicação original registrada no Brasil nos dados compiládos para este relatório.
+O modelo TxGNN prevê que pode ser eficaz para **retinopatia diabética (diabetic retinopathy)**, porém atualmente com **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Fenilcetonúria (PKU) em adultos |
-| Nova Indicação Prevista | Retinopatia Diabética (Diabetic Retinopathy) |
+|------|------|
+| Indicação Original | Não disponível nos dados de registro da ANVISA (o uso conhecido do fármaco é fenilcetonúria) |
+| Nova Indicação Prevista | Retinopatia diabética (diabetic retinopathy) |
 | Pontuação de Previsão TxGNN | 99,17% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Pegvaliase é uma fenilalanina amônia liase (PAL) recombinante derivada de *Anabaena variabilis*, que converte a fenilalanina (Phe) em amônia e ácido trans-cinâmico. Em pacientes com PKU — nos quais a enzima fenilalanina hidroxilase (PAH) está ausente ou deficiente — o acúmulo de Phe causa neurotoxicidade progressiva. Ao reduzir os níveis plasmáticos de Phe, Pegvaliase restaura a homeostase metabólica e atenua o comprometimento neurológico crônico.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, pegvaliase é uma fenilalanina amônia-liase peguilada que degrada a fenilalanina, e seu uso aprovado é a fenilcetonúria.
 
-A hipótese de aplicação na retinopatia diabética baseia-se em um mecanismo indireto e biologicamente frágil: em pacientes com PKU, o excesso de Phe compete com a tirosina (Tyr), reduzindo a síntese de dopamina e potencialmente prejudicando a neuromodulação da retina. Esse raciocínio é válido no contexto da PKU, mas a retinopatia diabética tem patogênese totalmente distinta — hiperglicemia crônica, ativação da via do poliol, PKC, acúmulo de produtos finais de glicação avançada (AGEs) e superexpressão de VEGF —, todos mecanismos independentes do metabolismo da fenilalanina.
+Não foi estabelecida nenhuma relação mecanística entre a depleção de fenilalanina e a patologia microvascular da retina diabética. A pontuação elevada do TxGNN (0,992) é uma previsão derivada do grafo de conhecimento e, por si só, não constitui prova de plausibilidade biológica.
 
-Em pacientes diabéticos com níveis normais de Phe, não há embasamento teórico para que a redução de Phe por Pegvaliase produza efeito sobre a vasculopatia retiniana diabética. O alto score TxGNN (99,17%) reflete proximidade no grafo de conhecimento farmacológico, mas não implica relevância biológica direta. Esta previsão deve ser interpretada com cautela significativa.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
-
-## Informações de Comercialização no Brasil
-
-Há **1 registro** de Pegvaliase no Brasil. Os detalhes de número de registro, nome comercial, forma farmacêutica e texto de indicação aprovada não estão disponíveis neste pacote de evidências. Consulte o portal da ANVISA para informações completas do registro.
-
----
+As demais previsões do modelo seguem o mesmo padrão: retinopatia diabética não proliferativa grave (99,16%) e vários tipos de catarata (diabética, nuclear senil, cortical, madura, imatura, entre outras; 98,9% a 99,1%). Todas sem ensaios ou literatura. Pontuações idênticas entre subtipos de catarata sugerem um artefato de proximidade no grafo, e não uma biologia específica de cada doença.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 16 interações de nível moderado (fonte: DDInter), principalmente com outros fármacos peguilados ou biológicos:
+  - Fatores de coagulação: fator anti-hemofílico recombinante humano e fator IX de coagulação humano
+  - Fármacos peguilados: certolizumabe pegol, pegaptanibe (oftálmico), pegloticase, pegademase, pegaspargase, pegfilgrastim, peginesatida, peginterferona alfa-2a, alfa-2b e beta-1a, pegvisomanto
+  - Outros: doxorrubicina lipossomal, acetato de medroxiprogesterona e naloxegol
 
----
+Não há dados disponíveis sobre advertências principais e contraindicações da bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Apesar do score elevado do TxGNN (99,17%), a análise mecanística revela uma conexão indireta e biologicamente implausível entre o mecanismo de ação de Pegvaliase — redução de fenilalanina em pacientes com PKU — e a patogênese da retinopatia diabética, que é inteiramente conduzida pela hiperglicemia. A ausência total de ensaios clínicos e publicações científicas configura nível de evidência L5, o mais baixo possível.
+A previsão é baseada apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível. Além disso, o fármaco não é comercializado no Brasil e faltam dados de segurança da bula.
 
 **Para prosseguir, é necessário:**
-- Dados de mecanismo de ação (MOA) completos via DrugBank API
-- Advertências, contraindicações e perfil de segurança da bula registrada na ANVISA
-- Hipótese mecanística plausível que conecte a redução de Phe à patologia vascular retiniana em pacientes diabéticos (não-PKU)
-- Estudos pré-clínicos (*in vitro* / *in vivo*) demonstrando efeito de Pegvaliase em modelos de retinopatia diabética antes de qualquer consideração de ensaio clínico
+- Obter e analisar a bula e os dados de segurança (advertências e contraindicações), etapa bloqueante para a triagem de segurança
+- Complementar os dados de mecanismo de ação (MOA) via DrugBank
+- Propor e testar uma hipótese biológica que ligue a degradação de fenilalanina à retinopatia diabética, com estudos pré-clínicos
+- Avaliar a viabilidade da via de administração (a via sistêmica peguilada versus a necessidade de acesso ocular) e a situação regulatória no Brasil
+- Buscar sinais clínicos ou de literatura antes de qualquer reavaliação
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

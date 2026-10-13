@@ -2,7 +2,7 @@
 layout: default
 title: Atracúrio Besylate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 81
+nav_order: 90
 evidence_level: L5
 indication_count: 0
 ---

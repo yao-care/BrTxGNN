@@ -2,15 +2,15 @@
 layout: default
 title: Cefazolin
 parent: Evidência Moderada (L3-L4)
-nav_order: 176
-evidence_level: L3
+nav_order: 204
+evidence_level: L4
 indication_count: 10
 ---
 
 # Cefazolin
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,85 +29,68 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Cefazolin: Da Profilaxia Cirúrgica à Otite Média Infecciosa
+# Cefazolina: De pneumonia bacteriana e outras infecções para otite média infecciosa
 
 ## Resumo em Uma Frase
 
-Cefazolin é uma cefalosporina de primeira geração amplamente utilizada como antibiótico de profilaxia cirúrgica e no tratamento de infecções bacterianas por germes gram-positivos sensíveis.
-O modelo TxGNN prevê que pode ser eficaz para **Otite Média Infecciosa (Infectious Otitis Media)**,
-atualmente com **1 ensaio clínico** e **3 publicações** apoiando esta direção.
-
----
+Cefazolina é uma cefalosporina de primeira geração, originalmente usada em infecções bacterianas como pneumonia bacteriana (estreptocócica e estafilocócica), colangite, endocardite e artrite bacteriana.
+O modelo TxGNN prevê que pode ser eficaz para **otite média infecciosa (infectious otitis media)**,
+mas atualmente há **0 ensaios clínicos** e **2 publicações** (um relato de caso e uma revisão com pouca relação direta com o tema), ou seja, a previsão se apoia essencialmente no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Profilaxia cirúrgica e tratamento de infecções bacterianas sensíveis (cefalosporina de 1ª geração) |
-| Nova Indicação Prevista | Otite Média Infecciosa (Infectious Otitis Media) |
-| Pontuação de Previsão TxGNN | 99.44% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Indicação Original | Pneumonia bacteriana (os textos de indicação aprovados no Brasil não estão disponíveis; a informação vem das relações de indicação do grafo de conhecimento do TxGNN) |
+| Nova Indicação Prevista | Otite média infecciosa (infectious otitis media) |
+| Pontuação de Previsão TxGNN | 99,44% |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis na base de dados. Com base no conhecimento farmacológico estabelecido, a Cefazolin é uma cefalosporina de primeira geração que age inibindo a síntese da parede celular bacteriana, ligando-se às proteínas de ligação à penicilina (PBPs) e bloqueando a transpeptidação do peptidoglicano. Seu espectro antimicrobiano cobre principalmente cocos gram-positivos como *Staphylococcus aureus* (MSSA) e *Streptococcus spp.*, além de alguns gram-negativos como *E. coli*, *Klebsiella pneumoniae* e *Proteus mirabilis*.
+Atualmente, não há dados detalhados sobre o mecanismo de ação no registro do fármaco. Segundo conhecimento geral, a cefazolina é uma cefalosporina de primeira geração que inibe a síntese da parede celular bacteriana ao se ligar às proteínas ligadoras de penicilina (PBP). Tem boa atividade contra estreptococos e *Staphylococcus aureus* sensível à meticilina.
 
-A otite média infecciosa aguda tem como principais agentes causais *S. pneumoniae*, *H. influenzae* não tipável e *M. catarrhalis*. A Cefazolin oferece cobertura apenas parcial: é eficaz contra *Streptococcus spp.* e *S. aureus* (MSSA), mas apresenta cobertura insuficiente para *H. influenzae* e *M. catarrhalis* — patógenos frequentemente envolvidos nos casos refratários ao tratamento inicial. Além disso, a ausência de formulação oral limita significativamente o uso ambulatorial, onde a otite média é majoritariamente manejada.
+A indicação original (pneumonias estreptocócica e estafilocócica, endocardite, artrite bacteriana) envolve os mesmos tipos de bactérias gram-positivas que também podem causar otite média. Essa sobreposição de patógenos explica a pontuação alta do modelo.
 
-Existe, contudo, um nicho clínico com fundamentação mais sólida: complicações graves de otite média que requerem internação hospitalar, como a **Síndrome de Gradenigo** (petrosité apical secundária à otite média aguda), na qual há relato clínico publicado (2025) do uso de Cefazolin combinada a Ceftazidima. Em contexto cirúrgico otológico e no manejo hospitalar da otite média supurativa, a via intravenosa e o espectro gram-positivo da Cefazolin se alinham às práticas clínicas documentadas.
-
----
+Há limitações importantes: a atividade contra *H. influenzae* e *M. catarrhalis*, patógenos frequentes na otite média, é limitada, e a cefazolina só existe em forma parenteral, o que é pouco prático para uma infecção geralmente tratada por via oral. Não há dados clínicos diretos que sustentem a previsão.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT01511107](https://clinicaltrials.gov/study/NCT01511107) | Phase 2 | Encerrado (TERMINATED) | 520 | Estudo multicêntrico, duplo-cego, comparando terapia antimicrobiana de curta duração (5 dias) vs. padrão (10 dias) em crianças de 6 a 23 meses com otite média aguda; encerrado antes da conclusão, o que compromete a confiabilidade dos dados |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [39567876](https://pubmed.ncbi.nlm.nih.gov/39567876/) | 2025 | Série de Casos | Ann Otol Rhinol Laryngol | Uso empírico de Ceftazidima + Cefazolin para Síndrome de Gradenigo pediátrica (complicação rara de otite média aguda com petrosité apical); demonstra aplicabilidade de Cefazolin em infecções otológicas graves hospitalizadas |
-| [877649](https://pubmed.ncbi.nlm.nih.gov/877649/) | 1977 | Revisão | Southern Medical Journal | Revisão sobre o uso de cefalosporinas em pediatria; destaca eficácia das cefalosporinas de 1ª geração contra cocos gram-positivos, incluindo contextos de infecções otológicas, com menção específica ao potencial de inibição em germes relevantes para otite |
-| [3742953](https://pubmed.ncbi.nlm.nih.gov/3742953/) | 1986 | Revisão/Série de Casos | Clinical Pharmacy | Relato de síndrome de Stevens-Johnson em paciente com histórico de otite média; Cefazolin foi parte do manejo hospitalar antibacteriano, evidenciando uso clínico real no contexto de infecções de ouvido internadas |
+| [3742953](https://pubmed.ncbi.nlm.nih.gov/3742953/) | 1986 | Revisão | Clinical Pharmacy | Descrição de um caso de síndrome de Stevens-Johnson em uma menina de 2,5 anos tratada por otite média e outras condições com vários antibióticos, com revisão da literatura sobre a síndrome. Não avalia a eficácia da cefazolina |
+| [39567876](https://pubmed.ncbi.nlm.nih.gov/39567876/) | 2025 | Relato de caso | Annals of Otology, Rhinology, and Laryngology | Terapia empírica com ceftazidima-cefazolina na síndrome de Gradenigo pediátrica, complicação rara de otite média aguda. Evidência de caso isolado |
 
----
-
-## Informações de Comercialização no Brasil
-
-Há **20 registros** de Cefazolin no Brasil (status: comercializado). Os detalhes individuais de nome comercial, forma farmacêutica e indicação aprovada não estão disponíveis no conjunto de dados atual — o registro na ANVISA confirma a comercialização, mas os dados de cada licença precisam ser complementados via consulta direta ao portal de registros.
-
-> Cefazolin é tipicamente disponível como **pó para solução injetável** (500 mg e 1 g), e suas indicações aprovadas usualmente incluem profilaxia cirúrgica e tratamento de infecções bacterianas causadas por microrganismos sensíveis (pele, tecidos moles, trato respiratório, trato urinário, ossos e articulações, endocardite).
-
----
+Nota: a literatura recuperada para as indicações vizinhas (otite média supurativa, crônica e outras) inclui um estudo comparativo japonês de 1982 entre cefmetazol e cefazolina na otite média supurativa (PMID 6752467, 172 pacientes avaliados), o único sinal clínico direto relacionado à cefazolina, mas antigo e sem validação moderna.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança (advertências e contraindicações pendentes de consulta ao PDF da bula ANVISA).
+- **Contraindicações (relações do grafo de conhecimento, não texto de bula)**: doença de coagulação do sangue, colite por *Clostridium difficile*, enterocolite necrosante perinatal e deficiência congênita de protrombina.
+- **Interações Medicamentosas**: foram identificadas 100 interações na consulta. As de nível **moderado** incluem os aminoglicosídeos canamicina, neomicina e estreptomicina, além do ácido picossulfúrico. Outras (nível desconhecido) incluem calcitriol, epinefrina, anfotericina B, manitol, ácido acetilsalicílico, amoxicilina, bupropiona, budesonida, pantoprazol, glimepirida, clotrimazol, acarbose, morfina, metformina, omeprazol e sucralfato.
 
----
+As advertências e contraindicações da bula da ANVISA não estavam disponíveis; consulte a bula para as informações completas de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A Cefazolin apresenta cobertura microbiológica incompleta para os principais patógenos da otite média infecciosa aguda (*H. influenzae* e *M. catarrhalis* não são adequadamente cobertos) e não dispõe de formulação oral, o que inviabiliza o uso ambulatorial — cenário predominante desta condição. O único ensaio clínico identificado foi encerrado precocemente (TERMINATED), e a literatura disponível é composta exclusivamente por revisões e relatos/séries de casos, sem ensaios clínicos controlados. A recomendação é suspender a avaliação para a indicação ampla de otite média infecciosa, mas considerar investigação restrita ao nicho de complicações hospitalizadas.
+- A previsão tem pontuação alta, mas está no nível L4 de evidência, sem ensaios clínicos e com apenas literatura indireta. O espectro limitado contra os principais patógenos da otite média e a via exclusivamente parenteral reduzem a plausibilidade prática. Além disso, o fármaco não tem registro comercializado no Brasil nos dados compilados.
 
 **Para prosseguir, é necessário:**
-- Redefinir o nicho-alvo para contextos onde a via IV é viável: otite média supurativa hospitalizada, Síndrome de Gradenigo, profilaxia em cirurgia otológica
-- Obter dados do mecanismo de ação (MOA) confirmados via DrugBank (DB01327)
-- Consultar a bula ANVISA para extrair contraindicações e advertências oficiais
-- Levantar dados de sensibilidade microbiológica contemporânea dos patógenos otológicos locais (perfil MSSA/MRSA)
-- Confirmar, via consulta ao portal ANVISA, os detalhes dos 20 registros (nome comercial, indicações aprovadas, posologia)
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada
+- Obter os dados de mecanismo de ação no DrugBank
+- Verificar a situação regulatória da cefazolina no Brasil (nenhum registro foi encontrado)
+- Avaliar a viabilidade de uso parenteral na otite média e comparar com alternativas orais já estabelecidas
+- Obter e revisar o estudo de 1982 (PMID 6752467) e buscar estudos clínicos modernos
+- Considerar, como alternativa de menor risco, indicações com racional mais forte, como a otite média supurativa (única com sinal clínico direto, nível L3)
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

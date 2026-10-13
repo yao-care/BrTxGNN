@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Prednisolone
-parent: Evidência Moderada (L3-L4)
-nav_order: 412
-evidence_level: L3
+parent: Evidência Alta (L1-L2)
+nav_order: 545
+evidence_level: L2
 indication_count: 10
 ---
 
 # Prednisolone
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,96 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Prednisolone: Das Doenças Inflamatórias à Alopecia Areata
+# Prednisolona: De glicocorticoides sistêmicos à alopecia areata
 
 ## Resumo em Uma Frase
 
-Prednisolone é um corticosteroide sintético historicamente utilizado no controle de condições inflamatórias, alérgicas e autoimunes.
+Prednisolona é um glicocorticoide sistêmico, registrado no Brasil na categoria "glicocorticoides sistêmicos".
 O modelo TxGNN prevê que pode ser eficaz para **Alopecia Areata (alopecia areata)**,
-atualmente com **18 ensaios clínicos** e **20 publicações** apoiando essa direção.
-As evidências incluem uma meta-análise em rede Cochrane, revisões sistemáticas e um estudo placebo-controlado com prednisolone oral em pulso diretamente nesta condição.
-
----
+atualmente sem ensaios clínicos registrados nos dados compilados, mas com **20 publicações** apoiando esta direção (incluindo um ensaio randomizado controlado por placebo, uma meta-análise em rede e revisões sistemáticas).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Doenças inflamatórias, alérgicas e autoimunes (corticosteroide sistêmico) |
+| Indicação Original | Glicocorticoides sistêmicos |
 | Nova Indicação Prevista | Alopecia Areata (alopecia areata) |
-| Pontuação de Previsão TxGNN | 99.99% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado (0 registros encontrados) |
-| Número de Registros | 0 |
+| Pontuação de Previsão TxGNN | 99,99% |
+| Nível de Evidência | L2 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-A alopecia areata (AA) é uma doença autoimune mediada por células T CD8+, que atacam os folículos pilosos e destroem o "privilégio imunológico" local — uma proteção imunológica normalmente presente no folículo. O processo envolve a suprarregulação de MHC I na superfície celular folicular e a expressão excessiva de IFN-γ pelos linfócitos infiltrantes, sinalando os folículos como alvos autoimunes. Prednisolone atua por meio dos receptores de glucocorticoides (GR), suprimindo citocinas Th1 (IFN-γ, IL-2, TNF-α), reduzindo a expressão de MHC I e restaurando o estado de privilégio imunológico do folículo. Esse mecanismo é diretamente compatível com a fisiopatologia da AA.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a prednisolona é um glicocorticoide com ampla ação imunossupressora e anti-inflamatória, e sua eficácia como glicocorticoide sistêmico é estabelecida.
 
-A relação entre a indicação original (doenças autoimunes inflamatórias) e a nova indicação prevista é fisiopatologicamente coerente: ambas envolvem desregulação imune mediada por células T, com inflamação perifolicular como denominador comum. De fato, o uso de corticosteroides sistêmicos em pulso para alopecia areata está documentado na literatura clínica desde a década de 1950, foi avaliado em estudo placebo-controlado publicado no *Journal of the American Academy of Dermatology* (PMID 15692475), e consta de revisões sistemáticas contemporâneas e meta-análises em rede Cochrane (PMID 37870096, PMID 30191561) como opção terapêutica reconhecida.
+A alopecia areata é uma doença autoimune mediada por células T, em que o folículo piloso perde o seu "privilégio imunológico" e sofre ataque imune. A imunossupressão glicocorticoide, que reduz a ativação de células T e de citocinas pró-inflamatórias, atua diretamente sobre essa patologia. Um estudo sugere ainda que os pulsos orais de corticoide alteram os níveis séricos e teciduais de TNF-α, o que apoia o mecanismo.
 
-As principais limitações desta previsão são a ausência de um Phase 2/3 RCT dedicado exclusivamente ao prednisolone oral em AA — a maioria dos ensaios recentes foca em inibidores de JAK (baricitinib, ruxolitinib) como alternativas de segunda linha — e os efeitos adversos conhecidos do uso prolongado, que incluem supressão do eixo HPA, osteoporose, hiperglicemia e ganho de peso. Por esse motivo, a decisão é "Proceed with Guardrails", condicionada a protocolos de monitoramento rigoroso.
-
----
+Ressalva importante: a recaída após a suspensão e a toxicidade cumulativa dos corticoides limitam o uso prolongado, e os inibidores de JAK são hoje preferidos nos casos graves.
 
 ## Evidências de Ensaios Clínicos
 
-Dos 18 ensaios clínicos recuperados pela coleta automática, os três mais relevantes para prednisolone em alopecia areata são apresentados abaixo. A maioria dos demais ensaios na coleção refere-se a lúpus eritematoso sistêmico (LES) ou a fármacos distintos (inibidores de JAK, agentes biológicos), sendo identificados como ruído de coleta por sobreposição de nós de doenças autoimunes no grafo de conhecimento.
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | Phase 4 | Concluído | 42 | Avalia segurança e eficácia da megapulse oral de metilprednisolona em AA severa refratária (incluindo alopecia totalis e universalis); testa doses mais altas e pulsos mais frequentes do que os protocolos anteriores para superar a falta de resposta |
-| [NCT01017510](https://clinicaltrials.gov/study/NCT01017510) | N/A | Desconhecido | 20 | Comparação de dois métodos de injeção intralesional de corticosteroide em AA — seringa convencional versus DERMOJET (seringa sem agulha) — avaliando eficácia, segurança e conveniência de uso para médico e paciente |
-| [NCT07101471](https://clinicaltrials.gov/study/NCT07101471) | N/A | Concluído | 296 | Estudo observacional prospectivo de tofacitinib em alopecia; participantes receberam tofacitinib com ou sem prednisolone adjuvante, permitindo avaliação do perfil de segurança e efetividade da combinação em ambiente clínico real |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
+Foram selecionadas as 10 publicações mais relevantes (de 20 recuperadas).
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Meta-análise em Rede | Cochrane Database Syst Rev | NMA Cochrane comparando múltiplos tratamentos para AA; síntese mais abrangente disponível sobre eficácia relativa das intervenções, incluindo corticosteroides sistêmicos |
-| [30191561](https://pubmed.ncbi.nlm.nih.gov/30191561/) | 2019 | Revisão Sistemática | Australasian J Dermatology | Revisão de literatura (1946–2018) sobre tratamentos sistêmicos para AA, AT e AU; consolida corticosteroides sistêmicos como opção terapêutica com base em evidências |
-| [15692475](https://pubmed.ncbi.nlm.nih.gov/15692475/) | 2005 | ECR Placebo-Controlado | J Am Acad Dermatology | Primeiro estudo randomizado placebo-controlado de prednisolone oral em pulso para AA; evidência direta de eficácia do prednisolone nesta indicação específica |
-| [21572877](https://pubmed.ncbi.nlm.nih.gov/21572877/) | 2009 | Estudo Clínico | Dermato-endocrinology | Prednisolone em dose média em pulso para AA; confirma eficácia em fases iniciais, com nota sobre efeitos colaterais significativos que podem levar à descontinuação do tratamento |
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Revisão Narrativa | Dermatology Pract Conceptual | Revisão de eficácia, taxas de recaída, efeitos adversos e fatores prognósticos dos diferentes regimes de pulsoterapia com corticosteroide em AA |
-| [35986630](https://pubmed.ncbi.nlm.nih.gov/35986630/) | 2022 | Coorte Retrospectiva | Dermatologic Therapy | Análise de 26 pacientes com AA extensa tratados com metilprednisolona ± metotrexato; avalia se a terapia combinada é superior à monoterapia com corticosteroide |
-| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Revisão Clínica | Pediatric Dermatology | Revisão de regimes de pulsoterapia com corticosteroide em crianças com AA; consolida evidências sobre dosagem pediátrica e efeitos adversos nesta faixa etária |
-| [28140540](https://pubmed.ncbi.nlm.nih.gov/28140540/) | 2017 | Coorte Retrospectiva | JDDG | Corticoterapia sistêmica sequencial (alta dose → dose subterapêutica) em crianças com AA severa; sugere que manter dose baixa abaixo do limiar de Cushing após pulsoterapia pode reduzir recaídas |
-| [26179196](https://pubmed.ncbi.nlm.nih.gov/26179196/) | 2015 | Estudo de Acompanhamento | Dermatologic Therapy | Acompanhamento de longo prazo (mediana 96 meses) de 65 crianças com AA severa (>30% do couro cabeludo) tratadas com dexametasona oral em pulso equivalente + corticosteroide tópico |
-| [32779249](https://pubmed.ncbi.nlm.nih.gov/32779249/) | 2020 | Estudo Retrospectivo | J Eur Acad Dermatol Venereol | Análise de 138 pacientes com AA crônica; compara taxas de continuidade de agentes poupadores de esteroides (azatioprina, metotrexato, ciclosporina) usados como adjuvantes ao prednisolone sistêmico |
+| [15692475](https://pubmed.ncbi.nlm.nih.gov/15692475/) | 2005 | RCT | J Am Acad Dermatol | Terapia oral em pulso de prednisolona controlada por placebo na alopecia areata; primeiro estudo randomizado e controlado por placebo sobre o tema |
+| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Meta-análise em rede | Cochrane Database Syst Rev | Compara tratamentos para alopecia areata, incluindo imunossupressores, estimulantes do crescimento capilar e imunoterapia de contato |
+| [30191561](https://pubmed.ncbi.nlm.nih.gov/30191561/) | 2019 | Revisão sistemática | Australas J Dermatol | Avalia a evidência de tratamentos sistêmicos para alopecia areata, totalis e universalis, com eficácia variável |
+| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Revisão | Dermatol Pract Concept | Eficácia, taxas de recaída, efeitos adversos e fatores prognósticos da pulsoterapia com corticoides |
+| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Revisão | Pediatr Dermatol | Doses e esquemas de pulsoterapia com corticoide em crianças, sem regimes bem estabelecidos |
+| [21572877](https://pubmed.ncbi.nlm.nih.gov/21572877/) | 2009 | Coorte | Dermato-endocrinology | Pulso de prednisolona em dose média parece eficaz em fases iniciais, mas efeitos colaterais levaram a interrupções |
+| [28140540](https://pubmed.ncbi.nlm.nih.gov/28140540/) | 2017 | Coorte | J Dtsch Dermatol Ges | Corticoide sistêmico sequencial em dose alta e baixa na alopecia areata infantil grave; resposta rápida, mas com recaída após suspensão |
+| [26179196](https://pubmed.ncbi.nlm.nih.gov/26179196/) | 2015 | Coorte | Dermatol Ther | Pulso oral combinado a corticoide tópico em 65 crianças, com seguimento mediano de 96 meses |
+| [30294905](https://pubmed.ncbi.nlm.nih.gov/30294905/) | 2019 | Estudo de mecanismo | J Cosmet Dermatol | Alteração dos níveis de TNF-α como possível mecanismo dos pulsos orais de corticoide |
+| [32779249](https://pubmed.ncbi.nlm.nih.gov/32779249/) | 2020 | Retrospectivo | J Eur Acad Dermatol Venereol | Azatioprina, metotrexato e ciclosporina como poupadores de corticoide em 138 pacientes com alopecia areata crônica |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 20 registros encontrados estão **cancelados**; não há registro válido atualmente. Os cinco principais:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 178170943 | PREDSIM | Não informada | Glicocorticoides sistêmicos |
+| Registro 102351043 | PREDNISOLONA | Não informada | Glicocorticoides sistêmicos |
+| Registro 155840664 | PREDNISOLONA | Não informada | Glicocorticoides sistêmicos |
+| Registro 100431283 | PRENI | Não informada | Glicocorticoides sistêmicos |
+| Registro 100431397 | PERCOIDE | Não informada | Glicocorticoides sistêmicos |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Contraindicações segundo o grafo de conhecimento (não extraídas da bula)**: o grafo de conhecimento do TxGNN associa a prednisolona a doenças como hipertensão, epilepsia, insuficiência cardíaca congestiva, hiperglicemia, porfirias, sarampo, ceratite por herpes simples e hipopituitarismo/deficiências hormonais hipofisárias. Devem ser confirmadas na bula.
+- **Interações medicamentosas**: foram identificadas 100 interações (20 listadas). A de gravidade **maior** é com **adalimumabe**. As de gravidade moderada incluem zidovudina, isotretinoína, acarbose, acebutolol, acetazolamida, cetorolaco, nifedipino, ibuprofeno, etinilestradiol, butalbital, albiglutida, aldesleucina, alefacepte, alentuzumabe e aliscireno. As interações com formoterol e salbutamol são menores.
+- **Toxicidade do uso prolongado**: a literatura destaca recaída após a suspensão e toxicidade cumulativa dos corticoides, especialmente com pulsos repetidos.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-A fisiopatologia da alopecia areata é diretamente compatível com o mecanismo de ação dos corticosteroides, e há evidências de nível L3 — incluindo uma meta-análise em rede Cochrane, revisões sistemáticas e um estudo placebo-controlado com prednisolone oral em pulso — que apoiam o uso nesta indicação. O prednisolone integra o arsenal dermatológico para AA em prática clínica global e é considerado opção de resgate nos casos em que os inibidores de JAK são contraindicados ou inacessíveis.
+Há um ensaio randomizado controlado por placebo, uma meta-análise em rede e revisões sistemáticas que apoiam o uso de corticoide sistêmico em pulso na alopecia areata, com plausibilidade mecanística clara (nível L2). A recaída após a suspensão, a toxicidade cumulativa e a preferência atual pelos inibidores de JAK nos casos graves exigem cautela.
 
 **Para prosseguir, é necessário:**
-- Dados completos de segurança (advertências, contraindicações, interações medicamentosas) da bula ou monografia oficial
-- Dados de mecanismo de ação (MOA) formais obtidos via DrugBank API para formalizar a análise mecanística
-- Verificação independente do status regulatório junto à ANVISA — os 0 registros encontrados podem refletir limitação de busca e não a ausência real do produto no mercado brasileiro
-- Plano estruturado de monitoramento de efeitos adversos de longo prazo, abrangendo: supressão do eixo HPA, densidade mineral óssea (osteoporose), glicemia (hiperglicemia/diabetes), pressão intraocular (catarata/glaucoma) e composição corporal
-- Definição de protocolo de dosagem (dose, frequência e duração da pulsoterapia) alinhado com os estudos disponíveis (PMID 15692475; PMID 21572877) e adaptado ao perfil do paciente (adulto vs. pediátrico, extensão da alopecia)
+- Confirmar a situação regulatória: todos os registros brasileiros estão cancelados, o que exige verificar a disponibilidade de produto válido ou novo registro.
+- Obter as advertências e contraindicações da bula na ANVISA, hoje ausentes.
+- Complementar os dados do mecanismo de ação.
+- Definir dose, esquema de pulso e duração, com plano de monitoramento de efeitos adversos (glicemia, pressão arterial, infecções, crescimento em crianças).
+- Avaliar o papel frente aos inibidores de JAK e a estratégia de poupança de corticoide.
+
+## Outras Indicações Previstas (Contexto)
+
+| Indicação | Pontuação TxGNN | Nível | Decisão | Observação |
+|------|------|------|------|------|
+| Síndrome nefrótica idiopática sensível a esteroides | 99,86% | L1 | Proceed with Guardrails | Já é o tratamento padrão, portanto não é reposicionamento genuíno; boa parte da literatura trata da forma resistente |
+| Mucinose folicular (alopecia mucinosa) | 99,99% | L4 | Hold | Apenas um relato de caso, com ciclosporina e não prednisolona |
+| Foliculite decalvante | 99,98% | L4 | Hold | Evidência indireta, de regime combinado |
+| Eflúvio telógeno | 99,98% | L5 | Hold | Sem evidências; condição geralmente autolimitada |
+| Demais indicações (hipotricose hereditária, síndromes genéticas raras, atriquia, prolapso da glândula lacrimal, etc.) | ≤ 99,98% | L5 | Hold | Sem evidências ou mecanismo plausível |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

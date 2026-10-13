@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Plerixafor
-parent: Evidência Alta (L1-L2)
-nav_order: 400
-evidence_level: L2
+parent: Apenas Predição do Modelo (L5)
+nav_order: 531
+evidence_level: L5
 indication_count: 7
 ---
 
 # Plerixafor
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **7** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,102 +29,61 @@ Nível de evidência: **L2** | Indicações previstas: **7**
 
 </div>
 
-Com base no Evidence Pack, a indicação com nível de evidência acionável é **Leucemia Mieloide** (rank 7, L2, "Proceed with Guardrails"), pois concentra 30 ensaios clínicos e 20 publicações. O relatório foca nesta indicação.
-
----
-
-# Plerixafor: Da Mobilização de Células-Tronco à Leucemia Mieloide
+# Plerixafor: Do mieloma de plasmócitos ao mieloma de plasmócitos indolente
 
 ## Resumo em Uma Frase
 
-Plerixafor (Mozobil) é um antagonista seletivo do receptor CXCR4, aprovado para mobilização de células-tronco hematopoéticas em pacientes com linfoma não-Hodgkin e mieloma múltiplo antes do transplante autólogo de células-tronco, em combinação com G-CSF.
-O modelo TxGNN prevê que pode ser eficaz para **Leucemia Mieloide (Myeloid Leukemia)**, atualmente com **30 ensaios clínicos** e **20 publicações** apoiando esta direção de reposicionamento.
-
----
+Plerixafor é um antagonista do receptor CXCR4, usado como mobilizador de células-tronco hematopoéticas em pacientes com mieloma múltiplo (mieloma de plasmócitos) e linfoma não Hodgkin que farão transplante autólogo.
+O modelo TxGNN prevê que ele pode ser eficaz para **mieloma de plasmócitos indolente (indolent plasma cell myeloma)**.
+Até o momento, **nenhum ensaio clínico** e **nenhuma publicação** apoiam esta previsão específica, que se baseia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Mobilização de células-tronco hematopoéticas (NHL / mieloma múltiplo + transplante autólogo) |
-| Nova Indicação Prevista | Leucemia Mieloide (Myeloid Leukemia) |
-| Pontuação de Previsão TxGNN | 99.02% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 3 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Indicação Original | Mieloma de plasmócitos (plasma cell myeloma) |
+| Nova Indicação Prevista | Mieloma de plasmócitos indolente (indolent plasma cell myeloma) |
+| Pontuação de Previsão TxGNN | 99,97% |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Plerixafor é um antagonista seletivo e reversível do receptor de quimiocina CXCR4. Seu mecanismo de ação aprovado baseia-se no bloqueio do eixo CXCL12/CXCR4 (também conhecido como SDF-1α/CXCR4), responsável pela ancoragem das células-tronco hematopoéticas na medula óssea. Ao bloquear este eixo, o Plerixafor desloca as células-tronco para a circulação periférica, onde podem ser coletadas para transplante. Embora os dados detalhados de MOA não estejam disponíveis no presente pacote, o mecanismo molecular é amplamente descrito na literatura e constitui a base científica desta análise.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações farmacológicas conhecidas, o plerixafor bloqueia o receptor CXCR4 (e também interage com o ACKR3). Com isso, interrompe o eixo CXCR4/CXCL12, que mantém as células na medula óssea.
 
-Na leucemia mieloide aguda (LMA), os blastos leucêmicos e as células-tronco leucêmicas (LSCs) expressam intensamente o receptor CXCR4. O eixo CXCL12/CXCR4 ancora as células de LMA no microambiente protetor da medula óssea, que fornece sinais de sobrevivência e confere resistência à quimioterapia — fenômeno denominado resistência ao fármaco mediada pelo nicho (EMDR). Ao bloquear este mesmo eixo nas células leucêmicas, o Plerixafor pode: (1) deslocar células de LMA do nicho protetor para a circulação periférica; (2) eliminar o efeito protetor das células do estroma; e (3) aumentar significativamente a sensibilidade dessas células à quimioterapia, estratégia denominada **quimiossensibilização**.
+Esse eixo ancora as células de mieloma de plasmócitos no nicho da medula óssea. A hipótese é que bloqueá-lo possa afetar a permanência e a sobrevivência dessas células. Isso torna a previsão plausível do ponto de vista biológico, mas é apenas uma hipótese.
 
-A conexão entre a indicação original e a nova indicação é mecanisticamente direta: o mesmo receptor (CXCR4) e o mesmo eixo molecular (CXCL12/CXCR4) operam em ambas as situações. Trata-se de uma extensão lógica e não de uma extrapolação especulativa — o alvo farmacológico é idêntico, e sua relevância em LMA foi diretamente testada em múltiplos ensaios clínicos de Fase 1/2 já concluídos, envolvendo centenas de pacientes.
-
----
+É preciso cautela. No mieloma, o plerixafor é usado principalmente para mobilizar células-tronco antes do transplante, e não como tratamento dirigido à doença. Não há dados, nem de estudos nem de literatura, para a forma indolente. A pontuação alta do TxGNN é uma previsão computacional, não uma demonstração de eficácia.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT00906945](https://clinicaltrials.gov/study/NCT00906945) | Phase 1/2 | Concluído | 39 | Quimiossensibilização com Plerixafor + G-CSF em LMA recidivante/refratária — validação direta da estratégia de bloqueio CXCR4 para aumentar eficácia da quimioterapia |
-| [NCT00512252](https://clinicaltrials.gov/study/NCT00512252) | Phase 1/2 | Concluído | 52 | AMD3100 (Plerixafor) + MEC (Mitoxantrona, Etoposídeo, Citarabina) em R/R AML — testa hipótese de que romper a interação dos blastos com o microambiente aumenta a citotoxicidade |
-| [NCT01435343](https://clinicaltrials.gov/study/NCT01435343) | Phase 1/2 | Concluído | 55 | Estudo multicêntrico prospectivo (PLERIFLAG): Fludarabina, Idarrubicina, Citarabina, G-CSF + Plerixafor IV em pacientes jovens (≤65 anos) com LMA em primeira recidiva precoce ou refratária |
-| [NCT00990054](https://clinicaltrials.gov/study/NCT00990054) | Phase 1 | Concluído | 36 | Plerixafor + Citarabina + Daunorubicina (esquema 7+3 padrão) ± G-CSF em LMA recém-diagnosticada — estabelece dose segura de Plerixafor combinada com indução de primeira linha |
-| [NCT01236144](https://clinicaltrials.gov/study/NCT01236144) | Phase 1/2 | Concluído | 113 | AML18 Pilot Trial (NCRI): avalia factibilidade de combinar inibidor de CXCR4 (Plerixafor) com quimioterapia DAE padrão em pacientes idosos com LMA e SMD de alto risco |
-| [NCT01352650](https://clinicaltrials.gov/study/NCT01352650) | Phase 1 | Concluído | 71 | Decitabina + Plerixafor (escalada de dose) como terapia de indução em pacientes ≥60 anos com LMA — combina agente hipometilante com mobilização de LSCs pelo CXCR4 |
-| [NCT00943943](https://clinicaltrials.gov/study/NCT00943943) | Phase 1 | Concluído | 33 | G-CSF + Plerixafor + Sorafenibe em LMA com mutação FLT3-ITD — combinação de inibidor de FLT3, mobilizador CXCR4 e G-CSF para superar resistência mediada pelo estroma |
-| [NCT00822770](https://clinicaltrials.gov/study/NCT00822770) | Phase 1/2 | Concluído | 47 | G-CSF + Plerixafor com Busulfano/Fludarabina para transplante alogênico em leucemias mieloides (LMA/SMD/LMC) — dados de segurança em contexto pré-SCT |
-| [NCT06141304](https://clinicaltrials.gov/study/NCT06141304) | Phase 2 | Status Desconhecido | 28 | Plerixafor + Infusão de Linfócitos do Doador (DLI) para leucemia aguda (LMA/LLA) recidivante pós-transplante alogênico — explora bloqueio de CXCR4 para expor células leucêmicas ao efeito enxerto-versus-leucemia |
-| [NCT00241358](https://clinicaltrials.gov/study/NCT00241358) | Phase 1/2 | Concluído | 92 | AMD3100 para mobilização e transplante de células-tronco de doadores HLA-compatíveis em malignidades hematológicas — maior base de dados de segurança disponível para este agente em contexto hematológico |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [32877869](https://pubmed.ncbi.nlm.nih.gov/32877869/) | 2020 | Revisão Sistemática + Meta-análise | Leukemia Research | Compilação de estudos pré-clínicos e clínicos de Plerixafor + quimioterapia e/ou transplante em leucemia aguda; identificou 19 estudos relevantes e apoia design de ensaios clínicos definitivos |
-| [39261603](https://pubmed.ncbi.nlm.nih.gov/39261603/) | 2024 | Revisão | Leukemia | Revisão abrangente e atualizada do eixo CXCL12-CXCR4 em LMA: papel na proliferação autônoma, resistência à apoptose, quimiorresistência e estratégias terapêuticas com Plerixafor e novos agentes |
-| [22308295](https://pubmed.ncbi.nlm.nih.gov/22308295/) | 2012 | Ensaio Clínico Phase 1/2 | Blood | 52 pacientes com R/R AML tratados com Plerixafor + MEC; demonstra factibilidade da quimiossensibilização via bloqueio do eixo CXCR4/CXCL12 — estudo pivô seminal |
-| [29392425](https://pubmed.ncbi.nlm.nih.gov/29392425/) | 2018 | Ensaio Clínico Phase I-II | Annals of Hematology | Esquema PLERIFLAG (Plerixafor IV em alta dose + FLAG-Ida) em LMA primariamente refratária ou com primeira recidiva precoce; relata resultados de resposta e tolerabilidade |
-| [29724902](https://pubmed.ncbi.nlm.nih.gov/29724902/) | 2018 | Ensaio Clínico Phase I | Haematologica | Decitabina + Plerixafor (escalada de dose 320–810 mcg/kg) em 69 pacientes idosos com LMA recém-diagnosticada; avalia efeito sobre células-tronco leucêmicas e perfil de segurança |
-| [32697348](https://pubmed.ncbi.nlm.nih.gov/32697348/) | 2020 | Ensaio Clínico Phase 1 | American Journal of Hematology | Sorafenibe + Plerixafor + G-CSF em 28 pacientes com LMA FLT3-ITD R/R; aborda resistência mediada pelo estroma via CXCR4, CD44 e VLA4 como mecanismo de escape |
-| [28282031](https://pubmed.ncbi.nlm.nih.gov/28282031/) | 2017 | Ensaio Clínico Phase 1/2 | Blood Cancer Journal | Atualização de resultados de Plerixafor + G-CSF para quimiossensibilização em R/R AML; consolida dados de eficácia e segurança do estudo NCT00906945 |
-| [32079173](https://pubmed.ncbi.nlm.nih.gov/32079173/) | 2020 | Revisão | Biology | Antagonistas de CXCR4 como mobilizadores de células-tronco e sensibilizadores de terapia para LMA e glioblastoma — análise comparativa mecanística com base nos nichos perivasculares hipóxicos |
-| [29140182](https://pubmed.ncbi.nlm.nih.gov/29140182/) | 2018 | Ciência Translacional | Hematology (Amsterdam) | TGF-β1 e CXCL12 modulam proliferação e sensibilidade à quimioterapia de células de LMA em co-cultura com células estromais mesenquimais — base experimental para a estratégia de quimiossensibilização por CXCR4 |
-| [33080779](https://pubmed.ncbi.nlm.nih.gov/33080779/) | 2020 | Revisão | Cells | Hiperleucocitose e leucostase em LMA: papel do eixo CXCR4 na patofisiologia molecular e potencial terapêutico de novas abordagens moleculares |
-
----
-
-## Informações de Comercialização no Brasil
-
-O Plerixafor está registrado na ANVISA com **3 registros ativos** e situação de comercialização confirmada. Os detalhes individuais de cada registro (número oficial, nome comercial, forma farmacêutica e texto da indicação aprovada) não estão disponíveis neste pacote de evidências. Recomenda-se consulta direta ao portal de **Consulta de Produtos Registrados da ANVISA** para obtenção dos dados completos antes de qualquer avaliação regulatória ou decisão de reposicionamento.
-
----
+Atualmente não há literatura relacionada.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Contraindicações indicadas pelo grafo de conhecimento do TxGNN** (não provêm do texto da bula): trombocitopenia, insuficiência renal e leucemia. Esses itens servem apenas como sinal de alerta e precisam ser confirmados na bula oficial.
+- Para as demais informações de segurança, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-O Plerixafor possui mecanismo de ação diretamente aplicável à leucemia mieloide aguda — o mesmo eixo CXCR4/CXCL12 bloqueado na indicação aprovada é o principal responsável pela resistência à quimioterapia em LMA. Múltiplos ensaios clínicos de Fase 1/2 já concluídos, com centenas de pacientes, validaram a segurança e demonstraram sinais consistentes de eficácia da estratégia de quimiossensibilização. A base de evidências é robusta o suficiente para avançar com cautela, mas ausência de ensaios de Fase 3 e lacunas nos dados regulatórios brasileiros impõem guardrails importantes.
+- A previsão para o mieloma indolente é apenas computacional (L5), sem ensaios clínicos nem literatura. O plerixafor atua hoje no mieloma como mobilizador de células-tronco, não como terapia contra a doença.
+- O medicamento não tem registro no Brasil, e as advertências e contraindicações da bula da ANVISA não estão disponíveis.
 
 **Para prosseguir, é necessário:**
-- Recuperar dados completos dos registros ANVISA (número, indicação aprovada, forma farmacêutica) — dados indisponíveis no pacote atual
-- Obter advertências e contraindicações da bula ANVISA/TFDA para iniciar avaliação de segurança S1 (DG001 — severidade Blocking)
-- Confirmar dados de MOA detalhados via DrugBank API (DG002 — severidade High)
-- Avaliar se a posologia aprovada para mobilização de células-tronco é compatível com os esquemas de quimiossensibilização em LMA utilizados nos ensaios clínicos
-- Planejar estudo de Fase 2/3 randomizado para elevar o nível de evidência de L2 para L1 e viabilizar aprovação regulatória formal na nova indicação
+- Obter e analisar a bula (advertências e contraindicações), pois isso bloqueia a triagem de segurança.
+- Obter dados detalhados do mecanismo de ação (MOA) em fonte curada.
+- Realizar estudos pré-clínicos ou clínicos que testem o bloqueio de CXCR4 no mieloma indolente.
+- Avaliar o cenário regulatório no Brasil, já que não há registro vigente.
+- Considerar outra indicação prevista para o mesmo fármaco com evidências muito mais robustas: a **leucemia mieloide**, com 24 ensaios clínicos de fase 1 e 2 (por exemplo NCT00512252 e NCT00906945). Ela atingiu nível L2, mas sem ensaios de fase 3, e merece avaliação em separado.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

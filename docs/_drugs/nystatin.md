@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nystatin
-parent: Evidência Alta (L1-L2)
-nav_order: 364
-evidence_level: L2
+parent: Evidência Moderada (L3-L4)
+nav_order: 481
+evidence_level: L3
 indication_count: 10
 ---
 
 # Nystatin
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L3** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Nistatina: De antifúngico tópico clássico à vulvovaginite candidiásica
+# Nistatina: Do antimicótico à vulvovaginite
 
 ## Resumo em Uma Frase
 
-Nistatina é um antifúngico poliênico descoberto na década de 1950, historicamente utilizado no tratamento de infecções fúngicas superficiais causadas por *Candida* spp., especialmente em mucosas. O modelo TxGNN prevê que pode ser eficaz para **Vulvovaginite (*Vulvovaginitis*)**, atualmente com **0 ensaios clínicos registrados** e **20 publicações** apoiando esta direção. O conjunto de evidências inclui múltiplas revisões sistemáticas da série BMJ Clinical Evidence, conferindo qualidade metodológica robusta ao suporte científico disponível.
+A nistatina (nystatin) é um antifúngico poliênico, registrado na ANVISA com a indicação genérica de "antimicótico".
+O modelo TxGNN prevê que pode ser eficaz para **vulvovaginite (vulvovaginitis)**, mas essa direção é, na prática, uma extensão da indicação antifúngica original (candidíase vulvovaginal), e não um reposicionamento propriamente dito.
+Atualmente, há **0 ensaios clínicos** e **20 publicações** (todas revisões, estudos observacionais ou laboratoriais, sem ensaio randomizado identificável) apoiando esta direção.
 
 ---
 
@@ -41,68 +43,90 @@ Nistatina é um antifúngico poliênico descoberto na década de 1950, historica
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções fúngicas por *Candida* spp. (sem registro formal no Brasil) |
-| Nova Indicação Prevista | Vulvovaginite (*Vulvovaginitis*) |
+| Indicação Original | Antimicótico |
+| Nova Indicação Prevista | Vulvovaginite (vulvovaginitis) |
 | Pontuação de Previsão TxGNN | 99,92% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Nível de Evidência | L3 |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Nistatina é um antibiótico poliênico que atua ligando-se seletivamente ao **ergosterol** da membrana celular fúngica — um lipídio ausente nas células de mamíferos, mas essencial para *Candida* spp. Essa ligação forma canais transmembranares que aumentam a permeabilidade da membrana, levando ao extravasamento de íons e metabólitos intracelulares e à morte celular. Por ser uma molécula grande e hidrofílica, a Nistatina é praticamente não absorvida por mucosas e pele intacta, tornando sua ação essencialmente local e tópica.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada para este relatório. Segundo informações farmacológicas conhecidas, a nistatina é um antifúngico poliênico que se liga ao ergosterol da membrana celular dos fungos, formando poros e causando extravasamento de conteúdo celular. Esse efeito atua diretamente sobre espécies de *Candida*, principal causa da candidíase vulvovaginal.
 
-A vulvovaginite candidiásica (VVC) é causada em 85–90% dos casos por *Candida albicans*, exatamente o principal espectro de ação da Nistatina. Esta é, historicamente, uma das primeiras indicações clínicas documentadas do fármaco — com mais de 70 anos de uso contínuo. A previsão do TxGNN representa, portanto, não tanto uma "nova" indicação quanto a **reconfirmação computacional de uma aplicação consolidada** que ainda carece de registro formal no mercado brasileiro.
+A relação entre a indicação original e a nova é muito próxima: a nistatina já é um antimicótico, e a vulvovaginite por *Candida* é uma infecção fúngica. Portanto, a previsão é mecanisticamente coerente, mas **não representa um reposicionamento verdadeiro**. A literatura indica que a nistatina vem sendo usada para candidíase vaginal desde a década de 1950, tendo sido posteriormente superada pelos azóis (imidazóis e triazóis) como primeira escolha. Ela permanece como alternativa, inclusive em casos de resistência ao fluconazol e na gestação.
 
-Do ponto de vista clínico contemporâneo, revisões recentes (2024) destacam a Nistatina como alternativa relevante frente ao crescente problema de **resistência ao fluconazol** em *C. albicans* e em espécies não-*albicans* como *C. glabrata* e *C. krusei*, que respondem mal aos azólicos convencionais. Isso confere à Nistatina um papel atual e estratégico no manejo da VVC refratária ou recorrente.
+Vale ressaltar que a vulvovaginite não infecciosa (por exemplo, a atrófica pós-menopausa, causada por deficiência de estrogênio) não deve responder a um antifúngico. As demais previsões do modelo (doença da região orbital, cisto teratoma, doença metabólica da biotina, entre outras) não têm vínculo mecanístico plausível nem evidência de apoio, e foram classificadas como L5 / Hold.
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para Nistatina em vulvovaginite.
+Atualmente não há ensaios clínicos relacionados registrados para vulvovaginite.
 
 ---
 
 ## Evidências da Literatura
 
+Foram compiladas 20 publicações. Abaixo estão as 10 mais relevantes, priorizando revisões sistemáticas e estudos clínicos comparativos com nistatina. Nenhuma foi confirmada como ensaio randomizado (RCT) apenas pelo título; o estudo de 2015 sobre candidíase recorrente compara grupos de tratamento e deve ter o desenho confirmado na publicação original.
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Clinical Management Update | *Pharmaceutics* | Revisão do manejo da VVC resistente ao fluconazol; Nistatina identificada como alternativa junto a ácido bórico, oteseconazole e ibrexafungerp |
-| [25775428](https://pubmed.ncbi.nlm.nih.gov/25775428/) | 2015 | Revisão Sistemática (BMJ) | *BMJ Clinical Evidence* | VVC é a 2ª causa mais comum de vaginite; *C. albicans* em 85–90% dos casos; análise de eficácia de antifúngicos disponíveis |
-| [21774671](https://pubmed.ncbi.nlm.nih.gov/21774671/) | 2011 | Revisão de Evidências Clínicas | *J Women's Health* | Espécies não-*albicans* crescentemente resistentes a azólicos; Nistatina e ácido bórico avaliados como alternativas para VVC recorrente |
-| [21718579](https://pubmed.ncbi.nlm.nih.gov/21718579/) | 2010 | Revisão Sistemática (BMJ) | *BMJ Clinical Evidence* | Análise abrangente de tratamentos para VVC candidiásica com síntese de dados de ensaios clínicos controlados |
-| [20406393](https://pubmed.ncbi.nlm.nih.gov/20406393/) | 2011 | Estudo In Vitro + Desfecho Clínico | *Mycoses* | 287 isolados de *Candida* de 283 pacientes com VVC complicada; correlação entre sensibilidade in vitro à Nistatina e resposta clínica; baixa taxa de resistência ao Nistatin |
-| [19454049](https://pubmed.ncbi.nlm.nih.gov/19454049/) | 2007 | Revisão Sistemática (BMJ) | *BMJ Clinical Evidence* | Revisão de diagnóstico e tratamento da VVC; comparação de regimes terapêuticos com azólicos e poliênicos |
-| [16620487](https://pubmed.ncbi.nlm.nih.gov/16620487/) | 2005 | Revisão Sistemática (BMJ) | *Clinical Evidence* | Análise comparativa de antifúngicos tópicos para VVC; Nistatina como opção estabelecida |
-| [16047929](https://pubmed.ncbi.nlm.nih.gov/16047929/) | 2005 | Estudo Clínico Prospectivo | *Ceska Gynekologie* | Avaliação de infecções vulvovaginais mistas tratadas com nifuratel + Nistatina vaginal; benefício clínico documentado |
-| [12228137](https://pubmed.ncbi.nlm.nih.gov/12228137/) | 2002 | Revisão Sistemática | *BMJ* | Revisão sistemática de VVC com análise de eficácia comparativa entre antifúngicos, incluindo Nistatina |
-| [11363911](https://pubmed.ncbi.nlm.nih.gov/11363911/) | 1996 | Revisão | *J Int Assoc Physicians AIDS Care* | Revisão de candidíase em diferentes populações; papel de Nistatina no manejo de infecções por *Candida* |
+|------|-----|------|------|---------|
+| [25416649](https://pubmed.ncbi.nlm.nih.gov/25416649/) | 2015 | Estudo clínico comparativo (desenho a confirmar) | Mycopathologia | Nistatina vaginal (14 dias por mês) vs. fluconazol oral na candidíase vulvovaginal recorrente (n = 293); cura micológica inicial de 78,3% (nistatina) vs. 73,8% (fluconazol) |
+| [21918792](https://pubmed.ncbi.nlm.nih.gov/21918792/) | 2012 | Estudo clínico | Acta Derm Venereol | Comparação de eficácia entre fluconazol e nistatina em mulheres brasileiras com *Candida* vaginal (932 mulheres rastreadas) |
+| [20406393](https://pubmed.ncbi.nlm.nih.gov/20406393/) | 2011 | Estudo clínico | Mycoses | Correlação entre sensibilidade in vitro ao fluconazol e à nistatina e desfecho clínico na candidíase vulvovaginal complicada (287 isolados) |
+| [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Revisão | Pharmaceutics | Manejo da candidíase vulvovaginal resistente ao fluconazol; nistatina citada entre as alternativas, junto a ácido bórico, oteseconazol e ibrexafungerpe |
+| [10796183](https://pubmed.ncbi.nlm.nih.gov/10796183/) | 2000 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Tratamento tópico da candidíase vaginal na gestação |
+| [25775428](https://pubmed.ncbi.nlm.nih.gov/25775428/) | 2015 | Revisão | BMJ Clin Evid | Candidíase vulvovaginal: segunda causa mais comum de vaginite; *C. albicans* responde por 85–90% dos casos |
+| [18729533](https://pubmed.ncbi.nlm.nih.gov/18729533/) | 2008 | Revisão | Drugs | Considerações gerais e práticas sobre o tratamento local; terapias local e oral consideradas igualmente eficazes na doença não complicada |
+| [1436934](https://pubmed.ncbi.nlm.nih.gov/1436934/) | 1992 | Revisão | Obstet Gynecol Clin North Am | Nistatina, introduzida nos anos 1950, foi superada pelos azóis como primeira escolha |
+| [36588489](https://pubmed.ncbi.nlm.nih.gov/36588489/) | 2022 | Estudo clínico/histopatológico | Rom J Morphol Embryol | Aspectos clínicos, microbiológicos e histopatológicos da candidíase vaginal antes do tratamento local com nistatina |
+| [41745294](https://pubmed.ncbi.nlm.nih.gov/41745294/) | 2026 | Revisão | J Fungi (Basel) | Agentes antifúngicos atuais e emergentes para candidíase vulvovaginal; azóis e poliênicos seguem como base do tratamento |
+
+---
+
+## Informações de Comercialização no Brasil
+
+Todos os 20 registros encontrados estão **cancelados**, e não há registro válido atualmente. Abaixo estão os 5 primeiros. A forma farmacêutica não consta nos dados compilados.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 115600164 | Nistatina | Não informada | Antimicótico |
+| Registro nº 109630053 | Nistatina | Não informada | Antimicótico |
+| Registro nº 138410028 | Nistamax | Não informada | Antimicótico |
+| Registro nº 104971474 | Nidazolin | Não informada | Antimicótico |
+| Registro nº 107150112 | Albistin | Não informada | Antimicótico |
+
+Outros nomes comerciais com registro cancelado incluem Micostalab, Nistrazin, Canditrat e Neo Mistatin.
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (base de conhecimento do modelo, não texto de bula)**: o grafo de conhecimento associa à nistatina as seguintes condições: insuficiência adrenocortical, doença de Addison, atrofia da pele, telangiectasia, doença capilar e telangiectasia hemorrágica hereditária. Esses itens não foram confirmados em bula e devem ser verificados.
+- **Interações Medicamentosas**: foram identificadas 100 possíveis interações na consulta realizada, mas todas com nível de gravidade desconhecido. Exemplos: ciclosporina, octreotida, fluconazol, eritromicina, azitromicina, bortezomibe, tramadol, sildenafila, lorazepam e pantoprazol. A relevância clínica de cada uma ainda precisa ser avaliada.
+
+Consulte a bula para as advertências e contraindicações oficiais, que não estavam disponíveis nos dados compilados.
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-A vulvovaginite candidiásica representa uma das aplicações clínicas mais antigas e bem documentadas da Nistatina (>70 anos de uso global), respaldada por múltiplas revisões sistemáticas de alta qualidade e dados de desfecho clínico. A principal barreira identificada não é científica, mas **regulatória**: a ausência de registro formal da Nistatina junto à ANVISA impede sua comercialização no Brasil, tornando a obtenção do registro a etapa crítica do processo.
+- A previsão para vulvovaginite é mecanisticamente sólida, mas é uma extensão da indicação antifúngica já existente, com evidência limitada a revisões e estudos de baixo nível (L3), sem ensaio clínico registrado. Além disso, todos os registros no Brasil estão cancelados, e os dados de segurança da bula não estão disponíveis, o que impede avançar na triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Iniciar processo de registro junto à **ANVISA** para formulação vaginal de Nistatina (óvulos ou comprimidos vaginais), avaliando possibilidade de uso de dossier internacional já aprovado (EMA/FDA)
-- Obter e analisar a bula completa de referência para preenchimento das lacunas de segurança (advertências e contraindicações — DG001)
-- Confirmar dados de mecanismo de ação via DrugBank API (DG002) para completude do dossiê
-- Mapear o **perfil epidemiológico local** de resistência de *Candida* spp. a azólicos no Brasil, para definir posicionamento estratégico da Nistatina como alternativa de segunda linha ou para VVC refratária
-- Identificar parceiros industriais com capacidade de produção da formulação vaginal em conformidade com as Boas Práticas de Fabricação exigidas pela ANVISA
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
+- Confirmar a situação regulatória atual e a disponibilidade comercial da nistatina no Brasil (formas vaginais), já que todos os registros estão cancelados.
+- Obter dados do mecanismo de ação a partir do DrugBank.
+- Revisar os estudos primários (como PMID 25416649 e 21918792) para confirmar o desenho e classificar corretamente o nível de evidência.
+- Esclarecer se o objetivo é a candidíase vulvovaginal (indicação antifúngica já coberta) ou um reposicionamento propriamente dito.
+- Avaliar as interações medicamentosas de gravidade desconhecida e as contraindicações sugeridas pelo grafo de conhecimento.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Desloratadine
-parent: Evidência Alta (L1-L2)
-nav_order: 214
-evidence_level: L1
+parent: Apenas Predição do Modelo (L5)
+nav_order: 256
+evidence_level: L5
 indication_count: 10
 ---
 
 # Desloratadine
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,90 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Desloratadine: De Rinite Alérgica para Urticária ao Frio
+# Desloratadina: De anti-histamínico sistêmico para urticária ao frio
 
 ## Resumo em Uma Frase
 
-Desloratadine é um anti-histamínico de segunda geração seletivo para receptores H1, amplamente utilizado no tratamento de rinite alérgica e urticária idiopática crônica em diversos países ao redor do mundo.
+Desloratadina é um anti-histamínico sistêmico de segunda geração, originalmente registrado no Brasil na classe dos anti-histamínicos para uso sistêmico.
 O modelo TxGNN prevê que pode ser eficaz para **Urticária ao Frio (Cold Urticaria)**,
-atualmente com **3 ensaios clínicos** e **7 publicações** apoiando esta direção.
-
----
+atualmente com **2 ensaios clínicos** e **6 publicações** retornadas na busca (3 RCTs diretamente relacionados à desloratadina na urticária ao frio).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Rinite alérgica e urticária crônica idiopática (indicação global; sem registro na ANVISA) |
-| Nova Indicação Prevista | Urticária ao Frio (Cold Urticaria) |
-| Pontuação de Previsão TxGNN | 99.94% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Anti-histamínicos para uso sistêmico |
+| Nova Indicação Prevista | Urticária ao frio (Cold Urticaria) |
+| Pontuação de Previsão TxGNN | 99,94% |
+| Nível de Evidência | L1 (conforme classificação dos dados compilados; ressalva abaixo) |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Desloratadine é um antagonista seletivo e de longa duração dos receptores H1 de histamina — metabolito ativo da loratadina. Seu mecanismo central é o bloqueio periférico dos receptores H1, inibindo os efeitos da histamina nos tecidos: vasodilatação, extravasamento vascular, prurido e formação de edema. Estudos in vitro adicionalmente demonstraram propriedades anti-inflamatórias independentes da histamina, como inibição da liberação de citocinas pró-inflamatórias (IL-4, IL-13) e supressão da via NF-κB.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a desloratadina é um agonista inverso seletivo do receptor H1 periférico, e sua eficácia como anti-histamínico sistêmico em doenças alérgicas está estabelecida.
 
-A urticária ao frio é uma forma de urticária física desencadeada pela exposição ao frio, que ativa mastócitos e basófilos cutâneos, levando à degranulação e à liberação maciça de histamina. O resultado clínico — pápulas, eritema, prurido e potencial anafilaxia sistêmica — é mediado diretamente por este mediador. Este mecanismo se alinha com precisão ao bloqueio H1 do desloratadine, que atua sobre o principal mediador inflamatório desta condição, tornando a previsão do TxGNN biologicamente plausível.
+A urticária ao frio é uma urticária física mediada por mastócitos e histamina. Como o bloqueio de H1 atua diretamente na via efetora, o mecanismo é plausível. O aumento de dose de anti-histamínicos de segunda geração (até 4 vezes a dose padrão) é coerente com o manejo recomendado em diretrizes para esta condição.
 
-Crucialmente, estudos clínicos de escalada de dose confirmaram que doses elevadas de desloratadine (10–20 mg, frente à dose-padrão de 5 mg) aumentam o limiar crítico de temperatura necessário para desencadear os sintomas, demonstrando uma relação dose-resposta mensurável. Esta evidência diferencia esta indicação de uma mera associação topológica no grafo do conhecimento, conferindo robustez à predição do modelo.
-
----
+Os estudos disponíveis testam justamente essa estratégia de escalonamento de dose (5, 10 e 20 mg), o que reforça a coerência entre a previsão do modelo e a prática clínica.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00600847](https://clinicaltrials.gov/study/NCT00600847) | Phase 4 | Concluído | 33 | Estudo randomizado duplo-cego, placebo-controlado e crossover. Compara desloratadine 5 mg vs. 20 mg em urticária ao frio adquirida, utilizando termografia, volumetria e fotografia temporal. Hipótese: updosing (20 mg) é superior à dose-padrão e ao placebo. Metodologia mais rigorosa entre os três ensaios. |
-| [NCT01444196](https://clinicaltrials.gov/study/NCT01444196) | Phase 4 | Concluído | 30 | Estudo multicêntrico duplo-cego de dose-escalada (5 mg, 10 mg e 20 mg) para determinar a dose de desloratadine suficiente para inibir sintomas de urticária ao frio adquirida. Fornece base clínica direta para esquemas de alta dose. |
-| [NCT01940393](https://clinicaltrials.gov/study/NCT01940393) | Phase 4 | Concluído | 150 | Comparação head-to-head de 5 anti-histamínicos (incluindo desloratadine) para avaliação de efeitos farmacocinéticos e farmacodinâmicos em urticária na América Latina tropical. Estudo não exclusivo ao desloratadine, mas oferece dados de eficácia comparativa em contexto regional relevante. |
+| [NCT01444196](https://clinicaltrials.gov/study/NCT01444196) | Phase 4 | Concluído | 30 | Estudo multicêntrico, duplo-cego, com escalonamento de dose (5, 10 e 20 mg) em urticária ao frio adquirida; objetivo: identificar a dose que inibe os sintomas |
+| [NCT00600847](https://clinicaltrials.gov/study/NCT00600847) | Phase 4 | Concluído | 33 | Estudo cruzado, randomizado, duplo-cego e controlado por placebo comparando 5 mg vs. 20 mg na urticária ao frio induzida experimentalmente (termografia, volumetria e fotografia) |
 
----
+Observação: ambos são de Fase 4 e com amostras pequenas; não se enquadram como Fase 3 clássica.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [22242678](https://pubmed.ncbi.nlm.nih.gov/22242678/) | 2012 | RCT | British Journal of Dermatology | RCT de escalada de dose de anti-histamínicos H1 em urticária ao frio; avalia limiar de temperatura crítico como desfecho objetivo. Demonstra variabilidade de resposta individual e suporte clínico para ajuste posológico personalizado. |
-| [19201016](https://pubmed.ncbi.nlm.nih.gov/19201016/) | 2009 | Estudo Clínico | J Allergy and Clinical Immunology | Alta dose de desloratadine reduz volume de pápula e melhora limiares de provocação ao frio vs. dose-padrão em urticária ao frio adquirida; estudo randomizado, placebo-controlado e crossover. Evidência quantitativa de superioridade da alta dose. |
-| [14754651](https://pubmed.ncbi.nlm.nih.gov/14754651/) | 2004 | Estudo Clínico Controlado | J Dermatological Treatment | Desloratadine 5 mg por 4 dias inibiu resposta a cubos de gelo em 12 pacientes com urticária ao frio. Primeiro estudo específico sobre desloratadine nesta indicação, estabelecendo prova de conceito. |
-| [15516152](https://pubmed.ncbi.nlm.nih.gov/15516152/) | 2004 | Revisão | Drugs | Revisão abrangente da etiologia, manejo e opções terapêuticas em urticária crônica; contextualiza anti-histamínicos de segunda geração como pilar da primeira linha e discute perfil autoimune da urticária crônica idiopática. |
-| [19032340](https://pubmed.ncbi.nlm.nih.gov/19032340/) | 2008 | Revisão Comparativa | Allergy | Revisão da ebastina em rinite alérgica e urticária crônica com desloratadine como comparador ativo; fornece dados de eficácia comparativa no espectro de urticária e rhinite. |
-| [29698807](https://pubmed.ncbi.nlm.nih.gov/29698807/) | 2018 | Série de Casos | J Allergy Clin Immunol In Practice | Descreve nova variante — urticária ao frio alimentar — e seu manejo com anti-histamínicos H1. Amplia o espectro clínico da urticária ao frio para além dos gatilhos físicos clássicos. |
-| [38025339](https://pubmed.ncbi.nlm.nih.gov/38025339/) | 2023 | Relato de Caso | Qatar Medical Journal | Primeiro relato de urticária ao frio adquirida após anafilaxia por picada de formiga-preta. Ilustra gatilhos imunológicos não-convencionais da urticária ao frio e manejo com anti-histamínicos. |
-
----
+| [19201016](https://pubmed.ncbi.nlm.nih.gov/19201016/) | 2009 | RCT | J Allergy Clin Immunol | Desloratadina em dose alta reduziu o volume das pápulas e melhorou os limiares de provocação pelo frio em comparação à dose padrão (cruzado, controlado por placebo) |
+| [22242678](https://pubmed.ncbi.nlm.nih.gov/22242678/) | 2012 | RCT | Br J Dermatol | Estudo randomizado de escalonamento de dose de anti-histamínico H1 medindo o limiar crítico de temperatura na urticária ao frio |
+| [14754651](https://pubmed.ncbi.nlm.nih.gov/14754651/) | 2004 | RCT | J Dermatol Treat | Desloratadina 5 mg por 4 dias, testada com cubos de gelo antes e depois do tratamento em 12 pacientes com urticária ao frio |
+| [15516152](https://pubmed.ncbi.nlm.nih.gov/15516152/) | 2004 | Revisão | Drugs | Revisão sobre etiologia, manejo e opções de tratamento da urticária crônica |
+| [38025339](https://pubmed.ncbi.nlm.nih.gov/38025339/) | 2023 | Relato de caso | Qatar Med J | Urticária ao frio após anafilaxia por picada de formiga (contexto da doença, sem avaliação da desloratadina) |
 
 ## Informações de Comercialização no Brasil
 
-Desloratadine **não possui registro ativo na ANVISA** e atualmente não é comercializado no Brasil. Nenhum produto foi identificado no banco de dados regulatório consultado em 2026-03-24.
+Todos os 20 registros encontrados estão cancelados; não há registro válido atualmente. Principais registros (5 de 20):
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 154230334 | Hystalor | — | Anti-histamínicos sistêmicos |
+| Registro nº 167730689 | Deslorana | — | Anti-histamínicos sistêmicos |
+| Registro nº 100431302 | Superhist ODT | — | Anti-histamínicos para uso sistêmico |
+| Registro nº 125680360 | Ikaros | — | Anti-histamínicos sistêmicos |
+| Registro nº 105730465 | Esalerg Gotas | — | Anti-histamínicos sistêmicos |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações descritas no grafo de conhecimento (PrimeKG, não derivadas de bula)**: hipertensão, doença renal, doença hepática, doença da vesícula biliar, diabetes mellitus e cetoacidose diabética, hiperplasia prostática benigna, doença arterial coronariana e aterosclerose, glaucoma de ângulo fechado, e hipertireoidismo (doença de Graves/tireotoxicose). Devem ser confirmadas na bula, pois não provêm do texto regulatório.
+- **Interações Medicamentosas**: a consulta identificou 100 interações potenciais (exemplos: calcitriol, fentermina, pantoprazol, doxiciclina, clotrimazol, morfina, metformina, omeprazol, cimetidina, prednisona, sinvastatina, epinefrina), todas com nível de gravidade não classificado. Não permitem conclusão clínica sem revisão adicional.
 
----
+Consulte a bula para advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há três ensaios clínicos Phase 4 concluídos com metodologia robusta (randomizado, duplo-cego, placebo-controlado, crossover) diretamente testando desloratadine em urticária ao frio, além de 7 publicações científicas com evidência de nível L1. A base mecanística — bloqueio H1 sobre a degranulação de mastócitos induzida pelo frio e a liberação de histamina — é direta, biologicamente plausível e quantitativamente confirmada por relação dose-resposta estabelecida (5 mg < 10 mg < 20 mg em eficácia).
+- Há dois ensaios de Fase 4 concluídos e três RCTs publicados testando diretamente a desloratadina (incluindo doses elevadas) na urticária ao frio, com mecanismo plausível via bloqueio de H1. Contudo, as amostras são pequenas, os ensaios não são de Fase 3 e o nível L1 deve ser interpretado com cautela.
+- Nenhum dos 20 registros brasileiros está válido, o que limita a viabilidade imediata.
 
 **Para prosseguir, é necessário:**
-- Resolver **DG001**: obter e analisar a bula oficial (advertências, contraindicações) para viabilizar a avaliação de segurança S1
-- Resolver **DG002**: levantar dados formais do mecanismo de ação (DrugBank API) para completar a análise de relevância mecanística
-- Verificar a viabilidade regulatória no Brasil: desloratadine sem registro na ANVISA exige processo de registro ou uso via importação/uso compassivo
-- Definir protocolo de monitoramento para uso em alta dose (10–20 mg), que excede a dose-padrão de 5 mg aprovada internacionalmente
-- Conduzir revisão sistemática formal da evidência antes de qualquer protocolo clínico brasileiro
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), pois estes dados estão ausentes e bloqueiam a triagem de segurança.
+- Confirmar o mecanismo de ação em fonte consultável (ex.: DrugBank).
+- Verificar a situação regulatória: um registro válido de desloratadina (ou nova submissão) é necessário para uso no Brasil.
+- Definir plano de segurança para doses acima da aprovada (até 4 vezes), incluindo populações com doença renal, hepática ou cardiovascular.
+- Revisar as interações medicamentosas sem classificação de gravidade.
+
+### Outras indicações previstas (sem evidência suficiente — Hold)
+
+Indicações de menor prioridade, todas com decisão **Hold**: doença da cavidade nasal (L4, apenas estudos em animais e com outros fármacos), cefaleia (L4, literatura sem relação direta), e laringofaringite aguda, dermatite atópica recalcitrante, responsividade atópica de IgE, conjuntivite da rosácea, cefalalgia autonômica trigeminal, ceratoconjuntivite epitelial punctata e síndrome de Angelucci (todas L5, apenas previsão do modelo).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

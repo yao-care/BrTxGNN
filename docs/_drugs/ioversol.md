@@ -2,7 +2,7 @@
 layout: default
 title: Ioversol
 parent: Apenas Predição do Modelo (L5)
-nav_order: 285
+nav_order: 372
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,81 +29,85 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ioversol: De Agente de Contraste Iodado para Suscetibilidade à Osteoartrite
+# Ioversol: De agente de contraste iodado para osteoartrite (previsão sem evidência de suporte)
 
 ## Resumo em Uma Frase
 
-Ioversol é um agente de contraste iodado não-iônico de baixa osmolaridade, utilizado em procedimentos de imagem diagnóstica (angiografia, urografia e tomografia computadorizada com contraste).
-O modelo TxGNN prevê que pode ser eficaz para **Suscetibilidade à Osteoartrite (Osteoarthritis Susceptibility)**,
-porém esta previsão **não é apoiada por nenhum ensaio clínico ou publicação científica** — apenas pela estrutura do grafo de conhecimento (KG).
-
----
+Ioversol é um meio de contraste iodado usado em exames de imagem diagnóstica. Não há indicação original registrada no Brasil nos dados compilados para este relatório.
+O modelo TxGNN prevê que possa ser eficaz para **suscetibilidade à osteoartrite (osteoarthritis susceptibility)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A previsão é puramente baseada em grafo de conhecimento.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Agente de contraste para procedimentos de imagem diagnóstica |
-| Nova Indicação Prevista | Suscetibilidade à Osteoartrite (Osteoarthritis Susceptibility) |
-| Pontuação de Previsão TxGNN | 99.67% |
+|------|------|
+| Indicação Original | Não disponível nos registros da ANVISA (agente de contraste iodado para diagnóstico por imagem) |
+| Nova Indicação Prevista | Suscetibilidade à osteoartrite (osteoarthritis susceptibility) |
+| Pontuação de Previsão TxGNN | 99,67% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 3 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Ioversol é um agente de contraste iodado não-iônico administrado por via intravascular. Sua função é aumentar a densidade radiológica de vasos sanguíneos e estruturas anatômicas durante exames de imagem, como angiografia, urografia excretora e tomografia computadorizada. A indicação original é estritamente diagnóstica — Ioversol não possui atividade farmacológica terapêutica clássica (não atua em receptores, enzimas ou vias de sinalização celular com intenção de modificar doenças).
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, ioversol é um meio de contraste iodado, utilizado como auxiliar de diagnóstico por imagem, e não possui atividade farmacológica terapêutica conhecida.
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis no Evidence Pack. A "suscetibilidade à osteoartrite" representa um fenótipo genético e de risco — ou seja, a predisposição do indivíduo a desenvolver OA —, e não uma condição clínica diretamente modificável por um agente de contraste. Agentes de contraste iodados não possuem mecanismo conhecido de modulação de cartilagem articular, inflamação sinovial ou vias genéticas associadas à OA (como genes COL2A1, GDF5 ou ALDH1A2).
+Não foi identificado vínculo mecanístico entre ioversol e genes ou vias relacionados à suscetibilidade à osteoartrite. A pontuação alta (0,997) reflete apenas proximidade no grafo de conhecimento, sem ensaios ou literatura de suporte. Por isso, a previsão deve ser tratada com grande cautela.
 
-A previsão do TxGNN é gerada por propagação em grafo de conhecimento (Knowledge Graph) e pode refletir conexões indiretas: o uso de Ioversol em exames de imagem de pacientes com patologias osteomusculares pode ter criado associações topológicas no KG sem implicação causal ou terapêutica. Sem qualquer evidência de ensaio clínico ou literatura que suporte a hipótese, esta previsão deve ser tratada com cautela extrema e interpretada como artefato do modelo.
+As demais previsões do modelo também carecem de plausibilidade biológica ou de evidências:
 
----
+| Posição | Doença prevista | Pontuação TxGNN | Nível | Observação |
+|------|------|------|------|------|
+| 2 | Osteoartrite | 99,63% | L4 | Um único artigo indireto, sobre embolização, e não sobre ioversol |
+| 3 | Artrite reumatoide | 99,56% | L5 | Literatura sem relação com ioversol |
+| 4 | Braquiolmia | 99,36% | L5 | Displasia esquelética genética rara, sem mecanismo plausível |
+| 5 | Hemoglobinopatia | 99,33% | L5 | Sem mecanismo identificado |
+| 6 | Síndrome braquiolmia-amelogênese imperfeita | 99,32% | L5 | Síndrome genética rara, sem evidências |
+| 7 | Displasia acromesomélica tipo Hunter-Thompson | 99,32% | L5 | Displasia monogênica, sem conexão mecanística |
+| 8 | Miosclerose | 99,29% | L5 | Sem relação conhecida |
+| 9 | Síndrome de microftalmia colobomatosa com displasia rizomélica | 99,26% | L5 | Síndrome ultrarrara, sem mecanismo plausível |
+| 10 | Alopecia | 99,25% | L5 | Sem racional mecanístico |
 
-## Ensaios Clínicos
+## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para Ioversol e suscetibilidade à osteoartrite.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada para Ioversol e suscetibilidade à osteoartrite.
+Para a indicação principal (suscetibilidade à osteoartrite), não há literatura relacionada. Para a segunda previsão (osteoartrite), foi encontrado um único artigo, de relevância indireta:
 
----
-
-## Informações de Comercialização no Brasil
-
-Ioversol possui **3 registros ativos** no Brasil (✓ Comercializado). Os dados detalhados de número de registro, nome comercial, forma farmacêutica e indicação aprovada não estão disponíveis no Evidence Pack atual e precisam ser obtidos diretamente na base da ANVISA.
-
-| Situação | Detalhe |
-|----------|---------|
-| Status de comercialização | ✓ Comercializado |
-| Total de registros ativos | 3 |
-
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [38102013](https://pubmed.ncbi.nlm.nih.gov/38102013/) | 2024 | Ensaio intervencionista | Diagnostic and Interventional Imaging | Estudo LipioJoint-1: avalia a segurança e a eficácia da embolização transitória da artéria genicular com emulsão à base de óleo etiodado em osteoartrite de joelho. O ioversol não é o agente ativo; a associação provavelmente decorre da menção conjunta de agentes de contraste. |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+**Interações Medicamentosas**: a consulta identificou 100 interações registradas. Entre as principais, de gravidade **maior**:
 
----
+- Metformina
+- Anfotericina B (incluindo as formulações lipídica, de sulfato de colesterila e lipossomal)
+- Mesalazina, balsalazida, olsalazina e sulfasalazina
+- Aminoglicosídeos: vancomicina, canamicina, neomicina e estreptomicina
+- Polimixina B
+
+De gravidade **moderada**: manitol.
+
+Há também interações de gravidade não classificada com atropina, famotidina, ácido acetilsalicílico, morfina e omeprazol.
+
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para suscetibilidade à osteoartrite é classificada como L5 (ausência total de evidências reais), sem nenhum ensaio clínico ou publicação científica que apoie o uso terapêutico de Ioversol nesta indicação. Adicionalmente, "suscetibilidade" é um fenótipo de risco genético — não uma indicação terapêutica convencional —, e agentes de contraste iodados não possuem hipótese mecanicista plausível para modificação de OA, tornando o reposicionamento biologicamente implausível com base nos dados atuais.
+- A previsão baseia-se apenas na pontuação do grafo, sem ensaios clínicos, sem literatura direta e sem mecanismo plausível. O ioversol é um agente de contraste diagnóstico, sem atividade terapêutica conhecida nas doenças previstas. Além disso, não está comercializado no Brasil (sem registros ativos).
 
-**Para prosseguir, seria necessário:**
-- Dados completos de MOA do Ioversol via DrugBank API (remediar DG002)
-- Dados completos dos registros ANVISA com indicações aprovadas (remediar ausência nos `licenses`)
-- Hipótese mecanicista publicada e plausível conectando agentes de contraste iodados à fisiopatologia da OA
-- Estudos pré-clínicos em modelos animais de osteoartrite como mínimo de evidência inicial (para sair do nível L5)
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
+- Realizar estudos pré-clínicos que demonstrem algum efeito biológico relevante em osteoartrite antes de considerar qualquer avanço
+- Verificar a viabilidade de via de administração e a situação regulatória, já que não há produto registrado no Brasil
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

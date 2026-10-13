@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ticagrelor
-parent: Evidência Alta (L1-L2)
-nav_order: 481
-evidence_level: L1
+parent: Apenas Predição do Modelo (L5)
+nav_order: 636
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,73 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Ticagrelor: Da Síndrome Coronária Aguda à Arteriosclerose Intracraniana
+# Ticagrelor: Da síndrome coronariana aguda à arteriosclerose intracraniana
 
 ## Resumo em Uma Frase
 
-Ticagrelor é um inibidor reversível do receptor plaquetário P2Y12, originalmente utilizado na prevenção de eventos cardiovasculares em pacientes com síndrome coronária aguda (SCA) e doença coronária de alto risco.
-O modelo TxGNN prevê que pode ser eficaz para **Arteriosclerose Intracraniana (Intracranial Arteriosclerosis)**, atualmente com **11 ensaios clínicos** e **3 publicações** apoiando esta direção.
-
----
+Ticagrelor é um antiagregante plaquetário que inibe de forma reversível o receptor P2Y12, originalmente usado no tratamento da síndrome coronariana aguda e de doenças vasculares periféricas.
+O modelo TxGNN prevê que pode ser eficaz para **Arteriosclerose Intracraniana (Intracranial Arteriosclerosis)**,
+atualmente com **2 ensaios clínicos** e **2 publicações** diretamente associados a esta direção, ainda sem resultados conclusivos.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Síndrome Coronária Aguda (SCA) — prevenção de eventos aterotrombóticos |
+| Indicação Original | Síndrome coronariana aguda (e doença vascular periférica, claudicação intermitente, doença arterial periférica, segundo o grafo de conhecimento) |
 | Nova Indicação Prevista | Arteriosclerose Intracraniana (Intracranial Arteriosclerosis) |
 | Pontuação de Previsão TxGNN | 99,97% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 11 |
+| Nível de Evidência | L2 (limitado: o único ensaio de Phase 3 ainda está em andamento e não tem resultados; ver nota abaixo) |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Proceed with Guardrails |
 
----
+> Nota: o nível L2 segue a classificação dos dados compilados. Em termos estritos, o ensaio de Phase 3 (CAPTIVA) ainda não foi concluído, de modo que a evidência direta para esta indicação é, na prática, inferior ao previsto para L2.
 
 ## Por que Esta Previsão é Razoável?
 
-A arteriosclerose intracraniana (ICAS, *Intracranial Atherosclerotic Stenosis*) é uma das principais causas de AVC isquêmico, com prevalência especialmente elevada em populações asiáticas e latinas. O estreitamento aterosclerótico progressivo das artérias intracranianas favorece a ativação plaquetária sobre superfícies de placas instáveis, levando à formação de trombos in situ e à oclusão vascular cerebral. O mecanismo patogênico da ICAS compartilha características fundamentais com a aterosclerose coronária — o domínio onde o ticagrelor já demonstrou eficácia clínica consolidada.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo informações conhecidas, o ticagrelor é um inibidor reversível do receptor plaquetário P2Y12, reduzindo a agregação plaquetária e os eventos trombóticos. Diferentemente do clopidogrel, não depende de ativação pela enzima CYP2C19.
 
-Ticagrelor bloqueia direta e reversivelmente o receptor P2Y12 nas plaquetas, interrompendo a amplificação da ativação plaquetária mediada pelo ADP — etapa central na formação de trombos arteriais. Em comparação com o clopidogrel, padrão atual de tratamento para ICAS, o ticagrelor oferece inibição plaquetária mais potente e previsível, independentemente do genótipo CYP2C19 do paciente (polimorfismo prevalente em populações asiáticas que reduz substancialmente a eficácia do clopidogrel em portadores de alelos de perda de função). Adicionalmente, o ticagrelor inibe o transportador de nucleosídeos ENT-1, elevando os níveis circulantes de adenosina — o que pode conferir proteção cerebrovascular adicional por meio de vasodilatação e efeitos anti-inflamatórios independentes da inibição plaquetária.
+A estenose aterosclerótica intracraniana sintomática envolve trombose mediada por plaquetas e embolia artéria-artéria. Como o ticagrelor já é usado em doença aterosclerótica coronariana (síndrome coronariana aguda), é mecanisticamente plausível estender o uso à circulação cerebral.
 
-A previsão do TxGNN é diretamente sustentada por ensaios clínicos especificamente desenhados para ICAS: o ensaio CAPTIVA (NCT05047172, Fase 3 em andamento, N=1.683) compara ticagrelor versus clopidogrel em ICAS sintomática; o DREAM-PRIDE (NCT04948749) avalia estratégias antiplaquetárias na ICAS; e o EUCLID (NCT01732822, Fase 3 concluído, N=13.885) fornece evidências de Fase 3 sobre ticagrelor em aterosclerose arterial sistêmica com análise de desfechos cerebrovasculares. Os resultados do CAPTIVA, esperados para 2028, deverão definir o papel do ticagrelor como tratamento de primeira linha nessa indicação.
-
----
+A ausência de dependência de CYP2C19 é uma vantagem potencial em pacientes com perda de função desta enzima, que respondem mal ao clopidogrel. O ensaio CHANCE-2 (publicado no NEJM, em AVC/AIT) apoia essa lógica em doença cerebrovascular de forma mais ampla.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) | Fase 3 | Em andamento (não recrutando) | 1.683 | CAPTIVA: compara rivaroxabana, ticagrelor e clopidogrel em ICAS sintomática; desfecho primário é taxa combinada de AVC isquêmico, hemorragia intracerebral ou morte vascular em 1 ano |
-| [NCT04948749](https://clinicaltrials.gov/study/NCT04948749) | N/A | Recrutando | 792 | DREAM-PRIDE: avalia stent farmacológico (DES) combinado com tratamento médico agressivo versus tratamento médico isolado na prevenção de recorrência de AVC por ICAS em 1 ano |
-| [NCT01732822](https://clinicaltrials.gov/study/NCT01732822) | Fase 3 | Concluído | 13.885 | EUCLID: comparou ticagrelor versus clopidogrel em doença arterial periférica estabelecida; inclui análise de desfechos de AVC isquêmico em subgrupo com doença cerebrovascular, fornecendo evidência de Fase 3 para aterosclerose arterial |
-| [NCT03620760](https://clinicaltrials.gov/study/NCT03620760) | Fase 4 | Status desconhecido | 2.036 | Avalia não-inferioridade de ticagrelor em dose baixa (45 mg 2×/dia) versus dose padrão (90 mg 2×/dia) em pacientes chineses com angina instável após stent coronário não urgente; relevante para otimização de dose em ICAS |
-| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | N/A | Recrutando | 100 | Estudo piloto PROBE: seleção guiada por genótipo CYP2C19 de inibidor P2Y12 (incluindo ticagrelor) versus clopidogrel convencional em ICAS sintomática; explora benefício em portadores de alelos de perda de função |
-| [NCT02605447](https://clinicaltrials.gov/study/NCT02605447) | Fase 4 | Concluído | 2.009 | EVOLVE Short DAPT: avalia segurança de DAPT por 3 meses em pacientes de alto risco para sangramento após PCI com stent SYNERGY; relevante para protocolos de antiagregação pós-intervenção neuroendovascular em ICAS |
-| [NCT06058130](https://clinicaltrials.gov/study/NCT06058130) | N/A | Status desconhecido | 2.171 | Compara anticoagulação isolada versus anticoagulação combinada com antiagregação em pacientes com AVC isquêmico agudo com fibrilação atrial e estenose extra/intracraniana concomitante; avalia estratégia antitrombótica combinada na ICAS |
-| [NCT01813435](https://clinicaltrials.gov/study/NCT01813435) | Fase 3 | Concluído | 15.991 | GLOBAL LEADERS: ticagrelor + AAS por 1 mês seguido de ticagrelor isolado por 23 meses versus DAPT padrão após implante de stent coronário; oferece dados de segurança de longo prazo do ticagrelor em monoterapia |
-| [NCT07164859](https://clinicaltrials.gov/study/NCT07164859) | Fase 3 | Não iniciado | 1.700 | SOLOPCI: avalia DAPT ultracurta (7 dias) seguida de monoterapia com inibidor P2Y12 versus duração padrão em idosos ≥65 anos após PCI; resultados relevantes para populações idosas com ICAS |
-| [NCT07354828](https://clinicaltrials.gov/study/NCT07354828) | N/A | Não iniciado | 3.500 | Estabelecimento de sistema de indicadores de qualidade para revascularização coronária baseado em DAPT na China; foco em pacientes de alto risco para sangramento com SCA, com dados sobre uso de ticagrelor em contexto real |
-
----
+| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) | Phase 3 | Ativo, sem recrutamento | 1683 | CAPTIVA: avalia se rivaroxabana, ticagrelor ou ambos são superiores ao clopidogrel na redução de AVC isquêmico, hemorragia intracerebral ou morte vascular em 1 ano. Sem resultados ainda. |
+| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | N/A | Recrutando | 100 | Estudo piloto de seleção de inibidor de P2Y12 guiada por genótipo (inclui ticagrelor) versus clopidogrel em doença aterosclerótica intracraniana sintomática. Sem resultados ainda. |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [38252758](https://pubmed.ncbi.nlm.nih.gov/38252758/) | 2024 | Diretriz Clínica | *Stroke* | Atualização focada em arteriosclerose intracraniana: sintetiza o estado atual do conhecimento, destaca lacunas de evidência e orienta a prática clínica; referência central para o manejo contemporâneo da ICAS |
-| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | Protocolo de Ensaio | *International Journal of Stroke* | Descreve o desenho e progresso inicial do CAPTIVA; o regime atual (clopidogrel + AAS por 90 dias, seguido de AAS isolado) mantém risco residual elevado de AVC recorrente em até 12 meses, motivando a avaliação de ticagrelor como alternativa superior |
-| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Estudo Clínico | *Journal of Neurointerventional Surgery* | Relata experiência com ticagrelor 60 mg 2×/dia + AAS 81 mg/dia versus regime padrão AAS + clopidogrel para stenting intracraniano; ticagrelor demonstrou-se alternativa viável para DAPT em procedimentos neurointervencionistas, com dose reduzida adequada ao contexto neurovascular |
-
----
-
-## Informações de Comercialização no Brasil
-
-Ticagrelor possui **11 registros** ativos na ANVISA e está **comercializado** no Brasil. Os dados detalhados de nome comercial, forma farmacêutica e indicação aprovada por registro individual não constam no pacote de evidências atual; consulte diretamente o portal de consulta de medicamentos da ANVISA (consultas.anvisa.gov.br) para obter os registros completos.
-
----
+| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Coorte | Journal of NeuroInterventional Surgery | Experiência com ticagrelor 60 mg duas vezes ao dia + AAS 81 mg versus AAS + clopidogrel em stent intracraniano |
+| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | Revisão | International Journal of Stroke | Desenho e progresso inicial do ensaio CAPTIVA em estenose aterosclerótica intracraniana |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (segundo o grafo de conhecimento, não texto de bula)**: insuficiência hepática, doença hepática, doença da vesícula biliar e hemorragia intracraniana. A hemorragia intracraniana é particularmente relevante para a nova indicação cerebrovascular.
+- **Interações Medicamentosas**: foram identificadas 100 interações; as principais incluem:
+  - **Grave**: claritromicina.
+  - **Moderada**: ácido acetilsalicílico, morfina, aprepitanto, dexametasona, budesonida, sinvastatina, saxagliptina, miconazol, cisaprida, clotrimazol, entre outros.
+  - **Leve**: naloxegol, prucaloprida.
 
----
+Consulte a bula para as demais informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-O ensaio CAPTIVA (Fase 3, em andamento, N=1.683) foi especificamente desenhado para testar ticagrelor em ICAS sintomática, e ao menos dois ensaios de Fase 3 concluídos (EUCLID, N=13.885; GLOBAL LEADERS, N=15.991) fornecem base robusta de segurança e eficácia do ticagrelor em aterosclerose arterial sistêmica. A coerência mecanística é sólida — a via P2Y12 é diretamente relevante para a patogênese da ICAS — e o nível de evidência L1 justifica progressão com monitoramento estruturado.
+- A previsão é mecanisticamente plausível e há um ensaio de Phase 3 (CAPTIVA) em andamento na indicação, mas ainda sem resultados. O ticagrelor não é comercializado no Brasil (0 registros), o que exige cautela adicional.
 
 **Para prosseguir, é necessário:**
-- Recuperar advertências e contraindicações da bula aprovada pela ANVISA para completar a avaliação de segurança (lacuna de dados bloqueante, DG001)
-- Obter dados detalhados de mecanismo de ação via DrugBank API (DG002)
-- Aguardar resultados definitivos do CAPTIVA (conclusão prevista: maio de 2028) para confirmação de superioridade sobre clopidogrel especificamente em ICAS
-- Estabelecer protocolo de monitoramento para risco de hemorragia intracraniana — principal evento adverso de preocupação nessa população com estenose arterial ativa
-- Consultar o portal ANVISA para obter nomes comerciais, formas farmacêuticas e indicações aprovadas dos 11 registros ativos, para análise regulatória completa
+- Aguardar os resultados do CAPTIVA (conclusão prevista para 2027) e do estudo guiado por genótipo.
+- Obter a bula da ANVISA com advertências e contraindicações oficiais.
+- Obter dados detalhados do mecanismo de ação.
+- Definir plano de mitigação do risco de hemorragia intracraniana e das interações medicamentosas (especialmente inibidores potentes de CYP3A4, como a claritromicina).
+- Avaliar a viabilidade regulatória no Brasil, dado que não há registro vigente.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

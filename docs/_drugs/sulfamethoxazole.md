@@ -2,7 +2,7 @@
 layout: default
 title: Sulfamethoxazole
 parent: Evidência Moderada (L3-L4)
-nav_order: 451
+nav_order: 599
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,77 +29,71 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-O skill TxGNN Pipeline confirma o contexto do projeto. Agora vou gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
-# Sulfamethoxazole: De infecções bacterianas a conjuntivite contagiosa aguda
+# Sulfametoxazol: De associação trimetoprima-sulfa para conjuntivite contagiosa aguda
 
 ## Resumo em Uma Frase
 
-Sulfamethoxazole é um antibiótico da classe sulfonamida, classicamente utilizado em combinação com trimetoprima (TMP-SMX / cotrimoxazol) para o tratamento de infecções bacterianas como infecções do trato urinário, pneumocistose e infecções respiratórias.
-O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite Contagiosa Aguda (Acute Contagious Conjunctivitis)**,
-atualmente com **0 ensaios clínicos** e **1 publicação** apoiando esta direção.
-
----
+Sulfametoxazol é uma sulfonamida usada em associação com a trimetoprima (as chamadas "sulfas") como antibacteriano de amplo espectro.
+O modelo TxGNN prevê que pode ser eficaz para **conjuntivite contagiosa aguda (acute contagious conjunctivitis)**,
+atualmente com **0 ensaios clínicos** e **1 publicação** indireta apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não registrado no Brasil (sulfonamida antibacteriana; combinação TMP-SMX para infecções bacterianas sistêmicas) |
-| Nova Indicação Prevista | Conjuntivite Contagiosa Aguda (Acute Contagious Conjunctivitis) |
+| Indicação Original | Trimetoprima em associação com sulfas |
+| Nova Indicação Prevista | Conjuntivite contagiosa aguda (acute contagious conjunctivitis) |
 | Pontuação de Previsão TxGNN | 99,63% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados neste Evidence Pack. Com base no conhecimento farmacológico estabelecido, o sulfamethoxazole pertence à classe das sulfonamidas e inibe a enzima **diidropteroato sintase (DHPS)**, bloqueando a síntese de folato nos microrganismos bacterianos — etapa essencial para a replicação celular. Quando associado à trimetoprima (que bloqueia o passo subsequente da mesma via metabólica), forma o cotrimoxazol (TMP-SMX), amplamente utilizado na prática clínica global.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o sulfametoxazol é utilizado em associação com a trimetoprima e inibe sequencialmente a síntese de folato bacteriano, o que lhe confere atividade antibacteriana ampla. Sua eficácia em infecções bacterianas está estabelecida, e mecanisticamente pode ser aplicável a infecções oculares bacterianas.
 
-A conjuntivite contagiosa aguda é uma infecção bacteriana da conjuntiva, frequentemente causada por *Haemophilus influenzae*, *Streptococcus pneumoniae* e *Staphylococcus aureus*. Como sulfonamida de amplo espectro com atividade reconhecida contra muitos desses patógenos, o sulfamethoxazole apresenta base mecanística para uso nessa indicação. De forma particularmente relevante, o **sulfacetamida** — outro membro da classe sulfonamida — já é amplamente utilizado em colírios tópicos para conjuntivite bacteriana, o que reforça fortemente a plausibilidade desta previsão do TxGNN: a classe já possui eficácia ocular documentada, e o modelo provavelmente identificou essa conectividade no grafo de conhecimento.
+A conjuntivite bacteriana aguda é uma infecção altamente contagiosa, comum em crianças e tratada geralmente de forma empírica com antibióticos de amplo espectro. Há, portanto, plausibilidade biológica na relação entre a indicação original (infecções bacterianas) e a nova indicação prevista.
 
-A previsão é portanto mecanisticamente coerente, mas requer validação específica para sulfamethoxazole em formulação oftálmica, considerando que perfis de resistência bacteriana local podem influenciar significativamente a eficácia prática.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados para esta indicação específica.
-
----
+Há, porém, ressalvas importantes: o único trabalho encontrado é um estudo epidemiológico de suscetibilidade, ou seja, evidência indireta. Não há ensaio intervencionista, e o sulfametoxazol sistêmico não é terapia ocular padrão. Qualquer uso exigiria uma formulação tópica, que não consta nos dados compilados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [31788487](https://pubmed.ncbi.nlm.nih.gov/31788487/) | 2019 | Observacional (retrospectivo) | Medical Hypothesis, Discovery & Innovation Ophthalmology Journal | Análise de bacteriologia e perfis de susceptibilidade a antibióticos em conjuntivite bacteriana aguda pediátrica no oeste da Grécia; avalia padrões de resistência relevantes para a escolha de antibióticos de amplo espectro, incluindo sulfonamidas |
+| [31788487](https://pubmed.ncbi.nlm.nih.gov/31788487/) | 2019 | Coorte (levantamento bacteriológico e de suscetibilidade) | Medical Hypothesis, Discovery & Innovation Ophthalmology Journal | Análise retrospectiva de conjuntivite bacteriana aguda infantil em um hospital pediátrico do oeste da Grécia, descrevendo a bacteriologia e os padrões de suscetibilidade a antibióticos |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 20 registros constam como cancelados. Abaixo, os 5 principais:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 103900205 | Bactrim | Não informada | Trimetoprima em associação com sulfas |
+| Registro 155840346 | Bac-Sulfitrin | Não informada | Trimetoprima em associação com sulfas |
+| Registro 103700625 | Basteracin (Bacteracin) | Não informada | Trimetoprima em associação com sulfas |
+| Registro 103920214 | Taxbac | Não informada | Trimetoprima em associação com sulfas |
+| Registro 125680021 | Espectroprima | Não informada | Trimetoprima em associação com sulfas |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Contraindicações (segundo o grafo de conhecimento, não a bula)**: porfiria (hereditária e outros distúrbios do metabolismo da porfirina), doença renal, insuficiência renal, uremia, glomerulonefrite, doença hepática, doença da vesícula biliar, trombocitopenia, neutropenia, agranulocitose, deficiência de G6PD, anemia por deficiência de folato, colite por *Clostridium difficile*, enterocolite necrosante perinatal, doença de depósito de glicogênio, cistinúria e galactosemia.
+- **Sinal de segurança na literatura**: um relato de caso descreve eritema multiforme maior após uso de sulfacetamida tópica em criança, o que alerta para hipersensibilidade a sulfonamidas em uso ocular.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total. Entre as listadas, destacam-se as de gravidade **moderada** com sulfonilureias e antidiabéticos (clorpropamida, glimepirida, acetoexamida, glipizida, glibenclamida) e com várias insulinas (humana, asparte, degludeca, detemir, glargina, glulisina), com risco de hipoglicemia, além de balsalazida e ácido picossulfúrico. Interações **leves** incluem famotidina, claritromicina, dolasetrona, palonosetrona, granisetrona e cisaprida.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Embora a previsão do TxGNN seja mecanisticamente razoável — e a classe sulfonamida possua uso oftálmico topicamente documentado via sulfacetamida —, há apenas 1 estudo observacional de suporte indireto, nenhum ensaio clínico específico para a indicação, ausência total de dados de segurança no pacote e o fármaco não está registrado no Brasil.
+- A pontuação do TxGNN é alta, mas o suporte é apenas uma publicação indireta (levantamento de suscetibilidade), sem ensaios clínicos. Além disso, todos os registros brasileiros estão cancelados e não existe formulação ocular.
 
 **Para prosseguir, é necessário:**
-- Obter dados de mecanismo de ação (MOA) formais via consulta ao DrugBank (DB01015)
-- Levantar advertências, contraindicações e interações medicamentosas por meio da bula ou consulta direta à ANVISA/FDA
-- Investigar se existe formulação tópica oftálmica de sulfamethoxazole ou avaliar o uso do análogo de classe **sulfacetamida** como proxy de evidência
-- Buscar ensaios clínicos de fase 2/3 com sulfonamidas tópicas para conjuntivite bacteriana aguda como evidência de classe
-- Avaliar perfis locais de resistência bacteriana antes de qualquer proposta terapêutica, dado o crescente problema de resistência a sulfonamidas
+- Obter da ANVISA a bula com advertências e contraindicações, que ainda não estão disponíveis
+- Obter dados do mecanismo de ação a partir do DrugBank
+- Definir a viabilidade de uma formulação tópica oftálmica e a via de administração
+- Gerar evidência direta (ensaios comparativos em conjuntivite bacteriana) e comparar com os antibióticos tópicos já estabelecidos
+- Avaliar o risco de hipersensibilidade a sulfonamidas (como eritema multiforme) em uso ocular
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

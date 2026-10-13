@@ -2,7 +2,7 @@
 layout: default
 title: Sodium Carbonate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 442
+nav_order: 589
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,72 +29,87 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-A skill foi verificada — ela orienta o workflow geral do pipeline TxGNN mas não sobrescreve o formato do relatório. Prossigo com a geração do relatório conforme as instruções do prompt.
-
----
-
-# Carbonato de Sódio: De Composto Químico Industrial para Síndrome da Cauda Equina
+# Carbonato de sódio: Do antiácido à síndrome da cauda equina
 
 ## Resumo em Uma Frase
 
-Carbonato de sódio (Na₂CO₃) é um composto alcalino inorgânico de uso predominantemente industrial — como agente de limpeza, amaciante de água e matéria-prima na fabricação de vidro — sem indicações farmacêuticas aprovadas estabelecidas.
-O modelo TxGNN prevê que pode ser eficaz para **Síndrome da Cauda Equina (Cauda Equina Syndrome)** como indicação de maior pontuação, porém **esta previsão carece completamente de embasamento mecanístico e evidências clínicas**, sendo muito provavelmente um artefato do modelo de grafos de conhecimento.
-Não há ensaios clínicos nem publicações relevantes apoiando esta direção, e a decisão recomendada para todas as 10 indicações previstas é **Hold**.
+O carbonato de sódio é um agente antiácido/alcalinizante, usado no Brasil em produtos para azia e má digestão (como os sais de fruta).
+O modelo TxGNN prevê que ele possa ser eficaz para **síndrome da cauda equina (cauda equina syndrome)**, mas não há **nenhum ensaio clínico** nem **nenhuma publicação** que apoie essa previsão. Trata-se de uma previsão puramente computacional, sem respaldo clínico.
 
 ---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Sem indicação farmacêutica aprovada (composto de uso industrial) |
-| Nova Indicação Prevista | Síndrome da Cauda Equina (Cauda Equina Syndrome) |
-| Pontuação de Previsão TxGNN | 99.80% |
+|------|------|
+| Indicação Original | Antiácido |
+| Nova Indicação Prevista | Síndrome da cauda equina (cauda equina syndrome) |
+| Pontuação de Previsão TxGNN | 99,80% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 10 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-**Esta previsão não é razoável.** Carbonato de sódio (Na₂CO₃) é uma base inorgânica forte, com pH próximo de 11 em solução aquosa. Não possui ação sobre receptores biológicos, enzimas ou vias de sinalização conhecidas. Diferencia-se do bicarbonato de sódio (NaHCO₃) — composto distinto que possui usos médicos documentados — e esta confusão entre nós do grafo de conhecimento é, provavelmente, uma das causas dos artefatos nas previsões do TxGNN.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o carbonato de sódio é um agente alcalino que neutraliza o ácido gástrico, e sua utilização como antiácido está registrada na ANVISA.
 
-A síndrome da cauda equina é uma emergência neurológica causada pela compressão mecânica das raízes nervosas da região lombossacral, exigindo descompressão cirúrgica imediata. Não existe mecanismo biológico plausível pelo qual um composto alcalino inorgânico poderia tratar ou modificar esta condição. A alta pontuação do TxGNN resulta, quase certamente, de conexões espúrias em nós compartilhados do grafo de conhecimento (como proteínas relacionadas à dor), e não de potencial terapêutico real.
+**Não há relação mecanística plausível** entre essa ação e a síndrome da cauda equina. Essa síndrome é uma emergência neurológica compressiva, cujo tratamento depende de descompressão cirúrgica. A pontuação alta do TxGNN parece ser um artefato do grafo de conhecimento, sem respaldo clínico ou na literatura.
 
-Este padrão se repete em todas as 10 indicações previstas: das 10, 9 atingem nível L5 (apenas previsão do modelo, sem estudos reais), e os poucos estudos encontrados referem-se a outros compostos (N-acetilcisteína, bicarbonato de sódio) ou são completamente não relacionados. Algumas indicações previstas — como olho seco e panuveíte — representam contraindicações absolutas para carbonato de sódio, dado seu potencial de causar queimadura química ocular.
+### Outras previsões do modelo
+
+As demais previsões de maior pontuação também carecem de sustentação. A tabela resume o panorama:
+
+| Doença prevista | Pontuação TxGNN | Nível | Observação |
+|------|------|------|------|
+| Anafilaxia | 99,72% | L5 | Um artigo sobre formulação sublingual de epinefrina; sem relação terapêutica com o carbonato de sódio |
+| Anafilaxia induzida por exercício dependente de alimento | 99,63% | L5 | Sem mecanismo nem evidências |
+| Bexiga neurogênica (termo obsoleto) | 99,62% | L5 | Termo obsoleto na ontologia |
+| Síndrome do olho seco | 99,58% | L4 | Evidência indireta (spray oral) |
+| Taquicardia ventricular | 99,18% | L5 | Sem evidências |
+| Bloqueio de ramo (termo obsoleto) | 98,97% | L5 | Provável artefato do grafo |
+| Pan-uveíte | 98,89% | L5 | Sem relação plausível |
+| Síndrome de Sjögren | 98,82% | L3 | Único sinal modesto, em nível de sintoma |
+| Taquicardia ventricular polimórfica catecolaminérgica | 98,72% | L5 | Sem ação sobre a via envolvida |
+
+A previsão com algum respaldo, ainda que fraco, é a **síndrome de Sjögren** (apenas alívio sintomático da boca seca), mas ela não é a de maior pontuação.
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para carbonato de sódio no tratamento da Síndrome da Cauda Equina.
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ---
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada para carbonato de sódio no tratamento da Síndrome da Cauda Equina.
+Para a indicação principal (síndrome da cauda equina), atualmente não há literatura relacionada.
+
+Para fins de contexto, as publicações encontradas para outras previsões foram:
+
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [27813150](https://pubmed.ncbi.nlm.nih.gov/27813150/) | 2017 | Estudo clínico exploratório | Gerodontology | Avaliou um spray de bicarbonato/carbonato de sódio com xilitol, associado a higiene oral profissional, em pacientes com síndrome de Sjögren primária (boca seca). Relevante apenas para sintomas orais, não para a doença autoimune nem para o olho seco |
+| [34600046](https://pubmed.ncbi.nlm.nih.gov/34600046/) | 2021 | Estudo pré-clínico/de formulação | Eur J Pharm Sci | Estabilidade e permeabilidade da epinefrina sublingual para anafilaxia; o carbonato de sódio, se relevante, seria apenas excipiente (ajuste de pH) |
 
 ---
 
-## Visão Geral das 10 Indicações Previstas
+## Informações de Comercialização no Brasil
 
-Dado o caráter atípico deste candidato — sem indicação original, sem registro no Brasil e com previsões sistematicamente sem suporte —, apresenta-se abaixo a síntese avaliativa de todas as indicações previstas pelo TxGNN:
+Todos os registros estão **cancelados**; atualmente não há produto de carbonato de sódio isolado com registro válido.
 
-| Rank | Indicação | Pontuação TxGNN | Nível | Decisão | Nota Crítica |
-|------|-----------|-----------------|-------|---------|--------------|
-| 1 | Síndrome da Cauda Equina | 99.80% | L5 | Hold | Emergência cirúrgica; ausência total de mecanismo |
-| 2 | Anafilaxia | 99.72% | L5 | Hold | Ensaios e literatura são de outros fármacos (NAC, bicarbonato) |
-| 3 | Anafilaxia induzida por exercício e alimento | 99.63% | L5 | Hold | Nó KG compartilhado com anafilaxia; sem mecanismo |
-| 4 | Bexiga Neurogênica *(obsoleto)* | 99.62% | L5 | Hold | Termo ontológico obsoleto; sem mecanismo; recomenda-se exclusão |
-| 5 | Síndrome do Olho Seco | 99.58% | L5 | Hold | **Contraindicado** para uso ocular (pH ~11, risco de queimadura) |
-| 6 | Taquicardia Ventricular | 99.18% | L5 | Hold | Risco de distúrbios eletrolíticos; confusão Na₂CO₃/NaHCO₃ |
-| 7 | Bloqueio de Ramo *(obsoleto)* | 98.97% | L5 | Hold | Termo ontológico obsoleto; sem mecanismo; recomenda-se exclusão |
-| 8 | Panuveíte | 98.89% | L5 | Hold | **Contraindicado** para uso ocular; sem mecanismo imunológico |
-| 9 | Síndrome de Sjögren | 98.82% | L4 | Hold | Único estudo encontrado é de higiene oral com NaHCO₃, não Na₂CO₃ |
-| 10 | TVPC (taquicardia ventricular polimórfica catecolaminérgica) | 98.72% | L5 | Hold | Doença genética rara (RYR2/CASQ2); sem mecanismo; risco cardíaco |
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 144930071 | Estomanol | Não informada | Antiácido |
+| Registro 103920245 | Stomvyc | Não informada | Antiácido |
+| Registro 143810164 | Frusalt | Não informada | Antiácido |
+| Registro 104810124 | Digiazia | Não informada | Antiácido |
+| Registro 104971402 | Frutaxx | Não informada | Antiácido |
+
+Foram listados os 5 primeiros dos 10 registros (todos cancelados). Entre os demais estão Sal de Fruta Eno e Sonrisal.
 
 ---
 
@@ -102,7 +117,7 @@ Dado o caráter atípico deste candidato — sem indicação original, sem regis
 
 Consulte a bula para informações de segurança.
 
-> **Nota:** Embora dados formais de segurança farmacêutica estejam indisponíveis no presente Evidence Pack, é importante registrar que carbonato de sódio (Na₂CO₃), por ser uma base forte, apresenta risco intrínseco de lesão cáustica em mucosas e tecidos. Seu uso sistêmico ou ocular como fármaco seria de alto risco sem estudos toxicológicos específicos.
+Não foram encontradas interações medicamentosas nos dados compilados para este relatório. Como observação, o carbonato de sódio é um álcali mais forte que o bicarbonato, com risco de irritação se usado por via sistêmica.
 
 ---
 
@@ -111,17 +126,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-Carbonato de sódio é um composto químico industrial sem indicações farmacêuticas aprovadas e sem mecanismo de ação terapêutico plausível para qualquer uma das 10 indicações previstas pelo TxGNN. A análise de evidências confirma que os estudos encontrados se referem a outros compostos (bicarbonato de sódio, N-acetilcisteína) ou são completamente não relacionados, e que o alto ranqueamento do modelo reflete provavelmente artefatos estruturais no grafo de conhecimento — em especial a confusão entre os nós de Na₂CO₃ e NaHCO₃.
+- A previsão para síndrome da cauda equina não tem ensaios, literatura nem mecanismo plausível (nível L5), e provavelmente é um artefato do grafo de conhecimento. Além disso, não há registro válido no Brasil.
 
-**Para reavaliar este candidato, seria necessário:**
-- Verificar e corrigir possível confusão de entidades no grafo de conhecimento (Na₂CO₃ vs. NaHCO₃) como causa raiz das previsões elevadas
-- Confirmar se existe algum uso farmacêutico documentado para carbonato de sódio puro que não foi capturado nesta busca
-- Remover as indicações com termos ontológicos obsoletos (*"obsolete neurogenic bladder"*, *"obsolete bundle branch block"*) do pipeline de triagem
-- Caso a confusão de entidades seja confirmada, considerar a **exclusão permanente** de carbonato de sódio do pipeline de reposicionamento, substituindo pelo candidato correto (bicarbonato de sódio, se aplicável)
-
----
-
-> ⚠️ *Este relatório é gerado por modelo de inteligência artificial com base em dados estruturados. As previsões são apenas para fins de pesquisa e não constituem recomendação médica. Todos os candidatos a reposicionamento requerem validação clínica rigorosa antes de qualquer aplicação terapêutica.*
+**Para prosseguir, é necessário:**
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência que impede a triagem de segurança
+- Obter dados do mecanismo de ação no DrugBank
+- Se houver interesse em uma direção de pesquisa, priorizar a **síndrome de Sjögren** (alívio de sintomas orais) como questão de pesquisa, com revisão do texto completo do PMID 27813150 e, se justificado, um ensaio controlado
+- Considerar a ausência de registros válidos no Brasil em qualquer planejamento de desenvolvimento
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

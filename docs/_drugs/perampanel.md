@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Perampanel
-parent: Evidência Moderada (L3-L4)
-nav_order: 392
-evidence_level: L3
+parent: Apenas Predição do Modelo (L5)
+nav_order: 517
+evidence_level: L5
 indication_count: 10
 ---
 
 # Perampanel
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,82 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Perampanel: Da epilepsia focal à epilepsia visual
+# Perampanel: Da epilepsia parcial ao estado de mal epiléptico
 
 ## Resumo em Uma Frase
 
-Perampanel é um antiepiléptico de terceira geração — primeiro da classe dos antagonistas AMPA — aprovado para o tratamento de crises de início focal e crises tônico-clônicas generalizadas primárias em pacientes com epilepsia.
-O modelo TxGNN prevê que pode ser eficaz para **Epilepsia Visual (Visual Epilepsy)**,
-atualmente com **3 ensaios clínicos** e **20 publicações** apoiando esta direção.
-
----
+Perampanel é um antagonista seletivo e não competitivo do receptor AMPA, originalmente usado no tratamento da epilepsia parcial (incluindo epilepsia motora parcial).
+O modelo TxGNN prevê que pode ser eficaz para **Epilepsia Visual (Visual Epilepsy)**, a indicação de maior pontuação, mas sem ensaios clínicos e com **20 publicações** gerais (nenhuma específica para essa condição). Entre as indicações previstas, a única com respaldo clínico mais concreto é o **Estado de Mal Epiléptico (Status Epilepticus)**, com **4 ensaios clínicos** e **18 publicações**, detalhado abaixo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Epilepsia focal (crises de início focal e GTCS) |
+| Indicação Original | Epilepsia parcial / epilepsia motora parcial |
 | Nova Indicação Prevista | Epilepsia Visual (Visual Epilepsy) |
-| Pontuação de Previsão TxGNN | 99.92% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 2 |
-| Decisão Recomendada | Research Question |
-
----
+| Pontuação de Previsão TxGNN | 99,92% |
+| Nível de Evidência | L4 (para epilepsia visual); L3 para o estado de mal epiléptico |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados neste Evidence Pack. Com base na literatura clínica disponível, Perampanel é um **antagonista seletivo e não competitivo dos receptores AMPA** (α-amino-3-hidroxi-5-metil-4-isoxazolpropionato) — receptores ionotrópicos de glutamato responsáveis pela excitação pós-sináptica rápida. Ao bloquear esses receptores, o fármaco suprime a hiperexcitabilidade neuronal que caracteriza as crises epilépticas, sem afetar receptores NMDA ou canais iônicos. É o primeiro fármaco desta classe aprovado globalmente para epilepsia.
+Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo a literatura recuperada, perampanel é um antagonista seletivo e não competitivo do receptor AMPA, que reduz a hiperexcitabilidade neuronal mediada por glutamato. Já foi aprovado em vários países como terapia adjuvante de crises focais.
 
-A **epilepsia visual** é uma forma de epilepsia reflexa desencadeada por estímulos visuais (flashes de luz, padrões de contraste, telas piscantes), na qual a hiperexcitabilidade do **córtex occipital/visual** é o mecanismo central. A conexão mecanística é direta: os receptores AMPA do córtex visual mediam a resposta excitatória anômala a estímulos luminosos, e o bloqueio desses receptores pode interromper esse circuito. Tanto a indicação original quanto a nova indicação compartilham o mesmo substrato patofisiológico — descarga neuronal excessiva mediada por AMPA.
+A epilepsia visual (fotossensível) é uma epilepsia reflexa, ou seja, desencadeada por estímulos. Um fármaco com atividade antiepiléptica de amplo espectro pode, em tese, ser aplicável. Contudo, nenhuma das publicações recuperadas trata de crises desencadeadas por estímulos visuais. A pontuação muito alta do modelo provavelmente reflete a proximidade, na rede de conhecimento, com a indicação focal já aprovada, e não evidência direta.
 
-Os ensaios clínicos identificados não foram especificamente desenhados para epilepsia visual, tratando-se de extrapolação indireta. No entanto, modelos animais de epilepsia reflexa validam o mecanismo AMPA em epilepsias fotossensíveis e induzidas por estímulos, e a literatura clínica estabelece a eficácia de perampanel em amplo espectro de síndromes epilépticas — o que sustenta a plausibilidade biológica desta previsão.
-
----
+O mesmo raciocínio vale para outras epilepsias reflexas previstas (crises de pensamento, de micção, de sobressalto, audiogênicas, de alimentação, de orgasmo e de leitura). Já o estado de mal epiléptico tem racionalidade biológica mais sólida: na crise prolongada, os receptores AMPA sinápticos aumentam e os receptores GABA-A são internalizados, reduzindo a eficácia dos benzodiazepínicos. Isso sustenta o antagonismo AMPA como estratégia complementar.
 
 ## Evidências de Ensaios Clínicos
 
+Não há ensaios clínicos registrados para epilepsia visual. Os ensaios abaixo se referem à indicação com maior respaldo clínico entre as previstas, o estado de mal epiléptico.
+
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT03780907](https://clinicaltrials.gov/study/NCT03780907) | Phase 2 | Concluído | 18 | Avaliação de tolerabilidade, segurança e farmacocinética do perampanel (E2007) em pacientes com crises parciais ou generalizadas refratárias em uso de pelo menos um antiepiléptico concomitante |
-| [NCT02900755](https://clinicaltrials.gov/study/NCT02900755) | Phase 4 | Concluído | 30 | Efeitos do perampanel sobre cognição e EEG em pacientes com epilepsia; validação do mecanismo como antagonista seletivo não competitivo de receptores AMPA em contexto real |
-| [NCT03653741](https://clinicaltrials.gov/study/NCT03653741) | Phase 4 | Concluído | 12 | Efeitos do perampanel sobre testes neurofisiológicos: EEG, potenciais evocados somatossensoriais, auditivos e **visuais (VEP)** — único estudo com avaliação de desfecho no sistema visual |
-
----
+| [NCT04309721](https://clinicaltrials.gov/study/NCT04309721) | Phase 3 | Encerrado | 1 | Ensaio randomizado de perampanel enteral adicional a antiepiléptico intravenoso em estado de mal motor focal; encerrado com 1 participante, sem dados de eficácia |
+| [NCT05684978](https://clinicaltrials.gov/study/NCT05684978) | Phase 4 | Encerrado | 1 | Perampanel no estado de mal refratário; encerrado com 1 participante, sem dados analisáveis |
+| [NCT06401707](https://clinicaltrials.gov/study/NCT06401707) | Phase 2 | Recrutando | 52 | Estudo-piloto randomizado e controlado por placebo de perampanel para profilaxia de estado de mal após parada cardíaca |
+| [NCT05756621](https://clinicaltrials.gov/study/NCT05756621) | N/A | Concluído | 84 | Coorte retrospectiva de estado de mal super-refratário pós-parada cardíaca com terapia anti-glutamato dupla (cetamina + perampanel); observacional |
 
 ## Evidências da Literatura
 
+Para epilepsia visual, a literatura recuperada é geral (revisões, diretrizes e metanálises sobre perampanel e epilepsia). Abaixo, as publicações mais relevantes para o estado de mal epiléptico, priorizando revisões sistemáticas.
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [36150304](https://pubmed.ncbi.nlm.nih.gov/36150304/) | 2022 | RCT + Real-world Review | *Epilepsy & Behavior* | Perampanel aprovado para crises de início focal (monoterapia e adjuvante, ≥4 anos) e GTCS adjuvante (≥12 anos); revisão abrangente de ensaios pivotais e dados do mundo real |
-| [36206645](https://pubmed.ncbi.nlm.nih.gov/36206645/) | 2022 | Systematic Review & Meta-analysis | *Seizure* | Meta-análise de RCTs: perampanel reduz significativamente a frequência de crises focais e generalizadas com perfil de segurança aceitável |
-| [37775491](https://pubmed.ncbi.nlm.nih.gov/37775491/) | 2023 | Systematic Review | *Medical Journal of Malaysia* | Revisão sistemática da eficácia e segurança do perampanel como adjuvante para crises generalizadas e focais; confirmação de eficácia ampla |
-| [36878742](https://pubmed.ncbi.nlm.nih.gov/36878742/) | 2023 | Systematic Review | *Brain & Development* | Revisão sistemática e meta-análise sobre eficácia, tolerabilidade e segurança do perampanel especificamente em crianças e adolescentes com epilepsia |
-| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Diretriz Clínica (AAN/AES) | *Neurology* | Atualização de diretrizes da Academia Americana de Neurologia: eficácia e tolerabilidade de antiepilépticos de 2ª e 3ª geração, incluindo perampanel, para epilepsia de novo início |
-| [25878177](https://pubmed.ncbi.nlm.nih.gov/25878177/) | 2015 | RCT (subanálise de 3 ensaios Fase III) | *Neurology* | Impacto de indutores enzimáticos CYP3A4 concomitantes sobre eficácia e segurança do perampanel; análise pooled de três estudos pivotais |
-| [26111428](https://pubmed.ncbi.nlm.nih.gov/26111428/) | 2015 | PK/PD Review | *Expert Opinion on Drug Metabolism & Toxicology* | Avaliação farmacocinética e farmacodinâmica do perampanel para epilepsia focal; discussão do mecanismo AMPA e relevância clínica |
-| [37329172](https://pubmed.ncbi.nlm.nih.gov/37329172/) | 2023 | Coorte (Pediátrica) | *Annals of Clinical and Translational Neurology* | Eficácia do perampanel em epilepsia pediátrica com etiologia genética conhecida ou presumida; relevância para síndromes com hiperexcitabilidade glutamatérgica |
-| [37684052](https://pubmed.ncbi.nlm.nih.gov/37684052/) | 2023 | Review | *BMJ* | Manejo de epilepsia na gravidez e lactação; análise do perfil de segurança do perampanel em mulheres em idade fértil — consideração relevante para planejamento de estudos |
-| [36034267](https://pubmed.ncbi.nlm.nih.gov/36034267/) | 2022 | Coorte Real-world | *Frontiers in Neurology* | Experiência real com perampanel na epilepsia de ausência infantil como primeira terapia adjuvante e monoterapia de segunda linha; avalia efetividade e tolerabilidade |
-
----
-
-## Informações de Comercialização no Brasil
-
-O perampanel possui **2 registros ativos** na ANVISA e situação de mercado confirmada como **Comercializado**. Os dados detalhados de nome comercial, forma farmacêutica, fabricante e indicação aprovada não constam neste Evidence Pack. Consulte o portal ANVISA (consultas.anvisa.gov.br) para informações completas sobre os produtos registrados.
-
----
+| [35151187](https://pubmed.ncbi.nlm.nih.gov/35151187/) | 2022 | Revisão sistemática | Epilepsy & Behavior | Avalia eficácia e segurança do perampanel em estado de mal, refratário e super-refratário |
+| [30076046](https://pubmed.ncbi.nlm.nih.gov/30076046/) | 2018 | Revisão sistemática | Epilepsy & Behavior | Avalia eficácia e tolerabilidade do perampanel no estado de mal refratário e super-refratário |
+| [30613951](https://pubmed.ncbi.nlm.nih.gov/30613951/) | 2019 | Coorte retrospectiva | Acta Neurol Scand | Casos multinacionais de uso do perampanel em estado de mal |
+| [33754209](https://pubmed.ncbi.nlm.nih.gov/33754209/) | 2021 | Coorte | J Neurol | Coorte de 81 pacientes com estado de mal refratário e super-refratário, com revisão da literatura |
+| [39436521](https://pubmed.ncbi.nlm.nih.gov/39436521/) | 2025 | Série de casos | Neurol Sci | Eficácia e segurança do perampanel em estado de mal refratário |
+| [38761446](https://pubmed.ncbi.nlm.nih.gov/38761446/) | 2024 | Estudo clínico | Epilepsy & Behavior | Dose ideal e segurança da suspensão oral em estado de mal refratário e super-refratário |
+| [30891695](https://pubmed.ncbi.nlm.nih.gov/30891695/) | 2019 | Estudo clínico | Neurocritical Care | Perampanel no estado de mal refratário em UTI neurológica |
+| [25962657](https://pubmed.ncbi.nlm.nih.gov/25962657/) | 2015 | Estudo clínico | Epilepsy & Behavior | Uso em estado de mal refratário e super-refratário em UTI neurológica |
+| [29663350](https://pubmed.ncbi.nlm.nih.gov/29663350/) | 2018 | Revisão | Epilepsia | Papel dos receptores AMPA e seus antagonistas no estado de mal |
+| [32915470](https://pubmed.ncbi.nlm.nih.gov/32915470/) | 2020 | Estudo animal | Ann N Y Acad Sci | Perampanel e alopregnanolona como adjuvantes do midazolam em estado de mal induzido por DFP em ratos |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 56 interações. Entre as listadas, a maioria é de gravidade moderada, incluindo morfina, codeína, hidrocodona, dexametasona, difenoxina, difenoxilato, dronabinol, nabilona, metoclopramida, ópio, sibutramina, etanol, prometazina, cloroquina, hidroxicloroquina, clorfeniramina, azelastina nasal e dextrometorfano. A claritromicina tem interação leve.
+- **Eventos adversos descritos na literatura**: a literatura recuperada relata eventos psiquiátricos e comportamentais (irritabilidade, psicose, aversão alimentar), e menciona advertência de tarja preta para reações psiquiátricas graves, como agressividade.
 
----
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Research Question**
+**Decisão: Hold**
 
 **Justificativa:**
-O perampanel possui mecanismo de ação (antagonismo seletivo dos receptores AMPA) biologicamente plausível para epilepsia visual — ambas as condições compartilham hiperexcitabilidade cortical mediada por AMPA —, mas nenhum dos ensaios clínicos identificados foi desenhado especificamente para esta indicação. A evidência atual é de nível L3, constituída por extrapolação indireta de estudos sobre epilepsia em geral.
+Para epilepsia visual e demais epilepsias reflexas previstas, as evidências se limitam à previsão do modelo e a literatura indireta (L4/L5), sem estudos específicos. O estado de mal epiléptico (L3) tem séries de casos e revisões sistemáticas, mas os dois ensaios de fase 3 e 4 foram encerrados com 1 participante cada, sem evidência randomizada utilizável. Além disso, o fármaco não é comercializado no Brasil.
 
 **Para prosseguir, é necessário:**
-- Delineamento de estudo clínico específico para epilepsia visual / epilepsia fotossensível (estudo de prova de conceito, Phase 2)
-- Confirmação do perfil de ativação de receptores AMPA no córtex visual por neuroimagem funcional ou eletrofisiologia
-- Obtenção dos dados completos da bula ANVISA (advertências, contraindicações, interações)
-- Avaliação em subgrupos: fotossensibilidade idiopática vs. sintomática, pediátrico vs. adulto
-- Revisão de potenciais interações com outros antiepilépticos em uso combinado (CYP3A4 indutores reduzem exposição ao perampanel em até 50%)
+- Obter e analisar a bula aprovada (advertências e contraindicações), ainda não disponível.
+- Esclarecer o mecanismo de ação em fonte detalhada (por exemplo, DrugBank).
+- Para epilepsia visual: buscar evidência específica (séries de casos ou estudos em epilepsia fotossensível) antes de qualquer avanço.
+- Para estado de mal epiléptico: acompanhar os resultados do ensaio de fase 2 NCT06401707 e avaliar um ensaio randomizado adequadamente dimensionado.
+- Avaliar a situação regulatória no Brasil (sem registro vigente) e as formas farmacêuticas disponíveis, incluindo a via de administração necessária em contexto agudo.
+- Definir plano de monitoramento de eventos psiquiátricos e de interações medicamentosas.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Iron
-parent: Apenas Predição do Modelo (L5)
-nav_order: 287
-evidence_level: L5
+parent: Evidência Moderada (L3-L4)
+nav_order: 374
+evidence_level: L4
 indication_count: 6
 ---
 
 # Iron
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **6** 
+Nível de evidência: **L4** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,12 +29,13 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-# IRON (Ferro): Da Anemia Ferropriva à Síndrome de Plummer-Vinson
+# Ferro (Iron): Da anemia por deficiência de ferro à síndrome de Plummer-Vinson
 
 ## Resumo em Uma Frase
 
-O ferro (IRON, DrugBank DB01592) é um micronutriente essencial amplamente comercializado no Brasil, cujo uso primário reconhecido é a correção da anemia por deficiência de ferro e estados de carência nutricional.
-O modelo TxGNN identifica a **Síndrome de Plummer-Vinson (Plummer-Vinson Syndrome)** como a candidata com maior respaldo clínico-literário entre as 6 indicações previstas, com **0 ensaios clínicos dedicados** e **19 publicações científicas** confirmando que a suplementação de ferro é o pilar terapêutico desta síndrome rara — na prática, um uso padrão já estabelecido ainda não formalizado como indicação aprovada no DrugBank.
+O ferro é um mineral essencial, originalmente usado no tratamento de diversas anemias carenciais, como a anemia por deficiência de ferro, a anemia hipocrômica, a anemia microcítica e a anemia da prematuridade.
+O modelo TxGNN prevê que pode ser eficaz para a **Síndrome de Plummer-Vinson (Plummer-Vinson syndrome)**, atualmente apoiada por **nenhum ensaio clínico** e **18 publicações** (revisões, séries e relatos de casos).
+Trata-se, em grande parte, de uma extensão da indicação já existente (deficiência de ferro), e não de uma oportunidade de reposicionamento realmente nova.
 
 ---
 
@@ -42,33 +43,41 @@ O modelo TxGNN identifica a **Síndrome de Plummer-Vinson (Plummer-Vinson Syndro
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anemia por deficiência de ferro / suplementação nutricional |
-| Nova Indicação Prevista | Síndrome de Plummer-Vinson (Plummer-Vinson Syndrome) |
-| Pontuação de Previsão TxGNN | 99,89% (rank 2 entre todas as doenças modeladas) |
-| Nível de Evidência | L3 (revisões sistemáticas e séries de casos) |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Indicação Original | Anemia por deficiência de ferro e outras anemias carenciais (anemia por deficiência de ácido fólico, anemia da prematuridade, anemia hipocrômica, anemia microcítica) |
+| Nova Indicação Prevista | Síndrome de Plummer-Vinson (Plummer-Vinson syndrome) |
+| Pontuação de Previsão TxGNN | 99,89% |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | Não comercializado (sem registros nos dados compilados) |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold (tratar como questão de pesquisa) |
 
-> **Nota sobre este relatório:** Este Evidence Pack é do tipo *multi-indication* (6 indicações previstas). O rank 1 ("anemia megaloblástica constitucional independente de B12/folato") recebeu recomendação **Hold** por ausência de evidências e provável falso positivo por proximidade semântica. O foco principal deste relatório é o rank 2 (Síndrome de Plummer-Vinson), candidata com maior relevância clínica e evidência real.
+Observação: a lista de indicações originais vem das relações do grafo de conhecimento do TxGNN, pois não há registros na ANVISA com texto de indicação aprovada.
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-A Síndrome de Plummer-Vinson (PVS) — também conhecida como Paterson-Brown Kelly syndrome — é uma condição rara definida pela tríade clássica: **anemia por deficiência de ferro**, **disfagia** e **webs esofágicos cervicais**. A relação entre ferro e PVS não é uma analogia funcional: é uma **relação causal direta**. A depleção crônica de ferro compromete simultaneamente a produção de hemoglobina, a função de enzimas musculares ferro-dependentes (como a citocromo C oxidase) e a integridade da mucosa esofágica, levando à formação das membranas características. A suplementação de ferro restaura os estoques corporais, reverte a anemia e, em muitos casos, permite a regressão parcial ou completa dos webs — sendo a dilatação endoscópica reservada para disfagia refratária.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o ferro é um componente essencial da hemoglobina e de diversas enzimas; sua reposição corrige a deficiência que causa as anemias microcíticas e hipocrômicas, e mecanisticamente pode ser aplicável a quadros em que a deficiência de ferro é o fator central.
 
-Em termos patofisiológicos, a PVS e a anemia ferropriva grave são essencialmente expressões do mesmo estado deficitário, diferindo na extensão das manifestações tecido-específicas. O score TxGNN de 99,89% reflete essa proximidade mecânica genuína, e não uma associação semântica superficial. Esta previsão é, portanto, classificada como **uso padrão clinicamente reconhecido** mas ainda não formalizado como indicação aprovada no DrugBank.
+A síndrome de Plummer-Vinson é definida pela tríade de disfagia, anemia por deficiência de ferro e membranas esofágicas. A reposição de ferro é o tratamento clássico e muitas vezes alivia os sintomas, com a disfagia frequentemente respondendo antes da correção das alterações hematológicas. O vínculo mecanístico é, portanto, forte: corrige-se a deficiência de base.
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação (MOA) disponíveis no Evidence Pack (lacuna DG002 — severidade Alta). Por literatura geral, o ferro atua como cofator essencial para hemoglobina, mioglobina, enzimas do ciclo de Krebs (aconitase, succinato desidrogenase) e proteínas citocromo-dependentes, todas relevantes à fisiopatologia da PVS.
+Ainda assim, a base de evidências é frágil. Consiste em relatos e séries de casos, revisões narrativas e um estudo retrospectivo multicêntrico (2025), sem ensaios prospectivos. Como a síndrome inclui a anemia ferropriva por definição, a previsão é em grande parte uma extensão da indicação existente.
+
+### Outras previsões do modelo (menor plausibilidade)
+
+| Indicação prevista | Pontuação | Avaliação |
+|------|------|------|
+| Doença esofágica | 99,42% | Vínculo indireto, principalmente via Plummer-Vinson; um piloto de fase 4 sem condição-alvo esofágica confirmada |
+| Deficiência vitamínica | 99,68% | Os estudos testam ferro combinado a vitaminas na anemia ferropriva; o ferro não corrige deficiências de outras vitaminas |
+| Doença metabólica da biotina | 99,74% | Literatura indireta; não há evidência de que o ferro trate esses distúrbios (tratados com biotina) |
+| Malformação esofágica não sindrômica | 99,86% | Apenas previsão; malformações estruturais não são corrigidas por ferro |
+| Anemia megaloblástica constitucional independente de B12 e folato | 99,89% | Apenas previsão; provavelmente reflete proximidade no grafo com outras anemias |
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos registrados especificamente para o uso de ferro no tratamento da Síndrome de Plummer-Vinson.
-
-> A ausência de ensaios clínicos dedicados é esperada para uma indicação de uso padrão estabelecido há décadas. A evidência acumulada provém de revisões consistentes e séries de casos publicadas ao longo de mais de 30 anos.
+Atualmente não há ensaios clínicos relacionados registrados para a síndrome de Plummer-Vinson.
 
 ---
 
@@ -76,43 +85,45 @@ Atualmente não há ensaios clínicos registrados especificamente para o uso de 
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [29089792](https://pubmed.ncbi.nlm.nih.gov/29089792/) | 2017 | Narrative Review | Journal of Blood Medicine | PVS: tríade clássica, suplementação de ferro como tratamento central; revisão de epidemiologia e declínio da prevalência com melhora nutricional |
-| [16978405](https://pubmed.ncbi.nlm.nih.gov/16978405/) | 2006 | Review | Orphanet Journal of Rare Diseases | Revisão abrangente de PVS: suplementação de ferro reverte anemia e pode resolver os webs esofágicos; dilatação reservada para disfagia residual |
-| [38871147](https://pubmed.ncbi.nlm.nih.gov/38871147/) | 2024 | Review | Clinical Gastroenterology and Hepatology | Revisão atual da tríade PVS; papel central do ferro no manejo clínico; vigilância endoscópica pelo risco de carcinoma |
-| [31208220](https://pubmed.ncbi.nlm.nih.gov/31208220/) | 2019 | Review | Ear, Nose & Throat Journal | Revisão de PVS; reposição de ferro como tratamento de primeira linha para anemia e possível regressão dos webs |
-| [20890819](https://pubmed.ncbi.nlm.nih.gov/20890819/) | 2010 | Review | La Tunisie Médicale | PVS como condição rara em mulheres; ferro como eixo terapêutico principal da síndrome |
-| [31417270](https://pubmed.ncbi.nlm.nih.gov/31417270/) | 2019 | Review | Journal of Multidisciplinary Healthcare | Abordagem multidisciplinar em PVS; ferro como pilar do manejo; risco de malignidade exige vigilância endoscópica de longo prazo |
-| [12823219](https://pubmed.ncbi.nlm.nih.gov/12823219/) | 2003 | Case Series | Diseases of the Esophagus | Dois casos de PVS tratados com suplementação de ferro resultando em eliminação completa dos sintomas |
-| [34651287](https://pubmed.ncbi.nlm.nih.gov/34651287/) | 2022 | Case-based Review | Immunologic Research | PVS associada à Síndrome de Sjögren primária; ferro como tratamento da anemia subjacente comum às duas condições |
-| [39760192](https://pubmed.ncbi.nlm.nih.gov/39760192/) | 2025 | Systematic Review | Oral Diseases | Manifestações de câncer de cabeça e pescoço em pacientes com PVS; ferro como base do manejo da síndrome subjacente |
-| [7865729](https://pubmed.ncbi.nlm.nih.gov/7865729/) | 1994 | Historical Review | Journal of Gastroenterology and Hepatology | Análise histórica do declínio da incidência de PVS, atribuído à melhora nutricional e suplementação de ferro em populações de risco |
-
----
-
-## Informações de Comercialização no Brasil
-
-O IRON (DB01592) possui **20 registros** ativos com status **Comercializado** no Brasil. Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste Evidence Pack — os campos de licença constam em branco na fonte consultada. Recomenda-se consulta direta ao portal da ANVISA para obtenção dos dados completos.
+| [29089792](https://pubmed.ncbi.nlm.nih.gov/29089792/) | 2017 | Revisão | Journal of Blood Medicine | Atualização sobre anemia ferropriva e Plummer-Vinson; a condição é rara e sua prevalência parece estar em declínio com a melhora nutricional |
+| [40802140](https://pubmed.ncbi.nlm.nih.gov/40802140/) | 2025 | Estudo retrospectivo multicêntrico | Digestive Diseases and Sciences | Análise de características demográficas, clínicas, de imagem e desfechos de tratamento em vários centros; risco de progressão para carcinoma espinocelular de esôfago |
+| [39760192](https://pubmed.ncbi.nlm.nih.gov/39760192/) | 2025 | Revisão sistemática | Oral Diseases | Manifestações de câncer de cabeça e pescoço em pacientes com Plummer-Vinson |
+| [16978405](https://pubmed.ncbi.nlm.nih.gov/16978405/) | 2006 | Revisão | Orphanet Journal of Rare Diseases | Tríade clássica de disfagia, anemia ferropriva e membranas esofágicas; síndrome extremamente rara, mais comum em mulheres brancas de meia-idade |
+| [7575056](https://pubmed.ncbi.nlm.nih.gov/7575056/) | 1995 | Relato de caso e revisão | Archives of Internal Medicine | A reposição de ferro frequentemente melhora a disfagia, embora alguns pacientes precisem de dilatação esofágica; recomenda-se vigilância endoscópica |
+| [12823219](https://pubmed.ncbi.nlm.nih.gov/12823219/) | 2003 | Relato de casos | Diseases of the Esophagus | Duas pacientes tratadas com ferro tiveram eliminação dos sintomas |
+| [31417270](https://pubmed.ncbi.nlm.nih.gov/31417270/) | 2019 | Revisão | Journal of Multidisciplinary Healthcare | Abordagem multidisciplinar; maioria dos casos benigna, mas o risco de malignidade exige vigilância de longo prazo |
+| [26502163](https://pubmed.ncbi.nlm.nih.gov/26502163/) | 2015 | Revisão | Journal of Pediatric Gastroenterology and Nutrition | Plummer-Vinson em crianças, causa rara de disfagia, com deficiência de ferro frequente |
+| [34616256](https://pubmed.ncbi.nlm.nih.gov/34616256/) | 2021 | Relato de caso | Case Reports in Gastroenterology | Tratamento principal é a suplementação de ferro; a disfagia costuma responder antes da correção hematológica |
+| [34651287](https://pubmed.ncbi.nlm.nih.gov/34651287/) | 2022 | Revisão baseada em caso | Immunologic Research | Associação rara entre síndrome de Sjögren primária e Plummer-Vinson |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações previstas pelo grafo de conhecimento** (não provenientes de bula): úlcera péptica, hemocromatose hereditária, hemossiderose, doenças do metabolismo do ferro, doença de Wilson, retocolite ulcerativa, doença inflamatória intestinal, anemia hemolítica e gastroenterite.
+- **Interações medicamentosas**: foram identificadas 79 interações. As principais:
+  - **Graves (Major)**: dolutegravir e bictegravir (redução da absorção por quelação).
+  - **Moderadas**: inibidores da bomba de prótons (omeprazol, rabeprazol), tetraciclina e doxiciclina, ciprofloxacino e delafloxacino, bisfosfonatos (alendronato, risedronato, ibandronato), levodopa, cefdinir, cloranfenicol, óxido de magnésio, citrato de sódio, pancrelipase, deferiprona e baloxavir marboxil.
+  - **Leves (Minor)**: cimetidina.
+
+Consulte a bula para advertências e contraindicações formais.
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-A Síndrome de Plummer-Vinson é patofisiologicamente inseparável da deficiência de ferro, e a suplementação de ferro é reconhecida de forma unânime na literatura como tratamento de primeira linha desta síndrome. A evidência é consistente em revisões e séries de casos publicadas entre 1994 e 2026, e o produto já está comercializado no Brasil com 20 registros ANVISA, dispensando nova aprovação regulatória para a indicação subjacente de deficiência de ferro.
+- A previsão para a síndrome de Plummer-Vinson tem vínculo mecanístico forte, mas é essencialmente a indicação de deficiência de ferro já existente, sustentada apenas por relatos de casos, revisões e um estudo retrospectivo (L4), sem ensaios clínicos. Além disso, o ferro não está comercializado no Brasil segundo os dados compilados, e a avaliação de segurança baseada na bula ainda não pôde ser feita.
 
 **Para prosseguir, é necessário:**
-- Completar os dados de licença ANVISA (detalhes dos 20 registros) para verificar se alguma apresentação já contempla indicação explícita para PVS ou disfagia ferropriva
-- Obter MOA detalhado no DrugBank (lacuna DG002 — severidade Alta)
-- Obter advertências e contraindicações da bula (lacuna DG001 — severidade Bloqueante), em especial para risco de sobrecarga de ferro (hemocromatose, hemossiderose) e uso em populações especiais
-- Avaliar a indicação secundária de **Distúrbio por Deficiência de Vitaminas** (rank 5, nível de evidência L2, com ensaio Phase 3 concluído — NCT01198574), que também recebeu recomendação "Proceed with Guardrails" e pode ser desenvolvida em relatório próprio
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança.
+- Confirmar a situação regulatória do ferro no Brasil (registros e formas farmacêuticas disponíveis).
+- Obter dados do mecanismo de ação (por exemplo, via DrugBank).
+- Definir se a síndrome de Plummer-Vinson será tratada como extensão da indicação atual, com protocolo de reposição e vigilância endoscópica do risco de carcinoma.
+- Considerar a restrição de uso em pacientes com as condições contraindicadas listadas e revisar o manejo das interações com antirretrovirais, antibióticos e inibidores da bomba de prótons.
+- As demais previsões (anemia megaloblástica constitucional, malformação esofágica, doença da biotina, deficiência vitamínica e doença esofágica) não justificam investimento adicional com os dados atuais.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

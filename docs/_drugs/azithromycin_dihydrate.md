@@ -2,7 +2,7 @@
 layout: default
 title: Azithromycin Dihydrate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 91
+nav_order: 101
 evidence_level: L5
 indication_count: 0
 ---

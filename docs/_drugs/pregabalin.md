@@ -2,7 +2,7 @@
 layout: default
 title: Pregabalin
 parent: Evidência Moderada (L3-L4)
-nav_order: 415
+nav_order: 548
 evidence_level: L4
 indication_count: 6
 ---
@@ -29,83 +29,74 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-# Pregabalin: Da Dor Neuropática à Tendinite
+# Pregabalina: Da dor neuropática e fibromialgia à tendinite
 
 ## Resumo em Uma Frase
 
-Pregabalin é um gabapentinoide aprovado para o tratamento da dor neuropática, epilepsia parcial em adultos e transtorno de ansiedade generalizada.
-O modelo TxGNN prevê que pode ser eficaz para **Tendinite (Tendinitis)**, atualmente com **0 ensaios clínicos diretos** e **6 publicações** identificadas — a maioria referente à analgesia perioperatória em cirurgia do manguito rotador, não ao tratamento da tendinite propriamente dita.
-
----
+A pregabalina é um ligante da subunidade alfa-2-delta dos canais de cálcio, usado originalmente em transtorno de ansiedade, fibromialgia, síndrome de dor miofascial e neuralgia pós-herpética.
+O modelo TxGNN prevê que pode ser eficaz para **tendinite (tendinitis)**, mas, para essa indicação, **não há ensaios clínicos** e a literatura recuperada é **indireta** (6 publicações, nenhuma tratando a tendinite em si).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Dor neuropática / Epilepsia parcial / Transtorno de ansiedade generalizada |
-| Nova Indicação Prevista | Tendinite (Tendinitis) |
+|------|------|
+| Indicação Original | Transtorno de ansiedade, fibromialgia, síndrome de dor miofascial e neuralgia pós-herpética (segundo o grafo de conhecimento; não há registros no Brasil) |
+| Nova Indicação Prevista | Tendinite (tendinitis) |
 | Pontuação de Previsão TxGNN | 99,71% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Pregabalin é um ligante seletivo da subunidade α2-δ dos canais de cálcio voltagem-dependentes. Ao ocupar esse sítio, reduz o influxo de cálcio nos terminais pré-sinápticos hiperexcitados e, consequentemente, diminui a liberação de neurotransmissores excitatórios — glutamato, noradrenalina e substância P. Esse mecanismo explica sua eficácia estabelecida em dor neuropática e convulsões parciais. Estudos de neuroimagem in vivo confirmaram que o pregabalin também eleva o limiar para a Depressão Alastrante Cortical (CSD), evento central na fisiopatologia da epilepsia e da enxaqueca.
+A pregabalina liga-se à subunidade alfa-2-delta dos canais de cálcio dependentes de voltagem e reduz a liberação de neurotransmissores excitatórios. Isso pode aliviar componentes de dor neuropática ou de sensibilização central que acompanham doenças tendíneas crônicas. Os dados compilados não trazem uma descrição formal do mecanismo de ação; a explicação acima é uma interpretação mecanística plausível.
 
-A tendinite, entretanto, é uma condição primariamente inflamatória, com dor de natureza nociceptiva periférica. Não há efeito anti-inflamatório direto sobre o tecido tendinoso descrito para o pregabalin, nem ação sobre prostaglandinas ou citocinas locais. A literatura identificada restringe-se à analgesia perioperatória em reparo artroscópico do manguito rotador — contexto cirúrgico agudo, distinto do manejo clínico da tendinite. Esses achados não podem ser extrapolados diretamente a uma indicação terapêutica para inflamação tendinosa.
+A relação com as indicações originais está na dor crônica: fibromialgia e dor miofascial envolvem o sistema musculoesquelético e a sensibilização central, o que aproxima o fármaco de condições dolorosas dos tendões. A ligação, porém, é indireta.
 
-A pontuação TxGNN elevada (99,71%) provavelmente reflete associações topológicas no grafo de conhecimento entre os nós "dor musculoesquelética", "inflamação de partes moles" e "canais de cálcio", e não uma evidência biológica direta. Trata-se de um sinal de hipótese exploratória: eventualmente, subtipos de tendinite crônica com componente de sensibilização central poderiam se beneficiar do perfil de modulação do pregabalin — mas essa hipótese ainda carece de qualquer estudo clínico.
-
----
+É preciso cautela. A literatura recuperada trata de analgesia pós-operatória (reparo artroscópico do manguito rotador), relatos de caso de compressão nervosa e incapacidade associada a fluoroquinolonas. Nada disso mostra tratamento da tendinite em si. A pontuação muito alta do TxGNN é uma previsão computacional, sem confirmação clínica.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para pregabalin em tendinite.
-
----
+Atualmente não há ensaios clínicos relacionados registrados para a tendinite.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [34052386](https://pubmed.ncbi.nlm.nih.gov/34052386/) | 2022 | RCT | Arthroscopy | Pregabalin perioperatório produziu scores de dor equivalentes ao bloqueio interescaleno do plexo braquial após reparo artroscópico do manguito rotador, com menor consumo de opioides |
-| [32839073](https://pubmed.ncbi.nlm.nih.gov/32839073/) | 2021 | Coorte retrospectivo | J Orthop Sci | Avaliação do efeito poupador de opioides do pregabalin após reparo artroscópico do manguito rotador; resultados conflitantes com estudos anteriores |
-| [41017607](https://pubmed.ncbi.nlm.nih.gov/41017607/) | 2025 | Relato de Caso / Revisão | Praxis | Caso de incapacidade associada a fluoroquinolona (ciprofloxacino) com tendinopatia; fisiopatologia atribuída a dano ao sistema redox, sem relação com pregabalin |
-| [37051935](https://pubmed.ncbi.nlm.nih.gov/37051935/) | 2023 | Relato de Caso | Pain Practice | Neuropatia do nervo cutâneo femoral posterior pós-maratona, secundária a tendinite do isquiotibial; destaca a sobreposição de dor neuropática e tendinosa |
-| [40818536](https://pubmed.ncbi.nlm.nih.gov/40818536/) | 2025 | Editorial | Arthroscopy | Síndrome do piriforme tratada por neurólise ciática e liberação do tendão do piriforme; discute síndrome glútea profunda e diagnóstico diferencial |
-| [39703364](https://pubmed.ncbi.nlm.nih.gov/39703364/) | 2024 | Estudo animal | Adv Pharmacol Pharm Sci | Extrato de C. quadrangularis (planta usada empiricamente em tendões lesados) atenuou neuropatia periférica induzida por vincristina em ratos; pregabalin utilizado como controle positivo de referência |
-
----
-
-## Informações de Comercialização no Brasil
-
-O pregabalin possui **20 registros ativos** no Brasil (situação: Comercializado). Os dados individuais dos registros — nome comercial, forma farmacêutica e indicação aprovada — não estão disponíveis neste Evidence Pack. Consulte o portal da ANVISA para informações completas sobre cada registro.
-
----
+|------|-----|------|------|---------|
+| [34052386](https://pubmed.ncbi.nlm.nih.gov/34052386/) | 2022 | RCT | Arthroscopy | Pregabalina oral perioperatória comparada ao bloqueio do plexo braquial interescalênico após reparo artroscópico do manguito rotador, com foco em dor pós-operatória, consumo de opioides e satisfação do paciente |
+| [32839073](https://pubmed.ncbi.nlm.nih.gov/32839073/) | 2021 | Coorte retrospectiva | J Orthop Sci | Avaliação do efeito analgésico e poupador de opioides da pregabalina após reparo do manguito rotador; os estudos prévios têm resultados conflitantes |
+| [41017607](https://pubmed.ncbi.nlm.nih.gov/41017607/) | 2025 | Relato de caso/Revisão | Praxis | Incapacidade associada a fluoroquinolonas (ciprofloxacino), incluindo tendinopatias; sem relação direta com o tratamento por pregabalina |
+| [40818536](https://pubmed.ncbi.nlm.nih.gov/40818536/) | 2025 | Editorial | Arthroscopy | Síndrome do piriforme e compressão do nervo ciático; sem relação direta com a pregabalina |
+| [37051935](https://pubmed.ncbi.nlm.nih.gov/37051935/) | 2023 | Relato de caso | Pain Pract | Lesão do nervo cutâneo femoral posterior após maratona, associada a tendinite dos isquiotibiais |
+| [39703364](https://pubmed.ncbi.nlm.nih.gov/39703364/) | 2024 | Pré-clínico (animal) | Adv Pharmacol Pharm Sci | Extrato de *Cissus quadrangularis* na neuropatia induzida por vincristina em ratos; sem relação direta com a pregabalina |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (não é texto de bula):** transtorno de ansiedade, transtorno neurótico, transtorno distímico, trombocitopenia, angioedema (incluindo as formas adquirida, hereditária, não histaminérgica e induzida por bloqueadores do sistema renina-angiotensina-aldosterona), miopatia, doença muscular, doença do músculo esquelético, paralisia periódica familiar, rabdomiólise, fasciite nodular, insuficiência renal e bloqueio atrioventricular.
+- **Interações medicamentosas** (100 interações registradas; as principais):
+  - **Maior gravidade:** morfina e morfina lipossomal.
+  - **Gravidade moderada:** pioglitazona, rosiglitazona, troglitazona, difenoxina, difenoxilato, dronabinol, nabilona, metoclopramida, ópio e sibutramina.
+  - **Gravidade desconhecida:** calcitriol, vitamina A, fentermina, pantoprazol, glimepirida, sucralfato, palonosetrona e nistatina.
 
----
+Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A tendinite é uma condição de dor nociceptiva/inflamatória, e o mecanismo de ação do pregabalin — modulação da subunidade α2-δ de canais de cálcio — tem baixa correspondência com essa fisiopatologia. Não existem ensaios clínicos registrados para esta indicação, e a literatura disponível cobre exclusivamente analgesia perioperatória em cirurgia de tendão, contexto que não pode ser extrapolado ao tratamento da tendinite.
+- Não há ensaios clínicos nem literatura direta sobre pregabalina na tendinite. A pontuação alta do TxGNN reflete apenas uma previsão computacional (nível L4), e a ausência de registro no Brasil limita o acesso.
 
 **Para prosseguir, é necessário:**
-- Estudos pré-clínicos específicos avaliando pregabalin em modelos de tendinite (inflamação tendinosa induzida)
-- Investigação da hipótese de subtipos de tendinite crônica com sensibilização central como possível nicho de benefício
-- Dados completos de MOA confirmados por fontes regulatórias (DrugBank / bula ANVISA)
-- Dados de segurança e contraindicações extraídos da bula oficial
-- Reavaliação da indicação de rank 5 (**Enxaqueca**) como candidato prioritário, que apresenta nível de evidência L2, 3 ensaios clínicos e 19 publicações, com fundamentação mecanicista mais sólida
+- Estudos clínicos ou pré-clínicos que testem diretamente a pregabalina na tendinite, e não apenas na dor pós-operatória.
+- Dados detalhados do mecanismo de ação e análise da ligação mecanística com a doença tendínea.
+- Advertências e contraindicações oficiais obtidas da bula (ANVISA), pendência que bloqueia a triagem de segurança.
+- Avaliação da viabilidade regulatória, já que o fármaco não tem registro no Brasil.
+
+### Outras indicações previstas (resumo)
+
+Os dados compilados incluem outras indicações previstas. A mais avançada é a **enxaqueca (migraine disorder)**, com pontuação de 99,47% e nível L2. Há um ensaio de Fase 3 retirado (NCT00447369) e ensaios randomizados pediátricos pequenos, comparando a pregabalina com valproato e propranolol. A recomendação é tratá-la como **questão de pesquisa**, pois não há evidência confirmatória de Fase 3. As demais indicações (miosite granulomatosa idiopática, miosite fibrosa, miosite por corpos de inclusão e enxaqueca com aura do tronco encefálico) têm apenas previsão do modelo ou estudos pré-clínicos (L4–L5) e permanecem em **Hold**.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

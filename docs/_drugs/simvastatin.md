@@ -2,7 +2,7 @@
 layout: default
 title: Simvastatin
 parent: Evidência Alta (L1-L2)
-nav_order: 439
+nav_order: 586
 evidence_level: L1
 indication_count: 8
 ---
@@ -29,92 +29,103 @@ Nível de evidência: **L1** | Indicações previstas: **8**
 
 </div>
 
-# Sinvastatina: Da Dislipidemia à Hipercolesterolemia Familiar
+# Sinvastatina: De antilipêmico à hipercolesterolemia familiar
 
 ## Resumo em Uma Frase
 
-Sinvastatina é um inibidor da HMG-CoA redutase, amplamente reconhecido no tratamento da dislipidemia e hipercolesterolemia primária em todo o mundo.
-O modelo TxGNN prevê que pode ser eficaz para a **Hipercolesterolemia Familiar (Familial Hypercholesterolemia)**,
-atualmente com **19 ensaios clínicos** e **18 publicações** apoiando esta direção.
-
----
+A sinvastatina (simvastatin) foi originalmente registrada no Brasil como antilipêmico (redutor de lipídios no sangue).
+O modelo TxGNN prevê que pode ser eficaz para **hipercolesterolemia familiar (Familial Hypercholesterolemia)**,
+atualmente com **8 ensaios clínicos** e **20 publicações** apoiando esta direção. Trata-se, porém, de uma indicação muito próxima da original, mais do que de um reposicionamento propriamente dito.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Dislipidemia / Hipercolesterolemia (inibidor da HMG-CoA redutase) |
-| Nova Indicação Prevista | Hipercolesterolemia Familiar (Familial Hypercholesterolemia) |
-| Pontuação de Previsão TxGNN | 99.63% |
+| Indicação Original | Antilipêmicos |
+| Nova Indicação Prevista | Hipercolesterolemia familiar (Familial Hypercholesterolemia) |
+| Pontuação de Previsão TxGNN | 99,63% |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Não registrado na ANVISA |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Sinvastatina é um inibidor da enzima 3-hidroxi-3-metilglutaril-coenzima A (HMG-CoA) redutase, enzima-chave na via do mevalonato responsável pela síntese hepática endógena de colesterol. Ao bloquear esta etapa, a sinvastatina reduz a produção hepática de colesterol e, compensatoriamente, induz as células hepáticas a superexpressar receptores de LDL — resultando em captação aumentada de LDL circulante e redução significativa dos níveis séricos de LDL-C.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a sinvastatina é uma estatina, inibidora da enzima HMG-CoA redutase. Ao reduzir a síntese de colesterol no fígado, aumenta os receptores de LDL e acelera a remoção do LDL-colesterol do sangue.
 
-A Hipercolesterolemia Familiar (FH) é uma doença genética monogênica causada por mutações nos genes *LDLR*, *APOB* ou *PCSK9*, que comprometem a clearance do LDL circulante. Embora a sinvastatina não corrija o defeito genético subjacente, ela atua na fonte do problema ao reduzir a quantidade de LDL produzida pelo fígado — diminuindo a carga sobre os receptores funcionalmente deficientes e, consequentemente, o risco de doença coronariana prematura. Pacientes com a forma heterozigótica (HeFH) respondem bem a estatinas em monoterapia, com redução média de 40–50% no LDL-C.
+A hipercolesterolemia familiar é uma doença genética em que a remoção do LDL-colesterol é deficiente, levando a níveis muito elevados e a doença coronariana precoce. Como a sinvastatina já é usada para reduzir lipídios, a nova indicação é uma extensão natural da indicação original: o mesmo mecanismo atua sobre o mesmo problema de fundo, só que em uma população com causa genética.
 
-A relação mecanística é direta e há décadas consolidada: estudos de Phase 3 demonstraram eficácia de sinvastatina em FH tanto em adultos quanto em adolescentes, e diretrizes internacionais (ACC/AHA 2026, AACE/ACE 2017) recomendam estatinas como base do tratamento de FH. A previsão do modelo TxGNN é, portanto, altamente coerente com o conhecimento farmacológico estabelecido.
-
----
+Vale destacar que o efeito é melhor documentado nas formas heterozigóticas. Nas formas homozigóticas, em especial com ausência total de receptores de LDL, a resposta tende a ser limitada e geralmente exige terapias adicionais.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00552097](https://clinicaltrials.gov/study/NCT00552097) | Phase 3 | Concluído | 720 | ENHANCE Trial: ezetimiba + sinvastatina em alta dose vs. sinvastatina isolada em HeFH — avaliou progressão da aterosclerose carotídea (espessura íntima-média); maior estudo direto de sinvastatina em FH. |
-| [NCT00129402](https://clinicaltrials.gov/study/NCT00129402) | Phase 3 | Concluído | 248 | Eficácia e segurança de ezetimiba em coadministração com sinvastatina em adolescentes (10–17 anos) com HeFH; estudo randomizado duplo-cego multicêntrico comparando monoterapia vs. combinação. |
-| [NCT00465088](https://clinicaltrials.gov/study/NCT00465088) | Phase 3 | Concluído | 199 | SUPREME: Niacin ER + sinvastatina vs. atorvastatina em hiperlipidemia tipo II ou dislipidemia mista; sinvastatina como braço comparador principal em estudo de não inferioridade para HDL-C. |
-| [NCT00654446](https://clinicaltrials.gov/study/NCT00654446) | Phase 3 | Concluído | 442 | Efeitos renais de rosuvastatina e sinvastatina em dislipidemia Fredrickson Tipo IIa/IIb, incluindo HeFH; estudo randomizado paralelo de 6 semanas avaliando segurança renal comparativa. |
-| [NCT03884452](https://clinicaltrials.gov/study/NCT03884452) | Phase 3 | Concluído | 50 | Eficácia e segurança de ezetimiba (SCH 58235) adicionada a atorvastatina ou sinvastatina em HoFH; estudo duplo-cego randômico de 12 semanas. |
-| [NCT03885921](https://clinicaltrials.gov/study/NCT03885921) | Phase 3 | Concluído | 44 | Segurança e tolerabilidade de longo prazo (24 meses) de ezetimiba + atorvastatina ou sinvastatina em HoFH; extensão aberta do estudo NCT03884452. |
-| [NCT01623115](https://clinicaltrials.gov/study/NCT01623115) | Phase 3 | Concluído | 486 | Alirocumab vs. placebo em HeFH não controlada com terapia modificadora de lipídios; sinvastatina como terapia de base, avaliando benefício adicional do inibidor de PCSK9. |
-| [NCT01709500](https://clinicaltrials.gov/study/NCT01709500) | Phase 3 | Concluído | 249 | Alirocumab (REGN727) em HeFH inadequadamente controlada com terapia lipídica modificadora; estudo duplo-cego multinacional com sinvastatina como fundo terapêutico. |
-| [NCT02107898](https://clinicaltrials.gov/study/NCT02107898) | Phase 3 | Concluído | 216 | Alirocumab adicionado à terapia estável com estatina em HeFH ou pacientes de alto risco cardiovascular; avaliação de redução de LDL-C após 24 semanas. |
-| [NCT00145574](https://clinicaltrials.gov/study/NCT00145574) | Phase 4 | Concluído | 194 | Colesevelam em pacientes pediátricos (10–17 anos) com HeFH em dose estável de estatina (incluindo sinvastatina) ou virgens de tratamento; avaliação do efeito redutor de lipídios em combinação. |
+| [NCT00552097](https://clinicaltrials.gov/study/NCT00552097) (ENHANCE) | Phase 3 | Concluído | 720 | Ezetimiba + sinvastatina em dose alta vs. sinvastatina isolada na progressão da aterosclerose carotídea em hipercolesterolemia familiar heterozigótica |
+| [NCT00129402](https://clinicaltrials.gov/study/NCT00129402) | Phase 3 | Concluído | 248 | Ezetimiba coadministrada com sinvastatina em adolescentes (10–17 anos) com hipercolesterolemia familiar heterozigótica |
+| [NCT01709500](https://clinicaltrials.gov/study/NCT01709500) | Phase 3 | Concluído | 249 | Alirocumabe vs. placebo em hipercolesterolemia familiar heterozigótica não controlada com terapia hipolipemiante (sinvastatina provavelmente como terapia de base) |
+| [NCT03884452](https://clinicaltrials.gov/study/NCT03884452) | Phase 3 | Concluído | 50 | Eficácia e segurança de ezetimiba adicionada a atorvastatina ou sinvastatina em hipercolesterolemia familiar homozigótica |
+| [NCT03885921](https://clinicaltrials.gov/study/NCT03885921) | Phase 3 | Concluído | 44 | Extensão aberta de segurança de longo prazo (até 24 meses) de ezetimiba com atorvastatina ou sinvastatina em hipercolesterolemia familiar homozigótica |
+| [NCT00654446](https://clinicaltrials.gov/study/NCT00654446) | Phase 3 | Concluído | 442 | Efeitos renais de rosuvastatina e sinvastatina em dislipidemia tipo IIa/IIb, incluindo hipercolesterolemia familiar heterozigótica |
+| [NCT03510884](https://clinicaltrials.gov/study/NCT03510884) | Phase 3 | Concluído | 153 | Alirocumabe vs. placebo em crianças e adolescentes com hipercolesterolemia familiar heterozigótica (papel da sinvastatina pouco claro) |
+| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Concluído | 18 | Alirocumabe aberto em crianças e adolescentes com hipercolesterolemia familiar homozigótica (sinvastatina, no máximo, como terapia de base) |
+| [NCT01890967](https://clinicaltrials.gov/study/NCT01890967) | Phase 2 | Concluído | 527 | Estudo de busca de dose de LY3015014 em hipercolesterolemia primária; sinvastatina não é o fármaco em investigação |
 
----
+Observação: apenas dois ensaios (NCT00552097 e NCT00129402) têm a sinvastatina como componente direto do esquema estudado. Nos demais, ela é terapia de base ou coadjuvante.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [18376000](https://pubmed.ncbi.nlm.nih.gov/18376000/) | 2008 | RCT | N Engl J Med | Sinvastatina ± ezetimiba em FH (ENHANCE): combinação reduziu LDL-C em maior extensão, mas sem diferença significativa na progressão da espessura íntima-média carotídea em 2 anos; referência metodológica central em FH. |
-| [18940534](https://pubmed.ncbi.nlm.nih.gov/18940534/) | 2008 | RCT | J Am Coll Cardiol | Eficácia e segurança da coadministração de ezetimiba e sinvastatina em adolescentes com HeFH: combinação demonstrou redução adicional de LDL-C com perfil de segurança aceitável em longo prazo. |
-| [2405804](https://pubmed.ncbi.nlm.nih.gov/2405804/) | 1990 | RCT | Arch Intern Med | Sinvastatina vs. colestiramina em hipercolesterolemia familiar e não familiar (251 pacientes, multicêntrico): sinvastatina 40 mg/dia reduziu LDL-C em 40%, demonstrando eficácia superior ao controle ativo. |
-| [8770319](https://pubmed.ncbi.nlm.nih.gov/8770319/) | 1995 | RCT | Atherosclerosis | Comparação dos efeitos de sinvastatina e pravastatina na biossíntese de colesterol em hipercolesterolemia primária; estudo cruzado randomizado (26 pacientes, 6 semanas). |
-| [31696945](https://pubmed.ncbi.nlm.nih.gov/31696945/) | 2019 | Revisão Sistemática | Cochrane Database Syst Rev | Cochrane 2019: estatinas para crianças com FH; análise sistemática confirmando eficácia e segurança do uso de estatinas (incluindo sinvastatina) na população pediátrica com FH. |
-| [41824552](https://pubmed.ncbi.nlm.nih.gov/41824552/) | 2026 | Diretriz Clínica | Circulation | Diretriz 2026 ACC/AHA sobre Manejo da Dislipidemia: substitui a diretriz de 2018; referência atual de evidência para o uso de estatinas em FH com recomendações baseadas nas evidências mais recentes. |
-| [41824590](https://pubmed.ncbi.nlm.nih.gov/41824590/) | 2026 | Diretriz Clínica | J Am Coll Cardiol | Publicação simultânea da Diretriz 2026 ACC/AHA sobre Manejo da Dislipidemia no JACC; recomendações de tratamento lipídico para hipercolesterolemia familiar (publicação dupla conjunta). |
-| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | Diretriz Clínica | Endocrine Practice | Diretrizes AACE/ACE para Manejo da Dislipidemia e Prevenção de Doenças Cardiovasculares; inclui recomendações de estatinas como cornerstone do tratamento em FH. |
-| [15794711](https://pubmed.ncbi.nlm.nih.gov/15794711/) | 2005 | Revisão | Expert Opin Drug Saf | Avaliação de benefícios e riscos da sinvastatina em hipercolesterolemia familiar: expectativa de vida reduzida em 15–30 anos sem tratamento adequado; sinvastatina muda a história natural da doença com perfil de segurança favorável em longo prazo. |
-| [12908847](https://pubmed.ncbi.nlm.nih.gov/12908847/) | 2003 | Revisão | Drug Safety | Benefícios e riscos da sinvastatina em FH: introdução dos inibidores de HMG-CoA redutase como transformação no tratamento desta doença; análise de segurança e tolerabilidade de longo prazo. |
+| [18376000](https://pubmed.ncbi.nlm.nih.gov/18376000/) | 2008 | RCT | N Engl J Med | Sinvastatina com ou sem ezetimiba em hipercolesterolemia familiar, avaliando a progressão da aterosclerose (estudo ENHANCE) |
+| [18940534](https://pubmed.ncbi.nlm.nih.gov/18940534/) | 2008 | Ensaio clínico | J Am Coll Cardiol | Eficácia e segurança da coadministração de ezetimiba e sinvastatina em adolescentes com hipercolesterolemia familiar heterozigótica |
+| [31696945](https://pubmed.ncbi.nlm.nih.gov/31696945/) | 2019 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Estatinas em crianças com hipercolesterolemia familiar |
+| [27417002](https://pubmed.ncbi.nlm.nih.gov/27417002/) | 2016 | Estudo de coorte/observacional | J Am Coll Cardiol | Estatinas em hipercolesterolemia familiar: consequências para doença arterial coronariana e mortalidade geral |
+| [12908847](https://pubmed.ncbi.nlm.nih.gov/12908847/) | 2003 | Revisão | Drug Saf | Benefícios e riscos da sinvastatina em pacientes com hipercolesterolemia familiar |
+| [15794711](https://pubmed.ncbi.nlm.nih.gov/15794711/) | 2005 | Revisão | Expert Opin Drug Saf | Avaliação de benefícios e riscos da sinvastatina na hipercolesterolemia familiar |
+| [2679083](https://pubmed.ncbi.nlm.nih.gov/2679083/) | 1989 | Estudo clínico | Am J Med | Redução média do LDL-C de 38% com 20 mg e de 42% com 40 mg de sinvastatina em pacientes com hipercolesterolemia familiar |
+| [41824590](https://pubmed.ncbi.nlm.nih.gov/41824590/) | 2026 | Diretriz | J Am Coll Cardiol | Diretriz ACC/AHA 2026 para o manejo da dislipidemia, que substitui a de 2018 |
+| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | Diretriz | Endocr Pract | Diretrizes AACE/ACE para manejo da dislipidemia e prevenção de doença cardiovascular |
+| [35629051](https://pubmed.ncbi.nlm.nih.gov/35629051/) | 2022 | Estudo transversal | J Clin Med | Imunidade celular em crianças com hipercolesterolemia familiar tratadas com sinvastatina 10 mg (n=26) |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 20 registros encontram-se **cancelados**; não há registro válido atualmente. Os cinco principais:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 118190228 | MENOCOL | Não informada | Antilipêmicos |
+| Registro nº 154230264 | SINVASTATINA | Não informada | Antilipêmicos |
+| Registro nº 118190226 | SINVASTATINA | Não informada | Antilipêmicos |
+| Registro nº 101460061 | SINVASCOR | Não informada | Antilipêmicos |
+| Registro nº 141070108 | SINVASTATINA | Não informada | Antilipêmicos |
+
+Outros nomes comerciais entre os registros cancelados: Clinfar, Simlip, Sinvastacor, Sinvax e Sinvastamed.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (com base em grafo de conhecimento, não em texto de bula)**: o grafo de conhecimento associa o fármaco a condições como doença hepática, pancreatite, doenças da vesícula biliar, miopatia e doenças musculares, rabdomiólise, diabetes mellitus e cetoacidose diabética, hiperglicemia, trombocitopenia, gota, doença ulcerosa péptica, distúrbios de coagulação, doença arterial coronariana, síndrome coronariana aguda, infarto do miocárdio, hipotensão, hipofosfatemia e abuso de substâncias. Esses itens exigem confirmação na bula, pois algumas associações (como doença coronariana) podem refletir contexto de uso e não contraindicação real.
+- **Interações medicamentosas**: foram identificadas 100 interações; entre as listadas, as de gravidade **maior** envolvem **amiodarona**, **anlodipino** e **fenofibrato**. Há interações **moderadas** com, por exemplo, nifedipino, omeprazol, paclitaxel, zidovudina, etanol, aprepitanto, apalutamida e armodafinila. Os dados compilados indicam que inibidores fortes da CYP3A4 elevam a exposição à sinvastatina e o risco de miopatia e rabdomiólise.
+- **Populações específicas**: o uso pediátrico deve ser feito sob supervisão de especialista. Em pessoas com HIV em uso de esquemas com inibidores de protease ou cobicistate, a sinvastatina geralmente deve ser evitada, e há relatos de caso de rabdomiólise nessa combinação.
 
----
+Para advertências formais de uso, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Existem múltiplos ensaios clínicos de Phase 3 concluídos — incluindo estudos que avaliaram sinvastatina diretamente em FH heterozigótica e homozigótica — corroborados pelas diretrizes internacionais mais recentes (ACC/AHA 2026, AACE/ACE 2017) e por revisão sistemática Cochrane. A pontuação TxGNN de 99,63% e o nível de evidência L1 (≥2 Phase 3 RCTs concluídos) conferem alta confiança à previsão; trata-se da indicação com suporte científico mais robusto no portfólio previsto para este fármaco.
+- Há vários ensaios de Phase 3 concluídos em hipercolesterolemia familiar, com dois deles incluindo a sinvastatina diretamente (ENHANCE e o estudo em adolescentes), além de revisões Cochrane e diretrizes. Trata-se, na prática, de uso já consolidado e próximo da indicação original, e não de reposicionamento genuíno.
+- O mercado brasileiro não tem registros válidos, e faltam dados de bula; por isso a decisão exige cautela. Note-se também que o ENHANCE não mostrou benefício adicional da ezetimiba sobre a progressão da aterosclerose, o que não questiona o efeito da sinvastatina sobre o LDL-C.
 
 **Para prosseguir, é necessário:**
-- Verificar o status de registro na ANVISA: os dados disponíveis indicam ausência de produtos de sinvastatina registrados no Brasil (0 licenças), o que requer investigação e eventual processo de regularização regulatória
-- Obter dados completos de segurança (advertências, contraindicações, interações medicamentosas) a partir da bula aprovada por agência regulatória de referência (FDA/EMA/ANVISA)
-- Definir protocolo de monitoramento para populações especiais: crianças e adolescentes (10–17 anos) e pacientes com HoFH (onde a resposta à sinvastatina em monoterapia é limitada e estratégias combinadas são necessárias)
-- Considerar interações medicamentosas clinicamente relevantes (ex.: inibidores de CYP3A4, fibratos, niacina) no contexto de uso combinado frequente em FH
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), pois os dados atuais de segurança vêm só de grafo de conhecimento e de interações.
+- Confirmar o mecanismo de ação em fonte oficial (DrugBank).
+- Verificar a situação regulatória: todos os 20 registros estão cancelados, então é preciso avaliar se há novo registro ou alternativa disponível (outras estatinas) no Brasil.
+- Definir guardrails de segurança: monitoramento de miopatia e função hepática, controle de doses, revisão de interações via CYP3A4 e protocolo para uso pediátrico sob especialista.
+- Esclarecer o papel isolado da sinvastatina nos ensaios em que ela é apenas terapia de base.
+
+**Observação sobre as demais previsões do modelo:** as outras indicações previstas (infarto de tronco encefálico, deficiência da proteína de transferência de ésteres de colesterol, hipercolesterolemia por deficiência de colesterol 7-alfa-hidroxilase, amiloidose ABri e um transtorno do neurodesenvolvimento raro) não têm ensaios clínicos nem literatura direta e permanecem em **Hold**. Para HIV, as evidências tratam de dislipidemia e interações medicamentosas, não de eficácia antiviral, e um estudo piloto não detectou atividade anti-HIV da sinvastatina. A hipercolesterolemia autossômica dominante tem respaldo equivalente ao da hipercolesterolemia familiar (Proceed with Guardrails).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

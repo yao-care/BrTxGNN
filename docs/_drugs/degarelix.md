@@ -2,7 +2,7 @@
 layout: default
 title: Degarelix
 parent: Apenas Predição do Modelo (L5)
-nav_order: 213
+nav_order: 254
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,97 +29,61 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-O skill é sobre pipeline técnico (treinamento/deployment), não sobre escrita de relatórios — as instruções do sistema já cobrem completamente o formato necessário. Prosseguindo com o relatório:
-
----
-
-# Degarelix: Do câncer de próstata à hipertricose
+# Degarelix: Do uso original à hipertricose (previsão do modelo)
 
 ## Resumo em Uma Frase
 
-Degarelix é um antagonista do receptor de GnRH aprovado para o tratamento do câncer de próstata avançado, suprimindo a produção de testosterona ao bloquear o eixo hipotálamo-hipófise-gônada.
-O modelo TxGNN prevê que pode ser eficaz para **Hipertricose (hypertrichosis)**, com pontuação de **99,99%**; contudo, esta previsão não apresenta **nenhum ensaio clínico** nem **nenhuma publicação** de suporte — nível de evidência **L5**, exclusivamente baseado no modelo computacional.
-É importante destacar que, entre as 10 previsões analisadas neste Evidence Pack, a única com conexão mecanística biologicamente plausível é a **puberdade precoce central (rank 9)**, que compartilha diretamente o eixo GnRH do fármaco.
+Degarelix é um antagonista do receptor de GnRH. Não há indicação original registrada no Brasil nos dados compilados para este relatório.
+O modelo TxGNN prevê que pode ser eficaz para **Hipertricose (hypertrichosis)**, mas **não há ensaios clínicos nem publicações** apoiando esta direção; a previsão é puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Câncer de próstata avançado (terapia de privação androgênica) |
+| Indicação Original | Não disponível nos dados compilados (nenhum registro na ANVISA) |
 | Nova Indicação Prevista | Hipertricose (hypertrichosis) |
 | Pontuação de Previsão TxGNN | 99,99% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Degarelix atua como antagonista competitivo de alta afinidade dos receptores de GnRH (Hormônio Liberador de Gonadotrofinas) na adeno-hipófise. Ao contrário dos agonistas de GnRH (como leuprolida), que provocam um aumento transitório inicial de LH/FSH antes da dessensibilização, Degarelix bloqueia os receptores imediatamente, suprimindo a produção de testosterona a níveis de castração em 24–72 horas sem o efeito de *flare* inicial. Este é o fundamento do seu uso aprovado no câncer de próstata hormônio-sensível.
+Atualmente, não há dados detalhados sobre o mecanismo de ação registrados nos dados compilados. Segundo informações conhecidas, o degarelix é um antagonista do receptor de GnRH: suprime LH e FSH e, com isso, reduz a testosterona e os androgênios derivados.
 
-A hipertricose — crescimento excessivo de pelos em qualquer região do corpo — é clinicamente distinta do hirsutismo. Enquanto o hirsutismo é **andrógeno-dependente** (causado por excesso de andrógenos), a hipertricose tem origem predominantemente **não andrógeno-dependente**, associada a causas genéticas, medicamentosas (minoxidil, ciclosporina, fenitoína) ou idiopáticas. O mecanismo de supressão do eixo GnRH-testosterona do Degarelix, portanto, não endereça a fisiopatologia central da hipertricose.
+A relação com a nova indicação é fraca. A hipertricose, em geral, não depende de androgênios (diferente do hirsutismo), de modo que a supressão androgênica não tem justificativa mecanística clara. A pontuação muito alta do TxGNN (0,9999) reflete apenas uma associação baseada em grafo, sem estudos que a sustentem.
 
-A alta pontuação do TxGNN para esta previsão é provavelmente um artefato de propagação de sinal no grafo de conhecimento, via a aresta "testosterona → folículo piloso", gerando uma associação estatística sem correspondência biológica direta com a forma não androgênica da doença. Este é um exemplo típico de *pathway confounding* em modelos de aprendizado em grafos. Para referência comparativa: a **puberdade precoce central (rank 9)** é a única das 10 previsões com mecanismo de ação direto — essa condição é GnRH-dependente e o seu tratamento atual já utiliza moduladores do mesmo eixo.
+Outras previsões do modelo seguem o mesmo padrão: hipertricose congênita de Ambras (ligada a rearranjos que afetam o TRPS1, fora do eixo androgênico), síndromes malformativas, anomalias genéticas da haste capilar e tricomegalia familiar. Em todas, a previsão não tem respaldo clínico. As urticárias (alérgica e ao frio) merecem cautela: antagonistas de GnRH podem ativar mastócitos (via MRGPRX2), de modo que o fármaco poderia causar, e não tratar, esses quadros.
 
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados para Degarelix em hipertricose.
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada para Degarelix em hipertricose.
+A previsão biologicamente mais coerente do conjunto é a **puberdade precoce central** (pontuação de 99,67%), por envolver diretamente o eixo hipotálamo-hipófise-gonadal. Ainda assim, não há estudos pediátricos nos dados e os agonistas de depósito são o padrão estabelecido. A puberdade precoce familiar limitada ao sexo masculino, por sua vez, é causada por mutações ativadoras do LHCGR, a jusante do eixo GnRH-LH, e o degarelix provavelmente seria ineficaz.
 
 ## Informações de Comercialização no Brasil
 
-Degarelix possui **1 registro ativo** na ANVISA com situação comercializada confirmada. Os dados detalhados do registro (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste Evidence Pack — é necessário consultar a base de dados da ANVISA diretamente.
-
-> Para referência: internacionalmente, Degarelix é comercializado como **Firmagon®** (Ferring Pharmaceuticals), na forma de pó liofilizado para solução injetável subcutânea (dose de ataque 240 mg; manutenção 80 mg a cada 28 dias).
-
-## Citotoxicidade
-
-| Item | Conteúdo |
-|------|------|
-| Classificação de Citotoxicidade | **Terapia hormonal** (antagonista de GnRH) — não é citotóxico convencional |
-| Risco de Mielossupressão | Baixo (mecanismo hormonal, sem ação mielossupressora direta) |
-| Classificação de Emetogenicidade | Baixa |
-| Itens de Monitoramento | PSA, testosterona sérica, intervalo QTc (risco de prolongamento), densidade mineral óssea (uso prolongado), glicemia/HbA1c (síndrome metabólica associada à privação androgênica) |
-| Proteção no Manuseio | Manipulação padrão de injetáveis; não requer precauções de citotóxico |
+O degarelix não possui registro ativo nos dados da ANVISA compilados para este relatório (situação: não comercializado; 0 registros).
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
-## Panorama Geral das 10 Previsões TxGNN
-
-Dado o padrão incomum deste Evidence Pack — onde a previsão de maior pontuação (rank 1) não é a mais clinicamente relevante —, apresenta-se abaixo o resumo analítico das 10 indicações avaliadas:
-
-| Rank | Indicação | TxGNN Score | Evidência | Avaliação Mecanística |
-|------|-----------|:-----------:|:---------:|----------------------|
-| 1 | Hipertricose | 99,99% | L5 | ❌ Não andrógeno-dependente |
-| 2 | Hipertricose de Ambras (congênita) | 99,98% | L5 | ❌ Genética X-linked (8q22) |
-| 3 | Síndrome de Dandy-Walker | 99,98% | L5 | ❌ Malformação estrutural do SNC |
-| 4 | Síndrome com componente periodontal | 99,98% | L5 | ❌ Sem ligação GnRH-periodonto |
-| 5 | Anomalia genética do haste capilar | 99,98% | L5 | ❌ Defeito de queratina |
-| 6 | Urticária alérgica | 99,97% | L5 | ❌ Mediada por IgE/mastócitos |
-| 7 | Urticária a frio | 99,86% | L5 | ❌ Induzida por frio, sem via GnRH |
-| 8 | Puberdade precoce familiar masculina | 99,84% | L5 | ❌ GnRH-independente (mut. LHCGR) |
-| **9** | **Puberdade precoce central (CPP)** | **99,67%** | **L4** | **✓ GnRH-dependente — mecanismo direto** |
-| 10 | Tricromegalia familiar isolada | 99,65% | L5 | ❌ Via FGF/EGFR, não GnRH |
-
-A **puberdade precoce central (rank 9)** destaca-se como a única candidata biologicamente coerente: o eixo GnRH é o alvo direto de Degarelix, o tratamento atual de CPP já usa agonistas de GnRH (leuprolida), e Degarelix ofereceria a vantagem teórica de supressão imediata sem *flare* inicial — razão pela qual o modelo atribui nível L4 (estudos mecanísticos) em vez de L5. Ainda assim, faltam dados clínicos específicos de Degarelix em CPP.
+- **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: síndrome do QT longo, síndrome do QT longo familiar, torsades de pointes, doença hepática, doença da vesícula biliar e deficiência de potássio.
+- **Interações medicamentosas**: foram identificadas 100 interações; as principais entre as listadas:
+  - **Graves (Major)**: cisaprida, dolasetrona (risco ligado ao prolongamento do intervalo QT).
+  - **Moderadas**: claritromicina, levofloxacino, ondansetrona, granisetrona, palonosetrona, famotidina, loperamida e diversos laxantes (bisacodil, ácido picossulfúrico, polietilenoglicol com eletrólitos, óleo de rícino, glicerina, lactitol, lactulose, citrato e hidróxido de magnésio, óleo mineral).
+  - **Leve (Minor)**: metronidazol.
+- Os dados de advertências e contraindicações da bula não estavam disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão de maior pontuação (hipertricose) é mecanisticamente incoerente — hipertricose é não andrógeno-dependente — e não possui nenhum ensaio clínico ou publicação associando Degarelix a esta condição. O padrão se repete em 9 das 10 previsões, sugerindo que o sinal do TxGNN neste caso é amplamente artefatual, provavelmente por confundimento via o nó "testosterona" no grafo de conhecimento.
+- A previsão para hipertricose tem apenas suporte computacional (L5), sem ensaios clínicos ou literatura, e o mecanismo proposto é fraco. Além disso, o fármaco não está registrado no Brasil.
 
 **Para prosseguir, é necessário:**
-- Obter dados detalhados do registro ANVISA (número do registro, bula oficial com indicações aprovadas no Brasil)
-- Obter dados completos de segurança (advertências, contraindicações da bula brasileira) para cumprir o requisito de avaliação S1
-- Avaliar separadamente a **puberdade precoce central (rank 9)** como candidata prioritária de reposicionamento, com busca sistemática de ensaios clínicos de antagonistas de GnRH de classe (cetrorelix, ganirelix) nessa indicação, como evidência indireta de classe farmacológica
-- Confirmar dados de segurança pediátrica antes de qualquer exploração em CPP
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a ausência desses dados bloqueia a triagem de segurança.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Realizar revisão sistemática da literatura sobre hipertricose e antagonistas de GnRH.
+- Se houver interesse em uma direção mais plausível, priorizar a puberdade precoce central, com revisão da literatura e avaliação de segurança pediátrica.
+- Avaliar o risco de prolongamento do QT, dadas as contraindicações do grafo e as interações graves identificadas.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

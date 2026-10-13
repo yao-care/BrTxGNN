@@ -2,7 +2,7 @@
 layout: default
 title: Sodium Lauryl Sulfate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 445
+nav_order: 592
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,81 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Lauril Sulfato de Sódio (SLS): De Excipiente Tensoativo à Agenesia da Valva Tricúspide
+# Lauril Sulfato de Sódio: De laxante a agenesia da valva tricúspide (previsão sem respaldo)
 
 ## Resumo em Uma Frase
 
-Lauril Sulfato de Sódio (SLS) é um tensoativo aniônico amplamente utilizado como excipiente farmacêutico e agente de limpeza em produtos de higiene pessoal, sem indicação terapêutica aprovada registrada.
-O modelo TxGNN prevê que pode ser eficaz para **Agenesia da Valva Tricúspide (Tricuspid Valve Agenesis)** como principal candidato, porém com pontuação mínima de **50%** — correspondente ao limite inferior do modelo — **sem nenhum ensaio clínico** e **sem publicações** que apoiem esta direção.
-
----
+Lauril sulfato de sódio (Sodium lauryl sulfate) é um surfactante aniônico, originalmente usado como laxante (amolecedor de fezes).
+O modelo TxGNN prevê que pode ser eficaz para **agenesia da valva tricúspide (tricuspid valve agenesis)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A pontuação de 0,5 é neutra e não traz informação preditiva.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Nenhuma indicação terapêutica aprovada (uso como excipiente farmacêutico e agente tensoativo) |
-| Nova Indicação Prevista | Agenesia da Valva Tricúspide (Tricuspid Valve Agenesis) |
-| Pontuação de Previsão TxGNN | 50,00% (limite inferior absoluto do modelo) |
+| Indicação Original | Laxantes |
+| Nova Indicação Prevista | Agenesia da valva tricúspide (tricuspid valve agenesis) |
+| Pontuação de Previsão TxGNN | 50,00% (neutra) |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 2 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Lauril Sulfato de Sódio é um tensoativo aniônico sem mecanismo de ação terapêutico documentado. Seu uso é predominantemente como excipiente em formulações farmacêuticas (agente umectante, emulsificante e solubilizante), em dentifrícios, xampus e produtos de higiene — não como agente ativo com finalidade clínica definida. Os dados de MOA estão ausentes neste Evidence Pack, o que inviabiliza qualquer análise de relacionamento mecanístico formal.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o lauril sulfato de sódio é um surfactante aniônico, historicamente usado como amolecedor de fezes/laxante (em enemas e como excipiente), e sua ação laxante é a única indicação documentada no Brasil.
 
-A agenesia da valva tricúspide é uma malformação cardíaca congênita causada por falha no desenvolvimento embrionário do coração direito. Trata-se de um defeito estrutural cuja origem envolve distúrbios na morfogênese valvular durante a embriogênese — um processo mediado por vias moleculares complexas (como sinalização Notch, BMP e GATA) completamente alheias à ação de surfactantes. O SLS não possui qualquer registro na literatura de modulação dessas vias de desenvolvimento.
+**Não há vínculo mecanístico crível** com a nova indicação. A agenesia da valva tricúspide é uma malformação estrutural congênita, que não é tratável por farmacoterapia, e o fármaco não tem ação conhecida sobre a embriogênese das valvas cardíacas. A pontuação de 0,5 é neutra e não há ensaios nem literatura de apoio. A previsão deve ser considerada um artefato computacional.
 
-A pontuação de 0,5 (50%) representa o **limite inferior do modelo TxGNN**, sinalizando ausência de sinal preditivo real. A interpretação mais provável é que este fármaco simplesmente não foi mapeado de forma significativa no grafo de conhecimento, resultando em predições de baixíssima confiança para múltiplas indicações sem relação biológica coerente. Esta análise abrange as 10 indicações previstas, todas com pontuação idêntica de 50% e classificação L5.
+As demais previsões do modelo (rank 2 a 10) também têm pontuação 0,5, nível L5 e recomendação Hold:
 
----
+| Posição | Doença prevista | Avaliação |
+|------|------|------|
+| 2 | Síndrome nefrótica esporádica resistente a esteroides com esclerose mesangial difusa | Sem mecanismo plausível; o efeito de ruptura de membranas do surfactante é um sinal contrário |
+| 3 | Síndrome costela curta-polidactilia, tipo Majewski | Ciliopatia genética; sem vínculo |
+| 4 | Síndrome costela curta-polidactilia, tipo Verma-Naumoff | Ciliopatia genética; sem vínculo |
+| 5 | Síndrome nefrótica esporádica resistente a esteroides com hialinose segmentar e focal | Sem mecanismo plausível |
+| 6 | Síndrome nefrótica familiar resistente a esteroides com esclerose mesangial difusa | Podocitopatia monogênica; sem vínculo |
+| 7 | Necrólise epidérmica tóxica | O fármaco é irritante cutâneo conhecido; sinal de risco, não de oportunidade |
+| 8 | Mesocardia | Anomalia estrutural; sem vínculo |
+| 9 | Insuficiência aórtica congênita | Defeito valvar estrutural; sem vínculo |
+| 10 | Síndrome do intestino curto secundária | Única relação tangencial (trato gastrointestinal), mas um efeito laxante tende a agravar diarreia e perda de líquidos |
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada à indicação prevista de maior ranking (Agenesia da Valva Tricúspide).
+Atualmente não há literatura relacionada.
 
-> **Nota de Análise**: Para a 7ª indicação prevista (Necrólise Epidérmica Tóxica — TEN), foram recuperadas 4 publicações, porém **nenhuma** apoia o uso de SLS como tratamento. Três delas (PMID 1262065, 129438, 4271807) tratam de genética e purificação de toxinas estafilocócicas. A quarta (PMID 6499417) utiliza o próprio SLS como **modelo experimental de irritante cutâneo** para testar cremes protetores de barreira — reforçando que o SLS é reconhecido como agente lesivo à pele, não como tratamento.
+## Informações de Comercialização no Brasil
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada | Situação |
+|---------|------|------|-----------|------|
+| Registro 106890199 | ENEMIN | Não informada | Laxantes | Cancelado |
+| Registro 100431404 | MINILAX | Não informada | Laxantes | Cancelado |
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
 
-> **Alerta de Segurança Baseado em Análise de Indicações**: A análise das rationale de reposicionamento identificou dois contextos em que o SLS pode representar **risco de dano adicional**, configurando potencial contraindicação — não indicação terapêutica:
->
-> - **Necrólise Epidérmica Tóxica (TEN)**: O SLS é reconhecido como irritante de pele e mucosas. Em pacientes com TEN, onde a barreira cutânea está gravemente comprometida, sua aplicação pode agravar a lesão epitelial.
-> - **Síndrome do Intestino Curto Secundária**: O SLS é documentado como agente lesivo à mucosa intestinal. Em pacientes com intestino curto, cuja mucosa é vulnerável, o uso pode aprofundar o dano à barreira entérica.
-
----
+Observações dos dados compilados para este relatório:
+- Não foram encontradas interações medicamentosas registradas.
+- O lauril sulfato de sódio é um irritante cutâneo conhecido que danifica a barreira epidérmica; isso é especialmente relevante para a necrólise epidérmica tóxica, na qual o uso seria potencialmente prejudicial.
+- Por ser surfactante, pode comprometer a integridade da mucosa, o que preocupa em condições como a síndrome do intestino curto.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Todas as 10 indicações previstas pelo TxGNN apresentam pontuação mínima (50%), nível de evidência L5 e ausência total de ensaios clínicos ou literatura de suporte. A análise mecanística confirma que o SLS — um tensoativo sem alvo terapêutico definido — não possui plausibilidade biológica para nenhuma das indicações listadas. Em pelo menos dois casos (TEN e síndrome do intestino curto), o perfil irritante do composto indica risco de dano, tornando o reposicionamento contraindicado, não indicado.
+Não há ensaios clínicos, literatura nem mecanismo plausível; a pontuação TxGNN é neutra (0,5) e o nível de evidência é L5. Além disso, todos os registros no Brasil estão cancelados, de modo que não há caminho regulatório de desenvolvimento, e há sinais de possível dano em algumas indicações previstas.
 
 **Para prosseguir, seria necessário:**
-- Confirmar se existe algum contexto de uso terapêutico estabelecido para o SLS (ex.: espermicida, agente esclerosante, tratamento de infecções orais) e reiniciar a análise com essa indicação original como âncora
-- Coletar dados de MOA via DrugBank API para verificar se há alvos moleculares mapeáveis
-- Investigar a causa da pontuação mínima uniforme no TxGNN: o mais provável é que o SLS não tenha representação adequada no grafo de conhecimento do modelo, invalidando as predições atuais
-- Avaliar se o DrugBank ID DB00815 corresponde corretamente ao SLS na versão do grafo utilizada
+- Obter e analisar a bula (advertências e contraindicações) no site da ANVISA, pois a ausência desses dados impede a triagem de segurança.
+- Consultar o DrugBank para obter os dados de mecanismo de ação.
+- Identificar um racional biológico plausível e evidência pré-clínica antes de qualquer reconsideração.
+- Reavaliar a viabilidade regulatória, dado que não há registro válido no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

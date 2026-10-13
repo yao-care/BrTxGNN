@@ -2,7 +2,7 @@
 layout: default
 title: Rivaroxaban
 parent: Apenas Predição do Modelo (L5)
-nav_order: 430
+nav_order: 571
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,82 +29,62 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Rivaroxaban: Da anticoagulação à artrite reumatoide
+# Rivaroxabana: Do uso anticoagulante à artrite reumatoide (previsão)
 
 ## Resumo em Uma Frase
 
-Rivaroxaban (Xarelto®) é um inibidor direto do Fator Xa, amplamente utilizado para prevenção e tratamento de tromboembolismo venoso (TVP/EP) e prevenção de AVC em fibrilação atrial não valvar.
-O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid Arthritis)**, atualmente sem ensaios clínicos registrados e com **3 publicações** de relevância indireta apoiando esta direção.
-
----
+Rivaroxabana é um inibidor direto do fator Xa, um anticoagulante oral. Não há indicação original registrada na ANVISA nos dados compilados para este relatório.
+O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid Arthritis)**, mas atualmente há **0 ensaios clínicos** e **4 publicações** indiretas, nenhuma delas testando o fármaco nessa doença.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anticoagulação (TVP, embolia pulmonar, prevenção de AVC em FA) — dados de registro ANVISA não disponíveis neste pacote |
+| Indicação Original | Não disponível nos dados compilados (nenhum registro na ANVISA) |
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
 | Pontuação de Previsão TxGNN | 99,57% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente não há dados detalhados sobre o mecanismo de ação disponíveis neste pacote de evidências. Com base no conhecimento farmacológico estabelecido, rivaroxaban é um inibidor seletivo e direto do Fator Xa, bloqueando a via comum da cascata de coagulação e impedindo a conversão de protrombina em trombina sem necessidade de cofatores (como antitrombina).
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a rivaroxabana é um inibidor do fator Xa da coagulação, usado como anticoagulante oral na prevenção e no tratamento de eventos tromboembólicos.
 
-A hipótese mecanística para artrite reumatoide fundamenta-se na ativação da via de coagulação no tecido sinovial inflamado: o Fator Xa pode sinalizar via receptor ativado por protease-2 (PAR-2), ativando a via NF-κB pró-inflamatória, que é central na patogênese da AR. Estudos básicos demonstraram que a cascata de coagulação é ativada na sinóvia de pacientes com AR, com deposição de fibrina e expressão aumentada de fatores de coagulação. A inibição do Fator Xa poderia, em teoria, interromper esse ciclo de amplificação inflamatória.
-
-Entretanto, essa conexão mecanística permanece inteiramente no domínio da ciência básica e da hipótese. Não há nenhum ensaio clínico registrado investigando rivaroxaban especificamente em AR, e as publicações identificadas são periféricas à indicação proposta. O alto score TxGNN reflete similaridade de perfil biológico no grafo de conhecimento, mas **não constitui evidência clínica de eficácia**.
-
----
+A relação com a artrite reumatoide é, no máximo, indireta. Uma hipótese plausível é a ativação da coagulação e da via da trombina na inflamação crônica, e a literatura recuperada discute a geração de trombina em doenças autoimunes. Essa ligação é especulativa e **não sustenta um efeito modificador da doença**. A pontuação alta do modelo (99,57%) não é acompanhada por evidência clínica ou mecanística.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Lab/Translacional | La Revue de médecine interne | Teste de geração de trombina (TGA) como ferramenta para avaliar hipercoagulabilidade em doenças autoimunes, incluindo síndrome antifosfolipídica; sugere que coagulação e inflamação se sobrepõem em DAI |
-| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Review | JAMA | Revisão diagnóstico/tratamento de TVP de membros inferiores; incidência de recorrência de VTE de 20–36% em 10 anos; não aborda AR |
-| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Observacional | PLoS One | Aderência a rivaroxaban vs. apixaban em pacientes com FA não valvar; relevância para AR apenas indireta (dados farmacoepidemiológicos de rivaroxaban) |
-
----
-
-## Informações de Comercialização no Brasil
-
-Os dados detalhados dos registros (número ANVISA, nome comercial, forma farmacêutica e texto de indicação aprovada) não estão disponíveis no pacote de evidências atual. Conforme os metadados regulatórios, rivaroxaban possui **20 registros ativos** na ANVISA e encontra-se **comercializado no Brasil**.
-
----
+|------|-----|------|------|---------|
+| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Revisão | JAMA | Diagnóstico e tratamento do tromboembolismo venoso de membros inferiores; incidência de TVP de 88 a 112 por 100.000 pessoas-ano. Não aborda artrite reumatoide. |
+| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Revisão | La Revue de médecine interne | Ensaio de geração de trombina em doenças autoimunes, usado para avaliar hipercoagulabilidade. Link indireto com a hipótese mecanística. |
+| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Coorte | PloS one | Adesão à rivaroxabana versus apixabana em fibrilação atrial não valvar. Não relacionado à artrite reumatoide. |
+| [41918541](https://pubmed.ncbi.nlm.nih.gov/41918541/) | 2026 | Relato de caso | Cureus | Infarto cerebral tromboembólico perioperatório em paciente idosa com artrite reumatoide em uso de corticoide oral; a artrite é apenas comorbidade. |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
----
+- **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: insuficiência hepática, doença renal, piureter, doença hepática, doença da vesícula biliar e distúrbio da coagulação sanguínea.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; as 20 primeiras listadas incluem, entre as de gravidade **Maior**: ácido acetilsalicílico, cobicistate, deferasirox, ibritumomabe tiuxetana e tositumomabe (I-131). Entre as de gravidade **Moderada**: aprepitanto, dexametasona, cimetidina, claritromicina, eliglustate, miconazol, clotrimazol, dexfenfluramina, fenfluramina, rolapitanto, sibutramina, troglitazona, iodeto I-131, iodeto I-123 e sugamadex.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão TxGNN apresenta pontuação elevada (99,57%), porém não há ensaios clínicos registrados e as 3 publicações identificadas não suportam diretamente a eficácia de rivaroxaban em artrite reumatoide. O mecanismo proposto (inibição de Fator Xa → redução de sinalização PAR-2/NF-κB) é biologicamente plausível, mas permanece sem validação clínica, configurando nível de evidência L5.
+A previsão é apenas do modelo (L5): não há ensaios clínicos e a literatura recuperada não testa a rivaroxabana na artrite reumatoide. Além disso, o fármaco não tem registro vigente no Brasil nos dados compilados, e a segurança em artrite reumatoide (risco de sangramento, interações) não foi avaliada.
 
-> **Nota:** A indicação de rank 3 — **HIV infectious disease** (score 99,17%, L4) — apresenta substancialmente mais evidências reais: 1 ensaio clínico concluído (Fase 2, NCT00786422) e 7 publicações sobre interações farmacocinéticas rivaroxaban–antirretrovirais. Essa indicação pode merecer avaliação prioritária em relatório separado, com atenção especial ao risco de DDI com ritonavir/cobicistat (inibidores de CYP3A4/P-gp).
-
-**Para prosseguir com AR, é necessário:**
-- Estudos pré-clínicos específicos em modelos de AR (ex.: collagen-induced arthritis) com inibidores de Fator Xa
-- Revisão sistemática sobre o papel da coagulação na patogênese da AR e potencial intervenção anticoagulante
-- Dados de farmacovigilância de pacientes com AR que usam rivaroxaban concomitantemente por outras indicações (FA, TVP)
-- Perfil completo de segurança: advertências ANVISA, contraindicações e interações medicamentosas
-- Detalhamento dos 20 registros ANVISA (indicações aprovadas, formas farmacêuticas disponíveis)
+**Para prosseguir, é necessário:**
+- Obter as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança)
+- Obter dados do mecanismo de ação do fármaco (DrugBank)
+- Confirmar a situação regulatória no Brasil e a indicação original
+- Realizar estudos pré-clínicos ou de prova de conceito que testem a inibição do fator Xa/trombina na artrite reumatoide
+- Avaliar o risco de sangramento e as interações medicamentosas em pacientes com artrite reumatoide (por exemplo, uso concomitante de AINEs e corticoides)
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

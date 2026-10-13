@@ -2,7 +2,7 @@
 layout: default
 title: Bromazepam
 parent: Apenas Predição do Modelo (L5)
-nav_order: 135
+nav_order: 156
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,79 +29,50 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Bromazepam: Do transtorno de ansiedade ao transtorno de enxaqueca
+# Bromazepam: Da ansiedade à enxaqueca (previsão do modelo)
 
 ## Resumo em Uma Frase
 
-Bromazepam é um benzodiazepínico originalmente utilizado no tratamento de transtornos de ansiedade. O modelo TxGNN prevê que pode ser eficaz para **Transtorno de Enxaqueca (Migraine Disorder)**, porém atualmente conta com apenas **1 ensaio clínico de relevância baixa (grau C)** e **nenhuma publicação** diretamente relacionada a essa indicação.
-
----
+Bromazepam é um benzodiazepínico, classe de medicamentos usada em geral para ansiedade e tensão. Os dados compilados para este relatório não trazem a indicação original aprovada no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Transtornos de ansiedade (benzodiazepínico ansiolítico) |
-| Nova Indicação Prevista | Transtorno de Enxaqueca (Migraine Disorder) |
-| Pontuação de Previsão TxGNN | 99.06% |
+| Indicação Original | Não informada nos dados compilados |
+| Nova Indicação Prevista | Enxaqueca (migraine disorder) |
+| Pontuação de Previsão TxGNN | 99,06% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Bromazepam pertence à classe dos benzodiazepínicos e atua como modulador alostérico positivo do receptor GABA-A, potencializando a neurotransmissão inibitória no sistema nervoso central. Esse mecanismo confere-lhe propriedades ansiolíticas, sedativas e miorrelaxantes, sendo amplamente utilizado no tratamento de transtornos de ansiedade.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o bromazepam é um benzodiazepínico que atua como modulador alostérico positivo dos receptores GABA-A, reforçando a neurotransmissão inibitória.
 
-A conexão teórica entre o mecanismo GABAérgico e a enxaqueca baseia-se na hipótese de que a modulação GABAérgica poderia influenciar a **depressão alastrante cortical (CSD)** — considerada um mecanismo central na fisiopatologia da aura da enxaqueca. De fato, antiepilépticos com ação GABAérgica, como topiramato e valproato, são utilizados com eficácia comprovada na profilaxia da enxaqueca.
+Mecanisticamente, isso poderia reduzir a hiperexcitabilidade cortical e trigeminovascular associada à enxaqueca. Também poderia aliviar a ansiedade e a tensão muscular, que podem coexistir com as crises ou desencadeá-las.
 
-Contudo, essa ligação mecanística é **extremamente indireta**. O topiramato e o valproato exercem seus efeitos antimigrânea por meio de múltiplos mecanismos simultâneos (bloqueio de canais de Na⁺, ação antiglutamatérgica e potencialização do GABA), e não apenas pela modulação GABAérgica isolada típica dos benzodiazepínicos. Além disso, estudos epidemiológicos sugerem uma associação positiva entre uso de benzodiazepínicos de curta ação e incidência de enxaqueca, indicando possível efeito adverso. O risco de dependência e tolerância dos benzodiazepínicos constitui uma barreira adicional, tornando-os inadequados para o tratamento crônico da enxaqueca.
-
----
-
-## Evidências de Ensaios Clínicos
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT04410536](https://clinicaltrials.gov/study/NCT04410536) | Phase 4 | Concluído | 25 | Programa de retirada domiciliar combinado com abordagem comportamental para cefaleia por uso excessivo de medicamentos durante a pandemia de COVID-19. Bromazepam (1,5 mg 3x/dia) foi utilizado apenas como componente de um esquema de transição multimedicamentoso (com Prednisona + Pantoprazol), visando reduzir sintomas de abstinência — **não como tratamento direto da enxaqueca**. Relevância: **Baixa (C)**. |
-
-> ⚠️ **Nota importante:** O único ensaio clínico identificado não investiga diretamente a eficácia do Bromazepam no tratamento da enxaqueca. O fármaco foi utilizado apenas como coadjuvante em um protocolo de retirada de medicamentos, não sendo possível extrair qualquer evidência de eficácia antimigrânea a partir deste estudo.
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
-
----
-
-## Informações de Comercialização no Brasil
-
-> As informações detalhadas de registro (número de registro, nome comercial, forma farmacêutica, indicação aprovada) não estão disponíveis no conjunto de dados atual. O fármaco possui **20 registros** ativos no mercado.
-
----
+É preciso cautela. A pontuação alta (0,99) é apenas uma previsão computacional, sem ensaios clínicos ou literatura que a sustentem. Benzodiazepínicos não são recomendados como tratamento padrão da enxaqueca, por causa de dependência, tolerância, sedação e risco de cefaleia por uso excessivo de medicamentos. A previsão pode refletir sobretudo a semelhança de rede com outros agentes GABAérgicos ou ansiolíticos, e não evidência específica para enxaqueca.
 
 ## Considerações de Segurança
 
-> Consulte a bula para informações de segurança. Os dados de advertências principais, contraindicações e interações medicamentosas não estão disponíveis no conjunto de dados atual e devem ser obtidos diretamente da bula oficial.
-
----
+Consulte a bula para informações de segurança. Não há dados de interações medicamentosas nem de contraindicações nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Embora a pontuação do TxGNN seja elevada (99,06%), não há sustentação clínica significativa para o reposicionamento do Bromazepam para enxaqueca. O único ensaio clínico identificado (NCT04410536) não investiga o fármaco como tratamento primário para enxaqueca, e a literatura científica é completamente ausente nesta direção. A ligação mecanística entre a modulação GABAérgica pura dos benzodiazepínicos e a fisiopatologia da enxaqueca é indireta e insuficiente para justificar avanço. Adicionalmente, o perfil de risco intrínseco dos benzodiazepínicos — dependência, tolerância e possível agravamento da cefaleia por uso crônico — constitui uma barreira farmacológica fundamental.
+A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos nem literatura. O fármaco não tem registro ativo no Brasil e o perfil de risco dos benzodiazepínicos pesa contra o uso na enxaqueca.
 
 **Para prosseguir, é necessário:**
-- Estudos pré-clínicos demonstrando efeito direto do Bromazepam sobre mecanismos da enxaqueca (depressão alastrante cortical, sistema trigeminovascular)
-- Dados detalhados do mecanismo de ação (MOA) com análise de relevância específica para a fisiopatologia da enxaqueca
-- Avaliação formal de risco-benefício considerando o potencial de dependência e o fenômeno de cefaleia de rebote associado aos benzodiazepínicos
-- Obtenção dos dados de segurança (advertências, contraindicações, interações medicamentosas) da bula oficial
-- Caso as etapas anteriores sejam favoráveis: ensaio clínico piloto com Bromazepam como intervenção primária para enxaqueca, com grupo controle adequado
+- Obter a bula da ANVISA, com advertências e contraindicações, para a triagem de segurança.
+- Confirmar a situação regulatória do bromazepam no Brasil e a indicação original aprovada.
+- Obter dados de mecanismo de ação, por exemplo no DrugBank, para analisar a ligação mecanística com a enxaqueca.
+- Fazer busca sistemática de ensaios clínicos e literatura sobre benzodiazepínicos na enxaqueca.
+- Avaliar a viabilidade frente às alternativas já estabelecidas e ao risco de dependência e de cefaleia por uso excessivo de medicamentos.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

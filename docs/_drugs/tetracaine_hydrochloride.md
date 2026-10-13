@@ -2,7 +2,7 @@
 layout: default
 title: Tetracaine Hydrochloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 471
+nav_order: 625
 evidence_level: L5
 indication_count: 0
 ---

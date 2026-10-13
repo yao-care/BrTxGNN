@@ -2,7 +2,7 @@
 layout: default
 title: Alcaftadina
 parent: Apenas Predição do Modelo (L5)
-nav_order: 34
+nav_order: 37
 evidence_level: L5
 indication_count: 0
 ---

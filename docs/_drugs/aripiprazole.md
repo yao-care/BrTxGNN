@@ -2,7 +2,7 @@
 layout: default
 title: Aripiprazole
 parent: Evidência Alta (L1-L2)
-nav_order: 70
+nav_order: 76
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,85 +29,101 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Aripiprazole: Da esquizofrenia ao transtorno afetivo maior
+# Aripiprazol: Do uso como antipsicótico ao transtorno afetivo maior
 
 ## Resumo em Uma Frase
 
-Aripiprazole é um antipsicótico atípico de segunda geração reconhecido internacionalmente pelo tratamento de esquizofrenia e transtorno bipolar, porém **sem qualquer registro junto à ANVISA** no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Transtorno Afetivo Maior (Major Affective Disorder)**, com **mais de 10 ensaios clínicos de Fase 3/4 concluídos** apoiando diretamente essa indicação.
-A ausência de registro nacional representa uma oportunidade concreta de reposicionamento, visto que a evidência clínica internacional já atingiu nível L1.
-
----
+Aripiprazol é um antipsicótico, registrado na ANVISA na classe dos antipsicóticos.
+O modelo TxGNN prevê que pode ser eficaz para **transtorno afetivo maior (major affective disorder)**,
+atualmente com **37 ensaios clínicos** e **19 publicações** apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Esquizofrenia e transtorno bipolar (aprovação internacional; sem registro ANVISA) |
-| Nova Indicação Prevista | Transtorno Afetivo Maior (Major Affective Disorder) |
+| Indicação Original | Antipsicóticos |
+| Nova Indicação Prevista | Transtorno afetivo maior (major affective disorder) |
 | Pontuação de Previsão TxGNN | 99,62% |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros ANVISA | 0 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 20 |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Aripiprazole pertence à classe dos antipsicóticos atípicos de segunda geração e possui um perfil farmacológico multimodal distinto. Embora dados detalhados do MOA não estejam disponíveis no pacote de evidências atual, com base no conhecimento farmacológico consolidado, sabe-se que o aripiprazole atua como **agonista parcial dos receptores D2/D3 de dopamina e do receptor 5-HT1A de serotonina**, além de **antagonista do receptor 5-HT2A**. Este perfil — único entre os antipsicóticos, que em geral são antagonistas puros de D2 — permite estabilizar os circuitos dopaminérgicos e serotoninérgicos de forma modulada, sem bloqueio total, o que é especialmente relevante para os transtornos do humor.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o aripiprazol é um agonista parcial dos receptores D2 e 5-HT1A e antagonista do 5-HT2A. Esse perfil sustenta o uso como terapia adjuvante a antidepressivos no transtorno depressivo maior, além de ter relevância para transtornos de humor bipolares.
 
-O transtorno afetivo maior engloba condições como o transtorno depressivo maior (TDM) e o transtorno bipolar, ambos caracterizados por desregulação dos sistemas dopaminérgico e serotoninérgico — exatamente os alvos primários do aripiprazole. A sobreposição fisiopatológica entre os transtornos psicóticos (indicação de origem) e os transtornos afetivos maiores é amplamente reconhecida, com circuitos mesolímbicos e córtico-prefrontais compartilhados. O agonismo parcial em 5-HT1A, em particular, está associado à redução da ansiedade e da anedonia, sintomas centrais na depressão maior.
+A relação entre a indicação original e a nova é próxima: os antipsicóticos atípicos modulam as vias dopaminérgica e serotoninérgica, que também participam da regulação do humor. Em doses mais baixas que as usadas na psicose, esses fármacos funcionam como potencializadores de antidepressivos em pacientes com resposta inadequada.
 
-No contexto internacional, o aripiprazole já possui aprovação pelo FDA (EUA) como **terapia adjuvante ao antidepressivo em TDM** e para o **tratamento do transtorno bipolar tipo I** — indicações que compõem diretamente o espectro de "transtorno afetivo maior". A inexistência de registro na ANVISA não reflete uma lacuna científica, mas sim uma lacuna regulatória de acesso. Os ensaios clínicos de Fase 3 identificados, com milhares de participantes, confirmam esta indicação com o mais alto nível de evidência disponível.
-
----
+Vale ressaltar que esta é, em grande parte, uma indicação já estabelecida (uso adjuvante no transtorno depressivo maior), e não um reposicionamento inédito. A situação de bula deve ser verificada frente aos registros regionais. No Brasil, todos os registros encontrados estão cancelados, o que limita a disponibilidade de alguns produtos.
 
 ## Evidências de Ensaios Clínicos
 
+Foram selecionados os ensaios mais relevantes, priorizando Fase 3 concluídos e controlados.
+
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00095823](https://clinicaltrials.gov/study/NCT00095823) | Phase 3 | Concluído | 1.200 | Estudo duplo-cego, placebo-controlado de 14 semanas avaliando segurança e eficácia de aripiprazole como adjuvante a antidepressivo em curso em pacientes com TDM |
-| [NCT00876343](https://clinicaltrials.gov/study/NCT00876343) | Phase 3 | Concluído | 586 | Aripiprazole vs placebo como adjuvante de ISRS/IRSN em TDM; confirmou eficácia e tolerabilidade da terapia combinada |
-| [NCT02046564](https://clinicaltrials.gov/study/NCT02046564) | Phase 3 | Concluído | 412 | Combinação ASC-01 (aripiprazole + sertralina) vs sertralina em monoterapia em TDM com resposta incompleta ao antidepressivo |
-| [NCT00683852](https://clinicaltrials.gov/study/NCT00683852) | Phase 3 | Concluído | 225 | Aripiprazole em dose reduzida como adjuvante a antidepressivo em TDM com resposta inadequada; investigou perfil de dose-resposta |
-| [NCT00882362](https://clinicaltrials.gov/study/NCT00882362) | Phase 3 | Concluído | 155 | Administração de longo prazo de aripiprazole adjuvante a ISRS/IRSN em TDM; avaliou segurança e eficácia sustentada |
-| [NCT00277212](https://clinicaltrials.gov/study/NCT00277212) | Phase 4 | Concluído | 1.169 | Aripiprazole em combinação com lamotrigina no tratamento de manutenção de longo prazo do transtorno bipolar I com episódio maníaco ou misto recente |
-| [NCT02305823](https://clinicaltrials.gov/study/NCT02305823) | Phase 4 | Concluído | 203 | Comparação direta de efetividade de aripiprazole, quetiapina e ziprasidona no primeiro episódio psicótico não-afetivo (estudo PAFIP II) |
-| [NCT03423680](https://clinicaltrials.gov/study/NCT03423680) | Phase 3 | Em andamento | 390 | Aripiprazole (Abilify®) adjuvante a estabilizador do humor em episódio depressivo maior associado a transtorno bipolar I ou II sem características psicóticas |
-| [NCT01386086](https://clinicaltrials.gov/study/NCT01386086) | Phase 3 | Concluído | 10 | Aripiprazole como terapia de aumento em depressão pós-parto resistente a antidepressivos; forneceu dados iniciais de segurança nesta subpopulação |
-| [NCT07153406](https://clinicaltrials.gov/study/NCT07153406) | Phase 3 | Ainda não iniciado | 220 | Comparação de esketamina nasal vs aripiprazole (ambos + ISRS/IRSN) em TDM resistente em idosos (>60 anos); início previsto para setembro de 2025 |
-
----
+| [NCT00095823](https://clinicaltrials.gov/study/NCT00095823) | Phase 3 | Concluído | 1200 | Estudo randomizado, duplo-cego e controlado por placebo de 14 semanas; aripiprazol adjuvante a antidepressivo no transtorno depressivo maior |
+| [NCT00095758](https://clinicaltrials.gov/study/NCT00095758) | Phase 3 | Concluído | 1151 | Estudo de 14 semanas, duplo-cego e controlado por placebo, de segurança e eficácia como terapia adjuvante |
+| [NCT01421342](https://clinicaltrials.gov/study/NCT01421342) | Phase 3 | Concluído | 1522 | VAST-D: potencialização com aripiprazol vs. bupropiona vs. troca de tratamento em veteranos com depressão resistente |
+| [NCT00683852](https://clinicaltrials.gov/study/NCT00683852) | Phase 3 | Concluído | 225 | Duplo-cego, controlado por placebo; dose reduzida de aripiprazol adjuvante em pacientes com resposta inadequada a antidepressivo |
+| [NCT00876343](https://clinicaltrials.gov/study/NCT00876343) | Phase 3 | Concluído | 586 | Aripiprazol vs. placebo como adjuvante a ISRS ou IRSN |
+| [NCT00105196](https://clinicaltrials.gov/study/NCT00105196) | Phase 3 | Concluído | 349 | Estudo de 14 semanas, duplo-cego e controlado por placebo, como adjuvante a antidepressivo |
+| [NCT00095745](https://clinicaltrials.gov/study/NCT00095745) | Phase 3 | Concluído | 1002 | Estudo aberto de segurança e tolerabilidade de 52 semanas, sem braço controle |
+| [NCT00882362](https://clinicaltrials.gov/study/NCT00882362) | Phase 3 | Concluído | 155 | Administração de longo prazo como adjuvante a ISRS ou IRSN |
+| [NCT01111539](https://clinicaltrials.gov/study/NCT01111539) | Phase 3 | Encerrado precocemente | 211 | Combinação aripiprazol/escitalopram, duplo-cego; encerrado antes do previsto, o que reduz a confiabilidade |
+| [NCT00080314](https://clinicaltrials.gov/study/NCT00080314) | Phase 3 | Concluído | 400 | Aripiprazol vs. placebo em depressão bipolar I |
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada disponível no banco de dados para esta combinação fármaco-indicação.
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [42090141](https://pubmed.ncbi.nlm.nih.gov/42090141/) | 2026 | Revisão sistemática e meta-análise em rede | JAMA Psychiatry | Antipsicóticos adjuvantes no transtorno depressivo maior; a FDA aprovou 5 antipsicóticos atípicos para essa indicação |
+| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Revisão sistemática e meta-análise em rede | J Affect Disord | Comparação de eficácia e descontinuação de estratégias de potencialização na depressão resistente |
+| [39739012](https://pubmed.ncbi.nlm.nih.gov/39739012/) | 2025 | Revisão sistemática e meta-análise em rede de RCTs | Neuropsychopharmacology | Eficácia relativa de tratamentos antidepressivos na depressão resistente |
+| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Revisão sistemática e meta-análise | J Psychopharmacol | Tratamentos de potencialização e combinação na depressão resistente em estágio inicial |
+| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Meta-análise | J Psychopharmacol | Antidepressivo + antipsicótico de segunda geração vs. escetamina vs. lítio na depressão maior |
+| [38454079](https://pubmed.ncbi.nlm.nih.gov/38454079/) | 2024 | RCT | Mol Psychiatry | ASCERTAIN-TRD: potencialização com aripiprazol ou EMTr vs. troca para venlafaxina |
+| [42283956](https://pubmed.ncbi.nlm.nih.gov/42283956/) | 2026 | Meta-análise em rede | Adv Ther | Eficácia e segurança de antipsicóticos atípicos aprovados como adjuvantes no transtorno depressivo maior |
+| [37149344](https://pubmed.ncbi.nlm.nih.gov/37149344/) | 2023 | Revisão | Psychiatr Clin North Am | Antidepressivos e antipsicóticos atípicos na depressão resistente; antipsicóticos são os agentes de potencialização mais estudados |
+| [36855876](https://pubmed.ncbi.nlm.nih.gov/36855876/) | 2023 | Revisão | Am J Psychiatry | Papel dos antipsicóticos no cenário terapêutico da depressão resistente |
+| [25963405](https://pubmed.ncbi.nlm.nih.gov/25963405/) | 2016 | Revisão | Asia Pac Psychiatry | Antipsicóticos como antidepressivos: aripiprazol, quetiapina e olanzapina aprovados como adjuvantes; eficazes em doses subantipsicóticas |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 20 registros estão cancelados. Os cinco principais:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 125680290 | Aripiprazol | Não informada | Antipsicóticos |
+| Registro nº 105730177 | Aristab ODT | Não informada | Antipsicóticos |
+| Registro nº 100630301 | Aripiprazol | Não informada | Antipsicóticos |
+| Registro nº 156490007 | Aripiprazol | Não informada | Antipsicóticos |
+| Registro nº 105730017 | Aquarela | Não informada | Antipsicóticos |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
-> **Nota:** Os dados de advertências, contraindicações e interações medicamentosas não estão disponíveis no pacote de evidências atual. Recomenda-se consultar a bula aprovada pelo FDA (*ABILIFY® Prescribing Information*) ou pelo EMA como fonte primária de referência de segurança antes de qualquer avaliação clínica.
-
----
+- **Contraindicações (base de conhecimento TxGNN, não texto de bula)**: foram associadas ao fármaco condições como diabetes mellitus, hiperglicemia, cetoacidose diabética, neutropenia, agranulocitose, leucopenia, epilepsia, hipotensão ortostática, hiperlipidemia, obesidade, infarto do miocárdio, doença arterial coronariana, doenças da condução cardíaca, parada cardíaca súbita, transtornos cerebrovasculares e síndrome neuroléptica maligna.
+- **Interações Medicamentosas**: foram identificadas 100 interações; as principais exibidas incluem **bupropiona (grave)**, que merece atenção especial, pois é usada com frequência na depressão. Há também interações de gravidade moderada com antidiabéticos (metformina, pioglitazona, acarbose, alogliptina, canagliflozina, clorpropamida, acetoexamida, albiglutida), anticolinérgicos (atropina, hiosciamina, clidínio), claritromicina, cimetidina, famotidina, cisaprida, epinefrina, aprepitanto, loperamida e clotrimazol.
+- **Outras observações**: relatos de comportamentos impulsivo-compulsivos associados ao aripiprazol, e a sonolência é um efeito comum dos antipsicóticos.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Aripiprazole possui múltiplos ensaios clínicos de Fase 3 concluídos e com amostras robustas (incluindo estudos com N>1.000) que confirmam sua eficácia como terapia adjuvante em transtorno depressivo maior e no transtorno bipolar, respaldando classificação L1. A previsão do TxGNN (99,62%) é altamente coerente com o perfil farmacológico e com as aprovações internacionais consolidadas — a lacuna identificada é regulatória (ausência de registro ANVISA), não científica.
+- Há vários ensaios de Fase 3 concluídos, randomizados, duplo-cegos e controlados por placebo (por exemplo, NCT00095823, NCT00095758 e NCT00683852), além de meta-análises em rede, sustentando a eficácia adjuvante no transtorno depressivo maior (nível L1). Como a indicação já é estabelecida, o foco é regulatório e de segurança, não de descoberta.
+- Todos os registros brasileiros estão cancelados, e os dados de bula não estão disponíveis.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos do mecanismo de ação (MOA) via DrugBank API (DB01238)
-- Baixar e extrair advertências e contraindicações da bula FDA/EMA para preenchimento do perfil de segurança
-- Realizar busca estruturada de interações medicamentosas (DDI) em base especializada (ex: DrugBank, Lexicomp)
-- Definir estratégia regulatória junto à ANVISA, aproveitando o histórico de aprovação FDA/EMA como referência para dossiê de registro
-- Identificar parceiro comercial ou titular de registro potencial no Brasil
-- Delimitar a subpopulação-alvo prioritária para o mercado brasileiro (ex: TDM com resposta inadequada a antidepressivos isolados)
+- Obter e analisar as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança).
+- Verificar a situação regulatória atual e os motivos dos cancelamentos dos registros no Brasil.
+- Complementar os dados de mecanismo de ação a partir do DrugBank.
+- Definir plano de monitoramento metabólico (glicemia, lipídios, peso), hematológico e cardiovascular, com atenção à interação com bupropiona e antidiabéticos.
+
+## Outras Indicações Previstas (Resumo)
+
+As demais previsões têm evidência fraca. O **tricotilomania** (pontuação 99,26%, nível L3, recomendação: questão de pesquisa) conta com um ensaio aberto concluído (NCT00947154, n=12), um ensaio de Fase 2 controlado por placebo ainda sem recrutamento (NCT05545891) e vários relatos de caso. Há também relatos de tricotilomania induzida pelo próprio aripiprazol, de modo que a relação risco-benefício é incerta. As demais (síndrome de Asperger, síndrome de Phelan-McDermid, entre outras doenças raras) são apenas previsões computacionais, sem ensaios ou literatura, e permanecem em **Hold**.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

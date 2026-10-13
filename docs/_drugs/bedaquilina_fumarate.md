@@ -2,7 +2,7 @@
 layout: default
 title: Bedaquilina Fumarate
 parent: Apenas Predição do Modelo (L5)
-nav_order: 100
+nav_order: 111
 evidence_level: L5
 indication_count: 0
 ---

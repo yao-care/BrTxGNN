@@ -2,7 +2,7 @@
 layout: default
 title: Travoprost
 parent: Apenas Predição do Modelo (L5)
-nav_order: 493
+nav_order: 653
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,12 +29,12 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Travoprost: Do Glaucoma à Calcifiláxia Visceral
+# Travoprosta: Do glaucoma de ângulo aberto à calcifilaxia visceral
 
 ## Resumo em Uma Frase
 
-Travoprost é um análogo sintético da prostaglandina F2α (PGF2α), originalmente indicado para o tratamento do **glaucoma de ângulo aberto e hipertensão ocular**, reduzindo a pressão intraocular pelo aumento do escoamento uveoescleral.
-O modelo TxGNN prevê que pode ser eficaz para **Calcifiláxia Visceral (Visceral Calciphylaxis)**, porém sem nenhum ensaio clínico e sem nenhuma publicação apoiando diretamente esta direção — trata-se de uma previsão computacional sem suporte empírico disponível.
+Travoprosta é um análogo da prostaglandina F2-alfa (agonista do receptor FP), originalmente usado no tratamento do glaucoma de ângulo aberto e da hipertensão ocular.
+O modelo TxGNN prevê que pode ser eficaz para **calcifilaxia visceral (visceral calciphylaxis)**, mas **não há nenhum ensaio clínico nem publicação** que apoie essa direção; trata-se apenas de uma previsão do modelo.
 
 ---
 
@@ -42,47 +42,44 @@ O modelo TxGNN prevê que pode ser eficaz para **Calcifiláxia Visceral (Viscera
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Glaucoma de ângulo aberto / Hipertensão ocular |
-| Nova Indicação Prevista | Calcifiláxia Visceral (Visceral Calciphylaxis) |
-| Pontuação de Previsão TxGNN | 99.99% |
+| Indicação Original | Glaucoma de ângulo aberto e hipertensão ocular |
+| Nova Indicação Prevista | Calcifilaxia visceral (visceral calciphylaxis) |
+| Pontuação de Previsão TxGNN | 99,99% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Travoprost é um análogo sintético da prostaglandina F2α que atua como **agonista seletivo do receptor FP**. No contexto oftalmológico, seu mecanismo principal é a redução da pressão intraocular via aumento do fluxo uveoescleral, com eficácia clínica bem estabelecida para glaucoma de ângulo aberto e hipertensão ocular. Os dados detalhados de mecanismo de ação sistêmico não estão disponíveis neste Evidence Pack; as informações abaixo baseiam-se no conhecimento farmacológico consolidado da classe.
+Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a travoprosta é um análogo da prostaglandina F2-alfa que ativa o receptor FP e tem atividade vasodilatadora. Seu uso estabelecido é reduzir a pressão intraocular no glaucoma e na hipertensão ocular.
 
-A calcifiláxia visceral é uma condição rara e grave, caracterizada por **calcificação vascular progressiva, trombose microangiopática e necrose isquêmica tecidual** — predominantemente em pacientes com doença renal crônica avançada. A lógica teórica de reposicionamento parte do fato de que algumas prostaglandinas (PGE1/alprostadil e PGI2/prostaciclina) possuem propriedades vasodilatadoras e antiagregantes com potencial protetor vascular, o que pode ter gerado esta associação no grafo do conhecimento do TxGNN.
+A única ligação possível com a calcifilaxia visceral é a vasodilatação, que poderia se relacionar de forma ampla com a calcificação e a isquemia da microvasculatura. Essa hipótese é especulativa e não tem respaldo em dados. A similaridade entre a indicação original (doença ocular) e a nova indicação (doença vascular sistêmica) ainda não foi avaliada.
 
-No entanto, **esta previsão apresenta limitações mecanísticas importantes**. O receptor FP — alvo de Travoprost — exerce efeito predominantemente **vasoconstritivo** nos vasos sistêmicos, o oposto do que seria necessário para reverter a isquemia tecidual da calcifiláxia. As prostaglandinas com propriedade terapêutica em vasculopatias (PGE1, PGI2) atuam por receptores EP e IP, farmacologicamente distintos do FP. A previsão do TxGNN provavelmente reflete ruído de conectividade no agrupamento vascular do grafo, sem base biológica direta para este reposicionamento.
+Vale destacar que a pontuação do modelo é muito alta, mas isso não substitui evidência real. Além disso, a travoprosta é aplicada como colírio, com exposição sistêmica mínima, o que torna ainda mais incerto qualquer efeito sobre um quadro sistêmico. A compatibilidade de via de administração para a nova indicação também não foi analisada.
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados.
+Atualmente não há ensaios clínicos relacionados registrados para calcifilaxia visceral.
 
 ---
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
-
----
-
-## Informações de Comercialização no Brasil
-
-Travoprost possui **20 registros ativos** no Brasil. Os detalhes individuais (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não constam nos dados deste Evidence Pack. Para informações completas, consulte o portal de consultas de medicamentos da ANVISA.
+Atualmente não há literatura relacionada para calcifilaxia visceral.
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (inferidas do grafo de conhecimento, não do texto da bula)**: uveíte, doença da íris, doença do corpo ciliar, panuveíte, irite, edema macular cistoide e edema macular da retina.
+- **Interações Medicamentosas**: foram identificadas 49 possíveis interações, mas o nível de gravidade está classificado como "desconhecido" em todas as listadas. Entre os fármacos citados estão calcitriol, pantoprazol, sucralfato, morfina, metformina, omeprazol, rosiglitazona, lansoprazol, lactulose, triancinolona, prednisona, sinvastatina, cloreto de potássio, prednisolona, ranitidina, ondansetrona, metronidazol, famotidina, ácido acetilsalicílico e glibenclamida. Destaca-se o calcitriol, por sua relevância em pacientes com distúrbios do metabolismo do cálcio.
+
+As advertências e contraindicações da bula aprovada pela ANVISA não estavam disponíveis; consulte a bula para informações de segurança complementares.
 
 ---
 
@@ -91,13 +88,22 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão TxGNN para calcifiláxia visceral é nível L5 (apenas previsão de modelo, sem estudos reais), e o mecanismo de ação do Travoprost como agonista FP **contradiz** o perfil farmacológico necessário para abordar a fisiopatologia da condição — vasoconstrição sistêmica é o oposto do efeito desejado. Não há qualquer evidência clínica ou pré-clínica que suporte este reposicionamento.
+- A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível documentado. Além disso, o fármaco não é comercializado no Brasil.
 
-**Para prosseguir, seria necessário:**
-- Evidências pré-clínicas demonstrando que o agonismo do receptor FP tem efeito protetor em modelos de calcificação vascular
-- Elucidação formal do mecanismo de ação sistêmico do Travoprost (atualmente lacuna de dados crítica)
-- Dados completos da bula registrada na ANVISA para avaliação de advertências e contraindicações
-- Reavaliação da relevância biológica com base em dados de expressão do receptor FP em tecidos vasculares sistêmicos afetados pela calcifiláxia
+**Para prosseguir, é necessário:**
+- Dados detalhados do mecanismo de ação (MOA) e análise de plausibilidade biológica entre agonismo do receptor FP e calcifilaxia
+- Obtenção e análise da bula da ANVISA (advertências e contraindicações)
+- Estudos pré-clínicos ou de mecanismo que sustentem o efeito em calcificação vascular
+- Avaliação da via de administração e da exposição sistêmica necessária para a nova indicação
+- Revisão das interações medicamentosas, especialmente em pacientes com doença renal e uso de calcitriol
+
+---
+
+### Observação sobre outras indicações previstas
+
+Outras previsões do modelo também permanecem em **Hold**: síndrome do desfiladeiro torácico (arterial, venosa e neurogênica), doença vascular, angiodisplasia do estômago, síndrome do dedo azul, dissecção espontânea da artéria coronária, linfangiectasia e hemangioendotelioma. Nenhuma tem ensaios clínicos ou literatura que apoie a eficácia.
+
+No caso de **doença vascular**, os 10 ensaios e 20 publicações recuperados tratam de glaucoma e hiperemia conjuntival, e não de doença vascular. O único estudo com desfecho vascular (NCT00308945, Fase 4, n=20) mediu o diâmetro vascular da retina e o fluxo sanguíneo da coroide, sem relação com tratamento de doença vascular. No caso de **hemangioendotelioma**, a única publicação (PMID 19107053) é um relato de caso de efusão uveal induzida pela travoprosta em paciente com síndrome de Sturge-Weber-Krabbe, ou seja, um sinal de segurança desfavorável em pacientes com vasculatura anormal.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

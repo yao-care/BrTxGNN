@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Carbamazepine
-parent: Apenas Predição do Modelo (L5)
-nav_order: 164
-evidence_level: L5
+parent: Evidência Moderada (L3-L4)
+nav_order: 189
+evidence_level: L4
 indication_count: 10
 ---
 
 # Carbamazepine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Carbamazepine: Da Epilepsia à Neuralgia do Trigêmeo
+# Carbamazepina: Do anticonvulsivante à neoplasia do nervo trigêmeo
 
 ## Resumo em Uma Frase
 
-Carbamazepine (CBZ) é um anticonvulsivante e antineurálgico clássico, reconhecido mundialmente como tratamento de primeira linha para epilepsia parcial e dor neuropática, embora não figure como medicamento registrado no Brasil na base de dados consultada.
-O modelo TxGNN prevê que pode ser eficaz para **Neoplasia do Nervo Trigêmeo (Trigeminal Nerve Neoplasm)** — rótulo que, na literatura clínica associada, corresponde predominantemente à **Neuralgia do Trigêmeo (TN)** —, com **1 ensaio clínico** e **20 publicações** apoiando esta direção.
-Há um importante desalinhamento ontológico no dataset TxGNN: o nó "trigeminal nerve neoplasm" agrupa casos de neuralgia do trigêmeo, não de tumores, o que afeta diretamente a interpretação do nível de evidência.
+A carbamazepina é um anticonvulsivante, registrado na ANVISA com a classificação "anticonvulsivantes".
+O modelo TxGNN prevê que ela possa ser eficaz para **neoplasia do nervo trigêmeo (trigeminal nerve neoplasm)**,
+mas atualmente há **0 ensaios clínicos** e **18 publicações** associadas, nenhuma delas demonstrando efeito antitumoral. A literatura descreve apenas o alívio sintomático da dor neurálgica associada a tumores.
 
 ---
 
@@ -43,70 +43,105 @@ Há um importante desalinhamento ontológico no dataset TxGNN: o nó "trigeminal
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não registrado no Brasil (sem licenças na base ANVISA consultada) |
-| Nova Indicação Prevista | Neoplasia do Nervo Trigêmeo / Neuralgia do Trigêmeo (Trigeminal Nerve Neoplasm) |
-| Pontuação de Previsão TxGNN | 99,9976% |
-| Nível de Evidência | L2 (conservador, pela ambiguidade do rótulo ontológico; potencialmente L1 se interpretado como TN) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Indicação Original | Anticonvulsivantes |
+| Nova Indicação Prevista | Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) |
+| Pontuação de Previsão TxGNN | 99,998% |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 18 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-O CBZ é um bloqueador de canais de sódio voltagem-dependentes (Nav). Embora os dados formais de mecanismo de ação não estejam disponíveis na base consultada (DB00564), a literatura farmacológica consolidada demonstra que o fármaco inibe especificamente os canais Nav1.7 e Nav1.8 no gânglio trigêminal, reduzindo a frequência de disparos ectópicos que caracterizam a neuralgia do trigêmeo. Por esse mecanismo direto, o CBZ consta na Lista de Medicamentos Essenciais da OMS (WHO Model List) como tratamento farmacológico de primeira linha para TN.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a carbamazepina é um anticonvulsivante que atua bloqueando canais de sódio dependentes de voltagem, e é tratamento de primeira linha para neuralgia do trigêmeo e para crises focais.
 
-O ponto crítico desta previsão é um problema de rótulo no banco de dados TxGNN: o nó ontológico "trigeminal nerve neoplasm" não corresponde, na prática, a neoplasias do nervo trigêmeo. Todas as publicações e o ensaio clínico associados a esse nó descrevem casos de **neuralgia do trigêmeo** — seja idiopática, por compressão vascular, ou secundária a massas que comprimem o nervo (lipomas, cistos epidermoides, meningiomas, linfomas). Tumores que invadem o nervo trigêmeo costumam causar dor facial resistente ao CBZ, o que é clinicamente distinto da neuralgia tratável com o fármaco.
+A relação entre a indicação original e a nova indicação é indireta. A literatura recuperada mostra a carbamazepina sendo usada para a dor neurálgica secundária a tumores ou lesões do nervo trigêmeo (schwannoma, meningioma, lipoma, cisto dermoide, linfoma). Trata-se de **alívio sintomático da dor associada ao tumor, e não de efeito antineoplásico**. A pontuação elevada do TxGNN provavelmente reflete a associação com a neuralgia do trigêmeo, e não atividade contra a neoplasia em si.
 
-Portanto, se a previsão for interpretada como TN, o nível de evidência real é L1 (suportado por múltiplos ensaios de Fase 3 concluídos globalmente). Se for interpretada como neoplasia trigêminal stricto sensu, a evidência cai para L5. O pipeline adota conservadoramente o score L2 para refletir essa ambiguidade, o que é a postura mais prudente até que o rótulo ontológico seja corrigido.
+Vários relatos de caso descrevem, inclusive, falha ou perda de resposta à carbamazepina quando o tumor era a causa da dor (por exemplo, linfoma, melanoma do cavo de Meckel e lipoma do ângulo pontocerebelar), o que reforça a ideia de que o fármaco não trata a lesão de base.
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT06853119](https://clinicaltrials.gov/study/NCT06853119) | N/A | Ainda não recrutando | 120 | Estudo observacional por MRI analisando mudanças de rede cerebral, microestrutura e barreira hematoencefálica em pacientes com neuralgia do trigêmeo; não avalia diretamente a eficácia do CBZ, fornecendo apenas contexto sobre mecanismos neurais da doença |
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ---
 
 ## Evidências da Literatura
 
+As 18 publicações recuperadas são, em sua maioria, relatos de caso e revisões. Não há ensaios clínicos randomizados. Abaixo, as 10 mais relevantes (revisões primeiro, depois relatos de caso).
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [36824641](https://pubmed.ncbi.nlm.nih.gov/36824641/) | 2022 | Review | Acta Clinica Croatica | Revisão abrangente das opções terapêuticas para TN; posiciona CBZ como padrão farmacológico de primeira linha, com discussão de etiologia por compressão vascular e processos tumorais |
-| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Review | Expert Review of Neurotherapeutics | Análise dos múltiplos tratamentos para TN; destaca desmielinização focal por compressão vascular como etiologia predominante e CBZ como principal referência farmacológica |
-| [11286444](https://pubmed.ncbi.nlm.nih.gov/11286444/) | 2001 | Survey / Clinical Practice Review | British Journal of Oral & Maxillofacial Surgery | Levantamento entre 254 cirurgiões bucomaxilofaciais britânicos sobre investigação e manejo de TN; discute rastreamento de causas secundárias e monitoramento do tratamento com CBZ |
-| [22647513](https://pubmed.ncbi.nlm.nih.gov/22647513/) | 2012 | Case Report | No Shinkei Geka | Neuralgia trigeminoglossof​aríngea combinada por compressão vascular tratada inicialmente com CBZ; descompressão microvascular realizada após falha da terapia farmacológica |
-| [9109911](https://pubmed.ncbi.nlm.nih.gov/9109911/) | 1997 | Case Report | Neurology | Neuromiotonia pós-irradiação em distribuição bilateral facial e trigêminal com resposta favorável ao tratamento com CBZ, demonstrando eficácia em hiperexcitabilidade neuronal induzida por dano |
-| [30741017](https://pubmed.ncbi.nlm.nih.gov/30741017/) | 2023 | Case Report | British Journal of Neurosurgery | Neurolinfomatose primária do nervo trigêmeo apresentando dor facial; CBZ prescrito inicialmente sem melhora, levando à investigação por MRI — ilustra diagnóstico diferencial crucial entre TN e neoplasia |
-| [3181365](https://pubmed.ncbi.nlm.nih.gov/3181365/) | 1988 | Pre-clinical | Experimental Neurology | CBZ intravenoso inibiu atividade espontânea em neuromas experimentais em ratos, demonstrando supressão de disparos ectópicos em fibras A-alfa/beta e A-delta como mecanismo direto de ação |
-| [25433061](https://pubmed.ncbi.nlm.nih.gov/25433061/) | 2014 | Case Report + Literature Review | No Shinkei Geka | TN por lipoma no ângulo cerebelopontino; CBZ usado inicialmente com controle parcial limitado por efeitos colaterais, levando à ressecção cirúrgica |
-| [19184299](https://pubmed.ncbi.nlm.nih.gov/19184299/) | 2009 | Case Report | Odontology | TN secundária a cisto epidermoide no ângulo cerebelopontino; revisão da patogênese e dos critérios para tratamento farmacológico com CBZ versus intervenção cirúrgica |
-| [25968963](https://pubmed.ncbi.nlm.nih.gov/25968963/) | 2015 | Case Report + Literature Review | World Neurosurgery | TN causada por angioma venoso; revisão da fisiopatologia da desmielinização por trauma mecânico pulsátil e do papel do CBZ como tratamento médico antes de considerar cirurgia |
+| [36824641](https://pubmed.ncbi.nlm.nih.gov/36824641/) | 2022 | Revisão | Acta Clin Croat | Opções de tratamento da neuralgia do trigêmeo, que pode ter causa vascular ou tumoral |
+| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Revisão | Expert Rev Neurother | Múltiplos tratamentos clínicos e cirúrgicos para neuralgia do trigêmeo |
+| [25968963](https://pubmed.ncbi.nlm.nih.gov/25968963/) | 2015 | Relato de caso/Revisão | World Neurosurg | Neuralgia do trigêmeo causada por angioma venoso |
+| [25433061](https://pubmed.ncbi.nlm.nih.gov/25433061/) | 2014 | Relato de caso/Revisão | No Shinkei Geka | Lipoma do ângulo pontocerebelar; dor mal controlada com carbamazepina por efeitos adversos |
+| [30741017](https://pubmed.ncbi.nlm.nih.gov/30741017/) | 2023 | Relato de caso | Br J Neurosurg | Linfoma primário do nervo trigêmeo; carbamazepina não melhorou os sintomas |
+| [25142539](https://pubmed.ncbi.nlm.nih.gov/25142539/) | 2014 | Relato de caso | Rinsho Shinkeigaku | Linfoma com disseminação perineural; melhora inicial com carbamazepina, depois ineficaz |
+| [15235745](https://pubmed.ncbi.nlm.nih.gov/15235745/) | 2004 | Relato de caso | Arq Neuropsiquiatr | Melanoma primário do cavo de Meckel; dor não aliviada por carbamazepina |
+| [33989821](https://pubmed.ncbi.nlm.nih.gov/33989821/) | 2021 | Relato de caso | World Neurosurg | Meningioma petroclival causando neuralgia do trigêmeo, tratado por ressecção cirúrgica |
+| [27729607](https://pubmed.ncbi.nlm.nih.gov/27729607/) | 2016 | Relato de caso | No Shinkei Geka | Cisto dermoide no cavo de Meckel com neuralgia do trigêmeo |
+| [3181365](https://pubmed.ncbi.nlm.nih.gov/3181365/) | 1988 | Pré-clínico (rato) | Exp Neurol | A carbamazepina inibiu a atividade espontânea em neuromas experimentais (efeito sobre a atividade neural, não sobre o tumor) |
+
+---
+
+## Informações de Comercialização no Brasil
+
+Todos os 18 registros estão cancelados; não há registro válido atualmente. Seguem os 5 primeiros da lista.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100630280 | Carbamazepina | Não informada | Anticonvulsivantes |
+| Registro 102980513 | Carbamazepina | Não informada | Anticonvulsivantes |
+| Registro 107150101 | Tegrezin | Não informada | Anticonvulsivantes |
+| Registro 104970172 | Uni-Carbamaz | Não informada | Anticonvulsivantes |
+| Registro 102980044 | Tegretard | Não informada | Anticonvulsivantes |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (base de conhecimento TxGNN/PrimeKG, não texto de bula):** doenças hematológicas (neutropenia, agranulocitose, pancitopenia, trombocitopenia, anemias, neutropenia congênita grave), doenças hepáticas e da vesícula biliar, doença renal e função renal comprometida, distúrbios de condução cardíaca (bloqueio atrioventricular, parada cardíaca súbita, doença arterial coronariana), glaucoma e hipertensão ocular, síndrome de secreção inapropriada de ADH, hipertensão, ansiedade/transtornos neuróticos/distimia e epilepsia de ausência.
+- **Interações medicamentosas:** foram identificadas 100 interações no total. Entre as principais listadas, as de gravidade **maior** são **claritromicina** e **eliglustate**. Há também interações de gravidade moderada com doxiciclina, corticosteroides (hidrocortisona, dexametasona, betametasona, triancinolona), vitamina D e análogos (colecalciferol, calcifediol, calcitriol), pioglitazona, bupropiona, aprepitante, morfina, metronidazol, canagliflozina, carvão ativado, cimetidina, di-hidrotaquisterol e dronabinol.
+
+Para advertências e contraindicações em bula, consulte a bula do medicamento.
+
+---
+
+## Outras Indicações Previstas (Contexto)
+
+Além da neoplasia do nervo trigêmeo, o modelo prevê outras indicações. Quase todas são epilepsias reflexas ou crises provocadas, que ficam na própria área da indicação original (anticonvulsivante) e não são reposicionamento propriamente dito.
+
+| Indicação Prevista | Pontuação TxGNN | Nível de Evidência | Observação |
+|------|------|------|------|
+| Epilepsia do susto (startle epilepsy) | 99,97% | L4 | Série clínica (PMID 6465864): 6 pacientes com lesões unilaterais responderam bem à carbamazepina; sem ensaios controlados |
+| Crises audiogênicas | 99,97% | L4 | Apenas modelos animais |
+| Crises induzidas pelo pensamento | 99,97% | L5 | Sem literatura específica |
+| Crises induzidas pela alimentação | 99,97% | L5 | Literatura fora do tema |
+| Crises induzidas pelo orgasmo | 99,97% | L5 | Sem ensaios nem literatura |
+| Crises induzidas pela micção | 99,97% | L5 | Sem literatura específica |
+| Crises induzidas pela leitura | 99,97% | L4 | Apoio apenas indireto |
+| Deficiência de beta-cetotiolase | 99,89% | L5 | Sem vínculo mecanístico; provável artefato do modelo |
+| Síndrome de Rett, variante congênita | 99,87% | L5 | Apenas manejo sintomático de crises; sem literatura |
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-O CBZ possui evidência de eficácia de nível mundial (L1) para neuralgia do trigêmeo — a indicação que o nó ontológico "trigeminal nerve neoplasm" representa na prática clínica —, mas a ausência de registro no Brasil e o desalinhamento do rótulo TxGNN exigem verificação e correção antes de qualquer avanço regulatório ou clínico.
+- Não há ensaios clínicos, e a literatura mostra apenas alívio sintomático da dor neurálgica em pacientes com tumores, sem evidência de efeito antineoplásico. Além disso, todos os registros brasileiros estão cancelados e há dados de segurança relevantes, como risco hematológico, hepático e cardíaco.
 
 **Para prosseguir, é necessário:**
-- Verificar o status regulatório atual do CBZ no Brasil via portal ANVISA (é possível que existam registros não contemplados na base consultada, dado que CBZ é um medicamento essencial da OMS)
-- Obter a bula oficial (SMPC/RDC) para levantamento completo de advertências, contraindicações e interações medicamentosas relevantes para o mercado brasileiro
-- Confirmar dados formais de mecanismo de ação via DrugBank API (DB00564) para completar a análise de MOA
-- Sinalizar para a equipe TxGNN o desalinhamento do rótulo ontológico "trigeminal nerve neoplasm": se a intenção for cobrir neuralgia do trigêmeo, o label deve ser corrigido para evitar interpretações incorretas em outros relatórios
-- Caso o objetivo seja avaliar CBZ para neoplasias trigêminais stricto sensu (tumores do nervo), redesenhar busca de evidências com foco nessa indicação específica — nesse cenário, a recomendação seria **Hold**
+- Definir se o objetivo é tratar a dor associada ao tumor (manejo sintomático, já coberto pelo uso em neuralgia do trigêmeo) ou ter efeito antitumoral, caso em que seriam necessários estudos pré-clínicos de mecanismo
+- Obter dados do mecanismo de ação detalhado
+- Obter a bula atualizada junto à ANVISA (advertências e contraindicações), já que não há registro válido no mercado brasileiro
+- Esclarecer a situação regulatória atual (motivo dos cancelamentos e eventual novo registro)
+- Se houver interesse nas epilepsias reflexas, avaliar a indicação "epilepsia do susto" como questão de pesquisa, por ter uma série clínica de apoio
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

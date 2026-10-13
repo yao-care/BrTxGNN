@@ -2,15 +2,15 @@
 layout: default
 title: Cyclosporine
 parent: Evidência Moderada (L3-L4)
-nav_order: 205
-evidence_level: L3
+nav_order: 246
+evidence_level: L4
 indication_count: 10
 ---
 
 # Cyclosporine
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,12 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Ciclosporina: Da prevenção de rejeição de transplante à doença granulomatosa crônica
+# Ciclosporina: De agente imunossupressor e oftálmico para granulomatose crônica
 
 ## Resumo em Uma Frase
 
-Ciclosporina é um imunossupressor clássico amplamente utilizado na prevenção de rejeição em transplantes de órgãos sólidos e como profilaxia da doença do enxerto contra hospedeiro (GvHD) após transplante de células-tronco hematopoéticas (HSCT).
-O modelo TxGNN prevê que pode ser eficaz para a **Doença Granulomatosa Crônica — forma autossômica recessiva (Granulomatous Disease, Chronic, Autosomal Recessive)**,
-atualmente com **1 ensaio clínico** e **1 publicação** apoiando esta direção.
+A ciclosporina é um inibidor de calcineurina, originalmente registrada no Brasil como **agente imunossupressor** e como **medicamento com ação no aparelho visual** (por exemplo, o Restasis).
+O modelo TxGNN prevê que pode ser eficaz para **doença granulomatosa crônica autossômica recessiva (Granulomatous disease, chronic, autosomal recessive)**, mas a previsão tem **nenhum ensaio clínico** e apenas **1 publicação** indireta como apoio.
 
 ---
 
@@ -43,31 +42,29 @@ atualmente com **1 ensaio clínico** e **1 publicação** apoiando esta direçã
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Prevenção de rejeição em transplantes de órgãos; profilaxia de GvHD pós-HSCT |
-| Nova Indicação Prevista | Doença Granulomatosa Crônica — forma autossômica recessiva (Granulomatous Disease, Chronic, Autosomal Recessive) |
-| Pontuação de Previsão TxGNN | 99.68% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Outros medicamentos com ação no aparelho visual (registro do Restasis); agente imunossupressor |
+| Nova Indicação Prevista | Doença granulomatosa crônica autossômica recessiva (Granulomatous disease, chronic, autosomal recessive) |
+| Pontuação de Previsão TxGNN | 99,68% |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 5 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-O Evidence Pack não contém dados estruturados de mecanismo de ação para este candidato. Com base nas informações disponíveis no pacote, a ciclosporina atua inibindo a ativação de células T — bloqueando a via da calcineurina e, consequentemente, a produção de IL-2 —, o que sustenta sua ampla aplicação como imunossupressor em contextos de transplante.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a ciclosporina é um inibidor de calcineurina com atividade imunossupressora, usada em transplantes e em doenças inflamatórias, e, na forma oftálmica, na doença do olho seco.
 
-A Doença Granulomatosa Crônica (DGC) é causada por defeito genético na enzima NADPH oxidase dos fagócitos, resultando em incapacidade de destruir patógenos intracelulares, inflamação granulomatosa crônica e infecções recorrentes graves. A hipótese de reposicionamento da ciclosporina baseia-se na sua capacidade de modular a resposta inflamatória mediada por células T que contribui para a formação excessiva de granulomas, característica desta doença.
+A doença granulomatosa crônica (DGC) é uma imunodeficiência primária, causada por defeito na explosão oxidativa dos fagócitos, que leva a infecções recorrentes e a inflamação granulomatosa. O único artigo recuperado trata dos resultados do transplante de células-tronco hematopoéticas (TCTH) de doador irmão ou não aparentado na DGC. Nesse contexto, inibidores de calcineurina podem ser usados para profilaxia da doença do enxerto contra o hospedeiro (DECH).
 
-Contudo, há um risco relevante de **confusão de indicação**: as evidências clínicas disponíveis não avaliam a ciclosporina como tratamento direto da DGC, mas sim como componente da profilaxia de GvHD no contexto de HSCT realizado *para tratar* a DGC. Nesse cenário, o benefício clínico observado reflete primariamente o efeito do transplante em si, e não da ciclosporina como agente terapêutico autônomo para a doença.
+Trata-se, portanto, de uma evidência **indireta**: ela não mostra que a ciclosporina trata a DGC em si. A pontuação muito alta do TxGNN não é sustentada por dados clínicos. Além disso, imunossupressão em uma doença caracterizada por infecções graves exige cautela especial.
 
 ---
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT01917708](https://clinicaltrials.gov/study/NCT01917708) | Phase 1 | Concluído | 10 | Estudo de braço único avaliando a tolerabilidade de abatacept combinado com ciclosporina e mofetila de micofenolato como profilaxia de GvHD em crianças e adolescentes submetidos a HSCT de doador não aparentado para doenças não malignas graves (incluindo DGC). A ciclosporina atuou como componente padrão da combinação imunossupressora, não como agente investigacional primário. |
+Atualmente não há ensaios clínicos relacionados registrados para esta indicação.
 
 ---
 
@@ -75,13 +72,30 @@ Contudo, há um risco relevante de **confusão de indicação**: as evidências 
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [22078471](https://pubmed.ncbi.nlm.nih.gov/22078471/) | 2012 | Retrospective Cohort | J Allergy Clin Immunol | HSCT de doador aparentado compatível (MRD) apresenta alta sobrevida na DGC; o estudo também avalia a segurança e eficácia do HSCT de doador não aparentado nessa população. A ciclosporina integrava o regime de imunossupressão, sem avaliação isolada do seu efeito sobre a DGC. |
+| [22078471](https://pubmed.ncbi.nlm.nih.gov/22078471/) | 2012 | Coorte | J Allergy Clin Immunol | Sobrevida excelente após TCTH de doador irmão ou não aparentado na DGC; a ciclosporina não é o objeto do estudo (evidência indireta) |
+
+---
+
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 101470160 | Restasis | Não informada | Outros medicamentos com ação no aparelho visual (cancelado) |
+| Registro 105830234 | Ciclosporina | Não informada | Agente imunossupressor (cancelado) |
+| Registro 105830999 | Sigmasporin Microral | Não informada | Agente imunossupressor (cancelado) |
+| Registro 100680020 | Sandimmun | Não informada | Não informada (cancelado) |
+| Registro 105830197 | Sigmasporin Microral | Não informada | Agente imunossupressor (cancelado) |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (com base no grafo de conhecimento, não na bula)**: o grafo de conhecimento do TxGNN associa a ciclosporina a contraindicações em hipertensão, epilepsia, doença renal, doença hepática, doença da vesícula biliar, doenças infecciosas (incluindo infecções oculares e conjuntivite), hiperuricemia, hipertrigliceridemia, hiperbilirrubinemia (incluindo síndrome de Gilbert), púrpura trombocitopênica, pseudotumor cerebral/hipertensão intracraniana, doenças cerebrais e neoplasias (câncer, linfomas, incluindo linfoma primário do sistema nervoso central). A relevância das **doenças infecciosas** é particularmente alta para a DGC.
+- **Interações Medicamentosas**: foram identificadas 100 interações, e a lista compilada mostra, entre as principais:
+  - **Grave**: loperamida.
+  - **Moderada**: rabeprazol, hidrocortisona, dexametasona, betametasona, triancinolona, budesonida, anfotericina B (incluindo complexo lipídico), bupropiona, aprepitanto, mesalazina, balsalazida, ácido acetilsalicílico, metronidazol, clorpropamida e ácido cólico.
+  - **Leve**: ranitidina e doxiciclina.
+- Alertas e contraindicações da bula não estão disponíveis; consulte a bula para as informações de segurança completas.
 
 ---
 
@@ -90,13 +104,20 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A ciclosporina está presente em protocolos de HSCT para DGC, mas exclusivamente como profilaxia de GvHD — não existe evidência que a sustente como tratamento primário e independente da doença granulomatosa crônica. O único ensaio clínico identificado avalia o abatacept como intervenção principal, com a ciclosporina em papel secundário (relevância grau B). A evidência é indireta, o risco de confusão de indicação é alto e o fármaco não está registrado no Brasil.
+- Não há ensaios clínicos nem estudos que mostrem benefício direto da ciclosporina na DGC; a única publicação é indireta (TCTH). A pontuação alta do TxGNN, isolada, não basta, e a imunossupressão pode ser desfavorável em um paciente com risco elevado de infecção. Todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Identificar estudos que avaliem ciclosporina como tratamento direto da DGC (inflamação granulomatosa, não como profilaxia pós-HSCT)
-- Obter dados completos de mecanismo de ação (MOA) e perfil de segurança via DrugBank API e bula oficial
-- Consultar especialistas em imunodeficiências primárias para validação da hipótese mecanística
-- Avaliar a viabilidade regulatória de um registro junto à ANVISA caso as evidências sejam fortalecidas
+- Estudos pré-clínicos ou clínicos que avaliem diretamente a ciclosporina na DGC (inclusive na inflamação granulomatosa e na DECH pós-TCTH).
+- Dados do mecanismo de ação (MOA) por meio do DrugBank.
+- Alertas e contraindicações da bula da ANVISA, hoje indisponíveis, o que impede a triagem de segurança.
+- Avaliação do risco de infecção em pacientes com DGC.
+- Esclarecimento da situação regulatória no Brasil, já que não há registro válido.
+
+---
+
+### Observação sobre outras indicações previstas
+
+Entre as demais previsões, a de maior suporte é **"bronchitis"**. Na prática, ela corresponde à **síndrome da bronquiolite obliterante (BOS)** após transplante de pulmão, com **nível L1**: há ensaios de Fase 3 concluídos, NCT00755781 e NCT03656926, com ciclosporina inalatória ou lipossomal. Esse apoio **não se estende** à bronquite comum. Vale a pena avaliar a indicação como uma questão de pesquisa separada, restrita à BOS e à via inalatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

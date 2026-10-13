@@ -2,7 +2,7 @@
 layout: default
 title: Megestrol Acetate
 parent: Evidência Alta (L1-L2)
-nav_order: 340
+nav_order: 439
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,92 +29,79 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Megestrol Acetate: Da Caquexia Oncológica ao Carcinoma Endometrial do Corpo Uterino
+# Acetato de Megestrol: De antineoplásico (indicação genérica) para carcinoma endometrial do corpo uterino
 
 ## Resumo em Uma Frase
 
-Megestrol acetate é um progestagênio sintético utilizado internacionalmente no tratamento do câncer de mama avançado, caquexia/anorexia associada ao câncer e, em vários países, no carcinoma endometrial — porém **sem registro ativo no Brasil**. O modelo TxGNN prevê que pode ser eficaz para **Carcinoma Endometrial do Corpo Uterino (Uterine Corpus Endometrial Carcinoma)**, com previsão de altíssima confiança suportada por **3 ensaios clínicos** — e o mecanismo de agonismo do receptor de progesterona (PR) fornece base mecanística diretamente compatível com esta indicação.
-
----
+O acetato de megestrol é uma progestina sintética, registrada no Brasil com a indicação genérica de "antineoplásico".
+O modelo TxGNN prevê que pode ser eficaz para **carcinoma endometrial do corpo uterino (uterine corpus endometrial carcinoma)**,
+atualmente com **1 ensaio clínico** (Phase 2, concluído) apoiando esta direção. Não há literatura específica associada a esta indicação nos dados compilados.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não registrado no Brasil (uso internacional: câncer de mama avançado, caquexia oncológica, carcinoma endometrial) |
-| Nova Indicação Prevista | Carcinoma Endometrial do Corpo Uterino (Uterine Corpus Endometrial Carcinoma) |
-| Pontuação de Previsão TxGNN | 99.94% |
+| Indicação Original | Antineoplásico |
+| Nova Indicação Prevista | Carcinoma endometrial do corpo uterino (uterine corpus endometrial carcinoma) |
+| Pontuação de Previsão TxGNN | 99,94% |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 1 (0 válidos, 1 cancelado) |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Megestrol acetate é um progestagênio sintético de alta potência que atua como **agonista do receptor de progesterona (PR)**. Seu mecanismo antitumoral central envolve a ligação ao PR, resultando em downregulation da expressão do receptor de estrogênio α (ERα) e inibição direta da proliferação celular induzida pelo estradiol (E2). Adicionalmente, suprime a secreção hipofisária de LH e FSH, reduzindo indiretamente os níveis circulantes de estrogênio — o principal hormônio promotor do crescimento endometrial.
+O acetato de megestrol é uma progestina sintética que atua nos receptores de progesterona. A terapia com progestágenos é uma abordagem hormonal estabelecida para o carcinoma endometrial com receptores hormonais positivos, pois induz diferenciação e supressão do crescimento das células endometriais. Atualmente, não há dados detalhados de mecanismo de ação no registro do fármaco; a descrição acima baseia-se no conhecimento farmacológico geral da classe.
 
-O carcinoma endometrial do corpo uterino, especialmente o subtipo endometrioide de baixo e médio grau, é um dos tumores mais frequentemente PR-positivos do sistema reprodutor feminino. Neste contexto, a terapia progestagênica representa o pilar do tratamento conservador com preservação de fertilidade e uma opção estabelecida para doença recorrente/metastática PR+. A compatibilidade mecanística é, portanto, direta e biologicamente sólida: o alvo molecular do fármaco (PR) está amplamente expresso no tumor-alvo.
+A indicação original (antineoplásico, de forma genérica) já situa o fármaco em oncologia, e o câncer endometrial é um tumor classicamente sensível a hormônios. Por isso, o uso de um progestágeno nesse cenário tem lógica biológica.
 
-É importante situar esta previsão no contexto regulatório: o megestrol acetate **já possui aprovação do FDA norte-americano** para o tratamento do carcinoma endometrial avançado, sendo utilizado há décadas em oncologia ginecológica. Para o Brasil, este resultado configura uma oportunidade de **introdução formal de uma indicação oncológica clinicamente madura**, sem a necessidade de construir evidências do zero — mas com a exigência de submissão regulatória à ANVISA.
-
----
+O ensaio disponível (NCT00729586) é um estudo Phase 2 randomizado e concluído, em que um regime hormonal contendo megestrol (com tamoxifeno) foi comparado com temsirolimus. Como a pergunta principal do estudo era sobre o temsirolimus, a evidência para o megestrol isolado é indireta.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00729586](https://clinicaltrials.gov/study/NCT00729586) | Phase 2 | Concluído | 73 | Temsirolimus com ou sem a combinação de megestrol acetate + tamoxifeno em carcinoma endometrial avançado, persistente ou recorrente — avalia se a adição de terapia hormonal potencializa a inibição de mTOR |
-| [NCT00503581](https://clinicaltrials.gov/study/NCT00503581) | Phase 2 | Encerrado precocemente | 9 | Megestrol acetate em regime contínuo vs. sequencial para neoplasia intraepitelial endometrial (EIN) e hiperplasia endometrial atípica em pacientes que desejam preservar o útero — estrogênio pode estimular crescimento de células endometriais anômalas, e megestrol pode bloqueá-lo |
-| [NCT04046185](https://clinicaltrials.gov/study/NCT04046185) | Early Phase 1 | Desconhecido | 60 | Inibidor de PD-1 combinado com progestagênio vs. progestagênio isolado em câncer endometrial inicial com preservação de fertilidade — evidência indireta do papel do progestagênio em regime combinado |
-
----
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada indexada para esta indicação específica nos dados do Evidence Pack.
-
----
+| [NCT00729586](https://clinicaltrials.gov/study/NCT00729586) | Phase 2 | Concluído | 73 | Temsirolimus isolado ou associado a terapia hormonal (megestrol + tamoxifeno) em câncer endometrial avançado, persistente ou recorrente. O megestrol faz parte de um braço combinado, o que limita a atribuição do efeito ao fármaco isolado. |
 
 ## Informações de Comercialização no Brasil
 
-Megestrol acetate **não possui registro ativo na ANVISA**. Nenhum produto com esta substância ativa se encontra comercializado no Brasil. Não há histórico de licenças ou registros anteriores.
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 106460123 (cancelado) | FEMIGESTROL | Não informada | Antineoplásico |
 
 ## Citotoxicidade
 
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Terapia hormonal — progestagênio sintético (não é citotóxico convencional; mecanismo antitumoral mediado por receptor hormonal) |
-| Risco de Mielossupressão | Baixo (progestagênios não causam mielossupressão direta; sem efeito sobre células hematopoiéticas) |
+| Classificação de Citotoxicidade | Terapia hormonal (progestina), não é citotóxico convencional |
+| Risco de Mielossupressão | Baixo (sem dados específicos compilados; consulte a bula) |
 | Classificação de Emetogenicidade | Baixa |
-| Itens de Monitoramento | Peso corporal (ganho de peso frequente), pressão arterial, glicemia (risco de hiperglicemia), parâmetros de coagulação (risco tromboembólico), função adrenal (supressão adrenal secundária documentada com uso prolongado em doses altas) |
-| Proteção no Manuseio | Precauções padrão de manipulação farmacêutica — não requer medidas especiais de citotóxico convencional |
-
----
+| Itens de Monitoramento | Glicemia, pressão arterial, função hepática e renal; função adrenal em uso prolongado ou em altas doses |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
-Consulte a bula aprovada internacionalmente (FDA/EMA) para informações completas de segurança, incluindo advertências, contraindicações e interações medicamentosas — esses dados não estão disponíveis no registro brasileiro (fármaco sem registro na ANVISA).
-
----
+- **Contraindicações previstas pelo grafo de conhecimento (não provenientes da bula)**: hipertensão, doença renal, doença hepática, doença da vesícula biliar, hiperglicemia, diabetes mellitus, cetoacidose diabética, insuficiência adrenocortical (doença de Addison), hipogonadismo masculino, menopausa precoce e síndrome de insensibilidade androgênica.
+- **Interações Medicamentosas**: foram identificadas 100 interações, das quais as principais listadas (todas de nível moderado) são com antidiabéticos: acarbose, metformina, pioglitazona, glimepirida, repaglinida, clorpropamida, inibidores de DPP-4 (alogliptina, linagliptina, saxagliptina, sitagliptina), inibidores de SGLT2 (canagliflozina, dapagliflozina, empagliflozina), agonistas de GLP-1 (albiglutida, dulaglutida, semaglutida) e insulinas (asparte, degludeca). Também há interação moderada com aprepitanto e claritromicina. O efeito sobre a glicemia é coerente com a contraindicação em hiperglicemia/diabetes.
+- Os dados de advertências e contraindicações da bula brasileira não estavam disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Megestrol acetate possui aprovação regulatória do FDA para carcinoma endometrial avançado, mecanismo de ação diretamente compatível com o tumor-alvo (agonismo do PR), e suporte de ensaio clínico Phase 2 concluído (NCT00729586, n=73). A principal barreira não é de evidência científica, mas de **acesso regulatório e comercial no Brasil**.
+- Há um ensaio Phase 2 randomizado e concluído em câncer endometrial com regime que inclui megestrol, e a progestina tem fundamento hormonal plausível nessa doença. Contudo, a evidência é indireta (braço combinado), não há literatura específica para esta indicação, e o único registro brasileiro está cancelado.
 
 **Para prosseguir, é necessário:**
-- Submissão de dossiê de registro à ANVISA (categoria de medicamento novo ou por equivalência a registro internacional existente)
-- Obtenção e análise da bula completa FDA/EMA para mapeamento completo de advertências, contraindicações e interações medicamentosas
-- Confirmação formal do mecanismo de ação completo via DrugBank (DG002) para suportar análise de DDI
-- Avaliação de segurança específica para populações brasileiras, com foco em risco tromboembólico e supressão adrenal em uso prolongado
-- Definição do regime de dosagem-alvo (doses altas de 160–800 mg/dia são usadas em oncologia; doses menores para outras indicações)
-- Avaliação de viabilidade comercial considerando a ausência total de presença de mercado no Brasil
+- Obter e analisar os resultados do NCT00729586, especialmente a contribuição do braço com megestrol.
+- Obter a bula da ANVISA para avaliar advertências e contraindicações (lacuna de dados bloqueante para a triagem de segurança).
+- Confirmar o mecanismo de ação em fontes como o DrugBank.
+- Definir a situação regulatória: o registro está cancelado, e seria necessário um novo registro ou outra via de acesso.
+- Estabelecer plano de monitoramento para pacientes com diabetes, hipertensão e doença hepática/renal, além de avaliar interações com antidiabéticos.
+
+## Outras Previsões do Modelo (Contexto)
+
+A previsão com melhor sustentação é a de câncer de ovário, que tem um ensaio Phase 3 concluído (NCT00005975, n=288) e estudos Phase 2 de megestrol em doença refratária à platina (PMID 11593052, PMID 9856656). No entanto, o ensaio Phase 3 avaliou fogachos em mulheres tratadas para câncer de mama, não atividade antitumoral, e resultados não foram fornecidos; por isso, esse nível L1 deve ser interpretado com cautela e a recomendação é tratá-la como questão de pesquisa. As demais previsões (por exemplo, carcinossarcoma uterino, com evidência apenas indireta, e tumores raros) permanecem em **Hold**, com evidência limitada à previsão do modelo.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

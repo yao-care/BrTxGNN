@@ -2,7 +2,7 @@
 layout: default
 title: Prilocaine
 parent: Apenas Predição do Modelo (L5)
-nav_order: 416
+nav_order: 549
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,100 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Prilocaine: Da anestesia local à conjuntivite papilar
+# Prilocaína: De anestésico local para papilar conjuntivite (predição principal do modelo)
 
 ## Resumo em Uma Frase
 
-Prilocaine é um anestésico local do tipo amida, utilizado em procedimentos odontológicos, cirúrgicos e como componente da formulação EMLA (lidocaína/prilocaína 2,5%/2,5%) para anestesia tópica cutânea.
-O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite Papilar (Papillary Conjunctivitis)**, porém atualmente **não há ensaios clínicos** nem **publicações** apoiando esta direção.
-
----
+Prilocaína é um anestésico local do tipo amida, registrado na ANVISA na classe dos "anestésicos" e "anestésicos locais".
+O modelo TxGNN prevê que pode ser eficaz para **conjuntivite papilar (papillary conjunctivitis)**, mas não há nenhum ensaio clínico nem publicação que apoie essa direção (**0 ensaios clínicos** e **0 publicações**).
+Entre as 10 indicações previstas, a única com sinal minimamente plausível é a **neuralgia (neuralgia)**, com **2 ensaios clínicos** listados (apenas 1 diretamente relacionado) e **13 publicações**, em sua maioria sobre neuralgia pós-herpética com o creme EMLA.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anestesia local e regional (não registrado no Brasil) |
-| Nova Indicação Prevista | Conjuntivite Papilar (Papillary Conjunctivitis) |
+| Indicação Original | Anestésicos locais |
+| Nova Indicação Prevista (1ª colocada) | Conjuntivite papilar (papillary conjunctivitis) |
 | Pontuação de Previsão TxGNN | 99,78% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Número de Registros | 5 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
----
+> Observação: a indicação em primeiro lugar no ranking do modelo não tem nenhuma evidência. A indicação com mais evidência é a neuralgia (nível L2 segundo a pontuação compilada, com ressalvas importantes; ver abaixo).
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados sobre o mecanismo de ação disponíveis neste pacote de evidências. Com base no conhecimento farmacológico estabelecido, Prilocaine é um anestésico local do tipo amida que bloqueia os canais de sódio dependentes de voltagem (Nav channels) nas membranas neuronais, inibindo a despolarização e a transmissão de impulsos nociceptivos. É amplamente empregado em anestesia dentária, bloqueios nervosos regionais e como componente da creme EMLA para anestesia tópica da pele.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a prilocaína é um anestésico local do tipo amida que bloqueia canais de sódio dependentes de voltagem, e sua eficácia como anestésico local é estabelecida. Mecanisticamente, esse bloqueio poderia aliviar sintomas ligados à ativação de fibras nervosas, como dor ou desconforto.
 
-A relação entre o bloqueio Nav e a conjuntivite papilar é tênue do ponto de vista mecanístico. A conjuntivite papilar tem como causas principais a irritação mecânica crônica (uso de lentes de contato) e reações imunológicas/alérgicas — processos nos quais os canais Nav desempenham papel secundário. Embora seja teoricamente possível que a supressão da transmissão neural reduza componentes neuroinflamatórios da conjuntiva, esse mecanismo não se alinha com a etiologia central da doença e não foi testado clinicamente.
+Para **conjuntivite papilar**, o benefício se limitaria, no máximo, ao alívio do desconforto da superfície ocular. Não trataria a causa alérgica ou mecânica da inflamação, e o uso prolongado de anestésicos locais no olho é prejudicial à córnea. A previsão tem, portanto, baixa plausibilidade biológica e é puramente computacional.
 
-Adicionalmente, a segurança da prilocaína em aplicações oftalmológicas — em especial sua toxicidade potencial ao epitélio corneal — não foi avaliada em estudos publicados. A ausência completa de evidências clínicas e pré-clínicas para esta indicação sustenta a classificação L5 e a recomendação de Hold.
-
----
+Entre as demais previsões, a **neuralgia** é a mais coerente: a prilocaína, geralmente combinada com lidocaína (creme EMLA), atua nos nociceptores periféricos, e há relatos antigos de alívio na neuralgia pós-herpética. Contudo, isso é mais uma extensão da indicação anestésica existente do que um reposicionamento verdadeiro. Outras previsões (transtorno bipolar maníaco, bronquite, enxaqueca com aura do tronco encefálico, conjuntivite da rosácea) não têm base mecanística clara.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados.
+A indicação em primeiro lugar (conjuntivite papilar) não tem ensaios clínicos registrados. Abaixo, os ensaios disponíveis para a indicação com maior volume de evidência (neuralgia):
 
----
+| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
+|---------|------|------|------|---------|
+| [NCT00916942](https://clinicaltrials.gov/study/NCT00916942) | Phase 2 | Concluído | 20 | Estudo aberto sobre creme de lidocaína 2,5%/prilocaína 2,5% como pré-tratamento do adesivo de capsaicina NGX-4010 em neuralgia pós-herpética. Avalia tolerabilidade, não eficácia contra a neuralgia; pequeno, sem controle e com efeito da combinação não atribuível à prilocaína isolada |
+| [NCT06899438](https://clinicaltrials.gov/study/NCT06899438) | N/A | Concluído | 38 | Toxina botulínica A vs. prilocaína na síndrome dolorosa miofascial. Relevância baixa para a nova indicação |
+
+Para enxaqueca, o único ensaio listado (NCT02403687, estudo observacional de AINEs tópicos, 300 participantes) não testa prilocaína e tem relevância não confirmada.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+Publicações mais relevantes para neuralgia (a literatura para as demais indicações é indireta ou sobre segurança):
 
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [2616182](https://pubmed.ncbi.nlm.nih.gov/2616182/) | 1989 | Estudo clínico | Pain | EMLA 5% por 24 h em 12 pacientes com neuralgia pós-herpética refratária: melhora significativa da dor em 6 h, com perfil farmacocinético |
+| [2493878](https://pubmed.ncbi.nlm.nih.gov/2493878/) | 1989 | Estudo clínico | BMJ | Creme de lignocaína-prilocaína em neuralgia pós-herpética (sem resumo disponível) |
+| [22182397](https://pubmed.ncbi.nlm.nih.gov/22182397/) | 2011 | Estudo clínico | BMC Anesthesiology | Tolerabilidade do adesivo de capsaicina 8% após pré-tratamento com creme lidocaína/prilocaína em neuralgia pós-herpética |
+| [8695081](https://pubmed.ncbi.nlm.nih.gov/8695081/) | 1996 | Relato de caso | J Clin Anesth | Tratamento bem-sucedido com EMLA de neuralgia pós-herpética resistente a outras terapias |
+| [1430539](https://pubmed.ncbi.nlm.nih.gov/1430539/) | 1992 | Revisão | J Dermatol Surg Oncol | EMLA como anestésico tópico eficaz e seguro; cita uso em neuralgia pós-herpética entre outras indicações |
+| [10342425](https://pubmed.ncbi.nlm.nih.gov/10342425/) | 1999 | Estudo experimental | Pain | Resultado negativo: EMLA não reduziu a dor da capsaicina tópica 1% em 9 voluntários saudáveis |
+| [41777672](https://pubmed.ncbi.nlm.nih.gov/41777672/) | 2026 | Coorte retrospectiva | Front Aging Neurosci | EMLA isolado vs. bloqueio paravertebral + EMLA para tolerabilidade do adesivo de capsaicina 8% em neuralgia pós-herpética torácica |
+| [7897165](https://pubmed.ncbi.nlm.nih.gov/7897165/) | 1995 | Relato de caso | J Allergy Clin Immunol | Dermatite alérgica de contato induzida por EMLA, com papel da prilocaína como imunógeno |
+
+Alertas de segurança vindos da literatura de outras indicações: em dermatite atópica, a pele com barreira comprometida aumenta a absorção sistêmica, com relato de convulsões e metemoglobinemia em criança após EMLA ([27397059](https://pubmed.ncbi.nlm.nih.gov/27397059/)), além de alergia de contato e púrpura. Para enxaqueca, a única publicação listada ([37400308](https://pubmed.ncbi.nlm.nih.gov/37400308/), 2023) trata de função microvascular em mulheres com SOP e não testa prilocaína.
 
 ## Informações de Comercialização no Brasil
 
-Prilocaine não possui registro na ANVISA e não é comercializado no Brasil.
+Todos os registros estão cancelados; atualmente não há produto de prilocaína isolada com registro válido.
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100850244 | Baritekal Hiperbárica | Não informada | Anestésicos |
+| Registro 137640156 | Emla | Não informada | Anestésicos locais |
+| Registro 102980033 | Medicaína | Não informada | Anestésicos locais |
+| Registro 101770028 | Prilonest | Não informada | Anestésicos locais |
+| Registro 102980330 | Citocaína | Não informada | Anestésicos locais |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento do modelo** (relações fármaco-doença, não texto de bula): doenças hipertensivas, epilepsia, doença renal, doença hepática, doença da vesícula biliar, diabetes mellitus e cetoacidose diabética, doença arterial coronariana e infarto do miocárdio, hemoglobinopatias, parada cardíaca súbita, doenças do sistema de condução cardíaco e bloqueio atrioventricular, insuficiência respiratória, glaucoma de ângulo fechado, miastenia gravis e doenças da junção neuromuscular, deficiência de butirilcolinesterase, doenças cardiovasculares, hipertireoidismo e doença de Graves.
+- **Interações medicamentosas** (22 registradas; principais):
+  - **Gravidade maior**: metoclopramida, sulfassalazina, nitrito de amila, rasburicase, ácido nitroso, óxido nítrico (risco aditivo de metemoglobinemia em vários casos), cloroquina, primaquina, quinina, tafenoquina, lidocaína (sistêmica e tópica), benzocaína tópica, dapsona (sistêmica e tópica), cinchocaína tópica, nitrato de prata tópico, sulfadiazina de prata tópica.
+  - **Gravidade moderada**: morfina lipossomal.
+  - **Gravidade menor**: hialuronidase.
+- **Riscos adicionais descritos na literatura**: metemoglobinemia e toxicidade do sistema nervoso central (convulsões) com absorção sistêmica, especialmente em crianças e em pele com barreira comprometida; alergia de contato à prilocaína.
 
----
+Os dados de advertências e contraindicações da bula da ANVISA não estavam disponíveis; consulte a bula para informações completas de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para conjuntivite papilar é classificada em L5 — apenas previsão do modelo, sem qualquer estudo clínico ou pré-clínico de suporte. O mecanismo de bloqueio Nav não se alinha à etiologia central da conjuntivite papilar (irritação mecânica e resposta imune), e a segurança ocular da prilocaína permanece sem avaliação adequada.
+- A indicação com maior pontuação (conjuntivite papilar) tem apenas previsão computacional, sem estudos, e com baixa plausibilidade biológica. Para neuralgia, a evidência é limitada a estudos pequenos e antigos com a combinação lidocaína/prilocaína, que não permitem atribuir o efeito à prilocaína e representam uma extensão da indicação anestésica, não um reposicionamento verdadeiro. Todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Estudos pré-clínicos avaliando segurança e eficácia da prilocaína em tecido conjuntival (modelo animal)
-- Avaliação formal de toxicidade corneal antes de qualquer uso oftalmológico
-- Investigação do papel da neuroinflamação local na fisiopatologia da conjuntivite papilar como potencial alvo terapêutico
-- Complementação do mecanismo de ação completo via consulta ao DrugBank (DB00750)
-- Levantamento de eventuais registros regulatórios brasileiros (ANVISA) e internacionais para uso oftálmico
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
+- Obter dados detalhados do mecanismo de ação.
+- Se houver interesse em neuralgia, tratá-la como pergunta de pesquisa: revisão sistemática e ensaio controlado moderno que isole o efeito da prilocaína (ou justifique a combinação), com plano de monitoramento de metemoglobinemia.
+- Verificar a viabilidade regulatória, dado que não há registro válido de prilocaína no Brasil, e definir via de administração e forma farmacêutica adequadas.
+- Para conjuntivite papilar e demais indicações sem evidência, não priorizar investimento sem nova justificativa mecanística.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

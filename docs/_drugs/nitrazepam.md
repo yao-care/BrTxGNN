@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nitrazepam
-parent: Evidência Alta (L1-L2)
-nav_order: 360
-evidence_level: L1
+parent: Evidência Moderada (L3-L4)
+nav_order: 473
+evidence_level: L4
 indication_count: 3
 ---
 
 # Nitrazepam
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **3** 
+Nível de evidência: **L4** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,74 @@ Nível de evidência: **L1** | Indicações previstas: **3**
 
 </div>
 
-# Nitrazepam: De hipnótico benzodiazepínico ao distúrbio de início e manutenção do sono
+# Nitrazepam: Da insônia a distúrbio do sono (iniciar e manter o sono)
 
 ## Resumo em Uma Frase
 
-Nitrazepam é um benzodiazepínico clássico, amplamente reconhecido por sua ação hipnótico-sedativa no sistema nervoso central via modulação do receptor GABA-A.
-O modelo TxGNN prevê que pode ser eficaz para o **Distúrbio de Início e Manutenção do Sono (sleep disorder, initiating and maintaining sleep)**,
-atualmente com **0 ensaios clínicos registrados** e **20 publicações** apoiando esta direção.
-
----
+Nitrazepam é um benzodiazepínico originalmente usado no tratamento da insônia e da encefalopatia mioclônica precoce.
+O modelo TxGNN prevê que pode ser eficaz para **distúrbio do sono, com dificuldade de iniciar e manter o sono (Sleep disorder, initiating and maintaining sleep)**, mas essa previsão praticamente coincide com o uso original do fármaco. Não há ensaios clínicos registrados, e há **20 publicações** de apoio indireto ou geral (em sua maioria revisões).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Dados regulatórios individuais não disponíveis no dataset atual (hipnótico benzodiazepínico) |
-| Nova Indicação Prevista | Distúrbio de Início e Manutenção do Sono (sleep disorder, initiating and maintaining sleep) |
+| Indicação Original | Insônia; encefalopatia mioclônica precoce (conforme o grafo de conhecimento do TxGNN; não há texto de indicação de registro no Brasil) |
+| Nova Indicação Prevista | Distúrbio do sono, com dificuldade de iniciar e manter o sono (Sleep disorder, initiating and maintaining sleep) |
 | Pontuação de Previsão TxGNN | 99,89% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Nitrazepam é um benzodiazepínico da classe das 1,4-benzodiazepinas que atua como modulador alostérico positivo do receptor GABA-A no sítio das benzodiazepinas. Esse mecanismo potencia a neurotransmissão inibitória mediada pelo GABA, produzindo sedação central e resultando em encurtamento da latência do sono e melhora da manutenção do sono ao longo da noite — com redução dos despertares noturnos.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo o conhecimento da classe, o nitrazepam é um benzodiazepínico que potencializa a sinalização do receptor GABA-A, produzindo efeito sedativo-hipnótico.
 
-A relação entre o mecanismo de ação e a indicação prevista é direta e farmacologicamente coerente: a potenciação gabaérgica atua exatamente sobre os substratos neurais responsáveis pelo distúrbio de início e manutenção do sono. Estudos clínicos comparativos históricos demonstraram eficácia de Nitrazepam 5 mg em populações geriátricas hospitalizadas, com qualidade e quantidade de sono comparáveis a outros hipnóticos benzodiazepínicos como triazolam e brotizolam, o que sustenta a coerência da previsão do modelo.
+A nova indicação prevista é, na prática, uma redefinição da insônia, que já é uma indicação original do fármaco. Por isso, a pontuação muito alta (0,999) provavelmente reflete uma associação já conhecida, e não um sinal de reposicionamento realmente novo. Mecanisticamente a previsão é coerente, mas seu valor como descoberta é limitado.
 
-A elevada pontuação TxGNN (99,89%) reflete essa correspondência mecanística direta — o modelo captura a associação entre modulação GABA-A e melhora do sono como um caminho farmacológico de alta confiança. A literatura disponível abrange desde estudos farmacocinéticos e ensaios controlados randomizados históricos até revisões sistemáticas recentes sobre o papel dos benzodiazepínicos no manejo da insônia.
-
----
+Duas outras previsões do modelo têm evidência ainda mais fraca: a encefalopatia aguda com convulsões bifásicas e difusão reduzida tardia (pontuação de 99,59%, nível L5) e a síndrome de Wernicke-Korsakoff (99,31%, nível L5). Na primeira, o benzodiazepínico serviria apenas ao controle agudo das crises, não como terapia modificadora da doença. Na segunda, não há vínculo mecanístico claro: a doença decorre de deficiência de tiamina, e os benzodiazepínicos podem piorar a cognição e a confusão e causar depressão respiratória. Sem estudos clínicos ou publicações de apoio, ambas são apenas previsões do modelo.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
+Foram listadas as publicações mais relevantes e específicas ao nitrazepam. Nenhuma foi classificada formalmente como ensaio clínico randomizado na base compilada, embora a publicação de 1991 descreva um estudo duplo-cego cruzado.
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [6135296](https://pubmed.ncbi.nlm.nih.gov/6135296/) | 1983 | RCT (duplo-cego cruzado) | Acta Psychiatrica Scandinavica | Nitrazepam 5 mg vs. triazolam 0,25 mg em 26 pacientes geriátricos internados; qualidade e quantidade de sono similares entre os dois hipnóticos sem diferenças significativas em testes psicomotores |
-| [4892037](https://pubmed.ncbi.nlm.nih.gov/4892037/) | 1969 | Estudo Clínico | British Medical Journal | Nitrazepam em sobredosagem aguda (até 80 comprimidos) sem efeitos graves além de sonolência; ensaio duplo-cego em enfermaria médica geral confirmando eficácia hipnótica equivalente ao butobarbital |
-| [32724021](https://pubmed.ncbi.nlm.nih.gov/32724021/) | 2020 | Revisão de ECR | The Medical Letter on Drugs and Therapeutics | Avaliação do lemborexanto (Dayvigo) para insônia com referências comparativas a benzodiazepínicos hipnóticos, incluindo Nitrazepam, como padrão de classe |
-| [7037262](https://pubmed.ncbi.nlm.nih.gov/7037262/) | 1981 | Estudo Farmacocinético | Clinical Pharmacokinetics | Caracterização da farmacocinética clínica de Nitrazepam; dados de absorção, distribuição e eliminação relevantes para racionalização de dose e intervalo de administração |
-| [1125532](https://pubmed.ncbi.nlm.nih.gov/1125532/) | 1975 | Série de Casos / Segurança | British Journal of Psychiatry | Relato de dependência a Nitrazepam (Mogadon); alerta para potencial de abuso com uso prolongado como hipnótico |
-| [19450355](https://pubmed.ncbi.nlm.nih.gov/19450355/) | 2007 | Revisão | BMJ Clinical Evidence | Insônia em idosos: prevalência de até 40% em adultos; fatores de risco (estresse, ronco diurno, hiperexcitação) e opções de tratamento farmacológico e não farmacológico |
-| [238826](https://pubmed.ncbi.nlm.nih.gov/238826/) | 1975 | Revisão | Drugs | Fisiologia e patologia do sono; ciclos NREM/REM e critérios para avaliação de eficácia de hipnóticos, incluindo benzodiazepínicos |
-| [7725291](https://pubmed.ncbi.nlm.nih.gov/7725291/) | 1995 | Revisão | Tidsskrift for den Norske Laegeforening | Classificação, diagnóstico e tratamento da insônia; necessidade de consenso diagnóstico universal e discussão de hipnóticos disponíveis |
-| [39231170](https://pubmed.ncbi.nlm.nih.gov/39231170/) | 2024 | Estudo Observacional | PLoS ONE | Padrões de consumo e fatores associados à prescrição inapropriada de benzodiazepínicos na atenção primária; risco de dependência, tolerância e declínio cognitivo, especialmente em idosos |
-| [20467592](https://pubmed.ncbi.nlm.nih.gov/20467592/) | 2010 | Revisão | Drugs of Today | Antagonistas 5-HT2A no tratamento da insônia; benzodiazepínicos (incluindo Nitrazepam) como comparadores de referência para eficácia em indução e manutenção do sono |
-
----
-
-## Informações de Comercialização no Brasil
-
-Os dados individuais de cada registro (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no conjunto de dados extraído. O sistema confirma **20 registros ativos** de Nitrazepam na base regulatória brasileira com situação **Comercializado**.
-
-> Para consultar os registros individuais, acesse o portal da ANVISA: [consultas.anvisa.gov.br](https://consultas.anvisa.gov.br)
-
----
+|------|-----|------|------|---------|
+| [1743245](https://pubmed.ncbi.nlm.nih.gov/1743245/) | 1991 | Estudo duplo-cego cruzado | Eur J Clin Pharmacol | Em 28 pacientes com insônia, nitrazepam 5 mg e oxazepam 25 mg foram eficazes para induzir o sono e melhorar sua qualidade, em comparação com placebo |
+| [4892037](https://pubmed.ncbi.nlm.nih.gov/4892037/) | 1969 | Revisão/Comentário | Br Med J | Em 27 pacientes com superdosagem aguda (até 80 comprimidos), houve apenas sonolência; em ensaio duplo-cego, foi tão eficaz quanto o butobarbital como hipnótico |
+| [15252823](https://pubmed.ncbi.nlm.nih.gov/15252823/) | 2004 | Revisão sistemática e metanálise | Hum Psychopharmacol | Compara a eficácia de zaleplona, zolpidem e zopiclona com benzodiazepínicos (incluindo nitrazepam) no tratamento de curto prazo da insônia |
+| [7037262](https://pubmed.ncbi.nlm.nih.gov/7037262/) | 1981 | Farmacocinética | Clin Pharmacokinet | Revisão da farmacocinética clínica do nitrazepam (sem resumo disponível) |
+| [1125532](https://pubmed.ncbi.nlm.nih.gov/1125532/) | 1975 | Relato/Estudo clínico | Br J Psychiatry | Trata da dependência de nitrazepam (sem resumo disponível) |
+| [19450355](https://pubmed.ncbi.nlm.nih.gov/19450355/) | 2007 | Revisão | BMJ Clin Evid | Panorama da insônia em idosos: até 40% dos adultos têm insônia, com prevalência crescente com a idade |
+| [15089115](https://pubmed.ncbi.nlm.nih.gov/15089115/) | 2004 | Revisão | CNS Drugs | Efeitos residuais ("ressaca") dos hipnóticos, como sonolência diurna e prejuízo psicomotor e cognitivo, e risco de acidentes |
+| [39231170](https://pubmed.ncbi.nlm.nih.gov/39231170/) | 2024 | Estudo observacional | PLoS One | Padrões de consumo e prescrição inadequada de benzodiazepínicos na atenção primária; uso prolongado associado a dependência, tolerância e declínio cognitivo |
+| [10804040](https://pubmed.ncbi.nlm.nih.gov/10804040/) | 2000 | Revisão (zolpidem) | Drugs | Eficácia hipnótica do zolpidem comparável à de benzodiazepínicos como o nitrazepam |
+| [3281819](https://pubmed.ncbi.nlm.nih.gov/3281819/) | 1988 | Revisão (brotizolam) | Drugs | Brotizolam melhorou o sono de forma semelhante ao nitrazepam 2,5 e 5 mg |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 55 interações registradas, todas sem classificação de gravidade (nível "desconhecido"). Entre as primeiras listadas estão morfina, metformina, lansoprazol, hidrocortisona, loperamida, metronidazol, famotidina, ácido acetilsalicílico, bupropiona, canamicina, budesonida, metoclopramida, dexametasona, pantoprazol, omeprazol, sucralfato, vancomicina, lactulose, nizatidina e calcitriol.
+- **Outras observações da literatura**: risco de efeitos residuais no dia seguinte, dependência e declínio cognitivo com uso prolongado, sobretudo em idosos.
 
-> Nota: As advertências e contraindicações formais da bula ANVISA não foram recuperadas neste ciclo de coleta (item DG001 — Bloqueante). Recomenda-se download e parsing do PDF da bula antes de qualquer avaliação de segurança aprofundada.
-
----
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-O mecanismo de ação de Nitrazepam (modulação GABA-A via sítio benzodiazepínico) possui correspondência direta e farmacologicamente estabelecida com o distúrbio de início e manutenção do sono, sustentada por ensaios clínicos controlados históricos e extensa literatura comparativa com outros hipnóticos. No entanto, o risco conhecido de dependência, o perfil de segurança em populações vulneráveis (idosos) e a ausência dos dados regulatórios detalhados da bula exigem salvaguardas explícitas antes de qualquer expansão de uso.
+- A indicação prevista praticamente coincide com o uso original (insônia), portanto não representa reposicionamento novo. As demais previsões (encefalopatia aguda com convulsões bifásicas e síndrome de Wernicke-Korsakoff) não têm nenhum estudo de apoio, e a segunda carece de vínculo mecanístico. Além disso, o fármaco não está registrado nem comercializado no Brasil.
 
 **Para prosseguir, é necessário:**
-- Recuperar e analisar as bulas aprovadas pela ANVISA para extrair indicações aprovadas, advertências formais e contraindicações (item DG001 — Bloqueante)
-- Completar o perfil de mecanismo de ação via DrugBank API (item DG002 — Alta prioridade)
-- Avaliar formalmente o risco de dependência e síndrome de abstinência para populações de uso prolongado e idosos
-- Verificar conformidade com a regulamentação de psicotrópicos da ANVISA (Portaria SVS/MS nº 344/1998 — Lista C1 ou B1)
-- Definir plano de monitoramento farmacológico (frequência, parâmetros clínicos) para uso no contexto de reposicionamento
+- Obter a bula da ANVISA com advertências e contraindicações, pois a ausência desses dados bloqueia a triagem de segurança.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Avaliar a viabilidade regulatória: não há registro vigente no Brasil.
+- Definir se há interesse real em uma nova indicação, além da insônia já estabelecida; se não houver, o caso tende a ser arquivado.
+- Classificar a gravidade das interações medicamentosas, hoje sem nível definido.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Alectinibe Hydrochloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 35
+nav_order: 38
 evidence_level: L5
 indication_count: 0
 ---

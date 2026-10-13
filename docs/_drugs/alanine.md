@@ -2,7 +2,7 @@
 layout: default
 title: Alanine
 parent: Apenas Predição do Modelo (L5)
-nav_order: 30
+nav_order: 33
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,88 +29,76 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Alanina: Do metabolismo de aminoácidos à gastroparesia
+# Alanina: De nutriente parenteral para gastroparesia
 
 ## Resumo em Uma Frase
 
-Alanina (L-Alanina, DB00160) é um aminoácido não essencial com papel central no ciclo glicose-alanina (ciclo de Cahill) e na gliconeogênese hepática, sem indicações terapêuticas aprovadas registradas no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Gastroparesia (Gastroparesis)**, com **9 ensaios clínicos** e **3 publicações** identificados na área — porém, nenhum deles investiga a Alanina como intervenção terapêutica direta para esta condição.
-
----
+Alanina é um aminoácido não essencial, originalmente usado como componente de nutrição parenteral e de reposição hidroeletrolítica.
+O modelo TxGNN prevê que pode ser eficaz para **Gastroparesia (Gastroparesis)**, mas atualmente há **0 ensaios clínicos** e apenas **3 publicações** indiretamente relacionadas, nenhuma delas avaliando a alanina como tratamento.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Sem indicações terapêuticas aprovadas registradas |
+| Indicação Original | Nutrientes parenterais |
 | Nova Indicação Prevista | Gastroparesia (Gastroparesis) |
 | Pontuação de Previsão TxGNN | 99,37% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Número de Registros | 16 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação farmacológico da Alanina como agente terapêutico para gastroparesia. Trata-se de um aminoácido não essencial que desempenha papel fisiológico relevante no metabolismo energético: funciona como transportador de nitrogênio entre músculo e fígado e como substrato gliconeogênico, especialmente durante o jejum e em estados de estresse metabólico.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a alanina é um aminoácido não essencial utilizado como nutriente em soluções de nutrição parenteral, geralmente combinada com outros aminoácidos, glicose, lipídios e eletrólitos.
 
-A gastroparesia é uma condição caracterizada por esvaziamento gástrico retardado na ausência de obstrução mecânica, sendo mais prevalente em pacientes diabéticos. Sua fisiopatologia envolve disfunção autonômica, alterações nas células intersticiais de Cajal e distúrbios metabólicos relacionados ao controle glicêmico — domínio no qual a Alanina participa indiretamente como precursora gliconeogênica no ciclo glicose-alanina.
+Não foi estabelecida uma ligação mecanística crível entre a alanina e a gastroparesia. A pontuação do TxGNN (0,994) é apenas uma previsão do modelo, sem respaldo clínico. As três publicações recuperadas tratam de distúrbios gastrointestinais e hepáticos na doença renal terminal, de hepatosclerose diabética e de hepatopatia glicogênica no diabetes tipo 1. Elas se relacionam com a indicação apenas pela comorbidade com diabetes, pois a gastroparesia e as alterações hepáticas ou metabólicas coexistem em pacientes diabéticos.
 
-No entanto, a alta pontuação atribuída pelo TxGNN (0,9937) provavelmente reflete uma inferência por caminho indireto no grafo de conhecimento — **"metabolismo de aminoácidos → diabetes → gastroparesia"** — e não uma relação farmacológica direta entre a Alanina e a motilidade gástrica. Não há evidências clínicas ou pré-clínicas publicadas que sustentem o uso da Alanina como tratamento específico desta condição. A previsão deve ser interpretada como hipótese exploratória inicial.
-
----
+Um papel hipotético da nutrição com aminoácidos em pacientes com esvaziamento gástrico prejudicado, como a nutrição parenteral quando a alimentação enteral falha, seria apenas suporte nutricional. Não modifica a doença e não constitui evidência para reposicionamento.
 
 ## Evidências de Ensaios Clínicos
 
-> ⚠️ **Atenção**: Nenhum dos ensaios abaixo investiga a Alanina como intervenção principal. Todos foram classificados com relevância grau C (contexto da doença), sendo apresentados apenas como panorama da área terapêutica.
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT03587142](https://clinicaltrials.gov/study/NCT03587142) | Phase 2 | Concluído | 96 | Buspirone (agonista 5-HT1A) vs. placebo para saciedade precoce e sintomas de gastroparesia |
-| [NCT03941288](https://clinicaltrials.gov/study/NCT03941288) | Phase 2 | Concluído | 92 | Canabidiol (CBD) para gastroparesia e dispepsia funcional; avaliação de função gástrica |
-| [NCT01262898](https://clinicaltrials.gov/study/NCT01262898) | Phase 2 | Concluído | 79 | GSK962040 (agonista de motilin) em gastroparesia diabética tipos I e II — segurança, eficácia e dose-resposta |
-| [NCT01149369](https://clinicaltrials.gov/study/NCT01149369) | Phase 2 | Concluído | 126 | Aprepitant vs. placebo para náusea crônica e vômito de origem gástrica presumida |
-| [NCT01602549](https://clinicaltrials.gov/study/NCT01602549) | Phase 2 | Concluído | 58 | GSK962040 para esvaziamento gástrico retardado em pacientes com Parkinson em uso de L-DOPA |
-| [NCT01934192](https://clinicaltrials.gov/study/NCT01934192) | Phase 2 | Encerrado | 91 | GSK962040 para tolerância à nutrição enteral em pacientes críticos (estudo encerrado precocemente) |
-| [NCT07270939](https://clinicaltrials.gov/study/NCT07270939) | N/A | Não iniciado | 150 | Comparação de ciclos de nutrição enteral (18h, 20h, 24h) em pacientes críticos de UTI |
-| [NCT06452966](https://clinicaltrials.gov/study/NCT06452966) | N/A | Recrutando | 350 | Medicina tradicional chinesa para falência orgânica em UTI (multicêntrico) |
-| [NCT02793154](https://clinicaltrials.gov/study/NCT02793154) | Phase 4 | Encerrado | 4 | Albiglutida vs. Exenatida sobre atividade micelétrica gástrica em DM tipo 2 (encerrado com n=4) |
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-> ⚠️ **Atenção**: As publicações abaixo mencionam gastroparesia em contextos clínicos variados, mas não avaliam a Alanina como intervenção terapêutica. Relevância pendente de revisão formal.
-
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [10926110](https://pubmed.ncbi.nlm.nih.gov/10926110/) | 2000 | Review | Adv Renal Replacement Ther | Gastroparesia é complicação frequente em insuficiência renal crônica; revisão abrangente de distúrbios gastrointestinais e hepáticos em doença renal terminal e transplante |
-| [26315331](https://pubmed.ncbi.nlm.nih.gov/26315331/) | 2016 | Case Series / Review | Diabetic Medicine | Hepatoesclerose diabética como forma de microangiopatia hepática; associada a outras complicações microvasculares do diabetes, incluindo gastroparesia |
-| [33763324](https://pubmed.ncbi.nlm.nih.gov/33763324/) | 2021 | Case Report / Review | Cureus | Hepatopatia por glicogênio em DM tipo 1 com gastroparesia concomitante; discussão de diagnóstico diferencial com NAFLD |
+| [10926110](https://pubmed.ncbi.nlm.nih.gov/10926110/) | 2000 | Revisão | Advances in Renal Replacement Therapy | Distúrbios gastrointestinais e hepáticos são comuns na doença renal terminal; a gastroparesia é mais frequente na insuficiência renal crônica. Não avalia a alanina. |
+| [26315331](https://pubmed.ncbi.nlm.nih.gov/26315331/) | 2016 | Revisão | Diabetic Medicine | Descreve a hepatosclerose diabética como possível complicação microvascular do diabetes. Não avalia a alanina. |
+| [33763324](https://pubmed.ncbi.nlm.nih.gov/33763324/) | 2021 | Relato de caso | Cureus | Caso de hepatopatia glicogênica em paciente com diabetes tipo 1 que também apresentava gastroparesia. Não avalia a alanina. |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 16 registros estão cancelados. São listados os 5 principais:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100410131 | NEPHROTECT | – | Nutrientes parenterais |
+| Registro 100410159 | AMINOVEN 10% INFANT | – | Nutrientes parenterais |
+| Registro 100850145 | AMIXAL | – | Nutrientes parenterais |
+| Registro 100850109 | NUTRIFLEX PLUS | – | Nutrientes parenterais |
+| Registro 106830181 | OLIMEL | – | Reposição hidroeletrolítica e alimentação parenteral |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações descritas no grafo de conhecimento do modelo (não derivadas de bula)**: doença renal (incluindo doença renal crônica, insuficiência renal crônica e insuficiência renal terminal), nefrolitíase, nefrocalcinose, doença cardíaca e cardiovascular, hipercalcemia (incluindo hipercalcemia humoral da malignidade), sarcoidose, distúrbios do metabolismo do fósforo, nefropatia aguda por urato, piureter, intoxicação digitálica, fibrilação ventricular, fenilcetonúria e distúrbios do metabolismo da fenilalanina.
 
----
+Para advertências, contraindicações e interações medicamentosas formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN baseia-se em inferência indireta pelo grafo de conhecimento (metabolismo de aminoácidos → diabetes → gastroparesia), sem respaldo em estudos clínicos ou pré-clínicos que investiguem diretamente a Alanina para esta indicação. Os 9 ensaios clínicos e as 3 publicações identificados tratam da gastroparesia em outros contextos terapêuticos, e nenhum envolve Alanina como intervenção principal. A evidência permanece em nível L5 — apenas predição computacional.
+- A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos e sem literatura que avalie a alanina na gastroparesia. Além disso, todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Identificar um mecanismo de ação direto e plausível da Alanina sobre a motilidade gástrica ou a fisiopatologia da gastroparesia
-- Conduzir estudos pré-clínicos (modelos in vitro e in vivo) para testar efeito sobre esvaziamento gástrico
-- Obter dados completos de segurança junto à ANVISA (advertências, contraindicações e interações medicamentosas)
-- Definir forma farmacêutica e via de administração adequadas para a indicação proposta
-- Avaliar viabilidade regulatória considerando o status de não comercialização no Brasil
+- Dados do mecanismo de ação da alanina e análise de uma ligação mecanística plausível com a fisiopatologia da gastroparesia
+- Estudos pré-clínicos ou clínicos que avaliem diretamente a alanina na gastroparesia
+- Obtenção e análise das bulas na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança
+- Avaliação da compatibilidade de vias de administração e da viabilidade regulatória, dado que não há registro vigente no Brasil
+- Análise cuidadosa das contraindicações sugeridas pelo grafo de conhecimento, especialmente doença renal e cardiovascular, que são comuns na população-alvo
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

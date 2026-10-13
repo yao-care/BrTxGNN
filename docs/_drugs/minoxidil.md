@@ -2,15 +2,15 @@
 layout: default
 title: Minoxidil
 parent: Evidência Moderada (L3-L4)
-nav_order: 352
-evidence_level: L4
+nav_order: 461
+evidence_level: L3
 indication_count: 10
 ---
 
 # Minoxidil
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L3** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,75 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Minoxidil: Da alopecia androgenética à hipotricose simples do couro cabeludo
+# Minoxidil: Da hipertensão e alopecia à hipotricose simples do couro cabeludo
 
 ## Resumo em Uma Frase
 
-Minoxidil é um medicamento aprovado no Brasil para o tratamento da alopecia androgenética (queda de cabelo de padrão hereditário) em sua formulação tópica, e para hipertensão arterial grave em sua formulação oral.
-O modelo TxGNN prevê que pode ser eficaz para a **Hipotricose Simples do Couro Cabeludo (Hypotrichosis Simplex of the Scalp)**, uma rara condição genética autossômica dominante que causa perda progressiva de cabelo.
-Atualmente, há **0 ensaios clínicos** e **3 publicações** (todos relatos de caso) apoiando esta direção.
-
----
+Minoxidil é um vasodilatador originalmente usado no tratamento da hipertensão arterial e da alopecia.
+O modelo TxGNN prevê que pode ser eficaz para **hipotricose simples do couro cabeludo (Hypotrichosis simplex of the scalp)**,
+atualmente com **nenhum ensaio clínico registrado** e **3 publicações** (séries e relatos de caso) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Alopecia androgenética (formulação tópica) / Hipertensão arterial grave (formulação oral) |
-| Nova Indicação Prevista | Hipotricose Simples do Couro Cabeludo (Hypotrichosis Simplex of the Scalp) |
-| Pontuação de Previsão TxGNN | 99.99999% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
-| Decisão Recomendada | Hold |
-
----
+|------|------|
+| Indicação Original | Hipertensão arterial e alopecia (conforme o grafo de conhecimento; não há texto de indicação de registro no Brasil) |
+| Nova Indicação Prevista | Hipotricose simples do couro cabeludo (Hypotrichosis simplex of the scalp) |
+| Pontuação de Previsão TxGNN | 99,99% |
+| Nível de Evidência | L3 |
+| Situação no Mercado Brasileiro | Não comercializado (nos dados compilados) |
+| Número de Registros | 0 |
+| Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente não há dados detalhados sobre o mecanismo de ação disponíveis neste pacote de evidências. Com base na literatura consolidada, Minoxidil atua como ativador de canais de potássio dependentes de ATP (K_ATP), promovendo vasodilatação perifollicular e estimulação direta das células da papila dérmica — o que prolonga a fase anágena do ciclo capilar e aumenta o diâmetro e a densidade dos fios. Esta ação já é bem estabelecida na alopecia androgenética.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o minoxidil é um estimulante do crescimento capilar consolidado: abre canais de potássio, prolonga a fase anágena do folículo e aumenta o fluxo sanguíneo folicular. Também é um vasodilatador usado em hipertensão grave.
 
-A hipotricose simples do couro cabeludo (HSS) é uma condição monogênica rara, causada principalmente por mutações no gene CDSN (que codifica a corneodesmosin, uma proteína desmossômica), levando ao desenvolvimento folicular deficiente e queda progressiva de cabelo. A conexão teórica com Minoxidil reside na sua capacidade de compensar funcionalmente a insuficiência folicular por meio de estímulo microvascular e de proliferação celular, potencialmente independente da causa genética subjacente — uma lógica de "resgate funcional".
+A hipotricose simples do couro cabeludo é uma doença hereditária rara, de herança autossômica dominante, associada a variantes do gene *CDSN* (corneodesmosina), com crescimento insuficiente de cabelo. Como o minoxidil já é usado em outras formas de perda capilar, o mecanismo é plausivelmente aplicável.
 
-No entanto, existe uma limitação mecanística importante: ao contrário da AGA (onde os folículos estão miniaturizados, mas presentes), na HSS os folículos podem apresentar defeitos estruturais congênitos mais profundos. A eficácia de Minoxidil depende, portanto, do grau de preservação folicular residual em cada paciente. Os três relatos de caso disponíveis são encorajadores, mas insuficientes para estabelecer benefício clínico geral. Investigação prospectiva mais estruturada é necessária.
-
----
+Há, porém, uma limitação importante: as três publicações (2022–2024) descrevem minoxidil oral ou tópico quase sempre combinado com fatores de crescimento, extratos botânicos ou plasma rico em plaquetas (PRP). Esses desenhos impedem atribuir o efeito ao minoxidil isolado.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Relato de Caso | Frontiers in Genetics | Criança de 8 anos com HSS causada por mutação no CDSN tratada com combinação de extratos botânicos e Minoxidil, com melhora clínica relatada |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Relato de Caso | J Dermatological Treatment | Paciente de 14 anos com hipotricose simples hereditária: tratamento combinado de plasma rico em plaquetas (PRP) intralesional + Minoxidil tópico 2% resultou em crescimento capilar observável |
-| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Série de Casos | Dermatologic Therapy | Hipotricose simples hereditária tratada com Minoxidil oral associado a fatores de crescimento; achados clínicos favoráveis relatados |
-
----
-
-## Informações de Comercialização no Brasil
-
-Há **20 registros** ativos na ANVISA para produtos contendo Minoxidil. Os detalhes individuais (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis nos dados fornecidos neste pacote. Com base no perfil regulatório consolidado do fármaco, os registros incluem tipicamente:
-
-| Forma Farmacêutica | Concentração | Indicação Conhecida |
-|--------------------|-------------|---------------------|
-| Solução tópica | 2% / 5% | Alopecia androgenética feminina e masculina |
-| Espuma tópica | 5% | Alopecia androgenética masculina |
-| Comprimido oral | 2,5 mg / 10 mg | Hipertensão arterial grave / uso off-label para alopecia |
-
-> Para detalhes completos de cada registro, consultar diretamente o sistema CONSULTAS da ANVISA.
-
----
+|------|-----|------|------|---------|
+| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Série de casos / estudo clínico pequeno | Dermatologic Therapy | Tratamento da hipotricose simples hereditária do couro cabeludo com minoxidil oral e fatores de crescimento |
+| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Relato de caso | Frontiers in Genetics | Criança de 8 anos com HSS por mutação em *CDSN*, tratada com extratos botânicos e minoxidil |
+| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Relato de caso | J Dermatol Treat | Paciente de 14 anos tratada com injeção de PRP e minoxidil tópico 2%, com resposta relatada como bem-sucedida |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações descritas no grafo de conhecimento** (não são texto de bula): hipotensão ortostática, atrofia de múltiplos sistemas, síndrome de taquicardia postural ortostática, doença renal, acidente vascular cerebral e doenças cerebrovasculares, infarto do miocárdio, doenças cardiovasculares e cardíacas, feocromocitoma e paraganglioma simpático, pericardite, derrame pericárdico e tamponamento cardíaco, hemoglobinopatias e dermatoses do couro cabeludo.
+- **Interações medicamentosas**: foram identificadas 100 interações no total. As listadas são, em sua maioria, de nível moderado: corticosteroides (hidrocortisona, triamcinolona, dexametasona, betametasona, budesonida, prednisolona, prednisona), bupropiona, morfina, ópio, inibidores de SGLT2 (canagliflozina, dapagliflozina, empagliflozina, ertugliflozina), dronabinol, nabilona e sapropterina. Calcitriol, clotrimazol e metformina têm nível desconhecido.
 
----
+Consulte a bula para as advertências formais de segurança.
+
+## Outras Indicações Previstas (Visão Resumida)
+
+| Indicação Prevista | Evidência | Recomendação | Comentário |
+|------|------|------|------|
+| Alopecia areata difusa | L3 | Questão de pesquisa | Minoxidil não trata a causa autoimune; é usado como adjuvante. Diretrizes favorecem inibidores de JAK e corticosteroides. |
+| Pseudopelade de Brocq | L4 | Hold | Alopecia cicatricial com destruição folicular; a literatura é toda sobre alopecia androgenética (indireta). |
+| Hipertensão arterial pulmonar | L4 | Hold | Dados antigos (1976–1977) em hipertensão sistêmica; retenção de líquidos e derrame pericárdico preocupam. |
+| Hipotricose congênita com milia, malformação arteriovenosa pulmonar, HAP associada a cardiopatia congênita, a doença do tecido conjuntivo e a HIV, glaucoma hereditário primário | L5 | Hold | Apenas previsão computacional, sem ensaios nem literatura. Vasodilatação pode ser desfavorável em vários desses cenários. |
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-As evidências disponíveis para o uso de Minoxidil em hipotricose simples do couro cabeludo restringem-se a três relatos de caso (nível L4), sem nenhum ensaio clínico controlado registrado. Embora o mecanismo seja biologicamente plausível e os relatos sejam favoráveis, a natureza genética e estrutural da HSS impõe limitações que exigem investigação mais robusta antes de qualquer avanço clínico formal.
+- A hipotricose simples do couro cabeludo tem três publicações de casos que apoiam a direção, com mecanismo plausível. Porém, não há ensaios registrados, o efeito do minoxidil isolado não é separável e o fármaco não está comercializado no Brasil.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de mecanismo de ação (MOA) do DrugBank para aprofundar a análise de compatibilidade com a fisiopatologia da HSS
-- Recuperar advertências, contraindicações e interações medicamentosas da bula ANVISA (atualmente com data gap bloqueante)
-- Conduzir um estudo-piloto prospectivo ou observacional com número adequado de pacientes diagnosticados geneticamente com HSS (mínimo recomendado: N ≥ 20)
-- Definir endpoint primário objetivável (ex.: densidade capilar por tricoscopia digital, contagem de fios/cm²)
-- Avaliar se a via tópica ou oral é mais adequada para esta indicação, considerando biodisponibilidade folicular e perfil de segurança em população pediátrica (casos relatados incluem crianças)
-- Registrar protocolo no ClinicalTrials.gov para garantir rastreabilidade e viabilizar futuras meta-análises sobre esta condição rara
+- Obter a bula e as informações de segurança aprovadas pela ANVISA (advertências e contraindicações), hoje ausentes.
+- Complementar os dados de mecanismo de ação.
+- Gerar evidência com minoxidil em monoterapia (série de casos maiores ou ensaio controlado).
+- Definir via e dose (oral em baixa dose ou tópica) e plano de monitoramento cardiovascular, incluindo pressão arterial, frequência cardíaca, edema e derrame pericárdico.
+- Esclarecer a situação regulatória do minoxidil no Brasil, já que os dados compilados indicam 0 registros.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Tadalafil
 parent: Apenas Predição do Modelo (L5)
-nav_order: 453
+nav_order: 603
 evidence_level: L5
 indication_count: 8
 ---
@@ -29,14 +29,12 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
----
-
-# Tadalafil: Da Disfunção Erétil para Hipertricose Universalis Congênita Tipo Ambras
+# Tadalafila: Da hiperplasia prostática benigna à hipertricose congênita universal tipo Ambras
 
 ## Resumo em Uma Frase
 
-Tadalafil é um inibidor seletivo da fosfodiesterase tipo 5 (PDE5), clinicamente aprovado para o tratamento da disfunção erétil, hipertensão arterial pulmonar (HAP) e hiperplasia prostática benigna (HPB).
-O modelo TxGNN prevê que pode ser eficaz para **Hipertricose Universalis Congênita Tipo Ambras (Ambras type hypertrichosis universalis congenita)**, porém esta previsão conta com **0 ensaios clínicos** e **0 publicações** de suporte — sendo baseada exclusivamente na pontuação do modelo, sem plausibilidade biológica estabelecida.
+Tadalafila é um inibidor da fosfodiesterase tipo 5 (PDE5), originalmente usado em hiperplasia prostática benigna, hipertensão pulmonar e disfunção erétil, entre outras condições.
+O modelo TxGNN prevê que pode ser eficaz para **Hipertricose universal congênita tipo Ambras (Ambras type hypertrichosis universalis congenita)**, mas há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se de uma previsão puramente computacional.
 
 ---
 
@@ -44,23 +42,37 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertricose Universalis Congê
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Disfunção erétil / Hipertensão arterial pulmonar / HPB |
-| Nova Indicação Prevista | Hipertricose Universalis Congênita Tipo Ambras |
+| Indicação Original | Hiperplasia prostática benigna (as indicações originais vêm do grafo de conhecimento; não há texto de indicação de registro no Brasil) |
+| Nova Indicação Prevista | Hipertricose universal congênita tipo Ambras (Ambras type hypertrichosis universalis congenita) |
 | Pontuação de Previsão TxGNN | 99,98% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Com base em conhecimento médico amplamente estabelecido, Tadalafil é um inibidor seletivo da PDE5 que eleva os níveis intracelulares de GMPc, promovendo relaxamento da musculatura lisa vascular. Essa ação já é clinicamente validada em três indicações aprovadas: disfunção erétil (vasodilatação peniana), hipertensão arterial pulmonar (relaxamento da vasculatura pulmonar pulmonar — Adcirca®, aprovado pela FDA) e hiperplasia prostática benigna (relaxamento da musculatura lisa prostática e vesical).
+Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a tadalafila é um inibidor da PDE5: aumenta o GMPc (monofosfato de guanosina cíclico) e provoca vasodilatação, o que sustenta seu uso em disfunção erétil, hipertensão pulmonar e hiperplasia prostática benigna.
 
-A Hipertricose Universalis Congênita Tipo Ambras é uma condição genética rara e grave, caracterizada por crescimento excessivo e difuso de pelos em todo o corpo desde o nascimento. Embora existam evidências preliminares de que a via NO/GMPc participa de alguma forma da regulação do ciclo folicular piloso, **não existe evidência clínica ou pré-clínica direta** que associe a inibição da PDE5 ao tratamento ou modificação desta condição. Vale destacar que Minoxidil — fármaco notoriamente associado à hipertricose como efeito adverso — atua via canais de potássio ATP-dependentes, mecanismo completamente distinto da inibição de PDE5. Essa analogia, portanto, **não pode ser extrapolada** para Tadalafil.
+**Na prática, esta previsão não tem respaldo mecanístico.** A síndrome de Ambras é um distúrbio genético raro do desenvolvimento do folículo piloso (rearranjos cromossômicos que afetam a regulação do gene TRPS1). Não há relação demonstrada entre a inibição da PDE5 e a correção desse defeito. Além disso, a hipertricose é um efeito adverso conhecido de outros vasodilatadores, como o minoxidil. Assim, um mecanismo baseado em vasodilatação mediada por GMPc tenderia, de forma plausível, a piorar a condição, e não a tratá-la.
 
-A elevada pontuação do TxGNN para esta indicação provavelmente reflete uma **falsa relação de vizinhança no grafo de conhecimento (KG)**, gerada pela proximidade entre nós de regulação vascular e de crescimento folicular no grafo, e não uma plausibilidade biológica real. Os dados disponíveis não oferecem qualquer suporte mecanístico ou clínico para este reposicionamento específico.
+A pontuação alta (0,9998; posição 228 no ranking do modelo) reflete apenas a estrutura do grafo de conhecimento, sem sustentação clínica ou na literatura.
+
+---
+
+## Outras Previsões do Modelo (Todas sem Respaldo)
+
+| Posição | Doença prevista | Pontuação | Nível | Observação |
+|------|------|------|------|------|
+| 2 | Hipertricose | 99,98% | L5 | Direção farmacológica possivelmente oposta (hipertricose induzida por vasodilatadores) |
+| 3 | Síndrome de malformação com componente dentário/periodontal | 99,97% | L5 | Sem vínculo mecanístico plausível |
+| 4 | Síndrome com malformação de Dandy-Walker como característica principal | 99,97% | L5 | Malformação estrutural congênita; sem vínculo plausível |
+| 5 | Anormalidade genética isolada da haste do cabelo | 99,96% | L5 | Defeito estrutural determinado geneticamente |
+| 6 | Tricomegalia isolada familiar | 99,65% | L5 | Sem mecanismo demonstrado |
+| 7 | Cardiopatia cifoescoliótica | 99,43% | L5 | Racional indireto fraco (hipertensão pulmonar e sobrecarga do coração direito); apenas hipótese |
+| 8 | Enxaqueca com aura de tronco encefálico | 99,08% | L4 | Único registro é um relato de caso de **efeito adverso**, sinal de dano e não de benefício |
 
 ---
 
@@ -72,19 +84,29 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+Para a indicação principal (hipertricose universal congênita tipo Ambras), atualmente não há literatura relacionada.
 
----
+Entre as demais previsões, a única publicação identificada refere-se à enxaqueca com aura de tronco encefálico:
 
-## Informações de Comercialização no Brasil
-
-Tadalafil está registrado no Brasil com **20 registros ativos** e status de produto **comercializado**. Os dados detalhados de cada registro — incluindo número de registro, nome comercial, forma farmacêutica e indicação aprovada — não constam neste Evidence Pack e devem ser consultados diretamente no portal da ANVISA (www.anvisa.gov.br).
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [17059442](https://pubmed.ncbi.nlm.nih.gov/17059442/) | 2006 | Relato de caso | Cephalalgia | Tadalafila associada a aura migranosa típica sem cefaleia, ou seja, um evento adverso e não um efeito terapêutico (resumo não disponível) |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento (não é texto de bula):** o grafo associa a tadalafila a contraindicação em diversas condições, entre elas:
+  - Cardiovasculares: estenose aórtica e doenças da valva aórtica, infarto do miocárdio, síndrome coronariana aguda, trombose coronariana, cardiomiopatia hipertrófica (inclusive familiar) e distúrbios hipotensivos.
+  - Cerebrovasculares: acidente vascular cerebral, doença cerebrovascular e infarto cerebral.
+  - Hematológicas: anemia falciforme, hemoglobinopatias, persistência hereditária de hemoglobina fetal, doenças da coagulação, mieloma de plasmócitos e leucemia.
+  - Penianas: priapismo, doença de Peyronie, fibromatose peniana e balanite xerótica obliterante.
+  - Outras: insuficiência hepática, epilepsia, perda auditiva (inclusive surdez mista ligada ao X com gusher perilinfático) e perda visual funcional.
+- **Interações medicamentosas:** foram identificadas 100 interações no total; entre as listadas, a maioria é de gravidade moderada.
+  - Moderadas: aprepitanto, dexametasona, lorcasserina, claritromicina, cimetidina, miconazol, clotrimazol, sapropterina, troglitazona e os inibidores de SGLT2 (canagliflozina, dapagliflozina, empagliflozina, ertugliflozina).
+  - Leve: papaverina.
+  - Gravidade não classificada: pantoprazol, glimepirida, doxiciclina, morfina, metformina e omeprazol.
+- Para advertências e contraindicações em bula, consulte a bula aprovada pela ANVISA.
 
 ---
 
@@ -93,20 +115,14 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-Não existe evidência clínica, pré-clínica ou plausibilidade biológica estabelecida que suporte o uso de Tadalafil para hipertricose universalis congênita tipo Ambras. A alta pontuação do TxGNN (99,98%) é provavelmente um artefato do grafo de conhecimento — o mecanismo PDE5/cGMP não possui nenhum vínculo documentado com as vias genéticas que causam esta condição.
+- A previsão baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. O racional farmacológico sugere inclusive direção oposta à terapêutica, já que vasodilatadores podem causar hipertricose.
+- A tadalafila não tem registro comercializado no Brasil nos dados compilados, e há contraindicações extensas segundo o grafo de conhecimento.
 
 **Para prosseguir, é necessário:**
-- **Investigação mecanística básica:** verificar se a via PDE5/GMPc tem papel documentado no ciclo folicular em modelos genéticos de hipertricose congênita
-- **Estudos pré-clínicos:** conduzir experimentos em modelos animais antes de qualquer avanço translacional
-- **Dados completos de MOA** de Tadalafil via DrugBank (lacuna DG002)
-- **Advertências e contraindicações da bula brasileira** via ANVISA (lacuna DG001 — Blocking)
-- **Acesso aos detalhes dos 20 registros ANVISA** para confirmar as indicações aprovadas localmente e avaliar cobertura regulatória
-
-> ⚠️ **Nota adicional:** Dentre as 8 indicações previstas neste Evidence Pack, a mais promissora mecanisticamente é a **cardiopatia por cifoscoliose (kyphoscoliotic heart disease)** — condição que pode evoluir para hipertensão pulmonar secundária (cor pulmonale), indicação para a qual Tadalafil já possui aprovação da FDA. Recomenda-se avaliar este candidato como prioridade para um relatório separado.
-
----
-
-> *Este relatório é gerado automaticamente com base em dados do Evidence Pack e destina-se exclusivamente a fins de pesquisa. Não constitui aconselhamento médico. Candidatos de reposicionamento devem ser validados clinicamente antes de qualquer aplicação.*
+- Dados do mecanismo de ação (MOA) a partir do DrugBank, para permitir análise mecanística formal.
+- Advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança).
+- Evidência pré-clínica que demonstre plausibilidade biológica da inibição de PDE5 em distúrbios do folículo piloso, o que hoje não existe.
+- Avaliar a priorização de outras previsões com racional mais plausível, como a cardiopatia cifoescoliótica (via hipertensão pulmonar), antes de qualquer investimento nesta indicação.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

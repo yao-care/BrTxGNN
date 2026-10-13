@@ -2,15 +2,15 @@
 layout: default
 title: Mometasone
 parent: Evidência Moderada (L3-L4)
-nav_order: 355
-evidence_level: L3
+nav_order: 465
+evidence_level: L4
 indication_count: 10
 ---
 
 # Mometasone
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,74 +29,74 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Mometasone: De Corticosteroide Tópico a Linfoma Cutâneo Primário de Células T
+# Mometasona: De produtos para terapia nasal ao linfoma cutâneo primário de células T
 
 ## Resumo em Uma Frase
 
-Mometasone furoato é um corticosteroide tópico sintético de alta potência (Classe III), amplamente utilizado no tratamento de condições inflamatórias cutâneas como dermatite atópica, psoríase e rinite alérgica.
-O modelo TxGNN prevê que pode ser eficaz para o **Linfoma Cutâneo Primário de Células T (primary cutaneous T-cell lymphoma)**,
-atualmente com **0 ensaios clínicos** e **2 publicações** apoiando esta direção — embora a fundamentação mecanística seja clinicamente robusta, com suporte de diretrizes NCCN.
-
----
+Mometasona (na forma de furoato de mometasona) é um corticosteroide originalmente registrado na ANVISA como produto para terapia nasal de ação específica.
+O modelo TxGNN prevê que pode ser eficaz para **linfoma cutâneo primário de células T (primary cutaneous T-cell lymphoma)**,
+mas atualmente há **0 ensaios clínicos** e apenas **2 publicações** (ambos relatos de caso, sem teste direto da mometasona) relacionadas a esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Condições inflamatórias cutâneas (dermatite, psoríase) e rinite alérgica |
-| Nova Indicação Prevista | Linfoma Cutâneo Primário de Células T (primary cutaneous T-cell lymphoma) |
-| Pontuação de Previsão TxGNN | 99.36% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não registrado na ANVISA (dados disponíveis: 0 registros) |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+|------|------|
+| Indicação Original | Produtos para terapia nasal de ação específica |
+| Nova Indicação Prevista | Linfoma cutâneo primário de células T (primary cutaneous T-cell lymphoma) |
+| Pontuação de Previsão TxGNN | 99,36% |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 9 (todos cancelados) |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Mometasone furoato atua como agonista do receptor de glicocorticoides (GR), e este mecanismo está diretamente relacionado à sua ação sobre linfócitos T malignos: a ativação do GR induz apoptose em células T por meio da regulação positiva de BIM e negativa de Bcl-2, além de inibir a sinalização de NF-κB e a produção de IL-2 — bloqueando efetivamente a proliferação de clones T neoplásicos na pele.
+Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, a mometasona é um corticosteroide potente que atua como ligante do receptor de glucocorticoide (NR3C1), usado por via intranasal em asma, rinite alérgica e polipose nasal, e por via tópica em dermatoses alérgicas.
 
-O linfoma cutâneo primário de células T (CTCL), especialmente em seus subtipos de estágios iniciais como Micose Fungoides (MF) Stage IA-IIA, manifesta-se como manchas e placas eritematosas que clinicamente podem mimetizar dermatite inflamatória — a indicação original do fármaco. Ambas as condições compartilham o mesmo compartimento anatômico (a pele) e envolvem mecanismos imunológicos mediados por células T. Não por acaso, as diretrizes do NCCN recomendam corticosteroides tópicos de alta potência como terapia cutânea-dirigida de primeira linha para MF Stage IA-IIA, com nível de evidência **Categoria 1**.
+Corticosteroides tópicos já são empregados como terapia dirigida à pele nos estágios iniciais da micose fungoide (lesões em mancha ou placa), a forma mais comum de linfoma cutâneo de células T. Seus efeitos incluem a indução de apoptose de linfócitos e ação anti-inflamatória, mediadas pelo receptor de glucocorticoide. Isso confere plausibilidade biológica à previsão, e a pontuação elevada é coerente com esse efeito de classe.
 
-Mometasone, classificado como corticosteroide Classe III de alta potência, possui exatamente o perfil farmacológico indicado nestas diretrizes. A previsão do TxGNN não representa uma extrapolação mecanística distante, mas sim a extensão natural de um uso tópico já bem estabelecido em inflamação cutânea para um contexto linfoproliferativo de mesmo compartimento. A escassez de ensaios clínicos específicos com Mometasone em CTCL reflete muito mais uma lacuna de pesquisa do que ausência de plausibilidade biológica.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
+Há, porém, uma ressalva importante: não existem dados de estudos específicos com mometasona nessa indicação. Os dois artigos recuperados tratam de tapinarof em pseudolinfoma cutâneo (em que a mometasona apenas falhou antes da troca de terapia) e de um caso pediátrico de micose fungoide CD8+ CD56+. Nenhum deles testa a mometasona diretamente.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [25442255](https://pubmed.ncbi.nlm.nih.gov/25442255/) | 2015 | Case Report | Journal of Cutaneous Pathology | Relato de Micose Fungoides CD8+CD56+ de fenótipo citotóxico em criança de 11 anos com 7 anos de evolução; manchas e placas eritematosas em tronco e extremidades; destaca a dificuldade diagnóstica em crianças e a apresentação clínica atípica do CTCL |
-| [40821495](https://pubmed.ncbi.nlm.nih.gov/40821495/) | 2025 | Case Report | Proceedings (Baylor University Medical Center) | Pseudolinfoma cutâneo refratário em mulher de 62 anos tratado com tapinarof após falha terapêutica com mometasone e tacrolimus; ilustra o uso de corticosteroides tópicos no espectro linfoproliferativo cutâneo e os limites de suas respostas |
+|------|-----|------|------|---------|
+| [40821495](https://pubmed.ncbi.nlm.nih.gov/40821495/) | 2025 | Relato de caso | Proceedings (Baylor Univ. Med. Center) | Pseudolinfoma cutâneo refratário em mulher de 62 anos; sem resposta a mometasona e tacrolimo, tratado com tapinarof |
+| [25442255](https://pubmed.ncbi.nlm.nih.gov/25442255/) | 2015 | Relato de caso | J Cutan Pathol | Micose fungoide infantil com imunofenótipo citotóxico CD8+ CD56+ em menino de 11 anos; não avalia mometasona |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 9 registros encontrados estão cancelados; não há registro vigente.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 100431341 | Furoato de Mometasona | Não informada | Produtos para terapia nasal de ação específica |
+| Registro 178170887 | Amome | Não informada | Produtos para terapia nasal de ação específica |
+| Registro 100431344 | Ventus | Não informada | Produtos para terapia nasal de ação específica |
+| Registro 100431349 | Monax | Não informada | Produtos para terapia nasal de ação específica |
+| Registro 100290217 | Nasonex® | Não informada | Produtos para terapia nasal de ação específica |
+
+(Exibidos os 5 primeiros de 9 registros cancelados.)
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foi identificada uma entrada de farmacologia, a ligação ao receptor de glucocorticoide (NR3C1) humano, que corresponde ao alvo terapêutico esperado e não a uma interação medicamentosa clínica.
 
----
+Consulte a bula para as demais informações de segurança (advertências e contraindicações).
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Mometasone é um corticosteroide Classe III de alta potência cujo mecanismo de ação — indução de apoptose em linfócitos T via ativação do receptor GR — é diretamente relevante ao CTCL; corticosteroides tópicos de alta potência figuram como recomendação **NCCN Categoria 1** para Micose Fungoides Stage IA-IIA, conferindo base clínica sólida à previsão do TxGNN, mesmo na ausência de ensaios controlados com Mometasone especificamente.
+- A previsão tem pontuação alta e plausibilidade de classe, mas não há ensaios clínicos nem estudos com mometasona nessa indicação, apenas dois relatos de caso indiretos (nível L4). Além disso, não há registro vigente no Brasil, e as informações de segurança da bula não estão disponíveis.
 
 **Para prosseguir, é necessário:**
-- Verificar registros ANVISA diretamente no portal (os dados disponíveis indicam 0 registros, o que pode refletir lacuna de coleta — Mometasone é comercializado globalmente sob marcas como Nasonex® e Elocom®)
-- Obter dados completos de MOA e categorias DrugBank (DB00764) via API
-- Levantar advertências, contraindicações e interações medicamentosas da bula ANVISA e/ou FDA
-- Buscar ensaios clínicos específicos de Mometasone em CTCL em bases complementares (EU Clinical Trials Register, ICTRP regional)
-- Delimitar a indicação ao subgrupo com maior benefício esperado: **Micose Fungoides Stage IA-IIA** com lesões em placa/mancha, para eventual desenho de estudo de viabilidade prospectivo
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa necessária para a triagem de segurança.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Revisar a literatura sobre corticosteroides tópicos na micose fungoide em estágio inicial, buscando dados específicos de mometasona.
+- Avaliar a compatibilidade de via e formulação (tópica) e a situação regulatória, dado que todos os registros brasileiros estão cancelados.
+- Considerar um estudo exploratório de fase inicial, caso a revisão sustente a hipótese.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

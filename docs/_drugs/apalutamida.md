@@ -2,7 +2,7 @@
 layout: default
 title: Apalutamida
 parent: Apenas Predição do Modelo (L5)
-nav_order: 65
+nav_order: 71
 evidence_level: L5
 indication_count: 0
 ---

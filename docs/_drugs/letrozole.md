@@ -2,7 +2,7 @@
 layout: default
 title: Letrozole
 parent: Evidência Alta (L1-L2)
-nav_order: 306
+nav_order: 401
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,96 +29,112 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Letrozole: Da Terapia Endócrina ao Carcinoma Mamário Feminino (Female Breast Carcinoma)
+# Letrozol: Do câncer de mama hormônio-dependente ao carcinoma de mama feminino
 
 ## Resumo em Uma Frase
 
-Letrozole é um inibidor não esteroidal de aromatase de terceira geração, amplamente aprovado no mundo para o tratamento do câncer de mama com receptor hormonal positivo em mulheres pós-menopausa, porém sem registro ativo na ANVISA no Brasil até esta data.
-O modelo TxGNN prevê com 99,98% de confiança que pode ser eficaz para o **Carcinoma Mamário Feminino (Female Breast Carcinoma)**,
-atualmente com **mais de 40 ensaios clínicos registrados** — incluindo múltiplos estudos Phase 3 concluídos — apoiando esta direção.
+Letrozol é um inibidor da aromatase, classificado nos registros brasileiros como antineoplásico.
+O modelo TxGNN prevê que pode ser eficaz para **carcinoma de mama feminino (female breast carcinoma)**,
+atualmente com **41 ensaios clínicos** e **20 publicações** apoiando esta direção.
 
----
+Observação: trata-se de um uso já estabelecido do fármaco, e não de um reposicionamento propriamente dito.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Sem registro na ANVISA |
-| Nova Indicação Prevista | Carcinoma Mamário Feminino (Female Breast Carcinoma) |
+| Indicação Original | Antineoplásico (texto de registro na ANVISA) |
+| Nova Indicação Prevista | Carcinoma de mama feminino (female breast carcinoma) |
 | Pontuação de Previsão TxGNN | 99,98% |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 17 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação (MOA) registrados de forma estruturada neste sistema. Com base nas informações amplamente disponíveis, Letrozole pertence à classe dos **inibidores não esteroidais de aromatase**. A enzima aromatase (CYP19A1) catalisa a conversão de andrógenos em estrógenos nos tecidos periféricos — especialmente o tecido adiposo — de mulheres na pós-menopausa. Ao inibir esta via de forma competitiva e reversível, Letrozole reduz os níveis séricos de estradiol em até 98%, privando células tumorais que expressam o receptor estrogênico (ERα/ESR1) de seu principal sinal proliferativo.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo as informações da literatura, o letrozol é um inibidor não esteroidal da aromatase: bloqueia a conversão de androgênios em estrogênios e, assim, reduz o crescimento tumoral dependente de estrogênio no câncer de mama com receptores hormonais positivos.
 
-O carcinoma mamário feminino representa a indicação central de Letrozole na oncologia global, aprovada pela FDA (EUA), EMA (Europa), PMDA (Japão) e outras agências regulatórias para os contextos neoadjuvante, adjuvante e de doença avançada/metastática. A relação entre supressão estrogênica e inibição do crescimento de tumores ER+ é uma das associações farmacológicas mais bem validadas em toda a oncologia, sustentada por décadas de pesquisa clínica de alto nível, incluindo os estudos BIG 1-98, PALOMA-2, MONALEESA-2 e NATALEE.
+A relação entre a indicação original (antineoplásico) e a nova indicação é direta: o câncer de mama hormônio-dependente é o uso oncológico consolidado do letrozol. A previsão do TxGNN, portanto, reflete uma indicação já conhecida, e não uma extensão para uma doença nova.
 
-A pontuação TxGNN de 99,98% confirma, pelo modelo de grafo de conhecimento, a correspondência direta entre o mecanismo de Letrozole e a biologia do carcinoma mamário feminino — uma validação cruzada entre o modelo computacional e a evidência clínica já consolidada. A ausência de registro na ANVISA não reflete limitação de eficácia, mas uma lacuna de acesso ao mercado brasileiro que pode ser explorada.
-
----
+Existem evidências de fase 3 para combinações como ribociclibe + letrozol (MONALEESA-2) e palbociclibe + letrozol (PALOMA-2). O mecanismo é aplicável sobretudo a tumores com receptor de estrogênio positivo (RE+). Previsões vizinhas, como o câncer de mama RE-negativo, provavelmente refletem proximidade na ontologia de doenças e não atividade real.
 
 ## Evidências de Ensaios Clínicos
 
+Foram identificados 41 ensaios para esta indicação. Abaixo estão os mais relevantes (graus A e B na análise de relevância).
+
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00003140](https://clinicaltrials.gov/study/NCT00003140) | Phase 3 | Concluído | 5.187 | Estudo MA.17 (NCIC CTG): Letrozole versus placebo após ≥5 anos de tamoxifeno adjuvante em mulheres com câncer de mama primário; estudo fundamental que estabeleceu o benefício da terapia adjuvante estendida |
-| [NCT00248170](https://clinicaltrials.gov/study/NCT00248170) | Phase 3 | Concluído | 4.172 | Comparação head-to-head de Letrozole (2,5 mg/dia × 5 anos) versus anastrozole (1 mg/dia × 5 anos) como adjuvância em mulheres pós-menopausa com câncer de mama HR+ com linfonodos positivos |
-| [NCT02338310](https://clinicaltrials.gov/study/NCT02338310) | Phase 3 | Ativo, não recrutando | 4.486 | Estudo POETIC: terapia endócrina perioperatória com inibidor de aromatase — determina se Ki67 medido pós-início de AI prediz tempo de recorrência de forma individual, orientando intensidade do tratamento adjuvante |
-| [NCT00754845](https://clinicaltrials.gov/study/NCT00754845) | Phase 3 | Concluído | 1.918 | Randomização duplo-cega de Letrozole versus placebo em mulheres que completaram 5 anos de inibidor de aromatase como adjuvância; avalia benefício de extensão adicional da terapia endócrina |
-| [NCT00330317](https://clinicaltrials.gov/study/NCT00330317) | Phase 3 | Concluído | 300 | Duração ótima de Letrozole neoadjuvante para regressão tumoral em mulheres pós-menopausa com câncer de mama primário HR+, visando viabilizar cirurgia conservadora da mama |
-| [NCT00673335](https://clinicaltrials.gov/study/NCT00673335) | Phase 3 | Concluído | 170 | Estudo LIBER: Letrozole versus placebo para prevenção de câncer de mama em mulheres pós-menopausa portadoras de mutação germinativa BRCA1/2; duração de acompanhamento de 15 anos |
-| [NCT01626222](https://clinicaltrials.gov/study/NCT01626222) | Phase 3B | Concluído | 301 | Estudo 4EVER: eficácia e segurança de everolimus + exemestane em câncer de mama ER+ localmente avançado ou metastático após progressão em inibidor de aromatase não esteroidal (como Letrozole) |
-| [NCT06311383](https://clinicaltrials.gov/study/NCT06311383) | N/A | Concluído | 2.610 | Grande estudo observacional real-world (Alemanha): avaliação de efetividade de ribociclib + AI/fulvestrant versus monoterapia endócrina ou quimioterapia como tratamento de primeira linha em câncer de mama HR+/HER2- metastático |
-| [NCT07340658](https://clinicaltrials.gov/study/NCT07340658) | Phase 3 | Não iniciado | 300 | Estudo SIE-3: Letrozole em formulação injetável subcutânea versus Femara® oral, ambos combinados com palbociclib, como primeira linha em câncer de mama HR+/HER2- avançado ou metastático — valida novas formulações do fármaco |
-| [NCT00171704](https://clinicaltrials.gov/study/NCT00171704) | Phase 3 | Concluído | 263 | Avaliação dos efeitos de Letrozole versus tamoxifeno sobre metabolismo ósseo (densidade mineral, marcadores de remodelação) e metabolismo lipídico em mulheres pós-menopausa com câncer de mama precoce HR+ ressecado |
-
----
+| [NCT02941926](https://clinicaltrials.gov/study/NCT02941926) | Phase 3 | Concluído | 3246 | COMPLEEMENT-1: ribociclibe + letrozol em câncer de mama avançado HR+/HER2- sem hormonioterapia prévia; dados adicionais de segurança e eficácia |
+| [NCT02600923](https://clinicaltrials.gov/study/NCT02600923) | Phase 3 | Concluído | 131 | Palbociclibe + letrozol em mulheres na pós-menopausa HR+/HER2- na América Latina (acesso antecipado) |
+| [NCT01740427](https://clinicaltrials.gov/study/NCT01740427) | Phase 3 | Concluído | 666 | PALOMA-2: palbociclibe + letrozol vs. placebo + letrozol em primeira linha avançada ER+/HER2- |
+| [NCT03425838](https://clinicaltrials.gov/study/NCT03425838) | Phase 3 | Ativo, sem recrutamento | 1050 | SONIA: inibidor de aromatase + CDK4/6 em primeira vs. segunda linha |
+| [NCT00908531](https://clinicaltrials.gov/study/NCT00908531) | Phase 3 | Encerrado | 123 | Letrozol por 4 meses vs. cirurgia primeiro em pós-menopausa com tumores HR+ > 2 cm; encerrado precocemente |
+| [NCT00382070](https://clinicaltrials.gov/study/NCT00382070) | Phase 3 | Desconhecido | 3966 | Cinco anos de letrozol vs. placebo após 5 anos de terapia hormonal prévia |
+| [NCT04584853](https://clinicaltrials.gov/study/NCT04584853) | Phase 3 | Ativo, sem recrutamento | 123 | POETIC-A: terapia endócrina adjuvante com ou sem abemaciclibe em alto risco de recidiva |
+| [NCT00433589](https://clinicaltrials.gov/study/NCT00433589) | Phase 3 | Concluído | 6600 | MINDACT: assinatura de 70 genes para decidir quimioterapia adjuvante; o letrozol é parte da terapia endócrina |
+| [NCT04272801](https://clinicaltrials.gov/study/NCT04272801) | Phase 2 | Ativo, sem recrutamento | 84 | Terapia endócrina pré-operatória por 3 meses em mulheres ≥ 65 anos para orientar decisões de radioterapia |
+| [NCT02712723](https://clinicaltrials.gov/study/NCT02712723) | Phase 2 | Ativo, sem recrutamento | 121 | Letrozol + ribociclibe vs. letrozol neoadjuvante em ER+/HER2- inicial |
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada indexada para esta combinação específica de busca (female breast carcinoma + Letrozole).
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [35263519](https://pubmed.ncbi.nlm.nih.gov/35263519/) | 2022 | RCT | N Engl J Med | Sobrevida global com ribociclibe + letrozol em câncer de mama avançado; análise de seguimento do estudo de fase 3 |
+| [29718092](https://pubmed.ncbi.nlm.nih.gov/29718092/) | 2018 | RCT | Ann Oncol | Resultados atualizados do MONALEESA-2: ribociclibe + letrozol em primeira linha HR+/HER2- |
+| [30632023](https://pubmed.ncbi.nlm.nih.gov/30632023/) | 2019 | RCT | Breast Cancer Res Treat | PALOMA-2 com seguimento estendido: palbociclibe + letrozol prolongou a sobrevida livre de progressão (HR 0,58) |
+| [36243120](https://pubmed.ncbi.nlm.nih.gov/36243120/) | 2022 | Revisão | Life Sci | Farmacologia, toxicidade e efeitos terapêuticos potenciais do letrozol |
+| [20095792](https://pubmed.ncbi.nlm.nih.gov/20095792/) | 2010 | Revisão | Expert Opin Drug Metab Toxicol | Letrozol como inibidor de aromatase de terceira geração: farmacodinâmica, farmacocinética, eficácia e segurança |
+| [17912633](https://pubmed.ncbi.nlm.nih.gov/17912633/) | 2007 | Revisão | Breast Cancer Res Treat | Descoberta e mecanismo de ação do letrozol |
+| [19250202](https://pubmed.ncbi.nlm.nih.gov/19250202/) | 2009 | Revisão | Ann N Y Acad Sci | Em modelo de aromatase intratumoral, o letrozol sustentou a inibição do crescimento por mais tempo que o tamoxifeno |
+| [15001182](https://pubmed.ncbi.nlm.nih.gov/15001182/) | 2004 | Revisão | Women's Health Issues | Implicações clínicas e questões em aberto do estudo de letrozol em câncer de mama |
+| [29229198](https://pubmed.ncbi.nlm.nih.gov/29229198/) | 2017 | Clínico/in vitro | Arch Med Res | Raloxifeno + letrozol em linhagens celulares MCF-7, para mitigar efeitos ósseos adversos |
+| [27235140](https://pubmed.ncbi.nlm.nih.gov/27235140/) | 2016 | Pré-clínico | Med Oncol | Letrozol altera fibroblastos associados ao carcinoma e influencia a biologia das células tumorais |
 
-> **Nota clínica:** Existe extenso corpo de evidências publicado em periódicos de alto impacto (NEJM, JCO, Lancet Oncology, Annals of Oncology) para indicações correlatas — como câncer de mama ER+ e HR+ — abrangendo os estudos PALOMA-2/3, MONALEESA-2, NATALEE, BIG 1-98 e PADA-1. A ausência de resultado nesta query específica reflete limitação do termo de busca, não falta de evidência bibliográfica.
+## Informações de Comercialização no Brasil
 
----
+Todos os 17 registros encontrados estão cancelados; não há registro vigente. Principais registros:
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 100680100 | FEMARA | Não informada | Antineoplásico |
+| Registro nº 105730739 | SABINE | Não informada | Antineoplásico |
+| Registro nº 156510060 | LEMOL | Não informada | Antineoplásico |
+| Registro nº 174200018 | MAHILA | Não informada | Antineoplásico |
+| Registro nº 182610005 | NOAZY | Não informada | Agentes antineoplásicos |
 
 ## Citotoxicidade
 
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Terapia endócrina-alvo (Inibidor não esteroidal de Aromatase — classe das triazolas; não é citotóxico convencional) |
-| Risco de Mielossupressão | Baixo — inibidores de aromatase não causam toxicidade hematológica direta; não há risco relevante de neutropenia ou trombocitopenia |
-| Classificação de Emetogenicidade | Mínima (administração oral diária; náuseas leves relatadas em <10% dos pacientes) |
-| Itens de Monitoramento | Densidade mineral óssea (DXA anual), perfil lipídico, enzimas hepáticas (ALT/AST), sintomas musculoesqueléticos (artralgia, artrite de AI) |
-| Proteção no Manuseio | Precauções padrão para medicamentos orais; não requer infraestrutura especial de manuseio de citotóxicos |
-
----
+| Classificação de Citotoxicidade | Terapia hormonal (inibidor não esteroidal da aromatase); não é citotóxico convencional |
+| Risco de Mielossupressão | Baixo, como terapia endócrina isolada; não há dados específicos compilados |
+| Classificação de Emetogenicidade | Baixa |
+| Itens de Monitoramento | Função hepática, densidade mineral óssea e perfil lipídico; hemograma conforme o esquema de combinação (por exemplo, com inibidores de CDK4/6) |
+| Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (grafo de conhecimento, não texto de bula)**: o grafo de conhecimento associa o letrozol a insuficiência hepática, cirrose hepática, osteoporose (incluindo pós-menopausa), hiperbilirrubinemia (incluindo hereditária e síndrome de Gilbert) e doença cerebrovascular.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total. Entre as listadas, apenas **aprepitanto** tem gravidade moderada; as demais (por exemplo, calcitriol, glimepirida, lansoprazol, omeprazol, pantoprazol, famotidina, ácido acetilsalicílico, morfina, metformina, prednisona, sinvastatina) estão com gravidade não classificada.
+- **Eventos adversos relatados na literatura**: relato de caso de maculopatia (edema macular cístico bilateral) associada ao letrozol; efeitos ósseos adversos (motivo do estudo com raloxifeno).
 
----
+As advertências e contraindicações da bula da ANVISA não estavam disponíveis; consulte a bula para informações completas de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Letrozole apresenta nível de evidência L1 para carcinoma mamário feminino, com múltiplos ensaios Phase 3 concluídos e score TxGNN de 99,98%. O fármaco é considerado padrão-ouro global para câncer de mama HR+ em pós-menopausa; a ausência de registro na ANVISA constitui a principal barreira de acesso no Brasil, não uma limitação de eficácia ou segurança.
+- Há múltiplos ensaios de fase 3 concluídos e publicações em RCT que sustentam o letrozol em câncer de mama RE+, o que corresponde ao nível L1. Porém, trata-se do uso estabelecido, e não de reposicionamento; além disso, todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Completar o registro formal do mecanismo de ação (MOA) via DrugBank API — Data Gap DG002, prioridade alta
-- Obter advertências e contraindicações da bula registrada internacionalmente (FDA/EMA) — Data Gap DG001, prioridade bloqueante para avaliação de segurança estruturada
-- Avaliar estratégia regulatória para submissão de registro à ANVISA ou identificar parceiros com autorização vigente de importação
-- Definir populações-alvo no contexto brasileiro: mulheres pós-menopausa com câncer de mama HR+/HER2- nos cenários neoadjuvante, adjuvante ou doença avançada/metastática
-- Mapear interações medicamentosas relevantes no contexto brasileiro (anticoagulantes orais, fármacos cardiovasculares, antidiabéticos) via base de DDI
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna bloqueante para a triagem de segurança.
+- Complementar os dados do mecanismo de ação (por exemplo, via DrugBank).
+- Verificar a situação regulatória: não há registro vigente no Brasil, sendo necessário confirmar a disponibilidade de produtos ou um novo registro.
+- Restringir o uso a tumores RE+/RH+ e definir um plano de monitoramento ósseo, hepático e cardiovascular.
+
+**Observação sobre outras previsões:** o carcinoma de mama RE-positivo (L1) tem a mesma força de evidência, enquanto o câncer de mama RE-negativo tem baixa plausibilidade biológica (L4, Hold). Carcinoma de mamilo, tumor de Ehrlich, doença fibrocística da mama e displasia mamária benigna têm evidência limitada ou nenhuma (L4–L5, Hold).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

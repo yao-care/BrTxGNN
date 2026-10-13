@@ -2,7 +2,7 @@
 layout: default
 title: Buclizina Dihydrochloride
 parent: Apenas Predição do Modelo (L5)
-nav_order: 138
+nav_order: 160
 evidence_level: L5
 indication_count: 0
 ---

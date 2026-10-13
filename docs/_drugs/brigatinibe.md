@@ -2,7 +2,7 @@
 layout: default
 title: Brigatinibe
 parent: Apenas Predição do Modelo (L5)
-nav_order: 131
+nav_order: 150
 evidence_level: L5
 indication_count: 0
 ---

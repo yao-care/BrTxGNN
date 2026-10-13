@@ -2,7 +2,7 @@
 layout: default
 title: Binimetinibe
 parent: Apenas Predição do Modelo (L5)
-nav_order: 122
+nav_order: 138
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Tramadol
 parent: Apenas Predição do Modelo (L5)
-nav_order: 491
+nav_order: 649
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,81 +29,81 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tramadol: Da analgesia à displasia acromesomélica tipo Hunter-Thompson
+# Tramadol: Da osteoartrite à displasia acromesomélica tipo Hunter-Thompson
 
 ## Resumo em Uma Frase
 
-Tramadol é um analgésico de ação central amplamente utilizado no controle de dor moderada a grave, atuando por duplo mecanismo: agonismo opioide μ e inibição da recaptação de norepinefrina e serotonina.
-O modelo TxGNN prevê que pode ser eficaz para a **Displasia Acromesomélica tipo Hunter-Thompson (Acromesomelic Dysplasia, Hunter-Thompson Type)**, porém esta previsão conta com **0 ensaios clínicos** e **0 publicações** de suporte, constituindo exclusivamente uma predição algorítmica sem evidência clínica real.
-
----
+Tramadol é um analgésico opioide de ação central, associado nas bases de conhecimento do modelo a osteoartrite e artropatias.
+O modelo TxGNN prevê que pode ser eficaz para **displasia acromesomélica tipo Hunter-Thompson (Acromesomelic dysplasia, Hunter-Thompson type)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Analgesia (dor moderada a grave) — detalhes de registro não disponíveis no pacote atual |
-| Nova Indicação Prevista | Displasia Acromesomélica tipo Hunter-Thompson |
+| Indicação Original | Osteoartrite / artropatia (conforme o grafo de conhecimento do modelo; não há registro no Brasil) |
+| Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (Acromesomelic dysplasia, Hunter-Thompson type) |
 | Pontuação de Previsão TxGNN | 99,99% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
-| Decisão Recomendada | **Hold** |
-
----
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste pacote de evidências. Com base em conhecimento farmacológico estabelecido, o Tramadol é um analgésico de ação central que atua por dois mecanismos simultâneos: agonismo nos receptores opioides μ (com potência inferior à morfina) e inibição da recaptação de norepinefrina e serotonina — efeito análogo ao de um inibidor de recaptação de serotonina e noradrenalina (IRSN). Esta combinação confere eficácia tanto em dores nociceptivas quanto neuropáticas.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o tramadol é um opioide com atividade adicional de inibição da recaptação de monoaminas, usado para dor; sua relação com osteoartrite e artropatia vem do grafo de conhecimento do modelo.
 
-A displasia acromesomélica tipo Hunter-Thompson é uma doença óssea rara de herança autossômica recessiva, causada por mutações no gene **CDMP1/GDF5**, que resultam em encurtamento desproporcional dos segmentos intermediários e distais dos membros. Não existe tratamento modificador de doença disponível; o manejo é essencialmente sintomático, e pacientes frequentemente desenvolvem dor crônica musculoesquelética associada às deformidades estruturais, podendo demandar suporte analgésico ao longo da vida.
+A displasia acromesomélica tipo Hunter-Thompson é uma displasia esquelética rara, causada por defeitos em CDMP1/GDF5. Não se conhece mecanismo pelo qual o tramadol modifique a doença de base. Qualquer benefício plausível se limitaria ao alívio sintomático da dor, não à modificação da doença.
 
-A conexão prevista pelo TxGNN, contudo, reflete uma limitação estrutural conhecida dos modelos de grafo de conhecimento: o Tramadol apresenta ampla conectividade ao nó genérico de "dor" no grafo, o que gera associações com diversas condições dolorosas — incluindo displasias esqueléticas raras — sem sobreposição mecanística real com a fisiopatologia da doença subjacente. A previsão é biologicamente plausível apenas como manejo sintomático de dor, **não como reposicionamento terapêutico modificador de doença**. O alto score (99,99%) reflete a centralidade do nó de dor no grafo, e não evidência de eficácia específica.
+A pontuação alta provavelmente reflete a proximidade na rede de conhecimento com fenótipos esqueléticos e articulares das indicações originais, e não evidência biológica ou clínica direta. Por isso, a previsão deve ser tratada com cautela.
 
----
+### Outras previsões do modelo (todas com nível L5)
+
+| Posição | Doença prevista | Pontuação TxGNN | Observação |
+|------|------|------|------|
+| 2 | Síndrome braquiolmia-amelogênese imperfeita | 99,99% | Sem ligação mecanística conhecida |
+| 3 | Miosclerose | 99,99% | Possível alívio sintomático da dor, sem evidência |
+| 4 | Braquiolmia | 99,99% | Sem mecanismo conhecido |
+| 5 | Pseudoacondroplasia | 99,98% | Analgesia sintomática conceitualmente plausível (dor articular e osteoartrite precoces) |
+| 6 | Espondiloartropatia (suscetibilidade) | 99,97% | Sem ação anti-inflamatória |
+| 7 | Artrite idiopática juvenil | 99,92% | Uma publicação indireta, sobre cetoprofeno |
+| 8 | Artrite juvenil por defeito em LACC1 | 99,92% | Sem evidência |
+| 9 | Nodulose reumatoide | 99,92% | Sem evidência |
+| 10 | AIJ poliarticular com fator reumatoide positivo | 99,90% | Sem atividade modificadora da doença |
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada.
+Atualmente não há literatura relacionada para a indicação principal prevista. Para a artrite idiopática juvenil (7ª previsão), foi fornecida apenas uma revisão indireta, que trata do cetoprofeno e não do tramadol:
 
----
-
-## Informações de Comercialização no Brasil
-
-O Tramadol possui **20 registros ativos** no Brasil (ANVISA). Os dados detalhados de cada registro — nome comercial, forma farmacêutica e indicação aprovada — não constam do pacote de evidências atual e devem ser consultados diretamente no portal da ANVISA ([consulmed.anvisa.gov.br](https://consulmed.anvisa.gov.br/)).
-
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [20799760](https://pubmed.ncbi.nlm.nih.gov/20799760/) | 2010 | Revisão | Paediatric Drugs | Farmacocinética, eficácia e tolerabilidade do AINE cetoprofeno em pacientes pediátricos; não fornece evidência clínica para o tramadol |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações segundo o grafo de conhecimento do modelo** (não se trata de texto de bula): hipertensão, insuficiência hepática, doença hepática e cirrose, epilepsia, transtornos de ansiedade e neuróticos, distimia, doenças da vesícula biliar, diabetes mellitus e cetoacidose diabética, abuso/dependência de substâncias, hiperlipidemia (inclusive familiar), insuficiência respiratória, intoxicação por paracetamol, síndrome serotoninérgica, pseudotumor cerebral e hipertensão intracraniana, abstinência de álcool e de substâncias, síndrome de Wernicke-Korsakoff e infecções do sistema nervoso central.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; entre as listadas, as de gravidade **maior** incluem alvimopano, bupropiona, cisaprida, dexfenfluramina, dietilpropiona, dolasetrona, dronabinol, efedrina e fenfluramina. Interações de gravidade **moderada** incluem atropina, bisacodil, óleo de rícino, cimetidina, claritromicina, clidínio, dicicloverina, eliglustate, eluxadolina, famotidina e glicerina.
+- Pontos de atenção adicionais para uso pediátrico (relevantes nas previsões de artrite juvenil): metabolismo ultrarrápido via CYP2D6 e depressão respiratória.
 
-> ⚠️ **Nota importante**: O FDA emite **advertência de caixa preta (black box warning)** para uso de Tramadol em pacientes com menos de 12 anos de idade, em razão de risco de depressão respiratória grave — informação relevante para as indicações pediátricas previstas pelo modelo (JIA, displasias congênitas). Recomenda-se obtenção e revisão das bulas da ANVISA antes de qualquer avaliação clínica.
-
----
+Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para a displasia acromesomélica tipo Hunter-Thompson apresenta nível de evidência **L5** — ausência total de ensaios clínicos e literatura de suporte específicos. A pontuação elevada (99,99%) decorre de associação genérica ao nó de "dor" no grafo de conhecimento, sem sobreposição com a fisiopatologia da doença (mutação CDMP1/GDF5 → defeito no desenvolvimento esquelético). O Tramadol pode ter papel sintomático em doenças raras com dor crônica, mas isso caracteriza uso off-label analgésico convencional, **não reposicionamento terapêutico**.
+- A previsão se baseia somente na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura, e não há mecanismo plausível de modificação da doença. O fármaco não está registrado no Brasil e tem perfil de segurança que exige cautela.
 
 **Para prosseguir, é necessário:**
-- Baixar e analisar as bulas registradas na ANVISA para extrair advertências, contraindicações e interações medicamentosas (DG001 — Blocking)
-- Obter dados completos de mecanismo de ação (MOA) via DrugBank API (DG002 — High)
-- Verificar se há consenso clínico ou diretrizes de sociedades de doenças raras sobre uso de opioides fracos em displasias esqueléticas congênitas
-- Reavaliar o pipeline de predição para distinguir reposicionamento mecanístico de uso sintomático analgésico, evitando falsos positivos estruturais no grafo de conhecimento
-
----
-
-*Relatório gerado automaticamente com base em Evidence Pack v4 — Data de corte: 2026-05-02. Este relatório é exclusivamente para fins de pesquisa e não constitui recomendação clínica ou aconselhamento médico.*
+- Obter dados do mecanismo de ação (por exemplo, via DrugBank) para analisar a ligação mecanística.
+- Obter e analisar a bula na ANVISA (advertências e contraindicações oficiais), etapa bloqueante para a triagem de segurança.
+- Realizar revisão da literatura específica sobre tramadol nas doenças previstas, especialmente como analgesia sintomática em displasias esqueléticas e artrites.
+- Esclarecer a situação regulatória no Brasil, já que não há registros vigentes.
+- Definir, caso se avance, uma avaliação de segurança para populações específicas (pediatria, insuficiência hepática, risco de dependência e de síndrome serotoninérgica).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

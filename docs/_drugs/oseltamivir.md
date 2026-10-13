@@ -2,7 +2,7 @@
 layout: default
 title: Oseltamivir
 parent: Apenas Predição do Modelo (L5)
-nav_order: 372
+nav_order: 492
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,82 +29,90 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Oseltamivir: Da influenza à pielonefrite
+# Oseltamivir: Da influenza à pneumonia (associada à influenza)
 
 ## Resumo em Uma Frase
 
-Oseltamivir (Tamiflu®) é um inibidor seletivo de neuraminidase viral, originalmente indicado para o tratamento e a profilaxia da influenza A e B em adultos e crianças.
-O modelo TxGNN prevê que pode ser eficaz para **Pielonefrite (Pyelonephritis)**, com pontuação de previsão de **97,85%**.
-Atualmente, há **0 ensaios clínicos** e apenas **1 publicação** associada a essa direção — sem relação direta com a indicação proposta —, configurando provável falso positivo computacional.
+Oseltamivir é um inibidor da neuraminidase viral, originalmente usado no tratamento da influenza.
+O modelo TxGNN prevê, em primeira posição, **Pielonefrite (Pyelonephritis)**, mas essa previsão não tem respaldo clínico. A direção com maior sustentação nos dados compilados é **Pneumonia (Pneumonia)**, restrita ao contexto de influenza, com **15 ensaios clínicos** e **20 publicações** apoiando essa direção.
 
----
+> Observação: a indicação de maior pontuação (pielonefrite) não conta com ensaios clínicos nem mecanismo plausível. Por isso, este relatório destaca a pneumonia, a única previsão com evidência clínica relevante.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Tratamento e profilaxia da influenza A e B |
-| Nova Indicação Prevista | Pielonefrite (Pyelonephritis) |
-| Pontuação de Previsão TxGNN | 97,85% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 8 |
-| Decisão Recomendada | Hold |
-
----
+|------|------|
+| Indicação Original | Influenza |
+| Nova Indicação Prevista | Pneumonia (Pneumonia), na prática restrita à pneumonia associada à influenza |
+| Pontuação de Previsão TxGNN | 92,14% (a previsão de maior pontuação, pielonefrite, tem 97,85%, mas sem evidência) |
+| Nível de Evidência | L1 (ensaios de Phase 3 concluídos, porém com ressalvas quanto à especificidade para pneumonia) |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste pacote de evidências. Segundo informações conhecidas, Oseltamivir é um pró-fármaco convertido in vivo em seu metabólito ativo (oseltamivir carboxilato), que inibe seletivamente a neuraminidase (NA) dos vírus influenza A e B. Ao bloquear a liberação de novos vírions da superfície das células infectadas, impede a disseminação viral nas vias aéreas superiores e inferiores. Sua eficácia comprovada no tratamento e na prevenção da gripe sazonal e pandêmica é o fundamento de sua indicação aprovada.
+O oseltamivir inibe a neuraminidase viral, reduzindo a liberação e a disseminação do vírus influenza. Não há dados detalhados sobre o mecanismo de ação no material compilado, mas essa é a função conhecida da classe dos inibidores da neuraminidase.
 
-A pielonefrite, por sua vez, é uma infecção bacteriana ascendente do trato urinário superior — causada predominantemente por *Escherichia coli* e outros bacilos gram-negativos — cujos mecanismos patogênicos envolvem adesinas bacterianas, toxinas e evasão da imunidade inata no parênquima renal. Não existe intersecção mecanística conhecida entre a inibição de neuraminidase viral e as vias de patogênese bacteriana da pielonefrite.
+A influenza é causa frequente de pneumonia viral e porta de entrada para pneumonia bacteriana secundária. Tratar o vírus precocemente pode, em teoria, reduzir a ocorrência e a gravidade da pneumonia. Estudos observacionais, como o retrospectivo no México com a pandemia de H1N1 de 2009, sugerem menor risco de pneumonia com oseltamivir administrado cedo.
 
-A análise do conjunto de evidências indica que esta previsão é muito provavelmente um **falso positivo gerado por similaridade de vizinhança no grafo de conhecimento**. A alta pontuação TxGNN (97,85%) reflete a proximidade topológica dos nós no grafo, e não uma relação farmacológica real. A única publicação recuperada aborda o manejo da influenza na gestação — sem qualquer menção a pielonefrite —, reforçando o diagnóstico de erro de mapeamento bibliográfico.
+O benefício é plausível apenas para a pneumonia associada à influenza. Em outras pneumonias virais, como a COVID-19, não há alvo de neuraminidase, e o oseltamivir aparece nos ensaios sobretudo como comparador ou terapia de base. A indicação não deve ser estendida à pneumonia em geral.
 
----
+Outras previsões do modelo parecem artefatos de proximidade no grafo de conhecimento: pielonefrite (infecção bacteriana urinária), distúrbios do metabolismo da tirosina e da fenilalanina, síndrome de Pierre Robin teratogênica e suscetibilidade ao HIV não têm mecanismo plausível. As previsões para infecção por *Staphylococcus aureus* e pneumonia estreptocócica têm apenas ligação indireta, via coinfecção pós-influenza.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados.
+Os ensaios abaixo estão ligados à previsão de pneumonia. Os mais relevantes para o oseltamivir estão no topo.
 
----
+| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
+|---------|------|------|------|---------|
+| [NCT00707941](https://clinicaltrials.gov/study/NCT00707941) | Phase 3 | Concluído | 1190 | Eficácia do oseltamivir na duração da doença, na eliminação viral e na transmissão domiciliar da influenza em Dhaka (Bangladesh). Diretamente relevante ao mecanismo, mas pneumonia pode não ser o desfecho primário |
+| [NCT01248715](https://clinicaltrials.gov/study/NCT01248715) | Phase 4 | Concluído | 1107 | Efetividade do tratamento antiviral empírico em pneumonia comunitária hospitalizada durante a temporada de influenza |
+| [NCT00936013](https://clinicaltrials.gov/study/NCT00936013) | Phase 4 | Desconhecido | 400 | Oseltamivir combinado com ervas medicinais chinesas versus oseltamivir isolado em pneumonia por H1N1 |
+| [NCT04558463](https://clinicaltrials.gov/study/NCT04558463) | Phase 3 | Desconhecido | 100 | Favipiravir versus oseltamivir como terapia adjuvante na COVID-19 (oseltamivir como comparador) |
+| [NCT04973462](https://clinicaltrials.gov/study/NCT04973462) | Phase 4 | Desconhecido | 80 | Triazavirina versus oseltamivir na COVID-19 (oseltamivir como comparador) |
+| [NCT04338698](https://clinicaltrials.gov/study/NCT04338698) | Phase 3 | Concluído | 550 | Hidroxicloroquina, oseltamivir e azitromicina, isolados e combinados, na COVID-19; oseltamivir sem alvo no SARS-CoV-2 |
+| [NCT04255017](https://clinicaltrials.gov/study/NCT04255017) | Phase 4 | Desconhecido | 400 | Comparação de arbidol, oseltamivir e lopinavir/ritonavir na pneumonia por 2019-nCoV |
+| [NCT02735707](https://clinicaltrials.gov/study/NCT02735707) | Phase 3 | Recrutando | 20000 | REMAP-CAP: plataforma adaptativa para pneumonia comunitária em terapia intensiva |
+| [NCT04381936](https://clinicaltrials.gov/study/NCT04381936) | Phase 3 | Recrutando | 70000 | RECOVERY: avalia, entre vários tratamentos, oseltamivir e baloxavir na influenza hospitalizada |
+| [NCT04516915](https://clinicaltrials.gov/study/NCT04516915) | Phase 2 | Concluído | 38 | IMU-838 associado a oseltamivir na COVID-19 (outro agente em estudo) |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [26033556](https://pubmed.ncbi.nlm.nih.gov/26033556/) | 2015 | Review | *Presse Médicale* | Revisão sobre influenza na gestação: risco aumentado de pneumonia e hospitalização em grávidas durante surtos sazonais e pandêmicos. **Nenhum conteúdo relacionado a pielonefrite.** |
-
-> ⚠️ **Nota de qualidade**: O único artigo recuperado trata exclusivamente de influenza na gestação. Sua associação à indicação "pielonefrite" representa muito provavelmente um erro de mapeamento bibliográfico no pipeline de busca, sem valor como evidência de suporte para este reposicionamento.
-
----
-
-## Informações de Comercialização no Brasil
-
-Oseltamivir está registrado no Brasil com **8 registros ativos** na ANVISA, confirmando sua comercialização regular no mercado nacional. Os detalhes individuais de cada registro (nome comercial, forma farmacêutica e texto completo da indicação aprovada) não estão disponíveis nesta versão do pacote de evidências.
-
-Para consulta dos registros vigentes, acesse: [Consulta de Medicamentos — ANVISA](https://consultas.anvisa.gov.br/#/medicamentos/)
-
----
+|------|-----|------|------|---------|
+| [24718923](https://pubmed.ncbi.nlm.nih.gov/24718923/) | 2014 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Inibidores da neuraminidase para prevenção e tratamento da influenza em adultos e crianças |
+| [23082123](https://pubmed.ncbi.nlm.nih.gov/23082123/) | 2012 | RCT em clusters | PLoS One | Tratamento versus tratamento mais profilaxia com oseltamivir em surtos de influenza em casas de repouso |
+| [36752709](https://pubmed.ncbi.nlm.nih.gov/36752709/) | 2023 | Revisão | Curr Opin Infect Dis | Revisão das terapias antivirais para influenza (inibidores da neuraminidase e baloxavir) |
+| [40050867](https://pubmed.ncbi.nlm.nih.gov/40050867/) | 2025 | Revisão | Virol J | Antivirais para pneumonia viral, incluindo o oseltamivir |
+| [21760915](https://pubmed.ncbi.nlm.nih.gov/21760915/) | 2011 | Retrospectivo | PLoS One | Oseltamivir precoce reduziu a ocorrência e a gravidade da pneumonia por H1N1 de 2009 no México |
+| [15969875](https://pubmed.ncbi.nlm.nih.gov/15969875/) | 2005 | Observacional | Curr Med Res Opin | Risco de pneumonia e outras complicações da síndrome gripal em pacientes tratados com oseltamivir |
+| [28480248](https://pubmed.ncbi.nlm.nih.gov/28480248/) | 2017 | Observacional | Open Forum Infect Dis | Uso de oseltamivir em crianças e adultos hospitalizados com pneumonia comunitária |
+| [35993199](https://pubmed.ncbi.nlm.nih.gov/35993199/) | 2022 | Revisão | J Glob Health | Papel do oseltamivir e de outros tratamentos adjuvantes na pneumonia grave infantil em países de baixa e média renda |
+| [15243927](https://pubmed.ncbi.nlm.nih.gov/15243927/) | 2004 | Pré-clínico (camundongos) | J Infect Dis | Oseltamivir elevou a sobrevida de 0% para 75% na pneumonia pneumocócica secundária à influenza |
+| [12660947](https://pubmed.ncbi.nlm.nih.gov/12660947/) | 2003 | Pré-clínico (camundongos) | J Infect Dis | Oseltamivir melhorou a sobrevida no sinergismo letal entre influenza e *S. pneumoniae* |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (grafo de conhecimento)**: *delirium* aparece como doença associada a contraindicação. Um relato de caso na literatura descreve "delirium induzido por oseltamivir" em paciente com pneumonia por H1N1 (PMID 21108186).
+- **Interações Medicamentosas**: foram identificadas 66 interações potenciais, todas com nível de gravidade não classificado. Entre as listadas estão pantoprazol, vancomicina, lactulose, prednisona, sinvastatina, cloreto de potássio, claritromicina, morfina, metformina, omeprazol e ondansetrona.
 
----
+Consulte a bula para as demais informações de segurança.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-A previsão do TxGNN para pielonefrite enquadra-se no nível de evidência L5 (exclusivamente computacional), sem respaldo de ensaios clínicos e com única literatura inteiramente irrelevante à indicação proposta. A análise mecanística demonstra incompatibilidade fundamental entre a ação antiviral de Oseltamivir (inibição de NA viral) e a patogênese bacteriana da pielonefrite; o alto escore de previsão é atribuível a artefatos de vizinhança no grafo de conhecimento (falso positivo topológico).
+- Para pneumonia, há ensaios de Phase 3 concluídos com oseltamivir em influenza, além de estudos observacionais e pré-clínicos coerentes com o mecanismo. A evidência, porém, refere-se à doença influenza, não a desfechos específicos de pneumonia, e a indicação deve ficar restrita à pneumonia associada à influenza. As demais previsões (inclusive a de maior pontuação, pielonefrite) devem permanecer em **Hold**, por falta de mecanismo e de evidência.
 
-**Para reconsiderar esta indicação em estudos futuros, seria necessário:**
-- Identificar hipótese mecanística biologicamente plausível — por exemplo, investigar se neuraminidases bacterianas uropatogênicas (ex.: de *E. coli*) possuem sensibilidade a Oseltamivir in vitro
-- Conduzir estudos pré-clínicos de atividade inibitória de Oseltamivir carboxilato contra neuraminidases de patógenos uropatogênicos
-- Obter os dados de MOA completos via DrugBank para refinar a análise de intersecção mecanística
-- Consultar especialistas em doenças infecciosas para avaliação independente da viabilidade biológica antes de qualquer investimento em pesquisa
+**Para prosseguir, é necessário:**
+- Verificar desfechos específicos de pneumonia nos ensaios de Phase 3 (por exemplo, NCT00707941) e em revisões sistemáticas.
+- Obter dados detalhados do mecanismo de ação.
+- Obter a bula oficial (advertências e contraindicações), pois esses dados de segurança não estavam disponíveis.
+- Esclarecer a situação regulatória no Brasil, pois não há registro ativo no material compilado.
+- Definir um plano de monitoramento de eventos neuropsiquiátricos, como o *delirium*, e de interações medicamentosas.
+- Excluir da análise as previsões sem sustentação mecanística (pielonefrite, distúrbios metabólicos, síndrome de Pierre Robin teratogênica, HIV).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

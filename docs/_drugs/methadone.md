@@ -2,7 +2,7 @@
 layout: default
 title: Methadone
 parent: Evidência Moderada (L3-L4)
-nav_order: 345
+nav_order: 448
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,87 +29,78 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
----
-
-# Methadone: Da dependência de opioides à síndrome de Tourette
+# Metadona: De analgésico narcótico para síndrome de Tourette
 
 ## Resumo em Uma Frase
 
-Methadone é um opiáceo de longa ação amplamente utilizado no tratamento da dependência de opioides (terapia de manutenção com metadona — MMT) e no controle da dor crônica refratária.
-O modelo TxGNN prevê que pode ser eficaz para a **Síndrome de Tourette (Tourette syndrome)**,
-atualmente com **0 ensaios clínicos** e **5 publicações** apoiando esta direção — sendo a evidência mais relevante um estudo clínico inicial de 1992.
-
----
+A metadona é um analgésico opioide, registrado no Brasil na categoria de "analgésicos narcóticos".
+O modelo TxGNN prevê que ela possa ser eficaz para a **Síndrome de Tourette (Tourette syndrome)**,
+mas atualmente há **0 ensaios clínicos** e apenas **4 publicações** associadas a essa direção, sendo apenas uma delas diretamente sobre o tema (um relato de 1992).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Dependência de opioides (terapia de manutenção — MMT) e dor crônica |
+| Indicação Original | Analgésicos narcóticos |
 | Nova Indicação Prevista | Síndrome de Tourette (Tourette syndrome) |
-| Pontuação de Previsão TxGNN | 99.76% |
+| Pontuação de Previsão TxGNN | 99,76% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 1 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Methadone é um agonista dos receptores μ-opioides com propriedade adicional de antagonismo dos receptores NMDA — mecanismo que o distingue de outros opiáceos convencionais. Com base nessas propriedades farmacológicas, é plausível propor uma ligação com a síndrome de Tourette (TS): o sistema opioide pode modular indiretamente a liberação de dopamina nos gânglios basais e no circuito estriatocortical, e a hiperatividade dopaminérgica é um dos pilares neurobiológicos da TS. Ao ativar receptores μ-opioides nos neurônios dopaminérgicos, Methadone pode exercer efeito inibitório sobre a transmissão dopaminérgica excessiva, potencialmente reduzindo a frequência e a intensidade dos tiques.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a metadona é um agonista de receptores opioides mu com atividade antagonista sobre receptores NMDA. Sua eficácia como analgésico está estabelecida, e mecanisticamente pode ser aplicável a transtornos de tiques.
 
-Há ainda um argumento adicional envolvendo o eixo opiáceo–serotonina: pesquisas indicam que opiáceos atípicos interagem com receptores 5-HT2A/C, os quais estão associados a comportamentos compulsivos e a tiques observados na TS e no TOC. Esta via é explorada em modelos animais (head-twitch test), sugerindo uma base mecanicista secundária. Um estudo clínico preliminar de 1992 (Meuldijk & Colon, *American Journal of Psychiatry*) testou diretamente Methadone em pacientes com transtorno de Tourette, representando a evidência clínica humana mais direta disponível.
+A hipótese é que a modulação opioide de circuitos dopaminérgicos e estriatais possa influenciar a expressão dos tiques. A literatura recuperada menciona que opioides têm sido relatados como eficazes em casos refratários de TOC e de síndrome de Tourette, e que o comportamento relacionado ao receptor 5-HT2A (associado a tiques e compulsões) é modulado por opioides em modelos experimentais.
 
-Apesar da plausibilidade teórica, a evidência permanece fraca e datada. Não há ensaios clínicos controlados modernos, e a maioria das publicações disponíveis é indireta ou de baixo nível hierárquico. A previsão do TxGNN é biologicamente razoável, mas requer validação experimental antes de qualquer avanço clínico.
-
----
+Ainda assim, o respaldo é frágil. O único item clínico direto é um relato de 1992 sobre tratamento de Tourette com metadona, que parece ser pequeno e não controlado. Os demais artigos (coreia, TOC, dor neuropática) são indiretos.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para Methadone em Síndrome de Tourette.
-
----
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [1728167](https://pubmed.ncbi.nlm.nih.gov/1728167/) | 1992 | Série de casos / Estudo clínico inicial | American Journal of Psychiatry | Estudo clínico direto sobre o uso de Methadone no tratamento do transtorno de Tourette — única evidência clínica humana direta disponível |
-| [17102981](https://pubmed.ncbi.nlm.nih.gov/17102981/) | 2007 | Revisão / Mecanicista | Psychopharmacology | Opiáceos atípicos no TOC e na TS: interação com receptores 5-HT2A/C; comportamentos de head-twitch correlacionados com tiques e sintomas compulsivos |
-| [30395551](https://pubmed.ncbi.nlm.nih.gov/30395551/) | 2018 | Observacional / Relato de caso | Journal of Psychiatric Practice | Dependência de heroína em pacientes sérvios com síndrome de Tourette; evidencia sobreposição entre o sistema opioide e a TS |
-| [15247538](https://pubmed.ncbi.nlm.nih.gov/15247538/) | 2004 | Revisão | Current Opinion in Neurology | Causas não genéticas de coreia; diagnóstico diferencial de transtornos do movimento com relevância indireta para TS |
-| [39086469](https://pubmed.ncbi.nlm.nih.gov/39086469/) | 2024 | Revisão | Palliative Care and Social Practice | Tratamentos adjuvantes para dor neuropática; aborda modulação do sistema opioide e receptores sigma-1 como alvos emergentes (relevância periférica) |
-
----
+| [1728167](https://pubmed.ncbi.nlm.nih.gov/1728167/) | 1992 | Relato de caso / estudo aberto pequeno (não verificado) | Am J Psychiatry | Tratamento do transtorno de Tourette com metadona; sem resumo disponível |
+| [17102981](https://pubmed.ncbi.nlm.nih.gov/17102981/) | 2007 | Pré-clínico / Revisão | Psychopharmacology | Opioides atípicos em TOC; opioides são eficazes em TOC refratário e na síndrome de Tourette, com base em comportamento mediado por 5-HT2A |
+| [15247538](https://pubmed.ncbi.nlm.nih.gov/15247538/) | 2004 | Revisão | Curr Opin Neurol | Causas não genéticas de coreia; relevância indireta |
+| [39086469](https://pubmed.ncbi.nlm.nih.gov/39086469/) | 2024 | Revisão | Palliat Care Soc Pract | Novos fármacos para dor neuropática em câncer avançado; relevância indireta |
 
 ## Informações de Comercialização no Brasil
 
-Methadone não possui nenhum registro ativo na ANVISA. O medicamento não está comercializado no Brasil e não há licenças vigentes.
-
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 102980138 (cancelado) | MYTEDOM | Não informada | Analgésicos narcóticos |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (associações do grafo de conhecimento, não texto de bula)**: o grafo de conhecimento do TxGNN aponta contraindicação com síndrome do QT longo (inclusive familiar), torsades de pointes, parada cardíaca súbita, doença do sistema de condução cardíaca, insuficiência respiratória, asma, epilepsia, doença renal, doença hepática, doença da vesícula biliar, hipotireoidismo/mixedema, doença inflamatória intestinal, íleo paralítico, obstrução intestinal, hipertensão intracraniana, hipertrofia prostática benigna, hipotensão, estenose uretral e transtornos por uso de substâncias/dependência.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total (20 listadas nos dados). Entre as de nível **grave (Major)**: alvimopan, bupropiona, morfina, dexametasona, claritromicina, ácido picossulfúrico, polietilenoglicol (3350 com eletrólitos) e cisaprida. Há também diversas interações de nível moderado (por exemplo, famotidina, cimetidina, aprepitanto, atropina, loperamida, hiosciamina, glicopirrônio, diciclomina, bisacodil, óleo de rícino, attapulgita e clidínio).
+- **Sinais de risco específicos para a previsão**: a literatura recuperada e o racional do modelo destacam risco de dependência opioide e prolongamento do intervalo QT, relevantes para uma condição crônica e frequentemente pediátrica como a síndrome de Tourette.
 
-> **Nota:** Os dados de segurança específicos para Methadone (advertências, contraindicações e interações medicamentosas) não foram recuperados neste Evidence Pack. Methadone é um opiáceo potente com janela terapêutica estreita, risco conhecido de prolongamento do intervalo QTc e potencial de dependência — aspectos que devem ser rigorosamente avaliados antes de qualquer uso fora de indicação aprovada.
-
----
+Consulte a bula para advertências e contraindicações oficiais, pois os dados de bula da ANVISA não estavam disponíveis.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A única evidência clínica direta disponível é um estudo preliminar de 1992, sem nenhum ensaio clínico controlado subsequente em mais de três décadas. O nível de evidência L4 (predominantemente mecanicista e indireta) é insuficiente para recomendar avanço clínico, e a ausência de registro na ANVISA adiciona uma barreira regulatória significativa no contexto brasileiro.
+A previsão se baseia em um único relato clínico antigo (1992), sem ensaios registrados, e o perfil de risco da metadona (dependência, QT longo, depressão respiratória) pesa fortemente contra o uso em uma condição crônica, frequentemente pediátrica. Além disso, o único registro brasileiro está cancelado.
 
 **Para prosseguir, é necessário:**
-- Revisão sistemática da literatura sobre o sistema opioide e síndrome de Tourette (incluindo dados pré-clínicos em modelos animais de TS)
-- Obtenção dos dados completos de segurança: advertências, contraindicações e interações medicamentosas (via bula ANVISA/FDA)
-- Confirmação do mecanismo de ação detalhado via consulta à base DrugBank (DB00333)
-- Delineamento de ensaio clínico piloto de Phase 1/2 com desfechos validados para TS (ex.: Yale Global Tic Severity Scale — YGTSS)
-- Avaliação da viabilidade regulatória para uso compassivo ou registro na ANVISA antes de qualquer aplicação clínica no Brasil
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), atualmente indisponível
+- Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank)
+- Revisar o relato de 1992 (PMID 1728167) em texto completo para avaliar desenho, tamanho amostral e resultados
+- Comparar com tratamentos já estabelecidos para tiques, que não envolvem risco de dependência
+- Se houver interesse, planejar estudo pré-clínico ou ensaio controlado pequeno, com monitoramento de ECG (QT) e risco de dependência
+
+---
+
+**Observação sobre outras indicações previstas:** as demais previsões do modelo (síndrome nefrogênica de antidiurese inapropriada, tricotilomania, cefaleia, transtorno bipolar maníaco, cefaleia autonômica trigeminal, resfriado comum, enxaqueca, fibromialgia e miosite fibrosa) também receberam recomendação *Hold*. Para várias delas a literatura não sustenta eficácia: na cefaleia autonômica trigeminal há sinal de que a metadona pode induzir ou piorar a cefaleia em salvas, e no resfriado comum os artigos recuperados tratam de sensibilidade à dor pelo frio, sem relação com a doença.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

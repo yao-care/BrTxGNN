@@ -2,15 +2,15 @@
 layout: default
 title: Calcitriol
 parent: Evidência Alta (L1-L2)
-nav_order: 154
-evidence_level: L1
+nav_order: 177
+evidence_level: L2
 indication_count: 7
 ---
 
 # Calcitriol
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **7** 
+Nível de evidência: **L2** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,88 @@ Nível de evidência: **L1** | Indicações previstas: **7**
 
 </div>
 
-# Calcitriol: Dos Distúrbios do Metabolismo Cálcio-Fósforo ao Raquitismo Hipofosfatêmico Hereditário
+# Calcitriol: Das doenças do metabolismo do cálcio e do fósforo ao raquitismo hipofosfatêmico hereditário
 
 ## Resumo em Uma Frase
 
-Calcitriol (1,25-di-hidroxivitamina D₃) é a forma biologicamente ativa da vitamina D, empregada no tratamento de hipocalcemia, hipoparatireoidismo e doença óssea metabólica associada à doença renal crônica. O modelo TxGNN prevê eficácia para **Raquitismo Hipofosfatêmico Hereditário (Hereditary Hypophosphatemic Rickets)**, indicação candidata com o mais alto nível de evidência clínica entre todas as previsões geradas, apoiada por **7 ensaios clínicos** — incluindo um Phase 4 com 100 participantes — e **20 publicações** na literatura especializada.
+Calcitriol é a forma ativa da vitamina D, originalmente usado em distúrbios do metabolismo do cálcio e do fósforo, como hipoparatireoidismo, hipofosfatemia e osteodistrofia renal.
+O modelo TxGNN prevê que pode ser eficaz para **raquitismo hipofosfatêmico hereditário (hereditary hypophosphatemic rickets)**, atualmente com **2 ensaios clínicos** e **19 publicações** apoiando esta direção.
 
----
+Observação: a previsão de maior pontuação do modelo foi "deficiência de vitamina D (obsoleta)", mas ela não tem nenhuma evidência real e está sobreposta ao mecanismo do próprio fármaco. Por isso, esta avaliação se concentra na indicação com evidências concretas.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipocalcemia e distúrbios do metabolismo cálcio-fósforo (hipoparatireoidismo, doença renal crônica) |
-| Nova Indicação Prevista | Raquitismo Hipofosfatêmico Hereditário (Hereditary Hypophosphatemic Rickets) |
-| Pontuação de Previsão TxGNN | 99.28% (ranking #7 entre todas as previsões) |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✓ Já comercializado |
-| Número de Registros | 12 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Indicação Original | Hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, hipofosfatemia, hipoparatireoidismo, osteodistrofia renal (conforme o grafo de conhecimento do TxGNN; não há registros no Brasil) |
+| Nova Indicação Prevista | Raquitismo hipofosfatêmico hereditário (Hereditary Hypophosphatemic Rickets) |
+| Pontuação de Previsão TxGNN | 99,28% |
+| Nível de Evidência | L2 |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold (mantida a avaliação conservadora; ver conclusão) |
 
 ## Por que Esta Previsão é Razoável?
 
-Calcitriol é a forma biologicamente ativa da vitamina D, produzida nos rins pela enzima 1α-hidroxilase (CYP27B1). Sua principal ação é ligar-se ao receptor de vitamina D (VDR), um fator de transcrição nuclear que regula a absorção intestinal de cálcio e fósforo, a reabsorção renal desses íons e a mineralização óssea. Embora os dados detalhados de MOA não tenham sido recuperados automaticamente neste Evidence Pack, o mecanismo de ação do calcitriol é amplamente estabelecido e constitui a base de décadas de uso clínico em diversas condições hiperparatiróideas e hipofosfatêmicas.
+Não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o calcitriol é a forma ativa da vitamina D (1,25-di-hidroxivitamina D3). Ele aumenta a absorção intestinal de cálcio e fosfato e participa da mineralização óssea.
 
-O raquitismo hipofosfatêmico hereditário — predominantemente a forma X-linked (XLH), causada por mutações no gene PHEX — cursa com hipersecreção crônica do hormônio fosfatúrico FGF23. O FGF23 em excesso exerce duplo efeito supressor: inibe a reabsorção tubular de fosfato (via downregulation dos cotransportadores NaPi-2a/2c) e reduz a atividade da 1α-hidroxilase renal, resultando em níveis de calcitriol endógeno inadequadamente baixos para a condição de hipofosfatemia. A administração exógena de calcitriol contorna diretamente essa supressão enzimática mediada pelo FGF23, fornecendo o ligante VDR ativo necessário para restaurar parcialmente a absorção intestinal de cálcio e fósforo e promover a mineralização óssea.
+No raquitismo hipofosfatêmico hereditário, sobretudo na hipofosfatemia ligada ao X (XLH), mutações no gene PHEX elevam o FGF23. O excesso de FGF23 provoca perda renal de fosfato e reduz a síntese de calcitriol, levando a raquitismo e osteomalácia. Repor o calcitriol, junto com fosfato oral, corrige parte desse defeito.
 
-A terapia combinada de calcitriol + suplementação de fosfato foi o padrão de tratamento global para XLH por décadas — antes da aprovação do burosumab (anti-FGF23) em 2018 pela FDA e EMA. Múltiplos ensaios clínicos, incluindo um Phase 4 com 100 crianças (NCT03820518) comparando diferentes doses de calcitriol, e um estudo de monoterapia com calcitriol atualmente ativo (NCT03748966), reafirmam que este fármaco permanece parte ativa do arsenal terapêutico desta doença, tanto como alternativa de menor custo quanto como possível terapia adjuvante às novas abordagens moleculares.
-
----
+A nova indicação está muito próxima das indicações originais (hipofosfatemia e distúrbios do metabolismo do fósforo). Trata-se de um uso adjacente ao já estabelecido, e não de um reposicionamento verdadeiramente novo. Essa terapia convencional já consta em revisões e diretrizes de manejo da XLH.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT03820518](https://clinicaltrials.gov/study/NCT03820518) | Phase 4 | Desconhecido | 100 | RCT comparando alta vs. baixa dose de vitamina D ativa (incluindo calcitriol) combinada com fosfato neutro em crianças com XLH; objetivo de estabelecer dosagem baseada em peso para otimizar eficácia e segurança |
-| [NCT03748966](https://clinicaltrials.gov/study/NCT03748966) | Early Phase 1 | Ativo (não recrutando) | 20 | Calcitriol em monoterapia (sem suplementação de fosfato) em crianças e adultos com XLH; hipótese de que calcitriol isolado melhora fosfatemia e mineralização óssea sem aumentar nefrocalcinose |
-| [NCT04846647](https://clinicaltrials.gov/study/NCT04846647) | N/A | Concluído | 260 | Estudo observacional da secreção inapropriada de FGF23 em pacientes hospitalizados com hipofosfatemia; clarifica o eixo FGF23–calcitriol como mecanismo central que justifica a intervenção |
-| [NCT06046820](https://clinicaltrials.gov/study/NCT06046820) | Phase 3 | Ativo (não recrutando) | 27 | ENERGY 3: RCT avaliando INZ-701 em deficiência de ENPP1; calcitriol potencialmente como tratamento de controle ou componente combinado, fornecendo referência comparativa indireta |
-| [NCT06921720](https://clinicaltrials.gov/study/NCT06921720) | N/A | Ainda não recrutando | 65 | Medição de ATP por espectroscopia de fósforo-31 (³¹P MRS) em diabetes fosfato (XLH); identifica biomarcadores energéticos para monitorar resposta ao tratamento com calcitriol |
-| [NCT01526304](https://clinicaltrials.gov/study/NCT01526304) | N/A | Desconhecido | 150 | Estudo transversal sobre FGF23, Klotho e Sclerostin em formadores de cálculos renais; contexto mecanístico do eixo FGF23 que sustenta a lógica de intervenção com calcitriol |
-| [NCT00844740](https://clinicaltrials.gov/study/NCT00844740) | N/A | Retirado | 0 | Cinacalcet como adjuvante ao tratamento padrão (calcitriol + fosfato) em raquitismo hipofosfatêmico familiar; retirado antes de recrutar, mas confirma que calcitriol era o backbone terapêutico aceito |
+| [NCT03748966](https://clinicaltrials.gov/study/NCT03748966) | Early Phase 1 | Concluído | 16 | Calcitriol em monoterapia (sem suplementação de fosfato) por um ano em crianças e adultos com XLH; avalia íons minerais, crescimento e parâmetros esqueléticos, além do risco de calcificação renal |
+| [NCT03820518](https://clinicaltrials.gov/study/NCT03820518) | Phase 4 | Desconhecido | 100 | Compara dose alta versus baixa de vitamina D ativa com fosfato neutro em crianças com XLH; o termo "vitamina D ativa" pode incluir análogos além do calcitriol |
 
----
+Nenhum dos dois é um ensaio de Fase 3 com resultados publicados nos dados compilados.
 
 ## Evidências da Literatura
 
+Foram recuperadas 19 publicações; abaixo, as mais relevantes (priorizando revisões e diretrizes de consenso).
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [39181153](https://pubmed.ncbi.nlm.nih.gov/39181153/) | 2024 | Review | Lancet | Revisão abrangente de XLH no Lancet: FGF23 como causa central da supressão de calcitriol e raquitismo; calcitriol + fosfato como tratamento histórico padrão |
-| [40295317](https://pubmed.ncbi.nlm.nih.gov/40295317/) | 2025 | Review | Calcified Tissue Int | Diagnóstico e terapia atual de XLH: calcitriol + fosfato como base histórica estabelecida, com comparação ao burosumab |
-| [6252463](https://pubmed.ncbi.nlm.nih.gov/6252463/) | 1980 | Experimental | NEJM | Estudo seminal em 11 crianças com raquitismo resistente à vitamina D: calcitriol superior ao ergocalciferol, aumentando absorção intestinal de fosfato e reduzindo necessidade de suplementação |
-| [3839245](https://pubmed.ncbi.nlm.nih.gov/3839245/) | 1985 | Experimental | J Clin Investigation | Altas doses de calcitriol + fosfato cicatrizam osteomalácia em XLH onde vitamina D convencional falha; demonstra necessidade da forma ativa |
-| [36446330](https://pubmed.ncbi.nlm.nih.gov/36446330/) | 2022 | Review | Hormone Res Paediatrics | Metabolismo do raquitismo, vitamina D e cálcio-fósforo; revisão da base histórica, mecanística e terapêutica desde Sniadecki (1822) até era molecular |
-| [38988138](https://pubmed.ncbi.nlm.nih.gov/38988138/) | 2024 | Review | J Bone Mineral Res | Raquitismo hipofosfatêmico e baixa estatura: abordagem diagnóstica e terapêutica baseada em fosfatemia, FGF23 e calcitriol |
-| [29292875](https://pubmed.ncbi.nlm.nih.gov/29292875/) | 2017 | Cohort | Pediatric Endocrinol Rev | Crescimento em 127 pacientes com XLH de 49 centros antes e após terapia com calcitriol + fosfato; descreve efeito de intervenção precoce |
-| [35226335](https://pubmed.ncbi.nlm.nih.gov/35226335/) | 2022 | Cohort | J Endocrinol Invest | Crescimento em altura e proporção corporal do nascimento à idade adulta em raquitismo hipofosfatêmico hereditário; coorte retrospectiva |
-| [17117305](https://pubmed.ncbi.nlm.nih.gov/17117305/) | 2006 | Review | Arq Bras Endocrinol | Revisão em português de condições hipofosfatêmicas hereditárias e adquiridas; calcitriol destacado como componente essencial do tratamento padrão |
-| [38337700](https://pubmed.ncbi.nlm.nih.gov/38337700/) | 2024 | Review | Nutrients | Tipos de raquitismo e tratamento com vitamina D e análogos: calcitriol e alfacalcidol como opções terapêuticas chave para raquitismo resistente |
-
----
+| [39181153](https://pubmed.ncbi.nlm.nih.gov/39181153/) | 2024 | Review | Lancet | Revisão da XLH: excesso de FGF23 causa perda renal de fosfato e menor síntese de calcitriol |
+| [35484227](https://pubmed.ncbi.nlm.nih.gov/35484227/) | 2022 | Consenso | Nat Rev Endocrinol | Declaração de consenso sobre avaliação, diagnóstico e cuidado da XLH |
+| [40295317](https://pubmed.ncbi.nlm.nih.gov/40295317/) | 2025 | Review | Calcif Tissue Int | Diagnóstico e terapia da XLH |
+| [31863781](https://pubmed.ncbi.nlm.nih.gov/31863781/) | 2020 | Review | Metabolism | Manejo da XLH em adultos |
+| [38337700](https://pubmed.ncbi.nlm.nih.gov/38337700/) | 2024 | Review | Nutrients | Tipos de raquitismo e tratamento com vitamina D e análogos, incluindo calcitriol |
+| [36446330](https://pubmed.ncbi.nlm.nih.gov/36446330/) | 2022 | Review | Horm Res Paediatr | Raquitismo, vitamina D e metabolismo de Ca/P |
+| [38044258](https://pubmed.ncbi.nlm.nih.gov/38044258/) | 2024 | Review | Best Pract Res Clin Endocrinol Metab | Síndromes de excesso hereditário de FGF23 |
+| [35226335](https://pubmed.ncbi.nlm.nih.gov/35226335/) | 2022 | Coorte retrospectiva | J Endocrinol Invest | Crescimento em altura e proporção corporal do nascimento à vida adulta no raquitismo hipofosfatêmico hereditário |
+| [2492895](https://pubmed.ncbi.nlm.nih.gov/2492895/) | 1989 | Estudo clínico | Calcif Tissue Int | Medidas de massa óssea em crianças com raquitismo hipofosfatêmico familiar tratadas com calcitriol e fosfato |
+| [17117305](https://pubmed.ncbi.nlm.nih.gov/17117305/) | 2006 | Review | Arq Bras Endocrinol Metab | Raquitismo hipofosfatêmico e osteomalácia, com reabsorção renal de fosfato reduzida e calcitriol baixo ou inadequadamente normal |
 
 ## Informações de Comercialização no Brasil
 
-Calcitriol está registrado na ANVISA com **12 registros ativos** e situação de mercado **já comercializado**. No entanto, os dados individuais de cada registro — incluindo números de registro, nomes comerciais, formas farmacêuticas e textos de indicação aprovada — não foram recuperados nesta versão do Evidence Pack (campos retornados como vazios na base consultada). A complementação desses dados é necessária para verificar se a indicação para raquitismo hipofosfatêmico hereditário já consta em algum registro nacional.
-
----
+Atualmente não há registros de calcitriol nos dados compilados para este relatório (situação: não comercializado).
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
-
-> **Nota de atenção clínica para a indicação candidata:** O uso de calcitriol em raquitismo hipofosfatêmico hereditário requer monitoramento rigoroso de hipercalcemia, hipercalciúria e nefrocalcinose — riscos bem documentados nesta população, especialmente em doses elevadas. A comparação de eficácia e segurança com burosumab (aprovado FDA/EMA para XLH pediátrico desde 2018) deve ser avaliada no contexto regulatório brasileiro.
-
----
+- **Contraindicações (derivadas do grafo de conhecimento, não da bula)**: doença renal, piureter, sarcoidose, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, nefrolitíase (incluindo suscetibilidade associada ao gene SLC26A1), nefropatia aguda por urato, hiperfosfatemia, hipervitaminose e arteriosclerose obliterante.
+- **Interações Medicamentosas**: foram identificadas 100 interações, e abaixo estão as principais da lista disponível.
+  - **Graves (Major)**: colecalciferol, burosumabe e calcifediol.
+  - **Moderadas**: fosfenitoína, carbamazepina, barbitúricos (amobarbital, butalbital, butabarbital), diuréticos tiazídicos (hidroclorotiazida, clorotiazida, clortalidona, bendroflumetiazida, benztiazida), hidróxido de alumínio, calcipotriol tópico, resinas sequestrantes de ácidos biliares (colestiramina, colesevelam, colestipol) e digitálicos (digoxina, digitoxina).
+- **Atenção específica**: no raquitismo hipofosfatêmico, os riscos conhecidos são hipercalciúria e nefrocalcinose, que exigem monitoramento. A interação grave com o burosumabe é relevante, pois este é uma alternativa terapêutica na XLH.
+- As advertências e contraindicações da bula da ANVISA não estavam disponíveis; consulte a bula para as informações de segurança oficiais.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-O uso de calcitriol no raquitismo hipofosfatêmico hereditário é sustentado por nível de evidência L1 — com ensaio Phase 4 ativo, estudo de monoterapia em curso, e décadas de uso clínico consolidado como tratamento padrão anterior ao burosumab — e pelo mecanismo biologicamente bem fundamentado de contorno à supressão FGF23-mediada da 1α-hidroxilase. O calcitriol já está disponível no mercado brasileiro (12 registros), eliminando barreiras regulatórias de entrada.
+- Existem dois ensaios (um de Fase Early 1 concluído, com 16 participantes, e um de Fase 4 de status desconhecido) e várias revisões, mas nenhum ensaio de Fase 3 com resultados. O nível de evidência é L2 e a indicação é adjacente às já conhecidas, sem ser um reposicionamento novo. Além disso, o fármaco não tem registro no Brasil e faltam dados de segurança da bula. As demais previsões (deficiência de vitamina D obsoleta, hipoparatireoidismo familiar, displasias raras) têm apenas previsão do modelo (L5), e a acidose tubular renal tem evidência apenas de nível L4.
 
 **Para prosseguir, é necessário:**
-- Recuperar os dados completos dos 12 registros ANVISA (nomes comerciais, formas farmacêuticas, textos de indicação aprovada) para verificar abrangência atual das indicações registradas
-- Acessar a bula completa via ANVISA para mapeamento de advertências, contraindicações e interações medicamentosas relevantes para esta indicação específica
-- Confirmar dados de MOA via DrugBank API (DG002 — gap de alta severidade)
-- Definir protocolo de monitoramento de segurança: cálcio sérico e urinário, creatinina, ultrassonografia renal (rastreio de nefrocalcinose) a cada 3–6 meses
-- Avaliar posicionamento estratégico frente ao burosumab: calcitriol pode ser alternativa de menor custo em populações sem acesso ao biológico, ou componente de esquemas combinados em investigação
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
+- Complementar os dados do mecanismo de ação via DrugBank.
+- Verificar os resultados do NCT03748966 e o status do NCT03820518, e identificar se há ensaios randomizados de Fase 3.
+- Definir dose ideal, monoterapia versus combinação com fosfato e comparação com o burosumabe.
+- Avaliar a situação regulatória: o calcitriol não está registrado no Brasil, então seria necessária uma estratégia de acesso ou registro.
+- Estabelecer um plano de monitoramento de cálcio, fósforo, função renal e calciúria, com vigilância de nefrocalcinose.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

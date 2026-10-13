@@ -2,7 +2,7 @@
 layout: default
 title: Valganciclovir
 parent: Evidência Moderada (L3-L4)
-nav_order: 498
+nav_order: 662
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,13 +29,12 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Valganciclovir: Da retinite por CMV à artrite reumatoide
+# Valganciclovir: Do tratamento de infecções por citomegalovírus à artrite reumatoide (previsão do modelo)
 
 ## Resumo em Uma Frase
 
-Valganciclovir é um pró-fármaco oral do ganciclovir, aprovado para o tratamento da retinite por citomegalovírus (CMV) em pacientes com AIDS e para a profilaxia de CMV em receptores de transplante de órgãos sólidos.
-O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid Arthritis)**, porém esta previsão é provavelmente um **falso positivo**: toda a literatura disponível descreve Valganciclovir sendo utilizado para tratar infecções oportunistas por CMV *em* pacientes com AR imunossuprimidos — e não para tratar a AR em si.
-Atualmente, há **0 ensaios clínicos** e **13 publicações** identificadas para esta direção, predominantemente relatos de caso e revisões sobre complicações infecciosas.
+Valganciclovir é um pró-fármaco do ganciclovir, antiviral usado contra o citomegalovírus (CMV); não há indicação aprovada registrada no Brasil nos dados compilados para este relatório.
+O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid Arthritis)**, mas atualmente há **0 ensaios clínicos** e **14 publicações** recuperadas, quase todas relatos de caso e revisões sobre infecção por CMV em pacientes com artrite reumatoide, e não sobre tratamento da própria doença.
 
 ---
 
@@ -43,23 +42,23 @@ Atualmente, há **0 ensaios clínicos** e **13 publicações** identificadas par
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Retinite por CMV em pacientes com AIDS; profilaxia de CMV em transplante de órgão sólido |
+| Indicação Original | Sem indicação registrada no Brasil nos dados compilados (o fármaco é conhecido como antiviral contra CMV) |
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
 | Pontuação de Previsão TxGNN | 98,97% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 4 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis neste Evidence Pack. Com base em informações farmacológicas conhecidas, Valganciclovir é um pró-fármaco oral do ganciclovir — um análogo nucleosídico que, após absorção, é rapidamente convertido em ganciclovir pela ação de esterases intestinais e hepáticas. O ganciclovir bloqueia a replicação do DNA do CMV por inibição competitiva da DNA polimerase viral (UL54) e por incorporação à cadeia de DNA em elongação, interrompendo sua síntese. Não há target imunológico ou antiinflamatório conhecido neste mecanismo.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o valganciclovir é um pró-fármaco do ganciclovir, que inibe a DNA polimerase do CMV. Sua eficácia está estabelecida em infecções por CMV, mas isso não se traduz em um mecanismo antirreumático direto.
 
-A artrite reumatoide (AR) é uma doença inflamatória autoimune crônica tratada com imunossupressores como metotrexato, inibidores de TNF-α e inibidores de JAK (tofacitinib, upadacitinib, baricitinib). Esses agentes reduzem substancialmente a imunidade celular mediada por linfócitos T CD4+, criando condições favoráveis à reativação de vírus herpéticos latentes, em especial o CMV. A literatura identificada documenta de forma consistente que pacientes com AR em uso de JAK inibidores ou metotrexato desenvolvem infecções oportunistas por CMV (retinite, enterocolite, gastrite), nas quais Valganciclovir é o tratamento antiviral de escolha.
+A relação entre a indicação original e a nova indicação é fraca. A literatura recuperada trata de infecções por CMV (ileocolite, retinite) em pacientes com artrite reumatoide em uso de imunossupressores, como tofacitinibe e metotrexato. Nesses casos, o fármaco trata uma infecção oportunista, não a artrite reumatoide em si. A pontuação alta do modelo (0,99) provavelmente reflete a associação da doença com complicações por CMV, e não atividade modificadora da doença.
 
-Entretanto, este cenário **não representa reposicionamento terapêutico**: Valganciclovir é administrado para tratar a complicação infecciosa, e não para modificar o curso da AR. A alta pontuação do TxGNN (98,97%) é interpretada como **falso positivo** gerado pela co-ocorrência frequente no grafo de conhecimento — pacientes com nó "AR" e nó "Valganciclovir" conectados pelo nó intermediário "infecção por CMV". Não existe plausibilidade mecanística direta para o uso de Valganciclovir como terapia da AR em si.
+Há um único sinal pré-clínico: um estudo recente (2026) combinou análises *in silico*, *in vitro* e *in vivo* e sugeriu que o cloridrato de valganciclovir poderia modular a sinalização inflamatória mediada pelo receptor de IL-6. Trata-se de resultado preliminar, que exige confirmação independente.
 
 ---
 
@@ -73,30 +72,26 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [18068874](https://pubmed.ncbi.nlm.nih.gov/18068874/) | 2008 | Review/Guidelines | La Revue de medecine interne | Ausência de diretrizes para manejo de infecção por CMV em pacientes com AR e LES sob imunossupressão; discute quando iniciar antivirais |
-| [41792858](https://pubmed.ncbi.nlm.nih.gov/41792858/) | 2026 | Review | Int J Retina Vitreous | Revisão das evidências recentes sobre retinite viral induzida por inibidores de JAK; risco crescente de CMV em pacientes com AR tratados com tofacitinib e outros JAKi |
-| [11465875](https://pubmed.ncbi.nlm.nih.gov/11465875/) | 2001 | Drug Review | Drugs | Revisão farmacológica do Valganciclovir; demonstração de bioequivalência oral com ganciclovir IV 5 mg/kg para retinite por CMV em pacientes com AIDS |
-| [15155152](https://pubmed.ncbi.nlm.nih.gov/15155152/) | 2004 | Review | Expert Opinion on Drug Safety | Revisão de toxicidade retiniana por fármacos; contextualiza hidroxicloroquina em AR e implicações oculares; relevância indireta |
-| [41779881](https://pubmed.ncbi.nlm.nih.gov/41779881/) | 2025 | Case Series | Retinal Cases & Brief Reports | Dois pacientes com AR em uso prolongado de tofacitinib desenvolveram retinite por CMV; ambos tratados com Valganciclovir |
-| [28389165](https://pubmed.ncbi.nlm.nih.gov/28389165/) | 2017 | Case Report | J Infect Chemother | Retinite por CMV seguida de uveíte de recuperação imune em paciente de 78 anos com AR em MTX + tofacitinib; CD4+ baixo (196 células) no momento do diagnóstico |
-| [41526852](https://pubmed.ncbi.nlm.nih.gov/41526852/) | 2026 | Case Report | BMC Ophthalmology | Retinite por CMV com isquemia retiniana e hemorragia vítrea em paciente com AR em uso de upadacitinib; complicações raras e mal caracterizadas |
-| [15494900](https://pubmed.ncbi.nlm.nih.gov/15494900/) | 2004 | Case Report | Clinical Infectious Diseases | Retinite por CMV em paciente com AR em anticorpos anti-TNF-α; relata imunossupressão grave como fator determinante |
-| [26150269](https://pubmed.ncbi.nlm.nih.gov/26150269/) | 2015 | Case Report | Reumatismo | Ileocolite por CMV em paciente de 64 anos com AR sob imunossupressão; diarreia e dor abdominal persistentes como apresentação |
-| [20711100](https://pubmed.ncbi.nlm.nih.gov/20711100/) | 2010 | Case Report/Review | Acta Reumatologica Portuguesa | Doença de Still do adulto e infecção por CMV; paciente iniciou Valganciclovir para hepatite por CMV, com posterior diagnóstico de doença inflamatória |
-
----
-
-## Informações de Comercialização no Brasil
-
-O Valganciclovir possui **4 registros ativos** no Brasil, com situação de comercialização confirmada. Os dados individuais dos registros (número, nome comercial, forma farmacêutica e texto de indicação aprovada) não constavam preenchidos neste Evidence Pack. Recomenda-se consultar o portal de consulta de medicamentos da ANVISA ([consultas.anvisa.gov.br](https://consultas.anvisa.gov.br/)) para obter os detalhes completos de cada registro.
+| [42820990](https://pubmed.ncbi.nlm.nih.gov/42820990/) | 2026 | Pré-clínico (*in silico*/*in vitro*/*in vivo*) | Naunyn-Schmiedeberg's Arch Pharmacol | Reposicionamento de fármacos aprovados na via da IL-6; valganciclovir apontado como possível modulador da sinalização do receptor de IL-6 |
+| [26150269](https://pubmed.ncbi.nlm.nih.gov/26150269/) | 2015 | Relato de caso/revisão | Reumatismo | Ileocolite por CMV em paciente com artrite reumatoide sob imunossupressores |
+| [18068874](https://pubmed.ncbi.nlm.nih.gov/18068874/) | 2008 | Revisão | La Revue de Médecine Interne | Manejo de infecções por CMV em pacientes imunossuprimidos com doenças inflamatórias crônicas; ausência de diretrizes |
+| [41792858](https://pubmed.ncbi.nlm.nih.gov/41792858/) | 2026 | Revisão | Int J Retina Vitreous | Retinite infecciosa, incluindo por CMV, associada a inibidores de JAK |
+| [41779881](https://pubmed.ncbi.nlm.nih.gov/41779881/) | 2025 | Relato de caso | Retinal Cases & Brief Reports | Retinite por CMV em dois pacientes com artrite reumatoide em uso de tofacitinibe |
+| [41526852](https://pubmed.ncbi.nlm.nih.gov/41526852/) | 2026 | Relato de caso | BMC Ophthalmology | Retinite por CMV com isquemia retiniana e hemorragia vítrea em paciente em uso de upadacitinibe |
+| [28389165](https://pubmed.ncbi.nlm.nih.gov/28389165/) | 2017 | Relato de caso | J Infect Chemother | Retinite por CMV e uveíte de recuperação imune em idoso com artrite reumatoide sob metotrexato e tofacitinibe |
+| [15494900](https://pubmed.ncbi.nlm.nih.gov/15494900/) | 2004 | Relato de caso | Clin Infect Dis | Retinite por CMV em paciente tratado com anti-TNF-alfa para artrite reumatoide |
+| [23904414](https://pubmed.ncbi.nlm.nih.gov/23904414/) | 2013 | Relato de caso | BMJ Case Reports | Gastrite por CMV e *H. pylori* em paciente com artrite reumatoide em uso de metotrexato |
+| [32613063](https://pubmed.ncbi.nlm.nih.gov/32613063/) | 2020 | Relato de caso | JAAD Case Reports | Vasculite reumatoide refratária com reativação de CMV |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 100 interações, e as principais estão listadas a seguir.
+  - Gravidade moderada: anfotericina B (e suas formulações lipídica, de sulfato de colesterila e lipossomal) e tróspio.
+  - Gravidade não classificada: calcitriol, pantoprazol, clotrimazol, morfina, metformina, omeprazol, lansoprazol, vancomicina, nizatidina, oxandrolona, prednisona, sinvastatina, hidrocortisona, manitol e dolasetrona.
 
-> **Nota clínica:** Embora os dados de segurança não tenham sido recuperados neste pack, o perfil de toxicidade de Valganciclovir é bem estabelecido na literatura e inclui mielossupressão (neutropenia, trombocitopenia, anemia) como efeito adverso clinicamente relevante. Esta informação deve ser considerada em qualquer avaliação clínica futura.
+Para advertências e contraindicações, consulte a bula.
 
 ---
 
@@ -105,14 +100,14 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão TxGNN para artrite reumatoide é interpretada como **falso positivo estrutural**: todo o corpus de literatura identificado documenta Valganciclovir sendo utilizado para tratar complicações oportunistas por CMV *em* pacientes com AR imunossuprimidos, sem nenhuma evidência de que o fármaco trate ou modifique a AR em si. Não existe plausibilidade mecanística, nem ensaio clínico, nem hipótese biológica para este reposicionamento.
+- Não há ensaios clínicos nem evidência de eficácia do valganciclovir contra a artrite reumatoide; a literatura descreve o tratamento de infecções por CMV em pacientes com a doença. A única sugestão de efeito direto vem de um estudo pré-clínico isolado. Além disso, o fármaco não tem registro comercializado no Brasil.
 
-**Para reavaliar este candidato, seria necessário:**
-- Evidências de que o CMV desempenhe papel causal na patogênese da AR (ex.: hipótese de gatilho viral autoimune)
-- Estudos pré-clínicos demonstrando que a supressão do CMV modifica marcadores inflamatórios articulares
-- Ensaios clínicos controlados em pacientes com AR CMV-soropositivos de difícil controle avaliando Valganciclovir como adjuvante
-- Dados de MOA completos do DrugBank (DB01610) para confirmar ausência de targets imunológicos relevantes para AR
-- Dados de segurança completos (advertências, contraindicações) via download da bula no portal ANVISA
+**Para prosseguir, é necessário:**
+- Confirmar de forma independente o sinal pré-clínico sobre a via da IL-6, com modelos adicionais de artrite.
+- Obter dados detalhados do mecanismo de ação.
+- Obter advertências e contraindicações na bula, que não estavam disponíveis nos dados compilados.
+- Verificar a situação regulatória no Brasil, já que não há registro comercializado.
+- Considerar que, na artrite reumatoide, o uso mais plausível do fármaco continua sendo a profilaxia ou o tratamento de infecções por CMV em pacientes imunossuprimidos, e não como terapia modificadora da doença.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

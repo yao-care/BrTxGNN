@@ -2,7 +2,7 @@
 layout: default
 title: Azithromycin
 parent: Apenas Predição do Modelo (L5)
-nav_order: 90
+nav_order: 100
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,12 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Azithromycin: De antibiótico de amplo espectro para hiperamylasemia (Hyperamylasemia)
+# Azitromicina: De antibiótico sistêmico para hiperamilasemia
 
 ## Resumo em Uma Frase
 
-Azithromycin é um antibiótico macrolídeo de amplo espectro, classicamente utilizado no tratamento de infecções bacterianas como pneumonia adquirida na comunidade, infecções de vias aéreas superiores e infecções sexualmente transmissíveis.
-O modelo TxGNN prevê que pode ser eficaz para **Hiperamylasemia (Hyperamylasemia)**, com pontuação de previsão de **99,81%**;
-entretanto, atualmente **não há ensaios clínicos nem publicações** apoiando diretamente esta direção.
+Azitromicina é um antibiótico macrolídeo de uso sistêmico, originalmente registrado na ANVISA como "antibiótico sistêmico simples".
+O modelo TxGNN prevê que pode ser eficaz para **Hiperamilasemia (Hyperamylasemia)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção, e trata-se apenas de uma previsão do modelo.
 
 ---
 
@@ -43,23 +42,23 @@ entretanto, atualmente **não há ensaios clínicos nem publicações** apoiando
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções bacterianas (antibiótico macrolídeo de amplo espectro) |
-| Nova Indicação Prevista | Hiperamylasemia (Hyperamylasemia) |
+| Indicação Original | Antibióticos sistêmicos simples |
+| Nova Indicação Prevista | Hiperamilasemia (Hyperamylasemia) |
 | Pontuação de Previsão TxGNN | 99,81% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Sem registros na base consultada |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados sobre o mecanismo de ação disponíveis neste pacote de evidências. Com base no conhecimento farmacológico estabelecido, Azithromycin é um antibiótico macrolídeo que atua por dois mecanismos principais: inibição da síntese proteica bacteriana por ligação à subunidade 50S do ribossomo 70S, e propriedades imunomoduladoras independentes do efeito antibacteriano (inibição da quimiotaxia de neutrófilos, redução da secreção de IL-8 e modulação de citocinas pró-inflamatórias).
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a azitromicina é um antibiótico da classe dos macrolídeos, com eficácia comprovada em infecções bacterianas.
 
-A hiperamylasemia — elevação dos níveis séricos de amilase — decorre principalmente de lesão pancreática (pancreatite) ou das glândulas salivares, com fisiopatologia centrada em dano acinar, obstrução ductal ou causas metabólicas. Não existe conexão mecanística direta conhecida entre os alvos farmacológicos dos macrolídeos (inibição ribossômica bacteriana / imunomodulação) e a regulação dos níveis de amilase sérica.
+Para a hiperamilasemia, não foi identificado nenhum vínculo mecanístico plausível. A hiperamilasemia é um achado laboratorial, e não uma doença propriamente tratável, e a azitromicina não tem papel conhecido na redução da amilase. A pontuação elevada do TxGNN decorre apenas de padrões no grafo de conhecimento, sem ensaios ou literatura de apoio.
 
-A elevada pontuação do TxGNN (99,81%, rank 1.557 entre todos os candidatos) provavelmente reflete um efeito de proximidade no grafo de conhecimento — nós relacionados a doenças sanguíneas na vizinhança topológica do grafo — e não uma relação farmacológica direta. Na ausência de qualquer ensaio clínico ou publicação de suporte, esta previsão deve ser interpretada exclusivamente como sinal computacional de hipótese, não como evidência de eficácia clínica.
+Por isso, esta previsão deve ser tratada com cautela: não há base mecanística nem clínica que a sustente.
 
 ---
 
@@ -77,15 +76,27 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Nenhum registro encontrado na base de dados consultada na data de corte (2026-04-05).
+Todos os 20 registros encontrados estão cancelados. Principais registros:
 
-> **Nota:** Azithromycin é um antibiótico de uso amplamente difundido em todo o mundo, incluindo o Brasil. A ausência de registros pode refletir limitações da base de dados consultada. Recomenda-se verificação direta no banco de dados da ANVISA (Consulta de Medicamentos Registrados) antes de qualquer decisão regulatória.
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 105730148 | Azitromicina | Não informada | Antibióticos sistêmicos simples |
+| Registro 105730720 | Zirk | Não informada | Antibióticos sistêmicos simples |
+| Registro 102010063 | Azitromicina monoidratada | Não informada | Antibióticos sistêmicos simples |
+| Registro 155620036 | Azitromicina monoidratada | Não informada | Antibióticos sistêmicos simples |
+| Registro 155840530 | Azitromicina di-hidratada | Não informada | Antibióticos sistêmicos simples |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (grafo de conhecimento, não texto de bula)**: o grafo de conhecimento associa a azitromicina a contraindicações em síndrome do QT longo (inclusive familiar), torsades de pointes, doença hepática, doença da vesícula biliar, colite por *Clostridium difficile*, enterocolite necrosante perinatal, miastenia gravis (inclusive de início na idade adulta), doenças da junção neuromuscular e distúrbios auditivos.
+- **Interações Medicamentosas**: foram identificadas 100 interações. Entre as principais:
+  - **Graves (Major)**: cisaprida e dolasetrona (risco de prolongamento do intervalo QT).
+  - **Moderadas**: claritromicina, levofloxacino, granisetrona, famotidina, loperamida, antiácidos (hidróxido de alumínio, magaldrato, carbonato/citrato/hidróxido de magnésio), laxantes (bisacodil, óleo de rícino, glicerina, lactitol, lactulose) e balsalazida.
+  - **Leves (Minor)**: amoxicilina e metronidazol.
+
+Consulte a bula para as advertências e contraindicações oficiais, pois esses dados não estavam disponíveis.
 
 ---
 
@@ -94,14 +105,15 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-Não há qualquer evidência clínica ou pré-clínica direta vinculando Azithromycin ao tratamento de hiperamylasemia, e a previsão TxGNN de nível L5 é sustentada exclusivamente pelo modelo computacional, sem fundamento biológico estabelecido que justifique avanço investigativo nesta indicação.
+A previsão para hiperamilasemia tem pontuação alta no modelo, mas não conta com nenhum ensaio clínico, nenhuma publicação nem mecanismo plausível (nível L5). Além disso, todos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**
-- Identificar base biológica plausível que conecte os mecanismos de ação dos macrolídeos à regulação da amilase sérica
-- Realizar verificação cruzada com dados de farmacovigilância para identificar se há sinal de alteração de amilase como efeito adverso ou protetor do Azithromycin
-- Obter dados de mecanismo de ação detalhados via DrugBank API (DG002 pendente)
-- Consultar diretamente o banco de dados da ANVISA para confirmar situação regulatória no Brasil
-- Caso surja hipótese mecanística plausível, conduzir estudos pré-clínicos antes de qualquer ensaio clínico
+- Dados do mecanismo de ação da azitromicina e justificativa biológica para a indicação prevista
+- Bula da ANVISA com advertências e contraindicações oficiais
+- Definição de que a hiperamilasemia, sendo um achado laboratorial, constitui um alvo terapêutico clinicamente relevante
+- Confirmação da situação regulatória atual no Brasil (todos os registros constam como cancelados)
+
+**Observação sobre outras indicações previstas:** entre as demais previsões, a de **doença hematológica congênita** (ligada a complicações da doença falciforme, como a síndrome torácica aguda) é a que reúne mais respaldo (nível L3), mas os dois únicos ensaios identificados foram retirados sem inclusão de participantes. A previsão de **gamopatia monoclonal** (L4) conta com apenas um estudo pré-clínico in vitro em mieloma. Ambas poderiam ser consideradas questões de pesquisa em avaliações futuras, mas não alteram a decisão para a indicação principal deste relatório.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

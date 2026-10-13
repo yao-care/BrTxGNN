@@ -2,7 +2,7 @@
 layout: default
 title: Apixaban
 parent: Evidência Moderada (L3-L4)
-nav_order: 66
+nav_order: 72
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,85 +29,71 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Apixaban: Da Anticoagulação ao Transtorno de Enxaqueca
+# Apixabana: Do uso anticoagulante à enxaqueca (previsão do modelo)
 
 ## Resumo em Uma Frase
 
-Apixaban é um inibidor seletivo e direto do fator Xa (FXa), amplamente aprovado para prevenção de AVC em fibrilação atrial não valvar e para o tratamento e prevenção do tromboembolismo venoso (TEV).
-O modelo TxGNN prevê que pode ser eficaz para o **Transtorno de Enxaqueca (Migraine Disorder)**, atualmente com **1 ensaio clínico** tangencialmente relacionado e **nenhuma publicação direta** apoiando esta direção.
-
----
+Apixabana é um anticoagulante oral inibidor direto do fator Xa. Os dados compilados para este relatório não trazem a indicação original registrada na ANVISA.
+O modelo TxGNN prevê que pode ser eficaz para **Transtorno de Enxaqueca (Migraine Disorder)**, mas hoje há apenas **1 ensaio clínico** (sem relação direta com enxaqueca) e **3 publicações** (dois relatos de caso com direções opostas e um estudo retrospectivo em população restrita) associados a essa previsão.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Prevenção de AVC e embolismo sistêmico (fibrilação atrial não valvar); tratamento e prevenção do TEV |
+| Indicação Original | Não disponível nos dados compilados (sem registro na ANVISA) |
 | Nova Indicação Prevista | Transtorno de Enxaqueca (Migraine Disorder) |
 | Pontuação de Previsão TxGNN | 99,02% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-A hipótese mecanística parte da relação entre a inibição do FXa e a via trigeminal-vascular da enxaqueca. Ao bloquear o FXa, o apixaban reduz a geração de trombina; esta, por sua vez, é capaz de ativar o receptor PAR-1 em neurônios trigeminais e células endoteliais cerebrais, uma via diretamente implicada no processo neuroinflamatório que precede a crise de enxaqueca. Trata-se de uma hipótese biologicamente plausível, mas ainda sem confirmação experimental direta.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a apixabana é um inibidor seletivo do fator Xa da coagulação, usado para prevenir e tratar eventos tromboembólicos.
 
-Existe ainda uma conexão epidemiológica de interesse: pacientes com forame oval patente (FOP) apresentam prevalência significativamente maior de enxaqueca com aura, possivelmente mediada por microembolias paradoxais que ativam a cascata trigeminal. Nesse contexto específico, a anticoagulação poderia teoricamente reduzir o gatilho tromboembólico das crises em portadores de FOP — e é exatamente esse o cenário do único ensaio clínico identificado nesta busca.
+A ligação com a enxaqueca é especulativa. Hipóteses incluem microtrombos ou embolia paradoxal por forame oval patente (FOP), e um estado pró-trombótico em pacientes com anticorpos antifosfolípides. Um relato de caso descreve remissão da enxaqueca com aura sob varfarina, com retorno dos sintomas ao trocar para apixabana. Outro relato descreve piora da enxaqueca com aura após iniciar apixabana. Ou seja, não há sinal consistente de benefício da inibição do fator Xa.
 
-No entanto, o apixaban não possui mecanismo de ação estabelecido sobre o transtorno de enxaqueca enquanto doença primária. A previsão elevada do TxGNN (99,02%) reflete associações estruturais no grafo de conhecimento médico — não equivale a evidência clínica de eficácia. A ausência de literatura direta e a classificação L4 indicam que esta hipótese permanece no estágio pré-clínico/mecanístico.
-
----
+A pontuação alta do modelo, portanto, não é sustentada por evidência clínica direta.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Phase 3 | Concluído | 664 | Ensaio randomizado comparando fechamento percutâneo de FOP, anticoagulantes orais e antiplaquetários para prevenção de AVC recorrente em pacientes com FOP. A enxaqueca não é desfecho primário nem secundário pré-especificado; qualquer dado sobre enxaqueca seria observação incidental da comparação entre estratégias anticoagulantes vs. antiplaquetárias. |
+| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Phase 3 | Concluído | 664 | Fechamento de FOP ou anticoagulantes versus antiplaquetários para prevenir recorrência de AVC. Enxaqueca não é desfecho principal e a apixabana não é nomeada; não constitui evidência direta. |
 
-> **Nota de relevância**: Este ensaio tem relevância indireta para a hipótese de enxaqueca (Grau C). Seu desenho e desfechos primários são focados em prevenção de AVC, não em tratamento da enxaqueca.
+## Evidências da Literatura
 
----
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [28960288](https://pubmed.ncbi.nlm.nih.gov/28960288/) | 2017 | Relato de caso | Headache | Mulher de 55 anos com enxaqueca com aura em remissão por 12 anos sob varfarina; sintomas voltaram em 3 semanas com apixabana e cederam novamente ao retomar a varfarina. |
+| [37582651](https://pubmed.ncbi.nlm.nih.gov/37582651/) | 2023 | Relato de caso com revisão | The Neurologist | Enxaqueca com aura piorou após iniciar apixabana; a literatura sobre anticoagulantes orais diretos na enxaqueca é escassa e controversa. |
+| [33402037](https://pubmed.ncbi.nlm.nih.gov/33402037/) | 2021 | Estudo retrospectivo (75 pacientes) | Lupus | Avaliou resposta a terapia antitrombótica em enxaqueca refratária com anticorpos antifosfolípides; população restrita e envolvimento específico da apixabana não confirmado. |
 
 ## Informações de Comercialização no Brasil
 
-O apixaban está registrado no Brasil com **20 registros ativos na ANVISA**, confirmando ampla presença no mercado nacional. Os detalhes individuais de nome comercial, forma farmacêutica e texto de indicação aprovada não foram recuperados na consulta automatizada desta versão do Evidence Pack.
-
-Para consultar os registros completos, acesse o portal oficial:
-👉 [Consultas ANVISA — Medicamentos](https://consultas.anvisa.gov.br/#/medicamentos/)
-
----
+Não há registros de apixabana na ANVISA nos dados compilados para este relatório.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total (amostra de 20 listada). Entre as de gravidade **Maior**: ácido acetilsalicílico, cobicistate, deferasirox, ibritumomabe tiuxetana, tositumomabe e tositumomabe (I-131). Entre as de gravidade **Moderada**: aprepitanto, claritromicina, clotrimazol, dexametasona, dexfenfluramina, fenfluramina, eliglustate, miconazol, rolapitanto, sibutramina, troglitazona, iodeto I-123, iodeto I-131 e sugamadex.
+- Aumento do risco de sangramento é a preocupação central com anticoagulantes, sobretudo em combinação com antiplaquetários como o ácido acetilsalicílico.
 
-> Os dados de advertências, contraindicações e interações medicamentosas não foram recuperados nesta versão do Evidence Pack (lacuna de dados identificada). Recomenda-se consultar diretamente a bula registrada na ANVISA e o banco de dados DrugBank (DB06605) antes de qualquer análise clínica.
-
----
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão do TxGNN para enxaqueca apoia-se em uma plausibilidade mecanística indireta (FXa → trombina → PAR-1 → neuroinflamação trigeminal) e no contexto epidemiológico FOP-enxaqueca, porém conta com apenas um ensaio clínico de Fase 3 tangencialmente relacionado e nenhuma publicação científica direta. O nível de evidência L4 indica que a hipótese está no início da escada de validação clínica, sendo prematuro avançar sem dados confirmatórios.
+- A previsão para enxaqueca baseia-se em relatos de caso conflitantes e um estudo retrospectivo em população restrita, sem ensaio clínico específico. O nível de evidência é L4 e o mecanismo é especulativo.
+- Dados regulatórios e de segurança da bula estão ausentes, o que impede avançar para a triagem de segurança.
 
-> **Nota estratégica**: Entre todas as previsões do TxGNN para o apixaban neste Evidence Pack, a indicação de **Hipertensão Pulmonar** (rank 8) apresenta evidências consideravelmente mais robustas (nível L3: 8 ensaios clínicos, 19 publicações, incluindo protocolo de RCT piloto específico — PMID [27932335](https://pubmed.ncbi.nlm.nih.gov/27932335/) — e estudos observacionais em CTEPH). Recomenda-se priorizar a geração de um relatório dedicado para essa indicação.
-
-**Para prosseguir com a hipótese de enxaqueca, é necessário:**
-- Recuperar os dados completos de MOA via DrugBank API (DB06605) para fortalecer a análise mecanística
-- Realizar busca sistemática nos dados secundários dos ensaios de fechamento de FOP (CLOSE, REDUCE, DEFENSE-PFO) para identificar desfechos incidentais de enxaqueca no braço anticoagulante
-- Conduzir revisão de literatura com estratégia expandida (termos: "anticoagulation AND migraine", "FXa inhibitor AND trigeminovascular", "FOP AND migraine AND anticoagulation")
-- Avaliar dados de biobancos ou estudos de vida real para identificar sinal epidemiológico entre uso de apixaban e frequência de enxaqueca
-- Obter detalhes das 20 indicações aprovadas nos registros ANVISA para completar o perfil regulatório brasileiro
-
----
-
-*Este relatório é gerado automaticamente com base em dados do Evidence Pack (v4, corte: 2026-04-04) e destina-se exclusivamente a fins de pesquisa. Os resultados do modelo TxGNN são previsões computacionais e não constituem evidência clínica estabelecida. Qualquer aplicação terapêutica requer validação clínica independente.*
+**Para prosseguir, é necessário:**
+- Obter advertências e contraindicações da bula na ANVISA e confirmar a situação de registro no Brasil
+- Obter dados do mecanismo de ação (por exemplo, via DrugBank)
+- Ensaios controlados que testem diretamente apixabana em enxaqueca, em subgrupos definidos (como FOP ou anticorpos antifosfolípides)
+- Esclarecer a direção do efeito, dado que os relatos de caso apontam para possível piora
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -2,7 +2,7 @@
 layout: default
 title: Aflibercepte
 parent: Apenas Predição do Modelo (L5)
-nav_order: 28
+nav_order: 31
 evidence_level: L5
 indication_count: 0
 ---

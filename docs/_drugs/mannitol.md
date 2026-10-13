@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Mannitol
-parent: Evidência Moderada (L3-L4)
-nav_order: 337
-evidence_level: L4
+parent: Apenas Predição do Modelo (L5)
+nav_order: 434
+evidence_level: L5
 indication_count: 10
 ---
 
 # Mannitol
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,73 +29,77 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Mannitol: De Diurético Osmótico à Síndrome Nefrogênica de Antidiurese Inapropriada
+# Manitol: Do uso como diurético osmótico à síndrome nefrogênica de antidiurese inapropriada
 
 ## Resumo em Uma Frase
 
-Mannitol é um álcool de açúcar hexahídrico com uso clínico estabelecido como diurético osmótico — principalmente para redução da pressão intracraniana, edema cerebral agudo e promoção de diurese forçada em situações críticas.
-O modelo TxGNN prevê que pode ser eficaz para a **Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis — NSIAD)**, atualmente com **0 ensaios clínicos** e **1 publicação** apoiando esta direção.
-A força das evidências é limitada e a previsão apresenta preocupações mecanísticas relevantes que exigem cautela antes de qualquer avanço clínico.
-
----
+Manitol é um diurético osmótico, registrado no Brasil principalmente como diurético e para reposição hidroeletrolítica e alimentação parenteral.
+O modelo TxGNN prevê que ele possa ser eficaz para a **síndrome nefrogênica de antidiurese inapropriada (nephrogenic syndrome of inappropriate antidiuresis, NSIAD)**,
+mas hoje há **0 ensaios clínicos** e apenas **1 publicação** (uma revisão geral sobre hiponatremia, sem evidência específica do fármaco) ligada a esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não registrado na ANVISA — uso clínico estabelecido como diurético osmótico (hipertensão intracraniana, edema cerebral) |
-| Nova Indicação Prevista | Síndrome Nefrogênica de Antidiurese Inapropriada (NSIAD) |
+| Indicação Original | Reposição hidroeletrolítica e alimentação parenteral |
+| Nova Indicação Prevista | Síndrome nefrogênica de antidiurese inapropriada (nephrogenic syndrome of inappropriate antidiuresis) |
 | Pontuação de Previsão TxGNN | 99,97% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (base ANVISA) |
-| Número de Registros | 0 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente não há dados detalhados sobre o mecanismo de ação disponíveis na base de dados. Segundo informações conhecidas, Mannitol é um açúcar osmoticamente ativo que, ao elevar a osmolaridade do plasma, promove o deslocamento de água livre dos compartimentos intracelular e intersticial para o intravascular, seguido de excreção renal aumentada. Esse mecanismo é a base do seu uso consolidado em condições de sobrecarga hídrica e elevação da pressão intracraniana — sem que haja reabsorção tubular significativa do próprio Mannitol.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o manitol é um diurético osmótico: ele é filtrado pelos rins e não é reabsorvido, arrastando água para a urina. Por isso, existe um vínculo teórico com a excreção de água.
 
-A NSIAD é causada por mutações com ganho de função no receptor AVPR2 (receptor V2 da vasopressina), levando à ativação constitutiva independente de arginina-vasopressina. O resultado é retenção persistente de água livre e hiponatremia dilucional grave. Em tese, um agente osmótico como o Mannitol poderia promover a excreção de água livre e aliviar a hiponatremia, criando uma plausibilidade mecanística superficial que justifica o alto escore do TxGNN.
+A NSIAD, porém, é causada por mutação de ganho de função no receptor V2 da vasopressina (AVPR2), que mantém os rins retendo água de forma inadequada, com hiponatremia. A diurese osmótica não é um tratamento estabelecido para essa causa. Além disso, o manitol pode piorar a hiponatremia por deslocamentos osmóticos de água.
 
-No entanto, a aplicação clínica de Mannitol em hiponatremia é um procedimento de alto risco fora de indicação aprovada. A expansão volêmica aguda provocada pelo Mannitol pode precipitar edema pulmonar em pacientes já com hiponatremia grave — risco documentado na literatura (PMID 981097). O único estudo identificado para esta indicação (PMID 26706473) é uma revisão educacional sobre armadilhas diagnósticas na avaliação de hiponatremia, citando o Mannitol apenas no contexto do **gap osmolar** como causa de interferência diagnóstica, e **não** como agente terapêutico para NSIAD. O tratamento padrão para NSIAD é a restrição hídrica e antagonistas do receptor V2 (vaptans). A previsão do TxGNN deve ser interpretada com cautela diante dessas contradições mecanísticas.
-
----
+A pontuação alta do modelo, portanto, não é sustentada por plausibilidade mecanística clara. A única publicação encontrada é uma revisão geral sobre armadilhas na avaliação da hiponatremia, que não traz evidência específica sobre o manitol.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Educational Review / Expert Opinion | European Journal of Internal Medicine | Descreve as 10 principais armadilhas na avaliação de pacientes com hiponatremia; Mannitol é mencionado no contexto do gap osmolar como causa de confusão diagnóstica — **não** como tratamento para NSIAD |
+|------|-----|------|------|---------|
+| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Revisão | European Journal of Internal Medicine | Descreve as dez armadilhas mais comuns na avaliação de pacientes com hiponatremia e os riscos de tratamento inadequado (sub ou, sobretudo, supertratamento). Não é evidência específica do manitol. |
 
----
+## Informações de Comercialização no Brasil
+
+Todos os 20 registros estão cancelados. Principais registros (máximo de 5):
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 117720008 | Solução de Manitol Equiplex | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
+| Registro 111200002 | Manitol a 20% Basa | Não informada | Diuréticos |
+| Registro 106830090 | Manitol Baxter | Não informada | Diuréticos osmóticos |
+| Registro 126800003 | Manitol 20% | Não informada | Diuréticos simples |
+| Registro 104910067 | Manitol 3% | Não informada | Produtos para vias urinárias |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações (previstas pelo grafo de conhecimento do TxGNN, não extraídas de bula):** insuficiência hepática, doença hepática, encefalopatia/coma hepático, anúria, função renal prejudicada, edema pulmonar, hemorragia intracraniana, trombocitopenia, neutropenia, agranulocitose, anemias, porfirias, doenças da vesícula biliar, apneia do sono e transtornos relacionados ao uso de substâncias, entre outras.
+- **Interações medicamentosas:** foram identificadas 100 interações no total. Entre as exibidas, a de nível **grave (Major)** é com **amicacina**. Interações de nível moderado incluem lamivudina, formoterol, salbutamol, amifostina, benazepril, captopril, carbamazepina, cisatracúrio, citalopram, canagliflozina, dapagliflozina, desvenlafaxina, bisacodil, ácido picossulfúrico, polietilenoglicol com eletrólitos, ácido iotalâmico e diatrizoato. A interação com doxiciclina é de nível leve.
+- **Considerações específicas da indicação prevista:** a literatura aponta risco de sobrecarga de volume e edema pulmonar com manitol, e o fármaco poderia piorar a hiponatremia por deslocamento osmótico de água.
 
----
+Consulte a bula para as advertências e contraindicações oficiais, pois não estão disponíveis nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-As evidências disponíveis são insuficientes para apoiar o reposicionamento de Mannitol para NSIAD: há zero ensaios clínicos, apenas uma publicação de revisão educacional sem caráter terapêutico direto, e preocupações mecanísticas concretas — o uso de diurético osmótico em pacientes com hiponatremia grave pode ser contraproducente e clinicamente perigoso (risco de edema pulmonar por expansão volêmica). A previsão do TxGNN provavelmente reflete uma proximidade de grafo entre "diuréticos" e "distúrbios de sódio", sem respaldo clínico real.
+A previsão se baseia apenas na pontuação do modelo (nível L5): não há ensaios clínicos, a única publicação não é específica do manitol, e o mecanismo da doença (ganho de função do AVPR2) não é plausivelmente tratável por diurese osmótica, com risco de piora da hiponatremia. Além disso, todos os registros brasileiros estão cancelados.
 
-**Para prosseguir, seria necessário:**
-- Obter dados de mecanismo de ação (MOA) do Mannitol via DrugBank API para análise de relevância mecanística completa
-- Revisão sistemática de casos clínicos onde Mannitol foi utilizado em contexto de hiponatremia grave, com avaliação de desfechos
-- Avaliação de segurança específica para uso em NSIAD, incluindo risco de edema pulmonar, expansão volêmica e sobrecarga cardíaca
-- Consulta a especialistas em nefrologia e endocrinologia para avaliação de viabilidade clínica
-- Verificar e atualizar o status regulatório do Mannitol junto à ANVISA, pois a ausência de registros na base de dados pode refletir lacuna de dados e não ausência real de comercialização no Brasil
+**Para prosseguir, é necessário:**
+- Obter e analisar as bulas na ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
+- Obter dados do mecanismo de ação do manitol (por exemplo, via DrugBank).
+- Realizar revisão mecanística e pré-clínica que justifique um papel do manitol na NSIAD, considerando o risco de agravar a hiponatremia.
+- Confirmar a situação regulatória (registros cancelados) e a disponibilidade de formas farmacêuticas e vias de administração compatíveis.
+- Considerar priorizar outras previsões com evidência indireta mais plausível, como a doença cardíaca pulmonar aguda (nível L4), embora também careça de ensaios diretos.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

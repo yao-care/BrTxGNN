@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Acyclovir
-parent: Evidência Moderada (L3-L4)
-nav_order: 23
-evidence_level: L4
+parent: Evidência Alta (L1-L2)
+nav_order: 26
+evidence_level: L2
 indication_count: 10
 ---
 
 # Acyclovir
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,93 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Acyclovir: Das Infecções Herpéticas à Ceratoconjuntivite Epitelial Punctata
+# Aciclovir: De antiviral a verrugas comuns
 
 ## Resumo em Uma Frase
 
-Acyclovir é um antiviral nucleosídeo amplamente utilizado no tratamento de infecções por herpes simplex (HSV-1 e HSV-2) e varicella-zoster (VZV), incluindo ceratite herpética, herpes genital e herpes-zóster.
-O modelo TxGNN prevê que pode ser eficaz para **Ceratoconjuntivite Epitelial Punctata (Punctate Epithelial Keratoconjunctivitis)**,
-atualmente com **0 ensaios clínicos** e **2 publicações** apoiando esta direção.
+Aciclovir é um antiviral análogo de nucleosídeo, registrado na ANVISA na categoria de antivirais (inibe a replicação viral).
+O modelo TxGNN prevê que pode ser eficaz para **verrugas comuns (Common Wart)**, atualmente com **4 ensaios clínicos** e **20 publicações** apoiando esta direção.
 
----
+*Observação: o modelo TxGNN gerou 10 indicações previstas. Este relatório se concentra nas indicações com maior apoio de evidências. A primeira da lista (ceratoconjuntivite epitelial punctata, pontuação de 99,67%) tem apenas evidência de nível L5 e literatura sem relação com resposta ao aciclovir; por isso, a segunda indicação, verrugas comuns, é a mais bem sustentada e é a analisada em detalhe.*
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções por HSV e VZV (herpes labial, herpes genital, herpes-zóster, ceratite herpética) |
-| Nova Indicação Prevista | Ceratoconjuntivite Epitelial Punctata (Punctate Epithelial Keratoconjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,67% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Não registrado (dados regulatórios não disponíveis) |
-| Número de Registros | 0 |
-| Decisão Recomendada | Hold |
-
----
+| Indicação Original | Antivirais (inibe a replicação viral) |
+| Nova Indicação Prevista | Verrugas comuns (Common Wart) |
+| Pontuação de Previsão TxGNN | 99,46% |
+| Nível de Evidência | L2 |
+| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
+| Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
 
-Acyclovir é um análogo nucleosídeo acíclico da guanosina com atividade antiviral seletiva contra membros da família Herpesviridae. Após fosforilação inicial pela timidina quinase (TK) codificada pelo vírus — enzima presente em HSV e VZV, mas ausente em adenovírus, HPV e outros vírus — o fármaco inibe competitivamente a DNA polimerase viral, bloqueando a replicação do DNA. Este mecanismo de ativação TK-dependente confere alta especificidade ao fármaco.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Pelo conhecimento geral, o aciclovir é ativado pela timidina quinase viral dos herpesvírus e, então, inibe a DNA polimerase viral, interrompendo a replicação do vírus.
 
-A ceratoconjuntivite epitelial punctata (PEK, punctate epithelial keratitis) é uma alteração inespecífica da superfície corneana caracterizada por múltiplos focos de erosão epitelial. No contexto de infecção por HSV, a PEK surge frequentemente como manifestação precoce ou sinal de progressão da ceratite herpética — indicação na qual o Acyclovir possui eficácia globalmente reconhecida. Esta sobreposição clínica e fisiopatológica entre infecção herpética e PEK fornece a base mecanística indireta para a previsão do TxGNN.
+Verrugas são causadas pelo HPV, um vírus de DNA que não possui timidina quinase própria. Assim, o mecanismo clássico do aciclovir não se aplica diretamente. As explicações propostas incluem um efeito antiviral inespecífico sobre a replicação do DNA do HPV, inibição da síntese de DNA celular e modulação imunológica provocada pela injeção intralesional. O mecanismo permanece incerto.
 
-É fundamental, contudo, considerar que PEK não é patognomônica de infecção por HSV: pode ser causada por adenovírus (sem atividade do Acyclovir), microsporidia (parasita intracelular, para o qual o Acyclovir é ineficaz), toxicidade medicamentosa ou síndrome do olho seco. Nenhum dos 2 artigos identificados testa o Acyclovir diretamente para PEK como entidade nosológica primária, e a previsão do modelo pode refletir co-ocorrência epidemiológica no grafo de conhecimento, e não uma relação terapêutica causal estabelecida.
-
----
+A relação com a indicação original é, portanto, de classe terapêutica (antiviral em infecção por vírus de DNA), e não de alvo molecular comprovado. Ainda assim, vários ensaios pequenos mostram atividade clínica da via intralesional.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
+| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
+|---------|------|------|------|---------|
+| [NCT06261684](https://clinicaltrials.gov/study/NCT06261684) | Phase 2/3 | Desconhecido | 92 | Aciclovir intralesional vs. crioterapia em verrugas plantares; avalia segurança e eficácia (ensaio randomizado, com publicação associada) |
+| [NCT05429151](https://clinicaltrials.gov/study/NCT05429151) | Phase 4 | Desconhecido | 40 | Aciclovir intralesional (70 mg/mL) vs. antígeno de Candida em verrugas plantares, com avaliação dermatoscópica |
+| [NCT05324904](https://clinicaltrials.gov/study/NCT05324904) | Não especificada | Desconhecido | 44 | Aciclovir vs. vitamina D3 intralesionais em verrugas plantares |
+| [NCT07448844](https://clinicaltrials.gov/study/NCT07448844) | Phase 4 | Recrutando | 40 | Vitamina D3 vs. aciclovir intralesionais em verrugas cutâneas virais; desfecho principal: remoção completa na semana 8 (sem resultados ainda) |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [7825685](https://pubmed.ncbi.nlm.nih.gov/7825685/) | 1995 | Retrospective Case Series | American Journal of Ophthalmology | Dois pacientes com AIDS desenvolveram lipidose corneana com alterações de superfície ocular sugestivas de toxicidade por fármacos utilizados em infecções oportunistas; o Acyclovir não foi testado diretamente para PEK |
-| [21934222](https://pubmed.ncbi.nlm.nih.gov/21934222/) | 2011 | Case Series | Indian Journal of Pathology & Microbiology | Série de casos de ceratoconjuntivite por microsporidia em coorte do leste indiano; etiologia parasitária sem relação com terapia antiviral nucleosídea |
-
----
+| [40889709](https://pubmed.ncbi.nlm.nih.gov/40889709/) | 2026 | RCT | J Am Acad Dermatol | Aciclovir intralesional vs. crioterapia em verrugas plantares, condição de natureza recalcitrante |
+| [38822848](https://pubmed.ncbi.nlm.nih.gov/38822848/) | 2024 | RCT | Arch Dermatol Res | Aciclovir intralesional vs. vacina da hepatite B em verrugas plantares resistentes (48 pacientes) |
+| [40488756](https://pubmed.ncbi.nlm.nih.gov/40488756/) | 2025 | Estudo comparativo | Arch Dermatol Res | Aciclovir vs. 5-fluorouracila intralesionais em verrugas recalcitrantes |
+| [40056255](https://pubmed.ncbi.nlm.nih.gov/40056255/) | 2025 | Estudo clínico comparativo | Arch Dermatol Res | Aciclovir intralesional vs. vacina quadrivalente contra HPV em verrugas recalcitrantes (60 pacientes) |
+| [41686619](https://pubmed.ncbi.nlm.nih.gov/41686619/) | 2026 | Revisão sistemática e meta-análise em rede | Medicine | Compara modalidades de tratamento de verrugas cutâneas; aciclovir intralesional é considerado terapia nova |
+| [37303436](https://pubmed.ncbi.nlm.nih.gov/37303436/) | 2023 | Estudo comparativo | Cureus | Aciclovir intralesional vs. imunoterapia com PPD em verrugas virais |
+| [34412535](https://pubmed.ncbi.nlm.nih.gov/34412535/) | 2022 | Estudo clínico | J Cutan Med Surg | Aciclovir intralesional como opção terapêutica potencial em verrugas cutâneas |
+| [38793636](https://pubmed.ncbi.nlm.nih.gov/38793636/) | 2024 | Série de casos e revisão | Viruses | Remissão de doenças relacionadas ao HPV (condilomas) com aciclovir ou valaciclovir |
+| [26885794](https://pubmed.ncbi.nlm.nih.gov/26885794/) | 2016 | Relato de caso | J Drugs Dermatol | Verrugas plantares persistentes resolvidas após 10 dias de aciclovir oral prescrito para herpes-zóster |
+| [6467981](https://pubmed.ncbi.nlm.nih.gov/6467981/) | 1984 | Relato | Cutis | Uso de pomada de aciclovir em verrugas vulgares |
 
 ## Informações de Comercialização no Brasil
 
-Nenhum registro ativo foi identificado na base de dados regulatória brasileira até a data de corte deste relatório (04/04/2026). Recomenda-se consulta direta à ANVISA para confirmação, pois a ausência de registros pode refletir uma limitação na coleta de dados deste Evidence Pack.
+Todos os 20 registros localizados estão **cancelados**; não há registro válido atualmente. Principais registros:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 105730556 | Aciclovir | Não informada | Antivirais (inibe replicação viral) |
+| Registro nº 115600082 | Acivirax | Não informada | Antivirais |
+| Registro nº 100470317 | Herpesil | Não informada | Antivirais |
+| Registro nº 116370214 | Zorvy | Não informada | Antivirais |
+| Registro nº 100410192 | Zynvir | Não informada | Antivirais (inibe replicação viral) |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações descritas no grafo de conhecimento do TxGNN** (não provêm da bula): hipertensão, doença renal, função renal comprometida, hiperglicemia, diabetes mellitus, cetoacidose diabética, insuficiência adrenocortical/doença de Addison, obesidade, acidente vascular cerebral e doenças cerebrovasculares, infarto do miocárdio, síndrome hemolítico-urêmica, púrpura trombocitopênica, doença vascular periférica, telangiectasia hemorrágica hereditária e atrofia cutânea. Esses itens devem ser confirmados na bula, pois o perfil sugere possível mistura com outras classes de fármacos.
+- **Interações medicamentosas**: foram identificadas 100 interações. Entre as de nível moderado estão balsalazida, mesalazina, olsalazina, sulfassalazina e tróspio. Há ainda interações de nível desconhecido com anfotericina B, metformina, morfina, omeprazol, pantoprazol e outros.
 
----
+Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-A pontuação TxGNN de 99,67% provavelmente reflete co-ocorrência epidemiológica entre infecções herpéticas e PEK no grafo de conhecimento, e não evidência clínica direta de eficácia do Acyclovir nesta indicação específica. Não há ensaios clínicos registrados, e os 2 artigos identificados não testam diretamente o fármaco para ceratoconjuntivite epitelial punctata como entidade diagnóstica independente — um dos artigos descreve uma etiologia (microsporidia) para a qual o Acyclovir é farmacologicamente ineficaz.
+Há um ensaio de Phase 2/3 randomizado com publicação em RCT (nível L2) e vários estudos pequenos comparativos que sustentam atividade clínica do aciclovir intralesional em verrugas, sobretudo plantares. Contudo, as amostras são pequenas, vários ensaios têm status desconhecido, o mecanismo é incerto e o Brasil não tem registro válido do medicamento.
 
 **Para prosseguir, é necessário:**
-- Confirmar registros do Acyclovir na ANVISA via consulta direta ao portal regulatório brasileiro
-- Obter dados formais do mecanismo de ação (MOA) via DrugBank para análise de compatibilidade mecanística
-- Delimitar a subpopulação elegível: PEK de etiologia herpética confirmada (HSV/VZV) representa uma extensão de indicação já estabelecida, não um reposicionamento genuíno
-- Conduzir revisão bibliográfica aprofundada sobre Acyclovir em uveíte viral e ceratite herpética com componente epitelial punctata
-- Priorizar avaliação das indicações deste mesmo Evidence Pack com melhor suporte clínico disponível:
-  - **Verruga Comum (Common Wart)** — Rank 2, Nível L2, 6 ensaios clínicos incluindo Phase 2/3 RCT (NCT06261684, 92 pacientes) e múltiplos RCTs de 2025, recomendação **Proceed with Guardrails**
-  - **Doença da Região Orbital (Disease of Orbital Region)** — Rank 9, Nível L3, com ensaio direto de Acyclovir oral em uveíte viral (NCT03389191) e histórico clínico em ceratite herpética, recomendação **Proceed with Guardrails**
+- Confirmar a bula e as informações de segurança (advertências e contraindicações oficiais ainda não disponíveis), pois a triagem de segurança não pode avançar sem elas
+- Obter dados do mecanismo de ação
+- Realizar ensaios maiores e de melhor qualidade, com comparadores padrão e seguimento de recidiva
+- Avaliar a via de administração e a formulação (uso intralesional não corresponde à apresentação de registro anterior) e a situação regulatória, já que todos os registros estão cancelados
+- Reavaliar, em separado, as indicações oculares herpéticas (doença da região orbital, L3), que têm plausibilidade mecanística maior, mas evidência indireta
+
+**Demais indicações previstas:** ceratoconjuntivite epitelial punctata, neuralgia pós-infecciosa, cirrose induzida por hepatite C, foliculite pustulosa eosinofílica, sequelas da COVID-19, candidíase vulvovaginal, urticária papular e ceratoconjuntivite epidêmica têm evidência L4–L5 e recomendação **Hold**, sem plausibilidade mecanística ou sem estudos que sustentem o uso do aciclovir.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

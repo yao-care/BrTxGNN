@@ -2,7 +2,7 @@
 layout: default
 title: Albendazole
 parent: Evidência Alta (L1-L2)
-nav_order: 31
+nav_order: 34
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,93 +29,93 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Albendazole: Da Helmintíase Intestinal à Equinococose Alveolar
+# Albendazol: Do tratamento de helmintos intestinais à equinococose alveolar
 
 ## Resumo em Uma Frase
 
-Albendazole é um antiparasitário de amplo espectro da classe benzimidazol, reconhecido globalmente como tratamento de primeira linha para helmintíases intestinais e integrante da lista de medicamentos essenciais da OMS — porém sem registro comercial no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Equinococose Alveolar (Alveolar Echinococcosis)**, atualmente com **5 ensaios clínicos** e **20 publicações** apoiando esta direção.
-As evidências disponíveis indicam que albendazole já é reconhecido pelas diretrizes internacionais (WHO/ECTM) como principal opção farmacológica para essa condição parasitária grave, conferindo alta plausibilidade clínica à previsão do modelo.
-
----
+Albendazol é um anti-helmíntico benzimidazólico, registrado no Brasil como antiparasitário do trato gastrointestinal.
+O modelo TxGNN prevê que pode ser eficaz para **equinococose alveolar (Alveolar Echinococcosis)**,
+atualmente com **3 ensaios clínicos** e **20 publicações** apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
-|------|----------|
-| Indicação Original | Helmintíase intestinal (uso global reconhecido; sem registro no Brasil) |
-| Nova Indicação Prevista | Equinococose Alveolar (Alveolar Echinococcosis) |
+|------|------|
+| Indicação Original | Anti-helmínticos do trato gastrointestinal |
+| Nova Indicação Prevista | Equinococose alveolar (Alveolar Echinococcosis) |
 | Pontuação de Previsão TxGNN | 99,97% |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Albendazole é um benzimidazol que, após absorção oral, é convertido em seu metabólito ativo — o **Albendazole Sulfóxido (ABZSO)**. Este metabólito inibe seletivamente a polimerização da β-tubulina nos parasitas, comprometendo a integridade do citoesqueleto, bloqueando a captação de glicose e levando à falência metabólica e paralisia dos vermes. Esse mecanismo é eficaz tanto contra nematoides intestinais quanto contra cestoides do gênero *Echinococcus* e *Taenia*.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o albendazol é um benzimidazólico que se liga à beta-tubulina do parasita, inibindo a polimerização dos microtúbulos e a captação de glicose, o que leva à depleção de energia e à morte do helminto.
 
-A equinococose alveolar é causada pelo estágio metacestóide de *Echinococcus multilocularis*, que forma lesões hepáticas pseudotumorais infiltrativas com evolução potencialmente fatal (mortalidade próxima a 100% em 10–15 anos sem tratamento). O ABZSO atua inibindo a polimerização da β-tubulina dos protoescólex deste parasita, interrompendo a captação de glicose e o metabolismo lipídico da vesícula — configurando clara base mecanística para a eficácia nessa indicação, conforme documentado também em modelos animais (PMID 38501660).
+A indicação original (parasitoses intestinais) e a equinococose alveolar têm a mesma natureza: ambas são helmintíases. A equinococose alveolar é causada pela forma larval do cestódeo *Echinococcus multilocularis*, que acomete principalmente o fígado e se comporta de forma semelhante a um tumor.
 
-É importante destacar que albendazole exerce efeito **parasitostático** (retarda o crescimento, mas não elimina o parasita de forma definitiva), o que demanda tratamento contínuo e de longa duração. Quando a ressecção cirúrgica radical não é viável, albendazole é a única opção farmacológica recomendada pelas diretrizes da WHO/ECTM, respaldada por consenso internacional e um ensaio clínico de Fase 2 concluído com 194 pacientes.
-
----
+Na prática, esta previsão está mais próxima de um uso já estabelecido da classe do que de um reposicionamento genuíno: o albendazol já é o tratamento quimioterápico de referência na equinococose alveolar, conforme consensos de especialistas. Sua ação é parasitostática, não parasiticida, e por isso muitas vezes é necessário tratamento prolongado ou até vitalício após ressecção incompleta.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|------------------|------|--------|---------------|--------------------|
-| [NCT07182305](https://clinicaltrials.gov/study/NCT07182305) | Fase 2 | Concluído | 194 | Maior ensaio de intervenção direta para esta indicação: avaliação de albendazole no tratamento da equinococose alveolar em estágio inicial no Quirguistão, região com prevalência de ~6% identificada por vigilância ultrassonográfica |
-| [NCT02876146](https://clinicaltrials.gov/study/NCT02876146) | N/A | Concluído | 50 | Estudo prospectivo observacional (EchinoVISTA) para definição de marcadores de viabilidade parasitária e indicadores inovadores de acompanhamento em pacientes com equinococose hepática alveolar tratados com albendazole |
-| [NCT06483880](https://clinicaltrials.gov/study/NCT06483880) | N/A | Estado Desconhecido | 24 | ECR avaliando o papel do albendazole adjuvante após ressecção de cisto hidático pulmonar versus placebo, com seguimento de 6 meses para redução de recorrência |
-| [NCT05824442](https://clinicaltrials.gov/study/NCT05824442) | N/A | Em Recrutamento | 43 | Avaliação de nova técnica de PCR quantitativa multiplex para diagnóstico de equinococose; albendazole citado como base do tratamento farmacológico de referência no contexto do estudo |
-
----
+|---------|------|------|------|---------|
+| [NCT07182305](https://clinicaltrials.gov/study/NCT07182305) | Phase 2 | Concluído | 194 | Tratamento com albendazol em equinococose alveolar em estágio inicial, detectada por rastreamento ultrassonográfico no Quirguistão |
+| [NCT02876146](https://clinicaltrials.gov/study/NCT02876146) | NA | Concluído | 50 | Marcadores de viabilidade do parasita e de seguimento em pacientes tratados com albendazol, para decidir o momento de suspender o tratamento |
+| [NCT06483880](https://clinicaltrials.gov/study/NCT06483880) | NA | Desconhecido | 24 | Albendazol adjuvante após ressecção de cisto hidático pulmonar vs. placebo (doença cística, não alveolar; evidência indireta) |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [19931502](https://pubmed.ncbi.nlm.nih.gov/19931502/) | 2010 | Consenso de Especialistas | Acta Tropica | Diretrizes de consenso WHO-IWGE para diagnóstico, tratamento e seguimento da equinococose humana; albendazole como tratamento farmacológico de referência para a forma alveolar |
-| [40093668](https://pubmed.ncbi.nlm.nih.gov/40093668/) | 2025 | Revisão Clínica | World J Gastroenterol | Recomendações mais recentes (2025) sobre manejo da equinococose hepática; ressecção cirúrgica como pilar principal, albendazole como adjuvante essencial pré e pós-operatório |
-| [30760475](https://pubmed.ncbi.nlm.nih.gov/30760475/) | 2019 | Revisão Abrangente | Clin Microbiol Rev | Panorama dos avanços do século XXI em genética, epidemiologia molecular, ferramentas diagnósticas e tratamento da equinococose; albendazole como pilar farmacológico insubstituível |
-| [39311470](https://pubmed.ncbi.nlm.nih.gov/39311470/) | 2024 | Revisão de Quimioterapia | Parasite (Paris) | Estado atual da quimioterapia com benzimidazóis para equinococose alveolar; discussão das limitações do efeito parasitostático, toxicidade hepática e busca por novas opções terapêuticas |
-| [25526545](https://pubmed.ncbi.nlm.nih.gov/25526545/) | 2014 | Revisão Terapêutica | Parasite (Paris) | Comparação de albendazole e mebendazol no tratamento da equinococose; estratégias de triagem de novos compostos para superar as limitações dos benzimidazóis atuais |
-| [38501660](https://pubmed.ncbi.nlm.nih.gov/38501660/) | 2024 | Estudo Farmacológico | Antimicrob Agents Chemother | Mecanismo metabólico e estudo farmacológico do albendazole em modelo de equinococose alveolar hepática em ratos; formulações com biodisponibilidade aprimorada (nanocristais, dispersão cristalina, sal hidroxietilsulfonato) avaliadas |
-| [39508157](https://pubmed.ncbi.nlm.nih.gov/39508157/) | 2024 | Reposicionamento de Fármacos | Parasitology | Estratégia de drug repurposing identifica pirronaridina como candidata promissora para equinococose alveolar; albendazole destacado como único tratamento antiparasitário disponível atualmente |
-| [34808118](https://pubmed.ncbi.nlm.nih.gov/34808118/) | 2022 | Revisão | Acta Tropica | Status e perspectivas de novas opções de tratamento para equinococose cística e alveolar; albendazole e mebendazol como únicas opções não-cirúrgicas aprovadas, com necessidade urgente de alternativas |
-| [34161992](https://pubmed.ncbi.nlm.nih.gov/34161992/) | 2021 | Revisão Clínica | Semin Liver Dis | Equinococose alveolar hepática como zoonose rara e grave com ressurgência global; albendazole como tratamento vitalício de manutenção quando ressecção completa não é possível |
-| [36974024](https://pubmed.ncbi.nlm.nih.gov/36974024/) | 2022 | Revisão | Chin J Schistosomiasis Control | Progressos recentes na aplicação do albendazole para equinococose alveolar em pacientes inoperáveis; mecanismo parasitostático e avanços em novas formulações para melhorar desfechos |
-
----
+|------|-----|------|------|---------|
+| [19931502](https://pubmed.ncbi.nlm.nih.gov/19931502/) | 2010 | Revisão | Acta Tropica | Consenso de especialistas sobre diagnóstico e tratamento das equinococoses cística e alveolar |
+| [30760475](https://pubmed.ncbi.nlm.nih.gov/30760475/) | 2019 | Revisão | Clin Microbiol Rev | Avanços do século XXI em diagnóstico e tratamento da equinococose |
+| [39254012](https://pubmed.ncbi.nlm.nih.gov/39254012/) | 2024 | Revisão | Tidsskr Nor Laegeforen | Cirurgia ampla associada a uso prolongado de antiparasitário |
+| [40093668](https://pubmed.ncbi.nlm.nih.gov/40093668/) | 2025 | Revisão | World J Gastroenterol | Manejo atual da equinococose hepática; cirurgia como base do tratamento |
+| [34161992](https://pubmed.ncbi.nlm.nih.gov/34161992/) | 2021 | Revisão | Semin Liver Dis | Equinococose alveolar hepática: ressurgimento de casos e manejo |
+| [34808118](https://pubmed.ncbi.nlm.nih.gov/34808118/) | 2022 | Revisão | Acta Tropica | Albendazol e mebendazol continuam sendo os únicos fármacos licenciados; busca por alternativas |
+| [25526545](https://pubmed.ncbi.nlm.nih.gov/25526545/) | 2014 | Revisão | Parasite | Opções terapêuticas além de albendazol e mebendazol |
+| [10980173](https://pubmed.ncbi.nlm.nih.gov/10980173/) | 2000 | Estudo observacional | J Antimicrob Chemother | 35 pacientes acompanhados por cerca de 39 meses com mebendazol ou albendazol |
+| [39508157](https://pubmed.ncbi.nlm.nih.gov/39508157/) | 2024 | Reposicionamento | Parasitology | O tratamento depende exclusivamente do albendazol, que não é parasiticida e pode causar efeitos adversos graves; piridaronina como alternativa |
+| [38501660](https://pubmed.ncbi.nlm.nih.gov/38501660/) | 2024 | Pré-clínico | Antimicrob Agents Chemother | Formulações de albendazol com maior solubilidade em modelo de rato |
 
 ## Informações de Comercialização no Brasil
 
-Albendazole **não possui registros ativos na ANVISA**. O medicamento não está comercializado no Brasil conforme dados regulatórios consultados em 2026-04-04. Qualquer uso no país requereria processo formal de registro ou autorização especial junto à agência reguladora.
+Todos os 20 registros encontrados estão **cancelados**; não há registro válido atualmente. Principais exemplos:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 154230323 | ALBEL | Não informada | Anti-helmínticos do trato gastrointestinal |
+| Registro nº 105730574 | ALBENDAZOL | Não informada | Anti-helmínticos do trato gastrointestinal |
+| Registro nº 103700685 | ALBENTEL | Não informada | Anti-helmínticos do trato gastrointestinal |
+| Registro nº 125680361 | ELFI | Não informada | Anti-helmínticos do trato gastrointestinal |
+| Registro nº 167730562 | MONOZOL | Não informada | Anti-helmínticos do trato gastrointestinal |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Contraindicações descritas na base de conhecimento (não extraídas da bula)**: doença hepática, doença da vesícula biliar, neutropenia, agranulocitose, anemia (incluindo macrocítica), pancitopenia e anemia aplástica.
+- **Interações Medicamentosas**: foram identificadas 96 interações. Exemplos de gravidade moderada: aprepitanto, cobicistate, deferasirox, iodeto I-123 e I-131, fostamatinibe, alentuzumabe, amprenavir, anagrelida, apalutamida, bendamustina, bexaroteno, binimetinibe, boceprevir e bosentana. Exemplos de gravidade leve: cimetidina, dexametasona, lidocaína e armodafinila.
 
----
+As advertências e contraindicações da bula não estão disponíveis; consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Albendazole é reconhecido pelas diretrizes internacionais (WHO, ECTM) como o tratamento farmacológico de escolha para equinococose alveolar, respaldado por um ensaio clínico de Fase 2 concluído (n=194), múltiplos consensos de especialistas e extensa literatura de revisão. A ausência total de registro no Brasil e a falta de dados de segurança localmente validados (advertências, contraindicações, interações medicamentosas) exigem cautela e planejamento regulatório estruturado antes de qualquer iniciativa de introdução clínica.
+Há um ensaio de Phase 2 concluído (194 participantes) diretamente em equinococose alveolar, além de consensos de especialistas que reconhecem o albendazol como tratamento de referência. Porém, não há Phase 3 nesta indicação, a ação é apenas parasitostática e não há registro válido no Brasil.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de mecanismo de ação (MOA) e perfil de segurança via DrugBank API (prioridade alta)
-- Baixar e analisar a bula oficial (SmPC/PI) para extrair advertências, contraindicações e interações medicamentosas relevantes
-- Avaliar viabilidade de processo de registro regulatório na ANVISA, potencialmente pela via de medicamento órfão para doença negligenciada
-- Acompanhar publicação dos dados finais do ensaio NCT07182305 para consolidação das evidências de eficácia em estágio inicial da doença
-- Considerar formulações com biodisponibilidade oral aprimorada (nanocristais, dispersão cristalina), dado o impacto documentado da solubilidade limitada do albendazole nos desfechos clínicos
+- Obter a bula da ANVISA (advertências e contraindicações), pois a ausência desses dados é uma lacuna bloqueante para a triagem de segurança
+- Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank)
+- Definir o caminho regulatório, já que todos os registros brasileiros estão cancelados
+- Plano de monitoramento hematológico e hepático para uso prolongado, dado o risco de mielossupressão e hepatotoxicidade
+- Verificar interações com os medicamentos concomitantes do paciente
+
+---
+
+*Observação sobre as demais indicações previstas:* a previsão de "cestódeos" em geral e a de coenurose têm sustentação indireta (principalmente em neurocisticercose). Já as indicações oncológicas e pulmonares benignas (dermatofibrossarcoma protuberans, neoplasias pulmonares benignas, entre outras) têm apenas previsão computacional ou dados pré-clínicos indiretos, e devem permanecer em **Hold**.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

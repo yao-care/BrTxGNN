@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Clarithromycin
-parent: Evidência Alta (L1-L2)
-nav_order: 189
-evidence_level: L2
+parent: Apenas Predição do Modelo (L5)
+nav_order: 226
+evidence_level: L5
 indication_count: 10
 ---
 
 # Clarithromycin
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,93 +29,90 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-Com base no Evidence Pack fornecido, aqui está o relatório de avaliação de reposicionamento de fármacos:
-
----
-
-# Clarithromycin: De Antibiótico Macrólido à Gamopatia Monoclonal
+# Claritromicina: De macrolídeo antibacteriano a gamopatia monoclonal
 
 ## Resumo em Uma Frase
 
-Clarithromycin é um antibiótico macrolídeo de 14 membros, amplamente utilizado no tratamento de infecções bacterianas como pneumonia comunitária, erradicação de *Helicobacter pylori* e profilaxia do complexo *Mycobacterium avium* (MAC).
-O modelo TxGNN prevê que pode ser eficaz para **Gamopatia Monoclonal (Monoclonal Gammopathy)**, incluindo mieloma múltiplo, atualmente com **1 ensaio clínico concluído** e **20 publicações** apoiando esta direção — tornando-a a indicação com evidência clínica mais robusta entre as 10 candidatas previstas.
+Claritromicina é um antibiótico macrolídeo sistêmico, originalmente usado no tratamento de infecções bacterianas (incluindo esquemas associados a antiulcerosos).
+O modelo TxGNN prevê que pode ser eficaz para **Gamopatia Monoclonal (Monoclonal Gammopathy)**, a previsão com maior suporte de evidências entre as candidatas, com **1 ensaio clínico** e **20 publicações** apoiando esta direção.
+
+> Observação: a previsão de maior pontuação (99,35%) é a síndrome de hiperviscosidade policlonal, mas sem nenhuma evidência associada. Este relatório destaca a gamopatia monoclonal por ser a única indicação com ensaio clínico direto e literatura substancial.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções bacterianas (antibiótico macrólido) |
+| Indicação Original | Macrolídeos (antibiótico sistêmico) |
 | Nova Indicação Prevista | Gamopatia Monoclonal (Monoclonal Gammopathy) |
-| Pontuação de Previsão TxGNN | 98.81% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Não comercializado (conforme dados ANVISA disponíveis) |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Pontuação de Previsão TxGNN | 98,81% |
+| Nível de Evidência | L2 (1 ensaio de Fase 2 concluído, com combinação e sem resultados disponíveis) |
+| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Número de Registros | 20 (todos cancelados) |
+| Decisão Recomendada | Hold (questão de pesquisa) |
 
-> **Nota sobre seleção da indicação-alvo:** O TxGNN atribuiu escore mais alto à síndrome de hiperviscosidade policlonal (99.35%), porém esta indicação não possui qualquer evidência clínica (L5 / Hold). A gamopatia monoclonal, com escore de 98.81%, concentra toda a evidência clínica disponível e recebeu classificação L2 com recomendação "Proceed with Guardrails", sendo portanto selecionada como foco deste relatório.
-
----
+> Para a indicação de maior pontuação (síndrome de hiperviscosidade policlonal, 99,35%), o nível de evidência é L5 e a decisão é Hold.
 
 ## Por que Esta Previsão é Razoável?
 
-Embora os dados de mecanismo de ação não estejam disponíveis neste Evidence Pack, o conhecimento consolidado indica que Clarithromycin inibe a síntese proteica bacteriana ao se ligar à subunidade 50S ribossomal. Além dessa ação antimicrobiana, o fármaco exerce efeitos anti-inflamatórios sistêmicos documentados — inibição de IL-1β e TNF-α e modulação da via NF-κB — que são a base para sua atividade antitumoral.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a claritromicina é um macrolídeo de anel de 14 membros, com eficácia comprovada em infecções bacterianas, e mecanisticamente pode ser aplicável a distúrbios de células plasmáticas.
 
-A razoabilidade clínica reside nos efeitos sobre células plasmáticas neoplásicas. Propõe-se que Clarithromycin amplifique a atividade de agentes imunomoduladores (IMiDs) como lenalidomida e talidomida por meio de: (1) modulação da sinalização de IL-6, citocina central para a sobrevivência de células de mieloma; (2) regulação autofágica nas células neoplásicas; e (3) possível aumento da biodisponibilidade dos IMiDs. O esquema **BiRD** (Biaxin/Clarithromycin + Revlimid/Lenalidomida + Dexametasona) emergiu dessas hipóteses e acumula extensa documentação clínica.
+A literatura descreve atividade antimieloma da claritromicina, provavelmente por inibição da autofagia, potencialização da ação de corticoides e imunomoduladores (lenalidomida, talidomida) e modulação de citocinas como a IL-6. Os regimes BiRd e BLT-D mostraram dados clínicos favoráveis em mieloma múltiplo e macroglobulinemia de Waldenström.
 
-A conexão com gamopatia monoclonal (MGUS) é especialmente relevante: trata-se de um estado pré-maligno com risco de progressão para mieloma múltiplo. Um ensaio fase 2 randomizado concluído (NCT00006219) avaliou diretamente Clarithromycin nessa população de alto risco, consolidando a plausibilidade clínica da previsão do TxGNN.
-
----
+Ressalva importante: a maior parte dos dados é de doença maligna declarada, não da gamopatia monoclonal de significado indeterminado (MGUS), que é pré-maligna. Além disso, um ensaio randomizado de Fase 3 (PMID 34021118) não mostrou diferença significativa de sobrevida livre de progressão ao adicionar claritromicina a lenalidomida e dexametasona.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00006219](https://clinicaltrials.gov/study/NCT00006219) | Phase 2 | Concluído | N/A | Ensaio randomizado comparando DHEA (dehidroepiandrosterona) versus Clarithromycin em pacientes com MGUS de significado indeterminado ou borderline com alto risco de progressão para mieloma múltiplo; avaliou potencial de quimioprevenção, com Clarithromycin como um dos dois braços ativos |
-
----
+| [NCT00006219](https://clinicaltrials.gov/study/NCT00006219) | Phase 2 | Concluído | Não informado | Ensaio randomizado comparando desidroepiandrosterona e claritromicina (Biaxin) em pacientes com MGUS ou gamopatia limítrofe, com objetivo de prevenir mieloma múltiplo. Resultados não disponíveis. |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [36394758](https://pubmed.ncbi.nlm.nih.gov/36394758/) | 2022 | Meta-análise/Revisão sistemática | European Review for Medical and Pharmacological Sciences | Comparação sistemática de regimes triplos baseados em pomalidomida + dexametasona (incluindo ClaPd com Clarithromycin) em MM recidivante/refratário; analisa melhor opção terapêutica |
-| [34021118](https://pubmed.ncbi.nlm.nih.gov/34021118/) | 2021 | Estudo randomizado (Fase 3) | Blood Cancer Journal | 286 pacientes com MM inelegíveis para transplante; Rd com ou sem Clarithromycin não mostrou diferença significativa em sobrevida livre de progressão (SLP) — sugere que benefício é restrito a subgrupos específicos |
-| [30792190](https://pubmed.ncbi.nlm.nih.gov/30792190/) | 2019 | Fase 2 | Blood Advances | 120 pacientes com RRMM com exposição prévia a lenalidomida receberam ClaPd (Clarithromycin + pomalidomida + dexametasona); documentou resposta objetiva e perfil de segurança aceitável |
-| [24576165](https://pubmed.ncbi.nlm.nih.gov/24576165/) | 2014 | Fase 2 | Leukemia & Lymphoma | T-BiRD (talidomida + Clarithromycin + lenalidomida + dexametasona) em 26 pacientes com MM recém-diagnosticado; alta taxa de resposta global observada |
-| [17989313](https://pubmed.ncbi.nlm.nih.gov/17989313/) | 2008 | Ensaio clínico | Blood | BiRD como terapia de primeira linha em MM sintomático; definiu o esquema e demonstrou altas taxas de resposta completa e global em ciclos de 28 dias |
-| [34424561](https://pubmed.ncbi.nlm.nih.gov/34424561/) | 2021 | Fase 2 | American Journal of Hematology | Car-BiRd: indução com carfilzomib + dexametasona seguida de consolidação com lenalidomida + Clarithromycin + dexametasona; avalia se sequenciamento PI→IMiD reduz toxicidade sem comprometer eficácia |
-| [24723438](https://pubmed.ncbi.nlm.nih.gov/24723438/) | 2014 | Estudo clínico | American Journal of Hematology | Análise retrospectiva de 24 pacientes com MM em progressão sob Rd; adição de Clarithromycin reverteu resistência em proporção significativa; mediana de terapias prévias: 3 |
-| [12685831](https://pubmed.ncbi.nlm.nih.gov/12685831/) | 2002 | Fase 2 | Leukemia & Lymphoma | Estudo fundador de BLT-D (Clarithromycin + talidomida baixa dose + dexametasona) em MM não tratado e tratado previamente e em macroglobulinemia de Waldenström; primeiro a sistematizar atividade antimieloma oral não-mielossupressiva |
-| [11778973](https://pubmed.ncbi.nlm.nih.gov/11778973/) | 2001 | Fase 2 | Medical Oncology | 20 pacientes com MM (recidivante, refratário, não tratados) receberam Clarithromycin 500 mg 2x/dia + pamidronato mensal sem citotóxicos/esteroides; avaliou atividade antimieloma como agente único |
-| [33138750](https://pubmed.ncbi.nlm.nih.gov/33138750/) | 2021 | Revisão | Current Medicinal Chemistry | Revisão abrangente de reposicionamento de fármacos em doenças hematológicas; descreve vias de sinalização e mecanismos pelos quais Clarithromycin e outros agentes exercem efeitos anticancerígenos em MM |
-
----
+| [34021118](https://pubmed.ncbi.nlm.nih.gov/34021118/) | 2021 | RCT (Fase 3) | Blood Cancer J | 286 pacientes com mieloma inelegíveis a transplante; lenalidomida + dexametasona com ou sem claritromicina, sem diferença significativa de sobrevida livre de progressão |
+| [34424561](https://pubmed.ncbi.nlm.nih.gov/34424561/) | 2021 | Ensaio Fase 2 | Am J Hematol | Esquema Car-BiRd (carfilzomibe/dexametasona, depois lenalidomida, claritromicina e dexametasona) em mieloma recém-diagnosticado |
+| [30792190](https://pubmed.ncbi.nlm.nih.gov/30792190/) | 2019 | Ensaio Fase 2 | Blood Adv | Claritromicina + pomalidomida + dexametasona em 120 pacientes com mieloma recidivado/refratário |
+| [24723438](https://pubmed.ncbi.nlm.nih.gov/24723438/) | 2014 | Coorte retrospectiva | Am J Hematol | Adição de claritromicina a lenalidomida/dexametasona em 24 pacientes com progressão, superando resistência |
+| [18759764](https://pubmed.ncbi.nlm.nih.gov/18759764/) | 2008 | Ensaio Fase 2 | Br J Haematol | Claritromicina, talidomida e dexametasona em baixas doses, bem tolerada em mieloma recidivado/refratário |
+| [12720150](https://pubmed.ncbi.nlm.nih.gov/12720150/) | 2003 | Estudo clínico | Semin Oncol | Talidomida isolada ou combinada com claritromicina e dexametasona na macroglobulinemia de Waldenström |
+| [12685831](https://pubmed.ncbi.nlm.nih.gov/12685831/) | 2002 | Estudo clínico | Leuk Lymphoma | Regime BLT-D em mieloma e macroglobulinemia de Waldenström |
+| [25687081](https://pubmed.ncbi.nlm.nih.gov/25687081/) | 2015 | Revisão | Zhongguo Shi Yan Xue Ye Xue Za Zhi | Revisão do progresso da claritromicina no mieloma múltiplo, com melhora de resposta e sobrevida em combinação com quimioterapia |
+| [20811702](https://pubmed.ncbi.nlm.nih.gov/20811702/) | 2010 | Pré-clínico | Int J Oncol | Claritromicina atenua a autofagia em células de mieloma |
+| [38039297](https://pubmed.ncbi.nlm.nih.gov/38039297/) | 2023 | Pré-clínico | PLoS One | Claritromicina supera a resistência mediada por células estromais a inibidores de proteassoma via bloqueio do fluxo autofágico |
 
 ## Informações de Comercialização no Brasil
 
-Nenhum registro ativo foi encontrado para Clarithromycin junto à ANVISA conforme os dados disponíveis neste Evidence Pack (data de corte: 2026-04-25). Este resultado pode representar uma lacuna de dados, uma vez que Clarithromycin é um antibiótico de uso difundido globalmente — recomenda-se verificação direta no portal ANVISA.
+Todos os 20 registros localizados estão cancelados; não há registro válido atualmente. Principais exemplos:
 
----
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 105530200 | Klaricid | Não informada | Macrolídeos |
+| Registro nº 102351315 | Clabat | Não informada | Macrolídeos |
+| Registro nº 102351316 | Clabat | Não informada | Antibióticos sistêmicos simples |
+| Registro nº 116370192 | Clarilib | Não informada | Macrolídeos |
+| Registro nº 105730282 | Omepramix | Não informada | Antiácidos e antiulcerosos associados |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Possíveis contraindicações (grafo de conhecimento, não texto de bula)**: síndrome do QT longo, torsades de pointes, taquicardia ventricular, insuficiência e doença hepática, colestase, porfiria, doença renal, miastenia gravis, colite por *Clostridium difficile*, osteoporose e fratura óssea, doença da vesícula biliar, mononucleose infecciosa.
+- **Interações Medicamentosas**: foram identificadas 100 interações; entre as listadas, destacam-se as de nível **grave** com abemaciclibe, fentanil e acalabrutinibe. Entre as de nível moderado estão paclitaxel, tramadol, nifedipino, afatinibe, etinilestradiol, hidrocortisona, adenosina e formoterol. Há ainda interações leves (dolutegravir, zidovudina, loratadina). Para uso em esquemas de mieloma, é essencial revisar as interações com os demais fármacos antineoplásicos.
 
----
+Para advertências e contraindicações oficiais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Múltiplos ensaios clínicos Fase 2 documentam o uso de Clarithromycin como adjuvante em mieloma múltiplo e gamopatia monoclonal, e um ensaio Fase 2 específico para MGUS foi concluído. Contudo, o único ensaio Fase 3 disponível (PMID 34021118) não confirmou benefício em SLP na população geral de MM — indicando que o benefício pode ser subgrupo-dependente — o que exige critérios de seleção rigorosos antes de qualquer avanço clínico.
+- A evidência para gamopatia monoclonal é a mais consistente entre as candidatas, mas vem sobretudo de mieloma múltiplo (doença maligna) e de esquemas combinados. O único ensaio em MGUS não tem resultados disponíveis e não isola o efeito da claritromicina, e o ensaio de Fase 3 não confirmou benefício adicional. As demais previsões (inclusive a de maior pontuação) são apenas previsões do modelo ou têm evidência indireta. Além disso, não há registro válido no Brasil.
 
 **Para prosseguir, é necessário:**
-- Verificar o status atual de registro ANVISA para Clarithromycin no Brasil (possível lacuna de dados)
-- Obter dados completos de mecanismo de ação (MOA), advertências e contraindicações da bula
-- Mapear perfil de interações medicamentosas, especialmente com IMiDs (lenalidomida, pomalidomida) e inibidores de proteassoma (bortezomibe, carfilzomibe)
-- Identificar e definir subpopulações com maior probabilidade de benefício (ex.: MM refratário a lenalidomida, MGUS de alto risco, amiloidose AL)
-- Avaliar viabilidade de ensaio clínico local ou acesso via uso compassivo/protocolo de uso expandido no contexto regulatório brasileiro
+- Obter os resultados do ensaio NCT00006219 (MGUS) e o número de participantes
+- Dados detalhados do mecanismo de ação (MOA)
+- Bula oficial da ANVISA, com advertências e contraindicações
+- Avaliação do perfil de segurança cardíaca (QT) e das interações em pacientes com distúrbios de células plasmáticas
+- Verificar a viabilidade regulatória, dado que todos os registros brasileiros estão cancelados
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

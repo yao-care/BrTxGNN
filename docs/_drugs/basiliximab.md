@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Basiliximab
-parent: Evidência Moderada (L3-L4)
-nav_order: 96
-evidence_level: L3
+parent: Apenas Predição do Modelo (L5)
+nav_order: 107
+evidence_level: L5
 indication_count: 10
 ---
 
 # Basiliximab
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,12 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Basiliximab: Da prevenção de rejeição em transplante ao mieloma de plasmócitos
+# Basiliximabe: Da imunossupressão em transplantes ao mieloma múltiplo (plasmocitoma)
 
 ## Resumo em Uma Frase
 
-Basiliximab é um anticorpo monoclonal quimérico antagonista do receptor de interleucina-2 (IL-2Rα/CD25), originalmente utilizado para a prevenção de rejeição aguda em transplante renal.
-O modelo TxGNN prevê que pode ser eficaz para **Mieloma de Plasmócitos (Plasma Cell Myeloma)**,
-atualmente com **3 ensaios clínicos** e **3 publicações** apoiando esta direção.
+O basiliximabe é um anticorpo monoclonal que bloqueia o receptor de interleucina-2 (anti-CD25). Segundo os dados compilados, não há indicação original registrada no Brasil, mas o fármaco é conhecido pelo uso em imunossupressão de transplantes.
+O modelo TxGNN prevê que pode ser útil para **Mieloma de Plasmócitos (Plasma Cell Myeloma)**, atualmente com **3 ensaios clínicos** e **4 publicações** relacionados. O benefício observado é de apoio (prevenção da doença do enxerto contra o hospedeiro, DECH), e não de ação antimieloma direta.
 
 ---
 
@@ -43,23 +42,25 @@ atualmente com **3 ensaios clínicos** e **3 publicações** apoiando esta dire�
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Prevenção de rejeição aguda em transplante renal |
+| Indicação Original | Não disponível nos registros da ANVISA compilados |
 | Nova Indicação Prevista | Mieloma de Plasmócitos (Plasma Cell Myeloma) |
 | Pontuação de Previsão TxGNN | 95,61% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 2 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Nível de Evidência | L2 (segundo a classificação dos dados compilados; ver ressalva abaixo) |
+| Situação no Mercado Brasileiro | Não comercializado |
+| Número de Registros | 0 |
+| Decisão Recomendada | Hold |
+
+*Ressalva sobre o nível de evidência:* o único estudo de Fase 2 é pequeno (17 participantes) e sem desenho comparativo confirmado. Pelas regras estritas (1 RCT de Fase 2/3 concluído), a evidência seria mais próxima de L3–L4. Por isso, a decisão é conservadora.
 
 ---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis na base consultada. Segundo informações amplamente estabelecidas na literatura científica, Basiliximab é um anticorpo monoclonal quimérico (IgG1κ) que bloqueia especificamente o receptor de IL-2 (CD25/IL-2Rα) na superfície de linfócitos T ativados, inibindo a proliferação celular mediada por IL-2. Originalmente aprovado como imunossupressor para prevenir rejeição aguda no transplante renal, seu mecanismo central atua na supressão da resposta imune adaptativa contra o enxerto.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros compilados. Segundo informações conhecidas, o basiliximabe é um anticorpo monoclonal quimérico anti-CD25 (cadeia alfa do receptor de IL-2). Ele bloqueia a ativação e a proliferação de linfócitos T ativados e atua sobre células T reguladoras (Tregs).
 
-A conexão com o mieloma de plasmócitos emerge de um raciocínio imunológico: o CD25 é altamente expresso nas células T regulatórias (Tregs). No contexto do transplante autólogo de células-tronco (ASCT) para mieloma múltiplo, as Tregs se reconstituem rapidamente após o procedimento e suprimem respostas imunes antitumorais, favorecendo a progressão da doença. Ao deplecionar Tregs via bloqueio de CD25, o Basiliximab pode potencializar o efeito enxerto-versus-mieloma, reforçando a vigilância imune contra células neoplásicas residuais no período pós-ASCT.
+A relação com o mieloma não é antitumoral direta. No mieloma, o fármaco foi estudado em dois contextos: (1) depleção in vivo de células T ativadas para prevenir a DECH após transplante alogênico não mieloablativo; e (2) redução de Tregs ao redor do transplante autólogo de células-tronco, na tentativa de melhorar a resposta imune contra o mieloma, já que as Tregs se reconstituem rapidamente após o transplante e inibem essa resposta.
 
-Esta hipótese é diretamente suportada por um ensaio clínico de Fase 1 já concluído (NCT01526096), que investigou especificamente a segurança e viabilidade desta estratégia em 30 pacientes com mieloma múltiplo submetidos ao ASCT, além de um estudo piloto prospectivo publicado no *Journal for Immunotherapy of Cancer* em 2020, consolidando a plausibilidade biológica da abordagem.
+Portanto, a previsão é plausível como **terapia de suporte e imunomodulação** em pacientes com mieloma submetidos a transplante, mas não como tratamento direto da doença.
 
 ---
 
@@ -67,9 +68,9 @@ Esta hipótese é diretamente suportada por um ensaio clínico de Fase 1 já con
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT01526096](https://clinicaltrials.gov/study/NCT01526096) | Phase 1 | Concluído | 30 | Avaliação da segurança e viabilidade da deplecção de Tregs com Basiliximab em pacientes com mieloma múltiplo submetidos ao transplante autólogo de células-tronco (ASCT); estudo piloto diretamente relacionado à indicação prevista |
-| [NCT00975975](https://clinicaltrials.gov/study/NCT00975975) | Phase 2 | Concluído | 17 | Basiliximab combinado com ciclosporina para prevenção de GVHD em transplante alogênico não-mieloablativo para cânceres hematológicos; mecanismo de deplecção de células T ativadas aplicável ao contexto do mieloma |
-| [NCT00594308](https://clinicaltrials.gov/study/NCT00594308) | N/A | Encerrado prematuramente | 10 | Comparação de Basiliximab + ciclosporina versus ciclosporina isolada na prevenção de GVHD; ensaio interrompido precocemente, evidência limitada e motivo do encerramento não documentado |
+| [NCT00975975](https://clinicaltrials.gov/study/NCT00975975) | Phase 2 | Concluído | 17 | Basiliximabe + ciclosporina para prevenir DECH após transplante alogênico não mieloablativo em câncer do sangue; estudo pequeno |
+| [NCT00594308](https://clinicaltrials.gov/study/NCT00594308) | NA | Encerrado | 10 | Compara basiliximabe + ciclosporina com ciclosporina isolada na prevenção de DECH; encerrado precocemente, valor limitado |
+| [NCT01526096](https://clinicaltrials.gov/study/NCT01526096) | Phase 1 | Concluído | 30 | Piloto de depleção de Tregs em pacientes com mieloma submetidos a transplante autólogo; avalia viabilidade e segurança |
 
 ---
 
@@ -77,38 +78,42 @@ Esta hipótese é diretamente suportada por um ensaio clínico de Fase 1 já con
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [31940591](https://pubmed.ncbi.nlm.nih.gov/31940591/) | 2020 | Prospective Pilot Study | Journal for Immunotherapy of Cancer | Deplecção de Tregs com Basiliximab em ASCT para mieloma múltiplo demonstrou viabilidade e segurança; sugere que a rápida reconstituição de Tregs pós-ASCT contribui para progressão da doença via supressão imune |
-| [12476283](https://pubmed.ncbi.nlm.nih.gov/12476283/) | 2002 | Retrospective Cohort | Bone Marrow Transplantation | Basiliximab foi bem tolerado e eficaz no tratamento de GVHD agudo refratário a corticoides após transplante alogênico em 17 pacientes, incluindo casos de mieloma múltiplo; apoia o perfil de tolerabilidade no contexto hematológico |
-| [28320553](https://pubmed.ncbi.nlm.nih.gov/28320553/) | 2017 | Case Report | American Journal of Kidney Diseases | Relato de 4 casos de transplante renal em pacientes com mieloma múltiplo em remissão; relevância indireta ao demonstrar que pacientes com MM controlado podem ser submetidos a procedimentos transplante sob imunossupressão com Basiliximab |
-
----
-
-## Informações de Comercialização no Brasil
-
-O Basiliximab possui **2 registros ativos** junto à ANVISA com status **comercializado**. Os detalhes individuais de cada registro (número ANVISA, nome comercial, forma farmacêutica e texto de indicação aprovada) não estavam disponíveis nesta versão do Evidence Pack e devem ser consultados diretamente no portal da ANVISA.
+| [31940591](https://pubmed.ncbi.nlm.nih.gov/31940591/) | 2020 | Ensaio de Fase 1 | Journal for Immunotherapy of Cancer | Estudo piloto de depleção de Tregs em transplante autólogo no mieloma, motivado pela disfunção imune após melfalano em altas doses |
+| [12476283](https://pubmed.ncbi.nlm.nih.gov/12476283/) | 2002 | Coorte | Bone Marrow Transplantation | Basiliximabe foi bem tolerado e eficaz em 17 pacientes com DECH aguda refratária a esteroides após transplante alogênico (incluindo mieloma múltiplo) |
+| [42379467](https://pubmed.ncbi.nlm.nih.gov/42379467/) | 2026 | Revisão/Série de casos | American Journal of Kidney Diseases | Transplante renal após terapia CAR-T no mieloma múltiplo, com novas oportunidades em pacientes selecionados |
+| [28320553](https://pubmed.ncbi.nlm.nih.gov/28320553/) | 2017 | Relato de casos | American Journal of Kidney Diseases | Quatro pacientes com mieloma submetidos a transplante renal após resposta ao tratamento |
 
 ---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas:** foram identificadas 69 interações, das quais as de maior gravidade (nível Maior) incluem:
+  - Adalimumabe
+  - Baricitinibe
+  - Certolizumabe pegol
+  - Vacina BCG (cepa Tice, vivo)
+
+  Há ainda interações de nível Moderado com outros imunossupressores e biológicos (por exemplo, alentuzumabe, anacinra, azatioprina, canaquinumabe e roflumilaste) e com diversas vacinas. As interações com sais de zinco são de nível Menor. De modo geral, o uso concomitante com outros imunossupressores aumenta o risco de infecção, e vacinas vivas devem ser evitadas.
+
+Para advertências e contraindicações, consulte a bula.
 
 ---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Existe hipótese mecanística biologicamente plausível — depleção de Tregs via bloqueio de CD25 para potencializar o efeito antitumoral pós-ASCT — com suporte direto de um ensaio de Fase 1 concluído em mieloma múltiplo e de um estudo piloto prospectivo publicado em periódico especializado de alto impacto. O nível de evidência L3 justifica investigação clínica avançada, mas é insuficiente para recomendação de uso clínico rotineiro.
+- Os ensaios existentes são pequenos (10 a 30 participantes), de Fase 1/2 ou encerrados precocemente, e avaliam o uso de suporte (prevenção de DECH e modulação de Tregs), não a eficácia antimieloma. O fármaco não está comercializado no Brasil e não há dados de bula para avaliar a segurança.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos de segurança (advertências e contraindicações) a partir da bula registrada na ANVISA
-- Confirmar indicações aprovadas e nomes comerciais dos 2 registros brasileiros via portal ANVISA
-- Identificar ou iniciar ensaio de Fase 2 randomizado e controlado para deplecção de Tregs com Basiliximab em mieloma múltiplo pós-ASCT
-- Avaliar interações medicamentosas com os regimes de condicionamento do ASCT (ex.: melfalan em altas doses)
-- Comparar o perfil de risco-benefício frente a alternativas imunoterápicas disponíveis no contexto pós-ASCT (ex.: pembrolizumabe, elotuzumabe, daratumumabe)
-- Mapear populações específicas de alto risco (ex.: MM de alto risco citogenético) onde a estratégia imunológica possa oferecer maior benefício diferencial
+- Obter a bula e os dados de advertências e contraindicações na ANVISA (lacuna bloqueante para a triagem de segurança)
+- Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank)
+- Definir a indicação original e a situação regulatória do fármaco no Brasil
+- Ensaios randomizados maiores que mostrem benefício clínico em pacientes com mieloma (DECH, recaída, sobrevida)
+- Avaliar o risco de infecção e a segurança da imunossupressão em populações com mieloma
+
+**Observação sobre outras indicações previstas:** as demais previsões têm evidência fraca ou inexistente. Hemoglobinopatia (talassemia maior) tem suporte indireto, com um estudo de Fase 4 de 205 participantes sobre prevenção de DECH em transplante, mas o benefício é sobre a complicação do transplante, não sobre a doença de base. As previsões para bronquite e carcinoma gástrico não têm base mecanística plausível, e a imunossupressão poderia ser inadequada ou até prejudicial nesses casos.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

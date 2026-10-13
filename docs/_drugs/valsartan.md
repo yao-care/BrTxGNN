@@ -2,7 +2,7 @@
 layout: default
 title: Valsartan
 parent: Evidência Moderada (L3-L4)
-nav_order: 500
+nav_order: 664
 evidence_level: L4
 indication_count: 7
 ---
@@ -29,77 +29,84 @@ Nível de evidência: **L4** | Indicações previstas: **7**
 
 </div>
 
-A seguir está o relatório completo em Markdown para o Evidence Pack de Valsartan:
-
----
-
-# Valsartan: Da Hipertensão Arterial à Hipertensão Renovascular Maligna
+# Valsartana: Da hipertensão arterial à hipertensão renovascular maligna
 
 ## Resumo em Uma Frase
 
-Valsartan é um bloqueador do receptor de angiotensina II (BRA/ARB), originalmente utilizado no tratamento da hipertensão arterial, insuficiência cardíaca e proteção cardiovascular pós-infarto do miocárdio.
-O modelo TxGNN prevê que pode ser eficaz para **Hipertensão Renovascular Maligna (Malignant Renovascular Hypertension)**,
-atualmente com **0 ensaios clínicos** e **1 publicação** apoiando esta direção.
-
----
+Valsartana é um bloqueador do receptor de angiotensina II do tipo 1 (AT1), originalmente usado no tratamento da hipertensão arterial.
+O modelo TxGNN prevê que pode ser eficaz para **hipertensão renovascular maligna (malignant renovascular hypertension)**,
+atualmente com **0 ensaios clínicos** e **1 publicação** (estudo pré-clínico em modelo animal) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial, insuficiência cardíaca, proteção pós-infarto do miocárdio |
-| Nova Indicação Prevista | Hipertensão Renovascular Maligna (Malignant Renovascular Hypertension) |
+| Indicação Original | Hipertensão arterial (transtorno hipertensivo) |
+| Nova Indicação Prevista | Hipertensão renovascular maligna (malignant renovascular hypertension) |
 | Pontuação de Previsão TxGNN | 99,97% |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Valsartan é um antagonista seletivo e competitivo do receptor de angiotensina II do tipo 1 (AT1R), pertencente à classe dos bloqueadores do receptor de angiotensina (BRA). Ao ocupar o AT1R sem ativá-lo, impede os efeitos vasoconstritores, pró-fibróticos, pró-inflamatórios e estimuladores da aldosterona mediados pela angiotensina II. O resultado é redução sustentada da pressão arterial com marcante proteção de órgãos-alvo — em particular rins e coração — sem o efeito colateral da tosse seca associado aos inibidores da ECA.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a valsartana é um bloqueador do receptor AT1 da angiotensina II, sua eficácia na hipertensão arterial está estabelecida e, mecanisticamente, pode ser aplicável à hipertensão renovascular maligna.
 
-A hipertensão renovascular maligna tem como mecanismo central a hiperativação em cascata do sistema renina-angiotensina-aldosterona (SRAA): a estenose da artéria renal reduz a perfusão renal → o rim libera grandes quantidades de renina → a angiotensina II sobe acentuadamente → o AT1R é estimulado de forma excessiva → vasoconstricção sistêmica grave, dano endotelial progressivo e lesão renal acelerada. O bloqueio direto do AT1R pelo Valsartan interrompe exatamente esse ciclo patológico, e ainda reduz a pressão intraglomerular e inibe a fibrose renal mediada por TGF-β — o que é especialmente relevante porque a lesão renal nesses pacientes costuma progredir mesmo após o controle pressórico.
+A angiotensina II está elevada na hipertensão maligna e impulsiona a lesão vascular e renal. O único artigo associado (PMID 11560862, 2001) mostra, em modelo animal, que o bloqueio do receptor AT1 preveniu a hipertensão maligna letal, com relação com a inflamação renal. É um vínculo biologicamente plausível, mas de **efeito de classe**: não é específico da valsartana e não é clínico.
 
-A conexão mecanística entre Valsartan e hipertensão renovascular maligna é biologicamente muito robusta. Os BRAs são farmacologicamente ideais em situações de SRAA hiperativado, e há ao menos um estudo experimental (Circulation, 2001) demonstrando que o bloqueio do AT1R preveniu hipertensão maligna letal em modelo animal mesmo sem redução significativa da pressão arterial, atribuindo o efeito à contenção da inflamação renal. A principal barreira à progressão clínica é a ausência total de ensaios controlados nessa entidade específica — e a preocupação real de que, em casos de estenose bilateral das artérias renais, o bloqueio do SRAA pode precipitar insuficiência renal aguda.
-
----
+Além disso, a nova indicação está muito próxima da indicação já existente (hipertensão). Trata-se mais de uma extensão do uso aprovado do que de um reposicionamento genuíno.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
+Atualmente não há ensaios clínicos relacionados registrados para esta indicação.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|-----------|-------------------|
-| [11560862](https://pubmed.ncbi.nlm.nih.gov/11560862/) | 2001 | Estudo experimental (modelo animal) | *Circulation* | O bloqueio do receptor AT1 com antagonista ARB preveniu o desenvolvimento de hipertensão maligna letal em ratos, mesmo sem efeito redutor relevante na pressão arterial; o mecanismo proposto foi a supressão da inflamação renal induzida pela angiotensina II |
-
----
+|------|-----|------|------|---------|
+| [11560862](https://pubmed.ncbi.nlm.nih.gov/11560862/) | 2001 | Pré-clínico (modelo animal) | Circulation | O bloqueio do receptor AT1 da angiotensina II preveniu a hipertensão maligna letal, mesmo sem efeito de redução da pressão arterial, com relação com a inflamação renal |
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+Os dados de advertências e contraindicações da bula não estavam disponíveis. As informações abaixo vêm do grafo de conhecimento do TxGNN (relações fármaco-doença), e **não** do texto da bula.
 
----
+- **Contraindicações/condições de atenção (grafo de conhecimento)**:
+  - Hepáticas e biliares: insuficiência hepática, doença hepática, encefalopatia/coma hepático, doença da vesícula biliar, icterícia neonatal, pancreatite
+  - Renais e vasculares: anúria, comprometimento da função renal, obstrução da artéria renal, hipotensão
+  - Angioedema (incluindo hereditário, adquirido e induzido por bloqueadores do sistema renina-angiotensina-aldosterona)
+  - Metabólicas e eletrolíticas: deficiência de potássio, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, hiperparatireoidismo, osteíte fibrosa, gota, hiperuricemia, diabetes mellitus, cetoacidose diabética
+  - Hematológicas e imunológicas: neutropenia, agranulocitose, lúpus eritematoso sistêmico (inclusive pediátrico)
+- **Interações medicamentosas**: foram identificadas 100 interações; entre as listadas, destacam-se:
+  - **Graves (Major)**: cloreto de potássio e bicarbonato de potássio (risco de hipercalemia)
+  - **Moderadas**: hidrocortisona, eluxadolina, exenatida, polietilenoglicol com eletrólitos e diversas insulinas (humana, asparte, degludeca, detemir, glargina, glulisina, lispro, entre outras)
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A conexão mecanística entre o Valsartan e a hipertensão renovascular maligna é biologicamente muito forte — ambos compartilham o SRAA hiperativado como eixo central —, mas a evidência disponível resume-se a um único estudo experimental em animais (L4), sem nenhum ensaio clínico registrado. Adicionalmente, existe risco clínico real de hipoperfusão renal aguda em pacientes com estenose bilateral das artérias renais, o que exige avaliação cautelosa antes de qualquer progressão.
+- A única evidência é um estudo pré-clínico de efeito de classe (bloqueio AT1), sem ensaios clínicos e sem dados específicos da valsartana nesta indicação. Além disso, a valsartana não tem registro ativo no Brasil segundo os dados compilados, e a indicação é uma extensão da hipertensão já tratada.
 
 **Para prosseguir, é necessário:**
-- Realizar estudos de segurança dedicados em pacientes com hipertensão renovascular maligna confirmada (especialmente exclusão de estenose bilateral)
-- Avaliar a viabilidade de ensaios clínicos controlados, considerando o caráter raro e frequentemente emergencial desta entidade
-- Obter os dados completos da bula dos 20 registros ANVISA do Valsartan no Brasil (indicações aprovadas, advertências, contraindicações)
-- Levantar dados de MOA detalhados via DrugBank API (DG002 pendente) para embasar análise de mecanismo completa
-- Conduzir revisão sistemática de literatura específica sobre uso de ARBs em crises hipertensivas renovasculares malignas
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), uma lacuna que bloqueia a triagem de segurança
+- Obter dados detalhados do mecanismo de ação (MOA), por exemplo, via DrugBank
+- Confirmar a situação regulatória da valsartana no Brasil, inclusive em associações
+- Buscar evidência clínica específica (ensaios ou estudos observacionais) em hipertensão maligna/renovascular
+- Avaliar se a indicação já está coberta pelo uso aprovado em hipertensão
+
+---
+
+### Outras Indicações Previstas (para referência)
+
+| Indicação prevista | Pontuação TxGNN | Nível de Evidência | Observação | Recomendação |
+|------|------|------|------|------|
+| Doença renal hipertensiva maligna | 99,97% | L4 | Único artigo trata da avosentana (antagonista de endotelina), não da valsartana; evidência apenas indireta | Hold |
+| Hipertensão pulmonar de mecanismo multifatorial incerto | 99,97% | L5 | Apenas previsão do modelo, sem ensaios nem literatura | Hold |
+| Hipertensão pulmonar por doença pulmonar e/ou hipóxia | 99,97% | L4 | Estudos pré-clínicos de valsartana/sacubitril-valsartana ligados à biologia da hipóxia (ex.: via HIF-1α); a maioria dos artigos trata de outros órgãos ou outros fármacos; sem ensaios clínicos | Questão de pesquisa |
+| Síndrome de Braddock | 99,96% | L5 | Apenas previsão do modelo | Hold |
+| Cor pulmonale crônico | 99,58% | L4 | Evidência indireta (sacubitril/valsartana em insuficiência cardíaca; um estudo pré-clínico de remodelamento do ventrículo direito, PMID 32552157). O único ensaio associado (NCT02966665, Fase 1, 420 participantes, em recrutamento) é sobre exercício e função vascular na hipertensão, com correspondência fraca | Questão de pesquisa |
+| Angina de Prinzmetal | 99,45% | L5 | O único artigo (PMID 20555232) trata de alternância da onda T, sem relação com o tratamento | Hold |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

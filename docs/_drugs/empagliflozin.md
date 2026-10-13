@@ -2,7 +2,7 @@
 layout: default
 title: Empagliflozin
 parent: Apenas Predição do Modelo (L5)
-nav_order: 236
+nav_order: 287
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,77 +29,66 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-# Empagliflozin: Do Diabetes Tipo 2 à Síndrome da Pessoa Rígida Clássica
+# Empagliflozina: Do diabetes mellitus tipo 2 à síndrome da pessoa rígida clássica
 
 ## Resumo em Uma Frase
 
-Empagliflozin é um inibidor de SGLT2 (cotransportador sódio-glicose tipo 2), originalmente aprovado para o tratamento de diabetes mellitus tipo 2, insuficiência cardíaca e doença renal crônica.
-O modelo TxGNN prevê que pode ser eficaz para a **Síndrome da Pessoa Rígida Clássica (Classic Stiff Person Syndrome)**,
-porém, atualmente **não há ensaios clínicos nem publicações** registrados apoiando esta direção — trata-se de previsão computacional pura.
-
----
+Empagliflozina é um inibidor de SGLT2, originalmente usado no tratamento do diabetes mellitus tipo 2.
+O modelo TxGNN prevê que pode ser eficaz para a **síndrome da pessoa rígida clássica (classic stiff person syndrome)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Diabetes mellitus tipo 2, insuficiência cardíaca, doença renal crônica |
-| Nova Indicação Prevista | Síndrome da Pessoa Rígida Clássica (Classic Stiff Person Syndrome) |
+| Indicação Original | Diabetes mellitus tipo 2 |
+| Nova Indicação Prevista | Síndrome da pessoa rígida clássica (classic stiff person syndrome) |
 | Pontuação de Previsão TxGNN | 99,06% |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 8 |
+| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Empagliflozin é um inibidor seletivo de SGLT2, que atua nos rins bloqueando a reabsorção de glicose e sódio, promovendo glicosúria e natriurese. Além do controle glicêmico, seus benefícios cardiovasculares e renais são amplamente reconhecidos — com mecanismos que incluem redução da pré e pós-carga cardíaca, modulação de vias inflamatórias (inibição de NF-κB, redução de IL-6 e TNF-α) e indução de cetogênese (elevação de β-hidroxibutirato, que tem propriedades neuroprotetoras).
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a empagliflozina pertence à classe dos inibidores do cotransportador sódio-glicose tipo 2 (SGLT2), que reduz a reabsorção renal de glicose, e sua eficácia no diabetes tipo 2 está estabelecida.
 
-A Síndrome da Pessoa Rígida Clássica é uma doença neurológica autoimune rara, caracterizada por rigidez muscular progressiva e espasmos, mediada principalmente por autoanticorpos anti-GAD65 que comprometem a transmissão GABAérgica. A ligação mecanística com empagliflozin é indireta e especulativa: teoricamente, o efeito anti-inflamatório do fármaco poderia atenuar a neuroinflamação associada, e a elevação de β-hidroxibutirato poderia oferecer neuroproteção. Há ainda relatos de baixa expressão de receptores SGLT2 no tecido cerebral, sugerindo uma possível ação local.
+A síndrome da pessoa rígida é um distúrbio autoimune da neurotransmissão GABAérgica (associado a anticorpos anti-GAD65). Não há vínculo biológico estabelecido com a inibição de SGLT2. Qualquer conexão plausível, como modulação da inflamação ou efeitos metabólicos, é especulativa.
 
-Contudo, a cadeia causal entre o mecanismo de ação do empagliflozin e a patologia central do SPS (autoimunidade mediada por anti-GAD65 contra neurônios GABAérgicos) permanece sem evidência direta. A previsão do TxGNN provavelmente reflete similaridade estrutural no grafo de conhecimento — as duas indicações seguintes no ranking (Focal Stiff Limb Syndrome, com pontuação idêntica de 99,06%) reforçam que se trata de agrupamento de nós relacionados, não de previsões independentes. A força da associação mecanística é classificada como **fraca**.
-
----
+A pontuação alta (0,991) reflete uma previsão baseada em grafo de conhecimento. A variante da síndrome, a **síndrome do membro rígido focal (focal stiff limb syndrome)**, recebeu exatamente a mesma pontuação, o que sugere que a previsão é guiada por doenças vizinhas no grafo, e não por biologia específica do fármaco. Uma terceira previsão, a **opsismodisplasia** (pontuação 99,03%), é uma displasia esquelética rara ligada a mutações em INPPL1 (SHIP2, regulador negativo da sinalização PI3K/insulina). O vínculo com a via da insulina é indireto e não validado para a empagliflozina. Todas devem ser tratadas apenas como hipóteses.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 Atualmente não há literatura relacionada.
 
----
-
-## Informações de Comercialização no Brasil
-
-O empagliflozin possui **8 registros ativos** no mercado brasileiro. Os detalhes individuais (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no pacote de dados atual — consulte o banco de dados regulatório para informações completas por produto.
-
----
-
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total (fonte: DDInter). Entre as listadas, a maioria é de gravidade **moderada**, por exemplo:
+  - Simpatomiméticos e broncodilatadores: fenilefrina, pseudoefedrina, epinefrina, formoterol, salbutamol
+  - Anti-hipertensivos e diuréticos: acebutolol, nifedipino, fosinopril, acetazolamida, furosemida
+  - Hormônios e corticoides: etinilestradiol, hidrocortisona
+  - Outros: etanol, fosamprenavir, fosfenitoína, fostamatinibe, fostemsavir, gemifloxacino
+  - Interações de gravidade **leve**: hidrocortisona tópica e alclometasona tópica
 
----
+Consulte a bula para advertências e contraindicações.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão TxGNN para Síndrome da Pessoa Rígida Clássica é classificada como nível L5 — sem qualquer ensaio clínico ou publicação de apoio. A ligação mecanística entre o inibidor de SGLT2 e a doença autoimune GABAérgica é indireta e altamente especulativa, sem cadeia causal estabelecida. O agrupamento de pontuações idênticas para variantes do SPS sugere que a previsão reflete proximidade no grafo de conhecimento, e não evidência biológica independente.
+Não há ensaios clínicos nem literatura que sustentem a previsão (nível L5), e não existe elo mecanístico plausível entre a inibição de SGLT2 e a síndrome da pessoa rígida. Além disso, o fármaco não está comercializado no Brasil, e os dados de segurança da bula estão ausentes.
 
 **Para prosseguir, é necessário:**
-- Obter dados completos do mecanismo de ação (MOA) via DrugBank API
-- Realizar busca aprofundada em literatura pré-clínica sobre SGLT2i e doenças autoimunes neurológicas
-- Consultar especialistas em neuroimunologia para avaliar plausibilidade biológica
-- Obter textos completos das bulas dos 8 registros para avaliação de segurança (advertências, contraindicações)
-- Considerar se as duas indicações relacionadas (Focal Stiff Limb Syndrome, Opsismodysplasia) devem ser avaliadas conjuntamente antes de qualquer decisão de investimento em pesquisa
+- Obter os dados do mecanismo de ação da empagliflozina (DrugBank)
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa necessária antes da triagem de segurança
+- Realizar revisão sistemática da literatura e busca de estudos pré-clínicos que sustentem um vínculo biológico com a síndrome da pessoa rígida
+- Esclarecer a situação regulatória no Brasil, já que não há registros vigentes nos dados compilados
+- Avaliar a compatibilidade de via de administração e a similaridade com a indicação original, hoje pendentes
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
