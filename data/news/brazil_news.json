@@ -1,19 +1,79 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-13T22:23:08.954215+00:00",
-  "total_fetched": 93,
-  "unique_count": 92,
-  "health_related_count": 29,
+  "fetched_at": "2026-10-14T03:59:05.965924+00:00",
+  "total_fetched": 91,
+  "unique_count": 90,
+  "health_related_count": 28,
   "news": [
+    {
+      "id": "6de00233f460",
+      "title": "Pesquisa científica sugere que animais podem ter surgido 200 milhões de anos antes do previsto - CNN Brasil",
+      "published": "2026-10-14T00:36:55+00:00",
+      "summary": "Pesquisa científica sugere que animais podem ter surgido 200 milhões de anos antes do previsto&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUElaSmFDVHBIS0wyeWx3OHdPQVJyOThxcEJid1p1MUpNRjkzNDY1d3RpNTV1VUlDTEJlT1NjUjhabUFIQlFvSXpGeDlmUWVGY3NvX0trSFlGN2Z4RWhqSTVsZGxyNDZTYmlCeGZpckcwcWtzSktNUjZLNmg0dmw4R2pOZlp0TEYwcXlmVnVwS2VtN1BsalJJOUVqeFlkQVlhNWtrVmZKMnI5SjE5eVh1MzdkVW9GWndzMTJWOXFrNkNMVy1LVWlUeW8tS20?oc=5"
+        }
+      ]
+    },
     {
       "id": "d2a89b3c050d",
       "title": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento - UOL",
-      "published": "2026-10-13T22:15:27+00:00",
+      "published": "2026-10-13T23:08:25+00:00",
       "summary": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZG5mRWN6YThHQlRMUnp5TmVRVUpHeEd4X2VvX1ROdU8wckpSZW16Z2pqVVZDdjZEOEczMW5jTDVNX0o5bnJkQy1KSXIyRDZweFRmZHdkLUxfNHRZRHNkX1RJX20xT0R0ek5jaTF3b2pmQV9UR0lzWV9rcE5OX2pNUEhfUHFqOGNteTBrR3BKSW5oTVhMOWhCUms0czZpWmllMHlXMWlKUEN6dndjdkxrU3BIUmUtb01QQnY4MDF0UGJFU0drdFdpNDFyTVRYOTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ac712e02729",
+      "title": "Neurologista alerta para sinais de AVC e explica fatores de risco para Alzheimer - ac24horas",
+      "published": "2026-10-13T22:09:49+00:00",
+      "summary": "Neurologista alerta para sinais de AVC e explica fatores de risco para Alzheimer&nbsp;&nbsp;ac24horas",
+      "sources": [
+        {
+          "name": "ac24horas",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2p5TzY0b3VrR0FIT3FmUkxRM0lCTzRDQVgwand5aUpjaVVPNXplbjhIN09OYjlreHd3OVJTYnhJVDlJM1I5QVJqOWVfdWk0QWt3WWwzT0dYUFNRNlpWcFNlekd2cmJ2ZHRRNXJWTUZKTUZhZ3IzRkJUSTg0LVFHVnJablR4RVYxZk9oR2FnVlpaUFRneUk0dGR1eFpzSGFsV04xT2tUWm9kajk5QjBtd0g3bXXSAboBQVVfeXFMTU9jTTlZS3hfOFVJdjk5N0xIV2tNdWZKM0pWN2dDVzlyZEN5QWQ4RF8weWliVkN4bTcwLTVWX2pEZFR2WmZ2emptY05kd0NSa195SmEySTNiZF9zTHU1MDhSaGIxVnBGQVFUOWVGQ05ia2Q3cC1WVlB4LTNEWXNEaGp0WU03cmFfYktPTmlVUk5rQ2J3Q1pXTlBHVVVFa282OF9YcUVYVHNXZUpCelQ3VlkzSThYNENDakF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cdad087a581b",
+      "title": "Sem prova escrita: seleção da Sema oferece 38 vagas com bolsa de R$ 3,4 mil - Primeira Página",
+      "published": "2026-10-13T20:58:40+00:00",
+      "summary": "Sem prova escrita: seleção da Sema oferece 38 vagas com bolsa de R$ 3,4 mil&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDBoRnRzNm5relozVUo1b3R2dzhxNy1zVThqeG9PMzM3U2toME05Sy1vNy03ajB3SWFrVzl5NE1scUphTC1MU3hJa0JTM3RvT3duXzdQNUpHazkwbWRZVWJMMDNMRFpzSXdLUWJWTWJTZGUzU0xtZHRwTVhwR0dVWXhrWmhvWTZYajBLM0dHZ1p1OHZCQmFCRFFtOVlzVDNNcTdsd3JxNllWUjdnRHpNblphYVhXNGFXaTBZNkVLV083SktMRThVTkY5c0QyMnh5ZVlESnh4alByblhzTVRF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4abdc6e0c8dc",
+      "title": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE - Diário do Nordeste",
+      "published": "2026-10-13T19:52:28+00:00",
+      "summary": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE&nbsp;&nbsp;Diário do NordesteEusébio e Maranguape iniciam implantação do Método Wolbachia contra arboviroses&nbsp;&nbsp;O POVOAutocuidado e prevenção em saúde são temas em roda de conversa com mulheres no Centro de Oficinas&nbsp;&nbsp;Blog LondrinaArapiraca se prepara para soltura dos Wolbitos no combate à dengue, zika e chikungunya&nbsp;&nbsp;Home - Prefeitura de ArapiracaAnápolis instala novos dispositivos",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOEFWRGt5VzV1RXhSTVpsaldnTXZiVU5mSFFJNmNpc3NxUjNoNWNCdHFvQVlYUHAwV3dyX2VITm43WXNrV0taYUVkVWVCR3RaaG5XS3Y4QzNlZEVIT3M4T1p6UjRHZXE0R2NXR2xrYkpuTk9QZTY1dXRsdjdmeVFINDVuMmFPNm1SbjFJUHBhX1dqclpQc29OMldvbFNlZGZWbTZSZ3BLZ2hrREJxS2V6dktVYlFZWDNGTGhlYzM2YThfS3ZtSVNCRkxHQUstbDBma0QwYnhYVHZ4LThhSzlN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06386c6feb0f",
+      "title": "Robô do tamanho de grão de arroz consegue levar remédio direto ao coração - Metrópoles",
+      "published": "2026-10-13T19:02:00+00:00",
+      "summary": "Robô do tamanho de grão de arroz consegue levar remédio direto ao coração&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUs2TUppWmw0dnpmQWROcTEwLXRjM2pja1VfS2c1SjVHMU82LTFjMTkxNWhmalhsNEFtMkJaOWlRTHQ2ZG40eDBJcjV3eEtDOVNfSlBUNEVaVHk5QzJ4aUE1OGFJUHBFUlpvN3FQSjNfTDY2SGhqVnBFcDRoYm1PbVlRYjhHdXdvSERFVmRSWjVmVDZBLUU4ZFl6SlVmbDFXQVMwaERZN3QwbGpr?oc=5"
         }
       ]
     },
@@ -26,6 +86,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMkZnSlRyNFRPMVlnUUNWVkZMUzEzZ1g3SDRRTXBjOVFDN05ib2Z2Qm5zSnpuYmMyMnhyRnJ0Y2lkMXl5Z2MxUWlHYjk2OFdDNk9pWlFCMUlwN0VOd0M4UW5tNnRmaXl4OE5CLU81c0cxblJDcGlxVjhyMTRXMlY1ZlBoWG5CVjJHajZ2cExYQldGQVRHeWlSak5walFGUUp0M19fSlVwZHJZa1YzRjUybDgyWUUwSmllYTRuaHZzSzIySWVZQmJaSkFWbFM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d7720781a79",
+      "title": "Executiva que comanda o Signal contesta previsões de 'apocalipse de IA' e diz que risco é o uso descuidado da inteligência artificial - BBC",
+      "published": "2026-10-13T13:13:46+00:00",
+      "summary": "Executiva que comanda o Signal contesta previsões de 'apocalipse de IA' e diz que risco é o uso descuidado da inteligência artificial&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RUE50a1ZMT2NWQ2dLM1NmWFZJU1pGc2puZXJ3ZUJEUXM1RVFHbDJiZUdERHNGaGxkTXNHemhuM3R3ME8tTURiTzU4NFladUoya0ZpQVhrSk5WbGhPUnFTcWVGd9IBaEFVX3lxTE82cXdvYlVoVHRlQ2pWQnBRMkdZQnlZdGtNQXJFS1VsNXRndXV3blR2THRaZ2pFOGZTcXlacEtQQkJmSTJZSWZHMVI1ak15aFY5dUhrcU82NlprWjFwSDdZaDB5dUduTjZU?oc=5"
         }
       ]
     },
@@ -114,30 +186,6 @@
       ]
     },
     {
-      "id": "bb7efa2a9f4b",
-      "title": "A banana é levemente radioativa por causa do potássio que contém, e cientistas explicam por que isso não representa nenhum risco para quem come - Super Rádio Tupi",
-      "published": "2026-10-13T01:20:28+00:00",
-      "summary": "A banana é levemente radioativa por causa do potássio que contém, e cientistas explicam por que isso não representa nenhum risco para quem come&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQM0pkZEQ2eDJtM09lTFN5SlR0UW80STdFRUFpd1ZoV2s2Sk9nV3gzNENyQ3BGdnl0aDZXMkNGNnI5ZWtHWk5KTm1yQ2VISEwybGhkb1hoNFh2Sno0aWdpenVRdjRJcjJXT2p1RzFyNFBrMUhLOUkzdGRXc2o5NlpxUkhwNk1LcVFEMDZoT1NRRzhhSlRNTjI0ZHJTYUk0WU42QjNuUmxCR2FiRGlpZ2tobnR6NHFINHlXZU5oZVVsUkxQeS1LZE52SmVTWWpkbVNrRUI5eWw0LUhrSU1RMjNnUVJSSGUwcE1xZGFJYXBuanAxSER5ZFRkWW5US0ZBQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "862ad1858aaa",
-      "title": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe' - BBC",
-      "published": "2026-10-12T22:46:21+00:00",
-      "summary": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe'&nbsp;&nbsp;BBCES Hoje 13/10: Ter câncer de mama não impede sonho da gravidez&nbsp;&nbsp;Jornal ES HOJECongelamento de óvulos pode preservar fertilidade de mulheres com câncer de mama&nbsp;&nbsp;CBN RibeirãoAntes da quimioterapia, preservar a fertilidade também pode fazer parte do cuidado&nbsp;&nbsp;Correio dos Municípios'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer; agora, aos 44,",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ySXFSaXB3ZFU3b2RXYXdmMXJRR1ZwaWIxTEVyWUNUNURDSXZqbWtvZ3QwTnNfNUkwRkRJQkt6X1JCcUFFOWoxcTB0QlhWSFBfNVU4a1Mzd1VMYWR2bl94YWlSQdIBaEFVX3lxTE1fWXlIMFkyZ3doVUVfNFJicGpvVGFyT21WMnoxcmZ6UVJNS25KcC1LQ3V1Q3FBaXdaOWRQQ25BZzRjQURzbzZqNklvdnJrWnA0V3ZqY1JLNU5sdkh5ZllreE9NOVhtZDJP?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7f1f2e559844",
       "title": "Navio antes usado para explorar petróleo agora faz pesquisa científica e já descobriu mais de cem espécies no oceano profundo - CNN Brasil",
       "published": "2026-10-12T17:04:08+00:00",
@@ -146,30 +194,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXVpNGktQ0xIZk5JdFVUWGhUODN5M0ZvdElPc0stREREd25YcDhCLUhpdDZaYTBqd2stYTlsMXhNZ19wZkFVUklna0ViaVNFVTRWVzY1cGJrVmJMdU5HMndCSFVfV0VLbVJwRVJKTlh2S1NwaTRRUk05QWRHTlZnaGh6cmthZm5xd0hyelc1V2xkTTVudXExT2JqVTBxaGZ6d094bmJ0dW9lSUFJYi16TXExU3ptcVFGdUJfeDNkLTd1cmgwcktWNkhJbngzMzhWdHZMaUN2anpaaFBjTzR4eHR2aUxwTlRJLUtlX3BLMzhNQU9aLXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6900596fdf4",
-      "title": "Estudo mapeia 17 ameaças à saúde global neste século - iG Último Segundo",
-      "published": "2026-10-12T17:03:00+00:00",
-      "summary": "Estudo mapeia 17 ameaças à saúde global neste século&nbsp;&nbsp;iG Último Segundo",
-      "sources": [
-        {
-          "name": "iG Último Segundo",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSjJ3WDFWc2Fnc3dyN05HaHp6Y2pQb3VpdzVmQmU2clVDZjhSRS16b0hTSW1tdjB4Mm5QX3VtYzFfam1xWURwQ1JMSjlabkY1N1poYnlmR21ZWDFNT2c1b0dsLTMxTFhOVmpYR2JCUXVTSE9xTGlHX3BUb0k2VzNJRXpCRDRoNEEySm9mTE0tNi1qd3dhVkFZMUo2THZ4aS12LXJ2WkFsend4QdIBrwFBVV95cUxNNHkzN2RBNFRoUzExQWVzcnB2YzB6ZElzRldzWXkzQWFnVjlDUUJ4M0dLWGRrUmVwTGJHa3A4UmF5VHlqRWxEYnh4dW4wTmNpOU82cWRyYjJfUlcyQkctSlVCbUhIbmZscnVUQm5zSEJBWHV4T09jX2JWSF9VMWJNaFhHRXV4aVdQX3VST3Q3ZjUwdnZsQ1hmZnhwNFhDX0NEYThhc0lJbm5fWGUtVGdr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f15aa3654f7",
-      "title": "Mulheres sentem dores mais fortes e frequentes que os homens, aponta estudo - CNN Brasil",
-      "published": "2026-10-12T17:02:24+00:00",
-      "summary": "Mulheres sentem dores mais fortes e frequentes que os homens, aponta estudo&nbsp;&nbsp;CNN BrasilEm quais idades o corpo sente mais dor? A ciência pode ter encontrado a resposta&nbsp;&nbsp;O GLOBODor acumula-se mais cedo do que se pensava e afeta mais os idosos dos países menos desenvolvidos&nbsp;&nbsp;Notícias U.PortoMulheres sentem dor com maior frequência do que homens, aponta estudo - 09/10/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloIdosos de países com baixo IDH têm maior prevalên",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzEzWVh5dThTT2N4UXZfTWZSZ01sVEl2RUcxUUVrenVQUGRYaTV2OGRUVVg4ZjUwVW01RW5IQ1l1bk9VdzR0ay1vbnZlaU5DLUlDVDNCNzExSHdWeVpfSFZESnZpaXhfZWU3Qy1meHVldzFQb3BJLXRNUmNJaVZTeEJ4LUtHT0FWTU9ldEs2VmFPZGlJWmlOWURnYkNFbnJKUW5uQkQ2d1JfZFd5dnNB?oc=5"
         }
       ]
     },
@@ -186,22 +210,10 @@
       ]
     },
     {
-      "id": "0268a6c8e053",
-      "title": "Estudantes de Química da FEMA conhecem laboratórios e tendências da indústria química - Assiscity",
-      "published": "2026-10-12T14:01:12+00:00",
-      "summary": "Estudantes de Química da FEMA conhecem laboratórios e tendências da indústria química&nbsp;&nbsp;Assiscity",
-      "sources": [
-        {
-          "name": "Assiscity",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLUVtd1oxSWVCc1VhN05hSWtxYVl6c0YtLVNQQUw0YmtmUUdqSmkzek54VGdUdkwwZW96d2tkWXZScnBoSUwwSm9TR2ZFNVVQUzFvNTFVLVZ6WEZlaEJiRG94cTlFM3E3cTdMVXJLdXowMW9sQXVULWtycUEzbnBCaWw3aWpVVnJEWGJ1WFdHTlYyaUVNYkYyVzVQQWR6bURibHNXV0QyRm1qdDNwSlhEb2h3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3638aaa8efd2",
       "title": "Exame de sangue que pode detectar 50 tipos de câncer chega ao Brasil; veja como funciona - Gazeta do Povo",
       "published": "2026-10-12T12:00:00+00:00",
-      "summary": "Exame de sangue que pode detectar 50 tipos de câncer chega ao Brasil; veja como funciona&nbsp;&nbsp;Gazeta do PovoGalleri no Brasil: saiba como funciona o exame que detecta 50 tipos de câncer&nbsp;&nbsp;Gazeta do PovoExame de sangue de quase R$ 7 mil que identifica mais de 50 tipos de câncer chega a Porto Alegre; saiba como funciona&nbsp;&nbsp;GZHBiópsia líquida para detectar 50 tipos de câncer chega ao Brasil; entenda&nbsp;&nbsp;TVBVExame de sangue que detecta até 50 tipos de câncer chega ao Br",
+      "summary": "Exame de sangue que pode detectar 50 tipos de câncer chega ao Brasil; veja como funciona&nbsp;&nbsp;Gazeta do PovoGalleri no Brasil: saiba como funciona o exame que detecta 50 tipos de câncer&nbsp;&nbsp;Gazeta do PovoExame de sangue de quase R$ 7 mil que detecta mais de 50 tipos de câncer chega a Porto Alegre; saiba como funciona&nbsp;&nbsp;GZHBiópsia líquida para detectar 50 tipos de câncer chega ao Brasil; entenda&nbsp;&nbsp;TVBVGotas de sangue podem antecipar alerta contra o câncer&nbsp;&nbsp",
       "sources": [
         {
           "name": "Gazeta do Povo",
@@ -210,14 +222,14 @@
       ]
     },
     {
-      "id": "beb9c6749592",
-      "title": "O que é paralisia de Bell, doença diagnosticada no humorista Renato Albani - InfoMoney",
-      "published": "2026-10-12T11:35:26+00:00",
-      "summary": "O que é paralisia de Bell, doença diagnosticada no humorista Renato Albani&nbsp;&nbsp;InfoMoneyO que é paralisia de Bell, doença diagnosticada em humorista que também já acometeu Fernanda Gentil&nbsp;&nbsp;O GLOBORenato Albani é diagnosticado com paralisia de Bell; neurologista explica&nbsp;&nbsp;CNN BrasilParalisia de Bell tem cura? Entenda o tratamento e o tempo de recuperação&nbsp;&nbsp;Tua SaúdeParalisia de Bell: veja famosos que tiveram o quadro, além de Renato Albani&nbsp;&nbsp;Juruá 24 ho",
+      "id": "25f079260118",
+      "title": "A 500 metros de profundidade, pesquisadores encontram um tubarão desconhecido pela ciência - Correio do Estado",
+      "published": "2026-10-12T11:49:00+00:00",
+      "summary": "A 500 metros de profundidade, pesquisadores encontram um tubarão desconhecido pela ciência&nbsp;&nbsp;Correio do Estado",
       "sources": [
         {
-          "name": "InfoMoney",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0ZSTjdmWnJZdXB4ZlhPWU9EZWg1aTBtV0dmZ29IQ2FpcU91T2hQRVd4dFk3eGJpN0xlOVhUNXlMWUZlbm1icmlQY0lxVlZINHg0UkxoM2NWOVJqSGxKbmw2RU1sVGd3UGN2czFfYUZHWUxrLXVWRVlXa1JwMnY2OFRLN1VPbHV3VzJ5SlhCUW5jVmVLQzhDckZaci04OXVXc1p3RVJvcmtyaTkyeVHSAbMBQVVfeXFMTk5mNnpidjFnLVRaMXVqQXcwbFRJVXNiU0k5YlBNZXVUNWJxSWRfSXVXLVZwQkwtUnBaN0RFM1J6VENqMlZoQkVRc0thdG44MnBYZTBGOHhnZFVJSjQ3OW1GV1JBb0F6MUI4SkM1NUdmaHNHVDlNckh2WHRjOEM3RDhiMDRmVTFxb2VyX21xemlPS0RjbmNMUHNUbzhqbDZUSm5GS3VXQ0I4ZHNxOHJaME5EZFk?oc=5"
+          "name": "Correio do Estado",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMW4wLWJfWkRIYXVyVlJXMUxOQ2xUWW5JbnJzX3dtd0I0MUpZX3BfdDROX3dnWlNaRTRBRVpDT0lobUNyalloR2FwZTlZcDRySGxKU2RiMnZvVmpiOUxLNEw5dllTVGwtSWROWXV4S2VQcTNGc2FGWVpCYzcyYlo5dnBRU2FBTWNIY2stM1lpcC1raXZjSlpTRml1T0t0T2FZQzFlT1pleV82YjM0?oc=5"
         }
       ]
     },
@@ -258,38 +270,14 @@
       ]
     },
     {
-      "id": "f6efdbe91bb7",
-      "title": "Controle da pressão alta poderia evitar mais de 500 mil mortes por doenças cardiovasculares por ano, mostra pesquisa - G1",
-      "published": "2026-10-12T07:00:00+00:00",
-      "summary": "Controle da pressão alta poderia evitar mais de 500 mil mortes por doenças cardiovasculares por ano, mostra pesquisa&nbsp;&nbsp;G1Controle da pressão poderia evitar mais de 500 mil mortes por doenças cardiovasculares&nbsp;&nbsp;G113/10/2026 | Hipertensão: controle pode evitar 500 mil mortes&nbsp;&nbsp;Afya | HomeControle da pressão alta poderia evitar mais de 500 mil mortes por ano&nbsp;&nbsp;Portal GIROControle da pressão alta poderia evitar mais de 500 mil mortes por doenças cardiovasculares p",
+      "id": "84aee29e71ad",
+      "title": "O que é paralisia de Bell, doença diagnosticada em humorista que também já acometeu Fernanda Gentil - O GLOBO",
+      "published": "2026-10-12T07:00:01+00:00",
+      "summary": "O que é paralisia de Bell, doença diagnosticada em humorista que também já acometeu Fernanda Gentil&nbsp;&nbsp;O GLOBORenato Albani é diagnosticado com paralisia de Bell; neurologista explica&nbsp;&nbsp;CNN BrasilParalisia de Bell tem cura? Entenda o tratamento e o tempo de recuperação&nbsp;&nbsp;Tua SaúdeParalisia de Bell: veja famosos que tiveram o quadro, além de Renato Albani&nbsp;&nbsp;Juruá 24 horasHumorista Renato Albani revela paralisia no rosto e diz ter medo de AVC&nbsp;&nbsp;TV Pop",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX2N5YUx1MmtUQnhXczZSOWFSUFZQVXlwWFBNVHZ0WWhmSlJZUk1wZm5zbEZBd0ZISXBGS3ptT0NsV1hYeFFERDBKcjhnLUVHRHAxNUJWcUJhZWlseHhNNDdjbzdLUklYQTVnMjFicjh2dS0wRWtBNTlFajdpajdWc1VwSWR4dmtkejBjVUhZdFZGUDBmdVVuWFhqbExCcW85ekhGay1icHQ3MzRySjF2dnhHQ0RFVWhncUR4VlFzZjJ0SzQtYmpJTHFudGFnUEV3M01VNTZlbG82NndDSDRKcFNfU0VjeGVRaEFJdDUwcXhIVW1ha1pFMzVGNNIBigJBVV95cUxOSjgtclJ1WlF6Rk5fd2t3bE5PaF9pYnhZMjV1dHhDTnMyN3lxa3hrMkk4dXVuVjdBTWlxYlVRblRZa0ZWTDZqSjF5VGxHaEMtTmpOXy1pOWEzTWp2a1lqZTBrQXg3aUExdnl3R1pCTENmdFVHN0tQOWo4Q3ktUmlxcWNhcGpFUVhaOUdsb0daU1ZKaE93N3BzVVp3RThMN1lua1I5cWpwakNWZlVPT0l3VEhZMHpsR0MzYS14NWZVRVpqWjJ6YVlITGZrZXZ2cUc0M0Rpa2xudXdBVENUSXVFRlgyczdvNmNBZnhJYjZ6M0JZWDlBNHEzVmdVeXdKLUtxTTliTndpX0d6dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae5870e58926",
-      "title": "Morador encontra filhote na floresta, cria o animal em casa e só depois pesquisadores descobrem que ele pertence a uma nova espécie de felino, após cerca de 100 anos sem descoberta semelhante - Super Rádio Tupi",
-      "published": "2026-10-12T00:11:43+00:00",
-      "summary": "Morador encontra filhote na floresta, cria o animal em casa e só depois pesquisadores descobrem que ele pertence a uma nova espécie de felino, após cerca de 100 anos sem descoberta semelhante&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQYkxydkxoTVA3bTA4dGZCc3pGYloxUG1CV1o2RGl2bnhiQ3JOdEJ3X3BLRVJCQmhrbkJwbUlJZ0s4cTdBdXo3MTRzOW9id1pVTFlkajJTMjlNajZFaTd1emE4bENIcGJtM2FIUE9ERTMtUUpWdlVRNlRxNTdXTjhBYW5PMWNUM201OENxS01TZnNvSUhfTzNaUV9qLUNqNDBkeXNZdjNWREhoYVJ4bnB2U0xheG01QzQ2X3lMazdISlA2SnhySWFmN1FzRU9pR3BNc0JYU0FCcFF6a18zMzZiWGU1NFNud2p2Z3ZiM3RnYXROSjRsYXgwdmM4ME5EOUNtVmdzb3MxdFF0TjFFRG5BYlJic3MxSjB0S1k4S2FCenhVSmc3VGRXc0hWOGFoVnJKWk13VjhkNmRpZm5CWDUxa1ZNWnlxbHQx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "92417bd96790",
-      "title": "Bebês de 4 meses reconhecem vínculos afetivos por um sinal surpreendente, revela estudo - Rádio Itatiaia",
-      "published": "2026-10-12T00:05:35+00:00",
-      "summary": "Bebês de 4 meses reconhecem vínculos afetivos por um sinal surpreendente, revela estudo&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRkp4U3RkWWFIS0c1YmctLVpQQ3MxdXIyUVZzbkRnVUNEeF9ma1Rib1hKWl9YUTVpbHNpVmphYlQzYzJobVVVZTlYd1RzeEpWV19lbnFhVlBqTG5naFpydmo1ME1PTncxV3VjYUUyb2EwMFNkcHpBbGdaX1FqUlY2S1JiNVdqQjR3QXBMSTdpbHgxSkJlVC16MTVlYWhUd25sRTd5OU9GNGxsRUk3c0Z6ZzRlSVp4SjNrY0J0OEJrMA?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNS14bVVQbmdTcURtS0w1YlhNZFR6ZVM1MlhLM3RpSWtubFBtU0dpTVFCeF9XYUFVa21aNVF3c1BfdEJFdmVYY3BZdmJROGFXZk9LUTBrcVRzZmNXZ25kalhxdFF2anR4bkhyMGd4VlFEVTNIR2NHWXZIckhLUGVZZHpMU05jbFpJamlOXzB6d3g3V2dGcGNZeEwyQWlpdm1ud19ZUkxCc3RJaEFHZlVGLW10VUdzVFRrZ0FUU3RnMUZ2WjNvLXozZ3RWZ2hLQURDQnpkRW1SNFZCbXpNbE1IckRNMGFIcTZoZFHSAfgBQVVfeXFMTl9ISXgwX0NqTEs4YTc2TTBHTEdqZGtKYzdGYXdkUzE1b2JlaVFVanU1X0F2b1pfLWpjM01EWmhjNVFoYk1ZOGFPUHRYS2ZFemw3bmFWazlFTG5VcWtvZ1c3SzB6UkZ0Sm1uSHBRT2NvTkl6WnZwSGhzM1pmWEpuM2JFWHhWRGg3SFhZZGtKQngtUzMza0Z0OGpNbG1mU2tVVlNZTjJxUjVxbXBBTmptQVI0d0FUcFR2cWR1b0x3dExQUjEtRFdXWTJvQVp5RUwyWHpxdWMxb3ZHQ3JKVmJnMnlNelhnUXpwMjJCdGZHMERLUmNfRl9yems?oc=5"
         }
       ]
     },
