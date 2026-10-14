@@ -1,19 +1,67 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-14T11:23:35.528181+00:00",
-  "total_fetched": 91,
-  "unique_count": 90,
+  "fetched_at": "2026-10-14T16:44:38.480458+00:00",
+  "total_fetched": 90,
+  "unique_count": 89,
   "health_related_count": 28,
   "news": [
     {
-      "id": "766e54fdd2fc",
-      "title": "Cães grandes X pequenos: por que um grupo vive menos que o outro? Novo estudo explica - O GLOBO",
-      "published": "2026-10-14T07:00:00+00:00",
-      "summary": "Cães grandes X pequenos: por que um grupo vive menos que o outro? Novo estudo explica&nbsp;&nbsp;O GLOBO",
+      "id": "eec71e7a5883",
+      "title": "Ela recebe até 500 picadas por semana e já passou por experimento com 250 mosquitos de uma vez – e tudo em nome da ciência - CNN Brasil",
+      "published": "2026-10-14T14:47:41+00:00",
+      "summary": "Ela recebe até 500 picadas por semana e já passou por experimento com 250 mosquitos de uma vez – e tudo em nome da ciência&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTDZUekExSGtDdTM0NmxhYTVVQjdCZ05xUjg2Y0puSWw2am1rMWRtdS1NZjJTVW02OTR4UnFWMDhMWEJLZWx5NC1QdVhIeWt0aTJHWF94Y0EyV0JoWjcxRXRmZFJDd280LTdMbldCclNZWGRWOUFwT2hDS1FhR3VhcEpjOERVVzF1SjJmd1Mzb0JybDlOTC05V2Rfbkp3aHFCWDN4ZDJ0WmJ2RGJxSW54ZE8zc3d5eGlCQzhCSThLMzBvRzFwYjlweTVVRnA2dlJZX3ZlOENB0gHkAUFVX3lxTE5GRGktREw3V3RZM19Wd01DNlluYnZvTW9Qd1FGU05zaFk0UkZnUmRNem82V3kxOHRQd3JCTjdFRmpkUHpyRlZyYksxQkszeWw0dE1LOU4yQWc3d0c5R1FBSXllUzV5NHhkMVgwREx4dHJDeTFvdGNGeHMyNGIwb1FIRmFlVW5nejJJOFNXdFRNSjFlX1hIQk1TWTRJeGljdEhmNUlqMkdMWHZNLVZpRmt5Z2hyaGNGVTJjVGR3bXlCOV9QRmhNRko5alYzZ0RacUNvaXNYUG0tYWZhOTR6YThHbGhoWQ?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSFFkSG9NN1JlSGxtTmQ3aDlGZjc5TlFJQ0tra0FDeTRjVlpzOGZaVzJYWXlMbkdDNmhaZXNxWGpOb3RqSzdhNnhCV0d6MkdDLV91YTFzWTFNNHlON1k4TWY3aDZvVmVRY1dENTh0Q0hRRE0tM3JwVndWNnJKdGtWMjFTMmx4MXBpaGVYZU1kQjhyQlVONjAwQmYtOHhmTllYSUI2SzZSRG4zU25HVnN0RTF4aFVQaU4tU3JmbHFRTVA2bE9oajhMbEtxV3NwZXRIU2MzNUQ5b3gwVFJFQVhzWnk0RG0xMUhyV0hZbWhPWTN0TVhsUHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33d564ee2899",
+      "title": "RN abre seleção com 42 bolsas de pesquisa de até R$ 5,3 mil; veja como participar - Tribuna do Norte",
+      "published": "2026-10-14T13:28:53+00:00",
+      "summary": "RN abre seleção com 42 bolsas de pesquisa de até R$ 5,3 mil; veja como participar&nbsp;&nbsp;Tribuna do Norte",
+      "sources": [
+        {
+          "name": "Tribuna do Norte",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTlvSW8wbVYxZDE3TS1mZzNUTXJkbk50NnJqUWpndUJtUjYxUDFGY0VwUURXdkhRc1ZnQ0xwRFp5WEI4a1dzTXJrcTZYZ18zb0lwa1c1YllCdkt0UlRyanAxMjdVVDB6QlEtV0dYOWxfcW1xc253NV9hWWpPbzU0V0tDeTV5WjJKcU5jX25YMXBrZU91T2U5R0dQRFJVYlMzWkd1bVZkYUFaOF9JakhuT1JWeTVpQkI0cGYwaFNXeXZUdmhZNUI4Wg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "390c24591f9d",
+      "title": "O que vai acontecer dia 13 de novembro? Entenda estudo científico que prevê o fim do mundo - GMC Online",
+      "published": "2026-10-14T12:16:00+00:00",
+      "summary": "O que vai acontecer dia 13 de novembro? Entenda estudo científico que prevê o fim do mundo&nbsp;&nbsp;GMC Online",
+      "sources": [
+        {
+          "name": "GMC Online",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmpWMUtfVnowRjR5dGFBdkQ0VG9KZThwQ1ZERkZ2eno1RHNOWU5LamJrSll0S1VzeG54ZFJDc08yZEVRazJpaVlHOWNuNnp5TzlqMzFZQnlJYk40ZW41aXp3bGVXR2pRYnFiNVJvM3FUb1R2SWNEaWMtRXFFNDdpWGdJWDRvVmpzQ2ExVGRhOGV0QW5uU3NJZkdtajNkejlLdXfSAacBQVVfeXFMTm5TV20zTVJFQ0RBczJaVkdrRVc5SVpaS3J4d1ZsbEJZRUpUSENHanhkQUh0MVhpdF9UUHZ1eUpfb1UzbzQxUkl6bGM4T0ZaTHZnRFdGRU1WYW9jY3JtRUwzZ0ROSU16RG9ib0ZtNDkwSk1VRWdtYWtVRmJfODRFQ2phRjM4VWhEc0hBQzVtMk9LTGVnUEsxYWxrX2tnZm1tS19MZWdOejQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab8e8f4a2c4d",
+      "title": "Nova técnica reduz dor de artrose no joelho por um ano, mostra estudo - UOL",
+      "published": "2026-10-14T11:26:02+00:00",
+      "summary": "Nova técnica reduz dor de artrose no joelho por um ano, mostra estudo&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVzBFX3l4UkdPQldHM1EwRVZ6YnByWnVNSHZra0ZLbWJkak41STNhOTZHWHlmT3VhOVRhekJDOGZmZE1oSEF0NHNfNHF5bVBMaW5OSEFVU2lscjNrX2hsRXp4VUNrb29WeVFoUGozZE1sdFN0N254VEVYYWJId1lIWUt6a19uc2lvdzZBbmh2LUxDVUpFOWwyMWhhcUZ0SFBjSE9aZ0JvbUNpYVc5NGJacVdKRWVqbWFPdFdFcmZiWEpsanZtOE1kRlF0czBRWmowallz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a17e3fa5cea0",
+      "title": "Uma em cada cinco pacientes escolhe sedação para colocar DIU, aponta estudo - Jornal Correio",
+      "published": "2026-10-14T08:30:00+00:00",
+      "summary": "Uma em cada cinco pacientes escolhe sedação para colocar DIU, aponta estudo&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3pUMUR2dlIwNjdWYWo1RFlVMExiOEdRYzBwQWYxRkhQMjNPdTNOY1BBcV9tQzlHcTh1aENyTmJQRDN4cTZJY3dSVjF5V0o2T1ZoS0JBbEFrTnZPSUEwSVFYaGVNNWNKd3gtZEkyajVzTzBkbmVJSUREUWNMY2tqWWQ3QmJOQVVfaXBXd0xFZEdaUGo3VXF0SER3Q2NZSVp4OGF6UGp0Y0U0a19rbWtPWTlLX0xfN05vMy1Z?oc=5"
         }
       ]
     },
@@ -42,6 +90,18 @@
       ]
     },
     {
+      "id": "d5a310df45f9",
+      "title": "O significado estatístico do empate técnico e o impacto da margem de erro nas pesquisas - NSC Total",
+      "published": "2026-10-14T00:44:33+00:00",
+      "summary": "O significado estatístico do empate técnico e o impacto da margem de erro nas pesquisas&nbsp;&nbsp;NSC Total",
+      "sources": [
+        {
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRG4ybjdmTS1kU1EwckY4a2QwQnFCZDdIOHphTEJBQThEd1UxVVpFbkxhVE9SaWJncHlhNjRYaHQzZkxjaG5pdFItYl9ycVJ0ZGh3SXJNSVV2a1kwajNLOTNmRTEyc2s5UjhhYlJWQ3ViemNiOUkwa2dKbHRSNEhYVWpEcmJYcDU2WHAyMDhya3RuQm9PQzhKUmpUdTExS2dmclNUb1VVdXpwWFdabExfSXd0VldLUmtXcGJCV1FweXNEdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6de00233f460",
       "title": "Pesquisa científica sugere que animais podem ter surgido 200 milhões de anos antes do previsto - CNN Brasil",
       "published": "2026-10-14T00:36:55+00:00",
@@ -57,7 +117,7 @@
       "id": "d2a89b3c050d",
       "title": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento - UOL",
       "published": "2026-10-13T23:08:25+00:00",
-      "summary": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento&nbsp;&nbsp;UOLDia Nacional de Prevenção da Obesidade reforça importância dos cuidados com a saúde&nbsp;&nbsp;G1Obesidade pode ser prevenida? Aprenda o que está ao alcance de cada pessoa&nbsp;&nbsp;D24AMObesidade vai além da estética: entenda os riscos silenciosos para a saúde&nbsp;&nbsp;TerraObesidade: Pomerode oferece acompanhamento gratuito nas unidades de saúde durante todo o ano&nbsp;&nbsp;Jornal de Pomerode",
+      "summary": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento&nbsp;&nbsp;UOLDia Nacional de Prevenção da Obesidade reforça importância dos cuidados com a saúde&nbsp;&nbsp;G1Obesidade pode ser prevenida? Aprenda o que está ao alcance de cada pessoa&nbsp;&nbsp;D24AMObesidade vai além da estética: entenda os riscos silenciosos para a saúde&nbsp;&nbsp;TerraPesquisa sobre a saúde dos brasileiros: 6 em cada 10 acham que estão saudáveis, mas dados acendem alerta&nbsp;&nbsp;BoaVontad",
       "sources": [
         {
           "name": "UOL",
@@ -66,10 +126,10 @@
       ]
     },
     {
-      "id": "6ac712e02729",
-      "title": "Neurologista alerta para sinais de AVC e explica fatores de risco para Alzheimer - ac24horas",
+      "id": "5b8ab18a9dab",
+      "title": "Neurologista alerta para sinais de AVC e explica fatores de Alzheimer - ac24horas",
       "published": "2026-10-13T22:09:49+00:00",
-      "summary": "Neurologista alerta para sinais de AVC e explica fatores de risco para Alzheimer&nbsp;&nbsp;ac24horas",
+      "summary": "Neurologista alerta para sinais de AVC e explica fatores de Alzheimer&nbsp;&nbsp;ac24horas",
       "sources": [
         {
           "name": "ac24horas",
@@ -78,14 +138,14 @@
       ]
     },
     {
-      "id": "cdad087a581b",
-      "title": "Sem prova escrita: seleção da Sema oferece 38 vagas com bolsa de R$ 3,4 mil - Primeira Página",
-      "published": "2026-10-13T20:58:40+00:00",
-      "summary": "Sem prova escrita: seleção da Sema oferece 38 vagas com bolsa de R$ 3,4 mil&nbsp;&nbsp;Primeira Página",
+      "id": "c5d6859e8f80",
+      "title": "Vacina de herpes-zóster: quando tomar após infecção e por que não há no SUS - UOL",
+      "published": "2026-10-13T19:58:43+00:00",
+      "summary": "Vacina de herpes-zóster: quando tomar após infecção e por que não há no SUS&nbsp;&nbsp;UOLVacina contra herpes-zóster é associada a menor risco de demência&nbsp;&nbsp;Poder360Vacina contra herpes-zóster pode reduzir o risco de eventos cardiovasculares graves&nbsp;&nbsp;TerraCobreiro pode começar com dor antes das bolhas; entenda os sinais e como prevenir&nbsp;&nbsp;Jornal CorreioSintomas do herpes-zóster antes da erupção cutânea: sinais precoces e cuidados&nbsp;&nbsp;Kantesti AI Blood Test Analy",
       "sources": [
         {
-          "name": "Primeira Página",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDBoRnRzNm5relozVUo1b3R2dzhxNy1zVThqeG9PMzM3U2toME05Sy1vNy03ajB3SWFrVzl5NE1scUphTC1MU3hJa0JTM3RvT3duXzdQNUpHazkwbWRZVWJMMDNMRFpzSXdLUWJWTWJTZGUzU0xtZHRwTVhwR0dVWXhrWmhvWTZYajBLM0dHZ1p1OHZCQmFCRFFtOVlzVDNNcTdsd3JxNllWUjdnRHpNblphYVhXNGFXaTBZNkVLV083SktMRThVTkY5c0QyMnh5ZVlESnh4alByblhzTVRF?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVVo4MnIzT3MyQWljTDhIUzBkR3ZEX1hYWHNFU1JpWjN4dUFjcF9pT1VPU25uQXlYWFdOQVZkYjhjZHRyU1BzeEpDQ1NEMGdhOHdEZkxfTmw1Z0x2UlVnQk9oNEFWUC1PQWdUc1ozQ29tNTRhWk9va1VZbVI5cGtuZ1J4eFBMY1VNQWI3d3VWTkNKM2lScmc2bmdUQzRIdVBVVUFrS0VlSUtud3V3bFpaRjQxR1g0WkFkbUUxNWwxOXV0MVdheXYzNWJieWhsMHBNZ2dROQ?oc=5"
         }
       ]
     },
@@ -93,7 +153,7 @@
       "id": "4abdc6e0c8dc",
       "title": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE - Diário do Nordeste",
       "published": "2026-10-13T19:52:28+00:00",
-      "summary": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE&nbsp;&nbsp;Diário do NordesteEusébio e Maranguape iniciam implantação do Método Wolbachia contra arboviroses&nbsp;&nbsp;O POVOAutocuidado e prevenção em saúde são temas em roda de conversa com mulheres no Centro de Oficinas&nbsp;&nbsp;Blog LondrinaArapiraca se prepara para soltura dos Wolbitos no combate à dengue, zika e chikungunya&nbsp;&nbsp;Home - Prefeitura de ArapiracaAnápolis instala novos dispositivos",
+      "summary": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE&nbsp;&nbsp;Diário do NordesteEusébio e Maranguape iniciam implantação do Método Wolbachia contra arboviroses&nbsp;&nbsp;O POVOMétodo Wolbachia: Crato recebe mosquitos ‘especiais’ que auxiliam na redução de arboviroses&nbsp;&nbsp;Portal MisériaSaúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya&nbsp;&nbsp;Goias.gov.brAnápolis inicia soltura de mosquitos com bactéria contra de",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -102,14 +162,14 @@
       ]
     },
     {
-      "id": "576206627388",
-      "title": "Pesquisadores vinculados à UFRN aparecem em ranking internacional de cientistas de destaque - Portal da UFRN",
-      "published": "2026-10-13T14:50:15+00:00",
-      "summary": "Pesquisadores vinculados à UFRN aparecem em ranking internacional de cientistas de destaque&nbsp;&nbsp;Portal da UFRN",
+      "id": "331911ba461d",
+      "title": "Homens costumam descobrir câncer de mama em estágio mais avançado - Agência Brasil",
+      "published": "2026-10-13T17:20:00+00:00",
+      "summary": "Homens costumam descobrir câncer de mama em estágio mais avançado&nbsp;&nbsp;Agência BrasilHomens descobrem câncer de mama em estágios mais avançados&nbsp;&nbsp;Jornal de BrasíliaSBRT alerta para diagnóstico tardio do câncer de mama em homens durante o Outubro Rosa&nbsp;&nbsp;News RondôniaCâncer de mama masculino: risco aumenta com a idade, explica especialista&nbsp;&nbsp;Blog do JuaresCâncer de mama em homens: diagnóstico costuma vir mais tardio&nbsp;&nbsp;novafm96.com.br",
       "sources": [
         {
-          "name": "Portal da UFRN",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWJiOWc2M2RuMWpNcFB0MEkzZjZDUTF4REFHSXoxYlYtZVZBTlpkRVN5NjExem1NU1dnX2JVcXNmRUJLS1B1c3cwWkhndXJBWWdDWTUtZzdfbmt0OGl5Tko4RXc1dVBURXhrNHQ5RlVLYkRQd0hLdWpHYVlhUy1uZ0NaX2lkNGVtMTFXNU1PVDRPbk9WYkdmd251dHFUbTlXS203ODBtZzFxT1RnRXRNSnJoclN5QWxFS3I1RGs0YXd5Yms3VEFMQ1lma2NIdWJuNWc?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYUsxMm9nVUs2bWpMeHlaUDFUVHVFd1F4SU5GU0pLLU5Id2oycmM4RF9sV3lFS0Z2eERnLUhzcUJPX0FhT2IwRU9iOHZfbWRZTWp3MGx4VDVfVC1QTS1RYVowSnk2NFZZYmxOejg5YnpvWWZjN1p4c0FSbXdvY2pwWGFfc3lxZ0VBUC00UHhybzg4emg4emJFZTgzekYyLVJpbTktQnk3bHk2aDFQMUVxZFp0bWhfelI4OUhTSA?oc=5"
         }
       ]
     },
@@ -117,11 +177,23 @@
       "id": "6e0d79a069a6",
       "title": "Estudo liga canetas antiobesidade a descolamento de unhas e queda de cabelo - UOL",
       "published": "2026-10-13T13:42:19+00:00",
-      "summary": "Estudo liga canetas antiobesidade a descolamento de unhas e queda de cabelo&nbsp;&nbsp;UOLCanetas emagrecedoras são ligadas a um inesperado efeito nas unhas&nbsp;&nbsp;VEJAEstudo associa Ozempic e Wegovy a alterações inesperadas nas unhas e cabelos&nbsp;&nbsp;GloboEmagreceu com a caneta e o cabelo afinou? Veja como cuidar dos fios&nbsp;&nbsp;Folha VitóriaCanetas emagrecedoras e a queda de cabelo&nbsp;&nbsp;A Tribuna",
+      "summary": "Estudo liga canetas antiobesidade a descolamento de unhas e queda de cabelo&nbsp;&nbsp;UOLPerda rápida de peso gerada por canetas emagrecedoras traz riscos, alertam médicos&nbsp;&nbsp;UOL NotíciasCanetas emagrecedoras mudam hábitos alimentares e desafiam bares e restaurantes&nbsp;&nbsp;G1Canetas emagrecedoras são ligadas a um inesperado efeito nas unhas&nbsp;&nbsp;VEJAOzempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMkZnSlRyNFRPMVlnUUNWVkZMUzEzZ1g3SDRRTXBjOVFDN05ib2Z2Qm5zSnpuYmMyMnhyRnJ0Y2lkMXl5Z2MxUWlHYjk2OFdDNk9pWlFCMUlwN0VOd0M4UW5tNnRmaXl4OE5CLU81c0cxblJDcGlxVjhyMTRXMlY1ZlBoWG5CVjJHajZ2cExYQldGQVRHeWlSak5walFGUUp0M19fSlVwZHJZa1YzRjUybDgyWUUwSmllYTRuaHZzSzIySWVZQmJaSkFWbFM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b4eb5de8b903",
+      "title": "Vermífugo associado a remédio contra câncer pode frear tumores resistentes - Metrópoles",
+      "published": "2026-10-13T13:32:00+00:00",
+      "summary": "Vermífugo associado a remédio contra câncer pode frear tumores resistentes&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEpscWZ1VkRHU3JRTkViOUcxdTBRQUxBR1RmRzNxUUFCZ3MzdlNqMnRnNC1oRFhSbmFoaG14TGdrWFJJcDR4ZzZGc0hibGVLdTVnOHhiMFpCcGtlNzFJYTlPVjZ4SVc1cGdKSXB2U3ZRNW82aFNiT3d5TEVualBZbHpUaVA1YUlvaGxUWGtuZ3lnaVhsLWxCSi1WbnpSaGg0OVRmYXZnQmozUXc?oc=5"
         }
       ]
     },
@@ -134,18 +206,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RUE50a1ZMT2NWQ2dLM1NmWFZJU1pGc2puZXJ3ZUJEUXM1RVFHbDJiZUdERHNGaGxkTXNHemhuM3R3ME8tTURiTzU4NFladUoya0ZpQVhrSk5WbGhPUnFTcWVGd9IBaEFVX3lxTE82cXdvYlVoVHRlQ2pWQnBRMkdZQnlZdGtNQXJFS1VsNXRndXV3blR2THRaZ2pFOGZTcXlacEtQQkJmSTJZSWZHMVI1ak15aFY5dUhrcU82NlprWjFwSDdZaDB5dUduTjZU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c641d701ad52",
-      "title": "Pesquisa encontra organismo que\nquebra ‘regra’ do código genético - iG Último Segundo",
-      "published": "2026-10-13T12:32:00+00:00",
-      "summary": "Pesquisa encontra organismo que quebra ‘regra’ do código genético&nbsp;&nbsp;iG Último Segundo",
-      "sources": [
-        {
-          "name": "iG Último Segundo",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkEyVjNUeVE2a2d2d3FKRHBkU08tM3F5MzZpY00yTGJYczBpcnc0eXNjd0w5dUthUlNRcHcxSGZiUS11bThLaFBnNWFkWG9DbU9fSVJLU3NaR0pGcHpDckowV2lfYzVUYVAwN2p0VGoyU2hBdF9tV01TMXc1TklETnd2bFNQalJyTnlzQ21NMzRxb2VoLWNDTVFLLVk0YWZucUZYck5JZUtqeU83SzhPb0lvT0kwTm8xOEtwalRfWUtNWFViVkHSAcsBQVVfeXFMT2dYbmRZQmpBVmc1VkhKU2ZrNE80V2dtRHltb09WckxVUERyaE1ndWxNZHBmNmxHajZKbWNTaGM4RUhmbkhCLVpGcm5BdTRXQzBKV1FEc0QxSzhzVUFyNDJneEtVSUE2N3puRDNqT1JwMmdJZmo2S2FOMG4xLUVVODJYbVZNWWZHRFpOcDRqNnJ3NGNJNi1YTy04Z1R0MHZDUllSSTJRdGJvZHJwbFpieGp5VGp4M19sQ0Z3eVRxS09FMjhvQ3A4b3lJVkk?oc=5"
         }
       ]
     },
@@ -198,18 +258,6 @@
       ]
     },
     {
-      "id": "2e5326f0bc48",
-      "title": "Dieta vegana reduz gordura no fígado e melhora controle do diabetes tipo 2 - Correio Braziliense",
-      "published": "2026-10-13T08:00:00+00:00",
-      "summary": "Dieta vegana reduz gordura no fígado e melhora controle do diabetes tipo 2&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUzdNNlBBcWZWOXczUmZudXRfV0lfbXJqSVdrUUpBQzN0UHQ2UmtZczAyV1pVbWRkYmxnRGVJV2FDbk9sRDZ0aHp3QzVSejZBVDlwNWM0VVZFQU1BcU5HaFphTmVUNjJLRDZOWWJxUFpQb0I2am9yRkRGR3ZTY0RoUE13S2ZWMTVRRDcyd3l2eUxvSzBCQVM1Z2txMjNPSVRTcFRzMzB2ekR5M1JhekdfdDE4N2pBb0dOU2tPWHN1d2dWRDhDcHg3ZHprbHItNnNNeW55TG9PZ0FDeUs0aE9hYUU2WdIB6AFBVV95cUxNYlVFRjM4WXJ4cUhXMXQ5dU5LX2poWXpFT01JVE9nOXNSRk1McFMzaUZVbkgwNHQxSm42SGM5bUZSN3N4QlYyNVhqbzZrSnFOWE9oWkMxd3dfOW05M2ltek5BMU9HaU5sbXB6U1U1ZE83Ri1DbHJ5ZXd3WEhQd0kzRlkxM1R1ZmgwQUhXRURDOU13WHZtdDVndFhjV25vdUVTdU1ydDlJbFJMSVpKRzRFNnM2U29CY0tnOUxUTzRWMUFBNjRtVkk4bDlhLUsyTWJFQUs1UmFxWjIycVc1SWFxS1NvaEZfaW1I?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3a5e99210e1e",
       "title": "Os três pilares para conseguir um sono reparador, segundo neurologista - O GLOBO",
       "published": "2026-10-13T07:00:01+00:00",
@@ -246,30 +294,6 @@
       ]
     },
     {
-      "id": "25f079260118",
-      "title": "A 500 metros de profundidade, pesquisadores encontram um tubarão desconhecido pela ciência - Correio do Estado",
-      "published": "2026-10-12T11:49:00+00:00",
-      "summary": "A 500 metros de profundidade, pesquisadores encontram um tubarão desconhecido pela ciência&nbsp;&nbsp;Correio do Estado",
-      "sources": [
-        {
-          "name": "Correio do Estado",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMW4wLWJfWkRIYXVyVlJXMUxOQ2xUWW5JbnJzX3dtd0I0MUpZX3BfdDROX3dnWlNaRTRBRVpDT0lobUNyalloR2FwZTlZcDRySGxKU2RiMnZvVmpiOUxLNEw5dllTVGwtSWROWXV4S2VQcTNGc2FGWVpCYzcyYlo5dnBRU2FBTWNIY2stM1lpcC1raXZjSlpTRml1T0t0T2FZQzFlT1pleV82YjM0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c2f608144be",
-      "title": "Canetas emagrecedoras: médicos começam a indicar para tratar alcoolismo; estudos mostram a eficácia - O GLOBO",
-      "published": "2026-10-12T07:30:00+00:00",
-      "summary": "Canetas emagrecedoras: médicos começam a indicar para tratar alcoolismo; estudos mostram a eficácia&nbsp;&nbsp;O GLOBOSemaglutida pode reduzir consumo de álcool, apontam estudos clínicos&nbsp;&nbsp;CNN BrasilCanetas emagrecedoras podem reduzir consumo de álcool&nbsp;&nbsp;SBT NewsMédicos receitam caneta de GLP-1 para tratar alcoolismo&nbsp;&nbsp;Ver-o-FatoCanetas emagrecedoras são testadas para combate ao alcoolismo e vício em outras drogas; saiba resultado&nbsp;&nbsp;Bahia Notícias",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR3BIR2g1b1dhU2p5c09FdGdZbF9zaUxqdk83RENpRGIxd2FjM2Q4b3kxdHpyQi1JN1IzWW5ac0hKRHlFLWJTS3hySzhPMnZOQnlTUEtNaGE0Rm0wY2hUbl9ZNWNvbnN3SlpuWlYtVWNQM2hmYm54Nm5WMmZ3OHR4SUlLYjJMTFMzbi1KN0JOYlN2OHhBTnFWbDFSWkoxdHpSbTJmZ0paNXFMSk5wdy1UbFNxVlp1djd2TFdKWlRTckZ2LUgzeU1xN3BILTBqbjdtYkphdlVYbFNqQ1B4cWxOd1lVRzR3SzdX0gH3AUFVX3lxTE1zX1ZTZUhwLXNkaDFTaGVZWTUxbjhXSzdMV0dLRjZJVE1OdUQtR0dJRTVWZUMtS2phOXVSWFdYUzhEaEZfMUNtZGY5S0h4NDI2Rm03RHB3VVgxR0JVTkNiYzQzaXQ2Ni1oU0FBWXFlOVJfMkU1UElhSzNVWTVBX3h6U3lUeGR6TWFOYzBZZXJEMFFrTkFDX1FrQU5kd1FMSXRyV1Zub05nbnJZRG5tbFlPLU1fbkQtZEZMZGhFWktMVXl0V3ZCTElPekdWTzNJT01NRU40ZDhZR05FRDRRNWZsRUpvcmpfYlFwVEprTjI5cFppRmpRX00?oc=5"
-        }
-      ]
-    },
-    {
       "id": "84aee29e71ad",
       "title": "O que é paralisia de Bell, doença diagnosticada em humorista que também já acometeu Fernanda Gentil - O GLOBO",
       "published": "2026-10-12T07:00:02+00:00",
@@ -297,23 +321,11 @@
       "id": "82c4417e0e12",
       "title": "Diagnóstico tardio e dificuldade para erradicar bactéria H. pylori elevam mortes por câncer de estômago - Folha de S.Paulo",
       "published": "2026-10-11T07:00:00+00:00",
-      "summary": "Diagnóstico tardio e dificuldade para erradicar bactéria H. pylori elevam mortes por câncer de estômago&nbsp;&nbsp;Folha de S.PauloCâncer de estômago deve crescer no Brasil, alerta projeção do Inca&nbsp;&nbsp;Diário do Centro do MundoAção educativa no HC aborda a prevenção e diagnóstico precoce do câncer gástrico&nbsp;&nbsp;www.gov.brCâncer de estômago mata milhares no Brasil; bactéria H. pylori preocupa especialistas&nbsp;&nbsp;ncnews.com.brCâncer de estômago: azia persistente pode ser sinal de",
+      "summary": "Diagnóstico tardio e dificuldade para erradicar bactéria H. pylori elevam mortes por câncer de estômago&nbsp;&nbsp;Folha de S.PauloH. pylori responde por quase 70% do câncer gástrico no Brasil&nbsp;&nbsp;Afya | HomeCâncer de estômago deve crescer no Brasil, alerta projeção do Inca&nbsp;&nbsp;Diário do Centro do MundoCâncer de estômago: azia persistente pode ser sinal de alerta; veja fatores de risco&nbsp;&nbsp;O TEMPOCâncer de estômago mata milhares no Brasil; bactéria H. pylori preocupa especia",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNU5WYVgwbUZ4NEsxTG03ZVoyRWgyQnBIaVhmYWRmOFNsMXB6SlN6VUkxYVZCc0Y0cHM0b09tZEtTODBWTlJ0LUJkRksxbGdSMUtlTDRlcU5fU0h1S0EtVW9SajdOMTRudEtpSlZYUFZ4X0hsQTFIcGszT3N4Yk1yXzNIdUduY3JQcktKM043aDV1Q0VWM3B0NUJPRXNhcFFXTzNkdl9mTWhybWl0U1RGX0ZpVGw3Rzh1bU9NQlZITWE1V2c4REdpVmljc3hnR055dnBUX0V6RW9zbE40eW0tWHJqVEVRR1c3QWxyc3JRME5NZzdOc1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "45f6d58619a1",
-      "title": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira - Agência Brasil",
-      "published": "2026-10-10T19:37:00+00:00",
-      "summary": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira&nbsp;&nbsp;Agência BrasilAnvisa autoriza testes em humanos de vacina brasileira contra malária&nbsp;&nbsp;G1UFMG inicia testes em humanos de vacina nacional contra a malária&nbsp;&nbsp;R7Anvisa autoriza testes em humanos da vacina brasileira da malária&nbsp;&nbsp;Campo Grande NewsAnvisa autoriza teste em humanos com vacina inédita contra a malária feita no Brasil&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeERfR3gteVRPT21ZR1Z2VnpIc3dtZm5aRjcxSTRZWjU3aXU4Y09wQ1VVWENWQXZ4aHJQcnZySVZWMUhlMkRMY05TRHZsMVM3czZ3dkswcEdYRTVsZ1dMN011S0RoUGwxLWRkQk1IVDBKWWlXeEZhcXd0QVVEYU9hNTVTQkVnMU1KNGlCU3RtdEJzNnJXNzdmT1FoT0JfRmhSeS1HYjNDbnRkc3p2V1hmcUktakhlZFFRdkhHag?oc=5"
         }
       ]
     },
@@ -326,18 +338,6 @@
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQkRvWk1RaVFGc3RVcW1uR2NhYzFOQVRSNDVjdnlnOFVHRUtlLUY4SkpJUWU1a0FBRFdVeVR3RGh6R1JYbHl3UmlCbVZpTUpoMHAxd2h6cGR5a3FqeVJiYVAtV3daUzduLWhQZFdncG95elhaNnVxQkZqRHZ5VWxTZW85cklJQ2hXaWQ3Z0VCQlJEdmlhcTJPaEhyOGtDVDZvUlR0anAxbmNPRjR3bVJYci1BMUhJNXJ6UUp2dlNpbTdVRlpGSGhJU1RBeExNdmJlekJvUTN6VVBMWDNKQlZ2bUV6djhhLV9QMTV6NzJEam1iSFZNR3hV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd8843b1e5df",
-      "title": "Além da rentabilidade: a lógica sustentável na gestão patrimonial - CNN Brasil",
-      "published": "2026-10-09T13:28:44+00:00",
-      "summary": "Além da rentabilidade: a lógica sustentável na gestão patrimonial&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHQyaHJOcXZ6WklITWFrTWtLTUoxOW5mODdmbWJvNDZvUUpEQXFKRlNaVzdqb0RuenNPY3NISTJWZzNwZFJnN0xNMW52d3Z5VTRBWVNOdG1oNi1zaDkzSTJ5WUo4VHZvZXNSaVVucXUyRWtuTUE5YTNOS3dZMVdPWkdpMVdvb1VobmhjUmpfMWVJVF82eXpwRWZtaHdEb3AwU1Nua09UQVRpUXg3WTRkQi1TOS1GSklPUzZOQ1BsVDM4U2c?oc=5"
         }
       ]
     }
