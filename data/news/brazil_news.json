@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-14T16:44:38.480458+00:00",
-  "total_fetched": 90,
-  "unique_count": 89,
+  "fetched_at": "2026-10-14T21:21:31.726336+00:00",
+  "total_fetched": 92,
+  "unique_count": 91,
   "health_related_count": 28,
   "news": [
+    {
+      "id": "44fd51d0ce71",
+      "title": "Adolescente procura médico por inchaço e descobre dentes nascendo na região do olho - Exame",
+      "published": "2026-10-14T15:33:26+00:00",
+      "summary": "Adolescente procura médico por inchaço e descobre dentes nascendo na região do olho&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSV9qWm1tNl9WMUprTGUtSWJYWXZFVno3VzBmdGJUa1ZrNFN4TEhzbVVZcVR1QjZ3bjJEX0JTWUl3cjA3bllmRVpPRFVuMWlBQ3VyZWUxS1AxbXV6ekRiNWplTjlTT0xZV3pSYWdFT0RhYm9pdzN4ZVR6YW5tLS1QVnBfUEhyampxeVF0SnlIbUwtTTlHNUdpTzM1Y2tUZTNkdEJWUEtUeGctY1FtemdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "91b0cb71d2d9",
+      "title": "Elefantes conseguem reconhecer pessoas só pela voz, aponta estudo - Primeira Página",
+      "published": "2026-10-14T15:12:40+00:00",
+      "summary": "Elefantes conseguem reconhecer pessoas só pela voz, aponta estudo&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOVQxQ1dQQVg3aTN5WFFGOTFYX21hQXZzSkV2X01kSnFMZ2t6QWlsWUFHMlpqMEZQT0tCenZiOHZoTVN5MWxIbm1OaTZUQUE2ZFBNMzBSSkdZOEo1dFByOTVIU1NPdnYycENQTEZGdWh5R2FKYmtpS2dwd05XemVkdlVGNlJsTW1kczVGMkNaV0taZ3NNMlZZTS1hSUFKTkRVOFh1WXVSUkZ4M2FzbFI0WXRjZVBPYVk5Yk83TUtWdWtnSVhydGFxVzdscmNkRVZFc25aMG5xTVRMMXdYcXlwUExfNUs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4aedb9c6059b",
+      "title": "Inteligência artificial desestimula ações contra mudanças climáticas, aponta estudo - VEJA",
+      "published": "2026-10-14T15:07:17+00:00",
+      "summary": "Inteligência artificial desestimula ações contra mudanças climáticas, aponta estudo&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYktPNEFXUnJOY3hjZnVDSXBYbXRvb250aTc2MmZjQXAtdUNMWGJjWFg4clRrN0FzczMzMGkxRHlZY2ItWERFUUtCYjFRZHB1cEZGRV83OWc3eWRNeXVibTltejJsbUtSZ3c3LWpJWnVHVGlfNk5McU55LTZ4b1FzeF9fZEVScmYyR3VLXzFha3lTT1VyME01M1FzYm5xS2x4VEFyM0hYbjZLaDNrdTNIRXZIaFRtaWx6SXhlMURxaw?oc=5"
+        }
+      ]
+    },
     {
       "id": "eec71e7a5883",
       "title": "Ela recebe até 500 picadas por semana e já passou por experimento com 250 mosquitos de uma vez – e tudo em nome da ciência - CNN Brasil",
@@ -18,14 +54,26 @@
       ]
     },
     {
-      "id": "33d564ee2899",
-      "title": "RN abre seleção com 42 bolsas de pesquisa de até R$ 5,3 mil; veja como participar - Tribuna do Norte",
-      "published": "2026-10-14T13:28:53+00:00",
-      "summary": "RN abre seleção com 42 bolsas de pesquisa de até R$ 5,3 mil; veja como participar&nbsp;&nbsp;Tribuna do Norte",
+      "id": "b6b632ae9a9b",
+      "title": "Estudo comprova alternativa para prevenir bicheira em bezerros recém-nascidos - Giro do Boi - Canal Rural",
+      "published": "2026-10-14T13:30:00+00:00",
+      "summary": "Estudo comprova alternativa para prevenir bicheira em bezerros recém-nascidos&nbsp;&nbsp;Giro do Boi - Canal Rural",
       "sources": [
         {
-          "name": "Tribuna do Norte",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTlvSW8wbVYxZDE3TS1mZzNUTXJkbk50NnJqUWpndUJtUjYxUDFGY0VwUURXdkhRc1ZnQ0xwRFp5WEI4a1dzTXJrcTZYZ18zb0lwa1c1YllCdkt0UlRyanAxMjdVVDB6QlEtV0dYOWxfcW1xc253NV9hWWpPbzU0V0tDeTV5WjJKcU5jX25YMXBrZU91T2U5R0dQRFJVYlMzWkd1bVZkYUFaOF9JakhuT1JWeTVpQkI0cGYwaFNXeXZUdmhZNUI4Wg?oc=5"
+          "name": "Giro do Boi - Canal Rural",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUk9JYmc2QjMySldNcUlvVlAwbkRjeUZ3X0FsT2NlRS1CaURiNmN0WV9ZbjdmM3BPYjExSUxwSi1mdUt3M2tBZkRVZXlYZDJZVGppWkg5dTlPdWFpaWh4bUM0Sk5jYXNYM21NRllLMU1MVVJsYUVrbGlNWkJfM0FIZmUyR1pzcTg3UU4xbWpKMF9YU3J2MzZSc0VMVFBnc0dmZVFjRnNaYXlZcnYyVUdhRHRieEJTTjNWdUZhQVA4UnI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ac03c22caeef",
+      "title": "Anvisa aprova novo medicamento para tratar lúpus - Agência Brasil",
+      "published": "2026-10-14T12:43:00+00:00",
+      "summary": "Anvisa aprova novo medicamento para tratar lúpus&nbsp;&nbsp;Agência BrasilAnvisa aprova novo medicamento para lúpus eritematoso sistêmico&nbsp;&nbsp;O GLOBOAnvisa aprova novo remédio para doença autoimune que afeta pele, rins e cérebro&nbsp;&nbsp;VEJAAnvisa amplia uso de medicamento para tratar lúpus em adultos&nbsp;&nbsp;Tribuna do NorteAnvisa libera nova opção de medicamento para adultos com lúpus&nbsp;&nbsp;Rádio Metrópole",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWk1GYkNla3kzWS1pLVVBZVhPYl9pTHR6QUxRVnZOTHEwVzJ1akYwN1F5bGdqWFg5UU5WV01SVHMyQ3RfaWtwTVpKYm0zYkJQSXI5Rkt1SUh0RHU2OEkwb3VydkN6aF9nYzgwR3BJRFdVVExxZFhtcG5IN2ZreGxSSHpkVXI0OWZaRmRubE1Nay04SUZ6UlpUNWNFWnJWMDJMTGt6VkJB?oc=5"
         }
       ]
     },
@@ -54,6 +102,18 @@
       ]
     },
     {
+      "id": "05542768cf3e",
+      "title": "Vacinas: como França foi além do combate à desinformação para aumentar cobertura vacinal das crianças - BBC",
+      "published": "2026-10-14T10:26:08+00:00",
+      "summary": "Vacinas: como França foi além do combate à desinformação para aumentar cobertura vacinal das crianças&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WMEU1bVRRT2dQcjVxNnpoelgwWWhKYkJ0cG5oWnVZb1FhdkdsZ2I1YnZlQUJSbktGbVFSWkViUVlYZ0xLY1F0YlNqZlZqZmUyYUpqU3JoUVlMdUNsUGpsUmU3c9IBaEFVX3lxTE1lRG1pbjJ6dUZBazh5OXA2MlJYbTNVY1RVVFFxcFZKVmZjc0x1ZWFUZWxaNkZSM3d3NlJqZHpXS1pEY3RTNWkyS3gwaHB2emYxdXlubGktdDA2YjhXbkdRY085d1lLQW5H?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a17e3fa5cea0",
       "title": "Uma em cada cinco pacientes escolhe sedação para colocar DIU, aponta estudo - Jornal Correio",
       "published": "2026-10-14T08:30:00+00:00",
@@ -62,18 +122,6 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3pUMUR2dlIwNjdWYWo1RFlVMExiOEdRYzBwQWYxRkhQMjNPdTNOY1BBcV9tQzlHcTh1aENyTmJQRDN4cTZJY3dSVjF5V0o2T1ZoS0JBbEFrTnZPSUEwSVFYaGVNNWNKd3gtZEkyajVzTzBkbmVJSUREUWNMY2tqWWQ3QmJOQVVfaXBXd0xFZEdaUGo3VXF0SER3Q2NZSVp4OGF6UGp0Y0U0a19rbWtPWTlLX0xfN05vMy1Z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b7bb4002141b",
-      "title": "Inteligência emocional: estudo com 600 mil pessoas revela diferenças - G1",
-      "published": "2026-10-14T05:00:01+00:00",
-      "summary": "Inteligência emocional: estudo com 600 mil pessoas revela diferenças&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnhrY2xyNi1YYTNFQkI2N1l1R3hOUmZiYkZfRjdLWTZaa01ycU5JeDRJV0JRUEVPTHhnc2lnTF9XVmZuNE1vNkhvRjBkaGxWb1RVUkVlbGI5RzhTWHZqWHhaZzJkb0w0OWVWcVpSa0pnUHJyN1dlTWRCaDdReUlyUWg0SDZBeUNXdVVta1FGVVEwVXAtdDlNTkd0dzBzUGtEOHVFMmF0LWhTd0oxclRhak9iUGEwNks1aWxiNjhaUy1Lbl9qTE1oQnJZQk5BUQ?oc=5"
         }
       ]
     },
@@ -114,10 +162,22 @@
       ]
     },
     {
+      "id": "a2f0a83411c5",
+      "title": "Sem dor, sorocabana descobre câncer renal por leve sangramento - Jornal Cruzeiro do Sul",
+      "published": "2026-10-14T00:13:00+00:00",
+      "summary": "Sem dor, sorocabana descobre câncer renal por leve sangramento&nbsp;&nbsp;Jornal Cruzeiro do Sul",
+      "sources": [
+        {
+          "name": "Jornal Cruzeiro do Sul",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTlmRXhpOWRIcW55SF8wNU9WTHRzRWZkLTd4ZTIzMHR2dGIyaFc1NGl1WG9HeXpnd0dINDRDb0J4U0M5RUQtOFdEamNRQjBOZW5DX0NfODNZb1ljcV92YnVzbjN0dzEtYUpKNDIweWw0ZWJqV05rSl9vSXk4RklMY2NRYkNLZGtmR184Ymx5ZlpvdXM5YXBzMW8xeUhYU2VuV3ZoVUNkSktWZ0hPU25uUGViam85VFUzSk1DZTV3cjZwbHJaSlFGaWdIWURzZ9IB0wFBVV95cUxQR0ZVTlJ3MWh1cUgxZ1d3ZmVOd0ZiMU9POFlHZkEzdnZwa21TdXpYYmhJSlJjZTg3RHVvT3NvaHFvU293OFpEcGFlM3YwdjVRN21peG9NazVKWEJMVjlQMm5tZm1xdE1qMUNOblA5NXAzVjhNNVk1ZEZ4bGRGVE4wOFY2Tm52b09NbnczYzh2REJnLTVCV3BleE5mb2dLUk1VOEdINFRRVEpxWHZDMloxbzQzSnpZYmlfdzg2TjB6cTJIbHFSMHFsUklreUdvWWZ4ZkRV?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d2a89b3c050d",
       "title": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento - UOL",
       "published": "2026-10-13T23:08:25+00:00",
-      "summary": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento&nbsp;&nbsp;UOLDia Nacional de Prevenção da Obesidade reforça importância dos cuidados com a saúde&nbsp;&nbsp;G1Obesidade pode ser prevenida? Aprenda o que está ao alcance de cada pessoa&nbsp;&nbsp;D24AMObesidade vai além da estética: entenda os riscos silenciosos para a saúde&nbsp;&nbsp;TerraPesquisa sobre a saúde dos brasileiros: 6 em cada 10 acham que estão saudáveis, mas dados acendem alerta&nbsp;&nbsp;BoaVontad",
+      "summary": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento&nbsp;&nbsp;UOLPesquisa aponta que 63% dos brasileiros estão acima do peso&nbsp;&nbsp;G1Obesidade pode ser prevenida? Aprenda o que está ao alcance de cada pessoa&nbsp;&nbsp;D24AMObesidade vai além da estética: entenda os riscos silenciosos para a saúde&nbsp;&nbsp;TerraNotícia - Botucatu reforça a importância dos hábitos saudáveis na prevenção da obesidade infantil&nbsp;&nbsp;Prefeitura Municipal de Botucatu",
       "sources": [
         {
           "name": "UOL",
@@ -138,10 +198,22 @@
       ]
     },
     {
+      "id": "2bd4ba9a7ac4",
+      "title": "Microbiota intestinal pode indicar risco de fragilidade em mulheres idosas - Folha de S.Paulo",
+      "published": "2026-10-13T21:52:00+00:00",
+      "summary": "Microbiota intestinal pode indicar risco de fragilidade em mulheres idosas&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYWNLaDVVb0hEdEYxTVdBZkQ4T1o4eVZhcDVISHhSSXpHUFM2R3BBSHhETXVKN2VNR2tzNFRUa2dXc2dxaFZyMl9pUUd0MG50V0lXblByZ0VpNU83VEV6Y2JDWnlMdm1oS2JSbDU3YU1mUU9PdFVETnNiUFJKNi0xd2JiMG1ILWtkUXJPRV9xYTlRaHdrdjVJSWV2azMyWXJQS3k3WlRlREE3VnhpeGVPenlBNUQ2RzdnMzhYbEQ2SlBhejJTODhLMWgwQk5iMzFm?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c5d6859e8f80",
       "title": "Vacina de herpes-zóster: quando tomar após infecção e por que não há no SUS - UOL",
       "published": "2026-10-13T19:58:43+00:00",
-      "summary": "Vacina de herpes-zóster: quando tomar após infecção e por que não há no SUS&nbsp;&nbsp;UOLVacina contra herpes-zóster é associada a menor risco de demência&nbsp;&nbsp;Poder360Vacina contra herpes-zóster pode reduzir o risco de eventos cardiovasculares graves&nbsp;&nbsp;TerraCobreiro pode começar com dor antes das bolhas; entenda os sinais e como prevenir&nbsp;&nbsp;Jornal CorreioSintomas do herpes-zóster antes da erupção cutânea: sinais precoces e cuidados&nbsp;&nbsp;Kantesti AI Blood Test Analy",
+      "summary": "Vacina de herpes-zóster: quando tomar após infecção e por que não há no SUS&nbsp;&nbsp;UOLVacina contra herpes-zóster é associada a menor risco de demência&nbsp;&nbsp;Poder360Vacina contra herpes-zóster pode reduzir o risco de eventos cardiovasculares graves&nbsp;&nbsp;TerraSintomas do herpes-zóster antes da erupção cutânea: sinais precoces e cuidados&nbsp;&nbsp;Kantesti AI Blood Test AnalyzerHerpes-zóster: quais fatores aumentam a atenção para a prevenção?&nbsp;&nbsp;A Crítica",
       "sources": [
         {
           "name": "UOL",
@@ -153,7 +225,7 @@
       "id": "4abdc6e0c8dc",
       "title": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE - Diário do Nordeste",
       "published": "2026-10-13T19:52:28+00:00",
-      "summary": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE&nbsp;&nbsp;Diário do NordesteEusébio e Maranguape iniciam implantação do Método Wolbachia contra arboviroses&nbsp;&nbsp;O POVOMétodo Wolbachia: Crato recebe mosquitos ‘especiais’ que auxiliam na redução de arboviroses&nbsp;&nbsp;Portal MisériaSaúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya&nbsp;&nbsp;Goias.gov.brAnápolis inicia soltura de mosquitos com bactéria contra de",
+      "summary": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE&nbsp;&nbsp;Diário do NordesteEusébio e Maranguape iniciam implantação do Método Wolbachia contra arboviroses&nbsp;&nbsp;O POVOAnápolis inicia soltura de mosquitos com bactéria contra dengue&nbsp;&nbsp;iG Último SegundoMétodo Wolbachia: Crato recebe mosquitos ‘especiais’ que auxiliam na redução de arboviroses&nbsp;&nbsp;Portal MisériaSaúde acompanha implantação em Anápolis da metodologia que reduz dengue e ch",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -165,7 +237,7 @@
       "id": "331911ba461d",
       "title": "Homens costumam descobrir câncer de mama em estágio mais avançado - Agência Brasil",
       "published": "2026-10-13T17:20:00+00:00",
-      "summary": "Homens costumam descobrir câncer de mama em estágio mais avançado&nbsp;&nbsp;Agência BrasilHomens descobrem câncer de mama em estágios mais avançados&nbsp;&nbsp;Jornal de BrasíliaSBRT alerta para diagnóstico tardio do câncer de mama em homens durante o Outubro Rosa&nbsp;&nbsp;News RondôniaCâncer de mama masculino: risco aumenta com a idade, explica especialista&nbsp;&nbsp;Blog do JuaresCâncer de mama em homens: diagnóstico costuma vir mais tardio&nbsp;&nbsp;novafm96.com.br",
+      "summary": "Homens costumam descobrir câncer de mama em estágio mais avançado&nbsp;&nbsp;Agência BrasilHomens descobrem câncer de mama em estágios mais avançados&nbsp;&nbsp;Jornal de BrasíliaSBRT alerta para diagnóstico tardio do câncer de mama em homens durante o Outubro Rosa&nbsp;&nbsp;News RondôniaCâncer de mama masculino: risco aumenta com a idade, explica especialista&nbsp;&nbsp;Blog do JuaresNo Outubro Rosa, Fecomerciários alerta: homens também devem ficar atentos ao câncer de mama&nbsp;&nbsp;Rádio Pe",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -174,26 +246,14 @@
       ]
     },
     {
-      "id": "6e0d79a069a6",
-      "title": "Estudo liga canetas antiobesidade a descolamento de unhas e queda de cabelo - UOL",
-      "published": "2026-10-13T13:42:19+00:00",
-      "summary": "Estudo liga canetas antiobesidade a descolamento de unhas e queda de cabelo&nbsp;&nbsp;UOLPerda rápida de peso gerada por canetas emagrecedoras traz riscos, alertam médicos&nbsp;&nbsp;UOL NotíciasCanetas emagrecedoras mudam hábitos alimentares e desafiam bares e restaurantes&nbsp;&nbsp;G1Canetas emagrecedoras são ligadas a um inesperado efeito nas unhas&nbsp;&nbsp;VEJAOzempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz&nbsp;&nbsp;Exame",
+      "id": "81882f2324f1",
+      "title": "Estudo: Canetas emagrecedoras são associadas a alterações em unha e cabelo - CNN Brasil",
+      "published": "2026-10-13T14:14:41+00:00",
+      "summary": "Estudo: Canetas emagrecedoras são associadas a alterações em unha e cabelo&nbsp;&nbsp;CNN BrasilCanetas emagrecedoras são ligadas a um inesperado efeito nas unhas&nbsp;&nbsp;VEJAPerda rápida de peso gerada por canetas emagrecedoras traz riscos, alertam médicos&nbsp;&nbsp;UOL NotíciasCanetas emagrecedoras mudam hábitos alimentares e desafiam bares e restaurantes&nbsp;&nbsp;G1Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMkZnSlRyNFRPMVlnUUNWVkZMUzEzZ1g3SDRRTXBjOVFDN05ib2Z2Qm5zSnpuYmMyMnhyRnJ0Y2lkMXl5Z2MxUWlHYjk2OFdDNk9pWlFCMUlwN0VOd0M4UW5tNnRmaXl4OE5CLU81c0cxblJDcGlxVjhyMTRXMlY1ZlBoWG5CVjJHajZ2cExYQldGQVRHeWlSak5walFGUUp0M19fSlVwZHJZa1YzRjUybDgyWUUwSmllYTRuaHZzSzIySWVZQmJaSkFWbFM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b4eb5de8b903",
-      "title": "Vermífugo associado a remédio contra câncer pode frear tumores resistentes - Metrópoles",
-      "published": "2026-10-13T13:32:00+00:00",
-      "summary": "Vermífugo associado a remédio contra câncer pode frear tumores resistentes&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEpscWZ1VkRHU3JRTkViOUcxdTBRQUxBR1RmRzNxUUFCZ3MzdlNqMnRnNC1oRFhSbmFoaG14TGdrWFJJcDR4ZzZGc0hibGVLdTVnOHhiMFpCcGtlNzFJYTlPVjZ4SVc1cGdKSXB2U3ZRNW82aFNiT3d5TEVualBZbHpUaVA1YUlvaGxUWGtuZ3lnaVhsLWxCSi1WbnpSaGg0OVRmYXZnQmozUXc?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUJYVFRVRnU1dlkyR0dhdGU0UVhQdHNReWM1YWN6QWFZa0g1VFRBSE5QSG1rQXM0LXJPcVdMRXZldmdheERkLXRoSUNvQnhLbENraHBmeEo5aUZVbXZ5YTJkeks0TjFLMmpJVVA2eDl1a2NrLUlLajJ6alpCV2Q1eXZaMUxBSHRXRVdDMTdMV0JyQlpraUo2WGt6SUhoZFFpMFcwUEFJVnZzcHJ4Qmc?oc=5"
         }
       ]
     },
@@ -246,22 +306,10 @@
       ]
     },
     {
-      "id": "5e7146ca0b71",
-      "title": "Pesquisa busca adaptar pinus às mudanças climáticas e aumentar a produtividade - Globo Rural",
-      "published": "2026-10-13T09:00:00+00:00",
-      "summary": "Pesquisa busca adaptar pinus às mudanças climáticas e aumentar a produtividade&nbsp;&nbsp;Globo Rural",
-      "sources": [
-        {
-          "name": "Globo Rural",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMl9iUm1ySDNIVkd3RFpIeGo5TVdUenRmSkR4VGt3OHJFbDg0YTE3Y2pUMDZkeVgyUWpLZWIxYmg1cFRNSnZqdkdFclhGUlc5bFdzbVBaX2U3cjkxOE9tSW5LZU9PRk1hcFRwRGFpRmhXZ1BkTDBsRmU0Z2JCbHFxRHdKYTNHZ091Zkg5Y0RETnJJbFZqTzN3N19iTG1iYXJmSkRQWkVwNkxUQVBxZl9fbTlMYm5EZlkyWGN5Y0FkVHcwQm1DV2tZeDh5SHJNOW5pNHRoMW9xYXjSAecBQVVfeXFMTUlVNHplNWdqMnlrUk02R2Vrdzl2c21ZeGYtdFNmZVZfYWt0SHBCMmI3TDRnWWZrM3lMYnlFdFlfbkkzbHVVLTlDR0VwUVl3a2Z1UGtGZ3lXeDFtcTc5U0FRWl9kWW5ySFh3M25hUXFLNTJWQVVXY1ZEaXRjN1dKSnJpZ0NoZk8wamVFS3dRYXQtRHRWUEk4NG5MWjBSX2dPdTNyZ1oxRlhYVlBKTG13MkRLcWEyV3B0RE5CTWJzc3FpZEpNMUFfNGpoNlZudm0zMGVMV2NsUno1bEdYUHQ5eUxXa2oxdUNr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3a5e99210e1e",
       "title": "Os três pilares para conseguir um sono reparador, segundo neurologista - O GLOBO",
       "published": "2026-10-13T07:00:01+00:00",
-      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsDisposição dos móveis no quarto e poluição visual afetam a qualidade do sono&nbsp;&nbsp;Jornal Cruzeiro do SulDormir não depende apenas de uma cama | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABC7 hábitos da rotina que podem prejudicar o sono&nbsp;&nbsp;Alpha FM 101.7",
+      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsDisposição dos móveis no quarto e poluição visual afetam a qualidade do sono&nbsp;&nbsp;Jornal Cruzeiro do SulDormir não depende apenas de uma cama | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCSono: Dormir 6 Horas é Suficiente? Tire Suas Dúvidas | Saúde Entre Nós&nbsp;&nbsp;Associação Pa",
       "sources": [
         {
           "name": "O GLOBO",
@@ -270,26 +318,14 @@
       ]
     },
     {
-      "id": "d34646fbe2ab",
-      "title": "Morte do Sol pode desestabilizar Sistema Solar muito antes do previsto, diz estudo - R7",
-      "published": "2026-10-13T05:00:00+00:00",
-      "summary": "Morte do Sol pode desestabilizar Sistema Solar muito antes do previsto, diz estudo&nbsp;&nbsp;R7",
+      "id": "bebb0a7467ce",
+      "title": "Jovens, gestantes e bebês concentram casos de sífilis no Norte de MG; região soma 6,8 mil notificações - G1",
+      "published": "2026-10-12T18:22:11+00:00",
+      "summary": "Jovens, gestantes e bebês concentram casos de sífilis no Norte de MG; região soma 6,8 mil notificações&nbsp;&nbsp;G1Outubro Verde alerta para prevenção e combate à sífilis após alta de casos em Marília&nbsp;&nbsp;G1Araruama terá Dia D contra a sífilis em 20 de outubro&nbsp;&nbsp;O FluminenseOutubro Verde: Saúde reforça pré-natal para combater transmissão vertical da sífilis&nbsp;&nbsp;Jornal de BrasíliaCasos de sífilis em adultos sobem 12% e Manaus reforça testagem&nbsp;&nbsp;A Crítica",
       "sources": [
         {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZnNVblE4OVFfc1V1cGNzTjcxVE1lalZOazNXZjJQRzlTWGtPdDRCeGQ0eHJLTnBrd24xQUdRU0g0YUhXWkxCeVM2NUgyZ3o1T2ttRGVtdGlNTy1FX20yLTV6UW9oZ2lTcy01OTE0VG1YWDhYZDJFN2dUVEx2TkxqVnFIWmpTaHdYVF80ZllheDBqaXBPY0R3bUtiYTY1d0htT2p6YVVjWk9XWXl2Ymk4VDBNTW81RHdzZDJ1cUZUdFJaQUdIY2hXNQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f1f2e559844",
-      "title": "Navio antes usado para explorar petróleo agora faz pesquisa científica e já descobriu mais de cem espécies no oceano profundo - CNN Brasil",
-      "published": "2026-10-12T17:04:08+00:00",
-      "summary": "Navio antes usado para explorar petróleo agora faz pesquisa científica e já descobriu mais de cem espécies no oceano profundo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXVpNGktQ0xIZk5JdFVUWGhUODN5M0ZvdElPc0stREREd25YcDhCLUhpdDZaYTBqd2stYTlsMXhNZ19wZkFVUklna0ViaVNFVTRWVzY1cGJrVmJMdU5HMndCSFVfV0VLbVJwRVJKTlh2S1NwaTRRUk05QWRHTlZnaGh6cmthZm5xd0hyelc1V2xkTTVudXExT2JqVTBxaGZ6d094bmJ0dW9lSUFJYi16TXExU3ptcVFGdUJfeDNkLTd1cmgwcktWNkhJbngzMzhWdHZMaUN2anpaaFBjTzR4eHR2aUxwTlRJLUtlX3BLMzhNQU9aLXc?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVmV1SG1aYlpaRGswT1NuN2FRSmpxaFBpSEppdDR3djBYVkJOcjFjejlYeVZJQW42WFlScnlXaU1pMlNCVTNwZnVORDdYaW93NHZjSW9yTnRFXzBfaE5SMWhjd1cyYWFvUS1jYnotWHItaFlDamF3MTZONUhRVDV0OTZHMXFTX3ZVYnBwRU5LU1hVa1M5NzhUQUhyZDRNcVJnbi0wN1ROZHpLUUNVN3Jfc01qNVJNMGFaaEtVbFlXblI0TXhjN0dHVUY3dkhveDZXa2NWZDkxMkJCcnVXcWNjWWRqQm5hM0NPc2RobDk2czNUc3PSAYICQVVfeXFMTVZrTVdJTEU4TTQ2UVIxSGxpQUxLSm16eDNTZ0VsSTkwdjdfY3JGSndxTVFXWmk0aHpRelVmR0M1eDZSUFpmSUpaSnNQMF8yOHBQVHphbHo1WHNXWXREbkdCWDd4UDZ4WUFtQkRLTTNCelJHNmlqcDdxLVZxSV81R3UtNG5menc0ckprMjI3djZ6NEUzYUptenFfMkpScXR6eWtmWU0wQUtwaTBFSFZ3ZkdCNDk5TlZUcDVPTkU0aEI5RkV5ZFJ6QkNucEsyVFVwZ3ZhbEI1OVNKZnVnNll1VUM4dHBFYm91VjZqT2IweVdTdllia3ZGSnVLY1pGZnNvblBB?oc=5"
         }
       ]
     },
@@ -302,42 +338,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNS14bVVQbmdTcURtS0w1YlhNZFR6ZVM1MlhLM3RpSWtubFBtU0dpTVFCeF9XYUFVa21aNVF3c1BfdEJFdmVYY3BZdmJROGFXZk9LUTBrcVRzZmNXZ25kalhxdFF2anR4bkhyMGd4VlFEVTNIR2NHWXZIckhLUGVZZHpMU05jbFpJamlOXzB6d3g3V2dGcGNZeEwyQWlpdm1ud19ZUkxCc3RJaEFHZlVGLW10VUdzVFRrZ0FUU3RnMUZ2WjNvLXozZ3RWZ2hLQURDQnpkRW1SNFZCbXpNbE1IckRNMGFIcTZoZFHSAfgBQVVfeXFMTl9ISXgwX0NqTEs4YTc2TTBHTEdqZGtKYzdGYXdkUzE1b2JlaVFVanU1X0F2b1pfLWpjM01EWmhjNVFoYk1ZOGFPUHRYS2ZFemw3bmFWazlFTG5VcWtvZ1c3SzB6UkZ0Sm1uSHBRT2NvTkl6WnZwSGhzM1pmWEpuM2JFWHhWRGg3SFhZZGtKQngtUzMza0Z0OGpNbG1mU2tVVlNZTjJxUjVxbXBBTmptQVI0d0FUcFR2cWR1b0x3dExQUjEtRFdXWTJvQVp5RUwyWHpxdWMxb3ZHQ3JKVmJnMnlNelhnUXpwMjJCdGZHMERLUmNfRl9yems?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "942a246b6d46",
-      "title": "Pesquisa identifica estratégia molecular contra leishmaniose cutânea - Poder360",
-      "published": "2026-10-11T11:04:15+00:00",
-      "summary": "Pesquisa identifica estratégia molecular contra leishmaniose cutânea&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1I1TkZhQXB5WXlpbjZVM3o2d0VuajctNk5wYXQ1UTI3ZU56cVF1NlFBVlY4TVM1V0pTZHFrYUVFekx1c2x6UTF4a01TT2pVUTNvQ1dSUkVUYmtybHpDVGE3blB4a1QwSjBObUVhc2ljVFlIaHZIa1dFU2ZsVWIyMWVtNlo0cVJCVmxlbXMtUzREOUE0cEg0VVdLS1VTZ2Rydl9NcE1pcHZJMnFxTFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "82c4417e0e12",
-      "title": "Diagnóstico tardio e dificuldade para erradicar bactéria H. pylori elevam mortes por câncer de estômago - Folha de S.Paulo",
-      "published": "2026-10-11T07:00:00+00:00",
-      "summary": "Diagnóstico tardio e dificuldade para erradicar bactéria H. pylori elevam mortes por câncer de estômago&nbsp;&nbsp;Folha de S.PauloH. pylori responde por quase 70% do câncer gástrico no Brasil&nbsp;&nbsp;Afya | HomeCâncer de estômago deve crescer no Brasil, alerta projeção do Inca&nbsp;&nbsp;Diário do Centro do MundoCâncer de estômago: azia persistente pode ser sinal de alerta; veja fatores de risco&nbsp;&nbsp;O TEMPOCâncer de estômago mata milhares no Brasil; bactéria H. pylori preocupa especia",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNU5WYVgwbUZ4NEsxTG03ZVoyRWgyQnBIaVhmYWRmOFNsMXB6SlN6VUkxYVZCc0Y0cHM0b09tZEtTODBWTlJ0LUJkRksxbGdSMUtlTDRlcU5fU0h1S0EtVW9SajdOMTRudEtpSlZYUFZ4X0hsQTFIcGszT3N4Yk1yXzNIdUduY3JQcktKM043aDV1Q0VWM3B0NUJPRXNhcFFXTzNkdl9mTWhybWl0U1RGX0ZpVGw3Rzh1bU9NQlZITWE1V2c4REdpVmljc3hnR055dnBUX0V6RW9zbE40eW0tWHJqVEVRR1c3QWxyc3JRME5NZzdOc1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "66e21478e09b",
-      "title": "Sem sintomas, gordura no fígado com inflamação aumenta risco de problemas cardiovasculares e pode evoluir para cirrose - Portal Drauzio Varella",
-      "published": "2026-10-09T19:06:38+00:00",
-      "summary": "Sem sintomas, gordura no fígado com inflamação aumenta risco de problemas cardiovasculares e pode evoluir para cirrose&nbsp;&nbsp;Portal Drauzio VarellaQuais as mudanças no estilo de vida que podem melhorar o colesterol e a saúde do fígado em quem tem obesidade?&nbsp;&nbsp;G1Gordura no fígado: exame inédito no ES ajuda a avaliar avanço da doença&nbsp;&nbsp;Folha VitóriaApesar de fazer dieta e exercícios regularmente, ainda tenho fígado gorduroso. Por quê?&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQkRvWk1RaVFGc3RVcW1uR2NhYzFOQVRSNDVjdnlnOFVHRUtlLUY4SkpJUWU1a0FBRFdVeVR3RGh6R1JYbHl3UmlCbVZpTUpoMHAxd2h6cGR5a3FqeVJiYVAtV3daUzduLWhQZFdncG95elhaNnVxQkZqRHZ5VWxTZW85cklJQ2hXaWQ3Z0VCQlJEdmlhcTJPaEhyOGtDVDZvUlR0anAxbmNPRjR3bVJYci1BMUhJNXJ6UUp2dlNpbTdVRlpGSGhJU1RBeExNdmJlekJvUTN6VVBMWDNKQlZ2bUV6djhhLV9QMTV6NzJEam1iSFZNR3hV?oc=5"
         }
       ]
     }
