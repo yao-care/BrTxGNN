@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T10:15:20.441912+00:00",
+  "generated": "2026-10-15T10:38:19.991626+00:00",
   "drug_count": 697,
   "indication_count": 1300,
   "drugs": [
@@ -24661,12 +24661,12 @@
       "slug": "tamoxifen",
       "brands": [],
       "original": "female breast carcinoma；invasive ductal breast carcinoma；breast ductal adenocarcinoma",
-      "level": "L1",
+      "level": "L4",
       "indications": [
         {
           "name": "mammary Paget disease",
           "score": 99.69,
-          "level": "L2"
+          "level": "L5"
         },
         {
           "name": "intraductal cribriform breast adenocarcinoma",
@@ -24676,37 +24676,37 @@
         {
           "name": "basal-like breast carcinoma",
           "score": 99.68,
-          "level": "L2"
+          "level": "L5"
         },
         {
           "name": "breast carcinoma in situ",
           "score": 99.67,
-          "level": "L1"
+          "level": "L5"
         },
         {
           "name": "sebaceous breast carcinoma",
           "score": 99.67,
-          "level": "L4"
+          "level": "L5"
         },
         {
           "name": "invasive tubular breast carcinoma",
           "score": 99.67,
-          "level": "L4"
+          "level": "L5"
         },
         {
           "name": "hormone-resistant breast carcinoma",
           "score": 99.67,
-          "level": "L1"
+          "level": "L5"
         },
         {
           "name": "estrogen-receptor positive breast cancer",
           "score": 99.67,
-          "level": "L1"
+          "level": "L5"
         },
         {
           "name": "Ehrlich tumor carcinoma",
           "score": 99.67,
-          "level": "L4"
+          "level": "L5"
         },
         {
           "name": "botryoid-type embryonal rhabdomyosarcoma of the vagina",
@@ -28923,7 +28923,7 @@
           "name": "Tamoxifen",
           "slug": "tamoxifen",
           "score": 99.67,
-          "level": "L4",
+          "level": "L5",
           "original": "female breast carcinoma；invasive ductal breast carcinoma；breast ductal adenocarcinoma",
           "url": "/drugs/tamoxifen/"
         }
@@ -34883,13 +34883,13 @@
     {
       "name": "basal-like breast carcinoma",
       "count": 1,
-      "level": "L2",
+      "level": "L5",
       "drugs": [
         {
           "name": "Tamoxifen",
           "slug": "tamoxifen",
           "score": 99.68,
-          "level": "L2",
+          "level": "L5",
           "original": "female breast carcinoma；invasive ductal breast carcinoma；breast ductal adenocarcinoma",
           "url": "/drugs/tamoxifen/"
         }
@@ -36470,13 +36470,13 @@
     {
       "name": "breast carcinoma in situ",
       "count": 1,
-      "level": "L1",
+      "level": "L5",
       "drugs": [
         {
           "name": "Tamoxifen",
           "slug": "tamoxifen",
           "score": 99.67,
-          "level": "L1",
+          "level": "L5",
           "original": "female breast carcinoma；invasive ductal breast carcinoma；breast ductal adenocarcinoma",
           "url": "/drugs/tamoxifen/"
         }
@@ -42542,7 +42542,7 @@
           "name": "Tamoxifen",
           "slug": "tamoxifen",
           "score": 99.67,
-          "level": "L1",
+          "level": "L5",
           "original": "female breast carcinoma；invasive ductal breast carcinoma；breast ductal adenocarcinoma",
           "url": "/drugs/tamoxifen/"
         }
@@ -46715,7 +46715,7 @@
           "name": "Tamoxifen",
           "slug": "tamoxifen",
           "score": 99.67,
-          "level": "L1",
+          "level": "L5",
           "original": "female breast carcinoma；invasive ductal breast carcinoma；breast ductal adenocarcinoma",
           "url": "/drugs/tamoxifen/"
         }
@@ -48959,13 +48959,13 @@
     {
       "name": "invasive tubular breast carcinoma",
       "count": 1,
-      "level": "L4",
+      "level": "L5",
       "drugs": [
         {
           "name": "Tamoxifen",
           "slug": "tamoxifen",
           "score": 99.67,
-          "level": "L4",
+          "level": "L5",
           "original": "female breast carcinoma；invasive ductal breast carcinoma；breast ductal adenocarcinoma",
           "url": "/drugs/tamoxifen/"
         }
@@ -51253,13 +51253,13 @@
     {
       "name": "mammary Paget disease",
       "count": 1,
-      "level": "L2",
+      "level": "L5",
       "drugs": [
         {
           "name": "Tamoxifen",
           "slug": "tamoxifen",
           "score": 99.69,
-          "level": "L2",
+          "level": "L5",
           "original": "female breast carcinoma；invasive ductal breast carcinoma；breast ductal adenocarcinoma",
           "url": "/drugs/tamoxifen/"
         }
@@ -61858,13 +61858,13 @@
     {
       "name": "sebaceous breast carcinoma",
       "count": 1,
-      "level": "L4",
+      "level": "L5",
       "drugs": [
         {
           "name": "Tamoxifen",
           "slug": "tamoxifen",
           "score": 99.67,
-          "level": "L4",
+          "level": "L5",
           "original": "female breast carcinoma；invasive ductal breast carcinoma；breast ductal adenocarcinoma",
           "url": "/drugs/tamoxifen/"
         }

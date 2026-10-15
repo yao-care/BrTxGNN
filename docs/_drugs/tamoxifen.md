@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tamoxifen
-parent: Evidência Alta (L1-L2)
+parent: Evidência Moderada (L3-L4)
 nav_order: 605
-evidence_level: L1
+evidence_level: L4
 indication_count: 10
 ---
 
 # Tamoxifen
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,110 +29,126 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Tamoxifeno: Do câncer de mama à neoplasia mamária in situ (carcinoma ductal in situ)
+# Tamoxifeno: Do câncer de mama à doença de Paget mamária
 
 ## Resumo em Uma Frase
 
-Tamoxifeno é um modulador seletivo do receptor de estrogênio, originalmente usado no tratamento do carcinoma de mama feminino (incluindo o carcinoma ductal invasivo).
-O modelo TxGNN prevê que pode ser eficaz para **Carcinoma de Mama In Situ (Breast Carcinoma In Situ)**, a indicação de maior nível de evidência entre as previstas, atualmente com **33 ensaios clínicos** e **19 publicações** apoiando esta direção, incluindo ensaios de Fase 3 concluídos.
+Tamoxifeno é um modulador seletivo do receptor de estrogênio, originalmente usado no tratamento do carcinoma de mama feminino (incluindo carcinoma ductal invasivo e adenocarcinoma ductal de mama).
+O modelo TxGNN prevê que pode ser eficaz para a **Doença de Paget mamária (Mammary Paget Disease)**, mas por ora há apenas **1 ensaio clínico** (sem relação direta com a doença) e **10 publicações** (casos clínicos, séries cirúrgicas e revisões) nessa direção.
+
+> **Observação importante:** entre as 10 indicações previstas, a de maior pontuação (Paget mamária) tem evidência fraca. A previsão com melhor sustentação clínica é o **carcinoma de mama in situ (DCIS)**, tratado em seção própria mais adiante.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Carcinoma de mama feminino (carcinoma ductal invasivo da mama, adenocarcinoma ductal da mama) |
-| Nova Indicação Prevista | Carcinoma de Mama In Situ (Breast Carcinoma In Situ) |
-| Pontuação de Previsão TxGNN | 99,67% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Indicação Original | Carcinoma de mama feminino |
+| Nova Indicação Prevista | Doença de Paget mamária (Mammary Paget Disease) |
+| Pontuação de Previsão TxGNN | 99,69% |
+| Nível de Evidência | L4 |
+| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados; deve ser verificado) |
 | Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Decisão Recomendada | Hold |
 
-> **Observação sobre a seleção:** a indicação prevista na posição 1 do ranking do modelo é a doença de Paget mamária (L4, Hold). Este relatório destaca o carcinoma de mama in situ (posição 4), por ser a previsão com a evidência mais robusta. A doença de Paget mamária e as demais previsões são comentadas na conclusão.
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o tamoxifeno é um antagonista competitivo do receptor de estrogênio (SERM) no tecido mamário. Ao bloquear a ação do estrogênio, reduz a proliferação de células tumorais dependentes de hormônio.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o tamoxifeno é um modulador seletivo do receptor de estrogênio (SERM) que antagoniza competitivamente o receptor de estrogênio (ER) no tecido mamário. Sua eficácia no câncer de mama com receptor hormonal positivo está bem estabelecida.
 
-O carcinoma ductal in situ (CDIS) é um precursor não invasivo do câncer de mama invasivo, frequentemente positivo para receptor de estrogênio. A indicação original (carcinoma ductal invasivo) e o CDIS compartilham a mesma biologia hormonal, o que torna o mecanismo diretamente aplicável: o bloqueio do receptor reduz a recorrência local e contralateral.
+A doença de Paget mamária costuma estar associada a carcinoma ductal *in situ* ou a câncer de mama invasivo, frequentemente ER-positivos. Por isso, o antagonismo do ER é biologicamente plausível. Há um relato de caso de resposta ao tamoxifeno em doença de Paget extramamária metastática com receptor hormonal positivo, e outro de resposta em um caso extenso de Paget do mamilo.
 
-Cabe ressaltar que esta previsão é, em grande parte, uma extensão da indicação já conhecida em câncer de mama, e não uma indicação totalmente nova. O benefício concentra-se na doença com receptor de estrogênio positivo.
+Contudo, a evidência é **indireta**. A pontuação TxGNN muito alta reflete a proximidade na rede de conhecimento com o câncer de mama, e não dados específicos sobre a doença de Paget.
+
+---
 
 ## Evidências de Ensaios Clínicos
 
-Foram identificados 33 ensaios relacionados; abaixo estão os 10 mais relevantes.
-
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT01357772](https://clinicaltrials.gov/study/NCT01357772) | Phase 3 | Ativo, sem recrutamento | 500 | Tamoxifeno em baixa dose (5 mg/dia) versus placebo na neoplasia intraepitelial mamária, para reduzir a incidência de câncer invasivo e CDIS |
-| [NCT06982313](https://clinicaltrials.gov/study/NCT06982313) | N/A (seguimento de Fase 3) | Concluído | 1545 | Seguimento de longo prazo do TAM-01 e análise conjunta de três estudos; redução de 42% nos eventos de câncer de mama em 10 anos |
-| [NCT00003857](https://clinicaltrials.gov/study/NCT00003857) | Phase 3 | Concluído | 636 | Tamoxifeno isolado versus tamoxifeno mais radioterapia no CDIS de bom risco |
-| [NCT00072462](https://clinicaltrials.gov/study/NCT00072462) | Phase 3 | Concluído | 2980 | IBIS-II (CDIS): tamoxifeno versus anastrozol após cirurgia em mulheres na pós-menopausa |
-| [NCT00053898](https://clinicaltrials.gov/study/NCT00053898) | Phase 3 | Concluído | 3104 | Anastrozol versus tamoxifeno no CDIS com lumpectomia e radioterapia |
-| [NCT04046159](https://clinicaltrials.gov/study/NCT04046159) | Phase 3 | Desconhecido | 810 | Radioterapia versus tamoxifeno em baixa dose após cirurgia conservadora no CDIS de baixo risco, receptor de estrogênio positivo |
-| [NCT00952731](https://clinicaltrials.gov/study/NCT00952731) | Phase 2 | Concluído | 27 | 4-hidroxitamoxifeno transdérmico versus tamoxifeno oral no CDIS, antes da cirurgia |
-| [NCT02993159](https://clinicaltrials.gov/study/NCT02993159) | Phase 2 | Concluído | 100 | Tamoxifeno oral versus 4-hidroxitamoxifeno transdérmico no CDIS, antes da cirurgia |
-| [NCT00290745](https://clinicaltrials.gov/study/NCT00290745) | Phase 1/2 | Concluído | 79 | Terapia hormonal primária (tamoxifeno ou letrozol) no CDIS |
-| [NCT05941520](https://clinicaltrials.gov/study/NCT05941520) | Phase 2 | Recrutando | 80 | Acolbifeno versus tamoxifeno em baixa dose (5 mg) em mulheres na pré-menopausa de alto risco |
+| [NCT00002920](https://clinicaltrials.gov/study/NCT00002920) | Phase 3 | Concluído | 313 | Acetato de medroxiprogesterona vs. observação na prevenção de patologia endometrial em mulheres pós-menopausadas tratadas com tamoxifeno (inclui pacientes com Paget do mamilo). Não testa a eficácia do tamoxifeno na doença de Paget. |
+
+---
 
 ## Evidências da Literatura
 
-Foram identificadas 19 publicações; abaixo estão as mais relevantes.
-
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [36917758](https://pubmed.ncbi.nlm.nih.gov/36917758/) | 2023 | RCT | J Clin Oncol | Resultados de 10 anos do TAM-01: tamoxifeno em baixa dose previne recorrência na neoplasia mamária não invasiva |
-| [30973790](https://pubmed.ncbi.nlm.nih.gov/30973790/) | 2019 | RCT | J Clin Oncol | Tamoxifeno em baixa dose (5 mg) versus placebo reduziu recorrência local e contralateral na neoplasia intraepitelial mamária |
-| [9747868](https://pubmed.ncbi.nlm.nih.gov/9747868/) | 1998 | RCT | J Natl Cancer Inst | Estudo NSABP P-1: tamoxifeno na prevenção do câncer de mama |
-| [25605856](https://pubmed.ncbi.nlm.nih.gov/25605856/) | 2015 | RCT | J Clin Oncol | RTOG 9804: radioterapia versus observação no CDIS de bom risco |
-| [34406870](https://pubmed.ncbi.nlm.nih.gov/34406870/) | 2021 | RCT | J Clin Oncol | Relato de longo prazo do NRG/RTOG 9804 sobre recorrência ipsilateral |
-| [25023044](https://pubmed.ncbi.nlm.nih.gov/25025044/) | 2014 | Revisão sistemática | Breast | Revisão Cochrane e metanálise do tamoxifeno pós-operatório no CDIS |
-| [23076938](https://pubmed.ncbi.nlm.nih.gov/23076938/) | 2012 | Revisão sistemática | Cochrane Database Syst Rev | Tamoxifeno pós-operatório no CDIS |
-| [20071685](https://pubmed.ncbi.nlm.nih.gov/20071685/) | 2010 | Revisão sistemática | J Natl Cancer Inst | Incidência, tratamento e desfechos do CDIS |
-| [21398619](https://pubmed.ncbi.nlm.nih.gov/21398619/) | 2011 | Seguimento de RCT | J Natl Cancer Inst | Desfechos de longo prazo de recorrências invasivas nos estudos NSABP B-17 e B-24 |
-| [17145343](https://pubmed.ncbi.nlm.nih.gov/17145343/) | 2006 | Revisão | Semin Oncol | Tamoxifeno no carcinoma ductal in situ |
+| [25759627](https://pubmed.ncbi.nlm.nih.gov/25759627/) | 2014 | Meta-análise | Breast Care | Recorrência local após mastectomia e cirurgia conservadora na Paget da mama; taxa total de recorrência de 20–40% |
+| [34463889](https://pubmed.ncbi.nlm.nih.gov/34463889/) | 2022 | Relato de caso | Investigational New Drugs | Tratamento bem-sucedido de Paget extramamária metastática, receptor hormonal positivo, com tamoxifeno |
+| [14965622](https://pubmed.ncbi.nlm.nih.gov/14965622/) | 2001 | Relato de caso | Breast | Paget do mamilo extensa com resposta ao tamoxifeno, associada à radioterapia |
+| [1648987](https://pubmed.ncbi.nlm.nih.gov/1648987/) | 1991 | Série/Revisão | Br J Surg | 48 mulheres com Paget do mamilo; maioria tratada com mastectomia, um caso com tamoxifeno |
+| [17319355](https://pubmed.ncbi.nlm.nih.gov/17319355/) | 2006 | Coorte | Niger J Clin Pract | Série de 8 casos de Paget do complexo mamilo-areolar na Nigéria |
+| [16277886](https://pubmed.ncbi.nlm.nih.gov/16277886/) | 2005 | Relato de caso | Clin Breast Cancer | Paget do mamilo como recidiva local após tratamento conservador |
+| [19112575](https://pubmed.ncbi.nlm.nih.gov/19112575/) | 2009 | Coorte/caso | Arch Gynecol Obstet | Paget vulvar e mamária com câncer subjacente sincrônico |
+| [12924421](https://pubmed.ncbi.nlm.nih.gov/12924421/) | 2003 | Relato de caso | Surg Today | Câncer de mama bilateral sincrônico com Paget e carcinoma ductal invasivo |
+| [8955252](https://pubmed.ncbi.nlm.nih.gov/8955252/) | 1996 | Relato de caso | Am Surg | Paget da mama masculina e revisão de 32 casos da literatura |
+| [18288984](https://pubmed.ncbi.nlm.nih.gov/18288984/) | 2008 | Revisão | Curr Med Chem | Terapias para perda óssea; relevância tangencial |
+
+---
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, o tamoxifeno consta como **não comercializado** e não há registros ativos na ANVISA associados a esta candidata (0 registros). Essa informação deve ser verificada diretamente na ANVISA antes de qualquer decisão, pois contrasta com o uso consolidado do fármaco em câncer de mama.
+Segundo os dados compilados, o tamoxifeno consta como **não comercializado**, sem registros ativos. Essa informação diverge da realidade esperada para um fármaco amplamente usado e **deve ser verificada** diretamente na ANVISA.
+
+---
 
 ## Citotoxicidade
 
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Terapia hormonal (modulador seletivo do receptor de estrogênio), não é citotóxico convencional |
-| Risco de Mielossupressão | Baixo; contudo, trombocitopenia e leucopenia aparecem entre as condições associadas a contraindicação no grafo de conhecimento |
+| Classificação de Citotoxicidade | Terapia hormonal (SERM); não é citotóxico convencional |
+| Risco de Mielossupressão | Baixo; porém o conhecimento do fármaco associa leucopenia e trombocitopenia (ver contraindicações) |
 | Classificação de Emetogenicidade | Baixa |
-| Itens de Monitoramento | Hemograma completo (plaquetas e leucócitos), função hepática, cálcio sérico, avaliação endometrial/ginecológica |
+| Itens de Monitoramento | Hemograma, função hepática, cálcio sérico, avaliação endometrial e sinais de tromboembolismo |
 | Proteção no Manuseio | Consulte as advertências e precauções na bula |
+
+---
 
 ## Considerações de Segurança
 
-- **Contraindicações (grafo de conhecimento, não texto de bula):** trombocitopenia, hipercalcemia, nefrocalcinose, distúrbio do metabolismo do fósforo, acidente vascular cerebral e doenças cerebrovasculares, infarto cerebral, embolia pulmonar, leucopenia, distúrbios visuais e cegueira.
-- **Interações medicamentosas:** foram identificadas 100 interações. Entre as de gravidade **maior** destacam-se bupropiona, lorcasserina, cimetidina, dolasetrona, eliglustate, cisaprida, dexfenfluramina e fenfluramina. Entre as de gravidade **moderada**: famotidina, loperamida, aprepitanto, dexametasona, claritromicina, granisetrona e levofloxacino, entre outras.
+- **Contraindicações (base de conhecimento, não bula):** trombocitopenia, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, acidente vascular cerebral e doenças cerebrovasculares, infarto cerebral, embolia pulmonar, leucopenia, distúrbios da visão e cegueira.
+- **Interações medicamentosas:** foram identificadas 100 interações. Entre as de gravidade **maior** constam: bupropiona, lorcaserina, cimetidina, dolasetrona, eliglustate, cisaprida, dexfenfluramina e fenfluramina. Há também interações moderadas (por exemplo, famotidina, loperamida, aprepitanto, dexametasona, claritromicina, granisetrona e levofloxacino) e menores (fidaxomicina).
 
-As advertências e contraindicações da bula brasileira não estavam disponíveis; consulte a bula para informações de segurança completas.
+> As advertências e contraindicações da bula da ANVISA não estavam disponíveis. Consulte a bula para informações de segurança completas.
+
+---
+
+## Outras Indicações Previstas (Resumo)
+
+| # | Indicação | Pontuação | Nível | Recomendação |
+|---|---|---|---|---|
+| 2 | Adenocarcinoma cribriforme intraductal de mama | 99,69% | L5 | Hold |
+| 3 | Carcinoma de mama basal-like | 99,68% | L5 | Hold |
+| 4 | **Carcinoma de mama in situ (DCIS)** | 99,67% | **L1** | **Proceed with Guardrails** |
+| 5 | Carcinoma sebáceo de mama | 99,67% | L5 | Hold |
+| 6 | Carcinoma tubular invasivo de mama | 99,67% | L4 | Research Question |
+| 7 | Carcinoma de mama resistente a hormônio | 99,67% | L2 | Research Question |
+| 8 | Câncer de mama ER-positivo | 99,67% | L1 | Proceed with Guardrails |
+| 9 | Carcinoma de Ehrlich (modelo murino) | 99,67% | L4 | Hold |
+| 10 | Rabdomiossarcoma embrionário botrioide de vagina | 99,67% | L5 | Hold |
+
+**Destaque, DCIS:** há ensaio fase 3 randomizado e controlado por placebo com tamoxifeno em baixa dose (TAM-01, [PMID 36917758](https://pubmed.ncbi.nlm.nih.gov/36917758/) e [PMID 30973790](https://pubmed.ncbi.nlm.nih.gov/30973790/)), com redução de eventos de câncer de mama, além de outros estudos fase 3 concluídos (por exemplo, [NCT00072462](https://clinicaltrials.gov/study/NCT00072462) e [NCT00053898](https://clinicaltrials.gov/study/NCT00053898)). Essa indicação, porém, é uma extensão do uso já estabelecido em câncer de mama, e não um reposicionamento propriamente novo. Para o câncer de mama ER-positivo, vale a mesma ressalva.
+
+**Alerta, basal-like:** esses tumores são em sua maioria ER-negativos, e um estudo sugere que a exposição ao tamoxifeno pode favorecer fenótipo de células-tronco; não há evidência clínica de benefício.
+
+---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold** (para a indicação principal, doença de Paget mamária)
 
 **Justificativa:**
-Há múltiplos ensaios de Fase 3 concluídos e RCTs publicados (TAM-01, NSABP B-24, IBIS-II) que sustentam o uso do tamoxifeno no CDIS, com nível de evidência L1. Porém, trata-se essencialmente de uma extensão da indicação oncológica original, e a segurança e o status regulatório local ainda precisam ser confirmados.
+- A evidência para Paget mamária se limita a relatos de caso e séries cirúrgicas, sem ensaio que teste o tamoxifeno nessa doença (nível L4). A pontuação do modelo reflete proximidade com o câncer de mama, não dados específicos.
+- Para o **DCIS** (L1), a recomendação seria **Proceed with Guardrails**, restrita a doença com receptor hormonal positivo, considerando regimes de baixa dose.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
-- Confirmar o status de comercialização e o registro no Brasil, hoje listado como "não comercializado".
-- Obter dados do mecanismo de ação (MOA) no DrugBank.
-- Estratificar pacientes por status do receptor de estrogênio (benefício principalmente em doença ER-positiva).
-- Plano de monitoramento de risco endometrial e tromboembólico, além da revisão de interações medicamentosas (incluindo inibidores de CYP2D6).
-
-**Outras previsões do modelo (resumo):**
-- **Câncer de mama ER-positivo** (L1, Proceed with Guardrails): é essencialmente a indicação original, não um reposicionamento verdadeiro.
-- **Doença de Paget mamária** (posição 1, L4, Hold): vínculo indireto via carcinoma subjacente; o único ensaio de Fase 3 identificado não testa o tamoxifeno para esta doença.
-- **Carcinoma de mama resistente a hormônio** (L3, questão de pesquisa): a resistência endócrina reduz o benefício esperado; há apenas evidência pequena de Fase 2.
-- **Carcinoma tubular invasivo** (L4, Hold): base mecanística razoável (tumor fortemente ER-positivo), mas sem evidência direta.
-- **Carcinoma cribriforme intraductal, carcinoma sebáceo, carcinoma basaloide, carcinoma de Ehrlich e rabdomiossarcoma embrionário botrioide da vagina** (L5, Hold): sem evidência clínica ou com desencontro mecanístico; o último provavelmente é um falso positivo do grafo de conhecimento.
+- Dados do mecanismo de ação (MOA) do tamoxifeno, ausentes nos dados compilados.
+- Bula da ANVISA (advertências e contraindicações) e verificação da situação de comercialização e dos registros no Brasil.
+- Para Paget mamária: estudos prospectivos ou séries com status de receptor hormonal e desfecho com tamoxifeno.
+- Plano de monitoramento de risco endometrial, tromboembolismo e CYP2D6, bem como revisão das 100 interações medicamentosas, em especial as de gravidade maior.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
