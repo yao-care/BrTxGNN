@@ -1,0 +1,42 @@
+# BrTxGNN — Resumo legível por IA
+
+## Posicionamento da plataforma
+
+BrTxGNN é uma plataforma de pesquisa em reposicionamento de medicamentos para os medicamentos disponíveis no Brasil, mantida pela 藥提醒科技有限公司 (yao.care). Publica previsões de IA, evidências clínicas e informações de segurança de medicamentos; o conteúdo é apenas para pesquisa e não constitui aconselhamento médico.
+
+## Método e evidências
+
+Baseia-se no método TxGNN publicado pelo Zitnik Lab de Harvard para explorar possíveis relações entre medicamentos existentes e novas indicações. As previsões do modelo são combinadas com ClinicalTrials.gov, PubMed, DrugBank, dados da ANVISA e DDInter em relatórios rastreáveis.
+
+Os níveis de evidência vão de L1 (evidência clínica mais robusta) a L5 (apenas previsão do modelo); uma pontuação do modelo não significa eficácia clínica. Todo candidato a reposicionamento ainda requer ensaios clínicos, revisão regulatória e avaliação por profissionais de saúde qualificados.
+
+## Conteúdo principal
+
+- `/` Reposicionamento de Medicamentos — BrTxGNN - Sistema de predição de reposicionamento de medicamentos para o Brasil usando IA. Previsões baseadas no modelo TxGNN de Harvard.
+- `/drugs/` Medicamentos — Lista de medicamentos analisados pelo BrTxGNN para reposicionamento.
+- `/evidence-high/` Evidência Alta (L1-L2) — Candidatos a reposicionamento de medicamentos L1-L2 no BrTxGNN, apoiados por ensaios clínicos ou revisões sistemáticas.
+- `/evidence-medium/` Evidência Moderada (L3-L4) — Candidatos a reposicionamento de medicamentos L3-L4 no BrTxGNN, respaldados por evidências observacionais ou pré-clínicas.
+- `/evidence-low/` Apenas Predição do Modelo (L5) — Candidatos L5 no BrTxGNN: apenas predição do modelo, ainda sem evidências clínicas ou de literatura.
+- `/methodology/` Metodologia — Metodologia técnica do BrTxGNN para previsão de reposicionamento de medicamentos.
+- `/guide/` Guia de Uso — Como usar e interpretar os relatórios de reposicionamento de medicamentos do BrTxGNN.
+- `/sources/` Fontes de Dados — Fontes de dados utilizadas pelo BrTxGNN para previsões de reposicionamento.
+- `/downloads/` Downloads — Downloads de dados do BrTxGNN para pesquisa.
+- `/news/` Notícias de Saúde — Monitoramento de notícias de saúde relacionadas a reposicionamento de medicamentos.
+- `/about/` Sobre o Projeto — BrTxGNN é uma plataforma de predição de reposicionamento de medicamentos baseada no modelo TxGNN de Harvard, focada em medicamentos registrados na ANVISA do Brasil.
+
+## Exemplos de relatórios de medicamentos
+
+- Anastrozole (L1): https://brtxgnn.yao.care/drugs/anastrozole/
+- Aripiprazole (L1): https://brtxgnn.yao.care/drugs/aripiprazole/
+- Azathioprine (L1): https://brtxgnn.yao.care/drugs/azathioprine/
+
+## Citação e limitações
+
+Cite o artigo original do TxGNN (https://doi.org/10.1038/s41591-023-02233-x). O conteúdo e as previsões do site são apenas para pesquisa e ensino e não constituem aconselhamento médico; qualquer uso real ou decisão de reposicionamento deve ser confirmado por profissionais qualificados, ensaios clínicos e revisão regulatória.
+
+## Links oficiais
+
+- https://brtxgnn.yao.care/
+- https://www.yao.care/medical/txgnn/
+- https://github.com/yao-care/BrTxGNN
+- https://doi.org/10.1038/s41591-023-02233-x

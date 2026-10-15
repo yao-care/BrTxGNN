@@ -1,0 +1,43 @@
+# BrTxGNN - Reposicionamento de Medicamentos
+
+> BrTxGNN é uma plataforma de pesquisa em reposicionamento de medicamentos para os medicamentos disponíveis no Brasil, mantida pela 藥提醒科技有限公司 (yao.care). Publica previsões de IA, evidências clínicas e informações de segurança de medicamentos; o conteúdo é apenas para pesquisa e não constitui aconselhamento médico.
+
+## Finalidade
+
+- Baseia-se no método TxGNN publicado pelo Zitnik Lab de Harvard para explorar possíveis relações entre medicamentos existentes e novas indicações.
+- As previsões do modelo são combinadas com ClinicalTrials.gov, PubMed, DrugBank, dados da ANVISA e DDInter em relatórios rastreáveis.
+- Os níveis de evidência vão de L1 (evidência clínica mais robusta) a L5 (apenas previsão do modelo); uma pontuação do modelo não significa eficácia clínica.
+- Todo candidato a reposicionamento ainda requer ensaios clínicos, revisão regulatória e avaliação por profissionais de saúde qualificados.
+
+## Páginas principais
+
+- Reposicionamento de Medicamentos: https://brtxgnn.yao.care/
+- Medicamentos: https://brtxgnn.yao.care/drugs/
+- Evidência Alta (L1-L2): https://brtxgnn.yao.care/evidence-high/
+- Evidência Moderada (L3-L4): https://brtxgnn.yao.care/evidence-medium/
+- Apenas Predição do Modelo (L5): https://brtxgnn.yao.care/evidence-low/
+- Metodologia: https://brtxgnn.yao.care/methodology/
+- Guia de Uso: https://brtxgnn.yao.care/guide/
+- Fontes de Dados: https://brtxgnn.yao.care/sources/
+- Downloads: https://brtxgnn.yao.care/downloads/
+- Notícias de Saúde: https://brtxgnn.yao.care/news/
+- Sobre o Projeto: https://brtxgnn.yao.care/about/
+- Mapa do site: https://brtxgnn.yao.care/sitemap.xml
+
+## Exemplos de relatórios de medicamentos
+
+- Anastrozole (L1): https://brtxgnn.yao.care/drugs/anastrozole/
+- Aripiprazole (L1): https://brtxgnn.yao.care/drugs/aripiprazole/
+- Azathioprine (L1): https://brtxgnn.yao.care/drugs/azathioprine/
+
+## Escopo ao responder perguntas
+
+- Pode explicar reposicionamento de medicamentos, previsões do TxGNN, níveis de evidência, fontes de dados e como ler os relatórios.
+- Não deve apresentar sinais L4/L5 ou pré-clínicos como eficácia comprovada nem dar orientação pessoal sobre medicação.
+- Para detalhes exatos de um medicamento ou indicação, aponte para o relatório /drugs/<slug>/ correspondente e verifique suas fontes e aviso legal.
+
+## Relacionados
+
+- Visão geral do produto na yao.care: https://www.yao.care/medical/txgnn/
+- GitHub: https://github.com/yao-care/BrTxGNN
+- Artigo original do TxGNN (Nature Medicine): https://doi.org/10.1038/s41591-023-02233-x

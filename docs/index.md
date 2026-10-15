@@ -88,9 +88,7 @@ A plataforma integra múltiplas fontes de dados públicas autorizadas para garan
 <strong>Aviso Legal</strong><br>
 Este relatório é apenas para fins de pesquisa acadêmica e <strong>não constitui aconselhamento médico</strong>. O uso de medicamentos deve seguir orientação médica. Qualquer decisão de reposicionamento de medicamentos requer validação clínica completa e aprovação regulatória.
 <br><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示。
-<br><br>
-<small>Última revisão / 最後審核：2026-03 | Equipe BrTxGNN</small>
+<small>Última revisão: 2026-03 | Equipe BrTxGNN</small>
 </div>
 
 ---
