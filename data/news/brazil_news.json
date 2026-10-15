@@ -1,15 +1,39 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-15T11:00:28.735942+00:00",
-  "total_fetched": 97,
-  "unique_count": 96,
-  "health_related_count": 37,
+  "fetched_at": "2026-10-15T16:30:05.657547+00:00",
+  "total_fetched": 95,
+  "unique_count": 93,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "67d1008130ed",
+      "title": "Ímã com oito polos é observado pela primeira vez - Site Inovação Tecnológica",
+      "published": "2026-10-15T11:24:48+00:00",
+      "summary": "Ímã com oito polos é observado pela primeira vez&nbsp;&nbsp;Site Inovação Tecnológica",
+      "sources": [
+        {
+          "name": "Site Inovação Tecnológica",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ2NhQzR1UUlnSk93MXkzZEU5NUNEZHA3Y2UwV0hpSlAyaGpxTVp2VDA5Q25XUjJtZHh1d2twbm1RMTA3QVVsajUzZEpsOGFKdkozdjNBbDhnV0wtZGRBNklEX1U0dVBDSkxjQ25VZ0dkQzFfUXlPQk5MVDJ5X2Q1UHlJWXFXeGtYVXdmYWdYTVpOTndMRmNyd2VFNG83UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7dd96b6ed9f",
+      "title": "Em 1908, leitura de livros antes de dormir preocupava pesquisadores - Poder360",
+      "published": "2026-10-15T09:02:23+00:00",
+      "summary": "Em 1908, leitura de livros antes de dormir preocupava pesquisadores&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMkg1M0JYMXFyM1p4ZXpiLWxwczZYS2ozaWdtZS1ZbWl5Vy1IVHlUdkZ6eWtCck95LWpwWXNhV2JWUmxIdFA3Mkw4WUFESnRnakJDYk4xVmg5eDZQQUxYaS1HN3JIQkFtVXFoNW5lUUNRcldYNk5jRlg4MUM4dTF4V0hSZ3p4eXp2RGNndFI5QW5kNU9OZ3lRdElBdUdOUnNBNkx6M2VVaE1Fdw?oc=5"
+        }
+      ]
+    },
     {
       "id": "20377f770226",
       "title": "Milionários apostam em tratamentos para rejuvenescer; veja o que a ciência já sabe - G1",
       "published": "2026-10-15T07:00:00+00:00",
-      "summary": "Milionários apostam em tratamentos para rejuvenescer; veja o que a ciência já sabe&nbsp;&nbsp;G1",
+      "summary": "Milionários apostam em tratamentos para rejuvenescer; veja o que a ciência já sabe&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "G1",
@@ -18,14 +42,26 @@
       ]
     },
     {
-      "id": "3fe5e25a25de",
-      "title": "Beber água ao longo do dia: para que serve e por que especialistas orientam a quem tem pedra nos rins - Tua Saúde",
-      "published": "2026-10-14T23:32:12+00:00",
-      "summary": "Beber água ao longo do dia: para que serve e por que especialistas orientam a quem tem pedra nos rins&nbsp;&nbsp;Tua SaúdeOs 3 grandes \"venenos\" que estão a comprometer os seus rins&nbsp;&nbsp;redeutv.com.brVeja três hábitos que podem prejudicar o funcionamento dos rins&nbsp;&nbsp;Meio News",
+      "id": "d9f6682f768c",
+      "title": "Caneta emagrecedora é indicada por 87% dos médicos para tratar obesidade - CNN Brasil",
+      "published": "2026-10-15T06:33:35+00:00",
+      "summary": "Caneta emagrecedora é indicada por 87% dos médicos para tratar obesidade&nbsp;&nbsp;CNN BrasilCanetas emagrecedoras tem efeito protetor contra insuficiência cardíaca, mostra novo estudo&nbsp;&nbsp;O GLOBOPerda rápida de peso gerada por canetas emagrecedoras traz riscos, alertam médicos&nbsp;&nbsp;UOL NotíciasCanetas emagrecedoras são ligadas a um inesperado efeito nas unhas&nbsp;&nbsp;VEJATratamento além da balança: canetas emagrecedoras exigem mudança de hábitos&nbsp;&nbsp;R7",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRkFFRjRKNGlEMkxBanBFZjRGdFlhVmE5LVFTV3RtS1pxR0psNnBwUkVwVEpXVmFCTzVTd2NYS2Z1dnpJblZDWXJYakd6cG96ckFvQUdVcUdOak95M2YzcEw2OGo2UWt3ajdyb2xMajlkUWx0R2R3RzIzNW0wbHpsYm1WVXg4Q1c4QmdvS2kxN3VOYm1DeEpZMUhuTmU1NnFaLUZjSmtCcmdBUFFsQjN4Y1JVUEc4SUM2Rkk4bzZZSG5KeVNCWWl5RFZHMUFkbTJTVEJMRFZPeGlWQQ?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbjBBaS1uRnNxb3R6b3QwOUFqZ04wcXI1RUZDZXZ6UFpyUlR4Y25XNWJkUFZXZzM2Y3hBVEtoYmctSWhrbklwWkdvOGt2QUhad05RUWVRYzlWRnU4Ynp5SHpFcjlibVVJVDJ6NTBKdzQxMmRMX01fTXZveDVBWlI0N3BMRVpDX3oyQ3lqa09oUm5DZWdHd3R5QVA2aGtRamtBVUx6WmJiRzNrc3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ae8d8cf51c3",
+      "title": "Anvisa aprova remédio que reduz crises de lúpus e o uso de corticoide, mas acesso pelo SUS e planos de saúde ainda é incerto - G1",
+      "published": "2026-10-15T06:00:00+00:00",
+      "summary": "Anvisa aprova remédio que reduz crises de lúpus e o uso de corticoide, mas acesso pelo SUS e planos de saúde ainda é incerto&nbsp;&nbsp;G1Anvisa aprova novo medicamento para tratar lúpus&nbsp;&nbsp;Agência BrasilAnvisa aprova novo remédio para doença autoimune que afeta pele, rins e cérebro&nbsp;&nbsp;VEJAAnvisa aprova novo medicamento para tratamento do lúpus&nbsp;&nbsp;R7Anvisa aprova novo medicamento para lúpus eritematoso sistêmico&nbsp;&nbsp;Folha PE",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQzJCR2RkclRZNVpxRFJXU0I5RHBlb1A3UldBOHFQSExvbmNwSG5XYWxzRk0yTXBzemxBbC1NU3lNT0c5Q245TkR2TnhBLTRRVmIwRjd3QU5hRjAwenRPWDVLMkt6QXY1bmdDUXdoRjZQVTBaNENSMFNqc2tZMGJUY1pEQ1Fob3pMYzZvTkR0N21nTFgzZTBvVERkUF8tdWwyUl9ERVEtUV9HdFNpZlN2bHZTbWtBQl9UdmZOREVQd1ZrMmk5ZWsxb0JtcXN4QkRYZG9IQk9EZGhBZjlWX2VLRGRYZXFNNEdfN3VweWhadHBpNjJUbE5yOFlaUDdhN3VrZy12Rnh30gGUAkFVX3lxTE1WaFZmSlQ2dnV1REdXeDZhYWVkSzJiNjZlYjNuMUYwWVZ6QjlLdWJjWDJzSHZQYnRfZWJLZDZFVk5ZbE5vN3FnVGFvRDE0SGp4cDk3bkdzTElLNndNWDZ4Y1BIZzBabGhkNVdleDIzeXZMdEJrLW43cTN6ek9hQWM3YS0yV2VLVFE4WU5MdXlQV1l5QzhoUmlleTE3X1NGcE1odmE4Q0xVMXROZm91RjhCSTR1SkVlRThyRmdkdnFEdGhKWjdVZlNDbXhJcFdKWUhlUlIwblIwSzhvRjlqRUVfWlNlUENNRDRmbEhpWWVublAtWVluZkRodTF6dUhqeHY3WTJIOGhhSWYzbkdIcWNFUlBNcg?oc=5"
         }
       ]
     },
@@ -38,6 +74,18 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdnZiSFdYcWcxNUZkQ3Q5ODVndG41RUtkbF9TYkxXMjlOTnFwZUc3U2ljdXRnUlJPWld1Z0tERGc2Q2JmRU5TV2oxVm5uRlNPckJvc29QM2U5Z3BJQ09BcEFuSTl1Rm1sTzF0cjFUa19yMUlQeTZacjlQSlhoaHNrdGZmZC1iOUg4TU5jQTByVk9ZVmZNTDJIUWVCalVmWnNSRTRROXFBT2JtTG_SAboBQVVfeXFMTllXc3gydlBBTG14UFlUcEMzc183SWV2QkUzbmlwSFNfV1I5NHNaMkctRlhoMjVWRFoybzhkQmpEc0ZURG94SEYxLWo0TmZFYkEyOG9penFqanlwcDFMM2hPX24tMkw4RWRaSnB3a3lBdlRycGNrNi1FV2U3dzlsVVFXUXUzczUzZjM0NUcwdEladUFWdWFCVnBTS003dWRZS0JhQ0FqNVRUM1I5eXdfb2dEWkM0OEw5V2VR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "617450fb0a13",
+      "title": "Ciência feita em Pelotas coloca pesquisadores da UFPel entre os mais influentes do mundo - A Hora do Sul",
+      "published": "2026-10-14T16:53:00+00:00",
+      "summary": "Ciência feita em Pelotas coloca pesquisadores da UFPel entre os mais influentes do mundo&nbsp;&nbsp;A Hora do Sul",
+      "sources": [
+        {
+          "name": "A Hora do Sul",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUm1XX1ZJenBQUnBidGFxeGZ4Z2E4OGlnc0p2QnJHa0RlZkU2VWZwLXVLNFBhNXRaT2dOdEQwQjc2UUpCTEhReDZncEVFc1F4S2x4QUdZZGp1ZFdFWjg4WGRYdzlJOGJpemN1U0FpS2wzTnJxUWc0OVpEWXZ3SlNMenl3bmNJYmw0Yi1OOC1Ic1pEWVFMMWFjdUtiRTNiQlJnazFELWFHNWlPLTFWSjBYYjRZenVRbExVVjFmMGozT3ZDUE81T2RqNEp4ZUszTFNVM3c?oc=5"
         }
       ]
     },
@@ -66,13 +114,13 @@
       ]
     },
     {
-      "id": "c51d07ee2106",
-      "title": "Cuidado ao diabetes na Atenção Primária: profissionais do SUS terão acesso a curso gratuito com certificação - GOV.BR",
+      "id": "0eedaa8e5962",
+      "title": "Cuidado ao diabetes na Atenção Primária: profissionais do SUS terão acesso a curso gratuito com certificação - Governo Federal",
       "published": "2026-10-14T15:15:49+00:00",
-      "summary": "Cuidado ao diabetes na Atenção Primária: profissionais do SUS terão acesso a curso gratuito com certificação&nbsp;&nbsp;GOV.BR",
+      "summary": "Cuidado ao diabetes na Atenção Primária: profissionais do SUS terão acesso a curso gratuito com certificação&nbsp;&nbsp;Governo Federal",
       "sources": [
         {
-          "name": "GOV.BR",
+          "name": "Governo Federal",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYzBJSUMtUksxYlpKWVI0MzNlNXl6ZmN4S2g0UGlOMDI5cHJxeUMxQ1A2dXJOZ0dqaXZrRGdQLVdoWFNXVXRRMUtXUTBoWUVBcTRfTWl3TW04dk9KVE5UNU94QTNCY0NjeVdTczZ5aTloRGdZOUM0LU9LcjVja0Zaek1iUzNVd0VEVzVHd2tUQkhRVUFyam53T0o0ejdLaEg5U1BudEgxMTJuWnNFNHE5YUJEM3BlUjhaS28zVFdrajNLR0xMZkN5OHB0SUtxX3h3VEEyWHh6ZkpJMFZWQlk2UXZneVJxblpnaXlsSDVQb182M1BTM3ZLb3dCa29ub2E1TEE?oc=5"
         }
       ]
@@ -138,22 +186,10 @@
       ]
     },
     {
-      "id": "ac03c22caeef",
-      "title": "Anvisa aprova novo medicamento para tratar lúpus - Agência Brasil",
-      "published": "2026-10-14T12:43:00+00:00",
-      "summary": "Anvisa aprova novo medicamento para tratar lúpus&nbsp;&nbsp;Agência BrasilAnvisa aprova remédio que reduz crises de lúpus e o uso de corticoide, mas acesso pelo SUS e planos de saúde ainda é incerto&nbsp;&nbsp;G1Anvisa aprova novo remédio para doença autoimune que afeta pele, rins e cérebro&nbsp;&nbsp;VEJAAnvisa amplia uso de medicamento para tratar lúpus em adultos&nbsp;&nbsp;Tribuna do NorteAnvisa aprova novo medicamento para tratamento do lúpus&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWk1GYkNla3kzWS1pLVVBZVhPYl9pTHR6QUxRVnZOTHEwVzJ1akYwN1F5bGdqWFg5UU5WV01SVHMyQ3RfaWtwTVpKYm0zYkJQSXI5Rkt1SUh0RHU2OEkwb3VydkN6aF9nYzgwR3BJRFdVVExxZFhtcG5IN2ZreGxSSHpkVXI0OWZaRmRubE1Nay04SUZ6UlpUNWNFWnJWMDJMTGt6VkJB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1f55b3df6bed",
       "title": "OMS recomenda vacinação contra o HPV a partir dos quatro anos - Folha de S.Paulo",
       "published": "2026-10-14T12:19:00+00:00",
-      "summary": "OMS recomenda vacinação contra o HPV a partir dos quatro anos&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "OMS recomenda vacinação contra o HPV a partir dos quatro anos&nbsp;&nbsp;Folha de S.PauloImunização e prevenção do câncer do colo do útero são discutidos em Congresso em João Pessoa&nbsp;&nbsp;ParaibaOnlineDesinformação afasta meninas da vacina contra HPV, que pode prevenir câncer do colo do útero&nbsp;&nbsp;Jornal CorreioHPV: adesão à vacinação esbarra na desinformação e preconceito de pais e adolescentes&nbsp;&nbsp;Agência AidsSão Caetano realiza Dia D de vacinação contra o HPV no Espaço Verde",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -234,26 +270,26 @@
       ]
     },
     {
-      "id": "713234e46239",
-      "title": "Mau hálito pode indicar problemas de saúde em outras partes do corpo - Metrópoles",
-      "published": "2026-10-14T05:00:00+00:00",
-      "summary": "Mau hálito pode indicar problemas de saúde em outras partes do corpo&nbsp;&nbsp;MetrópolesMau hábito pode esconder problemas de saúde graves. Atente aos sinais&nbsp;&nbsp;Notícias ao MinutoMau hálito persistente pode não ser falta de higiene, mas é preciso avaliação&nbsp;&nbsp;G1",
+      "id": "b7bb4002141b",
+      "title": "Inteligência emocional: estudo com 600 mil pessoas revela diferenças - G1",
+      "published": "2026-10-14T05:00:01+00:00",
+      "summary": "Inteligência emocional: estudo com 600 mil pessoas revela diferenças&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0ZHYjl2bUNieVhSckhFOUJFb2tBZnc3bWp4T1pJbWZ2d1JZNFVmUHR1OUJlVWZLMkxhMzVDMjZQMzBGVWVCT3loVkVVUWE3dnY3TE9pM0FNV1h5dXAyWWp1V3QxM3dsdFdKMDVNU3QxY0V4M0hYTkZnVnlXUVY3UExBdWk3dzE1UWFDNkhGcmlBUktyaHE0YVRtRFpMbVVmVzdN?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnhrY2xyNi1YYTNFQkI2N1l1R3hOUmZiYkZfRjdLWTZaa01ycU5JeDRJV0JRUEVPTHhnc2lnTF9XVmZuNE1vNkhvRjBkaGxWb1RVUkVlbGI5RzhTWHZqWHhaZzJkb0w0OWVWcVpSa0pnUHJyN1dlTWRCaDdReUlyUWg0SDZBeUNXdVVta1FGVVEwVXAtdDlNTkd0dzBzUGtEOHVFMmF0LWhTd0oxclRhak9iUGEwNks1aWxiNjhaUy1Lbl9qTE1oQnJZQk5BUQ?oc=5"
         }
       ]
     },
     {
-      "id": "d5a310df45f9",
-      "title": "O significado estatístico do empate técnico e o impacto da margem de erro nas pesquisas - NSC Total",
-      "published": "2026-10-14T00:44:33+00:00",
-      "summary": "O significado estatístico do empate técnico e o impacto da margem de erro nas pesquisas&nbsp;&nbsp;NSC Total",
+      "id": "713234e46239",
+      "title": "Mau hálito pode indicar problemas de saúde em outras partes do corpo - Metrópoles",
+      "published": "2026-10-14T05:00:00+00:00",
+      "summary": "Mau hálito pode indicar problemas de saúde em outras partes do corpo&nbsp;&nbsp;MetrópolesMau hálito mesmo escovando os dentes? A causa pode estar nas amígdalas&nbsp;&nbsp;Revista Ana MariaMau hábito pode esconder problemas de saúde graves. Atente aos sinais&nbsp;&nbsp;Notícias ao MinutoMau hálito persistente pode não ser falta de higiene, mas é preciso avaliação&nbsp;&nbsp;G1Mau hálito persistente pode indicar problemas de saúde além da boca&nbsp;&nbsp;Aqui Notícias",
       "sources": [
         {
-          "name": "NSC Total",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRG4ybjdmTS1kU1EwckY4a2QwQnFCZDdIOHphTEJBQThEd1UxVVpFbkxhVE9SaWJncHlhNjRYaHQzZkxjaG5pdFItYl9ycVJ0ZGh3SXJNSVV2a1kwajNLOTNmRTEyc2s5UjhhYlJWQ3ViemNiOUkwa2dKbHRSNEhYVWpEcmJYcDU2WHAyMDhya3RuQm9PQzhKUmpUdTExS2dmclNUb1VVdXpwWFdabExfSXd0VldLUmtXcGJCV1FweXNEdw?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0ZHYjl2bUNieVhSckhFOUJFb2tBZnc3bWp4T1pJbWZ2d1JZNFVmUHR1OUJlVWZLMkxhMzVDMjZQMzBGVWVCT3loVkVVUWE3dnY3TE9pM0FNV1h5dXAyWWp1V3QxM3dsdFdKMDVNU3QxY0V4M0hYTkZnVnlXUVY3UExBdWk3dzE1UWFDNkhGcmlBUktyaHE0YVRtRFpMbVVmVzdN?oc=5"
         }
       ]
     },
@@ -273,35 +309,11 @@
       "id": "65127b52a587",
       "title": "Mudanças e sintomas da menopausa começam muito antes da última menstruação - CNN Brasil",
       "published": "2026-10-13T23:52:33+00:00",
-      "summary": "Mudanças e sintomas da menopausa começam muito antes da última menstruação&nbsp;&nbsp;CNN BrasilEntenda por que tratamentos faciais podem ter resultados diferentes na menopausa&nbsp;&nbsp;GloboMenopausa marca uma transição fisiológica “abrupta” (e não gradual)&nbsp;&nbsp;PúblicoMenopausa exige ajustes alimentares para amenizar sintomas&nbsp;&nbsp;Bem ParanáDia Mundial da Menopausa: Perda de urina é um dos sintomas mais comuns&nbsp;&nbsp;Repórter Diário",
+      "summary": "Mudanças e sintomas da menopausa começam muito antes da última menstruação&nbsp;&nbsp;CNN BrasilEntenda por que tratamentos faciais podem ter resultados diferentes na menopausa&nbsp;&nbsp;GloboAgência de Comunicação - Menopausa muda o corpo e pede atenção à alimentação saudável&nbsp;&nbsp;Estadão Blue StudioMenopausa marca uma transição fisiológica “abrupta” (e não gradual)&nbsp;&nbsp;PúblicoDia Mundial da Menopausa: Perda de urina é um dos sintomas mais comuns&nbsp;&nbsp;Repórter Diário",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGs3NnNMSUYxVnV0em8wbmliakxidVNBUVM5TlV2YXpvTzdONDNMM05IWEtocHFvMUlvTjYzQWc2a2pLMjNDZkxfU3lETnBBRXl4SVZPZmF0M2NiRndLeTJhR2N6dGlhcDZZTG56QXZJTDNzTm02R0ZQTWFOMi1UVXNMSFZRUVFQTHhXLWFsUUVjOXUwZmYwVDhpaXlWaVhVdUlNMzdCU21XRjBhUFJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d2a89b3c050d",
-      "title": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento - UOL",
-      "published": "2026-10-13T23:08:25+00:00",
-      "summary": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento&nbsp;&nbsp;UOLPesquisa aponta que 63% dos brasileiros estão acima do peso&nbsp;&nbsp;G1Mês de outubro é dedicado também à prevenção da obesidade&nbsp;&nbsp;AMM | Associação Mineira de MunicípiosObesidade: mais de 60% dos brasileiros adultos estão acima do peso&nbsp;&nbsp;Gazeta da SemanaNovas diretrizes para a obesidade reforçam tratamento mais individualizado e assertivo&nbsp;&nbsp;Futuro da Saúde",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZG5mRWN6YThHQlRMUnp5TmVRVUpHeEd4X2VvX1ROdU8wckpSZW16Z2pqVVZDdjZEOEczMW5jTDVNX0o5bnJkQy1KSXIyRDZweFRmZHdkLUxfNHRZRHNkX1RJX20xT0R0ek5jaTF3b2pmQV9UR0lzWV9rcE5OX2pNUEhfUHFqOGNteTBrR3BKSW5oTVhMOWhCUms0czZpWmllMHlXMWlKUEN6dndjdkxrU3BIUmUtb01QQnY4MDF0UGJFU0drdFdpNDFyTVRYOTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5b8ab18a9dab",
-      "title": "Neurologista alerta para sinais de AVC e explica fatores de Alzheimer - ac24horas",
-      "published": "2026-10-13T22:09:49+00:00",
-      "summary": "Neurologista alerta para sinais de AVC e explica fatores de Alzheimer&nbsp;&nbsp;ac24horas",
-      "sources": [
-        {
-          "name": "ac24horas",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2p5TzY0b3VrR0FIT3FmUkxRM0lCTzRDQVgwand5aUpjaVVPNXplbjhIN09OYjlreHd3OVJTYnhJVDlJM1I5QVJqOWVfdWk0QWt3WWwzT0dYUFNRNlpWcFNlekd2cmJ2ZHRRNXJWTUZKTUZhZ3IzRkJUSTg0LVFHVnJablR4RVYxZk9oR2FnVlpaUFRneUk0dGR1eFpzSGFsV04xT2tUWm9kajk5QjBtd0g3bXXSAboBQVVfeXFMTU9jTTlZS3hfOFVJdjk5N0xIV2tNdWZKM0pWN2dDVzlyZEN5QWQ4RF8weWliVkN4bTcwLTVWX2pEZFR2WmZ2emptY05kd0NSa195SmEySTNiZF9zTHU1MDhSaGIxVnBGQVFUOWVGQ05ia2Q3cC1WVlB4LTNEWXNEaGp0WU03cmFfYktPTmlVUk5rQ2J3Q1pXTlBHVVVFa282OF9YcUVYVHNXZUpCelQ3VlkzSThYNENDakF3?oc=5"
         }
       ]
     },
@@ -318,14 +330,14 @@
       ]
     },
     {
-      "id": "4abdc6e0c8dc",
-      "title": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE - Diário do Nordeste",
-      "published": "2026-10-13T19:52:28+00:00",
-      "summary": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE&nbsp;&nbsp;Diário do NordesteEusébio e Maranguape iniciam implantação do Método Wolbachia contra arboviroses&nbsp;&nbsp;O POVOAnápolis inicia soltura de mosquitos com bactéria contra dengue&nbsp;&nbsp;iG Último SegundoMétodo Wolbachia: Crato recebe mosquitos ‘especiais’ que auxiliam na redução de arboviroses&nbsp;&nbsp;Portal MisériaCambé inicia liberação dos Wolbitos contra o Aedes&nbsp;&nbsp;Um Jornal Regi",
+      "id": "eefc32163814",
+      "title": "Leite faz bem à saúde? Veja benefícios e restrições - 13/10/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
+      "published": "2026-10-13T19:44:00+00:00",
+      "summary": "Leite faz bem à saúde? Veja benefícios e restrições - 13/10/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOEFWRGt5VzV1RXhSTVpsaldnTXZiVU5mSFFJNmNpc3NxUjNoNWNCdHFvQVlYUHAwV3dyX2VITm43WXNrV0taYUVkVWVCR3RaaG5XS3Y4QzNlZEVIT3M4T1p6UjRHZXE0R2NXR2xrYkpuTk9QZTY1dXRsdjdmeVFINDVuMmFPNm1SbjFJUHBhX1dqclpQc29OMldvbFNlZGZWbTZSZ3BLZ2hrREJxS2V6dktVYlFZWDNGTGhlYzM2YThfS3ZtSVNCRkxHQUstbDBma0QwYnhYVHZ4LThhSzlN?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNEM5c1JlUTR5Tm82b3ppU2s2ZF82VFpudVBGNVRvdUdmUlp1RlctX2dMUmdnaVo4bE9ZZXRuUVhOdmIyNFZEekZnUk8yalJ6T3BickptUUNPSW1SM01YLU5ZQWllVHktOWs2Q3hZZkxwTldMVzVES2ZBVW50TjFmN3EyS0k1djN2YnlERTJKbk5ZQkdySFdaMnAtMXBxWlNZaXVYcTd3ZXpHU1dLTFliQg?oc=5"
         }
       ]
     },
@@ -354,46 +366,10 @@
       ]
     },
     {
-      "id": "1d7720781a79",
-      "title": "Executiva que comanda o Signal contesta previsões de 'apocalipse de IA' e diz que risco é o uso descuidado da inteligência artificial - BBC",
-      "published": "2026-10-13T13:13:46+00:00",
-      "summary": "Executiva que comanda o Signal contesta previsões de 'apocalipse de IA' e diz que risco é o uso descuidado da inteligência artificial&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RUE50a1ZMT2NWQ2dLM1NmWFZJU1pGc2puZXJ3ZUJEUXM1RVFHbDJiZUdERHNGaGxkTXNHemhuM3R3ME8tTURiTzU4NFladUoya0ZpQVhrSk5WbGhPUnFTcWVGd9IBaEFVX3lxTE82cXdvYlVoVHRlQ2pWQnBRMkdZQnlZdGtNQXJFS1VsNXRndXV3blR2THRaZ2pFOGZTcXlacEtQQkJmSTJZSWZHMVI1ak15aFY5dUhrcU82NlprWjFwSDdZaDB5dUduTjZU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "be968c50caf6",
-      "title": "Opinião - Denise Mota: Equidade é fator essencial para sobreviver à próxima pandemia, indicam pesquisadores - Folha de S.Paulo",
-      "published": "2026-10-13T11:00:00+00:00",
-      "summary": "Opinião - Denise Mota: Equidade é fator essencial para sobreviver à próxima pandemia, indicam pesquisadores&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX3d6OElZTHlOTlJjdDFFeW94dWIzMjNTdGJpZW5qVmZSaGlVenRwaEJyakFqT3haS084ZTMzN0hIOFNzUjVDa2dNQmgxbmZsRmxyV3B4VjJLNkZKMEVfTWdOOVVQT203NGo4Rk9WQmZ3TnRPUDlaQUxaMEM5VG5wUDNodmlxZ0JQZjNfcVMyNnd4WGxTa0x3REVabEN6aDVNTXBGTjhSTjRLTlY1WERpNjh3LXFTRExibExiX09YWTN6c3o2VzNYaFhTZTNLUW5zY1NDOGlRUzJOakZOYXBqVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e39783c6571a",
-      "title": "Automedicação sexual traz perigos para a saúde; veja sinais de alerta e o que fazer - A Tribuna",
-      "published": "2026-10-13T09:46:00+00:00",
-      "summary": "Automedicação sexual traz perigos para a saúde; veja sinais de alerta e o que fazer&nbsp;&nbsp;A Tribuna",
-      "sources": [
-        {
-          "name": "A Tribuna",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVhuQnVyYVFBaXgyOXhHV3BVeW16a2RKU3pqQ1lSSy1ta0NxQW1HeDZTNVdHTFhwSXozR256WkNFS2k0TlIxRTg2eko2TVc3alcxSFlUNG0wQ21FMUtkQ0cxZS1Kb09OVGZwYWFDRWd4X2hyMXJHdUhyQ3V2N05vREliX3l4X21IZ0VkMDNrQ2ZSOTN2bThZdmJHYzRBRFhZbE1wQkgydmtMOEVCSXJ3Z3hLaUxpRXk0NWg1NEt0X2hLd2JHOTV3TzQzMFR2UHBlN0FLeV81ZHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3a5e99210e1e",
       "title": "Os três pilares para conseguir um sono reparador, segundo neurologista - O GLOBO",
       "published": "2026-10-13T07:00:01+00:00",
-      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsDisposição dos móveis no quarto e poluição visual afetam a qualidade do sono&nbsp;&nbsp;Jornal Cruzeiro do SulDormir não depende apenas de uma cama | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABC7 hábitos da rotina que podem prejudicar o sono&nbsp;&nbsp;Alpha FM 101.7",
+      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsDisposição dos móveis no quarto e poluição visual afetam a qualidade do sono&nbsp;&nbsp;Jornal Cruzeiro do SulDormir não depende apenas de uma cama | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCSono: Dormir 6 Horas é Suficiente? Tire Suas Dúvidas | Saúde Entre Nós&nbsp;&nbsp;Associação Pa",
       "sources": [
         {
           "name": "O GLOBO",
@@ -405,7 +381,7 @@
       "id": "a21bc0941210",
       "title": "Olhos biônicos: entenda como funciona a tecnologia que promete restaurar parte da visão - O GLOBO",
       "published": "2026-10-12T16:53:41+00:00",
-      "summary": "Olhos biônicos: entenda como funciona a tecnologia que promete restaurar parte da visão&nbsp;&nbsp;O GLOBO‘Sempre achei que devolver visão a cegos era ficção científica’, diz inventor de implante&nbsp;&nbsp;Gazeta de São PauloScience Corporation implanta chip restaurador de visão no primeiro paciente&nbsp;&nbsp;Boa InformaçãoOlhos biônicos: ReVision Implant entra em testes clínicos humanos em outubro&nbsp;&nbsp;Distrito OnlineChina desenvolve tecnologia para recuperar parcialmente a visão&nbsp;&",
+      "summary": "Olhos biônicos: entenda como funciona a tecnologia que promete restaurar parte da visão&nbsp;&nbsp;O GLOBO‘Sempre achei que devolver visão a cegos era ficção científica’, diz inventor de implante&nbsp;&nbsp;Gazeta de São PauloScience Corporation implanta chip restaurador de visão no primeiro paciente&nbsp;&nbsp;Boa InformaçãoChina desenvolve tecnologia para recuperar parcialmente a visão&nbsp;&nbsp;TV BRICSComo olhos biônicos estão se tornando realidade&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "O GLOBO",
@@ -422,30 +398,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNS14bVVQbmdTcURtS0w1YlhNZFR6ZVM1MlhLM3RpSWtubFBtU0dpTVFCeF9XYUFVa21aNVF3c1BfdEJFdmVYY3BZdmJROGFXZk9LUTBrcVRzZmNXZ25kalhxdFF2anR4bkhyMGd4VlFEVTNIR2NHWXZIckhLUGVZZHpMU05jbFpJamlOXzB6d3g3V2dGcGNZeEwyQWlpdm1ud19ZUkxCc3RJaEFHZlVGLW10VUdzVFRrZ0FUU3RnMUZ2WjNvLXozZ3RWZ2hLQURDQnpkRW1SNFZCbXpNbE1IckRNMGFIcTZoZFHSAfgBQVVfeXFMTl9ISXgwX0NqTEs4YTc2TTBHTEdqZGtKYzdGYXdkUzE1b2JlaVFVanU1X0F2b1pfLWpjM01EWmhjNVFoYk1ZOGFPUHRYS2ZFemw3bmFWazlFTG5VcWtvZ1c3SzB6UkZ0Sm1uSHBRT2NvTkl6WnZwSGhzM1pmWEpuM2JFWHhWRGg3SFhZZGtKQngtUzMza0Z0OGpNbG1mU2tVVlNZTjJxUjVxbXBBTmptQVI0d0FUcFR2cWR1b0x3dExQUjEtRFdXWTJvQVp5RUwyWHpxdWMxb3ZHQ3JKVmJnMnlNelhnUXpwMjJCdGZHMERLUmNfRl9yems?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49f1fc828727",
-      "title": "5 dicas para proteger o seu pescoço do estresse e da má postura - BBC",
-      "published": "2026-10-11T16:52:12+00:00",
-      "summary": "5 dicas para proteger o seu pescoço do estresse e da má postura&nbsp;&nbsp;BBCMocinho ou vilão? Veja prós e contras do uso de celular e como ele afeta a saúde dos idosos&nbsp;&nbsp;Jornal O SulO que a ciência diz sobre o “pescoço de texto” e cinco exercícios para aliviar a tensão&nbsp;&nbsp;NSC TotalTrabalhar por horas no computador aumenta o risco de dor no ombro? Entenda&nbsp;&nbsp;CNN BrasilPostura perfeita no trabalho é mito, diz fisioterapeuta&nbsp;&nbsp;Campo Grande News",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzelVsMmJhZFI0ZTZxSU9CTi14MU53blFTbHJDYnNieG5PbVc1MVRmSGc0eVBWTDd0QVJFNXlvSUpZem1IM1JLazlHTU1BSjU2OXR0Z29sWnAwN1E0OE85YlFUTdIBaEFVX3lxTFBFLUtBZTE0Z05GX0NTT3ltSlp3U2g4and5Yzhva0ZvWWV4MkRhYUthNjk4WmxpWHBTTnQ2bzlFZ3ZrUE56ejhDekZyWndKUjA0dHpuRm9OUEJlVl9iMXNPUEJTM1NwaUxG?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ffdd8ec7fc7",
-      "title": "Tríplice Viral — Ministério da Saúde - www.gov.br",
-      "published": "2026-10-10T00:51:59+00:00",
-      "summary": "Tríplice Viral — Ministério da Saúde&nbsp;&nbsp;www.gov.brOpas vê risco \"muito alto\" de propagação do sarampo na América do Sul&nbsp;&nbsp;UOL NotíciasCasos suspeitos de sarampo estão sendo monitorados no Amapá&nbsp;&nbsp;G1Quase 65% dos municípios brasileiros registram vacinação contra o sarampo abaixo da meta&nbsp;&nbsp;Brasil 247São Bernardo amplia vacina do sarampo para bebês de 6 meses&nbsp;&nbsp;Portal ABC do ABC",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HSWhiM25aelE0bloyZXA4cmJTQUljOHVhaVJkTDQwMHZHRG1Zd2lwU05qZld4R1FmQy1wcEUwS1lsUmlMdV9pZk1XLU1JTjZ0SzdDUnFlZ2xRa1ZxU21HU3VfTVFuUlVvaW1EcjRzdGgwQm9KVTJWdQ?oc=5"
         }
       ]
     }
