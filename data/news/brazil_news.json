@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-14T21:21:31.726336+00:00",
-  "total_fetched": 92,
-  "unique_count": 91,
-  "health_related_count": 28,
+  "fetched_at": "2026-10-15T03:40:54.944298+00:00",
+  "total_fetched": 94,
+  "unique_count": 93,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "1319b1d0a55c",
+      "title": "Morcego testa positivo para raiva no Jurunas, em Belém, diz Sesma - G1",
+      "published": "2026-10-14T18:21:12+00:00",
+      "summary": "Morcego testa positivo para raiva no Jurunas, em Belém, diz Sesma&nbsp;&nbsp;G1g1 em 1 Minuto Pará: morcego com raiva no Jurunas e 'Missa Amazônica' em Belém&nbsp;&nbsp;G1Caso de raiva em morcego acende alerta no bairro do Jurunas, em Belém&nbsp;&nbsp;RomaNews.com.brMorcego com diagnóstico positivo para raiva é identificado no Jurunas, em Belém&nbsp;&nbsp;Bacana NewsSemas confirma caso de morcego infectado por raiva no bairro do Jurunas, em Belém&nbsp;&nbsp;Estado do Pará Online",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdnZiSFdYcWcxNUZkQ3Q5ODVndG41RUtkbF9TYkxXMjlOTnFwZUc3U2ljdXRnUlJPWld1Z0tERGc2Q2JmRU5TV2oxVm5uRlNPckJvc29QM2U5Z3BJQ09BcEFuSTl1Rm1sTzF0cjFUa19yMUlQeTZacjlQSlhoaHNrdGZmZC1iOUg4TU5jQTByVk9ZVmZNTDJIUWVCalVmWnNSRTRROXFBT2JtTG_SAboBQVVfeXFMTllXc3gydlBBTG14UFlUcEMzc183SWV2QkUzbmlwSFNfV1I5NHNaMkctRlhoMjVWRFoybzhkQmpEc0ZURG94SEYxLWo0TmZFYkEyOG9penFqanlwcDFMM2hPX24tMkw4RWRaSnB3a3lBdlRycGNrNi1FV2U3dzlsVVFXUXUzczUzZjM0NUcwdEladUFWdWFCVnBTS003dWRZS0JhQ0FqNVRUM1I5eXdfb2dEWkM0OEw5V2VR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "34a87d02a93e",
+      "title": "Para evitar a tristeza e aumentar a felicidade, você deve aderir a esses 10 hábitos, segundo psicóloga - Minha Vida Saúde",
+      "published": "2026-10-14T15:45:24+00:00",
+      "summary": "Para evitar a tristeza e aumentar a felicidade, você deve aderir a esses 10 hábitos, segundo psicóloga&nbsp;&nbsp;Minha Vida Saúde",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hQ1ZrNlpwSjR6bEwxb0RQYndRbjZqTUNqdDQzLWJlNWs2WmtTR1BJWjNZbXFDd0hXa19pazN2c1NnaFdVSm9iYk1qc1lwblNqZ1pPT2tLSDA2NWp5UVZUMdIBZkFVX3lxTFBsU0l2c3M2dlUyY0labThMaWtkQnJsTEVKVW5CUEtaOGJveTVOejVNNmJwQUx3SEQwZmtuOEI4N1hrNHZESlI5UUFtWGxBV2RZTlNlYTRDSHZGalFGNTRSVE93eER0QQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "44fd51d0ce71",
       "title": "Adolescente procura médico por inchaço e descobre dentes nascendo na região do olho - Exame",
@@ -14,6 +38,18 @@
         {
           "name": "Exame",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSV9qWm1tNl9WMUprTGUtSWJYWXZFVno3VzBmdGJUa1ZrNFN4TEhzbVVZcVR1QjZ3bjJEX0JTWUl3cjA3bllmRVpPRFVuMWlBQ3VyZWUxS1AxbXV6ekRiNWplTjlTT0xZV3pSYWdFT0RhYm9pdzN4ZVR6YW5tLS1QVnBfUEhyampxeVF0SnlIbUwtTTlHNUdpTzM1Y2tUZTNkdEJWUEtUeGctY1FtemdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0eedaa8e5962",
+      "title": "Cuidado ao diabetes na Atenção Primária: profissionais do SUS terão acesso a curso gratuito com certificação - Governo Federal",
+      "published": "2026-10-14T15:15:49+00:00",
+      "summary": "Cuidado ao diabetes na Atenção Primária: profissionais do SUS terão acesso a curso gratuito com certificação&nbsp;&nbsp;Governo Federal",
+      "sources": [
+        {
+          "name": "Governo Federal",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYzBJSUMtUksxYlpKWVI0MzNlNXl6ZmN4S2g0UGlOMDI5cHJxeUMxQ1A2dXJOZ0dqaXZrRGdQLVdoWFNXVXRRMUtXUTBoWUVBcTRfTWl3TW04dk9KVE5UNU94QTNCY0NjeVdTczZ5aTloRGdZOUM0LU9LcjVja0Zaek1iUzNVd0VEVzVHd2tUQkhRVUFyam53T0o0ejdLaEg5U1BudEgxMTJuWnNFNHE5YUJEM3BlUjhaS28zVFdrajNLR0xMZkN5OHB0SUtxX3h3VEEyWHh6ZkpJMFZWQlk2UXZneVJxblpnaXlsSDVQb182M1BTM3ZLb3dCa29ub2E1TEE?oc=5"
         }
       ]
     },
@@ -66,14 +102,38 @@
       ]
     },
     {
+      "id": "7a8352ec570c",
+      "title": "Nikon retira prêmio de vídeo de microscopia de cientista chinês após pesquisadores apontarem ‘alucinações’ de IA - UOL",
+      "published": "2026-10-14T12:54:32+00:00",
+      "summary": "Nikon retira prêmio de vídeo de microscopia de cientista chinês após pesquisadores apontarem ‘alucinações’ de IA&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjFJczhvdUZmMnJxTFZXaUFvM2Z6TEFuYWRnYTd2WUxNeVdUalRfd0IxUEN4SDlJYmxsRzdwWHVrY01LUHlaZUQ2QnpVY21xVW0wWVRRZzBUUUR5dkFjclpzYmJ6dTlEX0stZ1BkcHlHeGt4V3IxZW8yMjFEOVFDZ1VzSlVtV0ktV0VwUUlwNDVyazJ2RlJwTNIBngFBVV95cUxNVjVpVzdaSVBNclNLVmdPQWIzcHJNSEhfY0I5VC1hMlptdEFOM1NiT1dGOHZpZExaRExRY2gtYTlwbzMxRlZ5dG1GNWpNSkZlWUpKUHRvZkZaUnh0OXV6TjAyTGFsWVNuSkQxS0hBWEUzTFpGdFVDN2FPRXFiRzNyekJLcmRPcmxjQ0pwSnhOcEU0U1dBQVZpT2dxdDhtdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ac03c22caeef",
       "title": "Anvisa aprova novo medicamento para tratar lúpus - Agência Brasil",
       "published": "2026-10-14T12:43:00+00:00",
-      "summary": "Anvisa aprova novo medicamento para tratar lúpus&nbsp;&nbsp;Agência BrasilAnvisa aprova novo medicamento para lúpus eritematoso sistêmico&nbsp;&nbsp;O GLOBOAnvisa aprova novo remédio para doença autoimune que afeta pele, rins e cérebro&nbsp;&nbsp;VEJAAnvisa amplia uso de medicamento para tratar lúpus em adultos&nbsp;&nbsp;Tribuna do NorteAnvisa libera nova opção de medicamento para adultos com lúpus&nbsp;&nbsp;Rádio Metrópole",
+      "summary": "Anvisa aprova novo medicamento para tratar lúpus&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWk1GYkNla3kzWS1pLVVBZVhPYl9pTHR6QUxRVnZOTHEwVzJ1akYwN1F5bGdqWFg5UU5WV01SVHMyQ3RfaWtwTVpKYm0zYkJQSXI5Rkt1SUh0RHU2OEkwb3VydkN6aF9nYzgwR3BJRFdVVExxZFhtcG5IN2ZreGxSSHpkVXI0OWZaRmRubE1Nay04SUZ6UlpUNWNFWnJWMDJMTGt6VkJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f55b3df6bed",
+      "title": "OMS recomenda vacinação contra o HPV a partir dos quatro anos - Folha de S.Paulo",
+      "published": "2026-10-14T12:19:00+00:00",
+      "summary": "OMS recomenda vacinação contra o HPV a partir dos quatro anos&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUk5SFB4dlBtNFA4WG8wLUl6U3E1Z2tTcFdZTlhUNlVqdjhLTjZJOEpTWVNxT0JDYzZ3ZXR4b3lXTlJRTWliejZZdVM0VzR3NVVzZDBiT05wM2ZocjV2WVhOcEVFSUI4aE5EdzV6emRZS0k5US1aXzhJc1F3Q1V0cTJhM3dHUS1Qb0xRSEtNTllHUEhFT055Nm5RR2RuUUVONmJob3Rob193OGNnaVJtb1lHSWdVRFhQUDhlY2Vhcw?oc=5"
         }
       ]
     },
@@ -102,6 +162,18 @@
       ]
     },
     {
+      "id": "39fd4d2e75f5",
+      "title": "Papa Leão XIV passa noite tranquila após cirurgia para tratar câncer - O Dia",
+      "published": "2026-10-14T10:34:00+00:00",
+      "summary": "Papa Leão XIV passa noite tranquila após cirurgia para tratar câncer&nbsp;&nbsp;O Dia",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON09FRTZyV1JCd05tQmFZR3d6UkdfRkpEWUppY1JrMFlLcFU5ajZqYkZDMDBsdnFuVXdBa3dGRV91ZG5zTXRKSlI3cE9sbi1uZGdzbVJKTW5ZdXZITHZKMDFvQnk1dHZEelRxWXVEbUR3Z1VBLVhVUUFZblJEVjVXbjZlb0FPd0lvY214NEstMUdGY283WC1jd0VlZHJGWGs4Yms2QU0wUUZjYTh6SGZLTndmQkYyejU4U1Rpb0V2WG0zTXpBYUMw0gHMAUFVX3lxTE9PamMxS1pCM2dPRHJMWGJybHBWYXJ5TnZidXNZZnRHQ1NTcW5kaFhiYWVDNEpIVWU1MEw5TElKVDdZN2lDNFYzNUNhdExqcHlLbFREY25HTW9hWXQxaEQ1aF85ZFFoNkZIdzdRdzAzOG05eHppeVFqZlFYakdHSHotd0VBY2Flc0x3WmNPOTB6SGlJR3hOeGR0elBEdktXX1I1VGs2RVpvdUQ3MGlOOVd6YTVWLVJMNkJiLW1FZmhYcm9FdnFCbmNEX2tQeQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "05542768cf3e",
       "title": "Vacinas: como França foi além do combate à desinformação para aumentar cobertura vacinal das crianças - BBC",
       "published": "2026-10-14T10:26:08+00:00",
@@ -122,6 +194,30 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3pUMUR2dlIwNjdWYWo1RFlVMExiOEdRYzBwQWYxRkhQMjNPdTNOY1BBcV9tQzlHcTh1aENyTmJQRDN4cTZJY3dSVjF5V0o2T1ZoS0JBbEFrTnZPSUEwSVFYaGVNNWNKd3gtZEkyajVzTzBkbmVJSUREUWNMY2tqWWQ3QmJOQVVfaXBXd0xFZEdaUGo3VXF0SER3Q2NZSVp4OGF6UGp0Y0U0a19rbWtPWTlLX0xfN05vMy1Z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "766e54fdd2fc",
+      "title": "Cães grandes X pequenos: por que um grupo vive menos que o outro? Novo estudo explica - O GLOBO",
+      "published": "2026-10-14T07:00:00+00:00",
+      "summary": "Cães grandes X pequenos: por que um grupo vive menos que o outro? Novo estudo explica&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTDZUekExSGtDdTM0NmxhYTVVQjdCZ05xUjg2Y0puSWw2am1rMWRtdS1NZjJTVW02OTR4UnFWMDhMWEJLZWx5NC1QdVhIeWt0aTJHWF94Y0EyV0JoWjcxRXRmZFJDd280LTdMbldCclNZWGRWOUFwT2hDS1FhR3VhcEpjOERVVzF1SjJmd1Mzb0JybDlOTC05V2Rfbkp3aHFCWDN4ZDJ0WmJ2RGJxSW54ZE8zc3d5eGlCQzhCSThLMzBvRzFwYjlweTVVRnA2dlJZX3ZlOENB0gHkAUFVX3lxTE5GRGktREw3V3RZM19Wd01DNlluYnZvTW9Qd1FGU05zaFk0UkZnUmRNem82V3kxOHRQd3JCTjdFRmpkUHpyRlZyYksxQkszeWw0dE1LOU4yQWc3d0c5R1FBSXllUzV5NHhkMVgwREx4dHJDeTFvdGNGeHMyNGIwb1FIRmFlVW5nejJJOFNXdFRNSjFlX1hIQk1TWTRJeGljdEhmNUlqMkdMWHZNLVZpRmt5Z2hyaGNGVTJjVGR3bXlCOV9QRmhNRko5alYzZ0RacUNvaXNYUG0tYWZhOTR6YThHbGhoWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "713234e46239",
+      "title": "Mau hálito pode indicar problemas de saúde em outras partes do corpo - Metrópoles",
+      "published": "2026-10-14T05:00:00+00:00",
+      "summary": "Mau hálito pode indicar problemas de saúde em outras partes do corpo&nbsp;&nbsp;MetrópolesMau hábito pode esconder problemas de saúde graves. Atente aos sinais&nbsp;&nbsp;Notícias ao MinutoMau hálito persistente pode não ser falta de higiene, mas é preciso avaliação&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0ZHYjl2bUNieVhSckhFOUJFb2tBZnc3bWp4T1pJbWZ2d1JZNFVmUHR1OUJlVWZLMkxhMzVDMjZQMzBGVWVCT3loVkVVUWE3dnY3TE9pM0FNV1h5dXAyWWp1V3QxM3dsdFdKMDVNU3QxY0V4M0hYTkZnVnlXUVY3UExBdWk3dzE1UWFDNkhGcmlBUktyaHE0YVRtRFpMbVVmVzdN?oc=5"
         }
       ]
     },
@@ -174,10 +270,22 @@
       ]
     },
     {
+      "id": "65127b52a587",
+      "title": "Mudanças e sintomas da menopausa começam muito antes da última menstruação - CNN Brasil",
+      "published": "2026-10-13T23:52:33+00:00",
+      "summary": "Mudanças e sintomas da menopausa começam muito antes da última menstruação&nbsp;&nbsp;CNN BrasilMenopausa exige ajustes alimentares para amenizar sintomas&nbsp;&nbsp;Bem ParanáMenopausa vai muito além dos fogachos: pesquisa aponta impacto no sono, memória, libido e energia&nbsp;&nbsp;Jornal da FrancaDia Mundial da Menopausa: Perda de urina é um dos sintomas mais comuns&nbsp;&nbsp;Repórter DiárioMenopausa pode mudar a pele e os cuidados também&nbsp;&nbsp;Revista Ana Maria",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGs3NnNMSUYxVnV0em8wbmliakxidVNBUVM5TlV2YXpvTzdONDNMM05IWEtocHFvMUlvTjYzQWc2a2pLMjNDZkxfU3lETnBBRXl4SVZPZmF0M2NiRndLeTJhR2N6dGlhcDZZTG56QXZJTDNzTm02R0ZQTWFOMi1UVXNMSFZRUVFQTHhXLWFsUUVjOXUwZmYwVDhpaXlWaVhVdUlNMzdCU21XRjBhUFJ3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d2a89b3c050d",
       "title": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento - UOL",
       "published": "2026-10-13T23:08:25+00:00",
-      "summary": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento&nbsp;&nbsp;UOLPesquisa aponta que 63% dos brasileiros estão acima do peso&nbsp;&nbsp;G1Obesidade pode ser prevenida? Aprenda o que está ao alcance de cada pessoa&nbsp;&nbsp;D24AMObesidade vai além da estética: entenda os riscos silenciosos para a saúde&nbsp;&nbsp;TerraNotícia - Botucatu reforça a importância dos hábitos saudáveis na prevenção da obesidade infantil&nbsp;&nbsp;Prefeitura Municipal de Botucatu",
+      "summary": "Lúcia Helena: O jeito de classificar a obesidade pode adiar demais seu tratamento&nbsp;&nbsp;UOLPesquisa aponta que 63% dos brasileiros estão acima do peso&nbsp;&nbsp;G1Seconci-SP alerta para os riscos da obesidade&nbsp;&nbsp;Sinduscon-SPIMC sozinho não basta para diagnosticar obesidade, aponta estudo; médica explica o que o índice mede e o que deixa de fora&nbsp;&nbsp;Tribuna HojeMês de outubro é dedicado também à prevenção da obesidade&nbsp;&nbsp;AMM | Associação Mineira de Municípios",
       "sources": [
         {
           "name": "UOL",
@@ -210,14 +318,14 @@
       ]
     },
     {
-      "id": "c5d6859e8f80",
-      "title": "Vacina de herpes-zóster: quando tomar após infecção e por que não há no SUS - UOL",
-      "published": "2026-10-13T19:58:43+00:00",
-      "summary": "Vacina de herpes-zóster: quando tomar após infecção e por que não há no SUS&nbsp;&nbsp;UOLVacina contra herpes-zóster é associada a menor risco de demência&nbsp;&nbsp;Poder360Vacina contra herpes-zóster pode reduzir o risco de eventos cardiovasculares graves&nbsp;&nbsp;TerraSintomas do herpes-zóster antes da erupção cutânea: sinais precoces e cuidados&nbsp;&nbsp;Kantesti AI Blood Test AnalyzerHerpes-zóster: quais fatores aumentam a atenção para a prevenção?&nbsp;&nbsp;A Crítica",
+      "id": "5850e261c47a",
+      "title": "Mounjaro e Ozempic podem frear envelhecimento? Veja o que dizem estudos - Globo",
+      "published": "2026-10-13T21:12:51+00:00",
+      "summary": "Mounjaro e Ozempic podem frear envelhecimento? Veja o que dizem estudos&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVVo4MnIzT3MyQWljTDhIUzBkR3ZEX1hYWHNFU1JpWjN4dUFjcF9pT1VPU25uQXlYWFdOQVZkYjhjZHRyU1BzeEpDQ1NEMGdhOHdEZkxfTmw1Z0x2UlVnQk9oNEFWUC1PQWdUc1ozQ29tNTRhWk9va1VZbVI5cGtuZ1J4eFBMY1VNQWI3d3VWTkNKM2lScmc2bmdUQzRIdVBVVUFrS0VlSUtud3V3bFpaRjQxR1g0WkFkbUUxNWwxOXV0MVdheXYzNWJieWhsMHBNZ2dROQ?oc=5"
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczZNX1hJMlBhazZPMEU0MTB5RmZhWnlfMUdFbmFwXzc2Sk1vZnJyLW9MZFpnemZwbWRIRkxaREhFNlNBSFZtbk1qZXZwb0tlbWhzWGhwTUt6TmNmbkw3RGI0aWtvQngxNGFuUFM5RnRfUG1BbmZNbVFtc1ZEYl8xSTZDakcwVnJsc0dZTjN2TkxwOWMzdzUyTDJWMTFjNEZJX1YyWTRHV0pQU3BBWmFEUWJ0OHZOMWk5Xzh6LUc2ZFU4ZmhxQ2JVQWZRa9IB2gFBVV95cUxOX1htOC05WUk5Uk5SX2YtVUtZcjh1bFJxS1ZaYkl1T3JxTlFkWm5aS1FrMHliamFLdVd6c2tCcmVyaDljWTJneTAxQVJfMmV3N1p5U2gxd2h3d2xLb2ptRlJHSmpWdnhGMjBBbEZMb01sTWZhWkJXQWtqVVliUmFtdUgyS0VFbjNDMDFITWFrOXM2VnNqRVRVUkJJX1ptV3plTndXaGo4dzNSakY5bnN0OXRfLXBpczVpQkhCOWNTQzk5S2JDNDVQbDJMa2hOeFNHQzA5OFdqZTJGUQ?oc=5"
         }
       ]
     },
@@ -225,7 +333,7 @@
       "id": "4abdc6e0c8dc",
       "title": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE - Diário do Nordeste",
       "published": "2026-10-13T19:52:28+00:00",
-      "summary": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE&nbsp;&nbsp;Diário do NordesteEusébio e Maranguape iniciam implantação do Método Wolbachia contra arboviroses&nbsp;&nbsp;O POVOAnápolis inicia soltura de mosquitos com bactéria contra dengue&nbsp;&nbsp;iG Último SegundoMétodo Wolbachia: Crato recebe mosquitos ‘especiais’ que auxiliam na redução de arboviroses&nbsp;&nbsp;Portal MisériaSaúde acompanha implantação em Anápolis da metodologia que reduz dengue e ch",
+      "summary": "Mosquitos 'especiais' que ajudam a combater dengue começam a ser soltos em outubro no CE&nbsp;&nbsp;Diário do NordesteEusébio e Maranguape iniciam implantação do Método Wolbachia contra arboviroses&nbsp;&nbsp;O POVOAnápolis inicia soltura de mosquitos com bactéria contra dengue&nbsp;&nbsp;iG Último SegundoMétodo Wolbachia: Crato recebe mosquitos ‘especiais’ que auxiliam na redução de arboviroses&nbsp;&nbsp;Portal MisériaCambé inicia liberação dos Wolbitos contra o Aedes&nbsp;&nbsp;Um Jornal Regi",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -234,26 +342,14 @@
       ]
     },
     {
-      "id": "331911ba461d",
-      "title": "Homens costumam descobrir câncer de mama em estágio mais avançado - Agência Brasil",
-      "published": "2026-10-13T17:20:00+00:00",
-      "summary": "Homens costumam descobrir câncer de mama em estágio mais avançado&nbsp;&nbsp;Agência BrasilHomens descobrem câncer de mama em estágios mais avançados&nbsp;&nbsp;Jornal de BrasíliaSBRT alerta para diagnóstico tardio do câncer de mama em homens durante o Outubro Rosa&nbsp;&nbsp;News RondôniaCâncer de mama masculino: risco aumenta com a idade, explica especialista&nbsp;&nbsp;Blog do JuaresNo Outubro Rosa, Fecomerciários alerta: homens também devem ficar atentos ao câncer de mama&nbsp;&nbsp;Rádio Pe",
+      "id": "e21c45d14e83",
+      "title": "Libido baixa: seis fatores relacionados à alimentação e à saúde que merecem atenção - Jornal Correio",
+      "published": "2026-10-13T18:50:31+00:00",
+      "summary": "Libido baixa: seis fatores relacionados à alimentação e à saúde que merecem atenção&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYUsxMm9nVUs2bWpMeHlaUDFUVHVFd1F4SU5GU0pLLU5Id2oycmM4RF9sV3lFS0Z2eERnLUhzcUJPX0FhT2IwRU9iOHZfbWRZTWp3MGx4VDVfVC1QTS1RYVowSnk2NFZZYmxOejg5YnpvWWZjN1p4c0FSbXdvY2pwWGFfc3lxZ0VBUC00UHhybzg4emg4emJFZTgzekYyLVJpbTktQnk3bHk2aDFQMUVxZFp0bWhfelI4OUhTSA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81882f2324f1",
-      "title": "Estudo: Canetas emagrecedoras são associadas a alterações em unha e cabelo - CNN Brasil",
-      "published": "2026-10-13T14:14:41+00:00",
-      "summary": "Estudo: Canetas emagrecedoras são associadas a alterações em unha e cabelo&nbsp;&nbsp;CNN BrasilCanetas emagrecedoras são ligadas a um inesperado efeito nas unhas&nbsp;&nbsp;VEJAPerda rápida de peso gerada por canetas emagrecedoras traz riscos, alertam médicos&nbsp;&nbsp;UOL NotíciasCanetas emagrecedoras mudam hábitos alimentares e desafiam bares e restaurantes&nbsp;&nbsp;G1Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUJYVFRVRnU1dlkyR0dhdGU0UVhQdHNReWM1YWN6QWFZa0g1VFRBSE5QSG1rQXM0LXJPcVdMRXZldmdheERkLXRoSUNvQnhLbENraHBmeEo5aUZVbXZ5YTJkeks0TjFLMmpJVVA2eDl1a2NrLUlLajJ6alpCV2Q1eXZaMUxBSHRXRVdDMTdMV0JyQlpraUo2WGt6SUhoZFFpMFcwUEFJVnZzcHJ4Qmc?oc=5"
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmZ6ck5rTFBscC1YQ3pMN1F3SUxoTmZuRTUxakNNWWEtUGZEVDRSOEVCeFhsUHRhOFljRXFhNThod2xJZFM2TFNMQ0FBZlpNbWRtX0lnckFxTlRBQ19sQ0tsTEdMN29uVGpOR1dmWVpacEdyYVE0RmpLVXRoWWdfbldZTVExWFVUdWRJS3UzTFZ1aWVwMGNQNVBqdFVtcEkzdkdLSXpqVEtjZGQtNnlhaTdJSGxnOWc2clQwZ3E2dnJRMHBMUUE?oc=5"
         }
       ]
     },
@@ -309,23 +405,11 @@
       "id": "3a5e99210e1e",
       "title": "Os três pilares para conseguir um sono reparador, segundo neurologista - O GLOBO",
       "published": "2026-10-13T07:00:01+00:00",
-      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsDisposição dos móveis no quarto e poluição visual afetam a qualidade do sono&nbsp;&nbsp;Jornal Cruzeiro do SulDormir não depende apenas de uma cama | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCSono: Dormir 6 Horas é Suficiente? Tire Suas Dúvidas | Saúde Entre Nós&nbsp;&nbsp;Associação Pa",
+      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOComo dormir melhor? Especialista explica os segredos de uma boa noite de sono&nbsp;&nbsp;GZHCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsDisposição dos móveis no quarto e poluição visual afetam a qualidade do sono&nbsp;&nbsp;Jornal Cruzeiro do SulDormir não depende apenas de uma cama | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABC",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeTg3LUJUUE5raTdENm9MTTF3RHZhMWtBUGVhV0FDRnI1VEl2N2szM0hOWm50MlBYSGMzNkgyM0NqbWRtcTVha2xLYUI4MHItZTByRUpwcGJDY3lxNHdETmlmR0xTcEZmX0lWWUdNbFF6bUlSbGNQakI3aEYzVm9XMENJaGdoSHpUTFUwdm1xaEZUZzVENGpQMWtyN0N5cjJISGJYOXRvWmlCVElmblJGZGlPUFljRkNYOERpQU9KQV9IazlkYjM1eUY2dG1MbUti0gHfAUFVX3lxTE94OUtDa2R1UXZsdUd2MjY1NVR0TDlZZHVXb3FWY0dXVkI1c0N6cXU5YUpxdFljckp0XzhRZ0Vra3I3SE9taVBWR1BfWnhiUFJJVGJyQXFsaHgxTlRUNXZlMXhTemNGSHRsUzJYV0QzZEVCWkRLTE1UR1ZUYmNVYmRIemk4U2I1Z3BQRHhCdDdpaTYzc3RXX3lMTjRHQnpYQzdhN3BfQ1ptLXdBcEtaMFB6ZWtJaUxSSk1NMHdSWXpPOHdVTG9DWDdBTmhtWS00Qll5NFQxUFVPMXhGUVR1ZW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bebb0a7467ce",
-      "title": "Jovens, gestantes e bebês concentram casos de sífilis no Norte de MG; região soma 6,8 mil notificações - G1",
-      "published": "2026-10-12T18:22:11+00:00",
-      "summary": "Jovens, gestantes e bebês concentram casos de sífilis no Norte de MG; região soma 6,8 mil notificações&nbsp;&nbsp;G1Outubro Verde alerta para prevenção e combate à sífilis após alta de casos em Marília&nbsp;&nbsp;G1Araruama terá Dia D contra a sífilis em 20 de outubro&nbsp;&nbsp;O FluminenseOutubro Verde: Saúde reforça pré-natal para combater transmissão vertical da sífilis&nbsp;&nbsp;Jornal de BrasíliaCasos de sífilis em adultos sobem 12% e Manaus reforça testagem&nbsp;&nbsp;A Crítica",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVmV1SG1aYlpaRGswT1NuN2FRSmpxaFBpSEppdDR3djBYVkJOcjFjejlYeVZJQW42WFlScnlXaU1pMlNCVTNwZnVORDdYaW93NHZjSW9yTnRFXzBfaE5SMWhjd1cyYWFvUS1jYnotWHItaFlDamF3MTZONUhRVDV0OTZHMXFTX3ZVYnBwRU5LU1hVa1M5NzhUQUhyZDRNcVJnbi0wN1ROZHpLUUNVN3Jfc01qNVJNMGFaaEtVbFlXblI0TXhjN0dHVUY3dkhveDZXa2NWZDkxMkJCcnVXcWNjWWRqQm5hM0NPc2RobDk2czNUc3PSAYICQVVfeXFMTVZrTVdJTEU4TTQ2UVIxSGxpQUxLSm16eDNTZ0VsSTkwdjdfY3JGSndxTVFXWmk0aHpRelVmR0M1eDZSUFpmSUpaSnNQMF8yOHBQVHphbHo1WHNXWXREbkdCWDd4UDZ4WUFtQkRLTTNCelJHNmlqcDdxLVZxSV81R3UtNG5menc0ckprMjI3djZ6NEUzYUptenFfMkpScXR6eWtmWU0wQUtwaTBFSFZ3ZkdCNDk5TlZUcDVPTkU0aEI5RkV5ZFJ6QkNucEsyVFVwZ3ZhbEI1OVNKZnVnNll1VUM4dHBFYm91VjZqT2IweVdTdllia3ZGSnVLY1pGZnNvblBB?oc=5"
         }
       ]
     },
