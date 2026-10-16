@@ -1,5 +1,65 @@
 {
-  "generated": "2026-10-15T21:02:19.037563+00:00",
-  "count": 0,
-  "news": []
+  "generated": "2026-10-16T03:37:06.633386+00:00",
+  "count": 1,
+  "news": [
+    {
+      "id": "9f99bbaeacbc",
+      "title": "Idosos a partir de 85 anos podem se vacinar contra pneumonia em Fortaleza - Diário do Nordeste",
+      "published": "2026-10-15T13:40:14+00:00",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVc2cGp6WDJTQU5hZi1OOXlFaGFKRjRDX0l5QlN6NlFRSG44NlF0aUVDVDVWUDVEVHQtM2RsNUVaazFST3EteEJZX2RBWHZnY2FvMjZOb0Q1dERTYnpYX2I3WFY5azRtTkttWHlPa0VKcnFqRmx0NVJjUUd6TW5rS0xRQ3lBNUJlNmxoQ19UekNxb0lySXZibUI5UUVLTFZSbmpZUFBSbE0tSllzSnU2djZCSkY1emVfUDJFZDFNMUJLNlN5U2tQVG1LQ0lVUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "pneumonia",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "infecção pulmonar",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

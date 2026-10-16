@@ -1,19 +1,31 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-15T21:02:17.706828+00:00",
-  "total_fetched": 88,
-  "unique_count": 88,
-  "health_related_count": 34,
+  "fetched_at": "2026-10-16T03:37:05.686702+00:00",
+  "total_fetched": 85,
+  "unique_count": 85,
+  "health_related_count": 30,
   "news": [
     {
-      "id": "dcc94583c6fc",
-      "title": "Mãe pede ajuda para transferir filho esquizofrênico para Porto Velho após ele fugir de hospital e apanhar nas ruas, em Vilhena - Folha do Sul",
-      "published": "2026-10-15T18:48:00+00:00",
-      "summary": "Mãe pede ajuda para transferir filho esquizofrênico para Porto Velho após ele fugir de hospital e apanhar nas ruas, em Vilhena&nbsp;&nbsp;Folha do Sul",
+      "id": "19aa5947187b",
+      "title": "Lúcia Helena: Câncer de mama: coisas que nem toda mulher sabe, mas que deveria saber - UOL",
+      "published": "2026-10-15T23:19:59+00:00",
+      "summary": "Lúcia Helena: Câncer de mama: coisas que nem toda mulher sabe, mas que deveria saber&nbsp;&nbsp;UOLES teve 7 mil casos de câncer de mama em cinco anos&nbsp;&nbsp;G1Datafolha: 33% das mulheres querem mais informações sobre câncer de mama&nbsp;&nbsp;BandCâncer de mama: Vitória amplia exames e cria acompanhamento para pacientes&nbsp;&nbsp;Folha VitóriaES Hoje 15/10: Câncer de mama: eleitas querem reforçar combate&nbsp;&nbsp;Jornal ES HOJE",
       "sources": [
         {
-          "name": "Folha do Sul",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM3ZFNy1DTGozanpRVV8yMWt6Q2xnTzRRVzMwSlhSRWNhcVhKNk83VEFVQV9uZXQzMTZEbXhSMTJfVzBOMkstYi1qWkI2VDR1VjhwdW9QUzhmampqQ0pXSnhORGtNSURLX0Y5YnpxajE0TVNlUFlOSUd5bzh0STV0cTZWQnNYLXNqYTZlR3dpRmVBOEdUdFYwYXB2Rkl1VXNjSko4eFFWSE4wTmZ3V3VLVzZSU2NwNXktbkxjdE9rMGlmeFZPN0dGXzdvVDViTmFpalJ5bWthcDNTX3EwTVVGSFNFdXlqUUxOa1I0cjlB?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnpHVllkNnJMZE9VeWFqT2VFOFAwMXZJRmQwaDRfSWhEV1gwLW9aajdBY2tkOHhsZ2RjanVLMEVxbG5LVk9zNzE1ekEzSXNIZkNOUlVEY3BncXhEQ2lIVlAzd1VNT3NXUWl4dThabjdkQnBjVUlCTTZWSnlOMEk1UndWZ25TMEZZU0d1dE1vZnA0Z2k3OVB6VWs2WE8yb1lXUi1oU1RrdGRIdnJFR01aVC1xZGZJWTBjbmJSeS1wdlM4MjRqRFNqa2RobGwydFBNQjln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b64b6772aa12",
+      "title": "Cinco pesquisadores da UFPI entram em lista dos cientistas mais influentes do mundo; confira - G1",
+      "published": "2026-10-15T22:06:16+00:00",
+      "summary": "Cinco pesquisadores da UFPI entram em lista dos cientistas mais influentes do mundo; confira&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVZwTmkyLW1uZjJaRF9ERVJ6c2JrbXFtWktFcFBVZmlsMF9pTE1tZFdFZ2lJMktVN2xxd0F1UTYxOGJHekJaUnNaa0oyd19MQkRydTI3TW0tWnBlSkVCNVFpMXZEQWtGTllDMnRWRHk5dnRzaXFmR0U1S0syRk9iT2VaeTdLVzI1TkU5R2dfT0tkS2VZekRBbjZCSktTbGZmaEI40gGyAUFVX3lxTE1XbGpEakljUmRYZUpxeVZzbDRkNTRic2pMeU1IOElLV0Zha1lsUlkwV1BUdmwwNWVQVVBVQi0zR252STlLX3BIY21NWFpzbTY0dXVtOF9LMkpVTml5Qm1GM0lxTE1fTDhtMWktT1VPbjNpSkJCRmFZbVpfMDQyc3lONEZPQ3h6VkU3V2prb3p5WEVCcV8yOEN5X3dfLVZzMEF2Y09jNXVxNWpiQmNIX3dzRGc?oc=5"
         }
       ]
     },
@@ -42,6 +54,18 @@
       ]
     },
     {
+      "id": "489d5d1df45b",
+      "title": "Se você conhece alguém que trata mal garçons e atendentes, a psicologia tem um recado para eles - Minha Vida Saúde",
+      "published": "2026-10-15T15:30:49+00:00",
+      "summary": "Se você conhece alguém que trata mal garçons e atendentes, a psicologia tem um recado para eles&nbsp;&nbsp;Minha Vida Saúde",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90M3pTZkpWbGN5Z3djbGFvdkJsckJaRTlQYUdaR3UxdWFIaGxPSVN6Y3VldFR2MDdjYlR4LWlMdEFWMGRuRkFwMUZVY0JKbTlWOHIxMURCZmxDOGZnbDFDcdIBZkFVX3lxTE51bEx5cl9ha00xaHZQLWRNLWVBQi12LThNUTNfZHNkMGVya1pyUVpFOXU4RVFCYTZ1eUhmYlVGUTMzb1pFX3VoWjNPQ19admV1bzF1RUlQZUV4eC1WcVFVbFRiZkwzdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "44f0ea4bed03",
       "title": "Segundo cérebro: por que a sua ansiedade e o seu humor moram no intestino? - UOL",
       "published": "2026-10-15T15:00:00+00:00",
@@ -54,14 +78,14 @@
       ]
     },
     {
-      "id": "aa6859a5fa50",
-      "title": "Cantor fará cirurgia no cérebro estando acordado. Entenda! - OFuxico",
-      "published": "2026-10-15T12:42:00+00:00",
-      "summary": "Cantor fará cirurgia no cérebro estando acordado. Entenda!&nbsp;&nbsp;OFuxico",
+      "id": "9f99bbaeacbc",
+      "title": "Idosos a partir de 85 anos podem se vacinar contra pneumonia em Fortaleza - Diário do Nordeste",
+      "published": "2026-10-15T13:40:14+00:00",
+      "summary": "Idosos a partir de 85 anos podem se vacinar contra pneumonia em Fortaleza&nbsp;&nbsp;Diário do NordesteUma picada, 21 alvos: a nova vacina contra pneumonia aprovada pela Anvisa&nbsp;&nbsp;VEJAPrefeitura de São José inicia vacinação com Pneumo 20 para idosos 85+&nbsp;&nbsp;G1Nova vacina contra pneumonia e meningite chega aos postos de saúde de Alagoas&nbsp;&nbsp;TNH1Porto Alegre começa a aplicar vacina Pneumo 20 em pessoas acima de 85 anos pelo SUS&nbsp;&nbsp;Sul 21",
       "sources": [
         {
-          "name": "OFuxico",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblB1bnNWY1htT3RHT1JfMlM4V0Q3b3B5RVhMdUo3dUFDd2RRaHprekswejExWDFVUkNHNTh1Y282VFdZanpJaTBSTElFb0J6MzhBZE9zcHg0ZUI0WGRGcmJOMEJOamVkSERaOFZMeTRXOXB6SVNzM2JGRHJlX3NMNU1TRVVOYlBVRzROZXdpMFhtOGc?oc=5"
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVc2cGp6WDJTQU5hZi1OOXlFaGFKRjRDX0l5QlN6NlFRSG44NlF0aUVDVDVWUDVEVHQtM2RsNUVaazFST3EteEJZX2RBWHZnY2FvMjZOb0Q1dERTYnpYX2I3WFY5azRtTkttWHlPa0VKcnFqRmx0NVJjUUd6TW5rS0xRQ3lBNUJlNmxoQ19UekNxb0lySXZibUI5UUVLTFZSbmpZUFBSbE0tSllzSnU2djZCSkY1emVfUDJFZDFNMUJLNlN5U2tQVG1LQ0lVUQ?oc=5"
         }
       ]
     },
@@ -74,6 +98,18 @@
         {
           "name": "Diário do Nordeste",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNUhBMmtpZkdwbUtYREM1d2JkRHNNOXpFeHc3UXJzV2xnd1dIa3QySHRBdGxlUFU3c1lWbWFleFJnZVd3aXVCZ3lQcUtkVWlyV21wZzF3ZW9PR0d5bzJKa1d4R2ZYVGhwRGk3VV83TmpaS19Rei1mU216OUl0LTU2RmgtdHVxMmR5d0xXdGU4b0VLbldMTnEwZUpfSm44RGY4Nm5fT0JxODJMNGVLakdoUGN0MjZNaXROWUxYT21CNExsSEduV004eVoxemY1aHdKamNMbDBSMTJnakF2VnZYdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b99c8133e7ca",
+      "title": "Empresária de Vitória conclui quimioterapia contra câncer de mama e fará cirurgia - A Gazeta",
+      "published": "2026-10-15T12:00:00+00:00",
+      "summary": "Empresária de Vitória conclui quimioterapia contra câncer de mama e fará cirurgia&nbsp;&nbsp;A Gazeta",
+      "sources": [
+        {
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUTlROVFNYVk2QlZSVXhGRmN3NnZTQmI4VXBxOVQ5WXd5ZUdBT2ZGb3BVeUhiSUxSaHpLRENpOWtnSmJGUnNKeWI5XzBZZFBsMkdnUEp4MXBLcVJKSTM3c3hKaUdLSk5VRXp2ZmdlRno3M0pYS2ZJYXRwSEp0cmpCZUY2NGYxdUN3a2M5bDRlQmF6QVJudi1SWk56M2dUQkNFemtwaVp6WGlMa3NuZmJPYm5lRWw5MFRVMWxQTlBmdw?oc=5"
         }
       ]
     },
@@ -141,11 +177,23 @@
       "id": "0ae8d8cf51c3",
       "title": "Anvisa aprova remédio que reduz crises de lúpus e o uso de corticoide, mas acesso pelo SUS e planos de saúde ainda é incerto - G1",
       "published": "2026-10-15T06:00:00+00:00",
-      "summary": "Anvisa aprova remédio que reduz crises de lúpus e o uso de corticoide, mas acesso pelo SUS e planos de saúde ainda é incerto&nbsp;&nbsp;G1Anvisa aprova uso de medicamento contra câncer para tratar lúpus&nbsp;&nbsp;Poder360Anvisa aprova novo remédio para doença autoimune que afeta pele, rins e cérebro&nbsp;&nbsp;VEJAAnvisa aprova novo medicamento para tratamento do lúpus&nbsp;&nbsp;R7Anvisa aprova novo medicamento para lúpus eritematoso sistêmico&nbsp;&nbsp;Folha PE",
+      "summary": "Anvisa aprova remédio que reduz crises de lúpus e o uso de corticoide, mas acesso pelo SUS e planos de saúde ainda é incerto&nbsp;&nbsp;G1Anvisa aprova novo remédio para doença autoimune que afeta pele, rins e cérebro&nbsp;&nbsp;VEJAAnvisa aprova novo medicamento para tratar lúpus&nbsp;&nbsp;Agência BrasilAnvisa aprova novo medicamento para tratamento do lúpus&nbsp;&nbsp;R7Anvisa aprova novo medicamento para lúpus eritematoso sistêmico&nbsp;&nbsp;Folha PE",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQzJCR2RkclRZNVpxRFJXU0I5RHBlb1A3UldBOHFQSExvbmNwSG5XYWxzRk0yTXBzemxBbC1NU3lNT0c5Q245TkR2TnhBLTRRVmIwRjd3QU5hRjAwenRPWDVLMkt6QXY1bmdDUXdoRjZQVTBaNENSMFNqc2tZMGJUY1pEQ1Fob3pMYzZvTkR0N21nTFgzZTBvVERkUF8tdWwyUl9ERVEtUV9HdFNpZlN2bHZTbWtBQl9UdmZOREVQd1ZrMmk5ZWsxb0JtcXN4QkRYZG9IQk9EZGhBZjlWX2VLRGRYZXFNNEdfN3VweWhadHBpNjJUbE5yOFlaUDdhN3VrZy12Rnh30gGUAkFVX3lxTE1WaFZmSlQ2dnV1REdXeDZhYWVkSzJiNjZlYjNuMUYwWVZ6QjlLdWJjWDJzSHZQYnRfZWJLZDZFVk5ZbE5vN3FnVGFvRDE0SGp4cDk3bkdzTElLNndNWDZ4Y1BIZzBabGhkNVdleDIzeXZMdEJrLW43cTN6ek9hQWM3YS0yV2VLVFE4WU5MdXlQV1l5QzhoUmlleTE3X1NGcE1odmE4Q0xVMXROZm91RjhCSTR1SkVlRThyRmdkdnFEdGhKWjdVZlNDbXhJcFdKWUhlUlIwblIwSzhvRjlqRUVfWlNlUENNRDRmbEhpWWVublAtWVluZkRodTF6dUhqeHY3WTJIOGhhSWYzbkdIcWNFUlBNcg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "107cd2120bfe",
+      "title": "A impressionante descoberta do naufrágio mais antigo do mundo na costa da Turquia - BBC",
+      "published": "2026-10-14T18:02:59+00:00",
+      "summary": "A impressionante descoberta do naufrágio mais antigo do mundo na costa da Turquia&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JWXFYTENQR0hmanluZTZraVZhcnBwTlEyTTBZSDNlaC1YNzNZc196UzdINTFtNnVhNGw0WlNIRnF0Qy1NWVRtNkR0YzFJMm45ZFh4V2tnWGNPbnpNQ3Bwb3RhTdIBaEFVX3lxTE5NdFFfb1d5MHYyVmdqbjNZY3VOTGlIOTBTZ3ZrblNCNlJqeWw4Ulp0MEpuWDZuQXBBX0hOTkZKaXhDdGpEVVFRMU91d1FjbEdFMnpVZXdXR2V4bk1YVl9vVVdoWWxYc2xH?oc=5"
         }
       ]
     },
@@ -158,18 +206,6 @@
         {
           "name": "A Hora do Sul",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUm1XX1ZJenBQUnBidGFxeGZ4Z2E4OGlnc0p2QnJHa0RlZkU2VWZwLXVLNFBhNXRaT2dOdEQwQjc2UUpCTEhReDZncEVFc1F4S2x4QUdZZGp1ZFdFWjg4WGRYdzlJOGJpemN1U0FpS2wzTnJxUWc0OVpEWXZ3SlNMenl3bmNJYmw0Yi1OOC1Ic1pEWVFMMWFjdUtiRTNiQlJnazFELWFHNWlPLTFWSjBYYjRZenVRbExVVjFmMGozT3ZDUE81T2RqNEp4ZUszTFNVM3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b58a74d1f3d6",
-      "title": "Juízo final: estudo de 1960 previu que população chegaria ao limite em 2026 - Metrópoles",
-      "published": "2026-10-14T16:32:00+00:00",
-      "summary": "Juízo final: estudo de 1960 previu que população chegaria ao limite em 2026&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1NZdW5MckJHdjRVdlVUUU52SEpQOF9pZ2szMUhZN0htSzYtY3RTdVVBQUk3M1BzMkY4N0xRb2hWUTR4QjR0NHlpM09KeExGMnpaRjNIVk1HejBiVE5NWTRzajBmcVFLaFI3eTM4QVFUU2lrdlpaOTRkWUNhdk1nUWJoWVBrQWN2RFVTcGxHTnlWOVlvZ2Nuc2ZHNVlWMVVSUzZSYVNWZWFKc003ZFE?oc=5"
         }
       ]
     },
@@ -246,14 +282,14 @@
       ]
     },
     {
-      "id": "1f55b3df6bed",
-      "title": "OMS recomenda vacinação contra o HPV a partir dos quatro anos - Folha de S.Paulo",
-      "published": "2026-10-14T12:19:00+00:00",
-      "summary": "OMS recomenda vacinação contra o HPV a partir dos quatro anos&nbsp;&nbsp;Folha de S.PauloOMS sugere que países considerem vacinar meninas contra o HPV a partir dos 4 anos&nbsp;&nbsp;VEJAImunização e prevenção do câncer do colo do útero são discutidos em Congresso em João Pessoa&nbsp;&nbsp;ParaibaOnlineDesinformação afasta meninas da vacina contra HPV, que pode prevenir câncer do colo do útero&nbsp;&nbsp;Jornal CorreioSão Caetano realiza Dia D de vacinação contra o HPV no Espaço Verde Chico Mende",
+      "id": "7a8352ec570c",
+      "title": "Nikon retira prêmio de vídeo de microscopia de cientista chinês após pesquisadores apontarem ‘alucinações’ de IA - UOL",
+      "published": "2026-10-14T12:54:32+00:00",
+      "summary": "Nikon retira prêmio de vídeo de microscopia de cientista chinês após pesquisadores apontarem ‘alucinações’ de IA&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUk5SFB4dlBtNFA4WG8wLUl6U3E1Z2tTcFdZTlhUNlVqdjhLTjZJOEpTWVNxT0JDYzZ3ZXR4b3lXTlJRTWliejZZdVM0VzR3NVVzZDBiT05wM2ZocjV2WVhOcEVFSUI4aE5EdzV6emRZS0k5US1aXzhJc1F3Q1V0cTJhM3dHUS1Qb0xRSEtNTllHUEhFT055Nm5RR2RuUUVONmJob3Rob193OGNnaVJtb1lHSWdVRFhQUDhlY2Vhcw?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjFJczhvdUZmMnJxTFZXaUFvM2Z6TEFuYWRnYTd2WUxNeVdUalRfd0IxUEN4SDlJYmxsRzdwWHVrY01LUHlaZUQ2QnpVY21xVW0wWVRRZzBUUUR5dkFjclpzYmJ6dTlEX0stZ1BkcHlHeGt4V3IxZW8yMjFEOVFDZ1VzSlVtV0ktV0VwUUlwNDVyazJ2RlJwTNIBngFBVV95cUxNVjVpVzdaSVBNclNLVmdPQWIzcHJNSEhfY0I5VC1hMlptdEFOM1NiT1dGOHZpZExaRExRY2gtYTlwbzMxRlZ5dG1GNWpNSkZlWUpKUHRvZkZaUnh0OXV6TjAyTGFsWVNuSkQxS0hBWEUzTFpGdFVDN2FPRXFiRzNyekJLcmRPcmxjQ0pwSnhOcEU0U1dBQVZpT2dxdDhtdw?oc=5"
         }
       ]
     },
@@ -306,66 +342,6 @@
       ]
     },
     {
-      "id": "6de00233f460",
-      "title": "Pesquisa científica sugere que animais podem ter surgido 200 milhões de anos antes do previsto - CNN Brasil",
-      "published": "2026-10-14T00:36:55+00:00",
-      "summary": "Pesquisa científica sugere que animais podem ter surgido 200 milhões de anos antes do previsto&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUElaSmFDVHBIS0wyeWx3OHdPQVJyOThxcEJid1p1MUpNRjkzNDY1d3RpNTV1VUlDTEJlT1NjUjhabUFIQlFvSXpGeDlmUWVGY3NvX0trSFlGN2Z4RWhqSTVsZGxyNDZTYmlCeGZpckcwcWtzSktNUjZLNmg0dmw4R2pOZlp0TEYwcXlmVnVwS2VtN1BsalJJOUVqeFlkQVlhNWtrVmZKMnI5SjE5eVh1MzdkVW9GWndzMTJWOXFrNkNMVy1LVWlUeW8tS20?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a2f0a83411c5",
-      "title": "Sem dor, sorocabana descobre câncer renal por leve sangramento - Jornal Cruzeiro do Sul",
-      "published": "2026-10-14T00:13:00+00:00",
-      "summary": "Sem dor, sorocabana descobre câncer renal por leve sangramento&nbsp;&nbsp;Jornal Cruzeiro do Sul",
-      "sources": [
-        {
-          "name": "Jornal Cruzeiro do Sul",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTlmRXhpOWRIcW55SF8wNU9WTHRzRWZkLTd4ZTIzMHR2dGIyaFc1NGl1WG9HeXpnd0dINDRDb0J4U0M5RUQtOFdEamNRQjBOZW5DX0NfODNZb1ljcV92YnVzbjN0dzEtYUpKNDIweWw0ZWJqV05rSl9vSXk4RklMY2NRYkNLZGtmR184Ymx5ZlpvdXM5YXBzMW8xeUhYU2VuV3ZoVUNkSktWZ0hPU25uUGViam85VFUzSk1DZTV3cjZwbHJaSlFGaWdIWURzZ9IB0wFBVV95cUxQR0ZVTlJ3MWh1cUgxZ1d3ZmVOd0ZiMU9POFlHZkEzdnZwa21TdXpYYmhJSlJjZTg3RHVvT3NvaHFvU293OFpEcGFlM3YwdjVRN21peG9NazVKWEJMVjlQMm5tZm1xdE1qMUNOblA5NXAzVjhNNVk1ZEZ4bGRGVE4wOFY2Tm52b09NbnczYzh2REJnLTVCV3BleE5mb2dLUk1VOEdINFRRVEpxWHZDMloxbzQzSnpZYmlfdzg2TjB6cTJIbHFSMHFsUklreUdvWWZ4ZkRV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "65127b52a587",
-      "title": "Mudanças e sintomas da menopausa começam muito antes da última menstruação - CNN Brasil",
-      "published": "2026-10-13T23:52:33+00:00",
-      "summary": "Mudanças e sintomas da menopausa começam muito antes da última menstruação&nbsp;&nbsp;CNN BrasilEntenda por que tratamentos faciais podem ter resultados diferentes na menopausa&nbsp;&nbsp;GloboAo leitor: Com vocês, a “menocausa”&nbsp;&nbsp;Assine AbrilAgência de Comunicação - Menopausa muda o corpo e pede atenção à alimentação saudável&nbsp;&nbsp;Estadão Blue StudioMenopausa marca uma transição fisiológica “abrupta” (e não gradual)&nbsp;&nbsp;Público",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGs3NnNMSUYxVnV0em8wbmliakxidVNBUVM5TlV2YXpvTzdONDNMM05IWEtocHFvMUlvTjYzQWc2a2pLMjNDZkxfU3lETnBBRXl4SVZPZmF0M2NiRndLeTJhR2N6dGlhcDZZTG56QXZJTDNzTm02R0ZQTWFOMi1UVXNMSFZRUVFQTHhXLWFsUUVjOXUwZmYwVDhpaXlWaVhVdUlNMzdCU21XRjBhUFJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5850e261c47a",
-      "title": "Mounjaro e Ozempic podem frear envelhecimento? Veja o que dizem estudos - Globo",
-      "published": "2026-10-13T21:12:51+00:00",
-      "summary": "Mounjaro e Ozempic podem frear envelhecimento? Veja o que dizem estudos&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczZNX1hJMlBhazZPMEU0MTB5RmZhWnlfMUdFbmFwXzc2Sk1vZnJyLW9MZFpnemZwbWRIRkxaREhFNlNBSFZtbk1qZXZwb0tlbWhzWGhwTUt6TmNmbkw3RGI0aWtvQngxNGFuUFM5RnRfUG1BbmZNbVFtc1ZEYl8xSTZDakcwVnJsc0dZTjN2TkxwOWMzdzUyTDJWMTFjNEZJX1YyWTRHV0pQU3BBWmFEUWJ0OHZOMWk5Xzh6LUc2ZFU4ZmhxQ2JVQWZRa9IB2gFBVV95cUxOX1htOC05WUk5Uk5SX2YtVUtZcjh1bFJxS1ZaYkl1T3JxTlFkWm5aS1FrMHliamFLdVd6c2tCcmVyaDljWTJneTAxQVJfMmV3N1p5U2gxd2h3d2xLb2ptRlJHSmpWdnhGMjBBbEZMb01sTWZhWkJXQWtqVVliUmFtdUgyS0VFbjNDMDFITWFrOXM2VnNqRVRVUkJJX1ptV3plTndXaGo4dzNSakY5bnN0OXRfLXBpczVpQkhCOWNTQzk5S2JDNDVQbDJMa2hOeFNHQzA5OFdqZTJGUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55f5deb44b31",
-      "title": "Byung-Chul Han, filósofo: “Só se estivermos sempre abertos à dor, seja qual for a sua origem, podemos estar abertos à felicidade” - Minha Vida Saúde",
-      "published": "2026-10-13T19:40:03+00:00",
-      "summary": "Byung-Chul Han, filósofo: “Só se estivermos sempre abertos à dor, seja qual for a sua origem, podemos estar abertos à felicidade”&nbsp;&nbsp;Minha Vida Saúde",
-      "sources": [
-        {
-          "name": "Minha Vida Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4RTFhWEhfeEhNb3lSbEFXUTcwajRxai01d0VJOF9tTkx2T1RWanNHOHJoRHVuN0VHVkNJc3V3QVNmZDFJOVc5blNvNkgtWjMxMUJub3hiYVRsLThPNzRZR9IBZkFVX3lxTE5taHlJWjBVYXdVb2tVdE1JOTZBX0xlT2F3WkFiYmJzMG1YdTNuSURIY2MzX1dsaElxWUpEWDhhSXlaZmRmS2pwQkJrWFdLUFNoV2dFVmV2ZVlyLTNzQW9fQW9LRXdqQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e21c45d14e83",
       "title": "Libido baixa: seis fatores relacionados à alimentação e à saúde que merecem atenção - Jornal Correio",
       "published": "2026-10-13T18:50:31+00:00",
@@ -374,30 +350,6 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmZ6ck5rTFBscC1YQ3pMN1F3SUxoTmZuRTUxakNNWWEtUGZEVDRSOEVCeFhsUHRhOFljRXFhNThod2xJZFM2TFNMQ0FBZlpNbWRtX0lnckFxTlRBQ19sQ0tsTEdMN29uVGpOR1dmWVpacEdyYVE0RmpLVXRoWWdfbldZTVExWFVUdWRJS3UzTFZ1aWVwMGNQNVBqdFVtcEkzdkdLSXpqVEtjZGQtNnlhaTdJSGxnOWc2clQwZ3E2dnJRMHBMUUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a5e99210e1e",
-      "title": "Os três pilares para conseguir um sono reparador, segundo neurologista - O GLOBO",
-      "published": "2026-10-13T07:00:01+00:00",
-      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsDisposição dos móveis no quarto e poluição visual afetam a qualidade do sono&nbsp;&nbsp;Jornal Cruzeiro do SulDormir não depende apenas de uma cama | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCSono: Dormir 6 Horas é Suficiente? Tire Suas Dúvidas | Saúde Entre Nós&nbsp;&nbsp;Associação Pa",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeTg3LUJUUE5raTdENm9MTTF3RHZhMWtBUGVhV0FDRnI1VEl2N2szM0hOWm50MlBYSGMzNkgyM0NqbWRtcTVha2xLYUI4MHItZTByRUpwcGJDY3lxNHdETmlmR0xTcEZmX0lWWUdNbFF6bUlSbGNQakI3aEYzVm9XMENJaGdoSHpUTFUwdm1xaEZUZzVENGpQMWtyN0N5cjJISGJYOXRvWmlCVElmblJGZGlPUFljRkNYOERpQU9KQV9IazlkYjM1eUY2dG1MbUti0gHfAUFVX3lxTE94OUtDa2R1UXZsdUd2MjY1NVR0TDlZZHVXb3FWY0dXVkI1c0N6cXU5YUpxdFljckp0XzhRZ0Vra3I3SE9taVBWR1BfWnhiUFJJVGJyQXFsaHgxTlRUNXZlMXhTemNGSHRsUzJYV0QzZEVCWkRLTE1UR1ZUYmNVYmRIemk4U2I1Z3BQRHhCdDdpaTYzc3RXX3lMTjRHQnpYQzdhN3BfQ1ptLXdBcEtaMFB6ZWtJaUxSSk1NMHdSWXpPOHdVTG9DWDdBTmhtWS00Qll5NFQxUFVPMXhGUVR1ZW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57b5fc073762",
-      "title": "Dengue: o maior perigo da sua casa pode estar onde você menos imagina - Metrópoles",
-      "published": "2026-10-13T03:37:00+00:00",
-      "summary": "Dengue: o maior perigo da sua casa pode estar onde você menos imagina&nbsp;&nbsp;MetrópolesCuidados na rotina contra o mosquito transmissor da dengue e outras doenças&nbsp;&nbsp;G1Volta Redonda alerta para dengue após dias de calor e chuva&nbsp;&nbsp;O FluminenseChuva e calor aumentam o risco de criadouros do Aedes; veja como se prevenir&nbsp;&nbsp;Prefeitura de JataíTempo instável reforça alerta para prevenção das arboviroses em SP&nbsp;&nbsp;www.agenciasp.sp.gov.br",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BSi1tSXpNSzNFM1NILVN4VV9fVkEyamVmN1E0SU5aV19xYXd5dVJoQ05yeDhwT3VVNy1NWFg5T2VCMUZya0V2RDNYVmJGSDZQS1RvZjZtVWhfU1RaYVVfcmlKbHR4WFliZjdPcU5uUQ?oc=5"
         }
       ]
     },

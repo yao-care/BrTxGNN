@@ -14,7 +14,7 @@ permalink: /news/ganciclovir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ganciclovir?">
-<strong>Ganciclovir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ganciclovir</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,21 @@ Esta página combina as indicações previstas por IA para Ganciclovir com as no
 <li>osteoradionecrosis of the mandible (97.1%)</li>
 <li>punctate epithelial keratoconjunctivitis (96.9%)</li>
 <li>oral candidiasis (96.8%)</li>
-<li>pneumonia (96.6%)</li>
+<li class="indication-matched">pneumonia (96.6%)<span class="indication-tag">📰 pneumonia</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ganciclovir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [Idosos a partir de 85 anos podem se vacinar contra pneumonia em Fortaleza - Diário do Nordeste](https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVc2cGp6WDJTQU5hZi1OOXlFaGFKRjRDX0l5QlN6NlFRSG44NlF0aUVDVDVWUDVEVHQtM2RsNUVaazFST3EteEJZX2RBWHZnY2FvMjZOb0Q1dERTYnpYX2I3WFY5azRtTkttWHlPa0VKcnFqRmx0NVJjUUd6TW5rS0xRQ3lBNUJlNmxoQ19UekNxb0lySXZibUI5UUVLTFZSbmpZUFBSbE0tSllzSnU2djZCSkY1emVfUDJFZDFNMUJLNlN5U2tQVG1LQ0lVUQ?oc=5)
+
+2026-10-15 <span class="news-indication-tag">pneumonia</span> <span class="news-indication-tag">pneumonia</span>
+
+Fonte: [Diário do Nordeste](https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVc2cGp6WDJTQU5hZi1OOXlFaGFKRjRDX0l5QlN6NlFRSG44NlF0aUVDVDVWUDVEVHQtM2RsNUVaazFST3EteEJZX2RBWHZnY2FvMjZOb0Q1dERTYnpYX2I3WFY5azRtTkttWHlPa0VKcnFqRmx0NVJjUUd6TW5rS0xRQ3lBNUJlNmxoQ19UekNxb0lySXZibUI5UUVLTFZSbmpZUFBSbE0tSllzSnU2djZCSkY1emVfUDJFZDFNMUJLNlN5U2tQVG1LQ0lVUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

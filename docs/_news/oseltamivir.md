@@ -14,7 +14,7 @@ permalink: /news/oseltamivir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Oseltamivir?">
-<strong>Oseltamivir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Oseltamivir</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ Esta página combina as indicações previstas por IA para Oseltamivir com as no
 <li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria (95.1%)</li>
 <li>staphylococcus aureus infection (95.0%)</li>
 <li>cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency (93.9%)</li>
-<li>pneumonia (92.1%)</li>
+<li class="indication-matched">pneumonia (92.1%)<span class="indication-tag">📰 pneumonia</span></li>
 <li>streptococcal pneumonia (90.5%)</li>
 <li>susceptibility to HIV infection (89.8%)</li>
 </ul></li>
@@ -40,9 +40,15 @@ Esta página combina as indicações previstas por IA para Oseltamivir com as no
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [Idosos a partir de 85 anos podem se vacinar contra pneumonia em Fortaleza - Diário do Nordeste](https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVc2cGp6WDJTQU5hZi1OOXlFaGFKRjRDX0l5QlN6NlFRSG44NlF0aUVDVDVWUDVEVHQtM2RsNUVaazFST3EteEJZX2RBWHZnY2FvMjZOb0Q1dERTYnpYX2I3WFY5azRtTkttWHlPa0VKcnFqRmx0NVJjUUd6TW5rS0xRQ3lBNUJlNmxoQ19UekNxb0lySXZibUI5UUVLTFZSbmpZUFBSbE0tSllzSnU2djZCSkY1emVfUDJFZDFNMUJLNlN5U2tQVG1LQ0lVUQ?oc=5)
+
+2026-10-15 <span class="news-indication-tag">pneumonia</span> <span class="news-indication-tag">pneumonia</span>
+
+Fonte: [Diário do Nordeste](https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVc2cGp6WDJTQU5hZi1OOXlFaGFKRjRDX0l5QlN6NlFRSG44NlF0aUVDVDVWUDVEVHQtM2RsNUVaazFST3EteEJZX2RBWHZnY2FvMjZOb0Q1dERTYnpYX2I3WFY5azRtTkttWHlPa0VKcnFqRmx0NVJjUUd6TW5rS0xRQ3lBNUJlNmxoQ19UekNxb0lySXZibUI5UUVLTFZSbmpZUFBSbE0tSllzSnU2djZCSkY1emVfUDJFZDFNMUJLNlN5U2tQVG1LQ0lVUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
