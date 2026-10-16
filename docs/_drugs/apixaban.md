@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Apixaban: nova indicação prevista, Transtorno de Enxaqueca (Migraine Disorder) (nível de evidência L4). Indicação original: Não disponível nos dados compilados"
+monitor_inn: "Apixaban"
+predicted_indications: ["migraine disorder", "migraine with or without aura, susceptibility to", "leprosy", "rheumatoid arthritis", "migraine with brainstem aura", "Prinzmetal angina", "brachydactyly-syndactyly syndrome", "pulmonary hypertension", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "kyphoscoliotic heart disease"]
 ---
 
 # Apixaban

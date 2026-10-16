@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Potassium: nova indicação prevista, Transtorno hipertensivo (hypertensive disorder) (nível de evidência L1). Indicação original: Outros produtos com ação no trato urinário"
+monitor_inn: "Potassium"
+predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "congestive heart failure", "alopecia", "congenital hypotrichosis milia"]
 ---
 
 # Potassium

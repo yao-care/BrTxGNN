@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 4
 last_modified_at: 2026-10-13
 description: "Zinc Sulfate: nova indicação prevista, Faringite (Pharyngitis) (nível de evidência L3). Indicação original: Outros suplementos minerais, exceto de ferro e para reidratação"
+monitor_inn: "ZINC SULFATE"
+predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "congenital prothrombin deficiency"]
 ---
 
 # Zinc Sulfate

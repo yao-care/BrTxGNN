@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Hyaluronidase: nova indicação prevista, Retinopatia Diabética (Diabetic Retinopathy) (nível de evidência L1). Indicação original: Glicocorticoides tópicos – associação medicamentosa"
+monitor_inn: "hyaluronidase"
+predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
 ---
 
 # Hyaluronidase

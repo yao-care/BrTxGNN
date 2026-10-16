@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Sodium Lauryl Sulfate: nova indicação prevista, Agenesia da valva tricúspide (tricuspid valve agenesis) (nível de evidência L5). Indicação original: Laxantes"
+monitor_inn: "Sodium lauryl sulfate"
+predicted_indications: ["tricuspid valve agenesis", "sporadic idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial sclerosis", "short rib-polydactyly syndrome, Majewski type", "short rib-polydactyly syndrome, Verma-Naumoff type", "sporadic idiopathic steroid-resistant nephrotic syndrome with focal segmental hyalinosis", "familial idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial sclerosis", "toxic epidermal necrolysis", "mesocardia (disease)", "congenital aortic valve insufficiency", "secondary short bowel syndrome"]
 ---
 
 # Sodium Lauryl Sulfate

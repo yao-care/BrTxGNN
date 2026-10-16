@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Ramipril: nova indicação prevista, Hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia (nível de evidência L4). Indicação original: Hipertensão arterial (e AVC / doença cerebrovascular…"
+monitor_inn: "RAMIPRIL"
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 ---
 
 # Ramipril

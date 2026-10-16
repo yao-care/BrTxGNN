@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Cyanocobalamin: nova indicação prevista, Doença metabólica da biotina (biotin metabolic disease) (nível de evidência L5). Indicação original: Vitamina B12 (cianocobalamina e análogos)"
+monitor_inn: "CYANOCOBALAMIN"
+predicted_indications: ["biotin metabolic disease"]
 ---
 
 # Cyanocobalamin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Terbinafine: nova indicação prevista, Miíase furuncular (Furuncular Myiasis) (nível de evidência L5). Indicação original: Antimicótico"
+monitor_inn: "Terbinafine"
+predicted_indications: ["furuncular myiasis", "wound myiasis", "creeping myiasis", "myiasis", "cutaneous candidiasis", "toxoplasmosis", "blastomycosis", "tinea manuum", "echinococcus granulosus infectious disease", "superficial mycosis"]
 ---
 
 # Terbinafine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Ropivacaine: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L5). Indicação original: Anestésicos locais"
+monitor_inn: "Ropivacaine"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder", "fibromyalgia", "myofascial pain syndrome", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "bronchitis"]
 ---
 
 # Ropivacaine

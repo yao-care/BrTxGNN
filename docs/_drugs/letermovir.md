@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Letermovir: nova indicação prevista, Candidíase Vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). Indicação original: Infecção por citomegalovírus"
+monitor_inn: "Letermovir"
+predicted_indications: ["vulvovaginal candidiasis", "fungal infectious disease", "tinea nigra", "malignant catarrh", "infectious bovine rhinotracheitis", "anogenital human papillomavirus infection", "AIDS", "dermatophytosis", "piedra", "varicella zoster infection"]
 ---
 
 # Letermovir

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Penciclovir: nova indicação prevista, Fasciolíase (Fascioliasis) (nível de evidência L5). Indicação original: Herpes labial"
+monitor_inn: "Penciclovir"
+predicted_indications: ["fascioliasis", "cysticercosis", "coenurosis", "intestinal helminthiasis", "malignant pleural mesothelioma", "endomyometritis", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "synovium cancer", "malignant visceral pleura tumor"]
 ---
 
 # Penciclovir

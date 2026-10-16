@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Oseltamivir: nova indicação prevista, Pneumonia (Pneumonia)… (nível de evidência L5). Indicação original: Influenza"
+monitor_inn: "Oseltamivir"
+predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "disorder of phenylalanine metabolism", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria", "staphylococcus aureus infection", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "pneumonia", "streptococcal pneumonia", "susceptibility to HIV infection"]
 ---
 
 # Oseltamivir

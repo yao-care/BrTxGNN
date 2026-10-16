@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "D-Glucose: nova indicação prevista, Malformação esofágica não sindrômica (non-syndromic esophageal malfor… (nível de evidência L5). Indicação original: Nutrientes parenterais"
+monitor_inn: "D-glucose"
+predicted_indications: ["non-syndromic esophageal malformation", "primary hereditary glaucoma", "open-angle glaucoma", "esophageal disease", "biotin metabolic disease", "vitamin deficiency disorder", "dermatitis", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial"]
 ---
 
 # D-Glucose

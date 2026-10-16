@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Hesperidin: nova indicação prevista, Neoplasia Mieloproliferativa (Myeloproliferative Neoplasm) (nível de evidência L5). Indicação original: Não há indicação aprovada registrada"
+monitor_inn: "Hesperidin"
+predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm", "primary peritoneal carcinoma (disease)", "acute lymphoblastic leukemia (disease)", "myeloid leukemia", "Seckel syndrome", "myeloproliferative neoplasm, unclassifiable"]
 ---
 
 # Hesperidin

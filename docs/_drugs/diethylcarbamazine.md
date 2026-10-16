@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Diethylcarbamazine: nova indicação prevista, Linfedema sindrômico (syndromic lymphedema) (nível de evidência L5). Indicação original: Antiparasitários"
+monitor_inn: "diethylcarbamazine"
+predicted_indications: ["syndromic lymphedema", "primary lymphedema"]
 ---
 
 # Diethylcarbamazine

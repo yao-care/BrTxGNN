@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Clavulanic Acid: nova indicação prevista, Uretrite gonocócica (gonococcal urethritis) (nível de evidência L3). Indicação original: Antibióticos sistêmicos – associações medicamentosas"
+monitor_inn: "Clavulanic acid"
+predicted_indications: ["gonococcal urethritis", "Ureaplasma urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "celiac trunk compression syndrome", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "lymph node palisaded myofibroblastoma", "disease of uterine broad ligament"]
 ---
 
 # Clavulanic Acid

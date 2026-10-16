@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Tocopherol: nova indicação prevista, Colangite esclerosante (Sclerosing Cholangitis) (nível de evidência L5). Indicação original: Outros produtos com ação na pele e mucosas"
+monitor_inn: "Tocopherol"
+predicted_indications: ["sclerosing cholangitis", "pulmonary hypertension", "rheumatoid arthritis", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "kyphoscoliotic heart disease", "diffuse alopecia areata", "alopecia", "congestive heart failure", "peripheral vascular disease"]
 ---
 
 # Tocopherol

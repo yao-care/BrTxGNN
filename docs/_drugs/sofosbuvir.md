@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 8
 last_modified_at: 2026-10-13
 description: "Sofosbuvir: nova indicação prevista, Infecção pelo vírus da hepatite B (Hepatitis B virus infection) (nível de evidência L3). Indicação original: Infecção crônica pelo vírus da hepatite C (conforme o…"
+monitor_inn: "SOFOSBUVIR"
+predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 ---
 
 # Sofosbuvir

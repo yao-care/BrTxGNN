@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Elafibranor: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L5). Indicação original: Não há indicação registrada na ANVISA (internacionalmente: colangite…"
+monitor_inn: "Elafibranor"
+predicted_indications: ["amenorrhea (disease)", "non-syndromic esophageal malformation", "bone Paget disease", "dentinogenesis imperfecta", "squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma", "deafness, autosomal dominant 39, with dentinogenesis imperfecta 1", "acantholytic variant squamous cell breast carcinoma", "adenosquamous breast carcinoma"]
 ---
 
 # Elafibranor

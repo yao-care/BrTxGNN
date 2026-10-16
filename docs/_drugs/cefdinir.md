@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Cefdinir: nova indicação prevista, Hiperamilasemia (maior pontuação) (nível de evidência L5). Indicação original: Infecção estreptocócica, infecção por Staphylococcus aureus…"
+monitor_inn: "Cefdinir"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "septicemic plague", "pyelonephritis"]
 ---
 
 # Cefdinir

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-13
 description: "Lactic Acid: nova indicação prevista, Coarctação atípica da aorta (atypical coarctation of aorta) (nível de evidência L5). Indicação original: Demulcentes e outros medicamentos de uso oral para trata…"
+monitor_inn: "lactic acid"
+predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "non-syndromic esophageal malformation", "amenorrhea (disease)", "dry eye syndrome"]
 ---
 
 # Lactic Acid

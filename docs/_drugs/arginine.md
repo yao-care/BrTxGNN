@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Arginine: nova indicação prevista, Gastroparesia (Gastroparesis) (nível de evidência L4). Indicação original: Vitaminas e suplementos minerais"
+monitor_inn: "ARGININE"
+predicted_indications: ["gastroparesis (disease)"]
 ---
 
 # Arginine

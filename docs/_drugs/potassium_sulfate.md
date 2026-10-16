@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Potassium Sulfate: nova indicação prevista, Transtorno hipertensivo (hypertensive disorder) (nível de evidência L5). Indicação original: Polivitamínicos com minerais"
+monitor_inn: "Potassium sulfate"
+predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "gout", "congestive heart failure", "rheumatoid arthritis"]
 ---
 
 # Potassium Sulfate

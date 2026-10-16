@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Clobutinol: nova indicação prevista, Febre tifoide (typhoid fever) (nível de evidência L5). Indicação original: Não há indicação registrada na ANVISA (conhecido como antitussígeno d…"
+monitor_inn: "Clobutinol"
+predicted_indications: ["typhoid fever", "mucocutaneous leishmaniasis", "leishmaniasis, diffuse cutaneous", "diffuse scleroderma", "pneumonia", "trigonitis", "bronchiolitis obliterans with obstructive pulmonary disease", "paratyphoid fever", "cystitis", "combined immunodeficiency due to DOCK8 deficiency"]
 ---
 
 # Clobutinol

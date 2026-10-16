@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-13
 description: "Evogliptin: nova indicação prevista, Opsismodisplasia (Opsismodysplasia) (nível de evidência L5). Indicação original: Antidiabéticos"
+monitor_inn: "evogliptin"
+predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy"]
 ---
 
 # Evogliptin

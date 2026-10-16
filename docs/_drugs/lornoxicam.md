@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Lornoxicam: nova indicação prevista, Artrite reumatoide (Rheumatoid Arthritis) (nível de evidência L3). Indicação original: Não disponível"
+monitor_inn: "Lornoxicam"
+predicted_indications: ["rheumatoid arthritis", "migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
 ---
 
 # Lornoxicam

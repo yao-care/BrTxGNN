@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Dexchlorpheniramine Maleate: nova indicação prevista, Porfiria Aguda Intermitente (Acute Intermittent Porphyria) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos"
+monitor_inn: "Dexchlorpheniramine maleate"
+predicted_indications: ["acute intermittent porphyria", "nephrogenic syndrome of inappropriate antidiuresis", "porphyria", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "allergic urticaria", "syndromic myopia", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "myopia X-linked"]
 ---
 
 # Dexchlorpheniramine Maleate

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Diosmin: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
+monitor_inn: "Diosmin"
+predicted_indications: ["amenorrhea (disease)", "primary release disorder of platelets", "pseudo-von Willebrand disease", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "Glanzmann thrombasthenia", "bone Paget disease", "non-syndromic esophageal malformation"]
 ---
 
 # Diosmin

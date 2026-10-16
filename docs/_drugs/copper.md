@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Copper: nova indicação prevista, Esotropia (esotropia) (nível de evidência L5). Indicação original: Polivitamínicos com minerais"
+monitor_inn: "Copper"
+predicted_indications: ["esotropia", "dermatitis", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "dry eye syndrome", "amyopathic dermatomyositis", "bone Paget disease"]
 ---
 
 # Copper

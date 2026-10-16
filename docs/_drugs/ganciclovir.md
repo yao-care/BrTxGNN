@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Ganciclovir: nova indicação prevista, Pneumonia por Citomegalovírus (Cytomegalovirus Pneumonia) (nível de evidência L5). Indicação original: Retinite por citomegalovírus"
+monitor_inn: "Ganciclovir"
+predicted_indications: ["cytomegalovirus pneumonia", "epidemic keratoconjunctivitis", "commissural lip fistula", "idiopathic disseminated cytomegalovirus infection", "burning mouth syndrome", "oral leukoedema", "osteoradionecrosis of the mandible", "punctate epithelial keratoconjunctivitis", "oral candidiasis", "pneumonia"]
 ---
 
 # Ganciclovir

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Sodium Carbonate: nova indicação prevista, Síndrome da cauda equina (cauda equina syndrome) (nível de evidência L5). Indicação original: Antiácido"
+monitor_inn: "Sodium carbonate"
+predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia", "obsolete bundle branch block", "panuveitis (disease)", "Sjogren syndrome", "catecholaminergic polymorphic ventricular tachycardia"]
 ---
 
 # Sodium Carbonate

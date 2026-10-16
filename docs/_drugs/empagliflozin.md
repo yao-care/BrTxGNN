@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-13
 description: "Empagliflozin: nova indicação prevista, Síndrome da pessoa rígida clássica (classic stiff person syndrome) (nível de evidência L5). Indicação original: Diabetes mellitus tipo 2"
+monitor_inn: "EMPAGLIFLOZIN"
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
 ---
 
 # Empagliflozin

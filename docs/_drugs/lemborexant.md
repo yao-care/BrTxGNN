@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Lemborexant: nova indicação prevista, Distúrbio do sono… (nível de evidência L1). Indicação original: Hipnóticos e sedativos"
+monitor_inn: "lemborexant"
+predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
 ---
 
 # Lemborexant

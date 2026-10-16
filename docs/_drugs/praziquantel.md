@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Praziquantel: nova indicação prevista, Leiomiossarcoma epitelioide do corpo uterino (uterine corpus epitheli… (nível de evidência L5). Indicação original: Opistorquíase, esquistossomose, enterobíase …"
+monitor_inn: "Praziquantel"
+predicted_indications: ["uterine corpus epithelioid leiomyosarcoma", "Plasmodium falciparum malaria", "retroperitoneal sarcoma", "uterine corpus myxoid leiomyosarcoma", "anus leiomyosarcoma", "small intestinal sarcoma", "gnathomiasis", "fascioliasis", "leiomyosarcoma", "dermatofibrosarcoma protuberans"]
 ---
 
 # Praziquantel

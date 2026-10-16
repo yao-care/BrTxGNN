@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Dantrolene: nova indicação prevista, Hipertermia maligna, suscetibilidade (malignant hyperthermia… (nível de evidência L3). Indicação original: Relaxantes musculares centrais simples"
+monitor_inn: "Dantrolene"
+predicted_indications: ["malignant hyperthermia, susceptibility to", "moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis, susceptibility to", "thyrotoxic periodic paralysis", "myopathy, centronuclear", "periodic paralysis (disease)"]
 ---
 
 # Dantrolene

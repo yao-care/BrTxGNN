@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Mometasone: nova indicação prevista, Linfoma cutâneo primário de células T (primary cutaneous T-cell lymph… (nível de evidência L4). Indicação original: Produtos para terapia nasal de ação específica"
+monitor_inn: "Mometasone"
+predicted_indications: ["primary cutaneous T-cell lymphoma", "Crohn's colitis", "myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "cystic teratoma", "spinal cord dermoid cyst", "aregenerative anemia", "disease of orbital part of eye adnexa"]
 ---
 
 # Mometasone

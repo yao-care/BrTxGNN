@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Anastrozole: nova indicação prevista, Carcinoma de mama feminino (female breast carcinoma) (nível de evidência L1). Indicação original: Antineoplásico (agentes antineoplásicos)"
+monitor_inn: "Anastrozole"
+predicted_indications: ["female breast carcinoma", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia", "rhabdomyosarcoma (disease)", "myeloid leukemia", "collagenopathy", "lymphocytic hypereosinophilic syndrome"]
 ---
 
 # Anastrozole

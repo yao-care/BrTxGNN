@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Adapalene: nova indicação prevista, Dermatite Seborreica (Seborrheic Dermatitis) (nível de evidência L4). Indicação original: Produtos anti-acne"
+monitor_inn: "Adapalene"
+predicted_indications: ["zinc, elevated plasma", "isolated congenital adermatoglyphia", "Beare-Stevenson cutis gyrata syndrome", "demodicidosis of sebaceous gland", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome", "prolidase deficiency", "drug-induced osteoporosis", "seborrheic dermatitis", "sebaceous gland anomaly", "inherited skin tumor"]
 ---
 
 # Adapalene

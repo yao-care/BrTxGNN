@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Prednisolone Acetate: nova indicação prevista, Conjuntivite parasitária (parasitic conjunctivitis) (nível de evidência L5). Indicação original: Glicocorticoide tópico oftalmológico simples"
+monitor_inn: "PREDNISOLONE ACETATE"
+predicted_indications: ["parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
 ---
 
 # Prednisolone Acetate

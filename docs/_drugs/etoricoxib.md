@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Etoricoxib: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L5). Indicação original: Sem indicação aprovada registrada na ANVISA (uso clínico em outros pa…"
+monitor_inn: "Etoricoxib"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
 ---
 
 # Etoricoxib

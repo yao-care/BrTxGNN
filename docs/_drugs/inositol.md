@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Inositol: nova indicação prevista, Trombose da veia porta primitiva (primitive portal vein thrombosis) (nível de evidência L5). Indicação original: Pelagra, beribéri, hipertrigliceridemia…"
+monitor_inn: "INOSITOL"
+predicted_indications: ["primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "hepatic porphyria", "congestive heart failure", "hyperlipoproteinemia", "acute pulmonary heart disease", "glycogen storage disease due to hepatic glycogen synthase deficiency"]
 ---
 
 # Inositol

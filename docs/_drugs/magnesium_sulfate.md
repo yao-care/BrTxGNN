@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Magnesium Sulfate: nova indicação prevista, Pré-eclâmpsia/eclâmpsia (preeclampsia/eclampsia) (nível de evidência L1). Indicação original: Eletrólitos simples"
+monitor_inn: "MAGNESIUM SULFATE"
+predicted_indications: ["preeclampsia/eclampsia", "toxemia of pregnancy", "thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
 ---
 
 # Magnesium Sulfate

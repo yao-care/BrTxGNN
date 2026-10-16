@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Galsulfase: nova indicação prevista, Síndrome de ptose-estrabismo-pupilas ectópicas (ptosis-strabismus-ect… (nível de evidência L5). Indicação original: Mucopolissacaridose"
+monitor_inn: "Galsulfase"
+predicted_indications: ["ptosis-strabismus-ectopic pupils syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "jaw-winking syndrome", "congenital entropion", "epiblepharon", "congenital ectropion", "Scheie syndrome"]
 ---
 
 # Galsulfase

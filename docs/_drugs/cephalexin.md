@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Cephalexin: nova indicação prevista, Otite Média Crônica (Chronic Otitis Media) (nível de evidência L4). Indicação original: Cefalosporinas"
+monitor_inn: "Cephalexin"
+predicted_indications: ["chronic otitis media", "suppurative otitis media", "middle ear disease", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media", "middle ear cholesterol granuloma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
 ---
 
 # Cephalexin

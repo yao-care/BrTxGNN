@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-13
 description: "Zinc Chloride: nova indicação prevista, Retinopatia Diabética Não Proliferativa Grave (severe nonproliferativ… (nível de evidência L5). Indicação original: Nutrientes parenterais"
+monitor_inn: "ZINC CHLORIDE"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "Sjogren syndrome", "dry eye syndrome"]
 ---
 
 # Zinc Chloride

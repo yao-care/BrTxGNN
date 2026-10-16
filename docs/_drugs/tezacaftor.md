@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Tezacaftor: nova indicação prevista, Doença infecciosa por HIV (HIV infectious disease) (nível de evidência L5). Indicação original: Fibrose cística"
+monitor_inn: "Tezacaftor"
+predicted_indications: ["HIV infectious disease", "leprosy", "multiple endocrine neoplasia", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "female breast carcinoma", "homozygous familial hypercholesterolemia", "amyotrophic lateral sclerosis"]
 ---
 
 # Tezacaftor

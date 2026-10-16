@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Omeprazole: nova indicação prevista, Refluxo Duodenogástrico (Duodenogastric Reflux) (nível de evidência L3). Indicação original: Úlcera gástrica, doença ulcerosa péptica…"
+monitor_inn: "OMEPRAZOLE"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 ---
 
 # Omeprazole

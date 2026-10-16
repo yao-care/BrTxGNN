@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-13
 description: "Ritonavir: nova indicação prevista, Infecção por vírus da imunodeficiência símia (Simian Immunodeficiency… (nível de evidência L4). Indicação original: HIV/AIDS e hepatite C crônica"
+monitor_inn: "RITONAVIR"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Ritonavir

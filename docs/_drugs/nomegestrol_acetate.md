@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Nomegestrol Acetate: nova indicação prevista, Candidíase (Candidiasis) (nível de evidência L5). Indicação original: Anticoncepcionais"
+monitor_inn: "Nomegestrol acetate"
+predicted_indications: ["candidiasis", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "plasma cell myeloma", "gout", "indolent plasma cell myeloma", "heart neoplasm", "thrombotic disease", "rheumatoid arthritis"]
 ---
 
 # Nomegestrol Acetate

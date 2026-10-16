@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Zinc Oxide: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Emolientes e protetores da pele e mucosas"
+monitor_inn: "Zinc oxide"
+predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "post-infectious syndrome", "otitis externa"]
 ---
 
 # Zinc Oxide

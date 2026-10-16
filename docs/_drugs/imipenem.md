@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Imipenem: nova indicação prevista, Esclerodermia difusa (Diffuse Scleroderma) (nível de evidência L5). Indicação original: Antibacteriano / antibióticos sistêmicos (associações medicamentosas)"
+monitor_inn: "imipenem"
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
 ---
 
 # Imipenem

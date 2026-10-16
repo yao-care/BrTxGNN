@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Nitazoxanide: nova indicação prevista, Hiperamilasemia (hyperamylasemia) (nível de evidência L5). Indicação original: Antiparasitários"
+monitor_inn: "Nitazoxanide"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "bubonic plague"]
 ---
 
 # Nitazoxanide

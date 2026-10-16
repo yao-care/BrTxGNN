@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Urofollitropin: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Hormônio gonadotrófico"
+monitor_inn: "urofollitropin"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "migraine with or without aura, susceptibility to", "Raynaud disease"]
 ---
 
 # Urofollitropin

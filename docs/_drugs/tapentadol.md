@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Tapentadol: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
+monitor_inn: "Tapentadol"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "insomnia (disease)", "headache disorder", "nephrogenic syndrome of inappropriate antidiuresis", "trigeminal autonomic cephalalgia", "anxiety"]
 ---
 
 # Tapentadol

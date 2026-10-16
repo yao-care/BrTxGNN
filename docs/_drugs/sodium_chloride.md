@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Sodium Chloride: nova indicação prevista, Doença fibrocística da mama (Breast Fibrocystic Disease) (nível de evidência L5). Indicação original: Reposição hidroeletrolítica e alimentação parenteral"
+monitor_inn: "Sodium chloride"
+predicted_indications: ["breast fibrocystic disease", "vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "blunt duct adenosis of breast", "apocrine adenosis of breast", "benign mammary dysplasia", "fat necrosis of breast"]
 ---
 
 # Sodium Chloride

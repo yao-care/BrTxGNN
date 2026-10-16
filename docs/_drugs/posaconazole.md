@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Posaconazole: nova indicação prevista, Pneumocistose (Pneumocystosis) (nível de evidência L4). Indicação original: Antimicóticos sistêmicos"
+monitor_inn: "posaconazole"
+predicted_indications: ["pneumocystosis"]
 ---
 
 # Posaconazole

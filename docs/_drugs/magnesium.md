@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Magnesium: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L1). Indicação original: Não disponível nos dados de registro da ANVISA"
+monitor_inn: "Magnesium"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "dermatitis", "hyperthyroidism", "rheumatoid arthritis", "dry eye syndrome"]
 ---
 
 # Magnesium

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Elexacaftor: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L5). Indicação original: Fibrose cística"
+monitor_inn: "Elexacaftor"
+predicted_indications: ["rheumatoid arthritis", "amyotrophic lateral sclerosis", "leprosy", "multiple endocrine neoplasia", "Mills syndrome", "amyotrophic lateral sclerosis, susceptibility to", "amyotrohpic lateral sclerosis type 22", "migraine with or without aura, susceptibility to", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension"]
 ---
 
 # Elexacaftor

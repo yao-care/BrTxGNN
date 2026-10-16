@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Gefitinib: nova indicação prevista, Fibromatose Gengival (Fibromatosis, gingival) (nível de evidência L5). Indicação original: Carcinoma pulmonar de células não pequenas / câncer de pulmão"
+monitor_inn: "Gefitinib"
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung hilum carcinoma", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa"]
 ---
 
 # Gefitinib

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Cefaclor: nova indicação prevista, polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade poli… (nível de evidência L5). Indicação original: Infecção do trato urinário, amigdalite, faringit…"
+monitor_inn: "Cefaclor"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "Ureaplasma urethritis", "gonococcal urethritis", "congenital analbuminemia", "blood group incompatibility", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "premalignant hematological system disease", "monoclonal gammopathy"]
 ---
 
 # Cefaclor

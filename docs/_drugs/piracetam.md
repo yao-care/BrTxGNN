@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Piracetam: nova indicação prevista, Osteoartrite (osteoarthritis) (nível de evidência L5). Indicação original: Sem indicação registrada na ANVISA (fora do Brasil: mioclonia…"
+monitor_inn: "Piracetam"
+predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheumatoid arthritis", "pseudoachondroplasia", "hepatic porphyria", "gout", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "hepatoportal sclerosis"]
 ---
 
 # Piracetam

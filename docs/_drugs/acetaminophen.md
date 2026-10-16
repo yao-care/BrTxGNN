@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Acetaminophen: nova indicação prevista, Enxaqueca com aura do tronco encefálico (migraine with brainstem aura) (nível de evidência L4). Indicação original: Analgésicos não narcóticos"
+monitor_inn: "Acetaminophen"
+predicted_indications: ["migraine with brainstem aura", "trigeminal autonomic cephalalgia", "atrophoderma vermiculata", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "ulerythema ophryogenesis", "fibromyalgia", "inclusion body myositis", "sciatic neuropathy"]
 ---
 
 # Acetaminophen

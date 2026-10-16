@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Basiliximab: nova indicação prevista, Mieloma de Plasmócitos (Plasma Cell Myeloma) (nível de evidência L5). Indicação original: Não disponível nos registros da ANVISA compilados"
+monitor_inn: "Basiliximab"
+predicted_indications: ["plasma cell myeloma", "bronchitis", "indolent plasma cell myeloma", "hemoglobinopathy", "gastric carcinoma", "diffuse gastric adenocarcinoma", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "Jeune syndrome situs inversus"]
 ---
 
 # Basiliximab

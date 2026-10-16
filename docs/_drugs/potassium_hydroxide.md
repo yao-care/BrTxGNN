@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Potassium Hydroxide: nova indicação prevista, Hiperplasia Prostática Benigna (benign prostatic hyperplasia) (nível de evidência L5). Indicação original: Nutrientes parenterais"
+monitor_inn: "Potassium hydroxide"
+predicted_indications: ["benign prostatic hyperplasia (disease)", "alopecia", "osteoarthritis", "congestive heart failure", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "osteoarthritis susceptibility", "diffuse alopecia areata", "acute pulmonary heart disease", "Prinzmetal angina"]
 ---
 
 # Potassium Hydroxide

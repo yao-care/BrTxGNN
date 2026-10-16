@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Norelgestromin: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L5). Indicação original: Anticoncepcionais"
+monitor_inn: "norelgestromin"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Norelgestromin

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Selenium: nova indicação prevista, Colangite Esclerosante (Sclerosing Cholangitis) (nível de evidência L4). Indicação original: Não disponível"
+monitor_inn: "Selenium"
+predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "obsolete hyperuricemia (disease)", "hypotrichosis simplex of the scalp", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hepatic porphyria", "congenital hypotrichosis milia", "hypouricemia, renal", "congestive heart failure", "hepatopulmonary syndrome"]
 ---
 
 # Selenium

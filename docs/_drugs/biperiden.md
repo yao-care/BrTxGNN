@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Biperiden: nova indicação prevista, Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). Indicação original: Doença de Parkinson (e síndromes parkinsonianas rel…"
+monitor_inn: "Biperiden"
+predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "Lewy body dementia", "attention deficit-hyperactivity disorder", "X-linked intellectual disability-ataxia-apraxia syndrome"]
 ---
 
 # Biperiden

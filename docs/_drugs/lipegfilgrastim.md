@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-13
 description: "Lipegfilgrastim: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder… (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
+monitor_inn: "LIPEGFILGRASTIM"
+predicted_indications: ["primary release disorder of platelets", "severe nonproliferative diabetic retinopathy", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "diabetic retinopathy"]
 ---
 
 # Lipegfilgrastim

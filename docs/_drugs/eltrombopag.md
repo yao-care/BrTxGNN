@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Eltrombopag: nova indicação prevista, Infecção por HIV (HIV infectious disease) (nível de evidência L3). Indicação original: Outros produtos anti-hemorrágicos"
+monitor_inn: "eltrombopag"
+predicted_indications: ["HIV infectious disease"]
 ---
 
 # Eltrombopag

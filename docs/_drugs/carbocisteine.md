@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Carbocisteine: nova indicação prevista, Gota (Gout) (nível de evidência L5). Indicação original: Expectorantes"
+monitor_inn: "Carbocisteine"
+predicted_indications: ["gout", "bronchitis", "appendicitis", "congestive heart failure", "acute pulmonary heart disease", "epiglottitis", "peritonitis", "laryngitis", "Lesch-Nyhan syndrome", "gastrointestinal allergy"]
 ---
 
 # Carbocisteine

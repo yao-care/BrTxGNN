@@ -1,128 +1,99 @@
 #!/usr/bin/env python3
 """
-Extrair lista de medicamentos para verificação de evidências.
-
-Gera um arquivo JSON com a lista de medicamentos para os scripts de verificação
-de evidências (check_clinicaltrials.py, check_pubmed.py, etc.).
+Extract drug list from docs/_drugs/*.md files.
+Creates a JSON file with drug names, evidence levels, and indication counts.
 """
 
 import json
-from datetime import date
+import re
 from pathlib import Path
 
-# Caminhos
-SCRIPT_DIR = Path(__file__).parent
-PROJECT_ROOT = SCRIPT_DIR.parent
-BUNDLES_DIR = PROJECT_ROOT / "data" / "bundles"
-SEARCH_INDEX_FILE = PROJECT_ROOT / "docs" / "data" / "search-index.json"
-OUTPUT_FILE = SCRIPT_DIR / "drug_list.json"
+
+def parse_front_matter(content: str) -> dict:
+    """Parse YAML front matter from markdown content."""
+    if not content.startswith("---"):
+        return {}
+
+    parts = content.split("---", 2)
+    if len(parts) < 3:
+        return {}
+
+    front_matter = {}
+    for line in parts[1].strip().split("\n"):
+        if ":" in line:
+            key, value = line.split(":", 1)
+            key = key.strip()
+            value = value.strip().strip('"').strip("'")
+            front_matter[key] = value
+
+    return front_matter
 
 
-def extract_from_bundles() -> list:
-    """Extrair lista de medicamentos dos bundles."""
-    drugs = []
-
-    if not BUNDLES_DIR.exists():
-        print(f"Diretório de bundles não encontrado: {BUNDLES_DIR}")
-        return drugs
-
-    for drug_dir in BUNDLES_DIR.iterdir():
-        if not drug_dir.is_dir():
-            continue
-
-        bundle_file = drug_dir / "drug_bundle.json"
-        if not bundle_file.exists():
-            continue
-
-        try:
-            with open(bundle_file, "r", encoding="utf-8") as f:
-                bundle = json.load(f)
-
-            drug_data = bundle.get("drug", {})
-            drug_name = drug_data.get("inn", drug_dir.name.replace("_", " ").title())
-
-            drugs.append({
-                "name": drug_name,
-                "slug": drug_dir.name
-            })
-        except Exception as e:
-            print(f"Erro ao carregar {bundle_file}: {e}")
-
-    return drugs
-
-
-def extract_from_search_index() -> list:
-    """Extrair lista de medicamentos do índice de pesquisa."""
-    drugs = []
-
-    if not SEARCH_INDEX_FILE.exists():
-        print(f"Índice de pesquisa não encontrado: {SEARCH_INDEX_FILE}")
-        return drugs
-
-    try:
-        with open(SEARCH_INDEX_FILE, "r", encoding="utf-8") as f:
-            index = json.load(f)
-
-        for drug in index.get("drugs", []):
-            drugs.append({
-                "name": drug.get("name", ""),
-                "slug": drug.get("slug", "")
-            })
-    except Exception as e:
-        print(f"Erro ao carregar índice de pesquisa: {e}")
-
-    return drugs
+def extract_predicted_indication(content: str) -> str:
+    """Extract predicted indication from the drug report."""
+    # Look for the pattern in the quick overview table
+    match = re.search(r'\|\s*預測新適應症\s*\|\s*([^|]+)\s*\|', content)
+    if match:
+        return match.group(1).strip()
+    return ""
 
 
 def main():
-    print("=" * 60)
-    print("Extraindo Lista de Medicamentos")
-    print("=" * 60)
+    drugs_dir = Path(__file__).parent.parent / "docs" / "_drugs"
+    output_file = Path(__file__).parent / "drug_list.json"
 
-    # Tentar extrair dos bundles primeiro
-    drugs = extract_from_bundles()
+    drugs = []
 
-    if not drugs:
-        # Se não houver bundles, tentar o índice de pesquisa
-        print("Nenhum bundle encontrado, tentando índice de pesquisa...")
-        drugs = extract_from_search_index()
+    for md_file in sorted(drugs_dir.glob("*.md")):
+        content = md_file.read_text(encoding="utf-8")
+        front_matter = parse_front_matter(content)
 
-    if not drugs:
-        print("Nenhum medicamento encontrado.")
-        print("\nPara gerar a lista de medicamentos, primeiro execute as previsões:")
-        print("  uv run python scripts/run_kg_prediction.py")
-        return
+        drug_name = front_matter.get("title", md_file.stem)
+        evidence_level = front_matter.get("evidence_level", "")
+        indication_count = front_matter.get("indication_count", "0")
 
-    # Remover duplicatas e ordenar
-    seen = set()
-    unique_drugs = []
+        # Extract predicted indication for search queries
+        predicted_indication = extract_predicted_indication(content)
+
+        # 2026-10-16：監測改用 front matter 的英文 INN 與預測新適應症（不分語言）；
+        # 沒有這兩個欄位的頁（轉址頁、無新預測頁）不監測
+        try:
+            predicted_indications = json.loads(front_matter.get("predicted_indications", "[]"))
+        except ValueError:
+            predicted_indications = []
+        monitor_inn = front_matter.get("monitor_inn", "")
+        if not predicted_indications or not monitor_inn:
+            continue
+
+        drugs.append({
+            "name": drug_name,
+            "file": md_file.name,
+            "evidence_level": evidence_level,
+            "indication_count": int(indication_count) if indication_count.isdigit() else 0,
+            "predicted_indication": predicted_indication,
+            "inn": monitor_inn,
+            "predicted_indications": predicted_indications,
+        })
+
+    # Save to JSON
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump({
+            "total": len(drugs),
+            "generated_at": __import__("datetime").datetime.now().isoformat(),
+            "drugs": drugs
+        }, f, indent=2, ensure_ascii=False)
+
+    print(f"Extracted {len(drugs)} drugs to {output_file}")
+
+    # Print summary
+    level_counts = {}
     for drug in drugs:
-        if drug["name"] not in seen:
-            seen.add(drug["name"])
-            unique_drugs.append(drug)
+        level = drug["evidence_level"] or "Unknown"
+        level_counts[level] = level_counts.get(level, 0) + 1
 
-    unique_drugs.sort(key=lambda x: x["name"])
-
-    # Criar saída
-    output = {
-        "generated": date.today().isoformat(),
-        "count": len(unique_drugs),
-        "drugs": unique_drugs
-    }
-
-    # Salvar
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-
-    print(f"Extraídos {len(unique_drugs)} medicamentos")
-    print(f"Saída: {OUTPUT_FILE}")
-
-    # Mostrar amostra
-    print("\nAmostra de medicamentos:")
-    for drug in unique_drugs[:10]:
-        print(f"  - {drug['name']}")
-    if len(unique_drugs) > 10:
-        print(f"  ... e mais {len(unique_drugs) - 10} medicamentos")
+    print("\nEvidence level distribution:")
+    for level in sorted(level_counts.keys()):
+        print(f"  {level}: {level_counts[level]}")
 
 
 if __name__ == "__main__":

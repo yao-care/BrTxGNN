@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Glucagon: nova indicação prevista, Síndrome do intestino irritável (Irritable Bowel Syndrome) (nível de evidência L3). Indicação original: Não disponível nos dados compilados"
+monitor_inn: "GLUCAGON"
+predicted_indications: ["irritable bowel syndrome"]
 ---
 
 # Glucagon

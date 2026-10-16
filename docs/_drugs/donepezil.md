@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 8
 last_modified_at: 2026-10-13
 description: "Donepezil: nova indicação prevista, Transtorno de Tique Crônico (Chronic Tic Disorder) (nível de evidência L3). Indicação original: Doença de Alzheimer"
+monitor_inn: "DONEPEZIL"
+predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
 ---
 
 # Donepezil

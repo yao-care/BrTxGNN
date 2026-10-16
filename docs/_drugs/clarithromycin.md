@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Clarithromycin: nova indicação prevista, Gamopatia Monoclonal (Monoclonal Gammopathy) (nível de evidência L5). Indicação original: Macrolídeos (antibiótico sistêmico)"
+monitor_inn: "Clarithromycin"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "septicemic plague", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 ---
 
 # Clarithromycin

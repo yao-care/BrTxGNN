@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Ertapenem: nova indicação prevista, Infecção por Staphylococcus aureus (Staphylococcus aureus infection) (nível de evidência L5). Indicação original: Antibacterianos para uso sistêmico"
+monitor_inn: "ertapenem"
+predicted_indications: ["bacterial arthritis", "staphylococcus aureus infection"]
 ---
 
 # Ertapenem

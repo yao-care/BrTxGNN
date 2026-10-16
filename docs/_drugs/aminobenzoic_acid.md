@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Aminobenzoic Acid: nova indicação prevista, Esclerose Sistêmica Limitada (Limited Systemic Sclerosis) (nível de evidência L4). Indicação original: Outros produtos não enquadrados em classe terapêutic…"
+monitor_inn: "aminobenzoic acid"
+predicted_indications: ["hereditary angioedema with C1Inh deficiency", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "Camurati-Engelmann disease", "posterior leukoencephalopathy syndrome", "limited systemic sclerosis", "geleophysic dysplasia", "aortic valve insufficiency", "carcinosarcoma", "pseudoxanthoma elasticum, forme fruste"]
 ---
 
 # Aminobenzoic Acid

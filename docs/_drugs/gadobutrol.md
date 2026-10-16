@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Gadobutrol: nova indicação prevista, Hiperplasia Prostática Benigna (benign prostatic hyperplasia) (nível de evidência L5). Indicação original: Sem informação disponível"
+monitor_inn: "Gadobutrol"
+predicted_indications: ["benign prostatic hyperplasia (disease)", "peripheral arterial disease", "cauda equina syndrome", "peripheral vascular disease", "strongyloidiasis", "prostate calculus", "obsolete neurogenic bladder (disease)", "iritis (disease)", "hypertrichosis (disease)", "disease of orbital region"]
 ---
 
 # Gadobutrol

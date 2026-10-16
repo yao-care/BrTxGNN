@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Perampanel: nova indicação prevista, Epilepsia Visual (Visual Epilepsy) (nível de evidência L5). Indicação original: Epilepsia parcial / epilepsia motora parcial"
+monitor_inn: "PERAMPANEL"
+predicted_indications: ["visual epilepsy", "thinking seizures", "micturation-induced seizures", "startle epilepsy", "audiogenic seizures", "eating seizures", "orgasm-induced seizures", "reading seizures", "beta-ketothiolase deficiency", "status epilepticus"]
 ---
 
 # Perampanel

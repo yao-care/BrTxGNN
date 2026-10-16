@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 7
 last_modified_at: 2026-10-13
 description: "Clobetasol Propionate: nova indicação prevista, Exantema (Exanthem) (nível de evidência L2). Indicação original: Glicocorticoides tópicos, exceto uso oftálmico"
+monitor_inn: "CLOBETASOL PROPIONATE"
+predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis chronica atrophicans", "exanthem (disease)", "acne keloid", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
 ---
 
 # Clobetasol Propionate

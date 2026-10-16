@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Glatiramer: nova indicação prevista, Hemoglobinopatia (hemoglobinopathy) (nível de evidência L5). Indicação original: Imunomodulador"
+monitor_inn: "glatiramer"
+predicted_indications: ["hemoglobinopathy"]
 ---
 
 # Glatiramer

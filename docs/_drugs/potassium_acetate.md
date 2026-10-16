@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Potassium Acetate: nova indicação prevista, Acidose Tubular Renal (Renal Tubular Acidosis) (nível de evidência L5). Indicação original: Nutrientes parenterais"
+monitor_inn: "POTASSIUM ACETATE"
+predicted_indications: ["renal tubular acidosis"]
 ---
 
 # Potassium Acetate

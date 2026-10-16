@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 5
 last_modified_at: 2026-10-13
 description: "Benralizumab: nova indicação prevista, Dermatite (dermatitis) (nível de evidência L2). Indicação original: Outros antialérgicos"
+monitor_inn: "benralizumab"
+predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
 ---
 
 # Benralizumab

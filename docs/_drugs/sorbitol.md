@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Sorbitol: nova indicação prevista, Hipertermia maligna induzida por exercício (exercise-induced malignan… (nível de evidência L5). Indicação original: Não informada"
+monitor_inn: "Sorbitol"
+predicted_indications: ["exercise-induced malignant hyperthermia", "epiglottitis", "congestive heart failure", "infectious otitis media", "toxocariasis", "acute pulmonary heart disease", "middle ear cholesterol granuloma", "otosalpingitis", "allergic otitis media", "familial periodic paralysis"]
 ---
 
 # Sorbitol

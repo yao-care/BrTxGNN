@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Amikacin: nova indicação prevista, Febre paratifoide (paratyphoid fever) (nível de evidência L4). Indicação original: Aminoglicosídeos"
+monitor_inn: "Amikacin"
+predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "meningococcemia"]
 ---
 
 # Amikacin

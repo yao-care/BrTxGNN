@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-13
 description: "Efavirenz: nova indicação prevista, Síndrome de imunodeficiência adquirida felina (feline acquired immuno… (nível de evidência L4). Indicação original: Infecção por HIV e AIDS"
+monitor_inn: "EFAVIRENZ"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Efavirenz

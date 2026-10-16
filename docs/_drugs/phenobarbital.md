@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Phenobarbital: nova indicação prevista, Neoplasia do Nervo Trigêmeo (Trigeminal Nerve Neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
+monitor_inn: "Phenobarbital"
+predicted_indications: ["trigeminal nerve neoplasm", "micturation-induced seizures", "orgasm-induced seizures", "eating seizures", "audiogenic seizures", "startle epilepsy", "thinking seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenobarbital

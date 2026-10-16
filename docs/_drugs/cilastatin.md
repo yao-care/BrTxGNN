@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Cilastatin: nova indicação prevista, Infecção por Staphylococcus aureus (staphylococcus aureus infection) (nível de evidência L3). Indicação original: Antibiótico sistêmico (associação medicamentosa)"
+monitor_inn: "cilastatin"
+predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "pneumonia", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
 ---
 
 # Cilastatin

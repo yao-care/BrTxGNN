@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-13
 description: "Topiramate: nova indicação prevista, Neoplasma do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
+monitor_inn: "TOPIRAMATE"
+predicted_indications: ["trigeminal nerve neoplasm", "visual epilepsy", "thinking seizures", "orgasm-induced seizures", "micturation-induced seizures", "eating seizures", "audiogenic seizures", "startle epilepsy", "reading seizures"]
 ---
 
 # Topiramate

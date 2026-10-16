@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 3
 last_modified_at: 2026-10-13
 description: "Belinostat: nova indicação prevista, Leucemia Mieloide (Myeloid Leukemia) (nível de evidência L2). Indicação original: Antineoplásico"
+monitor_inn: "belinostat"
+predicted_indications: ["myeloid leukemia", "plasma cell myeloma", "indolent plasma cell myeloma"]
 ---
 
 # Belinostat

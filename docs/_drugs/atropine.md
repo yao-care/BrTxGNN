@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Atropine: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L4). Indicação original: Antiespasmódicos e anticolinérgicos gastrintestinais"
+monitor_inn: "Atropine"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "open-angle glaucoma", "primary hereditary glaucoma", "ulerythema ophryogenesis", "headache disorder", "trigeminal autonomic cephalalgia", "nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Atropine

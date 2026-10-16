@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-13
 description: "Rutin: nova indicação prevista, Doença fibrocística da mama (breast fibrocystic disease) (nível de evidência L5). Indicação original: Antivaricosos de ação sistêmica"
+monitor_inn: "rutin"
+predicted_indications: ["breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia", "vulvovaginal candidiasis", "breast abscess", "fat necrosis of breast", "vaginitis (disease)"]
 ---
 
 # Rutin

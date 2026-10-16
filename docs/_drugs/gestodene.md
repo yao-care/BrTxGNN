@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Gestodene: nova indicação prevista, Enxaqueca (migraine disorder), primeira posição do ranking (nível de evidência L5). Indicação original: Não informada nos dados de registro (uso conhecido: contrac…"
+monitor_inn: "Gestodene"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "primary cutaneous T-cell lymphoma", "acne (disease)", "seborrheic keratosis", "migraine with or without aura, susceptibility to", "vulvar inverted follicular keratosis", "mycotic corneal ulcer", "kyphoscoliotic heart disease", "allergic asthma"]
 ---
 
 # Gestodene

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Benzocaine: nova indicação prevista, Conjuntivite Papilar (Papillary Conjunctivitis) (nível de evidência L5). Indicação original: Anestésicos locais"
+monitor_inn: "BENZOCAINE"
+predicted_indications: ["papillary conjunctivitis"]
 ---
 
 # Benzocaine

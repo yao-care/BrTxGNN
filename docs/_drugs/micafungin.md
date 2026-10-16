@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Micafungin: nova indicação prevista, Infecção do Trato Urinário (urinary tract infection) (nível de evidência L3). Indicação original: Antifúngicos"
+monitor_inn: "micafungin"
+predicted_indications: ["urinary tract infection (disease)"]
 ---
 
 # Micafungin

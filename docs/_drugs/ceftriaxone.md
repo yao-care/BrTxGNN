@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Ceftriaxone: nova indicação prevista, Otite média infecciosa (Infectious Otitis Media) (nível de evidência L4). Indicação original: Cefalosporinas"
+monitor_inn: "Ceftriaxone"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media", "premalignant hematological system disease", "middle ear disease", "otosalpingitis"]
 ---
 
 # Ceftriaxone

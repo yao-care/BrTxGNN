@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Phenylalanine: nova indicação prevista, Colangite esclerosante (sclerosing cholangitis) (nível de evidência L5). Indicação original: Nutrientes parenterais"
+monitor_inn: "PHENYLALANINE"
+predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
 ---
 
 # Phenylalanine

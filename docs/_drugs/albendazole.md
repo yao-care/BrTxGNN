@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Albendazole: nova indicação prevista, Equinococose alveolar (Alveolar Echinococcosis) (nível de evidência L2). Indicação original: Anti-helmínticos do trato gastrointestinal"
+monitor_inn: "Albendazole"
+predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease", "dermatofibrosarcoma protuberans", "lung benign neoplasm", "lung hilum carcinoma", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "fibroma of lung", "hamartoma of lung", "intestinal helminthiasis"]
 ---
 
 # Albendazole

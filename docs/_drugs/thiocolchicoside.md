@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Thiocolchicoside: nova indicação prevista, Insônia (insomnia) (nível de evidência L5). Indicação original: Relaxantes musculares centrais simples"
+monitor_inn: "thiocolchicoside"
+predicted_indications: ["insomnia (disease)", "alcohol withdrawal delirium"]
 ---
 
 # Thiocolchicoside

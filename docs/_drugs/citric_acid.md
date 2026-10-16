@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-13
 description: "Citric Acid: nova indicação prevista, Doença gástrica (stomach disease) (nível de evidência L5). Indicação original: Antiácido (ANTIACIDO)"
+monitor_inn: "citric acid"
+predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
 ---
 
 # Citric Acid

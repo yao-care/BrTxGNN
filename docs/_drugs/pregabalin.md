@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 6
 last_modified_at: 2026-10-13
 description: "Pregabalin: nova indicação prevista, Tendinite (tendinitis) (nível de evidência L4). Indicação original: Transtorno de ansiedade, fibromialgia…"
+monitor_inn: "PREGABALIN"
+predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Pregabalin

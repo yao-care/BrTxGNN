@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Carisoprodol: nova indicação prevista, Insônia (insomnia) (nível de evidência L5). Indicação original: Relaxante muscular esquelético de ação central"
+monitor_inn: "CARISOPRODOL"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Carisoprodol
