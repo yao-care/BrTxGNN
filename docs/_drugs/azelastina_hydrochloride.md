@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Azelastina Hydrochloride
 parent: Apenas Predição do Modelo (L5)

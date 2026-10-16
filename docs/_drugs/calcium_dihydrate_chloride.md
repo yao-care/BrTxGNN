@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Calcium Dihydrate Chloride
 parent: Apenas Predição do Modelo (L5)

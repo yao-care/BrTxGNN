@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Benazepril Hydrochloride
 parent: Apenas Predição do Modelo (L5)

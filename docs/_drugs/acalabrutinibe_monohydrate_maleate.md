@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acalabrutinibe Monohydrate Maleate
 parent: Apenas Predição do Modelo (L5)

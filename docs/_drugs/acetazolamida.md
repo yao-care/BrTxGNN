@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetazolamida
 parent: Apenas Predição do Modelo (L5)

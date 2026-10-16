@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Biperiden Hydrochloride
 parent: Apenas Predição do Modelo (L5)

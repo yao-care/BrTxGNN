@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Amiodarone Hydrochloride
 parent: Apenas Predição do Modelo (L5)

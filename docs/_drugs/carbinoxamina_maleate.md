@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Carbinoxamina Maleate
 parent: Apenas Predição do Modelo (L5)

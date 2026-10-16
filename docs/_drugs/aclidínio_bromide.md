@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aclidínio Bromide
 parent: Apenas Predição do Modelo (L5)

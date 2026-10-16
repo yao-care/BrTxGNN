@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Amilorida Hydrochloride
 parent: Apenas Predição do Modelo (L5)

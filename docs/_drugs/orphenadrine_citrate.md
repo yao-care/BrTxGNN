@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Orphenadrine Citrate
 parent: Apenas Predição do Modelo (L5)

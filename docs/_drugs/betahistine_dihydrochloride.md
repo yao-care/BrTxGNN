@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Betahistine Dihydrochloride
 parent: Apenas Predição do Modelo (L5)

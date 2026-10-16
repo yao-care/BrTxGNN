@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Teriparatida
 parent: Apenas Predição do Modelo (L5)

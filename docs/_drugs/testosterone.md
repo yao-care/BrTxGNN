@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Testosterone
 parent: Apenas Predição do Modelo (L5)
