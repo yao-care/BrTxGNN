@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Acetylcysteine com as
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L2</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>thrombotic disease (100.0%)</li>
 <li>closed-angle glaucoma (100.0%)</li>

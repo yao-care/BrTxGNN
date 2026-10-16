@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Metaraminol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Metaraminol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Metaraminol. Indicação original: . 9 indicações previstas."
 permalink: /news/metaraminol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metaraminol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Metaraminol?">
-<strong>Metaraminol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Metaraminol</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para Metaraminol com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>postural orthostatic tachycardia syndrome (98.0%)</li>
-<li>urticaria (disease) (95.3%)</li>
-<li>variably protease-sensitive prionopathy (94.7%)</li>
-<li>mitral valve prolapse (disease) (93.9%)</li>
-<li>common cold (93.9%)</li>
-<li>MVP1 (93.6%)</li>
-<li>irritable bowel syndrome (93.2%)</li>
-<li>familial mitral valve prolapse (93.2%)</li>
-<li>multiple system atrophy (93.0%)</li>
-<li>angioedema (92.9%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Urticária | 95,33% | Sem fundamento mecanístico claro; urticária é mediada por mastócitos/histamina (99.0%)</li>
+<li>Prionopatia variavelmente sensível à protease | 94,69% | Sem conexão mecanística identificável; provável artefato da rede (99.0%)</li>
+<li>Prolapso da valva mitral | 93,94% | Distúrbio estrutural; o pressor não trata a causa e pode provocar arritmias (99.0%)</li>
+<li>Resfriado comum | 93,86% | Racional farmacológico frouxo (descongestionante); alternativas mais bem caracterizadas (99.0%)</li>
+<li>MVP1 (prolapso mitral genético) | 93,56% | Essencialmente duplicata do prolapso mitral; sem base mecanística (99.0%)</li>
+<li>Síndrome do intestino irritável | 93,25% | Sem vínculo estabelecido; efeitos pressores sistêmicos seriam indesejáveis (99.0%)</li>
+<li>Prolapso familiar da valva mitral | 93,18% | Outra entrada de prolapso mitral hereditário; sem apoio clínico (99.0%)</li>
+<li>Atrofia de múltiplos sistemas | 92,97% | Racional sintomático plausível para hipotensão ortostática neurogênica; risco de hipertensão supina (99.0%)</li>
+<li>Angioedema | 92,88% | Racional distante por classe; formas mediadas por bradicinina não respondem (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metaraminol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

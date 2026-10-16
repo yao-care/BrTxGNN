@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre GLUTAMIC ACID"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com GLUTAMIC ACID. Indicação original: . 4 indicações previstas."
+description: "Notícias de saúde relacionadas com GLUTAMIC ACID. Indicação original: . 0 indicações previstas."
 permalink: /news/glutamic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glutamic_acid/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre GLUTAMIC ACID?">
-<strong>GLUTAMIC ACID</strong> tem atualmente <strong>0 notícias</strong> e 4 indicações previstas.
+<strong>GLUTAMIC ACID</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,8 @@ Esta página combina as indicações previstas por IA para GLUTAMIC ACID com as 
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (4)</strong>:<ul>
-<li>postmenopausal osteoporosis (99.3%)</li>
-<li>pregnancy associated osteoporosis (99.2%)</li>
-<li>primary hereditary glaucoma (99.1%)</li>
-<li>gastroparesis (disease) (99.1%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/glutamic-acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/glutamic_acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

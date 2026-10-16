@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Ioversol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ioversol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Ioversol. Indicação original: . 9 indicações previstas."
 permalink: /news/ioversol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ioversol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ioversol?">
-<strong>Ioversol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ioversol</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para Ioversol com as notí
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>osteoarthritis susceptibility (99.7%)</li>
-<li>osteoarthritis (99.6%)</li>
-<li>rheumatoid arthritis (99.6%)</li>
-<li>brachyolmia (99.4%)</li>
-<li>hemoglobinopathy (99.3%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.3%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.3%)</li>
-<li>myosclerosis (99.3%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.3%)</li>
-<li>alopecia (99.2%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Osteoartrite | 99,63% | L4 | Um único artigo indireto, sobre embolização, e não sobre ioversol (99.0%)</li>
+<li>Artrite reumatoide | 99,56% | L5 | Literatura sem relação com ioversol (99.0%)</li>
+<li>Braquiolmia | 99,36% | L5 | Displasia esquelética genética rara, sem mecanismo plausível (99.0%)</li>
+<li>Hemoglobinopatia | 99,33% | L5 | Sem mecanismo identificado (99.0%)</li>
+<li>Síndrome braquiolmia-amelogênese imperfeita | 99,32% | L5 | Síndrome genética rara, sem evidências (99.0%)</li>
+<li>Displasia acromesomélica tipo Hunter-Thompson | 99,32% | L5 | Displasia monogênica, sem conexão mecanística (99.0%)</li>
+<li>Miosclerose | 99,29% | L5 | Sem relação conhecida (99.0%)</li>
+<li>Síndrome de microftalmia colobomatosa com displasia rizomélica | 99,26% | L5 | Síndrome ultrarrara, sem mecanismo plausível (99.0%)</li>
+<li>Alopecia | 99,25% | L5 | Sem racional mecanístico (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ioversol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

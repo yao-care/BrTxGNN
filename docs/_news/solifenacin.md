@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Solifenacin com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>polycystic kidney disease 3 with or without polycystic liver disease (97.1%)</li>
 <li>thoracic malformation (96.6%)</li>

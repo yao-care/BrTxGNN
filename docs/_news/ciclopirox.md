@@ -25,16 +25,16 @@ Esta página combina as indicações previstas por IA para CICLOPIROX com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>tinea corporis (99.0%)</li>
-<li>pityriasis versicolor (99.0%)</li>
-<li>tinea infection (99.0%)</li>
-<li>pityriasis simplex (99.0%)</li>
-<li>seborrheic keratosis (99.0%)</li>
-<li>tinea unguium (99.0%)</li>
-<li>dermatophytosis of groin and perianal area (99.0%)</li>
-<li>cutaneous candidiasis (99.0%)</li>
-<li>tinea pedis (99.0%)</li>
-<li>seborrheic dermatitis (99.0%)</li>
+<li>tinea corporis | TxGNN Knowledge Graph (99.0%)</li>
+<li>pityriasis versicolor | TxGNN Knowledge Graph (99.0%)</li>
+<li>tinea infection | TxGNN Knowledge Graph (99.0%)</li>
+<li>pityriasis simplex | TxGNN Knowledge Graph (99.0%)</li>
+<li>seborrheic keratosis | TxGNN Knowledge Graph (99.0%)</li>
+<li>tinea unguium | TxGNN Knowledge Graph (99.0%)</li>
+<li>dermatophytosis of groin and perianal area | TxGNN Knowledge Graph (99.0%)</li>
+<li>cutaneous candidiasis | TxGNN Knowledge Graph (99.0%)</li>
+<li>tinea pedis | TxGNN Knowledge Graph (99.0%)</li>
+<li>seborrheic dermatitis | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ciclopirox/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

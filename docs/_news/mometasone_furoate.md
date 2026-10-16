@@ -25,26 +25,26 @@ Esta página combina as indicações previstas por IA para MOMETASONE FUROATE co
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (20)</strong>:<ul>
-<li>lichen disease (99.0%)</li>
-<li>seborrheic dermatitis (99.0%)</li>
-<li>neurodermatitis (99.0%)</li>
-<li>dermatitis, atopic (99.0%)</li>
-<li>vasomotor rhinitis (99.0%)</li>
-<li>occupational dermatitis (99.0%)</li>
-<li>contact dermatitis (99.0%)</li>
-<li>atopic eczema (99.0%)</li>
-<li>lupus erythematosus (99.0%)</li>
-<li>discoid lupus erythematosus (99.0%)</li>
-<li>asthma (99.0%)</li>
-<li>seborrheic keratosis (99.0%)</li>
-<li>allergic asthma (99.0%)</li>
-<li>chronic cutaneous lupus erythematosus (99.0%)</li>
-<li>intrinsic asthma (99.0%)</li>
-<li>allergic rhinitis (99.0%)</li>
-<li>granuloma annulare (99.0%)</li>
-<li>exanthem (disease) (99.0%)</li>
-<li>primary cutaneous T-cell non-Hodgkin lymphoma (99.0%)</li>
-<li>primary cutaneous T-cell lymphoma (99.0%)</li>
+<li>lichen disease | TxGNN Knowledge Graph (99.0%)</li>
+<li>seborrheic dermatitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>neurodermatitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>dermatitis, atopic | TxGNN Knowledge Graph (99.0%)</li>
+<li>vasomotor rhinitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>occupational dermatitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>contact dermatitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>atopic eczema | TxGNN Knowledge Graph (99.0%)</li>
+<li>lupus erythematosus | TxGNN Knowledge Graph (99.0%)</li>
+<li>discoid lupus erythematosus | TxGNN Knowledge Graph (99.0%)</li>
+<li>asthma | TxGNN Knowledge Graph (99.0%)</li>
+<li>seborrheic keratosis | TxGNN Knowledge Graph (99.0%)</li>
+<li>allergic asthma | TxGNN Knowledge Graph (99.0%)</li>
+<li>chronic cutaneous lupus erythematosus | TxGNN Knowledge Graph (99.0%)</li>
+<li>intrinsic asthma | TxGNN Knowledge Graph (99.0%)</li>
+<li>allergic rhinitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>granuloma annulare | TxGNN Knowledge Graph (99.0%)</li>
+<li>exanthem (disease) | TxGNN Knowledge Graph (99.0%)</li>
+<li>primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph (99.0%)</li>
+<li>primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mometasone_furoate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

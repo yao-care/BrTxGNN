@@ -25,9 +25,9 @@ Esta página combina as indicações previstas por IA para INDAPAMIDE com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (3)</strong>:<ul>
-<li>hypertensive disorder (99.0%)</li>
-<li>hypertension (99.0%)</li>
-<li>congestive heart failure (99.0%)</li>
+<li>hypertensive disorder | TxGNN Knowledge Graph (99.0%)</li>
+<li>hypertension | TxGNN Knowledge Graph (99.0%)</li>
+<li>congestive heart failure | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/indapamide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

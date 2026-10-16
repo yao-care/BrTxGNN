@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para METOCLOPRAMIDE com as
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (5)</strong>:<ul>
 <li>gastric ulcer (disease) (99.9%)</li>
 <li>gastroduodenitis (99.9%)</li>

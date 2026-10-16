@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para DEGARELIX com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>hypertrichosis (disease) (100.0%)</li>
 <li>Ambras type hypertrichosis universalis congenita (100.0%)</li>

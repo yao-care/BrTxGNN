@@ -25,8 +25,8 @@ Esta página combina as indicações previstas por IA para GABAPENTIN com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (2)</strong>:<ul>
-<li>restless legs syndrome (99.0%)</li>
-<li>postherpetic neuralgia (99.0%)</li>
+<li>restless legs syndrome | TxGNN Knowledge Graph (99.0%)</li>
+<li>postherpetic neuralgia | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gabapentin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

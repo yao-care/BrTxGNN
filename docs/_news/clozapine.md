@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Clozapine com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L2</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>manic bipolar affective disorder (100.0%)</li>
 <li>Tourette syndrome (99.9%)</li>

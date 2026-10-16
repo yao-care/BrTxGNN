@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para PHENYLALANINE com as 
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (2)</strong>:<ul>
 <li>sclerosing cholangitis (99.4%)</li>
 <li>congenital prothrombin deficiency (99.3%)</li>

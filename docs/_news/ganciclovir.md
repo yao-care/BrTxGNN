@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Ganciclovir com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>cytomegalovirus pneumonia (97.6%)</li>
 <li>epidemic keratoconjunctivitis (97.3%)</li>

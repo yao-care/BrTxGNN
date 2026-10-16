@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para IRON com as notícias
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (6)</strong>:<ul>
 <li>vitamin B12- and folate-independent constitutional megaloblastic anemia (99.9%)</li>
 <li>Plummer-Vinson syndrome (99.9%)</li>

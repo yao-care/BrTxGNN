@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre POTASSIUM BICARBONATE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com POTASSIUM BICARBONATE. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com POTASSIUM BICARBONATE. Indicação original: . 0 indicações previstas."
 permalink: /news/potassium_bicarbonate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/potassium_bicarbonate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre POTASSIUM BICARBONATE?">
-<strong>POTASSIUM BICARBONATE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
+<strong>POTASSIUM BICARBONATE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,8 @@ Esta página combina as indicações previstas por IA para POTASSIUM BICARBONATE
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (1)</strong>:<ul>
-<li>gastroduodenitis (99.7%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium-bicarbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/potassium_bicarbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre ACARBOSE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ACARBOSE. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com ACARBOSE. Indicação original: . 8 indicações previstas."
 permalink: /news/acarbose/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acarbose/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ACARBOSE?">
-<strong>ACARBOSE</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>ACARBOSE</strong> tem atualmente <strong>0 notícias</strong> e 8 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,16 +24,16 @@ Esta página combina as indicações previstas por IA para ACARBOSE com as notí
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>focal stiff limb syndrome (99.7%)</li>
-<li>classic stiff person syndrome (99.7%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.6%)</li>
-<li>opsismodysplasia (99.6%)</li>
-<li>drug-induced localized lipodystrophy (99.2%)</li>
-<li>centrifugal lipodystrophy (99.2%)</li>
-<li>pressure-induced localized lipoatrophy (99.2%)</li>
-<li>idiopathic localized lipodystrophy (99.2%)</li>
-<li>pancreatic agenesis (99.2%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (8)</strong>:<ul>
+<li>Síndrome da pessoa rígida clássica | 99,65% (99.0%)</li>
+<li>Síndrome de disfunção responsiva à tiamina | 99,62% (99.0%)</li>
+<li>Opsismodisplasia | 99,62% (99.0%)</li>
+<li>Lipodistrofia localizada induzida por fármacos | 99,24% (99.0%)</li>
+<li>Lipodistrofia centrífuga | 99,22% (99.0%)</li>
+<li>Lipoatrofia localizada induzida por pressão | 99,20% (99.0%)</li>
+<li>Lipodistrofia localizada idiopática | 99,17% (99.0%)</li>
+<li>Agenesia pancreática | 99,16% (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acarbose/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para CILOSTAZOL com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>intermittent vascular claudication (99.0%)</li>
+<li>intermittent vascular claudication | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cilostazol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

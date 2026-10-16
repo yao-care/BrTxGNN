@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Ibuprofen"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ibuprofen. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Ibuprofen. Indicação original: . 9 indicações previstas."
 permalink: /news/ibuprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ibuprofen?">
-<strong>Ibuprofen</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ibuprofen</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para Ibuprofen com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.7%)</li>
-<li>myosclerosis (99.7%)</li>
-<li>brachyolmia (99.7%)</li>
-<li>brachydactyly-syndactyly syndrome (99.7%)</li>
-<li>pseudoachondroplasia (99.7%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
-<li>hypotrichosis simplex of the scalp (98.6%)</li>
-<li>WHIM syndrome (98.4%)</li>
-<li>congenital hypotrichosis milia (98.3%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Síndrome braquiolmia-amelogênese imperfeita | 99,71% | Sem vínculo estabelecido (99.0%)</li>
+<li>Miosclerose | 99,68% | Fraco e especulativo; no máximo alívio sintomático (99.0%)</li>
+<li>Braquiolmia | 99,67% | Sem vínculo; no máximo analgesia genérica (99.0%)</li>
+<li>Síndrome braquidactilia-sindactilia | 99,66% | Sem vínculo estabelecido (99.0%)</li>
+<li>Pseudoacondroplasia | 99,66% | Indireto e fraco; uso apenas sintomático para dor articular (99.0%)</li>
+<li>Síndrome de microftalmia colobomatosa-displasia rizomélica | 99,60% | Sem vínculo estabelecido (99.0%)</li>
+<li>Hipotricose simples do couro cabeludo | 98,59% | Sem vínculo; hipótese especulativa via prostaglandinas (99.0%)</li>
+<li>Síndrome WHIM | 98,43% | Sem vínculo (via CXCR4); cautela com AINEs (99.0%)</li>
+<li>Hipotricose congênita com milia | 98,31% | Sem vínculo estabelecido (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

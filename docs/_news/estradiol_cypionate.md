@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Estradiol cypionate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Estradiol cypionate. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Estradiol cypionate. Indicação original: . 0 indicações previstas."
 permalink: /news/estradiol_cypionate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/estradiol_cypionate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Estradiol cypionate?">
-<strong>Estradiol cypionate</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Estradiol cypionate</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Estradiol cypionate c
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>symptomatic form of fragile X syndrome in female carrier (99.7%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 12 (99.6%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 5 (99.6%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 18 (99.6%)</li>
-<li>ovarian remnant syndrome (99.6%)</li>
-<li>anovulation (99.6%)</li>
-<li>blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome (99.6%)</li>
-<li>blepharophimosis-epicanthus inversus-ptosis (99.6%)</li>
-<li>partial autosomal trisomy/tetrasomy (99.6%)</li>
-<li>luteoma of pregnancy (99.6%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/estradiol-cypionate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/estradiol_cypionate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para CHOLECALCIFEROL com a
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (7)</strong>:<ul>
 <li>familial isolated hypoparathyroidism due to impaired PTH secretion (99.8%)</li>
 <li>acromesomelic dysplasia, Campailla Martinelli type (99.8%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Fluconazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Fluconazole. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Fluconazole. Indicação original: . 3 indicações previstas."
 permalink: /news/fluconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluconazole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Fluconazole?">
-<strong>Fluconazole</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Fluconazole</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,11 @@ Esta página combina as indicações previstas por IA para Fluconazole com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.2%)</li>
-<li>Plasmodium falciparum malaria (98.6%)</li>
-<li>allergic urticaria (98.5%)</li>
-<li>hyperamylasemia (98.3%)</li>
-<li>polyclonal hyperviscosity syndrome (98.3%)</li>
-<li>congenital analbuminemia (98.0%)</li>
-<li>pneumocystosis (97.8%)</li>
-<li>blood group incompatibility (97.8%)</li>
-<li>premalignant hematological system disease (97.4%)</li>
-<li>papular urticaria (97.3%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (3)</strong>:<ul>
+<li>Malária por *Plasmodium falciparum* | 98,62% | L4 | Apenas um estudo *in vitro* e uma revisão; atividade antiplasmódica de azóis geralmente fraca (99.0%)</li>
+<li>Pneumocistose | 97,82% | L4 | *Pneumocystis* não possui ergosterol, então azóis em geral não são eficazes; o único ensaio listado (NCT04368559) testa rezafungina, não fluconazol (99.0%)</li>
+<li>Incompatibilidade de grupo sanguíneo | 97,75% | L5 | Literatura reflete apenas contexto de transplante e interação com tacrolimo (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluconazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

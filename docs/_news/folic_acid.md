@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre FOLIC ACID"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com FOLIC ACID. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com FOLIC ACID. Indicação original: . 0 indicações previstas."
 permalink: /news/folic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/folic_acid/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre FOLIC ACID?">
-<strong>FOLIC ACID</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
+<strong>FOLIC ACID</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,8 @@ Esta página combina as indicações previstas por IA para FOLIC ACID com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (1)</strong>:<ul>
-<li>biotin metabolic disease (99.5%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/folic-acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/folic_acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

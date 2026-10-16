@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para ENTACAPONE com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>PLA2G6-associated neurodegeneration (99.8%)</li>
 <li>Rasmussen subacute encephalitis (99.7%)</li>

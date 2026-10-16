@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre HYDROCORTISONE ACETATE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com HYDROCORTISONE ACETATE. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com HYDROCORTISONE ACETATE. Indicação original: . 0 indicações previstas."
 permalink: /news/hydrocortisone_acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrocortisone_acetate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre HYDROCORTISONE ACETATE?">
-<strong>HYDROCORTISONE ACETATE</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>HYDROCORTISONE ACETATE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para HYDROCORTISONE ACETAT
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>alopecia areata (99.9%)</li>
-<li>telogen effluvium (99.9%)</li>
-<li>alopecia mucinosa (99.9%)</li>
-<li>Quinquaud's folliculitis decalvans (99.9%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (99.9%)</li>
-<li>alopecia antibody deficiency (99.9%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (99.9%)</li>
-<li>atrichia with papular lesions (99.7%)</li>
-<li>seborrheic keratosis (99.4%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.3%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/hydrocortisone-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/hydrocortisone_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

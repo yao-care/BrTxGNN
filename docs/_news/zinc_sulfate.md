@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre ZINC SULFATE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ZINC SULFATE. Indicação original: . 4 indicações previstas."
+description: "Notícias de saúde relacionadas com ZINC SULFATE. Indicação original: . 0 indicações previstas."
 permalink: /news/zinc_sulfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zinc_sulfate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ZINC SULFATE?">
-<strong>ZINC SULFATE</strong> tem atualmente <strong>0 notícias</strong> e 4 indicações previstas.
+<strong>ZINC SULFATE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,8 @@ Esta página combina as indicações previstas por IA para ZINC SULFATE com as n
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (4)</strong>:<ul>
-<li>pharyngitis (99.8%)</li>
-<li>nasal cavity disease (99.8%)</li>
-<li>acute laryngopharyngitis (99.8%)</li>
-<li>congenital prothrombin deficiency (99.2%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/zinc-sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/zinc_sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

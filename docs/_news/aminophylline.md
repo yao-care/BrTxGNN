@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Aminophylline"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Aminophylline. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Aminophylline. Indicação original: . 9 indicações previstas."
 permalink: /news/aminophylline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/aminophylline/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Aminophylline?">
-<strong>Aminophylline</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Aminophylline</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para Aminophylline com as 
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>migraine disorder (99.9%)</li>
-<li>migraine with brainstem aura (99.8%)</li>
-<li>migraine with or without aura, susceptibility to (99.8%)</li>
-<li>atrophoderma vermiculata (99.6%)</li>
-<li>ulerythema ophryogenesis (99.5%)</li>
-<li>Prinzmetal angina (99.3%)</li>
-<li>pulmonary hypertension (99.2%)</li>
-<li>sciatic neuropathy (99.1%)</li>
-<li>hyperthyroidism (99.1%)</li>
-<li>kyphoscoliotic heart disease (99.0%)</li>
+<li><strong>Nível de evidência</strong>: L4</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Enxaqueca com aura de tronco encefálico | 99,84% | L5 | Hold (99.0%)</li>
+<li>Suscetibilidade a enxaqueca com ou sem aura | 99,82% | L4 | Questão de pesquisa (evidência indireta, sobreposta à enxaqueca geral) (99.0%)</li>
+<li>Atrofoderma vermiculado | 99,60% | L5 | Hold (99.0%)</li>
+<li>Uleritema ofriógene | 99,50% | L5 | Hold (99.0%)</li>
+<li>Angina de Prinzmetal | 99,33% | L4 | Hold (literatura sugere possível dano) (99.0%)</li>
+<li>Hipertensão pulmonar | 99,23% | L3 | Questão de pesquisa (estudos hemodinâmicos pequenos e um ensaio de fase 1 de segurança, NCT01530464, com 18 voluntários saudáveis) (99.0%)</li>
+<li>Neuropatia ciática | 99,07% | L4 | Hold (99.0%)</li>
+<li>Hipertireoidismo | 99,06% | L4 | Hold (risco de piora dos sintomas) (99.0%)</li>
+<li>Cardiopatia cifoescoliótica | 99,01% | L5 | Hold (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/aminophylline/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

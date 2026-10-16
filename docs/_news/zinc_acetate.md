@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Zinc acetate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Zinc acetate. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Zinc acetate. Indicação original: . 0 indicações previstas."
 permalink: /news/zinc_acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zinc_acetate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Zinc acetate?">
-<strong>Zinc acetate</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Zinc acetate</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Zinc acetate com as n
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>severe nonproliferative diabetic retinopathy (100.0%)</li>
-<li>bronchitis (100.0%)</li>
-<li>diabetic retinopathy (99.9%)</li>
-<li>acrodermatitis chronica atrophicans (99.8%)</li>
-<li>neonatal dermatomyositis (99.8%)</li>
-<li>acne keloid (99.8%)</li>
-<li>hydroa vacciniforme, familial (99.8%)</li>
-<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (99.8%)</li>
-<li>amyopathic dermatomyositis (99.8%)</li>
-<li>urinary tract infection (disease) (99.6%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/zinc-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/zinc_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

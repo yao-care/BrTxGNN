@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Nomegestrol acetate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Nomegestrol acetate. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Nomegestrol acetate. Indicação original: . 0 indicações previstas."
 permalink: /news/nomegestrol_acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nomegestrol_acetate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Nomegestrol acetate?">
-<strong>Nomegestrol acetate</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Nomegestrol acetate</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Nomegestrol acetate c
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>candidiasis (98.8%)</li>
-<li>antithrombin deficiency type 2 (98.5%)</li>
-<li>heparin cofactor 2 deficiency (98.5%)</li>
-<li>factor 5 excess with spontaneous thrombosis (98.5%)</li>
-<li>plasma cell myeloma (97.8%)</li>
-<li>gout (97.6%)</li>
-<li>indolent plasma cell myeloma (97.5%)</li>
-<li>heart neoplasm (97.4%)</li>
-<li>thrombotic disease (97.4%)</li>
-<li>rheumatoid arthritis (97.4%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/nomegestrol-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/nomegestrol_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

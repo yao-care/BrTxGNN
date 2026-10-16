@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Tramadol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tramadol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Tramadol. Indicação original: . 9 indicações previstas."
 permalink: /news/tramadol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tramadol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tramadol?">
-<strong>Tramadol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Tramadol</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para Tramadol com as notí
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
-<li>myosclerosis (100.0%)</li>
-<li>brachyolmia (100.0%)</li>
-<li>pseudoachondroplasia (100.0%)</li>
-<li>spondyloarthropathy, susceptibility to (100.0%)</li>
-<li>juvenile idiopathic arthritis (99.9%)</li>
-<li>juvenile arthritis due to defect in LACC1 (99.9%)</li>
-<li>rheumatoid nodulosis (99.9%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.9%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Síndrome braquiolmia-amelogênese imperfeita | 99,99% | Sem ligação mecanística conhecida (99.0%)</li>
+<li>Miosclerose | 99,99% | Possível alívio sintomático da dor, sem evidência (99.0%)</li>
+<li>Braquiolmia | 99,99% | Sem mecanismo conhecido (99.0%)</li>
+<li>Pseudoacondroplasia | 99,98% | Analgesia sintomática conceitualmente plausível (dor articular e osteoartrite precoces) (99.0%)</li>
+<li>Espondiloartropatia (suscetibilidade) | 99,97% | Sem ação anti-inflamatória (99.0%)</li>
+<li>Artrite idiopática juvenil | 99,92% | Uma publicação indireta, sobre cetoprofeno (99.0%)</li>
+<li>Artrite juvenil por defeito em LACC1 | 99,92% | Sem evidência (99.0%)</li>
+<li>Nodulose reumatoide | 99,92% | Sem evidência (99.0%)</li>
+<li>AIJ poliarticular com fator reumatoide positivo | 99,90% | Sem atividade modificadora da doença (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tramadol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

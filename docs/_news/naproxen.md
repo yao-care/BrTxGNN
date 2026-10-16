@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para NAPROXEN com as notí
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (4)</strong>:<ul>
 <li>brachydactyly-syndactyly syndrome (99.3%)</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.2%)</li>

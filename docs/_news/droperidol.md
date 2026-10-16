@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Droperidol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Droperidol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Droperidol. Indicação original: . 9 indicações previstas."
 permalink: /news/droperidol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/droperidol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Droperidol?">
-<strong>Droperidol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Droperidol</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para Droperidol com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Tourette syndrome (99.9%)</li>
-<li>trichotillomania (99.9%)</li>
-<li>manic bipolar affective disorder (99.8%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (99.7%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.6%)</li>
-<li>attention deficit-hyperactivity disorder (99.5%)</li>
-<li>headache disorder (99.5%)</li>
-<li>common cold (99.5%)</li>
-<li>hypertrichosis (disease) (99.5%)</li>
-<li>specific developmental disorder (99.4%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Tricotilomania | 99,89% | L5 | Hold (99.0%)</li>
+<li>Transtorno bipolar maníaco | 99,82% | L3 | Questão de pesquisa (99.0%)</li>
+<li>TDAH, tipo desatento | 99,68% | L5 | Hold (99.0%)</li>
+<li>Síndrome de antidiurese inapropriada nefrogênica | 99,63% | L5 | Hold (99.0%)</li>
+<li>TDAH | 99,54% | L5 | Hold (99.0%)</li>
+<li>Transtorno de cefaleia | 99,47% | L3 | Questão de pesquisa (99.0%)</li>
+<li>Resfriado comum | 99,46% | L5 | Hold (99.0%)</li>
+<li>Hipertricose | 99,46% | L5 | Hold (99.0%)</li>
+<li>Transtorno específico do desenvolvimento | 99,40% | L5 | Hold (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/droperidol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

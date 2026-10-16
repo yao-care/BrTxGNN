@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para DEFERASIROX com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (5)</strong>:<ul>
 <li>HIV infectious disease (99.4%)</li>
 <li>chronic hepatitis C virus infection (99.4%)</li>

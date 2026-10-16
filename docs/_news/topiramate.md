@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para TOPIRAMATE com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (9)</strong>:<ul>
 <li>trigeminal nerve neoplasm (99.7%)</li>
 <li>visual epilepsy (99.3%)</li>

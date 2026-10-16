@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Sodium citrate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Sodium citrate. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Sodium citrate. Indicação original: . 0 indicações previstas."
 permalink: /news/sodium_citrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sodium_citrate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Sodium citrate?">
-<strong>Sodium citrate</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Sodium citrate</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Sodium citrate com as
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>papillary conjunctivitis (100.0%)</li>
-<li>nasal cavity disease (100.0%)</li>
-<li>acute laryngopharyngitis (99.9%)</li>
-<li>stomach disease (99.9%)</li>
-<li>postgastrectomy syndrome (99.8%)</li>
-<li>gastroduodenitis (99.6%)</li>
-<li>familial visceral myopathy (99.4%)</li>
-<li>rosacea conjunctivitis (99.3%)</li>
-<li>allergic urticaria (99.2%)</li>
-<li>intestinal obstruction (98.9%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/sodium-citrate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/sodium_citrate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Tamoxifen"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tamoxifen. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Tamoxifen. Indicação original: . 9 indicações previstas."
 permalink: /news/tamoxifen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tamoxifen/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tamoxifen?">
-<strong>Tamoxifen</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Tamoxifen</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para Tamoxifen com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>mammary Paget disease (99.7%)</li>
-<li>intraductal cribriform breast adenocarcinoma (99.7%)</li>
-<li>basal-like breast carcinoma (99.7%)</li>
-<li>breast carcinoma in situ (99.7%)</li>
-<li>sebaceous breast carcinoma (99.7%)</li>
-<li>invasive tubular breast carcinoma (99.7%)</li>
-<li>hormone-resistant breast carcinoma (99.7%)</li>
-<li>estrogen-receptor positive breast cancer (99.7%)</li>
-<li>Ehrlich tumor carcinoma (99.7%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.7%)</li>
+<li><strong>Nível de evidência</strong>: L4</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Adenocarcinoma cribriforme intraductal de mama | 99,69% | L5 | Hold (99.0%)</li>
+<li>Carcinoma de mama basal-like | 99,68% | L5 | Hold (99.0%)</li>
+<li>**Carcinoma de mama in situ (DCIS)** | 99,67% | **L1** | **Proceed with Guardrails** (99.0%)</li>
+<li>Carcinoma sebáceo de mama | 99,67% | L5 | Hold (99.0%)</li>
+<li>Carcinoma tubular invasivo de mama | 99,67% | L4 | Research Question (99.0%)</li>
+<li>Carcinoma de mama resistente a hormônio | 99,67% | L2 | Research Question (99.0%)</li>
+<li>Câncer de mama ER-positivo | 99,67% | L1 | Proceed with Guardrails (99.0%)</li>
+<li>Carcinoma de Ehrlich (modelo murino) | 99,67% | L4 | Hold (99.0%)</li>
+<li>Rabdomiossarcoma embrionário botrioide de vagina | 99,67% | L5 | Hold (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tamoxifen/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

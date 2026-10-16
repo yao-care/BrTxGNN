@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre BECLOMETHASONE DIPROPIONATE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com BECLOMETHASONE DIPROPIONATE. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com BECLOMETHASONE DIPROPIONATE. Indicação original: . 0 indicações previstas."
 permalink: /news/beclomethasone_dipropionate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/beclomethasone_dipropionate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre BECLOMETHASONE DIPROPIONATE?">
-<strong>BECLOMETHASONE DIPROPIONATE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
+<strong>BECLOMETHASONE DIPROPIONATE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,8 @@ Esta página combina as indicações previstas por IA para BECLOMETHASONE DIPROP
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (1)</strong>:<ul>
-<li>atopic eczema (99.4%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/beclomethasone-dipropionate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/beclomethasone_dipropionate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

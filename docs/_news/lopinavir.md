@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para LOPINAVIR com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (3)</strong>:<ul>
 <li>feline acquired immunodeficiency syndrome (99.9%)</li>
 <li>simian immunodeficiency virus infection (99.9%)</li>

@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para PEGASPARGASE com as n
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>precursor lymphoblastic lymphoma/leukemia (100.0%)</li>
 <li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (100.0%)</li>

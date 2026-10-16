@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Cabotegravir"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Cabotegravir. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Cabotegravir. Indicação original: . 9 indicações previstas."
 permalink: /news/cabotegravir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Cabotegravir?">
-<strong>Cabotegravir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Cabotegravir</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para Cabotegravir com as n
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>rheumatoid arthritis (99.5%)</li>
-<li>sclerosing cholangitis (99.2%)</li>
-<li>bronchitis (99.2%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.2%)</li>
-<li>severe nonproliferative diabetic retinopathy (99.0%)</li>
-<li>brachydactyly-syndactyly syndrome (98.7%)</li>
-<li>diabetic retinopathy (98.2%)</li>
-<li>non-syndromic visceral malformation (97.9%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (97.8%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (97.8%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Colangite esclerosante | 99,22% (99.0%)</li>
+<li>Bronquite | 99,19% (99.0%)</li>
+<li>Síndrome de microftalmia colobomatosa com displasia rizomélica | 99,16% (99.0%)</li>
+<li>Retinopatia diabética não proliferativa grave | 99,03% (99.0%)</li>
+<li>Síndrome de braquidactilia-sindactilia | 98,67% (99.0%)</li>
+<li>Retinopatia diabética | 98,17% (99.0%)</li>
+<li>Malformação visceral não sindrômica | 97,86% (99.0%)</li>
+<li>Síndrome autossômica dominante de hematúria familiar, tortuosidade arteriolar retiniana e contraturas | 97,83% (99.0%)</li>
+<li>Doença de pequenos vasos cerebrais tipo 1, com ou sem anomalias oculares | 97,82% (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

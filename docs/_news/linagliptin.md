@@ -25,8 +25,8 @@ Esta página combina as indicações previstas por IA para LINAGLIPTIN com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (2)</strong>:<ul>
-<li>type 2 diabetes mellitus (99.0%)</li>
-<li>diabetes mellitus (disease) (99.0%)</li>
+<li>type 2 diabetes mellitus | TxGNN Knowledge Graph (99.0%)</li>
+<li>diabetes mellitus (disease) | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/linagliptin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

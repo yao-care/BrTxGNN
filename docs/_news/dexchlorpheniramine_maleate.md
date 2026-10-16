@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Dexchlorpheniramine maleate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Dexchlorpheniramine maleate. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Dexchlorpheniramine maleate. Indicação original: . 0 indicações previstas."
 permalink: /news/dexchlorpheniramine_maleate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexchlorpheniramine_maleate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Dexchlorpheniramine maleate?">
-<strong>Dexchlorpheniramine maleate</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Dexchlorpheniramine maleate</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Dexchlorpheniramine m
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>acute intermittent porphyria (99.1%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (98.4%)</li>
-<li>porphyria (97.7%)</li>
-<li>schizophrenia (97.2%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (97.1%)</li>
-<li>allergic urticaria (97.0%)</li>
-<li>syndromic myopia (96.8%)</li>
-<li>atypical glycine encephalopathy (96.8%)</li>
-<li>myopia 26, X-linked, female-limited (96.7%)</li>
-<li>myopia X-linked (96.6%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/dexchlorpheniramine-maleate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/dexchlorpheniramine_maleate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Magnesium com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>migraine disorder (98.0%)</li>
 <li>migraine with brainstem aura (98.0%)</li>

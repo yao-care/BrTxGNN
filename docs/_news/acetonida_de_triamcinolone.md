@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para ACETONIDA DE TRIAMCIN
 <strong>Informações do medicamento</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/acetonida-de-triamcinolone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/acetonida_de_triamcinolone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

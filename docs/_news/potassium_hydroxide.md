@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Potassium hydroxide"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Potassium hydroxide. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Potassium hydroxide. Indicação original: . 0 indicações previstas."
 permalink: /news/potassium_hydroxide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/potassium_hydroxide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Potassium hydroxide?">
-<strong>Potassium hydroxide</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Potassium hydroxide</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Potassium hydroxide c
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>benign prostatic hyperplasia (disease) (98.0%)</li>
-<li>alopecia (97.5%)</li>
-<li>osteoarthritis (97.2%)</li>
-<li>congestive heart failure (97.0%)</li>
-<li>hypotrichosis simplex of the scalp (96.9%)</li>
-<li>congenital hypotrichosis milia (96.8%)</li>
-<li>osteoarthritis susceptibility (96.8%)</li>
-<li>diffuse alopecia areata (96.3%)</li>
-<li>acute pulmonary heart disease (96.3%)</li>
-<li>Prinzmetal angina (96.1%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium-hydroxide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/potassium_hydroxide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

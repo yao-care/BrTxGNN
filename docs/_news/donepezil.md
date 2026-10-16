@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para DONEPEZIL com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (8)</strong>:<ul>
 <li>psychogenic movement disorders (99.2%)</li>
 <li>chronic tic disorder (99.2%)</li>

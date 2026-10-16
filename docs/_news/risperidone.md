@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para RISPERIDONE com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (6)</strong>:<ul>
 <li>gaze palsy, familial horizontal, with progressive scoliosis (99.8%)</li>
 <li>asperger syndrome, susceptibility to (99.7%)</li>

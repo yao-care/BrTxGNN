@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Tafamidis com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>primary release disorder of platelets (89.3%)</li>
 <li>thrombocytopenic purpura (88.7%)</li>

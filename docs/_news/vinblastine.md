@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Vinblastine com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>rhabdomyosarcoma (disease) (99.9%)</li>
 <li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>

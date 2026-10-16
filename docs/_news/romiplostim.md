@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre ROMIPLOSTIM"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ROMIPLOSTIM. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com ROMIPLOSTIM. Indicação original: . 9 indicações previstas."
 permalink: /news/romiplostim/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/romiplostim/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ROMIPLOSTIM?">
-<strong>ROMIPLOSTIM</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>ROMIPLOSTIM</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para ROMIPLOSTIM com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>primary release disorder of platelets (100.0%)</li>
-<li>pseudo-von Willebrand disease (100.0%)</li>
-<li>Glanzmann thrombasthenia (100.0%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (100.0%)</li>
-<li>Scott syndrome (100.0%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (100.0%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (100.0%)</li>
-<li>platelet-type bleeding disorder (99.9%)</li>
-<li>autosomal dominant macrothrombocytopenia (99.9%)</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type (99.8%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Pseudo-doença de von Willebrand | 99,99% | L5 | Defeito de ganho de função da GPIb; sem vínculo mecanístico nem evidências (99.0%)</li>
+<li>Trombastenia de Glanzmann | 99,99% | L5 | Defeito qualitativo (integrina αIIbβ3) com contagem normal; risco trombótico sem benefício claro (99.0%)</li>
+<li>Trombocitopenia aloimune fetal e neonatal | 99,99% | L4 | Evidência indireta: extrapolação da PTI, relatos de caso e revisões; nenhum estudo avalia romiplostim na doença; faltam dados de segurança fetal e de transferência placentária (99.0%)</li>
+<li>Síndrome de Scott | 99,97% | L5 | Defeito funcional (TMEM16F/ANO6); sem evidências (99.0%)</li>
+<li>Doença hemorrágica por trombocitopenia constitucional | 99,95% | L5 | Categoria ampla; alguns subtipos podem responder, sem dados específicos (99.0%)</li>
+<li>Diátese hemorrágica por defeito de receptor de colágeno | 99,95% | L5 | Defeito qualitativo; sem evidências (99.0%)</li>
+<li>Distúrbio hemorrágico do tipo plaquetário | 99,93% | L5 | Grupo genérico; provável efeito de proximidade no grafo (99.0%)</li>
+<li>Macrotrombocitopenia autossômica dominante | 99,88% | L5 | Hipotético em algumas formas hereditárias; sem evidências (99.0%)</li>
+<li>Síndrome de Ehlers-Danlos, tipo fibronectinêmico | 99,85% | L5 | Sem vínculo plausível; provável artefato da rede (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/romiplostim/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Norfloxacin com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>hyperamylasemia (99.7%)</li>
 <li>polyclonal hyperviscosity syndrome (99.7%)</li>

@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Docetaxel com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>female breast carcinoma (99.9%)</li>
 <li>Ewing sarcoma (99.9%)</li>

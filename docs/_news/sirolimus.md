@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Sirolimus com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>liposarcoma (99.9%)</li>
 <li>ovarian myxoid liposarcoma (99.8%)</li>

@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Tolterodine com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>low compliance bladder (96.3%)</li>
 <li>polycystic kidney disease 3 with or without polycystic liver disease (96.3%)</li>

@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para ZINC MONOHYDRATE SULF
 <strong>Informações do medicamento</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/zinc_monohydrate_sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

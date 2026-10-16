@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre MAGNESIUM SULFATE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com MAGNESIUM SULFATE. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com MAGNESIUM SULFATE. Indicação original: . 0 indicações previstas."
 permalink: /news/magnesium_sulfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/magnesium_sulfate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre MAGNESIUM SULFATE?">
-<strong>MAGNESIUM SULFATE</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>MAGNESIUM SULFATE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para MAGNESIUM SULFATE com
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>preeclampsia/eclampsia (100.0%)</li>
-<li>toxemia of pregnancy (100.0%)</li>
-<li>thrombotic disease (99.9%)</li>
-<li>pharyngitis (99.6%)</li>
-<li>nasal cavity disease (99.6%)</li>
-<li>psychotic disorder (99.5%)</li>
-<li>acute laryngopharyngitis (99.5%)</li>
-<li>headache disorder (99.4%)</li>
-<li>trigeminal autonomic cephalalgia (99.2%)</li>
-<li>treatment-refractory schizophrenia (99.1%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/magnesium-sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/magnesium_sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

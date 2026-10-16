@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Sodium carbonate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Sodium carbonate. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Sodium carbonate. Indicação original: . 0 indicações previstas."
 permalink: /news/sodium_carbonate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sodium_carbonate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Sodium carbonate?">
-<strong>Sodium carbonate</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Sodium carbonate</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Sodium carbonate com 
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>cauda equina syndrome (99.8%)</li>
-<li>anaphylaxis (99.7%)</li>
-<li>food-dependent exercise-induced anaphylaxis (99.6%)</li>
-<li>obsolete neurogenic bladder (disease) (99.6%)</li>
-<li>dry eye syndrome (99.6%)</li>
-<li>ventricular tachycardia (99.2%)</li>
-<li>obsolete bundle branch block (99.0%)</li>
-<li>panuveitis (disease) (98.9%)</li>
-<li>Sjogren syndrome (98.8%)</li>
-<li>catecholaminergic polymorphic ventricular tachycardia (98.7%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/sodium-carbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/sodium_carbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

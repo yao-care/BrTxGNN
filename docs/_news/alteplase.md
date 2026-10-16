@@ -24,16 +24,17 @@ Esta página combina as indicações previstas por IA para ALTEPLASE com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (9)</strong>:<ul>
-<li>posterolateral myocardial infarction (99.8%)</li>
-<li>posteroinferior myocardial infarction (99.8%)</li>
-<li>septal myocardial infarction (99.8%)</li>
-<li>heparin cofactor 2 deficiency (99.7%)</li>
-<li>congenital coronary artery anomaly (99.6%)</li>
-<li>factor 5 excess with spontaneous thrombosis (99.6%)</li>
-<li>antithrombin deficiency type 2 (99.6%)</li>
-<li>thrombophilia (99.4%)</li>
-<li>coronary stenosis (99.1%)</li>
+<li>Infarto do miocárdio posterolateral | 99,79% | L5 | Hold (99.0%)</li>
+<li>Infarto do miocárdio posteroinferior | 99,79% | L5 | Hold (99.0%)</li>
+<li>Infarto do miocárdio septal | 99,77% | L4 | Hold (99.0%)</li>
+<li>Deficiência de cofator 2 da heparina | 99,72% | L5 | Hold (99.0%)</li>
+<li>Anomalia coronariana congênita | 99,64% | L5 | Hold (99.0%)</li>
+<li>Excesso de fator V com trombose espontânea | 99,56% | L5 | Hold (99.0%)</li>
+<li>Deficiência de antitrombina tipo 2 | 99,56% | L5 | Hold (99.0%)</li>
+<li>Trombofilia | 99,43% | L3 | Questão de pesquisa (99.0%)</li>
+<li>Estenose coronariana | 99,14% | L2 | Questão de pesquisa (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Lithium carbonate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Lithium carbonate. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Lithium carbonate. Indicação original: . 0 indicações previstas."
 permalink: /news/lithium_carbonate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lithium_carbonate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Lithium carbonate?">
-<strong>Lithium carbonate</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Lithium carbonate</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Lithium carbonate com
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>pseudoachondroplasia (100.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
-<li>brachyolmia (100.0%)</li>
-<li>myosclerosis (100.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
-<li>brachydactyly-syndactyly syndrome (100.0%)</li>
-<li>Behr syndrome (99.6%)</li>
-<li>WHIM syndrome (99.6%)</li>
-<li>combined immunodeficiency due to moesin deficiency (99.3%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/lithium-carbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/lithium_carbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

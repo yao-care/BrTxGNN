@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre MAGNESIUM HYDROXIDE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com MAGNESIUM HYDROXIDE. Indicação original: . 6 indicações previstas."
+description: "Notícias de saúde relacionadas com MAGNESIUM HYDROXIDE. Indicação original: . 0 indicações previstas."
 permalink: /news/magnesium_hydroxide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/magnesium_hydroxide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre MAGNESIUM HYDROXIDE?">
-<strong>MAGNESIUM HYDROXIDE</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
+<strong>MAGNESIUM HYDROXIDE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,16 +24,8 @@ Esta página combina as indicações previstas por IA para MAGNESIUM HYDROXIDE c
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (6)</strong>:<ul>
-<li>active peptic ulcer disease (100.0%)</li>
-<li>gastrojejunal ulcer (100.0%)</li>
-<li>peptic ulcer perforation (100.0%)</li>
-<li>gastroduodenitis (99.9%)</li>
-<li>gastric ulcer (disease) (99.8%)</li>
-<li>stomach disease (99.2%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/magnesium-hydroxide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/magnesium_hydroxide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

@@ -24,10 +24,11 @@ Esta página combina as indicações previstas por IA para OLANZAPINE com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (3)</strong>:<ul>
-<li>benign paroxysmal torticollis of infancy (99.5%)</li>
-<li>agoraphobia (99.5%)</li>
-<li>dysthymic disorder (99.3%)</li>
+<li>Torcicolo paroxístico benigno da infância | 99,54% | L5 | Hold (99.0%)</li>
+<li>Agorafobia | 99,47% | L3 | Questão de pesquisa (99.0%)</li>
+<li>Transtorno distímico | 99,28% | L3 | Questão de pesquisa (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

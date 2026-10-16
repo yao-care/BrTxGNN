@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Etonogestrel com as n
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>amenorrhea (disease) (99.8%)</li>
 <li>breast fibrocystic disease (99.6%)</li>

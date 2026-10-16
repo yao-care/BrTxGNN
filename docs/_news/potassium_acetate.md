@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre POTASSIUM ACETATE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com POTASSIUM ACETATE. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com POTASSIUM ACETATE. Indicação original: . 0 indicações previstas."
 permalink: /news/potassium_acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/potassium_acetate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre POTASSIUM ACETATE?">
-<strong>POTASSIUM ACETATE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
+<strong>POTASSIUM ACETATE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,8 @@ Esta página combina as indicações previstas por IA para POTASSIUM ACETATE com
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (1)</strong>:<ul>
-<li>renal tubular acidosis (99.9%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/potassium_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

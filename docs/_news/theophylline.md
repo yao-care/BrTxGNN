@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para THEOPHYLLINE com as n
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (7)</strong>:<ul>
 <li>thrombotic disease (99.6%)</li>
 <li>nasal cavity disease (99.5%)</li>

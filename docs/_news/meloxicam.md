@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre MELOXICAM"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com MELOXICAM. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com MELOXICAM. Indicação original: . 9 indicações previstas."
 permalink: /news/meloxicam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/meloxicam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre MELOXICAM?">
-<strong>MELOXICAM</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>MELOXICAM</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para MELOXICAM com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
-<li>myosclerosis (99.9%)</li>
-<li>brachyolmia (99.9%)</li>
-<li>pseudoachondroplasia (99.8%)</li>
-<li>spondyloarthropathy, susceptibility to (99.5%)</li>
-<li>rheumatoid nodulosis (99.5%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.4%)</li>
-<li>WHIM syndrome (99.4%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.4%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Síndrome braquiolmia-amelogênese imperfeita | 99,92% | L5 | Sem mecanismo COX-2 conhecido (99.0%)</li>
+<li>Miosclerose | 99,90% | L5 | Possível alívio da dor, sem evidência de modificação da doença (99.0%)</li>
+<li>Braquiolmia | 99,89% | L5 | Sem fator inflamatório a ser alvo (99.0%)</li>
+<li>Pseudoacondroplasia | 99,81% | L5 | AINEs são usados para dor articular, mas sem evidência específica (99.0%)</li>
+<li>Espondiloartropatia (suscetibilidade) | 99,52% | L5 | Sobreposição com a indicação já conhecida (99.0%)</li>
+<li>Nodulose reumatoide | 99,51% | L5 | Plausibilidade indireta via artrite reumatoide (99.0%)</li>
+<li>Artrite idiopática juvenil poliarticular FR-positiva | 99,44% | L4 | Dentro da família de AIJ; única literatura indireta (99.0%)</li>
+<li>Síndrome WHIM | 99,38% | L5 | Sem relação com a via CXCR4 (99.0%)</li>
+<li>Síndrome de microftalmia colobomatosa-displasia rizomélica | 99,36% | L5 | Sem mecanismo plausível (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/meloxicam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

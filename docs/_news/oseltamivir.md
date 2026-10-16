@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Oseltamivir com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>pyelonephritis (97.8%)</li>
 <li>disorder of tyrosine metabolism (96.7%)</li>

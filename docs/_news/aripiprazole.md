@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para ARIPIPRAZOLE com as n
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>major affective disorder (99.6%)</li>
 <li>gaze palsy, familial horizontal, with progressive scoliosis (99.6%)</li>

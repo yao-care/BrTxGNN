@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre CHLORTHALIDONE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CHLORTHALIDONE. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com CHLORTHALIDONE. Indicação original: . 9 indicações previstas."
 permalink: /news/chlorthalidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chlorthalidone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre CHLORTHALIDONE?">
-<strong>CHLORTHALIDONE</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>CHLORTHALIDONE</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para CHLORTHALIDONE com as
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>primary hereditary glaucoma (99.9%)</li>
-<li>open-angle glaucoma (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>Braddock syndrome (99.8%)</li>
-<li>chronic pulmonary heart disease (99.8%)</li>
-<li>acute pulmonary heart disease (99.3%)</li>
-<li>congenital hypotrichosis milia (99.2%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Glaucoma de ângulo aberto | 99,90% | L5 | Sem dados clínicos; efeito apenas teórico (99.0%)</li>
+<li>Doença renal hipertensiva maligna | 99,89% | L5 | Plausível pelo efeito anti-hipertensivo, mas tiazídicos não são primeira linha e há sobreposição com a indicação atual (99.0%)</li>
+<li>Hipertensão renovascular maligna | 99,89% | L5 | Diuréticos podem ativar o sistema renina-angiotensina; emergência hipertensiva (99.0%)</li>
+<li>Hipertensão pulmonar de mecanismo multifatorial incerto | 99,88% | L5 | Alívio de sobrecarga de volume, sem efeito sobre a pressão vascular pulmonar (99.0%)</li>
+<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia | 99,88% | L5 | Única publicação recuperada é irrelevante (99.0%)</li>
+<li>Síndrome de Braddock | 99,85% | L5 | Sem racional mecanístico identificável (99.0%)</li>
+<li>Cor pulmonale crônico | 99,82% | L4 | Único candidato com indício indireto (relato de 1967) (99.0%)</li>
+<li>Cor pulmonale agudo | 99,32% | L5 | Diuréticos não são terapia direcionada (99.0%)</li>
+<li>Hipotricose congênita com milia | 99,19% | L5 | Sem conexão mecanística crível (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlorthalidone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Dienogest com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>amenorrhea (disease) (99.7%)</li>
 <li>primary ovarian failure (99.7%)</li>

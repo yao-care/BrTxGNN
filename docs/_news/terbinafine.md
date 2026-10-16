@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Terbinafine com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>furuncular myiasis (96.7%)</li>
 <li>wound myiasis (96.7%)</li>

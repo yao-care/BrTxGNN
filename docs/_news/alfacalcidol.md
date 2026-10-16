@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para ALFACALCIDOL com as n
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (5)</strong>:<ul>
 <li>familial isolated hypoparathyroidism due to impaired PTH secretion (99.6%)</li>
 <li>Dahlberg-Borer-Newcomer syndrome (99.6%)</li>

@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para TACROLIMUS com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (3)</strong>:<ul>
 <li>seborrheic dermatitis (99.3%)</li>
 <li>parapsoriasis (99.2%)</li>

@@ -25,16 +25,16 @@ Esta página combina as indicações previstas por IA para RITUXIMAB com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>lymphoma, non-Hodgkin, familial (99.0%)</li>
-<li>acute lymphoblastic/lymphocytic leukemia (99.0%)</li>
-<li>Richter syndrome (99.0%)</li>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>lymphosarcoma (99.0%)</li>
-<li>non-Hodgkin lymphoma (99.0%)</li>
-<li>B-cell neoplasm (99.0%)</li>
-<li>mantle cell lymphoma (99.0%)</li>
-<li>Langerhans cell histiocytosis (99.0%)</li>
-<li>lymphoma (99.0%)</li>
+<li>lymphoma, non-Hodgkin, familial | TxGNN Knowledge Graph (99.0%)</li>
+<li>acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph (99.0%)</li>
+<li>Richter syndrome | TxGNN Knowledge Graph (99.0%)</li>
+<li>rheumatoid arthritis | TxGNN Knowledge Graph (99.0%)</li>
+<li>lymphosarcoma | TxGNN Knowledge Graph (99.0%)</li>
+<li>non-Hodgkin lymphoma | TxGNN Knowledge Graph (99.0%)</li>
+<li>B-cell neoplasm | TxGNN Knowledge Graph (99.0%)</li>
+<li>mantle cell lymphoma | TxGNN Knowledge Graph (99.0%)</li>
+<li>Langerhans cell histiocytosis | TxGNN Knowledge Graph (99.0%)</li>
+<li>lymphoma | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rituximab/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

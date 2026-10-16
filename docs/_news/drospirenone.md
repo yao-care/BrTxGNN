@@ -25,9 +25,9 @@ Esta página combina as indicações previstas por IA para DROSPIRENONE com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (3)</strong>:<ul>
-<li>obsolete atrophic vulva (99.0%)</li>
-<li>postmenopausal atrophic vaginitis (99.0%)</li>
-<li>acne (disease) (99.0%)</li>
+<li>obsolete atrophic vulva | TxGNN Knowledge Graph (99.0%)</li>
+<li>postmenopausal atrophic vaginitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>acne (disease) | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

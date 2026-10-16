@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Bevacizumab com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>epiglottis neoplasm (99.9%)</li>
 <li>benign neoplasm of tongue (99.9%)</li>

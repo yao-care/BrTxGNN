@@ -25,12 +25,12 @@ Esta página combina as indicações previstas por IA para ESTRADIOL com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (6)</strong>:<ul>
-<li>obsolete atrophic vulva (99.0%)</li>
-<li>postmenopausal atrophic vaginitis (99.0%)</li>
-<li>acne (disease) (99.0%)</li>
-<li>primary ovarian failure (99.0%)</li>
-<li>postmenopausal osteoporosis (99.0%)</li>
-<li>osteoporosis (99.0%)</li>
+<li>obsolete atrophic vulva | TxGNN Knowledge Graph (99.0%)</li>
+<li>postmenopausal atrophic vaginitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>acne (disease) | TxGNN Knowledge Graph (99.0%)</li>
+<li>primary ovarian failure | TxGNN Knowledge Graph (99.0%)</li>
+<li>postmenopausal osteoporosis | TxGNN Knowledge Graph (99.0%)</li>
+<li>osteoporosis | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/estradiol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

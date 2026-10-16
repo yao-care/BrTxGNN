@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Dexamethasone com as 
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L2</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>alopecia areata (100.0%)</li>
 <li>alopecia mucinosa (100.0%)</li>

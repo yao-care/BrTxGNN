@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para PREGABALIN com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (6)</strong>:<ul>
 <li>tendinitis (99.7%)</li>
 <li>idiopathic granulomatous myositis (99.7%)</li>

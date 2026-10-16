@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para ALPRAZOLAM com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (3)</strong>:<ul>
 <li>insomnia (disease) (99.8%)</li>
 <li>benign paroxysmal torticollis of infancy (99.6%)</li>

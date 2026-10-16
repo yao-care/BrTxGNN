@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para CALCITRIOL com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L2</li>
 <li><strong>Indicações previstas (7)</strong>:<ul>
 <li>obsolete vitamin D deficiency (100.0%)</li>
 <li>renal tubular acidosis (99.9%)</li>

@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Apixaban com as notí
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>migraine disorder (99.0%)</li>
 <li>migraine with or without aura, susceptibility to (98.9%)</li>

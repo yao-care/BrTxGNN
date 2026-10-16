@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre FLUTICASONE FUROATE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com FLUTICASONE FUROATE. Indicação original: . 8 indicações previstas."
+description: "Notícias de saúde relacionadas com FLUTICASONE FUROATE. Indicação original: . 0 indicações previstas."
 permalink: /news/fluticasone_furoate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluticasone_furoate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre FLUTICASONE FUROATE?">
-<strong>FLUTICASONE FUROATE</strong> tem atualmente <strong>0 notícias</strong> e 8 indicações previstas.
+<strong>FLUTICASONE FUROATE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,8 @@ Esta página combina as indicações previstas por IA para FLUTICASONE FUROATE c
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (8)</strong>:<ul>
-<li>atopic eczema (100.0%)</li>
-<li>bronchitis (99.9%)</li>
-<li>2-hydroxyethyl methacrylate sensitization (99.9%)</li>
-<li>dermatitis, atopic (99.8%)</li>
-<li>contact dermatitis (99.5%)</li>
-<li>asthma-related traits, susceptibility to (99.4%)</li>
-<li>occupational dermatitis (99.3%)</li>
-<li>phototoxic dermatitis (99.1%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/fluticasone_furoate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

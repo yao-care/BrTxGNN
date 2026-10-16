@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Gestodene com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>migraine disorder (94.3%)</li>
 <li>migraine with brainstem aura (94.3%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Filgrastim"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Filgrastim. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Filgrastim. Indicação original: . 9 indicações previstas."
 permalink: /news/filgrastim/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/filgrastim/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Filgrastim?">
-<strong>Filgrastim</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Filgrastim</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para Filgrastim com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>primary release disorder of platelets (100.0%)</li>
-<li>pseudo-von Willebrand disease (100.0%)</li>
-<li>Glanzmann thrombasthenia (100.0%)</li>
-<li>Scott syndrome (100.0%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (99.9%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (99.9%)</li>
-<li>C1 inhibitor deficiency (99.8%)</li>
-<li>serpinopathy with toxic serpin polymerization (99.8%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (99.8%)</li>
-<li>platelet-type bleeding disorder (99.7%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Pseudo-doença de von Willebrand | 99,997% | Defeito de ganho de função da GPIbα plaquetária; sem efeito conhecido do G-CSF (99.0%)</li>
+<li>Trombastenia de Glanzmann | 99,996% | Deficiência da integrina αIIbβ3; fora da via do filgrastim (99.0%)</li>
+<li>Síndrome de Scott | 99,956% | Defeito de TMEM16F/ANO6; sem conexão mecanística documentada (99.0%)</li>
+<li>Distúrbio hemorrágico por trombocitopenia constitucional | 99,911% | G-CSF não impulsiona a megacariopoese; relevância apenas indireta (99.0%)</li>
+<li>Diátese hemorrágica por defeito de receptor de colágeno | 99,910% | Sem ação conhecida sobre GPVI ou α2β1 (99.0%)</li>
+<li>Deficiência de inibidor de C1 | 99,843% | Via do complemento/sistema de contato; sem papel do G-CSF (99.0%)</li>
+<li>Serpinopatia com polimerização tóxica de serpina | 99,815% | Não atua sobre dobramento incorreto de proteínas (99.0%)</li>
+<li>Trombocitopenia aloimune fetal e neonatal | 99,768% | Manejo baseado em IVIG e transfusão; G-CSF sem papel conhecido (99.0%)</li>
+<li>Distúrbio hemorrágico do tipo plaquetário | 99,690% | Único com ensaios associados (indiretos, transplante) (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/filgrastim/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

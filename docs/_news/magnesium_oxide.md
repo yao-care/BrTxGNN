@@ -25,13 +25,13 @@ Esta página combina as indicações previstas por IA para MAGNESIUM OXIDE com a
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (7)</strong>:<ul>
-<li>phosphorus metabolism disease (99.0%)</li>
-<li>nephrocalcinosis (99.0%)</li>
-<li>postmenopausal osteoporosis (99.0%)</li>
-<li>constipation disorder (99.0%)</li>
-<li>hypercalcemia disease (99.0%)</li>
-<li>dyspepsia (99.0%)</li>
-<li>osteoporosis (99.0%)</li>
+<li>phosphorus metabolism disease | TxGNN Knowledge Graph (99.0%)</li>
+<li>nephrocalcinosis | TxGNN Knowledge Graph (99.0%)</li>
+<li>postmenopausal osteoporosis | TxGNN Knowledge Graph (99.0%)</li>
+<li>constipation disorder | TxGNN Knowledge Graph (99.0%)</li>
+<li>hypercalcemia disease | TxGNN Knowledge Graph (99.0%)</li>
+<li>dyspepsia | TxGNN Knowledge Graph (99.0%)</li>
+<li>osteoporosis | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/magnesium_oxide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

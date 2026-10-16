@@ -25,15 +25,15 @@ Esta página combina as indicações previstas por IA para LORATADINE com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (9)</strong>:<ul>
-<li>pharyngitis (99.0%)</li>
-<li>vernal conjunctivitis (99.0%)</li>
-<li>idiopathic urticaria (99.0%)</li>
-<li>vasomotor rhinitis (99.0%)</li>
-<li>nasopharyngitis (99.0%)</li>
-<li>atopic conjunctivitis (99.0%)</li>
-<li>papillary conjunctivitis (99.0%)</li>
-<li>common cold (99.0%)</li>
-<li>allergic rhinitis (99.0%)</li>
+<li>pharyngitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>vernal conjunctivitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>idiopathic urticaria | TxGNN Knowledge Graph (99.0%)</li>
+<li>vasomotor rhinitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>nasopharyngitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>atopic conjunctivitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>papillary conjunctivitis | TxGNN Knowledge Graph (99.0%)</li>
+<li>common cold | TxGNN Knowledge Graph (99.0%)</li>
+<li>allergic rhinitis | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loratadine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

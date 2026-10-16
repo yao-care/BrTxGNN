@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Cyproterone acetate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Cyproterone acetate. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Cyproterone acetate. Indicação original: . 0 indicações previstas."
 permalink: /news/cyproterone_acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyproterone_acetate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Cyproterone acetate?">
-<strong>Cyproterone acetate</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Cyproterone acetate</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Cyproterone acetate c
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>migraine disorder (99.7%)</li>
-<li>migraine with brainstem aura (99.6%)</li>
-<li>Prinzmetal angina (99.5%)</li>
-<li>antithrombin deficiency type 2 (99.5%)</li>
-<li>heparin cofactor 2 deficiency (99.5%)</li>
-<li>factor 5 excess with spontaneous thrombosis (99.5%)</li>
-<li>migraine with or without aura, susceptibility to (99.3%)</li>
-<li>amenorrhea (disease) (99.3%)</li>
-<li>breast fibrocystic disease (99.2%)</li>
-<li>thrombophilia (99.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/cyproterone-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/cyproterone_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

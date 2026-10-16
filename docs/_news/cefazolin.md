@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Cefazolin com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>infectious otitis media (99.4%)</li>
 <li>bronchitis (99.3%)</li>

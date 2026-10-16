@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Indomethacin com as n
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>brachydactyly-syndactyly syndrome (100.0%)</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>

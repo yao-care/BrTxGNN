@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para DEXAMETHASONE ACETATE
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>plasma cell myeloma (99.0%)</li>
+<li>plasma cell myeloma | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexamethasone_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

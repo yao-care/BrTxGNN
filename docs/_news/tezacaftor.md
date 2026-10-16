@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Tezacaftor"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tezacaftor. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Tezacaftor. Indicação original: . 9 indicações previstas."
 permalink: /news/tezacaftor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tezacaftor/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tezacaftor?">
-<strong>Tezacaftor</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Tezacaftor</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para Tezacaftor com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>HIV infectious disease (99.2%)</li>
-<li>leprosy (99.1%)</li>
-<li>multiple endocrine neoplasia (99.1%)</li>
-<li>feline acquired immunodeficiency syndrome (99.0%)</li>
-<li>simian immunodeficiency virus infection (99.0%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (98.8%)</li>
-<li>rheumatoid arthritis (98.7%)</li>
-<li>female breast carcinoma (98.4%)</li>
-<li>homozygous familial hypercholesterolemia (98.4%)</li>
-<li>amyotrophic lateral sclerosis (98.3%)</li>
+<li><strong>Nível de evidência</strong>: L5</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Hanseníase | 99,14% (99.0%)</li>
+<li>Neoplasia endócrina múltipla | 99,06% (99.0%)</li>
+<li>Síndrome da imunodeficiência adquirida felina | 98,96% (99.0%)</li>
+<li>Infecção pelo vírus da imunodeficiência símia | 98,96% (99.0%)</li>
+<li>Transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical | 98,85% (99.0%)</li>
+<li>Artrite reumatoide | 98,65% (99.0%)</li>
+<li>Carcinoma de mama feminina | 98,39% (99.0%)</li>
+<li>Hipercolesterolemia familiar homozigótica | 98,37% (99.0%)</li>
+<li>Esclerose lateral amiotrófica | 98,35% (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tezacaftor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

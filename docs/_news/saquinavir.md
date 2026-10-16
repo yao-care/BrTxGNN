@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para SAQUINAVIR com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (6)</strong>:<ul>
 <li>simian immunodeficiency virus infection (100.0%)</li>
 <li>feline acquired immunodeficiency syndrome (100.0%)</li>

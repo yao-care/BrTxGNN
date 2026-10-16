@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Potassium Iodide"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Potassium Iodide. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Potassium Iodide. Indicação original: . 0 indicações previstas."
 permalink: /news/potassium_iodide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/potassium_iodide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Potassium Iodide?">
-<strong>Potassium Iodide</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Potassium Iodide</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Potassium Iodide com 
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>nasal cavity disease (100.0%)</li>
-<li>acute laryngopharyngitis (100.0%)</li>
-<li>faucial diphtheria (98.8%)</li>
-<li>cervical disc degenerative disorder (98.7%)</li>
-<li>allergic urticaria (97.6%)</li>
-<li>papillary conjunctivitis (97.1%)</li>
-<li>trigeminal autonomic cephalalgia (97.1%)</li>
-<li>headache disorder (96.9%)</li>
-<li>tracheal disease (94.4%)</li>
-<li>laryngitis (82.6%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium-iodide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/potassium_iodide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

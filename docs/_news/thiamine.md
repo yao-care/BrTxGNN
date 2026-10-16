@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para Thiamine com as notí
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>hyperthyroidism (99.4%)</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.4%)</li>

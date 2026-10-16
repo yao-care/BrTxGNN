@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Clavulanic acid"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Clavulanic acid. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Clavulanic acid. Indicação original: . 0 indicações previstas."
 permalink: /news/clavulanic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clavulanic_acid/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Clavulanic acid?">
-<strong>Clavulanic acid</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Clavulanic acid</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Clavulanic acid com a
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>gonococcal urethritis (99.9%)</li>
-<li>Ureaplasma urethritis (99.9%)</li>
-<li>uterine inflammatory disease (99.9%)</li>
-<li>xanthogranulomatous pyelonephritis (99.9%)</li>
-<li>urogenital tuberculosis (99.9%)</li>
-<li>celiac trunk compression syndrome (99.8%)</li>
-<li>abdominal cystic lymphangioma (99.8%)</li>
-<li>abdominal ectopic pregnancy (99.8%)</li>
-<li>lymph node palisaded myofibroblastoma (99.8%)</li>
-<li>disease of uterine broad ligament (99.8%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/clavulanic-acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/clavulanic_acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

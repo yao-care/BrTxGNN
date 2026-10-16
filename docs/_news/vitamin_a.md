@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Vitamin A"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Vitamin A. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Vitamin A. Indicação original: . 0 indicações previstas."
 permalink: /news/vitamin_a/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vitamin_a/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Vitamin A?">
-<strong>Vitamin A</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Vitamin A</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Vitamin A com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>congenital prothrombin deficiency (100.0%)</li>
-<li>biotin metabolic disease (99.8%)</li>
-<li>non-syndromic esophageal malformation (99.7%)</li>
-<li>injury (99.7%)</li>
-<li>cell proliferation disorder (99.6%)</li>
-<li>segmental odontomaxillary dysplasia (99.6%)</li>
-<li>florid cemento-osseous dysplasia (99.6%)</li>
-<li>perinatal disease (99.6%)</li>
-<li>disease by subcellular system affected (99.6%)</li>
-<li>radiation or chemically induced disorder (99.6%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/vitamin-a/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/vitamin_a/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

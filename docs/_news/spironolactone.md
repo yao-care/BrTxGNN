@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para SPIRONOLACTONE com as
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (2)</strong>:<ul>
 <li>hypotrichosis simplex of the scalp (99.3%)</li>
 <li>congenital hypotrichosis milia (99.0%)</li>

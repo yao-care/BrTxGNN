@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Ascorbic acid"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ascorbic acid. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Ascorbic acid. Indicação original: . 0 indicações previstas."
 permalink: /news/ascorbic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ascorbic_acid/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ascorbic acid?">
-<strong>Ascorbic acid</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ascorbic acid</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para Ascorbic acid com as 
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>non-syndromic esophageal malformation (100.0%)</li>
-<li>esophageal disease (99.9%)</li>
-<li>congenital prothrombin deficiency (99.7%)</li>
-<li>injury (99.6%)</li>
-<li>biotin metabolic disease (99.5%)</li>
-<li>perinatal disease (99.5%)</li>
-<li>florid cemento-osseous dysplasia (99.5%)</li>
-<li>segmental odontomaxillary dysplasia (99.5%)</li>
-<li>disease by subcellular system affected (99.5%)</li>
-<li>vitamin deficiency disorder (99.5%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/ascorbic-acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/ascorbic_acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

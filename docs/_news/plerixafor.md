@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para PLERIXAFOR com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (7)</strong>:<ul>
 <li>indolent plasma cell myeloma (100.0%)</li>
 <li>CMM7 (99.3%)</li>

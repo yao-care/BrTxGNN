@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para CYANOCOBALAMIN com as
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
 <li>biotin metabolic disease (99.6%)</li>
 </ul></li>

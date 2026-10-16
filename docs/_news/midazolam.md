@@ -24,6 +24,7 @@ Esta página combina as indicações previstas por IA para MIDAZOLAM com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
 <li>insomnia (disease) (99.7%)</li>
 </ul></li>

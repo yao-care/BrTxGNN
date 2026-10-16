@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Baclofen"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Baclofen. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Baclofen. Indicação original: . 9 indicações previstas."
 permalink: /news/baclofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/baclofen/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Baclofen?">
-<strong>Baclofen</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Baclofen</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ Esta página combina as indicações previstas por IA para Baclofen com as notí
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>attention deficit-hyperactivity disorder (99.3%)</li>
-<li>nicotine dependence (99.2%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (98.9%)</li>
-<li>myofascial pain syndrome (98.9%)</li>
-<li>faciodigitogenital syndrome (98.8%)</li>
-<li>trigeminal nerve neoplasm (98.7%)</li>
-<li>methemoglobinemia (98.3%)</li>
-<li>chondromyxoid fibroma (98.2%)</li>
-<li>methemoglobinemia, alpha type (98.0%)</li>
-<li>specific developmental disorder (98.0%)</li>
+<li><strong>Nível de evidência</strong>: L4</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Dependência de nicotina | 99,19% | L2 | Questão de pesquisa (mais promissora) (99.0%)</li>
+<li>TDAH, tipo desatento | 98,89% | L5 | Hold (99.0%)</li>
+<li>Síndrome de dor miofascial | 98,87% | L4 | Questão de pesquisa (99.0%)</li>
+<li>Síndrome faciodigitogenital | 98,78% | L5 | Hold (99.0%)</li>
+<li>Neoplasia do nervo trigêmeo | 98,70% | L4 | Hold (99.0%)</li>
+<li>Metemoglobinemia | 98,33% | L5 | Hold (99.0%)</li>
+<li>Fibroma condromixoide | 98,15% | L5 | Hold (99.0%)</li>
+<li>Metemoglobinemia, tipo alfa | 97,97% | L5 | Hold (99.0%)</li>
+<li>Transtorno específico do desenvolvimento | 97,95% | L4 | Hold (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/baclofen/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
