@@ -5,6 +5,7 @@ nav_order: 4
 description: "Lista de medicamentos analisados pelo BrTxGNN para reposicionamento."
 permalink: /drugs/
 ---
+{% assign listed_drugs = site.drugs | where_exp: "d", "d.layout != 'redirect'" | where_exp: "d", "d.noindex != true" %}
 
 # Medicamentos Analisados
 
@@ -21,7 +22,7 @@ O BrTxGNN analisa medicamentos registrados na ANVISA que possuem mapeamento para
 | Total de medicamentos ANVISA | 42.819 |
 | Medicamentos ativos | ~17.210 |
 | Com mapeamento DrugBank | A calcular |
-| Com previsões TxGNN | A calcular |
+| Com previsões TxGNN | {{ listed_drugs.size }} |
 
 ---
 
@@ -88,3 +89,16 @@ Com base nos dados da ANVISA, as principais classes terapêuticas incluem:
 ## Download de Dados
 
 Os dados processados estão disponíveis para download na página [Downloads](/downloads/).
+
+---
+
+## Lista completa de medicamentos
+
+{{ listed_drugs.size }} relatórios de medicamentos
+
+{% assign all_drugs = listed_drugs | sort: 'title' %}
+
+| Medicamento | Nível de evidência | Indicações |
+|---------|---------|---------|
+{% for drug in all_drugs %}| [{{ drug.title }}]({{ drug.url | relative_url }}) | {{ drug.evidence_level }} | {{ drug.indication_count }} |
+{% endfor %}
