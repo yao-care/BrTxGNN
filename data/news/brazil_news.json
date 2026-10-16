@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-16T03:37:05.686702+00:00",
-  "total_fetched": 85,
+  "fetched_at": "2026-10-16T10:56:11.298340+00:00",
+  "total_fetched": 86,
   "unique_count": 85,
-  "health_related_count": 30,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "709e8a7e1e4e",
+      "title": "Exame de sangue para Alzheimer chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela - G1",
+      "published": "2026-10-16T05:00:00+00:00",
+      "summary": "Exame de sangue para Alzheimer chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela&nbsp;&nbsp;G1Coordenação de Comunicação Social » UFPel lidera etapa regional de pesquisa para diagnóstico de Alzheimer&nbsp;&nbsp;Universidade Federal de PelotasHospital de Porto Alegre é o primeiro do Brasil a oferecer exame de sangue para investigar Alzheimer&nbsp;&nbsp;GZHExame de sangue para auxiliar no diagnóstico de Alzheimer chega ao Brasil&nbsp;&nbsp;VEJAChega ao Brasil teste de ",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWU1zTW1wZVZVMWRqMk1YOUdpQ0hpMXhNVEN5N25WaEJFVWFXdlp2YU9FcTV2UjE0M01FZGtPOC0xRk5uLURDVE5OS3lBaG1IVGYtc2NTQmw5eVViaWo1NTRHN1lIdVpoZTNEZm80YU51bjc1TVVrbXdyenA3OXdwX2QzbmxOdE1kcEpjYkYxN3kxNWJyYXFmRWN6bUJpZUlERGdLWkFIOXJpQ2EwMlpEZTRsbVM2NEZZQ01KV1VHRktGRWxzNDlwT0M2aGlhcmMxTlVyay11RENZUU10X0ozWFJvR1NVQzJTSW5KYl9OODjSAf8BQVVfeXFMTzVVdnVCRUF3azRKRWVuS2tEd29pNG16MTE0ZVJBbF9uZm5lVTBzZmNKRUV5dVRfMG9uVVUtRnpBVUxTZkRsanFnRDN1bFJwZS1PcWMwX205MTMyR0RyNTJ0b1JkTmlOYnRIMEdYX1lIX1pjUXFYOHh6UHhPcU1GZ1FDeFFUUEduc0FwSTd1NzRWV0NSZ2RJRjdJU0xaYXpmMEdqcDVQZTlXNElTTnRXWVJ2OGcyMzZ2Z0JIa3djeDFHS3JLSUN1UjBJbzU0SnlTQzgyd0NDZEcyWU9JV01iUVNudW9ScHBrdjhJQzBEWFdMNzBkT1A2TUJmVTRNOW9j?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33d7e9df28dd",
+      "title": "Neurologista lista hábitos matinais que podem aumentar o risco de AVC - Metrópoles",
+      "published": "2026-10-16T05:00:00+00:00",
+      "summary": "Neurologista lista hábitos matinais que podem aumentar o risco de AVC&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSnVXc19vTGJrWTl2eFdubXF0S1A1aExkMnQ3RktXMjVPclBFTDFfaXZWc2lEcEo2T0hKc2pMM19tMTBXeHp0WkJvWEtBVG13ckUyblpmdGNUbm1KeTd3TXhERWl5SUFFY20zcGxDTlVWV3RtS3UxTWstNE5qaG8yZk05RTFfcTVGWDFHVlhUWlVWRzFhYTJuZ0haZzBYUzhCUU8tRXl3UlVaVlJibnNyNHBBTF9LX2NfX3NuS1J3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "95fbdd1ed499",
+      "title": "Nem meteoro, nem guerra: estudo de físico de 1960 prevê que o fim do mundo já tem data marcada para novembro de 2026 - ND Mais",
+      "published": "2026-10-16T02:40:00+00:00",
+      "summary": "Nem meteoro, nem guerra: estudo de físico de 1960 prevê que o fim do mundo já tem data marcada para novembro de 2026&nbsp;&nbsp;ND Mais",
+      "sources": [
+        {
+          "name": "ND Mais",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3h6eGlFajIzVVNqVVVSS3FNZ0R4QkctekZTMk5VQjZkQ1owd2NCRXZaazVUeGRmQTNNZzBPZW9Gak1XdnpjQktneGpuQm9fLVM3YnFnRFA0My0tUnBPelk0OXRGa2NoSEZMeDJSMDJqSXRVc1d6QXdkc3ZfWVlBNnItdUpaTmlk?oc=5"
+        }
+      ]
+    },
     {
       "id": "19aa5947187b",
       "title": "Lúcia Helena: Câncer de mama: coisas que nem toda mulher sabe, mas que deveria saber - UOL",
@@ -14,6 +50,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnpHVllkNnJMZE9VeWFqT2VFOFAwMXZJRmQwaDRfSWhEV1gwLW9aajdBY2tkOHhsZ2RjanVLMEVxbG5LVk9zNzE1ekEzSXNIZkNOUlVEY3BncXhEQ2lIVlAzd1VNT3NXUWl4dThabjdkQnBjVUlCTTZWSnlOMEk1UndWZ25TMEZZU0d1dE1vZnA0Z2k3OVB6VWs2WE8yb1lXUi1oU1RrdGRIdnJFR01aVC1xZGZJWTBjbmJSeS1wdlM4MjRqRFNqa2RobGwydFBNQjln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94be68022117",
+      "title": "O que nova descoberta arqueológica revela sobre as relações entre os neandertais - VEJA",
+      "published": "2026-10-15T22:09:23+00:00",
+      "summary": "O que nova descoberta arqueológica revela sobre as relações entre os neandertais&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTVLOERaSG5melFSV3d2Mkc0REhvcy1zUEJkMWwxMW53bGZPd2FBaGFqbjZ5NTc0WjNjMzV0cFBENEZ4M1Y0YWdudTJad2hnSU1adWR5dlN1QUI4aXI2b0RwNEYzN2ItTGRGY0RReDBHeGhLODNhR1hHM1VoMFVodHdVbU1FVDAtbExPVmowenlCODd3U2hQdXFxa0x3TGNhNFVQN2JkYktFLWRXT2h3Z0tWRFAxdw?oc=5"
         }
       ]
     },
@@ -56,7 +104,7 @@
     {
       "id": "489d5d1df45b",
       "title": "Se você conhece alguém que trata mal garçons e atendentes, a psicologia tem um recado para eles - Minha Vida Saúde",
-      "published": "2026-10-15T15:30:49+00:00",
+      "published": "2026-10-15T15:35:05+00:00",
       "summary": "Se você conhece alguém que trata mal garçons e atendentes, a psicologia tem um recado para eles&nbsp;&nbsp;Minha Vida Saúde",
       "sources": [
         {
@@ -86,6 +134,18 @@
         {
           "name": "Diário do Nordeste",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVc2cGp6WDJTQU5hZi1OOXlFaGFKRjRDX0l5QlN6NlFRSG44NlF0aUVDVDVWUDVEVHQtM2RsNUVaazFST3EteEJZX2RBWHZnY2FvMjZOb0Q1dERTYnpYX2I3WFY5azRtTkttWHlPa0VKcnFqRmx0NVJjUUd6TW5rS0xRQ3lBNUJlNmxoQ19UekNxb0lySXZibUI5UUVLTFZSbmpZUFBSbE0tSllzSnU2djZCSkY1emVfUDJFZDFNMUJLNlN5U2tQVG1LQ0lVUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b26767a39925",
+      "title": "Um estudo de quase meio século de duração revela a idade em que o corpo de fato começa a perder força - O GLOBO",
+      "published": "2026-10-15T13:17:23+00:00",
+      "summary": "Um estudo de quase meio século de duração revela a idade em que o corpo de fato começa a perder força&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd21Wek8tRmNwSVF4a0VycG5Ec3lGYzM1dklCYzd2SDJON3lrdE91MXlWZVNIbE5Cb2QyNkE1UjYwLUQwdXhCV1A5UFNmLUo1SjU2LTktSklPb3B2WDM0Y3UzVzV2OGJjQ2o5aV9xaE8xWmpsMnplcnV4bUJCTTN4dzdxREs1OHVXbExLc3lnYUx1b3VKM2kta3BSUml2OTYzSFgyM0E5ZVhyQkFWb2RJejJWTHBWbmNFdnVJaWJSMVBkd1VHZEp2eHNDMXRrUGpXUTBMRl8xQmloSndRWXRHNHNhb0dqNUpOUzRxakN30gH8AUFVX3lxTE05R2g1VHkyNDNzdDJQQWhEMzh6U3FHT3R0eHZxOTVUZ0VSWUxwMDFwcjh0MmJyQTZodTJFX001RlhWV0Z6M0VIU0g4eHNFSURuSWpYQm81NmtKSWhwZG9Kc182VXFGaVIwcV8yTjd4YXI5SEQ4UDNlX01KbGF2NnVWZ3VIUGdEdTNfbWRtQ2ExRE1HY0Z0QTd3YTVPd0lZQUxQRWJrRlJNTlhJZXBkSkVhSnpZVVp5R0hSNkJrMnFWazR2alViUURZM1BQSkxBNDVBY2FNRk15NTBjYVVvVnltNWNQSndzUVd5V2ZhdktDS0NKbGRJLTdUcFNaLQ?oc=5"
         }
       ]
     },
@@ -122,18 +182,6 @@
         {
           "name": "Site Inovação Tecnológica",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ2NhQzR1UUlnSk93MXkzZEU5NUNEZHA3Y2UwV0hpSlAyaGpxTVp2VDA5Q25XUjJtZHh1d2twbm1RMTA3QVVsajUzZEpsOGFKdkozdjNBbDhnV0wtZGRBNklEX1U0dVBDSkxjQ25VZ0dkQzFfUXlPQk5MVDJ5X2Q1UHlJWXFXeGtYVXdmYWdYTVpOTndMRmNyd2VFNG83UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d7dd96b6ed9f",
-      "title": "Em 1908, leitura de livros antes de dormir preocupava pesquisadores - Poder360",
-      "published": "2026-10-15T09:02:23+00:00",
-      "summary": "Em 1908, leitura de livros antes de dormir preocupava pesquisadores&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMkg1M0JYMXFyM1p4ZXpiLWxwczZYS2ozaWdtZS1ZbWl5Vy1IVHlUdkZ6eWtCck95LWpwWXNhV2JWUmxIdFA3Mkw4WUFESnRnakJDYk4xVmg5eDZQQUxYaS1HN3JIQkFtVXFoNW5lUUNRcldYNk5jRlg4MUM4dTF4V0hSZ3p4eXp2RGNndFI5QW5kNU9OZ3lRdElBdUdOUnNBNkx6M2VVaE1Fdw?oc=5"
         }
       ]
     },
@@ -177,7 +225,7 @@
       "id": "0ae8d8cf51c3",
       "title": "Anvisa aprova remédio que reduz crises de lúpus e o uso de corticoide, mas acesso pelo SUS e planos de saúde ainda é incerto - G1",
       "published": "2026-10-15T06:00:00+00:00",
-      "summary": "Anvisa aprova remédio que reduz crises de lúpus e o uso de corticoide, mas acesso pelo SUS e planos de saúde ainda é incerto&nbsp;&nbsp;G1Anvisa aprova novo remédio para doença autoimune que afeta pele, rins e cérebro&nbsp;&nbsp;VEJAAnvisa aprova novo medicamento para tratar lúpus&nbsp;&nbsp;Agência BrasilAnvisa aprova novo medicamento para tratamento do lúpus&nbsp;&nbsp;R7Anvisa aprova novo medicamento para lúpus eritematoso sistêmico&nbsp;&nbsp;Folha PE",
+      "summary": "Anvisa aprova remédio que reduz crises de lúpus e o uso de corticoide, mas acesso pelo SUS e planos de saúde ainda é incerto&nbsp;&nbsp;G1Anvisa aprova novo remédio para doença autoimune que afeta pele, rins e cérebro&nbsp;&nbsp;VEJAAnvisa aprova novo medicamento para tratamento do lúpus&nbsp;&nbsp;R7Anvisa aprova novo medicamento para lúpus eritematoso sistêmico&nbsp;&nbsp;Folha PEAnvisa aprova uso de medicamento contra câncer para tratar lúpus&nbsp;&nbsp;Poder360",
       "sources": [
         {
           "name": "G1",
@@ -330,26 +378,14 @@
       ]
     },
     {
-      "id": "b7bb4002141b",
-      "title": "Inteligência emocional: estudo com 600 mil pessoas revela diferenças - G1",
-      "published": "2026-10-14T05:00:01+00:00",
-      "summary": "Inteligência emocional: estudo com 600 mil pessoas revela diferenças&nbsp;&nbsp;G1",
+      "id": "862ad1858aaa",
+      "title": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe' - BBC",
+      "published": "2026-10-12T22:46:21+00:00",
+      "summary": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe'&nbsp;&nbsp;BBCVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnhrY2xyNi1YYTNFQkI2N1l1R3hOUmZiYkZfRjdLWTZaa01ycU5JeDRJV0JRUEVPTHhnc2lnTF9XVmZuNE1vNkhvRjBkaGxWb1RVUkVlbGI5RzhTWHZqWHhaZzJkb0w0OWVWcVpSa0pnUHJyN1dlTWRCaDdReUlyUWg0SDZBeUNXdVVta1FGVVEwVXAtdDlNTkd0dzBzUGtEOHVFMmF0LWhTd0oxclRhak9iUGEwNks1aWxiNjhaUy1Lbl9qTE1oQnJZQk5BUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e21c45d14e83",
-      "title": "Libido baixa: seis fatores relacionados à alimentação e à saúde que merecem atenção - Jornal Correio",
-      "published": "2026-10-13T18:50:31+00:00",
-      "summary": "Libido baixa: seis fatores relacionados à alimentação e à saúde que merecem atenção&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmZ6ck5rTFBscC1YQ3pMN1F3SUxoTmZuRTUxakNNWWEtUGZEVDRSOEVCeFhsUHRhOFljRXFhNThod2xJZFM2TFNMQ0FBZlpNbWRtX0lnckFxTlRBQ19sQ0tsTEdMN29uVGpOR1dmWVpacEdyYVE0RmpLVXRoWWdfbldZTVExWFVUdWRJS3UzTFZ1aWVwMGNQNVBqdFVtcEkzdkdLSXpqVEtjZGQtNnlhaTdJSGxnOWc2clQwZ3E2dnJRMHBMUUE?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ySXFSaXB3ZFU3b2RXYXdmMXJRR1ZwaWIxTEVyWUNUNURDSXZqbWtvZ3QwTnNfNUkwRkRJQkt6X1JCcUFFOWoxcTB0QlhWSFBfNVU4a1Mzd1VMYWR2bl94YWlSQdIBaEFVX3lxTE1fWXlIMFkyZ3doVUVfNFJicGpvVGFyT21WMnoxcmZ6UVJNS25KcC1LQ3V1Q3FBaXdaOWRQQ25BZzRjQURzbzZqNklvdnJrWnA0V3ZqY1JLNU5sdkh5ZllreE9NOVhtZDJP?oc=5"
         }
       ]
     },
@@ -357,7 +393,7 @@
       "id": "a21bc0941210",
       "title": "Olhos biônicos: entenda como funciona a tecnologia que promete restaurar parte da visão - O GLOBO",
       "published": "2026-10-12T16:53:41+00:00",
-      "summary": "Olhos biônicos: entenda como funciona a tecnologia que promete restaurar parte da visão&nbsp;&nbsp;O GLOBO‘Sempre achei que devolver visão a cegos era ficção científica’, diz inventor de implante&nbsp;&nbsp;Gazeta de São PauloScience Corporation implanta chip restaurador de visão no primeiro paciente&nbsp;&nbsp;Boa InformaçãoChina desenvolve tecnologia para recuperar parcialmente a visão&nbsp;&nbsp;TV BRICSComo olhos biônicos estão se tornando realidade&nbsp;&nbsp;Terra",
+      "summary": "Olhos biônicos: entenda como funciona a tecnologia que promete restaurar parte da visão&nbsp;&nbsp;O GLOBOOlhos biônicos recuperam parte da visão: implante de retina ainda enfrenta limites e riscos, mas trazem esperança&nbsp;&nbsp;Jornal Correio‘Sempre achei que devolver visão a cegos era ficção científica’, diz inventor de implante&nbsp;&nbsp;Gazeta de São PauloScience Corporation implanta chip restaurador de visão no primeiro paciente&nbsp;&nbsp;Boa InformaçãoChina desenvolve tecnologia para r",
       "sources": [
         {
           "name": "O GLOBO",
