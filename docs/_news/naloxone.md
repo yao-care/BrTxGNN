@@ -30,7 +30,7 @@ Esta página combina as indicações previstas por IA para NALOXONE com as notí
 <li>opiate dependence | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/naloxone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

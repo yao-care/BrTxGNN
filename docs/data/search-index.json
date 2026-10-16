@@ -1,48 +1,8 @@
 {
   "generated": "2026-10-16",
-  "drug_count": 697,
-  "indication_count": 1719,
+  "drug_count": 525,
+  "indication_count": 1627,
   "drugs": [
-    {
-      "name": "Abacavir Sulfate",
-      "slug": "abacavir-sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abatacepte",
-      "slug": "abatacepte",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abemaciclibe",
-      "slug": "abemaciclibe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abiraterona Acetate",
-      "slug": "abiraterona-acetate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acalabrutinibe Monohydrate Maleate",
-      "slug": "acalabrutinibe-monohydrate-maleate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
     {
       "name": "Acarbose",
       "slug": "acarbose",
@@ -93,14 +53,6 @@
       ]
     },
     {
-      "name": "Aceclofenaco",
-      "slug": "aceclofenaco",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Acetaminophen",
       "slug": "acetaminophen",
       "brands": [],
@@ -130,14 +82,6 @@
       ]
     },
     {
-      "name": "Acetazolamida",
-      "slug": "acetazolamida",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Acetic Acid",
       "slug": "acetic-acid",
       "brands": [],
@@ -165,14 +109,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Acetonida De Triamcinolone",
-      "slug": "acetonida-de-triamcinolone",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Acetylcysteine",
@@ -271,14 +207,6 @@
       ]
     },
     {
-      "name": "Aclidínio Bromide",
-      "slug": "aclidínio-bromide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Acyclovir",
       "slug": "acyclovir",
       "brands": [],
@@ -338,22 +266,6 @@
       ]
     },
     {
-      "name": "Acyclovir Sodium",
-      "slug": "acyclovir-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Adalimumabe",
-      "slug": "adalimumabe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Adapalene",
       "slug": "adapalene",
       "brands": [],
@@ -411,30 +323,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Adenosina",
-      "slug": "adenosina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aflibercepte",
-      "slug": "aflibercepte",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Agomelatina",
-      "slug": "agomelatina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Alanine",
@@ -508,38 +396,6 @@
           "level": "L1"
         }
       ]
-    },
-    {
-      "name": "Albuterol",
-      "slug": "albuterol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Albuterol Sulfate",
-      "slug": "albuterol-sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alcaftadina",
-      "slug": "alcaftadina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alectinibe Hydrochloride",
-      "slug": "alectinibe-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Alfacalcidol",
@@ -633,14 +489,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Alogliptina Benzoate",
-      "slug": "alogliptina-benzoate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Alpelisib",
@@ -794,14 +642,6 @@
       ]
     },
     {
-      "name": "Amantadina Hydrochloride",
-      "slug": "amantadina-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Ambrisentan",
       "slug": "ambrisentan",
       "brands": [],
@@ -920,14 +760,6 @@
       ]
     },
     {
-      "name": "Ambroxol Hydrochloride",
-      "slug": "ambroxol-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Amikacin",
       "slug": "amikacin",
       "brands": [],
@@ -985,30 +817,6 @@
           "level": "L4"
         }
       ]
-    },
-    {
-      "name": "Amikacin Sulfate",
-      "slug": "amikacin-sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amilorida",
-      "slug": "amilorida",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amilorida Hydrochloride",
-      "slug": "amilorida-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Aminobenzoic Acid",
@@ -1132,46 +940,6 @@
       ]
     },
     {
-      "name": "Amiodarone Hydrochloride",
-      "slug": "amiodarone-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amitriptyline Hydrochloride",
-      "slug": "amitriptyline-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amlodipina Besylate",
-      "slug": "amlodipina-besylate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amlodipine Besylate",
-      "slug": "amlodipine-besylate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amorolfina Hydrochloride",
-      "slug": "amorolfina-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Amoxicillin",
       "slug": "amoxicillin",
       "brands": [],
@@ -1229,22 +997,6 @@
           "level": "L4"
         }
       ]
-    },
-    {
-      "name": "Amoxicillin Sodium",
-      "slug": "amoxicillin-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amoxicillin Trihydrate",
-      "slug": "amoxicillin-trihydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Ampicillin",
@@ -1306,38 +1058,6 @@
       ]
     },
     {
-      "name": "Ampicillin Anhydrous",
-      "slug": "ampicillin-anhydrous",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Ampicillin Sodium",
-      "slug": "ampicillin-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Ampicillin Trihydrate",
-      "slug": "ampicillin-trihydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anagrelida Hydrochloride",
-      "slug": "anagrelida-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Anastrozole",
       "slug": "anastrozole",
       "brands": [],
@@ -1395,14 +1115,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Apalutamida",
-      "slug": "apalutamida",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Apixaban",
@@ -1476,22 +1188,6 @@
           "level": "L3"
         }
       ]
-    },
-    {
-      "name": "Arginine Aspartate",
-      "slug": "arginine-aspartate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arginine Glutamate",
-      "slug": "arginine-glutamate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Aripiprazole",
@@ -1626,22 +1322,6 @@
       ]
     },
     {
-      "name": "Artesunato",
-      "slug": "artesunato",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Articaína Hydrochloride",
-      "slug": "articaína-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Ascorbic Acid",
       "slug": "ascorbic-acid",
       "brands": [],
@@ -1652,14 +1332,6 @@
     {
       "name": "Aspartic Acid",
       "slug": "aspartic-acid",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Atazanavir Sulfate",
-      "slug": "atazanavir-sulfate",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -1720,30 +1392,6 @@
       ]
     },
     {
-      "name": "Atezolizumabe",
-      "slug": "atezolizumabe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Atomoxetina Hydrochloride",
-      "slug": "atomoxetina-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Atorvastatin Calcium",
-      "slug": "atorvastatin-calcium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Atosiban",
       "slug": "atosiban",
       "brands": [],
@@ -1796,14 +1444,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Atracúrio Besylate",
-      "slug": "atracúrio-besylate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Atropine",
@@ -1863,14 +1503,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Atropine Sulfate",
-      "slug": "atropine-sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Avelumab",
@@ -1981,30 +1613,6 @@
       ]
     },
     {
-      "name": "Avibactam Sodium",
-      "slug": "avibactam-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Axitinibe",
-      "slug": "axitinibe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Azacitidina",
-      "slug": "azacitidina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Azathioprine",
       "slug": "azathioprine",
       "brands": [],
@@ -2064,14 +1672,6 @@
       ]
     },
     {
-      "name": "Azelastina Hydrochloride",
-      "slug": "azelastina-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Azithromycin",
       "slug": "azithromycin",
       "brands": [],
@@ -2129,22 +1729,6 @@
           "level": "L2"
         }
       ]
-    },
-    {
-      "name": "Azithromycin Dihydrate",
-      "slug": "azithromycin-dihydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Azithromycin Monohydrate",
-      "slug": "azithromycin-monohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Aztreonam",
@@ -2397,43 +1981,11 @@
       ]
     },
     {
-      "name": "Basiliximabe",
-      "slug": "basiliximabe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Bazedoxifeno Acetate",
-      "slug": "bazedoxifeno-acetate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Beclomethasone Dipropionate",
       "slug": "beclomethasone-dipropionate",
       "brands": [],
       "original": "",
       "level": "L3",
-      "indications": []
-    },
-    {
-      "name": "Bedaquilina Fumarate",
-      "slug": "bedaquilina-fumarate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Belimumabe",
-      "slug": "belimumabe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
       "indications": []
     },
     {
@@ -2515,22 +2067,6 @@
       ]
     },
     {
-      "name": "Benazepril Hydrochloride",
-      "slug": "benazepril-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Bendamustina Hydrochloride",
-      "slug": "bendamustina-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Benralizumab",
       "slug": "benralizumab",
       "brands": [],
@@ -2565,14 +2101,6 @@
       ]
     },
     {
-      "name": "Benserazida Hydrochloride",
-      "slug": "benserazida-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Benzbromarone",
       "slug": "benzbromarone",
       "brands": [],
@@ -2585,22 +2113,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Benzila Benzoate",
-      "slug": "benzila-benzoate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Benznidazol",
-      "slug": "benznidazol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Benzocaine",
@@ -2684,22 +2196,6 @@
       ]
     },
     {
-      "name": "Betahistine Dihydrochloride",
-      "slug": "betahistine-dihydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Betahistine Hydrochloride",
-      "slug": "betahistine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Betamethasone",
       "slug": "betamethasone",
       "brands": [],
@@ -2757,38 +2253,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Betamethasone Acetate",
-      "slug": "betamethasone-acetate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Betamethasone Dipropionate",
-      "slug": "betamethasone-dipropionate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Betamethasone Valerate",
-      "slug": "betamethasone-valerate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Betaxolol Hydrochloride",
-      "slug": "betaxolol-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Bevacizumab",
@@ -2850,38 +2314,6 @@
       ]
     },
     {
-      "name": "Bezafibrato",
-      "slug": "bezafibrato",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Bicalutamida",
-      "slug": "bicalutamida",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Bictegravir Sodium",
-      "slug": "bictegravir-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Bilastina",
-      "slug": "bilastina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Bimatoprost",
       "slug": "bimatoprost",
       "brands": [],
@@ -2939,14 +2371,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Binimetinibe",
-      "slug": "binimetinibe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Biotin",
@@ -3067,30 +2491,6 @@
       ]
     },
     {
-      "name": "Biperiden Hydrochloride",
-      "slug": "biperiden-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Biperiden Lactate",
-      "slug": "biperiden-lactate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Bisacodyl",
-      "slug": "bisacodyl",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Bisoprolol",
       "slug": "bisoprolol",
       "brands": [],
@@ -3164,14 +2564,6 @@
       ]
     },
     {
-      "name": "Bortezomibe",
-      "slug": "bortezomibe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Bosentan",
       "slug": "bosentan",
       "brands": [],
@@ -3226,27 +2618,11 @@
       ]
     },
     {
-      "name": "Bosutinibe Monohydrate",
-      "slug": "bosutinibe-monohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Brentuximab Vedotin",
       "slug": "brentuximab-vedotin",
       "brands": [],
       "original": "",
       "level": "L3",
-      "indications": []
-    },
-    {
-      "name": "Brigatinibe",
-      "slug": "brigatinibe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
       "indications": []
     },
     {
@@ -3307,14 +2683,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Brimonidine Tartrate",
-      "slug": "brimonidine-tartrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Brinzolamide",
@@ -3473,22 +2841,6 @@
       ]
     },
     {
-      "name": "Bromhexine Hydrochloride",
-      "slug": "bromhexine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Bromopride",
-      "slug": "bromopride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Brompheniramine",
       "slug": "brompheniramine",
       "brands": [],
@@ -3506,14 +2858,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Buclizina Dihydrochloride",
-      "slug": "buclizina-dihydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Budesonide",
@@ -3599,22 +2943,6 @@
       ]
     },
     {
-      "name": "Bupivacaine Hydrochloride",
-      "slug": "bupivacaine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Bupivacaine Monohydrate Hydrochloride",
-      "slug": "bupivacaine-monohydrate-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Buprenorphine",
       "slug": "buprenorphine",
       "brands": [],
@@ -3652,14 +2980,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Bupropion Hydrochloride",
-      "slug": "bupropion-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Busulfan",
@@ -3780,14 +3100,6 @@
       ]
     },
     {
-      "name": "Cabergolina",
-      "slug": "cabergolina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Cabotegravir",
       "slug": "cabotegravir",
       "brands": [],
@@ -3840,14 +3152,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Cabotegravir Sodium",
-      "slug": "cabotegravir-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Caffeine",
@@ -3909,22 +3213,6 @@
       ]
     },
     {
-      "name": "Caffeine Anhydrous",
-      "slug": "caffeine-anhydrous",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Caffeine Citrate",
-      "slug": "caffeine-citrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Calcipotriol",
       "slug": "calcipotriol",
       "brands": [],
@@ -3982,14 +3270,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Calcipotriol Monohydrate",
-      "slug": "calcipotriol-monohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Calcitriol",
@@ -4095,38 +3375,6 @@
       ]
     },
     {
-      "name": "Calcium Carbonate",
-      "slug": "calcium-carbonate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Calcium Chloride",
-      "slug": "calcium-chloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Calcium Dihydrate Chloride",
-      "slug": "calcium-dihydrate-chloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Calcium Propionate",
-      "slug": "calcium-propionate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Camphor",
       "slug": "camphor",
       "brands": [],
@@ -4184,14 +3432,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Canagliflozin Hemihydrate",
-      "slug": "canagliflozin-hemihydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Candesartan Cilexetil",
@@ -4448,30 +3688,6 @@
       ]
     },
     {
-      "name": "Carbidopa",
-      "slug": "carbidopa",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Carbidopa Monohydrate",
-      "slug": "carbidopa-monohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Carbinoxamina Maleate",
-      "slug": "carbinoxamina-maleate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Carbocisteine",
       "slug": "carbocisteine",
       "brands": [],
@@ -4590,14 +3806,6 @@
       ]
     },
     {
-      "name": "Carfilzomibe",
-      "slug": "carfilzomibe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Carisoprodol",
       "slug": "carisoprodol",
       "brands": [],
@@ -4610,14 +3818,6 @@
           "level": "L4"
         }
       ]
-    },
-    {
-      "name": "Carmustina",
-      "slug": "carmustina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Carvedilol",
@@ -4727,14 +3927,6 @@
       ]
     },
     {
-      "name": "Cefaclor Monohydrate",
-      "slug": "cefaclor-monohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Cefalotin",
       "slug": "cefalotin",
       "brands": [],
@@ -4838,14 +4030,6 @@
       ]
     },
     {
-      "name": "Cefazolin Sodium",
-      "slug": "cefazolin-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Cefdinir",
       "slug": "cefdinir",
       "brands": [],
@@ -4903,22 +4087,6 @@
           "level": "L4"
         }
       ]
-    },
-    {
-      "name": "Cefepima Hydrochloride",
-      "slug": "cefepima-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Cefotaxima Sodium",
-      "slug": "cefotaxima-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Cefoxitin",
@@ -5551,65 +4719,6 @@
       ]
     },
     {
-      "name": "CICLOPIROX",
-      "slug": "ciclopirox",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "tinea corporis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "pityriasis versicolor | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "tinea infection | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "pityriasis simplex | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "seborrheic keratosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "tinea unguium | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "dermatophytosis of groin and perianal area | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "cutaneous candidiasis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "tinea pedis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "seborrheic dermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Cilastatin",
       "slug": "cilastatin",
       "brands": [],
@@ -5664,20 +4773,6 @@
         {
           "name": "salmonellosis",
           "score": 99.43,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "CILOSTAZOL",
-      "slug": "cilostazol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "intermittent vascular claudication | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -5738,120 +4833,6 @@
           "name": "septicemic plague",
           "score": 99.64,
           "level": "L3"
-        }
-      ]
-    },
-    {
-      "name": "CISPLATIN",
-      "slug": "cisplatin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "ovarian carcinosarcoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "borderline epithelial tumor of ovary | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "malignant sex cord stromal tumor of ovary | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "ovarian endometrioid adenocarcinoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "ovarian mucinous adenocarcinoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "malignant germ cell tumor of ovary | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "maligant granulosa cell tumor of ovary | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "theca steroid-producing cell malignant tumor of ovary, not further specified | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "ovarian adenocarcinoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "ovarian clear cell adenocarcinoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "malignant dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "malignant Sertoli-Leydig cell tumor of ovary | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "malignant non-dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "primary non-gestational choriocarcinoma of ovary | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "ovarian small cell carcinoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "immature ovarian teratoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "yolk sac tumor | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "familial ovarian cancer | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "ovarian cancer | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "hereditary site-specific ovarian cancer syndrome | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "hereditary breast ovarian cancer syndrome | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
         }
       ]
     },
@@ -6727,14 +5708,6 @@
       ]
     },
     {
-      "name": "Cyclophosphamide Monohydrate",
-      "slug": "cyclophosphamide-monohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Cyclosporine",
       "slug": "cyclosporine",
       "brands": [],
@@ -7013,25 +5986,6 @@
         {
           "name": "periodic paralysis (disease)",
           "score": 98.92,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "DAPAGLIFLOZIN",
-      "slug": "dapagliflozin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -7419,20 +6373,6 @@
         {
           "name": "prolapse of lacrimal gland",
           "score": 99.65,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "DEXAMETHASONE ACETATE",
-      "slug": "dexamethasone_acetate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "plasma cell myeloma | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -8307,49 +7247,6 @@
       ]
     },
     {
-      "name": "DROSPIRENONE",
-      "slug": "drospirenone",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "obsolete atrophic vulva | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "postmenopausal atrophic vaginitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "acne (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "DULAGLUTIDE",
-      "slug": "dulaglutide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Dupilumab",
       "slug": "dupilumab",
       "brands": [],
@@ -9139,45 +8036,6 @@
         {
           "name": "thinking seizures",
           "score": 99.11,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "ESTRADIOL",
-      "slug": "estradiol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "obsolete atrophic vulva | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "postmenopausal atrophic vaginitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "acne (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "primary ovarian failure | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "postmenopausal osteoporosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "osteoporosis | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -10229,115 +9087,6 @@
       "indications": []
     },
     {
-      "name": "FLUTICASONE PROPIONATE",
-      "slug": "fluticasone_propionate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "lichen disease | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "seborrheic dermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "neurodermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "dermatitis, atopic | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "vasomotor rhinitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "occupational dermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "contact dermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "atopic eczema | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "lupus erythematosus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "discoid lupus erythematosus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "seborrheic keratosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "chronic cutaneous lupus erythematosus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "allergic rhinitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "granuloma annulare | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "exanthem (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "pulmonary emphysema | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "allergic asthma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "intrinsic asthma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Folic Acid",
       "slug": "folic-acid",
       "brands": [],
@@ -10483,55 +9232,12 @@
       ]
     },
     {
-      "name": "FUROSEMIDE",
-      "slug": "furosemide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "hypertensive disorder | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "hypertension | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "congestive heart failure | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Fusidic Acid",
       "slug": "fusidic-acid",
       "brands": [],
       "original": "",
       "level": "L4",
       "indications": []
-    },
-    {
-      "name": "GABAPENTIN",
-      "slug": "gabapentin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "restless legs syndrome | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "postherpetic neuralgia | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
     },
     {
       "name": "Gadobutrol",
@@ -11161,25 +9867,6 @@
       ]
     },
     {
-      "name": "GLICLAZIDE",
-      "slug": "gliclazide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Glimepiride",
       "slug": "glimepiride",
       "brands": [],
@@ -11254,25 +9941,6 @@
       "original": "",
       "level": "L4",
       "indications": []
-    },
-    {
-      "name": "GLYBURIDE",
-      "slug": "glyburide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
     },
     {
       "name": "Glycerin",
@@ -11702,30 +10370,6 @@
         {
           "name": "non-syndromic esophageal malformation",
           "score": 99.51,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "HYDROCHLOROTHIAZIDE",
-      "slug": "hydrochlorothiazide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "hypertensive disorder | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "hypertension | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "congestive heart failure | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -12328,30 +10972,6 @@
         {
           "name": "Ambras type hypertrichosis universalis congenita",
           "score": 99.06,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "INDAPAMIDE",
-      "slug": "indapamide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "hypertensive disorder | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "hypertension | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "congestive heart failure | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -13607,14 +12227,6 @@
       ]
     },
     {
-      "name": "Leflunomida",
-      "slug": "leflunomida",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Lemborexant",
       "slug": "lemborexant",
       "brands": [],
@@ -13627,14 +12239,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Lenalidomida",
-      "slug": "lenalidomida",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Lenvatinib",
@@ -13814,22 +12418,6 @@
       ]
     },
     {
-      "name": "Leucine",
-      "slug": "leucine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Leuprorrelina Acetate",
-      "slug": "leuprorrelina-acetate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Levetiracetam",
       "slug": "levetiracetam",
       "brands": [],
@@ -13948,30 +12536,6 @@
       ]
     },
     {
-      "name": "Levobunolol Hydrochloride",
-      "slug": "levobunolol-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Levobupivacaína Hydrochloride",
-      "slug": "levobupivacaína-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Levocetirizine Dihydrochloride",
-      "slug": "levocetirizine-dihydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Levodopa",
       "slug": "levodopa",
       "brands": [],
@@ -14045,30 +12609,6 @@
       ]
     },
     {
-      "name": "Levofloxacin Hemihydrate",
-      "slug": "levofloxacin-hemihydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Levofloxacina",
-      "slug": "levofloxacina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Levometionina",
-      "slug": "levometionina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Levonorgestrel",
       "slug": "levonorgestrel",
       "brands": [],
@@ -14106,14 +12646,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Levonorgestrel Micronizado",
-      "slug": "levonorgestrel-micronizado",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Levothyroxine",
@@ -14175,14 +12707,6 @@
       ]
     },
     {
-      "name": "Levothyroxine Sodium",
-      "slug": "levothyroxine-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Lidocaine",
       "slug": "lidocaine",
       "brands": [],
@@ -14242,25 +12766,6 @@
       ]
     },
     {
-      "name": "LINAGLIPTIN",
-      "slug": "linagliptin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Lipegfilgrastim",
       "slug": "lipegfilgrastim",
       "brands": [],
@@ -14284,25 +12789,6 @@
         },
         {
           "name": "Retinopatia diabética | 99,75% | Conexão apenas indireta e de direção incerta",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "LIRAGLUTIDE",
-      "slug": "liraglutide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
           "score": 99.0,
           "level": "L5"
         }
@@ -14454,60 +12940,6 @@
         {
           "name": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
           "score": 99.9,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "LORATADINE",
-      "slug": "loratadine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "pharyngitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "vernal conjunctivitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "idiopathic urticaria | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "vasomotor rhinitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "nasopharyngitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "atopic conjunctivitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "papillary conjunctivitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "common cold | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "allergic rhinitis | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -14836,50 +13268,6 @@
       "original": "",
       "level": "L3",
       "indications": []
-    },
-    {
-      "name": "MAGNESIUM OXIDE",
-      "slug": "magnesium_oxide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "phosphorus metabolism disease | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "nephrocalcinosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "postmenopausal osteoporosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "constipation disorder | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "hypercalcemia disease | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "dyspepsia | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "osteoporosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
     },
     {
       "name": "Magnesium Sulfate",
@@ -16265,115 +14653,6 @@
       ]
     },
     {
-      "name": "MOMETASONE FUROATE",
-      "slug": "mometasone_furoate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "lichen disease | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "seborrheic dermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "neurodermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "dermatitis, atopic | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "vasomotor rhinitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "occupational dermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "contact dermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "atopic eczema | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "lupus erythematosus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "discoid lupus erythematosus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "asthma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "seborrheic keratosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "allergic asthma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "chronic cutaneous lupus erythematosus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "intrinsic asthma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "allergic rhinitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "granuloma annulare | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "exanthem (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Mupirocin",
       "slug": "mupirocin",
       "brands": [],
@@ -16388,30 +14667,6 @@
         {
           "name": "punctate epithelial keratoconjunctivitis",
           "score": 99.1,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "NALOXONE",
-      "slug": "naloxone",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "morphine dependence | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "substance abuse/dependence | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "opiate dependence | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -16529,30 +14784,6 @@
         {
           "name": "syndromic oculocutaneous albinism",
           "score": 81.74,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "NIFEDIPINE",
-      "slug": "nifedipine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "hypertensive disorder | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Prinzmetal angina | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "hypertension | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -17231,14 +15462,6 @@
       ]
     },
     {
-      "name": "Ondansetron Hydrochloride",
-      "slug": "ondansetron-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Orlistat",
       "slug": "orlistat",
       "brands": [],
@@ -17251,30 +15474,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Ornitina Aspartate",
-      "slug": "ornitina-aspartate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Ornitina Hydrochloride",
-      "slug": "ornitina-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Orphenadrine Citrate",
-      "slug": "orphenadrine-citrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Oseltamivir",
@@ -17334,30 +15533,6 @@
           "level": "L2"
         }
       ]
-    },
-    {
-      "name": "Oseltamivir Phosphate",
-      "slug": "oseltamivir-phosphate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Osimertinibe Mesylate",
-      "slug": "osimertinibe-mesylate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Otilônio Bromide",
-      "slug": "otilônio-bromide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Oxacillin",
@@ -17521,38 +15696,6 @@
       ]
     },
     {
-      "name": "Oxomemazina Hydrochloride",
-      "slug": "oxomemazina-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Oxybutynin Hydrochloride",
-      "slug": "oxybutynin-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Oxycodone Hydrochloride",
-      "slug": "oxycodone-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Oxymetazoline Hydrochloride",
-      "slug": "oxymetazoline-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Paclitaxel",
       "slug": "paclitaxel",
       "brands": [],
@@ -17610,38 +15753,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Palbociclibe",
-      "slug": "palbociclibe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Paliperidona",
-      "slug": "paliperidona",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Paliperidona Palmitate",
-      "slug": "paliperidona-palmitate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Palivizumabe",
-      "slug": "palivizumabe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Pantoprazole",
@@ -20150,20 +18261,6 @@
       ]
     },
     {
-      "name": "RIBOFLAVIN",
-      "slug": "riboflavin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "vitamin deficiency disorder | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Rifampicin",
       "slug": "rifampicin",
       "brands": [],
@@ -20433,65 +18530,6 @@
         {
           "name": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
           "score": 99.92,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "RITUXIMAB",
-      "slug": "rituximab",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "lymphoma, non-Hodgkin, familial | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Richter syndrome | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "rheumatoid arthritis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "lymphosarcoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "non-Hodgkin lymphoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "B-cell neoplasm | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "mantle cell lymphoma | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Langerhans cell histiocytosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "lymphoma | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -20892,25 +18930,6 @@
       ]
     },
     {
-      "name": "SAXAGLIPTIN",
-      "slug": "saxagliptin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Secnidazole",
       "slug": "secnidazole",
       "brands": [],
@@ -21107,25 +19126,6 @@
         {
           "name": "trigeminal schwannoma",
           "score": 99.95,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "SEMAGLUTIDE",
-      "slug": "semaglutide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -22506,38 +20506,6 @@
       ]
     },
     {
-      "name": "Terbinafine Hydrochloride",
-      "slug": "terbinafine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Terbutalina Sulfate",
-      "slug": "terbutalina-sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Teriflunomida",
-      "slug": "teriflunomida",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Teriparatida",
-      "slug": "teriparatida",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Terlipressin",
       "slug": "terlipressin",
       "brands": [],
@@ -22580,38 +20548,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Testosterone",
-      "slug": "testosterone",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Testosterone Cypionate",
-      "slug": "testosterone-cypionate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Testosterone Decanoate",
-      "slug": "testosterone-decanoate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Testosterone Propionate",
-      "slug": "testosterone-propionate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Tetracaine",
@@ -22666,14 +20602,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Tetracaine Hydrochloride",
-      "slug": "tetracaine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Tetracycline",
@@ -22733,14 +20661,6 @@
           "level": "L4"
         }
       ]
-    },
-    {
-      "name": "Tetracycline Hydrochloride",
-      "slug": "tetracycline-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Tezacaftor",
@@ -22900,22 +20820,6 @@
       ]
     },
     {
-      "name": "Thiamine Hydrochloride",
-      "slug": "thiamine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Thiamine Nitrate",
-      "slug": "thiamine-nitrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Thiocolchicoside",
       "slug": "thiocolchicoside",
       "brands": [],
@@ -22947,14 +20851,6 @@
           "level": "L4"
         }
       ]
-    },
-    {
-      "name": "Tiabendazol",
-      "slug": "tiabendazol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Ticagrelor",
@@ -23014,14 +20910,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Ticlopidina Hydrochloride",
-      "slug": "ticlopidina-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Tildrakizumab",
@@ -25836,17 +23724,6 @@
           "drug": "Levobunolol",
           "slug": "levobunolol",
           "score": 96.76
-        }
-      ]
-    },
-    {
-      "name": "B-cell neoplasm | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RITUXIMAB",
-          "slug": "rituximab",
-          "score": 99.0
         }
       ]
     },
@@ -29219,17 +27096,6 @@
       ]
     },
     {
-      "name": "Langerhans cell histiocytosis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RITUXIMAB",
-          "slug": "rituximab",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Laringofaringite aguda | 99,94% | L5 | Plausível pela classe antitussígena/orofaríngea; sem estudos",
       "drug_count": 1,
       "drugs": [
@@ -30398,17 +28264,6 @@
       ]
     },
     {
-      "name": "Prinzmetal angina | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "NIFEDIPINE",
-          "slug": "nifedipine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Prionopatia variavelmente sensível à protease | 94,69% | Sem conexão mecanística identificável; provável artefato da rede",
       "drug_count": 1,
       "drugs": [
@@ -30775,17 +28630,6 @@
           "drug": "Carbamazepine",
           "slug": "carbamazepine",
           "score": 99.87
-        }
-      ]
-    },
-    {
-      "name": "Richter syndrome | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RITUXIMAB",
-          "slug": "rituximab",
-          "score": 99.0
         }
       ]
     },
@@ -32667,22 +30511,6 @@
       ]
     },
     {
-      "name": "acne (disease) | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "DROSPIRENONE",
-          "slug": "drospirenone",
-          "score": 99.0
-        },
-        {
-          "drug": "ESTRADIOL",
-          "slug": "estradiol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "acne keloid",
       "drug_count": 5,
       "drugs": [
@@ -33087,17 +30915,6 @@
       ]
     },
     {
-      "name": "acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RITUXIMAB",
-          "slug": "rituximab",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "acute myeloid leukemia with t(8;21)(q22;q22) translocation",
       "drug_count": 1,
       "drugs": [
@@ -33280,22 +31097,6 @@
       ]
     },
     {
-      "name": "allergic asthma | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "allergic otitis media",
       "drug_count": 3,
       "drugs": [
@@ -33313,27 +31114,6 @@
           "drug": "Cephalexin",
           "slug": "cephalexin",
           "score": 98.27
-        }
-      ]
-    },
-    {
-      "name": "allergic rhinitis | TxGNN Knowledge Graph",
-      "drug_count": 3,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "LORATADINE",
-          "slug": "loratadine",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
         }
       ]
     },
@@ -34233,17 +32013,6 @@
       ]
     },
     {
-      "name": "asthma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "atopic conjunctivitis",
       "drug_count": 2,
       "drugs": [
@@ -34260,17 +32029,6 @@
       ]
     },
     {
-      "name": "atopic conjunctivitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "LORATADINE",
-          "slug": "loratadine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "atopic eczema",
       "drug_count": 2,
       "drugs": [
@@ -34283,22 +32041,6 @@
           "drug": "Prilocaine",
           "slug": "prilocaine",
           "score": 99.31
-        }
-      ]
-    },
-    {
-      "name": "atopic eczema | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
         }
       ]
     },
@@ -35298,17 +33040,6 @@
       ]
     },
     {
-      "name": "borderline epithelial tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "botryoid-type embryonal rhabdomyosarcoma of the vagina",
       "drug_count": 7,
       "drugs": [
@@ -36210,22 +33941,6 @@
       ]
     },
     {
-      "name": "chronic cutaneous lupus erythematosus | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "chronic ethmoidal sinusitis",
       "drug_count": 4,
       "drugs": [
@@ -36771,17 +34486,6 @@
       ]
     },
     {
-      "name": "common cold | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "LORATADINE",
-          "slug": "loratadine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "common wart",
       "drug_count": 1,
       "drugs": [
@@ -37223,27 +34927,6 @@
       ]
     },
     {
-      "name": "congestive heart failure | TxGNN Knowledge Graph",
-      "drug_count": 3,
-      "drugs": [
-        {
-          "drug": "FUROSEMIDE",
-          "slug": "furosemide",
-          "score": 99.0
-        },
-        {
-          "drug": "HYDROCHLOROTHIAZIDE",
-          "slug": "hydrochlorothiazide",
-          "score": 99.0
-        },
-        {
-          "drug": "INDAPAMIDE",
-          "slug": "indapamide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "conjunctival disorder",
       "drug_count": 1,
       "drugs": [
@@ -37314,33 +34997,6 @@
           "drug": "Rifampicin",
           "slug": "rifampicin",
           "score": 99.6
-        }
-      ]
-    },
-    {
-      "name": "constipation disorder | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium_oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "contact dermatitis | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
         }
       ]
     },
@@ -37486,17 +35142,6 @@
           "drug": "Terbinafine",
           "slug": "terbinafine",
           "score": 95.04
-        }
-      ]
-    },
-    {
-      "name": "cutaneous candidiasis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CICLOPIROX",
-          "slug": "ciclopirox",
-          "score": 99.0
         }
       ]
     },
@@ -37704,22 +35349,6 @@
       ]
     },
     {
-      "name": "dermatitis, atopic | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "dermatofibrosarcoma protuberans",
       "drug_count": 8,
       "drugs": [
@@ -37777,17 +35406,6 @@
       ]
     },
     {
-      "name": "dermatophytosis of groin and perianal area | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CICLOPIROX",
-          "slug": "ciclopirox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "dermatophytosis of scalp or beard",
       "drug_count": 3,
       "drugs": [
@@ -37827,52 +35445,6 @@
           "drug": "Fludrocortisone",
           "slug": "fludrocortisone",
           "score": 99.18
-        }
-      ]
-    },
-    {
-      "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
-      "drug_count": 8,
-      "drugs": [
-        {
-          "drug": "DAPAGLIFLOZIN",
-          "slug": "dapagliflozin",
-          "score": 99.0
-        },
-        {
-          "drug": "DULAGLUTIDE",
-          "slug": "dulaglutide",
-          "score": 99.0
-        },
-        {
-          "drug": "GLICLAZIDE",
-          "slug": "gliclazide",
-          "score": 99.0
-        },
-        {
-          "drug": "GLYBURIDE",
-          "slug": "glyburide",
-          "score": 99.0
-        },
-        {
-          "drug": "LINAGLIPTIN",
-          "slug": "linagliptin",
-          "score": 99.0
-        },
-        {
-          "drug": "LIRAGLUTIDE",
-          "slug": "liraglutide",
-          "score": 99.0
-        },
-        {
-          "drug": "SAXAGLIPTIN",
-          "slug": "saxagliptin",
-          "score": 99.0
-        },
-        {
-          "drug": "SEMAGLUTIDE",
-          "slug": "semaglutide",
-          "score": 99.0
         }
       ]
     },
@@ -38070,22 +35642,6 @@
           "drug": "Norfloxacin",
           "slug": "norfloxacin",
           "score": 99.44
-        }
-      ]
-    },
-    {
-      "name": "discoid lupus erythematosus | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
         }
       ]
     },
@@ -38432,17 +35988,6 @@
           "drug": "Nicotinamide",
           "slug": "nicotinamide",
           "score": 84.69
-        }
-      ]
-    },
-    {
-      "name": "dyspepsia | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium_oxide",
-          "score": 99.0
         }
       ]
     },
@@ -39100,22 +36645,6 @@
       ]
     },
     {
-      "name": "exanthem (disease) | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "excretory apparatus of the lacrimal system anomaly",
       "drug_count": 2,
       "drugs": [
@@ -39508,17 +37037,6 @@
           "drug": "Cetrorelix",
           "slug": "cetrorelix",
           "score": 99.55
-        }
-      ]
-    },
-    {
-      "name": "familial ovarian cancer | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
         }
       ]
     },
@@ -40612,22 +38130,6 @@
       ]
     },
     {
-      "name": "granuloma annulare | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "granulomatous disease with defect in neutrophil chemotaxis",
       "drug_count": 1,
       "drugs": [
@@ -41233,17 +38735,6 @@
       ]
     },
     {
-      "name": "hereditary breast ovarian cancer syndrome | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "hereditary hypophosphatemic rickets",
       "drug_count": 1,
       "drugs": [
@@ -41293,17 +38784,6 @@
           "drug": "Cabazitaxel",
           "slug": "cabazitaxel",
           "score": 99.89
-        }
-      ]
-    },
-    {
-      "name": "hereditary site-specific ovarian cancer syndrome | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
         }
       ]
     },
@@ -41546,17 +39026,6 @@
       ]
     },
     {
-      "name": "hypercalcemia disease | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium_oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency",
       "drug_count": 3,
       "drugs": [
@@ -41669,32 +39138,6 @@
       ]
     },
     {
-      "name": "hypertension | TxGNN Knowledge Graph",
-      "drug_count": 4,
-      "drugs": [
-        {
-          "drug": "FUROSEMIDE",
-          "slug": "furosemide",
-          "score": 99.0
-        },
-        {
-          "drug": "HYDROCHLOROTHIAZIDE",
-          "slug": "hydrochlorothiazide",
-          "score": 99.0
-        },
-        {
-          "drug": "INDAPAMIDE",
-          "slug": "indapamide",
-          "score": 99.0
-        },
-        {
-          "drug": "NIFEDIPINE",
-          "slug": "nifedipine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "hypertensive disorder",
       "drug_count": 1,
       "drugs": [
@@ -41702,32 +39145,6 @@
           "drug": "Potassium",
           "slug": "potassium",
           "score": 99.16
-        }
-      ]
-    },
-    {
-      "name": "hypertensive disorder | TxGNN Knowledge Graph",
-      "drug_count": 4,
-      "drugs": [
-        {
-          "drug": "FUROSEMIDE",
-          "slug": "furosemide",
-          "score": 99.0
-        },
-        {
-          "drug": "HYDROCHLOROTHIAZIDE",
-          "slug": "hydrochlorothiazide",
-          "score": 99.0
-        },
-        {
-          "drug": "INDAPAMIDE",
-          "slug": "indapamide",
-          "score": 99.0
-        },
-        {
-          "drug": "NIFEDIPINE",
-          "slug": "nifedipine",
-          "score": 99.0
         }
       ]
     },
@@ -42152,17 +39569,6 @@
       ]
     },
     {
-      "name": "idiopathic urticaria | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "LORATADINE",
-          "slug": "loratadine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "iminoglycinuria",
       "drug_count": 1,
       "drugs": [
@@ -42186,17 +39592,6 @@
           "drug": "Pegvaliase",
           "slug": "pegvaliase",
           "score": 98.96
-        }
-      ]
-    },
-    {
-      "name": "immature ovarian teratoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
         }
       ]
     },
@@ -42572,17 +39967,6 @@
       ]
     },
     {
-      "name": "intermittent vascular claudication | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CILOSTAZOL",
-          "slug": "cilostazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "intestinal helminthiasis",
       "drug_count": 2,
       "drugs": [
@@ -42660,22 +40044,6 @@
           "drug": "Ticagrelor",
           "slug": "ticagrelor",
           "score": 99.97
-        }
-      ]
-    },
-    {
-      "name": "intrinsic asthma | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
         }
       ]
     },
@@ -43226,22 +40594,6 @@
       ]
     },
     {
-      "name": "lichen disease | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "lichen planus pigmentosus",
       "drug_count": 1,
       "drugs": [
@@ -43501,22 +40853,6 @@
       ]
     },
     {
-      "name": "lupus erythematosus | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "lymphangiectasis",
       "drug_count": 1,
       "drugs": [
@@ -43590,39 +40926,6 @@
           "drug": "Pegaspargase",
           "slug": "pegaspargase",
           "score": 99.71
-        }
-      ]
-    },
-    {
-      "name": "lymphoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RITUXIMAB",
-          "slug": "rituximab",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "lymphoma, non-Hodgkin, familial | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RITUXIMAB",
-          "slug": "rituximab",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "lymphosarcoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RITUXIMAB",
-          "slug": "rituximab",
-          "score": 99.0
         }
       ]
     },
@@ -43742,28 +41045,6 @@
       ]
     },
     {
-      "name": "maligant granulosa cell tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "malignant Sertoli-Leydig cell tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "malignant catarrh",
       "drug_count": 2,
       "drugs": [
@@ -43791,17 +41072,6 @@
       ]
     },
     {
-      "name": "malignant dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "malignant epithelioid mesothelioma",
       "drug_count": 2,
       "drugs": [
@@ -43825,17 +41095,6 @@
           "drug": "Capecitabine",
           "slug": "capecitabine",
           "score": 99.89
-        }
-      ]
-    },
-    {
-      "name": "malignant germ cell tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
         }
       ]
     },
@@ -43908,17 +41167,6 @@
           "drug": "Mannitol",
           "slug": "mannitol",
           "score": 99.8
-        }
-      ]
-    },
-    {
-      "name": "malignant non-dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
         }
       ]
     },
@@ -44022,17 +41270,6 @@
       ]
     },
     {
-      "name": "malignant sex cord stromal tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "malignant spiradenoma",
       "drug_count": 1,
       "drugs": [
@@ -44082,17 +41319,6 @@
           "drug": "Methadone",
           "slug": "methadone",
           "score": 99.32
-        }
-      ]
-    },
-    {
-      "name": "mantle cell lymphoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RITUXIMAB",
-          "slug": "rituximab",
-          "score": 99.0
         }
       ]
     },
@@ -44716,17 +41942,6 @@
       ]
     },
     {
-      "name": "morphine dependence | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "NALOXONE",
-          "slug": "naloxone",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "mucin-rich endometrial endometrioid adenocarcinoma",
       "drug_count": 1,
       "drugs": [
@@ -45240,17 +42455,6 @@
       ]
     },
     {
-      "name": "nasopharyngitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "LORATADINE",
-          "slug": "loratadine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "necrotizing ulcerative gingivitis",
       "drug_count": 1,
       "drugs": [
@@ -45332,17 +42536,6 @@
           "drug": "Valine",
           "slug": "valine",
           "score": 99.26
-        }
-      ]
-    },
-    {
-      "name": "nephrocalcinosis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium_oxide",
-          "score": 99.0
         }
       ]
     },
@@ -45484,22 +42677,6 @@
           "drug": "Vinblastine",
           "slug": "vinblastine",
           "score": 99.14
-        }
-      ]
-    },
-    {
-      "name": "neurodermatitis | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
         }
       ]
     },
@@ -45660,17 +42837,6 @@
           "drug": "Levothyroxine",
           "slug": "levothyroxine",
           "score": 99.64
-        }
-      ]
-    },
-    {
-      "name": "non-Hodgkin lymphoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RITUXIMAB",
-          "slug": "rituximab",
-          "score": 99.0
         }
       ]
     },
@@ -45840,22 +43006,6 @@
       ]
     },
     {
-      "name": "obsolete atrophic vulva | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "DROSPIRENONE",
-          "slug": "drospirenone",
-          "score": 99.0
-        },
-        {
-          "drug": "ESTRADIOL",
-          "slug": "estradiol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "obsolete bundle branch block",
       "drug_count": 2,
       "drugs": [
@@ -46005,22 +43155,6 @@
       ]
     },
     {
-      "name": "occupational dermatitis | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "oligocone trichromacy",
       "drug_count": 1,
       "drugs": [
@@ -46091,17 +43225,6 @@
           "drug": "Clindamycin",
           "slug": "clindamycin",
           "score": 98.28
-        }
-      ]
-    },
-    {
-      "name": "opiate dependence | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "NALOXONE",
-          "slug": "naloxone",
-          "score": 99.0
         }
       ]
     },
@@ -46329,22 +43452,6 @@
       ]
     },
     {
-      "name": "osteoporosis | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "ESTRADIOL",
-          "slug": "estradiol",
-          "score": 99.0
-        },
-        {
-          "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium_oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "osteoradionecrosis of the mandible",
       "drug_count": 4,
       "drugs": [
@@ -46444,72 +43551,6 @@
       ]
     },
     {
-      "name": "ovarian adenocarcinoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "ovarian cancer | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "ovarian carcinosarcoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "ovarian clear cell adenocarcinoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "ovarian endometrioid adenocarcinoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "ovarian mucinous adenocarcinoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "ovarian myxoid liposarcoma",
       "drug_count": 7,
       "drugs": [
@@ -46558,17 +43599,6 @@
           "drug": "Melphalan",
           "slug": "melphalan",
           "score": 99.75
-        }
-      ]
-    },
-    {
-      "name": "ovarian small cell carcinoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
         }
       ]
     },
@@ -46663,17 +43693,6 @@
           "drug": "Miconazole",
           "slug": "miconazole",
           "score": 98.01
-        }
-      ]
-    },
-    {
-      "name": "papillary conjunctivitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "LORATADINE",
-          "slug": "loratadine",
-          "score": 99.0
         }
       ]
     },
@@ -47220,28 +44239,6 @@
       ]
     },
     {
-      "name": "pharyngitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "LORATADINE",
-          "slug": "loratadine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "phosphorus metabolism disease | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium_oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "photosensitive occipital lobe epilepsy",
       "drug_count": 1,
       "drugs": [
@@ -47275,17 +44272,6 @@
       ]
     },
     {
-      "name": "pityriasis simplex | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CICLOPIROX",
-          "slug": "ciclopirox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "pityriasis versicolor",
       "drug_count": 1,
       "drugs": [
@@ -47293,17 +44279,6 @@
           "drug": "Clioquinol",
           "slug": "clioquinol",
           "score": 98.97
-        }
-      ]
-    },
-    {
-      "name": "pityriasis versicolor | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CICLOPIROX",
-          "slug": "ciclopirox",
-          "score": 99.0
         }
       ]
     },
@@ -47320,17 +44295,6 @@
           "drug": "Basiliximab",
           "slug": "basiliximab",
           "score": 95.61
-        }
-      ]
-    },
-    {
-      "name": "plasma cell myeloma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "DEXAMETHASONE ACETATE",
-          "slug": "dexamethasone_acetate",
-          "score": 99.0
         }
       ]
     },
@@ -47814,17 +44778,6 @@
       ]
     },
     {
-      "name": "postherpetic neuralgia | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "GABAPENTIN",
-          "slug": "gabapentin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "postinfectious vasculitis",
       "drug_count": 8,
       "drugs": [
@@ -47923,38 +44876,6 @@
           "drug": "Clindamycin",
           "slug": "clindamycin",
           "score": 99.03
-        }
-      ]
-    },
-    {
-      "name": "postmenopausal atrophic vaginitis | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "DROSPIRENONE",
-          "slug": "drospirenone",
-          "score": 99.0
-        },
-        {
-          "drug": "ESTRADIOL",
-          "slug": "estradiol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "postmenopausal osteoporosis | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "ESTRADIOL",
-          "slug": "estradiol",
-          "score": 99.0
-        },
-        {
-          "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium_oxide",
-          "score": 99.0
         }
       ]
     },
@@ -48192,38 +45113,6 @@
       ]
     },
     {
-      "name": "primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "primary hereditary glaucoma",
       "drug_count": 10,
       "drugs": [
@@ -48329,17 +45218,6 @@
       ]
     },
     {
-      "name": "primary non-gestational choriocarcinoma of ovary | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "primary orthostatic tremor",
       "drug_count": 1,
       "drugs": [
@@ -48363,17 +45241,6 @@
           "drug": "Dienogest",
           "slug": "dienogest",
           "score": 99.69
-        }
-      ]
-    },
-    {
-      "name": "primary ovarian failure | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "ESTRADIOL",
-          "slug": "estradiol",
-          "score": 99.0
         }
       ]
     },
@@ -49029,17 +45896,6 @@
           "drug": "Bleomycin",
           "slug": "bleomycin",
           "score": 99.04
-        }
-      ]
-    },
-    {
-      "name": "pulmonary emphysema | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
         }
       ]
     },
@@ -49797,17 +46653,6 @@
       ]
     },
     {
-      "name": "restless legs syndrome | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "GABAPENTIN",
-          "slug": "gabapentin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "rete ovarii adenocarcinoma",
       "drug_count": 1,
       "drugs": [
@@ -50014,17 +46859,6 @@
           "drug": "Rifampicin",
           "slug": "rifampicin",
           "score": 99.45
-        }
-      ]
-    },
-    {
-      "name": "rheumatoid arthritis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RITUXIMAB",
-          "slug": "rituximab",
-          "score": 99.0
         }
       ]
     },
@@ -50330,27 +47164,6 @@
       ]
     },
     {
-      "name": "seborrheic dermatitis | TxGNN Knowledge Graph",
-      "drug_count": 3,
-      "drugs": [
-        {
-          "drug": "CICLOPIROX",
-          "slug": "ciclopirox",
-          "score": 99.0
-        },
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "seborrheic keratosis",
       "drug_count": 4,
       "drugs": [
@@ -50373,27 +47186,6 @@
           "drug": "Gestodene",
           "slug": "gestodene",
           "score": 89.27
-        }
-      ]
-    },
-    {
-      "name": "seborrheic keratosis | TxGNN Knowledge Graph",
-      "drug_count": 3,
-      "drugs": [
-        {
-          "drug": "CICLOPIROX",
-          "slug": "ciclopirox",
-          "score": 99.0
-        },
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
         }
       ]
     },
@@ -51077,17 +47869,6 @@
       ]
     },
     {
-      "name": "substance abuse/dependence | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "NALOXONE",
-          "slug": "naloxone",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "substernal goiter",
       "drug_count": 1,
       "drugs": [
@@ -51468,17 +48249,6 @@
       ]
     },
     {
-      "name": "theca steroid-producing cell malignant tumor of ovary, not further specified | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "thiamine-responsive dysfunction syndrome",
       "drug_count": 2,
       "drugs": [
@@ -51669,28 +48439,6 @@
       ]
     },
     {
-      "name": "tinea corporis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CICLOPIROX",
-          "slug": "ciclopirox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "tinea infection | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CICLOPIROX",
-          "slug": "ciclopirox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "tinea manuum",
       "drug_count": 2,
       "drugs": [
@@ -51718,17 +48466,6 @@
       ]
     },
     {
-      "name": "tinea pedis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CICLOPIROX",
-          "slug": "ciclopirox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "tinea profunda",
       "drug_count": 3,
       "drugs": [
@@ -51746,17 +48483,6 @@
           "drug": "Miconazole",
           "slug": "miconazole",
           "score": 97.2
-        }
-      ]
-    },
-    {
-      "name": "tinea unguium | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CICLOPIROX",
-          "slug": "ciclopirox",
-          "score": 99.0
         }
       ]
     },
@@ -52228,52 +48954,6 @@
       ]
     },
     {
-      "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-      "drug_count": 8,
-      "drugs": [
-        {
-          "drug": "DAPAGLIFLOZIN",
-          "slug": "dapagliflozin",
-          "score": 99.0
-        },
-        {
-          "drug": "DULAGLUTIDE",
-          "slug": "dulaglutide",
-          "score": 99.0
-        },
-        {
-          "drug": "GLICLAZIDE",
-          "slug": "gliclazide",
-          "score": 99.0
-        },
-        {
-          "drug": "GLYBURIDE",
-          "slug": "glyburide",
-          "score": 99.0
-        },
-        {
-          "drug": "LINAGLIPTIN",
-          "slug": "linagliptin",
-          "score": 99.0
-        },
-        {
-          "drug": "LIRAGLUTIDE",
-          "slug": "liraglutide",
-          "score": 99.0
-        },
-        {
-          "drug": "SAXAGLIPTIN",
-          "slug": "saxagliptin",
-          "score": 99.0
-        },
-        {
-          "drug": "SEMAGLUTIDE",
-          "slug": "semaglutide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "typhoid fever",
       "drug_count": 4,
       "drugs": [
@@ -52708,27 +49388,6 @@
       ]
     },
     {
-      "name": "vasomotor rhinitis | TxGNN Knowledge Graph",
-      "drug_count": 3,
-      "drugs": [
-        {
-          "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone_propionate",
-          "score": 99.0
-        },
-        {
-          "drug": "LORATADINE",
-          "slug": "loratadine",
-          "score": 99.0
-        },
-        {
-          "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone_furoate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "vein disease",
       "drug_count": 2,
       "drugs": [
@@ -52763,17 +49422,6 @@
           "drug": "Amiodarone",
           "slug": "amiodarone",
           "score": 99.64
-        }
-      ]
-    },
-    {
-      "name": "vernal conjunctivitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "LORATADINE",
-          "slug": "loratadine",
-          "score": 99.0
         }
       ]
     },
@@ -52928,17 +49576,6 @@
           "drug": "Pyridoxine",
           "slug": "pyridoxine",
           "score": 85.5
-        }
-      ]
-    },
-    {
-      "name": "vitamin deficiency disorder | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RIBOFLAVIN",
-          "slug": "riboflavin",
-          "score": 99.0
         }
       ]
     },
@@ -53263,17 +49900,6 @@
           "drug": "Vismodegib",
           "slug": "vismodegib",
           "score": 99.91
-        }
-      ]
-    },
-    {
-      "name": "yolk sac tumor | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "CISPLATIN",
-          "slug": "cisplatin",
-          "score": 99.0
         }
       ]
     },

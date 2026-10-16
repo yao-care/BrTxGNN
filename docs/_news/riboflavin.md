@@ -28,7 +28,7 @@ Esta página combina as indicações previstas por IA para RIBOFLAVIN com as not
 <li>vitamin deficiency disorder | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/riboflavin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

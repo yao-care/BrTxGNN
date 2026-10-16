@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para Sodium lauryl sulfate
 <strong>Informações do medicamento</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/sodium_lauryl_sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/sodium-lauryl-sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

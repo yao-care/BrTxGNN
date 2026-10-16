@@ -20,19 +20,23 @@
           "related_drugs": [
             {
               "slug": "ganciclovir",
-              "name": "Ganciclovir"
+              "name": "Ganciclovir",
+              "url": "/drugs/ganciclovir/"
             },
             {
               "slug": "clobutinol",
-              "name": "Clobutinol"
+              "name": "Clobutinol",
+              "url": "/drugs/clobutinol/"
             },
             {
               "slug": "tazobactam",
-              "name": "Tazobactam"
+              "name": "Tazobactam",
+              "url": "/drugs/tazobactam/"
             },
             {
               "slug": "oseltamivir",
-              "name": "Oseltamivir"
+              "name": "Oseltamivir",
+              "url": "/drugs/oseltamivir/"
             }
           ]
         },
@@ -43,19 +47,23 @@
           "related_drugs": [
             {
               "slug": "ganciclovir",
-              "name": "Ganciclovir"
+              "name": "Ganciclovir",
+              "url": "/drugs/ganciclovir/"
             },
             {
               "slug": "clobutinol",
-              "name": "Clobutinol"
+              "name": "Clobutinol",
+              "url": "/drugs/clobutinol/"
             },
             {
               "slug": "tazobactam",
-              "name": "Tazobactam"
+              "name": "Tazobactam",
+              "url": "/drugs/tazobactam/"
             },
             {
               "slug": "oseltamivir",
-              "name": "Oseltamivir"
+              "name": "Oseltamivir",
+              "url": "/drugs/oseltamivir/"
             }
           ]
         }

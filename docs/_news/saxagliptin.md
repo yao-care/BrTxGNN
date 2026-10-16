@@ -29,7 +29,7 @@ Esta página combina as indicações previstas por IA para SAXAGLIPTIN com as no
 <li>diabetes mellitus (disease) | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/saxagliptin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

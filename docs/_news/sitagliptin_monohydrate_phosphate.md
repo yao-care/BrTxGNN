@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para SITAGLIPTIN MONOHYDRA
 <strong>Informações do medicamento</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/sitagliptin_monohydrate_phosphate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)
