@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Clavulanic acid com a
 <li>disease of uterine broad ligament (99.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/clavulanic_acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/clavulanic-acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Megestrol acetate com
 <li>low-grade neuroendocrine tumor of the corpus uteri (99.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/megestrol_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/megestrol-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

@@ -71,7 +71,7 @@ Entre as 10 previsões, algumas têm literatura, mas ela se refere sobretudo a u
 | Previsão | Evidência encontrada | Interpretação |
 |------|------|------|
 | Neoplasia benigna de pulmão (nº 5) | Estudos de fase 3 CROWN, como [33207094](https://pubmed.ncbi.nlm.nih.gov/33207094/) (NEJM, 2020) e [38819031](https://pubmed.ncbi.nlm.nih.gov/38819031/) (JCO, 2024) | Refere-se a CPNPC ALK-positivo (indicação já estabelecida), não a tumores benignos; provável erro de mapeamento |
-| Tumor de células germinativas do pulmão (nº 7) | Fase 1 em neuroblastoma ALK-positivo, [37012551](https://pubmed.ncbi.nlm.nih.gov/37012551/) (Nature Medicine, 2023) | Evidência de outro tumor (neuroblastoma); não apoia diretamente o rótulo |
+| Tumor de células germinativas do pulmão (nº 7) | Fase 1 em neuroblastoma ALK-positivo, [37012551](https://pubmed.ncbi.nlm.nih.gov/37012551/) (Nature Medicine, 2024) | Evidência de outro tumor (neuroblastoma); não apoia diretamente o rótulo |
 | Carcinoma do hilo pulmonar (nº 4) | Relato de caso, [37934724](https://pubmed.ncbi.nlm.nih.gov/37934724/) (2023) | Evidência indireta, sobre CPNPC ALK-positivo |
 
 ## Informações de Comercialização no Brasil

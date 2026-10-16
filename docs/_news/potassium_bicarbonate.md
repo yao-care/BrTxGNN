@@ -28,7 +28,7 @@ Esta página combina as indicações previstas por IA para POTASSIUM BICARBONATE
 <li>gastroduodenitis (99.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium_bicarbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/potassium-bicarbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

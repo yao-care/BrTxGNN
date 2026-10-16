@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para ESTRADIOL VALERATE co
 <li>ovarian dysfunction (99.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/estradiol_valerate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/estradiol-valerate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

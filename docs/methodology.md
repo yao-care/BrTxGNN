@@ -50,7 +50,7 @@ O modelo TxGNN utiliza:
 
 <blockquote class="expert-quote">
 "TxGNN é um modelo de rede neural de grafos que aprende representações de medicamentos e doenças a partir de um grafo de conhecimento biomédico, permitindo prever novas associações terapêuticas."
-<cite>— Huang et al., Nature Medicine (2023)</cite>
+<cite>— Huang et al., Nature Medicine (2024)</cite>
 </blockquote>
 
 ### 4. Coleta de Evidências

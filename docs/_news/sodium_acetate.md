@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Sodium acetate com as
 <li>xanthogranulomatous pyelonephritis (99.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/sodium_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/sodium-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

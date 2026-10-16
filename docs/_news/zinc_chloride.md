@@ -30,7 +30,7 @@ Esta página combina as indicações previstas por IA para ZINC CHLORIDE com as 
 <li>dry eye syndrome (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/zinc_chloride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/zinc-chloride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

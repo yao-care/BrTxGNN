@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Dexchlorpheniramine m
 <li>myopia X-linked (96.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/dexchlorpheniramine_maleate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/dexchlorpheniramine-maleate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

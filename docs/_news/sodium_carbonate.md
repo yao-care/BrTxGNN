@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Sodium carbonate com 
 <li>catecholaminergic polymorphic ventricular tachycardia (98.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/sodium_carbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/sodium-carbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

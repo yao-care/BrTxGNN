@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para BENAZEPRIL HYDROCHLOR
 <strong>Informações do medicamento</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/benazepril_hydrochloride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/benazepril-hydrochloride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

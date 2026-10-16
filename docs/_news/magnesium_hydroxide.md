@@ -33,7 +33,7 @@ Esta página combina as indicações previstas por IA para MAGNESIUM HYDROXIDE c
 <li>stomach disease (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/magnesium_hydroxide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/magnesium-hydroxide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

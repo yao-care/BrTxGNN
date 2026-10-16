@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Zinc oxide com as not
 <li>otitis externa (98.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/zinc_oxide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/zinc-oxide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

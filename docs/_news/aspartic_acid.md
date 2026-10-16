@@ -28,7 +28,7 @@ Esta página combina as indicações previstas por IA para ASPARTIC ACID com as 
 <li>renal tubular acidosis (99.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/aspartic_acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/aspartic-acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

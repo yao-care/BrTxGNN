@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Estradiol cypionate c
 <li>luteoma of pregnancy (99.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/estradiol_cypionate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/estradiol-cypionate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

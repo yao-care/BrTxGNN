@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Potassium sulfate com
 <li>rheumatoid arthritis (96.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium_sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/potassium-sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para OXYCODONE HYDROCHLORI
 <strong>Informações do medicamento</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/oxycodone_hydrochloride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/oxycodone-hydrochloride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

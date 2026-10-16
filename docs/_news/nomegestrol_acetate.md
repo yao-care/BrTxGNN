@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Nomegestrol acetate c
 <li>rheumatoid arthritis (97.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/nomegestrol_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/nomegestrol-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

@@ -28,7 +28,7 @@ Esta página combina as indicações previstas por IA para POTASSIUM ACETATE com
 <li>renal tubular acidosis (99.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/potassium-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

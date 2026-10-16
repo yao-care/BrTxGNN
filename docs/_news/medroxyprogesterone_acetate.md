@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Medroxyprogesterone a
 <li>apocrine adenosis of breast (99.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/medroxyprogesterone_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/medroxyprogesterone-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

@@ -34,7 +34,7 @@ Esta página combina as indicações previstas por IA para CLOBETASOL PROPIONATE
 <li>amyopathic dermatomyositis (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/clobetasol_propionate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/clobetasol-propionate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

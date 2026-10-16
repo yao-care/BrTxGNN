@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Vitamin A com as not�
 <li>radiation or chemically induced disorder (99.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/vitamin_a/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/vitamin-a/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

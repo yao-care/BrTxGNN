@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para MAGNESIUM CARBONATE c
 <li>duodenal ulcer (disease) (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/magnesium_carbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/magnesium-carbonate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para MAGNESIUM SULFATE com
 <li>treatment-refractory schizophrenia (99.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/magnesium_sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/magnesium-sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

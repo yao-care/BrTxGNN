@@ -31,7 +31,7 @@ Esta página combina as indicações previstas por IA para GLUTAMIC ACID com as 
 <li>gastroparesis (disease) (99.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/glutamic_acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/glutamic-acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

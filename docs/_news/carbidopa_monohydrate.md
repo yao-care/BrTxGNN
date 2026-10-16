@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para CARBIDOPA MONOHYDRATE
 <strong>Informações do medicamento</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/carbidopa_monohydrate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/carbidopa-monohydrate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

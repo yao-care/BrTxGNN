@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para AZITHROMYCIN MONOHYDR
 <strong>Informações do medicamento</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/azithromycin_monohydrate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/azithromycin-monohydrate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

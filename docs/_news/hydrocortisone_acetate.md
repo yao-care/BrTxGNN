@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para HYDROCORTISONE ACETAT
 <li>idiopathic steroid-sensitive nephrotic syndrome (99.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/hydrocortisone_acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/hydrocortisone-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

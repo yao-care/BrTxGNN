@@ -31,7 +31,7 @@ Esta página combina as indicações previstas por IA para ZINC SULFATE com as n
 <li>congenital prothrombin deficiency (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/zinc_sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/zinc-sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

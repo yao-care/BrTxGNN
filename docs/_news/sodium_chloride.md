@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Sodium chloride com a
 <li>fat necrosis of breast (94.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/sodium_chloride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/sodium-chloride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

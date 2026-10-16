@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Centella asiatica com
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (97.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/centella_asiatica/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/centella-asiatica/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

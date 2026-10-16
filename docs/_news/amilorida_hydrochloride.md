@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para AMILORIDA HYDROCHLORI
 <strong>Informações do medicamento</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/amilorida_hydrochloride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/amilorida-hydrochloride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

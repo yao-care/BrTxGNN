@@ -68,7 +68,7 @@ A plataforma integra múltiplas fontes de dados públicas autorizadas para garan
 
 <blockquote class="expert-quote">
 "TxGNN integra um grafo de conhecimento com 17.080 entidades biomédicas, usando redes neurais de grafos para aprender relações complexas entre nós, podendo prever a eficácia potencial de medicamentos para doenças raras."
-<cite>— Huang et al., Nature Medicine (2023)</cite>
+<cite>— Huang et al., Nature Medicine (2024)</cite>
 </blockquote>
 
 ---

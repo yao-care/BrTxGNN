@@ -37,7 +37,7 @@ Esta página combina as indicações previstas por IA para Potassium hydroxide c
 <li>Prinzmetal angina (96.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium_hydroxide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/potassium-hydroxide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

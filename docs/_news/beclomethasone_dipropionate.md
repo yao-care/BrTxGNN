@@ -28,7 +28,7 @@ Esta página combina as indicações previstas por IA para BECLOMETHASONE DIPROP
 <li>atopic eczema (99.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/beclomethasone_dipropionate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/beclomethasone-dipropionate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

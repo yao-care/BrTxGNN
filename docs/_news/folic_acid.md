@@ -28,7 +28,7 @@ Esta página combina as indicações previstas por IA para FOLIC ACID com as not
 <li>biotin metabolic disease (99.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/folic_acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/folic-acid/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (0)

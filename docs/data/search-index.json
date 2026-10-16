@@ -7425,7 +7425,7 @@
     },
     {
       "name": "DEXAMETHASONE ACETATE",
-      "slug": "dexamethasone-acetate",
+      "slug": "dexamethasone_acetate",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -10230,7 +10230,7 @@
     },
     {
       "name": "FLUTICASONE PROPIONATE",
-      "slug": "fluticasone-propionate",
+      "slug": "fluticasone_propionate",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -14839,7 +14839,7 @@
     },
     {
       "name": "MAGNESIUM OXIDE",
-      "slug": "magnesium-oxide",
+      "slug": "magnesium_oxide",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -16266,7 +16266,7 @@
     },
     {
       "name": "MOMETASONE FUROATE",
-      "slug": "mometasone-furoate",
+      "slug": "mometasone_furoate",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -33285,12 +33285,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -33322,7 +33322,7 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
@@ -33332,7 +33332,7 @@
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -34238,7 +34238,7 @@
       "drugs": [
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -34292,12 +34292,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -36215,12 +36215,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -37323,7 +37323,7 @@
       "drugs": [
         {
           "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium-oxide",
+          "slug": "magnesium_oxide",
           "score": 99.0
         }
       ]
@@ -37334,12 +37334,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -37709,12 +37709,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -38079,12 +38079,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -38441,7 +38441,7 @@
       "drugs": [
         {
           "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium-oxide",
+          "slug": "magnesium_oxide",
           "score": 99.0
         }
       ]
@@ -39105,12 +39105,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -40617,12 +40617,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -41551,7 +41551,7 @@
       "drugs": [
         {
           "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium-oxide",
+          "slug": "magnesium_oxide",
           "score": 99.0
         }
       ]
@@ -42669,12 +42669,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -43231,12 +43231,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -43506,12 +43506,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -45341,7 +45341,7 @@
       "drugs": [
         {
           "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium-oxide",
+          "slug": "magnesium_oxide",
           "score": 99.0
         }
       ]
@@ -45493,12 +45493,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -46010,12 +46010,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -46339,7 +46339,7 @@
         },
         {
           "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium-oxide",
+          "slug": "magnesium_oxide",
           "score": 99.0
         }
       ]
@@ -47236,7 +47236,7 @@
       "drugs": [
         {
           "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium-oxide",
+          "slug": "magnesium_oxide",
           "score": 99.0
         }
       ]
@@ -47329,7 +47329,7 @@
       "drugs": [
         {
           "drug": "DEXAMETHASONE ACETATE",
-          "slug": "dexamethasone-acetate",
+          "slug": "dexamethasone_acetate",
           "score": 99.0
         }
       ]
@@ -47953,7 +47953,7 @@
         },
         {
           "drug": "MAGNESIUM OXIDE",
-          "slug": "magnesium-oxide",
+          "slug": "magnesium_oxide",
           "score": 99.0
         }
       ]
@@ -48197,12 +48197,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -48213,12 +48213,12 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -49038,7 +49038,7 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         }
       ]
@@ -50340,12 +50340,12 @@
         },
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -50387,12 +50387,12 @@
         },
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
@@ -52713,7 +52713,7 @@
       "drugs": [
         {
           "drug": "FLUTICASONE PROPIONATE",
-          "slug": "fluticasone-propionate",
+          "slug": "fluticasone_propionate",
           "score": 99.0
         },
         {
@@ -52723,7 +52723,7 @@
         },
         {
           "drug": "MOMETASONE FUROATE",
-          "slug": "mometasone-furoate",
+          "slug": "mometasone_furoate",
           "score": 99.0
         }
       ]
