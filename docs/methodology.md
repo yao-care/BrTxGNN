@@ -136,7 +136,7 @@ O modelo original reporta:
 
 ## Referências
 
-1. Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*. [DOI: 10.1038/s41591-023-02233-x](https://doi.org/10.1038/s41591-023-02233-x)
+1. Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*. [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 2. ANVISA. Dados Abertos de Medicamentos. [dados.anvisa.gov.br](https://dados.anvisa.gov.br/)
 

@@ -149,6 +149,6 @@ E a publicação original do TxGNN:
   author={Huang, Kexin and others},
   journal={Nature Medicine},
   year={2023},
-  doi={10.1038/s41591-023-02233-x}
+  doi={10.1038/s41591-024-03233-x}
 }
 ```

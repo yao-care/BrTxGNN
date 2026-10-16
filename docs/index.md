@@ -63,7 +63,7 @@ A plataforma integra múltiplas fontes de dados públicas autorizadas para garan
 ## Sobre o TxGNN
 
 <p class="key-answer" data-question="O que é TxGNN?">
-<a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> é um modelo de aprendizado profundo desenvolvido pelo Zitnik Lab da Harvard Medical School, publicado na <em>Nature Medicine</em>. É o primeiro modelo fundamental projetado para reposicionamento de medicamentos centrado no clínico.
+<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> é um modelo de aprendizado profundo desenvolvido pelo Zitnik Lab da Harvard Medical School, publicado na <em>Nature Medicine</em>. É o primeiro modelo fundamental projetado para reposicionamento de medicamentos centrado no clínico.
 </p>
 
 <blockquote class="expert-quote">

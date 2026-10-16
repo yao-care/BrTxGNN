@@ -53,7 +53,7 @@ e integração de registros eletrônicos de saúde via SMART on FHIR.
 Este projeto é baseado no seguinte artigo:
 
 > Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
-> [DOI: 10.1038/s41591-023-02233-x](https://doi.org/10.1038/s41591-023-02233-x)
+> [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---
 
@@ -80,7 +80,7 @@ Este projeto é baseado no seguinte artigo:
 ## O que é TxGNN?
 
 <p class="key-answer" data-question="O que é TxGNN?">
-<a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> é um modelo de aprendizado profundo desenvolvido pela equipe do Zitnik Lab da Harvard Medical School, publicado na <em>Nature Medicine</em>, projetado especificamente para prever novas associações entre medicamentos e doenças.
+<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> é um modelo de aprendizado profundo desenvolvido pela equipe do Zitnik Lab da Harvard Medical School, publicado na <em>Nature Medicine</em>, projetado especificamente para prever novas associações entre medicamentos e doenças.
 </p>
 
 <blockquote class="expert-quote">
