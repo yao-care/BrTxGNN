@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 594
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Solifenacin: nova indicação prevista, Doença renal policística tipo 3… (nível de evidência L5). Indicação original: Bexiga hiperativa (overactive bladder)"
 ---
 
 # Solifenacin

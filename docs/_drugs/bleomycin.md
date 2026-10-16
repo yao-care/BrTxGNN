@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 145
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-13
+description: "Bleomycin: nova indicação prevista, Neoplasia da Cauda Equina (Cauda Equina Neoplasm) (nível de evidência L5). Indicação original: Antibióticos antineoplásicos"
 ---
 
 # Bleomycin

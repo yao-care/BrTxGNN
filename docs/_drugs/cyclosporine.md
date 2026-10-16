@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 246
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Cyclosporine: nova indicação prevista, Doença granulomatosa crônica autossômica recessiva (Granulomatous dis… (nível de evidência L4). Indicação original: Outros medicamentos com ação no aparelho vis…"
 ---
 
 # Cyclosporine

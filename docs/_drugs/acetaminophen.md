@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 18
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Acetaminophen: nova indicação prevista, Enxaqueca com aura do tronco encefálico (migraine with brainstem aura) (nível de evidência L4). Indicação original: Analgésicos não narcóticos"
 ---
 
 # Acetaminophen

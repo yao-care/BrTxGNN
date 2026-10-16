@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 531
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-13
+description: "Plerixafor: nova indicação prevista, Mieloma de plasmócitos indolente (indolent plasma cell myeloma) (nível de evidência L5). Indicação original: Mieloma de plasmócitos (plasma cell myeloma)"
 ---
 
 # Plerixafor

@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 154
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Brodalumab: nova indicação prevista, Doença ocular (eye disease) (nível de evidência L4). Indicação original: Imunomodulador"
 ---
 
 # Brodalumab

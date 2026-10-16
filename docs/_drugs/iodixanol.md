@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 370
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Iodixanol: nova indicação prevista, Suscetibilidade à osteoartrite (osteoarthritis susceptibility) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 ---
 
 # Iodixanol

@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 298
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Esomeprazole: nova indicação prevista, Úlcera Duodenal (duodenal ulcer) (nível de evidência L1). Indicação original: Antiulcerosos"
 ---
 
 # Esomeprazole

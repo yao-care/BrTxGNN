@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 175
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Calcipotriol: nova indicação prevista, Queratose seborreica (Seborrheic Keratosis) (nível de evidência L3). Indicação original: Não registrada nos dados da ANVISA compilados para este relatório"
 ---
 
 # Calcipotriol

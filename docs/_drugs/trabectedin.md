@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 648
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-13
+description: "Trabectedin: nova indicação prevista, Carcinoma de mama feminino (female breast carcinoma) (nível de evidência L5). Indicação original: Antineoplásico"
 ---
 
 # Trabectedin

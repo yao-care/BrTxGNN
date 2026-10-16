@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 555
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-13
+description: "Pseudoephedrine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L4). Indicação original: Anti-histamínicos sistêmicos (em associação)"
 ---
 
 # Pseudoephedrine

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Prasugrel: nova indicação prevista, Hipertensão Pulmonar (Pulmonary Hypertension) (nível de evidência L5). Indicação original: Síndrome coronariana aguda (segundo o grafo de conhecimento do TxGNN"
 ---
 
 # Prasugrel

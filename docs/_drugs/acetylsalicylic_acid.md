@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 23
 evidence_level: L3
 indication_count: 9
+last_modified_at: 2026-10-13
+description: "Acetylsalicylic Acid: nova indicação prevista, Enxaqueca com aura do tronco encefálico (Migraine with Brainstem Aura) (nível de evidência L3). Indicação original: Analgésicos (primeiro texto de indic…"
 ---
 
 # Acetylsalicylic Acid

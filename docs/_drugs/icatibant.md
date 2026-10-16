@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 359
 evidence_level: L1
 indication_count: 7
+last_modified_at: 2026-10-13
+description: "Icatibant: nova indicação prevista, Deficiência do inibidor de C1 (C1 inhibitor deficiency) (nível de evidência L1). Indicação original: Outros produtos não enquadrados em classe terapêutica específi…"
 ---
 
 # Icatibant

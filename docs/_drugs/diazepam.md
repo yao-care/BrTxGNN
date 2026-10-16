@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 264
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Diazepam: nova indicação prevista, Insônia (insomnia) (nível de evidência L4). Indicação original: Epilepsia, estado de mal epiléptico, abstinência alcoólica, ansiedade…"
 ---
 
 # Diazepam

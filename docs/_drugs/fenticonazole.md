@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 315
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-13
+description: "Fenticonazole: nova indicação prevista, Vulvovaginite tricomonásica (trichomonal vulvovaginitis) (nível de evidência L4). Indicação original: Antimicóticos para uso tópico"
 ---
 
 # Fenticonazole

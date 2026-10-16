@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 222
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Cilastatin: nova indicação prevista, Infecção por Staphylococcus aureus (staphylococcus aureus infection) (nível de evidência L3). Indicação original: Antibiótico sistêmico (associação medicamentosa)"
 ---
 
 # Cilastatin

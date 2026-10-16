@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 283
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-13
+description: "Efavirenz: nova indicação prevista, Síndrome de imunodeficiência adquirida felina (feline acquired immuno… (nível de evidência L4). Indicação original: Infecção por HIV e AIDS"
 ---
 
 # Efavirenz

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Avelumab: nova indicação prevista, Tumor relacionado ao herpesvírus humano 8 (human herpesvirus 8-relate… (nível de evidência L5). Indicação original: Antineoplásico"
 ---
 
 # Avelumab

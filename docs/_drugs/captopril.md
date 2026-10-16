@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 188
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Captopril: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disea… (nível de evidência L5). Indicação original: Hipertensão arterial e nefropatia diabética (se…"
 ---
 
 # Captopril

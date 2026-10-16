@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 377
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-13
+description: "Isotretinoin: nova indicação prevista, Hipertensão Renovascular Maligna (Malignant Renovascular Hypertension) (nível de evidência L5). Indicação original: Hipertensão / transtorno hipertensivo (confo…"
 ---
 
 # Isotretinoin

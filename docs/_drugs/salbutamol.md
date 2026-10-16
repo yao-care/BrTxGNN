@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 577
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Salbutamol: nova indicação prevista, Conjuntivite Papilar (Papillary Conjunctivitis) (nível de evidência L5). Indicação original: Asma"
 ---
 
 # Salbutamol

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 452
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Methylergometrine: nova indicação prevista, Hipertricose (hypertrichosis) (nível de evidência L5). Indicação original: Ocitócicos não hormonais"
 ---
 
 # Methylergometrine

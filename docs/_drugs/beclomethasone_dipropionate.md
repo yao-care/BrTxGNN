@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 110
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-10-13
+description: "Beclomethasone Dipropionate: nova indicação prevista, Eczema atópico (atopic eczema) (nível de evidência L3). Indicação original: Antiasmáticos"
 ---
 
 # Beclomethasone Dipropionate

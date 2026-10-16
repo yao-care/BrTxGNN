@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 675
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Voxilaprevir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L4). Indicação original: Infecção crônica pelo vírus da hepatite C"
 ---
 
 # Voxilaprevir

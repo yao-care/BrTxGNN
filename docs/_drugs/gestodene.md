@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 340
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Gestodene: nova indicação prevista, Enxaqueca (migraine disorder), primeira posição do ranking (nível de evidência L5). Indicação original: Não informada nos dados de registro (uso conhecido: contrac…"
 ---
 
 # Gestodene

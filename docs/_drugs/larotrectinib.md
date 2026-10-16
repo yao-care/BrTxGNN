@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 392
 evidence_level: L3
 indication_count: 2
+last_modified_at: 2026-10-13
+description: "Larotrectinib: nova indicação prevista, Neoplasia Endócrina Múltipla (Multiple Endocrine Neoplasia) (nível de evidência L3). Indicação original: Agentes antineoplásicos"
 ---
 
 # Larotrectinib

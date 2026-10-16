@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 447
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Metaraminol: nova indicação prevista, Síndrome da Taquicardia Postural Ortostática (Postural Orthostatic Ta… (nível de evidência L5). Indicação original: Distúrbio hipotensivo (hipotensão)"
 ---
 
 # Metaraminol

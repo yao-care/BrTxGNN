@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 525
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Pibrentasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L5). Indicação original: Infecção crônica pelo vírus da hepatite C"
 ---
 
 # Pibrentasvir

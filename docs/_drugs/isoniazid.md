@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 376
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-13
+description: "Isoniazid: nova indicação prevista, Conjuntivite (Conjunctivitis) (nível de evidência L4). Indicação original: Tuberculostáticos (tratamento da tuberculose)"
 ---
 
 # Isoniazid

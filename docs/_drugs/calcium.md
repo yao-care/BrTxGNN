@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Calcium: nova indicação prevista, Doença trombótica (Thrombotic Disease) (nível de evidência L5). Indicação original: Não disponível"
 ---
 
 # Calcium

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 653
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Travoprost: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). Indicação original: Glaucoma de ângulo aberto e hipertensão ocular"
 ---
 
 # Travoprost

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 569
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-13
+description: "Risperidone: nova indicação prevista, Paralisia do olhar horizontal familiar com escoliose progressiva (gaz… (nível de evidência L5). Indicação original: Neurolépticos (antipsicótico)"
 ---
 
 # Risperidone

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-13
+description: "Acarbose: nova indicação prevista, Síndrome do membro rígido focal (Focal Stiff Limb Syndrome) (nível de evidência L5). Indicação original: Diabetes mellitus tipo 2"
 ---
 
 # Acarbose

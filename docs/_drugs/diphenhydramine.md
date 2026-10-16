@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 272
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Diphenhydramine: nova indicação prevista, Conjuntivite da rosácea (rosacea conjunctivitis) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos"
 ---
 
 # Diphenhydramine

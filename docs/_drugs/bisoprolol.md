@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 144
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-13
+description: "Bisoprolol: nova indicação prevista, Doença Renal Hipertensiva Maligna (Malignant Hypertensive Renal Disea… (nível de evidência L5). Indicação original: Hipertensão arterial (transtorno hipertensivo)"
 ---
 
 # Bisoprolol

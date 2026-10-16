@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 397
 evidence_level: L1
 indication_count: 1
+last_modified_at: 2026-10-13
+description: "Lemborexant: nova indicação prevista, Distúrbio do sono… (nível de evidência L1). Indicação original: Hipnóticos e sedativos"
 ---
 
 # Lemborexant

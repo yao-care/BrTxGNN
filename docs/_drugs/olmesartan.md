@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 485
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Olmesartan: nova indicação prevista, Angina de Prinzmetal (Prinzmetal angina) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 ---
 
 # Olmesartan

@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 219
 evidence_level: L3
 indication_count: 9
+last_modified_at: 2026-10-13
+description: "Chloramphenicol: nova indicação prevista, Conjuntivite (Conjunctivitis) (nível de evidência L3). Indicação original: Cicatrizantes"
 ---
 
 # Chloramphenicol

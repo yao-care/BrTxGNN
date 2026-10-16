@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-13
+description: "Enflurane: nova indicação prevista, Transtorno Afetivo Bipolar Maníaco (Manic Bipolar Affective Disorder) (nível de evidência L5). Indicação original: Anestésicos gerais voláteis e gasosos"
 ---
 
 # Enflurane

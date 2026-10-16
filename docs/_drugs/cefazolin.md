@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 204
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Cefazolin: nova indicação prevista, Otite média infecciosa (infectious otitis media) (nível de evidência L4). Indicação original: Pneumonia bacteriana (os textos de indicação aprovados no Brasil não…"
 ---
 
 # Cefazolin

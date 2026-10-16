@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 640
 evidence_level: L1
 indication_count: 3
+last_modified_at: 2026-10-13
+description: "Tioconazole: nova indicação prevista, Vulvovaginite (Vulvovaginitis) (nível de evidência L1). Indicação original: Antimicóticos para uso tópico"
 ---
 
 # Tioconazole

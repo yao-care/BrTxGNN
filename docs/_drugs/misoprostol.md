@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 463
 evidence_level: L4
 indication_count: 2
+last_modified_at: 2026-10-13
+description: "Misoprostol: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L4). Indicação original: Não disponível nos dados compilados"
 ---
 
 # Misoprostol

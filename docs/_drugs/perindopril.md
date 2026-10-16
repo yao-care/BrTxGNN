@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 518
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-13
+description: "Perindopril: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disea… (nível de evidência L4). Indicação original: Anti-hipertensivos"
 ---
 
 # Perindopril

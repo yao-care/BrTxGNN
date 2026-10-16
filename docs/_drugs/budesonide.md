@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 161
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Budesonide: nova indicação prevista, Eczema atópico (Atopic Eczema) (nível de evidência L4). Indicação original: Doença de Crohn, doença inflamatória intestinal…"
 ---
 
 # Budesonide

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Metamizole: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L5). Indicação original: Analgésicos não narcóticos"
 ---
 
 # Metamizole

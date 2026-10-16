@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 266
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Diclofenac: nova indicação prevista, Artrite Idiopática Juvenil (Juvenile Idiopathic Arthritis) – rank 9 d… (nível de evidência L3). Indicação original: Ceratose actínica, artrite reumatoide, osteoar…"
 ---
 
 # Diclofenac

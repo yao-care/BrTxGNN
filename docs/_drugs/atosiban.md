@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Atosiban: nova indicação prevista, Glaucoma hereditário primário (primary hereditary glaucoma) (nível de evidência L5). Indicação original: Outros produtos para uso em ginecologia e obstetrícia"
 ---
 
 # Atosiban

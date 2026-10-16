@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 527
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Piracetam: nova indicação prevista, Osteoartrite (osteoarthritis) (nível de evidência L5). Indicação original: Sem indicação registrada na ANVISA (fora do Brasil: mioclonia…"
 ---
 
 # Piracetam

@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 55
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Aminophylline: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L4). Indicação original: Broncodilatadores"
 ---
 
 # Aminophylline

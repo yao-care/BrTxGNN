@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Metreleptin: nova indicação prevista, Lentiginose generalizada familiar (familial generalized lentiginosis) (nível de evidência L5). Indicação original: Outros produtos para o aparelho digestivo e me…"
 ---
 
 # Metreleptin

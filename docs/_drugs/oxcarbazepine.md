@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 498
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Oxcarbazepine: nova indicação prevista, Epilepsia visual (visual epilepsy) (nível de evidência L4). Indicação original: Anticonvulsivantes"
 ---
 
 # Oxcarbazepine

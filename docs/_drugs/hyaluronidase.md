@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 354
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Hyaluronidase: nova indicação prevista, Retinopatia Diabética (Diabetic Retinopathy) (nível de evidência L1). Indicação original: Glicocorticoides tópicos – associação medicamentosa"
 ---
 
 # Hyaluronidase

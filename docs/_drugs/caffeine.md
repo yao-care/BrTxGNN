@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 172
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Caffeine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Estimulantes respiratórios"
 ---
 
 # Caffeine

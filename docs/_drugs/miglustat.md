@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 459
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Miglustat: nova indicação prevista, Doença de Tay-Sachs (Tay-Sachs disease) (nível de evidência L5). Indicação original: Outros produtos não enquadrados em classe terapêutica específica (cat…"
 ---
 
 # Miglustat

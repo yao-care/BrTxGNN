@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 91
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Atropine: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L4). Indicação original: Antiespasmódicos e anticolinérgicos gastrintestinais"
 ---
 
 # Atropine

@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 326
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-13
+description: "Folic Acid: nova indicação prevista, Doença metabólica da biotina (biotin metabolic disease) (nível de evidência L4). Indicação original: Antianêmicos"
 ---
 
 # Folic Acid

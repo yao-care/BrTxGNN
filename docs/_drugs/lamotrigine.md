@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 388
 evidence_level: L2
 indication_count: 9
+last_modified_at: 2026-10-13
+description: "Lamotrigine: nova indicação prevista, Neuralgia do trigêmeo (Trigeminal Neuralgia) (nível de evidência L2). Indicação original: Anticonvulsivantes"
 ---
 
 # Lamotrigine

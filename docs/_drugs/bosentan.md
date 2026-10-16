@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 147
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-13
+description: "Bosentan: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L4). Indicação original: Anti-hipertensivos"
 ---
 
 # Bosentan

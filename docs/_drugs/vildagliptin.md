@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 669
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Vildagliptin: nova indicação prevista, Síndrome da pessoa rígida clássica (Classic Stiff Person Syndrome) (nível de evidência L5). Indicação original: Diabetes mellitus tipo 2"
 ---
 
 # Vildagliptin

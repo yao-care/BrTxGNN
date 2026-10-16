@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 424
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-13
+description: "Lopinavir: nova indicação prevista, Síndrome da imunodeficiência adquirida felina (Feline Acquired Immuno… (nível de evidência L5). Indicação original: Infecção por HIV e AIDS"
 ---
 
 # Lopinavir

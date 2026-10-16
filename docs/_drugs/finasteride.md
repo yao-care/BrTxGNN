@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-13
+description: "Finasteride: nova indicação prevista, Hipertricose universal congênita tipo Ambras (Ambras type hypertricho… (nível de evidência L5). Indicação original: Inibidor da alfa-redutase"
 ---
 
 # Finasteride

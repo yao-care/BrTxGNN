@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 441
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Melphalan: nova indicação prevista, Tumor de células germinativas gonadal (gonadal germ cell tumor) (nível de evidência L2). Indicação original: Antineoplásicos citotóxicos"
 ---
 
 # Melphalan

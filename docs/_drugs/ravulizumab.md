@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 561
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Ravulizumab: nova indicação prevista, Neutropenia congênita grave autossômica recessiva por deficiência de… (nível de evidência L5). Indicação original: Outros produtos não enquadrados em classe tera…"
 ---
 
 # Ravulizumab

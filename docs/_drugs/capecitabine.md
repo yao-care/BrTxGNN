@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 186
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Capecitabine: nova indicação prevista, Adenocarcinoma Gástrico Tubular (Gastric Tubular Adenocarcinoma) (nível de evidência L1). Indicação original: Outros antineoplásicos"
 ---
 
 # Capecitabine

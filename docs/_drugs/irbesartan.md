@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 373
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Irbesartan: nova indicação prevista, Hipertensão renovascular maligna (Malignant Renovascular Hypertension) (nível de evidência L5). Indicação original: Hipertensão arterial e nefropatia diabética"
 ---
 
 # Irbesartan

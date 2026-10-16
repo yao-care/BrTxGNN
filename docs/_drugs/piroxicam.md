@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 529
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Piroxicam: nova indicação prevista, Síndrome de microftalmia colobomatosa-displasia rizomélica (primeira… (nível de evidência L5). Indicação original: Artrite reumatoide, osteoartrite, artropatia"
 ---
 
 # Piroxicam

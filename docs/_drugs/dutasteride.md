@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 281
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Dutasteride: nova indicação prevista, Hipertricose universal congênita do tipo Ambras (Ambras type hypertri… (nível de evidência L5). Indicação original: Inibidor da alfa-redutase"
 ---
 
 # Dutasteride

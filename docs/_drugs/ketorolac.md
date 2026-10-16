@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 384
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Ketorolac: nova indicação prevista, Cefaleia (Headache Disorder) (nível de evidência L1). Indicação original: Conjuntivite atópica, papilar e primaveril"
 ---
 
 # Ketorolac

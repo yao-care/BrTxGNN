@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 218
 evidence_level: L4
 indication_count: 8
+last_modified_at: 2026-10-13
+description: "Chlorambucil: nova indicação prevista, Leucemia linfocítica crônica/linfoma linfocítico de pequenas células… (nível de evidência L4). Indicação original: Outros antineoplásicos"
 ---
 
 # Chlorambucil

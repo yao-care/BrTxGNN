@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 629
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-13
+description: "Theophylline: nova indicação prevista, Doença trombótica (thrombotic disease) (nível de evidência L5). Indicação original: Broncodilatadores"
 ---
 
 # Theophylline

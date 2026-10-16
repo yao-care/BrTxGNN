@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 474
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Nitrendipine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Anti-hipertensivos simples"
 ---
 
 # Nitrendipine

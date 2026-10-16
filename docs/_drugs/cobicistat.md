@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 239
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-13
+description: "Cobicistat: nova indicação prevista, Síndrome da imunodeficiência adquirida felina (feline acquired immuno… (nível de evidência L5). Indicação original: Associações de antivirais para o tratamento de…"
 ---
 
 # Cobicistat

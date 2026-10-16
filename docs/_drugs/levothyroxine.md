@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 416
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Levothyroxine: nova indicação prevista, Bócio nodular (Nodular Goiter) (nível de evidência L5). Indicação original: Hormônios tireoidianos simples ou associados entre si"
 ---
 
 # Levothyroxine

@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 509
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-13
+description: "Pantoprazole: nova indicação prevista, Doença ulcerosa péptica ativa (Active Peptic Ulcer Disease) (nível de evidência L1). Indicação original: Antiulcerosos"
 ---
 
 # Pantoprazole

@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 414
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-13
+description: "Levonorgestrel: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Osteoporose pós-menopausa / osteoporose"
 ---
 
 # Levonorgestrel

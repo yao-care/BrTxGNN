@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 236
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Clotrimazole: nova indicação prevista, Vulvovaginite (vulvovaginitis) (nível de evidência L1). Indicação original: Antimicóticos para uso tópico"
 ---
 
 # Clotrimazole

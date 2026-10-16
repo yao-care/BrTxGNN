@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 549
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Prilocaine: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L5). Indicação original: Anestésicos locais"
 ---
 
 # Prilocaine

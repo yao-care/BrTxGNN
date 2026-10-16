@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 564
 evidence_level: L4
 indication_count: 2
+last_modified_at: 2026-10-13
+description: "Revefenacin: nova indicação prevista, Bronquite (bronchitis) (nível de evidência L4). Indicação original: Anticolinérgicos"
 ---
 
 # Revefenacin

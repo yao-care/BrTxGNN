@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 168
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Cabazitaxel: nova indicação prevista, Carcinoma de mama feminino (female breast carcinoma) (nível de evidência L4). Indicação original: Não disponível nos registros da ANVISA (na literatura: câncer d…"
 ---
 
 # Cabazitaxel

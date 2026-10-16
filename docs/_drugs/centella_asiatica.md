@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 214
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Centella Asiatica: nova indicação prevista, Insônia (insomnia) (nível de evidência L5). Indicação original: Não há indicação registrada"
 ---
 
 # Centella Asiatica

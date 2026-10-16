@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 514
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Pemetrexed: nova indicação prevista, Mesotelioma Peritoneal Maligno (Malignant Peritoneal Mesothelioma) (nível de evidência L2). Indicação original: Antineoplásico"
 ---
 
 # Pemetrexed

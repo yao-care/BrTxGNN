@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 431
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Magnesium Carbonate: nova indicação prevista, Doença ulcerosa péptica ativa (active peptic ulcer disease) (nível de evidência L4). Indicação original: Analgésicos não narcóticos (primeiro texto de in…"
 ---
 
 # Magnesium Carbonate

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 360
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Idursulfase: nova indicação prevista, Síndrome de ptose-estrabismo-pupilas ectópicas (ptosis-strabismus-ect… (nível de evidência L5). Indicação original: Mucopolissacaridose"
 ---
 
 # Idursulfase

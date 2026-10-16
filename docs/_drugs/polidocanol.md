@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 533
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Polidocanol: nova indicação prevista, Varizes esofágicas com sangramento (esophageal varices with bleeding) (nível de evidência L2). Indicação original: Doença varicosa (varizes)"
 ---
 
 # Polidocanol

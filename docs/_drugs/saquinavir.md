@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 579
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-13
+description: "Saquinavir: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficienc… (nível de evidência L5). Indicação original: HIV (infecção pelo HIV) e AIDS"
 ---
 
 # Saquinavir

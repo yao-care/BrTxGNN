@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 517
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Perampanel: nova indicação prevista, Epilepsia Visual (Visual Epilepsy) (nível de evidência L5). Indicação original: Epilepsia parcial / epilepsia motora parcial"
 ---
 
 # Perampanel

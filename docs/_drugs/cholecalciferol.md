@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 221
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-13
+description: "Cholecalciferol: nova indicação prevista, Hipoparatireoidismo isolado familiar por secreção deficiente de PTH (nível de evidência L5). Indicação original: Vitamina D e análogos"
 ---
 
 # Cholecalciferol

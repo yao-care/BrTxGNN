@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 394
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Latanoprostene Bunod: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). Indicação original: Análogos da prostaglandina"
 ---
 
 # Latanoprostene Bunod

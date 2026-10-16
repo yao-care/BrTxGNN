@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 572
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-13
+description: "Rivastigmine: nova indicação prevista, Glaucoma (glaucoma) (nível de evidência L4). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 ---
 
 # Rivastigmine

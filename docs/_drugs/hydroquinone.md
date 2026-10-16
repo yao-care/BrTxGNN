@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 357
 evidence_level: L4
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Hydroquinone: nova indicação prevista, Ceratose Seborreica (Seborrheic Keratosis) (nível de evidência L4). Indicação original: Desmelanizantes (despigmentantes)"
 ---
 
 # Hydroquinone

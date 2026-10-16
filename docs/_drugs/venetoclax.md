@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 668
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Venetoclax: nova indicação prevista, Leucemia linfocítica crônica/linfoma linfocítico de pequenas células… (nível de evidência L5). Indicação original: Leucemia linfoblástica/linfocítica aguda e sínd…"
 ---
 
 # Venetoclax

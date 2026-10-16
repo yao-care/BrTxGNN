@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 229
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Clioquinol: nova indicação prevista, Candidíase cutânea (Cutaneous Candidiasis) (nível de evidência L4). Indicação original: Tinha dos pés (tinea pedis), tinha do corpo (tinea corporis)…"
 ---
 
 # Clioquinol

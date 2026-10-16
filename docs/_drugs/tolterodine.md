@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 646
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Tolterodine: nova indicação prevista, Bexiga de baixa complacência (low compliance bladder) (nível de evidência L3). Indicação original: Outros produtos com ação no trato urinário"
 ---
 
 # Tolterodine

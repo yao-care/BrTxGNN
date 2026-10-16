@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 526
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-13
+description: "Piperacillin: nova indicação prevista, Artrite Reumatoide (rheumatoid arthritis) (nível de evidência L5). Indicação original: Penicilinas penicilinase-resistentes"
 ---
 
 # Piperacillin

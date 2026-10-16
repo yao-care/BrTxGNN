@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 651
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Trastuzumab: nova indicação prevista, Câncer de mama com receptor de progesterona positivo (progesterone-re… (nível de evidência L1). Indicação original: Carcinoma de mama HER2-positivo (segundo as a…"
 ---
 
 # Trastuzumab

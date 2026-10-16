@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 645
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Tolnaftate: nova indicação prevista, Doença infecciosa ectotrix (ectothrix infectious disease) (nível de evidência L5). Indicação original: Anti-infecciosos tópicos – associações medicamentosas"
 ---
 
 # Tolnaftate

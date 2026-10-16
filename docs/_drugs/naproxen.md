@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 467
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Naproxen: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly synd… (nível de evidência L5). Indicação original: Bursite, artrite reumatoide, espondilite anquilo…"
 ---
 
 # Naproxen

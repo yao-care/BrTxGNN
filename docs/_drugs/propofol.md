@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 554
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Propofol: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L2). Indicação original: Não disponível nos dados de registro da ANVISA (uso conhecido: aneste…"
 ---
 
 # Propofol

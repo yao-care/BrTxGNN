@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 609
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Telmisartan: nova indicação prevista, Oclusão de Artéria Cerebral (Cerebral Artery Occlusion) (nível de evidência L5). Indicação original: Hipertensão arterial (também AVC e infarto cerebral…"
 ---
 
 # Telmisartan

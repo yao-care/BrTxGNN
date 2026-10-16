@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Biperiden: nova indicação prevista, Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). Indicação original: Doença de Parkinson (e síndromes parkinsonianas rel…"
 ---
 
 # Biperiden

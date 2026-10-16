@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 532
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-13
+description: "Polatuzumab Vedotin: nova indicação prevista, Carcinoma de mama HER2-positivo (HER2 positive breast carcinoma) (nível de evidência L5). Indicação original: Antineoplásico"
 ---
 
 # Polatuzumab Vedotin

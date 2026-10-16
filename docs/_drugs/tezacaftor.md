@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 628
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Tezacaftor: nova indicação prevista, Doença infecciosa por HIV (HIV infectious disease) (nível de evidência L5). Indicação original: Fibrose cística"
 ---
 
 # Tezacaftor

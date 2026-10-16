@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 608
 evidence_level: L4
 indication_count: 2
+last_modified_at: 2026-10-13
+description: "Tegaserod: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L4). Indicação original: Outros produtos para o aparelho digestivo e metabolismo"
 ---
 
 # Tegaserod

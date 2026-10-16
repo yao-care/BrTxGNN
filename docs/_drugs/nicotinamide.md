@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 469
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Nicotinamide: nova indicação prevista, Zinco plasmático elevado (zinc, elevated plasma) (nível de evidência L5). Indicação original: Antianêmicos à base de ferro (associações medicamentosas)"
 ---
 
 # Nicotinamide

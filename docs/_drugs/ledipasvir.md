@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 395
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Ledipasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L2). Indicação original: Infecção crônica pelo vírus da hepatite C"
 ---
 
 # Ledipasvir

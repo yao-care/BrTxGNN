@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 203
 evidence_level: L4
 indication_count: 8
+last_modified_at: 2026-10-13
+description: "Cefalotin: nova indicação prevista, Uretrite gonocócica (Gonococcal urethritis) (nível de evidência L4). Indicação original: Cefalosporinas / antibióticos sistêmicos simples"
 ---
 
 # Cefalotin

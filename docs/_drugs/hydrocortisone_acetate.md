@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 356
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Hydrocortisone Acetate: nova indicação prevista, Alopecia areata (Alopecia Areata) (nível de evidência L5). Indicação original: Glicocorticoides tópicos simples, exceto uso oftálmico"
 ---
 
 # Hydrocortisone Acetate

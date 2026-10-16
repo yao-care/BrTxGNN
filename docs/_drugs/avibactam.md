@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 94
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Avibactam: nova indicação prevista, Pneumonia estreptocócica (streptococcal pneumonia) (nível de evidência L5). Indicação original: Pielonefrite (segundo as indicações do grafo de conhecimento TxGNN/…"
 ---
 
 # Avibactam

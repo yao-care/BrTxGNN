@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 292
 evidence_level: L1
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Epinephrine: nova indicação prevista, Doença pulmonar obstrutiva (Obstructive Lung Disease) (nível de evidência L1). Indicação original: Vasoconstritores e hipertensores"
 ---
 
 # Epinephrine

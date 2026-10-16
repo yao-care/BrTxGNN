@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 329
 evidence_level: L4
 indication_count: 2
+last_modified_at: 2026-10-13
+description: "Fremanezumab: nova indicação prevista, Enxaqueca com aura do tronco encefálico (migraine with brainstem aura) (nível de evidência L4). Indicação original: Outros produtos que atuam sobre o sistema ne…"
 ---
 
 # Fremanezumab

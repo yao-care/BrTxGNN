@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 374
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-13
+description: "Iron: nova indicação prevista, Síndrome de Plummer-Vinson (Plummer-Vinson syndrome) (nível de evidência L4). Indicação original: Anemia por deficiência de ferro e outras anemias carenciais (anemia p…"
 ---
 
 # Iron

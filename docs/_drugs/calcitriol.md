@@ -5,6 +5,8 @@ parent: Evidência Alta (L1-L2)
 nav_order: 177
 evidence_level: L2
 indication_count: 7
+last_modified_at: 2026-10-13
+description: "Calcitriol: nova indicação prevista, Raquitismo hipofosfatêmico hereditário (Hereditary Hypophosphatemic R… (nível de evidência L2). Indicação original: Hipercalcemia, nefrocalcinose, distúrbios do m…"
 ---
 
 # Calcitriol

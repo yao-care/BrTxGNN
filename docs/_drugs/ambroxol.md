@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Ambroxol: nova indicação prevista, Doença da Cavidade Nasal (Nasal Cavity Disease) (nível de evidência L5). Indicação original: Faringite (segundo as relações de indicação do grafo de conhecimento…"
 ---
 
 # Ambroxol

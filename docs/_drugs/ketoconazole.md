@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 382
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-13
+description: "Ketoconazole: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Antimicótico"
 ---
 
 # Ketoconazole

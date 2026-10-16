@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 565
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Rifampicin: nova indicação prevista, Conjuntivite (conjunctivitis) (nível de evidência L3). Indicação original: Rifampicinas / Tuberculostáticos"
 ---
 
 # Rifampicin

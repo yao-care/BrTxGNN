@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 293
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-13
+description: "Eplerenone: nova indicação prevista, Hipertensão pulmonar decorrente de doença pulmonar e/ou hipóxia (nível de evidência L4). Indicação original: Outros medicamentos de ação no aparelho cardiovascular"
 ---
 
 # Eplerenone

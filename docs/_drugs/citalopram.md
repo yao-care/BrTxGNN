@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 224
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-13
+description: "Citalopram: nova indicação prevista, Transtorno Obsessivo-Compulsivo (obsessive-compulsive disorder) (nível de evidência L5). Indicação original: Transtorno de ansiedade, transtorno neurótico, transt…"
 ---
 
 # Citalopram

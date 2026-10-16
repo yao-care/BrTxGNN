@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 515
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Pemigatinib: nova indicação prevista, Neoplasia Endócrina Múltipla (Multiple Endocrine Neoplasia) (nível de evidência L5). Indicação original: Outros antineoplásicos"
 ---
 
 # Pemigatinib

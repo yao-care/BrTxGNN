@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 599
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Sulfamethoxazole: nova indicação prevista, Conjuntivite contagiosa aguda (acute contagious conjunctivitis) (nível de evidência L4). Indicação original: Trimetoprima em associação com sulfas"
 ---
 
 # Sulfamethoxazole

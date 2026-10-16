@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 325
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-13
+description: "Fluticasone Furoate: nova indicação prevista, Eczema atópico (atopic eczema) (nível de evidência L5). Indicação original: Glicocorticoides tópicos simples, exceto uso oftálmico"
 ---
 
 # Fluticasone Furoate

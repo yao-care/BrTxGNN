@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Entacapone: nova indicação prevista, Neurodegeneração associada ao PLA2G6 (PLA2G6-associated neurodegenera… (nível de evidência L5). Indicação original: Antiparkinsonianos"
 ---
 
 # Entacapone

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 568
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Risdiplam: nova indicação prevista, Acne (disease) (nível de evidência L5). Indicação original: Não disponível nos dados de registro da ANVISA"
 ---
 
 # Risdiplam

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 597
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Sotatercept: nova indicação prevista, Leucemia Linfoblástica Aguda (acute lymphoblastic leukemia) (nível de evidência L5). Indicação original: Anti-hipertensivos para hipertensão arterial pulmonar"
 ---
 
 # Sotatercept

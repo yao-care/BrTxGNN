@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 159
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-13
+description: "Brompheniramine: nova indicação prevista, Urticária alérgica (allergic urticaria) (nível de evidência L5). Indicação original: Produto para terapia sintomática da gripe (descongestionantes e antia…"
 ---
 
 # Brompheniramine

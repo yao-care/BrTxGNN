@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 320
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-13
+description: "Fludrocortisone: nova indicação prevista, Linfoma cutâneo primário de células T (primary cutaneous T-cell lymph… (nível de evidência L5). Indicação original: Mineralocorticoides"
 ---
 
 # Fludrocortisone

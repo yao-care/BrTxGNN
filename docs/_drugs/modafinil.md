@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 464
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-10-13
+description: "Modafinil: nova indicação prevista, Insônia (insomnia) (nível de evidência L3). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 ---
 
 # Modafinil

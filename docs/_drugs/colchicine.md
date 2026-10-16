@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-13
+description: "Colchicine: nova indicação prevista, Febre Familiar do Mediterrâneo… (nível de evidência L5). Indicação original: Antiinflamatórios antirreumáticos (e antigotosos)"
 ---
 
 # Colchicine

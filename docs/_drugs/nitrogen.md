@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 475
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Nitrogen: nova indicação prevista, Síndrome de microdeleção 16q24.1 (16q24.1 microdeletion syndrome) (nível de evidência L5). Indicação original: Displasia capilar alveolar congênita"
 ---
 
 # Nitrogen

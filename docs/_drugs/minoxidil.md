@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 461
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Minoxidil: nova indicação prevista, Hipotricose simples do couro cabeludo (Hypotrichosis simplex of the s… (nível de evidência L3). Indicação original: Hipertensão arterial e alopecia"
 ---
 
 # Minoxidil

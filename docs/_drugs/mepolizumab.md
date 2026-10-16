@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 443
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-13
+description: "Mepolizumab: nova indicação prevista, Trombocitopenia por destruição imune (thrombocytopenia due to immune… (nível de evidência L4). Indicação original: Outros medicamentos antiasmáticos"
 ---
 
 # Mepolizumab

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 552
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Progesterone: nova indicação prevista, Amenorreia (Amenorrhea) (nível de evidência L5). Indicação original: Progestágenos simples"
 ---
 
 # Progesterone

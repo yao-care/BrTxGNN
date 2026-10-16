@@ -5,6 +5,8 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 570
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-13
+description: "Ritonavir: nova indicação prevista, Infecção por vírus da imunodeficiência símia (Simian Immunodeficiency… (nível de evidência L4). Indicação original: HIV/AIDS e hepatite C crônica"
 ---
 
 # Ritonavir

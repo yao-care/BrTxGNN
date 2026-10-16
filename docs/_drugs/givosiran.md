@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 342
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Givosiran: nova indicação prevista, Esclerose hepatoportal (hepatoportal sclerosis) (nível de evidência L5). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 ---
 
 # Givosiran

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 624
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-13
+description: "Tetracaine: nova indicação prevista, Acrodermatite crônica atrófica (acrodermatitis chronica atrophicans) (nível de evidência L5). Indicação original: Anestésicos locais"
 ---
 
 # Tetracaine

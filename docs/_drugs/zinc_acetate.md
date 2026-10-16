@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Zinc Acetate: nova indicação prevista, Retinopatia diabética não proliferativa grave (severe nonproliferativ… (nível de evidência L5). Indicação original: Soluções que ajustam o balanço eletrolítico"
 ---
 
 # Zinc Acetate

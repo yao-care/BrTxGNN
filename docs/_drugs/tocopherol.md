@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 644
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Tocopherol: nova indicação prevista, Colangite esclerosante (Sclerosing Cholangitis) (nível de evidência L5). Indicação original: Outros produtos com ação na pele e mucosas"
 ---
 
 # Tocopherol

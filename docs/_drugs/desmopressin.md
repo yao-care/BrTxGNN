@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 257
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-13
+description: "Desmopressin: nova indicação prevista, Deficiência congênita de protrombina (congenital prothrombin deficien… (nível de evidência L5). Indicação original: Outros hormônios mediadores e produtos equiv…"
 ---
 
 # Desmopressin

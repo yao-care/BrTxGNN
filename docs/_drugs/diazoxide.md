@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Diazoxide: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the s… (nível de evidência L5). Indicação original: Vasodilatadores"
 ---
 
 # Diazoxide

@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Oxacillin: nova indicação prevista, Epiglotite (Epiglottitis) (nível de evidência L5). Indicação original: Penicilinas resistentes à penicilinase"
 ---
 
 # Oxacillin

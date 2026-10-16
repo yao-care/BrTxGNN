@@ -5,6 +5,8 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Fluocinolone Acetonide: nova indicação prevista, Líquen plano atrófico anular (annular atrophic lichen planus) (nível de evidência L5). Indicação original: Desmelanizantes"
 ---
 
 # Fluocinolone Acetonide
