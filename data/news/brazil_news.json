@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-17T10:17:51.208359+00:00",
-  "total_fetched": 84,
-  "unique_count": 83,
+  "fetched_at": "2026-10-17T15:09:38.389490+00:00",
+  "total_fetched": 88,
+  "unique_count": 86,
   "health_related_count": 42,
   "news": [
+    {
+      "id": "2a8e75cddb65",
+      "title": "Pesquisa revela depressão no clero: os padres escutam, mas não têm quem os escute - Vatican News",
+      "published": "2026-10-17T13:53:27+00:00",
+      "summary": "Pesquisa revela depressão no clero: os padres escutam, mas não têm quem os escute&nbsp;&nbsp;Vatican News",
+      "sources": [
+        {
+          "name": "Vatican News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmdEUEVrbDdsaXhfQkpkdjJtWEJSZ3NkbkY4SjE4OF9jNlBpZGVzSC1ubkZUTUdfM0xKT0llZkJSWUJvdnFJWExKU3psR2hVQk5XdEJwbzFIbGlmYkJkQVhGd2E5bDRDZUZTUGZPek9pYkFETTRBMy03OG5fbFJ1elJEWlpGRUg3WmlnaWlIR2I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7dc7c0f2e1c4",
+      "title": "E se o TDAH não tiver a ver com atenção? - Estadão",
+      "published": "2026-10-17T08:30:00+00:00",
+      "summary": "E se o TDAH não tiver a ver com atenção?&nbsp;&nbsp;EstadãoOutubro reforça a importância do diagnóstico correto do TDAH&nbsp;&nbsp;BoqnewsTDAH não é moda: quem são as crianças dos anos 80 que hoje buscam respostas e ressignificação após o diagnóstico?&nbsp;&nbsp;DeFato OnlineTDAH: o psiquiatra que passou anos com sintomas até descobrir o diagnóstico&nbsp;&nbsp;Estado de MinasMapeamento cerebral e neurofeedback são usados no acompanhamento do TDAH&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjJkVDZKUWlnX1hWeXBHU3NCdjh0Ml9kOTRURHJSdkEwZlhpYUE0ZFdxWWFHUlFtRGpVVW9oMXpuUU9fRmRtcWJVaWFnNEpicjVTUk5IbXZzaVdDQ3NyX25NYUdVeDNNaUFqVUtsaG5FMkRhRUZQUVdMWHlXbW54eUxmNjg2VDZPSjZCbmR5aUhkUTTSAZgBQVVfeXFMTUxCa0FKYlh5ZHdURXdYVGVvTUJHMUVuQ3NTNUhoRm9nUk1rR0ZmNEVSNzViLUNZN3ZXb0tOTlVKcUd1TVdSS1lZaDZuaG1DOC1ZMFYwbXQyT1hfZ2w4b095ZFVKT1RCX001MXdDVnhVcTdjdUZWLWlxOTFWMHlmR3ZwYXpVeDhYYkdJSFlBc285MmtlTlFxVEM?oc=5"
+        }
+      ]
+    },
     {
       "id": "52e7ce581d75",
       "title": "Extrovertido? Grande estudo mostra influência da genética na personalidade - UOL",
@@ -14,6 +38,66 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM3hmQzlNaVF6VDF1LW10bDREY1lySFVhYWpETUNvN0VPcm9EOU5QR1lXd2pwNjZWSDNtWXh3S0xiSU5WdFNILUZxc2hMNDZDSlU2MUNueFQ1ck9uNnB3bTdHeHRGOW9qdDFuNVdraEdqbXB4SU5wR0JYanozOWt4dmloZzBMbWhYd1RPSmFfMl9Ra1ZmSndpbXNubWtUWjZUVDhIWm5PUnF3eFRBVDlRM0VYampESkJ3LWcyNGN4NDkzUVl1Y2w0cmlEV1Btd2FnbFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2bcdccc20d69",
+      "title": "Cérebro da criança que ingere cafeína (incluindo a do refrigerante e do mate) se desenvolve de forma diferente; entenda - O GLOBO",
+      "published": "2026-10-17T07:30:00+00:00",
+      "summary": "Cérebro da criança que ingere cafeína (incluindo a do refrigerante e do mate) se desenvolve de forma diferente; entenda&nbsp;&nbsp;O GLOBOCérebro de crianças que ingerem cafeína se desenvolve de forma diferente&nbsp;&nbsp;MetrópolesEstudo associa cafeína a menos sono e mudanças cerebrais em crianças&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPenJmeS1vdVRSRlMxZk4yTVZYTFJRT0s3RXpmUEExX2N4N1daMFBHTGlFRzlfN1VmN0ZFWS1zaXZGM1F5OEttS1RGOWNueTFOUmRac2N5YVRRZHA0SnhYR3BsdWpFcmFaZ2hsUGJyRnNDRDRBMFhPNWYyVDN1MDZraHBmdFZieWZnVjJ3aExRSVJWZHo3RS1NR3REUF9lbl90X3FMS09sVXVyNndoRE4zYmZ4MjFpX1R0RUhJa2hqSnhkOXkyZHplRWMwaTNJXzdRZ0tSR0xOQXRvc3dHRkxJSjR4c0VRbmVrTzdldXdYaHU2bGtPSWhnN2FqNHFkZmJGaUHSAZACQVVfeXFMTkNVZzZjVDRqMHFscDF5SlQ4aXdXV05zZE5lTVBrWVQ2aUdKTHFQM1hWWXIzWjN3SG1HMHdNcWVqWXRoV2lvLXlVLS1sYnpVbDBMVW9kc2pwTjd5WlZkTVhKNGdQNk9UbGVJaGpZeDY5MVBYb3d5d2U4dXBZbDF4bUNBYmFtNVJoUjhTV2xTdTdJZlhNdWxLUEkzbFFSVU5uYktHRHF0X0hVYXY1ZWZvbmM4NE9zMHNDeTlRNHdkNDVxbWVwMXpxc1VDUWEteDhSR3d6c3RxWDZWQWo4a0NEOFRud1ltNGhCZVhISlFZOTRpbmRVamJQVXhJUlJBT2ZvMV9BRjlrZ2F6aGF3T0duTzg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6e9e6fb1619",
+      "title": "Mortes por doenças cardiovasculares devem aumentar 10,8% no Brasil até 2030 - InfoMoney",
+      "published": "2026-10-17T07:00:00+00:00",
+      "summary": "Mortes por doenças cardiovasculares devem aumentar 10,8% no Brasil até 2030&nbsp;&nbsp;InfoMoneyMortes por doenças cardiovasculares devem aumentar em 10% no Brasil até 2030, estima Sociedade de Cardiologia&nbsp;&nbsp;O GLOBOA cada 72 segundos, uma pessoa morre por doença cardiovascular no país&nbsp;&nbsp;Agência BrasilUma pessoa morreu por doença cardíaca a cada 72 segundos no Brasil em 2026, segundo dados da SBC&nbsp;&nbsp;Bahia NotíciasMS tem a 3ª maior taxa de mortes por doenças cardiovascula",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2NfSVRVcmEyVEFMc2t4Q0t1U0Vsb0lpTXZNbkljZFliVF9SU3dfSmdSSUVBSnMzRlY5YzVJd25welRNRjkwN0xXM2plaGhKMU5tRUI4bFBUQWlPcmk5U016dV9KRmw0X3E1X0JYZ3ZNRDA5UmU2OEdMcXpDdUIwNE9KVjV2WVF0Z0drT2F6T2s5anM4WEZqNm11MFBidXBHZEcyYmtZT0NBZlFvQUHSAbMBQVVfeXFMTTJwNFJZX3JPa2ZFbEE3X2t5SnpvU1RFUzNJckZWUVl1a0VqWG03OFpEdFVBaHltNVBmT3NIdGg2MjA3Z1RzNWZ5Um95c3U0TTB3UGZEcWFJZm9tT095SWZ3RmVldlctTGtSeXNMVUU0TzZfd1d4Z2RCS3poYk0wenVrQzFKZWFSWjFUYnY1WEpxVDBVY2VEMjJNcEtaNHBpdEl3RWxtaUw0SWxNb2MzRGFLb0U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "209cace7f913",
+      "title": "Ora-pro-nóbis realmente é \"a carne dos pobres\"? O que a ciência mostra sobre seu teor de proteína - Tua Saúde",
+      "published": "2026-10-17T05:13:17+00:00",
+      "summary": "Ora-pro-nóbis realmente é \"a carne dos pobres\"? O que a ciência mostra sobre seu teor de proteína&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVGc3SGF0bTMtQzREX1BqUXVVREdEYS1PSzJfOXF2czRRNk9pdWJWRWZ3WnNLYW9UbldrWG13WjctM25uOFZ3bGU2YTFqNTBYZnpURWlGLWxlZ1JOZ1diQkJQWXBPNjlfM3d3NTk1RHY4cXNRZ1I2dE1nNGVrYXdFbk9uWFNteGw2QWE1V0tNZ2c4NWp1T0M0dXU2a1gwR2RZcXdXTDFxRHZiQVFiX1daYjUwcG9TSjZDel9vWEFXQzdUY0lHaElZZXJBd1RsMzVKYWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "590bfcc5e715",
+      "title": "Quando o corpo começa a perder força? Estudo revela detalhes - Terra",
+      "published": "2026-10-17T01:25:00+00:00",
+      "summary": "Quando o corpo começa a perder força? Estudo revela detalhes&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObDhlNnlVYU12b216Q3NzRV9jSjFXelRjUTZiTzBPa0VRaU5NU3hjdHpxZ2tYUExyQ2dCMmJkYUN1NnZPSlZBRXZybkRKckpfM1ZpTGpaYXc3elVVMW9JbEczMmc3YTAzejJIMklSRGRQZmY3SkpQTVVOVUJZN2c1bXVoUGMxd2s4enZaV1lNTFFNaHFQai1ZMk1pMHRMMU94M2FfUGs5WUNiYUprTmV3NkJDZk8yeEszM1lPLXR3LUwyd1Fpc28zeTR1YjFEaWxUWlZ4S0hRVk05ck4w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "de0186d8b0cd",
+      "title": "\"Preciso desse remédio para viver\": jovem com câncer luta por tratamento de alto custo no ES - Folha Vitória",
+      "published": "2026-10-16T23:18:26+00:00",
+      "summary": "\"Preciso desse remédio para viver\": jovem com câncer luta por tratamento de alto custo no ES&nbsp;&nbsp;Folha Vitória",
+      "sources": [
+        {
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmZWQlo4QlRGS1VxcXRYMGwxcmVfVjRWWjZ0SXZ0Nl9qM2NMM3M1aXdSczRJSzNpTDcybjVHU2R0Qi02ME1BU1VjcWtIVFFpTTdRT2Z0dUVoWWZhSzM3UXQtVE1UVkZmcWFGQUY2Q2JQdEF2dEtrdW1RS0V6WjVOY3BEOEZ5UWgybGhoVF95TkhUc2RvRlFPVFBCSUpVOVg2X3VBMFVzeFc5ZXltaWFIZmJjekd3T3E2Tk1sMVVkNXY2MHpNZHJF?oc=5"
         }
       ]
     },
@@ -45,7 +129,7 @@
       "id": "34b308f672f8",
       "title": "Somado a estresse, horário do jantar pode influenciar na saúde intestinal - Folha de S.Paulo",
       "published": "2026-10-16T18:39:00+00:00",
-      "summary": "Somado a estresse, horário do jantar pode influenciar na saúde intestinal&nbsp;&nbsp;Folha de S.PauloComer tarde da noite pode aumentar o risco de doenças hepáticas&nbsp;&nbsp;MetrópolesComer tarde da noite aparece associado a risco 20% a 30% maior de doença no fígado em estudo com quase 200 mil pessoas&nbsp;&nbsp;O POVOUma nova pesquisa alerta que o hábito de comer tarde da noite aumenta o risco de doenças hepáticas.&nbsp;&nbsp;Vietnam.vnDizer 'não' a ​​esse hábito antes de dormir pode reduzir ",
+      "summary": "Somado a estresse, horário do jantar pode influenciar na saúde intestinal&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -57,7 +141,7 @@
       "id": "eff4cb73e18f",
       "title": "Entenda como funciona exame de sangue capaz de detectar 50 tipos de câncer - CNN Brasil",
       "published": "2026-10-16T17:52:08+00:00",
-      "summary": "Entenda como funciona exame de sangue capaz de detectar 50 tipos de câncer&nbsp;&nbsp;CNN BrasilTeste para identificar câncer em estágio inicial chega à clínicas particulares do Rio&nbsp;&nbsp;Diário do RioDiagnóstico oncológico se fortalece com avanço de tecnologias de sequenciamento genético&nbsp;&nbsp;Futuro da SaúdeDetecção precoce do câncer ganha novas possibilidades com avanços na medicina diagnóstica&nbsp;&nbsp;CBDLBiópsia líquida: o exame de sangue que pode transformar a investigação do ",
+      "summary": "Entenda como funciona exame de sangue capaz de detectar 50 tipos de câncer&nbsp;&nbsp;CNN BrasilPrimeiro teste de detecção precoce multicâncer chega ao Brasil&nbsp;&nbsp;niddedigital.comDiagnóstico oncológico se fortalece com avanço de tecnologias de sequenciamento genético&nbsp;&nbsp;Futuro da SaúdeDetecção precoce do câncer ganha novas possibilidades com avanços na medicina diagnóstica&nbsp;&nbsp;CBDLExame de sangue capaz de detectar sinais de mais de 50 tipos de câncer chega ao Brasil&nbsp;&n",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -78,18 +162,6 @@
       ]
     },
     {
-      "id": "8422469e8676",
-      "title": "Estudo de 1960 previu fim do mundo para 13 de novembro de 2026; entenda - Rádio Itatiaia",
-      "published": "2026-10-16T16:44:24+00:00",
-      "summary": "Estudo de 1960 previu fim do mundo para 13 de novembro de 2026; entenda&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMnBXQ0Q4WmlrSEttNGQ5TE5mM0U0emEybTFFc2dKcTlQTmM2RllUdzVxaWdOend4bk45NHpBR2tNajBjZ2dEbHIxRXF3d19wWG9MTVo0cFREeUNWNHF0dDE0VGN1LXFfaVdUMUw2dmM3LTl5OWF0V19PSURrdl9QV2diNEUyZUsxVE1VcVdJY1FNR1ZEU29rdzF4STY2V3hNTHl2UG9JQjQ2QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c837470dc27e",
       "title": "Recuo da \"Geleira do Juízo Final\" pode elevar nível do mar em 3 cm até 2100, aponta estudo - CNN Brasil",
       "published": "2026-10-16T16:28:51+00:00",
@@ -102,38 +174,26 @@
       ]
     },
     {
-      "id": "15c7ca4d18bc",
-      "title": "Você estala o pescoço? Qual o risco por trás do hábito que parece inofensivo - Extra online",
-      "published": "2026-10-16T16:25:18+00:00",
-      "summary": "Você estala o pescoço? Qual o risco por trás do hábito que parece inofensivo&nbsp;&nbsp;Extra online",
+      "id": "1acdb49b6dbd",
+      "title": "Fiocruz promove vacinação para crianças e adultos neste sábado - G1",
+      "published": "2026-10-16T15:45:55+00:00",
+      "summary": "Fiocruz promove vacinação para crianças e adultos neste sábado&nbsp;&nbsp;G1Evento oferece vacinação gratuita com mais de 15 imunizantes em Salvador&nbsp;&nbsp;G1Fiocruz oferece vacinas para crianças e adultos neste sábado&nbsp;&nbsp;Agência BrasilFiocruz pra Você vai oferecer vacinação a crianças e adultos&nbsp;&nbsp;Agência Fiocruz de NotíciasVacinação e atividades recreativas para crianças são realizadas neste sábado (17) em BH&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVo5QjlZUE1LeVQ2S3pxZkFBWEs1UmdOMUVOZHlyUlIxMkUyLVYyd2R1X2V5RXpRdGJtME01X2ZfSXcybWg4dWZjc0Rrc1lmYUdrWm5LX0d2ZEJ1Uk1YSDhQMHJZUC1SdzN3Y2VtNHpQU3ZjU1c1U3NKYTRQTE12aFdjZWV3NVFKN1MwVFhYeHJqSFAtYmNId1U3WnBESXZMUWN2V0s2dll5bmtvakNXaUVzc3ZBTXhjOUFnWl9XejE2QUN5TWfSAdQBQVVfeXFMTlhrd1pzd194czlHYmE2czZac0xmUjdTNWJHel9HSmtxcVo4MXdoLXBRWHVvbkFYTXFtdlJaVEN0dUVvSjV1M1Q4am8yRXZEVndOWC1jUjBXSDczSEU3akFoM3hXSTZPM1NzUkh3UGE0aHVHUXBHMVBxM1AyTmRKWm45QTBDellOMnpIbTFvZDRVNFM1blBSS0FKSXJ5WThRZlRub3RkN1g3Qno1TUpDRWxfRDZ2Qm51UEF0LW1XbUYyLXF2bGhlMHQtMlpvaW5Vd0Jmc1A?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTlxRE84djFxRV9VbzZZaURzYzhsQzg4WUlMQ2NrLW5xMkc2RnE0d1l6NW4xcnIxc0hORWJxVUg0dE85RHV2QmptbGhWNXFLWFJRRWE5bkhMR3lSUGJ1dXhFWHJ0NkljdURnUjVBemlzNXFLbHh6Y0JqQlphMVg1UXpLcl82d0pFZUl6M0lTQml0SUlwWlVkcWVFY2Ruc0d1M29uZFJVX0ZIeFFORllPMzYwWdIBwgFBVV95cUxQeHpWVDR1MW9rbkIwUHZSVHdZbGtVdnJqWFNXSVhXYnUxSE9ETHFLSFU3ODdFWTEyd0FyUFV2V1ZQSDBQYzh2dElKX2g0QzF6dmFJTlpiOThQRVozb3haSmF4QmxiemczRHBWc2s5UXppUGFteFVlTzJrT0poUTNqbXNRMHVsS25SVW5UZTB4ZTBrdDlDMXk3ZVl1TmlwX0lfYWtRSnVvdGZhLXE1anAzRDBmczF6QnJvdHBpaGowZUZuZw?oc=5"
         }
       ]
     },
     {
-      "id": "df4b773701b6",
-      "title": "A cada 72 segundos, uma pessoa morre por doença cardiovascular no país - Agência Brasil",
-      "published": "2026-10-16T14:14:00+00:00",
-      "summary": "A cada 72 segundos, uma pessoa morre por doença cardiovascular no país&nbsp;&nbsp;Agência BrasilMortes por doenças cardiovasculares devem aumentar em 10% no Brasil até 2030, estima Sociedade de Cardiologia&nbsp;&nbsp;O GLOBOUma pessoa morreu de doença cardíaca a cada 72 segundos no Brasil em 2026&nbsp;&nbsp;Folha PEMS tem a 3ª maior taxa de mortes por doenças cardiovasculares&nbsp;&nbsp;Campo Grande NewsMais de 18 mil pessoas morreram por doenças cardiovasculares no Paraná; prevenção é essencial",
+      "id": "716f9cd162e0",
+      "title": "Após caso de raiva em morcego, Jurunas recebe vacinação antirrábica neste sábado, 17 - G1",
+      "published": "2026-10-16T13:07:12+00:00",
+      "summary": "Após caso de raiva em morcego, Jurunas recebe vacinação antirrábica neste sábado, 17&nbsp;&nbsp;G1Belém monitora animais para prevenir casos de raiva&nbsp;&nbsp;G1Belém realiza vacinação antirrábica no Jurunas neste sábado (17)&nbsp;&nbsp;O LiberalEncontrou um morcego? Belém monitora animais para prevenir casos de raiva&nbsp;&nbsp;DOLBelém. A Raiva. O Vírus em Morcegos. A Sesma e o Alerta&nbsp;&nbsp;O Antagônico",
       "sources": [
         {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1VHZTdTb2hEWVdpOXJSTWpfS3hfcWItRU16V2xDZE1nZnl6MXFCcENVSTdrSUN2Q3EtdEM1dDNKejJRSFVmYkhXNVg4OGx3dllxYzFseUhJal9xcXI3Rk5lRXlyWmZEeHJ6OXdaSjlJVHpfSFlmRC02WGZuTDRYbEx4bF9JVUpPSXB2Rm9FWEk1RjBmd2haS0tfZkQtYVhGLUVmc0NIaTJkTEZpT2FWWEx0ZzlQeVB2MmIwMXprQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a5afc4ce412",
-      "title": "Segundo a psicologia, quem gasta o 13º na primeira semana não é descontrolado: o cérebro trata o dinheiro extra como “prêmio” e não como salário - Super Rádio Tupi",
-      "published": "2026-10-16T14:02:07+00:00",
-      "summary": "Segundo a psicologia, quem gasta o 13º na primeira semana não é descontrolado: o cérebro trata o dinheiro extra como “prêmio” e não como salário&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeHdoQUVqNjdEU3hXeGp3c2l1dk0xTFJITXlrS0Uwbl80dnhqY1Qwakk2SHlpLVNkVEZHUWhYRVdPT0xYMDc3WVBibGE2OEVaWHZUVzI1a0ltN0FOelVNUjFYMVNxVmFHeGdkMEVTeEJqOUg5dVdlM3BHYnNTek9nVVFlNUIxdjhsZ1BjdUhRMDM0V3huYnRaMm5nQnVlZGh4ME9Bb1puNWt3d0JCZWpyM051ZlA5NHZrR1pZR3pGdFA1dnFZc28yYm5uYjFBbjFIcm9LRFN2dmJyMVFHUm8zVHVWVHVBeXlSeXNrLUFyN1ROZUU5YUIxclFpVXRNeFMwTlBBZldB?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRERHZ29ranNiMHhkRTVRS1h3Nk44ZlpwTG1Kc0UzUUJqdVhXdERoTUR3ME80bHBQd2VPaHR3dHRsOXloRElXQUV0YVFxWEVDbFdyQnRRaDdPV3E3RURfaVBpU201TG1SX255dmQwRUlVU01QR2hKMTVzSkl6RTBDRzNWUm5VTnRzdHUxSjRZNWhsUkdxRDZnOXRWam9faC1SeWdjSXpUUExoNXRBR01OdTZ1ZzVWeDQxSC1YOVh0NnJQWFZ2RnZmUF9RWjZMZVhkUUHSAeABQVVfeXFMUEd1ekRoRlZkZUttY2pJTVRSQjdOUlp4OGN3OVRCRjBHMUFrVkg4ZGxrX2tBVnV2NGZoNW1fNk14SGdOTmU1T0trVEJYVHg3MzdxWFFiUlNnbTNqUjJ0OGNNLWVMOVIxNGVhUmhNMENRbTlhMURjbWlvU091dks4OS1jZWlWUjRkdGdhUEpjTHhZcU5JTzJuV2ZqUWZ2WmMtbjhzelprSTZ5SmVpVUJLZjVJbUtSSzdwUnJMRzZSRlFGVklRSDU4dDRiTDVJYjd4YmZhX3E2ejZRQ1BDX0pJU3Y?oc=5"
         }
       ]
     },
@@ -141,7 +201,7 @@
       "id": "ca1a201ba960",
       "title": "Creatina pode aumentar músculos sem exercício? Entenda resultados de estudo controverso - Estadão",
       "published": "2026-10-16T13:01:00+00:00",
-      "summary": "Creatina pode aumentar músculos sem exercício? Entenda resultados de estudo controverso&nbsp;&nbsp;EstadãoCreatina não é para todo mundo: entenda quando o uso do suplemento faz sentido&nbsp;&nbsp;GZHCreatina, ômega-3 e B12: todos precisam de suplementos após os 40 anos?&nbsp;&nbsp;MetrópolesCreatina pode aumentar a força muscular até mesmo em pessoas que não praticam exercícios, apontam estudos&nbsp;&nbsp;Repórter Beto RibeiroCreatina não é só para o músculo: o que se sabe sobre memória e cérebr",
+      "summary": "Creatina pode aumentar músculos sem exercício? Entenda resultados de estudo controverso&nbsp;&nbsp;EstadãoCreatina não é para todo mundo: entenda quando o uso do suplemento faz sentido&nbsp;&nbsp;GZHCreatina, ômega-3 e B12: todos precisam de suplementos após os 40 anos?&nbsp;&nbsp;MetrópolesCreatina deixou de ser coisa só de academia e virou tema de especialistas&nbsp;&nbsp;Tua SaúdeCreatina pode aumentar a força muscular até mesmo em pessoas que não praticam exercícios, apontam estudos&nbsp;&nb",
       "sources": [
         {
           "name": "Estadão",
@@ -153,7 +213,7 @@
       "id": "5bdab6c85f11",
       "title": "Exame de sangue para Alzheimer chega ao Brasil por cerca de R$ 3 mil; veja quem pode fazer - Diário do Nordeste",
       "published": "2026-10-16T12:54:31+00:00",
-      "summary": "Exame de sangue para Alzheimer chega ao Brasil por cerca de R$ 3 mil; veja quem pode fazer&nbsp;&nbsp;Diário do NordestePrimeiro exame de sangue para Alzheimer com registro na Anvisa chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela&nbsp;&nbsp;G1Hospital de Porto Alegre é o primeiro do Brasil a oferecer exame de sangue para investigar Alzheimer aprovado pela Anvisa&nbsp;&nbsp;GZHExame para diagnosticar Alzheimer é disponibilizado no Brasil&nbsp;&nbsp;Poder360Coordena",
+      "summary": "Exame de sangue para Alzheimer chega ao Brasil por cerca de R$ 3 mil; veja quem pode fazer&nbsp;&nbsp;Diário do NordestePrimeiro exame de sangue para Alzheimer com registro na Anvisa chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela&nbsp;&nbsp;G1Hospital de Porto Alegre é o primeiro do Brasil a oferecer exame de sangue para investigar Alzheimer aprovado pela Anvisa&nbsp;&nbsp;GZHCoordenação de Comunicação Social » UFPel lidera etapa regional de pesquisa para diagnóst",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -165,7 +225,7 @@
       "id": "f8aef71983b7",
       "title": "Vírus do Nilo Ocidental bate recorde histórico na Europa; entenda a doença - UOL Notícias",
       "published": "2026-10-16T12:12:15+00:00",
-      "summary": "Vírus do Nilo Ocidental bate recorde histórico na Europa; entenda a doença&nbsp;&nbsp;UOL NotíciasVírus do Nilo Ocidental avança na Europa, bate recorde de infecções e deixa 141 mortos em 2026&nbsp;&nbsp;G1Vírus pouco comentado no Brasil quebra recordes de infecções e agora soma mais de 140 mortes no ano&nbsp;&nbsp;www.jornalcruzeiro.com.brVírus transmitido por pernilongos pode causar febre e até inflamação no cérebro: primeiros casos da temporada são identificados na região de Paris&nbsp;&nbsp;",
+      "summary": "Vírus do Nilo Ocidental bate recorde histórico na Europa; entenda a doença&nbsp;&nbsp;UOL NotíciasVírus pouco comentado no Brasil quebra recordes de infecções e agora soma mais de 140 mortes no ano&nbsp;&nbsp;www.jornalcruzeiro.com.brVírus do Nilo Ocidental avança na Europa, bate recorde de infecções e deixa 141 mortos em 2026&nbsp;&nbsp;G1Europa regista pior época de vírus do Nilo Ocidental com casos a avançar para norte&nbsp;&nbsp;Euronews.comVírus transmitido por pernilongos pode causar febre",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -186,18 +246,6 @@
       ]
     },
     {
-      "id": "2a8e75cddb65",
-      "title": "Pesquisa revela depressão no clero: os padres escutam, mas não têm quem os escute - Vatican News",
-      "published": "2026-10-16T11:43:48+00:00",
-      "summary": "Pesquisa revela depressão no clero: os padres escutam, mas não têm quem os escute&nbsp;&nbsp;Vatican News",
-      "sources": [
-        {
-          "name": "Vatican News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmdEUEVrbDdsaXhfQkpkdjJtWEJSZ3NkbkY4SjE4OF9jNlBpZGVzSC1ubkZUTUdfM0xKT0llZkJSWUJvdnFJWExKU3psR2hVQk5XdEJwbzFIbGlmYkJkQVhGd2E5bDRDZUZTUGZPek9pYkFETTRBMy03OG5fbFJ1elJEWlpGRUg3WmlnaWlIR2I?oc=5"
-        }
-      ]
-    },
-    {
       "id": "41792039e813",
       "title": "UFPI tem 5 pesquisadores na lista de cientistas mais influentes do mundo; veja - CidadeVerde.com",
       "published": "2026-10-16T11:34:00+00:00",
@@ -213,7 +261,7 @@
       "id": "cb1fe08cdf1f",
       "title": "Agência de Comunicação - TENA destaca saúde integral e atenção à saúde urinária na menopausa - Estadão Blue Studio",
       "published": "2026-10-16T11:27:49+00:00",
-      "summary": "Agência de Comunicação - TENA destaca saúde integral e atenção à saúde urinária na menopausa&nbsp;&nbsp;Estadão Blue StudioEntenda por que tratamentos faciais podem ter resultados diferentes na menopausa&nbsp;&nbsp;GloboMenopausa muda o corpo e pede atenção à alimentação saudável&nbsp;&nbsp;CidadeVerde.comMenopausa: quando os hormônios mudam e o corpo pede atenção&nbsp;&nbsp;Jornal de BrasíliaMudanças e sintomas da menopausa começam muito antes da última menstruação&nbsp;&nbsp;CNN Brasil",
+      "summary": "Agência de Comunicação - TENA destaca saúde integral e atenção à saúde urinária na menopausa&nbsp;&nbsp;Estadão Blue StudioEntenda por que tratamentos faciais podem ter resultados diferentes na menopausa&nbsp;&nbsp;GloboMenopausa muda o corpo e pede atenção à alimentação saudável&nbsp;&nbsp;CidadeVerde.comDia Mundial da Menopausa reforça a importância de cuidados individualizados para a mulher&nbsp;&nbsp;O TEMPOMenopausa: quando os hormônios mudam e o corpo pede atenção&nbsp;&nbsp;Jornal de Bras",
       "sources": [
         {
           "name": "Estadão Blue Studio",
@@ -246,14 +294,14 @@
       ]
     },
     {
-      "id": "06fd45577829",
-      "title": "Dinossauros e mastodontes: museu no Rio com mais de 250 mil fósseis é gratuito para pesquisadores de todo Brasil - CNN Brasil",
-      "published": "2026-10-16T06:37:26+00:00",
-      "summary": "Dinossauros e mastodontes: museu no Rio com mais de 250 mil fósseis é gratuito para pesquisadores de todo Brasil&nbsp;&nbsp;CNN Brasil",
+      "id": "27bc6ca7dc36",
+      "title": "Estudo de 1960 previu o fim do mundo em 13 de novembro de 2026 - DW.com",
+      "published": "2026-10-16T07:00:48+00:00",
+      "summary": "Estudo de 1960 previu o fim do mundo em 13 de novembro de 2026&nbsp;&nbsp;DW.com",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS2ptSy1RaXl5NXVQbWY5dmRhMG02VWd0Sm5hU2hHaHQ1cjFZUG9USjVqQ19CNFUxTG81WnhJQTRXci1hZEhaYW96d21hcmZTYWNOa0NBdzFTbnpCaVVqS1BFekhUU0xsMVFUdEZFU29pVG50TG9FRTBWQlQyR1hpQ19YR3hvS2twSHlGOW00QVFnMUdVRG0tVDNWeWVIZXI4ZUZMMThIV0JiMzZQWmswYy1yVXIzN2J3ZE04RjMta01iODBKclRBck5fQkxKeUZsLVJaSWdiZzVJQjVLY2pBRUo0RQ?oc=5"
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQW9xdWhHcFMwVFpGdE5yVlcyQlJWSUxJR1BtTTVNUlVXamlaRGd2UEJQcW1qODU0MjdiMWQ3aTh6YVFkbUMzck5ZSndqaG5PWF9xRjdHTzBQNmgzRXNLVENiczFNWlFKbG96OW1aLWhwbDRTNGpsQ0hkMkxjYWNYdnFxSy1oSEF5N2gyNFd4QkRMY3AzbUcwazRWbVZxUkXSAZ8BQVVfeXFMTmNHOTluWXFKLUdGZXNhdUdSUUFUYkRvMnhDZGFmajV2eC1UVWJ6bERxdDBwQnpTT2NCVk1mX201VmJreDJrZHA5YTNJckdVeTRtMVhPVlJ2YkdfWGZ5SHpYN0hCVndkcU5oWi1hM2NNdnNpeTZ0M2d4NmVXMnBKWnp2b2pzU2hiYjJLMjZJd0d2WWNqdjM0RjhKeWs0eG1F?oc=5"
         }
       ]
     },
@@ -285,7 +333,7 @@
       "id": "33d7e9df28dd",
       "title": "Neurologista lista hábitos matinais que podem aumentar o risco de AVC - Metrópoles",
       "published": "2026-10-16T05:00:00+00:00",
-      "summary": "Neurologista lista hábitos matinais que podem aumentar o risco de AVC&nbsp;&nbsp;MetrópolesRessonar de noite duplica risco de hipertensão descontrolada e AVC&nbsp;&nbsp;Para ElesAVC: neurologista alerta para 3 hábitos matinais que exigem atenção&nbsp;&nbsp;DOLNeurologista destaca hábitos matinais que podem aumentar risco de AVC&nbsp;&nbsp;BossaNews BrasilNeurologista destaca hábitos matinais que podem elevar risco de AVC&nbsp;&nbsp;PAIPEE -",
+      "summary": "Neurologista lista hábitos matinais que podem aumentar o risco de AVC&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "Metrópoles",
@@ -297,7 +345,7 @@
       "id": "65b776ba89c0",
       "title": "Morte de macaco em Teixeiras acende possível alerta de febre amarela na microrregião - Folha da Mata",
       "published": "2026-10-16T01:21:00+00:00",
-      "summary": "Morte de macaco em Teixeiras acende possível alerta de febre amarela na microrregião&nbsp;&nbsp;Folha da MataVacina contra febre amarela segue abaixo da meta em Minas Gerais; método é o mais eficaz para a prevenção&nbsp;&nbsp;Portal UAIvacinação contra a febre amarela em Minas Gerais&nbsp;&nbsp;Jornal Panorama MinasVacinação em dia é a principal forma de prevenir a febre amarela, reforça Governo de Minas&nbsp;&nbsp;Guia MuriaéFebre amarela: Minas alerta para vacinação antes do período de maior r",
+      "summary": "Morte de macaco em Teixeiras acende possível alerta de febre amarela na microrregião&nbsp;&nbsp;Folha da MataVacina contra febre amarela segue abaixo da meta em Minas Gerais; método é o mais eficaz para a prevenção&nbsp;&nbsp;Portal UAIMinas investiga quase 70 casos suspeitos de febre amarela e alerta para importância da vacinação&nbsp;&nbsp;Hoje em DiaVacinação em dia é a principal forma de prevenir a febre amarela, reforça Governo de Minas&nbsp;&nbsp;Guia MuriaéSecretaria de Saúde de Minas Ger",
       "sources": [
         {
           "name": "Folha da Mata",
@@ -321,7 +369,7 @@
       "id": "19aa5947187b",
       "title": "Lúcia Helena: Câncer de mama: coisas que nem toda mulher sabe, mas que deveria saber - UOL",
       "published": "2026-10-15T23:19:59+00:00",
-      "summary": "Lúcia Helena: Câncer de mama: coisas que nem toda mulher sabe, mas que deveria saber&nbsp;&nbsp;UOLCâncer de mama: por que cada caso é único&nbsp;&nbsp;Assine AbrilDatafolha: 33% das mulheres querem mais informações sobre câncer de mama&nbsp;&nbsp;BandDesconhecimento sobre prevenção ao câncer de mama cresce no Brasil&nbsp;&nbsp;Tudo Sobre XanxerêES Hoje 15/10: Câncer de mama: eleitas querem reforçar combate&nbsp;&nbsp;Jornal ES HOJE",
+      "summary": "Lúcia Helena: Câncer de mama: coisas que nem toda mulher sabe, mas que deveria saber&nbsp;&nbsp;UOLCâncer de mama: por que cada caso é único&nbsp;&nbsp;Assine AbrilDesconhecimento sobre prevenção ao câncer de mama cresce no Brasil&nbsp;&nbsp;Tudo Sobre Xanxerê35% das mulheres que ganham até um salário mínimo nunca realizaram autoexame&nbsp;&nbsp;viva.com.brUma em cada três mulheres sente falta de informações sobre o câncer de mama, aponta Datafolha&nbsp;&nbsp;Âncora 1",
       "sources": [
         {
           "name": "UOL",
@@ -330,14 +378,14 @@
       ]
     },
     {
-      "id": "40fe57427707",
-      "title": "Sarampo no Amazonas: 17 casos confirmados na tríplice fronteira - G1",
-      "published": "2026-10-15T19:33:33+00:00",
-      "summary": "Sarampo no Amazonas: 17 casos confirmados na tríplice fronteira&nbsp;&nbsp;G1Opas vê risco \"muito alto\" de propagação do sarampo na América do Sul&nbsp;&nbsp;UOL NotíciasPrefeitura de Barra do Garças reforça a vacinação contra tríplice viral no município&nbsp;&nbsp;Araguaia NotíciaAumento do sarampo no Brasil: doença pode levar à morte; entenda riscos&nbsp;&nbsp;CNN BrasilCampo Grande está sem casos de sarampo desde 2020, mas vacinação preocupa – CGNotícias&nbsp;&nbsp;Prefeitura de Campo Grande",
+      "id": "5ac67a1b187a",
+      "title": "Bragança Paulista e USF lançam projeto para preparar a saúde diante das mudanças climáticas - Jornal + Bragança",
+      "published": "2026-10-15T21:35:45+00:00",
+      "summary": "Bragança Paulista e USF lançam projeto para preparar a saúde diante das mudanças climáticas&nbsp;&nbsp;Jornal + Bragança",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWTB4cDVsUDJObC1LdjdLTndpNlItTlBLU2dTLTY4WW13aEdiOEp5eEc2OEJWMnMtT2pkM1JmWGFlcUpXak10emZkYzZtU0JfZHhlVzRMdTlKVjBBd1czeUFOVF9qQTZ4M2ROdlVnQ1FMNEZ1bkpxeHU2YTh5MFhKOWZRZTRRUzNaeUN1dUd2WFpjaFRMa3NPQmdIOVdPT3ZhMGdXZEpYckFKZVIwUm1uUUFDX2tZUGhrbjd4cVRxNFZQREZNaHVVMUhqaWNSNmxE?oc=5"
+          "name": "Jornal + Bragança",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS0FOQ3NPdXk4UlFyRDItdVpaeUJIdGtFeGZTdVhKMi1IaXdGOG9PUkFEcWE2TDU4VGF3UTFjUGFIdjhsNXZvOENKRUJHM1Q3QXF2QlY3NkFTU3BqdThGR3ZNX0xKRmJzLWxBRFhSbG1hME5zZU55bTdFdGJRRlExSGstY0VwUG5uMk1mUmk4MEtrNnNiWmlHM0hMc2k4d0V6bTFVNmMwV2c0U3IzMldTeVJVeUNDc1JnN2c1YktnOGE2WEZNbFpoWUZPajg2di1LZEZr?oc=5"
         }
       ]
     },
@@ -345,7 +393,7 @@
       "id": "372a6803ecae",
       "title": "Nova vacina contra pneumonia e meningite chega aos postos de saúde de Alagoas - TNH1",
       "published": "2026-10-15T18:53:01+00:00",
-      "summary": "Nova vacina contra pneumonia e meningite chega aos postos de saúde de Alagoas&nbsp;&nbsp;TNH1Prefeitura de São José inicia vacinação com Pneumo 20 para idosos 85+&nbsp;&nbsp;G1Uma picada, 21 alvos: a nova vacina contra pneumonia aprovada pela Anvisa&nbsp;&nbsp;VEJAIdosos a partir de 85 anos podem se vacinar contra pneumonia em Fortaleza&nbsp;&nbsp;Diário do NordestePorto Alegre começa a aplicar vacina Pneumo 20 em pessoas acima de 85 anos pelo SUS&nbsp;&nbsp;Sul 21",
+      "summary": "Nova vacina contra pneumonia e meningite chega aos postos de saúde de Alagoas&nbsp;&nbsp;TNH1Uma picada, 21 alvos: a nova vacina contra pneumonia aprovada pela Anvisa&nbsp;&nbsp;VEJAPrefeitura de São José inicia vacinação com Pneumo 20 para idosos 85+&nbsp;&nbsp;G1Prefeitura de Tapejara disponibiliza vacina contra pneumonia e meningite para idosos com 85 anos ou mais&nbsp;&nbsp;Rádio Tapejara FMIdosos a partir de 85 anos podem se vacinar contra pneumonia em Fortaleza&nbsp;&nbsp;Diário do Nordest",
       "sources": [
         {
           "name": "TNH1",
@@ -354,34 +402,10 @@
       ]
     },
     {
-      "id": "3602e79a0fa0",
-      "title": "A viagem até Saturno que terminou com um feito inédito: o primeiro pouso em uma lua do Sistema Solar exterior - Olhar Digital",
-      "published": "2026-10-15T15:54:00+00:00",
-      "summary": "A viagem até Saturno que terminou com um feito inédito: o primeiro pouso em uma lua do Sistema Solar exterior&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX25VSUFodWYya0JWbnZ2YXgxTEpBYXNlTnFBTTVZX0x6U1FpcXhsVnBvamZOdk1lYnowY0ZScmcwdVBvdWl2T1V6NUJoWEg3ajRqYWpZdG94bmh4VHpucGVoMER6SGdUV3dYZEtJZUFuT0FlTEd3eWpjaTRfNURkUkFaY0djMGJOOWNQTlg4SDc4bjNUV1ZOTnJRQW1va293TThYYU9nWExkcUlySVJJTFdCZ2ZhaGh1cUZNbzY5UFBRaGpMNkVlUVRZUGNuZVQ2N01veFcxbzJvdWNNVUFLbVF2OGVjM2MtT2ZzZDRMRjVYTGpBMlN4SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "489d5d1df45b",
-      "title": "Se você conhece alguém que trata mal garçons e atendentes, a psicologia tem um recado para eles - Minha Vida Saúde",
-      "published": "2026-10-15T15:35:05+00:00",
-      "summary": "Se você conhece alguém que trata mal garçons e atendentes, a psicologia tem um recado para eles&nbsp;&nbsp;Minha Vida Saúde",
-      "sources": [
-        {
-          "name": "Minha Vida Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90M3pTZkpWbGN5Z3djbGFvdkJsckJaRTlQYUdaR3UxdWFIaGxPSVN6Y3VldFR2MDdjYlR4LWlMdEFWMGRuRkFwMUZVY0JKbTlWOHIxMURCZmxDOGZnbDFDcdIBZkFVX3lxTE51bEx5cl9ha00xaHZQLWRNLWVBQi12LThNUTNfZHNkMGVya1pyUVpFOXU4RVFCYTZ1eUhmYlVGUTMzb1pFX3VoWjNPQ19admV1bzF1RUlQZUV4eC1WcVFVbFRiZkwzdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "44f0ea4bed03",
       "title": "Segundo cérebro: por que a sua ansiedade e o seu humor moram no intestino? - UOL",
       "published": "2026-10-15T15:00:00+00:00",
-      "summary": "Segundo cérebro: por que a sua ansiedade e o seu humor moram no intestino?&nbsp;&nbsp;UOLEstudo brasileiro revela como bactérias do intestino influenciam o humor e a saúde mental&nbsp;&nbsp;Tua SaúdeIntestino Irritável: médicos explicam ao Dr. Kalil o papel da saúde mental&nbsp;&nbsp;CNN BrasilEstresse não causa câncer, mas explica por que sua barriga dói: o papel do sistema nervoso&nbsp;&nbsp;Правда.РуA bactéria invisível que influencia o humor e as defesas do organismo, segundo especialistas&n",
+      "summary": "Segundo cérebro: por que a sua ansiedade e o seu humor moram no intestino?&nbsp;&nbsp;UOLEstudo brasileiro revela como bactérias do intestino influenciam o humor e a saúde mental&nbsp;&nbsp;Tua SaúdeIntestino Irritável: médicos explicam ao Dr. Kalil o papel da saúde mental&nbsp;&nbsp;CNN BrasilA bactéria invisível que influencia o humor e as defesas do organismo, segundo especialistas&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "UOL",
@@ -414,18 +438,6 @@
       ]
     },
     {
-      "id": "157a504867ee",
-      "title": "Amapá lança edital de R$ 98 mil para premiar pesquisadores, comunicadores e empresas - G1",
-      "published": "2026-10-14T22:59:50+00:00",
-      "summary": "Amapá lança edital de R$ 98 mil para premiar pesquisadores, comunicadores e empresas&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMlBmbUpuTDRPVG5EWGJlV3d5d0o0cWhuWFFNczEtdzF1R1lYVFdVT0NIY2swb09td3NNM0JhZlczM3JhRmtJWUswZ0N6eVhZaFRGOU40d1dlcGV3cWlwVll2cHFIX0lEcDRCel9wXzFTbjEtelVBb0h6TVlBSnJQZ1RTYkpDXzRFS2VjaGNYRmZjcFQzUlRyclozTEV4RU5aNTZtQlBMY1VVMkp4aXJ0VGZCdGtyVTMwVzc2NmFpM2c4bU5YZGdPY2l4NGRBWWhsQS1z0gHiAUFVX3lxTE9hTEh4bENiS1pzS3hDWm9kMmdmZll1VlkzRzBXend5R2JEVkhnQy1NNDBfWjR6T3lwQVl4dWZGeUlVZ1hvZ21oRElHMXBJZjNvNEhWbEN1ZVhhTF9QNUI1MzZtdnhnZ080TXhJZFU5ejNDbVNGYTZlTlNJSWZFYTViVVBhMEQ2SlU5VHM3UHZBaW5ZQUxQOEdneWJqVzFQTzQ2YTNPbzFhOURENHJDUXpTUV9FTm5vczhUQTg1T3R0Z243Tm5sLTMtc3NOaFQ1aDRZTTZDUUlIM1o4UWowc0M5aXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "107cd2120bfe",
       "title": "A impressionante descoberta do naufrágio mais antigo do mundo na costa da Turquia - BBC",
       "published": "2026-10-14T18:02:59+00:00",
@@ -450,26 +462,26 @@
       ]
     },
     {
-      "id": "b6b632ae9a9b",
-      "title": "Estudo comprova alternativa para prevenir bicheira em bezerros recém-nascidos - Giro do Boi - Canal Rural",
-      "published": "2026-10-14T13:30:00+00:00",
-      "summary": "Estudo comprova alternativa para prevenir bicheira em bezerros recém-nascidos&nbsp;&nbsp;Giro do Boi - Canal Rural",
+      "id": "06d83f1db689",
+      "title": "Bem-Estar #372 - Osteoporose, uma epidemia silenciosa. Saiba como identificar e prevenir a doença - G1",
+      "published": "2026-10-14T12:21:54+00:00",
+      "summary": "Bem-Estar #372 - Osteoporose, uma epidemia silenciosa. Saiba como identificar e prevenir a doença&nbsp;&nbsp;G1Perda de altura na vida adulta: quando a mudança pode indicar um problema nos ossos&nbsp;&nbsp;Jornal CorreioOsteoporose pode passar anos sem sintomas e só ser descoberta após uma fratura; veja quem corre mais risco&nbsp;&nbsp;Jornal OpçãoFratura por fragilidade: o sinal que muda uma vida e que Portugal continua a ignorar&nbsp;&nbsp;HealthNewsNo Dia Mundial da Osteoporose, Anápolis terá",
       "sources": [
         {
-          "name": "Giro do Boi - Canal Rural",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUk9JYmc2QjMySldNcUlvVlAwbkRjeUZ3X0FsT2NlRS1CaURiNmN0WV9ZbjdmM3BPYjExSUxwSi1mdUt3M2tBZkRVZXlYZDJZVGppWkg5dTlPdWFpaWh4bUM0Sk5jYXNYM21NRllLMU1MVVJsYUVrbGlNWkJfM0FIZmUyR1pzcTg3UU4xbWpKMF9YU3J2MzZSc0VMVFBnc0dmZVFjRnNaYXlZcnYyVUdhRHRieEJTTjNWdUZhQVA4UnI?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVJrTkZobldlN2FJTWxVZUxvY25vTVFYYm9QSUdJVFp1NG9TVXhEM0R1UG1RQkgtQ2NoeUpsYlhONTVHVUlfMk1nNmQ2MHJBOV9mZjZOZFR0QmZuTkFqUWQyNGY2UDZvN2dCb09zaHlLRGxKRGEtOTNkV0NiT016ZTA3blo3UFR2QU1reUtENGhxTVNKOFpzd3A1U29WQkxSQUU5T3RHY25yYjBreXRKSzNQTjg2eWpLdzFPUWhwT1JGLXpHOHY5TmttRGp0V0c2Z0ZNb1NMZjdybUgteUdfOUhoR2lnWG5mWlkw0gH6AUFVX3lxTFBGNGhyWWRhU3VGaTkwN1NmMXg3TTF5dkQ2WGEzQndLTkQ1V0dHX25ZZnZkV2RDMnNxVV9uVlRLTC1kc1ZhS1lhX3Z4c3lXZFRvZmZiN3JTWWhXTXVIRjllUlY4NGFxSGZtZkZDajlzSHlBdU9wMDctRGJSUHJiZ2thRTVfQVMxN3l0emRFWkVsbDEtLW9MRy14TFdpUDFfSDdUeWVkSWlCOHV5bWhDVVlockhrWkZtZVJDWmUtcWR0VUdFT3RlM0F2dXJiQ1NTZFlMRDV3ODRrUDVWWEM1aDU1bW1ueGc2WjZKUWRyWG0wTmVvUUI2ZEpfUUE?oc=5"
         }
       ]
     },
     {
-      "id": "a641fc2673cf",
-      "title": "Inteli vira ICT e abre frente de pesquisa em computação quântica com a IBM - Exame",
-      "published": "2026-10-14T12:06:09+00:00",
-      "summary": "Inteli vira ICT e abre frente de pesquisa em computação quântica com a IBM&nbsp;&nbsp;Exame",
+      "id": "55f5deb44b31",
+      "title": "Byung-Chul Han, filósofo: “Só se estivermos sempre abertos à dor, seja qual for a sua origem, podemos estar abertos à felicidade” - Minha Vida Saúde",
+      "published": "2026-10-13T19:40:03+00:00",
+      "summary": "Byung-Chul Han, filósofo: “Só se estivermos sempre abertos à dor, seja qual for a sua origem, podemos estar abertos à felicidade”&nbsp;&nbsp;Minha Vida Saúde",
       "sources": [
         {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlhOSnRUMzVRWXM5aVhiMTJFTURXMUpHR0Z5bnVkZUg4UXJNd0NWQ2VyOXZlYW8yM3ZEdU9sbThUak4xNWZVNUNVQkFvV1p6MmVDOVpoWWZ3VWxnX1lELVhXQzJqRzBmemNPejNQRWlBZG0tZGVSZkstRGZyeXdlUkFoN0pJb3BpY1kwMnZfZGxhd0hVcldiSkw0RzF3T20wa01uTw?oc=5"
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4RTFhWEhfeEhNb3lSbEFXUTcwajRxai01d0VJOF9tTkx2T1RWanNHOHJoRHVuN0VHVkNJc3V3QVNmZDFJOVc5blNvNkgtWjMxMUJub3hiYVRsLThPNzRZR9IBZkFVX3lxTE5taHlJWjBVYXdVb2tVdE1JOTZBX0xlT2F3WkFiYmJzMG1YdTNuSURIY2MzX1dsaElxWUpEWDhhSXlaZmRmS2pwQkJrWFdLUFNoV2dFVmV2ZVlyLTNzQW9fQW9LRXdqQQ?oc=5"
         }
       ]
     },
@@ -477,7 +489,7 @@
       "id": "3a5e99210e1e",
       "title": "Os três pilares para conseguir um sono reparador, segundo neurologista - O GLOBO",
       "published": "2026-10-13T07:00:01+00:00",
-      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsDisposição dos móveis no quarto e poluição visual afetam a qualidade do sono&nbsp;&nbsp;Jornal Cruzeiro do SulDorme, mas acorda cansado? 5 hábitos que podem prejudicar seu sono&nbsp;&nbsp;Revista FórumDormir rápido não garante sono reparador: neurologista aponta três pilares que pesam na qualidade da noite&nbsp;&nbsp;O P",
+      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBODormir rápido não garante sono reparador: neurologista aponta três pilares que pesam na qualidade da noite&nbsp;&nbsp;O POVODisposição dos móveis no quarto e poluição visual afetam a qualidade do sono&nbsp;&nbsp;Jornal Cruzeiro do SulCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande News7 hábitos da rotina que podem prejudicar o sono | Viver Bem | Alpha...&nbsp;&nbsp;Alpha ",
       "sources": [
         {
           "name": "O GLOBO",
@@ -494,18 +506,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ySXFSaXB3ZFU3b2RXYXdmMXJRR1ZwaWIxTEVyWUNUNURDSXZqbWtvZ3QwTnNfNUkwRkRJQkt6X1JCcUFFOWoxcTB0QlhWSFBfNVU4a1Mzd1VMYWR2bl94YWlSQdIBaEFVX3lxTE1fWXlIMFkyZ3doVUVfNFJicGpvVGFyT21WMnoxcmZ6UVJNS25KcC1LQ3V1Q3FBaXdaOWRQQ25BZzRjQURzbzZqNklvdnJrWnA0V3ZqY1JLNU5sdkh5ZllreE9NOVhtZDJP?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "84aee29e71ad",
-      "title": "O que é paralisia de Bell, doença diagnosticada em humorista que também já acometeu Fernanda Gentil - O GLOBO",
-      "published": "2026-10-12T07:00:01+00:00",
-      "summary": "O que é paralisia de Bell, doença diagnosticada em humorista que também já acometeu Fernanda Gentil&nbsp;&nbsp;O GLOBOConheça os sinais da paralisia que afetou humorista capixaba&nbsp;&nbsp;Tribuna OnlineRenato Albani revela diagnóstico de paralisia facial e comenta sintomas&nbsp;&nbsp;GPS BrasíliaParalisia facial: por que (e quando) isso acontece? | SEGS Portal Nacional de Seguros, Saúde, Info, Ti,...&nbsp;&nbsp;SEGS Portal NacionalParalisia de Bell: entenda os sintomas e tratamentos da condiçã",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNS14bVVQbmdTcURtS0w1YlhNZFR6ZVM1MlhLM3RpSWtubFBtU0dpTVFCeF9XYUFVa21aNVF3c1BfdEJFdmVYY3BZdmJROGFXZk9LUTBrcVRzZmNXZ25kalhxdFF2anR4bkhyMGd4VlFEVTNIR2NHWXZIckhLUGVZZHpMU05jbFpJamlOXzB6d3g3V2dGcGNZeEwyQWlpdm1ud19ZUkxCc3RJaEFHZlVGLW10VUdzVFRrZ0FUU3RnMUZ2WjNvLXozZ3RWZ2hLQURDQnpkRW1SNFZCbXpNbE1IckRNMGFIcTZoZFHSAfgBQVVfeXFMTl9ISXgwX0NqTEs4YTc2TTBHTEdqZGtKYzdGYXdkUzE1b2JlaVFVanU1X0F2b1pfLWpjM01EWmhjNVFoYk1ZOGFPUHRYS2ZFemw3bmFWazlFTG5VcWtvZ1c3SzB6UkZ0Sm1uSHBRT2NvTkl6WnZwSGhzM1pmWEpuM2JFWHhWRGg3SFhZZGtKQngtUzMza0Z0OGpNbG1mU2tVVlNZTjJxUjVxbXBBTmptQVI0d0FUcFR2cWR1b0x3dExQUjEtRFdXWTJvQVp5RUwyWHpxdWMxb3ZHQ3JKVmJnMnlNelhnUXpwMjJCdGZHMERLUmNfRl9yems?oc=5"
         }
       ]
     }
