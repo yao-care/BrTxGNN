@@ -5,7 +5,7 @@ nav_order: 4
 description: "Lista de medicamentos analisados pelo BrTxGNN para reposicionamento."
 permalink: /drugs/
 ---
-{% assign listed_drugs = site.drugs | where_exp: "d", "d.layout != 'redirect'" | where_exp: "d", "d.noindex != true" %}
+{% assign listed_drugs = site.drugs | where_exp: "d", "d.layout != 'id_redirect'" | where_exp: "d", "d.noindex != true" %}
 
 # Medicamentos Analisados
 
