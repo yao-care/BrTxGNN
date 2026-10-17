@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-13
 description: "Felodipine: nova indicação prevista, Hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hy… (nível de evidência L5). Indicação original: Anti-hipertensivos – associações medicamentosa"
 monitor_inn: "felodipine"
-predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "Prinzmetal angina"]
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "chronic pulmonary heart disease", "Prinzmetal angina"]
 ---
 
 # Felodipine
