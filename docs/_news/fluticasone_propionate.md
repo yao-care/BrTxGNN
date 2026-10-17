@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre FLUTICASONE PROPIONATE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com FLUTICASONE PROPIONATE. Indicação original: . 20 indicações previstas."
+description: "Notícias de saúde relacionadas com FLUTICASONE PROPIONATE. Indicação original: . 0 indicações previstas."
 permalink: /news/fluticasone_propionate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluticasone_propionate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre FLUTICASONE PROPIONATE?">
-<strong>FLUTICASONE PROPIONATE</strong> tem atualmente <strong>0 notícias</strong> e 20 indicações previstas.
+<strong>FLUTICASONE PROPIONATE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ Esta página combina as indicações previstas por IA para FLUTICASONE PROPIONAT
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (20)</strong>:<ul>
-<li>lichen disease | TxGNN Knowledge Graph (99.0%)</li>
-<li>seborrheic dermatitis | TxGNN Knowledge Graph (99.0%)</li>
-<li>neurodermatitis | TxGNN Knowledge Graph (99.0%)</li>
-<li>dermatitis, atopic | TxGNN Knowledge Graph (99.0%)</li>
-<li>vasomotor rhinitis | TxGNN Knowledge Graph (99.0%)</li>
-<li>occupational dermatitis | TxGNN Knowledge Graph (99.0%)</li>
-<li>contact dermatitis | TxGNN Knowledge Graph (99.0%)</li>
-<li>atopic eczema | TxGNN Knowledge Graph (99.0%)</li>
-<li>lupus erythematosus | TxGNN Knowledge Graph (99.0%)</li>
-<li>discoid lupus erythematosus | TxGNN Knowledge Graph (99.0%)</li>
-<li>seborrheic keratosis | TxGNN Knowledge Graph (99.0%)</li>
-<li>chronic cutaneous lupus erythematosus | TxGNN Knowledge Graph (99.0%)</li>
-<li>allergic rhinitis | TxGNN Knowledge Graph (99.0%)</li>
-<li>granuloma annulare | TxGNN Knowledge Graph (99.0%)</li>
-<li>exanthem (disease) | TxGNN Knowledge Graph (99.0%)</li>
-<li>primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph (99.0%)</li>
-<li>primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph (99.0%)</li>
-<li>pulmonary emphysema | TxGNN Knowledge Graph (99.0%)</li>
-<li>allergic asthma | TxGNN Knowledge Graph (99.0%)</li>
-<li>intrinsic asthma | TxGNN Knowledge Graph (99.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+
 </div>
 
 ## Notícias relacionadas (0)

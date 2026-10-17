@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre CICLOPIROX"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CICLOPIROX. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com CICLOPIROX. Indicação original: . 0 indicações previstas."
 permalink: /news/ciclopirox/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ciclopirox/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre CICLOPIROX?">
-<strong>CICLOPIROX</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>CICLOPIROX</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ Esta página combina as indicações previstas por IA para CICLOPIROX com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>tinea corporis | TxGNN Knowledge Graph (99.0%)</li>
-<li>pityriasis versicolor | TxGNN Knowledge Graph (99.0%)</li>
-<li>tinea infection | TxGNN Knowledge Graph (99.0%)</li>
-<li>pityriasis simplex | TxGNN Knowledge Graph (99.0%)</li>
-<li>seborrheic keratosis | TxGNN Knowledge Graph (99.0%)</li>
-<li>tinea unguium | TxGNN Knowledge Graph (99.0%)</li>
-<li>dermatophytosis of groin and perianal area | TxGNN Knowledge Graph (99.0%)</li>
-<li>cutaneous candidiasis | TxGNN Knowledge Graph (99.0%)</li>
-<li>tinea pedis | TxGNN Knowledge Graph (99.0%)</li>
-<li>seborrheic dermatitis | TxGNN Knowledge Graph (99.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+
 </div>
 
 ## Notícias relacionadas (0)

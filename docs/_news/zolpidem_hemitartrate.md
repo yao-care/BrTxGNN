@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para ZOLPIDEM HEMITARTRATE
 <strong>Informações do medicamento</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+
 </div>
 
 ## Notícias relacionadas (0)

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre MAGNESIUM OXIDE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com MAGNESIUM OXIDE. Indicação original: . 7 indicações previstas."
+description: "Notícias de saúde relacionadas com MAGNESIUM OXIDE. Indicação original: . 0 indicações previstas."
 permalink: /news/magnesium_oxide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/magnesium_oxide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre MAGNESIUM OXIDE?">
-<strong>MAGNESIUM OXIDE</strong> tem atualmente <strong>0 notícias</strong> e 7 indicações previstas.
+<strong>MAGNESIUM OXIDE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,8 @@ Esta página combina as indicações previstas por IA para MAGNESIUM OXIDE com a
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (7)</strong>:<ul>
-<li>phosphorus metabolism disease | TxGNN Knowledge Graph (99.0%)</li>
-<li>nephrocalcinosis | TxGNN Knowledge Graph (99.0%)</li>
-<li>postmenopausal osteoporosis | TxGNN Knowledge Graph (99.0%)</li>
-<li>constipation disorder | TxGNN Knowledge Graph (99.0%)</li>
-<li>hypercalcemia disease | TxGNN Knowledge Graph (99.0%)</li>
-<li>dyspepsia | TxGNN Knowledge Graph (99.0%)</li>
-<li>osteoporosis | TxGNN Knowledge Graph (99.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+
 </div>
 
 ## Notícias relacionadas (0)

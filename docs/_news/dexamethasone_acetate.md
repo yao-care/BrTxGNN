@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre DEXAMETHASONE ACETATE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com DEXAMETHASONE ACETATE. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com DEXAMETHASONE ACETATE. Indicação original: . 0 indicações previstas."
 permalink: /news/dexamethasone_acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexamethasone_acetate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre DEXAMETHASONE ACETATE?">
-<strong>DEXAMETHASONE ACETATE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
+<strong>DEXAMETHASONE ACETATE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,8 @@ Esta página combina as indicações previstas por IA para DEXAMETHASONE ACETATE
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Indicações previstas (1)</strong>:<ul>
-<li>plasma cell myeloma | TxGNN Knowledge Graph (99.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+
 </div>
 
 ## Notícias relacionadas (0)
