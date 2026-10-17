@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-13
 description: "Colchicine: nova indicação prevista, Febre Familiar do Mediterrâneo… (nível de evidência L5). Indicação original: Antiinflamatórios antirreumáticos (e antigotosos)"
 monitor_inn: "COLCHICINE"
-predicted_indications: ["Plasmodium falciparum malaria", "familial Mediterranean fever, autosomal dominant", "dermatofibrosarcoma protuberans"]
+predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
 ---
 
 # Colchicine

@@ -7,8 +7,6 @@ evidence_level: L3
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Dexchlorpheniramine: nova indicação prevista, Urticária Alérgica (Allergic Urticaria) (nível de evidência L3). Indicação original: Anti-histamínicos sistêmicos"
-monitor_inn: "DEXCHLORPHENIRAMINE"
-predicted_indications: ["allergic urticaria", "cold urticaria"]
 ---
 
 # Dexchlorpheniramine

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Magnesium Carbonate: nova indicação prevista, Doença ulcerosa péptica ativa (active peptic ulcer disease) (nível de evidência L4). Indicação original: Analgésicos não narcóticos (primeiro texto de in…"
 monitor_inn: "MAGNESIUM CARBONATE"
-predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "gastroduodenitis", "gastric ulcer (disease)", "gastroparesis (disease)", "stomach disease", "duodenal obstruction", "duodenogastric reflux", "duodenal ulcer (disease)"]
+predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "duodenal obstruction"]
 ---
 
 # Magnesium Carbonate

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Paclitaxel: nova indicação prevista, Carcinoma de mama feminino (female breast carcinoma) (nível de evidência L5). Indicação original: Câncer de ovário (e adenocarcinomas ovarianos relacionados)"
 monitor_inn: "Paclitaxel"
-predicted_indications: ["female breast carcinoma", "estrogen-receptor negative breast cancer", "Ehrlich tumor carcinoma", "hormone-resistant breast carcinoma", "estrogen-receptor positive breast cancer", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "nipple carcinoma", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Paclitaxel

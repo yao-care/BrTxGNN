@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Givosiran: nova indicação prevista, Esclerose hepatoportal (hepatoportal sclerosis) (nível de evidência L5). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 monitor_inn: "givosiran"
-predicted_indications: ["hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "porphyria due to ALA dehydratase deficiency", "disorder of phenylalanine metabolism"]
+predicted_indications: ["hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "disorder of phenylalanine metabolism"]
 ---
 
 # Givosiran

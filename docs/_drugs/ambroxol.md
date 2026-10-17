@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Ambroxol: nova indicação prevista, Doença da Cavidade Nasal (Nasal Cavity Disease) (nível de evidência L5). Indicação original: Faringite (segundo as relações de indicação do grafo de conhecimento…"
 monitor_inn: "Ambroxol"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder", "vulvitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "vulvovaginitis"]
+predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder", "vulvitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "vulvovaginitis"]
 ---
 
 # Ambroxol

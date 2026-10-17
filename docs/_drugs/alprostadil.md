@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Alprostadil: nova indicação prevista, Malformação aórtica (Aortic Malformation) (nível de evidência L4). Indicação original: Disfunção erétil, disfunção sexual psicológica (dispareunia)…"
 monitor_inn: "Alprostadil"
-predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "tricuspid valve agenesis", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
+predicted_indications: ["congenital tricuspid stenosis", "congenital valvular dysplasia", "tricuspid valve agenesis", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
 ---
 
 # Alprostadil

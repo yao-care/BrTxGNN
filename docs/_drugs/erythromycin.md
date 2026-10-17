@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Erythromycin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L4). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Erythromycin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome"]
+predicted_indications: ["exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome"]
 ---
 
 # Erythromycin

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Sunitinib: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L2). Indicação original: Agentes antineoplásicos"
 monitor_inn: "sunitinib"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "dermatofibrosarcoma protuberans", "childhood kidney cell carcinoma", "angiolipoma", "renal carcinoma", "heart fibrosarcoma"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
 ---
 
 # Sunitinib

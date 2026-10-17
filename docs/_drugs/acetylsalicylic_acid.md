@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-13
 description: "Acetylsalicylic Acid: nova indicação prevista, Enxaqueca com aura do tronco encefálico (Migraine with Brainstem Aura) (nível de evidência L3). Indicação original: Analgésicos (primeiro texto de indic…"
 monitor_inn: "acetylsalicylic acid"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombotic disease", "thrombophilia"]
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
 ---
 
 # Acetylsalicylic Acid

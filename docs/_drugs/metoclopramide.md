@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-13
 description: "Metoclopramide: nova indicação prevista, Úlcera gástrica (gastric ulcer) (nível de evidência L4). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "METOCLOPRAMIDE"
-predicted_indications: ["gastric ulcer (disease)", "gastroduodenitis", "peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation"]
+predicted_indications: ["gastric ulcer (disease)", "gastroduodenitis", "gastrojejunal ulcer", "peptic ulcer perforation"]
 ---
 
 # Metoclopramide

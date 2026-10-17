@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Esomeprazole: nova indicação prevista, Úlcera Duodenal (duodenal ulcer) (nível de evidência L1). Indicação original: Antiulcerosos"
 monitor_inn: "Esomeprazole"
-predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)", "active peptic ulcer disease", "abnormality of glucagon secretion", "peptic ulcer perforation", "gastrojejunal ulcer", "Smouldering systemic mastocytosis", "multiple endocrine neoplasia", "acne (disease)"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "Smouldering systemic mastocytosis", "multiple endocrine neoplasia", "acne (disease)"]
 ---
 
 # Esomeprazole

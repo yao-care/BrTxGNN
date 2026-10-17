@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Tafamidis: nova indicação prevista, Amiloidose primária (primary amyloidosis) (nível de evidência L1). Indicação original: Amiloidose (incluindo amiloidose AL, AH e ATTRV122I…"
 monitor_inn: "Tafamidis"
-predicted_indications: ["primary release disorder of platelets", "thrombocytopenic purpura", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "primary amyloidosis", "acquired amyloid peripheral neuropathy", "primary hyperoxaluria", "dermis disease", "biotin metabolic disease", "mixed-type autoimmune hemolytic anemia"]
+predicted_indications: ["primary release disorder of platelets", "thrombocytopenic purpura", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "primary hyperoxaluria", "dermis disease", "biotin metabolic disease", "mixed-type autoimmune hemolytic anemia"]
 ---
 
 # Tafamidis

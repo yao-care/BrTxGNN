@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Tazobactam: nova indicação prevista, Pneumonia (pneumonia) (nível de evidência L1). Indicação original: Pneumonia bacteriana"
 monitor_inn: "Tazobactam"
-predicted_indications: ["pneumonia", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "bacterial arthritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "streptococcal pneumonia", "pyelonephritis"]
+predicted_indications: ["urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "bacterial arthritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "pyelonephritis"]
 ---
 
 # Tazobactam

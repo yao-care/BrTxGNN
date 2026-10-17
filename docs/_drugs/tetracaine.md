@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-13
 description: "Tetracaine: nova indicação prevista, Acrodermatite crônica atrófica (acrodermatitis chronica atrophicans) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "TETRACAINE"
-predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
+predicted_indications: ["neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
 ---
 
 # Tetracaine

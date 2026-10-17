@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-13
 description: "Certolizumab Pegol: nova indicação prevista, Vasculite Reumatoide (Rheumatoid Vasculitis) (nível de evidência L4). Indicação original: Anti-inflamatórios"
 monitor_inn: "certolizumab pegol"
-predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease"]
+predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
 ---
 
 # Certolizumab Pegol

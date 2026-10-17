@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-13
 description: "Alteplase: nova indicação prevista, Infarto do miocárdio posterolateral (posterolateral myocardial infarc… (nível de evidência L5). Indicação original: Embolia pulmonar, AVC, infarto do miocárdio, tr…"
 monitor_inn: "ALTEPLASE"
-predicted_indications: ["posterolateral myocardial infarction", "posteroinferior myocardial infarction", "septal myocardial infarction", "heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
+predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
 ---
 
 # Alteplase

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Secnidazole: nova indicação prevista, Corrimento vaginal (vaginal discharge) (nível de evidência L1). Indicação original: Amebicidas, giardicidas e tricomonicidas"
 monitor_inn: "Secnidazole"
-predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "trichomonal vulvovaginitis", "leukoplakia of vagina", "vulvovaginal candidiasis", "herpetic vulvovaginitis", "infective vaginitis", "bullous impetigo"]
+predicted_indications: ["ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "leukoplakia of vagina", "bullous impetigo"]
 ---
 
 # Secnidazole

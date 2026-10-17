@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-13
 description: "Bisoprolol: nova indicação prevista, Doença Renal Hipertensiva Maligna (Malignant Hypertensive Renal Disea… (nível de evidência L5). Indicação original: Hipertensão arterial (transtorno hipertensivo)"
 monitor_inn: "BISOPROLOL"
-predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease"]
 ---
 
 # Bisoprolol

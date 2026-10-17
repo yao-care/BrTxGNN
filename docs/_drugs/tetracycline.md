@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Tetracycline: nova indicação prevista, Ceratoconjuntivite epitelial punctata (Punctate Epithelial Keratoconj… (nível de evidência L4). Indicação original: Classe das tetraciclinas"
 monitor_inn: "Tetracycline"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)", "exposure keratitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa"]
+predicted_indications: ["paranasal sinus neoplasm (disease)", "exposure keratitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa"]
 ---
 
 # Tetracycline

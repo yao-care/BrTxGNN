@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Megestrol Acetate: nova indicação prevista, Carcinoma endometrial do corpo uterino (uterine corpus endometrial ca… (nível de evidência L2). Indicação original: Antineoplásico"
 monitor_inn: "Megestrol acetate"
-predicted_indications: ["uterine corpus endometrial carcinoma", "endometrial transitional cell carcinoma", "hereditary breast ovarian cancer syndrome", "borderline epithelial tumor of ovary", "uterine carcinosarcoma", "placenta cancer", "ovarian clear cell adenocarcinoma", "ovarian cancer", "malignant dysgerminomatous germ cell tumor of ovary", "low-grade neuroendocrine tumor of the corpus uteri"]
+predicted_indications: ["hereditary breast ovarian cancer syndrome", "borderline epithelial tumor of ovary", "uterine carcinosarcoma", "placenta cancer", "ovarian clear cell adenocarcinoma", "ovarian cancer", "malignant dysgerminomatous germ cell tumor of ovary"]
 ---
 
 # Megestrol Acetate

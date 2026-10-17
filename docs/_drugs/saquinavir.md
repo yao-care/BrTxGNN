@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-13
 description: "Saquinavir: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficienc… (nível de evidência L5). Indicação original: HIV (infecção pelo HIV) e AIDS"
 monitor_inn: "SAQUINAVIR"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "AIDS related complex", "congenital human immunodeficiency virus"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 ---
 
 # Saquinavir

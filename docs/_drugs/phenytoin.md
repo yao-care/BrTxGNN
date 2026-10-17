@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Phenytoin: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "PHENYTOIN"
-predicted_indications: ["trigeminal nerve neoplasm", "micturation-induced seizures", "orgasm-induced seizures", "eating seizures", "audiogenic seizures", "startle epilepsy", "thinking seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+predicted_indications: ["trigeminal nerve neoplasm", "micturation-induced seizures", "orgasm-induced seizures", "eating seizures", "audiogenic seizures", "thinking seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenytoin
