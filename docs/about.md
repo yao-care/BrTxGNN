@@ -26,8 +26,7 @@ Visão geral do produto: <https://www.yao.care/medical/txgnn/>.
 
 O próprio modelo TxGNN foi desenvolvido pelo Zitnik Lab da Harvard Medical School e publicado
 na *Nature Medicine*. Esta plataforma é o sistema de produção que a 藥提醒科技有限公司 construiu sobre esse
-modelo, abrangendo a integração de dados nacionais de registro de medicamentos, predição dupla por
-grafo de conhecimento e aprendizado profundo, classificação de evidências do PubMed / ClinicalTrials
+modelo, abrangendo a integração de dados nacionais de registro de medicamentos, predição por aprendizado profundo que exclui os usos já registrados no grafo de conhecimento, classificação de evidências do PubMed / ClinicalTrials
 e integração de registros eletrônicos de saúde via SMART on FHIR.
 
 ---
