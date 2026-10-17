@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Fluorometholone: nova indicação prevista, Vasculite pós-infecciosa (postinfectious vasculitis) (nível de evidência L5). Indicação original: Glicocorticoides tópico oftalmológico simples"
 monitor_inn: "fluorometholone"
-predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
+predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
 ---
 
 # Fluorometholone
@@ -27,7 +27,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

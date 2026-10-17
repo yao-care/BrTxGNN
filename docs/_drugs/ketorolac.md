@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Ketorolac: nova indicação prevista, Cefaleia (Headache Disorder) (nível de evidência L1). Indicação original: Conjuntivite atópica, papilar e primaveril"
 monitor_inn: "Ketorolac"
-predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia", "ulcerative proctosigmoiditis", "nasopharyngitis", "cap polyposis", "cutaneous photosensitivity-lethal colitis syndrome", "undetermined colitis", "allergic urticaria", "viral conjunctivitis"]
+predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "ulcerative proctosigmoiditis", "nasopharyngitis", "cap polyposis", "cutaneous photosensitivity-lethal colitis syndrome", "undetermined colitis", "allergic urticaria"]
 ---
 
 # Ketorolac
@@ -27,7 +27,7 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

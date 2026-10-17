@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Indacaterol: nova indicação prevista, Doença Brônquica (Bronchial Disease) (nível de evidência L1). Indicação original: Não disponível nos dados de registro compilados"
 monitor_inn: "Indacaterol"
-predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
 ---
 
 # Indacaterol
@@ -27,7 +27,7 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

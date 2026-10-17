@@ -7,8 +7,6 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Oxiconazole: nova indicação prevista, Candidíase cutânea (cutaneous candidiasis) (nível de evidência L3). Indicação original: Antimicóticos para uso tópico"
-monitor_inn: "oxiconazole"
-predicted_indications: ["cutaneous candidiasis"]
 ---
 
 # Oxiconazole
@@ -27,7 +25,7 @@ Nível de evidência: **L3** | Indicações previstas: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

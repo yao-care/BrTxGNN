@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-13
 description: "Bupivacaine: nova indicação prevista, Acrodermatite crônica atrófica (Acrodermatitis chronica atrophicans) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "BUPIVACAINE"
-predicted_indications: ["neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
+predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
 ---
 
 # Bupivacaine
@@ -27,7 +27,7 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

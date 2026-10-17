@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-13
 description: "Mepyramine: nova indicação prevista, Urticária alérgica (allergic urticaria) (nível de evidência L4). Indicação original: Descongestionantes nasais tópicos"
 monitor_inn: "mepyramine"
-predicted_indications: ["nasal cavity disease"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 ---
 
 # Mepyramine
@@ -27,7 +27,7 @@ Nível de evidência: **L4** | Indicações previstas: **4**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Levetiracetam: nova indicação prevista, Epilepsia visual (visual epilepsy) (nível de evidência L5). Indicação original: Epilepsia parcial"
 monitor_inn: "LEVETIRACETAM"
-predicted_indications: ["visual epilepsy", "micturation-induced seizures", "startle epilepsy", "thinking seizures", "orgasm-induced seizures", "eating seizures", "audiogenic seizures", "reading seizures", "status epilepticus", "beta-ketothiolase deficiency"]
+predicted_indications: ["beta-ketothiolase deficiency"]
 ---
 
 # Levetiracetam
@@ -27,7 +27,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

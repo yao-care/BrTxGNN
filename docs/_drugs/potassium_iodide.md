@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Potassium Iodide: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L4). Indicação original: Outros produtos não enquadrados em classe terapêutica específic"
 monitor_inn: "Potassium Iodide"
-predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "allergic urticaria", "papillary conjunctivitis", "trigeminal autonomic cephalalgia", "headache disorder", "tracheal disease", "laryngitis"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "cervical disc degenerative disorder", "allergic urticaria", "papillary conjunctivitis", "trigeminal autonomic cephalalgia", "headache disorder", "tracheal disease", "laryngitis"]
 ---
 
 # Potassium Iodide
@@ -27,7 +27,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

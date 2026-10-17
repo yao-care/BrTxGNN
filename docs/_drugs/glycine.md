@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Glycine: nova indicação prevista, Doença da Cavidade Nasal (Nasal Cavity Disease) (nível de evidência L5). Indicação original: Rinite alérgica, rinite vasomotora, faringite, resfriado comum…"
+monitor_inn: "GLYCINE"
+predicted_indications: ["acute laryngopharyngitis"]
 ---
 
 # Glycine
@@ -25,7 +27,7 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

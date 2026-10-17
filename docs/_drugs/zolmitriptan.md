@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-13
 description: "Zolmitriptan: nova indicação prevista, Enxaqueca com aura do tronco encefálico (migraine with brainstem aura) (nível de evidência L4). Indicação original: Analgésicos contra enxaqueca"
 monitor_inn: "zolmitriptan"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Zolmitriptan
@@ -27,7 +27,7 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Miconazole: nova indicação prevista, Acne (acne vulgaris) (nível de evidência L4). Indicação original: Antimicótico"
 monitor_inn: "Miconazole"
-predicted_indications: ["acne (disease)", "gastrin secretion abnormality", "papillary conjunctivitis", "tinea profunda", "Majocchi granuloma", "ectothrix infectious disease", "endothrix infectious disease", "dermatophytosis of scalp or beard", "blastomycosis"]
+predicted_indications: ["acne (disease)", "gastrin secretion abnormality", "papillary conjunctivitis", "Majocchi granuloma", "ectothrix infectious disease", "endothrix infectious disease", "blastomycosis"]
 ---
 
 # Miconazole
@@ -27,7 +27,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

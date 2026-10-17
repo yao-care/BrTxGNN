@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Brimonidine: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L4). Indicação original: Antiglaucomatoso"
 monitor_inn: "Brimonidine"
-predicted_indications: ["papillary conjunctivitis", "primary hereditary glaucoma", "lichen disease", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "lichen planus pigmentosus", "hypertrophic lichen planus", "annular atrophic lichen planus"]
+predicted_indications: ["papillary conjunctivitis", "lichen disease", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "lichen planus pigmentosus", "hypertrophic lichen planus", "annular atrophic lichen planus"]
 ---
 
 # Brimonidine
@@ -27,7 +27,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

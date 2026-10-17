@@ -23,7 +23,7 @@ O BrTxGNN integra múltiplas fontes de dados públicas para garantir a rastreabi
 | **Tipo** | Modelo de previsão de IA |
 | **Fonte** | Zitnik Lab, Harvard Medical School |
 | **Dados** | Grafo de conhecimento biomédico |
-| **Entidades** | 17.080 nós (medicamentos, doenças, genes) |
+| **Doenças no grafo** | 17.080 |
 | **Relações** | ~80.000 arestas |
 | **Link** | [zitniklab.hms.harvard.edu/projects/TxGNN](https://zitniklab.hms.harvard.edu/projects/TxGNN/) |
 

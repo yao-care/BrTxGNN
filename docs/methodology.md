@@ -44,7 +44,7 @@ Mapeamos os princípios ativos da ANVISA para identificadores do DrugBank:
 
 O modelo TxGNN utiliza:
 
-- **Grafo de Conhecimento**: 17.080 entidades biomédicas
+- **Grafo de Conhecimento**: abrange 17.080 doenças
 - **Tipos de Nós**: Medicamentos, doenças, genes, proteínas
 - **Tipos de Arestas**: Interações, indicações, efeitos adversos
 

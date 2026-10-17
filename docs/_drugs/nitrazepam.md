@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-13
 description: "Nitrazepam: nova indicação prevista, Distúrbio do sono… (nível de evidência L4). Indicação original: Insônia"
 monitor_inn: "NITRAZEPAM"
-predicted_indications: ["sleep disorder, initiating and maintaining sleep", "acute encephalopathy with biphasic seizures and late reduced diffusion", "Wernicke-Korsakoff syndrome"]
+predicted_indications: ["sleep disorder, initiating and maintaining sleep", "Wernicke-Korsakoff syndrome"]
 ---
 
 # Nitrazepam
@@ -27,7 +27,7 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

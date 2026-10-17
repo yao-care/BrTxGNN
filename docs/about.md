@@ -83,14 +83,14 @@ Este projeto é baseado no seguinte artigo:
 </p>
 
 <blockquote class="expert-quote">
-"TxGNN integra um grafo de conhecimento com 17.080 entidades biomédicas, usando redes neurais de grafos para aprender relações complexas entre nós, podendo prever a eficácia potencial de medicamentos para doenças raras."
+"TxGNN integra um grafo de conhecimento que abrange 17.080 doenças, usando redes neurais de grafos para aprender relações complexas entre nós, podendo prever a eficácia potencial de medicamentos para doenças raras."
 <cite>— Huang et al., Nature Medicine (2024)</cite>
 </blockquote>
 
 ### Características Técnicas
 
 <ol class="actionable-steps">
-<li><strong>Grafo de Conhecimento</strong>: Integra 17.080 nós incluindo medicamentos, doenças, genes e proteínas</li>
+<li><strong>Grafo de Conhecimento</strong>: Abrange 17.080 doenças, além de medicamentos, genes e proteínas</li>
 <li><strong>Rede Neural de Grafos</strong>: Aprende relações complexas entre nós</li>
 <li><strong>Capacidade de Previsão</strong>: Prevê para quais doenças um medicamento pode ser eficaz</li>
 </ol>

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-13
 description: "Lamotrigine: nova indicação prevista, Neuralgia do trigêmeo (Trigeminal Neuralgia) (nível de evidência L2). Indicação original: Anticonvulsivantes"
 monitor_inn: "LAMOTRIGINE"
-predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "eating seizures", "micturation-induced seizures", "orgasm-induced seizures", "audiogenic seizures", "thinking seizures", "reading seizures"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 ---
 
 # Lamotrigine
@@ -27,7 +27,7 @@ Nível de evidência: **L2** | Indicações previstas: **9**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

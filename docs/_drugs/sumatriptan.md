@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Sumatriptan: nova indicação prevista, Enxaqueca com aura do tronco encefálico (migraine with brainstem aura) (nível de evidência L4). Indicação original: Analgésicos contra enxaqueca"
-monitor_inn: "sumatriptan"
-predicted_indications: ["migraine with brainstem aura"]
 ---
 
 # Sumatriptan
@@ -27,7 +25,7 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

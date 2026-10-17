@@ -25,7 +25,7 @@ Nível de evidência: **L4** | Indicações previstas: **2**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

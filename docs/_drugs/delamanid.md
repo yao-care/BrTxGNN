@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-13
 description: "Delamanid: nova indicação prevista, Tuberculose tipo bovina (tuberculosis… (nível de evidência L5). Indicação original: Outros medicamentos usados no tratamento da tuberculose"
 monitor_inn: "delamanid"
-predicted_indications: ["tuberculosis, bovine", "tuberculoma", "tuberculous ascites", "inactive tuberculosis", "tuberculosis, avian", "allergic urticaria", "cutaneous tuberculosis"]
+predicted_indications: ["allergic urticaria"]
 ---
 
 # Delamanid
@@ -27,7 +27,7 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

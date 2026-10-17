@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Ketoconazole: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Antimicótico"
-monitor_inn: "KETOCONAZOLE"
-predicted_indications: ["acne (disease)"]
 ---
 
 # Ketoconazole
@@ -27,7 +25,7 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

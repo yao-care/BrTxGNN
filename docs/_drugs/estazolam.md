@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Estazolam: nova indicação prevista, Insônia (insomnia) (nível de evidência L5). Indicação original: Não informada nos dados compilados"
 monitor_inn: "Estazolam"
-predicted_indications: ["insomnia (disease)", "visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "startle epilepsy", "orgasm-induced seizures", "audiogenic seizures", "eating seizures", "thinking seizures"]
+predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "startle epilepsy", "orgasm-induced seizures", "audiogenic seizures", "eating seizures", "thinking seizures"]
 ---
 
 # Estazolam
@@ -27,7 +27,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

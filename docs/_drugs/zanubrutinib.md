@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-13
 description: "Zanubrutinib: nova indicação prevista, Leucemia Mieloide (Myeloid Leukemia) (nível de evidência L4). Indicação original: Antineoplásico"
 monitor_inn: "zanubrutinib"
-predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
 ---
 
 # Zanubrutinib
@@ -27,7 +27,7 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

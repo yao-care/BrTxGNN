@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Clioquinol: nova indicação prevista, Candidíase cutânea (Cutaneous Candidiasis) (nível de evidência L4). Indicação original: Tinha dos pés (tinea pedis), tinha do corpo (tinea corporis)…"
 monitor_inn: "Clioquinol"
-predicted_indications: ["cutaneous candidiasis", "ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease", "superficial mycosis", "dermatophytosis of scalp or beard", "tinea profunda", "pityriasis versicolor", "granuloma annulare", "tinea manuum"]
+predicted_indications: ["ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease", "pityriasis versicolor", "granuloma annulare"]
 ---
 
 # Clioquinol
@@ -27,7 +27,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

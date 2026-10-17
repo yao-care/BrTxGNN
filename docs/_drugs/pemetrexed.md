@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Pemetrexed: nova indicação prevista, Mesotelioma Peritoneal Maligno (Malignant Peritoneal Mesothelioma) (nível de evidência L2). Indicação original: Antineoplásico"
 monitor_inn: "pemetrexed"
-predicted_indications: ["pleural adenomatoid tumor", "pleural biphasic mesothelioma", "pericardium cancer", "well differentiated papillary mesothelioma", "lymphohistiocytoid mesothelioma", "iminoglycinuria"]
+predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 ---
 
 # Pemetrexed
@@ -27,7 +27,7 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

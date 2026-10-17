@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Levobunolol: nova indicação prevista, Glaucoma hereditário primário (primary hereditary glaucoma) (nível de evidência L5). Indicação original: Glaucoma de ângulo aberto e hipertensão ocular"
 monitor_inn: "Levobunolol"
-predicted_indications: ["primary hereditary glaucoma", "Axenfeld anomaly", "closed-angle glaucoma", "hydrophthalmos", "chronic tic disorder", "extrapyramidal and movement disease", "benign shuddering attacks"]
+predicted_indications: ["Axenfeld anomaly", "hydrophthalmos", "chronic tic disorder", "extrapyramidal and movement disease", "benign shuddering attacks"]
 ---
 
 # Levobunolol
@@ -27,7 +27,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Oxcarbazepine: nova indicação prevista, Epilepsia visual (visual epilepsy) (nível de evidência L4). Indicação original: Anticonvulsivantes"
 monitor_inn: "OXCARBAZEPINE"
-predicted_indications: ["visual epilepsy", "restless legs syndrome", "micturation-induced seizures", "startle epilepsy", "eating seizures", "audiogenic seizures", "orgasm-induced seizures", "thinking seizures", "status epilepticus", "reading seizures"]
+predicted_indications: ["restless legs syndrome"]
 ---
 
 # Oxcarbazepine
@@ -27,7 +27,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

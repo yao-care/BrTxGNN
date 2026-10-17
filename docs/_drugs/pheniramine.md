@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-13
 description: "Pheniramine: nova indicação prevista, Urticária Alérgica (Allergic Urticaria) (nível de evidência L4). Indicação original: Descongestionantes oftálmicos"
 monitor_inn: "pheniramine"
-predicted_indications: ["nasal cavity disease"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 ---
 
 # Pheniramine
@@ -27,7 +27,7 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 

@@ -77,7 +77,7 @@ SMART on FHIR is an open standard that allows healthcare applications to securel
       <div style="color: #555;">Yao.Care Technology Co., Ltd.</div>
     </div>
   </div>
-  <p style="margin-bottom: 1rem; color: #333;">Query drug repurposing candidates for patient medications using TxGNN knowledge graph predictions.</p>
+  <p style="margin-bottom: 1rem; color: #333;">Query drug repurposing candidates for patient medications using TxGNN deep learning predictions.</p>
   <a href="https://apps.smarthealthit.org/app/brtxgnn-smart-app" target="_blank" style="display: inline-block; padding: 10px 20px; background: #333; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">View on SMART App Gallery ↗</a>
 </div>
 

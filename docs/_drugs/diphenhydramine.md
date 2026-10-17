@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Diphenhydramine: nova indicação prevista, Conjuntivite da rosácea (rosacea conjunctivitis) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos"
 monitor_inn: "Diphenhydramine"
-predicted_indications: ["rosacea conjunctivitis", "allergic urticaria", "cold urticaria", "cauda equina syndrome", "nasopharyngitis", "viral conjunctivitis", "neuralgia", "trigeminal autonomic cephalalgia", "glossodynia"]
+predicted_indications: ["cauda equina syndrome", "nasopharyngitis", "neuralgia", "trigeminal autonomic cephalalgia", "glossodynia"]
 ---
 
 # Diphenhydramine
@@ -27,7 +27,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relatório de avaliação farmacêutica
 
