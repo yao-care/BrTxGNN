@@ -1,10 +1,58 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-18T15:31:56.723406+00:00",
-  "total_fetched": 90,
-  "unique_count": 88,
-  "health_related_count": 34,
+  "fetched_at": "2026-10-18T20:15:05.111836+00:00",
+  "total_fetched": 93,
+  "unique_count": 92,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "3409ee6323f3",
+      "title": "2º turno: Atente à fala de três respeitados médicos - uma sanitarista, um neurocirurgião e um pediatra. VÍDEOS - Viomundo",
+      "published": "2026-10-18T17:08:00+00:00",
+      "summary": "2º turno: Atente à fala de três respeitados médicos - uma sanitarista, um neurocirurgião e um pediatra. VÍDEOS&nbsp;&nbsp;Viomundo",
+      "sources": [
+        {
+          "name": "Viomundo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa3JkVWktd2lVRjh6clBwM3FGT0RubTdEdG9jUHg0YTUtaVlBZFh0dTZSRTZ5ajNEbkVqdU9pb3JUbFFzMl9vd1EyamJEbHc4THpTUlBzSHZWM1JqTzZEQVd5MkZLQ29HREZCZGRsX18yMEh5MFBubGRZdkZ2clpMSlJzZGF4TU5YbHN5SXlvTzVWSVdmUmV4T2c1bklpS2E2X3JXaWQ5clNSbjJrYXplNWJtb2pCTDFHVFlMRlFCUjZlTV9IdGdxWkktT2FGWVNvM3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "39aa84ac8ef6",
+      "title": "Em 2015, astronautas da Estação Espacial Internacional comeram pela primeira vez uma alface plantada e colhida no espaço, um passo para alimentar futuras missões a Marte - Super Rádio Tupi",
+      "published": "2026-10-18T16:40:26+00:00",
+      "summary": "Em 2015, astronautas da Estação Espacial Internacional comeram pela primeira vez uma alface plantada e colhida no espaço, um passo para alimentar futuras missões a Marte&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQOXNxeGdUMkphZGlYNFpRck9MM1RhT211Sko0MkFLWkVyQUJ6SEFNSjZWc3F4Wm1ta2pVc0hCTUJjd1ZRbE4zdnNneDloVDg4cXVEdGN1anY2N0swSGRyWElJYnh3TkNZbXp0Z3Z3dTZoQUVWSjRmU0N6RzdoaTJlQ3NHdHcxUEVlOE8weFFlN0xfTmxqTko4TGZncnY5dDhOWVhQQjhNUjd4bi1ILW1wbXZqTUJneS1jTTBHMjhianlxMGtVNHRxMlNQd2FSSUk1VmQ1bGszcFQxbDF6cXU3bGMyaXFiT2d3THZKeG9KYzJLcVdRbjVnYndUZkk0US1XdmtUT3lma2pvdUJkT0QxVjYtN20yTHF0dEIwQ21rdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "31d625ad53c5",
+      "title": "Cansaço que não passa mesmo após dormir pode ser um sintoma perigoso; entenda - Rádio Itatiaia",
+      "published": "2026-10-18T14:47:26+00:00",
+      "summary": "Cansaço que não passa mesmo após dormir pode ser um sintoma perigoso; entenda&nbsp;&nbsp;Rádio ItatiaiaOs três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOA busca pelo sono perfeito pode estar tirando o seu sono, alerta médica&nbsp;&nbsp;O RegionalCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsA falta de sono aumenta o risco de muitas doenças.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazJ0NGptOTN0VUNNRUo5TXA0aU9UZUR2R3RCOUM2aVNsUTF3LUdOYWlScUhTakszdGN5YURQajlZanRpVVpWZ3BlWWNfUzZpMlRETlNScnh3OFFXbzJaUy0zaVEwWkJydkNXdTExSmtXVXpURUI1YXZKQTNmZjZfSmVuWEJBSC1Vb1NEUkVvbUtISFE1VEFBdFJsVUtBZ1hWamNWMGU3czREYzZpamJrdWFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1668a4456c62",
+      "title": "Mulheres têm mais inteligência emocional do que homens, e isso é um problema, revela estudo - Estadão",
+      "published": "2026-10-18T13:09:00+00:00",
+      "summary": "Mulheres têm mais inteligência emocional do que homens, e isso é um problema, revela estudo&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPckVLQTIyN2gzUml5NHl0WURYNXNYYnV1aXd5bEZsaVYzZGhROGlBd3dLZS1GenBQOS0wYVZzNmozNGJ0R01kTzV2Um54MEpreHgtcnFueFZJQnU3RHJISVRqYmpKbGN6NWJGUnNUYTJjOThTWnJpMl9SN3ZqdjlDbnZHdllyMUNjYWExalVJU0hIS3FRRDk0blE1QWVHaVd6M0g1ZzNnRVJ3T2dwclRqeUZfZ0J4Y0ZDZm45cTJ5Y1hmdGdOZUlXYlk3ZVoyUdIB0wFBVV95cUxNejZBSjZFXzhSMHM3d2hmdkZPbE4yQkcydXRad0dGcnpWWmxQYjAySnFMOHNsMjh6Wkk5dUN0eEk3eUR5QzU5UkV5M3FjTlBycW1KVHp0NnVsaWxjQmFrblNCM29zajFBbzZLWjk3T2hLSkFWMkV1RFlUV1RLd2JMUmFwWl91RkxYUlBkQ2xPQlJ6NjZNN2h2MEZsNGs1UG1CbU1vcThTWlJEVEI1Znhldk9fcHlEdWsyWDkyODRxN0dPMzQ2OGU4ZElBYmNSMGVxeUF3?oc=5"
+        }
+      ]
+    },
     {
       "id": "8a459f5ce036",
       "title": "Corrida de Prevenção ao AVC do HGCA reúne mais de 1.200 participantes em Feira de Santana - Acorda Cidade",
@@ -14,6 +62,18 @@
         {
           "name": "Acorda Cidade",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeTktS2NJLVdwaFRFVGtiUU1GakUtNUowM2hUVkJ2amtLLTY5anpMaEgtRGRMOTBDSGVoa2M0LXdESU5Mb0plRW4wSUhrWVJpT0p1MmJOOXJPZXJKbmhGRTJmUGwweVM5UFlGT0R4THh4d29CaEpqS2dzUlI2WF9WZDJkUElzNVZGMmJ0MTd4Z3VOTHdzYklaS1B2MWxIanhxQ1ZkTmJwMGEwWXE3TzZsQURjMDBKaUlxdGRrWnA3TTBURGRSdjRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58ac2b14f216",
+      "title": "RJ já registrou mais de 15 mil casos de Síndrome Respiratória Aguda Grave em 2026 - G1",
+      "published": "2026-10-18T12:53:18+00:00",
+      "summary": "RJ já registrou mais de 15 mil casos de Síndrome Respiratória Aguda Grave em 2026&nbsp;&nbsp;G1Mato Grosso do Sul registra aumento de casos graves de SRAG por metapneumovírus, aponta Fiocruz&nbsp;&nbsp;MidiamaxRinovírus tem tendência de aumento em Minas, aponta Fiocruz&nbsp;&nbsp;O TEMPORio já registra mais de 15 mil casos de síndrome respiratória grave em 2026; saiba como se proteger&nbsp;&nbsp;Diário do RioAumento de casos graves de Covid-19 perde força no Acre, aponta Fiocruz&nbsp;&nbsp;A Gaz",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTG5TNTRfRXRpeWI1azlPMUhtWHh0SG9Vd003QVNCWURNbnd3aWh2cXhDcTJ6U3ZhSE51dnJzNmxkSWdzY1BaUndqNVI0aTU1aGFRWnlRbXdWalE5TkZ2M1hTU2dhb1lyZFRNcjhESmdmNWM0NElFMWdFZTdBRWU5X1NZbjZBQXBWNWp0ZmNUZDB1MHdFVVF5UjhadGhlUHNzVDlZQWNfNGFTQ25ZZE9nZ1lPNzXSAcMBQVVfeXFMUHNEVndPQXRKWjhQQ3IxRE5zLTZxZ3BuczBRSVFQMGp2NDdLbjBlc3hLbzlZdlVaQTZzdUJPUHlZVzhqWDRvVkliQmgzRVFDX3VHOHotblRXZWRrclJ4ODJ5YXVtcWtoeHpNbUNBaVc2Sm83SHloMzNTbkhJMDh2QnEydFNRZUxRMWtRUVUzdWktQ1FUOFhrczBQUTBXd3FlWXo4WXl3ZzRHOWpxa0gxRnNHamlUeTBrZjV0dHVLR1hzMUpj?oc=5"
         }
       ]
     },
@@ -42,6 +102,18 @@
       ]
     },
     {
+      "id": "4e556ed529cc",
+      "title": "“O tabu adoece mais que a fase em si”: 10 mulheres abrem o jogo sobre a menopausa - Globo",
+      "published": "2026-10-18T07:07:00+00:00",
+      "summary": "“O tabu adoece mais que a fase em si”: 10 mulheres abrem o jogo sobre a menopausa&nbsp;&nbsp;GloboAgência de Comunicação - TENA destaca saúde integral e atenção à saúde urinária na menopausa&nbsp;&nbsp;Estadão Blue StudioMenopausa: veja cuidados que ajudam a aliviar sintomas e preservar a saúde&nbsp;&nbsp;D24AMDia Mundial da Menopausa: 30 milhões de mulheres no Brasil estão neste fase, mas diagnóstico chega a 238 mil&nbsp;&nbsp;Bem ParanáMenopausa exige cuidados com o coração; veja 4 hábitos de ",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONFB6RkVNVXp4ZkxwQkdudEdqZjdsMGxtVERxdjBKdG9hT1dfamlFdWI0VVNLb2R2SFk3ZjFCVUNDOWJrSWZvVjhEbWJCaUNMSlRwdUdZeWwzWWFybHZjVDVib0tMZmM5MklFSy1OY0Y4ZVV3MUxRck53RExCMDVXWGhZbUlfbkl5d0VUTi1pcXlpYzJVNlU0eUdUOUpzS3l3cV9HUmloRFpsTjBLWUFqOFlvckhWWG1aREhCdGU4djBObUdBOHl2OXBESThaVUXSAd4BQVVfeXFMTzBBb3VPWU5YOFBKX1RGaTlVZ1NJTnVqUlhQZFhBcVRSR04zSHZnMnhFQnI0NXpLV09NQW9PQjVqS3ZWOVhwZm1lUmJTU2FhOVpPX0JIWERFUENoLWt0dkpNaWFLY3pqQ1hfRWhLSmwtT1h3T3VPTDk0LUxuSlFLeTJMRnNkQnlmelJRSkVPd19VS2FLWE0zZWozekpmTjVuYTBzOXdib1pBdnBUc0JjMm9DY3Q3MF8yMWxaZENxZk5JeTVpbUZYVjE2dU9FbV90LXBqQjI2ZlctTWkzZ0dB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0dd4abd5996b",
       "title": "Mais exames, mais tratamentos: quando o cuidado passa do limite? - O GLOBO",
       "published": "2026-10-18T07:00:01+00:00",
@@ -57,7 +129,7 @@
       "id": "d2c42fd51110",
       "title": "Estudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos - G1",
       "published": "2026-10-18T07:00:01+00:00",
-      "summary": "Estudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos&nbsp;&nbsp;G1Estudos apontam aumento de casos de câncer entre pessoas com menos de 50 anos&nbsp;&nbsp;Jornal GGNCâncer colorretal: chances de cura são elevadas com diagnóstico precoce&nbsp;&nbsp;Estado de MinasCâncer de Intestino Está entre os Tumores com Maior Potencial de Prevenção&nbsp;&nbsp;Forbes BrasilO câncer colorretal está se tornando mais frequente em pessoas mais jovens: 5 maneiras de reduzir o risco.&nbsp;&n",
+      "summary": "Estudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos&nbsp;&nbsp;G1Câncer colorretal: chances de cura são elevadas com diagnóstico precoce&nbsp;&nbsp;Estado de MinasCâncer de Intestino Está entre os Tumores com Maior Potencial de Prevenção&nbsp;&nbsp;Forbes BrasilNo Outubro Rosa, oncologista alerta para câncer entre jovens e reforça importância da prevenção&nbsp;&nbsp;Rádio IndependenteO câncer colorretal está se tornando mais frequente em pessoas mais jovens: 5 maneiras d",
       "sources": [
         {
           "name": "G1",
@@ -90,6 +162,18 @@
       ]
     },
     {
+      "id": "39694eac72ae",
+      "title": "Queda de cabelo não é tudo igual: diagnóstico define o rumo do tratamento - CNN Brasil",
+      "published": "2026-10-18T03:33:17+00:00",
+      "summary": "Queda de cabelo não é tudo igual: diagnóstico define o rumo do tratamento&nbsp;&nbsp;CNN BrasilSaiba como reconhecer os sinais da alopecia feminina e quando procurar ajuda&nbsp;&nbsp;CartaCapitalQueda de cabelo: Médicos apontam 12 causas que talvez desconheça&nbsp;&nbsp;Notícias ao MinutoFalhas ou fios mais finos? Médica explica como os tipos de alopecia se manifestam&nbsp;&nbsp;O GLOBOSeu cabelo está dando 'red flags'? 7 sinais de que a queda deixou de ser normal&nbsp;&nbsp;Acorda Cidade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVl2UTh5WkV4MjlicWxONmthOFFNempOaXRtd1VhbjM3ZldNREpTWkQ5aWE4cnhOVmx0QlhyTkprdjBlZlpEU1FaUUJVNXE5WnN0R2Q4Rk8yZG9XV2tuSTZfMTFRdUR5aDBmLVJMM01qT2tIZkxjUmt3RXR3S3pmOXF0cWFpLVZkTjV6UGhBdk84TnBfNHI1Y2wtLTg2VFRSRGgzQkcxV2ttMU84?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b3b00d98aa68",
       "title": "Seis frutas podem ajudar a reduzir o risco de câncer; saiba quais - ICL Notícias",
       "published": "2026-10-18T01:30:00+00:00",
@@ -105,7 +189,7 @@
       "id": "b25c42877845",
       "title": "Crianças e adolescentes se exercitam menos e já apresentam pressão alta e excesso de peso - G1",
       "published": "2026-10-18T00:16:30+00:00",
-      "summary": "Crianças e adolescentes se exercitam menos e já apresentam pressão alta e excesso de peso&nbsp;&nbsp;G1Quase 30% das crianças têm pressão alta e sobrepeso no Brasil, diz estudo&nbsp;&nbsp;BandPressão alta atinge três em cada 10 crianças em escolas brasileiras&nbsp;&nbsp;MetrópolesUm estudo da Sociedade Brasileira de Cardiologia mostra que crianças e adolescentes estão cada vez mais sedentário&nbsp;&nbsp;G1Quase 30% de crianças e adolescentes têm hipertensão, diz pesquisa&nbsp;&nbsp;Correio de Ca",
+      "summary": "Crianças e adolescentes se exercitam menos e já apresentam pressão alta e excesso de peso&nbsp;&nbsp;G1Quase 30% das crianças têm pressão alta e sobrepeso no Brasil, diz estudo&nbsp;&nbsp;BandQuase 3 em cada 10 crianças avaliadas em escolas brasileiras apresentaram um sinal preocupante, e os pesquisadores chamam a atenção para o que isso revela&nbsp;&nbsp;Tribuna de MinasUm estudo da Sociedade Brasileira de Cardiologia mostra que crianças e adolescentes estão cada vez mais sedentário&nbsp;&nbsp;",
       "sources": [
         {
           "name": "G1",
@@ -117,23 +201,11 @@
       "id": "9431e7c6efb5",
       "title": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública - G1",
       "published": "2026-10-17T23:58:14+00:00",
-      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G117 de outubro é o Dia Nacional da Vacinação&nbsp;&nbsp;SenadoMinistério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo FederalDia Nacional da Vacinação: Jundiaí reforça importância da imunização e terá ações ampliada neste sábado (17)&nbsp;&nbsp;Prefeitura de JundiaíMenos vacinação, mais riscos: como o setor de saúde reage à queda no número de imunizados&nbsp;&",
+      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G117 de outubro é o Dia Nacional da Vacinação&nbsp;&nbsp;SenadoDia Nacional da Vacinação: Jundiaí reforça importância da imunização e terá ações ampliada neste sábado (17)&nbsp;&nbsp;Prefeitura de JundiaíMinistério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo FederalMenos vacinação, mais riscos: como o setor de saúde reage à queda no número de imunizados&nbsp;&",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMWJhS3NQTWpRUEUwbFpVY2hPbVVEaXk1NmI4alBvN05Ra3BLallOSi1VdjZSRUF6QWptTjMxbEh3RFZtNDY4SlZNN0lZdmtibEFOeUc3UHR0UnhuOWVlWUhUY1Q2b1BYVGVwNndZckRWV01ZTGc0R184M0p5TGFDQTJsenZlaVBnOW9XZHhzQktNcnhwZThpY0xyTHhzT2xWZ1poRnRaZENuWElkN09veTlZcmZVdWMxNnJUeU5oMDB2dkoyOXBnSTA2V1Mta2tSR3hURm9DSdIB5gFBVV95cUxPS01GRGU2U0RGQ0pUR1BIdTdpVkpidGNwQmhKbnBQMnY2QTFLVGhjSkFiS0t5NEl5YjVxVWxnd2MtZmJadXdJRVZ6X1ptZUg1ZjN3OEY5cXpDX0Z6RXRkdWRIai1DN1pueEpydHdtNXNqNHZxM1RFWm04cGlfM3pURWVFbTA1OHZJRWJrOGlnb3JGNWZGaXdSTkw4TUR4Nk1wWDVXZjAtRFBJalZXbS04WDlVTElYQlRsYmRyNG5ENlNZYVh5ZkRSTXRkaGdPeUxBOFJhUjg5cWd6RzRwX0pCcGJZUXprdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "50323ad12013",
-      "title": "Menopausa exige cuidados com o coração; veja 4 hábitos de proteção - Terra",
-      "published": "2026-10-17T21:33:00+00:00",
-      "summary": "Menopausa exige cuidados com o coração; veja 4 hábitos de proteção&nbsp;&nbsp;Terra“O tabu adoece mais que a fase em si”: 10 mulheres abrem o jogo sobre a menopausa&nbsp;&nbsp;GloboAgência de Comunicação - TENA destaca saúde integral e atenção à saúde urinária na menopausa&nbsp;&nbsp;Estadão Blue StudioMenopausa: veja cuidados que ajudam a aliviar sintomas e preservar a saúde&nbsp;&nbsp;D24AMDia Mundial da Menopausa: 30 milhões de mulheres no Brasil estão neste fase, mas diagnóstico chega a 238 ",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRnRLeFA1bkdZR1MtckFqWXVQVExxR2xURmltQ2FscDhUd3czY3RHWXp1azJZMi1qSjdmWnJqTlQ0Q3l3SllPMWZBZHVzTV9UX0hPZnB5WXdFV0l5UjhLTFNlTldLZkxiM2ZxQ1lwUWV6X0xMVV9fSld0aW0tQ3h3bkluVnEtYU1TNlRxOFhjaHdJSy1kRWVIbm1wWjdzUDNBUDZOZDByUnJZQllmcHY3dWs2LWZCLV81NFFrT210WmU1U1BsSnNMWUN2bUJWbVR4VFRFeTItcnNkd0NsT3hqOVVkUUhObEFWdGExUg?oc=5"
         }
       ]
     },
@@ -146,6 +218,30 @@
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNZU1TakY0SWxrSE5jc1FsQndOeWVPQy14OVl1a3RHclVYZjI3aUVrSHJYU3o1ZmtTMm1UMkV5VXY2UExrTjJUSFRtX2xDcWtCeVRHSDJ3dFdHUWpfRFB1dHRxTUZ4QV9DWW5ZZHBoUHY2ZnFqOEJUbk1JQXpxbDk4V0FwelBzMjdjZTdWYzVGeDM2TlR5T3dGbk80bTVadHowOWEwSDg4QzJtSGh1Q2tkSEYxOTJ5OXA3VDQxU3BPQlB0blNEYVBucXdJSkhjOThzSTBIdG5tYWlHdHJKS3N6NW5nNjJmTVBUSWFFN2Q5SmxLS2w5MENUcEtSX3dtSU5WNXFHbE1CS1pJOVdSVmZTYXVnczRLRk5WbUE4M1pHRHJ0bDIySWFRUmFmQVdKMGxtaTExMjAxWFlLS3V2VUtweUFYdDZUQzJnOTlj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d8439f98444",
+      "title": "Erich Fromm, psicanalista alemão, sobre o consumo: “Se eu sou o que tenho, e se o que tenho se perde, quem então sou eu?” Uma reflexão sobre o risco de confundir identidade com posses - Super Rádio Tupi",
+      "published": "2026-10-17T18:21:50+00:00",
+      "summary": "Erich Fromm, psicanalista alemão, sobre o consumo: “Se eu sou o que tenho, e se o que tenho se perde, quem então sou eu?” Uma reflexão sobre o risco de confundir identidade com posses&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNM1VnZFVyR1k5aFBqdXFObWczakk4RThVUHRtUFp6R0lLdU9ZSlVMMUhGY1dWelpLUUxmdzItY1BHTnBZWF83bXJSSXpHdjFDazI0czNmcG1MbEhwNTdHdXB4Mm9TSkd1QkJlMGVLaW12R2gyOFBSSGtkaXE3RXBXckgzNkc0dDJBZWtfd1BpdHdldHpGcWJGTjJZX05ZUEtHVEVscF9FRjhSRjN0N2FiSVJReXhER2MxMWo4cThSeXVGVnZfaEViSV80WVd4dVc1MDE1T3NJY0VIQTRVWFNKaVVVVncyaTJUTHprOWpzRHdTZS1jeEVNcE9sNmxiQ3htWEVqemdoVzg5Z0hVVmRfcXR0d3BwaWo4UlBWcWhOM1o2b25LclJpMDloOG92NXZGX2UtaUhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "abcb41cb3d68",
+      "title": "Grávida de 35 semanas sofre três AVCs e recebe diagnóstico revelador - TNH1",
+      "published": "2026-10-17T17:54:29+00:00",
+      "summary": "Grávida de 35 semanas sofre três AVCs e recebe diagnóstico revelador&nbsp;&nbsp;TNH1",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2Y0U0VWTmFYVkJIM0xGRmN0OW94d1UzejVrSlNkOG1NZFkzRnBUZExWY1Q1MXROX2xGb3prenU1SXdBTHI5M1MwRU1Uc1lVajBGS3VYVzFFakgxNVlGSUVsb3Qzd2lhS1FGYzUxTU9ERlFfRjA1NFh2cVQ3aS03OUNmQjVDTzZpTW42UmdnRFlfUkZnNGdYS3YwVWpyVjBsWFJvN0VpUXHSAaMBQVVfeXFMUFVERTU2Y3hudzhQLTZuVS1fYkpmNzRtNFFhZGZYZ2kwNkp4V3FuNk9LcW5ZVXp2RmI1dXFQcVBvZWRIMGxHanZfelA1TG9YRDgzSkxQLS1ZRWlJd3dwZjE2a1RDb21MeUxJbWVjVlEzdXRwODBBQmdkVU1mSlJVbWNEY2k1Z2h0Qy0zVkdCZmw3aUkzdWtrY0tuZEZKR3VBcVJmWQ?oc=5"
         }
       ]
     },
@@ -186,30 +282,6 @@
       ]
     },
     {
-      "id": "1ff89cb693fe",
-      "title": "Câncer foi a principal causa de mortes no Brasil em 2025 - Poder360",
-      "published": "2026-10-17T11:05:26+00:00",
-      "summary": "Câncer foi a principal causa de mortes no Brasil em 2025&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUncySThUQzY1VUVLaEpDaGwwWEtoUksweWRsOW5WWnNLQlhEdERDeTdNWnVHd3I1UmdBQzkwXzI3SG5JS0VRd24xaXZtRnBpM1J2Q0I3bkZIalFvNUEtWWJCRHNUQVlnbWJfbnpNQWx0RW13cjY3Z211OUdlTmtqakh6bEhrMnRRMC1ORUFnMFBvNnhWZng4X0UyQURKdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8a629eb0f477",
-      "title": "E se o TDAH não tiver a ver com atenção? - Estadão",
-      "published": "2026-10-17T08:30:00+00:00",
-      "summary": "E se o TDAH não tiver a ver com atenção?&nbsp;&nbsp;EstadãoMapeamento cerebral e neurofeedback são usados no acompanhamento do TDAH&nbsp;&nbsp;MetrópolesTDAH: o psiquiatra que passou anos com sintomas até descobrir o diagnóstico&nbsp;&nbsp;Estado de MinasTDAH e autismo em adultos: neurologista explica por que sucesso profissional não descarta diagnóstico&nbsp;&nbsp;O HojeTDAH não é preguiça nem falta de limites: por que precisamos falar sobre isso?&nbsp;&nbsp;Folha Vitória",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjJkVDZKUWlnX1hWeXBHU3NCdjh0Ml9kOTRURHJSdkEwZlhpYUE0ZFdxWWFHUlFtRGpVVW9oMXpuUU9fRmRtcWJVaWFnNEpicjVTUk5IbXZzaVdDQ3NyX25NYUdVeDNNaUFqVUtsaG5FMkRhRUZQUVdMWHlXbW54eUxmNjg2VDZPSjZCbmR5aUhkUTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "52e7ce581d75",
       "title": "Extrovertido? Grande estudo mostra influência da genética na personalidade - UOL",
       "published": "2026-10-17T08:30:00+00:00",
@@ -225,23 +297,11 @@
       "id": "2bcdccc20d69",
       "title": "Cérebro da criança que ingere cafeína (incluindo a do refrigerante e do mate) se desenvolve de forma diferente; entenda - O GLOBO",
       "published": "2026-10-17T07:30:00+00:00",
-      "summary": "Cérebro da criança que ingere cafeína (incluindo a do refrigerante e do mate) se desenvolve de forma diferente; entenda&nbsp;&nbsp;O GLOBOCérebro de crianças que ingerem cafeína se desenvolve de forma diferente&nbsp;&nbsp;MetrópolesEstudo associa cafeína a menos sono e mudanças cerebrais em crianças&nbsp;&nbsp;Diário do Centro do Mundo",
+      "summary": "Cérebro da criança que ingere cafeína (incluindo a do refrigerante e do mate) se desenvolve de forma diferente; entenda&nbsp;&nbsp;O GLOBODá refrigerantes com cafeína aos miúdos? Estudo identifica alterações cerebrais&nbsp;&nbsp;Jornal de NotíciasCafeína em café, refrigerante e mate pode afetar cérebro de crianças, diz estudo&nbsp;&nbsp;Diário do Centro do MundoCérebro de crianças que ingerem cafeína se desenvolve de forma diferente&nbsp;&nbsp;Única NewsEstudo associa cafeína a menos sono e muda",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPenJmeS1vdVRSRlMxZk4yTVZYTFJRT0s3RXpmUEExX2N4N1daMFBHTGlFRzlfN1VmN0ZFWS1zaXZGM1F5OEttS1RGOWNueTFOUmRac2N5YVRRZHA0SnhYR3BsdWpFcmFaZ2hsUGJyRnNDRDRBMFhPNWYyVDN1MDZraHBmdFZieWZnVjJ3aExRSVJWZHo3RS1NR3REUF9lbl90X3FMS09sVXVyNndoRE4zYmZ4MjFpX1R0RUhJa2hqSnhkOXkyZHplRWMwaTNJXzdRZ0tSR0xOQXRvc3dHRkxJSjR4c0VRbmVrTzdldXdYaHU2bGtPSWhnN2FqNHFkZmJGaUHSAZACQVVfeXFMTkNVZzZjVDRqMHFscDF5SlQ4aXdXV05zZE5lTVBrWVQ2aUdKTHFQM1hWWXIzWjN3SG1HMHdNcWVqWXRoV2lvLXlVLS1sYnpVbDBMVW9kc2pwTjd5WlZkTVhKNGdQNk9UbGVJaGpZeDY5MVBYb3d5d2U4dXBZbDF4bUNBYmFtNVJoUjhTV2xTdTdJZlhNdWxLUEkzbFFSVU5uYktHRHF0X0hVYXY1ZWZvbmM4NE9zMHNDeTlRNHdkNDVxbWVwMXpxc1VDUWEteDhSR3d6c3RxWDZWQWo4a0NEOFRud1ltNGhCZVhISlFZOTRpbmRVamJQVXhJUlJBT2ZvMV9BRjlrZ2F6aGF3T0duTzg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a6e9e6fb1619",
-      "title": "Mortes por doenças cardiovasculares devem aumentar 10,8% no Brasil até 2030 - InfoMoney",
-      "published": "2026-10-17T07:00:00+00:00",
-      "summary": "Mortes por doenças cardiovasculares devem aumentar 10,8% no Brasil até 2030&nbsp;&nbsp;InfoMoneyMortes por doenças cardiovasculares devem aumentar em 10% no Brasil até 2030, estima Sociedade de Cardiologia&nbsp;&nbsp;O GLOBOA cada 72 segundos, uma pessoa morre por doença cardiovascular no país&nbsp;&nbsp;Agência BrasilUma pessoa morreu por doença cardíaca a cada 72 segundos no Brasil em 2026, segundo dados da SBC&nbsp;&nbsp;Bahia NotíciasMS tem a 3ª maior taxa de mortes por doenças cardiovascula",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2NfSVRVcmEyVEFMc2t4Q0t1U0Vsb0lpTXZNbkljZFliVF9SU3dfSmdSSUVBSnMzRlY5YzVJd25welRNRjkwN0xXM2plaGhKMU5tRUI4bFBUQWlPcmk5U016dV9KRmw0X3E1X0JYZ3ZNRDA5UmU2OEdMcXpDdUIwNE9KVjV2WVF0Z0drT2F6T2s5anM4WEZqNm11MFBidXBHZEcyYmtZT0NBZlFvQUHSAbMBQVVfeXFMTTJwNFJZX3JPa2ZFbEE3X2t5SnpvU1RFUzNJckZWUVl1a0VqWG03OFpEdFVBaHltNVBmT3NIdGg2MjA3Z1RzNWZ5Um95c3U0TTB3UGZEcWFJZm9tT095SWZ3RmVldlctTGtSeXNMVUU0TzZfd1d4Z2RCS3poYk0wenVrQzFKZWFSWjFUYnY1WEpxVDBVY2VEMjJNcEtaNHBpdEl3RWxtaUw0SWxNb2MzRGFLb0U?oc=5"
         }
       ]
     },
@@ -278,18 +338,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUExjOUJyQmdXaEhnaF9XRGloOGk4QzVtTlJ1X1lqRjhKcjYwZ21zOFhlbEF0S2tucTBjNTJST0ZGdGwzd01KU1E0TjRzeGt4aTQwLVpJUHcxU3A0OF9ibG11bDR1SDRWMjdxNklJY055aDVmMkY1Vmc5SVJXWG1ibzRRRUMxdG1kR0NocUNuYko5ajVBWnlWWkxOYXVrTXkxQk9PdmEtb2QtcEp0Y2JTYVdDeGNwUGxHUTFIZXM2SlNHejdibHU0UnJ2SHhuWDJqTktHNDVPTzkyUFJpMUxGOXk0U3ZqUWdNOXVGVVRRN2p2YWlBQUpwZGhKX2VrM2Jld3dWU3ZBenNWWVZsOVgzS3FmTjk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f90521b4f6c",
-      "title": "‘Geleira do Juízo Final’ pode representar mais risco do que a ciência imaginava - VEJA",
-      "published": "2026-10-16T22:13:03+00:00",
-      "summary": "‘Geleira do Juízo Final’ pode representar mais risco do que a ciência imaginava&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMUNRRjdCc2h4a1pJRnA2NzR0MGpDUU5GNUdIcWhBSHVqaEtmV0QzaU9NWTN2aW9oZ2l0ekZ6elFSeXExQ0txVkltYU42Um9XQWhiUzhZc3RWSjhlaW9Oc2pOQnh1WUI3cnpyOG15amN2RnZTdWxZRHY0dURGVWRGVWloQjlPUkNrV18wc0xmUmY3LWd0ZUp5VjU1UUt6WmFyeGhiblRzNE9jRHlzQl80WG5B?oc=5"
         }
       ]
     },
@@ -386,18 +434,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQTRzalFTWC1VQ0NzeFlqaEdrZ005U251M25rRnpjTzZWdFgtOC14YUg4Z1FDNGR5SmZFZ3hBRTQ4NEpYRkQzMWVJblh2cmtHV3QtVVk1c3ZzU2ZSVnZtU19Yb0pBb3d2cGY2MUk0X3c0Yl9lMjFFSzFFR2FIaDF1MFRBSUlXQjZLU1hOTGI0M0lPS2xpdGhxOHpHNDEwYW5hczBnOG9Gd3hWeFdGU1ZnemdsZ0ZfZ1ZtaU9XYm1uR2dsYU5TRFpIVkpORmh6TUtkeG45UFNtRXRWQkFQUTBqMVN0Y3lLd1JfNUHSAfgBQVVfeXFMT3g3ejRBdkYxbUdxT0pSeFNYYlZ5SlRUZGkwVm1tXzVscEZ2bkNMZ3FuV1E5OHpmU3lwSlBRb3BQZE5zVnJubmZNRUg2M1dzanNvdUVTQTZNMkdxZ1VOb2wwWUVSbUVUQURQeWlPeU83NXZxXzFGdlNLS0I4alVBSnVpTjlOZGQtNmRwYW9OTndfWmNYblU0WVVhc29MOU1HRHhrN1JKT0pfMktXVGhRM08tT2MxaFVGY1FabFhsNUZqNERpa2JnTVc2aFBJNi1nd2FBd3pBR0M3UkpkdE80YmoxNjRWVGNPRFFsOXp3X1VfSi05SnNMRnk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a5e99210e1e",
-      "title": "Os três pilares para conseguir um sono reparador, segundo neurologista - O GLOBO",
-      "published": "2026-10-13T07:00:01+00:00",
-      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOCansaço que não passa mesmo após dormir pode ser um sintoma perigoso; entenda&nbsp;&nbsp;Rádio ItatiaiaA busca pelo sono perfeito pode estar tirando o seu sono, alerta médica&nbsp;&nbsp;O RegionalCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsA falta de sono aumenta o risco de muitas doenças.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeTg3LUJUUE5raTdENm9MTTF3RHZhMWtBUGVhV0FDRnI1VEl2N2szM0hOWm50MlBYSGMzNkgyM0NqbWRtcTVha2xLYUI4MHItZTByRUpwcGJDY3lxNHdETmlmR0xTcEZmX0lWWUdNbFF6bUlSbGNQakI3aEYzVm9XMENJaGdoSHpUTFUwdm1xaEZUZzVENGpQMWtyN0N5cjJISGJYOXRvWmlCVElmblJGZGlPUFljRkNYOERpQU9KQV9IazlkYjM1eUY2dG1MbUti0gHfAUFVX3lxTE94OUtDa2R1UXZsdUd2MjY1NVR0TDlZZHVXb3FWY0dXVkI1c0N6cXU5YUpxdFljckp0XzhRZ0Vra3I3SE9taVBWR1BfWnhiUFJJVGJyQXFsaHgxTlRUNXZlMXhTemNGSHRsUzJYV0QzZEVCWkRLTE1UR1ZUYmNVYmRIemk4U2I1Z3BQRHhCdDdpaTYzc3RXX3lMTjRHQnpYQzdhN3BfQ1ptLXdBcEtaMFB6ZWtJaUxSSk1NMHdSWXpPOHdVTG9DWDdBTmhtWS00Qll5NFQxUFVPMXhGUVR1ZW8?oc=5"
         }
       ]
     },
