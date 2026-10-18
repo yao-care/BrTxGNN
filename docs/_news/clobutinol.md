@@ -14,7 +14,7 @@ permalink: /news/clobutinol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Clobutinol?">
-<strong>Clobutinol</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
+<strong>Clobutinol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ Esta página combina as indicações previstas por IA para Clobutinol com as not
 <li>mucocutaneous leishmaniasis (100.0%)</li>
 <li>leishmaniasis, diffuse cutaneous (100.0%)</li>
 <li>diffuse scleroderma (100.0%)</li>
-<li class="indication-matched">pneumonia (99.9%)<span class="indication-tag">📰 pneumonia</span></li>
+<li>pneumonia (99.9%)</li>
 <li>trigonitis (99.9%)</li>
 <li>bronchiolitis obliterans with obstructive pulmonary disease (99.9%)</li>
 <li>paratyphoid fever (99.9%)</li>
@@ -41,15 +41,9 @@ Esta página combina as indicações previstas por IA para Clobutinol com as not
 <p><a href="{{ '/drugs/clobutinol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (0)
 
-### [Nova vacina contra pneumonia e meningite chega aos postos de saúde de Alagoas](https://news.google.com/rss/articles/CBMitAFBVV95cUxQb21Nb2gzbEtETEhqN2VpelUwQ2EyT1FOOXQzM3hIbXFvWEpBeGNtQl9xSjNCOVBXeHN3amMtMzgzRnpxT21kZ1M2bDVOWXFJcUZqZFhGTU5tUlpXdlhZT0QtellldHF2eC1ZVlFTNTBPY3FsTXNsZ29mazRVamVLNGpjZFNyTG9GU2VuQXZiZUc1b2dVYnphWXVhNTNXNk9aNTlDeG9wYjZJS2pLX2ExbTY1X3bSAa8BQVVfeXFMT21hSGhtTWhBQVBPMnhfVzBpUWY1MXVnZF9hRmZJdjB2bTZsb2ExdFJETGVCMFpBYjdkU2RuTHF2U1N3czg0cFBVYk8zNEk5Szk2bVpicTBqbEczQWExNVhRak5FWnBRNWwzakdkV1phb3luZ0FRSVFqTEgzcUVaSmFnMGN3UWZRVUV3ZTRVOUdSRjJ4SUJzS1pMVmZya1UyTWpUN1g0aVlHa1h3Y05Udw?oc=5)
-
-2026-10-15 <span class="news-indication-tag">pneumonia</span> <span class="news-indication-tag">pneumonia</span>
-
-Fonte: [TNH1](https://news.google.com/rss/articles/CBMitAFBVV95cUxQb21Nb2gzbEtETEhqN2VpelUwQ2EyT1FOOXQzM3hIbXFvWEpBeGNtQl9xSjNCOVBXeHN3amMtMzgzRnpxT21kZ1M2bDVOWXFJcUZqZFhGTU5tUlpXdlhZT0QtellldHF2eC1ZVlFTNTBPY3FsTXNsZ29mazRVamVLNGpjZFNyTG9GU2VuQXZiZUc1b2dVYnphWXVhNTNXNk9aNTlDeG9wYjZJS2pLX2ExbTY1X3bSAa8BQVVfeXFMT21hSGhtTWhBQVBPMnhfVzBpUWY1MXVnZF9hRmZJdjB2bTZsb2ExdFJETGVCMFpBYjdkU2RuTHF2U1N3czg0cFBVYk8zNEk5Szk2bVpicTBqbEczQWExNVhRak5FWnBRNWwzakdkV1phb3luZ0FRSVFqTEgzcUVaSmFnMGN3UWZRVUV3ZTRVOUdSRjJ4SUJzS1pMVmZya1UyTWpUN1g0aVlHa1h3Y05Udw?oc=5)
-
----
+*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
 
 
 <div class="disclaimer">

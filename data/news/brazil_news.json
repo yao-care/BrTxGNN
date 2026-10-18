@@ -1,10 +1,70 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-17T20:16:33.578150+00:00",
-  "total_fetched": 83,
-  "unique_count": 81,
-  "health_related_count": 36,
+  "fetched_at": "2026-10-18T03:33:33.323745+00:00",
+  "total_fetched": 84,
+  "unique_count": 82,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "2a8e75cddb65",
+      "title": "Pesquisa revela depressão no clero: os padres escutam, mas não têm quem os escute - Vatican News",
+      "published": "2026-10-18T01:56:00+00:00",
+      "summary": "Pesquisa revela depressão no clero: os padres escutam, mas não têm quem os escute&nbsp;&nbsp;Vatican News",
+      "sources": [
+        {
+          "name": "Vatican News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmdEUEVrbDdsaXhfQkpkdjJtWEJSZ3NkbkY4SjE4OF9jNlBpZGVzSC1ubkZUTUdfM0xKT0llZkJSWUJvdnFJWExKU3psR2hVQk5XdEJwbzFIbGlmYkJkQVhGd2E5bDRDZUZTUGZPek9pYkFETTRBMy03OG5fbFJ1elJEWlpGRUg3WmlnaWlIR2I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b25c42877845",
+      "title": "Crianças e adolescentes se exercitam menos e já apresentam pressão alta e excesso de peso - G1",
+      "published": "2026-10-18T00:16:30+00:00",
+      "summary": "Crianças e adolescentes se exercitam menos e já apresentam pressão alta e excesso de peso&nbsp;&nbsp;G1Quase 30% das crianças têm pressão alta e sobrepeso no Brasil, diz estudo&nbsp;&nbsp;BandPressão alta atinge três em cada 10 crianças em escolas brasileiras&nbsp;&nbsp;MetrópolesUm estudo da Sociedade Brasileira de Cardiologia mostra que crianças e adolescentes estão cada vez mais sedentário&nbsp;&nbsp;G1Quase 30% de crianças e adolescentes têm hipertensão, diz pesquisa&nbsp;&nbsp;Correio de Ca",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLWVpWV96NUxYWk9SZHlPVklja0dZM19yRmJrUFJPX2RpS3l0QS0xazFZTmxZdG1fRWl5LUIzdzRNTzZ2TmlTanZFYlNxblNHR015SHEtQkhIalFIU0x3TlYtaFNzLXVuQU5qQVl2RzBPZkdsV2o3Q3pqNHVpbVFqYlc3dFVnV2RZanh0Q1gteFQ4NXNsMVFPMklLZmNaNURWQ1B0cHdYQ0RzbnpOcXNwaDBIbEdCQTIzS3JtRUdtTGhYZVBKWWZZSGozb2xPb2R2NF9waHlYek8xQzVDbVFaaXFYbnpCUdIB9AFBVV95cUxPWlpyR0RlSGtWMW1ZczNyM215ZkhBLVg5bXk1V0pCWmZfQU1MVF9mU2VNaTZPeUF3VlFXWmdxWVFoUGxtakIzY3ZYY1RNbFRZVUZsRTRfTVdvdVZaWUxaY3VCMC1MT1Q2NVQxSFU5cWtfQi1SNlhoOHZnMnR6eHotOHZRUmxuR3VlSm5wbVBLcjV5cHJiSkNkUVlyUGtITUFNUWUxXzZIUjZFbnRTTWZDdW1IR1pmbzN3bi1EZ2E4X0EweUZHRFhkR1JUdnQ3aGRJaVJyRkFYT3pTZnpCeHJZWlZyNHVMb3ZwblEzN2xQOHJiWENj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9431e7c6efb5",
+      "title": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública - G1",
+      "published": "2026-10-17T23:58:14+00:00",
+      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G117 de outubro é o Dia Nacional da Vacinação&nbsp;&nbsp;SenadoMinistério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo FederalDia Nacional da Vacinação: Jundiaí reforça importância da imunização e terá ações ampliada neste sábado (17)&nbsp;&nbsp;Prefeitura de JundiaíMenos vacinação, mais riscos: como o setor de saúde reage à queda no número de imunizados&nbsp;&",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMWJhS3NQTWpRUEUwbFpVY2hPbVVEaXk1NmI4alBvN05Ra3BLallOSi1VdjZSRUF6QWptTjMxbEh3RFZtNDY4SlZNN0lZdmtibEFOeUc3UHR0UnhuOWVlWUhUY1Q2b1BYVGVwNndZckRWV01ZTGc0R184M0p5TGFDQTJsenZlaVBnOW9XZHhzQktNcnhwZThpY0xyTHhzT2xWZ1poRnRaZENuWElkN09veTlZcmZVdWMxNnJUeU5oMDB2dkoyOXBnSTA2V1Mta2tSR3hURm9DSdIB5gFBVV95cUxPS01GRGU2U0RGQ0pUR1BIdTdpVkpidGNwQmhKbnBQMnY2QTFLVGhjSkFiS0t5NEl5YjVxVWxnd2MtZmJadXdJRVZ6X1ptZUg1ZjN3OEY5cXpDX0Z6RXRkdWRIai1DN1pueEpydHdtNXNqNHZxM1RFWm04cGlfM3pURWVFbTA1OHZJRWJrOGlnb3JGNWZGaXdSTkw4TUR4Nk1wWDVXZjAtRFBJalZXbS04WDlVTElYQlRsYmRyNG5ENlNZYVh5ZkRSTXRkaGdPeUxBOFJhUjg5cWd6RzRwX0pCcGJZUXprdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e8b476815ae1",
+      "title": "Uma ilha desabitada recebeu porcos que acabaram se reproduzindo por gerações e deram origem a uma população selvagem que despertou o alerta de pesquisadores sobre os impactos no equilíbrio da natureza - Super Rádio Tupi",
+      "published": "2026-10-17T19:30:12+00:00",
+      "summary": "Uma ilha desabitada recebeu porcos que acabaram se reproduzindo por gerações e deram origem a uma população selvagem que despertou o alerta de pesquisadores sobre os impactos no equilíbrio da natureza&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNZU1TakY0SWxrSE5jc1FsQndOeWVPQy14OVl1a3RHclVYZjI3aUVrSHJYU3o1ZmtTMm1UMkV5VXY2UExrTjJUSFRtX2xDcWtCeVRHSDJ3dFdHUWpfRFB1dHRxTUZ4QV9DWW5ZZHBoUHY2ZnFqOEJUbk1JQXpxbDk4V0FwelBzMjdjZTdWYzVGeDM2TlR5T3dGbk80bTVadHowOWEwSDg4QzJtSGh1Q2tkSEYxOTJ5OXA3VDQxU3BPQlB0blNEYVBucXdJSkhjOThzSTBIdG5tYWlHdHJKS3N6NW5nNjJmTVBUSWFFN2Q5SmxLS2w5MENUcEtSX3dtSU5WNXFHbE1CS1pJOVdSVmZTYXVnczRLRk5WbUE4M1pHRHJ0bDIySWFRUmFmQVdKMGxtaTExMjAxWFlLS3V2VUtweUFYdDZUQzJnOTlj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92f29149b8b9",
+      "title": "'Água-viva' luminosa surge no céu após lançamento de foguete; entenda - Primeira Página",
+      "published": "2026-10-17T16:38:47+00:00",
+      "summary": "'Água-viva' luminosa surge no céu após lançamento de foguete; entenda&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWU3M1VaU2ROWjlmZUowWnNwOHZyNkVUaTBZNmRjRnFOeU8wU2VMSTdPM2RMeThmSHlEUjhBWm1OR0Z5TzlhNEE5ZEh4eFlMUF90VTh2NWcwNHVpNmc3dlE3ajZ3LUFEbXlpLW9xNjlXSDlOckFLVFk5WTRSdDV4WWJYLV8zUHFYMlNLeVRpREdxY05oUFUwMmdfM2kwSm5OR1FveUlmaTE?oc=5"
+        }
+      ]
+    },
     {
       "id": "b3b00d98aa68",
       "title": "Seis frutas podem ajudar a reduzir o risco de câncer; saiba quais - ICL Notícias",
@@ -33,7 +93,7 @@
       "id": "7cfcb2fc5fd0",
       "title": "Evento oferece vacinação gratuita com mais de 15 imunizantes em Salvador - G1",
       "published": "2026-10-17T12:37:47+00:00",
-      "summary": "Evento oferece vacinação gratuita com mais de 15 imunizantes em Salvador&nbsp;&nbsp;G1Fiocruz oferece vacinação e atrações em Curitiba&nbsp;&nbsp;G1Fiocruz oferece vacinas para crianças e adultos neste sábado&nbsp;&nbsp;Agência BrasilVacinação e atividades recreativas para crianças são realizadas neste sábado (17) em BH&nbsp;&nbsp;Rádio ItatiaiaFiocruz oferece vacinação gratuita e testes rápidos neste sábado em Salvador&nbsp;&nbsp;Rádio Metrópole",
+      "summary": "Evento oferece vacinação gratuita com mais de 15 imunizantes em Salvador&nbsp;&nbsp;G1Fiocruz leva vacinação para o Parque Primeiro de Maio&nbsp;&nbsp;G1Fiocruz oferece vacinas para crianças e adultos neste sábado&nbsp;&nbsp;Agência BrasilFiocruz pra Você vai oferecer vacinação a crianças e adultos&nbsp;&nbsp;Fundação Oswaldo Cruz (Fiocruz)Vacinação e atividades recreativas para crianças são realizadas neste sábado (17) em BH&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
           "name": "G1",
@@ -93,7 +153,7 @@
       "id": "a6e9e6fb1619",
       "title": "Mortes por doenças cardiovasculares devem aumentar 10,8% no Brasil até 2030 - InfoMoney",
       "published": "2026-10-17T07:00:00+00:00",
-      "summary": "Mortes por doenças cardiovasculares devem aumentar 10,8% no Brasil até 2030&nbsp;&nbsp;InfoMoneyMortes por doenças cardiovasculares devem aumentar em 10% no Brasil até 2030, estima Sociedade de Cardiologia&nbsp;&nbsp;O GLOBOA cada 72 segundos, uma pessoa morre por doença cardiovascular no país&nbsp;&nbsp;Agência BrasilUma pessoa morreu por doença cardíaca a cada 72 segundos no Brasil em 2026, segundo dados da SBC&nbsp;&nbsp;Bahia NotíciasMS tem a 3ª maior taxa de mortes por doenças cardiovascula",
+      "summary": "Mortes por doenças cardiovasculares devem aumentar 10,8% no Brasil até 2030&nbsp;&nbsp;InfoMoneyBrasil tem uma morte por doença cardiovascular a cada 72 segundos&nbsp;&nbsp;G1MS tem a 3ª maior taxa de mortes por doenças cardiovasculares&nbsp;&nbsp;Campo Grande NewsUma pessoa morreu por doença cardíaca a cada 72 segundos no Brasil em 2026, segundo dados da SBC&nbsp;&nbsp;Bahia NotíciasA cada 72 segundos, uma pessoa morre por doença cardiovascular no país&nbsp;&nbsp;Agência Brasil",
       "sources": [
         {
           "name": "InfoMoney",
@@ -150,6 +210,18 @@
       ]
     },
     {
+      "id": "deb7976d685f",
+      "title": "Cursos de mestrado e doutorado do INCA inscrevem até 30 de outubro — Instituto Nacional de Câncer - INCA - INCA",
+      "published": "2026-10-16T20:41:10+00:00",
+      "summary": "Cursos de mestrado e doutorado do INCA inscrevem até 30 de outubro — Instituto Nacional de Câncer - INCA&nbsp;&nbsp;INCA",
+      "sources": [
+        {
+          "name": "INCA",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdjJ2aTFwc1E5cVJpS3h4UWIydEhOaTM0M1BPcEtoWGdvcmE2TzhZcXQxaVhnRGNkdk9IZ0pCX0g4X290ZEpGdndWZlhRVlZJVlNuekhtR196bGVTTHdSNlBya2dXUlEwT1VIZlNFOUpYZnJZY2g0a1M4bWIzd1NEZkltZzZnMElVMlA4TWI3Tk0tQ3p5b0NKTzdWbUgtMTU0czZCay0wWHg1Y0xDLVZGSmt5SDdFTmd6eFpB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "44146c0e680a",
       "title": "Hospital Sírio-Libanês confirma incidente cibernético em sistema interno de relatórios - Estadão",
       "published": "2026-10-16T20:20:40+00:00",
@@ -177,7 +249,7 @@
       "id": "34b308f672f8",
       "title": "Somado a estresse, horário do jantar pode influenciar na saúde intestinal - Folha de S.Paulo",
       "published": "2026-10-16T18:39:00+00:00",
-      "summary": "Somado a estresse, horário do jantar pode influenciar na saúde intestinal&nbsp;&nbsp;Folha de S.PauloComer tarde da noite pode aumentar o risco de doenças hepáticas&nbsp;&nbsp;MetrópolesComer tarde da noite aparece associado a risco 20% a 30% maior de doença no fígado em estudo com quase 200 mil pessoas&nbsp;&nbsp;O POVOUma nova pesquisa alerta que o hábito de comer tarde da noite aumenta o risco de doenças hepáticas.&nbsp;&nbsp;Vietnam.vnComer tarde da noite pode elevar risco de doenças no fíga",
+      "summary": "Somado a estresse, horário do jantar pode influenciar na saúde intestinal&nbsp;&nbsp;Folha de S.PauloComer tarde da noite pode aumentar o risco de doenças hepáticas&nbsp;&nbsp;MetrópolesUma nova pesquisa alerta que o hábito de comer tarde da noite aumenta o risco de doenças hepáticas.&nbsp;&nbsp;Vietnam.vnComer tarde da noite aparece associado a risco 20% a 30% maior de doença no fígado em estudo com quase 200 mil pessoas&nbsp;&nbsp;O POVOComer tarde da noite pode elevar risco de doenças no fíga",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -189,7 +261,7 @@
       "id": "eff4cb73e18f",
       "title": "Entenda como funciona exame de sangue capaz de detectar 50 tipos de câncer - CNN Brasil",
       "published": "2026-10-16T17:52:08+00:00",
-      "summary": "Entenda como funciona exame de sangue capaz de detectar 50 tipos de câncer&nbsp;&nbsp;CNN BrasilPrimeiro teste de detecção precoce multicâncer chega ao Brasil&nbsp;&nbsp;niddedigital.comDiagnóstico oncológico se fortalece com avanço de tecnologias de sequenciamento genético&nbsp;&nbsp;Futuro da SaúdeDetecção precoce do câncer ganha novas possibilidades com avanços na medicina diagnóstica&nbsp;&nbsp;CBDLExame de sangue capaz de detectar sinais de mais de 50 tipos de câncer chega ao Brasil&nbsp;&n",
+      "summary": "Entenda como funciona exame de sangue capaz de detectar 50 tipos de câncer&nbsp;&nbsp;CNN BrasilPrimeiro teste de detecção precoce multicâncer chega ao Brasil&nbsp;&nbsp;niddedigital.comDiagnóstico oncológico se fortalece com avanço de tecnologias de sequenciamento genético&nbsp;&nbsp;Futuro da SaúdeDetecção precoce do câncer ganha novas possibilidades com avanços na medicina diagnóstica&nbsp;&nbsp;CBDLNovo exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil -&nbsp;&nbsp;Difus",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -210,66 +282,6 @@
       ]
     },
     {
-      "id": "c837470dc27e",
-      "title": "Recuo da \"Geleira do Juízo Final\" pode elevar nível do mar em 3 cm até 2100, aponta estudo - CNN Brasil",
-      "published": "2026-10-16T16:28:51+00:00",
-      "summary": "Recuo da \"Geleira do Juízo Final\" pode elevar nível do mar em 3 cm até 2100, aponta estudo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSENyNWZqMG5aS0t6VnZyQzA3N01faDVncHBvNDkyR055amtNakN3R0pNWUdhSHA5c1BJNEt2OFA3aG9uWDRPMnF1X1pYNXp0S3h6bUFJcHhFLUt5MVgxZ1hDM1pwLW5BS3RaUV9kMVBxQUZiZmNZeV9lZjFwa3BFd28tc0JrUzV6LUd2T3h5Q3BxOW9VUXpSM0YtX3lRRU5iaTc2ejJOa2RuRzk0SDNMLW1LMGpnNzVkNTRPckRuME10azA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca1a201ba960",
-      "title": "Creatina pode aumentar músculos sem exercício? Entenda resultados de estudo controverso - Estadão",
-      "published": "2026-10-16T13:01:00+00:00",
-      "summary": "Creatina pode aumentar músculos sem exercício? Entenda resultados de estudo controverso&nbsp;&nbsp;EstadãoCreatina não é para todo mundo: entenda quando o uso do suplemento faz sentido&nbsp;&nbsp;GZHCreatina, ômega-3 e B12: todos precisam de suplementos após os 40 anos?&nbsp;&nbsp;MetrópolesCreatina deixou de ser coisa só de academia e virou tema de especialistas&nbsp;&nbsp;Tua SaúdeCreatina pode aumentar a força muscular até mesmo em pessoas que não praticam exercícios, apontam estudos&nbsp;&nb",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaVVFd2daa1phMUFMVnFKUmNhOFpEZUcyYXd5cUV5OXJXdU1rUWlwdlBSWVhWMGRiNmRkMTdRdk81V3VCd3hRRDhzM3FIUHVkUEpPbDZkSmpxTG5kOGJDdjRycnRCMWxQc255U1NLTlVuLUp2WmZ3MHRXRUUwTUVXOGI1d0hqRnl1ZEVYU2tvVVlTdXJiREpCQU1YSG11cmx4NlZ4enhoRktsTzB6Z1ZXMzl0b3g3ZW45czRYYTdIaDhkM3l4S2VCZ25XdFpONnRHVVVuWVV30gHbAUFVX3lxTFBGdGhxd05tRnAyV0Y1UHJOSmV4NWZEWnhRVzIxUTd0SnZ1WEVKQlRSdjVMTWFQc2I4R3JYTmNQS1QwUUxXNkx3U1dVTHpPYjAxWjI2ZEVJQXZHVEFLYm9PZFBjNjZNbWJ6TTNNX1FCSUdRbTdvVkVpUW90azFLRFQxakh0djZoVmNITV8yNV81dUVoRHdueTJ5UWVsWjk3eUlSLTVvVGp4YWZJNGtqR18zLXNRbGVTOEphanhqZVBkNk9hWGhlUkplb0hwdkhFU05PcTd1M0V5YnktNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5bdab6c85f11",
-      "title": "Exame de sangue para Alzheimer chega ao Brasil por cerca de R$ 3 mil; veja quem pode fazer - Diário do Nordeste",
-      "published": "2026-10-16T12:54:31+00:00",
-      "summary": "Exame de sangue para Alzheimer chega ao Brasil por cerca de R$ 3 mil; veja quem pode fazer&nbsp;&nbsp;Diário do NordestePrimeiro exame de sangue para Alzheimer com registro na Anvisa chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela&nbsp;&nbsp;G1Hospital de Porto Alegre é o primeiro do Brasil a oferecer exame de sangue para investigar Alzheimer aprovado pela Anvisa&nbsp;&nbsp;GZHExame para diagnosticar Alzheimer é disponibilizado no Brasil&nbsp;&nbsp;Poder360Coordena",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM2lHSTd3YnN2ZUJ6SUt2MHNuc2ZVZXE0VU9oTHdOa3BvOW1Za2FtejdyaVFZMS0xZ1B2N2FPeTY5WnFFN3hqRlJNNlhNVFpYcGk4VkdKLWVEbXpxWWYtN0JiUjN3RGJISHh4ZmFCRUNfUUVvV1VvMlVScEpTMG1sZWE3ZE9uUDRHX1drYk1rZWhobVNqbjdvMWF0THZYb2E3Qlg4OEx4SWp2VElYMXk2eEFaRWYtRDJtWERyTWdoZjIzWlBFbEhWVFdtbHNFdWlMTm5Kd1V0U2MzM1BSaWo2NVRabXppVjJCTVNHemdlVFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f8aef71983b7",
-      "title": "Vírus do Nilo Ocidental bate recorde histórico na Europa; entenda a doença - UOL Notícias",
-      "published": "2026-10-16T12:12:15+00:00",
-      "summary": "Vírus do Nilo Ocidental bate recorde histórico na Europa; entenda a doença&nbsp;&nbsp;UOL NotíciasVírus pouco comentado no Brasil quebra recordes de infecções e agora soma mais de 140 mortes no ano&nbsp;&nbsp;www.jornalcruzeiro.com.brVírus do Nilo Ocidental avança na Europa, bate recorde de infecções e deixa 141 mortos em 2026&nbsp;&nbsp;G1Europa regista pior época de vírus do Nilo Ocidental com casos a avançar para norte&nbsp;&nbsp;Euronews.comVírus transmitido por pernilongos pode causar febre",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRjZCNl9GZkh2NTdaN3NYZTA3Z3pGbnhhRFU0dU5zaU1VbE5yNW5DRjJmRWlJWlZ6eC0tUnYyV18xSnZ4TXQ0WVZGOFl2VHZfYmlWM0FnLWkxX0E4dTVwek1tLTJETlZJeGt3ZkpQMTREWUQ4VHNMejFsLUk2SEdXVS1obkZiM1NWTXlYMTVfSDFCdC1QMF9uZlUyS3hTQUxDcktkZHh3d1lzOXl5VGhVYUdzc2JFQzE4NUpaN2FnaGNxYXFsX1dneUY0TDhXRFNyNDdJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb1ea9b7a09d",
-      "title": "Laboratório onde pesquisadora morreu fez parte de sigiloso sistema antipeste na era soviética - Folha de S.Paulo",
-      "published": "2026-10-16T11:45:00+00:00",
-      "summary": "Laboratório onde pesquisadora morreu fez parte de sigiloso sistema antipeste na era soviética&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUtIR0lGcDVibjB2MnBld2kxb0JLaTV4MC1nR0tZZDM2Q3E0WHdBY0FWaTN1SEs5R195Tnc1bVYtQXE2WnJJd20zSm85TjRaVEFqLXBibFVYWjlJUXhXcnpIUk9vdW9TNGNmdFNwS05MLVNJUWlIdEZ1OE9SY0dMREZVY0tSU2dKbGN3ZEtpZkZja0NLNzY2ZllyLURzOWttZDhGN0RnTXNOSHNkeTZFSXBuQTFRNmp3V0E1SWVwVDFLak9JejZWZTdQTnU1d2M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1e6665b8bc6b",
       "title": "UFPI tem 5 pesquisadores na lista de cientistas mais influentes do mundo; veja - CidadeVerde.com",
       "published": "2026-10-16T11:34:00+00:00",
@@ -278,18 +290,6 @@
         {
           "name": "CidadeVerde.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1N5N0w4ZWF5aG9hS0xXaUNIdHRBNXdGbV81cWg2c083eU8tam1hd1J6SUFUeF9ZMWQ1YkdHSGxhSnRFN0dSY2l5SmFPcE92a1hYM1pQbno5czZsMXJpSnNvV0t1VnFfcEhSdXMyeU9hbUZJYlpjQTdKUm5wcW1PbWtGUVp5dGlKZXNfbzhyZnZZaUlZSnhGSllyYjRvUmc0SmJ2cUhtRHZHVVBickVINlJKU3JFNHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb1fe08cdf1f",
-      "title": "Agência de Comunicação - TENA destaca saúde integral e atenção à saúde urinária na menopausa - Estadão Blue Studio",
-      "published": "2026-10-16T11:27:49+00:00",
-      "summary": "Agência de Comunicação - TENA destaca saúde integral e atenção à saúde urinária na menopausa&nbsp;&nbsp;Estadão Blue StudioAo leitor: Com vocês, a “menocausa”&nbsp;&nbsp;Assine AbrilEntenda por que tratamentos faciais podem ter resultados diferentes na menopausa&nbsp;&nbsp;GloboMenopausa muda o corpo e pede atenção à alimentação saudável&nbsp;&nbsp;CidadeVerde.comDia Mundial da Menopausa reforça a importância de cuidados individualizados para a mulher&nbsp;&nbsp;O TEMPO",
-      "sources": [
-        {
-          "name": "Estadão Blue Studio",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjd5ampFaUVqTXRzZndXZmxnMGItMGhFSTBmUU9yaEZPRkZJRHRaVVNZa1AwT0tvRjN0Tkp0RDBMRVE2WG1pUEVfRVdQVmJ2YmVnck94MnFZdlpiaExab0thUklWVDhGcnBUN1JHN0dKdEQ2QnNZRm13SXhWcy0zRlpzS2ZMYmI3dW12TnByWG12TXdSYmpnRkRVMW9jRHpQNlc1NGZLOTh4ZTAySGZCLUtHc3dTQnMwc0RaQkItaUhYYXliaW9KNUVGZXpsM1UwYmc?oc=5"
         }
       ]
     },
@@ -318,38 +318,38 @@
       ]
     },
     {
-      "id": "b6ccaa0b83bb",
-      "title": "Estudo no Brasil testa tratamento injetável inédito contra HIV a cada 4 meses; ativista recebeu primeiras doses no país - G1",
-      "published": "2026-10-16T05:00:01+00:00",
-      "summary": "Estudo no Brasil testa tratamento injetável inédito contra HIV a cada 4 meses; ativista recebeu primeiras doses no país&nbsp;&nbsp;G1Ativista é a 1ª pessoa do país a receber dose experimental de tratamento contra HIV aplicada a cada 4 meses&nbsp;&nbsp;Folha de S.PauloPacientes começam a participar de estudo com tratamento que mantém HIV sob controle com 1 dose&nbsp;&nbsp;Folha PEMulher trans é a primeira brasileira a receber tratamento injetável contra o HIV com aplicação a cada 4 meses&nbsp;&nb",
+      "id": "82d85adb13c5",
+      "title": "Primeiro exame de sangue para Alzheimer com registro na Anvisa chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela - G1",
+      "published": "2026-10-16T05:00:00+00:00",
+      "summary": "Primeiro exame de sangue para Alzheimer com registro na Anvisa chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela&nbsp;&nbsp;G1Hospital de Porto Alegre é o primeiro do Brasil a oferecer exame de sangue para investigar Alzheimer aprovado pela Anvisa&nbsp;&nbsp;GZHExame para diagnosticar Alzheimer é disponibilizado no Brasil&nbsp;&nbsp;Poder360Coordenação de Comunicação Social » UFPel lidera etapa regional de pesquisa para diagnóstico de Alzheimer&nbsp;&nbsp;Universidad",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGpwamZSdjNxcHpjTlJrZHE0cG1sVnF1bUN3U1NHUURteUExRkY0R29weHM2ekJCSHJKdlhrclRrNkstY01fb0g5ek5KV09GWVNvczUzSTZBcGs2ZHE2elY1Z193LWtEbVhCWlBxSEJDMHU5d0dFWXV1RjdkTGZKZURqNmhsblHSAZYBQVVfeXFMUHdySnRpUFN0R2hFTkFrQndKZlNBSkxGY3ZzTkZsdkdRQUhjazBpalNvUzNTNzF5M1IzbVpkZFNqOENvbWx2RUpBcDB3Y3dFOXBlZHlySEJEMWk2R2x4cE5zTlh4aG9kaFRzWERFTkNENUJxTTVkRGtzSjVCcjBldkpTVHRzQkFfbWNaeGtjVWgtQ0dRMXdn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWU1zTW1wZVZVMWRqMk1YOUdpQ0hpMXhNVEN5N25WaEJFVWFXdlp2YU9FcTV2UjE0M01FZGtPOC0xRk5uLURDVE5OS3lBaG1IVGYtc2NTQmw5eVViaWo1NTRHN1lIdVpoZTNEZm80YU51bjc1TVVrbXdyenA3OXdwX2QzbmxOdE1kcEpjYkYxN3kxNWJyYXFmRWN6bUJpZUlERGdLWkFIOXJpQ2EwMlpEZTRsbVM2NEZZQ01KV1VHRktGRWxzNDlwT0M2aGlhcmMxTlVyay11RENZUU10X0ozWFJvR1NVQzJTSW5KYl9OODjSAf8BQVVfeXFMTzVVdnVCRUF3azRKRWVuS2tEd29pNG16MTE0ZVJBbF9uZm5lVTBzZmNKRUV5dVRfMG9uVVUtRnpBVUxTZkRsanFnRDN1bFJwZS1PcWMwX205MTMyR0RyNTJ0b1JkTmlOYnRIMEdYX1lIX1pjUXFYOHh6UHhPcU1GZ1FDeFFUUEduc0FwSTd1NzRWV0NSZ2RJRjdJU0xaYXpmMEdqcDVQZTlXNElTTnRXWVJ2OGcyMzZ2Z0JIa3djeDFHS3JLSUN1UjBJbzU0SnlTQzgyd0NDZEcyWU9JV01iUVNudW9ScHBrdjhJQzBEWFdMNzBkT1A2TUJmVTRNOW9j?oc=5"
         }
       ]
     },
     {
-      "id": "085365847a79",
-      "title": "Morador faz descoberta de 3 mil anos de idade no quintal de casa - TNH1",
-      "published": "2026-10-16T00:19:00+00:00",
-      "summary": "Morador faz descoberta de 3 mil anos de idade no quintal de casa&nbsp;&nbsp;TNH1",
+      "id": "5ac67a1b187a",
+      "title": "Bragança Paulista e USF lançam projeto para preparar a saúde diante das mudanças climáticas - Jornal + Bragança",
+      "published": "2026-10-15T21:35:45+00:00",
+      "summary": "Bragança Paulista e USF lançam projeto para preparar a saúde diante das mudanças climáticas&nbsp;&nbsp;Jornal + Bragança",
       "sources": [
         {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJZSFhKeXB3NFppOHVCRktEVk5hWnR4R2RUeDI2T1Y1TEFWeVVucF9Ra3g5OGRHZU1haXB1X0VxRXBXQ3lUUlhTeXRmMkRIR0V3dWFCMGpBajhBSW5fakxPRjU1MmZ3anFFM1F5OUdNbURmYkZkSU5oT3hmNUxRMzVQMDFEdWF0U2FfNXVqY2hzOXVBeWczNlZYMm8yenBWREln0gGeAUFVX3lxTE41LXZwbGZsakNBbzNFS1RpdkZQRUpkbEJjLXhsTkFLUGJ4UU92THRqdXFZYWlLSjRLZDhLUnVBcXR2dl9sRlZzdzhMY0pxTjFVNTdlOGRBekd0N0pfUnZnb0FoRXR3NUpBa1BJTDJXUklqc3pZUHlEeXBpMmdqbk5kU0tOYnU5dnNVLTZDRGEwcE9LVHg5UjA5OTlNa3d3?oc=5"
+          "name": "Jornal + Bragança",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS0FOQ3NPdXk4UlFyRDItdVpaeUJIdGtFeGZTdVhKMi1IaXdGOG9PUkFEcWE2TDU4VGF3UTFjUGFIdjhsNXZvOENKRUJHM1Q3QXF2QlY3NkFTU3BqdThGR3ZNX0xKRmJzLWxBRFhSbG1hME5zZU55bTdFdGJRRlExSGstY0VwUG5uMk1mUmk4MEtrNnNiWmlHM0hMc2k4d0V6bTFVNmMwV2c0U3IzMldTeVJVeUNDc1JnN2c1YktnOGE2WEZNbFpoWUZPajg2di1LZEZr?oc=5"
         }
       ]
     },
     {
-      "id": "372a6803ecae",
-      "title": "Nova vacina contra pneumonia e meningite chega aos postos de saúde de Alagoas - TNH1",
-      "published": "2026-10-15T18:53:01+00:00",
-      "summary": "Nova vacina contra pneumonia e meningite chega aos postos de saúde de Alagoas&nbsp;&nbsp;TNH1Uma picada, 21 alvos: a nova vacina contra pneumonia aprovada pela Anvisa&nbsp;&nbsp;VEJAPrefeitura de São José inicia vacinação com Pneumo 20 para idosos 85+&nbsp;&nbsp;G1Prefeitura de Tapejara disponibiliza vacina contra pneumonia e meningite para idosos com 85 anos ou mais&nbsp;&nbsp;Rádio Tapejara FMOlinda inicia vacinação contra a Pneumo 20 para idosos a partir de 85 anos; veja locais&nbsp;&nbsp;Fol",
+      "id": "074f2a513c02",
+      "title": "Levando o GPT-Rosalind aos laboratórios de pesquisa acadêmica - OpenAI",
+      "published": "2026-10-15T21:21:36+00:00",
+      "summary": "Levando o GPT-Rosalind aos laboratórios de pesquisa acadêmica&nbsp;&nbsp;OpenAI",
       "sources": [
         {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb21Nb2gzbEtETEhqN2VpelUwQ2EyT1FOOXQzM3hIbXFvWEpBeGNtQl9xSjNCOVBXeHN3amMtMzgzRnpxT21kZ1M2bDVOWXFJcUZqZFhGTU5tUlpXdlhZT0QtellldHF2eC1ZVlFTNTBPY3FsTXNsZ29mazRVamVLNGpjZFNyTG9GU2VuQXZiZUc1b2dVYnphWXVhNTNXNk9aNTlDeG9wYjZJS2pLX2ExbTY1X3bSAa8BQVVfeXFMT21hSGhtTWhBQVBPMnhfVzBpUWY1MXVnZF9hRmZJdjB2bTZsb2ExdFJETGVCMFpBYjdkU2RuTHF2U1N3czg0cFBVYk8zNEk5Szk2bVpicTBqbEczQWExNVhRak5FWnBRNWwzakdkV1phb3luZ0FRSVFqTEgzcUVaSmFnMGN3UWZRVUV3ZTRVOUdSRjJ4SUJzS1pMVmZya1UyTWpUN1g0aVlHa1h3Y05Udw?oc=5"
+          "name": "OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0WmRua1VMeGVuQVdicXhjeGdqNWtoOXplR0MwcW1RYkFDenV6UFd1d3NFWUxhUmVnV200RXRDbEpuUGczUXl6QmRGRFBrclRyTnBzd1k2N2hqZVU2VkRfa0NpT28xUjZueHg0WGFpSFhLeXUxZkxXelRB?oc=5"
         }
       ]
     },
@@ -366,30 +366,6 @@
       ]
     },
     {
-      "id": "e65ac0b70dac",
-      "title": "Uma pessoa com demência tem mais habilidades para as artes? Veja como isso pode acontecer - O GLOBO",
-      "published": "2026-10-15T07:30:00+00:00",
-      "summary": "Uma pessoa com demência tem mais habilidades para as artes? Veja como isso pode acontecer&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOVhtMi1LUVhFLUJkTW1xaXFMTUtzd3NhR0FONHN1SzVnNXA0MVQ3cnBFODFFVmV5YU54ZmVsRWtsajFMUFhuSlM2RFNrMld0UUVhRGRfVEtHdjBVNHdEaVkyQ3RaMWJUc0Rpb2NLOWdDcVBUWUNyZHFmRjVTQW1KRmxJYTk2NFhoUW54YWpOdnF5aWNMTjd3YTc2SExVOTlPTnNxWng0VUwwSWVtcU5NVURjc2NUUXF1dmx2VW9TT0ItRngwVHpXLWZiY2JSTXZOUmlWRTlqRVRIUlJ40gHrAUFVX3lxTFBFMGx4aFlNV052ZXJKYW1vUUZldTduV2lISUNLRU1DVHdYMFg5TUp4Q0VYVUlYYjBIdWlGajlwQ28yeFhoQ2ZuZG5PN05CUEFUWnFDc0VDck1sUFNDYVl5UklyNGozQ09kN3hXak9ZS19BVE1fZzlUX1p3RUQxM0tISkNfZmkzc01iNXBYQU05cTRFNDM5M0pndC0wYkdpMWt4M0RWNUhKNVFhSTVsYjBUZDlJb1VfTlVFM01wNnlyNUlCaktmWTBrLUE3dmNMYnY1VEFQaUtLdWxLZmMtVmVjTm8wOXRveERCT3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "34a87d02a93e",
-      "title": "Para evitar a tristeza e aumentar a felicidade, você deve aderir a esses 10 hábitos, segundo psicóloga - Minha Vida Saúde",
-      "published": "2026-10-14T15:45:24+00:00",
-      "summary": "Para evitar a tristeza e aumentar a felicidade, você deve aderir a esses 10 hábitos, segundo psicóloga&nbsp;&nbsp;Minha Vida Saúde",
-      "sources": [
-        {
-          "name": "Minha Vida Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hQ1ZrNlpwSjR6bEwxb0RQYndRbjZqTUNqdDQzLWJlNWs2WmtTR1BJWjNZbXFDd0hXa19pazN2c1NnaFdVSm9iYk1qc1lwblNqZ1pPT2tLSDA2NWp5UVZUMdIBZkFVX3lxTFBsU0l2c3M2dlUyY0labThMaWtkQnJsTEVKVW5CUEtaOGJveTVOejVNNmJwQUx3SEQwZmtuOEI4N1hrNHZESlI5UUFtWGxBV2RZTlNlYTRDSHZGalFGNTRSVE93eER0QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "06d83f1db689",
       "title": "Bem-Estar #372 - Osteoporose, uma epidemia silenciosa. Saiba como identificar e prevenir a doença - G1",
       "published": "2026-10-14T12:21:54+00:00",
@@ -402,14 +378,14 @@
       ]
     },
     {
-      "id": "55f5deb44b31",
-      "title": "Byung-Chul Han, filósofo: “Só se estivermos sempre abertos à dor, seja qual for a sua origem, podemos estar abertos à felicidade” - Minha Vida Saúde",
-      "published": "2026-10-13T19:40:03+00:00",
-      "summary": "Byung-Chul Han, filósofo: “Só se estivermos sempre abertos à dor, seja qual for a sua origem, podemos estar abertos à felicidade”&nbsp;&nbsp;Minha Vida Saúde",
+      "id": "b3fe2bff56f3",
+      "title": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe' - G1",
+      "published": "2026-10-14T05:00:00+00:00",
+      "summary": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe'&nbsp;&nbsp;G1Preservação da fertilidade em mulheres com câncer&nbsp;&nbsp;G1Câncer de mama: congelamento de óvulos é uma opção&nbsp;&nbsp;iG DelasOutubro Rosa alerta para fertilidade após o câncer de mama&nbsp;&nbsp;Imagem da IlhaAmamentação depois do câncer de mama: possibilidades e cuidados para cada mulher&nbsp;&nbsp;jornaltribuna.com.br",
       "sources": [
         {
-          "name": "Minha Vida Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4RTFhWEhfeEhNb3lSbEFXUTcwajRxai01d0VJOF9tTkx2T1RWanNHOHJoRHVuN0VHVkNJc3V3QVNmZDFJOVc5blNvNkgtWjMxMUJub3hiYVRsLThPNzRZR9IBZkFVX3lxTE5taHlJWjBVYXdVb2tVdE1JOTZBX0xlT2F3WkFiYmJzMG1YdTNuSURIY2MzX1dsaElxWUpEWDhhSXlaZmRmS2pwQkJrWFdLUFNoV2dFVmV2ZVlyLTNzQW9fQW9LRXdqQQ?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSVA3eVh6UFU3UnFnQlhPc3pNeVZrX2ZKd0dqNE0zaGV0XzdPNnVaMjZrTTY1dHppaks3Q1I3LXlCN0tMeHhQWFlnZGNYZW83UUZ2SXhkUGVUN2Y3SnNSUTlJODkxTWdQLTM2UktpdjFDNlRJelV3WFVYUHc4b2MxRnIxTjJLcWxyUjR1XzFndFV3ZXRkUXRHNThrUDExb2ZPX0MwV3hXOXhWb3FXMHM4R1ZxUzVWSHAtWEx2aTNDdjRVQXItSG1pQW83d3dNUVExTUMweEZrVdIB5gFBVV95cUxNTGxVSlJfTXppMkhJOFB2Z0Itd3dYWlFoUkJVUVMzcElKTWFpVmxTcHpldExTUVVOX1BvN1lEUTl1NHJYLUdFMWhIQW9jRUZGeUo1dUlEcGVUU0VndkVVZC1fbURIWV9uWnZ6b0t4R29hN1VEYjFoNXZhWjdiU29MMWFkQmw3S0pLZTJjTzdrS1NZX2NGaWxDeGFhV3ZUaC1kUWs5c2hyMFhfS2pINXNDSERaQzB4RUMyZ3VIX19LM2FCWUMycEtmRURGUURlUW1PZ2NfNmpPT0dOZ01CcE5yN2xuaXp6Zw?oc=5"
         }
       ]
     },
@@ -417,23 +393,11 @@
       "id": "3a5e99210e1e",
       "title": "Os três pilares para conseguir um sono reparador, segundo neurologista - O GLOBO",
       "published": "2026-10-13T07:00:01+00:00",
-      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBODormir rápido não garante sono reparador: neurologista aponta três pilares que pesam na qualidade da noite&nbsp;&nbsp;O POVODisposição dos móveis no quarto e poluição visual afetam a qualidade do sono&nbsp;&nbsp;Jornal Cruzeiro do SulCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande News7 hábitos da rotina que podem prejudicar o sono | Viver Bem | Alpha...&nbsp;&nbsp;Alpha ",
+      "summary": "Os três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBODormir rápido não garante sono reparador: neurologista aponta três pilares que pesam na qualidade da noite&nbsp;&nbsp;O POVOCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsAcordar cansado pode ser sinal de distúrbio do sono, explica fisioterapeuta&nbsp;&nbsp;Rádio Difusora FM 95.3A falta de sono aumenta o risco de muitas doenças.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeTg3LUJUUE5raTdENm9MTTF3RHZhMWtBUGVhV0FDRnI1VEl2N2szM0hOWm50MlBYSGMzNkgyM0NqbWRtcTVha2xLYUI4MHItZTByRUpwcGJDY3lxNHdETmlmR0xTcEZmX0lWWUdNbFF6bUlSbGNQakI3aEYzVm9XMENJaGdoSHpUTFUwdm1xaEZUZzVENGpQMWtyN0N5cjJISGJYOXRvWmlCVElmblJGZGlPUFljRkNYOERpQU9KQV9IazlkYjM1eUY2dG1MbUti0gHfAUFVX3lxTE94OUtDa2R1UXZsdUd2MjY1NVR0TDlZZHVXb3FWY0dXVkI1c0N6cXU5YUpxdFljckp0XzhRZ0Vra3I3SE9taVBWR1BfWnhiUFJJVGJyQXFsaHgxTlRUNXZlMXhTemNGSHRsUzJYV0QzZEVCWkRLTE1UR1ZUYmNVYmRIemk4U2I1Z3BQRHhCdDdpaTYzc3RXX3lMTjRHQnpYQzdhN3BfQ1ptLXdBcEtaMFB6ZWtJaUxSSk1NMHdSWXpPOHdVTG9DWDdBTmhtWS00Qll5NFQxUFVPMXhGUVR1ZW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "862ad1858aaa",
-      "title": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe' - BBC",
-      "published": "2026-10-12T22:46:21+00:00",
-      "summary": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe'&nbsp;&nbsp;BBCCâncer de mama: congelamento de óvulos é uma opção&nbsp;&nbsp;iG DelasOutubro Rosa: preservar a fertilidade pode ser decisão desde o diagnóstico&nbsp;&nbsp;Estado de MinasOutubro Rosa alerta para fertilidade após o câncer de mama&nbsp;&nbsp;Imagem da IlhaAmamentação depois do câncer de mama: possibilidades e cuidados para cada mulher&nbsp;&nbsp;jornaltribuna.com.br",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ySXFSaXB3ZFU3b2RXYXdmMXJRR1ZwaWIxTEVyWUNUNURDSXZqbWtvZ3QwTnNfNUkwRkRJQkt6X1JCcUFFOWoxcTB0QlhWSFBfNVU4a1Mzd1VMYWR2bl94YWlSQdIBaEFVX3lxTE1fWXlIMFkyZ3doVUVfNFJicGpvVGFyT21WMnoxcmZ6UVJNS25KcC1LQ3V1Q3FBaXdaOWRQQ25BZzRjQURzbzZqNklvdnJrWnA0V3ZqY1JLNU5sdkh5ZllreE9NOVhtZDJP?oc=5"
         }
       ]
     }
