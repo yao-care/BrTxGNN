@@ -1,15 +1,135 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-19T12:27:48.735853+00:00",
-  "total_fetched": 91,
-  "unique_count": 91,
-  "health_related_count": 37,
+  "fetched_at": "2026-10-19T22:05:17.315641+00:00",
+  "total_fetched": 101,
+  "unique_count": 101,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "6d8af7307217",
+      "title": "Revisão de 38 estudos aponta benefícios da maçã para coração e intestino - Diário do Centro do Mundo",
+      "published": "2026-10-19T21:22:44+00:00",
+      "summary": "Revisão de 38 estudos aponta benefícios da maçã para coração e intestino&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTFpUFhDVUh2VzdOdGdSMmhHTDdBclFrM1RrOHlQNE5mM3NycVB1ZDV2MkxRckNJUjYzNlZycXNIUlRVZFlPU0NnMi1YWFE0dThRSmYxX2k4LTl3R2RERG95NVpsXzdJWjlUODgxdm1RUmZkeG13SmpDcEVKNmVUeWpsS2VSbUJnSFVaZ09SZHpDSFpfWmlQdGxzbjJERU1PM3Vv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0dd6b387b0fa",
+      "title": "Microplásticos fazem mal pra você. Mas como eles agem? Estudo pode ter descoberto - Globo",
+      "published": "2026-10-19T20:14:11+00:00",
+      "summary": "Microplásticos fazem mal pra você. Mas como eles agem? Estudo pode ter descoberto&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNjFKbVJNU0RnVklQUDZDX0ZJUFIxVi01YWhtUDN4bHkwa0tuTHBPVXEyNUdQMUY5bi0ySERPVTR2ZFNDajFJc0otZGQzN2hPNHlpMzBGdEltc3JDXzJwQy1PX1RCTll1bVZoWU1VcjR1TDVRSTQwTGpfRTlrSzk5R3hBZk9zWEQ4NzFhNEdGTWlRU25LRjc4bHVha3V0cEV0WWZ2eUpGamQtaUxYN0xjdm0xNWdtOUJMQnVUTTM2ZHg3anUwQ096bFJhTEtGWTk2dnVSZnVYTdIB5gFBVV95cUxNQXhLMFJYWVlVci1vU3VIcDd3b1BfdzJnZ0Q0dUpDYnNhbkZFTTRBTi1lRUwwWDF3SWhjV05Od3FlOWVPbXdjRGo1enk5VW5GMVBQc01IOFRjYUlza0VCYVZTN3ZBQm0tODBVTHYwb2lYQzNhM3FSMTB6SW1kS005Qm1KZVJpZk5LaGd4YjR3Z0FjQUhHUHJjTlRhR1VPRjUxYmJhSktmeHRibFFaTVRjRjR5cjZobVBRWkdPMkhZRW5Ealg5a1lvUUV2ZndqSHRteFF0anQ3bVowRDZzNVdwMFl2bHc2UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "24856309d2c3",
+      "title": "Morre a médica gaúcha Thais Russomano, referência em Medicina Espacial - GZH",
+      "published": "2026-10-19T18:14:11+00:00",
+      "summary": "Morre a médica gaúcha Thais Russomano, referência em Medicina Espacial&nbsp;&nbsp;GZH",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbm84YzZMd3BFTjBwRTlPd3hqajAtX0RwTjhfOHdkc2pWOG5ibzFGTC1HbDZ6RWFPaUpKRGt4Vk1ocXp0dFlPdTg4VHlhSzBSb3lxZVFjZHA1UGpFQXBFWVhRQU9XTWRBQzl2YTFWMXVFa3ZqT1BFX3cybUVkVnVZVTBmUzNER1FqNVp1SExTdVhkRHFrekN1SXlRRmtyRmxreVZRRGRudnlJQmNsV3FxN1QwY2pUTGJoYVB5N25oR2psRkJUN2RGVjA3Ui1vRkdma2RNQ0FJYm9kMktYMGFJUjVWOWFfSWVTTE5tN29FcUkxSEVOUlhBNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c9dabac0106",
+      "title": "Quantos passos por dia são necessários para estimular o funcionamento cerebral? Estudo de 14 anos indica o número ideal - O GLOBO",
+      "published": "2026-10-19T16:06:29+00:00",
+      "summary": "Quantos passos por dia são necessários para estimular o funcionamento cerebral? Estudo de 14 anos indica o número ideal&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNb0k5bXQ3cDJMWm1GZllpTDZDRkdaejNhZ0JSbzU3d244OXJnVzJkYlhkQ180OHVrRmhFZVZ5Mm5nQ1ZDWHQxQVlhYmxUWGNfeHZSMGQzb0d6RUk4R1FHZmVqSlYyNnhIaWptRFpNVDZKVnFOQ1F0cUtOZmJGMHZKaFdBQ0NHdklHck9YZ1B6cExnMi0zMXVHUVg1YjVGN3BHYjVSRkNxWVVWYUtWYy1sUmk5TmFMTGJtREk2aFhlSkJ0M3J0N0d2b19CTU5jeG5ZRnVLU1lGNlo5MUg2R1BHVWxkWTd4d1BjbXpCSm9LZkZCRjdHMVpCLTdicU9Qa1FuUTFEedIBkwJBVV95cUxNaUk4ZXZDSkFPaGktWHB2ekk5SFg4eXlQcGh3MWpVU3hwS1pGRl9lTXU5eFhVb1pnLXllMmdUQ1UtcEJzT3F6ZlFhWWgybndsNDIxLW52S2tELTdtcUc4X3pKbjlNZGNYbGNHZHJBTUtoWGVrc0tKUmk2cXpubE9NaE1HdGpLaXp6aElKREJKVDFXRHU3YkotdjFvWFN3QTJISEttdG9na2RwR2Q3ank5Y3REQlphNVM1LUVPRXgyRWtMRXZnYlVjWTZBOUhGTjdHTGZ3VnhsMl9iVUtsRW9fTUdhSXZWSEdKUmhMdERyLUdHTnQxZmhVa2pQYW1QdTloR244bnplV2dPcF9oSXZkRXc2RQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c15d57ca7c7",
+      "title": "Injeção semestral contra HIV custará até R$ 20,9 mil no Brasil - Folha de S.Paulo",
+      "published": "2026-10-19T15:19:00+00:00",
+      "summary": "Injeção semestral contra HIV custará até R$ 20,9 mil no Brasil&nbsp;&nbsp;Folha de S.PauloInjeção semestral contra HIV custa até R$ 20.900&nbsp;&nbsp;Poder360HIV: pacientes brasileiros começam a participar de estudo com tratamento que mantém vírus sob controle com 1 dose a cada 4 meses&nbsp;&nbsp;O GLOBOPrEP injetável: Dra. Beatriz Grinsztejn aponta caminhos para ampliar o acesso e garantir a continuidade da prevenção no SUS&nbsp;&nbsp;Agência AidsEstudo VOLITION avalia troca precoce para injetá",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQnVNbUtNd0VPTlBuMmt6MFFfbGpvbXU3M0RjTTR3bWphNUxPbmw1TlczbHhNdkdCUnkzZ2xmamFWV09fOWFLbTVjVXEySG1SVnQtb0hHdlNzM1lHWU1EUDRXekpMRWZZQnpwZmlzd3p3N1NlUkNvR3A4MEdxM2tjdVJER05lQmVrbkoxWHJybXF3VkhCaUNzcW8wUlhMSUpEcmRaWHlLWFpma0x5NzVsTE9qZWZTa3RJSkd2YkhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d2ad0693d65",
+      "title": "Comer maçã pode beneficiar sua saúde cardiometabólica e intestinal - Folha de S.Paulo",
+      "published": "2026-10-19T15:00:00+00:00",
+      "summary": "Comer maçã pode beneficiar sua saúde cardiometabólica e intestinal&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbC1IUmhrdGZvcHJkT3NsSTN5SHpKN3F2LURLbG04Ry1hQzFqMzlnM0ozdzNIMDRrLXh6SXF1dXhyWkZDZXRKRGJDSVFxLV9QNTFQMUlpY2o1V1hvWkoycldvSDM4d0hjNEpPNmRUa2Vxam1JY1V1QWhyT19GY2N3aUxFdGYwcGlHRlRObG1IakhnQ1RvdVBOZ04ybFZMZkN2cWZlRFBMRU1UUHVJaW5aZG5wQS11NUpubjJ5cWx3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df31e6680f18",
+      "title": "Estudo diz que a Peste Negra afetou drasticamente a diversidade das espécies - Aventuras na História",
+      "published": "2026-10-19T13:40:46+00:00",
+      "summary": "Estudo diz que a Peste Negra afetou drasticamente a diversidade das espécies&nbsp;&nbsp;Aventuras na História",
+      "sources": [
+        {
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWpXWnhBdnNGdFp1WnlrOFpuNHhPdmlMczdvZHZKem40WDdmR0FubHVhb1J5d090QjFRUDhmRFlpWnlNNWZmR051cnpZREpVc3p0UmhhdWV1MkJCTlRoaV9sYnpPUHpTOEhpdW1xMWxJcjF0QVR2bkJuNlJKcVlkb2lfNG91dXFaNUFYRmlMaEhXUFplbG91czVJVDFvZ2RFaTJ5UWVXUFJaUURXUkRBNlc3Rk1BajVmSkt0TUI5R0g3TGJ6aXZtMGdYR0FRcDFORXotOVl5RQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab7a2444e9bd",
+      "title": "Rio amplia vacinação contra meningite para pessoas de até 59 anos - O GLOBO",
+      "published": "2026-10-19T13:40:31+00:00",
+      "summary": "Rio amplia vacinação contra meningite para pessoas de até 59 anos&nbsp;&nbsp;O GLOBOPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de UberlândiaMS libera vacina meningocócica para jovens de 15 a 17 anos&nbsp;&nbsp;Campo Grande NewsVacinação contra meningite ganha reforço com ampliação temporária em MS&nbsp;&nbsp;Diário CorumbaenseMS adota estratégia para ampliar vacinação contra doença que pode causar meningite&nbsp;&nbsp;Dourados New",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3lFWndjQmVGTWJWLUF1ZlYzbWZJRjMyUUxpYUUwZERsakpnMEdIbVp5WS03X3lKRGdKQWtrRElDVWNlZ0pNNV95aWh3Y3VVcTQzWV9nbWlsSW1lWnlLenlFSEo3X043ZmNDS1R6U25KdUJyYzdPUkZWVG03bFZ5TXlaUU02b2ZQUEV3d2RFSElxZkFpTTdyRk52SUV6eTNQdEZZcEsxbnRvRnU1NGtrc0hZbkJ6Q0dheVFB0gHKAUFVX3lxTE85SUlMS295ZDVhTHN3UXpwUTMwbmdmQlBTWG9zQVdnU3RZdXZnNENnaUFjZjZJSW5MWTl3YkIzdmw1T0dUalFDQVJPeHV2RUxQRm1SZFV3blJQUmd5SDdIMXhZRzVEcGpQYVVNeDdoWmlBbjR1d3dTUEVfeHF4dnNOU0FQcUg0Q2d5dElQWGJwT0Y0RlhlSV9MSzJKRTN2QmVwdVNEQ1g5d3hKX2Q0V3M3MjZHYkVVa2RWbFRNQ2dzODZyLUwzbVpZMmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "068f56ae8b16",
+      "title": "Sergipe é o único estado do país com nível de alerta de crescimento de Síndrome Respiratória Aguda Grave, alerta Fiocruz - G1",
+      "published": "2026-10-19T13:40:07+00:00",
+      "summary": "Sergipe é o único estado do país com nível de alerta de crescimento de Síndrome Respiratória Aguda Grave, alerta Fiocruz&nbsp;&nbsp;G1Rinovírus tem tendência de aumento em Minas, aponta Fiocruz&nbsp;&nbsp;O TEMPORio já registra mais de 15 mil casos de síndrome respiratória grave em 2026; saiba como se proteger&nbsp;&nbsp;Diário do RioSE é o único do país em alerta para casos graves de doenças respiratórias&nbsp;&nbsp;InfonetInfoGripe da semana&nbsp;&nbsp;Afya | Home",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVhtaUdITEhfS3hib19zSzVXalp0R2JhQVZUamppbWRXVVZNVFBKejV5Q05rU1lJVVZydkFrX2ZkYXQ2MEFqdVNWczZQS0tJOXJKSWdyN3RHVUN3RzlBaDdBSnFndURGVi00eFlEaTlSU2ZsUm5lSkZybDRtNzlCRlM1Y9IBkgFBVV95cUxOb3daQVhPaHRYN2VHal8xY3JQM0d6ODgwLXJTa1ZlY21RMmx2cEljRXduZFg5MlJUMzd3N0dkSjFmRVJlU0JGd0xvSjdBaTFva3NER0g3c3czZDNPOXJQa243WDFXcjhEQkYyNy1OQzNyTjduc21xaGlzdGN3RF9tUDd4dGxKb2ZhSUJlNjFMSENGZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "589a3b1e07ac",
+      "title": "Menopausa: especialista explica sintomas e tratamentos - G1",
+      "published": "2026-10-19T12:53:08+00:00",
+      "summary": "Menopausa: especialista explica sintomas e tratamentos&nbsp;&nbsp;G1Dia Mundial de Conscientização sobre a Menopausa: condição afeta milhões de mulheres&nbsp;&nbsp;R7Especialistas explicam efeitos da menopausa após relato de Claudia Raia&nbsp;&nbsp;MetrópolesMenopausa: informação e acolhimento ajudam mulheres a viver a fase com qualidade&nbsp;&nbsp;O ImparcialMenopausa: veja cuidados que ajudam a aliviar sintomas e preservar a saúde&nbsp;&nbsp;D24AM",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam9UeDd1aG45ZlhmT2dKM3o0ZVJ4YnZFM1l6eVoyTWhpVEJtc0xVR1lZY25yamo4enZOcEM0OXVyZDNSbnpCNk4wUkUzcFdlM2hRTG11NFVvaDl2YWFUTDNjQnlqRU9wY2phWElRbTdwR1M2cVFrRFNrc29QRGNxcEx3ckhCTFRwb2x0QllPbFlkZDMtRl9GZ2VfeHpmM1J5dTE1ZWlzNWdSOHJLMDloNUtoYmEtOU03b0x5NDNjOXBZYkHSAdIBQVVfeXFMUE8xX19fVGJ2b3ppRHJLWVNHM281NUIwX0JOMjVkYkkyOHo4X3F3empCSS1mY1J4MXl2cGlRYzZQT0YteVJpSGtCd0VBUk1vNVZpQkhrZEhOZ0lySWt0MWdfUHp2aUUtVDVyNjhqRjJ3UmROcGZGZjI4UGVCMVotc25aRnJYaDRGU2Nma21tMUFSYl9vTzE1dlNKVXhISkpHRjRreWZiTExkZUJsMXZIZUpoc0dfaUZxb25aOUtqMm5WYXVocW1tSVNPX2U5bzg3TVZB?oc=5"
+        }
+      ]
+    },
     {
       "id": "7a715568d1a1",
       "title": "Brasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes - UOL Notícias",
-      "published": "2026-10-19T12:18:04+00:00",
-      "summary": "Brasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes&nbsp;&nbsp;UOL NotíciasQual é a relação do uso de caneta emagrecedora e o efeito sanfona? Entenda&nbsp;&nbsp;Assine AbrilCaneta emagrecedora é indicada por 87% dos médicos para tratar obesidade&nbsp;&nbsp;CNN BrasilCanetas emagrecedoras: o que acontece no corpo nos 30 primeiros dias? Veja efeitos&nbsp;&nbsp;O TEMPOCanetas emagrecedoras: estudo aponta 3 alterações em unhas e cabelos&nbsp;&nbsp;Exame",
+      "published": "2026-10-19T12:30:00+00:00",
+      "summary": "Brasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes&nbsp;&nbsp;UOL NotíciasQual é a relação do uso de caneta emagrecedora e o efeito sanfona? Entenda&nbsp;&nbsp;Assine AbrilCanetas emagrecedoras: o que acontece no corpo nos 30 primeiros dias? Veja efeitos&nbsp;&nbsp;O TEMPO65% dos pacientes que usam GLP-1 relatam queda de cabelo, diz estudo&nbsp;&nbsp;Guia da FarmáciaCanetas emagrecedoras: estudo aponta 3 alterações em unhas e cabelos&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -18,14 +138,50 @@
       ]
     },
     {
-      "id": "a6c843330acc",
-      "title": "Isabel Teixeira revela diagnóstico de síndrome genética que aumenta risco de câncer: 'fiquei sem chão' - G1",
-      "published": "2026-10-19T09:58:24+00:00",
-      "summary": "Isabel Teixeira revela diagnóstico de síndrome genética que aumenta risco de câncer: 'fiquei sem chão'&nbsp;&nbsp;G1'Fiquei sem chão', diz Isabel Teixeira, atriz da Globo, após descobrir síndrome rara&nbsp;&nbsp;Jornal CorreioDoença de Isabel Teixeira matou sua mãe; entenda a síndrome de Li-Fraumeni&nbsp;&nbsp;TerraIsabel Teixeira e síndrome de Li-Fraumeni: 7 pontos para entender quando a genética muda a prevenção do câncer&nbsp;&nbsp;Diário do Grande ABCEspecialista analisa diagnóstico grave de",
+      "id": "461e3309a6f3",
+      "title": "Pesquisa internacional avança na compreensão genética do autismo - Folha Vitória",
+      "published": "2026-10-19T11:11:08+00:00",
+      "summary": "Pesquisa internacional avança na compreensão genética do autismo&nbsp;&nbsp;Folha Vitória",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTHhiQXB2TGM0RXNRYU5KLTNobFRHT1ZldnZ2b2NJYlg2dGpTOVVZd3FMa1Z6aF9ybWtRNEhsUDlmbUhNa0tpX1dWV1pvUEJGM3hJN21xMkQ3Mk5YUElXZG1mNmdwWFp2UHhOaTR3aFhOWlVKbHBlMXI5VElaRVlON2VsVWJhQXVlMTRZVVBHanJjc1lJcjV0YTViZE5TWFlmby03ZE5vSkVBUkdUQUM3Y09pUXZWeFB5UmExa1FfODVXdkFiamZ2aVh5eUdOYWNhTm1JQlNhc9IB5gFBVV95cUxPZ3RQSW1QT2htNWxyUDJUX2h5cEU4RXpxVHJrZjMtb3h2Mzh2M0xEeXlNRE1oSWpEWUViTjRWNU9MVDIwbHVWVklJWjVUWmtFQ1R6NWJkam80eUpybER0MkhVWjFxV3hDUW9YblhpbEtnN003US1pcmV0ek5XQjNSSWc2cGZQS3haRzNOdVJUeXNhWWRPUUswWlY1cFdWQUpHSTh1TjREM0JDRjAydHF0MzE0cUR5NDQzSjcyMVZ4UHhlYzMzTktWWEprclZRMnVpemVWTnkzc3dOMnQycy1Lb1B4QW1wZw?oc=5"
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUFJJWndyanpWOFZteHhocU5tUEVEeGlLOW16N2Njc2t1ckYyMWNqaU50RnRpdlVkU0E2UzNRcmhGT2ZGWlJIMnd0UkM0ZzF3R05meFRyWUc4eGgteGsycnNRdGZYUjlfMUlPSWN5b19aOGNXMXZBQ2JRbDlfbmxhWHA3YUNXcHB1emNjTktMQ1otX1l2YS1PXw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a63e0d20d6db",
+      "title": "Pesquisadores descobrem perereca-de-vidro inédita no Cerrado - CicloVivo",
+      "published": "2026-10-19T10:06:47+00:00",
+      "summary": "Pesquisadores descobrem perereca-de-vidro inédita no Cerrado&nbsp;&nbsp;CicloVivo",
+      "sources": [
+        {
+          "name": "CicloVivo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0FBa3pzT0RfWG9CbXdmV1dtV2FlYjhXdUZYM2RMM1hULWN4WlFyNWpkY1RMYW9wc3pqS2dSZjZ2NUlqZWdyN2Rrc0E2M1V1TkJlZTQwM3c5VG5aYXJqNXRaUkhwMU8zcjdEcmYxRFpTc1A4T2pxdlVXbVNhd3ZHSXNOSEkta1lKVUdMeXZkTUZJQnVITGZEMmh5TjA4RHRpN08yRW5fNHRPUS1Z0gGyAUFVX3lxTE1oWTRjTkpfZEFWMVZFYVJhX081N21HQ1ZJQjNuRHlaMXV0dHBqTXhMMDZlZk5MZTFBakl5RFB4ZDRQVDFMMUgtRU9PSkJJSzF5QWcwaWtsOFp1dWc3bW11S0Y1ZlpoYVB5NkZnYmdHSVNScjNxcnhGNTQtRGwxV2FhZVJqNWdKdFFtZzdqTjNkOVpUNWUtNXQ5NGlzY2twRnFLWF95OGpQWE9yQ2Vrd25xVUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "077a2fc8954b",
+      "title": "Trombose: entenda o que é, sintomas e riscos, com Dr. Kalil e especialistas - CNN Brasil",
+      "published": "2026-10-19T09:00:39+00:00",
+      "summary": "Trombose: entenda o que é, sintomas e riscos, com Dr. Kalil e especialistas&nbsp;&nbsp;CNN BrasilCirculare Studio oferece sessões de massagem circulatória&nbsp;&nbsp;TV de AndradasEmbolia pulmonar leva quase três em cada dez pacientes à UTI&nbsp;&nbsp;CREMERJ NewsCorrida pela prevenção à trombose reúne 150 mulheres em Cocal do Sul&nbsp;&nbsp;Rádio Fundação MarconiQuando procurar o pronto-socorro em suspeita de trombose nas pernas&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWJHSTVYaWxhY2JMQmY2bnZSRmJhYllFWHFyU055cjZ2TTluWkMwM1cwdjlNcEljWVJsSVB2M0JkY0Q2ODJ5dS12STdYRGZoR1pmN0pnWVJ3M0I3d0RDUW9UcFhoY0Q0N245X2NRMzhWVjFHQWhRekxOOFBrNi1BcTQ1czZlUnRFNHJoWmgtaVRxRHhtMnNTU3E4QXEzTDlIYnlfb2VEZTVvWkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ed11936c442",
+      "title": "Ideologia não deve ficar acima da ciência nas decisões de saúde, diz Chapchap sobre próximo governo - Estadão",
+      "published": "2026-10-19T08:33:59+00:00",
+      "summary": "Ideologia não deve ficar acima da ciência nas decisões de saúde, diz Chapchap sobre próximo governo&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRmY1b1FGVVJGN2UzTlN3X3Y0RE5JQ2dQRU90RnJDVTc1VDBJUjVLdWwtNXVfWWJWNkhtMlBQOTZFR1BpTGlCV0liZkdRdTRtVDlnbk41NEtIUGNreFNsWGZUdlh1cnFfMmZQVjV5THEwV09EclVDX1pBenlYZkFic0ZRV0RhUEZ2dzVndFdqTndQRUZ6SjVWUGNuaXJEVjhhSjRlc1hqTUZJR2VHWjJGZ2RoVTl4U3Y2eExMZ0pYNHQ4VUc1QnFHS0ZiN0tVZ9IB0wFBVV95cUxQWF9xTEdoNGF5N1NkR2VEaGFFakl5MFNmUVhZYlFUZzd0bWtIcWtFRmplY2R0ay1zZmM3bVIyeTlYdmNaQl9PZDR2T0RFbjNEanMwMHp6V1NXcDcxZXBrMGdLU2p1eGxPVzBxd3BpX3FCMlBqbDdsNVQ0R3VuMXBXeWFSQW50S2hCUVJLSTFycUVUQXkxb0hFU3B2dmpUa1BXT0hWOVZ6a2lQcWVHYVh6NFF6eFpCV3RGUGlnb2lhUDNKYjhtMFNmbXVqbFgzSVIyRVBv?oc=5"
         }
       ]
     },
@@ -42,26 +198,38 @@
       ]
     },
     {
-      "id": "044846b8ff18",
+      "id": "d2dd8d483c0b",
       "title": "Confusão com autismo e despreparo de médicos são barreiras ao diagnóstico da síndrome de Rett - Estadão",
       "published": "2026-10-19T08:30:00+00:00",
       "summary": "Confusão com autismo e despreparo de médicos são barreiras ao diagnóstico da síndrome de Rett&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMkpRY1VNYmFMUGhaZHhjaHptMkhNa0VLRmRwTWdSM3l6ajBSajY3QlgweG9fWjBhdDFNUGNZSnhpRzE0Mnk3RC10UjhXRFROZUpiNV9OZ2tuQlJLdGVMSTBVYnB2ZndhTEJRUFg2dlpMSTRadU95bmNsd2s3eGM4RE81R1BoR195blA4djhNR19xR2NQQmxWZW9LRmVuN2RGdVVfZko1SXBjWFdfUVN5dUJiZXVESzMtOFh3TmlaVXVyejFNdzFfVkI2VXNOVTY3YjczTFRxb1hsUlJKUV9n0gHkAUFVX3lxTFBkOF9NeHl0YUhScFVpMFhnZUY5M0VEaERlZm9OZ1BzZWNsaVhoaGFlNGtyZEsxNERHS0FxNXhteUN3UDVGMkNMOGJQV0pMY1hNQ1RYSXZJQUcybHpHRU5kUW52NzdqeGtaR01PVGxfMF8xT3RUcjRkTVYxdVVsZFZJOGxlYk41V3hMMW8zVTFLY2l4WmRqaUpFdXhfZE9WT2E1cWp0YWlCazROTWFxOC1vS0hkYVg1R1BHN0JqSWJYQW53eTU0eGVmeGlLdXNyb25Ua2RlQlVaTFdZZUU3V1hjWXA2aA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMkpRY1VNYmFMUGhaZHhjaHptMkhNa0VLRmRwTWdSM3l6ajBSajY3QlgweG9fWjBhdDFNUGNZSnhpRzE0Mnk3RC10UjhXRFROZUpiNV9OZ2tuQlJLdGVMSTBVYnB2ZndhTEJRUFg2dlpMSTRadU95bmNsd2s3eGM4RE81R1BoR195blA4djhNR19xR2NQQmxWZW9LRmVuN2RGdVVfZko1SXBjWFdfUVN5dUJiZXVESzMtOFh3TmlaVXVyejFNdzFfVkI2VXNOVTY3YjczTFRxb1hsUlJKUV9n?oc=5"
         }
       ]
     },
     {
-      "id": "2ed11936c442",
-      "title": "Ideologia não deve ficar acima da ciência nas decisões de saúde, diz Chapchap sobre próximo governo - Estadão",
-      "published": "2026-10-19T08:30:00+00:00",
-      "summary": "Ideologia não deve ficar acima da ciência nas decisões de saúde, diz Chapchap sobre próximo governo&nbsp;&nbsp;Estadão",
+      "id": "4363ee3ab269",
+      "title": "Sintomas de AVC: saiba identificar os sinais e quando chamar o Samu - Jornal Correio",
+      "published": "2026-10-19T08:15:00+00:00",
+      "summary": "Sintomas de AVC: saiba identificar os sinais e quando chamar o Samu&nbsp;&nbsp;Jornal CorreioMês de prevenção ao AVC: HGF explica sinais da doença e importância do atendimento rápido&nbsp;&nbsp;Governo do Estado do CearáHospital Clériston Andrade registra 1,2 mil internações por AVC ao ano e promove corrida de prevenção em Feira de Santana&nbsp;&nbsp;Jornal Grande BahiaAVC provocou quase 90 mil mortes no Brasil em 2025; Bahia registrou 2,7 mil óbitos&nbsp;&nbsp;Alô Alô BahiaIncidência de AVC qua",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRmY1b1FGVVJGN2UzTlN3X3Y0RE5JQ2dQRU90RnJDVTc1VDBJUjVLdWwtNXVfWWJWNkhtMlBQOTZFR1BpTGlCV0liZkdRdTRtVDlnbk41NEtIUGNreFNsWGZUdlh1cnFfMmZQVjV5THEwV09EclVDX1pBenlYZkFic0ZRV0RhUEZ2dzVndFdqTndQRUZ6SjVWUGNuaXJEVjhhSjRlc1hqTUZJR2VHWjJGZ2RoVTl4U3Y2eExMZ0pYNHQ4VUc1QnFHS0ZiN0tVZ9IB0wFBVV95cUxQWF9xTEdoNGF5N1NkR2VEaGFFakl5MFNmUVhZYlFUZzd0bWtIcWtFRmplY2R0ay1zZmM3bVIyeTlYdmNaQl9PZDR2T0RFbjNEanMwMHp6V1NXcDcxZXBrMGdLU2p1eGxPVzBxd3BpX3FCMlBqbDdsNVQ0R3VuMXBXeWFSQW50S2hCUVJLSTFycUVUQXkxb0hFU3B2dmpUa1BXT0hWOVZ6a2lQcWVHYVh6NFF6eFpCV3RGUGlnb2lhUDNKYjhtMFNmbXVqbFgzSVIyRVBv?oc=5"
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzEwQnNYSXBCV1NTMjNud19oQWxwelp1WnBSUG5IV19veFRKUlVFVHk5dnVCLTl6QkE0QVRXVm9UVjhOaEtqazRJV1R1UjZmWWxJSnlKNndLMHFaUEdXWmR2TFlmWHN3R2RFVXBqTEhxeXJCU3I0eUJlY2JSQ24xSUpkdkRYeF9CSDhQeTVRVkYyS1h2SXZhT1FnbzJZb2s4LTdlU08wZ29vYlRtMnhxSA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "200eae336f12",
+      "title": "Consumo de cafeína na infância pode afetar o desenvolvimento cerebral, além do sono, aponta estudo - Extra online",
+      "published": "2026-10-19T07:30:00+00:00",
+      "summary": "Consumo de cafeína na infância pode afetar o desenvolvimento cerebral, além do sono, aponta estudo&nbsp;&nbsp;Extra onlineDá refrigerantes com cafeína aos miúdos? Estudo identifica alterações cerebrais&nbsp;&nbsp;Jornal de NotíciasCafeína em café, refrigerante e mate pode afetar cérebro de crianças, diz estudo&nbsp;&nbsp;Diário do Centro do MundoCérebro de crianças que ingerem cafeína se desenvolve de forma diferente&nbsp;&nbsp;Única NewsCérebro da criança que ingere cafeína (incluindo a do refr",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3lFbzdqcEVRdnMya0wwQm93UDlsNUM5ZDJsS1RtZG5vdWx4MXNZTmJLaHcwOEhjckdITUF3LVpKa3picnF5ejRpTnJYaGpSOHROaXlhV3Fmanc1aDNicE5JTWdxYV9SYnVUMzNNUTk3X0R2UHFXUXpZYnFaYzB5ajY1Zm1RcWFVZzBwSHpKbTBPQ24yUzA3c0hlYXppVnFYUmdkU1dmMG5iREExSktSWjhtTDFwbDBwTWlnNGt3cU5KZUpJWkhPdS1XMmZLS2oxcFJlemVzUW9zMlk0Wjc2bjd30gHwAUFVX3lxTE43bklpRE9vc3dwcTdDMThELW1pRGRvbFgzODQ3SV9Yczllcy1oeGg2aUR5U0tpWGpBSnZONXZ2b2hzNGFIbjc2RVFKa0ItUEREYVZXQnN3d1F1UnZLdjFJeGlNcmlCWjlzaExxS1Zxd0daektYLUR6N2pCeUZHYTUzd0ZEQUFsNGRCNFhJaGdvYnhsbmNFbVFFdmtYcEVUVzZqU3pKMDNkaDNwSEpHT1NoU2F6bi1VdFEwZHBvZmpUY3B6eno0bjYzazFJZjFaOUltd1UyRUhiQ2EyQXJtMEQ4N0NFLWFFSVA1XzlhM2tISg?oc=5"
         }
       ]
     },
@@ -81,7 +249,7 @@
       "id": "efa81cbf642d",
       "title": "Artrite reumatoide: mesmo com inflamação controlada, pacientes podem sofrer com dor e fadiga - G1",
       "published": "2026-10-19T06:00:00+00:00",
-      "summary": "Artrite reumatoide: mesmo com inflamação controlada, pacientes podem sofrer com dor e fadiga&nbsp;&nbsp;G1Artrite controlada não garante qualidade de vida, mostra estudo&nbsp;&nbsp;TV Sim BrasilVida das mulheres nem sempre volta ao normal após melhora da artrite&nbsp;&nbsp;redeutv.com.br",
+      "summary": "Artrite reumatoide: mesmo com inflamação controlada, pacientes podem sofrer com dor e fadiga&nbsp;&nbsp;G1Artrite Reumatoide: dor e fadiga persistem mesmo com inflamação controlada&nbsp;&nbsp;R7Estudo associa incapacidade funcional à pior qualidade de vida na artrite&nbsp;&nbsp;Afya | HomeEspecialistas da HU Brasil reforçam importância do diagnóstico precoce da artrite reumatoide, que afeta 2 milhões de brasileiros&nbsp;&nbsp;Governo FederalLivro de Hospital Universitário de Dourados vai reunir ",
       "sources": [
         {
           "name": "G1",
@@ -93,23 +261,11 @@
       "id": "e5915285c752",
       "title": "Casos de câncer estão aumentando entre os mais jovens, aponta relatório - CNN Brasil",
       "published": "2026-10-18T17:02:57+00:00",
-      "summary": "Casos de câncer estão aumentando entre os mais jovens, aponta relatório&nbsp;&nbsp;CNN BrasilEstudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos&nbsp;&nbsp;G1Câncer colorretal já matou mais de 15 mil pessoas em MG desde 2020; especialista faz alerta&nbsp;&nbsp;O TEMPOCâncer de Intestino Está entre os Tumores com Maior Potencial de Prevenção&nbsp;&nbsp;Forbes BrasilO câncer colorretal está se tornando mais frequente em pessoas mais jovens: 5 maneiras de reduzir o risco.&n",
+      "summary": "Casos de câncer estão aumentando entre os mais jovens, aponta relatório&nbsp;&nbsp;CNN BrasilEstudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos&nbsp;&nbsp;G1Por que o câncer de intestino tem se tornado mais comum entre jovens?&nbsp;&nbsp;GZHCaso da cantora Lua Branco chama atenção para câncer no intestino em pessoas com menos de 50 anos&nbsp;&nbsp;Bem ParanáPor que têm aumentado os casos de câncer entre adultos mais jovens?&nbsp;&nbsp;Olhar Digital",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzIxVjFFLUppaVJDUm9oS3BzTG9WLU9hazY3SnNkMDBiajlrRWctbS1Wd1E3R1Jhb0l0OHpaZHR4UHBUZVFGOU5KS21iOWtPdUVWMXdCLVBfTV91TW9WZGlUNHVDUVRHQy11RGpORDBfVzZDXy1KNjI2S1hrRkFGU3JtRGEzMC10emdFVHl5WmxEbF9DR0QtLVNPZnQxb3FHanBIWkRiQVRWdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "959f73864cc5",
-      "title": "Rio já registra mais de 15 mil casos de síndrome respiratória grave em 2026; saiba como se proteger - Diário do Rio",
-      "published": "2026-10-18T15:32:49+00:00",
-      "summary": "Rio já registra mais de 15 mil casos de síndrome respiratória grave em 2026; saiba como se proteger&nbsp;&nbsp;Diário do RioRJ já registrou mais de 15 mil casos de Síndrome Respiratória Aguda Grave em 2026&nbsp;&nbsp;G1Mato Grosso do Sul registra aumento de casos graves de SRAG por metapneumovírus, aponta Fiocruz&nbsp;&nbsp;MidiamaxRinovírus tem tendência de aumento em Minas, aponta Fiocruz&nbsp;&nbsp;O TEMPOAcre deixa de apresentar tendência de aumento dos casos graves de Covid-19, aponta Fiocr",
-      "sources": [
-        {
-          "name": "Diário do Rio",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObDJpTmhDZkJ4WXMzdnhfTC13eXZmZXp3TXNFWFpGdU5sRzA1Wk9yQnRmM2dPMWF4ckt3aFc2SFdQVHBMeHNCVFdfWlMwMlp4RWhLMmIySjdPMVhCSms0Y0tHZ2todXpkdEphd21QMkpZamN1VUMzOGxhZ2pKYnNiVEZLUmE0NG1jUTJrMm9ZZS1nTXZ3VXZtaEZ4b1lGRkFzSGszM0dEUEJtYllxVjg0ZW1HOVVBdnF0cXlkSDRwRXJya2gtRC16NDhoWDlpajRFOER1OWNLazJKQlFF?oc=5"
         }
       ]
     },
@@ -129,7 +285,7 @@
       "id": "31d625ad53c5",
       "title": "Cansaço que não passa mesmo após dormir pode ser um sintoma perigoso; entenda - Rádio Itatiaia",
       "published": "2026-10-18T14:47:26+00:00",
-      "summary": "Cansaço que não passa mesmo após dormir pode ser um sintoma perigoso; entenda&nbsp;&nbsp;Rádio ItatiaiaOs três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOA busca pelo sono perfeito pode estar tirando o seu sono, alerta médica&nbsp;&nbsp;O RegionalCelular antes de dormir: como evitar insônia, diz psiquiatra&nbsp;&nbsp;Campo Grande NewsA falta de sono aumenta o risco de muitas doenças.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Cansaço que não passa mesmo após dormir pode ser um sintoma perigoso; entenda&nbsp;&nbsp;Rádio ItatiaiaQuer dormir melhor? Diretora do Instituto do Sono tira dúvidas em live da CasaFolha&nbsp;&nbsp;Folha de S.PauloOs três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOEfeitos do celular na qualidade do sono que muita gente desconhece&nbsp;&nbsp;al1.com.brLuz azul, sono tardio e cortisol: como os hábitos modernos impactam o ritmo circadiano&nbsp;&nbsp;Grupo Longe",
       "sources": [
         {
           "name": "Rádio Itatiaia",
@@ -174,38 +330,14 @@
       ]
     },
     {
-      "id": "3aeaa9cd9e76",
-      "title": "31% das brasileiras na menopausa sofrem com perda de memória, diz pesquisa - UOL",
-      "published": "2026-10-18T12:30:00+00:00",
-      "summary": "31% das brasileiras na menopausa sofrem com perda de memória, diz pesquisa&nbsp;&nbsp;UOLComo proteger o seu cérebro na menopausa, segundo uma das maiores especialistas do mundo&nbsp;&nbsp;Assine AbrilDificuldade em relacionar sintomas como ansiedade e palpitações à perimenopausa pode atrasar diagnóstico&nbsp;&nbsp;redeutv.com.brPerimenopausa: sintomas que podem ser confundidos com estresse e burnout&nbsp;&nbsp;Saúde em DiaCansaço constante pode ser perimenopausa: 7 sinais de alerta e como agir&",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3piMmdJRzg0R2hKVDNwZW9MMDVKLTh1VTdFMXFnbzlrcDRJSEltR3FEbFFYLTJ0U0pBZUFQRmY2QndudW10T09wSmtJX1VIZXFJc044Nm1OT0VBdEMzVGRCNUdvZmhqTzJiMDM4dGQ0SVZiRThSSU1wUWNZQ1VEb1VCeHJHa0tKSHY0WjVnLVo4eWZwNDFCWDFvWndRaVRwSy1Icmc1dW94MmZPWVNUM0Y2b3JOWFFuTktvaUo3SFdJUTQ5RXNvVlZITUppWWY3Wnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2376258f4692",
       "title": "De colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos - G1",
       "published": "2026-10-18T09:00:00+00:00",
-      "summary": "De colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos&nbsp;&nbsp;G1",
+      "summary": "De colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos&nbsp;&nbsp;G1Outubro Rosa: enfermeira do Iamspe é cuidada por colega que treinou durante tratamento contra câncer de mama&nbsp;&nbsp;agenciasp.sp.gov.br",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUzl0R18xMFJsVUw1czVOT0dIN2NoT1o4N1JTeE9BZ2o5Q2Zia3p1LTMwZUZQNjF1X25aVGVsS1ByTjZfWENFenk4YnQtZlNXRzdRU2FkREUwSWNVUEs1ZG1YeHc4eEZyckRrSEZRV3c4b3NVSlZLRXpqcmNrUk0tRk5MRkc0R2hzeUFuTXQ0d1lrRzI0d0FNTFJCVGY5Z1pqN0d4VnQybnBHMF9LT1pzUGRmSVhVZzJESzFEMlpBLWxKMlVBNFlpR21sTDR6LTdDOHNhbHdGTDdBckxUbjEwSV9uUml5Z9IB9AFBVV95cUxQUmdNTmk3OVpUTDdUV2g1NjJ1UWFIWHc5UDJVVDVma1BIbVhYUjZqZVROVy1fR1g5X0ticFNKakZ0cFp4UW1NM1hsZmxyMEQ4aDRyZFlRYVl2ZEJxU3djenNIV1p2ZGphemg5eGdnRFVER01aMHpTSzA0N24wakVDcXJvZFBNSmZkX041bFFmcG8zT1RyWDI5MVlPNXFLN0x1OXZtTHUwTWFIRW1fSTBFeUtRcllaeVE4RU1sQlhSZU50MGVZSkRqVjEtZ19FU1RkX3VOaFlFUndzZUxjcW5jUW5PYUFYYXREUUZLLXFfQzBUUFZL?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4e556ed529cc",
-      "title": "“O tabu adoece mais que a fase em si”: 10 mulheres abrem o jogo sobre a menopausa - Globo",
-      "published": "2026-10-18T07:07:00+00:00",
-      "summary": "“O tabu adoece mais que a fase em si”: 10 mulheres abrem o jogo sobre a menopausa&nbsp;&nbsp;GloboEspecialistas explicam efeitos da menopausa após relato de Claudia Raia&nbsp;&nbsp;MetrópolesMenopausa: veja cuidados que ajudam a aliviar sintomas e preservar a saúde&nbsp;&nbsp;D24AMDia Mundial da Menopausa: 30 milhões de mulheres no Brasil estão neste fase, mas diagnóstico chega a 238 mil&nbsp;&nbsp;Bem ParanáDia Mundial da Menopausa destaca cuidados com a saúde da mulher&nbsp;&nbsp;O Dia",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONFB6RkVNVXp4ZkxwQkdudEdqZjdsMGxtVERxdjBKdG9hT1dfamlFdWI0VVNLb2R2SFk3ZjFCVUNDOWJrSWZvVjhEbWJCaUNMSlRwdUdZeWwzWWFybHZjVDVib0tMZmM5MklFSy1OY0Y4ZVV3MUxRck53RExCMDVXWGhZbUlfbkl5d0VUTi1pcXlpYzJVNlU0eUdUOUpzS3l3cV9HUmloRFpsTjBLWUFqOFlvckhWWG1aREhCdGU4djBObUdBOHl2OXBESThaVUXSAd4BQVVfeXFMTzBBb3VPWU5YOFBKX1RGaTlVZ1NJTnVqUlhQZFhBcVRSR04zSHZnMnhFQnI0NXpLV09NQW9PQjVqS3ZWOVhwZm1lUmJTU2FhOVpPX0JIWERFUENoLWt0dkpNaWFLY3pqQ1hfRWhLSmwtT1h3T3VPTDk0LUxuSlFLeTJMRnNkQnlmelJRSkVPd19VS2FLWE0zZWozekpmTjVuYTBzOXdib1pBdnBUc0JjMm9DY3Q3MF8yMWxaZENxZk5JeTVpbUZYVjE2dU9FbV90LXBqQjI2ZlctTWkzZ0dB?oc=5"
         }
       ]
     },
@@ -234,22 +366,10 @@
       ]
     },
     {
-      "id": "6ab6f02ebf2d",
-      "title": "Médico explica se existe um horário de almoço ideal para quem tem diabetes - Metrópoles",
-      "published": "2026-10-18T05:00:00+00:00",
-      "summary": "Médico explica se existe um horário de almoço ideal para quem tem diabetes&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1VnNVJWMzZ0ZHBIdThpU0JfY182WXU0SU9pSmYtY1BnaTVtaE1Kbm91UFJDTTlkd2J5VkIzeDZQNUVNQm1CSnhsLUV5N25MLVRKVm5jNW5XRnpmREVLNzNYR2FJdUJwbWVLYVJvcnNhWEJBZEhXNmlyUy1RUnF0X2RnbTgtczJ0R2V6MENfcGJtc1BJMEpNRU9TNmg0dUdYRGFZWlU0WVNMR2VvdGlMUGkxMG95ZzV6dXBjOTZMbEE5aVU5?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c2b78e46886d",
       "title": "Como olhos biônicos estão se tornando realidade - R7",
       "published": "2026-10-18T05:00:00+00:00",
-      "summary": "Como olhos biônicos estão se tornando realidade&nbsp;&nbsp;R7As novas apostas da ciência para superar uma doença capaz de levar à cegueira&nbsp;&nbsp;VEJAImplante devolve parte da visão central a pacientes com degeneração macular&nbsp;&nbsp;O Cafezinho‘Sempre achei que devolver visão a cegos era ficção científica’, diz inventor de implante&nbsp;&nbsp;Gazeta de São PauloScience Corporation implanta chip restaurador de visão no primeiro paciente&nbsp;&nbsp;Boa Informação",
+      "summary": "Como olhos biônicos estão se tornando realidade&nbsp;&nbsp;R7Implante devolve parte da visão central a pacientes com degeneração macular&nbsp;&nbsp;O Cafezinho‘Sempre achei que devolver visão a cegos era ficção científica’, diz inventor de implante&nbsp;&nbsp;Gazeta de São PauloScience Corporation implanta chip restaurador de visão no primeiro paciente&nbsp;&nbsp;Boa InformaçãoOlhos biônicos recuperam parte da visão: implante de retina ainda enfrenta limites e riscos, mas trazem esperança&nbsp;&",
       "sources": [
         {
           "name": "R7",
@@ -273,7 +393,7 @@
       "id": "b3b00d98aa68",
       "title": "Seis frutas podem ajudar a reduzir o risco de câncer; saiba quais - ICL Notícias",
       "published": "2026-10-18T01:30:00+00:00",
-      "summary": "Seis frutas podem ajudar a reduzir o risco de câncer; saiba quais&nbsp;&nbsp;ICL Notícias",
+      "summary": "Seis frutas podem ajudar a reduzir o risco de câncer; saiba quais&nbsp;&nbsp;ICL NotíciasAlimentação saudável pode ajudar na em tratamento contra o câncer&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -285,7 +405,7 @@
       "id": "b25c42877845",
       "title": "Crianças e adolescentes se exercitam menos e já apresentam pressão alta e excesso de peso - G1",
       "published": "2026-10-18T00:16:30+00:00",
-      "summary": "Crianças e adolescentes se exercitam menos e já apresentam pressão alta e excesso de peso&nbsp;&nbsp;G1Quase 30% das crianças têm pressão alta e sobrepeso no Brasil, diz estudo&nbsp;&nbsp;BandQuase 3 em cada 10 crianças avaliadas em escolas brasileiras apresentaram um sinal preocupante, e os pesquisadores chamam a atenção para o que isso revela&nbsp;&nbsp;Tribuna de MinasQuase 30% de crianças e adolescentes têm hipertensão, diz pesquisa&nbsp;&nbsp;Correio de Carajás",
+      "summary": "Crianças e adolescentes se exercitam menos e já apresentam pressão alta e excesso de peso&nbsp;&nbsp;G1Quase 30% das crianças têm pressão alta e sobrepeso no Brasil, diz estudo&nbsp;&nbsp;BandQuase 3 em cada 10 crianças avaliadas em escolas brasileiras apresentaram um sinal preocupante, e os pesquisadores chamam a atenção para o que isso revela&nbsp;&nbsp;Tribuna de MinasQuase 30% de crianças e adolescentes têm hipertensão, diz pesquisa&nbsp;&nbsp;Correio de CarajásPressão alta atinge 28% das cr",
       "sources": [
         {
           "name": "G1",
@@ -297,7 +417,7 @@
       "id": "9431e7c6efb5",
       "title": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública - G1",
       "published": "2026-10-17T23:58:14+00:00",
-      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G117 de outubro é o Dia Nacional da Vacinação&nbsp;&nbsp;SenadoMinistério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo FederalDia Nacional da Vacinação: Jundiaí reforça importância da imunização e terá ações ampliada neste sábado (17)&nbsp;&nbsp;Prefeitura de JundiaíMenos vacinação, mais riscos: como o setor de saúde reage à queda no número de imunizados&nbsp;&",
+      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G117 de outubro é o Dia Nacional da Vacinação&nbsp;&nbsp;SenadoMinistério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo FederalDia Nacional da Vacinação: Jundiaí reforça importância da imunização e terá ações ampliada neste sábado (17)&nbsp;&nbsp;Prefeitura de JundiaíDia Nacional da Vacinação: Sesa alerta para a importância da imunização&nbsp;&nbsp;Secretaria de",
       "sources": [
         {
           "name": "G1",
@@ -318,26 +438,14 @@
       ]
     },
     {
-      "id": "92f29149b8b9",
-      "title": "'Água-viva' luminosa surge no céu após lançamento de foguete; entenda - Primeira Página",
-      "published": "2026-10-17T16:38:47+00:00",
-      "summary": "'Água-viva' luminosa surge no céu após lançamento de foguete; entenda&nbsp;&nbsp;Primeira Página",
+      "id": "811d7303ac42",
+      "title": "Gatos castrados precisam de cuidados específicos? Entenda - Canal do Pet",
+      "published": "2026-10-17T18:00:00+00:00",
+      "summary": "Gatos castrados precisam de cuidados específicos? Entenda&nbsp;&nbsp;Canal do PetCastração de cachorro: veterinário responde dúvidas sobre o procedimento&nbsp;&nbsp;A GazetaCastração de cães e gatos: benefícios vão além do controle reprodutivo&nbsp;&nbsp;Estado de MinasGatos castrados: o que muda e como cuidar da saúde do pet&nbsp;&nbsp;João BiduGatos castrados precisam de cuidados específicos? Entenda como a alimentação pode ajudar a manter o peso saudável&nbsp;&nbsp;Catraca Livre",
       "sources": [
         {
-          "name": "Primeira Página",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWU3M1VaU2ROWjlmZUowWnNwOHZyNkVUaTBZNmRjRnFOeU8wU2VMSTdPM2RMeThmSHlEUjhBWm1OR0Z5TzlhNEE5ZEh4eFlMUF90VTh2NWcwNHVpNmc3dlE3ajZ3LUFEbXlpLW9xNjlXSDlOckFLVFk5WTRSdDV4WWJYLV8zUHFYMlNLeVRpREdxY05oUFUwMmdfM2kwSm5OR1FveUlmaTE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52e7ce581d75",
-      "title": "Extrovertido? Grande estudo mostra influência da genética na personalidade - UOL",
-      "published": "2026-10-17T08:30:00+00:00",
-      "summary": "Extrovertido? Grande estudo mostra influência da genética na personalidade&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM3hmQzlNaVF6VDF1LW10bDREY1lySFVhYWpETUNvN0VPcm9EOU5QR1lXd2pwNjZWSDNtWXh3S0xiSU5WdFNILUZxc2hMNDZDSlU2MUNueFQ1ck9uNnB3bTdHeHRGOW9qdDFuNVdraEdqbXB4SU5wR0JYanozOWt4dmloZzBMbWhYd1RPSmFfMl9Ra1ZmSndpbXNubWtUWjZUVDhIWm5PUnF3eFRBVDlRM0VYampESkJ3LWcyNGN4NDkzUVl1Y2w0cmlEV1Btd2FnbFE?oc=5"
+          "name": "Canal do Pet",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHFYajlUQUxaYUZ3aUJqc2JxSXd0UTFQTjBMWW5CQllnSDdsNnh3ZEZzRzFab191emxwSkNBM0lTcllkZGRiUmxmOEtWMmhDQWpqVXI0TTJMdDUzUVpUVXZUdEhyQkQxYmhZVFgwZkxTR1kwQTNBWi1GTW5kUTFqVXVVZy1YSFlKbHpYQVBwV0VaMlBRcDBUcFRjT2U4bExHWEFvStIBqgFBVV95cUxNQXA5Qm5PMU1fVU03MUdtRjZhR1JjYjhHZEt6ZVdhOTB1NDV3YmJoODRnbnFrQzVTaXdkeTN0UHRUbkNiS3JJNS1zNzhqZllHbkJ3SkNrVkI2UzM4eUFrUVpCZXFBZXZLLTl2MUIzSFhrbXFxdjFaT0o3ZDlpZEVrLUFveGFQa05PRE0xa0NKdXJ0ay11ZzV2ZWNaUy02UDlCdGFxbkx2U1hlUQ?oc=5"
         }
       ]
     },
@@ -354,18 +462,6 @@
       ]
     },
     {
-      "id": "7feb279c02ea",
-      "title": "Astrônomos afirmam ter descoberto a primeira estrela verde: as cores que as estrelas normais podem ter são praticamente apenas laranja, branco ou azul - CNN Brasil",
-      "published": "2026-10-16T23:58:50+00:00",
-      "summary": "Astrônomos afirmam ter descoberto a primeira estrela verde: as cores que as estrelas normais podem ter são praticamente apenas laranja, branco ou azul&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUExjOUJyQmdXaEhnaF9XRGloOGk4QzVtTlJ1X1lqRjhKcjYwZ21zOFhlbEF0S2tucTBjNTJST0ZGdGwzd01KU1E0TjRzeGt4aTQwLVpJUHcxU3A0OF9ibG11bDR1SDRWMjdxNklJY055aDVmMkY1Vmc5SVJXWG1ibzRRRUMxdG1kR0NocUNuYko5ajVBWnlWWkxOYXVrTXkxQk9PdmEtb2QtcEp0Y2JTYVdDeGNwUGxHUTFIZXM2SlNHejdibHU0UnJ2SHhuWDJqTktHNDVPTzkyUFJpMUxGOXk0U3ZqUWdNOXVGVVRRN2p2YWlBQUpwZGhKX2VrM2Jld3dWU3ZBenNWWVZsOVgzS3FmTjk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "deb7976d685f",
       "title": "Cursos de mestrado e doutorado do INCA inscrevem até 30 de outubro — Instituto Nacional de Câncer - INCA - INCA",
       "published": "2026-10-16T20:41:10+00:00",
@@ -374,30 +470,6 @@
         {
           "name": "INCA",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdjJ2aTFwc1E5cVJpS3h4UWIydEhOaTM0M1BPcEtoWGdvcmE2TzhZcXQxaVhnRGNkdk9IZ0pCX0g4X290ZEpGdndWZlhRVlZJVlNuekhtR196bGVTTHdSNlBya2dXUlEwT1VIZlNFOUpYZnJZY2g0a1M4bWIzd1NEZkltZzZnMElVMlA4TWI3Tk0tQ3p5b0NKTzdWbUgtMTU0czZCay0wWHg1Y0xDLVZGSmt5SDdFTmd6eFpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44146c0e680a",
-      "title": "Hospital Sírio-Libanês confirma incidente cibernético em sistema interno de relatórios - Estadão",
-      "published": "2026-10-16T20:20:40+00:00",
-      "summary": "Hospital Sírio-Libanês confirma incidente cibernético em sistema interno de relatórios&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlllU0RQTW1RazF1WE1jVDlGS1lqRnptNmwzYnlJT3A1UG8td2JsQ0xBdHlxbWwxX2dkOWQ0ME4yZWQxNUQtZ0hVVk5KVXVlVnB3YllxRFNNNWpXcGFyb2kzdkxnaHhNR1hqbFV1b3lNdTZWRUM0bUxNLWJqVDJaaWJyMmU2MHh5Rl9tYkJnQ01ySVpLVF9TZXVfUHYtUUJuLWxfblR4Q09pRkVnT3hDYmNMY1Y5WjBjY1JJMXJTNDFkUno2RXo4cEltNGt0cmst0gHWAUFVX3lxTE9aOEJkQWJDVXJfaEd5V0NjZVROTXN0dzVGNGVYUGJxdHQ0di05V1Rfd2lUakdwZmc0OFAwNnF0eDFhVm9ZWVZYUG9Gc2lSeGcxLVgyLVJtTjY5VVZWdGd2LUhENGZ1MUhUdE5wOERZQndlNk5nLUhYUWtEcVZxbnE3Y0lTMzlrOWxfTDZONHQxLVl0Y0ZObDVXaGpQbGFMX0NUck9Ma2xoMVdyZV9abV85WDRtUEplY1I3QVRyblVwTVFkMFVvRFI4cVZodFZrZ0FaV3ZqU1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2a8e75cddb65",
-      "title": "Pesquisa revela depressão no clero: os padres escutam, mas não têm quem os escute - Vatican News",
-      "published": "2026-10-16T11:43:48+00:00",
-      "summary": "Pesquisa revela depressão no clero: os padres escutam, mas não têm quem os escute&nbsp;&nbsp;Vatican News",
-      "sources": [
-        {
-          "name": "Vatican News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmdEUEVrbDdsaXhfQkpkdjJtWEJSZ3NkbkY4SjE4OF9jNlBpZGVzSC1ubkZUTUdfM0xKT0llZkJSWUJvdnFJWExKU3psR2hVQk5XdEJwbzFIbGlmYkJkQVhGd2E5bDRDZUZTUGZPek9pYkFETTRBMy03OG5fbFJ1elJEWlpGRUg3WmlnaWlIR2I?oc=5"
         }
       ]
     },
@@ -414,38 +486,26 @@
       ]
     },
     {
-      "id": "82d85adb13c5",
+      "id": "a68615bfd121",
       "title": "Primeiro exame de sangue para Alzheimer com registro na Anvisa chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela - G1",
       "published": "2026-10-16T05:00:00+00:00",
-      "summary": "Primeiro exame de sangue para Alzheimer com registro na Anvisa chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela&nbsp;&nbsp;G1Coordenação de Comunicação Social » UFPel lidera etapa regional de pesquisa para diagnóstico de Alzheimer&nbsp;&nbsp;Universidade Federal de PelotasExame para diagnosticar Alzheimer é disponibilizado no Brasil&nbsp;&nbsp;Poder360Hospital de Porto Alegre é o primeiro do Brasil a oferecer exame de sangue para investigar Alzheimer aprovado pela A",
+      "summary": "Primeiro exame de sangue para Alzheimer com registro na Anvisa chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela&nbsp;&nbsp;G1Coordenação de Comunicação Social » UFPel lidera etapa regional de pesquisa para diagnóstico de Alzheimer&nbsp;&nbsp;Universidade Federal de PelotasExame para diagnosticar Alzheimer é disponibilizado no Brasil&nbsp;&nbsp;Poder360Chega ao Brasil teste de urina que pode revelar em 10 minutos sinais ligados ao Alzheimer&nbsp;&nbsp;Portal UAIEstud",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWU1zTW1wZVZVMWRqMk1YOUdpQ0hpMXhNVEN5N25WaEJFVWFXdlp2YU9FcTV2UjE0M01FZGtPOC0xRk5uLURDVE5OS3lBaG1IVGYtc2NTQmw5eVViaWo1NTRHN1lIdVpoZTNEZm80YU51bjc1TVVrbXdyenA3OXdwX2QzbmxOdE1kcEpjYkYxN3kxNWJyYXFmRWN6bUJpZUlERGdLWkFIOXJpQ2EwMlpEZTRsbVM2NEZZQ01KV1VHRktGRWxzNDlwT0M2aGlhcmMxTlVyay11RENZUU10X0ozWFJvR1NVQzJTSW5KYl9OODjSAf8BQVVfeXFMTzVVdnVCRUF3azRKRWVuS2tEd29pNG16MTE0ZVJBbF9uZm5lVTBzZmNKRUV5dVRfMG9uVVUtRnpBVUxTZkRsanFnRDN1bFJwZS1PcWMwX205MTMyR0RyNTJ0b1JkTmlOYnRIMEdYX1lIX1pjUXFYOHh6UHhPcU1GZ1FDeFFUUEduc0FwSTd1NzRWV0NSZ2RJRjdJU0xaYXpmMEdqcDVQZTlXNElTTnRXWVJ2OGcyMzZ2Z0JIa3djeDFHS3JLSUN1UjBJbzU0SnlTQzgyd0NDZEcyWU9JV01iUVNudW9ScHBrdjhJQzBEWFdMNzBkT1A2TUJmVTRNOW9j?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWU1zTW1wZVZVMWRqMk1YOUdpQ0hpMXhNVEN5N25WaEJFVWFXdlp2YU9FcTV2UjE0M01FZGtPOC0xRk5uLURDVE5OS3lBaG1IVGYtc2NTQmw5eVViaWo1NTRHN1lIdVpoZTNEZm80YU51bjc1TVVrbXdyenA3OXdwX2QzbmxOdE1kcEpjYkYxN3kxNWJyYXFmRWN6bUJpZUlERGdLWkFIOXJpQ2EwMlpEZTRsbVM2NEZZQ01KV1VHRktGRWxzNDlwT0M2aGlhcmMxTlVyay11RENZUU10X0ozWFJvR1NVQzJTSW5KYl9OODg?oc=5"
         }
       ]
     },
     {
-      "id": "074f2a513c02",
-      "title": "Levando o GPT-Rosalind aos laboratórios de pesquisa acadêmica - OpenAI",
-      "published": "2026-10-15T21:21:36+00:00",
-      "summary": "Levando o GPT-Rosalind aos laboratórios de pesquisa acadêmica&nbsp;&nbsp;OpenAI",
+      "id": "b3fe2bff56f3",
+      "title": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe' - G1",
+      "published": "2026-10-14T05:00:00+00:00",
+      "summary": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe'&nbsp;&nbsp;G1Outubro Rosa: 5 anos após câncer de mama, mulher engravida e amamenta bebê&nbsp;&nbsp;MetrópolesPreservação da fertilidade em mulheres com câncer&nbsp;&nbsp;G1Câncer de mama: congelamento de óvulos é uma opção&nbsp;&nbsp;iG Delas'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer; agora, aos 44, sou mãe'&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "OpenAI",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0WmRua1VMeGVuQVdicXhjeGdqNWtoOXplR0MwcW1RYkFDenV6UFd1d3NFWUxhUmVnV200RXRDbEpuUGczUXl6QmRGRFBrclRyTnBzd1k2N2hqZVU2VkRfa0NpT28xUjZueHg0WGFpSFhLeXUxZkxXelRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "862ad1858aaa",
-      "title": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe' - BBC",
-      "published": "2026-10-12T22:46:21+00:00",
-      "summary": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe'&nbsp;&nbsp;BBCPreservação da fertilidade em mulheres com câncer&nbsp;&nbsp;G1Outubro Rosa: 5 anos após câncer de mama, mulher engravida e amamenta bebê&nbsp;&nbsp;MetrópolesCâncer de mama: congelamento de óvulos é uma opção&nbsp;&nbsp;iG DelasMaternidade após o câncer de mama é possível&nbsp;&nbsp;J3News",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ySXFSaXB3ZFU3b2RXYXdmMXJRR1ZwaWIxTEVyWUNUNURDSXZqbWtvZ3QwTnNfNUkwRkRJQkt6X1JCcUFFOWoxcTB0QlhWSFBfNVU4a1Mzd1VMYWR2bl94YWlSQdIBaEFVX3lxTE1fWXlIMFkyZ3doVUVfNFJicGpvVGFyT21WMnoxcmZ6UVJNS25KcC1LQ3V1Q3FBaXdaOWRQQ25BZzRjQURzbzZqNklvdnJrWnA0V3ZqY1JLNU5sdkh5ZllreE9NOVhtZDJP?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSVA3eVh6UFU3UnFnQlhPc3pNeVZrX2ZKd0dqNE0zaGV0XzdPNnVaMjZrTTY1dHppaks3Q1I3LXlCN0tMeHhQWFlnZGNYZW83UUZ2SXhkUGVUN2Y3SnNSUTlJODkxTWdQLTM2UktpdjFDNlRJelV3WFVYUHc4b2MxRnIxTjJLcWxyUjR1XzFndFV3ZXRkUXRHNThrUDExb2ZPX0MwV3hXOXhWb3FXMHM4R1ZxUzVWSHAtWEx2aTNDdjRVQXItSG1pQW83d3dNUVExTUMweEZrVdIB5gFBVV95cUxNTGxVSlJfTXppMkhJOFB2Z0Itd3dYWlFoUkJVUVMzcElKTWFpVmxTcHpldExTUVVOX1BvN1lEUTl1NHJYLUdFMWhIQW9jRUZGeUo1dUlEcGVUU0VndkVVZC1fbURIWV9uWnZ6b0t4R29hN1VEYjFoNXZhWjdiU29MMWFkQmw3S0pLZTJjTzdrS1NZX2NGaWxDeGFhV3ZUaC1kUWs5c2hyMFhfS2pINXNDSERaQzB4RUMyZ3VIX19LM2FCWUMycEtmRURGUURlUW1PZ2NfNmpPT0dOZ01CcE5yN2xuaXp6Zw?oc=5"
         }
       ]
     }
