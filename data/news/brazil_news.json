@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-19T22:05:17.315641+00:00",
-  "total_fetched": 101,
-  "unique_count": 101,
-  "health_related_count": 42,
+  "fetched_at": "2026-10-20T03:55:25.309222+00:00",
+  "total_fetched": 97,
+  "unique_count": 97,
+  "health_related_count": 40,
   "news": [
+    {
+      "id": "589177885ec4",
+      "title": "Japão lança foguete para primeira missão mundial a uma lua de Marte - UOL",
+      "published": "2026-10-19T21:47:03+00:00",
+      "summary": "Japão lança foguete para primeira missão mundial a uma lua de Marte&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkxRRGp6cmxfY18xWlVVZGhjeTBuUXpFU1pZVmlndDZKNXFtZXBQWERJWG5jVTU3OUgtbnJaVXFNZGlNMjcwTWhOMzVtR1NFWlFlSlFib2w0THg0emVWNFZnNzBSdFUyZWkzS3hWcld5T05DYXdhakQ4TE0ydTJQcDNwaHVsTUlzQXdQX2VRLXJLcE5Razl0cV9MOGxqbTVSQ3RVQWhYSEdzWER4Unp4cXZFcjh5dkZmTHdOZnVRN2E?oc=5"
+        }
+      ]
+    },
     {
       "id": "6d8af7307217",
       "title": "Revisão de 38 estudos aponta benefícios da maçã para coração e intestino - Diário do Centro do Mundo",
@@ -14,6 +26,18 @@
         {
           "name": "Diário do Centro do Mundo",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTFpUFhDVUh2VzdOdGdSMmhHTDdBclFrM1RrOHlQNE5mM3NycVB1ZDV2MkxRckNJUjYzNlZycXNIUlRVZFlPU0NnMi1YWFE0dThRSmYxX2k4LTl3R2RERG95NVpsXzdJWjlUODgxdm1RUmZkeG13SmpDcEVKNmVUeWpsS2VSbUJnSFVaZ09SZHpDSFpfWmlQdGxzbjJERU1PM3Vv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "27f86c386e35",
+      "title": "Menopausa: por que médicos dizem que o medo da terapia hormonal é maior que o risco real - BBC",
+      "published": "2026-10-19T20:54:09+00:00",
+      "summary": "Menopausa: por que médicos dizem que o medo da terapia hormonal é maior que o risco real&nbsp;&nbsp;BBCA menopausa pode influenciar os resultados das canetas para emagrecer?&nbsp;&nbsp;Gazeta DigitalEngordar na menopausa é inevitável? O que diz a ciência (e o que podemos fazer para contrariar)&nbsp;&nbsp;MáximaTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;iG DelasReposição hormonal na menopausa: existe uma janela ideal para iniciar?&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nd1NfU1VucFZBVWdqeUxRR25JSGZvUm9wWWpHREZDQlBqQW5ENDE0RU5zNzF5Z0w5Ni1OdXF0TXk4WTlIc0xOa19RYzJPdkNNaUlyYzNBUjY5OGEwT2dGVll30gFnQVVfeXFMTWtlYWg3ZkZKbkdHRzRPTFBEWWs2UTlxeWdvakVkdWdQMUVBZFVuek9vV3hfdVROUWVEYUItT2dkUWpxLXdvbG11Ry1MNjBJc0tzWm5ZT3c5LUJMVUg0ZVZvSnNpckppWQ?oc=5"
         }
       ]
     },
@@ -42,10 +66,22 @@
       ]
     },
     {
+      "id": "7e846ca40bf8",
+      "title": "Justiça determina que União custeie remédio para Alzheimer - Migalhas",
+      "published": "2026-10-19T17:41:00+00:00",
+      "summary": "Justiça determina que União custeie remédio para Alzheimer&nbsp;&nbsp;Migalhas",
+      "sources": [
+        {
+          "name": "Migalhas",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjJ0RXZqSXlScTdUV0xGTnNCZVF2S2pEVG9fNkdfVVQ2bDk1dmVsLXVrVGJNTFQyOEVKb0c0U01hTmJOSm54QzBpQkMxc1hJc1FUS0s2X1Nycy1acllaanlHV3JuWUhQdTVtRHNZMmhoWkpoRkIwWS1nUkpoY3FmYWFMYXlxX1lrSGo5OWlha2FoRzl5dzdFUm9ZejZXTDU0amIw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5c9dabac0106",
       "title": "Quantos passos por dia são necessários para estimular o funcionamento cerebral? Estudo de 14 anos indica o número ideal - O GLOBO",
       "published": "2026-10-19T16:06:29+00:00",
-      "summary": "Quantos passos por dia são necessários para estimular o funcionamento cerebral? Estudo de 14 anos indica o número ideal&nbsp;&nbsp;O GLOBO",
+      "summary": "Quantos passos por dia são necessários para estimular o funcionamento cerebral? Estudo de 14 anos indica o número ideal&nbsp;&nbsp;O GLOBOCaminhar 3 mil passos por dia pode reduzir declínio cognitivo do Alzheimer&nbsp;&nbsp;MetrópolesMais passos por dia se associam a melhor atenção, aponta estudo&nbsp;&nbsp;Diário do Centro do MundoQuantos passos por dia para ter saúde? Veja o que dizem os estudos&nbsp;&nbsp;Campo Grande NewsApenas 20 minutos de atividade física podem beneficiar a memória&nbsp;&",
       "sources": [
         {
           "name": "O GLOBO",
@@ -57,7 +93,7 @@
       "id": "9c15d57ca7c7",
       "title": "Injeção semestral contra HIV custará até R$ 20,9 mil no Brasil - Folha de S.Paulo",
       "published": "2026-10-19T15:19:00+00:00",
-      "summary": "Injeção semestral contra HIV custará até R$ 20,9 mil no Brasil&nbsp;&nbsp;Folha de S.PauloInjeção semestral contra HIV custa até R$ 20.900&nbsp;&nbsp;Poder360HIV: pacientes brasileiros começam a participar de estudo com tratamento que mantém vírus sob controle com 1 dose a cada 4 meses&nbsp;&nbsp;O GLOBOPrEP injetável: Dra. Beatriz Grinsztejn aponta caminhos para ampliar o acesso e garantir a continuidade da prevenção no SUS&nbsp;&nbsp;Agência AidsEstudo VOLITION avalia troca precoce para injetá",
+      "summary": "Injeção semestral contra HIV custará até R$ 20,9 mil no Brasil&nbsp;&nbsp;Folha de S.PauloEstudo no Brasil testa tratamento injetável inédito contra HIV a cada 4 meses; ativista recebeu primeiras doses no país&nbsp;&nbsp;G1Injeção semestral contra HIV custa até R$ 20.900&nbsp;&nbsp;Poder360PrEP injetável: Dra. Beatriz Grinsztejn aponta caminhos para ampliar o acesso e garantir a continuidade da prevenção no SUS&nbsp;&nbsp;Agência AidsEstudo VOLITION avalia troca precoce para injetáveis no HIV&nb",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -93,7 +129,7 @@
       "id": "ab7a2444e9bd",
       "title": "Rio amplia vacinação contra meningite para pessoas de até 59 anos - O GLOBO",
       "published": "2026-10-19T13:40:31+00:00",
-      "summary": "Rio amplia vacinação contra meningite para pessoas de até 59 anos&nbsp;&nbsp;O GLOBOPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de UberlândiaMS libera vacina meningocócica para jovens de 15 a 17 anos&nbsp;&nbsp;Campo Grande NewsVacinação contra meningite ganha reforço com ampliação temporária em MS&nbsp;&nbsp;Diário CorumbaenseMS adota estratégia para ampliar vacinação contra doença que pode causar meningite&nbsp;&nbsp;Dourados New",
+      "summary": "Rio amplia vacinação contra meningite para pessoas de até 59 anos&nbsp;&nbsp;O GLOBOPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de UberlândiaMS libera vacina meningocócica para jovens de 15 a 17 anos&nbsp;&nbsp;Campo Grande NewsVacinação contra meningite ganha reforço com ampliação temporária em MS&nbsp;&nbsp;Diário CorumbaensePrefeitura do Rio amplia vacinação contra a meningite&nbsp;&nbsp;Band",
       "sources": [
         {
           "name": "O GLOBO",
@@ -105,7 +141,7 @@
       "id": "068f56ae8b16",
       "title": "Sergipe é o único estado do país com nível de alerta de crescimento de Síndrome Respiratória Aguda Grave, alerta Fiocruz - G1",
       "published": "2026-10-19T13:40:07+00:00",
-      "summary": "Sergipe é o único estado do país com nível de alerta de crescimento de Síndrome Respiratória Aguda Grave, alerta Fiocruz&nbsp;&nbsp;G1Rinovírus tem tendência de aumento em Minas, aponta Fiocruz&nbsp;&nbsp;O TEMPORio já registra mais de 15 mil casos de síndrome respiratória grave em 2026; saiba como se proteger&nbsp;&nbsp;Diário do RioSE é o único do país em alerta para casos graves de doenças respiratórias&nbsp;&nbsp;InfonetInfoGripe da semana&nbsp;&nbsp;Afya | Home",
+      "summary": "Sergipe é o único estado do país com nível de alerta de crescimento de Síndrome Respiratória Aguda Grave, alerta Fiocruz&nbsp;&nbsp;G1SE é o único do país em alerta para casos graves de doenças respiratórias&nbsp;&nbsp;InfonetInfoGripe da semana&nbsp;&nbsp;Afya | HomeAcre deixa de apresentar tendência de aumento dos casos graves de Covid-19, aponta Fiocruz&nbsp;&nbsp;AcreNewsRio de Janeiro registra mais de 15 mil casos de síndrome respiratória grave em 2026&nbsp;&nbsp;Rádio Manchete Rio",
       "sources": [
         {
           "name": "G1",
@@ -114,22 +150,10 @@
       ]
     },
     {
-      "id": "589a3b1e07ac",
-      "title": "Menopausa: especialista explica sintomas e tratamentos - G1",
-      "published": "2026-10-19T12:53:08+00:00",
-      "summary": "Menopausa: especialista explica sintomas e tratamentos&nbsp;&nbsp;G1Dia Mundial de Conscientização sobre a Menopausa: condição afeta milhões de mulheres&nbsp;&nbsp;R7Especialistas explicam efeitos da menopausa após relato de Claudia Raia&nbsp;&nbsp;MetrópolesMenopausa: informação e acolhimento ajudam mulheres a viver a fase com qualidade&nbsp;&nbsp;O ImparcialMenopausa: veja cuidados que ajudam a aliviar sintomas e preservar a saúde&nbsp;&nbsp;D24AM",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam9UeDd1aG45ZlhmT2dKM3o0ZVJ4YnZFM1l6eVoyTWhpVEJtc0xVR1lZY25yamo4enZOcEM0OXVyZDNSbnpCNk4wUkUzcFdlM2hRTG11NFVvaDl2YWFUTDNjQnlqRU9wY2phWElRbTdwR1M2cVFrRFNrc29QRGNxcEx3ckhCTFRwb2x0QllPbFlkZDMtRl9GZ2VfeHpmM1J5dTE1ZWlzNWdSOHJLMDloNUtoYmEtOU03b0x5NDNjOXBZYkHSAdIBQVVfeXFMUE8xX19fVGJ2b3ppRHJLWVNHM281NUIwX0JOMjVkYkkyOHo4X3F3empCSS1mY1J4MXl2cGlRYzZQT0YteVJpSGtCd0VBUk1vNVZpQkhrZEhOZ0lySWt0MWdfUHp2aUUtVDVyNjhqRjJ3UmROcGZGZjI4UGVCMVotc25aRnJYaDRGU2Nma21tMUFSYl9vTzE1dlNKVXhISkpHRjRreWZiTExkZUJsMXZIZUpoc0dfaUZxb25aOUtqMm5WYXVocW1tSVNPX2U5bzg3TVZB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7a715568d1a1",
       "title": "Brasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes - UOL Notícias",
       "published": "2026-10-19T12:30:00+00:00",
-      "summary": "Brasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes&nbsp;&nbsp;UOL NotíciasQual é a relação do uso de caneta emagrecedora e o efeito sanfona? Entenda&nbsp;&nbsp;Assine AbrilCanetas emagrecedoras: o que acontece no corpo nos 30 primeiros dias? Veja efeitos&nbsp;&nbsp;O TEMPO65% dos pacientes que usam GLP-1 relatam queda de cabelo, diz estudo&nbsp;&nbsp;Guia da FarmáciaCanetas emagrecedoras: estudo aponta 3 alterações em unhas e cabelos&nbsp;&nbsp;Exame",
+      "summary": "Brasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes&nbsp;&nbsp;UOL NotíciasParei a caneta: como evitar recuperar o peso perdido&nbsp;&nbsp;Assine AbrilCanetas emagrecedoras mudam o mercado de estética em Sorocaba&nbsp;&nbsp;Jornal Cruzeiro do Sul65% dos pacientes que usam GLP-1 relatam queda de cabelo, diz estudo&nbsp;&nbsp;Guia da FarmáciaCanetas emagrecedoras: estudo aponta 3 alterações em unhas e cabelos&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -189,7 +213,7 @@
       "id": "a4928b9b841e",
       "title": "H. pylori, tabagismo e obesidade elevam o risco de câncer de estômago - UOL",
       "published": "2026-10-19T08:30:00+00:00",
-      "summary": "H. pylori, tabagismo e obesidade elevam o risco de câncer de estômago&nbsp;&nbsp;UOLH. pylori está presente em cerca de metade da população adulta mundial&nbsp;&nbsp;Tua SaúdeCâncer gástrico é uma doença silenciosa que não apresenta sintomas&nbsp;&nbsp;G1Diagnóstico precoce e prevenção são essenciais no combate ao câncer gastrointestinal&nbsp;&nbsp;Folha PEH. pylori responde por quase 70% do câncer gástrico no Brasil&nbsp;&nbsp;Afya | Home",
+      "summary": "H. pylori, tabagismo e obesidade elevam o risco de câncer de estômago&nbsp;&nbsp;UOLCâncer gástrico é uma doença silenciosa que não apresenta sintomas&nbsp;&nbsp;G1H. pylori está presente em cerca de metade da população adulta mundial&nbsp;&nbsp;Tua SaúdeH. pylori responde por quase 70% do câncer gástrico no Brasil&nbsp;&nbsp;Afya | HomeDiagnóstico precoce e prevenção são essenciais no combate ao câncer gastrointestinal&nbsp;&nbsp;Folha PE",
       "sources": [
         {
           "name": "UOL",
@@ -213,7 +237,7 @@
       "id": "4363ee3ab269",
       "title": "Sintomas de AVC: saiba identificar os sinais e quando chamar o Samu - Jornal Correio",
       "published": "2026-10-19T08:15:00+00:00",
-      "summary": "Sintomas de AVC: saiba identificar os sinais e quando chamar o Samu&nbsp;&nbsp;Jornal CorreioMês de prevenção ao AVC: HGF explica sinais da doença e importância do atendimento rápido&nbsp;&nbsp;Governo do Estado do CearáHospital Clériston Andrade registra 1,2 mil internações por AVC ao ano e promove corrida de prevenção em Feira de Santana&nbsp;&nbsp;Jornal Grande BahiaAVC provocou quase 90 mil mortes no Brasil em 2025; Bahia registrou 2,7 mil óbitos&nbsp;&nbsp;Alô Alô BahiaIncidência de AVC qua",
+      "summary": "Sintomas de AVC: saiba identificar os sinais e quando chamar o Samu&nbsp;&nbsp;Jornal CorreioHGF registra 979 internações por AVC até agosto de 2026&nbsp;&nbsp;O POVOAVC provocou quase 90 mil mortes no Brasil em 2025; Bahia registrou 2,7 mil óbitos&nbsp;&nbsp;Alô Alô BahiaIncidência de AVC quase dobra entre adultos jovens em três décadas, aponta estudo&nbsp;&nbsp;Revista Newslab6ª Corrida de Prevenção ao AVC reúne mais de mil inscritos em Feira de Santana&nbsp;&nbsp;ba.gov.br",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -249,7 +273,7 @@
       "id": "efa81cbf642d",
       "title": "Artrite reumatoide: mesmo com inflamação controlada, pacientes podem sofrer com dor e fadiga - G1",
       "published": "2026-10-19T06:00:00+00:00",
-      "summary": "Artrite reumatoide: mesmo com inflamação controlada, pacientes podem sofrer com dor e fadiga&nbsp;&nbsp;G1Artrite Reumatoide: dor e fadiga persistem mesmo com inflamação controlada&nbsp;&nbsp;R7Estudo associa incapacidade funcional à pior qualidade de vida na artrite&nbsp;&nbsp;Afya | HomeEspecialistas da HU Brasil reforçam importância do diagnóstico precoce da artrite reumatoide, que afeta 2 milhões de brasileiros&nbsp;&nbsp;Governo FederalLivro de Hospital Universitário de Dourados vai reunir ",
+      "summary": "Artrite reumatoide: mesmo com inflamação controlada, pacientes podem sofrer com dor e fadiga&nbsp;&nbsp;G1Artrite Reumatoide: dor e fadiga persistem mesmo com inflamação controlada&nbsp;&nbsp;R7Artrite reumatoide afeta qualidade de vida além da inflamação, aponta estudo&nbsp;&nbsp;Afya | HomeEspecialistas da HU Brasil reforçam importância do diagnóstico precoce da artrite reumatoide, que afeta 2 milhões de brasileiros&nbsp;&nbsp;Governo FederalLivro de Hospital Universitário de Dourados vai reun",
       "sources": [
         {
           "name": "G1",
@@ -258,38 +282,26 @@
       ]
     },
     {
+      "id": "f9c019847f99",
+      "title": "Marcos Kulmann: pesquisa do alegretense sobre limites da genética humana está nas páginas da Nature - Portal Alegrete Tudo",
+      "published": "2026-10-19T03:56:25+00:00",
+      "summary": "Marcos Kulmann: pesquisa do alegretense sobre limites da genética humana está nas páginas da Nature&nbsp;&nbsp;Portal Alegrete Tudo",
+      "sources": [
+        {
+          "name": "Portal Alegrete Tudo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXZCcXoxc2hHU0FsbU9ucVNTS3pEVVpIa3k1NnFiazFnZi1aaDUtcGlhRENGYXIzZ1FIYWFSYkdYMjZOUVlhend5bVc4VW9tM1FyN2F0M1dqU1NSZ3NURjJyaFktbjhZRWtzTTVJclROZU1WTHp2N2RxcjBRQV85MHU4Vk9oa3E2WG81bFBBanBMUWVWX1E2bUhjMVVMTGxmV1A5WDEyMUpmUHIxY2h4TnNmdTVld01jVndBSDJnSVlTNFhXWU9wVWoxRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e5915285c752",
       "title": "Casos de câncer estão aumentando entre os mais jovens, aponta relatório - CNN Brasil",
       "published": "2026-10-18T17:02:57+00:00",
-      "summary": "Casos de câncer estão aumentando entre os mais jovens, aponta relatório&nbsp;&nbsp;CNN BrasilEstudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos&nbsp;&nbsp;G1Por que o câncer de intestino tem se tornado mais comum entre jovens?&nbsp;&nbsp;GZHCaso da cantora Lua Branco chama atenção para câncer no intestino em pessoas com menos de 50 anos&nbsp;&nbsp;Bem ParanáPor que têm aumentado os casos de câncer entre adultos mais jovens?&nbsp;&nbsp;Olhar Digital",
+      "summary": "Casos de câncer estão aumentando entre os mais jovens, aponta relatório&nbsp;&nbsp;CNN BrasilEstudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos&nbsp;&nbsp;G1Caso da cantora Lua Branco chama atenção para câncer no intestino em pessoas com menos de 50 anos&nbsp;&nbsp;Bem ParanáPor que têm aumentado os casos de câncer entre adultos mais jovens?&nbsp;&nbsp;Olhar DigitalCâncer de intestino: saiba mais sobre a doença ligada a Preta Gil e Lua Blanco&nbsp;&nbsp;O Liberal",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzIxVjFFLUppaVJDUm9oS3BzTG9WLU9hazY3SnNkMDBiajlrRWctbS1Wd1E3R1Jhb0l0OHpaZHR4UHBUZVFGOU5KS21iOWtPdUVWMXdCLVBfTV91TW9WZGlUNHVDUVRHQy11RGpORDBfVzZDXy1KNjI2S1hrRkFGU3JtRGEzMC10emdFVHl5WmxEbF9DR0QtLVNPZnQxb3FHanBIWkRiQVRWdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90facb878c66",
-      "title": "Cardiologista explicas reais impactos da testosterona para o coração - Metrópoles",
-      "published": "2026-10-18T14:57:00+00:00",
-      "summary": "Cardiologista explicas reais impactos da testosterona para o coração&nbsp;&nbsp;MetrópolesTestosterona não cai na menopausa nem aumenta músculo em dose feminina, diz médica referência mundial no tema&nbsp;&nbsp;GloboElixir da juventude? Aumento no uso da testosterona preocupa especialistas: quem pode utiliza-la e quem não pode? Entenda&nbsp;&nbsp;Jornal O SulTestosterona para músculos pode comprometer fertilidade masculina, alerta médico&nbsp;&nbsp;TerraReposição hormonal exige diagnóstico e não",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaE5uN1B6RWotVElPck1PZ2RxMkpkdlVDWFkxaHFTalhKS18zMjBadTNLVWNRdm5KOHgzRW9fY0tfZUZJRUhLb2R6eEFRLUJGMmc1Nm4yYW9OSjlYOUY2WnhxUllpQ2J3a1lpMXkxWllyM3JkZ1ZrZDZKTkY4ektlYS1La2pGOEFjNEtjQ0p4eDBoQ0JlSWFKeGV4enFFWG81V0dLWXBVR1lyN1ZZT2ZNSHJ4MEVWSmFBNUtiSw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "31d625ad53c5",
-      "title": "Cansaço que não passa mesmo após dormir pode ser um sintoma perigoso; entenda - Rádio Itatiaia",
-      "published": "2026-10-18T14:47:26+00:00",
-      "summary": "Cansaço que não passa mesmo após dormir pode ser um sintoma perigoso; entenda&nbsp;&nbsp;Rádio ItatiaiaQuer dormir melhor? Diretora do Instituto do Sono tira dúvidas em live da CasaFolha&nbsp;&nbsp;Folha de S.PauloOs três pilares para conseguir um sono reparador, segundo neurologista&nbsp;&nbsp;O GLOBOEfeitos do celular na qualidade do sono que muita gente desconhece&nbsp;&nbsp;al1.com.brLuz azul, sono tardio e cortisol: como os hábitos modernos impactam o ritmo circadiano&nbsp;&nbsp;Grupo Longe",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazJ0NGptOTN0VUNNRUo5TXA0aU9UZUR2R3RCOUM2aVNsUTF3LUdOYWlScUhTakszdGN5YURQajlZanRpVVpWZ3BlWWNfUzZpMlRETlNScnh3OFFXbzJaUy0zaVEwWkJydkNXdTExSmtXVXpURUI1YXZKQTNmZjZfSmVuWEJBSC1Vb1NEUkVvbUtISFE1VEFBdFJsVUtBZ1hWamNWMGU3czREYzZpamJrdWFR?oc=5"
         }
       ]
     },
@@ -314,30 +326,6 @@
         {
           "name": "Gazeta do Povo",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWZhRG54VFRwMk1ReTVNYTJtenFCMWdoSmRTb0d4OVpRczUwUGNPSTdxekM1ZUthZ29ja3JnMVJtcGlmMFduWFdfWkw2NDRvUUpMZXk1RUdkbkZMby12bHV4dDA4U1hnWGRFSjRaOEh5X0VsTVdvZHFObUMzVmRSQk53eGVMVnRGQU13UVVFLUxhY192dTNSUDdZOHpTMlF4S3doLVRYRUZGblkyZDhlN1lCc19Cd0xpODVJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8a459f5ce036",
-      "title": "Corrida de Prevenção ao AVC do HGCA reúne mais de 1.200 participantes em Feira de Santana - Acorda Cidade",
-      "published": "2026-10-18T12:59:57+00:00",
-      "summary": "Corrida de Prevenção ao AVC do HGCA reúne mais de 1.200 participantes em Feira de Santana&nbsp;&nbsp;Acorda Cidade",
-      "sources": [
-        {
-          "name": "Acorda Cidade",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeTktS2NJLVdwaFRFVGtiUU1GakUtNUowM2hUVkJ2amtLLTY5anpMaEgtRGRMOTBDSGVoa2M0LXdESU5Mb0plRW4wSUhrWVJpT0p1MmJOOXJPZXJKbmhGRTJmUGwweVM5UFlGT0R4THh4d29CaEpqS2dzUlI2WF9WZDJkUElzNVZGMmJ0MTd4Z3VOTHdzYklaS1B2MWxIanhxQ1ZkTmJwMGEwWXE3TzZsQURjMDBKaUlxdGRrWnA3TTBURGRSdjRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2376258f4692",
-      "title": "De colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos - G1",
-      "published": "2026-10-18T09:00:00+00:00",
-      "summary": "De colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos&nbsp;&nbsp;G1Outubro Rosa: enfermeira do Iamspe é cuidada por colega que treinou durante tratamento contra câncer de mama&nbsp;&nbsp;agenciasp.sp.gov.br",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUzl0R18xMFJsVUw1czVOT0dIN2NoT1o4N1JTeE9BZ2o5Q2Zia3p1LTMwZUZQNjF1X25aVGVsS1ByTjZfWENFenk4YnQtZlNXRzdRU2FkREUwSWNVUEs1ZG1YeHc4eEZyckRrSEZRV3c4b3NVSlZLRXpqcmNrUk0tRk5MRkc0R2hzeUFuTXQ0d1lrRzI0d0FNTFJCVGY5Z1pqN0d4VnQybnBHMF9LT1pzUGRmSVhVZzJESzFEMlpBLWxKMlVBNFlpR21sTDR6LTdDOHNhbHdGTDdBckxUbjEwSV9uUml5Z9IB9AFBVV95cUxQUmdNTmk3OVpUTDdUV2g1NjJ1UWFIWHc5UDJVVDVma1BIbVhYUjZqZVROVy1fR1g5X0ticFNKakZ0cFp4UW1NM1hsZmxyMEQ4aDRyZFlRYVl2ZEJxU3djenNIV1p2ZGphemg5eGdnRFVER01aMHpTSzA0N24wakVDcXJvZFBNSmZkX041bFFmcG8zT1RyWDI5MVlPNXFLN0x1OXZtTHUwTWFIRW1fSTBFeUtRcllaeVE4RU1sQlhSZU50MGVZSkRqVjEtZ19FU1RkX3VOaFlFUndzZUxjcW5jUW5PYUFYYXREUUZLLXFfQzBUUFZL?oc=5"
         }
       ]
     },
@@ -417,23 +405,11 @@
       "id": "9431e7c6efb5",
       "title": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública - G1",
       "published": "2026-10-17T23:58:14+00:00",
-      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G117 de outubro é o Dia Nacional da Vacinação&nbsp;&nbsp;SenadoMinistério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo FederalDia Nacional da Vacinação: Jundiaí reforça importância da imunização e terá ações ampliada neste sábado (17)&nbsp;&nbsp;Prefeitura de JundiaíDia Nacional da Vacinação: Sesa alerta para a importância da imunização&nbsp;&nbsp;Secretaria de",
+      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G1Ceará supera média nacional na cobertura de 17 vacinas&nbsp;&nbsp;O POVO17 de outubro é o Dia Nacional da Vacinação&nbsp;&nbsp;SenadoMinistério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo FederalDia Nacional da Vacinação: Jundiaí reforça importância da imunização e terá ações ampliada neste sábado (17)&nbsp;&nbsp;Prefeitura de Jundiaí",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMWJhS3NQTWpRUEUwbFpVY2hPbVVEaXk1NmI4alBvN05Ra3BLallOSi1VdjZSRUF6QWptTjMxbEh3RFZtNDY4SlZNN0lZdmtibEFOeUc3UHR0UnhuOWVlWUhUY1Q2b1BYVGVwNndZckRWV01ZTGc0R184M0p5TGFDQTJsenZlaVBnOW9XZHhzQktNcnhwZThpY0xyTHhzT2xWZ1poRnRaZENuWElkN09veTlZcmZVdWMxNnJUeU5oMDB2dkoyOXBnSTA2V1Mta2tSR3hURm9DSdIB5gFBVV95cUxPS01GRGU2U0RGQ0pUR1BIdTdpVkpidGNwQmhKbnBQMnY2QTFLVGhjSkFiS0t5NEl5YjVxVWxnd2MtZmJadXdJRVZ6X1ptZUg1ZjN3OEY5cXpDX0Z6RXRkdWRIai1DN1pueEpydHdtNXNqNHZxM1RFWm04cGlfM3pURWVFbTA1OHZJRWJrOGlnb3JGNWZGaXdSTkw4TUR4Nk1wWDVXZjAtRFBJalZXbS04WDlVTElYQlRsYmRyNG5ENlNZYVh5ZkRSTXRkaGdPeUxBOFJhUjg5cWd6RzRwX0pCcGJZUXprdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9d8439f98444",
-      "title": "Erich Fromm, psicanalista alemão, sobre o consumo: “Se eu sou o que tenho, e se o que tenho se perde, quem então sou eu?” Uma reflexão sobre o risco de confundir identidade com posses - Super Rádio Tupi",
-      "published": "2026-10-17T18:21:50+00:00",
-      "summary": "Erich Fromm, psicanalista alemão, sobre o consumo: “Se eu sou o que tenho, e se o que tenho se perde, quem então sou eu?” Uma reflexão sobre o risco de confundir identidade com posses&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNM1VnZFVyR1k5aFBqdXFObWczakk4RThVUHRtUFp6R0lLdU9ZSlVMMUhGY1dWelpLUUxmdzItY1BHTnBZWF83bXJSSXpHdjFDazI0czNmcG1MbEhwNTdHdXB4Mm9TSkd1QkJlMGVLaW12R2gyOFBSSGtkaXE3RXBXckgzNkc0dDJBZWtfd1BpdHdldHpGcWJGTjJZX05ZUEtHVEVscF9FRjhSRjN0N2FiSVJReXhER2MxMWo4cThSeXVGVnZfaEViSV80WVd4dVc1MDE1T3NJY0VIQTRVWFNKaVVVVncyaTJUTHprOWpzRHdTZS1jeEVNcE9sNmxiQ3htWEVqemdoVzg5Z0hVVmRfcXR0d3BwaWo4UlBWcWhOM1o2b25LclJpMDloOG92NXZGX2UtaUhB?oc=5"
         }
       ]
     },
@@ -446,18 +422,6 @@
         {
           "name": "Canal do Pet",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHFYajlUQUxaYUZ3aUJqc2JxSXd0UTFQTjBMWW5CQllnSDdsNnh3ZEZzRzFab191emxwSkNBM0lTcllkZGRiUmxmOEtWMmhDQWpqVXI0TTJMdDUzUVpUVXZUdEhyQkQxYmhZVFgwZkxTR1kwQTNBWi1GTW5kUTFqVXVVZy1YSFlKbHpYQVBwV0VaMlBRcDBUcFRjT2U4bExHWEFvStIBqgFBVV95cUxNQXA5Qm5PMU1fVU03MUdtRjZhR1JjYjhHZEt6ZVdhOTB1NDV3YmJoODRnbnFrQzVTaXdkeTN0UHRUbkNiS3JJNS1zNzhqZllHbkJ3SkNrVkI2UzM4eUFrUVpCZXFBZXZLLTl2MUIzSFhrbXFxdjFaT0o3ZDlpZEVrLUFveGFQa05PRE0xa0NKdXJ0ay11ZzV2ZWNaUy02UDlCdGFxbkx2U1hlUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e5ff2a207dd5",
-      "title": "“Não imaginava que seria um câncer”, diz adolescente com tumor na tireoide - Metrópoles",
-      "published": "2026-10-17T05:00:00+00:00",
-      "summary": "“Não imaginava que seria um câncer”, diz adolescente com tumor na tireoide&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2o3SGx2UlZTSWgzdnpuX2VYMEFzdWFtT3dfMjRTNk13Nkp1dVE0bTRuZnhPMWYzV0ZEMEl1dS01ZUJ3RlhRbnhDbkVER2haZVZPdjNtRWNVdjhvQldzeVdmX3dXXzU4QmRwbEdSd1R5QXRJdjNJTWVrVVdnOGRNMHlDY1hxdUxSZVY0UHpuczhnOGVHOXNkZFVGQkZ3UnVrUk9tWFBUNA?oc=5"
         }
       ]
     },
@@ -486,14 +450,26 @@
       ]
     },
     {
-      "id": "a68615bfd121",
+      "id": "82d85adb13c5",
       "title": "Primeiro exame de sangue para Alzheimer com registro na Anvisa chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela - G1",
       "published": "2026-10-16T05:00:00+00:00",
-      "summary": "Primeiro exame de sangue para Alzheimer com registro na Anvisa chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela&nbsp;&nbsp;G1Coordenação de Comunicação Social » UFPel lidera etapa regional de pesquisa para diagnóstico de Alzheimer&nbsp;&nbsp;Universidade Federal de PelotasExame para diagnosticar Alzheimer é disponibilizado no Brasil&nbsp;&nbsp;Poder360Chega ao Brasil teste de urina que pode revelar em 10 minutos sinais ligados ao Alzheimer&nbsp;&nbsp;Portal UAIEstud",
+      "summary": "Primeiro exame de sangue para Alzheimer com registro na Anvisa chega ao Brasil: veja quem pode fazer, quanto custa e o que o resultado revela&nbsp;&nbsp;G1Coordenação de Comunicação Social » UFPel lidera etapa regional de pesquisa para diagnóstico de Alzheimer&nbsp;&nbsp;Universidade Federal de PelotasHospital de Porto Alegre é o primeiro do Brasil a oferecer exame de sangue para investigar Alzheimer aprovado pela Anvisa&nbsp;&nbsp;GZHNovo exame para diagnosticar Alzheimer chega ao país&nbsp;&nb",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWU1zTW1wZVZVMWRqMk1YOUdpQ0hpMXhNVEN5N25WaEJFVWFXdlp2YU9FcTV2UjE0M01FZGtPOC0xRk5uLURDVE5OS3lBaG1IVGYtc2NTQmw5eVViaWo1NTRHN1lIdVpoZTNEZm80YU51bjc1TVVrbXdyenA3OXdwX2QzbmxOdE1kcEpjYkYxN3kxNWJyYXFmRWN6bUJpZUlERGdLWkFIOXJpQ2EwMlpEZTRsbVM2NEZZQ01KV1VHRktGRWxzNDlwT0M2aGlhcmMxTlVyay11RENZUU10X0ozWFJvR1NVQzJTSW5KYl9OODg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWU1zTW1wZVZVMWRqMk1YOUdpQ0hpMXhNVEN5N25WaEJFVWFXdlp2YU9FcTV2UjE0M01FZGtPOC0xRk5uLURDVE5OS3lBaG1IVGYtc2NTQmw5eVViaWo1NTRHN1lIdVpoZTNEZm80YU51bjc1TVVrbXdyenA3OXdwX2QzbmxOdE1kcEpjYkYxN3kxNWJyYXFmRWN6bUJpZUlERGdLWkFIOXJpQ2EwMlpEZTRsbVM2NEZZQ01KV1VHRktGRWxzNDlwT0M2aGlhcmMxTlVyay11RENZUU10X0ozWFJvR1NVQzJTSW5KYl9OODjSAf8BQVVfeXFMTzVVdnVCRUF3azRKRWVuS2tEd29pNG16MTE0ZVJBbF9uZm5lVTBzZmNKRUV5dVRfMG9uVVUtRnpBVUxTZkRsanFnRDN1bFJwZS1PcWMwX205MTMyR0RyNTJ0b1JkTmlOYnRIMEdYX1lIX1pjUXFYOHh6UHhPcU1GZ1FDeFFUUEduc0FwSTd1NzRWV0NSZ2RJRjdJU0xaYXpmMEdqcDVQZTlXNElTTnRXWVJ2OGcyMzZ2Z0JIa3djeDFHS3JLSUN1UjBJbzU0SnlTQzgyd0NDZEcyWU9JV01iUVNudW9ScHBrdjhJQzBEWFdMNzBkT1A2TUJmVTRNOW9j?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "074f2a513c02",
+      "title": "Levando o GPT-Rosalind aos laboratórios de pesquisa acadêmica - OpenAI",
+      "published": "2026-10-15T21:21:36+00:00",
+      "summary": "Levando o GPT-Rosalind aos laboratórios de pesquisa acadêmica&nbsp;&nbsp;OpenAI",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0WmRua1VMeGVuQVdicXhjeGdqNWtoOXplR0MwcW1RYkFDenV6UFd1d3NFWUxhUmVnV200RXRDbEpuUGczUXl6QmRGRFBrclRyTnBzd1k2N2hqZVU2VkRfa0NpT28xUjZueHg0WGFpSFhLeXUxZkxXelRB?oc=5"
         }
       ]
     },
@@ -501,7 +477,7 @@
       "id": "b3fe2bff56f3",
       "title": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe' - G1",
       "published": "2026-10-14T05:00:00+00:00",
-      "summary": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe'&nbsp;&nbsp;G1Outubro Rosa: 5 anos após câncer de mama, mulher engravida e amamenta bebê&nbsp;&nbsp;MetrópolesPreservação da fertilidade em mulheres com câncer&nbsp;&nbsp;G1Câncer de mama: congelamento de óvulos é uma opção&nbsp;&nbsp;iG Delas'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer; agora, aos 44, sou mãe'&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "'Congelei tecido dos meus ovários aos 17 anos por causa de um câncer. Agora, aos 44, sou mãe'&nbsp;&nbsp;G1Outubro Rosa: 5 anos após câncer de mama, mulher engravida e amamenta bebê&nbsp;&nbsp;MetrópolesPreservação da fertilidade em mulheres com câncer&nbsp;&nbsp;G1Câncer de mama: congelamento de óvulos é uma opção&nbsp;&nbsp;iG DelasMaternidade após o câncer de mama é possível&nbsp;&nbsp;J3News",
       "sources": [
         {
           "name": "G1",
