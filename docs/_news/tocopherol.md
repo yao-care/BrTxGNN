@@ -14,7 +14,7 @@ permalink: /news/tocopherol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tocopherol?">
-<strong>Tocopherol</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
+<strong>Tocopherol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ Esta página combina as indicações previstas por IA para Tocopherol com as not
 <li>congenital hypotrichosis milia (98.3%)</li>
 <li>kyphoscoliotic heart disease (98.3%)</li>
 <li>diffuse alopecia areata (98.1%)</li>
-<li class="indication-matched">alopecia (98.1%)<span class="indication-tag">📰 alopecia</span></li>
+<li>alopecia (98.1%)</li>
 <li>congestive heart failure (97.8%)</li>
 <li>peripheral vascular disease (97.6%)</li>
 </ul></li>
@@ -41,15 +41,9 @@ Esta página combina as indicações previstas por IA para Tocopherol com as not
 <p><a href="{{ '/drugs/tocopherol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (0)
 
-### [Queda de cabelo não é tudo igual: diagnóstico define o rumo do tratamento - CNN Brasil](https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVl2UTh5WkV4MjlicWxONmthOFFNempOaXRtd1VhbjM3ZldNREpTWkQ5aWE4cnhOVmx0QlhyTkprdjBlZlpEU1FaUUJVNXE5WnN0R2Q4Rk8yZG9XV2tuSTZfMTFRdUR5aDBmLVJMM01qT2tIZkxjUmt3RXR3S3pmOXF0cWFpLVZkTjV6UGhBdk84TnBfNHI1Y2wtLTg2VFRSRGgzQkcxV2ttMU84?oc=5)
-
-2026-10-18 <span class="news-indication-tag">alopecia</span>
-
-Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVl2UTh5WkV4MjlicWxONmthOFFNempOaXRtd1VhbjM3ZldNREpTWkQ5aWE4cnhOVmx0QlhyTkprdjBlZlpEU1FaUUJVNXE5WnN0R2Q4Rk8yZG9XV2tuSTZfMTFRdUR5aDBmLVJMM01qT2tIZkxjUmt3RXR3S3pmOXF0cWFpLVZkTjV6UGhBdk84TnBfNHI1Y2wtLTg2VFRSRGgzQkcxV2ttMU84?oc=5)
-
----
+*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
 
 
 <div class="disclaimer">

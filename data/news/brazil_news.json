@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-20T03:55:25.309222+00:00",
-  "total_fetched": 97,
-  "unique_count": 97,
-  "health_related_count": 40,
+  "fetched_at": "2026-10-20T11:04:30.899003+00:00",
+  "total_fetched": 95,
+  "unique_count": 94,
+  "health_related_count": 38,
   "news": [
+    {
+      "id": "79195c69173a",
+      "title": "Poluição, genética e radônio: o que explica o aumento do câncer de pulmão em não fumantes - G1",
+      "published": "2026-10-20T06:00:00+00:00",
+      "summary": "Poluição, genética e radônio: o que explica o aumento do câncer de pulmão em não fumantes&nbsp;&nbsp;G1Câncer de pulmão: quem deve procurar avaliação médica mesmo sem sintomas&nbsp;&nbsp;JCCâncer de pulmão do Papa alerta para número crescente de não fumantes diagnosticados com a doença&nbsp;&nbsp;Portal Piauí NotíciasA verdade por trás de 7 mitos comuns sobre câncer de pulmão&nbsp;&nbsp;CNN BrasilCâncer de pulmão, mitos, diagnóstico e biomarcadores&nbsp;&nbsp;Revista Newslab",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY0s1STRSU2RSVWZycGhtekp3aFhldGNKYUZKVTA3d0NaYVZ6YlhZZFVzS2pfUHp4VlBBd1M3b2hNT256UkN1ZXhPc3lvQnI3MkRzOGhlajlrUFk4Z3Q0aGw2WThhTWp2Q3B0dDF6c1JqcWtLZGg2cGV0SkJYZVAzVkgxWWlYR0hLYVJjVWNmZl8talhCVnMzbnUxUkhNcUR1dnJCazNuMzFLUXVOZm5mMVBzRy1wWlVnWHI1bWE2T1hvR0dyVlJGeVVhOGVQZkc5SEpRSEpFek9wOFha0gHrAUFVX3lxTE4wNDhyZmd4b3RkeHBGQ3pBakRxc3JKNWNpaFJ0V01UNnlwZFlmLU80M3lobW41dTE1UWdjLVdoOHRiRlZHVDk3eHBVc1JRM3FzSDBHa1RRcVgtMnNWQy1NQmVnNk1ubG9JcjZTUThhYmNsX2VPOVQyWEtKNnVTSnBJOGE4aWtuLXNXbG55b09XSy1BZ0wwZWxYT3FGaVpYcmdEelgtRmI3cFhvSUhqbzFwWjVEdUliR2NZUnRDd0l3eHdpdEpmTDhrd0hqdjlmVlJOcko3c2Jpb1RidnQxVmJCX3BMY2R5Qkk3X3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f752954420ef",
+      "title": "Fatores de risco subestimados tornam o AVC em mulheres ainda mais perigoso - G1",
+      "published": "2026-10-20T06:00:00+00:00",
+      "summary": "Fatores de risco subestimados tornam o AVC em mulheres ainda mais perigoso&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMHJiZXJmc2JZN3VGTGgxenBGNEhDMDlwdFc2clNQcU5GRmx4YUlCdWN5UWVDckNUQ2hvRkNsdmxZcC00UVA5R1N1VzdWOFpueU5tOTlEblE3RkRQWVdfUHJvRTVJVHM0VjlZZjhjWklCVmNfZmZ3QmlrQ1YtQlQxSHBkVEZlX1p3NXBUZVU3Zy1GWW4ycXNVZ0VOQ0FpZkFwZkctMVdlUGNLbXBvN1pnYk5CS2ppQmFvS0R0dldtaVVrVnpQRExkMEhwbU1Hb3FNd28yelhrekRRWVlhUlktcFViMW9CZS1tZlFnSdIB-wFBVV95cUxQSXJFaHJEczhGQXRZSzNPbzA4T1VDU0xHVVFsRlllX1RsRHZGNHp1NDd6ejdqUFk3bVdtbTlYd1VXTzNNcWt2emtXUl9uUGlIZm12LVVSNWVSaHVleFZQNXRYN0tMY3laUXhrMHJqV3Z4UEJiQlVZREM0bGRRd0hfUDkyRXBQaDZZR3FNWUh1M2dkdkZZVV9GQ1FHQVlfSWktVmItdzdOSGFZaHFNYkotQXBYcGFKaFRoWFBKdjZ0UFVqbmFobjRWaFZlMVBNeWo5SmpXNW5WZDNMS2pxcVRMNG81TFNrbHRNelJEeUZCM3pRd0lKUzJ0SU03RQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "589177885ec4",
       "title": "Japão lança foguete para primeira missão mundial a uma lua de Marte - UOL",
@@ -129,7 +153,7 @@
       "id": "ab7a2444e9bd",
       "title": "Rio amplia vacinação contra meningite para pessoas de até 59 anos - O GLOBO",
       "published": "2026-10-19T13:40:31+00:00",
-      "summary": "Rio amplia vacinação contra meningite para pessoas de até 59 anos&nbsp;&nbsp;O GLOBOPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de UberlândiaMS libera vacina meningocócica para jovens de 15 a 17 anos&nbsp;&nbsp;Campo Grande NewsVacinação contra meningite ganha reforço com ampliação temporária em MS&nbsp;&nbsp;Diário CorumbaensePrefeitura do Rio amplia vacinação contra a meningite&nbsp;&nbsp;Band",
+      "summary": "Rio amplia vacinação contra meningite para pessoas de até 59 anos&nbsp;&nbsp;O GLOBOPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de UberlândiaMS libera vacina meningocócica para jovens de 15 a 17 anos&nbsp;&nbsp;Campo Grande NewsMS amplia vacinação contra meningite para evitar perda de 13 mil doses&nbsp;&nbsp;MidiamaxVacinação contra meningite ganha reforço com ampliação temporária em MS&nbsp;&nbsp;Diário Corumbaense",
       "sources": [
         {
           "name": "O GLOBO",
@@ -153,7 +177,7 @@
       "id": "7a715568d1a1",
       "title": "Brasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes - UOL Notícias",
       "published": "2026-10-19T12:30:00+00:00",
-      "summary": "Brasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes&nbsp;&nbsp;UOL NotíciasParei a caneta: como evitar recuperar o peso perdido&nbsp;&nbsp;Assine AbrilCanetas emagrecedoras mudam o mercado de estética em Sorocaba&nbsp;&nbsp;Jornal Cruzeiro do Sul65% dos pacientes que usam GLP-1 relatam queda de cabelo, diz estudo&nbsp;&nbsp;Guia da FarmáciaCanetas emagrecedoras: estudo aponta 3 alterações em unhas e cabelos&nbsp;&nbsp;Exame",
+      "summary": "Brasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes&nbsp;&nbsp;UOL NotíciasMounjaro ou anorexia? Médicos alertam que os efeitos das canetas emagrecedoras podem mascarar transtornos alimentares graves&nbsp;&nbsp;O GLOBOParei a caneta: como evitar recuperar o peso perdido&nbsp;&nbsp;Assine AbrilCanetas emagrecedoras: as 7 queixas mais comuns (e como evitá-las)&nbsp;&nbsp;Estado de Minas65% dos pacientes que usam GLP-1 relatam queda de cabelo, diz estudo&nbsp;&nbsp;Guia da F",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -176,12 +200,24 @@
     {
       "id": "a63e0d20d6db",
       "title": "Pesquisadores descobrem perereca-de-vidro inédita no Cerrado - CicloVivo",
-      "published": "2026-10-19T10:06:47+00:00",
+      "published": "2026-10-19T10:16:45+00:00",
       "summary": "Pesquisadores descobrem perereca-de-vidro inédita no Cerrado&nbsp;&nbsp;CicloVivo",
       "sources": [
         {
           "name": "CicloVivo",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0FBa3pzT0RfWG9CbXdmV1dtV2FlYjhXdUZYM2RMM1hULWN4WlFyNWpkY1RMYW9wc3pqS2dSZjZ2NUlqZWdyN2Rrc0E2M1V1TkJlZTQwM3c5VG5aYXJqNXRaUkhwMU8zcjdEcmYxRFpTc1A4T2pxdlVXbVNhd3ZHSXNOSEkta1lKVUdMeXZkTUZJQnVITGZEMmh5TjA4RHRpN08yRW5fNHRPUS1Z0gGyAUFVX3lxTE1oWTRjTkpfZEFWMVZFYVJhX081N21HQ1ZJQjNuRHlaMXV0dHBqTXhMMDZlZk5MZTFBakl5RFB4ZDRQVDFMMUgtRU9PSkJJSzF5QWcwaWtsOFp1dWc3bW11S0Y1ZlpoYVB5NkZnYmdHSVNScjNxcnhGNTQtRGwxV2FhZVJqNWdKdFFtZzdqTjNkOVpUNWUtNXQ5NGlzY2twRnFLWF95OGpQWE9yQ2Vrd25xVUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f837ba839244",
+      "title": "Canetas emagrecedoras: estudo aponta 3 alterações em unhas e cabelos - Exame",
+      "published": "2026-10-19T09:16:45+00:00",
+      "summary": "Canetas emagrecedoras: estudo aponta 3 alterações em unhas e cabelos&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMW5wSUwxSk8waUt4ZzhtbG5oZjNCenJEdXVVS09oNldqTkgtSW5xTlI2d0wtcUNuaDROZXU0dWgta2w4bUx1c1ViLWNKWnhYcEJ6bE1LVC1wRVF3UHBId3duNlhndEdITzhtUGp3TDdjczl5UzdQMjRFV3Jid2VCQ3RpY3NZbDh2cGs4TUh3QUxpa3JBUVhQdVB3?oc=5"
         }
       ]
     },
@@ -273,35 +309,11 @@
       "id": "efa81cbf642d",
       "title": "Artrite reumatoide: mesmo com inflamação controlada, pacientes podem sofrer com dor e fadiga - G1",
       "published": "2026-10-19T06:00:00+00:00",
-      "summary": "Artrite reumatoide: mesmo com inflamação controlada, pacientes podem sofrer com dor e fadiga&nbsp;&nbsp;G1Artrite Reumatoide: dor e fadiga persistem mesmo com inflamação controlada&nbsp;&nbsp;R7Artrite reumatoide afeta qualidade de vida além da inflamação, aponta estudo&nbsp;&nbsp;Afya | HomeEspecialistas da HU Brasil reforçam importância do diagnóstico precoce da artrite reumatoide, que afeta 2 milhões de brasileiros&nbsp;&nbsp;Governo FederalLivro de Hospital Universitário de Dourados vai reun",
+      "summary": "Artrite reumatoide: mesmo com inflamação controlada, pacientes podem sofrer com dor e fadiga&nbsp;&nbsp;G1HU-UFGD contribui para formação de futuros médicos no diagnóstico e tratamento da artrite reumatoide&nbsp;&nbsp;www.gov.brArtrite Reumatoide: dor e fadiga persistem mesmo com inflamação controlada&nbsp;&nbsp;R7Artrite controlada não garante qualidade de vida, mostra estudo&nbsp;&nbsp;TV Sim BrasilEspecialistas alertam para diagnóstico precoce da artrite reumatoide. que afeta 2 milhões de bra",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa2RMYXZRZlpWSDZGbElQNnhtWjRsaU1HTVhsdHBRc1U5QmRsTGR2ZGZicVlJbE0yaDRrZTh0R3FnYktvOThTWnpRZ1dBcGQ5ZkQ3bmp6TnZGOGhva2FfdDFJWEJDZDN3WXUtTGRyUG5NaHY4WDBuTEoxbkFyQUdoTEN6Q09CNE1BcjdYckpKRG8xNGpIdGJzd0Nxaml4YmkyZVZNTUduX0hQUl9DZUtYS1NyWERLelZRLW5XV1lXQTFXcnVpREtlclJEdmMxcXYyal9Pa3ZoV1ZpZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9c019847f99",
-      "title": "Marcos Kulmann: pesquisa do alegretense sobre limites da genética humana está nas páginas da Nature - Portal Alegrete Tudo",
-      "published": "2026-10-19T03:56:25+00:00",
-      "summary": "Marcos Kulmann: pesquisa do alegretense sobre limites da genética humana está nas páginas da Nature&nbsp;&nbsp;Portal Alegrete Tudo",
-      "sources": [
-        {
-          "name": "Portal Alegrete Tudo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXZCcXoxc2hHU0FsbU9ucVNTS3pEVVpIa3k1NnFiazFnZi1aaDUtcGlhRENGYXIzZ1FIYWFSYkdYMjZOUVlhend5bVc4VW9tM1FyN2F0M1dqU1NSZ3NURjJyaFktbjhZRWtzTTVJclROZU1WTHp2N2RxcjBRQV85MHU4Vk9oa3E2WG81bFBBanBMUWVWX1E2bUhjMVVMTGxmV1A5WDEyMUpmUHIxY2h4TnNmdTVld01jVndBSDJnSVlTNFhXWU9wVWoxRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e5915285c752",
-      "title": "Casos de câncer estão aumentando entre os mais jovens, aponta relatório - CNN Brasil",
-      "published": "2026-10-18T17:02:57+00:00",
-      "summary": "Casos de câncer estão aumentando entre os mais jovens, aponta relatório&nbsp;&nbsp;CNN BrasilEstudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos&nbsp;&nbsp;G1Caso da cantora Lua Branco chama atenção para câncer no intestino em pessoas com menos de 50 anos&nbsp;&nbsp;Bem ParanáPor que têm aumentado os casos de câncer entre adultos mais jovens?&nbsp;&nbsp;Olhar DigitalCâncer de intestino: saiba mais sobre a doença ligada a Preta Gil e Lua Blanco&nbsp;&nbsp;O Liberal",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzIxVjFFLUppaVJDUm9oS3BzTG9WLU9hazY3SnNkMDBiajlrRWctbS1Wd1E3R1Jhb0l0OHpaZHR4UHBUZVFGOU5KS21iOWtPdUVWMXdCLVBfTV91TW9WZGlUNHVDUVRHQy11RGpORDBfVzZDXy1KNjI2S1hrRkFGU3JtRGEzMC10emdFVHl5WmxEbF9DR0QtLVNPZnQxb3FHanBIWkRiQVRWdw?oc=5"
         }
       ]
     },
@@ -330,26 +342,14 @@
       ]
     },
     {
-      "id": "0dd4abd5996b",
-      "title": "Mais exames, mais tratamentos: quando o cuidado passa do limite? - O GLOBO",
+      "id": "d2c42fd51110",
+      "title": "Estudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos - G1",
       "published": "2026-10-18T07:00:01+00:00",
-      "summary": "Mais exames, mais tratamentos: quando o cuidado passa do limite?&nbsp;&nbsp;O GLOBO",
+      "summary": "Estudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos&nbsp;&nbsp;G1Lua Blanco: como pessoas jovens costumam descobrir o câncer colorretal?&nbsp;&nbsp;EstadãoCasos de câncer estão aumentando entre os mais jovens, aponta relatório&nbsp;&nbsp;CNN BrasilCaso da cantora Lua Branco chama atenção para câncer no intestino em pessoas com menos de 50 anos&nbsp;&nbsp;Bem ParanáPor que têm aumentado os casos de câncer entre adultos mais jovens?&nbsp;&nbsp;Olhar Digital",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUJ3enJ4T3pIZFB5YVB6U2xMdTdmWHZuMEwwWloxSkNtTC1yQjNEZWxncjBWOF9fdHlMQ3NZT3oxakhHa0ZWTGcybF9WT1dHNFpqZWc1ZnhUTUpsckhqdW1fSDMyaUhRTEsyR2c3RlBqOGdqUFUxblMxU1M3S2VrVjZaNDBjSnFBcXVhOXFPcTZ0VkIzWnVRX2ZRV2JxRWt3dk5FYmhDQWhXUlpleWJVMUJVa19kMjd50gHHAUFVX3lxTE9kRWZKRzBldmNOUDZHWmlOMFl0SG96SE1SQndjMXo5TGx0QTZ3XzY2Y2M3aVUzNERBc0dXZDFzOVdKVU9ZQmNpX0UzQUN6MHU0YXFIODY5SDIwVF96cFVVOWpkNktVRW9wLURkY19PS0pza0p0VWtCa0J4TGZKTGszSGVzY2huMWF1U2xsenNGdHB5NXk1a0VZc2taTzlINUJNbnVzMEkydmJFSUx6azVPMnhpZjJ5SkljUUhJeDFnX2JsX28yY2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5b43700536ec",
-      "title": "Mascar chiclete durante os estudos melhora a concentração e ajuda a memorizar informações? Veja o que diz a ciência - CNN Brasil",
-      "published": "2026-10-18T06:33:01+00:00",
-      "summary": "Mascar chiclete durante os estudos melhora a concentração e ajuda a memorizar informações? Veja o que diz a ciência&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNajZWM3MxSlNkRkYxTzhzTnBfSm1TNXZnNkwxRi11eWhpekhLYmF1bUhvcW1fMDlNNmhKMEpRUXVRWExSRmdyeE1QMkd3MmtUc2JUT293aThrTmdpQVdfUlJWV3lJVHc4UkRqcFpOSHZDakgtMTNGZHgyTGVjNHoxRWw5LWMtSEVpY1ZVZGt1M0lVamg2MGNIb1Vja3BTaUdfRi1mSzFwb1BYWG0wVXZVQ1F2Y25aLUJnYmNhdHVRalMtek1rOUc3ZE5TaXcyUkNaVXVGMlZ4RDlTM0swWGJjQVJWQzZJQjQ?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMm16NndCY2dMQlQtQThfUC1KQjdjdFQ5RHRXSWc0V2REX0NYS3ctRmF4RG1nWUl2VnNvNVJNZXlDVVlEYTVvWWxReXYyYmotcEs3QmF0eURCUUdTWlpyX0hmcjhIblVTbHlWWDltWDFROUF3VlZMUVdOSHZRVlREQ2R1cDBlekd6ZkFraUVhR1cxX2hzTXdVbjVsTzZHaURuQU92Y1pKMzd6MGtnUDJsLTNtNjl2dUVwX2taejBvV0Jza0dPalln0gHWAUFVX3lxTE1NUXZWZ1VzbmRzc1REY00ybUVtbmQzSC1xc29LYWtBSmtzbzRPWTc0Vl91bllUcTNSTXhUbXR6TUpYQW1oaTFkQTZ2MndwTVFkd1RyMElYTWdMWk5sTlFGWlRuR1hhQWc4ZTFaTVlMYTQwWnF2aUlwbDh4Yy1vMFM1RUJTQXJNZ0pMcnJTcHpUbG5TYzBfck00c1A2VFgzT3ZrV2hrdElhcndjN3ZtUjFtdV9yVXR5N2J6OWxydkp2ZUNyQmNyblRFOFZqRWR4Q2RDTmdkSWc?oc=5"
         }
       ]
     },
@@ -362,18 +362,6 @@
         {
           "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZDhWb2RLQk8xcmhNaFI3QzRtMjluQVl4NjVMYktQaUpyUnlBQy0zenIxdXRTN2txYjB2X3Qxay1VcDcwOWhOdV9FQWlNcTBjUlJiYlB2RnJ3X1NXbjBTU1RJTWtNSTZPM29fTWF4VWxKNUpmR3hYOE1RdXR1eU9QYkRzZ3FMa2k0UFlWS0NzREpzTjhsaG9WczVEbDdMRndNLVBDd2pxUlg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "39694eac72ae",
-      "title": "Queda de cabelo não é tudo igual: diagnóstico define o rumo do tratamento - CNN Brasil",
-      "published": "2026-10-18T03:33:17+00:00",
-      "summary": "Queda de cabelo não é tudo igual: diagnóstico define o rumo do tratamento&nbsp;&nbsp;CNN BrasilSaiba como reconhecer os sinais da alopecia feminina e quando procurar ajuda&nbsp;&nbsp;CartaCapitalQueda de cabelo: Médicos apontam 12 causas que talvez desconheça&nbsp;&nbsp;Notícias ao MinutoFalhas ou fios mais finos? Médica explica como os tipos de alopecia se manifestam&nbsp;&nbsp;O GLOBOSeu cabelo está dando 'red flags'? 7 sinais de que a queda deixou de ser normal&nbsp;&nbsp;Acorda Cidade",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVl2UTh5WkV4MjlicWxONmthOFFNempOaXRtd1VhbjM3ZldNREpTWkQ5aWE4cnhOVmx0QlhyTkprdjBlZlpEU1FaUUJVNXE5WnN0R2Q4Rk8yZG9XV2tuSTZfMTFRdUR5aDBmLVJMM01qT2tIZkxjUmt3RXR3S3pmOXF0cWFpLVZkTjV6UGhBdk84TnBfNHI1Y2wtLTg2VFRSRGgzQkcxV2ttMU84?oc=5"
         }
       ]
     },
@@ -405,7 +393,7 @@
       "id": "9431e7c6efb5",
       "title": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública - G1",
       "published": "2026-10-17T23:58:14+00:00",
-      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G1Ceará supera média nacional na cobertura de 17 vacinas&nbsp;&nbsp;O POVO17 de outubro é o Dia Nacional da Vacinação&nbsp;&nbsp;SenadoMinistério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo FederalDia Nacional da Vacinação: Jundiaí reforça importância da imunização e terá ações ampliada neste sábado (17)&nbsp;&nbsp;Prefeitura de Jundiaí",
+      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G1Ceará supera média nacional na cobertura de 17 vacinas&nbsp;&nbsp;O POVOMinistério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo Federal17 de outubro é o Dia Nacional da Vacinação&nbsp;&nbsp;SenadoDia Nacional da Vacinação: Sesa alerta para a importância da imunização&nbsp;&nbsp;Secretaria de Saúde do Paraná",
       "sources": [
         {
           "name": "G1",
@@ -414,14 +402,14 @@
       ]
     },
     {
-      "id": "811d7303ac42",
-      "title": "Gatos castrados precisam de cuidados específicos? Entenda - Canal do Pet",
-      "published": "2026-10-17T18:00:00+00:00",
-      "summary": "Gatos castrados precisam de cuidados específicos? Entenda&nbsp;&nbsp;Canal do PetCastração de cachorro: veterinário responde dúvidas sobre o procedimento&nbsp;&nbsp;A GazetaCastração de cães e gatos: benefícios vão além do controle reprodutivo&nbsp;&nbsp;Estado de MinasGatos castrados: o que muda e como cuidar da saúde do pet&nbsp;&nbsp;João BiduGatos castrados precisam de cuidados específicos? Entenda como a alimentação pode ajudar a manter o peso saudável&nbsp;&nbsp;Catraca Livre",
+      "id": "b4ef67a4ca78",
+      "title": "Docentes da Faculdade de Ciências Farmacêuticas são homenageados com título de Professor Emérito - Jornal da USP",
+      "published": "2026-10-16T21:04:00+00:00",
+      "summary": "Docentes da Faculdade de Ciências Farmacêuticas são homenageados com título de Professor Emérito&nbsp;&nbsp;Jornal da USP",
       "sources": [
         {
-          "name": "Canal do Pet",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHFYajlUQUxaYUZ3aUJqc2JxSXd0UTFQTjBMWW5CQllnSDdsNnh3ZEZzRzFab191emxwSkNBM0lTcllkZGRiUmxmOEtWMmhDQWpqVXI0TTJMdDUzUVpUVXZUdEhyQkQxYmhZVFgwZkxTR1kwQTNBWi1GTW5kUTFqVXVVZy1YSFlKbHpYQVBwV0VaMlBRcDBUcFRjT2U4bExHWEFvStIBqgFBVV95cUxNQXA5Qm5PMU1fVU03MUdtRjZhR1JjYjhHZEt6ZVdhOTB1NDV3YmJoODRnbnFrQzVTaXdkeTN0UHRUbkNiS3JJNS1zNzhqZllHbkJ3SkNrVkI2UzM4eUFrUVpCZXFBZXZLLTl2MUIzSFhrbXFxdjFaT0o3ZDlpZEVrLUFveGFQa05PRE0xa0NKdXJ0ay11ZzV2ZWNaUy02UDlCdGFxbkx2U1hlUQ?oc=5"
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGdja3dXQnFSMUZLc0hSS0IyUFNkOHRIYVp5WE91bm9kVHdVbWI5LU5NRGNRcGRoY3FiVFl5TU90c0Y1a09rd1ctQVg1WkVyS0RWZElJMktDb00xVnM1RkpqbU1hVERuQVhsTWZuTHRZTy14U3RyOFVvdGNpU20wTHItMUowQU5xUTNvZ09RS2UzVlVUMmRyUTdGSmNnQ2VHMEJSR2g4M3N4ank4allyRmVvc05SSzQzOEVFdWU0amNCZw?oc=5"
         }
       ]
     },
@@ -458,18 +446,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWU1zTW1wZVZVMWRqMk1YOUdpQ0hpMXhNVEN5N25WaEJFVWFXdlp2YU9FcTV2UjE0M01FZGtPOC0xRk5uLURDVE5OS3lBaG1IVGYtc2NTQmw5eVViaWo1NTRHN1lIdVpoZTNEZm80YU51bjc1TVVrbXdyenA3OXdwX2QzbmxOdE1kcEpjYkYxN3kxNWJyYXFmRWN6bUJpZUlERGdLWkFIOXJpQ2EwMlpEZTRsbVM2NEZZQ01KV1VHRktGRWxzNDlwT0M2aGlhcmMxTlVyay11RENZUU10X0ozWFJvR1NVQzJTSW5KYl9OODjSAf8BQVVfeXFMTzVVdnVCRUF3azRKRWVuS2tEd29pNG16MTE0ZVJBbF9uZm5lVTBzZmNKRUV5dVRfMG9uVVUtRnpBVUxTZkRsanFnRDN1bFJwZS1PcWMwX205MTMyR0RyNTJ0b1JkTmlOYnRIMEdYX1lIX1pjUXFYOHh6UHhPcU1GZ1FDeFFUUEduc0FwSTd1NzRWV0NSZ2RJRjdJU0xaYXpmMEdqcDVQZTlXNElTTnRXWVJ2OGcyMzZ2Z0JIa3djeDFHS3JLSUN1UjBJbzU0SnlTQzgyd0NDZEcyWU9JV01iUVNudW9ScHBrdjhJQzBEWFdMNzBkT1A2TUJmVTRNOW9j?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "074f2a513c02",
-      "title": "Levando o GPT-Rosalind aos laboratórios de pesquisa acadêmica - OpenAI",
-      "published": "2026-10-15T21:21:36+00:00",
-      "summary": "Levando o GPT-Rosalind aos laboratórios de pesquisa acadêmica&nbsp;&nbsp;OpenAI",
-      "sources": [
-        {
-          "name": "OpenAI",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0WmRua1VMeGVuQVdicXhjeGdqNWtoOXplR0MwcW1RYkFDenV6UFd1d3NFWUxhUmVnV200RXRDbEpuUGczUXl6QmRGRFBrclRyTnBzd1k2N2hqZVU2VkRfa0NpT28xUjZueHg0WGFpSFhLeXUxZkxXelRB?oc=5"
         }
       ]
     },
