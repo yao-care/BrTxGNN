@@ -40,7 +40,7 @@ O score TxGNN indica a confiança do modelo na previsão:
 - **<50**: Baixa confiança
 
 <blockquote class="expert-quote">
-O score TxGNN é baseado em relações no grafo de conhecimento biomédico. Scores mais altos indicam relações mais fortes entre o medicamento e a doença no grafo.
+O score TxGNN é a saída de uma rede neural de grafos treinada sobre o grafo de conhecimento biomédico. As páginas de medicamentos mostram apenas previsões com score ≥ 0,99; relações já registradas no grafo são usos conhecidos e foram excluídas.
 </blockquote>
 
 ### Evidências Coletadas
