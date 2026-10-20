@@ -37,7 +37,7 @@
       {
         hook: 'order-sign',
         title: 'BrTxGNN Drug Repurposing Candidates',
-        description: 'Drug repurposing predictions for the patient\'s medications, based on the TxGNN knowledge graph',
+        description: 'Drug repurposing predictions for the patient\'s medications, based on the TxGNN graph neural network',
         id: 'brtxgnn-repurposing',
         prefetch: {
           patient: 'Patient/{{context.patientId}}',
