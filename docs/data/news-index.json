@@ -1,5 +1,140 @@
 {
-  "generated": "2026-10-20T16:30:19.313023+00:00",
-  "count": 0,
-  "news": []
+  "generated": "2026-10-20T21:21:23.801482+00:00",
+  "count": 2,
+  "news": [
+    {
+      "id": "d39a30dcb78b",
+      "title": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite - CNN Brasil",
+      "published": "2026-10-20T15:25:32+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRThyZHRyV0NNNzk1Rm9wdGQ4aHpUdU05T3Y3bTY5WHNvU2hLMlpwNVB1OXZwV1VTY3JDRVM4YW1lejViT2ktRFFlc1k0Sm5Xbjd1WGxiY1RvTjZ3b2ZFaW82SGN4XzAyZkFoZ1JBTlgxRER1c2JDT3VVZHJ0OW9RMzRSZUpaN2k5UVBxTkVLdDhxZzZvOEZfQ0NpU25fS3g5bjJ2Uy1tZm9NOEVa?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "pneumonia",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir",
+              "url": "/drugs/ganciclovir/"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol",
+              "url": "/drugs/clobutinol/"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam",
+              "url": "/drugs/tazobactam/"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir",
+              "url": "/drugs/oseltamivir/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "infecção pulmonar",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir",
+              "url": "/drugs/ganciclovir/"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol",
+              "url": "/drugs/clobutinol/"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam",
+              "url": "/drugs/tazobactam/"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir",
+              "url": "/drugs/oseltamivir/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "021f885db53f",
+      "title": "Quem tem direito à vacina pneumo 20 no SUS? - O TEMPO",
+      "published": "2026-10-20T15:23:39+00:00",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVlXSnRyNlM3SUhpbk5iNFMyNGdhd2dFVEFZTkxBX2F1S0JHSDZ1bER6amhNdUNacTZvSlFlWldMRW14VGJvck1ERkREQUxleE1QZ3B1bXlyTUtJbkJMeV9EVUw0dGlhZVN0N2Q3YVM0d04xVjN6VUFiQlZ5MmNLQnppeVBTeVN0eW9POVJHdl9tWElWUXM3b3VPdEFIQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "pneumonia",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir",
+              "url": "/drugs/ganciclovir/"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol",
+              "url": "/drugs/clobutinol/"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam",
+              "url": "/drugs/tazobactam/"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir",
+              "url": "/drugs/oseltamivir/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "infecção pulmonar",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir",
+              "url": "/drugs/ganciclovir/"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol",
+              "url": "/drugs/clobutinol/"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam",
+              "url": "/drugs/tazobactam/"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir",
+              "url": "/drugs/oseltamivir/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
