@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Laronidase: nova indicação prevista, Doença lisossômica com acometimento esquelético (lysosomal storage di… (nível de evidência L3). Indicação original: Mucopolissacaridose (síndromes de Hurler, Hurl…"
 monitor_inn: "Laronidase"
-predicted_indications: ["camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-strabismus-ectopic pupils syndrome", "inborn disorder of lysosomal amino acid transport", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "ptosis-vocal cord paralysis syndrome"]
+predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome", "lysosomal disease with hypertrophic cardiomyopathy", "syndromic neurometabolic disease with X-linked intellectual disability", "eyelids malposition disorder", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-strabismus-ectopic pupils syndrome", "inborn disorder of lysosomal amino acid transport", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "ptosis-vocal cord paralysis syndrome"]
 ---
 
 # Laronidase

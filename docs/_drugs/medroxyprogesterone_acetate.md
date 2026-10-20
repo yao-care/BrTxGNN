@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Medroxyprogesterone Acetate: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L4). Indicação original: Progestágenos simples"
 monitor_inn: "Medroxyprogesterone acetate"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "cervix endometriosis", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 ---
 
 # Medroxyprogesterone Acetate

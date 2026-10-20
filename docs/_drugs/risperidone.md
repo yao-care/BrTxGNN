@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-13
 description: "Risperidone: nova indicação prevista, Paralisia do olhar horizontal familiar com escoliose progressiva (gaz… (nível de evidência L5). Indicação original: Neurolépticos (antipsicótico)"
 monitor_inn: "RISPERIDONE"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
 ---
 
 # Risperidone

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Tolnaftate: nova indicação prevista, Doença infecciosa ectotrix (ectothrix infectious disease) (nível de evidência L5). Indicação original: Anti-infecciosos tópicos – associações medicamentosas"
 monitor_inn: "Tolnaftate"
-predicted_indications: ["ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease", "ophthalmic herpes zoster", "orbital cellulitis", "infectious mononucleosis"]
+predicted_indications: ["ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease", "ophthalmic herpes zoster", "orbital cellulitis", "skin disease caused by infection", "infectious mononucleosis"]
 ---
 
 # Tolnaftate

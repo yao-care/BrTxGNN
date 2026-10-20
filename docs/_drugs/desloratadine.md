@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Desloratadine: nova indicação prevista, Urticária ao frio (Cold Urticaria) (nível de evidência L5). Indicação original: Anti-histamínicos para uso sistêmico"
 monitor_inn: "Desloratadine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "headache disorder", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis", "headache disorder", "trigeminal autonomic cephalalgia", "punctate epithelial keratoconjunctivitis", "Angelucci syndrome"]
 ---
 
 # Desloratadine

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 6
 last_modified_at: 2026-10-13
 description: "Magnesium Hydroxide: nova indicação prevista, Doença ulcerosa péptica ativa (active peptic ulcer disease) (nível de evidência L3). Indicação original: Antiácido"
+monitor_inn: "MAGNESIUM HYDROXIDE"
+predicted_indications: ["gastroduodenitis", "stomach disease"]
 ---
 
 # Magnesium Hydroxide

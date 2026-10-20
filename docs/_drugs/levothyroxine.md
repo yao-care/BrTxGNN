@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Levothyroxine: nova indicação prevista, Bócio nodular (Nodular Goiter) (nível de evidência L5). Indicação original: Hormônios tireoidianos simples ou associados entre si"
 monitor_inn: "Levothyroxine"
-predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
+predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodular goiter (disease)", "bilateral renal agenesis", "nontoxic goiter", "lingual goiter", "dyshormonogenic goiter", "substernal goiter", "Potter sequence", "Carney complex"]
 ---
 
 # Levothyroxine

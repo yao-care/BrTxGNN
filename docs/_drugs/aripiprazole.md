@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Aripiprazole: nova indicação prevista, Transtorno afetivo maior (major affective disorder) (nível de evidência L1). Indicação original: Antipsicóticos"
 monitor_inn: "ARIPIPRAZOLE"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 ---
 
 # Aripiprazole

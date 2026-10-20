@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-13
 description: "Alfacalcidol: nova indicação prevista, Hipoparatireoidismo isolado familiar por secreção prejudicada de PTH (nível de evidência L5). Indicação original: Hiperparatireoidismo, osteíte fibrosa…"
 monitor_inn: "ALFACALCIDOL"
-predicted_indications: ["Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
+predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
 ---
 
 # Alfacalcidol

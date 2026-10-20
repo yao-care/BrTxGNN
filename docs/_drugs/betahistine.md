@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Betahistine: nova indicação prevista, Síndrome das Pernas Inquietas (Restless Legs Syndrome) (nível de evidência L5). Indicação original: Vasodilatadores"
 monitor_inn: "Betahistine"
-predicted_indications: ["restless legs syndrome", "otosclerosis", "age-related hearing impairment", "vertigo, benign recurrent, 2", "autosomal recessive hyperinsulinism due to Kir6.2 deficiency", "hyperinsulinemic hypoglycemia, familial"]
+predicted_indications: ["restless legs syndrome", "otosclerosis", "peripheral vertigo", "age-related hearing impairment", "vertigo, benign recurrent, 2", "autosomal recessive hyperinsulinism due to Kir6.2 deficiency", "hyperinsulinemic hypoglycemia, familial"]
 ---
 
 # Betahistine

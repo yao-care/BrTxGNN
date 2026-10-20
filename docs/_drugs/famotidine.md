@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Famotidine: nova indicação prevista, Refluxo duodenogástrico (Duodenogastric Reflux) (nível de evidência L4). Indicação original: Antiácidos e antiulcerosos"
 monitor_inn: "Famotidine"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "gastroduodenitis", "multiple endocrine neoplasia", "acne (disease)"]
 ---
 
 # Famotidine

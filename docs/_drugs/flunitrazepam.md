@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Flunitrazepam: nova indicação prevista, Insônia (insomnia) (nível de evidência L3). Indicação original: Não informada nos dados compilados"
 monitor_inn: "Flunitrazepam"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "alcohol withdrawal delirium", "migraine with or without aura, susceptibility to", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "migraine with or without aura, susceptibility to", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
 ---
 
 # Flunitrazepam

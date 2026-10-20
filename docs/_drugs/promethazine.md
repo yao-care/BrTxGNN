@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Promethazine: nova indicação prevista, Conjuntivite da rosácea (rosacea conjunctivitis) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos"
 monitor_inn: "Promethazine"
-predicted_indications: ["recalcitrant atopic dermatitis", "conjunctival folliculosis"]
+predicted_indications: ["rosacea conjunctivitis", "recalcitrant atopic dermatitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "conjunctival folliculosis", "chronic follicular conjunctivitis", "parasitic conjunctivitis"]
 ---
 
 # Promethazine

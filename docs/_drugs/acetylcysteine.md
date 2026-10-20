@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Acetylcysteine: nova indicação prevista, Doença trombótica (thrombotic disease) (nível de evidência L2). Indicação original: Expectorantes balsâmicos e mucolítico"
 monitor_inn: "Acetylcysteine"
-predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "angle-closure glaucoma"]
+predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
 ---
 
 # Acetylcysteine

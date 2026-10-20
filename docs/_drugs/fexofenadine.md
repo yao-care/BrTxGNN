@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Fexofenadine: nova indicação prevista, Conjuntivite da rosácea (rosacea conjunctivitis) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos"
 monitor_inn: "Fexofenadine"
-predicted_indications: ["parasitic eyelid infestation", "ulcerative blepharitis", "infective urethral stricture", "postinfectious vasculitis", "post-bacterial disorder", "noninfectious dermatoses of eyelid"]
+predicted_indications: ["rosacea conjunctivitis", "punctate epithelial keratoconjunctivitis", "blepharoconjunctivitis", "viral conjunctivitis", "parasitic eyelid infestation", "ulcerative blepharitis", "infective urethral stricture", "postinfectious vasculitis", "post-bacterial disorder", "noninfectious dermatoses of eyelid"]
 ---
 
 # Fexofenadine

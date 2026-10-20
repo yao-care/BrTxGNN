@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Venetoclax: nova indicação prevista, Leucemia linfocítica crônica/linfoma linfocítico de pequenas células… (nível de evidência L5). Indicação original: Leucemia linfoblástica/linfocítica aguda e sínd…"
 monitor_inn: "Venetoclax"
-predicted_indications: ["Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
+predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 ---
 
 # Venetoclax

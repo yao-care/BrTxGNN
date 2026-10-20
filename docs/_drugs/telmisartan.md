@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Telmisartan: nova indicação prevista, Oclusão de Artéria Cerebral (Cerebral Artery Occlusion) (nível de evidência L5). Indicação original: Hipertensão arterial (também AVC e infarto cerebral…"
 monitor_inn: "Telmisartan"
-predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage"]
+predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 ---
 
 # Telmisartan

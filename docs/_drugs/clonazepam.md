@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-13
 description: "Clonazepam: nova indicação prevista, Síndrome das pernas inquietas (Restless Legs Syndrome) (nível de evidência L3). Indicação original: Epilepsia de ausência, síndrome de Lennox-Gastaut…"
 monitor_inn: "CLONAZEPAM"
-predicted_indications: ["restless legs syndrome", "trigeminal nerve neoplasm"]
+predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
 ---
 
 # Clonazepam

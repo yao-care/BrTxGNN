@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Tinidazole: nova indicação prevista, Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis) (nível de evidência L5). Indicação original: Amebicidas, giardicidas e tricomonicidas"
 monitor_inn: "Tinidazole"
-predicted_indications: ["ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "blunt duct adenosis of breast", "apocrine adenosis of breast", "AIDS related complex", "congenital human immunodeficiency virus", "benign mammary dysplasia"]
+predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "blunt duct adenosis of breast", "apocrine adenosis of breast", "AIDS related complex", "congenital human immunodeficiency virus", "benign mammary dysplasia"]
 ---
 
 # Tinidazole

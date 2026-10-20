@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-13
 description: "Olanzapine: nova indicação prevista, Agorafobia (Agoraphobia) (nível de evidência L3). Indicação original: Antipsicóticos"
 monitor_inn: "OLANZAPINE"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder"]
 ---
 
 # Olanzapine

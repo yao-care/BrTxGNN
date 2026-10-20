@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Tobramycin: nova indicação prevista, Ceratite por Exposição (Exposure Keratitis) (nível de evidência L4). Indicação original: Antiinfecciosos tópicos para uso oftálmico"
 monitor_inn: "Tobramycin"
-predicted_indications: ["otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome"]
+predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 ---
 
 # Tobramycin

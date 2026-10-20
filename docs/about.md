@@ -108,7 +108,7 @@ A plataforma integra múltiplas fontes de dados públicas, incluindo previsões 
 <tr><th>Tipo</th><th>Fonte</th><th>Descrição</th></tr>
 </thead>
 <tbody>
-<tr><td>Previsão IA</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Modelo de previsão de Harvard</td></tr>
+<tr><td>Previsão IA</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Rede neural de grafos de Harvard treinada com um grafo de conhecimento</td></tr>
 <tr><td>Ensaios Clínicos</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Registro global de ensaios clínicos</td></tr>
 <tr><td>Literatura</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Base de literatura biomédica</td></tr>
 <tr><td>Medicamentos</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>Base de dados de medicamentos</td></tr>

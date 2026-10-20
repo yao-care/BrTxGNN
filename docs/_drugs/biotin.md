@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Biotin: nova indicação prevista, Dispepsia (Dyspepsia) (nível de evidência L5). Indicação original: Deficiência nutricional de biotina"
 monitor_inn: "Biotin"
-predicted_indications: ["dyspepsia", "gastroparesis (disease)", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "familial visceral myopathy", "anemia of prematurity", "congenital prothrombin deficiency", "cystinosis"]
+predicted_indications: ["dyspepsia", "gastroparesis (disease)", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "familial visceral myopathy", "anemia of prematurity", "congenital prothrombin deficiency", "cystinosis", "obsolete contact dermatitis caused by poison oak"]
 ---
 
 # Biotin

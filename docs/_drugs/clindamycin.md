@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Clindamycin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Clindamycin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "superior limbic keratoconjunctivitis", "visual snow syndrome", "keratomalacia", "ophthalmia nodosa"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis", "superior limbic keratoconjunctivitis", "visual snow syndrome", "keratomalacia", "ophthalmia nodosa"]
 ---
 
 # Clindamycin

@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-13
 description: "Alprazolam: nova indicação prevista, Insônia (insomnia) (nível de evidência L4). Indicação original: Transtorno de ansiedade"
 monitor_inn: "ALPRAZOLAM"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---
 
 # Alprazolam

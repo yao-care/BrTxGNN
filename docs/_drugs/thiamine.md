@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Thiamine: nova indicação prevista, Hipertireoidismo (hyperthyroidism) (nível de evidência L3). Indicação original: Vitaminas e suplementos minerais"
 monitor_inn: "Thiamine"
-predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma", "pulmonary hypertension", "hyperthyroxinemia", "kyphoscoliotic heart disease", "Graves disease", "peripheral vascular disease", "neonatal thyrotoxicosis"]
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "pulmonary hypertension", "hyperthyroxinemia", "kyphoscoliotic heart disease", "Graves disease", "peripheral vascular disease", "neonatal thyrotoxicosis"]
 ---
 
 # Thiamine

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Clotrimazole: nova indicação prevista, Vulvovaginite (vulvovaginitis) (nível de evidência L1). Indicação original: Antimicóticos para uso tópico"
 monitor_inn: "Clotrimazole"
-predicted_indications: ["acne (disease)", "trichomonal vulvovaginitis", "ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease"]
+predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis", "trichomonal vulvovaginitis", "ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease"]
 ---
 
 # Clotrimazole
