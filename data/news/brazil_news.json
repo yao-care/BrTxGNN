@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-21T03:44:55.809641+00:00",
-  "total_fetched": 99,
-  "unique_count": 98,
-  "health_related_count": 37,
+  "fetched_at": "2026-10-21T11:20:59.389436+00:00",
+  "total_fetched": 101,
+  "unique_count": 100,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "182ca7fdc876",
+      "title": "Novo bovino pré-histórico de 250 mil anos atrás é descoberto na mesma caverna que escondia fósseis de primatas - CNN Brasil",
+      "published": "2026-10-21T10:24:54+00:00",
+      "summary": "Novo bovino pré-histórico de 250 mil anos atrás é descoberto na mesma caverna que escondia fósseis de primatas&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeU5OZTBQcmE1THVydGExeHhha0xJV0p2MXhTMU1LejR4cHZFWXdscFV4VTFhWU1aRUFfOXFYSGphbU9XNDM2TTMzODN3aGphMHdBVXI5LTA1YTJlRGpJV0t0TjlabWlVT25USUNlMENkWnZ3YXpOblNHWGtna3h3d01JMDA2WUU4eDhwVTlQVk5PY0RVRTJYdEZUSXotSlZzLWJYVUVwWTJEc2J2ME1wNXlWaUx2NVM3WUt1T2ZkR3ljRVlMVEVsR0lmV001N2ozeEZIeTF5ZFdLWDZRWE9zUGFlNzhUWVNW?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "938c7996b8ee",
+      "title": "Primata peçonhento volta a ser registrado cientificamente após quase um século - Folha de S.Paulo",
+      "published": "2026-10-21T09:00:00+00:00",
+      "summary": "Primata peçonhento volta a ser registrado cientificamente após quase um século&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnY5NlZpVmVHeXduQnVfaFUzZ0ZlcGx0UjJ4NG1JZlNFRjNwNGRKMVpucHJzUHpGWFNYbFM1Vm5Ra1lZeGNEeE16aHE4bVdWbDJ6OHJyRW1FWU1Sdm9GanpoSU1Cb0dQRlRUNVJoZkpqeWU4cTJKS0ROZmdzOTBrR0F0VkJkb1VfcHllU19FcXNjb21teXk5RjBMVm52dGlaVmstbWdzR3FLU25CVVRXTUoxblpualJEMU84eHNSOEoydEU4a3BBMjN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "407dd45fe8a2",
+      "title": "Comer ovos, usar computador e poluição: o que fatores do dia a dia revelam sobre o risco de demência - Estadão",
+      "published": "2026-10-21T08:30:00+00:00",
+      "summary": "Comer ovos, usar computador e poluição: o que fatores do dia a dia revelam sobre o risco de demência&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHlHb0lRdzNDcmd6bEVHZkprTmZ5NkVqQXRMaG9rNHJ6VElyOXhQei1zX1BhMHRXLW5qNFNoNjVMbkE0d3RaMVNNTTBLSjVfcWp5ZFBVaHRVME8wcW9jUXlzb1ZMZ2EtY21NRjQwRkQ1eG1aSzl5TFhsMmlqVDB6b3VJanZnQlAzcVB4cXV3X3F5RzI5ZURBaUdpZllNU1ltblVoS3ZsRWRQb3ZNMUFLdG5kb0RKUU9JZkwzRm96aXF1akoxN3RxZUJBdHkxcXNzT0FoQnBWQzRBQzB6aWxEdlBn0gHnAUFVX3lxTE9wQjE4aTZ1emtSaTJzMEhvOWZkN3hMb2loN25pOFpTbVBJcUNJVEhXNUQtNno0dkxfTGJULTh4cEU1QjhFdE1pV2VndHVQbVVTX1pmUE53QVhzblVnRXR6ak41azBEb0ZucGEzMlMxZzZKZkhURmJnSU5JUUJueHRJdnhUa0dIWDRiRXpJa1dMRWdPajcyRmxjaE9WYnkzZm9Ea0VHV0tPM3FISFp4ekp3S2JpU205YXhVdk42WTRYRXdyTC1fYUxVQ192WVpCbm1qLTc4aUh1U1JqMDh3V3FOMUhydXY0TQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "c524212358b9",
       "title": "Cães conseguem reconhecer pessoas ruins? Cientistas japoneses fizeram um experimento para descobrir em quem os animais confiam, e os resultados surpreenderam até os pesquisadores - Super Rádio Tupi",
@@ -18,14 +54,38 @@
       ]
     },
     {
+      "id": "a0ff7a620dc8",
+      "title": "Após diagnóstico de síndrome ligada ao câncer, Isabel Teixeira optou pela retirada preventiva das mamas - G1",
+      "published": "2026-10-21T03:00:00+00:00",
+      "summary": "Após diagnóstico de síndrome ligada ao câncer, Isabel Teixeira optou pela retirada preventiva das mamas&nbsp;&nbsp;G1Isabel Teixeira descobre síndrome de Li-Fraumeni após teste genético; entenda a condição&nbsp;&nbsp;Folha de S.Paulo'Fiquei sem chão', diz Isabel Teixeira, atriz da Globo, após descobrir síndrome rara&nbsp;&nbsp;Jornal CorreioIsabel Teixeira expõe diagnóstico de mutação genética que aumenta risco de câncer&nbsp;&nbsp;Correio BrazilienseIsabel Teixeira revela síndrome rara de risco",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcmhwYVdRWVVEajRQNXVSSTBpU2pONkt5VFcySHpkS1c1WVg2NE9sdndZcXVjM2FkcXhQeTd4RnBsUGVkdjNWX2RaWWJlR1NENFRQSGF1MElPQ215NGE2dWpRRUxkcVNNdjZRZi1zOHhER3RsOUJvajFpYjBFaVhSSk1WLTg1Z29HdFVYeVdueHpyUy0zT2lqXzI0MlFpMjF6M0xkUy03TU10Y2EyZFhZeFFILUxJLXVteElRcWR3RU12anZ1b2FYVjdONFN4Y1kwVDZvTnl2WW1qbHp6SmJocDVWdWVISU55M2RGYmlDUG7SAf8BQVVfeXFMTWduSmZCS21GRVhQNmU0aFZhbE1Ieml6OVRPYk44Y1Z4NnVjWmlyclNuMDZSbERYRkFGcXBkNUh2ZzJveElCaGc3Z3hjcWJsRG1Bdk1UeDNrdjYyM09iS3RTa3QtUHBRZUFiaVVfbnB2aVg5Rk5TbFJFdkFCVUhXbEJnVm5oOFVuTkhzc3dZMXJ0U0lfM25XY09UYXBabDI0QnJ4NFhja2RJV2hvak0zVnVpNGI2b2ZMRDJKTkJBeW0tMWVuZktTcEo3dWFWSFlKdldZT0dVMXJoNk9XbEpsMmFoUDdLRGxNaHVOUlVNd0RZUUliaWZNTmlOUXljalc4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7f3952a65dda",
       "title": "Aedes aegypti: cerca de 1,8 mil cidades estão em alerta ou em situação de risco por causa do mosquito transmissor da dengue - G1",
       "published": "2026-10-21T00:20:18+00:00",
-      "summary": "Aedes aegypti: cerca de 1,8 mil cidades estão em alerta ou em situação de risco por causa do mosquito transmissor da dengue&nbsp;&nbsp;G1Com início das chuvas, veja 10 cuidados contra a dengue em Cuiabá&nbsp;&nbsp;Prefeitura de CuiabáTempo instável reforça alerta para prevenção das arboviroses em SP&nbsp;&nbsp;www.agenciasp.sp.gov.brPrefeitura de Paraopeba reforça cuidados para prevenir dengue&nbsp;&nbsp;Mega CidadeAção de combate à dengue leva orientações a moradores do bairro 4 Pinheiros&nbsp;",
+      "summary": "Aedes aegypti: cerca de 1,8 mil cidades estão em alerta ou em situação de risco por causa do mosquito transmissor da dengue&nbsp;&nbsp;G1Prevenir é dever de todos&nbsp;&nbsp;OCP NewsMetade das cidades brasileiras está em alerta para risco de alta da dengue&nbsp;&nbsp;uol.com.brCom início das chuvas, veja 10 cuidados contra a dengue em Cuiabá&nbsp;&nbsp;MINUTO MTQuase 1,8 mil cidades brasileiras estão em alerta ou risco por causa da dengue&nbsp;&nbsp;Folha de Curitiba",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNV1V6SXRKVHJxQW8yUnJQOTJHakVmWHRhbzZPcEZxUy1Wb2dadEF1TzNWalBlU1BSOGdscDBkNmRFd09VRm1pYVN5UEdNd2c5a2NCUUdFaWNGNFRNcVMwU2VrVkpnbkFxaG5zVGk0YzFIYU9UYVVlZlZXNDVDMWo2dmlWV0VJeFdTS2k3ZlZtaHktcnFCRENlTTR3QVhMSHB6bk1xcVpCWkFFZjVQSXpGYU5SZlRkQmFKMGJXVi1WV0tRcjdQY1ZFZVlUX2V2TzJ5TmtucXlDdkZVcXluLXo4NzlkNkRvdWwzd0d6QlRya0w2VUlKVUpkR1diV2I3S01YNGlkNTBfUENjd2lWYzJxYU1BZmpwWmlsYjVia1hlbzfSAa8CQVVfeXFMTlk1SUozUWNRVFlLQ081bm5OTG4wWmNndGt2emRyZDhyei1MdnJheU1WZ0ZSM00tejhDNXBvMXRkMlNla0dEMmdNLVZfTVptQmtuTjhKa0phWVR2Rm42dllZeU5fR296ajExR2h5YjFDaTN5NWhzcEJ2Q0lOSmlFUlZEaGI5dVJXSzZvMTA1c3lGSjRwaEx3XzJ4UDg0YjF3cjZ0SEFMaElueUIxNFAzMnduZm9Eall6TU5Pa2p3RWVDRkdhYUNMVWFOT0w0N2NzMVh1RTM1R0RCREFUd2xvWllIeWRvTlE3TXJ4Wm5FM2pyNzhqRlVMMkQwUEx2MGpiZVZseGVGR0ZFeksxTDRDQWtESXdlMlJhbE1hcW40aDNSWTVubEt6azNyZ3YwUkww?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "07c915d55403",
+      "title": "Como o horário do jantar afeta o seu intestino - Estadão",
+      "published": "2026-10-20T23:00:00+00:00",
+      "summary": "Como o horário do jantar afeta o seu intestino&nbsp;&nbsp;EstadãoPor que comer a mesma coisa tem efeitos diferentes dependendo da hora do dia?&nbsp;&nbsp;BBCSomado a estresse, horário do jantar pode influenciar na saúde intestinal&nbsp;&nbsp;Folha de S.PauloComer tarde da noite pode aumentar o risco de doenças hepáticas&nbsp;&nbsp;MetrópolesLanche noturno faz mal à saúde? Estudo aponta relação do hábito com doenças hepáticas&nbsp;&nbsp;Rádio Clube de Canoinhas",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVUt3d3c4TTFWcnRPVUM3VEpYQi1ST2ZMblhJbzVKbDNPVUt4bFJqU19NaHh6VWpTNXhBdVBSRkhFMGlBMG1aT0dqUFQybGpnMFFEckdVTGdWdU1aYnQ0RHowR0x2d0k0SC1jR0dMZXFUZG1NcWxqYmd5ZUNDM3V2cVQyUm5odVl5UFVLTWhKa1VhaGvSAZgBQVVfeXFMTW80R0wxWFhldS1UemN5VTVjUTFnZFV6TWhZeC12U0ZiMTFfWmdJMXJLNWcwZ1p4c0s5NWtaeGt6c2lCNGpEdHdMWklsVTMyU2FWajJGQ0tGZnMzbkdhMDVST19yY3Q3dV9FaldwdXRoako2d3hqWVVlTVZJaHhjZ0tNQjVGWWt5enhib2t6dFBVNmFwUGMtcEw?oc=5"
         }
       ]
     },
@@ -54,26 +114,26 @@
       ]
     },
     {
-      "id": "c25b9daa243e",
-      "title": "Estudo aponta maior resiliência emocional em nascidos entre 1950 e 1970 - Diário do Centro do Mundo",
-      "published": "2026-10-20T19:33:18+00:00",
-      "summary": "Estudo aponta maior resiliência emocional em nascidos entre 1950 e 1970&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX003TGRfZ1J6WE41UVRQS0lfaThYdnNXSTRLbWdlTmUzVkFfUGFqWHpPdXVER1JKdHNXTWI3MmltZXpFcG9TWGkwQVV2UkJud2p5cl84X3dOel9ZeU1IQ2xIRGJNQzRYc3dsclBqeFdnRXczWjlnNERuZFo1TWg3b3dEdXk5N21vUXVqbTR2Z2VOMWI4bHU0SDVlbU81REtr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "83608f4b9e81",
       "title": "Mulher tem falência hepática e dano cerebral após usar suplemento do TikTok - Metrópoles",
       "published": "2026-10-20T18:33:00+00:00",
-      "summary": "Mulher tem falência hepática e dano cerebral após usar suplemento do TikTok&nbsp;&nbsp;MetrópolesReceita médica pelo TikTok: influencers podem estimular uso indevido de medicamentos, alerta farmacêutico&nbsp;&nbsp;G1Autodiagnóstico Médico no Brasil - Pesquisa na íntegra&nbsp;&nbsp;ICTQVocê deve tomar suplementos de micronutrientes por conta própria para tratar dores de cabeça e tonturas?&nbsp;&nbsp;Vietnam.vnAutodiagnóstico pela internet pode atrasar tratamento e expor pacientes a riscos&nbsp;&n",
+      "summary": "Mulher tem falência hepática e dano cerebral após usar suplemento do TikTok&nbsp;&nbsp;MetrópolesAutodiagnóstico Médico no Brasil - Pesquisa na íntegra&nbsp;&nbsp;ICTQVocê deve tomar suplementos de micronutrientes por conta própria para tratar dores de cabeça e tonturas?&nbsp;&nbsp;Vietnam.vnAutodiagnóstico pela internet pode atrasar tratamento e expor pacientes a riscos&nbsp;&nbsp;redeutv.com.brSuplemento popular no TikTok é associado a falência hepática&nbsp;&nbsp;DOL",
       "sources": [
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQW93ZTV6bDRjUG1WMzRYTjBQMHdJNG9KMkFsOHg0U1VGNkNIMjNFanF0RzE4cHlpZkQ5alBNQTRERGVhZHV4d3ptWHh3Y0tPVGY2ZUhYbWdLeHFDUXd2OVBpbW5LNGR4SDV2ZWg2b3pwZUZrLXV6Y2N6OE5kRkVOTGpnNG1xX1RBTGtQZFhMUGxKS2JuVS0zQlZCa2ZxcElrTnlZQ3p6cmEyZFhD?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "36aff305aeda",
+      "title": "Pessoas nascidas entre 1950 e 1970 têm uma vantagem psicológica fundamental, diz estudo - veja qual - O GLOBO",
+      "published": "2026-10-20T16:56:58+00:00",
+      "summary": "Pessoas nascidas entre 1950 e 1970 têm uma vantagem psicológica fundamental, diz estudo - veja qual&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMGtQRS1PWl9aemZjTG82MGE0dFRfMDBlMzNtNlc2d09JZGw5TUZRTHNXa2thdElRYXdGWnk0Yjhqbll4YmQzYVlkM1IzNGx2LV8ta2VZempfMjd1ZDFYV2pvTTlZZ0dKODNBcTdMcE9Uc2RtRU9Fbk1abW4wRTJaMXFUcktqWWVDQzZpc2tFcUk0YTNvaXExSEhhbU5ST2NwaUVkcjJBUlNmQXF3NHFOTENrOUNyY1A1SEVYY0FMTkZnNUFDazlpdnRBUE10cnFZNDhVSDJaRGx6M2ZPb25tU2pnTGNpNG_SAfYBQVVfeXFMUHlTNjhuLThiUUpXQlRzZEpfRUo3bkMtekZaVXNtTzE1UEU5RExSck9pMmlyVHVYRXRFeEtFVm1vQW1QeWZVWURRMXRsN2YtM293LUN5X3NOckZKLVRwa2RseFI5RV9EODAwd2syR0M3T3hFTmZXTnBIUnJ4cXNuMktXUGJqbVg4MXlJYzVBVVpZOTBtcFFHSDVoUE5leXJOcGhzN0I3UlQyYTl6ZlRYc0ppYVBFSDhVRjVEcE5lTlVGc19JemNMcUNSMWd6ZnlsU3BHUEZQTElhY1Q1VlNtNVV4T0RUaDRtTFd3aEF5YzBNUmd1SWZ3?oc=5"
         }
       ]
     },
@@ -90,10 +150,22 @@
       ]
     },
     {
+      "id": "d504e3367467",
+      "title": "Banana, de manhã é ouro, de tarde é prata e de noite mata: nutricionista esclarece o que tem de verdade no ditado - Minha Vida Saúde",
+      "published": "2026-10-20T15:41:19+00:00",
+      "summary": "Banana, de manhã é ouro, de tarde é prata e de noite mata: nutricionista esclarece o que tem de verdade no ditado&nbsp;&nbsp;Minha Vida SaúdeVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkR2RxVVdRQloyZXY5aXF3enVVQk8tMmRQSFFMeVU0YmlnMHlXRndoQTd1elQyRzdNOXp6czY1YWxtU2Y0VG1JdTF6dU5URHg3Z0E3SHNlTzNfNHpBeDYwddIBZkFVX3lxTFBmR1FsWDhra1A3NS1FODZRLXBnSjBRSEFETWk1TllLUVFrTGtpNzE4SG5KT2d1dFFrVHU5R3ZNMlNLQmhabmxnNHZCZGIxdGFKZnRwdkZURlRDalFtSGhZS09zU3hDdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d39a30dcb78b",
       "title": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite - CNN Brasil",
       "published": "2026-10-20T15:25:32+00:00",
-      "summary": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite&nbsp;&nbsp;CNN BrasilAnvisa aprova vacina de dose única contra pneumonia para adultos a partir de 18 anos&nbsp;&nbsp;Poder GoiásPneumonia: especialista explica quais vacinas ajudam a prevenir a doença e evitar complicações respiratórias&nbsp;&nbsp;Banda BNova vacina contra pneumonia protege contra 21 tipos de bactéria; veja quem pode tomar&nbsp;&nbsp;Exame",
+      "summary": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite&nbsp;&nbsp;CNN BrasilAnvisa aprova vacina de dose única contra pneumonia para adultos a partir de 18 anos&nbsp;&nbsp;Poder GoiásAnvisa aprova vacina contra 21 tipos de bactérias que causam pneumonia&nbsp;&nbsp;URB NewsPneumonia: especialista explica quais vacinas ajudam a prevenir a doença e evitar complicações respiratórias&nbsp;&nbsp;Banda BNova vacina contra pneumonia protege contra 21 tipos de bactéria; veja quem pode t",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -174,10 +246,22 @@
       ]
     },
     {
+      "id": "ee0c244a4c37",
+      "title": "Internações por AVC crescem 33% na Bahia em cinco anos; veja os riscos e as sequelas - Jornal Correio",
+      "published": "2026-10-20T08:30:00+00:00",
+      "summary": "Internações por AVC crescem 33% na Bahia em cinco anos; veja os riscos e as sequelas&nbsp;&nbsp;Jornal CorreioAVC: saiba identificar os primeiros sinais e quando chamar o Samu&nbsp;&nbsp;A GazetaHGF registra 979 internações por AVC até agosto de 2026&nbsp;&nbsp;O POVOAVC provocou quase 90 mil mortes no Brasil em 2025; Bahia registrou 2,7 mil óbitos&nbsp;&nbsp;Alô Alô Bahia6ª Corrida de Prevenção ao AVC reúne mais de mil inscritos em Feira de Santana&nbsp;&nbsp;ba.gov.br",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVItbkJ4MHJhM0pJNU03YmxpLUpQaHExdDU2UlhUSF92eHJESFBBUVVoZHVXaVhKV3JNTEhSV2NodUpRMHA2VjFtLXlIb3NkTUljRGtXV0RLcWZfZFZQV3AzS0stTTdWVUJFYnpWVUhuNlAtOTNIVVVRVzlDTGNmeTRBYUJCeUEtQ3c3R2xSLWo4SkdoWFl5UFY3ckIwNzhacHBxT3c3VjQ0OXVXMTFpT2ZsNnJWblBaR0xSWmVpb0s0ay0xRVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "30de827f90ba",
       "title": "Mounjaro ou anorexia? Médicos alertam que os efeitos das canetas emagrecedoras podem mascarar transtornos alimentares graves - O GLOBO",
       "published": "2026-10-20T07:30:00+00:00",
-      "summary": "Mounjaro ou anorexia? Médicos alertam que os efeitos das canetas emagrecedoras podem mascarar transtornos alimentares graves&nbsp;&nbsp;O GLOBOBrasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes&nbsp;&nbsp;UOL NotíciasParei a caneta: como evitar recuperar o peso perdido&nbsp;&nbsp;Assine AbrilMuito além do emagrecimento: efeito das canetas emagrecedoras no coração surpreende cientistas&nbsp;&nbsp;ExameCanetas emagrecedoras exigem acompanhamento médico&nbsp;&nbsp;R7",
+      "summary": "Mounjaro ou anorexia? Médicos alertam que os efeitos das canetas emagrecedoras podem mascarar transtornos alimentares graves&nbsp;&nbsp;O GLOBOParei a caneta: como evitar recuperar o peso perdido&nbsp;&nbsp;Assine AbrilBrasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes&nbsp;&nbsp;UOL NotíciasCanetas emagrecedoras exigem acompanhamento médico&nbsp;&nbsp;R7Canetas emagrecedoras: mercado paralelo e automedicação aumentam riscos à saúde&nbsp;&nbsp;Folha PE",
       "sources": [
         {
           "name": "O GLOBO",
@@ -186,14 +270,14 @@
       ]
     },
     {
-      "id": "9b715470aec1",
-      "title": "Insônia: 10 dicas essenciais para adormecer e relaxar o cérebro para uma melhor noite de sono - O GLOBO",
+      "id": "f9024fd92074",
+      "title": "A 'faxina' que o cérebro faz durante o sono e que a insônia pode atrapalhar - G1",
       "published": "2026-10-20T07:00:00+00:00",
-      "summary": "Insônia: 10 dicas essenciais para adormecer e relaxar o cérebro para uma melhor noite de sono&nbsp;&nbsp;O GLOBOInsônia afeta rotina de brasileiros e pode aumentar risco de doenças cardiovasculares e demência&nbsp;&nbsp;noveen.com.brVocê não precisa ser produtivo o tempo todo: 6 lições para descansar sem culpa&nbsp;&nbsp;Revista Ana MariaDescansar melhora concentração, memória e produtividade, diz especialista&nbsp;&nbsp;Diário do Centro do MundoA 'faxina' que o cérebro faz durante o sono e que ",
+      "summary": "A 'faxina' que o cérebro faz durante o sono e que a insônia pode atrapalhar&nbsp;&nbsp;G1Insônia: 10 dicas essenciais para adormecer e relaxar o cérebro para uma melhor noite de sono&nbsp;&nbsp;O GLOBOAcordar cansado todos os dias não é normal; entenda quando a insônia vira doença&nbsp;&nbsp;G1Insônia afeta rotina de brasileiros e pode aumentar risco de doenças cardiovasculares e demência&nbsp;&nbsp;noveen.com.brVocê não precisa ser produtivo o tempo todo: 6 lições para descansar sem culpa&nbsp;",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOckk4YTFYb1JJcms2dHAzc0tQd3NTNW1uVUFWNGRIWlE5bElWSjkyQVV5WW8xSWdGaFB2MDNBZDdXeFVtdW1xc2ktUlAzek9kQlNSZ1NiSWlIbzZiUjVWX1Boandad0pySk16OUlXeDczalBVQm5oRHZFSkdnYUtYV0VtaW1zOEFBOXR6aDkyWndKRVA5MWVWMEg5TnBhRE9CaGFUby1MQmxjYXZJb1JZWndBNDItRENQaWZxbGgybFBSN2NiaFFYTkZUbUJiWjkzSVJ1TnNPWmtwdl9OTkRTLXJvb9IB8gFBVV95cUxNZUJaVW42eWN0aU1mT3Z1dG94MTh4RnRrNG56ZWNuX21CaGVRM2hnN2JUbnVrS2d5MXhUdGthbTlBWW93dVlsSWFvTVUxNVpHb0xUOW15R0diQXIwbnN3aGpUSmpRa28zTHBwTl96ZEViQjBoNW83Y0RCeTFGVTBhNnNFNXdhMFY1SlpRM19MUXIxVGtvWlZOaVNPdE5pcXlMaDdqTVd2MmI5S0tQb0k4czFxcW9heWR1YWxEdHBfOGFVczlqcXg5RVZMTmVVMDZwV085RlNtamQ4N3dnS1BoalZXLVBiazJwem9wQlZSMlFuQQ?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTNXNlB3Y2s0ajU2aC1hTTZORzZjX3pUTFZ6bzZpQUNaT21LeEFaNHBVbzN4dHk2MEtCVFhmTnF0cFNzRkRONWpHZmFhbUt3dE5RTUVDSWR3U2NIellwVWhBTDVsT0dnN3ZXdUctX3pDdUgzckppUi03RHhXV3dMaFRPQTFCeFN0LTdKeVdQSnRHVC11R3R5NkpYanl1RmxSZUlDbHQtUXhxSHJpYlExT0RvdzdLTHpZVHN3ZGJRYUVURTktS1gwRnJR0gHYAUFVX3lxTFBPNV9yUmM4WGlBX2t0WFh0RldMSHprVXBxYXZzcGtxWmFrcHpGaEFvS0diYXN0UGx4NHBla21aQkJpaWExWVVrQnJLYnVuVDdEMXpjRm5SR2xSQWNBV0U1NGwwd1RNM20za2toakJMYmpXLU5mLTlheURJbHNYMDlqdTVSblpEZllIcXcyNXFkQVZLQ09ncWdaeUpLSk4ydG5JZWlsUFFINlJEWE00ZDRVVF8yS2VfZHFiTzdLR3prY0NOYkdTMDBhYjlvN0U0Z3lIUTk5WUFNSA?oc=5"
         }
       ]
     },
@@ -206,18 +290,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeXhuVXVfamV6eDlMOHFpZ0dXcE10VzU0RS1CX2J4aVFsYVBvcG41a0QteUdvWmxKcHo1cGVycWtnNEtyXzdWb3Y2c1gzT051ZGRocXZiTUFlc21TOUZhNkhlQ1R3dkYtUjNBMVFYWGpjOXhkeldPWnJOSkIyMTMxRVR3NDRJZFVkcTlsZTZvc09lQXRoajRUOWFWb0dRMFRFdU1Vd1pDRl9uM2gyWVgxZXdGS20zOGJRbkVxaUZyWGc2NmM1RENN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c23999febd06",
-      "title": "Você não herda o câncer, herda o risco: entenda a síndrome de Li-Fraumeni, diagnosticada em Isabel Teixeira - G1",
-      "published": "2026-10-20T06:00:00+00:00",
-      "summary": "Você não herda o câncer, herda o risco: entenda a síndrome de Li-Fraumeni, diagnosticada em Isabel Teixeira&nbsp;&nbsp;G1Após diagnóstico de síndrome ligada ao câncer, Isabel Teixeira optou pela retirada preventiva das mamas&nbsp;&nbsp;G1Isabel Teixeira descobre síndrome de Li-Fraumeni após teste genético; entenda a condição&nbsp;&nbsp;Folha de S.Paulo'Fiquei sem chão', diz Isabel Teixeira, atriz da Globo, após descobrir síndrome rara&nbsp;&nbsp;Jornal CorreioIsabel Teixeira expõe diagnóstico de",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3QwVDZKOWJVTlRZSFc0cWtvSzlfZThKX2t4bks3U0pMUktOZy1WY3d1WmozdUR6dTd5eXRmYVNDbnRrWThZWU5NSGtVbjk1cUs3LVMwNFRUTWQwYUdQelRCODJqMTVPc3hYNWRDQ24zbkpyWmczZHpNRzFyYmNlUU8zTUpScWNSTkVkT2ktWElCUTlFYXBpbkZydks3ZUMtOUM2Sk9RdzJtZUNXdjBQUjk1ci1MdDNxSnhGa1hWMDdUZW9qQ0lmNWNzaWY3alBtdno5WUdvZDhyejdoZUJaVS05bU9VTXNVY2E2N3J0aXBIVW_SAYICQVVfeXFMT0l4WmJxVk82VDc4UXgzelltamZUTW1WYk5ybEdjc0laLXVtb2pCbElyYVVKYXRiSzRweEFSRE1EV3FrcXdIVG5qMzl1WmN3ZjRnc2FiMFpldTBhR1c0TjBDVEppSW9nTGhtUjdDRFgwODFxTWdvQXF1dUhQVGM2dnBJQTJiMGVqSEZUWHo3d2NmTXJ4M2RVVWVMc2JlTWpuR0pSekRLUnZONngxSkFJQzV3NGkyZXgxT3RlTWJVODMtVWZFMFIwWmcyYnRZQzJwRWJ0YjZvOTRKNEt5TmdnallfcUFVWHJCT0E4U1F5eTEzQnJGSERLM0RUVXJ4OE5Lenl3?oc=5"
         }
       ]
     },
@@ -270,6 +342,18 @@
       ]
     },
     {
+      "id": "5adaae442399",
+      "title": "Fezes de milhares de pinguins na Antártida podem liberar até 7 milhões de toneladas de metano por ano, diz estudo científico - Diário do Litoral",
+      "published": "2026-10-19T23:59:00+00:00",
+      "summary": "Fezes de milhares de pinguins na Antártida podem liberar até 7 milhões de toneladas de metano por ano, diz estudo científico&nbsp;&nbsp;Diário do Litoral",
+      "sources": [
+        {
+          "name": "Diário do Litoral",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTTVsOElOSy1qNVAxRlNnLUstVGdxclhxMktlWWRPMkZSMER3Z3lpbkR3MWhwRHVNRm5oMTZEUTM0Z2tKVVhDV1lwZTJGTWhXNUhHNzJGZWxpOXFwT2swSFhrdW52dkVLcVhMUlV4NFZZZjN0cmstWTRCM0R1TjRxSTJBQ2tlWmdPVy1CSEVGUGYycEU0OHhhSEZPVmROZkFBVFhLLThaOEFueEJOb2tMZGttTEhLQ3pwY1dPdFF5RUJ2V0xCUS0wdlVXWlVlY1JWQWlOdUZFeVZyWnJuTl9qREc0TlVTNWtDRUtHcFAzREwxLW5yNHktTg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "589177885ec4",
       "title": "Japão lança foguete para primeira missão mundial a uma lua de Marte - UOL",
       "published": "2026-10-19T21:47:03+00:00",
@@ -306,18 +390,6 @@
       ]
     },
     {
-      "id": "34ab0fbd7c7f",
-      "title": "SE é o único do país em alerta para casos graves de doenças respiratórias - Infonet",
-      "published": "2026-10-19T19:00:23+00:00",
-      "summary": "SE é o único do país em alerta para casos graves de doenças respiratórias&nbsp;&nbsp;InfonetSergipe é o único estado do país com nível de alerta de crescimento de SRAG&nbsp;&nbsp;G1InfoGripe da semana&nbsp;&nbsp;Afya | HomeFiocruz aponta avanço de casos graves de síndrome respiratória em três estados&nbsp;&nbsp;Rádio Cidade 99.7 FM CaruaruFiocruz alerta para aumento de casos graves de infecções respiratórias no Brasil&nbsp;&nbsp;ICTQ",
-      "sources": [
-        {
-          "name": "Infonet",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXUxb3F0ZmExSXloQ3dqZlNrTmFXMXpxaEV0ZmI3R0dQWUUwVkRZZ0x0SjJ3b1pmMldVbXBqVTNzZFRxMXFnOFZyTF9Xc0psUmlLdlV2dHdqWkhmQkJOSGxQLW5rZEdoZ0Q2YWdDS0Rrd2QxTXlrVWhoWWNrUEFwWTkzel9WWkdxMU5CaFNfTVVGTE13Vnl3NkVCdVNLdnhDVENNczhOeS1ULVlaNnNBZnpn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5c9dabac0106",
       "title": "Quantos passos por dia são necessários para estimular o funcionamento cerebral? Estudo de 14 anos indica o número ideal - O GLOBO",
       "published": "2026-10-19T16:06:29+00:00",
@@ -330,10 +402,22 @@
       ]
     },
     {
+      "id": "0fc3ba2fd076",
+      "title": "Quantos passos por dia você precisa dar para melhorar seu foco? Estudo investigou - Globo",
+      "published": "2026-10-19T15:30:28+00:00",
+      "summary": "Quantos passos por dia você precisa dar para melhorar seu foco? Estudo investigou&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX0dDZnNjdmRNWUNOT210ZVRQZ0ZqaUNtTVBxSWFON19pZjR3TUFOdkZXc1VMY3R0cnFhd3pMS1NuWjNnNXdnVW5iSHRiRF9sUndBWnhRakV2dm5XRmd5SjIwb2Z0OTdLdEZzclFDS0gyOTJ0TmhpMjdmaFJIcFpkSWtiWWVYdE81a2VsR3pmQmNmRHNzVmZ6UkdobGFQTDVqRDE0TWZKbkRBb2o4Vmk3UWFjM2hQSnRKcnpXTHVsam14MTduTUZDUkxVZmhGX0tsaU9aSWEzVXTSAecBQVVfeXFMTkYxbU1OOFJpbWlXWmRySThRT1NsSXkyR0ZXSUhWY0kxVTNnRHVIUGx0MklrQXFCY1F6YzFSTzY5bEFiWEREblNrZmo5cUhoc0pESjViUV9Ua3pGM3k2VUhrUVFYY0RrbmNWMlM1YjJ3N1BMZ0JzdVJhOU5BeFZDa0l0bnNOTW1sYmg3S1I0bDZZbDlpY2ZORWd1dmEtV3hvaFZlTWFHUlphamNtd3VXbkNHRDRvNEVsOEN2NTFCTjk5WHY0MkZzY2NRNUZiaDF2dGM3RVFWaW1vNFpINUVEbGw3LVJJeldn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5d2ad0693d65",
       "title": "Comer maçã pode beneficiar sua saúde cardiometabólica e intestinal - Folha de S.Paulo",
       "published": "2026-10-19T15:00:00+00:00",
-      "summary": "Comer maçã pode beneficiar sua saúde cardiometabólica e intestinal&nbsp;&nbsp;Folha de S.PauloDia Mundial da Maçã: veja cinco benefícios da fruta para a saúde&nbsp;&nbsp;Jornal de BrasíliaCada maçã tem seu lugar na cozinha e combina com doce e salgado&nbsp;&nbsp;R7 EntretenimentoConheça os benefícios da maçã e por que vale incluí-la na rotina&nbsp;&nbsp;Tua SaúdePor que comer maça pode fazer bem para o seu coração, segundo a ciência&nbsp;&nbsp;Globo",
+      "summary": "Comer maçã pode beneficiar sua saúde cardiometabólica e intestinal&nbsp;&nbsp;Folha de S.PauloRica em fibras e antioxidantes, fruta pode ajudar a controlar o colesterol e reduzir o risco de diabetes&nbsp;&nbsp;Jornal CorreioCada maçã tem seu lugar na cozinha e combina com doce e salgado&nbsp;&nbsp;R7 EntretenimentoPor que comer maça pode fazer bem para o seu coração, segundo a ciência&nbsp;&nbsp;GloboDia Mundial da Maçã: veja cinco benefícios da fruta para a saúde&nbsp;&nbsp;Jornal de Brasília",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -342,10 +426,22 @@
       ]
     },
     {
+      "id": "df31e6680f18",
+      "title": "Estudo diz que a Peste Negra afetou drasticamente a diversidade das espécies - Aventuras na História",
+      "published": "2026-10-19T13:40:46+00:00",
+      "summary": "Estudo diz que a Peste Negra afetou drasticamente a diversidade das espécies&nbsp;&nbsp;Aventuras na História",
+      "sources": [
+        {
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWpXWnhBdnNGdFp1WnlrOFpuNHhPdmlMczdvZHZKem40WDdmR0FubHVhb1J5d090QjFRUDhmRFlpWnlNNWZmR051cnpZREpVc3p0UmhhdWV1MkJCTlRoaV9sYnpPUHpTOEhpdW1xMWxJcjF0QVR2bkJuNlJKcVlkb2lfNG91dXFaNUFYRmlMaEhXUFplbG91czVJVDFvZ2RFaTJ5UWVXUFJaUURXUkRBNlc3Rk1BajVmSkt0TUI5R0g3TGJ6aXZtMGdYR0FRcDFORXotOVl5RQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ab7a2444e9bd",
       "title": "Rio amplia vacinação contra meningite para pessoas de até 59 anos - O GLOBO",
       "published": "2026-10-19T13:40:31+00:00",
-      "summary": "Rio amplia vacinação contra meningite para pessoas de até 59 anos&nbsp;&nbsp;O GLOBOSecretaria de Saúde de MS orienta ampliar vacinação contra meningite&nbsp;&nbsp;G1Pessoas de até 59 anos de idade poderão se vacinar contra a meningite&nbsp;&nbsp;Agência BrasilPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de UberlândiaMS libera vacina meningocócica para jovens de 15 a 17 anos&nbsp;&nbsp;Campo Grande News",
+      "summary": "Rio amplia vacinação contra meningite para pessoas de até 59 anos&nbsp;&nbsp;O GLOBOO que muda na nova indicação para a vacina de meningite? Veja ferramenta para você saber se está com vacinação em dia&nbsp;&nbsp;O GLOBOPessoas de até 59 anos de idade poderão se vacinar contra a meningite&nbsp;&nbsp;Agência BrasilPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de UberlândiaRio estende vacinação contra meningite bacteriana para pessoas ",
       "sources": [
         {
           "name": "O GLOBO",
@@ -366,38 +462,14 @@
       ]
     },
     {
-      "id": "2ed11936c442",
-      "title": "Ideologia não deve ficar acima da ciência nas decisões de saúde, diz Chapchap sobre próximo governo - Estadão",
-      "published": "2026-10-19T08:33:59+00:00",
-      "summary": "Ideologia não deve ficar acima da ciência nas decisões de saúde, diz Chapchap sobre próximo governo&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRmY1b1FGVVJGN2UzTlN3X3Y0RE5JQ2dQRU90RnJDVTc1VDBJUjVLdWwtNXVfWWJWNkhtMlBQOTZFR1BpTGlCV0liZkdRdTRtVDlnbk41NEtIUGNreFNsWGZUdlh1cnFfMmZQVjV5THEwV09EclVDX1pBenlYZkFic0ZRV0RhUEZ2dzVndFdqTndQRUZ6SjVWUGNuaXJEVjhhSjRlc1hqTUZJR2VHWjJGZ2RoVTl4U3Y2eExMZ0pYNHQ4VUc1QnFHS0ZiN0tVZ9IB0wFBVV95cUxQWF9xTEdoNGF5N1NkR2VEaGFFakl5MFNmUVhZYlFUZzd0bWtIcWtFRmplY2R0ay1zZmM3bVIyeTlYdmNaQl9PZDR2T0RFbjNEanMwMHp6V1NXcDcxZXBrMGdLU2p1eGxPVzBxd3BpX3FCMlBqbDdsNVQ0R3VuMXBXeWFSQW50S2hCUVJLSTFycUVUQXkxb0hFU3B2dmpUa1BXT0hWOVZ6a2lQcWVHYVh6NFF6eFpCV3RGUGlnb2lhUDNKYjhtMFNmbXVqbFgzSVIyRVBv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "67aed3b394e3",
       "title": "5 sintomas gastrointestinais que você nunca deve ignorar - O GLOBO",
       "published": "2026-10-19T07:30:00+00:00",
-      "summary": "5 sintomas gastrointestinais que você nunca deve ignorar&nbsp;&nbsp;O GLOBOSangue nas fezes: por que ignorar o sintoma é perigoso mesmo sem histórico familiar&nbsp;&nbsp;Правда.Ру",
+      "summary": "5 sintomas gastrointestinais que você nunca deve ignorar&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjlkZk5RNlBobV9lREtudTNMZWFkbTNGRTl0aXEzNTdxam5NdGJvby1YX0ctMXlCa3hkeWYydkFyTmtiQ0dzajVlcmYwSTRqSzdNT2dDZERyRkUzMEtES3NNbGRfNlMyNmZSQnN0MWRkRnZaSDF5SU1hYVd5Znh6OTFBS2xzWjRyakhybkc0ZkRPcFlyT1VWd0ZqNlg2SjNrdmpOV3dSZjl4Z3JpalRlSGpR0gHAAUFVX3lxTFB4R0JUUzRZRmNJZ1hyeG5EdE8zMnR4VlpINjJDajZhaTBqSWtGY1d2MWpJWkphMXlFbEMxWllOVk1MMnN4RGh0eXlxZDJSRlZmSVFnYjVJbGIyRWoxSzB3NEIycFJMb3VCSWZRd2FMV3p6enp2VktxWThIY210SlU1elJjMmNQWDY0NHFBNlBOQUxJcHBXRURybTIwelB1WGZCZFFTV3h3c0FDcl9pMnliWWZfbDJpeHQzMnU3d2pKZg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9c019847f99",
-      "title": "Marcos Kulmann: pesquisa do alegretense sobre limites da genética humana está nas páginas da Nature - Portal Alegrete Tudo",
-      "published": "2026-10-19T03:56:25+00:00",
-      "summary": "Marcos Kulmann: pesquisa do alegretense sobre limites da genética humana está nas páginas da Nature&nbsp;&nbsp;Portal Alegrete Tudo",
-      "sources": [
-        {
-          "name": "Portal Alegrete Tudo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXZCcXoxc2hHU0FsbU9ucVNTS3pEVVpIa3k1NnFiazFnZi1aaDUtcGlhRENGYXIzZ1FIYWFSYkdYMjZOUVlhend5bVc4VW9tM1FyN2F0M1dqU1NSZ3NURjJyaFktbjhZRWtzTTVJclROZU1WTHp2N2RxcjBRQV85MHU4Vk9oa3E2WG81bFBBanBMUWVWX1E2bUhjMVVMTGxmV1A5WDEyMUpmUHIxY2h4TnNmdTVld01jVndBSDJnSVlTNFhXWU9wVWoxRQ?oc=5"
         }
       ]
     },
@@ -429,23 +501,11 @@
       "id": "9431e7c6efb5",
       "title": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública - G1",
       "published": "2026-10-17T23:58:14+00:00",
-      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G1Ministério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo FederalAção de vacinação infantil terá Zé Gotinha e pinturas neste sábado em Teresina&nbsp;&nbsp;CidadeVerde.comDia Nacional da Vacinação: Sesa alerta para a importância da vacinação&nbsp;&nbsp;Secretaria de Saúde do ParanáBrasil recupera cobertura vacinal após anos de queda&nbsp;&nbsp;Coren-SP",
+      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G1Ministério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo FederalDia Nacional da Vacinação: Sesa alerta para a importância da vacinação&nbsp;&nbsp;Secretaria de Saúde do ParanáDia Nacional da Vacinação: Criciúma se destaca no avanço na cobertura vacinal e alerta para importância da…&nbsp;&nbsp;Portal Litoral SulBrasil recupera cobertura vacinal após anos de que",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMWJhS3NQTWpRUEUwbFpVY2hPbVVEaXk1NmI4alBvN05Ra3BLallOSi1VdjZSRUF6QWptTjMxbEh3RFZtNDY4SlZNN0lZdmtibEFOeUc3UHR0UnhuOWVlWUhUY1Q2b1BYVGVwNndZckRWV01ZTGc0R184M0p5TGFDQTJsenZlaVBnOW9XZHhzQktNcnhwZThpY0xyTHhzT2xWZ1poRnRaZENuWElkN09veTlZcmZVdWMxNnJUeU5oMDB2dkoyOXBnSTA2V1Mta2tSR3hURm9DSdIB5gFBVV95cUxPS01GRGU2U0RGQ0pUR1BIdTdpVkpidGNwQmhKbnBQMnY2QTFLVGhjSkFiS0t5NEl5YjVxVWxnd2MtZmJadXdJRVZ6X1ptZUg1ZjN3OEY5cXpDX0Z6RXRkdWRIai1DN1pueEpydHdtNXNqNHZxM1RFWm04cGlfM3pURWVFbTA1OHZJRWJrOGlnb3JGNWZGaXdSTkw4TUR4Nk1wWDVXZjAtRFBJalZXbS04WDlVTElYQlRsYmRyNG5ENlNZYVh5ZkRSTXRkaGdPeUxBOFJhUjg5cWd6RzRwX0pCcGJZUXprdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "deb7976d685f",
-      "title": "Cursos de mestrado e doutorado do INCA inscrevem até 30 de outubro — Instituto Nacional de Câncer - INCA - INCA",
-      "published": "2026-10-16T20:41:10+00:00",
-      "summary": "Cursos de mestrado e doutorado do INCA inscrevem até 30 de outubro — Instituto Nacional de Câncer - INCA&nbsp;&nbsp;INCA",
-      "sources": [
-        {
-          "name": "INCA",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdjJ2aTFwc1E5cVJpS3h4UWIydEhOaTM0M1BPcEtoWGdvcmE2TzhZcXQxaVhnRGNkdk9IZ0pCX0g4X290ZEpGdndWZlhRVlZJVlNuekhtR196bGVTTHdSNlBya2dXUlEwT1VIZlNFOUpYZnJZY2g0a1M4bWIzd1NEZkltZzZnMElVMlA4TWI3Tk0tQ3p5b0NKTzdWbUgtMTU0czZCay0wWHg1Y0xDLVZGSmt5SDdFTmd6eFpB?oc=5"
         }
       ]
     }
