@@ -1,10 +1,82 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-21T11:20:59.389436+00:00",
-  "total_fetched": 101,
+  "fetched_at": "2026-10-21T16:47:35.161751+00:00",
+  "total_fetched": 100,
   "unique_count": 100,
-  "health_related_count": 42,
+  "health_related_count": 41,
   "news": [
+    {
+      "id": "8c2e25558cd0",
+      "title": "Pirarucus sobem juntos\npara respirar, revela estudo - Portal iG",
+      "published": "2026-10-21T15:33:00+00:00",
+      "summary": "Pirarucus sobem juntos para respirar, revela estudo&nbsp;&nbsp;Portal iG",
+      "sources": [
+        {
+          "name": "Portal iG",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSTVqMGcyZTFDdVQ2RmF3Q1JHeFI4UDNRZ3llaE9zSk5YNkdGaUxpLTRHUHVtRTVsdjhpX3llbV96Ul8wV0FHNF9FcnUzamF3VHBCVkJTeEFxcjBQVzY4ZXlTd3V0eFgzQjg5OV9CUm5MQ3BRLTRyZTRXQ2J5WDNCY1AwMEplZkF2NmZFRFVOSFZHMlhpaFJuTGtEZ0hkdG9nTnhoUkFYRGI3NHFxaXhabWpQbEh3bFJVOGRpWm5Yc29ma1R6dXByTEY1Zi1ucDTSAdQBQVVfeXFMT3gzZkFuQ2FHU2ctM0J1RDhGQ2dqNzFGZWVEczRUUUx0QnFDNFRqUlpxS18zTWVVLUdiajVwb3RhYUZwSkxQaTF1U0JQdVl0aXhBQkxNM041UzFicjVLUFpIcUNVRUpweVRFWXZtSzY3NjRGR1pGLXZUWVdfS1dsM3RWRjBrRmZ5NW1ta19TY0dfa0hkempCRDEzUzZNZHpRTUhCWnltYlduQ19RZTRqNVBLTWZtRWpfbEowNVZRSlBIeGcxd0ZyMDU0MHk1ZVFpWW9KY1Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7666089de588",
+      "title": "Mulher mais poderosa do agro da Bahia eleita pela Forbes é pesquisadora e se dedica à valorização do cacau fino há 24 anos - Jornal Correio",
+      "published": "2026-10-21T14:27:39+00:00",
+      "summary": "Mulher mais poderosa do agro da Bahia eleita pela Forbes é pesquisadora e se dedica à valorização do cacau fino há 24 anos&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTTR0Q2diRDNpWWc1aEJkTzB4RmQ0bjJvMFpHcnN5NkFvQ2hOT2VqTFZ3bVFLbU80WjNWMjh5MEpGaTYzSV9FRkpFZzRIOHVkQlRtWkVZZU56NzBBN3pJZElXTm94N2VYZ2ZLN3ZnbzVmdkJIcno5aXktTERiRnY2V3hPeWFCYm1tSDBWSlB4Q1Q3M1NNYXFEYW1lOTZkSzZSSU9Bald3N0pyNUhfcTQtX1o1MWdVdUdtMUhDZm1PcHFNOTNCcTRWdWZwSmczSFNlNUd6VzdFaE5GVnNIVzlUR0F3VXFjTGdjRmRxQzBrcFJJckdsSWF0MzIxLWhLOWs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c502e98d6d0",
+      "title": "8 avanços da saúde que partiram da ciência básica - 21/10/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
+      "published": "2026-10-21T13:29:00+00:00",
+      "summary": "8 avanços da saúde que partiram da ciência básica - 21/10/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVFBUDZWUFd3Ui14cG56dWlmazFzV0RWNmR6SklaRGtCRW10R3doWVgyVjBYUTZhSi14WU82MnhWeXlQZzBnZWgxRjhjTHJVeHdVTlk1Mlc1ZGNCazkwQW9CQU9qV3dLX0VobVNuQ2o3QTVqSDFoXy1MTlp3YjktVlhZSzNtcndpZzM3Y0otMWZUUTRDREFNcDU2clFjNXFINFg5am1oNE1LLV8yY1VB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b69e997b47b",
+      "title": "De SC à pesquisa de exoplanetas: quem é a jovem cientista que estuda mundos com duas estrelas - NSC Total",
+      "published": "2026-10-21T11:54:34+00:00",
+      "summary": "De SC à pesquisa de exoplanetas: quem é a jovem cientista que estuda mundos com duas estrelas&nbsp;&nbsp;NSC Total",
+      "sources": [
+        {
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ05oQlFLWnozRjZXWS0wNE5GU0Ewc3FiQk9XQ2R3VFUzT1dqV28zSGNMQnphM3BvWUdBT0J1LURYNlV1YTY0N3F0VlVHYy10dnZaX3lzUGRHX2pMWWlQUEJfemZQVFluYi1QSlhYUy1OUkRIeFg4QTJLU2p3Y0JfQzVxcFNCYUFVS2RFSTRYdlRVMWM0NFk3VWdpemRReFd5TkZyeVhONVlJR2dFQWtVbVVaQmpOME1uYXhuU1ZKS3JUN09uZWlRTWlCVTVIYkRDNGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e61447e15971",
+      "title": "Quase 40 anos depois do pênis, clitóris ganha cirurgia para manter o prazer após procedimento por câncer - G1",
+      "published": "2026-10-21T11:07:34+00:00",
+      "summary": "Quase 40 anos depois do pênis, clitóris ganha cirurgia para manter o prazer após procedimento por câncer&nbsp;&nbsp;G1Pela primeira vez, cirurgia reconstrói clitóris após câncer de vulva&nbsp;&nbsp;Folha de S.PauloNova cirurgia reconstrói clitóris durante tratamento de câncer de vulva&nbsp;&nbsp;MetrópolesTécnica holandesa reconstrói clitóris e preserva orgasmo após câncer de vulva&nbsp;&nbsp;180graus",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRVFiU0oyVm11Q3ZpdnV3QzU3VUs1VEJkalotdnd5cldwc05Xcl9laGZ4Y2tJaVdnWTQ1TjJZQ1U2c2gtb1M4bERwUTBkQjMtNEtvMWN4TC00WjVvSDFhRmN6d3BDOHNSalRFclpIOUR2RC1TamVzUmxseFhtaThMS3hJbl9hSlAycEd1TVExYm5mM3dMR2ZvTjlUSmNYQmlzV2h6TWVnemVobkhVZDhxRk9URlR5dGEyWWVvdWx2WVFORUZIbkk0R3Q0ajJ0QmFfeC1oRzRMQkNyVGhvc2E5Unp4ZmNVWXpIWkR30gH6AUFVX3lxTE8tQ1FrV0thNFRWeHZ5R1N1Z3dGeEJDLUxoZ1BNX05Ba3lQeEVEd0xtVFF5V3Q0SGJ3SHNwZzJlVzlqdUN6N2VpYzVXbUtRMnFfUTdrSV9rMFIyTFo4alF2TUh4VmxEOGRuRHBRQS00aEJXTDlqQWxjN3hROTJ2S1pkS0FYSjI4M2ZMTTAzN3kxV2p1Z1ZGbUZCZDlhWlVIRktObzhJbV9adzJJZm1SU1pkakpXOHhzdjVjc29XblpMLUZ5aWpQUkduNzg5aXMwQnZpai0tODl6TmpqN1d4dmVDVUVMaDRpdGxJRnJGRjhUbm5MekFkMWFUYXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "25c9ef01b20f",
+      "title": "Anvisa aprova 'bomba inteligente' contra câncer de pulmão avançado - UOL Notícias",
+      "published": "2026-10-21T11:06:28+00:00",
+      "summary": "Anvisa aprova 'bomba inteligente' contra câncer de pulmão avançado&nbsp;&nbsp;UOL NotíciasAnvisa aprova novo medicamento para câncer de pulmão avançado; Brasil é o 2º país a liberar terapia&nbsp;&nbsp;G1Brasil é o 1º país depois dos EUA a aprovar remédio para câncer de pulmão&nbsp;&nbsp;Folha PERemédio aprovado pela Anvisa para câncer de pulmão teve resposta em 35% dos pacientes; RS integra estudo de fase 3&nbsp;&nbsp;GZHAnvisa aprova novo remédio contra câncer de pulmão em estágio avançado&nbsp",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR21wLUdMRnpjT2NrWjdMUnk0VThMd0tWb2FmYWRXUkwtTHRDelZQdHE0ZHNJWk8xWEJKVlhseXRHVVVhUTJzVFBsVXBBdnIzU0dOZms1Q21UYjhpb0RPd280UEpNdG9BV2oxeV8tTXEtczJ1UEdIZTdOOUtuUmU4X3JQRzQwWGl4a1hFVHBNWW1iaFYxbXl6YjFJWHdMeUlybmV0R0ppNHpYNDNhZGg4azJWeV9UTnpheC1Cc0F2X0RBV0hCT2VkVV9pb01RMWtlalFiaTFB?oc=5"
+        }
+      ]
+    },
     {
       "id": "182ca7fdc876",
       "title": "Novo bovino pré-histórico de 250 mil anos atrás é descoberto na mesma caverna que escondia fósseis de primatas - CNN Brasil",
@@ -30,6 +102,18 @@
       ]
     },
     {
+      "id": "60eeb1706645",
+      "title": "Rica em fibras e antioxidantes, fruta pode ajudar a controlar o colesterol e reduzir o risco de diabetes - Jornal Correio",
+      "published": "2026-10-21T08:30:00+00:00",
+      "summary": "Rica em fibras e antioxidantes, fruta pode ajudar a controlar o colesterol e reduzir o risco de diabetes&nbsp;&nbsp;Jornal CorreioUma maçã por dia mantém o médico longe? Entenda o ditado e conheça 7 benefícios da fruta&nbsp;&nbsp;GZHComer maçã pode beneficiar sua saúde cardiometabólica e intestinal&nbsp;&nbsp;Folha de S.PauloConsumo de maçã com casca é mais nutritivo, aponta nutricionista&nbsp;&nbsp;TerraDia Mundial da Maçã: veja cinco benefícios da fruta para a saúde&nbsp;&nbsp;Jornal de Brasíl",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZk1HNzRyajQzcmRRc1dkMUxUY29kM3FpcWl3UUlkZVlhZ0d4NENzQlIzNnFveFphWnE1YkF3ZHUydnUwNFZkZVpVcFRSRGRJT3FveDh3YVl6VllvaDJRRnJIbUN4bnMtcDlDVGlzaXNaWW9ZMjJaSWxyVFpzUm5FblF5X18wZFJaX3AxYXB2bEtKRUEwUE9ob1NpWTVIallCVTJEWE5PcEJqaUlFZzBFR0pxeVo4bFc4TGZCXzlRclBkZU5LdFBldW1BV0hVaUJtc19ZenV1Rnh5bnhWU1RTU2RB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "407dd45fe8a2",
       "title": "Comer ovos, usar computador e poluição: o que fatores do dia a dia revelam sobre o risco de demência - Estadão",
       "published": "2026-10-21T08:30:00+00:00",
@@ -38,6 +122,54 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHlHb0lRdzNDcmd6bEVHZkprTmZ5NkVqQXRMaG9rNHJ6VElyOXhQei1zX1BhMHRXLW5qNFNoNjVMbkE0d3RaMVNNTTBLSjVfcWp5ZFBVaHRVME8wcW9jUXlzb1ZMZ2EtY21NRjQwRkQ1eG1aSzl5TFhsMmlqVDB6b3VJanZnQlAzcVB4cXV3X3F5RzI5ZURBaUdpZllNU1ltblVoS3ZsRWRQb3ZNMUFLdG5kb0RKUU9JZkwzRm96aXF1akoxN3RxZUJBdHkxcXNzT0FoQnBWQzRBQzB6aWxEdlBn0gHnAUFVX3lxTE9wQjE4aTZ1emtSaTJzMEhvOWZkN3hMb2loN25pOFpTbVBJcUNJVEhXNUQtNno0dkxfTGJULTh4cEU1QjhFdE1pV2VndHVQbVVTX1pmUE53QVhzblVnRXR6ak41azBEb0ZucGEzMlMxZzZKZkhURmJnSU5JUUJueHRJdnhUa0dIWDRiRXpJa1dMRWdPajcyRmxjaE9WYnkzZm9Ea0VHV0tPM3FISFp4ekp3S2JpU205YXhVdk42WTRYRXdyTC1fYUxVQ192WVpCbm1qLTc4aUh1U1JqMDh3V3FOMUhydXY0TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0281ed3227ae",
+      "title": "90% das brasileiras desconhecem lei que garante exames para detectar câncer em até 30 dias - Jornal Correio",
+      "published": "2026-10-21T08:10:00+00:00",
+      "summary": "90% das brasileiras desconhecem lei que garante exames para detectar câncer em até 30 dias&nbsp;&nbsp;Jornal CorreioUma em cada quatro mulheres não conhece prevenção ao câncer&nbsp;&nbsp;G1Desconhecimento sobre prevenção do câncer de mama cresce no Brasil&nbsp;&nbsp;Medicina S/A35% das mulheres que ganham até um salário mínimo nunca realizaram autoexame&nbsp;&nbsp;viva.com.br3 em cada 10 mulheres no Brasil não sabem como se proteger contra o câncer de mama&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ1RHMTUtMHlCMS1WRVVfTmNFTmVJLUtmenhOYm9xLWhTTW9ZZzE4dkcyb2NSNzVRZlhpR2dNU3laNUdnWFVpb0YtUGtYd2YyeGEyc1FNWjBNaHNsQXdURGh6aURlemVNT2l4eEhuYXVZRS1waGRsZEZMdVppVlltWUhyOGxDNm9FNlA0ZVl1M1hZY0VCQkQtWlFsb3JKTXdkeFJwcEJtQ1EtS240TjlzWXhtQk1JR2tyYVZLVzl6MGlCbm9GQTJTSEMyRDVQUjg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50840a9fd038",
+      "title": "John Cryan, neurobiologista: \"Temos evidências de que o café, seja com cafeína ou descafeinado, altera a microbiota e melhora a saúde mental e cognitiva\" - National Geographic Portugal",
+      "published": "2026-10-21T06:30:00+00:00",
+      "summary": "John Cryan, neurobiologista: \"Temos evidências de que o café, seja com cafeína ou descafeinado, altera a microbiota e melhora a saúde mental e cognitiva\"&nbsp;&nbsp;National Geographic PortugalTomar café todos os dias pode criar tolerância, mas quadro é reversível&nbsp;&nbsp;MetrópolesUm novo estudo mostra que beber café pela manhã pode ajudar na saúde intestinal&nbsp;&nbsp;Rádio ItatiaiaA bebida matinal que ajuda na hidratação e pode favorecer o funcionamento saudável do fígado&nbsp;&nbsp;Tua S",
+      "sources": [
+        {
+          "name": "National Geographic Portugal",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNak5UN2pZSnNVY0MweDA5eE1oUElPS1E0YzU0WmdFQjNmQUgtX3pnb080TWdLZFFHN21ta2d4U3dNMlhHdTA2VDRFNDBFWl9JZ1diRUpDb1BlSl9DYTVkMXVKMHZYbUFjTjN2TVBaNUQxS0tYUWs4VExKOVI5bXdLYXc5RVpHT2o2OElhVlVuOHZGRVlVOG9DS2x4d3luQWc4NnotOVRIN3NlN0lOMm5TbVJDbmxTdnBDUl91d01KbDQ3MFlIcGVFOXFYV2s4UFlkVXM4TllnZHU4T0plUEMwUkVLR3kzNUp1VTBoU3Y1OUFfTzRmQndVMDh0OEdmWkpicDBmamJmMWotYnFNcXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5b04e3e44396",
+      "title": "Acordar cansado todos os dias não é normal; entenda quando a insônia vira doença - G1",
+      "published": "2026-10-21T06:00:00+00:00",
+      "summary": "Acordar cansado todos os dias não é normal; entenda quando a insônia vira doença&nbsp;&nbsp;G1Mexer no celular antes de dormir aumenta em 59% o risco de insônia&nbsp;&nbsp;TerraQuer dormir melhor? Diretora do Instituto do Sono tira dúvidas em live da CasaFolha&nbsp;&nbsp;Folha de S.PauloCientistas descobrem ligação surpreendente entre os sonhos e 83 doenças&nbsp;&nbsp;ZAP NotíciasSono: conheça 5 hábitos noturnos que podem prejudicar o descanso&nbsp;&nbsp;Guia da Farmácia",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVTVQSHc4cjVycEVRRlV3b2tlNkJlMHFyS1dIeFhNUWpYU2t2dnhPRGdwakZBZHVWRmN4eDZZOFpZNW8waWhqeXVQenNGWnNqN0RqWDJRLWNuUmNwaG5wZ3ZwRkxuOG1Xc09Hc2ZHNEdiTUVOYkxxU3hRcDRUUG9yMGpDZlJzSnNydHM5eUhiSVZnYlBJUzBCQmVPdnM4dzZLY0NtdHpfY0ZtTEM5bWtsaUhmVVAweU5xaUJvdW1nNTREcjQwRU5RTW5Ma0pQV3ZaNVHSAeABQVVfeXFMTlQtYm92dGhWM0JFLVRLOFU3OU1OU1AxM2FVRFRvVG1CVUNrZGgtUlFVVmxxOW9ObWhPOENVLXM0NllDdDdIYklzVUJqRmJiYW5QSXNFMWVzQTliemNTMFlRRVdfYmxXd3BqOGZma3Jrc3A1aUxqLTloOE1hYXNGSS1xWnpFeUVUYkFLcVd5QjFNMnREdnZfWTFkYkEyNklNa2JCR0FuTGRTUmRJNUNWQl9hbkRFbnVfYlBxb2NPY09FVXMwSkFtWjdrd1JGNGJqNVFIWGlrckVxUU5rNXRLS2k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c74fbd7099d",
+      "title": "Alzheimer: estudo identifica ondas cerebrais que podem ajudar a prever risco da doença - G1",
+      "published": "2026-10-21T06:00:00+00:00",
+      "summary": "Alzheimer: estudo identifica ondas cerebrais que podem ajudar a prever risco da doença&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYllVcnJVRDNSS2pNVHFtUVluYkJCY2llTzhoSTRnT1RrU295QUlSZEhRRFRibXlYWHZOZnlPM2xuRHBJMEN0N0ExMFF2ZHowWkM0Vk96WEw4VWhGbm9keW5MWUNOVDVZODVJaTRFclZTa1lxanI1cDFZYU1mWjlzVnd6UHNJLURZUFhldzRKTnNxWU1KelI4Ynk2eEVaTVdQc0ZLNUN0QW1Vc0tXSEtSNHJwbmdlcXAydm5WM1JrdVlyWXl3QURJQXhrYXkwWWFwVVdZ0gHiAUFVX3lxTE5vSGw5ZGNtWHg3R2U1a1g1OGJmSGphRmU1U2dLTF82TEM4anF1dkVJVjhIMGkzaXJ2cmRGX2MyMGVhNTNtYjVwU1RZR0xJRUdGb19RRWZ3Q0FZLVlDNkg1VWhKSGFEZ3lKOE51MG1EZ0wySjRtYlE0ZTg0M1lHeHhENVZJdlRtRG50cXNHTTlZcTNkQ25td0prZURpZU1IVXNmX3VxTWRRWDlGSjVDaFZmdWl1RlBRdE05NEdpR0hFV0M2TGd0VWhDNG1pdHg1NDgzZjR4aERtUzh4TXpBWF9ReEE?oc=5"
         }
       ]
     },
@@ -54,10 +186,22 @@
       ]
     },
     {
+      "id": "24d3432994f2",
+      "title": "Idosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo - Agência FAPESP",
+      "published": "2026-10-21T03:03:33+00:00",
+      "summary": "Idosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo&nbsp;&nbsp;Agência FAPESPVida social ativa pode ajudar a preservar memória durante o envelhecimento&nbsp;&nbsp;Correio BrazilienseEstudo mostra que memória e capacidade física podem melhorar com a idade&nbsp;&nbsp;Gazeta do Povo4 hábitos simples que fortalecem a memória com o passar dos anos&nbsp;&nbsp;Tua SaúdeEstudo desafia mito do envelhecimento e aponta melhora cognitiva em idosos&nbsp;&nbsp;Can",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZUxJVVh6WmNoS1lqazliZ2VCWUt0WUV5OVRuOFJUNHJsaVAwbWVmdHh5OGw3QV9RR01fLTZfTTZ4Y2ZmWlY3NFlBN2k5VEd0VDlSVFFpVF9pMUVBUXp5TnZJbGhwTkhqTDg3WW9id3A3WXh4bWVLdmRzN09SNHl3R3JJWVFHZVZ5NE4yZnNoTDNyenp2RHRkR25VcjVDWUJNd3ZIa2FfLVpCMDhxdTNpZmk5OUlDZnNvOFRJYWgydEVRblpjM29r?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a0ff7a620dc8",
       "title": "Após diagnóstico de síndrome ligada ao câncer, Isabel Teixeira optou pela retirada preventiva das mamas - G1",
       "published": "2026-10-21T03:00:00+00:00",
-      "summary": "Após diagnóstico de síndrome ligada ao câncer, Isabel Teixeira optou pela retirada preventiva das mamas&nbsp;&nbsp;G1Isabel Teixeira descobre síndrome de Li-Fraumeni após teste genético; entenda a condição&nbsp;&nbsp;Folha de S.Paulo'Fiquei sem chão', diz Isabel Teixeira, atriz da Globo, após descobrir síndrome rara&nbsp;&nbsp;Jornal CorreioIsabel Teixeira expõe diagnóstico de mutação genética que aumenta risco de câncer&nbsp;&nbsp;Correio BrazilienseIsabel Teixeira revela síndrome rara de risco",
+      "summary": "Após diagnóstico de síndrome ligada ao câncer, Isabel Teixeira optou pela retirada preventiva das mamas&nbsp;&nbsp;G1Isabel Teixeira retirou mamas após diagnóstico de síndrome ligada ao câncer&nbsp;&nbsp;CNN BrasilIsabel Teixeira descobre síndrome de Li-Fraumeni após teste genético; entenda a condição&nbsp;&nbsp;Folha de S.PauloIsabel Teixeira revela retirada preventiva das mamas após diagnóstico de síndrome genética&nbsp;&nbsp;TerraIsabel Teixeira revela por que retirou as mamas de forma preven",
       "sources": [
         {
           "name": "G1",
@@ -66,10 +210,22 @@
       ]
     },
     {
+      "id": "8b48d68edf8a",
+      "title": "SpaceX tentará capturar Starship e seu propulsor em pleno voo pela primeira vez - Olhar Digital",
+      "published": "2026-10-21T00:25:00+00:00",
+      "summary": "SpaceX tentará capturar Starship e seu propulsor em pleno voo pela primeira vez&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOFhOa0Y0ZWVpZF9wWG03dkJBMUlNbDVMclVDb3B4bHVRUUdDcG1SdWg1Uk82T1ZrdzZ4T0w1cDJNRVhId1JFMlU4QUhjSFJQMjJzZ083U3lYakc2UHVFU1hOZ244Z1VjQ2FhdmdnUGY3WDNZZFFaVGNxSk5FZG5WeUd3S3hHT0xFeTVrM0NZa182bW5od3dBUktqY0xVc3FObFRMbnhqZHBTNUd4TmxsTEJQTG1qTVpKVi10NjdibllseC1vWnhDVG9iRTZFd25ybHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7f3952a65dda",
       "title": "Aedes aegypti: cerca de 1,8 mil cidades estão em alerta ou em situação de risco por causa do mosquito transmissor da dengue - G1",
       "published": "2026-10-21T00:20:18+00:00",
-      "summary": "Aedes aegypti: cerca de 1,8 mil cidades estão em alerta ou em situação de risco por causa do mosquito transmissor da dengue&nbsp;&nbsp;G1Prevenir é dever de todos&nbsp;&nbsp;OCP NewsMetade das cidades brasileiras está em alerta para risco de alta da dengue&nbsp;&nbsp;uol.com.brCom início das chuvas, veja 10 cuidados contra a dengue em Cuiabá&nbsp;&nbsp;MINUTO MTQuase 1,8 mil cidades brasileiras estão em alerta ou risco por causa da dengue&nbsp;&nbsp;Folha de Curitiba",
+      "summary": "Aedes aegypti: cerca de 1,8 mil cidades estão em alerta ou em situação de risco por causa do mosquito transmissor da dengue&nbsp;&nbsp;G1Metade das cidades brasileiras está em alerta para risco de alta da dengue&nbsp;&nbsp;BandPrevenir é dever de todos&nbsp;&nbsp;OCP NewsQuase metade das cidades brasileiras está em alerta ou risco para dengue&nbsp;&nbsp;Amazonas1Dengue em Jaraguá do Sul: cidade já tem 1.239 focos do mosquito; veja 8 cuidados para proteger sua casa&nbsp;&nbsp;JDV - Jornal do Vale",
       "sources": [
         {
           "name": "G1",
@@ -90,18 +246,6 @@
       ]
     },
     {
-      "id": "4e4181a86d80",
-      "title": "Cataratas de Sangue na Antártida revelam sinais de antiga vida marinha, aponta estudo - Surgiu",
-      "published": "2026-10-20T21:42:00+00:00",
-      "summary": "Cataratas de Sangue na Antártida revelam sinais de antiga vida marinha, aponta estudo&nbsp;&nbsp;Surgiu",
-      "sources": [
-        {
-          "name": "Surgiu",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXdTNkVIb3cxc3Z0X0NjSHhCbnVQaXNCOVM1YjBNWWk1ZHZDLXc3LTA5bmYzcGljWENEb1FHNE5NUFliWlFGVXJ3Z0k1MVZGWnVTSmlFMjVOX1VPMHVKaVppVlJqWGJLay10ZzlPN2FmWWxiOXBncU1aZXNiWUltcWpMY0RUUUU0MnJJX2VkT2lZMUpLLTJKWjc1QnJvSDBnX205c1p3UHVBbkZOTTdVenpMUGRhdXNHU3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "134418b0ffd0",
       "title": "Mulher morre aos 30 anos de câncer de pele após passar 10 anos fazendo bronzeamento artificial - Terra",
       "published": "2026-10-20T20:52:33+00:00",
@@ -117,7 +261,7 @@
       "id": "83608f4b9e81",
       "title": "Mulher tem falência hepática e dano cerebral após usar suplemento do TikTok - Metrópoles",
       "published": "2026-10-20T18:33:00+00:00",
-      "summary": "Mulher tem falência hepática e dano cerebral após usar suplemento do TikTok&nbsp;&nbsp;MetrópolesAutodiagnóstico Médico no Brasil - Pesquisa na íntegra&nbsp;&nbsp;ICTQVocê deve tomar suplementos de micronutrientes por conta própria para tratar dores de cabeça e tonturas?&nbsp;&nbsp;Vietnam.vnAutodiagnóstico pela internet pode atrasar tratamento e expor pacientes a riscos&nbsp;&nbsp;redeutv.com.brSuplemento popular no TikTok é associado a falência hepática&nbsp;&nbsp;DOL",
+      "summary": "Mulher tem falência hepática e dano cerebral após usar suplemento do TikTok&nbsp;&nbsp;MetrópolesAutodiagnóstico Médico no Brasil - Pesquisa na íntegra&nbsp;&nbsp;ICTQVocê deve tomar suplementos de micronutrientes por conta própria para tratar dores de cabeça e tonturas?&nbsp;&nbsp;Vietnam.vnAutodiagnóstico pela internet pode atrasar tratamento e expor pacientes a riscos&nbsp;&nbsp;redeutv.com.brFarmacêutico alerta para riscos do uso de medicamentos recomendados por influenciadores&nbsp;&nbsp;Ma",
       "sources": [
         {
           "name": "Metrópoles",
@@ -141,7 +285,7 @@
       "id": "c13345a42074",
       "title": "IA analisa foto do rosto e estima risco de morte em pacientes com câncer - UOL",
       "published": "2026-10-20T15:50:56+00:00",
-      "summary": "IA analisa foto do rosto e estima risco de morte em pacientes com câncer&nbsp;&nbsp;UOLNovo sistema de IA pode prever sobrevida de pacientes com câncer a partir de uma selfie, diz estudo&nbsp;&nbsp;Época NegóciosNova IA analisa selfie e pode prever sobrevivência de doentes com cancro&nbsp;&nbsp;Notícias ao MinutoSelfies e inteligência artifical ajudam a prever sobrevivência ao cancro&nbsp;&nbsp;Jornal de NotíciasE se uma foto do rosto pudesse revelar o risco de morte por cancro? IA procura pista",
+      "summary": "IA analisa foto do rosto e estima risco de morte em pacientes com câncer&nbsp;&nbsp;UOLO que esperar da IA que analisa foto do rosto para estimar chances de pacientes com câncer&nbsp;&nbsp;VEJANovo sistema de IA pode prever sobrevida de pacientes com câncer a partir de uma selfie, diz estudo&nbsp;&nbsp;Época NegóciosNova IA analisa selfie e pode prever sobrevivência de doentes com cancro&nbsp;&nbsp;Notícias ao MinutoCancro: uma fotografia do rosto pode ajudar a avaliar o prognóstico dos doentes&",
       "sources": [
         {
           "name": "UOL",
@@ -165,7 +309,7 @@
       "id": "d39a30dcb78b",
       "title": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite - CNN Brasil",
       "published": "2026-10-20T15:25:32+00:00",
-      "summary": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite&nbsp;&nbsp;CNN BrasilAnvisa aprova vacina de dose única contra pneumonia para adultos a partir de 18 anos&nbsp;&nbsp;Poder GoiásAnvisa aprova vacina contra 21 tipos de bactérias que causam pneumonia&nbsp;&nbsp;URB NewsPneumonia: especialista explica quais vacinas ajudam a prevenir a doença e evitar complicações respiratórias&nbsp;&nbsp;Banda BNova vacina contra pneumonia protege contra 21 tipos de bactéria; veja quem pode t",
+      "summary": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite&nbsp;&nbsp;CNN BrasilVacina pneumo 20 é disponibilizada para idosos acima dos 85 anos em Gurupi&nbsp;&nbsp;G1Porto Alegre amplia vacinação contra pneumococo para pessoas com mais de 85 anos&nbsp;&nbsp;TerraConfira calendário de vacinação das unidades de saúde de Caxias&nbsp;&nbsp;O DiaNotícias - Caçapava do Sul - Vacina Pneumo 20 está disponível para idosos com 85 anos ou mais&nbsp;&nbsp;PORTAL FARRAPO",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -174,26 +318,14 @@
       ]
     },
     {
-      "id": "021f885db53f",
-      "title": "Quem tem direito à vacina pneumo 20 no SUS? - O TEMPO",
-      "published": "2026-10-20T15:23:39+00:00",
-      "summary": "Quem tem direito à vacina pneumo 20 no SUS?&nbsp;&nbsp;O TEMPOVacina pneumo 20 é disponibilizada para idosos acima dos 85 anos em Gurupi&nbsp;&nbsp;G1Porto Alegre amplia vacinação contra pneumococo para pessoas com mais de 85 anos&nbsp;&nbsp;TerraConfira calendário de vacinação das unidades de saúde de Caxias&nbsp;&nbsp;O DiaVacina pneumocócica no SUS: saiba quem pode receber o imunizante&nbsp;&nbsp;Rádio Itatiaia",
+      "id": "4344b1468720",
+      "title": "Pessoas de até 59 anos de idade poderão se vacinar contra a meningite - Agência Brasil",
+      "published": "2026-10-20T14:16:00+00:00",
+      "summary": "Pessoas de até 59 anos de idade poderão se vacinar contra a meningite&nbsp;&nbsp;Agência BrasilO que muda na nova indicação para a vacina de meningite? Ferramenta mostra se você está com vacinação em dia&nbsp;&nbsp;O GLOBOPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de UberlândiaRio estende vacinação contra meningite bacteriana para pessoas que tenham até 59 anos&nbsp;&nbsp;Prefeitura da Cidade do Rio de JaneiroVacinação contra meni",
       "sources": [
         {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVlXSnRyNlM3SUhpbk5iNFMyNGdhd2dFVEFZTkxBX2F1S0JHSDZ1bER6amhNdUNacTZvSlFlWldMRW14VGJvck1ERkREQUxleE1QZ3B1bXlyTUtJbkJMeV9EVUw0dGlhZVN0N2Q3YVM0d04xVjN6VUFiQlZ5MmNLQnppeVBTeVN0eW9POVJHdl9tWElWUXM3b3VPdEFIQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "be43f64101af",
-      "title": "Jovem relata desafios ao ser diagnosticada com câncer de mama aos 25: ‘Lidava como se a quimioterapia fosse uma vilã’ - Globo",
-      "published": "2026-10-20T14:58:30+00:00",
-      "summary": "Jovem relata desafios ao ser diagnosticada com câncer de mama aos 25: ‘Lidava como se a quimioterapia fosse uma vilã’&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaTVtaG9sU0F2VFFSSDQ4UXZKLVExX0RJeWw4M0FnTjB2VjIxZld3XzBqejlpd0I3d19VTmpoc2xScUM1MHJnRjB4NzJvTU00ZE1nc2dHMUs2ZUh0MmttaWFRajRFamdIYmExQ1dteV9QR0JhbnYwZ3JFMXd2LUFwckR5a1M4a3RnMWd3MktsQXNpMFdEWjhOd3l6dEFmbnFzTnNrWTA5MHVIODEzQ1huSXpOb2U2MWxpVTA1dmVxMjBpZ3dPMWFDTDdFeVg3aGMwU1BjbEMzRDhyYVRXRVloMk85WlJ1bEE4bHc2ZWM0NkJPdk13VTBLcUVEb1Via3ZiWkNraTI2RTRPSknSAZoCQVVfeXFMTkNTaWxaQnM0eS02RGdid0tMNDdzSkVTWk5NLUFvMmFDYzF1OHVtN0xrYUNMR3o4UmpQd0U3b0Q3WV8teGdrcWJjaUZTZWx4dW14S0wxV1FWQk5WVF9SR1h0WW5RQ290QzRFZzBrdk9uN3gtM2hxQl9ER0prQzJUYlpXSkRIdDNPV0NrQ014UzBjT3Z1VW5tTTRvdnh3c0k1VGxNS01aWUFJUGQwZW1wdm0taTZFbWVEWE1IOWpGaXI0ZmZSakN1azBmcTVQSnlQbG5fZkVUdURScnFvVEZnZkJIb1NMRV9ISzlNUV93MFZvN2JkMi1fZVpHb3FLQm9wakpsaHJKalR2RlVqQjNpTlpqVGVOX1Nmdkpn?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQVUzRGZ0VkVWNGV3NkdxMVFsTV9CM210YUtLMFZfd3BVcEVOblM1ZHBwMldMZkFCcEF6N29LRnZTNlFMZnoydTlGc18yV2JXRHgyRjlvdzZLOXliekQ0RlZWSnQ5RTVEN3BfVHV2Mk1yOHMtWGlseS1jNGpmOWZaZ2VicXRoWlVOUFM1U0F4cDJEWUowcnlRN0dWdHJhTnM5Wk94ajVlb3NwV1FWWnBfdUdTdkUwQTZvLVBFdXR6Nm03dklXMk1wQUgwTW01NHMwWWltbWM2ZFlodw?oc=5"
         }
       ]
     },
@@ -213,7 +345,7 @@
       "id": "f683263b0490",
       "title": "Hipertensão atinge 28% de crianças e adolescentes, mostra estudo - Agência Brasil",
       "published": "2026-10-20T13:03:00+00:00",
-      "summary": "Hipertensão atinge 28% de crianças e adolescentes, mostra estudo&nbsp;&nbsp;Agência BrasilCrianças e adolescentes se exercitam menos e já apresentam pressão alta e excesso de peso&nbsp;&nbsp;G1Pesquisa aponta hipertensão em 28,3% de crianças e adolescentes no Brasil&nbsp;&nbsp;Tribuna do NorteHipertensão afeta 28,3% dos jovens avaliados no Brasil&nbsp;&nbsp;Hojemais.com.brPressão alta afeta mais de um quarto dos jovens no Brasil, diz estudo&nbsp;&nbsp;Agora Litoral",
+      "summary": "Hipertensão atinge 28% de crianças e adolescentes, mostra estudo&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -246,22 +378,10 @@
       ]
     },
     {
-      "id": "ee0c244a4c37",
-      "title": "Internações por AVC crescem 33% na Bahia em cinco anos; veja os riscos e as sequelas - Jornal Correio",
-      "published": "2026-10-20T08:30:00+00:00",
-      "summary": "Internações por AVC crescem 33% na Bahia em cinco anos; veja os riscos e as sequelas&nbsp;&nbsp;Jornal CorreioAVC: saiba identificar os primeiros sinais e quando chamar o Samu&nbsp;&nbsp;A GazetaHGF registra 979 internações por AVC até agosto de 2026&nbsp;&nbsp;O POVOAVC provocou quase 90 mil mortes no Brasil em 2025; Bahia registrou 2,7 mil óbitos&nbsp;&nbsp;Alô Alô Bahia6ª Corrida de Prevenção ao AVC reúne mais de mil inscritos em Feira de Santana&nbsp;&nbsp;ba.gov.br",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVItbkJ4MHJhM0pJNU03YmxpLUpQaHExdDU2UlhUSF92eHJESFBBUVVoZHVXaVhKV3JNTEhSV2NodUpRMHA2VjFtLXlIb3NkTUljRGtXV0RLcWZfZFZQV3AzS0stTTdWVUJFYnpWVUhuNlAtOTNIVVVRVzlDTGNmeTRBYUJCeUEtQ3c3R2xSLWo4SkdoWFl5UFY3ckIwNzhacHBxT3c3VjQ0OXVXMTFpT2ZsNnJWblBaR0xSWmVpb0s0ay0xRVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "30de827f90ba",
       "title": "Mounjaro ou anorexia? Médicos alertam que os efeitos das canetas emagrecedoras podem mascarar transtornos alimentares graves - O GLOBO",
       "published": "2026-10-20T07:30:00+00:00",
-      "summary": "Mounjaro ou anorexia? Médicos alertam que os efeitos das canetas emagrecedoras podem mascarar transtornos alimentares graves&nbsp;&nbsp;O GLOBOParei a caneta: como evitar recuperar o peso perdido&nbsp;&nbsp;Assine AbrilBrasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes&nbsp;&nbsp;UOL NotíciasCanetas emagrecedoras exigem acompanhamento médico&nbsp;&nbsp;R7Canetas emagrecedoras: mercado paralelo e automedicação aumentam riscos à saúde&nbsp;&nbsp;Folha PE",
+      "summary": "Mounjaro ou anorexia? Médicos alertam que os efeitos das canetas emagrecedoras podem mascarar transtornos alimentares graves&nbsp;&nbsp;O GLOBOParei a caneta: como evitar recuperar o peso perdido&nbsp;&nbsp;Assine AbrilBrasileiro conhece mais Ozempic que resto do mundo e se informa pelas redes&nbsp;&nbsp;UOL NotíciasGLP-1 e nutrição: Como manter uma dieta equilibrada com menos apetite?&nbsp;&nbsp;TerraCanetas emagrecedoras: mercado paralelo e automedicação aumentam riscos à saúde&nbsp;&nbsp;Folh",
       "sources": [
         {
           "name": "O GLOBO",
@@ -270,34 +390,10 @@
       ]
     },
     {
-      "id": "f9024fd92074",
-      "title": "A 'faxina' que o cérebro faz durante o sono e que a insônia pode atrapalhar - G1",
-      "published": "2026-10-20T07:00:00+00:00",
-      "summary": "A 'faxina' que o cérebro faz durante o sono e que a insônia pode atrapalhar&nbsp;&nbsp;G1Insônia: 10 dicas essenciais para adormecer e relaxar o cérebro para uma melhor noite de sono&nbsp;&nbsp;O GLOBOAcordar cansado todos os dias não é normal; entenda quando a insônia vira doença&nbsp;&nbsp;G1Insônia afeta rotina de brasileiros e pode aumentar risco de doenças cardiovasculares e demência&nbsp;&nbsp;noveen.com.brVocê não precisa ser produtivo o tempo todo: 6 lições para descansar sem culpa&nbsp;",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTNXNlB3Y2s0ajU2aC1hTTZORzZjX3pUTFZ6bzZpQUNaT21LeEFaNHBVbzN4dHk2MEtCVFhmTnF0cFNzRkRONWpHZmFhbUt3dE5RTUVDSWR3U2NIellwVWhBTDVsT0dnN3ZXdUctX3pDdUgzckppUi03RHhXV3dMaFRPQTFCeFN0LTdKeVdQSnRHVC11R3R5NkpYanl1RmxSZUlDbHQtUXhxSHJpYlExT0RvdzdLTHpZVHN3ZGJRYUVURTktS1gwRnJR0gHYAUFVX3lxTFBPNV9yUmM4WGlBX2t0WFh0RldMSHprVXBxYXZzcGtxWmFrcHpGaEFvS0diYXN0UGx4NHBla21aQkJpaWExWVVrQnJLYnVuVDdEMXpjRm5SR2xSQWNBV0U1NGwwd1RNM20za2toakJMYmpXLU5mLTlheURJbHNYMDlqdTVSblpEZllIcXcyNXFkQVZLQ09ncWdaeUpLSk4ydG5JZWlsUFFINlJEWE00ZDRVVF8yS2VfZHFiTzdLR3prY0NOYkdTMDBhYjlvN0U0Z3lIUTk5WUFNSA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f880faf3b14",
-      "title": "Pela primeira vez, cirurgia reconstrói clitóris após câncer de vulva - Folha de S.Paulo",
-      "published": "2026-10-20T07:00:00+00:00",
-      "summary": "Pela primeira vez, cirurgia reconstrói clitóris após câncer de vulva&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeXhuVXVfamV6eDlMOHFpZ0dXcE10VzU0RS1CX2J4aVFsYVBvcG41a0QteUdvWmxKcHo1cGVycWtnNEtyXzdWb3Y2c1gzT051ZGRocXZiTUFlc21TOUZhNkhlQ1R3dkYtUjNBMVFYWGpjOXhkeldPWnJOSkIyMTMxRVR3NDRJZFVkcTlsZTZvc09lQXRoajRUOWFWb0dRMFRFdU1Vd1pDRl9uM2gyWVgxZXdGS20zOGJRbkVxaUZyWGc2NmM1RENN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "79195c69173a",
       "title": "Poluição, genética e radônio: o que explica o aumento do câncer de pulmão em não fumantes - G1",
       "published": "2026-10-20T06:00:00+00:00",
-      "summary": "Poluição, genética e radônio: o que explica o aumento do câncer de pulmão em não fumantes&nbsp;&nbsp;G1Câncer de pulmão: quem deve procurar avaliação médica mesmo sem sintomas&nbsp;&nbsp;JCCâncer de pulmão do Papa alerta para número crescente de não fumantes diagnosticados com a doença&nbsp;&nbsp;Portal Piauí NotíciasA verdade por trás de 7 mitos comuns sobre câncer de pulmão&nbsp;&nbsp;CNN BrasilCâncer de pulmão, mitos, diagnóstico e biomarcadores&nbsp;&nbsp;Revista Newslab",
+      "summary": "Poluição, genética e radônio: o que explica o aumento do câncer de pulmão em não fumantes&nbsp;&nbsp;G1Câncer de pulmão: quem deve procurar avaliação médica mesmo sem sintomas&nbsp;&nbsp;JCCâncer de pulmão em não fumantes chama atenção para fatores de risco além do cigarro&nbsp;&nbsp;Clube FM 104.7Câncer de pulmão do Papa alerta para número crescente de não fumantes diagnosticados com a doença&nbsp;&nbsp;Portal Piauí Notícias",
       "sources": [
         {
           "name": "G1",
@@ -318,30 +414,6 @@
       ]
     },
     {
-      "id": "be99e8e0c0e4",
-      "title": "Microplásticos na água podem gerar substâncias capazes de causar danos biológicos, aponta estudo - G1",
-      "published": "2026-10-20T05:00:00+00:00",
-      "summary": "Microplásticos na água podem gerar substâncias capazes de causar danos biológicos, aponta estudo&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQV96N3NPR1llaTBOUmNpOGJNZExjTHJuYUlOYlgzTzY3cC1wQXBuV1hRdWxZRl9vemVYZUtsY2JtMWd0aXFaVWxmeTJZVGxiTUo2bVpsTzBJbDlyZHBabjcwbGdJTkxzZWNJNGtzYVpTTEdKdENNbUUzbnhTQ0ZBZW9JZ25uQkVTUlgyM2JsVG5UZkMzMkk2Y3g4dFJyUzQ3MFBzLWFOWU1ySTQ3Zmh2R2prU3E5LXVrZ0I3SUFRNzFPbUpoaHM3bEM2NmFjV0Q2Ml9DcFFqc09PLU5xdnNsZm5sa195cHRxcFk00gH6AUFVX3lxTE9vVUxiMFZMZVhKM0FEVmN6RVphYXJYNmJtTEVmV21VNEM0ZnF2aUg4aTBOalg2X0VOZ01wUkdOalhYQ1ZsNU9uOVJZMDZNbkRqdWZoblVoeE50bTMxcU9ia1Z0YUxEYVpibk5TNkxqNm05bFd1R0piWmZGa2pYME1FYnpfZTJvS3lXaUFDQjJYVGNCdFNPOUdJRDYtVWU2RkduQzFhVXNXSEVqMkVrVkFkOXhISTB6am54d0txdlhuLTI4V255UnFfMVRGdVNVQ01WMmFfM2g5TnZQdWdYWDlJWkhEUzRmS01kaGVGczUwRWY2MTU1WkZjVmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24856309d2c3",
-      "title": "Morre a médica gaúcha Thais Russomano, referência em Medicina Espacial - GZH",
-      "published": "2026-10-20T03:31:08+00:00",
-      "summary": "Morre a médica gaúcha Thais Russomano, referência em Medicina Espacial&nbsp;&nbsp;GZH",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbm84YzZMd3BFTjBwRTlPd3hqajAtX0RwTjhfOHdkc2pWOG5ibzFGTC1HbDZ6RWFPaUpKRGt4Vk1ocXp0dFlPdTg4VHlhSzBSb3lxZVFjZHA1UGpFQXBFWVhRQU9XTWRBQzl2YTFWMXVFa3ZqT1BFX3cybUVkVnVZVTBmUzNER1FqNVp1SExTdVhkRHFrekN1SXlRRmtyRmxreVZRRGRudnlJQmNsV3FxN1QwY2pUTGJoYVB5N25oR2psRkJUN2RGVjA3Ui1vRkdma2RNQ0FJYm9kMktYMGFJUjVWOWFfSWVTTE5tN29FcUkxSEVOUlhBNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5adaae442399",
       "title": "Fezes de milhares de pinguins na Antártida podem liberar até 7 milhões de toneladas de metano por ano, diz estudo científico - Diário do Litoral",
       "published": "2026-10-19T23:59:00+00:00",
@@ -350,18 +422,6 @@
         {
           "name": "Diário do Litoral",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTTVsOElOSy1qNVAxRlNnLUstVGdxclhxMktlWWRPMkZSMER3Z3lpbkR3MWhwRHVNRm5oMTZEUTM0Z2tKVVhDV1lwZTJGTWhXNUhHNzJGZWxpOXFwT2swSFhrdW52dkVLcVhMUlV4NFZZZjN0cmstWTRCM0R1TjRxSTJBQ2tlWmdPVy1CSEVGUGYycEU0OHhhSEZPVmROZkFBVFhLLThaOEFueEJOb2tMZGttTEhLQ3pwY1dPdFF5RUJ2V0xCUS0wdlVXWlVlY1JWQWlOdUZFeVZyWnJuTl9qREc0TlVTNWtDRUtHcFAzREwxLW5yNHktTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "589177885ec4",
-      "title": "Japão lança foguete para primeira missão mundial a uma lua de Marte - UOL",
-      "published": "2026-10-19T21:47:03+00:00",
-      "summary": "Japão lança foguete para primeira missão mundial a uma lua de Marte&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkxRRGp6cmxfY18xWlVVZGhjeTBuUXpFU1pZVmlndDZKNXFtZXBQWERJWG5jVTU3OUgtbnJaVXFNZGlNMjcwTWhOMzVtR1NFWlFlSlFib2w0THg0emVWNFZnNzBSdFUyZWkzS3hWcld5T05DYXdhakQ4TE0ydTJQcDNwaHVsTUlzQXdQX2VRLXJLcE5Razl0cV9MOGxqbTVSQ3RVQWhYSEdzWER4Unp4cXZFcjh5dkZmTHdOZnVRN2E?oc=5"
         }
       ]
     },
@@ -378,14 +438,14 @@
       ]
     },
     {
-      "id": "b12effe286dd",
-      "title": "Consumo de carne vermelha pode aumentar o risco de câncer? Veja o que a ciência sabe até agora - Estadão",
-      "published": "2026-10-19T19:02:00+00:00",
-      "summary": "Consumo de carne vermelha pode aumentar o risco de câncer? Veja o que a ciência sabe até agora&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "d749b0a67a30",
+      "title": "Da anatomia virtual aos testes de novas terapias: Medicina da USP dá salto tecnológico no ensino e na pesquisa clínica - USP – Universidade de São Paulo",
+      "published": "2026-10-19T20:04:00+00:00",
+      "summary": "Da anatomia virtual aos testes de novas terapias: Medicina da USP dá salto tecnológico no ensino e na pesquisa clínica&nbsp;&nbsp;USP – Universidade de São Paulo",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcDdiR2I2bjZzb3JnN2kyZFdvX0R5M2dfbDNKNG1DY01RR25MT2R0V0tyQTg1VmxIUEJGeGg4b2Q5UjdJdG9Fdi02Y21MemRrZFc0bkEyN3RKSGRUUFg0R3BKNWh2Wm5qM2dWNmFNcFlYMEZwaWJoMXQzNjBaQmlpaXI3WkRJWTh1NTV2bHRmN09sMVoxMHY5dTFCUjdUREJ0TG1na0ZIRjYwSVNELWpRdmlwQmtvSWZRc3hRNGVWUGx1OTF2RDROdlVRUkZtdkxPcGc?oc=5"
+          "name": "USP – Universidade de São Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWVhNRkh4ejhobDNqNXZ3dXRnZmdRRHJmMmRNdVpJd2dxa3BBUXBvODBnakQxOXJxdUlYQ1FYcWVHMnF0aGw3dUFENDhTUHFHQ3dBSUxhbE5hbTJOejFtTTJKZVVqSzlHcTFtVURKTjlaR2Zvc01ZYUlIRjNfc0lJM1BMTGtPT19RNWdpbmEzSWpvdFZPRlRVZjBEOGNYUXREckRCdkdMaml0eXFobHQ2MUFhVjFXTmdhb3JQc3h2S3hvcEthMFZYeXl6dnM5LUdJSHRSMlFLT21oU3VMQmhHT0NkaDJCUWc3TGc?oc=5"
         }
       ]
     },
@@ -402,66 +462,6 @@
       ]
     },
     {
-      "id": "0fc3ba2fd076",
-      "title": "Quantos passos por dia você precisa dar para melhorar seu foco? Estudo investigou - Globo",
-      "published": "2026-10-19T15:30:28+00:00",
-      "summary": "Quantos passos por dia você precisa dar para melhorar seu foco? Estudo investigou&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX0dDZnNjdmRNWUNOT210ZVRQZ0ZqaUNtTVBxSWFON19pZjR3TUFOdkZXc1VMY3R0cnFhd3pMS1NuWjNnNXdnVW5iSHRiRF9sUndBWnhRakV2dm5XRmd5SjIwb2Z0OTdLdEZzclFDS0gyOTJ0TmhpMjdmaFJIcFpkSWtiWWVYdE81a2VsR3pmQmNmRHNzVmZ6UkdobGFQTDVqRDE0TWZKbkRBb2o4Vmk3UWFjM2hQSnRKcnpXTHVsam14MTduTUZDUkxVZmhGX0tsaU9aSWEzVXTSAecBQVVfeXFMTkYxbU1OOFJpbWlXWmRySThRT1NsSXkyR0ZXSUhWY0kxVTNnRHVIUGx0MklrQXFCY1F6YzFSTzY5bEFiWEREblNrZmo5cUhoc0pESjViUV9Ua3pGM3k2VUhrUVFYY0RrbmNWMlM1YjJ3N1BMZ0JzdVJhOU5BeFZDa0l0bnNOTW1sYmg3S1I0bDZZbDlpY2ZORWd1dmEtV3hvaFZlTWFHUlphamNtd3VXbkNHRDRvNEVsOEN2NTFCTjk5WHY0MkZzY2NRNUZiaDF2dGM3RVFWaW1vNFpINUVEbGw3LVJJeldn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d2ad0693d65",
-      "title": "Comer maçã pode beneficiar sua saúde cardiometabólica e intestinal - Folha de S.Paulo",
-      "published": "2026-10-19T15:00:00+00:00",
-      "summary": "Comer maçã pode beneficiar sua saúde cardiometabólica e intestinal&nbsp;&nbsp;Folha de S.PauloRica em fibras e antioxidantes, fruta pode ajudar a controlar o colesterol e reduzir o risco de diabetes&nbsp;&nbsp;Jornal CorreioCada maçã tem seu lugar na cozinha e combina com doce e salgado&nbsp;&nbsp;R7 EntretenimentoPor que comer maça pode fazer bem para o seu coração, segundo a ciência&nbsp;&nbsp;GloboDia Mundial da Maçã: veja cinco benefícios da fruta para a saúde&nbsp;&nbsp;Jornal de Brasília",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbC1IUmhrdGZvcHJkT3NsSTN5SHpKN3F2LURLbG04Ry1hQzFqMzlnM0ozdzNIMDRrLXh6SXF1dXhyWkZDZXRKRGJDSVFxLV9QNTFQMUlpY2o1V1hvWkoycldvSDM4d0hjNEpPNmRUa2Vxam1JY1V1QWhyT19GY2N3aUxFdGYwcGlHRlRObG1IakhnQ1RvdVBOZ04ybFZMZkN2cWZlRFBMRU1UUHVJaW5aZG5wQS11NUpubjJ5cWx3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df31e6680f18",
-      "title": "Estudo diz que a Peste Negra afetou drasticamente a diversidade das espécies - Aventuras na História",
-      "published": "2026-10-19T13:40:46+00:00",
-      "summary": "Estudo diz que a Peste Negra afetou drasticamente a diversidade das espécies&nbsp;&nbsp;Aventuras na História",
-      "sources": [
-        {
-          "name": "Aventuras na História",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWpXWnhBdnNGdFp1WnlrOFpuNHhPdmlMczdvZHZKem40WDdmR0FubHVhb1J5d090QjFRUDhmRFlpWnlNNWZmR051cnpZREpVc3p0UmhhdWV1MkJCTlRoaV9sYnpPUHpTOEhpdW1xMWxJcjF0QVR2bkJuNlJKcVlkb2lfNG91dXFaNUFYRmlMaEhXUFplbG91czVJVDFvZ2RFaTJ5UWVXUFJaUURXUkRBNlc3Rk1BajVmSkt0TUI5R0g3TGJ6aXZtMGdYR0FRcDFORXotOVl5RQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab7a2444e9bd",
-      "title": "Rio amplia vacinação contra meningite para pessoas de até 59 anos - O GLOBO",
-      "published": "2026-10-19T13:40:31+00:00",
-      "summary": "Rio amplia vacinação contra meningite para pessoas de até 59 anos&nbsp;&nbsp;O GLOBOO que muda na nova indicação para a vacina de meningite? Veja ferramenta para você saber se está com vacinação em dia&nbsp;&nbsp;O GLOBOPessoas de até 59 anos de idade poderão se vacinar contra a meningite&nbsp;&nbsp;Agência BrasilPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de UberlândiaRio estende vacinação contra meningite bacteriana para pessoas ",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3lFWndjQmVGTWJWLUF1ZlYzbWZJRjMyUUxpYUUwZERsakpnMEdIbVp5WS03X3lKRGdKQWtrRElDVWNlZ0pNNV95aWh3Y3VVcTQzWV9nbWlsSW1lWnlLenlFSEo3X043ZmNDS1R6U25KdUJyYzdPUkZWVG03bFZ5TXlaUU02b2ZQUEV3d2RFSElxZkFpTTdyRk52SUV6eTNQdEZZcEsxbnRvRnU1NGtrc0hZbkJ6Q0dheVFB0gHKAUFVX3lxTE85SUlMS295ZDVhTHN3UXpwUTMwbmdmQlBTWG9zQVdnU3RZdXZnNENnaUFjZjZJSW5MWTl3YkIzdmw1T0dUalFDQVJPeHV2RUxQRm1SZFV3blJQUmd5SDdIMXhZRzVEcGpQYVVNeDdoWmlBbjR1d3dTUEVfeHF4dnNOU0FQcUg0Q2d5dElQWGJwT0Y0RlhlSV9MSzJKRTN2QmVwdVNEQ1g5d3hKX2Q0V3M3MjZHYkVVa2RWbFRNQ2dzODZyLUwzbVpZMmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f15e07cf9941",
-      "title": "Aluno de Medicina é suspenso após suspeita de filmar estudante durante banho em torneio universitário em Valença - O GLOBO",
-      "published": "2026-10-19T13:14:56+00:00",
-      "summary": "Aluno de Medicina é suspenso após suspeita de filmar estudante durante banho em torneio universitário em Valença&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNkJFRUEzX19Pb1ZrMmVuVWUzRzRuMXJRaW9acnBCV1JlMXNFYktuZVVGZkpFVEhvQUdaWHhIa0J2MnNDSk9Pczg0MDZWVmQ0dGdfZm51NnhybU5HTHFuZlZMN2F2V3VPRWtpRE00LXpiRy1yMDZ1UFM0MFk5Sm9ZeEJ4TTNORkszRGRIdnpfQk03RWdqLU1yWmMxYVpUTWo4Z255bFNpcEVYVTBCM3ZCYWMzZGRyTU9tekFLOGpmV2ZJbW5RZDY2SnlndkJ1OGNqZHdtQ0NXQmpxRm0zdHEyQmg3cU5QR25GSGRBek1Xczk2RVhpcTlYamZR0gGIAkFVX3lxTE9vLWhmQkIyU0pCOHJEZlJlWWlxR1dodWZySkxnUWlSc096Zm1ETndEYU51YmJwTERKalNmbUluMGYwdnFQNF81OVI0dDVvMmI3MklHVlRRRXFoSldKM29aa2xGUVBFTnNCc19RWnJWeUg2aTZxd3hibGVETFg0RlVVcEhwVHZTZzlLU3VoN05Za09VRm5aX3J1R3MtZXBtN043MkMzVnZEM1RsNXNCcnlQS2xiQy1MYnJzUkhZeUFueXJaX0llbDB0LXQ5YXhZRG1IR1gzMklfRzhFU0JxZDRWeF9ELUotM0Nsd1BWbGpaOTNHYWt4SnZ0UGpTOHVRSlhBdktyM3RfWA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "67aed3b394e3",
       "title": "5 sintomas gastrointestinais que você nunca deve ignorar - O GLOBO",
       "published": "2026-10-19T07:30:00+00:00",
@@ -474,22 +474,10 @@
       ]
     },
     {
-      "id": "d2c42fd51110",
-      "title": "Estudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos - G1",
-      "published": "2026-10-18T07:00:01+00:00",
-      "summary": "Estudos indicam avanço de casos de câncer entre pessoas com menos de 50 anos&nbsp;&nbsp;G1Câncer Colorretal Cresce entre Jovens e Acende Alerta Global&nbsp;&nbsp;Forbes BrasilPor que têm aumentado os casos de câncer entre adultos mais jovens?&nbsp;&nbsp;Olhar DigitalCâncer afeta mais pacientes com menos de 50 anos&nbsp;&nbsp;Tribuna OnlineCasos de câncer estão aumentando entre os mais jovens, aponta relatório&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMm16NndCY2dMQlQtQThfUC1KQjdjdFQ5RHRXSWc0V2REX0NYS3ctRmF4RG1nWUl2VnNvNVJNZXlDVVlEYTVvWWxReXYyYmotcEs3QmF0eURCUUdTWlpyX0hmcjhIblVTbHlWWDltWDFROUF3VlZMUVdOSHZRVlREQ2R1cDBlekd6ZkFraUVhR1cxX2hzTXdVbjVsTzZHaURuQU92Y1pKMzd6MGtnUDJsLTNtNjl2dUVwX2taejBvV0Jza0dPalln0gHWAUFVX3lxTE1NUXZWZ1VzbmRzc1REY00ybUVtbmQzSC1xc29LYWtBSmtzbzRPWTc0Vl91bllUcTNSTXhUbXR6TUpYQW1oaTFkQTZ2MndwTVFkd1RyMElYTWdMWk5sTlFGWlRuR1hhQWc4ZTFaTVlMYTQwWnF2aUlwbDh4Yy1vMFM1RUJTQXJNZ0pMcnJTcHpUbG5TYzBfck00c1A2VFgzT3ZrV2hrdElhcndjN3ZtUjFtdV9yVXR5N2J6OWxydkp2ZUNyQmNyblRFOFZqRWR4Q2RDTmdkSWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c2b78e46886d",
       "title": "Como olhos biônicos estão se tornando realidade - R7",
       "published": "2026-10-18T05:00:00+00:00",
-      "summary": "Como olhos biônicos estão se tornando realidade&nbsp;&nbsp;R7Implante devolve parte da visão central a pacientes com degeneração macular&nbsp;&nbsp;O Cafezinho‘Sempre achei que devolver visão a cegos era ficção científica’, diz inventor de implante&nbsp;&nbsp;Gazeta de São PauloOlhos biônicos recuperam parte da visão: implante de retina ainda enfrenta limites e riscos, mas trazem esperança&nbsp;&nbsp;Jornal CorreioChip Ocular Permite a Homem Cego Recuperar Parcialmente a Visão na China&nbsp;&nbs",
+      "summary": "Como olhos biônicos estão se tornando realidade&nbsp;&nbsp;R7‘Sempre achei que devolver visão a cegos era ficção científica’, diz inventor de implante&nbsp;&nbsp;Gazeta de São PauloChip Ocular Permite a Homem Cego Recuperar Parcialmente a Visão na China&nbsp;&nbsp;Diario EconomicoOlhos biônicos recuperam parte da visão: implante de retina ainda enfrenta limites e riscos, mas trazem esperança&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
           "name": "R7",
@@ -501,7 +489,7 @@
       "id": "9431e7c6efb5",
       "title": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública - G1",
       "published": "2026-10-17T23:58:14+00:00",
-      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G1Ministério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;Governo FederalDia Nacional da Vacinação: Sesa alerta para a importância da vacinação&nbsp;&nbsp;Secretaria de Saúde do ParanáDia Nacional da Vacinação: Criciúma se destaca no avanço na cobertura vacinal e alerta para importância da…&nbsp;&nbsp;Portal Litoral SulBrasil recupera cobertura vacinal após anos de que",
+      "summary": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G1Ministério da Saúde apoia estados e municípios para ampliar a proteção da população&nbsp;&nbsp;GOV.BRPosto de vacinação do Teresina Shopping aplica mais de 700 doses em um dia&nbsp;&nbsp;ViagoraDia Nacional da Vacinação reforça a importância da imunização&nbsp;&nbsp;AMM | Associação Mineira de MunicípiosDia Nacional da Vacinação: Sesa alerta para a importância da imunização&nbsp;&nbsp;Secretaria de Saúde ",
       "sources": [
         {
           "name": "G1",
