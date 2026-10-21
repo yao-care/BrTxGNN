@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Desogestrel"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Desogestrel. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Desogestrel. Indicação original: . 1 indicações previstas."
 permalink: /news/desogestrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/desogestrel/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Desogestrel?">
-<strong>Desogestrel</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Desogestrel</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Desogestrel com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>amenorrhea (disease) (100.0%)</li>
-<li>blunt duct adenosis of breast (99.9%)</li>
-<li>apocrine adenosis of breast (99.9%)</li>
-<li>acne (disease) (99.9%)</li>
-<li>breast abscess (99.9%)</li>
-<li>fat necrosis of breast (99.9%)</li>
-<li>lactation disease (99.9%)</li>
-<li>breast adenosis (99.8%)</li>
-<li>primary ovarian failure (99.7%)</li>
-<li>symptomatic form of fragile X syndrome in female carrier (99.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Amenorreia (amenorrhea) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/desogestrel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Caffeine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Caffeine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Caffeine. Indicação original: . 1 indicações previstas."
 permalink: /news/caffeine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/caffeine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Caffeine?">
-<strong>Caffeine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Caffeine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Caffeine com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>nasal cavity disease (99.9%)</li>
-<li>thrombotic disease (99.9%)</li>
-<li>acute laryngopharyngitis (99.9%)</li>
-<li>papillary conjunctivitis (99.8%)</li>
-<li>neuralgia (99.3%)</li>
-<li>glossodynia (99.3%)</li>
-<li>coccygodynia (99.2%)</li>
-<li>trigeminal autonomic cephalalgia (99.2%)</li>
-<li>hypnic headache (disease) (99.2%)</li>
-<li>vein disease (99.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença da cavidade nasal (nasal cavity disease) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/caffeine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

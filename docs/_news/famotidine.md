@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Famotidine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Famotidine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Famotidine. Indicação original: . 1 indicações previstas."
 permalink: /news/famotidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/famotidine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Famotidine?">
-<strong>Famotidine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Famotidine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Famotidine com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>duodenogastric reflux (100.0%)</li>
-<li>duodenal obstruction (100.0%)</li>
-<li>active peptic ulcer disease (100.0%)</li>
-<li>gastrojejunal ulcer (100.0%)</li>
-<li>peptic ulcer perforation (100.0%)</li>
-<li>abnormality of glucagon secretion (99.9%)</li>
-<li>gastroduodenitis (99.8%)</li>
-<li>peptic ulcer disease (99.7%)</li>
-<li>multiple endocrine neoplasia (99.7%)</li>
-<li>acne (disease) (99.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Refluxo duodenogástrico (Duodenogastric Reflux) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/famotidine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

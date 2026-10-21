@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Solifenacin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Solifenacin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Solifenacin. Indicação original: . 1 indicações previstas."
 permalink: /news/solifenacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/solifenacin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Solifenacin?">
-<strong>Solifenacin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Solifenacin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Solifenacin com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>polycystic kidney disease 3 with or without polycystic liver disease (97.1%)</li>
-<li>thoracic malformation (96.6%)</li>
-<li>renal-hepatic-pancreatic dysplasia (96.3%)</li>
-<li>adult familial nephronophthisis-spastic quadriparesia syndrome (96.2%)</li>
-<li>Joubert syndrome with renal defect (96.2%)</li>
-<li>karyomegalic interstitial nephritis (96.1%)</li>
-<li>low compliance bladder (95.4%)</li>
-<li>polycystic kidney disease (92.2%)</li>
-<li>subarachnoid hemorrhage (disease) (90.0%)</li>
-<li>congenital analbuminemia (89.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença renal policística tipo 3, com ou sem doença hepática policística (maior pontuação); bexiga de baixa complacência (única com literatura) (97.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/solifenacin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

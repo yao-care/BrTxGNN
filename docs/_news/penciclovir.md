@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Penciclovir"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Penciclovir. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Penciclovir. Indicação original: . 1 indicações previstas."
 permalink: /news/penciclovir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/penciclovir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Penciclovir?">
-<strong>Penciclovir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Penciclovir</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Penciclovir com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>fascioliasis (99.1%)</li>
-<li>cysticercosis (99.0%)</li>
-<li>coenurosis (98.8%)</li>
-<li>intestinal helminthiasis (98.7%)</li>
-<li>malignant pleural mesothelioma (98.5%)</li>
-<li>endomyometritis (98.5%)</li>
-<li>malignant epithelioid mesothelioma (98.4%)</li>
-<li>sarcomatoid mesothelioma (98.3%)</li>
-<li>synovium cancer (98.1%)</li>
-<li>malignant visceral pleura tumor (98.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Fasciolíase (Fascioliasis) (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/penciclovir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

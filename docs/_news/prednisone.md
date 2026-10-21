@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Prednisone"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Prednisone. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com Prednisone. Indicação original: . 10 indicações previstas."
 permalink: /news/prednisone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prednisone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Prednisone?">
-<strong>Prednisone</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>Prednisone</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para Prednisone com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Alopecia mucinosa | 99,99% | L4 | Hold (99.0%)</li>
-<li>Eflúvio telógeno | 99,99% | L5 | Hold (99.0%)</li>
-<li>Foliculite decalvante de Quinquaud | 99,99% | L5 | Hold (99.0%)</li>
-<li>Alopecia com deficiência de anticorpos | 99,99% | L5 | Hold (99.0%)</li>
-<li>Hipotricose hereditária com vesículas cutâneas recorrentes | 99,99% | L5 | Hold (99.0%)</li>
-<li>Síndrome alopecia–deficiência intelectual–hipogonadismo hipergonadotrófico | 99,99% | L5 | Hold (99.0%)</li>
-<li>Atriquia com lesões papulares | 99,95% | L5 | Hold (99.0%)</li>
-<li>Tenossinovite | 99,80% | L4 | Questão de pesquisa (99.0%)</li>
-<li>Prolapso da glândula lacrimal | 99,66% | L5 | Hold (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Alopecia areata (Alopecia Areata) (100.0%)</li>
+<li>Alopecia mucinosa (100.0%)</li>
+<li>Eflúvio telógeno (100.0%)</li>
+<li>Foliculite decalvante de Quinquaud (100.0%)</li>
+<li>Alopecia com deficiência de anticorpos (100.0%)</li>
+<li>Hipotricose hereditária com vesículas cutâneas recorrentes (100.0%)</li>
+<li>Síndrome alopecia–deficiência intelectual–hipogonadismo hipergonadotrófico (100.0%)</li>
+<li>Atriquia com lesões papulares (100.0%)</li>
+<li>Tenossinovite (99.8%)</li>
+<li>Prolapso da glândula lacrimal (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prednisone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

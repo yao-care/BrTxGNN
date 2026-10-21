@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Methadone"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Methadone. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Methadone. Indicação original: . 1 indicações previstas."
 permalink: /news/methadone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/methadone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Methadone?">
-<strong>Methadone</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Methadone</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Methadone com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Tourette syndrome (99.8%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.7%)</li>
-<li>trichotillomania (99.7%)</li>
-<li>headache disorder (99.3%)</li>
-<li>manic bipolar affective disorder (99.3%)</li>
-<li>trigeminal autonomic cephalalgia (99.0%)</li>
-<li>common cold (99.0%)</li>
-<li>migraine disorder (98.6%)</li>
-<li>fibromyalgia (98.6%)</li>
-<li>myositis fibrosa (98.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome de Tourette (Tourette syndrome) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methadone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Galsulfase"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Galsulfase. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com Galsulfase. Indicação original: . 10 indicações previstas."
 permalink: /news/galsulfase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/galsulfase/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Galsulfase?">
-<strong>Galsulfase</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>Galsulfase</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para Galsulfase com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Camptodactilia, miopia e fibrose do músculo reto medial | 97,87% | Distúrbio congênito raro; sem mecanismo de armazenamento de GAG (99.0%)</li>
-<li>Síndrome de Horner congênita | 97,84% | Alteração da inervação simpática, não deficiência enzimática (99.0%)</li>
-<li>Síndrome de ptose-paralisia de prega vocal | 97,83% | Síndrome neuromuscular/do desenvolvimento, sem vínculo com dermatan sulfato (99.0%)</li>
-<li>Síndrome de ptose-limitação do movimento ocular superior-ausência de ponto lacrimal | 97,67% | Malformação congênita, sem envolvimento de GAG (99.0%)</li>
-<li>Síndrome de piscar-mandíbula (jaw-winking) | 97,65% | Sincinesia por conexões nervosas aberrantes (99.0%)</li>
-<li>Entrópio congênito | 97,64% | Malformação palpebral, tratada cirurgicamente (99.0%)</li>
-<li>Epibléfaro | 97,55% | Anomalia anatômica da prega palpebral (99.0%)</li>
-<li>Ectrópio congênito | 97,48% | Malformação palpebral estrutural (99.0%)</li>
-<li>Síndrome de Scheie | 94,79% | Única com literatura (revisões gerais); ver abaixo (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Síndrome de ptose-estrabismo-pupilas ectópicas (ptosis-strabismus-ectopic pupils syndrome) (97.9%)</li>
+<li>Camptodactilia, miopia e fibrose do músculo reto medial (97.9%)</li>
+<li>Síndrome de Horner congênita (97.8%)</li>
+<li>Síndrome de ptose-paralisia de prega vocal (97.8%)</li>
+<li>Síndrome de ptose-limitação do movimento ocular superior-ausência de ponto lacrimal (97.7%)</li>
+<li>Síndrome de piscar-mandíbula (jaw-winking) (97.7%)</li>
+<li>Entrópio congênito (97.6%)</li>
+<li>Epibléfaro (97.5%)</li>
+<li>Ectrópio congênito (97.5%)</li>
+<li>Síndrome de Scheie (94.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/galsulfase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

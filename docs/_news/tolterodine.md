@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Tolterodine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tolterodine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Tolterodine. Indicação original: . 1 indicações previstas."
 permalink: /news/tolterodine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tolterodine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tolterodine?">
-<strong>Tolterodine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Tolterodine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Tolterodine com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>low compliance bladder (96.3%)</li>
-<li>polycystic kidney disease 3 with or without polycystic liver disease (96.3%)</li>
-<li>thoracic malformation (95.9%)</li>
-<li>renal-hepatic-pancreatic dysplasia (95.8%)</li>
-<li>Joubert syndrome with renal defect (95.5%)</li>
-<li>adult familial nephronophthisis-spastic quadriparesia syndrome (95.4%)</li>
-<li>karyomegalic interstitial nephritis (95.2%)</li>
-<li>congenital analbuminemia (94.0%)</li>
-<li>polyclonal hyperviscosity syndrome (93.3%)</li>
-<li>hyperamylasemia (93.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Bexiga de baixa complacência (low compliance bladder) (96.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tolterodine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

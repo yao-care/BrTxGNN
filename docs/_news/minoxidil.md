@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Minoxidil"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Minoxidil. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Minoxidil. Indicação original: . 1 indicações previstas."
 permalink: /news/minoxidil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/minoxidil/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Minoxidil?">
-<strong>Minoxidil</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Minoxidil</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Minoxidil com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>hypotrichosis simplex of the scalp (100.0%)</li>
-<li>congenital hypotrichosis milia (100.0%)</li>
-<li>diffuse alopecia areata (100.0%)</li>
-<li>pseudopelade of Brocq (99.9%)</li>
-<li>pulmonary arterial hypertension (99.9%)</li>
-<li>pulmonary arteriovenous malformation (disease) (99.9%)</li>
-<li>pulmonary arterial hypertension associated with congenital heart disease (99.9%)</li>
-<li>primary hereditary glaucoma (99.8%)</li>
-<li>pulmonary arterial hypertension associated with connective tissue disease (99.8%)</li>
-<li>pulmonary arterial hypertension associated with HIV infection (99.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hipotricose simples do couro cabeludo (Hypotrichosis simplex of the scalp) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/minoxidil/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Venetoclax"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Venetoclax. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Venetoclax. Indicação original: . 1 indicações previstas."
 permalink: /news/venetoclax/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/venetoclax/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Venetoclax?">
-<strong>Venetoclax</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Venetoclax</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Venetoclax com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (99.5%)</li>
-<li>pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (99.5%)</li>
-<li>Hodgkins lymphoma (99.5%)</li>
-<li>myeloid leukemia (99.5%)</li>
-<li>chronic myelogenous leukemia, BCR-ABL1 positive (99.4%)</li>
-<li>Ewing sarcoma (99.2%)</li>
-<li>follicular lymphoma (99.2%)</li>
-<li>metastatic neoplasm (99.1%)</li>
-<li>malignant spiradenoma (99.1%)</li>
-<li>acute myeloid leukemia with t(8;21)(q22;q22) translocation (99.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Leucemia linfocítica crônica/linfoma linfocítico de pequenas células com hipermutação somática de IGHV (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/venetoclax/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

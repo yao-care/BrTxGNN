@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Prilocaine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Prilocaine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Prilocaine. Indicação original: . 1 indicações previstas."
 permalink: /news/prilocaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Prilocaine?">
-<strong>Prilocaine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Prilocaine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Prilocaine com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>papillary conjunctivitis (99.8%)</li>
-<li>manic bipolar affective disorder (99.8%)</li>
-<li>bronchitis (99.6%)</li>
-<li>migraine disorder (99.4%)</li>
-<li>neuralgia (99.3%)</li>
-<li>migraine with brainstem aura (99.3%)</li>
-<li>atopic eczema (99.3%)</li>
-<li>allergic asthma (99.3%)</li>
-<li>rhinitis (99.3%)</li>
-<li>rosacea conjunctivitis (99.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Conjuntivite papilar (papillary conjunctivitis) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

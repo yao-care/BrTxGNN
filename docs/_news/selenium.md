@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Selenium"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Selenium. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Selenium. Indicação original: . 1 indicações previstas."
 permalink: /news/selenium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/selenium/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Selenium?">
-<strong>Selenium</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Selenium</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Selenium com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>sclerosing cholangitis (99.0%)</li>
-<li>rheumatoid arthritis (95.3%)</li>
-<li>obsolete hyperuricemia (disease) (95.0%)</li>
-<li>hypotrichosis simplex of the scalp (92.8%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (92.7%)</li>
-<li>hepatic porphyria (92.5%)</li>
-<li>congenital hypotrichosis milia (92.5%)</li>
-<li>hypouricemia, renal (92.4%)</li>
-<li>congestive heart failure (92.1%)</li>
-<li>hepatopulmonary syndrome (92.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Colangite Esclerosante (Sclerosing Cholangitis) (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/selenium/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

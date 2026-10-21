@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Methionine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Methionine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Methionine. Indicação original: . 1 indicações previstas."
 permalink: /news/methionine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/methionine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Methionine?">
-<strong>Methionine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Methionine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Methionine com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>acne (disease) (100.0%)</li>
-<li>severe nonproliferative diabetic retinopathy (100.0%)</li>
-<li>nuclear senile cataract (100.0%)</li>
-<li>cortical cataract (100.0%)</li>
-<li>craniostenosis cataract (100.0%)</li>
-<li>tetanic cataract (100.0%)</li>
-<li>diabetes mellitus type 2 associated cataract (100.0%)</li>
-<li>immature cataract (100.0%)</li>
-<li>mature cataract (100.0%)</li>
-<li>diabetic cataract (100.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Acne (acne disease) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methionine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

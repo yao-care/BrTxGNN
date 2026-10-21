@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre ALPRAZOLAM"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ALPRAZOLAM. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com ALPRAZOLAM. Indicação original: . 1 indicações previstas."
 permalink: /news/alprazolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alprazolam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ALPRAZOLAM?">
-<strong>ALPRAZOLAM</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>ALPRAZOLAM</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Esta página combina as indicações previstas por IA para ALPRAZOLAM com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>insomnia (disease) (99.8%)</li>
-<li>benign paroxysmal torticollis of infancy (99.6%)</li>
-<li>agoraphobia (99.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Insônia (insomnia) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alprazolam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

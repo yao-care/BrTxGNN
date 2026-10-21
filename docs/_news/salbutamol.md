@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Salbutamol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Salbutamol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Salbutamol. Indicação original: . 1 indicações previstas."
 permalink: /news/salbutamol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/salbutamol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Salbutamol?">
-<strong>Salbutamol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Salbutamol</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Salbutamol com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>papillary conjunctivitis (100.0%)</li>
-<li>nasal cavity disease (100.0%)</li>
-<li>pharyngitis (100.0%)</li>
-<li>bronchitis (100.0%)</li>
-<li>acute laryngopharyngitis (100.0%)</li>
-<li>anaphylaxis (100.0%)</li>
-<li>common cold (100.0%)</li>
-<li>atopic conjunctivitis (100.0%)</li>
-<li>anorectal stricture (99.9%)</li>
-<li>obstructive lung disease (99.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Conjuntivite Papilar (Papillary Conjunctivitis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/salbutamol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Sirolimus"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Sirolimus. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Sirolimus. Indicação original: . 1 indicações previstas."
 permalink: /news/sirolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sirolimus/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Sirolimus?">
-<strong>Sirolimus</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Sirolimus</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Sirolimus com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>liposarcoma (99.9%)</li>
-<li>ovarian myxoid liposarcoma (99.8%)</li>
-<li>uterine corpus perivascular epithelioid cell tumor (99.8%)</li>
-<li>benign PEComa (99.8%)</li>
-<li>lymphangiomyoma (99.8%)</li>
-<li>unclassified renal cell carcinoma (99.7%)</li>
-<li>renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions (99.7%)</li>
-<li>renal cell carcinoma associated with neuroblastoma (99.7%)</li>
-<li>lung PEComa (99.6%)</li>
-<li>vulva sarcoma (99.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Lipossarcoma (Liposarcoma) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sirolimus/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

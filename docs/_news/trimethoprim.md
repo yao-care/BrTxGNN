@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Trimethoprim"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Trimethoprim. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com Trimethoprim. Indicação original: . 10 indicações previstas."
 permalink: /news/trimethoprim/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/trimethoprim/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Trimethoprim?">
-<strong>Trimethoprim</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>Trimethoprim</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para Trimethoprim com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Conjuntivite | 99,17% | L3 | Melhor respaldo: estudos clínicos com colírios de trimetoprima + polimixina B. Trata-se de uso tópico já existente de uma combinação, não de um novo reposicionamento do agente oral (99.0%)</li>
-<li>Ceratite de exposição | 98,95% | L4 | Literatura indireta; o problema primário é o ressecamento da córnea (99.0%)</li>
-<li>Vasculite pós-infecciosa | 98,42% | L5 | Condição imunomediada, sem mecanismo claro (99.0%)</li>
-<li>Distúrbio pós-bacteriano | 98,39% | L4 | Quatro ensaios com sulfametoxazol-trimetoprima, mas inespecíficos (99.0%)</li>
-<li>Síndrome pós-infecciosa | 98,31% | L5 | Único ensaio retirado, com 0 participantes (99.0%)</li>
-<li>Estenose uretral infecciosa | 98,25% | L4 | Estenose é fibrótica; antibiótico não a reverte (99.0%)</li>
-<li>Otite externa | 98,14% | L4 | Literatura majoritariamente de suscetibilidade e veterinária; *Pseudomonas* é pouco suscetível à trimetoprima (99.0%)</li>
-<li>Cardiomiopatia chagásica | 98,07% | L5 | Sem evidências (99.0%)</li>
-<li>Síndrome hemolítico-urêmica associada a infecção | 98,05% | L5 | Sem evidências; antibióticos podem ser prejudiciais (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (99.6%)</li>
+<li>Conjuntivite (99.2%)</li>
+<li>Ceratite de exposição (99.0%)</li>
+<li>Vasculite pós-infecciosa (98.4%)</li>
+<li>Distúrbio pós-bacteriano (98.4%)</li>
+<li>Síndrome pós-infecciosa (98.3%)</li>
+<li>Estenose uretral infecciosa (98.2%)</li>
+<li>Otite externa (98.1%)</li>
+<li>Cardiomiopatia chagásica (98.1%)</li>
+<li>Síndrome hemolítico-urêmica associada a infecção (98.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trimethoprim/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Progesterone"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Progesterone. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Progesterone. Indicação original: . 1 indicações previstas."
 permalink: /news/progesterone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/progesterone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Progesterone?">
-<strong>Progesterone</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Progesterone</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Progesterone com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>amenorrhea (disease) (100.0%)</li>
-<li>breast fibrocystic disease (100.0%)</li>
-<li>benign mammary dysplasia (100.0%)</li>
-<li>renal hypoplasia, bilateral (100.0%)</li>
-<li>cervix endometriosis (100.0%)</li>
-<li>renal hypoplasia (disease) (100.0%)</li>
-<li>endometriosis of rectovaginal septum and vagina (100.0%)</li>
-<li>endometriosis in cutaneous scar (100.0%)</li>
-<li>apocrine adenosis of breast (100.0%)</li>
-<li>blunt duct adenosis of breast (100.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Amenorreia (Amenorrhea) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/progesterone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

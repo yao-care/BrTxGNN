@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre PIBRENTASVIR"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com PIBRENTASVIR. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com PIBRENTASVIR. Indicação original: . 1 indicações previstas."
 permalink: /news/pibrentasvir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre PIBRENTASVIR?">
-<strong>PIBRENTASVIR</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>PIBRENTASVIR</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para PIBRENTASVIR com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>hepatitis B virus infection (99.8%)</li>
-<li>HIV infectious disease (99.8%)</li>
-<li>hepatitis E virus infection (99.8%)</li>
-<li>hepatitis A virus infection (99.8%)</li>
-<li>hepatitis, viral, animal (99.8%)</li>
-<li>Omsk hemorrhagic fever (99.8%)</li>
-<li>Kyasanur forest disease (99.8%)</li>
-<li>feline acquired immunodeficiency syndrome (99.7%)</li>
-<li>simian immunodeficiency virus infection (99.7%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Infecção pelo vírus da hepatite B (hepatitis B virus infection) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Camphor"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Camphor. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Camphor. Indicação original: . 1 indicações previstas."
 permalink: /news/camphor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/camphor/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Camphor?">
-<strong>Camphor</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Camphor</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Camphor com as notíc
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>migraine disorder (99.8%)</li>
-<li>migraine with brainstem aura (99.8%)</li>
-<li>erectile dysfunction (disease) (99.8%)</li>
-<li>pulmonary hypertension (99.8%)</li>
-<li>migraine with or without aura, susceptibility to (99.7%)</li>
-<li>kyphoscoliotic heart disease (99.7%)</li>
-<li>ulerythema ophryogenesis (99.6%)</li>
-<li>Raynaud disease (99.6%)</li>
-<li>atrophoderma vermiculata (99.5%)</li>
-<li>Tourette syndrome (99.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Enxaqueca (Migraine Disorder) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/camphor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

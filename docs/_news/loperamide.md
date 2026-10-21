@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Loperamide"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Loperamide. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Loperamide. Indicação original: . 1 indicações previstas."
 permalink: /news/loperamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loperamide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Loperamide?">
-<strong>Loperamide</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Loperamide</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Loperamide com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>acute contagious conjunctivitis (100.0%)</li>
-<li>amebic dysentery (100.0%)</li>
-<li>conjunctivitis (99.9%)</li>
-<li>gastroduodenitis (99.8%)</li>
-<li>pseudomembranous conjunctivitis (99.7%)</li>
-<li>chronic follicular conjunctivitis (99.7%)</li>
-<li>serous conjunctivitis except viral (99.7%)</li>
-<li>conjunctival folliculosis (99.7%)</li>
-<li>parasitic conjunctivitis (99.7%)</li>
-<li>Angelucci syndrome (99.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Conjuntivite contagiosa aguda (acute contagious conjunctivitis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loperamide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

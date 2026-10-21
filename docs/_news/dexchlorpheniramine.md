@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre DEXCHLORPHENIRAMINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com DEXCHLORPHENIRAMINE. Indicação original: . 2 indicações previstas."
+description: "Notícias de saúde relacionadas com DEXCHLORPHENIRAMINE. Indicação original: . 1 indicações previstas."
 permalink: /news/dexchlorpheniramine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexchlorpheniramine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre DEXCHLORPHENIRAMINE?">
-<strong>DEXCHLORPHENIRAMINE</strong> tem atualmente <strong>0 notícias</strong> e 2 indicações previstas.
+<strong>DEXCHLORPHENIRAMINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Esta página combina as indicações previstas por IA para DEXCHLORPHENIRAMINE c
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (2)</strong>:<ul>
-<li>allergic urticaria (99.9%)</li>
-<li>cold urticaria (99.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Urticária Alérgica (Allergic Urticaria) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexchlorpheniramine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

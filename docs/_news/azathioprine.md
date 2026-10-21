@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre AZATHIOPRINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com AZATHIOPRINE. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com AZATHIOPRINE. Indicação original: . 1 indicações previstas."
 permalink: /news/azathioprine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre AZATHIOPRINE?">
-<strong>AZATHIOPRINE</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>AZATHIOPRINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para AZATHIOPRINE com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
-<li>brachydactyly-syndactyly syndrome (100.0%)</li>
-<li>osteoarthritis susceptibility (99.7%)</li>
-<li>WHIM syndrome (99.7%)</li>
-<li>inflammatory bowel disease (99.5%)</li>
-<li>granulomatous disease, chronic, autosomal recessive, 5 (99.4%)</li>
-<li>osteoarthritis (99.4%)</li>
-<li>granulomatous disease with defect in neutrophil chemotaxis (99.4%)</li>
-<li>ulcerative colitis (disease) (99.3%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença Inflamatória Intestinal (Inflammatory Bowel Disease) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

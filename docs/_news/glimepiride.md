@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre GLIMEPIRIDE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com GLIMEPIRIDE. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com GLIMEPIRIDE. Indicação original: . 1 indicações previstas."
 permalink: /news/glimepiride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glimepiride/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre GLIMEPIRIDE?">
-<strong>GLIMEPIRIDE</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>GLIMEPIRIDE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,8 @@ Esta página combina as indicações previstas por IA para GLIMEPIRIDE com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>focal stiff limb syndrome (99.8%)</li>
-<li>classic stiff person syndrome (99.8%)</li>
-<li>opsismodysplasia (99.7%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.7%)</li>
-<li>drug-induced localized lipodystrophy (99.6%)</li>
-<li>centrifugal lipodystrophy (99.6%)</li>
-<li>pressure-induced localized lipoatrophy (99.6%)</li>
-<li>idiopathic localized lipodystrophy (99.6%)</li>
-<li>pancreatic agenesis (99.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome do membro rígido focal (focal stiff limb syndrome) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

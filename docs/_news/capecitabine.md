@@ -26,16 +26,16 @@ Esta página combina as indicações previstas por IA para Capecitabine com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>gastric adenocarcinoma and proximal polyposis of the stomach (99.9%)</li>
-<li>microinvasive gastric cancer (99.9%)</li>
-<li>signet ring cell gastric adenocarcinoma (99.9%)</li>
-<li>gastric tubular adenocarcinoma (99.9%)</li>
-<li>gastric cardia adenocarcinoma (99.9%)</li>
-<li>carcinoma of stomach, salivary gland type (99.9%)</li>
-<li>gastric pylorus carcinoma (99.9%)</li>
-<li>gastric body carcinoma (99.9%)</li>
-<li>Epstein-Barr virus-associated gastric carcinoma (99.9%)</li>
-<li>malignant gastric granular cell tumor (99.9%)</li>
+<li>Adenocarcinoma Gástrico Tubular (Gastric Tubular Adenocarcinoma) (99.9%)</li>
+<li>Adenocarcinoma gástrico com polipose proximal (99.9%)</li>
+<li>Câncer gástrico microinvasivo (99.9%)</li>
+<li>Adenocarcinoma gástrico com células em anel de sinete (99.9%)</li>
+<li>Adenocarcinoma da cárdia gástrica (99.9%)</li>
+<li>Carcinoma gástrico tipo glândula salivar (99.9%)</li>
+<li>Carcinoma do piloro gástrico (99.9%)</li>
+<li>Carcinoma do corpo gástrico (99.9%)</li>
+<li>Carcinoma gástrico associado ao vírus Epstein-Barr (99.9%)</li>
+<li>Tumor maligno de células granulares gástrico (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capecitabine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

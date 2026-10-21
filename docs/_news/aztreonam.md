@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Aztreonam"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Aztreonam. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Aztreonam. Indicação original: . 6 indicações previstas."
 permalink: /news/aztreonam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/aztreonam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Aztreonam?">
-<strong>Aztreonam</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Aztreonam</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,13 @@ Esta página combina as indicações previstas por IA para Aztreonam com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>polyclonal hyperviscosity syndrome (99.7%)</li>
-<li>hyperamylasemia (99.7%)</li>
-<li>congenital analbuminemia (99.7%)</li>
-<li>gonococcal urethritis (99.6%)</li>
-<li>Ureaplasma urethritis (99.6%)</li>
-<li>blood group incompatibility (99.6%)</li>
-<li>premalignant hematological system disease (99.5%)</li>
-<li>epiglottitis (99.5%)</li>
-<li>monoclonal gammopathy (99.5%)</li>
-<li>xanthogranulomatous pyelonephritis (99.5%)</li>
+<li><strong>Indicações previstas (6)</strong>:<ul>
+<li>Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) (99.7%)</li>
+<li>Uretrite gonocócica (99.6%)</li>
+<li>Epiglotite (99.5%)</li>
+<li>Gamopatia monoclonal (99.5%)</li>
+<li>Uretrite por *Ureaplasma* (99.6%)</li>
+<li>Pielonefrite xantogranulomatosa (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/aztreonam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

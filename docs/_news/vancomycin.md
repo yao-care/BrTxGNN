@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Vancomycin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Vancomycin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Vancomycin. Indicação original: . 1 indicações previstas."
 permalink: /news/vancomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vancomycin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Vancomycin?">
-<strong>Vancomycin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Vancomycin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Vancomycin com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>diffuse scleroderma (99.9%)</li>
-<li>paratyphoid fever (99.8%)</li>
-<li>salmonellosis (99.8%)</li>
-<li>congenital analbuminemia (99.8%)</li>
-<li>hyperamylasemia (99.8%)</li>
-<li>polyclonal hyperviscosity syndrome (99.8%)</li>
-<li>typhoid fever (99.8%)</li>
-<li>blood group incompatibility (99.6%)</li>
-<li>streptococcal pneumonia (99.6%)</li>
-<li>premalignant hematological system disease (99.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Esclerodermia difusa (diffuse scleroderma) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vancomycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

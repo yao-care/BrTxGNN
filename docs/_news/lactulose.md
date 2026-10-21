@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre LACTULOSE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LACTULOSE. Indicação original: . 8 indicações previstas."
+description: "Notícias de saúde relacionadas com LACTULOSE. Indicação original: . 1 indicações previstas."
 permalink: /news/lactulose/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lactulose/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre LACTULOSE?">
-<strong>LACTULOSE</strong> tem atualmente <strong>0 notícias</strong> e 8 indicações previstas.
+<strong>LACTULOSE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,15 +25,8 @@ Esta página combina as indicações previstas por IA para LACTULOSE com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (8)</strong>:<ul>
-<li>acute urate nephropathy (99.9%)</li>
-<li>nephrolithiasis (99.8%)</li>
-<li>obstructive jaundice (99.5%)</li>
-<li>bile duct disease (99.5%)</li>
-<li>biliary tract disease (99.4%)</li>
-<li>hyperphosphatemia (disease) (99.4%)</li>
-<li>exercise-induced malignant hyperthermia (99.1%)</li>
-<li>bile duct neoplasm (99.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Nefropatia Aguda por Urato (Acute Urate Nephropathy) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lactulose/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

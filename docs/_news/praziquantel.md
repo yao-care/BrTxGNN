@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Praziquantel"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Praziquantel. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Praziquantel. Indicação original: . 1 indicações previstas."
 permalink: /news/praziquantel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/praziquantel/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Praziquantel?">
-<strong>Praziquantel</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Praziquantel</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Praziquantel com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>uterine corpus epithelioid leiomyosarcoma (97.3%)</li>
-<li>Plasmodium falciparum malaria (97.2%)</li>
-<li>retroperitoneal sarcoma (97.2%)</li>
-<li>uterine corpus myxoid leiomyosarcoma (97.2%)</li>
-<li>anus leiomyosarcoma (97.2%)</li>
-<li>small intestinal sarcoma (96.7%)</li>
-<li>gnathomiasis (96.5%)</li>
-<li>fascioliasis (96.3%)</li>
-<li>leiomyosarcoma (96.2%)</li>
-<li>dermatofibrosarcoma protuberans (95.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Leiomiossarcoma epitelioide do corpo uterino (uterine corpus epithelioid leiomyosarcoma) (97.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/praziquantel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

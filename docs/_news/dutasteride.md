@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Dutasteride"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Dutasteride. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Dutasteride. Indicação original: . 1 indicações previstas."
 permalink: /news/dutasteride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dutasteride/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Dutasteride?">
-<strong>Dutasteride</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Dutasteride</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Dutasteride com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
-<li>isolated genetic hair shaft abnormality (100.0%)</li>
-<li>hypotrichosis simplex of the scalp (99.8%)</li>
-<li>congenital hypotrichosis milia (99.8%)</li>
-<li>diffuse alopecia areata (99.7%)</li>
-<li>migraine with brainstem aura (99.7%)</li>
-<li>familial isolated trichomegaly (99.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hipertricose universal congênita do tipo Ambras (Ambras type hypertrichosis universalis congenita) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dutasteride/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

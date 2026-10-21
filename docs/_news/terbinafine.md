@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Terbinafine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Terbinafine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Terbinafine. Indicação original: . 1 indicações previstas."
 permalink: /news/terbinafine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/terbinafine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Terbinafine?">
-<strong>Terbinafine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Terbinafine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Terbinafine com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>furuncular myiasis (96.7%)</li>
-<li>wound myiasis (96.7%)</li>
-<li>creeping myiasis (96.7%)</li>
-<li>myiasis (96.2%)</li>
-<li>cutaneous candidiasis (95.0%)</li>
-<li>toxoplasmosis (94.8%)</li>
-<li>blastomycosis (91.8%)</li>
-<li>tinea manuum (90.1%)</li>
-<li>echinococcus granulosus infectious disease (86.1%)</li>
-<li>superficial mycosis (84.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Miíase furuncular (Furuncular Myiasis) (96.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/terbinafine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

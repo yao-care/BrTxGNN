@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Desloratadine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Desloratadine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Desloratadine. Indicação original: . 1 indicações previstas."
 permalink: /news/desloratadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/desloratadine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Desloratadine?">
-<strong>Desloratadine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Desloratadine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Desloratadine com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>cold urticaria (99.9%)</li>
-<li>nasal cavity disease (99.9%)</li>
-<li>acute laryngopharyngitis (99.8%)</li>
-<li>recalcitrant atopic dermatitis (99.8%)</li>
-<li>IgE responsiveness, atopic (99.6%)</li>
-<li>rosacea conjunctivitis (99.4%)</li>
-<li>headache disorder (98.4%)</li>
-<li>trigeminal autonomic cephalalgia (98.3%)</li>
-<li>punctate epithelial keratoconjunctivitis (97.7%)</li>
-<li>Angelucci syndrome (97.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Urticária ao frio (Cold Urticaria) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/desloratadine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

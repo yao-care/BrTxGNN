@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Methotrexate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Methotrexate. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Methotrexate. Indicação original: . 1 indicações previstas."
 permalink: /news/methotrexate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/methotrexate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Methotrexate?">
-<strong>Methotrexate</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Methotrexate</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Methotrexate com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>pulmonary blastoma (99.5%)</li>
-<li>primary pulmonary lymphoma (99.5%)</li>
-<li>small cell lung carcinoma (99.4%)</li>
-<li>well-differentiated fetal adenocarcinoma of the lung (99.4%)</li>
-<li>Hodgkins lymphoma (99.3%)</li>
-<li>rhabdomyosarcoma (disease) (99.2%)</li>
-<li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (99.2%)</li>
-<li>pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (99.2%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.2%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Blastoma Pulmonar (Pulmonary Blastoma) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methotrexate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

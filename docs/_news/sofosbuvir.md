@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre SOFOSBUVIR"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com SOFOSBUVIR. Indicação original: . 8 indicações previstas."
+description: "Notícias de saúde relacionadas com SOFOSBUVIR. Indicação original: . 1 indicações previstas."
 permalink: /news/sofosbuvir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre SOFOSBUVIR?">
-<strong>SOFOSBUVIR</strong> tem atualmente <strong>0 notícias</strong> e 8 indicações previstas.
+<strong>SOFOSBUVIR</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,15 +25,8 @@ Esta página combina as indicações previstas por IA para SOFOSBUVIR com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (8)</strong>:<ul>
-<li>hepatitis B virus infection (99.8%)</li>
-<li>hepatitis E virus infection (99.5%)</li>
-<li>hepatitis, viral, animal (99.5%)</li>
-<li>hepatitis A virus infection (99.5%)</li>
-<li>Omsk hemorrhagic fever (99.5%)</li>
-<li>chronic hepatitis B virus infection (99.5%)</li>
-<li>Kyasanur forest disease (99.5%)</li>
-<li>HIV infectious disease (99.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Infecção pelo vírus da hepatite B (Hepatitis B virus infection) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

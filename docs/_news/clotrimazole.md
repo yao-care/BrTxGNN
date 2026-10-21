@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Clotrimazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Clotrimazole. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Clotrimazole. Indicação original: . 1 indicações previstas."
 permalink: /news/clotrimazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clotrimazole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Clotrimazole?">
-<strong>Clotrimazole</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Clotrimazole</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Clotrimazole com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>acne (disease) (99.9%)</li>
-<li>vulvovaginitis (99.6%)</li>
-<li>postmenopausal atrophic vaginitis (99.5%)</li>
-<li>trichomonal vulvovaginitis (99.0%)</li>
-<li>tinea profunda (98.8%)</li>
-<li>ectothrix infectious disease (98.7%)</li>
-<li>Majocchi granuloma (98.7%)</li>
-<li>endothrix infectious disease (98.7%)</li>
-<li>superficial mycosis (98.6%)</li>
-<li>dermatophytosis of scalp or beard (98.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Vulvovaginite (vulvovaginitis) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

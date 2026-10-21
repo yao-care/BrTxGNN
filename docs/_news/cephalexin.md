@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Cephalexin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Cephalexin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Cephalexin. Indicação original: . 1 indicações previstas."
 permalink: /news/cephalexin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cephalexin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Cephalexin?">
-<strong>Cephalexin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Cephalexin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Cephalexin com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>chronic otitis media (98.5%)</li>
-<li>suppurative otitis media (98.5%)</li>
-<li>middle ear disease (98.5%)</li>
-<li>otosalpingitis (98.5%)</li>
-<li>non-suppurative otitis media (98.4%)</li>
-<li>allergic otitis media (98.3%)</li>
-<li>middle ear cholesterol granuloma (98.2%)</li>
-<li>hyperamylasemia (98.1%)</li>
-<li>polyclonal hyperviscosity syndrome (98.1%)</li>
-<li>congenital analbuminemia (97.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Otite Média Crônica (Chronic Otitis Media) (98.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cephalexin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

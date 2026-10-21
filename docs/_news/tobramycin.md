@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Tobramycin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tobramycin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Tobramycin. Indicação original: . 1 indicações previstas."
 permalink: /news/tobramycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tobramycin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tobramycin?">
-<strong>Tobramycin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Tobramycin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Tobramycin com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>exposure keratitis (99.9%)</li>
-<li>non-human animal disease (99.8%)</li>
-<li>otitis externa (99.8%)</li>
-<li>postinfectious vasculitis (99.8%)</li>
-<li>post-bacterial disorder (99.8%)</li>
-<li>post-infectious syndrome (99.8%)</li>
-<li>infective urethral stricture (99.8%)</li>
-<li>Chagas cardiomyopathy (99.8%)</li>
-<li>infection-related hemolytic uremic syndrome (99.8%)</li>
-<li>epidemic keratoconjunctivitis (99.4%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Ceratite por Exposição (Exposure Keratitis) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tobramycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

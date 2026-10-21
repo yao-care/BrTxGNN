@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Lactose"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Lactose. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Lactose. Indicação original: . 1 indicações previstas."
 permalink: /news/lactose/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lactose/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Lactose?">
-<strong>Lactose</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Lactose</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Lactose com as notíc
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>esophageal varices with bleeding (99.9%)</li>
-<li>esophageal varices without bleeding (99.9%)</li>
-<li>varicose disease (99.8%)</li>
-<li>Steel syndrome (99.7%)</li>
-<li>cystinosis (99.7%)</li>
-<li>growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant (99.6%)</li>
-<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (99.6%)</li>
-<li>Immunoerythromyeloid hypoplasia (99.5%)</li>
-<li>familial apolipoprotein C-II deficiency (99.5%)</li>
-<li>hypophosphatasia (99.4%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Varizes esofágicas com sangramento (esophageal varices with bleeding) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lactose/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

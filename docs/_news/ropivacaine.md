@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Ropivacaine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ropivacaine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Ropivacaine. Indicação original: . 1 indicações previstas."
 permalink: /news/ropivacaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ropivacaine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ropivacaine?">
-<strong>Ropivacaine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ropivacaine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Ropivacaine com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>migraine disorder (99.7%)</li>
-<li>migraine with brainstem aura (99.5%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.4%)</li>
-<li>dysthymic disorder (99.2%)</li>
-<li>fibromyalgia (99.0%)</li>
-<li>myofascial pain syndrome (99.0%)</li>
-<li>tendinitis (99.0%)</li>
-<li>idiopathic granulomatous myositis (98.9%)</li>
-<li>myositis fibrosa (98.9%)</li>
-<li>bronchitis (98.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Enxaqueca (Migraine Disorder) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ropivacaine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

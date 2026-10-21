@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Cyclobenzaprine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Cyclobenzaprine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Cyclobenzaprine. Indicação original: . 4 indicações previstas."
 permalink: /news/cyclobenzaprine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyclobenzaprine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Cyclobenzaprine?">
-<strong>Cyclobenzaprine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Cyclobenzaprine</strong> tem atualmente <strong>0 notícias</strong> e 4 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,11 @@ Esta página combina as indicações previstas por IA para Cyclobenzaprine com a
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>myofascial pain syndrome (99.1%)</li>
-<li>neuralgia (99.1%)</li>
-<li>papillary conjunctivitis (99.1%)</li>
-<li>migraine disorder (98.7%)</li>
-<li>migraine with brainstem aura (98.6%)</li>
-<li>cauda equina syndrome (98.0%)</li>
-<li>sciatic neuropathy (97.8%)</li>
-<li>glossodynia (97.7%)</li>
-<li>coccygodynia (97.7%)</li>
-<li>dysthymic disorder (97.5%)</li>
+<li><strong>Indicações previstas (4)</strong>:<ul>
+<li>Síndrome de Dor Miofascial (Myofascial Pain Syndrome) (99.1%)</li>
+<li>Neuralgia (99.1%)</li>
+<li>Enxaqueca (migraine disorder) (98.7%)</li>
+<li>Glossodinia (97.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclobenzaprine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

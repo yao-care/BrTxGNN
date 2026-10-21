@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Idursulfase"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Idursulfase. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Idursulfase. Indicação original: . 1 indicações previstas."
 permalink: /news/idursulfase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/idursulfase/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Idursulfase?">
-<strong>Idursulfase</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Idursulfase</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Idursulfase com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>ptosis-strabismus-ectopic pupils syndrome (97.9%)</li>
-<li>camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye (97.9%)</li>
-<li>congenital Horner syndrome (disease) (97.8%)</li>
-<li>ptosis-vocal cord paralysis syndrome (97.8%)</li>
-<li>ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome (97.7%)</li>
-<li>jaw-winking syndrome (97.7%)</li>
-<li>congenital entropion (97.6%)</li>
-<li>epiblepharon (97.5%)</li>
-<li>congenital ectropion (97.5%)</li>
-<li>Scheie syndrome (94.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome de ptose-estrabismo-pupilas ectópicas (ptosis-strabismus-ectopic pupils syndrome) (97.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/idursulfase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

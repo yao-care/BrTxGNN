@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Dexamethasone"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Dexamethasone. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Dexamethasone. Indicação original: . 1 indicações previstas."
 permalink: /news/dexamethasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexamethasone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Dexamethasone?">
-<strong>Dexamethasone</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Dexamethasone</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Dexamethasone com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>alopecia areata (100.0%)</li>
-<li>alopecia mucinosa (100.0%)</li>
-<li>telogen effluvium (100.0%)</li>
-<li>Quinquaud's folliculitis decalvans (100.0%)</li>
-<li>alopecia antibody deficiency (100.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
-<li>atrichia with papular lesions (100.0%)</li>
-<li>alopecia universalis onychodystrophy vitiligo (99.8%)</li>
-<li>prolapse of lacrimal gland (99.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Alopecia Areata (alopecia areata) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexamethasone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

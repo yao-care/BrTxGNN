@@ -26,16 +26,16 @@ Esta página combina as indicações previstas por IA para Norfloxacin com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>hyperamylasemia (99.7%)</li>
-<li>polyclonal hyperviscosity syndrome (99.7%)</li>
-<li>congenital analbuminemia (99.7%)</li>
-<li>blood group incompatibility (99.5%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.5%)</li>
-<li>premalignant hematological system disease (99.5%)</li>
-<li>diffuse scleroderma (99.4%)</li>
-<li>monoclonal gammopathy (99.4%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.4%)</li>
-<li>septicemic plague (99.4%)</li>
+<li>Hiperamilasemia (Hyperamylasemia) (99.7%)</li>
+<li>Polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade policlonal) (99.7%)</li>
+<li>Analbuminemia congênita (99.7%)</li>
+<li>Incompatibilidade de grupo sanguíneo (99.5%)</li>
+<li>Ceratoconjuntivite epitelial puntacta (99.5%)</li>
+<li>Doença hematológica pré-maligna (99.5%)</li>
+<li>Esclerodermia difusa (99.4%)</li>
+<li>Gamopatia monoclonal (99.4%)</li>
+<li>Doença hematológica associada a neuropatia periférica adquirida (99.4%)</li>
+<li>Peste septicêmica (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/norfloxacin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

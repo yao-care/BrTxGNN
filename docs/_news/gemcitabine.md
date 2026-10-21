@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Gemcitabine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Gemcitabine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Gemcitabine. Indicação original: . 1 indicações previstas."
 permalink: /news/gemcitabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gemcitabine?">
-<strong>Gemcitabine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Gemcitabine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Gemcitabine com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>female breast carcinoma (100.0%)</li>
-<li>rectum mucinous adenocarcinoma (99.8%)</li>
-<li>colon mucinous adenocarcinoma (99.8%)</li>
-<li>villoglandular endometrial endometrioid adenocarcinoma (99.8%)</li>
-<li>endometrial mixed adenocarcinoma (99.8%)</li>
-<li>endometrial mucinous adenocarcinoma (99.8%)</li>
-<li>cervical mucinous adenocarcinoma (99.8%)</li>
-<li>gallbladder mucinous adenocarcinoma (99.8%)</li>
-<li>rete ovarii adenocarcinoma (99.7%)</li>
-<li>mucin-rich endometrial endometrioid adenocarcinoma (99.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Carcinoma de Mama Feminino (Female Breast Carcinoma) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

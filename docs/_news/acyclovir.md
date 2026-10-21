@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Acyclovir"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Acyclovir. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Acyclovir. Indicação original: . 1 indicações previstas."
 permalink: /news/acyclovir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acyclovir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Acyclovir?">
-<strong>Acyclovir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Acyclovir</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Acyclovir com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.7%)</li>
-<li>common wart (99.5%)</li>
-<li>post-infectious neuralgia (99.2%)</li>
-<li>hepatitis C induced liver cirrhosis (99.2%)</li>
-<li>eosinophilic pustular folliculitis (99.2%)</li>
-<li>sequela of COVID-19 (99.2%)</li>
-<li>vulvovaginal candidiasis (99.1%)</li>
-<li>papular urticaria (99.1%)</li>
-<li>disease of orbital region (99.1%)</li>
-<li>epidemic keratoconjunctivitis (99.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Verrugas comuns (Common Wart) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acyclovir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

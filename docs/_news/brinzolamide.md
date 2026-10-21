@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Brinzolamide"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Brinzolamide. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Brinzolamide. Indicação original: . 1 indicações previstas."
 permalink: /news/brinzolamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brinzolamide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Brinzolamide?">
-<strong>Brinzolamide</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Brinzolamide</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Brinzolamide com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>primary hereditary glaucoma (99.5%)</li>
-<li>glaucoma 1, open angle (97.7%)</li>
-<li>glaucoma (96.9%)</li>
-<li>open angle glaucoma (96.7%)</li>
-<li>closed-angle glaucoma (96.6%)</li>
-<li>hydrophthalmos (96.5%)</li>
-<li>commissural lip fistula (96.0%)</li>
-<li>osteoradionecrosis of the mandible (95.9%)</li>
-<li>oral leukoedema (95.9%)</li>
-<li>burning mouth syndrome (95.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Glaucoma hereditário primário (primary hereditary glaucoma) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brinzolamide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

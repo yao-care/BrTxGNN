@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre PANTOPRAZOLE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com PANTOPRAZOLE. Indicação original: . 6 indicações previstas."
+description: "Notícias de saúde relacionadas com PANTOPRAZOLE. Indicação original: . 1 indicações previstas."
 permalink: /news/pantoprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pantoprazole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre PANTOPRAZOLE?">
-<strong>PANTOPRAZOLE</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
+<strong>PANTOPRAZOLE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,8 @@ Esta página combina as indicações previstas por IA para PANTOPRAZOLE com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (6)</strong>:<ul>
-<li>active peptic ulcer disease (99.7%)</li>
-<li>peptic ulcer perforation (99.6%)</li>
-<li>gastrojejunal ulcer (99.6%)</li>
-<li>duodenogastric reflux (99.3%)</li>
-<li>duodenal obstruction (99.2%)</li>
-<li>duodenal ulcer (disease) (99.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença ulcerosa péptica ativa (Active Peptic Ulcer Disease) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pantoprazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

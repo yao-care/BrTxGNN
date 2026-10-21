@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Copper"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Copper. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Copper. Indicação original: . 1 indicações previstas."
 permalink: /news/copper/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copper/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Copper?">
-<strong>Copper</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Copper</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Copper com as notíci
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>esotropia (96.2%)</li>
-<li>dermatitis (95.1%)</li>
-<li>acrodermatitis chronica atrophicans (93.8%)</li>
-<li>hydroa vacciniforme, familial (93.8%)</li>
-<li>neonatal dermatomyositis (93.5%)</li>
-<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (93.3%)</li>
-<li>acne keloid (93.3%)</li>
-<li>dry eye syndrome (93.3%)</li>
-<li>amyopathic dermatomyositis (93.2%)</li>
-<li>bone Paget disease (92.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Esotropia (esotropia) (96.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/copper/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

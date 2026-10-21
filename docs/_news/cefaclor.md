@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Cefaclor"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Cefaclor. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Cefaclor. Indicação original: . 1 indicações previstas."
 permalink: /news/cefaclor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cefaclor/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Cefaclor?">
-<strong>Cefaclor</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Cefaclor</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Cefaclor com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>polyclonal hyperviscosity syndrome (97.7%)</li>
-<li>hyperamylasemia (97.7%)</li>
-<li>Ureaplasma urethritis (97.5%)</li>
-<li>gonococcal urethritis (97.5%)</li>
-<li>congenital analbuminemia (97.3%)</li>
-<li>blood group incompatibility (96.9%)</li>
-<li>uterine inflammatory disease (96.8%)</li>
-<li>xanthogranulomatous pyelonephritis (96.7%)</li>
-<li>premalignant hematological system disease (96.6%)</li>
-<li>monoclonal gammopathy (96.4%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade policlonal) (97.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefaclor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

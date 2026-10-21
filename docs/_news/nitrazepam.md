@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre NITRAZEPAM"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com NITRAZEPAM. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com NITRAZEPAM. Indicação original: . 1 indicações previstas."
 permalink: /news/nitrazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nitrazepam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre NITRAZEPAM?">
-<strong>NITRAZEPAM</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>NITRAZEPAM</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Esta página combina as indicações previstas por IA para NITRAZEPAM com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>sleep disorder, initiating and maintaining sleep (99.9%)</li>
-<li>acute encephalopathy with biphasic seizures and late reduced diffusion (99.6%)</li>
-<li>Wernicke-Korsakoff syndrome (99.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Distúrbio do sono, com dificuldade de iniciar e manter o sono (Sleep disorder, initiating and maintaining sleep) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitrazepam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

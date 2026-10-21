@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre CLONAZEPAM"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CLONAZEPAM. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com CLONAZEPAM. Indicação original: . 1 indicações previstas."
 permalink: /news/clonazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clonazepam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre CLONAZEPAM?">
-<strong>CLONAZEPAM</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>CLONAZEPAM</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Esta página combina as indicações previstas por IA para CLONAZEPAM com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>restless legs syndrome (99.7%)</li>
-<li>insomnia (disease) (99.3%)</li>
-<li>trigeminal nerve neoplasm (99.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome das pernas inquietas (Restless Legs Syndrome) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clonazepam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

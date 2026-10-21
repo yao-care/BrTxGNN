@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Indacaterol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Indacaterol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Indacaterol. Indicação original: . 1 indicações previstas."
 permalink: /news/indacaterol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/indacaterol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Indacaterol?">
-<strong>Indacaterol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Indacaterol</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Indacaterol com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.5%)</li>
-<li>headache disorder (99.5%)</li>
-<li>trigeminal autonomic cephalalgia (99.3%)</li>
-<li>paratenonitis (99.3%)</li>
-<li>calcific tendinitis (99.2%)</li>
-<li>hypertrichosis (disease) (99.2%)</li>
-<li>bronchial disease (99.2%)</li>
-<li>myositis (99.1%)</li>
-<li>anaphylaxis (99.1%)</li>
-<li>Ambras type hypertrichosis universalis congenita (99.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença Brônquica (Bronchial Disease) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/indacaterol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

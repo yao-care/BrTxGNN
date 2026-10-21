@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Clozapine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Clozapine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Clozapine. Indicação original: . 1 indicações previstas."
 permalink: /news/clozapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clozapine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Clozapine?">
-<strong>Clozapine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Clozapine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Clozapine com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>manic bipolar affective disorder (100.0%)</li>
-<li>Tourette syndrome (99.9%)</li>
-<li>trichotillomania (99.9%)</li>
-<li>schizophreniform disorder (99.7%)</li>
-<li>bipolar disorder (99.6%)</li>
-<li>major affective disorder (99.5%)</li>
-<li>attention deficit-hyperactivity disorder (99.3%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (99.2%)</li>
-<li>psychotic disorder (99.1%)</li>
-<li>Malan overgrowth syndrome (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clozapine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

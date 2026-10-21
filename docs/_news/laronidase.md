@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Laronidase"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Laronidase. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Laronidase. Indicação original: . 1 indicações previstas."
 permalink: /news/laronidase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/laronidase/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Laronidase?">
-<strong>Laronidase</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Laronidase</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Laronidase com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>lysosomal storage disease with skeletal involvement (99.3%)</li>
-<li>Sanfilippo syndrome (99.2%)</li>
-<li>lysosomal disease with hypertrophic cardiomyopathy (98.8%)</li>
-<li>syndromic neurometabolic disease with X-linked intellectual disability (98.7%)</li>
-<li>eyelids malposition disorder (98.7%)</li>
-<li>camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye (98.6%)</li>
-<li>ptosis-strabismus-ectopic pupils syndrome (98.6%)</li>
-<li>inborn disorder of lysosomal amino acid transport (98.6%)</li>
-<li>ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome (98.6%)</li>
-<li>ptosis-vocal cord paralysis syndrome (98.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença lisossômica com acometimento esquelético (lysosomal storage disease with skeletal involvement) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/laronidase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

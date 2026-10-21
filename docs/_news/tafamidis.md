@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Tafamidis"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tafamidis. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Tafamidis. Indicação original: . 1 indicações previstas."
 permalink: /news/tafamidis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tafamidis/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tafamidis?">
-<strong>Tafamidis</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Tafamidis</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Tafamidis com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>primary release disorder of platelets (89.3%)</li>
-<li>thrombocytopenic purpura (88.7%)</li>
-<li>pseudo-von Willebrand disease (87.9%)</li>
-<li>Glanzmann thrombasthenia (85.8%)</li>
-<li>primary amyloidosis (85.0%)</li>
-<li>acquired amyloid peripheral neuropathy (84.8%)</li>
-<li>primary hyperoxaluria (84.3%)</li>
-<li>dermis disease (83.4%)</li>
-<li>biotin metabolic disease (83.3%)</li>
-<li>mixed-type autoimmune hemolytic anemia (82.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Amiloidose primária (primary amyloidosis) (85.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tafamidis/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

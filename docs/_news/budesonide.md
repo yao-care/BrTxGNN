@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre BUDESONIDE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com BUDESONIDE. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com BUDESONIDE. Indicação original: . 1 indicações previstas."
 permalink: /news/budesonide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre BUDESONIDE?">
-<strong>BUDESONIDE</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>BUDESONIDE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para BUDESONIDE com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>atopic eczema (100.0%)</li>
-<li>bronchitis (99.8%)</li>
-<li>dermatitis, atopic (99.8%)</li>
-<li>polyp of vocal cord (99.7%)</li>
-<li>polyp of middle ear (99.7%)</li>
-<li>epulis (99.7%)</li>
-<li>fibroepithelial polyp (99.7%)</li>
-<li>uterine polyp (99.7%)</li>
-<li>polyp of frontal sinus (99.7%)</li>
-<li>polyp of external auditory canal (99.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Eczema atópico (Atopic Eczema) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

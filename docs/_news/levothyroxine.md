@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Levothyroxine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Levothyroxine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Levothyroxine. Indicação original: . 6 indicações previstas."
 permalink: /news/levothyroxine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levothyroxine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Levothyroxine?">
-<strong>Levothyroxine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Levothyroxine</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,13 @@ Esta página combina as indicações previstas por IA para Levothyroxine com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>endemic goiter (99.8%)</li>
-<li>renal hypodysplasia/aplasia (99.7%)</li>
-<li>nodular goiter (disease) (99.6%)</li>
-<li>bilateral renal agenesis (99.6%)</li>
-<li>nontoxic goiter (99.4%)</li>
-<li>lingual goiter (99.4%)</li>
-<li>dyshormonogenic goiter (99.4%)</li>
-<li>substernal goiter (99.4%)</li>
-<li>Potter sequence (99.3%)</li>
-<li>Carney complex (99.2%)</li>
+<li><strong>Indicações previstas (6)</strong>:<ul>
+<li>Bócio nodular (Nodular Goiter) (99.6%)</li>
+<li>Bócio endêmico (99.8%)</li>
+<li>Bócio não tóxico (99.4%)</li>
+<li>Bócio lingual (99.4%)</li>
+<li>Bócio disormonogênico (99.4%)</li>
+<li>Bócio subesternal (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levothyroxine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

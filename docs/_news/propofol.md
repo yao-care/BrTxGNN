@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Propofol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Propofol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Propofol. Indicação original: . 1 indicações previstas."
 permalink: /news/propofol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/propofol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Propofol?">
-<strong>Propofol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Propofol</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Propofol com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>migraine disorder (99.7%)</li>
-<li>migraine with brainstem aura (99.6%)</li>
-<li>Prinzmetal angina (99.2%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.2%)</li>
-<li>Tourette syndrome (99.0%)</li>
-<li>tendinitis (98.9%)</li>
-<li>idiopathic granulomatous myositis (98.8%)</li>
-<li>myositis fibrosa (98.8%)</li>
-<li>fibromyalgia (98.8%)</li>
-<li>atrophoderma vermiculata (98.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Enxaqueca (Migraine Disorder) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/propofol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

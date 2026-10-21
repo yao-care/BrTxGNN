@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre PEGASPARGASE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com PEGASPARGASE. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com PEGASPARGASE. Indicação original: . 1 indicações previstas."
 permalink: /news/pegaspargase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pegaspargase/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre PEGASPARGASE?">
-<strong>PEGASPARGASE</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>PEGASPARGASE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para PEGASPARGASE com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>precursor lymphoblastic lymphoma/leukemia (100.0%)</li>
-<li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (100.0%)</li>
-<li>pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (100.0%)</li>
-<li>follicular lymphoma (99.9%)</li>
-<li>acute lymphoblastic leukemia (99.9%)</li>
-<li>methylcobalamin deficiency type cblE (99.7%)</li>
-<li>lymphoid neoplasm (99.7%)</li>
-<li>Hodgkins lymphoma (99.7%)</li>
-<li>chronic lymphocytic leukemia/small lymphocytic lymphoma (99.7%)</li>
-<li>blast phase chronic myelogenous leukemia, BCR-ABL1 positive (99.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Linfoma/leucemia linfoblástica precursora (precursor lymphoblastic lymphoma/leukemia) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pegaspargase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Gadoteridol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Gadoteridol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Gadoteridol. Indicação original: . 1 indicações previstas."
 permalink: /news/gadoteridol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gadoteridol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gadoteridol?">
-<strong>Gadoteridol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Gadoteridol</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Gadoteridol com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>osteoarthritis susceptibility (98.9%)</li>
-<li>osteoarthritis (98.8%)</li>
-<li>rheumatoid arthritis (98.7%)</li>
-<li>brachyolmia (98.0%)</li>
-<li>hemoglobinopathy (97.9%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (97.9%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (97.9%)</li>
-<li>congestive heart failure (97.8%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (97.8%)</li>
-<li>myosclerosis (97.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Suscetibilidade à osteoartrite (osteoarthritis susceptibility) (98.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gadoteridol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

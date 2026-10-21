@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Bimatoprost"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Bimatoprost. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Bimatoprost. Indicação original: . 1 indicações previstas."
 permalink: /news/bimatoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bimatoprost/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Bimatoprost?">
-<strong>Bimatoprost</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Bimatoprost</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Bimatoprost com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
-<li>isolated genetic hair shaft abnormality (100.0%)</li>
-<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
-<li>hypotrichosis simplex of the scalp (100.0%)</li>
-<li>congenital hypotrichosis milia (100.0%)</li>
-<li>diffuse alopecia areata (100.0%)</li>
-<li>alopecia (100.0%)</li>
-<li>genetic alopecia (100.0%)</li>
-<li>pulmonary arteriovenous malformation (disease) (100.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Alopecia (Alopecia) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bimatoprost/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

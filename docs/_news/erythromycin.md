@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Erythromycin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Erythromycin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Erythromycin. Indicação original: . 1 indicações previstas."
 permalink: /news/erythromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/erythromycin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Erythromycin?">
-<strong>Erythromycin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Erythromycin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Erythromycin com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.9%)</li>
-<li>acute contagious conjunctivitis (99.5%)</li>
-<li>exposure keratitis (99.5%)</li>
-<li>lymphogranuloma venereum (99.0%)</li>
-<li>necrotizing ulcerative gingivitis (99.0%)</li>
-<li>polyclonal hyperviscosity syndrome (98.8%)</li>
-<li>hyperamylasemia (98.8%)</li>
-<li>postinfectious vasculitis (98.8%)</li>
-<li>post-bacterial disorder (98.8%)</li>
-<li>post-infectious syndrome (98.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erythromycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

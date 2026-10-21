@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre CALCITRIOL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CALCITRIOL. Indicação original: . 7 indicações previstas."
+description: "Notícias de saúde relacionadas com CALCITRIOL. Indicação original: . 1 indicações previstas."
 permalink: /news/calcitriol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/calcitriol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre CALCITRIOL?">
-<strong>CALCITRIOL</strong> tem atualmente <strong>0 notícias</strong> e 7 indicações previstas.
+<strong>CALCITRIOL</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,8 @@ Esta página combina as indicações previstas por IA para CALCITRIOL com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (7)</strong>:<ul>
-<li>obsolete vitamin D deficiency (100.0%)</li>
-<li>renal tubular acidosis (99.9%)</li>
-<li>familial isolated hypoparathyroidism due to impaired PTH secretion (99.8%)</li>
-<li>acromesomelic dysplasia, Campailla Martinelli type (99.8%)</li>
-<li>craniofacial conodysplasia (99.8%)</li>
-<li>Dahlberg-Borer-Newcomer syndrome (99.8%)</li>
-<li>hereditary hypophosphatemic rickets (99.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Raquitismo hipofosfatêmico hereditário (Hereditary Hypophosphatemic Rickets) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcitriol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

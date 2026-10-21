@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Phenobarbital"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Phenobarbital. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com Phenobarbital. Indicação original: . 10 indicações previstas."
 permalink: /news/phenobarbital/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phenobarbital/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Phenobarbital?">
-<strong>Phenobarbital</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>Phenobarbital</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para Phenobarbital com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Convulsões induzidas pela micção | 99,96% | L4 | Evidência geral sobre convulsões (inclui 1 RCT neonatal comparando levetiracetam e fenobarbital); nada específico (99.0%)</li>
-<li>Convulsões induzidas pelo orgasmo | 99,96% | L5 | Apenas previsão; sem literatura (99.0%)</li>
-<li>Convulsões alimentares | 99,96% | L4 | Relatos de caso isolados (99.0%)</li>
-<li>Convulsões audiogênicas | 99,96% | L4 | Quase só estudos pré-clínicos; um estudo sugere possível sinal de segurança (99.0%)</li>
-<li>Epilepsia do sobressalto | 99,96% | L4 | Literatura sem evidência de eficácia (99.0%)</li>
-<li>Convulsões do pensamento | 99,96% | L4 | Literatura geral, sem especificidade (99.0%)</li>
-<li>Convulsões da leitura | 99,96% | L4 | Sem evidência direta (99.0%)</li>
-<li>Neuralgia do trigêmeo | 99,88% | L4 | Carbamazepina é a primeira linha; fenobarbital é indutor de CYP e complicaria o esquema (99.0%)</li>
-<li>Deficiência de beta-cetotiolase | 99,81% | L5 | Sem papel mecanístico conhecido; provável artefato (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Neoplasia do Nervo Trigêmeo (Trigeminal Nerve Neoplasm) (100.0%)</li>
+<li>Convulsões induzidas pela micção (100.0%)</li>
+<li>Convulsões induzidas pelo orgasmo (100.0%)</li>
+<li>Convulsões alimentares (100.0%)</li>
+<li>Convulsões audiogênicas (100.0%)</li>
+<li>Epilepsia do sobressalto (100.0%)</li>
+<li>Convulsões do pensamento (100.0%)</li>
+<li>Convulsões da leitura (100.0%)</li>
+<li>Neuralgia do trigêmeo (99.9%)</li>
+<li>Deficiência de beta-cetotiolase (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenobarbital/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

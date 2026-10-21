@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre MIRTAZAPINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com MIRTAZAPINE. Indicação original: . 5 indicações previstas."
+description: "Notícias de saúde relacionadas com MIRTAZAPINE. Indicação original: . 1 indicações previstas."
 permalink: /news/mirtazapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mirtazapine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre MIRTAZAPINE?">
-<strong>MIRTAZAPINE</strong> tem atualmente <strong>0 notícias</strong> e 5 indicações previstas.
+<strong>MIRTAZAPINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ Esta página combina as indicações previstas por IA para MIRTAZAPINE com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (5)</strong>:<ul>
-<li>Mirtazapina | Não informada | Antidepressivos (99.0%)</li>
-<li>Razapina | Não informada | Antidepressivos (99.0%)</li>
-<li>Mirtazapina | Não informada | Antidepressivos (99.0%)</li>
-<li>Mirtazapina | Não informada | Antidepressivos (99.0%)</li>
-<li>Remeron | Não informada | Antidepressivos (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome de Ohdo e variantes (Ohdo syndrome and variants) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mirtazapine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

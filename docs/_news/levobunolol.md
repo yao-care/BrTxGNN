@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Levobunolol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Levobunolol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Levobunolol. Indicação original: . 1 indicações previstas."
 permalink: /news/levobunolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levobunolol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Levobunolol?">
-<strong>Levobunolol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Levobunolol</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Levobunolol com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>primary hereditary glaucoma (100.0%)</li>
-<li>glaucoma 1, open angle (99.6%)</li>
-<li>open angle glaucoma (99.5%)</li>
-<li>Axenfeld anomaly (96.8%)</li>
-<li>closed-angle glaucoma (96.7%)</li>
-<li>hydrophthalmos (93.8%)</li>
-<li>chronic tic disorder (93.4%)</li>
-<li>extrapyramidal and movement disease (93.2%)</li>
-<li>benign shuddering attacks (93.2%)</li>
-<li>glaucoma (91.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Glaucoma hereditário primário (primary hereditary glaucoma) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levobunolol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

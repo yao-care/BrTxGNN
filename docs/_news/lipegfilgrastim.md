@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre LIPEGFILGRASTIM"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LIPEGFILGRASTIM. Indicação original: . 4 indicações previstas."
+description: "Notícias de saúde relacionadas com LIPEGFILGRASTIM. Indicação original: . 5 indicações previstas."
 permalink: /news/lipegfilgrastim/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lipegfilgrastim/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre LIPEGFILGRASTIM?">
-<strong>LIPEGFILGRASTIM</strong> tem atualmente <strong>0 notícias</strong> e 4 indicações previstas.
+<strong>LIPEGFILGRASTIM</strong> tem atualmente <strong>0 notícias</strong> e 5 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,12 @@ Esta página combina as indicações previstas por IA para LIPEGFILGRASTIM com a
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (4)</strong>:<ul>
-<li>Retinopatia diabética não proliferativa grave | 99,91% | Ligação especulativa via mobilização de progenitores e reparo vascular; o efeito poderia até ser prejudicial (neovascularização, inflamação) (99.0%)</li>
-<li>Pseudo-doença de von Willebrand | 99,91% | Causada por mutações de ganho de função em GP1BA; nenhum mecanismo plausível para um fator de crescimento de neutrófilos (99.0%)</li>
-<li>Trombastenia de Glanzmann | 99,91% | Defeito da integrina αIIbβ3; o lipegfilgrastim não corrigiria esse defeito (99.0%)</li>
-<li>Retinopatia diabética | 99,75% | Conexão apenas indireta e de direção incerta (99.0%)</li>
+<li><strong>Indicações previstas (5)</strong>:<ul>
+<li>Distúrbio primário de liberação plaquetária (primary release disorder of platelets) (99.9%)</li>
+<li>Retinopatia diabética não proliferativa grave (99.9%)</li>
+<li>Pseudo-doença de von Willebrand (99.9%)</li>
+<li>Trombastenia de Glanzmann (99.9%)</li>
+<li>Retinopatia diabética (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lipegfilgrastim/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

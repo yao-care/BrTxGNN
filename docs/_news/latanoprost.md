@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre LATANOPROST"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LATANOPROST. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com LATANOPROST. Indicação original: . 10 indicações previstas."
 permalink: /news/latanoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/latanoprost/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre LATANOPROST?">
-<strong>LATANOPROST</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>LATANOPROST</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para LATANOPROST com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Calcifilaxia visceral | 99,83% | Hold, sem vínculo mecanístico claro (99.0%)</li>
-<li>Hipotricose simples do couro cabeludo | 99,81% | Pergunta de pesquisa; plausível pelo efeito de prostaglandinas no ciclo do folículo piloso (fase anágena) (99.0%)</li>
-<li>Síndrome do desfiladeiro torácico venosa | 99,78% | Hold (99.0%)</li>
-<li>Síndrome do desfiladeiro torácico arterial | 99,78% | Hold (99.0%)</li>
-<li>Síndrome do desfiladeiro torácico neurogênica | 99,72% | Hold (99.0%)</li>
-<li>Hipotricose congênita com milia | 99,71% | Pergunta de pesquisa; mesma lógica da hipotricose (99.0%)</li>
-<li>Angiodisplasia do estômago | 99,70% | Hold (99.0%)</li>
-<li>Síndrome do dedo azul | 99,69% | Hold (99.0%)</li>
-<li>Linfangiectasia | 99,67% | Hold (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Glaucoma Hereditário Primário (Primary Hereditary Glaucoma) (99.9%)</li>
+<li>Calcifilaxia visceral (99.8%)</li>
+<li>Hipotricose simples do couro cabeludo (99.8%)</li>
+<li>Síndrome do desfiladeiro torácico venosa (99.8%)</li>
+<li>Síndrome do desfiladeiro torácico arterial (99.8%)</li>
+<li>Síndrome do desfiladeiro torácico neurogênica (99.7%)</li>
+<li>Hipotricose congênita com milia (99.7%)</li>
+<li>Angiodisplasia do estômago (99.7%)</li>
+<li>Síndrome do dedo azul (99.7%)</li>
+<li>Linfangiectasia (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/latanoprost/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

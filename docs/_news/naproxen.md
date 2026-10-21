@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre NAPROXEN"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com NAPROXEN. Indicação original: . 4 indicações previstas."
+description: "Notícias de saúde relacionadas com NAPROXEN. Indicação original: . 1 indicações previstas."
 permalink: /news/naproxen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/naproxen/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre NAPROXEN?">
-<strong>NAPROXEN</strong> tem atualmente <strong>0 notícias</strong> e 4 indicações previstas.
+<strong>NAPROXEN</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,8 @@ Esta página combina as indicações previstas por IA para NAPROXEN com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (4)</strong>:<ul>
-<li>brachydactyly-syndactyly syndrome (99.3%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.2%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.2%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/naproxen/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Zanamivir"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Zanamivir. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com Zanamivir. Indicação original: . 10 indicações previstas."
 permalink: /news/zanamivir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zanamivir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Zanamivir?">
-<strong>Zanamivir</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>Zanamivir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para Zanamivir com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Distúrbio do metabolismo da tirosina | 99,02% | Três artigos recuperados tratam de resistência à neuraminidase na influenza, sem relação biológica com a doença (correspondência por palavras-chave) (99.0%)</li>
-<li>Síndrome de Pierre Robin teratogênica | 98,94% | Sem vínculo mecanístico; condição craniofacial congênita (99.0%)</li>
-<li>Distúrbio do metabolismo da fenilalanina | 98,86% | Sem vínculo mecanístico (99.0%)</li>
-<li>Hiperfenilalaninemia/fenilcetonúria responsiva à tetraidrobiopterina | 98,41% | Sem vínculo mecanístico (99.0%)</li>
-<li>Suscetibilidade à doença dos legionários | 98,40% | Vínculo fraco e especulativo (pneumonia bacteriana) (99.0%)</li>
-<li>Suscetibilidade à infecção por HIV | 98,40% | O único artigo recuperado trata de mutações em influenza H1N1, não de HIV (99.0%)</li>
-<li>Suscetibilidade ao vírus da dengue | 98,40% | O flavivírus não depende de neuraminidase (99.0%)</li>
-<li>Suscetibilidade à aspergilose | 98,40% | Sem atividade antifúngica conhecida (99.0%)</li>
-<li>Suscetibilidade à infecção por *Schistosoma mansoni* | 98,35% | Sem vínculo mecanístico (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Pielonefrite (Pyelonephritis) (99.8%)</li>
+<li>Distúrbio do metabolismo da tirosina (99.0%)</li>
+<li>Síndrome de Pierre Robin teratogênica (98.9%)</li>
+<li>Distúrbio do metabolismo da fenilalanina (98.9%)</li>
+<li>Hiperfenilalaninemia/fenilcetonúria responsiva à tetraidrobiopterina (98.4%)</li>
+<li>Suscetibilidade à doença dos legionários (98.4%)</li>
+<li>Suscetibilidade à infecção por HIV (98.4%)</li>
+<li>Suscetibilidade ao vírus da dengue (98.4%)</li>
+<li>Suscetibilidade à aspergilose (98.4%)</li>
+<li>Suscetibilidade à infecção por *Schistosoma mansoni* (98.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zanamivir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

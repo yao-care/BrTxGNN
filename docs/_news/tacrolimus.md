@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre TACROLIMUS"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com TACROLIMUS. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com TACROLIMUS. Indicação original: . 1 indicações previstas."
 permalink: /news/tacrolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TACROLIMUS?">
-<strong>TACROLIMUS</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>TACROLIMUS</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Esta página combina as indicações previstas por IA para TACROLIMUS com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>seborrheic dermatitis (99.3%)</li>
-<li>parapsoriasis (99.2%)</li>
-<li>dermatitis (99.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Dermatite seborreica (Seborrheic Dermatitis) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

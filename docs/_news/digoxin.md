@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre DIGOXIN"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com DIGOXIN. Indicação original: . 6 indicações previstas."
+description: "Notícias de saúde relacionadas com DIGOXIN. Indicação original: . 1 indicações previstas."
 permalink: /news/digoxin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/digoxin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre DIGOXIN?">
-<strong>DIGOXIN</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
+<strong>DIGOXIN</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,8 @@ Esta página combina as indicações previstas por IA para DIGOXIN com as notíc
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (6)</strong>:<ul>
-<li>Prinzmetal angina (99.8%)</li>
-<li>duodenal obstruction (99.7%)</li>
-<li>duodenal ulcer (disease) (99.6%)</li>
-<li>duodenogastric reflux (99.5%)</li>
-<li>obsolete susceptibility to ischemic stroke (99.3%)</li>
-<li>hypoalphalipoproteinemia (99.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Angina de Prinzmetal (Prinzmetal angina) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/digoxin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

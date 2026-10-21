@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Prednisolone"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Prednisolone. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Prednisolone. Indicação original: . 5 indicações previstas."
 permalink: /news/prednisolone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prednisolone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Prednisolone?">
-<strong>Prednisolone</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Prednisolone</strong> tem atualmente <strong>0 notícias</strong> e 5 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ Esta página combina as indicações previstas por IA para Prednisolone com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>alopecia areata (100.0%)</li>
-<li>alopecia mucinosa (100.0%)</li>
-<li>telogen effluvium (100.0%)</li>
-<li>Quinquaud's folliculitis decalvans (100.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
-<li>alopecia antibody deficiency (100.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
-<li>atrichia with papular lesions (99.9%)</li>
-<li>prolapse of lacrimal gland (99.9%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.9%)</li>
+<li><strong>Indicações previstas (5)</strong>:<ul>
+<li>Alopecia Areata (alopecia areata) (100.0%)</li>
+<li>Síndrome nefrótica idiopática sensível a esteroides (99.9%)</li>
+<li>Mucinose folicular (alopecia mucinosa) (100.0%)</li>
+<li>Foliculite decalvante (100.0%)</li>
+<li>Eflúvio telógeno (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prednisolone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

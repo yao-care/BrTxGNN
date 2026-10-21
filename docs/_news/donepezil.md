@@ -26,14 +26,14 @@ Esta página combina as indicações previstas por IA para DONEPEZIL com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (8)</strong>:<ul>
-<li>psychogenic movement disorders (99.2%)</li>
-<li>chronic tic disorder (99.2%)</li>
-<li>primary orthostatic tremor (99.2%)</li>
-<li>benign shuddering attacks (99.2%)</li>
-<li>extrapyramidal and movement disease (99.2%)</li>
-<li>tremor-nystagmus-duodenal ulcer syndrome (99.2%)</li>
-<li>benign paroxysmal tonic upgaze of childhood with ataxia (99.1%)</li>
-<li>lingual-facial-buccal dyskinesia (99.0%)</li>
+<li>Transtorno de Tique Crônico (Chronic Tic Disorder) (99.2%)</li>
+<li>Transtornos de movimento psicogênicos (99.2%)</li>
+<li>Tremor ortostático primário (99.2%)</li>
+<li>Ataques de tremor benignos (shuddering) (99.2%)</li>
+<li>Doença extrapiramidal e transtornos de movimento (99.2%)</li>
+<li>Síndrome tremor-nistagmo-úlcera duodenal (99.2%)</li>
+<li>Ataque tônico paroxístico do olhar para cima com ataxia (99.1%)</li>
+<li>Discinesia língua-face-bucal (discinesia tardia orofacial) (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/donepezil/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

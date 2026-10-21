@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre THEOPHYLLINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com THEOPHYLLINE. Indicação original: . 7 indicações previstas."
+description: "Notícias de saúde relacionadas com THEOPHYLLINE. Indicação original: . 1 indicações previstas."
 permalink: /news/theophylline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/theophylline/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre THEOPHYLLINE?">
-<strong>THEOPHYLLINE</strong> tem atualmente <strong>0 notícias</strong> e 7 indicações previstas.
+<strong>THEOPHYLLINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,8 @@ Esta página combina as indicações previstas por IA para THEOPHYLLINE com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (7)</strong>:<ul>
-<li>thrombotic disease (99.6%)</li>
-<li>nasal cavity disease (99.5%)</li>
-<li>laryngotracheitis (99.5%)</li>
-<li>tracheal disease (99.5%)</li>
-<li>obstructive lung disease (99.5%)</li>
-<li>pharyngitis (99.5%)</li>
-<li>acute laryngopharyngitis (99.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença trombótica (thrombotic disease) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/theophylline/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

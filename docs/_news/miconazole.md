@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Miconazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Miconazole. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Miconazole. Indicação original: . 1 indicações previstas."
 permalink: /news/miconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/miconazole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Miconazole?">
-<strong>Miconazole</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Miconazole</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Miconazole com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>acne (disease) (99.5%)</li>
-<li>gastrin secretion abnormality (98.8%)</li>
-<li>papillary conjunctivitis (98.0%)</li>
-<li>tinea profunda (97.2%)</li>
-<li>Majocchi granuloma (97.1%)</li>
-<li>ectothrix infectious disease (97.1%)</li>
-<li>superficial mycosis (97.0%)</li>
-<li>endothrix infectious disease (97.0%)</li>
-<li>dermatophytosis of scalp or beard (96.9%)</li>
-<li>blastomycosis (95.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Acne (acne vulgaris) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/miconazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -26,15 +26,15 @@ Esta página combina as indicações previstas por IA para TOPIRAMATE com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (9)</strong>:<ul>
-<li>trigeminal nerve neoplasm (99.7%)</li>
-<li>visual epilepsy (99.3%)</li>
-<li>thinking seizures (99.2%)</li>
-<li>orgasm-induced seizures (99.2%)</li>
-<li>micturation-induced seizures (99.2%)</li>
-<li>eating seizures (99.2%)</li>
-<li>audiogenic seizures (99.2%)</li>
-<li>startle epilepsy (99.2%)</li>
-<li>reading seizures (99.1%)</li>
+<li>Neoplasma do nervo trigêmeo (trigeminal nerve neoplasm) (99.7%)</li>
+<li>Epilepsia visual (99.3%)</li>
+<li>Crises de pensamento (99.2%)</li>
+<li>Crises induzidas por micção (99.2%)</li>
+<li>Crises alimentares (99.2%)</li>
+<li>Crises audiogênicas (99.2%)</li>
+<li>Crises de leitura (99.1%)</li>
+<li>Crises induzidas por orgasmo (99.2%)</li>
+<li>Epilepsia de sobressalto (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/topiramate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

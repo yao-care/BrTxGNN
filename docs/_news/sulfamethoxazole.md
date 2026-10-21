@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Sulfamethoxazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Sulfamethoxazole. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Sulfamethoxazole. Indicação original: . 1 indicações previstas."
 permalink: /news/sulfamethoxazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sulfamethoxazole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Sulfamethoxazole?">
-<strong>Sulfamethoxazole</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Sulfamethoxazole</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Sulfamethoxazole com 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>acute contagious conjunctivitis (99.6%)</li>
-<li>punctate epithelial keratoconjunctivitis (98.7%)</li>
-<li>exposure keratitis (97.4%)</li>
-<li>endocardial fibroelastosis (96.9%)</li>
-<li>postinfectious vasculitis (96.3%)</li>
-<li>post-bacterial disorder (96.2%)</li>
-<li>parasitic eyelid infestation (96.1%)</li>
-<li>post-infectious syndrome (96.0%)</li>
-<li>ulcerative blepharitis (96.0%)</li>
-<li>blepharoconjunctivitis (95.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Conjuntivite contagiosa aguda (acute contagious conjunctivitis) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sulfamethoxazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Bacitracin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Bacitracin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Bacitracin. Indicação original: . 7 indicações previstas."
 permalink: /news/bacitracin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bacitracin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Bacitracin?">
-<strong>Bacitracin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Bacitracin</strong> tem atualmente <strong>0 notícias</strong> e 7 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,14 @@ Esta página combina as indicações previstas por IA para Bacitracin com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (100.0%)</li>
-<li>exposure keratitis (100.0%)</li>
-<li>non-human animal disease (100.0%)</li>
-<li>otitis externa (100.0%)</li>
-<li>postinfectious vasculitis (100.0%)</li>
-<li>post-bacterial disorder (100.0%)</li>
-<li>infective urethral stricture (100.0%)</li>
-<li>post-infectious syndrome (100.0%)</li>
-<li>infection-related hemolytic uremic syndrome (100.0%)</li>
-<li>Chagas cardiomyopathy (100.0%)</li>
+<li><strong>Indicações previstas (7)</strong>:<ul>
+<li>Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (100.0%)</li>
+<li>Ceratite por exposição (100.0%)</li>
+<li>Otite externa (100.0%)</li>
+<li>Doença animal não humana (100.0%)</li>
+<li>Estenose uretral infecciosa (100.0%)</li>
+<li>Síndrome hemolítico-urêmica associada a infecção (100.0%)</li>
+<li>Cardiomiopatia chagásica (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bacitracin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

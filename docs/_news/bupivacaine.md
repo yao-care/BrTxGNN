@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre BUPIVACAINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com BUPIVACAINE. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com BUPIVACAINE. Indicação original: . 4 indicações previstas."
 permalink: /news/bupivacaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bupivacaine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre BUPIVACAINE?">
-<strong>BUPIVACAINE</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>BUPIVACAINE</strong> tem atualmente <strong>0 notícias</strong> e 4 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,11 @@ Esta página combina as indicações previstas por IA para BUPIVACAINE com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>Dermatomiosite neonatal | 99,15% | Bloqueio de canais de sódio não atua na vasculopatia imunomediada; miotoxicidade em altas concentrações locais é preocupação em população miopática, sobretudo neonatos (99.0%)</li>
-<li>Doença pulmonar intersticial secundária da infância associada a doença do tecido conjuntivo | 99,11% | Doença guiada por desregulação imune e fibrose; risco de cardiotoxicidade sistêmica em crianças (99.0%)</li>
-<li>Dermatomiosite amiopática | 99,03% | Sem mecanismo estabelecido sobre a doença cutânea dirigida por interferon; miotoxicidade a considerar (99.0%)</li>
+<li><strong>Indicações previstas (4)</strong>:<ul>
+<li>Acrodermatite crônica atrófica (Acrodermatitis chronica atrophicans) (99.2%)</li>
+<li>Dermatomiosite neonatal (99.2%)</li>
+<li>Doença pulmonar intersticial secundária da infância associada a doença do tecido conjuntivo (99.1%)</li>
+<li>Dermatomiosite amiopática (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bupivacaine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

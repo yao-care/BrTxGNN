@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Apixaban"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Apixaban. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Apixaban. Indicação original: . 1 indicações previstas."
 permalink: /news/apixaban/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/apixaban/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Apixaban?">
-<strong>Apixaban</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Apixaban</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Apixaban com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>migraine disorder (99.0%)</li>
-<li>migraine with or without aura, susceptibility to (98.9%)</li>
-<li>leprosy (98.9%)</li>
-<li>rheumatoid arthritis (98.9%)</li>
-<li>migraine with brainstem aura (98.8%)</li>
-<li>Prinzmetal angina (98.4%)</li>
-<li>brachydactyly-syndactyly syndrome (98.2%)</li>
-<li>pulmonary hypertension (98.1%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (98.0%)</li>
-<li>kyphoscoliotic heart disease (97.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Transtorno de Enxaqueca (Migraine Disorder) (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/apixaban/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

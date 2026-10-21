@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Azithromycin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Azithromycin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Azithromycin. Indicação original: . 1 indicações previstas."
 permalink: /news/azithromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/azithromycin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Azithromycin?">
-<strong>Azithromycin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Azithromycin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Azithromycin com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>hyperamylasemia (99.8%)</li>
-<li>polyclonal hyperviscosity syndrome (99.8%)</li>
-<li>congenital analbuminemia (99.8%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.8%)</li>
-<li>blood group incompatibility (99.7%)</li>
-<li>premalignant hematological system disease (99.6%)</li>
-<li>monoclonal gammopathy (99.6%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.6%)</li>
-<li>septicemic plague (99.5%)</li>
-<li>congenital hematological disorder (99.4%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hiperamilasemia (Hyperamylasemia) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

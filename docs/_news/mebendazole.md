@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Mebendazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Mebendazole. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Mebendazole. Indicação original: . 1 indicações previstas."
 permalink: /news/mebendazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mebendazole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Mebendazole?">
-<strong>Mebendazole</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Mebendazole</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Mebendazole com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>acne (disease) (99.2%)</li>
-<li>leishmaniasis, diffuse cutaneous (98.4%)</li>
-<li>echinococcus granulosus infectious disease (95.6%)</li>
-<li>hordeolum (94.9%)</li>
-<li>alveolar echinococcosis (94.2%)</li>
-<li>inhalational botulism (93.8%)</li>
-<li>toxin-mediated infectious botulism (93.5%)</li>
-<li>impetigo (93.2%)</li>
-<li>Sorsby's fundus dystrophy (93.1%)</li>
-<li>demodicidosis of sebaceous gland (93.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Acne (acne disease) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mebendazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

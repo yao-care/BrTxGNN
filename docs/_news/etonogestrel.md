@@ -26,16 +26,16 @@ Esta página combina as indicações previstas por IA para Etonogestrel com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>amenorrhea (disease) (99.8%)</li>
-<li>breast fibrocystic disease (99.6%)</li>
-<li>apocrine adenosis of breast (99.3%)</li>
-<li>blunt duct adenosis of breast (99.3%)</li>
-<li>benign mammary dysplasia (99.2%)</li>
-<li>fat necrosis of breast (99.0%)</li>
-<li>breast abscess (99.0%)</li>
-<li>lactation disease (98.9%)</li>
-<li>breast adenosis (98.9%)</li>
-<li>acne (disease) (98.7%)</li>
+<li>Amenorreia (amenorrhea) (99.8%)</li>
+<li>Doença fibrocística da mama (99.6%)</li>
+<li>Adenose apócrina da mama (99.3%)</li>
+<li>Adenose de ductos obtusos da mama (99.3%)</li>
+<li>Displasia mamária benigna (99.2%)</li>
+<li>Necrose gordurosa da mama (99.0%)</li>
+<li>Abscesso mamário (99.0%)</li>
+<li>Doença da lactação (98.9%)</li>
+<li>Adenose mamária (98.9%)</li>
+<li>Acne (98.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etonogestrel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

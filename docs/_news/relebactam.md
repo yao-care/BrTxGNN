@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Relebactam"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Relebactam. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com Relebactam. Indicação original: . 10 indicações previstas."
 permalink: /news/relebactam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/relebactam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Relebactam?">
-<strong>Relebactam</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>Relebactam</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para Relebactam com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Hiperamilasemia | 99,22% | Sem justificativa mecanística; reflete lesão pancreática/salivar ou redução da depuração (99.0%)</li>
-<li>Analbuminemia congênita | 99,08% | Distúrbio genético (mutações em ALB); sem efeito plausível (99.0%)</li>
-<li>Incompatibilidade de grupo sanguíneo | 98,92% | Processo imunomediado por aloanticorpos; pontuação provavelmente por proximidade na rede (99.0%)</li>
-<li>Doença hematológica pré-maligna | 98,81% | Sem vínculo mecanístico (99.0%)</li>
-<li>Gamopatia monoclonal | 98,76% | Sem atividade conhecida sobre plasmócitos (99.0%)</li>
-<li>Doença hematológica associada a neuropatia periférica adquirida | 98,59% | Sem mecanismo plausível (99.0%)</li>
-<li>Neoplasia do sistema hematopoiético e linfoide | 98,48% | Sem ação antineoplásica; no máximo, suporte contra infecções em neutropênicos (99.0%)</li>
-<li>Distúrbio hematológico congênito | 98,39% | Sem justificativa mecanística (99.0%)</li>
-<li>Peste septicêmica | 97,94% | **Única com racional antibacteriano coerente (L4)**; classificada como questão de pesquisa (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) (99.2%)</li>
+<li>Hiperamilasemia (99.2%)</li>
+<li>Analbuminemia congênita (99.1%)</li>
+<li>Incompatibilidade de grupo sanguíneo (98.9%)</li>
+<li>Doença hematológica pré-maligna (98.8%)</li>
+<li>Gamopatia monoclonal (98.8%)</li>
+<li>Doença hematológica associada a neuropatia periférica adquirida (98.6%)</li>
+<li>Neoplasia do sistema hematopoiético e linfoide (98.5%)</li>
+<li>Distúrbio hematológico congênito (98.4%)</li>
+<li>Peste septicêmica (97.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/relebactam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

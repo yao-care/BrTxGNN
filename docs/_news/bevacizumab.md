@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Bevacizumab"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Bevacizumab. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Bevacizumab. Indicação original: . 1 indicações previstas."
 permalink: /news/bevacizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bevacizumab/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Bevacizumab?">
-<strong>Bevacizumab</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Bevacizumab</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Bevacizumab com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>epiglottis neoplasm (99.9%)</li>
-<li>benign neoplasm of tongue (99.9%)</li>
-<li>tumor of testis and paratestis (99.9%)</li>
-<li>benign neoplasm of hypopharynx (99.9%)</li>
-<li>benign neoplasm of floor of mouth (99.9%)</li>
-<li>cervical neuroblastoma (99.9%)</li>
-<li>cystic neoplasm (99.9%)</li>
-<li>nasal cavity inverting papilloma (99.9%)</li>
-<li>mesenchymoma (99.9%)</li>
-<li>schwannoma of jugular foramen (99.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Neoplasia de Epiglote (Epiglottis Neoplasm) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

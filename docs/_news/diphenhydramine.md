@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Diphenhydramine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Diphenhydramine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Diphenhydramine. Indicação original: . 1 indicações previstas."
 permalink: /news/diphenhydramine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diphenhydramine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Diphenhydramine?">
-<strong>Diphenhydramine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Diphenhydramine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Diphenhydramine com a
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>rosacea conjunctivitis (99.2%)</li>
-<li>rhinitis (98.3%)</li>
-<li>allergic urticaria (98.2%)</li>
-<li>cold urticaria (95.9%)</li>
-<li>cauda equina syndrome (95.6%)</li>
-<li>nasopharyngitis (95.0%)</li>
-<li>viral conjunctivitis (94.0%)</li>
-<li>neuralgia (92.3%)</li>
-<li>trigeminal autonomic cephalalgia (92.2%)</li>
-<li>glossodynia (92.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Conjuntivite da rosácea (rosacea conjunctivitis) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diphenhydramine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

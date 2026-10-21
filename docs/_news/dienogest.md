@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Dienogest"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Dienogest. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Dienogest. Indicação original: . 1 indicações previstas."
 permalink: /news/dienogest/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dienogest/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Dienogest?">
-<strong>Dienogest</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Dienogest</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Dienogest com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>amenorrhea (disease) (99.7%)</li>
-<li>primary ovarian failure (99.7%)</li>
-<li>breast fibrocystic disease (99.6%)</li>
-<li>isolated growth hormone deficiency (99.5%)</li>
-<li>symptomatic form of fragile X syndrome in female carrier (99.5%)</li>
-<li>blepharophimosis-epicanthus inversus-ptosis (99.5%)</li>
-<li>hypogonadotropic hypogonadism with or without anosmia (99.5%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 5 (99.4%)</li>
-<li>blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome (99.4%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 18 (99.4%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Amenorreia (amenorrhea) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dienogest/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

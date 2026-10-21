@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Esomeprazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Esomeprazole. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Esomeprazole. Indicação original: . 1 indicações previstas."
 permalink: /news/esomeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/esomeprazole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Esomeprazole?">
-<strong>Esomeprazole</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Esomeprazole</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Esomeprazole com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>duodenogastric reflux (99.5%)</li>
-<li>duodenal obstruction (99.5%)</li>
-<li>duodenal ulcer (disease) (99.4%)</li>
-<li>active peptic ulcer disease (99.0%)</li>
-<li>abnormality of glucagon secretion (99.0%)</li>
-<li>peptic ulcer perforation (98.9%)</li>
-<li>gastrojejunal ulcer (98.9%)</li>
-<li>Smouldering systemic mastocytosis (97.0%)</li>
-<li>multiple endocrine neoplasia (96.7%)</li>
-<li>acne (disease) (96.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Úlcera Duodenal (duodenal ulcer) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/esomeprazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

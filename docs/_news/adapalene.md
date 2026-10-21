@@ -26,16 +26,16 @@ Esta página combina as indicações previstas por IA para Adapalene com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>zinc, elevated plasma (99.5%)</li>
-<li>isolated congenital adermatoglyphia (98.8%)</li>
-<li>Beare-Stevenson cutis gyrata syndrome (98.8%)</li>
-<li>demodicidosis of sebaceous gland (95.5%)</li>
-<li>pyogenic arthritis-pyoderma gangrenosum-acne syndrome (95.3%)</li>
-<li>prolidase deficiency (89.3%)</li>
-<li>drug-induced osteoporosis (87.2%)</li>
-<li>seborrheic dermatitis (86.3%)</li>
-<li>sebaceous gland anomaly (85.2%)</li>
-<li>inherited skin tumor (82.9%)</li>
+<li>Dermatite Seborreica (Seborrheic Dermatitis) (86.3%)</li>
+<li>Zinco plasmático elevado (99.5%)</li>
+<li>Adermatoglifia congênita isolada (98.8%)</li>
+<li>Síndrome de Beare-Stevenson (cutis gyrata) (98.8%)</li>
+<li>Demodicidose da glândula sebácea (95.5%)</li>
+<li>Síndrome PAPA (artrite piogênica, pioderma gangrenoso e acne) (95.3%)</li>
+<li>Deficiência de prolidase (89.3%)</li>
+<li>Osteoporose induzida por fármacos (87.2%)</li>
+<li>Anomalia da glândula sebácea (85.2%)</li>
+<li>Tumor cutâneo hereditário (82.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/adapalene/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

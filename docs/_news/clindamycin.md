@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Clindamycin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Clindamycin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Clindamycin. Indicação original: . 1 indicações previstas."
 permalink: /news/clindamycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clindamycin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Clindamycin?">
-<strong>Clindamycin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Clindamycin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Clindamycin com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (100.0%)</li>
-<li>exposure keratitis (99.8%)</li>
-<li>non-human animal disease (99.7%)</li>
-<li>neurotrophic keratopathy (99.5%)</li>
-<li>epidemic keratoconjunctivitis (99.5%)</li>
-<li>postmenopausal atrophic vaginitis (99.0%)</li>
-<li>superior limbic keratoconjunctivitis (99.0%)</li>
-<li>visual snow syndrome (98.3%)</li>
-<li>keratomalacia (98.3%)</li>
-<li>ophthalmia nodosa (98.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clindamycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

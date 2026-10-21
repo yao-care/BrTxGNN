@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre RISPERIDONE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com RISPERIDONE. Indicação original: . 6 indicações previstas."
+description: "Notícias de saúde relacionadas com RISPERIDONE. Indicação original: . 1 indicações previstas."
 permalink: /news/risperidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/risperidone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre RISPERIDONE?">
-<strong>RISPERIDONE</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
+<strong>RISPERIDONE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,8 @@ Esta página combina as indicações previstas por IA para RISPERIDONE com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (6)</strong>:<ul>
-<li>gaze palsy, familial horizontal, with progressive scoliosis (99.8%)</li>
-<li>asperger syndrome, susceptibility to (99.7%)</li>
-<li>amelocerebrohypohidrotic syndrome (99.7%)</li>
-<li>Phelan-McDermid syndrome (99.6%)</li>
-<li>trichotillomania (99.5%)</li>
-<li>major affective disorder (99.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Paralisia do olhar horizontal familiar com escoliose progressiva (gaze palsy, familial horizontal, with progressive scoliosis) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

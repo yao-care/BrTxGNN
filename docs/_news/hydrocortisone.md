@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre HYDROCORTISONE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com HYDROCORTISONE. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com HYDROCORTISONE. Indicação original: . 1 indicações previstas."
 permalink: /news/hydrocortisone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrocortisone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre HYDROCORTISONE?">
-<strong>HYDROCORTISONE</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>HYDROCORTISONE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para HYDROCORTISONE com as
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>alopecia areata (100.0%)</li>
-<li>alopecia mucinosa (100.0%)</li>
-<li>telogen effluvium (100.0%)</li>
-<li>Quinquaud's folliculitis decalvans (100.0%)</li>
-<li>alopecia antibody deficiency (100.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
-<li>atrichia with papular lesions (99.9%)</li>
-<li>alopecia universalis onychodystrophy vitiligo (99.6%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Alopecia Areata (alopecia areata) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrocortisone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

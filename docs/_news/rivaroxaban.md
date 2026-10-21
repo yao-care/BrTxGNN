@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Rivaroxaban"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Rivaroxaban. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Rivaroxaban. Indicação original: . 1 indicações previstas."
 permalink: /news/rivaroxaban/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rivaroxaban/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Rivaroxaban?">
-<strong>Rivaroxaban</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Rivaroxaban</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Rivaroxaban com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>rheumatoid arthritis (99.6%)</li>
-<li>gout (99.5%)</li>
-<li>HIV infectious disease (99.2%)</li>
-<li>brachydactyly-syndactyly syndrome (99.1%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.0%)</li>
-<li>sclerosing cholangitis (98.9%)</li>
-<li>systemic mastocytosis (98.8%)</li>
-<li>Smouldering systemic mastocytosis (98.8%)</li>
-<li>feline acquired immunodeficiency syndrome (98.7%)</li>
-<li>simian immunodeficiency virus infection (98.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Artrite Reumatoide (Rheumatoid Arthritis) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rivaroxaban/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

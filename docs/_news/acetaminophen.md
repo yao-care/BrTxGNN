@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Acetaminophen"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Acetaminophen. Indicação original: . 4 indicações previstas."
+description: "Notícias de saúde relacionadas com Acetaminophen. Indicação original: . 5 indicações previstas."
 permalink: /news/acetaminophen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acetaminophen/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Acetaminophen?">
-<strong>Acetaminophen</strong> tem atualmente <strong>0 notícias</strong> e 4 indicações previstas.
+<strong>Acetaminophen</strong> tem atualmente <strong>0 notícias</strong> e 5 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,12 @@ Esta página combina as indicações previstas por IA para Acetaminophen com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (4)</strong>:<ul>
-<li>Cefaleia autonômica trigeminal | 98,58% | L4 | Responde mal a analgésicos simples; sem evidência direta. Hold (99.0%)</li>
-<li>Tendinite | 94,58% | L4 | Apenas alívio sintomático; AINEs são preferidos (99.0%)</li>
-<li>Fibromialgia | 90,84% | L3 | Evidência refere-se à combinação tramadol/acetaminofeno; efeito isolado não estabelecido (99.0%)</li>
-<li>Neuropatia ciática | 86,63% | L3 | Um RCT (2016) comparou paracetamol IV e morfina em ciática; efeito modesto, apenas analgesia (99.0%)</li>
+<li><strong>Indicações previstas (5)</strong>:<ul>
+<li>Enxaqueca com aura do tronco encefálico (migraine with brainstem aura) (99.2%)</li>
+<li>Cefaleia autonômica trigeminal (98.6%)</li>
+<li>Tendinite (94.6%)</li>
+<li>Fibromialgia (90.8%)</li>
+<li>Neuropatia ciática (86.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acetaminophen/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

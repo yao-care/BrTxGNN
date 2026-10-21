@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre PSEUDOEPHEDRINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com PSEUDOEPHEDRINE. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com PSEUDOEPHEDRINE. Indicação original: . 1 indicações previstas."
 permalink: /news/pseudoephedrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pseudoephedrine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre PSEUDOEPHEDRINE?">
-<strong>PSEUDOEPHEDRINE</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>PSEUDOEPHEDRINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Esta página combina as indicações previstas por IA para PSEUDOEPHEDRINE com a
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>nasal cavity disease (99.8%)</li>
-<li>acute laryngopharyngitis (99.7%)</li>
-<li>allergic urticaria (99.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença da cavidade nasal (nasal cavity disease) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pseudoephedrine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

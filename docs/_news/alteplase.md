@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre ALTEPLASE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ALTEPLASE. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com ALTEPLASE. Indicação original: . 10 indicações previstas."
 permalink: /news/alteplase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alteplase/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ALTEPLASE?">
-<strong>ALTEPLASE</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>ALTEPLASE</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para ALTEPLASE com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Infarto do miocárdio posterolateral | 99,79% | L5 | Hold (99.0%)</li>
-<li>Infarto do miocárdio posteroinferior | 99,79% | L5 | Hold (99.0%)</li>
-<li>Infarto do miocárdio septal | 99,77% | L4 | Hold (99.0%)</li>
-<li>Deficiência de cofator 2 da heparina | 99,72% | L5 | Hold (99.0%)</li>
-<li>Anomalia coronariana congênita | 99,64% | L5 | Hold (99.0%)</li>
-<li>Excesso de fator V com trombose espontânea | 99,56% | L5 | Hold (99.0%)</li>
-<li>Deficiência de antitrombina tipo 2 | 99,56% | L5 | Hold (99.0%)</li>
-<li>Trombofilia | 99,43% | L3 | Questão de pesquisa (99.0%)</li>
-<li>Estenose coronariana | 99,14% | L2 | Questão de pesquisa (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Infarto do miocárdio posterolateral (posterolateral myocardial infarction) (99.8%)</li>
+<li>Infarto do miocárdio posterolateral (99.8%)</li>
+<li>Infarto do miocárdio posteroinferior (99.8%)</li>
+<li>Infarto do miocárdio septal (99.8%)</li>
+<li>Deficiência de cofator 2 da heparina (99.7%)</li>
+<li>Anomalia coronariana congênita (99.6%)</li>
+<li>Excesso de fator V com trombose espontânea (99.6%)</li>
+<li>Deficiência de antitrombina tipo 2 (99.6%)</li>
+<li>Trombofilia (99.4%)</li>
+<li>Estenose coronariana (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

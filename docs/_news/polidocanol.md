@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Polidocanol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Polidocanol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Polidocanol. Indicação original: . 1 indicações previstas."
 permalink: /news/polidocanol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/polidocanol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Polidocanol?">
-<strong>Polidocanol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Polidocanol</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Polidocanol com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>esophageal varices with bleeding (100.0%)</li>
-<li>esophageal varices without bleeding (100.0%)</li>
-<li>Immunoerythromyeloid hypoplasia (99.8%)</li>
-<li>pigmented paravenous retinochoroidal atrophy (99.7%)</li>
-<li>progressive bifocal chorioretinal atrophy (99.7%)</li>
-<li>X-linked retinal dysplasia (99.7%)</li>
-<li>monosomy X (99.7%)</li>
-<li>cone dystrophy (99.7%)</li>
-<li>oligocone trichromacy (99.7%)</li>
-<li>retinoschisis of fovea (99.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Varizes esofágicas com sangramento (esophageal varices with bleeding) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/polidocanol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

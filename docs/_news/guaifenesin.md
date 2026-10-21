@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Guaifenesin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Guaifenesin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Guaifenesin. Indicação original: . 1 indicações previstas."
 permalink: /news/guaifenesin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/guaifenesin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Guaifenesin?">
-<strong>Guaifenesin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Guaifenesin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Guaifenesin com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>nasal cavity disease (100.0%)</li>
-<li>acute laryngopharyngitis (100.0%)</li>
-<li>faucial diphtheria (99.5%)</li>
-<li>cervical disc degenerative disorder (99.5%)</li>
-<li>papillary conjunctivitis (99.3%)</li>
-<li>tracheal disease (98.8%)</li>
-<li>trigeminal autonomic cephalalgia (98.7%)</li>
-<li>anorectal stricture (98.6%)</li>
-<li>anal polyp (98.6%)</li>
-<li>punctate epithelial keratoconjunctivitis (98.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença da Cavidade Nasal (Nasal Cavity Disease) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/guaifenesin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

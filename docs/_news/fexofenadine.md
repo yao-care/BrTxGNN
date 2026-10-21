@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Fexofenadine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Fexofenadine. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com Fexofenadine. Indicação original: . 10 indicações previstas."
 permalink: /news/fexofenadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fexofenadine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Fexofenadine?">
-<strong>Fexofenadine</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>Fexofenadine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para Fexofenadine com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Ceratoconjuntivite epitelial punctata | 98,63% | Baixa: geralmente viral ou tóxica/imune; no máximo alívio sintomático (99.0%)</li>
-<li>Blefaroconjuntivite | 98,40% | Parcial: apenas componentes alérgicos; já existem anti-histamínicos tópicos oculares (99.0%)</li>
-<li>Conjuntivite viral | 98,17% | Baixa: sem atividade antiviral; no máximo alívio do prurido (99.0%)</li>
-<li>Infestação parasitária da pálpebra | 96,67% | Baixa: exige antiparasitário; só alivia o prurido (99.0%)</li>
-<li>Blefarite ulcerativa | 96,59% | Baixa: geralmente estafilocócica; exige antimicrobianos e higiene palpebral (99.0%)</li>
-<li>Estenose uretral infecciosa | 96,33% | Muito baixa: condição fibrótica estrutural; provável artefato do grafo (99.0%)</li>
-<li>Vasculite pós-infecciosa | 96,13% | Baixa: uso adjuvante sintomático em quadros urticariformes (99.0%)</li>
-<li>Distúrbio pós-bacteriano | 96,11% | Não interpretável: termo inespecífico (99.0%)</li>
-<li>Dermatoses não infecciosas da pálpebra | 95,84% | Mais plausível (dermatite alérgica/atópica), mas o padrão de tratamento são corticoides ou inibidores de calcineurina tópicos (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Conjuntivite da rosácea (rosacea conjunctivitis) (99.8%)</li>
+<li>Ceratoconjuntivite epitelial punctata (98.6%)</li>
+<li>Blefaroconjuntivite (98.4%)</li>
+<li>Conjuntivite viral (98.2%)</li>
+<li>Infestação parasitária da pálpebra (96.7%)</li>
+<li>Blefarite ulcerativa (96.6%)</li>
+<li>Estenose uretral infecciosa (96.3%)</li>
+<li>Vasculite pós-infecciosa (96.1%)</li>
+<li>Distúrbio pós-bacteriano (96.1%)</li>
+<li>Dermatoses não infecciosas da pálpebra (95.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fexofenadine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -26,16 +26,16 @@ Esta página combina as indicações previstas por IA para Procaine com as notí
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>methemoglobinemia (99.5%)</li>
-<li>methemoglobinemia, alpha type (99.4%)</li>
-<li>Tourette syndrome (99.3%)</li>
-<li>anaphylaxis (99.3%)</li>
-<li>methemoglobin reductase deficiency (99.3%)</li>
-<li>hyperthyroidism (99.2%)</li>
-<li>fibromyalgia (99.2%)</li>
-<li>tendinitis (99.2%)</li>
-<li>myositis fibrosa (99.2%)</li>
-<li>idiopathic granulomatous myositis (99.2%)</li>
+<li>Metemoglobinemia (methemoglobinemia) (99.5%)</li>
+<li>Metemoglobinemia, tipo alfa (99.4%)</li>
+<li>Síndrome de Tourette (99.3%)</li>
+<li>Anafilaxia (99.3%)</li>
+<li>Deficiência de metemoglobina redutase (99.3%)</li>
+<li>Hipertireoidismo (99.2%)</li>
+<li>Fibromialgia (99.2%)</li>
+<li>Tendinite (99.2%)</li>
+<li>Miosite fibrosa (99.2%)</li>
+<li>Miosite granulomatosa idiopática (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/procaine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

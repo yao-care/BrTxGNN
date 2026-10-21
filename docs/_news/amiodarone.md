@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Amiodarone"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Amiodarone. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Amiodarone. Indicação original: . 1 indicações previstas."
 permalink: /news/amiodarone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amiodarone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Amiodarone?">
-<strong>Amiodarone</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Amiodarone</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Amiodarone com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>catecholaminergic polymorphic ventricular tachycardia (99.8%)</li>
-<li>incessant infant ventricular tachycardia (99.7%)</li>
-<li>ventricular tachycardia (99.6%)</li>
-<li>obsolete bundle branch block (99.6%)</li>
-<li>rheumatoid arthritis (99.4%)</li>
-<li>brachydactyly-syndactyly syndrome (99.4%)</li>
-<li>heparin cofactor 2 deficiency (99.4%)</li>
-<li>trichotillomania (99.3%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.3%)</li>
-<li>gout (99.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amiodarone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

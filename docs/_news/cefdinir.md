@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Cefdinir"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Cefdinir. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Cefdinir. Indicação original: . 1 indicações previstas."
 permalink: /news/cefdinir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cefdinir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Cefdinir?">
-<strong>Cefdinir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Cefdinir</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Cefdinir com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>hyperamylasemia (98.3%)</li>
-<li>polyclonal hyperviscosity syndrome (98.3%)</li>
-<li>congenital analbuminemia (98.0%)</li>
-<li>blood group incompatibility (97.6%)</li>
-<li>premalignant hematological system disease (97.4%)</li>
-<li>monoclonal gammopathy (97.2%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (97.1%)</li>
-<li>congenital hematological disorder (96.2%)</li>
-<li>septicemic plague (95.9%)</li>
-<li>pyelonephritis (94.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hiperamilasemia (maior pontuação); pielonefrite (única com literatura relevante, analisada abaixo) (98.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefdinir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

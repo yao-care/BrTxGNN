@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre CELECOXIB"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CELECOXIB. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com CELECOXIB. Indicação original: . 1 indicações previstas."
 permalink: /news/celecoxib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/celecoxib/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre CELECOXIB?">
-<strong>CELECOXIB</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>CELECOXIB</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para CELECOXIB com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
-<li>rheumatoid vasculitis (99.8%)</li>
-<li>myosclerosis (99.8%)</li>
-<li>hypermobility of coccyx (99.8%)</li>
-<li>brachyolmia (99.8%)</li>
-<li>rheumatoid nodulosis (99.8%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.8%)</li>
-<li>inflammatory spondylopathy (99.8%)</li>
-<li>WHIM syndrome (99.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Displasia acromesomélica tipo Hunter-Thompson (Acromesomelic dysplasia, Hunter-Thompson type) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/celecoxib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

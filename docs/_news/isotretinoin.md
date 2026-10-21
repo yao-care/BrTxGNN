@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre ISOTRETINOIN"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ISOTRETINOIN. Indicação original: . 2 indicações previstas."
+description: "Notícias de saúde relacionadas com ISOTRETINOIN. Indicação original: . 1 indicações previstas."
 permalink: /news/isotretinoin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/isotretinoin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ISOTRETINOIN?">
-<strong>ISOTRETINOIN</strong> tem atualmente <strong>0 notícias</strong> e 2 indicações previstas.
+<strong>ISOTRETINOIN</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Esta página combina as indicações previstas por IA para ISOTRETINOIN com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (2)</strong>:<ul>
-<li>malignant renovascular hypertension (99.0%)</li>
-<li>malignant hypertensive renal disease (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hipertensão Renovascular Maligna (Malignant Renovascular Hypertension) (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isotretinoin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

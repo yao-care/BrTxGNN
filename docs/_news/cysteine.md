@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Cysteine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Cysteine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Cysteine. Indicação original: . 1 indicações previstas."
 permalink: /news/cysteine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cysteine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Cysteine?">
-<strong>Cysteine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Cysteine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Cysteine com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>dry eye syndrome (100.0%)</li>
-<li>closed-angle glaucoma (100.0%)</li>
-<li>nasal cavity disease (99.9%)</li>
-<li>acute laryngopharyngitis (99.8%)</li>
-<li>pharyngitis (99.8%)</li>
-<li>exercise-induced malignant hyperthermia (99.3%)</li>
-<li>angle-closure glaucoma (99.1%)</li>
-<li>excretory apparatus of the lacrimal system anomaly (98.7%)</li>
-<li>tracheal disease (98.7%)</li>
-<li>nasolacrimal duct disease (98.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome do olho seco (Dry Eye Syndrome) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cysteine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

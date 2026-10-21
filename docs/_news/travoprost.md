@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Travoprost"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Travoprost. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Travoprost. Indicação original: . 1 indicações previstas."
 permalink: /news/travoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/travoprost/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Travoprost?">
-<strong>Travoprost</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Travoprost</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Travoprost com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>visceral calciphylaxis (100.0%)</li>
-<li>arterial thoracic outlet syndrome (100.0%)</li>
-<li>venous thoracic outlet syndrome (100.0%)</li>
-<li>neurogenic thoracic outlet syndrome (100.0%)</li>
-<li>vascular disease (100.0%)</li>
-<li>angiodysplasia of stomach (100.0%)</li>
-<li>blue toe syndrome (100.0%)</li>
-<li>idiopathic spontaneous coronary artery dissection (100.0%)</li>
-<li>lymphangiectasis (100.0%)</li>
-<li>hemangioendothelioma (100.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Calcifilaxia visceral (visceral calciphylaxis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

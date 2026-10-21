@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Paclitaxel"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Paclitaxel. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Paclitaxel. Indicação original: . 1 indicações previstas."
 permalink: /news/paclitaxel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Paclitaxel?">
-<strong>Paclitaxel</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Paclitaxel</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Paclitaxel com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>female breast carcinoma (100.0%)</li>
-<li>estrogen-receptor negative breast cancer (99.9%)</li>
-<li>Ehrlich tumor carcinoma (99.9%)</li>
-<li>hormone-resistant breast carcinoma (99.9%)</li>
-<li>estrogen-receptor positive breast cancer (99.9%)</li>
-<li>bilateral breast carcinoma (99.9%)</li>
-<li>breast carcinoma by gene expression profile (99.9%)</li>
-<li>nipple carcinoma (99.9%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.7%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Carcinoma de mama feminino (female breast carcinoma) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

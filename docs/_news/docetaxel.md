@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Docetaxel"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Docetaxel. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Docetaxel. Indicação original: . 1 indicações previstas."
 permalink: /news/docetaxel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Docetaxel?">
-<strong>Docetaxel</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Docetaxel</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Docetaxel com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>female breast carcinoma (99.9%)</li>
-<li>Ewing sarcoma (99.9%)</li>
-<li>well-differentiated fetal adenocarcinoma of the lung (99.8%)</li>
-<li>small cell lung carcinoma (99.8%)</li>
-<li>primary pulmonary lymphoma (99.8%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>
-<li>pulmonary blastoma (99.8%)</li>
-<li>rhabdomyosarcoma (disease) (99.8%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Carcinoma de mama feminino (Female Breast Carcinoma) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Potassium"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Potassium. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Potassium. Indicação original: . 1 indicações previstas."
 permalink: /news/potassium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/potassium/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Potassium?">
-<strong>Potassium</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Potassium</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Potassium com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>hypertensive disorder (99.2%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.0%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.0%)</li>
-<li>malignant renovascular hypertension (99.0%)</li>
-<li>malignant hypertensive renal disease (99.0%)</li>
-<li>Braddock syndrome (98.9%)</li>
-<li>chronic pulmonary heart disease (98.8%)</li>
-<li>congestive heart failure (98.4%)</li>
-<li>alopecia (98.3%)</li>
-<li>congenital hypotrichosis milia (98.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Transtorno hipertensivo (hypertensive disorder) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/potassium/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

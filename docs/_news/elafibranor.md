@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Elafibranor"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Elafibranor. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com Elafibranor. Indicação original: . 10 indicações previstas."
 permalink: /news/elafibranor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/elafibranor/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Elafibranor?">
-<strong>Elafibranor</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>Elafibranor</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para Elafibranor com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Malformação esofágica não sindrômica | 98,92% | Sem ligação mecanística plausível; defeito de desenvolvimento embrionário (99.0%)</li>
-<li>Doença de Paget óssea | 98,86% | Possível papel dos PPAR no remodelamento ósseo, mas já existem terapias eficazes (bisfosfonatos) (99.0%)</li>
-<li>Dentinogênese imperfeita | 98,52% | Doença genética (DSPP); sem base biológica evidente (99.0%)</li>
-<li>Carcinoma de células escamosas | 98,47% | PPARδ pode ter papel pró-tumoral; efeito potencialmente prejudicial (99.0%)</li>
-<li>Carcinoma cloacogênico retal | 98,46% | Previsão provavelmente por associação no grafo; incerteza ou risco pró-tumoral (99.0%)</li>
-<li>Carcinoma adenoescamoso da vesícula biliar | 98,45% | Apenas associação anatômica hepatobiliar tangencial (99.0%)</li>
-<li>Surdez autossômica dominante 39 com dentinogênese imperfeita 1 | 98,44% | Doença monogênica; pontuação reflete similaridade no grafo (99.0%)</li>
-<li>Carcinoma mamário escamoso variante acantolítica | 98,44% | Sem evidência específica; papel do PPARδ no câncer é dependente do contexto (99.0%)</li>
-<li>Carcinoma mamário adenoescamoso | 98,44% | Mesma inferência do grafo que a variante acantolítica (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Amenorreia (amenorrhea) (99.9%)</li>
+<li>Malformação esofágica não sindrômica (98.9%)</li>
+<li>Doença de Paget óssea (98.9%)</li>
+<li>Dentinogênese imperfeita (98.5%)</li>
+<li>Carcinoma de células escamosas (98.5%)</li>
+<li>Carcinoma cloacogênico retal (98.5%)</li>
+<li>Carcinoma adenoescamoso da vesícula biliar (98.5%)</li>
+<li>Surdez autossômica dominante 39 com dentinogênese imperfeita 1 (98.4%)</li>
+<li>Carcinoma mamário escamoso variante acantolítica (98.4%)</li>
+<li>Carcinoma mamário adenoescamoso (98.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/elafibranor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre RASBURICASE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com RASBURICASE. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com RASBURICASE. Indicação original: . 10 indicações previstas."
 permalink: /news/rasburicase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rasburicase/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre RASBURICASE?">
-<strong>RASBURICASE</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>RASBURICASE</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para RASBURICASE com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Deficiência parcial de HPRT | 99,97% | Relevância conceitual limitada; uso crônico impraticável (99.0%)</li>
-<li>Porfiria hepática | 99,97% | Sem vínculo mecanístico (99.0%)</li>
-<li>Esclerose hepatoportal | 99,97% | Sem mecanismo plausível (99.0%)</li>
-<li>Síndrome hepatopulmonar | 99,97% | Sem mecanismo conhecido (99.0%)</li>
-<li>Hipertensão portal familiar não cirrótica de início precoce | 99,97% | Sem racional (99.0%)</li>
-<li>Trombose primária da veia porta | 99,97% | Sem vínculo com urato oxidase (99.0%)</li>
-<li>Cirrose idiopática associada ao cobre | 99,97% | Sem efeito conhecido no metabolismo do cobre (99.0%)</li>
-<li>Acidose tubular renal | 99,85% | Sem ação conhecida; associação indireta (99.0%)</li>
-<li>Distúrbio do metabolismo da fenilalanina | 99,83% | Sem suporte mecanístico ou clínico (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Hipouricemia Renal (hypouricemia, renal) (100.0%)</li>
+<li>Deficiência parcial de HPRT (100.0%)</li>
+<li>Porfiria hepática (100.0%)</li>
+<li>Esclerose hepatoportal (100.0%)</li>
+<li>Síndrome hepatopulmonar (100.0%)</li>
+<li>Hipertensão portal familiar não cirrótica de início precoce (100.0%)</li>
+<li>Trombose primária da veia porta (100.0%)</li>
+<li>Cirrose idiopática associada ao cobre (100.0%)</li>
+<li>Acidose tubular renal (99.8%)</li>
+<li>Distúrbio do metabolismo da fenilalanina (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rasburicase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

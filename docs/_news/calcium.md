@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Calcium"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Calcium. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Calcium. Indicação original: . 1 indicações previstas."
 permalink: /news/calcium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/calcium/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Calcium?">
-<strong>Calcium</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Calcium</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Calcium com as notíc
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>thrombotic disease (98.2%)</li>
-<li>hemoglobinopathy (98.2%)</li>
-<li>female breast carcinoma (98.0%)</li>
-<li>partial deletion of the short arm of chromosome 16 (97.7%)</li>
-<li>beta-thalassemia with other manifestations (97.6%)</li>
-<li>hemolytic anemia due to glucophosphate isomerase deficiency (97.4%)</li>
-<li>exostosis (97.0%)</li>
-<li>pyropoikilocytosis, hereditary (96.9%)</li>
-<li>vein disease (96.9%)</li>
-<li>non-inflammatory vasculopathy (96.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença trombótica (Thrombotic Disease) (98.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcium/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

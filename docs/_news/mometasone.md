@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Mometasone"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Mometasone. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Mometasone. Indicação original: . 1 indicações previstas."
 permalink: /news/mometasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mometasone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Mometasone?">
-<strong>Mometasone</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Mometasone</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Mometasone com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>primary cutaneous T-cell lymphoma (99.4%)</li>
-<li>Crohn's colitis (98.8%)</li>
-<li>myelodysplastic syndrome (98.3%)</li>
-<li>refractory cytopenia of childhood (98.1%)</li>
-<li>unclassified myelodysplastic syndrome (97.9%)</li>
-<li>partial deletion of the long arm of chromosome 5 (97.9%)</li>
-<li>cystic teratoma (97.8%)</li>
-<li>spinal cord dermoid cyst (97.8%)</li>
-<li>aregenerative anemia (97.8%)</li>
-<li>disease of orbital part of eye adnexa (97.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Linfoma cutâneo primário de células T (primary cutaneous T-cell lymphoma) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mometasone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

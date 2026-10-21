@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre FENTANYL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com FENTANYL. Indicação original: . 2 indicações previstas."
+description: "Notícias de saúde relacionadas com FENTANYL. Indicação original: . 1 indicações previstas."
 permalink: /news/fentanyl/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fentanyl/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre FENTANYL?">
-<strong>FENTANYL</strong> tem atualmente <strong>0 notícias</strong> e 2 indicações previstas.
+<strong>FENTANYL</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Esta página combina as indicações previstas por IA para FENTANYL com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (2)</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.5%)</li>
-<li>Tourette syndrome (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre SIMVASTATIN"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com SIMVASTATIN. Indicação original: . 8 indicações previstas."
+description: "Notícias de saúde relacionadas com SIMVASTATIN. Indicação original: . 1 indicações previstas."
 permalink: /news/simvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre SIMVASTATIN?">
-<strong>SIMVASTATIN</strong> tem atualmente <strong>0 notícias</strong> e 8 indicações previstas.
+<strong>SIMVASTATIN</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,15 +25,8 @@ Esta página combina as indicações previstas por IA para SIMVASTATIN com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (8)</strong>:<ul>
-<li>familial hypercholesterolemia (99.6%)</li>
-<li>brain stem infarction (99.4%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.4%)</li>
-<li>hypercholesterolemia, autosomal dominant (99.4%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.3%)</li>
-<li>HIV infectious disease (99.2%)</li>
-<li>ABri amyloidosis (99.1%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hipercolesterolemia familiar (Familial Hypercholesterolemia) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

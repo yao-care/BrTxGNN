@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre LORAZEPAM"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LORAZEPAM. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com LORAZEPAM. Indicação original: . 10 indicações previstas."
 permalink: /news/lorazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lorazepam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre LORAZEPAM?">
-<strong>LORAZEPAM</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>LORAZEPAM</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para LORAZEPAM com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Insônia | 99,80% | L3 | Mecanismo plausível (efeito sedativo-hipnótico). Dois estudos clínicos antigos e pequenos: [PMID 3280615](https://pubmed.ncbi.nlm.nih.gov/3280615/) (1988, lorazepam vs. flurazepam, cruzado duplo-cego, 8 pacientes; lorazepam melhor na maioria dos parâmetros de sono) e [PMID 10220122](https://pubmed.ncbi.nlm.nih.gov/10220122/) (1999, lorazepam 3 vezes ao dia na insônia crônica). Diretrizes atuais limitam benzodiazepínicos ao uso de curto prazo por dependência e tolerância. (99.0%)</li>
-<li>Crises de leitura | 99,64% | L4 | Evidência indireta: série de 5 casos com lorazepam adjuvante em epilepsia fotossensível ([PMID 11593256](https://pubmed.ncbi.nlm.nih.gov/11593256/)). Sem dados específicos. (99.0%)</li>
-<li>Crises de pensamento | 99,63% | L4 | Literatura geral sobre farmacologia e convulsões; nada específico. (99.0%)</li>
-<li>Crises induzidas por orgasmo | 99,63% | L5 | Apenas previsão do modelo. (99.0%)</li>
-<li>Epilepsia por sobressalto | 99,63% | L5 | Apenas previsão do modelo. (99.0%)</li>
-<li>Crises induzidas por micção | 99,63% | L4 | Literatura sobre manejo geral de crises e estado de mal epiléptico, incluindo o ensaio RAMPART ([PMID 22335736](https://pubmed.ncbi.nlm.nih.gov/22335736/)), que trata de indicação já existente. (99.0%)</li>
-<li>Crises audiogênicas | 99,63% | L4 | Apenas estudos pré-clínicos em ratos (abstinência de lorazepam). (99.0%)</li>
-<li>Crises alimentares | 99,63% | L5 | Único artigo vinculado é irrelevante (ciamemazina e etanol em roedores). (99.0%)</li>
-<li>Encefalopatia aguda com crises bifásicas e difusão reduzida tardia | 99,47% | L5 | Uso apenas sintomático; sem estudos. (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Neoplasia do Nervo Trigêmeo (Trigeminal Nerve Neoplasm) (99.9%)</li>
+<li>Insônia (99.8%)</li>
+<li>Crises de leitura (99.6%)</li>
+<li>Crises de pensamento (99.6%)</li>
+<li>Crises induzidas por orgasmo (99.6%)</li>
+<li>Epilepsia por sobressalto (99.6%)</li>
+<li>Crises induzidas por micção (99.6%)</li>
+<li>Crises audiogênicas (99.6%)</li>
+<li>Crises alimentares (99.6%)</li>
+<li>Encefalopatia aguda com crises bifásicas e difusão reduzida tardia (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lorazepam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

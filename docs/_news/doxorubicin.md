@@ -26,16 +26,16 @@ Esta página combina as indicações previstas por IA para Doxorubicin com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Ewing sarcoma (99.9%)</li>
-<li>well-differentiated fetal adenocarcinoma of the lung (99.9%)</li>
-<li>primary pulmonary lymphoma (99.8%)</li>
-<li>pulmonary blastoma (99.8%)</li>
-<li>chronic myelogenous leukemia, BCR-ABL1 positive (99.8%)</li>
-<li>monocytic leukemia (99.7%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.7%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.7%)</li>
-<li>rhabdomyosarcoma (disease) (99.7%)</li>
-<li>ganglioneuroblastoma (disease) (99.7%)</li>
+<li>Sarcoma de Ewing (Ewing sarcoma) (99.9%)</li>
+<li>Rabdomiossarcoma (99.7%)</li>
+<li>Blastoma pulmonar (99.8%)</li>
+<li>Leucemia mieloide crônica BCR-ABL1 positiva (99.8%)</li>
+<li>Leucemia monocítica (99.7%)</li>
+<li>Adenocarcinoma fetal pulmonar bem diferenciado (99.9%)</li>
+<li>Linfoma pulmonar primário (99.8%)</li>
+<li>Rabdomiossarcoma embrionário botrioide da vagina (99.7%)</li>
+<li>Rabdomiossarcoma embrionário parameníngeo (99.7%)</li>
+<li>Ganglioneuroblastoma (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doxorubicin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

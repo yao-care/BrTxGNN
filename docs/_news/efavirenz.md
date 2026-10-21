@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre EFAVIRENZ"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com EFAVIRENZ. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com EFAVIRENZ. Indicação original: . 1 indicações previstas."
 permalink: /news/efavirenz/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/efavirenz/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre EFAVIRENZ?">
-<strong>EFAVIRENZ</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>EFAVIRENZ</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Esta página combina as indicações previstas por IA para EFAVIRENZ com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>feline acquired immunodeficiency syndrome (99.8%)</li>
-<li>simian immunodeficiency virus infection (99.8%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome de imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/efavirenz/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

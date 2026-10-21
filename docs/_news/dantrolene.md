@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Dantrolene"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Dantrolene. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Dantrolene. Indicação original: . 1 indicações previstas."
 permalink: /news/dantrolene/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dantrolene/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Dantrolene?">
-<strong>Dantrolene</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Dantrolene</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Dantrolene com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>malignant hyperthermia, susceptibility to (99.9%)</li>
-<li>moderate multiminicore disease with hand involvement (99.9%)</li>
-<li>King-Denborough syndrome (99.9%)</li>
-<li>congenital multicore myopathy with external ophthalmoplegia (99.9%)</li>
-<li>central core myopathy (99.9%)</li>
-<li>hypokalemic periodic paralysis (99.8%)</li>
-<li>thyrotoxic periodic paralysis, susceptibility to (99.7%)</li>
-<li>thyrotoxic periodic paralysis (99.7%)</li>
-<li>myopathy, centronuclear (99.7%)</li>
-<li>periodic paralysis (disease) (98.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hipertermia maligna, suscetibilidade (malignant hyperthermia, susceptibility to) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dantrolene/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

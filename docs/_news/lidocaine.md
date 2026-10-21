@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Lidocaine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Lidocaine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Lidocaine. Indicação original: . 1 indicações previstas."
 permalink: /news/lidocaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lidocaine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Lidocaine?">
-<strong>Lidocaine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Lidocaine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Lidocaine com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (100.0%)</li>
-<li>papillary conjunctivitis (100.0%)</li>
-<li>rosacea conjunctivitis (99.9%)</li>
-<li>exposure keratitis (99.9%)</li>
-<li>atopic conjunctivitis (99.9%)</li>
-<li>conjunctival disorder (99.8%)</li>
-<li>nephrotic syndrome (99.8%)</li>
-<li>non-human animal disease (99.8%)</li>
-<li>tinea corporis (99.8%)</li>
-<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lidocaine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

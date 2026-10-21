@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Acetylcysteine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Acetylcysteine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Acetylcysteine. Indicação original: . 1 indicações previstas."
 permalink: /news/acetylcysteine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acetylcysteine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Acetylcysteine?">
-<strong>Acetylcysteine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Acetylcysteine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Acetylcysteine com as
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>thrombotic disease (100.0%)</li>
-<li>closed-angle glaucoma (100.0%)</li>
-<li>nasal cavity disease (99.9%)</li>
-<li>dry eye syndrome (99.9%)</li>
-<li>pharyngitis (99.8%)</li>
-<li>acute laryngopharyngitis (99.8%)</li>
-<li>tracheal disease (99.6%)</li>
-<li>transient ischemic attack (disease) (99.5%)</li>
-<li>laryngotracheitis (99.3%)</li>
-<li>angle-closure glaucoma (99.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença trombótica (thrombotic disease) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acetylcysteine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

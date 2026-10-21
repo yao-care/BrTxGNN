@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre pneumonia (infecção pulmonar)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre pneumonia (infecção pulmonar). 2 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre pneumonia (infecção pulmonar). 1 notícias, 4 medicamentos relacionados."
 permalink: /news/infecção-pulmonar/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/infecção-pulmonar/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre pneumonia (infecção pulmonar)?">
-<strong>pneumonia (infecção pulmonar)</strong> tem atualmente <strong>2 notícias</strong> e 4 medicamentos relacionados.
+<strong>pneumonia (infecção pulmonar)</strong> tem atualmente <strong>1 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ Esta página reúne as notícias de saúde mais recentes sobre «pneumonia» e l
 </ul>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (1)
 
 ### [Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite - CNN Brasil](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRThyZHRyV0NNNzk1Rm9wdGQ4aHpUdU05T3Y3bTY5WHNvU2hLMlpwNVB1OXZwV1VTY3JDRVM4YW1lejViT2ktRFFlc1k0Sm5Xbjd1WGxiY1RvTjZ3b2ZFaW82SGN4XzAyZkFoZ1JBTlgxRER1c2JDT3VVZHJ0OW9RMzRSZUpaN2k5UVBxTkVLdDhxZzZvOEZfQ0NpU25fS3g5bjJ2Uy1tZm9NOEVa?oc=5)
 
 2026-10-20
 
 Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRThyZHRyV0NNNzk1Rm9wdGQ4aHpUdU05T3Y3bTY5WHNvU2hLMlpwNVB1OXZwV1VTY3JDRVM4YW1lejViT2ktRFFlc1k0Sm5Xbjd1WGxiY1RvTjZ3b2ZFaW82SGN4XzAyZkFoZ1JBTlgxRER1c2JDT3VVZHJ0OW9RMzRSZUpaN2k5UVBxTkVLdDhxZzZvOEZfQ0NpU25fS3g5bjJ2Uy1tZm9NOEVa?oc=5)
-
----
-
-### [Quem tem direito à vacina pneumo 20 no SUS? - O TEMPO](https://news.google.com/rss/articles/CBMingFBVV95cUxNOVlXSnRyNlM3SUhpbk5iNFMyNGdhd2dFVEFZTkxBX2F1S0JHSDZ1bER6amhNdUNacTZvSlFlWldMRW14VGJvck1ERkREQUxleE1QZ3B1bXlyTUtJbkJMeV9EVUw0dGlhZVN0N2Q3YVM0d04xVjN6VUFiQlZ5MmNLQnppeVBTeVN0eW9POVJHdl9tWElWUXM3b3VPdEFIQQ?oc=5)
-
-2026-10-20
-
-Fonte: [O TEMPO](https://news.google.com/rss/articles/CBMingFBVV95cUxNOVlXSnRyNlM3SUhpbk5iNFMyNGdhd2dFVEFZTkxBX2F1S0JHSDZ1bER6amhNdUNacTZvSlFlWldMRW14VGJvck1ERkREQUxleE1QZ3B1bXlyTUtJbkJMeV9EVUw0dGlhZVN0N2Q3YVM0d04xVjN6VUFiQlZ5MmNLQnppeVBTeVN0eW9POVJHdl9tWElWUXM3b3VPdEFIQQ?oc=5)
 
 ---
 

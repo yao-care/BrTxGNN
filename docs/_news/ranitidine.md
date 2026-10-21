@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Ranitidine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ranitidine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Ranitidine. Indicação original: . 1 indicações previstas."
 permalink: /news/ranitidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ranitidine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ranitidine?">
-<strong>Ranitidine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ranitidine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Ranitidine com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>active peptic ulcer disease (99.9%)</li>
-<li>peptic ulcer perforation (99.9%)</li>
-<li>gastrojejunal ulcer (99.9%)</li>
-<li>duodenogastric reflux (99.8%)</li>
-<li>duodenal obstruction (99.8%)</li>
-<li>gastroduodenitis (99.7%)</li>
-<li>peptic ulcer disease (99.6%)</li>
-<li>Smouldering systemic mastocytosis (99.5%)</li>
-<li>abnormality of glucagon secretion (99.5%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (99.4%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença ulcerosa péptica ativa (active peptic ulcer disease) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ranitidine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

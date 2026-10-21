@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Diazepam"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Diazepam. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Diazepam. Indicação original: . 1 indicações previstas."
 permalink: /news/diazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diazepam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Diazepam?">
-<strong>Diazepam</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Diazepam</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Diazepam com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>insomnia (disease) (100.0%)</li>
-<li>cauda equina syndrome (100.0%)</li>
-<li>sleep disorder, initiating and maintaining sleep (100.0%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (100.0%)</li>
-<li>hallucinogen abuse (100.0%)</li>
-<li>barbiturate abuse (100.0%)</li>
-<li>antidepressant type abuse (100.0%)</li>
-<li>specific developmental disorder (100.0%)</li>
-<li>attention deficit-hyperactivity disorder (99.9%)</li>
-<li>obsolete neurogenic bladder (disease) (99.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Insônia (insomnia) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diazepam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

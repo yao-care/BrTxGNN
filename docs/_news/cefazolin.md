@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Cefazolin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Cefazolin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Cefazolin. Indicação original: . 1 indicações previstas."
 permalink: /news/cefazolin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cefazolin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Cefazolin?">
-<strong>Cefazolin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Cefazolin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Cefazolin com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>infectious otitis media (99.4%)</li>
-<li>bronchitis (99.3%)</li>
-<li>middle ear disease (99.1%)</li>
-<li>chronic otitis media (99.1%)</li>
-<li>suppurative otitis media (99.1%)</li>
-<li>otosalpingitis (99.1%)</li>
-<li>non-suppurative otitis media (99.0%)</li>
-<li>allergic otitis media (99.0%)</li>
-<li>middle ear cholesterol granuloma (98.9%)</li>
-<li>urinary tract infection (disease) (98.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Otite média infecciosa (infectious otitis media) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefazolin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

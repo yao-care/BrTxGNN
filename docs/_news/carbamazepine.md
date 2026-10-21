@@ -26,16 +26,16 @@ Esta página combina as indicações previstas por IA para CARBAMAZEPINE com as 
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>trigeminal nerve neoplasm (100.0%)</li>
-<li>startle epilepsy (100.0%)</li>
-<li>audiogenic seizures (100.0%)</li>
-<li>thinking seizures (100.0%)</li>
-<li>eating seizures (100.0%)</li>
-<li>orgasm-induced seizures (100.0%)</li>
-<li>micturation-induced seizures (100.0%)</li>
-<li>reading seizures (100.0%)</li>
-<li>beta-ketothiolase deficiency (99.9%)</li>
-<li>Rett syndrome, congenital variant (99.9%)</li>
+<li>Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (100.0%)</li>
+<li>Epilepsia do susto (startle epilepsy) (100.0%)</li>
+<li>Crises audiogênicas (100.0%)</li>
+<li>Crises induzidas pelo pensamento (100.0%)</li>
+<li>Crises induzidas pela alimentação (100.0%)</li>
+<li>Crises induzidas pelo orgasmo (100.0%)</li>
+<li>Crises induzidas pela micção (100.0%)</li>
+<li>Crises induzidas pela leitura (100.0%)</li>
+<li>Deficiência de beta-cetotiolase (99.9%)</li>
+<li>Síndrome de Rett, variante congênita (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbamazepine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

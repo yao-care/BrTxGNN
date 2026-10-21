@@ -26,7 +26,7 @@ Esta página combina as indicações previstas por IA para KETOCONAZOLE com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>acne (disease) (99.8%)</li>
+<li>Acne (acne (disease)) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

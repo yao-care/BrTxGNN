@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Lansoprazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Lansoprazole. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Lansoprazole. Indicação original: . 1 indicações previstas."
 permalink: /news/lansoprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lansoprazole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Lansoprazole?">
-<strong>Lansoprazole</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Lansoprazole</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Lansoprazole com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>duodenogastric reflux (99.7%)</li>
-<li>duodenal obstruction (99.7%)</li>
-<li>peptic ulcer perforation (98.8%)</li>
-<li>gastrojejunal ulcer (98.8%)</li>
-<li>abnormality of glucagon secretion (98.6%)</li>
-<li>gastroduodenitis (97.6%)</li>
-<li>acne (disease) (97.0%)</li>
-<li>Smouldering systemic mastocytosis (95.6%)</li>
-<li>leather-bottle stomach (94.7%)</li>
-<li>duodenitis (94.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Refluxo Duodenogástrico (Duodenogastric Reflux) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lansoprazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

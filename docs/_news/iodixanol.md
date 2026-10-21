@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Iodixanol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Iodixanol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Iodixanol. Indicação original: . 1 indicações previstas."
 permalink: /news/iodixanol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/iodixanol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Iodixanol?">
-<strong>Iodixanol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Iodixanol</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Iodixanol com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>osteoarthritis susceptibility (99.2%)</li>
-<li>osteoarthritis (99.1%)</li>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>hemoglobinopathy (98.6%)</li>
-<li>brachyolmia (98.5%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (98.4%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (98.4%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (98.4%)</li>
-<li>myosclerosis (98.3%)</li>
-<li>pseudoachondroplasia (98.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Suscetibilidade à osteoartrite (osteoarthritis susceptibility) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iodixanol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

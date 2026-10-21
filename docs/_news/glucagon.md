@@ -26,7 +26,7 @@ Esta página combina as indicações previstas por IA para GLUCAGON com as notí
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>irritable bowel syndrome (99.2%)</li>
+<li>Síndrome do intestino irritável (Irritable Bowel Syndrome) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glucagon/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

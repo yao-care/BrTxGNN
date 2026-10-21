@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Atropine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Atropine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Atropine. Indicação original: . 1 indicações previstas."
 permalink: /news/atropine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atropine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Atropine?">
-<strong>Atropine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Atropine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Atropine com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>migraine disorder (99.6%)</li>
-<li>migraine with brainstem aura (99.4%)</li>
-<li>migraine with or without aura, susceptibility to (98.2%)</li>
-<li>atrophoderma vermiculata (98.2%)</li>
-<li>open-angle glaucoma (98.0%)</li>
-<li>primary hereditary glaucoma (97.8%)</li>
-<li>ulerythema ophryogenesis (97.8%)</li>
-<li>headache disorder (97.2%)</li>
-<li>trigeminal autonomic cephalalgia (96.5%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (96.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Transtorno de enxaqueca (migraine disorder) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atropine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

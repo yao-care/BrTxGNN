@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre PREGABALIN"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com PREGABALIN. Indicação original: . 6 indicações previstas."
+description: "Notícias de saúde relacionadas com PREGABALIN. Indicação original: . 1 indicações previstas."
 permalink: /news/pregabalin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre PREGABALIN?">
-<strong>PREGABALIN</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
+<strong>PREGABALIN</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,8 @@ Esta página combina as indicações previstas por IA para PREGABALIN com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (6)</strong>:<ul>
-<li>tendinitis (99.7%)</li>
-<li>idiopathic granulomatous myositis (99.7%)</li>
-<li>myositis fibrosa (99.7%)</li>
-<li>inclusion body myositis (99.5%)</li>
-<li>migraine disorder (99.5%)</li>
-<li>migraine with brainstem aura (99.4%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Tendinite (tendinitis) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

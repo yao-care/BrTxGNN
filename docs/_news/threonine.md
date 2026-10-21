@@ -26,7 +26,7 @@ Esta página combina as indicações previstas por IA para THREONINE com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>gastroparesis (disease) (99.3%)</li>
+<li>Gastroparesia (Gastroparesis) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/threonine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

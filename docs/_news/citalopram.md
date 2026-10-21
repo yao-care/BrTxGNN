@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre CITALOPRAM"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CITALOPRAM. Indicação original: . 5 indicações previstas."
+description: "Notícias de saúde relacionadas com CITALOPRAM. Indicação original: . 1 indicações previstas."
 permalink: /news/citalopram/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/citalopram/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre CITALOPRAM?">
-<strong>CITALOPRAM</strong> tem atualmente <strong>0 notícias</strong> e 5 indicações previstas.
+<strong>CITALOPRAM</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ Esta página combina as indicações previstas por IA para CITALOPRAM com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (5)</strong>:<ul>
-<li>obsessive-compulsive disorder (99.7%)</li>
-<li>schizotypal personality disorder (99.7%)</li>
-<li>schizoid personality disorder (99.7%)</li>
-<li>histrionic personality disorder (disease) (99.7%)</li>
-<li>paranoid personality disorder (99.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Transtorno Obsessivo-Compulsivo (obsessive-compulsive disorder) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/citalopram/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

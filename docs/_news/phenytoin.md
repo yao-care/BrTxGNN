@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre PHENYTOIN"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com PHENYTOIN. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com PHENYTOIN. Indicação original: . 1 indicações previstas."
 permalink: /news/phenytoin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phenytoin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre PHENYTOIN?">
-<strong>PHENYTOIN</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>PHENYTOIN</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para PHENYTOIN com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>trigeminal nerve neoplasm (100.0%)</li>
-<li>micturation-induced seizures (100.0%)</li>
-<li>orgasm-induced seizures (100.0%)</li>
-<li>eating seizures (100.0%)</li>
-<li>audiogenic seizures (100.0%)</li>
-<li>startle epilepsy (100.0%)</li>
-<li>thinking seizures (100.0%)</li>
-<li>reading seizures (100.0%)</li>
-<li>trigeminal neuralgia (100.0%)</li>
-<li>beta-ketothiolase deficiency (100.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenytoin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

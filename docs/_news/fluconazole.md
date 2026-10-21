@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Fluconazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Fluconazole. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com Fluconazole. Indicação original: . 4 indicações previstas."
 permalink: /news/fluconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluconazole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Fluconazole?">
-<strong>Fluconazole</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>Fluconazole</strong> tem atualmente <strong>0 notícias</strong> e 4 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,11 @@ Esta página combina as indicações previstas por IA para Fluconazole com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>Malária por *Plasmodium falciparum* | 98,62% | L4 | Apenas um estudo *in vitro* e uma revisão; atividade antiplasmódica de azóis geralmente fraca (99.0%)</li>
-<li>Pneumocistose | 97,82% | L4 | *Pneumocystis* não possui ergosterol, então azóis em geral não são eficazes; o único ensaio listado (NCT04368559) testa rezafungina, não fluconazol (99.0%)</li>
-<li>Incompatibilidade de grupo sanguíneo | 97,75% | L5 | Literatura reflete apenas contexto de transplante e interação com tacrolimo (99.0%)</li>
+<li><strong>Indicações previstas (4)</strong>:<ul>
+<li>Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (99.2%)</li>
+<li>Malária por *Plasmodium falciparum* (98.6%)</li>
+<li>Pneumocistose (97.8%)</li>
+<li>Incompatibilidade de grupo sanguíneo (97.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluconazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

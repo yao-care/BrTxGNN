@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Telmisartan"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Telmisartan. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Telmisartan. Indicação original: . 1 indicações previstas."
 permalink: /news/telmisartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Telmisartan?">
-<strong>Telmisartan</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Telmisartan</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Telmisartan com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Prinzmetal angina (100.0%)</li>
-<li>brain stem infarction (100.0%)</li>
-<li>ABri amyloidosis (100.0%)</li>
-<li>cerebral artery occlusion (100.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>intracerebral hemorrhage (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Oclusão de Artéria Cerebral (Cerebral Artery Occlusion) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Ivacaftor"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ivacaftor. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Ivacaftor. Indicação original: . 1 indicações previstas."
 permalink: /news/ivacaftor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ivacaftor/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ivacaftor?">
-<strong>Ivacaftor</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ivacaftor</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Ivacaftor com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>rheumatoid arthritis (97.0%)</li>
-<li>HIV infectious disease (96.7%)</li>
-<li>leprosy (96.2%)</li>
-<li>simian immunodeficiency virus infection (96.0%)</li>
-<li>feline acquired immunodeficiency syndrome (96.0%)</li>
-<li>multiple endocrine neoplasia (95.8%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (95.5%)</li>
-<li>brachydactyly-syndactyly syndrome (95.5%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (95.1%)</li>
-<li>cytomegalovirus infection (94.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Artrite Reumatoide (Rheumatoid Arthritis) (97.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ivacaftor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre METOCLOPRAMIDE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com METOCLOPRAMIDE. Indicação original: . 5 indicações previstas."
+description: "Notícias de saúde relacionadas com METOCLOPRAMIDE. Indicação original: . 1 indicações previstas."
 permalink: /news/metoclopramide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metoclopramide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre METOCLOPRAMIDE?">
-<strong>METOCLOPRAMIDE</strong> tem atualmente <strong>0 notícias</strong> e 5 indicações previstas.
+<strong>METOCLOPRAMIDE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ Esta página combina as indicações previstas por IA para METOCLOPRAMIDE com as
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (5)</strong>:<ul>
-<li>gastric ulcer (disease) (99.9%)</li>
-<li>gastroduodenitis (99.9%)</li>
-<li>peptic ulcer disease (99.8%)</li>
-<li>gastrojejunal ulcer (99.8%)</li>
-<li>peptic ulcer perforation (99.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Úlcera gástrica (gastric ulcer) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metoclopramide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

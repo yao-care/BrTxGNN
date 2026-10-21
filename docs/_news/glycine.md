@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre GLYCINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com GLYCINE. Indicação original: . 2 indicações previstas."
+description: "Notícias de saúde relacionadas com GLYCINE. Indicação original: . 1 indicações previstas."
 permalink: /news/glycine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glycine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre GLYCINE?">
-<strong>GLYCINE</strong> tem atualmente <strong>0 notícias</strong> e 2 indicações previstas.
+<strong>GLYCINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Esta página combina as indicações previstas por IA para GLYCINE com as notíc
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (2)</strong>:<ul>
-<li>nasal cavity disease (99.8%)</li>
-<li>acute laryngopharyngitis (99.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença da Cavidade Nasal (Nasal Cavity Disease) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glycine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

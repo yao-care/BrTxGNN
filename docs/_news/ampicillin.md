@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Ampicillin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ampicillin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Ampicillin. Indicação original: . 1 indicações previstas."
 permalink: /news/ampicillin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ampicillin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ampicillin?">
-<strong>Ampicillin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ampicillin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Ampicillin com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>laryngitis (100.0%)</li>
-<li>Ureaplasma urethritis (99.4%)</li>
-<li>gonococcal urethritis (99.4%)</li>
-<li>chronic rhinosinusitis (99.3%)</li>
-<li>chronic ethmoidal sinusitis (99.3%)</li>
-<li>gingivitis (99.3%)</li>
-<li>paranasal sinus neoplasm (disease) (99.2%)</li>
-<li>bacterial arthritis (99.1%)</li>
-<li>conjunctivitis (99.0%)</li>
-<li>pericoronitis (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Laringite (Laryngitis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ampicillin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

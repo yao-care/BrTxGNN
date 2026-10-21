@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre LAMOTRIGINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LAMOTRIGINE. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com LAMOTRIGINE. Indicação original: . 1 indicações previstas."
 permalink: /news/lamotrigine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lamotrigine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre LAMOTRIGINE?">
-<strong>LAMOTRIGINE</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>LAMOTRIGINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,8 @@ Esta página combina as indicações previstas por IA para LAMOTRIGINE com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>trigeminal nerve neoplasm (100.0%)</li>
-<li>trigeminal neuralgia (99.9%)</li>
-<li>eating seizures (99.4%)</li>
-<li>startle epilepsy (99.4%)</li>
-<li>micturation-induced seizures (99.4%)</li>
-<li>orgasm-induced seizures (99.4%)</li>
-<li>audiogenic seizures (99.4%)</li>
-<li>thinking seizures (99.4%)</li>
-<li>reading seizures (99.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Neuralgia do trigêmeo (Trigeminal Neuralgia) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lamotrigine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

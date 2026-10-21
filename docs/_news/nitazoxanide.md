@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Nitazoxanide"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Nitazoxanide. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Nitazoxanide. Indicação original: . 1 indicações previstas."
 permalink: /news/nitazoxanide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nitazoxanide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Nitazoxanide?">
-<strong>Nitazoxanide</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Nitazoxanide</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Nitazoxanide com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>hyperamylasemia (97.8%)</li>
-<li>polyclonal hyperviscosity syndrome (97.8%)</li>
-<li>congenital analbuminemia (97.8%)</li>
-<li>blood group incompatibility (97.4%)</li>
-<li>premalignant hematological system disease (97.1%)</li>
-<li>monoclonal gammopathy (97.0%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (97.0%)</li>
-<li>septicemic plague (96.7%)</li>
-<li>congenital hematological disorder (96.5%)</li>
-<li>bubonic plague (93.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hiperamilasemia (hyperamylasemia) (97.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitazoxanide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

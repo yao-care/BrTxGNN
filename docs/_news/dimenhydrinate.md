@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre DIMENHYDRINATE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com DIMENHYDRINATE. Indicação original: . 2 indicações previstas."
+description: "Notícias de saúde relacionadas com DIMENHYDRINATE. Indicação original: . 1 indicações previstas."
 permalink: /news/dimenhydrinate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dimenhydrinate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre DIMENHYDRINATE?">
-<strong>DIMENHYDRINATE</strong> tem atualmente <strong>0 notícias</strong> e 2 indicações previstas.
+<strong>DIMENHYDRINATE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Esta página combina as indicações previstas por IA para DIMENHYDRINATE com as
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (2)</strong>:<ul>
-<li>allergic urticaria (99.7%)</li>
-<li>cold urticaria (99.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Urticária Alérgica (Allergic Urticaria) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dimenhydrinate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

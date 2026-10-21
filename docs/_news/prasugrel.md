@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Prasugrel"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Prasugrel. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Prasugrel. Indicação original: . 1 indicações previstas."
 permalink: /news/prasugrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prasugrel/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Prasugrel?">
-<strong>Prasugrel</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Prasugrel</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Prasugrel com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>pulmonary hypertension (99.9%)</li>
-<li>migraine disorder (99.9%)</li>
-<li>migraine with brainstem aura (99.8%)</li>
-<li>kyphoscoliotic heart disease (99.8%)</li>
-<li>rheumatoid arthritis (99.7%)</li>
-<li>homozygous familial hypercholesterolemia (99.7%)</li>
-<li>hypoalphalipoproteinemia (99.7%)</li>
-<li>migraine with or without aura, susceptibility to (99.7%)</li>
-<li>brachydactyly-syndactyly syndrome (99.6%)</li>
-<li>leprosy (99.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hipertensão Pulmonar (Pulmonary Hypertension) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

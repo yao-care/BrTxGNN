@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Nystatin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Nystatin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Nystatin. Indicação original: . 1 indicações previstas."
 permalink: /news/nystatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Nystatin?">
-<strong>Nystatin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Nystatin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Nystatin com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>vulvovaginitis (99.9%)</li>
-<li>disease of orbital region (99.9%)</li>
-<li>disease of orbital part of eye adnexa (99.9%)</li>
-<li>cystic teratoma (99.9%)</li>
-<li>spinal cord dermoid cyst (99.9%)</li>
-<li>postmenopausal atrophic vaginitis (99.9%)</li>
-<li>biotin metabolic disease (99.9%)</li>
-<li>vulvitis (99.8%)</li>
-<li>commissural lip fistula (99.8%)</li>
-<li>osteoradionecrosis of the mandible (99.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Vulvovaginite (vulvovaginitis) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

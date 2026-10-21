@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre DEGARELIX"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com DEGARELIX. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com DEGARELIX. Indicação original: . 1 indicações previstas."
 permalink: /news/degarelix/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/degarelix/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre DEGARELIX?">
-<strong>DEGARELIX</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>DEGARELIX</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para DEGARELIX com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
-<li>isolated genetic hair shaft abnormality (100.0%)</li>
-<li>allergic urticaria (100.0%)</li>
-<li>cold urticaria (99.9%)</li>
-<li>familial male-limited precocious puberty (99.8%)</li>
-<li>centra precocious puberty 1 (99.7%)</li>
-<li>familial isolated trichomegaly (99.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hipertricose (hypertrichosis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/degarelix/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

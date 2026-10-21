@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Phenylbutazone"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Phenylbutazone. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Phenylbutazone. Indicação original: . 1 indicações previstas."
 permalink: /news/phenylbutazone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phenylbutazone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Phenylbutazone?">
-<strong>Phenylbutazone</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Phenylbutazone</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Phenylbutazone com as
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>rheumatoid arthritis (99.8%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.7%)</li>
-<li>brachydactyly-syndactyly syndrome (99.6%)</li>
-<li>gout (99.2%)</li>
-<li>sclerosing cholangitis (99.1%)</li>
-<li>osteoarthritis susceptibility (98.8%)</li>
-<li>osteoarthritis (98.3%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (97.8%)</li>
-<li>brachyolmia (97.6%)</li>
-<li>myosclerosis (97.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Artrite Reumatoide (Rheumatoid Arthritis) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenylbutazone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

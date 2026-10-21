@@ -26,7 +26,7 @@ Esta página combina as indicações previstas por IA para CARISOPRODOL com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>insomnia (disease) (99.0%)</li>
+<li>Insônia (insomnia) (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

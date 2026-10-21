@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Brimonidine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Brimonidine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Brimonidine. Indicação original: . 1 indicações previstas."
 permalink: /news/brimonidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brimonidine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Brimonidine?">
-<strong>Brimonidine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Brimonidine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Brimonidine com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>papillary conjunctivitis (98.5%)</li>
-<li>primary hereditary glaucoma (96.9%)</li>
-<li>lichen disease (95.2%)</li>
-<li>congenital hypotrichosis milia (94.8%)</li>
-<li>rosacea conjunctivitis (94.7%)</li>
-<li>hypotrichosis simplex of the scalp (94.6%)</li>
-<li>diffuse alopecia areata (94.0%)</li>
-<li>lichen planus pigmentosus (93.2%)</li>
-<li>hypertrophic lichen planus (93.2%)</li>
-<li>annular atrophic lichen planus (93.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Conjuntivite papilar (papillary conjunctivitis) (98.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brimonidine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

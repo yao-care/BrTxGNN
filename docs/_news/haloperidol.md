@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre HALOPERIDOL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com HALOPERIDOL. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com HALOPERIDOL. Indicação original: . 1 indicações previstas."
 permalink: /news/haloperidol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/haloperidol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre HALOPERIDOL?">
-<strong>HALOPERIDOL</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>HALOPERIDOL</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para HALOPERIDOL com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>congenital disorder of glycosylation with defective fucosylation (99.9%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.9%)</li>
-<li>hydranencephaly (disease) (99.9%)</li>
-<li>myopia X-linked (99.9%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.9%)</li>
-<li>myopia 26, X-linked, female-limited (99.9%)</li>
-<li>syndromic myopia (99.9%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.9%)</li>
-<li>atypical glycine encephalopathy (99.9%)</li>
-<li>manic bipolar affective disorder (99.8%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Distúrbio congênito de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosylation) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/haloperidol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

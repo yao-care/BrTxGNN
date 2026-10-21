@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre ARIPIPRAZOLE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ARIPIPRAZOLE. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com ARIPIPRAZOLE. Indicação original: . 1 indicações previstas."
 permalink: /news/aripiprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/aripiprazole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ARIPIPRAZOLE?">
-<strong>ARIPIPRAZOLE</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>ARIPIPRAZOLE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para ARIPIPRAZOLE com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>major affective disorder (99.6%)</li>
-<li>gaze palsy, familial horizontal, with progressive scoliosis (99.6%)</li>
-<li>asperger syndrome, susceptibility to (99.5%)</li>
-<li>Phelan-McDermid syndrome (99.4%)</li>
-<li>amelocerebrohypohidrotic syndrome (99.3%)</li>
-<li>distal 17p13.3 microdeletion syndrome (99.3%)</li>
-<li>trichotillomania (99.3%)</li>
-<li>Malan overgrowth syndrome (99.3%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.2%)</li>
-<li>hydranencephaly (disease) (99.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Transtorno afetivo maior (major affective disorder) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Gadobutrol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Gadobutrol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Gadobutrol. Indicação original: . 1 indicações previstas."
 permalink: /news/gadobutrol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gadobutrol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gadobutrol?">
-<strong>Gadobutrol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Gadobutrol</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Gadobutrol com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>benign prostatic hyperplasia (disease) (83.2%)</li>
-<li>peripheral arterial disease (76.7%)</li>
-<li>cauda equina syndrome (75.2%)</li>
-<li>peripheral vascular disease (74.4%)</li>
-<li>strongyloidiasis (73.1%)</li>
-<li>prostate calculus (72.5%)</li>
-<li>obsolete neurogenic bladder (disease) (71.9%)</li>
-<li>iritis (disease) (71.2%)</li>
-<li>hypertrichosis (disease) (70.8%)</li>
-<li>disease of orbital region (70.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hiperplasia Prostática Benigna (benign prostatic hyperplasia) (83.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gadobutrol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

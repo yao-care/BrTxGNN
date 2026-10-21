@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre TETRACAINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com TETRACAINE. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com TETRACAINE. Indicação original: . 1 indicações previstas."
 permalink: /news/tetracaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tetracaine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TETRACAINE?">
-<strong>TETRACAINE</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>TETRACAINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,8 @@ Esta página combina as indicações previstas por IA para TETRACAINE com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>acrodermatitis chronica atrophicans (99.9%)</li>
-<li>neonatal dermatomyositis (99.9%)</li>
-<li>bronchitis (99.9%)</li>
-<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (99.9%)</li>
-<li>acne keloid (99.9%)</li>
-<li>hydroa vacciniforme, familial (99.9%)</li>
-<li>amyopathic dermatomyositis (99.9%)</li>
-<li>cauda equina syndrome (99.5%)</li>
-<li>irritable bowel syndrome (99.4%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Acrodermatite crônica atrófica (acrodermatitis chronica atrophicans) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tetracaine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

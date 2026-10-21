@@ -26,7 +26,7 @@ Esta página combina as indicações previstas por IA para ARGININE com as notí
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>gastroparesis (disease) (99.4%)</li>
+<li>Gastroparesia (Gastroparesis) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/arginine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Histidine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Histidine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Histidine. Indicação original: . 1 indicações previstas."
 permalink: /news/histidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/histidine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Histidine?">
-<strong>Histidine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Histidine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Histidine com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>gastroparesis (disease) (99.5%)</li>
-<li>sclerosing cholangitis (99.3%)</li>
-<li>congenital prothrombin deficiency (98.8%)</li>
-<li>familial visceral myopathy (98.7%)</li>
-<li>potassium deficiency disease (98.7%)</li>
-<li>dyspepsia (98.5%)</li>
-<li>myopathic intestinal pseudoobstruction (98.1%)</li>
-<li>unclassified intestinal pseudoobstruction (98.1%)</li>
-<li>primary aldosteronism (98.1%)</li>
-<li>intestinal obstruction (98.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Gastroparesia (Gastroparesis) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/histidine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

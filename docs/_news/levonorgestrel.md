@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre LEVONORGESTREL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LEVONORGESTREL. Indicação original: . 6 indicações previstas."
+description: "Notícias de saúde relacionadas com LEVONORGESTREL. Indicação original: . 1 indicações previstas."
 permalink: /news/levonorgestrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levonorgestrel/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre LEVONORGESTREL?">
-<strong>LEVONORGESTREL</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
+<strong>LEVONORGESTREL</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,8 @@ Esta página combina as indicações previstas por IA para LEVONORGESTREL com as
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (6)</strong>:<ul>
-<li>acne (disease) (99.9%)</li>
-<li>Worth syndrome (99.6%)</li>
-<li>pregnancy associated osteoporosis (99.5%)</li>
-<li>autosomal dominant neovascular inflammatory vitreoretinopathy (99.4%)</li>
-<li>apocrine adenosis of breast (99.0%)</li>
-<li>blunt duct adenosis of breast (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Acne (acne (disease)) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levonorgestrel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

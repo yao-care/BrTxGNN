@@ -26,12 +26,12 @@ Esta página combina as indicações previstas por IA para IRON com as notícias
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (6)</strong>:<ul>
-<li>vitamin B12- and folate-independent constitutional megaloblastic anemia (99.9%)</li>
-<li>Plummer-Vinson syndrome (99.9%)</li>
-<li>non-syndromic esophageal malformation (99.9%)</li>
-<li>biotin metabolic disease (99.7%)</li>
-<li>vitamin deficiency disorder (99.7%)</li>
-<li>esophageal disease (99.4%)</li>
+<li>Síndrome de Plummer-Vinson (Plummer-Vinson syndrome) (99.9%)</li>
+<li>Doença esofágica (99.4%)</li>
+<li>Deficiência vitamínica (99.7%)</li>
+<li>Doença metabólica da biotina (99.7%)</li>
+<li>Malformação esofágica não sindrômica (99.9%)</li>
+<li>Anemia megaloblástica constitucional independente de B12 e folato (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iron/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

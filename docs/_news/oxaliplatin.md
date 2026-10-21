@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Oxaliplatin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Oxaliplatin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Oxaliplatin. Indicação original: . 1 indicações previstas."
 permalink: /news/oxaliplatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxaliplatin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Oxaliplatin?">
-<strong>Oxaliplatin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Oxaliplatin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Oxaliplatin com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>malignant pleural mesothelioma (99.7%)</li>
-<li>malignant epithelioid mesothelioma (99.5%)</li>
-<li>sarcomatoid mesothelioma (99.4%)</li>
-<li>malignant visceral pleura tumor (99.3%)</li>
-<li>female breast carcinoma (98.5%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (98.3%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (98.2%)</li>
-<li>extrahepatic bile duct rhabdomyosarcoma (98.2%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (98.2%)</li>
-<li>prostate embryonal rhabdomyosarcoma (98.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Mesotelioma Pleural Maligno (Malignant Pleural Mesothelioma) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxaliplatin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

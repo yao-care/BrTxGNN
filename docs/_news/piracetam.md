@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Piracetam"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Piracetam. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Piracetam. Indicação original: . 1 indicações previstas."
 permalink: /news/piracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/piracetam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Piracetam?">
-<strong>Piracetam</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Piracetam</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Piracetam com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>osteoarthritis (98.5%)</li>
-<li>osteoarthritis susceptibility (98.3%)</li>
-<li>rheumatoid arthritis (98.0%)</li>
-<li>pseudoachondroplasia (97.6%)</li>
-<li>hepatic porphyria (97.5%)</li>
-<li>gout (97.5%)</li>
-<li>brachyolmia (97.5%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (97.3%)</li>
-<li>myosclerosis (97.2%)</li>
-<li>hepatoportal sclerosis (97.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Osteoartrite (osteoarthritis) (98.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/piracetam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

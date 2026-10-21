@@ -26,7 +26,7 @@ Esta página combina as indicações previstas por IA para RIVASTIGMINE com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>glaucoma (99.3%)</li>
+<li>Glaucoma (glaucoma) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rivastigmine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

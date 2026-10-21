@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre LEVETIRACETAM"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LEVETIRACETAM. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com LEVETIRACETAM. Indicação original: . 1 indicações previstas."
 permalink: /news/levetiracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre LEVETIRACETAM?">
-<strong>LEVETIRACETAM</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>LEVETIRACETAM</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para LEVETIRACETAM com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>visual epilepsy (100.0%)</li>
-<li>micturation-induced seizures (100.0%)</li>
-<li>startle epilepsy (100.0%)</li>
-<li>thinking seizures (100.0%)</li>
-<li>orgasm-induced seizures (100.0%)</li>
-<li>eating seizures (100.0%)</li>
-<li>audiogenic seizures (100.0%)</li>
-<li>reading seizures (99.9%)</li>
-<li>status epilepticus (99.9%)</li>
-<li>beta-ketothiolase deficiency (99.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Epilepsia visual (visual epilepsy) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

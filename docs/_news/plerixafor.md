@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre PLERIXAFOR"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com PLERIXAFOR. Indicação original: . 7 indicações previstas."
+description: "Notícias de saúde relacionadas com PLERIXAFOR. Indicação original: . 1 indicações previstas."
 permalink: /news/plerixafor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/plerixafor/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre PLERIXAFOR?">
-<strong>PLERIXAFOR</strong> tem atualmente <strong>0 notícias</strong> e 7 indicações previstas.
+<strong>PLERIXAFOR</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,8 @@ Esta página combina as indicações previstas por IA para PLERIXAFOR com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (7)</strong>:<ul>
-<li>indolent plasma cell myeloma (100.0%)</li>
-<li>CMM7 (99.3%)</li>
-<li>pediatric leptomeningeal melanoma (99.3%)</li>
-<li>epithelioid cell uveal melanoma (99.3%)</li>
-<li>bronchitis (99.2%)</li>
-<li>vulvar melanoma (disease) (99.2%)</li>
-<li>myeloid leukemia (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Mieloma de plasmócitos indolente (indolent plasma cell myeloma) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/plerixafor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

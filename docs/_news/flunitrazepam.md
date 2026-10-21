@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Flunitrazepam"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Flunitrazepam. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Flunitrazepam. Indicação original: . 1 indicações previstas."
 permalink: /news/flunitrazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flunitrazepam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Flunitrazepam?">
-<strong>Flunitrazepam</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Flunitrazepam</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Flunitrazepam com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>insomnia (disease) (99.9%)</li>
-<li>migraine disorder (99.7%)</li>
-<li>migraine with brainstem aura (99.6%)</li>
-<li>anxiety (99.6%)</li>
-<li>anxiety disorder (99.6%)</li>
-<li>alcohol withdrawal delirium (99.5%)</li>
-<li>migraine with or without aura, susceptibility to (99.5%)</li>
-<li>agoraphobia (99.4%)</li>
-<li>benign paroxysmal torticollis of infancy (99.4%)</li>
-<li>atrophoderma vermiculata (99.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Insônia (insomnia) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/flunitrazepam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -26,16 +26,16 @@ Esta página combina as indicações previstas por IA para Nimesulide com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>gout (97.6%)</li>
-<li>headache disorder (96.6%)</li>
-<li>trigeminal autonomic cephalalgia (96.2%)</li>
-<li>rheumatoid arthritis (95.3%)</li>
-<li>migraine disorder (94.8%)</li>
-<li>migraine with brainstem aura (94.7%)</li>
-<li>tendinitis (94.2%)</li>
-<li>exostosis (94.2%)</li>
-<li>idiopathic granulomatous myositis (94.0%)</li>
-<li>myositis fibrosa (94.0%)</li>
+<li>Gota (gout) (97.6%)</li>
+<li>Cefaleia (headache disorder) (96.6%)</li>
+<li>Cefalalgia autonômica trigeminal (96.2%)</li>
+<li>Artrite reumatoide (95.3%)</li>
+<li>Enxaqueca (migraine disorder) (94.8%)</li>
+<li>Enxaqueca com aura do tronco encefálico (94.7%)</li>
+<li>Tendinite (94.2%)</li>
+<li>Exostose (94.2%)</li>
+<li>Miosite granulomatosa idiopática (94.0%)</li>
+<li>Miosite fibrosa (94.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nimesulide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

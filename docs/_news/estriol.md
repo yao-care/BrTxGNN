@@ -26,7 +26,7 @@ Esta página combina as indicações previstas por IA para ESTRIOL com as notíc
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>amenorrhea (disease) (99.2%)</li>
+<li>Amenorreia (amenorrhea) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/estriol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

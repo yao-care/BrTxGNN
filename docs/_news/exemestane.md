@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Exemestane"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Exemestane. Indicação original: . 9 indicações previstas."
+description: "Notícias de saúde relacionadas com Exemestane. Indicação original: . 10 indicações previstas."
 permalink: /news/exemestane/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/exemestane/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Exemestane?">
-<strong>Exemestane</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
+<strong>Exemestane</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ Esta página combina as indicações previstas por IA para Exemestane com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (9)</strong>:<ul>
-<li>Amenorreia | 99,82% | L4 | Efeito esperado do fármaco (supressão de estrogênio), não alvo terapêutico; a literatura é indireta (99.0%)</li>
-<li>Excesso de fator 5 com trombose espontânea | 99,82% | L5 | Sem mecanismo claro (99.0%)</li>
-<li>Deficiência de cofator 2 da heparina | 99,82% | L5 | Sem mecanismo plausível (99.0%)</li>
-<li>Trombofilia | 99,67% | L5 | Vínculo apenas especulativo (99.0%)</li>
-<li>Enxaqueca | 99,02% | L5 | A redução de estrogênio pode piorar a enxaqueca; cefaleia é efeito adverso relatado (99.0%)</li>
-<li>Enxaqueca com aura do tronco encefálico | 99,01% | L5 | Provável propagação do nó de enxaqueca geral (99.0%)</li>
-<li>Acne | 97,25% | L5 | Atividade androgênica fraca do exemestano pode agravar a acne (99.0%)</li>
-<li>Suscetibilidade a enxaqueca com ou sem aura | 96,63% | L5 | Fenótipo genético, redundante com as demais enxaquecas (99.0%)</li>
-<li>Doença fibrocística da mama | 95,66% | L5 | Plausibilidade biológica (resposta a estrogênio), porém sem evidência (99.0%)</li>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>Deficiência de antitrombina tipo 2 (antithrombin deficiency type 2) (99.8%)</li>
+<li>Amenorreia (99.8%)</li>
+<li>Excesso de fator 5 com trombose espontânea (99.8%)</li>
+<li>Deficiência de cofator 2 da heparina (99.8%)</li>
+<li>Trombofilia (99.7%)</li>
+<li>Enxaqueca (99.0%)</li>
+<li>Enxaqueca com aura do tronco encefálico (99.0%)</li>
+<li>Acne (97.2%)</li>
+<li>Suscetibilidade a enxaqueca com ou sem aura (96.6%)</li>
+<li>Doença fibrocística da mama (95.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/exemestane/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

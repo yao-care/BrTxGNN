@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Letermovir"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Letermovir. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Letermovir. Indicação original: . 1 indicações previstas."
 permalink: /news/letermovir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/letermovir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Letermovir?">
-<strong>Letermovir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Letermovir</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Letermovir com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>vulvovaginal candidiasis (99.9%)</li>
-<li>fungal infectious disease (98.9%)</li>
-<li>tinea nigra (98.6%)</li>
-<li>malignant catarrh (98.5%)</li>
-<li>infectious bovine rhinotracheitis (98.5%)</li>
-<li>anogenital human papillomavirus infection (98.0%)</li>
-<li>AIDS (97.9%)</li>
-<li>dermatophytosis (97.7%)</li>
-<li>piedra (97.2%)</li>
-<li>varicella zoster infection (96.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Candidíase Vulvovaginal (vulvovaginal candidiasis) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/letermovir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

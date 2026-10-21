@@ -26,10 +26,10 @@ Esta página combina as indicações previstas por IA para EZETIMIBE com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (4)</strong>:<ul>
-<li>hyperlipoproteinemia (99.6%)</li>
-<li>familial hypercholesterolemia (99.4%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.2%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.1%)</li>
+<li>Hiperlipoproteinemia (Hyperlipoproteinemia) (99.6%)</li>
+<li>Hipercolesterolemia familiar (99.4%)</li>
+<li>Hipercolesterolemia por deficiência de colesterol 7α-hidroxilase (99.2%)</li>
+<li>Deficiência de proteína de transferência de ésteres de colesterol (CETP) (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ezetimibe/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

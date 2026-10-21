@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Tolnaftate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tolnaftate. Indicação original: . 5 indicações previstas."
+description: "Notícias de saúde relacionadas com Tolnaftate. Indicação original: . 6 indicações previstas."
 permalink: /news/tolnaftate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tolnaftate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tolnaftate?">
-<strong>Tolnaftate</strong> tem atualmente <strong>0 notícias</strong> e 5 indicações previstas.
+<strong>Tolnaftate</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,13 @@ Esta página combina as indicações previstas por IA para Tolnaftate com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (5)</strong>:<ul>
-<li>Granuloma de Majocchi | 98,59% | L5 | Infecção profunda folicular/dérmica; terapia tópica isolada geralmente é inadequada (99.0%)</li>
-<li>Candidíase cutânea | 98,54% | L4 | Atividade do tolnaftato contra *Candida* é fraca e inconsistente; azólicos são o padrão (99.0%)</li>
-<li>Doença infecciosa endotrix | 98,51% | L5 | Esporos dentro da haste; terapia sistêmica é o padrão (99.0%)</li>
-<li>Micose superficial | 98,48% | L3 | Corresponde essencialmente ao uso já existente do fármaco (99.0%)</li>
-<li>Tinea profunda | 98,14% | L5 | Penetração tópica limitada em tecido profundo (99.0%)</li>
+<li><strong>Indicações previstas (6)</strong>:<ul>
+<li>Doença infecciosa ectotrix (ectothrix infectious disease) (98.6%)</li>
+<li>Granuloma de Majocchi (98.6%)</li>
+<li>Candidíase cutânea (98.5%)</li>
+<li>Doença infecciosa endotrix (98.5%)</li>
+<li>Micose superficial (98.5%)</li>
+<li>Tinea profunda (98.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tolnaftate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

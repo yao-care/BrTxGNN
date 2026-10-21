@@ -26,16 +26,16 @@ Esta página combina as indicações previstas por IA para Clioquinol com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>cutaneous candidiasis (99.8%)</li>
-<li>ectothrix infectious disease (99.3%)</li>
-<li>Majocchi granuloma (99.3%)</li>
-<li>endothrix infectious disease (99.2%)</li>
-<li>superficial mycosis (99.2%)</li>
-<li>dermatophytosis of scalp or beard (99.2%)</li>
-<li>tinea profunda (99.1%)</li>
-<li>pityriasis versicolor (99.0%)</li>
-<li>granuloma annulare (95.3%)</li>
-<li>tinea manuum (94.1%)</li>
+<li>Candidíase cutânea (Cutaneous Candidiasis) (99.8%)</li>
+<li>Doença infecciosa ectotrix (99.3%)</li>
+<li>Granuloma de Majocchi (99.3%)</li>
+<li>Doença infecciosa endotrix (99.2%)</li>
+<li>Micose superficial (99.2%)</li>
+<li>Dermatofitose do couro cabeludo ou da barba (99.2%)</li>
+<li>Tinea profunda (99.1%)</li>
+<li>Pitiríase versicolor (99.0%)</li>
+<li>Granuloma anular (95.3%)</li>
+<li>Tinea manuum (94.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clioquinol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Ciprofloxacin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ciprofloxacin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Ciprofloxacin. Indicação original: . 1 indicações previstas."
 permalink: /news/ciprofloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ciprofloxacin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ciprofloxacin?">
-<strong>Ciprofloxacin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ciprofloxacin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Ciprofloxacin com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>diffuse scleroderma (99.9%)</li>
-<li>hyperamylasemia (99.9%)</li>
-<li>polyclonal hyperviscosity syndrome (99.9%)</li>
-<li>congenital analbuminemia (99.8%)</li>
-<li>blood group incompatibility (99.8%)</li>
-<li>premalignant hematological system disease (99.7%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.7%)</li>
-<li>monoclonal gammopathy (99.7%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.7%)</li>
-<li>septicemic plague (99.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Esclerodermia Difusa (Diffuse Scleroderma) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ciprofloxacin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre LISINOPRIL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LISINOPRIL. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com LISINOPRIL. Indicação original: . 1 indicações previstas."
 permalink: /news/lisinopril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lisinopril/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre LISINOPRIL?">
-<strong>LISINOPRIL</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>LISINOPRIL</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para LISINOPRIL com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>posterolateral myocardial infarction (99.9%)</li>
-<li>posteroinferior myocardial infarction (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>septal myocardial infarction (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
-<li>chronic pulmonary heart disease (99.7%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Infarto do miocárdio posterolateral (posterolateral myocardial infarction) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lisinopril/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Everolimus"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Everolimus. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Everolimus. Indicação original: . 1 indicações previstas."
 permalink: /news/everolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/everolimus/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Everolimus?">
-<strong>Everolimus</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Everolimus</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Everolimus com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>liposarcoma (99.9%)</li>
-<li>ovarian myxoid liposarcoma (99.8%)</li>
-<li>dermatofibrosarcoma protuberans (99.8%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.8%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>rhabdomyosarcoma (disease) (99.7%)</li>
-<li>prostate embryonal rhabdomyosarcoma (99.7%)</li>
-<li>renal cell carcinoma associated with neuroblastoma (99.7%)</li>
-<li>unclassified renal cell carcinoma (99.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Lipossarcoma (liposarcoma) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/everolimus/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

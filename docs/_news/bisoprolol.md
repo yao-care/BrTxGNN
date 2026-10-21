@@ -26,11 +26,11 @@ Esta página combina as indicações previstas por IA para BISOPROLOL com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (5)</strong>:<ul>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
+<li>Doença Renal Hipertensiva Maligna (Malignant Hypertensive Renal Disease) (99.9%)</li>
+<li>Hipertensão renovascular maligna (99.9%)</li>
+<li>Hipertensão pulmonar de mecanismo multifatorial incerto (99.9%)</li>
+<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia (99.9%)</li>
+<li>Síndrome de Braddock (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bisoprolol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

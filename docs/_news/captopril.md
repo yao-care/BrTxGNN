@@ -26,10 +26,10 @@ Esta página combina as indicações previstas por IA para CAPTOPRIL com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (4)</strong>:<ul>
-<li>malignant hypertensive renal disease (99.3%)</li>
-<li>malignant renovascular hypertension (99.3%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.2%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.2%)</li>
+<li>Doença renal hipertensiva maligna (malignant hypertensive renal disease) (99.3%)</li>
+<li>Hipertensão renovascular maligna (99.3%)</li>
+<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia (99.2%)</li>
+<li>Hipertensão pulmonar de mecanismo multifatorial incerto (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/captopril/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

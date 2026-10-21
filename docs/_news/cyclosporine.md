@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Cyclosporine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Cyclosporine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Cyclosporine. Indicação original: . 1 indicações previstas."
 permalink: /news/cyclosporine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyclosporine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Cyclosporine?">
-<strong>Cyclosporine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Cyclosporine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Cyclosporine com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>granulomatous disease, chronic, autosomal recessive (99.7%)</li>
-<li>brain aneurysm (99.5%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.4%)</li>
-<li>congenital ichthyosiform erythroderma (99.4%)</li>
-<li>fetal erythroblastosis (99.4%)</li>
-<li>brachydactyly-syndactyly syndrome (99.3%)</li>
-<li>prolapse of lacrimal gland (99.1%)</li>
-<li>excretory apparatus of the lacrimal system anomaly (99.0%)</li>
-<li>bronchitis (98.9%)</li>
-<li>nasolacrimal duct disease (98.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença granulomatosa crônica autossômica recessiva (Granulomatous disease, chronic, autosomal recessive) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclosporine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

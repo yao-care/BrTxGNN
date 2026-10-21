@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre PHENYLALANINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com PHENYLALANINE. Indicação original: . 2 indicações previstas."
+description: "Notícias de saúde relacionadas com PHENYLALANINE. Indicação original: . 1 indicações previstas."
 permalink: /news/phenylalanine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phenylalanine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre PHENYLALANINE?">
-<strong>PHENYLALANINE</strong> tem atualmente <strong>0 notícias</strong> e 2 indicações previstas.
+<strong>PHENYLALANINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Esta página combina as indicações previstas por IA para PHENYLALANINE com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (2)</strong>:<ul>
-<li>sclerosing cholangitis (99.4%)</li>
-<li>congenital prothrombin deficiency (99.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Colangite esclerosante (sclerosing cholangitis) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenylalanine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

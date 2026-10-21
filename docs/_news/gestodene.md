@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Gestodene"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Gestodene. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Gestodene. Indicação original: . 1 indicações previstas."
 permalink: /news/gestodene/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gestodene/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gestodene?">
-<strong>Gestodene</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Gestodene</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Gestodene com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>migraine disorder (94.3%)</li>
-<li>migraine with brainstem aura (94.3%)</li>
-<li>primary cutaneous T-cell lymphoma (93.4%)</li>
-<li>acne (disease) (91.3%)</li>
-<li>seborrheic keratosis (89.3%)</li>
-<li>migraine with or without aura, susceptibility to (89.1%)</li>
-<li>vulvar inverted follicular keratosis (88.7%)</li>
-<li>mycotic corneal ulcer (88.6%)</li>
-<li>kyphoscoliotic heart disease (88.5%)</li>
-<li>allergic asthma (88.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Enxaqueca (migraine disorder), primeira posição do ranking; acne analisada à parte (94.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gestodene/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

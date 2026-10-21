@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Piroxicam"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Piroxicam. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Piroxicam. Indicação original: . 1 indicações previstas."
 permalink: /news/piroxicam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/piroxicam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Piroxicam?">
-<strong>Piroxicam</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Piroxicam</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Piroxicam com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
-<li>brachydactyly-syndactyly syndrome (100.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
-<li>myosclerosis (100.0%)</li>
-<li>brachyolmia (100.0%)</li>
-<li>pseudoachondroplasia (100.0%)</li>
-<li>WHIM syndrome (100.0%)</li>
-<li>rheumatoid nodulosis (99.9%)</li>
-<li>juvenile idiopathic arthritis (99.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome de microftalmia colobomatosa-displasia rizomélica (primeira da lista por pontuação). A mais bem sustentada é a Artrite Idiopática Juvenil (10ª na lista) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/piroxicam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

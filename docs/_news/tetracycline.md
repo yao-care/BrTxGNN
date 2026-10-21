@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Tetracycline"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tetracycline. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Tetracycline. Indicação original: . 1 indicações previstas."
 permalink: /news/tetracycline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tetracycline/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tetracycline?">
-<strong>Tetracycline</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Tetracycline</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Tetracycline com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.6%)</li>
-<li>chronic ethmoidal sinusitis (99.2%)</li>
-<li>chronic rhinosinusitis (99.2%)</li>
-<li>paranasal sinus neoplasm (disease) (99.1%)</li>
-<li>exposure keratitis (98.9%)</li>
-<li>postinfectious vasculitis (98.8%)</li>
-<li>post-bacterial disorder (98.8%)</li>
-<li>post-infectious syndrome (98.7%)</li>
-<li>infective urethral stricture (98.7%)</li>
-<li>otitis externa (98.6%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Ceratoconjuntivite epitelial punctata (Punctate Epithelial Keratoconjunctivitis) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tetracycline/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

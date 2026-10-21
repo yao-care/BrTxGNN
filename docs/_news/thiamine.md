@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Thiamine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Thiamine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Thiamine. Indicação original: . 1 indicações previstas."
 permalink: /news/thiamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/thiamine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Thiamine?">
-<strong>Thiamine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Thiamine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Thiamine com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>hyperthyroidism (99.4%)</li>
-<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.4%)</li>
-<li>primary hereditary glaucoma (99.4%)</li>
-<li>open-angle glaucoma (99.4%)</li>
-<li>pulmonary hypertension (99.0%)</li>
-<li>hyperthyroxinemia (98.9%)</li>
-<li>kyphoscoliotic heart disease (98.9%)</li>
-<li>Graves disease (98.2%)</li>
-<li>peripheral vascular disease (98.1%)</li>
-<li>neonatal thyrotoxicosis (97.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hipertireoidismo (hyperthyroidism) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/thiamine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Mannitol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Mannitol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Mannitol. Indicação original: . 1 indicações previstas."
 permalink: /news/mannitol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Mannitol?">
-<strong>Mannitol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Mannitol</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Mannitol com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis (100.0%)</li>
-<li>acute pulmonary heart disease (99.9%)</li>
-<li>exercise-induced malignant hyperthermia (99.9%)</li>
-<li>malignant hyperthermia, susceptibility to (99.8%)</li>
-<li>familial periodic paralysis (99.8%)</li>
-<li>hypokalemic periodic paralysis (99.7%)</li>
-<li>congenital multicore myopathy with external ophthalmoplegia (99.7%)</li>
-<li>moderate multiminicore disease with hand involvement (99.7%)</li>
-<li>nephrogenic diabetes insipidus (99.7%)</li>
-<li>central core myopathy (99.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome nefrogênica de antidiurese inapropriada (nephrogenic syndrome of inappropriate antidiuresis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Tocopherol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tocopherol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Tocopherol. Indicação original: . 6 indicações previstas."
 permalink: /news/tocopherol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tocopherol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tocopherol?">
-<strong>Tocopherol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Tocopherol</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,13 @@ Esta página combina as indicações previstas por IA para Tocopherol com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>sclerosing cholangitis (98.8%)</li>
-<li>pulmonary hypertension (98.5%)</li>
-<li>rheumatoid arthritis (98.4%)</li>
-<li>hypotrichosis simplex of the scalp (98.4%)</li>
-<li>congenital hypotrichosis milia (98.3%)</li>
-<li>kyphoscoliotic heart disease (98.3%)</li>
-<li>diffuse alopecia areata (98.1%)</li>
-<li>alopecia (98.1%)</li>
-<li>congestive heart failure (97.8%)</li>
-<li>peripheral vascular disease (97.6%)</li>
+<li><strong>Indicações previstas (6)</strong>:<ul>
+<li>Colangite esclerosante (Sclerosing Cholangitis) (98.8%)</li>
+<li>Hipertensão pulmonar (98.5%)</li>
+<li>Artrite reumatoide (98.4%)</li>
+<li>Alopecia (98.1%)</li>
+<li>Insuficiência cardíaca congestiva (97.8%)</li>
+<li>Doença vascular periférica (97.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tocopherol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

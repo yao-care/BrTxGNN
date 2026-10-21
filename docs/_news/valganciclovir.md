@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Valganciclovir"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Valganciclovir. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Valganciclovir. Indicação original: . 1 indicações previstas."
 permalink: /news/valganciclovir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/valganciclovir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Valganciclovir?">
-<strong>Valganciclovir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Valganciclovir</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Valganciclovir com as
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>bronchitis (98.3%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (98.2%)</li>
-<li>brachydactyly-syndactyly syndrome (97.9%)</li>
-<li>laryngotracheitis (95.5%)</li>
-<li>osteoarthritis susceptibility (94.3%)</li>
-<li>trigeminal autonomic cephalalgia (93.8%)</li>
-<li>headache disorder (93.5%)</li>
-<li>tendinitis (92.9%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (92.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Artrite Reumatoide (Rheumatoid Arthritis) (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/valganciclovir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

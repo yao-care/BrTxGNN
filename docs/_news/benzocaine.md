@@ -26,7 +26,7 @@ Esta página combina as indicações previstas por IA para BENZOCAINE com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>papillary conjunctivitis (99.4%)</li>
+<li>Conjuntivite Papilar (Papillary Conjunctivitis) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/benzocaine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

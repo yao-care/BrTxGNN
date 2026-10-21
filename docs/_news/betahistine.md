@@ -26,16 +26,16 @@ Esta página combina as indicações previstas por IA para Betahistine com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>restless legs syndrome (98.5%)</li>
-<li>active vestibular Meniere disease (98.3%)</li>
-<li>active cochlear Meniere disease (98.3%)</li>
-<li>active cochleovestibular Meniere disease (98.3%)</li>
-<li>otosclerosis (98.2%)</li>
-<li>peripheral vertigo (98.1%)</li>
-<li>age-related hearing impairment (97.9%)</li>
-<li>vertigo, benign recurrent, 2 (97.8%)</li>
-<li>autosomal recessive hyperinsulinism due to Kir6.2 deficiency (97.8%)</li>
-<li>hyperinsulinemic hypoglycemia, familial (97.3%)</li>
+<li>Síndrome das Pernas Inquietas (Restless Legs Syndrome) (98.5%)</li>
+<li>Doença de Ménière vestibular ativa (98.3%)</li>
+<li>Doença de Ménière coclear ativa (98.3%)</li>
+<li>Doença de Ménière cocleovestibular ativa (98.3%)</li>
+<li>Otosclerose (98.2%)</li>
+<li>Vertigem periférica (98.1%)</li>
+<li>Perda auditiva relacionada à idade (97.9%)</li>
+<li>Vertigem recorrente benigna tipo 2 (97.8%)</li>
+<li>Hiperinsulinismo por deficiência de Kir6.2 (97.8%)</li>
+<li>Hipoglicemia hiperinsulinêmica familiar (97.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/betahistine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

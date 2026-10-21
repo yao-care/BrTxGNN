@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Biotin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Biotin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Biotin. Indicação original: . 1 indicações previstas."
 permalink: /news/biotin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/biotin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Biotin?">
-<strong>Biotin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Biotin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Biotin com as notíci
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>dyspepsia (99.4%)</li>
-<li>gastroparesis (disease) (99.4%)</li>
-<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (96.1%)</li>
-<li>familial visceral myopathy (95.0%)</li>
-<li>anemia of prematurity (94.5%)</li>
-<li>congenital prothrombin deficiency (92.3%)</li>
-<li>vitamin deficiency disorder (92.2%)</li>
-<li>biotin metabolic disease (92.1%)</li>
-<li>cystinosis (92.0%)</li>
-<li>obsolete contact dermatitis caused by poison oak (91.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Dispepsia (Dyspepsia) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/biotin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

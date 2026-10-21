@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Ambroxol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ambroxol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Ambroxol. Indicação original: . 1 indicações previstas."
 permalink: /news/ambroxol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ambroxol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ambroxol?">
-<strong>Ambroxol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ambroxol</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Ambroxol com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>nasal cavity disease (99.9%)</li>
-<li>acute laryngopharyngitis (99.9%)</li>
-<li>vulvovaginal candidiasis (99.9%)</li>
-<li>faucial diphtheria (99.2%)</li>
-<li>cervical disc degenerative disorder (99.1%)</li>
-<li>vulvitis (98.9%)</li>
-<li>postmenopausal atrophic vaginitis (98.8%)</li>
-<li>ulceration of vulva (98.8%)</li>
-<li>vulvar neoplasm (98.7%)</li>
-<li>vulvovaginitis (98.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Doença da Cavidade Nasal (Nasal Cavity Disease) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ambroxol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

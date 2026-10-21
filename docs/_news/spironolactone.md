@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre SPIRONOLACTONE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com SPIRONOLACTONE. Indicação original: . 2 indicações previstas."
+description: "Notícias de saúde relacionadas com SPIRONOLACTONE. Indicação original: . 1 indicações previstas."
 permalink: /news/spironolactone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/spironolactone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre SPIRONOLACTONE?">
-<strong>SPIRONOLACTONE</strong> tem atualmente <strong>0 notícias</strong> e 2 indicações previstas.
+<strong>SPIRONOLACTONE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Esta página combina as indicações previstas por IA para SPIRONOLACTONE com as
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (2)</strong>:<ul>
-<li>hypotrichosis simplex of the scalp (99.3%)</li>
-<li>congenital hypotrichosis milia (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

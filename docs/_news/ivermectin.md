@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Ivermectin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ivermectin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Ivermectin. Indicação original: . 1 indicações previstas."
 permalink: /news/ivermectin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ivermectin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ivermectin?">
-<strong>Ivermectin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ivermectin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Ivermectin com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>vulvovaginal candidiasis (100.0%)</li>
-<li>esophageal candidiasis (99.7%)</li>
-<li>anogenital human papillomavirus infection (99.5%)</li>
-<li>vulvovaginitis (99.4%)</li>
-<li>neonatal candidiasis (99.2%)</li>
-<li>congenital candidiasis (99.2%)</li>
-<li>candida glabrata (99.2%)</li>
-<li>postmenopausal atrophic vaginitis (99.2%)</li>
-<li>candidiasis, invasive (99.2%)</li>
-<li>vulvitis (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Candidíase vulvovaginal (vulvovaginal candidiasis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

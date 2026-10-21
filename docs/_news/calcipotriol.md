@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre CALCIPOTRIOL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CALCIPOTRIOL. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com CALCIPOTRIOL. Indicação original: . 1 indicações previstas."
 permalink: /news/calcipotriol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/calcipotriol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre CALCIPOTRIOL?">
-<strong>CALCIPOTRIOL</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>CALCIPOTRIOL</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para CALCIPOTRIOL com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>seborrheic keratosis (100.0%)</li>
-<li>vulvar inverted follicular keratosis (99.9%)</li>
-<li>vulvovaginitis (99.7%)</li>
-<li>vulvitis (99.6%)</li>
-<li>vulvar neoplasm (99.5%)</li>
-<li>ulceration of vulva (99.5%)</li>
-<li>vulvar squamous neoplasm (99.4%)</li>
-<li>postmenopausal atrophic vaginitis (99.4%)</li>
-<li>bone Paget disease (99.2%)</li>
-<li>breast fibrocystic disease (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Queratose seborreica (Seborrheic Keratosis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

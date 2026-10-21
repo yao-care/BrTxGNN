@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre COLCHICINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com COLCHICINE. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com COLCHICINE. Indicação original: . 1 indicações previstas."
 permalink: /news/colchicine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colchicine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre COLCHICINE?">
-<strong>COLCHICINE</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>COLCHICINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Esta página combina as indicações previstas por IA para COLCHICINE com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>Plasmodium falciparum malaria (99.6%)</li>
-<li>familial Mediterranean fever, autosomal dominant (99.4%)</li>
-<li>dermatofibrosarcoma protuberans (99.4%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Febre Familiar do Mediterrâneo, autossômica dominante (familial Mediterranean fever, autosomal dominant) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/colchicine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre EMPAGLIFLOZIN"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com EMPAGLIFLOZIN. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com EMPAGLIFLOZIN. Indicação original: . 1 indicações previstas."
 permalink: /news/empagliflozin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/empagliflozin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre EMPAGLIFLOZIN?">
-<strong>EMPAGLIFLOZIN</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>EMPAGLIFLOZIN</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Esta página combina as indicações previstas por IA para EMPAGLIFLOZIN com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>classic stiff person syndrome (99.1%)</li>
-<li>focal stiff limb syndrome (99.1%)</li>
-<li>opsismodysplasia (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome da pessoa rígida clássica (classic stiff person syndrome) (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/empagliflozin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

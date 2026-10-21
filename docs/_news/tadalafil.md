@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre TADALAFIL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com TADALAFIL. Indicação original: . 7 indicações previstas."
+description: "Notícias de saúde relacionadas com TADALAFIL. Indicação original: . 8 indicações previstas."
 permalink: /news/tadalafil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TADALAFIL?">
-<strong>TADALAFIL</strong> tem atualmente <strong>0 notícias</strong> e 7 indicações previstas.
+<strong>TADALAFIL</strong> tem atualmente <strong>0 notícias</strong> e 8 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,15 @@ Esta página combina as indicações previstas por IA para TADALAFIL com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (7)</strong>:<ul>
-<li>Hipertricose | 99,98% | L5 | Direção farmacológica possivelmente oposta (hipertricose induzida por vasodilatadores) (99.0%)</li>
-<li>Síndrome de malformação com componente dentário/periodontal | 99,97% | L5 | Sem vínculo mecanístico plausível (99.0%)</li>
-<li>Síndrome com malformação de Dandy-Walker como característica principal | 99,97% | L5 | Malformação estrutural congênita; sem vínculo plausível (99.0%)</li>
-<li>Anormalidade genética isolada da haste do cabelo | 99,96% | L5 | Defeito estrutural determinado geneticamente (99.0%)</li>
-<li>Tricomegalia isolada familiar | 99,65% | L5 | Sem mecanismo demonstrado (99.0%)</li>
-<li>Cardiopatia cifoescoliótica | 99,43% | L5 | Racional indireto fraco (hipertensão pulmonar e sobrecarga do coração direito); apenas hipótese (99.0%)</li>
-<li>Enxaqueca com aura de tronco encefálico | 99,08% | L4 | Único registro é um relato de caso de **efeito adverso**, sinal de dano e não de benefício (99.0%)</li>
+<li><strong>Indicações previstas (8)</strong>:<ul>
+<li>Hipertricose universal congênita tipo Ambras (Ambras type hypertrichosis universalis congenita) (100.0%)</li>
+<li>Hipertricose (100.0%)</li>
+<li>Síndrome de malformação com componente dentário/periodontal (100.0%)</li>
+<li>Síndrome com malformação de Dandy-Walker como característica principal (100.0%)</li>
+<li>Anormalidade genética isolada da haste do cabelo (100.0%)</li>
+<li>Tricomegalia isolada familiar (99.7%)</li>
+<li>Cardiopatia cifoescoliótica (99.4%)</li>
+<li>Enxaqueca com aura de tronco encefálico (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

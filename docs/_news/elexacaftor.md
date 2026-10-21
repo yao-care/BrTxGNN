@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Elexacaftor"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Elexacaftor. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Elexacaftor. Indicação original: . 1 indicações previstas."
 permalink: /news/elexacaftor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Elexacaftor?">
-<strong>Elexacaftor</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Elexacaftor</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Elexacaftor com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>rheumatoid arthritis (98.1%)</li>
-<li>amyotrophic lateral sclerosis (98.0%)</li>
-<li>leprosy (98.0%)</li>
-<li>multiple endocrine neoplasia (97.8%)</li>
-<li>Mills syndrome (97.6%)</li>
-<li>amyotrophic lateral sclerosis, susceptibility to (97.6%)</li>
-<li>amyotrohpic lateral sclerosis type 22 (97.6%)</li>
-<li>migraine with or without aura, susceptibility to (97.5%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (97.5%)</li>
-<li>pulmonary hypertension (97.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Artrite Reumatoide (Rheumatoid Arthritis) (98.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

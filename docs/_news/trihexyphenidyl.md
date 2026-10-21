@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Trihexyphenidyl"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Trihexyphenidyl. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Trihexyphenidyl. Indicação original: . 1 indicações previstas."
 permalink: /news/trihexyphenidyl/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/trihexyphenidyl/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Trihexyphenidyl?">
-<strong>Trihexyphenidyl</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Trihexyphenidyl</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Trihexyphenidyl com a
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>attention deficit-hyperactivity disorder (99.9%)</li>
-<li>faciodigitogenital syndrome (99.9%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (99.8%)</li>
-<li>Rasmussen subacute encephalitis (99.7%)</li>
-<li>PLA2G6-associated neurodegeneration (99.6%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (99.6%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.6%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.5%)</li>
-<li>myelitis (99.5%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Transtorno de Déficit de Atenção e Hiperatividade (attention deficit-hyperactivity disorder) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trihexyphenidyl/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre BUPRENORPHINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com BUPRENORPHINE. Indicação original: . 6 indicações previstas."
+description: "Notícias de saúde relacionadas com BUPRENORPHINE. Indicação original: . 1 indicações previstas."
 permalink: /news/buprenorphine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/buprenorphine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre BUPRENORPHINE?">
-<strong>BUPRENORPHINE</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
+<strong>BUPRENORPHINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,8 @@ Esta página combina as indicações previstas por IA para BUPRENORPHINE com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (6)</strong>:<ul>
-<li>acute intermittent porphyria (99.4%)</li>
-<li>lingual-facial-buccal dyskinesia (99.3%)</li>
-<li>chronic tic disorder (99.1%)</li>
-<li>continuous spikes and waves during sleep (99.0%)</li>
-<li>benign shuddering attacks (99.0%)</li>
-<li>extrapyramidal and movement disease (99.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Porfiria Aguda Intermitente (Acute Intermittent Porphyria) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/buprenorphine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

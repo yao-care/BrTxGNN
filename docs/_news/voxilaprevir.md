@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre VOXILAPREVIR"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com VOXILAPREVIR. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com VOXILAPREVIR. Indicação original: . 1 indicações previstas."
 permalink: /news/voxilaprevir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/voxilaprevir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre VOXILAPREVIR?">
-<strong>VOXILAPREVIR</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>VOXILAPREVIR</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para VOXILAPREVIR com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>hepatitis B virus infection (99.8%)</li>
-<li>hepatitis E virus infection (99.7%)</li>
-<li>hepatitis, viral, animal (99.7%)</li>
-<li>hepatitis A virus infection (99.7%)</li>
-<li>Omsk hemorrhagic fever (99.7%)</li>
-<li>Kyasanur forest disease (99.7%)</li>
-<li>HIV infectious disease (99.3%)</li>
-<li>chronic hepatitis B virus infection (99.2%)</li>
-<li>simian immunodeficiency virus infection (99.1%)</li>
-<li>feline acquired immunodeficiency syndrome (99.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Infecção pelo vírus da hepatite B (hepatitis B virus infection) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/voxilaprevir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

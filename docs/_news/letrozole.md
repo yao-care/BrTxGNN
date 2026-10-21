@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Letrozole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Letrozole. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Letrozole. Indicação original: . 1 indicações previstas."
 permalink: /news/letrozole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/letrozole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Letrozole?">
-<strong>Letrozole</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Letrozole</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Letrozole com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>female breast carcinoma (100.0%)</li>
-<li>nipple carcinoma (99.8%)</li>
-<li>estrogen-receptor negative breast cancer (99.8%)</li>
-<li>estrogen-receptor positive breast cancer (99.8%)</li>
-<li>hormone-resistant breast carcinoma (99.8%)</li>
-<li>Ehrlich tumor carcinoma (99.8%)</li>
-<li>bilateral breast carcinoma (99.7%)</li>
-<li>breast carcinoma by gene expression profile (99.7%)</li>
-<li>breast fibrocystic disease (99.6%)</li>
-<li>benign mammary dysplasia (99.5%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Carcinoma de mama feminino (female breast carcinoma) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

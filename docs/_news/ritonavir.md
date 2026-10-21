@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre RITONAVIR"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com RITONAVIR. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com RITONAVIR. Indicação original: . 1 indicações previstas."
 permalink: /news/ritonavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre RITONAVIR?">
-<strong>RITONAVIR</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>RITONAVIR</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Esta página combina as indicações previstas por IA para RITONAVIR com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>feline acquired immunodeficiency syndrome (99.9%)</li>
-<li>simian immunodeficiency virus infection (99.9%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Infecção por vírus da imunodeficiência símia (Simian Immunodeficiency Virus Infection) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

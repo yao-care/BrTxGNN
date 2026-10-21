@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Valine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Valine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Valine. Indicação original: . 1 indicações previstas."
 permalink: /news/valine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/valine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Valine?">
-<strong>Valine</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Valine</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Valine com as notíci
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>sclerosing cholangitis (99.4%)</li>
-<li>angle-closure glaucoma (99.4%)</li>
-<li>hyperthyroidism (99.3%)</li>
-<li>aqueous misdirection (99.3%)</li>
-<li>traumatic glaucoma (99.3%)</li>
-<li>neovascular glaucoma (99.3%)</li>
-<li>glaucomatous atrophy of optic disc (99.2%)</li>
-<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.2%)</li>
-<li>obsolete bundle branch block (99.2%)</li>
-<li>hyperthyroxinemia (99.1%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Colangite esclerosante (Sclerosing Cholangitis) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/valine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

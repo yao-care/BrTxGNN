@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Metronidazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Metronidazole. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Metronidazole. Indicação original: . 1 indicações previstas."
 permalink: /news/metronidazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metronidazole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Metronidazole?">
-<strong>Metronidazole</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Metronidazole</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Metronidazole com as 
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>pneumocystosis (100.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.9%)</li>
-<li>ulcerative proctosigmoiditis (99.9%)</li>
-<li>nocardiosis (99.9%)</li>
-<li>postmenopausal atrophic vaginitis (99.8%)</li>
-<li>Cryptococcal meningitis (99.8%)</li>
-<li>papillary conjunctivitis (99.8%)</li>
-<li>myiasis (99.8%)</li>
-<li>cap polyposis (99.7%)</li>
-<li>ulceration of vulva (99.7%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Pneumocistose (Pneumocystosis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

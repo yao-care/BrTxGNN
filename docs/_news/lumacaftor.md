@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Lumacaftor"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Lumacaftor. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Lumacaftor. Indicação original: . 1 indicações previstas."
 permalink: /news/lumacaftor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lumacaftor/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Lumacaftor?">
-<strong>Lumacaftor</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Lumacaftor</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Lumacaftor com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>leprosy (99.4%)</li>
-<li>migraine with or without aura, susceptibility to (98.8%)</li>
-<li>migraine disorder (98.7%)</li>
-<li>rheumatoid arthritis (98.7%)</li>
-<li>pulmonary hypertension (98.7%)</li>
-<li>kyphoscoliotic heart disease (98.5%)</li>
-<li>migraine with brainstem aura (98.5%)</li>
-<li>multiple endocrine neoplasia (98.4%)</li>
-<li>brachydactyly-syndactyly syndrome (98.2%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (98.0%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Hanseníase (leprosy) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

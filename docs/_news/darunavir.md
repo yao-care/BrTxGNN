@@ -26,10 +26,10 @@ Esta página combina as indicações previstas por IA para DARUNAVIR com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (4)</strong>:<ul>
-<li>feline acquired immunodeficiency syndrome (100.0%)</li>
-<li>simian immunodeficiency virus infection (100.0%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (100.0%)</li>
-<li>obsolete familial combined hyperlipidemia (99.2%)</li>
+<li>Síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome) (100.0%)</li>
+<li>Infecção pelo vírus da imunodeficiência símia (SIV) (100.0%)</li>
+<li>Transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical (100.0%)</li>
+<li>Hiperlipidemia familiar combinada (termo obsoleto) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/darunavir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

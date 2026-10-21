@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre LOPINAVIR"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LOPINAVIR. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com LOPINAVIR. Indicação original: . 1 indicações previstas."
 permalink: /news/lopinavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre LOPINAVIR?">
-<strong>LOPINAVIR</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>LOPINAVIR</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ Esta página combina as indicações previstas por IA para LOPINAVIR com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>feline acquired immunodeficiency syndrome (99.9%)</li>
-<li>simian immunodeficiency virus infection (99.9%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Síndrome da imunodeficiência adquirida felina (Feline Acquired Immunodeficiency Syndrome) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

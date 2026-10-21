@@ -26,7 +26,7 @@ Esta página combina as indicações previstas por IA para DOMPERIDONE com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.1%)</li>
+<li>Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis) (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/domperidone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

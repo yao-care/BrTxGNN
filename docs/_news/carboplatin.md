@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Carboplatin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Carboplatin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Carboplatin. Indicação original: . 1 indicações previstas."
 permalink: /news/carboplatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Carboplatin?">
-<strong>Carboplatin</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Carboplatin</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para Carboplatin com as no
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>female breast carcinoma (99.9%)</li>
-<li>rectum mucinous adenocarcinoma (99.3%)</li>
-<li>colon mucinous adenocarcinoma (99.3%)</li>
-<li>adult germ cell tumor (99.2%)</li>
-<li>cervical mucinous adenocarcinoma (99.2%)</li>
-<li>gallbladder mucinous adenocarcinoma (99.2%)</li>
-<li>endometrial mucinous adenocarcinoma (99.2%)</li>
-<li>endometrial mixed adenocarcinoma (99.2%)</li>
-<li>villoglandular endometrial endometrioid adenocarcinoma (99.2%)</li>
-<li>extrahepatic bile duct mucinous adenocarcinoma (99.2%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Carcinoma de Mama Feminino (Female Breast Carcinoma) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

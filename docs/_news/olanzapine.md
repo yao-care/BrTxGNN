@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre OLANZAPINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com OLANZAPINE. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com OLANZAPINE. Indicação original: . 4 indicações previstas."
 permalink: /news/olanzapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre OLANZAPINE?">
-<strong>OLANZAPINE</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
+<strong>OLANZAPINE</strong> tem atualmente <strong>0 notícias</strong> e 4 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,11 @@ Esta página combina as indicações previstas por IA para OLANZAPINE com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
-<li>Torcicolo paroxístico benigno da infância | 99,54% | L5 | Hold (99.0%)</li>
-<li>Agorafobia | 99,47% | L3 | Questão de pesquisa (99.0%)</li>
-<li>Transtorno distímico | 99,28% | L3 | Questão de pesquisa (99.0%)</li>
+<li><strong>Indicações previstas (4)</strong>:<ul>
+<li>Agorafobia (Agoraphobia) (99.5%)</li>
+<li>Torcicolo paroxístico benigno da infância (99.5%)</li>
+<li>Agorafobia (99.5%)</li>
+<li>Transtorno distímico (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

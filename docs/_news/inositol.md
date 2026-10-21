@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre INOSITOL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com INOSITOL. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com INOSITOL. Indicação original: . 1 indicações previstas."
 permalink: /news/inositol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inositol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre INOSITOL?">
-<strong>INOSITOL</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>INOSITOL</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ Esta página combina as indicações previstas por IA para INOSITOL com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>primitive portal vein thrombosis (100.0%)</li>
-<li>idiopathic copper-associated cirrhosis (100.0%)</li>
-<li>early-onset familial noncirrhotic portal hypertension (100.0%)</li>
-<li>hepatopulmonary syndrome (100.0%)</li>
-<li>hepatoportal sclerosis (100.0%)</li>
-<li>hepatic porphyria (100.0%)</li>
-<li>congestive heart failure (99.4%)</li>
-<li>hyperlipoproteinemia (99.4%)</li>
-<li>acute pulmonary heart disease (99.3%)</li>
-<li>glycogen storage disease due to hepatic glycogen synthase deficiency (99.3%)</li>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>Trombose da veia porta primitiva (primitive portal vein thrombosis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/inositol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
