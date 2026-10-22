@@ -32,13 +32,11 @@ O BrTxGNN classifica as previsões de reposicionamento em 5 níveis de evidênci
 
 ### Score TxGNN
 
-O score TxGNN indica a confiança do modelo na previsão:
+O score TxGNN (0 a 1) é um valor de ordenação interno do modelo, não uma probabilidade.
 
-As páginas de medicamentos mostram apenas previsões com score **≥ 0,99** (99%), depois de excluir os usos já registrados no grafo de conhecimento. O score indica a confiança do modelo, não evidência clínica; para isso, veja o nível de evidência (L1–L5).
+As páginas de medicamentos mostram apenas previsões com score **≥ 0,99**, até as 10 primeiras por medicamento, depois de excluir os usos já registrados no grafo de conhecimento. O score não é evidência clínica; para isso, veja o nível de evidência (L1–L5).
 
-<blockquote class="expert-quote">
-O score TxGNN é a saída de uma rede neural de grafos treinada sobre o grafo de conhecimento biomédico. As páginas de medicamentos mostram apenas previsões com score ≥ 0,99; relações já registradas no grafo são usos conhecidos e foram excluídas.
-</blockquote>
+<p>O score TxGNN é a saída de uma rede neural de grafos treinada sobre o grafo de conhecimento biomédico. As páginas de medicamentos mostram apenas previsões com score ≥ 0,99; relações já registradas no grafo são usos conhecidos e foram excluídas.</p>
 
 ### Evidências Coletadas
 
