@@ -57,7 +57,7 @@ Suponha que encontramos uma previsão de **Metformina** para **Doença de Alzhei
 
 | Aspecto | Valor |
 |---------|-------|
-| Score TxGNN | 85.3 |
+| Score TxGNN | 0,995 |
 | Nível de Evidência | L3 |
 | Ensaios Clínicos | 3 (Fase 1/2) |
 | Artigos PubMed | 47 |
