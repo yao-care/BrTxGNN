@@ -1,10 +1,70 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-21T21:22:22.744051+00:00",
-  "total_fetched": 98,
-  "unique_count": 97,
-  "health_related_count": 39,
+  "fetched_at": "2026-10-22T03:44:54.086704+00:00",
+  "total_fetched": 101,
+  "unique_count": 100,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "373a97310228",
+      "title": "Como uma foto do rosto de uma pessoa pode ajudar a prever se ela sobreviverá ao tratamento contra o câncer - CNN Brasil",
+      "published": "2026-10-21T20:35:44+00:00",
+      "summary": "Como uma foto do rosto de uma pessoa pode ajudar a prever se ela sobreviverá ao tratamento contra o câncer&nbsp;&nbsp;CNN BrasilO que esperar da IA que analisa foto do rosto para estimar chances de pacientes com câncer&nbsp;&nbsp;VEJANovo sistema de IA pode prever sobrevida de pacientes com câncer a partir de uma selfie, diz estudo&nbsp;&nbsp;Época NegóciosIA analisa foto do rosto e estima risco de morte em pacientes com câncer&nbsp;&nbsp;UOLCancro: uma fotografia do rosto pode ajudar a avaliar ",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLXVFUGhabVR1aXE3UUpZWV8xdGdtS0p1SldOMDhBQm5pOU5iWjNKeWhxVVJnbEd4N0FiTGZlb1VoNmotcmlJVGFmS0FHTTNkZ3pCUHhva0o3eEZrLW1yV2lkejAwV29rNmcyc1ZmT2h0RWs5MldNYXhSeWIyTDRvQkpaQmZyNDdXY2pwOXhjVy1pQjhFekR2U2JCMFNySnRlTG9mMmFxOEc1MnZCcmJ6T3RzVDVrY0I2TlJnRjF1WTBNd3U4aUpjbE5wVEx6MmpiVWNVV2hJdXR0V0Ux?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bce126643360",
+      "title": "Morte Lua Blanco: alimentação ruim está ligada ao câncer de intestino - CNN Brasil",
+      "published": "2026-10-21T20:31:41+00:00",
+      "summary": "Morte Lua Blanco: alimentação ruim está ligada ao câncer de intestino&nbsp;&nbsp;CNN BrasilCâncer de intestino: entenda o papel da colonoscopia na identificação precoce da doença&nbsp;&nbsp;CartaCapitalMédico explica como identificar sintomas do câncer de intestino&nbsp;&nbsp;G1Morte de Lua Blanco aos 39 anos alerta para o câncer de intestino&nbsp;&nbsp;R7Câncer Colorretal Cresce entre Jovens e Acende Alerta Global&nbsp;&nbsp;Forbes Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGVzaDdNNHRSckZKME1DVFFXdWNGeEtoMlA3VDM5UHlNS2Ryb2NjYXVBTHNWLWNkSDFldGlJajdvaW9BcG81a1pEUEJTZVM3N3JydEtsNllnWG1zUU1YQTlnT2o4bDNZZG1JZU9HNWJvZFl2VFdMRmF3Vk8yeGFhWWhUdzZzUE5pX0hva2JKcGtZQ09MMlVZLWU3a1JwSDJlbUo2U18wYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "240bde11cb27",
+      "title": "O que são e como funcionam testes de idade biológica - 21/10/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
+      "published": "2026-10-21T18:00:00+00:00",
+      "summary": "O que são e como funcionam testes de idade biológica - 21/10/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbXlEYWZpdzJ3emdBRmVENnRDQ2Z3WWN3VGdRd2pyWnNSMFpyUXFCVW40SDh6VF9qZTFnRzJDMUExMlNpU3FtQzVTY0xsN3kwcjBPSUU2X2k2akw2ZjdnOFBua3Vkeml0Q09kUDF1ZEZiLVgtR3FFS1pmYmFRdUd6aWtqdUJSc29zWlgwNnBkN1owbkNYX0FQRkk5RVFTOXlNZzRKaGlUckFyOU1XUUg3aFM5QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f564f635066f",
+      "title": "AVC: conheça os sinais de alerta que exigem atendimento imediato - Jornal Correio",
+      "published": "2026-10-21T17:56:31+00:00",
+      "summary": "AVC: conheça os sinais de alerta que exigem atendimento imediato&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT3hKUWFNcVV4V1VmTTBac0E2eWNxMnBkeVl0NmdHNVkxYW1UN1VOaEpvQXdyNEJFYjNFbVBpX0tGUHZQOHZZSlItb3hRMzc0V1lmWm9TUFVTZUJUS3lWQWw1Rmg2Vk5rQXpxMS00Vm9hd2lEWm9QSEsyT2FfMlBNLW9Odi1JTjBhTWU2ZmNsQVIxV3NIT0c1WG10M25WWmVES2h4MHJIVTdqMTlr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6fc3545a39d4",
+      "title": "Semaglutida vai além do emagrecimento e protege coração, fígado e rins - Rádio Itatiaia",
+      "published": "2026-10-21T17:40:55+00:00",
+      "summary": "Semaglutida vai além do emagrecimento e protege coração, fígado e rins&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWQ1UEk0NU5tVER6clFabzdlSkJaWTFzN2xVemFwdzVNVGJkM09ZQU9FSjFadWdZNkFtY0p3VVV4SXpaTWdpRkZSbV9VYUhQQ1RzcU5UdEplYTZaTVc0N3pXNXRNbzd4V0F4NDFaTnZpaHMzbTd5dWZNZkhhdDhsMW0yaEctRHVFdzFvOXJoTndiMV9JMG52VlRodElxMHRaR3hPb3VYYWk?oc=5"
+        }
+      ]
+    },
     {
       "id": "8c2e25558cd0",
       "title": "Pirarucus sobem juntos\npara respirar, revela estudo - Portal iG",
@@ -18,14 +78,14 @@
       ]
     },
     {
-      "id": "e88b4e61982c",
+      "id": "9dcc05115502",
       "title": "Mulher sofre falência hepática, paradas cardíacas e danos cerebrais após usar suplemento viral do TikTok - Hugo Gloss",
       "published": "2026-10-21T15:24:07+00:00",
-      "summary": "Mulher sofre falência hepática, paradas cardíacas e danos cerebrais após usar suplemento viral do TikTok&nbsp;&nbsp;Hugo GlossBritânica passa por transplante de fígado após usar ashwagandha; Anvisa alerta sobre proibição de erva no Brasil&nbsp;&nbsp;G1Mulher tem falência hepática, três paradas cardíacas e danos cerebrais após usar suplemento viral do TikTok&nbsp;&nbsp;Estado de MinasAnvisa alerta para riscos da ashwagandha e proibição do suplemento no Brasil&nbsp;&nbsp;Mídia SudoesteVocê deve to",
+      "summary": "Mulher sofre falência hepática, paradas cardíacas e danos cerebrais após usar suplemento viral do TikTok&nbsp;&nbsp;Hugo GlossBritânica passa por transplante de fígado após usar ashwagandha; Anvisa alerta sobre proibição de erva no Brasil&nbsp;&nbsp;G1Ashwagandha: 'suplemento do TikTok' NÃO tem registro no Brasil&nbsp;&nbsp;www.gov.brMulher tem falência hepática por gomas do TikTok, suplemento viral na rede social&nbsp;&nbsp;ND MaisMulher tem falência hepática, três paradas cardíacas e danos cer",
       "sources": [
         {
           "name": "Hugo Gloss",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KVkRSdFhkdGx5SjRReUJ6dW5wa0QtaEdFaldudDBSQnlaVzVLTmpQel9qbk9rbGZTMTE1TlBwTzRwMjJYd2R1bllDaldrVlpVUmlaQWpjMlpGZ1VhRFh1UXVqVmg1am14c1lkQXZtSDh0Y1lOMTdJT0tUeTDSAYIBQVVfeXFMTzJFUHR6R1p5dGdjSVFoR3VhVVZfQ2xiRC1WMTF0cTVyTkJrTEh6eWNxUnZmRzVLQXJWcmpSclVXRGk5NUQ2TUNyem1EMEt2ZnZ0WFduUXVSaEkzcEJHVm45aVd0REJvLWR4dEdQMFBQbmhwdVBrSUVId1d6LVZ4TXF2dw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOR1UzeEl0cGozVEVPaGhvQmFRSVlXMzhfcFotTkc3YXpfUXBKNDJ4WXYtMXUxRGNXQTBMRVhXcF81THUwTUV2RjVCckNET2RCbW9qczJVN0ZUemh1Y0ZrTGI2WdIBaEFVX3lxTE9XSTRxa0tna0pTLXktUjZJM2lycmJRc0x2TW1IZkszZ1pwOFVGRFoyTGp0T0J5N0FxNFFPbUpKbTFBTlp4NVhXZVNLTVB2UDZMTFhnT3BXbjdDUG1sYzFWdEU2dEwwamU1?oc=5"
         }
       ]
     },
@@ -50,6 +110,18 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVFBUDZWUFd3Ui14cG56dWlmazFzV0RWNmR6SklaRGtCRW10R3doWVgyVjBYUTZhSi14WU82MnhWeXlQZzBnZWgxRjhjTHJVeHdVTlk1Mlc1ZGNCazkwQW9CQU9qV3dLX0VobVNuQ2o3QTVqSDFoXy1MTlp3YjktVlhZSzNtcndpZzM3Y0otMWZUUTRDREFNcDU2clFjNXFINFg5am1oNE1LLV8yY1VB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dcfe2f578758",
+      "title": "Paula Gama: Por que taxistas estão entre profissionais com menos mortes por Alzheimer - UOL",
+      "published": "2026-10-21T12:30:00+00:00",
+      "summary": "Paula Gama: Por que taxistas estão entre profissionais com menos mortes por Alzheimer&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVERIUWVZdHZqM19meFlqUXFQVXEtRUwtTXFZYzNEMEtFTnloc3R4TWtpWk5ia3V1UHN5SDV2Vm9rOGpSUkt6SkY1dGlDNXVlenJPNWU1M3hDd0VVWWNCTVRxTHQzODNLSWw4UUNqRU1fQUtFYTlsUEN0ZVB1eUZpa1M2YTh3YmRQM2ZIS3pTUElqUDBIR2R1Nmhnd3VQQjRQUy1hRkZKSW1WS2NuMEU5RGlEU1JtNDNzenNFSVF5ODYxdDFGVklfX3A5ZzkxYlVyTmY4?oc=5"
         }
       ]
     },
@@ -90,6 +162,18 @@
       ]
     },
     {
+      "id": "3280a1ddb11e",
+      "title": "Outubro rosa: técnica em silicone reconstrói aréolas e resgata identidade de mulheres no interior de SP - G1",
+      "published": "2026-10-21T10:16:37+00:00",
+      "summary": "Outubro rosa: técnica em silicone reconstrói aréolas e resgata identidade de mulheres no interior de SP&nbsp;&nbsp;G1Tatuador do RJ já ajudou mais de mil mulheres a reconstruir aréolas após câncer de mama; conheça o projeto&nbsp;&nbsp;Diário do RioCarminha Paiva destaca prevenção ao câncer de mama e projeto sobre reconstrução da aréola&nbsp;&nbsp;Assembleia Legislativa de SergipeKarin Nobre ajuda mulheres após o câncer de mama&nbsp;&nbsp;Portal Terra da LuzMicropigmentação paramédica recria aréo",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUmhsV1dFSlNvdTMwYmwtajRWanpILWMxcWVIQWgyUFUzRDdBd3JPckR5Sl9DdnpQbVQ0cy11WDRKWm93LUVHYURvQmV4R1BHYVUwbV80b1p6NWxjWUFrMHozMFdnR1VjLVFDdmt3cDE0ZjUyVGJSOXhuMmg0dDlVNEVvSk81TFItbXcyTUppamdZZXRMZGppa3p5RldET242T2FEVVF0Z0g3ZWItWllMZ3JXQjZRUm5vVVN3TWZMWmxtREZyWm9HOXBsdThuVHZBdmdBMFI5SzI4Z09PRzNNTUVJbUp3NEplQlViYS1pMEFKaGhEa3VvZnZ2T0rSAYsCQVVfeXFMTVJCakExbGZLc0FEekZkVnRuZ0JWUkF4UFdJREFwYy1fY2JFM0h0dkJFdER2OXVNZXVfQzlSbmlhemZWSHhlTk5nbGkxblB2dVJtXzA5TWhnSHBUWTRydDlXRE82anBBYUswdWswbW1ySmhBbnEweVl1dkgwblNOWEtFWUZQWWhOcFZ1MnhpMlAyWlFWQkFOY1ZxVDdyMUo2OTJtSDR3dTYtM2NsZWZRaS0zNzJCaF9XY2VEZmtyMXl1LTJpWXlBOFFOT0ZiY1lFZlVUQlIxWkg1dHQ0bGtoeEYyQ1FxUHh2bVV5VXBOTXNmUjIwakNhcmV3SnExSWNxemdVcEJSZnJfQ01z?oc=5"
+        }
+      ]
+    },
+    {
       "id": "938c7996b8ee",
       "title": "Primata peçonhento volta a ser registrado cientificamente após quase um século - Folha de S.Paulo",
       "published": "2026-10-21T09:00:00+00:00",
@@ -117,7 +201,7 @@
       "id": "60eeb1706645",
       "title": "Rica em fibras e antioxidantes, fruta pode ajudar a controlar o colesterol e reduzir o risco de diabetes - Jornal Correio",
       "published": "2026-10-21T08:30:00+00:00",
-      "summary": "Rica em fibras e antioxidantes, fruta pode ajudar a controlar o colesterol e reduzir o risco de diabetes&nbsp;&nbsp;Jornal CorreioUma maçã por dia mantém o médico longe? Entenda o ditado e conheça 7 benefícios da fruta&nbsp;&nbsp;CartaCapitalConsumo de maçã com casca é mais nutritivo, aponta nutricionista&nbsp;&nbsp;TerraMaçã: nutricionista dá dicas sobre a melhor forma de consumir a fruta no dia a dia&nbsp;&nbsp;Folha PECada maçã tem seu lugar na cozinha e combina com doce e salgado&nbsp;&nbsp;",
+      "summary": "Rica em fibras e antioxidantes, fruta pode ajudar a controlar o colesterol e reduzir o risco de diabetes&nbsp;&nbsp;Jornal CorreioUma maçã por dia mantém o médico longe? Entenda o ditado e conheça 7 benefícios da fruta&nbsp;&nbsp;CartaCapitalComer maçã pode beneficiar sua saúde cardiometabólica e intestinal&nbsp;&nbsp;Folha de S.PauloConsumo de maçã com casca é mais nutritivo, aponta nutricionista&nbsp;&nbsp;TerraMaçã: nutricionista dá dicas sobre a melhor forma de consumir a fruta no dia a dia&",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -129,7 +213,7 @@
       "id": "0281ed3227ae",
       "title": "90% das brasileiras desconhecem lei que garante exames para detectar câncer em até 30 dias - Jornal Correio",
       "published": "2026-10-21T08:10:00+00:00",
-      "summary": "90% das brasileiras desconhecem lei que garante exames para detectar câncer em até 30 dias&nbsp;&nbsp;Jornal CorreioUma em cada quatro mulheres não conhece prevenção ao câncer&nbsp;&nbsp;G1Desconhecimento sobre prevenção do câncer de mama cresce no Brasil&nbsp;&nbsp;Medicina S/A35% das mulheres que ganham até um salário mínimo nunca realizaram autoexame&nbsp;&nbsp;viva.com.br3 em cada 10 mulheres no Brasil não sabem como se proteger contra o câncer de mama&nbsp;&nbsp;G1",
+      "summary": "90% das brasileiras desconhecem lei que garante exames para detectar câncer em até 30 dias&nbsp;&nbsp;Jornal CorreioUma em cada quatro mulheres não conhece prevenção ao câncer&nbsp;&nbsp;G1Desconhecimento sobre prevenção do câncer de mama cresce no Brasil&nbsp;&nbsp;Medicina S/A35% das mulheres que ganham até um salário mínimo nunca realizaram autoexame&nbsp;&nbsp;viva.com.brDesconhecimento sobre prevenção ao câncer de mama cresce no Brasil&nbsp;&nbsp;Tudo Sobre Xanxerê",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -138,26 +222,26 @@
       ]
     },
     {
-      "id": "259182a917e5",
-      "title": "O que muda na nova indicação para a vacina de meningite? Ferramenta mostra se você está com vacinação em dia - O GLOBO",
-      "published": "2026-10-21T07:30:00+00:00",
-      "summary": "O que muda na nova indicação para a vacina de meningite? Ferramenta mostra se você está com vacinação em dia&nbsp;&nbsp;O GLOBONo Rio, pessoas com até 59 anos podem se vacinar contra a meningite&nbsp;&nbsp;Agência BrasilRio estende vacinação contra meningite bacteriana para pessoas que tenham até 59 anos&nbsp;&nbsp;Prefeitura da Cidade do Rio de JaneiroPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de UberlândiaVacinação contra mening",
+      "id": "c08b66578222",
+      "title": "Novo estudo revela que a fome pode desempenhar um papel no vício em álcool - O GLOBO",
+      "published": "2026-10-21T07:30:01+00:00",
+      "summary": "Novo estudo revela que a fome pode desempenhar um papel no vício em álcool&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZGxwS1dSYmtDcnN5SGF5aDBnZmlPSkR5aEhuWUxHSlR5aFBlOG8zZEpWWVJzTDhqQl92WFdnSVZOblFqM0JtUW14QTU1UWdKVUFDeXRsMXJJams3bUJCSGc4TWNxREkwcklNUWUzV1dzcU9EODk2TFBtbXRtZWp2aE1tS05HVEJrV2hiUDNETmd3ekExTG9ReFBnRXRQSzRwZDRoLVYxS3JXcVpMakw3TXRqRzl3eURpN0ZSZTctRW51TTgzYXh6aEp5S2twenZ4OXFqNDBIbzlKVjBLRUZXQkN3bmNOOGVKZ2NRVVA5OGk2WXpNRVJDWWxSVkdZeTZXdUHSAZACQVVfeXFMTjlNRE5XdnZ6UHNTbzhOOEQwQmExakVtRTI5TmZoM25XZXpoYWV4TkhqQ0VXR1d1SERIOWVhaHIzWGtfY3dsaVY3NjdJLUVMVXU0cmw5VVNmVmtWVjViNnBJTFpMYVNfRDB4WFQxaWR4WHdtOWtJR2wwSGdTSk9TX2lvcEpJMU9UbkpYOXV0OHY1SkZBN2hBYnpIRmxPQkdSOFdIMFdYOEJ0RkZCN0tpQUloRFlidE0yUzktSlBjelJHZTU5MkRsRkJOZ0FOVWF0WjdPbUZ3RHpnV3VabVNkN2sxb3JqaVBqVHhNZlFSbG9CRDFmS0tEVXRGM1VaVi1OSDE5UWdwdHRkZ3otTmhqa1Y?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORXh6LU5rNlZuYlF2MHBEbWliYVNBby1aNmxvNHhsdDNrVTRIbEZwUnR0TmJYdi0yZldnYnd0eDAzT3huZTVDTk4xM0E5ZTkzV1ExRGlabE5FWmp5aldMLXlnamVKNXdXM0VYYzZfVTlCZ1YwTHdXS3RmOHVpRjdnWjJ4YVNLcXhBb0lFVzFwZGk1Q19RS1JBSGtiQ0FjTGYydWhMRDhmcUlLcFBNb2c1YUt4WGVCVGs3UWZTTFdBUXhnTzl0djd4blBn0gHYAUFVX3lxTE0zYk9LTlpITjhjNzJxanFRWlpYeDBmaGpLYzNMRDdYMjZRdVhwMktUNjBIWWdWU0F1OFZBMk5NMkhjQXdiTV9aY216VUExQnBpemhjS3A2LWMzclFnbzVFOXAzOUhCT3dFTHVoajYzT01SWHAtUTROVlBCMFFtU2xERFowZ3NySGZpSkxkZUVzM0hBVC1Sd2V4dkc0RFhkblUxNEtBM1RTN0tKaFo1ZnI0ZDVzUFdNQUtwUHg5OVBHRVVwd1Z5d1dkQmw1S05KdWgxdmUtVmZsZw?oc=5"
         }
       ]
     },
     {
-      "id": "182ca7fdc876",
-      "title": "Novo bovino pré-histórico de 250 mil anos atrás é descoberto na mesma caverna que escondia fósseis de primatas - CNN Brasil",
-      "published": "2026-10-21T07:24:54+00:00",
-      "summary": "Novo bovino pré-histórico de 250 mil anos atrás é descoberto na mesma caverna que escondia fósseis de primatas&nbsp;&nbsp;CNN Brasil",
+      "id": "259182a917e5",
+      "title": "O que muda na nova indicação para a vacina de meningite? Ferramenta mostra se você está com vacinação em dia - O GLOBO",
+      "published": "2026-10-21T07:30:00+00:00",
+      "summary": "O que muda na nova indicação para a vacina de meningite? Ferramenta mostra se você está com vacinação em dia&nbsp;&nbsp;O GLOBOPessoas de até 59 anos de idade poderão se vacinar contra a meningite&nbsp;&nbsp;EBC - Empresa Brasil de ComunicaçãoRio estende vacinação contra meningite bacteriana para pessoas que tenham até 59 anos&nbsp;&nbsp;Prefeitura da Cidade do Rio de JaneiroPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de Uberlândia",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeU5OZTBQcmE1THVydGExeHhha0xJV0p2MXhTMU1LejR4cHZFWXdscFV4VTFhWU1aRUFfOXFYSGphbU9XNDM2TTMzODN3aGphMHdBVXI5LTA1YTJlRGpJV0t0TjlabWlVT25USUNlMENkWnZ3YXpOblNHWGtna3h3d01JMDA2WUU4eDhwVTlQVk5PY0RVRTJYdEZUSXotSlZzLWJYVUVwWTJEc2J2ME1wNXlWaUx2NVM3WUt1T2ZkR3ljRVlMVEVsR0lmV001N2ozeEZIeTF5ZFdLWDZRWE9zUGFlNzhUWVNW?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZGxwS1dSYmtDcnN5SGF5aDBnZmlPSkR5aEhuWUxHSlR5aFBlOG8zZEpWWVJzTDhqQl92WFdnSVZOblFqM0JtUW14QTU1UWdKVUFDeXRsMXJJams3bUJCSGc4TWNxREkwcklNUWUzV1dzcU9EODk2TFBtbXRtZWp2aE1tS05HVEJrV2hiUDNETmd3ekExTG9ReFBnRXRQSzRwZDRoLVYxS3JXcVpMakw3TXRqRzl3eURpN0ZSZTctRW51TTgzYXh6aEp5S2twenZ4OXFqNDBIbzlKVjBLRUZXQkN3bmNOOGVKZ2NRVVA5OGk2WXpNRVJDWWxSVkdZeTZXdUHSAZACQVVfeXFMTjlNRE5XdnZ6UHNTbzhOOEQwQmExakVtRTI5TmZoM25XZXpoYWV4TkhqQ0VXR1d1SERIOWVhaHIzWGtfY3dsaVY3NjdJLUVMVXU0cmw5VVNmVmtWVjViNnBJTFpMYVNfRDB4WFQxaWR4WHdtOWtJR2wwSGdTSk9TX2lvcEpJMU9UbkpYOXV0OHY1SkZBN2hBYnpIRmxPQkdSOFdIMFdYOEJ0RkZCN0tpQUloRFlidE0yUzktSlBjelJHZTU5MkRsRkJOZ0FOVWF0WjdPbUZ3RHpnV3VabVNkN2sxb3JqaVBqVHhNZlFSbG9CRDFmS0tEVXRGM1VaVi1OSDE5UWdwdHRkZ3otTmhqa1Y?oc=5"
         }
       ]
     },
@@ -177,7 +261,7 @@
       "id": "5b04e3e44396",
       "title": "Acordar cansado todos os dias não é normal; entenda quando a insônia vira doença - G1",
       "published": "2026-10-21T06:00:00+00:00",
-      "summary": "Acordar cansado todos os dias não é normal; entenda quando a insônia vira doença&nbsp;&nbsp;G1Quer dormir melhor? Diretora do Instituto do Sono tira dúvidas em live da CasaFolha&nbsp;&nbsp;Folha de S.PauloMexer no celular antes de dormir aumenta em 59% o risco de insônia&nbsp;&nbsp;TerraSono: conheça 5 hábitos noturnos que podem prejudicar o descanso&nbsp;&nbsp;Guia da FarmáciaCientistas descobrem ligação surpreendente entre os sonhos e 83 doenças&nbsp;&nbsp;ZAP Notícias",
+      "summary": "Acordar cansado todos os dias não é normal; entenda quando a insônia vira doença&nbsp;&nbsp;G1Insônia aumenta risco de demência, AVC e problemas cardíacos; veja o que dizem especialistas&nbsp;&nbsp;G1Quer dormir melhor? Diretora do Instituto do Sono tira dúvidas em live da CasaFolha&nbsp;&nbsp;Folha de S.PauloMexer no celular antes de dormir aumenta em 59% o risco de insônia&nbsp;&nbsp;TerraSono: conheça 5 hábitos noturnos que podem prejudicar o descanso&nbsp;&nbsp;Guia da Farmácia",
       "sources": [
         {
           "name": "G1",
@@ -270,6 +354,30 @@
       ]
     },
     {
+      "id": "7e1a35f51b35",
+      "title": "AVC: saiba identificar os primeiros sinais e quando chamar o Samu - A Gazeta",
+      "published": "2026-10-20T22:21:00+00:00",
+      "summary": "AVC: saiba identificar os primeiros sinais e quando chamar o Samu&nbsp;&nbsp;A GazetaAVC: conheça os sinais de alerta que exigem atendimento imediato&nbsp;&nbsp;Jornal CorreioHGF registra 979 internações por AVC até agosto de 2026&nbsp;&nbsp;O POVO6ª Corrida de Prevenção ao AVC reúne mais de mil inscritos em Feira de Santana&nbsp;&nbsp;ba.gov.brCasos de AVC crescem mais de 30% na Bahia em cinco anos; reabilitação é decisiva para reduzir sequelas&nbsp;&nbsp;niddedigital.com",
+      "sources": [
+        {
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXpZSjdFQWhYTTFnSGhlR3Yydm1WcWlLWk9QS0xiZllJSU5zVHcwRldqTmJnMklaUGlhS29SRFQ1V21nUWJ0M0I2Znp3WHA0YW9jWnRHcUM3UG1rem5DSGZzRDBpUjdUQ1RvWEZMNmpRMTlxcERLOGEyYmQ3ZnFhOHdXdXlHaVkwZzlEbG1QVC1kVVBrb1pfQVRUX3RUNXRGVFNQWTVKbWk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c703a4136db9",
+      "title": "Feira de Ciências da Sepex apresenta projetos de pesquisa, ensino e extensão da UFSC - Notícias da UFSC",
+      "published": "2026-10-20T21:24:00+00:00",
+      "summary": "Feira de Ciências da Sepex apresenta projetos de pesquisa, ensino e extensão da UFSC&nbsp;&nbsp;Notícias da UFSC",
+      "sources": [
+        {
+          "name": "Notícias da UFSC",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGZ4MGJnV05Ua2hWbUZtOUJ3elV1aDFRcC1IOGVBTkdadGRMOUwtcVg1a283Y0txMkdkY0Z1TGM0V0VSVVpybTZtS3p0UjA2WWFDZkxzVjBIbDFiT2JRLUlWV2c2bEdnRlFfTkkzVFNhNFBHQ2dha3lOYmtYV2dlU0M4RmF6cVdNMWMxV1pXVmNNZms3THk0SGx0T0xPUXc1bUg4TnN6RFVYcHEzNmdtdG8wVjA1d3A5?oc=5"
+        }
+      ]
+    },
+    {
       "id": "134418b0ffd0",
       "title": "Mulher morre aos 30 anos de câncer de pele após passar 10 anos fazendo bronzeamento artificial - Terra",
       "published": "2026-10-20T20:52:33+00:00",
@@ -282,26 +390,14 @@
       ]
     },
     {
-      "id": "36aff305aeda",
-      "title": "Pessoas nascidas entre 1950 e 1970 têm uma vantagem psicológica fundamental, diz estudo - veja qual - O GLOBO",
-      "published": "2026-10-20T16:56:58+00:00",
-      "summary": "Pessoas nascidas entre 1950 e 1970 têm uma vantagem psicológica fundamental, diz estudo - veja qual&nbsp;&nbsp;O GLOBO",
+      "id": "ddecbd24bdef",
+      "title": "Síndrome de Guillain-Barré: o que é a doença que afetou ex-affair de Justin Bieber? - Exame",
+      "published": "2026-10-20T16:59:27+00:00",
+      "summary": "Síndrome de Guillain-Barré: o que é a doença que afetou ex-affair de Justin Bieber?&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMGtQRS1PWl9aemZjTG82MGE0dFRfMDBlMzNtNlc2d09JZGw5TUZRTHNXa2thdElRYXdGWnk0Yjhqbll4YmQzYVlkM1IzNGx2LV8ta2VZempfMjd1ZDFYV2pvTTlZZ0dKODNBcTdMcE9Uc2RtRU9Fbk1abW4wRTJaMXFUcktqWWVDQzZpc2tFcUk0YTNvaXExSEhhbU5ST2NwaUVkcjJBUlNmQXF3NHFOTENrOUNyY1A1SEVYY0FMTkZnNUFDazlpdnRBUE10cnFZNDhVSDJaRGx6M2ZPb25tU2pnTGNpNG_SAfYBQVVfeXFMUHlTNjhuLThiUUpXQlRzZEpfRUo3bkMtekZaVXNtTzE1UEU5RExSck9pMmlyVHVYRXRFeEtFVm1vQW1QeWZVWURRMXRsN2YtM293LUN5X3NOckZKLVRwa2RseFI5RV9EODAwd2syR0M3T3hFTmZXTnBIUnJ4cXNuMktXUGJqbVg4MXlJYzVBVVpZOTBtcFFHSDVoUE5leXJOcGhzN0I3UlQyYTl6ZlRYc0ppYVBFSDhVRjVEcE5lTlVGc19JemNMcUNSMWd6ZnlsU3BHUEZQTElhY1Q1VlNtNVV4T0RUaDRtTFd3aEF5YzBNUmd1SWZ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c13345a42074",
-      "title": "IA analisa foto do rosto e estima risco de morte em pacientes com câncer - UOL",
-      "published": "2026-10-20T15:50:56+00:00",
-      "summary": "IA analisa foto do rosto e estima risco de morte em pacientes com câncer&nbsp;&nbsp;UOLO que esperar da IA que analisa foto do rosto para estimar chances de pacientes com câncer&nbsp;&nbsp;VEJANovo sistema de IA pode prever sobrevida de pacientes com câncer a partir de uma selfie, diz estudo&nbsp;&nbsp;Época NegóciosCancro: uma fotografia do rosto pode ajudar a avaliar o prognóstico dos doentes&nbsp;&nbsp;PplwareIA analisa fotografias faciais para estimar sobrevida de pacientes com câncer&nbsp;&",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMWIzZ0VrRjJwTUFySFB3TE10MWlCUS1yRWdBZ0NxSHA2cHFfZllmSFFoUEV5RkZMT1BBY2t2TlB1aHhVNVJYMW9CZ1R0Mmx4TEg1NXFneVpoMFZlQ2V3NmNQQUpGRld4RVFlR3hETjBEdWZ1clRHNGJvQ3FCOElrRGx6QUhWZVNYVEg5ZHR6SnRBOFU5MXhHaThRd3dvbGJldUkyUkZwb3VQWE5yeHdmcU5RcUJHQlRGdDJqVEZnNFMtUzR5ZnlGQ05mLVI?oc=5"
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGNoTk5yNG53OW1Da1dXVnU0REM1emdDajN3dFdicXgxVVBabHNQT0ZscmJocVVEeml5dlB4ak9vOVVZYzVIalIzN041QjNnX1l6VjJST21LMkFWS0pVMDRya2UwRGRKcDkzOEFTZFFmTmdKTnI3b2EzR0FQVzhKYTFJM1NBS0hmMHJFcEQ4SnZzV1A0Um9fRkJOYXVSMlZ2djZ2eXBkeUFzMkVY?oc=5"
         }
       ]
     },
@@ -345,7 +441,7 @@
       "id": "f683263b0490",
       "title": "Hipertensão atinge 28% de crianças e adolescentes, mostra estudo - Agência Brasil",
       "published": "2026-10-20T13:03:00+00:00",
-      "summary": "Hipertensão atinge 28% de crianças e adolescentes, mostra estudo&nbsp;&nbsp;Agência BrasilHipertensão atinge 28,3% das crianças e adolescentes do Brasil&nbsp;&nbsp;Senado FederalPesquisa encontra hipertensão em 28% de crianças e jovens avaliados&nbsp;&nbsp;IstoÉCrianças e adolescentes se exercitam menos e já apresentam pressão alta e excesso de peso&nbsp;&nbsp;G1Pressão alta atinge quase 3 em cada 10 crianças e adolescentes&nbsp;&nbsp;G1",
+      "summary": "Hipertensão atinge 28% de crianças e adolescentes, mostra estudo&nbsp;&nbsp;Agência BrasilHipertensão atinge 28,3% das crianças e adolescentes do Brasil&nbsp;&nbsp;Senado FederalPesquisa encontra hipertensão em 28% de jovens avaliados&nbsp;&nbsp;IstoÉCrianças e adolescentes se exercitam menos e já apresentam pressão alta e excesso de peso&nbsp;&nbsp;G1Pressão alta atinge quase 3 em cada 10 crianças e adolescentes&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -378,18 +474,6 @@
       ]
     },
     {
-      "id": "79195c69173a",
-      "title": "Poluição, genética e radônio: o que explica o aumento do câncer de pulmão em não fumantes - G1",
-      "published": "2026-10-20T06:00:00+00:00",
-      "summary": "Poluição, genética e radônio: o que explica o aumento do câncer de pulmão em não fumantes&nbsp;&nbsp;G1Câncer de pulmão: quem deve procurar avaliação médica mesmo sem sintomas&nbsp;&nbsp;JCCâncer de pulmão em não fumantes chama atenção para fatores de risco além do cigarro&nbsp;&nbsp;Clube FM 104.7",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY0s1STRSU2RSVWZycGhtekp3aFhldGNKYUZKVTA3d0NaYVZ6YlhZZFVzS2pfUHp4VlBBd1M3b2hNT256UkN1ZXhPc3lvQnI3MkRzOGhlajlrUFk4Z3Q0aGw2WThhTWp2Q3B0dDF6c1JqcWtLZGg2cGV0SkJYZVAzVkgxWWlYR0hLYVJjVWNmZl8talhCVnMzbnUxUkhNcUR1dnJCazNuMzFLUXVOZm5mMVBzRy1wWlVnWHI1bWE2T1hvR0dyVlJGeVVhOGVQZkc5SEpRSEpFek9wOFha0gHrAUFVX3lxTE4wNDhyZmd4b3RkeHBGQ3pBakRxc3JKNWNpaFJ0V01UNnlwZFlmLU80M3lobW41dTE1UWdjLVdoOHRiRlZHVDk3eHBVc1JRM3FzSDBHa1RRcVgtMnNWQy1NQmVnNk1ubG9JcjZTUThhYmNsX2VPOVQyWEtKNnVTSnBJOGE4aWtuLXNXbG55b09XSy1BZ0wwZWxYT3FGaVpYcmdEelgtRmI3cFhvSUhqbzFwWjVEdUliR2NZUnRDd0l3eHdpdEpmTDhrd0hqdjlmVlJOcko3c2Jpb1RidnQxVmJCX3BMY2R5Qkk3X3M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f752954420ef",
       "title": "Fatores de risco subestimados tornam o AVC em mulheres ainda mais perigoso - G1",
       "published": "2026-10-20T06:00:00+00:00",
@@ -414,30 +498,6 @@
       ]
     },
     {
-      "id": "5adaae442399",
-      "title": "Fezes de milhares de pinguins na Antártida podem liberar até 7 milhões de toneladas de metano por ano, diz estudo científico - Diário do Litoral",
-      "published": "2026-10-19T23:59:00+00:00",
-      "summary": "Fezes de milhares de pinguins na Antártida podem liberar até 7 milhões de toneladas de metano por ano, diz estudo científico&nbsp;&nbsp;Diário do Litoral",
-      "sources": [
-        {
-          "name": "Diário do Litoral",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTTVsOElOSy1qNVAxRlNnLUstVGdxclhxMktlWWRPMkZSMER3Z3lpbkR3MWhwRHVNRm5oMTZEUTM0Z2tKVVhDV1lwZTJGTWhXNUhHNzJGZWxpOXFwT2swSFhrdW52dkVLcVhMUlV4NFZZZjN0cmstWTRCM0R1TjRxSTJBQ2tlWmdPVy1CSEVGUGYycEU0OHhhSEZPVmROZkFBVFhLLThaOEFueEJOb2tMZGttTEhLQ3pwY1dPdFF5RUJ2V0xCUS0wdlVXWlVlY1JWQWlOdUZFeVZyWnJuTl9qREc0TlVTNWtDRUtHcFAzREwxLW5yNHktTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d8af7307217",
-      "title": "Revisão de 38 estudos aponta benefícios da maçã para coração e intestino - Diário do Centro do Mundo",
-      "published": "2026-10-19T21:22:44+00:00",
-      "summary": "Revisão de 38 estudos aponta benefícios da maçã para coração e intestino&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTFpUFhDVUh2VzdOdGdSMmhHTDdBclFrM1RrOHlQNE5mM3NycVB1ZDV2MkxRckNJUjYzNlZycXNIUlRVZFlPU0NnMi1YWFE0dThRSmYxX2k4LTl3R2RERG95NVpsXzdJWjlUODgxdm1RUmZkeG13SmpDcEVKNmVUeWpsS2VSbUJnSFVaZ09SZHpDSFpfWmlQdGxzbjJERU1PM3Vv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "67aed3b394e3",
       "title": "5 sintomas gastrointestinais que você nunca deve ignorar - O GLOBO",
       "published": "2026-10-19T07:30:00+00:00",
@@ -453,7 +513,7 @@
       "id": "c2b78e46886d",
       "title": "Como olhos biônicos estão se tornando realidade - R7",
       "published": "2026-10-18T05:00:00+00:00",
-      "summary": "Como olhos biônicos estão se tornando realidade&nbsp;&nbsp;R7Chip Ocular Permite a Homem Cego Recuperar Parcialmente a Visão na China&nbsp;&nbsp;Diario EconomicoOlhos biônicos recuperam parte da visão: implante de retina ainda enfrenta limites e riscos, mas trazem esperança&nbsp;&nbsp;Jornal Correio",
+      "summary": "Como olhos biônicos estão se tornando realidade&nbsp;&nbsp;R7Implante devolve parte da visão central a pacientes com degeneração macular&nbsp;&nbsp;O CafezinhoChip Ocular Permite a Homem Cego Recuperar Parcialmente a Visão na China&nbsp;&nbsp;Diario EconomicoOlhos biônicos recuperam parte da visão: implante de retina ainda enfrenta limites e riscos, mas trazem esperança&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
           "name": "R7",
