@@ -14,7 +14,7 @@ permalink: /news/oseltamivir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Oseltamivir?">
-<strong>Oseltamivir</strong> tem atualmente <strong>1 notícias</strong> e 1 indicações previstas.
+<strong>Oseltamivir</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ Esta página combina as indicações previstas por IA para Oseltamivir com as no
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (0)
 
-### [Sergipe continua com nível de alerta para casos de SRAG, aponta Fiocruz](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXY0ZF9nTE9UbVpnY2YwckFsZlBHWFFKeXhpejJlM0JwbkluMTlMTjdtMzB6c1l0VUpBc2JsOFpub2dKTmN4ZktURC1BVWR6Tk1GcjNDS0QtNFlqNWhacnU0UGNHWThGdkFKcFlVM19fRnl0bFN0UDNQcGg5OWtLOE5sNjFIdkJSRFFJTzYwVks3bEZDSlBZT290d0c1Y21yN0Y1UzlWV2NxcWhySHJBZHB3TUpwbjFFVkEtV3VmZXBCOGhwbUHSAdQBQVVfeXFMUG81S2t5QWJRUmYtUVhxa3A5MlVrU3A0TTgzRmtOX1dzOXEyanppSzNqQTJxNk55OWR0NVo0WTNxNEFPTXFOT21fT2VpbDNWQU9EQl9qdjFSc3UwbU04REtNZXpMWGhaaUNaWEcwTWktYUoyQWhENVphZ2VlMHI5NFYxM2FVNFJyUHFNeTh0Vl9UT2N1U2FhOFJZZVY1NHBpOXJTTndYSlhZUFRCWWpKZVFBREhLMlVtdjhRQ0I3d3JXVXZKVXM2NVRzb0dtcUREMHBxMFU?oc=5)
-
-2026-10-22 <span class="news-indication-tag">pneumonia</span> <span class="news-indication-tag">pneumonia</span>
-
-Fonte: [G1](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXY0ZF9nTE9UbVpnY2YwckFsZlBHWFFKeXhpejJlM0JwbkluMTlMTjdtMzB6c1l0VUpBc2JsOFpub2dKTmN4ZktURC1BVWR6Tk1GcjNDS0QtNFlqNWhacnU0UGNHWThGdkFKcFlVM19fRnl0bFN0UDNQcGg5OWtLOE5sNjFIdkJSRFFJTzYwVks3bEZDSlBZT290d0c1Y21yN0Y1UzlWV2NxcWhySHJBZHB3TUpwbjFFVkEtV3VmZXBCOGhwbUHSAdQBQVVfeXFMUG81S2t5QWJRUmYtUVhxa3A5MlVrU3A0TTgzRmtOX1dzOXEyanppSzNqQTJxNk55OWR0NVo0WTNxNEFPTXFOT21fT2VpbDNWQU9EQl9qdjFSc3UwbU04REtNZXpMWGhaaUNaWEcwTWktYUoyQWhENVphZ2VlMHI5NFYxM2FVNFJyUHFNeTh0Vl9UT2N1U2FhOFJZZVY1NHBpOXJTTndYSlhZUFRCWWpKZVFBREhLMlVtdjhRQ0I3d3JXVXZKVXM2NVRzb0dtcUREMHBxMFU?oc=5)
-
----
+*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
 
 
 <div class="disclaimer">

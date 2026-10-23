@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-23T11:11:05.679288+00:00",
-  "total_fetched": 98,
-  "unique_count": 98,
-  "health_related_count": 43,
+  "fetched_at": "2026-10-23T16:39:12.284754+00:00",
+  "total_fetched": 101,
+  "unique_count": 100,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "c18ec4ba5f4a",
+      "title": "Subir de 60 a 70 degraus por dia pode ajudar a proteger o coração - Folha de S.Paulo",
+      "published": "2026-10-23T15:00:00+00:00",
+      "summary": "Subir de 60 a 70 degraus por dia pode ajudar a proteger o coração&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSElZOXAzc1lUTklSQ0pmMURWWHotYlllQm92azhMX0hseXlvYUxIeGVoeG85eDlDRFd4MDBST2xCOEpxQmtJWmptYV9XRXQteXZQLWx1SUw0anNtWWVER0MtRnZ4ekhhZy1RTU1CZlZsVjYyQTZzQzJaT1FuQWdQQV91aUpxZ2dTQzhyV2ltblpFVEJvMFNMN2pTSERTM08zVG4tZEU0S0o3LUcwczFmMi04dHZHUWJETUtGeVprMmZoZWV5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "159f5be87f76",
+      "title": "Vacina de mRNA contra câncer reduz em 42% risco de morte ou volta do melanoma - G1",
+      "published": "2026-10-23T10:57:09+00:00",
+      "summary": "Vacina de mRNA contra câncer reduz em 42% risco de morte ou volta do melanoma&nbsp;&nbsp;G1O que você precisa saber sobre os dados da vacina contra câncer de pele&nbsp;&nbsp;UOLEm meio a tantas notícias ruins, uma razão para ter esperança&nbsp;&nbsp;R7Por que as ações da Moderna estão caindo hoje?&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosVacina contra câncer reduz risco de morte em 42% ou recorrência de melanoma&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbkVEUTFkNnc0V3pJdWJ2NEJHSEJtWTZRZ0ktUUZkRlozVW5RTmc1RWJRbTNpaGZzRGh2WXhLU0xZYnhKOWxOc0xJN0tZc0ZBTzJSLXp3ZDFLdFFfeGc5MXk0b1Q4M3V6MVhZRDdCUWIxMkRLcF8wT0JBQnMtU0E2aExfRVBxTUxaMTQyZW1TNHRsZU44RGZQOFBmRVVfSFNoZ2dxNHVMU0NsNU5MTDJkUUZXMHBkUmtxT0d2SkRmTkRCRmxrNzFZYmM4VDg3eUNB0gHfAUFVX3lxTE9VTmVmMWc0bHlhbHc0TnpnaUR2ZmFOVDhUNWRlWlVwMEVvMm1NN2RPaVBDVGJlUFhnTUhwWEdzVWtmdWhEWkNiMm51clFJTHpXVUpabXhqNF8yMjA0UDdEbjE0NlRCTi11bG5SZ040ZVVlN3RnT2R6QjJGTTQwMXJ6WWR4SlU2RUsyMlVxSHpZTTFYTVB2V25ZcGlkSWxEb2RnbGRMdl9qZDJBVXhNSVlLMmRKMzFYX2hRS0xZRVNLNDFYN3hsOGpMWUZzWnhvcmUyV3h0OWJwRWhULUZiYVk?oc=5"
+        }
+      ]
+    },
     {
       "id": "6e338459acd0",
       "title": "Nova pesquisa ajuda a desvendar as origens e o impacto do ciúme - VEJA",
@@ -18,10 +42,22 @@
       ]
     },
     {
+      "id": "78673b3c52b6",
+      "title": "Maria Cândida: 'Menopausa não deve ser um sofrimento que compromete a vida' - UOL",
+      "published": "2026-10-23T08:31:00+00:00",
+      "summary": "Maria Cândida: 'Menopausa não deve ser um sofrimento que compromete a vida'&nbsp;&nbsp;UOLComo a menopausa e o verão influenciam os cuidados com a pele&nbsp;&nbsp;TerraMenopausa também transforma a pele e a relação da mulher com a transpiração&nbsp;&nbsp;Tribuna da BahiaCom primeira pele 3D menopausada do mundo, Avon desenvolve Renew MenoPro&nbsp;&nbsp;Brazil Beauty NewsCosméticos para pele na menopausa apostam em colágeno e hidratação da pele; veja como agem&nbsp;&nbsp;redeutv.com.br",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR1RDOFAzekZlTS1va0E5LWdwdnhuVzhaYlNmbzQ5SjUzcGVPSG5oVk40Z3FyQjc5cDJMQTNNZk5Jelg1Y0RHYktnamJwZFNCMnlSb09oSTdmcXlJZjV6YjRSOVgxS1VJQVI2SW0zUE1zTGFIVUU5WGsxNndDNC1VRURYaU9rZXRyTWU4dTgwTzMyZUJGZDBXVVlBMlFxVjV2cUJNTTh6bjFFaTBvaThxYTVZRTF3aGNKTDNoYWVpYkx6UDNibDQwaFdRUmdOM3c1Wmw4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ab2f4a9ae9a9",
       "title": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais - UOL",
       "published": "2026-10-23T08:30:00+00:00",
-      "summary": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais&nbsp;&nbsp;UOLCanetas emagrecedoras e lipedema exigem atenção médica e cuidado individualizado&nbsp;&nbsp;O GLOBOCom as canetas emagrecedoras, comer menos não significa comer melhor&nbsp;&nbsp;A CríticaCanetas emagrecedoras: mercado paralelo e automedicação aumentam riscos à saúde&nbsp;&nbsp;Folha PEComer menos, escolher melhor: como os GLP-1 mudaram o mercado de bens de consumo&nbsp;&nbsp;MilkPoint",
+      "summary": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais&nbsp;&nbsp;UOLO que muda no treino de quem usa canetas emagrecedoras?&nbsp;&nbsp;Assine AbrilCanetas emagrecedoras e lipedema exigem atenção médica e cuidado individualizado&nbsp;&nbsp;O GLOBOComer menos, escolher melhor: como os GLP-1 mudaram o mercado de bens de consumo&nbsp;&nbsp;MilkPointCanetas emagrecedoras e massa muscular: por que o exercício faz parte do tratamento&nbsp;&nbsp;R7 Entretenimento",
       "sources": [
         {
           "name": "UOL",
@@ -30,26 +66,62 @@
       ]
     },
     {
-      "id": "1570c9881568",
-      "title": "Novo exame identifica quase 98% das lesões de tipo mais comum de câncer de rim - G1",
-      "published": "2026-10-23T07:00:00+00:00",
-      "summary": "Novo exame identifica quase 98% das lesões de tipo mais comum de câncer de rim&nbsp;&nbsp;G1Câncer de rim: sinais, diagnóstico e avanços no tratamento&nbsp;&nbsp;TerraNovo exame detecta quase 98% das lesões do câncer de rim mais comum&nbsp;&nbsp;Folha de CuritibaCâncer de rim pode evoluir sem sintomas nas fases iniciais&nbsp;&nbsp;al1.com.br",
+      "id": "567ad1adc3ed",
+      "title": "Convulsões só durante a menstruação levam médicos a suspeitar de endometriose no cérebro de paciente - G1",
+      "published": "2026-10-23T08:00:00+00:00",
+      "summary": "Convulsões só durante a menstruação levam médicos a suspeitar de endometriose no cérebro de paciente&nbsp;&nbsp;G1Caso de convulsão na menstruação levanta suspeita de endometriose cerebral&nbsp;&nbsp;MetrópolesCom convulsões na menstruação, mulher tinha endometriose no cérebro&nbsp;&nbsp;RomaNews.com.brEndometriose no cérebro? Conheça caso raro que chocou médicos&nbsp;&nbsp;A TARDEConvulsão durante a menstruação: médicos suspeitam de endometriose cerebral&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEJ1aEhaS0dZQnhhUVV1THlwang2Yk5qaDdaa1VGY19wakZwWURXSFI1ck1kUW1fMDhMY01HM09XMGREUmRjWlFPV1FQdE9BSXg2TGxZT3M5ZUdVY3FlQ2s5MzV5cURSa2hTUGV3b19LUC0tMkdWaW9mYW1rX2dQNW1faDBaSlBJdGRMMTQzVkpNUVpfU1UxdzVkUmU3c0JCb2tEbzdQOGdkNW1ldklRaTZHTGUyZG5zd2dReVRUc0hWdkVHSjAwUUJsN1o2bjM0ZXfSAeABQVVfeXFMTVNxdHMyVk1RNXdFdDBLaFA5dURabFhOVWk0b0RWbTZESHV3TVJheXc4RDBZUlFGOTR5SmZKeldfOVptYlEycTNid2M2bGhsMlNXc1JXeFBud1BISmdEZms1SEtWZThTNURqTG5HRFljdlRaVV9qUlV4U3A0ZEE1TDZvRWNyQkRTQ2VXeC1rVUJFTXpIOEVSM3hfQ2ZqU1pMejA1dzc5Mk1QaGdHZ21xMV8yTXFINjJ2R2RrcjN3d01KZks2RU43OEVrQTNRWDFwWkQzLURnMzNMNXhCcnlRdkc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS28xNHpqMW96VmRBTGFxekczWmFvM1J3R2xrU1g3SlNxNGhqN0ctU284eXUyM01TWHdoVXZySW5OREZqV3NwUzNBby1pQXo5cGd4anVodnpLSkMxQWlhdTQwMmxKWWdlc1k5U2V2Tng3NFNuM1AzdnlySFk0TjVUVjcyXzdWQVYtam1fYUJtaXc2NEkyTnZsb0dBWm9qR1JqTmkxRzdydkx2bVVwTURjSG1ISU9pSXVwa1FlMkM4bmdhZy1nUjVpb21jVXJnZGdJNW9ESlNTZU1LUkJqQXF4OVlieFRxTEHSAfYBQVVfeXFMTU5TM3ZoYi1OSi1zeDJTaDNrMlVkUERHb2w1dzJrcTA3VXlMeWNuYXg2WDdvMXpHU3ByV3lYRE9oNXlxMnEwNC1kanNyak1EXzVSdWcwY2hWMGFad3NlQzBobS1saDJDU3RIRzNPbDRhZWRoWWlTMnBSdkxvb3N4UjVyX3gtYVBZdWZBcGtmZFZyTHJLNTVfSmphUWxGTlN3SXhINFg0X000bGZWdmNuMjNpbXVud2UxMmlac3J3eTd0djBjQ3VHR0xaR1ZEUVZCcHNZMmZTbmhEd2Ywb1dPQk1MTThyajRCUFM0OG1pZlBmWEVwSU1B?oc=5"
         }
       ]
     },
     {
-      "id": "a68edc9a735f",
-      "title": "Sergipe continua com nível de alerta para casos de SRAG, aponta Fiocruz - G1",
-      "published": "2026-10-22T21:13:30+00:00",
-      "summary": "Sergipe continua com nível de alerta para casos de SRAG, aponta Fiocruz&nbsp;&nbsp;G1Casos de gripe e resfriado podem evoluir para pneumonia e preocupam médicos&nbsp;&nbsp;R7SRAG em MS: Estado está em alerta, mas sem alta em longo prazo&nbsp;&nbsp;Campo Grande NewsRio está entre capitais com alta de casos graves respiratórios&nbsp;&nbsp;O DiaSergipe está entre os três estados com aumento de casos graves de doenças respiratórias&nbsp;&nbsp;A8 Sergipe",
+      "id": "48def2fe8920",
+      "title": "Diabetes e obesidade: dispositivo eletrônico controla glicose e reduz peso em testes com animais - G1",
+      "published": "2026-10-23T07:00:00+00:00",
+      "summary": "Diabetes e obesidade: dispositivo eletrônico controla glicose e reduz peso em testes com animais&nbsp;&nbsp;G1Implante eletrónico converte glucose em gluconato para controlar diabetes&nbsp;&nbsp;HealthNewsMonitorização contínua pode melhorar controle do diabetes tipo 2&nbsp;&nbsp;Afya | Home",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXY0ZF9nTE9UbVpnY2YwckFsZlBHWFFKeXhpejJlM0JwbkluMTlMTjdtMzB6c1l0VUpBc2JsOFpub2dKTmN4ZktURC1BVWR6Tk1GcjNDS0QtNFlqNWhacnU0UGNHWThGdkFKcFlVM19fRnl0bFN0UDNQcGg5OWtLOE5sNjFIdkJSRFFJTzYwVks3bEZDSlBZT290d0c1Y21yN0Y1UzlWV2NxcWhySHJBZHB3TUpwbjFFVkEtV3VmZXBCOGhwbUHSAdQBQVVfeXFMUG81S2t5QWJRUmYtUVhxa3A5MlVrU3A0TTgzRmtOX1dzOXEyanppSzNqQTJxNk55OWR0NVo0WTNxNEFPTXFOT21fT2VpbDNWQU9EQl9qdjFSc3UwbU04REtNZXpMWGhaaUNaWEcwTWktYUoyQWhENVphZ2VlMHI5NFYxM2FVNFJyUHFNeTh0Vl9UT2N1U2FhOFJZZVY1NHBpOXJTTndYSlhZUFRCWWpKZVFBREhLMlVtdjhRQ0I3d3JXVXZKVXM2NVRzb0dtcUREMHBxMFU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTzFGcW9lbklfNU1adG9OTThoOXpxUGNDZFpTdnFjWDRONU0tZkNZZ2QzM0VBdktuU2FWdlM1eWMwaVAxRTdLdWU4OW9FQjhWLUtudlNESVBqUndraTVWa3piZmxwbDZTcjJFZWU1cWllVEJWREdzRkEweWhMVWRPMDlOVENLSG5JUkltLUU3U0FJcUdYbEhjVF91TjRsbUE0aU81eUh0SjA4dnpYTF9QYXlHZWlhbUtadHhJMGtiNk44UFhLdGZHUnBBVWs3MFFzemVHLXYydzNSY1NBaV9WX9IB7wFBVV95cUxQNXN0UE52WVNnanlUaXN6TmF3X2hudndnTWVaVV9xUkV2VThVRm1qVFZ5THdfM1RaUW1tczdXZzVCLUhzczVmNlRnMXJxRnJEZjBqRW5STkNuWVlmMGk3NUp0Z0c1bkVsa3NRT2d1eTQ0eEt4QmZ6YXpZYllnblI4VWYwcERDRU1vN2NVY0JIeG9QMlk2R1lxNlBGaXBIQ1Nmb25xLWpYU3hCRUc4eWtWbDQ2anVuMUVjNy1NVm5pZGp5TlNTVG1XUU44TDNNTkRaT1pqZUplQzFYYXM3NlcwRGl0S3Roc25Qd1dNckcwbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e8055db4ec32",
+      "title": "Novo exame identifica quase 98% das lesões de tipo mais comum de câncer de rim - G1",
+      "published": "2026-10-23T07:00:00+00:00",
+      "summary": "Novo exame identifica quase 98% das lesões de tipo mais comum de câncer de rim&nbsp;&nbsp;G1Câncer de rim: sinais, diagnóstico e avanços no tratamento&nbsp;&nbsp;TerraNovo exame detecta quase 98% das lesões do câncer de rim mais comum&nbsp;&nbsp;Folha de CuritibaNova técnica de exame detecta quase 98% das lesões de câncer de rim&nbsp;&nbsp;CNN BrasilCâncer de rim pode evoluir sem sintomas nas fases iniciais&nbsp;&nbsp;al1.com.br",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEJ1aEhaS0dZQnhhUVV1THlwang2Yk5qaDdaa1VGY19wakZwWURXSFI1ck1kUW1fMDhMY01HM09XMGREUmRjWlFPV1FQdE9BSXg2TGxZT3M5ZUdVY3FlQ2s5MzV5cURSa2hTUGV3b19LUC0tMkdWaW9mYW1rX2dQNW1faDBaSlBJdGRMMTQzVkpNUVpfU1UxdzVkUmU3c0JCb2tEbzdQOGdkNW1ldklRaTZHTGUyZG5zd2dReVRUc0hWdkVHSjAwUUJsN1o2bjM0ZXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1cfd69a5169",
+      "title": "Estudo abre novas perspectivas para o tratamento do câncer de mama - FAPERJ",
+      "published": "2026-10-23T00:05:33+00:00",
+      "summary": "Estudo abre novas perspectivas para o tratamento do câncer de mama&nbsp;&nbsp;FAPERJ",
+      "sources": [
+        {
+          "name": "FAPERJ",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoUHhsc0xCcGplWkNQdkpnb1o5WWtLZmZOVU1LeW1CQVJzczMwZkE0UTJCb3ZyVERyZHEwVjVUUUxaRUJoTVQwZHNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a04ec4c4490e",
+      "title": "Avanço da IA pressiona pesquisadores de matemática avançada - CNN Brasil",
+      "published": "2026-10-22T21:06:29+00:00",
+      "summary": "Avanço da IA pressiona pesquisadores de matemática avançada&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaGN3ZVNyYnVrNzc2M2huWVdVbWpxdFNiSDlDX2JncE51MWFXa3E4a3pRSThSU0p4QW9nWFQ2TllPN1VtcEtlbkNpZXFhYmlTQXllMWNnMExuWTFndkljbVVkMnFIanREcFo5amF0QlJBdTdFVmhyR3JTTy1GSDZuY3JmeTRLemRqZkhkWVV2aEVYX2RseHRpQmZxbFNsR0VlNkZEcWlyLUFHMEdIUS03dldZbVBSV2FHVEdFUk9GNTcxd2haMGVF?oc=5"
         }
       ]
     },
@@ -66,14 +138,14 @@
       ]
     },
     {
-      "id": "4fbe16bdc6c6",
+      "id": "7359cec02805",
       "title": "Câncer de intestino: sintomas que não devem ser ignorados - Campo Grande News",
       "published": "2026-10-22T19:13:00+00:00",
-      "summary": "Câncer de intestino: sintomas que não devem ser ignorados&nbsp;&nbsp;Campo Grande NewsMorte Lua Blanco: alimentação ruim está ligada ao câncer de intestino&nbsp;&nbsp;CNN BrasilCâncer de intestino: entenda o papel da colonoscopia na identificação precoce da doença&nbsp;&nbsp;CartaCapitalCâncer de colorretal atingirá mais de 36 mil pessoas até 2019&nbsp;&nbsp;Portal EngeplusMuito frequente, câncer de intestino pode não apresentar sintomas&nbsp;&nbsp;Agência Brasil",
+      "summary": "Câncer de intestino: sintomas que não devem ser ignorados&nbsp;&nbsp;Campo Grande NewsVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS2xZb3E4b3hYVUE2UnBYWk1UMzRIVXNycnhzb0Q3cDV1bS1FVVJqa2RfOFpZdWpSNzhPbTN5UFFZSHlrd2JEU3VrQW4tclRxNEZBS0hMWlNGZVZTTXFJNm83bVdpdUE1c0ZJN0NCY2l2eWZVRTItV1ZMSWh0NWVRck05dnNWaXdadmVsLTltZ2tWZXZmQUN3cFJhTU92Q2R0LXY4d2FJeWNyN3I5ZXV1RDBPbjVSMGxHM1lNalljNGJ1eHUyT3fSAcYBQVVfeXFMT3lfc2pBR3NKMWdEQkR5TnJZRnJOQksxX1BUaFNfdDNldlhWc2Uxd0VCTnBRN0ZCdk9MNXFuS3ptYkpzZWtlalNTbnhRS0RXbGExU2s2bEh5S3ZZYWFNdlhSejZYcDBnWHJ1R2JqZ1ZUcTJsUHNUQ2JLazUzdDg5WDl6NU1VV3AyYnZzMWczaGc5RndrSVdHckk1R0dPQnNJSXF1TzRMLUprMkxoN3E1a3U3MXRpb3otWVNTaWZTYkd1Q2FCSjV3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5"
         }
       ]
     },
@@ -81,7 +153,7 @@
       "id": "eb1bad2b2d29",
       "title": "Entenda o que a maçã oferece à saúde e confira o perfil das versões mais comuns - Estadão",
       "published": "2026-10-22T19:02:00+00:00",
-      "summary": "Entenda o que a maçã oferece à saúde e confira o perfil das versões mais comuns&nbsp;&nbsp;EstadãoMaçã com casca ou sem? Saiba o que muda na saúde&nbsp;&nbsp;Correio do PovoUma maçã por dia mantém o médico longe? Entenda o ditado e conheça 7 benefícios da fruta&nbsp;&nbsp;CartaCapitalMaçã pode beneficiar saúde cardiometabólica e intestinal, diz pesquisa&nbsp;&nbsp;SuperinteressanteMaçã: nutricionista dá dicas sobre a melhor forma de consumir a fruta no dia a dia&nbsp;&nbsp;Folha PE",
+      "summary": "Entenda o que a maçã oferece à saúde e confira o perfil das versões mais comuns&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Estadão",
@@ -105,7 +177,7 @@
       "id": "d48d66015ec6",
       "title": "Mudança de hábitos ajuda a diminuir probabilidade de Alzheimer, mesmo com risco genético - Folha de S.Paulo",
       "published": "2026-10-22T18:00:00+00:00",
-      "summary": "Mudança de hábitos ajuda a diminuir probabilidade de Alzheimer, mesmo com risco genético&nbsp;&nbsp;Folha de S.PauloCochilo, poluição e desemprego estão associados ao Alzheimer, diz estudo&nbsp;&nbsp;CNN BrasilComer ovos, usar computador e poluição: o que fatores do dia a dia revelam sobre o risco de demência&nbsp;&nbsp;EstadãoCochilo em idosos: estudo associa sonecas matinais a risco 30% maior e mostra o que observar no dia a dia&nbsp;&nbsp;Jornal CorreioEstudo de Harvard associa cochilos frequ",
+      "summary": "Mudança de hábitos ajuda a diminuir probabilidade de Alzheimer, mesmo com risco genético&nbsp;&nbsp;Folha de S.PauloComer ovos, usar computador e poluição: o que fatores do dia a dia revelam sobre o risco de demência&nbsp;&nbsp;EstadãoCochilo, poluição e desemprego estão associados ao Alzheimer, diz estudo&nbsp;&nbsp;CNN BrasilCochilo em idosos: estudo associa sonecas matinais a risco 30% maior e mostra o que observar no dia a dia&nbsp;&nbsp;Jornal CorreioEstudo revela quais fatores mais contrib",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -117,7 +189,7 @@
       "id": "9f3748630940",
       "title": "Startup diz ter usado vírus criado por IA para tratar paciente - Folha de S.Paulo",
       "published": "2026-10-22T17:00:00+00:00",
-      "summary": "Startup diz ter usado vírus criado por IA para tratar paciente&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Startup diz ter usado vírus criado por IA para tratar paciente&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -141,7 +213,7 @@
       "id": "a94ba50b1169",
       "title": "Hipertensão atinge quase 3 em cada 10 crianças e adolescentes no Brasil - UOL",
       "published": "2026-10-22T15:00:00+00:00",
-      "summary": "Hipertensão atinge quase 3 em cada 10 crianças e adolescentes no Brasil&nbsp;&nbsp;UOLHipertensão atinge 28% de crianças e adolescentes, mostra estudo&nbsp;&nbsp;Agência BrasilEspecialista alerta para os riscos da hipertensão infantil e o impacto do tempo de tela&nbsp;&nbsp;Diário do AmapáPressão alta atinge quase 3 em cada 10 crianças e adolescentes&nbsp;&nbsp;G1Hipertensão atinge 28,3% das crianças e adolescentes do Brasil&nbsp;&nbsp;Senado Federal",
+      "summary": "Hipertensão atinge quase 3 em cada 10 crianças e adolescentes no Brasil&nbsp;&nbsp;UOLEspecialista alerta para os riscos da hipertensão infantil e o impacto do tempo de tela&nbsp;&nbsp;Diário do AmapáHipertensão atinge 40% das crianças e jovens, aponta pesquisa&nbsp;&nbsp;Jornal CorreioPressão alta atinge quase 3 em cada 10 crianças e adolescentes&nbsp;&nbsp;G1Hipertensão atinge 28,3% das crianças e adolescentes do Brasil&nbsp;&nbsp;Senado Federal",
       "sources": [
         {
           "name": "UOL",
@@ -213,7 +285,7 @@
       "id": "000d6b36a78f",
       "title": "Anvisa aprova novo medicamento para câncer de pulmão avançado - Agência Brasil",
       "published": "2026-10-22T12:48:00+00:00",
-      "summary": "Anvisa aprova novo medicamento para câncer de pulmão avançado&nbsp;&nbsp;Agência BrasilAnvisa aprova novo medicamento para câncer de pulmão avançado; Brasil é o 2º país a liberar terapia&nbsp;&nbsp;G1Anvisa aprova novo medicamento para tratamento de câncer de pulmão avançado&nbsp;&nbsp;A8 SergipeAnvisa aprova medicamentos para tratamentos contra câncer de pulmão e de mama&nbsp;&nbsp;Hoje em DiaRemédio aprovado pela Anvisa para câncer de pulmão teve resposta em 35% dos pacientes; RS integra estud",
+      "summary": "Anvisa aprova novo medicamento para câncer de pulmão avançado&nbsp;&nbsp;Agência BrasilAnvisa aprova medicamento para câncer de pulmão avançado e nova opção contra câncer de mama&nbsp;&nbsp;TerraAnvisa aprova novo medicamento para câncer de pulmão avançado; Brasil é o 2º país a liberar terapia&nbsp;&nbsp;G1Anvisa aprova 'bomba inteligente' contra câncer de pulmão avançado&nbsp;&nbsp;UOL NotíciasRemédio aprovado pela Anvisa para câncer de pulmão teve resposta em 35% dos pacientes; RS integra estu",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -285,7 +357,7 @@
       "id": "59aadf8a8f47",
       "title": "Mounjaro e Ozempic: os efeitos inesperados que estão chamando a atenção dos médicos - Portal Mie",
       "published": "2026-10-22T05:52:57+00:00",
-      "summary": "Mounjaro e Ozempic: os efeitos inesperados que estão chamando a atenção dos médicos&nbsp;&nbsp;Portal MieCanetas emagrecedoras: novo estudo revela que esses medicamentos reduzem as internações de pacientes com esquizofrenia&nbsp;&nbsp;O GLOBOGLP-1: remédio para emagrecer pode reduzir compras e apostas impulsivas&nbsp;&nbsp;BNLDataCanetas Emagrecedoras entram em teste para combate ao alcoolismo&nbsp;&nbsp;URB NewsSaiba por que canetas emagrecedoras são associadas a menor consumo de álcool&nbsp;&n",
+      "summary": "Mounjaro e Ozempic: os efeitos inesperados que estão chamando a atenção dos médicos&nbsp;&nbsp;Portal MieGLP-1: remédio para emagrecer pode reduzir compras e apostas impulsivas&nbsp;&nbsp;BNLDataCanetas Emagrecedoras entram em teste para combate ao alcoolismo&nbsp;&nbsp;URB NewsSaiba por que canetas emagrecedoras são associadas a menor consumo de álcool&nbsp;&nbsp;Enquanto isso em GoiasMédico explica como canetas emagrecedoras diminuem vontade de beber&nbsp;&nbsp;Tarobá",
       "sources": [
         {
           "name": "Portal Mie",
@@ -297,7 +369,7 @@
       "id": "afe5d2a080fd",
       "title": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam - G1",
       "published": "2026-10-22T05:00:00+00:00",
-      "summary": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Cuiabá mantém vacina contra sarampo nas 72 USFs, com 33 unidades abertas no horário de almoço&nbsp;&nbsp;Prefeitura de CuiabáNegacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil&nbsp;&nbsp;Agência BrasilNenhum estado atinge meta de vacinação contra Sarampo e surtos vizinhos ameaçam o Brasil&nbsp;&nbsp;RedeTV!Sarampo: vacinação abaixo da meta acende alerta em MS&nbsp;&nbs",
+      "summary": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Cuiabá mantém vacina contra sarampo nas 72 USFs, com 33 unidades abertas no horário de almoço&nbsp;&nbsp;Prefeitura de CuiabáMS tem 24 casos suspeitos de sarampo e 1 em investigação&nbsp;&nbsp;Campo Grande NewsNegacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil&nbsp;&nbsp;Agência BrasilEstados não batem meta de vacinação contra o sarampo&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "G1",
@@ -314,30 +386,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOGIyekZwWjRhQkptZGJQWEotekJJYzRydzdrTEJvYXNSR3FnbHY1ZjBzdFA1cjcwaFlVZ2p4b2VQSm1zRm1sSnhiZzAtdzdVVDluRXNGcmdneWZodVNuT0swTExrWTFSZmg5QUFrZlRIOV9CaVNybXhrQW1RcmQ1ZmpKRUhjelVHRGRsZjRNbmVZZ25PeXNCMFRnNEJPMXM0Sk9GZHFUMnVpOG16c2JuTm1wU0haSTQ1UTNTbVYxY2hLUGI2NTA4WW9MT3AyVHU0Q2JVeFM5VmNDdzhRR1o0Y9IB7wFBVV95cUxOR0lpZFVPc3JrZHVQQTdVUXhLY1AzM2VERXdrc2hYS3hsODVzS0pFMzI3WmVnU21hc0xaamRPd00tSmdKZXVyOUw0UDVWOVN0bWR4NGlhYjloaXNoYndUelhNUzd2ZElCNjNkdndJTmNZNER1bFV6TjByY2dVN3kzM2RGUm1XZ0NlczBmN3hoNjhLdjA4bE5KV08zRk1fdDJ0V3lmNlZheUZiLXAyc0FlMVVoUHhfMndidHBLTC1ZQVJMVk14eUNOb0FEaXR2ZEVTLV84bGpqYWFsQ3ZLaldpc2Q2cVM4S09aZ0NmSVBhYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d9b97a092021",
-      "title": "'Tive câncer aos 6 anos, aos 7 e novamente aos 12': a história de uma paciente com síndrome genética rara - G1",
-      "published": "2026-10-22T03:00:00+00:00",
-      "summary": "'Tive câncer aos 6 anos, aos 7 e novamente aos 12': a história de uma paciente com síndrome genética rara&nbsp;&nbsp;G1Isabel Teixeira, de ‘Quem Ama Cuida’, retira mamas após diagnóstico de condição hereditária&nbsp;&nbsp;VEJASíndrome de Li-Fraumeni: entenda a condição genética que levou a atriz Isabel Teixeira à retirada das mamas&nbsp;&nbsp;Tribuna do NorteIsabel Teixeira retirou mamas após diagnóstico de síndrome ligada ao câncer&nbsp;&nbsp;CNN BrasilVilã de Quem Ama Cuida, Isabel Teixeira re",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOUhCYXdDWXM3ajg2YThtYlg4cHlBZk1FazhGTTZ5c3pvNFM5LUR0bDVIWjhwWVc3NGxReGZNX2RkbVRaWTdEWGRLY01BMmRWTXZ6UThQQzg0NW1IQXA3aktTckoxVGdlUnVYT1RHLWFXU1VXNVp0RkhsWU1ISmRLd2dvMWFoTzFNU0FMWGVGNzZjdW0tM1dfOURjd185ekNjMUxUb2g1Z3NyQXVLcTNiVDJqT3o2SVhGNW1OeFAzR282TTFqRnk5LUkySlJtVGVOQ2hicDYzeUJzY3pTb3BsQmd3d19CM0UtMGxMNUVNRdIB_gFBVV95cUxNLW9QSzZuamlyTWpvZGZFVllTVmw3SHVrSXUwb194UE1RanF1UkhtRHBicnVUMG92Qm9sa0hxVE9qWWRqaEU2TnBIeHpNOGVUdm9HZXhCeXFVd1A4LVRlVXYxQXNacUtwc3RPc3ktM2hVVlEybzZRUGlVUnRqLWthWnV1UFhvUll1R3Qta1htNmNraWNVRTVoRnNhY0pqenQ0R1F2YjBhNmF1dnZ0aWU1NUs3QU5BMWwwYjJDT1otMU5UbFFDT0JiXzZiNXR4aFZxQjBBRnBNeUxjVTIxYTQ4STE2OWxTSlVZLUtRVzUzVm1BWEhsa2hYQTYzQkF3Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e628037aff66",
-      "title": "Estudo encontra padrão curioso em relatos de supostas vidas passadas - Olhar Digital",
-      "published": "2026-10-22T01:27:00+00:00",
-      "summary": "Estudo encontra padrão curioso em relatos de supostas vidas passadas&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRjBjY05EUGVVRklaY3RlN3BfY2NrR1hlOHdINi1aVHk4RnVRVXhkRHFBWFVUR0IzQ0JBeUxRYzNfWktWYW9zUjRsVS1tZlR3cWdaX2k1bnFUWTB4UEVOLVExT25FOUk3NUVsaEQ2SlIyc1JHcDUwVTNrc3JsSUJvd3NoOHpPdS02enVJc2tQdERIQXQwRzBVam9TOXN4Zk5NUTlfYlkyVmFZNDNlaDcxZ0k4LW1fX2NIckE5MUloejFHWWs?oc=5"
         }
       ]
     },
@@ -390,22 +438,10 @@
       ]
     },
     {
-      "id": "8c2e25558cd0",
-      "title": "Pirarucus sobem juntos\npara respirar, revela estudo - Portal iG",
-      "published": "2026-10-21T15:33:00+00:00",
-      "summary": "Pirarucus sobem juntos para respirar, revela estudo&nbsp;&nbsp;Portal iG",
-      "sources": [
-        {
-          "name": "Portal iG",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSTVqMGcyZTFDdVQ2RmF3Q1JHeFI4UDNRZ3llaE9zSk5YNkdGaUxpLTRHUHVtRTVsdjhpX3llbV96Ul8wV0FHNF9FcnUzamF3VHBCVkJTeEFxcjBQVzY4ZXlTd3V0eFgzQjg5OV9CUm5MQ3BRLTRyZTRXQ2J5WDNCY1AwMEplZkF2NmZFRFVOSFZHMlhpaFJuTGtEZ0hkdG9nTnhoUkFYRGI3NHFxaXhabWpQbEh3bFJVOGRpWm5Yc29ma1R6dXByTEY1Zi1ucDTSAdQBQVVfeXFMT3gzZkFuQ2FHU2ctM0J1RDhGQ2dqNzFGZWVEczRUUUx0QnFDNFRqUlpxS18zTWVVLUdiajVwb3RhYUZwSkxQaTF1U0JQdVl0aXhBQkxNM041UzFicjVLUFpIcUNVRUpweVRFWXZtSzY3NjRGR1pGLXZUWVdfS1dsM3RWRjBrRmZ5NW1ta19TY0dfa0hkempCRDEzUzZNZHpRTUhCWnltYlduQ19RZTRqNVBLTWZtRWpfbEowNVZRSlBIeGcxd0ZyMDU0MHk1ZVFpWW9KY1Y?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9dcc05115502",
       "title": "Mulher sofre falência hepática, paradas cardíacas e danos cerebrais após usar suplemento viral do TikTok - Hugo Gloss",
       "published": "2026-10-21T15:24:07+00:00",
-      "summary": "Mulher sofre falência hepática, paradas cardíacas e danos cerebrais após usar suplemento viral do TikTok&nbsp;&nbsp;Hugo GlossBritânica passa por transplante de fígado após usar ashwagandha; Anvisa alerta sobre proibição de erva no Brasil&nbsp;&nbsp;G1Ashwagandha: 'suplemento do TikTok' NÃO tem registro no Brasil&nbsp;&nbsp;www.gov.brAnvisa: suplemento alimentar ashwagandha não tem registro no Brasil | Radioagência Nacional&nbsp;&nbsp;Agência BrasilMulher tem falência hepática, três paradas card",
+      "summary": "Mulher sofre falência hepática, paradas cardíacas e danos cerebrais após usar suplemento viral do TikTok&nbsp;&nbsp;Hugo GlossAshwagandha: 'suplemento do TikTok' NÃO tem registro no Brasil&nbsp;&nbsp;www.gov.brPor que um suplemento indiano que virou febre no TikTok se tornou alvo da Anvisa&nbsp;&nbsp;VEJABritânica passa por transplante de fígado após usar ashwagandha; Anvisa alerta sobre proibição de erva no Brasil&nbsp;&nbsp;G1Anvisa: suplemento alimentar ashwagandha não tem registro no Brasil ",
       "sources": [
         {
           "name": "Hugo Gloss",
@@ -414,58 +450,10 @@
       ]
     },
     {
-      "id": "7666089de588",
-      "title": "Mulher mais poderosa do agro da Bahia eleita pela Forbes é pesquisadora e se dedica à valorização do cacau fino há 24 anos - Jornal Correio",
-      "published": "2026-10-21T14:27:39+00:00",
-      "summary": "Mulher mais poderosa do agro da Bahia eleita pela Forbes é pesquisadora e se dedica à valorização do cacau fino há 24 anos&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTTR0Q2diRDNpWWc1aEJkTzB4RmQ0bjJvMFpHcnN5NkFvQ2hOT2VqTFZ3bVFLbU80WjNWMjh5MEpGaTYzSV9FRkpFZzRIOHVkQlRtWkVZZU56NzBBN3pJZElXTm94N2VYZ2ZLN3ZnbzVmdkJIcno5aXktTERiRnY2V3hPeWFCYm1tSDBWSlB4Q1Q3M1NNYXFEYW1lOTZkSzZSSU9Bald3N0pyNUhfcTQtX1o1MWdVdUdtMUhDZm1PcHFNOTNCcTRWdWZwSmczSFNlNUd6VzdFaE5GVnNIVzlUR0F3VXFjTGdjRmRxQzBrcFJJckdsSWF0MzIxLWhLOWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9fb854eb4a46",
-      "title": "Primatas peçonhentos considerados extintos há quase um século são resgatados na Indonésia - VEJA",
-      "published": "2026-10-21T14:10:47+00:00",
-      "summary": "Primatas peçonhentos considerados extintos há quase um século são resgatados na Indonésia&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSVh6VGtydU9OX2cwNm5Rb296Wk5DQVZNOEJrUWtvQ1otcnNwa0lOTlJXQklVVHZoS2FFSnViS1U1SDYzTnVKb3A0R1hUcWJpSUpqOExFNDJ3cE5ISVBTYko1Mm9aZnFJNVBMVDcxTmxja1dDWkxFMmx5VVpjdTJ1dTZ5cEpQYkJUSEdvRU5aSVFYcGpyOGIzOEFoaVBzUDVCZUlwOTVvU0tOY2I2S2JTbUkxX0hhSUdFTlNUV1FfYU1kZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c502e98d6d0",
-      "title": "8 avanços da saúde que partiram da ciência básica - 21/10/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
-      "published": "2026-10-21T13:29:00+00:00",
-      "summary": "8 avanços da saúde que partiram da ciência básica - 21/10/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVFBUDZWUFd3Ui14cG56dWlmazFzV0RWNmR6SklaRGtCRW10R3doWVgyVjBYUTZhSi14WU82MnhWeXlQZzBnZWgxRjhjTHJVeHdVTlk1Mlc1ZGNCazkwQW9CQU9qV3dLX0VobVNuQ2o3QTVqSDFoXy1MTlp3YjktVlhZSzNtcndpZzM3Y0otMWZUUTRDREFNcDU2clFjNXFINFg5am1oNE1LLV8yY1VB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dcfe2f578758",
-      "title": "Paula Gama: Por que taxistas estão entre profissionais com menos mortes por Alzheimer - UOL",
-      "published": "2026-10-21T12:30:00+00:00",
-      "summary": "Paula Gama: Por que taxistas estão entre profissionais com menos mortes por Alzheimer&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVERIUWVZdHZqM19meFlqUXFQVXEtRUwtTXFZYzNEMEtFTnloc3R4TWtpWk5ia3V1UHN5SDV2Vm9rOGpSUkt6SkY1dGlDNXVlenJPNWU1M3hDd0VVWWNCTVRxTHQzODNLSWw4UUNqRU1fQUtFYTlsUEN0ZVB1eUZpa1M2YTh3YmRQM2ZIS3pTUElqUDBIR2R1Nmhnd3VQQjRQUy1hRkZKSW1WS2NuMEU5RGlEU1JtNDNzenNFSVF5ODYxdDFGVklfX3A5ZzkxYlVyTmY4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "50840a9fd038",
       "title": "John Cryan, neurobiologista: \"Temos evidências de que o café, seja com cafeína ou descafeinado, altera a microbiota e melhora a saúde mental e cognitiva\" - National Geographic Portugal",
       "published": "2026-10-21T06:30:00+00:00",
-      "summary": "John Cryan, neurobiologista: \"Temos evidências de que o café, seja com cafeína ou descafeinado, altera a microbiota e melhora a saúde mental e cognitiva\"&nbsp;&nbsp;National Geographic PortugalVocê toma café todos os dias para espantar o sono, mas percebeu que a bebida já não faz o mesmo efeito de antes? Especialistas têm uma explicação&nbsp;&nbsp;Tribuna de MinasUm novo estudo mostra que beber café pela manhã pode ajudar na saúde intestinal&nbsp;&nbsp;Rádio ItatiaiaConsumo de café e proteção he",
+      "summary": "John Cryan, neurobiologista: \"Temos evidências de que o café, seja com cafeína ou descafeinado, altera a microbiota e melhora a saúde mental e cognitiva\"&nbsp;&nbsp;National Geographic PortugalConsumo moderado de café pode fazer parte de uma alimentação favorável ao coração&nbsp;&nbsp;TerraVocê toma café todos os dias para espantar o sono, mas percebeu que a bebida já não faz o mesmo efeito de antes? Especialistas têm uma explicação&nbsp;&nbsp;Tribuna de MinasNutricionistas explicam como esta be",
       "sources": [
         {
           "name": "National Geographic Portugal",
@@ -477,11 +465,35 @@
       "id": "24d3432994f2",
       "title": "Idosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo - Agência FAPESP",
       "published": "2026-10-21T03:03:33+00:00",
-      "summary": "Idosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo&nbsp;&nbsp;Agência FAPESPVida social ativa pode ajudar a preservar memória durante o envelhecimento&nbsp;&nbsp;Correio BrazilienseEstudo mostra que memória e capacidade física podem melhorar com a idade&nbsp;&nbsp;Gazeta do Povo4 hábitos simples que fortalecem a memória com o passar dos anos&nbsp;&nbsp;Tua SaúdeEstimulação cognitiva contribui para o envelhecimento saudável&nbsp;&nbsp;niddedigital.co",
+      "summary": "Idosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo&nbsp;&nbsp;Agência FAPESPProjeto da USP promove saúde mental de idosos com oficinas em Cravinhos&nbsp;&nbsp;Jornal da USPVida social ativa pode ajudar a preservar memória durante o envelhecimento&nbsp;&nbsp;Correio BrazilienseEstudo mostra que memória e capacidade física podem melhorar com a idade&nbsp;&nbsp;Gazeta do PovoEstimulação cognitiva contribui para o envelhecimento saudável&nbsp;&nbsp;nidd",
       "sources": [
         {
           "name": "Agência FAPESP",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZUxJVVh6WmNoS1lqazliZ2VCWUt0WUV5OVRuOFJUNHJsaVAwbWVmdHh5OGw3QV9RR01fLTZfTTZ4Y2ZmWlY3NFlBN2k5VEd0VDlSVFFpVF9pMUVBUXp5TnZJbGhwTkhqTDg3WW9id3A3WXh4bWVLdmRzN09SNHl3R3JJWVFHZVZ5NE4yZnNoTDNyenp2RHRkR25VcjVDWUJNd3ZIa2FfLVpCMDhxdTNpZmk5OUlDZnNvOFRJYWgydEVRblpjM29r?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a0ff7a620dc8",
+      "title": "Após diagnóstico de síndrome ligada ao câncer, Isabel Teixeira optou pela retirada preventiva das mamas - G1",
+      "published": "2026-10-21T03:00:00+00:00",
+      "summary": "Após diagnóstico de síndrome ligada ao câncer, Isabel Teixeira optou pela retirada preventiva das mamas&nbsp;&nbsp;G1'Tive câncer aos 6 anos, aos 7 e novamente aos 12': a história de uma paciente com síndrome genética rara&nbsp;&nbsp;G1Isabel Teixeira, de ‘Quem Ama Cuida’, retira mamas após diagnóstico de condição hereditária&nbsp;&nbsp;VEJASíndrome de Li-Fraumeni: entenda a condição genética que levou a atriz Isabel Teixeira à retirada das mamas&nbsp;&nbsp;Tribuna do NorteIsabel Teixeira retiro",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcmhwYVdRWVVEajRQNXVSSTBpU2pONkt5VFcySHpkS1c1WVg2NE9sdndZcXVjM2FkcXhQeTd4RnBsUGVkdjNWX2RaWWJlR1NENFRQSGF1MElPQ215NGE2dWpRRUxkcVNNdjZRZi1zOHhER3RsOUJvajFpYjBFaVhSSk1WLTg1Z29HdFVYeVdueHpyUy0zT2lqXzI0MlFpMjF6M0xkUy03TU10Y2EyZFhZeFFILUxJLXVteElRcWR3RU12anZ1b2FYVjdONFN4Y1kwVDZvTnl2WW1qbHp6SmJocDVWdWVISU55M2RGYmlDUG7SAf8BQVVfeXFMTWduSmZCS21GRVhQNmU0aFZhbE1Ieml6OVRPYk44Y1Z4NnVjWmlyclNuMDZSbERYRkFGcXBkNUh2ZzJveElCaGc3Z3hjcWJsRG1Bdk1UeDNrdjYyM09iS3RTa3QtUHBRZUFiaVVfbnB2aVg5Rk5TbFJFdkFCVUhXbEJnVm5oOFVuTkhzc3dZMXJ0U0lfM25XY09UYXBabDI0QnJ4NFhja2RJV2hvak0zVnVpNGI2b2ZMRDJKTkJBeW0tMWVuZktTcEo3dWFWSFlKdldZT0dVMXJoNk9XbEpsMmFoUDdLRGxNaHVOUlVNd0RZUUliaWZNTmlOUXljalc4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d504e3367467",
+      "title": "Banana, de manhã é ouro, de tarde é prata e de noite mata: nutricionista esclarece o que tem de verdade no ditado - Minha Vida Saúde",
+      "published": "2026-10-20T15:41:19+00:00",
+      "summary": "Banana, de manhã é ouro, de tarde é prata e de noite mata: nutricionista esclarece o que tem de verdade no ditado&nbsp;&nbsp;Minha Vida SaúdeVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkR2RxVVdRQloyZXY5aXF3enVVQk8tMmRQSFFMeVU0YmlnMHlXRndoQTd1elQyRzdNOXp6czY1YWxtU2Y0VG1JdTF6dU5URHg3Z0E3SHNlTzNfNHpBeDYwddIBZkFVX3lxTFBmR1FsWDhra1A3NS1FODZRLXBnSjBRSEFETWk1TllLUVFrTGtpNzE4SG5KT2d1dFFrVHU5R3ZNMlNLQmhabmxnNHZCZGIxdGFKZnRwdkZURlRDalFtSGhZS09zU3hDdw?oc=5"
         }
       ]
     },
@@ -498,14 +510,14 @@
       ]
     },
     {
-      "id": "67aed3b394e3",
+      "id": "570f12a31c93",
       "title": "5 sintomas gastrointestinais que você nunca deve ignorar - O GLOBO",
       "published": "2026-10-19T07:30:00+00:00",
       "summary": "5 sintomas gastrointestinais que você nunca deve ignorar&nbsp;&nbsp;O GLOBODiarreia contínua: o sinal de alerta que muitos ignoram&nbsp;&nbsp;Правда.Ру",
       "sources": [
         {
           "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjlkZk5RNlBobV9lREtudTNMZWFkbTNGRTl0aXEzNTdxam5NdGJvby1YX0ctMXlCa3hkeWYydkFyTmtiQ0dzajVlcmYwSTRqSzdNT2dDZERyRkUzMEtES3NNbGRfNlMyNmZSQnN0MWRkRnZaSDF5SU1hYVd5Znh6OTFBS2xzWjRyakhybkc0ZkRPcFlyT1VWd0ZqNlg2SjNrdmpOV3dSZjl4Z3JpalRlSGpR0gHAAUFVX3lxTFB4R0JUUzRZRmNJZ1hyeG5EdE8zMnR4VlpINjJDajZhaTBqSWtGY1d2MWpJWkphMXlFbEMxWllOVk1MMnN4RGh0eXlxZDJSRlZmSVFnYjVJbGIyRWoxSzB3NEIycFJMb3VCSWZRd2FMV3p6enp2VktxWThIY210SlU1elJjMmNQWDY0NHFBNlBOQUxJcHBXRURybTIwelB1WGZCZFFTV3h3c0FDcl9pMnliWWZfbDJpeHQzMnU3d2pKZg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjlkZk5RNlBobV9lREtudTNMZWFkbTNGRTl0aXEzNTdxam5NdGJvby1YX0ctMXlCa3hkeWYydkFyTmtiQ0dzajVlcmYwSTRqSzdNT2dDZERyRkUzMEtES3NNbGRfNlMyNmZSQnN0MWRkRnZaSDF5SU1hYVd5Znh6OTFBS2xzWjRyakhybkc0ZkRPcFlyT1VWd0ZqNlg2SjNrdmpOV3dSZjl4Z3JpalRlSGpR?oc=5"
         }
       ]
     },
