@@ -1,7 +1,74 @@
 {
-  "generated": "2026-10-22T21:17:29.975274+00:00",
-  "count": 1,
+  "generated": "2026-10-23T03:49:14.021965+00:00",
+  "count": 2,
   "news": [
+    {
+      "id": "7939198f11ab",
+      "title": "Rio está entre capitais com alta de casos graves respiratórios - O Dia",
+      "published": "2026-10-22T21:04:28+00:00",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeDAtREx0VS03b3VPX1paTUhacEF1SlFOUDI3RmxnMC1RYVNDLWdmN0tlcnNRWFBUN2NBN1FYUGYxaFRBMVhKbGpaTXBKYjNoSm9rQXY2QnVPNVpDdkd1Y1d2R1Rab3dqZ2RDaUlacmdOVjBVNTh1YUpoS29SMWJEdUtvWTlLNlFMSGZRZ1RIYkZQR1A2TDI1SzIzR1pMcjVqbHNPVEdmLU9SdldUV05YdVAyTmtxQlBfUEw0SDVB0gHDAUFVX3lxTE45Vm1UdndINHFmekVPVGNYcHJXalpHd0l1Nm5oT01PdC01d2tfaTJsRmJwUWY4LWVxQmVEQkk1Ti1nV0VCaXlOYVNTSGVJY2FGNE1KRURZeW9JenZVM1NIZ2kwUVNPNzE3Uk50a1NEUzY1RXdsbzd5NWdCY0FpVGJiUEVZNXBiTE9Ed0NLUDNEVFpJc19DejlZZ1lUZUViQ0t5dzd3RC1TU2dBcFlxdWV1S2RDNmNkVGpPWmwzbjRxMHRtSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "pneumonia",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir",
+              "url": "/drugs/ganciclovir/"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol",
+              "url": "/drugs/clobutinol/"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam",
+              "url": "/drugs/tazobactam/"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir",
+              "url": "/drugs/oseltamivir/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "infecção pulmonar",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir",
+              "url": "/drugs/ganciclovir/"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol",
+              "url": "/drugs/clobutinol/"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam",
+              "url": "/drugs/tazobactam/"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir",
+              "url": "/drugs/oseltamivir/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d39a30dcb78b",
       "title": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite - CNN Brasil",

@@ -1,19 +1,31 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-22T21:17:27.775540+00:00",
-  "total_fetched": 105,
-  "unique_count": 104,
-  "health_related_count": 47,
+  "fetched_at": "2026-10-23T03:49:12.121016+00:00",
+  "total_fetched": 99,
+  "unique_count": 99,
+  "health_related_count": 44,
   "news": [
     {
-      "id": "afe5d2a080fd",
-      "title": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam - G1",
-      "published": "2026-10-22T19:39:07+00:00",
-      "summary": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Cuiabá mantém vacina contra sarampo nas 72 USFs, com 33 unidades abertas no horário de almoço&nbsp;&nbsp;Prefeitura de CuiabáNegacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil&nbsp;&nbsp;Agência BrasilSarampo: vacinação abaixo da meta acende alerta em MS&nbsp;&nbsp;Campo Grande NewsSES reforça vacinação contra o sarampo e intensifica ações em Mato Grosso do Sul&nbsp;&n",
+      "id": "7939198f11ab",
+      "title": "Rio está entre capitais com alta de casos graves respiratórios - O Dia",
+      "published": "2026-10-22T21:04:28+00:00",
+      "summary": "Rio está entre capitais com alta de casos graves respiratórios&nbsp;&nbsp;O DiaSergipe continua com nível de alerta para casos de SRAG, aponta Fiocruz&nbsp;&nbsp;G1Casos de gripe e resfriado podem evoluir para pneumonia e preocupam médicos&nbsp;&nbsp;R7SRAG em MS: Estado está em alerta, mas sem alta em longo prazo&nbsp;&nbsp;Campo Grande NewsSergipe está entre os três estados com aumento de casos graves de doenças respiratórias&nbsp;&nbsp;A8 Sergipe",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaWZhanJoQWl2U3NVMnREenJ4M2psR3U2UEstX1YyQUlwR1VTendJTDhTcllmZjc5aTJWU042bUN0Qm1lN0VlT3dQNVE0eW5QdW1EeS0zb3cwN1ducFdHZThaVmlJLWtQU29rOWVwTU1sWUhESi05YUhwZXFQVnU2VjJPU3g5bi1VallCOWxodjlyeDBpdHBWLVlleXVaQ1NKaE41VS1EdWdPUkxDcGc2RVJFeXc4MmFxbEJPaWc2cFpQZ0pDU2NYV1ktTzFSeV8zRDlyYkhyUEZiWUd2OS1QZtIB7wFBVV95cUxNU1gtQ2NpVjRSTjl3ZTBpWHJwWlg3dWNNVGNzNDc0MWQ0aVN4SDB0UlgyME12bkZsWVNDMHF2cnRWLThJQmYtdHVvSDg0Nm8wUVZ6S3lDMDlZRmNwbDVCNWJfdnlZOV9Vbm1PRjVnMTNFaVMwTzRvNUozRGNJYWp2R3VSOXAzSDlxbW50YlJKcUtSNEl0UkkzZldvNTc0aWJhMkVvaEJ5RzVKbFhSUzZVUktrTWlhNTJjblJGRHdIWnFWYjJuOFowR1RXeHRDdHBreVlQbDVOYnZMM0Y5QWV4U2NuSGhHWS1FUjRiSWRpVQ?oc=5"
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeDAtREx0VS03b3VPX1paTUhacEF1SlFOUDI3RmxnMC1RYVNDLWdmN0tlcnNRWFBUN2NBN1FYUGYxaFRBMVhKbGpaTXBKYjNoSm9rQXY2QnVPNVpDdkd1Y1d2R1Rab3dqZ2RDaUlacmdOVjBVNTh1YUpoS29SMWJEdUtvWTlLNlFMSGZRZ1RIYkZQR1A2TDI1SzIzR1pMcjVqbHNPVEdmLU9SdldUV05YdVAyTmtxQlBfUEw0SDVB0gHDAUFVX3lxTE45Vm1UdndINHFmekVPVGNYcHJXalpHd0l1Nm5oT01PdC01d2tfaTJsRmJwUWY4LWVxQmVEQkk1Ti1nV0VCaXlOYVNTSGVJY2FGNE1KRURZeW9JenZVM1NIZ2kwUVNPNzE3Uk50a1NEUzY1RXdsbzd5NWdCY0FpVGJiUEVZNXBiTE9Ed0NLUDNEVFpJc19DejlZZ1lUZUViQ0t5dzd3RC1TU2dBcFlxdWV1S2RDNmNkVGpPWmwzbjRxMHRtSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ffde1041a96",
+      "title": "UFS tem sete pesquisadores entre os cientistas mais influentes do mundo - Portal UFS",
+      "published": "2026-10-22T19:15:15+00:00",
+      "summary": "UFS tem sete pesquisadores entre os cientistas mais influentes do mundo&nbsp;&nbsp;Portal UFS",
+      "sources": [
+        {
+          "name": "Portal UFS",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTg3d3dnQUJiQnZSMTFsaDhDWFZVNnBoUi1XQXUyeWJtdk91ZnhZeGdLMmdzQjczS3dRT1R1R2VEZnlYLUJOQ2lBdlZHRnFCZWxyVnozdFV3UWl6NDlxRml3U0YxUE01M0RIYTZfTmZmY3d3Y1NFN1ZoZjFROV8xSmEyc3NZZTNmMUZUS2x0MVlvd1l0c2Z1X0doYmxSWU4wSzJlMERlZw?oc=5"
         }
       ]
     },
@@ -38,18 +50,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGhqSktMWkYtSXBvOWlJaTVYcVA1bDc0aW9VNlNUb0g3R1hMOUdjdHFYWjBCR1JpX0k4eEwtYTFkc25LTkozMi1NTkVSbnlYUjlHbHZmTHJReVpRa2k4Mi11djNqVEViOWJYQmFIajJVamRUMEpMbF9ibHJSaUZEdGVmYzJsTjV0ZlEwRjFMeldjeF81QVd2VjZ0aVhpY09SQ0pQanNNREo2UFY0SmVOd1J2aHRiWFk2TGd0TmZxZThxcDNaU0J6WklpdWxyTVF4MWpDbXJxWXV4aEZsS1dBRmRR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "821b8bfa5a8a",
-      "title": "Anvisa registra 9 mortes em uso compassivo de polilaminina e impõe restrições; pesquisadora questiona - G1",
-      "published": "2026-10-22T17:22:38+00:00",
-      "summary": "Anvisa registra 9 mortes em uso compassivo de polilaminina e impõe restrições; pesquisadora questiona&nbsp;&nbsp;G1Tatiana Sampaio critica regras da Anvisa no uso compassivo da polilaminina&nbsp;&nbsp;MetrópolesAnvisa rebate Tatiana Sampaio sobre restrição à polilaminina e cita falta de dados&nbsp;&nbsp;Rádio ItatiaiaTatiana Sampaio: \"Anvisa restringiu o uso da polilaminina e muita gente ficou sem tratamento\"&nbsp;&nbsp;A TARDESociedades científicas defendem cautela e rigor no debate sobre polil",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZFFWWFBfYlFBbHQwWFNrOGltZXR6NHE1TlhYVVN2MnNnTGk1ZGw1NzFXRnB4Y1FnTE5KUnV5UktSS2J5aEJDLTlGalB0dzFoYzFCTmFwc3FJT3dSRjJjMGFUTUhoYURLNU9SWG1nV0lKT241TzdTZ3JqRDE1WU1obUIxWUJKU2VkZFVJakdCZV9YR3czNUZPSEVhUUhDWlRvZ0l0akFKci1kc1h1LWlkV3dZaW13Z3c5cXRyTXRGX2lBWm15c0swLW1pT3dyOEZPZDhpUUkyMG51WGRCTC1zNWlJaUY2MWxWbm96eG9OLVFRQTY5ZlRLYjhR0gGIAkFVX3lxTE5veVpnWVpwcWROc3VGdlpuN2hBUnIyZmRlNzMwU19yU25wWi1fSU4zZ0RPRGdzcVJVQXh0UG5XVFREMnByLTluMzNCTEdnU2VFdWttRjJYQjE0OGxZd0wtV29xNEFRLUk3TkVlMnJQUUdKVWFINTBRTk93UEkwQ0ZVR0NXOERwa3puR1hQNlNXRUdGSEduS1lmaHF2QzNYaVh1cXJSWUxXQzdmYWp1SzVyOXhHdWVoRExMY0RWSmh3X1RuUDVHYjk5ZEdjOE1kMUotNWJEa0xVTlltM3N0ajBxQnlmc2Y0eVQyT1ZWbFl2WlVad2lodWF2amRMTTh3QUtQVTZpRDZVWA?oc=5"
         }
       ]
     },
@@ -153,7 +153,7 @@
       "id": "000d6b36a78f",
       "title": "Anvisa aprova novo medicamento para câncer de pulmão avançado - Agência Brasil",
       "published": "2026-10-22T12:48:00+00:00",
-      "summary": "Anvisa aprova novo medicamento para câncer de pulmão avançado&nbsp;&nbsp;Agência BrasilAnvisa aprova 'bomba inteligente' contra câncer de pulmão avançado&nbsp;&nbsp;UOL NotíciasAnvisa aprova novo medicamento para câncer de pulmão avançado; Brasil é o 2º país a liberar terapia&nbsp;&nbsp;G1Anvisa aprova medicamentos para tratamentos contra câncer de pulmão e de mama&nbsp;&nbsp;Hoje em DiaRemédio aprovado pela Anvisa para câncer de pulmão teve resposta em 35% dos pacientes; RS integra estudo de fa",
+      "summary": "Anvisa aprova novo medicamento para câncer de pulmão avançado&nbsp;&nbsp;Agência BrasilAnvisa aprova novo medicamento para câncer de pulmão avançado; Brasil é o 2º país a liberar terapia&nbsp;&nbsp;G1Anvisa aprova 'bomba inteligente' contra câncer de pulmão avançado&nbsp;&nbsp;UOL NotíciasAnvisa aprova medicamentos para tratamentos contra câncer de pulmão e de mama&nbsp;&nbsp;Hoje em DiaRemédio aprovado pela Anvisa para câncer de pulmão teve resposta em 35% dos pacientes; RS integra estudo de fa",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -162,22 +162,10 @@
       ]
     },
     {
-      "id": "b0ef8ca5ef16",
-      "title": "Estudo mostra que 10 tipos de dietas saudáveis desaceleram idade biológica - UOL",
-      "published": "2026-10-22T08:30:00+00:00",
-      "summary": "Estudo mostra que 10 tipos de dietas saudáveis desaceleram idade biológica&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZkp6VVNmQnJtV0ZLWk9BNFd1Qm9wT2VjUlRac1FmQXk5aVFvTFVGRDhRdzQtdjhNRFljaVQ2U0p2VC1uZXFYRHNaTDN4NVJDOEZWS1NaV3pKWWlqSk1xU0h2dmJkb19DZmk5RVhDbW1kbHJIdVc3VXBOckQ4cXAtNWU5X09KNVBpNE9QMFBNdUxZWmljNU9LcDRnaUhVUWlpMXFvQjhaWUNtdXZ4cEQyTDRiUW1QN2laRkdWbjlwUzVsT0M2VHRlbEhtbWFRQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "edcdf24c2b0c",
       "title": "Exame de sangue para identificar Alzheimer chega ao Brasil: é confiável? Para quem é indicado? - Estadão",
       "published": "2026-10-22T08:30:00+00:00",
-      "summary": "Exame de sangue para identificar Alzheimer chega ao Brasil: é confiável? Para quem é indicado?&nbsp;&nbsp;EstadãoEntenda novo teste que ajuda a investigar Alzheimer&nbsp;&nbsp;G1Pesquisa que estuda diagnóstico de Alzheimer a partir do sangue busca voluntários no sul do Estado&nbsp;&nbsp;GZHRS tem primeiro exame de sangue para detectar Alzheimer aprovado pela anvisa&nbsp;&nbsp;Jornal do ComércioChega ao Brasil primeiro exame de sangue aprovado pela Anvisa para detectar Alzheimer #JR24H #Shorts&nb",
+      "summary": "Exame de sangue para identificar Alzheimer chega ao Brasil: é confiável? Para quem é indicado?&nbsp;&nbsp;EstadãoEntenda novo teste que ajuda a investigar Alzheimer&nbsp;&nbsp;G1Pesquisa que estuda diagnóstico de Alzheimer a partir do sangue busca voluntários no sul do Estado&nbsp;&nbsp;GZHRS tem primeiro exame de sangue para detectar Alzheimer aprovado pela anvisa&nbsp;&nbsp;Jornal do ComércioPrimeiro exame de sangue para Alzheimer chega ao Brasil; veja preço e quem pode fazer&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "Estadão",
@@ -198,10 +186,46 @@
       ]
     },
     {
+      "id": "2573bc369dd8",
+      "title": "No AC, marido doa rim para esposa que faz tratamento contra doença crônica: 'Para a gente se completar' - G1",
+      "published": "2026-10-22T08:01:22+00:00",
+      "summary": "No AC, marido doa rim para esposa que faz tratamento contra doença crônica: 'Para a gente se completar'&nbsp;&nbsp;G1Acre registra segundo transplante com doação em vida realizado pela Fundhacre em 2026&nbsp;&nbsp;o rio brancoMarido doa rim à esposa em transplante realizado no Acre após 11 anos sem o procedimento no Estado&nbsp;&nbsp;NOTíCIAS DA HORAMarido doa rim para esposa em segundo transplante intervivos do ano no Acre&nbsp;&nbsp;A Gazeta do AcreFundação Hospitalar faz segundo transplante d",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU2FYQ3A3eXVhN3IzdWlPYWdxVnNzTXpzYkxUNjR2VmJUYzhCc2g1aVBLbkxmUkdDVFUtV3JoMFUxT1o4WlBPNU1ZLWhEZXljVkRpcVczb3RRU183a0ZaYjNGdzFOcHZ5TnBIZFVmbnZIeXk4WnVCQW0tSU9CdDU1SmJ4ajFINjlDOGxRQ0tFUzctM3ZOSEtnSUMtdWc5Wm9GOWJyR3Bjc2FyWFJBSG9mbDQ2Sk5sMkJiR2hjLS1DYVRBeldrNTctMVdVaFpzcUYtcFFJZ2dCeHNFWXR5dW1QNGVzQdIB8gFBVV95cUxOVkxMTXFrNmVNVE9sNjRyRG9qTHJsaFBfa3J0R0oxMnRJTUxBS3pQRHl5SHhkc1poa3NZbVFsMDktcy1qUHpZV0lYakEzQm9OLVJmVDFIbmREVnJhcUpQNHhxeTlDLWhjOFR5dTVJdF9odlpUenU2ckVRRlplTVpNY3pLeHhGM0ZEam95STFsTHc0LTF4WDlYTWxwYkJ1alFXcUJ5d3BRYXd1ZnVHY1VqZVBXNlgwNjd6dmNGb056ZVJBMWNPMVFPSHFsTzd1ODZKVksxTDVweXJLVHJoQ05USnota1ZVa19NQVBaSWEyXzVadw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5dd224b4beb8",
+      "title": "Previsão de Riscos Geo-Hidrológicos para os dias 22 a 25/10/2026 - www.gov.br",
+      "published": "2026-10-22T07:35:23+00:00",
+      "summary": "Previsão de Riscos Geo-Hidrológicos para os dias 22 a 25/10/2026&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTTVrZUM1YzgxS01oc21Ec0tUTFFCVS1XMUtWNlRoVkVDTXpsS0FJcEdOWWpaRHpFX25GSFBTRkhmX1A3dk1BTlM4eUR5V08yRXd0TW5leEdOaHBvVWw3bnNhQVE4cGZ4UFEzelJlWlJKV2RCb2QtemtjZVg0SV9aUnBoaHNMQjhQWDlRTGVxWHpSb2pFZUUzZzVTNXpPTl90b2ZuTWVqMDNsdHZTSnp1MTB1Rkh1TEtPVHUzWHFwOHUwUlF1TWNsNlBIN3Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8bd5f6d57646",
+      "title": "Não é só fome: orangotangos preferem alimentos associados a sons de risadas, aponta estudo - O GLOBO",
+      "published": "2026-10-22T06:00:00+00:00",
+      "summary": "Não é só fome: orangotangos preferem alimentos associados a sons de risadas, aponta estudo&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSmJDVnZCU21lNk81UXFLTlZKakZrOG8tTnFOQjBlTW1JX1M2UjhNaF9PemRXOVk2cnFTQW9VQlNNemFXN2psQ3RFenM3d0lpSXpkOENFbDVUMnhNZ3J2bjdxSmkwMFpVc1pPV1J2VVNPcnpXeUpqWVJkRmRUQUo3V1BaTEpsaVEzOG4zZjdKaWFxbXEtUnlJdFY0UFQ4NTNSZlR1dUI5QTBoNmVYSVV4M0JleUpMd1MzbjlCTDVJaUdlQXhLcV8tYmc0V2FUWDdmM1FnVHRzMF9NM18zZmZpQ181Tl95Q01uMldsTkFCQ3dzZ9IBgAJBVV95cUxNYm9vYm9YTkxnWkdwNmZtNHRQb0llWUVDaGVmTXFjMlZqU1NnLWI5bWI5cV80S2RwdVB0d3JuWlh3Z25MaU4tSk4wcHQ4RzVOZ2M2QkRZdl9kX1RSNUhyZWlnNFZCaEFjSzFmQ0FFd3NNZnVRcWNjOVIzY291Wlo4SjQ0VHhtN05nSGVNYnZiU1ZOQnhmeF9qUnZNQWtCdENBQ3c3Y0hRN0pVcFljUGdsUXlWMU5LbG8xT25SWEhEU2dGUFZhQm1hNE1Ib0ZlSF9GMWtKdnhaSHotdzBQeXRweUU3ZW1aaWVTdVk0ZEtzOUFwR3lVQlk2Rm0zRnhHdjh4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "59aadf8a8f47",
       "title": "Mounjaro e Ozempic: os efeitos inesperados que estão chamando a atenção dos médicos - Portal Mie",
       "published": "2026-10-22T05:52:57+00:00",
-      "summary": "Mounjaro e Ozempic: os efeitos inesperados que estão chamando a atenção dos médicos&nbsp;&nbsp;Portal MieCanetas emagrecedoras podem agir no cérebro? GLP-1 são testados contra vício e depressão&nbsp;&nbsp;ExameOs efeitos secundários embaraçosos do Ozempic e Mounjaro que ninguém gosta de admitir&nbsp;&nbsp;NiT New in TownGLP-1: remédio para emagrecer pode reduzir compras e apostas impulsivas&nbsp;&nbsp;BNLDataSaiba por que canetas emagrecedoras são associadas a menor consumo de álcool&nbsp;&nbsp;",
+      "summary": "Mounjaro e Ozempic: os efeitos inesperados que estão chamando a atenção dos médicos&nbsp;&nbsp;Portal MieCanetas emagrecedoras: novo estudo revela que esses medicamentos reduzem as internações de pacientes com esquizofrenia&nbsp;&nbsp;O GLOBOGLP-1: remédio para emagrecer pode reduzir compras e apostas impulsivas&nbsp;&nbsp;BNLDataCanetas Emagrecedoras entram em teste para combate ao alcoolismo&nbsp;&nbsp;URB NewsSaiba por que canetas emagrecedoras são associadas a menor consumo de álcool&nbsp;&n",
       "sources": [
         {
           "name": "Portal Mie",
@@ -210,14 +234,14 @@
       ]
     },
     {
-      "id": "fee69a1e3f1a",
-      "title": "Câncer de mama aos 32 anos levou mulher a descobrir doença rara no coração e hipótese para a morte súbita da mãe - G1",
+      "id": "afe5d2a080fd",
+      "title": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam - G1",
       "published": "2026-10-22T05:00:00+00:00",
-      "summary": "Câncer de mama aos 32 anos levou mulher a descobrir doença rara no coração e hipótese para a morte súbita da mãe&nbsp;&nbsp;G1",
+      "summary": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Cuiabá mantém vacina contra sarampo nas 72 USFs, com 33 unidades abertas no horário de almoço&nbsp;&nbsp;Prefeitura de CuiabáNegacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil&nbsp;&nbsp;Agência BrasilNenhum estado atinge meta de vacinação contra Sarampo e surtos vizinhos ameaçam o Brasil&nbsp;&nbsp;RedeTV!Sarampo: vacinação abaixo da meta acende alerta em MS&nbsp;&nbs",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYkVWbEVqMW4yRG8xaUxvV1p3RFUyVDRRaDlPNGd4ZUhYOFJ0OGFNRVp6Z0ZzdGd3VV9OYkdkMjlQWjBaZUEzZzRNZkEwN2R1bUxMSi1jZm5fblZXdVpnN2hKa3NWOE5hTXJjUTFoTUhTV3BJZnhXQWFPX2pSQ2pfQ1dRd1o2TkY1b3lMc0EyNWRocWg1M19KTHdxdzktV1J0Q0s4aG9WSUZqSlpLZDZrWHZ3N1UtQXVpUm1GdnNuVlJrenBpdEx6bWhUYm5ZTF9tUjVJTmRXYjY5bUxkd2U4VzJVVlpHQ1VPeF9ZZUVjLV9UeWxpd2Jn0gGGAkFVX3lxTE4zUmxnbnhuQ1REYnkzMW1NY2l4NFFuU3RrSmdKQUdrQUJKNlNVRUNzMkNpU2p1RWJQZXFkTGZrOFRuUnRrdW8tVm9MMU1ONXQ4MlhIVjVkSnM5R3hhLXl4ZWJMdFRTbG5icEpaaVB0bGMzaWlJT2RwWE4zUjdHQXhpRE1NZmx1SFNzUmluYW0zcWI4eEpzdW9SR1JDWFNlOUdEV0xaMkI3NGxmTU9uQjJ1Z1RIRDFWVUt0bWtFN1JtazhEUkc5M3NwWkFkOVZyOWdHVmJmdTF4RXJSY2g5YjQwVkRicmFXUG81WjdWMnhtYkx0c180MFo0SjBraUdrNGp0QkdVVVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaWZhanJoQWl2U3NVMnREenJ4M2psR3U2UEstX1YyQUlwR1VTendJTDhTcllmZjc5aTJWU042bUN0Qm1lN0VlT3dQNVE0eW5QdW1EeS0zb3cwN1ducFdHZThaVmlJLWtQU29rOWVwTU1sWUhESi05YUhwZXFQVnU2VjJPU3g5bi1VallCOWxodjlyeDBpdHBWLVlleXVaQ1NKaE41VS1EdWdPUkxDcGc2RVJFeXc4MmFxbEJPaWc2cFpQZ0pDU2NYV1ktTzFSeV8zRDlyYkhyUEZiWUd2OS1QZtIB7wFBVV95cUxNU1gtQ2NpVjRSTjl3ZTBpWHJwWlg3dWNNVGNzNDc0MWQ0aVN4SDB0UlgyME12bkZsWVNDMHF2cnRWLThJQmYtdHVvSDg0Nm8wUVZ6S3lDMDlZRmNwbDVCNWJfdnlZOV9Vbm1PRjVnMTNFaVMwTzRvNUozRGNJYWp2R3VSOXAzSDlxbW50YlJKcUtSNEl0UkkzZldvNTc0aWJhMkVvaEJ5RzVKbFhSUzZVUktrTWlhNTJjblJGRHdIWnFWYjJuOFowR1RXeHRDdHBreVlQbDVOYnZMM0Y5QWV4U2NuSGhHWS1FUjRiSWRpVQ?oc=5"
         }
       ]
     },
@@ -246,6 +270,18 @@
       ]
     },
     {
+      "id": "1cfa913954e0",
+      "title": "4 minutos de exercícios por dia já melhoram mobilidade na velhice, diz estudo - Globo",
+      "published": "2026-10-21T21:11:37+00:00",
+      "summary": "4 minutos de exercícios por dia já melhoram mobilidade na velhice, diz estudo&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUzBSRXNlTWRrYTZ0b2gtYldsT2xrOENsRE81MUNheHFXNl9Rc0pIeDBBNE9JVnhPMHl1VEdzUVN4Q2VPZU9iNUQ2Ni15cUloWW1HTFdqMjNWYm1QYUpYOGtVdE1zY3ZsQndNS2dIQ0N5YmRra2dtWV83eWhVcjlOLWRuN3lSc0x3WU1rb3ppelpraGJ1TXRSMVlzYkFRVm1IWk5Yd1pwank0T0Zpb1k4cmhLcGVYRGc5S0pVbWUyaVJKN3J0cGNpckktaDZldUJYYk5Z0gHiAUFVX3lxTFBzVWwteVRGa2g2Sl91X3VveFp6NTJ5bGVOSk1DS3B0dGhwcTUxeWZGQ3NOeGY2OUEtd01sZ3hYNjhVVzdiVll6bzV1d200YjM3YUZ1b24xWG9TbmVNTE5uRmstMHQxTXM0NFVSS0d1VkhLRUJOZS1KdldreVZBSExEY2Zpcl83LVo3b2pQNHljbERIQlR3bDZ2QTFfUWJTU0JlTjR1SG1tY21nei1GU0tvUEJ6VnNOWllnTnlOVlNKMVJDbV9BRXEyOGFHbGYxbkJOYUplY1VjMGc4TVVQVjhMVWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "373a97310228",
       "title": "Como uma foto do rosto de uma pessoa pode ajudar a prever se ela sobreviverá ao tratamento contra o câncer - CNN Brasil",
       "published": "2026-10-21T20:35:44+00:00",
@@ -261,7 +297,7 @@
       "id": "bce126643360",
       "title": "Morte Lua Blanco: alimentação ruim está ligada ao câncer de intestino - CNN Brasil",
       "published": "2026-10-21T20:31:41+00:00",
-      "summary": "Morte Lua Blanco: alimentação ruim está ligada ao câncer de intestino&nbsp;&nbsp;CNN BrasilCâncer de intestino: sintomas que não devem ser ignorados&nbsp;&nbsp;Campo Grande NewsCâncer de intestino: entenda o papel da colonoscopia na identificação precoce da doença&nbsp;&nbsp;CartaCapitalO trágico luto por Lua Blanco: por que o câncer de intestino avança tanto entre os jovens?&nbsp;&nbsp;TerraCaso de Lua Blanco chama atenção para câncer de intestino, que deve ter 53 mil novos casos por ano no Bra",
+      "summary": "Morte Lua Blanco: alimentação ruim está ligada ao câncer de intestino&nbsp;&nbsp;CNN BrasilCâncer de intestino: entenda o papel da colonoscopia na identificação precoce da doença&nbsp;&nbsp;CartaCapitalCâncer de intestino: sintomas que não devem ser ignorados&nbsp;&nbsp;Campo Grande NewsO trágico luto por Lua Blanco: por que o câncer de intestino avança tanto entre os jovens?&nbsp;&nbsp;TerraMédico explica como identificar sintomas do câncer de intestino&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -294,30 +330,6 @@
       ]
     },
     {
-      "id": "f564f635066f",
-      "title": "AVC: conheça os sinais de alerta que exigem atendimento imediato - Jornal Correio",
-      "published": "2026-10-21T17:56:31+00:00",
-      "summary": "AVC: conheça os sinais de alerta que exigem atendimento imediato&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT3hKUWFNcVV4V1VmTTBac0E2eWNxMnBkeVl0NmdHNVkxYW1UN1VOaEpvQXdyNEJFYjNFbVBpX0tGUHZQOHZZSlItb3hRMzc0V1lmWm9TUFVTZUJUS3lWQWw1Rmg2Vk5rQXpxMS00Vm9hd2lEWm9QSEsyT2FfMlBNLW9Odi1JTjBhTWU2ZmNsQVIxV3NIT0c1WG10M25WWmVES2h4MHJIVTdqMTlr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6fc3545a39d4",
-      "title": "Semaglutida vai além do emagrecimento e protege coração, fígado e rins - Rádio Itatiaia",
-      "published": "2026-10-21T17:40:55+00:00",
-      "summary": "Semaglutida vai além do emagrecimento e protege coração, fígado e rins&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWQ1UEk0NU5tVER6clFabzdlSkJaWTFzN2xVemFwdzVNVGJkM09ZQU9FSjFadWdZNkFtY0p3VVV4SXpaTWdpRkZSbV9VYUhQQ1RzcU5UdEplYTZaTVc0N3pXNXRNbzd4V0F4NDFaTnZpaHMzbTd5dWZNZkhhdDhsMW0yaEctRHVFdzFvOXJoTndiMV9JMG52VlRodElxMHRaR3hPb3VYYWk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a2f2e68a190e",
       "title": "Igor Matias procura pistas do Alzheimer no corpo - National Geographic Portugal",
       "published": "2026-10-21T16:00:00+00:00",
@@ -345,7 +357,7 @@
       "id": "9dcc05115502",
       "title": "Mulher sofre falência hepática, paradas cardíacas e danos cerebrais após usar suplemento viral do TikTok - Hugo Gloss",
       "published": "2026-10-21T15:24:07+00:00",
-      "summary": "Mulher sofre falência hepática, paradas cardíacas e danos cerebrais após usar suplemento viral do TikTok&nbsp;&nbsp;Hugo GlossBritânica passa por transplante de fígado após usar ashwagandha; Anvisa alerta sobre proibição de erva no Brasil&nbsp;&nbsp;G1Ashwagandha: Anvisa alerta que suplemento do TikTok não tem registro&nbsp;&nbsp;Agência BrasilMulher tem falência hepática, três paradas cardíacas e danos cerebrais após usar suplemento viral do TikTok&nbsp;&nbsp;Estado de MinasAshwagandha: 'suplem",
+      "summary": "Mulher sofre falência hepática, paradas cardíacas e danos cerebrais após usar suplemento viral do TikTok&nbsp;&nbsp;Hugo GlossBritânica passa por transplante de fígado após usar ashwagandha; Anvisa alerta sobre proibição de erva no Brasil&nbsp;&nbsp;G1Ashwagandha: 'suplemento do TikTok' NÃO tem registro no Brasil&nbsp;&nbsp;www.gov.brAnvisa: suplemento alimentar ashwagandha não tem registro no Brasil | Radioagência Nacional&nbsp;&nbsp;Agência BrasilMulher tem falência hepática, três paradas card",
       "sources": [
         {
           "name": "Hugo Gloss",
@@ -414,18 +426,6 @@
       ]
     },
     {
-      "id": "60eeb1706645",
-      "title": "Rica em fibras e antioxidantes, fruta pode ajudar a controlar o colesterol e reduzir o risco de diabetes - Jornal Correio",
-      "published": "2026-10-21T08:30:00+00:00",
-      "summary": "Rica em fibras e antioxidantes, fruta pode ajudar a controlar o colesterol e reduzir o risco de diabetes&nbsp;&nbsp;Jornal CorreioEntenda o que a maçã oferece à saúde e confira o perfil das versões mais comuns&nbsp;&nbsp;EstadãoMaçã pode beneficiar saúde cardiometabólica e intestinal, diz pesquisa&nbsp;&nbsp;SuperinteressanteMaçã com casca ou sem? Saiba o que muda na saúde&nbsp;&nbsp;Correio do PovoUma maçã por dia mantém o médico longe? Entenda o ditado e conheça 7 benefícios da fruta&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZk1HNzRyajQzcmRRc1dkMUxUY29kM3FpcWl3UUlkZVlhZ0d4NENzQlIzNnFveFphWnE1YkF3ZHUydnUwNFZkZVpVcFRSRGRJT3FveDh3YVl6VllvaDJRRnJIbUN4bnMtcDlDVGlzaXNaWW9ZMjJaSWxyVFpzUm5FblF5X18wZFJaX3AxYXB2bEtKRUEwUE9ob1NpWTVIallCVTJEWE5PcEJqaUlFZzBFR0pxeVo4bFc4TGZCXzlRclBkZU5LdFBldW1BV0hVaUJtc19ZenV1Rnh5bnhWU1RTU2RB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c08b66578222",
       "title": "Novo estudo revela que a fome pode desempenhar um papel no vício em álcool - O GLOBO",
       "published": "2026-10-21T07:30:01+00:00",
@@ -438,14 +438,14 @@
       ]
     },
     {
-      "id": "259182a917e5",
-      "title": "O que muda na nova indicação para a vacina de meningite? Ferramenta mostra se você está com vacinação em dia - O GLOBO",
-      "published": "2026-10-21T07:30:00+00:00",
-      "summary": "O que muda na nova indicação para a vacina de meningite? Ferramenta mostra se você está com vacinação em dia&nbsp;&nbsp;O GLOBOVacinação contra a meningite é ampliada no Rio. Saiba quem pode se imunizar&nbsp;&nbsp;VEJA RIORio estende vacinação contra meningite bacteriana para pessoas que tenham até 59 anos&nbsp;&nbsp;Prefeitura da Cidade do Rio de JaneiroPrefeitura realiza vacinação com a Meningocócica ACWY para todos até 65 anos&nbsp;&nbsp;Portal da Prefeitura de UberlândiaRio amplia vacinação ",
+      "id": "182ca7fdc876",
+      "title": "Novo bovino pré-histórico de 250 mil anos atrás é descoberto na mesma caverna que escondia fósseis de primatas - CNN Brasil",
+      "published": "2026-10-21T07:24:54+00:00",
+      "summary": "Novo bovino pré-histórico de 250 mil anos atrás é descoberto na mesma caverna que escondia fósseis de primatas&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZGxwS1dSYmtDcnN5SGF5aDBnZmlPSkR5aEhuWUxHSlR5aFBlOG8zZEpWWVJzTDhqQl92WFdnSVZOblFqM0JtUW14QTU1UWdKVUFDeXRsMXJJams3bUJCSGc4TWNxREkwcklNUWUzV1dzcU9EODk2TFBtbXRtZWp2aE1tS05HVEJrV2hiUDNETmd3ekExTG9ReFBnRXRQSzRwZDRoLVYxS3JXcVpMakw3TXRqRzl3eURpN0ZSZTctRW51TTgzYXh6aEp5S2twenZ4OXFqNDBIbzlKVjBLRUZXQkN3bmNOOGVKZ2NRVVA5OGk2WXpNRVJDWWxSVkdZeTZXdUHSAZACQVVfeXFMTjlNRE5XdnZ6UHNTbzhOOEQwQmExakVtRTI5TmZoM25XZXpoYWV4TkhqQ0VXR1d1SERIOWVhaHIzWGtfY3dsaVY3NjdJLUVMVXU0cmw5VVNmVmtWVjViNnBJTFpMYVNfRDB4WFQxaWR4WHdtOWtJR2wwSGdTSk9TX2lvcEpJMU9UbkpYOXV0OHY1SkZBN2hBYnpIRmxPQkdSOFdIMFdYOEJ0RkZCN0tpQUloRFlidE0yUzktSlBjelJHZTU5MkRsRkJOZ0FOVWF0WjdPbUZ3RHpnV3VabVNkN2sxb3JqaVBqVHhNZlFSbG9CRDFmS0tEVXRGM1VaVi1OSDE5UWdwdHRkZ3otTmhqa1Y?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeU5OZTBQcmE1THVydGExeHhha0xJV0p2MXhTMU1LejR4cHZFWXdscFV4VTFhWU1aRUFfOXFYSGphbU9XNDM2TTMzODN3aGphMHdBVXI5LTA1YTJlRGpJV0t0TjlabWlVT25USUNlMENkWnZ3YXpOblNHWGtna3h3d01JMDA2WUU4eDhwVTlQVk5PY0RVRTJYdEZUSXotSlZzLWJYVUVwWTJEc2J2ME1wNXlWaUx2NVM3WUt1T2ZkR3ljRVlMVEVsR0lmV001N2ozeEZIeTF5ZFdLWDZRWE9zUGFlNzhUWVNW?oc=5"
         }
       ]
     },
@@ -462,18 +462,6 @@
       ]
     },
     {
-      "id": "9c74fbd7099d",
-      "title": "Alzheimer: estudo identifica ondas cerebrais que podem ajudar a prever risco da doença - G1",
-      "published": "2026-10-21T06:00:00+00:00",
-      "summary": "Alzheimer: estudo identifica ondas cerebrais que podem ajudar a prever risco da doença&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYllVcnJVRDNSS2pNVHFtUVluYkJCY2llTzhoSTRnT1RrU295QUlSZEhRRFRibXlYWHZOZnlPM2xuRHBJMEN0N0ExMFF2ZHowWkM0Vk96WEw4VWhGbm9keW5MWUNOVDVZODVJaTRFclZTa1lxanI1cDFZYU1mWjlzVnd6UHNJLURZUFhldzRKTnNxWU1KelI4Ynk2eEVaTVdQc0ZLNUN0QW1Vc0tXSEtSNHJwbmdlcXAydm5WM1JrdVlyWXl3QURJQXhrYXkwWWFwVVdZ0gHiAUFVX3lxTE5vSGw5ZGNtWHg3R2U1a1g1OGJmSGphRmU1U2dLTF82TEM4anF1dkVJVjhIMGkzaXJ2cmRGX2MyMGVhNTNtYjVwU1RZR0xJRUdGb19RRWZ3Q0FZLVlDNkg1VWhKSGFEZ3lKOE51MG1EZ0wySjRtYlE0ZTg0M1lHeHhENVZJdlRtRG50cXNHTTlZcTNkQ25td0prZURpZU1IVXNmX3VxTWRRWDlGSjVDaFZmdWl1RlBRdE05NEdpR0hFV0M2TGd0VWhDNG1pdHg1NDgzZjR4aERtUzh4TXpBWF9ReEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "24d3432994f2",
       "title": "Idosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo - Agência FAPESP",
       "published": "2026-10-21T03:03:33+00:00",
@@ -486,46 +474,10 @@
       ]
     },
     {
-      "id": "8b48d68edf8a",
-      "title": "SpaceX tentará capturar Starship e seu propulsor em pleno voo pela primeira vez - Olhar Digital",
-      "published": "2026-10-21T00:25:00+00:00",
-      "summary": "SpaceX tentará capturar Starship e seu propulsor em pleno voo pela primeira vez&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOFhOa0Y0ZWVpZF9wWG03dkJBMUlNbDVMclVDb3B4bHVRUUdDcG1SdWg1Uk82T1ZrdzZ4T0w1cDJNRVhId1JFMlU4QUhjSFJQMjJzZ083U3lYakc2UHVFU1hOZ244Z1VjQ2FhdmdnUGY3WDNZZFFaVGNxSk5FZG5WeUd3S3hHT0xFeTVrM0NZa182bW5od3dBUktqY0xVc3FObFRMbnhqZHBTNUd4TmxsTEJQTG1qTVpKVi10NjdibllseC1vWnhDVG9iRTZFd25ybHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7e1a35f51b35",
-      "title": "AVC: saiba identificar os primeiros sinais e quando chamar o Samu - A Gazeta",
-      "published": "2026-10-20T22:21:00+00:00",
-      "summary": "AVC: saiba identificar os primeiros sinais e quando chamar o Samu&nbsp;&nbsp;A GazetaAVC: conheça os sinais de alerta que exigem atendimento imediato&nbsp;&nbsp;Jornal CorreioCorrida de prevenção ao AVC reúne mais de mil inscritos em Feira de Santana e incentiva hábitos saudáveis&nbsp;&nbsp;Jornal Grande BahiaMais de 560 internações por AVC são registradas por dia no SUS&nbsp;&nbsp;Jornal PeriscópioO AVC pode acontecer em segundos: o que você faz hoje pode fazer a diferença amanhã&nbsp;&nbsp;Red",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXpZSjdFQWhYTTFnSGhlR3Yydm1WcWlLWk9QS0xiZllJSU5zVHcwRldqTmJnMklaUGlhS29SRFQ1V21nUWJ0M0I2Znp3WHA0YW9jWnRHcUM3UG1rem5DSGZzRDBpUjdUQ1RvWEZMNmpRMTlxcERLOGEyYmQ3ZnFhOHdXdXlHaVkwZzlEbG1QVC1kVVBrb1pfQVRUX3RUNXRGVFNQWTVKbWk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c703a4136db9",
-      "title": "Feira de Ciências da Sepex apresenta projetos de pesquisa, ensino e extensão da UFSC - Notícias da UFSC",
-      "published": "2026-10-20T21:24:00+00:00",
-      "summary": "Feira de Ciências da Sepex apresenta projetos de pesquisa, ensino e extensão da UFSC&nbsp;&nbsp;Notícias da UFSC",
-      "sources": [
-        {
-          "name": "Notícias da UFSC",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGZ4MGJnV05Ua2hWbUZtOUJ3elV1aDFRcC1IOGVBTkdadGRMOUwtcVg1a283Y0txMkdkY0Z1TGM0V0VSVVpybTZtS3p0UjA2WWFDZkxzVjBIbDFiT2JRLUlWV2c2bEdnRlFfTkkzVFNhNFBHQ2dha3lOYmtYV2dlU0M4RmF6cVdNMWMxV1pXVmNNZms3THk0SGx0T0xPUXc1bUg4TnN6RFVYcHEzNmdtdG8wVjA1d3A5?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d39a30dcb78b",
       "title": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite - CNN Brasil",
       "published": "2026-10-20T15:25:32+00:00",
-      "summary": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite&nbsp;&nbsp;CNN BrasilVacina contra pneumonia está disponível para pessoas com 85 anos ou mais em Caxias do Sul&nbsp;&nbsp;GZHVacinação com Pneumo 20 é intensificada em Caracaraí para idosos e pessoas com comorbidade&nbsp;&nbsp;G1Porto Alegre amplia vacinação contra pneumococo para pessoas com mais de 85 anos&nbsp;&nbsp;TerraVenâncio Aires recebe doses da vacina Pneumo 20 para idosos a partir de 85 anos&nbsp;&nbsp;GAZ",
+      "summary": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite&nbsp;&nbsp;CNN BrasilVacinação com Pneumo 20 é intensificada em Caracaraí para idosos e pessoas com comorbidade&nbsp;&nbsp;G1Cocal do Sul oferece vacina Pneumo 20 gratuita para idosos a partir de 85 anos&nbsp;&nbsp;Portal EngeplusVenâncio Aires recebe doses da vacina Pneumo 20 para idosos a partir de 85 anos&nbsp;&nbsp;GAZVacina contra pneumonia está disponível para pessoas com 85 anos ou mais em Caxias do Sul&nbsp;&nbsp;GZ",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -537,11 +489,23 @@
       "id": "6c8cc773039d",
       "title": "Menopausa: por que médicos dizem que o medo da terapia hormonal é maior que o risco real - BBC",
       "published": "2026-10-20T10:35:43+00:00",
-      "summary": "Menopausa: por que médicos dizem que o medo da terapia hormonal é maior que o risco real&nbsp;&nbsp;BBCOpinião | Existe idade ideal para começar a terapia hormonal da menopausa? Veja o que dizem os especialistas&nbsp;&nbsp;EstadãoReposição hormonal na menopausa exige avaliação médica e cuidados individuais&nbsp;&nbsp;O GLOBOMenopausa: novo remédio sem hormônio pode aliviar ondas de calor?&nbsp;&nbsp;Folha VitóriaMenopausa: conheça as novas soluções da ciência para os sintomas&nbsp;&nbsp;Veja Saú",
+      "summary": "Menopausa: por que médicos dizem que o medo da terapia hormonal é maior que o risco real&nbsp;&nbsp;BBCReposição hormonal na menopausa exige avaliação médica e cuidados individuais&nbsp;&nbsp;O GLOBOOpinião | Existe idade ideal para começar a terapia hormonal da menopausa? Veja o que dizem os especialistas&nbsp;&nbsp;EstadãoAnvisa aprova medicamento não hormonal para ondas de calor intensas da menopausa&nbsp;&nbsp;ICTQMenopausa: conheça as novas soluções da ciência para os sintomas&nbsp;&nbsp;Ve",
       "sources": [
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nd1NfU1VucFZBVWdqeUxRR25JSGZvUm9wWWpHREZDQlBqQW5ENDE0RU5zNzF5Z0w5Ni1OdXF0TXk4WTlIc0xOa19RYzJPdkNNaUlyYzNBUjY5OGEwT2dGVll3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab7a2444e9bd",
+      "title": "Rio amplia vacinação contra meningite para pessoas de até 59 anos - O GLOBO",
+      "published": "2026-10-19T13:40:31+00:00",
+      "summary": "Rio amplia vacinação contra meningite para pessoas de até 59 anos&nbsp;&nbsp;O GLOBOVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3lFWndjQmVGTWJWLUF1ZlYzbWZJRjMyUUxpYUUwZERsakpnMEdIbVp5WS03X3lKRGdKQWtrRElDVWNlZ0pNNV95aWh3Y3VVcTQzWV9nbWlsSW1lWnlLenlFSEo3X043ZmNDS1R6U25KdUJyYzdPUkZWVG03bFZ5TXlaUU02b2ZQUEV3d2RFSElxZkFpTTdyRk52SUV6eTNQdEZZcEsxbnRvRnU1NGtrc0hZbkJ6Q0dheVFB0gHKAUFVX3lxTE85SUlMS295ZDVhTHN3UXpwUTMwbmdmQlBTWG9zQVdnU3RZdXZnNENnaUFjZjZJSW5MWTl3YkIzdmw1T0dUalFDQVJPeHV2RUxQRm1SZFV3blJQUmd5SDdIMXhZRzVEcGpQYVVNeDdoWmlBbjR1d3dTUEVfeHF4dnNOU0FQcUg0Q2d5dElQWGJwT0Y0RlhlSV9MSzJKRTN2QmVwdVNEQ1g5d3hKX2Q0V3M3MjZHYkVVa2RWbFRNQ2dzODZyLUwzbVpZMmc?oc=5"
         }
       ]
     },
