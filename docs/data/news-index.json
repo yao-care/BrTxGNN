@@ -1,82 +1,15 @@
 {
-  "generated": "2026-10-23T03:49:14.021965+00:00",
-  "count": 2,
+  "generated": "2026-10-23T11:11:07.107208+00:00",
+  "count": 1,
   "news": [
     {
-      "id": "7939198f11ab",
-      "title": "Rio está entre capitais com alta de casos graves respiratórios - O Dia",
-      "published": "2026-10-22T21:04:28+00:00",
+      "id": "a68edc9a735f",
+      "title": "Sergipe continua com nível de alerta para casos de SRAG, aponta Fiocruz",
+      "published": "2026-10-22T21:13:30+00:00",
       "sources": [
         {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeDAtREx0VS03b3VPX1paTUhacEF1SlFOUDI3RmxnMC1RYVNDLWdmN0tlcnNRWFBUN2NBN1FYUGYxaFRBMVhKbGpaTXBKYjNoSm9rQXY2QnVPNVpDdkd1Y1d2R1Rab3dqZ2RDaUlacmdOVjBVNTh1YUpoS29SMWJEdUtvWTlLNlFMSGZRZ1RIYkZQR1A2TDI1SzIzR1pMcjVqbHNPVEdmLU9SdldUV05YdVAyTmtxQlBfUEw0SDVB0gHDAUFVX3lxTE45Vm1UdndINHFmekVPVGNYcHJXalpHd0l1Nm5oT01PdC01d2tfaTJsRmJwUWY4LWVxQmVEQkk1Ti1nV0VCaXlOYVNTSGVJY2FGNE1KRURZeW9JenZVM1NIZ2kwUVNPNzE3Uk50a1NEUzY1RXdsbzd5NWdCY0FpVGJiUEVZNXBiTE9Ed0NLUDNEVFpJc19DejlZZ1lUZUViQ0t5dzd3RC1TU2dBcFlxdWV1S2RDNmNkVGpPWmwzbjRxMHRtSQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir",
-              "url": "/drugs/ganciclovir/"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol",
-              "url": "/drugs/clobutinol/"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam",
-              "url": "/drugs/tazobactam/"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir",
-              "url": "/drugs/oseltamivir/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "infecção pulmonar",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir",
-              "url": "/drugs/ganciclovir/"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol",
-              "url": "/drugs/clobutinol/"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam",
-              "url": "/drugs/tazobactam/"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir",
-              "url": "/drugs/oseltamivir/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d39a30dcb78b",
-      "title": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite - CNN Brasil",
-      "published": "2026-10-20T15:25:32+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRThyZHRyV0NNNzk1Rm9wdGQ4aHpUdU05T3Y3bTY5WHNvU2hLMlpwNVB1OXZwV1VTY3JDRVM4YW1lejViT2ktRFFlc1k0Sm5Xbjd1WGxiY1RvTjZ3b2ZFaW82SGN4XzAyZkFoZ1JBTlgxRER1c2JDT3VVZHJ0OW9RMzRSZUpaN2k5UVBxTkVLdDhxZzZvOEZfQ0NpU25fS3g5bjJ2Uy1tZm9NOEVa?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXY0ZF9nTE9UbVpnY2YwckFsZlBHWFFKeXhpejJlM0JwbkluMTlMTjdtMzB6c1l0VUpBc2JsOFpub2dKTmN4ZktURC1BVWR6Tk1GcjNDS0QtNFlqNWhacnU0UGNHWThGdkFKcFlVM19fRnl0bFN0UDNQcGg5OWtLOE5sNjFIdkJSRFFJTzYwVks3bEZDSlBZT290d0c1Y21yN0Y1UzlWV2NxcWhySHJBZHB3TUpwbjFFVkEtV3VmZXBCOGhwbUHSAdQBQVVfeXFMUG81S2t5QWJRUmYtUVhxa3A5MlVrU3A0TTgzRmtOX1dzOXEyanppSzNqQTJxNk55OWR0NVo0WTNxNEFPTXFOT21fT2VpbDNWQU9EQl9qdjFSc3UwbU04REtNZXpMWGhaaUNaWEcwTWktYUoyQWhENVphZ2VlMHI5NFYxM2FVNFJyUHFNeTh0Vl9UT2N1U2FhOFJZZVY1NHBpOXJTTndYSlhZUFRCWWpKZVFBREhLMlVtdjhRQ0I3d3JXVXZKVXM2NVRzb0dtcUREMHBxMFU?oc=5"
         }
       ],
       "keywords": [
