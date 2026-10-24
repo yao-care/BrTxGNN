@@ -14,7 +14,7 @@ permalink: /news/glucose/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre GLUCOSE?">
-<strong>GLUCOSE</strong> tem atualmente <strong>1 notícias</strong> e 0 indicações previstas.
+<strong>GLUCOSE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -28,15 +28,9 @@ Esta página combina as indicações previstas por IA para GLUCOSE com as notíc
 
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (0)
 
-### [Diabetes e obesidade: dispositivo eletrônico controla glicose e reduz peso em testes com animais](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTzFGcW9lbklfNU1adG9OTThoOXpxUGNDZFpTdnFjWDRONU0tZkNZZ2QzM0VBdktuU2FWdlM1eWMwaVAxRTdLdWU4OW9FQjhWLUtudlNESVBqUndraTVWa3piZmxwbDZTcjJFZWU1cWllVEJWREdzRkEweWhMVWRPMDlOVENLSG5JUkltLUU3U0FJcUdYbEhjVF91TjRsbUE0aU81eUh0SjA4dnpYTF9QYXlHZWlhbUtadHhJMGtiNk44UFhLdGZHUnBBVWs3MFFzemVHLXYydzNSY1NBaV9WX9IB7wFBVV95cUxQNXN0UE52WVNnanlUaXN6TmF3X2hudndnTWVaVV9xUkV2VThVRm1qVFZ5THdfM1RaUW1tczdXZzVCLUhzczVmNlRnMXJxRnJEZjBqRW5STkNuWVlmMGk3NUp0Z0c1bkVsa3NRT2d1eTQ0eEt4QmZ6YXpZYllnblI4VWYwcERDRU1vN2NVY0JIeG9QMlk2R1lxNlBGaXBIQ1Nmb25xLWpYU3hCRUc4eWtWbDQ2anVuMUVjNy1NVm5pZGp5TlNTVG1XUU44TDNNTkRaT1pqZUplQzFYYXM3NlcwRGl0S3Roc25Qd1dNckcwbw?oc=5)
-
-2026-10-23 <span class="news-drug-tag">GLUCOSE</span>
-
-Fonte: [G1](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTzFGcW9lbklfNU1adG9OTThoOXpxUGNDZFpTdnFjWDRONU0tZkNZZ2QzM0VBdktuU2FWdlM1eWMwaVAxRTdLdWU4OW9FQjhWLUtudlNESVBqUndraTVWa3piZmxwbDZTcjJFZWU1cWllVEJWREdzRkEweWhMVWRPMDlOVENLSG5JUkltLUU3U0FJcUdYbEhjVF91TjRsbUE0aU81eUh0SjA4dnpYTF9QYXlHZWlhbUtadHhJMGtiNk44UFhLdGZHUnBBVWs3MFFzemVHLXYydzNSY1NBaV9WX9IB7wFBVV95cUxQNXN0UE52WVNnanlUaXN6TmF3X2hudndnTWVaVV9xUkV2VThVRm1qVFZ5THdfM1RaUW1tczdXZzVCLUhzczVmNlRnMXJxRnJEZjBqRW5STkNuWVlmMGk3NUp0Z0c1bkVsa3NRT2d1eTQ0eEt4QmZ6YXpZYllnblI4VWYwcERDRU1vN2NVY0JIeG9QMlk2R1lxNlBGaXBIQ1Nmb25xLWpYU3hCRUc4eWtWbDQ2anVuMUVjNy1NVm5pZGp5TlNTVG1XUU44TDNNTkRaT1pqZUplQzFYYXM3NlcwRGl0S3Roc25Qd1dNckcwbw?oc=5)
-
----
+*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
 
 
 <div class="disclaimer">

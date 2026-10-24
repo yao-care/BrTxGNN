@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-24T15:33:14.738222+00:00",
-  "total_fetched": 98,
-  "unique_count": 97,
-  "health_related_count": 40,
+  "fetched_at": "2026-10-24T20:24:32.238067+00:00",
+  "total_fetched": 95,
+  "unique_count": 95,
+  "health_related_count": 38,
   "news": [
+    {
+      "id": "15f9d323322e",
+      "title": "Mulher de 86 anos morre após levar picada de mosquito: 'Ela não tinha problemas de saúde' - Jornal Correio",
+      "published": "2026-10-24T16:56:29+00:00",
+      "summary": "Mulher de 86 anos morre após levar picada de mosquito: 'Ela não tinha problemas de saúde'&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjdmRTdZREc3bGNWVVB0UGxTMURucjkzSG05aXAwal9ibTc4N0hWek1OTVJ3ZVc3MlRsU0JQY2JVbEZITHVteWx3YWtXaVlST0l2bi1RVEtIeVNqZllwd1FUOHpLX1l4UFBJOFR5Y3RZSDZ6YkZBbGxvZTFMcE1ySkJfSllXR3JkZHBxUFVVOTFBakxLV1I0ZjU2MnA5Wk1kU1R0eFBfRzV4b2FxWVpHWUlid3QxcUlmRjdjX2NBTkYtWmJSRjlEeVkwOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a60a44038ed",
+      "title": "Artrose no joelho: por que a atividade física continua recomendada mesmo com dor - Tua Saúde",
+      "published": "2026-10-24T16:03:30+00:00",
+      "summary": "Artrose no joelho: por que a atividade física continua recomendada mesmo com dor&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOF9QNWV1S2pOMDRYdGp3Zlp4VlZzbWlhMW1UR05nel8zWWZ6aWhSN1EzLXlGVlRQMlgtMGxHSjZKRDVZdHM1ZEg0RldJV0JRYTZHZjF1QmhaeDg2WHpoM2laSlhIdzM1cXh1NXlDdmZ1R0VlLUhwNVdBdW9vNWJvOWNnMlJiWC0zN2hIQ2xGSlRrNER2S0ozU3pMcFRaMW13WWdpdHdxSllWWEp2bi05clBpaVVNeHpMWGlteGRn?oc=5"
+        }
+      ]
+    },
     {
       "id": "cb8efaff5059",
       "title": "Colonizar Marte vai, literalmente, partir o nosso coração - Terra",
@@ -42,6 +66,18 @@
       ]
     },
     {
+      "id": "5fd077eb22a6",
+      "title": "Tio Adão revela tratamento contra câncer de próstata e reforça importância da prevenção - Famosos & TV - Portal do Holanda",
+      "published": "2026-10-24T08:53:00+00:00",
+      "summary": "Tio Adão revela tratamento contra câncer de próstata e reforça importância da prevenção - Famosos & TV&nbsp;&nbsp;Portal do Holanda",
+      "sources": [
+        {
+          "name": "Portal do Holanda",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQmZaSWUyRkY5MUkwWFlxWkVtZ0FYVDlYQ3A1OFlibnlyOG91b1hidFNmbUxfOENOejUwMXBaOXR0VW9ZV3hFNEJsbWc2amJZMUY2cGZYU3EwdmpFSEVQenFHMGt5d3I2V2Q5QjVVYXhpTWM3Sjh1UVNiMVo1am5ZT2JmNzRqT2JxNDg5X2hKUUlmNHBGM0w1Wm5OeEQ4OGs0UzliV0thZXp5SVI5TExrMW9QSlpyakc3aVZFSzl2X2Z1UDdsOGhvOFQ3Q0ZBUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f61211f9ffb0",
       "title": "Dragonfly da Nasa pousa na maior lua de Saturno pela primeira vez, mas sem sair da Terra - CNN Brasil",
       "published": "2026-10-24T07:30:34+00:00",
@@ -62,18 +98,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeEJFd3dYVzR4dk5yWGFRNFlVcDY5Q0otNi1lRUFaMzdPcEpSREJya3dtVFhKb1g4cDVIc1lYdGhfLW5tZ2pMVDdObjYxbWJmMEs2enZxVnBxbG90MnlJcHVPLWdhamdneHNVOFBtNHRWNHpCTEc2ck0wWnpFTE1GLU5qMjNfcnF4WWxteUVxRHFSM19EUDg1S1VqMTlqYV9jbW1Vd04ySGtUUFp0S1BUTFFjME1ONEtRR0c0RndwVERjR3QzTTlSbWYwZEo2QmdiclVwVHNEZXZnQnoyQ21BMkJWMHQ3SkdWRHfSAfgBQVVfeXFMTV9qRmljSVV2UEJXLV91UjBURlR3a1lOVjNVM2Utb2tJZmp1bGdCSzl5dkljYm94Qzh1UkNVSHJndWVKT3JoOWtlNF8yVE9JQTFhbjVWVXo4MmtmcXNmSjRVMTZOUlVZNEZaUjNBZDB6MEY3VjBDbXowaGVFTzRFY3VtYUNMbDZnWGVxSjJxUDZ6MlZ6OTlkRnlPRGg4R2g5cjd2THNrUU9CajJ6bVNjN0FQcXBiSlR4bjh3R2FEWlNWczJ4YzBjbU5BN1BrRVdEZGJQQmpGUGpmckdzUzJqSzZUV1FxZzVHTnliZERxdnpnMjhDQ2RxX3o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "11fcb6a30100",
-      "title": "Agentes de IA ficam 30 horas sem ordens e surpreendem pesquisadores ao inventar tarefas em ilha virtual - O GLOBO",
-      "published": "2026-10-24T07:00:00+00:00",
-      "summary": "Agentes de IA ficam 30 horas sem ordens e surpreendem pesquisadores ao inventar tarefas em ilha virtual&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTmFGbS1VNkllUURzLXQyS2NvQWFfaml5ajRhZnh1cWhHY3NtRFFuTE54LVJDQWpLRmJGYmVqdlVmTXRxdk8xeTFpakp4djVhRGhJTHo5NjAxSkdDaTM0X1RSajluUkhCeElYdkU3eFJOVmV2d095M3E5YUNLVkR2LWZoaGJvc3pMQXd3ZGVvRzlYdGtiSmxIN2Q2LWdxOTBMeW1rSUg5YWNXRmJSaFhtZjlOaVp5UmhBZW91b3BudTVSUHM4QXd1ekJ1Tk1qc29pRGlwZHdRUV9kaEVtamNvOFRiSHZsbVkzNlhndDdNUGNqc0s4ZVNMX1FBQk8tR29HZkt30gGSAkFVX3lxTE9hZl9kTG9MS1Q1RTVOWTdpZkRSTVBLZTE5cVhKTEdobE1idm9zLWNzR1ZrZUFJN2tybDRta296NWl3MmJpdkVkUTB1a1dsOHA5QUJpaVJTME1Pb1BpNnRKZU1aTnN5YVdHckxIajM4UnZJYnN1T1B2bzJyMnh4VVFLbzI2ZXFSRmEydGw2ZnhobjByOWxIUGt0X3pPeXRIbVNTS2hOR1RqSmhPZGtFTEpRR1Y0RTVMaFpSeFFMSDg4dENEV1pxNldqNnU3NElTODljaHZ4aVNQZmpuejhQUGVBeEpQaHo0Uk1tZmFFM3RDM1FTNDBvdE9maGxfR1NXeVZ3NjNNLWtLdE1jTkNJYmxUQ1E?oc=5"
         }
       ]
     },
@@ -102,6 +126,18 @@
       ]
     },
     {
+      "id": "5d5838e1be90",
+      "title": "Dieta ruim está ligada a câncer de intestino que causou morte de Lua Blanco - Metrópoles",
+      "published": "2026-10-24T05:00:00+00:00",
+      "summary": "Dieta ruim está ligada a câncer de intestino que causou morte de Lua Blanco&nbsp;&nbsp;Metrópoles'Bate Papo de Saúde': médico fala sobre câncer de intestino&nbsp;&nbsp;G1Câncer de intestino: sintomas que não devem ser ignorados&nbsp;&nbsp;Campo Grande NewsCâncer de intestino é o terceiro tipo mais frequente no Amazonas; saiba reconhecer os sinais&nbsp;&nbsp;R7Muito frequente, câncer de intestino pode não apresentar sintomas&nbsp;&nbsp;Agência Brasil",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzAwTUlDVE5YbUM4a1lYSEsteFRHVWxJSGNNYmZDZzF6SEhVaktkOG9VTzdyWmg4TkVGUUxoc2xoMmxLa2pRLXlRLUFHN01oVXhvX1FvZWExVFhSSmN2Wk9tRlhQeFplX3pyVU5OM1Z1LU9kd3FtMWRDTk41cVhuX19wclZBOGEzQ1pwemhWT2k5aWhmSklYQlAtMEFpb1k5VXdsYUpqS0NGRHl5a0JXT2h4ZHVURjQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "81ce0bb5ba83",
       "title": "Pesquisadora da polilaminina chama ciência de religião e compara cientistas críticos a ela a Mengele - Estadão",
       "published": "2026-10-23T23:53:00+00:00",
@@ -126,6 +162,18 @@
       ]
     },
     {
+      "id": "db157b3a8ea7",
+      "title": "Como funciona a vacina contra o câncer que reduz risco de recidiva ou morte por melanoma - Folha de S.Paulo",
+      "published": "2026-10-23T21:01:00+00:00",
+      "summary": "Como funciona a vacina contra o câncer que reduz risco de recidiva ou morte por melanoma&nbsp;&nbsp;Folha de S.PauloVacina de mRNA contra câncer reduz em 42% risco de morte ou volta do melanoma&nbsp;&nbsp;G1‘Um avanço histórico’: vacina personalizada reduz recorrência de câncer de pele agressivo em 42%&nbsp;&nbsp;VEJAEm meio a tantas notícias ruins, uma razão para ter esperança&nbsp;&nbsp;R7Vacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027&nbsp;&nbsp;InfoMoney",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSDNzZFZMTVlqOGpGR3hsYllIdlhsMmpEbkFQX2lWa0FHTGtVT1VtWVhpU212ZnpIMENKWDVqRFRoZUs0bDVaM3diN0xBVXA3ZHZQSE9tOGFCS2pkUDNzOW1GOFRzRkdXOGlLTXJCQkY3V0xKNUE2Tm9SZW1hdnRPWmRKbUV5bkJ1dmtlRVpsWjNfejIwWTZoalFIVUZEdmNUdmdiQmRKdW1BS0ktYjdSc05MZE9BMVlIbTBpWERLRS03ODVvTzJpQ3dWV2hoSjFMV3ltUzlFNFJSbVZOZHNIVzlMNA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3a874df41b05",
       "title": "Câncer de mama em homens: preconceito dificulta a detecção precoce - Portal Drauzio Varella",
       "published": "2026-10-23T19:35:06+00:00",
@@ -141,7 +189,7 @@
       "id": "a891161f858d",
       "title": "Um grande segredo para prevenir a perda de memória após os 60 anos? Cuidar dos netos, segundo estudo - O GLOBO",
       "published": "2026-10-23T18:35:25+00:00",
-      "summary": "Um grande segredo para prevenir a perda de memória após os 60 anos? Cuidar dos netos, segundo estudo&nbsp;&nbsp;O GLOBOLeitura, música e jogos aproximam idosos do conhecimento sobre o cérebro&nbsp;&nbsp;Jornal da USPIdosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo&nbsp;&nbsp;Agência FAPESPEstimulação cognitiva: técnicas e exercícios terapêuticos para melhorar as funções mentais&nbsp;&nbsp;Portal O DiaEstimulação cognitiva contribui para o envelhec",
+      "summary": "Um grande segredo para prevenir a perda de memória após os 60 anos? Cuidar dos netos, segundo estudo&nbsp;&nbsp;O GLOBOA receita da memória afiada na velhice: netos, esporte e voluntariado&nbsp;&nbsp;InfoMoneyLeitura, música e jogos aproximam idosos do conhecimento sobre o cérebro&nbsp;&nbsp;Jornal da USPIdosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo&nbsp;&nbsp;Agência FAPESPEstimulação cognitiva: técnicas e exercícios terapêuticos para melhorar",
       "sources": [
         {
           "name": "O GLOBO",
@@ -165,23 +213,11 @@
       "id": "4bae9bfb2933",
       "title": "Desinformação faz com que só 5% das crianças sejam protegidas da covid - EBC - Empresa Brasil de Comunicação",
       "published": "2026-10-23T17:53:00+00:00",
-      "summary": "Desinformação faz com que só 5% das crianças sejam protegidas da covid&nbsp;&nbsp;EBC - Empresa Brasil de ComunicaçãoEstudo lista 5 estratégias para aumentar as taxas de vacinação&nbsp;&nbsp;O LiberalBrasil não atinge meta de vacinação para a maioria das vacinas da rede pública&nbsp;&nbsp;G1Apenas 5% das crianças pequenas receberam as três doses da vacina contra a covid-19&nbsp;&nbsp;Jornal Tradição RegionalCovid-19 leva mais de 1,1 mil crianças à internação e causa 25 mortes em 2026&nbsp;&nbsp;",
+      "summary": "Desinformação faz com que só 5% das crianças sejam protegidas da covid&nbsp;&nbsp;EBC - Empresa Brasil de ComunicaçãoEstudo lista 5 estratégias para aumentar as taxas de vacinação&nbsp;&nbsp;O LiberalCovid-19: Saúde renegocia prazos de entrega de vacinas pediátricas&nbsp;&nbsp;Portal EngeplusApenas 5% das crianças pequenas receberam as três doses da vacina contra a covid-19&nbsp;&nbsp;Jornal Tradição RegionalCovid-19 leva mais de 1,1 mil crianças à internação e causa 25 mortes em 2026&nbsp;&nbsp",
       "sources": [
         {
           "name": "EBC - Empresa Brasil de Comunicação",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0V6TG9TUTJWQ0N5NlVDZGl6bDhiQm8wdmV6dUVoWThiSDhuaHA2VzRiZ0ZUWWZxZThXSDFFeU9FOEJLbjdhdmFsU2pwZFZ6VlF5dkJMWU9BT05INExmQ1p0UHZwUWpyX1dvOU9zeDdfX2FFNzFxc013bUhHVXRVNE1zeDVSWEFoSFNfSjQ2N0xrcmR6azVUelNiaE02LTNfcUZEcWZlbmVPalRYZUc4U204VndLcmtTY0I2YzNJaklqUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b263abc1eeed",
-      "title": "Vacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027 - InfoMoney",
-      "published": "2026-10-23T17:00:00+00:00",
-      "summary": "Vacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027&nbsp;&nbsp;InfoMoneyVacina de mRNA contra câncer reduz em 42% risco de morte ou volta do melanoma&nbsp;&nbsp;G1Como funciona a vacina contra o câncer que reduz risco de recidiva ou morte por melanoma&nbsp;&nbsp;Folha de S.PauloEm meio a tantas notícias ruins, uma razão para ter esperança&nbsp;&nbsp;R7Por que as ações da Moderna estão caindo hoje?&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1acVdGbk42VFBoNWlidTVFSFc1WnNWNm03VWljWERvcW1nUUthekJwXzZmVzgzc2F4NVpQVTg4SnNmTFNySkRiZ0hzWFZoNmg3UkgtRTRMRks2QnhKS0x3SFlqcC0yb2FyUU9RcWpoWHhnemtDb0t1Q0p30gF_QVVfeXFMUGtTcWU4dE1kTDdvV2tPWWlRSHVPRWlTSnFTeWdCUGl5bDQxTExwOFdOd3ZOYmF6SDVDV0RpVDZvTG1NTmJfdXg3bEUzTVRGU29jQkVud1VPMDF3RjhHbENkbGpkTUxPcGZ2N1NaVDd1anIwTXJYVXFKWTFBT2N6dw?oc=5"
         }
       ]
     },
@@ -222,18 +258,6 @@
       ]
     },
     {
-      "id": "20e974c5e29f",
-      "title": "Câncer colorretal: além de Lua Blanco, relembre famosos diagnosticados com a doença - R7 Entretenimento",
-      "published": "2026-10-23T13:35:02+00:00",
-      "summary": "Câncer colorretal: além de Lua Blanco, relembre famosos diagnosticados com a doença&nbsp;&nbsp;R7 EntretenimentoCâncer de intestino: sinais e prevenção&nbsp;&nbsp;G1Muito frequente, câncer de intestino pode não apresentar sintomas&nbsp;&nbsp;Agência BrasilCâncer de intestino é o terceiro tipo mais frequente no Amazonas; saiba reconhecer os sinais&nbsp;&nbsp;R7Dieta ruim está ligada a câncer de intestino que causou morte de Lua Blanco&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "R7 Entretenimento",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNXpOWTNvM3owM0hmRHY1U3Q4RUw0UjJiNjN2bkU0WTAxX3dVRkczMmFfZTBGeGszdlg4VGNDc2ZnaHM5R2ZYOVNVNERqVVVxY1dKUkhkWEJKNWlSVzV3MG4xMjdKZFVDeWRNZktsdGFFNlVoR1hXZ1hkMHdRS0dSMDh5RjdCLUpsUkJsQ3BPVC10Z09tZWFZay1DbFNMZXJiS1dhUlE5a0dsMDN3Z2xrVEVVTmRGekRTZkhNeWxHQnNITnhvNGxFS2d4bWQtcU0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9dd588e50107",
       "title": "Experimento mostra que truta de cor amarela pode ser mais produtiva que a variedade comum - Agência FAPESP",
       "published": "2026-10-23T13:16:19+00:00",
@@ -246,14 +270,14 @@
       ]
     },
     {
-      "id": "3932a2166786",
-      "title": "Professores da USP de São Carlos estão entre pesquisadores de maior impacto científico do mundo - São Carlos Agora",
-      "published": "2026-10-23T10:46:00+00:00",
-      "summary": "Professores da USP de São Carlos estão entre pesquisadores de maior impacto científico do mundo&nbsp;&nbsp;São Carlos Agora",
+      "id": "ea3fffc526f3",
+      "title": "Lipoproteína(a) alta: por que uma vida saudável pode não eliminar o risco cardiovascular - Jovem Pan",
+      "published": "2026-10-23T10:57:39+00:00",
+      "summary": "Lipoproteína(a) alta: por que uma vida saudável pode não eliminar o risco cardiovascular&nbsp;&nbsp;Jovem Pan",
       "sources": [
         {
-          "name": "São Carlos Agora",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcExGWHgtYlNLcmVNN0xGenpZaUFjM2VIc0ljb1RLNmhNNmxySVFfX1V6WjE2Mk5ndnBxUkpqMDk4d3Y4M3JTbjFtc0lDb1hYZGN2RzZsUFdFYnkyU2xZcl9mNVEzN25Kam8yb2x6b09adTg5UHYtMUd4LUhJOUFRVTlIQzRNZGRvcEJTZ3lTeHRTejZPWFFLSHp6MmZLd0g0Y3p5Y2lZbmlWU0Vuc0ZSLWdqRm1tQ0hEUS1nS0N3N1drZXFHc1NwbERzZk1aUllEekZiNlF0VmJLZkRfaGZOLThGTmE1Q3M?oc=5"
+          "name": "Jovem Pan",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVU94T25JbTN6eGhLckZBT3VLcTBnOHh2MW83N2thS2lnOFlnRDZtbmYyODV2R0UyeklnbHZWa2F5MHJsalUybjNaREdxOFFZczVhMXlLU1E3V1BlTkk1RS0tTVBZU3hqWmVUenppM0RhV3RKbmhVMWVWaGNYaThxTlNlMkFNYWQwYVh4cmIxZGV1cmFuazh1UG5ZUEVGekFmZUlEUF9IRkY4TE1jamdrUmM2bkpBcG8?oc=5"
         }
       ]
     },
@@ -282,18 +306,6 @@
       ]
     },
     {
-      "id": "ab2f4a9ae9a9",
-      "title": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais - UOL",
-      "published": "2026-10-23T08:30:00+00:00",
-      "summary": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais&nbsp;&nbsp;UOLO que muda no treino de quem usa canetas emagrecedoras?&nbsp;&nbsp;Assine AbrilCanetas emagrecedoras e lipedema exigem atenção médica e cuidado individualizado&nbsp;&nbsp;O GLOBOBusca por canetas emagrecedoras na internet alerta para risco de automedicação&nbsp;&nbsp;BandDrogaria Araujo registra alta de 53% nas vendas de suplementos proteicos&nbsp;&nbsp;Guia da Farmácia",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDE1OEVIMVNicFdVeWZFSC0wZVFKZW9mZ01Hb1duaTlfMUZGVFdwUndocnNsTGJWdDFUejFLbTJKbkpFOXQxSWd2UTBmeWcxakIwTXVQdEZ0VXhDVHpiMnUyNmpEdHhyeEl6THZZNjJtb3ZJYm1uVzd5eDhuVG5mVHBpb0JyLXBVSE1QYl9CTVFnNkNVcjJnNVkxU3JDdngtZ2gyZDZWUGdFenF2U3F6V2xvdTNZWjhmOFQ4YmhrVDg4OGs0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "567ad1adc3ed",
       "title": "Convulsões só durante a menstruação levam médicos a suspeitar de endometriose no cérebro de paciente - G1",
       "published": "2026-10-23T08:00:00+00:00",
@@ -306,18 +318,6 @@
       ]
     },
     {
-      "id": "48def2fe8920",
-      "title": "Diabetes e obesidade: dispositivo eletrônico controla glicose e reduz peso em testes com animais - G1",
-      "published": "2026-10-23T07:00:00+00:00",
-      "summary": "Diabetes e obesidade: dispositivo eletrônico controla glicose e reduz peso em testes com animais&nbsp;&nbsp;G1Em novos testes, dispositivo eletrônico controla glicose e reduz peso em até 10%&nbsp;&nbsp;R7Implante eletrónico converte glucose em gluconato para controlar diabetes&nbsp;&nbsp;HealthNews",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTzFGcW9lbklfNU1adG9OTThoOXpxUGNDZFpTdnFjWDRONU0tZkNZZ2QzM0VBdktuU2FWdlM1eWMwaVAxRTdLdWU4OW9FQjhWLUtudlNESVBqUndraTVWa3piZmxwbDZTcjJFZWU1cWllVEJWREdzRkEweWhMVWRPMDlOVENLSG5JUkltLUU3U0FJcUdYbEhjVF91TjRsbUE0aU81eUh0SjA4dnpYTF9QYXlHZWlhbUtadHhJMGtiNk44UFhLdGZHUnBBVWs3MFFzemVHLXYydzNSY1NBaV9WX9IB7wFBVV95cUxQNXN0UE52WVNnanlUaXN6TmF3X2hudndnTWVaVV9xUkV2VThVRm1qVFZ5THdfM1RaUW1tczdXZzVCLUhzczVmNlRnMXJxRnJEZjBqRW5STkNuWVlmMGk3NUp0Z0c1bkVsa3NRT2d1eTQ0eEt4QmZ6YXpZYllnblI4VWYwcERDRU1vN2NVY0JIeG9QMlk2R1lxNlBGaXBIQ1Nmb25xLWpYU3hCRUc4eWtWbDQ2anVuMUVjNy1NVm5pZGp5TlNTVG1XUU44TDNNTkRaT1pqZUplQzFYYXM3NlcwRGl0S3Roc25Qd1dNckcwbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1570c9881568",
       "title": "Novo exame identifica quase 98% das lesões de tipo mais comum de câncer de rim - G1",
       "published": "2026-10-23T07:00:00+00:00",
@@ -326,18 +326,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEJ1aEhaS0dZQnhhUVV1THlwang2Yk5qaDdaa1VGY19wakZwWURXSFI1ck1kUW1fMDhMY01HM09XMGREUmRjWlFPV1FQdE9BSXg2TGxZT3M5ZUdVY3FlQ2s5MzV5cURSa2hTUGV3b19LUC0tMkdWaW9mYW1rX2dQNW1faDBaSlBJdGRMMTQzVkpNUVpfU1UxdzVkUmU3c0JCb2tEbzdQOGdkNW1ldklRaTZHTGUyZG5zd2dReVRUc0hWdkVHSjAwUUJsN1o2bjM0ZXfSAeABQVVfeXFMTVNxdHMyVk1RNXdFdDBLaFA5dURabFhOVWk0b0RWbTZESHV3TVJheXc4RDBZUlFGOTR5SmZKeldfOVptYlEycTNid2M2bGhsMlNXc1JXeFBud1BISmdEZms1SEtWZThTNURqTG5HRFljdlRaVV9qUlV4U3A0ZEE1TDZvRWNyQkRTQ2VXeC1rVUJFTXpIOEVSM3hfQ2ZqU1pMejA1dzc5Mk1QaGdHZ21xMV8yTXFINjJ2R2RrcjN3d01KZks2RU43OEVrQTNRWDFwWkQzLURnMzNMNXhCcnlRdkc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b93c33feedbb",
-      "title": "Cosméticos podem ter relação com câncer de mama? Especialistas explicam - CNN Brasil",
-      "published": "2026-10-23T06:37:47+00:00",
-      "summary": "Cosméticos podem ter relação com câncer de mama? Especialistas explicam&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVEJ6SS15Wjc2RXJTSDhkeFRDR1RmRjZpR1Y5OWJCVmJlNWwxT2VIMUFXVWtmVGRoa0F1UmRjRUtsU3U3VEQzXzh2UlNfY0F6aDh1NE9HRFR5c2Uxc1VJQnUwbWhmcjJib2g3STE3VUYwUVpCSWthcXdUT1lFN3hfdGNVWmdpcktReTRHV0hPM0Ewd2thcXdvRV8yaTZ4dzZobUV0Q0hmVVNRQQ?oc=5"
         }
       ]
     },
@@ -378,38 +366,14 @@
       ]
     },
     {
-      "id": "173fd94ae368",
-      "title": "Poços capacita estudantes de Psicologia para atendimento em saúde mental - onda poços",
-      "published": "2026-10-22T18:13:15+00:00",
-      "summary": "Poços capacita estudantes de Psicologia para atendimento em saúde mental&nbsp;&nbsp;onda poços",
+      "id": "b92c9cfd1577",
+      "title": "UFS tem sete pesquisadores em lista dos cientistas mais influentes do mundo; veja nomes - G1",
+      "published": "2026-10-22T20:29:51+00:00",
+      "summary": "UFS tem sete pesquisadores em lista dos cientistas mais influentes do mundo; veja nomes&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "onda poços",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUN3ako3eFkzRFZDLXpTMVFhVm5rVnRZRUtQOVh3M1F2SG9SWFBRa1N1ZmU5OGdhZ0JjSTlnUzg5ek9LZzBwV05oRkFweDVmYkpqOWdMSjNJOG5uYWowVFlDQm9XLUZGbkZST2RKT1p1R1lWUmxWZG9LQXdEY0ZnbXNoZUF2Q2tZWDFoQ2ljRXZoeVNULXFldzVCWU1Wems?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9f3748630940",
-      "title": "Startup diz ter usado vírus criado por IA para tratar paciente - Folha de S.Paulo",
-      "published": "2026-10-22T17:00:00+00:00",
-      "summary": "Startup diz ter usado vírus criado por IA para tratar paciente&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbW9zV1dBcC10MEMybGtEVWdiODhGd3h3MXBwVFVtTGt1OUYwMW9IMlowZXhLQVFnMUc1VTBRT3RxSmpDcTNIYzZUOG0zaTBEZl90RVdBVDdObXJEQlcwNXBTSVN4b1l6NWZoTUJRRkZOMGJlZWdZRnNwQjI2a3ZwSVY4dHlkaGNBNDBRMzBHUlFoSHc1X2VyR3M5OC13STlPQV9UcGdvczlqUXIxT0FsNmFxTVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a94ba50b1169",
-      "title": "Hipertensão atinge quase 3 em cada 10 crianças e adolescentes no Brasil - UOL",
-      "published": "2026-10-22T15:00:00+00:00",
-      "summary": "Hipertensão atinge quase 3 em cada 10 crianças e adolescentes no Brasil&nbsp;&nbsp;UOLCardiologista alerta sobre riscos e sintomas da pressão alta em crianças&nbsp;&nbsp;Metrópoles28,3% das crianças e adolescentes têm hipertensão em MT&nbsp;&nbsp;Gazeta DigitalHipertensão atinge 40% das crianças e jovens, aponta pesquisa&nbsp;&nbsp;Jornal CorreioHipertensão atinge 28,3% das crianças e adolescentes do Brasil&nbsp;&nbsp;Senado Federal",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQal9QSDJvamJXRTNhaEFyZDhRUFZuVjNvWTVMM2hKdTVvdFQ0T2FhbmhqLV9BOUxnV3JlZUEyYmJINVF0RjlERFRJanVrZTVqU1dnRjd4Z0NWMmRWLUlLLXVLWHFhRzc0S3JpcjNsSGRnS000Y0hsMkMtUEQ3WXJVODEycVJQSlJ3eVA3Q3ZZOTVQN2JhOF9QSllPUkFqeEFtM1Rrd1dHekJHR2RYbzZ1WnI5a3p6QVpXWnI3RzlnRnh5dTFfQm9taHFHSW83Ync?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTm9HUEZJOG1RenJvNEpEaUJBazNJNXN6V1NfaGhrMW5UTVlWTGZnekpsa1VqbURVN2hXYmp1a0RMMDE2aUJBNDBWd212bXFldzJJcnJZdVNMd25fNzFZT3VfZEh0b0RJSDIySjR5SGo0R29ld3R4RGQtQmZPVGxDb2tLOTU0NUxLalYzbDNaSDJab2RVTU5pN0tSRm9XdGZ5RjlyclJUNDhTbWppWDZRdUhiS3BwRzhVeFRPMnVlS2ZCc3RmcV94LTJRdFFRYmk2Vm5jZGJCRjQ5N0nSAeoBQVVfeXFMUERPSzBLbFpwa2hSbmxVRWlVQS1aWmYxMjJ0NHg5TjdaakdEQTdvLUVORXo3amtrLS13bTc3c2d0MElOa0Y5OHBNd0pweGM2WlFnX3k2akNHa2JsejYtTFhuSU42X2RsWGdyNXlsTUxZMVR1dHhnajhIV1FzbUtrTmc3MmQ0cnlMN2puVEJxLThGT2VuOXlHamZWODhjanFlUm91VnJDcENTQnZXOVJZZU5OV1Z6b1h0VzF4LVJYVVEyVTg2YnhLRWFhZEUyYVRDb1hrZnVqNFJ5cGIwdmNpLVo5dHRFclBNS21R?oc=5"
         }
       ]
     },
@@ -441,7 +405,7 @@
       "id": "afe5d2a080fd",
       "title": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam - G1",
       "published": "2026-10-22T05:00:00+00:00",
-      "summary": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Quase 70% dos municípios do RS estão abaixo da meta de vacinação contra sarampo&nbsp;&nbsp;GZHBaixa cobertura vacinal mantém Brasil em alerta para o sarampo&nbsp;&nbsp;Correio BrazilienseCuiabá mantém vacina contra sarampo nas 72 USFs, com 33 unidades abertas no horário de almoço&nbsp;&nbsp;Prefeitura de CuiabáMS tem 24 casos suspeitos de sarampo e 1 em investigação&nbsp;&nbsp;Campo Gran",
+      "summary": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Alerta contra sarampo: vacina é a forma de prevenção conhecida contra a doença&nbsp;&nbsp;G1Quase 70% dos municípios do RS estão abaixo da meta de vacinação contra sarampo&nbsp;&nbsp;GZHMS tem 24 casos suspeitos de sarampo e 1 em investigação&nbsp;&nbsp;Campo Grande NewsBaixa cobertura vacinal mantém Brasil em alerta para o sarampo&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "G1",
@@ -474,10 +438,22 @@
       ]
     },
     {
+      "id": "938c7996b8ee",
+      "title": "Primata peçonhento volta a ser registrado cientificamente após quase um século - Folha de S.Paulo",
+      "published": "2026-10-21T09:00:00+00:00",
+      "summary": "Primata peçonhento volta a ser registrado cientificamente após quase um século&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnY5NlZpVmVHeXduQnVfaFUzZ0ZlcGx0UjJ4NG1JZlNFRjNwNGRKMVpucHJzUHpGWFNYbFM1Vm5Ra1lZeGNEeE16aHE4bVdWbDJ6OHJyRW1FWU1Sdm9GanpoSU1Cb0dQRlRUNVJoZkpqeWU4cTJKS0ROZmdzOTBrR0F0VkJkb1VfcHllU19FcXNjb21teXk5RjBMVm52dGlaVmstbWdzR3FLU25CVVRXTUoxblpualJEMU84eHNSOEoydEU4a3BBMjN3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6c8cc773039d",
       "title": "Menopausa: por que médicos dizem que o medo da terapia hormonal é maior que o risco real - BBC",
       "published": "2026-10-20T10:35:43+00:00",
-      "summary": "Menopausa: por que médicos dizem que o medo da terapia hormonal é maior que o risco real&nbsp;&nbsp;BBCCalor na menopausa: por que o corpo parece “esquentar do nada”?&nbsp;&nbsp;CartaCapitalOpinião | Existe idade ideal para começar a terapia hormonal da menopausa? Veja o que dizem os especialistas&nbsp;&nbsp;EstadãoReposição hormonal na menopausa exige avaliação médica e cuidados individuais&nbsp;&nbsp;O GLOBONa menopausa? Eis como combater os afrontamentos, segundo os especialistas&nbsp;&nbsp;V",
+      "summary": "Menopausa: por que médicos dizem que o medo da terapia hormonal é maior que o risco real&nbsp;&nbsp;BBCCalor na menopausa: por que o corpo parece “esquentar do nada”?&nbsp;&nbsp;CartaCapitalOpinião | Existe idade ideal para começar a terapia hormonal da menopausa? Veja o que dizem os especialistas&nbsp;&nbsp;EstadãoNa menopausa? Eis como combater os afrontamentos, segundo os especialistas&nbsp;&nbsp;Vogue.ptReposição hormonal na menopausa exige avaliação médica e cuidados individuais&nbsp;&nbsp;",
       "sources": [
         {
           "name": "BBC",
