@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-24T20:24:32.238067+00:00",
-  "total_fetched": 95,
-  "unique_count": 95,
-  "health_related_count": 38,
+  "fetched_at": "2026-10-25T03:41:56.493472+00:00",
+  "total_fetched": 94,
+  "unique_count": 94,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "3518c9a9cc3f",
+      "title": "O que as últimas pesquisas indicam para o resultado neste domingo, segundo modelo estatístico - Estadão",
+      "published": "2026-10-24T23:46:58+00:00",
+      "summary": "O que as últimas pesquisas indicam para o resultado neste domingo, segundo modelo estatístico&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeXpKcVBFTmN0bDNvdnEzZ2JkY0M0M0hzQm1CSUdnSmZrekNFWklMa0J6Y3QycWlJZVJVcWNNWmRsVFNNQmw2UmRTSXk1UmZ1Zy1nWTZETnQyenhZUk84R09TRDRjb1RBTlM2TWRpM3VPbmYtNmRURnd3Q1RPN3U0OS10MURjd3MzbVBjSmFhREgxRjc5VXZKeFVObDd1alE4anRpcVJKRDFueXRnVWtrYXZDVk9oM2dfV0p4VUphTlhHRWQ1WTRvTGtUVkRLYkJXcE9rLdIB2gFBVV95cUxOYjZxTVE2RHNsQ1NBTUdDOXVvZmNkcE1yQm51VnR0bUhKYzlNZmJVbnprOS1neThyVFlZeE9EMlNLQm5ETC1TUGV0MlNpd0hiYTBucDNsRWdiV2Y5V19KTjdtSUVZRzJDNWp2RElGXy1OanJGTmhlVDZhSGU4RFljMFhGNHBEeTkwNkxsa29EU3JuYmdvZlU5WEVvam9KMkVPS2p3TDZjNk1NbzlhVHc1NndBa0txc3QzLTZCdEJmRW1wbExUMDZ0RXVfTV9PLVBFeWJJalJYRHp1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "336b41a8c1a5",
+      "title": "Estudo sobre reencarnação encontra padrão inesperado - DW.com",
+      "published": "2026-10-24T21:42:42+00:00",
+      "summary": "Estudo sobre reencarnação encontra padrão inesperado&nbsp;&nbsp;DW.com",
+      "sources": [
+        {
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMG1TcXdDMDZtMXUwdFVSVGh4Z0dTNko5bG9fZ3hxQU41ZGplaVZmTkNzRjY5SGFlLXNBbVpZS1RqNUU4NzRRWnQ2bFJqUEpXU01YeHlXY1FIek16eERLcVA0WU5acVVyZVU1cnFUanotNXRGZU4zQ2FYZ1BWVDRpMTNOSkxLSGU0Y0gydUd0X2Y5Yk5HcU5vcjU4am4tVHZLU09URDdoZE82QUVNRHBHS3NEY0hFWUXSAbcBQVVfeXFMTkdPQ05ncGY3dDlDU3FxSm5mVlhJcVhFTHU2Z0wzc2pEMnBhb3BKaGtkcGYwc3oxanQzamNuUjFMdDBBSW9GbzhGeWlISFN1dmc1T3hHUi1tT2FPUHFHZ3NfMzhFOUZHU1BvSVBvV3FnVjdJYzhUdVFqMmUtSDhDbTYzR2lybEJNcWQxWGEzdlB4RlZRRFFOcFhabEFkSnVsVk1oeTBqNzBZenJEMldhZFVlQ19yWjFZ?oc=5"
+        }
+      ]
+    },
     {
       "id": "15f9d323322e",
       "title": "Mulher de 86 anos morre após levar picada de mosquito: 'Ela não tinha problemas de saúde' - Jornal Correio",
@@ -18,26 +42,14 @@
       ]
     },
     {
-      "id": "3a60a44038ed",
-      "title": "Artrose no joelho: por que a atividade física continua recomendada mesmo com dor - Tua Saúde",
-      "published": "2026-10-24T16:03:30+00:00",
-      "summary": "Artrose no joelho: por que a atividade física continua recomendada mesmo com dor&nbsp;&nbsp;Tua Saúde",
+      "id": "93f106e68e7a",
+      "title": "República Democrática do Congo inicia teste de vacina contra ebola - Folha de S.Paulo",
+      "published": "2026-10-24T14:22:00+00:00",
+      "summary": "República Democrática do Congo inicia teste de vacina contra ebola&nbsp;&nbsp;Folha de S.PauloQuênia registra segunda morte por ebola - 24/10/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloQuênia registra segunda morte por ebola&nbsp;&nbsp;redeutv.com.br",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOF9QNWV1S2pOMDRYdGp3Zlp4VlZzbWlhMW1UR05nel8zWWZ6aWhSN1EzLXlGVlRQMlgtMGxHSjZKRDVZdHM1ZEg0RldJV0JRYTZHZjF1QmhaeDg2WHpoM2laSlhIdzM1cXh1NXlDdmZ1R0VlLUhwNVdBdW9vNWJvOWNnMlJiWC0zN2hIQ2xGSlRrNER2S0ozU3pMcFRaMW13WWdpdHdxSllWWEp2bi05clBpaVVNeHpMWGlteGRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb8efaff5059",
-      "title": "Colonizar Marte vai, literalmente, partir o nosso coração - Terra",
-      "published": "2026-10-24T11:43:00+00:00",
-      "summary": "Colonizar Marte vai, literalmente, partir o nosso coração&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPenZLZFhSUG9rVkltZy1UQmlfNVlGak9ncmZmQllnSjRKNVFHOUc1UTJzN01uN2wxMGtNVjQ3WWN3ZU9vLWtIZVdTTE1pOGJLRE5VdTViNl9rWTRqNmJjNDNSbE9TRW5RZnY0ZnNwLVY3U0hfVGlHWDNuNVAxTWluYi0tbE8tNTdrcWhwc2RMdmR5eEtqVzhhdWRTVUVvN2U1TGh1d0xnZjJ4bkxrMUtib3I0VkVFTThIeFE4TTRZaGtlNHhEY0t0ZGpING8xb3M?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR3JvVnNaQU9OenhUUUplZ0hLTU1DY19JYTdPYnQwZTNoMHdXV0xYSzVkb0RpZEs4RDZPUXo5dld2M0sybHJYNWYwcDM1MC1ZampsZHRUYmZ2cG0teWhURV9ZbnFCSWlwWDNKWEhqeDlOUHFfcG1OZ2FpYzh0VUphR2hjUl9aV1FQZXYycDh2RF8wZFZPbzdOUDZHdFVldE5MQ1VJb1J4bm1rNWhCbXVKMGxfMnV1YmZEY0w4eXJOc2hMN2RCV0E?oc=5"
         }
       ]
     },
@@ -93,7 +105,7 @@
       "id": "045877aeffb9",
       "title": "SUS detecta HPV de alto risco em 9,9 mil amostras e amplia teste que identifica o vírus antes do câncer - G1",
       "published": "2026-10-24T07:00:00+00:00",
-      "summary": "SUS detecta HPV de alto risco em 9,9 mil amostras e amplia teste que identifica o vírus antes do câncer&nbsp;&nbsp;G1Prazo para regularizar biometria de benefícios sociais termina em dezembro (31)&nbsp;&nbsp;Blog LondrinaNovo Papanicolau para mulheres; saiba o que mudou no exame&nbsp;&nbsp;Tribuna OnlineMaringá capacita profissionais de UBSs para novo exame de prevenção ao câncer do colo do útero&nbsp;&nbsp;Prefeitura do Município de MaringáAlém do Papanicolau: teste molecular de HPV previne cân",
+      "summary": "SUS detecta HPV de alto risco em 9,9 mil amostras e amplia teste que identifica o vírus antes do câncer&nbsp;&nbsp;G1Prazo para regularizar biometria de benefícios sociais termina em dezembro (31)&nbsp;&nbsp;Blog LondrinaNovo Papanicolau para mulheres; saiba o que mudou no exame&nbsp;&nbsp;Tribuna OnlineMaringá capacita profissionais de UBSs para novo exame de prevenção ao câncer do colo do útero&nbsp;&nbsp;Prefeitura do Município de MaringáExame que identifica HPV de alto risco passa a ser ofer",
       "sources": [
         {
           "name": "G1",
@@ -162,22 +174,10 @@
       ]
     },
     {
-      "id": "db157b3a8ea7",
-      "title": "Como funciona a vacina contra o câncer que reduz risco de recidiva ou morte por melanoma - Folha de S.Paulo",
-      "published": "2026-10-23T21:01:00+00:00",
-      "summary": "Como funciona a vacina contra o câncer que reduz risco de recidiva ou morte por melanoma&nbsp;&nbsp;Folha de S.PauloVacina de mRNA contra câncer reduz em 42% risco de morte ou volta do melanoma&nbsp;&nbsp;G1‘Um avanço histórico’: vacina personalizada reduz recorrência de câncer de pele agressivo em 42%&nbsp;&nbsp;VEJAEm meio a tantas notícias ruins, uma razão para ter esperança&nbsp;&nbsp;R7Vacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027&nbsp;&nbsp;InfoMoney",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSDNzZFZMTVlqOGpGR3hsYllIdlhsMmpEbkFQX2lWa0FHTGtVT1VtWVhpU212ZnpIMENKWDVqRFRoZUs0bDVaM3diN0xBVXA3ZHZQSE9tOGFCS2pkUDNzOW1GOFRzRkdXOGlLTXJCQkY3V0xKNUE2Tm9SZW1hdnRPWmRKbUV5bkJ1dmtlRVpsWjNfejIwWTZoalFIVUZEdmNUdmdiQmRKdW1BS0ktYjdSc05MZE9BMVlIbTBpWERLRS03ODVvTzJpQ3dWV2hoSjFMV3ltUzlFNFJSbVZOZHNIVzlMNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3a874df41b05",
       "title": "Câncer de mama em homens: preconceito dificulta a detecção precoce - Portal Drauzio Varella",
       "published": "2026-10-23T19:35:06+00:00",
-      "summary": "Câncer de mama em homens: preconceito dificulta a detecção precoce&nbsp;&nbsp;Portal Drauzio VarellaCâncer de mama masculino: Risco aumenta com a idade, explica especialista da Mayo Clinic&nbsp;&nbsp;Mayo Clinic News NetworkOutubro Rosa reforça alerta para o público masculino&nbsp;&nbsp;Jornal IbiáHomens também podem ter câncer de mama; saiba como identificar os sintomas&nbsp;&nbsp;D'Ponta NewsQual o papel do homem no Outubro Rosa?&nbsp;&nbsp;Lagoa Nerd",
+      "summary": "Câncer de mama em homens: preconceito dificulta a detecção precoce&nbsp;&nbsp;Portal Drauzio VarellaConsiderado feminino, esse câncer também atinge homens; veja sinais&nbsp;&nbsp;Primeira PáginaCâncer de mama masculino: Risco aumenta com a idade, explica especialista da Mayo Clinic&nbsp;&nbsp;Mayo Clinic News NetworkQual o papel do homem no Outubro Rosa?&nbsp;&nbsp;Lagoa NerdOutubro Rosa reforça alerta para o público masculino&nbsp;&nbsp;Jornal Ibiá",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -189,7 +189,7 @@
       "id": "a891161f858d",
       "title": "Um grande segredo para prevenir a perda de memória após os 60 anos? Cuidar dos netos, segundo estudo - O GLOBO",
       "published": "2026-10-23T18:35:25+00:00",
-      "summary": "Um grande segredo para prevenir a perda de memória após os 60 anos? Cuidar dos netos, segundo estudo&nbsp;&nbsp;O GLOBOA receita da memória afiada na velhice: netos, esporte e voluntariado&nbsp;&nbsp;InfoMoneyLeitura, música e jogos aproximam idosos do conhecimento sobre o cérebro&nbsp;&nbsp;Jornal da USPIdosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo&nbsp;&nbsp;Agência FAPESPEstimulação cognitiva: técnicas e exercícios terapêuticos para melhorar",
+      "summary": "Um grande segredo para prevenir a perda de memória após os 60 anos? Cuidar dos netos, segundo estudo&nbsp;&nbsp;O GLOBOExercícios ajudam idosos a envelhecer com saúde&nbsp;&nbsp;G1A receita da memória afiada na velhice: netos, esporte e voluntariado&nbsp;&nbsp;InfoMoneyLeitura, música e jogos aproximam idosos do conhecimento sobre o cérebro&nbsp;&nbsp;Jornal da USPIdosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo&nbsp;&nbsp;Agência FAPESP",
       "sources": [
         {
           "name": "O GLOBO",
@@ -210,14 +210,14 @@
       ]
     },
     {
-      "id": "4bae9bfb2933",
-      "title": "Desinformação faz com que só 5% das crianças sejam protegidas da covid - EBC - Empresa Brasil de Comunicação",
-      "published": "2026-10-23T17:53:00+00:00",
-      "summary": "Desinformação faz com que só 5% das crianças sejam protegidas da covid&nbsp;&nbsp;EBC - Empresa Brasil de ComunicaçãoEstudo lista 5 estratégias para aumentar as taxas de vacinação&nbsp;&nbsp;O LiberalCovid-19: Saúde renegocia prazos de entrega de vacinas pediátricas&nbsp;&nbsp;Portal EngeplusApenas 5% das crianças pequenas receberam as três doses da vacina contra a covid-19&nbsp;&nbsp;Jornal Tradição RegionalCovid-19 leva mais de 1,1 mil crianças à internação e causa 25 mortes em 2026&nbsp;&nbsp",
+      "id": "b263abc1eeed",
+      "title": "Vacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027 - InfoMoney",
+      "published": "2026-10-23T17:00:00+00:00",
+      "summary": "Vacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027&nbsp;&nbsp;InfoMoneyVacina de mRNA contra câncer reduz em 42% risco de morte ou volta do melanoma&nbsp;&nbsp;G1Como funciona a vacina contra o câncer que reduz risco de recidiva ou morte por melanoma&nbsp;&nbsp;Folha de S.Paulo‘Um avanço histórico’: vacina personalizada reduz recorrência de câncer de pele agressivo em 42%&nbsp;&nbsp;VEJAEm meio a tantas notícias ruins, uma razão para ter esperança&nbsp;&nbsp;R7",
       "sources": [
         {
-          "name": "EBC - Empresa Brasil de Comunicação",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0V6TG9TUTJWQ0N5NlVDZGl6bDhiQm8wdmV6dUVoWThiSDhuaHA2VzRiZ0ZUWWZxZThXSDFFeU9FOEJLbjdhdmFsU2pwZFZ6VlF5dkJMWU9BT05INExmQ1p0UHZwUWpyX1dvOU9zeDdfX2FFNzFxc013bUhHVXRVNE1zeDVSWEFoSFNfSjQ2N0xrcmR6azVUelNiaE02LTNfcUZEcWZlbmVPalRYZUc4U204VndLcmtTY0I2YzNJaklqUQ?oc=5"
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1acVdGbk42VFBoNWlidTVFSFc1WnNWNm03VWljWERvcW1nUUthekJwXzZmVzgzc2F4NVpQVTg4SnNmTFNySkRiZ0hzWFZoNmg3UkgtRTRMRks2QnhKS0x3SFlqcC0yb2FyUU9RcWpoWHhnemtDb0t1Q0p30gF_QVVfeXFMUGtTcWU4dE1kTDdvV2tPWWlRSHVPRWlTSnFTeWdCUGl5bDQxTExwOFdOd3ZOYmF6SDVDV0RpVDZvTG1NTmJfdXg3bEUzTVRGU29jQkVud1VPMDF3RjhHbENkbGpkTUxPcGZ2N1NaVDd1anIwTXJYVXFKWTFBT2N6dw?oc=5"
         }
       ]
     },
@@ -237,7 +237,7 @@
       "id": "286a7d956c53",
       "title": "Os 5 alimentos que causam aumento rápido do colesterol: 'Você deve evitá-los ao máximo', diz especialista - O GLOBO",
       "published": "2026-10-23T15:42:59+00:00",
-      "summary": "Os 5 alimentos que causam aumento rápido do colesterol: 'Você deve evitá-los ao máximo', diz especialista&nbsp;&nbsp;O GLOBOColesterol alto mesmo com alimentação saudável? Entenda por que isso acontece&nbsp;&nbsp;CartaCapitalColesterol: 4 mitos que podem colocar a saúde cardiovascular em risco&nbsp;&nbsp;TVBV ONLINEAlimentação saudável e colesterol alto? Entenda por que o problema pode não ser a sua dieta&nbsp;&nbsp;Terra",
+      "summary": "Os 5 alimentos que causam aumento rápido do colesterol: 'Você deve evitá-los ao máximo', diz especialista&nbsp;&nbsp;O GLOBOColesterol alto atinge 40% dos adultos brasileiros, mas maioria vive sem diagnóstico&nbsp;&nbsp;A TribunaColesterol: 4 mitos que podem colocar a saúde cardiovascular em risco&nbsp;&nbsp;TVBV ONLINEOs 5 fatores que elevam colesterol e não dependem da dieta&nbsp;&nbsp;Bons FluidosColesterol alto mesmo com alimentação saudável? Entenda por que isso acontece&nbsp;&nbsp;ACidade ",
       "sources": [
         {
           "name": "O GLOBO",
@@ -246,14 +246,14 @@
       ]
     },
     {
-      "id": "c18ec4ba5f4a",
-      "title": "Subir de 60 a 70 degraus por dia pode ajudar a proteger o coração - Folha de S.Paulo",
-      "published": "2026-10-23T15:00:00+00:00",
-      "summary": "Subir de 60 a 70 degraus por dia pode ajudar a proteger o coração&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "91b8a9da501c",
+      "title": "Gato virou autor de estudo de física por causa de erro de cientista - UOL Notícias",
+      "published": "2026-10-23T15:00:06+00:00",
+      "summary": "Gato virou autor de estudo de física por causa de erro de cientista&nbsp;&nbsp;UOL Notícias",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSElZOXAzc1lUTklSQ0pmMURWWHotYlllQm92azhMX0hseXlvYUxIeGVoeG85eDlDRFd4MDBST2xCOEpxQmtJWmptYV9XRXQteXZQLWx1SUw0anNtWWVER0MtRnZ4ekhhZy1RTU1CZlZsVjYyQTZzQzJaT1FuQWdQQV91aUpxZ2dTQzhyV2ltblpFVEJvMFNMN2pTSERTM08zVG4tZEU0S0o3LUcwczFmMi04dHZHUWJETUtGeVprMmZoZWV5?oc=5"
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcHlKUW1GMW80cXloTGJzalRCVl9rQi13a3NfOUduLWhfWThodU5aeGpfd0s3dDdWR3lEcGJjTjNiVWdNMHJIa3k1eVVfX3dlUHFnUnAwcWtmR044dHpUVVpjRmx1QjZlaDg3T3ZVY3FFaXlNTEY2MW5qYTFCRmZrSzJWS0c1OS1CY2wtbVZuNzBmazBMZzlOVGh2Um9TQndoWjBFSEhCX2Jod2ZqODJaeTNWNDJZSmI2bm1zVFBZa1RIVGFkeW1idGZLcDFraTVHbUpLZEtrc1gxZ1FFX0NzRk0xRzQ?oc=5"
         }
       ]
     },
@@ -318,62 +318,14 @@
       ]
     },
     {
-      "id": "1570c9881568",
-      "title": "Novo exame identifica quase 98% das lesões de tipo mais comum de câncer de rim - G1",
-      "published": "2026-10-23T07:00:00+00:00",
-      "summary": "Novo exame identifica quase 98% das lesões de tipo mais comum de câncer de rim&nbsp;&nbsp;G1Câncer de rim: sinais, diagnóstico e avanços no tratamento&nbsp;&nbsp;TerraNova técnica de exame detecta quase 98% das lesões de câncer de rim&nbsp;&nbsp;CNN BrasilCâncer de rim pode evoluir sem sintomas nas fases iniciais&nbsp;&nbsp;al1.com.brNovo exame detecta quase 98% das lesões do câncer de rim mais comum&nbsp;&nbsp;Folha de Curitiba",
+      "id": "314c3ce07de7",
+      "title": "Pesquisador de Maringá vence desafio de empresa de Mark Zuckerberg e ganha prêmio de US$ 18 mil - GMC Online",
+      "published": "2026-10-22T14:41:00+00:00",
+      "summary": "Pesquisador de Maringá vence desafio de empresa de Mark Zuckerberg e ganha prêmio de US$ 18 mil&nbsp;&nbsp;GMC Online",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEJ1aEhaS0dZQnhhUVV1THlwang2Yk5qaDdaa1VGY19wakZwWURXSFI1ck1kUW1fMDhMY01HM09XMGREUmRjWlFPV1FQdE9BSXg2TGxZT3M5ZUdVY3FlQ2s5MzV5cURSa2hTUGV3b19LUC0tMkdWaW9mYW1rX2dQNW1faDBaSlBJdGRMMTQzVkpNUVpfU1UxdzVkUmU3c0JCb2tEbzdQOGdkNW1ldklRaTZHTGUyZG5zd2dReVRUc0hWdkVHSjAwUUJsN1o2bjM0ZXfSAeABQVVfeXFMTVNxdHMyVk1RNXdFdDBLaFA5dURabFhOVWk0b0RWbTZESHV3TVJheXc4RDBZUlFGOTR5SmZKeldfOVptYlEycTNid2M2bGhsMlNXc1JXeFBud1BISmdEZms1SEtWZThTNURqTG5HRFljdlRaVV9qUlV4U3A0ZEE1TDZvRWNyQkRTQ2VXeC1rVUJFTXpIOEVSM3hfQ2ZqU1pMejA1dzc5Mk1QaGdHZ21xMV8yTXFINjJ2R2RrcjN3d01KZks2RU43OEVrQTNRWDFwWkQzLURnMzNMNXhCcnlRdkc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab133fac5265",
-      "title": "Sistema com realidade virtual e IA aprimora detecção de declínio cognitivo - Agência FAPESP",
-      "published": "2026-10-23T03:04:01+00:00",
-      "summary": "Sistema com realidade virtual e IA aprimora detecção de declínio cognitivo&nbsp;&nbsp;Agência FAPESP",
-      "sources": [
-        {
-          "name": "Agência FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMTFZdVhONWlEaWVBQUY2c2c2TWM5cG9OZElPbk80ajhYekZ4cVhEa2lEckZZSDQ3LVU5X3JFRWRHQ3lCSUg2eUk4eDRHUEtycDVOakN1bHA2RTRLamZWNWQ3WDJ2N0pDUkJPT0ZiOWw2ZkZpQS03OHpyRkFXVmxXTnVIcUw5dkF2OGlUY1FldkRMS1p3U1VOd0pOS3J1d3JkaWoyNC1sTkJfZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1cfd69a5169",
-      "title": "Estudo abre novas perspectivas para o tratamento do câncer de mama - FAPERJ",
-      "published": "2026-10-23T00:05:33+00:00",
-      "summary": "Estudo abre novas perspectivas para o tratamento do câncer de mama&nbsp;&nbsp;FAPERJ",
-      "sources": [
-        {
-          "name": "FAPERJ",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoUHhsc0xCcGplWkNQdkpnb1o5WWtLZmZOVU1LeW1CQVJzczMwZkE0UTJCb3ZyVERyZHEwVjVUUUxaRUJoTVQwZHNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a04ec4c4490e",
-      "title": "Avanço da IA pressiona pesquisadores de matemática avançada - CNN Brasil",
-      "published": "2026-10-22T21:06:29+00:00",
-      "summary": "Avanço da IA pressiona pesquisadores de matemática avançada&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaGN3ZVNyYnVrNzc2M2huWVdVbWpxdFNiSDlDX2JncE51MWFXa3E4a3pRSThSU0p4QW9nWFQ2TllPN1VtcEtlbkNpZXFhYmlTQXllMWNnMExuWTFndkljbVVkMnFIanREcFo5amF0QlJBdTdFVmhyR3JTTy1GSDZuY3JmeTRLemRqZkhkWVV2aEVYX2RseHRpQmZxbFNsR0VlNkZEcWlyLUFHMEdIUS03dldZbVBSV2FHVEdFUk9GNTcxd2haMGVF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b92c9cfd1577",
-      "title": "UFS tem sete pesquisadores em lista dos cientistas mais influentes do mundo; veja nomes - G1",
-      "published": "2026-10-22T20:29:51+00:00",
-      "summary": "UFS tem sete pesquisadores em lista dos cientistas mais influentes do mundo; veja nomes&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTm9HUEZJOG1RenJvNEpEaUJBazNJNXN6V1NfaGhrMW5UTVlWTGZnekpsa1VqbURVN2hXYmp1a0RMMDE2aUJBNDBWd212bXFldzJJcnJZdVNMd25fNzFZT3VfZEh0b0RJSDIySjR5SGo0R29ld3R4RGQtQmZPVGxDb2tLOTU0NUxLalYzbDNaSDJab2RVTU5pN0tSRm9XdGZ5RjlyclJUNDhTbWppWDZRdUhiS3BwRzhVeFRPMnVlS2ZCc3RmcV94LTJRdFFRYmk2Vm5jZGJCRjQ5N0nSAeoBQVVfeXFMUERPSzBLbFpwa2hSbmxVRWlVQS1aWmYxMjJ0NHg5TjdaakdEQTdvLUVORXo3amtrLS13bTc3c2d0MElOa0Y5OHBNd0pweGM2WlFnX3k2akNHa2JsejYtTFhuSU42X2RsWGdyNXlsTUxZMVR1dHhnajhIV1FzbUtrTmc3MmQ0cnlMN2puVEJxLThGT2VuOXlHamZWODhjanFlUm91VnJDcENTQnZXOVJZZU5OV1Z6b1h0VzF4LVJYVVEyVTg2YnhLRWFhZEUyYVRDb1hrZnVqNFJ5cGIwdmNpLVo5dHRFclBNS21R?oc=5"
+          "name": "GMC Online",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSGFwengzUTZscm5DZThpNDVsOEpPa1RFWk5qWWwycDR0UWYxbTYyVXVRMTlFeWs3dk1NTHE1Wl8teF81OHlOZ0dvaXNvZXRNRy1tb2stMTBvXzlBamtNNGRGM3dZNnZSdmg4QkxjcTc4QnZQejJtZC1qUHpfOGlQbHhuZHJ0U1pITXJya2tNYjhfaEdNVzFWYUYwbzl5SDRaU1FnTklLNXhWcU94TFcxM1N5V09rajA5QnhJWGdKRmtHZnJ0ZldhWlZpV0t0djlKMmfSAdcBQVVfeXFMTl92ZGhJMGFUbVpiYXR2U2hicGRQT3hsY3E0Mm1ENlcydDRsWEV2eUdqWDNzS1ltMTlTSE54LU90TVBGaU45YV91aU9ZaGk4SldSbll3Uzd3Y0pIWEV2VjFWNm9FSG5xMUR6ZWRSZ3kwVDVTSkxBeXdxT2lYQXZKSHdZU3c1U3hneUNuVldUcE80ZjFLbmd5VjY1LXJqMVJGZmNOYmRaQVdudklpVlNRVlNzY0ZFZnRkR2FsMWlZanNDNjhENVVyLWJNMG0zMFVJdUdFeW1FaVk?oc=5"
         }
       ]
     },
@@ -405,7 +357,7 @@
       "id": "afe5d2a080fd",
       "title": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam - G1",
       "published": "2026-10-22T05:00:00+00:00",
-      "summary": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Alerta contra sarampo: vacina é a forma de prevenção conhecida contra a doença&nbsp;&nbsp;G1Quase 70% dos municípios do RS estão abaixo da meta de vacinação contra sarampo&nbsp;&nbsp;GZHMS tem 24 casos suspeitos de sarampo e 1 em investigação&nbsp;&nbsp;Campo Grande NewsBaixa cobertura vacinal mantém Brasil em alerta para o sarampo&nbsp;&nbsp;Correio Braziliense",
+      "summary": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Alerta contra sarampo: vacina é a forma de prevenção conhecida contra a doença&nbsp;&nbsp;G1Quase 70% dos municípios do RS estão abaixo da meta de vacinação contra sarampo&nbsp;&nbsp;GZHMS tem 24 casos suspeitos de sarampo e 1 em investigação&nbsp;&nbsp;Campo Grande NewsSurto de sarampo: autoridades dos EUA relatam mais 178 casos da doença&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "G1",
@@ -417,7 +369,7 @@
       "id": "5f6c7daa63dc",
       "title": "John Cryan, neurobiólogo: \"Temos evidências de que o café, com ou sem cafeína, transforma a microbiota e melhora a saúde mental e cognitiva.\" - Minha Vida Saúde",
       "published": "2026-10-22T00:05:06+00:00",
-      "summary": "John Cryan, neurobiólogo: \"Temos evidências de que o café, com ou sem cafeína, transforma a microbiota e melhora a saúde mental e cognitiva.\"&nbsp;&nbsp;Minha Vida SaúdeJohn Cryan, neurobiologista: \"Temos evidências de que o café, seja com cafeína ou descafeinado, altera a microbiota e melhora a saúde mental e cognitiva\"&nbsp;&nbsp;National Geographic PortugalConsumo moderado de café pode fazer parte de uma alimentação favorável ao coração&nbsp;&nbsp;TerraTomar café todos os dias pode criar tole",
+      "summary": "John Cryan, neurobiólogo: \"Temos evidências de que o café, com ou sem cafeína, transforma a microbiota e melhora a saúde mental e cognitiva.\"&nbsp;&nbsp;Minha Vida SaúdeConsumo moderado de café pode fazer parte de uma alimentação favorável ao coração&nbsp;&nbsp;TerraJohn Cryan, neurobiologista: \"Temos evidências de que o café, seja com cafeína ou descafeinado, altera a microbiota e melhora a saúde mental e cognitiva\"&nbsp;&nbsp;National Geographic PortugalTomar café todos os dias pode criar tole",
       "sources": [
         {
           "name": "Minha Vida Saúde",
@@ -434,18 +386,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWlQcmFlOERQaUpjVXlrdnpZWXAtc3hfMWdua21nWWNscmcySnY1RTRvZHhITHFEd0UwYVZ6OVE0QnI2SkFuMDNfLXJ5TGtmNVh4b1VQU3VMaTVCeTBqQmV6bnhScEdjYnpUSHZrZ1V1aDl0LTFsTXBuZXNkSGFMS0NlSm5kZ01GTkxhb3d0aFRlUUNrMlBRT2czSGZwZHNMUHJwRWI1dEtDZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "938c7996b8ee",
-      "title": "Primata peçonhento volta a ser registrado cientificamente após quase um século - Folha de S.Paulo",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "Primata peçonhento volta a ser registrado cientificamente após quase um século&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnY5NlZpVmVHeXduQnVfaFUzZ0ZlcGx0UjJ4NG1JZlNFRjNwNGRKMVpucHJzUHpGWFNYbFM1Vm5Ra1lZeGNEeE16aHE4bVdWbDJ6OHJyRW1FWU1Sdm9GanpoSU1Cb0dQRlRUNVJoZkpqeWU4cTJKS0ROZmdzOTBrR0F0VkJkb1VfcHllU19FcXNjb21teXk5RjBMVm52dGlaVmstbWdzR3FLU25CVVRXTUoxblpualJEMU84eHNSOEoydEU4a3BBMjN3?oc=5"
         }
       ]
     },
