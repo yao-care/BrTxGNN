@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-25T20:30:42.737129+00:00",
-  "total_fetched": 91,
-  "unique_count": 90,
-  "health_related_count": 33,
+  "fetched_at": "2026-10-26T03:45:13.906575+00:00",
+  "total_fetched": 88,
+  "unique_count": 86,
+  "health_related_count": 29,
   "news": [
     {
       "id": "be2e34f11aa7",
@@ -18,14 +18,26 @@
       ]
     },
     {
-      "id": "8c837d44b5ad",
-      "title": "Mudanças climáticas já causam aumento de doenças infecciosas no Brasil - UOL Notícias",
-      "published": "2026-10-25T15:36:41+00:00",
-      "summary": "Mudanças climáticas já causam aumento de doenças infecciosas no Brasil&nbsp;&nbsp;UOL NotíciasClima favorece avanço da dengue no Brasil&nbsp;&nbsp;Hojemais.com.brMudanças climáticas já levam ao aumento de doenças infecciosas&nbsp;&nbsp;Muvuca PopularCalor fora do normal está ligado a 22% mais internações por infecção intestinal&nbsp;&nbsp;Revista Ana MariaDengue em nível epidêmico já atinge 292 microrregiões, o dobro de 2006, mostra Fiocruz&nbsp;&nbsp;soubrasilia.com",
+      "id": "1e94b1962c5d",
+      "title": "Mudanças climáticas ampliam doenças infecciosas no Brasil - Campo Grande News",
+      "published": "2026-10-25T18:34:00+00:00",
+      "summary": "Mudanças climáticas ampliam doenças infecciosas no Brasil&nbsp;&nbsp;Campo Grande News",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbzgwMG9rTmxQN1VPb25zaGRhMDVHT2Z5X2VQUmoxY2FJX3M3blVsYm9NaFhQNEVqM1NPSXFZazcwM2xUd2wxVEx3QThvTURieUd6WGcyZjlNWWJFTWdFdnp2cFpQMTZhcklDTmVjVThXM3JRZWYtU1ROMHZSY0dpTVBWTVFUajVuYUVrSjU1YWx0RnhqMjRxdC1ETl9tMWRMS2MxVHMwSjZFY0Y2M1BPd3dfSmRQWnc4N2JLc24zMGhxMTR1UU5jbDBfY2N2TlpkMTE0?oc=5"
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0dkX2ROOF90ZmRjeWpNMGhKUjBXaGJuZTF4bWZkY0R0bU9KekhocnNiSUpBdHd3Um51S0EySDRnb0xQdWJHSy1haXpjNG5CX1p6Z1Y5dG1FX3RmUWdidDJfYV90OEV5SXRiMVlrOS12aGVtbUNzeTNtaXdTM3N0Q2RrUzZKY3RWNGdVOUhNZ05SMjR6emtDVVBEdnZQM2ROZUNSeFpReDY5eEVHa1lYZUxWTWo1VGNZVnfSAboBQVVfeXFMT1VRZE1oSGVmMU1LTXh1MXdVRW5qLXlxZzNFQXdOd05MVEFGNjBUanJkaUdtRUZwZDdxc3hxaUhwNjZzc0NqSDUxT3pPekN1MmxwXzRralRCNE5NaGt0bFBaRGt5OXJQRE1ZV3UxekxPZEFzNm5TaTZvVVhEandrT2dXWnc0LVVOTGpWRHd4dTFhb3J0ekxPU1I5LTVRU3hKZUJBVXgtanVxbTc4RmZ4Sk5XQmdKeU5CTllB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a5115f94be0",
+      "title": "Aspirina pode reduzir em 70% risco de demência em idosos, mas traz risco - Metrópoles",
+      "published": "2026-10-25T16:20:00+00:00",
+      "summary": "Aspirina pode reduzir em 70% risco de demência em idosos, mas traz risco&nbsp;&nbsp;MetrópolesCientistas apontam que aspirina pode reduzir demência&nbsp;&nbsp;DOLAspirina pode reduzir em 70% o risco de demência em idosos, mas também traz riscos&nbsp;&nbsp;PAIPEE -",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWJPajlCeEdoMXpoT1VSYmxpQWtaeXVEMzlxVzR1VkoyazlmV0hqNEk2bzhZTk1aWnN0ZkxHVml0RFVsbnRVd21uMHZWdkhESkhiMnpaSG1Ic1dsSFhUMFhNN0xWeEdKbmNSa05yX1FGazdTR2tzMThrU21VVzljR19YWkdJTjlZSy0tbjlZenlDdl9CMzlDSm9STnh0bDlYVldRZ1ZB?oc=5"
         }
       ]
     },
@@ -38,6 +50,42 @@
         {
           "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaDVDdXcxNjh2alpLRllqNVdYdy1oNC1Rd251b0F6MDJWZ0RPQ21yd0VmQmhIdGIyTUttN2pxY2V0bDBvSXJjOHVfakVWQ2VFb0djMWpaMUxLZ2pIdFd2aWFyY1pObV9FZmtTckVxMnI2SVRxbW9ZekVSeFVJNjVJYzJibGFfNEtxSmxiU3pMMjFuQkM4V01PSW5WV0NucElKaUlHYVVaNHJ6WmFvdk9jS2FSd2x4OXp6NmZxWGtmZVhOOF9ZdXF4UFJURUtaekpfdzlmU0xxOG0xTWRxeXfSAewBQVVfeXFMUGtLRG1OZHJ3NFY5djU4VFFBbXUxa0JSdHZyY1k0OThIQWFueW5JaGRGQndTblFaY1NHdkNsbnJOaHEtcnlmZ3dCY2xMZTc0ck4waURGSlBBaDVoRjBNQUppSEFKOEdfRXhHOENqSVFiSHAta2kzbkVFQUUzZVlaOFVUQ0FiaGJaZFM2dEoyNGhCMUp0RTRFTXVQMks2eHBOYmJtd3JsVHE4MnhzczEwQzZaVUJEcjg0Z2lHVkhqZG40eml6dTh6bC10TDg3UDRQRVVtMUtZVk1tNFlCeWhzdmRsNnV2ek1YTTZOX3E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e0f47fc1a6c4",
+      "title": "A matemática oculta nos gráficos de pesquisa - iG Último Segundo",
+      "published": "2026-10-25T15:00:00+00:00",
+      "summary": "A matemática oculta nos gráficos de pesquisa&nbsp;&nbsp;iG Último Segundo",
+      "sources": [
+        {
+          "name": "iG Último Segundo",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXpPSVRCUUJ4UVk3WnZJaDgtaWtIaG8zRzN6V19LTkVLek1NS2JSSVZMX2F6cDhlellwRGVKNlp2NkIzMFB4WWRaaC1tT0ltUjU1aG5sc21NSEtJcEc1MExwaUlVOHlRenhvYlBpQnVEc19YRjhlZjFFZDJqYkkzckQtX2RLZEg4Sk04VEhpRlI1TUVFR3hQcWJzRTJKSTdRSW9VY0VsUk1fMlNJQm9mTXRiSdIBuAFBVV95cUxOcWhKOUNtRTZuU0p0QmNqV0NLQkV6T21JOWc0SEczX3poMlVXRFF1TU9KZS1VSk9iZ0JpUUtlb3hfM1JFdF9OdmRoZWZGaHVoT3RQLWtHdVhpZzlLVWRsTE5kelIzNHlWUm9mQmVTcEktVkd3QU9NNzRDcXBFbHlEV1psQnRtTWtnVk95YTYyS3VhT0gwWDU1QUJyOWVxdDFnSmhBUWhfUU1VWnhXRlIzeDRsQ25Hanhp?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "87b6bcd2531a",
+      "title": "Subestimamos a ‘Geleira do Juízo Final’: estudo revela que derretimento na Antártica pode elevar nível do mar no dobro da velocidade - Xataka Brasil",
+      "published": "2026-10-25T13:02:11+00:00",
+      "summary": "Subestimamos a ‘Geleira do Juízo Final’: estudo revela que derretimento na Antártica pode elevar nível do mar no dobro da velocidade&nbsp;&nbsp;Xataka Brasil",
+      "sources": [
+        {
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT21qZFMwOE9Vb0hzMnZhY29kRmJaUklVMjhWTzhUOUxOT0lCYmlhRExJMUN4Vkx4NFJKOGdoSWo5WVJlN25LcFdNVlB1MVA2UDdGZXB3em9xbmxWQWxURTFBNWVYaHptTlp1eGx2YTU4NlpsdXRabDRoM3laVjZORUtNVnFCbEFEY0lzM2ZpaGFmYXlxc3EwQzJsTXlCWjB5dVkwMmdmWXdvRTFQcEV0ZzlEUmNady1rNWM0bUM2SDdsQV8xZlZxVjhkT1o1bkc1RHJqZkZtLTQwNUNVaXBkbWV6OGx0dGQwTThpdl9Wa1gxNlhqcmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "973d214a6721",
+      "title": "Mudanças climáticas já causam aumento de doenças infecciosas no país - Agência Brasil",
+      "published": "2026-10-25T12:06:00+00:00",
+      "summary": "Mudanças climáticas já causam aumento de doenças infecciosas no país&nbsp;&nbsp;Agência BrasilMudanças climáticas já causam aumento de doenças infecciosas no Brasil&nbsp;&nbsp;UOL NotíciasMudanças climáticas ampliam doenças infecciosas no Brasil&nbsp;&nbsp;Campo Grande NewsPrevisão do tempo: 'El Niño' acende alerta para incidência de Dengue&nbsp;&nbsp;G1Prefeitura de Caraguatatuba se prepara para El Niño com planejamento e prevenção na área da Saúde&nbsp;&nbsp;Prefeitura de Caraguatatuba",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQURmYWoyM2JjSXFMNE5BQnZvaUg0TXo5WW96REdINWZVNTdTcDdpNHFZYXNJOVFVNUI3TV9UeXVmckpCaGJWVTdnZ2ZROW5vLU1CcGVJc3pkd0l4WTRCSVpCVjRzVEhybmdtYXB2UUJkMjJBVm4xSm1KTTl2MUFmQUJQSHRKOWxxUDhhMk50LUZHWndIM0FpS2JHdWRCUDQxNm9EeXBwVmF3aERnbFFpbUliUEwwTi11eUp2cGF1YW8?oc=5"
         }
       ]
     },
@@ -93,7 +141,7 @@
       "id": "0760efbdaeb5",
       "title": "Vacinação global contra sarampo caiu após Covid, com aumento de casos e mortalidade em 2023 - Folha de S.Paulo",
       "published": "2026-10-25T07:00:00+00:00",
-      "summary": "Vacinação global contra sarampo caiu após Covid, com aumento de casos e mortalidade em 2023&nbsp;&nbsp;Folha de S.PauloQuase 70% dos municípios do RS estão abaixo da meta de vacinação contra sarampo&nbsp;&nbsp;GZHAlerta contra Sarampo: A vacina é a forma de prevenção conhecida contra a doença&nbsp;&nbsp;G1Surto de sarampo: autoridades dos EUA relatam mais 178 casos da doença&nbsp;&nbsp;MetrópolesCampanha para intensificar vacinação contra sarampo segue até 29 de outubro&nbsp;&nbsp;Terra",
+      "summary": "Vacinação global contra sarampo caiu após Covid, com aumento de casos e mortalidade em 2023&nbsp;&nbsp;Folha de S.PauloQuase 70% dos municípios do RS estão abaixo da meta de vacinação contra sarampo&nbsp;&nbsp;Diário GaúchoSarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Surto de sarampo: autoridades dos EUA relatam mais 178 casos da doença&nbsp;&nbsp;MetrópolesAlerta contra Sarampo: A vacina é a forma de prevenção conhecida contra a d",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -102,21 +150,9 @@
       ]
     },
     {
-      "id": "3518c9a9cc3f",
-      "title": "O que as últimas pesquisas indicam para o resultado neste domingo, segundo modelo estatístico - Estadão",
-      "published": "2026-10-24T23:46:58+00:00",
-      "summary": "O que as últimas pesquisas indicam para o resultado neste domingo, segundo modelo estatístico&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeXpKcVBFTmN0bDNvdnEzZ2JkY0M0M0hzQm1CSUdnSmZrekNFWklMa0J6Y3QycWlJZVJVcWNNWmRsVFNNQmw2UmRTSXk1UmZ1Zy1nWTZETnQyenhZUk84R09TRDRjb1RBTlM2TWRpM3VPbmYtNmRURnd3Q1RPN3U0OS10MURjd3MzbVBjSmFhREgxRjc5VXZKeFVObDd1alE4anRpcVJKRDFueXRnVWtrYXZDVk9oM2dfV0p4VUphTlhHRWQ1WTRvTGtUVkRLYkJXcE9rLdIB2gFBVV95cUxOYjZxTVE2RHNsQ1NBTUdDOXVvZmNkcE1yQm51VnR0bUhKYzlNZmJVbnprOS1neThyVFlZeE9EMlNLQm5ETC1TUGV0MlNpd0hiYTBucDNsRWdiV2Y5V19KTjdtSUVZRzJDNWp2RElGXy1OanJGTmhlVDZhSGU4RFljMFhGNHBEeTkwNkxsa29EU3JuYmdvZlU5WEVvam9KMkVPS2p3TDZjNk1NbzlhVHc1NndBa0txc3QzLTZCdEJmRW1wbExUMDZ0RXVfTV9PLVBFeWJJalJYRHp1UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "336b41a8c1a5",
       "title": "Estudo sobre reencarnação encontra padrão inesperado - DW.com",
-      "published": "2026-10-24T21:42:42+00:00",
+      "published": "2026-10-24T21:46:33+00:00",
       "summary": "Estudo sobre reencarnação encontra padrão inesperado&nbsp;&nbsp;DW.com",
       "sources": [
         {
@@ -146,18 +182,6 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjdmRTdZREc3bGNWVVB0UGxTMURucjkzSG05aXAwal9ibTc4N0hWek1OTVJ3ZVc3MlRsU0JQY2JVbEZITHVteWx3YWtXaVlST0l2bi1RVEtIeVNqZllwd1FUOHpLX1l4UFBJOFR5Y3RZSDZ6YkZBbGxvZTFMcE1ySkJfSllXR3JkZHBxUFVVOTFBakxLV1I0ZjU2MnA5Wk1kU1R0eFBfRzV4b2FxWVpHWUlid3QxcUlmRjdjX2NBTkYtWmJSRjlEeVkwOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a60a44038ed",
-      "title": "Artrose no joelho: por que a atividade física continua recomendada mesmo com dor - Tua Saúde",
-      "published": "2026-10-24T16:03:30+00:00",
-      "summary": "Artrose no joelho: por que a atividade física continua recomendada mesmo com dor&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOF9QNWV1S2pOMDRYdGp3Zlp4VlZzbWlhMW1UR05nel8zWWZ6aWhSN1EzLXlGVlRQMlgtMGxHSjZKRDVZdHM1ZEg0RldJV0JRYTZHZjF1QmhaeDg2WHpoM2laSlhIdzM1cXh1NXlDdmZ1R0VlLUhwNVdBdW9vNWJvOWNnMlJiWC0zN2hIQ2xGSlRrNER2S0ozU3pMcFRaMW13WWdpdHdxSllWWEp2bi05clBpaVVNeHpMWGlteGRn?oc=5"
         }
       ]
     },
@@ -210,30 +234,6 @@
       ]
     },
     {
-      "id": "67e3076cac08",
-      "title": "Vacinas protegem cérebro e saúde de idosos - Extra online",
-      "published": "2026-10-24T07:00:00+00:00",
-      "summary": "Vacinas protegem cérebro e saúde de idosos&nbsp;&nbsp;Extra online",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSzdTZkhxZXg5Snp4dDZyV3U4WFpjS1BXX1o3U2RESmxXaUlHSDR5YXpaTldlYVV4N0VPdlcwMkhSYXJWQ2RrcTY2QnJldE9jYWwxcXBsT0ExaF9lTVFZZFJsdk5LRzU2Z0k5S2dVYjJCbVR1a01WbVB0TzF5M2RUVG1IVmlDQTlrY1FyNkp3Ry1XdWxEYmNLMW9mMzVZZDI0QUhKTXQ1YVBuZWvSAboBQVVfeXFMUHhmTzJ5UFJSTHJVeVpnckplTE80TGQ0S1RjXzVrN3R6MjZCdDk5OE03NVpkRnNVLVRZeG1tTnplVGNZZzBLVFV5R1RtaHRRVG5aZE0wdEY2NENCZkJyQWRoZmpZeWw0MGhQQVJiQW54SUVIVEJnY2x3bmVoa296blJPb19pV21mMUhRWXhUUDRyU0dpMWxjTkNycEh2N0ZtNE9aeHMweXo2VGp0UVZxSy15QjFOcDBYU1dn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68a0696ef4ed",
-      "title": "Cinco mitos sobre a obesidade que podem atrapalhar a luta contra a balança; confira - O GLOBO",
-      "published": "2026-10-24T07:00:00+00:00",
-      "summary": "Cinco mitos sobre a obesidade que podem atrapalhar a luta contra a balança; confira&nbsp;&nbsp;O GLOBOCinco mitos sobre obesidade que podem dificultar o tratamento&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUlA3OVpFRl92MWlSVmpMaFF0c190OGlzRDlQb0tHbVNVV1M1SWhKTmtUbGhCMUtrMGRoLXEwcnZVX2FTRWpjbXVWU0NTSEV1ZmZreGlRYzE5RmFTQmFnVEFYS1BiUDluSVg3T1ZBYmIwNHhwTkNWdFQycldhYTctNDR6MDl1a0J3Q21YalVIZlBkLTQtNThWWTk4SnBVODVkWWpxVHhUd085bktLckV3X3MyUmVrWEZJdmpHTFo0a05POEJzbTNSLVlkWkxTNEx0UDdGTdIB4wFBVV95cUxOZ0ExZlVqNm5xZFp6RkZERFNwaG4tdERZSVhpVGRpYVI3UnN2S1NrczY2UFlLMHdZXy12TWhHcGd5MU51QXJCdEhsYmNDaXVUVHJRZDB4SkVrdlg2WEhXWWQxcV9lYXd6cjlfU1lmVk4yTUFqU3BYSkgzMG9jeDNpLW0yQVN0QVBER0pRQ0s0OVo1NXl0ZE9RaXFwOVFfa3lHZFRwTU9rS3FzdDlnTUtvMFBpOTY3WGdBOW50dkVSdVl3UTk1bGdmT2dqN21rQ0ViWUpuSnVnUkNxeUJsMG5RNDlVWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c7b7e23210cf",
       "title": "Menopausa ou doença reumatológica? Entenda quando dores nas articulações são sinal de alerta - G1",
       "published": "2026-10-24T07:00:00+00:00",
@@ -249,7 +249,7 @@
       "id": "5d5838e1be90",
       "title": "Dieta ruim está ligada a câncer de intestino que causou morte de Lua Blanco - Metrópoles",
       "published": "2026-10-24T05:00:00+00:00",
-      "summary": "Dieta ruim está ligada a câncer de intestino que causou morte de Lua Blanco&nbsp;&nbsp;MetrópolesMortes por câncer colorretal, como o de Lua Blanco, devem aumentar em 36% até 2040, estima estudo&nbsp;&nbsp;O GLOBOCâncer de intestino: sintomas que não devem ser ignorados&nbsp;&nbsp;Campo Grande NewsCâncer de intestino é o terceiro tipo mais frequente no Amazonas; saiba reconhecer os sinais&nbsp;&nbsp;R7Muito frequente, câncer de intestino pode não apresentar sintomas&nbsp;&nbsp;Agência Brasil",
+      "summary": "Dieta ruim está ligada a câncer de intestino que causou morte de Lua Blanco&nbsp;&nbsp;MetrópolesMortes por câncer colorretal, como o de Lua Blanco, devem aumentar em 36% até 2040, estima estudo&nbsp;&nbsp;O GLOBOCâncer de intestino: sintomas que não devem ser ignorados&nbsp;&nbsp;Campo Grande NewsCâncer de intestino é o terceiro tipo mais frequente no Amazonas; saiba reconhecer os sinais&nbsp;&nbsp;R7Câncer de intestino: por que a colonoscopia é chave no diagnóstico precoce&nbsp;&nbsp;Tribuna d",
       "sources": [
         {
           "name": "Metrópoles",
@@ -270,18 +270,6 @@
       ]
     },
     {
-      "id": "3a874df41b05",
-      "title": "Câncer de mama em homens: preconceito dificulta a detecção precoce - Portal Drauzio Varella",
-      "published": "2026-10-23T19:35:06+00:00",
-      "summary": "Câncer de mama em homens: preconceito dificulta a detecção precoce&nbsp;&nbsp;Portal Drauzio VarellaConsiderado feminino, esse câncer também atinge homens; veja sinais&nbsp;&nbsp;Primeira PáginaCâncer de mama masculino: Risco aumenta com a idade, explica especialista da Mayo Clinic&nbsp;&nbsp;Mayo Clinic News NetworkQual o papel do homem no Outubro Rosa?&nbsp;&nbsp;Lagoa NerdOutubro Rosa reforça alerta para o público masculino&nbsp;&nbsp;Jornal Ibiá",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTlVabHFHMmdYUlBxYjdpb3VZdGNXZ3AyQlVod2UzQmMzVl9Od3paSG9OTUtGOHByOXQ0Y0tidEROREJXdVotWm5mTW9ZZVV4cE15aFVuYlVGMUlLSG42UnNJdC1NM0tnUUxZM3NqYzR1S3BGWHZ4QmpVNEMwcE5PeFU1TU9TS2EwLXkzcDJlSWJDQzdIblg3VS1iRk1oN2hBX3VCN21PbzZrY2tNUmV3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "621d33712542",
       "title": "Vazamento químico em laboratório de faculdade mobiliza Bombeiros em BH - G1",
       "published": "2026-10-23T18:35:17+00:00",
@@ -290,30 +278,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUjRJTFpLMG5CMnBKZ3NGb3pXcElacVhnVVZzOXUxQ1lpdy1FaUQyanVsWkkxNTduRVVIcmpXLVlqUTR0Ml9qemRWQ1B3LVBfLTdQOUZ0TnplaURuLUtyaHZBNHRzaGFvVnN2VlR1Q1RPV0VVcUo2RnFRdnhnX2VzV2FCdklZQWpkR2N1YnhHZTV4ekhVYTVBN2FfcFEwRmg4QUF6WENkWU10QkNORkFsSFJlZUsta19wOEM4UlM5eENRXzhOVlhKd3pTMlfSAdsBQVVfeXFMUF9peTQzTlNlcW0wMFhBUjkzamlGRnRQUlpjWlplamVUMXFCNUh5Z00wSkxldHZ2YnItc1A0NktaU1lpczR2THFTdzNvYzZUaW83VEhLVEVjU3NHRERvTEpnallHZWFqOWxSOC14WDdmcnNYbjFiSUE4TkVCWjR4aVpzNWVaajBxMldqcnBEUTZvbHI2WGtLQ3VJYUVEN0JJSWNKU0tLOWJUU2dReEVYeGVEdlVjRnhINFNVaXNLb2s5VC1oUHU1M3l5VU9HWEJ0VW16WTZfWGkwZXRr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1b66cc9c9d4",
-      "title": "Estudo liga melatonina a risco 89% maior de insuficiência cardíaca - Metrópoles",
-      "published": "2026-10-23T16:06:00+00:00",
-      "summary": "Estudo liga melatonina a risco 89% maior de insuficiência cardíaca&nbsp;&nbsp;MetrópolesMelatonina é associada a aumento de 89% no risco cardíaco; entenda&nbsp;&nbsp;DOL",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUzVlb1p2SHhDNWhzMXhXMU9USURIZVZDZTNIRW5pSU92bXVYblpmVm9DUnowNVlYUi1La2VLMnNVTVVPaXM3U1U5WjkxNmVJTmJWc2dHa1VJZDlqNXo1THFhOUNaYVQzZms3SS0xM1VsajVncU5iRWpfTVhJRk5uYU9tTVJ5WGxmWkEyRndzbmJxR1JPUm54S0JFeW83WlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6d31b4c14bf",
-      "title": "A água-viva que desafia a morte pode inspirar tratamentos para doenças ligadas ao envelhecimento - Folha de S.Paulo",
-      "published": "2026-10-23T15:00:00+00:00",
-      "summary": "A água-viva que desafia a morte pode inspirar tratamentos para doenças ligadas ao envelhecimento&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUUNIdmozazVDTGRwTXJUeVRUcVU0VUNDLTBmdnNGc2laVUoxSmh5SS1qTW5zSnJ2dUhXbDlaazEtb2JhMFhXWHlfVlktbkFVZ1hOd2JXV2haZmNIaHd3UWVLbFU1bGQ0a3JNVGlscG1GbGtXOW1XYk1iQXNua0J1V0w0UHVHRTI3NC05WHNlV3RuWjNCaDhOZEFXT3d6RVJkZkFVbms2RkJtX3prQjFBUTYwTUhGQ1JtbUxLUlJjZk9CQWFkeGltcFc0dndBUTVIYVVhYVFEUWNUR3JCVEI4bG5R?oc=5"
         }
       ]
     },
@@ -354,38 +318,14 @@
       ]
     },
     {
-      "id": "9f3748630940",
-      "title": "Startup diz ter usado vírus criado por IA para tratar paciente - Folha de S.Paulo",
-      "published": "2026-10-22T17:00:00+00:00",
-      "summary": "Startup diz ter usado vírus criado por IA para tratar paciente&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "d3ed9961e733",
+      "title": "Biologia e saúde: a água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento - BBC",
+      "published": "2026-10-22T13:53:27+00:00",
+      "summary": "Biologia e saúde: a água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbW9zV1dBcC10MEMybGtEVWdiODhGd3h3MXBwVFVtTGt1OUYwMW9IMlowZXhLQVFnMUc1VTBRT3RxSmpDcTNIYzZUOG0zaTBEZl90RVdBVDdObXJEQlcwNXBTSVN4b1l6NWZoTUJRRkZOMGJlZWdZRnNwQjI2a3ZwSVY4dHlkaGNBNDBRMzBHUlFoSHc1X2VyR3M5OC13STlPQV9UcGdvczlqUXIxT0FsNmFxTVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2cfb20d4712b",
-      "title": "Ozempic pode ajudar a parar de fumar? Entenda o que mostram os testes clínicos para tratamento contra tabagismo - Globo",
-      "published": "2026-10-22T13:20:49+00:00",
-      "summary": "Ozempic pode ajudar a parar de fumar? Entenda o que mostram os testes clínicos para tratamento contra tabagismo&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMk0zVHIzMXREQ1JHNExNOWxGQ0s3dnNVc0JPc1FQbU5EMzB6VnJmTGFoVHpqTUF4cHVEYkx4STdrY2NkdzRmR2ZhNFAxV2R0UUdYd2FzMkpwemZVMWZkYUJoSmFzcVNrOEVUN2gyMUdiQUhkVzlHTVlhQkFRT3d5NTFXX2lYRUZEejRjRU56V0wyb2NNZkxRbnpKOVdMMEhPZlNPYUhnV1N2NTktUWMyZEp1Wm01UDhBRWNMdHo4cGp2SUNXcmMzbU5SYzNUZUFpTTFEZUhtLVVDV2cwQW5SenhleUJJSTJoVnk4RDhqcWVRVWo2c2tYY2xwTGdUd9IBjAJBVV95cUxORUVtRGtuOXJlLU84OVJYUEdncmZ3MV83TlQzVF83d2pUMFJMekVaQnA5a1JEZmx3N3NWMVJkclpCSUl3U2ZYYnFGUjBRVFRDZXFYbFBha1paRFJkcHBKdzNLdXNCZG82VzA0cUVRNkRFRHNlWVIwLXJKR1lGT09ZR09iSlpFTWtoNVpSRno1RFNmbS0wMTBOTUI0ck9yeF9XTXhpQVBqWkxQb3RMZThUWnVDWk9WQmxmWlVfcGg3c2Z0YmdiMlIzNXdiLTdDWlZOZEllbHU4YTFJenhwck41dHoydzluaWxyV3BhZWdxdDQ0X0JoaHFUMkNPMi1vT1VNejg2SkVzNldUcXFm?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f006bf11bccd",
-      "title": "Cochilo, poluição e desemprego estão associados ao Alzheimer, diz estudo - CNN Brasil",
-      "published": "2026-10-21T18:39:52+00:00",
-      "summary": "Cochilo, poluição e desemprego estão associados ao Alzheimer, diz estudo&nbsp;&nbsp;CNN BrasilMudança de hábitos ajuda a diminuir probabilidade de Alzheimer, mesmo com risco genético&nbsp;&nbsp;Folha de S.PauloComer ovos, usar computador e poluição: o que fatores do dia a dia revelam sobre o risco de demência&nbsp;&nbsp;EstadãoCochilo em idosos: estudo associa sonecas matinais a risco 30% maior e mostra o que observar no dia a dia&nbsp;&nbsp;Jornal CorreioEstudo de Harvard associa cochilos frequ",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWlQcmFlOERQaUpjVXlrdnpZWXAtc3hfMWdua21nWWNscmcySnY1RTRvZHhITHFEd0UwYVZ6OVE0QnI2SkFuMDNfLXJ5TGtmNVh4b1VQU3VMaTVCeTBqQmV6bnhScEdjYnpUSHZrZ1V1aDl0LTFsTXBuZXNkSGFMS0NlSm5kZ01GTkxhb3d0aFRlUUNrMlBRT2czSGZwZHNMUHJwRWI1dEtDZw?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DM0dXWllIb1hsc1FDLWh0VmxBQ1FxNTFtV010a1VLbmQ5YWJyalhpcGZDQnUzZFFqeTBLOEFjQ3pXN0lJVGZFZWxsYmc3d0xYWEVkMVdXMFhJOFRlbmFDNThma9IBaEFVX3lxTFAwWDcwUEI0T09OWXJheXRXUTJRNGhhWGRleVZmaV80emJPMnpVY2o0dzU2d21nTDhnam5GRlFJSUlkRWY2TlR0bEQtZkhGRXcxeWhQdXJkT0xHMzNxWWYzNHJXNlo3OERj?oc=5"
         }
       ]
     },
@@ -398,6 +338,18 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nd1NfU1VucFZBVWdqeUxRR25JSGZvUm9wWWpHREZDQlBqQW5ENDE0RU5zNzF5Z0w5Ni1OdXF0TXk4WTlIc0xOa19RYzJPdkNNaUlyYzNBUjY5OGEwT2dGVll3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be99e8e0c0e4",
+      "title": "Microplásticos na água podem gerar substâncias capazes de causar danos biológicos, aponta estudo - G1",
+      "published": "2026-10-20T05:00:00+00:00",
+      "summary": "Microplásticos na água podem gerar substâncias capazes de causar danos biológicos, aponta estudo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQV96N3NPR1llaTBOUmNpOGJNZExjTHJuYUlOYlgzTzY3cC1wQXBuV1hRdWxZRl9vemVYZUtsY2JtMWd0aXFaVWxmeTJZVGxiTUo2bVpsTzBJbDlyZHBabjcwbGdJTkxzZWNJNGtzYVpTTEdKdENNbUUzbnhTQ0ZBZW9JZ25uQkVTUlgyM2JsVG5UZkMzMkk2Y3g4dFJyUzQ3MFBzLWFOWU1ySTQ3Zmh2R2prU3E5LXVrZ0I3SUFRNzFPbUpoaHM3bEM2NmFjV0Q2Ml9DcFFqc09PLU5xdnNsZm5sa195cHRxcFk00gH6AUFVX3lxTE9vVUxiMFZMZVhKM0FEVmN6RVphYXJYNmJtTEVmV21VNEM0ZnF2aUg4aTBOalg2X0VOZ01wUkdOalhYQ1ZsNU9uOVJZMDZNbkRqdWZoblVoeE50bTMxcU9ia1Z0YUxEYVpibk5TNkxqNm05bFd1R0piWmZGa2pYME1FYnpfZTJvS3lXaUFDQjJYVGNCdFNPOUdJRDYtVWU2RkduQzFhVXNXSEVqMkVrVkFkOXhISTB6am54d0txdlhuLTI4V255UnFfMVRGdVNVQ01WMmFfM2g5TnZQdWdYWDlJWkhEUzRmS01kaGVGczUwRWY2MTU1WkZjVmc?oc=5"
         }
       ]
     }
