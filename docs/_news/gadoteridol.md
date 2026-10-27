@@ -14,7 +14,7 @@ permalink: /news/gadoteridol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gadoteridol?">
-<strong>Gadoteridol</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
+<strong>Gadoteridol</strong> tem atualmente <strong>1 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ Esta página combina as indicações previstas por IA para Gadoteridol com as no
 <p><a href="{{ '/drugs/gadoteridol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [Artrose no joelho: por que a atividade física continua recomendada mesmo com dor - Tua Saúde](https://news.google.com/rss/articles/CBMivgFBVV95cUxOOF9QNWV1S2pOMDRYdGp3Zlp4VlZzbWlhMW1UR05nel8zWWZ6aWhSN1EzLXlGVlRQMlgtMGxHSjZKRDVZdHM1ZEg0RldJV0JRYTZHZjF1QmhaeDg2WHpoM2laSlhIdzM1cXh1NXlDdmZ1R0VlLUhwNVdBdW9vNWJvOWNnMlJiWC0zN2hIQ2xGSlRrNER2S0ozU3pMcFRaMW13WWdpdHdxSllWWEp2bi05clBpaVVNeHpMWGlteGRn?oc=5)
+
+2026-10-24 <span class="news-indication-tag">artrose</span>
+
+Fonte: [Tua Saúde](https://news.google.com/rss/articles/CBMivgFBVV95cUxOOF9QNWV1S2pOMDRYdGp3Zlp4VlZzbWlhMW1UR05nel8zWWZ6aWhSN1EzLXlGVlRQMlgtMGxHSjZKRDVZdHM1ZEg0RldJV0JRYTZHZjF1QmhaeDg2WHpoM2laSlhIdzM1cXh1NXlDdmZ1R0VlLUhwNVdBdW9vNWJvOWNnMlJiWC0zN2hIQ2xGSlRrNER2S0ozU3pMcFRaMW13WWdpdHdxSllWWEp2bi05clBpaVVNeHpMWGlteGRn?oc=5)
+
+---
 
 
 <div class="disclaimer">

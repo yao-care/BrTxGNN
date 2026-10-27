@@ -14,7 +14,7 @@ permalink: /news/centella_asiatica/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Centella asiatica?">
-<strong>Centella asiatica</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>Centella asiatica</strong> tem atualmente <strong>1 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ Esta página combina as indicações previstas por IA para Centella asiatica com
 <p><a href="{{ '/drugs/centella-asiatica/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [Você sofre de ‘ansiedade de propósito’?](https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1NiZXhMb1lYQ0o4V3U1a2VTaFRwNWs5RGhxckUyYUlhQXJZVFdCakNNQ1RHZUpiUS00NDUyVnFJSy1SeEpSaW9Hc1Q0WElQdm9OcEpfSGN3NF9nX0FPeUtwcHJDdEk2ZXBYdnlyMVJaVmcxeWczc3ZTaFJSS2F0WHJaNDhOdVHSAYwBQVVfeXFMTkk1QV9WN2dNcEFYcGgydmZ5NnpkYXBKNjJqREQxaVpEM1JGUllCV2laalctVXZjVjQ3X09fdzZVWHc0UFAydXY4eFJSSGlxMmlxdHk2SUVUTHFRMzZmUjY4TEp0b1Fjak82R3hfdVpGcC02NmVRdVBpdUVCY1FDa01OY01HWHZKeEhyV1U?oc=5)
+
+2026-10-26 <span class="news-indication-tag">ansiedade</span>
+
+Fonte: [Estadão](https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1NiZXhMb1lYQ0o4V3U1a2VTaFRwNWs5RGhxckUyYUlhQXJZVFdCakNNQ1RHZUpiUS00NDUyVnFJSy1SeEpSaW9Hc1Q0WElQdm9OcEpfSGN3NF9nX0FPeUtwcHJDdEk2ZXBYdnlyMVJaVmcxeWczc3ZTaFJSS2F0WHJaNDhOdVHSAYwBQVVfeXFMTkk1QV9WN2dNcEFYcGgydmZ5NnpkYXBKNjJqREQxaVpEM1JGUllCV2laalctVXZjVjQ3X09fdzZVWHc0UFAydXY4eFJSSGlxMmlxdHk2SUVUTHFRMzZmUjY4TEp0b1Fjak82R3hfdVpGcC02NmVRdVBpdUVCY1FDa01OY01HWHZKeEhyV1U?oc=5)
+
+---
 
 
 <div class="disclaimer">
