@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TOPIRAMATE?">
-<strong>TOPIRAMATE</strong> tem atualmente <strong>4 notícias</strong> e 9 indicações previstas.
+<strong>TOPIRAMATE</strong> tem atualmente <strong>3 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ Esta página combina as indicações previstas por IA para TOPIRAMATE com as not
 <p><a href="{{ '/drugs/topiramate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (4)
+## Notícias relacionadas (3)
 
 ### [Anvisa libera remédio para câncer de pulmão avançado - UOL Notícias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0VlaHJ1enI4WW5hMmRhSWxpUWREMjl0V0dSMlI4REEzb09pWlpIQURUU0twNG93QlI4Z1pvcUZEem5OQ3dob1VhWGhTM2RWeW5lWTJGTURuUmFlUWgyREQwYnNjTnpnQzFXV1lNbThjWjBVSWtWYU5lMVhOcFVqU1RnOWpYajJkMXJyeWthSFFiSFhwQVlCeU82ODlBS1pBeC0xMm9KLWZoWEZuVjBUZWk1VWt5ZnJONkd4VTh6aFBTaWNuUlE?oc=5)
 
 2026-10-27 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de pulmão</span>
 
 Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0VlaHJ1enI4WW5hMmRhSWxpUWREMjl0V0dSMlI4REEzb09pWlpIQURUU0twNG93QlI4Z1pvcUZEem5OQ3dob1VhWGhTM2RWeW5lWTJGTURuUmFlUWgyREQwYnNjTnpnQzFXV1lNbThjWjBVSWtWYU5lMVhOcFVqU1RnOWpYajJkMXJyeWthSFFiSFhwQVlCeU82ODlBS1pBeC0xMm9KLWZoWEZuVjBUZWk1VWt5ZnJONkd4VTh6aFBTaWNuUlE?oc=5)
-
----
-
-### [Outubro Rosa: o cuidado que não pode ficar para depois](https://news.google.com/rss/articles/CBMiogJBVV95cUxOWDdvd1MwUHEtckpKVG5QTm1xSGJLZWJNS3ZBVXZPUTEySzRYeHVhN25veGNBcjRLVDltVGxtM2RTTmhIUDJja2lmVTdubkpCTFl6dWZqSmg0bmJlcHY3Yl9FaU45ZDhlcGt4OWJpbVpZMmsyaGdzMnVWb283cFZ1M25hTTJGanJhV1lRMDUyekRkOWFqcFBId1JRSndwRGliaHp1LTdTcUt2dHkxYmhNLXRoZF9fbVdEcVpkcE8wTERaY0J4SWFhb1pqR0FrRkk3bVBrSnI5OHg2VVlzTDBhU2h5cDZwZEJtMGFoem84YUlQaTl6ZUJSa0NWcEdqQjFDbzJURF9zZzdUTE5yWm5ubnpyV0s2TmwydHRIa3pOYzRpUdIBsAJBVV95cUxOX0hsV0Y2eGxVWVZMQWZLcVlQcEJhRkdHZUhlYkkwdU1yWlBPeHlaQTluSjdZQ0Z4czVoSW9wSUJqVWl2dEMzaVpuZkQtUDhORFpoOVpxT3JSMk00Q1VvVU1mR0ZrMFUxaWI0SXVfZXB5cUJ6ZUR6emVWSngwNFJJNEVsNFMyNXo2YktpamxpR2kxQVBDZHpZRkx1SlpHUUZSSGE1Mk12cTZ0RkZPRlpWdDNBSEJyT0lMLUZYSWNwZjNpSjVUdWpUWTR6QWdJYkxPdnZJbXNKZWxJREYwWnVUR0pEOC1YUmFUN2xHeTNKWVROWXUzZ0V5aEVNZzUwSzltUW1DYThVcWFrUThJUGd3U09Xdi01ZWxEWGVpdGVUTUMxbko3aUdTaTFvZDV1Mmhl?oc=5)
-
-2026-10-27 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
-
-Fonte: [G1](https://news.google.com/rss/articles/CBMiogJBVV95cUxOWDdvd1MwUHEtckpKVG5QTm1xSGJLZWJNS3ZBVXZPUTEySzRYeHVhN25veGNBcjRLVDltVGxtM2RTTmhIUDJja2lmVTdubkpCTFl6dWZqSmg0bmJlcHY3Yl9FaU45ZDhlcGt4OWJpbVpZMmsyaGdzMnVWb283cFZ1M25hTTJGanJhV1lRMDUyekRkOWFqcFBId1JRSndwRGliaHp1LTdTcUt2dHkxYmhNLXRoZF9fbVdEcVpkcE8wTERaY0J4SWFhb1pqR0FrRkk3bVBrSnI5OHg2VVlzTDBhU2h5cDZwZEJtMGFoem84YUlQaTl6ZUJSa0NWcEdqQjFDbzJURF9zZzdUTE5yWm5ubnpyV0s2TmwydHRIa3pOYzRpUdIBsAJBVV95cUxOX0hsV0Y2eGxVWVZMQWZLcVlQcEJhRkdHZUhlYkkwdU1yWlBPeHlaQTluSjdZQ0Z4czVoSW9wSUJqVWl2dEMzaVpuZkQtUDhORFpoOVpxT3JSMk00Q1VvVU1mR0ZrMFUxaWI0SXVfZXB5cUJ6ZUR6emVWSngwNFJJNEVsNFMyNXo2YktpamxpR2kxQVBDZHpZRkx1SlpHUUZSSGE1Mk12cTZ0RkZPRlpWdDNBSEJyT0lMLUZYSWNwZjNpSjVUdWpUWTR6QWdJYkxPdnZJbXNKZWxJREYwWnVUR0pEOC1YUmFUN2xHeTNKWVROWXUzZ0V5aEVNZzUwSzltUW1DYThVcWFrUThJUGd3U09Xdi01ZWxEWGVpdGVUTUMxbko3aUdTaTFvZDV1Mmhl?oc=5)
 
 ---
 

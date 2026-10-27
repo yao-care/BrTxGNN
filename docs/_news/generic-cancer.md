@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer (generic_cancer). 4 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 3 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-10-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
-<strong>câncer (generic_cancer)</strong> tem atualmente <strong>4 notícias</strong> e 93 medicamentos relacionados.
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>3 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -122,21 +122,13 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (4)
+## Notícias relacionadas (3)
 
 ### [Anvisa libera remédio para câncer de pulmão avançado - UOL Notícias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0VlaHJ1enI4WW5hMmRhSWxpUWREMjl0V0dSMlI4REEzb09pWlpIQURUU0twNG93QlI4Z1pvcUZEem5OQ3dob1VhWGhTM2RWeW5lWTJGTURuUmFlUWgyREQwYnNjTnpnQzFXV1lNbThjWjBVSWtWYU5lMVhOcFVqU1RnOWpYajJkMXJyeWthSFFiSFhwQVlCeU82ODlBS1pBeC0xMm9KLWZoWEZuVjBUZWk1VWt5ZnJONkd4VTh6aFBTaWNuUlE?oc=5)
 
 2026-10-27
 
 Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0VlaHJ1enI4WW5hMmRhSWxpUWREMjl0V0dSMlI4REEzb09pWlpIQURUU0twNG93QlI4Z1pvcUZEem5OQ3dob1VhWGhTM2RWeW5lWTJGTURuUmFlUWgyREQwYnNjTnpnQzFXV1lNbThjWjBVSWtWYU5lMVhOcFVqU1RnOWpYajJkMXJyeWthSFFiSFhwQVlCeU82ODlBS1pBeC0xMm9KLWZoWEZuVjBUZWk1VWt5ZnJONkd4VTh6aFBTaWNuUlE?oc=5)
-
----
-
-### [Outubro Rosa: o cuidado que não pode ficar para depois](https://news.google.com/rss/articles/CBMiogJBVV95cUxOWDdvd1MwUHEtckpKVG5QTm1xSGJLZWJNS3ZBVXZPUTEySzRYeHVhN25veGNBcjRLVDltVGxtM2RTTmhIUDJja2lmVTdubkpCTFl6dWZqSmg0bmJlcHY3Yl9FaU45ZDhlcGt4OWJpbVpZMmsyaGdzMnVWb283cFZ1M25hTTJGanJhV1lRMDUyekRkOWFqcFBId1JRSndwRGliaHp1LTdTcUt2dHkxYmhNLXRoZF9fbVdEcVpkcE8wTERaY0J4SWFhb1pqR0FrRkk3bVBrSnI5OHg2VVlzTDBhU2h5cDZwZEJtMGFoem84YUlQaTl6ZUJSa0NWcEdqQjFDbzJURF9zZzdUTE5yWm5ubnpyV0s2TmwydHRIa3pOYzRpUdIBsAJBVV95cUxOX0hsV0Y2eGxVWVZMQWZLcVlQcEJhRkdHZUhlYkkwdU1yWlBPeHlaQTluSjdZQ0Z4czVoSW9wSUJqVWl2dEMzaVpuZkQtUDhORFpoOVpxT3JSMk00Q1VvVU1mR0ZrMFUxaWI0SXVfZXB5cUJ6ZUR6emVWSngwNFJJNEVsNFMyNXo2YktpamxpR2kxQVBDZHpZRkx1SlpHUUZSSGE1Mk12cTZ0RkZPRlpWdDNBSEJyT0lMLUZYSWNwZjNpSjVUdWpUWTR6QWdJYkxPdnZJbXNKZWxJREYwWnVUR0pEOC1YUmFUN2xHeTNKWVROWXUzZ0V5aEVNZzUwSzltUW1DYThVcWFrUThJUGd3U09Xdi01ZWxEWGVpdGVUTUMxbko3aUdTaTFvZDV1Mmhl?oc=5)
-
-2026-10-27
-
-Fonte: [G1](https://news.google.com/rss/articles/CBMiogJBVV95cUxOWDdvd1MwUHEtckpKVG5QTm1xSGJLZWJNS3ZBVXZPUTEySzRYeHVhN25veGNBcjRLVDltVGxtM2RTTmhIUDJja2lmVTdubkpCTFl6dWZqSmg0bmJlcHY3Yl9FaU45ZDhlcGt4OWJpbVpZMmsyaGdzMnVWb283cFZ1M25hTTJGanJhV1lRMDUyekRkOWFqcFBId1JRSndwRGliaHp1LTdTcUt2dHkxYmhNLXRoZF9fbVdEcVpkcE8wTERaY0J4SWFhb1pqR0FrRkk3bVBrSnI5OHg2VVlzTDBhU2h5cDZwZEJtMGFoem84YUlQaTl6ZUJSa0NWcEdqQjFDbzJURF9zZzdUTE5yWm5ubnpyV0s2TmwydHRIa3pOYzRpUdIBsAJBVV95cUxOX0hsV0Y2eGxVWVZMQWZLcVlQcEJhRkdHZUhlYkkwdU1yWlBPeHlaQTluSjdZQ0Z4czVoSW9wSUJqVWl2dEMzaVpuZkQtUDhORFpoOVpxT3JSMk00Q1VvVU1mR0ZrMFUxaWI0SXVfZXB5cUJ6ZUR6emVWSngwNFJJNEVsNFMyNXo2YktpamxpR2kxQVBDZHpZRkx1SlpHUUZSSGE1Mk12cTZ0RkZPRlpWdDNBSEJyT0lMLUZYSWNwZjNpSjVUdWpUWTR6QWdJYkxPdnZJbXNKZWxJREYwWnVUR0pEOC1YUmFUN2xHeTNKWVROWXUzZ0V5aEVNZzUwSzltUW1DYThVcWFrUThJUGd3U09Xdi01ZWxEWGVpdGVUTUMxbko3aUdTaTFvZDV1Mmhl?oc=5)
 
 ---
 

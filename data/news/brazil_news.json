@@ -1,15 +1,27 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-27T17:38:55.594944+00:00",
-  "total_fetched": 100,
-  "unique_count": 98,
-  "health_related_count": 37,
+  "fetched_at": "2026-10-27T21:54:29.955297+00:00",
+  "total_fetched": 96,
+  "unique_count": 96,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "f1a664c7d0a4",
+      "title": "Cinco pesquisadores da Ufal estão entre os cientistas mais influentes do mundo - TNH1",
+      "published": "2026-10-27T16:31:00+00:00",
+      "summary": "Cinco pesquisadores da Ufal estão entre os cientistas mais influentes do mundo&nbsp;&nbsp;TNH1",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWJfUG1VdVZEeE1NMkEtSmQzbV9wQjBsUlhJUTVJMlh3anlINVJ3QlF1allaeldDTG01MHhmbzJoVUJsWG8yajVESWFuQWhPajVncjFmYnVyb2s0OUJRa1Jvd050TGhfUDVET0s3S09MNkQ1cXgwbGhsNkttU0J6LUJoeF9Gd3FDY1lVbW5SUGZhekZZZW94cVpDa3NlRDcwcTlhMU80MHRCUXFrQ0JPWkpIcFoyQdIBsAFBVV95cUxQOGpXZFBhQVNuTXZHQ0dqLXJvb0huLUJlQVAtaGt6MFFScUJXT2NJVFFfZTZVUVlkUWM2akhFQ3RHWWsxc19Ka0VHS1IxeVJlckVxanRPcWxTaHgzT2hGbjRVU3RNdlFKQ1JtWmZlMGRTT1R3aFZWTDU0RDBzVVdkdHNwSHFEZFh6OHF5MVZTQUg1TW1kdFlJbUI1eUk4Mkl0VmdKY0hvM2NwNEN0M2xPRg?oc=5"
+        }
+      ]
+    },
     {
       "id": "a8a392e88034",
       "title": "Anvisa libera remédio para câncer de pulmão avançado - UOL Notícias",
       "published": "2026-10-27T14:45:35+00:00",
-      "summary": "Anvisa libera remédio para câncer de pulmão avançado&nbsp;&nbsp;UOL NotíciasAnvisa autoriza novo medicamento contra câncer de pulmão avançado&nbsp;&nbsp;MetrópolesAnvisa aprova novo medicamento para câncer de pulmão avançado&nbsp;&nbsp;Agência BrasilAnvisa aprova novo medicamento para câncer de pulmão&nbsp;&nbsp;Rádio MetrópoleSugemalimabe obtém registro no Brasil para câncer de pulmão metastático&nbsp;&nbsp;Afya | Home",
+      "summary": "Anvisa libera remédio para câncer de pulmão avançado&nbsp;&nbsp;UOL NotíciasAnvisa autoriza novo medicamento contra câncer de pulmão avançado&nbsp;&nbsp;MetrópolesAnvisa aprova novo medicamento para câncer de pulmão avançado&nbsp;&nbsp;Agência BrasilAnvisa aprova novo medicamento para tratamento de câncer de pulmão no Brasil&nbsp;&nbsp;Portal Tri NotíciasSugemalimabe obtém registro no Brasil para câncer de pulmão metastático&nbsp;&nbsp;Afya | Home",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -30,38 +42,14 @@
       ]
     },
     {
-      "id": "20ab864cdf14",
+      "id": "f2a2ba88f64c",
       "title": "Muito além da sala de aula: professora de Curitiba leva experimento de alunos à Estação Espacial Internacional - Prefeitura de Curitiba",
       "published": "2026-10-27T13:38:00+00:00",
       "summary": "Muito além da sala de aula: professora de Curitiba leva experimento de alunos à Estação Espacial Internacional&nbsp;&nbsp;Prefeitura de Curitiba",
       "sources": [
         {
           "name": "Prefeitura de Curitiba",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxON3dzUWRFTi0zeWxvbU56NTBzb0Y2RzBQNURkZnN3aEpyeWI4ZF9qSTgtQ2FTRERRdUpjcEJxVEdXUE9tZW5NOVZxOHd0SzQyOTJVU19MUjBWTGJ0OGZyaWlVX2IxNDdlNm53YXotMmpBeUJ4QUFyMmVqb2xCTlM5NlRiVnZtSjJjcGdIZkhrc1RfLUhrbFd4UW5jS2ZVX2JDb3M5UTFrVjBVdzEwdDN3dkkxOTcxZVhqQTl1eFE1WWJDWjlKTHRvWElYMlJpSmg0MHQ4VEVzTHpsSWZrZU1OUWRZeGJKNVh5NzQ3Z29YM1E5V0NyVTlzdllOSlZUSU5x?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "80c834e656ce",
-      "title": "Outubro Rosa: o cuidado que não pode ficar para depois - G1",
-      "published": "2026-10-27T13:31:52+00:00",
-      "summary": "Outubro Rosa: o cuidado que não pode ficar para depois&nbsp;&nbsp;G1A saúde da mulher é mais que uma campanha&nbsp;&nbsp;JOTA InfoOutubro mais que rosa&nbsp;&nbsp;Jornal do ComércioCâncer de mama: 80% dos casos ocorrem após os 50 anos; veja os sinais de alerta&nbsp;&nbsp;Portal UAIMamografia: a importância da prevenção do câncer de mama&nbsp;&nbsp;Gazeta do Povo",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOWDdvd1MwUHEtckpKVG5QTm1xSGJLZWJNS3ZBVXZPUTEySzRYeHVhN25veGNBcjRLVDltVGxtM2RTTmhIUDJja2lmVTdubkpCTFl6dWZqSmg0bmJlcHY3Yl9FaU45ZDhlcGt4OWJpbVpZMmsyaGdzMnVWb283cFZ1M25hTTJGanJhV1lRMDUyekRkOWFqcFBId1JRSndwRGliaHp1LTdTcUt2dHkxYmhNLXRoZF9fbVdEcVpkcE8wTERaY0J4SWFhb1pqR0FrRkk3bVBrSnI5OHg2VVlzTDBhU2h5cDZwZEJtMGFoem84YUlQaTl6ZUJSa0NWcEdqQjFDbzJURF9zZzdUTE5yWm5ubnpyV0s2TmwydHRIa3pOYzRpUdIBsAJBVV95cUxOX0hsV0Y2eGxVWVZMQWZLcVlQcEJhRkdHZUhlYkkwdU1yWlBPeHlaQTluSjdZQ0Z4czVoSW9wSUJqVWl2dEMzaVpuZkQtUDhORFpoOVpxT3JSMk00Q1VvVU1mR0ZrMFUxaWI0SXVfZXB5cUJ6ZUR6emVWSngwNFJJNEVsNFMyNXo2YktpamxpR2kxQVBDZHpZRkx1SlpHUUZSSGE1Mk12cTZ0RkZPRlpWdDNBSEJyT0lMLUZYSWNwZjNpSjVUdWpUWTR6QWdJYkxPdnZJbXNKZWxJREYwWnVUR0pEOC1YUmFUN2xHeTNKWVROWXUzZ0V5aEVNZzUwSzltUW1DYThVcWFrUThJUGd3U09Xdi01ZWxEWGVpdGVUTUMxbko3aUdTaTFvZDV1Mmhl?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57181a9a728d",
-      "title": "Pesquisadores da UFV integram lista dos cientistas mais influentes do mundo - Folha da Mata",
-      "published": "2026-10-27T12:34:19+00:00",
-      "summary": "Pesquisadores da UFV integram lista dos cientistas mais influentes do mundo&nbsp;&nbsp;Folha da Mata",
-      "sources": [
-        {
-          "name": "Folha da Mata",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0daYk9lWmVaSnZaVmpEclBtbzRkTXJ2X2JucFZPdmpyckpQSFdoekFZT0JFWTJHZldyVjhCdGk1N3JYbGdJM0lER0N0MHg4RGxwakJkekxPdFd3NnRqTkRVTGppM2ducnEzbEhQVUdfUGFUS1BFRnNaWE83NGYtRzdfNXpPUmRPZzR0SmdOQW5fdzFYWnBWOTFSdnY5dFNzRkh5NFl6bmxWUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaG5iQzhCZjhRYllucG10SXphYm14Z0JvUTNGMTNFdHd3WUU3ZjZlRUpTTmdxSjFxRXdDMHlZSFlmMjBiZVV3LUc5aHRUa0YyNDJnRng2dUJwbVVKN0xxb3d5eHRJSTZuSDZtVEtMZzNYRms2T2U4ZlZjcndFQlphSks4Uy1JWnc0UVZSbjNUSjlRVVJhZ2VNRHF1Q2NKMXFiTU5VLV9IUElHUmZOcjZPa2drbi1CaldUVWJPU09ObDYzRlJESVZVTlJFdGJjRjJkOGt3YWFBdXhUSUZWQmp0QjE4TVQzUDkyUU1F?oc=5"
         }
       ]
     },
@@ -90,6 +78,18 @@
       ]
     },
     {
+      "id": "9545ab8fc9fa",
+      "title": "Hantavirose tem letalidade de 51% em SP (maior que a taxa nacional), alerta governo; o que é a doença? - O GLOBO",
+      "published": "2026-10-27T11:51:21+00:00",
+      "summary": "Hantavirose tem letalidade de 51% em SP (maior que a taxa nacional), alerta governo; o que é a doença?&nbsp;&nbsp;O GLOBOSP registra casos de hantavirose; saiba os sintomas e como se proteger&nbsp;&nbsp;Terra26/10/2026 - Hantavirose tem letalidade de 51% em SP; Saúde reforça prevenção e diagnóstico precoce&nbsp;&nbsp;Secretaria de Estado da Saúde SPSão Paulo registra quatro casos de hantavirose em 2026: conheça o quadro&nbsp;&nbsp;Assine AbrilHantavirose em SP: Alta Letalidade Exige Prevenção Re",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXhnNTFhZnM5T0MxZjJ0c2V6dE9oR2VVRGdDSGdQTWxJRVo5U3hWVlB4N0k1VnBzX1lBSDE5V3RzeXkzWmpZaFZEWHVTSlk4V0g4LXF6N0RlR1F5NExCNU1fZDBhX1dQbTFBR0dTOEJNbmtSaWh5MVgxbUlVckhfY0RnRWlWWHplR1NzS2Z3SGZHVGgxX00teTJoemxCa1hXMEFZOGtSZ1h0dlJ6c0o1b2pHQWI2c1c1bXhkQlFDUWMzU1VyN1dLWExtNWl6UdIB3AFBVV95cUxOOUlfU1dJUl9lTF9QdlNPU1kzeXRhaHd3OHBfRVhia1NoenZ2TkdRdVBteDA4dkdLb2JwaE13VGc2WExieTlUR09MTFMwNl9oVXdTNDlaVFJOUFNaUWdWUkwtcC16Y0wtNDljYWlaLXBvdk9COVIyRUlnUlFJUjZkVXRHOHhJWERFYnBxZDBpSm1JUENqU1hWelIxZ3EtS3l2QjFrSkRXNHZCbWFIZ3J1ZlNoNDQ5WVM3N0xzQVZDYU9MSkVLMzUxX2RTS09ZRzNQNUJkeFJVSjRkVDFS?oc=5"
+        }
+      ]
+    },
+    {
       "id": "dca5eb99d874",
       "title": "Com 12 medalhas e aprovação na USP, estudante de Fortaleza busca vaga no ITA - O POVO",
       "published": "2026-10-27T11:00:00+00:00",
@@ -105,7 +105,7 @@
       "id": "3070650ae158",
       "title": "Usuários de Ozempic e Wegovy recorrem a suplementos para aliviar efeitos colaterais; entenda os riscos - G1",
       "published": "2026-10-27T07:00:00+00:00",
-      "summary": "Usuários de Ozempic e Wegovy recorrem a suplementos para aliviar efeitos colaterais; entenda os riscos&nbsp;&nbsp;G1Quando a busca por saúde coloca a vida em risco&nbsp;&nbsp;Gazeta DigitalDa comida, ao álcool à cosmética. Os efeitos colaterais do \"boom\" dos medicamentos para emagrecer&nbsp;&nbsp;Jornal de NegóciosApós 3 anos analisando suplementos, médico alerta que muitos não entregam o que prometem; descubra quais podem ser desperdício de dinheiro na farmácia&nbsp;&nbsp;Gazeta de São PauloMer",
+      "summary": "Usuários de Ozempic e Wegovy recorrem a suplementos para aliviar efeitos colaterais; entenda os riscos&nbsp;&nbsp;G1Quando a busca por saúde coloca a vida em risco&nbsp;&nbsp;Gazeta DigitalVitaminas combatem a inflamação? Entenda o papel dos suplementos&nbsp;&nbsp;Acreaovivo.comApós 3 anos analisando suplementos, médico alerta que muitos não entregam o que prometem; descubra quais podem ser desperdício de dinheiro na farmácia&nbsp;&nbsp;Gazeta de São PauloMercado de suplementos cresce, mas prome",
       "sources": [
         {
           "name": "G1",
@@ -150,6 +150,18 @@
       ]
     },
     {
+      "id": "aa10172417fc",
+      "title": "FAPESP Week reúne pesquisadores nos Países Baixos para expandir cooperação científica - Agência FAPESP",
+      "published": "2026-10-27T03:03:50+00:00",
+      "summary": "FAPESP Week reúne pesquisadores nos Países Baixos para expandir cooperação científica&nbsp;&nbsp;Agência FAPESP",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1UtaTRBemRjU3pMZEdibThuMzBIRmFKZXNvQ0M0bnBVbDBWWmZFYV9lRUlJSE1nc0NsYnJRNmRIZEkyWnNZeWlGYWpvdWRIa3dfUW1lbjBSS1RwcW1nSV93eF9pVE5FZ2N4NGpmYzV2LWR4THU4TzlkNG9xbDcxZXEyaGtWU1AtaGlmenlpU0J1TERnRHh2YkNxM0hnZ1AzZ2lrdmMzYm1UcTZWbzZUYUc4OG9kRkcx?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c220ecd36f14",
       "title": "'Mais tatuado do Brasil' detalha tratamento contra câncer após 1ª sessão de quimioterapia - G1",
       "published": "2026-10-27T03:00:00+00:00",
@@ -177,7 +189,7 @@
       "id": "40a51f00da42",
       "title": "Menina de 4 anos morre com suspeita de meningite em Goiás, diz secretaria - G1",
       "published": "2026-10-26T22:52:15+00:00",
-      "summary": "Menina de 4 anos morre com suspeita de meningite em Goiás, diz secretaria&nbsp;&nbsp;G1É assim que uma inflamação grave se manifesta: a rigidez no pescoço é um sinal de alerta&nbsp;&nbsp;Tua SaúdeBarbacena amplia vacinação temporária contra meningite&nbsp;&nbsp;93,3 FM BarbacenaMeningite bacteriana pode causar surdez permanente; sinal de alerta pode passar despercebido&nbsp;&nbsp;Jornal CorreioGoiás registra 147 casos de meningite e 32 mortes em 2026&nbsp;&nbsp;Foca Lá",
+      "summary": "Menina de 4 anos morre com suspeita de meningite em Goiás, diz secretaria&nbsp;&nbsp;G1Criança de 4 anos morre com suspeita de meningite em Inhumas&nbsp;&nbsp;G1É assim que uma inflamação grave se manifesta: a rigidez no pescoço é um sinal de alerta&nbsp;&nbsp;Tua SaúdeMenina de 4 anos morre com suspeita de meningite em Goiás&nbsp;&nbsp;iG Último SegundoSecretaria de Saúde alerta para vacinação contra meningite após 33 mortes no ano&nbsp;&nbsp;CBN Goiânia",
       "sources": [
         {
           "name": "G1",
@@ -189,7 +201,7 @@
       "id": "5b6659ef8232",
       "title": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta - Agência Brasil",
       "published": "2026-10-26T21:34:00+00:00",
-      "summary": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta&nbsp;&nbsp;Agência BrasilTrês milhões de brasileiros ainda não tomaram a segunda dose da vacina contra a dengue&nbsp;&nbsp;R7Sorocaba convoca mais de 9 mil pessoas para 2ª dose da vacina da dengue&nbsp;&nbsp;G1Dengue: RN tem aumento de casos e Natal tem baixa vacinação&nbsp;&nbsp;Tribuna do NorteMais de 3 milhões precisam completar vacinação contra a dengue&nbsp;&nbsp;A Crítica",
+      "summary": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta&nbsp;&nbsp;Agência BrasilMais de 3 milhões de adolescentes não receberam segunda dose da vacina contra dengue&nbsp;&nbsp;G1Três milhões de brasileiros ainda não tomaram a segunda dose da vacina contra a dengue&nbsp;&nbsp;R7Dengue: RN tem aumento de casos e Natal tem baixa vacinação&nbsp;&nbsp;Tribuna do NorteMais de 3 milhões precisam completar vacinação contra a dengue&nbsp;&nbsp;A Crítica",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -234,6 +246,18 @@
       ]
     },
     {
+      "id": "081be61760fd",
+      "title": "Pesquisadora da Embrapa de Sete Lagoas recebe Prêmio CBMM de Ciência e Tecnologia - Sete Lagoas .com.br",
+      "published": "2026-10-26T17:27:00+00:00",
+      "summary": "Pesquisadora da Embrapa de Sete Lagoas recebe Prêmio CBMM de Ciência e Tecnologia&nbsp;&nbsp;Sete Lagoas .com.br",
+      "sources": [
+        {
+          "name": "Sete Lagoas .com.br",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONGVMOHdVTm1kOEdNdHN6cVNxSlRYYURGZG5yakFoOU1sRFNjNGdKVWk1X0ZFeVVYRkltd01PNFhuOGZJaU4zendFdnc2aW16QjhnbDRvSDBCUDlKOEdIUC1LbnlFUFhKMjVpTGxUSVVHWFQtWE11RmE1ZFcwSUN1dGp3RU1OMkMtU1gwQW5rek40UlBKeXFpSjdNTDQtLTJoQXFJcllCajZrWS1OZTBLNzh2cUloM1BCcFl5Q21YTVI3clJjcFROaGV1LVQ4VzVv?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8cc514b8b072",
       "title": "Ninhos de aves escondem um dos maiores vilões do meio ambiente, mas cientistas encontram relação inesperada após oito anos de pesquisa - Diário do Litoral",
       "published": "2026-10-26T17:23:00+00:00",
@@ -254,42 +278,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f10ee58f59a7",
-      "title": "Surto em fazenda de visons eleva alerta para nova pandemia nos EUA - UOL Notícias",
-      "published": "2026-10-26T15:16:16+00:00",
-      "summary": "Surto em fazenda de visons eleva alerta para nova pandemia nos EUA&nbsp;&nbsp;UOL NotíciasGripe aviária atinge fazenda e veterinária descobre que não existe vacina aprovada para os animais&nbsp;&nbsp;CompreRuralSurto de gripe aviária em fazenda de visons em Utah gera alerta; até onde se sabe, os humanos não conseguem transmiti-la&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVFFZR2lwcWVFb1ZyOExNNTFTeDJNZ0UwTW55N2FkUW9BOTlvUXlsZXRDX1cwQlExVE9TZFlibmV5NTU1cEVyX2pBQVlNNmx2aGpxN1VvS0FHeFdncnBwNzZQcGk5QWZka21Sbk51eW1IelZQOW9KOGp3Y3ctUk1ITzZ2M1N4YnNWSmE0bmtwUmU2ZXVsZF9RZU9BUC12bnZ0c3Nvb3FGRHpsSzEyQmZHcTFzWXFpenZKUHNmMGdhQU1CQzBLRk9KbjNoNmtPdWlFYlBLT1MwQVo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b4432007c064",
-      "title": "Subestimamos a 'Geleira do Juízo Final': estudo revela que derretimento na Antártica pode elevar nível do mar no dobro da velocidade - Terra",
-      "published": "2026-10-26T14:37:00+00:00",
-      "summary": "Subestimamos a 'Geleira do Juízo Final': estudo revela que derretimento na Antártica pode elevar nível do mar no dobro da velocidade&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPaHdVVWpnRXNMNzJaOFh5TXpKS0tVaXBfdmVvdmdSZzYtcU9QamJqdmdWTTVzU291emlVbEppNVY5d2VKNTJyaFhpbndmV1hFNFFkOGpsNElzYS1iVmcxUDFSTlJLbjVFUTJBUDUzX2h1RlcxTGN4Um5iUV9Kc3BUaVNLNmxvQnA2NnBsSjA3bXV0SUFlMWtqejNjdFpZNTNTZmdVXzh5aFNaM2IwR19BWWU0U204MWs3OXdBcTRUZ3B0ZnlVTGh6ckI1S1RMQnhJbnZKR3pYeVE4YVFSSDByQmFzT2swWGdwbTJuS0FrODAzMjRPVjR4a0g3Xy1YUVp5bTM3bHNJNVNsMUk3dVUya3MtTmRWSkFpTzZGd0hNMWNsUFBibU5tcWt0S0lxR0VQdUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d9e5c12e2db",
-      "title": "Gordura no fígado pode avançar mesmo em quem não bebe; médico explica causas e sinais de alerta - Jornal Correio",
-      "published": "2026-10-26T08:20:00+00:00",
-      "summary": "Gordura no fígado pode avançar mesmo em quem não bebe; médico explica causas e sinais de alerta&nbsp;&nbsp;Jornal CorreioFígado pode estar doente mesmo com exames aparentemente normais; entenda o risco&nbsp;&nbsp;Jornal CorreioQuem pratica esporte também pode ter gordura no fígado?&nbsp;&nbsp;Assine AbrilGordura no fígado não vem apenas da gordura que você come&nbsp;&nbsp;Batatais 24hDoença hepática gordurosa: o que comer e o que evitar para ajudar a controlar a doença?&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3gzR3R0SFhEdWxpbFl5cThUWG96R1dyaWdyZGhXOVlMZFpsRi04R2Q3RzZIU2MyV2c0UUVLcDk4RlFiU003SEN4b0J1aVFLSm1qdWQ3ZTltZUVVRC1SMWRlb0RUX2pnMmNqZGUxVUtKTmhMbmZ0SXA2c0tselVKLVZEVFpIRzhoWjFhMzdXX1Fjd3pNaGZLeV9zUjIwX2RxY3ZTN25scl9yX0N2YkFzVHhLNkd1eG9ycDFmVV9qVkJ3RlBPUm1JVzFDTFQ0V0V5RHlHLU1B?oc=5"
         }
       ]
     },
@@ -342,14 +330,14 @@
       ]
     },
     {
-      "id": "973d214a6721",
-      "title": "Mudanças climáticas já causam aumento de doenças infecciosas no país - Agência Brasil",
-      "published": "2026-10-25T12:06:00+00:00",
-      "summary": "Mudanças climáticas já causam aumento de doenças infecciosas no país&nbsp;&nbsp;Agência BrasilChuva e calor acendem alerta para reprodução do mosquito da dengue na região&nbsp;&nbsp;G1Dengue, leptospirose e Oropouche: como o clima influencia a expansão de doenças&nbsp;&nbsp;Rádio ItatiaiaGCN: Chuvas e El Niño acendem alerta contra a dengue em Franca&nbsp;&nbsp;sampi.net.brCalor favorece avanço da dengue e de outras doenças infecciosas no Brasil&nbsp;&nbsp;Folha BV",
+      "id": "87b6bcd2531a",
+      "title": "Subestimamos a ‘Geleira do Juízo Final’: estudo revela que derretimento na Antártica pode elevar nível do mar no dobro da velocidade - Xataka Brasil",
+      "published": "2026-10-25T13:02:11+00:00",
+      "summary": "Subestimamos a ‘Geleira do Juízo Final’: estudo revela que derretimento na Antártica pode elevar nível do mar no dobro da velocidade&nbsp;&nbsp;Xataka Brasil",
       "sources": [
         {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQURmYWoyM2JjSXFMNE5BQnZvaUg0TXo5WW96REdINWZVNTdTcDdpNHFZYXNJOVFVNUI3TV9UeXVmckpCaGJWVTdnZ2ZROW5vLU1CcGVJc3pkd0l4WTRCSVpCVjRzVEhybmdtYXB2UUJkMjJBVm4xSm1KTTl2MUFmQUJQSHRKOWxxUDhhMk50LUZHWndIM0FpS2JHdWRCUDQxNm9EeXBwVmF3aERnbFFpbUliUEwwTi11eUp2cGF1YW8?oc=5"
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT21qZFMwOE9Vb0hzMnZhY29kRmJaUklVMjhWTzhUOUxOT0lCYmlhRExJMUN4Vkx4NFJKOGdoSWo5WVJlN25LcFdNVlB1MVA2UDdGZXB3em9xbmxWQWxURTFBNWVYaHptTlp1eGx2YTU4NlpsdXRabDRoM3laVjZORUtNVnFCbEFEY0lzM2ZpaGFmYXlxc3EwQzJsTXlCWjB5dVkwMmdmWXdvRTFQcEV0ZzlEUmNady1rNWM0bUM2SDdsQV8xZlZxVjhkT1o1bkc1RHJqZkZtLTQwNUNVaXBkbWV6OGx0dGQwTThpdl9Wa1gxNlhqcmc?oc=5"
         }
       ]
     },
@@ -362,18 +350,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOGdOTTlsSzQwZmZ2Zlc3c0hlUUoxRE5DNndiNklGeXNDZnVkb3FMNUgyaTRfRV9Ha2FSSHpKZWxBcDlyaC1wZ3JGMlBtUmJ6eUtJWUx4dkd2eGxET3RPOWFWWUx2a2Z0NlNiU3NBeXpYeWRReGI5QWZFdF9hdVNXeUtaUnpIVF9BYnNab3BDazFwR185Q01wRTZtTXZ0TDVoWHNFWnEzZlk5VUJnYWhpSHdhcURQNUFTZVN0ZVItcVl3VWNETDUwbDVjcTR2YkdST3FHYnR5enN4TGpqM25GMU5WN2dSTWNvaGVrdmlFbDlMT2VjZVYwT2duQmxtaS1DUkhHZDRwMXpQazR3WU1TUEpLS2x1d9IBpAJBVV95cUxOTEFxZFJHanM4MjhoamR2S3dkZGprZFc1S29KdEJWeVkySTAteTd2T25yYjJTNHZoWm0wRkRzTUVFNWd4QzZRVkw3YUNMX2lDdDBvU1RrV2JBeXJrcG5OZi1XOGRJT1llNGVudmRBS0Z3TEZTSVJBT3BzRW5RVS0zRVVlam9HN0huTk5lSzRMVnVUNEVZNzFIZzZDOXYwVEpfZ2FSUzlueWhaNm53VV9zdnN3eXZJMzBGbW9uc2g0cmp0aUt3dV9UZU5SY3VtdklmOTg5b2VodWF2clNCNUUxdUN1elpFV05scm02cDBCX3BSR1FBUEw4X2NSb181QUoxXzJRQ0ljWFVQZUFZT1VHSW1JempmN1FkRjIxQURNWm9VZUVY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a60a44038ed",
-      "title": "Artrose no joelho: por que a atividade física continua recomendada mesmo com dor - Tua Saúde",
-      "published": "2026-10-24T16:03:30+00:00",
-      "summary": "Artrose no joelho: por que a atividade física continua recomendada mesmo com dor&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOF9QNWV1S2pOMDRYdGp3Zlp4VlZzbWlhMW1UR05nel8zWWZ6aWhSN1EzLXlGVlRQMlgtMGxHSjZKRDVZdHM1ZEg0RldJV0JRYTZHZjF1QmhaeDg2WHpoM2laSlhIdzM1cXh1NXlDdmZ1R0VlLUhwNVdBdW9vNWJvOWNnMlJiWC0zN2hIQ2xGSlRrNER2S0ozU3pMcFRaMW13WWdpdHdxSllWWEp2bi05clBpaVVNeHpMWGlteGRn?oc=5"
         }
       ]
     },
@@ -393,7 +369,7 @@
       "id": "ab2f4a9ae9a9",
       "title": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais - UOL",
       "published": "2026-10-23T08:30:00+00:00",
-      "summary": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais&nbsp;&nbsp;UOLEfeito sanfona: por que perder e recuperar peso pode trazer riscos à saúde?&nbsp;&nbsp;Estadão5 riscos de usar caneta emagrecedora sem indicação médica&nbsp;&nbsp;TerraTratamentos à base de canetas devem ser acompanhados por rede de profissionais&nbsp;&nbsp;GloboEra das canetas pode criar novas “epidemias”&nbsp;&nbsp;Tribuna Online",
+      "summary": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais&nbsp;&nbsp;UOLMulheres respondem melhor às canetas emagrecedoras? Dra. Tassiane Alvarenga explica possíveis motivos&nbsp;&nbsp;Estadão Blue StudioMG Responde: o que é preciso saber antes de usar canetas emagrecedoras?&nbsp;&nbsp;G15 riscos de usar caneta emagrecedora sem indicação médica&nbsp;&nbsp;TerraEra das canetas pode criar novas “epidemias”&nbsp;&nbsp;Tribuna Online",
       "sources": [
         {
           "name": "UOL",
@@ -429,7 +405,7 @@
       "id": "afe5d2a080fd",
       "title": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam - G1",
       "published": "2026-10-22T05:00:00+00:00",
-      "summary": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Cobertura vacinal contra sarampo está abaixo da meta na região&nbsp;&nbsp;G1Quase 70% dos municípios do RS estão abaixo da meta de vacinação contra sarampo&nbsp;&nbsp;Diário GaúchoVacinação global contra sarampo caiu após Covid, com aumento de casos e mortalidade em 2023&nbsp;&nbsp;Folha de S.PauloUma pessoa com sarampo pode infectar outras 18\"; alerta coordenadora de imunização da prefe",
+      "summary": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Cobertura vacinal contra sarampo está abaixo da meta na região&nbsp;&nbsp;G1Quase 70% dos municípios do RS estão abaixo da meta de vacinação contra sarampo&nbsp;&nbsp;Diário GaúchoUma pessoa com sarampo pode infectar outras 18\"; alerta coordenadora de imunização da prefeitura&nbsp;&nbsp;Rádio MetrópoleVacinação global contra sarampo caiu após Covid, com aumento de casos e mortalidade em ",
       "sources": [
         {
           "name": "G1",
