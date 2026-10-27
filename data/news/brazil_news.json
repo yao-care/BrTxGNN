@@ -1,31 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-26T22:23:49.372138+00:00",
+  "fetched_at": "2026-10-27T04:08:30.518735+00:00",
   "total_fetched": 92,
   "unique_count": 89,
   "health_related_count": 35,
   "news": [
     {
-      "id": "fbb2bf3b8628",
-      "title": "Outubro mais que rosa - Jornal do Comércio",
-      "published": "2026-10-26T21:26:33+00:00",
-      "summary": "Outubro mais que rosa&nbsp;&nbsp;Jornal do ComércioA saúde da mulher é mais que uma campanha&nbsp;&nbsp;JOTA InfoMamografia: a partir de que idade fazer o exame, segundo o Ministério da Saúde&nbsp;&nbsp;Estado de MinasOutubro Rosa reforça prevenção ao câncer de mama&nbsp;&nbsp;G1Mamografia: a importância da prevenção do câncer de mama&nbsp;&nbsp;Gazeta do Povo",
-      "sources": [
-        {
-          "name": "Jornal do Comércio",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOejRNTXBiRlJMNHNtZW1iV01WdVNlczN2dkVWemxKUEpIVWVfNTNpRnk4Mm1rMTQzaE1wUzBnNUNVY19RempzQ2lSb3FwWTIwYXl1SDlzcDlTaGxxRlR1NS1OWGZ3TkJpaG9KUVhHaDhMVmo3aU9Zb0dwMWdUQjNaNEhQeEJJUDQwQjRF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e85c85251d22",
       "title": "Lúcia Helena: Como um corante criado no Brasil torna cirurgias de retina mais seguras - UOL",
-      "published": "2026-10-26T21:25:46+00:00",
+      "published": "2026-10-26T23:53:27+00:00",
       "summary": "Lúcia Helena: Como um corante criado no Brasil torna cirurgias de retina mais seguras&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXRKM1FDelpUeHZyVHhxODk5QVRQRXI1dFd4NHJ0OGtkWjRXU1dJRE1RTmFLUGpnN3Q0ZG03cGF2aUwySUh3MEEweWlLay1RcXNFQmJPT3ZuUHlfajZtVDF3Yk8xeWZ0eEM4b1kzMHNPXzFSWUZRb1JmY0dJbHhZNkg1R2d0Y1hXZnRYU1Bia3Qzckw4WWZMcmxJQV91WFNzMkNhcThGeTcwWG9uQUhxZTFBaFNoUTRxYTRpS25SWF9SdFI4YzNwUzFwRnU2ZVpoYVlWYQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1e1a3a804df7",
+      "title": "Vídeo: Diagnóstico precoce amplia chances de tratamento contra o câncer de mama | Vídeos PITV 2ª Edição - G1",
+      "published": "2026-10-26T22:54:23+00:00",
+      "summary": "Vídeo: Diagnóstico precoce amplia chances de tratamento contra o câncer de mama | Vídeos PITV 2ª Edição&nbsp;&nbsp;G1A saúde da mulher é mais que uma campanha&nbsp;&nbsp;JOTA InfoOutubro mais que rosa&nbsp;&nbsp;Jornal do ComércioMamografia: a importância da prevenção do câncer de mama&nbsp;&nbsp;Gazeta do PovoOutubro Rosa: o cuidado que não pode ficar para depois&nbsp;&nbsp;Olhar Direto",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnJNSVItWlpoRHhxbEc0T0RDVm5Nek5VTnhnZFhvdGZhMDdBUUIyT3BYZnRkNndnR25YeEZjczhwQllUbXR4ZU9oWkJVSnpHSUhyTTNkMVdETG5EYnczTldIZXFvVHNBbm5wejZKeW1LRE9FX09JdDdLN1o4ZF9RZUtpN1pORkloaG1TNkdrell4RHJzUDZzNFVvS2FFZGpDMzc0SXVNY1BjT2t6Wk5pTGV4UnBfY1JsX2c1WFZOaVVzbGpPTXhCN2E2emxyR0VjQU9DWVY1MFRmQXRO?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "40a51f00da42",
+      "title": "Menina de 4 anos morre com suspeita de meningite em Goiás, diz secretaria - G1",
+      "published": "2026-10-26T22:52:15+00:00",
+      "summary": "Menina de 4 anos morre com suspeita de meningite em Goiás, diz secretaria&nbsp;&nbsp;G1É assim que uma inflamação grave se manifesta: a rigidez no pescoço é um sinal de alerta&nbsp;&nbsp;Tua SaúdeDoença meningocócica: identificação precoce, prevenção proativa.&nbsp;&nbsp;Vietnam.vnVacinação é a principal forma de prevenção&nbsp;&nbsp;R7Goiás registra 147 casos de meningite e 32 mortes em 2026&nbsp;&nbsp;Foca Lá",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRF9wZ3lGQkZLOHpvVVppTXloQUZwTkNHUEl2ektSRkxYcS16ZVNNWmFTbnluQnFMQWZXU3l6VDVIWkFKbTJwUmtfRzhmUVZqVm5rMkNIb1NkaGF6UTB3Qjd1WnV2VlBIeGVIVlJGajN4SGl3ZnM1Z3JvVG9rRm5nU2tFQmVWdzRGWHA4am1Zci1ndzh3LXZFQWR5LUJBZ2hVdjZjWFZ2amg5YmpZemZiRGxEWkc5MkNfVGI2TVF3QkxEVG9MSWfSAdQBQVVfeXFMTmVvM3g0Z3p0WW5QY1ZXZzV5LXM4S0NYdkJXX1NMclJfR2ZYbEtMcEljTkZCTkNINFVXekJCaXVEc2xseGEtbHlUM1NVd0JkYk94QWFaUzBZc2ZfQ2wwaE1KZU5NZXp0V1FJN2EyR1RoUlVUTnNLcXVSSW9QVC15Y09fRTNUVWxiTVVlS1BRRkV4ckRZRVJOUUtsU3FoX1pFUlJSSmVvSGFmUllwOFBoQlRRY1Fycl9kQ3ZuUVYwNHNEQkJNb1RxZnpxLXZnVGt1aWp3Nnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f56de125823",
+      "title": "Os segredos por trás da da misteriosa nuvem de 1.800 km de comprimento em Marte - Época Negócios",
+      "published": "2026-10-26T19:22:34+00:00",
+      "summary": "Os segredos por trás da da misteriosa nuvem de 1.800 km de comprimento em Marte&nbsp;&nbsp;Época Negócios",
+      "sources": [
+        {
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPemphX25mVmtSWVp2d0p0dFRweHF0SGNUYmE2LXJXWkRmcFVJamJzNktIeFBCUGZNYzE5RzRLRlBMaC1WWF9McmRRaUtHSDV2ak1GWnZhMDc0eHA3STRPYko4dnhxQ3JEQzgybmFidDIxRUhTLUt2UHJNQmNiWk8wdVFxbUI4UnFLaTB0ZW5QM0NVaGtlMkNiODB0TU5kMmhFaDJ3dUpWQ0Q1dXRtYmgxZlhtNnpIUlZsVFNISGRuWWZ1MGVsS1l0T0ZIbkdjWGY3UTJRN0ZSRm9pQkVaNkp1bEp30gHwAUFVX3lxTE5DZzZWd21hSUZPWld6ekRaaG83NW5UNnVhWFg4VkFhLVdBMjBzSWVqUWctTkNteWtPaU1fRVh0UC1wd3JpbWlJY3RlcEphcXM3RGJOTTZrbXptSlpZcFhCZjhCd3RoLTJ4Z3d1b1p0NHFNVXczSTI0RWMzS3lkRUFHdmZ4RTlidG9FTjItcy03NVc1MEpQUmpmY3J4cTZwSmVZYmhzaS1HSXlhWmNTTEljU1lrRUQ4bVNTWl9MOHFfYUlrZkxVdmc3WFN5MEdROTJ1S1kzLVo4MEY1V2NvOVhpVTFLTWNNMUVZNERkRWhDQw?oc=5"
         }
       ]
     },
@@ -38,6 +62,30 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUlFlUFg3RzRvaGtadFZWVjFwWGxVOVduX3J5US1MQXJBeFBOVy1aSUdrV2MzOWI1WW41QjdhSmhOajNPU2JpNTJReDFxS25UZEZGX2Nob2ItVko4RnJZc2VEaW92d19hYnRzaVFSck5LTHBaQWNiemtnSW9WX0h3eW1NVmJDYkZjcmhwS2Z4dzBBR2x2YjdfdDVwUG1RNWljOWpSQmk5b3ExcVlKbW52OWNaZlBoOTgzbTNNbXluZ0hUdTR0VTdfeEtCQ0NLdGZhanhaQ28tXzlaeW1RTDhnY054V1RjclJNMXhjMElmX1Z5ZFJKR3JrZk5FQXhqbkx4dEFWS3FB0gGUAkFVX3lxTE9QSzVYQmpKWkJHNGQzNUVUYXdDTUtYd0laYzBOd3kxQjRna2MyV0piMWxlX1V0cEV2NmpSLVNjUzZ5T0ZCVUpGZjRSR0hRbjJCTkdWOElRVFlnMVd6bjM1eVR5UG5hSmJtOEp6WWhKY2JOQUtyVUE2VnFhSDRNdWVXR0VNSWw0OGdwaFd4WEtvcXl0TFA0X0FUNktsRkItRFNpQzk1bWlQUFlldHFVTm1hSXNzN25tZ1pIcTlmZkJwMzFOcTIwcFRhQVdCVVkya0MwX3Z0MzcwcnVpYVRtbFZMdDN5azdFR0ZVci1FUFl5TUZtYzRlWWRXdkZ1Y29nS1BUbXZQN1Zqemh6aF96ZktHbE1XdQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8cc514b8b072",
+      "title": "Ninhos de aves escondem um dos maiores vilões do meio ambiente, mas cientistas encontram relação inesperada após oito anos de pesquisa - Diário do Litoral",
+      "published": "2026-10-26T17:23:00+00:00",
+      "summary": "Ninhos de aves escondem um dos maiores vilões do meio ambiente, mas cientistas encontram relação inesperada após oito anos de pesquisa&nbsp;&nbsp;Diário do Litoral",
+      "sources": [
+        {
+          "name": "Diário do Litoral",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYzg4NUVSREhDQUEzZEFWQURqc2JDbTRRbHlxbEw0am1Yb2RwYWdRcGhNaXJoTmZJMUE1MUlSNjlTTV83ejJ6aW5PbVRfVk9vNnZpTFlwYlJBNVVlR0gxeGZoZjBsWWNpTG53X0d6Q2ZGdVlFZHRrakVKUER0bHZTN1JKd0NfckRMZml4SmVJejR0UXY2bTFiejlJdEtQNTdGbG5OYThoSFF3UTM3TF9YdWVaazBUQXVwVzRqb1doQW9hbHVZWEpaWTgtWlNMVjdlbnprMF91Z3Z1MTdTLU1OQzhtYVU5TF9NYmF6VlZwMTFKUUp0S3BKNEUyM1FNUE1wbjNJNDNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f21993095369",
+      "title": "Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda - O GLOBO",
+      "published": "2026-10-26T17:20:40+00:00",
+      "summary": "Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda&nbsp;&nbsp;O GLOBOEstudo associa aspirina e demência a perfil plaquetário&nbsp;&nbsp;Afya | HomeRemédio comum encontrado em muitas casas chamou atenção após estudo apontar possível redução de até 70% no risco de demência&nbsp;&nbsp;Tribuna de MinasAspirina é associada à redução de até 70% no risco de demência em grupo de idosos, mas aumenta sangramentos&nbsp;&nbsp;Em Tempo NotíciasAspirina pode reduzir risco de de",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5"
         }
       ]
     },
@@ -69,7 +117,7 @@
       "id": "5051479bfa97",
       "title": "Anda dormindo mal? Novo estudo mostra que alguns hábitos de sono podem sinalizar um tipo específico de depressão - O GLOBO",
       "published": "2026-10-26T07:00:00+00:00",
-      "summary": "Anda dormindo mal? Novo estudo mostra que alguns hábitos de sono podem sinalizar um tipo específico de depressão&nbsp;&nbsp;O GLOBOEstudo identifica novo subtipo de depressão ligado ao relógio biológico&nbsp;&nbsp;CNN BrasilDorme demais ou acorda exausto? Entenda o que é a 'depressão circadiana'&nbsp;&nbsp;TerraEstudo sugere relação entre hábitos de sono e subtipo de depressão&nbsp;&nbsp;Diário do Centro do MundoEstudo associa distúrbios do relógio biológico a um em cada quatro casos de depressã",
+      "summary": "Anda dormindo mal? Novo estudo mostra que alguns hábitos de sono podem sinalizar um tipo específico de depressão&nbsp;&nbsp;O GLOBOEstudo identifica novo subtipo de depressão ligado ao relógio biológico&nbsp;&nbsp;CNN BrasilDorme demais ou acorda exausto? Entenda o que é a 'depressão circadiana'&nbsp;&nbsp;TerraEstudo sugere relação entre hábitos de sono e subtipo de depressão&nbsp;&nbsp;Diário do Centro do MundoDormir mal e acordar cansado podem estar ligados a um perfil específico de depressão",
       "sources": [
         {
           "name": "O GLOBO",
@@ -81,7 +129,7 @@
       "id": "8ef15caf629f",
       "title": "Uso excessivo de descongestionantes nasais pode piorar entupimento - CNN Brasil",
       "published": "2026-10-26T06:36:35+00:00",
-      "summary": "Uso excessivo de descongestionantes nasais pode piorar entupimento&nbsp;&nbsp;CNN BrasilNariz entupido à noite: como desentupir sem abusar do descongestionante nasal&nbsp;&nbsp;Tua SaúdeFarmacêutico alerta para erro que muitos cometem ao usar spray nasal&nbsp;&nbsp;Notícias ao MinutoUso excessivo de descongestionante nasal pode piorar nariz entupido&nbsp;&nbsp;98,7 Raízes FM",
+      "summary": "Uso excessivo de descongestionantes nasais pode piorar entupimento&nbsp;&nbsp;CNN BrasilSpray nasal pode piorar o nariz entupido e criar um ciclo difícil de interromper&nbsp;&nbsp;Jornal da FrancaNariz entupido à noite: como desentupir sem abusar do descongestionante nasal&nbsp;&nbsp;Tua SaúdeFarmacêutico alerta para erro que muitos cometem ao usar spray nasal&nbsp;&nbsp;Notícias ao MinutoUso excessivo de descongestionante nasal pode piorar nariz entupido&nbsp;&nbsp;98,7 Raízes FM",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -126,42 +174,6 @@
       ]
     },
     {
-      "id": "be2e34f11aa7",
-      "title": "Em 1984, 12,5 milhões de sementes de tomate foram lançadas ao espaço pela NASA e, após quase 6 anos longe da Terra, participaram de um experimento científico realizado em milhares de escolas - Super Rádio Tupi",
-      "published": "2026-10-25T18:55:53+00:00",
-      "summary": "Em 1984, 12,5 milhões de sementes de tomate foram lançadas ao espaço pela NASA e, após quase 6 anos longe da Terra, participaram de um experimento científico realizado em milhares de escolas&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPcXdLOHJ5YUl6dUdVMENhNEo3by1nUFZPWE1lTGhWbHdyZGxuVVhxSDEyMFU5MGg5ZTQ0eXE3b2d1Wk9sX2FzcFF5NVR6ZDdCb0pHZFlSZm5ETU80ZnEwNHp4TXQzNE9kakE1TzdyLUFvU1VfXzRnbWlGZko1OF9GQjFnS3p0R1VTbTdycjlyU2QwbmhtZEoyb09FODV6VHZ4YUd5d2M1dVZoVzc3aTk2ZmdtSk95X3d3Nk4yZjhUY1FpUUJKdFhGQXlxb0ZReW14djFkQ2l4NjBuODk5ZmpkTEpiaVpGcmRWZ090Wl9FRUFMd2Z2LU1yNEsySmg1ZkFONlEtN09URFRaZHV4OTJybHRkZllSWUw0a1RpTjBBckhVTV9pSWZGWldqUnRVSkhGbjIyTG95R0R6WC1NdmFDTjlMb0Q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f71f2490772e",
-      "title": "Câncer de boca em MS: 172 mortes, 141 de homens - Campo Grande News",
-      "published": "2026-10-25T18:49:00+00:00",
-      "summary": "Câncer de boca em MS: 172 mortes, 141 de homens&nbsp;&nbsp;Campo Grande NewsCâncer de boca avança e deixa 172 mortos em Mato Grosso do Sul&nbsp;&nbsp;Capital NewsOs riscos do câncer de boca&nbsp;&nbsp;Votuporanga TudoSES organiza estratégia para agilizar diagnóstico e tratamento do câncer de boca em MS - Ponta Porã Informa&nbsp;&nbsp;Ponta Porã InformaFerida na boca que não cicatriza em 15 dias deve ser investigada; MS registrou 172 mortes por câncer de boca desde 2023&nbsp;&nbsp;HoraMS",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFpxaUJtSFlxQTdCLXJXeDlSWE5zZGk4M2FaWTU2ZzN1YVY5RXhRS192ekFZMHpjT0FHUjlQYWctcG9TSjdoeHF1ejBNRGxCTk5PYjNfamoteEtKaG43LVF2Rm5aNmlpUkEtYlFaZWQ5dkxhTmRFcXpjREdMZW1JMUZOSS1fS0VFNi1qcXE5azdHX0FGam5OZFRLNmpqOGpnMG5Mc05sRjBCeG9kT1o5aXMxejNGeno1N19v0gG7AUFVX3lxTE1QZTBpSHVsbnFrRTVvX3pmNklQejZTX0VBN3ZkOGNaeWtEZDg4NnRpVzZyVDlZQmwyT0s4ZWllb0NuUDN3ajRtbGFtLW9nWWRidjJzUEtMcE9vY3dhSFpxajNmSzZXamxHcERxWXFUQ0Zrb3FQWU12Umc4SG1DVGEzdXh1ZlNOb25OM0FZWm1EOHlSWU5ZNXdIamhsLWRrYm1iMm9oTmlpSHFqbGxENm5veUh5bjE4YzBKOEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e94b1962c5d",
-      "title": "Mudanças climáticas ampliam doenças infecciosas no Brasil - Campo Grande News",
-      "published": "2026-10-25T18:34:00+00:00",
-      "summary": "Mudanças climáticas ampliam doenças infecciosas no Brasil&nbsp;&nbsp;Campo Grande News",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0dkX2ROOF90ZmRjeWpNMGhKUjBXaGJuZTF4bWZkY0R0bU9KekhocnNiSUpBdHd3Um51S0EySDRnb0xQdWJHSy1haXpjNG5CX1p6Z1Y5dG1FX3RmUWdidDJfYV90OEV5SXRiMVlrOS12aGVtbUNzeTNtaXdTM3N0Q2RrUzZKY3RWNGdVOUhNZ05SMjR6emtDVVBEdnZQM2ROZUNSeFpReDY5eEVHa1lYZUxWTWo1VGNZVnfSAboBQVVfeXFMT1VRZE1oSGVmMU1LTXh1MXdVRW5qLXlxZzNFQXdOd05MVEFGNjBUanJkaUdtRUZwZDdxc3hxaUhwNjZzc0NqSDUxT3pPekN1MmxwXzRralRCNE5NaGt0bFBaRGt5OXJQRE1ZV3UxekxPZEFzNm5TaTZvVVhEandrT2dXWnc0LVVOTGpWRHd4dTFhb3J0ekxPU1I5LTVRU3hKZUJBVXgtanVxbTc4RmZ4Sk5XQmdKeU5CTllB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e59135b096fa",
       "title": "Americana toma vacina de febre amarela pelo SUS e diz ter poupado US$ 400 - Metrópoles",
       "published": "2026-10-25T18:28:00+00:00",
@@ -170,30 +182,6 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0Z0amY2MFYxX0dzQUtQRS1BYWhoYXpPSTlYaWpYdG9NUGdqSTdmS0NaanJjSC0ybFdHbTkwWEtCWGtGeDdXc1hIdG4xRHBNU25SN0p3aHB0NWVsTHdmN0p0TEI0b0tra2syd0lxSnBkRWhfdmhwYmVSdHdTNlZ6X19OYk0yemZLRXNxeVVZZUN4bW5tVnRIM2ZfUmZ0b1I0SjNKTEhmclI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6a5115f94be0",
-      "title": "Aspirina pode reduzir em 70% risco de demência em idosos, mas traz risco - Metrópoles",
-      "published": "2026-10-25T16:20:00+00:00",
-      "summary": "Aspirina pode reduzir em 70% risco de demência em idosos, mas traz risco&nbsp;&nbsp;MetrópolesAspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda&nbsp;&nbsp;O GLOBOEstudo associa aspirina e demência a perfil plaquetário&nbsp;&nbsp;Afya | HomeAspirina é associada à redução de até 70% no risco de demência em grupo de idosos, mas aumenta sangramentos&nbsp;&nbsp;Em Tempo NotíciasAspirina pode reduzir risco de demência em idosos com predisposição genética a níveis eleva",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWJPajlCeEdoMXpoT1VSYmxpQWtaeXVEMzlxVzR1VkoyazlmV0hqNEk2bzhZTk1aWnN0ZkxHVml0RFVsbnRVd21uMHZWdkhESkhiMnpaSG1Ic1dsSFhUMFhNN0xWeEdKbmNSa05yX1FGazdTR2tzMThrU21VVzljR19YWkdJTjlZSy0tbjlZenlDdl9CMzlDSm9STnh0bDlYVldRZ1ZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2352d3ec511",
-      "title": "Um em cada quatro adultos com diabetes tem perda auditiva, aponta estudo - Folha de S.Paulo",
-      "published": "2026-10-25T16:00:00+00:00",
-      "summary": "Um em cada quatro adultos com diabetes tem perda auditiva, aponta estudo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTc1U1BDVkNmY2NabUg1ZDdzYnRlSm44c0p4NzJLemR2ZUFaMmo4cHIteExMTTVwbHNiclFrRkZHT1pjVDc5NEg1UTF5MUJNUDk3azJ4M2tmbnJZdzQ2WktGLUtrOHZuUmpkVDFXTXNlNVZaWnJmTzJLZ284SGUxTmFONVRyaTJJaGRvcjRubURYQkg2Q240cWota05EZ21zbG0zVzh0TDFVZ0lsZzk0SDcxMTBtRGxPTG9GNWdTZmNreVBKRnJuc2c0ZTE?oc=5"
         }
       ]
     },
@@ -258,18 +246,6 @@
       ]
     },
     {
-      "id": "ef8b4db2db9d",
-      "title": "Opinião - Marcelo Leite: Vacina para câncer de pele renova fé na genômica - Folha de S.Paulo",
-      "published": "2026-10-25T11:30:00+00:00",
-      "summary": "Opinião - Marcelo Leite: Vacina para câncer de pele renova fé na genômica&nbsp;&nbsp;Folha de S.Paulo‘Um avanço histórico’: vacina personalizada reduz recorrência de câncer de pele agressivo em 42%&nbsp;&nbsp;VEJAVacina de mRNA contra câncer reduz em 42% risco de morte ou volta do melanoma&nbsp;&nbsp;G1Primeira vacina ARN-mensageiro contra cancro reduz em 42% o risco de recaída&nbsp;&nbsp;PúblicoVacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027&nbsp;&nbsp;InfoMoney",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2h2N2VEY0RrWllHUldtZFBGT205b3NfWUFlb0t6aVBWX2ZUcHN6S0JMdDZ6UmZydGVkN19tSVNlRUVuQk9hWXFuTWNWWVlFb1c5LUFPaXdmdjdQSjRWWlJKRHh1VG4xQ1kxMVUtNlZkRVY0VnJXRzVkTVdSSi1kY09Fd1dpckFZQ2FITkNza1ZRT3JOOWVJREp2MVpYeVJVaWJMUDNSamZWWlZJM3FsQ3RnVQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6fbbe6cf653a",
       "title": "Quatro minutos de exercício por dia melhoram força após os 65, diz estudo - UOL",
       "published": "2026-10-25T08:30:00+00:00",
@@ -282,18 +258,6 @@
       ]
     },
     {
-      "id": "d2bd2e851f90",
-      "title": "Professor especialista em felicidade acorda às 4h30: o que a ciência diz sobre levantar cedo e o humor - Tua Saúde",
-      "published": "2026-10-25T07:28:39+00:00",
-      "summary": "Professor especialista em felicidade acorda às 4h30: o que a ciência diz sobre levantar cedo e o humor&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaTFDTTk5MmRieG1ZSnNHbGt1MEpRM0gweUZha1ZfcFJVNTZFb2JUbTJyU2pRZ1lTTFFoVkFjcnNZdTlnVEZoZ2VsV2xFckJ4NHdRMW1yOG9ULThIcUdWUHJ5NjBfdnBiMXJqLUVpUFlURktzdE4zbEtVOWM4a05UajFteWppVFJfWmY3dlA3RWFpTjBEdGE2b0c1dEU5TzdYaktxYjNtTVByNHR1d1VTMDRoYVJTMVRzWjdCWFpmbjRqc0FlVXZtYzJrSzBtTkN1M3VpemJLMEx6ZEk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3518c9a9cc3f",
       "title": "O que as últimas pesquisas indicam para o resultado neste domingo, segundo modelo estatístico - Estadão",
       "published": "2026-10-24T23:46:58+00:00",
@@ -302,6 +266,18 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeXpKcVBFTmN0bDNvdnEzZ2JkY0M0M0hzQm1CSUdnSmZrekNFWklMa0J6Y3QycWlJZVJVcWNNWmRsVFNNQmw2UmRTSXk1UmZ1Zy1nWTZETnQyenhZUk84R09TRDRjb1RBTlM2TWRpM3VPbmYtNmRURnd3Q1RPN3U0OS10MURjd3MzbVBjSmFhREgxRjc5VXZKeFVObDd1alE4anRpcVJKRDFueXRnVWtrYXZDVk9oM2dfV0p4VUphTlhHRWQ1WTRvTGtUVkRLYkJXcE9rLdIB2gFBVV95cUxOYjZxTVE2RHNsQ1NBTUdDOXVvZmNkcE1yQm51VnR0bUhKYzlNZmJVbnprOS1neThyVFlZeE9EMlNLQm5ETC1TUGV0MlNpd0hiYTBucDNsRWdiV2Y5V19KTjdtSUVZRzJDNWp2RElGXy1OanJGTmhlVDZhSGU4RFljMFhGNHBEeTkwNkxsa29EU3JuYmdvZlU5WEVvam9KMkVPS2p3TDZjNk1NbzlhVHc1NndBa0txc3QzLTZCdEJmRW1wbExUMDZ0RXVfTV9PLVBFeWJJalJYRHp1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42bd8e808e74",
+      "title": "Internações por doenças intestinais sobem 66% em nove anos na região de Campinas; médico alerta para fatores de risco - G1",
+      "published": "2026-10-24T22:23:02+00:00",
+      "summary": "Internações por doenças intestinais sobem 66% em nove anos na região de Campinas; médico alerta para fatores de risco&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOGdOTTlsSzQwZmZ2Zlc3c0hlUUoxRE5DNndiNklGeXNDZnVkb3FMNUgyaTRfRV9Ha2FSSHpKZWxBcDlyaC1wZ3JGMlBtUmJ6eUtJWUx4dkd2eGxET3RPOWFWWUx2a2Z0NlNiU3NBeXpYeWRReGI5QWZFdF9hdVNXeUtaUnpIVF9BYnNab3BDazFwR185Q01wRTZtTXZ0TDVoWHNFWnEzZlk5VUJnYWhpSHdhcURQNUFTZVN0ZVItcVl3VWNETDUwbDVjcTR2YkdST3FHYnR5enN4TGpqM25GMU5WN2dSTWNvaGVrdmlFbDlMT2VjZVYwT2duQmxtaS1DUkhHZDRwMXpQazR3WU1TUEpLS2x1d9IBpAJBVV95cUxOTEFxZFJHanM4MjhoamR2S3dkZGprZFc1S29KdEJWeVkySTAteTd2T25yYjJTNHZoWm0wRkRzTUVFNWd4QzZRVkw3YUNMX2lDdDBvU1RrV2JBeXJrcG5OZi1XOGRJT1llNGVudmRBS0Z3TEZTSVJBT3BzRW5RVS0zRVVlam9HN0huTk5lSzRMVnVUNEVZNzFIZzZDOXYwVEpfZ2FSUzlueWhaNm53VV9zdnN3eXZJMzBGbW9uc2g0cmp0aUt3dV9UZU5SY3VtdklmOTg5b2VodWF2clNCNUUxdUN1elpFV05scm02cDBCX3BSR1FBUEw4X2NSb181QUoxXzJRQ0ljWFVQZUFZT1VHSW1JempmN1FkRjIxQURNWm9VZUVY?oc=5"
         }
       ]
     },
@@ -342,6 +318,18 @@
       ]
     },
     {
+      "id": "f61211f9ffb0",
+      "title": "Dragonfly da Nasa pousa na maior lua de Saturno pela primeira vez, mas sem sair da Terra - CNN Brasil",
+      "published": "2026-10-24T07:30:34+00:00",
+      "summary": "Dragonfly da Nasa pousa na maior lua de Saturno pela primeira vez, mas sem sair da Terra&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2ZEM1dWUWN3M0NVWldZLXZqc2dRV1NfRWJGX21jaG0zVkw3akJ2clFTYWVfRV95eEktckNrb3FFZmU4b2x3SnhuUUJPdjZ3ZE9FaXhuRXFUQjVsRmlBeVZZOU9JMFNwY2VGVFh5ZmkySm9lOFZKNWxzUGJxMGdtNWJJZWl5UU55bDkwOHdoRGVaY3BrMTFFbGhEQm1wZlRRYzRYTklQMVQzMTU2TXpqMnR1YU5rQU1FZTJka2ZUQjhlSkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "81ce0bb5ba83",
       "title": "Pesquisadora da polilaminina chama ciência de religião e compara cientistas críticos a ela a Mengele - Estadão",
       "published": "2026-10-23T23:53:00+00:00",
@@ -350,6 +338,18 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeWNOTFotbm1SVm44NS15MWd5V2ZCS0wwbnJWUFpCYmM5MC1MSmtjSVd6SkR6Xzctc3JMVlI4M29jdDRkbmFlekxTdzZqZGtTRmY4VG9vczBOWlNlUlhfdUxlRjFZYU9tSVJIY3hmbkxQTFB5RDduaTZORjJCRnlac2xpM1h2QXN6eV81a0tQdGtOby1iRGhZR0RfQVJ2dWMwelh4NFg5WV9Ld2NqdG4zMW5KdWZzdHExLUJiblpfTkJKVHFTNkg5bXViVUk5SURaNXdMYkVyR3Eyb0RkaU1lblZ3WWt3WTFC0gHuAUFVX3lxTE52SWZ5OFJveFE1bjZxMGtmSXB4V2RxczJDVGo1Qm5WdTJPZl8yd25mVGRNeTc2aTRNR0U2WUF4ZWJ3UTNpYWhnTFM5dmFrUGJVRDEtWUdOTXNtdTEway1XbGdkbTY1N3FTX0g4MDliclBXcEU4ZUU3aUk1SlExUmpKOVNVUnhnN3lQTjJ6OWxQbUJCcFhTRzF6dXNQSUtkNy1zOFFSNFlkTVVkNVVnbVR4d1dFZTVYcEU2QlQtZGFoU0UxX282WkE1WHpQc2ZZY1ZJVDZqR29aWWhhRUtHM1JkemNPcjZUWGg4N1Q5S1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b263abc1eeed",
+      "title": "Vacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027 - InfoMoney",
+      "published": "2026-10-23T17:00:00+00:00",
+      "summary": "Vacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027&nbsp;&nbsp;InfoMoneyVacina de mRNA contra câncer reduz em 42% risco de morte ou volta do melanoma&nbsp;&nbsp;G1Opinião - Marcelo Leite: Vacina para câncer de pele renova fé na genômica&nbsp;&nbsp;Folha de S.PauloPor que as ações da Moderna estão caindo hoje?&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos‘Um avanço histórico’: vacina personalizada reduz recorrência de câncer de pele agressivo em 42",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1acVdGbk42VFBoNWlidTVFSFc1WnNWNm03VWljWERvcW1nUUthekJwXzZmVzgzc2F4NVpQVTg4SnNmTFNySkRiZ0hzWFZoNmg3UkgtRTRMRks2QnhKS0x3SFlqcC0yb2FyUU9RcWpoWHhnemtDb0t1Q0p30gF_QVVfeXFMUGtTcWU4dE1kTDdvV2tPWWlRSHVPRWlTSnFTeWdCUGl5bDQxTExwOFdOd3ZOYmF6SDVDV0RpVDZvTG1NTmJfdXg3bEUzTVRGU29jQkVud1VPMDF3RjhHbENkbGpkTUxPcGZ2N1NaVDd1anIwTXJYVXFKWTFBT2N6dw?oc=5"
         }
       ]
     },
