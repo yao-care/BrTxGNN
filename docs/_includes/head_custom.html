@@ -382,7 +382,7 @@ window.TXGNN_ANALYTICS = {
       "@id": "{{ page.url | absolute_url }}#itemlist",
       "name": "Relatórios de evidências de medicamentos do BrTxGNN",
       "description": "Relatórios de evidências de reposicionamento para medicamentos aprovados no Brasil",
-      "numberOfItems": {{ site.drugs.size }},
+      "numberOfItems": {{ site.data.drug_stats.total_drugs }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
     {

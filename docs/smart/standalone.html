@@ -572,7 +572,7 @@
       </p>
       <p style="margin-top: 8px; color: #856404;">
         <strong>Nota:</strong> Insira nomes de medicamentos, nao nomes de doencas. Por exemplo, digite "Famotidine" em vez de "diabetes".
-        O banco de dados atual contem 993 medicamentos. Clique nos botoes de exemplo abaixo para testar rapidamente.
+        O banco de dados atual contem <span class="drug-db-count">…</span> medicamentos. Clique nos botoes de exemplo abaixo para testar rapidamente.
       </p>
     </div>
 
@@ -681,6 +681,7 @@
           drugMapper = new BrTxGNN.DrugMapper(searchIndex);
 
           console.log('Search index loaded:', searchIndex.drug_count, 'drugs');
+          document.querySelectorAll('.drug-db-count').forEach(el => { el.textContent = searchIndex.drug_count; });
 
           // Check for URL parameters
           const urlDrugs = getUrlParams();
@@ -837,7 +838,7 @@
                   "${escapeHtml(drugName)}" nao foi encontrado no banco de dados BrTxGNN.
                   <br><span style="font-style: normal; color: #666;">
                     Verifique se e um nome de medicamento (nao um nome de doenca) ou tente usar o nome generico.
-                    O banco de dados atual contem 993 medicamentos aprovados pela ANVISA.
+                    O banco de dados atual contem ${searchIndex.drug_count} medicamentos aprovados pela ANVISA.
                   </span>
                 </p>
               </div>

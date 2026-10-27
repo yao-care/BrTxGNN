@@ -1,78 +1,16 @@
 ---
-layout: default
-title: "Notícias sobre Tafamidis"
-parent: Notícias de Saúde
-nav_exclude: true
-description: "Notícias de saúde relacionadas com Tafamidis. Indicação original: . 1 indicações previstas."
+layout: id_redirect
 permalink: /news/tafamidis/
+sitemap: false
+search_exclude: true
+nav_exclude: true
 ---
-
-# Notícias sobre Tafamidis
-
-[← Voltar à visão geral das notícias]({{ '/news/' | relative_url }})
-
----
-
-<p class="key-answer" data-question="Que notícias há sobre Tafamidis?">
-<strong>Tafamidis</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
-</p>
-
-<div class="key-takeaway">
-Esta página combina as indicações previstas por IA para Tafamidis com as notícias de saúde mais recentes. As indicações destacadas em laranja têm cobertura noticiosa recente.
-</div>
-
-<div class="drug-info-card">
-<strong>Informações do medicamento</strong>
-<ul>
-<li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Amiloidose primária (primary amyloidosis) (85.0%)</li>
-</ul></li>
-</ul>
-<p><a href="{{ '/drugs/tafamidis/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
-</div>
-
-## Notícias relacionadas (0)
-
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
-
-
-<div class="disclaimer">
-<strong>Aviso de isenção de responsabilidade</strong>: As notícias desta página são recolhidas automaticamente e servem apenas como referência para investigação; não constituem aconselhamento médico.
-</div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/tafamidis/">
+<meta http-equiv="refresh" content="0; url=/drugs/tafamidis/">
+<script>location="/drugs/tafamidis/"</script>
+<a href="/drugs/tafamidis/">/drugs/tafamidis/</a>
+</html>
