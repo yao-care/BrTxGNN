@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Atazanavir Sulfato: Do Tratamento do HIV — Sem Previsão de Reposicionamento Disponível
+## Atazanavir Sulfato: Do Tratamento do HIV — Sem Previsão de Reposicionamento Disponível
+{: .text-alpha }
 
 ## Resumo
 

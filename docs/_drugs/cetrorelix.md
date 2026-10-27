@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cetrorelix: Dos hormônios da hipófise à hipertricose
+## Cetrorelix: Dos hormônios da hipófise à hipertricose
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

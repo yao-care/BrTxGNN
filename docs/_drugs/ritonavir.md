@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-# Ritonavir: Do HIV/AIDS à infecção por vírus da imunodeficiência símia
+## Ritonavir: Do HIV/AIDS à infecção por vírus da imunodeficiência símia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Carbonato de sódio: Do antiácido à síndrome da cauda equina
+## Carbonato de sódio: Do antiácido à síndrome da cauda equina
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

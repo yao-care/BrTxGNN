@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Ácido aminobenzoico: De produto sem classe terapêutica específica à esclerodermia sistêmica limitada
+## Ácido aminobenzoico: De produto sem classe terapêutica específica à esclerodermia sistêmica limitada
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

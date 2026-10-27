@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Polimixina B: De antibiótico sistêmico e tópico para bronquite (predição principal do TxGNN)
+## Polimixina B: De antibiótico sistêmico e tópico para bronquite (predição principal do TxGNN)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Acyclovir Sodium: Reposicionamento Não Avaliável por Ausência de Dados Regulatórios
+## Acyclovir Sodium: Reposicionamento Não Avaliável por Ausência de Dados Regulatórios
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

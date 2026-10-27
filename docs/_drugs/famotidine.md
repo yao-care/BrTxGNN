@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Famotidina: De antiácido e antiulceroso para refluxo duodenogástrico
+## Famotidina: De antiácido e antiulceroso para refluxo duodenogástrico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

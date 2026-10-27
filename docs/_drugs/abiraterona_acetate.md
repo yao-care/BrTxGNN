@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Abiraterona Acetato: Do Câncer de Próstata a Indicações Não Preditas — Dados Insuficientes para Ciclo Atual
+## Abiraterona Acetato: Do Câncer de Próstata a Indicações Não Preditas — Dados Insuficientes para Ciclo Atual
+{: .text-alpha }
 
 ## Resumo
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Droperidol: Do uso em anestesia e antiemese à síndrome de Tourette
+## Droperidol: Do uso em anestesia e antiemese à síndrome de Tourette
+{: .text-alpha }
 
 > Observação: a indicação prevista de maior posição (rank 1) é a síndrome de Tourette, mas ela não tem nenhuma evidência clínica. A indicação com maior volume de evidências nos dados compilados é **transtorno de cefaleia (headache disorder)**, discutida em destaque ao longo do relatório.
 

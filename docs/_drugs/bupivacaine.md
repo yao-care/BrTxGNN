@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Bupivacaína: De anestésico local para acrodermatite crônica atrófica
+## Bupivacaína: De anestésico local para acrodermatite crônica atrófica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **5**
 
 </div>
 
-# Eplerenona: De outros medicamentos de ação no aparelho cardiovascular para hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia
+## Eplerenona: De outros medicamentos de ação no aparelho cardiovascular para hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

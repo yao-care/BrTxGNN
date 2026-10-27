@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Everolimo: De agente imunossupressor/antineoplásico para lipossarcoma
+## Everolimo: De agente imunossupressor/antineoplásico para lipossarcoma
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

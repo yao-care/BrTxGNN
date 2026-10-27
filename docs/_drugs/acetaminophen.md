@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Acetaminofeno (Paracetamol): De analgésico não narcótico para enxaqueca com aura do tronco encefálico
+## Acetaminofeno (Paracetamol): De analgésico não narcótico para enxaqueca com aura do tronco encefálico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

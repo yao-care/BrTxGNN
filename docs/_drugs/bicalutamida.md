@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Bicalutamida: Do Câncer de Próstata — Avaliação de Reposicionamento Pendente
+## Bicalutamida: Do Câncer de Próstata — Avaliação de Reposicionamento Pendente
+{: .text-alpha }
 
 ## Resumo
 

@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Ciclobenzaprina: De relaxante muscular à síndrome de dor miofascial
+## Ciclobenzaprina: De relaxante muscular à síndrome de dor miofascial
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

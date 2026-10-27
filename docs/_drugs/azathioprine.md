@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Azatioprina: Do imunossupressor à doença inflamatória intestinal
+## Azatioprina: Do imunossupressor à doença inflamatória intestinal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

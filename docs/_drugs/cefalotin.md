@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **8**
 
 </div>
 
-# Cefalotina: Da antibioticoterapia sistêmica à uretrite gonocócica
+## Cefalotina: Da antibioticoterapia sistêmica à uretrite gonocócica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

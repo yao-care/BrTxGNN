@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Metotrexato: De antineoplásico citotóxico a Blastoma Pulmonar
+## Metotrexato: De antineoplásico citotóxico a Blastoma Pulmonar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

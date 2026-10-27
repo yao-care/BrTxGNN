@@ -31,7 +31,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Capecitabina: De antineoplásico geral a adenocarcinoma gástrico tubular
+## Capecitabina: De antineoplásico geral a adenocarcinoma gástrico tubular
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

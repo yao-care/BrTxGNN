@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **1**
 
 </div>
 
-# Midazolam: Da ansiedade à insônia
+## Midazolam: Da ansiedade à insônia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

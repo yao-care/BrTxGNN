@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Clomifeno: De produtos para uso em ginecologia e obstetrícia para anovulação
+## Clomifeno: De produtos para uso em ginecologia e obstetrícia para anovulação
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

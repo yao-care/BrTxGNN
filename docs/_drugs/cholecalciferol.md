@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-# Colecalciferol: De vitamina D e análogos para hipoparatireoidismo isolado familiar por secreção deficiente de PTH
+## Colecalciferol: De vitamina D e análogos para hipoparatireoidismo isolado familiar por secreção deficiente de PTH
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

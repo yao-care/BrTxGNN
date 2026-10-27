@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Levofloxacin Hemihydrate: Avaliação Inconclusiva — Sem Predições de Reposicionamento Disponíveis
+## Levofloxacin Hemihydrate: Avaliação Inconclusiva — Sem Predições de Reposicionamento Disponíveis
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

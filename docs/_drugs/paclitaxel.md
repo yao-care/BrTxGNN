@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Paclitaxel: Do câncer de ovário ao carcinoma de mama feminino
+## Paclitaxel: Do câncer de ovário ao carcinoma de mama feminino
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

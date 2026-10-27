@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Polidocanol: Da doença varicosa às varizes esofágicas com sangramento
+## Polidocanol: Da doença varicosa às varizes esofágicas com sangramento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

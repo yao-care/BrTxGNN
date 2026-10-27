@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Minoxidil: Da hipertensão e alopecia à hipotricose simples do couro cabeludo
+## Minoxidil: Da hipertensão e alopecia à hipotricose simples do couro cabeludo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

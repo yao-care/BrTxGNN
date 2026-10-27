@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Anastrozol: Do tratamento antineoplásico ao carcinoma de mama feminino
+## Anastrozol: Do tratamento antineoplásico ao carcinoma de mama feminino
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

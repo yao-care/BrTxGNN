@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tocoferol: De produtos dermatológicos e vitamínicos para colangite esclerosante
+## Tocoferol: De produtos dermatológicos e vitamínicos para colangite esclerosante
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

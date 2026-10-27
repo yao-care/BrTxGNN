@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Metenamina: De antissépticos urinários para uretrite por Ureaplasma
+## Metenamina: De antissépticos urinários para uretrite por Ureaplasma
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

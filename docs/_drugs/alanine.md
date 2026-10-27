@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Alanina: De nutriente parenteral para gastroparesia
+## Alanina: De nutriente parenteral para gastroparesia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

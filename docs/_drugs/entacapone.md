@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Entacapona: De antiparkinsoniano à neurodegeneração associada ao PLA2G6
+## Entacapona: De antiparkinsoniano à neurodegeneração associada ao PLA2G6
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

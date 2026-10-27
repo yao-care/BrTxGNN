@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Arginine Glutamate: Avaliação Pendente — Dados Insuficientes para Reposicionamento
+## Arginine Glutamate: Avaliação Pendente — Dados Insuficientes para Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

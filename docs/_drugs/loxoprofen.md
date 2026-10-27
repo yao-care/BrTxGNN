@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Loxoprofeno: De anti-inflamatório para síndrome de microftalmia colobomatosa com displasia rizomélica
+## Loxoprofeno: De anti-inflamatório para síndrome de microftalmia colobomatosa com displasia rizomélica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

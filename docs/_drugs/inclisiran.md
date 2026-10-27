@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Inclisirana: De antilipêmico para deficiência de potássio (previsão do modelo, sem evidências de suporte)
+## Inclisirana: De antilipêmico para deficiência de potássio (previsão do modelo, sem evidências de suporte)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

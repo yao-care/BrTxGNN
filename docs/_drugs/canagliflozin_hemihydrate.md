@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Canagliflozin Hemihydrate: Reposicionamento Não Avaliado — Previsões TxGNN Indisponíveis
+## Canagliflozin Hemihydrate: Reposicionamento Não Avaliado — Previsões TxGNN Indisponíveis
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

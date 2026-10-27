@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Nicotinamida: De complexo vitamínico B para zinco plasmático elevado
+## Nicotinamida: De complexo vitamínico B para zinco plasmático elevado
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

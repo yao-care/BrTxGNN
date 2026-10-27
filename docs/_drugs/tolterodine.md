@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Tolterodina: De outros produtos com ação no trato urinário para bexiga de baixa complacência
+## Tolterodina: De outros produtos com ação no trato urinário para bexiga de baixa complacência
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

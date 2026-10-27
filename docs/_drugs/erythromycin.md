@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Eritromicina: De antibiótico sistêmico para ceratoconjuntivite epitelial punctata
+## Eritromicina: De antibiótico sistêmico para ceratoconjuntivite epitelial punctata
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

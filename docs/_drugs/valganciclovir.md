@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Valganciclovir: Do tratamento de infecções por citomegalovírus à artrite reumatoide (previsão do modelo)
+## Valganciclovir: Do tratamento de infecções por citomegalovírus à artrite reumatoide (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

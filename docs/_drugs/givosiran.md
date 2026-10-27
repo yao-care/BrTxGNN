@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Givosiran: De outros produtos que atuam sobre o sistema nervoso para hepatoesclerose portal
+## Givosiran: De outros produtos que atuam sobre o sistema nervoso para hepatoesclerose portal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

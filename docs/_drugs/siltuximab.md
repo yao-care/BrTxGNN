@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-# Siltuximabe: De imunossupressor a mastocitoma extracutâneo
+## Siltuximabe: De imunossupressor a mastocitoma extracutâneo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

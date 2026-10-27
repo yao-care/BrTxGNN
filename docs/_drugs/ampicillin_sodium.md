@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Ampicillin Sódico: Avaliação de Reposicionamento — Sem Predição Disponível
+## Ampicillin Sódico: Avaliação de Reposicionamento — Sem Predição Disponível
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

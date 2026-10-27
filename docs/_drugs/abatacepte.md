@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Abatacepte: Fármaco Registrado — Sem Previsões de Reposicionamento Disponíveis
+## Abatacepte: Fármaco Registrado — Sem Previsões de Reposicionamento Disponíveis
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

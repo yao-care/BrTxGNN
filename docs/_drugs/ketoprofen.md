@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cetoprofeno: De anti-inflamatório e antirreumático para displasia acromesomélica tipo Hunter-Thompson
+## Cetoprofeno: De anti-inflamatório e antirreumático para displasia acromesomélica tipo Hunter-Thompson
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

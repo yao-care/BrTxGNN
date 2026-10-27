@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Adenosina: Avaliação de Reposicionamento – Predições TxGNN Não Disponíveis
+## Adenosina: Avaliação de Reposicionamento – Predições TxGNN Não Disponíveis
+{: .text-alpha }
 
 ---
 

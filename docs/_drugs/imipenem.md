@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Imipenem: De antibacteriano sistêmico a Diffuse Scleroderma (esclerodermia difusa)
+## Imipenem: De antibacteriano sistêmico a Diffuse Scleroderma (esclerodermia difusa)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

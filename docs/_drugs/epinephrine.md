@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **4**
 
 </div>
 
-# Epinefrina: De vasoconstritor e anestésico local para doença pulmonar obstrutiva
+## Epinefrina: De vasoconstritor e anestésico local para doença pulmonar obstrutiva
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

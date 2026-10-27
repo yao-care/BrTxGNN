@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# ARGININE ASPARTATE: Avaliação Inconclusiva — Dados Insuficientes para Previsão de Reposicionamento
+## ARGININE ASPARTATE: Avaliação Inconclusiva — Dados Insuficientes para Previsão de Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

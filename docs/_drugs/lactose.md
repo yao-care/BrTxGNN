@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Lactose: Da intolerância à lactose ao sangramento de varizes esofágicas
+## Lactose: Da intolerância à lactose ao sangramento de varizes esofágicas
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Tiocolchicosídeo: De relaxante muscular de ação central para insônia
+## Tiocolchicosídeo: De relaxante muscular de ação central para insônia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Oxacilina: Da terapia antibacteriana sistêmica à epiglotite
+## Oxacilina: Da terapia antibacteriana sistêmica à epiglotite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

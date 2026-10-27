@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Ornitina Cloridrato: Dados Insuficientes para Avaliação de Reposicionamento
+## Ornitina Cloridrato: Dados Insuficientes para Avaliação de Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

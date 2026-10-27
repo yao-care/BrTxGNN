@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# TESTOSTERONE: Avaliação de Reposicionamento — Sem Previsões Disponíveis
+## TESTOSTERONE: Avaliação de Reposicionamento — Sem Previsões Disponíveis
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

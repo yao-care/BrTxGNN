@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Fenilalanina: De nutriente parenteral para colangite esclerosante
+## Fenilalanina: De nutriente parenteral para colangite esclerosante
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

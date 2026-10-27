@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Penciclovir: Do herpes labial à fasciolíase (previsão computacional)
+## Penciclovir: Do herpes labial à fasciolíase (previsão computacional)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

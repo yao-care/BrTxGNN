@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-# Risperidona: De neurolépticos à paralisia familiar do olhar horizontal com escoliose progressiva
+## Risperidona: De neurolépticos à paralisia familiar do olhar horizontal com escoliose progressiva
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Elafibranor: Da indicação original não registrada no Brasil à amenorreia
+## Elafibranor: Da indicação original não registrada no Brasil à amenorreia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

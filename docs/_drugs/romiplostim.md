@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Romiplostim: Da anemia aplástica e trombocitopenia autoimune a distúrbio de liberação plaquetária (previsão primária)
+## Romiplostim: Da anemia aplástica e trombocitopenia autoimune a distúrbio de liberação plaquetária (previsão primária)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

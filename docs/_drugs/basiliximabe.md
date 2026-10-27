@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Basiliximabe: Avaliação de Reposicionamento — Dados Insuficientes para Análise Preditiva
+## Basiliximabe: Avaliação de Reposicionamento — Dados Insuficientes para Análise Preditiva
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Acetato de zinco: De soluções que ajustam o balanço eletrolítico para retinopatia diabética não proliferativa grave
+## Acetato de zinco: De soluções que ajustam o balanço eletrolítico para retinopatia diabética não proliferativa grave
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

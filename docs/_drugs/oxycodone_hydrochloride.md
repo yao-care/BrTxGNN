@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cloridrato de Oxicodona: Análise de Reposicionamento — Sem Previsão Disponível
+## Cloridrato de Oxicodona: Análise de Reposicionamento — Sem Previsão Disponível
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

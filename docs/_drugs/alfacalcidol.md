@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-# Alfacalcidol: Do hiperparatireoidismo ao hipoparatireoidismo isolado familiar
+## Alfacalcidol: Do hiperparatireoidismo ao hipoparatireoidismo isolado familiar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

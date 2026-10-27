@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Levonorgestrel Micronizado: Avaliação de Reposicionamento Pendente
+## Levonorgestrel Micronizado: Avaliação de Reposicionamento Pendente
+{: .text-alpha }
 
 ## Resumo
 

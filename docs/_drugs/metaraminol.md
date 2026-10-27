@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Metaraminol: Da hipotensão à síndrome da taquicardia postural ortostática
+## Metaraminol: Da hipotensão à síndrome da taquicardia postural ortostática
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Piridoxina: De monovitamina à uretrite por Ureaplasma
+## Piridoxina: De monovitamina à uretrite por Ureaplasma
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

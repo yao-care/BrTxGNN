@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Propionato de Testosterona: Sem Previsões de Reposicionamento Disponíveis
+## Propionato de Testosterona: Sem Previsões de Reposicionamento Disponíveis
+{: .text-alpha }
 
 ## Resumo
 

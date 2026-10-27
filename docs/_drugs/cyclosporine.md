@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Ciclosporina: De agente imunossupressor e oftálmico para granulomatose crônica
+## Ciclosporina: De agente imunossupressor e oftálmico para granulomatose crônica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

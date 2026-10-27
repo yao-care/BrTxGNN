@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Reslizumabe: De outros medicamentos antiasmáticos à trombocitopenia por destruição imune
+## Reslizumabe: De outros medicamentos antiasmáticos à trombocitopenia por destruição imune
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

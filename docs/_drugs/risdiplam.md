@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Risdiplam: De indicação original não registrada a acne (doença)
+## Risdiplam: De indicação original não registrada a acne (doença)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

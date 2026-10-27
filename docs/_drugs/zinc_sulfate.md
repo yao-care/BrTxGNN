@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **4**
 
 </div>
 
-# Sulfato de Zinco: De suplemento mineral e descongestionante oftálmico para faringite
+## Sulfato de Zinco: De suplemento mineral e descongestionante oftálmico para faringite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Aminofilina: De broncodilatador para enxaqueca
+## Aminofilina: De broncodilatador para enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Lauril Sulfato de Sódio: De laxante a agenesia da valva tricúspide (previsão sem respaldo)
+## Lauril Sulfato de Sódio: De laxante a agenesia da valva tricúspide (previsão sem respaldo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

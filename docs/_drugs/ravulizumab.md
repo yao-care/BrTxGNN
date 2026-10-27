@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ravulizumabe: De produto sem classe terapêutica específica à neutropenia congênita grave por deficiência de G6PC3
+## Ravulizumabe: De produto sem classe terapêutica específica à neutropenia congênita grave por deficiência de G6PC3
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Upadacitinibe: De imunossupressor seletivo para a síndrome de microftalmia colobomatosa com displasia rizomélica
+## Upadacitinibe: De imunossupressor seletivo para a síndrome de microftalmia colobomatosa com displasia rizomélica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

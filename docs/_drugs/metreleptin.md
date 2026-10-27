@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Metreleptina: Da categoria de produtos para o aparelho digestivo e metabolismo à lentiginose generalizada familiar
+## Metreleptina: Da categoria de produtos para o aparelho digestivo e metabolismo à lentiginose generalizada familiar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Cianocobalamina: Da vitamina B12 à doença metabólica da biotina
+## Cianocobalamina: Da vitamina B12 à doença metabólica da biotina
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

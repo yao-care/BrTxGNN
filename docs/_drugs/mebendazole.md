@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Mebendazol: De anti-helmíntico gastrointestinal para acne (previsão principal do modelo)
+## Mebendazol: De anti-helmíntico gastrointestinal para acne (previsão principal do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

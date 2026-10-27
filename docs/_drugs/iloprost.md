@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-# Iloprosta: De prostaglandinas para hipotricose simples do couro cabeludo
+## Iloprosta: De prostaglandinas para hipotricose simples do couro cabeludo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

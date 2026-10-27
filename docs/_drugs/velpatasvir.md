@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Velpatasvir: Da hepatite C crônica à infecção pelo vírus da hepatite B
+## Velpatasvir: Da hepatite C crônica à infecção pelo vírus da hepatite B
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

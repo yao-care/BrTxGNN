@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Ticlopidina Cloridrato: Avaliação Indisponível por Dados Insuficientes
+## Ticlopidina Cloridrato: Avaliação Indisponível por Dados Insuficientes
+{: .text-alpha }
 
 ## Resumo
 

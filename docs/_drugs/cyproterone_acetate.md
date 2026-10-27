@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Acetato de Ciproterona: Da contracepção e acne à enxaqueca (predição do modelo)
+## Acetato de Ciproterona: Da contracepção e acne à enxaqueca (predição do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

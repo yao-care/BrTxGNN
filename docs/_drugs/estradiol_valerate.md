@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Valerato de Estradiol: De estrogênios/anticoncepcionais para síndrome do X frágil sintomática em mulheres portadoras
+## Valerato de Estradiol: De estrogênios/anticoncepcionais para síndrome do X frágil sintomática em mulheres portadoras
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

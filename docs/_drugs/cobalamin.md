@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Cobalamina: De monovitamina (exceto vitamina K) para hiperfosfatemia
+## Cobalamina: De monovitamina (exceto vitamina K) para hiperfosfatemia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

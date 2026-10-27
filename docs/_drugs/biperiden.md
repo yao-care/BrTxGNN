@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Biperideno: Da doença de Parkinson à encefalite de Rasmussen
+## Biperideno: Da doença de Parkinson à encefalite de Rasmussen
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

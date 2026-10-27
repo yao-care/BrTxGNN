@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Tildrakizumabe: De imunomodulador a retinopatia diabética não proliferativa grave
+## Tildrakizumabe: De imunomodulador a retinopatia diabética não proliferativa grave
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

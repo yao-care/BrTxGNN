@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Desogestrel: De contracepção hormonal para amenorreia
+## Desogestrel: De contracepção hormonal para amenorreia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

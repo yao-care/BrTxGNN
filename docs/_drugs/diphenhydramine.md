@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Difenidramina: De anti-histamínico sistêmico para rinite
+## Difenidramina: De anti-histamínico sistêmico para rinite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

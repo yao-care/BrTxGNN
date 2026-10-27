@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Vimblastina: De antineoplásico geral a rabdomiossarcoma
+## Vimblastina: De antineoplásico geral a rabdomiossarcoma
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

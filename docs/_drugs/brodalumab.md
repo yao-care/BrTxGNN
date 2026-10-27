@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Brodalumabe: De imunomodulador a doença ocular (previsão do modelo)
+## Brodalumabe: De imunomodulador a doença ocular (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

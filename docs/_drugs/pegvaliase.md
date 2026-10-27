@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Pegvaliase: Da fenilcetonúria à retinopatia diabética
+## Pegvaliase: Da fenilcetonúria à retinopatia diabética
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

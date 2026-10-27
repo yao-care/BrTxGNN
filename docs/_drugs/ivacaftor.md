@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ivacaftor: Da fibrose cística à artrite reumatoide
+## Ivacaftor: Da fibrose cística à artrite reumatoide
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

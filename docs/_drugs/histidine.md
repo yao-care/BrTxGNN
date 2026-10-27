@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Histidina: Da nutrição parenteral e dietas especiais à gastroparesia
+## Histidina: Da nutrição parenteral e dietas especiais à gastroparesia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -31,7 +31,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Neratinibe: De agente antineoplásico a câncer de mama positivo para receptor de progesterona
+## Neratinibe: De agente antineoplásico a câncer de mama positivo para receptor de progesterona
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

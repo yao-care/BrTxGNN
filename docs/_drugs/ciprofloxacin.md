@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Ciprofloxacino: De infecções bacterianas à esclerodermia difusa
+## Ciprofloxacino: De infecções bacterianas à esclerodermia difusa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

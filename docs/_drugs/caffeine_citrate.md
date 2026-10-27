@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cafeína Citrato: Avaliação Incompleta — Sem Previsões de Reposicionamento Disponíveis
+## Cafeína Citrato: Avaliação Incompleta — Sem Previsões de Reposicionamento Disponíveis
+{: .text-alpha }
 
 ## Resumo
 

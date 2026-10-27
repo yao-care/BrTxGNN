@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Prilocaína: De anestésico local para papilar conjuntivite (predição principal do modelo)
+## Prilocaína: De anestésico local para papilar conjuntivite (predição principal do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

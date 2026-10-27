@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Exemestano: Do câncer (antineoplásico) a deficiência de antitrombina tipo 2
+## Exemestano: Do câncer (antineoplásico) a deficiência de antitrombina tipo 2
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

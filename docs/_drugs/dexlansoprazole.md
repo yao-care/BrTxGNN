@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Dexlansoprazol: De antiácido e antiulceroso para doença ulcerosa péptica ativa
+## Dexlansoprazol: De antiácido e antiulceroso para doença ulcerosa péptica ativa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

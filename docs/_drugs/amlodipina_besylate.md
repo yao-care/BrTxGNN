@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Anlodipino Besilato: Avaliação de Reposicionamento Pendente — Dados Insuficientes para Análise
+## Anlodipino Besilato: Avaliação de Reposicionamento Pendente — Dados Insuficientes para Análise
+{: .text-alpha }
 
 ## Resumo
 

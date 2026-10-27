@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-# Noretisterona: De anticoncepcional e terapia hormonal para amenorreia
+## Noretisterona: De anticoncepcional e terapia hormonal para amenorreia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

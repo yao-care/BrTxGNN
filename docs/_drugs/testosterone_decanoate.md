@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Testosterona Decanoato: Dados Insuficientes para Avaliação de Reposicionamento
+## Testosterona Decanoato: Dados Insuficientes para Avaliação de Reposicionamento
+{: .text-alpha }
 
 ## Resumo
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tezacaftor: Da fibrose cística à infecção pelo HIV
+## Tezacaftor: Da fibrose cística à infecção pelo HIV
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

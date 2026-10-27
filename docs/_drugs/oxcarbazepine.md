@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Oxcarbazepina: De anticonvulsivante a epilepsia visual
+## Oxcarbazepina: De anticonvulsivante a epilepsia visual
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

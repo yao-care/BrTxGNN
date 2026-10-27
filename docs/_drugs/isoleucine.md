@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Isoleucina: Da nutrição parenteral à gastroparesia
+## Isoleucina: Da nutrição parenteral à gastroparesia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

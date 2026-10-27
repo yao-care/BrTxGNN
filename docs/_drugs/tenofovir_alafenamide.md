@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-# Tenofovir alafenamida: Do tratamento de infecções por HIV à infecção pelo vírus da imunodeficiência símia
+## Tenofovir alafenamida: Do tratamento de infecções por HIV à infecção pelo vírus da imunodeficiência símia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

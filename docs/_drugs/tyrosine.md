@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tirosina: De produtos para dietas especiais e nutrição parenteral para síndrome da cauda equina
+## Tirosina: De produtos para dietas especiais e nutrição parenteral para síndrome da cauda equina
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Basiliximabe: Da imunossupressão em transplantes ao mieloma múltiplo (plasmocitoma)
+## Basiliximabe: Da imunossupressão em transplantes ao mieloma múltiplo (plasmocitoma)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

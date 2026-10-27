@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Amantadina Hidrocloreto: Avaliação de Reposicionamento Inconclusiva — Dados Insuficientes
+## Amantadina Hidrocloreto: Avaliação de Reposicionamento Inconclusiva — Dados Insuficientes
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

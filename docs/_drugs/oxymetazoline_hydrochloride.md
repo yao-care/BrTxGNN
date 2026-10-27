@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Oxymetazoline Hidrocloreto: Sem Previsão de Reposicionamento — Dados Insuficientes
+## Oxymetazoline Hidrocloreto: Sem Previsão de Reposicionamento — Dados Insuficientes
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

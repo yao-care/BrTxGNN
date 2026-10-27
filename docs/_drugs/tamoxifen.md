@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Tamoxifeno: Do câncer de mama à doença de Paget mamária
+## Tamoxifeno: Do câncer de mama à doença de Paget mamária
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

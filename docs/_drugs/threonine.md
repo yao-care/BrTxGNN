@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Treonina: De nutrição especial e parenteral para gastroparesia
+## Treonina: De nutrição especial e parenteral para gastroparesia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

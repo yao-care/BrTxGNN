@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Primidona: De anticonvulsivante a neoplasia do nervo trigêmeo (previsão do modelo, sem suporte biológico)
+## Primidona: De anticonvulsivante a neoplasia do nervo trigêmeo (previsão do modelo, sem suporte biológico)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

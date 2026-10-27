@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cefaclor: Das infecções bacterianas ao tratamento da uretrite gonocócica
+## Cefaclor: Das infecções bacterianas ao tratamento da uretrite gonocócica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

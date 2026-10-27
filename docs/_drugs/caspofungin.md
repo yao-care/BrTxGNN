@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Caspofungina: De antifúngico para anormalidade da secreção de gastrina
+## Caspofungina: De antifúngico para anormalidade da secreção de gastrina
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Flunitrazepam: Da indicação original não registrada à insônia
+## Flunitrazepam: Da indicação original não registrada à insônia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

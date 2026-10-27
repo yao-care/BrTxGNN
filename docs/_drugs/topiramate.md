@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-# Topiramato: Do uso anticonvulsivante ao neoplasma do nervo trigêmeo
+## Topiramato: Do uso anticonvulsivante ao neoplasma do nervo trigêmeo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

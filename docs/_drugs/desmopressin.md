@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-# Desmopressina: De "outros hormônios mediadores" para deficiência congênita de protrombina
+## Desmopressina: De "outros hormônios mediadores" para deficiência congênita de protrombina
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

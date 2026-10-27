@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Estazolam: Da insônia à insônia (confirmação de indicação existente)
+## Estazolam: Da insônia à insônia (confirmação de indicação existente)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

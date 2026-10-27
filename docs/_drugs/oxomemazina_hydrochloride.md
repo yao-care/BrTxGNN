@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Oxomemazina Cloridrato: Dados Insuficientes para Avaliação de Reposicionamento
+## Oxomemazina Cloridrato: Dados Insuficientes para Avaliação de Reposicionamento
+{: .text-alpha }
 
 ---
 

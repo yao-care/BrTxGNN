@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Diclofenaco: Da artrite reumatoide e osteoartrite à artrite idiopática juvenil
+## Diclofenaco: Da artrite reumatoide e osteoartrite à artrite idiopática juvenil
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

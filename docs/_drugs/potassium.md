@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Potássio: De produtos para o trato urinário, reidratação oral e suplementação mineral para transtorno hipertensivo
+## Potássio: De produtos para o trato urinário, reidratação oral e suplementação mineral para transtorno hipertensivo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

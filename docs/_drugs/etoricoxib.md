@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Etoricoxibe: De anti-inflamatório (inibidor de COX-2) para enxaqueca
+## Etoricoxibe: De anti-inflamatório (inibidor de COX-2) para enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

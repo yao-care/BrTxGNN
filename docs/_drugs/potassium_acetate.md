@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Acetato de Potássio: De nutriente parenteral para acidose tubular renal
+## Acetato de Potássio: De nutriente parenteral para acidose tubular renal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

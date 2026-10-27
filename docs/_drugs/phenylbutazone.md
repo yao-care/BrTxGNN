@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Fenilbutazona: Do uso anti-inflamatório antirreumático à artrite reumatoide
+## Fenilbutazona: Do uso anti-inflamatório antirreumático à artrite reumatoide
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

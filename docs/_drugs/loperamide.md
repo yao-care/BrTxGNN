@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Loperamida: De antidiarreico a conjuntivite contagiosa aguda (previsão sem respaldo)
+## Loperamida: De antidiarreico a conjuntivite contagiosa aguda (previsão sem respaldo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

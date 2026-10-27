@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Sorafenibe: Do carcinoma hepatocelular ao lipossarcoma
+## Sorafenibe: Do carcinoma hepatocelular ao lipossarcoma
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Fenobarbital: Do uso anticonvulsivante ao tumor do nervo trigêmeo (previsão sem respaldo mecanístico)
+## Fenobarbital: Do uso anticonvulsivante ao tumor do nervo trigêmeo (previsão sem respaldo mecanístico)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

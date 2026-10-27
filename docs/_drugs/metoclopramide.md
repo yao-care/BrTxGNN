@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **5**
 
 </div>
 
-# Metoclopramida: Do uso antiemético à úlcera gástrica
+## Metoclopramida: Do uso antiemético à úlcera gástrica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

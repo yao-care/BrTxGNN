@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Imatinibe: Da leucemia mieloide crônica ao fibrossarcoma cardíaco
+## Imatinibe: Da leucemia mieloide crônica ao fibrossarcoma cardíaco
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

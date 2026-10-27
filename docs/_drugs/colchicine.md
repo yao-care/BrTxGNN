@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-# Colchicina: De antiinflamatório/antigotoso para Febre Familiar do Mediterrâneo
+## Colchicina: De antiinflamatório/antigotoso para Febre Familiar do Mediterrâneo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

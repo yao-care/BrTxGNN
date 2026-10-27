@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Mupirocina: De antiinfeccioso tópico a empiema pleural
+## Mupirocina: De antiinfeccioso tópico a empiema pleural
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

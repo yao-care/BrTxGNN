@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cloridrato de Amiodarona: Avaliação de Reposicionamento Inconclusiva — Sem Previsões TxGNN Disponíveis
+## Cloridrato de Amiodarona: Avaliação de Reposicionamento Inconclusiva — Sem Previsões TxGNN Disponíveis
+{: .text-alpha }
 
 ---
 

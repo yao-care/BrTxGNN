@@ -31,7 +31,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Aclidínio Brometo: Avaliação de Reposicionamento — Previsão Não Disponível
+## Aclidínio Brometo: Avaliação de Reposicionamento — Previsão Não Disponível
+{: .text-alpha }
 
 ## Resumo
 

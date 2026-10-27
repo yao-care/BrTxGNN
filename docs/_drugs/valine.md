@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Valina: De nutriente parenteral para colangite esclerosante
+## Valina: De nutriente parenteral para colangite esclerosante
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

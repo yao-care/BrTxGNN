@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Levobunolol Cloridrato: Sem Previsão de Reposicionamento Disponível
+## Levobunolol Cloridrato: Sem Previsão de Reposicionamento Disponível
+{: .text-alpha }
 
 ## Resumo
 

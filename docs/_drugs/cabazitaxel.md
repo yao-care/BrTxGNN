@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Cabazitaxel: Do câncer de próstata ao carcinoma de mama feminino
+## Cabazitaxel: Do câncer de próstata ao carcinoma de mama feminino
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

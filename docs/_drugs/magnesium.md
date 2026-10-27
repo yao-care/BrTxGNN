@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Magnésio: Do uso nutricional/mineral à enxaqueca
+## Magnésio: Do uso nutricional/mineral à enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

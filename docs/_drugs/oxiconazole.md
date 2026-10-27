@@ -31,7 +31,8 @@ Nível de evidência: **L3** | Indicações previstas: **1**
 
 </div>
 
-# Oxiconazol: Do antimicótico tópico à candidíase cutânea
+## Oxiconazol: Do antimicótico tópico à candidíase cutânea
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

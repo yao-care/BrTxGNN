@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Carfilzomib: Relatório Preliminar — Previsões TxGNN Pendentes
+## Carfilzomib: Relatório Preliminar — Previsões TxGNN Pendentes
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

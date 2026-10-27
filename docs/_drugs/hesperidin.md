@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Hesperidina: Da ausência de indicação registrada à neoplasia mieloproliferativa
+## Hesperidina: Da ausência de indicação registrada à neoplasia mieloproliferativa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

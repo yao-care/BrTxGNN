@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Sulfato de Magnésio: De eletrólito simples para pré-eclâmpsia/eclâmpsia
+## Sulfato de Magnésio: De eletrólito simples para pré-eclâmpsia/eclâmpsia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

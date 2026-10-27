@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Abacavir Sulfate: Sem Previsão de Reposicionamento Gerada pelo TxGNN
+## Abacavir Sulfate: Sem Previsão de Reposicionamento Gerada pelo TxGNN
+{: .text-alpha }
 
 ## Resumo
 

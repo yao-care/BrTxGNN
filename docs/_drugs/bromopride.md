@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Bromopride: Avaliação de Reposicionamento — Sem Previsões Identificadas
+## Bromopride: Avaliação de Reposicionamento — Sem Previsões Identificadas
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

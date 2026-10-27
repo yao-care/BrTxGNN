@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Pemetrexede: Do tratamento antineoplásico geral ao mesotelioma peritoneal maligno
+## Pemetrexede: Do tratamento antineoplásico geral ao mesotelioma peritoneal maligno
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

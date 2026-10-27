@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Dexametasona: De glicocorticoide sistêmico e oftálmico à alopecia areata
+## Dexametasona: De glicocorticoide sistêmico e oftálmico à alopecia areata
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

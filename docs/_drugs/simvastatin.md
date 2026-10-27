@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **8**
 
 </div>
 
-# Sinvastatina: De antilipêmico à hipercolesterolemia familiar
+## Sinvastatina: De antilipêmico à hipercolesterolemia familiar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-# Ácido Lático: De demulcente orofaríngeo para coarctação atípica da aorta
+## Ácido Lático: De demulcente orofaríngeo para coarctação atípica da aorta
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

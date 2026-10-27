@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-# Erdafitinibe: Do antineoplásico à hipertensão pulmonar
+## Erdafitinibe: Do antineoplásico à hipertensão pulmonar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

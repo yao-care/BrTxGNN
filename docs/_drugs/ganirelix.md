@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ganirrelix: De produto não classificado em classe terapêutica específica para hipertricose
+## Ganirrelix: De produto não classificado em classe terapêutica específica para hipertricose
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Ondansetron Hidrocloreto: Avaliação de Reposicionamento — Dados Insuficientes para Conclusão
+## Ondansetron Hidrocloreto: Avaliação de Reposicionamento — Dados Insuficientes para Conclusão
+{: .text-alpha }
 
 ## Resumo
 

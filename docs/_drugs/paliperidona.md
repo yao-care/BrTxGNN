@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Paliperidona: Avaliação Incompleta — Dados Insuficientes para Gerar Previsão de Reposicionamento
+## Paliperidona: Avaliação Incompleta — Dados Insuficientes para Gerar Previsão de Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

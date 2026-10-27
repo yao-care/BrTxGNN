@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Apalutamida: Do Câncer de Próstata — Sem Previsão de Reposicionamento Disponível
+## Apalutamida: Do Câncer de Próstata — Sem Previsão de Reposicionamento Disponível
+{: .text-alpha }
 
 ## Resumo
 

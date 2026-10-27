@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **7**
 
 </div>
 
-# Terlipressina: De outros produtos anti-hemorrágicos à hipertensão pulmonar
+## Terlipressina: De outros produtos anti-hemorrágicos à hipertensão pulmonar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

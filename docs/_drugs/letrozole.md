@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Letrozol: Do câncer de mama hormônio-dependente ao carcinoma de mama feminino
+## Letrozol: Do câncer de mama hormônio-dependente ao carcinoma de mama feminino
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

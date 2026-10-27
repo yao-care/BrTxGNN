@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-# Delamanid: Da tuberculose resistente à tuberculose inativa (latente)
+## Delamanid: Da tuberculose resistente à tuberculose inativa (latente)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

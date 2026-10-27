@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Rasburicase: Da hiperuricemia à hipouricemia renal (previsão do modelo, sem respaldo clínico)
+## Rasburicase: Da hiperuricemia à hipouricemia renal (previsão do modelo, sem respaldo clínico)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

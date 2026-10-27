@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-# Tadalafila: Da hiperplasia prostática benigna à hipertricose congênita universal tipo Ambras
+## Tadalafila: Da hiperplasia prostática benigna à hipertricose congênita universal tipo Ambras
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

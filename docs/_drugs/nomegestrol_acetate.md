@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Acetato de nomegestrol: De anticoncepcional a candidíase (previsão do modelo, sem evidências de suporte)
+## Acetato de nomegestrol: De anticoncepcional a candidíase (previsão do modelo, sem evidências de suporte)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

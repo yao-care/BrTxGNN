@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Terbinafina Cloridrato: Avaliação de Reposicionamento — Previsão Não Gerada Neste Ciclo
+## Terbinafina Cloridrato: Avaliação de Reposicionamento — Previsão Não Gerada Neste Ciclo
+{: .text-alpha }
 
 ---
 

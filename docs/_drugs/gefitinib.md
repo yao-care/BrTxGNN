@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Gefitinibe: Do câncer de pulmão de células não pequenas à fibromatose gengival
+## Gefitinibe: Do câncer de pulmão de células não pequenas à fibromatose gengival
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

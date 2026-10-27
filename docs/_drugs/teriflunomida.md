@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Teriflunomida: De Esclerose Múltipla — Avaliação de Reposicionamento Incompleta
+## Teriflunomida: De Esclerose Múltipla — Avaliação de Reposicionamento Incompleta
+{: .text-alpha }
 
 ## Resumo
 

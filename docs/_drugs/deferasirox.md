@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **5**
 
 </div>
 
-# Deferasirox: Da talassemia e hemoglobinopatias à infecção por HIV
+## Deferasirox: Da talassemia e hemoglobinopatias à infecção por HIV
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

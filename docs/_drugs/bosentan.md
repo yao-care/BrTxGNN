@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **9**
 
 </div>
 
-# Bosentana: De anti-hipertensivo à artrite reumatoide
+## Bosentana: De anti-hipertensivo à artrite reumatoide
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

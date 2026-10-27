@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Enalaprilato: De anti-hipertensivo para glaucoma hereditário primário
+## Enalaprilato: De anti-hipertensivo para glaucoma hereditário primário
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

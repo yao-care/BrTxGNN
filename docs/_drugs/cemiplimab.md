@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cemiplimabe: Do tratamento antineoplásico ao carcinoma adenoescamoso da vesícula biliar
+## Cemiplimabe: Do tratamento antineoplásico ao carcinoma adenoescamoso da vesícula biliar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

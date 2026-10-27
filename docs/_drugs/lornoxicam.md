@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Lornoxicam: Da dor e inflamação reumática à artrite reumatoide (predição TxGNN)
+## Lornoxicam: Da dor e inflamação reumática à artrite reumatoide (predição TxGNN)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

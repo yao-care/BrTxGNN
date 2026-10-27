@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Olmesartana: Da hipertensão arterial à Angina de Prinzmetal
+## Olmesartana: Da hipertensão arterial à Angina de Prinzmetal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

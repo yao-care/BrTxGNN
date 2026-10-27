@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **6**
 
 </div>
 
-# Hidróxido de Magnésio: De antiácido para doença ulcerosa péptica ativa
+## Hidróxido de Magnésio: De antiácido para doença ulcerosa péptica ativa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

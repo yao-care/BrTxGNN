@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Levetiracetam: Da epilepsia parcial à epilepsia visual (reflexa)
+## Levetiracetam: Da epilepsia parcial à epilepsia visual (reflexa)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

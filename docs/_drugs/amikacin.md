@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Amicacina: De aminoglicosídeo antibacteriano à febre paratifoide
+## Amicacina: De aminoglicosídeo antibacteriano à febre paratifoide
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

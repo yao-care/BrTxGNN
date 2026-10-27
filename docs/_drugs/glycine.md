@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Glicina: De rinite e faringite para doença da cavidade nasal
+## Glicina: De rinite e faringite para doença da cavidade nasal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

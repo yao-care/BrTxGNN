@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-# Atenolol: Da hipertensão e do infarto do miocárdio ao infarto do miocárdio posterolateral
+## Atenolol: Da hipertensão e do infarto do miocárdio ao infarto do miocárdio posterolateral
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

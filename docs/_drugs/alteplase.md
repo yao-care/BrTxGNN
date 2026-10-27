@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-# Alteplase: Do infarto do miocárdio e AVC à trombofilia
+## Alteplase: Do infarto do miocárdio e AVC à trombofilia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **7**
 
 </div>
 
-# Valsartana: Da hipertensão arterial à hipertensão renovascular maligna
+## Valsartana: Da hipertensão arterial à hipertensão renovascular maligna
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

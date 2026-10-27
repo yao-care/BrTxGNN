@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-# Fenol: De diluente e anestésico local a acrodermatite crônica atrófica
+## Fenol: De diluente e anestésico local a acrodermatite crônica atrófica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

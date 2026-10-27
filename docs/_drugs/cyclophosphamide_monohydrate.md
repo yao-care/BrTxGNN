@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Ciclofosfamida Mono-hidratada: De [Indicação Original Não Registrada] para [Sem Previsão Disponível] — Análise Incompleta
+## Ciclofosfamida Mono-hidratada: De [Indicação Original Não Registrada] para [Sem Previsão Disponível] — Análise Incompleta
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Latanoprosteno bunod: Dos análogos da prostaglandina à calcifilaxia visceral
+## Latanoprosteno bunod: Dos análogos da prostaglandina à calcifilaxia visceral
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

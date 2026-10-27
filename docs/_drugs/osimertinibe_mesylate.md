@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Osimertinibe Mesilato: Sem Previsão TxGNN – Avaliação Incompleta
+## Osimertinibe Mesilato: Sem Previsão TxGNN – Avaliação Incompleta
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

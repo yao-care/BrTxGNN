@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **2**
 
 </div>
 
-# Dimenidrinato: Do uso antiemético à urticária alérgica
+## Dimenidrinato: Do uso antiemético à urticária alérgica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

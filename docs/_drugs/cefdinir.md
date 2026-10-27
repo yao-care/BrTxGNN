@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cefdinir: Da infecção estreptocócica à pielonefrite
+## Cefdinir: Da infecção estreptocócica à pielonefrite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

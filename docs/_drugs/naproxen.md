@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Naproxeno: Da dor e inflamação musculoesquelética à síndrome de braquidactilia-sindactilia
+## Naproxeno: Da dor e inflamação musculoesquelética à síndrome de braquidactilia-sindactilia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

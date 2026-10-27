@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Triptorelina: De "outros produtos para o aparelho digestivo e metabolismo" para hipertricose
+## Triptorelina: De "outros produtos para o aparelho digestivo e metabolismo" para hipertricose
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

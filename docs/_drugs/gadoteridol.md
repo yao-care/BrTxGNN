@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Gadoteridol: De agente de contraste para ressonância magnética a osteoartrite (hipótese não sustentada)
+## Gadoteridol: De agente de contraste para ressonância magnética a osteoartrite (hipótese não sustentada)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Benzocaína: Da anestesia local de orofaringe à conjuntivite papilar
+## Benzocaína: Da anestesia local de orofaringe à conjuntivite papilar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

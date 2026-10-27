@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Acetato de Megestrol: De antineoplásico (indicação genérica) para carcinoma endometrial do corpo uterino
+## Acetato de Megestrol: De antineoplásico (indicação genérica) para carcinoma endometrial do corpo uterino
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

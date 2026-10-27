@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Betaxolol Hidrocloro: Avaliação Incompleta — Dados Insuficientes para Análise de Reposicionamento
+## Betaxolol Hidrocloro: Avaliação Incompleta — Dados Insuficientes para Análise de Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

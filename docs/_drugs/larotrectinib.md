@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **2**
 
 </div>
 
-# Larotrectinibe: De antineoplásico (agente antineoplásico) para Neoplasia Endócrina Múltipla
+## Larotrectinibe: De antineoplásico (agente antineoplásico) para Neoplasia Endócrina Múltipla
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Pibrentasvir: Da hepatite C crônica à infecção pelo vírus da hepatite B
+## Pibrentasvir: Da hepatite C crônica à infecção pelo vírus da hepatite B
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

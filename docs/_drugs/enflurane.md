@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-# Enflurano: Da anestesia geral ao transtorno bipolar maníaco
+## Enflurano: Da anestesia geral ao transtorno bipolar maníaco
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

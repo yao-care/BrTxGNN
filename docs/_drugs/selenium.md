@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Selênio: Da nutrição essencial à previsão para colangite esclerosante
+## Selênio: Da nutrição essencial à previsão para colangite esclerosante
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

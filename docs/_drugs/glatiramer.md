@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Glatirâmer: De imunomodulador a hemoglobinopatia
+## Glatirâmer: De imunomodulador a hemoglobinopatia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

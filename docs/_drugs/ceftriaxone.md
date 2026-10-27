@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Ceftriaxona: De cefalosporinas para otite média infecciosa
+## Ceftriaxona: De cefalosporinas para otite média infecciosa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

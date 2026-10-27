@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Serina: Da nutrição parenteral à miopatia visceral familiar
+## Serina: Da nutrição parenteral à miopatia visceral familiar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

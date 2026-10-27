@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Alprostadil: Da disfunção erétil e cardiopatias congênitas ducto-dependentes à malformação aórtica
+## Alprostadil: Da disfunção erétil e cardiopatias congênitas ducto-dependentes à malformação aórtica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

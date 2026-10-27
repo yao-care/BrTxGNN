@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Ranitidina: De antiulceroso a doença ulcerosa péptica ativa
+## Ranitidina: De antiulceroso a doença ulcerosa péptica ativa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

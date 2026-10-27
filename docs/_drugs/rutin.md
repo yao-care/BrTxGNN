@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-# Rutina: Da indicação antivaricosa à doença fibrocística da mama
+## Rutina: Da indicação antivaricosa à doença fibrocística da mama
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

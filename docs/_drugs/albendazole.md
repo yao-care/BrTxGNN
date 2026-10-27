@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Albendazol: Do tratamento de helmintos intestinais à equinococose alveolar
+## Albendazol: Do tratamento de helmintos intestinais à equinococose alveolar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

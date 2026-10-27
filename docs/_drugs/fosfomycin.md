@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Fosfomicina: De antibiótico sistêmico para pielite (infecção do trato urinário superior)
+## Fosfomicina: De antibiótico sistêmico para pielite (infecção do trato urinário superior)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

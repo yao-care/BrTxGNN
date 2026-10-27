@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cloridrato de Tetraciclina: Avaliação de Reposicionamento — Dados Insuficientes para Análise
+## Cloridrato de Tetraciclina: Avaliação de Reposicionamento — Dados Insuficientes para Análise
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

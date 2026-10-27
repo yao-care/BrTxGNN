@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Tazobactam: Das infecções bacterianas originais à pneumonia
+## Tazobactam: Das infecções bacterianas originais à pneumonia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

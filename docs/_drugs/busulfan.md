@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Bussulfano: De antineoplásico citotóxico a síndrome mielodisplásica
+## Bussulfano: De antineoplásico citotóxico a síndrome mielodisplásica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

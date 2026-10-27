@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Pitavastatina: Da dislipidemia à hipercolesterolemia familiar homozigótica
+## Pitavastatina: Da dislipidemia à hipercolesterolemia familiar homozigótica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

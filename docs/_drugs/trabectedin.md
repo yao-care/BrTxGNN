@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Trabectedina: De antineoplásico (sem indicação detalhada) para carcinoma de mama feminino
+## Trabectedina: De antineoplásico (sem indicação detalhada) para carcinoma de mama feminino
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

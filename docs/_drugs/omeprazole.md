@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **2**
 
 </div>
 
-# Omeprazol: De doenças ácido-pépticas para refluxo duodenogástrico
+## Omeprazol: De doenças ácido-pépticas para refluxo duodenogástrico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

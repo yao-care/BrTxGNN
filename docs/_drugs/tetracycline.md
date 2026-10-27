@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Tetraciclina: De antibiótico sistêmico e tópico para ceratoconjuntivite epitelial punctata
+## Tetraciclina: De antibiótico sistêmico e tópico para ceratoconjuntivite epitelial punctata
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

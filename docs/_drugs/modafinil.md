@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **1**
 
 </div>
 
-# Modafinila: De outros produtos que atuam sobre o sistema nervoso para insônia
+## Modafinila: De outros produtos que atuam sobre o sistema nervoso para insônia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

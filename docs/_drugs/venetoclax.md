@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Venetoclax: Da leucemia linfoblástica aguda e síndrome de Richter à leucemia linfocítica crônica com hipermutação somática de IGHV
+## Venetoclax: Da leucemia linfoblástica aguda e síndrome de Richter à leucemia linfocítica crônica com hipermutação somática de IGHV
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

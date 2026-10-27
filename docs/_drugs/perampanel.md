@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Perampanel: Da epilepsia parcial ao estado de mal epiléptico
+## Perampanel: Da epilepsia parcial ao estado de mal epiléptico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

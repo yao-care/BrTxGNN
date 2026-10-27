@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **7**
 
 </div>
 
-# Propionato de Clobetasol: De corticosteroide tópico para exantema (com evidências reais em líquen plano oral e líquen escleroso)
+## Propionato de Clobetasol: De corticosteroide tópico para exantema (com evidências reais em líquen plano oral e líquen escleroso)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

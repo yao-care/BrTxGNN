@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Rifampicina: De tuberculostático para conjuntivite
+## Rifampicina: De tuberculostático para conjuntivite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

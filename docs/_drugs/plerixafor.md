@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-# Plerixafor: Do mieloma de plasmócitos ao mieloma de plasmócitos indolente
+## Plerixafor: Do mieloma de plasmócitos ao mieloma de plasmócitos indolente
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

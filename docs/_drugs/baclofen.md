@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Baclofeno: De indicação original não registrada no Brasil para transtorno de déficit de atenção e hiperatividade (TDAH)
+## Baclofeno: De indicação original não registrada no Brasil para transtorno de déficit de atenção e hiperatividade (TDAH)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

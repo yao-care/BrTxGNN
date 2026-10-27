@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Riluzol: Do sistema nervoso a uma malformação cortical rara (polimicrogiria parieto-occipital parassagital bilateral)
+## Riluzol: Do sistema nervoso a uma malformação cortical rara (polimicrogiria parieto-occipital parassagital bilateral)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

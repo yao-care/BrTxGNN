@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Binimetinibe: Avaliação de Reposicionamento – Previsões TxGNN Pendentes
+## Binimetinibe: Avaliação de Reposicionamento – Previsões TxGNN Pendentes
+{: .text-alpha }
 
 ## Resumo
 

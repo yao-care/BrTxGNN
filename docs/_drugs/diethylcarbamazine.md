@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Dietilcarbamazina: De antiparasitário a linfedema sindrômico
+## Dietilcarbamazina: De antiparasitário a linfedema sindrômico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

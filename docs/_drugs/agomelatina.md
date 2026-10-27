@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Agomelatina: Avaliação de Reposicionamento Pendente — Predições TxGNN Não Disponíveis
+## Agomelatina: Avaliação de Reposicionamento Pendente — Predições TxGNN Não Disponíveis
+{: .text-alpha }
 
 ---
 

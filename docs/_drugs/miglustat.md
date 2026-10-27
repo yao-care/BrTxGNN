@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Miglustate: Da indicação regulatória não especificada à doença de Tay-Sachs
+## Miglustate: Da indicação regulatória não especificada à doença de Tay-Sachs
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

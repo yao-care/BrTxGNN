@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Bedaquilina Fumarato: Avaliação de Candidato — Previsão de Reposicionamento Indisponível
+## Bedaquilina Fumarato: Avaliação de Candidato — Previsão de Reposicionamento Indisponível
+{: .text-alpha }
 
 ## Resumo
 

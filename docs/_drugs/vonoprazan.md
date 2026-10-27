@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Vonoprazana: Da úlcera péptica e doença do refluxo gastroesofágico à doença ulcerosa péptica ativa
+## Vonoprazana: Da úlcera péptica e doença do refluxo gastroesofágico à doença ulcerosa péptica ativa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

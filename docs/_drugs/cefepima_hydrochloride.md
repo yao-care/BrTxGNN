@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cefepima Cloridrato: Análise de Reposicionamento — Sem Previsões TxGNN Disponíveis
+## Cefepima Cloridrato: Análise de Reposicionamento — Sem Previsões TxGNN Disponíveis
+{: .text-alpha }
 
 ## Resumo
 

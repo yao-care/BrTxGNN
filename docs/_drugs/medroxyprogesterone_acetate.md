@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Acetato de Medroxiprogesterona: Da contracepção à amenorreia
+## Acetato de Medroxiprogesterona: Da contracepção à amenorreia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

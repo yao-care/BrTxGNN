@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cipionato de Estradiol: Do uso contraceptivo à síndrome do X frágil sintomática em portadoras
+## Cipionato de Estradiol: Do uso contraceptivo à síndrome do X frágil sintomática em portadoras
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

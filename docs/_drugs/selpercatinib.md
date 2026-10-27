@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-# Selpercatinibe: De inibidor de proteína quinase para hipertensão pulmonar
+## Selpercatinibe: De inibidor de proteína quinase para hipertensão pulmonar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

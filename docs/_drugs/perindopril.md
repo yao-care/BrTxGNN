@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **5**
 
 </div>
 
-# Perindopril: Da hipertensão arterial à doença renal hipertensiva maligna
+## Perindopril: Da hipertensão arterial à doença renal hipertensiva maligna
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

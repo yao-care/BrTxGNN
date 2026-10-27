@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Nimesulida: De fármaco anti-inflamatório (sem indicação registrada no Brasil) para gota
+## Nimesulida: De fármaco anti-inflamatório (sem indicação registrada no Brasil) para gota
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

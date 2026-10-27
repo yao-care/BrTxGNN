@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Buclizina (Dicloridrato): Avaliação Preliminar — Sem Indicação Prevista pelo TxGNN
+## Buclizina (Dicloridrato): Avaliação Preliminar — Sem Indicação Prevista pelo TxGNN
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

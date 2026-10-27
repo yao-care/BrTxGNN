@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Felipressina: De anestésico local para osteoporose induzida por fármacos
+## Felipressina: De anestésico local para osteoporose induzida por fármacos
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

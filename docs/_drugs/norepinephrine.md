@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-# Norepinefrina: De vasoconstritor e hipertensor para doença pulmonar obstrutiva
+## Norepinefrina: De vasoconstritor e hipertensor para doença pulmonar obstrutiva
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

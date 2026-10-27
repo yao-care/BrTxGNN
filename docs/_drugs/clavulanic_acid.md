@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Ácido Clavulânico: De antibiótico em associação à uretrite gonocócica
+## Ácido Clavulânico: De antibiótico em associação à uretrite gonocócica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

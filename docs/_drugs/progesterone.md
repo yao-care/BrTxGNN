@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Progesterona: De progestágenos simples à amenorreia
+## Progesterona: De progestágenos simples à amenorreia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

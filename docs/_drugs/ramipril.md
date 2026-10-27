@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Ramipril: Da hipertensão arterial à hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia
+## Ramipril: Da hipertensão arterial à hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

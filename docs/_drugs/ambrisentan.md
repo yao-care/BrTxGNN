@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Ambrisentana: De anti-hipertensivo a hipertensão arterial pulmonar associada a doença do tecido conjuntivo
+## Ambrisentana: De anti-hipertensivo a hipertensão arterial pulmonar associada a doença do tecido conjuntivo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Levotiroxina: Da reposição de hormônios tireoidianos ao bócio nodular
+## Levotiroxina: Da reposição de hormônios tireoidianos ao bócio nodular
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

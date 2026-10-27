@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# BORTEZOMIBE: Avaliação Preliminar para Reposicionamento
+## BORTEZOMIBE: Avaliação Preliminar para Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

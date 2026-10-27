@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Imiglucerase: Da doença de Gaucher à síndrome de Hurler
+## Imiglucerase: Da doença de Gaucher à síndrome de Hurler
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

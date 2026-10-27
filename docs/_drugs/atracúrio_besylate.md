@@ -31,7 +31,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Atracúrio Besilato: Avaliação Inconclusiva por Insuficiência de Dados
+## Atracúrio Besilato: Avaliação Inconclusiva por Insuficiência de Dados
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

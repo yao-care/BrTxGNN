@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Indometacina: De anti-inflamatório antirreumático à artrite idiopática juvenil
+## Indometacina: De anti-inflamatório antirreumático à artrite idiopática juvenil
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

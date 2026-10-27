@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-# Cetoconazol: De antimicótico a acne
+## Cetoconazol: De antimicótico a acne
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

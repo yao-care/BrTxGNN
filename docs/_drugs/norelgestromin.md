@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Norelgestromina: Do contraceptivo transdérmico à amenorreia
+## Norelgestromina: Do contraceptivo transdérmico à amenorreia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

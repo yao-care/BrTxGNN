@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Azacitidina: Avaliação de Reposicionamento — Previsão TxGNN Pendente
+## Azacitidina: Avaliação de Reposicionamento — Previsão TxGNN Pendente
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

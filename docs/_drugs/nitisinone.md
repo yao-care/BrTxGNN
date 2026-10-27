@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Nitisinona: De produtos para o trato alimentar e metabolismo à acidose tubular renal
+## Nitisinona: De produtos para o trato alimentar e metabolismo à acidose tubular renal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

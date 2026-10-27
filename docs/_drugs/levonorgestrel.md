@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-# Levonorgestrel: Da osteoporose pós-menopausa à acne
+## Levonorgestrel: Da osteoporose pós-menopausa à acne
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

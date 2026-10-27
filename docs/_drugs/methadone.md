@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Metadona: De analgésico narcótico para síndrome de Tourette
+## Metadona: De analgésico narcótico para síndrome de Tourette
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

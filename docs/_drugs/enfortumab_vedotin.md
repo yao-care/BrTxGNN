@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-# Enfortumabe vedotina: De agente antineoplásico para hanseníase (previsão computacional)
+## Enfortumabe vedotina: De agente antineoplásico para hanseníase (previsão computacional)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

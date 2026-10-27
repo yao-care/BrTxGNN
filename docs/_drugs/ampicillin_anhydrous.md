@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Ampicillin Anhydrous: Sem Previsão de Reposicionamento Disponível
+## Ampicillin Anhydrous: Sem Previsão de Reposicionamento Disponível
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

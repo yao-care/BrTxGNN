@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **4**
 
 </div>
 
-# Acitretina: Da ceratólise/ceratoplastia à acne
+## Acitretina: Da ceratólise/ceratoplastia à acne
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

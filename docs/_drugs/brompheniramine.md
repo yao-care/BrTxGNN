@@ -31,7 +31,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Bronfeniramina: De descongestionante e antialérgico para urticária alérgica
+## Bronfeniramina: De descongestionante e antialérgico para urticária alérgica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

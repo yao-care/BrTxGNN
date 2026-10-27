@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **3**
 
 </div>
 
-# Belinostat: De antineoplásico (indicação genérica) para leucemia mieloide
+## Belinostat: De antineoplásico (indicação genérica) para leucemia mieloide
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

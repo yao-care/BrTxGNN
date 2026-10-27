@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Oxibutinina Cloridrato: Da Bexiga Hiperativa a Nova Indicação – Previsões TxGNN Indisponíveis
+## Oxibutinina Cloridrato: Da Bexiga Hiperativa a Nova Indicação – Previsões TxGNN Indisponíveis
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Rivaroxabana: Do uso anticoagulante à artrite reumatoide (previsão)
+## Rivaroxabana: Do uso anticoagulante à artrite reumatoide (previsão)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

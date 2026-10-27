@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Atosibana: Da obstetrícia/ginecologia ao glaucoma hereditário primário
+## Atosibana: Da obstetrícia/ginecologia ao glaucoma hereditário primário
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

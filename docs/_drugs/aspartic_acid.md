@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Ácido Aspártico: De nutriente parenteral para acidose tubular renal
+## Ácido Aspártico: De nutriente parenteral para acidose tubular renal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

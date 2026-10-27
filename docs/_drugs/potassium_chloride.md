@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Cloreto de Potássio: De reposição hidroeletrolítica e nutrição parenteral para acidose tubular renal
+## Cloreto de Potássio: De reposição hidroeletrolítica e nutrição parenteral para acidose tubular renal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

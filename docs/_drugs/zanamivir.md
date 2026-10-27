@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Zanamivir: Da influenza à pielonefrite (previsão sem evidências de suporte)
+## Zanamivir: Da influenza à pielonefrite (previsão sem evidências de suporte)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

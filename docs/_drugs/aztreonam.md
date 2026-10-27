@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Aztreonam: De infecções por bactérias gram-negativas à síndrome de hiperviscosidade policlonal
+## Aztreonam: De infecções por bactérias gram-negativas à síndrome de hiperviscosidade policlonal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

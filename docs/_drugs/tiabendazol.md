@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Tiabendazol: Avaliação de Reposicionamento — Previsões Indisponíveis neste Ciclo
+## Tiabendazol: Avaliação de Reposicionamento — Previsões Indisponíveis neste Ciclo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Bictegravir Sódico: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+## Bictegravir Sódico: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+{: .text-alpha }
 
 ## Resumo
 

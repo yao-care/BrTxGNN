@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Iodixanol: De meio de contraste iodado para osteoartrite (previsão do modelo)
+## Iodixanol: De meio de contraste iodado para osteoartrite (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

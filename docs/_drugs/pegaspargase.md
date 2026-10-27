@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Pegaspargase: Da leucemia linfoblástica aguda ao linfoma/leucemia linfoblástica precursora
+## Pegaspargase: Da leucemia linfoblástica aguda ao linfoma/leucemia linfoblástica precursora
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

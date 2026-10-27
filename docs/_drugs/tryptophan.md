@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Triptofano: De nutriente parenteral para síndrome das pernas inquietas
+## Triptofano: De nutriente parenteral para síndrome das pernas inquietas
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

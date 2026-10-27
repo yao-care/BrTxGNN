@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Oseltamivir Fosfato: Avaliação de Reposicionamento — Dados Insuficientes para Análise Completa
+## Oseltamivir Fosfato: Avaliação de Reposicionamento — Dados Insuficientes para Análise Completa
+{: .text-alpha }
 
 ## Resumo
 

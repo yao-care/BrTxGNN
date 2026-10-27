@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Sorbitol: Da ausência de indicação registrada no Brasil à hipertermia maligna induzida por exercício
+## Sorbitol: Da ausência de indicação registrada no Brasil à hipertermia maligna induzida por exercício
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

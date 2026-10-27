@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Desloratadina: De anti-histamínico sistêmico para urticária ao frio
+## Desloratadina: De anti-histamínico sistêmico para urticária ao frio
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

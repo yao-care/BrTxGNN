@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Vandetanibe: Do antineoplásico geral ao carcinoma de células renais
+## Vandetanibe: Do antineoplásico geral ao carcinoma de células renais
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Ornitina Aspartato: Avaliação Incompleta — Dados Insuficientes para Previsão de Reposicionamento
+## Ornitina Aspartato: Avaliação Incompleta — Dados Insuficientes para Previsão de Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Ledipasvir: Da hepatite C crônica à infecção pelo vírus da hepatite B
+## Ledipasvir: Da hepatite C crônica à infecção pelo vírus da hepatite B
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

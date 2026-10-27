@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Bilastina: Da rinite alérgica — Análise de Reposicionamento Pendente
+## Bilastina: Da rinite alérgica — Análise de Reposicionamento Pendente
+{: .text-alpha }
 
 ## Resumo
 

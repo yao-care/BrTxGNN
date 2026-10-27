@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Guaifenesina: De rinite e resfriado comum para doença da cavidade nasal
+## Guaifenesina: De rinite e resfriado comum para doença da cavidade nasal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

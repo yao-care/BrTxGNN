@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Acetazolamida: Avaliação de Reposicionamento — Previsões TxGNN Não Disponíveis
+## Acetazolamida: Avaliação de Reposicionamento — Previsões TxGNN Não Disponíveis
+{: .text-alpha }
 
 ## Resumo
 

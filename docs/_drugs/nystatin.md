@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Nistatina: Do antimicótico à vulvovaginite
+## Nistatina: Do antimicótico à vulvovaginite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

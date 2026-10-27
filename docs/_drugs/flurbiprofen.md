@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Flurbiprofeno: De artrite reumatoide e osteoartrite para espondilite anquilosante
+## Flurbiprofeno: De artrite reumatoide e osteoartrite para espondilite anquilosante
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

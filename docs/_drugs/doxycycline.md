@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Doxiciclina: Da classe das tetraciclinas à ceratoconjuntivite epitelial punctata
+## Doxiciclina: Da classe das tetraciclinas à ceratoconjuntivite epitelial punctata
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

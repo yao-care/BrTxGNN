@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-# Arginina: Da nutrição parenteral à gastroparesia
+## Arginina: Da nutrição parenteral à gastroparesia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

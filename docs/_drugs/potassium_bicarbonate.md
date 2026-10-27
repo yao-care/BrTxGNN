@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Bicarbonato de Potássio: De antiácido para gastroduodenite
+## Bicarbonato de Potássio: De antiácido para gastroduodenite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **3**
 
 </div>
 
-# Tioconazol: Do uso antifúngico tópico à vulvovaginite
+## Tioconazol: Do uso antifúngico tópico à vulvovaginite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

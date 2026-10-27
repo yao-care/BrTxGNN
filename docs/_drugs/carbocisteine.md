@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Carbocisteína: De expectorante mucolítico a gota (previsão do modelo)
+## Carbocisteína: De expectorante mucolítico a gota (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

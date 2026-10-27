@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cálcio: Da ausência de indicação registrada à doença trombótica
+## Cálcio: Da ausência de indicação registrada à doença trombótica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

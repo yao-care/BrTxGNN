@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **3**
 
 </div>
 
-# Olanzapina: De antipsicótico à agorafobia
+## Olanzapina: De antipsicótico à agorafobia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

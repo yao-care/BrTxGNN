@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-# Evolocumabe: De antilipêmico a hemofilia sintomática em portadoras (previsão sem respaldo clínico)
+## Evolocumabe: De antilipêmico a hemofilia sintomática em portadoras (previsão sem respaldo clínico)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

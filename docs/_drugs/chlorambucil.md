@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **8**
 
 </div>
 
-# Clorambucila: De outros antineoplásicos para leucemia linfocítica crônica (subtipo pré-centro germinativo)
+## Clorambucila: De outros antineoplásicos para leucemia linfocítica crônica (subtipo pré-centro germinativo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

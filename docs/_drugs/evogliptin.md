@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-# Evogliptina: Do tratamento antidiabético à osteodisplasia opsismodisplasia
+## Evogliptina: Do tratamento antidiabético à osteodisplasia opsismodisplasia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

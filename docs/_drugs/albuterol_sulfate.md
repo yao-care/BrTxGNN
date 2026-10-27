@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Albuterol Sulfato: Avaliação de Reposicionamento — Dados Insuficientes para Conclusão
+## Albuterol Sulfato: Avaliação de Reposicionamento — Dados Insuficientes para Conclusão
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

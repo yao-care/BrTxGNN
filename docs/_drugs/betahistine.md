@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Betaistina: De antivertiginoso/vasodilatador à síndrome das pernas inquietas
+## Betaistina: De antivertiginoso/vasodilatador à síndrome das pernas inquietas
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

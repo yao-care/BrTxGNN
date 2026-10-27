@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cabotegravir Sódico: Avaliação Preliminar — Dados Insuficientes para Análise de Reposicionamento
+## Cabotegravir Sódico: Avaliação Preliminar — Dados Insuficientes para Análise de Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Dupilumabe: De imunomodulador a bronquite
+## Dupilumabe: De imunomodulador a bronquite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

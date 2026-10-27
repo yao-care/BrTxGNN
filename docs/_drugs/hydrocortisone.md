@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Hidrocortisona: De glicocorticoide sistêmico e tópico para alopecia areata
+## Hidrocortisona: De glicocorticoide sistêmico e tópico para alopecia areata
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

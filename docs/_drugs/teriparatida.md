@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Teriparatida: Relatório de Avaliação Preliminar — Previsões TxGNN Indisponíveis
+## Teriparatida: Relatório de Avaliação Preliminar — Previsões TxGNN Indisponíveis
+{: .text-alpha }
 
 ---
 

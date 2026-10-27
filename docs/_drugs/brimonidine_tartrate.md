@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Tartarato de Brimonidina: Avaliação Preliminar — Dados Insuficientes para Reposicionamento
+## Tartarato de Brimonidina: Avaliação Preliminar — Dados Insuficientes para Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

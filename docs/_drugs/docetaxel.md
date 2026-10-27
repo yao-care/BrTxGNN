@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Docetaxel: Do câncer de pulmão, próstata, mama, estômago e cabeça e pescoço ao carcinoma de mama feminino
+## Docetaxel: Do câncer de pulmão, próstata, mama, estômago e cabeça e pescoço ao carcinoma de mama feminino
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

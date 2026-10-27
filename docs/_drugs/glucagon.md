@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **1**
 
 </div>
 
-# Glucagon: Da indicação original (não registrada no Brasil) à síndrome do intestino irritável
+## Glucagon: Da indicação original (não registrada no Brasil) à síndrome do intestino irritável
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

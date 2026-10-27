@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Docusato: Do laxante estimulante à síndrome de Plummer-Vinson
+## Docusato: Do laxante estimulante à síndrome de Plummer-Vinson
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Artesunato: Do tratamento da malária — Previsão TxGNN Não Disponível
+## Artesunato: Do tratamento da malária — Previsão TxGNN Não Disponível
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

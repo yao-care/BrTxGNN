@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ganciclovir: Da retinite por citomegalovírus à pneumonia por citomegalovírus
+## Ganciclovir: Da retinite por citomegalovírus à pneumonia por citomegalovírus
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

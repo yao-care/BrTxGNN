@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tramadol: Da osteoartrite à displasia acromesomélica tipo Hunter-Thompson
+## Tramadol: Da osteoartrite à displasia acromesomélica tipo Hunter-Thompson
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

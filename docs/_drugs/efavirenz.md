@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-# Efavirenz: Da infecção por HIV/AIDS à síndrome de imunodeficiência adquirida felina
+## Efavirenz: Da infecção por HIV/AIDS à síndrome de imunodeficiência adquirida felina
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

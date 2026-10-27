@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-# Glimepirida: De antidiabético a síndrome do membro rígido focal
+## Glimepirida: De antidiabético a síndrome do membro rígido focal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

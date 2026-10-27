@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Amilorida Cloridrato: Avaliação de Reposicionamento — Sem Previsões Disponíveis
+## Amilorida Cloridrato: Avaliação de Reposicionamento — Sem Previsões Disponíveis
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

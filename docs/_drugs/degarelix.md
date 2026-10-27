@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Degarelix: Do uso original à hipertricose (previsão do modelo)
+## Degarelix: Do uso original à hipertricose (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

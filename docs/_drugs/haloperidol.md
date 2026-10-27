@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Haloperidol: Dos transtornos psicóticos ao distúrbio congênito de glicosilação com fucosilação defeituosa
+## Haloperidol: Dos transtornos psicóticos ao distúrbio congênito de glicosilação com fucosilação defeituosa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Baricitinibe: Da artrite reumatoide à síndrome de displasia rizomélica com microftalmia colobomatosa
+## Baricitinibe: Da artrite reumatoide à síndrome de displasia rizomélica com microftalmia colobomatosa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

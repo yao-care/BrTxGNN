@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Budesonida: Da doença de Crohn e asma à eczema atópico
+## Budesonida: Da doença de Crohn e asma à eczema atópico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

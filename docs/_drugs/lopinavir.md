@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-# Lopinavir: Da infecção por HIV/AIDS à síndrome da imunodeficiência adquirida felina
+## Lopinavir: Da infecção por HIV/AIDS à síndrome da imunodeficiência adquirida felina
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

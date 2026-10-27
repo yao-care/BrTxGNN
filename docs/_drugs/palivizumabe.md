@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# PALIVIZUMABE: Avaliação de Reposicionamento — Dados Insuficientes para Predição
+## PALIVIZUMABE: Avaliação de Reposicionamento — Dados Insuficientes para Predição
+{: .text-alpha }
 
 ## Resumo
 

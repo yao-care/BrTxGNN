@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Lidocaína: De anestésico local à ceratoconjuntivite epitelial punctata
+## Lidocaína: De anestésico local à ceratoconjuntivite epitelial punctata
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

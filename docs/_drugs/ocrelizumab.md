@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-# Ocrelizumabe: De imunossupressor seletivo a carcinoma de mama HER2 positivo
+## Ocrelizumabe: De imunossupressor seletivo a carcinoma de mama HER2 positivo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

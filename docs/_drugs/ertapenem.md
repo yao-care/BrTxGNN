@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Ertapeném: De antibacteriano sistêmico para bacteriemia por Staphylococcus aureus
+## Ertapeném: De antibacteriano sistêmico para bacteriemia por Staphylococcus aureus
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

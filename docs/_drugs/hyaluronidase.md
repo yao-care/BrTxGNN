@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Hialuronidase: De associações tópicas à retinopatia diabética
+## Hialuronidase: De associações tópicas à retinopatia diabética
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

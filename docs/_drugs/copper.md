@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cobre: Do uso em polivitamínicos com minerais à dermatite
+## Cobre: Do uso em polivitamínicos com minerais à dermatite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

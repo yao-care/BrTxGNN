@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ofloxacino: De antiinfeccioso a polyclonal hyperviscosity syndrome (previsão do modelo, sem evidências)
+## Ofloxacino: De antiinfeccioso a polyclonal hyperviscosity syndrome (previsão do modelo, sem evidências)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

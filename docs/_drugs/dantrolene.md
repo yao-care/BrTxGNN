@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Dantroleno: De relaxante muscular central à hipertermia maligna
+## Dantroleno: De relaxante muscular central à hipertermia maligna
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

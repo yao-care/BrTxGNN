@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Avibactam Sódico: Avaliação de Reposicionamento — Predições Indisponíveis
+## Avibactam Sódico: Avaliação de Reposicionamento — Predições Indisponíveis
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

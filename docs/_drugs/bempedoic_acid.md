@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ácido bempedoico: De antilipêmico para hipertireoidismo (previsão do modelo)
+## Ácido bempedoico: De antilipêmico para hipertireoidismo (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

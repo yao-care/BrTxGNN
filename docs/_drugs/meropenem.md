@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Meropenem: De antibiótico sistêmico à infecção do trato urinário
+## Meropenem: De antibiótico sistêmico à infecção do trato urinário
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

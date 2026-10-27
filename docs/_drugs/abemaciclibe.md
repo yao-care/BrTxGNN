@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Abemaciclib: Do Câncer de Mama a Nova Indicação — Predição TxGNN Pendente
+## Abemaciclib: Do Câncer de Mama a Nova Indicação — Predição TxGNN Pendente
+{: .text-alpha }
 
 ## Resumo
 

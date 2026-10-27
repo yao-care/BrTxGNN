@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Acetato de Hidrocortisona: De glicocorticoide tópico e anti-hemorroidário à alopecia areata
+## Acetato de Hidrocortisona: De glicocorticoide tópico e anti-hemorroidário à alopecia areata
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

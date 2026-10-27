@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Trastuzumabe: Do câncer de mama HER2-positivo ao câncer de mama com receptor de progesterona positivo
+## Trastuzumabe: Do câncer de mama HER2-positivo ao câncer de mama com receptor de progesterona positivo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

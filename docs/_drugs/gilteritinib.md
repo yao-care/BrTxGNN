@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Gilteritinibe: De agentes antineoplásicos a poliomielite bulbar
+## Gilteritinibe: De agentes antineoplásicos a poliomielite bulbar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

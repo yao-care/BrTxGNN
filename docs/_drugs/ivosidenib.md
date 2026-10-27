@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-# Ivosidenibe: De agente antineoplásico para poliomielite bulbar
+## Ivosidenibe: De agente antineoplásico para poliomielite bulbar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

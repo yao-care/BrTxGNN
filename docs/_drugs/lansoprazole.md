@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Lansoprazol: Do tratamento antiulceroso ao refluxo duodenogástrico
+## Lansoprazol: Do tratamento antiulceroso ao refluxo duodenogástrico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

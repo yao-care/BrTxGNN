@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Nitazoxanida: De antiparasitário a hiperamilasemia
+## Nitazoxanida: De antiparasitário a hiperamilasemia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

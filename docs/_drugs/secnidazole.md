@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Secnidazol: De antiprotozoário (amebas, giárdia e tricomonas) para corrimento vaginal
+## Secnidazol: De antiprotozoário (amebas, giárdia e tricomonas) para corrimento vaginal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

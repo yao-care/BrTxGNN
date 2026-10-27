@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Acetilcisteína: Do mucolítico à doença trombótica
+## Acetilcisteína: Do mucolítico à doença trombótica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

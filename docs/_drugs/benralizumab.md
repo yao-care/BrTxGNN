@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **5**
 
 </div>
 
-# Benralizumabe: De outros antialérgicos à dermatite
+## Benralizumabe: De outros antialérgicos à dermatite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

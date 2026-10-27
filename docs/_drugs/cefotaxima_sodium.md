@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cefotaxima Sódica: Avaliação de Reposicionamento — Dados Insuficientes para Análise
+## Cefotaxima Sódica: Avaliação de Reposicionamento — Dados Insuficientes para Análise
+{: .text-alpha }
 
 ## Resumo
 

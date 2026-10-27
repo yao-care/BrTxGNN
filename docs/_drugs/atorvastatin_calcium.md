@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Atorvastatin Calcium: Avaliação de Reposicionamento — Dados Insuficientes para Conclusão
+## Atorvastatin Calcium: Avaliação de Reposicionamento — Dados Insuficientes para Conclusão
+{: .text-alpha }
 
 ## Resumo
 

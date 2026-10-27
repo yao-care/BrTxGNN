@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Irbesartana: Da hipertensão e nefropatia diabética à hipertensão renovascular maligna
+## Irbesartana: Da hipertensão e nefropatia diabética à hipertensão renovascular maligna
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

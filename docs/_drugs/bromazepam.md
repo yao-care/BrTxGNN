@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Bromazepam: Da ansiedade à enxaqueca (previsão do modelo)
+## Bromazepam: Da ansiedade à enxaqueca (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

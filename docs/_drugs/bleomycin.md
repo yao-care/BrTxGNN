@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-# Bleomicina: De antineoplásico citotóxico para neoplasia de cauda equina (previsão do modelo)
+## Bleomicina: De antineoplásico citotóxico para neoplasia de cauda equina (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Carbinoxamina Maleato: Avaliação Preliminar — Dados Insuficientes para Previsão TxGNN
+## Carbinoxamina Maleato: Avaliação Preliminar — Dados Insuficientes para Previsão TxGNN
+{: .text-alpha }
 
 ## Resumo
 

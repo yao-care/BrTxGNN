@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Metionina: Do suporte nutricional à acne
+## Metionina: Do suporte nutricional à acne
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

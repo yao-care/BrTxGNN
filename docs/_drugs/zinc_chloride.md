@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-# Cloreto de Zinco: De nutriente parenteral para retinopatia diabética não proliferativa grave
+## Cloreto de Zinco: De nutriente parenteral para retinopatia diabética não proliferativa grave
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

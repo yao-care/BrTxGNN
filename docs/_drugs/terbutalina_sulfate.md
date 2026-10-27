@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Terbutalina Sulfato: Avaliação Preliminar — Sem Previsão TxGNN Disponível
+## Terbutalina Sulfato: Avaliação Preliminar — Sem Previsão TxGNN Disponível
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Tetracaine Hydrochloride: Avaliação de Reposicionamento — Previsões Indisponíveis
+## Tetracaine Hydrochloride: Avaliação de Reposicionamento — Previsões Indisponíveis
+{: .text-alpha }
 
 ---
 

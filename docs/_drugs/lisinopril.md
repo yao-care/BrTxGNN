@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Lisinopril: De hipertensão e infarto do miocárdio para infarto do miocárdio posterolateral
+## Lisinopril: De hipertensão e infarto do miocárdio para infarto do miocárdio posterolateral
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

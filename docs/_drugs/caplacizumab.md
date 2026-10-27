@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Caplacizumabe: De antitrombótico a transtorno primário de liberação plaquetária
+## Caplacizumabe: De antitrombótico a transtorno primário de liberação plaquetária
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

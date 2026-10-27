@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Ácido fusídico: De antiinfeccioso tópico à ceratite de exposição
+## Ácido fusídico: De antiinfeccioso tópico à ceratite de exposição
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

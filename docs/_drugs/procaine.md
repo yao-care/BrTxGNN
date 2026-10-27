@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Procaína: De anestésico local a metemoglobinemia (previsão sem respaldo terapêutico)
+## Procaína: De anestésico local a metemoglobinemia (previsão sem respaldo terapêutico)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

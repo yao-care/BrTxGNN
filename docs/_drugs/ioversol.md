@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ioversol: De agente de contraste iodado para osteoartrite (previsão sem evidência de suporte)
+## Ioversol: De agente de contraste iodado para osteoartrite (previsão sem evidência de suporte)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

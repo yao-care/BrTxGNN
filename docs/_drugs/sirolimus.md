@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Sirolimo: De agente imunossupressor para lipossarcoma
+## Sirolimo: De agente imunossupressor para lipossarcoma
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

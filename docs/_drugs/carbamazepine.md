@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Carbamazepina: Do anticonvulsivante à neoplasia do nervo trigêmeo
+## Carbamazepina: Do anticonvulsivante à neoplasia do nervo trigêmeo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

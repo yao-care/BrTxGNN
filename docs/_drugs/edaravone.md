@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Edaravona: De outros produtos que atuam sobre o sistema nervoso para deficiência de cofator 2 da heparina
+## Edaravona: De outros produtos que atuam sobre o sistema nervoso para deficiência de cofator 2 da heparina
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

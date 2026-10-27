@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Propionato de Cálcio: Conservante Alimentar — Sem Previsão de Reposicionamento Disponível
+## Propionato de Cálcio: Conservante Alimentar — Sem Previsão de Reposicionamento Disponível
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

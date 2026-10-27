@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **4**
 
 </div>
 
-# Ácido Glutâmico: Da nutrição parenteral à osteoporose pós-menopausa
+## Ácido Glutâmico: Da nutrição parenteral à osteoporose pós-menopausa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

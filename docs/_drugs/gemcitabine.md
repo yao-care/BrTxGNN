@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Gencitabina: De antineoplásico citotóxico a carcinoma de mama feminino
+## Gencitabina: De antineoplásico citotóxico a carcinoma de mama feminino
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

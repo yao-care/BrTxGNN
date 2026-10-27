@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Fosaprepitant: De antiemético a síndrome nefrogênica de antidiurese inapropriada
+## Fosaprepitant: De antiemético a síndrome nefrogênica de antidiurese inapropriada
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Polatuzumabe vedotina: De antineoplásico (B-cell) para carcinoma de mama HER2-positivo
+## Polatuzumabe vedotina: De antineoplásico (B-cell) para carcinoma de mama HER2-positivo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

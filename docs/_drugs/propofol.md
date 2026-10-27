@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Propofol: De anestésico geral para enxaqueca
+## Propofol: De anestésico geral para enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

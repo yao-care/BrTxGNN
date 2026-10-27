@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Alogliptina Benzoato: Avaliação de Potencial de Reposicionamento
+## Alogliptina Benzoato: Avaliação de Potencial de Reposicionamento
+{: .text-alpha }
 
 ## Resumo
 

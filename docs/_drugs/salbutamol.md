@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Salbutamol: Da asma à conjuntivite papilar
+## Salbutamol: Da asma à conjuntivite papilar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

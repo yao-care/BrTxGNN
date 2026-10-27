@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-# Teofilina: De broncodilatador para doença tromboembólica (doença trombótica)
+## Teofilina: De broncodilatador para doença tromboembólica (doença trombótica)
+{: .text-alpha }
 
 > Nota: o relatório avalia a primeira indicação prevista (rank 1: doença trombótica), conforme as instruções. As demais previsões são mencionadas apenas quando necessário para contextualizar a leitura dos dados.
 

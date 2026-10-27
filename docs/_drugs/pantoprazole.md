@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **6**
 
 </div>
 
-# Pantoprazol: Da úlcera e acidez gástrica à doença ulcerosa péptica ativa
+## Pantoprazol: Da úlcera e acidez gástrica à doença ulcerosa péptica ativa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

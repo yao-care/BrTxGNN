@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Fenitoína: Do anticonvulsivante à neoplasia do nervo trigêmeo (previsão do modelo)
+## Fenitoína: Do anticonvulsivante à neoplasia do nervo trigêmeo (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-# Ferro (Iron): Da anemia por deficiência de ferro à síndrome de Plummer-Vinson
+## Ferro (Iron): Da anemia por deficiência de ferro à síndrome de Plummer-Vinson
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

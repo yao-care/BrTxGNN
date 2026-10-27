@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Milrinona: De vasodilatador à alopecia (previsão principal do modelo)
+## Milrinona: De vasodilatador à alopecia (previsão principal do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

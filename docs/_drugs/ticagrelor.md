@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ticagrelor: Da síndrome coronariana aguda à arteriosclerose intracraniana
+## Ticagrelor: Da síndrome coronariana aguda à arteriosclerose intracraniana
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

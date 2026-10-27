@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Gadobutrol: Do contraste para ressonância magnética à doença arterial periférica (uso diagnóstico)
+## Gadobutrol: Do contraste para ressonância magnética à doença arterial periférica (uso diagnóstico)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

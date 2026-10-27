@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Benzbromarona: De antigotoso para hipouricemia renal
+## Benzbromarona: De antigotoso para hipouricemia renal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Aciclovir: De antiviral a verrugas comuns
+## Aciclovir: De antiviral a verrugas comuns
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

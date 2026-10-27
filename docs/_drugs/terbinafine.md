@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Terbinafina: De antimicótico a furunculose miiásica (previsão do modelo, com ressalvas importantes)
+## Terbinafina: De antimicótico a furunculose miiásica (previsão do modelo, com ressalvas importantes)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

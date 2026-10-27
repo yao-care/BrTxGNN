@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Captopril: Da hipertensão arterial à doença renal hipertensiva maligna
+## Captopril: Da hipertensão arterial à doença renal hipertensiva maligna
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

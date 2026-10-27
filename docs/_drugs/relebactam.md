@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Relebactam: Da infecção do trato urinário à síndrome de hiperviscosidade policlonal
+## Relebactam: Da infecção do trato urinário à síndrome de hiperviscosidade policlonal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Melfalano: De antineoplásico citotóxico a tumor de células germinativas gonadal
+## Melfalano: De antineoplásico citotóxico a tumor de células germinativas gonadal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

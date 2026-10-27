@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Cetorolaco: Da conjuntivite alérgica à cefaleia (enxaqueca e cefaleia tensional)
+## Cetorolaco: Da conjuntivite alérgica à cefaleia (enxaqueca e cefaleia tensional)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

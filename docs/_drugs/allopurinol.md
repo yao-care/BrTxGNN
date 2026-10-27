@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Alopurinol: Do tratamento da gota à porfiria hepática
+## Alopurinol: Do tratamento da gota à porfiria hepática
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

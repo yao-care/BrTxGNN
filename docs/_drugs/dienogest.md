@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Dienogeste: Da indicação original não registrada à amenorreia (previsão do modelo)
+## Dienogeste: Da indicação original não registrada à amenorreia (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

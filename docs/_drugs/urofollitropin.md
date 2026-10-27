@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Urofollitropina: De hormônio gonadotrófico para enxaqueca
+## Urofollitropina: De hormônio gonadotrófico para enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

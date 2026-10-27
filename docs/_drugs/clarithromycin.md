@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Claritromicina: De macrolídeo antibacteriano a gamopatia monoclonal
+## Claritromicina: De macrolídeo antibacteriano a gamopatia monoclonal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

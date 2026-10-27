@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Clopidogrel: Da síndrome coronariana aguda à enxaqueca
+## Clopidogrel: Da síndrome coronariana aguda à enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

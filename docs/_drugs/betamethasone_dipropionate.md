@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Betamethasone Dipropionate: Avaliação Incompleta — Sem Previsões de Reposicionamento Disponíveis
+## Betamethasone Dipropionate: Avaliação Incompleta — Sem Previsões de Reposicionamento Disponíveis
+{: .text-alpha }
 
 ---
 

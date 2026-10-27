@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Clioquinol: De tinha dos pés a candidíase cutânea
+## Clioquinol: De tinha dos pés a candidíase cutânea
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

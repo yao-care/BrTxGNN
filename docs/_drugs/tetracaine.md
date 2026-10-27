@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-# Tetracaína: Do anestésico local à síndrome da cauda equina? (previsão sem respaldo)
+## Tetracaína: Do anestésico local à síndrome da cauda equina? (previsão sem respaldo)
+{: .text-alpha }
 
 > Observação: o relatório avalia a previsão de maior pontuação do TxGNN (acrodermatite crônica atrófica). Também comenta a única indicação com estudos relacionados (acne queloidiana) e o caso de segurança da síndrome da cauda equina.
 

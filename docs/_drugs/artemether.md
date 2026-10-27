@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Artemeter: Do antimalárico à reafirmação da indicação em malária por *Plasmodium falciparum*
+## Artemeter: Do antimalárico à reafirmação da indicação em malária por *Plasmodium falciparum*
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Metilergometrina: De ocitócico não hormonal para hipertricose
+## Metilergometrina: De ocitócico não hormonal para hipertricose
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Carmustina: Avaliação de Reposicionamento — Previsão TxGNN Indisponível
+## Carmustina: Avaliação de Reposicionamento — Previsão TxGNN Indisponível
+{: .text-alpha }
 
 ## Resumo
 

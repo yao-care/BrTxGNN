@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Centella asiatica: De uso sem indicação registrada no Brasil para insônia
+## Centella asiatica: De uso sem indicação registrada no Brasil para insônia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

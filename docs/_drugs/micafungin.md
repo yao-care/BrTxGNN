@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **1**
 
 </div>
 
-# Micafungina: De antifúngico a infecção do trato urinário
+## Micafungina: De antifúngico a infecção do trato urinário
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

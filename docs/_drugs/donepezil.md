@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **8**
 
 </div>
 
-# Donepezila: Da doença de Alzheimer ao transtorno de tique crônico
+## Donepezila: Da doença de Alzheimer ao transtorno de tique crônico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

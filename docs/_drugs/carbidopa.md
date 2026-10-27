@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Carbidopa: Dados Insuficientes para Avaliação de Reposicionamento
+## Carbidopa: Dados Insuficientes para Avaliação de Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

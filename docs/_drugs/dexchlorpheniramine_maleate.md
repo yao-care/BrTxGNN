@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Maleato de Dexclorfeniramina: De anti-histamínico sistêmico para porfiria aguda intermitente
+## Maleato de Dexclorfeniramina: De anti-histamínico sistêmico para porfiria aguda intermitente
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

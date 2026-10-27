@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tenecteplase: Do infarto agudo do miocárdio ao infarto do miocárdio posteroinferior
+## Tenecteplase: Do infarto agudo do miocárdio ao infarto do miocárdio posteroinferior
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

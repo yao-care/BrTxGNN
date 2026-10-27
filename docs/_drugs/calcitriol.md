@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **7**
 
 </div>
 
-# Calcitriol: Das doenças do metabolismo do cálcio e do fósforo ao raquitismo hipofosfatêmico hereditário
+## Calcitriol: Das doenças do metabolismo do cálcio e do fósforo ao raquitismo hipofosfatêmico hereditário
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

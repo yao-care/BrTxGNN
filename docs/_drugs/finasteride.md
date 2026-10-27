@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-# Finasterida: Do inibidor da alfa-redutase à hipertricose de Ambras
+## Finasterida: Do inibidor da alfa-redutase à hipertricose de Ambras
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

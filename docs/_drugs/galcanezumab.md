@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-# Galcanezumabe: De preparações antienxaqueca para deficiência de cofator 2 da heparina
+## Galcanezumabe: De preparações antienxaqueca para deficiência de cofator 2 da heparina
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

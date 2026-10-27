@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Bevacizumabe: De neoplasias do peritônio, mama e glioblastoma para neoplasia de epiglote
+## Bevacizumabe: De neoplasias do peritônio, mama e glioblastoma para neoplasia de epiglote
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

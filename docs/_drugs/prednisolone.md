@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Prednisolona: De glicocorticoides sistêmicos à alopecia areata
+## Prednisolona: De glicocorticoides sistêmicos à alopecia areata
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

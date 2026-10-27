@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Vancomicina: De antibiótico sistêmico para esclerodermia difusa
+## Vancomicina: De antibiótico sistêmico para esclerodermia difusa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

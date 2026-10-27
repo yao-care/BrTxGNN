@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ambroxol: Da faringite à doença da cavidade nasal
+## Ambroxol: Da faringite à doença da cavidade nasal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

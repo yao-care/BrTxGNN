@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Oxaliplatina: Do câncer de cólon metastático ao mesotelioma pleural maligno
+## Oxaliplatina: Do câncer de cólon metastático ao mesotelioma pleural maligno
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

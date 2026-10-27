@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Benzoato de Benzila: Avaliação de Reposicionamento Inconclusiva por Dados Insuficientes
+## Benzoato de Benzila: Avaliação de Reposicionamento Inconclusiva por Dados Insuficientes
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

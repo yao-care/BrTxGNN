@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-# Empagliflozina: Do diabetes mellitus tipo 2 à síndrome da pessoa rígida clássica
+## Empagliflozina: Do diabetes mellitus tipo 2 à síndrome da pessoa rígida clássica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

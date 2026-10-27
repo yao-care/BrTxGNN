@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **5**
 
 </div>
 
-# Mepolizumabe: De outros medicamentos antiasmáticos à trombocitopenia por destruição imune
+## Mepolizumabe: De outros medicamentos antiasmáticos à trombocitopenia por destruição imune
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

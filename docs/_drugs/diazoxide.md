@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Diazóxido: De vasodilatador à alopecia (previsão do TxGNN)
+## Diazóxido: De vasodilatador à alopecia (previsão do TxGNN)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

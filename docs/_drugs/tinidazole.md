@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tinidazol: De antiprotozoário e antiinfeccioso tópico para vaginite atrófica pós-menopausa
+## Tinidazol: De antiprotozoário e antiinfeccioso tópico para vaginite atrófica pós-menopausa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

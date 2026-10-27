@@ -31,7 +31,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Levobupivacaína Hidrocloreto: Análise de Reposicionamento — Dados Insuficientes para Avaliação
+## Levobupivacaína Hidrocloreto: Análise de Reposicionamento — Dados Insuficientes para Avaliação
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

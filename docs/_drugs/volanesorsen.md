@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Volanesorsen: De agente modificador de lipídios para anemia megaloblástica (previsão sem sustentação)
+## Volanesorsen: De agente modificador de lipídios para anemia megaloblástica (previsão sem sustentação)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

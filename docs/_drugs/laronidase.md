@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Laronidase: Da mucopolissacaridose à doença lisossômica com acometimento esquelético
+## Laronidase: Da mucopolissacaridose à doença lisossômica com acometimento esquelético
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

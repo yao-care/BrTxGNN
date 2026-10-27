@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ropivacaína: De anestésico local a enxaqueca (migraine disorder)
+## Ropivacaína: De anestésico local a enxaqueca (migraine disorder)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

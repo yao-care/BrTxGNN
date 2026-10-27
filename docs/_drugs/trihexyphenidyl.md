@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Triexifenidil: Do parkinsonismo ao transtorno de déficit de atenção e hiperatividade (TDAH)
+## Triexifenidil: Do parkinsonismo ao transtorno de déficit de atenção e hiperatividade (TDAH)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

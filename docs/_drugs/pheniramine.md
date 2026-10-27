@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-# Feniramina: De descongestionante oftálmico para urticária alérgica
+## Feniramina: De descongestionante oftálmico para urticária alérgica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

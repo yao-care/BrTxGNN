@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Carbonato de Cálcio: Avaliação de Reposicionamento Inconclusiva
+## Carbonato de Cálcio: Avaliação de Reposicionamento Inconclusiva
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

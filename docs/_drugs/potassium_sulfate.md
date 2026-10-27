@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Sulfato de potássio: De polivitamínicos com minerais para hipertensão arterial
+## Sulfato de potássio: De polivitamínicos com minerais para hipertensão arterial
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

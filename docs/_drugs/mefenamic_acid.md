@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **8**
 
 </div>
 
-# Ácido Mefenâmico: De anti-inflamatório/antirreumático para artrite reumatoide
+## Ácido Mefenâmico: De anti-inflamatório/antirreumático para artrite reumatoide
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

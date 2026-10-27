@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Iodeto de Potássio: De expectorante/mucolítico para doença da cavidade nasal
+## Iodeto de Potássio: De expectorante/mucolítico para doença da cavidade nasal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

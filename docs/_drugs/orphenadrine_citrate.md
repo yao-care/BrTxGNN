@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Orphenadrine Citrate: Relaxante Muscular Sem Indicações de Reposicionamento Previstas pelo TxGNN
+## Orphenadrine Citrate: Relaxante Muscular Sem Indicações de Reposicionamento Previstas pelo TxGNN
+{: .text-alpha }
 
 ---
 

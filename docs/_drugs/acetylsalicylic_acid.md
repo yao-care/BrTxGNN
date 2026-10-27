@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **9**
 
 </div>
 
-# Ácido acetilsalicílico: De antiagregante plaquetário e analgésico para enxaqueca com aura do tronco encefálico
+## Ácido acetilsalicílico: De antiagregante plaquetário e analgésico para enxaqueca com aura do tronco encefálico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

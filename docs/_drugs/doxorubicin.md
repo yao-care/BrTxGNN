@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Doxorrubicina: De antineoplásico a sarcoma de Ewing
+## Doxorrubicina: De antineoplásico a sarcoma de Ewing
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

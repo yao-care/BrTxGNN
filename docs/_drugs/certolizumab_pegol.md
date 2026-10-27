@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-# Certolizumabe pegol: De anti-inflamatório a vasculite reumatoide
+## Certolizumabe pegol: De anti-inflamatório a vasculite reumatoide
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

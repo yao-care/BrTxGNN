@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Brentuximabe vedotina: Do uso antineoplásico geral ao linfoma folicular
+## Brentuximabe vedotina: Do uso antineoplásico geral ao linfoma folicular
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

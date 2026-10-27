@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-# Nitrazepam: Da insônia a distúrbio do sono (iniciar e manter o sono)
+## Nitrazepam: Da insônia a distúrbio do sono (iniciar e manter o sono)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

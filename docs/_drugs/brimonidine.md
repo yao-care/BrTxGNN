@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Brimonidina: Do glaucoma à conjuntivite papilar (sinal provável de reação adversa)
+## Brimonidina: Do glaucoma à conjuntivite papilar (sinal provável de reação adversa)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

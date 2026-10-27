@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Bupivacaína Monohidrato Cloridrato: Avaliação de Reposicionamento Inconclusiva — Sem Previsões TxGNN Disponíveis
+## Bupivacaína Monohidrato Cloridrato: Avaliação de Reposicionamento Inconclusiva — Sem Previsões TxGNN Disponíveis
+{: .text-alpha }
 
 ---
 

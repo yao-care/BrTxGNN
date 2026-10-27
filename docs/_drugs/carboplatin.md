@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Carboplatina: Do câncer de ovário ao carcinoma de mama feminino
+## Carboplatina: Do câncer de ovário ao carcinoma de mama feminino
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

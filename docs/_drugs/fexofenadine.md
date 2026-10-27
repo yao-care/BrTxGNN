@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Fexofenadina: De anti-histamínico sistêmico à conjuntivite da rosácea
+## Fexofenadina: De anti-histamínico sistêmico à conjuntivite da rosácea
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

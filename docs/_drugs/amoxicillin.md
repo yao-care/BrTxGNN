@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Amoxicilina: Da penicilina de amplo espectro à síndrome de hiperviscosidade policlonal
+## Amoxicilina: Da penicilina de amplo espectro à síndrome de hiperviscosidade policlonal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

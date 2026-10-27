@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tolnaftato: Do uso antifúngico/anti-infeccioso tópico à infecção dermatofítica ectotrix
+## Tolnaftato: Do uso antifúngico/anti-infeccioso tópico à infecção dermatofítica ectotrix
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

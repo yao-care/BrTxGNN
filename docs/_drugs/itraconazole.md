@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Itraconazol: De antimicótico sistêmico a pneumocistose
+## Itraconazol: De antimicótico sistêmico a pneumocistose
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

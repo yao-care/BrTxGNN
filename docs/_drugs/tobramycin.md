@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Tobramicina: De antiinfeccioso tópico oftálmico/aminoglicosídeo para ceratite por exposição
+## Tobramicina: De antiinfeccioso tópico oftálmico/aminoglicosídeo para ceratite por exposição
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

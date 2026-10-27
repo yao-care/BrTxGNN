@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Pirfenidona: Do tratamento respiratório à neoplasia mastocitária extracutânea (previsão do modelo)
+## Pirfenidona: Do tratamento respiratório à neoplasia mastocitária extracutânea (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

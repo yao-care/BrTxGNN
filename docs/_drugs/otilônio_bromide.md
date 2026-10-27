@@ -31,7 +31,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# OTILÔNIO BROMIDE: Avaliação de Reposicionamento — Dados Insuficientes para Análise Completa
+## OTILÔNIO BROMIDE: Avaliação de Reposicionamento — Dados Insuficientes para Análise Completa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

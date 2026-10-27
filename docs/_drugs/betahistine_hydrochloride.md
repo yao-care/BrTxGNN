@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Betahistina Cloridrato: Análise de Reposicionamento — Previsões Pendentes por Lacunas de Dados
+## Betahistina Cloridrato: Análise de Reposicionamento — Previsões Pendentes por Lacunas de Dados
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

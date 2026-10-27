@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# CALCIUM DIHYDRATE CHLORIDE: Avaliação Inconclusiva — Dados Insuficientes para Reposicionamento
+## CALCIUM DIHYDRATE CHLORIDE: Avaliação Inconclusiva — Dados Insuficientes para Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-# Piperacilina: Da penicilina antibacteriana à artrite reumatoide (previsão sem suporte)
+## Piperacilina: Da penicilina antibacteriana à artrite reumatoide (previsão sem suporte)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

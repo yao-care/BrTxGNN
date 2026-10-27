@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Lumacaftor: Da fibrose cística à hanseníase
+## Lumacaftor: Da fibrose cística à hanseníase
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

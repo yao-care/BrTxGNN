@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Azitromicina: De antibiótico sistêmico para hiperamilasemia
+## Azitromicina: De antibiótico sistêmico para hiperamilasemia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

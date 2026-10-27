@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Fluocinolona acetonida: De desmelanizante e corticoide tópico associado para líquen plano atrófico anular
+## Fluocinolona acetonida: De desmelanizante e corticoide tópico associado para líquen plano atrófico anular
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **2**
 
 </div>
 
-# Misoprostol: Da indicação original não registrada à amenorreia
+## Misoprostol: Da indicação original não registrada à amenorreia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

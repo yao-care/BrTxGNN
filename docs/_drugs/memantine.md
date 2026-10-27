@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Memantina: De outros medicamentos do sistema nervoso para enxaqueca
+## Memantina: De outros medicamentos do sistema nervoso para enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Iopamidol: De agente de contraste radiológico à angina de Prinzmetal
+## Iopamidol: De agente de contraste radiológico à angina de Prinzmetal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

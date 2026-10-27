@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Biotina: Da deficiência nutricional de biotina à dispepsia
+## Biotina: Da deficiência nutricional de biotina à dispepsia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

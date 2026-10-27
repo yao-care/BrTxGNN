@@ -31,7 +31,8 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-# Sumatriptana: Da enxaqueca à enxaqueca com aura do tronco encefálico
+## Sumatriptana: Da enxaqueca à enxaqueca com aura do tronco encefálico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

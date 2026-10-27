@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Calcipotriol: Da psoríase à queratose seborreica
+## Calcipotriol: Da psoríase à queratose seborreica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

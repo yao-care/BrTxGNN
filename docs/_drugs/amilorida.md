@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Amilorida: Avaliação de Reposicionamento Pendente — Dados Insuficientes para Previsão
+## Amilorida: Avaliação de Reposicionamento Pendente — Dados Insuficientes para Previsão
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

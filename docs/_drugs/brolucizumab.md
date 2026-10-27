@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Brolucizumabe: De medicamento de ação no aparelho visual para transtorno mitocondrial da fosforilação oxidativa
+## Brolucizumabe: De medicamento de ação no aparelho visual para transtorno mitocondrial da fosforilação oxidativa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

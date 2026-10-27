@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Bimatoprosta: Do glaucoma à alopecia
+## Bimatoprosta: Do glaucoma à alopecia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

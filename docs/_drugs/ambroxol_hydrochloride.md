@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Ambroxol Hydrochloride: Avaliação de Reposicionamento — Dados Insuficientes para Análise Completa
+## Ambroxol Hydrochloride: Avaliação de Reposicionamento — Dados Insuficientes para Análise Completa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

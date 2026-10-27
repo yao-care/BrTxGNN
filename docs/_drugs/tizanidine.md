@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tizanidina: De relaxante muscular central a transtorno de enxaqueca
+## Tizanidina: De relaxante muscular central a transtorno de enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

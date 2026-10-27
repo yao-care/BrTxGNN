@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Sacituzumabe govitecana: Da indicação original não registrada à osteoporose induzida por fármacos
+## Sacituzumabe govitecana: Da indicação original não registrada à osteoporose induzida por fármacos
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

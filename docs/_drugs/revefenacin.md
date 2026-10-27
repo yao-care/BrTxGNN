@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **2**
 
 </div>
 
-# Revefenacina: De anticolinérgico à bronquite
+## Revefenacina: De anticolinérgico à bronquite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

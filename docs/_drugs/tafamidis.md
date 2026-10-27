@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Tafamidis: Da amiloidose à amiloidose primária (amiloidose do tipo transtirretina)
+## Tafamidis: Da amiloidose à amiloidose primária (amiloidose do tipo transtirretina)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

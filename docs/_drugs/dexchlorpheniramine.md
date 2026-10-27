@@ -31,7 +31,8 @@ Nível de evidência: **L3** | Indicações previstas: **2**
 
 </div>
 
-# Dexclorfeniramina: De anti-histamínico sistêmico para urticária alérgica
+## Dexclorfeniramina: De anti-histamínico sistêmico para urticária alérgica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

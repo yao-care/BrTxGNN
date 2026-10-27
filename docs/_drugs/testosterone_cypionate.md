@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# TESTOSTERONE CYPIONATE: Avaliação de Reposicionamento — Sem Previsão TxGNN Disponível
+## TESTOSTERONE CYPIONATE: Avaliação de Reposicionamento — Sem Previsão TxGNN Disponível
+{: .text-alpha }
 
 ## Resumo
 

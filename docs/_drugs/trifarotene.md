@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Trifaroteno: Da acne à elevação de zinco plasmático (previsão do modelo)
+## Trifaroteno: Da acne à elevação de zinco plasmático (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

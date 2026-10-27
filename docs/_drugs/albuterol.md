@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Albuterol: Avaliação de Reposicionamento — Dados Insuficientes para Geração de Previsão
+## Albuterol: Avaliação de Reposicionamento — Dados Insuficientes para Geração de Previsão
+{: .text-alpha }
 
 ## Resumo
 

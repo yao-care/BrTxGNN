@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Acetato de Prednisolona: De glicocorticoide oftálmico tópico para conjuntivite parasitária
+## Acetato de Prednisolona: De glicocorticoide oftálmico tópico para conjuntivite parasitária
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

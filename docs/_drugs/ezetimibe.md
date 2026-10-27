@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **4**
 
 </div>
 
-# Ezetimiba: De antilipêmico à hiperlipoproteinemia
+## Ezetimiba: De antilipêmico à hiperlipoproteinemia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

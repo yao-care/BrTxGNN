@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Salicilamida: Do tratamento sintomático da gripe à faringite
+## Salicilamida: Do tratamento sintomático da gripe à faringite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

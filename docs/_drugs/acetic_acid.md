@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-# Ácido acético: De produtos para hemodiálise a transtorno pós-bacteriano
+## Ácido acético: De produtos para hemodiálise a transtorno pós-bacteriano
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

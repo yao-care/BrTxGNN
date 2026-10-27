@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Citrato de Sódio: De antitussígeno e produtos para orofaringe a conjuntivite papilar
+## Citrato de Sódio: De antitussígeno e produtos para orofaringe a conjuntivite papilar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

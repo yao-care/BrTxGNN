@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-# Felodipino: Da hipertensão arterial à hipertensão pulmonar (previsão do modelo)
+## Felodipino: Da hipertensão arterial à hipertensão pulmonar (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

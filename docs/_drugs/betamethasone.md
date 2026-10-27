@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Betametasona: De glicocorticoide tópico/sistêmico para alopecia areata
+## Betametasona: De glicocorticoide tópico/sistêmico para alopecia areata
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

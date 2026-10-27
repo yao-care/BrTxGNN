@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Nitrendipino: De anti-hipertensivo para enxaqueca (migraine disorder)
+## Nitrendipino: De anti-hipertensivo para enxaqueca (migraine disorder)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

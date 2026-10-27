@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Inositol: Das indicações lipídicas e nutricionais à trombose portal primitiva (previsão computacional)
+## Inositol: Das indicações lipídicas e nutricionais à trombose portal primitiva (previsão computacional)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

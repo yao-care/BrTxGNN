@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Atropine Sulfate: Avaliação de Reposicionamento — Dados Insuficientes para Análise Completa
+## Atropine Sulfate: Avaliação de Reposicionamento — Dados Insuficientes para Análise Completa
+{: .text-alpha }
 
 ---
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Alcaftadina: Avaliação Preliminar — Previsão TxGNN Indisponível
+## Alcaftadina: Avaliação Preliminar — Previsão TxGNN Indisponível
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

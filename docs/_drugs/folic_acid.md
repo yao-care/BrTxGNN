@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-# Ácido Fólico: De antianêmico para doença metabólica da biotina
+## Ácido Fólico: De antianêmico para doença metabólica da biotina
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

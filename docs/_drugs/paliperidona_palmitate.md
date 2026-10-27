@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# PALIPERIDONA PALMITATE: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+## PALIPERIDONA PALMITATE: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+{: .text-alpha }
 
 ---
 

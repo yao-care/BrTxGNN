@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# D-glicose: De nutriente parenteral para malformação esofágica não sindrômica
+## D-glicose: De nutriente parenteral para malformação esofágica não sindrômica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

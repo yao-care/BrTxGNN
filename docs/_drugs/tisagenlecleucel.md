@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tisagenlecleucel: De terapia CAR-T anti-CD19 para a colite de Crohn (previsão do modelo)
+## Tisagenlecleucel: De terapia CAR-T anti-CD19 para a colite de Crohn (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

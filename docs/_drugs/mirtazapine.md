@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-# Mirtazapina: De antidepressivo à síndrome de Ohdo (previsão sem evidências clínicas)
+## Mirtazapina: De antidepressivo à síndrome de Ohdo (previsão sem evidências clínicas)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-# Carvedilol: Da hipertensão à hipertensão renovascular maligna
+## Carvedilol: Da hipertensão à hipertensão renovascular maligna
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

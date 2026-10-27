@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Carisoprodol: Do relaxante muscular à insônia
+## Carisoprodol: Do relaxante muscular à insônia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

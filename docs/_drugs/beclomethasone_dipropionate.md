@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **1**
 
 </div>
 
-# Dipropionato de Beclometasona: De antiasmático e corticosteroide tópico para eczema atópico
+## Dipropionato de Beclometasona: De antiasmático e corticosteroide tópico para eczema atópico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

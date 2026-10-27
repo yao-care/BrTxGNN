@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-# Citalopram: Da depressão ao transtorno obsessivo-compulsivo
+## Citalopram: Da depressão ao transtorno obsessivo-compulsivo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

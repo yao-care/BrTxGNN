@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Espironolactona: De diurético a hipotricose simples do couro cabeludo
+## Espironolactona: De diurético a hipotricose simples do couro cabeludo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

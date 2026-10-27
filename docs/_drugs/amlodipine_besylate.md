@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Besilato de Amlodipina: Avaliação de Reposicionamento — Dados Insuficientes para Conclusão
+## Besilato de Amlodipina: Avaliação de Reposicionamento — Dados Insuficientes para Conclusão
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

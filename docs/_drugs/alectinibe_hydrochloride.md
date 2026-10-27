@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cloridrato de Alectinibe: Dados Insuficientes para Avaliação de Reposicionamento
+## Cloridrato de Alectinibe: Dados Insuficientes para Avaliação de Reposicionamento
+{: .text-alpha }
 
 ## Resumo
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Trastuzumabe deruxtecana: De antineoplásico (HER2) para osteoporose induzida por fármacos
+## Trastuzumabe deruxtecana: De antineoplásico (HER2) para osteoporose induzida por fármacos
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

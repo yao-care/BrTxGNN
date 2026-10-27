@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Avelumabe: De antineoplásico (indicação genérica) para tumor relacionado ao herpesvírus humano 8
+## Avelumabe: De antineoplásico (indicação genérica) para tumor relacionado ao herpesvírus humano 8
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Clozapina: De neurolépticos para transtorno bipolar maníaco
+## Clozapina: De neurolépticos para transtorno bipolar maníaco
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

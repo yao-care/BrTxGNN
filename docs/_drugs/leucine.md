@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Leucina (LEUCINE): Avaliação de Reposicionamento — Dados Insuficientes para Análise
+## Leucina (LEUCINE): Avaliação de Reposicionamento — Dados Insuficientes para Análise
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cloreto de Sódio: De reposição hidroeletrolítica à doença fibrocística da mama
+## Cloreto de Sódio: De reposição hidroeletrolítica à doença fibrocística da mama
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

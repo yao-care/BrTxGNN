@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Indacaterol: Da indicação original não registrada à doença brônquica
+## Indacaterol: Da indicação original não registrada à doença brônquica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Benazepril Cloridrato: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+## Benazepril Cloridrato: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **4**
 
 </div>
 
-# Hidroquinona: De desmelanizante a ceratose seborreica
+## Hidroquinona: De desmelanizante a ceratose seborreica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cafeína: De analgésico e estimulante respiratório para doença da cavidade nasal
+## Cafeína: De analgésico e estimulante respiratório para doença da cavidade nasal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

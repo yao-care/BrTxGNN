@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Carbonato de Magnésio: De antiácido e analgésico não narcótico para doença ulcerosa péptica ativa
+## Carbonato de Magnésio: De antiácido e analgésico não narcótico para doença ulcerosa péptica ativa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-# Buprenorfina: De analgésico narcótico para porfiria aguda intermitente
+## Buprenorfina: De analgésico narcótico para porfiria aguda intermitente
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Vismodegibe: Do tratamento antineoplásico ao câncer de pele (carcinoma basocelular)
+## Vismodegibe: Do tratamento antineoplásico ao câncer de pele (carcinoma basocelular)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

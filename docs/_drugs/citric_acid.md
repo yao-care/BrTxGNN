@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-# Ácido cítrico: De antiácido a doença gástrica (stomach disease)
+## Ácido cítrico: De antiácido a doença gástrica (stomach disease)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

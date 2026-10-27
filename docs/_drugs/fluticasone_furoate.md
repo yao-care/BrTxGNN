@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-# Fluticasona Furoato: De glicocorticoide tópico/antiasmático para eczema atópico
+## Fluticasona Furoato: De glicocorticoide tópico/antiasmático para eczema atópico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

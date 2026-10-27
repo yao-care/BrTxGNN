@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-# Acarbose: Do diabetes mellitus tipo 2 à síndrome do membro rígido focal
+## Acarbose: Do diabetes mellitus tipo 2 à síndrome do membro rígido focal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

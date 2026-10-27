@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# BELIMUMABE: Avaliação de Reposicionamento — Dados Insuficientes para Previsão Completa
+## BELIMUMABE: Avaliação de Reposicionamento — Dados Insuficientes para Previsão Completa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

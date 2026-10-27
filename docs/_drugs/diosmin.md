@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Diosmina: De indicação original não documentada para amenorreia
+## Diosmina: De indicação original não documentada para amenorreia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

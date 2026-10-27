@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Clobutinol: Do antitussígeno de ação central à febre tifoide
+## Clobutinol: Do antitussígeno de ação central à febre tifoide
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

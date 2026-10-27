@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Calcipotriol Monoidratado: Avaliação de Reposicionamento — Dados Insuficientes
+## Calcipotriol Monoidratado: Avaliação de Reposicionamento — Dados Insuficientes
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

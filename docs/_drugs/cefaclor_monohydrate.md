@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cefaclor Mono-Hidratado: Análise de Reposicionamento Inconclusiva
+## Cefaclor Mono-Hidratado: Análise de Reposicionamento Inconclusiva
+{: .text-alpha }
 
 ## Resumo
 

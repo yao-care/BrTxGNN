@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Lanadelumabe: Da indicação original não especificada à deficiência de inibidor de C1
+## Lanadelumabe: Da indicação original não especificada à deficiência de inibidor de C1
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

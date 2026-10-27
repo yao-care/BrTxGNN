@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Celecoxibe: Da artrite reumatoide à displasia acromesomélica tipo Hunter-Thompson
+## Celecoxibe: Da artrite reumatoide à displasia acromesomélica tipo Hunter-Thompson
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

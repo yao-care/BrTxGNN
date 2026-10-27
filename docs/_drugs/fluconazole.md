@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Fluconazol: De antimicótico sistêmico a ceratoconjuntivite epitelial punctata
+## Fluconazol: De antimicótico sistêmico a ceratoconjuntivite epitelial punctata
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

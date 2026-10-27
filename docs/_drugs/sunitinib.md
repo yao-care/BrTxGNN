@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Sunitinibe: Do câncer antineoplásico geral ao lipossarcoma
+## Sunitinibe: Do câncer antineoplásico geral ao lipossarcoma
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

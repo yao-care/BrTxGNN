@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-# Digoxina: Da fibrilação atrial à angina de Prinzmetal
+## Digoxina: Da fibrilação atrial à angina de Prinzmetal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

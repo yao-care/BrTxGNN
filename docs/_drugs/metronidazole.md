@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Metronidazol: De antiprotozoário e antibacteriano para pneumocistose (previsão com evidência muito fraca)
+## Metronidazol: De antiprotozoário e antibacteriano para pneumocistose (previsão com evidência muito fraca)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

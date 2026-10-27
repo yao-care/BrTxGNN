@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Teprotumumabe: De imunossupressor para monossomia do X (previsão sem sustentação clínica)
+## Teprotumumabe: De imunossupressor para monossomia do X (previsão sem sustentação clínica)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

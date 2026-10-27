@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ácido ascórbico: De vitaminas e suplementos para lesão (injury)
+## Ácido ascórbico: De vitaminas e suplementos para lesão (injury)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

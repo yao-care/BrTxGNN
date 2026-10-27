@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Vitamina A: Da deficiência de vitamina A à congenital prothrombin deficiency (deficiência congênita de protrombina)
+## Vitamina A: Da deficiência de vitamina A à congenital prothrombin deficiency (deficiência congênita de protrombina)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

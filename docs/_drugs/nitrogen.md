@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-# Nitrogênio: Da displasia capilar alveolar congênita à síndrome de microdeleção 16q24.1
+## Nitrogênio: Da displasia capilar alveolar congênita à síndrome de microdeleção 16q24.1
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

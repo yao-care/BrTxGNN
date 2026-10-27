@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **9**
 
 </div>
 
-# Lamotrigina: De anticonvulsivante a neuralgia do trigêmeo
+## Lamotrigina: De anticonvulsivante a neuralgia do trigêmeo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

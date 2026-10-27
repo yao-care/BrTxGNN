@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **7**
 
 </div>
 
-# Icatibanto: Do uso sem classe terapêutica específica à deficiência do inibidor de C1
+## Icatibanto: Do uso sem classe terapêutica específica à deficiência do inibidor de C1
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **9**
 
 </div>
 
-# Cloranfenicol: De cicatrizante e anti-infeccioso para conjuntivite
+## Cloranfenicol: De cicatrizante e anti-infeccioso para conjuntivite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

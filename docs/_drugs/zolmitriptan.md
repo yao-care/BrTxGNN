@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-# Zolmitriptana: Da enxaqueca à enxaqueca com aura do tronco encefálico
+## Zolmitriptana: Da enxaqueca à enxaqueca com aura do tronco encefálico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

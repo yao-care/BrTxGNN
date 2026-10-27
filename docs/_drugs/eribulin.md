@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Eribulina: De outros antineoplásicos para autosomal recessive familial Mediterranean fever
+## Eribulina: De outros antineoplásicos para autosomal recessive familial Mediterranean fever
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Piracetam: Do uso como nootrópico/antimioclônico à osteoartrite (previsão do modelo)
+## Piracetam: Do uso como nootrópico/antimioclônico à osteoartrite (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

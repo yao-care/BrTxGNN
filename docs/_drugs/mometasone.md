@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Mometasona: De produtos para terapia nasal ao linfoma cutâneo primário de células T
+## Mometasona: De produtos para terapia nasal ao linfoma cutâneo primário de células T
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Galsulfase: Da mucopolissacaridose à síndrome de ptose-estrabismo-pupilas ectópicas
+## Galsulfase: Da mucopolissacaridose à síndrome de ptose-estrabismo-pupilas ectópicas
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

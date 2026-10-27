@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-# Mecobalamina: De monovitamina (vitamina B12) para colangite esclerosante
+## Mecobalamina: De monovitamina (vitamina B12) para colangite esclerosante
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

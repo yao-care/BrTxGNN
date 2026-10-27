@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Clortalidona: De anti-hipertensivo e diurético para glaucoma hereditário primário
+## Clortalidona: De anti-hipertensivo e diurético para glaucoma hereditário primário
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

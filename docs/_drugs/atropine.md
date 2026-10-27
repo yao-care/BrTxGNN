@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Atropina: Do antiespasmódico gastrintestinal e midriático ao transtorno de enxaqueca
+## Atropina: Do antiespasmódico gastrintestinal e midriático ao transtorno de enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

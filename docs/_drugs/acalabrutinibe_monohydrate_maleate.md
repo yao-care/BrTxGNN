@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Acalabrutinibe: Avaliação de Reposicionamento — Previsões TxGNN Não Disponíveis
+## Acalabrutinibe: Avaliação de Reposicionamento — Previsões TxGNN Não Disponíveis
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

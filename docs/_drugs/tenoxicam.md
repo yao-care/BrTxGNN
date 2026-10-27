@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Tenoxicam: Da doença articular artrítica à artrite reumatoide
+## Tenoxicam: Da doença articular artrítica à artrite reumatoide
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

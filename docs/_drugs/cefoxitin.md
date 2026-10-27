@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cefoxitina: Das cefalosporinas à otite média infecciosa
+## Cefoxitina: Das cefalosporinas à otite média infecciosa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

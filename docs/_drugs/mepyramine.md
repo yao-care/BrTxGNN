@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **4**
 
 </div>
 
-# Mepiramina: De descongestionante nasal tópico para urticária alérgica
+## Mepiramina: De descongestionante nasal tópico para urticária alérgica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

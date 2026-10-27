@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Filgrastim: De neutropenia constitucional a distúrbio de liberação plaquetária primário
+## Filgrastim: De neutropenia constitucional a distúrbio de liberação plaquetária primário
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **1**
 
 </div>
 
-# Eltrombopag: De outros produtos anti-hemorrágicos para infecção por HIV
+## Eltrombopag: De outros produtos anti-hemorrágicos para infecção por HIV
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Acetato de Sódio: De produtos para hemodiálise e reposição hidroeletrolítica para deficiência congênita de protrombina
+## Acetato de Sódio: De produtos para hemodiálise e reposição hidroeletrolítica para deficiência congênita de protrombina
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

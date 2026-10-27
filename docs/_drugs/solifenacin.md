@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Solifenacina: Da bexiga hiperativa à bexiga de baixa complacência
+## Solifenacina: Da bexiga hiperativa à bexiga de baixa complacência
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Aflibercepte: Avaliação de Reposicionamento — Dados Insuficientes para Previsão TxGNN
+## Aflibercepte: Avaliação de Reposicionamento — Dados Insuficientes para Previsão TxGNN
+{: .text-alpha }
 
 ## Resumo
 

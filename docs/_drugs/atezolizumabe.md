@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Atezolizumabe: Avaliação de Reposicionamento — Sem Previsão TxGNN Disponível
+## Atezolizumabe: Avaliação de Reposicionamento — Sem Previsão TxGNN Disponível
+{: .text-alpha }
 
 ---
 

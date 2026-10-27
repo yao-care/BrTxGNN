@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Lorlatinibe: De agente antineoplásico para fibromatose gengival (previsão do modelo, sem evidências de suporte)
+## Lorlatinibe: De agente antineoplásico para fibromatose gengival (previsão do modelo, sem evidências de suporte)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

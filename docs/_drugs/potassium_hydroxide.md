@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Hidróxido de Potássio: De nutriente parenteral para hiperplasia prostática benigna
+## Hidróxido de Potássio: De nutriente parenteral para hiperplasia prostática benigna
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Meloxicam: De artrite reumatoide e osteoartrite para a síndrome de displasia acromesomélica tipo Hunter-Thompson
+## Meloxicam: De artrite reumatoide e osteoartrite para a síndrome de displasia acromesomélica tipo Hunter-Thompson
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Orlistate: Da modulação do metabolismo e da digestão à hipervitaminose
+## Orlistate: Da modulação do metabolismo e da digestão à hipervitaminose
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

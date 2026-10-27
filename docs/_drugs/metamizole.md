@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Metamizol (Dipirona): De analgésico não narcótico para artrite reumatoide
+## Metamizol (Dipirona): De analgésico não narcótico para artrite reumatoide
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

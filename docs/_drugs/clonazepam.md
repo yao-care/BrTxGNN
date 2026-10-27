@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **3**
 
 </div>
 
-# Clonazepam: Da epilepsia e transtornos de ansiedade à síndrome das pernas inquietas
+## Clonazepam: Da epilepsia e transtornos de ansiedade à síndrome das pernas inquietas
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

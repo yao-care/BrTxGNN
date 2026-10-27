@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Carbetocina: De preparações hormonais sistêmicas para a síndrome semelhante à isotretinoína
+## Carbetocina: De preparações hormonais sistêmicas para a síndrome semelhante à isotretinoína
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

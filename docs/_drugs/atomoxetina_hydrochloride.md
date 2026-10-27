@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cloridrato de Atomoxetina: Avaliação de Reposicionamento Pendente
+## Cloridrato de Atomoxetina: Avaliação de Reposicionamento Pendente
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

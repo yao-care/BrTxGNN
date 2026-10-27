@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Prometazina: De anti-histamínico sistêmico para rosácea conjuntivite (conjuntivite associada à rosácea)
+## Prometazina: De anti-histamínico sistêmico para rosácea conjuntivite (conjuntivite associada à rosácea)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

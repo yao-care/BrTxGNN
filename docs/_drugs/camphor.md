@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Cânfora: De produtos tópicos e inalantes para enxaqueca
+## Cânfora: De produtos tópicos e inalantes para enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-# Alprazolam: Da ansiedade à insônia
+## Alprazolam: Da ansiedade à insônia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **3**
 
 </div>
 
-# Tacrolimo: Da dermatite atópica à dermatite seborreica
+## Tacrolimo: Da dermatite atópica à dermatite seborreica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

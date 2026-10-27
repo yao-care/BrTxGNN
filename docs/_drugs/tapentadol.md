@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tapentadol: De analgésico opioide para enxaqueca (previsão do modelo)
+## Tapentadol: De analgésico opioide para enxaqueca (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

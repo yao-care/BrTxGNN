@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **2**
 
 </div>
 
-# Tegaserod: De outros produtos para o aparelho digestivo e metabolismo para enxaqueca
+## Tegaserod: De outros produtos para o aparelho digestivo e metabolismo para enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

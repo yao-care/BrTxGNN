@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Levobunolol: Do glaucoma de ângulo aberto ao glaucoma hereditário primário
+## Levobunolol: Do glaucoma de ângulo aberto ao glaucoma hereditário primário
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

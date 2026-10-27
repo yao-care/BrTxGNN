@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Telmisartana: Da hipertensão arterial ao acidente vascular cerebral por oclusão de artéria cerebral
+## Telmisartana: Da hipertensão arterial ao acidente vascular cerebral por oclusão de artéria cerebral
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

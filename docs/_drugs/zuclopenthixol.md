@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-# Zuclopentixol: De neuroléptico a distrofia retiniana (previsão computacional)
+## Zuclopentixol: De neuroléptico a distrofia retiniana (previsão computacional)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

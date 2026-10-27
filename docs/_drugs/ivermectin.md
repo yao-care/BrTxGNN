@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ivermectina: Da estrongiloidíase e oncocercose à candidíase vulvovaginal
+## Ivermectina: Da estrongiloidíase e oncocercose à candidíase vulvovaginal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

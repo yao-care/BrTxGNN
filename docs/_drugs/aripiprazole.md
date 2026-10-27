@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Aripiprazol: Do uso como antipsicótico ao transtorno afetivo maior
+## Aripiprazol: Do uso como antipsicótico ao transtorno afetivo maior
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

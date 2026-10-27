@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-# Isoniazida: Da tuberculose à conjuntivite
+## Isoniazida: Da tuberculose à conjuntivite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

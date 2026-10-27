@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Levotiroxina Sódica: Avaliação de Reposicionamento Inconclusiva
+## Levotiroxina Sódica: Avaliação de Reposicionamento Inconclusiva
+{: .text-alpha }
 
 ## Resumo
 

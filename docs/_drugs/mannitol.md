@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Manitol: Do uso como diurético osmótico à síndrome nefrogênica de antidiurese inapropriada
+## Manitol: Do uso como diurético osmótico à síndrome nefrogênica de antidiurese inapropriada
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

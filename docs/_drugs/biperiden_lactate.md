@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Biperiden Lactato: Avaliação Preliminar — Dados Insuficientes para Previsão de Reposicionamento
+## Biperiden Lactato: Avaliação Preliminar — Dados Insuficientes para Previsão de Reposicionamento
+{: .text-alpha }
 
 ## Resumo
 

@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Esomeprazol: Do tratamento antiulceroso à úlcera duodenal
+## Esomeprazol: Do tratamento antiulceroso à úlcera duodenal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Miconazol: De antimicótico tópico para acne
+## Miconazol: De antimicótico tópico para acne
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

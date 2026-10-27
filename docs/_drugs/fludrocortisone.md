@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-# Fludrocortisona: Do uso como mineralocorticoide ao linfoma cutâneo primário de células T
+## Fludrocortisona: Do uso como mineralocorticoide ao linfoma cutâneo primário de células T
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

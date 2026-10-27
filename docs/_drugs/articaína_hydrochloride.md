@@ -31,7 +31,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Articaína Cloridrato: Anestésico Local Odontológico — Dados Insuficientes para Previsão de Reposicionamento
+## Articaína Cloridrato: Anestésico Local Odontológico — Dados Insuficientes para Previsão de Reposicionamento
+{: .text-alpha }
 
 ## Resumo
 

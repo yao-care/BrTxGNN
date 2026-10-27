@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Azithromycin Monohydrate: Avaliação Incompleta — Sem Previsão TxGNN Disponível
+## Azithromycin Monohydrate: Avaliação Incompleta — Sem Previsão TxGNN Disponível
+{: .text-alpha }
 
 ---
 

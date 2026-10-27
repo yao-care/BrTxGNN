@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-# Zanubrutinibe: Do tratamento antineoplásico à leucemia mieloide
+## Zanubrutinibe: Do tratamento antineoplásico à leucemia mieloide
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

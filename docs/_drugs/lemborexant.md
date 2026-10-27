@@ -31,7 +31,8 @@ Nível de evidência: **L1** | Indicações previstas: **1**
 
 </div>
 
-# Lemborexante: De hipnótico e sedativo para distúrbio de início e manutenção do sono
+## Lemborexante: De hipnótico e sedativo para distúrbio de início e manutenção do sono
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

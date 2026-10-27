@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cabotegravir: Do HIV à artrite reumatoide (previsão do modelo, sem evidências clínicas)
+## Cabotegravir: Do HIV à artrite reumatoide (previsão do modelo, sem evidências clínicas)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

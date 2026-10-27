@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-# Lactulose: Da encefalopatia hepática à nefropatia aguda por urato
+## Lactulose: Da encefalopatia hepática à nefropatia aguda por urato
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Pegfilgrastim: De indicação original não registrada à retinopatia diabética não proliferativa grave
+## Pegfilgrastim: De indicação original não registrada à retinopatia diabética não proliferativa grave
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Cobimetinibe: Do tratamento antineoplásico à esclerose lateral amiotrófica
+## Cobimetinibe: Do tratamento antineoplásico à esclerose lateral amiotrófica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

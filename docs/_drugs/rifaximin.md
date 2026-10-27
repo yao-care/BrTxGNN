@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-# Rifaximina: Da indicação original registrada à candidiase oral (previsão sem suporte clínico)
+## Rifaximina: Da indicação original registrada à candidiase oral (previsão sem suporte clínico)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Benserazida Cloridrato: Inibidor da DOPA Descarboxilase – Sem Previsões de Reposicionamento Disponíveis
+## Benserazida Cloridrato: Inibidor da DOPA Descarboxilase – Sem Previsões de Reposicionamento Disponíveis
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Travoprosta: Do glaucoma de ângulo aberto à calcifilaxia visceral
+## Travoprosta: Do glaucoma de ângulo aberto à calcifilaxia visceral
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

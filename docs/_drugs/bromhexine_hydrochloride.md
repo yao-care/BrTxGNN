@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Bromexina (Bromhexine): Avaliação Preliminar de Reposicionamento
+## Bromexina (Bromhexine): Avaliação Preliminar de Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

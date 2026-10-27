@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Sotatercepte: Da hipertensão arterial pulmonar à leucemia linfoblástica aguda
+## Sotatercepte: Da hipertensão arterial pulmonar à leucemia linfoblástica aguda
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

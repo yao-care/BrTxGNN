@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cloreto de Cálcio: Avaliação de Reposicionamento Inconclusiva
+## Cloreto de Cálcio: Avaliação de Reposicionamento Inconclusiva
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

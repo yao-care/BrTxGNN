@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Alpelisibe: De agente antineoplásico a hipertensão pulmonar
+## Alpelisibe: De agente antineoplásico a hipertensão pulmonar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

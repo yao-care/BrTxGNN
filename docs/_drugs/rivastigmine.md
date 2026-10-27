@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-# Rivastigmina: Do uso em outros produtos que atuam sobre o sistema nervoso ao glaucoma
+## Rivastigmina: Do uso em outros produtos que atuam sobre o sistema nervoso ao glaucoma
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

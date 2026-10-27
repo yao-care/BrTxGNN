@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Pemigatinibe: De outros antineoplásicos para neoplasia endócrina múltipla
+## Pemigatinibe: De outros antineoplásicos para neoplasia endócrina múltipla
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

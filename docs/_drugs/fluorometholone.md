@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Fluorometolona: De glicocorticoide oftálmico tópico para vasculite pós-infecciosa
+## Fluorometolona: De glicocorticoide oftálmico tópico para vasculite pós-infecciosa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Cilastatina: Do antibacteriano associado à infecção por Staphylococcus aureus
+## Cilastatina: Do antibacteriano associado à infecção por Staphylococcus aureus
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Tranilcipromina: De antidepressivo a torcicolo paroxístico benigno da infância
+## Tranilcipromina: De antidepressivo a torcicolo paroxístico benigno da infância
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

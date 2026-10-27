@@ -41,7 +41,8 @@ Analisando o Evidence Pack:
 
 ---
 
-# Lenalidomida: Avaliação de Reposicionamento Incompleta – Previsões TxGNN Ausentes
+## Lenalidomida: Avaliação de Reposicionamento Incompleta – Previsões TxGNN Ausentes
+{: .text-alpha }
 
 ## Resumo
 

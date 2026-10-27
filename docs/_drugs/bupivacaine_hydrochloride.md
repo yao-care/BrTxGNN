@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Bupivacaine Hydrochloride: Avaliação Inconclusiva por Ausência de Previsões TxGNN
+## Bupivacaine Hydrochloride: Avaliação Inconclusiva por Ausência de Previsões TxGNN
+{: .text-alpha }
 
 ## Resumo
 

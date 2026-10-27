@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-# Pseudoefedrina: De descongestionante nasal sistêmico para doença da cavidade nasal
+## Pseudoefedrina: De descongestionante nasal sistêmico para doença da cavidade nasal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

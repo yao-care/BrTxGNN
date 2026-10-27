@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-# Pregabalina: Da dor neuropática e fibromialgia à tendinite
+## Pregabalina: Da dor neuropática e fibromialgia à tendinite
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

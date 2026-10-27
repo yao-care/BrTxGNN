@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Dutasterida: Do inibidor da alfa-redutase à hipertricose congênita de Ambras
+## Dutasterida: Do inibidor da alfa-redutase à hipertricose congênita de Ambras
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

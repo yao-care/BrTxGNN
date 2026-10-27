@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Cisteína: De nutriente parenteral à síndrome do olho seco
+## Cisteína: De nutriente parenteral à síndrome do olho seco
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

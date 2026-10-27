@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **4**
 
 </div>
 
-# Parecoxibe: De anti-inflamatório a enxaqueca
+## Parecoxibe: De anti-inflamatório a enxaqueca
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Cefazolina: De pneumonia bacteriana e outras infecções para otite média infecciosa
+## Cefazolina: De pneumonia bacteriana e outras infecções para otite média infecciosa
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

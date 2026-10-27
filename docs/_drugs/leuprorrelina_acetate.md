@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# LEUPRORRELINA ACETATE: Avaliação Inconclusiva — Dados Insuficientes para Análise de Reposicionamento
+## LEUPRORRELINA ACETATE: Avaliação Inconclusiva — Dados Insuficientes para Análise de Reposicionamento
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

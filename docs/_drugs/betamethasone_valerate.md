@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Betamethasone Valerate: Sem Previsão de Reposicionamento Disponível
+## Betamethasone Valerate: Sem Previsão de Reposicionamento Disponível
+{: .text-alpha }
 
 ## Resumo
 

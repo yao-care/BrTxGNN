@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Selumetinibe: De agente antineoplásico e imunomodulador a lentiginose generalizada familiar
+## Selumetinibe: De agente antineoplásico e imunomodulador a lentiginose generalizada familiar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

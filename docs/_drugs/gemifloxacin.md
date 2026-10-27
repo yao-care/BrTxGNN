@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Gemifloxacino: De antibiótico sistêmico para síndrome de hiperviscosidade policlonal
+## Gemifloxacino: De antibiótico sistêmico para síndrome de hiperviscosidade policlonal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

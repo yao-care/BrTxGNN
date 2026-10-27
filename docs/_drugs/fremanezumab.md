@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **2**
 
 </div>
 
-# Fremanezumabe: De outros produtos que atuam sobre o sistema nervoso para enxaqueca com aura do tronco encefálico
+## Fremanezumabe: De outros produtos que atuam sobre o sistema nervoso para enxaqueca com aura do tronco encefálico
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

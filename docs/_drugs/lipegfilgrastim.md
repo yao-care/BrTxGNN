@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-# Lipegfilgrastim: Da neutropenia induzida por quimioterapia a distúrbio de liberação plaquetária primário
+## Lipegfilgrastim: Da neutropenia induzida por quimioterapia a distúrbio de liberação plaquetária primário
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

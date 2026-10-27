@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-# Fenticonazol: De antimicótico tópico a tricomoníase vulvovaginal
+## Fenticonazol: De antimicótico tópico a tricomoníase vulvovaginal
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

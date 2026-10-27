@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Piroxicam: Da artrite reumatoide à artrite idiopática juvenil
+## Piroxicam: Da artrite reumatoide à artrite idiopática juvenil
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

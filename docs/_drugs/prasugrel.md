@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Prasugrel: Da síndrome coronariana aguda à hipertensão pulmonar
+## Prasugrel: Da síndrome coronariana aguda à hipertensão pulmonar
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

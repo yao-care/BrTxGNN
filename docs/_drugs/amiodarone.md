@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Amiodarona: Do tratamento de arritmias à taquicardia ventricular catecolaminérgica polimórfica
+## Amiodarona: Do tratamento de arritmias à taquicardia ventricular catecolaminérgica polimórfica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

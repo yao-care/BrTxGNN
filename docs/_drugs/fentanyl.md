@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-# Fentanila: Da analgesia opioide à síndrome nefrogênica de antidiurese inapropriada
+## Fentanila: Da analgesia opioide à síndrome nefrogênica de antidiurese inapropriada
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

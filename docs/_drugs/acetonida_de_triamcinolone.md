@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Acetonida de Triamcinolona: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+## Acetonida de Triamcinolona: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+{: .text-alpha }
 
 ---
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Amitriptyline Hydrochloride: Avaliação de Reposicionamento Inconclusiva por Ausência de Dados
+## Amitriptyline Hydrochloride: Avaliação de Reposicionamento Inconclusiva por Ausência de Dados
+{: .text-alpha }
 
 ## Resumo
 

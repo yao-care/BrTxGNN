@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Ceftolozana: De outras cefalosporinas e penêmicos para uretrite por Ureaplasma
+## Ceftolozana: De outras cefalosporinas e penêmicos para uretrite por Ureaplasma
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

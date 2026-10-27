@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Óxido de Zinco: De protetor e emoliente da pele para acne
+## Óxido de Zinco: De protetor e emoliente da pele para acne
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

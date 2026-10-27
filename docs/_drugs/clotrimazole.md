@@ -33,7 +33,8 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-# Clotrimazol: De antimicótico tópico para vulvovaginite (candidiásica)
+## Clotrimazol: De antimicótico tópico para vulvovaginite (candidiásica)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

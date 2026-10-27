@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Praziquantel: Da esquistossomose à uterine corpus epithelioid leiomyosarcoma (leiomiossarcoma epitelioide do corpo uterino)
+## Praziquantel: Da esquistossomose à uterine corpus epithelioid leiomyosarcoma (leiomiossarcoma epitelioide do corpo uterino)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

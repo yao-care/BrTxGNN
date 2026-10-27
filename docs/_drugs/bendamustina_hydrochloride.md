@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Bendamustina Hidrocloreto: Agente Alquilante — Avaliação Bloqueada por Ausência de Previsões TxGNN
+## Bendamustina Hidrocloreto: Agente Alquilante — Avaliação Bloqueada por Ausência de Previsões TxGNN
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

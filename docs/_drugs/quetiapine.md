@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Quetiapina: De antipsicótico a tricotilomania
+## Quetiapina: De antipsicótico a tricotilomania
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

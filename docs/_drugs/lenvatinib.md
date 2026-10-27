@@ -33,7 +33,8 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-# Lenvatinibe: De antineoplásico geral para lipossarcoma
+## Lenvatinibe: De antineoplásico geral para lipossarcoma
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Norfloxacino: De infecções bacterianas à hiperamilasemia
+## Norfloxacino: De infecções bacterianas à hiperamilasemia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

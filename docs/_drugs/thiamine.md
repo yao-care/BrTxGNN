@@ -33,7 +33,8 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-# Tiamina: Da suplementação vitamínica ao hipertireoidismo
+## Tiamina: Da suplementação vitamínica ao hipertireoidismo
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Brinzolamida: De antiglaucomatoso a glaucoma hereditário primário
+## Brinzolamida: De antiglaucomatoso a glaucoma hereditário primário
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

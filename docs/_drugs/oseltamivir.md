@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Oseltamivir: Da influenza à pneumonia (associada à influenza)
+## Oseltamivir: Da influenza à pneumonia (associada à influenza)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

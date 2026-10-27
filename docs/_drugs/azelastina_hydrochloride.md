@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# Cloridrato de Azelastina: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+## Cloridrato de Azelastina: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

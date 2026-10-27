@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-# Dexpantenol: De produtos para pele e mucosas a anorectal stricture (estenose anorretal)
+## Dexpantenol: De produtos para pele e mucosas a anorectal stricture (estenose anorretal)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

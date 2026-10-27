@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Lorazepam: De ansiedade e epilepsia para neoplasia do nervo trigêmeo (previsão do modelo)
+## Lorazepam: De ansiedade e epilepsia para neoplasia do nervo trigêmeo (previsão do modelo)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

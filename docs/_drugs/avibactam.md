@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Avibactam: Da pielonefrite à pneumonia estreptocócica
+## Avibactam: Da pielonefrite à pneumonia estreptocócica
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

@@ -32,7 +32,8 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-# BUPROPION HYDROCHLORIDE: Avaliação de Reposicionamento — Evidências Insuficientes
+## BUPROPION HYDROCHLORIDE: Avaliação de Reposicionamento — Evidências Insuficientes
+{: .text-alpha }
 
 ## Resumo
 

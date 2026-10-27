@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-# Sulfametoxazol: De associação trimetoprima-sulfa para conjuntivite contagiosa aguda
+## Sulfametoxazol: De associação trimetoprima-sulfa para conjuntivite contagiosa aguda
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

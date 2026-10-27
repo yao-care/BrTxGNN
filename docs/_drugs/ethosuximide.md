@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-# Etosuximida: Do tratamento anticonvulsivante à síndrome nefrogênica de antidiurese inapropriada
+## Etosuximida: Do tratamento anticonvulsivante à síndrome nefrogênica de antidiurese inapropriada
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

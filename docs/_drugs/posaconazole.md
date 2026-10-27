@@ -33,7 +33,8 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-# Posaconazol: De antimicótico sistêmico à pneumocistose
+## Posaconazol: De antimicótico sistêmico à pneumocistose
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

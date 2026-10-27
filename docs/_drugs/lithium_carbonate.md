@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Carbonato de lítio: De antidepressivo à pseudoacondroplasia
+## Carbonato de lítio: De antidepressivo à pseudoacondroplasia
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 

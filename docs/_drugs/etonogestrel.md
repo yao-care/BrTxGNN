@@ -33,7 +33,8 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-# Etonogestrel: Da contracepção à amenorreia (previsão computacional, sem evidência clínica direta)
+## Etonogestrel: Da contracepção à amenorreia (previsão computacional, sem evidência clínica direta)
+{: .text-alpha }
 
 ## Resumo em Uma Frase
 
