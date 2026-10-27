@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-27T05:57:10.482873+00:00",
-  "total_fetched": 92,
-  "unique_count": 89,
+  "fetched_at": "2026-10-27T11:45:19.326790+00:00",
+  "total_fetched": 94,
+  "unique_count": 91,
   "health_related_count": 35,
   "news": [
+    {
+      "id": "5df5c9ad7457",
+      "title": "Anfíbio de 237 milhões de anos pode ter sido o primeiro a viver só no mar - G1",
+      "published": "2026-10-27T06:30:00+00:00",
+      "summary": "Anfíbio de 237 milhões de anos pode ter sido o primeiro a viver só no mar&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDRvWHlpZ0w5dFhydUhWQ3JWTndkNkNLQ3lMWlUyLU5JRlpKZEdMNTRuemN3YUFJdVdUOUR2ay1Ba2h4dU1ncXJvaHVZZjhTXzRiajlYU3hTQVBrZ1hoZXRhcEdnejNGdUo5WlFPMjhlUm4zTEpIQ1VyRVVxREJwTVp2WFYwRW1Pb091TlQxQkhKS0F3NzN3Q0NVZTMyekFJVU9lR2xFdFV4OEV3c1lKWWdIR0xkaTRBMnRfa0tCUDdoTTQ2SmfSAdQBQVVfeXFMT0ZQa1FrSGRFWERxVzh2Wldaa25XXzdrdEFyTzNodlFYTkZ1dEZ2bHI4NXB2WEE3bEZfWlZucGFZNFkxSU9XT1JRR3hpZGhhSEI2eVFCUElERHFWMzAwMjh1Z2dVUjVtZnNwTkcxcjZtRHNoTVludGJlUlJyUnFTaXVLbE1XOENLTWluOGFSbkt3VnlrYVhNM2xnWmRFNUVGb3o2eHBzcHFjN1ZScm9DenFSLWFmTVBBZlFqazJNQ2oxNW1FcC1FaVF0QUV2Q0gwQm8yMm4?oc=5"
+        }
+      ]
+    },
     {
       "id": "e85c85251d22",
       "title": "Lúcia Helena: Como um corante criado no Brasil torna cirurgias de retina mais seguras - UOL",
@@ -14,18 +26,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXRKM1FDelpUeHZyVHhxODk5QVRQRXI1dFd4NHJ0OGtkWjRXU1dJRE1RTmFLUGpnN3Q0ZG03cGF2aUwySUh3MEEweWlLay1RcXNFQmJPT3ZuUHlfajZtVDF3Yk8xeWZ0eEM4b1kzMHNPXzFSWUZRb1JmY0dJbHhZNkg1R2d0Y1hXZnRYU1Bia3Qzckw4WWZMcmxJQV91WFNzMkNhcThGeTcwWG9uQUhxZTFBaFNoUTRxYTRpS25SWF9SdFI4YzNwUzFwRnU2ZVpoYVlWYQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e1a3a804df7",
-      "title": "Vídeo: Diagnóstico precoce amplia chances de tratamento contra o câncer de mama | Vídeos PITV 2ª Edição - G1",
-      "published": "2026-10-26T22:54:23+00:00",
-      "summary": "Vídeo: Diagnóstico precoce amplia chances de tratamento contra o câncer de mama | Vídeos PITV 2ª Edição&nbsp;&nbsp;G1A saúde da mulher é mais que uma campanha&nbsp;&nbsp;JOTA InfoOutubro mais que rosa&nbsp;&nbsp;Jornal do ComércioMamografia: a importância da prevenção do câncer de mama&nbsp;&nbsp;Gazeta do PovoOutubro Rosa: o cuidado que não pode ficar para depois&nbsp;&nbsp;Olhar Direto",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnJNSVItWlpoRHhxbEc0T0RDVm5Nek5VTnhnZFhvdGZhMDdBUUIyT3BYZnRkNndnR25YeEZjczhwQllUbXR4ZU9oWkJVSnpHSUhyTTNkMVdETG5EYnczTldIZXFvVHNBbm5wejZKeW1LRE9FX09JdDdLN1o4ZF9RZUtpN1pORkloaG1TNkdrell4RHJzUDZzNFVvS2FFZGpDMzc0SXVNY1BjT2t6Wk5pTGV4UnBfY1JsX2c1WFZOaVVzbGpPTXhCN2E2emxyR0VjQU9DWVY1MFRmQXRO?oc=5"
         }
       ]
     },
@@ -42,38 +42,26 @@
       ]
     },
     {
-      "id": "110554aa99ca",
-      "title": "Cientistas acreditam terem descoberto por que algumas pessoas tem febre após tomar vacina - Extra online",
-      "published": "2026-10-26T20:23:50+00:00",
-      "summary": "Cientistas acreditam terem descoberto por que algumas pessoas tem febre após tomar vacina&nbsp;&nbsp;Extra online",
+      "id": "5b6659ef8232",
+      "title": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta - Agência Brasil",
+      "published": "2026-10-26T21:34:00+00:00",
+      "summary": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta&nbsp;&nbsp;Agência BrasilBaixa adesão à vacina contra dengue em Natal acende alerta em autoridades&nbsp;&nbsp;Agora RNDengue: RN tem aumento de casos e Natal tem baixa vacinação&nbsp;&nbsp;Tribuna do NorteMais de 3 milhões de adolescentes precisam completar vacinação contra dengue&nbsp;&nbsp;O ImparcialMais de 3 milhões de adolescentes não completaram vacinação contra dengue no Brasil&nbsp;&nbsp;Primeira Página",
       "sources": [
         {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV1NBenpWeVZuNy1xa0NZa2JPY1hGdUN6a0Y3OFVLN3pyRl9HbzYyd2xlYjdlQlpHeUt2aF9qOVM2UnRpTzdlMW1FQUItR2R5YjBkZTg0X0VkR3RHc0sxenBVTDNYRlBDOE9ldzYxODJBS2dvM3FYUWRUWElQcFVhek12WG5IeEEzZjZFWDFPODQ3a3ZXNng5YWJFcHB1eHh4OHhkSUgxNUVSbEJXUjlfVDB4elUwaVBUQVFrSTFTc2llSGNpMjFBRUJiVTMwOEk5ZzdwMC1NcGPSAecBQVVfeXFMUERWM1lRM3Rub3J6SzhkY2ljTGdndXZadGlaRThmTm55MlNzclZiVW1Zbk5yWFRzbWJxeG5ldjdCQnBPbEQ2V3g2Y0o3amN4LVhPRklLV1BmR0llRU1uZ1EzTVJLV3VReHRBTFRuajdsR1VjVjFWMlNKSHhGdG5CTTI2S0w5RFowcG16MHRLZmNVelVKU1JNVi13cjdIV1NmQ1Z4U1JNOU9RMURvVHo4T1pqMlBNYjdxUnhDc1NjbFIwZXNpU1VjTlZKcjJVdHZ5eWlURkQxZkV5RVNUdWRhSWowTW1uTUNV?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORkNMVjU3eHpxcWc3NXdnMFoxY1ZINE50VG0zYVQ2VE52VG9NZkJFTEJxRUdpQ0lSSFFJZlFCWktmeE4xeHpsUklWeHZOanZ1YW5hNWwzYk9VOEZidHo2NDNUbnl5MXl1ZDMtV2FNRmxkSDFXSjBmbXhaN1I3dXhPc1dIUDVEQjlPNW8yNERXTHJlS2lIVFdnMFU2alV6X2hubE10UXpKRmQ5UFZmVnR5cG1qWGNXSGM5M3c?oc=5"
         }
       ]
     },
     {
-      "id": "2f56de125823",
-      "title": "Os segredos por trás da da misteriosa nuvem de 1.800 km de comprimento em Marte - Época Negócios",
-      "published": "2026-10-26T19:22:34+00:00",
-      "summary": "Os segredos por trás da da misteriosa nuvem de 1.800 km de comprimento em Marte&nbsp;&nbsp;Época Negócios",
+      "id": "11449dfea6ed",
+      "title": "Estudo identifica novo subtipo de depressão ligado ao relógio biológico - CNN Brasil",
+      "published": "2026-10-26T18:38:06+00:00",
+      "summary": "Estudo identifica novo subtipo de depressão ligado ao relógio biológico&nbsp;&nbsp;CNN BrasilAnda dormindo mal? Novo estudo mostra que alguns hábitos de sono podem sinalizar um tipo específico de depressão&nbsp;&nbsp;O GLOBODorme demais ou acorda exausto? Entenda o que é a 'depressão circadiana'&nbsp;&nbsp;TerraEstudo sugere relação entre hábitos de sono e subtipo de depressão&nbsp;&nbsp;Diário do Centro do MundoDormir mal e acordar cansado podem estar ligados a um perfil específico de depressão",
       "sources": [
         {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPemphX25mVmtSWVp2d0p0dFRweHF0SGNUYmE2LXJXWkRmcFVJamJzNktIeFBCUGZNYzE5RzRLRlBMaC1WWF9McmRRaUtHSDV2ak1GWnZhMDc0eHA3STRPYko4dnhxQ3JEQzgybmFidDIxRUhTLUt2UHJNQmNiWk8wdVFxbUI4UnFLaTB0ZW5QM0NVaGtlMkNiODB0TU5kMmhFaDJ3dUpWQ0Q1dXRtYmgxZlhtNnpIUlZsVFNISGRuWWZ1MGVsS1l0T0ZIbkdjWGY3UTJRN0ZSRm9pQkVaNkp1bEp30gHwAUFVX3lxTE5DZzZWd21hSUZPWld6ekRaaG83NW5UNnVhWFg4VkFhLVdBMjBzSWVqUWctTkNteWtPaU1fRVh0UC1wd3JpbWlJY3RlcEphcXM3RGJOTTZrbXptSlpZcFhCZjhCd3RoLTJ4Z3d1b1p0NHFNVXczSTI0RWMzS3lkRUFHdmZ4RTlidG9FTjItcy03NVc1MEpQUmpmY3J4cTZwSmVZYmhzaS1HSXlhWmNTTEljU1lrRUQ4bVNTWl9MOHFfYUlrZkxVdmc3WFN5MEdROTJ1S1kzLVo4MEY1V2NvOVhpVTFLTWNNMUVZNERkRWhDQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28b9015056c5",
-      "title": "'Mais tatuado do Brasil' passa pela 1ª sessão de quimioterapia para tratar câncer na bexiga: 'Me sinto muito bem' - G1",
-      "published": "2026-10-26T18:14:25+00:00",
-      "summary": "'Mais tatuado do Brasil' passa pela 1ª sessão de quimioterapia para tratar câncer na bexiga: 'Me sinto muito bem'&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUlFlUFg3RzRvaGtadFZWVjFwWGxVOVduX3J5US1MQXJBeFBOVy1aSUdrV2MzOWI1WW41QjdhSmhOajNPU2JpNTJReDFxS25UZEZGX2Nob2ItVko4RnJZc2VEaW92d19hYnRzaVFSck5LTHBaQWNiemtnSW9WX0h3eW1NVmJDYkZjcmhwS2Z4dzBBR2x2YjdfdDVwUG1RNWljOWpSQmk5b3ExcVlKbW52OWNaZlBoOTgzbTNNbXluZ0hUdTR0VTdfeEtCQ0NLdGZhanhaQ28tXzlaeW1RTDhnY054V1RjclJNMXhjMElmX1Z5ZFJKR3JrZk5FQXhqbkx4dEFWS3FB0gGUAkFVX3lxTE9QSzVYQmpKWkJHNGQzNUVUYXdDTUtYd0laYzBOd3kxQjRna2MyV0piMWxlX1V0cEV2NmpSLVNjUzZ5T0ZCVUpGZjRSR0hRbjJCTkdWOElRVFlnMVd6bjM1eVR5UG5hSmJtOEp6WWhKY2JOQUtyVUE2VnFhSDRNdWVXR0VNSWw0OGdwaFd4WEtvcXl0TFA0X0FUNktsRkItRFNpQzk1bWlQUFlldHFVTm1hSXNzN25tZ1pIcTlmZkJwMzFOcTIwcFRhQVdCVVkya0MwX3Z0MzcwcnVpYVRtbFZMdDN5azdFR0ZVci1FUFl5TUZtYzRlWWRXdkZ1Y29nS1BUbXZQN1Zqemh6aF96ZktHbE1XdQ?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0pTbXEzdmh0SzBEbmwxZ3JoX3R1V1VDTGU4ZnE0ZjJCeEc5Ny1GLTAzcnRUaEVTUDc1b18zUnVFT2VMWFlOT2xuT0lfTDJyX1YyWS03QVBncG1IbElzWUJPRUI5ellIaVBTWUVUc3VpYTh6eXpNeDdYQVBFTmt0dlBZMjFwX0lRZm03eGc1Q2pYZ19LR1RDWkpHcVV4N2cwczdyZlQ4eGlRS0E?oc=5"
         }
       ]
     },
@@ -93,11 +81,23 @@
       "id": "f21993095369",
       "title": "Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda - O GLOBO",
       "published": "2026-10-26T17:20:40+00:00",
-      "summary": "Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda&nbsp;&nbsp;O GLOBOEstudo associa aspirina e demência a perfil plaquetário&nbsp;&nbsp;Afya | HomeRemédio comum encontrado em muitas casas chamou atenção após estudo apontar possível redução de até 70% no risco de demência&nbsp;&nbsp;Tribuna de MinasAspirina é associada à redução de até 70% no risco de demência em grupo de idosos, mas aumenta sangramentos&nbsp;&nbsp;Em Tempo NotíciasAspirina pode reduzir risco de de",
+      "summary": "Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda&nbsp;&nbsp;O GLOBOAspirina pode reduzir demência em idosos, mas traz riscos, diz estudo&nbsp;&nbsp;CNN BrasilRemédio comum encontrado em muitas casas chamou atenção após estudo apontar possível redução de até 70% no risco de demência&nbsp;&nbsp;Tribuna de MinasAspirina é associada à redução de até 70% no risco de demência em grupo de idosos, mas aumenta sangramentos&nbsp;&nbsp;Em Tempo NotíciasEstudo associa aspir",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d51b3f8f3bb",
+      "title": "A saúde da mulher é mais que uma campanha - JOTA Info",
+      "published": "2026-10-26T08:20:13+00:00",
+      "summary": "A saúde da mulher é mais que uma campanha&nbsp;&nbsp;JOTA InfoOutubro mais que rosa&nbsp;&nbsp;Jornal do ComércioMamografia: a partir de que idade fazer o exame, segundo o Ministério da Saúde&nbsp;&nbsp;Estado de MinasOutubro Rosa reforça prevenção ao câncer de mama&nbsp;&nbsp;G1Mamografia: a importância da prevenção do câncer de mama&nbsp;&nbsp;Gazeta do Povo",
+      "sources": [
+        {
+          "name": "JOTA Info",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmFUY0Z4RHdvSWk4OHZQcmM1SkxUamZzUXcyTEhtYXpLbEwwZU5oSmg1STZaNFl2VEdmMGJ1TjNyb2R0MlZEdWxFWDd6QjVsV09kQXFnZ3lJMHhjbU9iQlM0UEFLZFdzblJYdXFwZVJWOHRyekUtM01pZWJvN0lzTmd3SHlKeE5RUFVvX1JHTlR6Mkk?oc=5"
         }
       ]
     },
@@ -110,18 +110,6 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3gzR3R0SFhEdWxpbFl5cThUWG96R1dyaWdyZGhXOVlMZFpsRi04R2Q3RzZIU2MyV2c0UUVLcDk4RlFiU003SEN4b0J1aVFLSm1qdWQ3ZTltZUVVRC1SMWRlb0RUX2pnMmNqZGUxVUtKTmhMbmZ0SXA2c0tselVKLVZEVFpIRzhoWjFhMzdXX1Fjd3pNaGZLeV9zUjIwX2RxY3ZTN25scl9yX0N2YkFzVHhLNkd1eG9ycDFmVV9qVkJ3RlBPUm1JVzFDTFQ0V0V5RHlHLU1B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5051479bfa97",
-      "title": "Anda dormindo mal? Novo estudo mostra que alguns hábitos de sono podem sinalizar um tipo específico de depressão - O GLOBO",
-      "published": "2026-10-26T07:00:00+00:00",
-      "summary": "Anda dormindo mal? Novo estudo mostra que alguns hábitos de sono podem sinalizar um tipo específico de depressão&nbsp;&nbsp;O GLOBOEstudo identifica novo subtipo de depressão ligado ao relógio biológico&nbsp;&nbsp;CNN BrasilDorme demais ou acorda exausto? Entenda o que é a 'depressão circadiana'&nbsp;&nbsp;TerraEstudo sugere relação entre hábitos de sono e subtipo de depressão&nbsp;&nbsp;Diário do Centro do MundoDormir mal e acordar cansado podem estar ligados a um perfil específico de depressão",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUU16WlN1T3U2c19zNzhtM2dJNFVNTzZuZGxRcE5ZbVBCQ3pWdkxQSXkybjNIeFlMVm1NSE9iSUlvamctd3pPQ1F6RXB2bGprcnZJRUhIUVRjYkVPMzZCc3hpcDdLR09uSWtCbEsxYkhTWnI2ZTdHUHcwV3JzREhEQXZmX1p6OXJEdXZfcFhVbS02eWJaTkpmblFGUDZBQ0ktSjR2X0pSSm9xOUdhT3FITFE5SEJndDE2eFFQT3VQQTlKSk9SWWxMTEF3d3VfbTItc3JUTHNBZ1hMYTNwVHZaV19ZQXBTaldaRzlpQ3czODFzbUJ20gGDAkFVX3lxTE43T1VabWw3dUZacG9kdEdreG5GVExNSWZoUDg0aG9pZ1l1N3dZbGpsdjN2cEE3VzJZTHF1TlAyOGhtXzVvQnJuOFpRNVFXZWVBbktfNlJqNFBPSGJFTzAtMXFtS0JheWVKMFZpVWhQMGM3TjQ4SktScU9fRHI0SjRrczhrVVVTR0VXbWlLVkliMktDWi1tTlZzV3B3b1JtOXdTYW9PX0huZWZJd0d2QzJMX1prRE5lRzVCZmVuMWo0UGkwYnFrMkpoNzFlaENmWm4xclllMFZuczZ4WXRBaFo2bXl5S3Z3Y2JVQlFBRF9LeDNtT3IxUF9WeFIxWGVzWk5lMnc?oc=5"
         }
       ]
     },
@@ -186,6 +174,18 @@
       ]
     },
     {
+      "id": "1e94b1962c5d",
+      "title": "Mudanças climáticas ampliam doenças infecciosas no Brasil - Campo Grande News",
+      "published": "2026-10-25T18:34:00+00:00",
+      "summary": "Mudanças climáticas ampliam doenças infecciosas no Brasil&nbsp;&nbsp;Campo Grande News",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0dkX2ROOF90ZmRjeWpNMGhKUjBXaGJuZTF4bWZkY0R0bU9KekhocnNiSUpBdHd3Um51S0EySDRnb0xQdWJHSy1haXpjNG5CX1p6Z1Y5dG1FX3RmUWdidDJfYV90OEV5SXRiMVlrOS12aGVtbUNzeTNtaXdTM3N0Q2RrUzZKY3RWNGdVOUhNZ05SMjR6emtDVVBEdnZQM2ROZUNSeFpReDY5eEVHa1lYZUxWTWo1VGNZVnfSAboBQVVfeXFMT1VRZE1oSGVmMU1LTXh1MXdVRW5qLXlxZzNFQXdOd05MVEFGNjBUanJkaUdtRUZwZDdxc3hxaUhwNjZzc0NqSDUxT3pPekN1MmxwXzRralRCNE5NaGt0bFBaRGt5OXJQRE1ZV3UxekxPZEFzNm5TaTZvVVhEandrT2dXWnc0LVVOTGpWRHd4dTFhb3J0ekxPU1I5LTVRU3hKZUJBVXgtanVxbTc4RmZ4Sk5XQmdKeU5CTllB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e59135b096fa",
       "title": "Americana toma vacina de febre amarela pelo SUS e diz ter poupado US$ 400 - Metrópoles",
       "published": "2026-10-25T18:28:00+00:00",
@@ -194,6 +194,18 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0Z0amY2MFYxX0dzQUtQRS1BYWhoYXpPSTlYaWpYdG9NUGdqSTdmS0NaanJjSC0ybFdHbTkwWEtCWGtGeDdXc1hIdG4xRHBNU25SN0p3aHB0NWVsTHdmN0p0TEI0b0tra2syd0lxSnBkRWhfdmhwYmVSdHdTNlZ6X19OYk0yemZLRXNxeVVZZUN4bW5tVnRIM2ZfUmZ0b1I0SjNKTEhmclI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c837d44b5ad",
+      "title": "Mudanças climáticas já causam aumento de doenças infecciosas no Brasil - UOL Notícias",
+      "published": "2026-10-25T15:36:41+00:00",
+      "summary": "Mudanças climáticas já causam aumento de doenças infecciosas no Brasil&nbsp;&nbsp;UOL NotíciasMudanças climáticas já causam aumento de doenças infecciosas no país&nbsp;&nbsp;Agência BrasilCalor favorece avanço da dengue e de outras doenças infecciosas no Brasil&nbsp;&nbsp;Folha BVPrevisão do tempo: 'El Niño' acende alerta para incidência de Dengue&nbsp;&nbsp;G1GCN: Chuvas e El Niño acendem alerta contra a dengue em Franca&nbsp;&nbsp;sampi.net.br",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbzgwMG9rTmxQN1VPb25zaGRhMDVHT2Z5X2VQUmoxY2FJX3M3blVsYm9NaFhQNEVqM1NPSXFZazcwM2xUd2wxVEx3QThvTURieUd6WGcyZjlNWWJFTWdFdnp2cFpQMTZhcklDTmVjVThXM3JRZWYtU1ROMHZSY0dpTVBWTVFUajVuYUVrSjU1YWx0RnhqMjRxdC1ETl9tMWRMS2MxVHMwSjZFY0Y2M1BPd3dfSmRQWnc4N2JLc24zMGhxMTR1UU5jbDBfY2N2TlpkMTE0?oc=5"
         }
       ]
     },
@@ -234,18 +246,6 @@
       ]
     },
     {
-      "id": "973d214a6721",
-      "title": "Mudanças climáticas já causam aumento de doenças infecciosas no país - Agência Brasil",
-      "published": "2026-10-25T12:06:00+00:00",
-      "summary": "Mudanças climáticas já causam aumento de doenças infecciosas no país&nbsp;&nbsp;Agência BrasilPrevisão do tempo: 'El Niño' acende alerta para incidência de Dengue&nbsp;&nbsp;G1GCN: Chuvas e El Niño acendem alerta contra a dengue em Franca&nbsp;&nbsp;sampi.net.brCalor favorece avanço da dengue e de outras doenças infecciosas no Brasil&nbsp;&nbsp;Folha BVEl Niño e altas temperaturas acendem alerta para casos de dengue&nbsp;&nbsp;REDE BRASIL DE TELEVISÃO",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQURmYWoyM2JjSXFMNE5BQnZvaUg0TXo5WW96REdINWZVNTdTcDdpNHFZYXNJOVFVNUI3TV9UeXVmckpCaGJWVTdnZ2ZROW5vLU1CcGVJc3pkd0l4WTRCSVpCVjRzVEhybmdtYXB2UUJkMjJBVm4xSm1KTTl2MUFmQUJQSHRKOWxxUDhhMk50LUZHWndIM0FpS2JHdWRCUDQxNm9EeXBwVmF3aERnbFFpbUliUEwwTi11eUp2cGF1YW8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cd22d932f1fe",
       "title": "Neurologista: “Uso excessivo de telas pode antecipar demência” - MidiaNews",
       "published": "2026-10-25T12:00:00+00:00",
@@ -254,30 +254,6 @@
         {
           "name": "MidiaNews",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTVZR0h2MDFBbU9OV3FsWFIzUGVDSFgycWNDblJjeW9VUmd3ZzhNVjZWUExQT0NTa1NRYUhpdkgwRENXSUl3NDU1aFgwNksxVUN5WE9QaXNId2k1bnYyc3dxc2NxaEd3a19wWDRZcnVGQzI5VUV4VnM5SFhZSTZRZDhEeFJYNHNyMzlWcHpQUFlJV0Q0ZFNKcFY4SzY3ZTlnekIwdzQ0Ymk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6fbbe6cf653a",
-      "title": "Quatro minutos de exercício por dia melhoram força após os 65, diz estudo - UOL",
-      "published": "2026-10-25T08:30:00+00:00",
-      "summary": "Quatro minutos de exercício por dia melhoram força após os 65, diz estudo&nbsp;&nbsp;UOL4 minutos por dia: os exercícios que ajudam a preservar a mobilidade após os 60&nbsp;&nbsp;GloboTreinar musculação depois dos 50 anos pode ajudar a recuperar parte da força perdida com o envelhecimento, mesmo para quem nunca levantou pesos na academia&nbsp;&nbsp;Correio BrazilienseComo ganhar massa muscular depois dos 50 anos: um guia prático para mulheres que desejam fortalecer os músculos&nbsp;&nbsp;Catraca",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY0NZcExidHhQX3FJVjVMcGNNMUh6TU9XUHhkU3VJZWlmc05YTjlmamF0VWhqelRySmk0b3F4QXpOdXpvVDl0QmdScFRJM3VfdHZTVEpPb3hhMDhYMkhORjV3MFJDU01pQVhOZ29fLWQ4UlMwSTBaRlBhSGNBNU9hbFhmenNWdml2YWliQmxFcEU0SE5BZXZwLTU2d2UweC1uSG93OUM1RXFaTFlIUlpRdW0xQnFmZmlQQjBHRS1jSXh0VHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3518c9a9cc3f",
-      "title": "O que as últimas pesquisas indicam para o resultado neste domingo, segundo modelo estatístico - Estadão",
-      "published": "2026-10-24T23:46:58+00:00",
-      "summary": "O que as últimas pesquisas indicam para o resultado neste domingo, segundo modelo estatístico&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeXpKcVBFTmN0bDNvdnEzZ2JkY0M0M0hzQm1CSUdnSmZrekNFWklMa0J6Y3QycWlJZVJVcWNNWmRsVFNNQmw2UmRTSXk1UmZ1Zy1nWTZETnQyenhZUk84R09TRDRjb1RBTlM2TWRpM3VPbmYtNmRURnd3Q1RPN3U0OS10MURjd3MzbVBjSmFhREgxRjc5VXZKeFVObDd1alE4anRpcVJKRDFueXRnVWtrYXZDVk9oM2dfV0p4VUphTlhHRWQ1WTRvTGtUVkRLYkJXcE9rLdIB2gFBVV95cUxOYjZxTVE2RHNsQ1NBTUdDOXVvZmNkcE1yQm51VnR0bUhKYzlNZmJVbnprOS1neThyVFlZeE9EMlNLQm5ETC1TUGV0MlNpd0hiYTBucDNsRWdiV2Y5V19KTjdtSUVZRzJDNWp2RElGXy1OanJGTmhlVDZhSGU4RFljMFhGNHBEeTkwNkxsa29EU3JuYmdvZlU5WEVvam9KMkVPS2p3TDZjNk1NbzlhVHc1NndBa0txc3QzLTZCdEJmRW1wbExUMDZ0RXVfTV9PLVBFeWJJalJYRHp1UQ?oc=5"
         }
       ]
     },
@@ -302,18 +278,6 @@
         {
           "name": "DW.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMG1TcXdDMDZtMXUwdFVSVGh4Z0dTNko5bG9fZ3hxQU41ZGplaVZmTkNzRjY5SGFlLXNBbVpZS1RqNUU4NzRRWnQ2bFJqUEpXU01YeHlXY1FIek16eERLcVA0WU5acVVyZVU1cnFUanotNXRGZU4zQ2FYZ1BWVDRpMTNOSkxLSGU0Y0gydUd0X2Y5Yk5HcU5vcjU4am4tVHZLU09URDdoZE82QUVNRHBHS3NEY0hFWUXSAbcBQVVfeXFMTkdPQ05ncGY3dDlDU3FxSm5mVlhJcVhFTHU2Z0wzc2pEMnBhb3BKaGtkcGYwc3oxanQzamNuUjFMdDBBSW9GbzhGeWlISFN1dmc1T3hHUi1tT2FPUHFHZ3NfMzhFOUZHU1BvSVBvV3FnVjdJYzhUdVFqMmUtSDhDbTYzR2lybEJNcWQxWGEzdlB4RlZRRFFOcFhabEFkSnVsVk1oeTBqNzBZenJEMldhZFVlQ19yWjFZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "15f9d323322e",
-      "title": "Mulher de 86 anos morre após levar picada de mosquito: 'Ela não tinha problemas de saúde' - Jornal Correio",
-      "published": "2026-10-24T16:56:29+00:00",
-      "summary": "Mulher de 86 anos morre após levar picada de mosquito: 'Ela não tinha problemas de saúde'&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjdmRTdZREc3bGNWVVB0UGxTMURucjkzSG05aXAwal9ibTc4N0hWek1OTVJ3ZVc3MlRsU0JQY2JVbEZITHVteWx3YWtXaVlST0l2bi1RVEtIeVNqZllwd1FUOHpLX1l4UFBJOFR5Y3RZSDZ6YkZBbGxvZTFMcE1ySkJfSllXR3JkZHBxUFVVOTFBakxLV1I0ZjU2MnA5Wk1kU1R0eFBfRzV4b2FxWVpHWUlid3QxcUlmRjdjX2NBTkYtWmJSRjlEeVkwOA?oc=5"
         }
       ]
     },
@@ -357,7 +321,7 @@
       "id": "b263abc1eeed",
       "title": "Vacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027 - InfoMoney",
       "published": "2026-10-23T17:00:00+00:00",
-      "summary": "Vacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027&nbsp;&nbsp;InfoMoneyVacina de mRNA contra câncer reduz em 42% risco de morte ou volta do melanoma&nbsp;&nbsp;G1Opinião - Marcelo Leite: Vacina para câncer de pele renova fé na genômica&nbsp;&nbsp;Folha de S.PauloPor que as ações da Moderna estão caindo hoje?&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos‘Um avanço histórico’: vacina personalizada reduz recorrência de câncer de pele agressivo em 42",
+      "summary": "Vacina contra o câncer tem resultado promissor e pode chegar ao mercado em 2027&nbsp;&nbsp;InfoMoneyVacina de mRNA contra câncer reduz em 42% risco de morte ou volta do melanoma&nbsp;&nbsp;G1Por que as ações da Moderna estão caindo hoje?&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosOpinião - Marcelo Leite: Vacina para câncer de pele renova fé na genômica&nbsp;&nbsp;Folha de S.Paulo‘Um avanço histórico’: vacina personalizada reduz recorrência de câncer de pele agressivo em 42",
       "sources": [
         {
           "name": "InfoMoney",
@@ -366,14 +330,14 @@
       ]
     },
     {
-      "id": "ecb6ca860bbf",
-      "title": "Estudo inédito revela aparência dos denisovanos a partir de fóssil de quase 200 mil anos - Globo",
-      "published": "2026-10-23T16:36:05+00:00",
-      "summary": "Estudo inédito revela aparência dos denisovanos a partir de fóssil de quase 200 mil anos&nbsp;&nbsp;Globo",
+      "id": "ab2f4a9ae9a9",
+      "title": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais - UOL",
+      "published": "2026-10-23T08:30:00+00:00",
+      "summary": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais&nbsp;&nbsp;UOLEfeito sanfona: por que perder e recuperar peso pode trazer riscos à saúde?&nbsp;&nbsp;EstadãoTratamentos à base de canetas devem ser acompanhados por rede de profissionais&nbsp;&nbsp;GloboEra das canetas pode criar novas “epidemias”&nbsp;&nbsp;Tribuna OnlineMounjaro ou anorexia? Médicos alertam que canetas podem mascarar transtornos alimentares graves&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaHMtakZodjlBZWVNYm54b1BWUEpKTFo2MFUwc0VaU1FFREh2Z0dkcnZKR1JsYjFlQkJsYjlvdEpLMGx3b2dpbFVwQjNxeEFnX1hidTAyeWRuWkd1bTdVV2p6bm5NNlV4ZWhDbzdMTWxhNExsODVjX1U5M1ltbzR0UUpVc2VrNTRSbjBHTDhjbXRjcWFyY0UzVFE5UjBrdUV1T0NOWWdEUUgyQ3Fick1XOUxHdmp3SGVIN0FfSzZEWVpoRkRTQ1pBM1pTam8ydVBFX2lZdDVvMmVBSFN3V3kxUHg1UnBpd9IB9AFBVV95cUxPZWZMQTN0RF9DUll6Yi1xTVBPRTFNQ252WjVLMmxWS2xJek5YQlM2dlFHTFdwRGN3akVURVBsU2o2emViYnFXOFprVHM4RERNYWxPampnQnR3TGgySUFxemhqZmhZVU5ONlNXZ2Y0Q1VUUjRLdldPYkFuVkg4aDhRUDhBd0FlaTk3SW9fbEI5bjVRSS1xT3JmU3g0V1puemRiNmNNZEY4ZXZ4enNSbkViWlJtOGcycy1hb05Udlg2SlQxeXpYUHdWQkhLc3dmNXpPVG1YQUdyN1ZqMXpOakhoMUFua1R1Q29URVRqZlhkcHl5ODJr?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDE1OEVIMVNicFdVeWZFSC0wZVFKZW9mZ01Hb1duaTlfMUZGVFdwUndocnNsTGJWdDFUejFLbTJKbkpFOXQxSWd2UTBmeWcxakIwTXVQdEZ0VXhDVHpiMnUyNmpEdHhyeEl6THZZNjJtb3ZJYm1uVzd5eDhuVG5mVHBpb0JyLXBVSE1QYl9CTVFnNkNVcjJnNVkxU3JDdngtZ2gyZDZWUGdFenF2U3F6V2xvdTNZWjhmOFQ4YmhrVDg4OGs0?oc=5"
         }
       ]
     },
@@ -386,6 +350,30 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS28xNHpqMW96VmRBTGFxekczWmFvM1J3R2xrU1g3SlNxNGhqN0ctU284eXUyM01TWHdoVXZySW5OREZqV3NwUzNBby1pQXo5cGd4anVodnpLSkMxQWlhdTQwMmxKWWdlc1k5U2V2Tng3NFNuM1AzdnlySFk0TjVUVjcyXzdWQVYtam1fYUJtaXc2NEkyTnZsb0dBWm9qR1JqTmkxRzdydkx2bVVwTURjSG1ISU9pSXVwa1FlMkM4bmdhZy1nUjVpb21jVXJnZGdJNW9ESlNTZU1LUkJqQXF4OVlieFRxTEHSAfYBQVVfeXFMTU5TM3ZoYi1OSi1zeDJTaDNrMlVkUERHb2w1dzJrcTA3VXlMeWNuYXg2WDdvMXpHU3ByV3lYRE9oNXlxMnEwNC1kanNyak1EXzVSdWcwY2hWMGFad3NlQzBobS1saDJDU3RIRzNPbDRhZWRoWWlTMnBSdkxvb3N4UjVyX3gtYVBZdWZBcGtmZFZyTHJLNTVfSmphUWxGTlN3SXhINFg0X000bGZWdmNuMjNpbXVud2UxMmlac3J3eTd0djBjQ3VHR0xaR1ZEUVZCcHNZMmZTbmhEd2Ywb1dPQk1MTThyajRCUFM0OG1pZlBmWEVwSU1B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b92c9cfd1577",
+      "title": "UFS tem sete pesquisadores em lista dos cientistas mais influentes do mundo; veja nomes - G1",
+      "published": "2026-10-22T20:29:51+00:00",
+      "summary": "UFS tem sete pesquisadores em lista dos cientistas mais influentes do mundo; veja nomes&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTm9HUEZJOG1RenJvNEpEaUJBazNJNXN6V1NfaGhrMW5UTVlWTGZnekpsa1VqbURVN2hXYmp1a0RMMDE2aUJBNDBWd212bXFldzJJcnJZdVNMd25fNzFZT3VfZEh0b0RJSDIySjR5SGo0R29ld3R4RGQtQmZPVGxDb2tLOTU0NUxLalYzbDNaSDJab2RVTU5pN0tSRm9XdGZ5RjlyclJUNDhTbWppWDZRdUhiS3BwRzhVeFRPMnVlS2ZCc3RmcV94LTJRdFFRYmk2Vm5jZGJCRjQ5N0nSAeoBQVVfeXFMUERPSzBLbFpwa2hSbmxVRWlVQS1aWmYxMjJ0NHg5TjdaakdEQTdvLUVORXo3amtrLS13bTc3c2d0MElOa0Y5OHBNd0pweGM2WlFnX3k2akNHa2JsejYtTFhuSU42X2RsWGdyNXlsTUxZMVR1dHhnajhIV1FzbUtrTmc3MmQ0cnlMN2puVEJxLThGT2VuOXlHamZWODhjanFlUm91VnJDcENTQnZXOVJZZU5OV1Z6b1h0VzF4LVJYVVEyVTg2YnhLRWFhZEUyYVRDb1hrZnVqNFJ5cGIwdmNpLVo5dHRFclBNS21R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ccfde78333e",
+      "title": "Como uma dieta balanceada ajuda a frear o envelhecimento, segundo estudo - Globo",
+      "published": "2026-10-22T20:11:40+00:00",
+      "summary": "Como uma dieta balanceada ajuda a frear o envelhecimento, segundo estudo&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUdYZnhZN1pVSG56S0h6UllndFgxcjlVcW5xeWtjckFxWThnb0hsLXpUSGxTQ3MwNWlRV1AwcXAtZkt0bHdVeDZlN1ZGSlgxRllzamVLUHAwSHp6ejA3RHZ4LVA3VUdtWWR1M3BxZTlQRmViQjk5N1p4OXh1VlYtOEllZXhGaFBmcGNDU0hiaDU2ZUJnWkJoSC1XZ3NXS1lpX2VqVTlNXzFfSi1pWGZoWlNMZHR0ZVRrT1FzUnlMazc0QW50d2pjbWpNRzXSAdsBQVVfeXFMT19Fbm1rQnVOcVU3NWpaVUc2NzdYWnV5cHFhOVExT2pOZ3dzVlo5QU44dDVqelZhRmVVVGR3a2VEalFSYndjMFFuOFVxLVVodmcxNFBVTnhYSmR5T1JPbTdHVkNQT0cyVUhpRXJqTDNhNFZMbUlyN09jNUxXNzVzdWIzSEpVamRjZnpQVU9MLW95MXJOYWVZREl3T0pjamxXQzNqbFRFN2dPQXR4S3NCUTJvbm9hcFY0a19vMEtVNVNPTTgzcWJLQmxMUHVaTnQtTThXR2NuR0xpOWo0?oc=5"
         }
       ]
     },
@@ -405,7 +393,7 @@
       "id": "76e7d848e3c8",
       "title": "O que os números revelam sobre o câncer de intestino entre brasileiros com menos de 40 anos - Jornal Correio",
       "published": "2026-10-22T08:30:00+00:00",
-      "summary": "O que os números revelam sobre o câncer de intestino entre brasileiros com menos de 40 anos&nbsp;&nbsp;Jornal CorreioCâncer de intestino: saiba como identificar sinais e prevenir a doença&nbsp;&nbsp;GshowMorte de Lua Blanco chama atenção para avanço do câncer colorretal | #DomingoEspetacular #shorts&nbsp;&nbsp;R7Muito frequente, câncer de intestino pode não apresentar sintomas&nbsp;&nbsp;Agência BrasilCasos de câncer antes dos 50 anos aumentam; causas ainda são investigadas&nbsp;&nbsp;THMais",
+      "summary": "O que os números revelam sobre o câncer de intestino entre brasileiros com menos de 40 anos&nbsp;&nbsp;Jornal CorreioPor que o câncer de intestino tem atingido pessoas cada vez mais os jovens?&nbsp;&nbsp;GshowMorte de Lua Blanco chama atenção para avanço do câncer colorretal | #DomingoEspetacular #shorts&nbsp;&nbsp;R7Muito frequente, câncer de intestino pode não apresentar sintomas&nbsp;&nbsp;D24AMCâncer de intestino: sintomas que não devem ser ignorados&nbsp;&nbsp;Campo Grande News",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -422,6 +410,18 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaWZhanJoQWl2U3NVMnREenJ4M2psR3U2UEstX1YyQUlwR1VTendJTDhTcllmZjc5aTJWU042bUN0Qm1lN0VlT3dQNVE0eW5QdW1EeS0zb3cwN1ducFdHZThaVmlJLWtQU29rOWVwTU1sWUhESi05YUhwZXFQVnU2VjJPU3g5bi1VallCOWxodjlyeDBpdHBWLVlleXVaQ1NKaE41VS1EdWdPUkxDcGc2RVJFeXc4MmFxbEJPaWc2cFpQZ0pDU2NYV1ktTzFSeV8zRDlyYkhyUEZiWUd2OS1QZtIB7wFBVV95cUxNU1gtQ2NpVjRSTjl3ZTBpWHJwWlg3dWNNVGNzNDc0MWQ0aVN4SDB0UlgyME12bkZsWVNDMHF2cnRWLThJQmYtdHVvSDg0Nm8wUVZ6S3lDMDlZRmNwbDVCNWJfdnlZOV9Vbm1PRjVnMTNFaVMwTzRvNUozRGNJYWp2R3VSOXAzSDlxbW50YlJKcUtSNEl0UkkzZldvNTc0aWJhMkVvaEJ5RzVKbFhSUzZVUktrTWlhNTJjblJGRHdIWnFWYjJuOFowR1RXeHRDdHBreVlQbDVOYnZMM0Y5QWV4U2NuSGhHWS1FUjRiSWRpVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16df589c8952",
+      "title": "Corrida de obstáculos para os biossensores portáteis - Revista Pesquisa FAPESP",
+      "published": "2026-10-21T12:07:00+00:00",
+      "summary": "Corrida de obstáculos para os biossensores portáteis&nbsp;&nbsp;Revista Pesquisa FAPESP",
+      "sources": [
+        {
+          "name": "Revista Pesquisa FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGo1UE8tNU9CR0VGcmhXOVkzdGdEYWthSzZrMEtrbkx3NVI0VVM5eEJKNnZieHRaT0JjSHlCWTBJVzlYcjdTMHlBb2Zwcms4S0NOaEtuMzNYdDN3Mmltbkx3WWJ5UUtuWUtralRMUFMyVEN2aEt2OC1DZGRnclVoZkx6TnBpTFZxVUs1WmwwUlQ?oc=5"
         }
       ]
     }

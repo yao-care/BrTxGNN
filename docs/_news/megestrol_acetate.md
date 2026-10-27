@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Megestrol acetate?">
-<strong>Megestrol acetate</strong> tem atualmente <strong>5 notícias</strong> e 0 indicações previstas.
+<strong>Megestrol acetate</strong> tem atualmente <strong>4 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ Esta página combina as indicações previstas por IA para Megestrol acetate com
 <p><a href="{{ '/drugs/megestrol-acetate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (5)
+## Notícias relacionadas (4)
 
-### [Vídeo: Diagnóstico precoce amplia chances de tratamento contra o câncer de mama | Vídeos PITV 2ª Edição](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnJNSVItWlpoRHhxbEc0T0RDVm5Nek5VTnhnZFhvdGZhMDdBUUIyT3BYZnRkNndnR25YeEZjczhwQllUbXR4ZU9oWkJVSnpHSUhyTTNkMVdETG5EYnczTldIZXFvVHNBbm5wejZKeW1LRE9FX09JdDdLN1o4ZF9RZUtpN1pORkloaG1TNkdrell4RHJzUDZzNFVvS2FFZGpDMzc0SXVNY1BjT2t6Wk5pTGV4UnBfY1JsX2c1WFZOaVVzbGpPTXhCN2E2emxyR0VjQU9DWVY1MFRmQXRO?oc=5)
+### [A saúde da mulher é mais que uma campanha - JOTA Info](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmFUY0Z4RHdvSWk4OHZQcmM1SkxUamZzUXcyTEhtYXpLbEwwZU5oSmg1STZaNFl2VEdmMGJ1TjNyb2R0MlZEdWxFWDd6QjVsV09kQXFnZ3lJMHhjbU9iQlM0UEFLZFdzblJYdXFwZVJWOHRyekUtM01pZWJvN0lzTmd3SHlKeE5RUFVvX1JHTlR6Mkk?oc=5)
 
 2026-10-26 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
 
-Fonte: [G1](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnJNSVItWlpoRHhxbEc0T0RDVm5Nek5VTnhnZFhvdGZhMDdBUUIyT3BYZnRkNndnR25YeEZjczhwQllUbXR4ZU9oWkJVSnpHSUhyTTNkMVdETG5EYnczTldIZXFvVHNBbm5wejZKeW1LRE9FX09JdDdLN1o4ZF9RZUtpN1pORkloaG1TNkdrell4RHJzUDZzNFVvS2FFZGpDMzc0SXVNY1BjT2t6Wk5pTGV4UnBfY1JsX2c1WFZOaVVzbGpPTXhCN2E2emxyR0VjQU9DWVY1MFRmQXRO?oc=5)
-
----
-
-### ['Mais tatuado do Brasil' passa pela 1ª sessão de quimioterapia para tratar câncer na bexiga: 'Me sinto muito bem'](https://news.google.com/rss/articles/CBMihgJBVV95cUxOUlFlUFg3RzRvaGtadFZWVjFwWGxVOVduX3J5US1MQXJBeFBOVy1aSUdrV2MzOWI1WW41QjdhSmhOajNPU2JpNTJReDFxS25UZEZGX2Nob2ItVko4RnJZc2VEaW92d19hYnRzaVFSck5LTHBaQWNiemtnSW9WX0h3eW1NVmJDYkZjcmhwS2Z4dzBBR2x2YjdfdDVwUG1RNWljOWpSQmk5b3ExcVlKbW52OWNaZlBoOTgzbTNNbXluZ0hUdTR0VTdfeEtCQ0NLdGZhanhaQ28tXzlaeW1RTDhnY054V1RjclJNMXhjMElmX1Z5ZFJKR3JrZk5FQXhqbkx4dEFWS3FB0gGUAkFVX3lxTE9QSzVYQmpKWkJHNGQzNUVUYXdDTUtYd0laYzBOd3kxQjRna2MyV0piMWxlX1V0cEV2NmpSLVNjUzZ5T0ZCVUpGZjRSR0hRbjJCTkdWOElRVFlnMVd6bjM1eVR5UG5hSmJtOEp6WWhKY2JOQUtyVUE2VnFhSDRNdWVXR0VNSWw0OGdwaFd4WEtvcXl0TFA0X0FUNktsRkItRFNpQzk1bWlQUFlldHFVTm1hSXNzN25tZ1pIcTlmZkJwMzFOcTIwcFRhQVdCVVkya0MwX3Z0MzcwcnVpYVRtbFZMdDN5azdFR0ZVci1FUFl5TUZtYzRlWWRXdkZ1Y29nS1BUbXZQN1Zqemh6aF96ZktHbE1XdQ?oc=5)
-
-2026-10-26 <span class="news-indication-tag">câncer</span>
-
-Fonte: [G1](https://news.google.com/rss/articles/CBMihgJBVV95cUxOUlFlUFg3RzRvaGtadFZWVjFwWGxVOVduX3J5US1MQXJBeFBOVy1aSUdrV2MzOWI1WW41QjdhSmhOajNPU2JpNTJReDFxS25UZEZGX2Nob2ItVko4RnJZc2VEaW92d19hYnRzaVFSck5LTHBaQWNiemtnSW9WX0h3eW1NVmJDYkZjcmhwS2Z4dzBBR2x2YjdfdDVwUG1RNWljOWpSQmk5b3ExcVlKbW52OWNaZlBoOTgzbTNNbXluZ0hUdTR0VTdfeEtCQ0NLdGZhanhaQ28tXzlaeW1RTDhnY054V1RjclJNMXhjMElmX1Z5ZFJKR3JrZk5FQXhqbkx4dEFWS3FB0gGUAkFVX3lxTE9QSzVYQmpKWkJHNGQzNUVUYXdDTUtYd0laYzBOd3kxQjRna2MyV0piMWxlX1V0cEV2NmpSLVNjUzZ5T0ZCVUpGZjRSR0hRbjJCTkdWOElRVFlnMVd6bjM1eVR5UG5hSmJtOEp6WWhKY2JOQUtyVUE2VnFhSDRNdWVXR0VNSWw0OGdwaFd4WEtvcXl0TFA0X0FUNktsRkItRFNpQzk1bWlQUFlldHFVTm1hSXNzN25tZ1pIcTlmZkJwMzFOcTIwcFRhQVdCVVkya0MwX3Z0MzcwcnVpYVRtbFZMdDN5azdFR0ZVci1FUFl5TUZtYzRlWWRXdkZ1Y29nS1BUbXZQN1Zqemh6aF96ZktHbE1XdQ?oc=5)
+Fonte: [JOTA Info](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmFUY0Z4RHdvSWk4OHZQcmM1SkxUamZzUXcyTEhtYXpLbEwwZU5oSmg1STZaNFl2VEdmMGJ1TjNyb2R0MlZEdWxFWDd6QjVsV09kQXFnZ3lJMHhjbU9iQlM0UEFLZFdzblJYdXFwZVJWOHRyekUtM01pZWJvN0lzTmd3SHlKeE5RUFVvX1JHTlR6Mkk?oc=5)
 
 ---
 

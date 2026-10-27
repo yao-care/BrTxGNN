@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Albendazole?">
-<strong>Albendazole</strong> tem atualmente <strong>7 notícias</strong> e 1 indicações previstas.
+<strong>Albendazole</strong> tem atualmente <strong>6 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -33,29 +33,21 @@ Esta página combina as indicações previstas por IA para Albendazole com as no
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (7)
-
-### [Vídeo: Diagnóstico precoce amplia chances de tratamento contra o câncer de mama | Vídeos PITV 2ª Edição](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnJNSVItWlpoRHhxbEc0T0RDVm5Nek5VTnhnZFhvdGZhMDdBUUIyT3BYZnRkNndnR25YeEZjczhwQllUbXR4ZU9oWkJVSnpHSUhyTTNkMVdETG5EYnczTldIZXFvVHNBbm5wejZKeW1LRE9FX09JdDdLN1o4ZF9RZUtpN1pORkloaG1TNkdrell4RHJzUDZzNFVvS2FFZGpDMzc0SXVNY1BjT2t6Wk5pTGV4UnBfY1JsX2c1WFZOaVVzbGpPTXhCN2E2emxyR0VjQU9DWVY1MFRmQXRO?oc=5)
-
-2026-10-26 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
-
-Fonte: [G1](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnJNSVItWlpoRHhxbEc0T0RDVm5Nek5VTnhnZFhvdGZhMDdBUUIyT3BYZnRkNndnR25YeEZjczhwQllUbXR4ZU9oWkJVSnpHSUhyTTNkMVdETG5EYnczTldIZXFvVHNBbm5wejZKeW1LRE9FX09JdDdLN1o4ZF9RZUtpN1pORkloaG1TNkdrell4RHJzUDZzNFVvS2FFZGpDMzc0SXVNY1BjT2t6Wk5pTGV4UnBfY1JsX2c1WFZOaVVzbGpPTXhCN2E2emxyR0VjQU9DWVY1MFRmQXRO?oc=5)
-
----
-
-### ['Mais tatuado do Brasil' passa pela 1ª sessão de quimioterapia para tratar câncer na bexiga: 'Me sinto muito bem'](https://news.google.com/rss/articles/CBMihgJBVV95cUxOUlFlUFg3RzRvaGtadFZWVjFwWGxVOVduX3J5US1MQXJBeFBOVy1aSUdrV2MzOWI1WW41QjdhSmhOajNPU2JpNTJReDFxS25UZEZGX2Nob2ItVko4RnJZc2VEaW92d19hYnRzaVFSck5LTHBaQWNiemtnSW9WX0h3eW1NVmJDYkZjcmhwS2Z4dzBBR2x2YjdfdDVwUG1RNWljOWpSQmk5b3ExcVlKbW52OWNaZlBoOTgzbTNNbXluZ0hUdTR0VTdfeEtCQ0NLdGZhanhaQ28tXzlaeW1RTDhnY054V1RjclJNMXhjMElmX1Z5ZFJKR3JrZk5FQXhqbkx4dEFWS3FB0gGUAkFVX3lxTE9QSzVYQmpKWkJHNGQzNUVUYXdDTUtYd0laYzBOd3kxQjRna2MyV0piMWxlX1V0cEV2NmpSLVNjUzZ5T0ZCVUpGZjRSR0hRbjJCTkdWOElRVFlnMVd6bjM1eVR5UG5hSmJtOEp6WWhKY2JOQUtyVUE2VnFhSDRNdWVXR0VNSWw0OGdwaFd4WEtvcXl0TFA0X0FUNktsRkItRFNpQzk1bWlQUFlldHFVTm1hSXNzN25tZ1pIcTlmZkJwMzFOcTIwcFRhQVdCVVkya0MwX3Z0MzcwcnVpYVRtbFZMdDN5azdFR0ZVci1FUFl5TUZtYzRlWWRXdkZ1Y29nS1BUbXZQN1Zqemh6aF96ZktHbE1XdQ?oc=5)
-
-2026-10-26 <span class="news-indication-tag">câncer</span>
-
-Fonte: [G1](https://news.google.com/rss/articles/CBMihgJBVV95cUxOUlFlUFg3RzRvaGtadFZWVjFwWGxVOVduX3J5US1MQXJBeFBOVy1aSUdrV2MzOWI1WW41QjdhSmhOajNPU2JpNTJReDFxS25UZEZGX2Nob2ItVko4RnJZc2VEaW92d19hYnRzaVFSck5LTHBaQWNiemtnSW9WX0h3eW1NVmJDYkZjcmhwS2Z4dzBBR2x2YjdfdDVwUG1RNWljOWpSQmk5b3ExcVlKbW52OWNaZlBoOTgzbTNNbXluZ0hUdTR0VTdfeEtCQ0NLdGZhanhaQ28tXzlaeW1RTDhnY054V1RjclJNMXhjMElmX1Z5ZFJKR3JrZk5FQXhqbkx4dEFWS3FB0gGUAkFVX3lxTE9QSzVYQmpKWkJHNGQzNUVUYXdDTUtYd0laYzBOd3kxQjRna2MyV0piMWxlX1V0cEV2NmpSLVNjUzZ5T0ZCVUpGZjRSR0hRbjJCTkdWOElRVFlnMVd6bjM1eVR5UG5hSmJtOEp6WWhKY2JOQUtyVUE2VnFhSDRNdWVXR0VNSWw0OGdwaFd4WEtvcXl0TFA0X0FUNktsRkItRFNpQzk1bWlQUFlldHFVTm1hSXNzN25tZ1pIcTlmZkJwMzFOcTIwcFRhQVdCVVkya0MwX3Z0MzcwcnVpYVRtbFZMdDN5azdFR0ZVci1FUFl5TUZtYzRlWWRXdkZ1Y29nS1BUbXZQN1Zqemh6aF96ZktHbE1XdQ?oc=5)
-
----
+## Notícias relacionadas (6)
 
 ### [Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda - O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5)
 
 2026-10-26 <span class="news-indication-tag">demência</span>
 
 Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5)
+
+---
+
+### [A saúde da mulher é mais que uma campanha - JOTA Info](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmFUY0Z4RHdvSWk4OHZQcmM1SkxUamZzUXcyTEhtYXpLbEwwZU5oSmg1STZaNFl2VEdmMGJ1TjNyb2R0MlZEdWxFWDd6QjVsV09kQXFnZ3lJMHhjbU9iQlM0UEFLZFdzblJYdXFwZVJWOHRyekUtM01pZWJvN0lzTmd3SHlKeE5RUFVvX1JHTlR6Mkk?oc=5)
+
+2026-10-26 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
+
+Fonte: [JOTA Info](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmFUY0Z4RHdvSWk4OHZQcmM1SkxUamZzUXcyTEhtYXpLbEwwZU5oSmg1STZaNFl2VEdmMGJ1TjNyb2R0MlZEdWxFWDd6QjVsV09kQXFnZ3lJMHhjbU9iQlM0UEFLZFdzblJYdXFwZVJWOHRyekUtM01pZWJvN0lzTmd3SHlKeE5RUFVvX1JHTlR6Mkk?oc=5)
 
 ---
 
