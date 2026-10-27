@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Capecitabine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Capecitabine. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Capecitabine. 10 indicações previstas."
 permalink: /news/capecitabine/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Capecitabine
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Capecitabine com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Adenocarcinoma Gástrico Tubular (Gastric Tubular Adenocarcinoma) (99.9%)</li>
-<li>Adenocarcinoma gástrico com polipose proximal (99.9%)</li>
-<li>Câncer gástrico microinvasivo (99.9%)</li>
-<li>Adenocarcinoma gástrico com células em anel de sinete (99.9%)</li>
-<li>Adenocarcinoma da cárdia gástrica (99.9%)</li>
-<li>Carcinoma gástrico tipo glândula salivar (99.9%)</li>
-<li>Carcinoma do piloro gástrico (99.9%)</li>
-<li>Carcinoma do corpo gástrico (99.9%)</li>
-<li>Carcinoma gástrico associado ao vírus Epstein-Barr (99.9%)</li>
-<li>Tumor maligno de células granulares gástrico (99.9%)</li>
+<li>Adenocarcinoma Gástrico Tubular (Gastric Tubular Adenocarcinoma)</li>
+<li>Adenocarcinoma gástrico com polipose proximal</li>
+<li>Câncer gástrico microinvasivo</li>
+<li>Adenocarcinoma gástrico com células em anel de sinete</li>
+<li>Adenocarcinoma da cárdia gástrica</li>
+<li>Carcinoma gástrico tipo glândula salivar</li>
+<li>Carcinoma do piloro gástrico</li>
+<li>Carcinoma do corpo gástrico</li>
+<li>Carcinoma gástrico associado ao vírus Epstein-Barr</li>
+<li>Tumor maligno de células granulares gástrico</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capecitabine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

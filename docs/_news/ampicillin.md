@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Ampicillin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ampicillin. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Ampicillin. 1 indicações previstas."
 permalink: /news/ampicillin/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Ampicillin
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Ampicillin com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Laringite (Laryngitis) (100.0%)</li>
+<li>Laringite (Laryngitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ampicillin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre VALSARTAN"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com VALSARTAN. Indicação original: . 7 indicações previstas."
+description: "Notícias de saúde relacionadas com VALSARTAN. 7 indicações previstas."
 permalink: /news/valsartan/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre VALSARTAN
@@ -26,13 +27,13 @@ Esta página combina as indicações previstas por IA para VALSARTAN com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (7)</strong>:<ul>
-<li>Hipertensão renovascular maligna (malignant renovascular hypertension) (100.0%)</li>
-<li>Doença renal hipertensiva maligna (100.0%)</li>
-<li>Hipertensão pulmonar de mecanismo multifatorial incerto (100.0%)</li>
-<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia (100.0%)</li>
-<li>Síndrome de Braddock (100.0%)</li>
-<li>Cor pulmonale crônico (99.6%)</li>
-<li>Angina de Prinzmetal (99.5%)</li>
+<li>Hipertensão renovascular maligna (malignant renovascular hypertension)</li>
+<li>Doença renal hipertensiva maligna</li>
+<li>Hipertensão pulmonar de mecanismo multifatorial incerto</li>
+<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia</li>
+<li>Síndrome de Braddock</li>
+<li>Cor pulmonale crônico</li>
+<li>Angina de Prinzmetal</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

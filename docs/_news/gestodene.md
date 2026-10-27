@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Gestodene"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Gestodene. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Gestodene. 1 indicações previstas."
 permalink: /news/gestodene/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Gestodene
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Gestodene com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Enxaqueca (migraine disorder), primeira posição do ranking; acne analisada à parte (94.3%)</li>
+<li>Enxaqueca (migraine disorder), primeira posição do ranking; acne analisada à parte</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gestodene/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

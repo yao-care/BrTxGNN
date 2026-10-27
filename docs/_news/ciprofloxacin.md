@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Ciprofloxacin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ciprofloxacin. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Ciprofloxacin. 1 indicações previstas."
 permalink: /news/ciprofloxacin/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Ciprofloxacin
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Ciprofloxacin com as 
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Esclerodermia Difusa (Diffuse Scleroderma) (99.9%)</li>
+<li>Esclerodermia Difusa (Diffuse Scleroderma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ciprofloxacin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

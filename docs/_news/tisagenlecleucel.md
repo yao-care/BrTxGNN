@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Tisagenlecleucel"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tisagenlecleucel. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Tisagenlecleucel. 10 indicações previstas."
 permalink: /news/tisagenlecleucel/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Tisagenlecleucel
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Tisagenlecleucel com 
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Colite de Crohn (Crohn's colitis) (91.4%)</li>
-<li>Neoplasia endócrina múltipla (91.3%)</li>
-<li>Anemia aplástica idiopática (89.7%)</li>
-<li>Hiperfunção da glândula adrenal (88.3%)</li>
-<li>Carcinoma de mama HER2 positivo (88.0%)</li>
-<li>Espondilite anquilosante (87.1%)</li>
-<li>Mastocitose linfadenopática com eosinofilia (87.0%)</li>
-<li>Mastocitose sistêmica (87.0%)</li>
-<li>Mastocitose sistêmica indolente (smouldering) (86.8%)</li>
-<li>Vasculite reumatoide (86.2%)</li>
+<li>Colite de Crohn (Crohn's colitis)</li>
+<li>Neoplasia endócrina múltipla</li>
+<li>Anemia aplástica idiopática</li>
+<li>Hiperfunção da glândula adrenal</li>
+<li>Carcinoma de mama HER2 positivo</li>
+<li>Espondilite anquilosante</li>
+<li>Mastocitose linfadenopática com eosinofilia</li>
+<li>Mastocitose sistêmica</li>
+<li>Mastocitose sistêmica indolente (smouldering)</li>
+<li>Vasculite reumatoide</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tisagenlecleucel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

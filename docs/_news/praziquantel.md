@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Praziquantel"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Praziquantel. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Praziquantel. 1 indicações previstas."
 permalink: /news/praziquantel/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Praziquantel
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Praziquantel com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Leiomiossarcoma epitelioide do corpo uterino (uterine corpus epithelioid leiomyosarcoma) (97.3%)</li>
+<li>Leiomiossarcoma epitelioide do corpo uterino (uterine corpus epithelioid leiomyosarcoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/praziquantel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

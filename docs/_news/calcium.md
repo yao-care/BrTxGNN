@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Calcium"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Calcium. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Calcium. 1 indicações previstas."
 permalink: /news/calcium/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Calcium
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Calcium com as notíc
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Doença trombótica (Thrombotic Disease) (98.2%)</li>
+<li>Doença trombótica (Thrombotic Disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcium/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

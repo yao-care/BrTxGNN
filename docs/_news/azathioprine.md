@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre AZATHIOPRINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com AZATHIOPRINE. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com AZATHIOPRINE. 1 indicações previstas."
 permalink: /news/azathioprine/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre AZATHIOPRINE
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para AZATHIOPRINE com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Doença Inflamatória Intestinal (Inflammatory Bowel Disease) (99.5%)</li>
+<li>Doença Inflamatória Intestinal (Inflammatory Bowel Disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

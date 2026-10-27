@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Albendazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Albendazole. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Albendazole. 1 indicações previstas."
 permalink: /news/albendazole/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Albendazole
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Albendazole com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Equinococose alveolar (Alveolar Echinococcosis) (100.0%)</li>
+<li>Equinococose alveolar (Alveolar Echinococcosis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Sorafenib"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Sorafenib. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Sorafenib. 1 indicações previstas."
 permalink: /news/sorafenib/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Sorafenib
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Sorafenib com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Lipossarcoma (Liposarcoma) (99.8%)</li>
+<li>Lipossarcoma (Liposarcoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sorafenib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

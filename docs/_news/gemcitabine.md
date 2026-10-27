@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Gemcitabine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Gemcitabine. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Gemcitabine. 1 indicações previstas."
 permalink: /news/gemcitabine/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Gemcitabine
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Gemcitabine com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Carcinoma de Mama Feminino (Female Breast Carcinoma) (100.0%)</li>
+<li>Carcinoma de Mama Feminino (Female Breast Carcinoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

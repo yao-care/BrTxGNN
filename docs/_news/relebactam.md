@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Relebactam"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Relebactam. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Relebactam. 10 indicações previstas."
 permalink: /news/relebactam/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Relebactam
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Relebactam com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) (99.2%)</li>
-<li>Hiperamilasemia (99.2%)</li>
-<li>Analbuminemia congênita (99.1%)</li>
-<li>Incompatibilidade de grupo sanguíneo (98.9%)</li>
-<li>Doença hematológica pré-maligna (98.8%)</li>
-<li>Gamopatia monoclonal (98.8%)</li>
-<li>Doença hematológica associada a neuropatia periférica adquirida (98.6%)</li>
-<li>Neoplasia do sistema hematopoiético e linfoide (98.5%)</li>
-<li>Distúrbio hematológico congênito (98.4%)</li>
-<li>Peste septicêmica (97.9%)</li>
+<li>Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome)</li>
+<li>Hiperamilasemia</li>
+<li>Analbuminemia congênita</li>
+<li>Incompatibilidade de grupo sanguíneo</li>
+<li>Doença hematológica pré-maligna</li>
+<li>Gamopatia monoclonal</li>
+<li>Doença hematológica associada a neuropatia periférica adquirida</li>
+<li>Neoplasia do sistema hematopoiético e linfoide</li>
+<li>Distúrbio hematológico congênito</li>
+<li>Peste septicêmica</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/relebactam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

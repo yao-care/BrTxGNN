@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre CARVEDILOL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CARVEDILOL. Indicação original: . 5 indicações previstas."
+description: "Notícias de saúde relacionadas com CARVEDILOL. 5 indicações previstas."
 permalink: /news/carvedilol/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre CARVEDILOL
@@ -26,11 +27,11 @@ Esta página combina as indicações previstas por IA para CARVEDILOL com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (5)</strong>:<ul>
-<li>Hipertensão renovascular maligna (Malignant Renovascular Hypertension) (99.5%)</li>
-<li>Doença renal hipertensiva maligna (99.5%)</li>
-<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia (99.5%)</li>
-<li>Hipertensão pulmonar de mecanismo multifatorial incerto (99.5%)</li>
-<li>Síndrome de Braddock (99.4%)</li>
+<li>Hipertensão renovascular maligna (Malignant Renovascular Hypertension)</li>
+<li>Doença renal hipertensiva maligna</li>
+<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia</li>
+<li>Hipertensão pulmonar de mecanismo multifatorial incerto</li>
+<li>Síndrome de Braddock</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carvedilol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

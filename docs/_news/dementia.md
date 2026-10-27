@@ -5,6 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde sobre demência (dementia). 2 notícias, 4 medicamentos relacionados."
 permalink: /news/dementia/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre demência (dementia)

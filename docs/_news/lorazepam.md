@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre LORAZEPAM"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LORAZEPAM. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com LORAZEPAM. 10 indicações previstas."
 permalink: /news/lorazepam/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre LORAZEPAM
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para LORAZEPAM com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Neoplasia do Nervo Trigêmeo (Trigeminal Nerve Neoplasm) (99.9%)</li>
-<li>Insônia (99.8%)</li>
-<li>Crises de leitura (99.6%)</li>
-<li>Crises de pensamento (99.6%)</li>
-<li>Crises induzidas por orgasmo (99.6%)</li>
-<li>Epilepsia por sobressalto (99.6%)</li>
-<li>Crises induzidas por micção (99.6%)</li>
-<li>Crises audiogênicas (99.6%)</li>
-<li>Crises alimentares (99.6%)</li>
-<li>Encefalopatia aguda com crises bifásicas e difusão reduzida tardia (99.5%)</li>
+<li>Neoplasia do Nervo Trigêmeo (Trigeminal Nerve Neoplasm)</li>
+<li>Insônia</li>
+<li>Crises de leitura</li>
+<li>Crises de pensamento</li>
+<li>Crises induzidas por orgasmo</li>
+<li>Epilepsia por sobressalto</li>
+<li>Crises induzidas por micção</li>
+<li>Crises audiogênicas</li>
+<li>Crises alimentares</li>
+<li>Encefalopatia aguda com crises bifásicas e difusão reduzida tardia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lorazepam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

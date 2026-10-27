@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Phenobarbital"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Phenobarbital. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Phenobarbital. 10 indicações previstas."
 permalink: /news/phenobarbital/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Phenobarbital
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Phenobarbital com as 
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Neoplasia do Nervo Trigêmeo (Trigeminal Nerve Neoplasm) (100.0%)</li>
-<li>Convulsões induzidas pela micção (100.0%)</li>
-<li>Convulsões induzidas pelo orgasmo (100.0%)</li>
-<li>Convulsões alimentares (100.0%)</li>
-<li>Convulsões audiogênicas (100.0%)</li>
-<li>Epilepsia do sobressalto (100.0%)</li>
-<li>Convulsões do pensamento (100.0%)</li>
-<li>Convulsões da leitura (100.0%)</li>
-<li>Neuralgia do trigêmeo (99.9%)</li>
-<li>Deficiência de beta-cetotiolase (99.8%)</li>
+<li>Neoplasia do Nervo Trigêmeo (Trigeminal Nerve Neoplasm)</li>
+<li>Convulsões induzidas pela micção</li>
+<li>Convulsões induzidas pelo orgasmo</li>
+<li>Convulsões alimentares</li>
+<li>Convulsões audiogênicas</li>
+<li>Epilepsia do sobressalto</li>
+<li>Convulsões do pensamento</li>
+<li>Convulsões da leitura</li>
+<li>Neuralgia do trigêmeo</li>
+<li>Deficiência de beta-cetotiolase</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenobarbital/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

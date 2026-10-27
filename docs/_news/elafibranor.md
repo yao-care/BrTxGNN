@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Elafibranor"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Elafibranor. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Elafibranor. 10 indicações previstas."
 permalink: /news/elafibranor/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Elafibranor
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Elafibranor com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Amenorreia (amenorrhea) (99.9%)</li>
-<li>Malformação esofágica não sindrômica (98.9%)</li>
-<li>Doença de Paget óssea (98.9%)</li>
-<li>Dentinogênese imperfeita (98.5%)</li>
-<li>Carcinoma de células escamosas (98.5%)</li>
-<li>Carcinoma cloacogênico retal (98.5%)</li>
-<li>Carcinoma adenoescamoso da vesícula biliar (98.5%)</li>
-<li>Surdez autossômica dominante 39 com dentinogênese imperfeita 1 (98.4%)</li>
-<li>Carcinoma mamário escamoso variante acantolítica (98.4%)</li>
-<li>Carcinoma mamário adenoescamoso (98.4%)</li>
+<li>Amenorreia (amenorrhea)</li>
+<li>Malformação esofágica não sindrômica</li>
+<li>Doença de Paget óssea</li>
+<li>Dentinogênese imperfeita</li>
+<li>Carcinoma de células escamosas</li>
+<li>Carcinoma cloacogênico retal</li>
+<li>Carcinoma adenoescamoso da vesícula biliar</li>
+<li>Surdez autossômica dominante 39 com dentinogênese imperfeita 1</li>
+<li>Carcinoma mamário escamoso variante acantolítica</li>
+<li>Carcinoma mamário adenoescamoso</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/elafibranor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

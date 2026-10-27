@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Telmisartan"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Telmisartan. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Telmisartan. 1 indicações previstas."
 permalink: /news/telmisartan/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Telmisartan
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Telmisartan com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Oclusão de Artéria Cerebral (Cerebral Artery Occlusion) (100.0%)</li>
+<li>Oclusão de Artéria Cerebral (Cerebral Artery Occlusion)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

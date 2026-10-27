@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre CLONAZEPAM"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CLONAZEPAM. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com CLONAZEPAM. 1 indicações previstas."
 permalink: /news/clonazepam/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre CLONAZEPAM
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para CLONAZEPAM com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Síndrome das pernas inquietas (Restless Legs Syndrome) (99.7%)</li>
+<li>Síndrome das pernas inquietas (Restless Legs Syndrome)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clonazepam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

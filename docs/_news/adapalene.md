@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Adapalene"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Adapalene. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Adapalene. 10 indicações previstas."
 permalink: /news/adapalene/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Adapalene
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Adapalene com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Dermatite Seborreica (Seborrheic Dermatitis) (86.3%)</li>
-<li>Zinco plasmático elevado (99.5%)</li>
-<li>Adermatoglifia congênita isolada (98.8%)</li>
-<li>Síndrome de Beare-Stevenson (cutis gyrata) (98.8%)</li>
-<li>Demodicidose da glândula sebácea (95.5%)</li>
-<li>Síndrome PAPA (artrite piogênica, pioderma gangrenoso e acne) (95.3%)</li>
-<li>Deficiência de prolidase (89.3%)</li>
-<li>Osteoporose induzida por fármacos (87.2%)</li>
-<li>Anomalia da glândula sebácea (85.2%)</li>
-<li>Tumor cutâneo hereditário (82.9%)</li>
+<li>Dermatite Seborreica (Seborrheic Dermatitis)</li>
+<li>Zinco plasmático elevado</li>
+<li>Adermatoglifia congênita isolada</li>
+<li>Síndrome de Beare-Stevenson (cutis gyrata)</li>
+<li>Demodicidose da glândula sebácea</li>
+<li>Síndrome PAPA (artrite piogênica, pioderma gangrenoso e acne)</li>
+<li>Deficiência de prolidase</li>
+<li>Osteoporose induzida por fármacos</li>
+<li>Anomalia da glândula sebácea</li>
+<li>Tumor cutâneo hereditário</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/adapalene/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -5,6 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde sobre ansiedade (anxiety disorder). 1 notícias, 2 medicamentos relacionados."
 permalink: /news/anxiety-disorder/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre ansiedade (anxiety disorder)

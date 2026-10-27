@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre CHLORTHALIDONE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CHLORTHALIDONE. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com CHLORTHALIDONE. 10 indicações previstas."
 permalink: /news/chlorthalidone/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre CHLORTHALIDONE
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para CHLORTHALIDONE com as
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Glaucoma hereditário primário (primary hereditary glaucoma) (99.9%)</li>
-<li>Glaucoma de ângulo aberto (99.9%)</li>
-<li>Doença renal hipertensiva maligna (99.9%)</li>
-<li>Hipertensão renovascular maligna (99.9%)</li>
-<li>Hipertensão pulmonar de mecanismo multifatorial incerto (99.9%)</li>
-<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia (99.9%)</li>
-<li>Síndrome de Braddock (99.8%)</li>
-<li>Cor pulmonale crônico (99.8%)</li>
-<li>Cor pulmonale agudo (99.3%)</li>
-<li>Hipotricose congênita com milia (99.2%)</li>
+<li>Glaucoma hereditário primário (primary hereditary glaucoma)</li>
+<li>Glaucoma de ângulo aberto</li>
+<li>Doença renal hipertensiva maligna</li>
+<li>Hipertensão renovascular maligna</li>
+<li>Hipertensão pulmonar de mecanismo multifatorial incerto</li>
+<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia</li>
+<li>Síndrome de Braddock</li>
+<li>Cor pulmonale crônico</li>
+<li>Cor pulmonale agudo</li>
+<li>Hipotricose congênita com milia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlorthalidone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Nomegestrol acetate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Nomegestrol acetate. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com Nomegestrol acetate. 0 indicações previstas."
 permalink: /news/nomegestrol_acetate/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Nomegestrol acetate

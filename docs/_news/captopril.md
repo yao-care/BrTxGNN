@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre CAPTOPRIL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CAPTOPRIL. Indicação original: . 4 indicações previstas."
+description: "Notícias de saúde relacionadas com CAPTOPRIL. 4 indicações previstas."
 permalink: /news/captopril/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre CAPTOPRIL
@@ -26,10 +27,10 @@ Esta página combina as indicações previstas por IA para CAPTOPRIL com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (4)</strong>:<ul>
-<li>Doença renal hipertensiva maligna (malignant hypertensive renal disease) (99.3%)</li>
-<li>Hipertensão renovascular maligna (99.3%)</li>
-<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia (99.2%)</li>
-<li>Hipertensão pulmonar de mecanismo multifatorial incerto (99.2%)</li>
+<li>Doença renal hipertensiva maligna (malignant hypertensive renal disease)</li>
+<li>Hipertensão renovascular maligna</li>
+<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia</li>
+<li>Hipertensão pulmonar de mecanismo multifatorial incerto</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/captopril/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Hesperidin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Hesperidin. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Hesperidin. 1 indicações previstas."
 permalink: /news/hesperidin/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Hesperidin
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Hesperidin com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Neoplasia Mieloproliferativa (Myeloproliferative Neoplasm) (99.5%)</li>
+<li>Neoplasia Mieloproliferativa (Myeloproliferative Neoplasm)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hesperidin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

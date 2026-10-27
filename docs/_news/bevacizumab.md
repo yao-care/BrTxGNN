@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Bevacizumab"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Bevacizumab. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Bevacizumab. 1 indicações previstas."
 permalink: /news/bevacizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Bevacizumab
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Bevacizumab com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Neoplasia de Epiglote (Epiglottis Neoplasm) (99.9%)</li>
+<li>Neoplasia de Epiglote (Epiglottis Neoplasm)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

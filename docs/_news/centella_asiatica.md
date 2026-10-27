@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Centella asiatica"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Centella asiatica. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com Centella asiatica. 0 indicações previstas."
 permalink: /news/centella_asiatica/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Centella asiatica

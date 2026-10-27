@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Fluconazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Fluconazole. Indicação original: . 4 indicações previstas."
+description: "Notícias de saúde relacionadas com Fluconazole. 4 indicações previstas."
 permalink: /news/fluconazole/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Fluconazole
@@ -26,10 +27,10 @@ Esta página combina as indicações previstas por IA para Fluconazole com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (4)</strong>:<ul>
-<li>Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (99.2%)</li>
-<li>Malária por *Plasmodium falciparum* (98.6%)</li>
-<li>Pneumocistose (97.8%)</li>
-<li>Incompatibilidade de grupo sanguíneo (97.8%)</li>
+<li>Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)</li>
+<li>Malária por *Plasmodium falciparum*</li>
+<li>Pneumocistose</li>
+<li>Incompatibilidade de grupo sanguíneo</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluconazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

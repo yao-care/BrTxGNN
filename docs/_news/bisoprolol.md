@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre BISOPROLOL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com BISOPROLOL. Indicação original: . 5 indicações previstas."
+description: "Notícias de saúde relacionadas com BISOPROLOL. 5 indicações previstas."
 permalink: /news/bisoprolol/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre BISOPROLOL
@@ -26,11 +27,11 @@ Esta página combina as indicações previstas por IA para BISOPROLOL com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (5)</strong>:<ul>
-<li>Doença Renal Hipertensiva Maligna (Malignant Hypertensive Renal Disease) (99.9%)</li>
-<li>Hipertensão renovascular maligna (99.9%)</li>
-<li>Hipertensão pulmonar de mecanismo multifatorial incerto (99.9%)</li>
-<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia (99.9%)</li>
-<li>Síndrome de Braddock (99.9%)</li>
+<li>Doença Renal Hipertensiva Maligna (Malignant Hypertensive Renal Disease)</li>
+<li>Hipertensão renovascular maligna</li>
+<li>Hipertensão pulmonar de mecanismo multifatorial incerto</li>
+<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia</li>
+<li>Síndrome de Braddock</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bisoprolol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

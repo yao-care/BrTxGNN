@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Secnidazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Secnidazole. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Secnidazole. 1 indicações previstas."
 permalink: /news/secnidazole/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Secnidazole
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Secnidazole com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Corrimento vaginal (vaginal discharge) (99.4%)</li>
+<li>Corrimento vaginal (vaginal discharge)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/secnidazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

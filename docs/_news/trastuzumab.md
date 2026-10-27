@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Trastuzumab"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Trastuzumab. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Trastuzumab. 1 indicações previstas."
 permalink: /news/trastuzumab/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Trastuzumab
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Trastuzumab com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Câncer de mama com receptor de progesterona positivo (progesterone-receptor positive breast cancer) (99.9%)</li>
+<li>Câncer de mama com receptor de progesterona positivo (progesterone-receptor positive breast cancer)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trastuzumab/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

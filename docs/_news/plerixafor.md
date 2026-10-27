@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre PLERIXAFOR"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com PLERIXAFOR. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com PLERIXAFOR. 1 indicações previstas."
 permalink: /news/plerixafor/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre PLERIXAFOR
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para PLERIXAFOR com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Mieloma de plasmócitos indolente (indolent plasma cell myeloma) (100.0%)</li>
+<li>Mieloma de plasmócitos indolente (indolent plasma cell myeloma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/plerixafor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

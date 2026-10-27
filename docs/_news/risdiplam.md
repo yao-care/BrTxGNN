@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Risdiplam"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Risdiplam. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Risdiplam. 10 indicações previstas."
 permalink: /news/risdiplam/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Risdiplam
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Risdiplam com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Acne (disease) (99.5%)</li>
-<li>Osteoporose induzida por fármacos (97.7%)</li>
-<li>Zinco plasmático elevado (97.3%)</li>
-<li>Verruga comum (97.2%)</li>
-<li>Melanoma metastático (96.8%)</li>
-<li>Dermatite (96.6%)</li>
-<li>Melanoma não cutâneo (96.2%)</li>
-<li>Acrodermatite crônica atrófica (96.1%)</li>
-<li>Melanoma de células epitelioides (95.9%)</li>
-<li>Melanoma palpebral (95.9%)</li>
+<li>Acne (disease)</li>
+<li>Osteoporose induzida por fármacos</li>
+<li>Zinco plasmático elevado</li>
+<li>Verruga comum</li>
+<li>Melanoma metastático</li>
+<li>Dermatite</li>
+<li>Melanoma não cutâneo</li>
+<li>Acrodermatite crônica atrófica</li>
+<li>Melanoma de células epitelioides</li>
+<li>Melanoma palpebral</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/risdiplam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

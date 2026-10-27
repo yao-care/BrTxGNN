@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Cabazitaxel"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Cabazitaxel. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Cabazitaxel. 1 indicações previstas."
 permalink: /news/cabazitaxel/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Cabazitaxel
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Cabazitaxel com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Carcinoma de mama feminino (female breast carcinoma) (99.9%)</li>
+<li>Carcinoma de mama feminino (female breast carcinoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

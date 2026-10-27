@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Docetaxel"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Docetaxel. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Docetaxel. 1 indicações previstas."
 permalink: /news/docetaxel/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Docetaxel
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Docetaxel com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Carcinoma de mama feminino (Female Breast Carcinoma) (99.9%)</li>
+<li>Carcinoma de mama feminino (Female Breast Carcinoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

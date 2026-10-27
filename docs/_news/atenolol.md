@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre ATENOLOL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ATENOLOL. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com ATENOLOL. 1 indicações previstas."
 permalink: /news/atenolol/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre ATENOLOL
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para ATENOLOL com as notí
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Infarto do miocárdio posterolateral (posterolateral myocardial infarction) (99.9%)</li>
+<li>Infarto do miocárdio posterolateral (posterolateral myocardial infarction)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

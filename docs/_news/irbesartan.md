@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre IRBESARTAN"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com IRBESARTAN. Indicação original: . 4 indicações previstas."
+description: "Notícias de saúde relacionadas com IRBESARTAN. 4 indicações previstas."
 permalink: /news/irbesartan/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre IRBESARTAN
@@ -26,10 +27,10 @@ Esta página combina as indicações previstas por IA para IRBESARTAN com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (4)</strong>:<ul>
-<li>Hipertensão renovascular maligna (Malignant Renovascular Hypertension) (99.3%)</li>
-<li>Doença renal hipertensiva maligna (99.3%)</li>
-<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia (99.2%)</li>
-<li>Hipertensão pulmonar de mecanismo multifatorial não esclarecido (99.2%)</li>
+<li>Hipertensão renovascular maligna (Malignant Renovascular Hypertension)</li>
+<li>Doença renal hipertensiva maligna</li>
+<li>Hipertensão pulmonar por doença pulmonar e/ou hipóxia</li>
+<li>Hipertensão pulmonar de mecanismo multifatorial não esclarecido</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

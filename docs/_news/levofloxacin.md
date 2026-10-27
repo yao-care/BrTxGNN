@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Levofloxacin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Levofloxacin. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Levofloxacin. 1 indicações previstas."
 permalink: /news/levofloxacin/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Levofloxacin
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Levofloxacin com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (99.9%)</li>
+<li>Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

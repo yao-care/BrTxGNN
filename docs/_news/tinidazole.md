@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Tinidazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tinidazole. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Tinidazole. 1 indicações previstas."
 permalink: /news/tinidazole/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Tinidazole
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Tinidazole com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis) (99.9%)</li>
+<li>Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

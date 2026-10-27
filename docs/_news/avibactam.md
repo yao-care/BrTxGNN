@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Avibactam"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Avibactam. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Avibactam. 10 indicações previstas."
 permalink: /news/avibactam/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Avibactam
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Avibactam com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Pneumonia estreptocócica (streptococcal pneumonia) (99.7%)</li>
-<li>Suscetibilidade a influenza grave (99.3%)</li>
-<li>Tuberculose de ureter (99.1%)</li>
-<li>Esquistossomose urinária (99.1%)</li>
-<li>Síndrome de hiperviscosidade policlonal (99.0%)</li>
-<li>Hiperamilasemia (99.0%)</li>
-<li>Infecção por *Staphylococcus aureus* (99.0%)</li>
-<li>Tuberculose renal (98.9%)</li>
-<li>Carcinoma pulmonar de células escamosas (98.9%)</li>
-<li>Analbuminemia congênita (98.8%)</li>
+<li>Pneumonia estreptocócica (streptococcal pneumonia)</li>
+<li>Suscetibilidade a influenza grave</li>
+<li>Tuberculose de ureter</li>
+<li>Esquistossomose urinária</li>
+<li>Síndrome de hiperviscosidade policlonal</li>
+<li>Hiperamilasemia</li>
+<li>Infecção por *Staphylococcus aureus*</li>
+<li>Tuberculose renal</li>
+<li>Carcinoma pulmonar de células escamosas</li>
+<li>Analbuminemia congênita</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/avibactam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

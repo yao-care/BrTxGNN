@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Norfloxacin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Norfloxacin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Norfloxacin. 10 indicações previstas."
 permalink: /news/norfloxacin/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Norfloxacin
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Norfloxacin com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Hiperamilasemia (Hyperamylasemia) (99.7%)</li>
-<li>Polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade policlonal) (99.7%)</li>
-<li>Analbuminemia congênita (99.7%)</li>
-<li>Incompatibilidade de grupo sanguíneo (99.5%)</li>
-<li>Ceratoconjuntivite epitelial puntacta (99.5%)</li>
-<li>Doença hematológica pré-maligna (99.5%)</li>
-<li>Esclerodermia difusa (99.4%)</li>
-<li>Gamopatia monoclonal (99.4%)</li>
-<li>Doença hematológica associada a neuropatia periférica adquirida (99.4%)</li>
-<li>Peste septicêmica (99.4%)</li>
+<li>Hiperamilasemia (Hyperamylasemia)</li>
+<li>Polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade policlonal)</li>
+<li>Analbuminemia congênita</li>
+<li>Incompatibilidade de grupo sanguíneo</li>
+<li>Ceratoconjuntivite epitelial puntacta</li>
+<li>Doença hematológica pré-maligna</li>
+<li>Esclerodermia difusa</li>
+<li>Gamopatia monoclonal</li>
+<li>Doença hematológica associada a neuropatia periférica adquirida</li>
+<li>Peste septicêmica</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/norfloxacin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

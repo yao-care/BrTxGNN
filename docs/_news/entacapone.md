@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre ENTACAPONE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ENTACAPONE. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com ENTACAPONE. 1 indicações previstas."
 permalink: /news/entacapone/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre ENTACAPONE
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para ENTACAPONE com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Neurodegeneração associada ao PLA2G6 (PLA2G6-associated neurodegeneration) (99.8%)</li>
+<li>Neurodegeneração associada ao PLA2G6 (PLA2G6-associated neurodegeneration)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

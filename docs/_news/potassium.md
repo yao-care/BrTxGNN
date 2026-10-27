@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Potassium"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Potassium. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Potassium. 1 indicações previstas."
 permalink: /news/potassium/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Potassium
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Potassium com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Transtorno hipertensivo (hypertensive disorder) (99.2%)</li>
+<li>Transtorno hipertensivo (hypertensive disorder)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/potassium/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

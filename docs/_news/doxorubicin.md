@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Doxorubicin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Doxorubicin. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Doxorubicin. 10 indicações previstas."
 permalink: /news/doxorubicin/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Doxorubicin
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Doxorubicin com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Sarcoma de Ewing (Ewing sarcoma) (99.9%)</li>
-<li>Rabdomiossarcoma (99.7%)</li>
-<li>Blastoma pulmonar (99.8%)</li>
-<li>Leucemia mieloide crônica BCR-ABL1 positiva (99.8%)</li>
-<li>Leucemia monocítica (99.7%)</li>
-<li>Adenocarcinoma fetal pulmonar bem diferenciado (99.9%)</li>
-<li>Linfoma pulmonar primário (99.8%)</li>
-<li>Rabdomiossarcoma embrionário botrioide da vagina (99.7%)</li>
-<li>Rabdomiossarcoma embrionário parameníngeo (99.7%)</li>
-<li>Ganglioneuroblastoma (99.7%)</li>
+<li>Sarcoma de Ewing (Ewing sarcoma)</li>
+<li>Rabdomiossarcoma</li>
+<li>Blastoma pulmonar</li>
+<li>Leucemia mieloide crônica BCR-ABL1 positiva</li>
+<li>Leucemia monocítica</li>
+<li>Adenocarcinoma fetal pulmonar bem diferenciado</li>
+<li>Linfoma pulmonar primário</li>
+<li>Rabdomiossarcoma embrionário botrioide da vagina</li>
+<li>Rabdomiossarcoma embrionário parameníngeo</li>
+<li>Ganglioneuroblastoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doxorubicin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Mometasone"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Mometasone. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Mometasone. 1 indicações previstas."
 permalink: /news/mometasone/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Mometasone
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Mometasone com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Linfoma cutâneo primário de células T (primary cutaneous T-cell lymphoma) (99.4%)</li>
+<li>Linfoma cutâneo primário de células T (primary cutaneous T-cell lymphoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mometasone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Potassium sulfate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Potassium sulfate. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com Potassium sulfate. 0 indicações previstas."
 permalink: /news/potassium_sulfate/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Potassium sulfate

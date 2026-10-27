@@ -5,6 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 1 notícias, 12 medicamentos relacionados."
 permalink: /news/female-breast-carcinoma/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre câncer de mama (female breast carcinoma)

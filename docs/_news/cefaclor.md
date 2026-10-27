@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Cefaclor"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Cefaclor. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Cefaclor. 1 indicações previstas."
 permalink: /news/cefaclor/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Cefaclor
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Cefaclor com as notí
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade policlonal) (97.7%)</li>
+<li>polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade policlonal)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefaclor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

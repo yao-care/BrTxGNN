@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Sodium chloride"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Sodium chloride. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com Sodium chloride. 0 indicações previstas."
 permalink: /news/sodium_chloride/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Sodium chloride

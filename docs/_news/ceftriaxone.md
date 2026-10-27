@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Ceftriaxone"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ceftriaxone. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Ceftriaxone. 1 indicações previstas."
 permalink: /news/ceftriaxone/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Ceftriaxone
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Ceftriaxone com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Otite média infecciosa (Infectious Otitis Media) (99.3%)</li>
+<li>Otite média infecciosa (Infectious Otitis Media)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ceftriaxone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Tamoxifen"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tamoxifen. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Tamoxifen. 10 indicações previstas."
 permalink: /news/tamoxifen/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Tamoxifen
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Tamoxifen com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Doença de Paget mamária (Mammary Paget Disease) (99.7%)</li>
-<li>Adenocarcinoma cribriforme intraductal de mama (99.7%)</li>
-<li>Carcinoma de mama basal-like (99.7%)</li>
-<li>Carcinoma de mama in situ (DCIS) (99.7%)</li>
-<li>Carcinoma sebáceo de mama (99.7%)</li>
-<li>Carcinoma tubular invasivo de mama (99.7%)</li>
-<li>Carcinoma de mama resistente a hormônio (99.7%)</li>
-<li>Câncer de mama ER-positivo (99.7%)</li>
-<li>Carcinoma de Ehrlich (modelo murino) (99.7%)</li>
-<li>Rabdomiossarcoma embrionário botrioide de vagina (99.7%)</li>
+<li>Doença de Paget mamária (Mammary Paget Disease)</li>
+<li>Adenocarcinoma cribriforme intraductal de mama</li>
+<li>Carcinoma de mama basal-like</li>
+<li>Carcinoma de mama in situ (DCIS)</li>
+<li>Carcinoma sebáceo de mama</li>
+<li>Carcinoma tubular invasivo de mama</li>
+<li>Carcinoma de mama resistente a hormônio</li>
+<li>Câncer de mama ER-positivo</li>
+<li>Carcinoma de Ehrlich (modelo murino)</li>
+<li>Rabdomiossarcoma embrionário botrioide de vagina</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tamoxifen/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

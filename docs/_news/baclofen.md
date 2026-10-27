@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Baclofen"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Baclofen. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Baclofen. 10 indicações previstas."
 permalink: /news/baclofen/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Baclofen
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Baclofen com as notí
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Transtorno de déficit de atenção e hiperatividade (Attention Deficit-Hyperactivity Disorder) (99.3%)</li>
-<li>Dependência de nicotina (99.2%)</li>
-<li>TDAH, tipo desatento (98.9%)</li>
-<li>Síndrome de dor miofascial (98.9%)</li>
-<li>Síndrome faciodigitogenital (98.8%)</li>
-<li>Neoplasia do nervo trigêmeo (98.7%)</li>
-<li>Metemoglobinemia (98.3%)</li>
-<li>Fibroma condromixoide (98.2%)</li>
-<li>Metemoglobinemia, tipo alfa (98.0%)</li>
-<li>Transtorno específico do desenvolvimento (98.0%)</li>
+<li>Transtorno de déficit de atenção e hiperatividade (Attention Deficit-Hyperactivity Disorder)</li>
+<li>Dependência de nicotina</li>
+<li>TDAH, tipo desatento</li>
+<li>Síndrome de dor miofascial</li>
+<li>Síndrome faciodigitogenital</li>
+<li>Neoplasia do nervo trigêmeo</li>
+<li>Metemoglobinemia</li>
+<li>Fibroma condromixoide</li>
+<li>Metemoglobinemia, tipo alfa</li>
+<li>Transtorno específico do desenvolvimento</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/baclofen/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Ambroxol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ambroxol. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Ambroxol. 1 indicações previstas."
 permalink: /news/ambroxol/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Ambroxol
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Ambroxol com as notí
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Doença da Cavidade Nasal (Nasal Cavity Disease) (99.9%)</li>
+<li>Doença da Cavidade Nasal (Nasal Cavity Disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ambroxol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

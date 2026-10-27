@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Imiglucerase"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Imiglucerase. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Imiglucerase. 1 indicações previstas."
 permalink: /news/imiglucerase/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Imiglucerase
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Imiglucerase com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Síndrome de Hurler (Hurler syndrome) (99.5%)</li>
+<li>Síndrome de Hurler (Hurler syndrome)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imiglucerase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

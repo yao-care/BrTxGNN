@@ -5,6 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde sobre artrose (osteoarthritis). 1 notícias, 8 medicamentos relacionados."
 permalink: /news/osteoarthritis/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre artrose (osteoarthritis)

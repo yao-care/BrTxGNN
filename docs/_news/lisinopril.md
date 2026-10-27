@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre LISINOPRIL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LISINOPRIL. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com LISINOPRIL. 1 indicações previstas."
 permalink: /news/lisinopril/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre LISINOPRIL
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para LISINOPRIL com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Infarto do miocárdio posterolateral (posterolateral myocardial infarction) (99.9%)</li>
+<li>Infarto do miocárdio posterolateral (posterolateral myocardial infarction)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lisinopril/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

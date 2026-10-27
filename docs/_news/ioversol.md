@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Ioversol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Ioversol. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Ioversol. 10 indicações previstas."
 permalink: /news/ioversol/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Ioversol
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Ioversol com as notí
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Suscetibilidade à osteoartrite (osteoarthritis susceptibility) (99.7%)</li>
-<li>Osteoartrite (99.6%)</li>
-<li>Artrite reumatoide (99.6%)</li>
-<li>Braquiolmia (99.4%)</li>
-<li>Hemoglobinopatia (99.3%)</li>
-<li>Síndrome braquiolmia-amelogênese imperfeita (99.3%)</li>
-<li>Displasia acromesomélica tipo Hunter-Thompson (99.3%)</li>
-<li>Miosclerose (99.3%)</li>
-<li>Síndrome de microftalmia colobomatosa com displasia rizomélica (99.3%)</li>
-<li>Alopecia (99.2%)</li>
+<li>Suscetibilidade à osteoartrite (osteoarthritis susceptibility)</li>
+<li>Osteoartrite</li>
+<li>Artrite reumatoide</li>
+<li>Braquiolmia</li>
+<li>Hemoglobinopatia</li>
+<li>Síndrome braquiolmia-amelogênese imperfeita</li>
+<li>Displasia acromesomélica tipo Hunter-Thompson</li>
+<li>Miosclerose</li>
+<li>Síndrome de microftalmia colobomatosa com displasia rizomélica</li>
+<li>Alopecia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ioversol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

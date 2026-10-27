@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Serine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Serine. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Serine. 1 indicações previstas."
 permalink: /news/serine/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Serine
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Serine com as notíci
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Miopatia visceral familiar (familial visceral myopathy) (100.0%)</li>
+<li>Miopatia visceral familiar (familial visceral myopathy)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/serine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

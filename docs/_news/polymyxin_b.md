@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Polymyxin B"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Polymyxin B. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com Polymyxin B. 0 indicações previstas."
 permalink: /news/polymyxin_b/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Polymyxin B

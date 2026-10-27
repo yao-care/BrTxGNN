@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Vancomycin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Vancomycin. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Vancomycin. 1 indicações previstas."
 permalink: /news/vancomycin/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Vancomycin
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Vancomycin com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Esclerodermia difusa (diffuse scleroderma) (99.9%)</li>
+<li>Esclerodermia difusa (diffuse scleroderma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vancomycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Letrozole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Letrozole. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Letrozole. 1 indicações previstas."
 permalink: /news/letrozole/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Letrozole
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Letrozole com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Carcinoma de mama feminino (female breast carcinoma) (100.0%)</li>
+<li>Carcinoma de mama feminino (female breast carcinoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Everolimus"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Everolimus. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Everolimus. 1 indicações previstas."
 permalink: /news/everolimus/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Everolimus
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Everolimus com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Lipossarcoma (liposarcoma) (99.9%)</li>
+<li>Lipossarcoma (liposarcoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/everolimus/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

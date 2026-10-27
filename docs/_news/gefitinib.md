@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Gefitinib"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Gefitinib. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Gefitinib. 10 indicações previstas."
 permalink: /news/gefitinib/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Gefitinib
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Gefitinib com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Fibromatose Gengival (Fibromatosis, gingival) (99.9%)</li>
-<li>Fibroma de pulmão (99.9%)</li>
-<li>Miopatia por corpúsculos de inclusão com doença de Paget precoce ± demência frontotemporal (99.9%)</li>
-<li>Hamartoma de pulmão (99.9%)</li>
-<li>Carcinoma do hilo pulmonar (99.9%)</li>
-<li>Neoplasia benigna de pulmão (99.8%)</li>
-<li>Síndrome leucomelanodermia-infantilismo-deficiência intelectual-hipodontia-hipotricose (99.8%)</li>
-<li>Neoplasia do sulco pulmonar (tumor de Pancoast) (99.8%)</li>
-<li>Tumor de células germinativas do pulmão (99.8%)</li>
-<li>Epidermólise bolhosa juncional (99.8%)</li>
+<li>Fibromatose Gengival (Fibromatosis, gingival)</li>
+<li>Fibroma de pulmão</li>
+<li>Miopatia por corpúsculos de inclusão com doença de Paget precoce ± demência frontotemporal</li>
+<li>Hamartoma de pulmão</li>
+<li>Carcinoma do hilo pulmonar</li>
+<li>Neoplasia benigna de pulmão</li>
+<li>Síndrome leucomelanodermia-infantilismo-deficiência intelectual-hipodontia-hipotricose</li>
+<li>Neoplasia do sulco pulmonar (tumor de Pancoast)</li>
+<li>Tumor de células germinativas do pulmão</li>
+<li>Epidermólise bolhosa juncional</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

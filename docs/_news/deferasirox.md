@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre DEFERASIROX"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com DEFERASIROX. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com DEFERASIROX. 1 indicações previstas."
 permalink: /news/deferasirox/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre DEFERASIROX
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para DEFERASIROX com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Infecção por HIV (HIV infectious disease) (99.4%)</li>
+<li>Infecção por HIV (HIV infectious disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/deferasirox/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

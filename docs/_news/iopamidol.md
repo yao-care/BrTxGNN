@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Iopamidol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Iopamidol. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Iopamidol. 1 indicações previstas."
 permalink: /news/iopamidol/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Iopamidol
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Iopamidol com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Angina de Prinzmetal (Prinzmetal angina) (98.6%)</li>
+<li>Angina de Prinzmetal (Prinzmetal angina)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iopamidol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

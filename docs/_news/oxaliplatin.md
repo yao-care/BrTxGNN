@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Oxaliplatin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Oxaliplatin. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Oxaliplatin. 1 indicações previstas."
 permalink: /news/oxaliplatin/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Oxaliplatin
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Oxaliplatin com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L2</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Mesotelioma Pleural Maligno (Malignant Pleural Mesothelioma) (99.7%)</li>
+<li>Mesotelioma Pleural Maligno (Malignant Pleural Mesothelioma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxaliplatin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

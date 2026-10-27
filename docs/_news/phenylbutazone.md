@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Phenylbutazone"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Phenylbutazone. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Phenylbutazone. 1 indicações previstas."
 permalink: /news/phenylbutazone/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Phenylbutazone
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Phenylbutazone com as
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Artrite Reumatoide (Rheumatoid Arthritis) (99.8%)</li>
+<li>Artrite Reumatoide (Rheumatoid Arthritis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenylbutazone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

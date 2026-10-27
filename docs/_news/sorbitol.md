@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Sorbitol"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Sorbitol. Indicação original: . 3 indicações previstas."
+description: "Notícias de saúde relacionadas com Sorbitol. 3 indicações previstas."
 permalink: /news/sorbitol/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Sorbitol
@@ -26,9 +27,9 @@ Esta página combina as indicações previstas por IA para Sorbitol com as notí
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (3)</strong>:<ul>
-<li>Hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) (99.4%)</li>
-<li>Insuficiência cardíaca congestiva (98.8%)</li>
-<li>Otite média infecciosa (98.7%)</li>
+<li>Hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia)</li>
+<li>Insuficiência cardíaca congestiva</li>
+<li>Otite média infecciosa</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sorbitol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

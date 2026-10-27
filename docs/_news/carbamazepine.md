@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre CARBAMAZEPINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CARBAMAZEPINE. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com CARBAMAZEPINE. 10 indicações previstas."
 permalink: /news/carbamazepine/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre CARBAMAZEPINE
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para CARBAMAZEPINE com as 
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (100.0%)</li>
-<li>Epilepsia do susto (startle epilepsy) (100.0%)</li>
-<li>Crises audiogênicas (100.0%)</li>
-<li>Crises induzidas pelo pensamento (100.0%)</li>
-<li>Crises induzidas pela alimentação (100.0%)</li>
-<li>Crises induzidas pelo orgasmo (100.0%)</li>
-<li>Crises induzidas pela micção (100.0%)</li>
-<li>Crises induzidas pela leitura (100.0%)</li>
-<li>Deficiência de beta-cetotiolase (99.9%)</li>
-<li>Síndrome de Rett, variante congênita (99.9%)</li>
+<li>Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm)</li>
+<li>Epilepsia do susto (startle epilepsy)</li>
+<li>Crises audiogênicas</li>
+<li>Crises induzidas pelo pensamento</li>
+<li>Crises induzidas pela alimentação</li>
+<li>Crises induzidas pelo orgasmo</li>
+<li>Crises induzidas pela micção</li>
+<li>Crises induzidas pela leitura</li>
+<li>Deficiência de beta-cetotiolase</li>
+<li>Síndrome de Rett, variante congênita</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbamazepine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

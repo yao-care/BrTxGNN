@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Vinblastine"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Vinblastine. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Vinblastine. 1 indicações previstas."
 permalink: /news/vinblastine/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Vinblastine
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Vinblastine com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Rabdomiossarcoma (Rhabdomyosarcoma) (99.9%)</li>
+<li>Rabdomiossarcoma (Rhabdomyosarcoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vinblastine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

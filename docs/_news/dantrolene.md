@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Dantrolene"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Dantrolene. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Dantrolene. 1 indicações previstas."
 permalink: /news/dantrolene/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Dantrolene
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Dantrolene com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Hipertermia maligna, suscetibilidade (malignant hyperthermia, susceptibility to) (99.9%)</li>
+<li>Hipertermia maligna, suscetibilidade (malignant hyperthermia, susceptibility to)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dantrolene/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

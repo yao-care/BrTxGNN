@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Imatinib"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Imatinib. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Imatinib. 1 indicações previstas."
 permalink: /news/imatinib/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Imatinib
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Imatinib com as notí
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Fibrossarcoma cardíaco (heart fibrosarcoma) (99.9%)</li>
+<li>Fibrossarcoma cardíaco (heart fibrosarcoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imatinib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

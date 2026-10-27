@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre ISOTRETINOIN"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ISOTRETINOIN. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com ISOTRETINOIN. 1 indicações previstas."
 permalink: /news/isotretinoin/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre ISOTRETINOIN
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para ISOTRETINOIN com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Hipertensão Renovascular Maligna (Malignant Renovascular Hypertension) (99.0%)</li>
+<li>Hipertensão Renovascular Maligna (Malignant Renovascular Hypertension)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isotretinoin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

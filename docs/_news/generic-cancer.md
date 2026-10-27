@@ -5,6 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde sobre câncer (generic_cancer). 5 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre câncer (generic_cancer)

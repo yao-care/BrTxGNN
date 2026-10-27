@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Tezacaftor"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tezacaftor. Indicação original: . 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Tezacaftor. 10 indicações previstas."
 permalink: /news/tezacaftor/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Tezacaftor
@@ -26,16 +27,16 @@ Esta página combina as indicações previstas por IA para Tezacaftor com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Doença infecciosa por HIV (HIV infectious disease) (99.2%)</li>
-<li>Hanseníase (99.1%)</li>
-<li>Neoplasia endócrina múltipla (99.1%)</li>
-<li>Síndrome da imunodeficiência adquirida felina (99.0%)</li>
-<li>Infecção pelo vírus da imunodeficiência símia (99.0%)</li>
-<li>Transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical (98.8%)</li>
-<li>Artrite reumatoide (98.7%)</li>
-<li>Carcinoma de mama feminina (98.4%)</li>
-<li>Hipercolesterolemia familiar homozigótica (98.4%)</li>
-<li>Esclerose lateral amiotrófica (98.3%)</li>
+<li>Doença infecciosa por HIV (HIV infectious disease)</li>
+<li>Hanseníase</li>
+<li>Neoplasia endócrina múltipla</li>
+<li>Síndrome da imunodeficiência adquirida felina</li>
+<li>Infecção pelo vírus da imunodeficiência símia</li>
+<li>Transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical</li>
+<li>Artrite reumatoide</li>
+<li>Carcinoma de mama feminina</li>
+<li>Hipercolesterolemia familiar homozigótica</li>
+<li>Esclerose lateral amiotrófica</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tezacaftor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

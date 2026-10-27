@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Piracetam"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Piracetam. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Piracetam. 1 indicações previstas."
 permalink: /news/piracetam/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Piracetam
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Piracetam com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Osteoartrite (osteoarthritis) (98.5%)</li>
+<li>Osteoartrite (osteoarthritis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/piracetam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

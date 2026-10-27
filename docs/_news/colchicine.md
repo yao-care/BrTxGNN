@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre COLCHICINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com COLCHICINE. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com COLCHICINE. 1 indicações previstas."
 permalink: /news/colchicine/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre COLCHICINE
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para COLCHICINE com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Febre Familiar do Mediterrâneo, autossômica dominante (familial Mediterranean fever, autosomal dominant) (99.4%)</li>
+<li>Febre Familiar do Mediterrâneo, autossômica dominante (familial Mediterranean fever, autosomal dominant)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/colchicine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

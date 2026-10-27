@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Sirolimus"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Sirolimus. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Sirolimus. 1 indicações previstas."
 permalink: /news/sirolimus/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Sirolimus
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Sirolimus com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Lipossarcoma (Liposarcoma) (99.9%)</li>
+<li>Lipossarcoma (Liposarcoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sirolimus/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

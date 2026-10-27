@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Venetoclax"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Venetoclax. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Venetoclax. 1 indicações previstas."
 permalink: /news/venetoclax/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Venetoclax
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Venetoclax com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Leucemia linfocítica crônica/linfoma linfocítico de pequenas células com hipermutação somática de IGHV (99.5%)</li>
+<li>Leucemia linfocítica crônica/linfoma linfocítico de pequenas células com hipermutação somática de IGHV</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/venetoclax/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

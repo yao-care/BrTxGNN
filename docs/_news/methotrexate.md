@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Methotrexate"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Methotrexate. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Methotrexate. 1 indicações previstas."
 permalink: /news/methotrexate/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Methotrexate
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Methotrexate com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Blastoma Pulmonar (Pulmonary Blastoma) (99.5%)</li>
+<li>Blastoma Pulmonar (Pulmonary Blastoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methotrexate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

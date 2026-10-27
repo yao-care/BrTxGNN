@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Basiliximab"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Basiliximab. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Basiliximab. 1 indicações previstas."
 permalink: /news/basiliximab/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Basiliximab
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Basiliximab com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Mieloma de Plasmócitos (Plasma Cell Myeloma) (95.6%)</li>
+<li>Mieloma de Plasmócitos (Plasma Cell Myeloma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/basiliximab/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

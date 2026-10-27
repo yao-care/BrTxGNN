@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Paclitaxel"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Paclitaxel. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Paclitaxel. 1 indicações previstas."
 permalink: /news/paclitaxel/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Paclitaxel
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Paclitaxel com as not
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Carcinoma de mama feminino (female breast carcinoma) (100.0%)</li>
+<li>Carcinoma de mama feminino (female breast carcinoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Biperiden"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Biperiden. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Biperiden. 1 indicações previstas."
 permalink: /news/biperiden/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Biperiden
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Biperiden com as not�
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis) (99.9%)</li>
+<li>Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/biperiden/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Tetracycline"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Tetracycline. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Tetracycline. 1 indicações previstas."
 permalink: /news/tetracycline/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Tetracycline
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Tetracycline com as n
 <ul>
 <li><strong>Nível de evidência</strong>: L4</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Ceratoconjuntivite epitelial punctata (Punctate Epithelial Keratoconjunctivitis) (99.6%)</li>
+<li>Ceratoconjuntivite epitelial punctata (Punctate Epithelial Keratoconjunctivitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tetracycline/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

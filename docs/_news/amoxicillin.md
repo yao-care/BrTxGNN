@@ -3,8 +3,9 @@ layout: default
 title: "Notícias sobre Amoxicillin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Amoxicillin. Indicação original: . 1 indicações previstas."
+description: "Notícias de saúde relacionadas com Amoxicillin. 1 indicações previstas."
 permalink: /news/amoxicillin/
+last_modified_at: 2026-10-27
 ---
 
 # Notícias sobre Amoxicillin
@@ -26,7 +27,7 @@ Esta página combina as indicações previstas por IA para Amoxicillin com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li>Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) (99.6%)</li>
+<li>Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amoxicillin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
