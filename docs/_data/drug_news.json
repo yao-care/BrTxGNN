@@ -15,7 +15,7 @@
     {
       "url": "/news/albendazole/",
       "title": "Notícias sobre Albendazole",
-      "count": 6
+      "count": 5
     },
     {
       "url": "/news/generic-cancer/",
@@ -25,7 +25,7 @@
     {
       "url": "/news/dementia/",
       "title": "Notícias sobre demência (dementia)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/ambroxol/": [
@@ -181,12 +181,12 @@
     {
       "url": "/news/biperiden/",
       "title": "Notícias sobre Biperiden",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/dementia/",
       "title": "Notícias sobre demência (dementia)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/bisoprolol/": [
@@ -352,12 +352,12 @@
     {
       "url": "/news/centella_asiatica/",
       "title": "Notícias sobre Centella asiatica",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/anxiety-disorder/",
       "title": "Notícias sobre ansiedade (anxiety disorder)",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/chlorthalidone/": [
@@ -480,6 +480,11 @@
       "count": 4
     },
     {
+      "url": "/news/small-cell-lung-carcinoma/",
+      "title": "Notícias sobre câncer de pulmão (small cell lung carcinoma)",
+      "count": 1
+    },
+    {
       "url": "/news/female-breast-carcinoma/",
       "title": "Notícias sobre câncer de mama (female breast carcinoma)",
       "count": 1
@@ -513,12 +518,12 @@
     {
       "url": "/news/entacapone/",
       "title": "Notícias sobre ENTACAPONE",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/dementia/",
       "title": "Notícias sobre demência (dementia)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/everolimus/": [
@@ -549,12 +554,12 @@
     {
       "url": "/news/flunitrazepam/",
       "title": "Notícias sobre Flunitrazepam",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/anxiety-disorder/",
       "title": "Notícias sobre ansiedade (anxiety disorder)",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/gadoteridol/": [
@@ -573,7 +578,7 @@
     {
       "url": "/news/gefitinib/",
       "title": "Notícias sobre Gefitinib",
-      "count": 6
+      "count": 5
     },
     {
       "url": "/news/generic-cancer/",
@@ -583,7 +588,7 @@
     {
       "url": "/news/dementia/",
       "title": "Notícias sobre demência (dementia)",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/gemcitabine/": [
@@ -839,6 +844,11 @@
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
       "count": 4
+    },
+    {
+      "url": "/news/small-cell-lung-carcinoma/",
+      "title": "Notícias sobre câncer de pulmão (small cell lung carcinoma)",
+      "count": 1
     }
   ],
   "/drugs/mometasone/": [
