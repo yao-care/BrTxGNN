@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre ansiedade (anxiety disorder)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre ansiedade (anxiety disorder). 3 notícias, 2 medicamentos relacionados."
+description: "Notícias de saúde sobre ansiedade (anxiety disorder). 2 notícias, 2 medicamentos relacionados."
 permalink: /news/anxiety-disorder/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Notícias sobre ansiedade (anxiety disorder)
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ansiedade (anxiety disorder)?">
-<strong>ansiedade (anxiety disorder)</strong> tem atualmente <strong>3 notícias</strong> e 2 medicamentos relacionados.
+<strong>ansiedade (anxiety disorder)</strong> tem atualmente <strong>2 notícias</strong> e 2 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -31,21 +31,13 @@ Esta página reúne as notícias de saúde mais recentes sobre «ansiedade» e l
 </ul>
 </div>
 
-## Notícias relacionadas (3)
+## Notícias relacionadas (2)
 
 ### [Segundo a psicologia, quem adora filmes de terror pode não ser mórbido, mas estar treinando o cérebro para lidar com o medo e a ansiedade num ambiente seguro - Super Rádio Tupi](https://news.google.com/rss/articles/CBMimwJBVV95cUxPWDJPanhSR1I1U0poNXFtWXZWM0pxMDhhdmNaT2lfMklxdU05RVRoRUo1clNYd0ZxTHA0cFdFVkpvX0JBN2xiTFhnckhKZFJFS1NnYkxLenpWVTJ2dmNwR05ma0RaR2wwNmRWb1VwQThqSlRZcHMzVnZmX2d1Q3k0Uloxc3ZpLTZZdndIZ01QM0VKNTVLcTI0U2d1azBRTE1WMmtHMU9Ib1NHb0R6cGtLRHQ2UEU3emFxTEp1czM5YjFSMDFqTUdPdkFMRTZERkI4ckFlRzhPWnNYS0RqdlZTXzZYN1RKVDltcWNyb3V4WmZETzNQbWVXSlFWemstV0h2d2NSZHNxdFQ3ZE5nM2xwLVBLR0JVLVdJc0U0?oc=5)
 
 2026-10-27
 
 Fonte: [Super Rádio Tupi](https://news.google.com/rss/articles/CBMimwJBVV95cUxPWDJPanhSR1I1U0poNXFtWXZWM0pxMDhhdmNaT2lfMklxdU05RVRoRUo1clNYd0ZxTHA0cFdFVkpvX0JBN2xiTFhnckhKZFJFS1NnYkxLenpWVTJ2dmNwR05ma0RaR2wwNmRWb1VwQThqSlRZcHMzVnZmX2d1Q3k0Uloxc3ZpLTZZdndIZ01QM0VKNTVLcTI0U2d1azBRTE1WMmtHMU9Ib1NHb0R6cGtLRHQ2UEU3emFxTEp1czM5YjFSMDFqTUdPdkFMRTZERkI4ckFlRzhPWnNYS0RqdlZTXzZYN1RKVDltcWNyb3V4WmZETzNQbWVXSlFWemstV0h2d2NSZHNxdFQ3ZE5nM2xwLVBLR0JVLVdJc0U0?oc=5)
-
----
-
-### [A ciência e a política por trás do pânico em torno dos alimentos ultraprocessados - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFMwdG1PZzRLeFAwNjkwRFd6a3piZmthaU1ZcGNjdy1OdFlOZ3BhWm16VGkzMDdZLVR6S19DdjNwbWpPcE1mQ3dCY2VXSHdHRV9SNkE3QnZUWTBITlR1VmVaakJGSV9qMTFQdlNwYnJxMThtRmx5U0JJNHctbjNuYUxsMmJtcG81X0U5YkhIbDZlc0ItWHd1MmFHMDRicC10TVRLaTFTc3Jsb3QyMW9JVjItUmxfVjZvWXpmc0h4ZmFaTUtzN2pxWUlVMGxVQ3J4amc?oc=5)
-
-2026-10-27
-
-Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFMwdG1PZzRLeFAwNjkwRFd6a3piZmthaU1ZcGNjdy1OdFlOZ3BhWm16VGkzMDdZLVR6S19DdjNwbWpPcE1mQ3dCY2VXSHdHRV9SNkE3QnZUWTBITlR1VmVaakJGSV9qMTFQdlNwYnJxMThtRmx5U0JJNHctbjNuYUxsMmJtcG81X0U5YkhIbDZlc0ItWHd1MmFHMDRicC10TVRLaTFTc3Jsb3QyMW9JVjItUmxfVjZvWXpmc0h4ZmFaTUtzN2pxWUlVMGxVQ3J4amc?oc=5)
 
 ---
 

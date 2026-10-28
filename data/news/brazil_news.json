@@ -1,19 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-28T04:36:15.150100+00:00",
-  "total_fetched": 90,
-  "unique_count": 90,
-  "health_related_count": 34,
+  "fetched_at": "2026-10-28T12:18:59.186515+00:00",
+  "total_fetched": 93,
+  "unique_count": 92,
+  "health_related_count": 35,
   "news": [
     {
-      "id": "f1a664c7d0a4",
-      "title": "Cinco pesquisadores da Ufal estão entre os cientistas mais influentes do mundo - TNH1",
-      "published": "2026-10-27T16:31:00+00:00",
-      "summary": "Cinco pesquisadores da Ufal estão entre os cientistas mais influentes do mundo&nbsp;&nbsp;TNH1",
+      "id": "2d4490ed3caf",
+      "title": "Tumor cerebral: por que os primeiros sinais podem passar despercebidos? - UOL",
+      "published": "2026-10-28T12:04:51+00:00",
+      "summary": "Tumor cerebral: por que os primeiros sinais podem passar despercebidos?&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWJfUG1VdVZEeE1NMkEtSmQzbV9wQjBsUlhJUTVJMlh3anlINVJ3QlF1allaeldDTG01MHhmbzJoVUJsWG8yajVESWFuQWhPajVncjFmYnVyb2s0OUJRa1Jvd050TGhfUDVET0s3S09MNkQ1cXgwbGhsNkttU0J6LUJoeF9Gd3FDY1lVbW5SUGZhekZZZW94cVpDa3NlRDcwcTlhMU80MHRCUXFrQ0JPWkpIcFoyQdIBsAFBVV95cUxQOGpXZFBhQVNuTXZHQ0dqLXJvb0huLUJlQVAtaGt6MFFScUJXT2NJVFFfZTZVUVlkUWM2akhFQ3RHWWsxc19Ka0VHS1IxeVJlckVxanRPcWxTaHgzT2hGbjRVU3RNdlFKQ1JtWmZlMGRTT1R3aFZWTDU0RDBzVVdkdHNwSHFEZFh6OHF5MVZTQUg1TW1kdFlJbUI1eUk4Mkl0VmdKY0hvM2NwNEN0M2xPRg?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGxHemItM2RYU1NHQUpIa1l5bEdfbVhTbWcxZk9sRkRTN1FzY25CS2RYLUF6UVk0azFsaVlIR3pzTGthVDNySUh6ckQ1Q3JvOVFUZGdXei1hUmIySWpzMF9GZ2lZelhoazF5WjlNeUdFZFdsZEloX2ZmWE01QmRyZngwVjN4djYzLU9iM1VKTUtwZ21ZM0JENGxPaDNHYkdGMXA3Mlh1ajlwMnA1eWpIRkE0RHBzQ0dDZ3k4S280MnA4UEkzNDlIVXMwU04?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cd9afaa21c12",
+      "title": "AVC: sinais de alerta e como agir rápido, segundo neurologista - Campo Grande News",
+      "published": "2026-10-28T11:30:00+00:00",
+      "summary": "AVC: sinais de alerta e como agir rápido, segundo neurologista&nbsp;&nbsp;Campo Grande News",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEpjUEJtRWh2blN1QTlkbFVrRWNkdkNWNGVJOUl0eEdTTjdYUG1XLXotRGFCdGtTTmVQTGF5aE1qb21GUzJrMVY5Ql9tZGdVcXEySTlRZWxJUldreXQtUlphTjJOUGJiUVNOMnhhd3dkTWZIbHBodDFVV2FjZHJoUlEtbDFyRzE2dElFc3Z6VXRWMkgzS2tLcEdfQTk2dnBsT05B0gGjAUFVX3lxTFBHYy00RlFjTU5pMUljVU5hU1ZxSXRja21hT0JwdGhOXy1tVHpkYkVNYmVYejZ2NTRRN2trZ29CU1VTY0RwdlBIUFJoeWdSaXNNdkdOWExGOEJyN0hvSjdvMTNSNkVjWkdXREJsUzlfcDl0OXFBdmxBSGxlRjlPd0xUQWNrNUhHS1NHMGZLTzZTU2FvbHk1U2tVUlNKRU5Lc21NcW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "367b22f1cd3d",
+      "title": "Como menopausa afeta a saúde mental da mulher: 'Sentimento de culpa' - UOL",
+      "published": "2026-10-28T08:31:00+00:00",
+      "summary": "Como menopausa afeta a saúde mental da mulher: 'Sentimento de culpa'&nbsp;&nbsp;UOLMenopausa pode afetar saúde mental e provocar alterações de humor&nbsp;&nbsp;G1Névoa mental afeta memória e concentração durante a menopausa, mostra pesquisa&nbsp;&nbsp;agenciasp.sp.gov.brQuando a memória falha, a mulher precisa ser ouvida&nbsp;&nbsp;RdnewsNévoa mental na menopausa afeta memória e exige atenção médica&nbsp;&nbsp;Fato Paulista",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGt1Z2ROc2hNQ1NWZGpjTTJGV1pOTXpvVjkzMklQWXhMRWFxVzVFNWd0X3ZTNGkwUjd0WlFxQ0Y4YUQxUDg5SEVhLThoQVpGSUpaZ0RTNEtOT1NKQTloQ2lRaFJ6QUZvZXBpajRHLS1rS1hFbG0tVGZ3X2dkRTFWWkdUdlJ4QlZiTDY3WFRXUHY2eFItc0gyWmhQaWVTOFp3d1gzUTJNd2RGR3IyckhDUXNfdTJYQnM4M0xXZTJfa214dkJlQ0M1Qw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68691f72d883",
+      "title": "Açaí: a fruta símbolo da Amazônia tem benefício e risco que a ciência já comprovou - Portal do Holanda",
+      "published": "2026-10-28T06:44:00+00:00",
+      "summary": "Açaí: a fruta símbolo da Amazônia tem benefício e risco que a ciência já comprovou&nbsp;&nbsp;Portal do Holanda",
+      "sources": [
+        {
+          "name": "Portal do Holanda",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ1ctZWV0U0h0bGJORFQ1cU5WQXVqSXJ1Z2szM2pDZjBLU1U1bDl1ZTNVLWI4WWFkbS1JZzNfNVIzVmR2b3p0YU5SaW9XWkhzSnBFb2Q0RG5fbzVqUk9RV3RMZmlKY0N2dmZGbTJsUHFRSXhRbGx3ejdMemgzVlB1SXl0V1Y1Q1hvenl0MFZoZ0FfT3l2YmRMcFBhM0pIU2RBM2ZOU0NTOVpmNjJFVWtuOEVINXR1TXJ2ajMtOXNMMTkyWEtsdHVYNG1nYTZYUTVh?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be1c37699910",
+      "title": "Crise climática causa danos cada vez maiores à saúde e exige emergência sanitária global, apontam cientistas - G1",
+      "published": "2026-10-28T03:00:00+00:00",
+      "summary": "Crise climática causa danos cada vez maiores à saúde e exige emergência sanitária global, apontam cientistas&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSXY3WDJsQmNVNng2RWI3aDNrSUJQZEM0SUxSMklITktiMklUUy1VS05WUmZFdGRGRHJmVE9PUndTM2RlQ3gyTDBoRVZUWnZvNUpOdnByV08zaVg0SjZYTEVWV2pldlhsdURrUjFEZkl0aFhxRHN2UXNDRWRWbmhGd2ppSWhFX1BYUHRKcHlzZ01JN3JnZEZDQnhTV0FTb1RuX3Y0RHZaN2F5UVpHN21zb0wwYldXLTdrb2tHRE9LdGF4U1JTai1wYVFLRXMzdTg3UTU2eTRIUHBIdEFlR0ZWUVZvVk02THJQbjNzbzNfNlFpVDRvVWFLVWtTa9IBigJBVV95cUxQMEIyZVNyc2VpVnYxc0RNQVc3bHc4dzdSdHFSR3o5LVBHN0JRcWc3al9uVVZCZGw2dnVxejZyVk04X2pfc0tadWkwUFZiS1dyMklMeWxrelJUNXNhekg2WkdpS2ZSU1ZGUWdISEtSaElBVWpsT2tXV3Q4a1VNbEdMOUZuRFk1TERmRXBaMjgtS2Vyemp4TTZRUm1MSnpTbXpwWlFsRHV5VldjeUFuV1ZzSERNSVh5Y2tXNklnVHJ2cVVXZzQySXRTaS1rOGl6Z1dFcDdyT3hmS1B2M19RTzlNZ1BlSTN5VWx4NENZdlFqcnB4TTc0TElIRE5nMy1aQTQxc1loRFVOOEp3Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7fc2f7c9f00a",
+      "title": "Após psicóloga falar sobre não selecionar petistas para empregos, Conselho diz que repudia discriminação e que caso será apurado - G1",
+      "published": "2026-10-27T19:22:43+00:00",
+      "summary": "Após psicóloga falar sobre não selecionar petistas para empregos, Conselho diz que repudia discriminação e que caso será apurado&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeTYzTER1MGF4dUUwOVdlNV9MOVM1SUZzYW5mUlRQb0xQRHVPa0VFR1NrSTJrT2Z3RTByZlBtOTMyX2xxQjJ2VzIwREJKTG92Zld5NmdtaGNUSUZfdlQyY1d5RzlodTN1X3pIeDhMRF8tUUxjZzNFdjRwNzExY21UWjNiUFlpemJJNmRjcmpRZUIxYnE2UHNfVG1tblRZclktTEIxNU5MYkFDZDZxZlhaYlBqamMxZmdHZFh4azE0WW53N2ROaVMyd0lmZXIyS244YzEwUWRZWG5iS0hFbzVWTmEzM1Z2MWhNUVhLbmIyTkFSX1JGc2ZYcW9GVndKNGQ5WlFaTnJ4U3pYVFlEWldXd0ZtMXdNbGpwa0ZyatIBqwJBVV95cUxOaDlHQXJ2TjZ0TVM4SzdpVmRwdUhXakE4OHdqakFFWWExWVJiS3FWd2RRcVFpcTllLUlrbFNWRWF0LTVOampnOGdBd19iQmpBeW9zMDF4Q09mS1ZndEpiekZCV0hrdGdxSU9XN2o0dlJOQ2YzLVhrYk1wZFJPa3lFTEE0UVY3MG9panMycWdPdTFVUkkyUHc3RWVMdlctQ1N1Y1g5TkVPQ1E4NUxTMlpjY09xT29FbFVNSU1rdW5UVk9PckFKSmJrOV9LREdqbTJLcjVFTDNVZ2tpTkcxckNONDVfLVJyN05GLTJ5NDZHa2xGQlVPVGtxbjlIZ2hJdlFqRHdYYlBxUy1taGtEanUtNVpLaGZGRUd5Vk1hMDlTUEJsM0NsMnNnVXUzQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bfe73a591b1f",
+      "title": "Cinco pesquisadores da Ufal estão entre os cientistas mais influentes do mundo - Cadaminuto",
+      "published": "2026-10-27T15:08:00+00:00",
+      "summary": "Cinco pesquisadores da Ufal estão entre os cientistas mais influentes do mundo&nbsp;&nbsp;Cadaminuto",
+      "sources": [
+        {
+          "name": "Cadaminuto",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPckFBR2lBUVZKMk1PT1owUkVYOFROOEd2YTAzVTROd3Iyc1pFaFQ3N3FOc1ptNktZZTRHR19PaEZ4d0NQODBsSnZ4UlFJNDBlQjQxQ2ZWb21PX3pWSmJGWElTUEhjX3EzWkxBeHJJZkpwRy05NDgzYnpmRXRGSzhDeGItV2tWQ1hNTTFydlNDN2JkT3B2bGYxa3VoeU9DcGZQRmsxcTExRU9IVkttS3gzUGZrVG5yRVAzYTR2T3dVOXJ4VzJKUFE?oc=5"
         }
       ]
     },
@@ -45,7 +117,7 @@
       "id": "b3effd86e88a",
       "title": "Spray nasal feito com composto psicodélico de veneno de sapo alivia rapidamente sintomas de depressão; mostra novo estudo - O GLOBO",
       "published": "2026-10-27T14:12:15+00:00",
-      "summary": "Spray nasal feito com composto psicodélico de veneno de sapo alivia rapidamente sintomas de depressão; mostra novo estudo&nbsp;&nbsp;O GLOBOSpray nasal com psicodélico derivado de sapo do deserto é bem-sucedido contra a depressão&nbsp;&nbsp;VEJASpray nasal à base de veneno de sapo pode aliviar depressão por semanas&nbsp;&nbsp;MetrópolesVeneno de sapo para depressão: o que dois ensaios mostram&nbsp;&nbsp;cienciadefato.com.brSpray nasal com substância presente em sapo tem resultados contra depress",
+      "summary": "Spray nasal feito com composto psicodélico de veneno de sapo alivia rapidamente sintomas de depressão; mostra novo estudo&nbsp;&nbsp;O GLOBOSpray nasal à base de veneno de sapo pode aliviar depressão por semanas&nbsp;&nbsp;MetrópolesSpray nasal com psicodélico derivado de sapo do deserto é bem-sucedido contra a depressão&nbsp;&nbsp;VEJAVeneno de sapo para depressão: o que dois ensaios mostram&nbsp;&nbsp;cienciadefato.com.brGCN: Spray nasal com composto psicodélico é testado contra depressão&nbsp",
       "sources": [
         {
           "name": "O GLOBO",
@@ -90,14 +162,14 @@
       ]
     },
     {
-      "id": "95ffad67cd27",
-      "title": "Astrônomos descobrem a primeira estrela verde escondida pelo universo - Diário do Nordeste",
-      "published": "2026-10-27T12:00:49+00:00",
-      "summary": "Astrônomos descobrem a primeira estrela verde escondida pelo universo&nbsp;&nbsp;Diário do Nordeste",
+      "id": "f2c8ae9d0ac4",
+      "title": "Anvisa aprova ampliação de uso do Implanon de três para cinco anos - UOL Notícias",
+      "published": "2026-10-27T12:03:53+00:00",
+      "summary": "Anvisa aprova ampliação de uso do Implanon de três para cinco anos&nbsp;&nbsp;UOL Notícias",
       "sources": [
         {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONHp3Tl9nYmFBWF9nVHhLZUNSaVJERHFtZVVueUhpXzRPQ0FIVkZvNjdGb2FkSkROT2lUbHhzWTdRNVpXRU5veTRNQkZuZldkeDFKZGYxeV9HODFxRzZvR1hfZy1iakIyOUIzVEJTV21vRlNoNTFydjlrMlcwNWlscjd0QkdMSW9DVDRPNktFdHZDQi02ZVhfWEtBZmY1YVpBUmhrR1Jtd3lKUFlfRnhMTnJPbmtRTFVuQzFYYl9fX29MTV92dW5TVlZfWVFBY1pOekc0SkZOTkktZkZ6ZGswVWdnUFBlRER0cUtaTW5SUlhuUQ?oc=5"
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMnp1UHU0NXBoMzNsUkV6RUpPclF4R0dKMDhlMXBkTlpXOEktSjBkRzgtOG1hcXN2MlhaX3oxQjVsTXZKU3hsb3JHY2ZvY0RiMWs3dm56UmpyNUhacUdVRVhxbjNHZHNDLWdjRmoyWDFhSjRLa1ZvZFZyeGdLQXo4bDYxQy10a0NNZFhYMXRtdXNRbVpVU3dJSV9ZLUQ2N2pMQXBiNzU1X1dscFZzRVVScGlZdHVpOVZVUERlSFppdTA4dmM?oc=5"
         }
       ]
     },
@@ -114,18 +186,6 @@
       ]
     },
     {
-      "id": "dca5eb99d874",
-      "title": "Com 12 medalhas e aprovação na USP, estudante de Fortaleza busca vaga no ITA - O POVO",
-      "published": "2026-10-27T11:00:00+00:00",
-      "summary": "Com 12 medalhas e aprovação na USP, estudante de Fortaleza busca vaga no ITA&nbsp;&nbsp;O POVO",
-      "sources": [
-        {
-          "name": "O POVO",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX1FRaXpzbzhVNS02TWVnM1lLc0xhUE41c3lqalVNdUdrak5kZHhwemNHOVk0NHFKNDRpVjJWc3lia0lOdWJSS0ZSSGFBWHdyQ1h4RkZDdkl0d29ZTEFlRkliX1RvMHFCQW9PWWMyWUtQeVdhU2FtanlyVXQyT0ZVLWhXWk5sUWhvTUZCSHA3cGRwNmRrSEJWRzR5UDlPbWRZUkdwMTk3Q0hPQkRINUpRZ2RER0lNVlM1clB5bDMzTjVaemV5MEFaWHlPbld4YWNE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a9817cea1539",
       "title": "Ajuda na circulação, tem antioxidantes e favorece o intestino: conheça cinco benefícios de vegetal comum na alimentação - Jornal Correio",
       "published": "2026-10-27T08:20:00+00:00",
@@ -134,6 +194,18 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQURoTnlFZEI3N0k4QWpoMlVKWURpSTMwUkpCMjFKOVFMeXVoTGp2cExPa3h1NlRUcWpRRnI1QnpIZE9rcTg4RkJBWmhZcGRxQUhqc3daWnU1YXdXV1BXUUhBNktrSGh3b2JDVkh3ZDJuaFpsNy1HVjBZeE0waHpDSlEyZGtKWVVSVGFza0haUzVMVmZRQlpDM0pUT2NaVDEwVkI3Zi1lbDktWFhIdl8yWVRrZzBmV0RLRHBnM0lXSUkyUzlwaFoySDFoc0lobHhfeUZaY1ZZMW1RZDliZl95dFNHNFo0S2o2M1pLVFlnS01aMDh6?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fe6169229d93",
+      "title": "A ciência e a política por trás do pânico em torno dos alimentos ultraprocessados - Folha de S.Paulo",
+      "published": "2026-10-27T07:00:00+00:00",
+      "summary": "A ciência e a política por trás do pânico em torno dos alimentos ultraprocessados&nbsp;&nbsp;Folha de S.PauloUltraprocessados podem influenciar resposta do cérebro aos alimentos, diz estudo&nbsp;&nbsp;Assine AbrilAcreditávamos que, quanto mais processado fosse um alimento, pior ele seria. A nutrição está complicando essa ideia&nbsp;&nbsp;TerraConsumo de ultraprocessados acende alerta para o risco de câncer&nbsp;&nbsp;Rádio Rio MarConsumo de ultraprocessados está associado a doenças do coração, d",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFMwdG1PZzRLeFAwNjkwRFd6a3piZmthaU1ZcGNjdy1OdFlOZ3BhWm16VGkzMDdZLVR6S19DdjNwbWpPcE1mQ3dCY2VXSHdHRV9SNkE3QnZUWTBITlR1VmVaakJGSV9qMTFQdlNwYnJxMThtRmx5U0JJNHctbjNuYUxsMmJtcG81X0U5YkhIbDZlc0ItWHd1MmFHMDRicC10TVRLaTFTc3Jsb3QyMW9JVjItUmxfVjZvWXpmc0h4ZmFaTUtzN2pxWUlVMGxVQ3J4amc?oc=5"
         }
       ]
     },
@@ -150,18 +222,6 @@
       ]
     },
     {
-      "id": "fe6169229d93",
-      "title": "A ciência e a política por trás do pânico em torno dos alimentos ultraprocessados - Folha de S.Paulo",
-      "published": "2026-10-27T07:00:00+00:00",
-      "summary": "A ciência e a política por trás do pânico em torno dos alimentos ultraprocessados&nbsp;&nbsp;Folha de S.PauloUltraprocessados podem influenciar resposta do cérebro aos alimentos, diz estudo&nbsp;&nbsp;Assine AbrilAcreditávamos que, quanto mais processado fosse um alimento, pior ele seria. A nutrição está complicando essa ideia&nbsp;&nbsp;TerraConsumo de ultraprocessados está associado a doenças do coração, diabetes e ansiedade, diz revisão&nbsp;&nbsp;Tua SaúdeAlimentos processados: saber escolhe",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFMwdG1PZzRLeFAwNjkwRFd6a3piZmthaU1ZcGNjdy1OdFlOZ3BhWm16VGkzMDdZLVR6S19DdjNwbWpPcE1mQ3dCY2VXSHdHRV9SNkE3QnZUWTBITlR1VmVaakJGSV9qMTFQdlNwYnJxMThtRmx5U0JJNHctbjNuYUxsMmJtcG81X0U5YkhIbDZlc0ItWHd1MmFHMDRicC10TVRLaTFTc3Jsb3QyMW9JVjItUmxfVjZvWXpmc0h4ZmFaTUtzN2pxWUlVMGxVQ3J4amc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5df5c9ad7457",
       "title": "Anfíbio de 237 milhões de anos pode ter sido o primeiro a viver só no mar - G1",
       "published": "2026-10-27T06:30:00+00:00",
@@ -170,6 +230,18 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDRvWHlpZ0w5dFhydUhWQ3JWTndkNkNLQ3lMWlUyLU5JRlpKZEdMNTRuemN3YUFJdVdUOUR2ay1Ba2h4dU1ncXJvaHVZZjhTXzRiajlYU3hTQVBrZ1hoZXRhcEdnejNGdUo5WlFPMjhlUm4zTEpIQ1VyRVVxREJwTVp2WFYwRW1Pb091TlQxQkhKS0F3NzN3Q0NVZTMyekFJVU9lR2xFdFV4OEV3c1lKWWdIR0xkaTRBMnRfa0tCUDdoTTQ2SmfSAdQBQVVfeXFMT0ZQa1FrSGRFWERxVzh2Wldaa25XXzdrdEFyTzNodlFYTkZ1dEZ2bHI4NXB2WEE3bEZfWlZucGFZNFkxSU9XT1JRR3hpZGhhSEI2eVFCUElERHFWMzAwMjh1Z2dVUjVtZnNwTkcxcjZtRHNoTVludGJlUlJyUnFTaXVLbE1XOENLTWluOGFSbkt3VnlrYVhNM2xnWmRFNUVGb3o2eHBzcHFjN1ZScm9DenFSLWFmTVBBZlFqazJNQ2oxNW1FcC1FaVF0QUV2Q0gwQm8yMm4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86f50cb06e5d",
+      "title": "Retatrutida: será que é mesmo o novo remédio para emagrecer que você está usando? - R7",
+      "published": "2026-10-27T05:00:01+00:00",
+      "summary": "Retatrutida: será que é mesmo o novo remédio para emagrecer que você está usando?&nbsp;&nbsp;R7Medicamento de última geração da Lilly supera o Ozempic em perda de peso e controle da glicemia em estudo clínico&nbsp;&nbsp;TradingViewRetatrutida para obesidade: o que é e por que ainda não foi aprovado?&nbsp;&nbsp;BOA FORMA",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjJCd3dFUU1iRnlBdVRGaGRsOHE3Wlc0TGcyd1BQb2hrcFpTMDJsd0h4OGtyMFhjdmxvZ2hsNlhlUzRpQkVXTllYNEwzM0V6Z0t0ZTZ3elpneEsydFNwd2t6ZWItWWRUVVlIZTRNVWdPWFdKZEFpZG9xOEVRd3pyMVlkRXBZZUs2Mk1XcG4zVE5aVTJuU294VWh3X0RPSFVadFJNaU1PQ042WkZW?oc=5"
         }
       ]
     },
@@ -210,22 +282,10 @@
       ]
     },
     {
-      "id": "40a51f00da42",
-      "title": "Menina de 4 anos morre com suspeita de meningite em Goiás, diz secretaria - G1",
-      "published": "2026-10-26T22:52:15+00:00",
-      "summary": "Menina de 4 anos morre com suspeita de meningite em Goiás, diz secretaria&nbsp;&nbsp;G1Criança de 4 anos morre com suspeita de meningite em Inhumas&nbsp;&nbsp;G1É assim que uma inflamação grave se manifesta: a rigidez no pescoço é um sinal de alerta&nbsp;&nbsp;Tua SaúdeMenina de 4 anos morre com suspeita de meningite em Goiás&nbsp;&nbsp;iG Último SegundoSecretaria de Saúde alerta para vacinação contra meningite após 33 mortes no ano&nbsp;&nbsp;CBN Goiânia",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRF9wZ3lGQkZLOHpvVVppTXloQUZwTkNHUEl2ektSRkxYcS16ZVNNWmFTbnluQnFMQWZXU3l6VDVIWkFKbTJwUmtfRzhmUVZqVm5rMkNIb1NkaGF6UTB3Qjd1WnV2VlBIeGVIVlJGajN4SGl3ZnM1Z3JvVG9rRm5nU2tFQmVWdzRGWHA4am1Zci1ndzh3LXZFQWR5LUJBZ2hVdjZjWFZ2amg5YmpZemZiRGxEWkc5MkNfVGI2TVF3QkxEVG9MSWfSAdQBQVVfeXFMTmVvM3g0Z3p0WW5QY1ZXZzV5LXM4S0NYdkJXX1NMclJfR2ZYbEtMcEljTkZCTkNINFVXekJCaXVEc2xseGEtbHlUM1NVd0JkYk94QWFaUzBZc2ZfQ2wwaE1KZU5NZXp0V1FJN2EyR1RoUlVUTnNLcXVSSW9QVC15Y09fRTNUVWxiTVVlS1BRRkV4ckRZRVJOUUtsU3FoX1pFUlJSSmVvSGFmUllwOFBoQlRRY1Fycl9kQ3ZuUVYwNHNEQkJNb1RxZnpxLXZnVGt1aWp3Nnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5b6659ef8232",
       "title": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta - Agência Brasil",
       "published": "2026-10-26T21:34:00+00:00",
-      "summary": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta&nbsp;&nbsp;Agência BrasilMais de 3 milhões de adolescentes não receberam segunda dose da vacina contra dengue&nbsp;&nbsp;G1Três milhões de brasileiros ainda não tomaram a segunda dose da vacina contra a dengue&nbsp;&nbsp;R7Dengue: RN tem aumento de casos e Natal tem baixa vacinação&nbsp;&nbsp;Tribuna do NorteMais de 3 milhões precisam completar vacinação contra a dengue&nbsp;&nbsp;A Crítica",
+      "summary": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta&nbsp;&nbsp;Agência BrasilMais de 3 milhões de adolescentes não receberam segunda dose da vacina contra dengue&nbsp;&nbsp;G1Três milhões de brasileiros ainda não tomaram a segunda dose da vacina contra a dengue&nbsp;&nbsp;R7Dengue: RN tem aumento de casos e Natal tem baixa vacinação&nbsp;&nbsp;Tribuna do Norte28/10/2026 | Dengue, Implanon e IA no infarto&nbsp;&nbsp;Afya | Home",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -234,38 +294,14 @@
       ]
     },
     {
-      "id": "becc9e3472bb",
-      "title": "Pesquisa em física quântica realizada na UFGD ganha destaque internacional - Portal UFGD",
-      "published": "2026-10-26T20:50:48+00:00",
-      "summary": "Pesquisa em física quântica realizada na UFGD ganha destaque internacional&nbsp;&nbsp;Portal UFGD",
-      "sources": [
-        {
-          "name": "Portal UFGD",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHk5TUttaFRKYlJoTVJjWThvRmF1OUo1N3NOdjRpNGttT1Q3aWJEZnRxR3ZpNDlyUkpBZ1lwMkFTQ0dUZktmbl9jSFR1NWFzZWl4WS1qd1J2aWJUVkVDZktwOEVKZ2dLa094QVZfRmJkbi1FTXpCZTY5WkJIdmg1RTlfSXppRnF4RnlfRWlVXzR2ZTZUTkhPY2VmRGY5T1ZsOFIyMzJsZ2tRczk3ZmhJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "11449dfea6ed",
       "title": "Estudo identifica novo subtipo de depressão ligado ao relógio biológico - CNN Brasil",
       "published": "2026-10-26T18:38:06+00:00",
-      "summary": "Estudo identifica novo subtipo de depressão ligado ao relógio biológico&nbsp;&nbsp;CNN BrasilAnda dormindo mal? Novo estudo mostra que alguns hábitos de sono podem sinalizar um tipo específico de depressão&nbsp;&nbsp;O GLOBODorme demais ou acorda exausto? Entenda o que é a 'depressão circadiana'&nbsp;&nbsp;TerraEstudo sugere relação entre hábitos de sono e subtipo de depressão&nbsp;&nbsp;Diário do Centro do MundoDepressão circadiana associa padrão de sono à resposta antidepressiva&nbsp;&nbsp;Afy",
+      "summary": "Estudo identifica novo subtipo de depressão ligado ao relógio biológico&nbsp;&nbsp;CNN BrasilAnda dormindo mal? Novo estudo mostra que alguns hábitos de sono podem sinalizar um tipo específico de depressão&nbsp;&nbsp;O GLOBODorme demais ou acorda exausto? Entenda o que é a 'depressão circadiana'&nbsp;&nbsp;TerraEstudo sugere relação entre hábitos de sono e subtipo de depressão&nbsp;&nbsp;Diário do Centro do MundoDepressão circadiana: o que o estudo revela sobre o sono&nbsp;&nbsp;Manual do Homem ",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0pTbXEzdmh0SzBEbmwxZ3JoX3R1V1VDTGU4ZnE0ZjJCeEc5Ny1GLTAzcnRUaEVTUDc1b18zUnVFT2VMWFlOT2xuT0lfTDJyX1YyWS03QVBncG1IbElzWUJPRUI5ellIaVBTWUVUc3VpYTh6eXpNeDdYQVBFTmt0dlBZMjFwX0lRZm03eGc1Q2pYZ19LR1RDWkpHcVV4N2cwczdyZlQ4eGlRS0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28b9015056c5",
-      "title": "'Mais tatuado do Brasil' passa pela 1ª sessão de quimioterapia para tratar câncer na bexiga: 'Me sinto muito bem' - G1",
-      "published": "2026-10-26T18:14:25+00:00",
-      "summary": "'Mais tatuado do Brasil' passa pela 1ª sessão de quimioterapia para tratar câncer na bexiga: 'Me sinto muito bem'&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUlFlUFg3RzRvaGtadFZWVjFwWGxVOVduX3J5US1MQXJBeFBOVy1aSUdrV2MzOWI1WW41QjdhSmhOajNPU2JpNTJReDFxS25UZEZGX2Nob2ItVko4RnJZc2VEaW92d19hYnRzaVFSck5LTHBaQWNiemtnSW9WX0h3eW1NVmJDYkZjcmhwS2Z4dzBBR2x2YjdfdDVwUG1RNWljOWpSQmk5b3ExcVlKbW52OWNaZlBoOTgzbTNNbXluZ0hUdTR0VTdfeEtCQ0NLdGZhanhaQ28tXzlaeW1RTDhnY054V1RjclJNMXhjMElmX1Z5ZFJKR3JrZk5FQXhqbkx4dEFWS3FB0gGUAkFVX3lxTE9QSzVYQmpKWkJHNGQzNUVUYXdDTUtYd0laYzBOd3kxQjRna2MyV0piMWxlX1V0cEV2NmpSLVNjUzZ5T0ZCVUpGZjRSR0hRbjJCTkdWOElRVFlnMVd6bjM1eVR5UG5hSmJtOEp6WWhKY2JOQUtyVUE2VnFhSDRNdWVXR0VNSWw0OGdwaFd4WEtvcXl0TFA0X0FUNktsRkItRFNpQzk1bWlQUFlldHFVTm1hSXNzN25tZ1pIcTlmZkJwMzFOcTIwcFRhQVdCVVkya0MwX3Z0MzcwcnVpYVRtbFZMdDN5azdFR0ZVci1FUFl5TUZtYzRlWWRXdkZ1Y29nS1BUbXZQN1Zqemh6aF96ZktHbE1XdQ?oc=5"
         }
       ]
     },
@@ -285,23 +321,11 @@
       "id": "f21993095369",
       "title": "Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda - O GLOBO",
       "published": "2026-10-26T17:20:40+00:00",
-      "summary": "Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda&nbsp;&nbsp;O GLOBOAspirina pode reduzir demência em idosos, mas traz riscos, diz estudo&nbsp;&nbsp;CNN BrasilRemédio comum encontrado em muitas casas chamou atenção após estudo apontar possível redução de até 70% no risco de demência&nbsp;&nbsp;Tribuna de MinasAspirina é associada à redução de até 70% no risco de demência em grupo de idosos, mas aumenta sangramentos&nbsp;&nbsp;Em Tempo NotíciasEstudo revela que as",
+      "summary": "Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda&nbsp;&nbsp;O GLOBOAspirina pode reduzir demência em idosos, mas traz riscos, diz estudo&nbsp;&nbsp;CNN BrasilRemédio comum encontrado em muitas casas chamou atenção após estudo apontar possível redução de até 70% no risco de demência&nbsp;&nbsp;Tribuna de MinasRemédio para dor de cabeça reduz risco de demência em um determinado grupo de idosos&nbsp;&nbsp;Acorda CidadeAspirina é associada à redução de até 70% no ri",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9078049222d1",
-      "title": "Corvos tomam decisões duas vezes mais rápido que humanos, conclui pesquisadores da Alemanha - CNN Brasil",
-      "published": "2026-10-26T06:34:32+00:00",
-      "summary": "Corvos tomam decisões duas vezes mais rápido que humanos, conclui pesquisadores da Alemanha&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZXU3dzNYZ3ZWMFcxbmRrTUE2VU9zaFhBOGFWNjdSMkVRb1ZfeTBkbGhJS29ETnAyS3dXN3RJaVA5UXY1b2VreGlWVnpPZXRyZHNld2ZjQngxWlZVTnpPY1l1T3h1SkxvWHVXTDk2c2xfQVE2ZWRFS1NRZTVmMHgxNHdkQzVmOXI0VUh3ZEF3TkZHVFlyZ2otWS1CeEFlNVJXdmdyREtXcjMyWDF4T2ZzNmxHX3hRVGEyUmhrT0NEbU5pb2xteEJV?oc=5"
         }
       ]
     },
@@ -314,18 +338,6 @@
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPcXdLOHJ5YUl6dUdVMENhNEo3by1nUFZPWE1lTGhWbHdyZGxuVVhxSDEyMFU5MGg5ZTQ0eXE3b2d1Wk9sX2FzcFF5NVR6ZDdCb0pHZFlSZm5ETU80ZnEwNHp4TXQzNE9kakE1TzdyLUFvU1VfXzRnbWlGZko1OF9GQjFnS3p0R1VTbTdycjlyU2QwbmhtZEoyb09FODV6VHZ4YUd5d2M1dVZoVzc3aTk2ZmdtSk95X3d3Nk4yZjhUY1FpUUJKdFhGQXlxb0ZReW14djFkQ2l4NjBuODk5ZmpkTEpiaVpGcmRWZ090Wl9FRUFMd2Z2LU1yNEsySmg1ZkFONlEtN09URFRaZHV4OTJybHRkZllSWUw0a1RpTjBBckhVTV9pSWZGWldqUnRVSkhGbjIyTG95R0R6WC1NdmFDTjlMb0Q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "87b6bcd2531a",
-      "title": "Subestimamos a ‘Geleira do Juízo Final’: estudo revela que derretimento na Antártica pode elevar nível do mar no dobro da velocidade - Xataka Brasil",
-      "published": "2026-10-25T13:02:11+00:00",
-      "summary": "Subestimamos a ‘Geleira do Juízo Final’: estudo revela que derretimento na Antártica pode elevar nível do mar no dobro da velocidade&nbsp;&nbsp;Xataka Brasil",
-      "sources": [
-        {
-          "name": "Xataka Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT21qZFMwOE9Vb0hzMnZhY29kRmJaUklVMjhWTzhUOUxOT0lCYmlhRExJMUN4Vkx4NFJKOGdoSWo5WVJlN25LcFdNVlB1MVA2UDdGZXB3em9xbmxWQWxURTFBNWVYaHptTlp1eGx2YTU4NlpsdXRabDRoM3laVjZORUtNVnFCbEFEY0lzM2ZpaGFmYXlxc3EwQzJsTXlCWjB5dVkwMmdmWXdvRTFQcEV0ZzlEUmNady1rNWM0bUM2SDdsQV8xZlZxVjhkT1o1bkc1RHJqZkZtLTQwNUNVaXBkbWV6OGx0dGQwTThpdl9Wa1gxNlhqcmc?oc=5"
         }
       ]
     },

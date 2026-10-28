@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Centella asiatica. 0 indicações previstas."
 permalink: /news/centella_asiatica/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Notícias sobre Centella asiatica
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Centella asiatica?">
-<strong>Centella asiatica</strong> tem atualmente <strong>3 notícias</strong> e 0 indicações previstas.
+<strong>Centella asiatica</strong> tem atualmente <strong>2 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ Esta página combina as indicações previstas por IA para Centella asiatica com
 <p><a href="{{ '/drugs/centella-asiatica/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (3)
+## Notícias relacionadas (2)
 
 ### [Segundo a psicologia, quem adora filmes de terror pode não ser mórbido, mas estar treinando o cérebro para lidar com o medo e a ansiedade num ambiente seguro - Super Rádio Tupi](https://news.google.com/rss/articles/CBMimwJBVV95cUxPWDJPanhSR1I1U0poNXFtWXZWM0pxMDhhdmNaT2lfMklxdU05RVRoRUo1clNYd0ZxTHA0cFdFVkpvX0JBN2xiTFhnckhKZFJFS1NnYkxLenpWVTJ2dmNwR05ma0RaR2wwNmRWb1VwQThqSlRZcHMzVnZmX2d1Q3k0Uloxc3ZpLTZZdndIZ01QM0VKNTVLcTI0U2d1azBRTE1WMmtHMU9Ib1NHb0R6cGtLRHQ2UEU3emFxTEp1czM5YjFSMDFqTUdPdkFMRTZERkI4ckFlRzhPWnNYS0RqdlZTXzZYN1RKVDltcWNyb3V4WmZETzNQbWVXSlFWemstV0h2d2NSZHNxdFQ3ZE5nM2xwLVBLR0JVLVdJc0U0?oc=5)
 
 2026-10-27 <span class="news-indication-tag">ansiedade</span>
 
 Fonte: [Super Rádio Tupi](https://news.google.com/rss/articles/CBMimwJBVV95cUxPWDJPanhSR1I1U0poNXFtWXZWM0pxMDhhdmNaT2lfMklxdU05RVRoRUo1clNYd0ZxTHA0cFdFVkpvX0JBN2xiTFhnckhKZFJFS1NnYkxLenpWVTJ2dmNwR05ma0RaR2wwNmRWb1VwQThqSlRZcHMzVnZmX2d1Q3k0Uloxc3ZpLTZZdndIZ01QM0VKNTVLcTI0U2d1azBRTE1WMmtHMU9Ib1NHb0R6cGtLRHQ2UEU3emFxTEp1czM5YjFSMDFqTUdPdkFMRTZERkI4ckFlRzhPWnNYS0RqdlZTXzZYN1RKVDltcWNyb3V4WmZETzNQbWVXSlFWemstV0h2d2NSZHNxdFQ3ZE5nM2xwLVBLR0JVLVdJc0U0?oc=5)
-
----
-
-### [A ciência e a política por trás do pânico em torno dos alimentos ultraprocessados - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFMwdG1PZzRLeFAwNjkwRFd6a3piZmthaU1ZcGNjdy1OdFlOZ3BhWm16VGkzMDdZLVR6S19DdjNwbWpPcE1mQ3dCY2VXSHdHRV9SNkE3QnZUWTBITlR1VmVaakJGSV9qMTFQdlNwYnJxMThtRmx5U0JJNHctbjNuYUxsMmJtcG81X0U5YkhIbDZlc0ItWHd1MmFHMDRicC10TVRLaTFTc3Jsb3QyMW9JVjItUmxfVjZvWXpmc0h4ZmFaTUtzN2pxWUlVMGxVQ3J4amc?oc=5)
-
-2026-10-27 <span class="news-indication-tag">ansiedade</span>
-
-Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFMwdG1PZzRLeFAwNjkwRFd6a3piZmthaU1ZcGNjdy1OdFlOZ3BhWm16VGkzMDdZLVR6S19DdjNwbWpPcE1mQ3dCY2VXSHdHRV9SNkE3QnZUWTBITlR1VmVaakJGSV9qMTFQdlNwYnJxMThtRmx5U0JJNHctbjNuYUxsMmJtcG81X0U5YkhIbDZlc0ItWHd1MmFHMDRicC10TVRLaTFTc3Jsb3QyMW9JVjItUmxfVjZvWXpmc0h4ZmFaTUtzN2pxWUlVMGxVQ3J4amc?oc=5)
 
 ---
 
