@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Flunitrazepam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Flunitrazepam: nova indicação prevista, enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Indicação aprovada não registrada nos dados locais"
 ---
 

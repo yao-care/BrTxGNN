@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 20
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Acetic Acid: nova indicação prevista, Transtorno pós-bacteriano (post-bacterial disorder) (nível de evidência L5). Indicação original: Produtos para hemodiálise"
 monitor_inn: "acetic acid"
 predicted_indications: ["post-bacterial disorder", "postinfectious vasculitis", "post-infectious syndrome", "Chagas cardiomyopathy", "infective urethral stricture", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis", "pityriasis simplex", "tinea corporis"]

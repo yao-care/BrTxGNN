@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 640
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Tioconazole: nova indicação prevista, Vulvovaginite (Vulvovaginitis) (nível de evidência L1). Indicação original: Antimicóticos para uso tópico"
 monitor_inn: "tioconazole"
 predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis"]

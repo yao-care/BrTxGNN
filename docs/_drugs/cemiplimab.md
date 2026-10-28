@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 213
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Cemiplimab: nova indicação prevista, Carcinoma adenoescamoso da vesícula biliar (gallbladder adenosquamous… (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "cemiplimab"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "external ear basal cell carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]

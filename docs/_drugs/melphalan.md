@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 description: "Melphalan: nova indicação prevista, Female breast carcinoma (nível de evidência L5). Indicação original: ANTINEOPLASICOS CITOTOXICOS"

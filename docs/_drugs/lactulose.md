@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "LACTULOSE"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Lactulose: nova indicação prevista, nefropatia aguda por urato (acute urate nephropathy) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 

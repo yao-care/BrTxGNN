@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Enflurane: nova indicação prevista, Transtorno Afetivo Bipolar Maníaco (Manic Bipolar Affective Disorder) (nível de evidência L5). Indicação original: Anestésicos gerais voláteis e gasosos"
 monitor_inn: "enflurane"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "dysthymic disorder", "Prinzmetal angina", "myofascial pain syndrome", "migraine disorder", "bipolar disorder"]

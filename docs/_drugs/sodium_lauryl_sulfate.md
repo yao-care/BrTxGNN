@@ -5,7 +5,7 @@ layout: default
 title: Sodium Lauryl Sulfate
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 592
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Sodium Lauryl Sulfate: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 monitor_inn: "Sodium lauryl sulfate"
 predicted_indications: []

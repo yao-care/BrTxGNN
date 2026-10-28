@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 238
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Cobalamin: nova indicação prevista, Hiperfosfatemia (hyperphosphatemia) (nível de evidência L5). Indicação original: Monovitaminas, exceto vitamina K"
 monitor_inn: "cobalamin"
 predicted_indications: ["hyperphosphatemia (disease)", "cystinosis"]

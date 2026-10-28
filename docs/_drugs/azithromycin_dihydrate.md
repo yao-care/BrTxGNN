@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Azithromycin Dihydrate
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 101
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Azithromycin Dihydrate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,48 +33,17 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Azithromycin Dihydrate: Avaliação de Reposicionamento — Dados Insuficientes para Previsão
+## Azithromycin Dihydrate
 {: .text-alpha }
-
-## Resumo em Uma Frase
-
-Azithromycin Dihydrate é a forma di-hidratada da azitromicina, um antibiótico macrolídeo de amplo espectro amplamente utilizado no tratamento de infecções bacterianas do trato respiratório, pele e tecidos moles.
-O modelo TxGNN **não gerou previsões de reposicionamento** para este composto nesta execução do pipeline, possivelmente por ausência de DrugBank ID e falha na correspondência dos registros regulatórios.
-Sem candidatos de reposicionamento disponíveis, esta avaliação não pode ser concluída com os dados atuais.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções bacterianas (antibiótico macrolídeo) |
-| Nova Indicação Prevista | Não disponível nesta consulta |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | L5 (sem previsão do modelo) |
+| Indicação Original | ANTIBIOTICOS SISTEMICOS SIMPLES |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
-| Decisão Recomendada | Hold |
 
-## Por que Esta Previsão Não Pôde Ser Gerada?
-
-A azitromicina é um antibiótico da classe dos macrolídeos que atua inibindo a síntese proteica bacteriana ao se ligar reversivamente à subunidade ribossômica 50S, bloqueando a translocação peptídica. Possui amplo espectro de ação contra patógenos gram-positivos, gram-negativos atípicos e alguns anaeróbios, com meia-vida tecidual longa que permite esquemas de dose única ou curta duração.
-
-A consulta ao banco de dados regulatório brasileiro foi realizada com o nome exato **"AZITHROMYCIN DIHYDRATE"** e retornou **0 registros**, o que não reflete a realidade do mercado. Medicamentos com azitromicina são amplamente comercializados no Brasil, porém tipicamente registrados sob as grafias **"AZITROMICINA"** (português) ou **"AZITROMICINA DI-HIDRATADA"** — variações que não foram contempladas nesta consulta. Esta é uma limitação de normalização de nomes, não ausência real do produto no mercado.
-
-O segundo problema crítico é a ausência de **DrugBank ID**, que é o identificador central para execução do modelo TxGNN. Sem esse vínculo, o pipeline não consegue localizar o nó correspondente no grafo de conhecimento e, portanto, não é capaz de calcular scores de reposicionamento. O DrugBank ID correto para azitromicina é **DB00207**.
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-Não há previsões de reposicionamento disponíveis para este composto nesta execução. As duas lacunas de dados identificadas — DrugBank ID ausente e falha na correspondência do nome no banco regulatório — bloqueiam todas as etapas subsequentes da análise.
-
-**Para prosseguir, é necessário:**
-- Vincular o DrugBank ID correto: **DB00207** (azitromicina)
-- Re-executar a consulta ANVISA com o nome normalizado **"AZITROMICINA"** (em português, sem especificação do sal)
-- Após identificação dos registros ANVISA, extrair dados de MOA e advertências da bula para preencher as lacunas de segurança
-- Re-executar o modelo TxGNN com o DrugBank ID correto para gerar candidatos de reposicionamento e seus scores
-- Repetir coleta de evidências (ensaios clínicos, literatura) após definição da nova indicação prevista
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 650
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Tranylcypromine: nova indicação prevista, Torcicolo paroxístico benigno da infância (benign paroxysmal torticol… (nível de evidência L5). Indicação original: Antidepressivos"
 monitor_inn: "tranylcypromine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]

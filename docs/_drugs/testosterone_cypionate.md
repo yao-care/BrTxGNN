@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Testosterone Cypionate
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 621
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Testosterone Cypionate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,56 +33,19 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## TESTOSTERONE CYPIONATE: Avaliação de Reposicionamento — Sem Previsão TxGNN Disponível
+## Testosterone Cypionate
 {: .text-alpha }
-
-## Resumo
-
-TESTOSTERONE CYPIONATE (DrugBank: DB13943) é um éster de testosterona de ação prolongada com uso clínico estabelecido em terapias de reposição hormonal.
-Neste ciclo de análise, o modelo TxGNN **não gerou nenhuma previsão de reposicionamento** para este fármaco, impossibilitando a análise de novas indicações.
-Adicionalmente, foram identificadas **lacunas de dados críticos** (mecanismo de ação e informações de segurança) que precisam ser resolvidas antes de qualquer avaliação de viabilidade.
-
----
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Sem dados disponíveis neste pack |
-| Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | — |
+| Indicação Original | HORMONIO GONADOTROFICO |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
 | Número de Registros ANVISA | 3 (ativos: 3) |
-| Decisão Recomendada | **Hold** |
 
 ---
 
-## Lacunas de Dados Identificadas
-
-Duas lacunas críticas impedem a progressão desta avaliação:
-
-**DG001 — Severidade: Bloqueante**
-Informações de segurança (advertências e contraindicações da bula) não foram obtidas. Sem esses dados, é impossível realizar a triagem inicial de segurança (S1). Para resolver: baixar e analisar o PDF da bula na fonte regulatória local.
-
-**DG002 — Severidade: Alta**
-O mecanismo de ação (MOA) não está disponível neste pack. A ausência do MOA compromete a análise de plausibilidade mecanística de qualquer indicação candidata. Para resolver: consultar a API do DrugBank para DB13943.
-
----
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-O modelo TxGNN não produziu previsões de reposicionamento para TESTOSTERONE CYPIONATE neste ciclo, e o fármaco não possui nenhum registro ativo no mercado brasileiro. A combinação de ausência de candidatos previstos com lacunas de dados de severidade bloqueante inviabiliza qualquer análise de reposicionamento no momento.
-
-**Para prosseguir, é necessário:**
-- Resolver **DG001 (Bloqueante)**: obter informações de segurança (advertências, contraindicações, interações) a partir da bula oficial
-- Resolver **DG002 (Alta)**: recuperar o mecanismo de ação via DrugBank API (DB13943)
-- Verificar se TESTOSTERONE CYPIONATE está corretamente mapeado no grafo de conhecimento TxGNN (nó de fármaco presente e ligado a doenças)
-- Confirmar se existem indicações originais registradas na base regulatória nacional para este fármaco
-- Re-executar o pipeline de predição após resolução das lacunas, garantindo que o mapeamento DrugBank → nó do KG esteja funcional
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Felodipine: nova indicação prevista, Hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hy… (nível de evidência L5). Indicação original: Anti-hipertensivos – associações medicamentosa"
 monitor_inn: "felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]

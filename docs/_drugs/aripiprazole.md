@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 76
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Aripiprazole: nova indicação prevista, Transtorno afetivo maior (major affective disorder) (nível de evidência L1). Indicação original: Antipsicóticos"
 monitor_inn: "ARIPIPRAZOLE"
 predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]

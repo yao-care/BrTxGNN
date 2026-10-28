@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 436
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Mecobalamin: nova indicação prevista, Colangite Esclerosante (Sclerosing Cholangitis) (nível de evidência L5). Indicação original: Monovitaminas, exceto vitamina K"
 monitor_inn: "mecobalamin"
 predicted_indications: ["sclerosing cholangitis", "multiple endocrine neoplasia", "bone Paget disease"]

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLOBETASOL PROPIONATE"
 predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis chronica atrophicans", "exanthem (disease)", "acne keloid", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Clobetasol Propionate: nova indicação prevista, Ceratose folicular invertida vulvar (vulvar inverted follicular keratosis) (nível de evidência L5). Indicação original: GLICOCORTICOIDES TOP. SIMP. EXC…"
 ---
 

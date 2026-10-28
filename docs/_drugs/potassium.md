@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 536
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "Potassium"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
 description: "Potassium: nova indicação prevista, Transtorno hipertensivo (hypertensive disorder) (nível de evidência L1). Indicação original: OUTROS PRODUTOS COM ACAO NO TRATO URINARIO"

@@ -5,7 +5,7 @@ layout: default
 title: D-Glucose
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 249
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "D-Glucose: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 monitor_inn: "D-glucose"
 predicted_indications: []

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 100
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Azithromycin: nova indicação prevista, Hiperamilasemia (Hyperamylasemia) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Azithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]

@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Testosterone
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 620
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Testosterone
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +33,19 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## TESTOSTERONE: Avaliação de Reposicionamento — Sem Previsões Disponíveis
+## Testosterone
 {: .text-alpha }
-
-## Resumo em Uma Frase
-
-TESTOSTERONE (testosterona, DB00624) é o principal hormônio sexual androgênico, com uso clínico amplamente reconhecido em hipogonadismo masculino e reposição hormonal. O modelo TxGNN **não gerou nenhuma previsão de reposicionamento** para este fármaco no ciclo atual de análise — possivelmente em razão de lacunas críticas nos dados de entrada (mecanismo de ação e registros regulatórios ausentes). Sem candidatos de previsão ativos, a avaliação de evidências não pode ser concluída nesta versão do Evidence Pack.
-
----
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não informada no Evidence Pack |
-| Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
-| Pontuação de Previsão TxGNN | N/A |
-| Nível de Evidência | L5 — sem previsões ativas |
+| Indicação Original | HORMONIOS SEXUAIS EXCLUSIVE OCITOCICOS; ANDROGENOS-ASSOCIACOES MEDICAMENTOSAS |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
 | Número de Registros | 4 (ativos: 4) |
-| Decisão Recomendada | **Hold** |
 
 ---
 
-## Por que Não Há Previsões?
-
-O Evidence Pack de TESTOSTERONE apresenta duas lacunas de dados que podem explicar diretamente a ausência de saídas do TxGNN:
-
-**1. Mecanismo de ação não documentado**
-O campo `original_moa` está ausente. O TxGNN utiliza relações mecanísticas no grafo de conhecimento (ex.: alvos moleculares, vias de sinalização) para inferir novas indicações por proximidade farmacológica. Sem esse ponto de ancoragem, o modelo pode ter suprimido a geração de candidatos.
-
-**2. Ausência de registros regulatórios locais**
-A consulta ao banco de dados regulatório retornou zero registros para TESTOSTERONE. Isso priva o pipeline de informações sobre indicações aprovadas localmente — dados que normalmente enriquecem o contexto de mapeamento doença–fármaco e auxiliam na filtragem dos candidatos gerados.
-
-Cabe destacar que TESTOSTERONE (DB00624) é um composto extensamente estudado na literatura científica, com décadas de pesquisa clínica documentada em múltiplas indicações. A ausência de previsões, portanto, reflete uma **limitação dos dados de entrada neste ciclo**, não necessariamente ausência de potencial de reposicionamento.
-
----
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-O pipeline TxGNN não produziu candidatos de reposicionamento para TESTOSTERONE neste ciclo, e as lacunas nos dados de mecanismo de ação e registros regulatórios impedem qualquer avaliação de evidências fundamentada. Sem previsão ativa, não há hipótese clínica a explorar.
-
-**Para prosseguir, é necessário:**
-- **[Prioritário — DG002]** Consultar o DrugBank API (DB00624) e preencher o campo `original_moa` com os alvos moleculares e vias de ação da testosterona
-- **[Prioritário — DG001]** Verificar registros de testosterona na ANVISA (busca por INN "testosterona") e atualizar o campo `market_status` com as formas farmacêuticas e indicações aprovadas no Brasil
-- **Reexecutar o pipeline TxGNN** após complementação dos dados acima, para que o modelo possa gerar candidatos de reposicionamento baseados em mecanismo
-- **Revisar bula oficial** para advertências, contraindicações e interações medicamentosas (campos de segurança atualmente sem dados)
-
-> ⚠️ **Nota metodológica**: A testosterona é um hormônio endógeno com perfil farmacológico bem estabelecido. Recomenda-se verificar se o identificador DrugBank DB00624 foi corretamente mapeado no pipeline antes de concluir que há ausência real de candidatos.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

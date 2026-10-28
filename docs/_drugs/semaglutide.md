@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: SEMAGLUTIDE
 drugbank_id: DB13928
-evidence_level: L5
 permalink: /drugs/semaglutide/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # SEMAGLUTIDE
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Item | Value |
 |------|-------|
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | DrugBank ID | [DB13928](https://go.drugbank.com/drugs/DB13928) |
-| Evidence Level | L5 (Computational Prediction) |
 | Number of Predicted Indications | 2 |
-
-## Predicted Indications (TxGNN)
-
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
-
-| # | Indication | Source |
-|---|------------|--------|
-| 1 | type 2 diabetes mellitus | TxGNN Knowledge Graph |
-| 2 | diabetes mellitus (disease) | TxGNN Knowledge Graph |
 
 ## Disclaimer
 

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: DULAGLUTIDE
 drugbank_id: DB09045
-evidence_level: L5
 permalink: /drugs/dulaglutide/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DULAGLUTIDE
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Item | Value |
 |------|-------|
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | DrugBank ID | [DB09045](https://go.drugbank.com/drugs/DB09045) |
-| Evidence Level | L5 (Computational Prediction) |
 | Number of Predicted Indications | 2 |
-
-## Predicted Indications (TxGNN)
-
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
-
-| # | Indication | Source |
-|---|------------|--------|
-| 1 | type 2 diabetes mellitus | TxGNN Knowledge Graph |
-| 2 | diabetes mellitus (disease) | TxGNN Knowledge Graph |
 
 ## Disclaimer
 

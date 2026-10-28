@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "Pegvaliase"
 predicted_indications: ["diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "diabetic cataract"]
 description: "Pegvaliase: nova indicação prevista, Retinopatia diabética (diabetic retinopathy) (nível de evidência L5). Indicação original: Não consta nos dados locais"

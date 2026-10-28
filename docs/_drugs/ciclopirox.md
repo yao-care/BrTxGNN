@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CICLOPIROX
 drugbank_id: DB01188
-evidence_level: L5
 permalink: /drugs/ciclopirox/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CICLOPIROX
@@ -18,26 +19,10 @@ predicted_indications: []
 
 | Item | Value |
 |------|-------|
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 10) |
+| Número de Registros | pelo menos 20 |
 | DrugBank ID | [DB01188](https://go.drugbank.com/drugs/DB01188) |
-| Evidence Level | L5 (Computational Prediction) |
 | Number of Predicted Indications | 10 |
-
-## Predicted Indications (TxGNN)
-
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
-
-| # | Indication | Source |
-|---|------------|--------|
-| 1 | tinea corporis | TxGNN Knowledge Graph |
-| 2 | pityriasis versicolor | TxGNN Knowledge Graph |
-| 3 | tinea infection | TxGNN Knowledge Graph |
-| 4 | pityriasis simplex | TxGNN Knowledge Graph |
-| 5 | seborrheic keratosis | TxGNN Knowledge Graph |
-| 6 | tinea unguium | TxGNN Knowledge Graph |
-| 7 | dermatophytosis of groin and perianal area | TxGNN Knowledge Graph |
-| 8 | cutaneous candidiasis | TxGNN Knowledge Graph |
-| 9 | tinea pedis | TxGNN Knowledge Graph |
-| 10 | seborrheic dermatitis | TxGNN Knowledge Graph |
 
 ## Disclaimer
 

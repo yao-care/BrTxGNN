@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 587
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Sirolimus: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L3). Indicação original: Agente imunossupressor"
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]

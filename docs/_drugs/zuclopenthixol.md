@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 685
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Zuclopenthixol: nova indicação prevista, Distrofia retiniana com ou sem anomalias extraoculares (retinal dystr… (nível de evidência L5). Indicação original: Neurolépticos (antipsicótico)"
 monitor_inn: "zuclopenthixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]

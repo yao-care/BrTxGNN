@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Ticlopidina Hydrochloride
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 637
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Ticlopidina Hydrochloride
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,67 +33,19 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Ticlopidina Cloridrato: Avaliação Indisponível por Dados Insuficientes
+## Ticlopidina Hydrochloride
 {: .text-alpha }
-
-## Resumo
-
-Ticlopidina é um antiagregante plaquetário da classe das tienopiridinas, historicamente utilizado na prevenção secundária de acidentes vasculares cerebrais (AVC) e eventos isquêmicos. O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual, possivelmente em razão da ausência de indicações cadastradas e dados regulatórios. Com **0 registros na ANVISA** e informações de segurança indisponíveis, não é possível realizar uma avaliação de reposicionamento completa neste momento.
-
----
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Prevenção de AVC isquêmico e eventos tromboembólicos |
-| Nova Indicação Prevista | Não disponível |
-| Pontuação de Previsão TxGNN | Não disponível |
-| Nível de Evidência | L5 |
+| Indicação Original | OUTROS PRODUTOS QUE ATUAM NO SANGUE E HEMATOPOIESE |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
 | Número de Registros | 3 (ativos: 3) |
-| Decisão Recomendada | Hold |
 
 ---
 
-## Por que Esta Previsão é Razoável?
-
-Atualmente, não há dados detalhados sobre o mecanismo de ação no Evidence Pack. Segundo informações conhecidas, ticlopidina faz parte da classe das tienopiridinas — a mesma do clopidogrel —, e sua eficácia na prevenção de eventos tromboembólicos foi comprovada historicamente. Mecanisticamente, atua inibindo de forma irreversível o receptor purinérgico **P2Y12** nas plaquetas, bloqueando a ativação mediada por ADP e, consequentemente, a cascata de agregação plaquetária.
-
-O fármaco foi amplamente utilizado nas décadas de 1990 e 2000 para prevenção secundária de AVC isquêmico e síndrome coronariana aguda. Entretanto, foi gradualmente substituído por clopidogrel — da mesma classe terapêutica, com perfil de segurança mais favorável — em razão de efeitos adversos graves documentados com ticlopidina, como neutropenia severa e púrpura trombocitopênica trombótica (PTT).
-
-O modelo TxGNN não gerou candidatos de reposicionamento neste ciclo. A ausência de indicações originais cadastradas no sistema e de registros regulatórios no Brasil provavelmente impediu o processamento adequado do candidato. Uma análise de reposicionamento significativa só será possível após o preenchimento das lacunas de dados identificadas (DG001, DG002).
-
----
-
-## Informações de Comercialização no Brasil
-
-Ticlopidina Cloridrato **não possui registros ativos na ANVISA**. O fármaco não está comercializado no Brasil. Recomenda-se verificar se houve registros históricos que possam ter sido cancelados ou retirados do mercado, bem como consultar bulas de mercados onde o produto permanece aprovado (ex.: referências do FDA ou EMA) para obter informações regulatórias complementares.
-
----
-
-## Considerações de Segurança
-
-Consulte a bula para informações de segurança.
-
-> **Nota:** Como o fármaco não está registrado no Brasil, recomenda-se consultar o DrugBank (ID esperado: DB01124) e referências internacionais para informações sobre advertências, contraindicações e interações medicamentosas — em especial o risco de neutropenia e PTT, efeitos adversos historicamente associados a este fármaco.
-
----
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-O modelo TxGNN não gerou previsões de reposicionamento para ticlopidina, e a ausência de registros regulatórios no Brasil, de indicações cadastradas e de dados de segurança impede qualquer avanço na avaliação neste momento.
-
-**Para prosseguir, é necessário:**
-- Verificar a padronização do nome: o INN correto é **ticlopidine** (inglês) / **ticlopidina** (português); confirmar mapeamento para o DrugBank ID correspondente
-- Obter dados de mecanismo de ação (MOA) via consulta ao DrugBank (lacuna **DG002**)
-- Baixar e analisar bula de referência internacional para extrair advertências e contraindicações (lacuna **DG001**)
-- Verificar histórico de registros na ANVISA — o fármaco pode ter tido licença anterior que foi cancelada
-- Cadastrar as indicações originais no sistema antes de reprocessar a previsão TxGNN
-- Avaliar a relevância clínica atual do candidato, considerando que clopidogrel e prasugrel são amplamente preferidos na prática clínica contemporânea, o que pode limitar o interesse em reposicionamento
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

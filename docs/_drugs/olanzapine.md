@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 484
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "OLANZAPINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: nova indicação prevista, Benign paroxysmal torticollis of infancy (nível de evidência L5). Indicação original: ANTIPSICOTICOS"

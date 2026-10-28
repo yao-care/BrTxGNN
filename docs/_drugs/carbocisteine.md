@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 194
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Carbocisteine: nova indicação prevista, Gota (Gout) (nível de evidência L5). Indicação original: Expectorantes"
 monitor_inn: "Carbocisteine"
 predicted_indications: ["gout"]

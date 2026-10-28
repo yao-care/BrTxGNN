@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Enalaprilat: nova indicação prevista, Glaucoma Hereditário Primário (Primary Hereditary Glaucoma) (nível de evidência L5). Indicação original: Anti-hipertensivos"
 monitor_inn: "enalaprilat"
 predicted_indications: ["primary hereditary glaucoma"]

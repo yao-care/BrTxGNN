@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: FUROSEMIDE
 drugbank_id: DB00695
-evidence_level: L5
 permalink: /drugs/furosemide/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # FUROSEMIDE
@@ -18,19 +19,10 @@ predicted_indications: []
 
 | Item | Value |
 |------|-------|
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 2 de 2) |
+| Número de Registros | 2 (ativos: 0) |
 | DrugBank ID | [DB00695](https://go.drugbank.com/drugs/DB00695) |
-| Evidence Level | L5 (Computational Prediction) |
 | Number of Predicted Indications | 3 |
-
-## Predicted Indications (TxGNN)
-
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
-
-| # | Indication | Source |
-|---|------------|--------|
-| 1 | hypertensive disorder | TxGNN Knowledge Graph |
-| 2 | hypertension | TxGNN Knowledge Graph |
-| 3 | congestive heart failure | TxGNN Knowledge Graph |
 
 ## Disclaimer
 

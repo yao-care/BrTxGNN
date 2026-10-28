@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Tetracaine Hydrochloride
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 625
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Tetracaine Hydrochloride
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,52 +33,20 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Tetracaine Hydrochloride: Avaliação de Reposicionamento — Previsões Indisponíveis
+## Tetracaine Hydrochloride
 {: .text-alpha }
 
----
-
-## Resumo em Uma Frase
-
-Tetracaine Hydrochloride é um anestésico local da classe éster, utilizado classicamente em anestesia oftalmológica, raquianestesia e anestesia tópica de mucosas.
-Nesta versão do pipeline, o modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco, e **nenhum registro ativo foi localizado na ANVISA**.
-A ausência de dados preditivos, evidências clínicas e registro regulatório resulta em avaliação **Hold**.
-
----
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anestesia local (dados de registros ANVISA não disponíveis) |
-| Nova Indicação Prevista | Sem previsão gerada pelo TxGNN |
-| Pontuação de Previsão TxGNN | N/D |
-| Nível de Evidência | L5 (sem estudos reais associados) |
+| Indicação Original | ANESTESICOS LOCAIS; ANTINFECCIOSOS E ANTISSEPTICOS TOPICOS PARA OROFARINGE; GLICOCORTICOIDES TOPICOS - ASSOCIACAO MEDICAMENTOSA |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
 | Número de Registros | 5 (ativos: 5) |
-| Decisão Recomendada | Hold |
 
 ---
 
-## Considerações de Segurança
-
-Consulte a bula para informações de segurança.
-
----
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-O pipeline TxGNN não gerou previsões de reposicionamento para Tetracaine Hydrochloride nesta execução, e o fármaco não possui registros ativos na ANVISA. Sem dados preditivos nem base regulatória brasileira estabelecida, não há substrato suficiente para avançar à avaliação clínica.
-
-**Para prosseguir, é necessário:**
-- Verificar se Tetracaine Hydrochloride consta no grafo de conhecimento TxGNN sob nome alternativo (ex.: *tetracaína*, *amethocaine*, *tetracaine*) e reprocessar a predição com o termo correto
-- Obter o **DrugBank ID** correspondente para viabilizar o enriquecimento de MOA, categorias farmacológicas e dados de segurança estruturados
-- Investigar registros na ANVISA sob sinônimos: **Tetracaína**, **Cloridrato de Tetracaína**, **Amethocaine Hydrochloride**
-- Baixar a bula disponível no portal da ANVISA (caso exista produto registrado sob outro nome) para preencher advertências, contraindicações e interações medicamentosas
-- Considerar re-execução do pipeline após correção do identificador do fármaco, pois a consulta ao DrugBank retornou 1 resultado (ver `query_log` id=3), indicando que o mapeamento pode ser recuperável
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "Lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Lornoxicam: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: Não informada nos dados compilados"
 ---
 

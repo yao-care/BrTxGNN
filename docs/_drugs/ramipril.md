@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ramipril: nova indicação prevista, Hipertensão pulmonar de mecanismo multifatorial incerto (nível de evidência L5). Indicação original: Hipertensão arterial e doenças cerebrovasculares"
 ---
 

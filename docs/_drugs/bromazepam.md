@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Bromazepam: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não informada nos dados compilados"
 monitor_inn: "BROMAZEPAM"
 predicted_indications: ["migraine disorder"]

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 462
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Mirtazapine: nova indicação prevista, Síndrome de Ohdo e variantes (Ohdo syndrome and variants) (nível de evidência L5). Indicação original: Antidepressivos"
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]

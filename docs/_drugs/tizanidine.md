@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 642
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Tizanidine: nova indicação prevista, Transtorno de enxaqueca (Migraine disorder) (nível de evidência L5). Indicação original: Relaxantes musculares centrais simples"
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]

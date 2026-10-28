@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 248
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Cysteine: nova indicação prevista, Síndrome do olho seco (Dry Eye Syndrome) (nível de evidência L4). Indicação original: Nutrientes parenterais"
 monitor_inn: "Cysteine"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]

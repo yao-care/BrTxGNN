@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "delamanid"
 predicted_indications: ["allergic urticaria"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Delamanid: nova indicação prevista, urticária alérgica (allergic urticaria) (nível de evidência L5). Indicação original: OUTROS MEDICAMENTOS USADOS NO TRATAMENTO DA TUBERCULOSE"
 ---
 

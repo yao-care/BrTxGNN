@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 247
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Cyproterone Acetate: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L4). Indicação original: Progestágenos simples"
 monitor_inn: "Cyproterone acetate"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]

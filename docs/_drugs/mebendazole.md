@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Mebendazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Mebendazole: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). Indicação original: ANTI-HELMINTICOS DO TRATO GASTRINTESTINAL"
 ---
 

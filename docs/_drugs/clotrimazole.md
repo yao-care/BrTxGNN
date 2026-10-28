@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Clotrimazole"
 predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Clotrimazole: nova indicação prevista, acne (acne (disease)) (nível de evidência L5). Indicação original: ANTIMICOTICOS PARA USO TOPICO"
 ---
 

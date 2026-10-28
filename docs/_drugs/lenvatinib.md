@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 399
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Lenvatinib: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L2). Indicação original: Antineoplásico (agentes antineoplásicos e imunomoduladores)"
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]

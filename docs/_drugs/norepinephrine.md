@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 478
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Norepinephrine: nova indicação prevista, Doença Pulmonar Obstrutiva (Obstructive Lung Disease) (nível de evidência L4). Indicação original: Vasoconstritores e hipertensores"
 monitor_inn: "norepinephrine"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]

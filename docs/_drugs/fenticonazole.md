@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Fenticonazole: nova indicação prevista, Vulvovaginite tricomonásica (trichomonal vulvovaginitis) (nível de evidência L4). Indicação original: Antimicóticos para uso tópico"
 monitor_inn: "fenticonazole"
 predicted_indications: ["trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "vulvovaginitis", "vulvitis", "herpetic vulvovaginitis", "vaginitis (disease)"]

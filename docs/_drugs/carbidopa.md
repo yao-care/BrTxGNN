@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Carbidopa
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 191
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Carbidopa
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,39 +33,17 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Carbidopa: Dados Insuficientes para Avaliação de Reposicionamento
+## Carbidopa
 {: .text-alpha }
-
-## Resumo em Uma Frase
-
-Carbidopa (DB00190) é um fármaco já comercializado no mercado brasileiro com 19 registros ativos junto à ANVISA.
-O modelo TxGNN **não gerou previsões de reposicionamento** para este candidato no ciclo atual, impossibilitando a análise de novas indicações.
-Para que a avaliação possa prosseguir, é necessário resolver as lacunas de dados identificadas — especialmente a extração das bulas registradas e o mecanismo de ação completo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível neste pacote de evidências |
-| Nova Indicação Prevista | Nenhuma previsão TxGNN disponível |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | — (sem previsão gerada) |
+| Indicação Original | Não consta nos dados locais |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 19) |
 | Número de Registros | 19 (ativos: 6) |
-| Decisão Recomendada | Hold |
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-O pacote de evidências não contém previsões de reposicionamento pelo TxGNN e os dados regulatórios detalhados — indicações aprovadas, advertências e contraindicações das bulas — ainda não foram extraídos dos 19 registros ANVISA. Sem esses insumos, não é possível realizar qualquer avaliação de reposicionamento ou segurança.
-
-**Para prosseguir, é necessário:**
-- **DG001 (Bloqueante):** Baixar e processar as bulas dos 19 registros ANVISA para extrair indicações aprovadas, advertências e contraindicações; sem isso, a avaliação de segurança não pode ser iniciada
-- **DG002 (Alta prioridade):** Consultar a API do DrugBank (DB00190) para obter o mecanismo de ação completo, necessário para a análise de plausibilidade mecanística
-- **Reexecutar o pipeline TxGNN** após resolução das lacunas acima para gerar candidatos de reposicionamento com pontuação e evidências associadas
-- **Verificar mapeamento de doenças e integração com o knowledge graph** para garantir que o fármaco esteja corretamente representado no grafo de conhecimento antes de nova rodada de predição
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

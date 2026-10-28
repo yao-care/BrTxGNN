@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 572
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Rivastigmine: nova indicação prevista, Glaucoma (glaucoma) (nível de evidência L4). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]

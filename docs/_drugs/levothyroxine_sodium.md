@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Levothyroxine Sodium
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 417
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Levothyroxine Sodium
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,59 +33,21 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Levotiroxina Sódica: Avaliação de Reposicionamento Inconclusiva
+## Levothyroxine Sodium
 {: .text-alpha }
-
-## Resumo
-
-Levotiroxina Sódica é um hormônio tireoidiano sintético, classicamente utilizado no tratamento do hipotireoidismo. O modelo TxGNN **não gerou nenhuma predição de nova indicação** para este fármaco na rodada atual de análise. Adicionalmente, o Evidence Pack apresenta lacunas críticas de dados — incluindo ausência de informações regulatórias, mecanismo de ação e perfil de segurança — que tornam a avaliação de reposicionamento impossível neste momento.
-
----
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível no registro consultado |
-| Nova Indicação Prevista | Nenhuma predição gerada pelo TxGNN |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | L5 (sem predição do modelo, sem estudos identificados) |
+| Indicação Original | HORMONIOS TIREOIDEANOS SIMPLES OU ASSOCIADOS ENTRE SI |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
 | Número de Registros | 6 (ativos: 6) |
-| Decisão Recomendada | **Hold** |
 
 > ⚠️ **Atenção**: A consulta à base regulatória retornou 0 registros para Levotiroxina Sódica, o que pode indicar uma falha de busca. Levotiroxina é um fármaco amplamente comercializado no Brasil (ex.: Puran T4, Synthroid). Recomenda-se verificação manual na base ANVISA antes de interpretar este resultado como ausência de registro.
 
 ---
 
-## Por que Não Há Predição?
-
-O modelo TxGNN retornou a lista de `predicted_indications` vazia para este fármaco. As possíveis causas incluem:
-
-1. **Mapeamento de DrugBank não resolvido** — o campo `drugbank_id` está nulo, o que pode ter impedido o alinhamento do fármaco ao grafo de conhecimento TxGNN.
-2. **Ausência de indicações originais** — sem indicações originais estruturadas, o modelo não pôde ancorá-las ao nó correto no Knowledge Graph.
-3. **Lacuna de MOA (DG002)** — sem mecanismo de ação disponível, a análise de relacionamento mecanístico foi prejudicada.
-
----
-
-## Considerações de Segurança
-
-Consulte a bula para informações de segurança.
-
----
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-Sem predições do modelo e com múltiplas lacunas críticas de dados, não há base suficiente para avaliar o potencial de reposicionamento deste fármaco neste momento.
-
-**Para prosseguir, é necessário:**
-- **[DG001 — Bloqueante]** Baixar e analisar a bula oficial no portal ANVISA para extrair advertências, contraindicações e indicações aprovadas
-- **[DG002 — Alta prioridade]** Consultar a API do DrugBank para obter o `drugbank_id` e o mecanismo de ação (MOA) da Levotiroxina Sódica
-- **Verificação regulatória manual** — confirmar situação de registro na ANVISA (o retorno de 0 registros é provavelmente um falso negativo)
-- **Re-execução do pipeline TxGNN** após resolução das lacunas acima, garantindo que o DrugBank ID esteja preenchido e as indicações originais estruturadas
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

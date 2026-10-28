@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Levonorgestrel Micronizado
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 415
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Levonorgestrel Micronizado
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,47 +33,17 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Levonorgestrel Micronizado: Avaliação de Reposicionamento Pendente
+## Levonorgestrel Micronizado
 {: .text-alpha }
-
-## Resumo
-
-Levonorgestrel micronizado é um progestágeno sintético de segunda geração, amplamente utilizado em contracepção hormonal — pílulas anticoncepcionais combinadas, dispositivos intrauterinos hormonais (DIU-LNG) e contracepção de emergência. Nesta rodada de análise, o modelo TxGNN **não gerou previsões de novas indicações** para este fármaco, provavelmente devido à ausência de mapeamento no grafo de conhecimento. A avaliação de reposicionamento fica pendente até que o DrugBank ID correto seja confirmado e a predição seja reexecutada.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Contracepção hormonal (progestágeno) |
-| Nova Indicação Prevista | Nenhuma previsão disponível nesta rodada |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | — |
+| Indicação Original | Não consta nos dados locais |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 8) |
 | Número de Registros | 8 (ativos: 5) |
-| Decisão Recomendada | Hold |
 
-## Informações de Comercialização no Brasil
-
-Foram identificados **8 registros ativos** no sistema regulatório brasileiro para Levonorgestrel Micronizado. Os detalhes individuais dos registros (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste Evidence Pack — os campos retornaram vazios na consulta à base do TFDA/ANVISA.
-
-> Para recuperar os detalhes, recomenda-se consultar diretamente o portal [Consulta de Produtos Registrados da ANVISA](https://consultas.anvisa.gov.br/) utilizando o INN "levonorgestrel".
-
-## Considerações de Segurança
-
-Consulte a bula para informações de segurança.
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-O modelo TxGNN não gerou previsões de reposicionamento para este fármaco nesta rodada. A causa provável é que o sufixo de formulação **"MICRONIZADO"** incluído no INN impediu o mapeamento correto ao grafo de conhecimento — o identificador padrão no DrugBank é simplesmente **"Levonorgestrel"** (DB00367), sem descritor de forma farmacêutica. Sem o mapeamento confirmado, o modelo não consegue calcular pontuações de proximidade no grafo de doenças.
-
-**Para prosseguir, é necessário:**
-- Confirmar o DrugBank ID correto (esperado: **DB00367** — Levonorgestrel) e atualizar o campo `drugbank_id` no Evidence Pack
-- Re-executar a predição TxGNN com o INN normalizado (`levonorgestrel`, sem "micronizado")
-- Baixar e analisar a bula em PDF via ANVISA para preencher dados de segurança (advertências e contraindicações)
-- Recuperar os detalhes dos 8 registros no portal ANVISA para completar a tabela de comercialização
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

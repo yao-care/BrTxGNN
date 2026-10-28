@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 65
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Ampicillin: nova indicação prevista, Laringite (Laryngitis) (nível de evidência L4). Indicação original: Penicilina de amplo espectro"
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]

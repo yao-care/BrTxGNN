@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BUDESONIDE"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Budesonide: nova indicação prevista, eczema atópico (atopic eczema) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 

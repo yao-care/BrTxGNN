@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Caspofungin: nova indicação prevista, Anormalidade da secreção de gastrina (gastrin secretion abnormality) (nível de evidência L5). Indicação original: Antifúngicos (ANTI-FUNGICOS)"
 monitor_inn: "caspofungin"
 predicted_indications: ["gastrin secretion abnormality"]

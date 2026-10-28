@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 448
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Methadone: nova indicação prevista, Síndrome de Tourette (Tourette syndrome) (nível de evidência L4). Indicação original: Analgésicos narcóticos"
 monitor_inn: "Methadone"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]

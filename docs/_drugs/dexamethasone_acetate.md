@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: DEXAMETHASONE ACETATE
 drugbank_id: DB14649
-evidence_level: L5
 permalink: /drugs/dexamethasone_acetate/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DEXAMETHASONE ACETATE
@@ -18,17 +19,10 @@ predicted_indications: []
 
 | Item | Value |
 |------|-------|
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Número de Registros | pelo menos 20 |
 | DrugBank ID | [DB14649](https://go.drugbank.com/drugs/DB14649) |
-| Evidence Level | L5 (Computational Prediction) |
 | Number of Predicted Indications | 1 |
-
-## Predicted Indications (TxGNN)
-
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
-
-| # | Indication | Source |
-|---|------------|--------|
-| 1 | plasma cell myeloma | TxGNN Knowledge Graph |
 
 ## Disclaimer
 

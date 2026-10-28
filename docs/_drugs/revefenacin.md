@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 564
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Revefenacin: nova indicação prevista, Bronquite (bronchitis) (nível de evidência L4). Indicação original: Anticolinérgicos"
 monitor_inn: "revefenacin"
 predicted_indications: ["bronchitis"]

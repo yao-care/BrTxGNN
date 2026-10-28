@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Estazolam"
 predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "audiogenic seizures", "startle epilepsy", "thinking seizures", "micturation-induced seizures", "eating seizures"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Estazolam: nova indicação prevista, Epilepsia visual (nível de evidência L5). Indicação original: Não informada nos registros compilados"
 ---
 

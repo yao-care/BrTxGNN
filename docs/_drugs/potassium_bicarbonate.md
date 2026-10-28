@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 538
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Potassium Bicarbonate: nova indicação prevista, Gastroduodenite (Gastroduodenitis) (nível de evidência L5). Indicação original: Antiácido"
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]

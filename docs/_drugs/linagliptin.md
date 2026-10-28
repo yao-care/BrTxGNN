@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: LINAGLIPTIN
 drugbank_id: DB08882
-evidence_level: L5
 permalink: /drugs/linagliptin/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # LINAGLIPTIN
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Item | Value |
 |------|-------|
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 18) |
+| Número de Registros | 18 (ativos: 17) |
 | DrugBank ID | [DB08882](https://go.drugbank.com/drugs/DB08882) |
-| Evidence Level | L5 (Computational Prediction) |
 | Number of Predicted Indications | 2 |
-
-## Predicted Indications (TxGNN)
-
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
-
-| # | Indication | Source |
-|---|------------|--------|
-| 1 | type 2 diabetes mellitus | TxGNN Knowledge Graph |
-| 2 | diabetes mellitus (disease) | TxGNN Knowledge Graph |
 
 ## Disclaimer
 

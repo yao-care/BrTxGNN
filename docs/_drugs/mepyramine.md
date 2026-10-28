@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 444
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "mepyramine"
 predicted_indications: ["nasal cavity disease"]
 description: "Mepyramine: nova indicação prevista, Nasal cavity disease (nível de evidência L5). Indicação original: DESCONGESTIONANTES NASAIS TOPICOS"

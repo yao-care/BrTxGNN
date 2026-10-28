@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 552
 evidence_level: L1
 indication_count: 7
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Progesterone: nova indicação prevista, Amenorreia (Amenorrhea) (nível de evidência L5). Indicação original: Progestágenos simples"
 monitor_inn: "Progesterone"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]

@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 438
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Mefenamic Acid: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L3). Indicação original: Anti-inflamatórios antirreumáticos"
 monitor_inn: "mefenamic acid"
 predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]

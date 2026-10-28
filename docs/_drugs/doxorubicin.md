@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 277
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Doxorubicin: nova indicação prevista, Sarcoma de Ewing (Ewing sarcoma) (nível de evidência L2). Indicação original: Antineoplásico"
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]

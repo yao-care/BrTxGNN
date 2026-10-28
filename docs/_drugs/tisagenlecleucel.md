@@ -5,7 +5,7 @@ layout: default
 title: Tisagenlecleucel
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 641
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Tisagenlecleucel: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 monitor_inn: "Tisagenlecleucel"
 predicted_indications: []

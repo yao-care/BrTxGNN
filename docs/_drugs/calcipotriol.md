@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 175
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Calcipotriol: nova indicação prevista, Queratose seborreica (Seborrheic Keratosis) (nível de evidência L3). Indicação original: Não registrada nos dados da ANVISA compilados para este relatório"
 monitor_inn: "CALCIPOTRIOL"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]

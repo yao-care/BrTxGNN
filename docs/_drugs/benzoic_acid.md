@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Benzoic Acid: nova indicação prevista, Bronquite (bronchitis) (nível de evidência L5). Indicação original: Expectorantes balsâmicos e mucolítico"
 monitor_inn: "benzoic acid"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]

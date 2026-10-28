@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 606
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "Tapentadol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 description: "Tapentadol: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais"

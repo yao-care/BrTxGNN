@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Thiamine Hydrochloride
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 631
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Thiamine Hydrochloride
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,61 +33,19 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Cloridrato de Tiamina: Vitamina B1 sem Indicações de Reposicionamento Previstas
+## Thiamine Hydrochloride
 {: .text-alpha }
-
-## Resumo em Uma Frase
-
-O Cloridrato de Tiamina (Vitamina B1) é um micronutriente essencial classicamente empregado na prevenção e tratamento da deficiência de tiamina (beribéri, encefalopatia de Wernicke-Korsakoff).
-O modelo TxGNN **não gerou previsões de reposicionamento** para este composto na rodada atual de análise.
-Em decorrência disso, não há ensaios clínicos nem publicações vinculadas a novas indicações previstas para avaliação neste relatório.
-
----
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|----------|
-| Indicação Original | Deficiência de tiamina (beribéri, encefalopatia de Wernicke) |
-| Nova Indicação Prevista | Nenhuma — TxGNN não retornou candidatos |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | L5 (sem previsão do modelo) |
+| Indicação Original | VITAMINAS E SUPLEMENTOS MINERAIS; MONOVITAMINAS EXCETO VITAMINA K; VITAMINA B1 (MONODROGA); VITAMINA B1 EM ASSOCIAÇÃO COM VITAMINAS B6 E/OU B12; PRODUTOS A BASE DE VIT B 12-ASSOCIACOES MEDICAMENTOSAS |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
-| Decisão Recomendada | Hold |
 
 ---
 
-## Por que Esta Previsão Não Foi Gerada?
-
-Atualmente, não há dados suficientes para suportar uma análise de reposicionamento via TxGNN para este composto. Três fatores contribuem para esse resultado:
-
-**1. Ausência de DrugBank ID.** O pipeline de previsão TxGNN utiliza o identificador DrugBank para ancorar o fármaco no grafo do conhecimento. Sem esse ID, o modelo não consegue posicionar o Cloridrato de Tiamina na rede de interações droga-doença e, portanto, não produz pontuações de reposicionamento.
-
-**2. Mecanismo de ação não mapeado.** O campo `original_moa` retornou `[Data Gap]`. Embora a tiamina seja bem descrita bioquimicamente (coenzima na via das pentoses-fosfato e no ciclo de Krebs), essa informação não foi integrada ao grafo do conhecimento da instância atual, limitando a capacidade do modelo de inferir relações mecanísticas com novas doenças.
-
-**3. Ausência de registro regulatório no Brasil.** A consulta à base ANVISA não localizou nenhum registro ativo de Cloridrato de Tiamina como produto independente, o que elimina a base regulatória necessária para análise de aproveitamento de indicação existente.
-
----
-
-## Considerações de Segurança
-
-Consulte a bula para informações de segurança.
-
----
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-Não há previsões de reposicionamento disponíveis para o Cloridrato de Tiamina na rodada atual do TxGNN, e o fármaco não possui registro ativo na ANVISA, inviabilizando qualquer análise regulatória ou de evidências clínicas neste momento.
-
-**Para prosseguir, é necessário:**
-- **Resolver DG001 (Bloqueante):** Obter advertências e contraindicações oficiais da bula (ANVISA/TFDA), pré-requisito para qualquer avaliação de segurança.
-- **Resolver DG002 (Alta prioridade):** Mapear o DrugBank ID correto para Cloridrato de Tiamina (`DB00150` — Thiamine) via API DrugBank, habilitando o posicionamento do composto no grafo TxGNN.
-- **Reexecutar o pipeline TxGNN** após a integração do DrugBank ID para obter candidatos de reposicionamento.
-- **Verificar possível subnotificação regulatória:** O Cloridrato de Tiamina frequentemente aparece como componente de formulações combinadas (polivitamínicos, soluções parenterais). Uma nova busca segmentada por combinação de ingredientes pode revelar registros indiretos na ANVISA.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

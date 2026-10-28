@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 512
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Pegfilgrastim: nova indicação prevista, Retinopatia diabética não proliferativa grave (severe nonproliferativ… (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Pegfilgrastim"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]

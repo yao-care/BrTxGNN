@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 167
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Busulfan: nova indicação prevista, Síndrome Mielodisplásica (Myelodysplastic Syndrome) (nível de evidência L1). Indicação original: Antineoplásicos citotóxicos"
 monitor_inn: "busulfan"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "simian immunodeficiency virus infection"]

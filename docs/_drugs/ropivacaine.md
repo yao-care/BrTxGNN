@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 574
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "Ropivacaine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
 description: "Ropivacaine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: ANESTESICOS LOCAIS"

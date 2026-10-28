@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Amitriptyline Hydrochloride
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 58
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Amitriptyline Hydrochloride
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,58 +33,19 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## Amitriptyline Hydrochloride: Avaliação de Reposicionamento Inconclusiva por Ausência de Dados
+## Amitriptyline Hydrochloride
 {: .text-alpha }
-
-## Resumo
-
-Amitriptyline Hydrochloride é um fármaco da classe dos antidepressivos tricíclicos (TCA), cuja identidade no DrugBank não foi resolvida nesta execução do pipeline (drugbank_id nulo). O modelo TxGNN **não gerou nenhuma previsão de reposicionamento** para este fármaco, possivelmente em decorrência da falha no mapeamento ao grafo de conhecimento. Sem previsões disponíveis e com lacunas críticas nos dados regulatórios e de segurança, não é possível conduzir uma avaliação formal de reposicionamento neste momento.
-
----
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível no Evidence Pack |
-| Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
-| Pontuação de Previsão TxGNN | N/A |
-| Nível de Evidência | L5 — sem previsão gerada pelo modelo |
+| Indicação Original | ANTIDEPRESSIVOS |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
 | Número de Registros | 13 (ativos: 13) |
-| Decisão Recomendada | Hold |
 
 ---
 
-## Por que Nenhuma Previsão Foi Gerada?
-
-A ausência de previsões TxGNN para este fármaco tem uma causa técnica identificável: o campo `drugbank_id` retornou nulo, o que impede o mapeamento do fármaco aos nós do grafo de conhecimento. Sem esse vínculo, o modelo não consegue calcular pontuações de associação fármaco–doença.
-
-O log de consultas registra que a busca ao DrugBank retornou **1 resultado** (`result_count: 1`), indicando que o fármaco existe na base de dados, mas o identificador não foi propagado para o campo `drug.drugbank_id` do Evidence Pack. Trata-se de uma falha de integração de pipeline, não de ausência do fármaco no DrugBank.
-
-> Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, Amitriptyline Hydrochloride pertence à classe dos antidepressivos tricíclicos (TCA). A consulta ao DrugBank retornou 1 resultado, mas o DrugBank ID não foi preenchido no Evidence Pack — sendo necessário reprocessar este campo para viabilizar a análise mecanística.
-
----
-
-## Informações de Comercialização no Brasil
-
-Nenhum registro ativo foi encontrado na consulta à base regulatória brasileira (`result_count: 0`). O fármaco consta como **não comercializado** no Brasil.
-
----
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-O pipeline TxGNN não pôde gerar previsões de reposicionamento porque o DrugBank ID não foi resolvido corretamente, bloqueando o mapeamento ao grafo de conhecimento. Somam-se a isso a ausência de registro comercial no Brasil e lacunas bloqueantes nos dados de segurança, tornando inviável qualquer análise de risco-benefício neste momento.
-
-**Para prosseguir, é necessário:**
-- **[Crítico]** Resolver o DrugBank ID para Amitriptyline Hydrochloride a partir do resultado já obtido na consulta ao DrugBank (`result_count: 1`) e reexecutar o pipeline de previsão TxGNN
-- **[Crítico]** Baixar e analisar a bula em PDF junto à ANVISA ou fonte regulatória equivalente para obter advertências, contraindicações e indicações aprovadas
-- **[Alta prioridade]** Consultar a DrugBank API para preencher o mecanismo de ação (MOA), viabilizando a análise de plausibilidade mecanística
-- **[Alta prioridade]** Verificar se o fármaco possui registro ativo na ANVISA sob outros nomes comerciais ou formas farmacêuticas antes de confirmar o status "não comercializado"
-- Após resolução dos itens acima, reexecutar o Evidence Pack e gerar novo relatório de avaliação
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 127
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Betamethasone: nova indicação prevista, Alopecia areata (alopecia areata) (nível de evidência L2). Indicação original: Glicocorticoides tópicos simples (exceto uso oftálmico)"
 monitor_inn: "BETAMETHASONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]

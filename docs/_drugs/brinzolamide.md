@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 153
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Brinzolamide: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma indicação candidata nova"
 predicted_indications: []
 ---

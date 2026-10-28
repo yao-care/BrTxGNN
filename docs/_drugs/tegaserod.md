@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 608
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Tegaserod: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L4). Indicação original: Outros produtos para o aparelho digestivo e metabolismo"
 monitor_inn: "tegaserod"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]

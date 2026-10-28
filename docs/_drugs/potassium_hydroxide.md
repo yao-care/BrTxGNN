@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 540
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Potassium Hydroxide: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 674
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "vonoprazan"
 predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "pylorospasm", "Dieulafoy lesion", "cascade stomach", "gastric dilatation", "hemorrhagic duodenitis"]
 description: "Vonoprazan: nova indicação prevista, Peptic ulcer perforation (nível de evidência L5). Indicação original: MEDICAMENTOS PARA ÚLCERA PÉPTICA E DOENÇAS DE REFLUXO GASTRESOFÁGICO"

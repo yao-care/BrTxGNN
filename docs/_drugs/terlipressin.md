@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 619
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "terlipressin"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
 description: "Terlipressin: nova indicação prevista, Open-angle glaucoma (nível de evidência L5). Indicação original: OUTROS PRODUTOS ANTI-HEMORRAGICOS"

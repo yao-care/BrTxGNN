@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Amoxicillin Sodium
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 63
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Amoxicillin Sodium
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **0** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,51 +33,19 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-## AMOXICILLIN SODIUM: Avaliação de Reposicionamento — Dados Insuficientes para Análise
+## Amoxicillin Sodium
 {: .text-alpha }
-
-## Resumo
-
-AMOXICILLIN SODIUM é a forma sódica (geralmente injetável) da amoxicilina, um antibiótico beta-lactâmico amplamente utilizado no tratamento de infecções bacterianas.
-O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual, possivelmente por ausência de mapeamento DrugBank ou cobertura insuficiente no grafo de conhecimento.
-Sem previsões disponíveis, não é possível conduzir análise de reposicionamento neste momento.
-
----
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|----------|
-| Indicação Original | Não disponível no registro brasileiro (0 registros ANVISA para este INN) |
-| Nova Indicação Prevista | Nenhuma previsão TxGNN disponível |
-| Pontuação de Previsão TxGNN | — |
-| Nível de Evidência | L5 (sem previsão do modelo) |
+| Indicação Original | PENICILINA DE AMPLO ESPECTRO; ANTIBIOTICOS SISTEMICOS SIMPLES |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros ANVISA | 0 |
-| Decisão Recomendada | **Hold** |
 
 ---
 
-## Considerações de Segurança
-
-Consulte a bula para informações de segurança.
-
----
-
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-O Evidence Pack não contém previsões de novas indicações pelo TxGNN, e o fármaco não possui registros ANVISA sob o INN "AMOXICILLIN SODIUM", impossibilitando tanto a análise de reposicionamento quanto a avaliação regulatória no Brasil.
-
-**Para prosseguir, é necessário:**
-
-- **Resolver DG001 (Bloqueante):** Localizar e analisar a bula ANVISA/TFDA para obter advertências e contraindicações
-- **Resolver DG002 (Alto):** Consultar DrugBank API para obter o mecanismo de ação (MOA) e o DrugBank ID, permitindo que o TxGNN processe corretamente o fármaco
-- **Verificar cobertura no KG:** Confirmar se "AMOXICILLIN SODIUM" está mapeado no grafo de conhecimento — possivelmente o fármaco está indexado apenas como "AMOXICILLIN" (forma livre), sem o sufixo do sal
-- **Reprocessar previsão TxGNN:** Após normalização do nome INN e mapeamento DrugBank, reexecutar o pipeline de previsão
-- **Investigar registros ANVISA alternativos:** Buscar sob variantes do nome, como "AMOXICILINA", "AMOXICILLIN TRIHYDRATE" ou o nome comercial correspondente
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

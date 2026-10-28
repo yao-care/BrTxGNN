@@ -3,7 +3,7 @@ layout: default
 title: Oseltamivir
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 492
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Oseltamivir: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0

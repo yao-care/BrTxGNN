@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: NALOXONE
 drugbank_id: DB01183
-evidence_level: L5
 permalink: /drugs/naloxone/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # NALOXONE
@@ -18,19 +19,10 @@ predicted_indications: []
 
 | Item | Value |
 |------|-------|
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | DrugBank ID | [DB01183](https://go.drugbank.com/drugs/DB01183) |
-| Evidence Level | L5 (Computational Prediction) |
 | Number of Predicted Indications | 3 |
-
-## Predicted Indications (TxGNN)
-
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
-
-| # | Indication | Source |
-|---|------------|--------|
-| 1 | morphine dependence | TxGNN Knowledge Graph |
-| 2 | substance abuse/dependence | TxGNN Knowledge Graph |
-| 3 | opiate dependence | TxGNN Knowledge Graph |
 
 ## Disclaimer
 

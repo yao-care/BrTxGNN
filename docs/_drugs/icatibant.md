@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 359
 evidence_level: L1
 indication_count: 7
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Icatibant: nova indicação prevista, Deficiência do inibidor de C1 (C1 inhibitor deficiency) (nível de evidência L1). Indicação original: Outros produtos não enquadrados em classe terapêutica específi…"
 monitor_inn: "icatibant"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PREDNISOLONE ACETATE"
 predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Prednisolone Acetate: nova indicação prevista, Foliculose conjuntival (nível de evidência L5). Indicação original: Glicocorticoides tópicos oftalmológicos simples"
 ---
 

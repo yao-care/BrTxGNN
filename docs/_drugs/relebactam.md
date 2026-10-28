@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Relebactam"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Relebactam: nova indicação prevista, Hiperamilasemia (nível de evidência L5). Indicação original: Infecção do trato urinário e pielonefrite"
 ---
 

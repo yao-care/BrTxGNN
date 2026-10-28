@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
 description: "Magnesium Carbonate: nova indicação prevista, Gastroduodenitis (nível de evidência L5). Indicação original: ANALGESICOS NAO NARCOTICOS"

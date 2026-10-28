@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 510
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Parecoxib: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L3). Indicação original: Antiinflamatórios"
 monitor_inn: "parecoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]

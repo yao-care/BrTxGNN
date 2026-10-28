@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 684
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan: nova indicação prevista, Atrophoderma vermiculata (nível de evidência L5). Indicação original: ANALGESICOS CONTRA ENXAQUECA"

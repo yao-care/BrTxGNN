@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: CISPLATIN
 drugbank_id: DB00515
-evidence_level: L5
 permalink: /drugs/cisplatin/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CISPLATIN
@@ -17,37 +18,10 @@ predicted_indications: []
 
 | Item | Value |
 |------|-------|
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 4) |
+| Número de Registros | pelo menos 20 |
 | DrugBank ID | [DB00515](https://go.drugbank.com/drugs/DB00515) |
-| Evidence Level | L5 (Computational Prediction) |
 | Number of Predicted Indications | 21 |
-
-## Predicted Indications (TxGNN)
-
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
-
-| # | Indication | Source |
-|---|------------|--------|
-| 1 | ovarian carcinosarcoma | TxGNN Knowledge Graph |
-| 2 | borderline epithelial tumor of ovary | TxGNN Knowledge Graph |
-| 3 | malignant sex cord stromal tumor of ovary | TxGNN Knowledge Graph |
-| 4 | ovarian endometrioid adenocarcinoma | TxGNN Knowledge Graph |
-| 5 | ovarian mucinous adenocarcinoma | TxGNN Knowledge Graph |
-| 6 | malignant germ cell tumor of ovary | TxGNN Knowledge Graph |
-| 7 | maligant granulosa cell tumor of ovary | TxGNN Knowledge Graph |
-| 8 | theca steroid-producing cell malignant tumor of ovary, not further specified | TxGNN Knowledge Graph |
-| 9 | ovarian adenocarcinoma | TxGNN Knowledge Graph |
-| 10 | ovarian clear cell adenocarcinoma | TxGNN Knowledge Graph |
-| 11 | malignant dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph |
-| 12 | malignant Sertoli-Leydig cell tumor of ovary | TxGNN Knowledge Graph |
-| 13 | malignant non-dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph |
-| 14 | primary non-gestational choriocarcinoma of ovary | TxGNN Knowledge Graph |
-| 15 | ovarian small cell carcinoma | TxGNN Knowledge Graph |
-| 16 | immature ovarian teratoma | TxGNN Knowledge Graph |
-| 17 | yolk sac tumor | TxGNN Knowledge Graph |
-| 18 | familial ovarian cancer | TxGNN Knowledge Graph |
-| 19 | ovarian cancer | TxGNN Knowledge Graph |
-| 20 | hereditary site-specific ovarian cancer syndrome | TxGNN Knowledge Graph |
-| 21 | hereditary breast ovarian cancer syndrome | TxGNN Knowledge Graph |
 
 ## Disclaimer
 

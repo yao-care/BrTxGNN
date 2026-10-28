@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 155
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Brolucizumab: nova indicação prevista, Transtorno mitocondrial da fosforilação oxidativa por anomalias do DNA nuclear (nível de evidência L5). Indicação original: Outros medicamentos com ação no aparelho vis…"
 monitor_inn: "brolucizumab"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency"]
