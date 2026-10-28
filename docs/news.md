@@ -52,19 +52,13 @@ Notícias sobre as indicações previstas:
 
 ## Últimas Notícias
 
-<div class="disclaimer">
-O monitoramento de notícias será ativado após a execução das previsões do modelo e geração das palavras-chave.
-</div>
-
-Para configurar o monitoramento:
-
-```bash
-# Gerar palavras-chave
-uv run python scripts/generate_news_keywords.py
-
-# Executar fetcher de notícias
-uv run python scripts/fetchers/google_rss.py
-```
+{% assign items = site.news | where_exp: "n", "n.layout != 'id_redirect'" | sort: 'last_modified_at' | reverse %}
+{% if items.size == 0 %}
+Ainda não há notícias correspondentes.
+{% else %}
+{% for item in items %}- [{{ item.title }}]({{ item.url | relative_url }})
+{% endfor %}
+{% endif %}
 
 ---
 
