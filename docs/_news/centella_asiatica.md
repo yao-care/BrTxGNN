@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Centella asiatica?">
-<strong>Centella asiatica</strong> tem atualmente <strong>2 notícias</strong> e 0 indicações previstas.
+<strong>Centella asiatica</strong> tem atualmente <strong>1 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ Esta página combina as indicações previstas por IA para Centella asiatica com
 <p><a href="{{ '/drugs/centella-asiatica/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
-
-### [Segundo a psicologia, quem adora filmes de terror pode não ser mórbido, mas estar treinando o cérebro para lidar com o medo e a ansiedade num ambiente seguro - Super Rádio Tupi](https://news.google.com/rss/articles/CBMimwJBVV95cUxPWDJPanhSR1I1U0poNXFtWXZWM0pxMDhhdmNaT2lfMklxdU05RVRoRUo1clNYd0ZxTHA0cFdFVkpvX0JBN2xiTFhnckhKZFJFS1NnYkxLenpWVTJ2dmNwR05ma0RaR2wwNmRWb1VwQThqSlRZcHMzVnZmX2d1Q3k0Uloxc3ZpLTZZdndIZ01QM0VKNTVLcTI0U2d1azBRTE1WMmtHMU9Ib1NHb0R6cGtLRHQ2UEU3emFxTEp1czM5YjFSMDFqTUdPdkFMRTZERkI4ckFlRzhPWnNYS0RqdlZTXzZYN1RKVDltcWNyb3V4WmZETzNQbWVXSlFWemstV0h2d2NSZHNxdFQ3ZE5nM2xwLVBLR0JVLVdJc0U0?oc=5)
-
-2026-10-27 <span class="news-indication-tag">ansiedade</span>
-
-Fonte: [Super Rádio Tupi](https://news.google.com/rss/articles/CBMimwJBVV95cUxPWDJPanhSR1I1U0poNXFtWXZWM0pxMDhhdmNaT2lfMklxdU05RVRoRUo1clNYd0ZxTHA0cFdFVkpvX0JBN2xiTFhnckhKZFJFS1NnYkxLenpWVTJ2dmNwR05ma0RaR2wwNmRWb1VwQThqSlRZcHMzVnZmX2d1Q3k0Uloxc3ZpLTZZdndIZ01QM0VKNTVLcTI0U2d1azBRTE1WMmtHMU9Ib1NHb0R6cGtLRHQ2UEU3emFxTEp1czM5YjFSMDFqTUdPdkFMRTZERkI4ckFlRzhPWnNYS0RqdlZTXzZYN1RKVDltcWNyb3V4WmZETzNQbWVXSlFWemstV0h2d2NSZHNxdFQ3ZE5nM2xwLVBLR0JVLVdJc0U0?oc=5)
-
----
+## Notícias relacionadas (1)
 
 ### [Você sofre de ‘ansiedade de propósito’?](https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1NiZXhMb1lYQ0o4V3U1a2VTaFRwNWs5RGhxckUyYUlhQXJZVFdCakNNQ1RHZUpiUS00NDUyVnFJSy1SeEpSaW9Hc1Q0WElQdm9OcEpfSGN3NF9nX0FPeUtwcHJDdEk2ZXBYdnlyMVJaVmcxeWczc3ZTaFJSS2F0WHJaNDhOdVHSAYwBQVVfeXFMTkk1QV9WN2dNcEFYcGgydmZ5NnpkYXBKNjJqREQxaVpEM1JGUllCV2laalctVXZjVjQ3X09fdzZVWHc0UFAydXY4eFJSSGlxMmlxdHk2SUVUTHFRMzZmUjY4TEp0b1Fjak82R3hfdVpGcC02NmVRdVBpdUVCY1FDa01OY01HWHZKeEhyV1U?oc=5)
 

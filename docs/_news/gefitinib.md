@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre Gefitinib"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Gefitinib. 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Gefitinib. 9 indicações previstas."
 permalink: /news/gefitinib/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gefitinib?">
-<strong>Gefitinib</strong> tem atualmente <strong>5 notícias</strong> e 10 indicações previstas.
+<strong>Gefitinib</strong> tem atualmente <strong>7 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -26,29 +26,60 @@ Esta página combina as indicações previstas por IA para Gefitinib com as not�
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Fibromatose Gengival (Fibromatosis, gingival)</li>
-<li>Fibroma de pulmão</li>
-<li>Miopatia por corpúsculos de inclusão com doença de Paget precoce ± demência frontotemporal</li>
-<li>Hamartoma de pulmão</li>
-<li>Carcinoma do hilo pulmonar</li>
-<li>Neoplasia benigna de pulmão</li>
-<li>Síndrome leucomelanodermia-infantilismo-deficiência intelectual-hipodontia-hipotricose</li>
-<li>Neoplasia do sulco pulmonar (tumor de Pancoast)</li>
-<li>Tumor de células germinativas do pulmão</li>
-<li>Epidermólise bolhosa juncional</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>fibromatose gengival (fibromatosis, gingival)</li>
+<li>fibroma of lung</li>
+<li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia</li>
+<li>hamartoma of lung</li>
+<li>lung benign neoplasm</li>
+<li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome</li>
+<li>lung germ cell tumor</li>
+<li>pulmonary sulcus neoplasm</li>
+<li>junctional epidermolysis bullosa</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (5)
+## Notícias relacionadas (7)
+
+### [Câncer de intestino antes dos 50: veja fatores de risco - SBT News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrUTdGUjFpck1USFVnU0pBN1paWURYcnNaN2dlTXhLUFd5eWdsb1YyVDBXRTRZUEtiNGpOa0VLcmlNUVFfZVB1cUlXWjhXaXR3aGpKNmZSZmQ5UHNYY1ZQbTUxZVRGeHhCT3JmV2h4d19kSGRjdVdDLWd0bmt2ZUw1M0VweXdkUlcyNkQyS2FzdWw1QU95OA?oc=5)
+
+2026-10-28 <span class="news-indication-tag">câncer</span>
+
+Fonte: [SBT News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrUTdGUjFpck1USFVnU0pBN1paWURYcnNaN2dlTXhLUFd5eWdsb1YyVDBXRTRZUEtiNGpOa0VLcmlNUVFfZVB1cUlXWjhXaXR3aGpKNmZSZmQ5UHNYY1ZQbTUxZVRGeHhCT3JmV2h4d19kSGRjdVdDLWd0bmt2ZUw1M0VweXdkUlcyNkQyS2FzdWw1QU95OA?oc=5)
+
+---
 
 ### [Tumor cerebral: por que os primeiros sinais podem passar despercebidos?](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGxHemItM2RYU1NHQUpIa1l5bEdfbVhTbWcxZk9sRkRTN1FzY25CS2RYLUF6UVk0azFsaVlIR3pzTGthVDNySUh6ckQ1Q3JvOVFUZGdXei1hUmIySWpzMF9GZ2lZelhoazF5WjlNeUdFZFdsZEloX2ZmWE01QmRyZngwVjN4djYzLU9iM1VKTUtwZ21ZM0JENGxPaDNHYkdGMXA3Mlh1ajlwMnA1eWpIRkE0RHBzQ0dDZ3k4S280MnA4UEkzNDlIVXMwU04?oc=5)
 
 2026-10-28 <span class="news-indication-tag">tumor</span>
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGxHemItM2RYU1NHQUpIa1l5bEdfbVhTbWcxZk9sRkRTN1FzY25CS2RYLUF6UVk0azFsaVlIR3pzTGthVDNySUh6ckQ1Q3JvOVFUZGdXei1hUmIySWpzMF9GZ2lZelhoazF5WjlNeUdFZFdsZEloX2ZmWE01QmRyZngwVjN4djYzLU9iM1VKTUtwZ21ZM0JENGxPaDNHYkdGMXA3Mlh1ajlwMnA1eWpIRkE0RHBzQ0dDZ3k4S280MnA4UEkzNDlIVXMwU04?oc=5)
+
+---
+
+### [Idosa obtém liminar para plano custear remédio contra câncer de pâncreas que emocionou médicos em congresso - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdFFoSWdLY0xCZjVpaDczTnRmWVNDcGZqRm1CaXlOOFpiMllDS2l1anowTU05cUNZejg4M0UtSjlJa1l2d20xaGVybElsNzlUb0dqY3QwQmktN3lwcl9VNGN3bXAyTDF5YkE4bGRNelRNdjdmRHZJdWxnX2I2RU9RampER19SVmtLQVdLLVBRSGswanhOejZwYUtpTWJxaHAwVXJTNWlSbXdySndaWEEwNlVvSTRXSUlOUFVpNTdZaWVGRFh6U2tkOVVBVUtOQS1JbjdxVGl6VkJITERUTmRtbmNsS193Q0ZYNy1pank0cFVMQXBmZUpHYVcyYXE?oc=5)
+
+2026-10-28 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdFFoSWdLY0xCZjVpaDczTnRmWVNDcGZqRm1CaXlOOFpiMllDS2l1anowTU05cUNZejg4M0UtSjlJa1l2d20xaGVybElsNzlUb0dqY3QwQmktN3lwcl9VNGN3bXAyTDF5YkE4bGRNelRNdjdmRHZJdWxnX2I2RU9RampER19SVmtLQVdLLVBRSGswanhOejZwYUtpTWJxaHAwVXJTNWlSbXdySndaWEEwNlVvSTRXSUlOUFVpNTdZaWVGRFh6U2tkOVVBVUtOQS1JbjdxVGl6VkJITERUTmRtbmNsS193Q0ZYNy1pank0cFVMQXBmZUpHYVcyYXE?oc=5)
+
+---
+
+### [Dados do Inca mostram que mulheres negras morrem 3,8 vezes mais que brancas por câncer de mama - O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2azBFcU1ZVXRJeXNQQzJvZEhIZl8zaWZsX2FIWkxZZjRhUUsxZ25NdWd6THNYaW1mblY0c2E0bjYxd1dDYkJ3UlphOTMyWUhJR2FFV0VHRkIxUGM2b2pCVmFqSjFNbDBIc0drcVhfWUFRZ3gxRnJEWno5OUh5dndjUUF3WmJkQVBTbTBkeHhJM2llcG9ZMTJENHBvZlMxS0tiLTBhWFZxTy1hcHQ2TWIzcnc4TjcteF93MU5XQXBhejdrMlp3Vzlyak5ucmJUWmFMdmdaMlgwR3RYZzIxMNIB8gFBVV95cUxNWUZnVV90QXAydnpZUU54b3lFRDJZaUEteXRMYzk2aHI4dllicFEzWUJfUTQzdUlRMzFmRUVNTWJCNE5RSXhyaHpma2ctNkJiZWFQNkI4c3BWMjRjbnozSGtjMWZmOS1jTFZDZHRjT1E0emhUVi1jYnJtRXJzMmtoWnhMdUFLRURRdTFTU1Y3REZYXzBVbXRrOWFXWHFGOXZnT3lMSUdTbFc0MnMzYzBXajYyMTYxNWlGMHk4Nmg5MTNhQ2F2MnhMSjQ4UUppV2x5R3BkbmdDUlVVRGpfTzAyaGNsWWFQWjNHN0NpWm04Tktudw?oc=5)
+
+2026-10-28 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2azBFcU1ZVXRJeXNQQzJvZEhIZl8zaWZsX2FIWkxZZjRhUUsxZ25NdWd6THNYaW1mblY0c2E0bjYxd1dDYkJ3UlphOTMyWUhJR2FFV0VHRkIxUGM2b2pCVmFqSjFNbDBIc0drcVhfWUFRZ3gxRnJEWno5OUh5dndjUUF3WmJkQVBTbTBkeHhJM2llcG9ZMTJENHBvZlMxS0tiLTBhWFZxTy1hcHQ2TWIzcnc4TjcteF93MU5XQXBhejdrMlp3Vzlyak5ucmJUWmFMdmdaMlgwR3RYZzIxMNIB8gFBVV95cUxNWUZnVV90QXAydnpZUU54b3lFRDJZaUEteXRMYzk2aHI4dllicFEzWUJfUTQzdUlRMzFmRUVNTWJCNE5RSXhyaHpma2ctNkJiZWFQNkI4c3BWMjRjbnozSGtjMWZmOS1jTFZDZHRjT1E0emhUVi1jYnJtRXJzMmtoWnhMdUFLRURRdTFTU1Y3REZYXzBVbXRrOWFXWHFGOXZnT3lMSUdTbFc0MnMzYzBXajYyMTYxNWlGMHk4Nmg5MTNhQ2F2MnhMSjQ4UUppV2x5R3BkbmdDUlVVRGpfTzAyaGNsWWFQWjNHN0NpWm04Tktudw?oc=5)
+
+---
+
+### [Incidência de câncer é maior em pessoas com diabetes tipo 2 - Portal Drauzio Varella](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWpNTEZwTlh0R25SN19DQ09mM2JvZ3BkeHdOTDB2UXNIVFU4OFJyNTllQ18yTzlEa25FNFotYjYwV2QxM2hzREE3ell2V0tPWTFvekFpVjhYLTRWYjlCQzkzeG9SamxGS0lLYXdsWFN3VEdoT2hhdnpYbHgyZm1jd1hyX0ZOUGFiWl90SlBoNUZXZFRKUzBNNGNpOU1QeXd2cTJTc2NZcHZRbXhaT0pZMExzWnN6czZfdTB2dg?oc=5)
+
+2026-10-27 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Portal Drauzio Varella](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWpNTEZwTlh0R25SN19DQ09mM2JvZ3BkeHdOTDB2UXNIVFU4OFJyNTllQ18yTzlEa25FNFotYjYwV2QxM2hzREE3ell2V0tPWTFvekFpVjhYLTRWYjlCQzkzeG9SamxGS0lLYXdsWFN3VEdoT2hhdnpYbHgyZm1jd1hyX0ZOUGFiWl90SlBoNUZXZFRKUzBNNGNpOU1QeXd2cTJTc2NZcHZRbXhaT0pZMExzWnN6czZfdTB2dg?oc=5)
 
 ---
 
@@ -60,27 +91,11 @@ Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0Vl
 
 ---
 
-### [A ciência e a política por trás do pânico em torno dos alimentos ultraprocessados - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFMwdG1PZzRLeFAwNjkwRFd6a3piZmthaU1ZcGNjdy1OdFlOZ3BhWm16VGkzMDdZLVR6S19DdjNwbWpPcE1mQ3dCY2VXSHdHRV9SNkE3QnZUWTBITlR1VmVaakJGSV9qMTFQdlNwYnJxMThtRmx5U0JJNHctbjNuYUxsMmJtcG81X0U5YkhIbDZlc0ItWHd1MmFHMDRicC10TVRLaTFTc3Jsb3QyMW9JVjItUmxfVjZvWXpmc0h4ZmFaTUtzN2pxWUlVMGxVQ3J4amc?oc=5)
-
-2026-10-27 <span class="news-indication-tag">câncer</span>
-
-Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFMwdG1PZzRLeFAwNjkwRFd6a3piZmthaU1ZcGNjdy1OdFlOZ3BhWm16VGkzMDdZLVR6S19DdjNwbWpPcE1mQ3dCY2VXSHdHRV9SNkE3QnZUWTBITlR1VmVaakJGSV9qMTFQdlNwYnJxMThtRmx5U0JJNHctbjNuYUxsMmJtcG81X0U5YkhIbDZlc0ItWHd1MmFHMDRicC10TVRLaTFTc3Jsb3QyMW9JVjItUmxfVjZvWXpmc0h4ZmFaTUtzN2pxWUlVMGxVQ3J4amc?oc=5)
-
----
-
 ### [Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda - O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5)
 
 2026-10-26 <span class="news-indication-tag">demência</span>
 
 Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5)
-
----
-
-### [Câncer de intestino: sintomas que não devem ser ignorados - Campo Grande News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5)
-
-2026-10-22 <span class="news-indication-tag">câncer</span>
-
-Fonte: [Campo Grande News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5)
 
 ---
 

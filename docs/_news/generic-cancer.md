@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Notícias sobre tumor (generic_cancer)"
+title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre tumor (generic_cancer). 4 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 6 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-10-28
 ---
 
-# Notícias sobre tumor (generic_cancer)
+# Notícias sobre câncer (generic_cancer)
 
 [← Voltar à visão geral das notícias]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Que notícias há sobre tumor (generic_cancer)?">
-<strong>tumor (generic_cancer)</strong> tem atualmente <strong>4 notícias</strong> e 93 medicamentos relacionados.
+<p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>6 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
-Esta página reúne as notícias de saúde mais recentes sobre «tumor» e lista os medicamentos da base de dados BrTxGNN cujas indicações previstas incluem esta doença.
+Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lista os medicamentos da base de dados BrTxGNN cujas indicações previstas incluem esta doença.
 </div>
 
 <div class="related-drugs-card">
@@ -84,7 +84,6 @@ Esta página reúne as notícias de saúde mais recentes sobre «tumor» e lista
 <li><a href="{{ '/drugs/megestrol-acetate/' | relative_url }}">Megestrol acetate</a></li>
 <li><a href="{{ '/drugs/methotrexate/' | relative_url }}">Methotrexate</a></li>
 <li><a href="{{ '/drugs/mometasone/' | relative_url }}">Mometasone</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Nitazoxanide</a></li>
 <li><a href="{{ '/drugs/nomegestrol-acetate/' | relative_url }}">Nomegestrol acetate</a></li>
 <li><a href="{{ '/drugs/norfloxacin/' | relative_url }}">Norfloxacin</a></li>
 <li><a href="{{ '/drugs/oxaliplatin/' | relative_url }}">Oxaliplatin</a></li>
@@ -104,7 +103,6 @@ Esta página reúne as notícias de saúde mais recentes sobre «tumor» e lista
 <li><a href="{{ '/drugs/secnidazole/' | relative_url }}">Secnidazole</a></li>
 <li><a href="{{ '/drugs/serine/' | relative_url }}">Serine</a></li>
 <li><a href="{{ '/drugs/sirolimus/' | relative_url }}">Sirolimus</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Sodium chloride</a></li>
 <li><a href="{{ '/drugs/sorafenib/' | relative_url }}">Sorafenib</a></li>
 <li><a href="{{ '/drugs/sorbitol/' | relative_url }}">Sorbitol</a></li>
 <li><a href="{{ '/drugs/tamoxifen/' | relative_url }}">Tamoxifen</a></li>
@@ -112,7 +110,6 @@ Esta página reúne as notícias de saúde mais recentes sobre «tumor» e lista
 <li><a href="{{ '/drugs/tetracycline/' | relative_url }}">Tetracycline</a></li>
 <li><a href="{{ '/drugs/tezacaftor/' | relative_url }}">Tezacaftor</a></li>
 <li><a href="{{ '/drugs/tinidazole/' | relative_url }}">Tinidazole</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Tisagenlecleucel</a></li>
 <li><a href="{{ '/drugs/topiramate/' | relative_url }}">TOPIRAMATE</a></li>
 <li><a href="{{ '/drugs/trastuzumab/' | relative_url }}">Trastuzumab</a></li>
 <li><a href="{{ '/drugs/valsartan/' | relative_url }}">VALSARTAN</a></li>
@@ -122,7 +119,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «tumor» e lista
 </ul>
 </div>
 
-## Notícias relacionadas (4)
+## Notícias relacionadas (6)
+
+### [Câncer de intestino antes dos 50: veja fatores de risco - SBT News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrUTdGUjFpck1USFVnU0pBN1paWURYcnNaN2dlTXhLUFd5eWdsb1YyVDBXRTRZUEtiNGpOa0VLcmlNUVFfZVB1cUlXWjhXaXR3aGpKNmZSZmQ5UHNYY1ZQbTUxZVRGeHhCT3JmV2h4d19kSGRjdVdDLWd0bmt2ZUw1M0VweXdkUlcyNkQyS2FzdWw1QU95OA?oc=5)
+
+2026-10-28
+
+Fonte: [SBT News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrUTdGUjFpck1USFVnU0pBN1paWURYcnNaN2dlTXhLUFd5eWdsb1YyVDBXRTRZUEtiNGpOa0VLcmlNUVFfZVB1cUlXWjhXaXR3aGpKNmZSZmQ5UHNYY1ZQbTUxZVRGeHhCT3JmV2h4d19kSGRjdVdDLWd0bmt2ZUw1M0VweXdkUlcyNkQyS2FzdWw1QU95OA?oc=5)
+
+---
 
 ### [Tumor cerebral: por que os primeiros sinais podem passar despercebidos?](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGxHemItM2RYU1NHQUpIa1l5bEdfbVhTbWcxZk9sRkRTN1FzY25CS2RYLUF6UVk0azFsaVlIR3pzTGthVDNySUh6ckQ1Q3JvOVFUZGdXei1hUmIySWpzMF9GZ2lZelhoazF5WjlNeUdFZFdsZEloX2ZmWE01QmRyZngwVjN4djYzLU9iM1VKTUtwZ21ZM0JENGxPaDNHYkdGMXA3Mlh1ajlwMnA1eWpIRkE0RHBzQ0dDZ3k4S280MnA4UEkzNDlIVXMwU04?oc=5)
 
@@ -132,27 +137,35 @@ Fonte: [UOL](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGxHemItM2RYU1
 
 ---
 
+### [Idosa obtém liminar para plano custear remédio contra câncer de pâncreas que emocionou médicos em congresso - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdFFoSWdLY0xCZjVpaDczTnRmWVNDcGZqRm1CaXlOOFpiMllDS2l1anowTU05cUNZejg4M0UtSjlJa1l2d20xaGVybElsNzlUb0dqY3QwQmktN3lwcl9VNGN3bXAyTDF5YkE4bGRNelRNdjdmRHZJdWxnX2I2RU9RampER19SVmtLQVdLLVBRSGswanhOejZwYUtpTWJxaHAwVXJTNWlSbXdySndaWEEwNlVvSTRXSUlOUFVpNTdZaWVGRFh6U2tkOVVBVUtOQS1JbjdxVGl6VkJITERUTmRtbmNsS193Q0ZYNy1pank0cFVMQXBmZUpHYVcyYXE?oc=5)
+
+2026-10-28
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdFFoSWdLY0xCZjVpaDczTnRmWVNDcGZqRm1CaXlOOFpiMllDS2l1anowTU05cUNZejg4M0UtSjlJa1l2d20xaGVybElsNzlUb0dqY3QwQmktN3lwcl9VNGN3bXAyTDF5YkE4bGRNelRNdjdmRHZJdWxnX2I2RU9RampER19SVmtLQVdLLVBRSGswanhOejZwYUtpTWJxaHAwVXJTNWlSbXdySndaWEEwNlVvSTRXSUlOUFVpNTdZaWVGRFh6U2tkOVVBVUtOQS1JbjdxVGl6VkJITERUTmRtbmNsS193Q0ZYNy1pank0cFVMQXBmZUpHYVcyYXE?oc=5)
+
+---
+
+### [Dados do Inca mostram que mulheres negras morrem 3,8 vezes mais que brancas por câncer de mama - O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2azBFcU1ZVXRJeXNQQzJvZEhIZl8zaWZsX2FIWkxZZjRhUUsxZ25NdWd6THNYaW1mblY0c2E0bjYxd1dDYkJ3UlphOTMyWUhJR2FFV0VHRkIxUGM2b2pCVmFqSjFNbDBIc0drcVhfWUFRZ3gxRnJEWno5OUh5dndjUUF3WmJkQVBTbTBkeHhJM2llcG9ZMTJENHBvZlMxS0tiLTBhWFZxTy1hcHQ2TWIzcnc4TjcteF93MU5XQXBhejdrMlp3Vzlyak5ucmJUWmFMdmdaMlgwR3RYZzIxMNIB8gFBVV95cUxNWUZnVV90QXAydnpZUU54b3lFRDJZaUEteXRMYzk2aHI4dllicFEzWUJfUTQzdUlRMzFmRUVNTWJCNE5RSXhyaHpma2ctNkJiZWFQNkI4c3BWMjRjbnozSGtjMWZmOS1jTFZDZHRjT1E0emhUVi1jYnJtRXJzMmtoWnhMdUFLRURRdTFTU1Y3REZYXzBVbXRrOWFXWHFGOXZnT3lMSUdTbFc0MnMzYzBXajYyMTYxNWlGMHk4Nmg5MTNhQ2F2MnhMSjQ4UUppV2x5R3BkbmdDUlVVRGpfTzAyaGNsWWFQWjNHN0NpWm04Tktudw?oc=5)
+
+2026-10-28
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2azBFcU1ZVXRJeXNQQzJvZEhIZl8zaWZsX2FIWkxZZjRhUUsxZ25NdWd6THNYaW1mblY0c2E0bjYxd1dDYkJ3UlphOTMyWUhJR2FFV0VHRkIxUGM2b2pCVmFqSjFNbDBIc0drcVhfWUFRZ3gxRnJEWno5OUh5dndjUUF3WmJkQVBTbTBkeHhJM2llcG9ZMTJENHBvZlMxS0tiLTBhWFZxTy1hcHQ2TWIzcnc4TjcteF93MU5XQXBhejdrMlp3Vzlyak5ucmJUWmFMdmdaMlgwR3RYZzIxMNIB8gFBVV95cUxNWUZnVV90QXAydnpZUU54b3lFRDJZaUEteXRMYzk2aHI4dllicFEzWUJfUTQzdUlRMzFmRUVNTWJCNE5RSXhyaHpma2ctNkJiZWFQNkI4c3BWMjRjbnozSGtjMWZmOS1jTFZDZHRjT1E0emhUVi1jYnJtRXJzMmtoWnhMdUFLRURRdTFTU1Y3REZYXzBVbXRrOWFXWHFGOXZnT3lMSUdTbFc0MnMzYzBXajYyMTYxNWlGMHk4Nmg5MTNhQ2F2MnhMSjQ4UUppV2x5R3BkbmdDUlVVRGpfTzAyaGNsWWFQWjNHN0NpWm04Tktudw?oc=5)
+
+---
+
+### [Incidência de câncer é maior em pessoas com diabetes tipo 2 - Portal Drauzio Varella](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWpNTEZwTlh0R25SN19DQ09mM2JvZ3BkeHdOTDB2UXNIVFU4OFJyNTllQ18yTzlEa25FNFotYjYwV2QxM2hzREE3ell2V0tPWTFvekFpVjhYLTRWYjlCQzkzeG9SamxGS0lLYXdsWFN3VEdoT2hhdnpYbHgyZm1jd1hyX0ZOUGFiWl90SlBoNUZXZFRKUzBNNGNpOU1QeXd2cTJTc2NZcHZRbXhaT0pZMExzWnN6czZfdTB2dg?oc=5)
+
+2026-10-27
+
+Fonte: [Portal Drauzio Varella](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWpNTEZwTlh0R25SN19DQ09mM2JvZ3BkeHdOTDB2UXNIVFU4OFJyNTllQ18yTzlEa25FNFotYjYwV2QxM2hzREE3ell2V0tPWTFvekFpVjhYLTRWYjlCQzkzeG9SamxGS0lLYXdsWFN3VEdoT2hhdnpYbHgyZm1jd1hyX0ZOUGFiWl90SlBoNUZXZFRKUzBNNGNpOU1QeXd2cTJTc2NZcHZRbXhaT0pZMExzWnN6czZfdTB2dg?oc=5)
+
+---
+
 ### [Anvisa libera remédio para câncer de pulmão avançado - UOL Notícias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0VlaHJ1enI4WW5hMmRhSWxpUWREMjl0V0dSMlI4REEzb09pWlpIQURUU0twNG93QlI4Z1pvcUZEem5OQ3dob1VhWGhTM2RWeW5lWTJGTURuUmFlUWgyREQwYnNjTnpnQzFXV1lNbThjWjBVSWtWYU5lMVhOcFVqU1RnOWpYajJkMXJyeWthSFFiSFhwQVlCeU82ODlBS1pBeC0xMm9KLWZoWEZuVjBUZWk1VWt5ZnJONkd4VTh6aFBTaWNuUlE?oc=5)
 
 2026-10-27
 
 Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0VlaHJ1enI4WW5hMmRhSWxpUWREMjl0V0dSMlI4REEzb09pWlpIQURUU0twNG93QlI4Z1pvcUZEem5OQ3dob1VhWGhTM2RWeW5lWTJGTURuUmFlUWgyREQwYnNjTnpnQzFXV1lNbThjWjBVSWtWYU5lMVhOcFVqU1RnOWpYajJkMXJyeWthSFFiSFhwQVlCeU82ODlBS1pBeC0xMm9KLWZoWEZuVjBUZWk1VWt5ZnJONkd4VTh6aFBTaWNuUlE?oc=5)
-
----
-
-### [A ciência e a política por trás do pânico em torno dos alimentos ultraprocessados - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFMwdG1PZzRLeFAwNjkwRFd6a3piZmthaU1ZcGNjdy1OdFlOZ3BhWm16VGkzMDdZLVR6S19DdjNwbWpPcE1mQ3dCY2VXSHdHRV9SNkE3QnZUWTBITlR1VmVaakJGSV9qMTFQdlNwYnJxMThtRmx5U0JJNHctbjNuYUxsMmJtcG81X0U5YkhIbDZlc0ItWHd1MmFHMDRicC10TVRLaTFTc3Jsb3QyMW9JVjItUmxfVjZvWXpmc0h4ZmFaTUtzN2pxWUlVMGxVQ3J4amc?oc=5)
-
-2026-10-27
-
-Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFMwdG1PZzRLeFAwNjkwRFd6a3piZmthaU1ZcGNjdy1OdFlOZ3BhWm16VGkzMDdZLVR6S19DdjNwbWpPcE1mQ3dCY2VXSHdHRV9SNkE3QnZUWTBITlR1VmVaakJGSV9qMTFQdlNwYnJxMThtRmx5U0JJNHctbjNuYUxsMmJtcG81X0U5YkhIbDZlc0ItWHd1MmFHMDRicC10TVRLaTFTc3Jsb3QyMW9JVjItUmxfVjZvWXpmc0h4ZmFaTUtzN2pxWUlVMGxVQ3J4amc?oc=5)
-
----
-
-### [Câncer de intestino: sintomas que não devem ser ignorados - Campo Grande News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5)
-
-2026-10-22
-
-Fonte: [Campo Grande News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5)
 
 ---
 

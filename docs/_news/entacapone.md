@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre ENTACAPONE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ENTACAPONE. 1 indicações previstas."
+description: "Notícias de saúde relacionadas com ENTACAPONE. 10 indicações previstas."
 permalink: /news/entacapone/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Notícias sobre ENTACAPONE
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ENTACAPONE?">
-<strong>ENTACAPONE</strong> tem atualmente <strong>1 notícias</strong> e 1 indicações previstas.
+<strong>ENTACAPONE</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,17 @@ Esta página combina as indicações previstas por IA para ENTACAPONE com as not
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L5</li>
-<li><strong>Indicações previstas (1)</strong>:<ul>
+<li><strong>Indicações previstas (10)</strong>:<ul>
 <li>Neurodegeneração associada ao PLA2G6 (PLA2G6-associated neurodegeneration)</li>
+<li>Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis)</li>
+<li>myelitis</li>
+<li>paralysis agitans, juvenile, of Hunt</li>
+<li>transaldolase deficiency</li>
+<li>lethal infantile mitochondrial myopathy</li>
+<li>Lewy body dementia</li>
+<li>fructose-1,6-bisphosphatase deficiency</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis</li>
+<li>progressive supranuclear palsy-corticobasal syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
