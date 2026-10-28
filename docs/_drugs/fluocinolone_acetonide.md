@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-13
-description: "Fluocinolone Acetonide: nova indicação prevista, Líquen plano atrófico anular (annular atrophic lichen planus) (nível de evidência L5). Indicação original: Desmelanizantes"
+last_modified_at: 2026-10-28
 monitor_inn: "fluocinolone acetonide"
 predicted_indications: ["annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides"]
+description: "Fluocinolone Acetonide: nova indicação prevista, Líquen plano atrófico anular (annular atrophic lichen planus) (nível de evidência L5). Indicação original: DESMELANIZANTES"
 ---
 
 # Fluocinolone Acetonide
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-## Fluocinolona acetonida: De desmelanizante e corticoide tópico associado para líquen plano atrófico anular
+## Fluocinolone Acetonide: Líquen plano atrófico anular (annular atrophic lichen planus)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,15 +46,15 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compilado
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Desmelanizantes |
+| Indicação Original | DESMELANIZANTES; GLICOCORTICOIDES TOPICOS - ASSOCIACAO MEDICAMENTOSA; MEDICAMENTOS COM ACAO NO APARELHO AUDITIVO |
 | Nova Indicação Prevista | Líquen plano atrófico anular (annular atrophic lichen planus) |
-| Pontuação de Previsão TxGNN | 0,9942 |
+| Pontuação de Previsão TxGNN | 0.9942 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
 | Número de Registros | 9 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
-Outras previsões do modelo, com o mesmo nível de evidência (L5) e igualmente sem estudos associados: líquen plano hipertrófico (99,42%), líquen plano pigmentoso (99,42%) e líquen plano penfigoide (99,34%).
+Outras previsões do modelo, com o mesmo nível de evidência (L5) e igualmente sem estudos associados: líquen plano hipertrófico (0.9942), líquen plano pigmentoso (0.9942) e líquen plano penfigoide (0.9934).
 
 ## Por que Esta Previsão é Razoável?
 

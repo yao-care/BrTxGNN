@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Zinc Acetate: nova indicação prevista, Retinopatia diabética não proliferativa grave (severe nonproliferativ… (nível de evidência L5). Indicação original: Soluções que ajustam o balanço eletrolítico"
+last_modified_at: 2026-10-28
 monitor_inn: "Zinc acetate"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "urinary tract infection (disease)"]
+description: "Zinc Acetate: nova indicação prevista, Retinopatia diabética não proliferativa grave (severe nonproliferative diabetic retinopathy) (nível de evidência L5). Indicação original: SOLUÇÕES QUE AJUSTAM O…"
 ---
 
 # Zinc Acetate
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Acetato de zinco: De soluções que ajustam o balanço eletrolítico para retinopatia diabética não proliferativa grave
+## Zinc Acetate: Retinopatia diabética não proliferativa grave (severe nonproliferative diabetic retinopathy)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Soluções que ajustam o balanço eletrolítico |
+| Indicação Original | SOLUÇÕES QUE AJUSTAM O BALANÇO ELETROLÍTICO |
 | Nova Indicação Prevista | Retinopatia diabética não proliferativa grave (severe nonproliferative diabetic retinopathy) |
-| Pontuação de Previsão TxGNN | 0,9997 |
+| Pontuação de Previsão TxGNN | 0.9997 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 O zinco atua como cofator antioxidante (por exemplo, da superóxido dismutase) e poderia, em tese, modular o estresse oxidativo na retina diabética. Não há, porém, nenhum ensaio ou publicação nos dados compilados para este relatório que sustente essa hipótese. A pontuação elevada do TxGNN é apenas uma previsão computacional.
 
-A relação entre a indicação original (reposição eletrolítica) e a nova (doença microvascular da retina) é indireta. Previsões vizinhas, como retinopatia diabética (99,92%), compartilham a mesma lógica e a mesma ausência de evidências.
+A relação entre a indicação original (reposição eletrolítica) e a nova (doença microvascular da retina) é indireta. Previsões vizinhas, como retinopatia diabética (0.9992), compartilham a mesma lógica e a mesma ausência de evidências.
 
 ## Outras Indicações Previstas
 

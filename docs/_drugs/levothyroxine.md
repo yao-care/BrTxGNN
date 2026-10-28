@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-10-23
-description: "Levothyroxine: nova indicação prevista, Hipodisplasia/aplasia renal (nível de evidência L5). Indicação original: Hormônios tireoidianos simples ou associados entre si"
+last_modified_at: 2026-10-28
+description: "Levothyroxine: nova indicação prevista, Hipodisplasia/aplasia renal (renal hypodysplasia/aplasia) (nível de evidência L5). Indicação original: HORMONIOS TIREOIDEANOS SIMPLES OU ASSOCIADOS ENTRE SI"
 ---
 
 # Levothyroxine
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-## Levotiroxina: De hormônio tireoidiano à hipodisplasia/aplasia renal (previsão computacional)
+## Levothyroxine: Hipodisplasia/aplasia renal (renal hypodysplasia/aplasia)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ mas **não há ensaios clínicos nem publicações** nos dados compilados para e
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hormônios tireoidianos simples ou associados entre si |
-| Nova Indicação Prevista | Hipodisplasia/aplasia renal |
-| Pontuação de Previsão TxGNN | 0,9967 |
+| Indicação Original | HORMONIOS TIREOIDEANOS SIMPLES OU ASSOCIADOS ENTRE SI |
+| Nova Indicação Prevista | Hipodisplasia/aplasia renal (renal hypodysplasia/aplasia) |
+| Pontuação de Previsão TxGNN | 0.9967 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
 | Número de Registros | 6 (ativos: 6) |
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A razoabilidade, porém, é fraca. A hipodisplasia/aplasia renal é uma malformação congênita estrutural, geralmente associada a defeitos genéticos (como PAX2, HNF1B e RET). Não há mecanismo estabelecido pelo qual a levotiroxina exógena reverta ou trate essa condição. A pontuação alta (0,9967) é apenas uma previsão computacional, provavelmente refletindo proximidade na rede de conhecimento.
 
-Outras previsões do modelo seguem a mesma lógica e também carecem de evidências: agenesia renal bilateral (99,60%), sequência de Potter (99,33%) e complexo de Carney (99,18%). Neste último há uma conexão endócrina frouxa (envolvimento da tireoide), e a levotiroxina poderia servir como terapia de suporte, por exemplo no hipotireoidismo pós-cirúrgico ou na supressão de TSH, e não como tratamento modificador da doença.
+Outras previsões do modelo seguem a mesma lógica e também carecem de evidências: agenesia renal bilateral (0.9960), sequência de Potter (0.9933) e complexo de Carney (0.9918). Neste último há uma conexão endócrina frouxa (envolvimento da tireoide), e a levotiroxina poderia servir como terapia de suporte, por exemplo no hipotireoidismo pós-cirúrgico ou na supressão de TSH, e não como tratamento modificador da doença.
 
 ## Evidências de Ensaios Clínicos
 

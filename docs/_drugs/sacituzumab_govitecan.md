@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 576
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-13
-description: "Sacituzumab Govitecan: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
+last_modified_at: 2026-10-28
 monitor_inn: "sacituzumab govitecan"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
+description: "Sacituzumab Govitecan: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Sacituzumab Govitecan
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-## Sacituzumabe govitecana: Da indicação original não registrada à osteoporose induzida por fármacos
+## Sacituzumab Govitecan: Osteoporose induzida por fármacos (drug-induced osteoporosis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,9 +45,9 @@ O modelo TxGNN prevê que pode ser eficaz para **osteoporose induzida por fárma
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível nos dados compilados (o registro não traz texto de indicação) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Osteoporose induzida por fármacos (drug-induced osteoporosis) |
-| Pontuação de Previsão TxGNN | 0,9978 |
+| Pontuação de Previsão TxGNN | 0.9978 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 **Não se estabelece um vínculo mecanístico plausível** com a osteoporose induzida por fármacos. A quimioterapia citotóxica está, em geral, mais associada à perda óssea do que à proteção óssea. A pontuação elevada do TxGNN (0,9978) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica nem um mecanismo terapêutico real.
 
-Outras indicações previstas pelo modelo também carecem de respaldo. Para retinopatia diabética grave não proliferativa (99,69%), retinopatia diabética (99,60%) e catarata diabética (99,12%), não há ensaios nem literatura, e o risco do uso sistêmico de um citotóxico (mielossupressão, infecções) em população crônica não oncológica é desfavorável.
+Outras indicações previstas pelo modelo também carecem de respaldo. Para retinopatia diabética grave não proliferativa (0.9969), retinopatia diabética (0.9960) e catarata diabética (0.9912), não há ensaios nem literatura, e o risco do uso sistêmico de um citotóxico (mielossupressão, infecções) em população crônica não oncológica é desfavorável.
 
 ## Informações de Comercialização no Brasil
 

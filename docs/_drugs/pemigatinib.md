@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 515
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-13
-description: "Pemigatinib: nova indicação prevista, Neoplasia Endócrina Múltipla (Multiple Endocrine Neoplasia) (nível de evidência L5). Indicação original: Outros antineoplásicos"
+last_modified_at: 2026-10-28
 monitor_inn: "pemigatinib"
 predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "axial spondylometaphyseal dysplasia"]
+description: "Pemigatinib: nova indicação prevista, Neoplasia Endócrina Múltipla (multiple endocrine neoplasia) (nível de evidência L5). Indicação original: OUTROS ANTINEOPLASICOS"
 ---
 
 # Pemigatinib
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-## Pemigatinibe: De outros antineoplásicos para neoplasia endócrina múltipla
+## Pemigatinib: Neoplasia Endócrina Múltipla (multiple endocrine neoplasia)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,9 +45,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Neoplasia Endócrina Múltipla 
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Outros antineoplásicos |
-| Nova Indicação Prevista | Neoplasia Endócrina Múltipla (Multiple Endocrine Neoplasia) |
-| Pontuação de Previsão TxGNN | 0,9971 |
+| Indicação Original | OUTROS ANTINEOPLASICOS |
+| Nova Indicação Prevista | Neoplasia Endócrina Múltipla (multiple endocrine neoplasia) |
+| Pontuação de Previsão TxGNN | 0.9971 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
@@ -61,9 +61,9 @@ A sinalização FGF/FGFR já foi associada a alguns tumores endócrinos. No enta
 
 **Outras previsões do modelo (todas L5, sem ensaios clínicos):**
 
-- **Câncer de mama HER2 positivo (99,49%)**: biologicamente plausível, pois a sinalização de FGFR é uma via descrita de resistência a terapias anti-HER2 e endócrinas, o que poderia justificar pesquisas em combinação. Há uma publicação, mas é uma revisão geral de inibidores de quinase aprovados, sem evidência específica para a indicação.
-- **Esclerose lateral amiotrófica e variantes (99,41% a 99,25%)**: a direção do efeito é incerta, pois a sinalização de FGF costuma ser neurotrófica e sua inibição poderia ser desfavorável. A exposição no sistema nervoso central não está estabelecida. As variantes são redundantes entre si.
-- **Displasia espondilometafisária axial (99,25%)**: vínculo mecanístico fraco, pois a doença está associada a variantes do gene CFAP410, e não do FGFR; além disso, há preocupações de segurança em esqueleto em crescimento.
+- **Câncer de mama HER2 positivo (0.9949)**: biologicamente plausível, pois a sinalização de FGFR é uma via descrita de resistência a terapias anti-HER2 e endócrinas, o que poderia justificar pesquisas em combinação. Há uma publicação, mas é uma revisão geral de inibidores de quinase aprovados, sem evidência específica para a indicação.
+- **Esclerose lateral amiotrófica e variantes (0.9941 a 0.9925)**: a direção do efeito é incerta, pois a sinalização de FGF costuma ser neurotrófica e sua inibição poderia ser desfavorável. A exposição no sistema nervoso central não está estabelecida. As variantes são redundantes entre si.
+- **Displasia espondilometafisária axial (0.9925)**: vínculo mecanístico fraco, pois a doença está associada a variantes do gene CFAP410, e não do FGFR; além disso, há preocupações de segurança em esqueleto em crescimento.
 - **Amenorreia, infecção por citomegalovírus, rinotraqueíte infecciosa bovina e catarro maligno**: os escores vêm do modelo TxGNN (aprendizado profundo) e provavelmente refletem semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, ou sinais de eventos adversos, sem racional terapêutico plausível.
 
 ## Evidências de Ensaios Clínicos

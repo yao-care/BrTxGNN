@@ -5,10 +5,10 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 56
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Amiodarone: nova indicação prevista, Taquicardia ventricular polimórfica catecolaminérgica (catecholaminer… (nível de evidência L5). Indicação original: Antiarrítmicos"
+last_modified_at: 2026-10-28
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+description: "Amiodarone: nova indicação prevista, Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) (nível de evidência L4). Indicação original: ANTIARR…"
 ---
 
 # Amiodarone
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Amiodarona: Do tratamento de arritmias à Taquicardia ventricular polimórfica catecolaminérgica
+## Amiodarone: Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,9 +45,9 @@ O modelo TxGNN prevê que pode ser eficaz para **taquicardia ventricular polimó
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antiarrítmicos |
+| Indicação Original | ANTIARRITMICOS |
 | Nova Indicação Prevista | Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) |
-| Pontuação de Previsão TxGNN | 0,9978 |
+| Pontuação de Previsão TxGNN | 0.9978 |
 | Nível de Evidência | L4 (apenas estudos de coorte, relatos de caso e revisões; sem estudos diretos do fármaco na doença) |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
 | Número de Registros | 12 (ativos: 12) |
@@ -121,8 +121,8 @@ As informações de advertências e contraindicações da bula não estavam disp
 - O medicamento está comercializado no Brasil, com 12 registros válidos de 12.
 
 **Outras indicações previstas:**
-- **Taquicardia ventricular** (99,64%; L1): apoiada por ensaios de Fase 3 concluídos (AVID, NCT00000531; ALPS, NCT01401647) e por ensaios de Fase 4 (PROCAMIO, NCT00383799; OPTIC, NCT00257959; NCT03299517). É um uso já estabelecido, e não um reposicionamento verdadeiro; recomendação **Proceed with Guardrails**.
-- **Taquicardia ventricular incessante infantil** (99,65%; L2): há um estudo randomizado duplo-cego com amiodarona intravenosa em taquiarritmias incessantes pediátricas (PMID 16316969), mas a população é majoritariamente supraventricular/juncional, pequena e heterogênea. Considerada uma questão de pesquisa.
+- **Taquicardia ventricular** (0.9964; L1): apoiada por ensaios de Fase 3 concluídos (AVID, NCT00000531; ALPS, NCT01401647) e por ensaios de Fase 4 (PROCAMIO, NCT00383799; OPTIC, NCT00257959; NCT03299517). É um uso já estabelecido, e não um reposicionamento verdadeiro; recomendação **Proceed with Guardrails**.
+- **Taquicardia ventricular incessante infantil** (0.9965; L2): há um estudo randomizado duplo-cego com amiodarona intravenosa em taquiarritmias incessantes pediátricas (PMID 16316969), mas a população é majoritariamente supraventricular/juncional, pequena e heterogênea. Considerada uma questão de pesquisa.
 - **Bloqueio de ramo (rótulo obsoleto), artrite reumatoide, síndrome braquidactilia-sindactilia, deficiência do cofator II da heparina, tricotilomania, síndrome de microftalmia colobomatosa-displasia rizomélica e gota:** apenas previsão do modelo (L5), sem plausibilidade mecanística. Na artrite reumatoide e na gota, a literatura aponta riscos (toxicidade pulmonar; interação com colchicina e estatinas). Recomendação **Hold**.
 
 **Para prosseguir, é necessário:**

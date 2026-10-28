@@ -5,10 +5,10 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 565
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Rifampicin: nova indicação prevista, Conjuntivite (conjunctivitis) (nível de evidência L3). Indicação original: Rifampicinas / Tuberculostáticos"
+last_modified_at: 2026-10-28
 monitor_inn: "rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+description: "Rifampicin: nova indicação prevista, Conjuntivite (conjunctivitis) (nível de evidência L3). Indicação original: RIFAMPICINAS"
 ---
 
 # Rifampicin
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Rifampicina: De tuberculostático para conjuntivite
+## Rifampicin: Conjuntivite (conjunctivitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ atualmente com **0 ensaios clínicos** e **19 publicações** recuperadas nesta 
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Rifampicinas / Tuberculostáticos (classificação terapêutica constante nos registros) |
+| Indicação Original | RIFAMPICINAS; TUBERCULOSTATICOS |
 | Nova Indicação Prevista | Conjuntivite (conjunctivitis) |
-| Pontuação de Previsão TxGNN | 0,9995 |
+| Pontuação de Previsão TxGNN | 0.9995 |
 | Nível de Evidência | L3 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
 | Número de Registros | 5 (ativos: 5) |
@@ -115,9 +115,9 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 
 ## Observações sobre Outras Indicações Previstas
 
-- **Acne (disease), 99,74%, L3:** a evidência recuperada refere-se sobretudo à hidradenite supurativa (acne inversa), em que a combinação clindamicina + rifampicina é usada. Para acne vulgar, a evidência é indireta. Recomendação: Hold, com atenção à interação com contraceptivos orais.
-- **Artrite reumatoide, 99,45%, L3:** estudos pequenos dos anos 1980-1990 mostraram benefício limitado e inconsistente; o único ensaio registrado é de farmacocinética (Fase 1). Recomendação: Hold.
-- **Infecção pelo HIV, 99,59%, L1 (ressalva):** os ensaios de Fase 3 tratam da tuberculose em pacientes com HIV, ou seja, a indicação original em uma subpopulação, e não ação anti-HIV da rifampicina. Não constitui reposicionamento real.
+- **Acne (disease), 0.9974, L3:** a evidência recuperada refere-se sobretudo à hidradenite supurativa (acne inversa), em que a combinação clindamicina + rifampicina é usada. Para acne vulgar, a evidência é indireta. Recomendação: Hold, com atenção à interação com contraceptivos orais.
+- **Artrite reumatoide, 0.9945, L3:** estudos pequenos dos anos 1980-1990 mostraram benefício limitado e inconsistente; o único ensaio registrado é de farmacocinética (Fase 1). Recomendação: Hold.
+- **Infecção pelo HIV, 0.9959, L1 (ressalva):** os ensaios de Fase 3 tratam da tuberculose em pacientes com HIV, ou seja, a indicação original em uma subpopulação, e não ação anti-HIV da rifampicina. Não constitui reposicionamento real.
 - **Neoplasia endócrina múltipla, transtorno do neurodesenvolvimento raro, conjuntivite contagiosa aguda, infecção por SIV e síndrome da imunodeficiência adquirida felina:** sem evidência clínica relevante e sem justificativa mecanística plausível. Recomendação: Hold.
 ## Aviso de isenção de responsabilidade
 

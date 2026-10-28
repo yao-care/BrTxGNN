@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 313
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Felypressin: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: Anestésicos locais"
+last_modified_at: 2026-10-28
 monitor_inn: "felypressin"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "esotropia", "diabetic retinopathy", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "chondroid hamartoma", "non-seminomatous lesion", "tumor of testis and paratestis", "pre-malignant neoplasm"]
+description: "Felypressin: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: ANESTESICOS LOCAIS"
 ---
 
 # Felypressin
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Felipressina: De anestésico local para osteoporose induzida por fármacos
+## Felypressin: Osteoporose induzida por fármacos (drug-induced osteoporosis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anestésicos locais |
+| Indicação Original | ANESTESICOS LOCAIS |
 | Nova Indicação Prevista | Osteoporose induzida por fármacos (drug-induced osteoporosis) |
-| Pontuação de Previsão TxGNN | 0,9980 |
+| Pontuação de Previsão TxGNN | 0.9980 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
 | Número de Registros | 2 (ativos: 2) |
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 Não há relação mecanística clara entre essa ação vasoconstritora e a osteoporose. Qualquer efeito ósseo seria especulativo, por exemplo, via sinalização de receptores de vasopressina em células ósseas. A pontuação alta (0,9980) reflete uma previsão do modelo TxGNN (aprendizado profundo), provavelmente proximidade na rede, e não evidência biológica ou clínica.
 
-Outras indicações previstas pelo modelo também carecem de respaldo: retinopatia diabética grave não proliferativa (99,65%), esotropia (99,41%), retinopatia diabética (99,39%), adenomas/carcinoides brônquicos infantis (99,19%), proliferação ductal ou ductular, hamartoma condroide, lesão não seminomatosa (todas 99,19%), tumor de testículo e paratestículo (99,18%) e neoplasia pré-maligna (99,17%). Em todas, não há ensaios nem literatura, e o mecanismo é inexistente ou incerto. Na retinopatia diabética, a sinalização da vasopressina pode até ser prejudicial (aumento da permeabilidade vascular).
+Outras indicações previstas pelo modelo também carecem de respaldo: retinopatia diabética grave não proliferativa (0.9965), esotropia (0.9941), retinopatia diabética (0.9939), adenomas/carcinoides brônquicos infantis (0.9919), proliferação ductal ou ductular, hamartoma condroide, lesão não seminomatosa (todas 0.9919), tumor de testículo e paratestículo (0.9918) e neoplasia pré-maligna (0.9917). Em todas, não há ensaios nem literatura, e o mecanismo é inexistente ou incerto. Na retinopatia diabética, a sinalização da vasopressina pode até ser prejudicial (aumento da permeabilidade vascular).
 
 ## Informações de Comercialização no Brasil
 

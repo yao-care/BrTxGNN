@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "THEOPHYLLINE"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-10-23
-description: "Theophylline: nova indicação prevista, Doença trombótica (nível de evidência L5). Indicação original: Broncodilatadores"
+last_modified_at: 2026-10-28
+description: "Theophylline: nova indicação prevista, Doença trombótica (thrombotic disease) (nível de evidência L5). Indicação original: BRONCODILATADORES"
 ---
 
 # Theophylline
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-## Teofilina: De broncodilatador para doença trombótica
+## Theophylline: Doença trombótica (thrombotic disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,9 +45,9 @@ O modelo TxGNN prevê que pode ser eficaz para **doença trombótica (thrombotic
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Broncodilatadores |
-| Nova Indicação Prevista | Doença trombótica |
-| Pontuação de Previsão TxGNN | 0,9962 |
+| Indicação Original | BRONCODILATADORES |
+| Nova Indicação Prevista | Doença trombótica (thrombotic disease) |
+| Pontuação de Previsão TxGNN | 0.9962 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
@@ -109,10 +109,10 @@ Não há ensaios clínicos nem estudos que avaliem a teofilina diretamente em do
 
 Outras previsões do TxGNN para a teofilina foram avaliadas, e todas estão em **Hold**:
 
-- **Doença da cavidade nasal (nasal cavity disease, 99,53%):** um estudo clínico pequeno de provocação nasal com teofilina de liberação lenta em rinite alérgica (PMID 9648963), mais um modelo animal. A evidência é indireta e o nível é L5 pela regra do protocolo, pois não há ensaio de eficácia.
-- **Doença traqueal (tracheal disease, 99,49%):** há relaxamento traqueal in vitro, revisões sobre metilxantinas na extubação de prematuros e um estudo veterinário retrospectivo em cães. Não há estudos em humanos com doença traqueal. Nível L5.
-- **Pharyngitis (99,46%):** sem mecanismo plausível; a literatura trata de antibióticos macrolídeos. Nível L5.
-- **Laringotraqueíte (99,51%) e laringofaringite aguda (99,35%):** sem ensaios nem literatura. Nível L5.
+- **Doença da cavidade nasal (nasal cavity disease, 0.9953):** um estudo clínico pequeno de provocação nasal com teofilina de liberação lenta em rinite alérgica (PMID 9648963), mais um modelo animal. A evidência é indireta e o nível é L5 pela regra do protocolo, pois não há ensaio de eficácia.
+- **Doença traqueal (tracheal disease, 0.9949):** há relaxamento traqueal in vitro, revisões sobre metilxantinas na extubação de prematuros e um estudo veterinário retrospectivo em cães. Não há estudos em humanos com doença traqueal. Nível L5.
+- **Pharyngitis (0.9946):** sem mecanismo plausível; a literatura trata de antibióticos macrolídeos. Nível L5.
+- **Laringotraqueíte (0.9951) e laringofaringite aguda (0.9935):** sem ensaios nem literatura. Nível L5.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

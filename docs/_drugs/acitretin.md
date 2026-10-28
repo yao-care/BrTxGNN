@@ -5,10 +5,10 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 24
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-13
-description: "Acitretin: nova indicação prevista, Acne (acne (disease)) (nível de evidência L3). Indicação original: Ceratolíticos e ceratoplásticos"
+last_modified_at: 2026-10-28
 monitor_inn: "acitretin"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
+description: "Acitretin: nova indicação prevista, Acne (acne (disease)) (acne (disease)) (nível de evidência L3). Indicação original: CERATOLITICOS E CERATOPLASTICOS"
 ---
 
 # Acitretin
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **4**
 
 </div>
 
-## Acitretina: Da ceratólise/ceratoplastia à acne
+## Acitretin: Acne (acne (disease)) (acne (disease))
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,9 +45,9 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (acne (disease))**, mas as
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Ceratolíticos e ceratoplásticos |
-| Nova Indicação Prevista | Acne (acne (disease)) |
-| Pontuação de Previsão TxGNN | 0,9994 |
+| Indicação Original | CERATOLITICOS E CERATOPLASTICOS |
+| Nova Indicação Prevista | Acne (acne (disease)) (acne (disease)) |
+| Pontuação de Previsão TxGNN | 0.9994 |
 | Nível de Evidência | L3 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
 | Número de Registros | 2 (ativos: 2) |
@@ -113,7 +113,7 @@ Os dados de bula da ANVISA não estavam disponíveis nos dados compilados; consu
 - Definir um plano de gestão de risco de gravidez (contracepção e período de washout) e de monitoramento hepático e lipídico.
 - Avaliar a situação regulatória, já que não há registro válido no Brasil.
 
-**Outras previsões do modelo (todas com decisão Hold, nível L5, sem ensaios nem literatura):** lúpus eritematoso sistêmico pediátrico (99,35%), eritroblastose fetal (99,28%, sem vínculo mecanístico plausível e incompatível com a contraindicação na gravidez) e síndrome de predisposição a câncer com telangiectasia cutânea familiar e orofaríngea (99,10%).
+**Outras previsões do modelo (todas com decisão Hold, nível L5, sem ensaios nem literatura):** lúpus eritematoso sistêmico pediátrico (0.9935), eritroblastose fetal (0.9928, sem vínculo mecanístico plausível e incompatível com a contraindicação na gravidez) e síndrome de predisposição a câncer com telangiectasia cutânea familiar e orofaríngea (0.9910).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

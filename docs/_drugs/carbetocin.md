@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-13
-description: "Carbetocin: nova indicação prevista, Síndrome semelhante à isotretinoína (isotretinoin-like syndrome) (nível de evidência L5). Indicação original: Preparações hormonais para uso sistêmico…"
+last_modified_at: 2026-10-28
 monitor_inn: "carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
+description: "Carbetocin: nova indicação prevista, Síndrome semelhante à isotretinoína (isotretinoin-like syndrome) (nível de evidência L5). Indicação original: PREPARAÇÕES HORMONAIS PARA USO SISTÊMICO…"
 ---
 
 # Carbetocin
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-## Carbetocina: De preparações hormonais sistêmicas para a síndrome semelhante à isotretinoína
+## Carbetocin: Síndrome semelhante à isotretinoína (isotretinoin-like syndrome)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,9 +45,9 @@ O modelo TxGNN prevê que ela possa ser eficaz para a **síndrome semelhante à 
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Preparações hormonais para uso sistêmico, excluindo hormônios sexuais e insulinas |
+| Indicação Original | PREPARAÇÕES HORMONAIS PARA USO SISTÊMICO, EXCLUINDO HORMÔNIOS SEXUAIS E INSULINAS |
 | Nova Indicação Prevista | Síndrome semelhante à isotretinoína (isotretinoin-like syndrome) |
-| Pontuação de Previsão TxGNN | 0,9915 |
+| Pontuação de Previsão TxGNN | 0.9915 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
 | Número de Registros | 2 (ativos: 2) |
@@ -61,7 +61,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação na base compil
 
 A pontuação elevada do TxGNN (0,9915) é apenas uma previsão do modelo TxGNN (aprendizado profundo), sem corroboração por ensaios ou literatura. Pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, e não evidência biológica nem relevância terapêutica real.
 
-Uma segunda previsão do modelo, a síndrome de Goodman (acrocefalopolissindactilia tipo IV, 99,06%), apresenta o mesmo problema: é um distúrbio genético congênito de malformação craniofacial e de membros, sem papel conhecido da carbetocina, e também sem ensaios ou literatura (nível L5, Hold).
+Uma segunda previsão do modelo, a síndrome de Goodman (acrocefalopolissindactilia tipo IV, 0.9906), apresenta o mesmo problema: é um distúrbio genético congênito de malformação craniofacial e de membros, sem papel conhecido da carbetocina, e também sem ensaios ou literatura (nível L5, Hold).
 
 ## Informações de Comercialização no Brasil
 

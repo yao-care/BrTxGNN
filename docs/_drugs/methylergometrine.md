@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 452
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Methylergometrine: nova indicação prevista, Hipertricose (hypertrichosis) (nível de evidência L5). Indicação original: Ocitócicos não hormonais"
+last_modified_at: 2026-10-28
 monitor_inn: "methylergometrine"
 predicted_indications: ["hypertrichosis (disease)", "pulmonary hypertension", "migraine disorder", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "kyphoscoliotic heart disease", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis"]
+description: "Methylergometrine: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). Indicação original: OCITOCICOS NAO HORMONAIS"
 ---
 
 # Methylergometrine
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Metilergometrina: De ocitócico não hormonal para hipertricose
+## Methylergometrine: Hipertricose (hypertrichosis (disease))
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,9 +45,9 @@ O modelo TxGNN prevê que pode ser eficaz para **hipertricose (hypertrichosis)**
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Ocitócicos não hormonais |
-| Nova Indicação Prevista | Hipertricose (hypertrichosis) |
-| Pontuação de Previsão TxGNN | 0,9987 |
+| Indicação Original | OCITOCICOS NAO HORMONAIS |
+| Nova Indicação Prevista | Hipertricose (hypertrichosis (disease)) |
+| Pontuação de Previsão TxGNN | 0.9987 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
@@ -61,9 +61,9 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação compilados par
 
 Outras previsões do mesmo modelo seguem o mesmo padrão. Para as demais indicações previstas, a avaliação é a seguinte:
 
-- **Enxaqueca (migraine disorder, 99,84%)**: é a única com plausibilidade biológica. A metilergometrina é o metabólito ativo da metisergida, antiga profilaxia da enxaqueca. Há apenas duas publicações indiretas (nível L4) e nenhum dado clínico do fármaco nessa condição.
-- **Hipertensão pulmonar (99,86%)**: a previsão é implausível e levanta preocupação de segurança, pois a atividade vasoconstritora e serotoninérgica tende a piorar o tônus vascular pulmonar.
-- **Enxaqueca com aura do tronco encefálico (99,77%)**: vasoconstritores costumam ser desaconselhados nessa condição, por risco isquêmico teórico.
+- **Enxaqueca (migraine disorder, 0.9984)**: é a única com plausibilidade biológica. A metilergometrina é o metabólito ativo da metisergida, antiga profilaxia da enxaqueca. Há apenas duas publicações indiretas (nível L4) e nenhum dado clínico do fármaco nessa condição.
+- **Hipertensão pulmonar (0.9986)**: a previsão é implausível e levanta preocupação de segurança, pois a atividade vasoconstritora e serotoninérgica tende a piorar o tônus vascular pulmonar.
+- **Enxaqueca com aura do tronco encefálico (0.9977)**: vasoconstritores costumam ser desaconselhados nessa condição, por risco isquêmico teórico.
 - **Demais previsões** (hipertricose universal congênita tipo Ambras, síndromes malformativas, anomalia de haste capilar, cardiopatia cifoescoliótica, síndrome nefrogênica de antidiurese inapropriada): sem mecanismo plausível e com nível L5.
 
 ## Evidências de Ensaios Clínicos

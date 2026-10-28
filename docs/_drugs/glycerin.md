@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 347
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Glycerin: nova indicação prevista, Síndrome da cauda equina (cauda equina syndrome) (nível de evidência L5). Indicação original: Laxantes irritantes ou estimulantes"
+last_modified_at: 2026-10-28
 monitor_inn: "glycerin"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
+description: "Glycerin: nova indicação prevista, Síndrome da cauda equina (cauda equina syndrome) (nível de evidência L5). Indicação original: LAXANTES IRRITANTES OU ESTIMULANTES"
 ---
 
 # Glycerin
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Glicerina: De laxante/enema para Síndrome da cauda equina
+## Glycerin: Síndrome da cauda equina (cauda equina syndrome)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,9 +47,9 @@ O modelo TxGNN prevê que ela possa ser eficaz para **Síndrome da cauda equina 
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Laxantes irritantes ou estimulantes |
+| Indicação Original | LAXANTES IRRITANTES OU ESTIMULANTES; ENEMAS |
 | Nova Indicação Prevista (maior pontuação) | Síndrome da cauda equina (cauda equina syndrome) |
-| Pontuação de Previsão TxGNN | 0,9960 |
+| Pontuação de Previsão TxGNN | 0.9960 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
 | Número de Registros | 3 (ativos: 3) |
@@ -62,8 +62,8 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 Para a síndrome da cauda equina, **não há nenhum vínculo mecanístico identificável**. A pontuação elevada (0,9960) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem ensaios nem literatura de apoio.
 
 Entre as demais previsões, algumas têm plausibilidade indireta:
-- **Glaucoma de ângulo aberto (99,59%)**: a glicerina oral foi historicamente usada como agente osmótico para reduzir a pressão intraocular, principalmente em crises agudas de ângulo fechado. Isso dá um suporte biológico indireto, mas a literatura disponível não demonstra eficácia em glaucoma de ângulo aberto.
-- **Síndrome do intestino irritável (99,49%)**: a ação laxativa osmótica poderia, em teoria, ajudar a forma com predomínio de constipação, mas não há evidência direta.
+- **Glaucoma de ângulo aberto (0.9959)**: a glicerina oral foi historicamente usada como agente osmótico para reduzir a pressão intraocular, principalmente em crises agudas de ângulo fechado. Isso dá um suporte biológico indireto, mas a literatura disponível não demonstra eficácia em glaucoma de ângulo aberto.
+- **Síndrome do intestino irritável (0.9949)**: a ação laxativa osmótica poderia, em teoria, ajudar a forma com predomínio de constipação, mas não há evidência direta.
 - As previsões para alopecia, hipotricose, alopecia areata e enxaqueca não têm racional mecanístico plausível.
 
 ## Evidências de Ensaios Clínicos

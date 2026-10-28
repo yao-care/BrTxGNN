@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ATENOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-10-23
-description: "Atenolol: nova indicação prevista, Doença renal hipertensiva maligna (nível de evidência L5). Indicação original: Hipertensão"
+last_modified_at: 2026-10-28
+description: "Atenolol: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Atenolol
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-## Atenolol: Da hipertensão à doença renal hipertensiva maligna
+## Atenolol: Doença renal hipertensiva maligna (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ mas, nos dados compiladas para este relatório, há **0 ensaios clínicos** e **
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão (relação registrada no grafo de conhecimento; os registros da ANVISA não trazem texto de indicação) |
-| Nova Indicação Prevista | Doença renal hipertensiva maligna |
-| Pontuação de Previsão TxGNN | 0,9985 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Doença renal hipertensiva maligna (malignant hypertensive renal disease) |
+| Pontuação de Previsão TxGNN | 0.9985 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
 | Número de Registros | Pelo menos 20 registros (lista possivelmente parcial): 5 válidos e 15 cancelados |
@@ -66,10 +66,10 @@ Há ressalvas: na hipertensão maligna, geralmente se preferem agentes parentera
 
 Outras indicações previstas também carecem de apoio clínico direto:
 
-- **Hipertensão pulmonar de mecanismo multifatorial incerto** (99,84%): L5. O único vínculo é o rótulo "hipertensão"; o bloqueio beta-1 sistêmico não atua na remodelação vascular pulmonar e pode piorar a função do ventrículo direito.
-- **Hipertensão pulmonar por doença pulmonar e/ou hipóxia** (99,84%): a literatura é pré-clínica ou indireta, com resultados inconsistentes em ratos sobre hipertrofia cardíaca direita induzida por hipóxia. Não há estudos em humanos.
-- **Síndrome de Braddock** (99,80%): L5, sem ensaios, literatura ou vínculo mecanístico identificável.
-- **Cor pulmonale crônico** (99,04%): a literatura é indireta (betabloqueadores na hipertensão e em pacientes com doença das vias aéreas). Uma questão de pesquisa razoável é a segurança dos betabloqueadores cardiosseletivos em pacientes com DPOC e doença cardiovascular, e não se o atenolol trata o cor pulmonale.
+- **Hipertensão pulmonar de mecanismo multifatorial incerto** (0.9984): L5. O único vínculo é o rótulo "hipertensão"; o bloqueio beta-1 sistêmico não atua na remodelação vascular pulmonar e pode piorar a função do ventrículo direito.
+- **Hipertensão pulmonar por doença pulmonar e/ou hipóxia** (0.9984): a literatura é pré-clínica ou indireta, com resultados inconsistentes em ratos sobre hipertrofia cardíaca direita induzida por hipóxia. Não há estudos em humanos.
+- **Síndrome de Braddock** (0.9980): L5, sem ensaios, literatura ou vínculo mecanístico identificável.
+- **Cor pulmonale crônico** (0.9904): a literatura é indireta (betabloqueadores na hipertensão e em pacientes com doença das vias aéreas). Uma questão de pesquisa razoável é a segurança dos betabloqueadores cardiosseletivos em pacientes com DPOC e doença cardiovascular, e não se o atenolol trata o cor pulmonale.
 
 ## Evidências de Ensaios Clínicos
 

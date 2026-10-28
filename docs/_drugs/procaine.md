@@ -5,10 +5,10 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 551
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Procaine: nova indicação prevista, Metemoglobinemia (methemoglobinemia) (nível de evidência L4). Indicação original: Anestésicos locais"
+last_modified_at: 2026-10-28
 monitor_inn: "Procaine"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis"]
+description: "Procaine: nova indicação prevista, Metemoglobinemia (methemoglobinemia) (nível de evidência L4). Indicação original: ANESTESICOS LOCAIS"
 ---
 
 # Procaine
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Procaína: De anestésico local a metemoglobinemia (previsão sem respaldo terapêutico)
+## Procaine: Metemoglobinemia (methemoglobinemia)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,9 +45,9 @@ O modelo TxGNN prevê, como principal candidata, a **metemoglobinemia (methemogl
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anestésicos locais |
+| Indicação Original | ANESTESICOS LOCAIS; ANTINFECCIOSOS E ANTISSEPTICOS TOPICOS PARA OROFARINGE; PRODUTOS ODONTOLOGICOS; PRODUTOS PARA OROFARINGE |
 | Nova Indicação Prevista | Metemoglobinemia (methemoglobinemia) |
-| Pontuação de Previsão TxGNN | 0,9950 |
+| Pontuação de Previsão TxGNN | 0.9950 |
 | Nível de Evidência | L4 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
 | Número de Registros | 4 (ativos: 4) |
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação da procaína n
 
 **A previsão não parece ser razoável do ponto de vista terapêutico.** A literatura indica que a procaína e outros anestésicos locais (como a lidocaína) podem provocar metemoglobinemia, provavelmente porque metabólitos de aminas aromáticas oxidam a hemoglobina. A pontuação alta do TxGNN (modelo de deep learning) provavelmente reflete semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica nem benefício terapêutico. Trata-se de um **sinal de segurança (evento adverso)**, não de uma oportunidade de reposicionamento.
 
-Entre as demais previsões do modelo, a **fibromialgia** (99,23%) e a **tendinite** (99,20%) têm plausibilidade mecanística melhor, pelo uso de infiltração de anestésico local para alívio sintomático de dor. Mesmo assim, as evidências são frágeis (ver abaixo).
+Entre as demais previsões do modelo, a **fibromialgia** (0.9923) e a **tendinite** (0.9920) têm plausibilidade mecanística melhor, pelo uso de infiltração de anestésico local para alívio sintomático de dor. Mesmo assim, as evidências são frágeis (ver abaixo).
 
 ## Evidências de Ensaios Clínicos
 

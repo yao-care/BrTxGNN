@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-10-23
-description: "Empagliflozin: nova indicação prevista, Síndrome do membro rígido focal (nível de evidência L5). Indicação original: Diabetes mellitus tipo 2"
+last_modified_at: 2026-10-28
+description: "Empagliflozin: nova indicação prevista, Síndrome do membro rígido focal (focal stiff limb syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Empagliflozin
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-## Empagliflozina: Do diabetes mellitus tipo 2 à síndrome do membro rígido focal
+## Empagliflozin: Síndrome do membro rígido focal (focal stiff limb syndrome)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,15 +46,15 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Diabetes mellitus tipo 2 (relação registrada no grafo de conhecimento; os registros locais não trazem texto de indicação) |
-| Nova Indicação Prevista | Síndrome do membro rígido focal |
-| Pontuação de Previsão TxGNN | 0,9906 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Síndrome do membro rígido focal (focal stiff limb syndrome) |
+| Pontuação de Previsão TxGNN | 0.9906 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
 | Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
-Outras previsões do modelo, também sem qualquer evidência: síndrome da pessoa rígida clássica (99,06%) e opsismodisplasia (99,03%).
+Outras previsões do modelo, também sem qualquer evidência: síndrome da pessoa rígida clássica (0.9906) e opsismodisplasia (0.9903).
 
 ## Por que Esta Previsão é Razoável?
 

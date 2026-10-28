@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 467
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Naproxen: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -62,7 +62,7 @@ A síndrome de braquidactilia-sindactilia é uma malformação esquelética cong
 
 Portanto, a pontuação elevada do modelo TxGNN (deep learning) (0,9935) vem do modelo e pode refletir semelhanças que ele aprendeu entre doenças relacionadas, não evidência biológica. Não há base mecanística, clínica ou bibliográfica que a corrobore.
 
-Outras previsões do modelo, igualmente sem evidências, foram: síndrome de microftalmia colobomatosa-displasia rizomélica (99,22%), displasia acromesomélica tipo Hunter-Thompson (99,17%) e síndrome de braquiolmia-amelogênese imperfeita (99,06%). Todas são doenças genéticas raras do desenvolvimento, sem racional mecanístico identificado para o naproxeno.
+Outras previsões do modelo, igualmente sem evidências, foram: síndrome de microftalmia colobomatosa-displasia rizomélica (0.9922), displasia acromesomélica tipo Hunter-Thompson (0.9917) e síndrome de braquiolmia-amelogênese imperfeita (0.9906). Todas são doenças genéticas raras do desenvolvimento, sem racional mecanístico identificado para o naproxeno.
 
 ## Considerações de Segurança
 

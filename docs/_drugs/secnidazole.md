@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 monitor_inn: "Secnidazole"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "trichomonal vulvovaginitis", "leukoplakia of vagina", "vulvovaginal candidiasis"]
 description: "Secnidazole: nova indicação prevista, Postmenopausal atrophic vaginitis (nível de evidência L5). Indicação original: AMEBICIDAS, GIARDICIDAS E TRICOMONICIDAS"
@@ -141,9 +141,8 @@ Para advertências e contraindicações, consulte a bula.
 - Revisar as interações medicamentosas
 
 **Outras previsões do modelo (não recomendadas no momento):**
-- **Tricomoníase vulvovaginal** (99,37%) e **vaginite infecciosa** (94,84%): evidência L1 (Fase 3), também coerentes com a indicação original; Proceed with Guardrails.
-- **Candidíase vulvovaginal** (99,16%): evidência L3; o secnidazol não tem atividade antifúngica relevante, e o único sinal vem de um estudo de combinação com fluconazol; pergunta de pesquisa.
-- **Vaginite atrófica pós-menopausa** (99,70%), **úlcera vulvar**, **neoplasia vulvar**, **leucoplasia vaginal**, **vulvovaginite herpética** e **impetigo bolhoso**: sem evidência (L5), sem mecanismo plausível; Hold.
+- **Candidíase vulvovaginal** (0.9916): evidência L3; o secnidazol não tem atividade antifúngica relevante, e o único sinal vem de um estudo de combinação com fluconazol; pergunta de pesquisa.
+- **Vaginite atrófica pós-menopausa** (0.9970), **úlcera vulvar**, **neoplasia vulvar**, **leucoplasia vaginal**, **vulvovaginite herpética** e **impetigo bolhoso**: sem evidência (L5), sem mecanismo plausível; Hold.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

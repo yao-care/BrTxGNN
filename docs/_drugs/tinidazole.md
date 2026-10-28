@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 639
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Tinidazole: nova indicação prevista, Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis) (nível de evidência L5). Indicação original: Amebicidas, giardicidas e tricomonicidas"
+last_modified_at: 2026-10-28
 monitor_inn: "Tinidazole"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "apocrine adenosis of breast", "blunt duct adenosis of breast", "congenital human immunodeficiency virus", "AIDS related complex", "benign mammary dysplasia"]
+description: "Tinidazole: nova indicação prevista, Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis) (nível de evidência L5). Indicação original: AMEBICIDAS, GIARDICIDAS E TRICOMONICIDAS"
 ---
 
 # Tinidazole
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Tinidazol: De antiprotozoário e antiinfeccioso tópico para vaginite atrófica pós-menopausa
+## Tinidazole: Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Amebicidas, giardicidas e tricomonicidas |
+| Indicação Original | AMEBICIDAS, GIARDICIDAS E TRICOMONICIDAS; ANTINFECCIOSOS TOPICOS-ASSOCIACOES MEDICAMENTOSAS; PRODS GINECOLOGICOS ANTINFECC TOPICOS ASSOC MEDICAMENTOSAS; PRODUTOS GINECOLOGICOS ANTIINFECCIOSOS TOPICOS ASSOCIACAO MEDICAMENTOSA; ANTIMICOTICO; ANTIMICOTICOS PARA USO TOPICO |
 | Nova Indicação Prevista | Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis) |
-| Pontuação de Previsão TxGNN | 0,9993 |
+| Pontuação de Previsão TxGNN | 0.9993 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
@@ -99,8 +99,8 @@ A previsão para vaginite atrófica pós-menopausa não tem nenhum ensaio clíni
 
 Nenhuma das outras previsões de maior pontuação tem respaldo suficiente (todas recomendadas como Hold):
 
-- **Úlcera de vulva (99,87%)**, **neoplasia vulvar (99,86%)** e **doenças benignas da mama** (doença fibrocística, adenose de ducto obtuso, adenose apócrina, displasia mamária benigna; 99,2% a 99,75%): L5, sem evidências e sem mecanismo plausível. Para a úlcera vulvar, existe apenas um relato de caso em que a úlcera era causada por *Trichomonas vaginalis* e se resolveu com tinidazol oral, o que corresponde ao uso já aprovado.
-- **AIDS (99,69%)**: nível L4. A literatura recuperada trata de coinfecções parasitárias (amebíase, giardíase, tricomoníase), e não da infecção pelo HIV. O único ensaio (NCT03412071, fase NA, situação desconhecida, 125 participantes) é um estudo piloto de intervenção focada no microbioma para reduzir a suscetibilidade ao HIV em homens ugandenses. O papel do tinidazol nele não está claro e não há resultados de eficácia.
+- **Úlcera de vulva (0.9987)**, **neoplasia vulvar (0.9986)** e **doenças benignas da mama** (doença fibrocística, adenose de ducto obtuso, adenose apócrina, displasia mamária benigna; 99,2% a 0.9975): L5, sem evidências e sem mecanismo plausível. Para a úlcera vulvar, existe apenas um relato de caso em que a úlcera era causada por *Trichomonas vaginalis* e se resolveu com tinidazol oral, o que corresponde ao uso já aprovado.
+- **AIDS (0.9969)**: nível L4. A literatura recuperada trata de coinfecções parasitárias (amebíase, giardíase, tricomoníase), e não da infecção pelo HIV. O único ensaio (NCT03412071, fase NA, situação desconhecida, 125 participantes) é um estudo piloto de intervenção focada no microbioma para reduzir a suscetibilidade ao HIV em homens ugandenses. O papel do tinidazol nele não está claro e não há resultados de eficácia.
 - **Complexo relacionado à AIDS e HIV congênito (0,9939)**: L5, sem mecanismo anti-HIV; o escore vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica.
 ## Aviso de isenção de responsabilidade
 
