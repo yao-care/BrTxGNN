@@ -19,7 +19,7 @@ Predicoes de reposicionamento de medicamentos para medicamentos aprovados pela A
 
 | Item | Quantidade |
 |------|------|
-| **Relatorios de medicamentos** | 525 |
+| **Relatorios de medicamentos** | 517 |
 | **Predicoes totais** | 17,788,744 |
 | **Medicamentos unicos** | 770 |
 | **Indicacoes unicas** | 17,041 |
