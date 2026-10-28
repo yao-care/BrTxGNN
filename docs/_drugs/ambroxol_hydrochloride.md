@@ -8,6 +8,7 @@ nav_order: 49
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ambroxol Hydrochloride
@@ -51,7 +52,7 @@ Sem previsões disponíveis, não é possível realizar a análise de evidência
 | Nova Indicação Prevista | Nenhuma previsão gerada neste ciclo |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 — sem resultados de predição |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (0 registros encontrados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

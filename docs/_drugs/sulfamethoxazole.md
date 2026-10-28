@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sulfamethoxazole
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 599
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-13
 description: "Sulfamethoxazole: nova indicação prevista, Conjuntivite contagiosa aguda (acute contagious conjunctivitis) (nível de evidência L4). Indicação original: Trimetoprima em associação com sulfas"
 monitor_inn: "Sulfamethoxazole"
-predicted_indications: ["acute contagious conjunctivitis", "punctate epithelial keratoconjunctivitis", "exposure keratitis", "endocardial fibroelastosis", "postinfectious vasculitis", "post-bacterial disorder", "parasitic eyelid infestation", "post-infectious syndrome", "ulcerative blepharitis", "blepharoconjunctivitis"]
+predicted_indications: ["acute contagious conjunctivitis"]
 ---
 
 # Sulfamethoxazole
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ atualmente com **0 ensaios clínicos** e **1 publicação** indireta apoiando es
 |------|------|
 | Indicação Original | Trimetoprima em associação com sulfas |
 | Nova Indicação Prevista | Conjuntivite contagiosa aguda (acute contagious conjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,63% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Pontuação de Previsão TxGNN | 0,9963 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -70,7 +70,7 @@ Há, porém, ressalvas importantes: o único trabalho encontrado é um estudo ep
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros constam como cancelados. Abaixo, os 5 principais:
+Todos os 20 registros constam como válidos. Abaixo, os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -91,7 +91,7 @@ Todos os 20 registros constam como cancelados. Abaixo, os 5 principais:
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do TxGNN é alta, mas o suporte é apenas uma publicação indireta (levantamento de suscetibilidade), sem ensaios clínicos. Além disso, todos os registros brasileiros estão cancelados e não existe formulação ocular.
+- A pontuação do TxGNN é alta, mas o suporte é apenas uma publicação indireta (levantamento de suscetibilidade), sem ensaios clínicos. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos, e não existe formulação ocular.
 
 **Para prosseguir, é necessário:**
 - Obter da ANVISA a bula com advertências e contraindicações, que ainda não estão disponíveis

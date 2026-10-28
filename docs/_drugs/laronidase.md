@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Laronidase
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 391
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Laronidase: nova indicação prevista, Doença lisossômica com acometimento esquelético (lysosomal storage di… (nível de evidência L3). Indicação original: Mucopolissacaridose (síndromes de Hurler, Hurl…"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "Laronidase"
-predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome", "lysosomal disease with hypertrophic cardiomyopathy", "syndromic neurometabolic disease with X-linked intellectual disability", "eyelids malposition disorder", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-strabismus-ectopic pupils syndrome", "inborn disorder of lysosomal amino acid transport", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "ptosis-vocal cord paralysis syndrome"]
+predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome"]
+last_modified_at: 2026-10-27
+description: "Laronidase: nova indicação prevista, doença de depósito lisossômico com envolvimento esquelético (lysosomal storage disease with skeletal involvement) (nível de evidência L5). Indicação original: Não…"
 ---
 
 # Laronidase
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,34 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Laronidase: Da mucopolissacaridose à doença lisossômica com acometimento esquelético
+## Laronidase: enzima de reposição (alfa-L-iduronidase recombinante) → doença de depósito lisossômico com envolvimento esquelético (lysosomal storage disease with skeletal involvement)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Laronidase é uma enzima recombinante (alfa-L-iduronidase) usada como terapia de reposição enzimática na mucopolissacaridose, incluindo as síndromes de Hurler, Hurler-Scheie e Scheie.
-O modelo TxGNN prevê que pode ser eficaz para **doença lisossômica com acometimento esquelético (lysosomal storage disease with skeletal involvement)**, atualmente com **nenhum ensaio clínico** e **4 publicações** relacionadas a esta direção, todas centradas na MPS I (a indicação original).
+Laronidase é uma enzima recombinante (alfa-L-iduronidase) usada como terapia de reposição enzimática em mucopolissacaridose.
+O modelo TxGNN prevê que pode ser eficaz para **doença de depósito lisossômico com envolvimento esquelético (lysosomal storage disease with skeletal involvement)**,
+mas atualmente há **0 ensaios clínicos** e **4 publicações** (revisões, um estudo in vitro e um relato de caso) que tratam do tema de forma apenas indireta.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Mucopolissacaridose (síndromes de Hurler, Hurler-Scheie e Scheie) |
-| Nova Indicação Prevista | Doença lisossômica com acometimento esquelético (lysosomal storage disease with skeletal involvement) |
-| Pontuação de Previsão TxGNN | 99,31% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado (sem registros ativos nos dados compilados) |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | doença de depósito lisossômico com envolvimento esquelético (lysosomal storage disease with skeletal involvement) |
+| Pontuação de Previsão TxGNN | 0,9931 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a laronidase é a alfa-L-iduronidase recombinante, enzima que degrada os glicosaminoglicanos (dermatan sulfato e heparan sulfato) que se acumulam na MPS I. Sua eficácia na MPS I está estabelecida, e mecanisticamente pode ser aplicável a manifestações esqueléticas dessa doença.
+Atualmente, não há dados detalhados sobre o mecanismo de ação registrados. Segundo informações conhecidas, a laronidase é a alfa-L-iduronidase recombinante, enzima que degrada os glicosaminoglicanos (dermatan e heparan sulfato) que se acumulam na mucopolissacaridose tipo I (MPS I).
 
-O acometimento esquelético (disostose múltipla) é uma característica central da MPS I. Por isso, a nova indicação prevista se sobrepõe em grande parte à indicação original, e não representa um reposicionamento verdadeiro para outra doença lisossômica. Estudos in vitro mostram captação da laronidase por fibroblastos e osteoblastos, e um relato de caso de Scheie atenuada descreve os resultados da terapia de reposição enzimática.
+O comprometimento esquelético (disostose múltipla) é uma característica central da MPS I. Por isso, a categoria prevista se sobrepõe em grande parte ao uso já conhecido do fármaco, e não representa um reposicionamento genuíno para outra doença lisossômica. Dados in vitro mostram captação da laronidase por fibroblastos e osteoblastos, e um relato de caso de Scheie descreve os desfechos da terapia de reposição enzimática.
 
-Há uma limitação importante: a penetração da enzima intravenosa em osso e cartilagem é conhecidamente limitada, de modo que o benefício esquelético é incerto.
+Há, porém, uma limitação importante: a penetração da enzima intravenosa em osso e cartilagem é sabidamente limitada, de modo que o benefício esquelético é incerto. Além disso, nenhum estudo citado avalia diretamente a doença de depósito lisossômico com envolvimento esquelético como entidade própria; os dados se referem à MPS I.
 
 ## Evidências de Ensaios Clínicos
 
@@ -69,36 +70,33 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [25345091](https://pubmed.ncbi.nlm.nih.gov/25345091/) | 2014 | Revisão | Pediatric Endocrinology Reviews | Revisão da MPS I: deficiência de alfa-L-iduronidase, acúmulo de dermatan e heparan sulfato, espectro de Hurler, Hurler-Scheie e Scheie; diagnóstico por GAGs urinários e ensaio enzimático |
-| [12196045](https://pubmed.ncbi.nlm.nih.gov/12196045/) | 2002 | Revisão | BioDrugs | Desenvolvimento da laronidase como terapia de reposição enzimática para MPS I, com designação de medicamento órfão nos EUA e na Europa |
-| [23127271](https://pubmed.ncbi.nlm.nih.gov/23127271/) | 2012 | Relato de caso | Pediatric Neurology | Seguimento de 6,5 anos de um menino com síndrome de Scheie em terapia de reposição enzimática; houve declínio do estado geral e progressão da doença ao longo do período |
-| [18758061](https://pubmed.ncbi.nlm.nih.gov/18758061/) | 2008 | In vitro | Biological & Pharmaceutical Bulletin | Laronidase foi captada por fibroblastos de paciente com MPS I e por osteoblastos, principalmente via receptores de manose 6-fosfato, e transportada aos lisossomos |
+| [25345091](https://pubmed.ncbi.nlm.nih.gov/25345091/) | 2014 | Revisão | Pediatric Endocrinology Reviews | Descreve a MPS I, causada por deficiência de alfa-L-iduronidase, com espectro de Hurler, Hurler/Scheie e Scheie; diagnóstico por GAGs urinários e ensaio enzimático |
+| [12196045](https://pubmed.ncbi.nlm.nih.gov/12196045/) | 2002 | Revisão | BioDrugs | Desenvolvimento da laronidase como terapia de reposição enzimática para MPS I, com designação de medicamento órfão |
+| [18758061](https://pubmed.ncbi.nlm.nih.gov/18758061/) | 2008 | In vitro | Biological & Pharmaceutical Bulletin | Laronidase foi captada por fibroblastos de MPS I, principalmente via receptores de manose-6-fosfato, e transportada aos lisossomos |
+| [23127271](https://pubmed.ncbi.nlm.nih.gov/23127271/) | 2012 | Relato de caso | Pediatric Neurology | Seguimento de 6,5 anos de um menino com síndrome de Scheie em terapia de reposição enzimática; houve declínio do estado geral e progressão da doença |
 
-## Citotoxicidade
+## Informações de Comercialização no Brasil
 
-Não se aplica: a laronidase não é um antineoplásico, portanto esta seção foi omitida conforme as regras do relatório.
+Os dados compilados indicam situação de comercialização "Comercializado", com pelo menos um registro válido e um cancelado.
 
 ## Considerações de Segurança
 
-- **Interações Medicamentosas**: foram identificadas 2 interações, ambas de gravidade leve (Minor): cloroquina e procaína.
+- **Interações Medicamentosas**: foram identificadas 2 interações, ambas de nível menor: cloroquina e procaína.
 
-Para advertências e contraindicações, consulte a bula.
+Para demais informações de segurança, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia em evidências de nível L3 (revisões, estudo in vitro e um relato de caso), todas voltadas à MPS I, que já é a indicação original. Não há ensaios clínicos para a nova indicação, o fármaco não é comercializado no Brasil e a penetração da enzima em tecido ósseo é limitada.
+- Nenhum estudo citado avalia diretamente a doença prevista, e as evidências disponíveis dizem respeito à MPS I; o benefício esquelético é incerto pela penetração limitada da enzima em osso e cartilagem.
 
 **Para prosseguir, é necessário:**
-- Definir se a "doença lisossômica com acometimento esquelético" é de fato distinta da MPS I; se não for, o caso é apenas a indicação original, e não reposicionamento.
-- Obter dados do mecanismo de ação (por exemplo, consulta à base DrugBank).
-- Obter advertências e contraindicações da bula na ANVISA, pois a ausência desses dados impede a triagem de segurança.
-- Gerar dados sobre desfechos esqueléticos e penetração da enzima em osso e cartilagem.
-- Avaliar a situação regulatória no Brasil, já que não há registro ativo nos dados compilados.
-
-**Observação sobre outras previsões:** as demais indicações previstas (por exemplo, síndrome de Sanfilippo, doença lisossômica com cardiomiopatia hipertrófica e distúrbios de transporte lisossômico de aminoácidos) apresentam evidência L4–L5 e sem plausibilidade mecanística, pois a laronidase não substitui as enzimas deficientes nessas doenças e a enzima intravenosa não atravessa bem a barreira hematoencefálica. A recomendação para elas também é **Hold**.
+- Definir com precisão qual doença lisossômica com envolvimento esquelético seria alvo, distinguindo-a do uso já conhecido
+- Dados de mecanismo de ação detalhados
+- Estudos que avaliem desfechos esqueléticos diretamente
+- Bula do medicamento com advertências e contraindicações (ainda não obtidas)
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

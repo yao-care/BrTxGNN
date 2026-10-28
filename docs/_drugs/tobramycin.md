@@ -47,9 +47,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Ceratite por Exposição (Expos
 |------|------|
 | Indicação Original | Antiinfecciosos tópicos para uso oftálmico |
 | Nova Indicação Prevista | Ceratite por Exposição (Exposure Keratitis) |
-| Pontuação de Previsão TxGNN | 99,93% |
+| Pontuação de Previsão TxGNN | 0,9993 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -82,7 +82,7 @@ Nenhum desses trabalhos testa a tobramicina na ceratite por exposição.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados; não há registro vigente. Os cinco principais:
+Há 20 registros vigentes no Brasil e o medicamento é comercializado. Os cinco principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -105,7 +105,7 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta no modelo (99,93%), mas não há ensaios clínicos nem estudos que testem a tobramicina na ceratite por exposição (nível L4). Além disso, existe sinal de toxicidade para o epitélio corneano e todos os registros no Brasil estão cancelados.
+- A previsão tem pontuação alta no modelo (0,9993), mas não há ensaios clínicos nem estudos que testem a tobramicina na ceratite por exposição (nível L4). Além disso, existe sinal de toxicidade para o epitélio corneano. No Brasil, o medicamento é comercializado, com 20 registros vigentes.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula/informações de segurança da ANVISA (advertências e contraindicações), uma lacuna que impede a triagem de segurança.
@@ -113,7 +113,7 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 - Gerar evidência clínica ou pré-clínica direta da tobramicina na ceratite por exposição, avaliando o risco de toxicidade epitelial em superfície ocular comprometida.
 - Verificar a situação regulatória atual de produtos oftálmicos com tobramicina no Brasil, já que não há registro vigente.
 
-**Observação sobre outras previsões:** a otite externa (pontuação 99,81%, nível L4) é a candidata mais plausível entre as demais, com relatos históricos do uso de tobramicina, mas se aproxima de um uso já existente e exige atenção à ototoxicidade; ela merece avaliação própria. As demais previsões (por exemplo, doença animal não humana, vasculite pós-infecciosa, cardiomiopatia chagásica, síndrome hemolítico-urêmica relacionada a infecção) não têm suporte clínico ou mecanístico, e a última apresenta ainda um sinal de segurança contrário.
+**Observação sobre outras previsões:** a otite externa (pontuação 0,9981, nível L4) é a candidata mais plausível entre as demais, com relatos históricos do uso de tobramicina, mas se aproxima de um uso já existente e exige atenção à ototoxicidade; ela merece avaliação própria. As demais previsões (por exemplo, doença animal não humana, vasculite pós-infecciosa, cardiomiopatia chagásica, síndrome hemolítico-urêmica relacionada a infecção) não têm suporte clínico ou mecanístico, e a última apresenta ainda um sinal de segurança contrário.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

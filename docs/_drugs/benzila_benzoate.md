@@ -8,6 +8,7 @@ nav_order: 120
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Benzila Benzoate
@@ -51,8 +52,8 @@ Sem previsões disponíveis, não há ensaios clínicos nem publicações vincul
 | Nova Indicação Prevista | Nenhuma previsão gerada |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | Abaixo de L5 (ausência de previsões) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros ANVISA | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros ANVISA | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

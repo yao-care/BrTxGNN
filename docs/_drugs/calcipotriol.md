@@ -47,10 +47,10 @@ O modelo TxGNN prevê que ele pode ser eficaz para **queratose seborreica (sebor
 |------|------|
 | Indicação Original | Não registrada nos dados da ANVISA compilados para este relatório |
 | Nova Indicação Prevista | Queratose seborreica (Seborrheic Keratosis) |
-| Pontuação de Previsão TxGNN | 99,96% |
+| Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 4) |
+| Número de Registros | 4 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

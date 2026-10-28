@@ -4,17 +4,17 @@ title: Perampanel
 parent: Apenas Predição do Modelo (L5)
 nav_order: 517
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Perampanel: nova indicação prevista, Epilepsia Visual (Visual Epilepsy) (nível de evidência L5). Indicação original: Epilepsia parcial / epilepsia motora parcial"
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Perampanel: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Perampanel
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,37 +33,34 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Perampanel: Da epilepsia parcial ao estado de mal epiléptico
+## Perampanel: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 Perampanel é um antagonista seletivo e não competitivo do receptor AMPA, originalmente usado no tratamento da epilepsia parcial (incluindo epilepsia motora parcial).
-O modelo TxGNN prevê que pode ser eficaz para **Epilepsia Visual (Visual Epilepsy)**, a indicação de maior pontuação, mas sem ensaios clínicos e com **20 publicações** gerais (nenhuma específica para essa condição). Entre as indicações previstas, a única com respaldo clínico mais concreto é o **Estado de Mal Epiléptico (Status Epilepticus)**, com **4 ensaios clínicos** e **18 publicações**, detalhado abaixo.
+O modelo TxGNN (aprendizado profundo) prevê que pode ser eficaz para **Deficiência de beta-cetotiolase (beta-ketothiolase deficiency)**, a indicação de maior pontuação, mas sem ensaios clínicos e com **20 publicações** gerais (nenhuma específica para essa condição).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Epilepsia parcial / epilepsia motora parcial |
-| Nova Indicação Prevista | Epilepsia Visual (Visual Epilepsy) |
-| Pontuação de Previsão TxGNN | 99,92% |
-| Nível de Evidência | L4 (para epilepsia visual); L3 para o estado de mal epiléptico |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Beta-ketothiolase deficiency |
+| Pontuação de Previsão TxGNN | 0.9979 |
+| Nível de Evidência | L5 (para epilepsia visual); L3 para o estado de mal epiléptico |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo a literatura recuperada, perampanel é um antagonista seletivo e não competitivo do receptor AMPA, que reduz a hiperexcitabilidade neuronal mediada por glutamato. Já foi aprovado em vários países como terapia adjuvante de crises focais.
 
-A epilepsia visual (fotossensível) é uma epilepsia reflexa, ou seja, desencadeada por estímulos. Um fármaco com atividade antiepiléptica de amplo espectro pode, em tese, ser aplicável. Contudo, nenhuma das publicações recuperadas trata de crises desencadeadas por estímulos visuais. A pontuação muito alta do modelo provavelmente reflete a proximidade, na rede de conhecimento, com a indicação focal já aprovada, e não evidência direta.
 
-O mesmo raciocínio vale para outras epilepsias reflexas previstas (crises de pensamento, de micção, de sobressalto, audiogênicas, de alimentação, de orgasmo e de leitura). Já o estado de mal epiléptico tem racionalidade biológica mais sólida: na crise prolongada, os receptores AMPA sinápticos aumentam e os receptores GABA-A são internalizados, reduzindo a eficácia dos benzodiazepínicos. Isso sustenta o antagonismo AMPA como estratégia complementar.
 
 ## Evidências de Ensaios Clínicos
 
-Não há ensaios clínicos registrados para epilepsia visual. Os ensaios abaixo se referem à indicação com maior respaldo clínico entre as previstas, o estado de mal epiléptico.
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
@@ -101,7 +98,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-Para epilepsia visual e demais epilepsias reflexas previstas, as evidências se limitam à previsão do modelo e a literatura indireta (L4/L5), sem estudos específicos. O estado de mal epiléptico (L3) tem séries de casos e revisões sistemáticas, mas os dois ensaios de fase 3 e 4 foram encerrados com 1 participante cada, sem evidência randomizada utilizável. Além disso, o fármaco não é comercializado no Brasil.
+Para a deficiência de beta-cetotiolase, as evidências se limitam à previsão do modelo TxGNN (aprendizado profundo), sem estudos específicos. O fármaco é comercializado no Brasil, com 1 de 2 licenças válidas.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula aprovada (advertências e contraindicações), ainda não disponível.

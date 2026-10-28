@@ -4,17 +4,17 @@ title: Vismodegib
 parent: Apenas Predição do Modelo (L5)
 nav_order: 671
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
-description: "Vismodegib: nova indicação prevista, Câncer de pele (Skin Cancer) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "vismodegib"
-predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "prostate cancer/brain cancer susceptibility", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
+predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
+description: "Vismodegib: nova indicação prevista, Medulloblastoma with extensive nodularity (nível de evidência L5). Indicação original: ANTINEOPLASICO"
 ---
 
 # Vismodegib
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,30 +33,28 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Vismodegibe: Do tratamento antineoplásico ao câncer de pele (carcinoma basocelular)
+## Vismodegib: Medulloblastoma with extensive nodularity
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 Vismodegibe (ERIVEDGE) é um inibidor da via Hedgehog, registrado na ANVISA como antineoplásico.
-O modelo TxGNN prevê que pode ser eficaz para **câncer de pele (Skin Cancer)**, a previsão com maior suporte de evidências entre as 10 candidatas analisadas, com **12 ensaios clínicos** e **20 publicações** apoiando esta direção.
 Atenção: essa indicação corresponde, na prática, ao uso oncológico já estabelecido do fármaco (carcinoma basocelular avançado), e não a um reposicionamento propriamente dito.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antineoplásico |
-| Nova Indicação Prevista | Câncer de pele (Skin Cancer) |
-| Pontuação de Previsão TxGNN | 99,82% |
-| Nível de Evidência | L1 (conforme classificação dos dados; ver ressalva abaixo) |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Indicação Original | ANTINEOPLASICO |
+| Nova Indicação Prevista | Medulloblastoma with extensive nodularity |
+| Pontuação de Previsão TxGNN | 0.9993 |
+| Nível de Evidência | L5 (conforme classificação dos dados; ver ressalva abaixo) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 **Ressalva sobre o nível de evidência:** os dados compilados classificam esta indicação como L1, mas nenhum ensaio de Phase 3 concluído aparece na lista. O nível reflete o fato de a indicação já ser estabelecida (estudo pivotal ERIVANCE, Phase 2, e aprovações internacionais). Pelos critérios estritos do relatório, as evidências apresentadas aqui seriam compatíveis com L2 ou inferior.
 
-> Observação: o ranking do TxGNN apresenta outras nove candidatas. A de maior pontuação é meduloblastoma com nodularidade extensa (99,93%), mas sem ensaios ou literatura (L5). Optou-se por detalhar o câncer de pele por ter o maior volume de evidências.
 
 ## Por que Esta Previsão é Razoável?
 
@@ -141,7 +139,7 @@ O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há
 - Definir um plano de gestão de risco: programa de contracepção e prevenção de gravidez, monitoramento de espasmos musculares, peso e paladar, e cautela com população pediátrica.
 - Revisar o nível de evidência, já que nenhum Phase 3 concluído consta na lista e os ensaios Phase 2 têm amostras pequenas.
 
-**Observação sobre as demais candidatas:** xeroderma pigmentoso (99,91%) tem apenas relatos de caso de vismodegibe em CBCs múltiplos (L4), sendo uma questão de pesquisa; meduloblastoma com nodularidade extensa tem plausibilidade mecanística (subgrupo SHH), mas sem evidência (L5, Hold). As demais (ictiose epidermolítica anular, epidermólise bolhosa simples, suscetibilidade a câncer de próstata/cérebro, tumor de Brenner, carcinoma adenocístico cutâneo, leiomioma de próstata e neoplasia benigna de glândula sudorípara) dependem apenas do escore do modelo e permanecem em Hold.
+**Observação sobre as demais candidatas:** xeroderma pigmentoso (0,9991) tem apenas relatos de caso de vismodegibe em CBCs múltiplos (L4), sendo uma questão de pesquisa; meduloblastoma com nodularidade extensa tem plausibilidade mecanística (subgrupo SHH), mas sem evidência (L5, Hold). As demais (ictiose epidermolítica anular, epidermólise bolhosa simples, tumor de Brenner, carcinoma adenocístico cutâneo, leiomioma de próstata e neoplasia benigna de glândula sudorípara) dependem apenas do escore do modelo e permanecem em Hold.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

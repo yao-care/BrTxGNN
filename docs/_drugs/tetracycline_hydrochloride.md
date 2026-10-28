@@ -8,6 +8,7 @@ nav_order: 627
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Tetracycline Hydrochloride
@@ -51,8 +52,8 @@ e **não há registros de comercialização no Brasil** recuperados neste Eviden
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | Abaixo de L5 (sem previsões do modelo) |
-| Situação no Mercado Brasileiro | Não comercializado (0 registros na ANVISA) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | **Hold** |
 
 ---

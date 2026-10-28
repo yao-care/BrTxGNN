@@ -8,6 +8,7 @@ nav_order: 160
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Buclizina Dihydrochloride
@@ -49,8 +50,8 @@ Buclizina (dicloridrato) é um anti-histamínico da classe piperazina, tradicion
 | Nova Indicação Prevista | — (Nenhuma previsão gerada pelo TxGNN) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (Sem evidências disponíveis) |
-| Situação no Mercado | ✗ Não registrado na base consultada |
-| Número de Registros | 0 |
+| Situação no Mercado | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | DrugBank ID | Não mapeado |
 | Decisão Recomendada | **Hold** |
 

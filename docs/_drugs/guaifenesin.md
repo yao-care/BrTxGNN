@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Guaifenesin
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 349
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Guaifenesin: nova indicação prevista, Doença da Cavidade Nasal (Nasal Cavity Disease) (nível de evidência L4). Indicação original: Rinite alérgica, rinite vasomotora, faringite, resfriado comum…"
+evidence_level: L5
+indication_count: 4
 monitor_inn: "Guaifenesin"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis", "tracheal disease", "trigeminal autonomic cephalalgia", "anorectal stricture", "anal polyp", "punctate epithelial keratoconjunctivitis"]
+predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
+last_modified_at: 2026-10-27
+description: "Guaifenesin: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Guaifenesin
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,33 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Guaifenesina: De rinite e resfriado comum para doença da cavidade nasal
+## Guaifenesina: expectorante → doença da cavidade nasal (nasal cavity disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Guaifenesina é um expectorante, originalmente associado ao tratamento de rinite alérgica, rinite vasomotora, faringite, resfriado comum e outras condições das vias aéreas superiores.
-O modelo TxGNN prevê que pode ser eficaz para **Doença da Cavidade Nasal (Nasal Cavity Disease)**,
-atualmente com **0 ensaios clínicos** e **1 publicação** (uma revisão de apoio apenas indireto) apoiando esta direção.
+A guaifenesina é um expectorante que fluidifica e ajuda a eliminar o muco das vias aéreas.
+O modelo TxGNN prevê que pode ser eficaz para **doença da cavidade nasal (nasal cavity disease)**, mas até o momento há **nenhum ensaio clínico** e apenas **1 publicação** (uma revisão de 2002, com apoio apenas indireto) relacionada a esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Rinite alérgica, rinite vasomotora, faringite, resfriado comum, rinite, nasofaringite e cefaleia (indicações do grafo de conhecimento do TxGNN; não há texto de indicação aprovada no Brasil) |
-| Nova Indicação Prevista | Doença da Cavidade Nasal (Nasal Cavity Disease) |
-| Pontuação de Previsão TxGNN | 99,98% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | doença da cavidade nasal (nasal cavity disease) |
+| Pontuação de Previsão TxGNN | 0,9998 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a guaifenesina é um expectorante que fluidifica e ajuda a soltar o muco das vias aéreas. Sua utilização em rinite e resfriado comum já é descrita, e mecanisticamente pode ser aplicável a doenças da cavidade nasal.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a guaifenesina é um expectorante que torna o muco das vias aéreas mais fluido e facilita sua eliminação, o que mecanisticamente pode ser aplicável a condições que envolvem secreção nas vias aéreas superiores.
 
-A doença da cavidade nasal está muito próxima das indicações originais (rinite, nasofaringite, resfriado comum), todas afetando as vias aéreas superiores. Isso explica a pontuação muito alta do modelo. Contudo, trata-se de uma categoria ampla, e a previsão reflete sobretudo a proximidade entre doenças no grafo de conhecimento, não uma demonstração de eficácia.
+A doença da cavidade nasal está anatomicamente e funcionalmente próxima das condições respiratórias superiores para as quais o fármaco já é conhecido, o que ajuda a explicar a pontuação muito alta do modelo. Ainda assim, trata-se de uma proximidade de contexto, e não de uma demonstração de eficácia.
 
-A única publicação disponível (2002) é um artigo de estratégias clínicas sobre alergias respiratórias ocultas em usuários da voz. Ele menciona descongestionantes com guaifenesina como potencialmente úteis, o que oferece, no máximo, apoio indireto.
+A única publicação disponível é uma revisão sobre alergias respiratórias ocultas em usuários da voz, que menciona descongestionantes com guaifenesina como possível auxílio. Ela não estuda diretamente a doença da cavidade nasal; por isso o apoio é apenas indireto e o nível de evidência permanece em L5.
 
 ## Evidências de Ensaios Clínicos
 
@@ -70,19 +69,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [12487405](https://pubmed.ncbi.nlm.nih.gov/12487405/) | 2002 | Revisão | Logopedics, Phoniatrics, Vocology | Estratégias de tratamento de alergias respiratórias em usuários da voz; antihistamínicos geralmente evitados, e descongestionantes com guaifenesina podem ser úteis; corticoides são mais úteis em alergia perene |
+| [12487405](https://pubmed.ncbi.nlm.nih.gov/12487405/) | 2002 | Revisão | Logopedics, Phoniatrics, Vocology | Estratégias de tratamento de alergias respiratórias em usuários da voz; antihistamínicos costumam ser evitados, e descongestionantes com guaifenesina podem ser úteis. Apoio indireto. |
+
+## Informações de Comercialização no Brasil
+
+Os dados locais indicam que o medicamento está comercializado, com 5 registros válidos e 15 cancelados (a lista pode estar incompleta, pois os registros são parciais). Os detalhes de cada registro não constam nos dados compilados para este relatório.
 
 ## Considerações de Segurança
-
-Não há dados de advertências, contraindicações ou interações medicamentosas extraídos de bula. O grafo de conhecimento do TxGNN, porém, registra associações de contraindicação com as condições abaixo (não são texto de bula e devem ser confirmadas):
-
-- **Cardiovasculares:** doença hipertensiva, hipertensão
-- **Hepáticas e digestivas:** insuficiência hepática, doença hepática, cirrose hepática, úlcera gástrica, doença ulcerosa péptica, pancreatite, doença da vesícula biliar, doença inflamatória intestinal
-- **Respiratórias:** doença pulmonar obstrutiva crônica (DPOC), DPOC grave de início precoce
-- **Neuropsiquiátricas:** epilepsia, insônia, transtorno de ansiedade, transtorno neurótico, transtorno distímico, transtorno psicótico, transtorno esquizofreniforme
-- **Metabólicas e endócrinas:** porfiria (incluindo formas hereditárias e doenças do metabolismo das porfirinas), hipotireoidismo (incluindo mixedema e hipotireoidismo congênito), insuficiência adrenocortical, doença de Addison
-- **Renais e urinárias:** doença renal, piureter
-- **Hematológicas:** trombocitopenia
 
 Consulte a bula para informações de segurança.
 
@@ -91,14 +84,13 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A pontuação do modelo é alta, mas não há ensaios clínicos e a única publicação oferece apenas apoio indireto. Além disso, o fármaco não está comercializado no Brasil e faltam dados de segurança e de mecanismo de ação.
+- A previsão tem pontuação alta, mas não há ensaios clínicos nem estudos que avaliem diretamente a doença da cavidade nasal; a única publicação oferece apoio indireto.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula de referência (ANVISA ou de outra agência) para advertências e contraindicações
-- Complementar os dados de mecanismo de ação a partir do DrugBank
-- Definir com precisão qual doença da cavidade nasal está em foco (por exemplo, rinossinusite ou congestão) e buscar estudos clínicos específicos
-- Avaliar a viabilidade regulatória, já que não há registro vigente no Brasil
-- Verificar a relevância das contraindicações do grafo de conhecimento para a população-alvo
+- Estudos clínicos ou observacionais que avaliem diretamente a guaifenesina na doença da cavidade nasal
+- Dados do mecanismo de ação (MOA)
+- Bula brasileira com advertências, contraindicações e interações medicamentosas para avaliação de segurança
+- Definição da via de administração e da forma farmacêutica adequadas à nova indicação
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

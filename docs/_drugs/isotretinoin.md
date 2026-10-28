@@ -4,17 +4,17 @@ title: Isotretinoin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 377
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-13
-description: "Isotretinoin: nova indicação prevista, Hipertensão Renovascular Maligna (Malignant Renovascular Hypertension) (nível de evidência L5). Indicação original: Hipertensão / transtorno hipertensivo (confo…"
+indication_count: 1
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
+last_modified_at: 2026-10-27
+description: "Isotretinoin: nova indicação prevista, Doença Renal Hipertensiva Maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Isotretinoin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **2** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +33,60 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-## Isotretinoína: Da hipertensão à hipertensão renovascular maligna
+## Isotretinoína: retinoide sistêmico → Doença Renal Hipertensiva Maligna (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Isotretinoína é um retinoide sistêmico; no grafo de conhecimento usado pelo modelo, seu uso original aparece registrado como transtorno hipertensivo/hipertensão, o que deve ser verificado (veja abaixo).
-O modelo TxGNN prevê que pode ser eficaz para **Hipertensão Renovascular Maligna (Malignant Renovascular Hypertension)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia apenas na pontuação do modelo.
+Isotretinoína é um retinoide (derivado da vitamina A) de uso sistêmico.
+O modelo TxGNN prevê que pode ser eficaz para **Doença Renal Hipertensiva Maligna (malignant hypertensive renal disease)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão / transtorno hipertensivo (conforme o grafo de conhecimento; sem texto de indicação aprovada no Brasil) |
-| Nova Indicação Prevista | Hipertensão Renovascular Maligna (Malignant Renovascular Hypertension) |
-| Pontuação de Previsão TxGNN | 99,01% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Doença Renal Hipertensiva Maligna (malignant hypertensive renal disease) |
+| Pontuação de Previsão TxGNN | 0,9901 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 3 de 3) |
+| Número de Registros | 3 (ativos: 0) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. A isotretinoína é um retinoide sistêmico, cujo perfil clínico conhecido é dermatológico (acne grave). Não é um anti-hipertensivo estabelecido.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a isotretinoína faz parte da classe dos retinoides, e não é possível verificar um mecanismo que a ligue à doença renal hipertensiva maligna.
 
-Uma ligação plausível, porém não comprovada, é que a sinalização por retinoides influencia a remodelação vascular e a regulação do sistema renina-angiotensina, o que poderia ter relação com a patologia renovascular. Isso é especulativo e não foi verificado por nenhum estudo nos dados compilados.
+O único apoio é a pontuação elevada do modelo TxGNN (0,9901). Essa pontuação é idêntica à de outra previsão renal vinculada à hipertensão, o que sugere que ambas compartilham o mesmo sinal do modelo, e não evidências independentes. Retinoides foram estudados em modelos pré-clínicos de lesão e fibrose renal, mas isso é indireto e não está nos dados compilados para este relatório.
 
-As "indicações originais" registradas (hipertensão) conflitam com a farmacologia conhecida da isotretinoína e podem refletir um erro de mapeamento de dados. Isso deve ser conferido antes de qualquer avanço. A segunda previsão do modelo, **doença renal hipertensiva maligna**, tem exatamente a mesma pontuação (99,01%), sugerindo que ambas partem do mesmo sinal do grafo e não de evidências independentes. Estudos pré-clínicos com retinoides em modelos de lesão e fibrose renal existem, mas são indiretos e não constam nos dados compilados.
+Como não há estudo clínico nem publicação que avalie diretamente esta doença, o nível de evidência é L5. Também convém revisar se há erro de mapeamento na indicação original registrada nos dados antes de qualquer avanço.
+
+## Informações de Comercialização no Brasil
+
+Segundo os dados compilados, os 3 registros existentes no Brasil estão cancelados e não há registro válido. A lista detalhada de registros não está disponível nos dados compilados.
 
 ## Considerações de Segurança
 
-- **Contraindicações segundo o grafo de conhecimento** (não é texto de bula): transtornos de ansiedade, neuróticos e distímicos; transtornos psicóticos e mentais (esquizofreniforme, esquizoafetivo); doença renal; doença hepática; doença da vesícula biliar; pancreatite; doença inflamatória intestinal; osteoporose (inclusive pós-menopausa); lúpus eritematoso sistêmico (inclusive pediátrico); angioedema (adquirido, hereditário, não histamínico e induzido por bloqueadores do SRAA); diabetes mellitus e cetoacidose diabética; deficiência de potássio; neutropenia e agranulocitose; piureter; hipotensão.
-- **Interações Medicamentosas**: 98 interações registradas. Entre as de gravidade **Maior**: doxiciclina, minociclina, tetraciclina e vitamina A. Entre as de gravidade **Moderada**: corticosteroides (betametasona, budesonida, dexametasona, hidrocortisona, prednisolona, prednisona, triancinolona), varfarina, dicumarol, naltrexona, nitisinona, etanol, fostamatinibe, ivacaftor, lumacaftor e abametapir (tópico).
-- **Preocupações gerais do perfil conhecido**: teratogenicidade, dislipidemia e hepatotoxicidade, relevantes para pacientes com doença vascular e renal grave, que costumam usar vários anti-hipertensivos.
-- As advertências e contraindicações da bula da ANVISA não estavam disponíveis; consulte a bula.
+- **Contraindicações (relatadas nos dados compilados, não extraídas de bula):** os dados apontam relação de contraindicação com condições como doença renal, doença hepática, pancreatite, doenças da vesícula biliar, doença inflamatória intestinal, osteoporose, lúpus eritematoso sistêmico, transtornos psicóticos e outros transtornos mentais, ansiedade, diabetes mellitus e cetoacidose diabética, neutropenia e agranulocitose, angioedema (incluindo o hereditário) e condições hipotensivas. Isso exige verificação na bula.
+- **Interações Medicamentosas:** foram registradas 98 interações. As de gravidade **maior** incluem doxiciclina, minociclina, tetracilina e vitamina A. As de gravidade moderada incluem corticosteroides (betametasona, budesonida, dexametasona, hidrocortisona, prednisolona, prednisona, triancinolona), varfarina, dicumarol, naltrexona, etanol, nitisinona, fostamatinibe, ivacaftor, lumacaftor e abametapir.
+- **Outros pontos de atenção:** teratogenicidade, elevação de lipídios e efeitos hepáticos são preocupações conhecidas da classe. Isso é relevante em pacientes com comprometimento renal, que costumam usar vários anti-hipertensivos.
+
+Consulte a bula para informações de segurança complementares.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. O mecanismo é desconhecido, a indicação original parece conflitar com a farmacologia conhecida do fármaco e o perfil de segurança é preocupante para essa população. O fármaco também não tem registro no Brasil.
+- A previsão se sustenta apenas na pontuação do modelo, sem ensaios clínicos nem literatura sobre esta doença. Os registros no Brasil estão todos cancelados, e há contraindicações e interações relevantes.
 
 **Para prosseguir, é necessário:**
-- Verificar o possível erro de mapeamento das indicações originais (hipertensão) no grafo de conhecimento.
-- Obter os dados de mecanismo de ação (MOA) no DrugBank.
-- Obter e analisar a bula na ANVISA (advertências e contraindicações), necessária para a triagem de segurança.
-- Fazer uma busca sistemática de literatura e ensaios clínicos, incluindo estudos pré-clínicos de retinoides em modelos renais e vasculares.
-- Avaliar a viabilidade regulatória, dado que não há registro vigente no Brasil e que a teratogenicidade exige programa de gerenciamento de risco.
+- Dados do mecanismo de ação (MOA) da isotretinoína
+- Revisão da indicação original registrada, por possível erro de mapeamento
+- Bula da ANVISA com advertências e contraindicações
+- Estudos pré-clínicos e clínicos que avaliem diretamente a doença renal hipertensiva maligna
+- Avaliação do perfil de segurança (teratogenicidade, lipídios, função hepática e renal) em pacientes com hipertensão e comprometimento renal
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

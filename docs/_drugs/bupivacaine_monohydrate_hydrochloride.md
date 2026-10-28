@@ -8,6 +8,7 @@ nav_order: 164
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bupivacaine Monohydrate Hydrochloride
@@ -51,8 +52,8 @@ Bupivacaína monohidrato cloridrato é a forma salina da bupivacaína, anestési
 | Nova Indicação Prevista | Nenhuma (modelo TxGNN sem saída) |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
+| Número de Registros | 12 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ---

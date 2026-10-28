@@ -47,9 +47,9 @@ O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**
 |------|------|
 | Indicação Original | Não informada nos dados compilados |
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
-| Pontuação de Previsão TxGNN | 99,06% |
+| Pontuação de Previsão TxGNN | 0,9906 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 Mecanisticamente, isso poderia reduzir a hiperexcitabilidade cortical e trigeminovascular associada à enxaqueca. Também poderia aliviar a ansiedade e a tensão muscular, que podem coexistir com as crises ou desencadeá-las.
 
-É preciso cautela. A pontuação alta (0,99) é apenas uma previsão computacional, sem ensaios clínicos ou literatura que a sustentem. Benzodiazepínicos não são recomendados como tratamento padrão da enxaqueca, por causa de dependência, tolerância, sedação e risco de cefaleia por uso excessivo de medicamentos. A previsão pode refletir sobretudo a semelhança de rede com outros agentes GABAérgicos ou ansiolíticos, e não evidência específica para enxaqueca.
+É preciso cautela. A pontuação alta (0,9906) é apenas uma previsão computacional, sem ensaios clínicos ou literatura que a sustentem. Benzodiazepínicos não são recomendados como tratamento padrão da enxaqueca, por causa de dependência, tolerância, sedação e risco de cefaleia por uso excessivo de medicamentos. A previsão pode refletir sobretudo a semelhança de rede com outros agentes GABAérgicos ou ansiolíticos, e não evidência específica para enxaqueca.
 
 ## Considerações de Segurança
 

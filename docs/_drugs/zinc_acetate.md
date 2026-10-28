@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Soluções que ajustam o balanço eletrolítico |
 | Nova Indicação Prevista | Retinopatia diabética não proliferativa grave (severe nonproliferative diabetic retinopathy) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,15 +66,15 @@ A relação entre a indicação original (reposição eletrolítica) e a nova (d
 
 | Posição | Indicação | Pontuação TxGNN | Evidências | Nível |
 |------|------|------|------|------|
-| 2 | Bronquite | 99,97% | 1 publicação (estudo in vitro/materiais, indireto) | L5 |
-| 3 | Retinopatia diabética | 99,92% | Nenhuma | L5 |
-| 4 | Acrodermatite crônica atrófica | 99,83% | Nenhuma | L5 |
-| 5 | Dermatomiosite neonatal | 99,81% | Nenhuma | L5 |
-| 6 | Acne queloidiana | 99,80% | Nenhuma | L5 |
-| 7 | Hidroa vaciniforme familiar | 99,79% | Nenhuma | L5 |
-| 8 | Doença pulmonar intersticial infantil associada a doença do tecido conjuntivo | 99,78% | Nenhuma | L5 |
-| 9 | Dermatomiosite amiopática | 99,77% | Nenhuma | L5 |
-| 10 | Infecção do trato urinário | 99,57% | 1 publicação (indireta, 1999) | L4 |
+| 2 | Bronquite | 0,9997 | 1 publicação (estudo in vitro/materiais, indireto) | L5 |
+| 3 | Retinopatia diabética | 0,9992 | Nenhuma | L5 |
+| 4 | Acrodermatite crônica atrófica | 0,9983 | Nenhuma | L5 |
+| 5 | Dermatomiosite neonatal | 0,9981 | Nenhuma | L5 |
+| 6 | Acne queloidiana | 0,9980 | Nenhuma | L5 |
+| 7 | Hidroa vaciniforme familiar | 0,9979 | Nenhuma | L5 |
+| 8 | Doença pulmonar intersticial infantil associada a doença do tecido conjuntivo | 0,9978 | Nenhuma | L5 |
+| 9 | Dermatomiosite amiopática | 0,9977 | Nenhuma | L5 |
+| 10 | Infecção do trato urinário | 0,9957 | 1 publicação (indireta, 1999) | L4 |
 
 A previsão de acrodermatite crônica atrófica (doença cutânea da borreliose de Lyme, tratada com antibióticos) pode refletir confusão com a acrodermatite enteropática, que é responsiva ao zinco, mas é outra doença.
 

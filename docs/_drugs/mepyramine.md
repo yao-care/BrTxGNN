@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mepyramine
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 444
-evidence_level: L4
-indication_count: 4
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Mepyramine: nova indicação prevista, Urticária alérgica (allergic urticaria) (nível de evidência L4). Indicação original: Descongestionantes nasais tópicos"
 monitor_inn: "mepyramine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
+description: "Mepyramine: nova indicação prevista, Nasal cavity disease (nível de evidência L5). Indicação original: DESCONGESTIONANTES NASAIS TOPICOS"
 ---
 
 # Mepyramine
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **4** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **4**
 
 </div>
 
-## Mepiramina: De descongestionante nasal tópico para urticária alérgica
+## Mepyramine: Nasal cavity disease
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ mas atualmente há **0 ensaios clínicos** e apenas **4 publicações** indireta
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Descongestionantes nasais tópicos |
-| Nova Indicação Prevista | Urticária alérgica (allergic urticaria) |
-| Pontuação de Previsão TxGNN | 99,92% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Indicação Original | DESCONGESTIONANTES NASAIS TOPICOS; ANALGESICOS CONTRA ENXAQUECA; OUTROS PRODUTOS PARA O APARELHO DIGESTIVO E METABOLISMO |
+| Nova Indicação Prevista | Nasal cavity disease |
+| Pontuação de Previsão TxGNN | 0.9974 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A urticária alérgica depende fortemente da ativação de mastócitos e da liberação de histamina, e o bloqueio do receptor H1 é a base do tratamento. Por isso, a previsão é coerente com a farmacologia conhecida do fármaco. Ressalte-se, porém, que isso é essencialmente o uso anti-histamínico clássico, e não um reposicionamento verdadeiramente novo.
 
-A literatura disponível é indireta: estudos de eletrofisiologia sobre canais iônicos (canal KCNQ/M e canais de sódio de nociceptores), cinética de ligação ao receptor H1 e um estudo veterinário em cães com angioedema. A pontuação alta do TxGNN (0,999) é apenas uma previsão computacional.
+A literatura disponível é indireta: estudos de eletrofisiologia sobre canais iônicos (canal KCNQ/M e canais de sódio de nociceptores), cinética de ligação ao receptor H1 e um estudo veterinário em cães com angioedema.
 
 ## Evidências de Ensaios Clínicos
 
@@ -96,7 +96,7 @@ As advertências e contraindicações da bula brasileira não estão disponívei
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão é mecanisticamente plausível, mas corresponde ao uso anti-histamínico clássico e não há ensaios clínicos em humanos; a literatura é indireta (pré-clínica e veterinária). Além disso, todos os registros no Brasil estão cancelados e os dados de segurança da bula estão ausentes.
+A previsão é mecanisticamente plausível, mas corresponde ao uso anti-histamínico clássico e não há ensaios clínicos em humanos; a literatura é indireta (pré-clínica e veterinária).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança

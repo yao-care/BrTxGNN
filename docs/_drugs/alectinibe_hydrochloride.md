@@ -8,6 +8,7 @@ nav_order: 38
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alectinibe Hydrochloride
@@ -49,8 +50,8 @@ Cloridrato de alectinibe é um fármaco cujo sufixo INN "–ibe" indica pertenci
 | Nova Indicação Prevista | Não disponível — sem previsão TxGNN gerada |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros ANVISA | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros ANVISA | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---

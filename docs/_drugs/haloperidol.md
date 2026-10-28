@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 350
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Haloperidol: nova indicação prevista, Distúrbio congênito de glicosilação com fucosilação defeituosa (conge… (nível de evidência L5). Indicação original: Transtornos psicóticos, esquizofrenia, transt…"
 monitor_inn: "HALOPERIDOL"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
+last_modified_at: 2026-10-27
+description: "Haloperidol: nova indicação prevista, Doença congênita de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosy… (nível de evidência L5). Indicação origi…"
 ---
 
 # Haloperidol
@@ -33,31 +33,34 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Haloperidol: Dos transtornos psicóticos ao distúrbio congênito de glicosilação com fucosilação defeituosa
+## Haloperidol: antipsicótico bloqueador de receptores de dopamina D2 → doença congênita de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosylation)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Haloperidol é um antipsicótico típico, originalmente usado em transtornos psicóticos, esquizofrenia, transtorno esquizoafetivo e síndrome de Tourette.
-O modelo TxGNN prevê que pode ser eficaz para **distúrbio congênito de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosylation)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se de uma previsão exclusivamente computacional.
+Haloperidol é um antipsicótico típico, que atua principalmente bloqueando receptores de dopamina D2.
+O modelo TxGNN prevê que pode ser eficaz para **doença congênita de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosylation)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se de uma previsão puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Transtornos psicóticos, esquizofrenia, transtorno esquizoafetivo, síndrome de Tourette (conforme as indicações originais compiladas para este relatório) |
-| Nova Indicação Prevista | Distúrbio congênito de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosylation) |
-| Pontuação de Previsão TxGNN | 99,91% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Doença congênita de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosylation) |
+| Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o haloperidol é um antagonista dos receptores de dopamina D2, e sua eficácia em transtornos psicóticos e esquizofrenia está bem estabelecida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o haloperidol é um antagonista de receptores de dopamina D2, classe dos antipsicóticos butirofenonas.
 
-Não foi identificada uma relação mecanística entre o bloqueio de receptores D2 e defeitos de glicosilação. Os distúrbios congênitos de glicosilação são doenças metabólicas genéticas que afetam a fixação de açúcares a proteínas e lipídeos, e não há uma justificativa biológica plausível para o efeito do haloperidol sobre esse processo. A pontuação do TxGNN é muito alta (posição 797 no ranking do modelo), mas reflete apenas padrões do grafo de conhecimento, sem respaldo em estudos reais.
+Não foi identificado vínculo mecanístico entre o bloqueio de dopamina D2 e defeitos de fucosilação na glicosilação de proteínas. A pontuação do TxGNN é muito alta (0,9991), mas resulta apenas de um cálculo do modelo: não há ensaios, nem literatura, nem justificativa biológica plausível que a sustente.
+
+Por isso, esta previsão deve ser tratada como hipótese a ser explorada, e não como direção terapêutica sustentada por dados.
 
 ## Evidências de Ensaios Clínicos
 
@@ -67,32 +70,28 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Atualmente não há literatura relacionada.
 
+## Informações de Comercialização no Brasil
+
+Os dados compilados indicam 5 registros válidos e 15 cancelados, e a lista de registros pode estar incompleta. Os detalhes de cada registro não estão disponíveis nos dados compilados.
+
 ## Considerações de Segurança
 
-- **Contraindicações e condições de risco (derivadas do grafo de conhecimento, não do texto da bula)**:
-  - Cardíacas: síndrome do QT longo (inclusive a familiar) e torsades de pointes.
-  - Neurológicas: epilepsia, doenças dos núcleos da base, distonia focal da mão, blefaroespasmo e síndrome neuroléptica maligna.
-  - Hematológicas: neutropenia (inclusive as formas congênitas), agranulocitose e leucopenia.
-  - Outras: doença hepática, doença da vesícula biliar, hipotireoidismo e mixedema, deficiência de potássio, distúrbios hipotensivos e carcinoma de mama feminino.
-- **Interações medicamentosas**: foram registradas 100 interações. Entre as de gravidade **Maior** estão bupropiona, morfina, claritromicina e dolasetrona. Entre as de gravidade **Moderada** estão famotidina, epinefrina, hidrocortisona, anfotericina B, atropina, loperamida e aprepitanto, entre outras.
+- **Interações Medicamentosas**: foram registradas 100 interações; entre as exemplificadas, as de gravidade **maior** incluem bupropiona, morfina, claritromicina e dolasetrona. Há ainda várias de gravidade moderada (por exemplo, famotidina, epinefrina, hidrocortisona, anfotericina B, atropina, loperamida e bisacodil).
 
-As advertências e contraindicações do texto da bula da ANVISA não estavam disponíveis. Consulte a bula para informações de segurança completas.
+Para advertências e contraindicações em bula, consulte a bula aprovada pela ANVISA.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão não tem nenhum ensaio clínico, nenhuma publicação e nenhuma justificativa mecanística identificável (nível L5). Além disso, o fármaco tem um perfil de segurança relevante e não consta como comercializado no Brasil.
+- A previsão se baseia apenas na pontuação do modelo, sem ensaios clínicos, sem literatura e sem vínculo mecanístico identificável; não há base para avançar.
 
 **Para prosseguir, é necessário:**
-- Dados do mecanismo de ação e uma hipótese biológica que ligue o antagonismo D2 à via de fucosilação.
-- Estudos pré-clínicos (in vitro ou em modelos) que sustentem qualquer efeito nesse distúrbio.
-- Obtenção e análise da bula da ANVISA, com advertências e contraindicações oficiais.
-- Verificação da situação de registro no Brasil, já que não há registros identificados.
-- Avaliação da relação risco-benefício em uma população pediátrica e metabólica, considerando QT longo, efeitos extrapiramidais e as 100 interações medicamentosas registradas.
-
-**Observação:** entre as demais previsões analisadas, a de **transtorno bipolar afetivo maníaco** (posição 10) é a única com respaldo clínico real. Há ensaios de Fase 3 concluídos, como o NCT00129220, que usa haloperidol como controle, e metanálises em rede. Trata-se, porém, de um uso já estabelecido e não de um reposicionamento inovador. Se o objetivo for avançar com uma direção sustentada por evidências, essa indicação merece avaliação separada, com cautela quanto a QT prolongado e sintomas extrapiramidais.
+- Estabelecer uma hipótese mecanística plausível entre a ação do haloperidol e a via de fucosilação, apoiada por estudos pré-clínicos.
+- Obter dados do mecanismo de ação e das advertências e contraindicações da bula na ANVISA.
+- Verificar a lista completa de registros no Brasil.
+- Avaliar o perfil de segurança (prolongamento do QT, sintomas extrapiramidais, interações) antes de qualquer estudo em população com doença metabólica rara.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

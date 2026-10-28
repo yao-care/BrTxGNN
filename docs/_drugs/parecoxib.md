@@ -4,17 +4,17 @@ title: Parecoxib
 parent: Evidência Moderada (L3-L4)
 nav_order: 510
 evidence_level: L3
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-13
 description: "Parecoxib: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L3). Indicação original: Antiinflamatórios"
 monitor_inn: "parecoxib"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
 ---
 
 # Parecoxib
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **4** 
+Nível de evidência: **L3** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,17 +48,17 @@ atualmente com **nenhum ensaio clínico registrado** e **1 publicação clínica
 |------|------|
 | Indicação Original | Antiinflamatórios |
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
-| Pontuação de Previsão TxGNN | 99,55% |
+| Pontuação de Previsão TxGNN | 0,9955 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 8 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo informações conhecidas, o parecoxibe é um pró-fármaco do valdecoxibe, inibidor seletivo da COX-2, com propriedades anti-inflamatórias e analgésicas.
 
-A síntese de prostaglandina E2 (PGE2) dependente de COX-2 contribui para a inflamação neurogênica e a sensibilização do sistema trigeminovascular na enxaqueca. Por isso, inibir a COX-2 é mecanisticamente plausível para crises agudas. A pontuação alta do TxGNN (0,995) é coerente com esse vínculo.
+A síntese de prostaglandina E2 (PGE2) dependente de COX-2 contribui para a inflamação neurogênica e a sensibilização do sistema trigeminovascular na enxaqueca. Por isso, inibir a COX-2 é mecanisticamente plausível para crises agudas. A pontuação alta do TxGNN (0,9955) é coerente com esse vínculo.
 
 A evidência clínica, porém, é limitada a um único estudo piloto, cujo desenho não pôde ser confirmado. Por isso, o nível foi definido de forma conservadora como L3. Além disso, o parecoxibe só existe em forma injetável, o que limita a praticidade para uma doença de crises recorrentes.
 
@@ -76,7 +76,7 @@ Para outras indicações previstas (subtipos de enxaqueca), a literatura adicion
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros estão cancelados; não há produto válido atualmente.
+Os 8 registros estão válidos (8 de 8); o medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -97,7 +97,7 @@ Observação: pelo mecanismo de inibição seletiva da COX-2, que reduz a prosta
 **Decisão: Hold**
 
 **Justificativa:**
-Apesar da pontuação alta e do mecanismo plausível, a evidência clínica se resume a um estudo piloto de desenho não confirmado, sem ensaios registrados. Todos os registros no Brasil estão cancelados e a forma é apenas injetável. Os dados de segurança da bula também não estão disponíveis, o que impede a triagem de segurança.
+Apesar da pontuação alta e do mecanismo plausível, a evidência clínica se resume a um estudo piloto de desenho não confirmado, sem ensaios registrados. Os 8 registros no Brasil estão válidos (8 de 8) e o medicamento é comercializado, mas a forma é apenas injetável. Os dados de segurança da bula também não estão disponíveis, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações)

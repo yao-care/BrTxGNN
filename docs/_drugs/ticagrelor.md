@@ -4,17 +4,17 @@ title: Ticagrelor
 parent: Apenas Predição do Modelo (L5)
 nav_order: 636
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
-description: "Ticagrelor: nova indicação prevista, Arteriosclerose Intracraniana (Intracranial Arteriosclerosis) (nível de evidência L5). Indicação original: Síndrome coronariana aguda (e doença vascular periféric…"
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
+description: "Ticagrelor: nova indicação prevista, Arteriosclerose Intracraniana (intracranial arteriosclerosis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Ticagrelor: Da síndrome coronariana aguda à arteriosclerose intracraniana
+## Ticagrelor: Arteriosclerose Intracraniana (intracranial arteriosclerosis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ atualmente com **2 ensaios clínicos** e **2 publicações** diretamente associa
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Síndrome coronariana aguda (e doença vascular periférica, claudicação intermitente, doença arterial periférica, segundo o grafo de conhecimento) |
-| Nova Indicação Prevista | Arteriosclerose Intracraniana (Intracranial Arteriosclerosis) |
-| Pontuação de Previsão TxGNN | 99,97% |
-| Nível de Evidência | L2 (limitado: o único ensaio de Phase 3 ainda está em andamento e não tem resultados; ver nota abaixo) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Arteriosclerose Intracraniana (intracranial arteriosclerosis) |
+| Pontuação de Previsão TxGNN | 0.9997 |
+| Nível de Evidência | L5 (limitado: o único ensaio de Phase 3 ainda está em andamento e não tem resultados; ver nota abaixo) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 11) |
+| Número de Registros | 11 (ativos: 9) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 > Nota: o nível L2 segue a classificação dos dados compilados. Em termos estritos, o ensaio de Phase 3 (CAPTIVA) ainda não foi concluído, de modo que a evidência direta para esta indicação é, na prática, inferior ao previsto para L2.
@@ -93,7 +93,7 @@ Consulte a bula para as demais informações de segurança.
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- A previsão é mecanisticamente plausível e há um ensaio de Phase 3 (CAPTIVA) em andamento na indicação, mas ainda sem resultados. O ticagrelor não é comercializado no Brasil (0 registros), o que exige cautela adicional.
+- A previsão é mecanisticamente plausível e há um ensaio de Phase 3 (CAPTIVA) em andamento na indicação, mas ainda sem resultados.
 
 **Para prosseguir, é necessário:**
 - Aguardar os resultados do CAPTIVA (conclusão prevista para 2027) e do estudo guiado por genótipo.

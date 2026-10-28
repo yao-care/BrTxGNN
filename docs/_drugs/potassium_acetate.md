@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Nutrientes parenterais |
 | Nova Indicação Prevista | Acidose Tubular Renal (Renal Tubular Acidosis) |
-| Pontuação de Previsão TxGNN | 99,90% |
+| Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L5 (apenas previsão do modelo, sem estudos diretos) |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 4 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -71,7 +71,7 @@ Há, porém, ressalvas importantes. Não existem evidências diretas do acetato 
 | Registro nº 106830186 | Numeta Ped | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
 | Registro nº 106830185 | Numeta Neo | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
 
-Todos os quatro registros constam como cancelados; não há registro válido atualmente.
+Os quatro registros constam como válidos; o medicamento está comercializado no Brasil (4 registros válidos de 4).
 
 ## Considerações de Segurança
 
@@ -85,7 +85,7 @@ Todos os quatro registros constam como cancelados; não há registro válido atu
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se apoia apenas no modelo (L5 pela regra de classificação), sem ensaios clínicos ou literatura sobre o acetato de potássio na ATR. Além disso, todos os registros brasileiros estão cancelados e faltam dados de segurança da bula.
+- A previsão se apoia apenas no modelo (L5 pela regra de classificação), sem ensaios clínicos ou literatura sobre o acetato de potássio na ATR. Além disso, faltam dados de segurança da bula.
 - O racional mecanístico é plausível, mas baseia-se em evidências indiretas de outros sais de potássio e alcalinizantes, já consagrados no tratamento da ATR.
 
 **Para prosseguir, é necessário:**

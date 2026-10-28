@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Metoclopramide
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 453
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-13
-description: "Metoclopramide: nova indicação prevista, Úlcera gástrica (gastric ulcer) (nível de evidência L4). Indicação original: Antieméticos e antinauseantes"
+description: "Metoclopramide: nova indicação prevista, Gastroduodenite (nível de evidência L4). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 # Metoclopramide
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **5** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **5**
 
 </div>
 
-## Metoclopramida: Do uso antiemético à úlcera gástrica
+## Metoclopramida: Do uso antiemético à gastroduodenite
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -50,9 +50,9 @@ atualmente com **1 ensaio clínico** (de uso procedimental) e **cerca de 20 publ
 |------|------|
 | Indicação Original | Antieméticos e antinauseantes |
 | Nova Indicação Prevista | Úlcera gástrica (gastric ulcer) |
-| Pontuação de Previsão TxGNN | 99,93% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Pontuação de Previsão TxGNN | 0,9990 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -64,7 +64,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A relação com a úlcera gástrica é **indireta**. A ação procinética pode aliviar a dispepsia e o esvaziamento gástrico retardado que acompanham algumas úlceras. No entanto, o fármaco **não** possui ação antissecretora, cicatrizante ou de proteção da mucosa, e não substitui o tratamento padrão (inibidores da bomba de prótons e erradicação do *H. pylori*). Um estudo antigo em ratos (PMID 2730234) sugeriu efeito protetor contra úlceras induzidas, mas é pré-clínico e isolado.
 
-A pontuação muito alta do TxGNN (99,93%) é uma previsão computacional e não deve ser lida como prova de eficácia. Outras indicações previstas (gastroduodenite, doença ulcerosa péptica, úlcera gastrojejunal) apresentam o mesmo padrão de apoio indireto. Para a **perfuração de úlcera péptica**, não há vínculo mecanístico plausível, e a estimulação da motilidade é, em princípio, indesejável com víscera perfurada.
+A pontuação muito alta do TxGNN (0,9990) é uma previsão computacional do modelo TxGNN (deep learning) e não deve ser lida como prova de eficácia. Para a **perfuração de úlcera péptica**, não há vínculo mecanístico plausível, e a estimulação da motilidade é, em princípio, indesejável com víscera perfurada.
 
 ---
 
@@ -95,7 +95,7 @@ A pontuação muito alta do TxGNN (99,93%) é uma previsão computacional e não
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão **cancelados**; não há registro válido atualmente. Principais registros:
+Os 20 registros encontrados estão **válidos**; o medicamento é comercializado. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -133,7 +133,7 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 - Esclarecer a aparente contradição entre a contraindicação em úlcera péptica ativa e a nova indicação proposta.
 - Definir se o objetivo é tratar a úlcera ou apenas sintomas associados, como dispepsia e esvaziamento retardado.
 - Realizar estudos controlados com desfechos de cicatrização de úlcera, se a hipótese for mantida.
-- Verificar a situação regulatória atual, já que todos os registros estão cancelados.
+- Verificar a situação regulatória atual, já que há 20 registros válidos e o medicamento é comercializado.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

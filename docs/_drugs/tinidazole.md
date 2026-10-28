@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Tinidazole: nova indicação prevista, Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis) (nível de evidência L5). Indicação original: Amebicidas, giardicidas e tricomonicidas"
 monitor_inn: "Tinidazole"
-predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "blunt duct adenosis of breast", "apocrine adenosis of breast", "AIDS related complex", "congenital human immunodeficiency virus", "benign mammary dysplasia"]
+predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "apocrine adenosis of breast", "blunt duct adenosis of breast", "congenital human immunodeficiency virus", "AIDS related complex", "benign mammary dysplasia"]
 ---
 
 # Tinidazole
@@ -48,9 +48,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Amebicidas, giardicidas e tricomonicidas |
 | Nova Indicação Prevista | Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis) |
-| Pontuação de Previsão TxGNN | 99,93% |
+| Pontuação de Previsão TxGNN | 0,9993 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -60,11 +60,11 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 A previsão do modelo provavelmente decorre da proximidade na rede de conhecimento entre o tinidazol e produtos ginecológicos antiinfecciosos tópicos. A vaginite atrófica, porém, é causada principalmente pela deficiência de estrogênio, e não por infecção. Por isso, a plausibilidade biológica de um mecanismo antimicrobiano é fraca.
 
-Em resumo, o escore alto (99,93%) deve ser interpretado com cautela: reflete associação no grafo, não evidência biológica ou clínica.
+Em resumo, o escore alto (0,9993) deve ser interpretado com cautela: vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica ou clínica.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontram-se cancelados. Principais exemplos:
+Há 20 registros válidos. Principais exemplos:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -86,7 +86,7 @@ Consulte a bula para as advertências e contraindicações formais, pois essas i
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para vaginite atrófica pós-menopausa não tem nenhum ensaio clínico ou publicação de apoio (L5), e o mecanismo antimicrobiano é biologicamente pouco plausível para uma condição causada por deficiência estrogênica. Além disso, todos os registros brasileiros do fármaco estão cancelados.
+A previsão para vaginite atrófica pós-menopausa não tem nenhum ensaio clínico ou publicação de apoio (L5), e o mecanismo antimicrobiano é biologicamente pouco plausível para uma condição causada por deficiência estrogênica.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação do tinidazol.
@@ -101,7 +101,7 @@ Nenhuma das outras previsões de maior pontuação tem respaldo suficiente (toda
 
 - **Úlcera de vulva (99,87%)**, **neoplasia vulvar (99,86%)** e **doenças benignas da mama** (doença fibrocística, adenose de ducto obtuso, adenose apócrina, displasia mamária benigna; 99,2% a 99,75%): L5, sem evidências e sem mecanismo plausível. Para a úlcera vulvar, existe apenas um relato de caso em que a úlcera era causada por *Trichomonas vaginalis* e se resolveu com tinidazol oral, o que corresponde ao uso já aprovado.
 - **AIDS (99,69%)**: nível L4. A literatura recuperada trata de coinfecções parasitárias (amebíase, giardíase, tricomoníase), e não da infecção pelo HIV. O único ensaio (NCT03412071, fase NA, situação desconhecida, 125 participantes) é um estudo piloto de intervenção focada no microbioma para reduzir a suscetibilidade ao HIV em homens ugandenses. O papel do tinidazol nele não está claro e não há resultados de eficácia.
-- **Complexo relacionado à AIDS e HIV congênito (99,39%)**: L5, sem mecanismo anti-HIV e herdando o sinal do mesmo agrupamento de nós do grafo.
+- **Complexo relacionado à AIDS e HIV congênito (0,9939)**: L5, sem mecanismo anti-HIV; o escore vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

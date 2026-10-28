@@ -8,6 +8,7 @@ nav_order: 408
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Levocetirizine Dihydrochloride
@@ -51,7 +52,7 @@ Não há evidências de ensaios clínicos ou publicações vinculadas a novas in
 | Nova Indicação Prevista | Nenhuma — TxGNN não gerou previsões |
 | Pontuação de Previsão TxGNN | N/D |
 | Nível de Evidência | L5 (sem estudos reais vinculados) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

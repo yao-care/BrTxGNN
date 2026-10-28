@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Zanubrutinib
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 679
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-13
 description: "Zanubrutinib: nova indicação prevista, Leucemia Mieloide (Myeloid Leukemia) (nível de evidência L4). Indicação original: Antineoplásico"
@@ -14,7 +14,7 @@ predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable en
 # Zanubrutinib
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **6** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Leucemia Mieloide (Myeloid Leuk
 |------|------|
 | Indicação Original | Antineoplásico |
 | Nova Indicação Prevista | Leucemia Mieloide (Myeloid Leukemia) |
-| Pontuação de Previsão TxGNN | 99,65% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Pontuação de Previsão TxGNN | 0,9965 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A relação com a nova indicação é indireta. Sabe-se que a BTK é expressa em algumas células mieloides e pode contribuir para sinais de sobrevivência na leucemia mieloide aguda. No entanto, toda a literatura disponível trata de neoplasias linfoides (sobretudo LLC/LLPC), e não de leucemia mieloide.
 
-A pontuação elevada do TxGNN (99,65%) provavelmente reflete a proximidade na rede de conhecimento com leucemias em geral, e não uma biologia específica da linhagem mieloide. Não há evidência clínica de zanubrutinibe em leucemia mieloide nos dados compilados.
+A pontuação elevada do TxGNN (0,9965) provavelmente reflete a proximidade na rede de conhecimento com leucemias em geral, e não uma biologia específica da linhagem mieloide. Não há evidência clínica de zanubrutinibe em leucemia mieloide nos dados compilados.
 
 ## Evidências de Ensaios Clínicos
 

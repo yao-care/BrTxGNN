@@ -48,17 +48,17 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Nutrientes parenterais |
 | Nova Indicação Prevista | Retinopatia Diabética Não Proliferativa Grave (severe nonproliferative diabetic retinopathy) |
-| Pontuação de Previsão TxGNN | 99,34% |
+| Pontuação de Previsão TxGNN | 0,9934 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o cloreto de zinco é uma fonte de zinco usada em nutrição parenteral para repor as necessidades desse oligoelemento. Sua eficácia como suplemento nutricional é estabelecida, e mecanisticamente poderia ser aplicável à retinopatia diabética.
 
-O zinco participa da defesa antioxidante (por exemplo, na superóxido dismutase Cu/Zn) e do metabolismo da retina, o que pode se relacionar ao estresse oxidativo na retinopatia diabética. Essa ligação, porém, é especulativa e não é sustentada por evidências nos dados compilados para este relatório. A pontuação do modelo é muito alta, mas baseia-se apenas em relações do grafo de conhecimento.
+O zinco participa da defesa antioxidante (por exemplo, na superóxido dismutase Cu/Zn) e do metabolismo da retina, o que pode se relacionar ao estresse oxidativo na retinopatia diabética. Essa ligação, porém, é especulativa e não é sustentada por evidências nos dados compilados para este relatório. A pontuação do modelo (0.9934) é muito alta, mas vem do modelo TxGNN (deep learning) e pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 Vale notar que o uso original (infusão intravenosa como nutriente) é muito diferente do uso previsto (doença ocular). A via de administração e a segurança ocular do cloreto de zinco para essa finalidade não foram avaliadas.
 
@@ -66,8 +66,8 @@ Vale notar que o uso original (infusão intravenosa como nutriente) é muito dif
 
 | Indicação Prevista | Pontuação TxGNN | Nível de Evidência | Comentário |
 |------|------|------|------|
-| Síndrome de Sjögren (Sjogren syndrome) | 99,18% | L5 | Zinco atua na regulação imune e na função epitelial/mucosa; hipótese sem evidência de apoio |
-| Síndrome do olho seco (dry eye syndrome) | 99,18% | L5 | Racional plausível (integridade epitelial, cicatrização, ação antioxidante), mas não verificado; provavelmente não é independente da previsão de Sjögren, pois o olho seco é característica central dessa doença |
+| Síndrome de Sjögren (Sjogren syndrome) | 0,9918 | L5 | Zinco atua na regulação imune e na função epitelial/mucosa; hipótese sem evidência de apoio |
+| Síndrome do olho seco (dry eye syndrome) | 0,9918 | L5 | Racional plausível (integridade epitelial, cicatrização, ação antioxidante), mas não verificado; provavelmente não é independente da previsão de Sjögren, pois o olho seco é característica central dessa doença |
 
 ## Informações de Comercialização no Brasil
 

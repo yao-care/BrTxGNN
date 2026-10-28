@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Lidocaine: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "Lidocaine"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
+last_modified_at: 2026-10-23
+description: "Lidocaine: nova indicação prevista, Ceratoconjuntivite epitelial punctata (nível de evidência L5). Indicação original: Anestésicos locais"
 ---
 
 # Lidocaine
@@ -33,67 +33,105 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Lidocaína: De anestésico local à ceratoconjuntivite epitelial punctata
+## Lidocaína: De anestésico local para ceratoconjuntivite epitelial punctata
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-A lidocaína é um anestésico local (bloqueador de canais de sódio), originalmente registrado na ANVISA como anestésico local.
-O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)**, mas, até o momento, **não há ensaios clínicos nem publicações** que apoiem diretamente esta previsão: ela se baseia apenas na pontuação computacional.
+A lidocaína é um anestésico local, registrado no Brasil com classificações como anestésicos locais e medicamentos com ação no miocárdio.
+O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)**, mas **não há ensaios clínicos nem publicações** que sustentem essa previsão (apenas a previsão do modelo).
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Anestésicos locais |
-| Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Número de Registros | Pelo menos 20 (a lista pode estar incompleta) |
 | Decisão Recomendada | Hold |
+
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a lidocaína é um bloqueador de canais de sódio com ação anestésica local, e sua eficácia como anestésico está bem estabelecida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a lidocaína é um bloqueador de canais de sódio com ação anestésica tópica, e sua eficácia como anestésico local está estabelecida.
 
-Mecanisticamente, a anestesia da superfície ocular poderia aliviar a dor associada à ceratoconjuntivite epitelial punctata. Trata-se, porém, de um efeito sintomático, e não modificador da doença. A pontuação TxGNN muito alta (0,9999) é uma previsão computacional, sem respaldo de ensaios ou literatura nesta condição.
+Mecanisticamente, isso poderia aliviar a dor da superfície ocular. No entanto, não há evidência de que trate a ceratoconjuntivite subjacente. O uso prolongado de anestésicos tópicos pode, inclusive, lesar o epitélio da córnea, o que é uma preocupação de segurança em doenças epiteliais.
 
-**Outras indicações previstas (resumo):** a previsão de maior suporte é a de **distúrbio conjuntival** (nível L3), com dois ensaios clínicos e literatura sobre uso em cirurgia de pterígio, mas tratando-se de anestesia procedimental, que se sobrepõe ao uso original. A **conjuntivite atópica** (L4) tem apoio mecanístico indireto (via de sinalização nervosa). As demais previsões (conjuntivite papilar, conjuntivite rosácea, ceratite por exposição, síndrome nefrótica, doença animal não humana, tinea corporis, síndrome nefrótica esteroide-resistente) permanecem em L5, sem evidência de benefício. Na ceratite por exposição, anestésicos tópicos costumam ser desaconselhados por prejudicarem a cicatrização epitelial.
+A pontuação elevada do TxGNN (0,9999) reflete uma previsão do modelo TxGNN (aprendizado profundo), sem confirmação em estudos reais. A relação entre a indicação original (anestesia) e a nova (doença inflamatória ocular) é, no máximo, sintomática.
+
+### Outras indicações previstas (todas com evidência fraca)
+
+| Posição | Doença prevista | Pontuação | Nível | Observação |
+|---|---|---|---|---|
+| 2 | Conjuntivite papilar | 0,9998 | L5 | Apenas previsão; benefício, se houver, seria sintomático |
+| 3 | Conjuntivite da rosácea | 0,9992 | L5 | Apenas previsão; sem efeito conhecido sobre a disfunção das glândulas meibomianas |
+| 4 | Ceratite de exposição | 0,9987 | L5 | Único artigo trata de ceratite em usuários de metanfetamina; anestésicos tópicos podem prejudicar a cicatrização da córnea |
+| 5 | Conjuntivite atópica | 0,9986 | L5 | Estudos indiretos (mecanismo e reflexo neural), sem estudo direto de tratamento |
+| 6 | Doença da conjuntiva | 0,9984 | L5 | Ensaios sobre anestesia em cirurgia, não tratamento da doença |
+| 7 | Síndrome nefrótica | 0,9983 | L5 | Literatura trata de farmacocinética e segurança |
+| 8 | Doença animal não humana | 0,9982 | L5 | Relato de convulsões em macacos; sinal de segurança |
+| 9 | Tinea corporis | 0,9982 | L5 | Sem atividade antifúngica |
+| 10 | Síndrome nefrótica esteroide-resistente idiopática esporádica | 0,9979 | L5 | Apenas previsão |
+
+---
+
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados para a ceratoconjuntivite epitelial punctata.
+
+---
+
+## Evidências da Literatura
+
+Atualmente não há literatura relacionada para a ceratoconjuntivite epitelial punctata.
+
+---
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados; não há produto de lidocaína com registro válido nos dados compilados. Principais registros:
+Foram listados 20 registros válidos, todos de medicamentos de ingrediente único (lista possivelmente parcial). Os principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 155840162 | LIDOGEL | Não informada | Anestésicos locais |
-| Registro 104400188 | LIDIAL | Não informada | Anestésicos locais |
-| Registro 105730589 | DERMOMAX | Não informada | Anestésicos |
-| Registro 102980365 | XYLESTESIN ISOBÁRICO | Não informada | Medicamentos com ação no miocárdio |
-| Registro 165070015 | Cloridrato de Lidocaína | Não informada | Anestésicos locais |
+| Registro nº 155840162 | LIDOGEL | Não informada | Anestésicos locais |
+| Registro nº 104400188 | LIDIAL | Não informada | Anestésicos locais |
+| Registro nº 105730589 | DERMOMAX | Não informada | Anestésicos |
+| Registro nº 102980365 | XYLESTESIN ISOBÁRICO | Não informada | Medicamentos com ação no miocárdio |
+| Registro nº 165070015 | CLORIDRATO DE LIDOCAÍNA | Não informada | Anestésicos locais |
+
+---
 
 ## Considerações de Segurança
 
-- **Contraindicações segundo o grafo de conhecimento (não é texto de bula):** o grafo de conhecimento associa a lidocaína a contraindicações em doenças como hipertensão, insuficiência hepática, epilepsia, doença renal, cirrose, insuficiência adrenocortical, hipotireoidismo, glaucoma de ângulo aberto, osteoporose, transtornos psicóticos, infecções fúngicas e gastrite, entre outras. Devem ser verificadas na bula.
-- **Interações medicamentosas (100 registradas):** entre as principais, a interação **Maior** com **bupropiona**; interações **Moderadas** com aprepitanto, cimetidina, morfina lipossomal, ácido obeticólico, polietilenoglicol (3350 com eletrólitos), ácido picossulfúrico e sulfato de sódio; interações Menores com dexametasona, canamicina, neomicina, omeprazol, estreptomicina e troglitazona.
-- **Sinais de segurança na literatura:** metemoglobinemia em criança com síndrome nefrótica com uso tópico de lidocaína, benzocaína e cotrimoxazol (PMID 41995267); convulsões em macacos após ceftriaxona dissolvida em lidocaína 1% (PMID 19858165); efeitos neuropsiquiátricos e cardiológicos da lidocaína intravenosa (PMID 19250287); alteração da ligação a proteínas plasmáticas na doença renal (PMID 7037263).
+- **Contraindicações (relações registradas no grafo de conhecimento, não texto de bula):** hipertensão, insuficiência hepática, cirrose, epilepsia, doença renal, insuficiência adrenocortical, hipotireoidismo, glaucoma de ângulo aberto, ceratite por herpes simples, transtornos psicóticos, osteoporose, gastrite, entre outras.
+- **Interações medicamentosas (100 registradas; principais):**
+  - Maior gravidade: bupropiona (Major).
+  - Moderadas: aprepitanto, cimetidina, morfina lipossomal, ácido obeticólico, polietilenoglicol com eletrólitos, picossulfato de sódio, sulfato de sódio.
+  - Leves: dexametasona, canamicina, neomicina, omeprazol, estreptomicina, troglitazona.
+- **Sinais de segurança na literatura:** efeitos neuropsiquiátricos e cardiológicos da lidocaína sistêmica; metemoglobinemia em criança com síndrome nefrótica; risco de dano ao epitélio corneano com anestésicos tópicos prolongados.
 
-Para as advertências e contraindicações oficiais, consulte a bula.
+Consulte a bula para advertências e contraindicações formais, pois não estavam disponíveis nos dados compilados.
+
+---
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- Para a indicação principal prevista (ceratoconjuntivite epitelial punctata), não há ensaios clínicos nem literatura. A previsão é apenas computacional (L5), e todos os registros no Brasil estão cancelados.
+- A previsão vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica (L5), sem ensaios ou publicações sobre a ceratoconjuntivite epitelial punctata. O efeito esperado seria apenas sintomático, com risco potencial de toxicidade epitelial corneana.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula oficial da ANVISA (advertências e contraindicações), uma lacuna que impede a triagem de segurança.
-- Obter dados do mecanismo de ação (por exemplo, via DrugBank).
-- Realizar revisão da literatura e estudos pré-clínicos específicos para ceratoconjuntivite epitelial punctata, avaliando o risco de toxicidade epitelial corneana com anestésicos tópicos.
-- Definir via de administração e formulação oftálmica, já que a compatibilidade de via ainda está pendente.
-- Como alternativa, priorizar a linha de **distúrbio conjuntival** (L3) ou **conjuntivite atópica** (L4, hipótese neural), tratadas como questões de pesquisa.
+- Obter e analisar a bula da ANVISA (advertências e contraindicações).
+- Obter dados do mecanismo de ação a partir do DrugBank.
+- Realizar estudos pré-clínicos ou clínicos que avaliem a lidocaína diretamente nessa doença, incluindo a segurança da superfície ocular.
+- Definir a via de administração e a formulação oftálmica compatíveis.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

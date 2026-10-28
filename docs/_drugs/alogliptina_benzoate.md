@@ -8,6 +8,7 @@ nav_order: 41
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alogliptina Benzoate
@@ -49,8 +50,8 @@ Alogliptina benzoato é um inibidor de DPP-4 (dipeptidil peptidase-4), reconheci
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
+| Número de Registros | 13 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ---

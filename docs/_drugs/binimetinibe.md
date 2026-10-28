@@ -8,6 +8,7 @@ nav_order: 138
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Binimetinibe
@@ -51,8 +52,8 @@ O fármaco está comercializado no Brasil com 2 registros, mas os detalhes dos r
 | Nova Indicação Prevista | Pendente – sem previsões TxGNN disponíveis |
 | Pontuação de Previsão TxGNN | N/D |
 | Nível de Evidência | N/D |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 2 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---

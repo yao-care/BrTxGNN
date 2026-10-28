@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Hydrocortisone
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Alta (L1-L2)
 nav_order: 355
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Hydrocortisone: nova indicação prevista, Alopecia Areata (alopecia areata) (nível de evidência L5). Indicação original: Glicocorticoides tópicos simples, exceto uso oftálmico"
 monitor_inn: "HYDROCORTISONE"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Hydrocortisone
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L1** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ O único ensaio usou a hidrocortisona 1% como comparador de baixa potência, e n
 |------|------|
 | Indicação Original | Glicocorticoides tópicos simples, exceto uso oftálmico |
 | Nova Indicação Prevista | Alopecia Areata (alopecia areata) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L1 (conforme a classificação dos dados compilados; ver ressalva abaixo) |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 4 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 **Ressalva sobre o nível de evidência:** pelos critérios do relatório, L1 exigiria ≥2 ensaios de Fase 3 concluídos. Há apenas um ensaio de Fase 3 (n=41), no qual a hidrocortisona foi comparador. Uma leitura conservadora do nível seria, portanto, mais próxima de L2. Por isso a decisão é cautelosa.
@@ -89,7 +89,7 @@ Observação: a maior parte dessas publicações é antiga (1955–1973), sem re
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontrados estão cancelados; não há registro válido atualmente.
+Os 4 registros encontrados estão válidos (4 de 4); o medicamento é comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ As advertências e contraindicações oficiais da bula brasileira não estavam d
 **Decisão: Hold**
 
 **Justificativa:**
-- Existe um único ensaio de Fase 3 pequeno (n=41), em que a hidrocortisona foi comparador de baixa potência, e a evidência a posiciona como opção inferior a corticosteroides mais potentes (clobetasol). Além disso, todos os registros no Brasil estão cancelados e faltam dados de segurança da bula.
+- Existe um único ensaio de Fase 3 pequeno (n=41), em que a hidrocortisona foi comparador de baixa potência, e a evidência a posiciona como opção inferior a corticosteroides mais potentes (clobetasol). Além disso, os 4 registros no Brasil estão válidos (4 de 4) e o medicamento é comercializado, mas faltam dados de segurança da bula.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.

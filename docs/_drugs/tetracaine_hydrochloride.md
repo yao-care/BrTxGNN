@@ -8,6 +8,7 @@ nav_order: 625
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Tetracaine Hydrochloride
@@ -53,8 +54,8 @@ A ausência de dados preditivos, evidências clínicas e registro regulatório r
 | Nova Indicação Prevista | Sem previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | N/D |
 | Nível de Evidência | L5 (sem estudos reais associados) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ---

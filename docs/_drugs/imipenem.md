@@ -48,10 +48,10 @@ Entre as demais previsões, as mais bem sustentadas são **infecção por Staphy
 |------|------|
 | Indicação Original | Antibacteriano / antibióticos sistêmicos (associações medicamentosas) |
 | Nova Indicação Prevista | Esclerodermia difusa (Diffuse Scleroderma) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 9 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
+| Número de Registros | 9 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 > Observação: a previsão de maior ranking (esclerodermia difusa) é a de menor sustentação biológica. As indicações infecciosas abaixo são mais plausíveis e merecem prioridade de análise.
@@ -100,7 +100,7 @@ Publicações selecionadas das demais previsões (prioridade para estudos clíni
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontrados estão **cancelados**; não há registro válido atualmente.
+Os 9 registros encontrados estão **válidos** (9 de 9); o medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|

@@ -4,17 +4,17 @@ title: Mefenamic Acid
 parent: Evidência Moderada (L3-L4)
 nav_order: 438
 evidence_level: L3
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-13
 description: "Mefenamic Acid: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L3). Indicação original: Anti-inflamatórios antirreumáticos"
 monitor_inn: "mefenamic acid"
-predicted_indications: ["rheumatoid arthritis", "osteoarthritis susceptibility", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **8** 
+Nível de evidência: **L3** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 |------|------|
 | Indicação Original | Anti-inflamatórios antirreumáticos |
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
-| Pontuação de Previsão TxGNN | 99,73% |
+| Pontuação de Previsão TxGNN | 0,9973 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 10 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -84,7 +84,7 @@ Foram incluídas as publicações mais relevantes (todas diretamente ligadas ao 
 
 ## Informações de Comercialização no Brasil
 
-Todos os 10 registros estão **cancelados**; nenhum está vigente. Os principais:
+Todos os 10 registros estão **vigentes**; nenhum está cancelado. Os principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|

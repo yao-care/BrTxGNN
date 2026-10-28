@@ -33,14 +33,14 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Pirfenidona: Do tratamento respiratório à neoplasia mastocitária extracutânea (previsão do modelo)
+## Pirfenidona: Do tratamento respiratório ao mastocitoma extracutâneo (previsão do modelo)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 Pirfenidona é um agente antifibrótico e anti-inflamatório, registrado no Brasil na categoria "outros produtos para o aparelho respiratório".
 O modelo TxGNN prevê que ela possa ser eficaz para **mastocitoma extracutâneo (extracutaneous mastocytoma)**, mas essa previsão tem **0 ensaios clínicos** e **0 publicações** que a apoiem diretamente.
-A pontuação é alta (99,71%), mas trata-se de uma previsão puramente computacional.
+A pontuação é alta (0,9971), mas trata-se de uma previsão puramente computacional.
 
 ## Visão Geral Rápida
 
@@ -48,10 +48,10 @@ A pontuação é alta (99,71%), mas trata-se de uma previsão puramente computac
 |------|------|
 | Indicação Original | Outros produtos para o aparelho respiratório |
 | Nova Indicação Prevista | Mastocitoma extracutâneo (extracutaneous mastocytoma) |
-| Pontuação de Previsão TxGNN | 99,71% |
+| Pontuação de Previsão TxGNN | 0,9971 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,15 +66,15 @@ A pontuação elevada, portanto, deve ser lida como um sinal computacional que p
 
 | Posição | Indicação prevista | Pontuação | Observação |
 |------|------|------|------|
-| 2 | Dermatofibrossarcoma protuberans | 99,41% | Vínculo teórico via fibroblastos e TGF-β; o tratamento padrão é a inibição de PDGFR (ex.: imatinibe) |
-| 3 | Mastocitose sistêmica agressiva | 99,33% | Doença impulsionada por mutações de KIT, alvo não conhecido da pirfenidona |
-| 4 | Fibrossarcoma cardíaco | 99,29% | Provável proximidade na ontologia de sarcomas/fibroblastos |
-| 5 | Fibrossarcoma convencional | 99,26% | Existe sinal de segurança na literatura (sarcoma após uso de pirfenidona) |
-| 6 | Febre mediterrânea familiar autossômica recessiva | 99,25% | Efeito anti-inflamatório pré-clínico (IL-1β, TNF-α, NLRP3) é teoricamente relevante, mas hipotético |
-| 7 | Fibrossarcoma renal | 99,24% | Sem evidências; reflete a similaridade da classe de fibrossarcomas |
-| 8 | Infarto hepático | 99,24% | Evento isquêmico agudo, sem papel terapêutico plausível |
-| 9 | Neoplasia fibroblástica | 99,23% | Única com literatura (nível L4), de direção mista |
-| 10 | Sarcoma fibromixoide de baixo grau | 99,19% | Sem evidências |
+| 2 | Dermatofibrossarcoma protuberans | 0,9941 | Vínculo teórico via fibroblastos e TGF-β; o tratamento padrão é a inibição de PDGFR (ex.: imatinibe) |
+| 3 | Mastocitose sistêmica agressiva | 0,9933 | Doença impulsionada por mutações de KIT, alvo não conhecido da pirfenidona |
+| 4 | Fibrossarcoma cardíaco | 0,9929 | Provável proximidade na ontologia de sarcomas/fibroblastos |
+| 5 | Fibrossarcoma convencional | 0,9926 | Existe sinal de segurança na literatura (sarcoma após uso de pirfenidona) |
+| 6 | Febre mediterrânea familiar autossômica recessiva | 0,9925 | Efeito anti-inflamatório pré-clínico (IL-1β, TNF-α, NLRP3) é teoricamente relevante, mas hipotético |
+| 7 | Fibrossarcoma renal | 0,9924 | Sem evidências; reflete a similaridade da classe de fibrossarcomas |
+| 8 | Infarto hepático | 0,9924 | Evento isquêmico agudo, sem papel terapêutico plausível |
+| 9 | Neoplasia fibroblástica | 0,9923 | Única com literatura (nível L4), de direção mista |
+| 10 | Sarcoma fibromixoide de baixo grau | 0,9919 | Sem evidências |
 
 ## Evidências de Ensaios Clínicos
 
@@ -120,7 +120,7 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), uma lacuna que bloqueia a triagem de segurança.
 - Investigar o sinal de segurança relacionado a sarcomas e dermatofibromas.
 - Realizar estudos pré-clínicos que testem a hipótese em modelos de neoplasias de mastócitos.
-- Esclarecer a situação regulatória, já que todos os registros brasileiros estão cancelados.
+- Confirmar a situação regulatória, já que o medicamento está comercializado no Brasil, com 3 registros válidos de 3.
 - Considerar, como alternativa de pesquisa, a indicação "neoplasia fibroblástica" (L4), somente após a avaliação de segurança.
 ## Aviso de isenção de responsabilidade
 

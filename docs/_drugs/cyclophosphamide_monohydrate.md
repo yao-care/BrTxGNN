@@ -8,6 +8,7 @@ nav_order: 245
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Cyclophosphamide Monohydrate
@@ -51,8 +52,8 @@ A análise está **incompleta**: nenhuma indicação prevista, nenhum ensaio cl�
 | Nova Indicação Prevista | Sem previsões disponíveis |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (apenas inferência nominal; sem estudos reais vinculados) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (0 registros ANVISA encontrados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

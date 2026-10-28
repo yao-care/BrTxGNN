@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Tolnaftate
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 645
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Tolnaftate: nova indicação prevista, Doença infecciosa ectotrix (ectothrix infectious disease) (nível de evidência L5). Indicação original: Anti-infecciosos tópicos – associações medicamentosas"
-monitor_inn: "Tolnaftate"
-predicted_indications: ["ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease", "ophthalmic herpes zoster", "orbital cellulitis", "skin disease caused by infection", "infectious mononucleosis"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Tolnaftate: usos conhecidos e situação de mercado no Brasil; atualmente nenhum novo candidato a indicação"
+predicted_indications: []
 ---
 
 # Tolnaftate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,94 +32,68 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Tolnaftato: Do uso antifúngico/anti-infeccioso tópico à infecção dermatofítica ectotrix
+<!-- known-uses-page -->
+<!-- description: Tolnaftate: usos conhecidos e situação de mercado no Brasil; atualmente nenhum novo candidato a indicação -->
+## Tolnaftate: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+Os candidatos que o modelo TxGNN de aprendizado profundo (pontuação ≥ 0,99) gerou para o Tolnaftate correspondem, todos, a usos já conhecidos. Por isso, atualmente não há nenhuma nova indicação prevista para este medicamento. As pontuações vêm do modelo TxGNN (aprendizado profundo) e podem refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
-Tolnaftato é um antifúngico tópico, registrado no Brasil apenas em associações medicamentosas (com valerato de betametasona, sulfato de gentamicina e clioquinol), classificadas como anti-infecciosos tópicos e glicocorticoides tópicos em associação.
-O modelo TxGNN prevê que pode ser eficaz para **doença infecciosa ectotrix (ectothrix infectious disease)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando diretamente esta indicação.
-Trata-se apenas de uma previsão computacional.
-
----
-
-## Visão Geral Rápida
-
+## Visão geral
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anti-infecciosos tópicos – associações medicamentosas |
-| Nova Indicação Prevista | Doença infecciosa ectotrix (ectothrix infectious disease) |
-| Pontuação de Previsão TxGNN | 98,59% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 20 (todos cancelados) |
-| Decisão Recomendada | Hold |
+| Novas indicações previstas | Nenhuma (todos os candidatos do modelo que puderam ser rastreados são usos conhecidos) |
+| Usos conhecidos entre os candidatos do modelo | 3 |
+| Nível de evidência | Não se aplica |
+| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 20) |
+| Número de Registros | pelo menos 20 |
 
----
+## Usos conhecidos entre os candidatos do modelo
 
-## Por que Esta Previsão é Razoável?
+### Aprovados (com respaldo em registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| Nenhum | Nenhum |
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o tolnaftato é um tiocarbamato que inibe a esqualeno epoxidase fúngica, bloqueando a síntese de ergosterol. Esse mecanismo é, em princípio, ativo contra dermatófitos.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhum | Nenhum |
 
-A infecção ectotrix é uma infecção dermatofítica do pelo, com esporos na parte externa da haste. Por isso, o mecanismo antifúngico é plausível. Existe, porém, uma limitação importante: infecções que envolvem o folículo piloso em geral exigem terapia sistêmica, pois a penetração de agentes tópicos é fraca.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Dermatofitose da região inguinal e perianal (dermatophytosis of groin and perianal area) |
+| Tinha do pé (tinea pedis) |
+| Tinha do corpo (tinea corporis) |
 
-A pontuação alta do TxGNN (98,59%) é apenas uma previsão. Não há ensaios nem literatura que a sustentem.
+## Market information
 
-### Outras indicações previstas (contexto)
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 154230248 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 154230305 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 100431406 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 103700500 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 104400206 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 104400194 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 102351178 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 155840009 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 105830461 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 154230257 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 100431319 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 103920208 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 154230306 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 104970187 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 154230251 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 143810126 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 103700499 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 103700231 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 118190415 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
+| 104971488 | VALERATO DE BETAMETASONA, SULFATO DE GENTAMICINA, TOLNAFTATO |  | Ativo |
 
-| Posição | Indicação prevista | Pontuação | Nível | Comentário |
-|---|---|---|---|---|
-| 2 | Granuloma de Majocchi | 98,59% | L5 | Infecção profunda folicular/dérmica; terapia tópica isolada geralmente é inadequada |
-| 3 | Candidíase cutânea | 98,54% | L4 | Atividade do tolnaftato contra *Candida* é fraca e inconsistente; azólicos são o padrão |
-| 4 | Doença infecciosa endotrix | 98,51% | L5 | Esporos dentro da haste; terapia sistêmica é o padrão |
-| 5 | Micose superficial | 98,48% | L3 | Corresponde essencialmente ao uso já existente do fármaco |
-| 6 | Tinea profunda | 98,14% | L5 | Penetração tópica limitada em tecido profundo |
-| 7–10 | Herpes zóster oftálmico, celulite orbitária, mononucleose infecciosa | 90,1–92,2% | L5 | Sem plausibilidade mecanística; provável artefato do grafo |
-
-A **micose superficial** é a indicação com maior suporte (L3), mas é basicamente o uso já estabelecido do tolnaftato, não um reposicionamento genuíno.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados para a indicação principal prevista.
-
----
-
-## Evidências da Literatura
-
-Não há literatura relacionada à indicação principal (infecção ectotrix). Para a indicação mais bem apoiada (micose superficial), os principais estudos são:
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [10398626](https://pubmed.ncbi.nlm.nih.gov/10398626/) | 1999 | Revisão sistemática | BMJ | Eficácia e custo-efetividade de tratamentos tópicos para infecções fúngicas da pele e unhas dos pés |
-| [1090684](https://pubmed.ncbi.nlm.nih.gov/1090684/) | 1975 | Ensaio controlado | J Invest Dermatol | Griseofulvina tópica, tolnaftato e placebo no tratamento tópico de dermatofitoses superficiais |
-| [4619464](https://pubmed.ncbi.nlm.nih.gov/4619464/) | 1974 | Ensaio comparativo duplo-cego | Postgrad Med J | Clotrimazol versus tolnaftato em dermatofitoses superficiais |
-| [778288](https://pubmed.ncbi.nlm.nih.gov/778288/) | 1976 | Revisão | J Invest Dermatol | O tolnaftato para dermatofitose foi um dos grandes avanços no tratamento de micoses superficiais |
-| [1379146](https://pubmed.ncbi.nlm.nih.gov/1379146/) | 1992 | Revisão | Drugs | Diagnóstico e recomendações de tratamento das infecções fúngicas superficiais da pele |
-| [14288003](https://pubmed.ncbi.nlm.nih.gov/14288003/) | 1964 | Estudo clínico | Antimicrob Agents Chemother | Efeito do tolnaftato em infecções fúngicas superficiais |
-| [14288002](https://pubmed.ncbi.nlm.nih.gov/14288002/) | 1964 | Estudo clínico | Antimicrob Agents Chemother | Efeito do tolnaftato em infecções micóticas superficiais |
-| [5844107](https://pubmed.ncbi.nlm.nih.gov/5844107/) | 1965 | Estudo clínico | Am J Dis Child | Tolnaftato em infecções fúngicas superficiais |
-
-Para candidíase cutânea, há também um estudo randomizado comparativo ([6459255](https://pubmed.ncbi.nlm.nih.gov/6459255/), 1981, J Int Med Res) de 154 pacientes, comparando dois cremes de corticosteroide com antimicrobianos. Um deles continha tolnaftato (betametasona, gentamicina, iodoclorhidroxiquina e tolnaftato), e as respostas terapêuticas foram equivalentes.
-
-Observação: a maior parte da literatura é das décadas de 1960 a 1970 e não é específica para infecções ectotrix.
-
----
-
-## Informações de Comercialização no Brasil
-
-Todos os 20 registros estão **cancelados**. Principais exemplos:
-
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 154230248 | Valerato de betametasona + sulfato de gentamicina + tolnaftato + clioquinol | — | Anti-infecciosos tópicos – associações medicamentosas |
-| Registro nº 100431406 | Permut | — | Glicocorticoides tópicos – associação medicamentosa |
-| Registro nº 104400194 | Cremederme | — | Glicocorticoides tópicos – associação medicamentosa |
-| Registro nº 102351178 | Dermatisan | — | Anti-infecciosos tópicos – associações medicamentosas |
-| Registro nº 103700231 | Tetraderm | — | Glicocorticoides tópicos – associação medicamentosa |
-
----
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
 
 ## Considerações de Segurança
 
@@ -130,19 +103,6 @@ Observação: as previsões que envolvem uso próximo ao olho (herpes zóster of
 
 ---
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-- A previsão para infecção ectotrix tem apenas suporte computacional (L5), sem ensaios ou literatura. Há ainda limitação farmacológica, pois a penetração tópica em infecções do pelo é fraca. Além disso, todos os registros brasileiros estão cancelados.
-
-**Para prosseguir, é necessário:**
-- Obter e analisar a bula na ANVISA (advertências e contraindicações), o que hoje impede a triagem de segurança.
-- Complementar os dados de mecanismo de ação via DrugBank.
-- Avaliar a compatibilidade de via de administração (tópica) com a infecção folicular, que normalmente exige terapia sistêmica.
-- Priorizar a avaliação de indicações mais específicas e melhor sustentadas (por exemplo, micose superficial), reconhecendo que representam uso já estabelecido.
-- Verificar a situação regulatória atual, dado que não há registros vigentes no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

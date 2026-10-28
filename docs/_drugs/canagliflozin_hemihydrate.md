@@ -8,6 +8,7 @@ nav_order: 184
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Canagliflozin Hemihydrate
@@ -51,8 +52,8 @@ Sem indicações previstas, não é possível calcular pontuação de previsão,
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | Não comercializado (0 registros encontrados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

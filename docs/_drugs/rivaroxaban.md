@@ -4,17 +4,17 @@ title: Rivaroxaban
 parent: Apenas Predição do Modelo (L5)
 nav_order: 571
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-13
 description: "Rivaroxaban: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Rivaroxaban"
-predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "systemic mastocytosis", "Smouldering systemic mastocytosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Rivaroxaban
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 |------|------|
 | Indicação Original | Não disponível nos dados compilados (nenhum registro na ANVISA) |
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
-| Pontuação de Previsão TxGNN | 99,57% |
+| Pontuação de Previsão TxGNN | 0,9957 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 14) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -57,7 +57,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a rivaroxabana é um inibidor do fator Xa da coagulação, usado como anticoagulante oral na prevenção e no tratamento de eventos tromboembólicos.
 
-A relação com a artrite reumatoide é, no máximo, indireta. Uma hipótese plausível é a ativação da coagulação e da via da trombina na inflamação crônica, e a literatura recuperada discute a geração de trombina em doenças autoimunes. Essa ligação é especulativa e **não sustenta um efeito modificador da doença**. A pontuação alta do modelo (99,57%) não é acompanhada por evidência clínica ou mecanística.
+A relação com a artrite reumatoide é, no máximo, indireta. Uma hipótese plausível é a ativação da coagulação e da via da trombina na inflamação crônica, e a literatura recuperada discute a geração de trombina em doenças autoimunes. Essa ligação é especulativa e **não sustenta um efeito modificador da doença**. A pontuação alta do modelo (0,9957) não é acompanhada por evidência clínica ou mecanística.
 
 ## Evidências de Ensaios Clínicos
 

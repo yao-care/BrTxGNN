@@ -8,6 +8,7 @@ nav_order: 86
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Atezolizumabe
@@ -53,8 +54,8 @@ As lacunas de dados de severidade *Blocking* e *High* precisam ser corrigidas an
 | Nova Indicação Prevista | Sem previsão TxGNN disponível |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | N/D (nenhuma previsão gerada) |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

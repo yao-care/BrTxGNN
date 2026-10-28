@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-## Enflurano: Da anestesia geral ao transtorno bipolar maníaco
+## Enflurano: Da anestesia geral ao Transtorno Afetivo Bipolar Maníaco
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,17 +48,17 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Anestésicos gerais voláteis e gasosos |
 | Nova Indicação Prevista | Transtorno Afetivo Bipolar Maníaco (Manic Bipolar Affective Disorder) |
-| Pontuação de Previsão TxGNN | 99,69% |
+| Pontuação de Previsão TxGNN | 0,9969 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este fármaco. Segundo informações conhecidas, o enflurano é um anestésico inalatório halogenado que potencializa os receptores GABA-A e modula a atividade de canais de glicina, NMDA e potássio.
 
-A ligação com o transtorno bipolar é especulativa: a modulação gabaérgica e glutamatérgica poderia, em tese, relacionar-se à estabilização do humor. No entanto, não há ensaios clínicos nem literatura que sustentem essa indicação, e a pontuação alta do TxGNN (0,997) é apenas uma previsão computacional.
+A ligação com o transtorno bipolar é especulativa: a modulação gabaérgica e glutamatérgica poderia, em tese, relacionar-se à estabilização do humor. No entanto, não há ensaios clínicos nem literatura que sustentem essa indicação, e a pontuação alta do TxGNN (0,9969) é apenas uma previsão computacional.
 
 Há ainda fatores que limitam a viabilidade: o enflurano tem perfil pró-convulsivante no EEG e seu registro no Brasil está cancelado.
 
@@ -66,13 +66,13 @@ Há ainda fatores que limitam a viabilidade: o enflurano tem perfil pró-convuls
 
 | Posição | Doença prevista | Pontuação TxGNN | Observação |
 |------|------|------|------|
-| 2 | Síndrome de Tourette | 99,47% | Sem racional mecanístico direto; apenas hipótese via depressão do SNC e modulação gabaérgica |
-| 3 | Tricotilomania | 99,38% | Condição crônica e comportamental, pouco adequada a um anestésico inalatório de ação curta |
-| 4 | Transtorno distímico | 99,14% | Sem uso plausível para um anestésico inalatório |
-| 5 | Angina de Prinzmetal | 99,14% | Efeito vasodilatador teórico, mas o enflurano causa depressão miocárdica e hipotensão |
-| 6 | Síndrome dolorosa miofascial | 99,11% | Relaxamento muscular transitório, ligado à anestesia geral |
-| 7 | Enxaqueca | 99,08% | Sem suporte; pode até provocar cefaleia |
-| 8 | Transtorno bipolar | 99,05% | Sobreposta à previsão de mania bipolar; sem validação |
+| 2 | Síndrome de Tourette | 0,9947 | Sem racional mecanístico direto; apenas hipótese via depressão do SNC e modulação gabaérgica |
+| 3 | Tricotilomania | 0,9938 | Condição crônica e comportamental, pouco adequada a um anestésico inalatório de ação curta |
+| 4 | Transtorno distímico | 0,9914 | Sem uso plausível para um anestésico inalatório |
+| 5 | Angina de Prinzmetal | 0,9914 | Efeito vasodilatador teórico, mas o enflurano causa depressão miocárdica e hipotensão |
+| 6 | Síndrome dolorosa miofascial | 0,9911 | Relaxamento muscular transitório, ligado à anestesia geral |
+| 7 | Enxaqueca | 0,9908 | Sem suporte; pode até provocar cefaleia |
+| 8 | Transtorno bipolar | 0,9905 | Sobreposta à previsão de mania bipolar; sem validação |
 
 ## Evidências de Ensaios Clínicos
 

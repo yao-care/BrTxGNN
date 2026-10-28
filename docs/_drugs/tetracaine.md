@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-## Tetracaína: Do anestésico local à síndrome da cauda equina? (previsão sem respaldo)
+## Tetracaína: Do anestésico local à Acrodermatite Crônica Atrófica? (previsão sem respaldo)
 {: .text-alpha }
 
 > Observação: o relatório avalia a previsão de maior pontuação do TxGNN (acrodermatite crônica atrófica). Também comenta a única indicação com estudos relacionados (acne queloidiana) e o caso de segurança da síndrome da cauda equina.
@@ -49,17 +49,17 @@ O modelo TxGNN prevê que pode ser eficaz para **acrodermatite crônica atrófic
 |------|------|
 | Indicação Original | Anestésicos locais |
 | Nova Indicação Prevista | Acrodermatite crônica atrófica (acrodermatitis chronica atrophicans) |
-| Pontuação de Previsão TxGNN | 99,93% |
+| Pontuação de Previsão TxGNN | 0,9993 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 5 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a tetracaína é um anestésico local do tipo éster que bloqueia canais de sódio dependentes de voltagem, e sua eficácia como anestésico local está estabelecida.
 
-A acrodermatite crônica atrófica é uma manifestação dermatológica tardia da infecção por *Borrelia* (doença de Lyme). O bloqueio de canais de sódio não tem papel antimicrobiano nem modificador da doença. **Não foi identificado vínculo mecanístico plausível**: a pontuação alta reflete apenas proximidade no grafo de conhecimento, não uma justificativa farmacológica.
+A acrodermatite crônica atrófica é uma manifestação dermatológica tardia da infecção por *Borrelia* (doença de Lyme). O bloqueio de canais de sódio não tem papel antimicrobiano nem modificador da doença. **Não foi identificado vínculo mecanístico plausível**: a pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 As demais previsões de topo seguem o mesmo padrão e não têm respaldo clínico:
 
@@ -101,7 +101,7 @@ Literatura das outras previsões (selecionada, priorizando RCT, depois revisões
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros estão cancelados; atualmente não há produto com registro válido.
+Os 5 registros estão válidos; o medicamento é comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -128,7 +128,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal tem pontuação alta (99,93%), mas está no nível L5: não há ensaios, literatura nem vínculo mecanístico plausível. O único estudo relacionado (acne queloidiana) avalia analgesia de procedimento, já alinhada à indicação original, e não configura reposicionamento. Todos os registros brasileiros estão cancelados.
+- A previsão principal tem pontuação alta (0,9993), mas está no nível L5: não há ensaios, literatura nem vínculo mecanístico plausível. O único estudo relacionado (acne queloidiana) avalia analgesia de procedimento, já alinhada à indicação original, e não configura reposicionamento. Os 5 registros brasileiros estão válidos e o medicamento é comercializado.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a ausência desses dados bloqueia a triagem de segurança.

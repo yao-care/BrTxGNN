@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Amikacin
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 50
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Amikacin: nova indicação prevista, Febre paratifoide (paratyphoid fever) (nível de evidência L4). Indicação original: Aminoglicosídeos"
 monitor_inn: "Amikacin"
-predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "meningococcemia"]
+predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
 ---
 
 # Amikacin
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **febre paratifoide (paratyphoid 
 |------|------|
 | Indicação Original | Aminoglicosídeos (texto do registro na ANVISA) |
 | Nova Indicação Prevista | Febre paratifoide (paratyphoid fever) |
-| Pontuação de Previsão TxGNN | 99,82% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9982 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -98,7 +98,7 @@ Também há um estudo de sensibilidade de *S. typhi* (PMID 8354556, 1993) em que
 **Decisão: Hold**
 
 **Justificativa:**
-- Apesar da pontuação alta do TxGNN (99,82%), não há ensaios clínicos e a literatura é indireta (epidemiologia e antibiogramas). Um estudo comparativo em febre tifoide relatou eficácia clínica de apenas 36,4% com amicacina, contra 100% com ofloxacino. A penetração intracelular limitada dos aminoglicosídeos e a existência de alternativas estabelecidas (azitromicina, cefalosporinas de terceira geração, fluoroquinolonas) reduzem o interesse da proposta. Além disso, os três registros no Brasil estão cancelados.
+- Apesar da pontuação alta do TxGNN (0,9982), não há ensaios clínicos e a literatura é indireta (epidemiologia e antibiogramas). Um estudo comparativo em febre tifoide relatou eficácia clínica de apenas 36,4% com amicacina, contra 100% com ofloxacino. A penetração intracelular limitada dos aminoglicosídeos e a existência de alternativas estabelecidas (azitromicina, cefalosporinas de terceira geração, fluoroquinolonas) reduzem o interesse da proposta. Além disso, os três registros no Brasil estão cancelados.
 
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA com advertências e contraindicações (lacuna bloqueante na triagem de segurança).

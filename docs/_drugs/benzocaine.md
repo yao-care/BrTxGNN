@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite Papilar (Papillary
 |------|------|
 | Indicação Original | Anestésicos locais |
 | Nova Indicação Prevista | Conjuntivite Papilar (Papillary Conjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,38% |
+| Pontuação de Previsão TxGNN | 0,9938 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 10 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -86,7 +86,7 @@ Consulte a bula para informações de segurança completas; as advertências e c
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se apoia apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. O mecanismo anestésico não atinge a causa imunoalérgica da doença, há risco de toxicidade corneana, não há uso oftálmico aprovado e todos os registros no Brasil estão cancelados.
+- A previsão se apoia apenas na pontuação do modelo TxGNN (deep learning, nível L5), sem ensaios clínicos nem literatura. O mecanismo anestésico não atinge a causa imunoalérgica da doença, há risco de toxicidade corneana, não há uso oftálmico aprovado e o medicamento está comercializado no Brasil, com 10 registros válidos de 10.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula oficial na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

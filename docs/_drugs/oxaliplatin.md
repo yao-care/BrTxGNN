@@ -4,17 +4,17 @@ title: Oxaliplatin
 parent: Evidência Alta (L1-L2)
 nav_order: 497
 evidence_level: L2
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-13
-description: "Oxaliplatin: nova indicação prevista, Mesotelioma Pleural Maligno (Malignant Pleural Mesothelioma) (nível de evidência L2). Indicação original: Metástase de tumor maligno do cólon"
 monitor_inn: "Oxaliplatin"
-predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor", "female breast carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
+predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
+description: "Oxaliplatin: nova indicação prevista, Mesotelioma Pleural Maligno (malignant pleural mesothelioma) (nível de evidência L2). Indicação original: Não consta nos dados locais"
 ---
 
 # Oxaliplatin
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-## Oxaliplatina: Do câncer de cólon metastático ao mesotelioma pleural maligno
+## Oxaliplatin: Mesotelioma Pleural Maligno (malignant pleural mesothelioma)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,11 +46,11 @@ atualmente com **3 ensaios clínicos** (2 diretamente relevantes, de Fase 2) e *
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Metástase de tumor maligno do cólon (conforme o grafo de conhecimento do TxGNN; não há texto de indicação de registro no Brasil) |
-| Nova Indicação Prevista | Mesotelioma Pleural Maligno (Malignant Pleural Mesothelioma) |
-| Pontuação de Previsão TxGNN | 99,68% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Mesotelioma Pleural Maligno (malignant pleural mesothelioma) |
+| Pontuação de Previsão TxGNN | 0.9968 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -87,7 +87,6 @@ Há, porém, limitações importantes. Não existem dados de Fase 3 que mostrem 
 
 ## Informações de Comercialização no Brasil
 
-Não há registros da oxaliplatina na ANVISA nos dados compilados para este relatório (0 registros; situação: não comercializado).
 
 ## Citotoxicidade
 
@@ -120,7 +119,6 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 - Complementar os dados de mecanismo de ação via DrugBank.
 - Avaliar os resultados do NCT00859469 (concluído) e comparar com o esquema padrão cisplatina/pemetrexede.
 - Verificar a viabilidade regulatória no Brasil (ausência de registro vigente) antes de qualquer plano de desenvolvimento.
-- Se houver interesse em outras indicações, o carcinoma de mama feminino (L2, Fase 2 terminado com n=18) e os subtipos de mesotelioma (epitelioide, sarcomatoide) têm evidência ainda mais limitada; os sarcomas embrionários listados dependem apenas da previsão do modelo (L5).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

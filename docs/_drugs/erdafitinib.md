@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Outros agentes antineoplásicos |
 | Nova Indicação Prevista | Hipertensão Pulmonar (Pulmonary Hypertension) |
-| Pontuação de Previsão TxGNN | 99,38% |
+| Pontuação de Previsão TxGNN | 0,9938 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,11 +66,11 @@ Há, porém, grande incerteza. A sinalização de FGF2 é descrita como patogên
 
 | Indicação prevista | Pontuação TxGNN | Observação |
 |------|------|------|
-| Cardiopatia cifoescoliótica | 99,27% | Sem vínculo mecanístico claro; provavelmente derivada da proximidade com hipertensão pulmonar no grafo |
-| Amenorreia | 99,26% | Direção terapêutica duvidosa; a inibição de FGFR tende a causar toxicidade reprodutiva |
-| Artrite reumatoide | 99,25% | Justificativa plausível, mas não validada; há apenas uma revisão geral |
-| Esclerose lateral amiotrófica | 99,06% | Direção do efeito incerta; sem dados de SNC |
-| Síndrome de braquidactilia-sindactilia | 99,03% | Malformação congênita; a inibição de FGFR é teratogênica |
+| Cardiopatia cifoescoliótica | 0,9927 | Sem vínculo mecanístico claro; o score vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica |
+| Amenorreia | 0,9926 | Direção terapêutica duvidosa; a inibição de FGFR tende a causar toxicidade reprodutiva |
+| Artrite reumatoide | 0,9925 | Justificativa plausível, mas não validada; há apenas uma revisão geral |
+| Esclerose lateral amiotrófica | 0,9906 | Direção do efeito incerta; sem dados de SNC |
+| Síndrome de braquidactilia-sindactilia | 0,9903 | Malformação congênita; a inibição de FGFR é teratogênica |
 
 ## Evidências de Ensaios Clínicos
 

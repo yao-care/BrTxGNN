@@ -48,25 +48,25 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antidiabéticos |
 | Nova Indicação Prevista | Síndrome do membro rígido focal (focal stiff limb syndrome) |
-| Pontuação de Previsão TxGNN | 99,75% |
+| Pontuação de Previsão TxGNN | 0,9975 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 13 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
+| Número de Registros | 13 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a glimepirida é uma sulfonilureia que bloqueia os canais de potássio sensíveis ao ATP (K-ATP) das células beta pancreáticas, estimulando a secreção de insulina. Sua eficácia no diabetes é estabelecida.
 
-A relação com a nova indicação é fraca. A síndrome do membro rígido focal pertence ao espectro da síndrome da pessoa rígida, que envolve autoimunidade (frequentemente anti-GAD65) e comprometimento da inibição GABAérgica. O bloqueio de canais K-ATP não atua sobre esse processo. O sinal do grafo provavelmente decorre da associação com o diabetes autoimune com anticorpos anti-GAD, um fator de confusão e não uma justificativa terapêutica.
+A relação com a nova indicação é fraca. A síndrome do membro rígido focal pertence ao espectro da síndrome da pessoa rígida, que envolve autoimunidade (frequentemente anti-GAD65) e comprometimento da inibição GABAérgica. O bloqueio de canais K-ATP não atua sobre esse processo. A pontuação do modelo TxGNN (deep learning) pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica, e provavelmente decorre da associação com o diabetes autoimune com anticorpos anti-GAD, um fator de confusão e não uma justificativa terapêutica.
 
-**Não há vínculo mecanístico claro.** A pontuação alta (99,75%) reflete apenas proximidade no grafo de conhecimento.
+**Não há vínculo mecanístico claro.** A pontuação alta (0,9975) vem do modelo TxGNN (deep learning) e pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica.
 
 Outras previsões do modelo seguem a mesma lógica (síndrome da pessoa rígida clássica, opsismodisplasia, síndrome de disfunção responsiva à tiamina, lipodistrofias localizadas e agenesia pancreática). Em geral, refletem a proximidade com o diabetes ou a resistência à insulina, e nenhuma delas tem evidência clínica. Na agenesia pancreática, a glimepirida deveria ser ineficaz, pois depende de tecido pancreático funcional.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 13 registros encontrados estão cancelados. Os 5 principais:
+Dos 13 registros encontrados, 13 estão válidos. Os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -91,7 +91,7 @@ Todos os 13 registros encontrados estão cancelados. Os 5 principais:
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se apenas no grafo de conhecimento (nível L5), sem ensaios clínicos nem literatura de suporte, e sem vínculo mecanístico plausível. Além disso, não há registro vigente no Brasil (todos os 13 estão cancelados).
+A previsão vem do modelo TxGNN (deep learning) (nível L5), sem ensaios clínicos nem literatura de suporte, e sem vínculo mecanístico plausível. O medicamento está comercializado no Brasil (13 dos 13 registros são válidos).
 
 **Para prosseguir, é necessário:**
 - Evidência clínica ou pré-clínica que sustente o uso em síndrome do membro rígido focal (hoje inexistente)

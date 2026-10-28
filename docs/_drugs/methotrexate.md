@@ -4,7 +4,7 @@ title: Methotrexate
 parent: Apenas Predição do Modelo (L5)
 nav_order: 451
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-13
 description: "Methotrexate: nova indicação prevista, Blastoma Pulmonar (Pulmonary Blastoma) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "Methotrexate"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 # Methotrexate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Blastoma Pulmonar (Pulmonary Bl
 |------|------|
 | Indicação Original | Antineoplásico |
 | Nova Indicação Prevista | Blastoma Pulmonar (Pulmonary Blastoma) |
-| Pontuação de Previsão TxGNN | 99,45% |
+| Pontuação de Previsão TxGNN | 0,9945 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 10 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -65,7 +65,7 @@ O blastoma pulmonar é uma neoplasia pulmonar rara e agressiva. A lógica é que
 
 ### Outras indicações previstas (contexto)
 
-O modelo também previu outras indicações com pontuações semelhantes (99,2% a 99,4%). Em ordem de força de evidência:
+O modelo também previu outras indicações com pontuações semelhantes (0,9921 a 0,9945). Em ordem de força de evidência:
 
 | Indicação prevista | Nível | Observação |
 |------|------|------|
@@ -91,7 +91,7 @@ Atualmente não há literatura relacionada para Blastoma Pulmonar.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 10 registros encontrados estão **cancelados**; atualmente não há registro válido de metotrexato nos dados compilados.
+Todos os 10 registros encontrados estão **válidos**; o metotrexato está atualmente comercializado (10 registros válidos de 10).
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -136,7 +136,7 @@ Consulte a bula para advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para Blastoma Pulmonar tem apenas a pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão para Blastoma Pulmonar tem apenas a pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. Por outro lado, o medicamento está comercializado no Brasil, com 10 registros válidos de 10.
 - Entre as indicações previstas, Linfoma de Hodgkin e Rabdomiossarcoma têm evidência um pouco mais robusta (L3), mas ainda indireta ou antiga, por isso são classificadas como questões de pesquisa.
 
 **Para prosseguir, é necessário:**

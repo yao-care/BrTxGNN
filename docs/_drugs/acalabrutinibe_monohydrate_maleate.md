@@ -8,6 +8,7 @@ nav_order: 15
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acalabrutinibe Monohydrate Maleate
@@ -49,8 +50,8 @@ Acalabrutinibe maleato mono-hidratado é um inibidor seletivo da tirosina quinas
 | Nova Indicação Prevista | Sem previsão disponível |
 | Pontuação de Previsão TxGNN | Indisponível |
 | Nível de Evidência | L5 (somente entrada no modelo, sem estudos recuperados) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---

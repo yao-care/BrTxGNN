@@ -50,10 +50,10 @@ atualmente com **6 ensaios clínicos** e **20 publicações** relacionadas a est
 |------|------|
 | Indicação Original | Antineoplásico (texto genérico do registro) |
 | Nova Indicação Prevista | Leucemia Mieloide (Myeloid Leukemia) |
-| Pontuação de Previsão TxGNN | 99,53% |
+| Pontuação de Previsão TxGNN | 0,9953 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -132,7 +132,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Apesar da pontuação TxGNN muito alta (99,53%) e da plausibilidade biológica, as evidências clínicas se limitam a um Fase 2 pequeno (n=12) e a estudos de Fase 1 de combinação, sem sinal claro de eficácia. O único registro brasileiro está cancelado e não há dados de bula (advertências e contraindicações) para a triagem de segurança.
+- Apesar da pontuação TxGNN muito alta (0,9953) e da plausibilidade biológica, as evidências clínicas se limitam a um Fase 2 pequeno (n=12) e a estudos de Fase 1 de combinação, sem sinal claro de eficácia. O único registro brasileiro está cancelado e não há dados de bula (advertências e contraindicações) para a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter a bula na ANVISA para advertências e contraindicações (lacuna bloqueante da triagem de segurança)

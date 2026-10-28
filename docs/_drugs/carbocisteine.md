@@ -4,17 +4,17 @@ title: Carbocisteine
 parent: Apenas Predição do Modelo (L5)
 nav_order: 194
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
 description: "Carbocisteine: nova indicação prevista, Gota (Gout) (nível de evidência L5). Indicação original: Expectorantes"
 monitor_inn: "Carbocisteine"
-predicted_indications: ["gout", "appendicitis", "congestive heart failure", "acute pulmonary heart disease", "epiglottitis", "peritonitis", "laryngitis", "Lesch-Nyhan syndrome", "gastrointestinal allergy"]
+predicted_indications: ["gout"]
 ---
 
 # Carbocisteine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,17 +49,17 @@ Observação importante: a segunda previsão, **Bronquite (Bronchitis)**, é a �
 |------|------|
 | Indicação Original | Expectorantes |
 | Nova Indicação Prevista | Gota (Gout) |
-| Pontuação de Previsão TxGNN | 99,67% |
+| Pontuação de Previsão TxGNN | 0,9967 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 14 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 14) |
+| Número de Registros | 14 (ativos: 14) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a carbocisteína é um mucolítico com atividade mucorreguladora e antioxidante, usado para reduzir a viscosidade do muco respiratório.
 
-Para a **gota**, não há nenhum elo mecanístico identificável. Nada nos dados conecta a carbocisteína ao metabolismo do urato ou à inflamação gotosa. A pontuação alta (99,67%) reflete apenas associações do grafo de conhecimento, e deve ser interpretada com cautela.
+Para a **gota**, não há nenhum elo mecanístico identificável. Nada nos dados conecta a carbocisteína ao metabolismo do urato ou à inflamação gotosa. A pontuação alta (0,9967) vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica; deve ser interpretada com cautela.
 
 Em contraste, para a **bronquite** (2º lugar, 98,77%), a plausibilidade é forte: a carbocisteína regula a viscosidade do muco, melhora o transporte mucociliar (modelo de bronquite induzida por SO₂ em ratos) e elimina espécies reativas de oxigênio in vitro. Ainda assim, isso é essencialmente a reconfirmação da indicação original.
 
@@ -86,7 +86,7 @@ Para referência, a literatura disponível para a previsão de **bronquite** (2�
 
 ## Informações de Comercialização no Brasil
 
-Todos os 14 registros estão cancelados; não há produto comercializado atualmente. Principais registros:
+Todos os 14 registros estão válidos; o medicamento é comercializado atualmente. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ Consulte a bula para as demais informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- Para a gota, não há ensaios, literatura nem mecanismo plausível (nível L5). A pontuação alta do modelo é um provável artefato do grafo, possivelmente por associação com doenças do metabolismo de purinas.
+- Para a gota, não há ensaios, literatura nem mecanismo plausível (nível L5). A pontuação alta vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, possivelmente doenças do metabolismo de purinas, não evidência biológica.
 - A única previsão com respaldo real é a bronquite (L3, "Proceed with Guardrails"), mas ela é basicamente a indicação original. Além disso, não há registro ativo no Brasil.
 
 **Para prosseguir, é necessário:**

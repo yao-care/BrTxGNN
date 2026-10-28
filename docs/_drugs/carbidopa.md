@@ -8,6 +8,7 @@ nav_order: 191
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Carbidopa
@@ -49,8 +50,8 @@ Para que a avaliação possa prosseguir, é necessário resolver as lacunas de d
 | Nova Indicação Prevista | Nenhuma previsão TxGNN disponível |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | — (sem previsão gerada) |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 19 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 19) |
+| Número de Registros | 19 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Conclusão e Próximos Passos

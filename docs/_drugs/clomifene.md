@@ -6,7 +6,7 @@ nav_order: 233
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Clomifene: nova indicação prevista, 46… (nível de evidência L5). Indicação original: Outros produtos para uso em ginecologia e obstetrícia"
+description: "Clomifeno: nova indicação prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (nível de evidência L5). Indicação original: Outros produtos para uso em ginecologia e obstetrícia"
 monitor_inn: "clomifene"
 predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "anovulation"]
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Clomifeno: De produtos para uso em ginecologia e obstetrícia para anovulação
+## Clomifeno: De produtos para uso em ginecologia e obstetrícia para 46,XY disorder of sex development due to testicular steroidogenesis defect
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,13 +48,13 @@ A previsão com maior respaldo de evidências é **anovulação (anovulation)**,
 |------|------|
 | Indicação Original | Outros produtos para uso em ginecologia e obstetrícia |
 | Nova Indicação Prevista | 46,XY distúrbio do desenvolvimento sexual por defeito de esteroidogênese testicular (46,XY disorder of sex development due to testicular steroidogenesis defect) |
-| Pontuação de Previsão TxGNN | 99,90% |
+| Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L5 (para a previsão de maior pontuação) |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 2 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
-> **Observação:** entre as 10 previsões avaliadas, a de maior pontuação (46,XY DSD) não tem evidências. Somente a 10ª, **anovulação** (pontuação de 99,52%), tem evidências reais (nível L1, decisão *Proceed with Guardrails*). Ela é analisada nas seções seguintes, pois é a única com dados clínicos.
+> **Observação:** entre as 10 previsões avaliadas, a de maior pontuação (46,XY DSD) não tem evidências. Somente a 10ª, **anovulação** (pontuação de 0,9952), tem evidências reais (nível L1, decisão *Proceed with Guardrails*). Ela é analisada nas seções seguintes, pois é a única com dados clínicos.
 
 ## Por que Esta Previsão é Razoável?
 
@@ -62,7 +62,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação na base consul
 
 **Para a previsão de maior pontuação (46,XY DSD por defeito de esteroidogênese testicular):** o vínculo mecanístico é fraco e especulativo. O defeito é uma falha enzimática primária da gônada, e aumentar as gonadotrofinas dificilmente o corrigiria. Não há evidências clínicas.
 
-**Para anovulação:** o mecanismo descrito acima é o fundamento do uso já consolidado do clomifeno. A anovulação é o núcleo da indicação já conhecida do fármaco, portanto trata-se de confirmação e não de reposicionamento. As demais previsões (septos vaginais, síndrome do X frágil em portadoras, BPES e trissomias/tetrassomias parciais) não têm plausibilidade farmacológica evidente e provavelmente refletem a proximidade no grafo de conhecimento, sem relação causal. Em algumas (X frágil, BPES), há apenas um elo indireto com insuficiência ovariana, que o clomifeno não trataria na causa.
+**Para anovulação:** o mecanismo descrito acima é o fundamento do uso já consolidado do clomifeno. A anovulação é o núcleo da indicação já conhecida do fármaco, portanto trata-se de confirmação e não de reposicionamento. As demais previsões (septos vaginais, síndrome do X frágil em portadoras, BPES e trissomias/tetrassomias parciais) não têm plausibilidade farmacológica evidente e provavelmente refletem similaridades que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, não evidência biológica, sem relação causal. Em algumas (X frágil, BPES), há apenas um elo indireto com insuficiência ovariana, que o clomifeno não trataria na causa.
 
 ## Evidências de Ensaios Clínicos
 
@@ -116,7 +116,7 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 **Anovulação: Proceed with Guardrails**, ressalvando que se trata de uso já estabelecido, e não de reposicionamento novo.
 
 **Justificativa:**
-- A previsão de maior pontuação (99,90%) é puramente computacional, sem ensaios, sem literatura e com mecanismo implausível; deve permanecer em espera (nível L5).
+- A previsão de maior pontuação (0,9990) é puramente computacional, sem ensaios, sem literatura e com mecanismo implausível; deve permanecer em espera (nível L5).
 - Para anovulação, há um ensaio de Fase 4 concluído, duplo-cego e randomizado, além de várias revisões sistemáticas. Porém, as evidências são principalmente comparativas ou em subpopulações com SOP, e ambos os registros brasileiros estão cancelados.
 
 **Para prosseguir, é necessário:**

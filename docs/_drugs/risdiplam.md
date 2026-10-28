@@ -4,17 +4,17 @@ title: Risdiplam
 parent: Apenas Predição do Modelo (L5)
 nav_order: 568
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Risdiplam: nova indicação prevista, Acne (disease) (nível de evidência L5). Indicação original: Não disponível nos dados de registro da ANVISA"
 monitor_inn: "Risdiplam"
-predicted_indications: ["acne (disease)", "drug-induced osteoporosis", "zinc, elevated plasma", "common wart", "metastatic melanoma", "dermatitis", "non-cutaneous melanoma", "acrodermatitis chronica atrophicans", "epithelioid cell melanoma", "eyelid melanoma"]
+predicted_indications: ["acne (disease)"]
+description: "Risdiplam: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Risdiplam
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Risdiplam: De indicação original não registrada a acne (doença)
+## Risdiplam: Acne (acne (disease))
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,12 +47,12 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (disease)**, mas atualment
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível nos dados de registro da ANVISA |
-| Nova Indicação Prevista | Acne (disease) |
-| Pontuação de Previsão TxGNN | 99,45% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Acne (acne (disease)) |
+| Pontuação de Previsão TxGNN | 0.9945 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -61,7 +61,7 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (disease)**, mas atualment
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o risdiplam é um modulador de splicing do SMN2, que promove a inclusão do éxon 7 e aumenta a produção de proteína SMN funcional. Esse é o fundamento de seu uso na atrofia muscular espinhal, mas essa indicação não consta nos registros brasileiros analisados.
 
-Não foi identificado mecanismo que sustente a previsão para acne. Não há relação estabelecida entre a modulação do splicing de SMN2 e a biologia das glândulas sebáceas ou a inflamação associada ao *C. acnes*. A pontuação elevada (0,995) reflete apenas proximidade em grafo de conhecimento, sem respaldo clínico ou de literatura.
+Não foi identificado mecanismo que sustente a previsão para acne. Não há relação estabelecida entre a modulação do splicing de SMN2 e a biologia das glândulas sebáceas ou a inflamação associada ao *C. acnes*. A pontuação elevada (0,9945) vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem respaldo clínico ou de literatura.
 
 Também vale notar que as terapias para acne da classe dos retinoides têm perfis de segurança distintos, e não há dados do risdiplam nesse cenário.
 
@@ -73,15 +73,6 @@ Nenhuma das demais previsões do modelo possui ensaios clínicos ou literatura. 
 
 | Posição | Indicação Prevista | Pontuação TxGNN | Observação |
 |------|------|------|------|
-| 2 | Osteoporose induzida por fármacos | 97,72% | A deficiência de SMN é discutida em relação à saúde óssea e muscular na AME, mas isso não estabelece efeito terapêutico. |
-| 3 | Zinco plasmático elevado | 97,32% | Achado bioquímico, sem alvo terapêutico claro. |
-| 4 | Verruga comum | 97,21% | Sem relação conhecida com a proliferação epitelial induzida por HPV. |
-| 5 | Melanoma metastático | 96,84% | Especulativo; seriam necessários dados pré-clínicos e revisão de segurança. |
-| 6 | Dermatite | 96,62% | Efeitos cutâneos adversos já foram relatados com o fármaco, portanto um benefício seria contraintuitivo. |
-| 7 | Melanoma não cutâneo | 96,18% | Provável proximidade no grafo com outras entidades de melanoma. |
-| 8 | Acrodermatite crônica atrófica | 96,11% | Manifestação tardia de infecção por *Borrelia*, tratada com antibióticos. |
-| 9 | Melanoma de células epitelioides | 95,93% | Agrupa-se com outros subtipos de melanoma, sem dados de apoio. |
-| 10 | Melanoma palpebral | 95,88% | Preocupação adicional com segurança ocular, dados achados retinianos em estudos não clínicos. |
 
 ---
 
@@ -112,7 +103,7 @@ Para advertências e contraindicações, consulte a bula. Esses dados não estav
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para acne baseia-se apenas na pontuação do modelo, sem ensaios clínicos, literatura ou mecanismo plausível. O fármaco não está comercializado no Brasil, e faltam dados de segurança da bula, o que impede avançar para a triagem de segurança.
+A previsão para acne baseia-se apenas na pontuação do modelo, sem ensaios clínicos, literatura ou mecanismo plausível.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), uma lacuna que bloqueia a triagem de segurança

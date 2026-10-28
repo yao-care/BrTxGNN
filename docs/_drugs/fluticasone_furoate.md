@@ -4,7 +4,7 @@ title: Fluticasone Furoate
 parent: Apenas Predição do Modelo (L5)
 nav_order: 325
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-13
 description: "Fluticasone Furoate: nova indicação prevista, Eczema atópico (atopic eczema) (nível de evidência L5). Indicação original: Glicocorticoides tópicos simples, exceto uso oftálmico"
 monitor_inn: "FLUTICASONE FUROATE"
@@ -14,7 +14,7 @@ predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacryl
 # Fluticasone Furoate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **8** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **eczema atópico (atopic eczema)
 |------|------|
 | Indicação Original | Glicocorticoides tópicos simples, exceto uso oftálmico |
 | Nova Indicação Prevista | Eczema atópico (atopic eczema) |
-| Pontuação de Previsão TxGNN | 99,98% |
+| Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,7 +74,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros abaixo estão cancelados; atualmente não há registro válido.
+Todos os 3 registros abaixo estão válidos; o medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -99,7 +99,7 @@ Consulte a bula para advertências e contraindicações oficiais, que não estav
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão é mecanisticamente plausível, mas não há ensaios clínicos nem literatura direta sobre a fluticasona furoato no eczema atópico (nível L5). Além disso, todos os registros brasileiros estão cancelados e faltam dados de bula.
+A previsão é mecanisticamente plausível, mas não há ensaios clínicos nem literatura direta sobre a fluticasona furoato no eczema atópico (nível L5). Além disso, os 3 registros brasileiros estão válidos e o medicamento está comercializado, mas faltam dados de bula.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), o que bloqueia a triagem de segurança.

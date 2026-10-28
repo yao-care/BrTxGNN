@@ -8,6 +8,7 @@ nav_order: 398
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-10-12
+predicted_indications: []
 ---
 
 # Lenalidomida
@@ -60,8 +61,8 @@ Adicionalmente, os dados de mecanismo de ação (MOA), indicações aprovadas, a
 | Nova Indicação Prevista | Não disponível – previsões TxGNN ausentes |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 – sem estudos vinculados a nenhuma previsão |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 10 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 10) |
+| Número de Registros | 10 (ativos: 8) |
 | Decisão Recomendada | **Hold** |
 
 ---

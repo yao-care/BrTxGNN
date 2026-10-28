@@ -4,7 +4,7 @@ title: Ivosidenib
 parent: Apenas Predição do Modelo (L5)
 nav_order: 381
 evidence_level: L5
-indication_count: 3
+indication_count: 1
 last_modified_at: 2026-10-13
 description: "Ivosidenib: nova indicação prevista, Poliomielite bulbar (bulbar polio) (nível de evidência L5). Indicação original: Agentes antineoplásicos"
 monitor_inn: "ivosidenib"
@@ -14,7 +14,7 @@ predicted_indications: ["bulbar polio"]
 # Ivosidenib
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **3** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **poliomielite bulbar (bulbar pol
 |------|------|
 | Indicação Original | Agentes antineoplásicos |
 | Nova Indicação Prevista | Poliomielite bulbar (bulbar polio) |
-| Pontuação de Previsão TxGNN | 99,31% |
+| Pontuação de Previsão TxGNN | 0,9931 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o ivosidenibe é um inibidor da enzima IDH1 mutante: reduz a produção de 2-hidroxiglutarato e alivia o bloqueio de diferenciação celular em cânceres com mutação em IDH1, como a leucemia mieloide aguda (LMA).
 
-Para a poliomielite bulbar, **não há vínculo mecanístico crível**. Trata-se de uma infecção viral dos neurônios motores causada pelo poliovírus, e não se conhece nenhuma via dependente de IDH1 envolvida. A pontuação alta do TxGNN (0,993) provavelmente reflete um artefato do grafo de conhecimento, como vizinhos de rede compartilhados, e não uma justificativa biológica.
+Para a poliomielite bulbar, **não há vínculo mecanístico crível**. Trata-se de uma infecção viral dos neurônios motores causada pelo poliovírus, e não se conhece nenhuma via dependente de IDH1 envolvida. A pontuação alta do TxGNN (0,9931) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 ### Outras previsões do modelo (para contexto)
 
@@ -65,8 +65,6 @@ Duas previsões seguintes têm plausibilidade biológica maior, embora também s
 
 | Posição | Indicação prevista | Pontuação TxGNN | Nível |
 |------|------|------|------|
-| 2 | LMA e síndromes mielodisplásicas (SMD) relacionadas à radiação | 99,26% | L5 |
-| 3 | LMA e SMD relacionadas a agentes alquilantes | 99,26% | L5 |
 
 O ivosidenibe é aprovado para LMA com mutação em IDH1 e tem atividade em SMD com essa mutação. O benefício nessas formas relacionadas a terapia dependeria da presença da mutação em IDH1, e não da origem etiológica. As pontuações idênticas sugerem que ambas derivam de um mesmo nó pai (LMA/SMD relacionada a terapia), de modo que **não são sinais independentes**.
 
@@ -107,7 +105,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Para poliomielite bulbar, não há ensaios, literatura nem mecanismo plausível (nível L5). A pontuação alta provavelmente é um artefato do grafo de conhecimento. Além disso, o único registro no Brasil está cancelado.
+- Para poliomielite bulbar, não há ensaios, literatura nem mecanismo plausível (nível L5). A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Além disso, o medicamento é comercializado no Brasil, com 1 registro válido de 1.
 
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (MOA) do DrugBank.

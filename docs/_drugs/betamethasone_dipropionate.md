@@ -8,6 +8,7 @@ nav_order: 129
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Betamethasone Dipropionate
@@ -53,7 +54,7 @@ A ausência de dados regulatórios, de segurança e de mecanismo de ação no si
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | N/A (abaixo de L5 — sem previsão do modelo) |
-| Situação no Mercado Brasileiro | Não comercializado (0 registros encontrados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

@@ -48,9 +48,9 @@ Atualmente, não há ensaios clínicos registrados e há **6 publicações** rel
 |------|------|
 | Indicação Original | Não disponível nos registros da ANVISA |
 | Nova Indicação Prevista | Amenorreia (amenorrhea) |
-| Pontuação de Previsão TxGNN | 99,18% |
+| Pontuação de Previsão TxGNN | 0,9918 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 3) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

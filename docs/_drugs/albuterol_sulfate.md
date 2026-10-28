@@ -8,6 +8,7 @@ nav_order: 36
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Albuterol Sulfate
@@ -51,8 +52,8 @@ O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco 
 | Nova Indicação Prevista | Não disponível — sem previsão TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem estudos vinculados) |
-| Situação no Mercado Brasileiro | Não encontrado (0 registros com este nome) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 15) |
+| Número de Registros | 15 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
 ---

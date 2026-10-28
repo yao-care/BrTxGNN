@@ -4,7 +4,7 @@ title: Primidone
 parent: Apenas Predição do Modelo (L5)
 nav_order: 550
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-13
 description: "Primidone: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "primidone"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 # Primidone
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 ## Resumo em Uma Frase
 
 Primidona é um anticonvulsivante, registrado na ANVISA com a indicação "anticonvulsivantes".
-O modelo TxGNN prevê, em primeira posição, **neoplasia do nervo trigêmeo (trigeminal nerve neoplasm)**, mas **não há nenhum ensaio clínico nem publicação** que sustente essa direção, e a previsão provavelmente é um artefato de proximidade no grafo de conhecimento.
+O modelo TxGNN (deep learning) prevê, em primeira posição, **neoplasia do nervo trigêmeo (trigeminal nerve neoplasm)**, mas **não há nenhum ensaio clínico nem publicação** que sustente essa direção, e a previsão provavelmente reflete semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 Entre as dez previsões, as mais plausíveis do ponto de vista biológico são as epilepsias reflexas (por exemplo, **convulsões audiogênicas**, com estudos em animais, e **convulsões induzidas por micção**, com literatura indireta).
 
 ## Visão Geral Rápida
@@ -48,19 +48,19 @@ Entre as dez previsões, as mais plausíveis do ponto de vista biológico são a
 |------|------|
 | Indicação Original | Anticonvulsivantes |
 | Nova Indicação Prevista | Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 2 (ambos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a primidona é metabolizada em fenobarbital e feniletilmalonamida (PEMA), e atua sobre a excitabilidade neuronal (modulação de canais de sódio e potencialização do GABA-A via fenobarbital). Sua eficácia como anticonvulsivante está estabelecida.
 
-Para **neoplasia do nervo trigêmeo**, não há vínculo mecanístico crível: a primidona não tem atividade antineoplásica conhecida. A pontuação muito alta (99,99%) provavelmente reflete proximidade no grafo com distúrbios do nervo trigêmeo, e não uma previsão biologicamente fundamentada. Esta previsão não deve ser considerada razoável.
+Para **neoplasia do nervo trigêmeo**, não há vínculo mecanístico crível: a primidona não tem atividade antineoplásica conhecida. A pontuação muito alta (0,9999) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, como distúrbios do nervo trigêmeo, e não evidência biológica. Esta previsão não deve ser considerada razoável.
 
-As demais previsões de alta pontuação estão muito mais próximas da indicação original, pois são tipos de crises epilépticas (convulsões do pensamento, orgásmicas, de sobressalto, alimentares, por micção, audiogênicas e da leitura). O racional é a atividade antiepiléptica geral, mas nenhuma delas tem evidência direta de eficácia da primidona. A neuralgia do trigêmeo tem racional de classe (carbamazepina e oxcarbazepina são de primeira linha), porém sem dados específicos da primidona. A deficiência de beta-cetotiolase (erro inato do metabolismo) não tem vínculo plausível com o fármaco e provavelmente é um artefato do grafo.
+A neuralgia do trigêmeo tem racional de classe (carbamazepina e oxcarbazepina são de primeira linha), porém sem dados específicos da primidona. A deficiência de beta-cetotiolase (erro inato do metabolismo) não tem vínculo plausível com o fármaco, e a pontuação do modelo TxGNN (deep learning) provavelmente reflete semelhanças aprendidas entre doenças relacionadas, não evidência biológica.
 
 ## Evidências de Ensaios Clínicos
 
@@ -106,7 +106,7 @@ Para advertências principais e demais informações de segurança, consulte a b
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal (neoplasia do nervo trigêmeo) é L5, sem ensaios, sem literatura e sem vínculo mecanístico plausível; a pontuação alta parece artefato do grafo. Além disso, os dois registros da primidona no Brasil estão cancelados, o que dificulta qualquer desenvolvimento local.
+- A previsão principal (neoplasia do nervo trigêmeo) é L5, sem ensaios, sem literatura e sem vínculo mecanístico plausível; a pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica. No Brasil, a primidona está comercializada, com 2 registros válidos de 2.
 - As previsões do espectro de epilepsias reflexas (por exemplo, audiogênicas e por micção) são biologicamente mais coerentes, mas têm evidência apenas indireta (L4) e são pouco relevantes, pois a primidona já é anticonvulsivante.
 
 **Para prosseguir, é necessário:**

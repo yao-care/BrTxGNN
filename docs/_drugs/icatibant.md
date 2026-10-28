@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência do inibidor de C1 
 |------|------|
 | Indicação Original | Outros produtos não enquadrados em classe terapêutica específica |
 | Nova Indicação Prevista | Deficiência do inibidor de C1 (C1 inhibitor deficiency) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?

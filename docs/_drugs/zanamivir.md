@@ -4,17 +4,17 @@ title: Zanamivir
 parent: Apenas Predição do Modelo (L5)
 nav_order: 678
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-13
 description: "Zanamivir: nova indicação prevista, Pielonefrite (Pyelonephritis) (nível de evidência L5). Indicação original: Influenza"
 monitor_inn: "Zanamivir"
-predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "disorder of phenylalanine metabolism", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria", "legionnaire disease, susceptibility to", "susceptibility to HIV infection", "dengue virus, susceptibility to", "aspergillosis, susceptibility to", "Schistosoma mansoni infection, susceptibility"]
+predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
 ---
 
 # Zanamivir
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **Pielonefrite (Pyelonephritis)**
 |------|------|
 | Indicação Original | Influenza |
 | Nova Indicação Prevista | Pielonefrite (Pyelonephritis) |
-| Pontuação de Previsão TxGNN | 99,84% |
+| Pontuação de Previsão TxGNN | 0,9984 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, o zanamivir é um inibidor da neuraminidase do vírus influenza, e sua eficácia em influenza é o uso original do fármaco.
 
-Não foi identificado vínculo mecanístico plausível com a pielonefrite. Essa doença é tipicamente uma infecção bacteriana do rim, enquanto o alvo do zanamivir (a neuraminidase viral) não é o mecanismo central dessas infecções. A pontuação elevada do TxGNN (0,998) reflete apenas uma associação no grafo de conhecimento, sem respaldo em ensaios clínicos ou literatura nos dados compilados. A previsão deve, portanto, ser tratada com cautela e considerada especulativa.
+Não foi identificado vínculo mecanístico plausível com a pielonefrite. Essa doença é tipicamente uma infecção bacteriana do rim, enquanto o alvo do zanamivir (a neuraminidase viral) não é o mecanismo central dessas infecções. A pontuação elevada do TxGNN (0,9984) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem respaldo em ensaios clínicos ou literatura nos dados compilados. A previsão deve, portanto, ser tratada com cautela e considerada especulativa.
 
 ## Considerações sobre as Demais Previsões
 
@@ -65,15 +65,7 @@ As outras nove indicações previstas também têm nível de evidência L5 e rec
 
 | Posição | Indicação Prevista | Pontuação TxGNN | Observação |
 |------|------|------|------|
-| 2 | Distúrbio do metabolismo da tirosina | 99,02% | Três artigos recuperados tratam de resistência à neuraminidase na influenza, sem relação biológica com a doença (correspondência por palavras-chave) |
-| 3 | Síndrome de Pierre Robin teratogênica | 98,94% | Sem vínculo mecanístico; condição craniofacial congênita |
-| 4 | Distúrbio do metabolismo da fenilalanina | 98,86% | Sem vínculo mecanístico |
-| 5 | Hiperfenilalaninemia/fenilcetonúria responsiva à tetraidrobiopterina | 98,41% | Sem vínculo mecanístico |
-| 6 | Suscetibilidade à doença dos legionários | 98,40% | Vínculo fraco e especulativo (pneumonia bacteriana) |
-| 7 | Suscetibilidade à infecção por HIV | 98,40% | O único artigo recuperado trata de mutações em influenza H1N1, não de HIV |
-| 8 | Suscetibilidade ao vírus da dengue | 98,40% | O flavivírus não depende de neuraminidase |
-| 9 | Suscetibilidade à aspergilose | 98,40% | Sem atividade antifúngica conhecida |
-| 10 | Suscetibilidade à infecção por *Schistosoma mansoni* | 98,35% | Sem vínculo mecanístico |
+| 2 | Distúrbio do metabolismo da tirosina | 0,9902 | Três artigos recuperados tratam de resistência à neuraminidase na influenza, sem relação biológica com a doença (correspondência por palavras-chave) |
 
 ## Evidências de Ensaios Clínicos
 

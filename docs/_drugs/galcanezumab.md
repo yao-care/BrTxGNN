@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Deficiência de Cofator 2 da He
 |------|------|
 | Indicação Original | Outras preparações antienxaqueca |
 | Nova Indicação Prevista | Deficiência de Cofator 2 da Heparina (Heparin Cofactor 2 Deficiency) |
-| Pontuação de Previsão TxGNN | 99,50% |
+| Pontuação de Previsão TxGNN | 0,9950 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,14 +59,14 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 Não foi identificado vínculo mecanístico crível com a nova indicação. O cofator II da heparina é uma serpina que inibe a trombina de forma dependente de dermatan sulfato/heparina. As vias do CGRP e da inibição da coagulação mediada por serpinas não se sobrepõem, e um anticorpo anti-CGRP não repõe uma proteína plasmática deficiente.
 
-A pontuação elevada do TxGNN (0,995) parece ser um artefato da previsão baseada em grafo, sem respaldo biológico, clínico ou bibliográfico.
+A pontuação elevada do TxGNN (0,9950) vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, clínica ou bibliográfica.
 
 ### Outras previsões avaliadas
 
 | Posição | Indicação prevista | Pontuação TxGNN | Nível de Evidência | Recomendação |
 |------|------|------|------|------|
-| 2 | Deficiência de antitrombina tipo 2 | 99,41% | L5 | Hold |
-| 3 | Excesso de fator V com trombose espontânea | 99,41% | L5 | Hold |
+| 2 | Deficiência de antitrombina tipo 2 | 0,9941 | L5 | Hold |
+| 3 | Excesso de fator V com trombose espontânea | 0,9941 | L5 | Hold |
 
 Em ambas, também não há vínculo mecanístico crível. No caso do excesso de fator V, os inibidores da via do CGRP têm considerações vasculares (vasoconstrição, hipertensão e eventos tipo Raynaud relatados no pós-comercialização). Qualquer interação com doença trombótica seria, portanto, uma preocupação de segurança, e não uma oportunidade terapêutica.
 

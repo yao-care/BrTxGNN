@@ -8,6 +8,7 @@ nav_order: 632
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Thiamine Nitrate
@@ -49,7 +50,7 @@ Tiamina Nitrato (THIAMINE NITRATE) é a forma nitrato da vitamina B1, classicame
 | Nova Indicação Prevista | Nenhuma — sem previsões TxGNN neste ciclo |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsões ou estudos associados) |
-| Situação no Mercado Brasileiro | Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

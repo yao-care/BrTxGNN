@@ -48,10 +48,10 @@ atualmente com **0 ensaios clínicos** e **8 publicações** (todas pré-clínic
 |------|------|
 | Indicação Original | Associações de antivirais para o tratamento de infecções por HIV |
 | Nova Indicação Prevista | Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) |
-| Pontuação de Previsão TxGNN | 99,89% |
+| Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 4 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -83,7 +83,7 @@ Todos os estudos abaixo são pré-clínicos (macacos ou camundongos humanizados)
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros abaixo constam como **cancelados**; atualmente não há registro válido.
+Os 4 registros abaixo constam como **válidos**; atualmente há 4 registros válidos de 4.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -110,9 +110,9 @@ Para demais informações de segurança (advertências e contraindicações), co
 - Obter e analisar as advertências e contraindicações da bula na ANVISA.
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank).
 - Verificar nos textos completos os desenhos e desfechos dos estudos em macacos.
-- Confirmar a situação regulatória atual no Brasil, já que todos os 4 registros estão cancelados.
+- Confirmar a situação regulatória atual no Brasil; os 4 registros constam como válidos (4 de 4).
 
-*Observação: as demais previsões do modelo (síndrome de imunodeficiência adquirida felina e um transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical) não têm ensaios nem literatura nos dados compilados e são nível L5. A primeira é uma indicação veterinária fora do escopo humano, e a segunda não tem vínculo mecanístico identificado e provavelmente é um artefato do grafo de conhecimento. Ambas permanecem em **Hold**.*
+*Observação: as demais previsões do modelo (síndrome de imunodeficiência adquirida felina e um transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical) não têm ensaios nem literatura nos dados compilados e são nível L5. A primeira é uma indicação veterinária fora do escopo humano, e a segunda não tem vínculo mecanístico identificado. As pontuações vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. Ambas permanecem em **Hold**.*
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

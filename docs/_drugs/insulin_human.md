@@ -50,10 +50,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antidiabéticos |
 | Nova Indicação Prevista | Ooforite autoimune (autoimmune oophoritis) |
-| Pontuação de Previsão TxGNN | 99,84% |
+| Pontuação de Previsão TxGNN | 0,9984 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 13 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
+| Número de Registros | 13 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -62,7 +62,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a insulina humana é um hormônio que promove a captação de glicose pelas células e regula o metabolismo de carboidratos, lipídios e proteínas. Sua eficácia no diabetes está consolidada.
 
-A relação entre a indicação original e a nova indicação é fraca. A sinalização da insulina nas células da granulosa e da teca do ovário é fisiologicamente relevante, mas não há evidência de que a insulina module a lesão ovariana autoimune. A pontuação alta do TxGNN reflete uma previsão do grafo de conhecimento, não um vínculo mecanístico demonstrado.
+A relação entre a indicação original e a nova indicação é fraca. A sinalização da insulina nas células da granulosa e da teca do ovário é fisiologicamente relevante, mas não há evidência de que a insulina module a lesão ovariana autoimune. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 Portanto, a plausibilidade biológica é limitada e especulativa. A ausência de dados de mecanismo de ação restringe a análise.
 
@@ -70,21 +70,21 @@ Portanto, a plausibilidade biológica é limitada e especulativa. A ausência de
 
 | Doença prevista | Pontuação | Nível | Comentário |
 |------|------|------|------|
-| Síndrome do membro rígido focal | 99,81% | L5 | Associação indireta: autoimunidade anti-GAD65 compartilhada com diabetes tipo 1; reflete comorbidade, não benefício terapêutico |
-| Síndrome da pessoa rígida clássica | 99,81% | L5 | Mesma lógica: comorbidade, sem efeito conhecido da insulina |
-| Síndrome de disfunção responsiva à tiamina | 99,80% | L5 | A insulina trata o diabetes associado (cuidado de suporte), não a doença de base |
-| Opsismodisplasia | 99,79% | L5 | Ligação especulativa via INPPL1 (SHIP2), regulador da via da insulina/PI3K |
-| Lipodistrofia localizada induzida por fármaco | 99,72% | L5 | Provável artefato: a própria insulina injetável causa lipodistrofia; alerta de segurança |
-| Lipodistrofia centrífuga | 99,70% | L5 | Sem evidência de eficácia |
-| Lipoatrofia localizada induzida por pressão | 99,70% | L5 | Causa mecânica; a insulina injetável pode causar lipoatrofia |
-| Agenesia pancreática | 99,70% | L4 | Reposição de insulina é terapia padrão, mas coerente com a indicação original, sem reposicionamento real |
-| Lipodistrofia localizada idiopática | 99,68% | L5 | Sem mecanismo estabelecido; a insulina pode causar lipodistrofia localizada |
+| Síndrome do membro rígido focal | 0,9981 | L5 | Associação indireta: autoimunidade anti-GAD65 compartilhada com diabetes tipo 1; reflete comorbidade, não benefício terapêutico |
+| Síndrome da pessoa rígida clássica | 0,9981 | L5 | Mesma lógica: comorbidade, sem efeito conhecido da insulina |
+| Síndrome de disfunção responsiva à tiamina | 0,9980 | L5 | A insulina trata o diabetes associado (cuidado de suporte), não a doença de base |
+| Opsismodisplasia | 0,9979 | L5 | Ligação especulativa via INPPL1 (SHIP2), regulador da via da insulina/PI3K |
+| Lipodistrofia localizada induzida por fármaco | 0,9972 | L5 | Provável artefato: a própria insulina injetável causa lipodistrofia; alerta de segurança |
+| Lipodistrofia centrífuga | 0,9970 | L5 | Sem evidência de eficácia |
+| Lipoatrofia localizada induzida por pressão | 0,9970 | L5 | Causa mecânica; a insulina injetável pode causar lipoatrofia |
+| Agenesia pancreática | 0,9970 | L4 | Reposição de insulina é terapia padrão, mas coerente com a indicação original, sem reposicionamento real |
+| Lipodistrofia localizada idiopática | 0,9968 | L5 | Sem mecanismo estabelecido; a insulina pode causar lipodistrofia localizada |
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-Todos os 13 registros encontrados estão cancelados; atualmente não há registro válido.
+Todos os 13 registros encontrados estão válidos; o medicamento é comercializado no Brasil.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é apenas computacional (L5), sem ensaios clínicos nem literatura, e sem vínculo mecanístico demonstrado entre insulina e ooforite autoimune. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão é apenas computacional (L5), sem ensaios clínicos nem literatura, e sem vínculo mecanístico demonstrado entre insulina e ooforite autoimune. Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13.
 
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação da insulina humana.

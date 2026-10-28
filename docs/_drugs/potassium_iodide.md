@@ -4,17 +4,17 @@ title: Potassium Iodide
 parent: Evidência Moderada (L3-L4)
 nav_order: 541
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
 description: "Potassium Iodide: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L4). Indicação original: Outros produtos não enquadrados em classe terapêutica específic"
 monitor_inn: "Potassium Iodide"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "cervical disc degenerative disorder", "allergic urticaria", "papillary conjunctivitis", "trigeminal autonomic cephalalgia", "headache disorder", "tracheal disease", "laryngitis"]
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Potassium Iodide
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **nenhum ensaio clínico** e **4 publicações** (relatos de caso
 |------|------|
 | Indicação Original | Outros produtos não enquadrados em classe terapêutica específica |
 | Nova Indicação Prevista | Doença da cavidade nasal (nasal cavity disease) |
-| Pontuação de Previsão TxGNN | 99,95% |
+| Pontuação de Previsão TxGNN | 0,9995 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 11 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 11) |
+| Número de Registros | 11 (ativos: 11) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -77,7 +77,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 11 registros encontrados estão cancelados. Os 5 principais:
+Todos os 11 registros encontrados estão válidos. Os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -100,7 +100,7 @@ Todos os 11 registros encontrados estão cancelados. Os 5 principais:
 **Decisão: Hold**
 
 **Justificativa:**
-- Apesar da pontuação TxGNN muito alta (99,95%), as evidências se limitam a quatro relatos de caso, três deles veterinários, sem ensaios clínicos e sem dados controlados em humanos. Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados) e as informações de segurança da bula estão ausentes, o que impede avançar para a triagem de segurança.
+- Apesar da pontuação TxGNN muito alta (0,9995), as evidências se limitam a quatro relatos de caso, três deles veterinários, sem ensaios clínicos e sem dados controlados em humanos. Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados) e as informações de segurança da bula estão ausentes, o que impede avançar para a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que atualmente bloqueia a avaliação de segurança.

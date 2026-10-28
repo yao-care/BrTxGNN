@@ -8,6 +8,7 @@ nav_order: 142
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Biperiden Lactate
@@ -51,8 +52,8 @@ Para avançar na análise, são necessários o processamento das previsões do m
 | Nova Indicação Prevista | — (sem previsão disponível neste Evidence Pack) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 — sem previsão do modelo nem estudos associados |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros ANVISA | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros ANVISA | 5 (ativos: 5) |
 | Decisão Recomendada | **Hold** |
 
 ---

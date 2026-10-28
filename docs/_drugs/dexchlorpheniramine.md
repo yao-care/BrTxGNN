@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Dexchlorpheniramine
-parent: Evidência Moderada (L3-L4)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 260
-evidence_level: L3
-indication_count: 2
-last_modified_at: 2026-10-13
-description: "Dexchlorpheniramine: nova indicação prevista, Urticária Alérgica (Allergic Urticaria) (nível de evidência L3). Indicação original: Anti-histamínicos sistêmicos"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Dexchlorpheniramine: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
+predicted_indications: []
 ---
 
 # Dexchlorpheniramine
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **2** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,48 +32,46 @@ Nível de evidência: **L3** | Indicações previstas: **2**
 
 </div>
 
-## Dexclorfeniramina: De anti-histamínico sistêmico para urticária alérgica
+<!-- known-uses-page -->
+<!-- description: Dexchlorpheniramine: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata -->
+## Dexchlorpheniramine: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Dexchlorpheniramine que puderam ser rastreados até uma fonte correspondem, todos, a usos já conhecidos. Por isso, atualmente não há nenhuma nova indicação prevista para este medicamento. Os dois usos conhecidos abaixo constam como relações no grafo de conhecimento, sem aprovação identificada nesta análise.
 
-Dexclorfeniramina é um anti-histamínico H1 de primeira geração, registrado no Brasil como anti-histamínico sistêmico.
-O modelo TxGNN prevê que pode ser eficaz para **Urticária Alérgica (Allergic Urticaria)**,
-atualmente com **nenhum ensaio clínico registrado** e **3 publicações** relacionadas (apenas estudos farmacodinâmicos e um relato de caso de outra forma de urticária) apoiando esta direção.
-
-## Visão Geral Rápida
-
+## Visão geral
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anti-histamínicos sistêmicos |
-| Nova Indicação Prevista | Urticária Alérgica (Allergic Urticaria) |
-| Pontuação de Previsão TxGNN | 99,89% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 1 |
-| Decisão Recomendada | Hold |
+| Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis a uma fonte são usos conhecidos) |
+| Usos conhecidos entre os candidatos do modelo | 2 |
+| Nível de evidência | Não aplicável |
+| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos entre os candidatos do modelo
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a dexclorfeniramina é um antagonista (agonista inverso) do receptor H1 de histamina, de primeira geração, e sua classe terapêutica já é a indicada originalmente no registro brasileiro.
+### Aprovados (com respaldo em registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| Nenhuma | — |
 
-Na urticária alérgica, a liberação de histamina pelos mastócitos age sobre receptores H1 na vasculatura e nas fibras nervosas sensitivas da pele, produzindo o clássico "vergão e eritema" (wheal and flare). O bloqueio H1 é a base farmacológica padrão do tratamento da urticária, portanto o vínculo mecanístico é forte.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhuma | — |
 
-Vale ressaltar que, na prática, trata-se de um uso dentro da própria classe e muito próximo da indicação original, e não de um reposicionamento genuíno. A pontuação elevada do TxGNN (99,89%) é coerente com essa farmacologia já estabelecida. Uma segunda previsão, **urticária ao frio** (pontuação de 99,61%), também é plausível pelo mesmo raciocínio de classe, mas sem nenhuma evidência específica do fármaco (nível L5, decisão Hold).
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| urticária alérgica (allergic urticaria) |
+| urticária ao frio (cold urticaria) |
 
-## Evidências da Literatura
+## Market information
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [39265704](https://pubmed.ncbi.nlm.nih.gov/39265704/) | 2024 | Ensaio randomizado de fase I (farmacodinâmico) | Eur J Pharm Sci | Compara a inibição do vergão e eritema induzidos por histamina entre bilastina oral, dexclorfeniramina parenteral e nova formulação parenteral de bilastina; a dexclorfeniramina serve como comparador |
-| [29723372](https://pubmed.ncbi.nlm.nih.gov/29723372/) | 2018 | Estudo farmacodinâmico comparativo | An Bras Dermatol | Compara a supressão do vergão e eritema no teste de histamina pelos principais anti-histamínicos H1 comercializados no Brasil |
-| [39803](https://pubmed.ncbi.nlm.nih.gov/39803/) | 1979 | Estudo clínico/imunológico (relato de caso) | Dermatologica | Caso de urticária de contato por calor adquirida em uma mulher jovem; pequena escala e antigo, com relevância indireta |
-
-## Informações de Comercialização no Brasil
-
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 143810082 (cancelado) | DEXMINE | Não informada | Anti-histamínicos sistêmicos |
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 143810082 | BETAMETASONA, DEXCLORFENIRAMINA, MALEATO DE DEXCLORFENIRAMIN |  | Ativo |
 
 ## Considerações de Segurança
 
@@ -81,20 +80,6 @@ Vale ressaltar que, na prática, trata-se de um uso dentro da própria classe e 
 
 Para advertências e contraindicações formais, consulte a bula.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-- O mecanismo é plausível e a pontuação do TxGNN é alta, mas não há ensaios clínicos e a literatura disponível é de natureza farmacodinâmica ou indireta (L3). Além disso, o único registro no Brasil está cancelado, e faltam dados formais de segurança da bula, o que impede avançar na triagem de segurança.
-
-**Para prosseguir, é necessário:**
-- Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência bloqueante
-- Complementar os dados de mecanismo de ação (DrugBank)
-- Verificar a situação regulatória atual: há apenas um registro cancelado, sem produto válido no mercado
-- Buscar ensaios clínicos ou revisões sistemáticas específicos da dexclorfeniramina em urticária alérgica
-- Avaliar a compatibilidade de vias de administração e formas farmacêuticas, ainda pendente
-- Considerar que anti-histamínicos de segunda geração são alternativas já consolidadas, o que reduz o valor incremental do reposicionamento
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

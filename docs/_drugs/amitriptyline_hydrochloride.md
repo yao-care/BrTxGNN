@@ -8,6 +8,7 @@ nav_order: 58
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amitriptyline Hydrochloride
@@ -49,8 +50,8 @@ Amitriptyline Hydrochloride é um fármaco da classe dos antidepressivos tricíc
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 — sem previsão gerada pelo modelo |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
+| Número de Registros | 13 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ---

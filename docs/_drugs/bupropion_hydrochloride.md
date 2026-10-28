@@ -8,6 +8,7 @@ nav_order: 166
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bupropion Hydrochloride
@@ -49,7 +50,7 @@ Bupropion Hydrochloride é um fármaco amplamente conhecido internacionalmente c
 | Nova Indicação Prevista | Nenhuma previsão TxGNN gerada |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem estudos disponíveis neste pacote) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

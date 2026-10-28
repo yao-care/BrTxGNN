@@ -8,6 +8,7 @@ nav_order: 141
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Biperiden Hydrochloride
@@ -51,8 +52,8 @@ A ausência de registros no mercado brasileiro e os dados de segurança incomple
 | Nova Indicação Prevista | — (sem previsão disponível) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 — sem previsão gerada pelo modelo |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | **Hold** |
 
 ---

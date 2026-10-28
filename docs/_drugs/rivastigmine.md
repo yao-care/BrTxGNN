@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rivastigmine
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 572
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Rivastigmine: nova indicação prevista, Glaucoma (glaucoma) (nível de evidência L4). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
@@ -14,7 +14,7 @@ predicted_indications: ["glaucoma"]
 # Rivastigmine
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **1** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **0 ensaios clínicos** e **3 publicações** (uma revisão, um e
 |------|------|
 | Indicação Original | Outros produtos que atuam sobre o sistema nervoso |
 | Nova Indicação Prevista | Glaucoma (glaucoma) |
-| Pontuação de Previsão TxGNN | 99,27% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 17 |
+| Pontuação de Previsão TxGNN | 0,9927 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 17) |
+| Número de Registros | 17 (ativos: 17) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -76,7 +76,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 17 registros encontram-se cancelados. Abaixo, os 5 principais:
+Todos os 17 registros encontram-se válidos. Abaixo, os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -104,7 +104,7 @@ As advertências e contraindicações oficiais da bula não estão disponíveis 
 **Decisão: Hold**
 
 **Justificativa:**
-A evidência se limita a um estudo pré-clínico em coelhos, uma análise computacional e uma revisão, sem nenhum ensaio clínico (nível L4). Além disso, todos os registros brasileiros estão cancelados e faltam dados de segurança da bula, o que impede avançar para a triagem de segurança.
+A evidência se limita a um estudo pré-clínico em coelhos, uma análise computacional e uma revisão, sem nenhum ensaio clínico (nível L4). Além disso, faltam dados de segurança da bula, o que impede avançar para a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa atualmente bloqueante

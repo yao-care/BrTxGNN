@@ -4,17 +4,17 @@ title: Theophylline
 parent: Apenas Predição do Modelo (L5)
 nav_order: 629
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-13
-description: "Theophylline: nova indicação prevista, Doença trombótica (thrombotic disease) (nível de evidência L5). Indicação original: Broncodilatadores"
+indication_count: 6
 monitor_inn: "THEOPHYLLINE"
-predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "acute laryngopharyngitis"]
+predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
+last_modified_at: 2026-10-23
+description: "Theophylline: nova indicação prevista, Doença trombótica (nível de evidência L5). Indicação original: Broncodilatadores"
 ---
 
 # Theophylline
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **7** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,85 +33,86 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-## Teofilina: De broncodilatador para doença tromboembólica (doença trombótica)
+## Teofilina: De broncodilatador para doença trombótica
 {: .text-alpha }
-
-> Nota: o relatório avalia a primeira indicação prevista (rank 1: doença trombótica), conforme as instruções. As demais previsões são mencionadas apenas quando necessário para contextualizar a leitura dos dados.
 
 ## Resumo em Uma Frase
 
-A teofilina é um broncodilatador, registrado no Brasil como "BRONCODILATADORES", usado historicamente em doenças obstrutivas das vias aéreas.
-O modelo TxGNN prevê que ela possa ser eficaz para **doença trombótica (thrombotic disease)**, mas **não há ensaios clínicos** e a literatura recuperada **não avalia a teofilina como tratamento** dessa condição. A previsão é puramente computacional.
+Teofilina é uma xantina usada originalmente como broncodilatador.
+O modelo TxGNN prevê que pode ser eficaz para **doença trombótica (thrombotic disease)**, mas atualmente há **0 ensaios clínicos** e nenhuma publicação que estude a teofilina diretamente nesta doença. A previsão se apoia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Broncodilatadores |
-| Nova Indicação Prevista | Doença trombótica (thrombotic disease) |
-| Pontuação de Previsão TxGNN | 99,62% |
+| Nova Indicação Prevista | Doença trombótica |
+| Pontuação de Previsão TxGNN | 0,9962 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações farmacológicas conhecidas, a teofilina é um inibidor não seletivo de fosfodiesterases (PDE) e antagonista de receptores de adenosina. Esses mecanismos explicam seu efeito broncodilatador.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a teofilina é um inibidor não seletivo de fosfodiesterases e antagonista de receptores de adenosina. Sua eficácia como broncodilatador está registrada na licença brasileira.
 
-Em teoria, a inibição de PDE eleva o AMPc nas plaquetas e poderia reduzir a agregação plaquetária, o que daria alguma plausibilidade biológica à previsão. Porém, o antagonismo da adenosina pode anular esse efeito, já que a própria adenosina tem ação antiplaquetária. O saldo mecanístico é, portanto, incerto.
+Em teoria, a inibição de fosfodiesterases eleva o AMPc plaquetário, o que poderia reduzir a agregação plaquetária. Por outro lado, o antagonismo da adenosina atua contra o efeito antiplaquetário da própria adenosina. Os dois efeitos se opõem, e o benefício líquido é incerto.
 
-A relação entre a indicação original (doença das vias aéreas) e a nova (trombose) é distante. A pontuação alta do modelo reflete proximidade na rede de conhecimento, sem respaldo clínico demonstrado.
+A literatura recuperada não trata da teofilina no tratamento de trombose. Ela aborda a farmacocinética da ticlopidina, ensaios de biomarcadores plaquetários, o processamento de amostras para microRNA e um sensor para detecção de teofilina. A pontuação elevada do TxGNN é uma predição, sem suporte clínico nos dados compilados.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para esta indicação.
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-As publicações recuperadas não demonstram eficácia da teofilina em doença trombótica. Abaixo, as mais próximas do tema:
+Nenhum dos artigos recuperados avalia a teofilina como tratamento de doença trombótica. Os mais relevantes por tipo estão listados abaixo, apenas como contexto.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [8055680](https://pubmed.ncbi.nlm.nih.gov/8055680/) | 1994 | Revisão farmacocinética | Clinical Pharmacokinetics | Trata da ticlopidina (outro antiplaquetário), não da teofilina |
-| [6771102](https://pubmed.ncbi.nlm.nih.gov/6771102/) | 1980 | Revisão | CRC Critical Reviews in Biochemistry | Prostaglandinas, plaquetas e aterosclerose; não específica da teofilina |
-| [8981060](https://pubmed.ncbi.nlm.nih.gov/8981060/) | 1996 | Estudo in vitro | General Pharmacology | Milrinona e adenosina na inibição da resposta plaquetária humana (outro fármaco) |
-| [25856065](https://pubmed.ncbi.nlm.nih.gov/25856065/) | 2015 | Método laboratorial | Platelets | Medição de CLEC-2 solúvel como marcador de ativação plaquetária |
-| [29220362](https://pubmed.ncbi.nlm.nih.gov/29220362/) | 2017 | Método laboratorial | PLoS One | Preparo de plasma para monitorar moléculas plaquetárias |
-| [749930](https://pubmed.ncbi.nlm.nih.gov/749930/) | 1978 | Método laboratorial | British Journal of Haematology | Radioimunoensaio do fator plaquetário 4; a teofilina é usada apenas como componente do anticoagulante de coleta |
-| [29254574](https://pubmed.ncbi.nlm.nih.gov/29254574/) | 2018 | Método analítico | Analytica Chimica Acta | Biossensor para detecção de teofilina, sem relevância clínica |
-| [4776567](https://pubmed.ncbi.nlm.nih.gov/4776567/) | 1973 | Estudo clínico antigo | Minerva Cardioangiologica | Derivado nicotinato de teofilina em arteriopatia periférica obliterante (sem resumo disponível) |
-
-Nenhum dos estudos testa a teofilina como tratamento de trombose.
+| [8055680](https://pubmed.ncbi.nlm.nih.gov/8055680/) | 1994 | Revisão | Clinical Pharmacokinetics | Farmacocinética da ticlopidina, antiplaquetário; não envolve teofilina |
+| [6771102](https://pubmed.ncbi.nlm.nih.gov/6771102/) | 1980 | Revisão | CRC Critical Reviews in Biochemistry | Papel de prostaglandinas, tromboxano A2 e prostaciclina na função plaquetária e na aterosclerose |
+| [8318681](https://pubmed.ncbi.nlm.nih.gov/8318681/) | 1993 | Relato de caso | J Am Soc Nephrol | Eritrocitose pós-transplante renal e tratamentos; sem relação direta com teofilina |
+| [8981060](https://pubmed.ncbi.nlm.nih.gov/8981060/) | 1996 | Outro | General Pharmacology | Milrinona e adenosina inibem a resposta plaquetária via AMPc; estudo com outro fármaco |
+| [32824700](https://pubmed.ncbi.nlm.nih.gov/32824700/) | 2020 | Outro | Cells | Efeito da anticoagulação e do processamento de amostras na quantificação de microRNA sanguíneo |
+| [25856065](https://pubmed.ncbi.nlm.nih.gov/25856065/) | 2015 | Outro | Platelets | Medição de sCLEC-2 plasmático como marcador de ativação plaquetária |
 
 ## Informações de Comercialização no Brasil
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 105530305 (cancelado) | TEOLONG | Não informada | Broncodilatadores |
+| Registro nº 105530305 | TEOLONG | Não informada | Broncodilatadores |
 
 ## Considerações de Segurança
 
-- **Contraindicações segundo o grafo de conhecimento (não extraídas da bula)**: hipertensão, insuficiência hepática, epilepsia, transtornos de ansiedade e psicóticos, porfiria, doença renal, doença hepática, doenças da vesícula biliar, trombocitopenia, hipotireoidismo, úlcera péptica, glaucoma de ângulo aberto, diabetes e cetoacidose diabética, hiperplasia prostática benigna, neutropenia e agranulocitose. Esta lista não substitui a bula.
-- **Interações medicamentosas**: foram registradas 100 interações. Entre as exibidas, destaca-se a de **gravidade maior com bupropiona**. Há interações moderadas com antagonistas H2 e inibidores de bomba de prótons (famotidina, ranitidina, cimetidina, omeprazol, rabeprazol), tetraciclinas (doxiciclina, tetraciclina, minociclina), claritromicina, corticosteroides (hidrocortisona, dexametasona, betametasona, triamcinolona, budesonida), carvão ativado, picossulfato e polietilenoglicol. A interação com efedrina é de gravidade menor.
-- **Índice terapêutico estreito**: a literatura recuperada para outras indicações reforça a necessidade de monitorização terapêutica.
+- **Contraindicações (relações registradas no grafo de conhecimento, não texto de bula):** hipertensão, insuficiência e doenças hepáticas, epilepsia, transtornos de ansiedade e psicóticos, porfiria, doença renal, doença da vesícula biliar, trombocitopenia, neutropenia e agranulocitose, hipotireoidismo, úlcera péptica, glaucoma de ângulo aberto, diabetes mellitus e cetoacidose diabética, hiperplasia prostática benigna e dermatite herpetiforme.
+- **Interações Medicamentosas:** foram registradas 100 interações. A principal interação de gravidade maior listada é com **bupropiona**. As de gravidade moderada incluem famotidina, ranitidina, cimetidina, omeprazol, rabeprazol, claritromicina, doxiciclina, tetraciclina, minociclina, corticosteroides (hidrocortisona, dexametasona, betametasona, budesonida, triamcinolona), carvão ativado, picossulfato e polietilenoglicol. Efedrina tem interação de gravidade menor.
+- A teofilina tem janela terapêutica estreita, e o monitoramento de níveis séricos costuma ser necessário.
 
-Consulte a bula para advertências e contraindicações formais.
+Os dados de advertências e contraindicações da bula da ANVISA não estavam disponíveis na base compilada. Consulte a bula para informações de segurança completas.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta no modelo, mas nenhum ensaio clínico e nenhuma literatura que sustente a teofilina como tratamento de doença trombótica. O mecanismo é ambíguo, porque o antagonismo da adenosina pode neutralizar o efeito antiplaquetário da inibição de PDE. O único registro no Brasil está cancelado.
+Não há ensaios clínicos nem estudos que avaliem a teofilina diretamente em doença trombótica. A previsão do TxGNN (0,9962) não tem suporte clínico, e o mecanismo teórico é contraditório (inibição de fosfodiesterases versus antagonismo da adenosina). Além disso, a teofilina tem índice terapêutico estreito e muitas interações medicamentosas.
 
 **Para prosseguir, é necessário:**
-- Dados de mecanismo de ação documentados e análise de como o balanço PDE/adenosina se comporta em plaquetas.
-- Estudos pré-clínicos de agregação plaquetária e trombose com teofilina.
-- Bula da ANVISA com advertências e contraindicações, para a triagem de segurança.
-- Avaliação de viabilidade regulatória, dado que o registro está cancelado.
+- Obter dados detalhados do mecanismo de ação (MOA).
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
+- Realizar estudos pré-clínicos e clínicos que avaliem a teofilina diretamente na agregação plaquetária e na trombose.
+- Avaliar o perfil de segurança diante da interação com bupropiona e das contraindicações cardiovasculares e hematológicas registradas.
 
-**Observação sobre outras previsões:** entre as indicações previstas, a doença pulmonar obstrutiva (rank 5) tem o maior respaldo clínico (nível L1), mas corresponde ao uso original do fármaco e não a um reposicionamento. Rinite alérgica/doença da cavidade nasal (rank 2) e doença traqueal (rank 4) têm evidência indireta (nível L3) e podem merecer avaliação como questões de pesquisa.
+### Observação sobre outras indicações previstas
+
+Outras previsões do TxGNN para a teofilina foram avaliadas, e todas estão em **Hold**:
+
+- **Doença da cavidade nasal (nasal cavity disease, 99,53%):** um estudo clínico pequeno de provocação nasal com teofilina de liberação lenta em rinite alérgica (PMID 9648963), mais um modelo animal. A evidência é indireta e o nível é L5 pela regra do protocolo, pois não há ensaio de eficácia.
+- **Doença traqueal (tracheal disease, 99,49%):** há relaxamento traqueal in vitro, revisões sobre metilxantinas na extubação de prematuros e um estudo veterinário retrospectivo em cães. Não há estudos em humanos com doença traqueal. Nível L5.
+- **Pharyngitis (99,46%):** sem mecanismo plausível; a literatura trata de antibióticos macrolídeos. Nível L5.
+- **Laringotraqueíte (99,51%) e laringofaringite aguda (99,35%):** sem ensaios nem literatura. Nível L5.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

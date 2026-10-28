@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **poliomielite bulbar (bulbar pol
 |------|------|
 | Indicação Original | Agentes antineoplásicos |
 | Nova Indicação Prevista | Poliomielite bulbar (bulbar polio) |
-| Pontuação de Previsão TxGNN | 99,10% |
+| Pontuação de Previsão TxGNN | 0,9910 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A poliomielite bulbar é uma infecção viral dos neurônios motores do tronco encefálico, causada pelo poliovírus. **Não há relação mecanística plausível estabelecida** entre a inibição de FLT3/AXL e essa doença: não foi identificado nenhum efeito sobre a replicação do poliovírus nem dependência de fatores do hospedeiro ligados a FLT3/AXL.
 
-A pontuação elevada (99,10%) reflete apenas uma previsão do grafo de conhecimento, sem respaldo biológico identificado. Além disso, qualquer hipótese teria de considerar o potencial imunossupressor e mielossupressor do fármaco, preocupante numa infecção viral aguda. As medidas existentes contra a poliomielite (vacinação e cuidados de suporte) também tornam improvável que um inibidor de quinase atenda a uma necessidade não atendida.
+A pontuação elevada (0,9910) vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Além disso, qualquer hipótese teria de considerar o potencial imunossupressor e mielossupressor do fármaco, preocupante numa infecção viral aguda. As medidas existentes contra a poliomielite (vacinação e cuidados de suporte) também tornam improvável que um inibidor de quinase atenda a uma necessidade não atendida.
 
 ## Informações de Comercialização no Brasil
 

@@ -8,6 +8,7 @@ nav_order: 173
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Caffeine Anhydrous
@@ -51,7 +52,7 @@ portanto **não há ensaios clínicos, literatura ou pontuação de previsão** 
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | N/D |
 | Nível de Evidência | — (abaixo de L5: sem previsões do modelo) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

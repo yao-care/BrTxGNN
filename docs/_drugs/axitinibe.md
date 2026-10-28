@@ -8,6 +8,7 @@ nav_order: 96
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Axitinibe
@@ -51,8 +52,8 @@ Para avançar na avaliação, é necessário complementar os dados faltantes ide
 | Nova Indicação Prevista | Sem previsões disponíveis |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão do modelo com dados atuais) |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 2 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

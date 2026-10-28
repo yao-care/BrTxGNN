@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pantoprazole
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 509
-evidence_level: L1
-indication_count: 6
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Pantoprazole: nova indicação prevista, Doença ulcerosa péptica ativa (Active Peptic Ulcer Disease) (nível de evidência L1). Indicação original: Antiulcerosos"
 monitor_inn: "PANTOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
+description: "Pantoprazole: nova indicação prevista, Duodenal obstruction (nível de evidência L5). Indicação original: ANTIULCEROSOS"
 ---
 
 # Pantoprazole
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **6** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L1** | Indicações previstas: **6**
 
 </div>
 
-## Pantoprazol: Da úlcera e acidez gástrica à doença ulcerosa péptica ativa
+## Pantoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,11 +48,11 @@ atualmente com **1 ensaio clínico** e **20 publicações** apoiando esta direç
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antiulcerosos |
-| Nova Indicação Prevista | Doença ulcerosa péptica ativa (Active Peptic Ulcer Disease) |
-| Pontuação de Previsão TxGNN | 99,69% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Indicação Original | ANTIULCEROSOS; ANTIACIDOS E ANTIULCEROSOS SIMPLES; ANTIACIDOS E ANTIULCEROSOS |
+| Nova Indicação Prevista | Duodenal obstruction |
+| Pontuação de Previsão TxGNN | 0.9921 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -62,9 +62,8 @@ atualmente com **1 ensaio clínico** e **20 publicações** apoiando esta direç
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação na base de origem. Pelo conhecimento da classe e pela literatura compilada, o pantoprazol inibe de forma irreversível a H+/K+ ATPase (bomba de prótons) das células parietais gástricas. Isso reduz a secreção de ácido e permite a cicatrização da úlcera.
 
-A indicação original (antiulceroso e antiácido) e a nova indicação prevista (doença ulcerosa péptica ativa) são praticamente a mesma coisa: ambas dependem da supressão ácida. A previsão do modelo é, portanto, coerente com o uso consagrado da classe, e não representa um uso verdadeiramente novo.
 
-Outras previsões do modelo têm sustentação mais fraca. Úlcera duodenal (pontuação de 99,18%) tem evidência igualmente forte e é também uma indicação estabelecida. Perfuração de úlcera péptica e úlcera gastrojejunal têm evidência extrapolada de condições relacionadas. Refluxo duodenogástrico oferece apenas benefício indireto e sintomático. Obstrução duodenal não tem vínculo mecanístico crível e provavelmente reflete apenas proximidade de rede com a doença ulcerosa.
+Obstrução duodenal (pontuação de 0,9921) não tem vínculo mecanístico crível. A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 ---
 
@@ -95,7 +94,7 @@ Outras previsões do modelo têm sustentação mais fraca. Úlcera duodenal (pon
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão cancelados; atualmente não há registro válido. Abaixo, os 5 primeiros:
+Todos os 20 registros encontrados estão válidos; o medicamento está comercializado no Brasil. Abaixo, os 5 primeiros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -125,7 +124,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Há ensaio de Phase 3 concluído e vários ensaios comparativos de pantoprazol na úlcera duodenal, o que sustenta o nível L1. Porém, trata-se de uma indicação já estabelecida da classe, sem novidade terapêutica, e todos os registros brasileiros atuais estão cancelados.
+- Há ensaio de Phase 3 concluído e vários ensaios comparativos de pantoprazol na úlcera duodenal, o que sustenta o nível L1. Porém, trata-se de uma indicação já estabelecida da classe, sem novidade terapêutica, e há 20 registros válidos no Brasil, com o medicamento comercializado.
 
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA (advertências e contraindicações), que é uma lacuna bloqueante para a triagem de segurança.

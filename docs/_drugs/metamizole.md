@@ -4,17 +4,17 @@ title: Metamizole
 parent: Apenas Predição do Modelo (L5)
 nav_order: 446
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Metamizole: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L5). Indicação original: Analgésicos não narcóticos"
 monitor_inn: "Metamizole"
-predicted_indications: ["rheumatoid arthritis", "migraine disorder", "migraine with or without aura, susceptibility to", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
+predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
 ---
 
 # Metamizole
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 |------|------|
 | Indicação Original | Analgésicos não narcóticos |
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
-| Pontuação de Previsão TxGNN | 99,78% |
+| Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L5 (apenas previsão do modelo, sem estudos de eficácia reais) |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A relação com a artrite reumatoide é indireta: o alívio sintomático da dor em doenças reumáticas é plausível, mas isso é diferente de tratar a doença. As publicações recuperadas não avaliam eficácia modificadora da doença. Elas tratam de segurança (agranulocitose), interações medicamentosas, alergias e padrões de prescrição de analgésicos.
 
-A pontuação muito alta do TxGNN (99,78%) não é sustentada por dados clínicos. Qualquer papel do metamizol seria, no máximo, de analgesia sintomática, e o sinal de agranulocitose associado ao metotrexato, base do tratamento da artrite reumatoide, é uma preocupação de segurança relevante nessa população.
+A pontuação muito alta do TxGNN (0,9978) não é sustentada por dados clínicos. Qualquer papel do metamizol seria, no máximo, de analgesia sintomática, e o sinal de agranulocitose associado ao metotrexato, base do tratamento da artrite reumatoide, é uma preocupação de segurança relevante nessa população.
 
 ## Evidências de Ensaios Clínicos
 
@@ -82,7 +82,7 @@ Nenhum dos estudos abaixo é ensaio clínico de eficácia. Os achados abaixo for
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros constam como cancelados. Abaixo, os 5 principais:
+Todos os 20 registros constam como válidos. Abaixo, os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -104,7 +104,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem estudos de eficácia para artrite reumatoide; a pontuação alta do modelo não é corroborada por dados clínicos, e há um sinal de segurança (agranulocitose com metotrexato) relevante nessa população. Além disso, todos os 20 registros brasileiros estão cancelados.
+- Não há ensaios clínicos nem estudos de eficácia para artrite reumatoide; a pontuação alta do modelo não é corroborada por dados clínicos, e há um sinal de segurança (agranulocitose com metotrexato) relevante nessa população. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) a partir do DrugBank
@@ -112,7 +112,7 @@ Para advertências e contraindicações formais, consulte a bula.
 - Esclarecer os motivos do cancelamento dos registros no Brasil
 - Estudos clínicos que avaliem o metamizol como analgésico adjuvante na AR, com avaliação do risco hematológico
 
-**Observação sobre outras previsões:** a enxaqueca (*migraine disorder*, pontuação 99,72%) tem evidência de nível L3, incluindo um estudo randomizado comparativo de dipirona intravenosa versus clonixinato de lisina em crises graves (PMID 18545786) e uso real em serviços de emergência no Brasil. Pode ser uma hipótese de pesquisa mais promissora do que a artrite reumatoide, embora sem ensaios registrados e com o mesmo risco de agranulocitose. As demais previsões (exostose, gota, tendinite, deficiência de antitrombina, entre outras) não têm literatura nem ensaios e parecem ser artefatos do modelo.
+**Observação sobre outras previsões:** a enxaqueca (*migraine disorder*, pontuação 0,9972) tem evidência de nível L3, incluindo um estudo randomizado comparativo de dipirona intravenosa versus clonixinato de lisina em crises graves (PMID 18545786) e uso real em serviços de emergência no Brasil. Pode ser uma hipótese de pesquisa mais promissora do que a artrite reumatoide, embora sem ensaios registrados e com o mesmo risco de agranulocitose. As demais previsões (exostose, gota, tendinite, deficiência de antitrombina, entre outras) não têm literatura nem ensaios e parecem ser artefatos do modelo.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

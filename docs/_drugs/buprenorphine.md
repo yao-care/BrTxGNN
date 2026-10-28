@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (um relat
 |------|------|
 | Indicação Original | Analgésicos narcóticos |
 | Nova Indicação Prevista | Porfiria Aguda Intermitente (Acute Intermittent Porphyria) |
-| Pontuação de Previsão TxGNN | 99,41% |
+| Pontuação de Previsão TxGNN | 0,9941 |
 | Nível de Evidência | L5 (apenas previsão do modelo; a literatura disponível é um relato de caso sem evidência de eficácia) |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 5 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A porfiria aguda intermitente é causada por um defeito na biossíntese do heme. Não se identificou relação mecanística entre a ação opioide da buprenorfina e esse defeito. O único trabalho encontrado descreve o manejo anestésico de uma paciente com porfiria, refletindo considerações de segurança perioperatória e analgesia opioide durante crises, e não modificação da doença.
 
-Portanto, a pontuação elevada do TxGNN (99,41%) deve ser entendida como uma previsão computacional sem respaldo clínico. A plausibilidade mais realista seria o uso da buprenorfina como analgésico sintomático nas crises dolorosas, o que é diferente de tratar a doença.
+Portanto, a pontuação elevada do TxGNN (0,9941) deve ser entendida como uma previsão computacional sem respaldo clínico. A plausibilidade mais realista seria o uso da buprenorfina como analgésico sintomático nas crises dolorosas, o que é diferente de tratar a doença.
 
 ## Evidências de Ensaios Clínicos
 
@@ -94,7 +94,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem evidência de eficácia; a única publicação é um relato de caso anestésico, e não há ligação mecanística plausível entre a buprenorfina e a porfiria aguda intermitente. Além disso, todos os registros no Brasil estão cancelados.
+- Não há ensaios clínicos nem evidência de eficácia; a única publicação é um relato de caso anestésico, e não há ligação mecanística plausível entre a buprenorfina e a porfiria aguda intermitente. Além disso, o medicamento é comercializado no Brasil, com 5 registros válidos de 5.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação e análise da ligação mecanística com a via de biossíntese do heme

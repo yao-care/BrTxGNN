@@ -4,17 +4,17 @@ title: Pegvaliase
 parent: Apenas Predição do Modelo (L5)
 nav_order: 513
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-13
-description: "Pegvaliase: nova indicação prevista, Retinopatia diabética (diabetic retinopathy) (nível de evidência L5). Indicação original: Não disponível nos dados de registro da ANVISA (o uso conhecido do fá…"
 monitor_inn: "Pegvaliase"
-predicted_indications: ["diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "diabetic cataract", "nuclear senile cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "craniostenosis cataract", "immature cataract"]
+predicted_indications: ["diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "diabetic cataract"]
+description: "Pegvaliase: nova indicação prevista, Retinopatia diabética (diabetic retinopathy) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Pegvaliase
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Pegvaliase: Da fenilcetonúria à retinopatia diabética
+## Pegvaliase: Retinopatia diabética (diabetic retinopathy)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,21 +45,21 @@ O modelo TxGNN prevê que pode ser eficaz para **retinopatia diabética (diabeti
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível nos dados de registro da ANVISA (o uso conhecido do fármaco é fenilcetonúria) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Retinopatia diabética (diabetic retinopathy) |
-| Pontuação de Previsão TxGNN | 99,17% |
+| Pontuação de Previsão TxGNN | 0.9917 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, pegvaliase é uma fenilalanina amônia-liase peguilada que degrada a fenilalanina, e seu uso aprovado é a fenilcetonúria.
 
-Não foi estabelecida nenhuma relação mecanística entre a depleção de fenilalanina e a patologia microvascular da retina diabética. A pontuação elevada do TxGNN (0,992) é uma previsão derivada do grafo de conhecimento e, por si só, não constitui prova de plausibilidade biológica.
+Não foi estabelecida nenhuma relação mecanística entre a depleção de fenilalanina e a patologia microvascular da retina diabética. A pontuação elevada do TxGNN (0,9917) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica; por si só, não constitui prova de plausibilidade biológica.
 
-As demais previsões do modelo seguem o mesmo padrão: retinopatia diabética não proliferativa grave (99,16%) e vários tipos de catarata (diabética, nuclear senil, cortical, madura, imatura, entre outras; 98,9% a 99,1%). Todas sem ensaios ou literatura. Pontuações idênticas entre subtipos de catarata sugerem um artefato de proximidade no grafo, e não uma biologia específica de cada doença.
+As demais previsões do modelo seguem o mesmo padrão: Retinopatia diabética não proliferativa grave (0,9916) e catarata diabética (0,9911). Ambas sem ensaios ou literatura. Essas pontuações vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas entre doenças relacionadas, não biologia específica de cada doença.
 
 ## Considerações de Segurança
 
@@ -75,7 +75,7 @@ Não há dados disponíveis sobre advertências principais e contraindicações 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão é baseada apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível. Além disso, o fármaco não é comercializado no Brasil e faltam dados de segurança da bula.
+A previsão é baseada apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula e os dados de segurança (advertências e contraindicações), etapa bloqueante para a triagem de segurança

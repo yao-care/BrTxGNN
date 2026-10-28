@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Perindopril
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 518
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-13
 description: "Perindopril: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disea… (nível de evidência L4). Indicação original: Anti-hipertensivos"
 monitor_inn: "perindopril"
@@ -14,7 +14,7 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 # Perindopril
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **5** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **1 publicação** (sem relevância
 |------|------|
 | Indicação Original | Anti-hipertensivos |
 | Nova Indicação Prevista | Doença renal hipertensiva maligna (malignant hypertensive renal disease) |
-| Pontuação de Previsão TxGNN | 99,77% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 6 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9977 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
+| Número de Registros | 6 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -95,14 +95,14 @@ Há ainda um sexto registro (TRIPLIXAM, inibidores da ECA, associações), tamb�
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem alta pontuação no modelo (99,77%), mas não há ensaios clínicos nem literatura relevante para a doença renal hipertensiva maligna (nível L4). Além disso, todos os registros brasileiros estão cancelados, e a segurança renal exige cautela.
+- A previsão tem pontuação alta no modelo TxGNN (deep learning) (0,9977), mas não há ensaios clínicos nem literatura relevante para a doença renal hipertensiva maligna (nível L4). O medicamento está comercializado no Brasil (6 registros válidos de 6), e a segurança renal exige cautela.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), ainda indisponível.
 - Complementar os dados de mecanismo de ação (DrugBank).
 - Realizar revisão sistemática da literatura clínica sobre IECA em nefropatia hipertensiva maligna.
 - Avaliar o risco renal (estenose de artéria renal, hiperpotassemia) e a situação regulatória, já que não há registro válido no Brasil.
-- Se o interesse for mantido, considerar as indicações alternativas: hipertensão pulmonar por doença pulmonar/hipóxia (há apenas estudos pré-clínicos em ratos, nível L4) e hipertensão renovascular maligna (apenas previsão, L5), ambas também em *Hold*.
+- Se o interesse for mantido, considerar a indicação alternativa: hipertensão pulmonar por doença pulmonar e/ou hipóxia (há apenas estudos pré-clínicos em ratos, nível L4), também em *Hold*.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

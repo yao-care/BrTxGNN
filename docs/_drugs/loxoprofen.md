@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Anti-inflamatórios |
 | Nova Indicação Prevista | Síndrome de microftalmia colobomatosa com displasia rizomélica (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
-| Pontuação de Previsão TxGNN | 99,80% |
+| Pontuação de Previsão TxGNN | 0,9980 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 4 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados do mecanismo de ação na base compilada. 
 
 A nova indicação prevista é uma síndrome de desenvolvimento muito rara, sem patologia inflamatória ou mediada por prostaglandinas evidente que a inibição de COX possa plausivelmente tratar. Os dados disponíveis não sustentam nenhuma ligação mecanística entre o fármaco e a doença.
 
-A pontuação alta do TxGNN (99,80%) é apenas uma previsão computacional e pode refletir artefatos do grafo de conhecimento (por exemplo, conectividade com genes ou fenótipos compartilhados), e não uma relação biologicamente validada. Além disso, a exposição a AINEs na gestação traz risco ao desenvolvimento, o que contraria qualquer presunção de benefício em um distúrbio congênito do desenvolvimento.
+A pontuação alta do TxGNN (0,9980) vem do modelo TxGNN (deep learning), é apenas uma previsão computacional e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica. Além disso, a exposição a AINEs na gestação traz risco ao desenvolvimento, o que contraria qualquer presunção de benefício em um distúrbio congênito do desenvolvimento.
 
 ## Informações de Comercialização no Brasil
 
@@ -82,18 +82,18 @@ Observação: o risco de exposição a AINEs durante a gestação é relevante p
 **Decisão: Hold**
 
 **Justificativa:**
-Não há ensaios clínicos nem literatura que sustentem a previsão (nível L5), não há ligação mecanística plausível, e todos os registros no Brasil estão cancelados. A pontuação alta do modelo, isoladamente, não é suficiente para avançar.
+Não há ensaios clínicos nem literatura que sustentem a previsão (nível L5), não há ligação mecanística plausível, e o medicamento é comercializado no Brasil (4 de 4 registros válidos). A pontuação alta do modelo, isoladamente, não é suficiente para avançar.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações)
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
-- Investigar se a pontuação reflete artefatos do grafo de conhecimento e buscar evidências biológicas ou pré-clínicas que justifiquem a hipótese
+- Investigar se a pontuação do modelo TxGNN (deep learning) reflete apenas semelhanças aprendidas entre doenças relacionadas e buscar evidências biológicas ou pré-clínicas que justifiquem a hipótese
 - Avaliar o risco do uso de AINEs em contexto de desenvolvimento/gestação
 - Considerar que não há registro ativo no Brasil, o que exigiria novo processo regulatório
 
 ---
 
-**Nota sobre a segunda previsão:** a síndrome de braquidactilia-sindactilia (pontuação 99,75%, nível L5, sem ensaios nem literatura) também não tem racionalidade mecanística, por se tratar de malformação congênita estrutural dos membros; a decisão recomendada é igualmente **Hold**.
+**Nota sobre a segunda previsão:** a síndrome de braquidactilia-sindactilia (pontuação 0,9975, nível L5, sem ensaios nem literatura) também não tem racionalidade mecanística, por se tratar de malformação congênita estrutural dos membros; a decisão recomendada é igualmente **Hold**.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

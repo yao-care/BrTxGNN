@@ -4,7 +4,7 @@ title: Betamethasone
 parent: Evidência Alta (L1-L2)
 nav_order: 127
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Betamethasone: nova indicação prevista, Alopecia areata (alopecia areata) (nível de evidência L2). Indicação original: Glicocorticoides tópicos simples (exceto uso oftálmico)"
 monitor_inn: "BETAMETHASONE"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Betamethasone
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ atualmente com **6 ensaios clínicos** e **20 publicações** apoiando esta dire
 |------|------|
 | Indicação Original | Glicocorticoides tópicos simples (exceto uso oftálmico) |
 | Nova Indicação Prevista | Alopecia areata (alopecia areata) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -90,7 +90,7 @@ A alopecia areata é uma doença autoimune em que células T atacam os folículo
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão cancelados; não há registro vigente. Os principais:
+Há 20 registros válidos e o medicamento é comercializado. Os principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -112,7 +112,7 @@ Os dados de advertências e contraindicações da bula não estão disponíveis;
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há um ensaio de Phase 2 concluído com minipulso oral de betametasona, além de vários RCTs publicados (minipulso oral, intralesional e tópico) que sustentam o uso em alopecia areata. Porém, em vários ensaios a betametasona é apenas comparador, e todos os registros brasileiros estão cancelados.
+Há um ensaio de Phase 2 concluído com minipulso oral de betametasona, além de vários RCTs publicados (minipulso oral, intralesional e tópico) que sustentam o uso em alopecia areata. Porém, em vários ensaios a betametasona é apenas comparador.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA para advertências e contraindicações, hoje ausentes

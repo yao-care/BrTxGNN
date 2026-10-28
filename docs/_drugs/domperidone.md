@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antieméticos e antinauseantes |
 | Nova Indicação Prevista | Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
-| Pontuação de Previsão TxGNN | 99,08% |
+| Pontuação de Previsão TxGNN | 0,9908 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 19 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 19) |
+| Número de Registros | 19 (ativos: 19) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,11 +60,11 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A NSIAD é causada por mutações de ganho de função no receptor V2 da vasopressina (AVPR2), que provocam retenção de água e hiponatremia independentemente da vasopressina. Não há um mecanismo plausível pelo qual um antagonista D2 inibiria a sinalização constitutivamente ativa do receptor V2, que ocorre a jusante do receptor.
 
-A previsão provavelmente reflete a proximidade no grafo de conhecimento (por exemplo, nós ligados a hiponatremia, náuseas ou vias relacionadas à vasopressina), e não um vínculo farmacológico validado. Deve ser tratada apenas como sinal gerador de hipóteses.
+A pontuação vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas (por exemplo, hiponatremia, náuseas ou vias relacionadas à vasopressina), e não evidência biológica nem um vínculo farmacológico validado. Deve ser tratada apenas como sinal gerador de hipóteses.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 19 registros encontram-se cancelados; abaixo, os 5 primeiros. A forma farmacêutica não consta nos dados compilados.
+Todos os 19 registros encontram-se válidos; abaixo, os 5 primeiros. A forma farmacêutica não consta nos dados compilados.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -86,7 +86,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A única sustentação é a pontuação elevada do TxGNN, sem ensaios clínicos nem literatura, e sem mecanismo plausível que ligue o antagonismo D2 à fisiopatologia da NSIAD (ganho de função do AVPR2). Além disso, todos os registros brasileiros estão cancelados, e os sinais de risco cardíaco (QT longo, torsades de pointes) reforçam a cautela.
+A única sustentação é a pontuação elevada do TxGNN (0.9908), sem ensaios clínicos nem literatura, e sem mecanismo plausível que ligue o antagonismo D2 à fisiopatologia da NSIAD (ganho de função do AVPR2). Além disso, os sinais de risco cardíaco (QT longo, torsades de pointes) reforçam a cautela.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna considerada bloqueante para a triagem de segurança

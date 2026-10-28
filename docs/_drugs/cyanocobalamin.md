@@ -47,9 +47,9 @@ O modelo TxGNN prevê que ela pode ser eficaz para **doença metabólica da biot
 |------|------|
 | Indicação Original | Vitamina B12 (cianocobalamina e análogos) |
 | Nova Indicação Prevista | Doença metabólica da biotina (biotin metabolic disease) |
-| Pontuação de Previsão TxGNN | 99,60% |
+| Pontuação de Previsão TxGNN | 0,9960 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 Existe um possível elo indireto: a B12 e a biotina são vitaminas hidrossolúveis do complexo B e participam de vias vizinhas do metabolismo do propionato. A propionil-CoA carboxilase depende de biotina, enquanto a metilmalonil-CoA mutase depende de B12.
 
-Porém, esse elo é apenas plausível, não demonstrado. Não há evidência clínica de que a B12 corrija distúrbios do metabolismo da biotina, como a deficiência de biotinidase ou de holocarboxilase sintetase, cujo tratamento padrão é a suplementação de biotina. A pontuação alta do TxGNN (99,60%) é uma previsão do modelo e não substitui evidência experimental ou clínica.
+Porém, esse elo é apenas plausível, não demonstrado. Não há evidência clínica de que a B12 corrija distúrbios do metabolismo da biotina, como a deficiência de biotinidase ou de holocarboxilase sintetase, cujo tratamento padrão é a suplementação de biotina. A pontuação alta do TxGNN (0,9960) é uma previsão do modelo e não substitui evidência experimental ou clínica.
 
 ## Evidências de Ensaios Clínicos
 
@@ -73,7 +73,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão cancelados; não há registro válido. Os cinco principais estão listados abaixo.
+Foram encontrados 20 registros válidos no Brasil. Os cinco principais estão listados abaixo.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -94,7 +94,7 @@ Consulte a bula para advertências e contraindicações.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos e com uma única publicação não relacionada ao tratamento. Além disso, o tratamento padrão da doença prevista é a própria biotina, e todos os registros brasileiros do fármaco estão cancelados.
+A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos e com uma única publicação não relacionada ao tratamento. Além disso, o tratamento padrão da doença prevista é a própria biotina.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da cianocobalamina (DrugBank) e análise do elo mecanístico com a biotina

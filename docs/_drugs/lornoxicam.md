@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lornoxicam
-parent: Evidência Moderada (L3-L4)
+parent: Evidência Alta (L1-L2)
 nav_order: 427
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Lornoxicam: nova indicação prevista, Artrite reumatoide (Rheumatoid Arthritis) (nível de evidência L3). Indicação original: Não disponível"
+evidence_level: L2
+indication_count: 8
 monitor_inn: "Lornoxicam"
-predicted_indications: ["migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
+last_modified_at: 2026-10-23
+description: "Lornoxicam: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: Não informada nos dados compilados"
 ---
 
 # Lornoxicam
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,78 +33,84 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Lornoxicam: Da dor e inflamação reumática à artrite reumatoide (predição TxGNN)
+## Lornoxicam: Da indicação original não especificada à enxaqueca
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Lornoxicam é um anti-inflamatório não esteroidal (AINE) da classe dos oxicams, usado em dor aguda e em condições inflamatórias musculoesqueléticas. Não há indicação original registrada na ANVISA.
-O modelo TxGNN prevê que pode ser eficaz para **artrite reumatoide (Rheumatoid Arthritis)**, atualmente com **0 ensaios clínicos** e **20 publicações** associadas a esta direção, a maioria composta por revisões, estudos de formulação e estudos pré-clínicos.
+Lornoxicam é um anti-inflamatório não esteroide (AINE) da classe dos oxicans, com propriedades analgésicas, anti-inflamatórias e antipiréticas. Os dados compilados para este relatório não trazem o texto da indicação aprovada no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**, atualmente com **1 ensaio clínico** de Fase 2 e **2 publicações** (revisões) relacionadas a esta direção.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível (sem registro ativo na ANVISA) |
-| Nova Indicação Prevista | Artrite reumatoide (Rheumatoid Arthritis) |
-| Pontuação de Previsão TxGNN | 99,90% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Hold |
+| Indicação Original | Não informada nos dados compilados (os registros da ANVISA não trazem texto de indicação) |
+| Nova Indicação Prevista | Enxaqueca (migraine disorder) |
+| Pontuação de Previsão TxGNN | 0,9987 |
+| Nível de Evidência | L2 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
+| Decisão Recomendada | Proceed with Guardrails |
 
-> Observação: o modelo também prevê, com forte pontuação, a **enxaqueca (migraine disorder)** (99,87%), que tem o único ensaio clínico registrado (Fase 2 concluído). Essa indicação é detalhada na seção de conclusão.
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, lornoxicam é um AINE da classe dos oxicams que inibe de forma não seletiva as enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas, que medeiam inflamação, dor e febre.
+Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, o lornoxicam é um inibidor não seletivo de COX-1 e COX-2 da classe dos oxicans. Ao inibir a síntese de prostaglandinas, ele reduz a inflamação neurogênica e a sensibilização periférica e central no sistema trigeminovascular, o mesmo caminho pelo qual outros AINEs aliviam a dor aguda da enxaqueca.
 
-Esse mecanismo é coerente com o manejo sintomático da artrite reumatoide (AR), uma doença inflamatória crônica das articulações. Lornoxicam já é usado em doenças reumáticas em vários países (osteoartrite e AR), conforme revisões farmacológicas. Portanto, trata-se de algo mais próximo de um uso sintomático já estabelecido do que de um reposicionamento verdadeiro.
+A indicação original não pôde ser extraída dos registros locais. Ainda assim, o perfil analgésico e anti-inflamatório do lornoxicam é coerente com o tratamento da dor de cabeça. A ligação biológica é plausível e apoiada pela classe dos AINEs. O que sustenta a previsão do TxGNN é principalmente o ensaio clínico de Fase 2 e as revisões sobre AINEs na enxaqueca, e não dados de eficácia do próprio lornoxicam, cujos resultados ainda não foram obtidos.
 
-É importante esclarecer que não há suporte para efeito modificador da doença. O benefício esperado é o alívio de dor e inflamação, não o controle da progressão da AR.
+---
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para artrite reumatoide.
+| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
+|---------|------|------|------|---------|
+| [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) | Phase 2 | Concluído | 150 | Estudo randomizado, duplo-cego, controlado por placebo, de dose única de lornoxicam intravenoso (8 mg ou 16 mg) no tratamento agudo da dor de cabeça moderada ou intensa de um ataque de enxaqueca. Os resultados de eficácia não constavam nos dados compilados. |
+
+---
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Revisão | Drugs | Revisão da farmacologia e do potencial terapêutico do lornoxicam em condições dolorosas e inflamatórias; meia-vida curta (3 a 5 h) |
-| [22469263](https://pubmed.ncbi.nlm.nih.gov/22469263/) | 2011 | Revisão | Profiles Drug Subst Excip Relat Methodol | Perfil abrangente do lornoxicam, usado em osteoartrite e artrite reumatoide |
-| [19821419](https://pubmed.ncbi.nlm.nih.gov/19821419/) | 2009 | Revisão sistemática | Cochrane Database Syst Rev | Lornoxicam oral em dose única para dor pós-operatória aguda (evidência indireta para AR) |
-| [12404032](https://pubmed.ncbi.nlm.nih.gov/12404032/) | 2002 | Estudo clínico cruzado duplo-cego | Reumatismo | Lornoxicam 8 e 16 mg/dia comparado a diclofenaco 150 mg/dia em pacientes com AR |
-| [12207202](https://pubmed.ncbi.nlm.nih.gov/12207202/) | 2002 | Estudo clínico de longo prazo | Minerva Med | Avaliação da segurança e da ação terapêutica a longo prazo do lornoxicam em AR |
-| [27086708](https://pubmed.ncbi.nlm.nih.gov/27086708/) | 2016 | Revisão de tolerabilidade | Pain Manag | Avaliação da segurança do lornoxicam, com foco em eventos gastrointestinais |
-| [29026298](https://pubmed.ncbi.nlm.nih.gov/29026298/) | 2017 | Pré-clínico (modelo animal) | Int J Nanomedicine | Formulação nanomicelar de lornoxicam comparada ao fármaco livre em modelos experimentais de AR |
-| [41747163](https://pubmed.ncbi.nlm.nih.gov/41747163/) | 2026 | Estudo de formulação | Drug Dev Ind Pharm | Gel transetossomal para entrega transdérmica de lornoxicam na AR |
-| [32792844](https://pubmed.ncbi.nlm.nih.gov/32792844/) | 2020 | Estudo de formulação | Saudi Pharm J | Gel de microesponjas de celulose com lornoxicam para efeito anti-inflamatório sustentado |
-| [24967065](https://pubmed.ncbi.nlm.nih.gov/24967065/) | 2014 | Estudo de formulação | Iran J Basic Med Sci | Mini-comprimidos matriciais para os sintomas matinais da AR |
+| [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Review | Pathologie-biologie | Revisão de estudos controlados de AINEs (incluindo lornoxicam) no tratamento de crises e na profilaxia da enxaqueca |
+| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Review | Drugs | Revisão da farmacologia e do potencial terapêutico do lornoxicam em condições dolorosas e inflamatórias, com meia-vida curta (3 a 5 horas) |
 
-Observação: os resumos disponíveis dos dois estudos clínicos de 2002 (PMIDs 12404032 e 12207202) trazem apenas o objetivo, sem resultados. Outras publicações do conjunto tratam de formulações e de glucocorticoides, sem foco específico no lornoxicam.
+---
+
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 109740216 (válido) | XEFO | Não informada | Não informada |
+| Registro 109740238 (cancelado) | LORNOX | Não informada | Não informada |
+| Registro 101740022 (cancelado) | LORNOX | Não informada | Não informada |
+
+---
 
 ## Considerações de Segurança
 
-- **Interações Medicamentosas**: a consulta não retornou interações registradas para este fármaco.
+Consulte a bula para informações de segurança.
 
-Para advertências e contraindicações, consulte a bula. Como classe, os AINEs exigem atenção especial à tolerabilidade gastrointestinal (tema abordado na revisão PMID 27086708).
+---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Para artrite reumatoide, não há ensaios clínicos registrados, e as evidências são revisões, estudos de formulação e dados pré-clínicos. O lornoxicam não está registrado nem comercializado no Brasil, e não há suporte para efeito modificador da doença.
-- A indicação de **enxaqueca** (NCT00293657: Fase 2, randomizado, duplo-cego, controlado por placebo, concluído, 150 participantes, lornoxicam intravenoso 8 ou 16 mg) tem evidência mais direta (nível L2) e recebeu a classificação "Proceed with Guardrails". Contudo, os resultados do ensaio não estavam disponíveis, e não há confirmação em Fase 3.
-- Outras previsões (síndromes congênitas raras, cefaleia em salvas, miosite granulomatosa) não têm suporte e parecem artefatos do grafo. Em tendinite, o único estudo disponível (injeção subacromial) mostrou lornoxicam inferior à betametasona.
+Há um ensaio de Fase 2 concluído, randomizado e controlado por placebo, que estuda diretamente a enxaqueca, além de revisões que sustentam o uso de AINEs nessa condição. Como os resultados do ensaio não foram obtidos e faltam dados de segurança e de mecanismo, a avanço deve ser cauteloso.
 
 **Para prosseguir, é necessário:**
-- Obter os resultados do ensaio NCT00293657 (eficácia e segurança) para avaliar a enxaqueca como indicação prioritária.
-- Obter a bula da ANVISA (advertências e contraindicações), pois a ausência desses dados bloqueia a triagem de segurança.
-- Obter dados do mecanismo de ação no DrugBank.
-- Verificar a situação regulatória do lornoxicam no Brasil (não há registros ativos) e a viabilidade de importação ou novo registro.
-- Para AR, verificar os resultados dos estudos clínicos de 2002 e definir se há valor frente aos AINEs já disponíveis.
+- Obter os resultados do ensaio NCT00293657 (desfechos primários e secundários)
+- Baixar e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados
+- Confirmar as indicações aprovadas e as formas farmacêuticas dos registros brasileiros
+- Completar os dados de mecanismo de ação no DrugBank
+- Verificar a compatibilidade das vias de administração (o ensaio usou a via intravenosa)
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

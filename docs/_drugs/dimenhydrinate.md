@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Dimenhydrinate
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 270
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Dimenhydrinate: nova indicação prevista, Urticária Alérgica (Allergic Urticaria) (nível de evidência L4). Indicação original: Antieméticos e antinauseantes"
@@ -14,7 +14,7 @@ predicted_indications: ["allergic urticaria", "cold urticaria"]
 # Dimenhydrinate
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **2** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **nenhum ensaio clínico** e apenas **1 publicação** (estud
 |------|------|
 | Indicação Original | Antieméticos e antinauseantes |
 | Nova Indicação Prevista | Urticária Alérgica (Allergic Urticaria) |
-| Pontuação de Previsão TxGNN | 99,74% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 14 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9974 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 14) |
+| Número de Registros | 14 (ativos: 14) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -62,7 +62,7 @@ Na urticária alérgica, a histamina liberada pelos mastócitos age nos receptor
 
 A indicação original (náusea e vômito, inclusive cinetose) e a nova indicação (urticária) são distintas do ponto de vista clínico, mas ambas dependem do bloqueio de receptores H1. Essa é a ponte mecanística entre elas.
 
-Uma segunda previsão do modelo, **urticária ao frio** (pontuação de 99,24%), tem o mesmo racional mecanístico, mas não conta com ensaios nem literatura (nível L5). As diretrizes atuais preferem anti-histamínicos de segunda geração, que causam menos sedação, de modo que um agente de primeira geração oferece pouca vantagem.
+Uma segunda previsão do modelo, **urticária ao frio** (pontuação de 0,9924), tem o mesmo racional mecanístico, mas não conta com ensaios nem literatura (nível L5). As diretrizes atuais preferem anti-histamínicos de segunda geração, que causam menos sedação, de modo que um agente de primeira geração oferece pouca vantagem.
 
 ## Evidências de Ensaios Clínicos
 
@@ -76,7 +76,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 14 registros encontrados estão **cancelados**; não há registro válido no momento. Os cinco principais:
+Todos os 14 registros encontrados estão **válidos**; o medicamento é comercializado no país. Os cinco principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -106,7 +106,7 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a lacuna atual impede a triagem de segurança.
 - Obter dados do mecanismo de ação no DrugBank.
 - Buscar estudos clínicos em humanos que avaliem eficácia em urticária, em comparação com anti-histamínicos de segunda geração.
-- Avaliar a viabilidade regulatória, já que todos os registros estão cancelados.
+- Avaliar a viabilidade regulatória, considerando que o medicamento é comercializado, com 14 registros válidos de 14.
 - Revisar a carga anticolinérgica e sedativa em populações vulneráveis (idosos, pacientes com glaucoma, hiperplasia prostática ou doença cardiovascular).
 ## Aviso de isenção de responsabilidade
 

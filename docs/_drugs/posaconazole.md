@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Posaconazole
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 535
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Posaconazole: nova indicação prevista, Pneumocistose (Pneumocystosis) (nível de evidência L4). Indicação original: Antimicóticos sistêmicos"
@@ -14,7 +14,7 @@ predicted_indications: ["pneumocystosis"]
 # Posaconazole
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **1** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **pneumocistose (Pneumocystosis)*
 |------|------|
 | Indicação Original | Antimicóticos sistêmicos |
 | Nova Indicação Prevista | Pneumocistose (Pneumocystosis) |
-| Pontuação de Previsão TxGNN | 99,77% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Pontuação de Previsão TxGNN | 0,9977 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -61,7 +61,7 @@ O modelo TxGNN prevê que pode ser eficaz para **pneumocistose (Pneumocystosis)*
 
 Os dados compilados para este relatório não trazem o mecanismo de ação do fármaco. Pelo conhecimento geral, o posaconazol é um triazol que inibe a lanosterol 14-alfa-desmetilase (CYP51), bloqueando a síntese de ergosterol na membrana do fungo. Isso explica sua ação em infecções fúngicas invasivas, e é daí que provavelmente vem o sinal do modelo: a associação do fármaco com a classe dos antifúngicos.
 
-Para a pneumocistose, porém, a lógica mecanística é fraca. *Pneumocystis jirovecii* difere da maioria dos fungos: sua membrana contém colesterol em vez de ergosterol e não possui a via típica de biossíntese de ergosterol. Assim, não se espera que os azóis funcionem, e a pontuação muito alta (0,998) provavelmente é um artefato do grafo de conhecimento. O tratamento padrão é sulfametoxazol-trimetoprima, e azóis não são recomendados para pneumonia por *Pneumocystis*.
+Para a pneumocistose, porém, a lógica mecanística é fraca. *Pneumocystis jirovecii* difere da maioria dos fungos: sua membrana contém colesterol em vez de ergosterol e não possui a via típica de biossíntese de ergosterol. Assim, não se espera que os azóis funcionem, e a pontuação muito alta (0,9977) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. O tratamento padrão é sulfametoxazol-trimetoprima, e azóis não são recomendados para pneumonia por *Pneumocystis*.
 
 ---
 

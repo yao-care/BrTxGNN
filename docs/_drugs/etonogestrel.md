@@ -4,17 +4,17 @@ title: Etonogestrel
 parent: Apenas Predição do Modelo (L5)
 nav_order: 304
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Etonogestrel: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L5). Indicação original: Não há dados de indicação aprovada na ANVISA"
+indication_count: 5
 monitor_inn: "Etonogestrel"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "acne (disease)"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia"]
+last_modified_at: 2026-10-27
+description: "Etonogestrel: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Etonogestrel
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,47 +33,33 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Etonogestrel: Da contracepção à amenorreia (previsão computacional, sem evidência clínica direta)
+## Etonogestrel: progestágeno de liberação contínua (implante) → Amenorreia (amenorrhea (disease))
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Etonogestrel é um progestágeno usado em contracepção hormonal (por exemplo, em implantes). Não há indicação original registrada no Brasil nos dados compilados para este relatório.
-O modelo TxGNN prevê que pode ser eficaz para **amenorreia (amenorrhea)**, mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** associada, sem relação direta com a indicação. A previsão é, portanto, essencialmente computacional.
+Etonogestrel é um progestágeno, usado principalmente como contraceptivo hormonal.
+O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (amenorrhea (disease))**, mas, nos dados compilados para este relatório, há **0 ensaios clínicos** e **1 publicação**, e essa publicação (um protocolo de estudo sobre COVID-19) não trata da doença prevista.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não há dados de indicação aprovada na ANVISA (o uso contraceptivo é conhecimento geral do fármaco, não dado de registro) |
-| Nova Indicação Prevista | Amenorreia (amenorrhea) |
-| Pontuação de Previsão TxGNN | 99,84% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Amenorreia (amenorrhea (disease)) |
+| Pontuação de Previsão TxGNN | 0,9984 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 8) |
+| Número de Registros | 8 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o etonogestrel é um progestágeno que suprime a ovulação e afina o endométrio.
+Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, o etonogestrel é um progestágeno que suprime a ovulação e afina o endométrio.
 
-A relação com a nova indicação é, na prática, **invertida**: a amenorreia é um efeito esperado do uso do implante (um padrão de sangramento comum), e não uma condição que ele trate. Usar um progestágeno para tratar amenorreia patológica seria mecanisticamente contraintuitivo, pois a exposição ao progestágeno induz, e não resolve, a amenorreia. A pontuação alta do TxGNN provavelmente reflete a associação fármaco-doença no grafo de conhecimento, e não um sinal terapêutico.
+A amenorreia é um padrão de sangramento comum e esperado com o uso do implante. Ou seja, trata-se mais de um efeito farmacológico esperado do que de uma indicação terapêutica. Usar o fármaco para tratar amenorreia patológica seria mecanisticamente contraditório, pois a exposição a progestágenos induz a amenorreia, em vez de resolvê-la.
 
-### Outras previsões avaliadas
-
-As demais previsões do modelo também permanecem em **Hold**:
-
-| Doença prevista | Pontuação TxGNN | Nível | Observação |
-|------|------|------|------|
-| Doença fibrocística da mama | 99,61% | L5 | Racional hormonal plausível, mas sem estudos |
-| Adenose apócrina da mama | 99,29% | L5 | Apenas previsão baseada em grafo |
-| Adenose de ductos obtusos da mama | 99,29% | L5 | Mesma pontuação da anterior, sugerindo sinal compartilhado do grafo |
-| Displasia mamária benigna | 99,21% | L5 | Apenas previsão |
-| Necrose gordurosa da mama | 98,99% | L5 | Sem mecanismo hormonal crível (causa traumática/cirúrgica) |
-| Abscesso mamário | 98,99% | L5 | Condição infecciosa, sem mecanismo plausível |
-| Doença da lactação | 98,93% | L4 | Evidência indireta sobre contracepção na lactação, não tratamento |
-| Adenose mamária | 98,86% | L5 | Sem evidência clínica |
-| Acne | 98,69% | L4 | A acne é um evento adverso documentado do implante; sinal oposto ao benefício |
+A pontuação alta do TxGNN provavelmente reflete a associação entre o fármaco e a doença nos dados usados pelo modelo, e não um sinal terapêutico real. Por isso, a previsão deve ser interpretada com muita cautela.
 
 ## Evidências de Ensaios Clínicos
 
@@ -81,33 +67,33 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Para amenorreia, a única publicação associada não tem relação com a indicação. Para outras previsões, há duas publicações relevantes, apresentadas separadamente.
-
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [33430924](https://pubmed.ncbi.nlm.nih.gov/33430924/) | 2021 | Protocolo de RCT (não relacionado) | Trials | Protocolo do estudo COVA (BIO101 na deterioração respiratória em COVID-19). Sem relação com etonogestrel ou amenorreia |
-| [26410174](https://pubmed.ncbi.nlm.nih.gov/26410174/) | 2016 | Revisão sistemática | Contraception | Uso de contraceptivos somente com progestágeno em mulheres que amamentam; evidência indireta sobre segurança e lactação (previsão: doença da lactação) |
-| [11861056](https://pubmed.ncbi.nlm.nih.gov/11861056/) | 2002 | Dados agrupados de ensaios clínicos (segurança) | Contraception | Eventos adversos não menstruais com implantes contraceptivos; a acne aparece como evento adverso, não como benefício (previsão: acne) |
+| [33430924](https://pubmed.ncbi.nlm.nih.gov/33430924/) | 2021 | Protocolo de RCT (não relacionado) | Trials | Protocolo de estudo do BIO101 para prevenir deterioração respiratória em pacientes com pneumonia por COVID-19; não aborda etonogestrel nem amenorreia |
+
+## Informações de Comercialização no Brasil
+
+Os dados compilados indicam situação de comercialização "Comercializado", com 5 registros válidos e 3 cancelados. A lista detalhada de registros não está disponível nos dados compilados.
 
 ## Considerações de Segurança
 
-- **Contraindicações (derivadas do grafo de conhecimento, não do texto da bula):** hipertensão, epilepsia, transtornos de ansiedade e neuróticos, distimia, porfirias, doença renal, doença hepática, doença da vesícula biliar, lúpus eritematoso sistêmico, asma, diabetes mellitus e cetoacidose diabética, hipertrigliceridemia, hiperlipidemia, carcinoma de mama feminino, tromboflebite, enxaqueca, doença arterial coronariana e obesidade.
-- **Interações Medicamentosas:** foram identificadas 100 interações no total; entre as listadas, todas de gravidade **moderada**, destacam-se antidiabéticos (acarbose, metformina, glimepiride, clorpropamida), inibidores de SGLT2 (canagliflozina, dapagliflozina, empagliflozina), inibidores de DPP-4 (alogliptina, saxagliptina), agonistas de GLP-1 (albiglutida, dulaglutida, semaglutida), insulinas (asparte, degludeca, detemir, glargina, glulisina), além de aprepitanto, claritromicina e linaclotida.
+- **Contraindicações (relações de bases de dados, não texto de bula):** hipertensão, epilepsia, transtornos de ansiedade, porfirias, doença renal, doença hepática, doença da vesícula biliar, lúpus eritematoso sistêmico, asma, diabetes mellitus e cetoacidose diabética, hipertrigliceridemia, hiperlipidemia, carcinoma de mama feminino, tromboflebite, enxaqueca, doença arterial coronariana e obesidade.
+- **Interações Medicamentosas:** foram identificadas 100 interações; as listadas são de gravidade moderada, com antidiabéticos (acarbose, metformina, glimepiride, clorpropamida, inibidores de DPP-4 e SGLT2, agonistas de GLP-1 como semaglutida e dulaglutida, insulinas), além de aprepitanto, claritromicina e linaclotida.
 
-Consulte a bula para advertências e contraindicações oficiais, pois não foram obtidos dados da bula da ANVISA.
+Consulte a bula para informações complementares de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal (amenorreia) é apenas computacional (L5) e mecanisticamente contraditória, já que a amenorreia é um efeito esperado do fármaco. Não há ensaios clínicos, o fármaco não está comercializado no Brasil e as demais previsões também carecem de evidência direta.
+- Não há ensaios clínicos nem estudos que avaliem diretamente o etonogestrel na amenorreia, e o mecanismo conhecido (indução de amenorreia) vai contra uma finalidade terapêutica. A previsão é apenas computacional (nível L5).
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
-- Complementar os dados de mecanismo de ação (consulta ao DrugBank)
-- Reavaliar a relevância das previsões com revisão da literatura dirigida, priorizando indicações com racional plausível (por exemplo, doenças benignas da mama)
-- Confirmar a situação regulatória e as vias de administração disponíveis no Brasil
+- Dados do mecanismo de ação (MOA) detalhados
+- Texto da bula da ANVISA (advertências e contraindicações)
+- Revisão da plausibilidade clínica por especialista em ginecologia/endocrinologia
+- Estudos que avaliem diretamente o etonogestrel em amenorreia, caso a hipótese seja mantida
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

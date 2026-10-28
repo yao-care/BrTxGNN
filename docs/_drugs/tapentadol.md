@@ -4,17 +4,17 @@ title: Tapentadol
 parent: Apenas Predição do Modelo (L5)
 nav_order: 606
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-13
-description: "Tapentadol: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Tapentadol"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "insomnia (disease)", "headache disorder", "nephrogenic syndrome of inappropriate antidiuresis", "trigeminal autonomic cephalalgia", "anxiety"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
+description: "Tapentadol: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Tapentadol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Tapentadol: De analgésico opioide para enxaqueca (previsão do modelo)
+## Tapentadol: Enxaqueca (migraine disorder)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,21 +45,21 @@ O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível nos dados compilados (sem registro ativo na ANVISA) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
-| Pontuação de Previsão TxGNN | 99,67% |
+| Pontuação de Previsão TxGNN | 0.9967 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 4) |
+| Número de Registros | 4 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Os dados compilados não trazem informações detalhadas sobre o mecanismo de ação registrado. Segundo informações conhecidas, o tapentadol combina agonismo do receptor μ-opioide com inibição da recaptação de noradrenalina, o que poderia modular vias centrais de dor.
 
-Essa ligação com a dor é a base plausível da previsão: a enxaqueca é uma condição dolorosa e, no grafo de conhecimento, está próxima de outros nós de dor e cefaleia. Contudo, a plausibilidade é limitada. Opioides em geral são desencorajados na enxaqueca por causa do risco de cefaleia por uso excessivo de medicamentos, cronificação, dependência e eficácia limitada.
+Essa ligação com a dor é a base plausível da previsão: a enxaqueca é uma condição dolorosa e a previsão do modelo TxGNN (deep learning) pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, como outras condições de dor e cefaleia, e não evidência biológica. Contudo, a plausibilidade é limitada. Opioides em geral são desencorajados na enxaqueca por causa do risco de cefaleia por uso excessivo de medicamentos, cronificação, dependência e eficácia limitada.
 
-A pontuação alta (0,997) não é acompanhada de nenhum ensaio clínico ou publicação sobre tapentadol em enxaqueca. A previsão deve, portanto, ser tratada como hipótese a ser investigada, não como evidência de benefício.
+A pontuação alta (0,9967) não é acompanhada de nenhum ensaio clínico ou publicação sobre tapentadol em enxaqueca. A previsão deve, portanto, ser tratada como hipótese a ser investigada, não como evidência de benefício.
 
 ## Evidências de Ensaios Clínicos
 
@@ -90,13 +90,12 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta, porém sem nenhum ensaio clínico ou estudo direto (nível L5). Há desencorajamento do uso de opioides em enxaqueca e sinais de risco (abuso, interação serotoninérgica), e o fármaco não está comercializado no Brasil.
+- A previsão tem pontuação alta, porém sem nenhum ensaio clínico ou estudo direto (nível L5).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula/advertências e contraindicações da ANVISA (lacuna bloqueante para a triagem de segurança)
 - Complementar os dados de mecanismo de ação em fonte estruturada (ex.: DrugBank)
 - Buscar estudos pré-clínicos ou clínicos de tapentadol em enxaqueca/cefaleia que justifiquem avançar
-- Avaliar o balanço risco-benefício frente às alternativas estabelecidas (triptanos, gepantes, AINEs) e o risco de cefaleia por uso excessivo de medicamentos
 - Definir a situação regulatória no Brasil (sem registro ativo) e a compatibilidade de vias de administração
 ## Aviso de isenção de responsabilidade
 

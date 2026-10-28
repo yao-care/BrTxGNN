@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Fenticonazole
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 315
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-13
 description: "Fenticonazole: nova indicação prevista, Vulvovaginite tricomonásica (trichomonal vulvovaginitis) (nível de evidência L4). Indicação original: Antimicóticos para uso tópico"
@@ -14,7 +14,7 @@ predicted_indications: ["trichomonal vulvovaginitis", "postmenopausal atrophic v
 # Fenticonazole
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **6** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-## Fenticonazol: De antimicótico tópico a tricomoníase vulvovaginal
+## Fenticonazol: De antimicótico tópico a Vulvovaginite tricomonásica
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,10 +48,10 @@ O maior volume de evidências (**20 publicações**) refere-se à **vulvovaginit
 |------|------|
 | Indicação Original | Antimicóticos para uso tópico |
 | Nova Indicação Prevista | Vulvovaginite tricomonásica (trichomonal vulvovaginitis) |
-| Pontuação de Previsão TxGNN | 99,50% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 5 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9950 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -111,7 +111,7 @@ Observação: os dados disponíveis incluem apenas um estudo farmacocinético, q
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para vulvovaginite tricomonásica baseia-se apenas na pontuação do modelo (nível L4), sem ensaios clínicos e sem dados específicos de eficácia contra *Trichomonas*. Além disso, todos os 5 registros no Brasil estão cancelados, o que limita a viabilidade a curto prazo.
+A previsão para vulvovaginite tricomonásica baseia-se apenas na pontuação do modelo (nível L4), sem ensaios clínicos e sem dados específicos de eficácia contra *Trichomonas*. Além disso, o medicamento é comercializado no Brasil, com 5 registros válidos de 5.
 
 **Para prosseguir, é necessário:**
 - Dados específicos de atividade do fenticonazol contra *Trichomonas vaginalis* (estudos in vitro e clínicos), comparados ao metronidazol, que é o tratamento padrão

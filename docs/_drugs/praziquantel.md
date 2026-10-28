@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Praziquantel
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 544
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Praziquantel: nova indicação prevista, Leiomiossarcoma epitelioide do corpo uterino (uterine corpus epitheli… (nível de evidência L5). Indicação original: Opistorquíase, esquistossomose, enterobíase …"
-monitor_inn: "Praziquantel"
-predicted_indications: ["uterine corpus epithelioid leiomyosarcoma", "Plasmodium falciparum malaria", "retroperitoneal sarcoma", "uterine corpus myxoid leiomyosarcoma", "anus leiomyosarcoma", "small intestinal sarcoma", "gnathomiasis", "fascioliasis", "leiomyosarcoma", "dermatofibrosarcoma protuberans"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Praziquantel: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação"
+predicted_indications: []
 ---
 
 # Praziquantel
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,41 +32,54 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Praziquantel: Da esquistossomose à uterine corpus epithelioid leiomyosarcoma (leiomiossarcoma epitelioide do corpo uterino)
+<!-- known-uses-page -->
+<!-- description: Praziquantel: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação -->
+## Praziquantel: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superior a 0,99 para o Praziquantel, portanto não há, no momento, nova indicação predita. Os usos registrados para este medicamento estão listados abaixo. Eles são usos já conhecidos e não são candidatos do modelo.
 
-Praziquantel é um anti-helmíntico originalmente usado no tratamento de opistorquíase, esquistossomose, enterobíase e triquinose.
-O modelo TxGNN prevê que pode ser eficaz para **leiomiossarcoma epitelioide do corpo uterino (uterine corpus epithelioid leiomyosarcoma)**, mas **não há ensaios clínicos nem publicações** apoiando esta direção específica; trata-se de uma previsão puramente baseada em grafo de conhecimento.
-
-## Visão Geral Rápida
-
+## Visão geral rápida
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Opistorquíase, esquistossomose, enterobíase e triquinose (conforme o grafo de conhecimento do TxGNN; não há texto de indicação de registro no Brasil) |
-| Nova Indicação Prevista | Leiomiossarcoma epitelioide do corpo uterino (uterine corpus epithelioid leiomyosarcoma) |
-| Pontuação de Previsão TxGNN | 97,28% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Hold |
+| Novas indicações preditas | Nenhuma (nenhum candidato do modelo obteve pontuação igual ou superior a 0,99) |
+| Usos conhecidos registrados para este medicamento | 4 |
+| Nível de evidência | Não se aplica |
+| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 7) |
+| Número de Registros | 7 (ativos: 1) |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos registrados para este medicamento
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o praziquantel atua nos esquistossomos ativando o canal TRPM_PZQ, o que perturba a homeostase do cálcio do parasita e causa paralisia e lesão do tegumento. Esse é o mecanismo que sustenta seu uso contra trematódeos e cestódeos.
+### Aprovados (com respaldo em registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| Nenhuma | — |
 
-Não há relação mecanística reconhecida entre essa ação antiparasitária e a biologia do sarcoma de músculo liso. A pontuação alta (0,97) vem apenas da estrutura do grafo de conhecimento e não de evidência biológica ou clínica. Por isso, a previsão deve ser tratada como hipótese a explorar, não como indicação plausível.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhuma | — |
 
-Outras previsões do modelo para o mesmo fármaco incluem outros sarcomas (retroperitoneal, leiomiossarcoma, dermatofibrossarcoma protuberans, entre outros), todos igualmente sem evidências. Já a malária por *Plasmodium falciparum*, a gnatostomíase e a fasciolíase têm alguma literatura, porém também sem comprovação de eficácia.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Enterobíase (enterobiasis) |
+| Opistorquíase (opisthorchiasis) |
+| Esquistossomose (schistosomiasis) |
+| Triquinose (trichinosis) |
 
-## Evidências de Ensaios Clínicos
+## Market information
 
-Atualmente não há ensaios clínicos relacionados registrados.
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 110630036 | FAR-MANGUINHOS PRAZIQUANTEL |  | Ativo |
+| 104070084 | PRAZIQUANTEL |  | Cancelado |
+| 100890012 | CESTOX |  | Cancelado |
+| 112330046 | LAQFA PRAZIQUANTEL |  | Cancelado |
+| 105040022 | TENIUM |  | Cancelado |
+| 118360010 | ZIQUEMAX |  | Cancelado |
+| 100890072 | CISTICID |  | Cancelado |
 
 ## Considerações de Segurança
 
@@ -81,19 +93,6 @@ Atualmente não há literatura relacionada.
 
 Para advertências e contraindicações oficiais, consulte a bula.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-A previsão para leiomiossarcoma epitelioide uterino tem apenas pontuação do modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, o fármaco não está registrado no Brasil e faltam dados de bula.
-
-**Para prosseguir, é necessário:**
-- Obter e analisar a bula da ANVISA (advertências e contraindicações), hoje uma lacuna que impede a triagem de segurança
-- Complementar os dados oficiais de mecanismo de ação (por exemplo, via DrugBank)
-- Realizar estudos pré-clínicos *in vitro* e *in vivo* em linhagens de leiomiossarcoma, para estabelecer ao menos uma plausibilidade biológica
-- Avaliar a situação regulatória: o praziquantel não possui registro vigente no Brasil
-- Priorizar, se houver interesse em reposicionamento, as previsões com alguma literatura (por exemplo, o estudo randomizado de 2026 sobre praziquantel na infecção por *P. falciparum*, PMID 41159886, que precisa de revisão do texto completo)
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

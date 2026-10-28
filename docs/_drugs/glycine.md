@@ -4,17 +4,17 @@ title: Glycine
 parent: Apenas Predição do Modelo (L5)
 nav_order: 348
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-13
-description: "Glycine: nova indicação prevista, Doença da Cavidade Nasal (Nasal Cavity Disease) (nível de evidência L5). Indicação original: Rinite alérgica, rinite vasomotora, faringite, resfriado comum…"
+indication_count: 1
 monitor_inn: "GLYCINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
+last_modified_at: 2026-10-27
+description: "Glycine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Glycine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **2** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,73 +33,63 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-## Glicina: De rinite e faringite para doença da cavidade nasal
+## Glicina: aminoácido com ação inibitória e citoprotetora → doença da cavidade nasal (nasal cavity disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-A glicina é um aminoácido originalmente associado ao tratamento de condições das vias aéreas superiores, como rinite alérgica, rinite vasomotora, faringite e resfriado comum.
-O modelo TxGNN prevê que ela pode ser eficaz para **Doença da Cavidade Nasal (Nasal Cavity Disease)**,
-mas, até o momento, há **0 ensaios clínicos relevantes** e **0 publicações relevantes** apoiando esta direção.
+A glicina é um aminoácido com papel de neurotransmissor inibitório e ação citoprotetora, registrado no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **doença da cavidade nasal (nasal cavity disease)**, mas atualmente há **0 ensaios clínicos relevantes** e **0 publicações** que estudem diretamente essa doença com a glicina.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Rinite alérgica, rinite vasomotora, faringite, resfriado comum, rinite, nasofaringite (conforme o grafo de conhecimento TxGNN; não há texto de indicação em registro da ANVISA) |
-| Nova Indicação Prevista | Doença da Cavidade Nasal (Nasal Cavity Disease) |
-| Pontuação de Previsão TxGNN | 99,85% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Doença da cavidade nasal (nasal cavity disease) |
+| Pontuação de Previsão TxGNN | 0,9985 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 8) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a glicina é um aminoácido com papel de neurotransmissor inibitório e ação citoprotetora. Isso poderia, em tese, modular a inflamação ou proteger o epitélio da mucosa nasal.
+Atualmente, não há dados detalhados sobre o mecanismo de ação da glicina nos dados compilados para este relatório. Sabe-se de forma geral que a glicina é um neurotransmissor inibitório e um aminoácido citoprotetor, o que, em tese, poderia modular a inflamação ou favorecer a proteção do epitélio da mucosa nasal.
 
-As indicações originais (rinite alérgica, rinite vasomotora, rinite e nasofaringite) pertencem à mesma família de doenças das vias aéreas superiores que a doença da cavidade nasal. Por isso, a previsão é biologicamente coerente.
-
-Ainda assim, trata-se de uma inferência computacional baseada em similaridade entre doenças, sem eficácia demonstrada. O mecanismo permanece não verificado.
+A previsão é biologicamente coerente, pois a doença prevista pertence à mesma família das afecções das vias aéreas superiores, à qual também se associam outros quadros de rinite e inflamação da nasofaringe. Ainda assim, trata-se de uma hipótese não verificada: não há evidência clínica que a sustente, e o mecanismo permanece sem comprovação.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados. O único estudo localizado na busca (NCT01806675) é um estudo de imagem diagnóstica por PET com um radiofármaco em pacientes com câncer. Ele não avalia a glicina como terapia e foi considerado sem relevância para esta indicação.
+O único ensaio retornado (NCT01806675) é um estudo de imagem diagnóstica por PET com um radiofármaco, em pacientes com câncer, e não avalia a glicina como tratamento. Por isso, não foi considerado evidência para esta indicação.
+
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura diretamente relacionada. As duas publicações recuperadas são pesquisas básicas sem relação com o uso terapêutico da glicina:
+As duas publicações retornadas são pesquisas básicas sem ligação direta com a glicina como terapia da doença da cavidade nasal:
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [7771054](https://pubmed.ncbi.nlm.nih.gov/7771054/) | 1995 | Pesquisa básica | Veterinary Pathology | Histoquímica de lectinas na mucosa nasal bovina normal e infectada por herpesvírus; sem relação com glicina |
-| [29607903](https://pubmed.ncbi.nlm.nih.gov/29607903/) | 2018 | Pesquisa básica | Chemical & Pharmaceutical Bulletin | Polímeros conjugados com oligoarginina como adjuvantes de vacinas mucosas nasais em camundongos; sem relação com glicina |
+| [29607903](https://pubmed.ncbi.nlm.nih.gov/29607903/) | 2018 | Pesquisa básica | Chemical & Pharmaceutical Bulletin | Oligoarginina conjugada a polímeros como adjuvante mucoso para indução de anticorpos nasais em camundongos; sem relação com glicina |
 
 ## Considerações de Segurança
 
-Não foram compilados dados de bula para advertências, contraindicações ou interações medicamentosas. Consulte a bula para informações de segurança.
-
-Como informação complementar (derivada do grafo de conhecimento, e não de texto de bula), a glicina aparece associada a contraindicações em condições como:
-- **Renais**: doença renal, doença renal crônica, insuficiência renal terminal, nefrolitíase, nefrocalcinose, nefropatia aguda por urato
-- **Metabolismo de cálcio e fósforo**: hipercalcemia, hiperparatireoidismo, hiperfosfatemia, sarcoidose, hipervitaminose
-- **Cardiovasculares**: doença cardíaca, doença cardiovascular, fibrilação ventricular, intoxicação digitálica, arteriosclerose obliterante
-- **Outras**: fenilcetonúria e distúrbios do metabolismo da fenilalanina, constipação, lesões ósseas metastáticas líticas
-
-Esses itens exigem confirmação na documentação regulatória antes de qualquer uso.
+Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A pontuação do modelo é muito alta (99,85%), mas não há ensaios clínicos nem literatura que sustentem o uso da glicina na doença da cavidade nasal. Não há registro no Brasil, e o mecanismo e os dados de segurança não estão documentados.
+- A pontuação do modelo é alta (0,9985), mas não há nenhum estudo clínico ou publicação que investigue diretamente a glicina na doença da cavidade nasal, o que mantém o nível de evidência em L5.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula e os dados de segurança (advertências e contraindicações) na ANVISA, o que é um impeditivo para a triagem de segurança
-- Levantar dados de mecanismo de ação (por exemplo, via DrugBank)
-- Realizar busca de literatura e estudos pré-clínicos ou clínicos específicos de glicina em doenças nasais
-- Avaliar a compatibilidade de via de administração (por exemplo, formulação nasal), ainda não definida
-- Avaliar as contraindicações derivadas do grafo de conhecimento (renais, cardiovasculares, metabolismo do cálcio e fenilcetonúria)
+- Dados do mecanismo de ação da glicina (por exemplo, via consulta ao DrugBank)
+- Bula da ANVISA com advertências e contraindicações, hoje ausentes
+- Estudos pré-clínicos ou clínicos que avaliem diretamente a glicina em doenças da cavidade nasal
+- Definição da via de administração compatível com o uso nasal
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

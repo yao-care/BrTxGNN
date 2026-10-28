@@ -8,6 +8,7 @@ nav_order: 621
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Testosterone Cypionate
@@ -51,8 +52,8 @@ Adicionalmente, foram identificadas **lacunas de dados críticos** (mecanismo de
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros ANVISA | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros ANVISA | 3 (ativos: 3) |
 | Decisão Recomendada | **Hold** |
 
 ---

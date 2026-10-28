@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Ganirrelix: De produto não classificado em classe terapêutica específica para hipertricose
+## Ganirrelix: De produto não classificado em classe terapêutica específica para Hipertricose (hypertrichosis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **hipertricose (hypertrichosis)**
 |------|------|
 | Indicação Original | Outros produtos não enquadrados em classe terapêutica específica (classificação ANVISA); uso clínico conhecido: prevenção de ovulação prematura em estimulação ovariana |
 | Nova Indicação Prevista | Hipertricose (hypertrichosis) |
-| Pontuação de Previsão TxGNN | 99,98% |
+| Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Ganirelix é um antagonista do receptor GnRH1 (gene GNRHR). Ao bloquear esse receptor na hipófise, suprime a liberação de LH e FSH e, indiretamente, reduz os esteroides sexuais gonadais. Os dados compilados para este relatório não trazem uma descrição detalhada do mecanismo de ação, apenas o alvo farmacológico e o uso clínico acima.
 
-A relação entre a indicação original e a nova indicação é fraca. A hipertricose não é primariamente impulsionada por gonadotropinas, diferentemente do hirsutismo, que depende de andrógenos. Portanto, não há vínculo mecanístico claro. A pontuação muito alta do TxGNN (99,98%) é uma previsão baseada em grafo de conhecimento e não tem respaldo em ensaios clínicos ou literatura.
+A relação entre a indicação original e a nova indicação é fraca. A hipertricose não é primariamente impulsionada por gonadotropinas, diferentemente do hirsutismo, que depende de andrógenos. Portanto, não há vínculo mecanístico claro. A pontuação muito alta do TxGNN (0,9998) é uma previsão do modelo TxGNN (aprendizado profundo) e não tem respaldo em ensaios clínicos ou literatura.
 
 Outras previsões do modelo seguem o mesmo padrão. Entre as dez principais, a maioria é composta por síndromes genéticas ou do desenvolvimento (por exemplo, síndrome de Ambras, malformação de Dandy-Walker, anormalidades genéticas da haste capilar), sem plausibilidade biológica. As mais próximas do eixo reprodutivo, e que merecem apenas investigação exploratória, são:
 
@@ -96,7 +96,7 @@ A previsão para hipertricose é apoiada apenas pelo modelo (L5), sem ensaios cl
 - Obter e analisar a bula na ANVISA para advertências e contraindicações, hoje ausentes e que bloqueiam a triagem de segurança
 - Complementar os dados detalhados de mecanismo de ação (MOA) no DrugBank
 - Realizar busca sistemática na literatura e em registros de ensaios para hipertricose e para as indicações endócrinas reprodutivas (especialmente puberdade precoce central)
-- Avaliar a situação regulatória e a disponibilidade de formas farmacêuticas, já que todos os registros estão cancelados
+- Avaliar a situação regulatória e a disponibilidade de formas farmacêuticas, considerando que o medicamento é comercializado, com 3 registros válidos de 3
 - Considerar a priorização de indicações com maior plausibilidade biológica em vez da hipertricose
 ## Aviso de isenção de responsabilidade
 

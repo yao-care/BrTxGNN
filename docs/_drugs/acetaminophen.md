@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Acetaminophen
-parent: Evidência Moderada (L3-L4)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 18
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Acetaminophen: nova indicação prevista, Enxaqueca com aura do tronco encefálico (migraine with brainstem aura) (nível de evidência L4). Indicação original: Analgésicos não narcóticos"
-monitor_inn: "Acetaminophen"
-predicted_indications: ["trigeminal autonomic cephalalgia", "atrophoderma vermiculata", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "ulerythema ophryogenesis", "fibromyalgia", "inclusion body myositis", "sciatic neuropathy"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Acetaminophen: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
+predicted_indications: []
 ---
 
 # Acetaminophen
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,67 +32,66 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Acetaminofeno (Paracetamol): De analgésico não narcótico para enxaqueca com aura do tronco encefálico
+<!-- known-uses-page -->
+<!-- description: Acetaminophen: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata -->
+## Acetaminophen: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Acetaminophen que puderam ser rastreados até uma fonte correspondem, todos, a usos já conhecidos. Por isso, atualmente não há nenhuma nova indicação prevista para este medicamento. Esta página registra a situação de mercado no Brasil e os grupos de usos conhecidos encontrados entre os candidatos.
 
-Acetaminofeno (paracetamol) é um analgésico não narcótico, originalmente registrado na ANVISA para o alívio da dor e da febre.
-O modelo TxGNN prevê que pode ser eficaz para **enxaqueca com aura do tronco encefálico (migraine with brainstem aura)**.
-Até o momento, há **0 ensaios clínicos** e **20 publicações** sobre o tema, todas indiretas, pois tratam de enxaqueca em geral e não do subtipo específico.
-
-## Visão Geral Rápida
-
+## Visão geral rápida
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Analgésicos não narcóticos |
-| Nova Indicação Prevista | Enxaqueca com aura do tronco encefálico (migraine with brainstem aura) |
-| Pontuação de Previsão TxGNN | 99,15% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 20 (todos cancelados) |
-| Decisão Recomendada | Hold |
+| Novas indicações previstas | Nenhuma (todos os candidatos do modelo que puderam ser rastreados são usos conhecidos) |
+| Usos conhecidos entre os candidatos do modelo | 0 |
+| Nível de evidência | Não se aplica |
+| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 20) |
+| Número de Registros | pelo menos 20 |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos entre os candidatos do modelo
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o acetaminofeno é um analgésico e antipirético de ação predominantemente central, com eficácia estabelecida no alívio de dor leve a moderada, e mecanisticamente pode ser aplicável a quadros de dor de cabeça.
+### Aprovadas (respaldadas por registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| Nenhuma | — |
 
-A previsão parece refletir principalmente a forte associação do fármaco com a enxaqueca em geral. A avaliação da American Headache Society (2015) o reconhece como opção de tratamento agudo da enxaqueca, e revisões sobre gestação o apontam como opção preferencial de primeira linha para sintomas nessa população.
+### Relacionadas a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhuma | — |
 
-Há, porém, uma limitação importante: a literatura recuperada trata de enxaqueca de forma ampla e de estado de mal migranoso, não da aura do tronco encefálico especificamente. Trata-se de um subtipo com considerações diagnósticas e de segurança próprias. A evidência é, portanto, indireta e extrapolada.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Nenhuma |
 
-## Evidências de Ensaios Clínicos
+## Market information
 
-Atualmente não há ensaios clínicos relacionados registrados.
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 162410009 | PARACETAMOL |  | Ativo |
+| 100410163 | PARACETAMOL |  | Ativo |
+| 109630049 | PARACETAMOL |  | Ativo |
+| 167250010 | PARACETAMOL |  | Ativo |
+| 147610028 | PARACETAMOL |  | Ativo |
+| 118190187 | PARACETAMOL |  | Ativo |
+| 154230008 | PARACETAMOL |  | Ativo |
+| 100850148 | PARACETAMOL |  | Ativo |
+| 103110178 | PARACETAMOL |  | Ativo |
+| 103110179 | PARACETAMOL |  | Ativo |
+| 143810109 | PARACETAMOL |  | Ativo |
+| 115600235 | PARACETAMOL |  | Ativo |
+| 108840327 | PARACETAMOL |  | Ativo |
+| 118190041 | PARACETAMOL |  | Ativo |
+| 102350418 | PARACETAMOL |  | Ativo |
+| 192900010 | PARACETAMOL |  | Ativo |
+| 103700736 | PARACETAMOL |  | Ativo |
+| 147610016 | PARACETAMOL |  | Ativo |
+| 106890213 | PARACETAMOL |  | Ativo |
+| 121420001 | PARACETAMOL |  | Ativo |
 
-## Evidências da Literatura
-
-Foram listadas as publicações mais relevantes, priorizando estudos controlados e revisões de maior nível.
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [10321417](https://pubmed.ncbi.nlm.nih.gov/10321417/) | 1999 | Ensaios randomizados controlados por placebo (análise retrospectiva de 3 estudos) | Clinical Therapeutics | Combinação de acetaminofeno, ácido acetilsalicílico e cafeína no tratamento de enxaqueca associada à menstruação, comparada à não menstrual |
-| [11318886](https://pubmed.ncbi.nlm.nih.gov/11318886/) | 2001 | Estudo comparativo | Headache | Isometepteno + dicloralfenazona + acetaminofeno comparado ao sumatriptano em enxaqueca leve a moderada |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Revisão | Headache | Avaliação da American Headache Society sobre as farmacoterapias para tratamento agudo da enxaqueca em adultos |
-| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Revisão | Handbook of Clinical Neurology | Estado de mal migranoso: definição, impacto funcional e carga para os serviços de saúde |
-| [30470274](https://pubmed.ncbi.nlm.nih.gov/30470274/) | 2019 | Revisão | Neurologic Clinics | Cefaleia na gestação e no puerpério; acetaminofeno como tratamento sintomático de primeira linha |
-| [39493026](https://pubmed.ncbi.nlm.nih.gov/39493026/) | 2024 | Revisão | Cureus | Terapias abortivas e profiláticas da enxaqueca na gestação |
-| [16018227](https://pubmed.ncbi.nlm.nih.gov/16018227/) | 2005 | Revisão | Pediatric Annals | Tratamento da enxaqueca pediátrica, com terapias agudas e preventivas |
-| [23203776](https://pubmed.ncbi.nlm.nih.gov/23203776/) | 2013 | Revisão | Current Treatment Options in Neurology | Diagnóstico e tratamento da enxaqueca hemiplégica familiar e esporádica |
-| [33525313](https://pubmed.ncbi.nlm.nih.gov/33525313/) | 2021 | Revisão | Neurology International | Ubrogepante no tratamento agudo da enxaqueca; menciona o acetaminofeno entre as opções para casos leves a moderados |
-| [14756851](https://pubmed.ncbi.nlm.nih.gov/14756851/) | 2004 | Ensaio fase II, cruzado | Headache | Eficácia do diclofenaco, com ou sem cafeína, em enxaqueca sem aura (não envolve acetaminofeno diretamente) |
-
-## Informações de Comercialização no Brasil
-
-Todos os 20 registros encontrados estão cancelados. Os cinco principais são:
-
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 162410009 | Paracetamol | Não informada | Analgésicos não narcóticos |
-| Registro nº 100410163 | Kabipamol | Não informada | Analgésicos |
-| Registro nº 109630049 | Paracetamol | Não informada | Analgésicos não narcóticos |
-| Registro nº 147610028 | Tilenati | Não informada | Analgésicos não narcóticos |
-| Registro nº 118190187 | Multigrip Dor e Febre | Não informada | Analgésicos não narcóticos |
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
 
 ## Considerações de Segurança
 
@@ -102,30 +100,6 @@ Todos os 20 registros encontrados estão cancelados. Os cinco principais são:
 
 Consulte a bula para as advertências e contraindicações oficiais.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-- A previsão tem pontuação alta, mas se apoia apenas em evidência indireta de enxaqueca em geral, sem nenhum ensaio clínico e sem estudos específicos de aura do tronco encefálico. Além disso, todos os registros brasileiros do fármaco estão cancelados.
-
-**Para prosseguir, é necessário:**
-- Obter e analisar a bula oficial da ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
-- Complementar os dados do mecanismo de ação.
-- Buscar evidências específicas para enxaqueca com aura do tronco encefálico, incluindo considerações de segurança desse subtipo.
-- Esclarecer a situação regulatória atual do acetaminofeno no Brasil, já que todos os registros listados constam como cancelados.
-
-## Outras Indicações Previstas (Contexto)
-
-Os demais candidatos do modelo têm evidência mais limitada ou apenas sintomática:
-
-| Posição | Indicação | Pontuação TxGNN | Nível | Observação |
-|------|------|------|------|------|
-| 2 | Cefaleia autonômica trigeminal | 98,58% | L4 | Responde mal a analgésicos simples; sem evidência direta. Hold |
-| 4 | Tendinite | 94,58% | L4 | Apenas alívio sintomático; AINEs são preferidos |
-| 8 | Fibromialgia | 90,84% | L3 | Evidência refere-se à combinação tramadol/acetaminofeno; efeito isolado não estabelecido |
-| 10 | Neuropatia ciática | 86,63% | L3 | Um RCT (2016) comparou paracetamol IV e morfina em ciática; efeito modesto, apenas analgesia |
-| 3, 5, 6, 7, 9 | Atrofoderma vermiculata, miosite fibrosa, miosite granulomatosa idiopática, uleritema ofriogênico, miosite com corpúsculos de inclusão | 89,17% a 94,71% | L5 | Apenas previsão computacional, sem plausibilidade mecanística. Hold |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

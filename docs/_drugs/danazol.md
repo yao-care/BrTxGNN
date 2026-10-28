@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Danazol
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 250
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Danazol: nova indicação prevista, Amenorreia (Amenorrhea) (nível de evidência L3). Indicação original: Endometriose (indicações originais do grafo de conhecimento: endometr…"
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
+last_modified_at: 2026-10-27
+description: "Danazol: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Danazol
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,100 +33,69 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Danazol: Da endometriose à amenorreia
+## Danazol: antigonadotrófico androgênico sintético → Amenorreia (amenorrhea)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Danazol é um esteroide sintético com ação antigonadotrópica, originalmente usado no tratamento da endometriose e da doença fibrocística da mama.
-O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (Amenorrhea)**,
-atualmente com **0 ensaios clínicos** registrados e **20 publicações** apoiando esta direção (predominantemente revisões e estudos clínicos antigos).
-
----
+Danazol é um esteroide sintético com ação antigonadotrófica e androgênica.
+O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (amenorrhea)**. Atualmente não há ensaios clínicos registrados, mas há **20 publicações** na literatura relacionadas a esta direção, em sua maioria revisões e estudos clínicos indiretos.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Endometriose (indicações originais do grafo de conhecimento: endometriose, endometriose do útero, doença fibrocística da mama) |
-| Nova Indicação Prevista | Amenorreia (Amenorrhea) |
-| Pontuação de Previsão TxGNN | 99,99% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Amenorreia (amenorrhea) |
+| Pontuação de Previsão TxGNN | 1,0000 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
+| Número de Registros | 4 (ativos: 1) |
 | Decisão Recomendada | Hold |
-
----
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo a literatura disponível, o danazol é um esteroide sintético derivado da 17α-etiniltestosterona, com efeito antigonadotrópico: suprime o eixo hipófise-ovário (reduzindo LH/FSH), diminui a esteroidogênese ovariana e induz atrofia endometrial. Também atua em receptores de androgênio, progesterona e estrogênio e tem efeitos imunorreguladores.
+Atualmente, não há dados detalhados sobre o mecanismo de ação registrados nos dados compilados para este relatório. Segundo a literatura, o danazol suprime o eixo hipófise-ovário (redução do pico de LH/FSH), diminui a esteroidogênese ovariana e induz atrofia endometrial.
 
-A endometriose é uma doença dependente de estrogênio, cujas lesões regridem em estados de baixa atividade ovariana, como a amenorreia. A amenorreia é, portanto, um efeito farmacológico bem documentado do danazol no tratamento da endometriose. Isso torna a ligação mecanística direta.
+A amenorreia é um efeito farmacológico bem descrito do danazol no tratamento da endometriose e é aproveitada para supressão menstrual. O vínculo mecanístico é, portanto, direto, embora a amenorreia seja mais um efeito esperado do que um alvo de doença no sentido convencional.
 
-Há, porém, uma ressalva importante: a amenorreia aqui é mais um efeito esperado do fármaco do que uma doença-alvo no sentido convencional. O uso mais plausível é a **supressão menstrual** (por exemplo, em pessoas transgênero e não binárias, conforme coorte retrospectiva multicêntrica de 2024), e não o tratamento de amenorreia patológica. Essa distinção deve orientar qualquer desenvolvimento.
-
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
+Um ponto importante: nenhum dos estudos citados avalia especificamente a amenorreia como doença a ser tratada. O estudo mais próximo é uma coorte retrospectiva multicêntrica (2024) sobre o uso de danazol para supressão menstrual em pessoas transgênero, que é uma aplicação distinta. Por isso, o nível de evidência é limitado a L5, mesmo havendo plausibilidade mecanística.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [39051650](https://pubmed.ncbi.nlm.nih.gov/39051650/) | 2024 | Coorte retrospectiva multicêntrica | Women's Health (London) | Uso de danazol para supressão menstrual em indivíduos transgênero e não binários; induz amenorreia, com efeitos androgênicos reversíveis (pigmentação de pelos, mudanças na voz) |
-| [2523321](https://pubmed.ncbi.nlm.nih.gov/2523321/) | 1989 | Estudo clínico comparativo (randomizado) | Fertility and Sterility | Gestrinona vs. danazol (600 mg/dia) em 39 pacientes inférteis com endometriose, por 6 meses; avaliação de amenorreia e regressão da doença |
-| [2140996](https://pubmed.ncbi.nlm.nih.gov/2140996/) | 1990 | Estudo duplo-cego randomizado | Fertility and Sterility | Nafarelina vs. danazol em 82 pacientes com endometriose; ambos levaram a regressão significativa da doença ativa, mas não das aderências |
-| [6210867](https://pubmed.ncbi.nlm.nih.gov/6210867/) | 1982 | Estudo duplo-cego de doses | Obstetrics and Gynecology | Danazol 100–600 mg/dia por 6 meses em 27 mulheres; resposta clínica variou conforme a dose |
-| [2404115](https://pubmed.ncbi.nlm.nih.gov/2404115/) | 1990 | Revisão | J Reprod Med | Danazol inibe gonadotrofinas, suprime a gametogênese e a esteroidogênese e tem efeitos imunorreguladores |
-| [16280355](https://pubmed.ncbi.nlm.nih.gov/16280355/) | 2006 | Revisão | Human Reproduction Update | Na endometriose, as lesões regridem em estados de baixa atividade ovariana, como a amenorreia |
-| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Revisão | Menopause | Terapias farmacológicas para sangramento uterino anormal, com abordagem baseada em evidências |
-| [1533675](https://pubmed.ncbi.nlm.nih.gov/1533675/) | 1992 | Revisão | J R Army Med Corps | Indução de amenorreia (contraceptivos contínuos, análogos de GnRH) em pessoal feminino mobilizado |
-| [36434439](https://pubmed.ncbi.nlm.nih.gov/36434439/) | 2023 | Revisão sistemática (gestrinona, comparador) | Arch Gynecol Obstet | Segurança e eficácia da gestrinona, que induz atrofia endometrial e/ou amenorreia, na endometriose |
-| [6819580](https://pubmed.ncbi.nlm.nih.gov/6819580/) | 1982 | Revisão/relato clínico | Prog Clin Biol Res | Danazol suprime a função ovariana e melhora as chances de concepção na endometriose |
-
----
+| [39051650](https://pubmed.ncbi.nlm.nih.gov/39051650/) | 2024 | Coorte retrospectiva | Women's Health (London) | Uso de danazol para supressão menstrual em pessoas transgênero e não binárias; indução de amenorreia com efeitos androgênicos reversíveis |
+| [2523321](https://pubmed.ncbi.nlm.nih.gov/2523321/) | 1989 | Estudo clínico comparativo | Fertility and Sterility | Gestrinona vs. danazol em 39 pacientes com endometriose; avaliação de amenorreia e regressão da doença |
+| [2140996](https://pubmed.ncbi.nlm.nih.gov/2140996/) | 1990 | Ensaio randomizado duplo-cego | Fertility and Sterility | Nafarelina vs. danazol em 82 pacientes com endometriose; ambos levaram a regressão significativa da doença ativa |
+| [6210867](https://pubmed.ncbi.nlm.nih.gov/6210867/) | 1982 | Estudo duplo-cego | Obstetrics and Gynecology | Danazol em 4 doses baixas (100–600 mg/dia) por 6 meses em endometriose; resposta clínica variou conforme a dose |
+| [2404115](https://pubmed.ncbi.nlm.nih.gov/2404115/) | 1990 | Revisão | J Reprod Med | Danazol inibe gonadotrofinas e suprime a esteroidogênese gonadal e adrenal, com efeitos imunorreguladores |
+| [1533675](https://pubmed.ncbi.nlm.nih.gov/1533675/) | 1992 | Revisão | J R Army Med Corps | Métodos de indução de amenorreia, incluindo contraceptivos contínuos e análogos de GnRH |
+| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Revisão | Menopause | Terapias farmacológicas para sangramento uterino anormal |
+| [16280355](https://pubmed.ncbi.nlm.nih.gov/16280355/) | 2006 | Revisão | Hum Reprod Update | Manejo da endometriose; lesões regridem em estados de amenorreia ou menopausa |
+| [6819580](https://pubmed.ncbi.nlm.nih.gov/6819580/) | 1982 | Revisão/relato clínico | Prog Clin Biol Res | Danazol no tratamento de endometriose e infertilidade |
+| [36434439](https://pubmed.ncbi.nlm.nih.gov/36434439/) | 2023 | Revisão sistemática | Arch Gynecol Obstet | Gestrinona na endometriose (comparador, não danazol) |
 
 ## Considerações de Segurança
 
-- **Contraindicações descritas no grafo de conhecimento (não extraídas de bula):** epilepsia, porfiria (hereditária e outros distúrbios do metabolismo das porfirinas), doença renal, doença hepática, doença da vesícula biliar, carcinoma de mama feminino, enxaqueca, hiperlipidemia familiar combinada e piureter.
-- **Interações medicamentosas:** foram identificadas 100 interações, e as principais estão listadas abaixo.
-  - **Grave:** cisaprida.
-  - **Moderada:** antidiabéticos (acarbose, albiglutida, alogliptina, canagliflozina, clorpropamida, acetoexamida, dapagliflozina, dulaglutida, empagliflozina, ertugliflozina, exenatida, glimepirida, glipizida, glibenclamida, insulinas), budesonida (inclusive nasal) e eliglustate.
-  - A literatura também relata interação clinicamente significativa com carbamazepina (aumento de quase 2 vezes nos níveis séricos) e rabdomiólise/pancreatite com lovastatina.
-- **Gestação e lactação:** o danazol é geralmente evitado devido aos efeitos androgênicos.
-- **Efeitos adversos androgênicos:** pigmentação de pelos e alterações da voz, em geral reversíveis.
-
-Consulte a bula para as advertências e contraindicações formais.
-
----
+- **Interações Medicamentosas** (100 interações registradas; principais exemplos):
+  - Gravidade maior: cisaprida.
+  - Gravidade moderada: antidiabéticos (acarbose, glimepirida, glipizida, gliburida, clorpropamida, insulinas, empagliflozina, dapagliflozina, canagliflozina, exenatida, dulaglutida, albiglutida, alogliptina), budesonida (inclusive nasal) e eliglustate.
+- Os dados compilados para este relatório não incluem advertências nem contraindicações extraídas da bula. Consulte a bula para essas informações.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A amenorreia é um efeito farmacológico esperado do danazol, e não uma indicação terapêutica estabelecida. Não há ensaios clínicos registrados, e a evidência é composta principalmente por revisões e estudos antigos (nível L3). Além disso, o fármaco não está registrado nem comercializado no Brasil, e o perfil de segurança (contraindicações e interações) exige cautela.
+- A plausibilidade mecanística é alta e o efeito amenorreico do danazol é conhecido, mas não há ensaios clínicos nem estudos que avaliem a amenorreia como doença-alvo. A amenorreia é um efeito esperado do fármaco, e não necessariamente um benefício terapêutico.
 
 **Para prosseguir, é necessário:**
-- Definir claramente a indicação-alvo (supressão menstrual vs. tratamento de amenorreia) e a população de interesse.
-- Obter dados do mecanismo de ação a partir de fontes oficiais (por exemplo, DrugBank).
-- Obter e analisar a bula na ANVISA para advertências e contraindicações, etapa bloqueante para a triagem de segurança.
-- Avaliar a situação regulatória no Brasil (sem registros ativos) e a viabilidade de acesso.
-- Considerar estudos prospectivos controlados, com plano de monitoramento dos efeitos androgênicos, hepáticos e lipídicos.
-
----
-
-### Observação sobre outras indicações previstas
-
-Outras previsões do modelo têm evidências variáveis:
-- **Displasia mamária benigna** e **adenose mamária** (L3): correspondem em grande parte a um uso já estabelecido (doença fibrocística da mama), com estudos clínicos da década de 1980, incluindo ensaios duplo-cegos.
-- **Adenose apócrina** e **abscesso mamário** (L4), **adenose de ducto romo**, **necrose gordurosa da mama**, **vulvovaginite** e **vulvite** (L5): apenas evidência indireta ou nenhuma; recomendação Hold.
-- **Doença da lactação** (L4): evidência indireta, com preocupações de segurança durante a lactação.
+- Definir se a indicação pretendida é a supressão menstrual terapêutica (e em qual população), e não o tratamento da amenorreia como condição clínica
+- Obter as advertências e contraindicações da bula na ANVISA
+- Dados detalhados do mecanismo de ação
+- Avaliar o perfil de segurança (efeitos androgênicos, hepáticos e lipídicos) e as interações medicamentosas relevantes
+- Estudos clínicos controlados diretamente na população-alvo
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

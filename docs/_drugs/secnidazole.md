@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Secnidazole
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 580
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-13
-description: "Secnidazole: nova indicação prevista, Corrimento vaginal (vaginal discharge) (nível de evidência L1). Indicação original: Amebicidas, giardicidas e tricomonicidas"
 monitor_inn: "Secnidazole"
-predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "trichomonal vulvovaginitis", "leukoplakia of vagina", "vulvovaginal candidiasis", "herpetic vulvovaginitis", "infective vaginitis", "bullous impetigo"]
+predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "trichomonal vulvovaginitis", "leukoplakia of vagina", "vulvovaginal candidiasis"]
+description: "Secnidazole: nova indicação prevista, Postmenopausal atrophic vaginitis (nível de evidência L5). Indicação original: AMEBICIDAS, GIARDICIDAS E TRICOMONICIDAS"
 ---
 
 # Secnidazole
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-## Secnidazol: De antiprotozoário (amebas, giárdia e tricomonas) para corrimento vaginal
+## Secnidazole: Postmenopausal atrophic vaginitis
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -50,11 +50,11 @@ atualmente com **3 ensaios clínicos** e **17 publicações** apoiando esta dire
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Amebicidas, giardicidas e tricomonicidas |
-| Nova Indicação Prevista | Corrimento vaginal (vaginal discharge) |
-| Pontuação de Previsão TxGNN | 99,41% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Indicação Original | AMEBICIDAS, GIARDICIDAS E TRICOMONICIDAS |
+| Nova Indicação Prevista | Postmenopausal atrophic vaginitis |
+| Pontuação de Previsão TxGNN | 0.9970 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -99,7 +99,7 @@ Importante: as evidências disponíveis referem-se à vaginose bacteriana e à t
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados; atualmente não há produto de secnidazol com registro válido nos dados compilados. Os 5 principais:
+Há 20 registros válidos de secnidazol nos dados compilados, e o medicamento está comercializado no Brasil. Os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -130,7 +130,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Há ensaios de Fase 3 concluídos e controlados por placebo, além de revisões sistemáticas, para vaginose bacteriana e tricomoníase, as principais causas de corrimento vaginal. Trata-se, porém, de uma extensão da indicação original, e todos os registros no Brasil estão cancelados.
+- Há ensaios de Fase 3 concluídos e controlados por placebo, além de revisões sistemáticas, para vaginose bacteriana e tricomoníase, as principais causas de corrimento vaginal. Trata-se, porém, de uma extensão da indicação original, e o medicamento está comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Confirmar a disponibilidade local do produto e a situação regulatória, já que não há registro válido

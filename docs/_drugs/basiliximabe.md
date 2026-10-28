@@ -8,6 +8,7 @@ nav_order: 108
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Basiliximabe
@@ -51,8 +52,8 @@ O pacote apresenta lacunas críticas de dados em múltiplas camadas, o que invia
 | Nova Indicação Prevista | Sem previsões geradas pelo TxGNN |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | Não aplicável |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros ANVISA | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros ANVISA | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

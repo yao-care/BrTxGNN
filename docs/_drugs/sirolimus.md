@@ -4,7 +4,7 @@ title: Sirolimus
 parent: Evidência Moderada (L3-L4)
 nav_order: 587
 evidence_level: L3
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-13
 description: "Sirolimus: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L3). Indicação original: Agente imunossupressor"
 monitor_inn: "Sirolimus"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine co
 # Sirolimus
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L3** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Hoje essa direção conta com **1 ensaio clínico** e **7 publicações**, mas s
 |------|------|
 | Indicação Original | Agente imunossupressor |
 | Nova Indicação Prevista | Lipossarcoma (Liposarcoma) |
-| Pontuação de Previsão TxGNN | 99,89% |
+| Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -121,7 +121,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Verificar os resultados publicados do NCT02821507 e a contribuição isolada do sirolimo na combinação.
 - Buscar evidência randomizada ou comparativa específica para lipossarcoma.
 - Avaliar o plano de monitoramento de interações e a exigência de nível sérico (vale mínimo) do sirolimo.
-- Considerar a priorização de outras indicações previstas para o mesmo fármaco, com evidência mais forte. A mais robusta é a **linfangioleiomiomatose (lymphangiomyoma)**, com pontuação de 99,79%. Ela tem nível L1, incluindo o ensaio de Fase 3 MILES (NCT00414648, n=89), e é elegível a "Proceed with Guardrails".
+- Considerar a priorização de outras indicações previstas para o mesmo fármaco, com evidência mais forte. A mais robusta é a **linfangioleiomiomatose (lymphangiomyoma)**, com pontuação de 0,9979. Ela tem nível L1, incluindo o ensaio de Fase 3 MILES (NCT00414648, n=89), e é elegível a "Proceed with Guardrails".
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

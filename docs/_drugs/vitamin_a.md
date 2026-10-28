@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Vitamin A: nova indicação prevista, Deficiência congênita de protrombina (congenital prothrombin deficien… (nível de evidência L5). Indicação original: Distúrbio de deficiência vitamínica / deficiênc…"
 monitor_inn: "Vitamin A"
-predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "segmental odontomaxillary dysplasia", "florid cemento-osseous dysplasia", "perinatal disease", "disease by subcellular system affected", "radiation or chemically induced disorder"]
+predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "radiation or chemically induced disorder"]
 ---
 
 # Vitamin A
@@ -39,7 +39,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 ## Resumo em Uma Frase
 
 A vitamina A é um nutriente essencial, originalmente usado no tratamento de distúrbios de deficiência vitamínica e da deficiência de vitamina A.
-O modelo TxGNN prevê que pode ser eficaz para **deficiência congênita de protrombina (congenital prothrombin deficiency)**, mas **não há nenhum ensaio clínico nem publicação** apoiando esta direção. A previsão baseia-se apenas na estrutura do grafo de conhecimento.
+O modelo TxGNN (deep learning) prevê que pode ser eficaz para **deficiência congênita de protrombina (congenital prothrombin deficiency)**, mas **não há nenhum ensaio clínico nem publicação** apoiando esta direção. A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 ---
 
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência congênita de prot
 |------|------|
 | Indicação Original | Distúrbio de deficiência vitamínica / deficiência de vitamina A |
 | Nova Indicação Prevista | Deficiência congênita de protrombina (congenital prothrombin deficiency) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 1 de 1) |
+| Número de Registros | 1 (ativos: 0) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -61,7 +61,7 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência congênita de prot
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a vitamina A (retinol) participa da visão, da diferenciação do epitélio, da imunidade e do desenvolvimento embrionário, e sua eficácia na deficiência de vitamina A é bem estabelecida.
 
-A relação com a deficiência congênita de protrombina, porém, é fraca. Trata-se de um distúrbio genético da coagulação, e a vitamina relevante para a síntese de protrombina é a vitamina K, não a vitamina A. A pontuação muito alta do modelo provavelmente reflete uma associação genérica, dentro da rede do grafo, entre fármacos da categoria "vitaminas" e distúrbios nutricionais ou metabólicos, e não um mecanismo específico.
+A relação com a deficiência congênita de protrombina, porém, é fraca. Trata-se de um distúrbio genético da coagulação, e a vitamina relevante para a síntese de protrombina é a vitamina K, não a vitamina A. A pontuação muito alta (0.9997) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica nem um mecanismo específico.
 
 Por isso, esta previsão deve ser tratada com cautela: não há base mecanística estabelecida que a sustente.
 
@@ -85,10 +85,10 @@ Embora a indicação de maior pontuação não tenha evidências, outras previs�
 
 | Indicação Prevista | Pontuação TxGNN | Nível | Observação |
 |------|------|------|------|
-| Doença perinatal (perinatal disease) | 99,63% | L1 | Várias revisões sistemáticas Cochrane (2000–2016) sobre suplementação de vitamina A em recém-nascidos de muito baixo peso para prevenir displasia broncopulmonar e mortalidade; efeitos modestos e rótulo heterogêneo. O ensaio NCT01115478 (n=2.500, concluído) trata de malária na gravidez e não é específico para vitamina A. |
-| Lesão (injury) | 99,69% | L2 | Ensaio NCT01203488 (Fase 1/2, n=807, concluído) e NCT02102711 (n=62), ambos em recém-nascidos de muito baixo peso; relaciona-se mais à lesão pulmonar neonatal do que a lesão em geral. |
-| Distúrbio de proliferação celular | 99,64% | L4 | Evidência mecanística (retinoides regulam proliferação e diferenciação); único ensaio é sobre olho seco, não sobre doença proliferativa. |
-| Distúrbio induzido por radiação ou químicos | 99,63% | L4 | Literatura indireta sobre fotoenvelhecimento e fotobiologia. |
+| Doença perinatal (perinatal disease) | 0,9963 | L1 | Várias revisões sistemáticas Cochrane (2000–2016) sobre suplementação de vitamina A em recém-nascidos de muito baixo peso para prevenir displasia broncopulmonar e mortalidade; efeitos modestos e rótulo heterogêneo. O ensaio NCT01115478 (n=2.500, concluído) trata de malária na gravidez e não é específico para vitamina A. |
+| Lesão (injury) | 0,9969 | L2 | Ensaio NCT01203488 (Fase 1/2, n=807, concluído) e NCT02102711 (n=62), ambos em recém-nascidos de muito baixo peso; relaciona-se mais à lesão pulmonar neonatal do que a lesão em geral. |
+| Distúrbio de proliferação celular | 0,9964 | L4 | Evidência mecanística (retinoides regulam proliferação e diferenciação); único ensaio é sobre olho seco, não sobre doença proliferativa. |
+| Distúrbio induzido por radiação ou químicos | 0,9963 | L4 | Literatura indireta sobre fotoenvelhecimento e fotobiologia. |
 
 As demais previsões (doença do metabolismo da biotina, malformação esofágica não sindrômica, displasia odontomaxilar segmentar, displasia cemento-óssea florida e categoria genérica "doença por sistema subcelular afetado") não têm ensaios, e a literatura disponível é geral e não testa a vitamina A como tratamento.
 
@@ -119,7 +119,7 @@ Para advertências e contraindicações em bula, consulte a bula do produto, poi
 **Decisão: Hold**
 
 **Justificativa:**
-- A indicação de maior pontuação (deficiência congênita de protrombina) é uma previsão puramente de grafo (L5), sem ensaios, sem literatura e sem mecanismo plausível; a vitamina relevante para a protrombina é a vitamina K.
+- A indicação de maior pontuação (deficiência congênita de protrombina) é uma previsão puramente do modelo TxGNN (deep learning) (L5), sem ensaios, sem literatura e sem mecanismo plausível; a pontuação pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. A vitamina relevante para a protrombina é a vitamina K.
 - O fármaco não é comercializado no Brasil, e faltam os dados de bula da ANVISA, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**

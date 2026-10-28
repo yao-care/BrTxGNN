@@ -4,17 +4,17 @@ title: Alfacalcidol
 parent: Apenas Predição do Modelo (L5)
 nav_order: 39
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-13
-description: "Alfacalcidol: nova indicação prevista, Hipoparatireoidismo isolado familiar por secreção prejudicada de PTH (nível de evidência L5). Indicação original: Hiperparatireoidismo, osteíte fibrosa…"
+indication_count: 3
 monitor_inn: "ALFACALCIDOL"
-predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
+predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
+last_modified_at: 2026-10-27
+description: "Alfacalcidol: nova indicação prevista, displasia conodisplásica craniofacial (craniofacial conodysplasia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Alfacalcidol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **5** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,63 +33,61 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-## Alfacalcidol: Do hiperparatireoidismo ao hipoparatireoidismo isolado familiar
+## Alfacalcidol: análogo ativo da vitamina D → displasia conodisplásica craniofacial (craniofacial conodysplasia)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Alfacalcidol é um análogo da vitamina D (pró-fármaco hidroxilado na posição 1-alfa), originalmente usado em hiperparatireoidismo, osteíte fibrosa, hipoparatireoidismo e osteodistrofia renal.
-O modelo TxGNN prevê que pode ser eficaz para **hipoparatireoidismo isolado familiar por secreção prejudicada de PTH (familial isolated hypoparathyroidism due to impaired PTH secretion)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** específicas apoiando esta direção; trata-se de uma previsão exclusivamente computacional.
+Alfacalcidol é um análogo da vitamina D já ativado (hidroxilado na posição 1-alfa), que atua na regulação do cálcio e do fosfato e na mineralização óssea.
+O modelo TxGNN prevê que pode ser útil para **displasia conodisplásica craniofacial (craniofacial conodysplasia)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hiperparatireoidismo, osteíte fibrosa, hipoparatireoidismo e osteodistrofia renal (segundo o grafo de conhecimento TxGNN; não há texto de indicação aprovado no Brasil) |
-| Nova Indicação Prevista | Hipoparatireoidismo isolado familiar por secreção prejudicada de PTH |
-| Pontuação de Previsão TxGNN | 99,61% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | displasia conodisplásica craniofacial (craniofacial conodysplasia) |
+| Pontuação de Previsão TxGNN | 0,9955 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o alfacalcidol é um pró-fármaco da vitamina D, convertido no fígado em calcitriol (forma ativa). Por já estar hidroxilado na posição 1-alfa, ele dispensa a enzima 1-alfa-hidroxilase renal, cuja atividade depende do PTH.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o alfacalcidol é um análogo da vitamina D com hidroxilação 1-alfa, convertido no fígado em calcitriol, a forma ativa da vitamina D. Seu papel é atuar sobre a homeostase do cálcio e do fosfato e sobre a mineralização óssea.
 
-Isso é mecanisticamente coerente com estados de deficiência de PTH. O hipoparatireoidismo já consta entre as indicações originais do fármaco, e a forma familiar isolada, com secreção de PTH prejudicada, é um subtipo dessa condição.
+A displasia conodisplásica craniofacial é um distúrbio esquelético. Um vínculo com um fármaco que age no metabolismo mineral ósseo é plausível apenas em um sentido muito geral, e nenhuma via específica foi estabelecida. A pontuação alta do TxGNN reflete uma previsão computacional baseada em rede, não uma demonstração biológica ou clínica.
 
-Por isso, a pontuação elevada (0,996) provavelmente reflete essa relação já conhecida, e não um sinal novo de reposicionamento. Não foram encontrados ensaios nem literatura específicos para este subtipo.
+Portanto, a previsão deve ser tratada como hipótese inicial, sem sustentação experimental ou clínica nos dados disponíveis.
 
-## Evidências de Ensaios Clínicos
+## Informações de Comercialização no Brasil
 
-Atualmente não há ensaios clínicos relacionados registrados.
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Situação |
+|---------|------|------|-----------|
+| 106460156 | INNOSFEN | Não informada | Cancelado |
+| 135690020 | SIGMACALCIDOL | Não informada | Válido |
+| 112130175 | ALFAD | Não informada | Cancelado |
 
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
+Dos 3 registros, 1 está válido e 2 estão cancelados. Todos são de produto de um único princípio ativo.
 
 ## Considerações de Segurança
 
-Os dados de advertências e contraindicações da bula brasileira não estavam disponíveis, e não foram identificadas interações medicamentosas nos dados compilados. Consulte a bula para informações de segurança.
-
-Como observação geral da literatura revisada para outras indicações, relatos de caso descrevem hipercalcemia e síndrome leite-álcali em pacientes com hipoparatireoidismo tratados com cálcio e vitamina D em altas doses, o que reforça a necessidade de monitorar cálcio sérico e função renal.
+Consulte a bula para informações de segurança. Não foram encontradas interações medicamentosas nos dados compilados para este relatório.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se baseia apenas no modelo (L5), sem ensaios ou publicações específicos para o subtipo familiar isolado. A pontuação alta parece refletir a indicação já conhecida (hipoparatireoidismo), e não um uso novo.
-- O fármaco não está registrado nem comercializado no Brasil, o que limita a viabilidade local.
+- Não há ensaios clínicos nem publicações sobre esta doença, e a ligação mecanística é genérica; a previsão baseia-se apenas no modelo (nível L5).
 
 **Para prosseguir, é necessário:**
-- Obter a bula e os dados regulatórios da ANVISA (advertências e contraindicações) para triagem de segurança.
-- Complementar os dados de mecanismo de ação a partir do DrugBank.
-- Realizar busca dirigida de literatura sobre alfacalcidol em hipoparatireoidismo familiar/genético com defeito de secreção de PTH.
-- Avaliar a situação regulatória no Brasil (ausência de registro) e a compatibilidade de vias de administração.
-- Considerar que outras previsões do mesmo fármaco, como a acidose tubular renal (nível L4, apenas relatos de caso de osteomalacia associada), podem merecer investigação como questão de pesquisa, mas também carecem de ensaios controlados.
+- Obter os dados de mecanismo de ação do alfacalcidol.
+- Obter advertências e contraindicações da bula na ANVISA, hoje ausentes.
+- Realizar revisão de literatura e estudos pré-clínicos que testem uma via plausível entre a vitamina D ativa e esta displasia.
+- Reavaliar a relevância da previsão após esses passos.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

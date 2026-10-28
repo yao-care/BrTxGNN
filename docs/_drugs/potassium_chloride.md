@@ -48,9 +48,9 @@ mas atualmente há **0 ensaios clínicos** e apenas literatura de baixa força (
 |------|------|
 | Indicação Original | Reposição hidroeletrolítica e alimentação parenteral |
 | Nova Indicação Prevista | Acidose Tubular Renal (Renal Tubular Acidosis) |
-| Pontuação de Previsão TxGNN | 99,87% |
+| Pontuação de Previsão TxGNN | 0,9987 |
 | Nível de Evidência | L5 (nenhum ensaio clínico; a literatura disponível é composta por relatos de caso, revisões e estudos observacionais, sem estudos que testem o fármaco na doença) |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -85,7 +85,7 @@ Foram selecionadas as publicações mais relevantes. Não há ensaios clínicos 
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontrados estão cancelados (principais 5 de 20).
+O medicamento está comercializado, com 20 registros válidos (principais 5 de 20).
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ Todos os registros encontrados estão cancelados (principais 5 de 20).
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é plausível como terapia adjuvante da hipopotassemia associada à ATR distal, mas não há ensaios clínicos nem estudos controlados; a literatura se resume a relatos de caso e revisões. Além disso, o fármaco não trata o defeito subjacente, e todos os registros no Brasil estão cancelados.
+- A previsão é plausível como terapia adjuvante da hipopotassemia associada à ATR distal, mas não há ensaios clínicos nem estudos controlados; a literatura se resume a relatos de caso e revisões. Além disso, o fármaco não trata o defeito subjacente, e o medicamento está comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a segurança ainda não pôde ser triada de forma adequada.

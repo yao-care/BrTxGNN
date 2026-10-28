@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Loperamide: nova indicação prevista, Conjuntivite contagiosa aguda (acute contagious conjunctivitis) (nível de evidência L5). Indicação original: Antidiarreicos simples sem ação antimicrobiana"
 monitor_inn: "Loperamide"
-predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "parasitic conjunctivitis", "Angelucci syndrome"]
+predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "parasitic conjunctivitis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "conjunctival folliculosis", "Angelucci syndrome"]
 ---
 
 # Loperamide
@@ -40,7 +40,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 A loperamida é um antidiarreico simples, sem ação antimicrobiana, originalmente usado para controlar a diarreia.
 O modelo TxGNN prevê que poderia ser eficaz para **conjuntivite contagiosa aguda (acute contagious conjunctivitis)**, mas **não há nenhum ensaio clínico nem publicação** que sustente essa previsão.
-A pontuação alta parece ser um artefato do grafo de conhecimento, e não uma evidência biológica.
+A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 ---
 
@@ -50,10 +50,10 @@ A pontuação alta parece ser um artefato do grafo de conhecimento, e não uma e
 |------|------|
 | Indicação Original | Antidiarreicos simples sem ação antimicrobiana |
 | Nova Indicação Prevista | Conjuntivite contagiosa aguda (acute contagious conjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 8 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -62,7 +62,7 @@ A pontuação alta parece ser um artefato do grafo de conhecimento, e não uma e
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a loperamida é um agonista dos receptores opioides mu periféricos, que age nos neurônios mioentéricos do intestino e reduz a motilidade intestinal. É essa ação que explica seu uso no alívio sintomático da diarreia.
 
-**Na prática, a previsão não é razoável.** Não foi identificado nenhum vínculo mecanístico plausível entre a inibição da motilidade intestinal mediada por opioides e a conjuntivite infecciosa. O papel da loperamida no olho não tem respaldo. A pontuação elevada (0,9997) provavelmente decorre de vizinhos compartilhados na rede do grafo, não de justificativa biológica.
+**Na prática, a previsão não é razoável.** Não foi identificado nenhum vínculo mecanístico plausível entre a inibição da motilidade intestinal mediada por opioides e a conjuntivite infecciosa. O papel da loperamida no olho não tem respaldo. A pontuação elevada (0,9997) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não justificativa biológica.
 
 O mesmo padrão aparece nas demais previsões do modelo. Das 10 principais, 7 são variações de conjuntivite ou condições oculares correlatas (com pontuações idênticas em vários casos, sinal de artefato compartilhado), e nenhuma tem ensaio clínico. As duas previsões com alguma literatura, **disenteria amebiana** e **gastroduodenite**, apontam para **risco**, não para benefício (ver "Evidências da Literatura").
 
@@ -88,7 +88,7 @@ Para a indicação principal (conjuntivite contagiosa aguda) não há literatura
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros estão cancelados; atualmente não há registro válido.
+Os 8 registros estão válidos (8 de 8); o medicamento está comercializado atualmente.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ Consulte a bula para as demais informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão não tem ensaios clínicos, literatura nem mecanismo plausível (nível L5), e a pontuação alta parece ser artefato do grafo. Não há registro válido no Brasil.
+- A previsão não tem ensaios clínicos, literatura nem mecanismo plausível (nível L5), e a pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 8 registros válidos de 8.
 - Os únicos sinais da literatura nas previsões relacionadas indicam risco, não benefício.
 
 **Para prosseguir, seria necessário:**

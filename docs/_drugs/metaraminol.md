@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Metaraminol
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 447
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Metaraminol: nova indicação prevista, Síndrome da Taquicardia Postural Ortostática (Postural Orthostatic Ta… (nível de evidência L5). Indicação original: Distúrbio hipotensivo (hipotensão)"
-monitor_inn: "Metaraminol"
-predicted_indications: ["postural orthostatic tachycardia syndrome", "urticaria (disease)", "variably protease-sensitive prionopathy", "mitral valve prolapse (disease)", "common cold", "MVP1", "irritable bowel syndrome", "familial mitral valve prolapse", "multiple system atrophy", "angioedema"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Metaraminol: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
+predicted_indications: []
 ---
 
 # Metaraminol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +32,45 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Metaraminol: Da hipotensão à síndrome da taquicardia postural ortostática
+<!-- known-uses-page -->
+<!-- description: Metaraminol: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata -->
+## Metaraminol: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+Os candidatos do modelo TxGNN para o Metaraminol (pontuação ≥ 0,99) correspondem todos a usos já conhecidos. Por isso, atualmente não há nenhuma nova indicação prevista para este medicamento.
 
-Metaraminol é um simpaticomimético de ação direta e indireta, originalmente usado no tratamento de distúrbios hipotensivos (hipotensão).
-O modelo TxGNN prevê que pode ser eficaz para **Síndrome da Taquicardia Postural Ortostática (Postural Orthostatic Tachycardia Syndrome, POTS)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção: trata-se apenas de uma previsão computacional.
-
-## Visão Geral Rápida
-
+## Visão geral
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Distúrbio hipotensivo (hipotensão) |
-| Nova Indicação Prevista | Síndrome da Taquicardia Postural Ortostática (Postural Orthostatic Tachycardia Syndrome) |
-| Pontuação de Previsão TxGNN | 98,03% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Hold |
+| Novas indicações previstas | Nenhuma (todos os candidatos do modelo que podem ser rastreados até uma fonte são usos conhecidos) |
+| Usos conhecidos entre os candidatos do modelo | 1 |
+| Nível de evidência | Não se aplica |
+| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos entre os candidatos do modelo
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o metaraminol é um simpaticomimético de ação direta e indireta, com atividade predominantemente agonista alfa-1 adrenérgica, que produz vasoconstrição e elevação da pressão arterial. Sua eficácia em hipotensão é conhecida, e mecanisticamente pode ser aplicável a quadros de intolerância ortostática.
+### Aprovados (com respaldo em registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| Nenhum | — |
 
-Na POTS, o retorno venoso comprometido e a vasoconstrição periférica insuficiente contribuem para a intolerância ortostática. Um agente vasoconstritor poderia, em teoria, atuar sobre esse componente, o que explica a pontuação elevada do modelo.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhum | — |
 
-Há, porém, um contraponto importante: muitos pacientes com POTS apresentam estado hiperadrenérgico, e um pressor que aumente a frequência cardíaca ou a pressão arterial poderia piorar os sintomas. A previsão é puramente computacional, sem apoio de ensaios ou literatura.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Transtorno hipotensivo (hypotensive disorder) |
 
-### Outras indicações previstas
+## Market information
 
-Além da POTS, o modelo gerou outras previsões, todas com nível de evidência L5 e sem ensaios ou publicações:
-
-| Posição | Indicação prevista | Pontuação TxGNN | Avaliação |
+| Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|
-| 2 | Urticária | 95,33% | Sem fundamento mecanístico claro; urticária é mediada por mastócitos/histamina |
-| 3 | Prionopatia variavelmente sensível à protease | 94,69% | Sem conexão mecanística identificável; provável artefato da rede |
-| 4 | Prolapso da valva mitral | 93,94% | Distúrbio estrutural; o pressor não trata a causa e pode provocar arritmias |
-| 5 | Resfriado comum | 93,86% | Racional farmacológico frouxo (descongestionante); alternativas mais bem caracterizadas |
-| 6 | MVP1 (prolapso mitral genético) | 93,56% | Essencialmente duplicata do prolapso mitral; sem base mecanística |
-| 7 | Síndrome do intestino irritável | 93,25% | Sem vínculo estabelecido; efeitos pressores sistêmicos seriam indesejáveis |
-| 8 | Prolapso familiar da valva mitral | 93,18% | Outra entrada de prolapso mitral hereditário; sem apoio clínico |
-| 9 | Atrofia de múltiplos sistemas | 92,97% | Racional sintomático plausível para hipotensão ortostática neurogênica; risco de hipertensão supina |
-| 10 | Angioedema | 92,88% | Racional distante por classe; formas mediadas por bradicinina não respondem |
-
-Entre elas, a atrofia de múltiplos sistemas (hipotensão ortostática neurogênica) é a mais coerente com a indicação original, embora seja um benefício apenas sintomático.
-
-## Informações de Comercialização no Brasil
-
-O metaraminol não possui registros ativos nem comercialização no Brasil segundo os dados compilados para este relatório (0 registros).
+| 102980102 | ARAMIN |  | Ativo |
 
 ## Considerações de Segurança
 
@@ -92,19 +81,6 @@ O metaraminol não possui registros ativos nem comercialização no Brasil segun
 
 Para advertências e contraindicações, consulte a bula.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-A previsão para POTS tem pontuação alta (98,03%), mas é exclusivamente computacional (L5), sem ensaios clínicos nem literatura. O fármaco não é comercializado no Brasil, e o risco de agravar um estado hiperadrenérgico exige cautela. Os dados de mecanismo de ação e de bula também estão ausentes.
-
-**Para prosseguir, é necessário:**
-- Obter dados detalhados do mecanismo de ação (MOA), por exemplo, via DrugBank
-- Obter e analisar a bula (advertências e contraindicações) no site da ANVISA, etapa bloqueante para a triagem de segurança
-- Realizar revisão sistemática da literatura sobre vasopressores alfa-1 em POTS e em hipotensão ortostática neurogênica (atrofia de múltiplos sistemas)
-- Avaliar a viabilidade regulatória e de via de administração, dado que não há registro no Brasil
-- Se houver interesse, priorizar a atrofia de múltiplos sistemas como hipótese complementar, por sua maior coerência com a indicação original
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

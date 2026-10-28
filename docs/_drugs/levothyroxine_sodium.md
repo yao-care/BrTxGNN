@@ -8,6 +8,7 @@ nav_order: 417
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Levothyroxine Sodium
@@ -49,8 +50,8 @@ Levotiroxina Sódica é um hormônio tireoidiano sintético, classicamente utili
 | Nova Indicação Prevista | Nenhuma predição gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem predição do modelo, sem estudos identificados) |
-| Situação no Mercado Brasileiro | Não encontrado (0 registros retornados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
+| Número de Registros | 6 (ativos: 6) |
 | Decisão Recomendada | **Hold** |
 
 > ⚠️ **Atenção**: A consulta à base regulatória retornou 0 registros para Levotiroxina Sódica, o que pode indicar uma falha de busca. Levotiroxina é um fármaco amplamente comercializado no Brasil (ex.: Puran T4, Synthroid). Recomenda-se verificação manual na base ANVISA antes de interpretar este resultado como ausência de registro.

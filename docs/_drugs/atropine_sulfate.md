@@ -8,6 +8,7 @@ nav_order: 92
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Atropine Sulfate
@@ -53,8 +54,8 @@ Com os dados disponíveis, **não é possível conduzir uma análise de reposici
 | Nova Indicação Prevista | Sem previsão disponível |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 — apenas predição de modelo, sem dados reais acessíveis |
-| Situação no Mercado Brasileiro | ✗ Não localizado (0 registros) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | **Hold** |
 
 ---

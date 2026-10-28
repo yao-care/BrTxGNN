@@ -8,6 +8,7 @@ nav_order: 503
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Oxymetazoline Hydrochloride
@@ -51,8 +52,8 @@ Com isso, **não há ensaios clínicos nem publicações** vinculados a novas in
 | Nova Indicação Prevista | Não disponível — nenhuma previsão TxGNN gerada |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (ANVISA) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ---

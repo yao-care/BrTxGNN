@@ -4,7 +4,7 @@ title: Phenytoin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 524
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-13
 description: "Phenytoin: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "PHENYTOIN"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 # Phenytoin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 ## Resumo em Uma Frase
 
 A fenitoína (phenytoin) é um anticonvulsivante, registrado no Brasil na classe dos "anticonvulsivantes".
-O modelo TxGNN prevê, com maior pontuação, que ela poderia ser eficaz para **neoplasia do nervo trigêmeo (trigeminal nerve neoplasm)**, mas **não há ensaios clínicos** e as 2 publicações recuperadas tratam de neuralgia do trigêmeo e síndrome de Sturge-Weber, não de tumores. A previsão é considerada um provável artefato do grafo de conhecimento. Entre as demais previsões, a **neuralgia do trigêmeo** é a mais bem sustentada (literatura clínica, sem ensaios registrados).
+O modelo TxGNN (deep learning) prevê, com a maior pontuação (0.9999), que ela poderia ser eficaz para **neoplasia do nervo trigêmeo (trigeminal nerve neoplasm)**, mas **não há ensaios clínicos** e as 2 publicações recuperadas tratam de neuralgia do trigêmeo e síndrome de Sturge-Weber, não de tumores. A pontuação vem do modelo TxGNN e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Entre as demais previsões, a **neuralgia do trigêmeo** é a mais bem sustentada (literatura clínica, sem ensaios registrados).
 
 ## Visão Geral Rápida
 
@@ -47,19 +47,19 @@ O modelo TxGNN prevê, com maior pontuação, que ela poderia ser eficaz para **
 |------|------|
 | Indicação Original | Anticonvulsivantes |
 | Nova Indicação Prevista | Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 12 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
+| Número de Registros | 12 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a fenitoína bloqueia canais de sódio dependentes de voltagem, o que explica sua ação anticonvulsivante e seu uso em dor neuropática.
 
-Para a indicação de maior pontuação, **neoplasia do nervo trigêmeo**, não há vínculo mecanístico crível. A fenitoína não tem atividade antineoplásica conhecida contra tumores nervosos. A pontuação alta parece decorrer da proximidade no grafo com o nó vizinho "neuralgia do trigêmeo". Por isso, a previsão não é considerada razoável como reposicionamento oncológico.
+Para a indicação de maior pontuação, **neoplasia do nervo trigêmeo**, não há vínculo mecanístico crível. A fenitoína não tem atividade antineoplásica conhecida contra tumores nervosos. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, como a "neuralgia do trigêmeo", e não evidência biológica. Por isso, a previsão não é considerada razoável como reposicionamento oncológico.
 
-As previsões seguintes são, na prática, extensões dentro da classe antiepiléptica (crises reflexas: miccionais, audiogênicas, por alimentação, por sobressalto, por leitura etc.), com evidência majoritariamente pré-clínica ou de relatos de caso. A **neuralgia do trigêmeo** (pontuação 99,97%, nível L3) é a mais plausível: o bloqueio de sódio reduz a descarga ectópica de alta frequência nas aferências trigeminais, mesmo mecanismo da carbamazepina. A fenitoína seria opção de segunda linha ou de resgate intravenoso agudo; carbamazepina e oxcarbazepina continuam como primeira linha.
+As previsões seguintes são, na prática, extensões dentro da classe antiepiléptica (crises reflexas: miccionais, audiogênicas, por alimentação, por sobressalto, por leitura etc.), com evidência majoritariamente pré-clínica ou de relatos de caso. A **neuralgia do trigêmeo** (pontuação 0,9997, nível L3) é a mais plausível: o bloqueio de sódio reduz a descarga ectópica de alta frequência nas aferências trigeminais, mesmo mecanismo da carbamazepina. A fenitoína seria opção de segunda linha ou de resgate intravenoso agudo; carbamazepina e oxcarbazepina continuam como primeira linha.
 
 ## Evidências de Ensaios Clínicos
 
@@ -76,7 +76,7 @@ Para a neuralgia do trigêmeo (indicação alternativa, não a de maior pontuaç
 
 ## Informações de Comercialização no Brasil
 
-Todos os 12 registros estão cancelados; não há registro válido. Principais registros (máximo de 5):
+Todos os 12 registros estão válidos (12 de 12 licenças válidas). Principais registros (máximo de 5):
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -99,7 +99,7 @@ Para as demais advertências, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A indicação de maior pontuação (neoplasia do nervo trigêmeo) tem apenas previsão do modelo (L5), sem ensaios, sem literatura pertinente e sem vínculo mecanístico. Além disso, todos os registros brasileiros estão cancelados. A neuralgia do trigêmeo (L3, "Proceed with Guardrails" na avaliação individual) é a direção mais viável, mas como terapia de segunda linha ou resgate.
+- A indicação de maior pontuação (neoplasia do nervo trigêmeo) tem apenas previsão do modelo (L5), sem ensaios, sem literatura pertinente e sem vínculo mecanístico. O medicamento é comercializado no Brasil, com 12 registros válidos de 12. A neuralgia do trigêmeo (L3, "Proceed with Guardrails" na avaliação individual) é a direção mais viável, mas como terapia de segunda linha ou resgate.
 
 **Para prosseguir, é necessário:**
 - Obter da bula da ANVISA as advertências e contraindicações oficiais (lacuna de dados bloqueante para a triagem de segurança).

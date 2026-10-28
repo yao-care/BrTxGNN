@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rifaximin
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 566
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-13
 description: "Rifaximin: nova indicação prevista, Candidíase oral (oral candidiasis) (nível de evidência L4). Indicação original: RIFAXIMINA"
@@ -14,7 +14,7 @@ predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteorad
 # Rifaximin
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **6** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-## Rifaximina: Da indicação original registrada à candidiase oral (previsão sem suporte clínico)
+## Rifaximina: Da indicação original registrada à candidíase oral (previsão sem suporte clínico)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **candidíase oral (oral candidia
 |------|------|
 | Indicação Original | RIFAXIMINA (o texto da indicação no registro não detalha a doença-alvo) |
 | Nova Indicação Prevista | Candidíase oral (oral candidiasis) |
-| Pontuação de Previsão TxGNN | 99,75% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Pontuação de Previsão TxGNN | 0,9975 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a rifaximina é um antibacteriano da classe das rifamicinas, não absorvido, que atua sobre a RNA polimerase bacteriana. Não tem atividade antifúngica conhecida.
 
-Por isso, não se identifica uma ligação mecanística plausível entre a indicação original (infecções bacterianas intestinais) e a candidíase oral. A pontuação alta do TxGNN (0,997) é uma previsão baseada em grafo de conhecimento e conflita com as evidências clínicas disponíveis.
+Por isso, não se identifica uma ligação mecanística plausível entre a indicação original (infecções bacterianas intestinais) e a candidíase oral. A pontuação alta do TxGNN (0.9975) é uma previsão do modelo TxGNN (aprendizado profundo), pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica, e conflita com as evidências clínicas disponíveis.
 
 O único sinal na literatura aponta na direção oposta: o uso de rifaximina favoreceu infecções por *Candida* resistente à micafungina em receptores de transplante alogênico de células-tronco hematopoéticas, provavelmente por alterar o microbioma intestinal. Trata-se de um sinal de dano, não terapêutico.
 

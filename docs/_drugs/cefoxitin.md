@@ -4,17 +4,17 @@ title: Cefoxitin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 209
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Cefoxitin: nova indicação prevista, Otite média infecciosa (infectious otitis media) (nível de evidência L5). Indicação original: Cefalosporinas"
 monitor_inn: "cefoxitin"
-predicted_indications: ["infectious otitis media", "urinary tract infection (disease)", "chronic otitis media", "suppurative otitis media", "middle ear disease", "gonococcal urethritis", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
+predicted_indications: ["infectious otitis media", "urinary tract infection (disease)", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
 ---
 
 # Cefoxitin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **otite média infecciosa (infect
 |------|------|
 | Indicação Original | Cefalosporinas (texto de indicação registrado na ANVISA) |
 | Nova Indicação Prevista | Otite média infecciosa (infectious otitis media) |
-| Pontuação de Previsão TxGNN | 99,30% |
+| Pontuação de Previsão TxGNN | 0,9930 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 4 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -80,7 +80,7 @@ Atualmente não há ensaios clínicos relacionados registrados para a otite méd
 | Registro nº 116370188 | CEFTON | Não informada | CEFALOSPORINAS |
 | Registro nº 100410203 | CEFOXITINA SÓDICA | Não informada | CEFALOSPORINAS |
 
-Todos os quatro registros constam como cancelados.
+O medicamento é comercializado no Brasil, com 4 registros válidos de 4.
 
 ## Considerações de Segurança
 
@@ -99,7 +99,7 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para otite média infecciosa tem pontuação alta, mas é apenas teórica (L5): não há ensaios clínicos, a única publicação não sustenta a eficácia e o MRSA é resistente à cefoxitina. Além disso, todos os registros no Brasil estão cancelados.
+- A previsão para otite média infecciosa tem pontuação alta, mas é apenas teórica (L5): não há ensaios clínicos, a única publicação não sustenta a eficácia e o MRSA é resistente à cefoxitina. No Brasil, o medicamento é comercializado, com 4 registros válidos de 4.
 
 **Para prosseguir, é necessário:**
 - Estudos clínicos ou dados de suscetibilidade dos patógenos típicos da otite média (por exemplo, *S. pneumoniae*, *H. influenzae*, *M. catarrhalis*) à cefoxitina.

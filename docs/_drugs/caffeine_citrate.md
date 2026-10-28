@@ -8,6 +8,7 @@ nav_order: 174
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Caffeine Citrate
@@ -49,7 +50,7 @@ Cafeína Citrato é a forma citrato da cafeína, um metilxantina com uso clínic
 | Nova Indicação Prevista | Sem previsão disponível |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem estudos reais vinculados à previsão) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros ANVISA | 0 |
 | Decisão Recomendada | Hold |
 

@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Cipionato de Estradiol: Do uso contraceptivo à síndrome do X frágil sintomática em portadoras
+## Cipionato de Estradiol: Do uso contraceptivo à Forma sintomática da síndrome do X frágil em mulheres portadoras
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **forma sintomática da síndrome
 |------|------|
 | Indicação Original | Anticoncepcionais |
 | Nova Indicação Prevista | Forma sintomática da síndrome do X frágil em mulheres portadoras (symptomatic form of fragile X syndrome in female carrier) |
-| Pontuação de Previsão TxGNN | 99,69% |
+| Pontuação de Previsão TxGNN | 0,9969 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 4 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 A ligação com a síndrome do X frágil em portadoras é, no máximo, uma hipótese. Mulheres portadoras da pré-mutação do gene FMR1 podem desenvolver insuficiência ovariana primária associada ao X frágil (FXPOI), e a reposição estrogênica poderia, em princípio, aliviar sintomas dessa deficiência hormonal. Isso, porém, é especulativo: não há dados nos materiais compilados que sustentem a hipótese, e a reposição estrogênica não trataria os componentes neurológicos ou cognitivos da condição.
 
-A pontuação alta (99,69%) reflete apenas a previsão do modelo baseado em grafo de conhecimento, sem respaldo de ensaios ou literatura.
+A pontuação alta (0,9969) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem respaldo de ensaios ou literatura.
 
 Observação sobre as demais previsões: as outras nove indicações previstas (trissomias/tetrassomias parciais de cromossomos, síndrome do resto ovariano, síndrome de blefarofimose-epicanto inverso-ptose, luteoma da gravidez) também não têm ensaios clínicos. A única com literatura é a **anovulação**, mas os estudos são em animais (bovinos e equinos) e o estrogênio pode suprimir a ovulação, de modo que o efeito não coincide com benefício terapêutico em mulheres anovulatórias.
 
@@ -91,7 +91,7 @@ Consulte a bula para advertências, contraindicações e interações medicament
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é apenas do modelo (nível L5), sem ensaios clínicos ou literatura, e a plausibilidade mecanística é especulativa. Além disso, todos os registros no Brasil estão cancelados e faltam dados de segurança da bula.
+- A previsão é apenas do modelo (nível L5), sem ensaios clínicos ou literatura, e a plausibilidade mecanística é especulativa. Além disso, o medicamento é comercializado no Brasil, com 4 registros válidos de 4, e faltam dados de segurança da bula.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem isso

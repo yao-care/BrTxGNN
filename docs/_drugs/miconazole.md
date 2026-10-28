@@ -4,17 +4,17 @@ title: Miconazole
 parent: Evidência Moderada (L3-L4)
 nav_order: 457
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
 description: "Miconazole: nova indicação prevista, Acne (acne vulgaris) (nível de evidência L4). Indicação original: Antimicótico"
 monitor_inn: "Miconazole"
-predicted_indications: ["acne (disease)", "gastrin secretion abnormality", "papillary conjunctivitis", "Majocchi granuloma", "ectothrix infectious disease", "endothrix infectious disease", "blastomycosis"]
+predicted_indications: ["acne (disease)"]
 ---
 
 # Miconazole
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (acne vulgaris)**, mas atu
 |------|------|
 | Indicação Original | Antimicótico |
 | Nova Indicação Prevista | Acne (acne vulgaris) |
-| Pontuação de Previsão TxGNN | 99,54% |
+| Pontuação de Previsão TxGNN | 0,9954 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 16 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
+| Número de Registros | 16 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -76,7 +76,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 16 registros encontrados estão cancelados; abaixo, os 5 principais.
+Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -104,7 +104,7 @@ Consulte a bula para advertências e contraindicações formais, pois os dados d
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para acne tem pontuação alta (99,54%), mas as evidências são de nível L4: nenhum ensaio registrado, apenas um estudo pequeno, uma revisão e dados in vitro. Além disso, todos os 16 registros do miconazol no Brasil estão cancelados e não há dados de bula para avaliação de segurança.
+- A previsão para acne tem pontuação alta (0,9954), mas as evidências são de nível L4: nenhum ensaio registrado, apenas um estudo pequeno, uma revisão e dados in vitro. Além disso, o miconazol está comercializado no Brasil, com 16 registros válidos de 16, e não há dados de bula para avaliação de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados.

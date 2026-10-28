@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **linfoma cutâneo primário de c
 |------|------|
 | Indicação Original | Mineralocorticoides |
 | Nova Indicação Prevista | Linfoma cutâneo primário de células T (primary cutaneous T-cell lymphoma) |
-| Pontuação de Previsão TxGNN | 99,58% |
+| Pontuação de Previsão TxGNN | 0,9958 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -63,7 +63,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 A relação com o linfoma cutâneo de células T é especulativa. Glicocorticoides têm efeito linfocitolítico em algumas neoplasias linfoides, e isso poderia sugerir um elo teórico. Porém, a atividade da fludrocortisona é dominada pelo efeito mineralocorticoide, e os dados compilados para este relatório não sustentam nenhum vínculo mecanístico concreto.
 
-A pontuação alta (99,58%) reflete apenas a previsão computacional do modelo, sem respaldo de estudos clínicos ou da literatura para esta indicação.
+A pontuação alta (0,9958) reflete apenas a previsão computacional do modelo, sem respaldo de estudos clínicos ou da literatura para esta indicação.
 
 ---
 

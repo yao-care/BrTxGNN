@@ -48,9 +48,9 @@ atualmente com **7 ensaios clínicos** e **20 publicações** apoiando esta dire
 |------|------|
 | Indicação Original | Expectorantes balsâmicos e mucolítico |
 | Nova Indicação Prevista | Doença trombótica (thrombotic disease) |
-| Pontuação de Previsão TxGNN | 99,96% |
+| Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -91,7 +91,7 @@ Esse mecanismo é mais relevante para microangiopatias mediadas por VWF, como a 
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão cancelados; não há registro válido atualmente. Principais registros:
+Foram encontrados 20 registros válidos; o medicamento está comercializado. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -119,14 +119,14 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 **Para prosseguir, é necessário:**
 - Obter e analisar os resultados do NCT03252925 e acompanhar o NCT07279610
 - Obter a bula da ANVISA (advertências e contraindicações) e dados do mecanismo de ação no DrugBank
-- Avaliar a situação regulatória: todos os 20 registros estão cancelados
+- Avaliar a situação regulatória: há 20 registros válidos e o medicamento está comercializado
 - Definir via de administração, dose e formulação (intravenosa vs. oral) para a nova indicação
 - Revisar as interações medicamentosas e as contraindicações sugeridas (asma, úlcera péptica, hipotensão, varizes esofágicas)
 - Esclarecer o benefício da NAC isolada, já que vários ensaios usam combinações (atorvastatina, danazol, dexametasona)
 
 ### Outras indicações previstas (resumo)
 
-- **Síndrome do olho seco** (TxGNN 99,87%, L2, Proceed with Guardrails): ensaios de Phase 2 concluídos com colírio de quitosana-NAC (NCT01753752) e ensaio randomizado em sintomas de secura da síndrome de Sjögren (NCT04793646), além de ECRs publicados (PMID 28441068, 39360368). É uma alternativa com boa sustentação e coerente com a ação mucolítica.
+- **Síndrome do olho seco** (TxGNN 0,9987, L2, Proceed with Guardrails): ensaios de Phase 2 concluídos com colírio de quitosana-NAC (NCT01753752) e ensaio randomizado em sintomas de secura da síndrome de Sjögren (NCT04793646), além de ECRs publicados (PMID 28441068, 39360368). É uma alternativa com boa sustentação e coerente com a ação mucolítica.
 - **Doença da cavidade nasal, faringite, doença traqueal**: evidências indiretas ou pré-clínicas (L4); recomendação Hold ou questão de pesquisa.
 - **Glaucoma de ângulo fechado (duas entradas duplicadas), laringofaringite aguda e laringotraqueíte**: apenas previsão do modelo (L5), sem estudos; Hold. Para o glaucoma, não há base mecanística plausível.
 - **Ataque isquêmico transitório**: somente estudos pré-clínicos de AVC (L4); Hold.

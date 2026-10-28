@@ -4,7 +4,7 @@ title: Iloprost
 parent: Apenas Predição do Modelo (L5)
 nav_order: 361
 evidence_level: L5
-indication_count: 9
+indication_count: 4
 last_modified_at: 2026-10-13
 description: "Iloprost: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the s… (nível de evidência L5). Indicação original: PROSTAGLANDINAS"
 monitor_inn: "iloprost"
@@ -14,7 +14,7 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 # Iloprost
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **9** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **hipotricose simples do couro ca
 |------|------|
 | Indicação Original | PROSTAGLANDINAS |
 | Nova Indicação Prevista | Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) |
-| Pontuação de Previsão TxGNN | 99,45% |
+| Pontuação de Previsão TxGNN | 0,9945 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -102,14 +102,9 @@ Entre as demais indicações previstas, as que apresentam alguma evidência são
 
 | Indicação prevista | Pontuação TxGNN | Nível de Evidência | Observação |
 |------|------|------|------|
-| HAP associada a cardiopatia congênita | 99,32% | L3 | Estudos de coorte, séries de casos (síndrome de Eisenmenger) e estudos pediátricos; um estudo cruzado piloto controlado por placebo (PMID 31371115). Sem ensaio randomizado específico. |
-| HAP associada a doença do tecido conjuntivo | 99,21% | L3 | Coortes e revisões, incluindo desfechos de longo prazo com iloprosta intravenosa domiciliar (PMID 27651181). Evidência predominantemente observacional. |
-| HAP associada ao HIV | 99,21% | L4 | Apenas revisões gerais e um registro nacional; sem dados específicos da iloprosta. |
-| HAP associada à esquistossomose | 99,21% | L4 | Evidência indireta. |
-| HAP associada a anemia hemolítica crônica | 99,21% | L5 | Sem evidências. |
-| Malformação arteriovenosa pulmonar | 99,31% | L5 | Sem racional terapêutico; a vasodilatação poderia, em teoria, piorar o shunt ou a hipoxemia. |
-| Hipotricose congênita com milia | 99,33% | L5 | Sem evidências. |
-| Alopecia areata difusa | 99,10% | L5 | Vínculo especulativo. |
+| Malformação arteriovenosa pulmonar | 0,9931 | L5 | Sem racional terapêutico; a vasodilatação poderia, em teoria, piorar o shunt ou a hipoxemia. |
+| Hipotricose congênita com milia | 0,9933 | L5 | Sem evidências. |
+| Alopecia areata difusa | 0,9910 | L5 | Vínculo especulativo. |
 
 A HAP associada a cardiopatia congênita e a HAP associada a doença do tecido conjuntivo são, na prática, subgrupos de uma indicação já estabelecida, e não reposicionamentos genuinamente novos.
 

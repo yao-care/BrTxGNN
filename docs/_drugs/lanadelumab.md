@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para a **deficiência de inibidor de C
 |------|------|
 | Indicação Original | Outros produtos não enquadrados em classe terapêutica específica (texto do registro na ANVISA) |
 | Nova Indicação Prevista | Deficiência de inibidor de C1 (C1 inhibitor deficiency) |
-| Pontuação de Previsão TxGNN | 99,996% |
+| Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -112,7 +112,7 @@ Para advertências e contraindicações, consulte a bula.
 - Confirmar dados de mecanismo de ação em fonte oficial (DrugBank).
 - Definir plano de monitoramento, incluindo o efeito sobre o TTPa e o uso em crianças.
 
-**Observação sobre as demais previsões:** as outras nove indicações previstas (por exemplo, serpinopatia com polimerização tóxica, pancreatite, pseudodoença de von Willebrand, trombastenia de Glanzmann e síndrome de Scott) não têm ensaios clínicos nem literatura de apoio (nível L5, decisão Hold). Pontuações altas parecem refletir proximidade no grafo de conhecimento, e não racionalidade mecanística.
+**Observação sobre as demais previsões:** as outras nove indicações previstas (por exemplo, serpinopatia com polimerização tóxica, pancreatite, pseudodoença de von Willebrand, trombastenia de Glanzmann e síndrome de Scott) não têm ensaios clínicos nem literatura de apoio (nível L5, decisão Hold). Pontuações altas vêm do modelo TxGNN (deep learning) e podem refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica nem racionalidade mecanística.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

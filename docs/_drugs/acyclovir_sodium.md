@@ -8,6 +8,7 @@ nav_order: 27
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acyclovir Sodium
@@ -51,7 +52,7 @@ Sem indicação prevista, **não há ensaios clínicos nem publicações** vincu
 | Nova Indicação Prevista | Nenhuma previsão gerada |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | Não avaliável |
-| Situação no Mercado Brasileiro | Não cadastrado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

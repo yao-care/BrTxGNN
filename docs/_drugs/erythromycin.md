@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Erythromycin
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 297
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Erythromycin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L4). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Erythromycin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 ---
 
 # Erythromycin
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas até o momento há **0 ensaios clínicos** e apenas **1 publicação** (uma 
 |------|------|
 | Indicação Original | Antibióticos sistêmicos simples |
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,89% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 1 |
+| Pontuação de Previsão TxGNN | 0,9989 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -97,7 +97,7 @@ Para advertências e contraindicações formais, consulte a bula.
 - Obter os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Buscar evidência clínica direta (ensaios ou estudos comparativos) de eritromicina na ceratoconjuntivite epitelial punctata.
 - Definir a via de administração (por exemplo, pomada oftálmica) e verificar sua disponibilidade no Brasil, dado que não há produto vigente.
-- Avaliar também as demais indicações previstas. A linfogranuloma venéreo (pontuação de 99,05%, com revisões e diretrizes que listam macrolídeos como alternativa à doxiciclina) corresponde mais a um uso antibiótico já plausível do que a um reposicionamento inovador.
+- Avaliar também as demais indicações previstas. A linfogranuloma venéreo (pontuação de 0,9905, com revisões e diretrizes que listam macrolídeos como alternativa à doxiciclina) corresponde mais a um uso antibiótico já plausível do que a um reposicionamento inovador.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

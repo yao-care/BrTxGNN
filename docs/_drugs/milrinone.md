@@ -4,7 +4,7 @@ title: Milrinone
 parent: Apenas Predição do Modelo (L5)
 nav_order: 460
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Milrinone: nova indicação prevista, Alopecia (Alopecia) (nível de evidência L5). Indicação original: Vasodilatadores"
 monitor_inn: "milrinone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "conge
 # Milrinone
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 Milrinona (lactato de milrinona) é um inibidor da fosfodiesterase 3 (PDE3), registrado na ANVISA na categoria de vasodilatadores e usado clinicamente na insuficiência cardíaca.
 O modelo TxGNN prevê, como indicação de maior pontuação, que possa ser eficaz para **alopecia (Alopecia)**, mas **sem nenhum ensaio clínico ou publicação** que apoie essa direção.
-Entre as demais previsões, as mais sustentadas por evidências são **insuficiência cardíaca congestiva** (10 ensaios clínicos e 20 publicações) e **cor pulmonale agudo** (1 ensaio clínico e 20 publicações), ambas muito próximas da indicação original.
+Entre as demais previsões, a mais sustentada por evidências é **cor pulmonale agudo** (1 ensaio clínico e 20 publicações), muito próxima da indicação original.
 
 ## Visão Geral Rápida
 
@@ -48,10 +48,10 @@ Entre as demais previsões, as mais sustentadas por evidências são **insufici�
 |------|------|
 | Indicação Original | Vasodilatadores |
 | Nova Indicação Prevista | Alopecia (Alopecia) |
-| Pontuação de Previsão TxGNN | 99,91% |
+| Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 > **Observação:** a previsão de maior pontuação (alopecia) não tem nenhuma evidência real. As previsões com respaldo de evidências (insuficiência cardíaca congestiva e cor pulmonale agudo) estão descritas nas seções seguintes, pois ajudam a orientar a decisão.
@@ -100,7 +100,7 @@ Não há literatura para alopecia. As publicações abaixo se referem a cefaleia
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros estão **cancelados**; não há produto com registro válido no momento.
+Os 3 registros (3 de 3) estão **válidos**; o medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -121,8 +121,8 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 **Decisão: Hold** (para a indicação principal, alopecia)
 
 **Justificativa:**
-- A previsão de alopecia (99,91%) é apenas do modelo (L5): não há ensaios, literatura nem mecanismo estabelecido, e a pontuação alta parece refletir proximidade na rede com termos de perda de cabelo. Todas as indicações capilares, bem como enxaqueca e cefaleias relacionadas, permanecem em Hold.
-- Para fins de contexto, insuficiência cardíaca congestiva e cor pulmonale agudo alcançam nível L2 (Proceed with Guardrails), mas são indicações muito próximas do uso cardiovascular já conhecido e, portanto, pouco "novas". Além disso, todos os registros brasileiros estão cancelados.
+- A previsão de alopecia (0,9991) é apenas do modelo (L5): não há ensaios, literatura nem mecanismo estabelecido, e a pontuação alta parece refletir proximidade na rede com termos de perda de cabelo. Todas as indicações capilares, bem como enxaqueca e cefaleias relacionadas, permanecem em Hold.
+- Para fins de contexto, cor pulmonale agudo alcança nível L2 (Proceed with Guardrails), mas é uma indicação muito próxima do uso cardiovascular já conhecido e, portanto, pouco "nova". Além disso, os 3 registros brasileiros (3 de 3) estão válidos e o medicamento está comercializado.
 
 **Para prosseguir, é necessário:**
 - Obter da ANVISA a bula com advertências e contraindicações oficiais (lacuna bloqueante para a triagem de segurança).

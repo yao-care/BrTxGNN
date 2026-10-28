@@ -8,6 +8,7 @@ nav_order: 13
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Abemaciclibe
@@ -49,8 +50,8 @@ Abemaciclib (ABEMACICLIBE) é um inibidor seletivo de CDK4/6, originalmente apro
 | Nova Indicação Prevista | ⏳ Pendente — predição TxGNN não disponível |
 | Pontuação de Previsão TxGNN | ⏳ Pendente |
 | Nível de Evidência | ⏳ Pendente |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

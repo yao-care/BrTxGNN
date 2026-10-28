@@ -47,9 +47,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, atualm
 |------|------|
 | Indicação Original | Antimicótico |
 | Nova Indicação Prevista | Acne (acne (disease)) |
-| Pontuação de Previsão TxGNN | 99,80% |
+| Pontuação de Previsão TxGNN | 0,9980 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 |
 | Decisão Recomendada | Hold |
 
@@ -84,7 +84,7 @@ A pontuação elevada do TxGNN é apenas uma previsão computacional. Parte da l
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados; não há produto com registro válido. Os cinco primeiros são listados abaixo (a forma farmacêutica não consta nos dados compilados).
+Há 20 registros válidos e o medicamento está comercializado. Os cinco primeiros são listados abaixo (a forma farmacêutica não consta nos dados compilados).
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -111,7 +111,7 @@ Todos os 20 registros estão cancelados; não há produto com registro válido. 
 - Resultados do ensaio NCT07237763 (cetoconazol 2% vs. adapaleno 2%) e, se positivos, ensaios randomizados maiores de fase 2/3 na via tópica
 - Dados de bula da ANVISA sobre advertências e contraindicações, atualmente ausentes
 - Dados detalhados de mecanismo de ação a partir do DrugBank
-- Avaliação da viabilidade regulatória de um novo registro tópico, já que todos os 20 registros atuais estão cancelados
+- Avaliação da viabilidade regulatória de um novo registro tópico, considerando que há 20 registros válidos atualmente
 - Distinção clara entre acne vulgar e foliculite por *Malassezia* nos estudos futuros
 ## Aviso de isenção de responsabilidade
 

@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **linfedema sindrômico (syndromi
 |------|------|
 | Indicação Original | Antiparasitários |
 | Nova Indicação Prevista | Linfedema sindrômico (syndromic lymphedema) |
-| Pontuação de Previsão TxGNN | 99,59% |
+| Pontuação de Previsão TxGNN | 0,9959 |
 | Nível de Evidência | L5 (apenas previsão do modelo, sem estudos diretos na nova indicação) |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 > Observação: os dados compilados classificam a evidência como L4. Pelas regras de determinação adotadas neste relatório, não há estudos pré-clínicos ou de mecanismo para a nova indicação, e por isso o nível aplicável é L5. A decisão de Hold é a mesma nos dois casos.
@@ -61,7 +61,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A ligação com o linfedema é **indireta**. A filariose pode causar obstrução linfática e linfedema secundário, além de complicações como eosinofilia pulmonar tropical e quiluria com proteinúria. O linfedema sindrômico, porém, é uma condição genética e não infecciosa. Um fármaco que elimina parasitas não deveria corrigir a patologia de base.
 
-A pontuação alta do TxGNN (99,59%) provavelmente reflete a sobreposição de fenótipos no grafo de conhecimento, e não um mecanismo terapêutico real. A previsão deve ser tratada como hipótese de baixa plausibilidade biológica até que haja dados que a sustentem.
+A pontuação alta do modelo TxGNN (deep learning), de 0,9959, vem do modelo e pode refletir semelhanças que ele aprendeu entre doenças relacionadas, não evidência biológica. A previsão deve ser tratada como hipótese até que haja dados que a sustentem.
 
 ## Evidências de Ensaios Clínicos
 

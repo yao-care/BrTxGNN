@@ -8,6 +8,7 @@ nav_order: 493
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Oseltamivir Phosphate
@@ -49,8 +50,8 @@ Oseltamivir fosfato é um antiviral inibidor de neuraminidase, amplamente conhec
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (previsão de modelo não disponível) |
-| Situação no Mercado Brasileiro | Não encontrado na base consultada |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ---

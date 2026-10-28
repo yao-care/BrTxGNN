@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clobazam
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 230
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Clobazam: nova indicação prevista, Síndrome epiléptica relacionada à infecção febril (FIRES) (nível de evidência L4). Indicação original: Síndrome de Lennox-Gastaut (e cutis verticis gyrata…"
 monitor_inn: "Clobazam"
-predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "cryptogenic late-onset epileptic spasms", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
+predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
+last_modified_at: 2026-10-27
+description: "Clobazam: nova indicação prevista, síndrome epiléptica relacionada à infecção febril (febrile infection-related epilepsy syndrome) (nível de evidência L5). Indicação original: Não consta nos dados lo…"
 ---
 
 # Clobazam
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,34 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Clobazam: Da síndrome de Lennox-Gastaut à síndrome epiléptica relacionada à infecção febril (FIRES)
+## Clobazam: modulador alostérico positivo do GABA-A (benzodiazepínico) → síndrome epiléptica relacionada à infecção febril (febrile infection-related epilepsy syndrome)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Clobazam é um benzodiazepínico originalmente usado no tratamento da síndrome de Lennox-Gastaut.
-O modelo TxGNN prevê que pode ser eficaz para **Síndrome Epiléptica Relacionada à Infecção Febril (Febrile Infection-Related Epilepsy Syndrome, FIRES)**,
-atualmente com **0 ensaios clínicos** e **2 publicações** (relatos e séries de casos, sem avaliação direta do clobazam) apoiando esta direção.
+Clobazam é um benzodiazepínico que atua como modulador alostérico positivo do receptor GABA-A.
+O modelo TxGNN prevê que pode ser eficaz para a **síndrome epiléptica relacionada à infecção febril (febrile infection-related epilepsy syndrome)**,
+atualmente com **0 ensaios clínicos** e **2 publicações** (série e relato de caso, ambos sem avaliação direta do clobazam) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Síndrome de Lennox-Gastaut (e cutis verticis gyrata, segundo o grafo de conhecimento do TxGNN) |
-| Nova Indicação Prevista | Síndrome epiléptica relacionada à infecção febril (FIRES) |
-| Pontuação de Previsão TxGNN | 99,82% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | síndrome epiléptica relacionada à infecção febril (febrile infection-related epilepsy syndrome) |
+| Pontuação de Previsão TxGNN | 0,9982 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 6) |
+| Número de Registros | 6 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Não há dados detalhados sobre o mecanismo de ação do clobazam nos dados compilados para este relatório. Segundo informações conhecidas, o clobazam é um modulador alostérico positivo do receptor GABA-A, mecanismo compartilhado por outros benzodiazepínicos, como midazolam e lorazepam.
+Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco nos dados compilados. Segundo informações conhecidas, o clobazam é um modulador alostérico positivo do receptor GABA-A, mecanismo compartilhado com outros benzodiazepínicos, como midazolam e lorazepam.
 
-A FIRES é uma forma de estado de mal epiléptico refratário de início recente (NORSE) que acomete crianças previamente saudáveis. O tratamento costuma depender de midazolam e outros anestésicos em ciclos prolongados. Como o clobazam atua sobre a mesma via GABAérgica, há uma justificativa de classe para a previsão, e a sua indicação original (síndrome de Lennox-Gastaut, uma encefalopatia epiléptica grave) compartilha com a FIRES a refratariedade das crises.
+A síndrome epiléptica relacionada à infecção febril é uma forma de estado de mal epiléptico refratário de início recente, que acomete crianças previamente saudáveis. As crises costumam resistir aos antiepilépticos convencionais e exigem anestésicos em altas doses. Como benzodiazepínicos já fazem parte do manejo dessa condição, há uma justificativa plausível, baseada na classe de medicamentos, para considerar o clobazam.
 
-Atenção: as duas publicações recuperadas tratam de lorazepam enteral e de perampanel, **não do clobazam**. A evidência é, portanto, indireta e baseada em classe. A pontuação alta do TxGNN é uma previsão computacional e não constitui validação clínica.
+Essa lógica é indireta. Os dois artigos recuperados descrevem o uso de lorazepam enteral na retirada gradual do midazolam e o de perampanel para reduzir a dependência de barbitúricos; nenhum avaliou o clobazam. A pontuação elevada do modelo é uma previsão e não constitui validação clínica.
 
 ## Evidências de Ensaios Clínicos
 
@@ -70,15 +70,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Série de casos | Epileptic Disorders | Lorazepam enteral como estratégia promissora de desmame em pacientes com FIRES dependentes de midazolam (não avalia clobazam) |
-| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Relato de caso | Cureus | Possível papel do perampanel na redução da dependência de barbitúricos em um menino de 13 anos com FIRES (não avalia clobazam) |
+| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Série de casos | Epileptic Disorders | Lorazepam enteral como estratégia eficaz de retirada gradual em pacientes dependentes de midazolam |
+| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Relato de caso | Cureus | Perampanel com potencial para reduzir a dependência de barbitúricos em um menino de 13 anos |
 
 ## Considerações de Segurança
 
-- **Interações Medicamentosas**: foram identificadas 100 interações no total; entre as principais listadas:
-  - **Maior gravidade**: morfina (incluindo a formulação lipossomal) e eliglustat.
-  - **Gravidade moderada**: bupropiona, aprepitanto, omeprazol, esomeprazol, lansoprazol, cimetidina, claritromicina, dexfenfluramina, fenfluramina, dronabinol e metoclopramida.
-  - **Gravidade menor**: antiácidos, como óxido de magnésio, hidróxido de alumínio e carbonato de cálcio.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total. Entre as listadas, as de gravidade **maior** incluem morfina (inclusive lipossomal) e eliglustate. As de gravidade **moderada** incluem bupropiona, aprepitanto, omeprazol, esomeprazol, lansoprazol, cimetidina, claritromicina, dexfenfluramina, fenfluramina, dronabinol e metoclopramida. Antiácidos (óxido de magnésio, hidróxido de alumínio, carbonato de cálcio, entre outros) têm interação de gravidade **menor**.
 
 Para advertências e contraindicações, consulte a bula.
 
@@ -87,17 +84,13 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se apoia apenas em raciocínio de classe (benzodiazepínicos) e em duas publicações de baixo nível de evidência que não avaliam o clobazam. Não há ensaios clínicos nem registro do medicamento no Brasil nos dados compilados.
+- Não há ensaios clínicos nem estudo que avalie o clobazam nessa condição; as duas publicações tratam de outros fármacos. A sustentação é apenas a previsão do modelo e a plausibilidade pela classe, o que corresponde ao nível L5.
 
 **Para prosseguir, é necessário:**
-- Dados sobre o mecanismo de ação do clobazam, para sustentar a análise mecanística.
-- Advertências e contraindicações da bula na ANVISA, necessárias para a triagem de segurança.
-- Estudos clínicos que avaliem diretamente o clobazam na FIRES (por exemplo, séries de casos ou ensaios exploratórios).
-- Esclarecimento da situação regulatória no Brasil, uma vez que não há registros nos dados compilados.
-
-### Observação sobre outras indicações previstas
-
-As demais indicações previstas pelo modelo seguem com evidência limitada: epilepsia occipital benigna e encefalopatia epiléptica de início na infância (L4, indireta; a segunda é em grande parte extensão da indicação já aprovada para Lennox-Gastaut), e mioclonias perioraais com ausências, espasmos epilépticos tardios criptogênicos, síndrome das pernas inquietas e outras (L5, sem evidência direta).
+- Dados de segurança extraídos da bula na ANVISA (advertências e contraindicações), atualmente ausentes
+- Dados detalhados do mecanismo de ação (MOA)
+- Revisão sistemática da literatura sobre clobazam em FIRES/NORSE e, se houver sinal, relatos de casos ou estudos observacionais com clobazam
+- Análise da compatibilidade de vias de administração, considerando a necessidade de formulações adequadas ao quadro agudo
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

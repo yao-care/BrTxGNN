@@ -50,10 +50,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antiinfecciosos tópicos |
 | Nova Indicação Prevista | Empiema Pleural (pleural empyema) |
-| Pontuação de Previsão TxGNN | 99,49% |
+| Pontuação de Previsão TxGNN | 0,9949 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 8 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -66,13 +66,13 @@ Esses microrganismos são causas comuns de empiema pleural, o que cria uma liga�
 
 Há, contudo, limitações importantes. A mupirocina é formulada apenas para uso tópico; não existe formulação sistêmica ou intrapleural estabelecida, nem dados de penetração pleural, segurança ou posologia. O empiema é tratado com drenagem e antibióticos sistêmicos, de modo que um agente tópico não se encaixa na via de administração necessária. A pontuação alta do TxGNN é uma previsão computacional, sem respaldo de estudos nos dados compilados.
 
-**Segunda previsão do modelo:** ceratoconjuntivite epitelial punctata (pontuação de 99,10%). A atividade antiestafilocócica da mupirocina poderia ser relevante apenas no subconjunto bacteriano; muitos casos são virais ou não infecciosos. A pomada não é aprovada para uso oftálmico, a tolerabilidade na superfície ocular não está estabelecida e já existem antibióticos oftálmicos aprovados. Também não há ensaios ou literatura, e a decisão é Hold.
+**Segunda previsão do modelo:** ceratoconjuntivite epitelial punctata (pontuação de 0,9910). A atividade antiestafilocócica da mupirocina poderia ser relevante apenas no subconjunto bacteriano; muitos casos são virais ou não infecciosos. A pomada não é aprovada para uso oftálmico, a tolerabilidade na superfície ocular não está estabelecida e já existem antibióticos oftálmicos aprovados. Também não há ensaios ou literatura, e a decisão é Hold.
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros estão cancelados; atualmente não há registro válido.
+Os 8 registros estão válidos (8 de 8); o medicamento é comercializado atualmente no Brasil.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -98,7 +98,7 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se apoia apenas na pontuação do modelo (L5), sem ensaios clínicos ou literatura. Além disso, a via tópica é incompatível com o tratamento do empiema pleural, e todos os registros no Brasil estão cancelados.
+- A previsão se apoia apenas na pontuação do modelo (L5), sem ensaios clínicos ou literatura. Além disso, a via tópica é incompatível com o tratamento do empiema pleural, e o medicamento é comercializado no Brasil, com 8 registros válidos de 8.
 
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA para advertências e contraindicações, etapa de segurança que hoje está bloqueada.

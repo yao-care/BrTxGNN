@@ -4,17 +4,17 @@ title: Cysteine
 parent: Evidência Moderada (L3-L4)
 nav_order: 248
 evidence_level: L4
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-13
 description: "Cysteine: nova indicação prevista, Síndrome do olho seco (Dry Eye Syndrome) (nível de evidência L4). Indicação original: Nutrientes parenterais"
 monitor_inn: "Cysteine"
-predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma", "excretory apparatus of the lacrimal system anomaly", "tracheal disease", "nasolacrimal duct disease"]
+predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
 ---
 
 # Cysteine
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e apenas **estudos pré-clínicos e d
 |------|------|
 | Indicação Original | Nutrientes parenterais |
 | Nova Indicação Prevista | Síndrome do olho seco (Dry Eye Syndrome) |
-| Pontuação de Previsão TxGNN | 99,98% |
+| Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -100,7 +100,7 @@ Consulte a bula para as advertências e contraindicações oficiais, pois não f
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão do TxGNN é muito alta, mas a literatura é essencialmente pré-clínica e de formulação, sem ensaios clínicos nem evidência da cisteína como agente terapêutico para o olho seco. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão do TxGNN é muito alta, mas a literatura é essencialmente pré-clínica e de formulação, sem ensaios clínicos nem evidência da cisteína como agente terapêutico para o olho seco. Além disso, o medicamento é comercializado no Brasil, com os 3 registros válidos (3 de 3).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.

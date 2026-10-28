@@ -4,17 +4,17 @@ title: Sorbitol
 parent: Apenas Predição do Modelo (L5)
 nav_order: 596
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Sorbitol: nova indicação prevista, Hipertermia maligna induzida por exercício (exercise-induced malignan… (nível de evidência L5). Indicação original: Não informada"
 monitor_inn: "Sorbitol"
-predicted_indications: ["exercise-induced malignant hyperthermia", "epiglottitis", "congestive heart failure", "infectious otitis media", "toxocariasis", "acute pulmonary heart disease", "middle ear cholesterol granuloma", "otosalpingitis", "allergic otitis media", "familial periodic paralysis"]
+predicted_indications: ["exercise-induced malignant hyperthermia"]
+description: "Sorbitol: nova indicação prevista, Hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Sorbitol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Sorbitol: Da ausência de indicação registrada no Brasil à hipertermia maligna induzida por exercício
+## Sorbitol: Hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Sorbitol é um álcool de açúcar (poliol) osmótico, sem indicação original registrada na ANVISA e atualmente não comercializado no Brasil como medicamento registrado.
 O modelo TxGNN prevê que pode ser eficaz para **hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia)**, mas **não há ensaios clínicos nem publicações** que sustentem essa direção.
-A previsão é puramente baseada em grafo de conhecimento.
+A previsão vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não informada (nenhuma licença registrada na ANVISA) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) |
-| Pontuação de Previsão TxGNN | 99,40% |
+| Pontuação de Previsão TxGNN | 0.9940 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 3) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -58,7 +57,7 @@ A previsão é puramente baseada em grafo de conhecimento.
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Sabe-se que o sorbitol é um álcool de açúcar com ação osmótica, usado sobretudo como excipiente, adoçante e laxante osmótico, e que participa da via dos polióis (aldose redutase).
 
-Não foi identificada relação mecanística plausível com a nova indicação. A hipertermia maligna envolve a liberação desregulada de cálcio no músculo esquelético (via RYR1), e o sorbitol não tem ação conhecida sobre essa via. A pontuação elevada do TxGNN reflete apenas proximidade no grafo de conhecimento, não um fundamento biológico ou clínico.
+Não foi identificada relação mecanística plausível com a nova indicação. A hipertermia maligna envolve a liberação desregulada de cálcio no músculo esquelético (via RYR1), e o sorbitol não tem ação conhecida sobre essa via. A pontuação elevada do modelo TxGNN (deep learning) pode refletir apenas semelhanças que o modelo aprendeu entre doenças relacionadas, não um fundamento biológico ou clínico.
 
 Por isso, a previsão deve ser tratada como hipótese sem sustentação, e não como candidata concreta ao reposicionamento.
 
@@ -76,10 +75,7 @@ Entre as demais previsões do modelo, apenas as duas abaixo têm alguma literatu
 
 | Indicação | Pontuação TxGNN | Nível | Observação |
 |------|------|------|------|
-| Insuficiência cardíaca congestiva | 98,77% | L5 | Literatura indica o sorbitol como possível marcador/contribuinte patogênico no coração diabético (PMID 33558456), e não como agente terapêutico. Sem evidência clínica de benefício. |
-| Otite média infecciosa | 98,74% | L4 | Um ensaio randomizado (PMID 37890960) testou xilitol, não sorbitol, na prevenção de otite média aguda; o sorbitol foi usado como comparador. Extrapolação de classe não sustentada. |
 
-As demais previsões (epiglotite, toxocaríase, cor pulmonale agudo, granuloma de colesterol da orelha média, otossalpingite, otite média alérgica e paralisia periódica familiar) não têm evidências nem plausibilidade mecanística identificadas.
 
 ## Considerações de Segurança
 

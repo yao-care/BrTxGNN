@@ -4,17 +4,17 @@ title: Penciclovir
 parent: Apenas Predição do Modelo (L5)
 nav_order: 516
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Penciclovir: nova indicação prevista, Fasciolíase (Fascioliasis) (nível de evidência L5). Indicação original: Herpes labial"
 monitor_inn: "Penciclovir"
-predicted_indications: ["fascioliasis", "cysticercosis", "coenurosis", "intestinal helminthiasis", "malignant pleural mesothelioma", "endomyometritis", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "synovium cancer", "malignant visceral pleura tumor"]
+predicted_indications: ["fascioliasis"]
+description: "Penciclovir: nova indicação prevista, Fasciolíase (fascioliasis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Penciclovir
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Penciclovir: Do herpes labial à fasciolíase (previsão computacional)
+## Penciclovir: Fasciolíase (fascioliasis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Herpes labial (conforme as relações de indicação do grafo de conhecimento, pois não há registros no Brasil) |
-| Nova Indicação Prevista | Fasciolíase (Fascioliasis) |
-| Pontuação de Previsão TxGNN | 99,06% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Fasciolíase (fascioliasis) |
+| Pontuação de Previsão TxGNN | 0.9906 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 8) |
+| Número de Registros | 8 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,11 +60,10 @@ Atualmente, não há dados detalhados de mecanismo de ação registrados para es
 
 Para a fasciolíase, porém, **não se identifica um vínculo mecanístico plausível**. *Fasciola hepatica* é um trematódeo e não possui via de ativação dependente de timidina quinase viral. Os anti-helmínticos estabelecidos (como albendazol e praziquantel) atuam por alvos diferentes.
 
-A pontuação alta (99,06%) reflete apenas uma previsão computacional, sem respaldo clínico ou da literatura. As demais previsões do modelo seguem o mesmo padrão: cisticercose, cenurose, helmintíase intestinal, endomiometrite e diversos subtipos de mesotelioma e tumores pleurais ou sinoviais, todas também com nível L5 e sem evidências. Nos mesoteliomas, o único vínculo teórico passa por terapia gênica suicida (HSV-TK associada a um análogo nucleosídico), que exige entrega de gene e não corresponde ao uso do fármaco isolado.
+A pontuação alta (0,9906) reflete apenas uma previsão computacional, sem respaldo clínico ou da literatura. As demais previsões do modelo seguem o mesmo padrão: cisticercose, cenurose, helmintíase intestinal, endomiometrite e diversos subtipos de mesotelioma e tumores pleurais ou sinoviais, todas também com nível L5 e sem evidências. Nos mesoteliomas, o único vínculo teórico passa por terapia gênica suicida (HSV-TK associada a um análogo nucleosídico), que exige entrega de gene e não corresponde ao uso do fármaco isolado.
 
 ## Informações de Comercialização no Brasil
 
-O penciclovir não possui registros ativos na ANVISA nos dados compilados para este relatório (0 registros), portanto não está comercializado no Brasil.
 
 ## Considerações de Segurança
 

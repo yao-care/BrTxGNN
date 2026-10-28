@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Melphalan
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 441
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-13
-description: "Melphalan: nova indicação prevista, Tumor de células germinativas gonadal (gonadal germ cell tumor) (nível de evidência L2). Indicação original: Antineoplásicos citotóxicos"
 monitor_inn: "melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
+description: "Melphalan: nova indicação prevista, Female breast carcinoma (nível de evidência L5). Indicação original: ANTINEOPLASICOS CITOTOXICOS"
 ---
 
 # Melphalan
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-## Melfalano: De antineoplásico citotóxico a tumor de células germinativas gonadal
+## Melphalan: Female breast carcinoma
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ atualmente com **7 ensaios clínicos** e **1 publicação** apoiando esta direç
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antineoplásicos citotóxicos |
-| Nova Indicação Prevista | Tumor de células germinativas gonadal (gonadal germ cell tumor) |
-| Pontuação de Previsão TxGNN | 99,77% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Indicação Original | ANTINEOPLASICOS CITOTOXICOS |
+| Nova Indicação Prevista | Female breast carcinoma |
+| Pontuação de Previsão TxGNN | 0.9967 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

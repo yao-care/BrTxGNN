@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Glicerina: De laxante/enema para glaucoma de ângulo aberto
+## Glicerina: De laxante/enema para Síndrome da cauda equina
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -49,17 +49,17 @@ O modelo TxGNN prevê que ela possa ser eficaz para **Síndrome da cauda equina 
 |------|------|
 | Indicação Original | Laxantes irritantes ou estimulantes |
 | Nova Indicação Prevista (maior pontuação) | Síndrome da cauda equina (cauda equina syndrome) |
-| Pontuação de Previsão TxGNN | 99,60% |
+| Pontuação de Previsão TxGNN | 0,9960 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a glicerina é um agente osmótico, usado como enema e laxante, e mecanisticamente sua ação está ligada à retenção de água no lúmen intestinal.
 
-Para a síndrome da cauda equina, **não há nenhum vínculo mecanístico identificável**. A pontuação elevada (99,60%) parece ser um artefato do grafo de conhecimento, sem ensaios nem literatura de apoio.
+Para a síndrome da cauda equina, **não há nenhum vínculo mecanístico identificável**. A pontuação elevada (0,9960) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem ensaios nem literatura de apoio.
 
 Entre as demais previsões, algumas têm plausibilidade indireta:
 - **Glaucoma de ângulo aberto (99,59%)**: a glicerina oral foi historicamente usada como agente osmótico para reduzir a pressão intraocular, principalmente em crises agudas de ângulo fechado. Isso dá um suporte biológico indireto, mas a literatura disponível não demonstra eficácia em glaucoma de ângulo aberto.
@@ -105,7 +105,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Todas as dez previsões têm apenas nível L4 ou L5, sem nenhum ensaio clínico. A previsão de maior pontuação (síndrome da cauda equina) não tem vínculo mecanístico, e a pontuação alta parece ser um artefato do grafo de conhecimento. Além disso, todos os registros brasileiros estão cancelados.
+- Todas as dez previsões têm apenas nível L4 ou L5, sem nenhum ensaio clínico. A previsão de maior pontuação (síndrome da cauda equina) não tem vínculo mecanístico, e a pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica. Além disso, o medicamento é comercializado no Brasil, com 3 registros válidos de 3.
 
 **Para prosseguir, é necessário:**
 - Obter as advertências e contraindicações da bula na ANVISA (lacuna que bloqueia a triagem de segurança).

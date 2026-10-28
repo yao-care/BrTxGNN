@@ -4,7 +4,7 @@ title: Cemiplimab
 parent: Apenas Predição do Modelo (L5)
 nav_order: 213
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-13
 description: "Cemiplimab: nova indicação prevista, Carcinoma adenoescamoso da vesícula biliar (gallbladder adenosquamous… (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "cemiplimab"
@@ -14,7 +14,7 @@ predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogen
 # Cemiplimab
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antineoplásico |
 | Nova Indicação Prevista | Carcinoma adenoescamoso da vesícula biliar (gallbladder adenosquamous carcinoma) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -97,7 +97,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão tem pontuação alta no modelo (99,99%), mas não conta com nenhum ensaio clínico nem publicação para o carcinoma adenoescamoso da vesícula biliar (nível L5). Além disso, o único registro na ANVISA está cancelado.
+A previsão tem pontuação alta no modelo (0,9999), mas não conta com nenhum ensaio clínico nem publicação para o carcinoma adenoescamoso da vesícula biliar (nível L5). Além disso, o único registro na ANVISA está cancelado.
 
 **Para prosseguir, é necessário:**
 - Realizar busca dirigida de ensaios e literatura sobre cemiplimabe ou inibidores de PD-1 em tumores biliares e adenoescamosos

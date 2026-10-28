@@ -8,6 +8,7 @@ nav_order: 135
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bictegravir Sodium
@@ -49,8 +50,8 @@ Bictegravir sódico é um inibidor de integrase do HIV (classe INSTI), tipicamen
 | Nova Indicação Prevista | — (sem previsão TxGNN disponível) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 — sem dados de previsão |
-| Situação no Mercado Brasileiro | Não encontrado na base consultada |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

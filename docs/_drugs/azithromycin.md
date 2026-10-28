@@ -49,9 +49,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Hiperamilasemia (Hyperamylasemi
 |------|------|
 | Indicação Original | Antibióticos sistêmicos simples |
 | Nova Indicação Prevista | Hiperamilasemia (Hyperamylasemia) |
-| Pontuação de Previsão TxGNN | 99,81% |
+| Pontuação de Previsão TxGNN | 0,9981 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -61,7 +61,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hiperamilasemia (Hyperamylasemi
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a azitromicina é um antibiótico da classe dos macrolídeos, com eficácia comprovada em infecções bacterianas.
 
-Para a hiperamilasemia, não foi identificado nenhum vínculo mecanístico plausível. A hiperamilasemia é um achado laboratorial, e não uma doença propriamente tratável, e a azitromicina não tem papel conhecido na redução da amilase. A pontuação elevada do TxGNN decorre apenas de padrões no grafo de conhecimento, sem ensaios ou literatura de apoio.
+Para a hiperamilasemia, não foi identificado nenhum vínculo mecanístico plausível. A hiperamilasemia é um achado laboratorial, e não uma doença propriamente tratável, e a azitromicina não tem papel conhecido na redução da amilase. A pontuação elevada vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem ensaios ou literatura de apoio.
 
 Por isso, esta previsão deve ser tratada com cautela: não há base mecanística nem clínica que a sustente.
 
@@ -81,7 +81,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão cancelados. Principais registros:
+Foram encontrados 20 registros válidos. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -110,13 +110,13 @@ Consulte a bula para as advertências e contraindicações oficiais, pois esses 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para hiperamilasemia tem pontuação alta no modelo, mas não conta com nenhum ensaio clínico, nenhuma publicação nem mecanismo plausível (nível L5). Além disso, todos os registros brasileiros estão cancelados.
+A previsão para hiperamilasemia tem pontuação alta no modelo, mas não conta com nenhum ensaio clínico, nenhuma publicação nem mecanismo plausível (nível L5). O medicamento está comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da azitromicina e justificativa biológica para a indicação prevista
 - Bula da ANVISA com advertências e contraindicações oficiais
 - Definição de que a hiperamilasemia, sendo um achado laboratorial, constitui um alvo terapêutico clinicamente relevante
-- Confirmação da situação regulatória atual no Brasil (todos os registros constam como cancelados)
+- Confirmação da situação regulatória atual no Brasil (medicamento comercializado, com 20 registros válidos)
 
 **Observação sobre outras indicações previstas:** entre as demais previsões, a de **doença hematológica congênita** (ligada a complicações da doença falciforme, como a síndrome torácica aguda) é a que reúne mais respaldo (nível L3), mas os dois únicos ensaios identificados foram retirados sem inclusão de participantes. A previsão de **gamopatia monoclonal** (L4) conta com apenas um estudo pré-clínico in vitro em mieloma. Ambas poderiam ser consideradas questões de pesquisa em avaliações futuras, mas não alteram a decisão para a indicação principal deste relatório.
 ## Aviso de isenção de responsabilidade

@@ -8,6 +8,7 @@ nav_order: 489
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ornitina Aspartate
@@ -51,8 +52,8 @@ pois a ausência de registro nacional e as lacunas críticas de dados (MOA, adve
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão ou estudos associados) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | **Hold** |
 
 ---

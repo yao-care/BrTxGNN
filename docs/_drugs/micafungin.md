@@ -48,17 +48,17 @@ atualmente com **0 ensaios clínicos registrados** e **12 publicações** (estud
 |------|------|
 | Indicação Original | Antifúngicos (texto de registro: "ANTI-FUNGICOS") |
 | Nova Indicação Prevista | Infecção do Trato Urinário (urinary tract infection) |
-| Pontuação de Previsão TxGNN | 99,03% |
+| Pontuação de Previsão TxGNN | 0,9903 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 4 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação no conjunto de dados compilado. Segundo informações conhecidas, a micafungina é uma equinocandina que inibe a enzima 1,3-beta-D-glucana sintase, essencial para a construção da parede celular dos fungos, e tem atividade contra espécies de *Candida*.
 
-As espécies de *Candida* são a principal causa fúngica de infecção urinária (candidúria). Assim, usar um antifúngico ativo contra *Candida* nesse contexto é uma extensão biologicamente plausível da indicação original, o que é coerente com a pontuação elevada do TxGNN (0,99).
+As espécies de *Candida* são a principal causa fúngica de infecção urinária (candidúria). Assim, usar um antifúngico ativo contra *Candida* nesse contexto é uma extensão biologicamente plausível da indicação original, o que é coerente com a pontuação elevada do TxGNN (0,9903).
 
 Havia uma preocupação clássica de que as equinocandinas têm baixa excreção urinária. No entanto, um estudo farmacocinético (PMID 27424599) relatou que os níveis urinários de micafungina foram suficientes para tratar infecções urinárias por *Candida* em seis pacientes, inclusive com cepas resistentes ao fluconazol.
 
@@ -109,12 +109,12 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-Há plausibilidade biológica e evidência clínica consistente, porém limitada a estudos retrospectivos, séries e relatos de casos (nível L3), sem ensaios clínicos registrados nem RCTs. Além disso, todos os registros no Brasil estão cancelados e não há dados de segurança da bula.
+Há plausibilidade biológica e evidência clínica consistente, porém limitada a estudos retrospectivos, séries e relatos de casos (nível L3), sem ensaios clínicos registrados nem RCTs. Além disso, o medicamento é comercializado no Brasil, com 4 de 4 registros válidos, e não há dados de segurança da bula.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a falta desses dados bloqueia a triagem de segurança
 - Confirmar o mecanismo de ação em fonte oficial (por exemplo, DrugBank)
-- Avaliar a segurança em pacientes com doença renal, dada a sinalização do grafo de conhecimento
+- Avaliar a segurança em pacientes com doença renal, dada a sinalização do modelo TxGNN (deep learning), que pode refletir similaridades aprendidas pelo modelo entre doenças relacionadas, não evidência biológica
 - Definir critérios de seleção de pacientes (candidúria sintomática, resistência ao fluconazol), evitando o tratamento de candidúria assintomática
 - Considerar ensaio prospectivo e esclarecer a situação regulatória (registros cancelados) e a disponibilidade do produto no Brasil
 ## Aviso de isenção de responsabilidade

@@ -8,6 +8,7 @@ nav_order: 116
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bendamustina Hydrochloride
@@ -49,8 +50,8 @@ Bendamustina Hidrocloreto é um agente alquilante bifuncional utilizado no trata
 | Nova Indicação Prevista | Não disponível |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 (sem previsões geradas) |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros (ANVISA) | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
+| Número de Registros (ANVISA) | 6 (ativos: 6) |
 | Decisão Recomendada | **Hold** |
 
 ---

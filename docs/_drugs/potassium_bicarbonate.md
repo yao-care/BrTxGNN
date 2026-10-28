@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antiácido |
 | Nova Indicação Prevista | Gastroduodenite (Gastroduodenitis) |
-| Pontuação de Previsão TxGNN | 99,72% |
+| Pontuação de Previsão TxGNN | 0,9972 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 Essa ação oferece uma justificativa sintomática plausível para a gastroduodenite, na qual a irritação da mucosa relacionada ao ácido contribui para os sintomas. A indicação prevista, portanto, se sobrepõe de perto à indicação original, e a previsão pode ser vista mais como uma extensão do uso existente do que como um reposicionamento genuíno.
 
-Há ressalvas importantes: a pontuação elevada do TxGNN (0,997) é apenas uma previsão computacional. A atividade antiácida, no máximo, alivia sintomas e não trata causas subjacentes, como infecção por *H. pylori*, lesão por anti-inflamatórios não esteroidais (AINEs) ou outras etiologias.
+Há ressalvas importantes: a pontuação elevada do TxGNN (0,9972) é apenas uma previsão computacional. A atividade antiácida, no máximo, alivia sintomas e não trata causas subjacentes, como infecção por *H. pylori*, lesão por anti-inflamatórios não esteroidais (AINEs) ou outras etiologias.
 
 ## Informações de Comercialização no Brasil
 

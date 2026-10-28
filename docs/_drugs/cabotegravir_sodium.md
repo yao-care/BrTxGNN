@@ -8,6 +8,7 @@ nav_order: 171
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Cabotegravir Sodium
@@ -51,8 +52,8 @@ pois os dados regulatórios e de segurança necessários para a avaliação aind
 | Nova Indicação Prevista | — (nenhuma previsão TxGNN disponível neste ciclo) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros ANVISA | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros ANVISA | 4 (ativos: 4) |
 | Decisão Recomendada | **Hold** |
 
 ---

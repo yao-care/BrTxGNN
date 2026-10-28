@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **osteoporose induzida por fárma
 |------|------|
 | Indicação Original | Não disponível nos dados compilados (o registro não traz texto de indicação) |
 | Nova Indicação Prevista | Osteoporose induzida por fármacos (drug-induced osteoporosis) |
-| Pontuação de Previsão TxGNN | 99,78% |
+| Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o sacituzumabe govitecana é um anticorpo dirigido ao Trop-2 ligado ao SN-38, metabólito ativo do irinotecano, que inibe a topoisomerase I e causa dano ao DNA em células tumorais.
 
-**Não se estabelece um vínculo mecanístico plausível** com a osteoporose induzida por fármacos. A quimioterapia citotóxica está, em geral, mais associada à perda óssea do que à proteção óssea. A pontuação elevada do TxGNN (0,998) provavelmente reflete artefatos do grafo de conhecimento, e não um mecanismo terapêutico real.
+**Não se estabelece um vínculo mecanístico plausível** com a osteoporose induzida por fármacos. A quimioterapia citotóxica está, em geral, mais associada à perda óssea do que à proteção óssea. A pontuação elevada do TxGNN (0,9978) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica nem um mecanismo terapêutico real.
 
 Outras indicações previstas pelo modelo também carecem de respaldo. Para retinopatia diabética grave não proliferativa (99,69%), retinopatia diabética (99,60%) e catarata diabética (99,12%), não há ensaios nem literatura, e o risco do uso sistêmico de um citotóxico (mielossupressão, infecções) em população crônica não oncológica é desfavorável.
 

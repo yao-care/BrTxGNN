@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tizanidine
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Alta (L1-L2)
 nav_order: 642
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Tizanidine: nova indicação prevista, Transtorno de enxaqueca (Migraine disorder) (nível de evidência L5). Indicação original: Relaxantes musculares centrais simples"
 monitor_inn: "Tizanidine"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis", "trichotillomania", "headache disorder", "dysthymic disorder", "fibromyalgia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 ---
 
 # Tizanidine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L1** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **2 ensaios clínicos registrados** (1 deles diretamente relevant
 |------|------|
 | Indicação Original | Relaxantes musculares centrais simples |
 | Nova Indicação Prevista | Transtorno de enxaqueca (Migraine disorder) |
-| Pontuação de Previsão TxGNN | 99,79% |
+| Pontuação de Previsão TxGNN | 0,9979 |
 | Nível de Evidência | L1 (conforme classificação do conjunto de dados; ver ressalva na conclusão) |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -104,7 +104,7 @@ Há apoio clínico direto: um estudo duplo-cego controlado por placebo em cefale
 
 **Justificativa:**
 - Há um ensaio de Fase 3 diretamente testando a tizanidina na prevenção da enxaqueca e um RCT controlado por placebo em cefaleia crônica diária, além de numerosas revisões. Porém, o ensaio de Fase 3 tem status desconhecido e sem resultados publicados; por isso, o nível L1 deve ser tratado com cautela, pois a condição de "≥2 RCTs de Fase 3 concluídos" não é claramente atendida pelos dados disponíveis.
-- Todos os registros brasileiros estão cancelados, o que limita a via regulatória imediata.
+- O medicamento é comercializado no Brasil, com 3 registros válidos de 3.
 
 **Para prosseguir, é necessário:**
 - Obter os resultados do NCT05484349 (confirmar status e conclusão).

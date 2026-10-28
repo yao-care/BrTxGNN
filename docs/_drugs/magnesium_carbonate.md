@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Magnesium Carbonate
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 431
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-13
-description: "Magnesium Carbonate: nova indicação prevista, Doença ulcerosa péptica ativa (active peptic ulcer disease) (nível de evidência L4). Indicação original: Analgésicos não narcóticos (primeiro texto de in…"
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
+description: "Magnesium Carbonate: nova indicação prevista, Gastroduodenitis (nível de evidência L5). Indicação original: ANALGESICOS NAO NARCOTICOS"
 ---
 
 # Magnesium Carbonate
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Carbonato de Magnésio: De antiácido e analgésico não narcótico para doença ulcerosa péptica ativa
+## Magnesium Carbonate: Gastroduodenitis
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ mas há **0 ensaios clínicos** e apenas **1 publicação** (um estudo in vitro)
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Analgésicos não narcóticos (primeiro texto de indicação disponível); antiácido (segundo registro) |
-| Nova Indicação Prevista | Doença ulcerosa péptica ativa (active peptic ulcer disease) |
-| Pontuação de Previsão TxGNN | 99,96% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 2 (0 válidos, 2 cancelados) |
+| Indicação Original | ANALGESICOS NAO NARCOTICOS; ANTIACIDO |
+| Nova Indicação Prevista | Gastroduodenitis |
+| Pontuação de Previsão TxGNN | 0.9994 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -78,19 +78,14 @@ Outras previsões do modelo têm evidências igualmente fracas:
 
 | Indicação prevista | Pontuação TxGNN | Nível | Observação |
 |------|------|------|------|
-| Úlcera gastrojejunal | 99,95% | L4 | Estudos in vitro e antigos de proteção da mucosa (1985–1988), sem desfechos na doença |
-| Perfuração de úlcera péptica | 99,95% | L5 | Complicação cirúrgica aguda; provável artefato de propagação no grafo |
-| Gastroduodenite | 99,94% | L4 | Apenas modelo in vitro de estômago-duodeno artificial |
-| Úlcera gástrica | 99,82% | L4 | Estudo farmacodinâmico de pH com almagato (não carbonato de magnésio isolado) |
-| Gastroparesia | 99,69% | L5 | Distúrbio de motilidade; neutralização ácida não se aplica |
-| Doença gástrica | 99,59% | L4 | Categoria ampla, sobreposta à indicação antiácida atual |
-| Obstrução duodenal | 99,35% | L5 | Condição mecânica; sem papel terapêutico plausível |
-| Refluxo duodenogástrico | 99,21% | L4 | Apenas modelo in vitro |
-| Úlcera duodenal | 99,15% | L5 | Plausível e de uso histórico, mas sem estudos recuperados |
+| Gastroduodenite | 0,9994 | L4 | Apenas modelo in vitro de estômago-duodeno artificial |
+| Gastroparesia | 0,9969 | L5 | Distúrbio de motilidade; neutralização ácida não se aplica |
+| Doença gástrica | 0,9959 | L4 | Categoria ampla, sobreposta à indicação antiácida atual |
+| Obstrução duodenal | 0,9935 | L5 | Condição mecânica; sem papel terapêutico plausível |
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros estão cancelados.
+Os 2 registros estão válidos.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -112,7 +107,7 @@ Para advertências e contraindicações em bula, consulte a bula do medicamento.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta (99,96%), mas as evidências se limitam a um estudo in vitro (L4), sem nenhum ensaio clínico. A indicação é essencialmente uma extensão do uso antiácido já conhecido, e todos os registros no Brasil estão cancelados. O tratamento atual da úlcera péptica se baseia em inibidores da bomba de prótons e erradicação do *H. pylori*.
+- A previsão tem pontuação alta (0,9994), mas as evidências se limitam a um estudo in vitro (L4), sem nenhum ensaio clínico. A indicação é essencialmente uma extensão do uso antiácido já conhecido, e os 2 registros no Brasil estão válidos. O tratamento atual da úlcera péptica se baseia em inibidores da bomba de prótons e erradicação do *H. pylori*.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) a partir do DrugBank

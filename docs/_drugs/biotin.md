@@ -4,17 +4,17 @@ title: Biotin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 139
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Biotin: nova indicação prevista, Dispepsia (Dyspepsia) (nível de evidência L5). Indicação original: Deficiência nutricional de biotina"
+indication_count: 2
 monitor_inn: "Biotin"
-predicted_indications: ["dyspepsia", "gastroparesis (disease)", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "familial visceral myopathy", "anemia of prematurity", "congenital prothrombin deficiency", "cystinosis", "obsolete contact dermatitis caused by poison oak"]
+predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
+last_modified_at: 2026-10-27
+description: "Biotin: nova indicação prevista, dispepsia (dyspepsia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Biotin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,33 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Biotina: Da deficiência nutricional de biotina à dispepsia
+## Biotina: vitamina do complexo B, cofator de carboxilases → dispepsia (dyspepsia)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Biotina (vitamina B7) foi originalmente usada no tratamento da deficiência nutricional de biotina.
-O modelo TxGNN prevê que pode ser eficaz para **dispepsia (dyspepsia)**, mas a previsão não tem respaldo clínico: **0 ensaios clínicos** e **6 publicações**, nenhuma delas testando a biotina como tratamento para essa condição.
+Biotina é uma vitamina do complexo B, usada como suplementação em situações de deficiência nutricional.
+O modelo TxGNN prevê que pode ser eficaz para **dispepsia (dyspepsia)**, mas atualmente há **0 ensaios clínicos** e **6 publicações** retornadas na busca, nenhuma delas testando a biotina como tratamento da dispepsia.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Deficiência nutricional de biotina |
-| Nova Indicação Prevista | Dispepsia (Dyspepsia) |
-| Pontuação de Previsão TxGNN | 99,43% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | dispepsia (dyspepsia) |
+| Pontuação de Previsão TxGNN | 0,9943 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 2) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, a biotina é um cofator de carboxilases envolvidas no metabolismo de ácidos graxos, aminoácidos e gliconeogênese. Sua eficácia na reposição da deficiência de biotina está bem estabelecida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação da biotina nos dados compilados para este relatório. Em termos gerais, a biotina atua como cofator de enzimas carboxilases do metabolismo de gorduras, carboidratos e aminoácidos, mas isso não foi documentado aqui e não é suficiente para sustentar a previsão.
 
-Não foi identificada uma ligação mecanística crível entre a biotina e a dispepsia. A pontuação alta do TxGNN (0,994) vem de uma previsão baseada em grafo de conhecimento e não de dados clínicos. A literatura recuperada trata de deficiência de biotina em um lactente alimentado com fórmula de aminoácidos (em que a dispepsia era apenas um diagnóstico neonatal prévio), de células endócrinas gástricas na síndrome do intestino irritável, de correção da microbiota intestinal e de gastrite por *H. pylori*. Nenhum desses trabalhos avalia a biotina como tratamento da dispepsia.
+Não foi estabelecido um vínculo mecanístico crível com a dispepsia. A literatura recuperada trata de deficiência de biotina em um lactente alimentado com fórmula de aminoácidos, de células endócrinas gástricas na síndrome do intestino irritável, de correção da microbiota intestinal e de gastrite associada ao H. pylori. Nenhum desses trabalhos testa a biotina como tratamento da dispepsia.
 
-Portanto, a previsão deve ser tratada como uma hipótese a ser testada e não como uma indicação respaldada.
+A pontuação alta do TxGNN (0,9943) é uma previsão computacional e não é respaldada por dados clínicos. Qualquer ligação, como vias comuns de função gastrointestinal, é por ora especulativa.
 
 ## Evidências de Ensaios Clínicos
 
@@ -69,39 +69,35 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [15863846](https://pubmed.ncbi.nlm.nih.gov/15863846/) | 2005 | Relato de caso | The Journal of Dermatology | Deficiência de biotina em lactente de 5 meses alimentado só com fórmula de aminoácidos, com diagnóstico neonatal de dispepsia; apresentou alopecia e dermatite descamativa |
-| [21695955](https://pubmed.ncbi.nlm.nih.gov/21695955/) | 2011 | Revisão | Eksperimental'naia i klinicheskaia gastroenterologiia | Suplemento com fibras, vitaminas (incluindo biotina) e minerais na prevenção de distúrbios da microbiota em pacientes com doença pulmonar tratados com antibióticos; a biotina é apenas um componente |
+| [15863846](https://pubmed.ncbi.nlm.nih.gov/15863846/) | 2005 | Relato de caso | The Journal of Dermatology | Lactente japonês de 5 meses, diagnosticado como neonato com dispepsia e alimentado apenas com fórmula de aminoácidos, apresentou deficiência de biotina com lesões cutâneas típicas; biotina sérica e urinária abaixo do normal |
+| [21695955](https://pubmed.ncbi.nlm.nih.gov/21695955/) | 2011 | Revisão | Eksperimental'naia i klinicheskaia gastroenterologiia | Suplemento com fibras prebióticas e vitaminas (incluindo biotina) na correção da microbiota intestinal em pacientes com doenças pulmonares em uso de antibióticos |
 | [25110039](https://pubmed.ncbi.nlm.nih.gov/25110039/) | 2014 | Coorte | International Journal of Molecular Medicine | Células endócrinas do antro gástrico em 76 pacientes com síndrome do intestino irritável; sem relação com biotina |
-| [24891930](https://pubmed.ncbi.nlm.nih.gov/24891930/) | 2014 | Coorte | World Journal of Gastrointestinal Endoscopy | Células endócrinas da mucosa oxíntica gástrica na síndrome do intestino irritável; sem relação com biotina |
-| [11304845](https://pubmed.ncbi.nlm.nih.gov/11304845/) | 2001 | Coorte | Journal of Clinical Pathology | Origem celular da interleucina 10 na gastrite por *H. pylori*; sem relação com biotina |
-| [10354275](https://pubmed.ncbi.nlm.nih.gov/10354275/) | 1999 | Coorte | Kidney International | Linfócitos T do intestino delgado na nefropatia por IgA; sem relação com biotina |
+| [24891930](https://pubmed.ncbi.nlm.nih.gov/24891930/) | 2014 | Coorte | World Journal of Gastrointestinal Endoscopy | Células endócrinas da mucosa oxíntica do estômago em pacientes com síndrome do intestino irritável; sem relação com biotina |
+| [11304845](https://pubmed.ncbi.nlm.nih.gov/11304845/) | 2001 | Coorte | Journal of Clinical Pathology | Origem celular da interleucina 10 na gastrite associada ao H. pylori; sem relação com biotina |
+| [10354275](https://pubmed.ncbi.nlm.nih.gov/10354275/) | 1999 | Coorte | Kidney International | Células T do intestino delgado na nefropatia por IgA; sem relação com biotina |
 
 ## Informações de Comercialização no Brasil
 
-Não há registros de biotina como medicamento na ANVISA nos dados compilados para este relatório (situação: não comercializado; 0 registros).
+Segundo os dados compilados, há pelo menos 2 registros válidos e 18 cancelados, e a lista de registros pode estar incompleta. Os detalhes dos registros serão adicionados pelo programa do site.
 
 ## Considerações de Segurança
 
-- **Contraindicações no grafo de conhecimento (não extraídas da bula):** o grafo de conhecimento do TxGNN associa o fármaco a condições como doença renal, nefrolitíase, nefrocalcinose, hipercalcemia, hiperparatireoidismo, sarcoidose, distúrbio do metabolismo do fósforo, nefropatia aguda por urato, constipação e lesões ósseas metastáticas líticas. Esses dados são indicativos e precisam ser confirmados na bula.
-- **Interações medicamentosas:** nenhuma interação foi encontrada na consulta realizada.
-- **Interferência laboratorial:** doses altas de biotina podem interferir em imunoensaios baseados em estreptavidina-biotina (por exemplo, troponina e testes de tireoide).
+Os dados de advertências e contraindicações da bula não estavam disponíveis. Consulte a bula para informações de segurança.
 
-As advertências e contraindicações da bula da ANVISA não estavam disponíveis. Consulte a bula para informações de segurança completas.
+Não foram encontradas interações medicamentosas nos dados consultados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para dispepsia se baseia apenas na pontuação do modelo (L5), sem ensaios clínicos e com literatura que não testa a biotina como tratamento. Além disso, o produto não tem registro no Brasil.
+- A previsão se baseia apenas na pontuação do modelo (0,9943), sem ensaios clínicos e sem estudos que avaliem a biotina na dispepsia. O nível de evidência é L5.
 
 **Para prosseguir, é necessário:**
-- Dados do mecanismo de ação (MOA) da biotina, via DrugBank
-- Bula da ANVISA, com advertências e contraindicações, para a triagem de segurança
-- Evidência clínica ou pré-clínica que ligue a biotina à fisiopatologia da dispepsia
-- Esclarecimento da situação regulatória no Brasil (produto não comercializado como medicamento)
-
-**Observação sobre outras previsões:** entre as demais indicações previstas, a **doença metabólica da biotina** (pontuação de 92,14%) foi a que apresentou o maior respaldo, nível L2 e recomendação *Proceed with Guardrails*. Esse respaldo é principalmente mecanístico e de revisões. Os ensaios Phase 2 e Phase 2/3 com biotina em altas doses (MD1003) foram realizados em outras doenças, como esclerose lateral amiotrófica e adrenomieloneuropatia. Como essa indicação reafirma em grande parte o uso nutricional original, a novidade para reposicionamento é limitada.
+- Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
+- Levantar dados do mecanismo de ação da biotina e avaliar um vínculo plausível com a dispepsia
+- Realizar busca dirigida por estudos clínicos ou observacionais de biotina em dispepsia
+- Definir a via de administração e a forma farmacêutica compatíveis com a nova indicação
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

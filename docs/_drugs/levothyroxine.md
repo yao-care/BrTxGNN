@@ -4,17 +4,17 @@ title: Levothyroxine
 parent: Apenas Predição do Modelo (L5)
 nav_order: 416
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Levothyroxine: nova indicação prevista, Bócio nodular (Nodular Goiter) (nível de evidência L5). Indicação original: Hormônios tireoidianos simples ou associados entre si"
+indication_count: 4
 monitor_inn: "Levothyroxine"
-predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodular goiter (disease)", "bilateral renal agenesis", "nontoxic goiter", "lingual goiter", "dyshormonogenic goiter", "substernal goiter", "Potter sequence", "Carney complex"]
+predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
+last_modified_at: 2026-10-23
+description: "Levothyroxine: nova indicação prevista, Hipodisplasia/aplasia renal (nível de evidência L5). Indicação original: Hormônios tireoidianos simples ou associados entre si"
 ---
 
 # Levothyroxine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,107 +33,79 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Levotiroxina: Da reposição de hormônios tireoidianos ao bócio nodular
+## Levotiroxina: De hormônio tireoidiano à hipodisplasia/aplasia renal (previsão computacional)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-A levotiroxina é um hormônio tireoidiano sintético, registrado no Brasil para o grupo de "hormônios tireoidianos simples ou associados entre si".
-O modelo TxGNN prevê que pode ser eficaz para o **bócio nodular (Nodular Goiter)**, a indicação prevista com o maior respaldo de evidências entre as 10 candidatas, atualmente com **2 ensaios clínicos** e **19 publicações** apoiando esta direção.
-
-> Observação: a previsão de maior pontuação do modelo foi o *bócio endêmico* (99,81%), mas sem ensaios registrados (apenas literatura). A previsão com evidências mais robustas é o bócio nodular, que é o foco deste relatório. As demais candidatas estão resumidas ao final.
+Levotiroxina é um hormônio tireoidiano sintético (T4), registrado no Brasil para "hormônios tireoidianos simples ou associados entre si".
+O modelo TxGNN prevê que ela poderia ser útil para **hipodisplasia/aplasia renal (renal hypodysplasia/aplasia)**,
+mas **não há ensaios clínicos nem publicações** nos dados compilados para este relatório que apoiem essa direção; trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Hormônios tireoidianos simples ou associados entre si |
-| Nova Indicação Prevista | Bócio nodular (Nodular Goiter) |
-| Pontuação de Previsão TxGNN | 99,64% |
-| Nível de Evidência | L1 (atribuído de forma conservadora; L2 é uma alternativa defensável) |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 6 (todos cancelados) |
-| Decisão Recomendada | Proceed with Guardrails |
+| Nova Indicação Prevista | Hipodisplasia/aplasia renal |
+| Pontuação de Previsão TxGNN | 0,9967 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
+| Número de Registros | 6 (ativos: 6) |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a levotiroxina é a forma sintética da tiroxina (T4) e atua repondo o hormônio tireoidiano e suprimindo a secreção de TSH pela hipófise.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a levotiroxina é a forma sintética do hormônio tireoidiano T4, e a sinalização tireoidiana tem papel geral no crescimento fetal e na maturação de órgãos, incluindo o rim em desenvolvimento.
 
-O bócio nodular depende, em parte, do estímulo do TSH sobre as células foliculares da tireoide. Ao reduzir o TSH, a levotiroxina pode limitar o crescimento do tecido nodular. Essa lógica é a base da chamada "terapia supressiva" e liga diretamente a indicação original (reposição hormonal tireoidiana) à nova.
+A razoabilidade, porém, é fraca. A hipodisplasia/aplasia renal é uma malformação congênita estrutural, geralmente associada a defeitos genéticos (como PAX2, HNF1B e RET). Não há mecanismo estabelecido pelo qual a levotiroxina exógena reverta ou trate essa condição. A pontuação alta (0,9967) é apenas uma previsão computacional, provavelmente refletindo proximidade na rede de conhecimento.
 
-Essa plausibilidade biológica, porém, não equivale a benefício clínico comprovado. A literatura revisada aponta redução de volume modesta e inconsistente, retorno do crescimento após a suspensão e riscos de hipertireoidismo subclínico iatrogênico (perda óssea, fibrilação atrial). Por isso, iodo radioativo e cirurgia costumam ser preferidos em muitos cenários.
+Outras previsões do modelo seguem a mesma lógica e também carecem de evidências: agenesia renal bilateral (99,60%), sequência de Potter (99,33%) e complexo de Carney (99,18%). Neste último há uma conexão endócrina frouxa (envolvimento da tireoide), e a levotiroxina poderia servir como terapia de suporte, por exemplo no hipotireoidismo pós-cirúrgico ou na supressão de TSH, e não como tratamento modificador da doença.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT00277589](https://clinicaltrials.gov/study/NCT00277589) | Phase 4 | Concluído | 1024 | Ensaio randomizado, cego para o observador e controlado por placebo de terapia adaptada ao TSH em bócio nodular; desfecho primário: variação do volume total dos nódulos |
-| [NCT00941551](https://clinicaltrials.gov/study/NCT00941551) | N/A | Concluído | 150 | Ensaio randomizado com seguimento de 5 anos: lobectomia unilateral com ou sem levotiroxina pós-operatória, avaliando recorrência de bócio nodular no lobo contralateral |
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [10426591](https://pubmed.ncbi.nlm.nih.gov/10426591/) | 1999 | Estudo clínico | Endocrine Journal | Terapia supressiva por 6 meses em 35 pacientes com bócio difuso e 35 com bócio nodular eutireoideu; avaliou volumes da tireoide e dos nódulos e tireoglobulina |
-| [10382684](https://pubmed.ncbi.nlm.nih.gov/10382684/) | 1999 | Coorte retrospectiva | Endocrine Research | Comparou terapia supressiva e de reposição com levotiroxina em nódulo solitário e bócio multinodular |
-| [20683172](https://pubmed.ncbi.nlm.nih.gov/20683172/) | 2010 | Estudo clínico | Endocrine Journal | Efeitos de curto prazo da levotiroxina em 71 mulheres pré-menopausa com doença multinodular |
-| [19636201](https://pubmed.ncbi.nlm.nih.gov/19636201/) | 2009 | Retrospectivo | J Endocrinol Invest | Efeito da levotiroxina na recorrência nodular após hemitireoidectomia por bócio nodular benigno |
-| [8844728](https://pubmed.ncbi.nlm.nih.gov/8844728/) | 1996 | Revisão | Otolaryngol Clin North Am | Avaliação e manejo do bócio multinodular |
-| [39475129](https://pubmed.ncbi.nlm.nih.gov/39475129/) | 2024 | Revisão | Endokrynologia Polska | Atualização sobre opções de tratamento da tireoidite autoimune |
-| [34867359](https://pubmed.ncbi.nlm.nih.gov/34867359/) | 2021 | Revisão | Frontiers in Pharmacology | Medicina de precisão na tireoidite autoimune e no hipotireoidismo |
-| [25189867](https://pubmed.ncbi.nlm.nih.gov/25189867/) | 2015 | Revisão | Eur J Endocrinol | TSH recombinante e iodo radioativo como alternativa no bócio multinodular benigno |
-| [12397534](https://pubmed.ncbi.nlm.nih.gov/12397534/) | 2002 | Coorte | Exp Clin Endocrinol Diabetes | Seguimento de longo prazo (3 a 12 anos) do crescimento de nódulos tireoidianos benignos em 109 pacientes |
-| [36316779](https://pubmed.ncbi.nlm.nih.gov/36316779/) | 2022 | Estudo de desfechos | Thyroid Research | Desfechos de longo prazo após bócio nodular tóxico |
+Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 6 registros encontrados estão **cancelados**; atualmente não há registro válido de levotiroxina nos dados compilados.
-
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 100890359 | Euthyrox | Não informada | Hormônios tireoidianos simples ou associados entre si |
-| Registro 105530329 | Synthroid | Não informada | Hormônios tireoidianos simples ou associados entre si |
-| Registro 100890416 | Levotiroxina Sódica | Não informada | Hormônios tireoidianos simples ou associados entre si |
-| Registro 183260353 | Puran T4 | Não informada | Hormônios tireoidianos simples ou associados entre si |
-| Registro 105730366 | Levoid | Não informada | Hormônios tireoidianos simples ou associados entre si |
+| Registro nº 100890359 | EUTHYROX | Não informada | Hormônios tireoidianos simples ou associados entre si |
+| Registro nº 105530329 | SYNTHROID | Não informada | Hormônios tireoidianos simples ou associados entre si |
+| Registro nº 100890416 | LEVOTIROXINA SÓDICA | Não informada | Hormônios tireoidianos simples ou associados entre si |
+| Registro nº 183260353 | PURAN T4 | Não informada | Hormônios tireoidianos simples ou associados entre si |
+| Registro nº 105730366 | LEVOID | Não informada | Hormônios tireoidianos simples ou associados entre si |
+
+Há ainda um sexto registro válido (nº 100890202, EUTHYROX), com a mesma indicação.
 
 ## Considerações de Segurança
 
-- **Contraindicações (grafo de conhecimento, não texto de bula)**: o grafo de conhecimento do TxGNN associa a levotiroxina a contraindicações em: hipertensão arterial, hipopituitarismo e deficiências hormonais hipofisárias (incluindo deficiência isolada de hormônio do crescimento, hipogonadismo hipogonadotrófico e síndrome de Kallmann), síndrome de Sheehan, osteoporose (inclusive pós-menopausa), diabetes mellitus, cetoacidose diabética, doença arterial coronariana e infarto do miocárdio, além de doenças do timo. Essas informações não vêm da bula e devem ser confirmadas nela.
-- **Riscos relatados na literatura**: hipertireoidismo subclínico iatrogênico pode causar perda óssea e arritmias, como fibrilação atrial, com a supressão do TSH.
-- **Interações medicamentosas** (100 registradas; principais, em sua maioria de gravidade moderada):
-  - Antidiabéticos (acarbose, metformina, pioglitazona, alogliptina, canagliflozina, dapagliflozina, empagliflozina, clorpropamida, albiglutida, dulaglutida): possível alteração do controle glicêmico.
-  - Inibidores da bomba de prótons (omeprazol, rabeprazol, dexlansoprazol): podem reduzir a absorção da levotiroxina.
-  - Sais de cálcio e magnésio (fosfato e acetato de cálcio, óxido de magnésio): podem reduzir a absorção.
-  - Simpatomiméticos (epinefrina, isometepteno, dietilpropiona): possível potencialização dos efeitos cardiovasculares.
-  - Cimetidina: interação de gravidade leve.
+As advertências e contraindicações da bula não estavam disponíveis nos dados compilados; consulte a bula para essas informações.
 
-Para advertências e contraindicações oficiais, consulte a bula.
-
-## Outras Indicações Previstas (Resumo)
-
-| Indicação | Pontuação TxGNN | Nível | Recomendação | Comentário |
-|------|------|------|------|------|
-| Bócio endêmico | 99,81% | L3 | Proceed with Guardrails | Estudos multicêntricos e comparativos (levotiroxina, iodo ou combinação); sem ensaios registrados |
-| Bócio não tóxico | 99,36% | L3 | Proceed with Guardrails | Um ensaio randomizado vs. iodo radioativo (PMID 11238476); revisões indicam benefício modesto; sobreposição com o bócio nodular |
-| Bócio lingual | 99,36% | L4 | Pergunta de pesquisa | Apenas relatos de caso |
-| Bócio disormonogênico | 99,36% | L4 | Pergunta de pesquisa | Apenas estudo pré-clínico indireto |
-| Bócio subesternal | 99,36% | L4 | Hold | A cirurgia é o tratamento principal; sem evidência direta |
-| Hipodisplasia/aplasia renal, agenesia renal bilateral, sequência de Potter, complexo de Carney | 99,18% a 99,66% | L5 | Hold | Sem evidências nem vínculo mecanístico plausível; as três primeiras são malformações congênitas que a reposição tireoidiana não trataria |
+- **Relações de contraindicação registradas no grafo de conhecimento** (não são texto de bula): hipertensão, hipopituitarismo e deficiências hormonais hipofisárias (incluindo deficiência de hormônio do crescimento, síndrome de Kallmann e síndrome de Sheehan), hipogonadismo hipogonadotrófico, osteoporose (incluindo pós-menopausa), diabetes mellitus, cetoacidose diabética, doença arterial coronariana, infarto do miocárdio e doenças do timo.
+- **Interações medicamentosas**: foram identificadas 100 interações. As listadas são majoritariamente de gravidade moderada, incluindo:
+  - antidiabéticos (acarbose, metformina, pioglitazona, alogliptina, canagliflozina, dapagliflozina, empagliflozina, clorpropamida, albiglutida, dulaglutida);
+  - inibidores da bomba de prótons (omeprazol, rabeprazol, dexlansoprazol);
+  - sais de cálcio e magnésio (fosfato e acetato de cálcio, óxido de magnésio);
+  - simpatomiméticos (epinefrina, isometepteno, dietilpropiona).
+  - A cimetidina tem interação de gravidade leve.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-- Para o bócio nodular, há dois ensaios randomizados concluídos (um de fase 4 com 1.024 participantes, controlado por placebo), o que sustenta o nível L1 de forma conservadora, já que nenhum é fase 3. A literatura, porém, mostra benefício limitado e inconsistente, com riscos de supressão excessiva do TSH.
+- Não existe nenhum ensaio clínico ou publicação sobre levotiroxina nas indicações previstas (nível L5), e não há mecanismo plausível para tratar malformações renais estruturais congênitas. A pontuação alta do modelo não substitui evidência real.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar os resultados completos de NCT00277589 e NCT00941551, que não constam nos dados compilados.
-- Completar os dados de mecanismo de ação e de advertências e contraindicações da bula da ANVISA.
-- Resolver a situação regulatória: todos os 6 registros estão cancelados, então é preciso verificar a disponibilidade de produto com registro válido.
-- Definir salvaguardas: meta cuidadosa de TSH, restrição a pacientes selecionados (por exemplo, deficiência de iodo, mais jovens, nódulos pequenos) e monitoramento ósseo e cardíaco.
-- Revisar o texto completo do ensaio randomizado do bócio não tóxico (PMID 11238476) e consolidar a análise com a do bócio nodular, dada a sobreposição.
+- Dados do mecanismo de ação da levotiroxina.
+- Advertências e contraindicações da bula da ANVISA, para triagem de segurança.
+- Revisão sistemática da literatura e de registros de ensaios para qualquer das doenças previstas (por exemplo, estudos pré-clínicos sobre hormônio tireoidiano e desenvolvimento renal).
+- Avaliação de se a previsão do complexo de Carney (apenas como terapia de suporte) merece análise separada.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

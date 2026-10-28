@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Diuréticos simples |
 | Nova Indicação Prevista | Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) |
-| Pontuação de Previsão TxGNN | 99,26% |
+| Pontuação de Previsão TxGNN | 0,9926 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 8 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A hipotricose simples do couro cabeludo, porém, é uma condição hereditária rara, geralmente associada a variantes em genes como CDSN, APCDD1 ou RPL21, e não é primariamente dependente de androgênios. A relação com a indicação original (diurético) é indireta, e a ligação mecanística é **especulativa**: baseia-se apenas na pontuação elevada do TxGNN, sem estudos que a sustentem.
 
-Uma segunda indicação prevista, **hipotricose congênita com milia** (pontuação de 99,04%), apresenta o mesmo cenário: nível L5, sem ensaios nem literatura, e base mecanística ainda mais fraca por se tratar de distúrbio genético com origem estrutural/de desenvolvimento do folículo.
+Uma segunda indicação prevista, **hipotricose congênita com milia** (pontuação de 0,9904), apresenta o mesmo cenário: nível L5, sem ensaios nem literatura, e base mecanística ainda mais fraca por se tratar de distúrbio genético com origem estrutural/de desenvolvimento do folículo.
 
 ## Evidências de Ensaios Clínicos
 
@@ -72,7 +72,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros estão cancelados; não há registro válido atualmente.
+Todos os 8 registros estão válidos; o medicamento é comercializado no Brasil, com 8 licenças válidas de 8.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -99,7 +99,7 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão tem pontuação alta no modelo, mas nível de evidência L5, sem ensaios ou literatura, e com base mecanística especulativa para uma condição genética rara. Além disso, todos os registros brasileiros estão cancelados e os dados de segurança da bula estão ausentes.
+A previsão tem pontuação alta no modelo TxGNN (deep learning), mas nível de evidência L5, sem ensaios ou literatura, e com base mecanística especulativa para uma condição genética rara. O medicamento é comercializado no Brasil, com 8 licenças válidas de 8, e os dados de segurança da bula estão ausentes.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

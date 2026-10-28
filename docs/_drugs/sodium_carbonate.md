@@ -4,17 +4,17 @@ title: Sodium Carbonate
 parent: Apenas Predição do Modelo (L5)
 nav_order: 589
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-13
-description: "Sodium Carbonate: nova indicação prevista, Síndrome da cauda equina (cauda equina syndrome) (nível de evidência L5). Indicação original: Antiácido"
 monitor_inn: "Sodium carbonate"
-predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia", "obsolete bundle branch block", "panuveitis (disease)", "Sjogren syndrome", "catecholaminergic polymorphic ventricular tachycardia"]
+predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia"]
+description: "Sodium Carbonate: nova indicação prevista, Síndrome da cauda equina (cauda equina syndrome) (nível de evidência L5). Indicação original: ANTIACIDO"
 ---
 
 # Sodium Carbonate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Carbonato de sódio: Do antiácido à síndrome da cauda equina
+## Sodium Carbonate: Síndrome da cauda equina (cauda equina syndrome)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,12 +47,12 @@ O modelo TxGNN prevê que ele possa ser eficaz para **síndrome da cauda equina 
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antiácido |
+| Indicação Original | ANTIACIDO; ANTIACIDOS E ANTIULCEROSOS SIMPLES |
 | Nova Indicação Prevista | Síndrome da cauda equina (cauda equina syndrome) |
-| Pontuação de Previsão TxGNN | 99,80% |
+| Pontuação de Previsão TxGNN | 0.9980 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 10 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -61,7 +61,7 @@ O modelo TxGNN prevê que ele possa ser eficaz para **síndrome da cauda equina 
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o carbonato de sódio é um agente alcalino que neutraliza o ácido gástrico, e sua utilização como antiácido está registrada na ANVISA.
 
-**Não há relação mecanística plausível** entre essa ação e a síndrome da cauda equina. Essa síndrome é uma emergência neurológica compressiva, cujo tratamento depende de descompressão cirúrgica. A pontuação alta do TxGNN parece ser um artefato do grafo de conhecimento, sem respaldo clínico ou na literatura.
+**Não há relação mecanística plausível** entre essa ação e a síndrome da cauda equina. Essa síndrome é uma emergência neurológica compressiva, cujo tratamento depende de descompressão cirúrgica. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem respaldo clínico ou na literatura.
 
 ### Outras previsões do modelo
 
@@ -69,17 +69,12 @@ As demais previsões de maior pontuação também carecem de sustentação. A ta
 
 | Doença prevista | Pontuação TxGNN | Nível | Observação |
 |------|------|------|------|
-| Anafilaxia | 99,72% | L5 | Um artigo sobre formulação sublingual de epinefrina; sem relação terapêutica com o carbonato de sódio |
-| Anafilaxia induzida por exercício dependente de alimento | 99,63% | L5 | Sem mecanismo nem evidências |
-| Bexiga neurogênica (termo obsoleto) | 99,62% | L5 | Termo obsoleto na ontologia |
-| Síndrome do olho seco | 99,58% | L4 | Evidência indireta (spray oral) |
-| Taquicardia ventricular | 99,18% | L5 | Sem evidências |
-| Bloqueio de ramo (termo obsoleto) | 98,97% | L5 | Provável artefato do grafo |
-| Pan-uveíte | 98,89% | L5 | Sem relação plausível |
-| Síndrome de Sjögren | 98,82% | L3 | Único sinal modesto, em nível de sintoma |
-| Taquicardia ventricular polimórfica catecolaminérgica | 98,72% | L5 | Sem ação sobre a via envolvida |
+| Anafilaxia | 0,9972 | L5 | Um artigo sobre formulação sublingual de epinefrina; sem relação terapêutica com o carbonato de sódio |
+| Anafilaxia induzida por exercício dependente de alimento | 0,9963 | L5 | Sem mecanismo nem evidências |
+| Bexiga neurogênica (termo obsoleto) | 0,9962 | L5 | Termo obsoleto na ontologia |
+| Síndrome do olho seco | 0,9958 | L4 | Evidência indireta (spray oral) |
+| Taquicardia ventricular | 0,9918 | L5 | Sem evidências |
 
-A previsão com algum respaldo, ainda que fraco, é a **síndrome de Sjögren** (apenas alívio sintomático da boca seca), mas ela não é a de maior pontuação.
 
 ---
 
@@ -104,7 +99,7 @@ Para fins de contexto, as publicações encontradas para outras previsões foram
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros estão **cancelados**; atualmente não há produto de carbonato de sódio isolado com registro válido.
+Os 10 registros estão **válidos** (10 de 10); o produto está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -131,12 +126,11 @@ Não foram encontradas interações medicamentosas nos dados compilados para est
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para síndrome da cauda equina não tem ensaios, literatura nem mecanismo plausível (nível L5), e provavelmente é um artefato do grafo de conhecimento. Além disso, não há registro válido no Brasil.
+- A previsão para síndrome da cauda equina não tem ensaios, literatura nem mecanismo plausível (nível L5), e a pontuação provavelmente reflete semelhanças que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 10 de 10 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência que impede a triagem de segurança
 - Obter dados do mecanismo de ação no DrugBank
-- Se houver interesse em uma direção de pesquisa, priorizar a **síndrome de Sjögren** (alívio de sintomas orais) como questão de pesquisa, com revisão do texto completo do PMID 27813150 e, se justificado, um ensaio controlado
 - Considerar a ausência de registros válidos no Brasil em qualquer planejamento de desenvolvimento
 ## Aviso de isenção de responsabilidade
 

@@ -8,6 +8,7 @@ nav_order: 95
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Avibactam Sodium
@@ -51,8 +52,8 @@ O fármaco **não possui registros** no Brasil, e os dados essenciais de seguran
 | Nova Indicação Prevista | Nenhuma predição disponível |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 — sem predições geradas pelo modelo |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ---

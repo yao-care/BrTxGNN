@@ -48,10 +48,10 @@ Hoje há **1 ensaio clínico** (indireto, encerrado) e **8 publicações** relac
 |------|------|
 | Indicação Original | Outros produtos anti-hemorrágicos |
 | Nova Indicação Prevista | Infecção por HIV (HIV infectious disease) |
-| Pontuação de Previsão TxGNN | 99,26% |
+| Pontuação de Previsão TxGNN | 0,9926 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 2 (ambos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -100,7 +100,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta (99,26%), mas a evidência se limita a relatos e séries de casos em complicações hematológicas do HIV (L3). O único ensaio clínico não é em HIV e foi encerrado. Não há indício de efeito antiviral, e o fármaco não tem registro válido no Brasil.
+- A previsão tem pontuação alta (0,9926), mas a evidência se limita a relatos e séries de casos em complicações hematológicas do HIV (L3). O único ensaio clínico não é em HIV e foi encerrado. Não há indício de efeito antiviral, e o fármaco não tem registro válido no Brasil.
 
 **Para prosseguir, é necessário:**
 - Definir se o objetivo é tratar a trombocitopenia ou citopenias associadas ao HIV (suporte) ou buscar efeito antiviral, que hoje só tem respaldo pré-clínico.

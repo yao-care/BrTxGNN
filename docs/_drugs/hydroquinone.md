@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Hydroquinone
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 357
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-13
 description: "Hydroquinone: nova indicação prevista, Ceratose Seborreica (Seborrheic Keratosis) (nível de evidência L4). Indicação original: Desmelanizantes (despigmentantes)"
@@ -14,7 +14,7 @@ predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular kera
 # Hydroquinone
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **4** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (estudo o
 |------|------|
 | Indicação Original | Desmelanizantes (despigmentantes) |
 | Nova Indicação Prevista | Ceratose Seborreica (Seborrheic Keratosis) |
-| Pontuação de Previsão TxGNN | 99,73% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 12 |
+| Pontuação de Previsão TxGNN | 0,9973 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
+| Número de Registros | 12 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -84,7 +84,7 @@ Atualmente não há ensaios clínicos relacionados registrados para ceratose seb
 
 ## Informações de Comercialização no Brasil
 
-Todos os 12 registros estão cancelados; não há registro vigente.
+Os 12 registros no Brasil estão vigentes; o medicamento é comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -111,14 +111,14 @@ Para as demais informações de segurança (advertências, contraindicações e 
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos, e a única publicação é um estudo observacional indireto. Além disso, a ceratose seborreica é uma lesão benigna cuja base não é pigmentar, de modo que a plausibilidade mecanística é fraca. Todos os registros brasileiros estão cancelados.
+- Não há ensaios clínicos, e a única publicação é um estudo observacional indireto. Além disso, a ceratose seborreica é uma lesão benigna cuja base não é pigmentar, de modo que a plausibilidade mecanística é fraca. Os 12 registros brasileiros estão vigentes.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), que é uma lacuna bloqueante para a triagem de segurança
 - Complementar os dados de mecanismo de ação via DrugBank
 - Esclarecer a relevância clínica da despigmentação em ceratose seborreica, com estudos específicos (por exemplo, estudo piloto ou revisão sistemática)
 - Verificar a compatibilidade de via de administração e forma farmacêutica
-- Esclarecer a situação regulatória, dado que todos os registros estão cancelados, e avaliar o perfil de segurança relacionado a esse cancelamento
+- Confirmar a situação regulatória dos 12 registros vigentes e avaliar o perfil de segurança para essa possível indicação
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

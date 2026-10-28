@@ -4,17 +4,17 @@ title: Tacrolimus
 parent: Evidência Alta (L1-L2)
 nav_order: 602
 evidence_level: L1
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-13
-description: "Tacrolimus: nova indicação prevista, Dermatite seborreica (Seborrheic Dermatitis) (nível de evidência L1). Indicação original: Dermatite atópica (eczema atópico)"
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
+description: "Tacrolimus: nova indicação prevista, Dermatite seborreica (seborrheic dermatitis) (nível de evidência L1). Indicação original: Não consta nos dados locais"
 ---
 
 # Tacrolimus
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **3** 
+Nível de evidência: **L1** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L1** | Indicações previstas: **3**
 
 </div>
 
-## Tacrolimo: Da dermatite atópica à dermatite seborreica
+## Tacrolimus: Dermatite seborreica (seborrheic dermatitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ atualmente com **2 ensaios clínicos** e **20 publicações** relacionadas a est
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Dermatite atópica (eczema atópico) |
-| Nova Indicação Prevista | Dermatite seborreica (Seborrheic Dermatitis) |
-| Pontuação de Previsão TxGNN | 99,26% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Dermatite seborreica (seborrheic dermatitis) |
+| Pontuação de Previsão TxGNN | 0.9926 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 > Observação sobre o nível de evidência: o nível L1 foi atribuído pelo critério de avaliação dos dados compilados (ensaio de Fase 3 concluído, mais estudo de Fase 4 e literatura clínica). Pela regra estrita (≥2 RCTs de Fase 3 concluídos), há apenas um ensaio de Fase 3 nesta indicação; a classificação deve ser lida com cautela.

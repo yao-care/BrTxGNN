@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Magnesium Sulfate
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 433
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Magnesium Sulfate: nova indicação prevista, Pré-eclâmpsia/eclâmpsia (preeclampsia/eclampsia) (nível de evidência L1). Indicação original: Eletrólitos simples"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "MAGNESIUM SULFATE"
-predicted_indications: ["preeclampsia/eclampsia", "toxemia of pregnancy", "thrombotic disease", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
+predicted_indications: ["toxemia of pregnancy", "thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
+last_modified_at: 2026-10-23
+description: "Magnesium Sulfate: nova indicação prevista, Toxemia of pregnancy (nível de evidência L5). Indicação original: ELETROLITOS SIMPLES"
 ---
 
 # Magnesium Sulfate
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,70 +33,77 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-## Sulfato de Magnésio: De eletrólito simples para pré-eclâmpsia/eclâmpsia
+## Magnesium Sulfate: Toxemia of pregnancy
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-O sulfato de magnésio foi originalmente registrado no Brasil como eletrólito simples e como componente de polivitamínicos com minerais.
-O modelo TxGNN prevê que pode ser eficaz para **pré-eclâmpsia/eclâmpsia (preeclampsia/eclampsia)**,
-com **26 ensaios clínicos** e **19 publicações** nos dados compilados para esta direção. Na prática, trata-se de um uso já consolidado como padrão de cuidado, e não de um reposicionamento propriamente dito.
+O sulfato de magnésio é registrado no Brasil como eletrólito simples e como componente de polivitamínicos com minerais.
+O modelo TxGNN prevê que pode ser eficaz para **toxemia da gravidez (pré-eclâmpsia/eclâmpsia)**, atualmente com **28 ensaios clínicos** e **18 publicações** apoiando esta direção.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Eletrólitos simples |
-| Nova Indicação Prevista | Pré-eclâmpsia/eclâmpsia (preeclampsia/eclampsia) |
-| Pontuação de Previsão TxGNN | 99,999% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 4 (todos cancelados) |
+| Indicação Original | ELETROLITOS SIMPLES; POLIVITAMINICOS COM MINERAIS |
+| Nova Indicação Prevista | Toxemia of pregnancy |
+| Pontuação de Previsão TxGNN | 1.0000 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Proceed with Guardrails |
+
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base de origem do fármaco. Segundo a literatura compilada, o sulfato de magnésio atua como antagonista do receptor NMDA e bloqueador de canais de cálcio, além de promover vasodilatação cerebral. Esses efeitos reduzem o vasoespasmo cerebral e elevam o limiar convulsivo.
+Não há dados detalhados sobre o mecanismo de ação na base compilada para este relatório. Segundo informações conhecidas, o sulfato de magnésio atua como antagonista do receptor NMDA e bloqueador de canais de cálcio, além de promover vasodilatação cerebral. Esses efeitos reduzem o vasoespasmo cerebral e a excitabilidade neuronal.
 
-A indicação original (reposição de eletrólitos e suplementação mineral) não menciona a pré-eclâmpsia. Ainda assim, o uso em profilaxia e tratamento de convulsões eclâmpticas é amplamente documentado em diretrizes e é considerado o anticonvulsivante de escolha. Por isso, a previsão do modelo é muito coerente com a prática clínica.
+Esse mecanismo sustenta a profilaxia de convulsões na pré-eclâmpsia e na eclâmpsia. Trata-se de um uso já consolidado como padrão de cuidado, portanto esta previsão é mais uma validação de um uso conhecido do que um reposicionamento verdadeiramente novo. Observe que a indicação aprovada localmente (eletrólitos simples) é diferente: a toxemia da gravidez, neste relatório, não consta como indicação aprovada nos registros brasileiros listados.
 
-Observação: a doença "toxemia da gravidez" (segunda previsão do modelo) é sinônimo de pré-eclâmpsia/eclâmpsia. Trata-se de uma entrada duplicada na ontologia de doenças e deve ser unificada com este registro para evitar dupla contagem.
+---
 
 ## Evidências de Ensaios Clínicos
 
-Foram listados os ensaios mais relevantes (de 26 identificados).
+Foram identificados 28 ensaios; abaixo estão os 10 mais relevantes.
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT02317146](https://clinicaltrials.gov/study/NCT02317146) | Phase 2/3 | Concluído | 280 | Protocolo pós-parto de 6 vs 24 horas em pré-eclâmpsia grave com menos de 8 horas de uso pré-parto |
-| [NCT02307201](https://clinicaltrials.gov/study/NCT02307201) | Phase 2/3 | Concluído | 1114 | Sulfato de magnésio pós-parto vs. sem continuidade em mulheres com mais de 8 horas de uso antes do parto |
-| [NCT00004399](https://clinicaltrials.gov/study/NCT00004399) | N/A | Concluído | 2000 | Nimodipino vs sulfato de magnésio na prevenção de convulsões eclâmpticas |
-| [NCT03164304](https://clinicaltrials.gov/study/NCT03164304) | Phase 4 | Concluído | 222 | Dose de manutenção IV de 1 g vs 2 g na pré-eclâmpsia grave |
-| [NCT04501289](https://clinicaltrials.gov/study/NCT04501289) | N/A | Concluído | 114 | Dose baixa vs regime padrão de Pritchard |
-| [NCT01408979](https://clinicaltrials.gov/study/NCT01408979) | Phase 4 | Concluído | 120 | Profilaxia pós-parto de curta duração em pré-eclâmpsia grave |
-| [NCT02091401](https://clinicaltrials.gov/study/NCT02091401) | Phase 4 | Concluído | 200 | Bolus repetidos com bomba Springfusor vs infusão contínua (equivalência farmacocinética) |
-| [NCT06486025](https://clinicaltrials.gov/study/NCT06486025) | Phase 1/2 | Desconhecido | 100 | Protocolo alternativo de dose em mulheres com sobrepeso e obesidade |
-| [NCT02396030](https://clinicaltrials.gov/study/NCT02396030) | Phase 4 | Encerrado precocemente | 62 | 1 g/h vs 2 g/h na prevenção de eclâmpsia; evidência limitada |
-| [NCT07220902](https://clinicaltrials.gov/study/NCT07220902) | Phase 3 | Ainda não recrutando | 1240 | Levetiracetam vs sulfato de magnésio (estudo de equivalência, estudo LEVMag) |
+| [NCT02317146](https://clinicaltrials.gov/study/NCT02317146) | Phase 2/3 | Concluído | 280 | Protocolo pós-parto de 6 h versus 24 h de sulfato de magnésio em pré-eclâmpsia grave |
+| [NCT02307201](https://clinicaltrials.gov/study/NCT02307201) | Phase 2/3 | Concluído | 1114 | Magnésio por 24 h pós-parto versus sem manutenção em pacientes que já receberam >8 h antes do parto |
+| [NCT00004399](https://clinicaltrials.gov/study/NCT00004399) | N/A | Concluído | 2000 | Nimodipina versus sulfato de magnésio na prevenção de convulsões eclâmpticas |
+| [NCT03164304](https://clinicaltrials.gov/study/NCT03164304) | Phase 4 | Concluído | 222 | Dose de manutenção de 1 g versus 2 g IV na pré-eclâmpsia grave |
+| [NCT04501289](https://clinicaltrials.gov/study/NCT04501289) | N/A | Concluído | 114 | Dose baixa versus regime de Pritchard padrão |
+| [NCT01408979](https://clinicaltrials.gov/study/NCT01408979) | Phase 4 | Concluído | 120 | Profilaxia pós-parto com curso curto de magnésio |
+| [NCT02091401](https://clinicaltrials.gov/study/NCT02091401) | Phase 4 | Concluído | 200 | Regime de bolus repetido (bomba Springfusor) versus infusão contínua |
+| [NCT03318211](https://clinicaltrials.gov/study/NCT03318211) | Phase 4 | Desconhecido | 100 | Continuar versus interromper o magnésio após o parto |
+| [NCT02396030](https://clinicaltrials.gov/study/NCT02396030) | Phase 4 | Encerrado | 62 | 1 g/h versus 2 g/h de manutenção; encerrado precocemente |
+| [NCT07220902](https://clinicaltrials.gov/study/NCT07220902) | Phase 3 | Ainda não recrutando | 1240 | Levetiracetam versus sulfato de magnésio para prevenção de convulsão eclâmptica |
+
+---
 
 ## Evidências da Literatura
 
+Foram identificadas 18 publicações; abaixo estão as mais relevantes.
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [9794688](https://pubmed.ncbi.nlm.nih.gov/9794688/) | 1998 | Revisão | Obstet Gynecol | Eficácia, benefícios e riscos da profilaxia de convulsões com sulfato de magnésio |
-| [2288560](https://pubmed.ncbi.nlm.nih.gov/2288560/) | 1990 | Revisão | Am J Obstet Gynecol | Eficácia e segurança documentadas por cerca de 60 anos; fármaco de escolha na América do Norte |
-| [32980358](https://pubmed.ncbi.nlm.nih.gov/32980358/) | 2022 | Revisão | Am J Obstet Gynecol | Incidência e desfechos da eclâmpsia, com disparidade entre países desenvolvidos e em desenvolvimento |
-| [38669914](https://pubmed.ncbi.nlm.nih.gov/38669914/) | 2024 | Revisão | Pregnancy Hypertens | Superioridade sobre outros anticonvulsivantes em eclâmpsia; indicações amplas na pré-eclâmpsia |
-| [36822712](https://pubmed.ncbi.nlm.nih.gov/36822712/) | 2023 | Revisão | Obstet Gynecol Clin North Am | Regimes IV e IM eficazes; adaptação a países de baixa e média renda |
-| [8879973](https://pubmed.ncbi.nlm.nih.gov/8879973/) | 1996 | Revisão | Drug Saf | Superior a diazepam e fenitoína na prevenção de convulsões recorrentes |
-| [10803454](https://pubmed.ncbi.nlm.nih.gov/10803454/) | 2000 | Revisão | Clin Pharmacokinet | Princípios farmacocinéticos dos regimes IM e IV |
-| [23282276](https://pubmed.ncbi.nlm.nih.gov/23282276/) | 2012 | Diretriz | Rev Med Inst Mex Seguro Soc | Diretriz clínica de pré-eclâmpsia/eclâmpsia |
-| [17441885](https://pubmed.ncbi.nlm.nih.gov/17441885/) | 2007 | Coorte | J Obstet Gynaecol Res | Magnésio ionizado e total durante o tratamento |
-| [28301493](https://pubmed.ncbi.nlm.nih.gov/28301493/) | 2017 | Estudo qualitativo | PLoS One | Percepção de risco de obstetras brasileiros na prescrição |
+| [32980358](https://pubmed.ncbi.nlm.nih.gov/32980358/) | 2022 | Revisão | Am J Obstet Gynecol | Panorama da eclâmpsia no século XXI e disparidade entre países de alta e baixa renda |
+| [38669914](https://pubmed.ncbi.nlm.nih.gov/38669914/) | 2024 | Revisão | Pregnancy Hypertension | Indicações amplas do sulfato de magnésio na pré-eclâmpsia, além dos sintomas neurológicos |
+| [36822712](https://pubmed.ncbi.nlm.nih.gov/36822712/) | 2023 | Revisão | Obstet Gynecol Clin North Am | Regimes IV e IM em países de alta e baixa/média renda |
+| [38574215](https://pubmed.ncbi.nlm.nih.gov/38574215/) | 2024 | Revisão | Am Fam Physician | Distúrbios hipertensivos da gravidez |
+| [10803454](https://pubmed.ncbi.nlm.nih.gov/10803454/) | 2000 | Revisão | Clin Pharmacokinet | Princípios farmacocinéticos do sulfato de magnésio na eclâmpsia e pré-eclâmpsia |
+| [37467840](https://pubmed.ncbi.nlm.nih.gov/37467840/) | 2023 | Revisão | Am J Obstet Gynecol | Questiona o uso em todos os casos de hipertensão grave pós-parto tardia |
+| [8879973](https://pubmed.ncbi.nlm.nih.gov/8879973/) | 1996 | Revisão | Drug Safety | Magnésio superior a diazepam e fenitoína na prevenção de convulsões recorrentes |
+| [38872116](https://pubmed.ncbi.nlm.nih.gov/38872116/) | 2024 | Farmacocinética | BMC Pregnancy Childbirth | Farmacocinética populacional e otimização de dose em população chinesa |
+| [32642964](https://pubmed.ncbi.nlm.nih.gov/32642964/) | 2020 | Farmacocinética | Drugs R D | Farmacocinética populacional e covariáveis em pré-eclâmpsia |
+| [39870324](https://pubmed.ncbi.nlm.nih.gov/39870324/) | 2025 | RCT | AJOG MFM | Furosemida pós-parto para acelerar a recuperação (tema adjacente) |
+
+---
 
 ## Informações de Comercialização no Brasil
-
-Todos os registros encontrados estão cancelados; atualmente não há produto de sulfato de magnésio com registro válido nos dados compilados.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -105,38 +112,29 @@ Todos os registros encontrados estão cancelados; atualmente não há produto de
 | Registro 192900002 | Sal de Andrews | Não informada | Não informada |
 | Registro 102350339 | Gerovital | Não informada | Polivitamínicos com minerais |
 
+---
+
 ## Considerações de Segurança
 
-- **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: doença renal, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, doença diarreica crônica, apendicite, bloqueio atrioventricular, paralisia periódica hipercalêmica, paralisia periódica, hipoaldosteronismo, miotonia congênita, gastroparesia e piureter.
-- **Interações medicamentosas**: foram identificadas 92 interações. As de gravidade maior incluem **dolutegravir**, **amicacina** e **bictegravir**. Entre as moderadas estão doxiciclina, tetraciclina, ciprofloxacino, nifedipino, anlodipino, cisatracúrio, corticoides (hidrocortisona, dexametasona, betametasona, triancinolona), bisfosfonatos (alendronato, risedronato, ibandronato) e vitamina D e análogos (colecalciferol, calcifediol, calcitriol).
-- **Cuidados práticos sugeridos**: monitorar magnésio sérico, reflexos tendinosos profundos, frequência respiratória e diurese; ajustar a dose na insuficiência renal e na obesidade; manter gluconato de cálcio disponível como antídoto.
+- **Contraindicações (relações registradas no grafo de conhecimento, não texto de bula):** doença renal, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, diarreia crônica, apendicite, bloqueio atrioventricular, paralisia periódica hipercalêmica, miotonia congênita, hipoaldosteronismo, gastroparesia e piúria.
+- **Interações medicamentosas:** foram identificadas 92 interações. Entre as de gravidade maior: dolutegravir, amicacina e bictegravir. Entre as moderadas: doxiciclina, tetraciclina, ciprofloxacino, nifedipino, anlodipino, corticoides (hidrocortisona, dexametasona, betametasona, triancinolona), bisfosfonatos (ácido alendrônico, risedrônico, ibandronato), vitamina D e análogos (colecalciferol, calcifediol, calcitriol), baloxavir marboxil e cisatracúrio.
 
-Consulte também a bula para advertências e contraindicações oficiais, que não estavam disponíveis nos dados compilados.
+Não há dados de advertências e contraindicações da bula brasileira na base compilada; consulte a bula para informações completas de segurança.
 
-## Outras Indicações Previstas (Resumo)
-
-| Indicação | Nível | Recomendação | Observação |
-|------|------|------|------|
-| Doença trombótica | L3 | Research Question | Apenas um ensaio Phase 3 em PTT, status desconhecido; restante é pré-clínico |
-| Faringite | L2 | Research Question | Evidência refere-se a dor de garganta pós-operatória, não faringite infecciosa; mapeamento deve ser refinado |
-| Cefaleia | L1 | Research Question | Ensaio Phase 3 em enxaqueca concluído, sem resultados disponíveis |
-| Cefaleia autonômica trigeminal | L4 | Research Question | Séries de casos, principalmente com combinação cetamina-magnésio |
-| Transtorno psicótico | L4 | Hold | Apenas estudo Phase 1 em disfunção cognitiva e literatura histórica |
-| Doença da cavidade nasal, laringofaringite aguda, esquizofrenia refratária | L5 | Hold | Apenas previsão do modelo, sem ensaios nem literatura |
+---
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há vários ensaios clínicos concluídos (incluindo dois de Phase 2/3 e um grande estudo randomizado com 2.000 participantes) e ampla literatura de diretrizes que sustentam o uso na pré-eclâmpsia/eclâmpsia, que já é padrão de cuidado. As ressalvas são a ausência de registro válido no Brasil e a falta de dados de bula.
+- Há múltiplos ensaios clínicos diretamente sobre a pré-eclâmpsia/eclâmpsia, incluindo ensaios de fase 2/3 concluídos (NCT02317146, NCT02307201), e o uso já é padrão de cuidado. Porém, a toxemia da gravidez não consta nos registros brasileiros listados, e faltam dados de bula.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula da ANVISA (advertências e contraindicações oficiais).
-- Verificar a situação regulatória: não há registro válido atualmente, e a indicação obstétrica não consta nos registros cancelados.
-- Obter dados detalhados do mecanismo de ação (MOA) em fonte de referência.
-- Definir protocolo de monitoramento (magnésio sérico, reflexos, respiração, diurese) e ajuste de dose para insuficiência renal e obesidade.
-- Unificar as entradas duplicadas "pré-eclâmpsia/eclâmpsia" e "toxemia da gravidez" na análise.
+- Obter e analisar a bula na ANVISA (advertências, contraindicações, formas e vias de administração aprovadas).
+- Confirmar se algum registro cobre formulação injetável adequada ao uso obstétrico, pois os registros listados não informam forma farmacêutica.
+- Definir um protocolo de monitoramento (magnesemia, reflexos, diurese, frequência respiratória) e atenção especial a pacientes com doença renal.
+- Obter dados de mecanismo de ação a partir de fonte estruturada (DrugBank).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

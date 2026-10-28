@@ -4,17 +4,17 @@ title: Bisoprolol
 parent: Apenas Predição do Modelo (L5)
 nav_order: 144
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-13
-description: "Bisoprolol: nova indicação prevista, Doença Renal Hipertensiva Maligna (Malignant Hypertensive Renal Disea… (nível de evidência L5). Indicação original: Hipertensão arterial (transtorno hipertensivo)"
+indication_count: 4
 monitor_inn: "BISOPROLOL"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+last_modified_at: 2026-10-27
+description: "Bisoprolol: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Bisoprolol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **5** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,85 +33,59 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-## Bisoprolol: Da hipertensão arterial à doença renal hipertensiva maligna
+## Bisoprolol: betabloqueador seletivo beta-1 → doença renal hipertensiva maligna (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Bisoprolol é um betabloqueador seletivo beta-1, originalmente usado no tratamento da hipertensão arterial.
-O modelo TxGNN prevê que pode ser eficaz para **Doença Renal Hipertensiva Maligna (Malignant Hypertensive Renal Disease)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia apenas no modelo.
+Bisoprolol é um betabloqueador cardiosseletivo (beta-1 adrenérgico) usado para controle da pressão arterial.
+O modelo TxGNN prevê que pode ser eficaz para **doença renal hipertensiva maligna (malignant hypertensive renal disease)**,
+mas, nos dados compilados para este relatório, há **0 ensaios clínicos** e **0 publicações** que estudem diretamente essa doença; a previsão se apoia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial (transtorno hipertensivo) |
-| Nova Indicação Prevista | Doença Renal Hipertensiva Maligna (Malignant Hypertensive Renal Disease) |
-| Pontuação de Previsão TxGNN | 99,94% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Doença renal hipertensiva maligna (malignant hypertensive renal disease) |
+| Pontuação de Previsão TxGNN | 0,9994 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 13) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o bisoprolol é um bloqueador seletivo dos receptores beta-1 adrenérgicos, com eficácia comprovada na hipertensão, e mecanisticamente pode ser aplicável a complicações hipertensivas de órgãos-alvo.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Sabe-se que o bisoprolol bloqueia seletivamente os receptores beta-1 adrenérgicos, o que reduz a frequência cardíaca, o débito cardíaco e a secreção de renina. Esse efeito explica o seu uso na redução da pressão arterial.
 
-A doença renal hipertensiva maligna é uma complicação grave da hipertensão, com lesão renal causada por pressão arterial muito elevada. Por isso, é plausível supor que um fármaco que reduz a pressão arterial e a liberação de renina (por bloqueio beta-1 nas células justaglomerulares) possa ter algum papel.
+A doença renal hipertensiva maligna é uma complicação grave de órgão-alvo da hipertensão, com lesão renal associada a elevações muito intensas da pressão. Por isso, é plausível pensar que um fármaco que reduz a pressão e suprime a renina possa ter algum papel. Essa é, porém, uma hipótese mecanística, sem estudo que a confirme.
 
-Há, porém, ressalvas importantes. A pontuação alta do TxGNN (0,999) é apenas uma previsão do modelo. No manejo da hipertensão maligna, em geral são usados agentes intravenosos no cenário agudo, e os betabloqueadores não são tratamento de primeira linha. O valor incremental do bisoprolol nessa condição é incerto.
+É importante ter cautela: no manejo da hipertensão maligna, especialmente em situações agudas, costumam ser usados agentes intravenosos, e betabloqueadores não são de primeira linha. A pontuação elevada do TxGNN é apenas uma previsão do modelo e não substitui evidência clínica.
 
-### Outras previsões do modelo
+## Informações de Comercialização no Brasil
 
-Outras indicações previstas também têm apenas evidência de modelo, com decisão **Hold**:
-
-| Indicação Prevista | Pontuação TxGNN | Nível | Observação |
-|------|------|------|------|
-| Hipertensão renovascular maligna | 99,94% | L5 | O bloqueio beta-1 reduz a renina, mas o tratamento definitivo usa inibidores do SRA ou revascularização |
-| Hipertensão pulmonar de mecanismo multifatorial incerto | 99,93% | L5 | Vínculo mecanístico fraco; preocupação com efeito inotrópico negativo na falência do ventrículo direito |
-| Hipertensão pulmonar por doença pulmonar e/ou hipóxia | 99,93% | L4 | Apenas evidência indireta (ver abaixo) |
-| Síndrome de Braddock | 99,91% | L5 | Sem racional mecanístico identificável; condição rara |
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados para a indicação principal (doença renal hipertensiva maligna) nem para as demais indicações previstas.
-
-## Evidências da Literatura
-
-Não há literatura relacionada à indicação principal. A única indicação com literatura é a hipertensão pulmonar por doença pulmonar e/ou hipóxia, e todos os trabalhos são indiretos (nenhum estudou pacientes com hipertensão pulmonar):
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [23506636](https://pubmed.ncbi.nlm.nih.gov/23506636/) | 2013 | Estudo clínico comparativo | Int J Cardiol | Estudo CARNEBI: comparação multiparamétrica de carvedilol, nebivolol e bisoprolol em insuficiência cardíaca moderada |
-| [19789971](https://pubmed.ncbi.nlm.nih.gov/19789971/) | 2009 | Review | Cardiovasc Drugs Ther | Efeitos respiratórios dos betabloqueadores na insuficiência cardíaca; o conceito de que seriam contraindicados com função pulmonar alterada vem sendo questionado |
-| [18845967](https://pubmed.ncbi.nlm.nih.gov/18845967/) | 2008 | Estudo fisiológico | Med Sci Sports Exerc | Contribuição do bloqueio beta-adrenérgico e do metabo-quimiorreflexo para a capacidade de exercício |
-| [23706341](https://pubmed.ncbi.nlm.nih.gov/23706341/) | 2013 | Estudo fisiológico observacional | J Am Soc Echocardiogr | Adaptação do ventrículo esquerdo à hipóxia aguda, com e sem inibição beta-1 |
-| [32363697](https://pubmed.ncbi.nlm.nih.gov/32363697/) | 2020 | Pré-clínico | Fundam Clin Pharmacol | Bisoprolol protege células miocárdicas da lesão de isquemia-reperfusão via PI3K/AKT/GSK3β |
-| [27687650](https://pubmed.ncbi.nlm.nih.gov/27687650/) | 2016 | In vitro | Nan Fang Yi Ke Da Xue Xue Bao | Efeitos do pré-tratamento com bisoprolol na lesão por hipóxia/reoxigenação em cardiomiócitos H9c2 |
-| [39088923](https://pubmed.ncbi.nlm.nih.gov/39088923/) | 2024 | Pré-clínico (animal) | Int Immunopharmacol | Diosmina e bisoprolol combinados atenuam a cardiotoxicidade e a disfunção endotelial induzidas por cloreto de cobalto |
-| [12887136](https://pubmed.ncbi.nlm.nih.gov/12887136/) | 2003 | Relato de caso | Hypertens Res | Dois casos de feocromocitoma associado à tetralogia de Fallot (relevância limitada) |
+A situação de mercado no Brasil é de medicamento comercializado, com 13 registros válidos e 7 cancelados. Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não constam nos dados compilados.
 
 ## Considerações de Segurança
 
-- **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: o grafo de conhecimento do TxGNN associa o bisoprolol a condições como asma (incluindo intrínseca e alérgica), diabetes mellitus e cetoacidose diabética, doença renal, doença hepática (incluindo coma e encefalopatia hepática), pancreatite, doença da vesícula biliar, lúpus eritematoso sistêmico, psoríase, gota, hiperuricemia, hiperparatireoidismo, hipercalcemia, nefrocalcinose, anúria, miastenia gravis, transtornos de ansiedade e distímico, deficiência de potássio e icterícia neonatal. Essas associações exigem confirmação na bula.
-- **Interações Medicamentosas**: foram identificadas 100 interações no total. As amostras listadas incluem principalmente interações de gravidade **moderada**, como com epinefrina, bupropiona, morfina, atropina, hioscina/hiosciamina, metescopolamina, corticosteroides (hidrocortisona, dexametasona, betametasona, budesonida, triancinolona), acetoexamida e sais de cálcio (acetato, carbonato, citrato, gliconato). Interações **leves** incluem ácido acetilsalicílico, hidróxido de alumínio e attapulgita.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; entre as listadas, a maioria é de gravidade moderada. Exemplos de gravidade moderada: epinefrina, hidrocortisona, dexametasona, betametasona, triancinolona, budesonida, bupropiona, morfina, atropina, hioscina (hiosciamina), metescopolamina, acetoexamida e sais de cálcio (acetato, carbonato, citrato, gliconato). Exemplos de gravidade leve: ácido acetilsalicílico, hidróxido de alumínio e attapulgita.
 
-As advertências e contraindicações da bula da ANVISA não estavam disponíveis; consulte a bula para informações de segurança completas.
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta no modelo (99,94%), mas não há ensaios clínicos nem literatura (nível L5). Além disso, os betabloqueadores não são tratamento de primeira linha na hipertensão maligna, e o fármaco não está registrado no Brasil.
+- Não há ensaios clínicos nem publicações que estudem diretamente a doença renal hipertensiva maligna com bisoprolol; a previsão (0,9994) é apenas do modelo, e o nível de evidência é L5.
+- O papel de betabloqueadores nessa condição é limitado, pois o tratamento agudo tipicamente usa agentes intravenosos.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem esses dados
-- Complementar os dados de mecanismo de ação (consulta ao DrugBank)
-- Realizar revisão sistemática da literatura sobre betabloqueadores em hipertensão maligna e hipertensão renovascular
-- Avaliar a situação regulatória no Brasil, já que não há registros vigentes
-- Definir o valor incremental frente às terapias padrão (inibidores do SRA, agentes intravenosos, revascularização)
+- Dados detalhados do mecanismo de ação (MOA)
+- Revisão sistemática da literatura sobre betabloqueadores em hipertensão maligna e nefropatia hipertensiva
+- Informações de segurança da bula (advertências e contraindicações) obtidas na ANVISA
+- Avaliação de segurança renal e hemodinâmica para pacientes com hipertensão grave e comprometimento renal
+- Definição de via de administração compatível com o cenário clínico (agudo versus crônico)
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

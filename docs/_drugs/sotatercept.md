@@ -6,7 +6,7 @@ nav_order: 597
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Sotatercept: nova indicação prevista, Leucemia Linfoblástica Aguda (acute lymphoblastic leukemia) (nível de evidência L5). Indicação original: Anti-hipertensivos para hipertensão arterial pulmonar"
+description: "Sotatercept: nova indicação prevista, leucemia linfoblástica aguda (nível de evidência L5). Indicação original: Anti-hipertensivos para hipertensão arterial pulmonar"
 monitor_inn: "sotatercept"
 predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis", "diabetic cataract", "HER2 positive breast carcinoma", "transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant"]
 ---
@@ -48,30 +48,30 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compi
 |------|------|
 | Indicação Original | Anti-hipertensivos para hipertensão arterial pulmonar |
 | Nova Indicação Prevista | Leucemia Linfoblástica Aguda (acute lymphoblastic leukemia) |
-| Pontuação de Previsão TxGNN | 99,78% |
+| Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o sotatercepte é uma proteína de fusão do receptor de activina tipo IIA com Fc (ActRIIA-Fc). Ele captura activinas e fatores de diferenciação de crescimento (GDFs), reequilibrando a sinalização BMP/activina, o que sustenta seu uso na hipertensão arterial pulmonar.
 
-A ligação com a leucemia linfoblástica aguda é **especulativa**. A sinalização da família activina/TGF-beta pode influenciar a hematopoese, mas não há mecanismo direto estabelecido. A pontuação alta (0,998) é apenas uma previsão do modelo, sem respaldo em ensaios ou publicações. Como o fármaco modula a diferenciação hematopoética, um sinal em neoplasia hematológica também precisaria ser avaliado quanto a possível **dano**, e não apenas benefício.
+A ligação com a leucemia linfoblástica aguda é **especulativa**. A sinalização da família activina/TGF-beta pode influenciar a hematopoese, mas não há mecanismo direto estabelecido. A pontuação alta (0,9978) é apenas uma previsão do modelo, sem respaldo em ensaios ou publicações. Como o fármaco modula a diferenciação hematopoética, um sinal em neoplasia hematológica também precisaria ser avaliado quanto a possível **dano**, e não apenas benefício.
 
 ### Outras previsões do modelo (todas L5, Hold)
 
-Todas as previsões abaixo têm pontuação TxGNN entre 99,3% e 99,8%, sem ensaios clínicos nem literatura nos dados compilados:
+Todas as previsões abaixo têm pontuação do modelo TxGNN (deep learning) entre 0,9934 e 0,9978, sem ensaios clínicos nem literatura nos dados compilados:
 
 | Posição | Doença prevista | Pontuação | Observação sobre plausibilidade |
 |------|------|------|------|
-| 2 | Retinopatia diabética não proliferativa grave | 99,77% | Plausível, porém indireta (remodelação vascular mediada por activina/BMP); preocupação com sangramento e telangiectasias |
-| 3 | Retinopatia diabética | 99,72% | Categoria mais ampla, sobreposta à anterior; não é evidência independente |
-| 4 | Osteoporose induzida por fármacos | 99,65% | Biologicamente a mais coerente (activina regula a remodelação óssea; armadilhas de ligantes ActRIIA-Fc mostraram efeitos anabólicos ósseos em estudos pré-clínicos e iniciais); precisa ser verificada por busca dedicada |
-| 5 | Catarata diabética | 99,49% | Sem conexão mecanística clara; provável artefato de vizinhança no grafo |
-| 6 | Carcinoma de mama HER2 positivo | 99,43% | Papel da sinalização de activina/TGF-beta é dependente de contexto; terapia-padrão anti-HER2 já bem estabelecida |
-| 7–10 | Carcinoma urotelial e variantes (células transicionais, uretra prostática, pelve renal sarcomatoide, bexiga sarcomatoide) | 99,34–99,39% | Sem mecanismo conhecido; previsões correlacionadas entre si, não independentes |
+| 2 | Retinopatia diabética não proliferativa grave | 0,9977 | Plausível, porém indireta (remodelação vascular mediada por activina/BMP); preocupação com sangramento e telangiectasias |
+| 3 | Retinopatia diabética | 0,9972 | Categoria mais ampla, sobreposta à anterior; não é evidência independente |
+| 4 | Osteoporose induzida por fármacos | 0,9965 | Biologicamente a mais coerente (activina regula a remodelação óssea; armadilhas de ligantes ActRIIA-Fc mostraram efeitos anabólicos ósseos em estudos pré-clínicos e iniciais); precisa ser verificada por busca dedicada |
+| 5 | Catarata diabética | 0,9949 | Sem conexão mecanística clara; a pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica |
+| 6 | Carcinoma de mama HER2 positivo | 0,9943 | Papel da sinalização de activina/TGF-beta é dependente de contexto; terapia-padrão anti-HER2 já bem estabelecida |
+| 7–10 | Carcinoma urotelial e variantes (células transicionais, uretra prostática, pelve renal sarcomatoide, bexiga sarcomatoide) | 99,34–0,9939 | Sem mecanismo conhecido; previsões correlacionadas entre si, não independentes |
 
 ## Evidências de Ensaios Clínicos
 

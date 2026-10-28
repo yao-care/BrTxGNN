@@ -4,7 +4,7 @@ title: Bempedoic Acid
 parent: Apenas Predição do Modelo (L5)
 nav_order: 114
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Bempedoic Acid: nova indicação prevista, Hipertireoidismo (Hyperthyroidism) (nível de evidência L5). Indicação original: Antilipêmicos"
 monitor_inn: "bempedoic acid"
@@ -14,7 +14,7 @@ predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to
 # Bempedoic Acid
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 ## Resumo em Uma Frase
 
 O ácido bempedoico (NUSTENDI) foi originalmente registrado na ANVISA como antilipêmico, ou seja, para redução de lipídios no sangue.
-O modelo TxGNN prevê que pode ser eficaz para **Hipertireoidismo (Hyperthyroidism)**, mas esta é uma previsão puramente baseada em grafo, com **0 ensaios clínicos** e **0 publicações** apoiando esta direção.
+O modelo TxGNN (deep learning) prevê que pode ser eficaz para **Hipertireoidismo (Hyperthyroidism)**, mas esta previsão vem apenas do modelo e pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica, com **0 ensaios clínicos** e **0 publicações** apoiando esta direção.
 
 ## Visão Geral Rápida
 
@@ -47,33 +47,31 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertireoidismo (Hyperthyroidi
 |------|------|
 | Indicação Original | Antilipêmicos |
 | Nova Indicação Prevista | Hipertireoidismo (Hyperthyroidism) |
-| Pontuação de Previsão TxGNN | 99,61% |
+| Pontuação de Previsão TxGNN | 0,9961 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo conhecimento farmacológico geral, o ácido bempedoico inibe a enzima ATP-citrato liase (ACLY) no fígado, etapa anterior à HMG-CoA redutase, o que aumenta a expressão de receptores de LDL e reduz o LDL-colesterol.
 
-Não há vínculo mecanístico claro entre essa via e a síntese ou secreção de hormônios tireoidianos. A pontuação alta (0,996) reflete apenas a proximidade no grafo de conhecimento, sem ensaios ou literatura que a sustentem. Portanto, a previsão deve ser tratada com cautela e, por ora, como hipótese sem respaldo.
+Não há vínculo mecanístico claro entre essa via e a síntese ou secreção de hormônios tireoidianos. A pontuação alta (0,9961) vem do modelo TxGNN (deep learning) e pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica, sem ensaios ou literatura que a sustentem. Portanto, a previsão deve ser tratada com cautela e, por ora, como hipótese sem respaldo.
 
 **Outras previsões do modelo (todas com nível L5, salvo indicação):**
 
 | Posição | Doença prevista | Pontuação | Comentário |
 |------|------|------|------|
-| 2 | Resistência ao hormônio tireoidiano (mutação no receptor beta) | 99,58% | Sobreposição conceitual frouxa com metabolismo lipídico hepático; especulativo |
-| 3 | Febre catarral maligna | 99,58% | Doença veterinária de ruminantes; provável artefato do grafo |
-| 4 | Rinotraqueíte infecciosa bovina | 99,58% | Doença veterinária; provável artefato do grafo |
-| 5 | Infecção por citomegalovírus | 99,53% | Conceitualmente concebível via metabolismo lipídico do hospedeiro, sem dados |
-| 6 | Hipercolesterolemia familiar homozigótica | 99,48% | Melhor ajuste mecanístico e única com literatura (nível L4) |
-| 7 | Hipertiroxinemia | 99,34% | Sem vínculo conhecido |
-| 8 | Osteoporose induzida por fármacos | 99,21% | Sem mecanismo conhecido |
-| 9 | Neoplasia endócrina múltipla | 99,18% | Sem racional mecanístico |
-| 10 | Osteoporose associada à gestação | 99,17% | Sem vínculo; preocupações de segurança na gravidez |
+| 2 | Resistência ao hormônio tireoidiano (mutação no receptor beta) | 0,9958 | Sobreposição conceitual frouxa com metabolismo lipídico hepático; especulativo |
+| 3 | Febre catarral maligna | 0,9958 | Doença veterinária de ruminantes; pontuação do modelo TxGNN (deep learning), que pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica |
+| 4 | Rinotraqueíte infecciosa bovina | 0,9958 | Doença veterinária; pontuação do modelo TxGNN (deep learning), que pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica |
+| 5 | Infecção por citomegalovírus | 0,9953 | Conceitualmente concebível via metabolismo lipídico do hospedeiro, sem dados |
+| 7 | Hipertiroxinemia | 0,9934 | Sem vínculo conhecido |
+| 8 | Osteoporose induzida por fármacos | 0,9921 | Sem mecanismo conhecido |
+| 9 | Neoplasia endócrina múltipla | 0,9918 | Sem racional mecanístico |
+| 10 | Osteoporose associada à gestação | 0,9917 | Sem vínculo; preocupações de segurança na gravidez |
 
-A previsão de **hipercolesterolemia familiar homozigótica (HoFH)** é a mais plausível: o fármaco atua sobre o metabolismo do colesterol. Contudo, na HoFH a função do receptor de LDL está gravemente comprometida ou ausente, de modo que a eficácia de um mecanismo dependente do aumento desses receptores tende a ser limitada, sobretudo em pacientes receptor-negativos.
 
 ## Evidências de Ensaios Clínicos
 

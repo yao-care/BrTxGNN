@@ -50,10 +50,10 @@ Trata-se, na prática, mais da confirmação de um uso antibacteriano já estabe
 |------|------|
 | Indicação Original | Cicatrizantes (classificação "Cloranfenicol e análogos" e "Outros medicamentos com ação no aparelho visual" também constam nos registros) |
 | Nova Indicação Prevista | Conjuntivite (Conjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,66% |
+| Pontuação de Previsão TxGNN | 0,9966 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 8 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ---
@@ -95,7 +95,7 @@ Foram identificadas 19 publicações. Abaixo, as mais relevantes (priorizando es
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros encontram-se cancelados. Os 5 principais:
+Todos os 8 registros encontram-se válidos. Os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -141,14 +141,14 @@ As demais previsões têm evidência fraca e recebem **Hold**:
 
 | Indicação prevista | Pontuação TxGNN | Nível | Observação |
 |------|------|------|------|
-| Esclerodermia difusa | 99,65% | L5 | A literatura trata de regulação gênica do colágeno; a associação provavelmente decorre de genes repórter CAT (cloranfenicol acetiltransferase), não de efeito farmacológico |
-| Vasculite pós-infecciosa | 99,58% | L5 | Apenas previsão; mecanismo imunomediado |
-| Distúrbio pós-bacteriano | 99,57% | L5 | Único estudo (NCT05106803) é de perfil de resistência, sem avaliação do fármaco |
-| Síndrome pós-infecciosa | 99,56% | L5 | Rótulo vago; racional antibacteriano fraco |
-| Estenose uretral infecciosa | 99,52% | L5 | Único artigo (relato de caso de 1964) não é pertinente |
-| Cardiomiopatia chagásica | 99,51% | L5 | Sem atividade antiparasitária estabelecida |
-| Síndrome hemolítico-urêmica associada a infecção | 99,50% | L5 | Antibióticos podem aumentar a liberação de toxina; risco hematológico |
-| Ceratoconjuntivite epitelial punctata | 99,17% | L4 | A literatura trata de ceratoconjuntivite microsporídica, sem atividade comprovada do cloranfenicol |
+| Esclerodermia difusa | 0,9965 | L5 | A literatura trata de regulação gênica do colágeno; a associação provavelmente decorre de genes repórter CAT (cloranfenicol acetiltransferase), não de efeito farmacológico |
+| Vasculite pós-infecciosa | 0,9958 | L5 | Apenas previsão; mecanismo imunomediado |
+| Distúrbio pós-bacteriano | 0,9957 | L5 | Único estudo (NCT05106803) é de perfil de resistência, sem avaliação do fármaco |
+| Síndrome pós-infecciosa | 0,9956 | L5 | Rótulo vago; racional antibacteriano fraco |
+| Estenose uretral infecciosa | 0,9952 | L5 | Único artigo (relato de caso de 1964) não é pertinente |
+| Cardiomiopatia chagásica | 0,9951 | L5 | Sem atividade antiparasitária estabelecida |
+| Síndrome hemolítico-urêmica associada a infecção | 0,9950 | L5 | Antibióticos podem aumentar a liberação de toxina; risco hematológico |
+| Ceratoconjuntivite epitelial punctata | 0,9917 | L4 | A literatura trata de ceratoconjuntivite microsporídica, sem atividade comprovada do cloranfenicol |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

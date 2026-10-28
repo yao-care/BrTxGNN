@@ -8,6 +8,7 @@ nav_order: 64
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amoxicillin Trihydrate
@@ -51,7 +52,7 @@ Sem indicações previstas, a avaliação de evidências clínicas e de literatu
 | Nova Indicação Prevista | Nenhuma — TxGNN não gerou previsão |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão do modelo, sem estudos associados) |
-| Situação no Mercado Brasileiro | Não localizado na consulta ANVISA |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros ANVISA | 0 (resultado da consulta com nomenclatura em inglês) |
 | Decisão Recomendada | **Hold** |
 

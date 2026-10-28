@@ -8,6 +8,7 @@ nav_order: 179
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Calcium Carbonate
@@ -51,8 +52,8 @@ Com ausência de indicações previstas, ensaios clínicos associados e literatu
 | Nova Indicação Prevista | Nenhuma (TxGNN não gerou candidatos) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem estudos reais; modelo não retornou candidatos) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (registros: 0) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
+| Número de Registros | 13 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ---

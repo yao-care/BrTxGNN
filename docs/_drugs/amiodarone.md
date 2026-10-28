@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Amiodarone
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Moderada (L3-L4)
 nav_order: 56
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Amiodarone: nova indicação prevista, Taquicardia ventricular polimórfica catecolaminérgica (catecholaminer… (nível de evidência L5). Indicação original: Antiarrítmicos"
@@ -14,7 +14,7 @@ predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia",
 # Amiodarone
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Amiodarona: Do tratamento de arritmias à taquicardia ventricular catecolaminérgica polimórfica
+## Amiodarona: Do tratamento de arritmias à Taquicardia ventricular polimórfica catecolaminérgica
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **taquicardia ventricular polimó
 |------|------|
 | Indicação Original | Antiarrítmicos |
 | Nova Indicação Prevista | Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) |
-| Pontuação de Previsão TxGNN | 99,78% |
+| Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L4 (apenas estudos de coorte, relatos de caso e revisões; sem estudos diretos do fármaco na doença) |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 12 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
+| Número de Registros | 12 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 > **Observação importante:** entre as 10 indicações previstas, a de maior evidência é a **taquicardia ventricular** (rank 3; nível L1; Proceed with Guardrails), que na prática é um uso já consolidado e próximo da indicação original, e não um reposicionamento propriamente dito. Esta análise segue a indicação de rank 1 (CPVT), mas a taquicardia ventricular é apresentada na conclusão como alternativa.
@@ -85,7 +85,7 @@ Nenhuma dessas publicações demonstra benefício direto da amiodarona na CPVT.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 12 registros encontrados constam como **cancelados**; não há registro válido atualmente.
+Dos 12 registros encontrados, os 12 constam como **válidos**; o medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -118,7 +118,7 @@ As informações de advertências e contraindicações da bula não estavam disp
 
 **Justificativa:**
 - Para CPVT, não há ensaios clínicos nem estudos que mostrem benefício da amiodarona. Os tratamentos estabelecidos (betabloqueadores e flecainida) são superiores, e o perfil de segurança da amiodarona é pesado.
-- Todos os registros brasileiros estão cancelados, o que limita a viabilidade local.
+- O medicamento está comercializado no Brasil, com 12 registros válidos de 12.
 
 **Outras indicações previstas:**
 - **Taquicardia ventricular** (99,64%; L1): apoiada por ensaios de Fase 3 concluídos (AVID, NCT00000531; ALPS, NCT01401647) e por ensaios de Fase 4 (PROCAMIO, NCT00383799; OPTIC, NCT00257959; NCT03299517). É um uso já estabelecido, e não um reposicionamento verdadeiro; recomendação **Proceed with Guardrails**.
@@ -129,7 +129,7 @@ As informações de advertências e contraindicações da bula não estavam disp
 - Obter os dados de advertências e contraindicações da bula na ANVISA.
 - Obter os dados de mecanismo de ação (MOA) no DrugBank.
 - Para CPVT: estudos comparativos diretos da amiodarona versus betabloqueadores/flecainida.
-- Confirmar a disponibilidade regional do produto, dado que todos os registros estão cancelados.
+- Confirmar a disponibilidade regional do produto, embora os 12 registros estejam válidos.
 - Definir um plano de monitoramento (tireoide, fígado, pulmão, olhos, QT e interações medicamentosas) caso se avance para a taquicardia ventricular.
 ## Aviso de isenção de responsabilidade
 

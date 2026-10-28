@@ -4,7 +4,7 @@ title: Bosentan
 parent: Evidência Moderada (L3-L4)
 nav_order: 147
 evidence_level: L4
-indication_count: 9
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Bosentan: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L4). Indicação original: Anti-hipertensivos"
 monitor_inn: "bosentan"
@@ -14,7 +14,7 @@ predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndro
 # Bosentan
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **9** 
+Nível de evidência: **L4** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 |------|------|
 | Indicação Original | Anti-hipertensivos |
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
-| Pontuação de Previsão TxGNN | 99,80% |
+| Pontuação de Previsão TxGNN | 0,9980 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 5 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -100,8 +100,8 @@ As advertências e contraindicações oficiais da bula brasileira não estavam d
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta no TxGNN (99,80%), mas não há ensaios clínicos nem dados de eficácia em humanos com artrite reumatoide; o suporte se limita a modelos animais (nível L4).
-- Todos os 5 registros brasileiros estão cancelados e o perfil de segurança exige atenção (especialmente toxicidade hepática).
+- A previsão tem pontuação alta no TxGNN (0,9980), mas não há ensaios clínicos nem dados de eficácia em humanos com artrite reumatoide; o suporte se limita a modelos animais (nível L4).
+- Dos 5 registros brasileiros, todos os 5 estão válidos (mercado: comercializado) e o perfil de segurança exige atenção (especialmente toxicidade hepática).
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação consolidados (via DrugBank)
@@ -110,7 +110,6 @@ As advertências e contraindicações oficiais da bula brasileira não estavam d
 - Avaliação da viabilidade regulatória, dado que não há registro vigente no Brasil
 - Plano de monitoramento hepático e hematológico para eventual estudo
 
-**Observação sobre outras indicações previstas:** a esclerose sistêmica limitada (rank 3, pontuação de 99,65%, nível L3) tem evidência mais robusta que a artrite reumatoide, com uma revisão sistemática de 2023 sobre úlceras digitais e um ensaio randomizado versus nifedipino, embora nenhum ensaio clínico esteja registrado nos dados compilados. Vale considerá-la como alternativa prioritária em uma avaliação futura.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

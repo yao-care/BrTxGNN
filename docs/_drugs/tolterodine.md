@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Tolterodine
-parent: Evidência Moderada (L3-L4)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 646
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Tolterodine: nova indicação prevista, Bexiga de baixa complacência (low compliance bladder) (nível de evidência L3). Indicação original: Outros produtos com ação no trato urinário"
-monitor_inn: "Tolterodine"
-predicted_indications: ["low compliance bladder", "polycystic kidney disease 3 with or without polycystic liver disease", "thoracic malformation", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "karyomegalic interstitial nephritis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Tolterodine: known uses and market status in Brazil; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Tolterodine
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,58 +32,45 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Tolterodina: De outros produtos com ação no trato urinário para bexiga de baixa complacência
+<!-- known-uses-page -->
+<!-- description: Tolterodine: known uses and market status in Brazil; currently no new candidate indication -->
+## Tolterodine: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+Todos os candidatos que o modelo TxGNN gerou para Tolterodine correspondem a usos já conhecidos. Por isso, no momento não há nova indicação prevista para este medicamento.
 
-Tolterodina é um antagonista muscarínico registrado no Brasil (como Detrusitol) na categoria "outros produtos com ação no trato urinário".
-O modelo TxGNN prevê que pode ser eficaz para **bexiga de baixa complacência (low compliance bladder)**,
-atualmente sem ensaios clínicos registrados, mas com **9 publicações** relacionadas à área (das quais apenas algumas tratam diretamente da tolterodina).
-
-## Visão Geral Rápida
-
+## Visão geral rápida
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Outros produtos com ação no trato urinário |
-| Nova Indicação Prevista | Bexiga de baixa complacência (low compliance bladder) |
-| Pontuação de Previsão TxGNN | 96,31% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis a uma fonte são usos conhecidos) |
+| Usos conhecidos entre os candidatos do modelo | 1 |
+| Nível de evidência | Não aplicável |
+| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos entre os candidatos do modelo
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a tolterodina é um antagonista competitivo dos receptores muscarínicos, que reduz a hiperatividade do detrusor e aumenta a capacidade vesical.
+### Aprovados (com respaldo em registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| Nenhum | Nenhum |
 
-Em bexigas neurogênicas (por exemplo, espinha bífida e lesão medular), a baixa complacência vesical costuma vir acompanhada de hiperatividade neurogênica do detrusor, um alvo plausível para a terapia antimuscarínica. A literatura inclui um estudo com tolterodina de liberação prolongada em hiperatividade neurogênica do detrusor e/ou bexiga de baixa complacência, além de um estudo piloto cruzado em pacientes com espinha bífida.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhum | Nenhum |
 
-É importante ser realista: esta previsão é, em grande parte, uma extensão do uso já existente da tolterodina na bexiga hiperativa, e não um reposicionamento verdadeiramente novo. Além disso, não há ensaios registrados que tenham a baixa complacência como desfecho principal.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| bexiga hiperativa (overactive bladder (disease)) |
 
-## Evidências de Ensaios Clínicos
+## Market information
 
-Atualmente não há ensaios clínicos relacionados registrados.
-
-## Evidências da Literatura
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [20969642](https://pubmed.ncbi.nlm.nih.gov/20969642/) | 2010 | Estudo clínico | Int J Urol | Avaliou a eficácia da tolterodina de liberação prolongada 4 mg/dia, por parâmetros urodinâmicos, na hiperatividade neurogênica do detrusor e/ou bexiga de baixa complacência |
-| [26676394](https://pubmed.ncbi.nlm.nih.gov/26676394/) | 2011 | Estudo piloto cruzado | Lower Urin Tract Symptoms | Comparou oxibutinina e tolterodina em pacientes com espinha bífida e bexiga neurogênica |
-| [25656013](https://pubmed.ncbi.nlm.nih.gov/25656013/) | 2015 | Estudo clínico retrospectivo | Hinyokika Kiyo | Terapia combinada com mirabegrona em 7 pacientes com bexiga neurogênica resistente a anticolinérgicos (hiperatividade do detrusor ou baixa complacência); fármaco diferente da tolterodina |
-| [26149965](https://pubmed.ncbi.nlm.nih.gov/26149965/) | 2015 | Revisão | Curr Urol Rep | Tolterodina no tratamento dos sintomas do trato urinário inferior (LUTS) masculinos; antimuscarínicos como base do tratamento dos sintomas de armazenamento |
-| [16465186](https://pubmed.ncbi.nlm.nih.gov/16465186/) | 2006 | Revisão | Br J Pharmacol | Papel dos receptores muscarínicos (M2/M3) na bexiga e base do tratamento da bexiga hiperativa |
-| [17594185](https://pubmed.ncbi.nlm.nih.gov/17594185/) | 2007 | Revisão | Expert Opin Investig Drugs | Tratamentos da bexiga hiperativa em ensaios de fase inicial |
-| [15978301](https://pubmed.ncbi.nlm.nih.gov/15978301/) | 2005 | Revisão | Clin Ther | Cloreto de tróspio na bexiga hiperativa com incontinência de urgência; fármaco diferente da tolterodina |
-| [24703195](https://pubmed.ncbi.nlm.nih.gov/24703195/) | 2014 | Análise de segurança | Int J Clin Pract | Segurança e tolerabilidade da mirabegrona na bexiga hiperativa; fármaco diferente da tolterodina |
-| [32590783](https://pubmed.ncbi.nlm.nih.gov/32590783/) | 2020 | Relato de caso | Medicine | Baixa complacência vesical por malacoplaquia com cistite xantogranulomatosa; sem relação com tolterodina |
-
-## Informações de Comercialização no Brasil
-
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 188300109 (cancelado) | Detrusitol | Não informada | Outros produtos com ação no trato urinário |
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 188300109 | TARTARATO DE TOLTERODINA |  | Ativo |
 
 ## Considerações de Segurança
 
@@ -96,19 +82,6 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 As advertências formais da bula brasileira não estavam disponíveis; consulte a bula para informações de segurança completas.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Proceed with Guardrails**
-
-**Justificativa:**
-- Há plausibilidade mecanística e estudos clínicos publicados com tolterodina em hiperatividade neurogênica do detrusor e/ou bexiga de baixa complacência, mas a evidência é limitada (nível L3), sem ensaios registrados e com o uso sendo em grande parte uma extensão da indicação já conhecida na bexiga hiperativa. As demais previsões do modelo (por exemplo, doença renal policística, malformação torácica) não têm evidência nem racional mecanístico e devem permanecer em Hold.
-
-**Para prosseguir, é necessário:**
-- Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados é uma lacuna que impede a triagem de segurança formal.
-- Confirmar o mecanismo de ação em fonte primária (por exemplo, DrugBank).
-- Esclarecer a situação regulatória: o único registro encontrado (Detrusitol) está cancelado, o que exigiria verificar a disponibilidade de outras apresentações ou um novo registro.
-- Avaliar a segurança em populações de risco, como pacientes com QT longo, glaucoma de ângulo fechado, obstrução do colo vesical e insuficiência hepática, bem como o manejo das interações com outros anticolinérgicos e inibidores do CYP3A4.
-- Planejar um ensaio clínico com desfechos urodinâmicos de complacência vesical, ou uma revisão sistemática dos estudos existentes.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

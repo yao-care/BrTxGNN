@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (amenorrhea)**, mas 
 |------|------|
 | Indicação Original | Anticoncepcionais |
 | Nova Indicação Prevista | Amenorreia (amenorrhea) |
-| Pontuação de Previsão TxGNN | 99,51% |
+| Pontuação de Previsão TxGNN | 0,9951 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação registrados. S
 
 A relação entre a indicação original e a nova é frágil. A amenorreia é um efeito conhecido da contracepção hormonal, e não um alvo terapêutico claramente estabelecido. Além disso, a direção do efeito é ambígua: induzir amenorreia (efeito desejado ou tolerado em alguns contextos) é diferente de tratar a amenorreia patológica, em que progestágenos exógenos servem principalmente para provocar sangramento por privação ou proteger o endométrio, e não para restaurar a ovulação.
 
-A pontuação muito alta (99,51%) é uma previsão baseada em modelo e pode refletir a associação da classe do fármaco com condições menstruais e reprodutivas, e não evidência independente.
+A pontuação muito alta (0,9951) é uma previsão baseada em modelo e pode refletir a associação da classe do fármaco com condições menstruais e reprodutivas, e não evidência independente.
 
 ## Informações de Comercialização no Brasil
 

@@ -8,6 +8,7 @@ nav_order: 623
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Testosterone Propionate
@@ -51,8 +52,8 @@ Há lacunas críticas de dados — incluindo ausência de MOA e de registros reg
 | Nova Indicação Prevista | Nenhuma previsão gerada |
 | Pontuação de Previsão TxGNN | N/D |
 | Nível de Evidência | N/D |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---

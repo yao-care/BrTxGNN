@@ -48,17 +48,17 @@ Mecanisticamente, a previsão é questionável: um fármaco que promove vigília
 |------|------|
 | Indicação Original | Outros produtos que atuam sobre o sistema nervoso |
 | Nova Indicação Prevista | Insônia (insomnia) |
-| Pontuação de Previsão TxGNN | 99,85% |
+| Pontuação de Previsão TxGNN | 0,9985 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nas fontes compiladas. Segundo o conhecimento geral, a modafinila é um agente promotor da vigília, com ação atribuída à inibição do transportador de dopamina e a efeitos sobre circuitos que favorecem a vigília. É farmacologicamente distinta de outros estimulantes.
 
-A relação com a insônia é frágil. A insônia é um transtorno de sono insuficiente ou de má qualidade, e um fármaco que mantém a pessoa acordada não trata esse problema de forma lógica. A pontuação muito alta do TxGNN (0,998) provavelmente reflete a proximidade na rede de conhecimento com distúrbios de sono e vigília (narcolepsia, transtorno do sono do trabalho em turnos, sonolência associada a doenças neurológicas), e não uma adequação terapêutica real.
+A relação com a insônia é frágil. A insônia é um transtorno de sono insuficiente ou de má qualidade, e um fármaco que mantém a pessoa acordada não trata esse problema de forma lógica. A pontuação muito alta do TxGNN (0,9985) provavelmente reflete a proximidade na rede de conhecimento com distúrbios de sono e vigília (narcolepsia, transtorno do sono do trabalho em turnos, sonolência associada a doenças neurológicas), e não uma adequação terapêutica real.
 
 O vínculo plausível é com distúrbios de sono/vigília e com sonolência diurna e fadiga em condições associadas, como doença de Parkinson, doenças cerebrais primárias e idosos, e não com o tratamento da insônia em si.
 

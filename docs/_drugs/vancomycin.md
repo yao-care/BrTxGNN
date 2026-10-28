@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Vancomycin: nova indicação prevista, Esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Vancomycin"
-predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
 ---
 
 # Vancomycin
@@ -47,17 +47,17 @@ O modelo TxGNN prevê que ela pode ser eficaz para **esclerodermia difusa (diffu
 |------|------|
 | Indicação Original | Antibióticos sistêmicos simples |
 | Nova Indicação Prevista | Esclerodermia difusa (diffuse scleroderma) |
-| Pontuação de Previsão TxGNN | 99,92% |
+| Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 10 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a vancomicina é um antibiótico glicopeptídico que inibe a síntese da parede celular bacteriana, ligando-se às extremidades D-Ala-D-Ala dos precursores do peptideoglicano. Sua eficácia está estabelecida em infecções por bactérias Gram-positivas.
 
-**Na prática, a previsão não se sustenta.** A esclerodermia difusa é uma doença autoimune e fibrótica, sem causa bacteriana, e não existe vínculo mecanístico plausível com um inibidor da síntese da parede celular bacteriana. A pontuação alta do TxGNN (99,92%) parece ser um artefato da predição baseada em grafo. O único artigo recuperado (relato de caso de erupção esfoliativa com sepse e eosinofilia, 2019) não trata de esclerodermia.
+**Na prática, a previsão não se sustenta.** A esclerodermia difusa é uma doença autoimune e fibrótica, sem causa bacteriana, e não existe vínculo mecanístico plausível com um inibidor da síntese da parede celular bacteriana. A pontuação alta do TxGNN (0.9992) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. O único artigo recuperado (relato de caso de erupção esfoliativa com sepse e eosinofilia, 2019) não trata de esclerodermia.
 
 ### Outras previsões avaliadas
 
@@ -79,7 +79,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 10 registros estão cancelados; atualmente não há registro válido.
+O medicamento é comercializado no Brasil: os 10 registros estão válidos (10 de 10).
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -103,7 +103,7 @@ Para advertências e contraindicações baseadas em bula, consulte a bula; esses
 **Decisão: Hold**
 
 **Justificativa:**
-- Para esclerodermia difusa, não há ensaios clínicos, a literatura recuperada é irrelevante e não existe vínculo mecanístico plausível. A pontuação alta do TxGNN parece ser um artefato do grafo, e o nível de evidência é L5. Os registros no Brasil estão todos cancelados.
+- Para esclerodermia difusa, não há ensaios clínicos, a literatura recuperada é irrelevante e não existe vínculo mecanístico plausível. A pontuação alta do TxGNN (0.9992) vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica; o nível de evidência é L5. O medicamento é comercializado no Brasil, com 10 registros válidos de 10.
 
 **Para prosseguir, é necessário:**
 - Não há justificativa para investir em esclerodermia; recomenda-se não avançar nessa direção, salvo surgimento de evidência biológica nova.

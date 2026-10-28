@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **neurodegeneração associada ao
 |------|------|
 | Indicação Original | Antiparkinsonianos |
 | Nova Indicação Prevista | Neurodegeneração associada ao PLA2G6 (PLA2G6-associated neurodegeneration) |
-| Pontuação de Previsão TxGNN | 99,76% |
+| Pontuação de Previsão TxGNN | 0,9976 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 3 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -102,7 +102,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. A entacapona não atua sobre o defeito de base da doença, e todos os registros brasileiros estão cancelados.
+- A previsão baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. A entacapona não atua sobre o defeito de base da doença, e o medicamento é comercializado no Brasil, com 3 registros válidos de 3.
 - Entre as demais previsões analisadas, a demência com corpos de Lewy (nível L4) tem apenas evidência indireta pré-clínica; ela merece ser tratada como pergunta de pesquisa, não como candidata a uso.
 
 **Para prosseguir, é necessário:**

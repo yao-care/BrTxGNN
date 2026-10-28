@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pseudoephedrine
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 555
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-13
 description: "Pseudoephedrine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L4). Indicação original: Anti-histamínicos sistêmicos (em associação)"
 monitor_inn: "PSEUDOEPHEDRINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "allergic urticaria"]
+predicted_indications: ["nasal cavity disease", "allergic urticaria"]
 ---
 
 # Pseudoephedrine
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **3** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ atualmente com **0 ensaios clínicos** e **7 publicações** (em sua maioria pr�
 |------|------|
 | Indicação Original | Anti-histamínicos sistêmicos (em associação); terapia sintomática da gripe; descongestionantes nasais sistêmicos |
 | Nova Indicação Prevista | Doença da cavidade nasal (nasal cavity disease) |
-| Pontuação de Previsão TxGNN | 99,75% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Pontuação de Previsão TxGNN | 0,9975 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -80,7 +80,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados. Principais exemplos:
+Há 20 registros válidos. Principais exemplos:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -102,7 +102,7 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é mecanisticamente coerente, mas sobrepõe-se quase totalmente à indicação original (descongestão nasal), portanto não constitui reposicionamento genuíno. As evidências são majoritariamente pré-clínicas (L4), não há ensaios clínicos e todos os registros no Brasil estão cancelados.
+- A previsão é mecanisticamente coerente, mas sobrepõe-se quase totalmente à indicação original (descongestão nasal), portanto não constitui reposicionamento genuíno. As evidências são majoritariamente pré-clínicas (L4), não há ensaios clínicos e o medicamento é comercializado no Brasil, com 20 registros válidos.
 - O perfil de segurança cardiovascular e metabólico, indicado pelo grafo de conhecimento e pelas interações com antidiabéticos, exige cautela.
 
 **Para prosseguir, é necessário:**

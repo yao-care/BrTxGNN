@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Anestésicos locais |
 | Nova Indicação Prevista | Acrodermatite crônica atrófica (Acrodermatitis chronica atrophicans) |
-| Pontuação de Previsão TxGNN | 99,23% |
+| Pontuação de Previsão TxGNN | 0,9923 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 12 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
+| Número de Registros | 12 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,19 +60,19 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A acrodermatite crônica atrófica é uma manifestação cutânea tardia da infecção por *Borrelia*, tratada com antibióticos. A bupivacaína não tem ação antimicrobiana nem modificadora da doença. No máximo, poderia ter papel sintomático na dor neuropática, o que é especulativo e sem suporte nos dados disponíveis.
 
-A pontuação alta (99,23%) reflete uma associação baseada em grafo de conhecimento, e não um vínculo farmacológico verificado. Sem dados de mecanismo, não é possível validar uma ponte mecanística plausível.
+A pontuação alta (0,9923) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica nem um vínculo farmacológico verificado. Sem dados de mecanismo, não é possível validar uma ponte mecanística plausível.
 
 **Outras previsões do modelo (todas sem ensaios ou literatura, nível L5, Hold):**
 
 | Posição | Indicação prevista | Pontuação TxGNN | Observação |
 |------|------|------|------|
-| 2 | Dermatomiosite neonatal | 99,15% | Bloqueio de canais de sódio não atua na vasculopatia imunomediada; miotoxicidade em altas concentrações locais é preocupação em população miopática, sobretudo neonatos |
-| 3 | Doença pulmonar intersticial secundária da infância associada a doença do tecido conjuntivo | 99,11% | Doença guiada por desregulação imune e fibrose; risco de cardiotoxicidade sistêmica em crianças |
-| 4 | Dermatomiosite amiopática | 99,03% | Sem mecanismo estabelecido sobre a doença cutânea dirigida por interferon; miotoxicidade a considerar |
+| 2 | Dermatomiosite neonatal | 0,9915 | Bloqueio de canais de sódio não atua na vasculopatia imunomediada; miotoxicidade em altas concentrações locais é preocupação em população miopática, sobretudo neonatos |
+| 3 | Doença pulmonar intersticial secundária da infância associada a doença do tecido conjuntivo | 0,9911 | Doença guiada por desregulação imune e fibrose; risco de cardiotoxicidade sistêmica em crianças |
+| 4 | Dermatomiosite amiopática | 0,9903 | Sem mecanismo estabelecido sobre a doença cutânea dirigida por interferon; miotoxicidade a considerar |
 
 ## Informações de Comercialização no Brasil
 
-Todos os 12 registros estão cancelados; nenhum está válido atualmente. A indicação aprovada em todos é "Anestésicos locais". Principais registros:
+Todos os 12 registros estão válidos (12 de 12). A indicação aprovada em todos é "Anestésicos locais". Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -93,13 +93,13 @@ Todos os 12 registros estão cancelados; nenhum está válido atualmente. A indi
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5). A pontuação do TxGNN é apenas uma previsão de grafo, sem mecanismo plausível, e há preocupações de segurança em populações específicas. Além disso, não há registro válido no Brasil.
+- Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5). A pontuação do TxGNN é apenas uma previsão do modelo de deep learning, sem mecanismo plausível, e há preocupações de segurança em populações específicas. O medicamento está comercializado no Brasil, com 12 registros válidos de 12.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem ela
 - Obter dados de mecanismo de ação (por exemplo, via DrugBank) para avaliar qualquer vínculo mecanístico
 - Realizar estudos pré-clínicos ou revisão da literatura que sustentem alguma das indicações previstas
-- Avaliar a compatibilidade de vias de administração e a situação regulatória, dado que todos os registros estão cancelados
+- Avaliar a compatibilidade de vias de administração e a situação regulatória, dado que o medicamento está comercializado, com 12 registros válidos de 12
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

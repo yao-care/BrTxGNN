@@ -8,6 +8,7 @@ nav_order: 79
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Artesunato
@@ -49,8 +50,8 @@ Artesunato é um antimalárico semissintético derivado da artemisinina, indicad
 | Nova Indicação Prevista | Não disponível — previsão TxGNN não gerada |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 5) |
+| Número de Registros | 5 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---

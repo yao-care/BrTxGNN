@@ -4,17 +4,17 @@ title: Pitavastatin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 530
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Pitavastatin: nova indicação prevista, Hipercolesterolemia familiar homozigótica (Homozygous Familial Hyperc… (nível de evidência L5). Indicação original: Antilipêmicos"
+indication_count: 4
 monitor_inn: "pitavastatin"
-predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "feline acquired immunodeficiency syndrome"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
+last_modified_at: 2026-10-23
+description: "Pitavastatin: nova indicação prevista, Deficiência da proteína de transferência de ésteres de colesterol (pr… (nível de evidência L5). Indicação original: Antilipêmicos"
 ---
 
 # Pitavastatin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,101 +33,91 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Pitavastatina: Da dislipidemia à hipercolesterolemia familiar homozigótica
+## Pitavastatina: De antilipêmico à deficiência da proteína de transferência de ésteres de colesterol
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Pitavastatina cálcica é uma estatina, registrada na ANVISA como antilipêmico (redutor de lipídios no sangue).
-O modelo TxGNN prevê que pode ser eficaz para **hipercolesterolemia familiar homozigótica (Homozygous Familial Hypercholesterolemia)**, mas, para essa indicação específica, há **0 ensaios clínicos** e apenas **2 publicações**, ambas indiretas (uma sobre dislipidemia em HIV e um relato de caso de outra condição).
-
----
+Pitavastatina é uma estatina, registrada no Brasil como antilipêmico (medicamento para reduzir lipídios no sangue).
+O modelo TxGNN prevê, com maior pontuação bruta, **deficiência da proteína de transferência de ésteres de colesterol (CETP)**, mas essa previsão não tem nenhum estudo de apoio. A direção com mais respaldo é **infecção por HIV (HIV infectious disease)**, com **1 ensaio clínico** e **18 publicações**; porém, o benefício demonstrado é na prevenção de doença cardiovascular em pessoas com HIV, e não no tratamento do vírus.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Antilipêmicos |
-| Nova Indicação Prevista | Hipercolesterolemia familiar homozigótica (Homozygous Familial Hypercholesterolemia) |
-| Pontuação de Previsão TxGNN | 99,996% |
-| Nível de Evidência | L4 (classificação dos dados compilados para este relatório); pelas regras do prompt, tecnicamente L5, pois não há estudo direto |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 7 (todos cancelados) |
-| Decisão Recomendada | Hold |
+| Nova Indicação Prevista | Deficiência da proteína de transferência de ésteres de colesterol (primeira da lista de previsões); a previsão mais bem sustentada por evidências é HIV |
+| Pontuação de Previsão TxGNN | 0,9998 (CETP); 0,9997 (HIV) |
+| Nível de Evidência | L5 para a deficiência de CETP; L1 para HIV (ver observação abaixo) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
+| Número de Registros | 7 (ativos: 7) |
+| Decisão Recomendada | Hold para a deficiência de CETP; Proceed with Guardrails para HIV |
 
-> Observação: outras previsões do mesmo fármaco têm evidência bem mais forte (ver "Conclusão e Próximos Passos"), mas esta avaliação segue a previsão de maior pontuação.
-
----
+*Observação:* a previsão de maior pontuação (CETP) não tem ensaios nem publicações. O restante do relatório detalha a previsão de HIV, que concentra todas as evidências disponíveis. Como o estudo principal (REPRIEVE) foi um ensaio randomizado de fase 3 concluído, mas o ensaio listado nos dados compilados é apenas indiretamente relacionado, a classificação L1 se apoia na publicação do REPRIEVE (NEJM 2023) e em seus subestudos.
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, a pitavastatina é um inibidor da HMG-CoA redutase: reduz a síntese hepática de colesterol e aumenta os receptores hepáticos de LDL, o que diminui o LDL-colesterol. Sua eficácia como antilipêmico já é estabelecida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a pitavastatina pertence à classe das estatinas (inibidores da HMG-CoA redutase), com eficácia reconhecida na redução de lipídios, e mecanisticamente pode ser aplicável a populações com risco cardiovascular elevado.
 
-A relação com a nova indicação é, em tese, direta: ambas envolvem colesterol elevado. Porém, na forma homozigótica da hipercolesterolemia familiar, a função do receptor de LDL é gravemente reduzida ou ausente. Assim, espera-se que a resposta às estatinas seja limitada e variável, pois é necessária alguma atividade residual do receptor. Na prática, a estatina costuma ser apenas adjuvante a inibidores de PCSK9, lomitapida ou aférese.
+Pessoas com HIV têm risco cardiovascular cerca de 50% maior do que pessoas sem HIV, por causa de inflamação crônica, ativação imune e efeitos metabólicos da terapia antirretroviral. As estatinas reduzem o LDL-colesterol e têm efeitos anti-inflamatórios e de estabilização de placas. O subestudo mecanístico do REPRIEVE (JAMA Cardiology, 2024) mostrou efeitos da pitavastatina sobre a doença arterial coronariana e biomarcadores inflamatórios.
 
-Portanto, o mecanismo é plausível, mas o benefício esperado é parcial. A pontuação alta do modelo não equivale a evidência clínica.
-
----
+**Ressalva importante:** a pitavastatina não é antiviral e não trata a infecção por HIV. A indicação deve ser formulada como redução do risco cardiovascular em pessoas com HIV. A relação com a deficiência de CETP (condição genética com HDL-C elevado, geralmente sem necessidade de estatina), com o transtorno do neurodesenvolvimento raro e com a síndrome da imunodeficiência felina (doença veterinária) é especulativa ou sem relevância clínica humana.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para esta indicação.
-
----
+| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
+|---------|------|------|------|---------|
+| [NCT06317051](https://clinicaltrials.gov/study/NCT06317051) | Phase 3/4 | Ativo, sem recrutamento | 300 | Ensaio fatorial: dapagliflozina vs placebo e rosuvastatina/ezetimiba vs pitavastatina em pessoas com HIV em uso de inibidores de integrase e risco metabólico elevado. Relevância indireta; conclusão prevista para dezembro de 2027 |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [28416195](https://pubmed.ncbi.nlm.nih.gov/28416195/) | 2017 | RCT (Fase 4, indireto) | The Lancet HIV | Pitavastatina versus pravastatina em adultos com HIV-1 e dislipidemia (INTREPID); avalia segurança e eficácia. Não trata de HoFH |
-| [39532566](https://pubmed.ncbi.nlm.nih.gov/39532566/) | 2025 | Relato de caso | Journal of Clinical Lipidology | Dois casos de hipercolesterolemia autossômica recessiva (gene LDLRAP1), clinicamente indistinguível da HoFH, com resposta rápida de redução lipídica. É outra condição |
-
----
+| [37486775](https://pubmed.ncbi.nlm.nih.gov/37486775/) | 2023 | RCT | N Engl J Med | Ensaio REPRIEVE: pitavastatina para prevenção de doença cardiovascular em pessoas com HIV |
+| [38381407](https://pubmed.ncbi.nlm.nih.gov/38381407/) | 2024 | RCT (subestudo mecanístico) | JAMA Cardiol | Pitavastatina reduziu eventos cardiovasculares maiores (MACE) em 35% em mediana de 5,1 anos; efeitos sobre placa coronariana e biomarcadores inflamatórios |
+| [39661372](https://pubmed.ncbi.nlm.nih.gov/39661372/) | 2025 | Análise secundária de RCT | JAMA Cardiol | Vias de procolágeno e estabilização de placa com pitavastatina |
+| [40482662](https://pubmed.ncbi.nlm.nih.gov/40482662/) | 2025 | Coorte (dentro de RCT) | Lancet HIV | Associação entre uso de antirretrovirais e MACE no REPRIEVE |
+| [41195533](https://pubmed.ncbi.nlm.nih.gov/41195533/) | 2026 | Coorte (análise secundária) | Arterioscler Thromb Vasc Biol | Hematopoese clonal e eventos cardíacos maiores em pessoas com HIV |
+| [41378479](https://pubmed.ncbi.nlm.nih.gov/41378479/) | 2025 | Análise do REPRIEVE | J Am Heart Assoc | ECG basal e desfechos cardiovasculares em pessoas com HIV |
+| [38294226](https://pubmed.ncbi.nlm.nih.gov/38294226/) | 2025 | Revisão | Cardiol Rev | Pitavastatina na prevenção de doença cardiovascular em pessoas vivendo com HIV |
+| [42127259](https://pubmed.ncbi.nlm.nih.gov/42127259/) | 2026 | Revisão | Top Antivir Med | Comorbidades do HIV na CROI 2026, incluindo análises do REPRIEVE |
+| [29804227](https://pubmed.ncbi.nlm.nih.gov/29804227/) | 2018 | Revisão | Curr Infect Dis Rep | Benefícios e riscos da terapia com estatinas na população com HIV |
+| [37991867](https://pubmed.ncbi.nlm.nih.gov/37991867/) | 2023 | Correspondência | N Engl J Med | Comentário sobre o ensaio REPRIEVE |
 
 ## Informações de Comercialização no Brasil
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 109740355 | Pitavastatina Cálcica | Não informada | Antilipêmicos (cancelado) |
-| Registro nº 141070657 | Pitavastatina Cálcica | Não informada | Antilipêmicos (cancelado) |
-| Registro nº 103720245 | Lester | Não informada | Antilipêmicos (cancelado) |
-| Registro nº 100330206 | Ebatz | Não informada | Antilipêmicos (cancelado) |
-| Registro nº 100431355 | Pivast | Não informada | Antilipêmicos (cancelado) |
+| Registro 109740355 | Pitavastatina Cálcica | — | Antilipêmicos |
+| Registro 141070657 | Pitavastatina Cálcica | — | Antilipêmicos |
+| Registro 103720245 | Lester | — | Antilipêmicos |
+| Registro 100330206 | Ebatz | — | Antilipêmicos |
+| Registro 100431355 | Pivast | — | Antilipêmicos |
 
-Há mais dois registros cancelados (nº 100431110, Pitavastatina Cálcica, e nº 109740346, Livalo), totalizando 7. Nenhum está vigente.
-
----
+Há 7 registros válidos de medicamento de ingrediente único; os 5 principais estão listados acima (os demais: 100431110, Pitavastatina Cálcica, e 109740346, Livalo).
 
 ## Considerações de Segurança
 
-- **Contraindicações e condições de risco (grafo de conhecimento, não texto de bula)**: doença hepática, doença da vesícula biliar, hipotireoidismo (incluindo mixedema e hipotireoidismo congênito), miopatia e doenças musculares, paralisia periódica familiar, distúrbios hipotensivos, rabdomiólise, fasciite nodular, insuficiência renal e lesões.
-- **Interações medicamentosas**: foram identificadas 86 interações. Entre as principais:
-  - **Grave**: eritromicina.
-  - **Moderada**: rosuvastatina, sinvastatina, cobicistate, eltrombopague, eluxadolina, naltrexona, metronidazol, tinidazol, secnidazol, benznidazol, etanol, dissulfiram, cloroquina, hidroxicloroquina, zafirlucaste, cloranfenicol e dapsona.
-  - **Leve**: varfarina e dicumarol.
+- **Contraindicações registradas no grafo de conhecimento** (não provêm da bula): doença hepática, doença da vesícula biliar, hipotireoidismo, mixedema, hipotireoidismo congênito, miopatia, doenças musculares, paralisia periódica familiar, distúrbios hipotensivos, rabdomiólise, fasciite nodular, insuficiência renal e lesões.
+- **Interações medicamentosas**: foram registradas 86 interações. Entre as listadas, a de gravidade **maior** é com **eritromicina**. Entre as moderadas estão rosuvastatina, sinvastatina, cobicistate, eltrombopague, cloroquina, hidroxicloroquina, metronidazol, naltrexona, dissulfiram e etanol. Varfarina e dicumarol têm interação leve. Em pessoas com HIV, a coadministração com antirretrovirais (por exemplo, alguns inibidores de protease e o cobicistate) exige revisão.
+- Em contexto de HIV, recomenda-se monitorar toxicidade muscular e efeitos sobre a glicemia.
 
-Consulte a bula para advertências e contraindicações oficiais, pois não há dados de bula disponíveis.
-
----
+Para advertências e contraindicações de bula, consulte a bula aprovada pela ANVISA.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Hold (deficiência de CETP) / Proceed with Guardrails (HIV, como prevenção cardiovascular)**
 
 **Justificativa:**
-- Não há ensaio clínico nem estudo direto em HoFH, e a fisiopatologia (receptor de LDL ausente ou muito reduzido) sugere eficácia limitada da estatina.
-- Não há registro vigente no Brasil, e faltam dados de bula e de mecanismo de ação.
+- A previsão de maior pontuação (CETP) é apenas do modelo, sem estudos, e não há necessidade terapêutica clara. Já para pessoas com HIV, há um grande ensaio randomizado (REPRIEVE) e vários subestudos mostrando redução de eventos cardiovasculares, mas o benefício se refere à prevenção cardiovascular, não ao tratamento do HIV.
 
 **Para prosseguir, é necessário:**
-- Dados de eficácia de pitavastatina em pacientes com HoFH confirmada (estudos específicos, inclusive como adjuvante a PCSK9, lomitapida ou aférese).
-- Obter e analisar a bula na ANVISA (advertências e contraindicações) e o mecanismo de ação no DrugBank.
-- Verificar a disponibilidade local, já que todos os 7 registros estão cancelados.
-
-**Previsões alternativas com evidência mais forte (para priorização):**
-- **Hiperlipoproteinemia** (pontuação 99,995%; nível L1): estudos de Fase 3 e Fase 4 controlados com comparador ativo. Trata-se praticamente da indicação original, não de reposicionamento. Recomendação: *Proceed with Guardrails*, com atenção à carga de interações e ao status de mercado.
-- **Hipercolesterolemia familiar** (99,988%; L2) e **hipercolesterolemia autossômica dominante** (99,975%; L2): estudos pediátricos e de longo prazo apoiam eficácia e segurança, mas o único ensaio listado (Fase 2, anticorpo anti-PCSK9) é indireto. *Proceed with Guardrails*.
-- **Infecção por HIV** (99,967%; L1): trata-se de prevenção cardiovascular, não de tratamento do vírus. O ensaio REPRIEVE (NEJM 2023) mostrou redução de eventos cardiovasculares maiores com pitavastatina. *Proceed with Guardrails*, com monitoramento de interações com antirretrovirais, glicemia e sintomas musculares.
-- **Deficiência de CETP, deficiência de colesterol 7-alfa-hidroxilase, transtorno do neurodesenvolvimento raro, deficiência de lipase hepática e síndrome da imunodeficiência adquirida felina**: sem estudos, apoio apenas computacional (L5). *Hold*; a última é condição veterinária, sem relevância clínica humana.
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), ausente nos dados compilados.
+- Complementar os dados de mecanismo de ação.
+- Confirmar a identificação do REPRIEVE e seus dados de registro, que não constam da lista de ensaios.
+- Avaliar o registro de uma indicação específica de prevenção cardiovascular em pessoas com HIV, evitando qualquer sugestão de efeito antiviral.
+- Definir plano de revisão de interações com terapia antirretroviral e monitoramento de segurança muscular e glicêmica.
+- Descartar as previsões de transtorno do neurodesenvolvimento raro e de imunodeficiência felina por falta de evidência ou relevância humana.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -8,6 +8,7 @@ nav_order: 182
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Calcium Propionate
@@ -51,7 +52,7 @@ A avaliação atual é **inconclusiva** por insuficiência de dados estruturados
 | Nova Indicação Prevista | Nenhuma (sem previsão TxGNN disponível) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem estudos de reposicionamento identificados) |
-| Situação no Mercado Brasileiro | Não comercializado como medicamento |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

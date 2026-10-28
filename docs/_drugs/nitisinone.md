@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **acidose tubular renal (renal tu
 |------|------|
 | Indicação Original | Outros produtos para o trato alimentar e metabolismo |
 | Nova Indicação Prevista | Acidose tubular renal (renal tubular acidosis) |
-| Pontuação de Previsão TxGNN | 99,96% |
+| Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 2 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A relação com a acidose tubular renal seria apenas indireta: ao reduzir a toxicidade tubular nessa doença de base, o fármaco poderia atenuar a disfunção dos túbulos renais. Não há evidência clínica ou da literatura que sustente essa ligação.
 
-A pontuação alta do TxGNN (99,96%) é resultado de um cálculo em grafo de conhecimento e não deve ser interpretada como prova de eficácia.
+A pontuação alta do TxGNN (0,9996) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, portanto não deve ser interpretada como prova de eficácia.
 
 ## Informações de Comercialização no Brasil
 
@@ -95,15 +95,15 @@ Para advertências e contraindicações da bula, consulte a bula aprovada, pois 
 
 | Posição | Doença prevista | Pontuação TxGNN | Nível de Evidência | Comentário |
 |------|------|------|------|------|
-| 2 | Galactosemia | 99,95% | L4 | Apenas três revisões gerais sobre doenças hepáticas pediátricas; sobreposição de diagnóstico diferencial, sem racional terapêutico |
-| 3 | Serpinopatia com polimerização tóxica de serpina | 99,90% | L5 | Sem ligação mecanística clara |
-| 4 | Deficiência de inibidor de C1 | 99,90% | L5 | Sem ligação mecanística plausível |
-| 5 | Doença de depósito de glicogênio | 99,89% | L4 | Apenas uma revisão geral; sem evidência de efeito terapêutico |
-| 6 | Doença do corpúsculo de poliglucosano do adulto | 99,88% | L5 | Sem ligação mecanística evidente |
-| 7 | Doença de depósito de glicogênio por deficiência de glicose-6-fosfatase | 99,87% | L5 | Ligação apenas pela categoria geral de doenças metabólicas hepatorrenais |
-| 8 | Síndrome de Griscelli | 99,87% | L5 | Ligação tênue pela via da tirosina/melanina; a nitisinona eleva a tirosina e não corrige o defeito |
-| 9 | Doença granulomatosa crônica ligada ao X | 99,87% | L5 | Sem relação mecanística conhecida |
-| 10 | Fenótipo ermine | 99,87% | L5 | Ligação especulativa pela via tirosina/melanina |
+| 2 | Galactosemia | 0,9995 | L5 | Apenas três revisões gerais sobre doenças hepáticas pediátricas; sobreposição de diagnóstico diferencial, sem racional terapêutico |
+| 3 | Serpinopatia com polimerização tóxica de serpina | 0,9990 | L5 | Sem ligação mecanística clara |
+| 4 | Deficiência de inibidor de C1 | 0,9990 | L5 | Sem ligação mecanística plausível |
+| 5 | Doença de depósito de glicogênio | 0,9989 | L5 | Apenas uma revisão geral; sem evidência de efeito terapêutico |
+| 6 | Doença do corpúsculo de poliglucosano do adulto | 0,9988 | L5 | Sem ligação mecanística evidente |
+| 7 | Doença de depósito de glicogênio por deficiência de glicose-6-fosfatase | 0,9987 | L5 | Ligação apenas pela categoria geral de doenças metabólicas hepatorrenais |
+| 8 | Síndrome de Griscelli | 0,9987 | L5 | Ligação tênue pela via da tirosina/melanina; a nitisinona eleva a tirosina e não corrige o defeito |
+| 9 | Doença granulomatosa crônica ligada ao X | 0,9987 | L5 | Sem relação mecanística conhecida |
+| 10 | Fenótipo ermine | 0,9987 | L5 | Ligação especulativa pela via tirosina/melanina |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

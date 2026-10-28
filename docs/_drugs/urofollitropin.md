@@ -4,17 +4,17 @@ title: Urofollitropin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 661
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Urofollitropin: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Hormônio gonadotrófico"
 monitor_inn: "urofollitropin"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "migraine with or without aura, susceptibility to", "Raynaud disease"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
 ---
 
 # Urofollitropin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 Urofollitropina é uma gonadotrofina com atividade de FSH (hormônio folículo-estimulante), registrada na ANVISA como "hormônio gonadotrófico".
 O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção: trata-se apenas de uma previsão baseada em grafo de conhecimento.
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção: trata-se apenas de uma previsão do modelo TxGNN (aprendizado profundo).
 
 ## Visão Geral Rápida
 
@@ -48,19 +48,19 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Hormônio gonadotrófico |
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
-| Pontuação de Previsão TxGNN | 99,85% |
+| Pontuação de Previsão TxGNN | 0,9985 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a urofollitropina é uma gonadotrofina baseada em FSH, e sua função como hormônio gonadotrófico está registrada na ANVISA. Mecanisticamente, não há uma ligação estabelecida com a enxaqueca.
 
-Uma hipótese especulativa seria a modulação hormonal de enxaquecas sensíveis a estrogênio ou relacionadas à menstruação. No entanto, essa hipótese não é sustentada por nenhum dado compilado para este relatório. A pontuação alta do TxGNN reflete apenas uma associação no grafo de conhecimento, sem ensaios ou literatura que a corroborem.
+Uma hipótese especulativa seria a modulação hormonal de enxaquecas sensíveis a estrogênio ou relacionadas à menstruação. No entanto, essa hipótese não é sustentada por nenhum dado compilado para este relatório. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem ensaios ou literatura que a corroborem.
 
-Outras indicações previstas, como enxaqueca com aura de tronco encefálico, síndrome da cauda equina, taquicardia do feixe de His, síndrome das pernas inquietas, síndrome da taquicardia postural ortostática e doença de Raynaud, também têm pontuações acima de 99%. Todas são de nível L5, sem evidências, e várias parecem artefatos do grafo (por exemplo, a síndrome da cauda equina, de manejo cirúrgico, e a bexiga neurogênica, cujo termo está obsoleto na ontologia).
+Outras indicações previstas, como enxaqueca com aura de tronco encefálico, síndrome da cauda equina, taquicardia do feixe de His, síndrome das pernas inquietas, síndrome da taquicardia postural ortostática e doença de Raynaud, também têm pontuações ≥ 0.99. Todas são de nível L5, sem evidências, e várias parecem artefatos do modelo (por exemplo, a síndrome da cauda equina, de manejo cirúrgico, e a bexiga neurogênica, cujo termo está obsoleto na ontologia).
 
 ## Informações de Comercialização no Brasil
 

@@ -30,7 +30,7 @@ Esta página combina as indicações previstas por IA para Nitazoxanide com as n
 <li>Hiperamilasemia (hyperamylasemia)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/nitazoxanide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
 ## Notícias relacionadas (4)

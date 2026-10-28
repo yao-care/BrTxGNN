@@ -4,7 +4,7 @@ title: Carbamazepine
 parent: Evidência Moderada (L3-L4)
 nav_order: 189
 evidence_level: L4
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-13
 description: "Carbamazepine: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L4). Indicação original: Anticonvulsivantes"
 monitor_inn: "CARBAMAZEPINE"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficien
 # Carbamazepine
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ mas atualmente há **0 ensaios clínicos** e **18 publicações** associadas, ne
 |------|------|
 | Indicação Original | Anticonvulsivantes |
 | Nova Indicação Prevista | Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) |
-| Pontuação de Previsão TxGNN | 99,998% |
+| Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 18 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 18) |
+| Número de Registros | 18 (ativos: 18) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -95,7 +95,7 @@ As 18 publicações recuperadas são, em sua maioria, relatos de caso e revisõe
 
 ## Informações de Comercialização no Brasil
 
-Todos os 18 registros estão cancelados; não há registro válido atualmente. Seguem os 5 primeiros da lista.
+Todos os 18 registros estão válidos (18 de 18). Seguem os 5 primeiros da lista.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -122,15 +122,8 @@ Além da neoplasia do nervo trigêmeo, o modelo prevê outras indicações. Quas
 
 | Indicação Prevista | Pontuação TxGNN | Nível de Evidência | Observação |
 |------|------|------|------|
-| Epilepsia do susto (startle epilepsy) | 99,97% | L4 | Série clínica (PMID 6465864): 6 pacientes com lesões unilaterais responderam bem à carbamazepina; sem ensaios controlados |
-| Crises audiogênicas | 99,97% | L4 | Apenas modelos animais |
-| Crises induzidas pelo pensamento | 99,97% | L5 | Sem literatura específica |
-| Crises induzidas pela alimentação | 99,97% | L5 | Literatura fora do tema |
-| Crises induzidas pelo orgasmo | 99,97% | L5 | Sem ensaios nem literatura |
-| Crises induzidas pela micção | 99,97% | L5 | Sem literatura específica |
-| Crises induzidas pela leitura | 99,97% | L4 | Apoio apenas indireto |
-| Deficiência de beta-cetotiolase | 99,89% | L5 | Sem vínculo mecanístico; provável artefato do modelo |
-| Síndrome de Rett, variante congênita | 99,87% | L5 | Apenas manejo sintomático de crises; sem literatura |
+| Deficiência de beta-cetotiolase | 0,9989 | L5 | Sem vínculo mecanístico; provável artefato do modelo |
+| Síndrome de Rett, variante congênita | 0,9987 | L5 | Apenas manejo sintomático de crises; sem literatura |
 
 ---
 
@@ -139,7 +132,7 @@ Além da neoplasia do nervo trigêmeo, o modelo prevê outras indicações. Quas
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos, e a literatura mostra apenas alívio sintomático da dor neurálgica em pacientes com tumores, sem evidência de efeito antineoplásico. Além disso, todos os registros brasileiros estão cancelados e há dados de segurança relevantes, como risco hematológico, hepático e cardíaco.
+- Não há ensaios clínicos, e a literatura mostra apenas alívio sintomático da dor neurálgica em pacientes com tumores, sem evidência de efeito antineoplásico. Além disso, os 18 registros brasileiros estão válidos (18 de 18) e há dados de segurança relevantes, como risco hematológico, hepático e cardíaco.
 
 **Para prosseguir, é necessário:**
 - Definir se o objetivo é tratar a dor associada ao tumor (manejo sintomático, já coberto pelo uso em neuralgia do trigêmeo) ou ter efeito antitumoral, caso em que seriam necessários estudos pré-clínicos de mecanismo

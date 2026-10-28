@@ -8,6 +8,7 @@ nav_order: 487
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ondansetron Hydrochloride
@@ -51,7 +52,7 @@ Os principais bloqueadores identificados são: ausência de registros no sistema
 | Nova Indicação Prevista | Não disponível (zero previsões TxGNN) |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (conforme dados consultados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

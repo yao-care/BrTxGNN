@@ -6,7 +6,7 @@ nav_order: 561
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Ravulizumab: nova indicação prevista, Neutropenia congênita grave autossômica recessiva por deficiência de… (nível de evidência L5). Indicação original: Outros produtos não enquadrados em classe tera…"
+description: "Ravulizumab: nova indicação prevista, Neutropenia congênita grave autossômica recessiva por deficiência de G6PC3 (nível de evidência L5). Indicação original: Outros produtos não enquadrados em classe tera…"
 monitor_inn: "ravulizumab"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Ravulizumabe: De produto sem classe terapêutica específica à neutropenia congênita grave por deficiência de G6PC3
+## Ravulizumabe: De produto sem classe terapêutica específica à Neutropenia congênita grave autossômica recessiva por deficiência de G6PC3
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para a **neutropenia congênita grave 
 |------|------|
 | Indicação Original | Outros produtos não enquadrados em classe terapêutica específica (texto do registro na ANVISA) |
 | Nova Indicação Prevista | Neutropenia congênita grave autossômica recessiva por deficiência de G6PC3 |
-| Pontuação de Previsão TxGNN | 99,96% |
+| Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados de mecanismo de ação na base compilada. Segundo informações conhecidas, o ravulizumabe é um anticorpo monoclonal que inibe o componente C5 do complemento, bloqueando a via terminal do complemento. Como o texto do registro brasileiro não traz uma indicação clínica específica, não é possível estabelecer uma relação direta entre a indicação original e a nova.
 
-Na análise dos dados compilados, **não foi identificada ligação mecanística plausível**. A deficiência de G6PC3 causa apoptose e disfunção de neutrófilos por estresse metabólico (acúmulo de 1,5-anidroglucitol-6-fosfato), um processo que não depende do complemento. A pontuação alta do TxGNN (0,9996) reflete apenas a previsão baseada em grafo, sem respaldo de estudos clínicos ou da literatura.
+Na análise dos dados compilados, **não foi identificada ligação mecanística plausível**. A deficiência de G6PC3 causa apoptose e disfunção de neutrófilos por estresse metabólico (acúmulo de 1,5-anidroglucitol-6-fosfato), um processo que não depende do complemento. A pontuação alta do TxGNN (0,9996) vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica, sem respaldo de estudos clínicos ou da literatura.
 
 Outras previsões do modelo seguem o mesmo padrão: ocupam as posições 2 a 10 a ciclicidade hematopoiética (neutropenia cíclica), a hiperoxalúria primária, a neutropenia congênita grave, a neutropenia por deficiência de CXCR2, a imunodeficiência por deficiência de p14, a doença de von Willebrand tipo plaquetário, a neutropenia congênita ligada ao X, o distúrbio primário de liberação plaquetária e a anemia megaloblástica. Todas têm nível de evidência L5, sem ensaios nem publicações, e também com recomendação Hold. A hiperoxalúria primária é a única com um vínculo apenas especulativo (cristais de oxalato de cálcio podem ativar o inflamassoma NLRP3 e, possivelmente, o complemento renal), sem evidência de que o bloqueio de C5 altere a evolução da doença.
 

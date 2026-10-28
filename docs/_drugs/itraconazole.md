@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Pneumocistose (Pneumocystosis)*
 |------|------|
 | Indicação Original | Antimicóticos sistêmicos |
 | Nova Indicação Prevista | Pneumocistose (Pneumocystosis) |
-| Pontuação de Previsão TxGNN | 99,34% |
+| Pontuação de Previsão TxGNN | 0,9934 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 13 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
+| Número de Registros | 13 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -84,7 +84,7 @@ Não há estudo que teste diretamente o itraconazol no tratamento da pneumocisto
 
 ## Informações de Comercialização no Brasil
 
-Todos os 13 registros encontram-se cancelados. Os cinco principais:
+Todos os 13 registros encontram-se válidos. Os cinco principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ As advertências e contraindicações oficiais da bula da ANVISA não estavam di
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se apoia apenas no modelo (L5): não há ensaios clínicos, e a literatura é contextual. Além disso, o *Pneumocystis* não possui ergosterol e é intrinsecamente resistente aos azólicos, o que enfraquece o racional mecanístico. Há também alternativas estabelecidas (por exemplo, sulfametoxazol-trimetoprima) e todos os registros brasileiros estão cancelados.
+- A previsão se apoia apenas no modelo (L5): não há ensaios clínicos, e a literatura é contextual. Além disso, o *Pneumocystis* não possui ergosterol e é intrinsecamente resistente aos azólicos, o que enfraquece o racional mecanístico. Há também alternativas estabelecidas (por exemplo, sulfametoxazol-trimetoprima), e o medicamento é comercializado no Brasil, com 13 registros válidos de 13.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) obtidos do DrugBank.

@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Quetiapina: De antipsicótico a tricotilomania
+## Quetiapina: De antipsicótico a distrofia retiniana com ou sem anomalias extraoculares
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,13 +47,13 @@ O modelo TxGNN prevê que pode ser eficaz para **Retinopatia distrófica com ou 
 |------|------|
 | Indicação Original | Antipsicóticos |
 | Nova Indicação Prevista (maior pontuação) | Retinopatia distrófica com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies) |
-| Pontuação de Previsão TxGNN | 99,57% |
+| Pontuação de Previsão TxGNN | 0,9957 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
-> **Observação:** entre as 10 previsões analisadas, a única com literatura é a tricotilomania (pontuação TxGNN de 99,38%, nível L4, classificada como "questão de pesquisa"). Ela é detalhada nas seções abaixo como candidata mais promissora. As demais previsões (todas L5, sem ensaios nem publicações) são: defeito congênito de glicosilação com fucosilação defeituosa, hidranencefalia, síndrome de microdeleção distal 17p13.3, polimicrogiria perisylviana com hipoplasia cerebelar e artrogripose, miopia ligada ao X, doença de Charcot-Marie-Tooth desmielinizante tipo 1G, miopia sindrômica e miopia 26 ligada ao X limitada ao sexo feminino.
+> **Observação:** entre as 10 previsões analisadas, a única com literatura é a tricotilomania (pontuação TxGNN de 0,9938, nível L4, classificada como "questão de pesquisa"). Ela é detalhada nas seções abaixo como candidata mais promissora. As demais previsões (todas L5, sem ensaios nem publicações) são: defeito congênito de glicosilação com fucosilação defeituosa, hidranencefalia, síndrome de microdeleção distal 17p13.3, polimicrogiria perisylviana com hipoplasia cerebelar e artrogripose, miopia ligada ao X, doença de Charcot-Marie-Tooth desmielinizante tipo 1G, miopia sindrômica e miopia 26 ligada ao X limitada ao sexo feminino.
 
 ## Por que Esta Previsão é Razoável?
 
@@ -84,7 +84,7 @@ Os resultados são heterogêneos: há relatos favoráveis, mas também um relato
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados; não há registro válido atualmente. Principais registros:
+Há 20 registros válidos no mercado brasileiro. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Não há texto de bula disponível para advertências e contraindicações forma
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão de maior pontuação (distrofia retiniana) e as demais previsões de doenças genéticas ou congênitas não têm ensaios, literatura nem vínculo mecanístico (nível L5). A tricotilomania tem apenas relatos de caso e revisões (L4), sem estudo controlado, e todos os registros brasileiros estão cancelados.
+- A previsão de maior pontuação (distrofia retiniana com ou sem anomalias extraoculares) e as demais previsões de doenças genéticas ou congênitas não têm ensaios, literatura nem vínculo mecanístico (nível L5). A tricotilomania tem apenas relatos de caso e revisões (L4), sem estudo controlado, e o medicamento é comercializado no Brasil com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança.

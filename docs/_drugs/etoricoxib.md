@@ -4,17 +4,17 @@ title: Etoricoxib
 parent: Apenas Predição do Modelo (L5)
 nav_order: 305
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Etoricoxib: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L5). Indicação original: Sem indicação aprovada registrada na ANVISA (uso clínico em outros pa…"
+indication_count: 9
 monitor_inn: "Etoricoxib"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
+last_modified_at: 2026-10-27
+description: "Etoricoxib: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Etoricoxib
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,72 +33,67 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Etoricoxibe: De anti-inflamatório (inibidor de COX-2) para enxaqueca
+## Etoricoxibe: inibidor seletivo da COX-2 → Transtorno de enxaqueca (migraine disorder)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Etoricoxibe é um inibidor seletivo da COX-2, usado em dor e inflamação (como artrite reumatoide, osteoartrite, espondilite anquilosante, lombalgia crônica, dor aguda e gota) em outros países, mas sem registro vigente na ANVISA.
-O modelo TxGNN prevê que pode ser eficaz para **Enxaqueca (Migraine Disorder)**, porém atualmente há **0 ensaios clínicos** e apenas **1 publicação** vinculada (uma revisão de escopo sem avaliação do etoricoxibe na enxaqueca), de modo que a previsão é sustentada essencialmente pelo modelo.
+Etoricoxibe é um inibidor seletivo da ciclo-oxigenase-2 (COX-2), um anti-inflamatório não esteroidal.
+O modelo TxGNN prevê que ele pode ser eficaz para **Transtorno de enxaqueca (migraine disorder)**,
+mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** vinculada, uma revisão de escopo sobre cefaleia por jejum que não avalia o etoricoxibe na enxaqueca.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Sem indicação aprovada registrada na ANVISA (uso clínico em outros países: artrite reumatoide, osteoartrite, lombalgia crônica, espondilite anquilosante, dor aguda e gota) |
-| Nova Indicação Prevista | Enxaqueca (Migraine Disorder) |
-| Pontuação de Previsão TxGNN | 99,90% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Transtorno de enxaqueca (migraine disorder) |
+| Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 17) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros compilados. Segundo informações conhecidas, o etoricoxibe é um inibidor seletivo da COX-2 (gene PTGS2), e sua eficácia em dor e inflamação musculoesquelética é reconhecida em outros países.
+Os dados compilados para este relatório não trazem uma descrição detalhada do mecanismo de ação. Sabe-se, porém, que o etoricoxibe inibe seletivamente a COX-2, reduzindo a síntese de prostaglandina E2.
 
-Ao inibir a COX-2, reduz-se a síntese de prostaglandina E2, implicada na inflamação neurogênica e na sensibilização trigeminovascular da enxaqueca. Como anti-inflamatórios não esteroides já são usados no tratamento da enxaqueca, a hipótese é biologicamente plausível.
+Essa prostaglandina está implicada na inflamação neurogênica e na sensibilização trigeminovascular da enxaqueca. Por isso, mecanisticamente, a inibição da COX-2 poderia ser aplicável a essa doença.
 
-Porém, a única publicação vinculada à enxaqueca é uma revisão de escopo sobre cefaleia induzida por jejum no Ramadã, que não avalia o etoricoxibe nessa doença. O escore alto é, portanto, uma previsão sem apoio clínico direto.
+Trata-se, porém, de uma hipótese. A única publicação vinculada é uma revisão de escopo sobre cefaleia induzida por jejum durante o Ramadã, que não avalia o etoricoxibe na enxaqueca. A pontuação alta do modelo é uma previsão sem suporte clínico direto nos dados compilados.
+
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [42841395](https://pubmed.ncbi.nlm.nih.gov/42841395/) | 2026 | Revisão (escopo) | Pain Management | Revisão sobre cefaleia atribuída ao jejum durante o Ramadã; não avalia o etoricoxibe na enxaqueca |
+| [42841395](https://pubmed.ncbi.nlm.nih.gov/42841395/) | 2026 | Revisão | Pain management | Revisão de escopo sobre cefaleia atribuída ao jejum, com foco no Ramadã e implicações clínicas. Não avalia o etoricoxibe na enxaqueca. |
 
-### Evidências indiretas em outras cefaleias (previsões de menor ranking)
+## Informações de Comercialização no Brasil
 
-Embora não se refiram à enxaqueca, há relatos de casos com etoricoxibe em outros tipos de cefaleia, que apoiam de forma indireta e limitada a direção terapêutica:
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [35277974](https://pubmed.ncbi.nlm.nih.gov/35277974/) | 2022 | Série de casos | Headache | Cefaleias responsivas à indometacina com sensibilidade ao etoricoxibe e ao celecoxibe |
-| [36893522](https://pubmed.ncbi.nlm.nih.gov/36893522/) | 2023 | Relato de caso | Clin Neurol Neurosurg | Cefaleia secundária da tosse com resposta ao etoricoxibe |
-| [18171381](https://pubmed.ncbi.nlm.nih.gov/18171381/) | 2008 | Relato/série de casos | Eur J Neurol | Cefaleia primária em pontada com resposta ao etoricoxibe |
-| [17883876](https://pubmed.ncbi.nlm.nih.gov/17883876/) | 2007 | Relato de caso | J Med Case Rep | Cefaleia idiopática em pontada tratada com etoricoxibe |
-| [29209105](https://pubmed.ncbi.nlm.nih.gov/29209105/) | 2017 | Pré-clínico | Mediators Inflamm | AINEs (incluindo etoricoxibe) e a liberação de CGRP e PGE2 em gânglios trigeminais de ratos; relevante para a enxaqueca, mas indireto |
+Os dados de registro disponíveis são parciais. A situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a lista detalhada de registros não está disponível nos dados compilados.
 
 ## Considerações de Segurança
 
-- **Interações medicamentosas**: a consulta foi concluída e retornou apenas a relação farmacológica com o alvo COX-2 (PTGS2), sem interações medicamentosas clinicamente classificadas.
-- **Sinais de segurança na literatura**: há relatos de caso de hiperpotassemia grave e disfunção renal aguda associadas ao etoricoxibe (em uso concomitante com telmisartana e dieta rica em potássio) e de possível síndrome de vasoconstrição cerebral reversível induzida pelo fármaco. Inibidores de COX-2 também se associam a risco cardiovascular, retenção hídrica e efeitos renais.
+- **Interações Medicamentosas**: o alvo farmacológico registrado é a COX-2 (gene PTGS2), sem interações com outros fármacos detalhadas.
 
-Consulte a bula para informações completas de segurança.
+Para as demais informações de segurança, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para enxaqueca tem pontuação alta no modelo, mas não há ensaios clínicos e a única publicação vinculada não avalia o etoricoxibe nessa doença (nível L5). Além disso, o fármaco não é comercializado no Brasil e não há dados de bula da ANVISA.
+- Não há ensaios clínicos nem estudos que avaliem diretamente o etoricoxibe na enxaqueca; a previsão se apoia apenas no modelo e em plausibilidade mecanística (nível L5).
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula/dados regulatórios da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
-- Complementar os dados do mecanismo de ação (por exemplo, via DrugBank)
-- Realizar busca sistemática de estudos clínicos de etoricoxibe em enxaqueca
-- Avaliar o perfil de risco cardiovascular e renal para o uso proposto
-- Considerar, como hipótese mais promissora, as cefaleias responsivas à indometacina (nível L4, apenas relatos de casos), que merecem formulação como questão de pesquisa
+- Revisão sistemática da literatura sobre inibidores da COX-2 em enxaqueca, incluindo estudos com o etoricoxibe.
+- Dados detalhados do mecanismo de ação.
+- Advertências e contraindicações extraídas da bula na ANVISA, em especial riscos cardiovasculares e renais.
+- Se houver avanço, estudo clínico controlado em enxaqueca, com plano de monitoramento de segurança.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

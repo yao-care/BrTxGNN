@@ -4,7 +4,7 @@ title: Caplacizumab
 parent: Apenas Predição do Modelo (L5)
 nav_order: 187
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Caplacizumab: nova indicação prevista, Transtorno primário de liberação plaquetária (primary release disorde… (nível de evidência L5). Indicação original: Antitrombótico"
 monitor_inn: "caplacizumab"
@@ -14,7 +14,7 @@ predicted_indications: ["primary release disorder of platelets", "pseudo-von Wil
 # Caplacizumab
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **transtorno primário de libera�
 |------|------|
 | Indicação Original | Antitrombótico |
 | Nova Indicação Prevista | Transtorno primário de liberação plaquetária (primary release disorder of platelets) |
-| Pontuação de Previsão TxGNN | 99,9998% |
+| Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

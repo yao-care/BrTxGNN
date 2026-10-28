@@ -4,17 +4,17 @@ title: Desloratadine
 parent: Apenas Predição do Modelo (L5)
 nav_order: 256
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Desloratadine: nova indicação prevista, Urticária ao frio (Cold Urticaria) (nível de evidência L5). Indicação original: Anti-histamínicos para uso sistêmico"
+indication_count: 4
 monitor_inn: "Desloratadine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis", "headache disorder", "trigeminal autonomic cephalalgia", "punctate epithelial keratoconjunctivitis", "Angelucci syndrome"]
+predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
+last_modified_at: 2026-10-27
+description: "Desloratadine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: ANTI-HISTAMINICOS SISTEMICOS"
 ---
 
 # Desloratadine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,91 +33,77 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Desloratadina: De anti-histamínico sistêmico para urticária ao frio
+## Desloratadina: anti-histamínico sistêmico → doença da cavidade nasal (nasal cavity disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Desloratadina é um anti-histamínico sistêmico de segunda geração, originalmente registrado no Brasil na classe dos anti-histamínicos para uso sistêmico.
-O modelo TxGNN prevê que pode ser eficaz para **Urticária ao Frio (Cold Urticaria)**,
-atualmente com **2 ensaios clínicos** e **6 publicações** retornadas na busca (3 RCTs diretamente relacionados à desloratadina na urticária ao frio).
+Desloratadina é um anti-histamínico de uso sistêmico (bloqueador de receptores H1).
+O modelo TxGNN prevê que pode ser eficaz para **doença da cavidade nasal (nasal cavity disease)**,
+mas até o momento há **0 ensaios clínicos** e apenas **2 publicações** (ambas em modelos animais, sem estudo direto do tema em humanos) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anti-histamínicos para uso sistêmico |
-| Nova Indicação Prevista | Urticária ao frio (Cold Urticaria) |
-| Pontuação de Previsão TxGNN | 99,94% |
-| Nível de Evidência | L1 (conforme classificação dos dados compilados; ressalva abaixo) |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 20 (todos cancelados) |
-| Decisão Recomendada | Proceed with Guardrails |
+| Indicação Original | ANTI-HISTAMINICOS SISTEMICOS; ANTI-HISTAMÍNICOS PARA USO SISTÊMICO |
+| Nova Indicação Prevista | Doença da cavidade nasal (nasal cavity disease) |
+| Pontuação de Previsão TxGNN | 0,9987 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Número de Registros | pelo menos 20 |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a desloratadina é um agonista inverso seletivo do receptor H1 periférico, e sua eficácia como anti-histamínico sistêmico em doenças alérgicas está estabelecida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a desloratadina pertence à classe dos anti-histamínicos H1, que reduzem os sintomas nasais mediados por histamina, como espirros, coriza e prurido.
 
-A urticária ao frio é uma urticária física mediada por mastócitos e histamina. Como o bloqueio de H1 atua diretamente na via efetora, o mecanismo é plausível. O aumento de dose de anti-histamínicos de segunda geração (até 4 vezes a dose padrão) é coerente com o manejo recomendado em diretrizes para esta condição.
+A previsão é plausível do ponto de vista farmacológico, pois a histamina tem papel central em condições inflamatórias e alérgicas da cavidade nasal. No entanto, o termo "doença da cavidade nasal" é pouco específico, o que dificulta definir qual condição concreta seria tratada.
 
-Os estudos disponíveis testam justamente essa estratégia de escalonamento de dose (5, 10 e 20 mg), o que reforça a coerência entre a previsão do modelo e a prática clínica.
+As publicações disponíveis são estudos em animais (um modelo de rinite alérgica em ratos, com hesperidina e timol, e um modelo de congestão nasal em gatos, com loratadina e montelucaste). Nenhum estudou a desloratadina isoladamente em humanos com esta doença, portanto a evidência é apenas indireta.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT01444196](https://clinicaltrials.gov/study/NCT01444196) | Phase 4 | Concluído | 30 | Estudo multicêntrico, duplo-cego, com escalonamento de dose (5, 10 e 20 mg) em urticária ao frio adquirida; objetivo: identificar a dose que inibe os sintomas |
-| [NCT00600847](https://clinicaltrials.gov/study/NCT00600847) | Phase 4 | Concluído | 33 | Estudo cruzado, randomizado, duplo-cego e controlado por placebo comparando 5 mg vs. 20 mg na urticária ao frio induzida experimentalmente (termografia, volumetria e fotografia) |
-
-Observação: ambos são de Fase 4 e com amostras pequenas; não se enquadram como Fase 3 clássica.
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [19201016](https://pubmed.ncbi.nlm.nih.gov/19201016/) | 2009 | RCT | J Allergy Clin Immunol | Desloratadina em dose alta reduziu o volume das pápulas e melhorou os limiares de provocação pelo frio em comparação à dose padrão (cruzado, controlado por placebo) |
-| [22242678](https://pubmed.ncbi.nlm.nih.gov/22242678/) | 2012 | RCT | Br J Dermatol | Estudo randomizado de escalonamento de dose de anti-histamínico H1 medindo o limiar crítico de temperatura na urticária ao frio |
-| [14754651](https://pubmed.ncbi.nlm.nih.gov/14754651/) | 2004 | RCT | J Dermatol Treat | Desloratadina 5 mg por 4 dias, testada com cubos de gelo antes e depois do tratamento em 12 pacientes com urticária ao frio |
-| [15516152](https://pubmed.ncbi.nlm.nih.gov/15516152/) | 2004 | Revisão | Drugs | Revisão sobre etiologia, manejo e opções de tratamento da urticária crônica |
-| [38025339](https://pubmed.ncbi.nlm.nih.gov/38025339/) | 2023 | Relato de caso | Qatar Med J | Urticária ao frio após anafilaxia por picada de formiga (contexto da doença, sem avaliação da desloratadina) |
+| [30488351](https://pubmed.ncbi.nlm.nih.gov/30488351/) | 2019 | Estudo animal | Eur Arch Otorhinolaryngol | Efeito de hesperidina e timol em modelo de rinite alérgica induzida por ovalbumina em ratos; não envolve desloratadina |
+| [19769798](https://pubmed.ncbi.nlm.nih.gov/19769798/) | 2009 | Estudo animal | Am J Rhinol Allergy | Loratadina com montelucaste produziu descongestão em modelo felino de congestão nasal; a desloratadina foi avaliada em associação com pseudoefedrina |
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão cancelados; não há registro válido atualmente. Principais registros (5 de 20):
+Há 20 registros de produtos de desloratadina isolada nos dados compilados (a lista pode estar incompleta). Principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 154230334 | Hystalor | — | Anti-histamínicos sistêmicos |
-| Registro nº 167730689 | Deslorana | — | Anti-histamínicos sistêmicos |
-| Registro nº 100431302 | Superhist ODT | — | Anti-histamínicos para uso sistêmico |
-| Registro nº 125680360 | Ikaros | — | Anti-histamínicos sistêmicos |
-| Registro nº 105730465 | Esalerg Gotas | — | Anti-histamínicos sistêmicos |
+| 154230334 | Hystalor | Não informada | Anti-histamínicos sistêmicos |
+| 167730689 | Deslorana | Não informada | Anti-histamínicos sistêmicos |
+| 100431302 | Superhist ODT | Não informada | Anti-histamínicos para uso sistêmico |
+| 125680360 | Ikaros | Não informada | Anti-histamínicos sistêmicos |
+| 105730465 | Esalerg Gotas | Não informada | Anti-histamínicos sistêmicos |
 
 ## Considerações de Segurança
 
-- **Contraindicações descritas no grafo de conhecimento (PrimeKG, não derivadas de bula)**: hipertensão, doença renal, doença hepática, doença da vesícula biliar, diabetes mellitus e cetoacidose diabética, hiperplasia prostática benigna, doença arterial coronariana e aterosclerose, glaucoma de ângulo fechado, e hipertireoidismo (doença de Graves/tireotoxicose). Devem ser confirmadas na bula, pois não provêm do texto regulatório.
-- **Interações Medicamentosas**: a consulta identificou 100 interações potenciais (exemplos: calcitriol, fentermina, pantoprazol, doxiciclina, clotrimazol, morfina, metformina, omeprazol, cimetidina, prednisona, sinvastatina, epinefrina), todas com nível de gravidade não classificado. Não permitem conclusão clínica sem revisão adicional.
+- **Condições associadas a contraindicação nos dados de relações fármaco-doença** (não são texto de bula e exigem verificação): hipertensão, doença renal, doença hepática, doenças da vesícula biliar, diabetes mellitus e cetoacidose diabética, hiperplasia prostática benigna, doença arterial coronariana e aterosclerose, glaucoma de ângulo fechado, hipertireoidismo (doença de Graves, tireotoxicose).
+- **Interações medicamentosas**: foram identificadas 100 possíveis interações, todas com nível de gravidade não classificado. Entre as listadas: calcitriol, fentermina, pantoprazol, doxiciclina, clotrimazol, morfina, metformina, omeprazol, rosiglitazona, lansoprazol, cimetidina e vancomicina.
 
 Consulte a bula para advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-- Há dois ensaios de Fase 4 concluídos e três RCTs publicados testando diretamente a desloratadina (incluindo doses elevadas) na urticária ao frio, com mecanismo plausível via bloqueio de H1. Contudo, as amostras são pequenas, os ensaios não são de Fase 3 e o nível L1 deve ser interpretado com cautela.
-- Nenhum dos 20 registros brasileiros está válido, o que limita a viabilidade imediata.
+- A previsão tem pontuação alta (0,9987), mas não há ensaios clínicos nem estudos que avaliem diretamente a desloratadina nesta indicação; só há dados indiretos em animais, e o termo da doença é inespecífico.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula na ANVISA (advertências e contraindicações), pois estes dados estão ausentes e bloqueiam a triagem de segurança.
-- Confirmar o mecanismo de ação em fonte consultável (ex.: DrugBank).
-- Verificar a situação regulatória: um registro válido de desloratadina (ou nova submissão) é necessário para uso no Brasil.
-- Definir plano de segurança para doses acima da aprovada (até 4 vezes), incluindo populações com doença renal, hepática ou cardiovascular.
-- Revisar as interações medicamentosas sem classificação de gravidade.
-
-### Outras indicações previstas (sem evidência suficiente — Hold)
-
-Indicações de menor prioridade, todas com decisão **Hold**: doença da cavidade nasal (L4, apenas estudos em animais e com outros fármacos), cefaleia (L4, literatura sem relação direta), e laringofaringite aguda, dermatite atópica recalcitrante, responsividade atópica de IgE, conjuntivite da rosácea, cefalalgia autonômica trigeminal, ceratoconjuntivite epitelial punctata e síndrome de Angelucci (todas L5, apenas previsão do modelo).
+- Definir uma condição nasal específica (por exemplo, subtipos de rinite) como alvo.
+- Obter dados do mecanismo de ação e o texto da bula com advertências e contraindicações.
+- Buscar ou conduzir estudos clínicos com desloratadina na condição escolhida.
+- Verificar a situação dos registros no Brasil, pois os dados de validade são inconsistentes.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

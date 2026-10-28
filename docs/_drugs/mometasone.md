@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mometasone
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 465
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-13
 description: "Mometasone: nova indicação prevista, Linfoma cutâneo primário de células T (primary cutaneous T-cell lymph… (nível de evidência L4). Indicação original: Produtos para terapia nasal de ação específica"
 monitor_inn: "Mometasone"
-predicted_indications: ["primary cutaneous T-cell lymphoma", "Crohn's colitis", "myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "cystic teratoma", "spinal cord dermoid cyst", "aregenerative anemia", "disease of orbital part of eye adnexa"]
+predicted_indications: ["primary cutaneous T-cell lymphoma"]
 ---
 
 # Mometasone
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e apenas **2 publicações** (ambos r
 |------|------|
 | Indicação Original | Produtos para terapia nasal de ação específica |
 | Nova Indicação Prevista | Linfoma cutâneo primário de células T (primary cutaneous T-cell lymphoma) |
-| Pontuação de Previsão TxGNN | 99,36% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 9 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9936 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
+| Número de Registros | 9 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -71,7 +71,7 @@ Há, porém, uma ressalva importante: não existem dados de estudos específicos
 
 ## Informações de Comercialização no Brasil
 
-Todos os 9 registros encontrados estão cancelados; não há registro vigente.
+O medicamento é comercializado no Brasil: dos 9 registros encontrados, 9 estão vigentes.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -100,7 +100,7 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa necessária para a triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Revisar a literatura sobre corticosteroides tópicos na micose fungoide em estágio inicial, buscando dados específicos de mometasona.
-- Avaliar a compatibilidade de via e formulação (tópica) e a situação regulatória, dado que todos os registros brasileiros estão cancelados.
+- Avaliar a compatibilidade de via e formulação (tópica) e a situação regulatória, dado que o medicamento é comercializado no Brasil, com 9 registros vigentes de 9.
 - Considerar um estudo exploratório de fase inicial, caso a revisão sustente a hipótese.
 ## Aviso de isenção de responsabilidade
 

@@ -8,6 +8,7 @@ nav_order: 620
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Testosterone
@@ -49,8 +50,8 @@ TESTOSTERONE (testosterona, DB00624) é o principal hormônio sexual androgênic
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 — sem previsões ativas |
-| Situação no Mercado Brasileiro | Não encontrado na base regulatória consultada |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | **Hold** |
 
 ---

@@ -4,17 +4,17 @@ title: Ampicillin
 parent: Evidência Moderada (L3-L4)
 nav_order: 65
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Ampicillin: nova indicação prevista, Laringite (Laryngitis) (nível de evidência L4). Indicação original: Penicilina de amplo espectro"
 monitor_inn: "Ampicillin"
-predicted_indications: ["laryngitis", "Ureaplasma urethritis", "gonococcal urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
+predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 ---
 
 # Ampicillin
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Laringite (Laryngitis)**, mas a
 |------|------|
 | Indicação Original | Penicilina de amplo espectro |
 | Nova Indicação Prevista | Laringite (Laryngitis) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 20) |
+| Número de Registros | 20 (ativos: 20) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -84,7 +84,7 @@ Foram recuperadas 19 publicações; abaixo estão as mais relevantes (nenhuma é
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados. Principais registros:
+Todos os 20 registros estão válidos. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Para advertências principais e contraindicações da bula, consulte a bula do m
 
 **Justificativa:**
 - A previsão tem pontuação alta no modelo, mas não há ensaios clínicos e a literatura é indireta (epiglotite, abscessos, profilaxia), sem dados de eficácia para laringite, em geral de origem viral.
-- No Brasil, todos os 20 registros estão cancelados, o que impede uso imediato.
+- No Brasil, o medicamento é comercializado e todos os 20 registros estão válidos.
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação e de advertências e contraindicações da bula (lacunas atuais).

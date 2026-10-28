@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Mepolizumab
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 443
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-13
 description: "Mepolizumab: nova indicação prevista, Trombocitopenia por destruição imune (thrombocytopenia due to immune… (nível de evidência L4). Indicação original: Outros medicamentos antiasmáticos"
@@ -14,7 +14,7 @@ predicted_indications: ["thrombocytopenia due to immune destruction", "primary r
 # Mepolizumab
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **5** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **0 ensaios clínicos** e **1 publicação** (um relato de caso) 
 |------|------|
 | Indicação Original | Outros medicamentos antiasmáticos |
 | Nova Indicação Prevista | Trombocitopenia por destruição imune (thrombocytopenia due to immune destruction) |
-| Pontuação de Previsão TxGNN | 99,66% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Pontuação de Previsão TxGNN | 0,9966 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação na base compil
 
 O único relato disponível descreve a resolução de uma diátese imune hipereosinofílica resistente a esteroides, com citopenia imunomediada associada, após o uso de mepolizumabe combinado a outras terapias. Isso sugere, no máximo, uma ligação **indireta**, por desregulação imune dirigida por eosinófilos. Não há evidência de efeito direto sobre a trombocitopenia imune (PTI) mediada por autoanticorpos antiplaquetários.
 
-O escore elevado do TxGNN (0,997) é uma predição computacional, sem respaldo de ensaios clínicos. Por ser um relato de caso com terapia concomitante, não é possível separar o efeito do mepolizumabe do efeito dos demais tratamentos.
+O escore elevado do TxGNN (0,9966) é uma predição computacional, sem respaldo de ensaios clínicos. Por ser um relato de caso com terapia concomitante, não é possível separar o efeito do mepolizumabe do efeito dos demais tratamentos.
 
 ## Evidências de Ensaios Clínicos
 

@@ -7,6 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 25
 evidence_level: L5
 indication_count: 0
+predicted_indications: []
 ---
 
 # Aclidínio Bromide
@@ -50,8 +51,8 @@ O fármaco não possui registro ativo no Brasil e os dados de mecanismo de açã
 | Nova Indicação Prevista | Não disponível (TxGNN não gerou previsão) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão gerada) |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ---

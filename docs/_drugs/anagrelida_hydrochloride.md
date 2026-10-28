@@ -8,6 +8,7 @@ nav_order: 69
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Anagrelida Hydrochloride
@@ -49,8 +50,8 @@ Anagrelida Cloridrato é um fármaco sem registro encontrado no sistema regulat�
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 — apenas consulta ao modelo, sem estudos reais retornados |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | **Hold** |
 
 ---

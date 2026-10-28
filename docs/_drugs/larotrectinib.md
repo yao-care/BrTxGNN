@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Larotrectinib
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 392
-evidence_level: L3
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Larotrectinib: nova indicação prevista, Neoplasia Endócrina Múltipla (Multiple Endocrine Neoplasia) (nível de evidência L3). Indicação original: Agentes antineoplásicos"
@@ -14,7 +14,7 @@ predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast ca
 # Larotrectinib
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **2** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ porém há apenas **1 ensaio clínico** (basket trial tumor-agnóstico, relevân
 |------|------|
 | Indicação Original | Agentes antineoplásicos |
 | Nova Indicação Prevista | Neoplasia Endócrina Múltipla (Multiple Endocrine Neoplasia) |
-| Pontuação de Previsão TxGNN | 99,24% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 2 (ambos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9924 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A Neoplasia Endócrina Múltipla tipo 2 (MEN2) é causada principalmente por mutações germinativas ativadoras do gene RET, e não por alterações em NTRK. Portanto, **não há sobreposição direta de alvo**. A ligação é indireta: a literatura aborda terapias com inibidores de quinase no câncer de tireoide avançado (incluindo o carcinoma medular de tireoide, tumor característico da MEN2), e tumores dependentes de RET podem apresentar resistência por vias paralelas de quinases.
 
-Os inibidores seletivos de RET (selpercatinibe e pralsetinibe) são a opção direcionada estabelecida. O larotrectinibe seria relevante apenas em tumores raros com fusão de NTRK. A pontuação alta do TxGNN (0,99) é uma previsão computacional e, por si só, não demonstra benefício clínico.
+Os inibidores seletivos de RET (selpercatinibe e pralsetinibe) são a opção direcionada estabelecida. O larotrectinibe seria relevante apenas em tumores raros com fusão de NTRK. A pontuação alta do TxGNN (0,9924) é uma previsão computacional do modelo de aprendizado profundo, que pode refletir semelhanças aprendidas entre doenças relacionadas, e não evidência biológica. Por si só, não demonstra benefício clínico.
 
 ## Evidências de Ensaios Clínicos
 

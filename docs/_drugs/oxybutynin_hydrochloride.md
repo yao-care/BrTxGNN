@@ -8,6 +8,7 @@ nav_order: 501
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Oxybutynin Hydrochloride
@@ -49,8 +50,8 @@ Oxibutinina (Oxybutynin Hydrochloride) é um fármaco anticolinérgico/antimusca
 | Nova Indicação Prevista | Não disponível (ausência de previsões TxGNN) |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 – Sem previsões de modelo disponíveis |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | **Hold** |
 
 ---

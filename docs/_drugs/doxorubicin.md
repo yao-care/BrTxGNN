@@ -4,17 +4,17 @@ title: Doxorubicin
 parent: Evidência Alta (L1-L2)
 nav_order: 277
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Doxorubicin: nova indicação prevista, Sarcoma de Ewing (Ewing sarcoma) (nível de evidência L2). Indicação original: Antineoplásico"
 monitor_inn: "Doxorubicin"
-predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "ganglioneuroblastoma (disease)"]
+predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
 ---
 
 # Doxorubicin
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **28 ensaios clínicos** e **20 publicações** apoiando esta dir
 |------|------|
 | Indicação Original | Antineoplásico |
 | Nova Indicação Prevista | Sarcoma de Ewing (Ewing sarcoma) |
-| Pontuação de Previsão TxGNN | 99,90% |
+| Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 8 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -98,7 +98,7 @@ Observação: em vários ensaios acima a doxorrubicina faz parte do esquema de b
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontrados estão cancelados; não há registro válido atualmente.
+Medicamento comercializado no país, com 8 registros válidos de 8.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -133,7 +133,7 @@ As advertências e contraindicações do texto de bula não estavam disponíveis
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- A doxorrubicina é componente consolidado dos esquemas multiagentes padrão do sarcoma de Ewing, com ensaios de Fase 3 e Fase 2 e literatura de alto nível, o que sustenta o nível L2. No entanto, o papel isolado da doxorrubicina não é separado dos demais fármacos, e todos os registros brasileiros estão cancelados.
+- A doxorrubicina é componente consolidado dos esquemas multiagentes padrão do sarcoma de Ewing, com ensaios de Fase 3 e Fase 2 e literatura de alto nível, o que sustenta o nível L2. No entanto, o papel isolado da doxorrubicina não é separado dos demais fármacos, e o medicamento está comercializado no Brasil, com 8 registros válidos de 8.
 
 **Para prosseguir, é necessário:**
 - Obter o texto de bula da ANVISA (advertências e contraindicações), hoje indisponível.
@@ -146,15 +146,14 @@ As advertências e contraindicações do texto de bula não estavam disponíveis
 
 | Indicação | Pontuação TxGNN | Nível | Decisão |
 |------|------|------|------|
-| Rabdomiossarcoma | 99,70% | L1 | Proceed with Guardrails (Fase 3 em sarcomas de partes moles, não específicas de rabdomiossarcoma) |
-| Blastoma pulmonar | 99,85% | L3 | Proceed with Guardrails |
-| Leucemia mieloide crônica BCR-ABL1 positiva | 99,77% | L4 | Hold |
-| Leucemia monocítica | 99,74% | L4 | Hold |
-| Adenocarcinoma fetal pulmonar bem diferenciado | 99,86% | L5 | Hold |
-| Linfoma pulmonar primário | 99,85% | L4 | Questão de pesquisa |
-| Rabdomiossarcoma embrionário botrioide da vagina | 99,72% | L4 | Questão de pesquisa |
-| Rabdomiossarcoma embrionário parameníngeo | 99,71% | L4 | Questão de pesquisa |
-| Ganglioneuroblastoma | 99,70% | L4 | Questão de pesquisa |
+| Rabdomiossarcoma | 0,9970 | L1 | Proceed with Guardrails (Fase 3 em sarcomas de partes moles, não específicas de rabdomiossarcoma) |
+| Blastoma pulmonar | 0,9985 | L3 | Proceed with Guardrails |
+| Leucemia monocítica | 0,9974 | L4 | Hold |
+| Adenocarcinoma fetal pulmonar bem diferenciado | 0,9986 | L5 | Hold |
+| Linfoma pulmonar primário | 0,9985 | L4 | Questão de pesquisa |
+| Rabdomiossarcoma embrionário botrioide da vagina | 0,9972 | L4 | Questão de pesquisa |
+| Rabdomiossarcoma embrionário parameníngeo | 0,9971 | L4 | Questão de pesquisa |
+| Ganglioneuroblastoma | 0,9970 | L4 | Questão de pesquisa |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

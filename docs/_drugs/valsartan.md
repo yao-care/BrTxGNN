@@ -4,17 +4,17 @@ title: Valsartan
 parent: Evidência Moderada (L3-L4)
 nav_order: 664
 evidence_level: L4
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-13
-description: "Valsartan: nova indicação prevista, Hipertensão renovascular maligna (malignant renovascular hypertension) (nível de evidência L4). Indicação original: Hipertensão arterial (transtorno hipertensivo)"
 monitor_inn: "VALSARTAN"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
+description: "Valsartan: nova indicação prevista, Malignant hypertensive renal disease (nível de evidência L4). Indicação original: Não consta nos dados locais"
 ---
 
 # Valsartan
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **7** 
+Nível de evidência: **L4** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **7**
 
 </div>
 
-## Valsartana: Da hipertensão arterial à hipertensão renovascular maligna
+## Valsartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,11 +46,11 @@ atualmente com **0 ensaios clínicos** e **1 publicação** (estudo pré-clínic
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial (transtorno hipertensivo) |
-| Nova Indicação Prevista | Hipertensão renovascular maligna (malignant renovascular hypertension) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Malignant hypertensive renal disease |
+| Pontuação de Previsão TxGNN | 0.9997 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 8) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -74,7 +74,7 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 ## Considerações de Segurança
 
-Os dados de advertências e contraindicações da bula não estavam disponíveis. As informações abaixo vêm do grafo de conhecimento do TxGNN (relações fármaco-doença), e **não** do texto da bula.
+Os dados de advertências e contraindicações da bula não estavam disponíveis. As informações abaixo vêm das predições do modelo TxGNN (deep learning), cujos scores podem refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e **não** de evidência biológica nem do texto da bula.
 
 - **Contraindicações/condições de atenção (grafo de conhecimento)**:
   - Hepáticas e biliares: insuficiência hepática, doença hepática, encefalopatia/coma hepático, doença da vesícula biliar, icterícia neonatal, pancreatite
@@ -106,12 +106,12 @@ Os dados de advertências e contraindicações da bula não estavam disponíveis
 
 | Indicação prevista | Pontuação TxGNN | Nível de Evidência | Observação | Recomendação |
 |------|------|------|------|------|
-| Doença renal hipertensiva maligna | 99,97% | L4 | Único artigo trata da avosentana (antagonista de endotelina), não da valsartana; evidência apenas indireta | Hold |
-| Hipertensão pulmonar de mecanismo multifatorial incerto | 99,97% | L5 | Apenas previsão do modelo, sem ensaios nem literatura | Hold |
-| Hipertensão pulmonar por doença pulmonar e/ou hipóxia | 99,97% | L4 | Estudos pré-clínicos de valsartana/sacubitril-valsartana ligados à biologia da hipóxia (ex.: via HIF-1α); a maioria dos artigos trata de outros órgãos ou outros fármacos; sem ensaios clínicos | Questão de pesquisa |
-| Síndrome de Braddock | 99,96% | L5 | Apenas previsão do modelo | Hold |
-| Cor pulmonale crônico | 99,58% | L4 | Evidência indireta (sacubitril/valsartana em insuficiência cardíaca; um estudo pré-clínico de remodelamento do ventrículo direito, PMID 32552157). O único ensaio associado (NCT02966665, Fase 1, 420 participantes, em recrutamento) é sobre exercício e função vascular na hipertensão, com correspondência fraca | Questão de pesquisa |
-| Angina de Prinzmetal | 99,45% | L5 | O único artigo (PMID 20555232) trata de alternância da onda T, sem relação com o tratamento | Hold |
+| Doença renal hipertensiva maligna | 0,9997 | L4 | Único artigo trata da avosentana (antagonista de endotelina), não da valsartana; evidência apenas indireta | Hold |
+| Hipertensão pulmonar de mecanismo multifatorial incerto | 0,9997 | L5 | Apenas previsão do modelo, sem ensaios nem literatura | Hold |
+| Hipertensão pulmonar por doença pulmonar e/ou hipóxia | 0,9997 | L4 | Estudos pré-clínicos de valsartana/sacubitril-valsartana ligados à biologia da hipóxia (ex.: via HIF-1α); a maioria dos artigos trata de outros órgãos ou outros fármacos; sem ensaios clínicos | Questão de pesquisa |
+| Síndrome de Braddock | 0,9996 | L5 | Apenas previsão do modelo | Hold |
+| Cor pulmonale crônico | 0,9958 | L4 | Evidência indireta (sacubitril/valsartana em insuficiência cardíaca; um estudo pré-clínico de remodelamento do ventrículo direito, PMID 32552157). O único ensaio associado (NCT02966665, Fase 1, 420 participantes, em recrutamento) é sobre exercício e função vascular na hipertensão, com correspondência fraca | Questão de pesquisa |
+| Angina de Prinzmetal | 0,9945 | L5 | O único artigo (PMID 20555232) trata de alternância da onda T, sem relação com o tratamento | Hold |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

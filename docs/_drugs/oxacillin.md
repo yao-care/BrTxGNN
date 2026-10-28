@@ -47,10 +47,10 @@ O modelo TxGNN prevê que ela pode ser eficaz para **Epiglotite (Epiglottitis)**
 |------|------|
 | Indicação Original | Penicilinas resistentes à penicilinase |
 | Nova Indicação Prevista | Epiglotite (Epiglottitis) |
-| Pontuação de Previsão TxGNN | 99,90% |
+| Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 6 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
+| Número de Registros | 6 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 A epiglotite é uma infecção bacteriana aguda, na qual o *S. aureus* pode ser um dos agentes causadores. Por isso, existe uma lógica antibacteriana para a previsão. No entanto, o tratamento empírico padrão costuma priorizar agentes com cobertura para *H. influenzae* e estreptococos, e a cobertura de *S. aureus* geralmente é feita com outros fármacos.
 
-A pontuação alta do TxGNN (99,9%) não é sustentada por nenhum ensaio clínico ou publicação recuperados. Trata-se, portanto, de uma previsão do modelo sem confirmação por dados reais.
+A pontuação alta do TxGNN (0,9990) não é sustentada por nenhum ensaio clínico ou publicação recuperados. Trata-se, portanto, de uma previsão do modelo sem confirmação por dados reais.
 
 ## Evidências de Ensaios Clínicos
 
@@ -71,7 +71,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 6 registros estão cancelados; não há produto com registro válido atualmente.
+Os 6 registros no Brasil estão válidos; o medicamento é comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -100,7 +100,7 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para epiglotite tem pontuação alta no modelo, mas não conta com ensaios clínicos nem literatura (nível L5). O uso estaria, além disso, dentro do espectro antibacteriano já conhecido, e não seria um reposicionamento claramente novo. Todos os registros no Brasil estão cancelados.
+- A previsão para epiglotite tem pontuação alta no modelo (TxGNN, deep learning), mas não conta com ensaios clínicos nem literatura (nível L5). O uso estaria, além disso, dentro do espectro antibacteriano já conhecido, e não seria um reposicionamento claramente novo. O medicamento é comercializado no Brasil, com 6 registros válidos de 6.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA para advertências e contraindicações formais.
@@ -109,7 +109,7 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 - Verificar a disponibilidade comercial atual, dado que não há registro válido no Brasil.
 - Avaliar a via de administração e a forma farmacêutica necessárias.
 
-**Observação sobre outras indicações previstas:** "artrite bacteriana" (pontuação 99,50%, nível L4) tem plausibilidade mecanística maior, pois a oxacilina é tratamento estabelecido para infecções osteoarticulares por MSSA. Contudo, a literatura recuperada é majoritariamente descritiva (revisões, séries de casos, epidemiologia), sem ensaios diretos de eficácia, e trata-se de uso já dentro da indicação antibacteriana existente. "Laringite" (99,73%, L5) e "infecção do trato urinário" (99,03%, L4) são pouco plausíveis clinicamente: a laringite é majoritariamente viral, e a oxacilina não cobre as enterobactérias, principais causadoras de ITU. Ambas permanecem em Hold.
+**Observação sobre outras indicações previstas:** "artrite bacteriana" (pontuação 0,9950, nível L4) tem plausibilidade mecanística maior, pois a oxacilina é tratamento estabelecido para infecções osteoarticulares por MSSA. Contudo, a literatura recuperada é majoritariamente descritiva (revisões, séries de casos, epidemiologia), sem ensaios diretos de eficácia, e trata-se de uso já dentro da indicação antibacteriana existente. "Laringite" (0,9973, L5) e "infecção do trato urinário" (0,9903, L4) são pouco plausíveis clinicamente: a laringite é majoritariamente viral, e a oxacilina não cobre as enterobactérias, principais causadoras de ITU. Ambas permanecem em Hold.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

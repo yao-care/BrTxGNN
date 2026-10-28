@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Polymyxin B
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Moderada (L3-L4)
 nav_order: 534
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 2
 last_modified_at: 2026-10-13
 description: "Polymyxin B: nova indicação prevista, Bronquite (bronchitis) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Polymyxin B"
-predicted_indications: ["bronchitis", "laryngotracheitis", "respiratory tract infectious disease", "tracheal disease", "laryngitis", "epiglottitis", "obstructive lung disease", "bronchial neoplasm (disease)", "acute contagious conjunctivitis"]
+predicted_indications: ["bronchitis", "laryngotracheitis"]
 ---
 
 # Polymyxin B
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 A polimixina B é um antibiótico polipeptídico, originalmente usado como antibacteriano sistêmico e em associações tópicas (oftálmicas, otológicas e dermatológicas) contra bactérias Gram-negativas.
 O modelo TxGNN prevê que pode ser eficaz para **bronquite (bronchitis)**, mas essa direção conta com **0 ensaios clínicos** e apenas **12 publicações**, em sua maioria históricas, experimentais ou de segurança.
-Entre as indicações previstas, a **conjuntivite** é a mais bem sustentada (vários ensaios randomizados), embora corresponda a um uso já estabelecido, e não a um reposicionamento genuíno.
 
 ---
 
@@ -50,13 +49,12 @@ Entre as indicações previstas, a **conjuntivite** é a mais bem sustentada (v�
 |------|------|
 | Indicação Original | Antibióticos sistêmicos simples |
 | Nova Indicação Prevista | Bronquite (bronchitis) |
-| Pontuação de Previsão TxGNN | 99,87% |
+| Pontuação de Previsão TxGNN | 0,9987 |
 | Nível de Evidência | L4 (para bronquite) |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 |
 | Decisão Recomendada | Hold |
 
-> Observação: entre as 10 indicações previstas, a conjuntivite (pontuação 99,06%) tem o maior nível de evidência (L1) e recomendação "Proceed with Guardrails". A infecção do trato respiratório (L2) é classificada como questão de pesquisa. Ambas são detalhadas abaixo.
 
 ---
 
@@ -66,7 +64,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação na base compil
 
 A relação com a nova indicação é plausível apenas para quadros **bacterianos** das vias respiratórias causados por Gram-negativos resistentes (traqueobronquite associada à ventilação, pneumonia). A literatura sobre bronquite é majoritariamente antiga (década de 1970) e trata de uso endobrônquico/inalatório, além de estudos em que a polimixina B inalada **provoca broncoconstrição** em pacientes com asma e bronquite crônica, por degranulação de mastócitos e basófilos. Vários estudos usam a polimixina B como agente de provocação brônquica ou para induzir bronquite eosinofílica em modelos animais, o que não é evidência de benefício terapêutico.
 
-Para as demais previsões respiratórias de alta pontuação (laringotraqueíte, laringite, epiglotite, doença pulmonar obstrutiva), o modelo parece ter se apoiado no nó compartilhado de infecção respiratória. Essas doenças são, em geral, virais ou têm tratamento de primeira linha estabelecido. A previsão de neoplasia brônquica não tem fundamento mecanístico e parece ser uma associação computacional espúria.
+Para a outra previsão respiratória de alta pontuação (laringotraqueíte, 0,9962), a pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Essa doença é, em geral, viral ou tem tratamento de primeira linha estabelecido.
 
 ---
 
@@ -101,7 +99,6 @@ Para a indicação **infecção do trato respiratório** (4ª previsão, 98,89%)
 | [2984629](https://pubmed.ncbi.nlm.nih.gov/2984629/) | 1985 | Estudo fisiológico (provocação) | Orv Hetil | Provocação brônquica inespecífica com polimixina B em asma e bronquite crônica |
 | [4373513](https://pubmed.ncbi.nlm.nih.gov/4373513/) | 1974 | Relato clínico | J Kans Med Soc | Traqueobronquite por *Pseudomonas* tratada com gentamicina sistêmica e aerossol de polimixina B |
 
-**Conjuntivite (previsão com maior nível de evidência)**
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
@@ -118,7 +115,7 @@ Para a indicação **infecção do trato respiratório** (4ª previsão, 98,89%)
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão **cancelados**; não há registro válido. Principais registros:
+Há 20 registros válidos e o medicamento é comercializado no país. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -144,16 +141,15 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold** (para a indicação principal, bronquite)
 
 **Justificativa:**
-- A pontuação alta do TxGNN (99,87%) não é acompanhada de ensaios clínicos nem de evidência de eficácia; a literatura sobre bronquite é antiga e inclui sinais de segurança relevantes (broncoconstrição), e não benefício demonstrado. Todos os registros brasileiros estão cancelados.
-- Entre as previsões, apenas a **conjuntivite bacteriana** (L1, "Proceed with Guardrails") tem respaldo clínico robusto, mas corresponde a uso já estabelecido, com evidência referente à associação polimixina B/trimetoprima. A **infecção do trato respiratório** (L2) permanece como questão de pesquisa.
+- A pontuação alta do TxGNN (0,9987) não é acompanhada de ensaios clínicos nem de evidência de eficácia; a literatura sobre bronquite é antiga e inclui sinais de segurança relevantes (broncoconstrição), e não benefício demonstrado. O medicamento é comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
-- Confirmar a disponibilidade local e o status regulatório (todos os registros estão cancelados) e, se pertinente, avaliar novo registro.
+- Confirmar a disponibilidade local e o status regulatório (20 registros válidos; medicamento comercializado).
 - Obter as advertências e contraindicações da bula na ANVISA, hoje ausentes (lacuna bloqueante para a triagem de segurança).
 - Obter dados do mecanismo de ação via DrugBank.
 - Para a via respiratória: aguardar resultados dos ensaios de nebulização (NCT07086391, NCT06076603) e definir estratégia de mitigação do risco de broncoespasmo e nefro/neurotoxicidade.
 - Para conjuntivite: confirmar evidências para a associação polimixina B/trimetoprima (sem registros NCT nos dados compilados) e restringir a indicação à conjuntivite bacteriana (não viral/alérgica).
-- Descartar as previsões sem base (laringotraqueíte, laringite, epiglotite, neoplasia brônquica) ou mantê-las apenas como hipóteses computacionais.
+- Descartar a previsão sem base (laringotraqueíte) ou mantê-la apenas como hipótese computacional.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

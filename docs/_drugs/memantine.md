@@ -4,17 +4,17 @@ title: Memantine
 parent: Apenas Predição do Modelo (L5)
 nav_order: 442
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-13
-description: "Memantine: nova indicação prevista, Hipertensão pulmonar (pulmonary hypertension) (nível de evidência L5). Indicação original: Outros produtos que atuam sobre o sistema nervoso (categoria genérica…"
 monitor_inn: "Memantine"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "rheumatoid arthritis", "nephrogenic syndrome of inappropriate antidiuresis", "atrophoderma vermiculata", "migraine with or without aura, susceptibility to", "ulerythema ophryogenesis", "brachydactyly-syndactyly syndrome"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
+description: "Memantine: nova indicação prevista, Hipertensão pulmonar (pulmonary hypertension) (nível de evidência L5). Indicação original: OUTROS PRODUTOS QUE ATUAM SOBRE O SISTEMA NERVOSO"
 ---
 
 # Memantine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Memantina: De outros medicamentos do sistema nervoso para enxaqueca
+## Memantine: Hipertensão pulmonar (pulmonary hypertension)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,12 +48,12 @@ A direção melhor sustentada pelos dados é a **enxaqueca (migraine disorder)**
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Outros produtos que atuam sobre o sistema nervoso (categoria genérica da ANVISA) |
+| Indicação Original | OUTROS PRODUTOS QUE ATUAM SOBRE O SISTEMA NERVOSO; OUTROS MEDICAMENTOS QUE ATUAM SOBRE O SISTEMA NERVOSO |
 | Nova Indicação Prevista (1ª do ranking) | Hipertensão pulmonar (pulmonary hypertension) |
-| Nova Indicação com Maior Evidência (2ª do ranking) | Enxaqueca (migraine disorder) |
-| Pontuação de Previsão TxGNN | Hipertensão pulmonar: 99,54%; enxaqueca: 99,52% |
+| Nova Indicação com Maior Evidência (2ª do ranking) | Pulmonary hypertension |
+| Pontuação de Previsão TxGNN | 0.9954 |
 | Nível de Evidência | Hipertensão pulmonar: L5; enxaqueca: L1 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hipertensão pulmonar: Hold; enxaqueca: Proceed with Guardrails |
 
@@ -102,12 +102,11 @@ Para hipertensão pulmonar, atualmente não há ensaios clínicos relacionados r
 **Outras previsões de destaque (resumo):**
 - **Enxaqueca com aura do tronco encefálico (L3):** sem ensaios específicos; há um RCT em enxaqueca sem aura (PMID 26638119) e revisões, com evidência extrapolada.
 - **Enxaqueca com ou sem aura, suscetibilidade (L2):** entrada de suscetibilidade genética; a evidência clínica é melhor atribuída à indicação "enxaqueca".
-- **Artrite reumatoide (L4):** apenas dados pré-clínicos (modelo animal e in vitro), sem evidência de eficácia em humanos.
-- **Cardiopatia cifoescoliótica, síndrome nefrogênica de antidiurese inapropriada, atrofodermia vermiculada, uleritema ofriogenes e síndrome braquidactilia-sindactilia (L5):** sem ensaios nem literatura. Para a síndrome nefrogênica de antidiurese inapropriada, há ainda alerta: a memantina está associada, em relatos de caso, a eventos adversos do tipo hiponatremia/SIADH, então a previsão pode ser espúria ou até contraindicada.
+- **Cardiopatia cifoescoliótica (L5):** sem ensaios nem literatura.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão **cancelados**; atualmente não há registro válido. Principais registros (5 de 20):
+Há 20 registros **válidos**; o medicamento é comercializado. Principais registros (5 de 20):
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -130,13 +129,13 @@ Todos os 20 registros estão **cancelados**; atualmente não há registro válid
 - **Enxaqueca (2ª previsão): Proceed with Guardrails**
 
 **Justificativa:**
-- Hipertensão pulmonar: a pontuação do modelo é alta (99,54%), mas não há ensaios nem literatura direta; o único elo é teórico (NMDA na vasculatura pulmonar).
+- Hipertensão pulmonar: a pontuação do modelo é alta (0,9954), mas não há ensaios nem literatura direta; o único elo é teórico (NMDA na vasculatura pulmonar).
 - Enxaqueca: há um ensaio de Fase 3 concluído e várias metanálises e revisões sistemáticas. Porém, o ensaio é pequeno (33 participantes), a eficácia segue descrita como controversa e há poucos ensaios robustos. Além disso, não há registro válido no Brasil, e os dados de segurança da bula estão ausentes.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança.
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank).
-- Avaliar a situação regulatória: todos os 20 registros estão cancelados, de modo que seria preciso nova petição de registro ou outra via de acesso.
+- Avaliar a situação regulatória: o medicamento é comercializado e há 20 registros válidos, de modo que seria preciso verificar a via de acesso para a nova indicação.
 - Para enxaqueca: examinar os resultados completos do NCT04698525 e as metanálises (PMID 33961371 e 35467554) e planejar ensaio de maior porte, com plano de monitoramento de segurança (função renal e hepática, interações com anticolinérgicos).
 - Para hipertensão pulmonar: gerar evidência pré-clínica direta com memantina antes de qualquer avanço.
 ## Aviso de isenção de responsabilidade

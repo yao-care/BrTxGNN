@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertensão Pulmonar (Pulmonar
 |------|------|
 | Indicação Original | Inibidores da proteína quinase |
 | Nova Indicação Prevista | Hipertensão Pulmonar (Pulmonary Hypertension) |
-| Pontuação de Previsão TxGNN | 99,18% |
+| Pontuação de Previsão TxGNN | 0,9918 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 Alguns inibidores de quinase de outros alvos (por exemplo, o imatinibe, que atua sobre PDGFR) já foram explorados na hipertensão arterial pulmonar. Para a inibição específica de RET, no entanto, não há evidência de apoio. As publicações recuperadas tratam de cânceres dependentes de RET e de eventos adversos, não do tratamento de hipertensão pulmonar.
 
-A pontuação elevada do TxGNN (99,18%) é apenas uma previsão computacional e deve ser interpretada com cautela. As previsões seguintes do modelo (enxaqueca, com 99,17%, e enxaqueca com aura do tronco encefálico, com 99,05%) também carecem de qualquer evidência clínica ou da literatura; a segunda está provavelmente correlacionada à primeira, não constituindo evidência independente.
+A pontuação elevada do TxGNN (0,9918) é apenas uma previsão computacional e deve ser interpretada com cautela. As previsões seguintes do modelo (enxaqueca, com 0,9917, e enxaqueca com aura do tronco encefálico, com 0,9905) também carecem de qualquer evidência clínica ou da literatura; a segunda está provavelmente correlacionada à primeira, não constituindo evidência independente.
 
 ## Evidências da Literatura
 

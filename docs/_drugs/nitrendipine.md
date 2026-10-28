@@ -4,7 +4,7 @@ title: Nitrendipine
 parent: Apenas Predição do Modelo (L5)
 nav_order: 474
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-13
 description: "Nitrendipine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Anti-hipertensivos simples"
 monitor_inn: "nitrendipine"
@@ -14,7 +14,7 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pu
 # Nitrendipine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **4** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**
 |------|------|
 | Indicação Original | Anti-hipertensivos simples |
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
-| Pontuação de Previsão TxGNN | 99,42% |
+| Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 3 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -107,7 +107,7 @@ Consulte a bula para informações sobre advertências e contraindicações.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para enxaqueca baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura que avalie o nitrendipino nessa condição. Além disso, todos os registros brasileiros estão cancelados, e não há dados de bula sobre segurança.
+- A previsão para enxaqueca baseia-se apenas no modelo TxGNN (deep learning) (L5), sem ensaios clínicos nem literatura que avalie o nitrendipino nessa condição. Além disso, o medicamento é comercializado no Brasil, com 3 registros válidos de 3, e não há dados de bula sobre segurança.
 
 **Para prosseguir, é necessário:**
 - Obter as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança).

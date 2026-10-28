@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tamoxifen
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 605
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Tamoxifen: nova indicação prevista, Doença de Paget mamária (Mammary Paget Disease) (nível de evidência L4). Indicação original: Carcinoma de mama feminino"
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Tamoxifen: nova indicação prevista, Doença de Paget mamária (mammary Paget disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Tamoxifen
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Tamoxifeno: Do câncer de mama à doença de Paget mamária
+## Tamoxifen: Doença de Paget mamária (mammary Paget disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -49,11 +49,11 @@ O modelo TxGNN prevê que pode ser eficaz para a **Doença de Paget mamária (Ma
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Carcinoma de mama feminino |
-| Nova Indicação Prevista | Doença de Paget mamária (Mammary Paget Disease) |
-| Pontuação de Previsão TxGNN | 99,69% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados; deve ser verificado) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Doença de Paget mamária (mammary Paget disease) |
+| Pontuação de Previsão TxGNN | 0.9969 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -96,7 +96,7 @@ Contudo, a evidência é **indireta**. A pontuação TxGNN muito alta reflete a 
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, o tamoxifeno consta como **não comercializado**, sem registros ativos. Essa informação diverge da realidade esperada para um fármaco amplamente usado e **deve ser verificada** diretamente na ANVISA.
+Essa informação diverge da realidade esperada para um fármaco amplamente usado e **deve ser verificada** diretamente na ANVISA.
 
 ---
 
@@ -125,15 +125,14 @@ Segundo os dados compilados, o tamoxifeno consta como **não comercializado**, s
 
 | # | Indicação | Pontuação | Nível | Recomendação |
 |---|---|---|---|---|
-| 2 | Adenocarcinoma cribriforme intraductal de mama | 99,69% | L5 | Hold |
-| 3 | Carcinoma de mama basal-like | 99,68% | L5 | Hold |
-| 4 | **Carcinoma de mama in situ (DCIS)** | 99,67% | **L1** | **Proceed with Guardrails** |
-| 5 | Carcinoma sebáceo de mama | 99,67% | L5 | Hold |
-| 6 | Carcinoma tubular invasivo de mama | 99,67% | L4 | Research Question |
-| 7 | Carcinoma de mama resistente a hormônio | 99,67% | L2 | Research Question |
-| 8 | Câncer de mama ER-positivo | 99,67% | L1 | Proceed with Guardrails |
-| 9 | Carcinoma de Ehrlich (modelo murino) | 99,67% | L4 | Hold |
-| 10 | Rabdomiossarcoma embrionário botrioide de vagina | 99,67% | L5 | Hold |
+| 2 | Adenocarcinoma cribriforme intraductal de mama | 0,9969 | L5 | Hold |
+| 4 | **Carcinoma de mama in situ (DCIS)** | 0,9967 | **L1** | **Proceed with Guardrails** |
+| 5 | Carcinoma sebáceo de mama | 0,9967 | L5 | Hold |
+| 6 | Carcinoma tubular invasivo de mama | 0,9967 | L4 | Research Question |
+| 7 | Carcinoma de mama resistente a hormônio | 0,9967 | L2 | Research Question |
+| 8 | Câncer de mama ER-positivo | 0,9967 | L1 | Proceed with Guardrails |
+| 9 | Carcinoma de Ehrlich (modelo murino) | 0,9967 | L4 | Hold |
+| 10 | Rabdomiossarcoma embrionário botrioide de vagina | 0,9967 | L5 | Hold |
 
 **Destaque, DCIS:** há ensaio fase 3 randomizado e controlado por placebo com tamoxifeno em baixa dose (TAM-01, [PMID 36917758](https://pubmed.ncbi.nlm.nih.gov/36917758/) e [PMID 30973790](https://pubmed.ncbi.nlm.nih.gov/30973790/)), com redução de eventos de câncer de mama, além de outros estudos fase 3 concluídos (por exemplo, [NCT00072462](https://clinicaltrials.gov/study/NCT00072462) e [NCT00053898](https://clinicaltrials.gov/study/NCT00053898)). Essa indicação, porém, é uma extensão do uso já estabelecido em câncer de mama, e não um reposicionamento propriamente novo. Para o câncer de mama ER-positivo, vale a mesma ressalva.
 

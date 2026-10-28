@@ -8,6 +8,7 @@ nav_order: 146
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bortezomibe
@@ -49,7 +50,7 @@ Bortezomibe é um inibidor de proteassoma amplamente utilizado no tratamento do 
 | Nova Indicação Prevista | **Nenhuma previsão disponível** |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | **L5** (dados insuficientes para avaliação) |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 17) |
 | Número de Registros | 20 |
 | Decisão Recomendada | **Hold** |
 

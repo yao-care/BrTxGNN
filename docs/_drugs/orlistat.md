@@ -50,9 +50,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Moduladores do metabolismo e da digestão (orlistate) |
 | Nova Indicação Prevista | Hipervitaminose (Hypervitaminosis) |
-| Pontuação de Previsão TxGNN | 99,42% |
+| Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -70,7 +70,7 @@ Essa relação é **teórica**: nenhum estudo testou o orlistate como estratégi
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão **cancelados**; não há registro válido. Principais registros (5 de 20):
+Foram encontrados 20 registros **válidos**; o medicamento está comercializado. Principais registros (5 de 20):
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -104,7 +104,7 @@ A previsão se baseia somente no modelo (L5), sem ensaios clínicos nem literatu
 - Estudos pré-clínicos ou observacionais que avaliem o efeito do orlistate na carga corporal de vitaminas lipossolúveis em excesso
 - Dados formais de mecanismo de ação
 - Advertências e contraindicações da bula na ANVISA, que ainda não foram analisadas
-- Avaliação da situação regulatória, dado que todos os registros estão cancelados
+- Avaliação da situação regulatória, dado que o medicamento está comercializado com 20 registros válidos
 - Avaliação do risco de deficiência vitamínica e de outras contraindicações apontadas pelo grafo de conhecimento
 ## Aviso de isenção de responsabilidade
 

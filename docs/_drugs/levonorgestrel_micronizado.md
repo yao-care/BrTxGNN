@@ -8,6 +8,7 @@ nav_order: 415
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Levonorgestrel Micronizado
@@ -47,8 +48,8 @@ Levonorgestrel micronizado é um progestágeno sintético de segunda geração, 
 | Nova Indicação Prevista | Nenhuma previsão disponível nesta rodada |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 8 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 8) |
+| Número de Registros | 8 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Informações de Comercialização no Brasil

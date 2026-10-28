@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pemetrexed
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 514
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-13
-description: "Pemetrexed: nova indicação prevista, Mesotelioma Peritoneal Maligno (Malignant Peritoneal Mesothelioma) (nível de evidência L2). Indicação original: Antineoplásico"
 monitor_inn: "pemetrexed"
-predicted_indications: ["pleural adenomatoid tumor", "pleural biphasic mesothelioma", "pericardium cancer", "well differentiated papillary mesothelioma", "lymphohistiocytoid mesothelioma", "iminoglycinuria"]
+predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
+description: "Pemetrexed: nova indicação prevista, Pleural adenomatoid tumor (nível de evidência L5). Indicação original: ANTINEOPLASICO"
 ---
 
 # Pemetrexed
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-## Pemetrexede: Do tratamento antineoplásico geral ao mesotelioma peritoneal maligno
+## Pemetrexed: Pleural adenomatoid tumor
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ atualmente com **7 ensaios clínicos** e **20 publicações** apoiando esta dire
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antineoplásico |
-| Nova Indicação Prevista | Mesotelioma Peritoneal Maligno (Malignant Peritoneal Mesothelioma) |
-| Pontuação de Previsão TxGNN | 99,99% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Indicação Original | ANTINEOPLASICO |
+| Nova Indicação Prevista | Pleural adenomatoid tumor |
+| Pontuação de Previsão TxGNN | 0.9999 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -91,7 +91,7 @@ Não há ensaio de fase 3 específico para a doença peritoneal. A evidência ve
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontrados estão **cancelados**; o pemetrexede não possui, neste levantamento, registro válido de medicamento isolado ou em combinação.
+Os 3 registros encontrados estão **válidos** (3 licenças válidas de 3); o pemetrexede está comercializado neste país.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -136,7 +136,7 @@ Há ensaios randomizados de fase 2 e séries clínicas com pemetrexede + platina
 - **Mesotelioma pleural** (nível L1, Proceed with Guardrails): é a indicação com a evidência mais forte, sustentada por ensaio de fase 3 (pemetrexede + cisplatina versus cisplatina isolada) e por ensaios posteriores (MAPS, CheckMate 743, pembrolizumabe + quimioterapia). Na prática, já é padrão de cuidado, e não um reposicionamento propriamente dito.
 - **Mesotelioma pleural epitelioide, sarcomatoide e bifásico** (L1 a L2): evidência derivada de subgrupos de ensaios de mesotelioma pleural. O subtipo sarcomatoide é menos quimiossensível, e a imunoterapia costuma ser preferida.
 - **Câncer de pericárdio** (L4, questão de pesquisa): apenas relatos de caso e revisão de casos publicados.
-- **Mesotelioma papilar bem diferenciado, mesotelioma linfo-histiocitoide, tumor adenomatoide pleural e iminoglicinúria** (L4 a L5, Hold): sem suporte clínico credível; os escores altos provavelmente refletem proximidade no grafo de conhecimento.
+- **Tumor adenomatoide pleural e iminoglicinúria** (L4 a L5, Hold): sem suporte clínico credível; os escores altos vêm do modelo TxGNN (deep learning) e podem refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

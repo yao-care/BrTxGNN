@@ -8,6 +8,7 @@ nav_order: 406
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Levobunolol Hydrochloride
@@ -45,8 +46,8 @@ Levobunolol cloridrato é um beta-bloqueador não seletivo de uso oftálmico, cl
 
 | Item | Conteúdo |
 |------|----------|
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Nova Indicação Prevista | Sem previsão TxGNN disponível |
 | Nível de Evidência | N/A |
 | Decisão Recomendada | Hold |

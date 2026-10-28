@@ -4,17 +4,17 @@ title: Paclitaxel
 parent: Apenas Predição do Modelo (L5)
 nav_order: 504
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-13
-description: "Paclitaxel: nova indicação prevista, Carcinoma de mama feminino (female breast carcinoma) (nível de evidência L5). Indicação original: Câncer de ovário (e adenocarcinomas ovarianos relacionados)"
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Paclitaxel: nova indicação prevista, Parameningeal embryonal rhabdomyosarcoma (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Paclitaxel: Do câncer de ovário ao carcinoma de mama feminino
+## Paclitaxel: Parameningeal embryonal rhabdomyosarcoma
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,11 +45,11 @@ O modelo TxGNN prevê que pode ser eficaz para o **carcinoma de mama feminino (f
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Câncer de ovário (e adenocarcinomas ovarianos relacionados); a base também lista hipertensão e glaucoma de ângulo aberto, o que provavelmente é uma inconsistência da fonte |
-| Nova Indicação Prevista | Carcinoma de mama feminino (female breast carcinoma) |
-| Pontuação de Previsão TxGNN | 99,995% |
-| Nível de Evidência | L2 (L1 não atribuído ao carcinoma de mama feminino, pois os ensaios Phase 3 listados não testam diretamente o paclitaxel como variável principal) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Parameningeal embryonal rhabdomyosarcoma |
+| Pontuação de Previsão TxGNN | 0.9973 |
+| Nível de Evidência | L5 (L1 não atribuído ao carcinoma de mama feminino, pois os ensaios Phase 3 listados não testam diretamente o paclitaxel como variável principal) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -123,12 +123,11 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), uma lacuna bloqueante para a triagem de segurança.
-- Esclarecer a situação regulatória no Brasil: os dados compilados indicam 0 registros e produto não comercializado, o que deve ser verificado antes de qualquer decisão local.
 - Obter dados formais de mecanismo de ação (por exemplo, via DrugBank).
 - Corrigir a lista de indicações originais da fonte (ausência do câncer de mama e presença de hipertensão e glaucoma).
 - Estabelecer plano de monitoramento hematológico, neurológico e de hipersensibilidade, e de gestão de interações medicamentosas (especialmente inibidores e indutores de CYP).
 
-**Observação sobre outras indicações previstas:** o câncer de mama RE-positivo (L1 com ressalva, pois os Phase 3 listados avaliam outros agentes), o RE-negativo e o resistente a hormônio (L2) seguem a mesma lógica e podem avançar com salvaguardas. Já o carcinoma bilateral, o carcinoma de mamilo e o modelo murino de tumor de Ehrlich (L4), bem como os rabdomiossarcomas (L5, apenas previsão computacional), recebem decisão **Hold** por falta de evidências clínicas dedicadas.
+**Observação sobre outras indicações previstas:** o câncer de mama RE-positivo (L1 com ressalva, pois os Phase 3 listados avaliam outros agentes), o RE-negativo e o resistente a hormônio (L2) seguem a mesma lógica e podem avançar com salvaguardas.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

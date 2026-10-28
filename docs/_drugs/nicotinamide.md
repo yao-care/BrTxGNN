@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Nicotinamide
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 469
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Nicotinamide: nova indicação prevista, Zinco plasmático elevado (zinc, elevated plasma) (nível de evidência L5). Indicação original: Antianêmicos à base de ferro (associações medicamentosas)"
-monitor_inn: "Nicotinamide"
-predicted_indications: ["zinc, elevated plasma", "isolated congenital adermatoglyphia", "Beare-Stevenson cutis gyrata syndrome", "Werner syndrome", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome", "demodicidosis of sebaceous gland", "dyspepsia", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "inherited cutis laxa", "syndromic oculocutaneous albinism"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Nicotinamide: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
+predicted_indications: []
 ---
 
 # Nicotinamide
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,56 +32,66 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Nicotinamida: De complexo vitamínico B para zinco plasmático elevado
+<!-- known-uses-page -->
+<!-- description: Nicotinamide: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata -->
+## Nicotinamide: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+Todos os candidatos que o modelo TxGNN gerou para Nicotinamide, e que podem ser rastreados até uma fonte, correspondem a usos já conhecidos. Por isso, atualmente não há nova indicação prevista para este medicamento. Esta página lista os usos conhecidos encontrados entre os candidatos do modelo.
 
-Nicotinamida (vitamina B3) foi originalmente usada em polivitamínicos, complexos vitamínicos B, estimulantes do apetite e antianêmicos associados ao ferro.
-O modelo TxGNN prevê que pode ser eficaz para **zinco plasmático elevado (zinc, elevated plasma)**, mas atualmente há **0 ensaios clínicos** e apenas **2 publicações** recuperadas, nenhuma delas abordando diretamente essa relação. A previsão é, portanto, essencialmente teórica.
-
-## Visão Geral Rápida
-
+## Visão geral
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antianêmicos à base de ferro (associações medicamentosas) |
-| Nova Indicação Prevista | Zinco plasmático elevado (zinc, elevated plasma) |
-| Pontuação de Previsão TxGNN | 97,83% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 20 |
-| Decisão Recomendada | Hold |
+| Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis são usos conhecidos) |
+| Usos conhecidos entre os candidatos do modelo | 1 |
+| Nível de evidência | Não se aplica |
+| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 20) |
+| Número de Registros | pelo menos 20 |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos entre os candidatos do modelo
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a nicotinamida é a forma amida da vitamina B3 e precursora do NAD+, coenzima central do metabolismo energético e de reações de oxirredução. No Brasil, foi usada sobretudo em associações vitamínicas (complexo B, polivitamínicos) e estimulantes do apetite.
+### Aprovados (com respaldo em registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| Nenhuma | Nenhuma |
 
-A relação entre essas indicações originais (suplementação nutricional) e o zinco plasmático elevado é fraca. A análise dos dados compilados não identificou vínculo mecanístico crível. As duas publicações recuperadas tratam de hiperinsulinemia/COVID-19 e de enzimas antioxidantes em rim de ratos hipertensos, e nenhuma aborda nicotinamida para excesso de zinco.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhuma | Nenhuma |
 
-A pontuação alta do TxGNN provavelmente é um artefato do grafo de conhecimento, por exemplo, vias compartilhadas de enzimas dependentes de metais ou de oxirredução. Por isso, a previsão deve ser tratada com cautela.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Acne (acne (disease)) |
 
-## Evidências de Ensaios Clínicos
+## Market information
 
-Atualmente não há ensaios clínicos relacionados registrados.
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 144930034 | FERRO QUELATO, CLORIDRATO DE PIRIDOXINA, NICOTINAMIDA |  | Ativo |
+| 138410051 | CLORIDRATO DE TIAMINA, fosfato sódico de riboflavina, CLORID |  | Ativo |
+| 102351340 | NITRATO DE TIAMINA, RIBOFLAVINA, CLORIDRATO DE PIRIDOXINA, N |  | Ativo |
+| 170560017 | MONONITRATO DE TIAMINA, RIBOFLAVINA, NICOTINAMIDA, CLORIDRAT |  | Ativo |
+| 101860033 | CLORIDRATO DE TIAMINA, fosfato sódico de riboflavina, CLORID |  | Ativo |
+| 103870029 | CLORIDRATO DE TIAMINA, CLORIDRATO DE PIRIDOXINA, NICOTINAMID |  | Ativo |
+| 100380038 | CLORIDRATO DE CIPROEPTADINA, CLORIDRATO DE TIAMINA, fosfato  |  | Ativo |
+| 103920229 | CLORIDRATO DE CIPROEPTADINA, CLORIDRATO DE TIAMINA, fosfato  |  | Ativo |
+| 103920089 | CLORIDRATO DE CIPROEPTADINA, CLORIDRATO DE TIAMINA, fosfato  |  | Ativo |
+| 104971153 | NICOTINAMIDA, CLORIDRATO DE PIRIDOXINA, fosfato sódico de ri |  | Ativo |
+| 117170011 | CLORIDRATO DE CIPROEPTADINA, CLORIDRATO DE TIAMINA, VITAMINA |  | Ativo |
+| 115600259 | CLORIDRATO DE CIPROEPTADINA, CLORIDRATO DE TIAMINA, fosfato  |  | Ativo |
+| 102350328 | CLORIDRATO DE CIPROEPTADINA, CLORIDRATO DE TIAMINA, RIBOFLAV |  | Ativo |
+| 102351341 | CLORIDRATO DE TIAMINA, fosfato sódico de riboflavina, CLORID |  | Ativo |
+| 102980018 | PALMITATO DE RETINOL, COLECALCIFEROL, ÁCIDO ASCÓRBICO, CLORI |  | Ativo |
+| 105730367 | ferrocarbonila, NITRATO DE TIAMINA, RIBOFLAVINA, CLORIDRATO  |  | Ativo |
+| 106830093 | PALMITATO DE RETINOL, COLECALCIFEROL, DEXTROALFATOCOFEROL, Á |  | Ativo |
+| 102350242 | CLORIDRATO DE TIAMINA, MONONITRATO DE TIAMINA, TIAMINA, RIBO |  | Ativo |
+| 115600194 | PANAX GINSENG, ACETATO DE RETINOL, NITRATO DE TIAMINA, RIBOF |  | Ativo |
+| 177940035 | PANAX GINSENG C. A. MEY., ACETATO DE RETINOL, NITRATO DE TIA |  | Ativo |
 
-## Evidências da Literatura
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [32938758](https://pubmed.ncbi.nlm.nih.gov/32938758/) | 2020 | Revisão | Open Heart | Discute hiperinsulinemia, magnésio, vitamina D e trombose na COVID-19. Não aborda nicotinamida nem zinco elevado |
-| [15361776](https://pubmed.ncbi.nlm.nih.gov/15361776/) | 2004 | Estudo animal | Journal of Hypertension | Enzimas antioxidantes (SOD, catalase, GPX) no rim de ratos espontaneamente hipertensos com dieta rica em antioxidantes. Sem relação direta com a indicação |
-
-## Informações de Comercialização no Brasil
-
-Todos os 20 registros estão cancelados. Principais registros:
-
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 144930034 | FORTEVIT | Não informada | Antianêmicos à base de ferro - associações medicamentosas |
-| Registro 138410051 | COMPLE B | Não informada | Polivitamínicos sem minerais |
-| Registro 102351340 | COMPLEXO B | Não informada | Complexo vitamínico B (somente) |
-| Registro 170560017 | BENEROC | Não informada | Polivitamínicos sem minerais |
-| Registro 100380038 | PETIVIT BC | Não informada | Estimulantes do apetite |
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
 
 ## Considerações de Segurança
 
@@ -91,22 +100,6 @@ Todos os 20 registros estão cancelados. Principais registros:
 
 Os dados de advertências e contraindicações da bula na ANVISA não estavam disponíveis. Consulte a bula para informações de segurança completas.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-Apesar da pontuação alta do TxGNN (97,83%), não há ensaios clínicos nem literatura que sustentem o uso da nicotinamida para zinco plasmático elevado, e não existe mecanismo plausível identificado. Além disso, não há registros vigentes no Brasil.
-
-**Para prosseguir, é necessário:**
-- Obter os dados de mecanismo de ação (consulta ao DrugBank).
-- Baixar e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
-- Realizar busca dirigida da literatura sobre nicotinamida e metabolismo do zinco.
-- Avaliar a viabilidade regulatória, já que todos os 20 registros estão cancelados.
-
-## Observação sobre Outras Indicações Previstas
-
-Entre as demais previsões, a de maior interesse é a **síndrome de Werner** (pontuação TxGNN de 88,61%, nível de evidência L2, classificada como "questão de pesquisa"). Há um ensaio randomizado, duplo-cego e cruzado de 2025 (PMID [40459998](https://pubmed.ncbi.nlm.nih.gov/40459998/)) que usou **ribosídeo de nicotinamida**, um precursor de NAD+ relacionado, mas distinto da nicotinamida. Estudos pré-clínicos mostram que o aumento de NAD+ restaura a mitofagia em modelos da doença (PMID [31754102](https://pubmed.ncbi.nlm.nih.gov/31754102/) e [40179319](https://pubmed.ncbi.nlm.nih.gov/40179319/)). A evidência para a nicotinamida em si é indireta, e a fase e o tamanho amostral desse ensaio não foram verificados. Essa indicação merece uma avaliação própria e mais aprofundada.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

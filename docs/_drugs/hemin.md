@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Púrpura Trombocitopênica (Thr
 |------|------|
 | Indicação Original | Outros derivados do sangue e substitutos |
 | Nova Indicação Prevista | Púrpura Trombocitopênica (Thrombocytopenic Purpura) |
-| Pontuação de Previsão TxGNN | 99,79% |
+| Pontuação de Previsão TxGNN | 0,9979 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -61,7 +61,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Púrpura Trombocitopênica (Thr
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a hemina é um agente de reposição de heme que induz a heme oxigenase-1 e é usado em crises de porfiria aguda.
 
-A relação entre a indicação original (derivado do sangue) e a púrpura trombocitopênica (destruição imunomediada de plaquetas) é apenas especulativa. Os dados não sustentam um elo mecanístico claro. A pontuação alta (99,79%) reflete uma associação calculada pelo grafo de conhecimento, não uma evidência de eficácia.
+A relação entre a indicação original (derivado do sangue) e a púrpura trombocitopênica (destruição imunomediada de plaquetas) é apenas especulativa. Os dados não sustentam um elo mecanístico claro. A pontuação alta (0,9979) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica nem de eficácia.
 
 Outras previsões do modelo, como hemofilia, deficiência de inibidor de C1, doença de von Willebrand e trombofilia hereditária, também carecem de evidência direta. Há ainda uma preocupação de segurança: efeitos anticoagulantes transitórios e tromboflebite no local de infusão foram relatados para a hemina, o que torna incerto o uso em distúrbios da coagulação.
 

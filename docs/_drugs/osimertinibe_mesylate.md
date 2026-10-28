@@ -8,6 +8,7 @@ nav_order: 494
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Osimertinibe Mesylate
@@ -51,8 +52,8 @@ A busca regulatória retornou **0 registros** e os dados de segurança apresenta
 | Nova Indicação Prevista | Não disponível — TxGNN não gerou previsão neste ciclo |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | ✗ Não identificado na busca regulatória (0 registros) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 > ¹ Indicação obtida a partir do conhecimento farmacológico consolidado do osimertinibe (Tagrisso®); o Evidence Pack não contém dados regulatórios locais.

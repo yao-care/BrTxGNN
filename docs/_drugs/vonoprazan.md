@@ -4,17 +4,17 @@ title: Vonoprazan
 parent: Apenas Predição do Modelo (L5)
 nav_order: 674
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
-description: "Vonoprazan: nova indicação prevista, Doença ulcerosa péptica ativa (active peptic ulcer disease) (nível de evidência L5). Indicação original: Medicamentos para úlcera péptica e doenças de refluxo gas…"
 monitor_inn: "vonoprazan"
 predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "pylorospasm", "Dieulafoy lesion", "cascade stomach", "gastric dilatation", "hemorrhagic duodenitis"]
+description: "Vonoprazan: nova indicação prevista, Peptic ulcer perforation (nível de evidência L5). Indicação original: MEDICAMENTOS PARA ÚLCERA PÉPTICA E DOENÇAS DE REFLUXO GASTRESOFÁGICO"
 ---
 
 # Vonoprazan
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Vonoprazana: Da úlcera péptica e doença do refluxo gastroesofágico à doença ulcerosa péptica ativa
+## Vonoprazan: Peptic ulcer perforation
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 Vonoprazana é um bloqueador de ácido competitivo com o potássio (P-CAB), originalmente usado no tratamento de úlcera péptica e doença do refluxo gastroesofágico.
-O modelo TxGNN prevê que pode ser eficaz para **doença ulcerosa péptica ativa (active peptic ulcer disease)**, mas, para esse termo exato, **não há ensaios clínicos nem publicações** nos dados compilados para este relatório. O apoio vem apenas da previsão do modelo e do conhecimento de base.
+O modelo TxGNN prevê que pode ser eficaz para **perfuração de úlcera péptica (peptic ulcer perforation)**, mas, para esse termo exato, **não há ensaios clínicos nem publicações** nos dados compilados para este relatório. O apoio vem apenas da previsão do modelo e do conhecimento de base.
 
 ---
 
@@ -47,12 +47,12 @@ O modelo TxGNN prevê que pode ser eficaz para **doença ulcerosa péptica ativa
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Medicamentos para úlcera péptica e doenças de refluxo gastroesofágico |
-| Nova Indicação Prevista | Doença ulcerosa péptica ativa (active peptic ulcer disease) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Indicação Original | MEDICAMENTOS PARA ÚLCERA PÉPTICA E DOENÇAS DE REFLUXO GASTRESOFÁGICO |
+| Nova Indicação Prevista | Peptic ulcer perforation |
+| Pontuação de Previsão TxGNN | 0.9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -112,7 +112,7 @@ Para as demais informações de segurança (advertências e contraindicações),
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do modelo é alta (99,97%), mas não há ensaios nem publicações diretas para "doença ulcerosa péptica ativa" (L5). Além disso, a indicação prevista praticamente coincide com a indicação original, e o único registro no Brasil está cancelado.
+- A pontuação do modelo é alta (0,9997), mas não há ensaios nem publicações diretas para "perfuração de úlcera péptica" (L5). Além disso, o medicamento é comercializado no Brasil, com 1 registro válido de 1.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança.

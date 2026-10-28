@@ -4,17 +4,17 @@ title: Lisinopril
 parent: Apenas Predição do Modelo (L5)
 nav_order: 421
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Lisinopril: nova indicação prevista, Infarto do miocárdio posterolateral (posterolateral myocardial infarc… (nível de evidência L5). Indicação original: Hipertensão arterial"
+indication_count: 6
 monitor_inn: "LISINOPRIL"
-predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
+last_modified_at: 2026-10-27
+description: "Lisinopril: nova indicação prevista, Hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hypertension with unclear multifactorial mechanism) (nível de evidência L5). Indicação original…"
 ---
 
 # Lisinopril
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +33,72 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Lisinopril: De hipertensão e infarto do miocárdio para infarto do miocárdio posterolateral
+## Lisinopril: inibidor da enzima conversora de angiotensina (ECA) → hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hypertension with unclear multifactorial mechanism)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Lisinopril é um inibidor da enzima conversora de angiotensina (ECA), originalmente usado no tratamento de hipertensão e infarto do miocárdio.
-O modelo TxGNN prevê que pode ser eficaz para **infarto do miocárdio posterolateral (posterolateral myocardial infarction)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando especificamente esta indicação. A previsão reflete sobretudo a proximidade com a indicação já existente.
+Lisinopril é um inibidor da enzima conversora de angiotensina (ECA), usado como anti-hipertensivo e cardiovascular.
+O modelo TxGNN prevê que pode ser eficaz para **hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hypertension with unclear multifactorial mechanism)**,
+atualmente com **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se de uma previsão exclusivamente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial; infarto do miocárdio (conforme as indicações originais compiladas; não há texto de indicação aprovada no Brasil) |
-| Nova Indicação Prevista | Infarto do miocárdio posterolateral (posterolateral myocardial infarction) |
-| Pontuação de Previsão TxGNN | 99,90% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hypertension with unclear multifactorial mechanism) |
+| Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 2) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, lisinopril faz parte da classe dos inibidores da ECA, sua eficácia em hipertensão e no pós-infarto do miocárdio está estabelecida, e mecanisticamente pode ser aplicável a subtipos do infarto.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pela classe farmacológica, o lisinopril inibe a ECA, reduzindo a formação de angiotensina II, com menor vasoconstrição e menor remodelamento vascular.
 
-O infarto posterolateral é um subtipo anatômico do infarto do miocárdio, indicação que lisinopril já possui. A inibição da ECA limita o remodelamento ventricular adverso após o infarto. Assim, a pontuação elevada do modelo reflete principalmente a proximidade na ontologia de doenças, e não um sinal novo de reposicionamento.
+Esse mecanismo é plausível para doenças da circulação pulmonar, nas quais o sistema renina-angiotensina pode participar do tônus e do remodelamento dos vasos. Entretanto, a hipertensão pulmonar desta previsão tem etiologia heterogênea e mal definida, o que torna o vínculo mecanístico pouco específico.
 
-Não foram fornecidos ensaios ou publicações específicos para este subtipo, de modo que a previsão não traz evidência adicional além da indicação já aprovada.
+A pontuação alta (0,9989) é apenas uma previsão computacional. Não há ensaios nem publicações para esta indicação, de modo que a razoabilidade permanece hipotética.
+
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados.
+
+## Evidências da Literatura
+
+Atualmente não há literatura relacionada.
+
+## Informações de Comercialização no Brasil
+
+Os dados compilados indicam situação **Comercializado**, com pelo menos 20 registros (a lista pode estar incompleta): 2 válidos e 18 cancelados. Os registros válidos correspondem ao lisinopril isolado (Laboratório Teuto Brasileiro, registro nº 103700391; Sanofi Medley, registro nº 183260198).
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 103700391 | LISINOPRIL | Não informada | Não registrada nos dados locais |
+| Registro nº 183260198 | LISINOPRIL | Não informada | Não registrada nos dados locais |
 
 ## Considerações de Segurança
 
-- **Contraindicações (derivadas do grafo de conhecimento, não do texto da bula)**: angioedema (incluindo hereditário, adquirido e induzido por bloqueadores do sistema renina-angiotensina-aldosterona), doença renal, doença hepática, encefalopatia hepática, pancreatite, doença da vesícula biliar, estenose aórtica e outras doenças da valva aórtica, distúrbios hipotensivos, lúpus eritematoso sistêmico e doenças do tecido conjuntivo, diabetes mellitus e cetoacidose diabética, deficiência de potássio, hiperparatireoidismo e doenças ósseas, neutropenia e agranulocitose.
-- **Interações Medicamentosas**: foram identificadas 100 interações no total. Entre as listadas, as de gravidade **maior** são com **citrato de potássio** e **bicarbonato de potássio** (risco de hipercalemia). As demais listadas são de gravidade moderada, incluindo corticosteroides (hidrocortisona, dexametasona, betametasona, budesonida, triancinolona), antidiabéticos (metformina, inibidores de SGLT2 como dapagliflozina, empagliflozina e canagliflozina, inibidores de DPP-4 como alogliptina e saxagliptina, clorpropamida), ácido acetilsalicílico, morfina, bupropiona, dronabinol e preparos de limpeza intestinal.
-- **Observação clínica relevante**: há relato de caso de hipotensão e bradicardia com o uso concomitante de tizanidina e lisinopril.
+- **Interações Medicamentosas** (100 interações registradas; exemplos): 
+  - Gravidade maior: citrato de potássio e bicarbonato de potássio (risco de hipercalemia).
+  - Gravidade moderada: corticosteroides (hidrocortisona, dexametasona, betametasona, budesonida, triancinolona), antidiabéticos (metformina, alogliptina, saxagliptina, canagliflozina, dapagliflozina, empagliflozina, clorpropamida), ácido acetilsalicílico, morfina, bupropiona, dronabinol, ácido picossulfúrico e polietilenoglicol com eletrólitos.
+
+Para advertências e contraindicações formais, consulte a bula, pois não constam dos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se limita a um subtipo anatômico de uma indicação já existente, sem ensaios clínicos nem literatura específica (nível L5). Além disso, o fármaco não tem registro no Brasil.
+- A previsão é puramente computacional, sem ensaios clínicos nem publicações que estudem diretamente esta doença (nível L5), e o mecanismo é pouco específico para uma hipertensão pulmonar de etiologia mal definida.
 
 **Para prosseguir, é necessário:**
-- Dados de mecanismo de ação detalhados (MOA).
-- Bula e informações regulatórias da ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem elas.
-- Verificar se o subtipo posterolateral já está coberto pela indicação existente de infarto do miocárdio, o que tornaria o reposicionamento desnecessário.
-- Confirmar a viabilidade de registro ou comercialização no Brasil, já que não há registros atualmente.
-
-**Observação sobre outras previsões:** entre as demais previsões do modelo, a mais bem apoiada é a de **cor pulmonale crônico (chronic pulmonary heart disease)**, com nível L3 e duas publicações clínicas específicas de lisinopril (PMID 14524095 e 17047621). Estas são pequenas, provavelmente não randomizadas, e avaliadas apenas a partir dos títulos e resumos. Essa indicação merece avaliação como pergunta de pesquisa.
+- Dados do mecanismo de ação do lisinopril.
+- Revisão sistemática da literatura clínica sobre inibidores da ECA em hipertensão pulmonar, com definição clara do subtipo da doença.
+- Texto da bula brasileira (advertências e contraindicações) para a triagem de segurança.
+- Estudos pré-clínicos ou piloto que avaliem diretamente o lisinopril nesta condição.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

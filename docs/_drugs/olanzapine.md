@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Olanzapine
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 484
-evidence_level: L3
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-13
-description: "Olanzapine: nova indicação prevista, Agorafobia (Agoraphobia) (nível de evidência L3). Indicação original: Antipsicóticos"
 monitor_inn: "OLANZAPINE"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+description: "Olanzapine: nova indicação prevista, Benign paroxysmal torticollis of infancy (nível de evidência L5). Indicação original: ANTIPSICOTICOS"
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **3** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **3**
 
 </div>
 
-## Olanzapina: De antipsicótico à agorafobia
+## Olanzapine: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -41,17 +41,17 @@ Nível de evidência: **L3** | Indicações previstas: **3**
 Olanzapina é um antipsicótico, originalmente registrado na ANVISA na classe dos "antipsicóticos".
 O modelo TxGNN prevê que pode ser eficaz para **Agorafobia (Agoraphobia)**, a indicação prevista com maior respaldo na literatura entre as três candidatas avaliadas. Atualmente há **0 ensaios clínicos registrados** e **6 publicações** (apenas estudos pequenos, não controlados, relatos de caso e revisões) relacionadas a esta direção.
 
-> Observação: a previsão de maior pontuação do modelo é "torcicolo paroxístico benigno da infância" (99,54%), mas sem nenhuma evidência. Por isso, este relatório destaca a agorafobia (99,47%), que tem alguma sustentação na literatura. As três candidatas são comparadas abaixo.
+> Observação: a previsão de maior pontuação do modelo é "torcicolo paroxístico benigno da infância" (0,9954), mas sem nenhuma evidência. Por isso, este relatório destaca a agorafobia (0,9947), que tem alguma sustentação na literatura. As três candidatas são comparadas abaixo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antipsicóticos |
-| Nova Indicação Prevista | Agorafobia (Agoraphobia) |
-| Pontuação de Previsão TxGNN | 99,47% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Indicação Original | ANTIPSICOTICOS |
+| Nova Indicação Prevista | Benign paroxysmal torticollis of infancy |
+| Pontuação de Previsão TxGNN | 0.9954 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold (questão de pesquisa) |
 
@@ -59,9 +59,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Agorafobia (Agoraphobia)**, a i
 
 | Posição | Indicação prevista | Pontuação TxGNN | Nível de Evidência | Recomendação |
 |------|------|------|------|------|
-| 1 | Torcicolo paroxístico benigno da infância | 99,54% | L5 | Hold |
-| 2 | Agorafobia | 99,47% | L3 | Questão de pesquisa |
-| 3 | Transtorno distímico | 99,28% | L3 | Questão de pesquisa |
+| 1 | Torcicolo paroxístico benigno da infância | 0,9954 | L5 | Hold |
+| 2 | Agorafobia | 0,9947 | L5 | Questão de pesquisa |
 
 ## Por que Esta Previsão é Razoável?
 
@@ -88,7 +87,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão cancelados; não há registro vigente. Os cinco principais:
+Foram encontrados 20 registros válidos; o medicamento está comercializado. Os cinco principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -120,7 +119,7 @@ Todos os 20 registros encontrados estão cancelados; não há registro vigente. 
 - Obter a bula e as advertências/contraindicações oficiais da ANVISA (lacuna bloqueante para a triagem de segurança).
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Realizar ensaio controlado e randomizado em agorafobia/transtorno de pânico resistente, com avaliação de segurança metabólica.
-- Esclarecer a situação regulatória: investigar por que todos os registros foram cancelados e se há apresentações vigentes sob outro registro.
+- Esclarecer a situação regulatória: confirmar a situação dos 20 registros vigentes e das apresentações comercializadas.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

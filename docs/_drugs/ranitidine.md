@@ -4,17 +4,17 @@ title: Ranitidine
 parent: Evidência Moderada (L3-L4)
 nav_order: 559
 evidence_level: L3
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-13
-description: "Ranitidine: nova indicação prevista, Doença ulcerosa péptica ativa (active peptic ulcer disease) (nível de evidência L3). Indicação original: Antiulceroso (ANTIULCEROSOS)"
 monitor_inn: "Ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
+description: "Ranitidine: nova indicação prevista, Peptic ulcer perforation (nível de evidência L3). Indicação original: ANTIULCEROSOS"
 ---
 
 # Ranitidine
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L3** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Ranitidina: De antiulceroso a doença ulcerosa péptica ativa
+## Ranitidine: Peptic ulcer perforation
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 A ranitidina é um antagonista dos receptores H2 da histamina, originalmente usado como antiulceroso (redução da secreção de ácido gástrico).
-O modelo TxGNN prevê que pode ser eficaz para **doença ulcerosa péptica ativa (active peptic ulcer disease)**, mas essa previsão praticamente coincide com a indicação original, portanto não se trata de reposicionamento genuíno.
+O modelo TxGNN (deep learning) prevê que pode ser eficaz para **perfuração de úlcera péptica (peptic ulcer perforation)**.
 Atualmente há **0 ensaios clínicos** vinculados a esta indicação e **20 publicações** (em sua maioria revisões antigas) associadas a ela.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antiulceroso (ANTIULCEROSOS) |
-| Nova Indicação Prevista | Doença ulcerosa péptica ativa (active peptic ulcer disease) |
-| Pontuação de Previsão TxGNN | 99,89% |
+| Indicação Original | ANTIULCEROSOS |
+| Nova Indicação Prevista | Peptic ulcer perforation |
+| Pontuação de Previsão TxGNN | 0.9988 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -58,9 +58,8 @@ Atualmente há **0 ensaios clínicos** vinculados a esta indicação e **20 publ
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a ranitidina é um antagonista competitivo dos receptores H2 da histamina nas células parietais gástricas, o que reduz a secreção de ácido basal e estimulada. A redução da acidez é a base estabelecida para a cicatrização de úlceras.
 
-A "nova" indicação prevista (doença ulcerosa péptica ativa) é, na prática, a própria indicação original do fármaco. Por isso, a pontuação alta do modelo reflete a coerência com o uso já estabelecido, e não uma descoberta nova.
 
-Vale notar que a ranitidina está com todos os registros cancelados no Brasil, em razão de preocupações com impurezas de NDMA. Além disso, os inibidores da bomba de prótons (IBPs) substituíram em grande parte os bloqueadores H2, de modo que o valor de reposicionamento é limitado.
+Vale notar que a ranitidina está comercializada no Brasil, com 20 registros válidos. Além disso, os inibidores da bomba de prótons (IBPs) substituíram em grande parte os bloqueadores H2, de modo que o valor de reposicionamento é limitado.
 
 ## Evidências de Ensaios Clínicos
 
@@ -85,7 +84,7 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados. Principais registros:
+Há 20 registros válidos. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|

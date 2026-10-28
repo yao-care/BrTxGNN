@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (acne (disease))**, mas as
 |------|------|
 | Indicação Original | Ceratolíticos e ceratoplásticos |
 | Nova Indicação Prevista | Acne (acne (disease)) |
-| Pontuação de Previsão TxGNN | 99,94% |
+| Pontuação de Previsão TxGNN | 0,9994 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 2 (ambos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

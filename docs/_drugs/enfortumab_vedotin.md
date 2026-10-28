@@ -47,19 +47,19 @@ O modelo TxGNN prevê que pode ser eficaz para **hanseníase (leprosy)**, mas at
 |------|------|
 | Indicação Original | Agentes antineoplásicos |
 | Nova Indicação Prevista | Hanseníase (leprosy) |
-| Pontuação de Previsão TxGNN | 99,53% |
+| Pontuação de Previsão TxGNN | 0,9953 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, enfortumabe vedotina é um conjugado anticorpo-fármaco dirigido contra a Nectina-4, que entrega a monometil auristatina E (MMAE), um agente que rompe os microtúbulos. Sua eficácia como antineoplásico em carcinoma urotelial é conhecida.
 
-Não há relação mecanística identificada entre esse tipo de ação e a infecção por *Mycobacterium leprae*. Nada nos dados conecta o direcionamento à Nectina-4 ou a entrega de carga citotóxica à hanseníase. A pontuação alta (99,53%) reflete apenas uma associação computacional no grafo de conhecimento, sem respaldo em ensaios ou literatura. A similaridade com a indicação original ainda não foi avaliada.
+Não há relação mecanística identificada entre esse tipo de ação e a infecção por *Mycobacterium leprae*. Nada nos dados conecta o direcionamento à Nectina-4 ou a entrega de carga citotóxica à hanseníase. A pontuação alta (0,9953) vem do modelo TxGNN (aprendizado profundo) e pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem respaldo em ensaios ou literatura. A similaridade com a indicação original ainda não foi avaliada.
 
-Outras indicações previstas pelo modelo (também todas de nível L5 e com recomendação Hold) incluem neoplasia endócrina múltipla, infecção por citomegalovírus, candidíase, infarto cerebral, infecção por HIV, hipercolesterolemia familiar homozigótica, febre catarral maligna e rinotraqueíte infecciosa bovina. As duas últimas são doenças veterinárias, provavelmente artefatos do grafo de conhecimento. As publicações associadas a citomegalovírus (relato de caso de esofagite ulcerativa grave após enfortumabe vedotina + pembrolizumabe) e a candidíase (análise de farmacovigilância FAERS sobre conjugados anticorpo-fármaco em câncer de bexiga) apontam para sinais de segurança, não para benefício terapêutico.
+Outras indicações previstas pelo modelo (também todas de nível L5 e com recomendação Hold) incluem neoplasia endócrina múltipla, infecção por citomegalovírus, candidíase, infarto cerebral, infecção por HIV, hipercolesterolemia familiar homozigótica, febre catarral maligna e rinotraqueíte infecciosa bovina. As duas últimas são doenças veterinárias, provavelmente artefatos do modelo TxGNN (aprendizado profundo), que pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica. As publicações associadas a citomegalovírus (relato de caso de esofagite ulcerativa grave após enfortumabe vedotina + pembrolizumabe) e a candidíase (análise de farmacovigilância FAERS sobre conjugados anticorpo-fármaco em câncer de bexiga) apontam para sinais de segurança, não para benefício terapêutico.
 
 ## Informações de Comercialização no Brasil
 

@@ -8,6 +8,7 @@ nav_order: 101
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Azithromycin Dihydrate
@@ -49,7 +50,7 @@ Sem candidatos de reposicionamento disponíveis, esta avaliação não pode ser 
 | Nova Indicação Prevista | Não disponível nesta consulta |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão do modelo) |
-| Situação no Mercado Brasileiro | Não encontrado com este nome exato (0 registros) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

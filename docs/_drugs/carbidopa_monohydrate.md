@@ -8,6 +8,7 @@ nav_order: 192
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Carbidopa Monohydrate
@@ -51,8 +52,8 @@ e **não há ensaios clínicos nem publicações** vinculados a candidatos de re
 | Nova Indicação Prevista | Não disponível |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 — apenas previsão do modelo, sem estudos reais |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
+| Número de Registros | 6 (ativos: 6) |
 | Decisão Recomendada | **Hold** |
 
 ---

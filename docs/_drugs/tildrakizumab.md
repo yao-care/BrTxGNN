@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **retinopatia diabética não pro
 |------|------|
 | Indicação Original | Imunomodulador |
 | Nova Indicação Prevista | Retinopatia diabética não proliferativa grave (severe nonproliferative diabetic retinopathy) |
-| Pontuação de Previsão TxGNN | 99,63% |
+| Pontuação de Previsão TxGNN | 0,9963 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -65,9 +65,9 @@ Outras indicações previstas, todas também em nível L5 e com recomendação H
 
 | Posição | Indicação prevista | Pontuação TxGNN | Observação |
 |------|------|------|------|
-| 2 | Retinopatia diabética | 99,53% | Mesma lógica inflamatória; a pontuação provavelmente está correlacionada com o subtipo vizinho e não é evidência independente |
-| 3 | Catarata diabética | 99,21% | Sem via mecanística clara; a doença é movida pela via dos polióis e estresse oxidativo, e a cirurgia é eficaz |
-| 4 | Osteoporose induzida por fármacos | 99,20% | A IL-17 promove osteoclastogênese via RANKL; é a mais plausível biologicamente, mas ainda hipotética |
+| 2 | Retinopatia diabética | 0,9953 | Mesma lógica inflamatória; a pontuação provavelmente está correlacionada com o subtipo vizinho e não é evidência independente |
+| 3 | Catarata diabética | 0,9921 | Sem via mecanística clara; a doença é movida pela via dos polióis e estresse oxidativo, e a cirurgia é eficaz |
+| 4 | Osteoporose induzida por fármacos | 0,9920 | A IL-17 promove osteoclastogênese via RANKL; é a mais plausível biologicamente, mas ainda hipotética |
 
 ## Informações de Comercialização no Brasil
 

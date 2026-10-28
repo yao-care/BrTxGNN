@@ -6,9 +6,9 @@ nav_order: 475
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-13
-description: "Nitrogen: nova indicação prevista, Síndrome de microdeleção 16q24.1 (16q24.1 microdeletion syndrome) (nível de evidência L5). Indicação original: Displasia capilar alveolar congênita"
 monitor_inn: "nitrogen"
 predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]
+description: "Nitrogen: nova indicação prevista, 16q24.1 microdeletion syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Nitrogen
@@ -33,24 +33,24 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-## Nitrogênio: Da displasia capilar alveolar congênita à síndrome de microdeleção 16q24.1
+## Nitrogen: 16q24.1 microdeletion syndrome
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Nitrogênio (Ar Sintético Medicinal) é um gás cujas indicações originais, segundo o grafo de conhecimento utilizado pelo modelo, são a displasia capilar alveolar congênita e a síndrome de circulação fetal persistente.
+Nitrogênio (Ar Sintético Medicinal) é um gás cujas indicações originais são a displasia capilar alveolar congênita e a síndrome de circulação fetal persistente.
 O modelo TxGNN prevê que pode ser eficaz para a **síndrome de microdeleção 16q24.1 (16q24.1 microdeletion syndrome)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se de uma previsão exclusivamente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Displasia capilar alveolar congênita; síndrome de circulação fetal persistente (conforme o grafo de conhecimento do TxGNN; não há texto de indicação em registro da ANVISA) |
-| Nova Indicação Prevista | Síndrome de microdeleção 16q24.1 (16q24.1 microdeletion syndrome) |
-| Pontuação de Previsão TxGNN | 99,73% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | 16q24.1 microdeletion syndrome |
+| Pontuação de Previsão TxGNN | 0.9973 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Não comercializado (sem registro) |
+| Número de Registros | 0 (ativos: 0) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,14 +59,14 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. O nitrogênio
 
 A síndrome de microdeleção 16q24.1 envolve a deleção da região do gene FOXF1, que está intimamente relacionada à displasia capilar alveolar com desalinhamento das veias pulmonares (ACD/MPV), uma das indicações originais listadas. Isso sugere uma sobreposição fenotípica plausível na hipertensão pulmonar neonatal.
 
-Contudo, a associação provavelmente é um artefato do grafo de conhecimento, decorrente da indicação-mãe compartilhada, e não de um efeito farmacológico. Não foram fornecidos dados de mecanismo ou clínicos que sustentem a previsão.
+Contudo, a pontuação vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Não foram fornecidos dados de mecanismo ou clínicos que sustentem a previsão.
 
-Outras indicações previstas, também apenas computacionais (pontuações em torno de 99,7%):
+Outras indicações previstas, também apenas computacionais (pontuações de 0,9968 a 0,9972):
 - Doença pulmonar intersticial primária específica da infância
 - Capilarite pulmonar isolada
 - Linfangiectasia pulmonar congênita
 
-Em todas, a proximidade entre classes de doenças no grafo é a explicação mais provável, e não um efeito do fármaco.
+Em todas, a pontuação vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica de efeito do fármaco.
 
 ## Considerações de Segurança
 

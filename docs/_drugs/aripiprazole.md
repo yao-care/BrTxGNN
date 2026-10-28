@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aripiprazole
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 76
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Aripiprazole: nova indicação prevista, Transtorno afetivo maior (major affective disorder) (nível de evidência L1). Indicação original: Antipsicóticos"
 monitor_inn: "ARIPIPRAZOLE"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ atualmente com **37 ensaios clínicos** e **19 publicações** apoiando esta dir
 |------|------|
 | Indicação Original | Antipsicóticos |
 | Nova Indicação Prevista | Transtorno afetivo maior (major affective disorder) |
-| Pontuação de Previsão TxGNN | 99,62% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Pontuação de Previsão TxGNN | 0,9962 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A relação entre a indicação original e a nova é próxima: os antipsicóticos atípicos modulam as vias dopaminérgica e serotoninérgica, que também participam da regulação do humor. Em doses mais baixas que as usadas na psicose, esses fármacos funcionam como potencializadores de antidepressivos em pacientes com resposta inadequada.
 
-Vale ressaltar que esta é, em grande parte, uma indicação já estabelecida (uso adjuvante no transtorno depressivo maior), e não um reposicionamento inédito. A situação de bula deve ser verificada frente aos registros regionais. No Brasil, todos os registros encontrados estão cancelados, o que limita a disponibilidade de alguns produtos.
+Vale ressaltar que esta é, em grande parte, uma indicação já estabelecida (uso adjuvante no transtorno depressivo maior), e não um reposicionamento inédito. A situação de bula deve ser verificada frente aos registros regionais. No Brasil, o medicamento é comercializado, com 20 registros válidos.
 
 ## Evidências de Ensaios Clínicos
 
@@ -96,7 +96,7 @@ Foram selecionados os ensaios mais relevantes, priorizando Fase 3 concluídos e 
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados. Os cinco principais:
+Há 20 registros válidos. Os cinco principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -118,7 +118,7 @@ Todos os 20 registros estão cancelados. Os cinco principais:
 
 **Justificativa:**
 - Há vários ensaios de Fase 3 concluídos, randomizados, duplo-cegos e controlados por placebo (por exemplo, NCT00095823, NCT00095758 e NCT00683852), além de meta-análises em rede, sustentando a eficácia adjuvante no transtorno depressivo maior (nível L1). Como a indicação já é estabelecida, o foco é regulatório e de segurança, não de descoberta.
-- Todos os registros brasileiros estão cancelados, e os dados de bula não estão disponíveis.
+- No Brasil, o medicamento é comercializado, com 20 registros válidos, e os dados de bula não estão disponíveis.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança).
@@ -128,7 +128,7 @@ Todos os 20 registros estão cancelados. Os cinco principais:
 
 ## Outras Indicações Previstas (Resumo)
 
-As demais previsões têm evidência fraca. O **tricotilomania** (pontuação 99,26%, nível L3, recomendação: questão de pesquisa) conta com um ensaio aberto concluído (NCT00947154, n=12), um ensaio de Fase 2 controlado por placebo ainda sem recrutamento (NCT05545891) e vários relatos de caso. Há também relatos de tricotilomania induzida pelo próprio aripiprazol, de modo que a relação risco-benefício é incerta. As demais (síndrome de Asperger, síndrome de Phelan-McDermid, entre outras doenças raras) são apenas previsões computacionais, sem ensaios ou literatura, e permanecem em **Hold**.
+As demais previsões têm evidência fraca. O **tricotilomania** (pontuação 0,9926, nível L3, recomendação: questão de pesquisa) conta com um ensaio aberto concluído (NCT00947154, n=12), um ensaio de Fase 2 controlado por placebo ainda sem recrutamento (NCT05545891) e vários relatos de caso. Há também relatos de tricotilomania induzida pelo próprio aripiprazol, de modo que a relação risco-benefício é incerta. As demais (síndrome de Asperger, síndrome de Phelan-McDermid, entre outras doenças raras) são apenas previsões computacionais, sem ensaios ou literatura, e permanecem em **Hold**.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

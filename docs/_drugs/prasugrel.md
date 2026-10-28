@@ -4,17 +4,17 @@ title: Prasugrel
 parent: Apenas Predição do Modelo (L5)
 nav_order: 543
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
-description: "Prasugrel: nova indicação prevista, Hipertensão Pulmonar (Pulmonary Hypertension) (nível de evidência L5). Indicação original: Síndrome coronariana aguda (segundo o grafo de conhecimento do TxGNN"
 monitor_inn: "Prasugrel"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "migraine with or without aura, susceptibility to", "brachydactyly-syndactyly syndrome", "leprosy"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
+description: "Prasugrel: nova indicação prevista, Hipertensão Pulmonar (pulmonary hypertension) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Prasugrel
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Prasugrel: Da síndrome coronariana aguda à hipertensão pulmonar
+## Prasugrel: Hipertensão Pulmonar (pulmonary hypertension)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,12 +45,12 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertensão Pulmonar (Pulmonar
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Síndrome coronariana aguda (segundo o grafo de conhecimento do TxGNN; não há texto de indicação aprovado no Brasil) |
-| Nova Indicação Prevista | Hipertensão Pulmonar (Pulmonary Hypertension) |
-| Pontuação de Previsão TxGNN | 99,88% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Hipertensão Pulmonar (pulmonary hypertension) |
+| Pontuação de Previsão TxGNN | 0.9988 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -63,7 +63,7 @@ A pontuação elevada do TxGNN é apenas uma previsão computacional. Os dois ar
 
 ### Outras indicações previstas de interesse
 
-- **Enxaqueca (rank 2, pontuação 99,88%, nível L3):** é a previsão com mais respaldo. A hipótese é que microêmbolos paradoxais ou mediadores derivados de plaquetas, em pessoas com forame oval patente (FOP), desencadeiem crises, e que inibidores de P2Y12 reduzam esses gatilhos. Há uma revisão retrospectiva de tienopiridinas em pacientes com enxaqueca e FOP e um piloto aberto com ticagrelor (mesma classe, não prasugrel). Os ensaios listados avaliam fechamento de FOP, não o prasugrel.
+- **Enxaqueca (rank 2, pontuação 0,9988, nível L3):** é a previsão com mais respaldo. A hipótese é que microêmbolos paradoxais ou mediadores derivados de plaquetas, em pessoas com forame oval patente (FOP), desencadeiem crises, e que inibidores de P2Y12 reduzam esses gatilhos. Há uma revisão retrospectiva de tienopiridinas em pacientes com enxaqueca e FOP e um piloto aberto com ticagrelor (mesma classe, não prasugrel). Os ensaios listados avaliam fechamento de FOP, não o prasugrel.
 - **Enxaqueca com aura do tronco encefálico** (99,83%, L4) e **suscetibilidade à enxaqueca com ou sem aura** (99,67%, L4): apoio apenas indireto, por extrapolação dos estudos de enxaqueca com FOP. Para o segundo, há ainda um estudo pré-clínico de 2026 em camundongos (epilepsia induzida por pentilenotetrazol), que não modela enxaqueca.
 - **Cardiopatia cifoescoliótica, artrite reumatoide, hipercolesterolemia familiar homozigótica, hipoalfalipoproteinemia, síndrome braquidactilia-sindactilia e hanseníase:** sem ensaios ou literatura, e sem mecanismo plausível ou com mecanismo muito frágil. São previsões puramente computacionais (L5).
 

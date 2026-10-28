@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Brimonidine
-parent: Evidência Moderada (L3-L4)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 151
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Brimonidine: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L4). Indicação original: Antiglaucomatoso"
-monitor_inn: "Brimonidine"
-predicted_indications: ["papillary conjunctivitis", "lichen disease", "congenital hypotrichosis milia", "rosacea conjunctivitis", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "lichen planus pigmentosus", "hypertrophic lichen planus", "annular atrophic lichen planus"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Brimonidine: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
+predicted_indications: []
 ---
 
 # Brimonidine
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +32,69 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Brimonidina: Do glaucoma à conjuntivite papilar (sinal provável de reação adversa)
+<!-- known-uses-page -->
+<!-- description: Brimonidine: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata -->
+## Brimonidine: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+O modelo TxGNN não gerou nenhum candidato com pontuação igual ou superior a 0,99 para Brimonidine, portanto não há, no momento, nova indicação prevista. Os usos registrados para o medicamento estão listados abaixo.
 
-Brimonidina é um agonista alfa-2 adrenérgico, originalmente usado como antiglaucomatoso para reduzir a pressão intraocular.
-O modelo TxGNN prevê possível eficácia para **conjuntivite papilar (papillary conjunctivitis)**, mas a análise da literatura indica que a associação provavelmente reflete um **efeito adverso** do fármaco, e não um benefício terapêutico. Atualmente há **0 ensaios clínicos** e **3 publicações** (relatos e séries de casos e um estudo de coorte), todas descrevendo reações adversas.
-
-## Visão Geral Rápida
-
+## Visão geral rápida
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antiglaucomatoso |
-| Nova Indicação Prevista | Conjuntivite papilar (papillary conjunctivitis) |
-| Pontuação de Previsão TxGNN | 98,49% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 20 (todos cancelados) |
-| Decisão Recomendada | Hold |
+| Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação de 0,99 ou mais) |
+| Usos conhecidos registrados para este medicamento | 5 |
+| Nível de evidência | Não aplicável |
+| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 20) |
+| Número de Registros | pelo menos 20 |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos registrados para este medicamento
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a brimonidina é um agonista alfa-2 adrenérgico que reduz a produção de humor aquoso e aumenta o escoamento uveoescleral, e sua eficácia em glaucoma e hipertensão ocular está estabelecida.
+### Aprovados (com respaldo em licença ou bula)
+| Indicação | Fonte |
+|------|------|
+| glaucoma | Licença em outro país |
+| Hipertensão ocular (ocular hypertension) | Licença em outro país |
+| Glaucoma de ângulo aberto (open-angle glaucoma) | Licença em outro país |
+| Doenças de pele (skin diseases) | Licença em outro país |
 
-A previsão para conjuntivite papilar, porém, **não parece razoável como indicação terapêutica**. A literatura disponível descreve a brimonidina como **causa** de conjuntivite alérgica/folicular/papilar e de uveíte anterior. O escore elevado do TxGNN provavelmente reflete uma associação no grafo de conhecimento (evento adverso ou ligação pelo mesmo tecido ocular), e não um efeito terapêutico. O sinal aponta para dano, não para benefício.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhuma | Nenhuma |
 
-## Evidências de Ensaios Clínicos
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Rosácea (rosacea) |
 
-Atualmente não há ensaios clínicos relacionados registrados.
+## Market information
 
-## Evidências da Literatura
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 102351386 | TARTARATO DE BRIMONIDINA |  | Ativo |
+| 154230138 | TARTARATO DE BRIMONIDINA |  | Ativo |
+| 101470142 | TARTARATO DE BRIMONIDINA |  | Ativo |
+| 103700733 | TARTARATO DE BRIMONIDINA |  | Ativo |
+| 154230144 | TARTARATO DE BRIMONIDINA |  | Ativo |
+| 103700735 | TARTARATO DE BRIMONIDINA |  | Ativo |
+| 178170833 | TARTARATO DE BRIMONIDINA |  | Ativo |
+| 105730614 | TARTARATO DE BRIMONIDINA |  | Ativo |
+| 104971350 | TARTARATO DE BRIMONIDINA |  | Ativo |
+| 155840309 | TARTARATO DE BRIMONIDINA |  | Ativo |
+| 101470188 | TARTARATO DE BRIMONIDINA, MALEATO DE TIMOLOL |  | Ativo |
+| 104971551 | TARTARATO DE BRIMONIDINA, MALEATO DE TIMOLOL |  | Ativo |
+| 104971401 | TARTARATO DE BRIMONIDINA, MALEATO DE TIMOLOL |  | Ativo |
+| 178170847 | TARTARATO DE BRIMONIDINA, MALEATO DE TIMOLOL |  | Ativo |
+| 105730098 | TARTARATO DE BRIMONIDINA, MALEATO DE TIMOLOL |  | Ativo |
+| 167730684 | TARTARATO DE BRIMONIDINA, MALEATO DE TIMOLOL |  | Ativo |
+| 155840410 | TARTARATO DE BRIMONIDINA, MALEATO DE TIMOLOL |  | Ativo |
+| 100681131 | BRINZOLAMIDA, TARTARATO DE BRIMONIDINA |  | Ativo |
+| 104971400 | TARTARATO DE BRIMONIDINA, MALEATO DE TIMOLOL |  | Ativo |
+| 102351438 | TARTARATO DE BRIMONIDINA, MALEATO DE TIMOLOL |  | Ativo |
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [18303383](https://pubmed.ncbi.nlm.nih.gov/18303383/) | 2008 | Série de casos | Journal of Glaucoma | Uveíte anterior bilateral e conjuntivite papilar granulomatosa em paciente de 78 anos após 2 anos de brimonidina (reação adversa tardia) |
-| [38992579](https://pubmed.ncbi.nlm.nih.gov/38992579/) | 2024 | Coorte retrospectiva | BMC Ophthalmology | Comparação da prevalência de alergia ocular com a combinação brinzolamida 1%/brimonidina 0,2%, com e sem betabloqueador, em pacientes com glaucoma |
-| [37352771](https://pubmed.ncbi.nlm.nih.gov/37352771/) | 2023 | Relato de caso | International Journal of Surgery Case Reports | Lesão conjuntival atípica (aspecto de "mancha salmão") após uso tópico prolongado; conjuntivite alérgica folicular ou papilar é efeito adverso conhecido |
-
-## Informações de Comercialização no Brasil
-
-Todos os 20 registros estão **cancelados**; não há produto válido atualmente. Principais registros (de 5 dos 20):
-
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 102351386 | Tartarato de Brimonidina | Não informada | Antiglaucomatosos |
-| Registro 154230138 | Alphabrin | Não informada | Antiglaucomatosos |
-| Registro 101470142 | Alphagan | Não informada | Antiglaucomatosos |
-| Registro 101470188 | Combigan | Não informada | Antiglaucomatosos |
-| Registro 100681131 | Simbrinza | Não informada | Antiglaucomatosos |
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
 
 ## Considerações de Segurança
 
@@ -91,17 +104,6 @@ Todos os 20 registros estão **cancelados**; não há produto válido atualmente
 
 Para advertências e contraindicações formais, consulte a bula.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-- Não há ensaios clínicos, e a literatura mostra a brimonidina como causadora de conjuntivite papilar, não como tratamento. Todos os registros no Brasil estão cancelados.
-
-**Para prosseguir, é necessário:**
-- Dados de mecanismo de ação e das advertências e contraindicações oficiais da bula (ANVISA)
-- Reavaliar a direção do sinal (benefício versus dano) antes de qualquer investimento em desenvolvimento
-- Considerar abandonar esta indicação e avaliar candidatas alternativas da lista de previsões, por exemplo, conjuntivite da rosácea (nível L5), por inferência da indicação tópica aprovada para eritema facial da rosácea, que exige estudos específicos e atenção à toxicidade da superfície ocular
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

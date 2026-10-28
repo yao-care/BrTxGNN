@@ -8,6 +8,7 @@ nav_order: 87
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Atomoxetina Hydrochloride
@@ -51,8 +52,8 @@ A ausência desses dados estruturais impede a continuidade da análise de reposi
 | Nova Indicação Prevista | Sem previsão disponível |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 — sem previsões ou estudos disponíveis no contexto local |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ---

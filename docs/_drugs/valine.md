@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e apenas **2 publicações** indireta
 |------|------|
 | Indicação Original | Nutrientes parenterais |
 | Nova Indicação Prevista | Colangite esclerosante (Sclerosing Cholangitis) |
-| Pontuação de Previsão TxGNN | 99,42% |
+| Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 15 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 15) |
+| Número de Registros | 15 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -75,7 +75,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 15 registros estão cancelados. São listados os 5 principais:
+Todos os 15 registros estão válidos. São listados os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -94,7 +94,7 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-Não há ensaios clínicos, e a literatura disponível é apenas indireta (associações metabólicas), sem dados de intervenção com valina. Além disso, todos os registros brasileiros estão cancelados, e os dados de segurança da bula não estão disponíveis.
+Não há ensaios clínicos, e a literatura disponível é apenas indireta (associações metabólicas), sem dados de intervenção com valina. Além disso, os 15 registros brasileiros estão válidos (15 de 15), e os dados de segurança da bula não estão disponíveis.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as advertências e contraindicações da bula na ANVISA

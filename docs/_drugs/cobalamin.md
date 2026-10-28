@@ -47,19 +47,19 @@ O modelo TxGNN prevê que pode ser eficaz para **hiperfosfatemia (hyperphosphate
 |------|------|
 | Indicação Original | Monovitaminas, exceto vitamina K |
 | Nova Indicação Prevista | Hiperfosfatemia (hyperphosphatemia) |
-| Pontuação de Previsão TxGNN | 99,66% |
+| Pontuação de Previsão TxGNN | 0,9966 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a cobalamina atua como cofator da metionina sintase e da metilmalonil-CoA mutase, e sua função está estabelecida na reposição vitamínica.
 
-Não há relação mecanística conhecida entre a cobalamina e a homeostase do fósforo. A pontuação TxGNN é muito alta (0,997), mas, sem ensaios clínicos ou literatura, deve ser tratada apenas como um sinal gerador de hipóteses, e não como evidência de eficácia.
+Não há relação mecanística conhecida entre a cobalamina e a homeostase do fósforo. A pontuação TxGNN é muito alta (0,9966), mas, sem ensaios clínicos ou literatura, deve ser tratada apenas como um sinal gerador de hipóteses, e não como evidência de eficácia.
 
-Vale mencionar a segunda previsão do modelo, a **cistinose** (pontuação de 99,04%). A ligação é indireta e fraca: ambas envolvem o processamento e o transporte lisossômico, mas a literatura recuperada não demonstra efeito terapêutico da cobalamina nessa doença. A pontuação elevada provavelmente reflete proximidade na rede de conhecimento, e não evidência clínica.
+Vale mencionar a segunda previsão do modelo, a **cistinose** (pontuação de 0,9904). A ligação é indireta e fraca: ambas envolvem o processamento e o transporte lisossômico, mas a literatura recuperada não demonstra efeito terapêutico da cobalamina nessa doença. A pontuação elevada provavelmente reflete proximidade na rede de conhecimento, e não evidência clínica.
 
 ## Evidências de Ensaios Clínicos
 

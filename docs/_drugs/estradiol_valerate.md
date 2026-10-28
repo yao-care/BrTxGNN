@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Estradiol Valerate: nova indicação prevista, Forma sintomática da síndrome do X frágil em mulheres portadoras (sym… (nível de evidência L5). Indicação original: Estrogênios associados a outros fármac…"
 monitor_inn: "ESTRADIOL VALERATE"
-predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "anovulation", "ovarian remnant syndrome", "luteoma of pregnancy", "ovarian dysfunction"]
+predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "luteoma of pregnancy", "ovarian dysfunction"]
 ---
 
 # Estradiol Valerate
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Valerato de Estradiol: De estrogênios/anticoncepcionais para síndrome do X frágil sintomática em mulheres portadoras
+## Valerato de Estradiol: De estrogênios/anticoncepcionais para forma sintomática da síndrome do X frágil em mulheres portadoras
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para a **forma sintomática da síndro
 |------|------|
 | Indicação Original | Estrogênios associados a outros fármacos, exclusive androgênios |
 | Nova Indicação Prevista | Forma sintomática da síndrome do X frágil em mulheres portadoras (symptomatic form of fragile X syndrome in female carrier) |
-| Pontuação de Previsão TxGNN | 99,94% |
+| Pontuação de Previsão TxGNN | 0,9994 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 10 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -63,19 +63,19 @@ Não foram encontrados ensaios ou literatura que sustentem essa ligação, e a p
 
 ## Outras Previsões do Modelo
 
-Os dados compilados incluem outras indicações previstas, todas com pontuação acima de 99,9%:
+Os dados compilados incluem outras indicações previstas pelo modelo TxGNN (deep learning), todas com pontuação igual ou superior a 0.9991:
 
 | Posição | Indicação Prevista | Pontuação | Nível | Observação |
 |------|------|------|------|------|
-| 2 | Blefarofimose-epicanto inverso-ptose (BPES) | 99,92% | L5 | Reposição estrogênica poderia tratar apenas a insuficiência ovariana associada, não o fenótipo ocular/craniofacial |
-| 3 | Trissomia/tetrassomia parcial do braço curto do cromossomo 5 | 99,92% | L5 | Sem relação mecanística identificável |
-| 4 | Trissomia/tetrassomia parcial do braço curto do cromossomo 12 | 99,92% | L5 | Sem relação mecanística identificável |
-| 5 | BPES por rearranjo 3q23 | 99,92% | L5 | Mesma lógica do BPES, apenas componente endócrino |
-| 6 | Trissomia/tetrassomia parcial do braço curto do cromossomo 18 | 99,92% | L5 | Sem relação mecanística identificável |
-| 7 | Anovulação | 99,91% | L3 | Único caso com ensaio clínico registrado; evidência mista |
-| 8 | Síndrome do remanescente ovariano | 99,91% | L5 | Estrogênio exógeno não é tratamento estabelecido e pode ser contraproducente |
-| 9 | Luteoma da gravidez | 99,91% | L5 | Sem justificativa para uso de estradiol |
-| 10 | Disfunção ovariana | 99,91% | L4 | Apoio indireto, com formulação diferente |
+| 2 | Blefarofimose-epicanto inverso-ptose (BPES) | 0,9992 | L5 | Reposição estrogênica poderia tratar apenas a insuficiência ovariana associada, não o fenótipo ocular/craniofacial |
+| 3 | Trissomia/tetrassomia parcial do braço curto do cromossomo 5 | 0,9992 | L5 | Sem relação mecanística identificável |
+| 4 | Trissomia/tetrassomia parcial do braço curto do cromossomo 12 | 0,9992 | L5 | Sem relação mecanística identificável |
+| 5 | BPES por rearranjo 3q23 | 0,9992 | L5 | Mesma lógica do BPES, apenas componente endócrino |
+| 6 | Trissomia/tetrassomia parcial do braço curto do cromossomo 18 | 0,9992 | L5 | Sem relação mecanística identificável |
+| 7 | Anovulação | 0,9991 | L3 | Único caso com ensaio clínico registrado; evidência mista |
+| 8 | Síndrome do remanescente ovariano | 0,9991 | L5 | Estrogênio exógeno não é tratamento estabelecido e pode ser contraproducente |
+| 9 | Luteoma da gravidez | 0,9991 | L5 | Sem justificativa para uso de estradiol |
+| 10 | Disfunção ovariana | 0,9991 | L4 | Apoio indireto, com formulação diferente |
 
 A indicação mais bem sustentada por dados é a **anovulação** (detalhada abaixo), embora o relatório siga a previsão de maior pontuação.
 
@@ -110,7 +110,7 @@ Para referência, publicações selecionadas ligadas à anovulação e à disfun
 
 ## Informações de Comercialização no Brasil
 
-Todos os 10 registros estão cancelados (nenhum válido). Principais registros:
+Dos 10 registros, 10 estão válidos. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|

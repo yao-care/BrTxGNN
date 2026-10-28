@@ -4,17 +4,17 @@ title: Mannitol
 parent: Apenas Predição do Modelo (L5)
 nav_order: 434
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Mannitol: nova indicação prevista, Síndrome nefrogênica de antidiurese inapropriada (nephrogenic syndrom… (nível de evidência L5). Indicação original: Reposição hidroeletrolítica e alimentação parent…"
 monitor_inn: "Mannitol"
-predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
 ---
 
 # Mannitol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ mas hoje há **0 ensaios clínicos** e apenas **1 publicação** (uma revisão g
 |------|------|
 | Indicação Original | Reposição hidroeletrolítica e alimentação parenteral |
 | Nova Indicação Prevista | Síndrome nefrogênica de antidiurese inapropriada (nephrogenic syndrome of inappropriate antidiuresis) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -74,7 +74,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados. Principais registros (máximo de 5):
+Há 20 registros válidos. Principais registros (máximo de 5):
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -97,7 +97,7 @@ Consulte a bula para as advertências e contraindicações oficiais, pois não e
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se baseia apenas na pontuação do modelo (nível L5): não há ensaios clínicos, a única publicação não é específica do manitol, e o mecanismo da doença (ganho de função do AVPR2) não é plausivelmente tratável por diurese osmótica, com risco de piora da hiponatremia. Além disso, todos os registros brasileiros estão cancelados.
+A previsão se baseia apenas na pontuação do modelo (nível L5): não há ensaios clínicos, a única publicação não é específica do manitol, e o mecanismo da doença (ganho de função do AVPR2) não é plausivelmente tratável por diurese osmótica, com risco de piora da hiponatremia. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.

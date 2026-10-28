@@ -8,6 +8,7 @@ nav_order: 111
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bedaquilina Fumarate
@@ -49,8 +50,8 @@ Bedaquilina fumarato é um antibiótico diarylquinoline utilizado no tratamento 
 | Nova Indicação Prevista | Não disponível — sem previsões geradas nesta execução |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 (ausência de dados de previsão) |
-| Situação no Mercado Brasileiro | Não comercializado (ANVISA) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---

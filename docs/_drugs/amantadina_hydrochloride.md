@@ -8,6 +8,7 @@ nav_order: 46
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amantadina Hydrochloride
@@ -49,8 +50,8 @@ Amantadina Hidrocloreto (AMANTADINA HYDROCHLORIDE) é um fármaco com histórico
 | Nova Indicação Prevista | Nenhuma previsão TxGNN disponível |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | Não aplicável |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Clozapine
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 237
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Clozapine: nova indicação prevista, Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) (nível de evidência L2). Indicação original: Neurolépticos"
@@ -14,7 +14,7 @@ predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome",
 # Clozapine
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-## Clozapina: De neurolépticos para transtorno bipolar maníaco
+## Clozapina: De neurolépticos para transtorno afetivo bipolar maníaco
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -50,10 +50,10 @@ atualmente com **1 ensaio clínico** diretamente relacionado a esta indicação 
 |------|------|
 | Indicação Original | Neurolépticos |
 | Nova Indicação Prevista | Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) |
-| Pontuação de Previsão TxGNN | 99,95% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 5 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9995 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ---
@@ -125,7 +125,7 @@ Há um ensaio de Fase 2 duplo-cego concluído em mania resistente, além de uma 
 **Para prosseguir, é necessário:**
 - Obter os resultados publicados dos ensaios NCT00029458 e NCT00036582 (Fase 3 em bipolar pediátrico resistente, cujos resultados não estão nos dados compilados) para verificar a magnitude da eficácia.
 - Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), pois esses dados não estavam disponíveis; essa lacuna bloqueia a triagem de segurança.
-- Esclarecer a situação regulatória: todos os 5 registros no Brasil estão cancelados, o que exige confirmar a disponibilidade atual do produto e a via de registro.
+- Esclarecer a situação regulatória: os 5 registros no Brasil estão válidos (5 de 5) e o medicamento é comercializado, o que exige confirmar a disponibilidade atual do produto e a via de registro.
 - Complementar os dados de mecanismo de ação (MOA) a partir do DrugBank.
 - Definir um plano de monitoramento: contagem absoluta de neutrófilos (ANC), função cardíaca (miocardite), risco de convulsões, parâmetros metabólicos (glicemia e lipídios) e revisão das interações medicamentosas.
 ## Aviso de isenção de responsabilidade

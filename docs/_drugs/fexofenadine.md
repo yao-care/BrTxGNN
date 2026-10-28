@@ -4,17 +4,17 @@ title: Fexofenadine
 parent: Apenas Predição do Modelo (L5)
 nav_order: 316
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
 description: "Fexofenadine: nova indicação prevista, Conjuntivite da rosácea (rosacea conjunctivitis) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos"
 monitor_inn: "Fexofenadine"
-predicted_indications: ["rosacea conjunctivitis", "punctate epithelial keratoconjunctivitis", "blepharoconjunctivitis", "viral conjunctivitis", "parasitic eyelid infestation", "ulcerative blepharitis", "infective urethral stricture", "postinfectious vasculitis", "post-bacterial disorder", "noninfectious dermatoses of eyelid"]
+predicted_indications: ["rosacea conjunctivitis"]
 ---
 
 # Fexofenadine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Anti-histamínicos sistêmicos |
 | Nova Indicação Prevista | Conjuntivite da rosácea (rosacea conjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,85% |
+| Pontuação de Previsão TxGNN | 0,9985 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A rosácea ocular tem componentes inflamatórios e possivelmente histaminérgicos, de modo que um efeito de bloqueio H1 é plausível. No entanto, os principais motores da doença são a disfunção das glândulas meibomianas, a presença de *Demodex* e a ativação da imunidade inata, que não são tratados diretamente por um anti-histamínico. Além disso, a fexofenadina é um fármaco oral sistêmico, com liberação limitada na superfície ocular.
 
-A pontuação alta (0,998) é apenas uma previsão do modelo. Sem ensaios ou literatura, a razoabilidade mecanística permanece hipotética.
+A pontuação alta (0,9985) é apenas uma previsão do modelo. Sem ensaios ou literatura, a razoabilidade mecanística permanece hipotética.
 
 ### Outras indicações previstas
 
@@ -68,19 +68,10 @@ Todas as demais previsões também estão no nível L5, sem ensaios ou literatur
 
 | Posição | Indicação prevista | Pontuação | Plausibilidade |
 |---|---|---|---|
-| 2 | Ceratoconjuntivite epitelial punctata | 98,63% | Baixa: geralmente viral ou tóxica/imune; no máximo alívio sintomático |
-| 3 | Blefaroconjuntivite | 98,40% | Parcial: apenas componentes alérgicos; já existem anti-histamínicos tópicos oculares |
-| 4 | Conjuntivite viral | 98,17% | Baixa: sem atividade antiviral; no máximo alívio do prurido |
-| 5 | Infestação parasitária da pálpebra | 96,67% | Baixa: exige antiparasitário; só alivia o prurido |
-| 6 | Blefarite ulcerativa | 96,59% | Baixa: geralmente estafilocócica; exige antimicrobianos e higiene palpebral |
-| 7 | Estenose uretral infecciosa | 96,33% | Muito baixa: condição fibrótica estrutural; provável artefato do grafo |
-| 8 | Vasculite pós-infecciosa | 96,13% | Baixa: uso adjuvante sintomático em quadros urticariformes |
-| 9 | Distúrbio pós-bacteriano | 96,11% | Não interpretável: termo inespecífico |
-| 10 | Dermatoses não infecciosas da pálpebra | 95,84% | Mais plausível (dermatite alérgica/atópica), mas o padrão de tratamento são corticoides ou inibidores de calcineurina tópicos |
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão **cancelados**; não há registro válido atualmente. Principais registros:
+Foram encontrados 20 registros **válidos** atualmente. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|

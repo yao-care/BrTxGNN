@@ -4,7 +4,7 @@ title: Serine
 parent: Apenas Predição do Modelo (L5)
 nav_order: 584
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Serine: nova indicação prevista, Miopatia visceral familiar (familial visceral myopathy) (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "Serine"
@@ -14,7 +14,7 @@ predicted_indications: ["familial visceral myopathy", "intestinal obstruction", 
 # Serine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Nutrientes parenterais |
 | Nova Indicação Prevista | Miopatia visceral familiar (familial visceral myopathy) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 16 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
+| Número de Registros | 16 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -62,9 +62,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a serina é um aminoácido nutricional, componente de soluções de aminoácidos para nutrição parenteral, e não um fármaco com alvo terapêutico específico.
 
-A miopatia visceral familiar é um distúrbio genético da musculatura lisa (por exemplo, variantes em ACTG2). Não há mecanismo estabelecido pelo qual a serina, como suplemento nutricional, modifique essa doença. A pontuação alta (99,99%) reflete apenas a proximidade em um grafo de conhecimento, e não evidência clínica ou biológica.
+A miopatia visceral familiar é um distúrbio genético da musculatura lisa (por exemplo, variantes em ACTG2). Não há mecanismo estabelecido pelo qual a serina, como suplemento nutricional, modifique essa doença. A pontuação alta (0,9999) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica nem clínica.
 
-As demais previsões do modelo (pseudo-obstrução intestinal, obstrução intestinal, displasia neuronal intestinal, glaucoma de ângulo fechado, entre outras) também não têm ensaios clínicos nem literatura que as sustentem. Vários pares de doenças têm pontuações idênticas, o que sugere um sinal compartilhado do grafo, e não evidências independentes.
+As demais previsões do modelo (pseudo-obstrução intestinal, obstrução intestinal, displasia neuronal intestinal, entre outras) também não têm ensaios clínicos nem literatura que as sustentem. Vários pares de doenças têm pontuações idênticas, o que sugere um padrão compartilhado aprendido pelo modelo TxGNN (deep learning), e não evidências independentes.
 
 ---
 
@@ -84,7 +84,7 @@ Observação: para outras indicações previstas (obstrução intestinal e glauc
 
 ## Informações de Comercialização no Brasil
 
-Todos os 16 registros estão cancelados. Principais registros:
+Os 16 registros estão válidos (16 de 16). Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -110,7 +110,7 @@ Consulte a bula para advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura que sustentem o uso da serina na miopatia visceral familiar, e não existe mecanismo plausível. A previsão é puramente computacional (L5), e todos os registros brasileiros estão cancelados.
+- Não há ensaios clínicos nem literatura que sustentem o uso da serina na miopatia visceral familiar, e não existe mecanismo plausível. A previsão é puramente computacional (L5), e o medicamento é comercializado no Brasil, com 16 registros válidos de 16.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) e uma hipótese biológica plausível que ligue a serina à doença

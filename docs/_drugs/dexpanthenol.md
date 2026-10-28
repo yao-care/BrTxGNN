@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Outros produtos com ação na pele e mucosas |
 | Nova Indicação Prevista | Estenose anorretal (anorectal stricture) |
-| Pontuação de Previsão TxGNN | 99,72% |
+| Pontuação de Previsão TxGNN | 0,9972 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 16 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
+| Número de Registros | 16 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação original. Segu
 
 A relação com a estenose anorretal é indireta: a cicatrização da mucosa poderia, em tese, ser relevante para o processo de reparo em estenoses. Não há, porém, ensaio clínico ou publicação que sustente essa hipótese, e ela permanece no nível de previsão do modelo.
 
-Vale notar que outras indicações previstas têm justificativas variadas. Proctite (pontuação de 99,60%) e ceratoconjuntivite epitelial punctata (99,34%) têm vínculo biológico plausível com o reparo de mucosa e epitélio. Já o pólipo anal não tem mecanismo plausível, pois é um processo proliferativo. A principal indicação analisada neste relatório é a de maior pontuação.
+Vale notar que outras indicações previstas têm justificativas variadas. Proctite (pontuação de 0,9960) e ceratoconjuntivite epitelial punctata (0,9934) têm vínculo biológico plausível com o reparo de mucosa e epitélio. Já o pólipo anal não tem mecanismo plausível, pois é um processo proliferativo. A principal indicação analisada neste relatório é a de maior pontuação.
 
 ## Evidências de Ensaios Clínicos
 
@@ -84,7 +84,7 @@ Consulte a bula para informações adicionais de segurança, pois as advertênci
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para estenose anorretal tem pontuação alta (99,72%), mas é puramente baseada no modelo (L5), sem ensaios ou literatura. Além disso, todos os 16 registros no Brasil estão cancelados e faltam dados de segurança da bula.
+A previsão para estenose anorretal tem pontuação alta (0,9972), mas é puramente baseada no modelo (L5), sem ensaios ou literatura. Além disso, o medicamento é comercializado no Brasil, com 16 registros válidos de 16, e faltam dados de segurança da bula.
 
 **Para prosseguir, é necessário:**
 - Obter o mecanismo de ação no DrugBank e analisar o vínculo mecanístico com a estenose anorretal

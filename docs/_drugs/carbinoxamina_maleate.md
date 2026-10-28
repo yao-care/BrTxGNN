@@ -8,6 +8,7 @@ nav_order: 193
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Carbinoxamina Maleate
@@ -51,8 +52,8 @@ Sem indicações previstas, ensaios clínicos associados ou literatura de suport
 | Nova Indicação Prevista | Nenhuma previsão disponível |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem estudos reais recuperados) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros ANVISA | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros ANVISA | 10 (ativos: 10) |
 | Decisão Recomendada | **Hold** |
 
 ---

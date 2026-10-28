@@ -50,9 +50,9 @@ Atualmente, há **0 ensaios clínicos** e **20 publicações** (todas revisões,
 |------|------|
 | Indicação Original | Antimicótico |
 | Nova Indicação Prevista | Vulvovaginite (vulvovaginitis) |
-| Pontuação de Previsão TxGNN | 99,92% |
+| Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -95,7 +95,7 @@ Foram compiladas 20 publicações. Abaixo estão as 10 mais relevantes, prioriza
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão **cancelados**, e não há registro válido atualmente. Abaixo estão os 5 primeiros. A forma farmacêutica não consta nos dados compilados.
+Foram encontrados 20 registros, todos **válidos**. Abaixo estão os 5 primeiros. A forma farmacêutica não consta nos dados compilados.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -123,11 +123,11 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para vulvovaginite é mecanisticamente sólida, mas é uma extensão da indicação antifúngica já existente, com evidência limitada a revisões e estudos de baixo nível (L3), sem ensaio clínico registrado. Além disso, todos os registros no Brasil estão cancelados, e os dados de segurança da bula não estão disponíveis, o que impede avançar na triagem de segurança.
+- A previsão para vulvovaginite é mecanisticamente sólida, mas é uma extensão da indicação antifúngica já existente, com evidência limitada a revisões e estudos de baixo nível (L3), sem ensaio clínico registrado. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos, mas os dados de segurança da bula não estão disponíveis, o que impede avançar na triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
-- Confirmar a situação regulatória atual e a disponibilidade comercial da nistatina no Brasil (formas vaginais), já que todos os registros estão cancelados.
+- Confirmar a situação regulatória atual e a disponibilidade comercial da nistatina no Brasil (formas vaginais), já que o medicamento é comercializado, com 20 registros válidos.
 - Obter dados do mecanismo de ação a partir do DrugBank.
 - Revisar os estudos primários (como PMID 25416649 e 21918792) para confirmar o desenho e classificar corretamente o nível de evidência.
 - Esclarecer se o objetivo é a candidíase vulvovaginal (indicação antifúngica já coberta) ou um reposicionamento propriamente dito.

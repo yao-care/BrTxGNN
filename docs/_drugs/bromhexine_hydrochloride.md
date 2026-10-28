@@ -8,6 +8,7 @@ nav_order: 157
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bromhexine Hydrochloride
@@ -49,8 +50,8 @@ Bromexina (Bromhexine Hydrochloride) é um agente mucolítico amplamente utiliza
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem dados de suporte) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 15) |
+| Número de Registros | 15 (ativos: 15) |
 | Decisão Recomendada | **Hold** |
 
 ---

@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Imunossupressores seletivos |
 | Nova Indicação Prevista | Síndrome de microftalmia colobomatosa com displasia rizomélica (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
-| Pontuação de Previsão TxGNN | 99,61% |
+| Pontuação de Previsão TxGNN | 0,9961 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,9 +60,9 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A síndrome prevista é uma malformação congênita rara, que afeta os olhos (microftalmia com coloboma) e o esqueleto (displasia rizomélica). Presumivelmente, ela decorre de alterações genéticas ou do desenvolvimento, e não de inflamação dependente de JAK. Não foi fornecido nenhum vínculo de via, alvo ou gene entre a inibição de JAK1 e essa condição, portanto não há relação biológica plausível evidente com a indicação original.
 
-A pontuação muito alta (0,996) provavelmente reflete um artefato do grafo de conhecimento, como vizinhos compartilhados de genes ou fenótipos. Deve ser tratada apenas como um sinal gerador de hipóteses, e não como evidência clínica.
+A pontuação muito alta (0,9961) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Deve ser tratada apenas como um sinal gerador de hipóteses, e não como evidência clínica.
 
-> Observação: a segunda previsão do modelo, **síndrome de braquidactilia-sindactilia** (pontuação de 99,58%), também não tem ensaios clínicos nem literatura e apresenta a mesma limitação mecanística (malformação congênita do desenvolvimento, sem vínculo com a via JAK-STAT).
+> Observação: a segunda previsão do modelo, **síndrome de braquidactilia-sindactilia** (pontuação de 0,9958), também não tem ensaios clínicos nem literatura e apresenta a mesma limitação mecanística (malformação congênita do desenvolvimento, sem vínculo com a via JAK-STAT).
 
 ## Informações de Comercialização no Brasil
 

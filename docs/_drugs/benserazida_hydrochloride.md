@@ -8,6 +8,7 @@ nav_order: 118
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Benserazida Hydrochloride
@@ -51,8 +52,8 @@ O fármaco **não possui registro ativo no mercado brasileiro**, o que limita ai
 | Nova Indicação Prevista | Nenhuma previsão disponível |
 | Pontuação de Previsão TxGNN | N/D |
 | Nível de Evidência | L5 – Sem estudos de reposicionamento identificados |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
+| Número de Registros | 7 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ---

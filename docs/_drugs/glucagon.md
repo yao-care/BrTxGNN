@@ -48,10 +48,10 @@ atualmente com **2 ensaios clínicos** (ambos com análogos/GLP-1, não com gluc
 |------|------|
 | Indicação Original | Não disponível nos dados compilados |
 | Nova Indicação Prevista | Síndrome do intestino irritável (Irritable Bowel Syndrome) |
-| Pontuação de Previsão TxGNN | 99,24% |
+| Pontuação de Previsão TxGNN | 0,9924 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação do glucagon no
 
 O GLP-1 e seus análogos retardam o esvaziamento gástrico e inibem a motilidade antro-duodeno-jejunal, o que poderia reduzir a motilidade anormal e a hipersensibilidade visceral observadas na SII. Contudo, as evidências clínicas disponíveis dizem respeito a agonistas do receptor de GLP-1 (GLP-1 nativo e ROSE-010), e não ao glucagon.
 
-Portanto, o vínculo é **indireto**, via família peptídica comum e via de receptores relacionada. A pontuação muito alta do TxGNN (0,992) é uma previsão computacional e não substitui evidência clínica direta com glucagon.
+Portanto, o vínculo é **indireto**, via família peptídica comum e via de receptores relacionada. A pontuação muito alta do TxGNN (0,9924) é uma previsão computacional e não substitui evidência clínica direta com glucagon.
 
 ## Evidências de Ensaios Clínicos
 
@@ -95,7 +95,7 @@ Consulte a bula para informações adicionais de segurança (advertências e con
 **Decisão: Hold**
 
 **Justificativa:**
-- Apesar da pontuação alta do TxGNN (99,24%), as evidências clínicas referem-se a análogos de GLP-1 e não ao glucagon, os ensaios são de Fase 1 ou 1/2 e o fármaco não possui registro no Brasil. O vínculo mecanístico é indireto (nível L3).
+- Apesar da pontuação alta do TxGNN (0,9924), as evidências clínicas referem-se a análogos de GLP-1 e não ao glucagon, os ensaios são de Fase 1 ou 1/2 e o fármaco não possui registro no Brasil. O vínculo mecanístico é indireto (nível L3).
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação do glucagon (via DrugBank) e análise do vínculo mecanístico específico com a SII

@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Hydrocortisone Acetate
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Alta (L1-L2)
 nav_order: 356
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Hydrocortisone Acetate: nova indicação prevista, Alopecia areata (Alopecia Areata) (nível de evidência L5). Indicação original: Glicocorticoides tópicos simples, exceto uso oftálmico"
 monitor_inn: "HYDROCORTISONE ACETATE"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucino
 # Hydrocortisone Acetate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L1** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **1 ensaio clínico** (Phase 3, no qual a hidrocortisona foi usad
 |------|------|
 | Indicação Original | Glicocorticoides tópicos simples, exceto uso oftálmico |
 | Nova Indicação Prevista | Alopecia areata (Alopecia Areata) |
-| Pontuação de Previsão TxGNN | 99,94% |
+| Pontuação de Previsão TxGNN | 0,9994 |
 | Nível de Evidência | L1 (formalmente, por um Phase 3 RCT concluído; na prática, evidência fraca, ver ressalvas abaixo) |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 6 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
+| Número de Registros | 6 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -99,7 +99,7 @@ Para advertências, contraindicações formais e interações medicamentosas, co
 **Decisão: Hold**
 
 **Justificativa:**
-Embora exista formalmente um Phase 3 RCT concluído em alopecia areata, a hidrocortisona atuou apenas como comparador de baixa potência, em amostra pequena e em formulação diferente (1% creme, não acetato). A literatura é antiga e de baixa qualidade, e todos os registros brasileiros estão cancelados, sem produto comercializado.
+Embora exista formalmente um Phase 3 RCT concluído em alopecia areata, a hidrocortisona atuou apenas como comparador de baixa potência, em amostra pequena e em formulação diferente (1% creme, não acetato). A literatura é antiga e de baixa qualidade, e o medicamento é comercializado no Brasil, com 6 dos 6 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA para advertências e contraindicações (lacuna bloqueante para a triagem de segurança)

@@ -8,6 +8,7 @@ drugbank_id: DB00588
 evidence_level: L5
 permalink: /drugs/fluticasone_propionate/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # FLUTICASONE PROPIONATE

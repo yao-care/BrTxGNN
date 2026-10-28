@@ -8,6 +8,7 @@ nav_order: 402
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Leucine
@@ -49,8 +50,8 @@ Leucina (INN: LEUCINE, DrugBank: DB00149) é um aminoácido essencial de cadeia 
 | Nova Indicação Prevista | Nenhuma previsão gerada |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsões nem estudos disponíveis) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
+| Número de Registros | 16 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ---

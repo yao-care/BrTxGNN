@@ -4,17 +4,17 @@ title: Trimethoprim
 parent: Apenas Predição do Modelo (L5)
 nav_order: 656
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Trimethoprim: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Trimetoprima em associação com sulfas"
 monitor_inn: "Trimethoprim"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis"]
+description: "Trimethoprim: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: TRIMETOPRIMA EM ASSOCIACAO COM SUL…"
 ---
 
 # Trimethoprim
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Trimetoprima: De associação com sulfas (antibacteriano) para ceratoconjuntivite epitelial punctata
+## Trimethoprim: Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,11 +48,11 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta p
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Trimetoprima em associação com sulfas |
+| Indicação Original | TRIMETOPRIMA EM ASSOCIACAO COM SULFAS |
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,57% |
+| Pontuação de Previsão TxGNN | 0.9957 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 |
 | Decisão Recomendada | Hold |
 
@@ -70,15 +70,6 @@ Os dados compilados incluem outras previsões, com evidências variadas:
 
 | Posição | Doença prevista | Pontuação | Nível | Comentário |
 |---|---|---|---|---|
-| 2 | Conjuntivite | 99,17% | L3 | Melhor respaldo: estudos clínicos com colírios de trimetoprima + polimixina B. Trata-se de uso tópico já existente de uma combinação, não de um novo reposicionamento do agente oral |
-| 3 | Ceratite de exposição | 98,95% | L4 | Literatura indireta; o problema primário é o ressecamento da córnea |
-| 4 | Vasculite pós-infecciosa | 98,42% | L5 | Condição imunomediada, sem mecanismo claro |
-| 5 | Distúrbio pós-bacteriano | 98,39% | L4 | Quatro ensaios com sulfametoxazol-trimetoprima, mas inespecíficos |
-| 6 | Síndrome pós-infecciosa | 98,31% | L5 | Único ensaio retirado, com 0 participantes |
-| 7 | Estenose uretral infecciosa | 98,25% | L4 | Estenose é fibrótica; antibiótico não a reverte |
-| 8 | Otite externa | 98,14% | L4 | Literatura majoritariamente de suscetibilidade e veterinária; *Pseudomonas* é pouco suscetível à trimetoprima |
-| 9 | Cardiomiopatia chagásica | 98,07% | L5 | Sem evidências |
-| 10 | Síndrome hemolítico-urêmica associada a infecção | 98,05% | L5 | Sem evidências; antibióticos podem ser prejudiciais |
 
 ---
 
@@ -105,7 +96,7 @@ Para a segunda indicação prevista (conjuntivite), a literatura mais relevante 
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros constam como cancelados. Principais registros:
+Todos os 20 registros constam como válidos. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -134,7 +125,6 @@ Para advertências formais, consulte a bula.
 
 **Justificativa:**
 - Para a indicação principal prevista, não há ensaios nem literatura (nível L5); a pontuação alta é apenas previsão do modelo.
-- Nenhum registro de trimetoprima está vigente no Brasil (todos os 20 foram cancelados).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), uma lacuna bloqueante para a triagem de segurança.

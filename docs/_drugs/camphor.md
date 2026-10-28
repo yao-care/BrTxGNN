@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Camphor
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 183
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Camphor: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L4). Indicação original: Descongestionantes nasais tópicos"
 monitor_inn: "Camphor"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "migraine with or without aura, susceptibility to", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
 ---
 
 # Camphor
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e apenas **3 publicações** indireta
 |------|------|
 | Indicação Original | Descongestionantes nasais tópicos |
 | Nova Indicação Prevista | Enxaqueca (Migraine Disorder) |
-| Pontuação de Previsão TxGNN | 99,85% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 16 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9985 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
+| Número de Registros | 16 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -80,7 +80,7 @@ Observação: os resultados mais relevantes são indiretos. Outros achados recup
 
 ## Informações de Comercialização no Brasil
 
-Todos os 16 registros encontrados estão cancelados. Principais exemplos:
+Dos 16 registros encontrados, 16 têm licença válida e o medicamento está comercializado no país. Principais exemplos:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -101,7 +101,7 @@ Nota adicional: a literatura compilada sugere que óleos essenciais com propried
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para enxaqueca tem apenas suporte pré-clínico em animais (L4), sem ensaios clínicos, e os relatos humanos apontam mais para possível desencadeamento de cefaleia do que para benefício. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão para enxaqueca tem apenas suporte pré-clínico em animais (L4), sem ensaios clínicos, e os relatos humanos apontam mais para possível desencadeamento de cefaleia do que para benefício. Além disso, o medicamento está comercializado no Brasil, com 16 licenças válidas de 16 registros.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) e das advertências e contraindicações da bula da ANVISA

@@ -7,6 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 90
 evidence_level: L5
 indication_count: 0
+predicted_indications: []
 ---
 
 # Atracúrio Besylate
@@ -50,8 +51,8 @@ A ausência de dados regulatórios brasileiros e de informações de segurança 
 | Nova Indicação Prevista | Nenhuma — TxGNN não gerou previsões |
 | Pontuação de Previsão TxGNN | Indisponível |
 | Nível de Evidência | L5 — sem previsão real ou estudos de reposicionamento identificados |
-| Situação no Mercado Brasileiro | Não encontrado no registro consultado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | **Hold** |
 
 ---

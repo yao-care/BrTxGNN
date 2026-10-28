@@ -39,7 +39,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 ## Resumo em Uma Frase
 
 Teprotumumabe (TEPEZZA) é um anticorpo monoclonal que inibe o receptor do fator de crescimento semelhante à insulina tipo 1 (IGF-1R). No Brasil, o único registro existente o classifica como "imunossupressor".
-O modelo TxGNN prevê que pode ser eficaz para **monossomia do X (Monosomy X)**, mas há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A previsão baseia-se apenas na estrutura do grafo de conhecimento.
+O modelo TxGNN (deep learning) prevê que pode ser eficaz para **monossomia do X (Monosomy X)**, mas há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 ## Visão Geral Rápida
 
@@ -47,19 +47,19 @@ O modelo TxGNN prevê que pode ser eficaz para **monossomia do X (Monosomy X)**,
 |------|------|
 | Indicação Original | Imunossupressor |
 | Nova Indicação Prevista | Monossomia do X (Monosomy X) |
-| Pontuação de Previsão TxGNN | 99,79% |
+| Pontuação de Previsão TxGNN | 0,9979 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados de mecanismo de ação registrados para este fármaco nos dados compilados. Segundo informações conhecidas, o teprotumumabe é um anticorpo monoclonal inibidor do IGF-1R, e a classificação regulatória brasileira o descreve apenas como imunossupressor.
 
-A monossomia do X (síndrome de Turner) é uma alteração cromossômica que cursa com baixa estatura e disgenesia gonadal. O eixo do IGF-1 tem relação com o crescimento, o que explica a proximidade entre o fármaco e a doença no grafo de conhecimento.
+A monossomia do X (síndrome de Turner) é uma alteração cromossômica que cursa com baixa estatura e disgenesia gonadal. O eixo do IGF-1 tem relação com o crescimento, o que pode ajudar a entender a pontuação do modelo TxGNN (deep learning), que pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica.
 
-No entanto, a lógica terapêutica é contrária: bloquear o IGF-1R tende a prejudicar o crescimento, e não a favorecê-lo. Não há justificativa terapêutica plausível. A pontuação elevada do TxGNN é uma inferência baseada em grafo, sem respaldo de ensaios ou literatura.
+No entanto, a lógica terapêutica é contrária: bloquear o IGF-1R tende a prejudicar o crescimento, e não a favorecê-lo. Não há justificativa terapêutica plausível. A pontuação elevada do TxGNN (deep learning) pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica, e não tem respaldo de ensaios ou literatura.
 
 ## Outras Indicações Previstas (Todas L5, Hold)
 
@@ -67,15 +67,15 @@ Nenhuma das demais previsões apresenta ensaios clínicos ou literatura.
 
 | Posição | Doença prevista | Pontuação TxGNN | Observação |
 |------|------|------|------|
-| 2 | Varizes esofágicas com sangramento | 99,64% | Sem vínculo mecanístico claro; hipertensão portal não tem o IGF-1R como alvo estabelecido |
-| 3 | Varizes esofágicas sem sangramento | 99,64% | Pontuação idêntica à anterior, sugerindo artefato do grafo |
-| 4 | Disgenesia gonadal mista | 99,50% | Provável proximidade com a monossomia do X no grafo |
-| 5 | Distúrbio da fosforilação oxidativa mitocondrial por alterações do DNA nuclear | 99,44% | Vínculo apenas especulativo via metabolismo |
-| 6 | Síndrome de Turner por anomalias estruturais do X | 99,37% | Mesma ressalva da monossomia do X |
-| 7 | Monossomia do X em mosaico | 99,37% | Mesma ressalva da monossomia do X |
-| 8 | Distúrbio do desenvolvimento sexual por cromossomos sexuais | 99,34% | Categoria ampla, derivada de vizinhança ontológica |
-| 9 | Doença varicosa | 99,33% | Remodelação vascular é hipótese especulativa |
-| 10 | Anomalia do número de cromossomos X | 99,32% | Categoria geral sem justificativa mecanística |
+| 2 | Varizes esofágicas com sangramento | 0,9964 | Sem vínculo mecanístico claro; hipertensão portal não tem o IGF-1R como alvo estabelecido |
+| 3 | Varizes esofágicas sem sangramento | 0,9964 | Pontuação idêntica à anterior, o que pode refletir semelhanças aprendidas pelo modelo TxGNN (deep learning), não evidência biológica |
+| 4 | Disgenesia gonadal mista | 0,9950 | Pode refletir semelhanças aprendidas pelo modelo TxGNN (deep learning) com a monossomia do X, não evidência biológica |
+| 5 | Distúrbio da fosforilação oxidativa mitocondrial por alterações do DNA nuclear | 0,9944 | Vínculo apenas especulativo via metabolismo |
+| 6 | Síndrome de Turner por anomalias estruturais do X | 0,9937 | Mesma ressalva da monossomia do X |
+| 7 | Monossomia do X em mosaico | 0,9937 | Mesma ressalva da monossomia do X |
+| 8 | Distúrbio do desenvolvimento sexual por cromossomos sexuais | 0,9934 | Categoria ampla, derivada de vizinhança ontológica |
+| 9 | Doença varicosa | 0,9933 | Remodelação vascular é hipótese especulativa |
+| 10 | Anomalia do número de cromossomos X | 0,9932 | Categoria geral sem justificativa mecanística |
 
 ## Informações de Comercialização no Brasil
 

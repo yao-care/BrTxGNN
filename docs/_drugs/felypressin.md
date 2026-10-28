@@ -48,17 +48,17 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Anestésicos locais |
 | Nova Indicação Prevista | Osteoporose induzida por fármacos (drug-induced osteoporosis) |
-| Pontuação de Previsão TxGNN | 99,80% |
+| Pontuação de Previsão TxGNN | 0,9980 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 2 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a felipressina é um análogo sintético da vasopressina que atua principalmente como agonista do receptor V1 (vasoconstrição), sendo associada a anestésicos locais para prolongar o efeito e reduzir o sangramento no local.
 
-Não há relação mecanística clara entre essa ação vasoconstritora e a osteoporose. Qualquer efeito ósseo seria especulativo, por exemplo, via sinalização de receptores de vasopressina em células ósseas. A pontuação alta (99,80%) reflete uma previsão baseada em grafo de conhecimento, provavelmente proximidade na rede, e não evidência biológica ou clínica.
+Não há relação mecanística clara entre essa ação vasoconstritora e a osteoporose. Qualquer efeito ósseo seria especulativo, por exemplo, via sinalização de receptores de vasopressina em células ósseas. A pontuação alta (0,9980) reflete uma previsão do modelo TxGNN (aprendizado profundo), provavelmente proximidade na rede, e não evidência biológica ou clínica.
 
 Outras indicações previstas pelo modelo também carecem de respaldo: retinopatia diabética grave não proliferativa (99,65%), esotropia (99,41%), retinopatia diabética (99,39%), adenomas/carcinoides brônquicos infantis (99,19%), proliferação ductal ou ductular, hamartoma condroide, lesão não seminomatosa (todas 99,19%), tumor de testículo e paratestículo (99,18%) e neoplasia pré-maligna (99,17%). Em todas, não há ensaios nem literatura, e o mecanismo é inexistente ou incerto. Na retinopatia diabética, a sinalização da vasopressina pode até ser prejudicial (aumento da permeabilidade vascular).
 

@@ -8,6 +8,7 @@ nav_order: 508
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Palivizumabe
@@ -51,8 +52,8 @@ Com 3 registros ativos no mercado brasileiro e dados críticos de segurança e m
 | Nova Indicação Prevista | Não disponível (sem predições TxGNN neste ciclo) |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 — sem predições do modelo, avaliação incompleta |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 3 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---

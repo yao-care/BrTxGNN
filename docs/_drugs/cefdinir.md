@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Cefdinir
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 206
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Cefdinir: nova indicação prevista, Hiperamilasemia (maior pontuação) (nível de evidência L5). Indicação original: Infecção estreptocócica, infecção por Staphylococcus aureus…"
-monitor_inn: "Cefdinir"
-predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "septicemic plague", "pyelonephritis"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Cefdinir: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
+predicted_indications: []
 ---
 
 # Cefdinir
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,60 +32,50 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Cefdinir: Da infecção estreptocócica à pielonefrite
+<!-- known-uses-page -->
+<!-- description: Cefdinir: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata -->
+## Cefdinir: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior a 0,99 para o Cefdinir, portanto não há, no momento, nova indicação predita. Os usos registrados para o medicamento estão listados abaixo.
 
-Cefdinir é uma cefalosporina de terceira geração, originalmente usada em infecções estreptocócicas e estafilocócicas (incluindo pneumonia estreptocócica).
-O modelo TxGNN prevê que pode ser útil para **hiperamilasemia (hyperamylasemia)**, a previsão de maior pontuação, mas sem nenhuma evidência clínica que a sustente. A indicação com mais respaldo na literatura é a **pielonefrite (pyelonephritis)**, com **11 publicações** (nenhum ensaio clínico registrado), e é nela que este relatório se concentra.
-
-## Visão Geral Rápida
-
+## Visão geral rápida
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecção estreptocócica, infecção por *Staphylococcus aureus*, infecção estafilocócica e pneumonia estreptocócica (base de conhecimento TxGNN; não há texto de indicação aprovada no Brasil) |
-| Nova Indicação Prevista | Hiperamilasemia (maior pontuação); pielonefrite (única com literatura relevante, analisada abaixo) |
-| Pontuação de Previsão TxGNN | 98,27% (hiperamilasemia); 94,64% (pielonefrite) |
-| Nível de Evidência | L5 (hiperamilasemia); L3 (pielonefrite) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Hold (hiperamilasemia); pielonefrite: questão de pesquisa, mantida em Hold |
+| Novas indicações preditas | Nenhuma (nenhum candidato do modelo atingiu pontuação igual ou superior a 0,99) |
+| Usos conhecidos registrados para este medicamento | 4 |
+| Nível de evidência | Não aplicável |
+| Situação de mercado no Brasil | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos registrados para este medicamento
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, cefdinir é uma cefalosporina de terceira geração que inibe a síntese da parede celular bacteriana, sua eficácia em infecções estreptocócicas e estafilocócicas é reconhecida, e mecanisticamente pode ser aplicável a outras infecções bacterianas.
+### Aprovados (com respaldo em registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| Nenhum | Nenhum |
 
-**Hiperamilasemia (maior pontuação):** não há vínculo mecanístico identificável. Nenhuma via conecta um antibacteriano à regulação da amilase; a pontuação parece refletir a topologia do grafo de conhecimento, não a biologia. As demais previsões de topo (síndrome de hiperviscosidade policlonal, analbuminemia congênita, incompatibilidade de grupo sanguíneo, doenças hematológicas pré-malignas, gamopatia monoclonal etc.) apresentam o mesmo problema: sem mecanismo plausível, sem ensaios e sem literatura.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhum | Nenhum |
 
-**Pielonefrite:** é biologicamente coerente, pois o cefdinir tem atividade contra uropatógenos comuns, como *E. coli* e *Klebsiella*. Porém, as evidências sobre cefalosporinas orais na pielonefrite indicam eficácia inferior ou incerta frente a fluoroquinolonas ou SMX-TMP, devido à menor exposição urinária e tecidual e à menor biodisponibilidade. O uso mais estudado é como terapia de transição (step-down) após tratamento intravenoso. A peste septicêmica (*Yersinia pestis*) também é plausível apenas em sentido geral, sem dados, e a via oral é inadequada para septicemia.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Infecção estafilocócica (staphylococcal infection) |
+| Infecção por Staphylococcus aureus (staphylococcus aureus infection) |
+| Infecção estreptocócica (streptococcal infection) |
+| Pneumonia estreptocócica (streptococcal pneumonia) |
 
-## Evidências de Ensaios Clínicos
+## Market information
 
-Para a pielonefrite, atualmente não há ensaios clínicos relacionados registrados.
-
-O único ensaio associado a outra previsão (doença hematológica congênita) é pouco relevante:
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT04278404](https://clinicaltrials.gov/study/NCT04278404) | N/A | Recrutando | 5000 | Estudo amplo de farmacocinética, farmacodinâmica e segurança de fármacos pouco estudados em crianças; não é específico para cefdinir nem fornece evidência de eficácia |
-
-## Evidências da Literatura
-
-Pielonefrite (10 publicações mais relevantes listadas):
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [30662274](https://pubmed.ncbi.nlm.nih.gov/30662274/) | 2019 | RCT | Infection and Drug Resistance | Sitafloxacino oral vs. ceftriaxona IV seguida de cefdinir oral em pielonefrite aguda e ITU complicada |
-| [37414282](https://pubmed.ncbi.nlm.nih.gov/37414282/) | 2023 | Revisão sistemática | J Am Pharm Assoc | Cefalosporinas em pielonefrite não complicada; diretrizes recomendam ciprofloxacino ou SMX-TMP como primeira linha |
-| [41160587](https://pubmed.ncbi.nlm.nih.gov/41160587/) | 2026 | Coorte | J Pharm Pract | Estudo retrospectivo em 3 hospitais comparando falha terapêutica de cefalexina e cefdinir como step-down em ITU grave |
-| [42841836](https://pubmed.ncbi.nlm.nih.gov/42841836/) | 2026 | Coorte | Ann Emerg Med | Compara cefalosporinas orais de 1ª, 2ª e 3ª geração em pielonefrite de adultos liberados do pronto-socorro (DOGMA-ED) |
-| [42565893](https://pubmed.ncbi.nlm.nih.gov/42565893/) | 2026 | Coorte retrospectiva nacional | Eur J Clin Microbiol Infect Dis | Cefalosporinas orais de 3ª geração, de menor e mais variável biodisponibilidade, vs. cefalexina/cefaclor em cistite não complicada |
-| [38482607](https://pubmed.ncbi.nlm.nih.gov/38482607/) | 2024 | Coorte | J Antimicrob Chemother | Prescrição empírica para pielonefrite em 15 pronto-socorros dos EUA, com oportunidades de melhoria |
-| [30119986](https://pubmed.ncbi.nlm.nih.gov/30119986/) | 2018 | Coorte | Am J Emerg Med | Cefalosporinas vs. fluoroquinolona ou SMX-TMP em pielonefrite em pronto-socorro comunitário |
-| [36027632](https://pubmed.ncbi.nlm.nih.gov/36027632/) | 2022 | Coorte | Am J Emerg Med | Avaliação de antibióticos recomendados para ITU em pronto-socorros da fronteira EUA-México |
-| [22010614](https://pubmed.ncbi.nlm.nih.gov/22010614/) | 2011 | Revisão | Am Fam Physician | Diagnóstico e tratamento da cistite aguda não complicada |
-| [41769599](https://pubmed.ncbi.nlm.nih.gov/41769599/) | 2026 | Relato de caso | Cureus | Pielonefrite recorrente em quadriplegia e uso de cefdinir oral na presença de nefrolitíase |
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 100431524 | TERCEN |  | Ativo |
+| 100431506 | TERZA |  | Ativo |
+| 100431539 | CEFDINIR |  | Ativo |
 
 ## Considerações de Segurança
 
@@ -96,18 +85,6 @@ Pielonefrite (10 publicações mais relevantes listadas):
 
 Para advertências e contraindicações da bula, consulte a bula; os dados da ANVISA ainda não estão disponíveis.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-- A previsão de maior pontuação (hiperamilasemia) e as demais de topo não têm mecanismo plausível, ensaios nem literatura, sendo L5. Para a pielonefrite, existe literatura observacional, uma revisão sistemática e um RCT em que o cefdinir aparece apenas como terapia de transição (L3), sem ensaio de fase 2/3 que teste o cefdinir para essa indicação. Além disso, o fármaco não é comercializado no Brasil.
-
-**Para prosseguir, é necessário:**
-- Obter e analisar a bula da ANVISA (advertências e contraindicações), bloqueio atual para a triagem de segurança.
-- Obter dados do mecanismo de ação no DrugBank.
-- Para pielonefrite: estudos comparativos de cefdinir como step-down vs. alternativas, com desfechos de falha clínica e avaliação de exposição urinária.
-- Avaliar a viabilidade regulatória, já que não há registro no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

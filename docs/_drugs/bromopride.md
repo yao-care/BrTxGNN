@@ -8,6 +8,7 @@ nav_order: 158
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bromopride
@@ -49,7 +50,7 @@ Bromopride (DB09018) é um fármaco da classe das benzamidas substituídas, util
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (apenas dados de base, sem previsões) |
-| Situação no Mercado | ✗ Não comercializado |
+| Situação no Mercado | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | **Hold** |
 

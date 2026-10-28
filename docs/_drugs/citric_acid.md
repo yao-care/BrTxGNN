@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Citric Acid
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Moderada (L3-L4)
 nav_order: 225
-evidence_level: L5
+evidence_level: L4
 indication_count: 8
 last_modified_at: 2026-10-13
 description: "Citric Acid: nova indicação prevista, Doença gástrica (stomach disease) (nível de evidência L5). Indicação original: Antiácido (ANTIACIDO)"
@@ -14,7 +14,7 @@ predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngi
 # Citric Acid
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **8** 
+Nível de evidência: **L4** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser útil para **doença gástrica (stomach disea
 |------|------|
 | Indicação Original | Antiácido (ANTIACIDO) |
 | Nova Indicação Prevista | Doença gástrica (stomach disease) |
-| Pontuação de Previsão TxGNN | 99,74% |
+| Pontuação de Previsão TxGNN | 0,9974 |
 | Nível de Evidência | L4 (apenas estudos indiretos, sem ensaios clínicos; o nível L5 seria o estrito para ausência total de estudos reais) |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 11 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 11) |
+| Número de Registros | 11 (ativos: 11) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -93,7 +93,7 @@ Selecionadas as publicações mais relevantes (nenhuma é ensaio clínico random
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontram-se cancelados; atualmente não há produto de ácido cítrico isolado com registro válido.
+Há 11 registros válidos de 11 no Brasil; o medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -132,7 +132,7 @@ Para advertências e contraindicações de bula, consulte a bula, pois essas inf
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta, mas é em grande parte uma extensão da indicação antiácida original; não há ensaios clínicos e a literatura é indireta, sem demonstrar eficácia terapêutica. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão tem pontuação alta, mas é em grande parte uma extensão da indicação antiácida original; não há ensaios clínicos e a literatura é indireta, sem demonstrar eficácia terapêutica. No Brasil, o medicamento está comercializado, com 11 registros válidos de 11.
 
 **Para prosseguir, é necessário:**
 - Definir com precisão qual doença gástrica seria alvo (por exemplo, dispepsia, úlcera, refluxo) e se isso diverge da indicação antiácida já registrada

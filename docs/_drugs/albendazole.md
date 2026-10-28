@@ -4,17 +4,17 @@ title: Albendazole
 parent: Evidência Alta (L1-L2)
 nav_order: 34
 evidence_level: L2
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-13
 description: "Albendazole: nova indicação prevista, Equinococose alveolar (Alveolar Echinococcosis) (nível de evidência L2). Indicação original: Anti-helmínticos do trato gastrointestinal"
 monitor_inn: "Albendazole"
-predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease", "dermatofibrosarcoma protuberans", "lung benign neoplasm", "lung hilum carcinoma", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "fibroma of lung", "hamartoma of lung", "intestinal helminthiasis"]
+predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
 ---
 
 # Albendazole
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ atualmente com **3 ensaios clínicos** e **20 publicações** apoiando esta dire
 |------|------|
 | Indicação Original | Anti-helmínticos do trato gastrointestinal |
 | Nova Indicação Prevista | Equinococose alveolar (Alveolar Echinococcosis) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -87,7 +87,7 @@ Na prática, esta previsão está mais próxima de um uso já estabelecido da cl
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão **cancelados**; não há registro válido atualmente. Principais exemplos:
+Foram encontrados 20 registros válidos; o medicamento está comercializado. Principais exemplos:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -114,7 +114,7 @@ Há um ensaio de Phase 2 concluído (194 participantes) diretamente em equinococ
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA (advertências e contraindicações), pois a ausência desses dados é uma lacuna bloqueante para a triagem de segurança
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank)
-- Definir o caminho regulatório, já que todos os registros brasileiros estão cancelados
+- Definir o caminho regulatório, já que há 20 registros brasileiros válidos
 - Plano de monitoramento hematológico e hepático para uso prolongado, dado o risco de mielossupressão e hepatotoxicidade
 - Verificar interações com os medicamentos concomitantes do paciente
 

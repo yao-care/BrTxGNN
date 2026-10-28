@@ -4,17 +4,17 @@ title: Phenylbutazone
 parent: Evidência Moderada (L3-L4)
 nav_order: 523
 evidence_level: L3
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Phenylbutazone: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L3). Indicação original: Anti-inflamatórios antirreumáticos"
 monitor_inn: "Phenylbutazone"
-predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "sclerosing cholangitis", "osteoarthritis susceptibility", "osteoarthritis", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "myosclerosis"]
+predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "sclerosing cholangitis"]
 ---
 
 # Phenylbutazone
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L3** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Trata-se de uma previsão que reflete um uso histórico do fármaco, e não de u
 |------|------|
 | Indicação Original | Anti-inflamatórios antirreumáticos |
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
-| Pontuação de Previsão TxGNN | 99,82% |
+| Pontuação de Previsão TxGNN | 0,9982 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 2 (ambos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ---

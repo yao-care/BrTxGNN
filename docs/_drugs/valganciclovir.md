@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Valganciclovir
-parent: Evidência Moderada (L3-L4)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 662
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Valganciclovir: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L4). Indicação original: Sem indicação registrada no Brasil nos dados compilados (o fármaco é…"
-monitor_inn: "Valganciclovir"
-predicted_indications: ["rheumatoid arthritis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "laryngotracheitis", "osteoarthritis susceptibility", "trigeminal autonomic cephalalgia", "headache disorder", "tendinitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Valganciclovir: known uses and market status in Brazil; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Valganciclovir
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,62 +32,48 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Valganciclovir: Do tratamento de infecções por citomegalovírus à artrite reumatoide (previsão do modelo)
+<!-- known-uses-page -->
+<!-- description: Valganciclovir: known uses and market status in Brazil; currently no new candidate indication -->
+## Valganciclovir: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior a 0,99 para o Valganciclovir, portanto, no momento, não há nova indicação prevista. Os usos registrados para este medicamento são listados abaixo.
 
-Valganciclovir é um pró-fármaco do ganciclovir, antiviral usado contra o citomegalovírus (CMV); não há indicação aprovada registrada no Brasil nos dados compilados para este relatório.
-O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid Arthritis)**, mas atualmente há **0 ensaios clínicos** e **14 publicações** recuperadas, quase todas relatos de caso e revisões sobre infecção por CMV em pacientes com artrite reumatoide, e não sobre tratamento da própria doença.
-
----
-
-## Visão Geral Rápida
-
+## Visão geral rápida
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Sem indicação registrada no Brasil nos dados compilados (o fármaco é conhecido como antiviral contra CMV) |
-| Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
-| Pontuação de Previsão TxGNN | 98,97% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Hold |
+| Novas indicações previstas | Nenhuma (nenhum candidato do modelo obteve pontuação igual ou superior a 0,99) |
+| Usos conhecidos registrados para este medicamento | 0 |
+| Nível de evidência | Não aplicável |
+| Situação de mercado no Brasil | Comercializado (registros ativos: 2 de 4) |
+| Número de Registros | 4 (ativos: 2) |
 
----
+## Usos conhecidos registrados para este medicamento
 
-## Por que Esta Previsão é Razoável?
+### Aprovados (com respaldo em registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| Nenhum | Nenhum |
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o valganciclovir é um pró-fármaco do ganciclovir, que inibe a DNA polimerase do CMV. Sua eficácia está estabelecida em infecções por CMV, mas isso não se traduz em um mecanismo antirreumático direto.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhum | Nenhum |
 
-A relação entre a indicação original e a nova indicação é fraca. A literatura recuperada trata de infecções por CMV (ileocolite, retinite) em pacientes com artrite reumatoide em uso de imunossupressores, como tofacitinibe e metotrexato. Nesses casos, o fármaco trata uma infecção oportunista, não a artrite reumatoide em si. A pontuação alta do modelo (0,99) provavelmente reflete a associação da doença com complicações por CMV, e não atividade modificadora da doença.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Nenhum |
 
-Há um único sinal pré-clínico: um estudo recente (2026) combinou análises *in silico*, *in vitro* e *in vivo* e sugeriu que o cloridrato de valganciclovir poderia modular a sinalização inflamatória mediada pelo receptor de IL-6. Trata-se de resultado preliminar, que exige confirmação independente.
+## Market information
 
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
----
-
-## Evidências da Literatura
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [42820990](https://pubmed.ncbi.nlm.nih.gov/42820990/) | 2026 | Pré-clínico (*in silico*/*in vitro*/*in vivo*) | Naunyn-Schmiedeberg's Arch Pharmacol | Reposicionamento de fármacos aprovados na via da IL-6; valganciclovir apontado como possível modulador da sinalização do receptor de IL-6 |
-| [26150269](https://pubmed.ncbi.nlm.nih.gov/26150269/) | 2015 | Relato de caso/revisão | Reumatismo | Ileocolite por CMV em paciente com artrite reumatoide sob imunossupressores |
-| [18068874](https://pubmed.ncbi.nlm.nih.gov/18068874/) | 2008 | Revisão | La Revue de Médecine Interne | Manejo de infecções por CMV em pacientes imunossuprimidos com doenças inflamatórias crônicas; ausência de diretrizes |
-| [41792858](https://pubmed.ncbi.nlm.nih.gov/41792858/) | 2026 | Revisão | Int J Retina Vitreous | Retinite infecciosa, incluindo por CMV, associada a inibidores de JAK |
-| [41779881](https://pubmed.ncbi.nlm.nih.gov/41779881/) | 2025 | Relato de caso | Retinal Cases & Brief Reports | Retinite por CMV em dois pacientes com artrite reumatoide em uso de tofacitinibe |
-| [41526852](https://pubmed.ncbi.nlm.nih.gov/41526852/) | 2026 | Relato de caso | BMC Ophthalmology | Retinite por CMV com isquemia retiniana e hemorragia vítrea em paciente em uso de upadacitinibe |
-| [28389165](https://pubmed.ncbi.nlm.nih.gov/28389165/) | 2017 | Relato de caso | J Infect Chemother | Retinite por CMV e uveíte de recuperação imune em idoso com artrite reumatoide sob metotrexato e tofacitinibe |
-| [15494900](https://pubmed.ncbi.nlm.nih.gov/15494900/) | 2004 | Relato de caso | Clin Infect Dis | Retinite por CMV em paciente tratado com anti-TNF-alfa para artrite reumatoide |
-| [23904414](https://pubmed.ncbi.nlm.nih.gov/23904414/) | 2013 | Relato de caso | BMJ Case Reports | Gastrite por CMV e *H. pylori* em paciente com artrite reumatoide em uso de metotrexato |
-| [32613063](https://pubmed.ncbi.nlm.nih.gov/32613063/) | 2020 | Relato de caso | JAAD Case Reports | Vasculite reumatoide refratária com reativação de CMV |
-
----
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 189770003 | VALCYTE |  | Ativo |
+| 101000593 | VALCYTE |  | Cancelado |
+| 151430049 | CLORIDRATO DE VALGANCICLOVIR |  | Ativo |
+| 151430052 | MAFUSA |  | Cancelado |
 
 ## Considerações de Segurança
 
@@ -100,19 +85,6 @@ Para advertências e contraindicações, consulte a bula.
 
 ---
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-- Não há ensaios clínicos nem evidência de eficácia do valganciclovir contra a artrite reumatoide; a literatura descreve o tratamento de infecções por CMV em pacientes com a doença. A única sugestão de efeito direto vem de um estudo pré-clínico isolado. Além disso, o fármaco não tem registro comercializado no Brasil.
-
-**Para prosseguir, é necessário:**
-- Confirmar de forma independente o sinal pré-clínico sobre a via da IL-6, com modelos adicionais de artrite.
-- Obter dados detalhados do mecanismo de ação.
-- Obter advertências e contraindicações na bula, que não estavam disponíveis nos dados compilados.
-- Verificar a situação regulatória no Brasil, já que não há registro comercializado.
-- Considerar que, na artrite reumatoide, o uso mais plausível do fármaco continua sendo a profilaxia ou o tratamento de infecções por CMV em pacientes imunossuprimidos, e não como terapia modificadora da doença.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

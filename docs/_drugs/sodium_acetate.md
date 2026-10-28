@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Sodium Acetate: nova indicação prevista, Deficiência congênita de protrombina (congenital prothrombin deficien… (nível de evidência L5). Indicação original: Produtos para hemodiálise"
 monitor_inn: "Sodium acetate"
-predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "Ureaplasma urethritis", "gonococcal urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
+predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "gonococcal urethritis", "Ureaplasma urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
 ---
 
 # Sodium Acetate
@@ -48,9 +48,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Produtos para hemodiálise |
 | Nova Indicação Prevista | Deficiência congênita de protrombina (congenital prothrombin deficiency) |
-| Pontuação de Previsão TxGNN | 99,98% |
+| Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -58,9 +58,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o acetato de sódio atua como fonte de eletrólitos e agente alcalinizante: o acetato é metabolizado no organismo em bicarbonato, o que explica seu uso em soluções de hemodiálise, em soluções de reposição hidroeletrolítica (como o Ringer com lactato) e no tratamento da acidose metabólica.
 
-A deficiência congênita de protrombina, por sua vez, é uma deficiência do fator de coagulação II e exige reposição do fator. Não há vínculo mecanístico plausível com as propriedades eletrolíticas ou alcalinizantes do acetato de sódio. A pontuação alta (99,98%) reflete uma previsão baseada em grafo de conhecimento, sem respaldo clínico ou da literatura.
+A deficiência congênita de protrombina, por sua vez, é uma deficiência do fator de coagulação II e exige reposição do fator. Não há vínculo mecanístico plausível com as propriedades eletrolíticas ou alcalinizantes do acetato de sódio. A pontuação alta (0,9998) reflete uma previsão do modelo TxGNN (aprendizado profundo), sem respaldo clínico ou da literatura.
 
-Para contexto, as demais indicações previstas também carecem de respaldo: epiglotite, infecção do trato urinário, colangite esclerosante, uretrites por *Ureaplasma* e gonocócica, dispepsia, doença inflamatória uterina, gastroparesia e pielonefrite xantogranulomatosa. Nenhuma tem ensaio clínico. Para dispepsia e gastroparesia, a literatura recuperada trata do acetato de sódio marcado com ¹³C apenas como traçador diagnóstico em testes respiratórios de esvaziamento gástrico, e não como tratamento. Os escores idênticos das uretrites por *Ureaplasma* e gonocócica sugerem um artefato do grafo.
+Para contexto, as demais indicações previstas também carecem de respaldo: epiglotite, infecção do trato urinário, colangite esclerosante, uretrites por *Ureaplasma* e gonocócica, dispepsia, doença inflamatória uterina, gastroparesia e pielonefrite xantogranulomatosa. Nenhuma tem ensaio clínico. Para dispepsia e gastroparesia, a literatura recuperada trata do acetato de sódio marcado com ¹³C apenas como traçador diagnóstico em testes respiratórios de esvaziamento gástrico, e não como tratamento. Os escores idênticos das uretrites por *Ureaplasma* e gonocócica (0,9957) vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica.
 
 ## Evidências de Ensaios Clínicos
 
@@ -72,7 +72,7 @@ Atualmente não há literatura relacionada para a indicação prevista principal
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados; não há registro válido no momento. Principais registros (5 de 20):
+Há 20 registros válidos no Brasil e o medicamento está comercializado. Principais registros (5 de 20):
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -94,7 +94,7 @@ Todos os 20 registros estão cancelados; não há registro válido no momento. P
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é puramente baseada em grafo (nível L5), sem ensaios clínicos nem literatura, e sem vínculo mecanístico plausível com a deficiência de protrombina. Além disso, todos os registros no Brasil estão cancelados.
+- A previsão vem do modelo TxGNN (deep learning) (nível L5), sem ensaios clínicos nem literatura, e sem vínculo mecanístico plausível com a deficiência de protrombina; o escore pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica. Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) a partir de fontes como o DrugBank

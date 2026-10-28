@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Salicylamide
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 578
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Salicylamide: nova indicação prevista, Faringite (Pharyngitis) (nível de evidência L4). Indicação original: Produtos para terapia sintomática da gripe"
 monitor_inn: "salicylamide"
@@ -14,7 +14,7 @@ predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopha
 # Salicylamide
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **0 ensaios clínicos** e **1 publicação** (um relato de 1953) 
 |------|------|
 | Indicação Original | Produtos para terapia sintomática da gripe |
 | Nova Indicação Prevista | Faringite (Pharyngitis) |
-| Pontuação de Previsão TxGNN | 99,98% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado (não comercializado) |
-| Número de Registros | 1 |
+| Pontuação de Previsão TxGNN | 0,9998 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

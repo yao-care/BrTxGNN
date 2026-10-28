@@ -47,9 +47,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Insônia (insomnia)**, mas atua
 |------|------|
 | Indicação Original | Relaxante muscular esquelético de ação central (sem texto de indicação aprovada nos dados de registro) |
 | Nova Indicação Prevista | Insônia (insomnia) |
-| Pontuação de Previsão TxGNN | 99,02% |
+| Pontuação de Previsão TxGNN | 0,9902 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 9) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 Essa farmacologia sedativa oferece um elo teórico plausível com a insônia: a depressão do sistema nervoso central pode favorecer o início e a manutenção do sono. Contudo, essa ligação foi inferida da farmacologia geral e não de dados fornecidos.
 
-A pontuação elevada do TxGNN (99,02%) é uma previsão computacional e não equivale a evidência clínica. Não há dados sobre a similaridade entre a indicação original e a nova indicação.
+A pontuação elevada do TxGNN (0,9902) é uma previsão computacional e não equivale a evidência clínica. Não há dados sobre a similaridade entre a indicação original e a nova indicação.
 
 ## Evidências de Ensaios Clínicos
 

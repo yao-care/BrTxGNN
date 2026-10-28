@@ -6,9 +6,9 @@ nav_order: 317
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Filgrastim: nova indicação prevista, Distúrbio de liberação primário das plaquetas (primary release disord… (nível de evidência L5). Indicação original: Neutropenia constitucional, neutropenia congên…"
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
+description: "Filgrastim: nova indicação prevista, Distúrbio de liberação primário das plaquetas (primary release disorder of platelets) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Filgrastim
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Filgrastim: De neutropenia constitucional a distúrbio de liberação plaquetária primário
+## Filgrastim: Distúrbio de liberação primário das plaquetas (primary release disorder of platelets)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,11 +45,11 @@ O modelo TxGNN prevê que pode ser eficaz para **distúrbio de liberação prim�
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Neutropenia constitucional, neutropenia congênita grave, hematopoese cíclica, neutropenia crônica familiar (segundo o grafo de conhecimento do TxGNN) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Distúrbio de liberação primário das plaquetas (primary release disorder of platelets) |
-| Pontuação de Previsão TxGNN | 99,998% |
+| Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -57,21 +57,21 @@ O modelo TxGNN prevê que pode ser eficaz para **distúrbio de liberação prim�
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o filgrastim é um análogo do G-CSF que atua sobre progenitores da linhagem neutrofílica por meio do receptor de G-CSF, e sua eficácia em neutropenias constitucionais está estabelecida.
 
-A relação entre a indicação original e a nova é fraca. Os distúrbios de liberação plaquetária são defeitos intrínsecos da função das plaquetas, enquanto o filgrastim atua sobre a linhagem de neutrófilos. Não há mecanismo estabelecido que ligue o fármaco à correção desses defeitos. A pontuação alta do TxGNN (0,99998) reflete uma previsão baseada em grafo, sem respaldo de ensaios ou literatura.
+A relação entre a indicação original e a nova é fraca. Os distúrbios de liberação plaquetária são defeitos intrínsecos da função das plaquetas, enquanto o filgrastim atua sobre a linhagem de neutrófilos. Não há mecanismo estabelecido que ligue o fármaco à correção desses defeitos. A pontuação alta do modelo TxGNN (deep learning) (1,0000) pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, e não há respaldo de ensaios ou literatura.
 
 **Outras indicações previstas (todas nível L5, decisão Hold):**
 
 | Posição | Indicação prevista | Pontuação TxGNN | Observação |
 |---|---|---|---|
-| 2 | Pseudo-doença de von Willebrand | 99,997% | Defeito de ganho de função da GPIbα plaquetária; sem efeito conhecido do G-CSF |
-| 3 | Trombastenia de Glanzmann | 99,996% | Deficiência da integrina αIIbβ3; fora da via do filgrastim |
-| 4 | Síndrome de Scott | 99,956% | Defeito de TMEM16F/ANO6; sem conexão mecanística documentada |
-| 5 | Distúrbio hemorrágico por trombocitopenia constitucional | 99,911% | G-CSF não impulsiona a megacariopoese; relevância apenas indireta |
-| 6 | Diátese hemorrágica por defeito de receptor de colágeno | 99,910% | Sem ação conhecida sobre GPVI ou α2β1 |
-| 7 | Deficiência de inibidor de C1 | 99,843% | Via do complemento/sistema de contato; sem papel do G-CSF |
-| 8 | Serpinopatia com polimerização tóxica de serpina | 99,815% | Não atua sobre dobramento incorreto de proteínas |
-| 9 | Trombocitopenia aloimune fetal e neonatal | 99,768% | Manejo baseado em IVIG e transfusão; G-CSF sem papel conhecido |
-| 10 | Distúrbio hemorrágico do tipo plaquetário | 99,690% | Único com ensaios associados (indiretos, transplante) |
+| 2 | Pseudo-doença de von Willebrand | 1,0000 | Defeito de ganho de função da GPIbα plaquetária; sem efeito conhecido do G-CSF |
+| 3 | Trombastenia de Glanzmann | 1,0000 | Deficiência da integrina αIIbβ3; fora da via do filgrastim |
+| 4 | Síndrome de Scott | 0,9996 | Defeito de TMEM16F/ANO6; sem conexão mecanística documentada |
+| 5 | Distúrbio hemorrágico por trombocitopenia constitucional | 0,9991 | G-CSF não impulsiona a megacariopoese; relevância apenas indireta |
+| 6 | Diátese hemorrágica por defeito de receptor de colágeno | 0,9991 | Sem ação conhecida sobre GPVI ou α2β1 |
+| 7 | Deficiência de inibidor de C1 | 0,9984 | Via do complemento/sistema de contato; sem papel do G-CSF |
+| 8 | Serpinopatia com polimerização tóxica de serpina | 0,9981 | Não atua sobre dobramento incorreto de proteínas |
+| 9 | Trombocitopenia aloimune fetal e neonatal | 0,9977 | Manejo baseado em IVIG e transfusão; G-CSF sem papel conhecido |
+| 10 | Distúrbio hemorrágico do tipo plaquetário | 0,9969 | Único com ensaios associados (indiretos, transplante) |
 
 ## Evidências de Ensaios Clínicos
 
@@ -91,7 +91,6 @@ Para fins de contexto, o único item da lista com ensaios associados é o distú
 
 ## Informações de Comercialização no Brasil
 
-O filgrastim não possui registros ativos nos dados compilados para este relatório (situação: não comercializado; 0 registros).
 
 ## Considerações de Segurança
 
@@ -109,7 +108,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para distúrbio de liberação primário das plaquetas é apenas computacional (L5), sem ensaios nem literatura, e não há mecanismo plausível que ligue o G-CSF a defeitos intrínsecos da função plaquetária. Além disso, o fármaco não está comercializado no Brasil.
+- A previsão para distúrbio de liberação primário das plaquetas é apenas computacional (L5), sem ensaios nem literatura, e não há mecanismo plausível que ligue o G-CSF a defeitos intrínsecos da função plaquetária.
 
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (MOA) para permitir análise da ligação mecanística

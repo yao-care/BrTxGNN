@@ -48,17 +48,17 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antineoplásico |
 | Nova Indicação Prevista | Carcinoma de mama HER2-positivo (HER2 positive breast carcinoma) |
-| Pontuação de Previsão TxGNN | 99,34% |
+| Pontuação de Previsão TxGNN | 0,9934 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o polatuzumabe vedotina é um ADC que tem como alvo o CD79b e entrega o agente desestabilizador de microtúbulos monometil auristatina E (MMAE). Seu uso aprovado é em neoplasias de células B, nas quais o CD79b é expresso.
 
-A pontuação do TxGNN (0,993) é uma previsão baseada em grafo de conhecimento. Os dados compilados não sustentam um vínculo mecanístico direto com o carcinoma de mama HER2-positivo: o CD79b não é um alvo reconhecido em câncer de mama. O sinal do modelo pode refletir a semelhança de carga citotóxica (MMAE, compartilhada com outros ADCs, como brentuximabe vedotina e enfortumabe vedotina) ou de classe do fármaco, e não a biologia do alvo.
+A pontuação do TxGNN (0,9934) é uma previsão do modelo TxGNN (aprendizado profundo). Os dados compilados não sustentam um vínculo mecanístico direto com o carcinoma de mama HER2-positivo: o CD79b não é um alvo reconhecido em câncer de mama. O sinal do modelo pode refletir a semelhança de carga citotóxica (MMAE, compartilhada com outros ADCs, como brentuximabe vedotina e enfortumabe vedotina) ou de classe do fármaco, e não a biologia do alvo.
 
 Além disso, o câncer de mama HER2-positivo já conta com ADCs estabelecidos que atuam por entrega dirigida ao HER2 (trastuzumabe entansina e trastuzumabe deruxtecana). Qualquer justificativa para o polatuzumabe vedotina nesse contexto seria especulativa e exigiria validação pré-clínica, como o perfil de expressão de CD79b em tumores de mama.
 

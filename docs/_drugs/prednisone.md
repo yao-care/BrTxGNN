@@ -50,9 +50,9 @@ atualmente com **nenhum ensaio clínico registrado** e **20 publicações** recu
 |------|------|
 | Indicação Original | Hormônios corticosteroides / Glicocorticoides sistêmicos |
 | Nova Indicação Prevista | Alopecia areata (Alopecia Areata) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -93,7 +93,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão cancelados; abaixo estão os 5 principais.
+Foram encontrados 20 registros válidos; abaixo estão os 5 principais.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -130,7 +130,7 @@ Consulte a bula para as advertências e contraindicações oficiais.
 - Obter advertências e contraindicações da bula na ANVISA, hoje ausentes.
 - Obter dados detalhados do mecanismo de ação (MOA) no DrugBank.
 - Definir esquema posológico (pulso, baixa dose, associações) e plano de monitoramento de segurança (pressão arterial, glicemia, infecções, densidade óssea).
-- Avaliar a situação regulatória: todos os 20 registros estão cancelados, sendo necessário verificar novo registro ou outro caminho de acesso.
+- Avaliar a situação regulatória: o medicamento é comercializado no país, com 20 registros válidos.
 
 ---
 
@@ -138,15 +138,15 @@ Consulte a bula para as advertências e contraindicações oficiais.
 
 | Posição | Indicação | Pontuação TxGNN | Evidência | Recomendação |
 |------|------|------|------|------|
-| 2 | Alopecia mucinosa | 99,99% | L4 | Hold |
-| 3 | Eflúvio telógeno | 99,99% | L5 | Hold |
-| 4 | Foliculite decalvante de Quinquaud | 99,99% | L5 | Hold |
-| 5 | Alopecia com deficiência de anticorpos | 99,99% | L5 | Hold |
-| 6 | Hipotricose hereditária com vesículas cutâneas recorrentes | 99,99% | L5 | Hold |
-| 7 | Síndrome alopecia–deficiência intelectual–hipogonadismo hipergonadotrófico | 99,99% | L5 | Hold |
-| 8 | Atriquia com lesões papulares | 99,95% | L5 | Hold |
-| 9 | Tenossinovite | 99,80% | L4 | Questão de pesquisa |
-| 10 | Prolapso da glândula lacrimal | 99,66% | L5 | Hold |
+| 2 | Alopecia mucinosa | 0,9999 | L5 | Hold |
+| 3 | Eflúvio telógeno | 0,9999 | L5 | Hold |
+| 4 | Foliculite decalvante de Quinquaud | 0,9999 | L5 | Hold |
+| 5 | Alopecia com deficiência de anticorpos | 0,9999 | L5 | Hold |
+| 6 | Hipotricose hereditária com vesículas cutâneas recorrentes | 0,9999 | L5 | Hold |
+| 7 | Síndrome alopecia–deficiência intelectual–hipogonadismo hipergonadotrófico | 0,9999 | L5 | Hold |
+| 8 | Atriquia com lesões papulares | 0,9995 | L5 | Hold |
+| 9 | Tenossinovite | 0,9980 | L4 | Questão de pesquisa |
+| 10 | Prolapso da glândula lacrimal | 0,9966 | L5 | Hold |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

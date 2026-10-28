@@ -8,6 +8,7 @@ nav_order: 490
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ornitina Hydrochloride
@@ -51,8 +52,8 @@ pois a ausência de DrugBank ID e de registros ANVISA impede o mapeamento corret
 | Nova Indicação Prevista | Nenhuma previsão TxGNN gerada |
 | Pontuação de Previsão TxGNN | Indisponível |
 | Nível de Evidência | L5 (dados insuficientes para previsão) |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ---

@@ -50,10 +50,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Monovitaminas, exceto vitamina K |
 | Nova Indicação Prevista | Colangite Esclerosante (Sclerosing Cholangitis) |
-| Pontuação de Previsão TxGNN | 99,50% |
+| Pontuação de Previsão TxGNN | 0,9950 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 12 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
+| Número de Registros | 12 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -62,15 +62,15 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a mecobalamina é uma forma ativa da vitamina B12, que atua na metilação e no metabolismo de um carbono, apoiando a função metabólica neuronal e hepática. Sua utilização estabelecida é como suplemento vitamínico.
 
-Não há, nos dados compilados para este relatório, uma ligação direta entre esse papel metabólico e a colangite esclerosante, doença caracterizada por colestase e fibrose biliar de base imunomediada. A pontuação elevada do TxGNN (99,50%) reflete uma associação derivada do grafo de conhecimento, sem respaldo empírico. Sem dados de mecanismo de ação original, a plausibilidade mecanística não pode ser avaliada com mais profundidade.
+Não há, nos dados compilados para este relatório, uma ligação direta entre esse papel metabólico e a colangite esclerosante, doença caracterizada por colestase e fibrose biliar de base imunomediada. A pontuação elevada do TxGNN (0,9950) vem do modelo TxGNN (deep learning) e pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Sem dados de mecanismo de ação original, a plausibilidade mecanística não pode ser avaliada com mais profundidade.
 
-Outras previsões do modelo, também sem evidências, foram: neoplasia endócrina múltipla (99,34%) e doença óssea de Paget (99,31%). No primeiro caso, trata-se de uma síndrome tumoral hereditária de origem genética (por exemplo, *MEN1*, *RET*), sem mecanismo plausível para um análogo da vitamina B12; a associação provavelmente é um artefato de propagação no grafo. No segundo, há apenas discussões indiretas na literatura sobre vitamina B12/homocisteína e metabolismo ósseo, não sustentadas pelos dados aqui compilados.
+Outras previsões do modelo, também sem evidências, foram: neoplasia endócrina múltipla (0,9934) e doença óssea de Paget (0,9931). No primeiro caso, trata-se de uma síndrome tumoral hereditária de origem genética (por exemplo, *MEN1*, *RET*), sem mecanismo plausível para um análogo da vitamina B12; a pontuação provavelmente reflete similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica. No segundo, há apenas discussões indiretas na literatura sobre vitamina B12/homocisteína e metabolismo ósseo, não sustentadas pelos dados aqui compilados.
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-Todos os 12 registros encontrados estão **cancelados**; não há registro válido atualmente. Principais registros:
+Todos os 12 registros encontrados estão **válidos**. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -98,7 +98,7 @@ Consulte a bula para advertências e contraindicações formais.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura que sustentem a indicação prevista (nível L5), e a pontuação alta do TxGNN, isoladamente, não estabelece vínculo terapêutico. Além disso, todos os registros brasileiros estão cancelados.
+- Não há ensaios clínicos nem literatura que sustentem a indicação prevista (nível L5), e a pontuação alta do TxGNN, isoladamente, não estabelece vínculo terapêutico. Além disso, o medicamento é comercializado no Brasil, com 12 registros válidos de 12.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA para advertências e contraindicações (lacuna de dados bloqueante para a triagem de segurança).

@@ -4,7 +4,7 @@ title: Dupilumab
 parent: Evidência Moderada (L3-L4)
 nav_order: 280
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Dupilumab: nova indicação prevista, Bronquite (Bronchitis) (nível de evidência L3). Indicação original: Imunomodulador"
 monitor_inn: "dupilumab"
@@ -14,7 +14,7 @@ predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neon
 # Dupilumab
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L3** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **1 ensaio clínico** (indireto, em rinossinusite crônica) e **1
 |------|------|
 | Indicação Original | Imunomodulador |
 | Nova Indicação Prevista | Bronquite (Bronchitis) |
-| Pontuação de Previsão TxGNN | 99,92% |
+| Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -116,7 +116,6 @@ Consulte a bula para advertências e contraindicações.
 
 ### Observação sobre outras indicações previstas
 
-Fora da indicação principal acima, os dados compilados mostram que a **dermatite** (pontuação 99,71%) tem evidência L1, com múltiplos ensaios de fase 3 concluídos, e decisão sugerida **Proceed with Guardrails**. Trata-se, na prática, de uma indicação já estabelecida (dermatite atópica), e não de reposicionamento em sentido estrito. Merece avaliação prioritária, com monitoramento de conjuntivite e reações psoriasiformes, e verificação da disponibilidade regional atual.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

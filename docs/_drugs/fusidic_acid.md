@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Fusidic Acid
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 330
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Fusidic Acid: nova indicação prevista, Ceratite de exposição (exposure keratitis) (nível de evidência L4). Indicação original: Antiinfecciosos tópicos"
@@ -14,7 +14,7 @@ predicted_indications: ["exposure keratitis", "non-human animal disease", "otiti
 # Fusidic Acid
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **ceratite de exposição (exposu
 |------|------|
 | Indicação Original | Antiinfecciosos tópicos |
 | Nova Indicação Prevista | Ceratite de exposição (exposure keratitis) |
-| Pontuação de Previsão TxGNN | 99,95% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 5 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9995 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -81,7 +81,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | Registro nº 110130273 | DERMOTIL FUSID | Não informada | Antiinfecciosos tópicos – associações medicamentosas |
 | Registro nº 118190298 | ÁCIDO FUSÍDICO + VALERATO DE BETAMETASONA | Não informada | Antimicóticos para uso tópico |
 
-Todos os cinco registros constam como cancelados.
+Os cinco registros constam como válidos.
 
 ## Considerações de Segurança
 
@@ -95,7 +95,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta no modelo, mas sem ensaios clínicos e com uma única série de casos que não envolve o ácido fusídico (nível L4). Além disso, todos os registros no Brasil estão cancelados e não há dados de segurança de bula.
+- A previsão tem pontuação alta no modelo, mas sem ensaios clínicos e com uma única série de casos que não envolve o ácido fusídico (nível L4). Além disso, o medicamento é comercializado no Brasil, com 5 registros válidos de 5, e não há dados de segurança de bula.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança.

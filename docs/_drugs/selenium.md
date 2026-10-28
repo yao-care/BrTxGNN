@@ -4,17 +4,17 @@ title: Selenium
 parent: Evidência Moderada (L3-L4)
 nav_order: 581
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Selenium: nova indicação prevista, Colangite Esclerosante (Sclerosing Cholangitis) (nível de evidência L4). Indicação original: Não disponível"
 monitor_inn: "Selenium"
-predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "obsolete hyperuricemia (disease)", "hypotrichosis simplex of the scalp", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hepatic porphyria", "congenital hypotrichosis milia", "hypouricemia, renal", "congestive heart failure", "hepatopulmonary syndrome"]
+predicted_indications: ["sclerosing cholangitis"]
+description: "Selenium: nova indicação prevista, Colangite Esclerosante (sclerosing cholangitis) (nível de evidência L4). Indicação original: Não consta nos dados locais"
 ---
 
 # Selenium
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Selênio: Da nutrição essencial à previsão para colangite esclerosante
+## Selenium: Colangite Esclerosante (sclerosing cholangitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 O selênio é um oligoelemento essencial, componente de selenoproteínas antioxidantes. Não há indicação aprovada registrada no Brasil nos dados compilados para este relatório.
-O modelo TxGNN prevê que pode ser eficaz para **Colangite Esclerosante (Sclerosing Cholangitis)**, mas **não há ensaios clínicos** e apenas **5 publicações** indiretas (observacionais, pré-clínicas ou de revisão) apoiam esta direção. A indicação com evidência clínica mais robusta em andamento é a **insuficiência cardíaca congestiva**, com 4 ensaios de Fase 3 (3 em recrutamento).
+O modelo TxGNN prevê que pode ser eficaz para **Colangite Esclerosante (Sclerosing Cholangitis)**, mas **não há ensaios clínicos** e apenas **5 publicações** indiretas (observacionais, pré-clínicas ou de revisão) apoiam esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível (nenhuma indicação aprovada registrada) |
-| Nova Indicação Prevista | Colangite Esclerosante (Sclerosing Cholangitis) |
-| Pontuação de Previsão TxGNN | 99,04% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Colangite Esclerosante (sclerosing cholangitis) |
+| Pontuação de Previsão TxGNN | 0.9904 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 4 de 4) |
+| Número de Registros | 4 (ativos: 0) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,13 +59,12 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 Na colangite esclerosante primária (CEP), a literatura mostra apenas observações indiretas: retenção hepática alterada de cobre e selênio em 32 pacientes (1995), inquéritos sobre a dieta de pessoas com CEP e estudos pré-clínicos ou de nutrição parenteral. Esses dados sugerem um possível papel do estado de oligoelementos e do dano oxidativo na lesão colestática, mas nenhum estudo mostra que a suplementação de selênio modifique a evolução da doença.
 
-A pontuação alta do TxGNN (99,04%) é uma previsão computacional, sem respaldo clínico. Por isso, a recomendação para esta indicação é cautelosa (Hold).
+A pontuação alta do TxGNN (0,9904) é uma previsão computacional, sem respaldo clínico. Por isso, a recomendação para esta indicação é cautelosa (Hold).
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados para colangite esclerosante.
 
-> Nota: para a segunda indicação mais relevante em termos de evidência, a **insuficiência cardíaca congestiva** (pontuação TxGNN de 92,07%, nível L2), existem os ensaios abaixo:
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|

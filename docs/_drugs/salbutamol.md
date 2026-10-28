@@ -4,17 +4,17 @@ title: Salbutamol
 parent: Apenas Predição do Modelo (L5)
 nav_order: 577
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
-description: "Salbutamol: nova indicação prevista, Conjuntivite Papilar (Papillary Conjunctivitis) (nível de evidência L5). Indicação original: Asma"
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+description: "Salbutamol: nova indicação prevista, Conjuntivite Papilar (papillary conjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Salbutamol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Salbutamol: Da asma à conjuntivite papilar
+## Salbutamol: Conjuntivite Papilar (papillary conjunctivitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,11 +47,11 @@ O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite Papilar (Papillary
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Asma; doença brônquica (conforme o grafo de conhecimento do TxGNN, pois não há registros no Brasil) |
-| Nova Indicação Prevista | Conjuntivite Papilar (Papillary Conjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,996% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Conjuntivite Papilar (papillary conjunctivitis) |
+| Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -122,8 +122,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Para a conjuntivite papilar, a previsão do TxGNN é alta (99,996%), mas não há ensaios nem literatura: evidência L5, somente previsão do modelo.
-- O produto não está comercializado no Brasil (0 registros), e os dados de bula e de mecanismo de ação estão ausentes.
+- Para a conjuntivite papilar, a previsão do TxGNN é alta (1,0000), mas não há ensaios nem literatura: evidência L5, somente previsão do modelo.
 
 **Outras indicações previstas (para priorização):**
 - **Doença pulmonar obstrutiva (L1, Proceed with Guardrails):** há Phase 3 concluído (NCT02177253, n=1118), mas testa uma combinação e se sobrepõe ao uso original, sendo quase uma indicação já estabelecida, não um reposicionamento genuíno.

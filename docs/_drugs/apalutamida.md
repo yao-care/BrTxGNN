@@ -8,6 +8,7 @@ nav_order: 71
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Apalutamida
@@ -47,8 +48,8 @@ Apalutamida é um inibidor do receptor androgênico (AR), aprovado no Brasil par
 | Nova Indicação Prevista | Não disponível |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

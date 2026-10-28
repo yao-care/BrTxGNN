@@ -8,6 +8,7 @@ nav_order: 180
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Calcium Chloride
@@ -51,8 +52,8 @@ Sem novas indicações previstas e com lacunas críticas de dados, a avaliação
 | Nova Indicação Prevista | Nenhuma previsão TxGNN gerada |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão do modelo) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 14) |
+| Número de Registros | 14 (ativos: 14) |
 | Decisão Recomendada | Hold |
 
 ---

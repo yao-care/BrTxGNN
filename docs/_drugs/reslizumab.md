@@ -48,23 +48,23 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Outros medicamentos antiasmáticos |
 | Nova Indicação Prevista | Trombocitopenia por destruição imune (thrombocytopenia due to immune destruction) |
-| Pontuação de Previsão TxGNN | 99,53% |
+| Pontuação de Previsão TxGNN | 0,9953 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Reslizumabe é um anticorpo monoclonal anti-IL-5, que reduz os sinais de sobrevivência e ativação dos eosinófilos. Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório; a descrição acima baseia-se em conhecimento geral sobre a classe do fármaco.
 
-A relação com a trombocitopenia imune é, por ora, apenas uma previsão do modelo (pontuação de 0,995). Os dados compilados não sustentam um papel estabelecido do bloqueio de IL-5 na destruição plaquetária mediada por mecanismos imunes. A indicação original (asma, doença com componente eosinofílico) e a nova indicação (doença autoimune hematológica) são distintas, e a similaridade entre elas ainda não foi avaliada.
+A relação com a trombocitopenia imune é, por ora, apenas uma previsão do modelo (pontuação de 0,9953). Os dados compilados não sustentam um papel estabelecido do bloqueio de IL-5 na destruição plaquetária mediada por mecanismos imunes. A indicação original (asma, doença com componente eosinofílico) e a nova indicação (doença autoimune hematológica) são distintas, e a similaridade entre elas ainda não foi avaliada.
 
 Portanto, a plausibilidade mecanística é limitada e exige investigação adicional antes de qualquer avanço.
 
 ### Outra previsão do modelo
 
-O modelo também previu o **distúrbio primário de liberação plaquetária** (pontuação de 99,25%). A única publicação associada é uma revisão sobre o manejo da síndrome hipereosinofílica, incluindo o mepolizumabe (outro anti-IL-5). Ela trata de doença eosinofílica, não de distúrbios plaquetários, e oferece apenas contexto indireto sobre o bloqueio de IL-5, sem evidência clínica para essa indicação. Nenhum ensaio clínico foi identificado.
+O modelo também previu o **distúrbio primário de liberação plaquetária** (pontuação de 0,9925). A única publicação associada é uma revisão sobre o manejo da síndrome hipereosinofílica, incluindo o mepolizumabe (outro anti-IL-5). Ela trata de doença eosinofílica, não de distúrbios plaquetários, e oferece apenas contexto indireto sobre o bloqueio de IL-5, sem evidência clínica para essa indicação. Nenhum ensaio clínico foi identificado.
 
 ## Informações de Comercialização no Brasil
 

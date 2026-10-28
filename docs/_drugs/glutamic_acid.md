@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **osteoporose pós-menopausa (pos
 |------|------|
 | Indicação Original | Polivitamínicos com minerais |
 | Nova Indicação Prevista | Osteoporose pós-menopausa (postmenopausal osteoporosis) |
-| Pontuação de Previsão TxGNN | 99,34% |
+| Pontuação de Previsão TxGNN | 0,9934 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 10 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -63,7 +63,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação do ácido glut
 
 A relação com o metabolismo ósseo é plausível, porém **indireta**: resíduos de glutamato são convertidos, após a síntese proteica, em resíduos de γ-carboxiglutamato em proteínas dependentes de vitamina K, como a osteocalcina. Esse processo depende da vitamina K, e não de um efeito direto do ácido glutâmico administrado. Um estudo em camundongos ovariectomizados sugeriu que o ácido glutâmico atenua sintomas semelhantes aos da menopausa, mas se trata de dado pré-clínico.
 
-A pontuação elevada do TxGNN (99,34%) é apenas uma previsão do modelo. A maior parte da literatura recuperada trata de compostos relacionados (vitamina K2, vitamina D3, ácido poli-γ-glutâmico), e não do ácido glutâmico em si.
+A pontuação elevada do TxGNN (0,9934) é apenas uma previsão do modelo. A maior parte da literatura recuperada trata de compostos relacionados (vitamina K2, vitamina D3, ácido poli-γ-glutâmico), e não do ácido glutâmico em si.
 
 ---
 
@@ -92,7 +92,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 10 registros encontram-se cancelados; atualmente não há registro válido.
+Dos 10 registros, 10 estão válidos; o medicamento está comercializado no Brasil.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -121,7 +121,7 @@ Para advertências e contraindicações formais, consulte a bula.
 
 **Justificativa:**
 - Não há ensaios clínicos do ácido glutâmico na osteoporose pós-menopausa; a literatura refere-se a compostos relacionados (vitamina K2, vitamina D3, ácido poli-γ-glutâmico) ou a modelos animais. A evidência é de nível L4 e a pontuação do modelo não é respaldada por dados clínicos diretos.
-- Todos os registros brasileiros estão cancelados, e há contraindicações potencialmente relevantes (doença renal, hipercalcemia, doenças cardiovasculares).
+- Os 10 registros brasileiros estão válidos (10 de 10) e o medicamento está comercializado, e há contraindicações potencialmente relevantes (doença renal, hipercalcemia, doenças cardiovasculares).
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) e da relação direta entre o ácido glutâmico e o metabolismo ósseo

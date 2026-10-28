@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Flunitrazepam
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 321
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Flunitrazepam: nova indicação prevista, Insônia (insomnia) (nível de evidência L3). Indicação original: Não informada nos dados compilados"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Flunitrazepam"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "migraine with or without aura, susceptibility to", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
+last_modified_at: 2026-10-27
+description: "Flunitrazepam: nova indicação prevista, enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Indicação aprovada não registrada nos dados locais"
 ---
 
 # Flunitrazepam
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,84 +33,66 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Flunitrazepam: Da indicação original não registrada à insônia
+## Flunitrazepam: modulador alostérico positivo do receptor GABA-A → enxaqueca (migraine disorder)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Flunitrazepam é um benzodiazepínico com ação sedativo-hipnótica; os dados compilados para este relatório não trazem a indicação original registrada na ANVISA.
-O modelo TxGNN prevê que pode ser eficaz para **insônia (insomnia)**, atualmente sem ensaios clínicos registrados, mas com **10 publicações** associadas a esta direção (várias delas indiretas ou fora do tema).
-Trata-se mais de uma confirmação de uso já conhecido do que de um reposicionamento inédito.
-
----
+Flunitrazepam é um benzodiazepínico com ação hipnótica, utilizado principalmente no tratamento de insuficiência do sono grave.
+O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia apenas na pontuação do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não informada nos dados compilados |
-| Nova Indicação Prevista | Insônia (insomnia) |
-| Pontuação de Previsão TxGNN | 99,89% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Indicação Original | Indicação aprovada não registrada nos dados locais |
+| Nova Indicação Prevista | enxaqueca (migraine disorder) |
+| Pontuação de Previsão TxGNN | 0,9971 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 6) |
+| Número de Registros | 6 (ativos: 3) |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na fonte consultada. Segundo informações farmacológicas conhecidas, o flunitrazepam é um benzodiazepínico que atua como modulador alostérico positivo do receptor GABA-A. Os dados compilados registram ligação às subunidades α1, α2, α3 e α5 desse receptor, e o uso clínico descrito é o tratamento de alguns casos de insônia grave.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo as informações farmacológicas disponíveis, o flunitrazepam liga-se às subunidades α1, α2, α3 e α5 do receptor GABA-A, o que é compatível com a ação de um benzodiazepínico (sedação, hipnose e ansiólise).
 
-Esse mecanismo explica diretamente o efeito hipnótico: ao potencializar a inibição GABAérgica, o fármaco favorece o início e a manutenção do sono. A literatura recuperada inclui estudos comparativos com triazolam e zolpidem, um relato clínico sobre distúrbios do sono orgânicos e funcionais e revisões sobre hipnóticos benzodiazepínicos.
+A relação com a enxaqueca é especulativa. Uma modulação GABAérgica poderia, em tese, influenciar a excitabilidade neuronal envolvida na enxaqueca, mas não há estudo que sustente essa ligação para este fármaco. A única base da previsão é a pontuação elevada do modelo.
 
-Como a indicação original não consta nos dados e o fármaco já é descrito como hipnótico, a previsão para insônia é plausível, mas representa sobretudo a confirmação de um uso estabelecido.
-
----
+Além disso, sedação, dependência e potencial de abuso são riscos relevantes e pesam contra o avanço sem evidências de apoio.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [6114852](https://pubmed.ncbi.nlm.nih.gov/6114852/) | 1981 | Revisão | Drugs | Revisão do triazolam como hipnótico; considera-o mais adequado que benzodiazepínicos de ação longa, como o flunitrazepam |
-| [430730](https://pubmed.ncbi.nlm.nih.gov/430730/) | 1979 | Estudo clínico | JAMA | Insônia de rebote após suspensão de triazolam, nitrazepam e flunitrazepam, mesmo em curtos períodos |
-| [8519370](https://pubmed.ncbi.nlm.nih.gov/8519370/) | 1993 | Farmacologia clínica | Eur Respir J | Comparação de zolpidem, triazolam e flunitrazepam sobre gases sanguíneos e respiração em DPOC grave |
-| [40195](https://pubmed.ncbi.nlm.nih.gov/40195/) | 1979 | Estudo clínico | La Nouvelle Presse Médicale | Ação do flunitrazepam em distúrbios do sono orgânicos e funcionais |
-| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Revisão | Acta Psychiatr Scand Suppl | Indicações dos hipnóticos e necessidade de variedade de perfis farmacocinéticos |
-| [2883822](https://pubmed.ncbi.nlm.nih.gov/2883822/) | 1986 | Revisão | Acta Psychiatr Scand Suppl | Resposta aumentada aos benzodiazepínicos (incluindo flunitrazepam) em idosos |
-| [20171127](https://pubmed.ncbi.nlm.nih.gov/20171127/) | 2010 | Farmacologia clínica | Sleep Med Rev | Hipnóticos prejudicam equilíbrio corporal e estabilidade postural, com risco de quedas |
-| [14722706](https://pubmed.ncbi.nlm.nih.gov/14722706/) | 2004 | Pré-clínico (rato) | Psychopharmacology | Efeitos de três hipnóticos no ciclo sono-vigília em ratos com distúrbio do sono |
+Atualmente não há literatura relacionada.
 
----
+## Informações de Comercialização no Brasil
+
+O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados. Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação aprovada.
 
 ## Considerações de Segurança
 
-- **Interações e alvos farmacológicos**: o fármaco liga-se às subunidades α1, α2, α3 e α5 do receptor GABA-A, o que explica a depressão do sistema nervoso central.
-- **Riscos documentados na literatura**: insônia de rebote após a suspensão, efeitos sobre a respiração (relevante em DPOC), prejuízo do equilíbrio com risco de quedas, maior sensibilidade em idosos, e potencial de abuso e dependência.
+- **Interações Medicamentosas**: foram registradas 4 interações de natureza farmacológica, todas com os alvos do fármaco, as subunidades α1, α2, α3 e α5 do receptor GABA-A (genes GABRA1, GABRA2, GABRA3 e GABRA5). Não há interações com outros medicamentos especificados.
+- **Riscos gerais descritos em outras literaturas compiladas** (relacionadas a outras previsões): potencial de abuso e dependência, comprometimento de memória e da capacidade de dirigir, e efeito aditivo com álcool. Esses riscos pesam especialmente em uma eventual população com enxaqueca.
 
-Para advertências e contraindicações formais, consulte a bula.
-
----
+Consulte a bula para advertências e contraindicações detalhadas.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-O mecanismo é coerente e há literatura clínica de apoio ao uso hipnótico, mas sem ensaios registrados, sem registro no Brasil e com riscos relevantes de abuso, dependência e insônia de rebote.
+- A previsão para enxaqueca se apoia apenas na pontuação do modelo, sem ensaios clínicos nem publicações, e o perfil de sedação, dependência e abuso do flunitrazepam desfavorece o avanço sem evidências.
 
 **Para prosseguir, é necessário:**
-- Obter a indicação original e a bula na ANVISA, incluindo advertências e contraindicações (lacuna que bloqueia a triagem de segurança)
-- Confirmar o mecanismo de ação em fonte primária (por exemplo, DrugBank)
-- Avaliar a situação regulatória e de controle (substância controlada) no Brasil, já que o fármaco não é comercializado
-- Definir plano de mitigação de risco para abuso, dependência, uso em idosos e pacientes com doença respiratória
-- Comparar com hipnóticos já disponíveis para justificar o valor incremental
+- Estudos pré-clínicos ou clínicos que avaliem diretamente o flunitrazepam na enxaqueca
+- Dados do mecanismo de ação detalhado
+- Texto de bula da ANVISA com advertências e contraindicações
+- Avaliação de risco-benefício frente a alternativas já estabelecidas e mais bem toleradas
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

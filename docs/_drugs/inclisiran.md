@@ -4,17 +4,17 @@ title: Inclisiran
 parent: Apenas Predição do Modelo (L5)
 nav_order: 365
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Inclisiran: nova indicação prevista, Deficiência de potássio (potassium deficiency disease) (nível de evidência L5). Indicação original: Antilipêmicos"
 monitor_inn: "inclisiran"
-predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
+predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 ---
 
 # Inclisiran
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência de potássio (pota
 |------|------|
 | Indicação Original | Antilipêmicos |
 | Nova Indicação Prevista | Deficiência de potássio (potassium deficiency disease) |
-| Pontuação de Previsão TxGNN | 99,93% |
+| Pontuação de Previsão TxGNN | 0,9993 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a inclisirana é um RNA interferente pequeno (siRNA) que atua sobre o RNA mensageiro do PCSK9, reduzindo o colesterol LDL (LDL-C). Sua eficácia está associada ao controle de lipídios, e não à regulação de eletrólitos.
 
-Não foi identificada relação plausível entre o silenciamento do PCSK9 e a homeostase do potássio. A pontuação alta do TxGNN (99,93%) decorre apenas da previsão baseada em grafo de conhecimento, sem ensaios ou literatura que a sustentem. Por isso, a razoabilidade mecanística desta previsão é **fraca** e deve ser tratada como hipótese a ser verificada, não como indicação de eficácia.
+Não foi identificada relação plausível entre o silenciamento do PCSK9 e a homeostase do potássio. A pontuação alta do TxGNN (0,9993) decorre apenas da previsão do modelo TxGNN (aprendizado profundo), sem ensaios ou literatura que a sustentem. Por isso, a razoabilidade mecanística desta previsão é **fraca** e deve ser tratada como hipótese a ser verificada, não como indicação de eficácia.
 
 Outras indicações previstas, todas também sem evidência de suporte (nível L5): doença esofágica, coarctação atípica da aorta, enxaqueca (incluindo enxaqueca com aura do tronco encefálico e suscetibilidade genética), malformação esofágica não sindrômica, malformação aórtica, úlcera esofágica e doença de Raynaud. Para nenhuma delas há mecanismo estabelecido.
 

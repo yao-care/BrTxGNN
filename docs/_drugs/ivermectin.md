@@ -4,17 +4,17 @@ title: Ivermectin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 380
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Ivermectin: nova indicação prevista, Candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). Indicação original: Estrongiloidíase e oncocercose (conforme o grafo de conhecimento"
+indication_count: 9
 monitor_inn: "Ivermectin"
-predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "congenital candidiasis", "candida glabrata", "postmenopausal atrophic vaginitis", "candidiasis, invasive", "vulvitis"]
+predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "candida glabrata", "congenital candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
+last_modified_at: 2026-10-27
+description: "Ivermectin: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Ivermectin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,34 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Ivermectina: Da estrongiloidíase e oncocercose à candidíase vulvovaginal
+## Ivermectina: antiparasitário (modulador de canais de cloreto) → candidíase vulvovaginal (vulvovaginal candidiasis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-A ivermectina é um antiparasitário originalmente usado no tratamento da estrongiloidíase e da oncocercose.
-O modelo TxGNN prevê que ela possa ser eficaz para **candidíase vulvovaginal (vulvovaginal candidiasis)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A previsão é apenas computacional.
+Ivermectina é um antiparasitário de uso sistêmico, conhecido por atuar em canais de cloreto de invertebrados.
+O modelo TxGNN prevê que pode ser eficaz para **candidíase vulvovaginal (vulvovaginal candidiasis)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão é puramente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Estrongiloidíase e oncocercose (conforme o grafo de conhecimento; não há texto de indicação aprovada no Brasil) |
-| Nova Indicação Prevista | Candidíase vulvovaginal (vulvovaginal candidiasis) |
-| Pontuação de Previsão TxGNN | 99,95% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | candidíase vulvovaginal (vulvovaginal candidiasis) |
+| Pontuação de Previsão TxGNN | 0,9995 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (nos dados compilados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 10) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se de forma geral que a ivermectina modula canais de cloreto dependentes de glutamato em invertebrados, o que explica seu efeito sobre parasitas como *Strongyloides* e *Onchocerca*.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. De modo geral, a ivermectina é conhecida por modular canais de cloreto dependentes de glutamato em invertebrados, o que paralisa e elimina parasitas.
 
-Esse mecanismo não tem correspondente claro em fungos. Assim, não há ligação mecanística estabelecida entre as indicações originais (parasitoses) e a candidíase vulvovaginal. A pontuação alta do TxGNN (99,95%) reflete uma previsão computacional baseada no grafo de conhecimento, sem respaldo em ensaios ou literatura.
+Esse mecanismo não tem contrapartida clara em fungos, que causam a candidíase. Por isso, não há um vínculo mecanístico estabelecido entre a ação conhecida do fármaco e a candidíase vulvovaginal.
 
-As demais previsões do modelo, em sua maioria também relacionadas a candidíases e vulvovaginites (esofágica, neonatal, congênita, invasiva, por *Candida glabrata*, vulvite), além de infecção anogenital por HPV e vaginite atrófica pós-menopausa, igualmente carecem de evidências. A vaginite atrófica, por exemplo, decorre de deficiência estrogênica, sem relação plausível com a farmacologia da ivermectina.
+A pontuação alta (0,9995) reflete apenas uma previsão computacional. Sem ensaios ou literatura que a corroborem, ela deve ser tratada como hipótese a ser investigada, não como achado.
 
 ## Evidências de Ensaios Clínicos
 
@@ -68,35 +68,42 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada para a indicação principal (candidíase vulvovaginal).
+Atualmente não há literatura relacionada.
 
-Observação: as publicações associadas a outras previsões do modelo não sustentam as respectivas indicações:
-- PMID [35835488](https://pubmed.ncbi.nlm.nih.gov/35835488/) (2022, relato de caso, BMJ Case Reports): estrongiloidíase disseminada após corticoterapia prolongada. Trata da indicação antiparasitária original, não de candidíase esofágica.
-- PMID [10098288](https://pubmed.ncbi.nlm.nih.gov/10098288/) (1999, série de casos, Australasian Journal of Dermatology): ivermectina oral em duas crianças imunocomprometidas com escabiose crostosa. Uma delas tinha candidíase mucocutânea crônica, mas o relato trata de escabiose, não de candidíase.
+## Informações de Comercialização no Brasil
+
+Os dados locais indicam que o fármaco é comercializado, com 10 registros válidos. A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.
 
 ## Considerações de Segurança
 
-- **Contraindicações no grafo de conhecimento** (não são texto de bula): loíase e filariose.
-- **Interações medicamentosas**: foram identificadas 100 interações no total; abaixo, algumas das listadas, em ordem de gravidade:
-  - Moderadas: aprepitanto, claritromicina, etanol, cobicistate, deferasirox, iodeto I-123, iodeto I-131, dicumarol, fostamatinibe, varfarina, abametapir (tópico).
-  - Nível não classificado: omeprazol, lansoprazol, prednisona, prednisolona, ranitidina, famotidina, dexametasona, ácido ursodesoxicólico, heparina.
-- A previsão de candidíase neonatal levanta preocupação adicional: a ivermectina geralmente não é usada em crianças muito pequenas ou de baixo peso.
+- **Interações Medicamentosas**: a consulta identificou 100 interações registradas. Entre as de gravidade moderada estão:
+  - aprepitanto
+  - claritromicina
+  - etanol
+  - cobicistate
+  - deferasirox
+  - iodeto I-123 e I-131
+  - dicumarol
+  - fostamatinibe
+  - varfarina
+  - abametapir (tópico)
 
-Consulte a bula para advertências e contraindicações formais.
+  Outras interações (omeprazol, lansoprazol, prednisona, prednisolona, ranitidina, famotidina, dexametasona, ácido ursodesoxicólico, heparina) têm gravidade não classificada.
+
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão é puramente computacional (nível L5), sem ensaios clínicos nem literatura pertinente, e sem mecanismo plausível contra fungos. Não há registro no Brasil nos dados compilados.
+- Não há ensaios clínicos nem publicações sobre candidíase vulvovaginal, e não existe mecanismo plausível contra fungos. A previsão permanece em nível L5.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna de severidade bloqueante para a triagem de segurança
-- Obter dados do mecanismo de ação (MOA) no DrugBank
-- Realizar estudos pré-clínicos *in vitro* de atividade antifúngica contra *Candida* spp.
-- Avaliar a compatibilidade de via de administração e a forma farmacêutica adequada à candidíase vulvovaginal
-- Verificar a situação regulatória no Brasil (nenhum registro encontrado)
+- Dados do mecanismo de ação (MOA) e avaliação da atividade antifúngica em estudos in vitro (pré-clínicos)
+- Texto de bula do ANVISA com advertências e contraindicações, para triagem de segurança
+- Avaliação da via de administração e da forma farmacêutica compatíveis com uso vulvovaginal
+- Estudos clínicos que investiguem diretamente a candidíase vulvovaginal
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

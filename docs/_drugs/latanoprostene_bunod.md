@@ -4,7 +4,7 @@ title: Latanoprostene Bunod
 parent: Apenas Predição do Modelo (L5)
 nav_order: 394
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Latanoprostene Bunod: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). Indicação original: Análogos da prostaglandina"
 monitor_inn: "latanoprostene bunod"
@@ -14,7 +14,7 @@ predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndro
 # Latanoprostene Bunod
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Latanoprosteno bunod (VYZULTA) é um análogo da prostaglandina F2-alfa que libe
 |------|------|
 | Indicação Original | Análogos da prostaglandina (conforme registro na ANVISA) |
 | Nova Indicação Prevista | Calcifilaxia visceral (visceral calciphylaxis) |
-| Pontuação de Previsão TxGNN | 99,76% |
+| Pontuação de Previsão TxGNN | 0,9976 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -64,15 +64,14 @@ Por isso, a pontuação alta do TxGNN deve ser vista como hipótese computaciona
 
 | Posição | Indicação prevista | Pontuação TxGNN | Observação |
 |------|------|------|------|
-| 2 | Glaucoma hereditário primário | 99,71% | Extensão mecanística da indicação aprovada; precisa de confirmação em populações geneticamente definidas (análogos de prostaglandina costumam responder mal no glaucoma congênito primário) |
-| 3 | Síndrome do desfiladeiro torácico venosa | 99,63% | Sem vínculo mecanístico claro |
-| 4 | Síndrome do desfiladeiro torácico arterial | 99,63% | Sem vínculo mecanístico claro |
-| 5 | Síndrome do desfiladeiro torácico neurogênica | 99,56% | Sem vínculo plausível |
-| 6 | Doença vascular | 99,53% | Evidência apenas indireta; termo muito amplo |
-| 7 | Dissecção coronariana espontânea idiopática | 99,52% | Sem vínculo mecanístico crível |
-| 8 | Angiodisplasia do estômago | 99,51% | Sem vínculo estabelecido |
-| 9 | Linfangiectasia | 99,48% | Sem vínculo estabelecido |
-| 10 | Hemangioendotelioma | 99,47% | O único relato é um sinal de segurança, não de benefício |
+| 3 | Síndrome do desfiladeiro torácico venosa | 0,9963 | Sem vínculo mecanístico claro |
+| 4 | Síndrome do desfiladeiro torácico arterial | 0,9963 | Sem vínculo mecanístico claro |
+| 5 | Síndrome do desfiladeiro torácico neurogênica | 0,9956 | Sem vínculo plausível |
+| 6 | Doença vascular | 0,9953 | Evidência apenas indireta; termo muito amplo |
+| 7 | Dissecção coronariana espontânea idiopática | 0,9952 | Sem vínculo mecanístico crível |
+| 8 | Angiodisplasia do estômago | 0,9951 | Sem vínculo estabelecido |
+| 9 | Linfangiectasia | 0,9948 | Sem vínculo estabelecido |
+| 10 | Hemangioendotelioma | 0,9947 | O único relato é um sinal de segurança, não de benefício |
 
 ## Evidências de Ensaios Clínicos
 
@@ -113,7 +112,7 @@ Para as demais informações de segurança, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para calcifilaxia visceral tem pontuação alta no TxGNN (99,76%), mas não conta com ensaios clínicos nem publicações (nível L5). O mecanismo é pouco plausível, dada a via tópica ocular e a exposição sistêmica mínima. Além disso, o único registro no Brasil está cancelado.
+- A previsão para calcifilaxia visceral tem pontuação alta no TxGNN (0,9976), mas não conta com ensaios clínicos nem publicações (nível L5). O mecanismo é pouco plausível, dada a via tópica ocular e a exposição sistêmica mínima. Além disso, o único registro no Brasil está cancelado.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA, com advertências e contraindicações, que ainda não estão disponíveis

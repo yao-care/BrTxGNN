@@ -4,17 +4,17 @@ title: Levetiracetam
 parent: Apenas Predição do Modelo (L5)
 nav_order: 404
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Levetiracetam: nova indicação prevista, Epilepsia visual (visual epilepsy) (nível de evidência L5). Indicação original: Epilepsia parcial"
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Levetiracetam: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Levetiracetam: Da epilepsia parcial à epilepsia visual (reflexa)
+## Levetiracetam: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 Levetiracetam é um fármaco antiepiléptico (antiepiléptico de segunda geração), originalmente usado no tratamento da epilepsia parcial.
 O modelo TxGNN prevê que pode ser eficaz para **epilepsia visual (visual epilepsy)**, porém, para essa indicação principal, há **0 ensaios clínicos** e apenas evidências indiretas na literatura (**20 publicações recuperadas**, nenhuma tratando diretamente de epilepsia visual).
-Entre as demais indicações previstas, o **estado de mal epiléptico (status epilepticus)** é a que tem a evidência mais robusta (**16 ensaios clínicos** e **20 publicações**, incluindo ensaios de Fase 3).
 
 ---
 
@@ -48,15 +47,14 @@ Entre as demais indicações previstas, o **estado de mal epiléptico (status ep
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Epilepsia parcial |
-| Nova Indicação Prevista | Epilepsia visual (visual epilepsy) |
-| Pontuação de Previsão TxGNN | 99,98% |
-| Nível de Evidência | L4 (para a indicação principal); L1 para o estado de mal epiléptico |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Beta-ketothiolase deficiency |
+| Pontuação de Previsão TxGNN | 0.9990 |
+| Nível de Evidência | L5 (para a indicação principal); L1 para o estado de mal epiléptico |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold (indicação principal); Proceed with Guardrails (estado de mal epiléptico) |
 
-> **Observação:** a indicação original foi obtida do grafo de conhecimento do TxGNN, pois não há registros da ANVISA nos dados compilados.
 
 ---
 
@@ -66,7 +64,7 @@ Os dados compilados não trazem uma descrição formal do mecanismo de ação. S
 
 A epilepsia visual (fotossensível) é um tipo de crise reflexa, desencadeada por estímulos luminosos. Como o levetiracetam atua na redução da excitabilidade neuronal de forma geral, existe uma justificativa mecanística plausível. Contudo, a literatura recuperada trata de crises neonatais, profilaxia de crises, encefalopatias genéticas (KCNQ2, STXBP1) e epilepsia felina, e **não aborda a epilepsia reflexa visual**. A pontuação muito alta do TxGNN está, portanto, apoiada apenas em evidência indireta.
 
-O mesmo raciocínio vale para outras crises reflexas previstas (induzidas por micção, pensamento, orgasmo e alimentação), todas com nível de evidência L4 ou L5. Já o **estado de mal epiléptico** tem evidência direta e de alta qualidade, e o **beta-cetotiolase (deficiência)**, previsto na 10ª posição, não tem ligação mecanística evidente com a modulação de SV2A.
+O mesmo raciocínio vale para outras crises reflexas previstas (induzidas por micção, pensamento, orgasmo e alimentação), todas com nível de evidência L4 ou L5.
 
 ---
 
@@ -74,7 +72,6 @@ O mesmo raciocínio vale para outras crises reflexas previstas (induzidas por mi
 
 Para a indicação principal (epilepsia visual), atualmente não há ensaios clínicos relacionados registrados.
 
-Como a maior parte da evidência clínica do levetiracetam está concentrada em outra indicação prevista, apresentam-se abaixo os principais ensaios para o **estado de mal epiléptico** (9ª posição de previsão, pontuação TxGNN de 99,91%):
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
@@ -126,7 +123,7 @@ Consulte a bula para informações complementares de segurança.
 **Alternativa: Proceed with Guardrails** (para o estado de mal epiléptico)
 
 **Justificativa:**
-- Para a epilepsia visual, a pontuação de 99,98% do TxGNN não é sustentada por ensaios clínicos nem por literatura específica (nível L4). O mesmo ocorre com as crises induzidas por micção, pensamento, orgasmo e alimentação, e com a deficiência de beta-cetotiolase (L4/L5).
+- O mesmo ocorre com as crises induzidas por micção, pensamento, orgasmo e alimentação, e com a deficiência de beta-cetotiolase (L4/L5).
 - O estado de mal epiléptico tem evidência de nível L1 (ensaios de Fase 3, como o ESETT). Porém, o ESETT não mostrou diferença significativa de eficácia entre os três fármacos, de modo que o levetiracetam é uma opção de segunda linha eficaz, não superior. Observe também que se trata de uma indicação já clinicamente consolidada. As indicações por sobressalto e audiogênica (L3) são hipóteses de pesquisa, com evidência pequena, não controlada ou veterinária.
 
 **Para prosseguir, é necessário:**

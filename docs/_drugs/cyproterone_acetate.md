@@ -4,17 +4,17 @@ title: Cyproterone Acetate
 parent: Evidência Moderada (L3-L4)
 nav_order: 247
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Cyproterone Acetate: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L4). Indicação original: Progestágenos simples"
 monitor_inn: "Cyproterone acetate"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "migraine with or without aura, susceptibility to", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
 ---
 
 # Cyproterone Acetate
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Enxaqueca (migraine disorder)**
 |------|------|
 | Indicação Original | Progestágenos simples (classificação ANVISA; os registros abrangem também anticoncepcionais, andrógenos simples, estrógenos associados e produtos antiacne) |
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
-| Pontuação de Previsão TxGNN | 99,66% |
+| Pontuação de Previsão TxGNN | 0,9966 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -75,7 +75,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados; abaixo, os 5 principais.
+O medicamento está comercializado, com 20 registros válidos; abaixo, os 5 principais.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -97,7 +97,7 @@ Consulte a bula para as demais informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia apenas na pontuação do modelo e em literatura geral, sem ensaios clínicos nem dados de eficácia do acetato de ciproterona em enxaqueca. Além disso, o sinal de risco vascular e tromboembólico sugere cautela, e todos os registros no Brasil estão cancelados.
+A previsão se apoia apenas na pontuação do modelo TxGNN (deep learning) e em literatura geral, sem ensaios clínicos nem dados de eficácia do acetato de ciproterona em enxaqueca. Além disso, o sinal de risco vascular e tromboembólico sugere cautela. No Brasil, o medicamento está comercializado, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) e da bula (advertências e contraindicações) na ANVISA
@@ -107,7 +107,7 @@ A previsão se apoia apenas na pontuação do modelo e em literatura geral, sem 
 
 ### Observação sobre outras previsões
 
-Outras previsões do modelo foram analisadas e também recomendadas como Hold. Entre elas, a **amenorreia / irregularidade menstrual** é a que tem maior suporte (nível L3): há um ensaio de Fase 4 (NCT01103518, n=100, status desconhecido) com preparações de etinilestradiol + acetato de ciproterona em irregularidade menstrual de origem hiperandrogênica, mas isso está mais próximo do uso já existente do fármaco do que de um reposicionamento verdadeiro. As previsões ligadas a trombofilia e deficiências de fatores de coagulação refletem provavelmente uma associação de segurança do grafo de conhecimento, e não oportunidade terapêutica.
+Outras previsões do modelo foram analisadas e também recomendadas como Hold. Entre elas, a **amenorreia / irregularidade menstrual** é a que tem maior suporte (nível L3): há um ensaio de Fase 4 (NCT01103518, n=100, status desconhecido) com preparações de etinilestradiol + acetato de ciproterona em irregularidade menstrual de origem hiperandrogênica, mas isso está mais próximo do uso já existente do fármaco do que de um reposicionamento verdadeiro. As previsões ligadas a trombofilia e deficiências de fatores de coagulação provavelmente refletem similaridades que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, e não evidência biológica nem oportunidade terapêutica.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

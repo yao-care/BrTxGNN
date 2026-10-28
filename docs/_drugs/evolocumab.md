@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-## Evolocumabe: De antilipêmico a hemofilia sintomática em portadoras (previsão sem respaldo clínico)
+## Evolocumabe: De antilipêmico a forma sintomática de hemofilia em portadoras do sexo feminino (previsão sem respaldo clínico)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -50,10 +50,10 @@ mas há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; t
 |------|------|
 | Indicação Original | Antilipêmicos |
 | Nova Indicação Prevista | Forma sintomática de hemofilia em portadoras do sexo feminino (symptomatic form of hemophilia in female carriers) |
-| Pontuação de Previsão TxGNN | 99,82% |
+| Pontuação de Previsão TxGNN | 0,9982 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -62,7 +62,7 @@ mas há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; t
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o evolocumabe é um anticorpo monoclonal que se liga à PCSK9 (proproteína convertase subtilisina/kexina tipo 9), aumentando a disponibilidade de receptores de LDL e reduzindo o LDL-colesterol. Foi aprovado na Europa (julho de 2015) e nos EUA (agosto de 2015) para hipercolesterolemia familiar heterozigótica e homozigótica e para hipercolesterolemia primária não familiar.
 
-**Não foi identificada relação mecanística plausível** entre a inibição da PCSK9 e a deficiência dos fatores VIII/IX ligada ao X em portadoras. A pontuação TxGNN muito alta (0,998) parece ser um artefato do grafo de conhecimento, sem respaldo em qualquer ensaio clínico ou publicação. A similaridade com a indicação original não foi avaliada.
+**Não foi identificada relação mecanística plausível** entre a inibição da PCSK9 e a deficiência dos fatores VIII/IX ligada ao X em portadoras. A pontuação muito alta (0,9982) vem do modelo TxGNN (deep learning) e pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica; não há respaldo em qualquer ensaio clínico ou publicação. A similaridade com a indicação original não foi avaliada.
 
 ### Outras previsões avaliadas
 
@@ -70,11 +70,11 @@ Todas as previsões a seguir também têm nível de evidência L5, sem ensaios n
 
 | Posição | Indicação prevista | Pontuação TxGNN | Avaliação do vínculo mecanístico |
 |------|------|------|------|
-| 2 | Deficiência familiar de apolipoproteína C-II | 99,50% | Vínculo lipídico, porém fraco: a deficiência causa quilomicronemia e hipertrigliceridemia grave, e a inibição da PCSK9 atua principalmente sobre o LDL-C, com efeito limitado sobre quilomícrons |
-| 3 | Púrpura trombocitopênica | 99,42% | Nenhum vínculo estabelecido |
-| 4 | Deficiência de fator XI | 99,29% | Sem mecanismo plausível; o fármaco não atua na cascata de coagulação |
-| 5 | Hemofilia A com anormalidade vascular | 99,22% | Sem efeito conhecido sobre o fator VIII; provável viés de vizinhança no grafo |
-| 6 | Doença de atividade catalítica | 99,08% | Categoria ampla e inespecífica de ontologia, não avaliável como indicação |
+| 2 | Deficiência familiar de apolipoproteína C-II | 0,9950 | Vínculo lipídico, porém fraco: a deficiência causa quilomicronemia e hipertrigliceridemia grave, e a inibição da PCSK9 atua principalmente sobre o LDL-C, com efeito limitado sobre quilomícrons |
+| 3 | Púrpura trombocitopênica | 0,9942 | Nenhum vínculo estabelecido |
+| 4 | Deficiência de fator XI | 0,9929 | Sem mecanismo plausível; o fármaco não atua na cascata de coagulação |
+| 5 | Hemofilia A com anormalidade vascular | 0,9922 | Sem efeito conhecido sobre o fator VIII; a pontuação do modelo TxGNN (deep learning) pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica |
+| 6 | Doença de atividade catalítica | 0,9908 | Categoria ampla e inespecífica de ontologia, não avaliável como indicação |
 
 ---
 
@@ -111,7 +111,7 @@ Os dados de advertências e contraindicações da bula não estavam disponíveis
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão não tem nenhum ensaio clínico ou publicação, não há vínculo mecanístico plausível com a deficiência de fatores de coagulação, e a alta pontuação do TxGNN parece ser artefato do grafo de conhecimento. Além disso, o único registro no Brasil está cancelado.
+- A previsão não tem nenhum ensaio clínico ou publicação, não há vínculo mecanístico plausível com a deficiência de fatores de coagulação, e a alta pontuação do modelo TxGNN (deep learning) pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica. No Brasil, o medicamento é comercializado, com 1 registro válido de 1.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pendência que bloqueia a triagem de segurança

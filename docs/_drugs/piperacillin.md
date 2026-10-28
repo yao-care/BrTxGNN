@@ -4,17 +4,17 @@ title: Piperacillin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 526
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Piperacillin: nova indicação prevista, Artrite Reumatoide (rheumatoid arthritis) (nível de evidência L5). Indicação original: Penicilinas penicilinase-resistentes"
 monitor_inn: "piperacillin"
-predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "osteoarthritis susceptibility", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
+predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
 ---
 
 # Piperacillin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **9** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (rheumatoid 
 |------|------|
 | Indicação Original | Penicilinas penicilinase-resistentes |
 | Nova Indicação Prevista | Artrite Reumatoide (rheumatoid arthritis) |
-| Pontuação de Previsão TxGNN | 99,94% |
+| Pontuação de Previsão TxGNN | 0,9994 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 12 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
+| Número de Registros | 12 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -61,7 +61,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (rheumatoid 
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a piperacilina é uma penicilina de espectro ampliado que inibe a síntese da parede celular bacteriana, e é comercializada em associação com o inibidor de beta-lactamase tazobactam.
 
-**Não há vínculo mecanístico crível** entre esse mecanismo e a artrite reumatoide. A piperacilina não tem atividade imunomoduladora ou anti-inflamatória conhecida relevante para a doença. A pontuação alta do TxGNN (0,999) é apenas uma previsão baseada em grafo de conhecimento.
+**Não há vínculo mecanístico crível** entre esse mecanismo e a artrite reumatoide. A piperacilina não tem atividade imunomoduladora ou anti-inflamatória conhecida relevante para a doença. A pontuação alta do TxGNN (0,9994) é apenas uma previsão do modelo TxGNN (aprendizado profundo).
 
 Os artigos recuperados refletem coocorrência ou sinais de segurança, e não benefício terapêutico. Tratam de pacientes com AR (frequentemente em uso de metotrexato ou imunossupressores) que desenvolveram infecções ou reações adversas a medicamentos, tratadas com esquemas contendo piperacilina.
 
@@ -94,7 +94,7 @@ Nenhum dos artigos abaixo é RCT; todos são relatos de caso, coortes ou revisõ
 
 ## Informações de Comercialização no Brasil
 
-Todos os 12 registros estão **cancelados**; não há registro válido atualmente. Os 5 principais:
+Todos os 12 registros estão **válidos** (12 de 12); o medicamento está comercializado. Os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -123,14 +123,14 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para artrite reumatoide é apenas um resultado do grafo de conhecimento (nível L5), sem ensaios clínicos, sem plausibilidade mecanística e com literatura que reflete apenas o tratamento de infecções em pacientes com AR.
+- A previsão para artrite reumatoide é apenas um resultado do modelo TxGNN (aprendizado profundo) (nível L5), que pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica, sem ensaios clínicos, sem plausibilidade mecanística e com literatura que reflete apenas o tratamento de infecções em pacientes com AR.
 - Não há registro válido no Brasil. As demais indicações previstas (síndromes genéticas raras, colangite esclerosante, osteoartrite, nefropatia diabética, síndrome WHIM) também não têm evidência de suporte e igualmente recebem recomendação Hold.
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação que sustentem uma hipótese biologicamente plausível (por exemplo, efeito imunomodulador ou sobre o microbioma).
 - Dados de pré-clínicos ou estudos de mecanismo, caso a hipótese seja considerada.
 - Obtenção e análise da bula (advertências e contraindicações) para a triagem de segurança.
-- Reavaliação da situação regulatória, já que todos os registros estão cancelados.
+- Reavaliação da situação regulatória, considerando que os 12 registros estão válidos.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -6,9 +6,9 @@ nav_order: 573
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Romiplostim: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder… (nível de evidência L5). Indicação original: Anemia aplástica idiopática…"
 monitor_inn: "ROMIPLOSTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
+description: "Romiplostim: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder of platelets) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Romiplostim
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Romiplostim: Da anemia aplástica e trombocitopenia autoimune a distúrbio de liberação plaquetária (previsão primária)
+## Romiplostim: Distúrbio primário de liberação plaquetária (primary release disorder of platelets)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,12 +45,12 @@ O modelo TxGNN prevê que pode ser eficaz para **distúrbio primário de libera�
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anemia aplástica idiopática, anemia aplástica e trombocitopenia autoimune (conforme o grafo de conhecimento; não há texto de indicação aprovado no Brasil) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Distúrbio primário de liberação plaquetária (primary release disorder of platelets) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -75,15 +75,15 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | Posição | Doença prevista | Pontuação TxGNN | Nível | Observação |
 |------|------|------|------|------|
-| 2 | Pseudo-doença de von Willebrand | 99,99% | L5 | Defeito de ganho de função da GPIb; sem vínculo mecanístico nem evidências |
-| 3 | Trombastenia de Glanzmann | 99,99% | L5 | Defeito qualitativo (integrina αIIbβ3) com contagem normal; risco trombótico sem benefício claro |
-| 4 | Trombocitopenia aloimune fetal e neonatal | 99,99% | L4 | Evidência indireta: extrapolação da PTI, relatos de caso e revisões; nenhum estudo avalia romiplostim na doença; faltam dados de segurança fetal e de transferência placentária |
-| 5 | Síndrome de Scott | 99,97% | L5 | Defeito funcional (TMEM16F/ANO6); sem evidências |
-| 6 | Doença hemorrágica por trombocitopenia constitucional | 99,95% | L5 | Categoria ampla; alguns subtipos podem responder, sem dados específicos |
-| 7 | Diátese hemorrágica por defeito de receptor de colágeno | 99,95% | L5 | Defeito qualitativo; sem evidências |
-| 8 | Distúrbio hemorrágico do tipo plaquetário | 99,93% | L5 | Grupo genérico; provável efeito de proximidade no grafo |
-| 9 | Macrotrombocitopenia autossômica dominante | 99,88% | L5 | Hipotético em algumas formas hereditárias; sem evidências |
-| 10 | Síndrome de Ehlers-Danlos, tipo fibronectinêmico | 99,85% | L5 | Sem vínculo plausível; provável artefato da rede |
+| 2 | Pseudo-doença de von Willebrand | 0,9999 | L5 | Defeito de ganho de função da GPIb; sem vínculo mecanístico nem evidências |
+| 3 | Trombastenia de Glanzmann | 0,9999 | L5 | Defeito qualitativo (integrina αIIbβ3) com contagem normal; risco trombótico sem benefício claro |
+| 4 | Trombocitopenia aloimune fetal e neonatal | 0,9999 | L4 | Evidência indireta: extrapolação da PTI, relatos de caso e revisões; nenhum estudo avalia romiplostim na doença; faltam dados de segurança fetal e de transferência placentária |
+| 5 | Síndrome de Scott | 0,9997 | L5 | Defeito funcional (TMEM16F/ANO6); sem evidências |
+| 6 | Doença hemorrágica por trombocitopenia constitucional | 0,9995 | L5 | Categoria ampla; alguns subtipos podem responder, sem dados específicos |
+| 7 | Diátese hemorrágica por defeito de receptor de colágeno | 0,9995 | L5 | Defeito qualitativo; sem evidências |
+| 8 | Distúrbio hemorrágico do tipo plaquetário | 0,9993 | L5 | Grupo genérico; a pontuação vem do modelo TxGNN (deep learning) e pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica |
+| 9 | Macrotrombocitopenia autossômica dominante | 0,9988 | L5 | Hipotético em algumas formas hereditárias; sem evidências |
+| 10 | Síndrome de Ehlers-Danlos, tipo fibronectinêmico | 0,9985 | L5 | Sem vínculo plausível; provável artefato da rede |
 
 Entre as alternativas, a **trombocitopenia aloimune fetal e neonatal** é a única com racionalidade conceitual (L4), derivada das seis publicações recuperadas, todas sobre PTI ou agentes trombopoéticos em geral (revisões, relatos de caso e um relato com eltrombopague, outro fármaco). Ela pode merecer uma pergunta de pesquisa específica.
 

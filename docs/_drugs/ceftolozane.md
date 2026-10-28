@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **Uretrite por Ureaplasma (Ureapl
 |------|------|
 | Indicação Original | Outras cefalosporinas e penêmicos |
 | Nova Indicação Prevista | Uretrite por Ureaplasma (Ureaplasma urethritis) |
-| Pontuação de Previsão TxGNN | 99,89% |
+| Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a ceftolozana é uma cefalosporina que inibe a síntese da parede celular bacteriana, otimizada para *Pseudomonas aeruginosa* e bacilos Gram-negativos multirresistentes. Está disponível apenas como combinação intravenosa com tazobactam.
 
-**Neste caso, a previsão não parece razoável.** As espécies de *Ureaplasma* não possuem parede celular, de modo que os beta-lactâmicos são esperados como intrinsecamente ineficazes. A pontuação alta do TxGNN provavelmente é um artefato do grafo de conhecimento associado à classe "uretrite", e não reflete plausibilidade biológica.
+**Neste caso, a previsão não parece razoável.** As espécies de *Ureaplasma* não possuem parede celular, de modo que os beta-lactâmicos são esperados como intrinsecamente ineficazes. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, como a classe "uretrite", e não evidência biológica.
 
 Outras previsões do modelo também foram avaliadas. Uretrite gonocócica e doença inflamatória uterina têm vínculo apenas indireto, por efeito de classe, e já existem tratamentos de primeira linha estabelecidos. Pielonefrite xantogranulomatosa tem relação indireta com infecções urinárias, mas exige tratamento cirúrgico. Já as demais previsões (síndrome de hiperviscosidade policlonal, hiperamilasemia, tuberculose urogenital, analbuminemia congênita, incompatibilidade de grupo sanguíneo e doença hematológica pré-maligna) não têm base mecanística plausível.
 

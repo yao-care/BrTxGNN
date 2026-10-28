@@ -4,17 +4,17 @@ title: Candesartan Cilexetil
 parent: Apenas Predição do Modelo (L5)
 nav_order: 185
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-13
-description: "Candesartan Cilexetil: nova indicação prevista, Hipertensão renovascular maligna (malignant renovascular hypertension) (nível de evidência L5). Indicação original: Anti-hipertensivos simples"
+indication_count: 4
 monitor_inn: "candesartan cilexetil"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+last_modified_at: 2026-10-27
+description: "Candesartan Cilexetil: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: ANTI-HIPERTENSIVOS SIMPLES"
 ---
 
 # Candesartan Cilexetil
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **5** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,91 +33,64 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-## Candesartana cilexetila: De anti-hipertensivo para hipertensão renovascular maligna
+## Candesartana cilexetila: bloqueador do receptor de angiotensina II → doença renal hipertensiva maligna (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Candesartana cilexetila é um bloqueador do receptor de angiotensina II do tipo 1 (BRA), originalmente registrado na ANVISA como anti-hipertensivo.
-O modelo TxGNN prevê que pode ser eficaz para **hipertensão renovascular maligna (malignant renovascular hypertension)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando diretamente esta direção; trata-se de uma previsão computacional.
+Candesartana cilexetila é um anti-hipertensivo, e o modelo TxGNN prevê que pode ser eficaz para **doença renal hipertensiva maligna (malignant hypertensive renal disease)**. Até o momento, **nenhum ensaio clínico** e **nenhuma publicação** apoiam diretamente esta previsão; ela se baseia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anti-hipertensivos simples |
-| Nova Indicação Prevista | Hipertensão renovascular maligna (malignant renovascular hypertension) |
-| Pontuação de Previsão TxGNN | 99,68% |
+| Indicação Original | ANTI-HIPERTENSIVOS SIMPLES; ANTI-HIPERTENSIVOS |
+| Nova Indicação Prevista | Doença renal hipertensiva maligna (malignant hypertensive renal disease) |
+| Pontuação de Previsão TxGNN | 0,9968 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 17 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 17) |
+| Número de Registros | 17 (ativos: 17) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a candesartana cilexetila é um pró-fármaco da classe dos BRAs: bloqueia o receptor AT1 da angiotensina II, reduzindo vasoconstrição e pressão arterial. Sua eficácia como anti-hipertensivo é reconhecida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado para este relatório. Pela classe do fármaco, a candesartana é um bloqueador do receptor AT1 da angiotensina II (ARA II).
 
-A hipertensão renovascular maligna é impulsionada pela ativação do sistema renina-angiotensina, o que torna o racional mecanístico plausível e coerente com o uso original do fármaco. Porém, a pontuação do TxGNN (0,997) é apenas uma previsão computacional.
+Bloquear a sinalização da angiotensina II pode reduzir a pressão dentro dos glomérulos e a lesão renal na nefropatia hipertensiva, e os ARA II já são utilizados em doença renal crônica associada à hipertensão. Isso dá plausibilidade biológica à previsão.
 
-Há uma preocupação importante de segurança: na estenose bilateral da artéria renal ou em rim único, os BRAs podem precipitar lesão renal aguda. A própria base de conhecimento do modelo registra "obstrução da artéria renal" entre as contraindicações. Assim, a indicação prevista exige cautela especial.
-
-### Outras indicações previstas (todas em nível L5, recomendação Hold)
-
-| Posição | Indicação prevista | Pontuação TxGNN | Observação |
-|------|------|------|------|
-| 2 | Doença renal hipertensiva maligna | 99,68% | Sobrepõe-se amplamente ao uso anti-hipertensivo original; pouca novidade |
-| 3 | Hipertensão pulmonar de mecanismo multifatorial incerto | 99,67% | Racional teórico (remodelamento vascular pulmonar); risco de hipotensão sistêmica |
-| 4 | Hipertensão pulmonar por doença pulmonar e/ou hipóxia | 99,67% | Duas publicações indiretas (ver abaixo) |
-| 5 | Síndrome de Braddock | 99,56% | Sem vínculo mecanístico claro; pode refletir apenas conectividade do grafo |
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
-## Evidências da Literatura
-
-Não há literatura para a indicação principal (hipertensão renovascular maligna). Para a 4ª indicação prevista (hipertensão pulmonar por doença pulmonar/hipóxia), foram recuperados dois artigos, ambos indiretos:
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [31396238](https://pubmed.ncbi.nlm.nih.gov/31396238/) | 2019 | Pré-clínico (camundongo) | Frontiers in Immunology | Candesartana cilexetila, com ação anti-inflamatória, melhorou desfechos neurológicos em modelo murino de hipóxia neonatal; outra área de doença |
-| [21423692](https://pubmed.ncbi.nlm.nih.gov/21423692/) | 2011 | Pré-clínico (fórmula herbal) | Evidence-based Complementary and Alternative Medicine | Hachimijiogan (fórmula Kampo) reduziu disfunção renal em ratos com rim remanescente, com envolvimento de HIF-1α, comparado a um BRA; não avalia candesartana em hipertensão pulmonar |
+Contudo, essa nova indicação se sobrepõe em grande parte ao uso anti-hipertensivo do fármaco, de modo que traz pouca novidade como candidato a reposicionamento. A sustentação atual é apenas a previsão do modelo.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 17 registros encontram-se cancelados; não há registro válido atualmente. Principais registros (5 de 17):
+Segundo os dados compilados, há 17 registros, todos de produtos com candesartana cilexetila isolada ou associada à hidroclorotiazida. Abaixo estão os 5 primeiros; a lista não é exaustiva.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 102351089 | Candesartana cilexetila | Não informada | Anti-hipertensivos simples |
-| Registro nº 189770010 | Atacand | Não informada | Anti-hipertensivos simples |
-| Registro nº 105831048 | Vecande | Não informada | Anti-hipertensivos simples |
-| Registro nº 100330197 | Venzer | Não informada | Anti-hipertensivos simples |
-| Registro nº 189770011 | Atacand HCT | Não informada | Anti-hipertensivos |
-
-Os demais registros incluem associações com hidroclorotiazida (por exemplo, Venzer HCT, Vecande HCT, Procordis HCTZ, Angiotensil HCT).
+| 102351089 | Candesartana cilexetila | Não informada | Anti-hipertensivos simples |
+| 105730673 | Candesartana cilexetila | Não informada | Anti-hipertensivos simples |
+| 189770010 | Atacand | Não informada | Anti-hipertensivos simples |
+| 125680302 | Candesartana cilexetila | Não informada | Anti-hipertensivos simples |
+| 105831048 | Vecande | Não informada | Anti-hipertensivos simples |
 
 ## Considerações de Segurança
 
-- **Contraindicações (base de conhecimento do TxGNN, não extraídas da bula)**: pancreatite, doença hepática, doença da vesícula biliar, lúpus eritematoso sistêmico (inclusive pediátrico), deficiência de potássio, diabetes mellitus, cetoacidose diabética, hiperuricemia, distúrbios hipotensivos, hiperparatireoidismo, osteíte fibrosa, coma hepático, encefalopatia hepática, icterícia neonatal, anúria, gota, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, **obstrução da artéria renal** e comprometimento da função renal. Parte desses itens provavelmente se refere aos produtos associados à hidroclorotiazida, e não à candesartana isolada.
-- **Interações medicamentosas**: nenhuma interação foi encontrada na consulta realizada.
+- **Doenças e condições associadas a contraindicação ou cautela** (relações de contraindicação fármaco-doença do modelo, não texto de bula): pancreatite, doença hepática, doença da vesícula biliar, lúpus eritematoso sistêmico (inclusive pediátrico), deficiência de potássio, diabetes mellitus, cetoacidose diabética, hiperuricemia, distúrbios hipotensivos, hiperparatireoidismo, osteíte fibrosa, coma hepático, encefalopatia hepática, icterícia neonatal, anúria, gota, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, obstrução da artéria renal e comprometimento da função renal.
+- Não foram encontradas interações medicamentosas nos dados compilados.
 
-Para advertências e contraindicações oficiais, consulte a bula.
+Consulte a bula para advertências e contraindicações oficiais, pois esses dados não estavam disponíveis.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- Todas as indicações previstas estão em nível L5, sem ensaios clínicos nem literatura direta. Além disso, a indicação principal sobrepõe-se ao uso anti-hipertensivo original e envolve risco renal relevante (estenose da artéria renal), e todos os registros no Brasil estão cancelados.
+- A previsão tem pontuação alta (0,9968), mas não há ensaios clínicos nem literatura que estudem diretamente esta doença (nível L5). Além disso, a indicação se sobrepõe ao uso anti-hipertensivo já conhecido, com baixa novidade.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados
-- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
-- Realizar busca sistemática de ensaios clínicos e literatura específicos de candesartana em hipertensão renovascular maligna
-- Avaliar o risco de lesão renal aguda em estenose bilateral da artéria renal ou rim único
-- Esclarecer a situação regulatória atual no Brasil (todos os registros cancelados) e a viabilidade de novo registro
+- Obter e analisar a bula da ANVISA (advertências e contraindicações).
+- Complementar os dados de mecanismo de ação.
+- Buscar estudos clínicos ou observacionais de candesartana em doença renal hipertensiva maligna.
+- Avaliar o ganho real em relação ao uso anti-hipertensivo já existente, incluindo a segurança renal em pacientes com comprometimento da função renal.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

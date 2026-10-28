@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Imunossupressor |
 | Nova Indicação Prevista | Mastocitoma extracutâneo (extracutaneous mastocytoma) |
-| Pontuação de Previsão TxGNN | 99,64% |
+| Pontuação de Previsão TxGNN | 0,9964 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,14 +66,14 @@ Ainda assim, esse vínculo é apenas plausível e não comprovado. Não há ensa
 
 | Indicação prevista | Pontuação TxGNN | Nível | Recomendação |
 |------|------|------|------|
-| Mastocitoma extracutâneo | 99,64% | L5 | Hold |
-| Infarto hepático | 99,44% | L5 | Hold |
-| Doença veno-oclusiva hepática | 99,40% | L5 | Hold |
-| Peliose hepática | 99,29% | L5 | Hold |
-| Sarcoma de Kaposi | 99,28% | L4 | Questão de pesquisa |
-| Febre mediterrânea familiar autossômica recessiva | 99,22% | L5 | Hold |
-| Mastocitose sistêmica agressiva | 99,16% | L5 | Hold |
-| Febre periódica familiar autossômica dominante | 99,05% | L5 | Hold |
+| Mastocitoma extracutâneo | 0,9964 | L5 | Hold |
+| Infarto hepático | 0,9944 | L5 | Hold |
+| Doença veno-oclusiva hepática | 0,9940 | L5 | Hold |
+| Peliose hepática | 0,9929 | L5 | Hold |
+| Sarcoma de Kaposi | 0,9928 | L4 | Questão de pesquisa |
+| Febre mediterrânea familiar autossômica recessiva | 0,9922 | L5 | Hold |
+| Mastocitose sistêmica agressiva | 0,9916 | L5 | Hold |
+| Febre periódica familiar autossômica dominante | 0,9905 | L5 | Hold |
 
 ## Evidências de Ensaios Clínicos
 

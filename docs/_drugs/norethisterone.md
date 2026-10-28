@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-## Noretisterona: De anticoncepcional e terapia hormonal para amenorreia
+## Noretisterona: De anticoncepcional e terapia hormonal para Amenorreia (amenorrhea)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** registrados e **20 publicações** as
 |------|------|
 | Indicação Original | Progestágenos simples (anticoncepcionais e terapia hormonal em ginecologia) |
 | Nova Indicação Prevista | Amenorreia (Amenorrhea) |
-| Pontuação de Previsão TxGNN | 99,60% |
+| Pontuação de Previsão TxGNN | 0,9960 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 18 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 18) |
+| Número de Registros | 18 (ativos: 18) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -85,7 +85,7 @@ Foram priorizadas revisões sistemáticas e estudos clínicos. Nenhuma publicaç
 
 ## Informações de Comercialização no Brasil
 
-Todos os 18 registros estão cancelados; não há registro vigente. Principais exemplos:
+Todos os 18 registros estão vigentes (18 de 18 licenças válidas). Principais exemplos:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Obter os dados de mecanismo de ação no DrugBank
 - Fazer uma revisão dirigida da literatura sobre o uso terapêutico de progestágenos na amenorreia secundária (ex.: teste de progesterona, indução de sangramento por privação)
-- Avaliar a viabilidade regulatória, já que todos os 18 registros estão cancelados
+- Avaliar a viabilidade regulatória, já que o medicamento é comercializado, com 18 de 18 registros vigentes
 - Reavaliar a segurança diante das contraindicações sinalizadas pelo grafo de conhecimento, em especial para pacientes com hipoestrogenismo e comorbidades metabólicas
 ## Aviso de isenção de responsabilidade
 

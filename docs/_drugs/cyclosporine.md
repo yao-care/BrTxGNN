@@ -4,17 +4,17 @@ title: Cyclosporine
 parent: Evidência Moderada (L3-L4)
 nav_order: 246
 evidence_level: L4
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-13
 description: "Cyclosporine: nova indicação prevista, Doença granulomatosa crônica autossômica recessiva (Granulomatous dis… (nível de evidência L4). Indicação original: Outros medicamentos com ação no aparelho vis…"
 monitor_inn: "Cyclosporine"
-predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland", "excretory apparatus of the lacrimal system anomaly", "bronchitis", "nasolacrimal duct disease"]
+predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
 ---
 
 # Cyclosporine
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Ciclosporina: De agente imunossupressor e oftálmico para granulomatose crônica
+## Ciclosporina: De agente imunossupressor e oftálmico para doença granulomatosa crônica autossômica recessiva
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **doença granulomatosa crônica 
 |------|------|
 | Indicação Original | Outros medicamentos com ação no aparelho visual (registro do Restasis); agente imunossupressor |
 | Nova Indicação Prevista | Doença granulomatosa crônica autossômica recessiva (Granulomatous disease, chronic, autosomal recessive) |
-| Pontuação de Previsão TxGNN | 99,68% |
+| Pontuação de Previsão TxGNN | 0,9968 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 5 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -109,7 +109,7 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem estudos que mostrem benefício direto da ciclosporina na DGC; a única publicação é indireta (TCTH). A pontuação alta do TxGNN, isolada, não basta, e a imunossupressão pode ser desfavorável em um paciente com risco elevado de infecção. Todos os registros brasileiros estão cancelados.
+- Não há ensaios clínicos nem estudos que mostrem benefício direto da ciclosporina na DGC; a única publicação é indireta (TCTH). A pontuação alta do TxGNN, isolada, não basta, e a imunossupressão pode ser desfavorável em um paciente com risco elevado de infecção. O medicamento é comercializado no Brasil, com 5 registros válidos de 5.
 
 **Para prosseguir, é necessário:**
 - Estudos pré-clínicos ou clínicos que avaliem diretamente a ciclosporina na DGC (inclusive na inflamação granulomatosa e na DECH pós-TCTH).
@@ -122,7 +122,6 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 ### Observação sobre outras indicações previstas
 
-Entre as demais previsões, a de maior suporte é **"bronchitis"**. Na prática, ela corresponde à **síndrome da bronquiolite obliterante (BOS)** após transplante de pulmão, com **nível L1**: há ensaios de Fase 3 concluídos, NCT00755781 e NCT03656926, com ciclosporina inalatória ou lipossomal. Esse apoio **não se estende** à bronquite comum. Vale a pena avaliar a indicação como uma questão de pesquisa separada, restrita à BOS e à via inalatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

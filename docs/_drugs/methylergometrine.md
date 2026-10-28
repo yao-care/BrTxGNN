@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **hipertricose (hypertrichosis)**
 |------|------|
 | Indicação Original | Ocitócicos não hormonais |
 | Nova Indicação Prevista | Hipertricose (hypertrichosis) |
-| Pontuação de Previsão TxGNN | 99,87% |
+| Pontuação de Previsão TxGNN | 0,9987 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Triptorelina: De "outros produtos para o aparelho digestivo e metabolismo" para hipertricose
+## Triptorelina: De "outros produtos para o aparelho digestivo e metabolismo" para Hipertricose (hypertrichosis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que ela possa ser eficaz para **Hipertricose (hypertrichos
 |------|------|
 | Indicação Original | Outros produtos para o aparelho digestivo e metabolismo (classe terapêutica constante no registro, não uma indicação clínica específica) |
 | Nova Indicação Prevista | Hipertricose (hypertrichosis) |
-| Pontuação de Previsão TxGNN | 99,997% |
+| Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -61,7 +61,7 @@ O modelo TxGNN prevê que ela possa ser eficaz para **Hipertricose (hypertrichos
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a triptorelina é um agonista do GnRH. A estimulação contínua dessensibiliza os receptores de GnRH da hipófise, reduz o LH e o FSH e, com isso, os esteroides sexuais produzidos pelas gônadas.
 
-**Esta previsão não tem respaldo mecanístico crível.** A supressão de esteroides sexuais não deveria tratar a hipertricose e pode até agir no sentido oposto sobre o crescimento de pelos. A pontuação alta do modelo (99,997%) provavelmente reflete proximidade na rede de conhecimento biomédico, e não uma relação terapêutica real. Outras doenças previstas com pontuações igualmente altas (por exemplo, hipertricose congênita de Ambras e anormalidades genéticas da haste capilar) também não têm lógica farmacológica plausível.
+**Esta previsão não tem respaldo mecanístico crível.** A supressão de esteroides sexuais não deveria tratar a hipertricose e pode até agir no sentido oposto sobre o crescimento de pelos. A pontuação alta do modelo (1,0000) provavelmente reflete proximidade na rede de conhecimento biomédico, e não uma relação terapêutica real. Outras doenças previstas com pontuações igualmente altas (por exemplo, hipertricose congênita de Ambras e anormalidades genéticas da haste capilar) também não têm lógica farmacológica plausível.
 
 Observação: entre as demais previsões do modelo, a **puberdade precoce** (posição 8 da lista) tem evidência robusta, com vários ensaios de Fase 3 concluídos. É, porém, um uso já consolidado em diversas regiões, e portanto não é reposicionamento genuíno. Ela confirma que o modelo reconhece a farmacologia conhecida do fármaco, mas não altera a avaliação da hipertricose.
 
@@ -83,7 +83,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros estão cancelados; atualmente não há produto com registro válido.
+Os 3 registros estão válidos (3 de 3); o medicamento é comercializado no Brasil.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -110,13 +110,13 @@ Os dados de advertências e contraindicações da bula da ANVISA não estavam di
 
 **Justificativa:**
 - Não há ensaios clínicos nem literatura que apoiem a triptorelina na hipertricose. O único artigo encontrado descreve um efeito adverso da ciclosporina, e não há mecanismo plausível que sustente a previsão (nível de evidência L5).
-- Além disso, todos os registros brasileiros do fármaco estão cancelados.
+- Além disso, o fármaco é comercializado no Brasil, com 3 registros válidos de 3.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
 - Obter os dados de mecanismo de ação a partir do DrugBank.
 - Apresentar uma hipótese mecanística plausível e dados pré-clínicos ou clínicos que ligue a supressão do eixo GnRH à hipertricose, o que hoje não existe.
-- Esclarecer a situação regulatória atual da triptorelina no Brasil, já que todos os registros listados estão cancelados.
+- Confirmar a situação regulatória atual da triptorelina no Brasil, onde o fármaco é comercializado e os 3 registros listados estão válidos.
 - Se o objetivo for aproveitar o potencial do fármaco, avaliar separadamente indicações com evidência real, como a puberdade precoce central.
 ## Aviso de isenção de responsabilidade
 

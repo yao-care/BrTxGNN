@@ -7,6 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 407
 evidence_level: L5
 indication_count: 0
+predicted_indications: []
 ---
 
 # Levobupivacaína Hydrochloride
@@ -48,8 +49,8 @@ Levobupivacaína Hidrocloreto é o enantiômero S da bupivacaína, amplamente re
 | Nova Indicação Prevista | Nenhuma identificada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem predição real gerada) |
-| Situação no Mercado Brasileiro | Não comercializado (conforme dados consultados) |
-| Número de Registros ANVISA | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros ANVISA | 2 (ativos: 2) |
 | Decisão Recomendada | **Hold** |
 
 ---

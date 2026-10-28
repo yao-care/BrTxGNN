@@ -4,17 +4,17 @@ title: Tryptophan
 parent: Evidência Moderada (L3-L4)
 nav_order: 658
 evidence_level: L3
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Tryptophan: nova indicação prevista, Síndrome das Pernas Inquietas (Restless Legs Syndrome) (nível de evidência L3). Indicação original: Produtos para dietas especiais"
 monitor_inn: "Tryptophan"
-predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency", "acne (disease)", "pregnancy associated osteoporosis"]
+predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 ---
 
 # Tryptophan
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L3** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **0 ensaios clínicos** registrados e **6 publicações** (nenhum
 |------|------|
 | Indicação Original | Produtos para dietas especiais |
 | Nova Indicação Prevista | Síndrome das Pernas Inquietas (Restless Legs Syndrome) |
-| Pontuação de Previsão TxGNN | 99,72% |
+| Pontuação de Previsão TxGNN | 0,9972 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 17 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 17) |
+| Número de Registros | 17 (ativos: 17) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -79,7 +79,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 17 registros encontrados estão cancelados. Principais registros:
+Dos 17 registros encontrados, os 17 estão válidos. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -103,7 +103,7 @@ Consulte a bula para as demais informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A pontuação do modelo é alta, mas a evidência para SPI se limita a estudos pequenos e antigos de 1986-1987, sem ensaios clínicos registrados. Todos os registros brasileiros estão cancelados, há 17 interações medicamentosas (várias graves, de natureza serotoninérgica) e o grafo de conhecimento aponta contraindicações relevantes. É uma questão de pesquisa, não uma candidata pronta para avançar.
+A pontuação do modelo é alta, mas a evidência para SPI se limita a estudos pequenos e antigos de 1986-1987, sem ensaios clínicos registrados. O medicamento é comercializado no Brasil, com 17 registros válidos de 17, há 17 interações medicamentosas (várias graves, de natureza serotoninérgica) e o grafo de conhecimento aponta contraindicações relevantes. É uma questão de pesquisa, não uma candidata pronta para avançar.
 
 **Para prosseguir, é necessário:**
 - Ensaio clínico controlado e randomizado moderno de triptofano em SPI, com desfechos validados

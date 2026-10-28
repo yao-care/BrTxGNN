@@ -8,6 +8,7 @@ nav_order: 134
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bicalutamida
@@ -49,8 +50,8 @@ Bicalutamida é um antiandrogênio não esteroidal utilizado no tratamento do c�
 | Nova Indicação Prevista | — (sem previsão TxGNN neste pacote) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 10 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 10) |
+| Número de Registros | 10 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ---

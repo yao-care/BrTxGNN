@@ -8,6 +8,7 @@ nav_order: 28
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Adalimumabe
@@ -49,8 +50,8 @@ Adalimumabe é um fármaco biológico (anticorpo monoclonal) com 14 registros id
 | Nova Indicação Prevista | Sem previsões TxGNN geradas |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 14 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 14) |
+| Número de Registros | 14 (ativos: 11) |
 | Decisão Recomendada | **Hold** |
 
 ---

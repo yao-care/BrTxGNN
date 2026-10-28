@@ -8,6 +8,7 @@ nav_order: 617
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Teriflunomida
@@ -49,8 +50,8 @@ Teriflunomida é um agente imunomodulador oral aprovado para o tratamento de for
 | Nova Indicação Prevista | — Não disponível neste Evidence Pack |
 | Pontuação de Previsão TxGNN | — Não disponível |
 | Nível de Evidência | L5 (ausência de predição processada) |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 11 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 11) |
+| Número de Registros | 11 (ativos: 5) |
 | Decisão Recomendada | **Hold** |
 
 ---

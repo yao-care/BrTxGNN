@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **Gastroparesia (Gastroparesis)**
 |------|------|
 | Indicação Original | Nutrientes parenterais |
 | Nova Indicação Prevista | Gastroparesia (Gastroparesis) |
-| Pontuação de Previsão TxGNN | 99,37% |
+| Pontuação de Previsão TxGNN | 0,9937 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 16 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
+| Número de Registros | 16 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a alanina é um aminoácido não essencial utilizado como nutriente em soluções de nutrição parenteral, geralmente combinada com outros aminoácidos, glicose, lipídios e eletrólitos.
 
-Não foi estabelecida uma ligação mecanística crível entre a alanina e a gastroparesia. A pontuação do TxGNN (0,994) é apenas uma previsão do modelo, sem respaldo clínico. As três publicações recuperadas tratam de distúrbios gastrointestinais e hepáticos na doença renal terminal, de hepatosclerose diabética e de hepatopatia glicogênica no diabetes tipo 1. Elas se relacionam com a indicação apenas pela comorbidade com diabetes, pois a gastroparesia e as alterações hepáticas ou metabólicas coexistem em pacientes diabéticos.
+Não foi estabelecida uma ligação mecanística crível entre a alanina e a gastroparesia. A pontuação do TxGNN (0,9937) é apenas uma previsão do modelo, sem respaldo clínico. As três publicações recuperadas tratam de distúrbios gastrointestinais e hepáticos na doença renal terminal, de hepatosclerose diabética e de hepatopatia glicogênica no diabetes tipo 1. Elas se relacionam com a indicação apenas pela comorbidade com diabetes, pois a gastroparesia e as alterações hepáticas ou metabólicas coexistem em pacientes diabéticos.
 
 Um papel hipotético da nutrição com aminoácidos em pacientes com esvaziamento gástrico prejudicado, como a nutrição parenteral quando a alimentação enteral falha, seria apenas suporte nutricional. Não modifica a doença e não constitui evidência para reposicionamento.
 
@@ -75,7 +75,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 16 registros estão cancelados. São listados os 5 principais:
+Todos os 16 registros estão válidos. São listados os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -96,7 +96,7 @@ Para advertências, contraindicações e interações medicamentosas formais, co
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos e sem literatura que avalie a alanina na gastroparesia. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos e sem literatura que avalie a alanina na gastroparesia. Além disso, o medicamento está comercializado no Brasil, com 16 registros válidos de 16.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da alanina e análise de uma ligação mecanística plausível com a fisiopatologia da gastroparesia

@@ -6,9 +6,9 @@ nav_order: 593
 evidence_level: L3
 indication_count: 8
 last_modified_at: 2026-10-13
-description: "Sofosbuvir: nova indicação prevista, Infecção pelo vírus da hepatite B (Hepatitis B virus infection) (nível de evidência L3). Indicação original: Infecção crônica pelo vírus da hepatite C (conforme o…"
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
+description: "Sofosbuvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L3). Indicação original: Não consta nos dados locais"
 ---
 
 # Sofosbuvir
@@ -33,31 +33,31 @@ Nível de evidência: **L3** | Indicações previstas: **8**
 
 </div>
 
-## Sofosbuvir: Da hepatite C crônica à infecção pelo vírus da hepatite B
+## Sofosbuvir: Infecção pelo vírus da hepatite B (hepatitis B virus infection)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 Sofosbuvir é um inibidor nucleotídico da polimerase NS5B do vírus da hepatite C (HCV), originalmente usado no tratamento da infecção crônica pelo HCV.
-O modelo TxGNN prevê que pode ser eficaz para a **infecção pelo vírus da hepatite B (Hepatitis B virus infection)**, mas os dados compilados mostram **10 ensaios clínicos** e **20 publicações** recuperados, quase todos realizados em populações com HCV. Nenhum demonstra atividade anti-HBV do fármaco.
+O modelo TxGNN prevê que pode ser eficaz para a **infecção pelo vírus da hepatite B (Hepatitis B virus infection)**, mas os dados compilados mostram **10 ensaios clínicos** e **20 publicações** recuperados, quase todos realizados em populações com HCV.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecção crônica pelo vírus da hepatite C (conforme o grafo de conhecimento; não há texto de bula brasileira disponível) |
-| Nova Indicação Prevista | Infecção pelo vírus da hepatite B (Hepatitis B virus infection) |
-| Pontuação de Previsão TxGNN | 99,77% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Infecção pelo vírus da hepatite B (hepatitis B virus infection) |
+| Pontuação de Previsão TxGNN | 0.9977 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os registros compilados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 9) |
+| Número de Registros | 9 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o sofosbuvir é um análogo nucleotídico que inibe a RNA polimerase RNA-dependente NS5B do HCV, e sua eficácia na hepatite C está bem estabelecida.
 
-Mecanisticamente, porém, a previsão é fraca. O HBV é um vírus de DNA que replica por uma etapa de transcrição reversa e não possui homólogo da NS5B. Uma ação antiviral direta do sofosbuvir contra o HBV, portanto, não é plausível. A pontuação alta do TxGNN (0,998) provavelmente reflete a proximidade na rede de "hepatite viral" e não um mecanismo real.
+Mecanisticamente, porém, a previsão é fraca. O HBV é um vírus de DNA que replica por uma etapa de transcrição reversa e não possui homólogo da NS5B. Uma ação antiviral direta do sofosbuvir contra o HBV, portanto, não é plausível. A pontuação alta do TxGNN (0,9977) provavelmente reflete a proximidade na rede de "hepatite viral" e não um mecanismo real.
 
 Os ensaios recuperados foram conduzidos em pacientes com HCV, e o HBV aparece como coinfecção ou questão de monitoramento. Na coinfecção HCV/HBV, os antivirais de ação direta eliminam o HCV, e a reativação do HBV é uma preocupação de segurança, não um efeito terapêutico.
 

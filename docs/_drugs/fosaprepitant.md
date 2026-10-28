@@ -50,10 +50,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antieméticos e antinauseantes |
 | Nova Indicação Prevista | Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
-| Pontuação de Previsão TxGNN | 99,92% |
+| Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 8 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -64,7 +64,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A relação entre a indicação original e a nova indicação é fraca. A síndrome nefrogênica de antidiurese inapropriada é um distúrbio do manejo renal da água, ligado à via da vasopressina. Uma conexão com o antagonismo NK1 é especulativa, e nenhum mecanismo de suporte foi estabelecido com os dados disponíveis.
 
-A pontuação elevada do TxGNN (99,92%) reflete uma previsão computacional baseada em grafo de conhecimento e, isoladamente, não é suficiente para justificar o avanço desta indicação.
+A pontuação elevada do TxGNN (0,9992) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Isoladamente, não é suficiente para justificar o avanço desta indicação.
 
 ---
 
@@ -98,7 +98,7 @@ Consulte a bula para as demais informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão não tem nenhum ensaio clínico ou publicação de suporte e nenhum mecanismo plausível identificado (nível L5). Além disso, todos os registros brasileiros do fármaco estão cancelados, o que limita a viabilidade local.
+A previsão não tem nenhum ensaio clínico ou publicação de suporte e nenhum mecanismo plausível identificado (nível L5). O medicamento está comercializado no Brasil, com 8 registros válidos de 8.
 
 **Para prosseguir, é necessário:**
 - Dados detalhados do mecanismo de ação (MOA) e uma hipótese biológica que ligue o antagonismo NK1 à via da vasopressina/manejo renal de água

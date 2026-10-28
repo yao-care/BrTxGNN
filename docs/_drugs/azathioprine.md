@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Azathioprine
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 98
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-13
-description: "Azathioprine: nova indicação prevista, Doença Inflamatória Intestinal (Inflammatory Bowel Disease) (nível de evidência L1). Indicação original: Imunodepressor"
 monitor_inn: "AZATHIOPRINE"
-predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "osteoarthritis susceptibility", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
+description: "Azathioprine: nova indicação prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (nível de evidência L5). Indicação original: IMUNODEPRESSOR"
 ---
 
 # Azathioprine
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,28 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-## Azatioprina: Do imunossupressor à doença inflamatória intestinal
+## Azathioprine: Colobomatous microphthalmia-rhizomelic dysplasia syndrome
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 Azatioprina é um imunossupressor análogo da purina, registrado na ANVISA como imunodepressor e imunomodulador.
 O modelo TxGNN prevê que pode ser eficaz para **Doença Inflamatória Intestinal (Inflammatory Bowel Disease)**, com **25 ensaios clínicos** e **20 publicações** apoiando esta direção.
-Atenção: as duas primeiras previsões do modelo (síndromes congênitas raras) não têm nenhuma evidência. A previsão com respaldo real é a doença inflamatória intestinal (DII), que já é uso estabelecido na prática clínica.
+Atenção: as duas primeiras previsões do modelo (síndromes congênitas raras) não têm nenhuma evidência.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Imunodepressor |
-| Nova Indicação Prevista | Doença Inflamatória Intestinal (Inflammatory Bowel Disease) |
-| Pontuação de Previsão TxGNN | 99,52% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 5 (todos cancelados) |
+| Indicação Original | IMUNODEPRESSOR; ANTIMETABOLICOS ANALOGOS DA PURINA; IMUNOMODULADOR |
+| Nova Indicação Prevista | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
+| Pontuação de Previsão TxGNN | 1.0000 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Proceed with Guardrails |
 
-**Observação sobre a ordem das previsões:** as previsões de maior pontuação (rank 1 a 4: síndrome de microftalmia colobomatosa com displasia rizomélica, síndrome de braquidactilia-sindactilia, suscetibilidade à osteoartrite e síndrome WHIM) não têm ensaios clínicos nem literatura, e não há racional mecanístico plausível. Elas parecem artefatos do grafo de conhecimento. Este relatório foca na DII, a primeira previsão com evidências reais. A colite ulcerativa (rank 9) é um subtipo da DII e está incluída nas evidências abaixo.
+**Observação sobre a ordem das previsões:** as previsões de maior pontuação (síndrome de microftalmia colobomatosa com displasia rizomélica, síndrome de braquidactilia-sindactilia e síndrome WHIM) não têm ensaios clínicos nem literatura, e não há racional mecanístico plausível. As pontuações vêm do modelo TxGNN (deep learning) e podem refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 ## Por que Esta Previsão é Razoável?
 
@@ -98,7 +98,7 @@ Dos ensaios identificados para DII e colite ulcerativa, estes são os mais relev
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros estão cancelados; não há produto com registro válido atualmente.
+Há 5 registros válidos de 5 no total; o medicamento está comercializado no Brasil.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -125,10 +125,10 @@ Os dados de advertências e contraindicações da bula da ANVISA não estavam di
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há ensaios de Fase 3 e Fase 4, um RCT recente publicado (Gut, 2025) e revisões Cochrane que sustentam o uso na DII, sobretudo na colite ulcerativa. Trata-se de uso já estabelecido, mas todos os registros brasileiros estão cancelados. As demais previsões de alta pontuação (síndromes congênitas, osteoartrite, WHIM, doença granulomatosa crônica) devem permanecer em **Hold**, por falta de evidência e de racional mecanístico.
+Há ensaios de Fase 3 e Fase 4, um RCT recente publicado (Gut, 2025) e revisões Cochrane que sustentam o uso na DII, sobretudo na colite ulcerativa. Trata-se de uso já estabelecido, e o medicamento está comercializado no Brasil, com 5 registros válidos de 5. As demais previsões de alta pontuação (síndromes congênitas, osteoartrite, WHIM, doença granulomatosa crônica) devem permanecer em **Hold**, por falta de evidência e de racional mecanístico.
 
 **Para prosseguir, é necessário:**
-- Verificar a disponibilidade comercial da azatioprina no Brasil (todos os registros cancelados) e a situação regulatória atual.
+- Verificar a disponibilidade comercial da azatioprina no Brasil (5 registros válidos de 5) e a situação regulatória atual.
 - Obter as advertências e contraindicações da bula na ANVISA.
 - Complementar os dados do mecanismo de ação.
 - Implementar protocolo de segurança: genotipagem de TPMT/NUDT15, hemograma e função hepática periódicos, e vigilância de infecções e neoplasias.

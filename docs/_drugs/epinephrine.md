@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Epinephrine
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 292
-evidence_level: L1
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-13
 description: "Epinephrine: nova indicação prevista, Doença pulmonar obstrutiva (Obstructive Lung Disease) (nível de evidência L1). Indicação original: Vasoconstritores e hipertensores"
 monitor_inn: "epinephrine"
-predicted_indications: ["obstructive lung disease", "food-dependent exercise-induced anaphylaxis", "Rienhoff syndrome", "respiratory malformation"]
+predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 ---
 
 # Epinephrine
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **4** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **15 ensaios clínicos** e **20 publicações** apoiando esta dir
 |------|------|
 | Indicação Original | Vasoconstritores e hipertensores |
 | Nova Indicação Prevista | Doença pulmonar obstrutiva (Obstructive Lung Disease) |
-| Pontuação de Previsão TxGNN | 99,71% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 16 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9971 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
+| Número de Registros | 16 (ativos: 16) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -98,7 +98,7 @@ Foram priorizados ensaios randomizados e revisões sistemáticas.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 16 registros encontrados estão cancelados; abaixo, os 5 principais.
+Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -120,7 +120,7 @@ Consulte a bula para advertências e contraindicações oficiais, pois os textos
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há vários ensaios de Phase 3 concluídos com epinefrina inalatória em asma, o que sustenta o nível de evidência L1, e o mecanismo adrenérgico é diretamente plausível. Contudo, todos os registros brasileiros estão cancelados, as evidências em bronquiolite são inconsistentes e os dados de segurança de bula não estão disponíveis.
+Há vários ensaios de Phase 3 concluídos com epinefrina inalatória em asma, o que sustenta o nível de evidência L1, e o mecanismo adrenérgico é diretamente plausível. Contudo, os 16 registros brasileiros estão válidos e o medicamento é comercializado, as evidências em bronquiolite são inconsistentes e os dados de segurança de bula não estão disponíveis.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

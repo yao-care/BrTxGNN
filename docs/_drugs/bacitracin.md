@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 104
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Bacitracin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Ceratite, ceratoconjuntivite e blefaroconjunti…"
 monitor_inn: "Bacitracin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
+last_modified_at: 2026-10-27
+description: "Bacitracin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Bacitracin
@@ -33,86 +33,60 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Bacitracina: Da ceratite à ceratoconjuntivite epitelial punctata
+## Bacitracina: antibiótico polipeptídico tópico → ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-A bacitracina é um antibiótico polipeptídico de uso tópico, originalmente utilizado em afecções oculares como ceratite, ceratoconjuntivite e blefaroconjuntivite.
-O modelo TxGNN prevê que ela pode ser eficaz para a **Ceratoconjuntivite Epitelial Punctata (punctate epithelial keratoconjunctivitis)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica.
+Bacitracina é um antibiótico polipeptídico de uso tópico, que atua sobre bactérias Gram-positivas inibindo a síntese da parede celular.
+O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis)**,
+atualmente com **0 ensaios clínicos** e **0 publicações** apoiando diretamente esta direção; trata-se de uma previsão exclusivamente do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Ceratite, ceratoconjuntivite e blefaroconjuntivite (conforme o grafo de conhecimento; não há texto de indicação de registro no Brasil) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,999% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 8) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a bacitracina é um antibiótico polipeptídico tópico que atua sobre bactérias Gram-positivas por meio da inibição da síntese da parede celular. Sua utilidade em infecções oculares superficiais é conhecida, e mecanisticamente ela poderia ser aplicável a quadros da mesma família.
+Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, a bacitracina é um antibiótico polipeptídico tópico que inibe a síntese da parede celular de bactérias Gram-positivas.
 
-A nova indicação prevista está próxima das indicações originais (ceratite e ceratoconjuntivite), de modo que a previsão do TxGNN é plausível como extensão dentro da mesma família de doenças. Contudo, a ceratoconjuntivite epitelial punctata costuma ser de origem viral (por exemplo, adenovírus) ou não infecciosa, situações em que um antibacteriano tem benefício limitado. Portanto, a pontuação elevada pode refletir mais a proximidade no grafo de conhecimento do que um mecanismo terapêutico comprovado.
+A nova indicação prevista está na mesma família de doenças oculares de superfície que os usos oculares já conhecidos do fármaco, o que torna a previsão plausível como extensão dentro do mesmo grupo de doenças. Esse parentesco é provavelmente o que sustenta a pontuação elevada.
 
-Entre as demais previsões, a de **otite externa** é a única com alguma literatura (veja abaixo), mas fica fora do escopo da indicação principal avaliada neste relatório.
+Há, porém, uma limitação importante: a ceratoconjuntivite epitelial punctata costuma ser de origem viral (por exemplo, adenovírus) ou não infecciosa, situações em que um antibacteriano tem benefício limitado. Não foram encontrados ensaios clínicos nem publicações sobre esta doença nos dados compilados para este relatório.
 
-## Considerações sobre Outras Indicações Previstas
+## Informações de Comercialização no Brasil
 
-| Indicação prevista | Pontuação TxGNN | Nível | Comentário |
-|------|------|------|------|
-| Ceratite por exposição | 99,99% | L5 | Vínculo indireto (profilaxia de infecção secundária e veículo lubrificante); sem evidências |
-| Otite externa | 99,97% | L4 | Há literatura, mas sobretudo com combinações de produtos; evidência específica da bacitracina é limitada |
-| Doença animal não humana | 99,97% | L5 | Categoria inespecífica da ontologia, provável artefato do grafo; não perseguir |
-| Vasculite pós-infecciosa, transtorno pós-bacteriano e síndrome pós-infecciosa | 99,96–99,97% | L5 | Sequelas imunomediadas; sem papel mecanístico claro |
-| Estenose uretral infecciosa | 99,97% | L5 | Condição fibrótica; a bacitracina não tem ação antifibrótica |
-| Síndrome hemolítico-urêmica associada a infecção | 99,96% | L5 | Desfavorável: antibióticos geralmente são evitados e a bacitracina é nefrotóxica se absorvida |
-| Cardiomiopatia chagásica | 99,96% | L5 | Causada por protozoário; sem atividade antiprotozoária conhecida |
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada para a ceratoconjuntivite epitelial punctata.
-
-Para referência, a literatura disponível na indicação prevista de otite externa (não é a indicação principal deste relatório):
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [17503066](https://pubmed.ncbi.nlm.nih.gov/17503066/) | 2007 | Estudo clínico comparativo (duplo-cego, 151 pacientes) | Eur Arch Otorhinolaryngol | Pomada de polimixina B + bacitracina isolada versus associada a acetato de hidrocortisona na otite externa bacteriana aguda; avalia a contribuição do corticoide |
-| [9820118](https://pubmed.ncbi.nlm.nih.gov/9820118/) | 1998 | Estudo in vitro (veterinário) | Zentralbl Veterinarmed B | Suscetibilidade a 20 antibióticos de 46 cepas isoladas de otite externa canina crônica; resistência aumentada em relação ao relatado antes |
-| [14055264](https://pubmed.ncbi.nlm.nih.gov/14055264/) | 1963 | Artigo de prática clínica/revisão | Md State Med J | Tratamento prático da otite externa (sem resumo disponível) |
-| [14048629](https://pubmed.ncbi.nlm.nih.gov/14048629/) | 1963 | Relato clínico histórico (produto combinado) | Z Laryngol Rhinol Otol | Tratamento local de processos inflamatórios e secretores do ouvido com bastões de Nebacetin (sem resumo disponível) |
+Segundo os dados compilados para este relatório, a situação de mercado é **comercializado**, com **8 registros válidos** e **12 registros cancelados**. A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.
 
 ## Considerações de Segurança
 
-- **Contraindicações no grafo de conhecimento** (não provenientes de bula): o grafo associa o fármaco a contraindicações em condições como doença renal, doença hepática, epilepsia, diabetes, cetoacidose diabética, miastenia gravis e doenças da junção neuromuscular, insuficiência respiratória, bloqueio atrioventricular, doença vascular periférica, glaucoma de ângulo aberto e hipertensão ocular, ceratite por herpes simplex, infecções oculares fúngicas e virais, conjuntivite, insuficiência adrenocortical/doença de Addison, atrofia da pele e telangiectasia. Esses dados devem ser verificados com a bula, pois alguns itens podem refletir outros fármacos ou classes.
-- **Interações medicamentosas**: foram identificadas 84 interações, sendo as de gravidade **maior** com:
-  - aminoglicosídeos: canamicina, neomicina e estreptomicina (risco aditivo de nefrotoxicidade e neurotoxicidade);
-  - deferasirox;
-  - contrastes iodados: diatrizoato, iodipamida, iodixanol e ioexol.
-- Interações de gravidade **moderada** incluem mesalazina, balsalazida, olsalazina, sulfassalazina, exenatida, vancomicina e ácido picossulfúrico.
-- A nefrotoxicidade da bacitracina em exposição sistêmica limita usos não tópicos.
+- **Interações medicamentosas** (84 interações registradas; principais exemplos):
+  - **Gravidade maior:** canamicina, neomicina, estreptomicina, deferasirox, diatrizoato, iodipamida, iodixanol e ioexol.
+  - **Gravidade moderada:** mesalazina, balsalazida, exenatida, olsalazina, sulfassalazina, vancomicina e ácido picossulfúrico.
+- A bacitracina é nefrotóxica quando absorvida sistemicamente, o que restringe qualquer uso não tópico.
+
+Para advertências e contraindicações formais, consulte a bula, pois esses dados não estavam disponíveis para este relatório.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação TxGNN muito alta, mas não há ensaios clínicos nem literatura que a sustentem (L5). Além disso, a doença é frequentemente viral ou não infecciosa, o que reduz o benefício esperado de um antibacteriano. O fármaco não está comercializado no Brasil.
+- A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos nem publicações sobre ceratoconjuntivite epitelial punctata. A etiologia frequentemente viral ou não infecciosa reduz a plausibilidade de benefício de um antibacteriano.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula aprovada (advertências e contraindicações), pois a triagem de segurança está bloqueada por essa lacuna.
-- Obter os dados do mecanismo de ação a partir do DrugBank.
-- Revisar sistematicamente a literatura sobre a etiologia da ceratoconjuntivite epitelial punctata e o papel de antibacterianos tópicos.
-- Verificar a viabilidade regulatória e de via de administração (formulação oftálmica) para o Brasil, já que não há registros vigentes.
-- Se houver interesse em outra direção, avaliar otite externa como pergunta de pesquisa, com revisão da evidência específica da bacitracina separada dos produtos combinados.
+- Revisão da literatura e busca de estudos sobre a doença-alvo, especialmente a proporção de casos de origem bacteriana.
+- Dados do mecanismo de ação (MOA) do fármaco.
+- Texto da bula da ANVISA com advertências e contraindicações, para a triagem de segurança.
+- Confirmação da compatibilidade de via de administração e formulação oftálmica disponíveis no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

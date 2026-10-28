@@ -4,17 +4,17 @@ title: Hesperidin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 352
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Hesperidin: nova indicação prevista, Neoplasia Mieloproliferativa (Myeloproliferative Neoplasm) (nível de evidência L5). Indicação original: Não há indicação aprovada registrada"
+indication_count: 5
 monitor_inn: "Hesperidin"
-predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm", "primary peritoneal carcinoma (disease)", "acute lymphoblastic leukemia (disease)", "myeloid leukemia", "Seckel syndrome", "myeloproliferative neoplasm, unclassifiable"]
+predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
+last_modified_at: 2026-10-27
+description: "Hesperidin: nova indicação prevista, neoplasia mieloproliferativa (myeloproliferative neoplasm) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Hesperidin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,33 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Hesperidina: Da ausência de indicação registrada à neoplasia mieloproliferativa
+## Hesperidina: flavonoide → neoplasia mieloproliferativa (myeloproliferative neoplasm)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Hesperidina é um flavonoide glicosilado (glicosídeo de citrus), sem indicação aprovada registrada na ANVISA e sem comercialização no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Neoplasia Mieloproliferativa (Myeloproliferative Neoplasm)**, mas essa previsão se apoia em **0 ensaios clínicos** e apenas **1 publicação** (um estudo computacional *in silico*).
+Hesperidina é um flavonoide (glicosídeo da hesperetina), cuja indicação aprovada não está registrada nos dados locais.
+O modelo TxGNN prevê que pode ser eficaz para **neoplasia mieloproliferativa (myeloproliferative neoplasm)**, mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (um estudo computacional *in silico* sobre leucemia mieloide crônica, condição relacionada), de modo que a previsão carece de validação experimental.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não há indicação aprovada registrada |
-| Nova Indicação Prevista | Neoplasia Mieloproliferativa (Myeloproliferative Neoplasm) |
-| Pontuação de Previsão TxGNN | 99,47% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | neoplasia mieloproliferativa (myeloproliferative neoplasm) |
+| Pontuação de Previsão TxGNN | 0,9947 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 15) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação da hesperidina nos dados compilados para este relatório. Como não há indicação original registrada, não é possível estabelecer uma relação direta entre uma indicação aprovada e a nova indicação prevista.
+Atualmente, não há dados detalhados sobre o mecanismo de ação da hesperidina nos dados compilados para este relatório. Sabe-se que é um flavonoide cítrico, e a literatura geral descreve atividades antioxidantes e anti-inflamatórias, mas isso não foi confirmado pelos dados disponíveis aqui e não sustenta, por si só, uma ação em neoplasias mieloproliferativas.
 
-O único item de apoio é uma triagem computacional de reposicionamento (docking molecular) voltada ao domínio quinase de BCR na leucemia mieloide crônica, uma neoplasia relacionada. Trata-se de uma previsão *in silico*, sem validação experimental ou clínica para a hesperidina. A pontuação alta do TxGNN (0,995) é apenas uma previsão do modelo.
+O único item de literatura é um estudo *in silico* de reposicionamento de fármacos que buscou alvos no domínio quinase da BCR na leucemia mieloide crônica (uma neoplasia mieloproliferativa relacionada). Trata-se de uma predição computacional (docking), sem validação experimental ou clínica para a hesperidina. Esse estudo não analisa diretamente a neoplasia mieloproliferativa como doença prevista, portanto o nível de evidência permanece em L5.
 
-Vale notar que, entre as demais indicações previstas, a **leucemia mieloide** (pontuação 98,73%) é a que tem maior volume de evidências pré-clínicas (cerca de 10 artigos), todas *in vitro* ou computacionais. Isso a torna uma hipótese de pesquisa mais fundamentada do que a neoplasia mieloproliferativa, embora ainda sem dados em animais ou humanos.
+A pontuação elevada do TxGNN reflete apenas uma previsão do modelo e não deve ser interpretada como evidência de eficácia.
 
 ## Evidências de Ensaios Clínicos
 
@@ -69,25 +69,28 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [31759365](https://pubmed.ncbi.nlm.nih.gov/31759365/) | 2019 | Estudo *in silico* | Asian Pac J Cancer Prev | Triagem computacional de reposicionamento de fármacos para atingir o domínio quinase de BCR e o Grb-2 na leucemia mieloide crônica, com o objetivo de contornar a resistência aos inibidores de tirosina quinase. Não há validação experimental ou clínica. |
+| [31759365](https://pubmed.ncbi.nlm.nih.gov/31759365/) | 2019 | Estudo *in silico* | Asian Pacific Journal of Cancer Prevention | Triagem computacional de reposicionamento de fármacos para o domínio quinase da BCR na leucemia mieloide crônica, buscando alvos como a Grb-2 para contornar a resistência a inibidores de tirosina quinase. Sem validação experimental para a hesperidina. |
+
+## Informações de Comercialização no Brasil
+
+Os dados locais indicam que há registros válidos para hesperidina no Brasil (15 válidos e 5 cancelados), e a lista pode estar incompleta. Não há detalhes de registros individuais disponíveis nos dados compilados para este relatório.
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança. Não há dados de advertências, contraindicações ou interações medicamentosas disponíveis nos dados compilados para este relatório.
+Consulte a bula para informações de segurança. Não foram encontradas interações medicamentosas nos dados consultados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se apenas em pontuação do modelo e em um único estudo computacional, sem ensaios clínicos, sem dados experimentais e sem registro na ANVISA. As evidências são insuficientes para qualquer recomendação clínica.
+- A previsão se apoia somente no modelo TxGNN e em um estudo computacional sobre uma doença relacionada, sem dados experimentais ou clínicos em neoplasia mieloproliferativa.
 
 **Para prosseguir, é necessário:**
-- Obter a bula da ANVISA ou de outra fonte para triagem de segurança (lacuna bloqueante)
-- Levantar dados de mecanismo de ação (por exemplo, via DrugBank)
-- Realizar validação experimental *in vitro* e em modelos animais para neoplasias mieloproliferativas
-- Avaliar biodisponibilidade (limitação conhecida da hesperidina) e a compatibilidade de vias de administração
-- Considerar priorizar a leucemia mieloide como hipótese de pesquisa, dado o maior corpo de evidências pré-clínicas
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança
+- Obter dados do mecanismo de ação (por exemplo, via DrugBank)
+- Realizar estudos pré-clínicos *in vitro* e *in vivo* da hesperidina em modelos de neoplasia mieloproliferativa (por exemplo, linhagens com mutação JAK2)
+- Avaliar a compatibilidade de vias de administração e a biodisponibilidade, dada a baixa absorção típica de flavonoides glicosilados
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

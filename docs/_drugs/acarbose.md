@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-13
-description: "Acarbose: nova indicação prevista, Síndrome do membro rígido focal (Focal Stiff Limb Syndrome) (nível de evidência L5). Indicação original: Diabetes mellitus tipo 2"
 monitor_inn: "ACARBOSE"
-predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+last_modified_at: 2026-10-23
+description: "Acarbose: nova indicação prevista, Síndrome da pessoa rígida clássica (nível de evidência L5). Indicação original: Diabetes mellitus tipo 2"
 ---
 
 # Acarbose
@@ -33,59 +33,57 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-## Acarbose: Do diabetes mellitus tipo 2 à síndrome do membro rígido focal
+## Acarbose: Do diabetes mellitus tipo 2 à síndrome da pessoa rígida clássica
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 Acarbose é um inibidor da alfa-glicosidase intestinal, originalmente usado no tratamento do diabetes mellitus tipo 2.
-O modelo TxGNN prevê que pode ser eficaz para **Síndrome do Membro Rígido Focal (Focal Stiff Limb Syndrome)**, mas, até o momento, **não há ensaios clínicos nem publicações** que apoiem esta direção; trata-se de uma previsão puramente computacional.
+O modelo TxGNN prevê que pode ser eficaz para a **síndrome da pessoa rígida clássica (classic stiff person syndrome)**, mas há **0 ensaios clínicos** e **0 publicações** que estudem diretamente essa doença; trata-se de uma previsão exclusivamente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Diabetes mellitus tipo 2 |
-| Nova Indicação Prevista | Síndrome do membro rígido focal (Focal Stiff Limb Syndrome) |
-| Pontuação de Previsão TxGNN | 99,65% |
+| Indicação Original | Diabetes mellitus tipo 2 (relação registrada no grafo de conhecimento; os registros locais não trazem texto de indicação aprovada) |
+| Nova Indicação Prevista | Síndrome da pessoa rígida clássica |
+| Pontuação de Previsão TxGNN | 0,9965 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
+| Número de Registros | 4 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a acarbose é um inibidor da alfa-glicosidase que atua localmente no intestino, retardando a digestão de carboidratos e reduzindo a glicemia pós-prandial. Sua eficácia no diabetes tipo 2 é conhecida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a acarbose atua na luz intestinal inibindo as alfa-glicosidases, o que retarda a absorção de carboidratos e reduz a glicemia pós-prandial.
 
-A síndrome do membro rígido focal é uma condição neurológica rara, relacionada ao espectro da síndrome da pessoa rígida (frequentemente com mecanismo autoimune e envolvimento do sistema GABAérgico). Não há uma conexão mecanística plausível com a inibição da alfa-glicosidase intestinal.
+A síndrome da pessoa rígida é um distúrbio autoimune da neurotransmissão GABAérgica, geralmente associado a anticorpos anti-GAD65. Não foi identificado vínculo mecanístico plausível com a acarbose. A pontuação alta (0,9965) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, possivelmente a autoimunidade a GAD65 compartilhada com o diabetes, e não evidência biológica.
 
-A pontuação alta (99,65%) reflete provavelmente apenas proximidades no grafo de conhecimento, como o contexto autoimune compartilhado (anticorpos anti-GAD ligados tanto ao diabetes quanto às síndromes de rigidez). Isso não constitui justificativa terapêutica. A previsão deve ser tratada como hipótese, não como achado.
+Em conclusão, a previsão não tem sustentação biológica nem clínica nos dados disponíveis e deve ser tratada como hipótese computacional.
 
-**Outras previsões do modelo** (todas com nível L5 e decisão Hold):
+Outras previsões do modelo também têm nível L5 e carecem de estudos diretos: síndrome do membro rígido focal, síndrome de disfunção responsiva à tiamina, opsismodisplasia, lipodistrofias localizadas (induzida por fármacos, centrífuga, induzida por pressão e idiopática) e agenesia pancreática.
 
-| Posição | Doença prevista | Pontuação TxGNN |
-|------|------|------|
-| 2 | Síndrome da pessoa rígida clássica | 99,65% |
-| 3 | Síndrome de disfunção responsiva à tiamina | 99,62% |
-| 4 | Opsismodisplasia | 99,62% |
-| 5 | Lipodistrofia localizada induzida por fármacos | 99,24% |
-| 6 | Lipodistrofia centrífuga | 99,22% |
-| 7 | Lipoatrofia localizada induzida por pressão | 99,20% |
-| 8 | Lipodistrofia localizada idiopática | 99,17% |
-| 9 | Agenesia pancreática | 99,16% |
+## Evidências de Ensaios Clínicos
 
-Entre elas, apenas a agenesia pancreática tem literatura associada, mas esta é indireta (diabetes em geral) e não sustenta a indicação, pois essa condição exige reposição de insulina.
+Atualmente não há ensaios clínicos relacionados registrados.
+
+## Evidências da Literatura
+
+Atualmente não há literatura relacionada para a síndrome da pessoa rígida clássica. (As publicações recuperadas para a previsão de agenesia pancreática, de menor posição, tratam de diabetes tipo 2, síndrome autoimune da insulina e modelos animais, e não abordam a doença prevista aqui.)
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, a acarbose não possui registros ativos no Brasil (0 registros).
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada | Situação |
+|---------|------|------|-----------|------|
+| Registro 135690035 | AGLUCOSE (EMS Sigma Pharma) | Não informada | Texto de indicação não disponível | Válido |
+| Registro 104290084 | GLUCOBAY (Bayer) | Não informada | Texto de indicação não disponível | Cancelado |
+| Registro 100200132 | STABILIC (União Química) | Não informada | Texto de indicação não disponível | Cancelado |
+| Registro 170560074 | GLUCOBAY (Bayer) | Não informada | Texto de indicação não disponível | Cancelado |
 
 ## Considerações de Segurança
 
-- **Contraindicações no grafo de conhecimento** (derivadas do TxGNN, não do texto de bula): doença renal, piureter, doença hepática, doença da vesícula biliar, cirrose hepática, doença inflamatória intestinal, hipoglicemia e lesão.
-- **Interações Medicamentosas**: foram identificadas 100 interações; as 20 listadas incluem:
-  - *Moderadas*: acetazolamida, salbutamol, babosa (folha de Aloe vera), alpelisibe, amprenavir, aripiprazol, asenapina, asparaginase (Erwinia chrysanthemi e E. coli), atazanavir, bedaquilina, bendroflumetiazida, benzfetamina, benztiazida, betametasona.
-  - *Leves*: albiglutida, alclometasona (tópica), ácido lipoico, amcinonida, anisindiona.
+- **Contraindicações registradas no grafo de conhecimento** (não são texto de bula): doença renal, piureter, doença hepática, doença da vesícula biliar, cirrose hepática, doença inflamatória intestinal, hipoglicemia e lesão.
+- **Interações medicamentosas**: foram identificadas 100 interações no total; as 20 listadas incluem principalmente nível moderado, por exemplo acetazolamida, salbutamol, babosa (folha de Aloe vera), alpelisibe, amprenavir, aripiprazol, asenapina, asparaginases, atazanavir, bedaquilina, bendroflumetiazida, benzfetamina, benzotiazida e betametasona. Há também interações de nível leve, como albiglutida, alclometasona tópica, ácido lipoico, amcinonida e anisindiona.
 
 Consulte a bula para advertências e contraindicações oficiais.
 
@@ -94,14 +92,12 @@ Consulte a bula para advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura para a indicação principal prevista, e não há mecanismo plausível que a sustente. A previsão baseia-se apenas no modelo (L5). Além disso, o fármaco não tem registro comercializado no Brasil.
+- A previsão é puramente computacional (L5), sem ensaios nem publicações sobre a síndrome da pessoa rígida clássica, e sem vínculo mecanístico plausível com a acarbose.
 
 **Para prosseguir, é necessário:**
-- Obter dados do mecanismo de ação (por exemplo, via DrugBank) e avaliar se há alguma ligação biológica real com a síndrome do membro rígido.
-- Realizar revisão sistemática da literatura e de bases de ensaios para a síndrome do membro rígido e a síndrome da pessoa rígida.
-- Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa necessária para a triagem de segurança.
-- Esclarecer a situação regulatória no Brasil, já que não há registros.
-- Considerar estudos pré-clínicos de mecanismo antes de qualquer investimento clínico.
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), ainda ausente.
+- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
+- Demonstrar um racional biológico direto, com estudos pré-clínicos ou clínicos na doença-alvo, antes de qualquer reavaliação.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

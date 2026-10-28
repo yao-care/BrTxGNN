@@ -4,7 +4,7 @@ title: Everolimus
 parent: Evidência Alta (L1-L2)
 nav_order: 306
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Everolimus: nova indicação prevista, Lipossarcoma (liposarcoma) (nível de evidência L2). Indicação original: Agente imunossupressor"
 monitor_inn: "Everolimus"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofib
 # Everolimus
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 ## Resumo em Uma Frase
 
-Everolimo é um inibidor de mTOR, registrado no Brasil como agente imunossupressor e antineoplásico (todos os registros atualmente cancelados).
+Everolimo é um inibidor de mTOR, registrado no Brasil como agente imunossupressor e antineoplásico (comercializado, com 11 registros válidos de 11).
 O modelo TxGNN prevê que pode ser eficaz para **lipossarcoma (liposarcoma)**,
 atualmente com **1 ensaio clínico** (Fase 2, em combinação com ribociclibe) e **4 publicações** apoiando esta direção, sendo apenas uma delas um estudo clínico direto.
 
@@ -48,10 +48,10 @@ atualmente com **1 ensaio clínico** (Fase 2, em combinação com ribociclibe) e
 |------|------|
 | Indicação Original | Agente imunossupressor |
 | Nova Indicação Prevista | Lipossarcoma (liposarcoma) |
-| Pontuação de Previsão TxGNN | 99,88% |
+| Pontuação de Previsão TxGNN | 0,9988 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 11 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 11) |
+| Número de Registros | 11 (ativos: 11) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -79,7 +79,7 @@ A lógica biológica é coerente, mas a evidência clínica disponível é um ú
 
 ## Informações de Comercialização no Brasil
 
-Todos os 11 registros constam como cancelados. Os cinco principais:
+Todos os 11 registros constam como válidos. Os cinco principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -114,7 +114,7 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 **Decisão: Hold**
 
 **Justificativa:**
-- Há apenas um estudo de Fase 2 de braço único em combinação (nível L2), sem comparação randomizada e sem isolar o efeito do everolimo. Além disso, todos os registros brasileiros estão cancelados e a bula, necessária para a triagem de segurança, não foi obtida.
+- Há apenas um estudo de Fase 2 de braço único em combinação (nível L2), sem comparação randomizada e sem isolar o efeito do everolimo. Além disso, a bula, necessária para a triagem de segurança, não foi obtida.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).

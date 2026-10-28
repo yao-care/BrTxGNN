@@ -4,17 +4,17 @@ title: Meloxicam
 parent: Apenas Predição do Modelo (L5)
 nav_order: 440
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
-description: "Meloxicam: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasi… (nível de evidência L5). Indicação original: Artrite reumatoide, osteoartrite e artrite idio…"
 monitor_inn: "MELOXICAM"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Meloxicam: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (nível de evidência L5). Indicação original: Não consta nos dados loc…"
 ---
 
 # Meloxicam
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Meloxicam: De artrite reumatoide e osteoartrite para a síndrome de displasia acromesomélica tipo Hunter-Thompson
+## Meloxicam: Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,11 +46,11 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Artrite reumatoide, osteoartrite e artrite idiopática juvenil (conforme o grafo de conhecimento do TxGNN; não há texto de indicação de registro no Brasil) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
-| Pontuação de Previsão TxGNN | 99,92% |
+| Pontuação de Previsão TxGNN | 0.9992 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 9) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A displasia acromesomélica tipo Hunter-Thompson é uma displasia esquelética rara, causada por mutações de perda de função em CDMP1/GDF5, que comprometem a formação da cartilagem (condrogênese). Não há mecanismo plausível pelo qual o meloxicam corrija esse defeito do fator de crescimento. No máximo, poderia oferecer alívio sintomático inespecífico da dor.
 
-A pontuação alta (99,92%) provavelmente reflete a proximidade na rede do conhecimento com fenótipos esqueléticos e articulares, e não um vínculo terapêutico real. Esta previsão deve ser tratada com cautela.
+A pontuação alta (0,9992) provavelmente reflete a proximidade na rede do conhecimento com fenótipos esqueléticos e articulares, e não um vínculo terapêutico real. Esta previsão deve ser tratada com cautela.
 
 ## Outras Previsões do Modelo
 
@@ -68,15 +68,13 @@ Entre as 10 principais previsões, quase todas carecem de ensaios clínicos e li
 
 | Posição | Indicação prevista | Pontuação | Nível | Comentário |
 |------|------|------|------|------|
-| 2 | Síndrome braquiolmia-amelogênese imperfeita | 99,92% | L5 | Sem mecanismo COX-2 conhecido |
-| 3 | Miosclerose | 99,90% | L5 | Possível alívio da dor, sem evidência de modificação da doença |
-| 4 | Braquiolmia | 99,89% | L5 | Sem fator inflamatório a ser alvo |
-| 5 | Pseudoacondroplasia | 99,81% | L5 | AINEs são usados para dor articular, mas sem evidência específica |
-| 6 | Espondiloartropatia (suscetibilidade) | 99,52% | L5 | Sobreposição com a indicação já conhecida |
-| 7 | Nodulose reumatoide | 99,51% | L5 | Plausibilidade indireta via artrite reumatoide |
-| 8 | Artrite idiopática juvenil poliarticular FR-positiva | 99,44% | L4 | Dentro da família de AIJ; única literatura indireta |
-| 9 | Síndrome WHIM | 99,38% | L5 | Sem relação com a via CXCR4 |
-| 10 | Síndrome de microftalmia colobomatosa-displasia rizomélica | 99,36% | L5 | Sem mecanismo plausível |
+| 2 | Síndrome braquiolmia-amelogênese imperfeita | 0,9992 | L5 | Sem mecanismo COX-2 conhecido |
+| 3 | Miosclerose | 0,9990 | L5 | Possível alívio da dor, sem evidência de modificação da doença |
+| 4 | Braquiolmia | 0,9989 | L5 | Sem fator inflamatório a ser alvo |
+| 5 | Pseudoacondroplasia | 0,9981 | L5 | AINEs são usados para dor articular, mas sem evidência específica |
+| 7 | Nodulose reumatoide | 0,9951 | L5 | Plausibilidade indireta via artrite reumatoide |
+| 9 | Síndrome WHIM | 0,9938 | L5 | Sem relação com a via CXCR4 |
+| 10 | Síndrome de microftalmia colobomatosa-displasia rizomélica | 0,9936 | L5 | Sem mecanismo plausível |
 
 A previsão mais próxima de uma hipótese coerente é a AIJ poliarticular FR-positiva (posição 8), por estar dentro da família da indicação já conhecida.
 
@@ -113,7 +111,7 @@ Para a previsão de posição 8 (AIJ poliarticular FR-positiva), há uma publica
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão é apenas do modelo (L5), sem ensaios clínicos nem literatura. O mecanismo de ação do meloxicam não tem relação plausível com o defeito genético da displasia, e o fármaco não está comercializado no Brasil. As contraindicações cardiovasculares, renais e gastrointestinais também pesam contra uma nova indicação sem benefício claro.
+A previsão é apenas do modelo (L5), sem ensaios clínicos nem literatura. As contraindicações cardiovasculares, renais e gastrointestinais também pesam contra uma nova indicação sem benefício claro.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), ainda ausente nos dados compilados

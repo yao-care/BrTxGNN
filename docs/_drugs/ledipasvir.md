@@ -6,9 +6,9 @@ nav_order: 395
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Ledipasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L2). Indicação original: Infecção crônica pelo vírus da hepatite C"
 monitor_inn: "LEDIPASVIR"
-predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+description: "Ledipasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L2). Indicação original: Não consta nos dados locais"
 ---
 
 # Ledipasvir
@@ -33,7 +33,7 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-## Ledipasvir: Da hepatite C crônica à infecção pelo vírus da hepatite B
+## Ledipasvir: Infecção pelo vírus da hepatite B (hepatitis B virus infection)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,19 +45,19 @@ O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da hepat
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecção crônica pelo vírus da hepatite C |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Infecção pelo vírus da hepatite B (hepatitis B virus infection) |
-| Pontuação de Previsão TxGNN | 99,91% |
+| Pontuação de Previsão TxGNN | 0.9991 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o ledipasvir inibe a proteína NS5A do HCV e é usado em combinação com sofosbuvir (inibidor da polimerase NS5B) no tratamento da hepatite C.
 
-A relação entre as duas indicações é, sobretudo, de proximidade na rede de conhecimento: ambas são hepatites virais crônicas. Do ponto de vista mecanístico, a previsão é frágil. O HBV não possui homólogo conhecido da NS5A e se replica por transcrição reversa/polimerase e cccDNA, de modo que não se espera atividade antiviral direta do ledipasvir contra ele. A pontuação alta do TxGNN provavelmente reflete a proximidade entre "hepatites virais" no grafo, e não uma ligação real de alvo.
+A relação entre as duas indicações reflete, sobretudo, semelhanças que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas: ambas são hepatites virais crônicas. Do ponto de vista mecanístico, a previsão é frágil. O HBV não possui homólogo conhecido da NS5A e se replica por transcrição reversa/polimerase e cccDNA, de modo que não se espera atividade antiviral direta do ledipasvir contra ele. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas entre doenças relacionadas, como as "hepatites virais", e não evidência biológica nem uma ligação real de alvo.
 
 Há, contudo, um sinal clínico isolado: em um estudo de Fase 2 com ledipasvir/sofosbuvir por 12 semanas em indivíduos com monoinfecção por HBV, investigou-se a redução de HBsAg e de DNA do HBV. Em dados retrospectivos de coinfectados, observou-se redução modesta de HBsAg. Esse achado exige confirmação e não permite atribuir o efeito ao ledipasvir em vez do sofosbuvir.
 
@@ -104,7 +104,7 @@ Não há dados de contraindicações e advertências de bula para este fármaco.
 **Decisão: Hold**
 
 **Justificativa:**
-- Apesar da pontuação alta do TxGNN (99,91%) e de um estudo de Fase 2 concluído em HBV, não há mecanismo plausível de ação direta contra o HBV. A literatura sobre coinfecção mostra principalmente cura do HCV e risco de reativação do HBV, ou seja, um sinal de segurança e não de eficácia. O estudo de Fase 2 é pequeno (n=21), de braço único, e o efeito pode ser atribuível ao sofosbuvir. O fármaco também não está comercializado no Brasil (0 registros).
+- Apesar da pontuação alta do TxGNN (0,9991) e de um estudo de Fase 2 concluído em HBV, não há mecanismo plausível de ação direta contra o HBV. A literatura sobre coinfecção mostra principalmente cura do HCV e risco de reativação do HBV, ou seja, um sinal de segurança e não de eficácia. O estudo de Fase 2 é pequeno (n=21), de braço único, e o efeito pode ser atribuível ao sofosbuvir.
 
 **Para prosseguir, é necessário:**
 - Dados sobre o mecanismo de ação do ledipasvir e investigação de qualquer atividade anti-HBV

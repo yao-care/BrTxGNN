@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Relaxantes musculares centrais simples |
 | Nova Indicação Prevista | Insônia (insomnia) |
-| Pontuação de Previsão TxGNN | 99,89% |
+| Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 4 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,9 +60,9 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação na base compil
 
 Como o GABA-A é um dos principais alvos de fármacos hipnóticos, existe em tese uma ligação com a modulação do sono. Porém, essa conexão é frágil e possivelmente contraditória: o antagonismo GABA-A tenderia a se opor à sedação, em vez de promovê-la, e o fármaco está associado a efeitos pró-convulsivantes.
 
-A pontuação alta do TxGNN (99,89%) é uma previsão do modelo, sem respaldo de ensaios clínicos ou literatura. Por isso, a plausibilidade mecanística deve ser tratada com muita cautela.
+A pontuação alta do TxGNN (0,9989) é uma previsão do modelo, sem respaldo de ensaios clínicos ou literatura. Por isso, a plausibilidade mecanística deve ser tratada com muita cautela.
 
-Outra previsão do modelo, **delírio por abstinência alcoólica** (pontuação 99,21%, também nível L5, decisão Hold), é ainda menos sustentada: a abstinência envolve redução da inibição GABAérgica, e um antagonista GABA-A poderia agravar a hiperexcitabilidade do sistema nervoso central e reduzir o limiar convulsivo, o que seria potencialmente prejudicial.
+Outra previsão do modelo, **delírio por abstinência alcoólica** (pontuação 0,9921, também nível L5, decisão Hold), é ainda menos sustentada: a abstinência envolve redução da inibição GABAérgica, e um antagonista GABA-A poderia agravar a hiperexcitabilidade do sistema nervoso central e reduzir o limiar convulsivo, o que seria potencialmente prejudicial.
 
 ## Informações de Comercialização no Brasil
 
@@ -86,7 +86,7 @@ Consulte a bula para informações de segurança. Os dados compilados indicam qu
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para insônia baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura, e o mecanismo conhecido (antagonismo GABA-A) é contraditório com o efeito desejado. Além disso, todos os 4 registros no Brasil estão cancelados e faltam dados de segurança da bula.
+A previsão para insônia baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura, e o mecanismo conhecido (antagonismo GABA-A) é contraditório com o efeito desejado. Além disso, o medicamento é comercializado no Brasil, com 4 registros válidos de 4, e faltam dados de segurança da bula.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência que impede a triagem de segurança

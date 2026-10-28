@@ -4,17 +4,17 @@ title: Relebactam
 parent: Apenas Predição do Modelo (L5)
 nav_order: 562
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Relebactam: nova indicação prevista, Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity sy… (nível de evidência L5). Indicação original: Infecção do trato urinário e pielonefrite"
+indication_count: 3
 monitor_inn: "Relebactam"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "hematopoietic and lymphoid system neoplasm", "congenital hematological disorder", "septicemic plague"]
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
+last_modified_at: 2026-10-23
+description: "Relebactam: nova indicação prevista, Hiperamilasemia (nível de evidência L5). Indicação original: Infecção do trato urinário e pielonefrite"
 ---
 
 # Relebactam
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,74 +33,68 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Relebactam: Da infecção do trato urinário à síndrome de hiperviscosidade policlonal
+## Relebactam: Da infecção do trato urinário à hiperamilasemia
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Relebactam é um inibidor de beta-lactamases, usado em associação com imipenem/cilastatina e originalmente indicado para infecção do trato urinário e pielonefrite.
-O modelo TxGNN prevê que pode ser eficaz para **síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome)**, mas **não há ensaios clínicos nem publicações** que apoiem esta previsão. Trata-se apenas de uma previsão computacional.
+Relebactam é um inibidor de beta-lactamase, originalmente usado no tratamento de infecção do trato urinário e pielonefrite.
+O modelo TxGNN prevê que pode ser eficaz para **Hiperamilasemia (Hyperamylasemia)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se apenas de uma previsão do modelo.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecção do trato urinário e pielonefrite (segundo as relações do grafo de conhecimento do TxGNN; não há texto de indicação de registro na ANVISA) |
-| Nova Indicação Prevista | Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) |
-| Pontuação de Previsão TxGNN | 99,22% |
+| Indicação Original | Infecção do trato urinário e pielonefrite (relação registrada no grafo de conhecimento; o texto de indicação do registro local está vazio) |
+| Nova Indicação Prevista | Hiperamilasemia |
+| Pontuação de Previsão TxGNN | 0,9922 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
+
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o relebactam é um inibidor de beta-lactamases das classes A e C (serina beta-lactamases), sem atividade antibacteriana intrínseca. É usado em combinação com imipenem/cilastatina para proteger o carbapenêmico da degradação enzimática em infecções por bactérias Gram-negativas.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o relebactam é um inibidor de beta-lactamase (classe dos diazabiciclooctanos), usado em associação com imipenem/cilastatina para restaurar a atividade contra bactérias Gram-negativas resistentes.
 
-Na prática, **esta previsão não parece razoável do ponto de vista biológico**. A hiperviscosidade causada pela elevação policlonal de imunoglobulinas não depende de nenhuma via relacionada às beta-lactamases, e não foi identificado nenhum vínculo mecanístico plausível. A pontuação alta provavelmente reflete artefatos do grafo de conhecimento, e não uma relação biológica real.
+Não foi identificado um vínculo mecanístico claro entre o relebactam e a hiperamilasemia. O fármaco não tem efeito conhecido sobre o metabolismo da amilase nem sobre a regulação de enzimas pancreáticas. Qualquer associação seria especulativa (por exemplo, via comprometimento pancreático ou salivar relacionado a infecções) e não é sustentada pelos dados disponíveis.
 
-### Outras previsões do modelo
+A pontuação alta (0,9922) é uma previsão do modelo TxGNN (aprendizado profundo) e, isoladamente, não constitui evidência biológica ou clínica. Outras previsões do modelo, como a síndrome de hiperviscosidade policlonal e a analbuminemia congênita, também não têm fundamento mecanístico plausível.
 
-As demais previsões de alta pontuação também não têm respaldo em ensaios clínicos ou literatura (todas L5, exceto a última):
+---
 
-| Posição | Doença prevista | Pontuação | Avaliação |
-|------|------|------|------|
-| 2 | Hiperamilasemia | 99,22% | Sem justificativa mecanística; reflete lesão pancreática/salivar ou redução da depuração |
-| 3 | Analbuminemia congênita | 99,08% | Distúrbio genético (mutações em ALB); sem efeito plausível |
-| 4 | Incompatibilidade de grupo sanguíneo | 98,92% | Processo imunomediado por aloanticorpos; pontuação provavelmente por proximidade na rede |
-| 5 | Doença hematológica pré-maligna | 98,81% | Sem vínculo mecanístico |
-| 6 | Gamopatia monoclonal | 98,76% | Sem atividade conhecida sobre plasmócitos |
-| 7 | Doença hematológica associada a neuropatia periférica adquirida | 98,59% | Sem mecanismo plausível |
-| 8 | Neoplasia do sistema hematopoiético e linfoide | 98,48% | Sem ação antineoplásica; no máximo, suporte contra infecções em neutropênicos |
-| 9 | Distúrbio hematológico congênito | 98,39% | Sem justificativa mecanística |
-| 10 | Peste septicêmica | 97,94% | **Única com racional antibacteriano coerente (L4)**; classificada como questão de pesquisa |
+## Informações de Comercialização no Brasil
 
-Sobre a peste septicêmica: *Yersinia pestis* é um patógeno Gram-negativo e o imipenem tem atividade in vitro contra muitos Gram-negativos. Contudo, *Y. pestis* normalmente não apresenta resistência mediada por beta-lactamases, de modo que o benefício adicional do relebactam é incerto. Seriam necessários dados in vitro e em modelos animais antes de qualquer avanço.
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 101710236 | RECARBRIO | Não informada | Não informada no registro |
 
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
+---
 
 ## Considerações de Segurança
 
-Consulte a bula para informações de segurança. Não há dados compilados de advertências, contraindicações ou interações medicamentosas para este fármaco.
+Consulte a bula para informações de segurança.
+
+Não foram encontradas interações medicamentosas registradas nos dados compilados.
+
+---
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal (síndrome de hiperviscosidade policlonal) não tem ensaios, literatura nem mecanismo plausível; a pontuação alta do TxGNN provavelmente é um artefato do grafo de conhecimento. O relebactam não está comercializado no Brasil.
+- Não há ensaios clínicos nem literatura sobre relebactam em hiperamilasemia, e não existe vínculo mecanístico plausível. A previsão é apenas do modelo (nível L5).
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança.
-- Complementar os dados de mecanismo de ação.
-- Se houver interesse em uma linha de pesquisa, priorizar a peste septicêmica, com estudos in vitro e em modelos animais antes de qualquer avaliação clínica.
-- Verificar a compatibilidade de vias de administração e a situação regulatória do medicamento no Brasil.
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), hoje uma lacuna bloqueante para a triagem de segurança.
+- Obter os dados de mecanismo de ação no DrugBank.
+- Realizar busca sistemática de literatura e de registros de ensaios sobre relebactam e elevação de amilase (inclusive como possível evento adverso, e não como indicação).
+- Gerar evidência pré-clínica ou mecanística antes de qualquer consideração de reposicionamento.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

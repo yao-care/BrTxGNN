@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Revefenacin
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 564
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-13
 description: "Revefenacin: nova indicação prevista, Bronquite (bronchitis) (nível de evidência L4). Indicação original: Anticolinérgicos"
 monitor_inn: "revefenacin"
@@ -14,7 +14,7 @@ predicted_indications: ["bronchitis"]
 # Revefenacin
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **2** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que ela pode ser eficaz para **bronquite (bronchitis)**, m
 |------|------|
 | Indicação Original | Anticolinérgicos (classe terapêutica registrada na ANVISA) |
 | Nova Indicação Prevista | Bronquite (bronchitis) |
-| Pontuação de Previsão TxGNN | 99,61% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Pontuação de Previsão TxGNN | 0,9961 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Os dados compilados para este relatório não trazem o mecanismo de ação detal
 
 A relação com a bronquite é plausível, mas indireta. A redução do tônus colinérgico pode diminuir a hipersecreção de muco, o que seria relevante na bronquite crônica. A bronquite crônica é um fenótipo da DPOC, doença em que a revefenacina já tem uso estabelecido.
 
-O único ensaio ligado a esta previsão incluiu pacientes com DPOC, e não uma população específica com bronquite. Não há dados sobre bronquite como indicação isolada, seja aguda ou infecciosa. A pontuação TxGNN muito alta (99,61%) é uma previsão computacional e não constitui evidência clínica.
+O único ensaio ligado a esta previsão incluiu pacientes com DPOC, e não uma população específica com bronquite. Não há dados sobre bronquite como indicação isolada, seja aguda ou infecciosa. A pontuação TxGNN muito alta (0,9961) é uma previsão computacional e não constitui evidência clínica.
 
 Uma segunda previsão do modelo, "doença pulmonar obstrutiva", tem evidência muito mais robusta, com vários ensaios de Fase 3 em DPOC. Isso corresponde, porém, a um uso já aprovado em outros países (FDA, 2018) e não a um reposicionamento genuíno.
 

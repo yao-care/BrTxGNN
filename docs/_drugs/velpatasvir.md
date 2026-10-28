@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-13
 description: "Velpatasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L3). Indicação original: Infecção crônica pelo vírus da hepatite C"
 monitor_inn: "VELPATASVIR"
-predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Velpatasvir
@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da hepat
 |------|------|
 | Indicação Original | Infecção crônica pelo vírus da hepatite C |
 | Nova Indicação Prevista | Infecção pelo vírus da hepatite B (hepatitis B virus infection) |
-| Pontuação de Previsão TxGNN | 99,87% |
+| Pontuação de Previsão TxGNN | 0,9987 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o velpatasvir é um inibidor da NS5A do HCV, usado em combinação com sofosbuvir (inibidor da polimerase NS5B), e sua eficácia na hepatite C crônica está bem estabelecida.
 
-A previsão do TxGNN provavelmente decorre da proximidade entre os vírus hepatotrópicos no grafo de conhecimento. Mecanisticamente, a plausibilidade é baixa: o HBV não possui um homólogo da NS5A, e não há atividade anti-HBV estabelecida para o velpatasvir. A pontuação alta deve ser interpretada como uma hipótese computacional.
+A pontuação do TxGNN (modelo de aprendizado profundo) vem do próprio modelo e pode refletir semelhanças que ele aprendeu entre doenças relacionadas, como os vírus hepatotrópicos, e não evidência biológica. Mecanisticamente, a plausibilidade é baixa: o HBV não possui um homólogo da NS5A, e não há atividade anti-HBV estabelecida para o velpatasvir. A pontuação alta deve ser interpretada como uma hipótese computacional.
 
 A relevância clínica real está na **coinfecção HCV/HBV**. Durante o tratamento do HCV com antivirais de ação direta, pode ocorrer reativação do HBV. O ensaio NCT04997564 testa justamente o uso profilático de tenofovir alafenamida (TAF) junto com sofosbuvir/velpatasvir para prevenir essa reativação. Isso apoia o manejo de segurança em pacientes coinfectados, e não a eficácia do velpatasvir contra o HBV.
 
@@ -94,7 +94,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há evidência de que o velpatasvir tenha atividade contra o HBV, que não possui alvo NS5A. Os ensaios e as publicações associados tratam do HCV ou da coinfecção HCV/HBV, e a pontuação alta do TxGNN reflete provavelmente uma associação no grafo de conhecimento. Além disso, o fármaco não está registrado nem comercializado no Brasil.
+- Não há evidência de que o velpatasvir tenha atividade contra o HBV, que não possui alvo NS5A. Os ensaios e as publicações associados tratam do HCV ou da coinfecção HCV/HBV, e a pontuação alta do TxGNN vem do modelo (aprendizado profundo) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica. Além disso, o fármaco está comercializado no Brasil, com 2 licenças válidas de 2.
 
 **Para prosseguir, é necessário:**
 - Estudos pré-clínicos in vitro de atividade anti-HBV do velpatasvir

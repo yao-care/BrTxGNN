@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **síndrome da cauda equina (caud
 |------|------|
 | Indicação Original | Produtos para dietas especiais |
 | Nova Indicação Prevista | Síndrome da cauda equina (cauda equina syndrome) |
-| Pontuação de Previsão TxGNN | 99,77% |
+| Pontuação de Previsão TxGNN | 0,9977 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 10 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a tirosina é um aminoácido que faz parte de formulações nutricionais (parenterais e dietas especiais) e é precursora de catecolaminas (dopamina e noradrenalina) e dos hormônios tireoidianos.
 
-A relação entre a indicação original (suporte nutricional) e a nova indicação é fraca. A síndrome da cauda equina é uma compressão das raízes nervosas da região lombossacra, condição essencialmente cirúrgica. Não há vínculo mecanístico identificável: nada sustenta que a suplementação de tirosina tenha papel na neuropatia compressiva. A pontuação alta (0,998) reflete apenas a previsão do modelo.
+A relação entre a indicação original (suporte nutricional) e a nova indicação é fraca. A síndrome da cauda equina é uma compressão das raízes nervosas da região lombossacra, condição essencialmente cirúrgica. Não há vínculo mecanístico identificável: nada sustenta que a suplementação de tirosina tenha papel na neuropatia compressiva. A pontuação alta (0,9977) reflete apenas a previsão do modelo.
 
 Outras indicações previstas pelo modelo também apresentam evidência fraca ou nenhuma (por exemplo, hipertireoidismo, glaucoma de ângulo fechado e síndrome da taquicardia postural ortostática). Em várias delas, como hipertireoidismo e hiperti­roxinemia, a tirosina é substrato da síntese de hormônios tireoidianos, o que sugere que o efeito poderia ser neutro ou até desfavorável.
 
@@ -71,7 +71,7 @@ Atualmente não há literatura relacionada para síndrome da cauda equina.
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros abaixo estão cancelados; não há produto com registro válido no momento.
+Os 10 registros abaixo estão válidos (10 de 10); o medicamento está comercializado no Brasil.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -101,7 +101,7 @@ Observação: para o hipertireoidismo e a hipertiroxinemia (outras indicações 
 - Advertências e contraindicações da bula na ANVISA
 - Justificativa biológica para uma relação entre tirosina e neuropatia compressiva da cauda equina
 - Estudos pré-clínicos que sustentem a hipótese, antes de qualquer ensaio clínico
-- Avaliação regulatória, dado que todos os registros brasileiros estão cancelados
+- Avaliação regulatória, dado que o medicamento é comercializado no Brasil, com 10 registros válidos de 10
 - Reavaliação das demais indicações previstas, priorizando aquelas com racional biológico (por exemplo, disfunção autonômica), com atenção ao risco no hipertireoidismo
 ## Aviso de isenção de responsabilidade
 

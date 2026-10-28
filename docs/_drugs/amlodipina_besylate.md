@@ -8,6 +8,7 @@ nav_order: 59
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amlodipina Besylate
@@ -49,7 +50,7 @@ Anlodipino besilato (*Amlodipine besylate*) é um bloqueador dos canais de cálc
 | Nova Indicação Prevista | Não disponível — TxGNN não retornou previsões |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | Não localizado (0 registros na consulta) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 (consulta realizada com grafia incorreta para o padrão ANVISA) |
 | Decisão Recomendada | **Hold** |
 

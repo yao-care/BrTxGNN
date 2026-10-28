@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-13
-description: "Darunavir: nova indicação prevista, Síndrome da imunodeficiência adquirida felina (feline acquired immuno… (nível de evidência L5). Indicação original: Infecção por HIV / AIDS"
 monitor_inn: "DARUNAVIR"
-predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+last_modified_at: 2026-10-23
+description: "Darunavir: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (nível de evidência L5). Indicação original: Infecção por HIV e AIDS"
 ---
 
 # Darunavir
@@ -33,64 +33,98 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-## Darunavir: Da infecção por HIV à imunodeficiência felina adquirida
+## Darunavir: Da infecção por HIV à infecção pelo vírus da imunodeficiência símia
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Darunavir é um inibidor de protease, originalmente usado no tratamento da infecção por HIV e da AIDS.
-O modelo TxGNN prevê que pode ser eficaz para **síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica; trata-se de uma previsão exclusivamente do modelo, em indicação veterinária.
+Darunavir é um inibidor da protease do HIV-1, originalmente usado no tratamento da infecção por HIV e da AIDS.
+O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da imunodeficiência símia (SIV)**, atualmente com **0 ensaios clínicos** e **4 publicações** (todas em modelos pré-clínicos com primatas não humanos) apoiando esta direção.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecção por HIV / AIDS |
-| Nova Indicação Prevista | Síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Indicação Original | Infecção por HIV e AIDS (relação registrada no grafo de conhecimento; os textos de indicação dos registros na ANVISA não estavam preenchidos) |
+| Nova Indicação Prevista | Infecção pelo vírus da imunodeficiência símia |
+| Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
+| Número de Registros | 6 (ativos: 6) |
 | Decisão Recomendada | Hold |
+
+O nível L5 se justifica porque nenhum estudo citado examina o darunavir isoladamente contra essa doença: os estudos em macacos usam regimes combinados de antirretrovirais, e não há ensaios clínicos registrados.
+
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o darunavir faz parte da classe dos inibidores de protease do HIV, sua utilização em HIV/AIDS está estabelecida e, mecanisticamente, poderia ser aplicável a lentivírus relacionados.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o darunavir é um inibidor da protease do HIV-1, e sua relação com o HIV/AIDS está registrada no grafo de conhecimento. Mecanisticamente, a previsão pode ser aplicável ao SIV.
 
-O vírus da imunodeficiência felina (FIV) é um lentivírus aparentado ao HIV-1. No entanto, sua protease difere da protease do HIV-1 quanto à especificidade de substrato e à sensibilidade a inibidores. A atividade do darunavir contra a protease do FIV não está estabelecida. A pontuação muito alta do TxGNN (99,97%) baseia-se, portanto, apenas em inferência de similaridade entre doenças.
+O SIV é um lentivírus intimamente relacionado ao HIV, com protease estruturalmente semelhante. Isso torna plausível a lógica do mecanismo e explica a pontuação alta do modelo.
 
-Trata-se de uma indicação veterinária, sem relevância direta para o reposicionamento de fármacos em humanos.
+Há uma ressalva importante: o SIV é usado principalmente como **modelo animal** do HIV. Os estudos recuperados são com macacos rhesus, nos quais o darunavir foi um componente de regimes combinados de terapia antirretroviral (cART), voltados a investigar reservatórios virais e sua persistência, junto a agentes adjuntos como auranofina e um inibidor de histona desacetilase. Não se trata, portanto, de uma nova indicação humana, e a evidência é indireta.
 
-### Outras previsões do modelo (para contexto)
+---
 
-| Indicação prevista | Pontuação TxGNN | Nível | Comentário |
-|------|------|------|------|
-| Infecção pelo vírus da imunodeficiência símia (SIV) | 99,97% | L4 | Modelo animal do HIV; 4 estudos pré-clínicos em macacos, que avaliam esquemas de terapia antirretroviral combinada e não permitem confirmar a contribuição específica do darunavir. Sobrepõe-se à indicação já existente e agrega pouco valor de reposicionamento. |
-| Transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical | 99,97% | L5 | Doença genética rara, sem vínculo mecanístico evidente com a inibição da protease do HIV; provável falso positivo. |
-| Hiperlipidemia familiar combinada (termo obsoleto) | 99,19% | L5 | Inibidores de protease estão associados a dislipidemia, de modo que a associação pode refletir dano, e não benefício terapêutico. |
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados.
+
+---
+
+## Evidências da Literatura
+
+| PMID | Ano | Tipo | Periódico | Principais Achados |
+|------|-----|------|------|---------|
+| [25033210](https://pubmed.ncbi.nlm.nih.gov/25033210/) | 2014 | Pré-clínico (primata não humano) | PloS one | Macacos rhesus chineses infectados por SIV tratados com cART intensiva e 3 semanas do inibidor de histona desacetilase SAHA, para estudar reservatórios virais |
+| [26150024](https://pubmed.ncbi.nlm.nih.gov/26150024/) | 2016 | Pré-clínico (primata não humano) | AIDS Res Hum Retroviruses | Comparação de dois regimes injetáveis coformulados de cART em macacos rhesus infectados por SIVmac239 |
+| [21505294](https://pubmed.ncbi.nlm.nih.gov/21505294/) | 2011 | Pré-clínico (primata não humano) | AIDS | A auranofina restringiu o reservatório viral no modelo de AIDS em macacos e favoreceu o controle da carga viral após a suspensão da terapia |
+| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Pré-clínico (primata não humano) | PLoS Pathogens | Regime antirretroviral altamente intensificado induziu supressão viral de longo prazo e restrição do reservatório em modelo de AIDS símia |
+
+---
+
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 188300114 | Darunavir (Viatris) | Não informada | Texto de indicação não disponível |
+| Registro 112330056 | Darunavir (Laboratório Químico Farmacêutico da Aeronáutica) | Não informada | Texto de indicação não disponível |
+| Registro 112363387 | Prezista | Não informada | Texto de indicação não disponível |
+| Registro 112363434 | Symtuza® | Não informada | Texto de indicação não disponível |
+| Registro 101830156 | Darunavir (LAFEPE) | Não informada | Texto de indicação não disponível |
+
+Há ainda o registro 102980571 (Darvyr, Cristália), totalizando 6 registros válidos. Todos constam como produtos de princípio ativo único.
+
+---
 
 ## Considerações de Segurança
 
-- **Contraindicações (associações do grafo de conhecimento, não texto de bula)**: insuficiência hepática, doença hepática, cirrose hepática, doença da vesícula biliar, hiperglicemia, diabetes mellitus, cetoacidose diabética, hepatite C (infecção crônica e geral), hepatite B crônica, hipertrigliceridemia, hemofilia (incluindo a forma sintomática em portadoras).
-- **Interações Medicamentosas**: foram identificadas 100 interações no total; entre as 20 listadas, a maioria é de nível moderado, e uma é de nível **grave**:
+- **Contraindicações registradas no grafo de conhecimento** (não provêm do texto da bula): insuficiência hepática, doença hepática, cirrose, doença da vesícula biliar, hiperglicemia, diabetes mellitus, cetoacidose diabética, infecção crônica por hepatite C e B, hipertrigliceridemia e hemofilia.
+- **Interações medicamentosas** (100 interações identificadas; principais exemplos):
   - **Grave**: cisaprida.
-  - **Moderado (principais)**: antidiabéticos (acarbose, metformina, pioglitazona, alogliptina, albiglutida, canagliflozina, dapagliflozina, saxagliptina, clorpropamida, acetohexamida), corticosteroides (hidrocortisona, dexametasona, betametasona, budesonida, triancinolona), aprepitanto e claritromicina.
+  - **Moderadas**: antidiabéticos (acarbose, metformina, pioglitazona, alogliptina, canagliflozina, dapagliflozina, saxagliptina, clorpropamida, albiglutida), corticosteroides (hidrocortisona, dexametasona, betametasona, budesonida, triancinolona), aprepitanto e claritromicina.
 
-Consulte a bula para advertências e contraindicações oficiais.
+Para advertências e contraindicações formais, consulte a bula.
+
+---
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão de maior pontuação refere-se a uma doença veterinária (AIDS felina), sem ensaios clínicos nem literatura, e com atividade do darunavir contra a protease do FIV não demonstrada. As demais previsões são animais, sem vínculo mecanístico ou potencialmente direcionalmente enganosas.
+- A previsão se baseia em similaridade biológica entre HIV e SIV, mas as evidências vêm de modelos animais em que o darunavir fazia parte de regimes combinados, sem estudo que o isole. O SIV não é uma indicação humana, e o uso já coberto no HIV não representa um novo reposicionamento clínico.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula da ANVISA (advertências e contraindicações), uma lacuna bloqueante para a triagem de segurança; o fármaco não possui registro comercializado no Brasil.
-- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
-- Dados experimentais de atividade do darunavir contra a protease do FIV, caso haja interesse veterinário.
-- Definir se há interesse em indicações humanas; as previsões atuais não oferecem candidato de reposicionamento humano com evidência.
+- Dados do mecanismo de ação do darunavir (DrugBank).
+- Definir se há uma questão de pesquisa relevante (por exemplo, uso em modelos animais de pesquisa) que justifique avançar, já que não há aplicação clínica humana.
+- Estudos específicos de atividade do darunavir isolado contra a protease do SIV.
+- Bula da ANVISA com advertências e contraindicações formais, ainda não analisada.
+
+**Observação sobre as demais previsões:** infecção por imunodeficiência felina (veterinária, sem estudos), um transtorno do neurodesenvolvimento raro (sem vínculo mecanístico plausível) e hiperlipidemia combinada familiar obsoleta (o darunavir tende a elevar lipídios, e não a reduzi-los) também ficaram em L5 e Hold.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

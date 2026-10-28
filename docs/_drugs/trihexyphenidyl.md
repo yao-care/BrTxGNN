@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Trihexyphenidyl
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 655
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Trihexyphenidyl: nova indicação prevista, Transtorno de Déficit de Atenção e Hiperatividade (attention deficit-… (nível de evidência L4). Indicação original: Antiparkinsonianos"
@@ -14,7 +14,7 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigito
 # Trihexyphenidyl
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** indireta 
 |------|------|
 | Indicação Original | Antiparkinsonianos |
 | Nova Indicação Prevista | Transtorno de Déficit de Atenção e Hiperatividade (attention deficit-hyperactivity disorder) |
-| Pontuação de Previsão TxGNN | 99,92% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Pontuação de Previsão TxGNN | 0,9992 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

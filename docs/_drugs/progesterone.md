@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Progesterone
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Alta (L1-L2)
 nav_order: 552
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 7
 last_modified_at: 2026-10-13
 description: "Progesterone: nova indicação prevista, Amenorreia (Amenorrhea) (nível de evidência L5). Indicação original: Progestágenos simples"
 monitor_inn: "Progesterone"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "cervix endometriosis", "renal hypoplasia (disease)", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L1** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **4 ensaios clínicos** e **19 publicações** associadas a esta 
 |------|------|
 | Indicação Original | Progestágenos simples |
 | Nova Indicação Prevista | Amenorreia (Amenorrhea) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L1 (conforme a classificação dos dados compilados; ver ressalva abaixo) |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 7 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
+| Número de Registros | 7 (ativos: 7) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 > **Ressalva sobre o nível de evidência:** o único ensaio de Phase 3 concluído (NCT00946192) testa estrogênio em atletas, não progesterona isolada. Por esse critério estrito, o nível seria mais próximo de L2/L3. O L1 deve ser lido com cautela.
@@ -92,7 +92,7 @@ Predominam revisões e textos descritivos; não há ensaios randomizados para es
 
 ## Informações de Comercialização no Brasil
 
-Todos os 7 registros encontrados estão **cancelados**; atualmente não há registro válido para produtos de progesterona isolada nos dados compilados.
+Todos os 7 registros encontrados estão **válidos**; atualmente há registro válido para produtos de progesterona isolada nos dados compilados.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -114,7 +114,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-A amenorreia é a indicação com mais respaldo entre as previstas: há mecanismo plausível, uso clínico consolidado em testes de retirada e reposição hormonal, e quatro ensaios em populações relevantes. Contudo, esses ensaios testam principalmente estrogênio e desfechos ósseos, e todos os registros brasileiros estão cancelados.
+A amenorreia é a indicação com mais respaldo entre as previstas: há mecanismo plausível, uso clínico consolidado em testes de retirada e reposição hormonal, e quatro ensaios em populações relevantes. Contudo, esses ensaios testam principalmente estrogênio e desfechos ósseos, e os 7 registros brasileiros estão válidos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações oficiais), pois essa lacuna bloqueia a triagem de segurança

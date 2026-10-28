@@ -48,9 +48,9 @@ mas atualmente há **0 ensaios clínicos** e **18 publicações** relacionadas, 
 |------|------|
 | Indicação Original | Transtorno de ansiedade; transtorno misto de ansiedade e depressão |
 | Nova Indicação Prevista | Insônia (insomnia) |
-| Pontuação de Previsão TxGNN | 99,81% |
+| Pontuação de Previsão TxGNN | 0,9981 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados; requer verificação) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

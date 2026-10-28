@@ -4,17 +4,17 @@ title: Tenecteplase
 parent: Apenas Predição do Modelo (L5)
 nav_order: 610
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-13
-description: "Tenecteplase: nova indicação prevista, Infarto do miocárdio posteroinferior (posteroinferior myocardial infa… (nível de evidência L5). Indicação original: Infarto do miocárdio, trombose coronariana"
 monitor_inn: "TENECTEPLASE"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
+description: "Tenecteplase: nova indicação prevista, Congenital coronary artery anomaly (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Tenecteplase
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Tenecteplase: Do infarto agudo do miocárdio ao infarto do miocárdio posteroinferior
+## Tenecteplase: Congenital coronary artery anomaly
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,21 +46,20 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando direta
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infarto do miocárdio, trombose coronariana (conforme o grafo de conhecimento TxGNN; não há texto de indicação de registro no Brasil) |
-| Nova Indicação Prevista | Infarto do miocárdio posteroinferior (posteroinferior myocardial infarction) |
-| Pontuação de Previsão TxGNN | 99,87% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Congenital coronary artery anomaly |
+| Pontuação de Previsão TxGNN | 0.9961 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação registrados nos dados compilados. Segundo informações conhecidas, a tenecteplase é um ativador do plasminogênio tecidual específico para fibrina, que dissolve trombos coronarianos. Sua eficácia no infarto do miocárdio já é estabelecida, e mecanisticamente pode ser aplicável a subtipos anatômicos dessa doença.
 
-O infarto posteroinferior é um subtipo anatômico do infarto agudo do miocárdio, que já é uma indicação original do fármaco. A previsão, portanto, parece refletir a proximidade com a indicação-mãe no grafo de conhecimento, e não uma nova evidência. Em outras palavras, o potencial de reposicionamento é limitado: trata-se mais de uma extensão natural da indicação existente do que de um uso verdadeiramente novo.
 
-Outras previsões do modelo seguem a mesma lógica (infarto posterolateral e septal). Já as previsões para doenças como deleção parcial do braço curto do cromossomo 16, anemias hemolíticas hereditárias e deficiência de piruvato quinase não têm vínculo mecanístico plausível com a fibrinólise e provavelmente são artefatos do grafo.
+As previsões para doenças como deleção parcial do braço curto do cromossomo 16, anemias hemolíticas hereditárias e deficiência de piruvato quinase não têm vínculo mecanístico plausível com a fibrinólise. Os scores vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica.
 
 ## Evidências de Ensaios Clínicos
 
@@ -101,7 +100,7 @@ Nenhuma delas fornece evidência direta de eficácia para o infarto posteroinfer
 - Bula da ANVISA com advertências e contraindicações, hoje indisponível e que bloqueia a triagem de segurança
 - Esclarecer a situação regulatória no Brasil (não há registros vigentes)
 - Evidências clínicas específicas para o infarto posteroinferior, ou confirmação de que a indicação já está coberta pela indicação geral de infarto do miocárdio
-- Entre as demais previsões, apenas a estenose coronariana (nível L3, estudo de viabilidade de tenecteplase intracoronária) justifica uma questão de pesquisa; as previsões de doenças hematológicas e cromossômicas devem ser descartadas como provável artefato do grafo
+- Entre as demais previsões, apenas a estenose coronariana (nível L3, estudo de viabilidade de tenecteplase intracoronária) justifica uma questão de pesquisa; as previsões de doenças hematológicas e cromossômicas devem ser descartadas, pois os scores vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

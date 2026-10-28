@@ -47,26 +47,26 @@ O modelo TxGNN prevê que ela possa ser eficaz para **opsismodisplasia (opsismod
 |------|------|
 | Indicação Original | Antidiabéticos |
 | Nova Indicação Prevista | Opsismodisplasia (Opsismodysplasia) |
-| Pontuação de Previsão TxGNN | 99,35% |
+| Pontuação de Previsão TxGNN | 0,9935 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 2 (ambos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a evogliptina é um inibidor da dipeptidil peptidase-4 (DPP-4), classe usada no controle glicêmico do diabetes tipo 2.
 
-A opsismodisplasia é uma displasia esquelética rara, causada por mutações de perda de função no gene INPPL1 (SHIP2), que afetam a via PI3K/AKT e a ossificação endocondral. Não se conhece nenhuma via que ligue a inibição da DPP-4 à deficiência de SHIP2. Portanto, **não há vínculo mecanístico estabelecido**: a pontuação elevada (99,35%) reflete apenas uma previsão do modelo, sem respaldo em ensaios ou publicações.
+A opsismodisplasia é uma displasia esquelética rara, causada por mutações de perda de função no gene INPPL1 (SHIP2), que afetam a via PI3K/AKT e a ossificação endocondral. Não se conhece nenhuma via que ligue a inibição da DPP-4 à deficiência de SHIP2. Portanto, **não há vínculo mecanístico estabelecido**: a pontuação elevada (0,9935) reflete apenas uma previsão do modelo, sem respaldo em ensaios ou publicações.
 
 ### Outras previsões do modelo (todas de nível L5, Hold)
 
 | Posição | Doença prevista | Pontuação TxGNN | Comentário |
 |------|------|------|------|
-| 2 | Síndrome de disfunção responsiva à tiamina | 99,32% | Sem vínculo direto; a tiamina é a terapia estabelecida. Conexão apenas especulativa via vias metabólicas gerais. |
-| 3 | Síndrome da pessoa rígida clássica | 99,30% | Conexão hipotética: a DPP-4 (CD26) atua na ativação de células T e há sobreposição de autoimunidade anti-GAD65 com diabetes tipo 1. Sem dados clínicos. |
-| 4 | Síndrome do membro rígido focal | 99,30% | Variante localizada da anterior; pontuação idêntica sugere origem nas mesmas características do nó da doença, não evidência independente. |
-| 5 | Lipodistrofia localizada induzida por fármacos | 99,01% | Conexão fraca e indireta via contexto metabólico; inibidores da DPP-4 não têm efeito conhecido sobre a perda localizada de gordura. |
+| 2 | Síndrome de disfunção responsiva à tiamina | 0,9932 | Sem vínculo direto; a tiamina é a terapia estabelecida. Conexão apenas especulativa via vias metabólicas gerais. |
+| 3 | Síndrome da pessoa rígida clássica | 0,9930 | Conexão hipotética: a DPP-4 (CD26) atua na ativação de células T e há sobreposição de autoimunidade anti-GAD65 com diabetes tipo 1. Sem dados clínicos. |
+| 4 | Síndrome do membro rígido focal | 0,9930 | Variante localizada da anterior; pontuação idêntica sugere origem nas mesmas características do nó da doença, não evidência independente. |
+| 5 | Lipodistrofia localizada induzida por fármacos | 0,9901 | Conexão fraca e indireta via contexto metabólico; inibidores da DPP-4 não têm efeito conhecido sobre a perda localizada de gordura. |
 
 ## Evidências de Ensaios Clínicos
 

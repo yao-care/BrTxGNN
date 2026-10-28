@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Laxantes irritantes ou estimulantes |
 | Nova Indicação Prevista | Síndrome de Plummer-Vinson (Plummer-Vinson syndrome) |
-| Pontuação de Previsão TxGNN | 99,18% |
+| Pontuação de Previsão TxGNN | 0,9918 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,9 +60,9 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 A síndrome de Plummer-Vinson é caracterizada por anemia ferropriva, disfagia e membranas esofágicas. Não foi identificado vínculo mecanístico crível com o docusato: um surfactante poderia, em teoria, alterar a permeabilidade da mucosa, mas isso não trataria a deficiência de ferro nem as membranas esofágicas, e poderia até prejudicar a absorção de nutrientes.
 
-A pontuação alta do TxGNN (99,18%) reflete uma previsão baseada em grafo de conhecimento, sem respaldo clínico ou da literatura. Deve ser interpretada com cautela, possivelmente como artefato da topologia da rede.
+A pontuação alta do TxGNN (0,9918) reflete uma previsão do modelo TxGNN (aprendizado profundo), sem respaldo clínico ou da literatura. Deve ser interpretada com cautela, possivelmente como artefato da topologia da rede.
 
-Uma segunda previsão do modelo, **anemia megaloblástica constitucional independente de vitamina B12 e folato** (pontuação de 99,15%), também não tem ensaios, literatura nem vínculo mecanístico plausível: o docusato não tem efeito conhecido sobre a eritropoese nem sobre o metabolismo de nucleotídeos.
+Uma segunda previsão do modelo, **anemia megaloblástica constitucional independente de vitamina B12 e folato** (pontuação de 0,9915), também não tem ensaios, literatura nem vínculo mecanístico plausível: o docusato não tem efeito conhecido sobre a eritropoese nem sobre o metabolismo de nucleotídeos.
 
 ## Informações de Comercialização no Brasil
 

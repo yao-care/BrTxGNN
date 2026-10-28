@@ -6,9 +6,9 @@ nav_order: 653
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Travoprost: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). Indicação original: Glaucoma de ângulo aberto e hipertensão ocular"
 monitor_inn: "Travoprost"
-predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
+predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
+description: "Travoprost: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Travoprost
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Travoprosta: Do glaucoma de ângulo aberto à calcifilaxia visceral
+## Travoprost: Calcifilaxia visceral (visceral calciphylaxis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,11 +47,11 @@ O modelo TxGNN prevê que pode ser eficaz para **calcifilaxia visceral (visceral
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Glaucoma de ângulo aberto e hipertensão ocular |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Calcifilaxia visceral (visceral calciphylaxis) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 8) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -93,7 +93,7 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível documentado. Além disso, o fármaco não é comercializado no Brasil.
+- A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível documentado.
 
 **Para prosseguir, é necessário:**
 - Dados detalhados do mecanismo de ação (MOA) e análise de plausibilidade biológica entre agonismo do receptor FP e calcifilaxia

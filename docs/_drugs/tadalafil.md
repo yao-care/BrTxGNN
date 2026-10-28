@@ -6,9 +6,9 @@ nav_order: 603
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-13
-description: "Tadalafil: nova indicação prevista, Hipertricose universal congênita tipo Ambras (Ambras type hypertricho… (nível de evidência L5). Indicação original: Hiperplasia prostática benigna"
 monitor_inn: "TADALAFIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
+description: "Tadalafil: nova indicação prevista, Hipertricose universal congênita tipo Ambras (Ambras type hypertrichosis universalis congenita) (nível de evidência L5). Indicação original: Não consta nos dados l…"
 ---
 
 # Tadalafil
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-## Tadalafila: Da hiperplasia prostática benigna à hipertricose congênita universal tipo Ambras
+## Tadalafil: Hipertricose universal congênita tipo Ambras (Ambras type hypertrichosis universalis congenita)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,11 +47,11 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertricose universal congêni
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hiperplasia prostática benigna (as indicações originais vêm do grafo de conhecimento; não há texto de indicação de registro no Brasil) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Hipertricose universal congênita tipo Ambras (Ambras type hypertrichosis universalis congenita) |
-| Pontuação de Previsão TxGNN | 99,98% |
+| Pontuação de Previsão TxGNN | 0.9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -63,7 +63,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação no material co
 
 **Na prática, esta previsão não tem respaldo mecanístico.** A síndrome de Ambras é um distúrbio genético raro do desenvolvimento do folículo piloso (rearranjos cromossômicos que afetam a regulação do gene TRPS1). Não há relação demonstrada entre a inibição da PDE5 e a correção desse defeito. Além disso, a hipertricose é um efeito adverso conhecido de outros vasodilatadores, como o minoxidil. Assim, um mecanismo baseado em vasodilatação mediada por GMPc tenderia, de forma plausível, a piorar a condição, e não a tratá-la.
 
-A pontuação alta (0,9998; posição 228 no ranking do modelo) reflete apenas a estrutura do grafo de conhecimento, sem sustentação clínica ou na literatura.
+A pontuação alta (0.9998) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 ---
 
@@ -71,13 +71,13 @@ A pontuação alta (0,9998; posição 228 no ranking do modelo) reflete apenas a
 
 | Posição | Doença prevista | Pontuação | Nível | Observação |
 |------|------|------|------|------|
-| 2 | Hipertricose | 99,98% | L5 | Direção farmacológica possivelmente oposta (hipertricose induzida por vasodilatadores) |
-| 3 | Síndrome de malformação com componente dentário/periodontal | 99,97% | L5 | Sem vínculo mecanístico plausível |
-| 4 | Síndrome com malformação de Dandy-Walker como característica principal | 99,97% | L5 | Malformação estrutural congênita; sem vínculo plausível |
-| 5 | Anormalidade genética isolada da haste do cabelo | 99,96% | L5 | Defeito estrutural determinado geneticamente |
-| 6 | Tricomegalia isolada familiar | 99,65% | L5 | Sem mecanismo demonstrado |
-| 7 | Cardiopatia cifoescoliótica | 99,43% | L5 | Racional indireto fraco (hipertensão pulmonar e sobrecarga do coração direito); apenas hipótese |
-| 8 | Enxaqueca com aura de tronco encefálico | 99,08% | L4 | Único registro é um relato de caso de **efeito adverso**, sinal de dano e não de benefício |
+| 2 | Hipertricose | 0,9998 | L5 | Direção farmacológica possivelmente oposta (hipertricose induzida por vasodilatadores) |
+| 3 | Síndrome de malformação com componente dentário/periodontal | 0,9997 | L5 | Sem vínculo mecanístico plausível |
+| 4 | Síndrome com malformação de Dandy-Walker como característica principal | 0,9997 | L5 | Malformação estrutural congênita; sem vínculo plausível |
+| 5 | Anormalidade genética isolada da haste do cabelo | 0,9996 | L5 | Defeito estrutural determinado geneticamente |
+| 6 | Tricomegalia isolada familiar | 0,9965 | L5 | Sem mecanismo demonstrado |
+| 7 | Cardiopatia cifoescoliótica | 0,9943 | L5 | Racional indireto fraco (hipertensão pulmonar e sobrecarga do coração direito); apenas hipótese |
+| 8 | Enxaqueca com aura de tronco encefálico | 0,9908 | L4 | Único registro é um relato de caso de **efeito adverso**, sinal de dano e não de benefício |
 
 ---
 

@@ -4,17 +4,17 @@ title: Clindamycin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 228
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-13
 description: "Clindamycin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Clindamycin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis", "superior limbic keratoconjunctivitis", "visual snow syndrome", "keratomalacia", "ophthalmia nodosa"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
 ---
 
 # Clindamycin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antibióticos sistêmicos simples |
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 15 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 15) |
+| Número de Registros | 15 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -72,7 +72,7 @@ Atualmente não há literatura relacionada à indicação principal prevista (ce
 
 ## Informações de Comercialização no Brasil
 
-Todos os 15 registros encontrados estão cancelados. Os cinco primeiros:
+Todos os 15 registros encontrados têm licença válida. Os cinco primeiros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -94,7 +94,7 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal tem pontuação alta no modelo, mas nenhuma evidência clínica ou da literatura (L5), e a justificativa mecanística é fraca, pois a doença é tipicamente viral ou inflamatória. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão principal tem pontuação alta no modelo, mas nenhuma evidência clínica ou da literatura (L5), e a justificativa mecanística é fraca, pois a doença é tipicamente viral ou inflamatória. Além disso, o medicamento é comercializado no Brasil, com 15 registros válidos de 15.
 
 **Para prosseguir, é necessário:**
 - Confirmar o mecanismo de ação em fonte primária (por exemplo, DrugBank) e analisar a plausibilidade mecanística para a nova indicação

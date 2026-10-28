@@ -4,17 +4,17 @@ title: Prednisolone
 parent: Evidência Alta (L1-L2)
 nav_order: 545
 evidence_level: L2
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Prednisolone: nova indicação prevista, Alopecia Areata (alopecia areata) (nível de evidência L2). Indicação original: Glicocorticoides sistêmicos"
 monitor_inn: "Prednisolone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 ---
 
 # Prednisolone
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ atualmente sem ensaios clínicos registrados nos dados compilados, mas com **20 
 |------|------|
 | Indicação Original | Glicocorticoides sistêmicos |
 | Nova Indicação Prevista | Alopecia Areata (alopecia areata) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -85,7 +85,7 @@ Foram selecionadas as 10 publicações mais relevantes (de 20 recuperadas).
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão **cancelados**; não há registro válido atualmente. Os cinco principais:
+Foram encontrados 20 registros válidos; os cinco principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ Todos os 20 registros encontrados estão **cancelados**; não há registro váli
 Há um ensaio randomizado controlado por placebo, uma meta-análise em rede e revisões sistemáticas que apoiam o uso de corticoide sistêmico em pulso na alopecia areata, com plausibilidade mecanística clara (nível L2). A recaída após a suspensão, a toxicidade cumulativa e a preferência atual pelos inibidores de JAK nos casos graves exigem cautela.
 
 **Para prosseguir, é necessário:**
-- Confirmar a situação regulatória: todos os registros brasileiros estão cancelados, o que exige verificar a disponibilidade de produto válido ou novo registro.
+- Confirmar a situação regulatória: o medicamento está comercializado no Brasil, com 20 registros válidos.
 - Obter as advertências e contraindicações da bula na ANVISA, hoje ausentes.
 - Complementar os dados do mecanismo de ação.
 - Definir dose, esquema de pulso e duração, com plano de monitoramento de efeitos adversos (glicemia, pressão arterial, infecções, crescimento em crianças).
@@ -119,11 +119,10 @@ Há um ensaio randomizado controlado por placebo, uma meta-análise em rede e re
 
 | Indicação | Pontuação TxGNN | Nível | Decisão | Observação |
 |------|------|------|------|------|
-| Síndrome nefrótica idiopática sensível a esteroides | 99,86% | L1 | Proceed with Guardrails | Já é o tratamento padrão, portanto não é reposicionamento genuíno; boa parte da literatura trata da forma resistente |
-| Mucinose folicular (alopecia mucinosa) | 99,99% | L4 | Hold | Apenas um relato de caso, com ciclosporina e não prednisolona |
-| Foliculite decalvante | 99,98% | L4 | Hold | Evidência indireta, de regime combinado |
-| Eflúvio telógeno | 99,98% | L5 | Hold | Sem evidências; condição geralmente autolimitada |
-| Demais indicações (hipotricose hereditária, síndromes genéticas raras, atriquia, prolapso da glândula lacrimal, etc.) | ≤ 99,98% | L5 | Hold | Sem evidências ou mecanismo plausível |
+| Mucinose folicular (alopecia mucinosa) | 0,9999 | L4 | Hold | Apenas um relato de caso, com ciclosporina e não prednisolona |
+| Foliculite decalvante | 0,9998 | L4 | Hold | Evidência indireta, de regime combinado |
+| Eflúvio telógeno | 0,9998 | L5 | Hold | Sem evidências; condição geralmente autolimitada |
+| Demais indicações (hipotricose hereditária, síndromes genéticas raras, atriquia, prolapso da glândula lacrimal, etc.) | ≤ 0,9998 | L5 | Hold | Sem evidências ou mecanismo plausível |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

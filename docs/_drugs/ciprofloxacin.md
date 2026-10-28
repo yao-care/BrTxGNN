@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ciprofloxacin
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 223
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Ciprofloxacin: nova indicação prevista, Esclerodermia Difusa (Diffuse Scleroderma) (nível de evidência L4). Indicação original: Infecções bacterianas (febre tifoide, salmonelose, febre paratifoide…"
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+last_modified_at: 2026-10-27
+description: "Ciprofloxacin: nova indicação prevista, esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,80 +33,63 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Ciprofloxacino: De infecções bacterianas à esclerodermia difusa
+## Ciprofloxacino: antibacteriano da classe das fluoroquinolonas → esclerodermia difusa (diffuse scleroderma)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-O ciprofloxacino é um antibiótico da classe das fluoroquinolonas, originalmente usado em infecções bacterianas como febre tifoide, salmonelose, shigelose, pneumonia bacteriana e infecções por *Pseudomonas aeruginosa*.
-O modelo TxGNN prevê que pode ser eficaz para **Esclerodermia Difusa (Diffuse Scleroderma)**, mas **não há ensaios clínicos registrados** e apenas **2 publicações** apoiam esta direção, ambas de baixa solidez.
+O ciprofloxacino é um antibacteriano da classe das fluoroquinolonas, usado em infecções bacterianas. O modelo TxGNN prevê que ele pode ser eficaz para **esclerodermia difusa (diffuse scleroderma)**. Atualmente, há **0 ensaios clínicos registrados** e **2 publicações** relacionadas a esta direção, ambas de apoio limitado.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecções bacterianas (febre tifoide, salmonelose, febre paratifoide, pneumonia bacteriana, infecção por *Pseudomonas aeruginosa*, antraz, shigelose, entre outras) |
-| Nova Indicação Prevista | Esclerodermia Difusa (Diffuse Scleroderma) |
-| Pontuação de Previsão TxGNN | 99,87% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | esclerodermia difusa (diffuse scleroderma) |
+| Pontuação de Previsão TxGNN | 0,9987 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
-
-> Observação: as indicações originais vêm das relações do grafo de conhecimento do TxGNN, e não de texto de bula, pois não há registros da ANVISA nos dados compilados.
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o ciprofloxacino é uma fluoroquinolona que inibe a DNA girase e a topoisomerase IV bacterianas, e sua eficácia em infecções por bactérias Gram-negativas e Gram-positivas está bem estabelecida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, de forma geral, que o ciprofloxacino é uma fluoroquinolona que inibe a DNA girase e a topoisomerase IV bacterianas, o que explica sua ação antibacteriana.
 
-A relação com a esclerodermia é indireta e se apoia em duas linhas. A primeira é a hipótese de um efeito antifibrótico na pele, possivelmente por modulação da síntese de colágeno ou da atividade de fibroblastos (PMID 20507401). A segunda é o tratamento do supercrescimento bacteriano do intestino delgado, comum na esclerose sistêmica e causa de diarreia crônica e má absorção (PMID 7728404). Essa segunda linha atua sobre uma complicação, não sobre a doença em si.
+Para a esclerodermia, a hipótese presente na literatura é dupla. A primeira é um possível efeito antifibrótico na pele, talvez por modulação da síntese de colágeno ou da atividade dos fibroblastos (PMID 20507401). A segunda é indireta: tratar o supercrescimento bacteriano no intestino delgado, comum na esclerose sistêmica e causa de diarreia crônica e perda de peso (PMID 7728404).
 
-Nenhuma das duas linhas traz evidência controlada de modificação da doença. A pontuação muito alta do TxGNN é apenas uma previsão computacional e não substitui dados clínicos.
+Nenhuma dessas linhas fornece evidência controlada de modificação da doença. A pontuação muito alta do TxGNN é uma previsão computacional e não substitui dados clínicos.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para esta indicação.
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Exploratório/pré-clínico (segundo a classificação dos dados) | The Journal of Dermatology | Avalia o ciprofloxacino oral como antifibrótico na pele de pacientes com esclerodermia; o resumo disponível descreve um ensaio clínico randomizado, duplo-cego e controlado, mas está truncado e não mostra os resultados |
-| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Coorte/diagnóstico | British Journal of Rheumatology | 24 pacientes com esclerose sistêmica e sintomas de má absorção investigados para supercrescimento bacteriano do intestino delgado e resultado do tratamento |
-
-## Citotoxicidade
-
-Não se aplica: o ciprofloxacino não é um antineoplásico.
+| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Estudo exploratório (ensaio randomizado duplo-cego descrito no resumo) | The Journal of Dermatology | Avalia se o ciprofloxacino oral reduz a gravidade da esclerodermia, com foco em efeito antifibrótico na pele. O resumo disponível está truncado e não traz os resultados. |
+| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Estudo de coorte/diagnóstico | British Journal of Rheumatology | 24 pacientes com esclerose sistêmica e sintomas de má absorção investigados para supercrescimento bacteriano no intestino delgado, com avaliação do desfecho do tratamento; apenas 6 tinham a forma difusa. |
 
 ## Considerações de Segurança
 
-- **Contraindicações (segundo relações do grafo de conhecimento, não texto de bula)**: síndrome do QT longo (inclusive familiar), *torsades de pointes*, epilepsia, doença renal, deficiência de potássio, tendinite e outras doenças de tendão e articulação (periartrite, esporão do calcâneo, bursite do calcâneo), doenças do sistema nervoso periférico e neuropatia periférica, colite por *Clostridium difficile*, miastenia gravis (inclusive de início na idade adulta) e doenças da junção neuromuscular, enterocolite necrosante perinatal.
-- **Interações Medicamentosas** (100 interações identificadas; as de gravidade **Maior** incluem):
-  - Corticosteroides: hidrocortisona, triancinolona, dexametasona e betametasona (risco aumentado de lesão de tendão)
-  - Bupropiona
-- **Interações de gravidade Moderada** (exemplos): antidiabéticos (metformina, pioglitazona, acarbose, alogliptina, albiglutida), famotidina, loperamida, alosetrona, aprepitanto, ácido acetilsalicílico, budesonida, bisacodil e fosfato de cálcio.
+- **Interações Medicamentosas**: o levantamento identificou 100 interações. Entre as de nível maior estão hidrocortisona, triamcinolona, dexametasona, betametasona e bupropiona. Há também interações de nível moderado, por exemplo com acarbose, famotidina, metformina, pioglitazona, loperamida, ácido acetilsalicílico e budesonida.
 
-Para a esclerodermia, vale atenção especial: pacientes frequentemente usam corticosteroides, e as contraindicações de tendinite e neuropatia periférica podem ser relevantes. Consulte a bula para as advertências completas, que não estavam disponíveis nos dados compilados.
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Não há ensaios clínicos registrados, e a literatura é limitada e de baixa solidez, sem resultados controlados de modificação da doença. A pontuação do TxGNN é apenas uma previsão computacional, e há sinais de segurança relevantes no perfil do fármaco (tendões, neuropatia).
+- A previsão se apoia em apenas duas publicações, sem ensaios clínicos registrados e sem resultados controlados que comprovem benefício na esclerodermia difusa. O nível de evidência é L4 e a pontuação do modelo, isoladamente, não sustenta uma decisão de avanço.
 
 **Para prosseguir, é necessário:**
-- Obter o texto completo e os resultados do estudo de 2010 (PMID 20507401) e avaliar sua qualidade metodológica
-- Realizar ou localizar ensaios clínicos controlados de ciprofloxacino na esclerodermia difusa
-- Obter dados de mecanismo de ação (MOA) para sustentar a hipótese antifibrótica
-- Obter advertências e contraindicações da bula aprovada pela ANVISA
-- Esclarecer a situação regulatória no Brasil: os dados compilados indicam "não comercializado" e zero registros, o que parece inconsistente com um antibiótico amplamente utilizado
-
----
-
-### Nota sobre as demais previsões
-
-Entre as outras indicações previstas, a **peste septicêmica** (pontuação TxGNN de 99,64%) tem o respaldo mais forte nos dados compilados, com nível de evidência L1 e estágio S2, e trata-se de um uso antibacteriano direto, coerente com a atividade do fármaco contra *Yersinia pestis*. Há ensaio randomizado (NEJM 2025, PMID 40768716; protocolo IMASOY, PMID 32807214 e 38970065) e dados em primatas não humanos (PMID 32435805). Contudo, o ensaio randomizado se refere à peste bubônica, não à septicêmica, e o status de Fase 3 precisa ser verificado. Como essa indicação é uma extensão da atividade antibacteriana já conhecida, e não um reposicionamento propriamente dito, ela não foi adotada como indicação principal deste relatório, que segue a primeira previsão do modelo. As demais (hiperamilasemia, síndrome de hiperviscosidade policlonal, analbuminemia congênita, incompatibilidade de grupo sanguíneo, doenças hematológicas pré-malignas, ceratoconjuntivite epitelial punctata, gamopatia monoclonal e doença hematológica associada a neuropatia periférica) não têm sustentação mecanística ou apresentam apenas evidência indireta, com recomendação de *Hold*.
+- Obter o texto completo e os resultados do ensaio randomizado (PMID 20507401) e avaliar sua qualidade metodológica.
+- Obter dados detalhados do mecanismo de ação e investigar o possível efeito antifibrótico em modelos pré-clínicos.
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa necessária para a triagem de segurança.
+- Avaliar o perfil de risco-benefício em uma doença crônica, considerando os riscos conhecidos das fluoroquinolonas (por exemplo, tendinopatia e neuropatia periférica) e o uso prolongado.
+- Se houver sinal de benefício, planejar um ensaio controlado específico em esclerodermia difusa.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

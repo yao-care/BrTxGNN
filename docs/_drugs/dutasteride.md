@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Dutasterida: Do inibidor da alfa-redutase à hipertricose congênita de Ambras
+## Dutasterida: Do inibidor da alfa-redutase à Hipertricose universal congênita tipo Ambras
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,17 +48,17 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Inibidor da alfa-redutase |
 | Nova Indicação Prevista | Hipertricose universal congênita do tipo Ambras (Ambras type hypertrichosis universalis congenita) |
-| Pontuação de Previsão TxGNN | 99,998% |
+| Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 13 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
+| Número de Registros | 13 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a dutasterida inibe a 5-alfa-redutase dos tipos 1 e 2, reduzindo a di-hidrotestosterona (DHT). Sua eficácia no trato urinário (inibição da alfa-redutase) está estabelecida no Brasil, e seu uso off-label mais conhecido é na alopecia androgenética.
 
-A relação com a nova indicação é fraca. A síndrome de Ambras é uma hipertricose congênita associada a alterações genéticas que afetam a regulação do gene *TRPS1* e não é claramente dependente da DHT. Um mecanismo antiandrogênico é, portanto, pouco plausível. A pontuação muito alta do modelo (99,998%) não é acompanhada de qualquer ensaio clínico ou publicação, e deve ser lida como uma hipótese gerada pela rede de conhecimento, não como evidência.
+A relação com a nova indicação é fraca. A síndrome de Ambras é uma hipertricose congênita associada a alterações genéticas que afetam a regulação do gene *TRPS1* e não é claramente dependente da DHT. Um mecanismo antiandrogênico é, portanto, pouco plausível. A pontuação muito alta do modelo (1,0000) não é acompanhada de qualquer ensaio clínico ou publicação, e deve ser lida como uma hipótese gerada pela rede de conhecimento, não como evidência.
 
 Outras previsões do modelo seguem o mesmo padrão: hipertricose geral (99,997%), síndromes de malformação com componente dentário, anomalias genéticas da haste capilar, hipotricose simples do couro cabeludo, entre outras. Em geral, estão ligadas a cabelos e pelos, mas sem apoio mecanístico claro. Entre elas, a hipotricose simples do couro cabeludo e a alopecia areata difusa foram classificadas como "Pergunta de Pesquisa".
 
@@ -78,7 +78,7 @@ Como referência indireta, para outra indicação prevista (alopecia areata difu
 
 ## Informações de Comercialização no Brasil
 
-Todos os 13 registros encontram-se cancelados. Principais registros:
+Todos os 13 registros encontram-se válidos. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -101,7 +101,7 @@ Advertências e contraindicações da bula não estavam disponíveis; consulte a
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão tem pontuação alta, mas nível de evidência L5: não há ensaios clínicos nem literatura, e o mecanismo (redução da DHT) não explica a síndrome de Ambras, de origem genética. Além disso, todos os registros brasileiros estão cancelados.
+A previsão tem pontuação alta, mas nível de evidência L5: não há ensaios clínicos nem literatura, e o mecanismo (redução da DHT) não explica a síndrome de Ambras, de origem genética. Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem ela

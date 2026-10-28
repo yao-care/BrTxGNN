@@ -48,32 +48,32 @@ Entre as 10 previsões analisadas, a mais bem sustentada por dados é a **peste 
 |------|------|
 | Indicação Original | Antiinfecciosos |
 | Nova Indicação Prevista | Polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade policlonal) |
-| Pontuação de Previsão TxGNN | 99,91% |
+| Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 8 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
-> Observação: as 10 previsões têm pontuações muito próximas (99,56% a 99,91%), então a posição no ranking do modelo não distingue bem a plausibilidade biológica. A previsão de maior pontuação é puramente baseada no grafo. A tabela abaixo resume as demais previsões.
+> Observação: as 10 previsões têm pontuações muito próximas (0,9957 a 0,9991), então a posição no ranking do modelo não distingue bem a plausibilidade biológica. A pontuação da previsão de maior valor vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. A tabela abaixo resume as demais previsões.
 
 | Posição | Indicação prevista | Pontuação TxGNN | Nível | Recomendação |
 |------|------|------|------|------|
-| 1 | Polyclonal hyperviscosity syndrome | 99,91% | L5 | Hold |
-| 2 | Hiperamilasemia (hyperamylasemia) | 99,91% | L5 | Hold |
-| 3 | Analbuminemia congênita | 99,90% | L5 | Hold |
-| 4 | Incompatibilidade de grupo sanguíneo | 99,86% | L5 | Hold |
-| 5 | Doença hematológica pré-maligna | 99,84% | L5 | Hold |
-| 6 | Gamopatia monoclonal | 99,82% | L5 | Hold |
-| 7 | Doença hematológica associada a neuropatia periférica adquirida | 99,80% | L5 | Hold |
-| 8 | Peste septicêmica | 99,79% | L4 | Questão de pesquisa |
-| 9 | Distúrbio hematológico congênito | 99,72% | L5 | Hold |
-| 10 | Ceratoconjuntivite epitelial punctata | 99,57% | L4 | Hold |
+| 1 | Polyclonal hyperviscosity syndrome | 0,9991 | L5 | Hold |
+| 2 | Hiperamilasemia (hyperamylasemia) | 0,9991 | L5 | Hold |
+| 3 | Analbuminemia congênita | 0,9990 | L5 | Hold |
+| 4 | Incompatibilidade de grupo sanguíneo | 0,9986 | L5 | Hold |
+| 5 | Doença hematológica pré-maligna | 0,9984 | L5 | Hold |
+| 6 | Gamopatia monoclonal | 0,9982 | L5 | Hold |
+| 7 | Doença hematológica associada a neuropatia periférica adquirida | 0,9980 | L5 | Hold |
+| 8 | Peste septicêmica | 0,9979 | L4 | Questão de pesquisa |
+| 9 | Distúrbio hematológico congênito | 0,9972 | L5 | Hold |
+| 10 | Ceratoconjuntivite epitelial punctata | 0,9957 | L4 | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, o ofloxacino é uma fluoroquinolona que inibe a DNA girase e a topoisomerase IV bacterianas, e sua eficácia antibacteriana está estabelecida.
 
-Para a previsão principal (síndrome de hiperviscosidade policlonal), **não há vínculo mecanístico plausível**: o ofloxacino não tem efeito conhecido sobre a viscosidade sérica nem sobre a elevação policlonal de imunoglobulinas. A pontuação alta reflete apenas conexões no grafo de conhecimento. O mesmo vale para hiperamilasemia, analbuminemia congênita, doenças hematológicas e gamopatia monoclonal. Para a doença hematológica associada a neuropatia periférica, as fluoroquinolonas podem causar neuropatia periférica como efeito adverso, o que contraria a hipótese de benefício e levanta preocupação de segurança.
+Para a previsão principal (síndrome de hiperviscosidade policlonal), **não há vínculo mecanístico plausível**: o ofloxacino não tem efeito conhecido sobre a viscosidade sérica nem sobre a elevação policlonal de imunoglobulinas. A pontuação alta vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. O mesmo vale para hiperamilasemia, analbuminemia congênita, doenças hematológicas e gamopatia monoclonal. Para a doença hematológica associada a neuropatia periférica, as fluoroquinolonas podem causar neuropatia periférica como efeito adverso, o que contraria a hipótese de benefício e levanta preocupação de segurança.
 
 Duas previsões têm algum respaldo biológico, ambas como extensão do uso antibacteriano já conhecido, e não como um novo mecanismo:
 - **Peste septicêmica:** *Yersinia pestis* é sensível às fluoroquinolonas in vitro, e há estudos em camundongos e em outros animais com ofloxacino em peste pneumônica e bubônica experimental.
@@ -104,7 +104,7 @@ Outros trabalhos recuperados tratam de resistência em outros organismos (por ex
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros estão cancelados; não há registro vigente.
+Todos os 8 registros estão vigentes (8 licenças válidas de 8); o medicamento é comercializado no Brasil.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -126,7 +126,7 @@ Consulte a bula para advertências principais e contraindicações oficiais; os 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal (síndrome de hiperviscosidade policlonal) é apenas uma previsão do modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, todos os registros brasileiros estão cancelados, e o perfil de segurança exige cautela em várias condições.
+- A previsão principal (síndrome de hiperviscosidade policlonal) é apenas uma previsão do modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, o medicamento é comercializado no Brasil (8 registros válidos de 8), e o perfil de segurança exige cautela em várias condições.
 - A peste septicêmica (L4) é a hipótese mais defensável, mas é uma extensão do uso antibacteriano existente e se apoia apenas em dados in vitro e em animais. Pode ser tratada como questão de pesquisa, não como candidata a reposicionamento imediato.
 
 **Para prosseguir, é necessário:**

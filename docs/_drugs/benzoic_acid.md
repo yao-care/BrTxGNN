@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **2 publicações** recuperadas, ne
 |------|------|
 | Indicação Original | Expectorantes balsâmicos e mucolítico |
 | Nova Indicação Prevista | Bronquite (bronchitis) |
-| Pontuação de Previsão TxGNN | 99,98% |
+| Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

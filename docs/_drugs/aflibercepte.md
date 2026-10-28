@@ -8,6 +8,7 @@ nav_order: 31
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aflibercepte
@@ -51,8 +52,8 @@ e há lacunas de dados críticas — incluindo ausência de MOA e dados de segur
 | Nova Indicação Prevista | Sem previsão TxGNN disponível |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | Não aplicável |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 4 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 4) |
+| Número de Registros | 4 (ativos: 3) |
 | Decisão Recomendada | **Hold** |
 
 ---

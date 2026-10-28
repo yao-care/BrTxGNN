@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tetracycline
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 626
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-13
 description: "Tetracycline: nova indicação prevista, Ceratoconjuntivite epitelial punctata (Punctate Epithelial Keratoconj… (nível de evidência L4). Indicação original: Classe das tetraciclinas"
 monitor_inn: "Tetracycline"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)", "exposure keratitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
 ---
 
 # Tetracycline
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (um relat
 |------|------|
 | Indicação Original | Classe das tetraciclinas |
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (Punctate Epithelial Keratoconjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,58% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 10 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9958 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -82,7 +82,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | Registro nº 177940048 | OFITE PLUS | Não informada | Antiinfecciosos tópicos para uso oftálmico |
 | Registro nº 116370017 | NOVASUTIN | Não informada | Antimicótico |
 
-Observação: todos os 10 registros encontrados estão cancelados; não há registro válido atualmente. Os cinco acima são apresentados como amostra.
+Observação: todos os 10 registros encontrados têm licença válida atualmente. Os cinco acima são apresentados como amostra.
 
 ## Considerações de Segurança
 
@@ -97,7 +97,7 @@ Advertências e contraindicações da bula não estavam disponíveis; consulte a
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão tem pontuação alta no TxGNN (99,58%), mas o único suporte é um relato de casos indireto, sem ensaios clínicos. Além disso, não há registro válido da tetraciclina no Brasil (todos cancelados), e os dados de segurança da bula estão ausentes.
+A previsão tem pontuação alta no TxGNN (0,9958), mas o único suporte é um relato de casos indireto, sem ensaios clínicos. Além disso, não há registro válido da tetraciclina no Brasil (todos cancelados), e os dados de segurança da bula estão ausentes.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula (advertências e contraindicações) na ANVISA

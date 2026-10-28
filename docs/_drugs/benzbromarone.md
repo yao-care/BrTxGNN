@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipouricemia Renal (Hypouricemi
 |------|------|
 | Indicação Original | Antigotoso |
 | Nova Indicação Prevista | Hipouricemia Renal (Hypouricemia, renal) |
-| Pontuação de Previsão TxGNN | 99,07% |
+| Pontuação de Previsão TxGNN | 0,9907 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação na base de dad
 
 A hipouricemia renal, por sua vez, é causada por variantes de perda de função no URAT1 (SLC22A12) ou no GLUT9 (SLC2A9), que resultam em excreção urinária excessiva de urato e baixa concentração sérica. O mecanismo da benzbromarona **agravaria**, e não trataria, a doença, pois mimetiza farmacologicamente o defeito de base.
 
-A pontuação alta do TxGNN (0,99) provavelmente reflete uma associação compartilhada de gene/via (transporte de urato), e não uma relação terapêutica. Na direção terapêutica, a previsão parece ser um falso positivo. Há ainda preocupações clínicas: a hipouricemia renal implica risco de lesão renal aguda induzida por exercício e de nefrolitíase, ambos agravados por maior excreção urinária de urato.
+A pontuação alta do TxGNN (0,9907) provavelmente reflete uma associação compartilhada de gene/via (transporte de urato), e não uma relação terapêutica. Na direção terapêutica, a previsão parece ser um falso positivo. Há ainda preocupações clínicas: a hipouricemia renal implica risco de lesão renal aguda induzida por exercício e de nefrolitíase, ambos agravados por maior excreção urinária de urato.
 
 ## Evidências de Ensaios Clínicos
 

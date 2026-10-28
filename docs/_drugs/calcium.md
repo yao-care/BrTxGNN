@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Calcium
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 178
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Calcium: nova indicação prevista, Doença trombótica (Thrombotic Disease) (nível de evidência L5). Indicação original: Não disponível"
-monitor_inn: "Calcium"
-predicted_indications: ["thrombotic disease", "hemoglobinopathy", "female breast carcinoma", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "exostosis", "pyropoikilocytosis, hereditary", "vein disease", "non-inflammatory vasculopathy"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Calcium: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
+predicted_indications: []
 ---
 
 # Calcium
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,75 +32,67 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Cálcio: Da ausência de indicação registrada à doença trombótica
+<!-- known-uses-page -->
+<!-- description: Calcium: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata -->
+## Calcium: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior a 0,99 para Calcium, portanto não há, no momento, nova indicação predita. Os usos registrados para o medicamento estão listados abaixo.
 
-O cálcio é um mineral essencial; não há indicação original registrada na ANVISA nos dados compilados para este relatório.
-O modelo TxGNN prevê que pode ser eficaz para **doença trombótica (thrombotic disease)**,
-mas **nenhum dos 2 ensaios clínicos** listados testa o cálcio, e a literatura encontrada é, em sua maior parte, indireta. A previsão é apenas computacional.
-
-## Visão Geral Rápida
-
+## Visão geral rápida
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível (sem registros na ANVISA) |
-| Nova Indicação Prevista | Doença trombótica (Thrombotic Disease) |
-| Pontuação de Previsão TxGNN | 98,25% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Hold |
+| Novas indicações preditas | Nenhuma (nenhum candidato do modelo atingiu pontuação igual ou superior a 0,99) |
+| Usos conhecidos registrados para este medicamento | 2 |
+| Nível de evidência | Não aplicável |
+| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 17) |
+| Número de Registros | 17 (ativos: 1) |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos registrados para este medicamento
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. O cálcio é um cofator necessário na cascata de coagulação e na ativação plaquetária, por isso existe uma conexão biológica plausível com a trombose.
+### Aprovados (com respaldo em licença ou bula)
+| Indicação | Fonte |
+|------|------|
+| úlcera duodenal (duodenal ulcer) | licença em outro país |
+| quelante de fósforo (phosphatbinder) | licença em outro país |
 
-Contudo, a direção do efeito é desfavorável: o cálcio tende a **promover** a coagulação, e não a tratá-la. A literatura recuperada trata do papel do cálcio na ativação plaquetária (por exemplo, entrada de cálcio operada por reservas e fluxos de Ca²⁺ em plaquetas) e na trombo-inflamação. Isso descreve fisiopatologia, não benefício terapêutico.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhuma | — |
 
-A pontuação alta (0,98) reflete apenas a proximidade no grafo de conhecimento, sem respaldo clínico. A previsão deve ser tratada como hipótese a ser examinada com cautela, não como indicação de eficácia.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Nenhuma |
 
-## Evidências de Ensaios Clínicos
+## Market information
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT04319627](https://clinicaltrials.gov/study/NCT04319627) | Phase 3 | Recrutando | 2700 | Estatinas somadas a anticoagulantes para reduzir eventos venosos em tromboembolismo venoso; não testa cálcio |
-| [NCT03692754](https://clinicaltrials.gov/study/NCT03692754) | Phase 2/3 | Desconhecido | 30 | Atorvastatina em trombocitopenia imune primária; não envolve cálcio |
-
-Nenhum ensaio avalia o cálcio; ambos têm relevância baixa para esta previsão.
-
-## Evidências da Literatura
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [30530092](https://pubmed.ncbi.nlm.nih.gov/30530092/) | 2019 | Revisão | Cell Calcium | Entrada de cálcio operada por reservas (SOCE) na trombose e na trombo-inflamação |
-| [38880165](https://pubmed.ncbi.nlm.nih.gov/38880165/) | 2024 | Revisão | Life Sciences | Alterações nos fluxos de cálcio e no metabolismo mitocondrial na ativação plaquetária |
-| [39796525](https://pubmed.ncbi.nlm.nih.gov/39796525/) | 2024 | Revisão | Nutrients | Deficiência de vitamina D e risco de doença trombótica |
-| [35993516](https://pubmed.ncbi.nlm.nih.gov/35993516/) | 2022 | Revisão | Am J Physiol Cell Physiol | Plaquetas pró-coagulantes na trombo-inflamação |
-| [7648691](https://pubmed.ncbi.nlm.nih.gov/7648691/) | 1995 | Revisão | Circulation | Classificação histológica de lesões ateroscleróticas avançadas |
-| [41055696](https://pubmed.ncbi.nlm.nih.gov/41055696/) | 2026 | Pré-clínico | Blood | STK10 regula a função plaquetária na trombose arterial |
-| [40540747](https://pubmed.ncbi.nlm.nih.gov/40540747/) | 2025 | Pré-clínico | Blood | Canais LRRC8 regulam a ativação plaquetária e a trombose arterial |
-
-Os estudos descrevem mecanismos de trombose, e não o uso do cálcio como tratamento.
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 102660032 | COMPLEXO HOMEOPÁTICO BARYTA CARBONICA ALMEIDA PRADO 06 |  | Cancelado |
+| 101070337 | CALCIUM D3 |  | Cancelado |
+| 128420007 | STRUMEEL F N |  | Cancelado |
+| 101070325 | CALCIUM SANDOZ + VITAMINA C LARANJA |  | Cancelado |
+| 100680147 | CALCIUM D3 |  | Cancelado |
+| 128420010 | LYMPHOMYOSOT |  | Cancelado |
+| 100680947 | CALCIUM SANDOZ + VITAMINA C |  | Cancelado |
+| 144930020 | ABCALCIUM B12 |  | Cancelado |
+| 100681051 | CALCIUM SANDOZ + VITAMINA C LARANJA |  | Cancelado |
+| 102470056 | DERMOCLYN |  | Cancelado |
+| 102660001 | ANGINOMED |  | Cancelado |
+| 128420015 | TONSILLA COMPOSITUM N |  | Cancelado |
+| 161980012 | LYMPHOMYOSOT |  | Ativo |
+| 102470069 | NYRVADENT |  | Cancelado |
+| 100610087 | CALCIODORON 1 |  | Cancelado |
+| 101070327 | CALCIUM SANDOZ |  | Cancelado |
+| 100680033 | CALCIUM SANDOZ |  | Cancelado |
 
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança. Não foram identificadas interações medicamentosas nos dados compilados.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-A previsão se baseia apenas no modelo, sem ensaios com cálcio e com direção de efeito mecanisticamente desfavorável (o cálcio é pró-coagulante). Por isso, não há base para avançar.
-
-**Para prosseguir, é necessário:**
-- Dados de mecanismo de ação e de segurança (advertências e contraindicações da bula) ainda não disponíveis
-- Evidência clínica direta com cálcio na doença trombótica, o que hoje não existe
-- Justificativa farmacológica de que o cálcio poderia reduzir, e não aumentar, o risco trombótico
-
-**Observação sobre outras previsões:** outras doenças previstas (por exemplo, hemoglobinopatias, câncer de mama feminino e beta-talassemia) também carecem de evidência direta de benefício do cálcio. O papel do cálcio nelas seria, no máximo, de suporte (saúde óssea, distúrbios endócrinos), e não de modificação da doença.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

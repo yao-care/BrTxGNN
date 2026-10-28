@@ -4,17 +4,17 @@ title: Cabotegravir
 parent: Apenas Predição do Modelo (L5)
 nav_order: 170
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Cabotegravir: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L5). Indicação original: Não disponível nos registros da ANVISA"
+indication_count: 5
 monitor_inn: "Cabotegravir"
-predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy", "brachydactyly-syndactyly syndrome", "diabetic retinopathy", "non-syndromic visceral malformation", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
+predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
+last_modified_at: 2026-10-27
+description: "Cabotegravir: nova indicação prevista, Artrite reumatoide (rheumatoid arthritis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Cabotegravir
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,79 +33,69 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Cabotegravir: Do HIV à artrite reumatoide (previsão do modelo, sem evidências clínicas)
+## Cabotegravir: inibidor da integrase do HIV → Artrite reumatoide (rheumatoid arthritis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Cabotegravir é um inibidor da integrase do HIV (inibidor da transferência de fita da integrase), usado no tratamento e na prevenção da infecção pelo HIV.
-O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid Arthritis)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A previsão baseia-se apenas na pontuação do modelo.
+Cabotegravir é um inibidor da integrase do HIV (inibidor da transferência de fitas da integrase).
+O modelo TxGNN prevê que pode ser eficaz para **Artrite reumatoide (rheumatoid arthritis)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia apenas na pontuação do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível nos registros da ANVISA (sem registros ativos) |
-| Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
-| Pontuação de Previsão TxGNN | 99,45% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Artrite reumatoide (rheumatoid arthritis) |
+| Pontuação de Previsão TxGNN | 0,9945 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o cabotegravir é um inibidor da integrase do HIV, classe que bloqueia a integração do DNA viral ao genoma da célula hospedeira.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Cabotegravir é conhecido como inibidor da integrase do HIV, uma classe antiviral que bloqueia a inserção do material genético viral no DNA da célula hospedeira.
 
-Não existe um mecanismo estabelecido que ligue essa ação antiviral à inflamação articular imunomediada da artrite reumatoide. A relação entre a indicação original (infecção pelo HIV) e a nova indicação é, portanto, especulativa, e a similaridade com a indicação original ainda está pendente de análise.
+Não há mecanismo estabelecido que ligue essa ação à inflamação articular imunomediada da artrite reumatoide. Qualquer vínculo mecanístico é, portanto, especulativo, e a similaridade com o uso original ainda não foi avaliada.
 
-A pontuação alta (99,45%) reflete apenas padrões do grafo de conhecimento do modelo. Sem ensaios clínicos ou literatura, ela não deve ser interpretada como evidência de eficácia.
+A previsão tem pontuação alta (0,9945, posição 3618 no ranking do modelo), mas sem nenhum estudo que a sustente. Deve ser tratada como hipótese a ser explorada, não como achado.
 
-## Considerações sobre Outras Indicações Previstas
+## Evidências de Ensaios Clínicos
 
-O modelo também previu outras indicações, todas com nível de evidência L5, sem ensaios clínicos ou literatura e com recomendação Hold:
+Atualmente não há ensaios clínicos relacionados registrados.
 
-| Posição | Indicação Prevista | Pontuação TxGNN |
-|------|------|------|
-| 2 | Colangite esclerosante | 99,22% |
-| 3 | Bronquite | 99,19% |
-| 4 | Síndrome de microftalmia colobomatosa com displasia rizomélica | 99,16% |
-| 5 | Retinopatia diabética não proliferativa grave | 99,03% |
-| 6 | Síndrome de braquidactilia-sindactilia | 98,67% |
-| 7 | Retinopatia diabética | 98,17% |
-| 8 | Malformação visceral não sindrômica | 97,86% |
-| 9 | Síndrome autossômica dominante de hematúria familiar, tortuosidade arteriolar retiniana e contraturas | 97,83% |
-| 10 | Doença de pequenos vasos cerebrais tipo 1, com ou sem anomalias oculares | 97,82% |
+## Evidências da Literatura
 
-Nenhuma delas tem mecanismo plausível identificado nos dados disponíveis. Os sinais de retinopatia diabética grave e retinopatia diabética são consistentes entre si e, portanto, não constituem evidências independentes.
+Atualmente não há literatura relacionada.
 
 ## Considerações de Segurança
 
-- **Interações Medicamentosas**: foram identificadas 7 interações de gravidade moderada, todas com antiácidos ou agentes que contêm cátions polivalentes:
-  - Carbonato de cálcio
-  - Hidróxido de alumínio
-  - Carbonato de magnésio
-  - Hidróxido de magnésio
-  - Óxido de magnésio
-  - Bicarbonato de sódio
-  - Citrato de sódio
+- **Interações Medicamentosas** (7 interações de gravidade moderada identificadas): antiácidos e sais contendo cátions polivalentes podem interagir com o cabotegravir, a saber:
+  - carbonato de cálcio
+  - hidróxido de alumínio
+  - carbonato de magnésio
+  - hidróxido de magnésio
+  - óxido de magnésio
+  - bicarbonato de sódio
+  - citrato de sódio
 
-Consulte a bula para as demais informações de segurança (advertências e contraindicações).
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia somente na pontuação do modelo (nível L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível. Além disso, o fármaco não possui registro comercializado no Brasil, e faltam dados de segurança de bula.
+- A previsão tem apenas a pontuação do modelo como suporte, sem ensaios clínicos, literatura ou mecanismo plausível. O nível de evidência é L5.
 
 **Para prosseguir, é necessário:**
-- Obter os dados do mecanismo de ação (consulta ao DrugBank) e analisar a ligação mecanística com a artrite reumatoide
-- Baixar e analisar a bula na ANVISA (advertências e contraindicações) para a triagem de segurança
-- Realizar busca sistemática de literatura e de ensaios clínicos sobre cabotegravir em doenças reumáticas e inflamatórias
-- Verificar a situação regulatória no Brasil e a compatibilidade de vias de administração (injetável de longa duração versus necessidades da nova indicação)
-- Avaliar estudos pré-clínicos (L4) antes de qualquer investimento clínico
+- Dados do mecanismo de ação (MOA) do cabotegravir
+- Revisão da literatura e de bases de ensaios para avaliar a plausibilidade biológica na artrite reumatoide
+- Estudos pré-clínicos que testem a hipótese
+- Obtenção e análise da bula da ANVISA (advertências e contraindicações) para a triagem de segurança
+- Avaliação da compatibilidade de via de administração e formas farmacêuticas
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

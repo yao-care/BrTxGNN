@@ -6,9 +6,9 @@ nav_order: 670
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Vinblastine: nova indicação prevista, Rabdomiossarcoma (Rhabdomyosarcoma) (nível de evidência L3). Indicação original: Antineoplásico"
 monitor_inn: "Vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
+description: "Vinblastine: nova indicação prevista, Rhabdomyosarcoma (disease) (nível de evidência L3). Indicação original: ANTINEOPLASICO"
 ---
 
 # Vinblastine
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Vimblastina: De antineoplásico geral a rabdomiossarcoma
+## Vinblastine: Rhabdomyosarcoma (disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ atualmente sem ensaios clínicos registrados e com **7 publicações** associada
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antineoplásico |
-| Nova Indicação Prevista | Rabdomiossarcoma (Rhabdomyosarcoma) |
-| Pontuação de Previsão TxGNN | 99,86% |
+| Indicação Original | ANTINEOPLASICO |
+| Nova Indicação Prevista | Rhabdomyosarcoma (disease) |
+| Pontuação de Previsão TxGNN | 0.9986 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -91,7 +91,6 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | Item | Conteúdo |
 |------|------|
 | Classificação de Citotoxicidade | Citotóxico convencional (alcaloide da vinca, inibidor de microtúbulos) |
-| Risco de Mielossupressão | Alto (neutropenia é a toxicidade limitante de dose conhecida da classe; o grafo de conhecimento também associa o fármaco a neutropenia, trombocitopenia e agranulocitose) |
 | Classificação de Emetogenicidade | Baixa a média |
 | Itens de Monitoramento | Hemograma completo com diferencial, função hepática e renal, avaliação neurológica periférica |
 | Proteção no Manuseio | Necessário seguir os regulamentos de manuseio de citotóxicos; consulte as advertências e precauções na bula |

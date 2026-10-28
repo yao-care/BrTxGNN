@@ -8,6 +8,7 @@ nav_order: 403
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Leuprorrelina Acetate
@@ -51,8 +52,8 @@ Sem previsão de nova indicação e sem registros no Brasil, não é possível a
 | Nova Indicação Prevista | Nenhuma (modelo TxGNN retornou lista vazia) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | **L5** — Sem previsão de modelo, sem estudos reais |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | **Hold** |
 
 ---

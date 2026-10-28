@@ -49,10 +49,10 @@ O modelo TxGNN prevê que ela pode ser eficaz para **gastroparesia (Gastroparesi
 |------|------|
 | Indicação Original | Vitaminas e suplementos minerais |
 | Nova Indicação Prevista | Gastroparesia (Gastroparesis) |
-| Pontuação de Previsão TxGNN | 99,42% |
+| Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 18 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 18) |
+| Número de Registros | 18 (ativos: 18) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -85,7 +85,7 @@ A relação com a indicação original é indireta: o uso aprovado é nutriciona
 
 ## Informações de Comercialização no Brasil
 
-Todos os 18 registros encontrados estão cancelados; atualmente não há produto de arginina isolada com registro válido. Principais registros (5 de 18):
+Foram encontrados 18 registros, e os 18 estão válidos; o medicamento é comercializado no Brasil. Principais registros (5 de 18):
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -111,7 +111,7 @@ Consulte a bula para advertências e contraindicações oficiais, pois estas nã
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia apenas em estudos pré-clínicos em roedores e em uma pontuação computacional do modelo (nível L4), sem nenhum ensaio clínico. Além disso, todos os registros brasileiros estão cancelados e o perfil de segurança oficial não está disponível, o que impede a triagem de segurança.
+A previsão se apoia apenas em estudos pré-clínicos em roedores e em uma pontuação computacional do modelo (nível L4), sem nenhum ensaio clínico. Além disso, embora o medicamento seja comercializado no Brasil (18 registros válidos de 18), o perfil de segurança oficial não está disponível, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança

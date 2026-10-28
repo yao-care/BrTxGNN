@@ -4,17 +4,17 @@ title: Eribulin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 295
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Eribulin: nova indicação prevista, Febre familiar do Mediterrâneo autossômica recessiva (autosomal reces… (nível de evidência L5). Indicação original: Outros antineoplásicos"
 monitor_inn: "eribulin"
-predicted_indications: ["autosomal recessive familial Mediterranean fever", "dermatofibrosarcoma protuberans", "pleural mesothelioma", "malignant peritoneal mesothelioma", "ovarian myxoid liposarcoma", "pleural adenomatoid tumor", "pleural biphasic mesothelioma", "fibroblastic neoplasm", "pleural epithelioid mesothelioma", "heart fibrosarcoma"]
+predicted_indications: ["autosomal recessive familial Mediterranean fever", "dermatofibrosarcoma protuberans", "pleural mesothelioma", "malignant peritoneal mesothelioma", "pleural adenomatoid tumor", "pleural biphasic mesothelioma", "fibroblastic neoplasm", "pleural epithelioid mesothelioma", "heart fibrosarcoma"]
 ---
 
 # Eribulin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 ## Resumo em Uma Frase
 
 Eribulina é um agente antineoplásico citotóxico que inibe a dinâmica dos microtúbulos, registrado na ANVISA na categoria "outros antineoplásicos".
-O modelo TxGNN prevê, como principal indicação, a **febre familiar do Mediterrâneo autossômica recessiva (autosomal recessive familial Mediterranean fever)**, mas essa previsão é baseada apenas em grafo: **não há ensaios clínicos nem publicações** que a apoiem.
+O modelo TxGNN (deep learning) prevê, como principal indicação, a **febre familiar do Mediterrâneo autossômica recessiva (autosomal recessive familial Mediterranean fever)**, mas essa previsão pode refletir apenas semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica: **não há ensaios clínicos nem publicações** que a apoiem.
 A direção com mais respaldo nos dados compilados é a de **neoplasia fibroblástica (fibroblastic neoplasm)**, com **1 ensaio clínico de Fase 2** e **8 publicações**.
 
 ## Visão Geral Rápida
@@ -48,19 +48,19 @@ A direção com mais respaldo nos dados compilados é a de **neoplasia fibroblá
 |------|------|
 | Indicação Original | Outros antineoplásicos |
 | Nova Indicação Prevista | Febre familiar do Mediterrâneo autossômica recessiva (autosomal recessive familial Mediterranean fever) |
-| Pontuação de Previsão TxGNN | 99,82% |
+| Pontuação de Previsão TxGNN | 0,9982 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
-> Observação: entre as 10 principais previsões, a indicação com maior suporte de evidências é a **neoplasia fibroblástica** (pontuação TxGNN de 99,36%, nível L3). Ela é detalhada abaixo como direção alternativa.
+> Observação: entre as 10 principais previsões, a indicação com maior suporte de evidências é a **neoplasia fibroblástica** (pontuação TxGNN de 0,9936, nível L3). Ela é detalhada abaixo como direção alternativa.
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação neste conjunto de informações. Segundo informações conhecidas, a eribulina é um agente citotóxico que atua nos microtúbulos, e sua eficácia em tumores é reconhecida, inclusive em sarcomas de partes moles como o lipossarcoma.
 
-Para a febre familiar do Mediterrâneo, existe um vínculo conceitual: é uma doença autoinflamatória ligada à desregulação do inflamassoma pirina, e a colchicina, tratamento padrão, também age sobre microtúbulos. Porém, a citotoxicidade e o perfil de toxicidade da eribulina tornam seu uso em uma condição crônica não maligna pouco plausível. A pontuação alta reflete proximidade no grafo de conhecimento, não evidência clínica.
+Para a febre familiar do Mediterrâneo, existe um vínculo conceitual: é uma doença autoinflamatória ligada à desregulação do inflamassoma pirina, e a colchicina, tratamento padrão, também age sobre microtúbulos. Porém, a citotoxicidade e o perfil de toxicidade da eribulina tornam seu uso em uma condição crônica não maligna pouco plausível. A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica nem clínica.
 
 Entre as demais previsões, há maior coerência biológica nos tumores de tecido conjuntivo e mesoteliais (sarcomas, mesoteliomas), pela atividade antimitótica. Para a neoplasia fibroblástica, há ensaio clínico de Fase 2 e dados pré-clínicos em fibrossarcoma, que sustentam atividade biológica, embora com sinais de resistência.
 
@@ -93,7 +93,7 @@ Para a direção alternativa (neoplasia fibroblástica):
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontram-se **cancelados**; atualmente não há registro válido.
+Os 3 registros (3 de 3) encontram-se **válidos**; o medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -123,14 +123,14 @@ Informações de advertências e contraindicações da bula não estão disponí
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal (febre familiar do Mediterrâneo) é apenas um resultado de grafo, sem ensaios nem literatura, e o perfil citotóxico da eribulina é inadequado para uma doença autoinflamatória crônica. Além disso, não há registro válido no Brasil.
+- A previsão principal (febre familiar do Mediterrâneo) é apenas um resultado do modelo TxGNN (deep learning), sem ensaios nem literatura, e o perfil citotóxico da eribulina é inadequado para uma doença autoinflamatória crônica.
 - A direção mais promissora é a de tumores fibroblásticos (tumor fibroso solitário), com evidência L3 e recomendação de "questão de pesquisa", que merece análise separada.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem esses dados.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Obter os resultados do estudo ERASING (NCT03840772) para avaliar eficácia na neoplasia fibroblástica.
-- Esclarecer a situação regulatória: todos os registros estão cancelados, sendo necessário avaliar novo registro ou disponibilidade alternativa.
+- Confirmar a situação regulatória: os 3 registros estão válidos e o medicamento é comercializado.
 - Para as demais indicações previstas (mesoteliomas, sarcomas, DFSP), buscar evidências clínicas específicas antes de qualquer avanço.
 ## Aviso de isenção de responsabilidade
 

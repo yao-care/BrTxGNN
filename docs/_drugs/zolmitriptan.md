@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Zolmitriptan
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 684
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-13
-description: "Zolmitriptan: nova indicação prevista, Enxaqueca com aura do tronco encefálico (migraine with brainstem aura) (nível de evidência L4). Indicação original: Analgésicos contra enxaqueca"
 monitor_inn: "zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Zolmitriptan: nova indicação prevista, Atrophoderma vermiculata (nível de evidência L5). Indicação original: ANALGESICOS CONTRA ENXAQUECA"
 ---
 
 # Zolmitriptan
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **3** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-## Zolmitriptana: Da enxaqueca à enxaqueca com aura do tronco encefálico
+## Zolmitriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,19 +46,18 @@ mas atualmente há **0 ensaios clínicos** e **apenas literatura indireta** (pub
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Analgésicos contra enxaqueca |
-| Nova Indicação Prevista | Enxaqueca com aura do tronco encefálico (migraine with brainstem aura) |
-| Pontuação de Previsão TxGNN | 99,99% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Indicação Original | ANALGESICOS CONTRA ENXAQUECA |
+| Nova Indicação Prevista | Atrophoderma vermiculata |
+| Pontuação de Previsão TxGNN | 0.9990 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo a literatura revisada, a zolmitriptana é um agonista parcial dos receptores 5-HT1B/1D com ação central e periférica, capaz de inibir a ativação trigeminovascular. Sua eficácia na enxaqueca aguda, com ou sem aura, está bem documentada.
 
-A enxaqueca com aura do tronco encefálico é um subtipo da enxaqueca e compartilha a mesma fisiopatologia trigeminovascular. Por isso, o racional mecanístico é plausível e coerente com a pontuação muito alta do modelo.
 
 Há, porém, ressalvas importantes. A literatura fornecida trata de enxaqueca em geral (revisões, farmacologia, diretrizes) e não contém nenhum estudo específico sobre aura do tronco encefálico. Os triptanos historicamente exigem cautela em enxaqueca hemiplégica e com aura do tronco encefálico, por preocupações teóricas de vasoconstrição. Além disso, há um relato de caso de infarto do miocárdio associado à zolmitriptana. A evidência é, portanto, indireta.
 
@@ -100,7 +99,7 @@ Para as advertências formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-Apesar da pontuação muito alta do TxGNN e do racional mecanístico plausível, não há ensaios clínicos nem estudos específicos para enxaqueca com aura do tronco encefálico (nível L4). Somam-se a isso a cautela histórica com triptanos neste subtipo, a lista extensa de contraindicações cardiovasculares e cerebrovasculares e o registro brasileiro cancelado.
+Há uma lista extensa de contraindicações cardiovasculares e cerebrovasculares, e o medicamento está comercializado no Brasil, com 1 licença válida de 1.
 
 **Para prosseguir, é necessário:**
 - Estudos clínicos ou observacionais específicos sobre zolmitriptana em enxaqueca com aura do tronco encefálico

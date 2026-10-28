@@ -8,6 +8,7 @@ nav_order: 75
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Arginine Glutamate
@@ -51,8 +52,8 @@ Lacunas de dados críticas — ausência de MOA, ausência de informações de s
 | Nova Indicação Prevista | Nenhuma previsão disponível |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 (sem estudos reais identificados) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 18) |
+| Número de Registros | 18 (ativos: 18) |
 | Decisão Recomendada | **Hold** |
 
 ---

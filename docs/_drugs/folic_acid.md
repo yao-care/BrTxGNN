@@ -49,9 +49,9 @@ O modelo TxGNN prevê que ele pode ser eficaz para a **doença metabólica da bi
 |------|------|
 | Indicação Original | Antianêmicos |
 | Nova Indicação Prevista | Doença metabólica da biotina (biotin metabolic disease) |
-| Pontuação de Previsão TxGNN | 99,49% |
+| Pontuação de Previsão TxGNN | 0,9949 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -63,7 +63,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 A ligação com a doença metabólica da biotina é frágil. Ácido fólico e biotina são vitaminas hidrossolúveis, e a literatura descreve sobreposição entre os distúrbios responsivos a vitaminas (cobalamina, folato, biotina). Porém, o ácido fólico não substitui a biotina nas carboxilases dependentes de biotina. Por isso, não há mecanismo direto para tratar doenças como a deficiência de biotinidase ou de holocarboxilase sintetase.
 
-A pontuação alta (99,49%) provavelmente reflete a proximidade entre as duas vitaminas na rede de conhecimento do modelo, e não um efeito terapêutico específico. Um eventual benefício seria indireto, como corrigir uma deficiência de folato coexistente ou apoiar o estado nutricional geral.
+A pontuação alta (0,9949) provavelmente reflete a proximidade entre as duas vitaminas na rede de conhecimento do modelo, e não um efeito terapêutico específico. Um eventual benefício seria indireto, como corrigir uma deficiência de folato coexistente ou apoiar o estado nutricional geral.
 
 ---
 
@@ -94,7 +94,7 @@ Foram compiladas 19 publicações, quase todas revisões narrativas ou estudos i
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados. Principais exemplos:
+Há 20 registros válidos no Brasil. Principais exemplos:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -120,7 +120,7 @@ Consulte a bula para advertências e contraindicações oficiais, pois esses dad
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se apoia apenas no modelo e em literatura indireta (nível L4), sem ensaios clínicos. Não há mecanismo plausível de benefício direto, já que o ácido fólico não substitui a biotina. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão se apoia apenas no modelo e em literatura indireta (nível L4), sem ensaios clínicos. Não há mecanismo plausível de benefício direto, já que o ácido fólico não substitui a biotina. O medicamento é comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

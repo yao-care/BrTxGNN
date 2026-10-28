@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clioquinol
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 229
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Clioquinol: nova indicação prevista, Candidíase cutânea (Cutaneous Candidiasis) (nível de evidência L4). Indicação original: Tinha dos pés (tinea pedis), tinha do corpo (tinea corporis)…"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "Clioquinol"
-predicted_indications: ["ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease", "pityriasis versicolor", "granuloma annulare"]
+predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
+last_modified_at: 2026-10-27
+description: "Clioquinol: nova indicação prevista, Doença infecciosa ectotrix (ectothrix infectious disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Clioquinol
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,78 +33,51 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Clioquinol: De tinha dos pés a candidíase cutânea
+## Clioquinol: antifúngico/antimicrobiano tópico → Doença infecciosa ectotrix (ectothrix infectious disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Clioquinol é uma hidroxiquinolina halogenada, originalmente usada em infecções fúngicas da pele, como tinha dos pés (tinea pedis), tinha do corpo (tinea corporis) e dermatofitose da região inguinal e perianal.
-O modelo TxGNN prevê que pode ser eficaz para **Candidíase Cutânea (Cutaneous Candidiasis)**,
-atualmente com **0 ensaios clínicos** e **1 publicação** de relevância indireta apoiando esta direção.
+Clioquinol é um fármaco antimicrobiano de uso dermatológico. O modelo TxGNN prevê que pode ser eficaz para **Doença infecciosa ectotrix (ectothrix infectious disease)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Tinha dos pés (tinea pedis), tinha do corpo (tinea corporis), infecções por tinha e dermatofitose da região inguinal e perianal (segundo o grafo de conhecimento do TxGNN; não há texto de indicação de registro no Brasil) |
-| Nova Indicação Prevista | Candidíase cutânea (Cutaneous Candidiasis) |
-| Pontuação de Previsão TxGNN | 99,84% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Doença infecciosa ectotrix (ectothrix infectious disease) |
+| Pontuação de Previsão TxGNN | 0,9926 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o clioquinol é uma hidroxiquinolina halogenada com atividade antifúngica e antibacteriana associada à quelação de metais (cobre, zinco e ferro). Sua eficácia contra dermatófitos sustenta uma ação antifúngica tópica, e mecanisticamente ela pode se estender a leveduras do gênero *Candida*.
+Atualmente, não há dados detalhados sobre o mecanismo de ação de clioquinol nos dados compilados para este relatório. Por isso, não é possível descrever com segurança como o fármaco atua sobre o agente infeccioso.
 
-A tinha (dermatofitose) e a candidíase cutânea são infecções fúngicas superficiais da pele, frequentemente tratadas com antifúngicos tópicos. Essa proximidade clínica e biológica explica por que o modelo associou o fármaco à candidíase cutânea.
+A infecção ectotrix é uma infecção de pelos e cabelos por dermatófitos (por exemplo, *Microsporum* e *Trichophyton*), em que o fungo se desenvolve na superfície externa da haste do pelo. Trata-se de um grupo de micoses superficiais próximo das infecções cutâneas por dermatófitos para as quais clioquinol já é conhecido, o que torna a previsão do modelo plausível do ponto de vista biológico.
 
-Ressalva importante: a única publicação encontrada é um estudo de 1988 sobre prevenção de infecção ocupacional por *Candida albicans* com aditivos de sabonetes, e seu conteúdo não pôde ser confirmado como evidência direta do clioquinol. A previsão, portanto, continua sendo principalmente computacional.
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
-## Evidências da Literatura
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [2978600](https://pubmed.ncbi.nlm.nih.gov/2978600/) | 1988 | Outro (relato de prevenção ocupacional) | Przeglad Dermatologiczny | Estudo *in vitro* de cerca de vinte aditivos de sabonetes sobre cepas de *C. albicans* isoladas de pacientes; o efeito fungicida mais forte ocorreu em soluções de sabonete fortemente alcalinas. Relevância direta para o clioquinol não confirmada. |
-
-## Outras Indicações Previstas
-
-| Indicação prevista | Pontuação TxGNN | Nível | Observação |
-|------|------|------|------|
-| Doença infecciosa ectotrix | 99,26% | L5 | Infecção dermatofítica do pelo; sem estudos |
-| Granuloma de Majocchi | 99,26% | L5 | Infecção folicular profunda; a penetração tópica é limitada |
-| Doença infecciosa endotrix | 99,19% | L5 | Infecção intra-haste; geralmente requer terapia sistêmica |
-| Micose superficial | 99,18% | L4 | Estudo de 2021 ([PMID 33772895](https://pubmed.ncbi.nlm.nih.gov/33772895/), *Mycoses*) avaliou clioquinol combinado com ciclopirox e terbinafina em modelos alternativos de dermatofitose; trabalho aparentemente pré-clínico, sem evidência em pacientes. Classificada como questão de pesquisa |
-| Dermatofitose do couro cabeludo ou da barba | 99,17% | L5 | Geralmente requer terapia sistêmica |
-| Tinea profunda | 99,13% | L5 | Infecção profunda; a penetração tópica é uma preocupação |
-| Pitiríase versicolor | 98,97% | L5 | Causada por *Malassezia*; existem alternativas eficazes (azóis, sulfeto de selênio) |
-| Granuloma anular | 95,27% | L5 | Dermatose inflamatória não infecciosa; sem justificativa antifúngica clara |
-| Tinea manuum | 94,12% | L5 | Extensão natural das indicações originais, mas sem evidência específica |
+Ainda assim, essa plausibilidade é apenas indireta: não foram encontrados ensaios clínicos nem literatura que estudem diretamente esta doença com clioquinol. A semelhança com a indicação original ainda não foi analisada, e a compatibilidade de via de administração está pendente. Infecções do pelo costumam exigir tratamento sistêmico, o que pode limitar um fármaco de uso tópico.
 
 ## Considerações de Segurança
 
-- **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: insuficiência adrenocortical, doença de Addison, atrofia da pele, telangiectasia, doença capilar, telangiectasia hemorrágica hereditária, doença vascular periférica, claudicação vascular intermitente e doença arterial periférica.
-
-Para demais informações de segurança, consulte a bula.
+Os dados compilados não trazem advertências ou contraindicações extraídas da bula, nem interações medicamentosas registradas. Consulte a bula para informações de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para candidíase cutânea tem pontuação alta no modelo, mas não há ensaios clínicos e a única publicação é de 1988, de relevância indireta. O fármaco não é comercializado no Brasil e a triagem de segurança está bloqueada pela falta de dados da bula.
+- A previsão tem pontuação TxGNN alta (0,9926), mas não há nenhum ensaio clínico ou publicação sobre esta doença; o nível de evidência é L5 (apenas previsão do modelo).
+- Faltam dados de segurança da bula, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula (advertências e contraindicações) no site da ANVISA
-- Obter dados do mecanismo de ação (MOA) no DrugBank
-- Realizar revisão da literatura e estudos *in vitro* de atividade do clioquinol contra *Candida* spp.
-- Avaliar a compatibilidade de via de administração e formulação tópica, bem como a situação regulatória do fármaco no Brasil
-- Considerar priorizar a micose superficial (estudo de 2021) como questão de pesquisa, e a tinea manuum como extensão natural das indicações já conhecidas
+- Obter e analisar a bula na ANVISA (advertências e contraindicações).
+- Obter dados de mecanismo de ação (por exemplo, via DrugBank).
+- Realizar busca de literatura e estudos pré-clínicos (atividade *in vitro* contra dermatófitos ectotrix).
+- Avaliar a compatibilidade da via de administração, considerando que infecções de haste pilosa geralmente requerem terapia sistêmica.
+- Confirmar a lista completa de registros no Brasil, pois os dados atuais podem estar parciais.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

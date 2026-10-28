@@ -47,17 +47,17 @@ O modelo TxGNN prevê, como principal candidata, a **metemoglobinemia (methemogl
 |------|------|
 | Indicação Original | Anestésicos locais |
 | Nova Indicação Prevista | Metemoglobinemia (methemoglobinemia) |
-| Pontuação de Previsão TxGNN | 99,50% |
+| Pontuação de Previsão TxGNN | 0,9950 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 4 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação da procaína nos dados compilados para este relatório. Segundo informações conhecidas, ela é um anestésico local que bloqueia canais de sódio. Os dados farmacológicos associam o composto aos receptores de rianodina RyR1 e RyR2, mas sem dados de bioatividade que confirmem um alvo principal.
 
-**A previsão não parece ser razoável do ponto de vista terapêutico.** A literatura indica que a procaína e outros anestésicos locais (como a lidocaína) podem provocar metemoglobinemia, provavelmente porque metabólitos de aminas aromáticas oxidam a hemoglobina. A pontuação alta do TxGNN provavelmente reflete uma associação fármaco-doença no grafo de conhecimento, e não benefício terapêutico. Trata-se de um **sinal de segurança (evento adverso)**, não de uma oportunidade de reposicionamento.
+**A previsão não parece ser razoável do ponto de vista terapêutico.** A literatura indica que a procaína e outros anestésicos locais (como a lidocaína) podem provocar metemoglobinemia, provavelmente porque metabólitos de aminas aromáticas oxidam a hemoglobina. A pontuação alta do TxGNN (modelo de deep learning) provavelmente reflete semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica nem benefício terapêutico. Trata-se de um **sinal de segurança (evento adverso)**, não de uma oportunidade de reposicionamento.
 
 Entre as demais previsões do modelo, a **fibromialgia** (99,23%) e a **tendinite** (99,20%) têm plausibilidade mecanística melhor, pelo uso de infiltração de anestésico local para alívio sintomático de dor. Mesmo assim, as evidências são frágeis (ver abaixo).
 
@@ -81,19 +81,19 @@ Nenhum desses trabalhos demonstra benefício da procaína no tratamento da metem
 
 | Doença prevista | Pontuação | Nível | Observação |
 |------|------|------|------|
-| Metemoglobinemia, tipo alfa | 99,43% | L5 | Sem evidências; associação provavelmente adversa |
-| Síndrome de Tourette | 99,34% | L5 | Sem evidências; ligação meramente especulativa |
-| Anafilaxia | 99,29% | L4 | Literatura descreve reações causadas por procaína/penicilina procaína (síndrome de Hoigné), não tratamento |
-| Deficiência de metemoglobina redutase | 99,27% | L5 | Sem evidências; preocupação de segurança |
-| Hipertireoidismo | 99,25% | L4 | Relatos históricos (1940–1960), de baixa qualidade |
-| Fibromialgia | 99,23% | L4 | Séries de casos antigas (1951–1963) com infiltração de procaína; melhor plausibilidade, exige ECRs modernos |
-| Tendinite | 99,20% | L3 | Estudo de 2022 sobre terapia neural com procaína 1% em tendinopatia do supraespinhal e ensaio de 2013 sobre anestésico local vs. corticoide; aplicabilidade a verificar |
-| Miosite fibrosa | 99,18% | L5 | Sem evidências |
-| Miosite granulomatosa idiopática | 99,18% | L5 | Sem evidências; sem papel plausível |
+| Metemoglobinemia, tipo alfa | 0,9943 | L5 | Sem evidências; associação provavelmente adversa |
+| Síndrome de Tourette | 0,9934 | L5 | Sem evidências; ligação meramente especulativa |
+| Anafilaxia | 0,9929 | L4 | Literatura descreve reações causadas por procaína/penicilina procaína (síndrome de Hoigné), não tratamento |
+| Deficiência de metemoglobina redutase | 0,9927 | L5 | Sem evidências; preocupação de segurança |
+| Hipertireoidismo | 0,9925 | L4 | Relatos históricos (1940–1960), de baixa qualidade |
+| Fibromialgia | 0,9923 | L4 | Séries de casos antigas (1951–1963) com infiltração de procaína; melhor plausibilidade, exige ECRs modernos |
+| Tendinite | 0,9920 | L3 | Estudo de 2022 sobre terapia neural com procaína 1% em tendinopatia do supraespinhal e ensaio de 2013 sobre anestésico local vs. corticoide; aplicabilidade a verificar |
+| Miosite fibrosa | 0,9918 | L5 | Sem evidências |
+| Miosite granulomatosa idiopática | 0,9918 | L5 | Sem evidências; sem papel plausível |
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontrados estão cancelados.
+O medicamento é comercializado: dos 4 registros encontrados, 4 têm licença válida.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|

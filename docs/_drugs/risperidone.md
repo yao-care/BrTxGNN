@@ -4,17 +4,17 @@ title: Risperidone
 parent: Apenas Predição do Modelo (L5)
 nav_order: 569
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Risperidone: nova indicação prevista, Paralisia do olhar horizontal familiar com escoliose progressiva (gaz… (nível de evidência L5). Indicação original: Neurolépticos (antipsicótico)"
 monitor_inn: "RISPERIDONE"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **6** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-## Risperidona: De neurolépticos à paralisia familiar do olhar horizontal com escoliose progressiva
+## Risperidona: De neurolépticos à Paralisia do olhar horizontal familiar com escoliose progressiva
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,9 +48,9 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta dire�
 |------|------|
 | Indicação Original | Neurolépticos (antipsicótico) |
 | Nova Indicação Prevista | Paralisia do olhar horizontal familiar com escoliose progressiva (gaze palsy, familial horizontal, with progressive scoliosis) |
-| Pontuação de Previsão TxGNN | 99,76% |
+| Pontuação de Previsão TxGNN | 0,9976 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nas fontes com
 
 A nova indicação prevista é uma doença genética rara, relacionada ao gene ROBO3, que afeta a orientação dos axônios no tronco encefálico. Ela causa limitação dos movimentos oculares horizontais e escoliose progressiva. Não há vínculo mecanístico plausível entre o bloqueio D2/5-HT2A e essa patologia.
 
-A pontuação alta do TxGNN (99,76%) é uma associação calculada pelo grafo de conhecimento. Ela não é respaldada por nenhum ensaio clínico ou publicação. Portanto, deve ser tratada como um sinal computacional, não como uma hipótese terapêutica sustentada.
+A pontuação alta do TxGNN (0,9976) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Ela não é respaldada por nenhum ensaio clínico ou publicação. Portanto, deve ser tratada como um sinal computacional, não como uma hipótese terapêutica sustentada.
 
 ## Evidências de Ensaios Clínicos
 
@@ -99,7 +99,7 @@ Não há advertências nem contraindicações de bula nas fontes compiladas. Con
 **Justificativa:**
 - Não há ensaios clínicos nem publicações, e o nível de evidência é L5.
 - Não existe vínculo mecanístico plausível entre a ação da risperidona e a fisiopatologia da doença.
-- Todos os registros brasileiros estão cancelados.
+- O medicamento é comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação documentados e uma justificativa biológica para a doença ligada ao ROBO3.

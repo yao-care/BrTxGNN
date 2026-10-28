@@ -8,6 +8,7 @@ nav_order: 148
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bosutinibe Monohydrate
@@ -49,8 +50,8 @@ Bosutinibe (monoidrato) é um inibidor de tirosina quinase BCR-ABL, utilizado in
 | Nova Indicação Prevista | **Nenhuma previsão gerada neste ciclo** |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | **L5** (sem previsão nem estudos vinculados) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

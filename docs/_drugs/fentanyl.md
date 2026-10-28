@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Analgésicos narcóticos |
 | Nova Indicação Prevista | Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
-| Pontuação de Previsão TxGNN | 99,46% |
+| Pontuação de Previsão TxGNN | 0,9946 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 11 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 11) |
+| Número de Registros | 11 (ativos: 11) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,9 +60,9 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 Do ponto de vista mecanístico, **não há um elo crível** que sustente esta previsão. A síndrome nefrogênica de antidiurese inapropriada é causada por mutações de ganho de função no receptor V2 da vasopressina (AVPR2), que atuam no rim independentemente da vasopressina circulante. Os opioides podem influenciar a liberação de vasopressina e o manejo de água pelo organismo, mas isso tenderia a **provocar** antidiurese, e não a tratá-la. Não se espera que a fentanila corrija o defeito do receptor.
 
-A pontuação alta do TxGNN (0,995) é apenas uma previsão computacional, sem respaldo em evidências clínicas ou da literatura, e pode refletir artefatos da rede de conhecimento, e não biologia real.
+A pontuação alta do TxGNN (0,9946) é apenas uma previsão computacional, sem respaldo em evidências clínicas ou da literatura, e pode refletir artefatos da rede de conhecimento, e não biologia real.
 
-*Previsão secundária:* o modelo também previu a **síndrome de Tourette** (pontuação 99,05%), igualmente sem ensaios ou publicações. Embora se especule sobre a ligação entre o sistema opioide endógeno e a modulação de tiques via circuitos dopaminérgicos dos núcleos da base, isso é hipotético para a fentanila. O risco de abuso e dependência, a depressão respiratória e uma população crônica, frequentemente pediátrica, tornam o fármaco um candidato inadequado. Esta previsão também foi classificada como L5 e **Hold**.
+*Previsão secundária:* o modelo também previu a **síndrome de Tourette** (pontuação 0,9905), igualmente sem ensaios ou publicações. Embora se especule sobre a ligação entre o sistema opioide endógeno e a modulação de tiques via circuitos dopaminérgicos dos núcleos da base, isso é hipotético para a fentanila. O risco de abuso e dependência, a depressão respiratória e uma população crônica, frequentemente pediátrica, tornam o fármaco um candidato inadequado. Esta previsão também foi classificada como L5 e **Hold**.
 
 ## Evidências de Ensaios Clínicos
 
@@ -74,7 +74,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 11 registros encontram-se **cancelados**; não há registro vigente. Os cinco principais:
+Todos os 11 registros encontram-se **válidos**. Os cinco principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|

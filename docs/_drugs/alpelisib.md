@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertensão Pulmonar (Pulmonar
 |------|------|
 | Indicação Original | Agentes antineoplásicos |
 | Nova Indicação Prevista | Hipertensão Pulmonar (Pulmonary Hypertension) |
-| Pontuação de Previsão TxGNN | 99,03% |
+| Pontuação de Previsão TxGNN | 0,9903 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 Em teoria, a via PI3K/Akt/mTOR está implicada no remodelamento vascular pulmonar, em particular na proliferação das células musculares lisas das artérias pulmonares. Por isso, inibir a PI3K alfa poderia, em princípio, ser relevante para a doença. Trata-se, porém, de uma hipótese biológica, não de um mecanismo estabelecido pelos dados disponíveis.
 
-É importante ter cautela: a única publicação encontrada descreve **doença pulmonar intersticial induzida por alpelisibe** em uma paciente com câncer de mama avançado. Isso é um sinal de dano pulmonar, não de eficácia em hipertensão pulmonar. A pontuação alta do TxGNN (0,990) não deve ser interpretada como suporte ao reposicionamento sem validação pré-clínica e clínica independente.
+É importante ter cautela: a única publicação encontrada descreve **doença pulmonar intersticial induzida por alpelisibe** em uma paciente com câncer de mama avançado. Isso é um sinal de dano pulmonar, não de eficácia em hipertensão pulmonar. A pontuação alta do TxGNN (0,9903) não deve ser interpretada como suporte ao reposicionamento sem validação pré-clínica e clínica independente.
 
 ## Evidências da Literatura
 

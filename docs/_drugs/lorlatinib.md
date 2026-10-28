@@ -4,7 +4,7 @@ title: Lorlatinib
 parent: Apenas Predição do Modelo (L5)
 nav_order: 426
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Lorlatinib: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). Indicação original: Agentes antineoplásicos"
 monitor_inn: "lorlatinib"
@@ -14,7 +14,7 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 # Lorlatinib
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **fibromatose gengival (fibromato
 |------|------|
 | Indicação Original | Agentes antineoplásicos |
 | Nova Indicação Prevista | Fibromatose gengival (fibromatosis, gingival) |
-| Pontuação de Previsão TxGNN | 99,81% |
+| Pontuação de Previsão TxGNN | 0,9981 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas da literatura, o lorlatinibe é um inibidor de tirosina quinase de terceira geração, com penetração no sistema nervoso central, que atua sobre ALK e ROS1. Sua eficácia está bem estabelecida no câncer de pulmão de células não pequenas (CPNPC) ALK-positivo.
 
-Não há ligação identificável entre a sinalização de ALK e a fibromatose gengival. A pontuação alta do TxGNN (99,81%) é uma previsão computacional, sem estudos que a sustentem. Portanto, **a plausibilidade mecanística desta previsão não pôde ser confirmada**.
+Não há ligação identificável entre a sinalização de ALK e a fibromatose gengival. A pontuação alta do TxGNN (0,9981) é uma previsão computacional, sem estudos que a sustentem. Portanto, **a plausibilidade mecanística desta previsão não pôde ser confirmada**.
 
 As demais previsões de maior pontuação (fibroma de pulmão, hamartoma de pulmão, carcinoma do hilo pulmonar, entre outras) também carecem de apoio mecanístico, exceto onde há alteração de ALK. Isso exige cautela na interpretação do modelo. Algumas dessas previsões parecem refletir, na verdade, a indicação já estabelecida (CPNPC ALK-positivo) ou outro tumor com alteração de ALK (neuroblastoma), e não um reposicionamento genuíno.
 

@@ -8,6 +8,7 @@ nav_order: 21
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetonida De Triamcinolone
@@ -51,7 +52,7 @@ Acetonida de Triamcinolona (Triamcinolone Acetonide) é um corticosteroide sint�
 | Nova Indicação Prevista | Nenhuma previsão gerada |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão disponível) |
-| Situação no Mercado Brasileiro | Não registrado (0 registros na ANVISA) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

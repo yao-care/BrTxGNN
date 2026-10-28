@@ -47,10 +47,10 @@ O modelo TxGNN prevê que ela possa ser eficaz para **doença fibrocística da m
 |------|------|
 | Indicação Original | Antivaricosos de ação sistêmica |
 | Nova Indicação Prevista | Doença fibrocística da mama (breast fibrocystic disease) |
-| Pontuação de Previsão TxGNN | 99,74% |
+| Pontuação de Previsão TxGNN | 0,9974 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 2 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,19 +59,19 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 A relação entre a indicação original (insuficiência venosa) e a nova (alteração benigna do tecido mamário) é distante. Não há similaridade formal verificada entre as duas, e nenhuma ponte mecanística pôde ser confirmada.
 
-Vale notar que as quatro primeiras previsões (doença fibrocística, adenose apócrina, adenose de ductos obtusos e displasia mamária benigna) pertencem à mesma família de condições mamárias benignas. Pontuações idênticas ou sinônimas indicam um sinal derivado do mesmo grafo de conhecimento, e não evidências independentes.
+Vale notar que as quatro primeiras previsões (doença fibrocística, adenose apócrina, adenose de ductos obtusos e displasia mamária benigna) pertencem à mesma família de condições mamárias benignas. As pontuações vêm do modelo TxGNN (deep learning) e podem refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidências biológicas independentes.
 
 ## Outras Previsões do Modelo
 
 | Posição | Doença prevista | Pontuação TxGNN | Observação |
 |------|------|------|------|
-| 2 | Adenose apócrina da mama | 99,64% | Sem evidências; sinal compartilhado com outras condições mamárias benignas |
-| 3 | Adenose de ductos obtusos da mama | 99,64% | Pontuação idêntica à anterior |
-| 4 | Displasia mamária benigna | 99,42% | Sinônimo da doença fibrocística; não independente |
-| 5 | Candidíase vulvovaginal | 99,22% | Atividade antifúngica de flavonoides in vitro; vínculo especulativo |
-| 6 | Abscesso mamário | 99,11% | Condição infecciosa tratada com antibióticos e drenagem; justificativa fraca |
-| 7 | Necrose gordurosa da mama | 99,11% | Racional anti-inflamatório hipotético |
-| 8 | Vaginite | 99,09% | Duas publicações recuperadas, mas fora do tema (ver abaixo) |
+| 2 | Adenose apócrina da mama | 0,9964 | Sem evidências; sinal compartilhado com outras condições mamárias benignas |
+| 3 | Adenose de ductos obtusos da mama | 0,9964 | Pontuação idêntica à anterior |
+| 4 | Displasia mamária benigna | 0,9942 | Sinônimo da doença fibrocística; não independente |
+| 5 | Candidíase vulvovaginal | 0,9922 | Atividade antifúngica de flavonoides in vitro; vínculo especulativo |
+| 6 | Abscesso mamário | 0,9911 | Condição infecciosa tratada com antibióticos e drenagem; justificativa fraca |
+| 7 | Necrose gordurosa da mama | 0,9911 | Racional anti-inflamatório hipotético |
+| 8 | Vaginite | 0,9909 | Duas publicações recuperadas, mas fora do tema (ver abaixo) |
 
 ## Evidências de Ensaios Clínicos
 

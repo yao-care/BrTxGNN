@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Prilocaína: De anestésico local para papilar conjuntivite (predição principal do modelo)
+## Prilocaína: De anestésico local para Conjuntivite Papilar (predição principal do modelo)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,10 +48,10 @@ Entre as 10 indicações previstas, a única com sinal minimamente plausível é
 |------|------|
 | Indicação Original | Anestésicos locais |
 | Nova Indicação Prevista (1ª colocada) | Conjuntivite papilar (papillary conjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,78% |
+| Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 5 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 > Observação: a indicação em primeiro lugar no ranking do modelo não tem nenhuma evidência. A indicação com mais evidência é a neuralgia (nível L2 segundo a pontuação compilada, com ressalvas importantes; ver abaixo).
@@ -94,7 +94,7 @@ Alertas de segurança vindos da literatura de outras indicações: em dermatite 
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros estão cancelados; atualmente não há produto de prilocaína isolada com registro válido.
+O medicamento é comercializado no Brasil: os 5 registros existentes (5 de 5) estão válidos.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -120,7 +120,7 @@ Os dados de advertências e contraindicações da bula da ANVISA não estavam di
 **Decisão: Hold**
 
 **Justificativa:**
-- A indicação com maior pontuação (conjuntivite papilar) tem apenas previsão computacional, sem estudos, e com baixa plausibilidade biológica. Para neuralgia, a evidência é limitada a estudos pequenos e antigos com a combinação lidocaína/prilocaína, que não permitem atribuir o efeito à prilocaína e representam uma extensão da indicação anestésica, não um reposicionamento verdadeiro. Todos os registros brasileiros estão cancelados.
+- A indicação com maior pontuação (conjuntivite papilar) tem apenas previsão computacional, sem estudos, e com baixa plausibilidade biológica. Para neuralgia, a evidência é limitada a estudos pequenos e antigos com a combinação lidocaína/prilocaína, que não permitem atribuir o efeito à prilocaína e representam uma extensão da indicação anestésica, não um reposicionamento verdadeiro. Os 5 registros brasileiros (5 de 5) estão válidos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.

@@ -48,10 +48,10 @@ atualmente com **39 ensaios clínicos** e **20 publicações** compilados para e
 |------|------|
 | Indicação Original | Antineoplásicos citotóxicos |
 | Nova Indicação Prevista | Síndrome Mielodisplásica (Myelodysplastic Syndrome) |
-| Pontuação de Previsão TxGNN | 99,62% |
+| Pontuação de Previsão TxGNN | 0,9962 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?

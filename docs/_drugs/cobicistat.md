@@ -50,10 +50,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Associações de antivirais para o tratamento de infecções por HIV |
 | Nova Indicação Prevista | Síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome) |
-| Pontuação de Previsão TxGNN | 99,92% |
+| Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -62,13 +62,13 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o cobicistat é um inibidor de CYP3A que atua como potencializador farmacocinético, sem atividade antiviral própria. Ele é usado para aumentar a exposição a inibidores de protease do HIV-1 (como darunavir e atazanavir) e ao inibidor de integrase elvitegravir.
 
-O vírus da imunodeficiência felina (FIV) é um lentivírus relacionado ao HIV, e sua protease tem estrutura semelhante. Por isso, é concebível um raciocínio de regime potencializado. Contudo, a pontuação elevada do TxGNN provavelmente reflete a proximidade no grafo com nós relacionados ao HIV, e não evidência independente.
+O vírus da imunodeficiência felina (FIV) é um lentivírus relacionado ao HIV, e sua protease tem estrutura semelhante. Por isso, é concebível um raciocínio de regime potencializado. Contudo, a pontuação elevada do modelo TxGNN (deep learning) pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica.
 
 Não foram fornecidos dados veterinários, ensaios clínicos ou literatura. Além disso, o efeito de potencialização dependeria de um antiviral parceiro ativo contra o FIV; isoladamente, o cobicistat não tem efeito antiviral.
 
 **Outras previsões do modelo (todas com nível L5 e recomendação Hold):**
-- **Infecção pelo vírus da imunodeficiência símia (SIV)** (pontuação 99,92%): o SIV é o equivalente em primatas não humanos do HIV e é amplamente usado como modelo. A aplicação do cobicistat seria, em princípio, um uso de pesquisa pré-clínica, e não uma indicação terapêutica humana.
-- **Transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical** (pontuação 99,91%): não foi possível estabelecer vínculo mecanístico plausível. A pontuação parece ser uma previsão sem respaldo biológico.
+- **Infecção pelo vírus da imunodeficiência símia (SIV)** (pontuação 0,9992): o SIV é o equivalente em primatas não humanos do HIV e é amplamente usado como modelo. A aplicação do cobicistat seria, em princípio, um uso de pesquisa pré-clínica, e não uma indicação terapêutica humana.
+- **Transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical** (pontuação 0,9991): não foi possível estabelecer vínculo mecanístico plausível. A pontuação parece ser uma previsão sem respaldo biológico.
 
 ---
 

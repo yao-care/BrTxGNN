@@ -4,17 +4,17 @@ title: Lumacaftor
 parent: Apenas Predição do Modelo (L5)
 nav_order: 429
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Lumacaftor: nova indicação prevista, Hanseníase (leprosy) (nível de evidência L5). Indicação original: Fibrose cística"
+indication_count: 1
 monitor_inn: "Lumacaftor"
-predicted_indications: ["leprosy", "migraine with or without aura, susceptibility to", "migraine disorder", "rheumatoid arthritis", "pulmonary hypertension", "kyphoscoliotic heart disease", "migraine with brainstem aura", "multiple endocrine neoplasia", "brachydactyly-syndactyly syndrome", "nephrogenic syndrome of inappropriate antidiuresis"]
+predicted_indications: ["leprosy"]
+last_modified_at: 2026-10-27
+description: "Lumacaftor: nova indicação prevista, Hanseníase (leprosy) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Lumacaftor
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,69 +33,62 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Lumacaftor: Da fibrose cística à hanseníase
+## Lumacaftor: modulador/corretor da proteína CFTR → Hanseníase (leprosy)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Lumacaftor é um corretor da proteína CFTR, originalmente usado no tratamento da fibrose cística.
-O modelo TxGNN prevê que pode ser eficaz para **hanseníase (leprosy)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se apenas de uma previsão computacional.
+Lumacaftor é um corretor da proteína CFTR (regulador da condutância transmembrana da fibrose cística).
+O modelo TxGNN prevê que pode ser eficaz para **Hanseníase (leprosy)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Fibrose cística |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Hanseníase (leprosy) |
-| Pontuação de Previsão TxGNN | 99,44% |
+| Pontuação de Previsão TxGNN | 0,9944 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o lumacaftor é um corretor da CFTR, que auxilia o enovelamento e o transporte da proteína CFTR defeituosa até a membrana celular. Sua eficácia na fibrose cística é a base de seu uso original.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o lumacaftor é classificado como corretor da CFTR, atuando no enovelamento e no tráfego dessa proteína até a membrana celular.
 
-Nos dados compilados para este relatório, não há vínculo mecanístico estabelecido entre a correção da CFTR e a infecção por *Mycobacterium leprae* ou a resposta do hospedeiro a ela. A pontuação alta (0,994) reflete apenas associações no grafo de conhecimento do TxGNN, e não evidência biológica ou clínica.
+Nos dados compilados, não há uma ligação mecanística estabelecida entre a correção da CFTR e a infecção por *Mycobacterium leprae* ou a resposta do hospedeiro a ela. A pontuação elevada (0,9944) é um resultado do modelo computacional e, por si só, não constitui evidência biológica ou clínica.
 
-Portanto, a previsão deve ser tratada como uma hipótese a ser investigada, não como indício de eficácia. Outras indicações previstas (por exemplo, enxaqueca em suas várias formas, artrite reumatoide, hipertensão pulmonar) também não têm ensaios ou publicações de apoio. As diversas entradas de enxaqueca provavelmente representam o mesmo sinal do grafo, e não evidências independentes.
+Qualquer plausibilidade permanece, portanto, hipotética: seria necessário demonstrar, em estudos de mecanismo, que a via da CFTR é relevante para a hanseníase. Também não há análise de similaridade com a indicação original nem de compatibilidade de vias de administração.
 
-## Informações de Comercialização no Brasil
+## Evidências de Ensaios Clínicos
 
-O lumacaftor não possui registro ativo no Brasil nos dados compilados (0 registros).
+Atualmente não há ensaios clínicos relacionados registrados.
+
+## Evidências da Literatura
+
+Atualmente não há literatura relacionada.
 
 ## Considerações de Segurança
 
-- **Interações Medicamentosas**: foram identificadas 100 interações no total. Entre as 20 listadas nos dados compilados, as de gravidade **maior (Major)** são:
-  - Eliglustate
-  - Naldemedina
-  - Naloxegol
-  - Rolapitanto
+- **Interações Medicamentosas**: foram identificadas 100 interações nos dados compilados; as primeiras 20 listadas incluem:
+  - **Maior gravidade**: eliglustate, naldemedina, naloxegol e rolapitanto.
+  - **Gravidade moderada**: acetoexamida, betametasona, bupropiona, dexlansoprazol, esomeprazol, glimepirida, lansoprazol, linagliptina, nitisinona, omeprazol, pantoprazol, pioglitazona, prednisona, rabeprazol, ranitidina e repaglinida.
 
-  As demais listadas são de gravidade moderada, entre elas:
-  - Inibidores da bomba de prótons (omeprazol, esomeprazol, lansoprazol, dexlansoprazol, pantoprazol, rabeprazol)
-  - Ranitidina
-  - Antidiabéticos (acetohexamida, glimepirida, linagliptina, pioglitazona, repaglinida)
-  - Corticosteroides (betametasona, prednisona)
-  - Bupropiona
-  - Nitisinona
-
-Para advertências e contraindicações, consulte a bula.
+Consulte a bula para advertências e contraindicações, que não estavam disponíveis nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para hanseníase baseia-se exclusivamente no modelo TxGNN, sem ensaios clínicos, sem literatura e sem mecanismo plausível descrito (nível L5). Além disso, o fármaco não é comercializado no Brasil e não há dados de bula para triagem de segurança.
+- Não há ensaios clínicos nem publicações sobre lumacaftor em hanseníase; a previsão tem apenas respaldo do modelo (nível L5), sem ligação mecanística demonstrada.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula (advertências e contraindicações) no site da ANVISA
-- Obter os dados de mecanismo de ação (MOA) no DrugBank
-- Realizar revisão sistemática da literatura e de ensaios pré-clínicos sobre CFTR/lumacaftor e infecção por *M. leprae*
-- Avaliar a compatibilidade de vias de administração e a viabilidade regulatória, dado que não há registro no Brasil
-- Avaliar o perfil de interações medicamentosas (incluindo as de gravidade maior) para a população-alvo
+- Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
+- Obter dados do mecanismo de ação do lumacaftor.
+- Realizar revisão de literatura e estudos pré-clínicos que avaliem a relevância da CFTR na hanseníase.
+- Avaliar a compatibilidade de vias de administração e a relevância clínica para a população-alvo.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

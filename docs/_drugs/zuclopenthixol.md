@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-## Zuclopentixol: De neuroléptico a distrofia retiniana (previsão computacional)
+## Zuclopentixol: De neuroléptico a distrofia retiniana com ou sem anomalias extraoculares (previsão computacional)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,17 +48,17 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Neurolépticos (antipsicótico) |
 | Nova Indicação Prevista | Distrofia retiniana com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o zuclopentixol é um antipsicótico tioxanteno cuja atividade principal é o antagonismo dos receptores de dopamina D1/D2.
 
-Na prática, **não foi estabelecida uma ligação mecanística plausível**. As distrofias retinianas hereditárias são causadas sobretudo por defeitos genéticos que afetam os fotorreceptores ou o epitélio pigmentar da retina, e não foi identificada nenhuma via que conecte o antagonismo D2 a esse mecanismo. A pontuação elevada do TxGNN (99,99%) é apenas uma previsão do modelo, sem respaldo de ensaios ou publicações.
+Na prática, **não foi estabelecida uma ligação mecanística plausível**. As distrofias retinianas hereditárias são causadas sobretudo por defeitos genéticos que afetam os fotorreceptores ou o epitélio pigmentar da retina, e não foi identificada nenhuma via que conecte o antagonismo D2 a esse mecanismo. A pontuação elevada do TxGNN (0,9999) é apenas uma previsão do modelo, sem respaldo de ensaios ou publicações.
 
 Outras previsões do mesmo modelo para este fármaco (hidranencefalia, defeito congênito de glicosilação com fucosilação deficiente, Charcot-Marie-Tooth tipo 1G, miopias genéticas, polimicrogiria e encefalopatia atípica da glicina) também não têm evidência clínica nem plausibilidade mecanística. No caso das miopias, a dopamina retiniana é estudada para retardar a progressão, mas o zuclopentixol é antagonista e, em teoria, atuaria no sentido oposto.
 

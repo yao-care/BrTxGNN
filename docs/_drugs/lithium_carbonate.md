@@ -50,10 +50,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antidepressivos |
 | Nova Indicação Prevista | Pseudoacondroplasia (pseudoachondroplasia) |
-| Pontuação de Previsão TxGNN | 99,98% |
+| Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 10 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -64,7 +64,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A relação com a indicação original é fraca: o carbonato de lítio é usado em psiquiatria, enquanto a pseudoacondroplasia é uma displasia esquelética rara. A doença é causada por mutações no gene COMP, que levam a estresse do retículo endoplasmático e morte de condrócitos. Um vínculo mecanístico direto com o lítio é especulativo e não é sustentado pelos dados disponíveis.
 
-A pontuação alta do TxGNN (99,98%) reflete inferência baseada em grafo de conhecimento, e não evidência clínica. Outras previsões do mesmo fármaco (por exemplo, displasia acromesomélica tipo Hunter-Thompson, braquiolmia, síndrome WHIM) também se concentram em displasias esqueléticas e imunodeficiências raras, sem suporte clínico fornecido.
+A pontuação alta do TxGNN (0,9998) vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica nem clínica. Outras previsões do mesmo fármaco (por exemplo, displasia acromesomélica tipo Hunter-Thompson, braquiolmia, síndrome WHIM) também se concentram em displasias esqueléticas e imunodeficiências raras, sem suporte clínico fornecido.
 
 ---
 
@@ -82,7 +82,7 @@ Atualmente não há literatura relacionada para a pseudoacondroplasia.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 10 registros encontram-se cancelados. A forma farmacêutica não consta nos dados compilados.
+Os 10 registros encontram-se válidos (10 de 10 licenças válidas). A forma farmacêutica não consta nos dados compilados.
 
 | Número de Registro | Nome Comercial | Indicação Aprovada |
 |---------|------|-----------|
@@ -113,7 +113,7 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura para a pseudoacondroplasia, e o vínculo mecanístico é especulativo. Além disso, todos os registros brasileiros estão cancelados e a triagem de segurança não pôde ser concluída.
+- Não há ensaios clínicos nem literatura para a pseudoacondroplasia, e o vínculo mecanístico é especulativo. Além disso, o medicamento está comercializado no Brasil, com 10 de 10 registros válidos, e a triagem de segurança não pôde ser concluída.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações).

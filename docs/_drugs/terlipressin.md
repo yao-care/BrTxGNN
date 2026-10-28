@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Terlipressin
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 619
-evidence_level: L3
+evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-13
-description: "Terlipressin: nova indicação prevista, Hipertensão pulmonar (Pulmonary Hypertension) (nível de evidência L3). Indicação original: Outros produtos anti-hemorrágicos"
 monitor_inn: "terlipressin"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
+description: "Terlipressin: nova indicação prevista, Open-angle glaucoma (nível de evidência L5). Indicação original: OUTROS PRODUTOS ANTI-HEMORRAGICOS"
 ---
 
 # Terlipressin
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **7** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **7**
 
 </div>
 
-## Terlipressina: De outros produtos anti-hemorrágicos à hipertensão pulmonar
+## Terlipressin: Open-angle glaucoma
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -42,18 +42,18 @@ Terlipressina é um análogo sintético da vasopressina, registrado no Brasil na
 O modelo TxGNN prevê que pode ser eficaz para **hipertensão pulmonar (Pulmonary Hypertension)**, a previsão com algum respaldo na literatura entre as sete geradas.
 Há **0 ensaios clínicos** registrados e **20 publicações** recuperadas, em sua maioria estudos pequenos, fisiológicos e em contexto de cirrose/hipertensão portal.
 
-*Observação:* a previsão de maior pontuação do modelo (glaucoma de ângulo aberto, 99,78%) não tem nenhuma evidência de apoio. Por isso, este relatório avalia a hipertensão pulmonar (3ª colocada), que é a única previsão com literatura relevante.
+*Observação:* a previsão de maior pontuação do modelo (glaucoma de ângulo aberto, 0,9978) não tem nenhuma evidência de apoio. Por isso, este relatório avalia a hipertensão pulmonar (3ª colocada), que é a única previsão com literatura relevante.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Outros produtos anti-hemorrágicos |
-| Nova Indicação Prevista | Hipertensão pulmonar (Pulmonary Hypertension) |
-| Pontuação de Previsão TxGNN | 99,56% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 3 |
+| Indicação Original | OUTROS PRODUTOS ANTI-HEMORRAGICOS |
+| Nova Indicação Prevista | Open-angle glaucoma |
+| Pontuação de Previsão TxGNN | 0.9978 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold (questão de pesquisa; não avançar sem dados de segurança e estudos controlados) |
 
 ## Por que Esta Previsão é Razoável?
@@ -87,7 +87,7 @@ Foram recuperadas 20 publicações; abaixo estão as mais relevantes para hipert
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros estão cancelados; não há produto válido atualmente.
+O medicamento é comercializado no Brasil: os 3 registros existentes estão válidos (3 de 3).
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -106,7 +106,7 @@ Cabe destacar que, entre as previsões do modelo, a vasoconstrição sistêmica 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão de hipertensão pulmonar tem plausibilidade fisiológica e alguns estudos pequenos, mas sem ensaios registrados nem estudos controlados na indicação, e as evidências vêm sobretudo de cirrose. Além disso, todos os registros brasileiros estão cancelados e faltam dados de segurança da bula. As demais previsões (glaucoma, glaucoma hereditário, cardiopatia cifoescoliótica, esotropia, cefaleia) são apenas computacionais, sem evidência (L5).
+A previsão de hipertensão pulmonar tem plausibilidade fisiológica e alguns estudos pequenos, mas sem ensaios registrados nem estudos controlados na indicação, e as evidências vêm sobretudo de cirrose. Além disso, faltam dados de segurança da bula, embora o medicamento seja comercializado, com os 3 registros brasileiros válidos (3 de 3). As demais previsões (glaucoma, glaucoma hereditário, cardiopatia cifoescoliótica, esotropia, cefaleia) são apenas computacionais, sem evidência (L5).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança

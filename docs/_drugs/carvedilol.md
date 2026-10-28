@@ -4,17 +4,17 @@ title: Carvedilol
 parent: Apenas Predição do Modelo (L5)
 nav_order: 199
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-13
-description: "Carvedilol: nova indicação prevista, Hipertensão renovascular maligna (Malignant Renovascular Hypertension) (nível de evidência L5). Indicação original: Hipertensão arterial (transtorno hipertensivo)"
+indication_count: 4
 monitor_inn: "CARVEDILOL"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+last_modified_at: 2026-10-27
+description: "Carvedilol: nova indicação prevista, doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Carvedilol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **5** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,75 +33,72 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-## Carvedilol: Da hipertensão à hipertensão renovascular maligna
+## Carvedilol: betabloqueador não seletivo com ação α1-bloqueadora → doença renal hipertensiva maligna (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Carvedilol é um betabloqueador não seletivo com atividade bloqueadora alfa-1, originalmente usado no tratamento da hipertensão arterial.
-O modelo TxGNN prevê que pode ser eficaz para **hipertensão renovascular maligna (malignant renovascular hypertension)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão se baseia exclusivamente no modelo.
+Carvedilol é um betabloqueador não seletivo com atividade bloqueadora α1-adrenérgica, já usado há anos na prática cardiovascular.
+O modelo TxGNN prevê que pode ser eficaz para **doença renal hipertensiva maligna (malignant hypertensive renal disease)**.
+Até o momento há **0 ensaios clínicos** e **0 publicações** que estudem diretamente esta doença, de modo que a previsão se apoia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial (transtorno hipertensivo) |
-| Nova Indicação Prevista | Hipertensão renovascular maligna (Malignant Renovascular Hypertension) |
-| Pontuação de Previsão TxGNN | 99,55% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | doença renal hipertensiva maligna (malignant hypertensive renal disease) |
+| Pontuação de Previsão TxGNN | 0,9955 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 10) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
-
-> Observação: a indicação original vem das relações de indicação do grafo de conhecimento do TxGNN, pois não há registros brasileiros com texto de indicação aprovada nos dados compilados.
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o carvedilol é um betabloqueador não seletivo com bloqueio alfa-1 adicional, com eficácia comprovada na hipertensão, e mecanisticamente pode ser aplicável a formas graves da doença.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pela literatura disponível, o carvedilol bloqueia receptores beta e alfa-1 adrenérgicos e tem atividade antioxidante. Esse conjunto reduz a pressão arterial e a atividade simpática.
 
-A hipertensão renovascular maligna é conduzida em grande parte pela ativação do sistema renina-angiotensina. O betabloqueio reduz a liberação de renina, e o efeito vasodilatador do bloqueio alfa-1 contribui para a redução da pressão arterial. Por isso, existe plausibilidade teórica.
+Do ponto de vista teórico, reduzir a pressão arterial e atenuar o estímulo simpático e do sistema renina-angiotensina poderia limitar a lesão renal causada pela hipertensão maligna. A previsão tem, portanto, alguma plausibilidade fisiológica, pois a nova doença envolve a mesma via de pressão elevada que o fármaco já modula.
 
-Porém, esta previsão é basicamente uma extensão da indicação original (hipertensão) para um subtipo grave, e não um sinal independente de reposicionamento. Não há ensaios nem literatura que a sustentem. Além disso, crises hipertensivas malignas geralmente exigem tratamento parenteral agudo e titulável, de modo que o carvedilol oral não seria abordagem de primeira linha.
-
-### Outras indicações previstas (todas sem ensaios clínicos)
-
-| Indicação prevista | Pontuação TxGNN | Nível de evidência | Observação |
-|------|------|------|------|
-| Doença renal hipertensiva maligna | 99,55% | L5 | Sem estudos; o tratamento costuma exigir terapia parenteral titulável |
-| Hipertensão pulmonar por doença pulmonar e/ou hipóxia | 99,54% | L4 | Apenas evidência pré-clínica indireta (p. ex., reversão da hipertensão induzida por hipóxia intermitente crônica em ratos, PMID 26291659); estudos em modelos de hipertensão pulmonar e hipóxia com bloqueio adrenérgico; nenhum ensaio clínico |
-| Hipertensão pulmonar de mecanismo multifatorial incerto | 99,54% | L5 | Betabloqueadores exigem cautela pelo risco de redução da função ventricular direita; direção do benefício incerta |
-| Síndrome de Braddock | 99,37% | L5 | Sem justificativa mecanística; provável artefato de propagação do grafo |
+Essa ligação, porém, é hipotética. Não há estudos que avaliem o carvedilol nesta doença, e o escore do modelo é a única base da previsão. A hipertensão maligna costuma exigir tratamento agudo, titulável e por via parenteral, então o carvedilol oral dificilmente seria uma abordagem de primeira linha.
 
 ## Evidências de Ensaios Clínicos
 
-Atualmente não há ensaios clínicos relacionados registrados para a indicação principal prevista.
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Atualmente não há literatura relacionada para a indicação principal prevista.
+Atualmente não há literatura relacionada.
 
 ## Considerações de Segurança
 
-- **Contraindicações (relações do grafo de conhecimento, não texto de bula)**: insuficiência hepática, asma (incluindo intrínseca e alérgica), bronquite, doença brônquica, enfisema pulmonar, diabetes mellitus, cetoacidose diabética, hipotensão, doença vascular periférica (incluindo claudicação intermitente e doença arterial periférica), bloqueio atrioventricular, angina de Prinzmetal, síndrome do nó sinusal (incluindo a forma familiar), anafilaxia e síndrome da íris flácida intraoperatória.
-- **Interações Medicamentosas**: foram identificadas 100 interações; entre as 20 listadas, a de maior gravidade é com **epinefrina (Major)**. A maioria é de gravidade moderada, incluindo corticoides (hidrocortisona, dexametasona, betametasona, budesonida, triamcinolona), anticolinérgicos (atropina, hiosciamina), bupropiona, morfina, lorcaserina, canagliflozina, acetoexamida e sais de cálcio (carbonato, citrato, acetato e fosfato). Interações menores incluem ácido acetilsalicílico, hidróxido de alumínio e atapulgita.
-- **Atenção específica**: em pacientes com doença pulmonar, o betabloqueio não seletivo pode piorar o broncoespasmo; em hipertensão pulmonar, pode reduzir o débito cardíaco e a função do ventrículo direito.
+- **Interações Medicamentosas**: foram identificadas 100 interações nos dados compilados. As principais, entre as 20 listadas, são:
+  - **Gravidade maior**: epinefrina.
+  - **Gravidade moderada**:
+    - corticoides (hidrocortisona, dexametasona, betametasona, budesonida, triamcinolona);
+    - anticolinérgicos (atropina, hiosciamina);
+    - bupropiona;
+    - morfina;
+    - lorcasserina;
+    - antidiabéticos (canagliflozina, acetoexamida);
+    - sais de cálcio (carbonato, citrato, acetato e fosfato).
+  - **Gravidade menor**: ácido acetilsalicílico, hidróxido de alumínio e atapulgita.
 
-Consulte a bula para as demais informações de segurança.
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para hipertensão renovascular maligna (99,55%) é sustentada apenas pelo modelo (nível L5), sem ensaios ou publicações, e representa em grande parte uma extensão da indicação original de hipertensão. Além disso, o fármaco não possui registro comercializado no Brasil, segundo os dados compilados.
+- A previsão tem pontuação alta (0,9955), mas está no nível L5 e não conta com ensaios clínicos nem publicações que estudem esta doença.
+- A hipertensão maligna exige terapia parenteral titulável, o que limita o papel de um betabloqueador oral.
 
 **Para prosseguir, é necessário:**
-- Obter a bula aprovada pela ANVISA (advertências e contraindicações) e verificar a situação regulatória do carvedilol no Brasil, pois os dados compilados indicam ausência de registros
-- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
-- Realizar busca dirigida de literatura e ensaios sobre carvedilol em hipertensão renovascular e emergências hipertensivas
-- Avaliar a viabilidade da via de administração oral frente à necessidade de terapia parenteral titulável em quadros malignos
-- Se houver interesse em hipertensão pulmonar, tratá-la como questão de pesquisa (L4), com avaliação criteriosa de segurança ventricular direita e respiratória
+- Revisão da literatura e de bases de ensaios clínicos específica para o carvedilol em hipertensão maligna e nefropatia hipertensiva.
+- Dados detalhados do mecanismo de ação.
+- Obtenção e análise da bula aprovada no Brasil (advertências e contraindicações) para a avaliação de segurança.
+- Avaliação da compatibilidade da via de administração oral com o cenário clínico agudo.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

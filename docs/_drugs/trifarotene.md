@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-## Trifaroteno: Da acne à elevação de zinco plasmático (previsão do modelo)
+## Trifaroteno: Zinco plasmático elevado (previsão do modelo)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,19 +48,19 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Retinoides para tratamento da acne (uso tópico) |
 | Nova Indicação Prevista | Zinco plasmático elevado (zinc, elevated plasma) |
-| Pontuação de Previsão TxGNN | 99,40% |
+| Pontuação de Previsão TxGNN | 0,9940 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo as informações compiladas, o trifaroteno é um agonista seletivo dos receptores do ácido retinoico, com atividade farmacológica descrita sobre RARα, RARβ e RARγ (com seletividade principal para RARγ). Sua instabilidade metabólica elevada sugere exposição sistêmica limitada quando usado por via tópica.
 
-Não foi estabelecida relação mecanística plausível entre o trifaroteno e a elevação de zinco plasmático. Esta última é um achado laboratorial ou metabólico, e não uma doença conduzida por uma via responsiva a retinoides. A alta pontuação do TxGNN (99,40%) é apenas uma previsão computacional, sem estudos clínicos ou literatura que a sustentem, e não deve ser interpretada como evidência de efeito terapêutico.
+Não foi estabelecida relação mecanística plausível entre o trifaroteno e a elevação de zinco plasmático. Esta última é um achado laboratorial ou metabólico, e não uma doença conduzida por uma via responsiva a retinoides. A alta pontuação do TxGNN (0,9940) é apenas uma previsão computacional, sem estudos clínicos ou literatura que a sustentem, e não deve ser interpretada como evidência de efeito terapêutico.
 
-Como observação complementar, a segunda indicação prevista pelo modelo, a **síndrome de artrite piogênica, pioderma gangrenoso e acne (síndrome PAPA)**, com pontuação de 99,32%, apresenta um vínculo indireto plausível, porém não comprovado. O componente de acne se sobrepõe à indicação original, e um retinoide tópico poderia, em tese, atuar apenas nas lesões cutâneas de acne. Não se espera efeito sobre a artrite ou o pioderma gangrenoso, que são tratados com terapia anti-inflamatória sistêmica (por exemplo, bloqueio de IL-1 ou TNF). Também para esta indicação não há ensaios ou publicações.
+Como observação complementar, a segunda indicação prevista pelo modelo, a **síndrome de artrite piogênica, pioderma gangrenoso e acne (síndrome PAPA)**, com pontuação de 0,9932, apresenta um vínculo indireto plausível, porém não comprovado. O componente de acne se sobrepõe à indicação original, e um retinoide tópico poderia, em tese, atuar apenas nas lesões cutâneas de acne. Não se espera efeito sobre a artrite ou o pioderma gangrenoso, que são tratados com terapia anti-inflamatória sistêmica (por exemplo, bloqueio de IL-1 ou TNF). Também para esta indicação não há ensaios ou publicações.
 
 ## Informações de Comercialização no Brasil
 

@@ -8,6 +8,7 @@ nav_order: 143
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bisacodyl
@@ -49,8 +50,8 @@ Bisacodyl (DB09020) é um fármaco identificado na base DrugBank, porém o Evide
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 (apenas identificação no DrugBank, sem previsões) |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
+| Número de Registros | 9 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 ---

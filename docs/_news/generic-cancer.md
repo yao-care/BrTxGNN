@@ -84,7 +84,7 @@ Esta página reúne as notícias de saúde mais recentes sobre «tumor» e lista
 <li><a href="{{ '/drugs/megestrol-acetate/' | relative_url }}">Megestrol acetate</a></li>
 <li><a href="{{ '/drugs/methotrexate/' | relative_url }}">Methotrexate</a></li>
 <li><a href="{{ '/drugs/mometasone/' | relative_url }}">Mometasone</a></li>
-<li><a href="{{ '/drugs/nitazoxanide/' | relative_url }}">Nitazoxanide</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Nitazoxanide</a></li>
 <li><a href="{{ '/drugs/nomegestrol-acetate/' | relative_url }}">Nomegestrol acetate</a></li>
 <li><a href="{{ '/drugs/norfloxacin/' | relative_url }}">Norfloxacin</a></li>
 <li><a href="{{ '/drugs/oxaliplatin/' | relative_url }}">Oxaliplatin</a></li>
@@ -104,7 +104,7 @@ Esta página reúne as notícias de saúde mais recentes sobre «tumor» e lista
 <li><a href="{{ '/drugs/secnidazole/' | relative_url }}">Secnidazole</a></li>
 <li><a href="{{ '/drugs/serine/' | relative_url }}">Serine</a></li>
 <li><a href="{{ '/drugs/sirolimus/' | relative_url }}">Sirolimus</a></li>
-<li><a href="{{ '/drugs/sodium-chloride/' | relative_url }}">Sodium chloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Sodium chloride</a></li>
 <li><a href="{{ '/drugs/sorafenib/' | relative_url }}">Sorafenib</a></li>
 <li><a href="{{ '/drugs/sorbitol/' | relative_url }}">Sorbitol</a></li>
 <li><a href="{{ '/drugs/tamoxifen/' | relative_url }}">Tamoxifen</a></li>
@@ -112,7 +112,7 @@ Esta página reúne as notícias de saúde mais recentes sobre «tumor» e lista
 <li><a href="{{ '/drugs/tetracycline/' | relative_url }}">Tetracycline</a></li>
 <li><a href="{{ '/drugs/tezacaftor/' | relative_url }}">Tezacaftor</a></li>
 <li><a href="{{ '/drugs/tinidazole/' | relative_url }}">Tinidazole</a></li>
-<li><a href="{{ '/drugs/tisagenlecleucel/' | relative_url }}">Tisagenlecleucel</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Tisagenlecleucel</a></li>
 <li><a href="{{ '/drugs/topiramate/' | relative_url }}">TOPIRAMATE</a></li>
 <li><a href="{{ '/drugs/trastuzumab/' | relative_url }}">Trastuzumab</a></li>
 <li><a href="{{ '/drugs/valsartan/' | relative_url }}">VALSARTAN</a></li>

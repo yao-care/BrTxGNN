@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Megestrol Acetate
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 439
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-13
-description: "Megestrol Acetate: nova indicação prevista, Carcinoma endometrial do corpo uterino (uterine corpus endometrial ca… (nível de evidência L2). Indicação original: Antineoplásico"
 monitor_inn: "Megestrol acetate"
 predicted_indications: ["hereditary breast ovarian cancer syndrome", "borderline epithelial tumor of ovary", "uterine carcinosarcoma", "placenta cancer", "ovarian clear cell adenocarcinoma", "ovarian cancer", "malignant dysgerminomatous germ cell tumor of ovary"]
+description: "Megestrol Acetate: nova indicação prevista, Hereditary breast ovarian cancer syndrome (nível de evidência L5). Indicação original: ANTINEOPLASICO"
 ---
 
 # Megestrol Acetate
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-## Acetato de Megestrol: De antineoplásico (indicação genérica) para carcinoma endometrial do corpo uterino
+## Megestrol Acetate: Hereditary breast ovarian cancer syndrome
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ atualmente com **1 ensaio clínico** (Phase 2, concluído) apoiando esta direç�
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antineoplásico |
-| Nova Indicação Prevista | Carcinoma endometrial do corpo uterino (uterine corpus endometrial carcinoma) |
-| Pontuação de Previsão TxGNN | 99,94% |
-| Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 (0 válidos, 1 cancelado) |
+| Indicação Original | ANTINEOPLASICO |
+| Nova Indicação Prevista | Hereditary breast ovarian cancer syndrome |
+| Pontuação de Previsão TxGNN | 0.9989 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?

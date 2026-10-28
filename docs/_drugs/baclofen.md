@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Baclofen
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 105
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-13
 description: "Baclofen: nova indicação prevista, Transtorno de déficit de atenção e hiperatividade (Attention Deficit-… (nível de evidência L4). Indicação original: Não disponível"
 monitor_inn: "Baclofen"
-predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence", "attention deficit hyperactivity disorder, inattentive type", "myofascial pain syndrome", "faciodigitogenital syndrome", "trigeminal nerve neoplasm", "methemoglobinemia", "chondromyxoid fibroma", "methemoglobinemia, alpha type", "specific developmental disorder"]
+predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
 ---
 
 # Baclofen
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 ## Resumo em Uma Frase
 
-O baclofeno é um agonista do receptor GABA-B, conhecido como relaxante muscular. Não há indicação original registrada nos dados compiladados para este relatório, pois não consta nenhum registro ativo na ANVISA.
+O baclofeno é um agonista do receptor GABA-B, conhecido como relaxante muscular. Não há indicação original registrada nos dados compiladados para este relatório. O medicamento é comercializado neste país, com 4 de 7 registros válidos.
 O modelo TxGNN prevê que pode ser eficaz para o **transtorno de déficit de atenção e hiperatividade (Attention Deficit-Hyperactivity Disorder)**, mas esta previsão tem **0 ensaios clínicos** e apenas **9 publicações indiretas** (revisões sobre síndrome de Tourette e estudos pré-clínicos em roedores).
 
 > **Observação importante:** entre as indicações previstas, a de maior pontuação (TDAH) tem a evidência mais fraca. A **dependência de nicotina** é a candidata com maior sustentação clínica (3 ensaios de Fase 2). Ela é apresentada ao final como alternativa mais promissora.
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para o **transtorno de déficit de ate
 |------|------|
 | Indicação Original | Não disponível (sem registro ativo na ANVISA) |
 | Nova Indicação Prevista | Transtorno de déficit de atenção e hiperatividade (Attention Deficit-Hyperactivity Disorder) |
-| Pontuação de Previsão TxGNN | 99,32% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Pontuação de Previsão TxGNN | 0,9932 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 7) |
+| Número de Registros | 7 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -106,15 +106,7 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 
 | Posição | Indicação | Pontuação TxGNN | Nível | Recomendação |
 |------|------|------|------|------|
-| 2 | Dependência de nicotina | 99,19% | L2 | Questão de pesquisa (mais promissora) |
-| 3 | TDAH, tipo desatento | 98,89% | L5 | Hold |
-| 4 | Síndrome de dor miofascial | 98,87% | L4 | Questão de pesquisa |
-| 5 | Síndrome faciodigitogenital | 98,78% | L5 | Hold |
-| 6 | Neoplasia do nervo trigêmeo | 98,70% | L4 | Hold |
-| 7 | Metemoglobinemia | 98,33% | L5 | Hold |
-| 8 | Fibroma condromixoide | 98,15% | L5 | Hold |
-| 9 | Metemoglobinemia, tipo alfa | 97,97% | L5 | Hold |
-| 10 | Transtorno específico do desenvolvimento | 97,95% | L4 | Hold |
+| 2 | Dependência de nicotina | 0,9919 | L2 | Questão de pesquisa (mais promissora) |
 
 **Destaque, dependência de nicotina:** há 3 ensaios de Fase 2 ([NCT01228994](https://clinicaltrials.gov/study/NCT01228994), terminado com apenas 6 participantes; [NCT00257894](https://clinicaltrials.gov/study/NCT00257894), terminado com 41; [NCT01821560](https://clinicaltrials.gov/study/NCT01821560), concluído com 44). Nenhum fornece dados pivotais de cessação do tabagismo. A literatura sobre transtorno por uso de álcool, em que o baclofeno já é usado off-label, sustenta a plausibilidade biológica. Recomenda-se priorizar esta indicação para um ensaio de Fase 2 adequadamente dimensionado.
 ## Aviso de isenção de responsabilidade

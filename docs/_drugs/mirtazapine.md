@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-## Mirtazapina: De antidepressivo à síndrome de Ohdo (previsão sem evidências clínicas)
+## Mirtazapina: De antidepressivo à Síndrome de Ohdo e variantes (previsão sem evidências clínicas)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,9 +48,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antidepressivos |
 | Nova Indicação Prevista | Síndrome de Ohdo e variantes (Ohdo syndrome and variants) |
-| Pontuação de Previsão TxGNN | 99,42% |
+| Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -60,11 +60,11 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A síndrome de Ohdo (incluindo as variantes relacionadas ao gene KAT6B) é um transtorno genético raro da regulação da cromatina, com deficiência intelectual e alterações craniofaciais e do desenvolvimento. Não há via mecanística plausível que ligue a mirtazapina à patologia epigenética de base.
 
-A pontuação elevada do TxGNN provavelmente reflete vizinhança no grafo de conhecimento (por exemplo, anotações compartilhadas de fenótipos neuropsiquiátricos ou do neurodesenvolvimento), e não um mecanismo biológico causal. Qualquer benefício seria, no máximo, sintomático (como sono ou humor) e exigiria justificativa própria.
+A pontuação elevada do TxGNN vem do modelo de aprendizado profundo (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas (por exemplo, fenótipos neuropsiquiátricos ou do neurodesenvolvimento), e não evidência biológica nem um mecanismo causal. Qualquer benefício seria, no máximo, sintomático (como sono ou humor) e exigiria justificativa própria.
 
 Outras previsões do modelo seguem a mesma lógica:
-- **Blefarofimose – deficiência intelectual, tipo Ohdo** (pontuação 99,11%): essencialmente a mesma entidade da previsão principal, portanto não constitui um sinal independente.
-- **Torcicolo paroxístico benigno da infância** (pontuação 99,11%): condição autolimitada, ligada a variantes de CACNA1A e a equivalentes de enxaqueca. Uma ligação especulativa seria a modulação serotoninérgica/anti-histamínica, mas não há evidência direta, a doença costuma regredir espontaneamente e a segurança da mirtazapina em lactentes não está estabelecida.
+- **Blefarofimose – deficiência intelectual, tipo Ohdo** (pontuação 0,9911): essencialmente a mesma entidade da previsão principal, portanto não constitui um sinal independente.
+- **Torcicolo paroxístico benigno da infância** (pontuação 0,9911): condição autolimitada, ligada a variantes de CACNA1A e a equivalentes de enxaqueca. Uma ligação especulativa seria a modulação serotoninérgica/anti-histamínica, mas não há evidência direta, a doença costuma regredir espontaneamente e a segurança da mirtazapina em lactentes não está estabelecida.
 
 ## Informações de Comercialização no Brasil
 
@@ -95,7 +95,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura, e sem plausibilidade mecanística. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura, e sem plausibilidade mecanística. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da mirtazapina (DrugBank) e análise de sua ligação com a biologia da síndrome de Ohdo

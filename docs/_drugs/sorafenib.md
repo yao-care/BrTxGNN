@@ -4,7 +4,7 @@ title: Sorafenib
 parent: Evidência Alta (L1-L2)
 nav_order: 595
 evidence_level: L2
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-13
 description: "Sorafenib: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L2). Indicação original: Carcinoma hepatocelular (câncer de fígado)"
 monitor_inn: "Sorafenib"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female bre
 # Sorafenib
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Lipossarcoma (Liposarcoma)**, a
 |------|------|
 | Indicação Original | Carcinoma hepatocelular (câncer de fígado) |
 | Nova Indicação Prevista | Lipossarcoma (Liposarcoma) |
-| Pontuação de Previsão TxGNN | 99,82% |
+| Pontuação de Previsão TxGNN | 0,9982 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 4) |
+| Número de Registros | 4 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -105,7 +105,7 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 **Decisão: Hold**
 
 **Justificativa:**
-- Apesar da pontuação alta do TxGNN (99,82%), o único ensaio clínico (Fase 2, n=51) incluiu sarcomas de histologias mistas sem resultados específicos para lipossarcoma. O mecanismo do sorafenibe não atinge diretamente as vias dominantes do lipossarcoma (MDM2/CDK4). Além disso, o fármaco não tem registro no Brasil e as informações de segurança da bula estão ausentes.
+- Apesar da pontuação alta do TxGNN (0,9982), o único ensaio clínico (Fase 2, n=51) incluiu sarcomas de histologias mistas sem resultados específicos para lipossarcoma. O mecanismo do sorafenibe não atinge diretamente as vias dominantes do lipossarcoma (MDM2/CDK4). Além disso, o fármaco não tem registro no Brasil e as informações de segurança da bula estão ausentes.
 
 **Para prosseguir, é necessário:**
 - Obter os resultados do subgrupo de lipossarcoma nos estudos NCT00217620 e SWOG S0505

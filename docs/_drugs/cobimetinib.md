@@ -4,17 +4,17 @@ title: Cobimetinib
 parent: Apenas Predição do Modelo (L5)
 nav_order: 240
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Cobimetinib: nova indicação prevista, Esclerose Lateral Amiotrófica (amyotrophic lateral sclerosis) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "cobimetinib"
-predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "Mills syndrome", "amyotrophic lateral sclerosis, susceptibility to", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "amyotrohpic lateral sclerosis type 22", "monomelic amyotrophy"]
+predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "Mills syndrome", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "amyotrohpic lateral sclerosis type 22", "monomelic amyotrophy"]
 ---
 
 # Cobimetinib
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,17 +48,17 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antineoplásico |
 | Nova Indicação Prevista | Esclerose Lateral Amiotrófica (amyotrophic lateral sclerosis) |
-| Pontuação de Previsão TxGNN | 99,73% |
+| Pontuação de Previsão TxGNN | 0,9973 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Os dados compilados para este relatório não trazem a descrição formal do mecanismo de ação. Segundo informações conhecidas, o cobimetinibe é um inibidor de MEK1/2, componente da via RAS/RAF/MEK/ERK, e sua eficácia como antineoplásico é a base do seu registro.
 
-A relação com a ELA é hipotética. A sinalização desregulada de MAPK/ERK tem sido proposta na degeneração de neurônios motores e na neuroinflamação, o que poderia justificar a previsão. Contudo, a pontuação alta (0,997) não é acompanhada de nenhum ensaio ou publicação.
+A relação com a ELA é hipotética. A sinalização desregulada de MAPK/ERK tem sido proposta na degeneração de neurônios motores e na neuroinflamação, o que poderia justificar a previsão. Contudo, a pontuação alta (0,9973) não é acompanhada de nenhum ensaio ou publicação.
 
 Há ainda ressalvas importantes: a penetração cerebral do cobimetinibe é limitada (substrato da P-gp) e seu perfil de toxicidade (retinopatia, rabdomiólise/elevação de CPK, cardiomiopatia) preocupa em uma população com doença do neurônio motor.
 

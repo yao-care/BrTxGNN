@@ -48,10 +48,10 @@ atualmente com **1 ensaio clínico** e **2 publicações** apoiando esta direç�
 |------|------|
 | Indicação Original | Outros suplementos minerais, exceto de ferro e para reidratação |
 | Nova Indicação Prevista | Faringite (Pharyngitis) |
-| Pontuação de Previsão TxGNN | 99,85% |
+| Pontuação de Previsão TxGNN | 0,9985 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -96,7 +96,7 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta no modelo, mas as evidências são apenas indiretas (dor de garganta pós-operatória, mucosite por radiação), sem ensaio de Fase 2/3 em faringite infecciosa. Além disso, todos os registros brasileiros estão cancelados e faltam dados de bula e de mecanismo de ação, o que impede avançar na triagem de segurança.
+- A previsão tem pontuação alta no modelo (TxGNN, aprendizado profundo), mas as evidências são apenas indiretas (dor de garganta pós-operatória, mucosite por radiação), sem ensaio de Fase 2/3 em faringite infecciosa. Além disso, o medicamento está comercializado no Brasil, com 3 registros válidos de 3, mas faltam dados de bula e de mecanismo de ação, o que impede avançar na triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Trastuzumab
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 651
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-13
-description: "Trastuzumab: nova indicação prevista, Câncer de mama com receptor de progesterona positivo (progesterone-re… (nível de evidência L1). Indicação original: Carcinoma de mama HER2-positivo (segundo as a…"
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
+description: "Trastuzumab: nova indicação prevista, Malignant cutaneous granular cell skin tumor (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Trastuzumab
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-## Trastuzumabe: Do câncer de mama HER2-positivo ao câncer de mama com receptor de progesterona positivo
+## Trastuzumab: Malignant cutaneous granular cell skin tumor
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ atualmente com **13 ensaios clínicos** e **20 publicações** apoiando esta dir
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Carcinoma de mama HER2-positivo (segundo as arestas de indicação do grafo de conhecimento do TxGNN; não há texto de indicação aprovada no Brasil) |
-| Nova Indicação Prevista | Câncer de mama com receptor de progesterona positivo (progesterone-receptor positive breast cancer) |
-| Pontuação de Previsão TxGNN | 99,90% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Malignant cutaneous granular cell skin tumor |
+| Pontuação de Previsão TxGNN | 0.9948 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 14) |
+| Número de Registros | 14 (ativos: 14) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?

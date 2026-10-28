@@ -8,6 +8,7 @@ nav_order: 205
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Cefazolin Sodium
@@ -49,8 +50,8 @@ Cefazolin sódica é um antibiótico cefalosporínico de primeira geração, cla
 | Nova Indicação Prevista | Nenhuma previsão disponível |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 — sem previsão de modelo ou estudos vinculados |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ---

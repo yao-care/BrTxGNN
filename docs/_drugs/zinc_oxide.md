@@ -4,17 +4,17 @@ title: Zinc Oxide
 parent: Evidência Moderada (L3-L4)
 nav_order: 682
 evidence_level: L4
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Zinc Oxide: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Emolientes e protetores da pele e mucosas"
 monitor_inn: "Zinc oxide"
-predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "post-infectious syndrome", "otitis externa"]
+predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
 ---
 
 # Zinc Oxide
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, mas at
 |------|------|
 | Indicação Original | Emolientes e protetores da pele e mucosas |
 | Nova Indicação Prevista | Acne (acne (disease)) |
-| Pontuação de Previsão TxGNN | 99,86% |
+| Pontuação de Previsão TxGNN | 0,9986 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -85,7 +85,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontrados estão cancelados. Principais registros:
+O medicamento está comercializado no Brasil, com 20 registros válidos. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -111,7 +111,7 @@ Consulte a bula para advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para acne tem pontuação alta no TxGNN (99,86%), mas sem ensaios clínicos e com literatura apenas indireta (nível L4). Além disso, todos os 20 registros brasileiros estão cancelados, e os dados de segurança da bula não estão disponíveis.
+- A previsão para acne tem pontuação alta no TxGNN (0,9986), mas sem ensaios clínicos e com literatura apenas indireta (nível L4). Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos, e os dados de segurança da bula não estão disponíveis.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as advertências e contraindicações da bula na ANVISA, etapa necessária antes da triagem de segurança.

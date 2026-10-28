@@ -8,6 +8,7 @@ nav_order: 176
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Calcipotriol Monohydrate
@@ -51,8 +52,8 @@ pois a ausência de DrugBank ID impediu o mapeamento no grafo de conhecimento.
 | Nova Indicação Prevista | Nenhuma previsão gerada |
 | Pontuação de Previsão TxGNN | N/D |
 | Nível de Evidência | N/D |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ---

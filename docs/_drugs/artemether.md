@@ -4,17 +4,17 @@ title: Artemether
 parent: Apenas Predição do Modelo (L5)
 nav_order: 78
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Artemether: nova indicação prevista, Angioedema adquirido (acquired angioedema) (nível de evidência L5). Indicação original: Antimaláricos"
 monitor_inn: "artemether"
-predicted_indications: ["acquired angioedema", "Plasmodium falciparum malaria", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
+predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
 ---
 
 # Artemether
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Artemeter: Do antimalárico à reafirmação da indicação em malária por *Plasmodium falciparum*
+## Artemeter: Do antimalárico ao angioedema adquirido
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -50,10 +50,10 @@ O modelo TxGNN atribuiu a maior pontuação a **angioedema adquirido (acquired a
 | Indicação Original | Antimaláricos |
 | Nova Indicação Prevista (1ª colocada no modelo) | Angioedema adquirido (acquired angioedema) |
 | Indicação com evidências (2ª colocada) | Malária por *Plasmodium falciparum* (indicação já estabelecida) |
-| Pontuação de Previsão TxGNN | 99,90% (angioedema adquirido); 99,77% (malária por *P. falciparum*) |
+| Pontuação de Previsão TxGNN | 0,9990 (angioedema adquirido) |
 | Nível de Evidência | L5 (angioedema adquirido); L1 (malária por *P. falciparum*, confirmação do uso original) |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 (cancelado) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold para angioedema adquirido; Proceed with Guardrails apenas para a malária (uso já estabelecido) |
 
 ---
@@ -62,7 +62,7 @@ O modelo TxGNN atribuiu a maior pontuação a **angioedema adquirido (acquired a
 
 Atualmente, não há dados detalhados de mecanismo de ação nos campos do fármaco. Segundo informações conhecidas, o artemeter é um derivado da artemisinina. Sua ponte endoperóxido é ativada pelo ferro do heme no parasita, gerando radicais livres que alquilam proteínas do *Plasmodium*. Costuma ser usado em combinação fixa com lumefantrina como tratamento de primeira linha da malária não complicada por *P. falciparum*.
 
-**Angioedema adquirido (previsão nº 1):** não há vínculo mecanístico plausível. O angioedema envolve a via da bradicinina e do inibidor de C1 do complemento, sobre as quais o artemeter não tem ação conhecida. A pontuação alta (0,999) reflete apenas proximidade no grafo de conhecimento. Não há ensaios clínicos nem literatura. As previsões para angioedema (geral, hereditário e induzido por bloqueadores do sistema renina-angiotensina-aldosterona) seguem o mesmo padrão.
+**Angioedema adquirido (previsão nº 1):** não há vínculo mecanístico plausível. O angioedema envolve a via da bradicinina e do inibidor de C1 do complemento, sobre as quais o artemeter não tem ação conhecida. A pontuação alta (0,9990) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Não há ensaios clínicos nem literatura. As previsões para angioedema (geral, hereditário e induzido por bloqueadores do sistema renina-angiotensina-aldosterona) seguem o mesmo padrão.
 
 **Malária:** as previsões nº 2 (*P. falciparum*) e nº 3 (malária) coincidem com o uso original. Isso valida o modelo, mas não traz uma nova indicação. A análise de reposicionamento real deveria se concentrar em hipóteses como esclerodermia (efeitos antifibróticos e imunomoduladores pré-clínicos das artemisininas, via TGF-β), ainda puramente especulativa e sem estudos recuperados.
 
@@ -133,7 +133,7 @@ Não aplicável: o artemeter é um antimalárico, não um antineoplásico. Esta 
 **Decisão: Hold** (para as previsões de reposicionamento real, a começar pelo angioedema adquirido). Para a malária por *P. falciparum*, **Proceed with Guardrails** vale apenas como confirmação do uso já estabelecido.
 
 **Justificativa:**
-- A previsão de maior pontuação (angioedema adquirido, 99,90%) não tem ensaios, literatura nem vínculo mecanístico plausível, ficando em L5.
+- A previsão de maior pontuação (angioedema adquirido, 0,9990) não tem ensaios, literatura nem vínculo mecanístico plausível, ficando em L5.
 - As evidências robustas (L1) dizem respeito à malária, indicação original, e não constituem reposicionamento. Além disso, o único registro brasileiro está cancelado.
 
 **Para prosseguir, é necessário:**

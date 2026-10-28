@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Armodafinil
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Alta (L1-L2)
 nav_order: 77
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Armodafinil: nova indicação prevista, Insônia (Insomnia) (nível de evidência L5). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
@@ -14,7 +14,7 @@ predicted_indications: ["insomnia (disease)"]
 # Armodafinil
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **1** 
+Nível de evidência: **L2** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **insônia (Insomnia)**, atualmen
 |------|------|
 | Indicação Original | Outros produtos que atuam sobre o sistema nervoso |
 | Nova Indicação Prevista | Insônia (Insomnia) |
-| Pontuação de Previsão TxGNN | 99,89% |
+| Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L2 (ver observação abaixo) |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 **Observação sobre o nível de evidência:** nenhum dos ensaios listados é um Phase 2/3 RCT com resultados disponíveis. Os dois ensaios de Phase 2 estão concluídos, mas os dados compilados não trazem resultados de eficácia. O nível L2 atribuído na análise de origem deve, portanto, ser tratado como otimista. Do ponto de vista estrito, a evidência está entre L2 e L5.
@@ -61,7 +61,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A relação com a insônia é indireta e, de certo modo, paradoxal: o fármaco promove a vigília, não o sono. A justificativa plausível é que ele trate a sonolência diurna e a fadiga que acompanham a insônia, como na fadiga relacionada ao câncer, na apneia do sono associada à insônia e no transtorno do trabalho em turnos. Ele não trataria a dificuldade de início ou manutenção do sono.
 
-A pontuação muito alta do TxGNN (99,89%) é uma previsão computacional e provavelmente reflete a proximidade na rede de conhecimento com distúrbios do ciclo sono-vigília, e não uma adequação terapêutica real. Esse raciocínio mecanístico se baseia em conhecimento geral, não em dados do relatório.
+A pontuação muito alta do TxGNN (0,9989) é uma previsão computacional e provavelmente reflete a proximidade na rede de conhecimento com distúrbios do ciclo sono-vigília, e não uma adequação terapêutica real. Esse raciocínio mecanístico se baseia em conhecimento geral, não em dados do relatório.
 
 ## Evidências de Ensaios Clínicos
 

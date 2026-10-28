@@ -51,9 +51,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Angina de Prinzmetal (Prinzmeta
 |------|------|
 | Indicação Original | Não disponível nos dados compilados (sem registro na ANVISA) |
 | Nova Indicação Prevista | Angina de Prinzmetal (Prinzmetal angina) |
-| Pontuação de Previsão TxGNN | 99,84% |
+| Pontuação de Previsão TxGNN | 0,9984 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

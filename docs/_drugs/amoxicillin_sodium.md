@@ -8,6 +8,7 @@ nav_order: 63
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amoxicillin Sodium
@@ -51,7 +52,7 @@ Sem previsões disponíveis, não é possível conduzir análise de reposicionam
 | Nova Indicação Prevista | Nenhuma previsão TxGNN disponível |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão do modelo) |
-| Situação no Mercado Brasileiro | Não comercializado sob este INN |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros ANVISA | 0 |
 | Decisão Recomendada | **Hold** |
 

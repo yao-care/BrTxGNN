@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Terbinafine
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 614
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Terbinafine: nova indicação prevista, Miíase furuncular (Furuncular Myiasis) (nível de evidência L5). Indicação original: Antimicótico"
-monitor_inn: "Terbinafine"
-predicted_indications: ["furuncular myiasis", "wound myiasis", "creeping myiasis", "myiasis", "toxoplasmosis", "blastomycosis", "echinococcus granulosus infectious disease"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Terbinafine: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
+predicted_indications: []
 ---
 
 # Terbinafine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,68 +32,61 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Terbinafina: De antimicótico a furunculose miiásica (previsão do modelo, com ressalvas importantes)
+<!-- known-uses-page -->
+<!-- description: Terbinafine: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata -->
+## Terbinafine: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+Todos os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Terbinafine e que puderam ser rastreados até uma fonte correspondem a usos já conhecidos. Por isso, atualmente não há nenhuma nova indicação prevista para este medicamento. A tabela abaixo mostra o uso conhecido encontrado entre os candidatos.
 
-Terbinafina é um antifúngico (antimicótico), originalmente registrado no Brasil como antimicótico, inclusive para uso tópico.
-A primeira previsão do modelo TxGNN é **miíase furuncular (furuncular myiasis)**, mas **não há ensaios clínicos** e a única publicação associada é **um relato de caso** que não demonstra eficácia do fármaco. Essa previsão parece ser um artefato do grafo de conhecimento. As previsões mais plausíveis (tinea manuum e micose superficial) estão dentro do uso antifúngico já estabelecido.
-
-## Visão Geral Rápida
-
+## Visão geral rápida
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antimicótico |
-| Nova Indicação Prevista | Miíase furuncular (Furuncular Myiasis) |
-| Pontuação de Previsão TxGNN | 96,74% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 17 (todos cancelados) |
-| Decisão Recomendada | Hold |
+| Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis são usos conhecidos) |
+| Usos conhecidos entre os candidatos do modelo | 1 |
+| Nível de evidência | Não aplicável |
+| Situação de mercado no Brasil | Comercializado (registros ativos: 17 de 17) |
+| Número de Registros | 17 (ativos: 17) |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos entre os candidatos do modelo
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a terbinafina é um antifúngico da classe das alilaminas, que inibe a enzima esqualeno epoxidase do fungo, reduzindo o ergosterol da membrana fúngica e acumulando esqualeno. Sua eficácia em infecções fúngicas superficiais é consolidada.
+### Aprovadas (com respaldo em registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| Nenhuma | — |
 
-**Esta previsão, porém, não tem fundamento mecanístico.** A miíase é uma infestação por larvas de moscas, e a terbinafina não tem atividade larvicida ou antiparasitária conhecida. A pontuação alta parece derivar de proximidade no grafo de conhecimento com outros termos de miíase. O único artigo ligado (PMID 25016125) descreve um menino com furúnculo que não respondeu a antibióticos e outros fármacos, entre eles a terbinafina, sem sucesso. Ou seja, o artigo não apoia o uso do fármaco.
+### Relacionadas a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhuma | — |
 
-As previsões seguintes do modelo (miíase de ferida, miíase rastejante, miíase, toxoplasmose e equinococose) também carecem de plausibilidade mecanística. Já **tinea manuum** e **micose superficial** são coerentes com o mecanismo, mas coincidem com o uso antifúngico original, portanto não são reposicionamento propriamente dito.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| tinha do corpo (tinea corporis) |
 
-## Evidências de Ensaios Clínicos
+## Market information
 
-Atualmente não há ensaios clínicos relacionados registrados.
-
-## Evidências da Literatura
-
-Para a indicação principal (miíase furuncular), existe apenas uma publicação:
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [25016125](https://pubmed.ncbi.nlm.nih.gov/25016125/) | 2014 | Relato de caso | Turkiye Parazitolojii Dergisi | Menino de 12 anos com miíase cutânea furuncular, tratado por 2 meses com penicilina, claritromicina, terbinafina e ibuprofeno, sem sucesso. Não há evidência de eficácia da terbinafina. |
-
-**Indicações alternativas com melhor respaldo (referência):**
-
-| Indicação | Nível | Evidência principal | Decisão do modelo |
-|------|-----|---------|------|
-| Tinea manuum | L3 | [PMID 1911319](https://pubmed.ncbi.nlm.nih.gov/1911319/) (1991): estudo clínico não controlado com terbinafina por 2 semanas em tinea pedis e tinea manuum; [PMID 15679673](https://pubmed.ncbi.nlm.nih.gov/15679673/) (2005): caso de tinea manuum bolhosa curado com terbinafina; revisões e estudos de resistência | Proceed with Guardrails |
-| Micose superficial | L3 | Revisões sobre dermatofitoses e terapia antifúngica sistêmica (por exemplo, [PMID 11155585](https://pubmed.ncbi.nlm.nih.gov/11155585/)); vigilância de resistência (*T. indotineae*) | Proceed with Guardrails |
-| Candidíase cutânea | L4 | Revisões e estudos in vitro (por exemplo, [PMID 9593126](https://pubmed.ncbi.nlm.nih.gov/9593126/)); atividade contra *Candida* variável e geralmente fungistática | Research Question |
-| Blastomicose | L4 | Relato de caso de paracoccidioidomicose tratada com terbinafina ([PMID 10886159](https://pubmed.ncbi.nlm.nih.gov/10886159/)); sem evidência direta para *Blastomyces dermatitidis* | Research Question |
-
-## Informações de Comercialização no Brasil
-
-Todos os 17 registros encontrados estão **cancelados**; não há registro válido atualmente. Principais registros:
-
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105830521 | Cloridrato de terbinafina | Não informada | Antimicótico |
-| Registro nº 103700707 | Cloridrato de terbinafina | Não informada | Antimicótico |
-| Registro nº 125680065 | Cloridrato de terbinafina | Não informada | Antimicóticos para uso tópico |
-| Registro nº 144930073 | Lakesiapes | Não informada | Antimicótico |
-| Registro nº 102980297 | Funtyl | Não informada | Antimicótico |
-
-Entre os demais registros cancelados constam também as marcas Micosil e Ternasil.
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 105830521 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 103700707 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 125680065 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 144930073 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 183260089 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 105730619 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 102980297 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 102350480 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 102350561 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 113430150 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 103700270 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 109740301 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 155840211 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 100630309 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 103700557 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 125680198 | CLORIDRATO DE TERBINAFINA |  | Ativo |
+| 103700709 | CLORIDRATO DE TERBINAFINA |  | Ativo |
 
 ## Considerações de Segurança
 
@@ -107,19 +99,6 @@ Entre os demais registros cancelados constam também as marcas Micosil e Ternasi
 
 Para advertências e contraindicações formais, consulte a bula.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold** (para a indicação principal, miíase furuncular)
-
-**Justificativa:**
-- A previsão é apenas do modelo (L5), sem ensaios e com um único relato de caso que não demonstra benefício. A terbinafina não tem mecanismo plausível contra larvas de mosca, e a pontuação alta parece ser um artefato do grafo.
-- Se houver interesse em algo viável, as indicações dentro do espectro antifúngico (tinea manuum e micose superficial, ambas L3, Proceed with Guardrails) são mais promissoras, mas não representam reposicionamento novo.
-
-**Para prosseguir, é necessário:**
-- Dados do mecanismo de ação e da bula, com advertências e contraindicações.
-- Não investir na indicação de miíase sem estudos pré-clínicos que demonstrem atividade contra larvas.
-- Para as indicações antifúngicas, considerar testes de suscetibilidade e estratégia de uso racional, dada a resistência crescente (*T. indotineae*, *T. rubrum*).
-- Verificar a situação regulatória no Brasil, pois todos os 17 registros estão cancelados e seria necessário confirmar se existe outro registro vigente do fármaco.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

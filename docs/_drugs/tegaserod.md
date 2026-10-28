@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tegaserod
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 608
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Tegaserod: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L4). Indicação original: Outros produtos para o aparelho digestivo e metabolismo"
@@ -14,7 +14,7 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 # Tegaserod
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **2** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (uma revi
 |------|------|
 | Indicação Original | Outros produtos para o aparelho digestivo e metabolismo |
 | Nova Indicação Prevista | Enxaqueca (Migraine Disorder) |
-| Pontuação de Previsão TxGNN | 99,47% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Pontuação de Previsão TxGNN | 0,9947 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A relação com a enxaqueca é indireta. A enxaqueca envolve sinalização serotoninérgica (receptores 5-HT1B/1D/1F, entre outros). Além disso, a estase gástrica e as náuseas durante as crises podem prejudicar a absorção de medicamentos orais para enxaqueca, e por isso os procinéticos já foram estudados como adjuvantes. Tegaserod não possui um mecanismo antienxaqueca direto estabelecido.
 
-A pontuação TxGNN muito alta (0,995) é uma previsão computacional baseada na proximidade no grafo de conhecimento, e não constitui evidência clínica. A segunda previsão, **enxaqueca com aura do tronco encefálico** (pontuação 99,29%, nível L5, sem ensaios nem literatura), provavelmente reflete apenas a proximidade ontológica com a enxaqueca e não um sinal independente.
+A pontuação TxGNN muito alta (0,9947) é uma previsão do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica nem clínica. A segunda previsão, **enxaqueca com aura do tronco encefálico** (pontuação 0,9929, nível L5, sem ensaios nem literatura), provavelmente reflete apenas semelhanças aprendidas pelo modelo com a enxaqueca e não um sinal independente.
 
 ## Evidências de Ensaios Clínicos
 
@@ -90,7 +90,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se apenas na proximidade no grafo de conhecimento, sem ensaios clínicos e com uma única revisão geral. O registro brasileiro está cancelado, e o perfil de segurança sugerido (eventos cardiovasculares e cerebrovasculares) é particularmente preocupante em uma população com enxaqueca.
+A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica; não há ensaios clínicos e há uma única revisão geral. O medicamento está comercializado no Brasil, com 1 registro válido de 1, e o perfil de segurança sugerido (eventos cardiovasculares e cerebrovasculares) é particularmente preocupante em uma população com enxaqueca.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança

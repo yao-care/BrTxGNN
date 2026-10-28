@@ -8,6 +8,7 @@ nav_order: 35
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Albuterol
@@ -47,8 +48,8 @@ Albuterol (denominação internacional alternativa: salbutamol) é um broncodila
 | Nova Indicação Prevista | Não disponível |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 — sem previsão do modelo gerada |
-| Situação no Mercado Brasileiro | Não encontrado sob o INN "ALBUTEROL" na base ANVISA |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 15) |
+| Número de Registros | 15 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão Não Foi Gerada?

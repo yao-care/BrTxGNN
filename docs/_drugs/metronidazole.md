@@ -49,9 +49,9 @@ O modelo TxGNN prevê que pode ser eficaz para **pneumocistose (Pneumocystosis)*
 |------|------|
 | Indicação Original | Amebicidas, giardicidas e tricomonicidas |
 | Nova Indicação Prevista | Pneumocistose (Pneumocystosis) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -94,7 +94,7 @@ Prioridade para os tipos de estudo mais robustos; nenhum é RCT.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão **cancelados**; não há registro válido. Listados os cinco principais:
+Foram encontrados 20 registros válidos; o medicamento está comercializado. Listados os cinco principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -123,7 +123,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos, a literatura é indireta e não sustenta eficácia contra *Pneumocystis*, e o mecanismo do metronidazol é incompatível com um fungo; a pontuação alta do modelo parece artefato de rede. Além disso, todos os registros brasileiros estão cancelados.
+- Não há ensaios clínicos, a literatura é indireta e não sustenta eficácia contra *Pneumocystis*, e o mecanismo do metronidazol é incompatível com um fungo; a pontuação alta vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Obter dados de mecanismo de ação e das advertências e contraindicações da bula (ANVISA), hoje ausentes.

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tioconazole
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 640
-evidence_level: L1
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-13
 description: "Tioconazole: nova indicação prevista, Vulvovaginite (Vulvovaginitis) (nível de evidência L1). Indicação original: Antimicóticos para uso tópico"
@@ -14,7 +14,7 @@ predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic v
 # Tioconazole
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **3** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Trata-se, na prática, de um uso já estabelecido (candidíase vaginal), e não 
 |------|------|
 | Indicação Original | Antimicóticos para uso tópico |
 | Nova Indicação Prevista | Vulvovaginite (Vulvovaginitis) |
-| Pontuação de Previsão TxGNN | 99,23% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 18 (0 válidos, 18 cancelados) |
+| Pontuação de Previsão TxGNN | 0,9923 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 18) |
+| Número de Registros | 18 (ativos: 18) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação no campo origi
 
 A vulvovaginite é causada com frequência por espécies de *Candida*, o principal alvo do mecanismo azólico. Por isso, a previsão do modelo coincide com um uso já conhecido: a candidíase vulvovaginal. A pontuação muito alta (0,992) é coerente com isso. Os registros brasileiros do medicamento, em grande parte associações com tinidazol em produtos ginecológicos, reforçam a relação com a nova indicação.
 
-Há também previsões de menor suporte para o mesmo fármaco. A **vulvite** (pontuação 99,20%, nível L2) é plausível apenas quando de origem infecciosa por *Candida*; não se aplica a vulvites irritativas, alérgicas ou dermatológicas. A **vaginite atrófica pós-menopausa** (99,19%, nível L5, decisão Hold) não tem ligação mecanística clara, pois decorre de deficiência estrogênica e não de infecção. A pontuação alta provavelmente reflete proximidade na rede com outras vaginites.
+Há também previsões de menor suporte para o mesmo fármaco. A **vulvite** (pontuação 0,9920, nível L2) é plausível apenas quando de origem infecciosa por *Candida*; não se aplica a vulvites irritativas, alérgicas ou dermatológicas. A **vaginite atrófica pós-menopausa** (0,9919, nível L5, decisão Hold) não tem ligação mecanística clara, pois decorre de deficiência estrogênica e não de infecção. A pontuação alta provavelmente reflete proximidade na rede com outras vaginites.
 
 ## Evidências de Ensaios Clínicos
 
@@ -83,7 +83,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 18 registros estão cancelados. Principais registros:
+Todos os 18 registros estão válidos. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|

@@ -8,6 +8,7 @@ nav_order: 84
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Atazanavir Sulfate
@@ -51,8 +52,8 @@ Foram identificadas **lacunas críticas de dados** — incluindo ausência de re
 | Nova Indicação Prevista | Não disponível |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | Não registrado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

@@ -48,10 +48,10 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compilado
 |------|------|
 | Indicação Original | Desmelanizantes |
 | Nova Indicação Prevista | Líquen plano atrófico anular (annular atrophic lichen planus) |
-| Pontuação de Previsão TxGNN | 99,42% |
+| Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 9 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
+| Número de Registros | 9 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 Outras previsões do modelo, com o mesmo nível de evidência (L5) e igualmente sem estudos associados: líquen plano hipertrófico (99,42%), líquen plano pigmentoso (99,42%) e líquen plano penfigoide (99,34%).
@@ -74,7 +74,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 9 registros estão cancelados; não há produto atualmente comercializado.
+Os 9 registros são válidos (9 de 9); o medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -96,7 +96,7 @@ Consulte a bula para advertências e contraindicações oficiais, que não estav
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta (99,42%), mas está no nível L5: não há ensaios clínicos nem literatura, e todos os registros no Brasil estão cancelados, o que limita a disponibilidade prática.
+- A previsão tem pontuação alta (0,9942), mas está no nível L5: não há ensaios clínicos nem literatura. O medicamento está comercializado, com 9 registros válidos de 9.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), pois a triagem de segurança não pôde ser concluída.

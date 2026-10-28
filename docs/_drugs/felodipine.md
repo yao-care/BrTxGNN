@@ -4,7 +4,7 @@ title: Felodipine
 parent: Apenas Predição do Modelo (L5)
 nav_order: 312
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Felodipine: nova indicação prevista, Hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hy… (nível de evidência L5). Indicação original: Anti-hipertensivos – associações medicamentosa"
 monitor_inn: "felodipine"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 # Felodipine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **7** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-## Felodipino: Da hipertensão arterial à hipertensão pulmonar (previsão do modelo)
+## Felodipino: Da hipertensão arterial à hipertensão pulmonar de mecanismo multifatorial incerto (previsão do modelo)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -41,7 +41,7 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 Felodipino é um bloqueador dos canais de cálcio do tipo di-hidropiridínico, originalmente registrado no Brasil como anti-hipertensivo (associações medicamentosas).
 O modelo TxGNN prevê que ele pode ser eficaz para **hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hypertension with unclear multifactorial mechanism)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando diretamente esta previsão específica.
 
-> Observação: entre as previsões listadas, as que contam com alguma literatura são a **cor pulmonale crônico** (3 publicações) e a **angina de Prinzmetal** (7 publicações). Elas são discutidas ao longo do relatório como alternativas mais bem fundamentadas.
+> Observação: entre as previsões listadas, a que conta com alguma literatura é o **cor pulmonale crônico** (3 publicações). Ele é discutido ao longo do relatório como alternativa mais bem fundamentada.
 
 ## Visão Geral Rápida
 
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que ele pode ser eficaz para **hipertensão pulmonar de me
 |------|------|
 | Indicação Original | Anti-hipertensivos – associações medicamentosas |
 | Nova Indicação Prevista | Hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hypertension with unclear multifactorial mechanism) |
-| Pontuação de Previsão TxGNN | 99,91% |
+| Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -71,7 +71,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Para a indicação principal (hipertensão pulmonar de mecanismo incerto), atualmente não há literatura relacionada. Abaixo, a literatura disponível para as previsões de menor pontuação, porém com algum suporte:
 
-**Cor pulmonale crônico (pontuação TxGNN 99,19%; nível L4)**
+**Cor pulmonale crônico (pontuação TxGNN 0,9919; nível L4)**
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
@@ -79,7 +79,6 @@ Para a indicação principal (hipertensão pulmonar de mecanismo incerto), atual
 | [2487551](https://pubmed.ncbi.nlm.nih.gov/2487551/) | 1989 | Estudo hemodinâmico agudo | Cardiovasc Drugs Ther | Efeitos agudos do felodipino na hemodinâmica central e no fluxo sanguíneo regional em 10 pacientes com insuficiência cardíaca congestiva grave |
 | [3154329](https://pubmed.ncbi.nlm.nih.gov/3154329/) | 1988 | Revisão | Cardiovasc Drugs Ther | Uso e eficácia comparativa dos bloqueadores de cálcio na hipertensão e arritmias supraventriculares |
 
-**Angina de Prinzmetal (pontuação TxGNN 99,07%; nível L4)**
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
@@ -111,7 +110,7 @@ Para advertências e contraindicações da bula, consulte a bula aprovada, pois 
 
 **Justificativa:**
 - A previsão principal (hipertensão pulmonar de mecanismo incerto) tem apenas suporte computacional (L5), sem ensaios ou publicações, e há ressalvas fisiopatológicas (benefício limitado dos bloqueadores de cálcio fora do subgrupo vasorreativo; risco na hipoxia). Além disso, o único registro brasileiro está cancelado.
-- As melhores evidências são para a angina de Prinzmetal (L4, estudos pequenos e antigos, com alternativas já disponíveis) e para o cor pulmonale crônico (L4, apenas estudos hemodinâmicos agudos), ambos classificados como questão de pesquisa.
+- As melhores evidências são para o cor pulmonale crônico (L4, apenas estudos hemodinâmicos agudos), classificado como questão de pesquisa.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação a partir do DrugBank

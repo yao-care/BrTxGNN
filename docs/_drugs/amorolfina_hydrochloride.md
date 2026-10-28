@@ -8,6 +8,7 @@ nav_order: 61
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amorolfina Hydrochloride
@@ -51,8 +52,8 @@ O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco 
 | Nova Indicação Prevista | Não disponível — nenhuma previsão TxGNN gerada |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | Abaixo de L5 — ausência total de previsão e estudos |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ---

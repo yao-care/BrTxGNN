@@ -8,6 +8,7 @@ nav_order: 616
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Terbutalina Sulfate
@@ -51,8 +52,8 @@ A ausência de registro no Brasil, de dados de mecanismo de ação e de indicaç
 | Nova Indicação Prevista | Sem previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 — sem estudos disponíveis no contexto desta avaliação |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
+| Número de Registros | 6 (ativos: 6) |
 | Decisão Recomendada | **Hold** |
 
 ---

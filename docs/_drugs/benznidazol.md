@@ -8,6 +8,7 @@ nav_order: 121
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Benznidazol
@@ -51,8 +52,8 @@ Devido à ausência de indicações previstas e a múltiplos dados faltantes cr�
 | Nova Indicação Prevista | Não disponível (TxGNN sem previsões) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 2 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

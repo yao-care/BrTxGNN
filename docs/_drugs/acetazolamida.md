@@ -8,6 +8,7 @@ nav_order: 19
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetazolamida
@@ -46,8 +47,8 @@ Acetazolamida (ACETAZOLAMIDA) é um inibidor da anidrase carbônica classicament
 | Item | Conteúdo |
 |------|------|
 | Fármaco | Acetazolamida (ACETAZOLAMIDA) |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 5) |
+| Número de Registros | 5 (ativos: 1) |
 | Previsões TxGNN Disponíveis | Nenhuma |
 | Nível de Evidência | Não aplicável |
 | Decisão Recomendada | Hold |

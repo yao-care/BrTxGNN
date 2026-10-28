@@ -4,17 +4,17 @@ title: Ketoprofen
 parent: Apenas Predição do Modelo (L5)
 nav_order: 383
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Ketoprofen: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasi… (nível de evidência L5). Indicação original: Anti-inflamatórios e antirreumáticos"
 monitor_inn: "KETOPROFEN"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
 ---
 
 # Ketoprofen
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Anti-inflamatórios e antirreumáticos |
 | Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
-| Pontuação de Previsão TxGNN | 99,98% |
+| Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A displasia acromesomélica tipo Hunter-Thompson é um distúrbio esquelético raro, causado por mutações de perda de função em CDMP1/GDF5, que afetam a formação da cartilagem (condrogênese). A inibição da COX não atua sobre esse defeito de base, e **não há vínculo mecanístico estabelecido** entre o fármaco e a doença.
 
-A pontuação alta (99,98%) reflete apenas a previsão do modelo, sem respaldo de ensaios ou literatura. Outras indicações previstas entre as dez primeiras seguem o mesmo padrão: em sua maioria são displasias ou malformações congênitas sem relação plausível com a ação do fármaco. As exceções com alguma plausibilidade biológica são condições articulares inflamatórias (suscetibilidade a espondiloartropatia e artrite juvenil por defeito em LACC1), nas quais o AINE poderia oferecer, no máximo, alívio sintomático, sem modificar a doença.
+A pontuação alta (0,9998) reflete apenas a previsão do modelo, sem respaldo de ensaios ou literatura. Outras indicações previstas entre as dez primeiras seguem o mesmo padrão: em sua maioria são displasias ou malformações congênitas sem relação plausível com a ação do fármaco. As exceções com alguma plausibilidade biológica são condições articulares inflamatórias (suscetibilidade a espondiloartropatia e artrite juvenil por defeito em LACC1), nas quais o AINE poderia oferecer, no máximo, alívio sintomático, sem modificar a doença.
 
 ## Evidências de Ensaios Clínicos
 
@@ -72,7 +72,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados; não há registro vigente. Principais registros (5 de 20):
+O medicamento está comercializado, com 20 registros válidos. Principais registros (5 de 20):
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -101,7 +101,7 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta, mas não há nenhum ensaio clínico nem publicação (nível L5), e não existe vínculo mecanístico plausível entre a inibição da COX e a deficiência de GDF5/CDMP1. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão tem pontuação alta, mas não há nenhum ensaio clínico nem publicação (nível L5), e não existe vínculo mecanístico plausível entre a inibição da COX e a deficiência de GDF5/CDMP1. Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula do ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.

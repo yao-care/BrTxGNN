@@ -4,17 +4,17 @@ title: Pegfilgrastim
 parent: Apenas Predição do Modelo (L5)
 nav_order: 512
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-13
 description: "Pegfilgrastim: nova indicação prevista, Retinopatia diabética não proliferativa grave (severe nonproliferativ… (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Pegfilgrastim"
-predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "primary release disorder of platelets", "diabetic cataract", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "drug-induced osteoporosis", "senile cataract", "cortical cataract", "nuclear senile cataract"]
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
 ---
 
 # Pegfilgrastim
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **retinopatia diabética não pro
 |------|------|
 | Indicação Original | Não disponível nos dados compilados |
 | Nova Indicação Prevista | Retinopatia diabética não proliferativa grave (severe nonproliferative diabetic retinopathy) |
-| Pontuação de Previsão TxGNN | 99,89% |
+| Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 11) |
+| Número de Registros | 11 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,9 +59,8 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 Uma hipótese especulativa é que a mobilização de células progenitoras poderia influenciar o reparo vascular da retina. Por outro lado, a inflamação induzida pelo G-CSF poderia igualmente piorar a patologia retiniana. Não há vínculo mecanístico estabelecido nos dados disponíveis.
 
-A pontuação muito alta do TxGNN (0,999) é apenas uma previsão do modelo e não é respaldada por evidências clínicas ou de literatura. A segunda previsão, retinopatia diabética (termo mais amplo), compartilha a mesma racionalidade especulativa (pontuação de 99,73%).
+A pontuação muito alta do TxGNN (0,9989) é apenas uma previsão do modelo e não é respaldada por evidências clínicas ou de literatura. A segunda previsão, retinopatia diabética (termo mais amplo), compartilha a mesma racionalidade especulativa (pontuação de 0,9973).
 
-Outras previsões do modelo, todas com evidência L5 e sem vínculo biológico plausível identificado, incluem: distúrbio primário de liberação plaquetária (98,37%), catarata diabética (98,25%), pseudodoença de von Willebrand (98,03%), trombastenia de Glanzmann (97,69%), osteoporose induzida por fármacos (96,75%, com possível efeito prejudicial, pois o G-CSF pode ativar osteoclastos), catarata senil (96,37%), catarata cortical (96,31%) e catarata senil nuclear (96,31%).
 
 ## Considerações de Segurança
 

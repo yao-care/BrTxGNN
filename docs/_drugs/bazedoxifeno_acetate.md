@@ -8,6 +8,7 @@ nav_order: 109
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bazedoxifeno Acetate
@@ -49,8 +50,8 @@ Bazedoxifeno Acetato é um modulador seletivo do receptor de estrogênio (SERM) 
 | Nova Indicação Prevista | Sem previsão disponível (pipeline TxGNN não executado) |
 | Pontuação de Previsão TxGNN | N/D |
 | Nível de Evidência | L5 — apenas dados de log de consulta, sem estudos nem previsão de modelo |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

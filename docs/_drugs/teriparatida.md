@@ -8,6 +8,7 @@ nav_order: 618
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Teriparatida
@@ -51,8 +52,8 @@ Teriparatida é um análogo sintético do hormônio paratireoidiano humano (PTH 
 | Nova Indicação Prevista | **Não disponível** — `predicted_indications` está vazio |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | **Não avaliável** — sem previsões |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 3 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | **Hold** |
 
 ---

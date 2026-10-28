@@ -49,10 +49,10 @@ Observação: entre as 10 previsões, a que reúne mais evidências é **schwann
 |------|------|
 | Indicação Original | Agentes antineoplásicos e imunomoduladores |
 | Nova Indicação Prevista | Lentiginose generalizada familiar (familial generalized lentiginosis) |
-| Pontuação de Previsão TxGNN | 99,96% |
+| Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

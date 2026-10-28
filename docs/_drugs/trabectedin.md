@@ -48,10 +48,10 @@ atualmente com **1 ensaio clínico** (de baixa relevância) e **20 publicações
 |------|------|
 | Indicação Original | Antineoplásico (texto genérico do registro, sem detalhamento) |
 | Nova Indicação Prevista | Carcinoma de mama feminino (female breast carcinoma) |
-| Pontuação de Previsão TxGNN | 99,73% |
-| Nível de Evidência | L2 (apenas de forma frágil: o único ensaio listado é de fase 2, mas não avalia eficácia; há estudos de fase 2 na literatura) |
-| Situação no Mercado Brasileiro | Apenas cancelado (sem registro válido) |
-| Número de Registros | 1 (cancelado) |
+| Pontuação de Previsão TxGNN | 0,9973 |
+| Nível de Evidência | L5 (apenas de forma frágil: o único ensaio listado é de fase 2, mas não avalia eficácia; há estudos de fase 2 na literatura) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

@@ -4,7 +4,7 @@ title: Lenvatinib
 parent: Evidência Alta (L1-L2)
 nav_order: 399
 evidence_level: L2
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Lenvatinib: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L2). Indicação original: Antineoplásico (agentes antineoplásicos e imunomoduladores)"
 monitor_inn: "lenvatinib"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 # Lenvatinib
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,6 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 Lenvatinibe é um inibidor de múltiplas quinases (VEGFR, FGFR, PDGFRα, KIT e RET), registrado no Brasil como antineoplásico.
 O modelo TxGNN prevê que pode ser eficaz para **lipossarcoma (Liposarcoma)**, atualmente com **1 ensaio clínico** e **4 publicações** relacionados a esta direção (apenas 1 delas é um estudo clínico direto).
-Observação: entre as previsões, o **carcinoma renal (Renal Carcinoma)** é a que conta com a evidência mais robusta (L1, Fase 3 CLEAR), sendo apresentado em destaque na conclusão.
 
 ## Visão Geral Rápida
 
@@ -48,10 +47,10 @@ Observação: entre as previsões, o **carcinoma renal (Renal Carcinoma)** é a 
 |------|------|
 | Indicação Original | Antineoplásico (agentes antineoplásicos e imunomoduladores) |
 | Nova Indicação Prevista | Lipossarcoma (Liposarcoma) |
-| Pontuação de Previsão TxGNN | 99,51% |
+| Pontuação de Previsão TxGNN | 0,9951 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 5 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold (com pergunta de pesquisa em aberto) |
 
 ## Por que Esta Previsão é Razoável?
@@ -110,7 +109,7 @@ Um estudo de Fase Ib/II (LEADER) combinou lenvatinibe com eribulina, um inibidor
 **Decisão: Hold**
 
 **Justificativa:**
-Para o lipossarcoma há apenas um estudo de braço único em combinação (Fase 1/2), sem comparador randomizado, o que caracteriza uma pergunta de pesquisa e não uma evidência confirmatória. Além disso, todos os 5 registros no Brasil estão cancelados.
+Para o lipossarcoma há apenas um estudo de braço único em combinação (Fase 1/2), sem comparador randomizado, o que caracteriza uma pergunta de pesquisa e não uma evidência confirmatória. Além disso, o medicamento é comercializado no Brasil, com 5 registros válidos de 5.
 
 **Para prosseguir, é necessário:**
 - Ensaio randomizado de Fase 2/3 em lipossarcoma que isole a contribuição do lenvatinibe.
@@ -121,17 +120,11 @@ Para o lipossarcoma há apenas um estudo de braço único em combinação (Fase 
 
 | Indicação | Pontuação TxGNN | Nível | Recomendação |
 |---|---|---|---|
-| Carcinoma renal (renal carcinoma) | 99,37% | L1 | Proceed with Guardrails |
-| Carcinoma renal não classificado | 99,49% | L2 | Pergunta de pesquisa |
-| Carcinoma renal com translocação Xp11.2/fusão TFE3 | 99,49% | L3 | Pergunta de pesquisa |
-| Carcinoma renal associado a neuroblastoma | 99,49% | L5 | Hold |
-| Lipossarcoma mixoide ovariano | 99,47% | L5 | Hold |
-| Carcinoma de células renais infantil | 99,38% | L5 | Hold |
-| Angiolipoma | 99,35% | L5 | Hold |
-| Pneumotórax espontâneo familiar | 99,29% | L5 | Hold |
-| Síndrome endócrino-cérebro-osteodisplasia | 99,21% | L5 | Hold |
+| Lipossarcoma mixoide ovariano | 0,9947 | L5 | Hold |
+| Angiolipoma | 0,9935 | L5 | Hold |
+| Pneumotórax espontâneo familiar | 0,9929 | L5 | Hold |
+| Síndrome endócrino-cérebro-osteodisplasia | 0,9921 | L5 | Hold |
 
-**Destaque: carcinoma renal (renal carcinoma).** Esta é a previsão com a evidência mais forte: o estudo de Fase 3 CLEAR (PMIDs 33616314 e 38227898) mostrou benefício de lenvatinibe + pembrolizumabe frente a sunitinibe, e um estudo randomizado de Fase 2 (PMID 26482279) apoiou lenvatinibe + everolimo. Trata-se, na prática, de uma indicação já estabelecida em outros países. Recomendação: **Proceed with Guardrails**, com verificação da situação regulatória local (registros cancelados), uso conforme os esquemas combinados aprovados e manejo padrão de toxicidade (hipertensão, proteinúria, hepatotoxicidade).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

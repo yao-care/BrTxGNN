@@ -4,17 +4,17 @@ title: Sodium Citrate
 parent: Apenas Predição do Modelo (L5)
 nav_order: 591
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Sodium Citrate: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L5). Indicação original: Antitussígenos"
 monitor_inn: "Sodium citrate"
-predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "acute laryngopharyngitis", "stomach disease", "postgastrectomy syndrome", "gastroduodenitis", "familial visceral myopathy", "rosacea conjunctivitis", "allergic urticaria", "intestinal obstruction"]
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "stomach disease", "postgastrectomy syndrome", "gastroduodenitis", "familial visceral myopathy", "rosacea conjunctivitis", "allergic urticaria"]
 ---
 
 # Sodium Citrate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **conjuntivite papilar (papillary
 |------|------|
 | Indicação Original | Antitussígenos |
 | Nova Indicação Prevista | Conjuntivite papilar (papillary conjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,95% |
+| Pontuação de Previsão TxGNN | 0,9995 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 5 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,21 +59,19 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 A única ligação com a nova indicação é a categoria oftálmica histórica de alguns registros. Trata-se de uma associação frouxa: os dados compilados não sustentam um vínculo mecanístico entre o citrato de sódio e a conjuntivite papilar, e a similaridade com a indicação original não foi avaliada.
 
-A pontuação do TxGNN é muito alta (99,95%), mas ela expressa a posição relativa da previsão no modelo, não evidência de eficácia. Sem estudos, esta previsão deve ser tratada como hipótese.
+A pontuação do TxGNN é muito alta (0,9995), mas ela expressa a posição relativa da previsão no modelo, não evidência de eficácia. Sem estudos, esta previsão deve ser tratada como hipótese.
 
 ### Outras indicações previstas
 
 | Posição | Indicação prevista | Pontuação TxGNN | Nível | Observação |
 |---|---|---|---|---|
-| 2 | Doença da cavidade nasal | 99,95% | L5 | Proximidade apenas aproximada com vias aéreas superiores; sem evidência |
-| 3 | Laringofaringite aguda | 99,94% | L5 | Plausível pela classe antitussígena/orofaríngea; sem estudos |
-| 4 | Doença gástrica | 99,89% | L4 | Estudos pré-clínicos apenas, com associação a 3-bromopiruvato em câncer gástrico |
-| 5 | Síndrome pós-gastrectomia | 99,79% | L5 | Sem evidência |
-| 6 | Gastroduodenite | 99,62% | L5 | Literatura indireta |
-| 7 | Miopatia visceral familiar | 99,42% | L5 | Sem mecanismo plausível |
-| 8 | Conjuntivite rosácea | 99,27% | L5 | Sem evidência |
-| 9 | Urticária alérgica | 99,18% | L5 | Sem evidência |
-| 10 | Obstrução intestinal | 98,90% | L4 | Literatura indireta e de baixa qualidade |
+| 2 | Doença da cavidade nasal | 0,9995 | L5 | Proximidade apenas aproximada com vias aéreas superiores; sem evidência |
+| 4 | Doença gástrica | 0,9989 | L4 | Estudos pré-clínicos apenas, com associação a 3-bromopiruvato em câncer gástrico |
+| 5 | Síndrome pós-gastrectomia | 0,9979 | L5 | Sem evidência |
+| 6 | Gastroduodenite | 0,9962 | L5 | Literatura indireta |
+| 7 | Miopatia visceral familiar | 0,9942 | L5 | Sem mecanismo plausível |
+| 8 | Conjuntivite rosácea | 0,9927 | L5 | Sem evidência |
+| 9 | Urticária alérgica | 0,9918 | L5 | Sem evidência |
 
 ## Evidências de Ensaios Clínicos
 
@@ -125,7 +123,7 @@ Para advertências e contraindicações de bula, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para conjuntivite papilar se apoia apenas no modelo (L5), sem ensaios ou literatura e sem mecanismo plausível nos dados disponíveis. Além disso, todos os registros no Brasil estão cancelados.
+- A previsão para conjuntivite papilar se apoia apenas no modelo (L5), sem ensaios ou literatura e sem mecanismo plausível nos dados disponíveis. Além disso, o medicamento é comercializado no Brasil, com 5 registros válidos de 5.
 
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank).

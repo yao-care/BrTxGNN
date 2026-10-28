@@ -39,7 +39,7 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 ## Resumo em Uma Frase
 
 O fenol foi registrado no Brasil para usos como diluente e veículo de medicamentos, removedor de secreção do conduto auditivo externo e anestésico local.
-O modelo TxGNN prevê que pode ser eficaz para **acrodermatite crônica atrófica (acrodermatitis chronica atrophicans)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se apenas de uma previsão baseada em grafo de conhecimento.
+O modelo TxGNN prevê que pode ser eficaz para **acrodermatite crônica atrófica (acrodermatitis chronica atrophicans)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se apenas de uma previsão do modelo TxGNN (aprendizado profundo).
 
 ---
 
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **acrodermatite crônica atrófic
 |------|------|
 | Indicação Original | Diluentes e veículos de medicamentos |
 | Nova Indicação Prevista | Acrodermatite crônica atrófica (acrodermatitis chronica atrophicans) |
-| Pontuação de Previsão TxGNN | 99,95% |
+| Pontuação de Previsão TxGNN | 0,9995 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 3 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -61,7 +61,7 @@ O modelo TxGNN prevê que pode ser eficaz para **acrodermatite crônica atrófic
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o fenol é um agente antisséptico e desnaturante de proteínas, usado de forma tópica ou local. Sua eficácia como anestésico local e antisséptico é conhecida, mas não há relação mecanística estabelecida com a nova indicação.
 
-A acrodermatite crônica atrófica é uma infecção cutânea tardia causada por *Borrelia*, tratada com antibióticos. Não há vínculo farmacológico plausível entre o fenol e essa doença, e é improvável que ele tenha efeito terapêutico. A pontuação alta do TxGNN reflete uma previsão baseada na estrutura do grafo, sem respaldo clínico ou de literatura.
+A acrodermatite crônica atrófica é uma infecção cutânea tardia causada por *Borrelia*, tratada com antibióticos. Não há vínculo farmacológico plausível entre o fenol e essa doença, e é improvável que ele tenha efeito terapêutico. A pontuação alta do TxGNN (0.9995) vem do modelo de aprendizado profundo e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 Outras previsões do modelo (dermatomiosite neonatal e amiopática, doença pulmonar intersticial pediátrica associada a doença do tecido conjuntivo, hidroa vacciniforme familiar, retinopatia diabética não proliferativa grave e olho seco) também não têm ensaios clínicos nem fundamento mecanístico. A única exceção parcial é a **queloide acneiforme (acne keloid)**, com evidência indireta de peeling químico com fenol em cicatrizes de acne (PMID 17204096, nível L4). Ela foi mencionada apenas como alternativa a ser investigada, pois não é a indicação principal desta avaliação.
 
@@ -104,7 +104,7 @@ Consulte a bula para advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é apenas computacional (L5), sem ensaios clínicos nem publicações, sem plausibilidade mecanística e com preocupações relevantes de segurança. Todos os registros brasileiros do fármaco estão cancelados.
+- A previsão é apenas computacional (L5), sem ensaios clínicos nem publicações, sem plausibilidade mecanística e com preocupações relevantes de segurança. No Brasil, o fármaco está comercializado, com 3 registros válidos de 3.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança).

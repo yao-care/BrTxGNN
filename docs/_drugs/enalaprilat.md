@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Anti-hipertensivos |
 | Nova Indicação Prevista | Glaucoma Hereditário Primário (Primary Hereditary Glaucoma) |
-| Pontuação de Previsão TxGNN | 99,09% |
+| Pontuação de Previsão TxGNN | 0,9909 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -88,7 +88,7 @@ Para as demais informações de segurança, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A única sustentação é a alta pontuação do modelo (99,09%), sem nenhum ensaio clínico ou publicação. O mecanismo é especulativo e pouco conectado às causas genéticas do glaucoma hereditário primário. Além disso, o produto está com registro cancelado no Brasil e é de uso intravenoso.
+- A única sustentação é a alta pontuação do modelo (0,9909), sem nenhum ensaio clínico ou publicação. O mecanismo é especulativo e pouco conectado às causas genéticas do glaucoma hereditário primário. Além disso, o produto está com registro cancelado no Brasil e é de uso intravenoso.
 
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank) e avaliar a relevância do sistema renina-angiotensina ocular no glaucoma hereditário.

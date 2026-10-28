@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-## Treonina: De nutrição especial e parenteral para gastroparesia
+## Treonina: De nutrição especial e parenteral para Gastroparesia (Gastroparesis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,23 +48,23 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Produtos para dietas especiais |
 | Nova Indicação Prevista | Gastroparesia (Gastroparesis) |
-| Pontuação de Previsão TxGNN | 99,32% |
+| Pontuação de Previsão TxGNN | 0,9932 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 17 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 17) |
+| Número de Registros | 17 (ativos: 17) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a treonina é um aminoácido essencial presente em formulações nutricionais e parenterais (como soluções de aminoácidos e sistemas de nutrição parenteral), e seu uso em nutrição foi estabelecido.
 
-Não há, nos dados compilados para este relatório, um vínculo mecanístico comprovado entre a treonina e a gastroparesia. Não foi apresentado nenhum papel documentado da treonina na motilidade gástrica ou na fisiopatologia da doença. A pontuação do TxGNN (0,993) é apenas um resultado computacional, sem respaldo de estudos clínicos ou de literatura.
+Não há, nos dados compilados para este relatório, um vínculo mecanístico comprovado entre a treonina e a gastroparesia. Não foi apresentado nenhum papel documentado da treonina na motilidade gástrica ou na fisiopatologia da doença. A pontuação do TxGNN (0,9932) é apenas um resultado computacional, sem respaldo de estudos clínicos ou de literatura.
 
 Uma conexão indireta possível seria o suporte nutricional (enteral ou parenteral) para pacientes com gastroparesia que não conseguem se alimentar adequadamente. Isso seria cuidado de suporte, e não tratamento modificador da doença, e não há evidências disso nestes dados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 17 registros encontrados estão cancelados. São listados abaixo os 5 principais.
+Dos 17 registros encontrados, 17 estão válidos. São listados abaixo os 5 principais.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -86,13 +86,13 @@ Para advertências e contraindicações completas, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para gastroparesia tem apenas respaldo computacional (nível L5), sem ensaios clínicos ou literatura, e sem mecanismo plausível documentado. Além disso, todos os registros brasileiros estão cancelados.
+A previsão para gastroparesia tem apenas respaldo computacional (nível L5), sem ensaios clínicos ou literatura, e sem mecanismo plausível documentado. O escore de 0.9932 vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 17 registros válidos de 17.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da treonina e de uma possível relação com a motilidade gástrica
 - Busca sistemática de ensaios clínicos e literatura sobre treonina em gastroparesia
 - Bulas da ANVISA com advertências e contraindicações, para a triagem de segurança
-- Esclarecimento da situação regulatória atual (todos os registros cancelados) e das vias de administração compatíveis com a nova indicação
+- Esclarecimento da situação regulatória atual (medicamento comercializado, com 17 registros válidos de 17) e das vias de administração compatíveis com a nova indicação
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

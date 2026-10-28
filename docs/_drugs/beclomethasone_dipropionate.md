@@ -48,17 +48,17 @@ atualmente com **0 ensaios clínicos** e **9 publicações** relacionadas, em su
 |------|------|
 | Indicação Original | Antiasmáticos |
 | Nova Indicação Prevista | Eczema atópico (atopic eczema) |
-| Pontuação de Previsão TxGNN | 99,41% |
+| Pontuação de Previsão TxGNN | 0,9941 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 13 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
+| Número de Registros | 13 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o dipropionato de beclometasona é um agonista do receptor de glicocorticoides, com efeitos anti-inflamatórios e imunossupressores. Sua eficácia em asma e em usos de corticosteroide tópico está estabelecida.
 
-A dermatite atópica é impulsionada por vias inflamatórias que os corticosteroides suprimem: citocinas pró-inflamatórias e atividade de linfócitos T e eosinófilos. Além disso, as indicações originais do fármaco já incluem o uso como corticosteroide tópico. Por isso, a pontuação alta (0,994) é coerente com a farmacologia conhecida, e a indicação se descreve melhor como uma extensão de formulação ou via dentro da classe dos corticosteroides do que como reposicionamento inovador.
+A dermatite atópica é impulsionada por vias inflamatórias que os corticosteroides suprimem: citocinas pró-inflamatórias e atividade de linfócitos T e eosinófilos. Além disso, as indicações originais do fármaco já incluem o uso como corticosteroide tópico. Por isso, a pontuação alta (0,9941) é coerente com a farmacologia conhecida, e a indicação se descreve melhor como uma extensão de formulação ou via dentro da classe dos corticosteroides do que como reposicionamento inovador.
 
 Há uma ressalva mecanística: um estudo in vitro (PMID 8765824) relatou aumento da produção espontânea de IgE com corticosteroides tópicos em pacientes com dermatite atópica.
 
@@ -82,7 +82,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 13 registros encontrados estão cancelados; não há registro válido atualmente. Principais registros:
+Os 13 registros encontrados estão válidos (13 de 13); o medicamento é comercializado. Principais registros:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -108,7 +108,7 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos registrados e a literatura é majoritariamente indireta ou voltada à segurança. A indicação é uma extensão dentro da classe dos corticosteroides, e não reposicionamento inovador. Além disso, todos os 13 registros no Brasil estão cancelados e faltam dados de bula, o que impede a triagem de segurança.
+- Não há ensaios clínicos registrados e a literatura é majoritariamente indireta ou voltada à segurança. A indicação é uma extensão dentro da classe dos corticosteroides, e não reposicionamento inovador. Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos (de 13), mas faltam dados de bula, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).

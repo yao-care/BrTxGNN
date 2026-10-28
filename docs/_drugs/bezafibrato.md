@@ -8,6 +8,7 @@ nav_order: 133
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bezafibrato
@@ -51,8 +52,8 @@ São necessárias etapas adicionais de coleta de dados (MOA, indicações aprova
 | Nova Indicação Prevista | Não disponível neste Evidence Pack |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | Não disponível |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 18 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 18) |
+| Número de Registros | 18 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ---

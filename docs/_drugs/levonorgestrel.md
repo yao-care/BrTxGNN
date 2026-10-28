@@ -4,7 +4,7 @@ title: Levonorgestrel
 parent: Evidência Moderada (L3-L4)
 nav_order: 414
 evidence_level: L4
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Levonorgestrel: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Osteoporose pós-menopausa / osteoporose"
 monitor_inn: "LEVONORGESTREL"
@@ -14,7 +14,7 @@ predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant 
 # Levonorgestrel
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **6** 
+Nível de evidência: **L4** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ atualmente com **0 ensaios clínicos** e **20 publicações** recuperadas, em su
 |------|------|
 | Indicação Original | Osteoporose pós-menopausa / osteoporose (conforme o grafo de conhecimento; não há indicação registrada na ANVISA) |
 | Nova Indicação Prevista | Acne (acne (disease)) |
-| Pontuação de Previsão TxGNN | 99,88% |
+| Pontuação de Previsão TxGNN | 0,9988 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Não comercializado (nos dados compilados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

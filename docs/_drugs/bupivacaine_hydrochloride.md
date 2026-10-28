@@ -8,6 +8,7 @@ nav_order: 163
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Bupivacaine Hydrochloride
@@ -51,8 +52,8 @@ Combinado à ausência de registro no mercado brasileiro e à falta de dados de 
 | Nova Indicação Prevista | Não disponível |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | — (sem previsão gerada) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros ANVISA | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
+| Número de Registros ANVISA | 12 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ---

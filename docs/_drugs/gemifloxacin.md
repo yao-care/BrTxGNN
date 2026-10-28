@@ -40,7 +40,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 Gemifloxacino (FACTIVE) é um antibiótico fluoroquinolônico, registrado na ANVISA na categoria "antibióticos sistêmicos simples".
 O modelo TxGNN prevê que pode ser eficaz para **síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão é puramente baseada em grafo de conhecimento.
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; a previsão vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 ## Visão Geral Rápida
 
@@ -48,21 +48,21 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antibióticos sistêmicos simples |
 | Nova Indicação Prevista | Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) |
-| Pontuação de Previsão TxGNN | 99,89% |
+| Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o gemifloxacino pertence à classe das fluoroquinolonas, que inibem a DNA girase e a topoisomerase IV bacterianas, e sua utilidade como antibacteriano é reconhecida.
 
-Na prática, **a previsão principal não parece razoável do ponto de vista biológico**. A hiperviscosidade policlonal decorre do aumento de imunoglobulinas ou proteínas séricas, algo que um antibacteriano não deveria corrigir. A pontuação elevada (99,89%) reflete apenas conectividade no grafo de conhecimento, sem ensaios ou literatura que a sustentem. Outras previsões do topo da lista (hiperamilasemia, analbuminemia congênita, gamopatia monoclonal, entre outras) também carecem de base mecanística.
+Na prática, **a previsão principal não parece razoável do ponto de vista biológico**. A hiperviscosidade policlonal decorre do aumento de imunoglobulinas ou proteínas séricas, algo que um antibacteriano não deveria corrigir. A pontuação elevada (0,9989) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica, sem ensaios ou literatura que a sustentem. Outras previsões do topo da lista (hiperamilasemia, analbuminemia congênita, gamopatia monoclonal, entre outras) também carecem de base mecanística.
 
 Entre as previsões analisadas, as mais plausíveis são infecções, por extrapolação de classe:
-- **Peste septicêmica** (pontuação 99,67%, nível L4): fluoroquinolonas como ciprofloxacino, levofloxacino e moxifloxacino são opções reconhecidas contra *Yersinia pestis*. Seria necessário teste de suscetibilidade in vitro e dados em modelos animais.
-- **Endomiometrite** (pontuação 99,30%, nível L4): infecção pélvica polimicrobiana; o gemifloxacino tem cobertura limitada de anaeróbios e já existem esquemas consolidados (como clindamicina + gentamicina).
+- **Peste septicêmica** (pontuação 0,9967, nível L4): fluoroquinolonas como ciprofloxacino, levofloxacino e moxifloxacino são opções reconhecidas contra *Yersinia pestis*. Seria necessário teste de suscetibilidade in vitro e dados em modelos animais.
+- **Endomiometrite** (pontuação 0,9930, nível L4): infecção pélvica polimicrobiana; o gemifloxacino tem cobertura limitada de anaeróbios e já existem esquemas consolidados (como clindamicina + gentamicina).
 
 ## Considerações de Segurança
 

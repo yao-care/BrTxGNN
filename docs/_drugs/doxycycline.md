@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Doxycycline
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 278
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Doxycycline: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L4). Indicação original: Antibióticos sistêmicos simples (classe das t…"
@@ -14,7 +14,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis exte
 # Doxycycline
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -51,10 +51,10 @@ O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial pu
 |------|------|
 | Indicação Original | Antibióticos sistêmicos simples (classe das tetraciclinas) |
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,94% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 4 |
+| Pontuação de Previsão TxGNN | 0,9994 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -116,7 +116,7 @@ Para advertências e demais contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Para a indicação de maior pontuação (ceratoconjuntivite epitelial punctata), não há ensaios clínicos e a única publicação é um relato de casos indireto (nível L4). Além disso, todos os registros brasileiros estão cancelados, e os dados de mecanismo e de bula estão ausentes.
+- Para a indicação de maior pontuação (ceratoconjuntivite epitelial punctata), não há ensaios clínicos e a única publicação é um relato de casos indireto (nível L4). Além disso, o medicamento é comercializado no Brasil, com 4 dos 4 registros válidos, e os dados de mecanismo e de bula estão ausentes.
 
 **Para prosseguir, é necessário:**
 - Obter o mecanismo de ação no DrugBank e as advertências e contraindicações da bula na ANVISA (lacunas de dados de gravidade bloqueante e alta).
@@ -129,9 +129,9 @@ Para advertências e demais contraindicações, consulte a bula.
 | Indicação | Nível de evidência | Recomendação nos dados | Comentário |
 |------|------|------|------|
 | Gengivite crônica | L3 | Proceed with Guardrails | Há vários estudos clínicos com doxiciclina em dose subantimicrobiana ou de uso local como adjuvante da raspagem e alisamento radicular, mas a maioria avalia periodontite, e não gengivite. É preciso confirmar os desenhos dos estudos por leitura do texto completo e limitar o uso à dose subantimicrobiana ou local, para reduzir a resistência antimicrobiana |
-| Transtorno pós-bacteriano | L1 (dados) | Research Question | Os ensaios de profilaxia pós-exposição (doxy-PEP) tratam da prevenção de ISTs e não de um transtorno pós-infeccioso. Há preocupação com resistência antimicrobiana e efeitos no microbioma, e o encaixe com o rótulo é frouxo. O ensaio de fase 2/3 sobre febre recorrente (NCT00237016) é a evidência mais direta de prevenção |
+| Transtorno pós-bacteriano | L5 (dados) | Research Question | Os ensaios de profilaxia pós-exposição (doxy-PEP) tratam da prevenção de ISTs e não de um transtorno pós-infeccioso. Há preocupação com resistência antimicrobiana e efeitos no microbioma, e o encaixe com o rótulo é frouxo. O ensaio de fase 2/3 sobre febre recorrente (NCT00237016) é a evidência mais direta de prevenção |
 | Síndrome pós-infecciosa | L2 (dados) | Research Question | O único ensaio de fase 3 (NCT07658976) ainda não iniciou o recrutamento, e a literatura é heterogênea |
-| Otite externa, vasculite pós-infecciosa, estenose uretral infecciosa, cardiomiopatia chagásica, ceratite por exposição | L4 | Hold | Evidência indireta; na cardiomiopatia chagásica, o estudo pré-clínico não mostrou efeito aditivo sobre o benznidazol |
+| Otite externa, vasculite pós-infecciosa, estenose uretral infecciosa, cardiomiopatia chagásica, ceratite por exposição | L5 | Hold | Evidência indireta; na cardiomiopatia chagásica, o estudo pré-clínico não mostrou efeito aditivo sobre o benznidazol |
 | Síndrome hemolítico-urêmica associada a infecção | L5 | Hold | Sem estudos. Antibióticos costumam ser evitados na SHU associada a STEC, por poderem aumentar a liberação da toxina Shiga, o que representa risco de segurança |
 ## Aviso de isenção de responsabilidade
 

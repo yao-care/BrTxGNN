@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 287
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-13
-description: "Empagliflozin: nova indicação prevista, Síndrome da pessoa rígida clássica (classic stiff person syndrome) (nível de evidência L5). Indicação original: Diabetes mellitus tipo 2"
 monitor_inn: "EMPAGLIFLOZIN"
-predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
+predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
+last_modified_at: 2026-10-23
+description: "Empagliflozin: nova indicação prevista, Síndrome do membro rígido focal (nível de evidência L5). Indicação original: Diabetes mellitus tipo 2"
 ---
 
 # Empagliflozin
@@ -33,67 +33,67 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-## Empagliflozina: Do diabetes mellitus tipo 2 à síndrome da pessoa rígida clássica
+## Empagliflozina: Do diabetes mellitus tipo 2 à síndrome do membro rígido focal
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Empagliflozina é um inibidor de SGLT2, originalmente usado no tratamento do diabetes mellitus tipo 2.
-O modelo TxGNN prevê que pode ser eficaz para a **síndrome da pessoa rígida clássica (classic stiff person syndrome)**,
-mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
+Empagliflozina é um inibidor do SGLT2, originalmente usado no tratamento do diabetes mellitus tipo 2.
+O modelo TxGNN prevê que pode ser eficaz para a **síndrome do membro rígido focal (focal stiff limb syndrome)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Diabetes mellitus tipo 2 |
-| Nova Indicação Prevista | Síndrome da pessoa rígida clássica (classic stiff person syndrome) |
-| Pontuação de Previsão TxGNN | 99,06% |
+| Indicação Original | Diabetes mellitus tipo 2 (relação registrada no grafo de conhecimento; os registros locais não trazem texto de indicação) |
+| Nova Indicação Prevista | Síndrome do membro rígido focal |
+| Pontuação de Previsão TxGNN | 0,9906 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
+
+Outras previsões do modelo, também sem qualquer evidência: síndrome da pessoa rígida clássica (99,06%) e opsismodisplasia (99,03%).
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a empagliflozina pertence à classe dos inibidores do cotransportador sódio-glicose tipo 2 (SGLT2), que reduz a reabsorção renal de glicose, e sua eficácia no diabetes tipo 2 está estabelecida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a empagliflozina inibe o cotransportador sódio-glicose tipo 2 (SGLT2) nos rins, reduzindo a reabsorção de glicose e a glicemia.
 
-A síndrome da pessoa rígida é um distúrbio autoimune da neurotransmissão GABAérgica (associado a anticorpos anti-GAD65). Não há vínculo biológico estabelecido com a inibição de SGLT2. Qualquer conexão plausível, como modulação da inflamação ou efeitos metabólicos, é especulativa.
+A análise do mecanismo **não identificou um vínculo biológico crível**. A síndrome do membro rígido focal é um distúrbio neurológico raro, de natureza provavelmente autoimune, associado a prejuízo da inibição GABAérgica (frequentemente com anticorpos anti-GAD65 ou anti-anfifisina). Não se conhece nenhuma via que ligue a inibição do SGLT2 a esse mecanismo.
 
-A pontuação alta (0,991) reflete uma previsão baseada em grafo de conhecimento. A variante da síndrome, a **síndrome do membro rígido focal (focal stiff limb syndrome)**, recebeu exatamente a mesma pontuação, o que sugere que a previsão é guiada por doenças vizinhas no grafo, e não por biologia específica do fármaco. Uma terceira previsão, a **opsismodisplasia** (pontuação 99,03%), é uma displasia esquelética rara ligada a mutações em INPPL1 (SHIP2, regulador negativo da sinalização PI3K/insulina). O vínculo com a via da insulina é indireto e não validado para a empagliflozina. Todas devem ser tratadas apenas como hipóteses.
+A pontuação alta (0,9903) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, como a autoimunidade anti-GAD associada ao diabetes, e não evidência biológica direta. A previsão deve ser tratada apenas como geradora de hipóteses. O mesmo raciocínio vale para a síndrome da pessoa rígida clássica. Para a opsismodisplasia (mutações em INPPL1/SHIP2, via de sinalização da insulina), a sobreposição temática é tênue e o uso pediátrico levantaria preocupações de segurança (depleção de volume, cetoacidose, efeitos sobre o crescimento).
 
-## Evidências de Ensaios Clínicos
+## Informações de Comercialização no Brasil
 
-Atualmente não há ensaios clínicos relacionados registrados.
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| 105831024 | Empagliflozina (Germed) | Não informada | Texto de indicação não disponível |
+| 103670172 | Jardiance | Não informada | Texto de indicação não disponível |
+| 103670176 | Glyxambi | Não informada | Texto de indicação não disponível |
+| 102351414 | Glempa | Não informada | Texto de indicação não disponível |
+| 102351416 | Empagliflozina (EMS) | Não informada | Texto de indicação não disponível |
 
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
+Há 8 registros válidos no total; são listados os 5 principais. Os registros constam como produto isolado nos dados compilados.
 
 ## Considerações de Segurança
 
-- **Interações Medicamentosas**: foram identificadas 100 interações no total (fonte: DDInter). Entre as listadas, a maioria é de gravidade **moderada**, por exemplo:
-  - Simpatomiméticos e broncodilatadores: fenilefrina, pseudoefedrina, epinefrina, formoterol, salbutamol
-  - Anti-hipertensivos e diuréticos: acebutolol, nifedipino, fosinopril, acetazolamida, furosemida
-  - Hormônios e corticoides: etinilestradiol, hidrocortisona
-  - Outros: etanol, fosamprenavir, fosfenitoína, fostamatinibe, fostemsavir, gemifloxacino
-  - Interações de gravidade **leve**: hidrocortisona tópica e alclometasona tópica
+- **Interações Medicamentosas**: foram identificadas 100 interações no total; a maioria dos exemplos é de gravidade moderada. Entre as principais: fenilefrina, acebutolol, acetazolamida, formoterol, pseudoefedrina, nifedipino, epinefrina, etinilestradiol, hidrocortisona, salbutamol, etanol, furosemida e fosinopril. Há também interações menores com corticoides tópicos (hidrocortisona tópica e alclometasona tópica).
 
-Consulte a bula para advertências e contraindicações.
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-Não há ensaios clínicos nem literatura que sustentem a previsão (nível L5), e não existe elo mecanístico plausível entre a inibição de SGLT2 e a síndrome da pessoa rígida. Além disso, o fármaco não está comercializado no Brasil, e os dados de segurança da bula estão ausentes.
+- Não há ensaios clínicos nem publicações para nenhuma das indicações previstas, e não se identificou vínculo mecanístico crível. A pontuação alta do modelo, isoladamente, não sustenta avanço.
 
 **Para prosseguir, é necessário:**
-- Obter os dados do mecanismo de ação da empagliflozina (DrugBank)
-- Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa necessária antes da triagem de segurança
-- Realizar revisão sistemática da literatura e busca de estudos pré-clínicos que sustentem um vínculo biológico com a síndrome da pessoa rígida
-- Esclarecer a situação regulatória no Brasil, já que não há registros vigentes nos dados compilados
-- Avaliar a compatibilidade de via de administração e a similaridade com a indicação original, hoje pendentes
+- Obter os dados de mecanismo de ação da empagliflozina e reavaliar o vínculo biológico com a doença prevista
+- Baixar e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
+- Realizar revisão da literatura e estudos pré-clínicos que abordem diretamente a síndrome do membro rígido focal
+- Avaliar a plausibilidade clínica frente a alternativas terapêuticas imunomoduladoras já utilizadas nessas síndromes
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

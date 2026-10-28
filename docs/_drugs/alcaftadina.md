@@ -8,6 +8,7 @@ nav_order: 37
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alcaftadina
@@ -49,8 +50,8 @@ Alcaftadina é um anti-histamínico oftálmico antagonista H1, indicado para a p
 | Nova Indicação Prevista | — Sem previsão TxGNN disponível |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---

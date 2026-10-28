@@ -6,9 +6,9 @@ nav_order: 458
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-13
-description: "Midazolam: nova indicação prevista, Insônia (insomnia) (nível de evidência L3). Indicação original: Ansiedade"
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
+description: "Midazolam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L3). Indicação original: Não consta nos dados locais"
 ---
 
 # Midazolam
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **1**
 
 </div>
 
-## Midazolam: Da ansiedade à insônia
+## Midazolam: Insônia (insomnia (disease))
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,11 +46,11 @@ atualmente com **2 ensaios clínicos** (ambos de relevância indireta) e **10 pu
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Ansiedade (conforme o grafo de conhecimento do TxGNN; não há texto de indicação de registro no Brasil) |
-| Nova Indicação Prevista | Insônia (insomnia) |
-| Pontuação de Previsão TxGNN | 99,74% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Insônia (insomnia (disease)) |
+| Pontuação de Previsão TxGNN | 0.9974 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -60,7 +60,7 @@ Não há dados detalhados do mecanismo de ação registrados para este fármaco.
 
 A ansiedade e a insônia compartilham a mesma base farmacológica: a potencialização do GABA reduz a excitação do sistema nervoso central, o que alivia a ansiedade e favorece a indução e a manutenção do sono. Esse mecanismo é comum a hipnóticos benzodiazepínicos já aprovados, como flurazepam e triazolam, o que torna a previsão do TxGNN (pontuação elevada) coerente.
 
-Vale ressaltar que o midazolam oral já foi estudado como hipnótico nas décadas de 1980 e 1990 e, segundo a análise compilada, é comercializado como hipnótico em alguns países. Assim, a insônia pode ser considerada uma indicação já existente em outras regiões, e não um reposicionamento propriamente inédito. A classificação "não comercializado" pode refletir limitações regionais ou da base de dados.
+Vale ressaltar que o midazolam oral já foi estudado como hipnótico nas décadas de 1980 e 1990 e, segundo a análise compilada, é comercializado como hipnótico em alguns países. Assim, a insônia pode ser considerada uma indicação já existente em outras regiões, e não um reposicionamento propriamente inédito.
 
 ## Evidências de Ensaios Clínicos
 

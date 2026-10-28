@@ -4,17 +4,17 @@ title: Propofol
 parent: Evidência Alta (L1-L2)
 nav_order: 554
 evidence_level: L2
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Propofol: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L2). Indicação original: Não disponível nos dados de registro da ANVISA (uso conhecido: aneste…"
 monitor_inn: "Propofol"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia", "atrophoderma vermiculata"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 ---
 
 # Propofol
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Enxaqueca (Migraine Disorder)**
 |------|------|
 | Indicação Original | Não disponível nos dados de registro da ANVISA (uso conhecido: anestesia geral e sedação) |
 | Nova Indicação Prevista | Enxaqueca (Migraine Disorder) |
-| Pontuação de Previsão TxGNN | 99,69% |
+| Pontuação de Previsão TxGNN | 0,9969 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Não comercializado (nos dados compilados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -109,7 +109,7 @@ Há um ensaio de Phase 2/3 concluído (n=74) e vários ensaios randomizados publ
 - Confirmar o mecanismo de ação em fonte oficial (por exemplo, DrugBank).
 - Realizar ensaios randomizados maiores e controlados, com definição de dose subanestésica, desfechos de recidiva e segurança.
 - Definir protocolo restrito a ambiente hospitalar/pronto-socorro com monitorização cardiorrespiratória e hemodinâmica, dada a via intravenosa e o risco de depressão respiratória e hipotensão.
-- Avaliar o risco em pacientes com as condições apontadas pelo grafo de conhecimento (epilepsia, hipotensão, insuficiência respiratória, distúrbios lipídicos) e em doença coronariana.
+- Avaliar o risco em pacientes com epilepsia, hipotensão, insuficiência respiratória, distúrbios lipídicos e em doença coronariana.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

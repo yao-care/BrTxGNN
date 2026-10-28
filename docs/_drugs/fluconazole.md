@@ -4,17 +4,17 @@ title: Fluconazole
 parent: Apenas Predição do Modelo (L5)
 nav_order: 319
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
 description: "Fluconazole: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antimicóticos sistêmicos"
 monitor_inn: "Fluconazole"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "Plasmodium falciparum malaria", "allergic urticaria", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "pneumocystosis", "blood group incompatibility", "premalignant hematological system disease", "papular urticaria"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 ---
 
 # Fluconazole
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antimicóticos sistêmicos |
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,24% |
+| Pontuação de Previsão TxGNN | 0,9924 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -58,7 +58,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o fluconazol é um antifúngico triazólico que inibe a enzima fúngica CYP51 (lanosterol 14-α-desmetilase), bloqueando a síntese de ergosterol na membrana do fungo.
 
-A ceratoconjuntivite epitelial punctata é geralmente de origem viral (adenovírus) ou inflamatória. Não há vínculo mecanístico evidente com a ação antifúngica do fluconazol, e a similaridade com a indicação original ainda não foi avaliada. A pontuação alta do TxGNN (99,24%) deve ser interpretada apenas como um sinal computacional, sem respaldo clínico.
+A ceratoconjuntivite epitelial punctata é geralmente de origem viral (adenovírus) ou inflamatória. Não há vínculo mecanístico evidente com a ação antifúngica do fluconazol, e a similaridade com a indicação original ainda não foi avaliada. A pontuação alta do TxGNN (0,9924) deve ser interpretada apenas como um sinal computacional, sem respaldo clínico.
 
 ### Outras indicações previstas (contexto)
 
@@ -66,10 +66,6 @@ O modelo também previu outras indicações, todas com evidência limitada:
 
 | Posição | Indicação | Pontuação | Nível | Observação |
 |------|------|------|------|------|
-| 2 | Malária por *Plasmodium falciparum* | 98,62% | L4 | Apenas um estudo *in vitro* e uma revisão; atividade antiplasmódica de azóis geralmente fraca |
-| 7 | Pneumocistose | 97,82% | L4 | *Pneumocystis* não possui ergosterol, então azóis em geral não são eficazes; o único ensaio listado (NCT04368559) testa rezafungina, não fluconazol |
-| 8 | Incompatibilidade de grupo sanguíneo | 97,75% | L5 | Literatura reflete apenas contexto de transplante e interação com tacrolimo |
-| Demais (urticária alérgica, hiperamilasemia, síndrome de hiperviscosidade policlonal, analbuminemia congênita, doença hematológica pré-maligna, urticária papular) | | 97,3% a 98,3% | L5 | Sem evidências e sem mecanismo plausível |
 
 ## Evidências de Ensaios Clínicos
 
@@ -77,7 +73,7 @@ Atualmente não há ensaios clínicos relacionados registrados para ceratoconjun
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontram-se cancelados; não há registro vigente. Principais registros (5 de 20):
+O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -108,7 +104,7 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 - Obter os dados do mecanismo de ação (por exemplo, via DrugBank) e avaliar a relação mecanística com a doença.
 - Baixar e analisar a bula na ANVISA para advertências e contraindicações, etapa que bloqueia a triagem de segurança.
 - Realizar busca sistemática de literatura e ensaios sobre fluconazol em ceratoconjuntivite epitelial punctata.
-- Esclarecer a situação regulatória (todos os registros cancelados) e a compatibilidade de via de administração (oftálmica vs. sistêmica).
+- Esclarecer a situação regulatória (medicamento comercializado, com 20 registros válidos) e a compatibilidade de via de administração (oftálmica vs. sistêmica).
 - Se houver interesse em alternativas, a malária por *P. falciparum* (L4) poderia ser priorizada para estudos pré-clínicos, mas com baixa expectativa de eficácia.
 ## Aviso de isenção de responsabilidade
 

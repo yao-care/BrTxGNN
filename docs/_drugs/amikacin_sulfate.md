@@ -8,6 +8,7 @@ nav_order: 51
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amikacin Sulfate
@@ -51,8 +52,8 @@ Atualmente, **não há ensaios clínicos nem publicações** vinculadas a uma no
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (0 registros encontrados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ---

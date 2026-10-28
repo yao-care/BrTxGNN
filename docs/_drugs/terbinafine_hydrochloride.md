@@ -8,6 +8,7 @@ nav_order: 615
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Terbinafine Hydrochloride
@@ -53,8 +54,8 @@ Sem previsão de indicação-alvo, a análise de reposicionamento não pode avan
 | Nova Indicação Prevista | — (nenhuma previsão gerada neste ciclo) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 — sem previsão do modelo |
-| Situação no Mercado Brasileiro | Não encontrado na fonte consultada (verificar ANVISA) |
-| Número de Registros | 0 (consulta atual) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 17) |
+| Número de Registros | 17 (ativos: 17) |
 | Decisão Recomendada | **Hold** |
 
 ---

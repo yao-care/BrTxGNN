@@ -6,9 +6,9 @@ nav_order: 409
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
-description: "Levodopa: nova indicação prevista, Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). Indicação original: Doença de Parkinson e síndromes parkinsonianas relac…"
 monitor_inn: "LEVODOPA"
 predicted_indications: ["Rasmussen subacute encephalitis"]
+description: "Levodopa: nova indicação prevista, Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Levodopa
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-## Levodopa: Da doença de Parkinson à encefalite subaguda de Rasmussen
+## Levodopa: Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,11 +46,11 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Doença de Parkinson e síndromes parkinsonianas relacionadas (conforme o grafo de conhecimento; não há indicação em bula brasileira) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis) |
-| Pontuação de Previsão TxGNN | 99,06% |
+| Pontuação de Previsão TxGNN | 0.9906 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (nos dados compilados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 7) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 A encefalite de Rasmussen é uma doença rara, crônica e unilateral, caracterizada por convulsões focais refratárias e atrofia progressiva de um hemisfério cerebral, causada por lesão imunomediada por linfócitos T. A levodopa não tem ação anti-inflamatória, anticonvulsivante ou imunomoduladora conhecida que seja relevante para essa doença.
 
-A pontuação elevada do TxGNN provavelmente reflete vizinhos compartilhados no grafo de conhecimento (por exemplo, envolvimento dos gânglios da base, transtornos do movimento ou fenótipos neurológicos sobrepostos), e não uma justificativa terapêutica real. Portanto, o vínculo mecanístico é fraco e não está documentado. Teoricamente, a levodopa poderia até piorar convulsões ou sintomas neuropsiquiátricos, embora isso não seja sustentado pelos dados fornecidos.
+A pontuação elevada do TxGNN (0.9906) vem do modelo de deep learning TxGNN e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas (por exemplo, envolvimento dos gânglios da base, transtornos do movimento ou fenótipos neurológicos sobrepostos), e não evidência biológica nem uma justificativa terapêutica real. Portanto, o vínculo mecanístico é fraco e não está documentado. Teoricamente, a levodopa poderia até piorar convulsões ou sintomas neuropsiquiátricos, embora isso não seja sustentado pelos dados fornecidos.
 
 ## Considerações de Segurança
 
@@ -83,7 +83,7 @@ Advertências principais e contraindicações da bula não estão disponíveis; 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia apenas na pontuação do modelo (L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível. Além disso, a levodopa não está comercializada no Brasil segundo os dados compilados, e há contraindicação teórica em epilepsia.
+A previsão se apoia apenas na pontuação do modelo (L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da levodopa e uma hipótese biológica explícita ligando-a à encefalite de Rasmussen

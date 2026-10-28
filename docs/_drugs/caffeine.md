@@ -4,17 +4,17 @@ title: Caffeine
 parent: Apenas Predição do Modelo (L5)
 nav_order: 172
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Caffeine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Estimulantes respiratórios"
 monitor_inn: "Caffeine"
-predicted_indications: ["nasal cavity disease", "thrombotic disease", "acute laryngopharyngitis", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
+predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
 ---
 
 # Caffeine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ O modelo TxGNN prevê que ela pode ser eficaz para **doença da cavidade nasal (
 |------|------|
 | Indicação Original | Estimulantes respiratórios |
 | Nova Indicação Prevista | Doença da cavidade nasal (nasal cavity disease) |
-| Pontuação de Previsão TxGNN | 99,91% |
+| Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A relação com a doença nasal é plausível, mas não comprovada. Receptores de sabor amargo (TAS2R) presentes nas vias aéreas são ativados pela cafeína e podem regular o batimento ciliar e a defesa inata. A única literatura específica para o nariz é um estudo de formulação de gel intranasal de cafeína para cognição após privação de sono, que visa a entrega do nariz ao cérebro e não o tratamento de doença nasal.
 
-A pontuação alta do TxGNN (99,91%) não é sustentada por dados clínicos. A previsão deve ser tratada como hipótese a explorar, não como evidência de eficácia.
+A pontuação alta do TxGNN (0,9991) não é sustentada por dados clínicos. A previsão deve ser tratada como hipótese a explorar, não como evidência de eficácia.
 
 ## Evidências de Ensaios Clínicos
 
@@ -75,7 +75,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados. Os cinco principais são:
+Há 20 registros válidos e o medicamento está comercializado. Os cinco principais são:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -97,7 +97,7 @@ Consulte a bula para advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia apenas no modelo e em literatura indireta, sem ensaios clínicos (nível L5). Além disso, todos os 20 registros brasileiros estão cancelados, e há um amplo conjunto de contraindicações potenciais no grafo de conhecimento.
+A previsão se apoia apenas no modelo e em literatura indireta, sem ensaios clínicos (nível L5). Além disso, há um amplo conjunto de contraindicações potenciais no grafo de conhecimento.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna de dados que bloqueia a triagem de segurança

@@ -4,17 +4,17 @@ title: Potassium
 parent: Evidência Alta (L1-L2)
 nav_order: 536
 evidence_level: L1
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-13
-description: "Potassium: nova indicação prevista, Transtorno hipertensivo (hypertensive disorder) (nível de evidência L1). Indicação original: Outros produtos com ação no trato urinário"
 monitor_inn: "Potassium"
-predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "congestive heart failure", "alopecia", "congenital hypotrichosis milia"]
+predicted_indications: ["hypertensive disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
+description: "Potassium: nova indicação prevista, Transtorno hipertensivo (hypertensive disorder) (nível de evidência L1). Indicação original: OUTROS PRODUTOS COM ACAO NO TRATO URINARIO"
 ---
 
 # Potassium
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L1** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-## Potássio: De produtos para o trato urinário, reidratação oral e suplementação mineral para transtorno hipertensivo
+## Potassium: Transtorno hipertensivo (hypertensive disorder)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,12 +45,12 @@ O modelo TxGNN prevê que pode ser eficaz para **transtorno hipertensivo (hypert
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Outros produtos com ação no trato urinário |
+| Indicação Original | OUTROS PRODUTOS COM ACAO NO TRATO URINARIO; REIDRATANTES ORAIS; VITAMINAS OU MINERAIS ASSOCIADOS A OUTROS FARMACOS |
 | Nova Indicação Prevista | Transtorno hipertensivo (hypertensive disorder) |
-| Pontuação de Previsão TxGNN | 99,16% |
+| Pontuação de Previsão TxGNN | 0.9916 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 6 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
+| Número de Registros | 6 (ativos: 6) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -94,7 +94,7 @@ Observação: vários outros ensaios recuperados (por exemplo, NCT01302691, NCT0
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontram-se **cancelados**; atualmente não há produto de potássio com registro válido nos dados compilados.
+Todos os 6 registros encontram-se **válidos** (6 de 6); atualmente há produto de potássio comercializado com registro válido nos dados compilados.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -118,7 +118,7 @@ Consulte a bula para as demais informações de segurança.
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Para transtorno hipertensivo há meta-análises de ensaios randomizados e ensaios de Fase 3 concluídos com potássio, o que sustenta nível L1 e uma direção plausível. Porém, os ensaios diretamente relevantes são pequenos ou antigos, os registros brasileiros estão todos cancelados e a evidência refere-se à ingestão/suplementação de potássio, não a um medicamento específico. As demais indicações previstas devem permanecer em **Hold** (ou, no caso da insuficiência cardíaca congestiva, como questão de pesquisa), pois a evidência é indireta ou inexistente.
+Para transtorno hipertensivo há meta-análises de ensaios randomizados e ensaios de Fase 3 concluídos com potássio, o que sustenta nível L1 e uma direção plausível. Porém, os ensaios diretamente relevantes são pequenos ou antigos, os registros brasileiros estão todos cancelados e a evidência refere-se à ingestão/suplementação de potássio, não a um medicamento específico.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), hoje ausentes nos dados compilados

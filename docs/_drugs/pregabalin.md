@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pregabalin
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 548
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-13
-description: "Pregabalin: nova indicação prevista, Tendinite (tendinitis) (nível de evidência L4). Indicação original: Transtorno de ansiedade, fibromialgia…"
 monitor_inn: "PREGABALIN"
-predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
+predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
+description: "Pregabalin: nova indicação prevista, Tendinite (tendinitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Pregabalin
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **6** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-## Pregabalina: Da dor neuropática e fibromialgia à tendinite
+## Pregabalin: Tendinite (tendinitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,11 +45,11 @@ O modelo TxGNN prevê que pode ser eficaz para **tendinite (tendinitis)**, mas, 
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Transtorno de ansiedade, fibromialgia, síndrome de dor miofascial e neuralgia pós-herpética (segundo o grafo de conhecimento; não há registros no Brasil) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Tendinite (tendinitis) |
-| Pontuação de Previsão TxGNN | 99,71% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
+| Pontuação de Previsão TxGNN | 0.9971 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 13) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -101,7 +101,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 ### Outras indicações previstas (resumo)
 
-Os dados compilados incluem outras indicações previstas. A mais avançada é a **enxaqueca (migraine disorder)**, com pontuação de 99,47% e nível L2. Há um ensaio de Fase 3 retirado (NCT00447369) e ensaios randomizados pediátricos pequenos, comparando a pregabalina com valproato e propranolol. A recomendação é tratá-la como **questão de pesquisa**, pois não há evidência confirmatória de Fase 3. As demais indicações (miosite granulomatosa idiopática, miosite fibrosa, miosite por corpos de inclusão e enxaqueca com aura do tronco encefálico) têm apenas previsão do modelo ou estudos pré-clínicos (L4–L5) e permanecem em **Hold**.
+Os dados compilados incluem outras indicações previstas. A mais avançada é a **enxaqueca (migraine disorder)**, com pontuação de 0,9947 e nível L2. Há um ensaio de Fase 3 retirado (NCT00447369) e ensaios randomizados pediátricos pequenos, comparando a pregabalina com valproato e propranolol. A recomendação é tratá-la como **questão de pesquisa**, pois não há evidência confirmatória de Fase 3. As demais indicações (miosite granulomatosa idiopática, miosite fibrosa, miosite por corpos de inclusão e enxaqueca com aura do tronco encefálico) têm apenas previsão do modelo ou estudos pré-clínicos (L4–L5) e permanecem em **Hold**.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

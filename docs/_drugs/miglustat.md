@@ -6,9 +6,9 @@ nav_order: 459
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Miglustat: nova indicação prevista, Doença de Tay-Sachs (Tay-Sachs disease) (nível de evidência L5). Indicação original: Outros produtos não enquadrados em classe terapêutica específica (cat…"
 monitor_inn: "miglustat"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
+description: "Miglustat: nova indicação prevista, Autosomal ichthyosis syndrome with fatal disease course (nível de evidência L5). Indicação original: OUTROS PRODS NAO ENQUADRADOS EM CLASSE TERAPEUTICA ESPECIF"
 ---
 
 # Miglustat
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Miglustate: Da indicação regulatória não especificada à doença de Tay-Sachs
+## Miglustat: Autosomal ichthyosis syndrome with fatal disease course
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,15 +47,15 @@ O modelo TxGNN prevê que pode ser eficaz para a **doença de Tay-Sachs (Tay-Sac
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Outros produtos não enquadrados em classe terapêutica específica (categoria regulatória na ANVISA; indicação clínica não detalhada) |
-| Nova Indicação Prevista | Doença de Tay-Sachs (Tay-Sachs disease) |
-| Pontuação de Previsão TxGNN | 99,75% |
-| Nível de Evidência | L1 (conforme classificação dos dados compilados; ver ressalva abaixo) |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Indicação Original | OUTROS PRODS NAO ENQUADRADOS EM CLASSE TERAPEUTICA ESPECIF |
+| Nova Indicação Prevista | Autosomal ichthyosis syndrome with fatal disease course |
+| Pontuação de Previsão TxGNN | 0.9983 |
+| Nível de Evidência | L5 (conforme classificação dos dados compilados; ver ressalva abaixo) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Proceed with Guardrails |
 
-**Ressalva sobre a escolha da indicação:** a primeira indicação da lista de previsões (ictiose autossômica com curso fatal, pontuação 99,83%) não tem nenhum ensaio ou publicação. Neste relatório, foi destacada a doença de Tay-Sachs (7ª colocada, 99,75%), pois é a única previsão com evidências reais. As demais previsões estão resumidas ao final.
+**Ressalva sobre a escolha da indicação:** a primeira indicação da lista de previsões (ictiose autossômica com curso fatal, pontuação 0,9983) não tem nenhum ensaio ou publicação. Neste relatório, foi destacada a doença de Tay-Sachs (7ª colocada, 0,9975), pois é a única previsão com evidências reais. As demais previsões estão resumidas ao final.
 
 **Ressalva sobre o nível de evidência:** o nível L1 foi atribuído nos dados compilados, mas os ensaios de Fase 3 listados são pequenos (n=10 e n=30), um deles foi encerrado precocemente e nenhum demonstrou eficácia clara. O nível deve ser interpretado com cautela.
 
@@ -141,15 +141,15 @@ Todas com nível L5 e recomendação **Hold**, sem ensaios clínicos ou literatu
 
 | Posição | Doença | Pontuação TxGNN | Observação |
 |------|------|------|------|
-| 1 | Síndrome de ictiose autossômica com curso fatal | 99,83% | Vínculo apenas teórico com o metabolismo de glicoesfingolipídios e ceramidas da epiderme |
-| 2 | Doença de armazenamento de ésteres de colesterol | 99,82% | Deficiência de lipase ácida lisossômica; sem relevância mecanística clara |
-| 3 | Doença de Krabbe | 99,78% | Conceito de redução de substrato plausível, mas não validado; o substrato difere do alvo principal |
-| 4 | Leucodistrofia metacromática | 99,77% | Vínculo indireto (via do sulfatídeo distinta da glicosilceramida) |
-| 5 | Doença de Wolman com hipolipoproteinemia e acantocitose | 99,76% | Deficiência de lipase ácida; sem vínculo claro |
-| 6 | Encefalopatia por deficiência de prosaposina | 99,75% | Redução de substrato conceitualmente plausível, sem evidência clínica |
-| 8 | Neoplasia benigna da glândula adrenal | 99,74% | Nenhum mecanismo plausível identificado |
-| 9 | Ictiose recessiva ligada ao X | 99,73% | Vínculo especulativo |
-| 10 | Neurodegeneração associada à hidroxilase de ácidos graxos | 99,72% | Direção do efeito incerta |
+| 1 | Síndrome de ictiose autossômica com curso fatal | 0,9983 | Vínculo apenas teórico com o metabolismo de glicoesfingolipídios e ceramidas da epiderme |
+| 2 | Doença de armazenamento de ésteres de colesterol | 0,9982 | Deficiência de lipase ácida lisossômica; sem relevância mecanística clara |
+| 3 | Doença de Krabbe | 0,9978 | Conceito de redução de substrato plausível, mas não validado; o substrato difere do alvo principal |
+| 4 | Leucodistrofia metacromática | 0,9977 | Vínculo indireto (via do sulfatídeo distinta da glicosilceramida) |
+| 5 | Doença de Wolman com hipolipoproteinemia e acantocitose | 0,9976 | Deficiência de lipase ácida; sem vínculo claro |
+| 6 | Encefalopatia por deficiência de prosaposina | 0,9975 | Redução de substrato conceitualmente plausível, sem evidência clínica |
+| 8 | Neoplasia benigna da glândula adrenal | 0,9974 | Nenhum mecanismo plausível identificado |
+| 9 | Ictiose recessiva ligada ao X | 0,9973 | Vínculo especulativo |
+| 10 | Neurodegeneração associada à hidroxilase de ácidos graxos | 0,9972 | Direção do efeito incerta |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -8,6 +8,7 @@ nav_order: 507
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Paliperidona Palmitate
@@ -53,8 +54,8 @@ Não há ensaios clínicos nem publicações vinculados a novas indicações nes
 | Nova Indicação Prevista | Nenhuma previsão gerada neste ciclo |
 | Pontuação de Previsão TxGNN | N/D |
 | Nível de Evidência | N/D — sem previsão disponível |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ---

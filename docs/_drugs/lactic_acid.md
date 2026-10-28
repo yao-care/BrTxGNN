@@ -47,26 +47,26 @@ O modelo TxGNN prevê que pode ser eficaz para **coarctação atípica da aorta 
 |------|------|
 | Indicação Original | Demulcentes e outros medicamentos de uso oral para tratamento da orofaringe |
 | Nova Indicação Prevista | Coarctação atípica da aorta (atypical coarctation of aorta) |
-| Pontuação de Previsão TxGNN | 99,59% |
+| Pontuação de Previsão TxGNN | 0,9959 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. O ácido lático é um metabólito endógeno, e seu uso original (demulcente para a orofaringe) é de ação local e sintomática.
 
-Os dados compilados para este relatório não sustentam um vínculo mecanístico. A coarctação da aorta é um defeito vascular estrutural congênito, e o ácido lático não tem papel conhecido na sua patogênese ou tratamento. A pontuação alta do TxGNN (99,59%) reflete uma previsão baseada em grafo de conhecimento, sem validação experimental ou clínica. A indicação original e a nova indicação não guardam relação entre si.
+Os dados compilados para este relatório não sustentam um vínculo mecanístico. A coarctação da aorta é um defeito vascular estrutural congênito, e o ácido lático não tem papel conhecido na sua patogênese ou tratamento. A pontuação alta do TxGNN (0,9959) reflete uma previsão do modelo TxGNN (aprendizado profundo), sem validação experimental ou clínica. A indicação original e a nova indicação não guardam relação entre si.
 
 **Outras indicações previstas (todas sem evidência sólida):**
 
 | Posição | Indicação prevista | Pontuação TxGNN | Nível de Evidência | Comentário |
 |------|------|------|------|------|
-| 2 | Malformação aórtica | 99,35% | L5 | 14 publicações recuperadas, nenhuma trata o ácido lático como terapia (cirurgia cardíaca pediátrica, stents biodegradáveis, biomarcadores). Provável correspondência apenas por palavras-chave. |
-| 3 | Malformação esofágica não sindrômica | 99,23% | L5 | Sem ensaios nem literatura. |
-| 4 | Amenorreia | 99,16% | L5 | Um único estudo observacional em babuínos (microbiota vaginal); associação indireta. |
-| 5 | Síndrome do olho seco | 99,13% | L4 | Estudos pré-clínicos com bactérias do ácido lático, não com o ácido lático em si. É a hipótese de pesquisa mais plausível, ainda que fraca. |
+| 2 | Malformação aórtica | 0,9935 | L5 | 14 publicações recuperadas, nenhuma trata o ácido lático como terapia (cirurgia cardíaca pediátrica, stents biodegradáveis, biomarcadores). Provável correspondência apenas por palavras-chave. |
+| 3 | Malformação esofágica não sindrômica | 0,9923 | L5 | Sem ensaios nem literatura. |
+| 4 | Amenorreia | 0,9916 | L5 | Um único estudo observacional em babuínos (microbiota vaginal); associação indireta. |
+| 5 | Síndrome do olho seco | 0,9913 | L4 | Estudos pré-clínicos com bactérias do ácido lático, não com o ácido lático em si. É a hipótese de pesquisa mais plausível, ainda que fraca. |
 
 ## Evidências de Ensaios Clínicos
 

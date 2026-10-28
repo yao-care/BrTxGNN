@@ -8,6 +8,7 @@ nav_order: 17
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aceclofenaco
@@ -51,7 +52,7 @@ Por este motivo, **não há candidatos de reposicionamento a avaliar** neste mom
 | Nova Indicação Prevista | Sem previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 10) |
 | Número de Registros | 20 |
 | Decisão Recomendada | Hold |
 

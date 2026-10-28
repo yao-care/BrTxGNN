@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Produtos para hemodiálise |
 | Nova Indicação Prevista | Transtorno pós-bacteriano (post-bacterial disorder) |
-| Pontuação de Previsão TxGNN | 99,98% |
+| Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 4 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -72,13 +72,13 @@ Para a indicação principal (transtorno pós-bacteriano), atualmente não há l
 
 ### Outras indicações previstas com alguma literatura
 
-**Síndrome pós-infecciosa (post-infectious syndrome)** – pontuação 99,98%, nível L5
+**Síndrome pós-infecciosa (post-infectious syndrome)** – pontuação 0,9998, nível L5
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [20848144](https://pubmed.ncbi.nlm.nih.gov/20848144/) | 2011 | Revisão sistemática | J Gastroenterol | Revisa modelos animais de síndrome do intestino irritável pós-infecciosa; trata da modelagem da doença, não do tratamento com ácido acético |
 
-**Tinea corporis** – pontuação 99,25%, nível L4 (Pergunta de pesquisa)
+**Tinea corporis** – pontuação 0,9925, nível L4 (Pergunta de pesquisa)
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
@@ -96,10 +96,10 @@ Observação: as demais referências levantadas para tinea corporis (estudos com
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada | Situação |
 |---------|------|------|-----------|------|
-| 116880014 | CPHD - Concentrado Ácido para Hemodiálise sem Glicose | Não informada | Produtos para hemodiálise | Cancelado |
-| 110850045 | Fração Ácida Ca++ 3,0 mEq/L 1:44 | Não informada | Produtos para hemodiálise | Cancelado |
-| 110850041 | Farmace CPHD - Fração Ácida com Cálcio 2,5 mEq/L | Não informada | Produtos para hemodiálise | Cancelado |
-| 116880004 | Farmarin CPHD | Não informada | Produtos para hemodiálise | Cancelado |
+| 116880014 | CPHD - Concentrado Ácido para Hemodiálise sem Glicose | Não informada | Produtos para hemodiálise | Ativo |
+| 110850045 | Fração Ácida Ca++ 3,0 mEq/L 1:44 | Não informada | Produtos para hemodiálise | Ativo |
+| 110850041 | Farmace CPHD - Fração Ácida com Cálcio 2,5 mEq/L | Não informada | Produtos para hemodiálise | Ativo |
+| 116880004 | Farmarin CPHD | Não informada | Produtos para hemodiálise | Ativo |
 
 ## Considerações de Segurança
 
@@ -114,7 +114,7 @@ Consulte a bula para as demais informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal (transtorno pós-bacteriano) e as demais previsões de maior pontuação carecem de ensaios clínicos e literatura (nível L5), e não há mecanismo plausível identificado. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão principal (transtorno pós-bacteriano) e as demais previsões de maior pontuação carecem de ensaios clínicos e literatura (nível L5), e não há mecanismo plausível identificado. Além disso, o medicamento é comercializado no Brasil, com 4 registros válidos de 4.
 - A única linha com algum respaldo é o uso tópico em tinea corporis (L4, "Pergunta de pesquisa"), baseado em relatos históricos e estudos in vitro, mas sem estudos controlados modernos.
 
 **Para prosseguir, é necessário:**

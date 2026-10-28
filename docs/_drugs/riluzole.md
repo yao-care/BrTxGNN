@@ -4,7 +4,7 @@ title: Riluzole
 parent: Apenas Predição do Modelo (L5)
 nav_order: 567
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Riluzole: nova indicação prevista, Polimicrogiria parieto-occipital parassagital bilateral (bilateral pa… (nível de evidência L5). Indicação original: Outros produtos que atuam sobre o sistema nervos"
 monitor_inn: "riluzole"
@@ -14,7 +14,7 @@ predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria
 # Riluzole
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **polimicrogiria parieto-occipita
 |------|------|
 | Indicação Original | Outros produtos que atuam sobre o sistema nervoso |
 | Nova Indicação Prevista | Polimicrogiria parieto-occipital parassagital bilateral (bilateral parasagittal parieto-occipital polymicrogyria) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 8 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o riluzol modula a transmissão glutamatérgica e reduz a excitotoxicidade, e é o tratamento de referência para a ELA.
 
-Para a polimicrogiria parieto-occipital parassagital, porém, **não há vínculo mecanístico sustentado pelos dados**. Trata-se de uma malformação do desenvolvimento cortical, e a ação do riluzol sobre a excitotoxicidade não tem relevância demonstrada para ela. A pontuação muito alta provavelmente reflete um artefato do grafo de conhecimento, e não um sinal biológico real.
+Para a polimicrogiria parieto-occipital parassagital bilateral, porém, **não há vínculo mecanístico sustentado pelos dados**. A pontuação muito alta (0.9999) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 Outras previsões do modelo são mais plausíveis por analogia com a ELA, como a síndrome do neurônio motor inferior de início tardio, a síndrome de Mills e a amiotrofia monomélica. Ainda assim, nenhuma delas conta com ensaios ou literatura nos dados compilados.
 
@@ -71,7 +71,7 @@ Atualmente não há literatura relacionada para a indicação prevista principal
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros estão cancelados; não há produto atualmente comercializado.
+O medicamento está comercializado no país, com 8 registros válidos de 8.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|

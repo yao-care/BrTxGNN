@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** que apoiem dire
 |------|------|
 | Indicação Original | Antissépticos urinários – associações medicamentosas |
 | Nova Indicação Prevista | Uretrite por Ureaplasma (Ureaplasma urethritis) |
-| Pontuação de Previsão TxGNN | 99,79% |
+| Pontuação de Previsão TxGNN | 0,9979 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 3 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,9 +66,9 @@ Há, porém, limitações importantes. O *Ureaplasma* produz urease, o que pode 
 
 | Indicação prevista | Pontuação TxGNN | Comentário |
 |------|------|------|
-| Uretrite gonocócica | 99,79% | Tratada com antibióticos sistêmicos (ex.: ceftriaxona); a metenamina é profilática e sem papel estabelecido em infecção tecidual ativa. Uso de agente não comprovado seria inadequado do ponto de vista de resistência antimicrobiana e saúde pública. |
-| Doença inflamatória uterina | 99,77% | O fármaco não atinge concentrações antibacterianas relevantes no tecido uterino; vínculo mecanístico fraco. |
-| Pielonefrite xantogranulomatosa | 99,73% | Infecção parenquimatosa e obstrutiva; a metenamina atua apenas na urina e a urease de *Proteus* bloqueia a liberação de formaldeído. O tratamento é cirúrgico mais antibióticos sistêmicos. |
+| Uretrite gonocócica | 0,9979 | Tratada com antibióticos sistêmicos (ex.: ceftriaxona); a metenamina é profilática e sem papel estabelecido em infecção tecidual ativa. Uso de agente não comprovado seria inadequado do ponto de vista de resistência antimicrobiana e saúde pública. |
+| Doença inflamatória uterina | 0,9977 | O fármaco não atinge concentrações antibacterianas relevantes no tecido uterino; vínculo mecanístico fraco. |
+| Pielonefrite xantogranulomatosa | 0,9973 | Infecção parenquimatosa e obstrutiva; a metenamina atua apenas na urina e a urease de *Proteus* bloqueia a liberação de formaldeído. O tratamento é cirúrgico mais antibióticos sistêmicos. |
 
 ## Evidências de Ensaios Clínicos
 

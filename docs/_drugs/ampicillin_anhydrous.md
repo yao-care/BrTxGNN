@@ -8,6 +8,7 @@ nav_order: 66
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ampicillin Anhydrous
@@ -51,8 +52,8 @@ pois o DrugBank ID não foi mapeado, impedindo a execução do algoritmo de repo
 | Nova Indicação Prevista | Nenhuma previsão gerada |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 – Sem previsão disponível |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (0 registros ANVISA) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 20) |
+| Número de Registros | 20 (ativos: 20) |
 | Decisão Recomendada | Hold |
 
 ---

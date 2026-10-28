@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **glaucoma hereditário primário
 |------|------|
 | Indicação Original | Outros produtos para uso em ginecologia e obstetrícia |
 | Nova Indicação Prevista | Glaucoma hereditário primário (primary hereditary glaucoma) |
-| Pontuação de Previsão TxGNN | 99,92% |
+| Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 4 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -61,21 +61,21 @@ O modelo TxGNN prevê que pode ser eficaz para **glaucoma hereditário primário
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo as informações farmacológicas disponíveis, o atosibana é um peptídeo que atua sobre os receptores de ocitocina (OXTR) e de vasopressina (V1A, V1B e V2). Na prática clínica, é usado como tocolítico em mulheres grávidas entre 24 e 33 semanas com sinais de trabalho de parto prematuro (aprovado pela EMA e por outras agências nacionais, mas não pelo FDA).
 
-**Não há vínculo mecanístico sustentado pelos dados** entre essa atividade e o glaucoma hereditário primário. A pontuação alta (99,92%) é apenas uma saída do modelo. Uma hipótese especulativa seria a sinalização de ocitocina/vasopressina no tecido ocular (dinâmica do humor aquoso e pressão intraocular), mas ela não tem respaldo nos dados disponíveis. A similaridade entre a indicação original e a nova indicação não foi avaliada.
+**Não há vínculo mecanístico sustentado pelos dados** entre essa atividade e o glaucoma hereditário primário. A pontuação alta (0,9992) é apenas uma saída do modelo. Uma hipótese especulativa seria a sinalização de ocitocina/vasopressina no tecido ocular (dinâmica do humor aquoso e pressão intraocular), mas ela não tem respaldo nos dados disponíveis. A similaridade entre a indicação original e a nova indicação não foi avaliada.
 
 **Outras indicações previstas** (todas com nível L5 e recomendação Hold, exceto onde indicado):
 
 | Posição | Doença prevista | Pontuação TxGNN | Observação |
 |---------|------|------|------|
-| 2 | Glaucoma de ângulo aberto | 99,92% | Apenas previsão |
-| 3 | Hipotricose congênita com milia | 99,89% | Sem justificativa mecanística |
-| 4 | Alopecia | 99,89% | Sem vínculo estabelecido |
-| 5 | Hipotricose simples do couro cabeludo | 99,89% | Sem vínculo evidenciado |
-| 6 | Doença vascular | 99,87% | L4, literatura indireta e pré-clínica |
-| 7 | Alopecia areata difusa | 99,86% | Apenas previsão |
-| 8 | Síndrome do desfiladeiro torácico arterial | 99,86% | Sem evidência |
-| 9 | Síndrome do desfiladeiro torácico venoso | 99,86% | Sem evidência |
-| 10 | Calcifilaxia visceral | 99,84% | Sem evidência |
+| 2 | Glaucoma de ângulo aberto | 0,9992 | Apenas previsão |
+| 3 | Hipotricose congênita com milia | 0,9989 | Sem justificativa mecanística |
+| 4 | Alopecia | 0,9989 | Sem vínculo estabelecido |
+| 5 | Hipotricose simples do couro cabeludo | 0,9989 | Sem vínculo evidenciado |
+| 6 | Doença vascular | 0,9987 | L4, literatura indireta e pré-clínica |
+| 7 | Alopecia areata difusa | 0,9986 | Apenas previsão |
+| 8 | Síndrome do desfiladeiro torácico arterial | 0,9986 | Sem evidência |
+| 9 | Síndrome do desfiladeiro torácico venoso | 0,9986 | Sem evidência |
+| 10 | Calcifilaxia visceral | 0,9984 | Sem evidência |
 
 A única indicação com alguma literatura é "doença vascular". Os estudos recuperados são em grande parte pré-clínicos e tratam da ocitocina (o agonista que o atosibana antagoniza) na cardioproteção em modelos de coração de rato. A direção do efeito para o atosibana, como antagonista, é incerta e pode ser oposta à observada nesses estudos.
 
@@ -90,7 +90,7 @@ A única indicação com alguma literatura é "doença vascular". Os estudos rec
 | Registro nº 155370051 | Acetato de Atosibana | Não informada | Outros produtos para uso em ginecologia e obstetrícia |
 | Registro nº 155370058 | Attosy | Não informada | Outros produtos para uso em ginecologia e obstetrícia |
 
-Todos os 4 registros estão **cancelados**; não há registro válido atualmente.
+Os 4 registros estão **válidos** (4 de 4); o medicamento é comercializado no Brasil.
 
 ---
 
@@ -109,7 +109,7 @@ Para advertências e contraindicações, consulte a bula.
 
 **Justificativa:**
 - Não há ensaios clínicos nem literatura para glaucoma hereditário primário. A previsão tem nível L5 e não há vínculo mecanístico demonstrado.
-- Além disso, o produto não tem nenhum registro válido no Brasil (todos os 4 estão cancelados).
+- Além disso, o produto tem registros válidos no Brasil (4 de 4) e é comercializado.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

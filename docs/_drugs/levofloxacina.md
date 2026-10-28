@@ -8,6 +8,7 @@ nav_order: 412
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Levofloxacina
@@ -50,8 +51,8 @@ O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco 
 | Nova Indicação Prevista | Não disponível — predição TxGNN pendente |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 4 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 4) |
+| Número de Registros | 4 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ---

@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **4 publicações** de relevância 
 |------|------|
 | Indicação Original | Nutrientes parenterais |
 | Nova Indicação Prevista | Acidose Tubular Renal (Renal Tubular Acidosis) |
-| Pontuação de Previsão TxGNN | 99,47% |
+| Pontuação de Previsão TxGNN | 0,9947 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 9 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
+| Número de Registros | 9 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 Uma possível ligação envolveria o metabolismo renal de amônia e o equilíbrio ácido-base, já que células do túbulo proximal manejam aminoácidos e produzem amônia (amoniogênese). Entretanto, nenhuma das publicações encontradas mostra o ácido aspártico tratando a acidose tubular renal.
 
-Essa doença é principalmente um defeito de transporte, frequentemente genético (por exemplo, mutações no trocador aniônico SLC4A1), e o tratamento padrão é a suplementação de álcalis, não a administração de aminoácidos. A pontuação alta do TxGNN (99,47%) é apenas uma previsão computacional, sem respaldo clínico.
+Essa doença é principalmente um defeito de transporte, frequentemente genético (por exemplo, mutações no trocador aniônico SLC4A1), e o tratamento padrão é a suplementação de álcalis, não a administração de aminoácidos. A pontuação alta do TxGNN (0,9947) é apenas uma previsão computacional, sem respaldo clínico.
 
 ## Evidências de Ensaios Clínicos
 
@@ -79,7 +79,7 @@ Nenhuma publicação testa o ácido aspártico como tratamento da acidose tubula
 
 ## Informações de Comercialização no Brasil
 
-Todos os 9 registros estão cancelados; atualmente não há registro válido.
+Os 9 registros estão válidos (9 de 9); o medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -102,14 +102,14 @@ Consulte a bula para advertências e contraindicações formais.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se baseia apenas no modelo (L5): não há ensaios clínicos, a literatura é indireta, não há ligação mecanística comprovada, e o tratamento padrão da acidose tubular renal (álcalis) é distinto. Além disso, todos os registros brasileiros estão cancelados.
+A previsão se baseia apenas no modelo (L5): não há ensaios clínicos, a literatura é indireta, não há ligação mecanística comprovada, e o tratamento padrão da acidose tubular renal (álcalis) é distinto. Além disso, o medicamento está comercializado, com 9 registros válidos de 9.
 
 **Para prosseguir, é necessário:**
 - Obter o mecanismo de ação (consulta à API do DrugBank)
 - Obter advertências e contraindicações da bula na ANVISA
 - Estudos pré-clínicos ou de mecanismo sobre aspartato, amoniogênese renal e equilíbrio ácido-base
 - Avaliar a viabilidade regulatória, dado que não há registro válido no Brasil, e a compatibilidade de vias de administração
-- Revisão de segurança renal, considerando a associação do fármaco com doença renal no grafo de conhecimento
+- Revisão de segurança renal, considerando que a previsão do modelo TxGNN (deep learning) para acidose tubular renal pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

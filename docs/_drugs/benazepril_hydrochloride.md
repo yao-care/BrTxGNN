@@ -8,6 +8,7 @@ nav_order: 115
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Benazepril Hydrochloride
@@ -49,8 +50,8 @@ Benazepril Cloridrato é um inibidor da ECA (enzima conversora de angiotensina) 
 | Nova Indicação Prevista | Nenhuma previsão TxGNN disponível |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão real gerada pelo modelo) |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ---

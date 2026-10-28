@@ -7,6 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 80
 evidence_level: L5
 indication_count: 0
+predicted_indications: []
 ---
 
 # Articaína Hydrochloride
@@ -48,8 +49,8 @@ Articaína Cloridrato é um anestésico local do tipo amida, amplamente utilizad
 | Nova Indicação Prevista | Sem previsão disponível |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (abaixo do limiar — sem previsão do modelo) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (0 registros na ANVISA) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ---

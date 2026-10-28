@@ -50,10 +50,10 @@ mas atualmente há apenas **1 ensaio clínico** (sem relevância direta) e **19 
 |------|------|
 | Indicação Original | Vasoconstritores e hipertensores |
 | Nova Indicação Prevista | Doença Pulmonar Obstrutiva (Obstructive Lung Disease) |
-| Pontuação de Previsão TxGNN | 99,84% |
+| Pontuação de Previsão TxGNN | 0,9984 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 10 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -103,7 +103,7 @@ Há ressalvas importantes: a norepinefrina não tem papel estabelecido como bron
 | Registro 104971510 | Unianora | Não informada | Vasoconstritores e hipertensores |
 | Registro 104971514 | Hemitartarato de norepinefrina monoidratada | Não informada | Vasoconstritores e hipertensores |
 
-Observação: todos os 10 registros encontrados estão cancelados; a tabela mostra apenas os 5 primeiros. Entre os demais constam produtos como Hyponor, Noradrem, Epikabi (vasoconstritores) e Xylestesin e Xylestesin com norepinefrina (anestésicos locais).
+Observação: os 10 registros encontrados estão válidos; a tabela mostra apenas os 5 primeiros. Entre os demais constam produtos como Hyponor, Noradrem, Epikabi (vasoconstritores) e Xylestesin e Xylestesin com norepinefrina (anestésicos locais).
 
 ---
 
@@ -121,7 +121,7 @@ Para advertências e contraindicações da bula, consulte a bula aprovada pela A
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos que testem a norepinefrina em doença pulmonar obstrutiva e a literatura é basicamente fisiológica ou de revisão. Além disso, a norepinefrina é um vasopressor sistêmico sem papel broncodilatador, com risco cardiovascular relevante, e todos os registros no Brasil estão cancelados.
+- Não há ensaios clínicos que testem a norepinefrina em doença pulmonar obstrutiva e a literatura é basicamente fisiológica ou de revisão. Além disso, a norepinefrina é um vasopressor sistêmico sem papel broncodilatador, com risco cardiovascular relevante, e está comercializada no Brasil, com 10 registros válidos de 10.
 
 **Para prosseguir, é necessário:**
 - Dados detalhados do mecanismo de ação (MOA) e análise da plausibilidade mecanística frente aos agonistas beta-2 já disponíveis
@@ -134,8 +134,8 @@ Para advertências e contraindicações da bula, consulte a bula aprovada pela A
 ### Observação sobre as demais previsões
 
 As outras duas indicações previstas têm evidência ainda mais fraca e também recebem decisão **Hold**:
-- **Malformação respiratória** (pontuação 99,84%, nível L5): sem ensaios clínicos; a literatura trata de controle neural da respiração e de risco de anomalias congênitas por fármacos psicotrópicos, sem justificativa terapêutica plausível.
-- **Síndrome de Rienhoff** (pontuação 99,83%, nível L5): sem ensaios clínicos nem literatura; não é possível estabelecer relação mecanística.
+- **Malformação respiratória** (pontuação 0,9984, nível L5): sem ensaios clínicos; a literatura trata de controle neural da respiração e de risco de anomalias congênitas por fármacos psicotrópicos, sem justificativa terapêutica plausível.
+- **Síndrome de Rienhoff** (pontuação 0,9983, nível L5): sem ensaios clínicos nem literatura; não é possível estabelecer relação mecanística.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

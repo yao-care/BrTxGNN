@@ -8,6 +8,7 @@ nav_order: 67
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ampicillin Sodium
@@ -51,8 +52,8 @@ A avaliação está comprometida pela ausência de registros no mercado brasilei
 | Nova Indicação Prevista | Nenhuma predição disponível |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | ✗ Não encontrado na base consultada (0 registros) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 20) |
+| Número de Registros | 20 (ativos: 20) |
 | Decisão Recomendada | Hold |
 
 ---

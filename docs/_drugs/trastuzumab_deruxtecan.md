@@ -48,19 +48,19 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antineoplásico |
 | Nova Indicação Prevista | Osteoporose induzida por fármacos (drug-induced osteoporosis) |
-| Pontuação de Previsão TxGNN | 99,31% |
+| Pontuação de Previsão TxGNN | 0,9931 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o trastuzumabe deruxtecana é um conjugado anticorpo-fármaco dirigido ao HER2, com carga citotóxica inibidora da topoisomerase I (deruxtecana), usado em oncologia.
 
-Não há vínculo mecanístico claro entre o direcionamento ao HER2 ou a inibição da topoisomerase I e o metabolismo ósseo, a regulação de osteoblastos/osteoclastos ou as vias envolvidas na perda óssea induzida por fármacos. A pontuação alta do TxGNN (0,993) é apenas uma previsão computacional, sem respaldo de ensaios ou literatura.
+Não há vínculo mecanístico claro entre o direcionamento ao HER2 ou a inibição da topoisomerase I e o metabolismo ósseo, a regulação de osteoblastos/osteoclastos ou as vias envolvidas na perda óssea induzida por fármacos. A pontuação alta do TxGNN (0,9931) é apenas uma previsão computacional, sem respaldo de ensaios ou literatura.
 
-Além disso, um ADC citotóxico é biologicamente improvável como tratamento de uma condição óssea crônica e não maligna: toxicidades conhecidas (doença pulmonar intersticial, mielossupressão, náusea, disfunção cardíaca) provavelmente superariam qualquer benefício especulativo. A própria terapia oncológica (por exemplo, falência ovariana por quimioterapia ou uso concomitante de corticoides) pode contribuir para a perda óssea, o que torna mais provável que a previsão seja um artefato do grafo de conhecimento do que um sinal terapêutico real.
+Além disso, um ADC citotóxico é biologicamente improvável como tratamento de uma condição óssea crônica e não maligna: toxicidades conhecidas (doença pulmonar intersticial, mielossupressão, náusea, disfunção cardíaca) provavelmente superariam qualquer benefício especulativo. A própria terapia oncológica (por exemplo, falência ovariana por quimioterapia ou uso concomitante de corticoides) pode contribuir para a perda óssea, o que torna mais provável que o escore do modelo TxGNN (deep learning) reflita semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica, do que um sinal terapêutico real.
 
 ## Informações de Comercialização no Brasil
 

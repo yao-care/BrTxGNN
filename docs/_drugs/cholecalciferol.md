@@ -4,17 +4,17 @@ title: Cholecalciferol
 parent: Apenas Predição do Modelo (L5)
 nav_order: 221
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-13
-description: "Cholecalciferol: nova indicação prevista, Hipoparatireoidismo isolado familiar por secreção deficiente de PTH (nível de evidência L5). Indicação original: Vitamina D e análogos"
+indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
-predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemic rickets", "renal osteodystrophy", "renal tubular acidosis"]
+predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
+last_modified_at: 2026-10-23
+description: "Cholecalciferol: nova indicação prevista, Displasia acromesomélica tipo Campailla-Martinelli (nível de evidência L5). Indicação original: Vitamina D e análogos"
 ---
 
 # Cholecalciferol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **7** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,34 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-## Colecalciferol: De vitamina D e análogos para hipoparatireoidismo isolado familiar por secreção deficiente de PTH
+## Colecalciferol: De vitamina D e análogos à displasia acromesomélica tipo Campailla-Martinelli
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Colecalciferol (vitamina D3) é registrado na ANVISA na categoria "vitamina D e análogos".
-O modelo TxGNN prevê que pode ser eficaz para **hipoparatireoidismo isolado familiar por secreção deficiente de PTH**, mas até o momento há **0 ensaios clínicos** e **0 publicações** específicas apoiando esta direção. A previsão se baseia apenas no modelo.
+Colecalciferol (vitamina D3) está registrado no Brasil na categoria "vitamina D e análogos".
+O modelo TxGNN prevê que ele possa ser eficaz para **displasia acromesomélica tipo Campailla-Martinelli (acromesomelic dysplasia, Campailla Martinelli type)**.
+Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção, ou seja, trata-se de uma previsão exclusivamente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Vitamina D e análogos |
-| Nova Indicação Prevista | Hipoparatireoidismo isolado familiar por secreção deficiente de PTH |
-| Pontuação de Previsão TxGNN | 99,79% |
+| Nova Indicação Prevista | Displasia acromesomélica tipo Campailla-Martinelli |
+| Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Número de Registros | Pelo menos 20 registros (a lista pode estar incompleta) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o colecalciferol é um pró-hormônio da vitamina D. É convertido no fígado em 25-hidroxivitamina D e, depois, no rim em calcitriol, a forma ativa. O calcitriol atua no intestino, nos ossos e nos rins para regular cálcio e fosfato.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o colecalciferol é um pró-hormônio. Ele é convertido em formas ativas de vitamina D, que atuam via receptor de vitamina D e regulam a homeostase de cálcio e fósforo. Seu uso está consolidado na reposição de vitamina D e na saúde óssea.
 
-A biologia da previsão é plausível. Metabólitos da vitamina D são usados no hipoparatireoidismo para elevar o cálcio sérico. Nessa condição, porém, há um obstáculo importante: a ativação do colecalciferol nativo depende da 1-alfa-hidroxilação renal, que é estimulada pelo PTH. Quando a secreção de PTH está comprometida, essa conversão fica prejudicada. Por isso, análogos ativos como calcitriol ou alfacalcidol costumam ser preferidos ao colecalciferol nativo.
+A displasia acromesomélica é uma doença genética rara do esqueleto. Em geral, está associada a alterações em vias de sinalização da placa de crescimento, como a via do peptídeo natriurético CNP/NPR-B. Essa via não é abordada pela vitamina D. **Não foi identificado vínculo mecanístico plausível** entre o colecalciferol e esta doença.
 
-A ligação entre a indicação original e a nova é, portanto, apenas uma previsão do grafo de conhecimento. Os dados compilados para este relatório não trazem estudos que a confirmem.
+A pontuação alta (0,9978) vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Ela não indica eficácia comprovada. Sem estudos, o mecanismo permanece hipotético.
 
 ## Evidências de Ensaios Clínicos
 
@@ -71,41 +72,37 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros localizados estão **cancelados**, e não há registro válido atualmente. Principais registros (5 de 20):
+Foram identificados pelo menos 20 registros válidos de produtos com colecalciferol isolado, e a lista pode estar incompleta. Abaixo, os 5 primeiros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100431390 | OHDE CAPS | Não informada | Vitamina D e análogos |
-| Registro 105730171 | VIT. D SOLEIL CAPS | Não informada | Vitamina D e análogos |
-| Registro 143810246 | VITAMINA D CIMED | Não informada | Vitamina D e análogos |
-| Registro 100380106 | DEFULL | Não informada | Vitamina D e análogos |
-| Registro 170420025 | VITAMINA D3 | Não informada | Análogo sintético da vitamina D |
+| Número de Registro | Nome Comercial | Indicação Aprovada |
+|---------|------|-----------|
+| Registro nº 100431390 | OHDE CAPS | Vitamina D e análogos |
+| Registro nº 105730171 | VIT. D SOLEIL CAPS | Vitamina D e análogos |
+| Registro nº 143810246 | VITAMINA D CIMED | Vitamina D e análogos |
+| Registro nº 100380106 | DEFULL | Vitamina D e análogos |
+| Registro nº 170420025 | VITAMINA D3 | Análogo sintético da vitamina D |
 
 ## Considerações de Segurança
 
-- **Contraindicações segundo o grafo de conhecimento** (relações fármaco-doença do TxGNN/PrimeKG, não texto de bula): hipertensão, doença renal, doença hepática, doença da vesícula biliar, gastrite, sarcoidose, diabetes mellitus, cetoacidose diabética, fibrilação atrial, hiperparatireoidismo, osteíte fibrosa, hipercalcemia, nefrocalcinose, distúrbios do metabolismo do fósforo, distúrbios da coagulação, anemia falciforme, hiperoxalúria primária, hemocromatose hereditária, hemossiderose, doença de Wilson, câncer de mama feminino, câncer de próstata, hiperlipidemia e hiperlipidemia familiar, entre outras.
-- **Interações medicamentosas** (56 registradas):
-  - **Gravidade maior**: calcifediol, calcitriol, di-hidrotaquisterol e doxercalciferol. Combinar análogos da vitamina D aumenta o risco de hipercalcemia.
-  - **Gravidade moderada**: diuréticos tiazídicos (clortalidona, clorotiazida, bendroflumetiazida, benzotiazida), barbitúricos (amobarbital, butabarbital, butalbital), carbamazepina, digoxina e digitoxina, e sequestrantes de ácidos biliares (colestiramina, colesevelam, colestipol).
-  - **Gravidade menor**: cimetidina.
+- **Relações de contraindicação no grafo de conhecimento** (não provêm da bula): o grafo registra contraindicações com várias condições, entre elas hipercalcemia, nefrocalcinose, hiperparatireoidismo, sarcoidose, doença renal, doença hepática, hipertensão, fibrilação atrial, diabetes e hiperlipidemia. Esses itens servem de alerta e precisam ser confirmados na bula aprovada.
+- **Interações medicamentosas**: foram identificadas 56 interações. As de gravidade **maior** envolvem outros análogos da vitamina D: calcifediol, calcitriol, di-hidrotaquisterol e doxercalciferol, com risco de efeito aditivo e hipercalcemia. As de gravidade moderada incluem tiazídicos (clortalidona, clorotiazida, bendroflumetiazida), barbitúricos, carbamazepina, digoxina e digitoxina, e sequestrantes de ácidos biliares (colestiramina, colestipol, colesevelam).
 
-Para advertências e contraindicações oficiais, consulte a bula.
+Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do modelo é muito alta (99,79%), mas não há ensaios clínicos nem literatura específica (nível L5).
-- A ativação do colecalciferol nativo depende do PTH, o que o torna menos adequado que análogos ativos nessa condição.
-- Os 20 registros brasileiros estão cancelados.
-- Na mesma lista de previsões, a **doença óssea renal (osteodistrofia renal)** tem muito mais suporte (nível L2). Inclui um ensaio de Fase 3 (NCT00752401, status desconhecido e sem resultados) e um estudo comparativo concluído contra doxercalciferol (NCT00285467). Essa indicação merece avaliação prioritária, com monitoramento de cálcio, fosfato e PTH.
+- A previsão é apenas computacional (L5), sem ensaios clínicos ou publicações. Além disso, o mecanismo de ação do colecalciferol não se relaciona com a fisiopatologia conhecida da doença.
 
 **Para prosseguir, é necessário:**
-- Dados de mecanismo de ação (MOA) e comparação direta com calcitriol/alfacalcidol no hipoparatireoidismo.
-- Revisão dirigida da literatura e dos registros de ensaios para esta doença rara.
-- Informações de segurança da bula da ANVISA, incluindo risco de hipercalcemia.
-- Verificação do status regulatório, já que não há registro válido no Brasil.
+- Dados do mecanismo de ação do colecalciferol obtidos de fonte curada, como o DrugBank.
+- Revisão da literatura sobre a fisiopatologia da displasia acromesomélica tipo Campailla-Martinelli e sua possível ligação com o metabolismo da vitamina D.
+- Evidências pré-clínicas ou clínicas que sustentem a hipótese.
+- Obtenção e análise das advertências e contraindicações da bula na ANVISA.
+
+**Observação:** outras indicações previstas para o mesmo fármaco têm base de evidências maior, em especial a osteodistrofia renal, com ensaios clínicos e publicações nos dados compilados. Elas podem merecer avaliação própria, mais promissora do que esta.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

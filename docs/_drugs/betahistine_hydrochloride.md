@@ -8,6 +8,7 @@ nav_order: 126
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Betahistine Hydrochloride
@@ -51,7 +52,7 @@ Sem previsões disponíveis, não é possível avançar para a etapa de avaliaç
 | Nova Indicação Prevista | Nenhuma gerada nesta rodada |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 — Apenas previsão do modelo, sem estudos reais |
-| Situação no Mercado Brasileiro | Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros ANVISA | 0 |
 | Decisão Recomendada | Hold |
 

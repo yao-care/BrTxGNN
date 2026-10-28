@@ -6,9 +6,9 @@ nav_order: 533
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Polidocanol: nova indicação prevista, Varizes esofágicas com sangramento (esophageal varices with bleeding) (nível de evidência L2). Indicação original: Doença varicosa (varizes)"
 monitor_inn: "Polidocanol"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "Immunoerythromyeloid hypoplasia", "pigmented paravenous retinochoroidal atrophy", "progressive bifocal chorioretinal atrophy", "X-linked retinal dysplasia", "monosomy X", "cone dystrophy", "oligocone trichromacy", "retinoschisis of fovea"]
+description: "Polidocanol: nova indicação prevista, Varizes esofágicas com sangramento (esophageal varices with bleeding) (nível de evidência L2). Indicação original: Não consta nos dados locais"
 ---
 
 # Polidocanol
@@ -33,7 +33,7 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-## Polidocanol: Da doença varicosa às varizes esofágicas com sangramento
+## Polidocanol: Varizes esofágicas com sangramento (esophageal varices with bleeding)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ atualmente com **0 ensaios clínicos registrados** e **20 publicações** apoian
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Doença varicosa (varizes) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Varizes esofágicas com sangramento (esophageal varices with bleeding) |
-| Pontuação de Previsão TxGNN | 99,95% |
+| Pontuação de Previsão TxGNN | 0.9995 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação na base compil
 
 As varizes esofágicas são veias dilatadas da parede do esôfago, geralmente decorrentes de hipertensão portal na cirrose. O mecanismo é o mesmo das varizes de membros inferiores: a injeção endoscópica do esclerosante oblitera o vaso e estanca o sangramento. A relação mecanística é direta e bem estabelecida.
 
-Um ponto de atenção: o fármaco consta como não comercializado no Brasil, e a prática atual favorece a ligadura elástica endoscópica, de modo que o papel do polidocanol seria o de alternativa ou complemento. Convém verificar a situação regulatória antes de qualquer proposta.
+Convém verificar a situação regulatória antes de qualquer proposta.
 
 ## Evidências de Ensaios Clínicos
 
@@ -94,7 +94,7 @@ Para demais informações de segurança (advertências, contraindicações e int
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há RCTs e estudos comparativos que utilizam polidocanol em varizes esofágicas sangrantes, com mecanismo direto e plausível. Contudo, as evidências são antigas, não há ensaios clínicos registrados, a ligadura endoscópica é preferida na prática atual e o fármaco não está comercializado no Brasil.
+Há RCTs e estudos comparativos que utilizam polidocanol em varizes esofágicas sangrantes, com mecanismo direto e plausível.
 
 **Para prosseguir, é necessário:**
 - Verificar a situação regulatória do polidocanol no Brasil (não há registros ativos) e a via de acesso para uso endoscópico

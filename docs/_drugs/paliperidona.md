@@ -8,6 +8,7 @@ nav_order: 506
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Paliperidona
@@ -51,8 +52,8 @@ Os dados de suporte — mecanismo de ação, detalhes dos registros e informaç�
 | Nova Indicação Prevista | Nenhuma previsão TxGNN disponível |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão de modelo nem estudos associados) |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 4 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ---

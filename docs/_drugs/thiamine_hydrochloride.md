@@ -8,6 +8,7 @@ nav_order: 631
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Thiamine Hydrochloride
@@ -51,7 +52,7 @@ Em decorrência disso, não há ensaios clínicos nem publicações vinculadas a
 | Nova Indicação Prevista | Nenhuma — TxGNN não retornou candidatos |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão do modelo) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (0 registros na ANVISA) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

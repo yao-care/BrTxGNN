@@ -4,17 +4,17 @@ title: Cyclobenzaprine
 parent: Evidência Alta (L1-L2)
 nav_order: 244
 evidence_level: L2
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-13
 description: "Cyclobenzaprine: nova indicação prevista, Síndrome de Dor Miofascial (Myofascial Pain Syndrome) (nível de evidência L2). Indicação original: Relaxantes musculares"
 monitor_inn: "Cyclobenzaprine"
-predicted_indications: ["myofascial pain syndrome", "neuralgia", "papillary conjunctivitis", "migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "sciatic neuropathy", "glossodynia", "coccygodynia", "dysthymic disorder"]
+predicted_indications: ["myofascial pain syndrome", "neuralgia", "papillary conjunctivitis"]
 ---
 
 # Cyclobenzaprine
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ atualmente com **10 ensaios clínicos** listados (a maioria de forma indireta, e
 |------|------|
 | Indicação Original | Relaxantes musculares |
 | Nova Indicação Prevista | Síndrome de Dor Miofascial (Myofascial Pain Syndrome) |
-| Pontuação de Previsão TxGNN | 99,09% |
+| Pontuação de Previsão TxGNN | 0,9909 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -89,7 +89,7 @@ A indicação original (espasmo e relaxamento muscular) está muito próxima da 
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros localizados estão **cancelados**; atualmente não há registro válido. Principais exemplos:
+Os 20 registros localizados estão **válidos**; o medicamento está comercializado no Brasil. Principais exemplos:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -112,7 +112,7 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- A dor miofascial está muito próxima da indicação original, e há ensaios randomizados pequenos em dor miofascial e distensão muscular. A evidência direta, porém, é limitada: os ensaios de Fase 3 são em fibromialgia, e todos os registros brasileiros estão cancelados.
+- A dor miofascial está muito próxima da indicação original, e há ensaios randomizados pequenos em dor miofascial e distensão muscular. A evidência direta, porém, é limitada: os ensaios de Fase 3 são em fibromialgia, e o medicamento está comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Confirmar a condição e a intervenção de cada ensaio listado, separando os ensaios em fibromialgia dos de dor miofascial.
@@ -124,10 +124,7 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 
 | Indicação | Pontuação TxGNN | Nível | Recomendação |
 |------|------|------|------|
-| Neuralgia | 99,08% | L4 | Questão de pesquisa |
-| Enxaqueca (migraine disorder) | 98,68% | L4 | Questão de pesquisa (único ensaio de Fase 3, NCT01151787, encerrado com 35 participantes) |
-| Glossodinia | 97,72% | L4 | Hold (literatura desfavorável, efeito xerogênico anticolinérgico) |
-| Conjuntivite papilar, enxaqueca com aura de tronco encefálico, síndrome da cauda equina, neuropatia ciática, coccigodinia, transtorno distímico | 97,5% a 99,1% | L5 | Hold (sem estudos) |
+| Neuralgia | 0,9908 | L4 | Questão de pesquisa |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -6,9 +6,9 @@ nav_order: 529
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Piroxicam: nova indicação prevista, Síndrome de microftalmia colobomatosa-displasia rizomélica (primeira… (nível de evidência L5). Indicação original: Artrite reumatoide, osteoartrite, artropatia"
 monitor_inn: "Piroxicam"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
+description: "Piroxicam: nova indicação prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Piroxicam
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Piroxicam: Da artrite reumatoide à artrite idiopática juvenil
+## Piroxicam: Colobomatous microphthalmia-rhizomelic dysplasia syndrome
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,15 +45,15 @@ Entre as indicações previstas pelo modelo TxGNN, a que tem maior sustentação
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Artrite reumatoide, osteoartrite, artropatia |
-| Nova Indicação Prevista | Síndrome de microftalmia colobomatosa-displasia rizomélica (primeira da lista por pontuação). A mais bem sustentada é a Artrite Idiopática Juvenil (10ª na lista) |
-| Pontuação de Previsão TxGNN | 99,996% (primeira da lista); 99,93% (artrite idiopática juvenil) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
+| Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 (primeira da lista); L3 (artrite idiopática juvenil) |
-| Situação no Mercado Brasileiro | Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 4) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold (primeira da lista); Hold com questão de pesquisa para artrite idiopática juvenil |
 
-> **Observação:** a indicação classificada em primeiro lugar pelo TxGNN não tem qualquer evidência de apoio nem plausibilidade biológica. Por isso, este relatório detalha a evidência da **artrite idiopática juvenil**, a única previsão com literatura relevante. As indicações originais vêm das relações de indicação do grafo de conhecimento do TxGNN (PrimeKG), e não de texto de bula.
+> **Observação:** a indicação classificada em primeiro lugar pelo TxGNN não tem qualquer evidência de apoio nem plausibilidade biológica. Por isso, este relatório detalha a evidência da **artrite idiopática juvenil**, a única previsão com literatura relevante.
 
 ## Por que Esta Previsão é Razoável?
 
@@ -63,7 +63,7 @@ A artrite idiopática juvenil é uma doença inflamatória articular muito próx
 
 Para as demais previsões de topo, a análise dos dados não encontrou vínculo mecanístico:
 
-- **Displasias esqueléticas e síndromes congênitas** (microftalmia colobomatosa-displasia rizomélica, braquidactilia-sindactilia, displasia acromesomélica tipo Hunter-Thompson, braquiolmia, braquiolmia-amelogênese imperfeita): têm base genética do desenvolvimento, sem relação conhecida com a inibição da COX. A pontuação alta provavelmente reflete proximidade no grafo com termos de artropatia.
+- **Displasias esqueléticas e síndromes congênitas** (microftalmia colobomatosa-displasia rizomélica, braquidactilia-sindactilia, displasia acromesomélica tipo Hunter-Thompson, braquiolmia, braquiolmia-amelogênese imperfeita): têm base genética do desenvolvimento, sem relação conhecida com a inibição da COX.
 - **Pseudoacondroplasia**: o vínculo é apenas indireto e fraco (AINEs para dor articular sintomática).
 - **Miosclerose e síndrome WHIM**: sem dados que apoiem a relação.
 - **Nodulose reumatoide**: há associação plausível com a artrite reumatoide, mas sem estudos específicos, e AINEs não tratam a formação de nódulos.
@@ -90,7 +90,6 @@ Outras revisões (nabumetona, oxaprozina, pirprofeno e sistemas de liberação d
 
 ## Informações de Comercialização no Brasil
 
-O piroxicam consta como **não comercializado** e sem registros nos dados compilados para este relatório.
 
 ## Considerações de Segurança
 
@@ -107,14 +106,13 @@ As advertências e contraindicações da bula da ANVISA não estão disponíveis
 **Decisão: Hold** (para as previsões de topo); **questão de pesquisa** para a artrite idiopática juvenil.
 
 **Justificativa:**
-- As dez indicações previstas têm pontuação TxGNN muito alta (acima de 99,9%), mas nove delas não têm ensaios nem literatura e, na maioria, nenhum vínculo biológico plausível. A artrite idiopática juvenil tem estudos com piroxicam e meta-análises de AINEs, porém antigos, pequenos e sem ensaios registrados. Por isso o nível é L3, e não L1/L2.
+- A artrite idiopática juvenil tem estudos com piroxicam e meta-análises de AINEs, porém antigos, pequenos e sem ensaios registrados. Por isso o nível é L3, e não L1/L2.
 - Não há registro no Brasil, o que também dificulta qualquer avanço regulatório.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna de dados bloqueante para a triagem de segurança.
 - Complementar os dados do mecanismo de ação (consulta ao DrugBank).
 - Avaliar nas meta-análises de 2021 e 2024 o desempenho específico do piroxicam frente a outros AINEs na artrite idiopática juvenil.
-- Definir a situação regulatória e a via de acesso do piroxicam no Brasil, já que não está comercializado.
 - Elaborar um plano de segurança pediátrica (trato gastrointestinal, função renal e hepática).
 - Descartar as previsões sem vínculo biológico (displasias e síndromes genéticas) ou revisá-las apenas com novas evidências.
 ## Aviso de isenção de responsabilidade

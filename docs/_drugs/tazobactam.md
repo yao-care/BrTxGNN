@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Tazobactam
-parent: Evidência Alta (L1-L2)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 607
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Tazobactam: nova indicação prevista, Pneumonia (pneumonia) (nível de evidência L1). Indicação original: Pneumonia bacteriana"
-monitor_inn: "Tazobactam"
-predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "bacterial arthritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Tazobactam: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
+predicted_indications: []
 ---
 
 # Tazobactam
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,70 +32,66 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-## Tazobactam: Das infecções bacterianas originais à pneumonia
+<!-- known-uses-page -->
+<!-- description: Tazobactam: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata -->
+## Tazobactam: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+Todos os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para o Tazobactam correspondem a usos já conhecidos. Por isso, não há atualmente nenhuma nova indicação prevista para este medicamento.
 
-Tazobactam é um inibidor de beta-lactamases, originalmente usado em associação com antibióticos beta-lactâmicos no tratamento de pneumonia bacteriana, peritonite, apendicite e infecções por *Staphylococcus aureus*.
-O modelo TxGNN prevê que pode ser eficaz para **Pneumonia (pneumonia)**, com **20 ensaios clínicos** e **20 publicações** apoiando esta direção.
-Como a pneumonia bacteriana já consta entre as indicações originais, este achado é, em grande parte, uma indicação já existente ou muito próxima dela, e não um reposicionamento propriamente dito.
-
-## Visão Geral Rápida
-
+## Visão geral
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Pneumonia bacteriana (a partir das indicações originais do grafo de conhecimento; não há registro no Brasil) |
-| Nova Indicação Prevista | Pneumonia (pneumonia) |
-| Pontuação de Previsão TxGNN | 99,46% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Novas indicações previstas | Nenhuma (todos os candidatos do modelo com origem rastreável são usos conhecidos) |
+| Usos conhecidos entre os candidatos do modelo | 2 |
+| Nível de evidência | Não se aplica |
+| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 10) |
+| Número de Registros | pelo menos 20 |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos entre os candidatos do modelo
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base de dados compilada. Segundo informações conhecidas, o tazobactam é um inibidor de beta-lactamases: protege antibióticos parceiros (piperacilina, ceftolozana, associações do tipo imipenem) da hidrólise por bactérias Gram-negativas resistentes que causam pneumonia nosocomial e associada à ventilação mecânica.
+### Aprovados (com respaldo em registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| pneumonia | Registro em outro país; indicação aprovada: hospital-acquired pneumonia (hap), including ventilator associated pneumonia (vap). consideration should be given to official guidance on the appropriate use of antibacterial agents |
 
-A pneumonia já está muito próxima das indicações originais (pneumonia bacteriana). Por isso, trata-se de um achado essencialmente dentro da bula ou muito próximo dela. É importante notar que a eficácia depende do antibiótico parceiro: o tazobactam não tem papel antibacteriano isolado.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| infecção do trato urinário (urinary tract infection (disease)) | urinary tract infection |
 
-## Evidências de Ensaios Clínicos
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Nenhuma |
 
-Foram identificados 20 ensaios; abaixo estão os 10 mais relevantes. A maioria testa combinações que contêm tazobactam (ceftolozana/tazobactam ou piperacilina/tazobactam), não o tazobactam isoladamente.
+## Market information
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT02070757](https://clinicaltrials.gov/study/NCT02070757) | Phase 3 | Concluído | 726 | Ceftolozana/tazobactam vs meropenem em pneumonia nosocomial ventilada; desfecho primário: não inferioridade na mortalidade por todas as causas no dia 28 |
-| [NCT02493764](https://clinicaltrials.gov/study/NCT02493764) | Phase 3 | Concluído | 537 | Imipenem/relebactam vs piperacilina/tazobactam em pneumonia hospitalar ou associada à ventilação; duplo-cego, controlado por comparador ativo |
-| [NCT00253955](https://clinicaltrials.gov/study/NCT00253955) | Phase 3 | Concluído | 460 | Levofloxacino 750 mg vs piperacilina/tazobactam em pneumonia hospitalar leve a moderada; não inferioridade de eficácia clínica |
-| [NCT01853982](https://clinicaltrials.gov/study/NCT01853982) | Phase 3 | Encerrado | 4 | Ceftolozana/tazobactam vs piperacilina/tazobactam em pneumonia associada à ventilação; encerrado com apenas 4 pacientes, sem dados úteis de eficácia |
-| [NCT04223752](https://clinicaltrials.gov/study/NCT04223752) | Phase 1 | Concluído | 41 | Segurança, tolerabilidade e farmacocinética de ceftolozana/tazobactam em crianças com pneumonia nosocomial |
-| [NCT02387372](https://clinicaltrials.gov/study/NCT02387372) | Phase 1 | Concluído | 37 | Farmacocinética plasmática e penetração pulmonar de ceftolozana/tazobactam em pacientes críticos |
-| [NCT00438269](https://clinicaltrials.gov/study/NCT00438269) | Phase 2 | Concluído | 80 | Estudo piloto randomizado sobre terapia antimicrobiana apropriada em cuidados intensivos; avalia uma estratégia, não o tazobactam especificamente |
-| [NCT06972537](https://clinicaltrials.gov/study/NCT06972537) | NA | Recrutando | 42 | Dosagem guiada por modelo vs empírica de piperacilina/tazobactam em idosos com pneumonia; sem resultados |
-| [NCT04673175](https://clinicaltrials.gov/study/NCT04673175) | Phase 4 | Encerrado | 17 | Piloto de ceftolozana/tazobactam com diagnóstico molecular rápido em *Pseudomonas aeruginosa* em doenças hematológicas; evidência limitada |
-| [NCT06977347](https://clinicaltrials.gov/study/NCT06977347) | NA | Ainda não recrutando | 100 | Piperacilina/tazobactam isolada vs associada a fluoroquinolona em pneumonia comunitária grave na Coreia do Sul |
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 100630287 | PYPE |  | Ativo |
+| 112830104 | PIPERACICLINA SODICA + TAZOBACTAMA SODICA |  | Cancelado |
+| 114020034 | PIPERACILINA SÓDICA + TAZOBACTAM SÓDICO |  | Cancelado |
+| 104971432 | TAZOMAZ |  | Ativo |
+| 174200011 | PIPERACILINA SÓDICA + TAZOBACTAM SÓDICO |  | Ativo |
+| 100290200 | ZERBAXA |  | Cancelado |
+| 101710231 | ZERBAXA |  | Ativo |
+| 100430810 | PIPERACILINA SÓDICA + TAZOBACTAM SÓDICO |  | Ativo |
+| 188300007 | TAZPEN |  | Cancelado |
+| 151670024 | PIPERACILINA SÓDICA + TAZOBACTAM SÓDICO |  | Cancelado |
+| 171060009 | PIPERACILINA SÓDICA + TOZOBACTAM SÓDICO |  | Cancelado |
+| 137640047 | TAZPEN |  | Cancelado |
+| 121100095 | TAZOCIN |  | Ativo |
+| 116370184 | PIPERAZAM |  | Ativo |
+| 114020052 | NOVATAZ |  | Cancelado |
+| 100470621 | PIPERACICLINA SÓDICA + TAZOBACTAM SÓDICO |  | Ativo |
+| 102010052 | TAZOXIL |  | Cancelado |
+| 103700788 | PIPTA |  | Ativo |
+| 120690041 | PIPERAZAM |  | Cancelado |
+| 155620034 | PIPERACILINA SÓDICA+TAZOBACTAM SÓDICO |  | Ativo |
 
-## Evidências da Literatura
-
-Foram identificadas 20 publicações; abaixo estão as 10 mais relevantes.
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [31563344](https://pubmed.ncbi.nlm.nih.gov/31563344/) | 2019 | RCT | Lancet Infect Dis | ASPECT-NP: ceftolozana/tazobactam vs meropenem em pneumonia nosocomial Gram-negativa (fase 3, duplo-cego, não inferioridade) |
-| [32785589](https://pubmed.ncbi.nlm.nih.gov/32785589/) | 2021 | RCT | Clin Infect Dis | RESTORE-IMI 2: imipenem/cilastatina/relebactam vs piperacilina/tazobactam em pneumonia hospitalar/associada à ventilação |
-| [39674398](https://pubmed.ncbi.nlm.nih.gov/39674398/) | 2025 | RCT | Int J Infect Dis | Ensaio fase 3 de não inferioridade de imipenem/relebactam vs piperacilina/tazobactam em pacientes críticos |
-| [38823453](https://pubmed.ncbi.nlm.nih.gov/38823453/) | 2024 | Revisão sistemática / meta-análise em rede | Clin Microbiol Infect | Regimes antibióticos empíricos em pneumonia hospitalar não associada à ventilação |
-| [38971203](https://pubmed.ncbi.nlm.nih.gov/38971203/) | 2024 | Revisão sistemática | Int J Antimicrob Agents | Farmacocinética/farmacodinâmica de novos beta-lactâmicos e associações com inibidores em pneumonia por bactérias resistentes a carbapenêmicos |
-| [36543346](https://pubmed.ncbi.nlm.nih.gov/36543346/) | 2022 | Revisão | Eur Respir Rev | Visão geral dos novos antibióticos para pneumonia por Gram-negativos |
-| [35088403](https://pubmed.ncbi.nlm.nih.gov/35088403/) | 2022 | Revisão | Semin Respir Crit Care Med | Novos antibióticos para pneumonia hospitalar e associada à ventilação |
-| [32662691](https://pubmed.ncbi.nlm.nih.gov/32662691/) | 2020 | Revisão | Expert Rev Anti Infect Ther | Ceftolozana/tazobactam no tratamento da pneumonia hospitalar |
-| [38862579](https://pubmed.ncbi.nlm.nih.gov/38862579/) | 2024 | Observacional | Sci Rep | Cefepima vs piperacilina/tazobactam em pneumonia comunitária em pacientes críticos (2.026 pacientes) |
-| [42129898](https://pubmed.ncbi.nlm.nih.gov/42129898/) | 2026 | Ensaio farmacocinético randomizado | Crit Care | Penetração intrapulmonar de ceftolozana/tazobactam e ceftazidima/avibactam em infusão contínua |
-
-## Informações de Comercialização no Brasil
-
-Não há registros de tazobactam isolado na base de dados compilada para o Brasil (0 registros; situação: não comercializado).
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
 
 ## Considerações de Segurança
 
@@ -105,33 +100,6 @@ Não há registros de tazobactam isolado na base de dados compilada para o Brasi
 
 Para advertências formais e demais informações de segurança, consulte a bula.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Proceed with Guardrails**
-
-**Justificativa:**
-Há vários ensaios fase 3 concluídos e RCTs publicados em pneumonia nosocomial com associações que contêm tazobactam (nível L1). Porém, a evidência vem de associações e a indicação já é próxima da original, o que limita o caráter de reposicionamento.
-
-**Para prosseguir, é necessário:**
-- Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), pois esses dados estão ausentes e bloqueiam a triagem de segurança.
-- Obter dados detalhados do mecanismo de ação (MOA) em fontes como o DrugBank.
-- Definir os antibióticos parceiros e os regimes posológicos, já que o tazobactam não tem ação antibacteriana isolada.
-- Considerar o risco em pacientes com doença renal, neutropenia ou distúrbios de coagulação (contraindicações sugeridas pelo grafo de conhecimento).
-- Verificar a situação regulatória: não há registro no Brasil nos dados compilados.
-
-### Outras indicações previstas (resumo)
-
-| Indicação prevista | Pontuação TxGNN | Nível de evidência | Decisão |
-|------|------|------|------|
-| Infecção do trato urinário | 99,12% | L1 | Proceed with Guardrails |
-| Pielonefrite | 93,77% | L1 | Proceed with Guardrails |
-| Uretrite por *Ureaplasma* | 98,99% | L5 | Hold (*Ureaplasma* não tem parede celular; mecanismo implausível) |
-| Uretrite gonocócica | 98,99% | L5 | Hold |
-| Artrite bacteriana | 98,79% | L4 | Hold |
-| Doença inflamatória uterina | 98,66% | L4 | Hold |
-| Pielonefrite xantogranulomatosa | 98,62% | L4 | Hold |
-| Tuberculose urogenital | 94,94% | L5 | Hold |
-| Pneumonia estreptocócica | 94,75% | L4 | Hold (o pneumococo costuma ser sensível a penicilinas sem inibidor) |
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

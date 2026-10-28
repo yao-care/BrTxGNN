@@ -8,6 +8,7 @@ nav_order: 152
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Brimonidine Tartrate
@@ -49,7 +50,7 @@ Tartarato de Brimonidina é um agonista alfa-2 adrenérgico amplamente utilizado
 | Nova Indicação Prevista | — Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 (apenas dados de referência, sem previsão nem estudos direcionados) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | **Hold** |
 

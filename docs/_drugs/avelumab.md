@@ -4,17 +4,17 @@ title: Avelumab
 parent: Apenas Predição do Modelo (L5)
 nav_order: 93
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Avelumab: nova indicação prevista, Tumor relacionado ao herpesvírus humano 8 (human herpesvirus 8-relate… (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "avelumab"
-predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
+predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 ---
 
 # Avelumab
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compi
 |------|------|
 | Indicação Original | Antineoplásico |
 | Nova Indicação Prevista | Tumor relacionado ao herpesvírus humano 8 (human herpesvirus 8-related tumor) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 (0 válidos, 1 cancelado) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -68,17 +68,17 @@ Além da principal, o modelo previu outras indicações. Todas permanecem sem en
 
 | Posição | Indicação Prevista | Pontuação TxGNN | Nível | Recomendação | Comentário |
 |---------|------|------|------|------|------|
-| 2 | Tumor neuroendócrino da orelha média | 99,97% | L5 | Hold | Vínculo plausível com o carcinoma de Merkel, mas tumor raro e geralmente indolente, com pouca evidência de dependência de PD-L1 |
-| 3 | Tumor cutâneo maligno de células granulares | 99,97% | L5 | Hold | Sem justificativa mecanística PD-L1 identificada; evidência mínima |
-| 4 | Ectomesenquimoma | 99,97% | L5 | Hold | Tumor pediátrico extremamente raro; sem evidência de expressão de PD-L1 |
-| 5 | Deficiência de adenosina desaminase | 99,95% | L5 | Hold | Sem conexão terapêutica lógica; provável artefato do grafo; risco de ativação imune |
-| 6 | Disgenesia reticular | 99,94% | L5 | Hold | Imunodeficiência combinada grave; provável artefato do grafo |
-| 7 | Hipoplasia imunoeritromieloide | 99,94% | L5 | Hold | Sem mecanismo plausível para restaurar a hematopoese |
-| 8 | Imunodeficiência não combinada grave | 99,92% | L5 | Hold | Bloqueio de PD-L1 não é tratamento reconhecido; risco de ativação imune |
-| 9 | Carcinoma urotelial da uretra prostática | 99,92% | L4 | Research Question | Subtipo de carcinoma urotelial, no qual o avelumabe tem evidência de Fase 3 (JAVELIN Bladder 100); evidência indireta |
-| 10 | Carcinoma sarcomatoide de células transicionais da pelve renal | 99,91% | L4 | Research Question | Mesma família do carcinoma urotelial; histologia agressiva, mas sub-representada nos estudos pivotais |
+| 2 | Tumor neuroendócrino da orelha média | 0,9997 | L5 | Hold | Vínculo plausível com o carcinoma de Merkel, mas tumor raro e geralmente indolente, com pouca evidência de dependência de PD-L1 |
+| 3 | Tumor cutâneo maligno de células granulares | 0,9997 | L5 | Hold | Sem justificativa mecanística PD-L1 identificada; evidência mínima |
+| 4 | Ectomesenquimoma | 0,9997 | L5 | Hold | Tumor pediátrico extremamente raro; sem evidência de expressão de PD-L1 |
+| 5 | Deficiência de adenosina desaminase | 0,9995 | L5 | Hold | Sem conexão terapêutica lógica; a pontuação vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica; risco de ativação imune |
+| 6 | Disgenesia reticular | 0,9994 | L5 | Hold | Imunodeficiência combinada grave; a pontuação vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica |
+| 7 | Hipoplasia imunoeritromieloide | 0,9994 | L5 | Hold | Sem mecanismo plausível para restaurar a hematopoese |
+| 8 | Imunodeficiência não combinada grave | 0,9992 | L5 | Hold | Bloqueio de PD-L1 não é tratamento reconhecido; risco de ativação imune |
+| 9 | Carcinoma urotelial da uretra prostática | 0,9992 | L4 | Research Question | Subtipo de carcinoma urotelial, no qual o avelumabe tem evidência de Fase 3 (JAVELIN Bladder 100); evidência indireta |
+| 10 | Carcinoma sarcomatoide de células transicionais da pelve renal | 0,9991 | L4 | Research Question | Mesma família do carcinoma urotelial; histologia agressiva, mas sub-representada nos estudos pivotais |
 
-As indicações uroteliais (posições 9 e 10) são as que têm maior respaldo indireto. As indicações de imunodeficiência (posições 5 a 8) parecem artefatos do grafo de conhecimento e podem representar risco.
+A indicação urotelial (posição 9) é a que tem maior respaldo indireto. As pontuações das indicações de imunodeficiência (posições 5 a 8) vêm do modelo TxGNN (aprendizado profundo) e podem refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica, e podem representar risco.
 
 ## Informações de Comercialização no Brasil
 

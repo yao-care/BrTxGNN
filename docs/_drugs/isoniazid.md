@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Isoniazid
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 376
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Isoniazid: nova indicação prevista, Conjuntivite (Conjunctivitis) (nível de evidência L4). Indicação original: Tuberculostáticos (tratamento da tuberculose)"
@@ -14,7 +14,7 @@ predicted_indications: ["conjunctivitis"]
 # Isoniazid
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **1** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e apenas **12 publicações** (em sua
 |------|------|
 | Indicação Original | Tuberculostáticos (tratamento da tuberculose) |
 | Nova Indicação Prevista | Conjuntivite (Conjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,36% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 6 |
+| Pontuação de Previsão TxGNN | 0,9936 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
+| Número de Registros | 6 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 A ligação com a conjuntivite é estreita e indireta. A ceratoconjuntivite flictenular é uma reação de hipersensibilidade a antígenos micobacterianos (por exemplo, da tuberculose). Tratar a infecção tuberculosa de base, ou fazer profilaxia em populações de alto risco, pode reduzir a doença ocular. Trata-se de atuar sobre o gatilho infeccioso ou imunológico, e não de um efeito anticonjuntivite direto.
 
-A pontuação elevada do TxGNN (99,36%) é uma previsão computacional e não é sustentada por ensaios clínicos diretos. A isoniazida também aparece em uma revisão entre os fármacos sistêmicos com efeitos adversos oculares. Vários artigos sobre artrite reativa associada ao BCG citam conjuntivite como parte da síndrome e mencionam a isoniazida apenas no tratamento da artropatia, o que não sustenta uma indicação para conjuntivite.
+A pontuação elevada do TxGNN (0,9936) é uma previsão computacional e não é sustentada por ensaios clínicos diretos. A isoniazida também aparece em uma revisão entre os fármacos sistêmicos com efeitos adversos oculares. Vários artigos sobre artrite reativa associada ao BCG citam conjuntivite como parte da síndrome e mencionam a isoniazida apenas no tratamento da artropatia, o que não sustenta uma indicação para conjuntivite.
 
 ## Evidências de Ensaios Clínicos
 
@@ -85,7 +85,7 @@ Não há ensaios randomizados entre as publicações. Estão listadas abaixo as 
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontrados estão cancelados; não há registro válido atualmente.
+Dos 6 registros, 6 estão válidos no Brasil; o medicamento é comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Para advertências e contraindicações da bula, consulte o documento oficial.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se baseia sobretudo na pontuação computacional; não há ensaios clínicos, e a literatura trata de conjuntivite ligada à tuberculose (tratando a infecção de base), não de efeito direto sobre a conjuntivite em geral. Além disso, todos os registros no Brasil estão cancelados.
+- A previsão se baseia sobretudo na pontuação do modelo TxGNN (deep learning), 0.9936 para conjuntivite, que pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica; não há ensaios clínicos, e a literatura trata de conjuntivite ligada à tuberculose (tratando a infecção de base), não de efeito direto sobre a conjuntivite em geral. Além disso, o medicamento é comercializado no Brasil, com 6 registros válidos de 6.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da isoniazida

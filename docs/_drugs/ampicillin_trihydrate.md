@@ -8,6 +8,7 @@ nav_order: 68
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ampicillin Trihydrate
@@ -51,8 +52,8 @@ Sem indicações previstas, dados regulatórios ou informações de segurança d
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | N/A — sem previsão do modelo |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros na ANVISA | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 20) |
+| Número de Registros na ANVISA | 20 (ativos: 20) |
 | Decisão Recomendada | **Hold** |
 
 ---

@@ -4,17 +4,17 @@ title: Plerixafor
 parent: Apenas Predição do Modelo (L5)
 nav_order: 531
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-13
-description: "Plerixafor: nova indicação prevista, Mieloma de plasmócitos indolente (indolent plasma cell myeloma) (nível de evidência L5). Indicação original: Mieloma de plasmócitos (plasma cell myeloma)"
 monitor_inn: "PLERIXAFOR"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
+description: "Plerixafor: nova indicação prevista, CMM7 (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Plerixafor
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **7** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-## Plerixafor: Do mieloma de plasmócitos ao mieloma de plasmócitos indolente
+## Plerixafor: CMM7
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ Até o momento, **nenhum ensaio clínico** e **nenhuma publicação** apoiam est
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Mieloma de plasmócitos (plasma cell myeloma) |
-| Nova Indicação Prevista | Mieloma de plasmócitos indolente (indolent plasma cell myeloma) |
-| Pontuação de Previsão TxGNN | 99,97% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | CMM7 |
+| Pontuação de Previsão TxGNN | 0.9934 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

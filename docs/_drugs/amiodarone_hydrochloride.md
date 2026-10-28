@@ -8,6 +8,7 @@ nav_order: 57
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amiodarone Hydrochloride
@@ -51,8 +52,8 @@ O Cloridrato de Amiodarona é um antiarrítmico da Classe III amplamente consoli
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão de modelo disponível) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
+| Número de Registros | 12 (ativos: 12) |
 | Decisão Recomendada | **Hold** |
 
 ---

@@ -48,10 +48,10 @@ atualmente com **0 ensaios clínicos** e **19 publicações** recuperadas nesta 
 |------|------|
 | Indicação Original | Rifampicinas / Tuberculostáticos (classificação terapêutica constante nos registros) |
 | Nova Indicação Prevista | Conjuntivite (conjunctivitis) |
-| Pontuação de Previsão TxGNN | 99,95% |
+| Pontuação de Previsão TxGNN | 0,9995 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Somente cancelados (nenhum registro válido) |
-| Número de Registros | 5 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -104,7 +104,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos registrados e a evidência é limitada a dois estudos tópicos antigos (1975 e 1977, focados em tracoma e infecção por clamídia) e dados de suscetibilidade. Além disso, não há nenhum registro válido no Brasil, e existem alternativas tópicas de primeira linha já consolidadas.
+- Não há ensaios clínicos registrados e a evidência é limitada a dois estudos tópicos antigos (1975 e 1977, focados em tracoma e infecção por clamídia) e dados de suscetibilidade. Além disso, o medicamento é comercializado no Brasil, com 5 registros válidos de 5, e existem alternativas tópicas de primeira linha já consolidadas.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança).

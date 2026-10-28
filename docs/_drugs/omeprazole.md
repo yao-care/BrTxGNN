@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Omeprazole
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 486
-evidence_level: L3
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Omeprazole: nova indicação prevista, Refluxo Duodenogástrico (Duodenogastric Reflux) (nível de evidência L3). Indicação original: Úlcera gástrica, doença ulcerosa péptica…"
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
+description: "Omeprazole: nova indicação prevista, Duodenal obstruction (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Omeprazole
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **2** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **2**
 
 </div>
 
-## Omeprazol: De doenças ácido-pépticas para refluxo duodenogástrico
+## Omeprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,12 +46,12 @@ mas atualmente há apenas **1 ensaio clínico** (sem relação direta com o trat
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Úlcera gástrica, doença ulcerosa péptica, doença do refluxo gastroesofágico, esofagite, úlcera duodenal, síndrome de Zollinger-Ellison (conforme o grafo de conhecimento; não há texto de indicação de registro no Brasil) |
-| Nova Indicação Prevista | Refluxo Duodenogástrico (Duodenogastric Reflux) |
-| Pontuação de Previsão TxGNN | 99,64% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Duodenal obstruction |
+| Pontuação de Previsão TxGNN | 0.9964 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 1 de 1) |
+| Número de Registros | 1 (ativos: 0) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 O refluxo duodenogástrico (retorno de bile e conteúdo duodenal ao estômago) é mecanisticamente adjacente a essas doenças, e a redução da acidez poderia aliviar sintomas e lesões da mucosa. No entanto, inibidores da bomba de prótons **não impedem o refluxo de bile em si**. Estudos pequenos em esôfago de Barrett (omeprazol 20 mg duas vezes ao dia) e um estudo pediátrico prospectivo avaliaram o refluxo biliar, mas mostraram redução de medidas relacionadas ao refluxo, não um benefício claro para o refluxo duodenogástrico como doença.
 
-Além disso, estudos em ratos sugerem que o bloqueio ácido na presença de refluxo duodenogástrico pode potencializar o crescimento da mucosa e a carcinogênese gástrica, um sinal de segurança relevante. A pontuação elevada do TxGNN (0,996) é uma previsão computacional e não substitui evidência clínica.
+Além disso, estudos em ratos sugerem que o bloqueio ácido na presença de refluxo duodenogástrico pode potencializar o crescimento da mucosa e a carcinogênese gástrica, um sinal de segurança relevante. A pontuação elevada do TxGNN para obstrução duodenal (0,9964) é uma previsão computacional do modelo de aprendizado profundo, podendo refletir similaridades aprendidas entre doenças relacionadas, e não evidência biológica; ela não substitui evidência clínica.
 
 ## Evidências de Ensaios Clínicos
 
@@ -102,7 +102,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-Não há ensaios clínicos que testem o omeprazol para refluxo duodenogástrico; a literatura consiste em estudos pequenos, não randomizados ou animais, e há um sinal de segurança (carcinogênese em modelos animais). Além disso, o fármaco não tem registro comercializado no Brasil segundo os dados compilados. A pontuação alta do modelo, isoladamente, não sustenta avanço.
+Há um sinal de segurança (carcinogênese em modelos animais). Além disso, o fármaco não está comercializado no Brasil segundo os dados compilados (apenas registros cancelados). A pontuação alta do modelo, isoladamente, não sustenta avanço.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
@@ -113,7 +113,7 @@ Não há ensaios clínicos que testem o omeprazol para refluxo duodenogástrico;
 
 ---
 
-**Nota sobre a segunda previsão (obstrução duodenal; pontuação TxGNN 99,64%; nível L4; recomendação Hold):** a obstrução duodenal é uma condição principalmente mecânica, tratada com dilatação endoscópica ou cirurgia. O omeprazol poderia ter apenas papel de apoio indireto na cicatrização de úlceras. A literatura disponível se limita a relatos de caso e revisões, e o único ensaio (NCT00557921, Fase 3, encerrado, clopidogrel + omeprazol para eventos gastrointestinais) não avalia obstrução. Esta direção é menos sustentada que a primeira.
+**Nota sobre a segunda previsão (obstrução duodenal; pontuação TxGNN 0,9964; nível L4; recomendação Hold):** a obstrução duodenal é uma condição principalmente mecânica, tratada com dilatação endoscópica ou cirurgia. O omeprazol poderia ter apenas papel de apoio indireto na cicatrização de úlceras. A literatura disponível se limita a relatos de caso e revisões, e o único ensaio (NCT00557921, Fase 3, encerrado, clopidogrel + omeprazol para eventos gastrointestinais) não avalia obstrução. Esta direção é menos sustentada que a primeira.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

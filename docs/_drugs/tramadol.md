@@ -4,17 +4,17 @@ title: Tramadol
 parent: Apenas Predição do Modelo (L5)
 nav_order: 649
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
-description: "Tramadol: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (Acromesomelic dysplasi… (nível de evidência L5). Indicação original: Osteoartrite / artropatia"
 monitor_inn: "Tramadol"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
+description: "Tramadol: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (nível de evidência L5). Indicação original: Não consta nos dados loca…"
 ---
 
 # Tramadol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Tramadol: Da osteoartrite à displasia acromesomélica tipo Hunter-Thompson
+## Tramadol: Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,17 +46,17 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Osteoartrite / artropatia (conforme o grafo de conhecimento do modelo; não há registro no Brasil) |
-| Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (Acromesomelic dysplasia, Hunter-Thompson type) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
+| Pontuação de Previsão TxGNN | 0.9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o tramadol é um opioide com atividade adicional de inibição da recaptação de monoaminas, usado para dor; sua relação com osteoartrite e artropatia vem do grafo de conhecimento do modelo.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o tramadol é um opioide com atividade adicional de inibição da recaptação de monoaminas, usado para dor; sua relação com osteoartrite e artropatia vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 A displasia acromesomélica tipo Hunter-Thompson é uma displasia esquelética rara, causada por defeitos em CDMP1/GDF5. Não se conhece mecanismo pelo qual o tramadol modifique a doença de base. Qualquer benefício plausível se limitaria ao alívio sintomático da dor, não à modificação da doença.
 
@@ -66,15 +66,14 @@ A pontuação alta provavelmente reflete a proximidade na rede de conhecimento c
 
 | Posição | Doença prevista | Pontuação TxGNN | Observação |
 |------|------|------|------|
-| 2 | Síndrome braquiolmia-amelogênese imperfeita | 99,99% | Sem ligação mecanística conhecida |
-| 3 | Miosclerose | 99,99% | Possível alívio sintomático da dor, sem evidência |
-| 4 | Braquiolmia | 99,99% | Sem mecanismo conhecido |
-| 5 | Pseudoacondroplasia | 99,98% | Analgesia sintomática conceitualmente plausível (dor articular e osteoartrite precoces) |
-| 6 | Espondiloartropatia (suscetibilidade) | 99,97% | Sem ação anti-inflamatória |
-| 7 | Artrite idiopática juvenil | 99,92% | Uma publicação indireta, sobre cetoprofeno |
-| 8 | Artrite juvenil por defeito em LACC1 | 99,92% | Sem evidência |
-| 9 | Nodulose reumatoide | 99,92% | Sem evidência |
-| 10 | AIJ poliarticular com fator reumatoide positivo | 99,90% | Sem atividade modificadora da doença |
+| 2 | Síndrome braquiolmia-amelogênese imperfeita | 0,9999 | Sem ligação mecanística conhecida |
+| 3 | Miosclerose | 0,9999 | Possível alívio sintomático da dor, sem evidência |
+| 4 | Braquiolmia | 0,9999 | Sem mecanismo conhecido |
+| 5 | Pseudoacondroplasia | 0,9998 | Analgesia sintomática conceitualmente plausível (dor articular e osteoartrite precoces) |
+| 7 | Artrite idiopática juvenil | 0,9992 | Uma publicação indireta, sobre cetoprofeno |
+| 8 | Artrite juvenil por defeito em LACC1 | 0,9992 | Sem evidência |
+| 9 | Nodulose reumatoide | 0,9992 | Sem evidência |
+| 10 | AIJ poliarticular com fator reumatoide positivo | 0,9990 | Sem atividade modificadora da doença |
 
 ## Evidências de Ensaios Clínicos
 

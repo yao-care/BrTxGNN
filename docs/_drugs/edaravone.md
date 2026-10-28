@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **Deficiência de Cofator 2 da He
 |------|------|
 | Indicação Original | Outros produtos que atuam sobre o sistema nervoso |
 | Nova Indicação Prevista | Deficiência de Cofator 2 da Heparina (Heparin Cofactor 2 Deficiency) |
-| Pontuação de Previsão TxGNN | 99,47% |
+| Pontuação de Previsão TxGNN | 0,9947 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,9 +59,9 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A deficiência de cofator II da heparina é uma trombofilia hereditária, causada pela redução da inibição da trombina mediada por serpina. A edaravona não atua nessa via, portanto não há justificativa mecanística direta. Qualquer ligação seria indireta, por exemplo pela proteção antioxidante do endotélio vascular em contextos trombóticos.
 
-A pontuação alta do TxGNN (99,47%) não constitui evidência de eficácia. A ausência de dados sobre o mecanismo original limita ainda mais a interpretação.
+A pontuação alta do TxGNN (0,9947) não constitui evidência de eficácia. A ausência de dados sobre o mecanismo original limita ainda mais a interpretação.
 
-Uma segunda previsão, **excesso de fator V com trombose espontânea** (pontuação de 99,06%), também está classificada como L5 e Hold, com as mesmas limitações: a edaravona não atua nos fatores de coagulação, e a ligação seria apenas especulativa, via redução do estresse oxidativo e da disfunção endotelial.
+Uma segunda previsão, **excesso de fator V com trombose espontânea** (pontuação de 0,9906), também está classificada como L5 e Hold, com as mesmas limitações: a edaravona não atua nos fatores de coagulação, e a ligação seria apenas especulativa, via redução do estresse oxidativo e da disfunção endotelial.
 
 ## Informações de Comercialização no Brasil
 

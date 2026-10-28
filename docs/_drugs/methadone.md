@@ -4,17 +4,17 @@ title: Methadone
 parent: Evidência Moderada (L3-L4)
 nav_order: 448
 evidence_level: L4
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-13
 description: "Methadone: nova indicação prevista, Síndrome de Tourette (Tourette syndrome) (nível de evidência L4). Indicação original: Analgésicos narcóticos"
 monitor_inn: "Methadone"
-predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold", "migraine disorder", "fibromyalgia", "myositis fibrosa"]
+predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
 ---
 
 # Methadone
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e apenas **4 publicações** associad
 |------|------|
 | Indicação Original | Analgésicos narcóticos |
 | Nova Indicação Prevista | Síndrome de Tourette (Tourette syndrome) |
-| Pontuação de Previsão TxGNN | 99,76% |
+| Pontuação de Previsão TxGNN | 0,9976 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

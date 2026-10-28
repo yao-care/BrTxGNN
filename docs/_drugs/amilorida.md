@@ -8,6 +8,7 @@ nav_order: 52
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amilorida
@@ -49,7 +50,7 @@ Amilorida (AMILORIDA) é um fármaco com **20 registros ativos** no mercado bras
 | Nova Indicação Prevista | Nenhuma previsão TxGNN gerada |
 | Pontuação de Previsão TxGNN | Não aplicável |
 | Nível de Evidência | Não avaliável (sem predição de modelo) |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
 | Número de Registros | 20 |
 | Decisão Recomendada | **Hold** |
 

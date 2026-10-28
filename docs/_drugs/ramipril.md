@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ramipril
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 558
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Ramipril: nova indicação prevista, Hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia (nível de evidência L4). Indicação original: Hipertensão arterial (e AVC / doença cerebrovascular…"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "RAMIPRIL"
-predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
+last_modified_at: 2026-10-23
+description: "Ramipril: nova indicação prevista, Hipertensão pulmonar de mecanismo multifatorial incerto (nível de evidência L5). Indicação original: Hipertensão arterial e doenças cerebrovasculares"
 ---
 
 # Ramipril
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,78 +33,88 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Ramipril: Da hipertensão arterial à hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia
+## Ramipril: Da hipertensão arterial à hipertensão pulmonar de mecanismo multifatorial incerto
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Ramipril é um inibidor da enzima conversora de angiotensina (ECA), originalmente usado no tratamento da hipertensão arterial e na redução do risco de acidente vascular cerebral (AVC).
-O modelo TxGNN prevê que pode ser eficaz para **hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia (pulmonary hypertension owing to lung disease and/or hypoxia)**,
-atualmente com **0 ensaios clínicos** e apenas **1 estudo pré-clínico diretamente relevante** (em ratos) entre as 11 publicações recuperadas.
+Ramipril é um inibidor da enzima conversora de angiotensina (ECA). Nas predições do modelo TxGNN (deep learning), ele aparece associado à hipertensão arterial e a doenças cerebrovasculares, como acidente vascular cerebral (AVC) e infarto cerebral. Essas associações podem refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
+O modelo TxGNN prevê que pode ser útil para **hipertensão pulmonar de mecanismo multifatorial incerto**, mas atualmente há **0 ensaios clínicos** e **0 publicações** que estudem diretamente essa doença. A previsão se baseia apenas no modelo.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial (e AVC / doença cerebrovascular, segundo o grafo de conhecimento do TxGNN) |
-| Nova Indicação Prevista | Hipertensão pulmonar secundária a doença pulmonar e/ou hipóxia |
-| Pontuação de Previsão TxGNN | 99,93% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
-| Número de Registros | 0 |
+| Indicação Original | Hipertensão arterial e doenças cerebrovasculares (relação registrada no grafo de conhecimento; os registros brasileiros compilados não trazem texto de indicação) |
+| Nova Indicação Prevista | Hipertensão pulmonar de mecanismo multifatorial incerto |
+| Pontuação de Previsão TxGNN | 0,9993 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 4) |
+| Número de Registros | Pelo menos 20 registros (a lista pode ser parcial): 4 válidos e 16 cancelados |
 | Decisão Recomendada | Hold |
+
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o ramipril pertence à classe dos inibidores da ECA, que reduzem a formação de angiotensina II, e sua eficácia em hipertensão arterial e prevenção de AVC é estabelecida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o ramipril é um inibidor da ECA. Ele reduz a angiotensina II e, com isso, pode influenciar o tônus e o remodelamento dos vasos. Esse efeito é relevante para a hipertensão arterial e para a proteção cerebrovascular.
 
-A angiotensina II contribui para a vasoconstrição pulmonar hipóxica e para o remodelamento vascular. Por isso, a inibição da ECA é mecanisticamente plausível na hipertensão pulmonar associada à hipóxia. O estudo mais relevante (PMID 9200213, 1996) mostrou, em ratos expostos a hipóxia crônica, que o ramipril reduziu a pressão de perfusão pulmonar basal e atenuou os efeitos da hipóxia sobre os vasos pulmonares.
+A relação com a nova indicação é indireta. A hipertensão arterial sistêmica e a hipertensão pulmonar são doenças distintas, embora ambas envolvam alterações do tônus e da estrutura vascular. Por isso, mecanisticamente o sistema renina-angiotensina poderia ter algum papel. No entanto, a previsão para esta doença específica é apenas uma saída do modelo (TxGNN), sem ensaios clínicos nem literatura que a sustentem.
 
-Essa evidência, porém, é exclusivamente animal. Não há ensaios clínicos nem dados em humanos com hipertensão pulmonar. As demais publicações recuperadas tratam de remodelamento cardíaco, capilares renais ou necrose por radiação, e só se relacionam indiretamente.
+Como contexto, outra previsão para o mesmo fármaco, a hipertensão pulmonar por doença pulmonar e/ou hipóxia, tem um estudo em ratos. Nele, o ramipril atenuou os efeitos da hipóxia crônica sobre os vasos pulmonares (PMID 9200213). Esse achado é animal e relativo a outra doença, portanto não eleva o nível de evidência da indicação analisada aqui.
+
+---
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
+---
+
 ## Evidências da Literatura
 
-Entre as publicações recuperadas, destacam-se as mais pertinentes. Várias outras (por exemplo, toxoplasmose amazônica, doença de Cushing com etomidato) não têm relação com a indicação prevista e foram omitidas.
+Atualmente não há literatura relacionada.
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [9200213](https://pubmed.ncbi.nlm.nih.gov/9200213/) | 1996 | Estudo pré-clínico (rato) | Physiological Research | Ramipril (10 mg/kg/dia) durante 3 semanas de hipóxia reduziu a pressão de perfusão pulmonar basal e atenuou os efeitos da hipóxia crônica nos vasos pulmonares |
-| [12069940](https://pubmed.ncbi.nlm.nih.gov/12069940/) | 2002 | Pré-clínico (rato) | Am J Physiol Regul Integr Comp Physiol | O sistema renina-angiotensina modulou a suscetibilidade da função cardíaca à hipóxia-reoxigenação (relevância indireta) |
-| [15671045](https://pubmed.ncbi.nlm.nih.gov/15671045/) | 2005 | Pré-clínico / tecido humano | Eur Heart J | A expressão de ECA2 aumenta após infarto do miocárdio em ratos e em corações humanos com insuficiência (relevância indireta) |
-| [19380417](https://pubmed.ncbi.nlm.nih.gov/19380417/) | 2009 | Pré-clínico (rato) | Cardiovasc Res | A inibição da ECA promoveu progenitoras endoteliais e neoangiogênese na sobrecarga pressórica cardíaca (relevância indireta) |
-| [18464162](https://pubmed.ncbi.nlm.nih.gov/18464162/) | 2008 | Pré-clínico (rato) | Microcirculation | Ramipril ou valsartana atenuaram a perda de capilares peritubulares (renoproteção; relevância indireta) |
-| [24907870](https://pubmed.ncbi.nlm.nih.gov/24907870/) | 2014 | Pré-clínico (rato) | Basic Res Cardiol | Ativação da guanilato ciclase solúvel mostrou benefício sobre a inibição da ECA no remodelamento pós-infarto (relevância indireta) |
+---
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, não há registros ativos de ramipril comercializados no Brasil (0 registros).
+A lista abaixo mostra apenas os registros válidos. Há pelo menos 20 registros no total e a lista compilada pode ser parcial. Os registros não trazem texto de indicação aprovada nem forma farmacêutica. Alguns nomes comerciais podem corresponder a associações, o que deve ser confirmado na bula.
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro nº 183260185 | Ramipril | Não informada | Não informada nos registros |
+| Registro nº 100330086 | Naprix | Não informada | Não informada nos registros |
+| Registro nº 100330096 | Naprix A | Não informada | Não informada nos registros |
+| Registro nº 100330178 | Naprix D | Não informada | Não informada nos registros |
+
+---
 
 ## Considerações de Segurança
 
-- **Contraindicações (derivadas do grafo de conhecimento, não do texto da bula)**: doença renal, obstrução da artéria renal, doença hepática, doença da vesícula biliar, angioedema hereditário (inclusive com deficiência de C1 inibidor), hipotensão, neutropenia, agranulocitose, lúpus eritematoso sistêmico (inclusive pediátrico), esclerodermia (localizada e sistêmica/esclerose sistêmica), doenças do tecido conjuntivo, doenças ósseas e da cartilagem, piureter.
-- **Interações Medicamentosas**: foram identificadas 100 interações no total; entre as exibidas, as de gravidade **grave** são com **citrato de potássio** e **bicarbonato de potássio** (risco de hipercalemia). As demais são de gravidade moderada, incluindo corticoides (hidrocortisona, dexametasona, betametasona, budesonida, triancinolona), ácido acetilsalicílico, antidiabéticos (alogliptina, canagliflozina, dapagliflozina, empagliflozina, metformina, glimepirida, clorpropamida), morfina, bupropiona, dronabinol, ácido picossulfúrico e polietilenoglicol com eletrólitos.
-- **Pontos de atenção para a nova indicação**: o risco de hipotensão e de piora da função renal exige cautela, sobretudo em pacientes com doença pulmonar grave ou comorbidades renais.
+- **Contraindicações ou condições de risco registradas no grafo de conhecimento** (relações do grafo, não texto de bula): doença renal, doença hepática, doença da vesícula biliar, lúpus eritematoso sistêmico (inclusive pediátrico), neutropenia, agranulocitose, angioedema hereditário (inclusive com deficiência de C1 inibidor), distúrbios hipotensivos, doenças do tecido conjuntivo, doenças ósseas e cartilaginosas, obstrução da artéria renal, esclerodermia (localizada e sistêmica).
+- **Interações medicamentosas** (100 interações encontradas; as mais relevantes entre as 20 listadas):
+  - **Graves:** citrato de potássio e bicarbonato de potássio.
+  - **Moderadas:** corticosteroides (hidrocortisona, dexametasona, betametasona, budesonida, triancinolona), antidiabéticos (metformina, glimepirida, clorpropamida, alogliptina, canagliflozina, dapagliflozina, empagliflozina), ácido acetilsalicílico, morfina, bupropiona, dronabinol, ácido picossulfúrico e polietilenoglicol com eletrólitos.
 
-As advertências e contraindicações da bula aprovada pela ANVISA não estavam disponíveis; consulte a bula para informações de segurança completas.
+Para advertências e contraindicações oficiais, consulte a bula.
+
+---
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão tem pontuação alta no modelo (99,93%), mas se apoia em um único estudo pré-clínico de 1996 em ratos, sem ensaios clínicos nem dados em humanos (nível L4). Além disso, o ramipril não tem registro comercializado no Brasil, e as informações de segurança da bula não estão disponíveis.
+- A previsão tem pontuação alta no modelo (0,9993), mas não há nenhum ensaio clínico nem publicação que estude diretamente essa forma de hipertensão pulmonar. O nível de evidência é L5 e a decisão é aguardar.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), etapa necessária antes de qualquer triagem de segurança
-- Complementar os dados de mecanismo de ação (consulta ao DrugBank)
-- Realizar revisão sistemática da literatura sobre inibidores da ECA em hipertensão pulmonar, com busca de dados em humanos
-- Gerar evidência pré-clínica adicional e, se favorável, planejar estudo clínico exploratório de fase 2
-- Avaliar a viabilidade regulatória e comercial, dado que o ramipril não está comercializado no Brasil
-- Definir plano de monitoramento de pressão arterial, função renal e potássio sérico
+- Obter dados de mecanismo de ação e verificar a plausibilidade biológica na hipertensão pulmonar.
+- Realizar busca bibliográfica dirigida e estudos pré-clínicos específicos para esta doença.
+- Baixar e analisar a bula da ANVISA para avaliar advertências e contraindicações, em especial os riscos com hipotensão e função renal.
+- Avaliar a compatibilidade de vias de administração e o perfil de segurança na população-alvo.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

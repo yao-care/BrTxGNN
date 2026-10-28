@@ -8,6 +8,7 @@ nav_order: 198
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Carmustina
@@ -51,8 +52,8 @@ Nesta avaliação, o modelo TxGNN **não retornou previsões de reposicionamento
 | Nova Indicação Prevista | Sem previsão disponível |
 | Pontuação de Previsão TxGNN | Indisponível |
 | Nível de Evidência | Indisponível |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
-| Número de Registros | 6 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 6) |
+| Número de Registros | 6 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ---

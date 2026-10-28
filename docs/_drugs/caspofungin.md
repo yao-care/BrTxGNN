@@ -48,23 +48,23 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Antifúngicos (ANTI-FUNGICOS) |
 | Nova Indicação Prevista | Anormalidade da secreção de gastrina (gastrin secretion abnormality) |
-| Pontuação de Previsão TxGNN | 99,44% |
+| Pontuação de Previsão TxGNN | 0,9944 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
+| Número de Registros | 5 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos registros consultados. Segundo informações conhecidas, a caspofungina é uma equinocandina que inibe a enzima beta-(1,3)-D-glucano sintase, interrompendo a síntese da parede celular dos fungos. Sua eficácia como antifúngico está estabelecida.
 
-Não há um vínculo mecanístico conhecido com a nova indicação. A secreção de gastrina é regulada pelas células G, pelo pH gástrico e pela sinalização da somatostatina, e nenhum desses elementos é alvo conhecido da caspofungina. A pontuação elevada do TxGNN (99,44%) vem apenas do grafo de conhecimento e não é sustentada por evidência clínica ou mecanística identificada.
+Não há um vínculo mecanístico conhecido com a nova indicação. A secreção de gastrina é regulada pelas células G, pelo pH gástrico e pela sinalização da somatostatina, e nenhum desses elementos é alvo conhecido da caspofungina. A pontuação elevada do TxGNN (0,9944) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 Qualquer associação seria especulativa, por exemplo um efeito indireto via colonização fúngica gástrica ou intestinal, ou um efeito fora do alvo (off-target). Nenhuma dessas hipóteses está documentada nos dados compilados para este relatório. A compatibilidade de vias de administração e a similaridade com a indicação original também ainda não foram avaliadas.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 5 registros encontram-se cancelados; não há registro válido atualmente.
+O medicamento está comercializado no Brasil: 5 dos 5 registros são válidos.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -89,7 +89,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem vínculo mecanístico plausível. Além disso, todos os registros brasileiros estão cancelados e há interação medicamentosa de gravidade maior com a dexametasona.
+A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem vínculo mecanístico plausível. Além disso, o medicamento está comercializado no Brasil (5 de 5 registros válidos) e há interação medicamentosa de gravidade maior com a dexametasona.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Medroxyprogesterone Acetate
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 437
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-13
 description: "Medroxyprogesterone Acetate: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L4). Indicação original: Progestágenos simples"
 monitor_inn: "Medroxyprogesterone acetate"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "cervix endometriosis", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 ---
 
 # Medroxyprogesterone Acetate
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Acetato de Medroxiprogesterona: Da contracepção à amenorreia
+## Acetato de Medroxiprogesterona: Da contracepção à Amenorreia (Amenorrhea)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,10 +48,10 @@ atualmente sem ensaios clínicos registrados, mas com **20 publicações** recup
 |------|------|
 | Indicação Original | Progestágenos simples |
 | Nova Indicação Prevista | Amenorreia (amenorrhea) |
-| Pontuação de Previsão TxGNN | 99,99% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 8 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 1,0000 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -81,7 +81,7 @@ Nenhum ensaio clínico está registrado para esta indicação. A literatura recu
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros estão cancelados; não há registro vigente.
+Todos os 8 registros estão válidos; o medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -110,7 +110,7 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 - Obter a bula da ANVISA (advertências e contraindicações), atualmente ausente
 - Obter dados de mecanismo de ação (por exemplo, via DrugBank)
 - Realizar busca de literatura específica sobre MPA no tratamento da amenorreia (primária e secundária), e não apenas sobre contracepção
-- Confirmar a situação regulatória atual e a viabilidade de nova submissão, já que todos os registros estão cancelados
+- Confirmar a situação regulatória atual e a viabilidade de nova submissão, considerando que o medicamento está comercializado, com 8 registros válidos de 8
 - Avaliar o perfil de segurança (mama, hepático, metabólico, ósseo) para a população-alvo
 ## Aviso de isenção de responsabilidade
 

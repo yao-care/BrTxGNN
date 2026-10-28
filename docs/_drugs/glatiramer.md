@@ -48,17 +48,17 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** vinculada
 |------|------|
 | Indicação Original | Imunomodulador |
 | Nova Indicação Prevista | Hemoglobinopatia (hemoglobinopathy) |
-| Pontuação de Previsão TxGNN | 99,03% |
+| Pontuação de Previsão TxGNN | 0,9903 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 3 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o glatirâmer é um imunomodulador usado na esclerose múltipla, mas os dados compilados para este relatório não permitem estabelecer uma via plausível que o ligue à fisiopatologia das hemoglobinopatias (por exemplo, desequilíbrio das cadeias de globina, polimerização da hemoglobina ou hemólise crônica).
 
-A previsão se apoia apenas na pontuação elevada do grafo de conhecimento do TxGNN (0,990). A única publicação vinculada (PMID 28372806) descreve um caso de distúrbios imunes após a suspensão do natalizumabe em esclerose múltipla, em uma paciente que por acaso tinha histórico de beta-talassemia. Não avalia o glatirâmer como tratamento de hemoglobinopatia e, portanto, não oferece suporte direto nem indireto claro.
+A previsão se apoia apenas na pontuação elevada do modelo TxGNN (deep learning) (0,9903), que pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, e não evidência biológica. A única publicação vinculada (PMID 28372806) descreve um caso de distúrbios imunes após a suspensão do natalizumabe em esclerose múltipla, em uma paciente que por acaso tinha histórico de beta-talassemia. Não avalia o glatirâmer como tratamento de hemoglobinopatia e, portanto, não oferece suporte direto nem indireto claro.
 
 Assim, a razoabilidade biológica da previsão permanece não demonstrada e deve ser tratada como hipótese gerada por modelo.
 
@@ -91,7 +91,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se baseia somente na pontuação do modelo (nível L5), sem ensaios clínicos, sem mecanismo plausível e com literatura não relacionada à indicação prevista. Além disso, todos os registros brasileiros estão cancelados.
+- A previsão se baseia somente na pontuação do modelo (nível L5), sem ensaios clínicos, sem mecanismo plausível e com literatura não relacionada à indicação prevista. Além disso, o medicamento é comercializado no Brasil, com 3 registros válidos de 3.
 
 **Para prosseguir, é necessário:**
 - Obter o mecanismo de ação do glatirâmer (por exemplo, via DrugBank) e analisar se há ligação com a fisiopatologia das hemoglobinopatias.

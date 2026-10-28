@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **Gastroparesia (Gastroparesis)**
 |------|------|
 | Indicação Original | Nutrientes parenterais |
 | Nova Indicação Prevista | Gastroparesia (Gastroparesis) |
-| Pontuação de Previsão TxGNN | 99,32% |
+| Pontuação de Previsão TxGNN | 0,9932 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
-| Número de Registros | 16 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
+| Número de Registros | 16 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a isoleucina é um aminoácido essencial de cadeia ramificada, usado em soluções de nutrição parenteral para reposição de nutrientes, e mecanisticamente a aplicabilidade à gastroparesia ainda não foi demonstrada.
 
-Não há vínculo mecanístico estabelecido entre a isoleucina e a gastroparesia. A pontuação do TxGNN é muito alta (0,993), mas é resultado exclusivo do modelo. Uma conexão plausível, porém não verificada, é que o suporte nutricional ou efeitos de aminoácidos sobre a motilidade e o metabolismo intestinal possam ser relevantes na gastroparesia, na qual a desnutrição é comum.
+Não há vínculo mecanístico estabelecido entre a isoleucina e a gastroparesia. A pontuação do TxGNN é muito alta (0,9932), mas é resultado exclusivo do modelo. Uma conexão plausível, porém não verificada, é que o suporte nutricional ou efeitos de aminoácidos sobre a motilidade e o metabolismo intestinal possam ser relevantes na gastroparesia, na qual a desnutrição é comum.
 
 Mesmo assim, isso representaria suplementação nutricional e não uma ação modificadora da doença. Nenhum dado de apoio foi fornecido, e a compatibilidade de vias de administração e a similaridade com a indicação original permanecem pendentes de avaliação.
 
@@ -71,7 +71,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 16 registros encontrados estão cancelados; não há registro válido atualmente. Principais registros (5 de 16):
+Dos 16 registros encontrados, os 16 estão válidos. Principais registros (5 de 16):
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -93,7 +93,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura, sem mecanismo estabelecido e com todos os registros no Brasil cancelados. Além disso, faltam dados de advertências e contraindicações da bula, o que impede a triagem de segurança.
+A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura e sem mecanismo estabelecido, embora o medicamento seja comercializado no Brasil, com 16 registros válidos de 16. Além disso, faltam dados de advertências e contraindicações da bula, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna considerada bloqueante
@@ -101,7 +101,6 @@ A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatur
 - Realizar revisão sistemática da literatura sobre aminoácidos de cadeia ramificada e gastroparesia
 - Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original
 - Avaliar a relevância das contraindicações renais, cardiovasculares e metabólicas apontadas pelo grafo de conhecimento, em especial em pacientes com gastroparesia
-- Esclarecer a situação regulatória, dado que todos os registros estão cancelados
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

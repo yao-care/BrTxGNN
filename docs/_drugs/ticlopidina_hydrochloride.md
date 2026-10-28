@@ -8,6 +8,7 @@ nav_order: 637
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ticlopidina Hydrochloride
@@ -49,8 +50,8 @@ Ticlopidina é um antiagregante plaquetário da classe das tienopiridinas, histo
 | Nova Indicação Prevista | Não disponível |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ---

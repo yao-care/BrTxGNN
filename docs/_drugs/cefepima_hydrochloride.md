@@ -8,6 +8,7 @@ nav_order: 207
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Cefepima Hydrochloride
@@ -51,8 +52,8 @@ O modelo TxGNN **não gerou previsões de reposicionamento** para este composto 
 | Nova Indicação Prevista | Não disponível |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 — sem previsão do modelo neste ciclo |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (0 registros ANVISA) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ---

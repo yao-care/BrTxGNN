@@ -47,17 +47,17 @@ O modelo TxGNN prevê que pode ser eficaz para **lentiginose generalizada famili
 |------|------|
 | Indicação Original | Outros produtos para o aparelho digestivo e metabolismo |
 | Nova Indicação Prevista | Lentiginose generalizada familiar (familial generalized lentiginosis) |
-| Pontuação de Previsão TxGNN | 99,71% |
+| Pontuação de Previsão TxGNN | 0,9971 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente cancelado (sem registro válido) |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nas informações compiladas. Segundo o conhecimento geral, a metreleptina é um análogo recombinante da leptina que atua nos receptores de leptina para corrigir a deficiência desse hormônio na lipodistrofia.
 
-A relação entre a indicação original (distúrbios metabólicos) e a nova indicação é fraca. A lentiginose generalizada familiar é um distúrbio pigmentar e não há conexão estabelecida com a sinalização da leptina. A pontuação alta do TxGNN (0,997) reflete proximidade no grafo de conhecimento, não uma base biológica demonstrada.
+A relação entre a indicação original (distúrbios metabólicos) e a nova indicação é fraca. A lentiginose generalizada familiar é um distúrbio pigmentar e não há conexão estabelecida com a sinalização da leptina. A pontuação alta do TxGNN (0,9971) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não uma base biológica demonstrada.
 
 Portanto, a previsão não tem respaldo mecanístico claro. Também não há ensaios clínicos nem publicações que a sustentem. As demais previsões do modelo (por exemplo, síndrome gastrocutânea, síndrome de Moynahan, tumor rabdoide, acromelanose e schwannoma de nervo periférico) apresentam o mesmo problema: nenhuma tem evidência clínica ou mecanismo plausível. No caso do tumor rabdoide, a sinalização da leptina é discutida como promotora de crescimento em alguns cânceres, o que levanta preocupação de segurança.
 

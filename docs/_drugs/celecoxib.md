@@ -4,17 +4,17 @@ title: Celecoxib
 parent: Apenas Predição do Modelo (L5)
 nav_order: 212
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-13
 description: "Celecoxib: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (Acromesomelic dysplasi… (nível de evidência L5). Indicação original: Artrite reumatoide, espondilite anquilosante, o…"
 monitor_inn: "CELECOXIB"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "inflammatory spondylopathy", "WHIM syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
 ---
 
 # Celecoxib
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ O modelo TxGNN prevê que ele pode ser eficaz para **displasia acromesomélica t
 |------|------|
 | Indicação Original | Artrite reumatoide, espondilite anquilosante, osteoartrite, artrite idiopática juvenil e outras doenças articulares |
 | Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (Acromesomelic dysplasia, Hunter-Thompson type) |
-| Pontuação de Previsão TxGNN | 99,88% |
+| Pontuação de Previsão TxGNN | 0,9988 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nas informaç�
 
 A displasia acromesomélica tipo Hunter-Thompson é uma doença esquelética genética rara, causada por perda de função do gene *CDMP1/GDF5*. Ela envolve a sinalização das proteínas morfogenéticas ósseas (BMP/GDF), uma via diferente da que o celecoxibe modula. A inibição da COX-2 não corrige esse defeito de base.
 
-Portanto, **não se identificou um vínculo mecanístico crível**. A pontuação elevada do modelo provavelmente reflete a proximidade do fármaco com termos musculoesqueléticos no grafo de conhecimento, e não uma justificativa farmacológica. Trata-se de uma previsão altamente especulativa.
+Portanto, **não se identificou um vínculo mecanístico crível**. A pontuação elevada vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, e não evidência biológica nem uma justificativa farmacológica. Trata-se de uma previsão altamente especulativa.
 
 ## Evidências de Ensaios Clínicos
 

@@ -4,17 +4,17 @@ title: Telmisartan
 parent: Apenas Predição do Modelo (L5)
 nav_order: 609
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
-description: "Telmisartan: nova indicação prevista, Oclusão de Artéria Cerebral (Cerebral Artery Occlusion) (nível de evidência L5). Indicação original: Hipertensão arterial (também AVC e infarto cerebral…"
 monitor_inn: "Telmisartan"
-predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
+predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
+description: "Telmisartan: nova indicação prevista, Prinzmetal angina (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Telmisartan
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Telmisartana: Da hipertensão arterial ao acidente vascular cerebral por oclusão de artéria cerebral
+## Telmisartan: Prinzmetal angina
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -41,17 +41,17 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 Telmisartana é um bloqueador do receptor de angiotensina II tipo 1 (BRA), originalmente usado no tratamento da hipertensão arterial e na prevenção de acidente vascular cerebral (AVC).
 O modelo TxGNN prevê que pode ser eficaz para **Oclusão de Artéria Cerebral (Cerebral Artery Occlusion)**, a indicação prevista com maior volume de evidências entre as candidatas de maior pontuação. Atualmente há **3 ensaios clínicos** (de baixo valor informativo) e **20 publicações** (quase todas pré-clínicas) apoiando esta direção.
 
-> Observação: a indicação de maior pontuação do modelo é a angina de Prinzmetal (99,98%), mas sem nenhuma evidência real. Este relatório foca em oclusão de artéria cerebral, que tem a maior base de evidências entre as candidatas. A hemorragia intracerebral, com evidência de nível L2, é discutida na conclusão.
+> Observação: a indicação de maior pontuação do modelo é a angina de Prinzmetal (0,9998), mas sem nenhuma evidência real. Este relatório foca em oclusão de artéria cerebral, que tem a maior base de evidências entre as candidatas. A hemorragia intracerebral, com evidência de nível L2, é discutida na conclusão.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial (também AVC e infarto cerebral, segundo o grafo de conhecimento) |
-| Nova Indicação Prevista | Oclusão de Artéria Cerebral (Cerebral Artery Occlusion) |
-| Pontuação de Previsão TxGNN | 99,95% |
-| Nível de Evidência | L3 (atribuído de forma conservadora; apoio majoritariamente pré-clínico e indireto) |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Prinzmetal angina |
+| Pontuação de Previsão TxGNN | 0.9998 |
+| Nível de Evidência | L5 (atribuído de forma conservadora; apoio majoritariamente pré-clínico e indireto) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -59,7 +59,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Oclusão de Artéria Cerebral (
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a telmisartana bloqueia o receptor AT1 da angiotensina II e tem atividade agonista parcial sobre o PPARγ, o que lhe rendeu o apelido de "metabosartan". Sua eficácia na hipertensão arterial é estabelecida.
 
-A hipertensão e o AVC compartilham a mesma fisiopatologia vascular, e a oclusão de artéria cerebral é uma causa direta de infarto cerebral, indicação já associada ao fármaco no grafo de conhecimento. Por isso, a previsão é biologicamente coerente.
+A hipertensão e o AVC compartilham a mesma fisiopatologia vascular, e a oclusão de artéria cerebral é uma causa direta de infarto cerebral. A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 A literatura pré-clínica indica que a telmisartana reduz o volume de infarto cerebral, o estresse oxidativo e a neuroinflamação em modelos de oclusão da artéria cerebral média em roedores. Os mecanismos descritos incluem inibição de Egr-1 mediada por PPARγ, modulação da via Nrf2/HO-1 e sinergia com nimodipina. Esses achados vêm de animais e ainda não foram confirmados em humanos.
 
@@ -102,7 +102,7 @@ Não há dados de advertências e contraindicações da bula nos dados compilado
 **Decisão: Hold**
 
 **Justificativa:**
-- Para oclusão de artéria cerebral, o apoio é quase todo pré-clínico, e os três ensaios clínicos associados são indiretos ou com amostras mínimas (1 a 4 participantes). Além disso, o fármaco não está comercializado no Brasil e faltam dados de bula e de mecanismo, o que impede a triagem de segurança.
+- Para oclusão de artéria cerebral, o apoio é quase todo pré-clínico, e os três ensaios clínicos associados são indiretos ou com amostras mínimas (1 a 4 participantes).
 
 **Observação sobre outras indicações previstas:**
 - **Hemorragia intracerebral** tem o maior nível de evidência (L2): o ensaio TRIDENT (Phase 3, 1671 participantes, concluído) e uma publicação de 2026 no NEJM testaram uma pílula única com três anti-hipertensivos em baixa dose. Porém, o efeito não pode ser atribuído à telmisartana isolada, e o resultado principal não consta nos dados compilados.

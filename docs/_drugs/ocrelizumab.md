@@ -47,19 +47,19 @@ O modelo TxGNN prevê que pode ser eficaz para **carcinoma de mama HER2 positivo
 |------|------|
 | Indicação Original | Imunossupressores seletivos |
 | Nova Indicação Prevista | Carcinoma de mama HER2 positivo (HER2 positive breast carcinoma) |
-| Pontuação de Previsão TxGNN | 99,89% |
+| Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Apenas registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o ocrelizumabe é um anticorpo monoclonal humanizado que se liga ao CD20 e depleta células B. Está aprovado em outros países para esclerose múltipla, e seu uso está ligado à imunossupressão seletiva.
 
-Não se estabelece uma relação mecanística entre a indicação original e a nova indicação. O carcinoma de mama HER2 positivo é impulsionado pela amplificação do HER2, e o CD20 não é um alvo terapêutico reconhecido nessa doença. A pontuação elevada do TxGNN (0,999) reflete apenas proximidade no grafo de conhecimento, sem respaldo em estudos.
+Não se estabelece uma relação mecanística entre a indicação original e a nova indicação. O carcinoma de mama HER2 positivo é impulsionado pela amplificação do HER2, e o CD20 não é um alvo terapêutico reconhecido nessa doença. A pontuação elevada (0,9989) vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica.
 
-As demais previsões do modelo (câncer de mama com receptor de progesterona positivo ou negativo, subtipo normal-like, tumor de mama luminal A/B) apresentam pontuações semelhantes (0,998), também sem evidências. Os escores idênticos de duas dessas entradas sugerem um artefato da vizinhança no grafo, e não um sinal específico de doença.
+As demais previsões do modelo TxGNN (deep learning) são câncer de mama com receptor de progesterona positivo (0,9981), subtipo normal-like do carcinoma de mama (0,9981), tumor de mama luminal A ou B (0,9981) e câncer de mama com receptor de progesterona negativo (0,9980), também sem evidências. Pontuações quase idênticas podem refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, e não um sinal específico de doença.
 
 ## Informações de Comercialização no Brasil
 

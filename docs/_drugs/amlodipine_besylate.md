@@ -8,6 +8,7 @@ nav_order: 60
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amlodipine Besylate
@@ -51,7 +52,7 @@ Além disso, a consulta regulatória retornou **0 registros** e os dados de segu
 | Nova Indicação Prevista | Não identificada pelo TxGNN nesta avaliação |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 — sem estudos encontrados para indicação nova |
-| Situação no Mercado | Não registrado (0 registros na base consultada) |
+| Situação no Mercado | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 0 |
 | Decisão Recomendada | **Hold** |
 

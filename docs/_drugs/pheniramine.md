@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pheniramine
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 519
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Pheniramine: nova indicação prevista, Urticária Alérgica (Allergic Urticaria) (nível de evidência L4). Indicação original: Descongestionantes oftálmicos"
 monitor_inn: "pheniramine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
+description: "Pheniramine: nova indicação prevista, Nasal cavity disease (nível de evidência L5). Indicação original: DESCONGESTIONATES OFTALMICOS"
 ---
 
 # Pheniramine
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **3** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-## Feniramina: De descongestionante oftálmico para urticária alérgica
+## Pheniramine: Nasal cavity disease
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,19 +46,19 @@ mas atualmente há **0 ensaios clínicos** e **4 publicações** (nenhuma com ev
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Descongestionantes oftálmicos |
-| Nova Indicação Prevista | Urticária Alérgica (Allergic Urticaria) |
-| Pontuação de Previsão TxGNN | 99,67% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 7 (todos cancelados) |
+| Indicação Original | DESCONGESTIONATES OFTALMICOS |
+| Nova Indicação Prevista | Nasal cavity disease |
+| Pontuação de Previsão TxGNN | 0.9928 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
+| Número de Registros | 7 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a feniramina é um anti-histamínico H1 de primeira geração da classe das alquilaminas, usado há muito tempo em condições alérgicas. No Brasil, aparece em colírios, geralmente associada à nafazolina (como o maleato de feniramina).
 
-A urticária alérgica é mediada em grande parte pela histamina. Bloquear receptores H1 é, portanto, mecanisticamente plausível, e isso é coerente com a pontuação elevada do TxGNN. A indicação original (alívio da congestão ocular, muitas vezes de causa alérgica) também envolve um componente histaminérgico, o que aproxima as duas indicações.
+A pontuação elevada do TxGNN (0,9928) para doença da cavidade nasal vem do modelo de deep learning e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. A indicação original (alívio da congestão ocular, muitas vezes de causa alérgica) envolve um componente histaminérgico.
 
 Há, porém, uma ressalva importante: a literatura recuperada não traz evidência de eficácia. Os registros são relatos de caso de eventos adversos ou hipersensibilidade (inclusive à própria feniramina), um caso de edema facial que simulava reação alérgica e uma revisão sobre outro anti-histamínico (astemizol). Além disso, os produtos registrados são oftálmicos, o que não corresponde à via sistêmica normalmente usada na urticária.
 
@@ -85,7 +85,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | Registro nº 155840212 | Clanistil | Não informada | Descongestionantes oftálmicos |
 | Registro nº 186200022 | Colírio Moura Brasil Aliv | Não informada | Descongestionantes oftálmicos |
 
-Todos os 7 registros encontrados estão cancelados; a tabela lista apenas os 5 principais.
+Todos os 7 registros encontrados estão válidos; a tabela lista apenas os 5 principais.
 
 ## Considerações de Segurança
 
@@ -105,7 +105,7 @@ Consulte a bula para as advertências e interações medicamentosas oficiais; n�
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do TxGNN é alta e o mecanismo anti-histamínico é plausível, mas não há ensaios clínicos nem literatura de eficácia (nível L4), e todos os registros brasileiros estão cancelados, o que reduz o valor prático do desenvolvimento.
+- A pontuação do TxGNN é alta (0,9928), mas vem do modelo de deep learning e não constitui evidência biológica; não há ensaios clínicos nem literatura de eficácia (nível L4). O medicamento é comercializado no Brasil, com 7 registros válidos de 7.
 - As demais previsões (doença da cavidade nasal e laringofaringite aguda) estão em L5, sem qualquer estudo, e também em Hold.
 
 **Para prosseguir, é necessário:**

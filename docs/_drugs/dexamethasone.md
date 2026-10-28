@@ -48,9 +48,9 @@ atualmente com **nenhum ensaio clínico registrado** e **20 publicações** recu
 |------|------|
 | Indicação Original | Glicocorticoides sistêmicos |
 | Nova Indicação Prevista | Alopecia Areata (alopecia areata) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Somente registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
 
@@ -83,7 +83,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros constam como cancelados. Abaixo, os 5 principais:
+Os 20 registros constam como válidos. Abaixo, os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -108,7 +108,7 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estão d
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há um RCT (pediátrico, com 30 participantes), uma meta-análise em rede e várias coortes apoiando o minipulso de dexametasona na alopecia areata, o que sustenta o nível L2. Contudo, não há ensaios registrados, as evidências são em grande parte observacionais e de pequeno porte, e todos os registros brasileiros estão cancelados.
+Há um RCT (pediátrico, com 30 participantes), uma meta-análise em rede e várias coortes apoiando o minipulso de dexametasona na alopecia areata, o que sustenta o nível L2. Contudo, não há ensaios registrados, as evidências são em grande parte observacionais e de pequeno porte, e o medicamento é comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pendência que bloqueia a triagem de segurança.

@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-## Finasterida: Do inibidor da alfa-redutase à hipertricose de Ambras
+## Finasterida: Hipertricose universal congênita tipo Ambras
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,9 +47,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertricose universal congêni
 |------|------|
 | Indicação Original | Inibidor da alfa-redutase |
 | Nova Indicação Prevista | Hipertricose universal congênita tipo Ambras (Ambras type hypertrichosis universalis congenita) |
-| Pontuação de Previsão TxGNN | 99,99% |
+| Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 
@@ -79,7 +79,7 @@ Como referência indireta, a segunda indicação prevista (hipertricose em geral
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros estão cancelados. Principais exemplos:
+Dos registros, 20 estão válidos. Principais exemplos:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -114,7 +114,7 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 - Baixar e analisar as bulas na ANVISA (advertências e contraindicações) para a triagem de segurança.
 - Buscar evidências pré-clínicas ou relatos de caso que sustentem um papel da via androgênica na síndrome de Ambras.
 - Avaliar separadamente indicações vizinhas mais plausíveis, dependentes de andrógenos, como o hirsutismo.
-- Esclarecer a situação regulatória atual no Brasil, já que todos os registros estão cancelados.
+- Confirmar a situação regulatória atual no Brasil, já que o medicamento está comercializado com 20 registros válidos.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

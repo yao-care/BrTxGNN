@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 450
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Methionine: nova indicação prevista, Acne (acne disease) (nível de evidência L5). Indicação original: Outros produtos para o aparelho digestivo e metabolismo"
 monitor_inn: "Methionine"
-predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "nuclear senile cataract", "cortical cataract", "craniostenosis cataract", "tetanic cataract", "immature cataract", "mature cataract", "diabetic cataract"]
+predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "tetanic cataract", "immature cataract", "diabetic cataract"]
+last_modified_at: 2026-10-23
+description: "Methionine: nova indicação prevista, Acne (doença) (nível de evidência L5). Indicação original: Outros produtos para o aparelho digestivo e metabolismo"
 ---
 
 # Methionine
@@ -33,83 +33,96 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Metionina: Do suporte nutricional à acne
+## Metionina: De produtos para o aparelho digestivo e metabolismo e nutrição parenteral para acne (doença)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-A metionina é um aminoácido essencial, usado no Brasil principalmente em soluções de nutrição parenteral e em produtos metabólicos e vitamínicos.
-O modelo TxGNN prevê que pode ser eficaz para **acne (acne disease)**, mas até o momento há **0 ensaios clínicos** e apenas **2 publicações** de relevância muito limitada, nenhuma delas testando a metionina como tratamento.
+A metionina é um aminoácido essencial, usado no Brasil em produtos para o aparelho digestivo e metabolismo, em soluções de nutrição parenteral e em associações vitamínicas.
+O modelo TxGNN prevê relação com **acne (doença)**, mas sem nenhum ensaio clínico e com apenas **2 publicações** indiretas, que não mostram que a metionina trate acne.
+O nível de evidência é **L5**: trata-se, na prática, apenas de uma previsão do modelo.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Outros produtos para o aparelho digestivo e metabolismo |
-| Nova Indicação Prevista | Acne (acne disease) |
-| Pontuação de Previsão TxGNN | 99,9996% |
+| Nova Indicação Prevista | Acne (doença) |
+| Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Número de Registros | Pelo menos 20 (a lista pode estar incompleta) |
 | Decisão Recomendada | Hold |
+
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a metionina é um aminoácido essencial que participa do metabolismo da homocisteína e de um carbono (via de metilação). No Brasil, ela aparece como componente de soluções de nutrição parenteral e de produtos metabólicos e vitamínicos.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a metionina é um aminoácido sulfurado essencial, presente em soluções de nutrição parenteral e em produtos metabólicos, e participa do metabolismo de um carbono e da via da homocisteína.
 
-A relação entre a indicação original (suporte nutricional e metabólico) e a acne é fraca. A pontuação do modelo é muito alta, mas não há respaldo mecanístico direto. A única literatura ligeiramente relacionada mostra **aumento da homocisteína em pacientes tratados com isotretinoína** para acne cística, ou seja, um efeito metabólico adverso do tratamento, e não evidência de que a metionina trate a acne. O outro artigo trata de uma mutação do gene MTHFR em um recém-nascido com encefalopatia, sem relação com o tratamento da acne.
+A relação com a acne é fraca. A única publicação que toca o tema mostra níveis elevados de homocisteína (metabólito da metionina) em pacientes tratados com isotretinoína para acne cística, o que descreve um efeito colateral do tratamento, não um benefício da metionina. A outra publicação trata de um caso de mutação em *MTHFR* com encefalopatia neonatal, sem relação terapêutica com a acne.
 
-Assim, a previsão deve ser vista como uma hipótese gerada por computador, ainda sem validação biológica ou clínica.
+Não há mecanismo terapêutico plausível estabelecido. A pontuação alta do TxGNN, isolada, não basta para sustentar a hipótese.
+
+Entre as demais indicações previstas, a mais coerente do ponto de vista indireto é a **catarata diabética** (nível L4). Nesse caso, a metionina sulfóxido redutase B1 (MsrB1) protege células epiteliais do cristalino humano contra apoptose induzida por glicose alta e por peroxinitrito. Nenhum estudo, porém, testou a metionina como tratamento. Essa hipótese é tratada como pergunta de pesquisa, não como indicação.
+
+---
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
+---
+
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | Coorte | Int J Dermatol | Níveis elevados de homocisteína plasmática em pacientes em uso de isotretinoína para acne cística; não avalia a metionina como tratamento |
-| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | Relato de caso | BMJ Case Reports | Mutação nova do MTHFR em recém-nascido com encefalopatia, queda de cabelo e acne neonatal; sem relação terapêutica com a acne |
+| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | Coorte | Int J Dermatol | Homocisteína plasmática elevada em pacientes em uso de isotretinoína para acne cística |
+| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | Relato de caso | BMJ Case Reports | Mutação nova em *MTHFR* com encefalopatia neonatal, queda de cabelo e acne neonatal; sem relação terapêutica com a metionina |
+
+---
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão **cancelados**. Principais exemplos:
+Foram listados 20 registros válidos, todos de medicamentos de ingrediente único, e a lista pode estar incompleta. Abaixo, os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 196240004 | FIGZ | — | Outros produtos para o aparelho digestivo e metabolismo |
-| Registro nº 178170079 | EPOCLER | — | Outros produtos para o aparelho digestivo e metabolismo |
-| Registro nº 102980493 | REGENCEL | — | Outros medicamentos com ação no aparelho visual |
-| Registro nº 100410131 | NEPHROTECT | — | Nutrientes parenterais |
-| Registro nº 106830181 | OLIMEL | — | Reposição hidroeletrolítica e alimentação parenteral |
+| Registro 196240004 | FIGZ | — | Outros produtos para o aparelho digestivo e metabolismo |
+| Registro 178170079 | EPOCLER | — | Outros produtos para o aparelho digestivo e metabolismo |
+| Registro 102980493 | REGENCEL | — | Outros medicamentos com ação no aparelho visual |
+| Registro 100410131 | NEPHROTECT | — | Nutrientes parenterais |
+| Registro 167730285 | NATUS GERIN | — | Vitaminas ou minerais associados a outros fármacos |
+
+---
 
 ## Considerações de Segurança
 
-- **Contraindicações (base de conhecimento TxGNN/PrimeKG, não extraídas de bula):** hipertensão, doença renal (incluindo doença renal crônica e insuficiência renal terminal), nefrolitíase, nefrocalcinose, hipercalcemia, sarcoidose, diabetes mellitus e cetoacidose diabética, doença cardíaca e cardiovascular, hiperlipidemia (incluindo familiar), nefropatia aguda por urato, intoxicação digitálica, fibrilação ventricular, fenilcetonúria e outros distúrbios do metabolismo da fenilalanina, entre outras.
-- **Interações Medicamentosas (5 identificadas):**
-  - **Moderada:** carvão ativado.
-  - **Menores:** efedrina, pseudoefedrina, mexiletina e flecainida.
-- **Observação:** a suplementação de metionina pode elevar a homocisteína, o que é preocupante em pacientes cardiovasculares e é um risco teórico no contexto da acne.
+- **Contraindicações registradas no grafo de conhecimento** (não são texto de bula): hipertensão, doença renal (incluindo doença renal crônica e insuficiência renal terminal), diabetes mellitus e cetoacidose diabética, hipercalcemia, nefrocalcinose, nefrolitíase, doença cardíaca e cardiovascular, hiperlipidemia (incluindo a familiar), fenilcetonúria e distúrbios do metabolismo da fenilalanina, sarcoidose, intoxicação digitálica e fibrilação ventricular.
+- **Interações medicamentosas** (5 registradas):
+  - Moderada: carvão ativado.
+  - Leves: efedrina, pseudoefedrina, mexiletina e flecainida.
+- **Risco teórico:** a metionina em excesso pode elevar a homocisteína, o que é relevante para o risco vascular.
 
-Consulte a bula para as advertências oficiais, pois os dados de advertências e contraindicações da ANVISA não estavam disponíveis.
+Consulte a bula para advertências e contraindicações oficiais, pois os dados de bula não estavam disponíveis.
+
+---
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem evidência mecanística direta de que a metionina trate a acne; a previsão é apenas computacional (L5). Além disso, todos os registros brasileiros estão cancelados e há uma lista extensa de contraindicações potenciais.
+- Não há ensaios clínicos e as duas publicações sobre acne são indiretas, sem apoio a um efeito terapêutico da metionina; por isso o nível é L5. A acne não deve avançar como candidata de reposicionamento com os dados atuais.
 
 **Para prosseguir, é necessário:**
-- Obter os dados de mecanismo de ação (por exemplo, via DrugBank) e avaliar a plausibilidade biológica na acne.
-- Obter e analisar as bulas na ANVISA (advertências e contraindicações).
-- Realizar estudos pré-clínicos que testem diretamente a metionina na acne e avaliem o efeito sobre a homocisteína.
-- Avaliar a situação regulatória, já que não há registro vigente no Brasil.
-
----
-
-**Observação sobre outras indicações previstas:** as demais indicações do modelo (retinopatia diabética não proliferativa grave e vários tipos de catarata) também estão em nível L5, com decisão *Hold*. A **catarata diabética** é a que tem evidência indireta mais relevante (nível L4, "pergunta de pesquisa"), envolvendo a metionina sulfóxido redutase B1 e a proteção contra o estresse oxidativo no cristalino. Mesmo assim, esses dados mostram o envolvimento da via e não o benefício da administração de metionina, que poderia até elevar a homocisteína. Esse é um possível caminho para investigação futura.
+- Obter e analisar a bula na ANVISA (advertências e contraindicações), uma lacuna que impede a triagem de segurança.
+- Obter dados do mecanismo de ação no DrugBank.
+- Para acne: reunir evidência pré-clínica ou clínica que mostre algum efeito da metionina, o que hoje não existe.
+- Para a linha alternativa da catarata diabética: realizar testes pré-clínicos (células epiteliais de cristalino em glicose alta ou modelo em roedor diabético), com monitoramento de homocisteína.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

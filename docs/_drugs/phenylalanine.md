@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **colangite esclerosante (scleros
 |------|------|
 | Indicação Original | Nutrientes parenterais |
 | Nova Indicação Prevista | Colangite esclerosante (sclerosing cholangitis) |
-| Pontuação de Previsão TxGNN | 99,43% |
+| Pontuação de Previsão TxGNN | 0,9943 |
 | Nível de Evidência | L5 (apenas previsão do modelo; a literatura encontrada é observacional e não avalia efeito terapêutico) |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 15 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 15) |
+| Número de Registros | 15 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo infor
 
 A relação entre a indicação original e a nova indicação é fraca. A literatura encontrada associa o metabolismo de aminoácidos aromáticos (tirosina plasmática) à fadiga na cirrose biliar primária e na colangite esclerosante primária. Trata-se de uma associação observacional com sintomas da doença, e não de evidência de benefício terapêutico.
 
-Portanto, a pontuação elevada do TxGNN (99,43%) é apenas uma previsão computacional baseada em grafo de conhecimento. Não há racional mecanístico direto que justifique o uso da fenilalanina para tratar a colangite esclerosante.
+Portanto, a pontuação elevada do TxGNN (0,9943) é apenas uma previsão computacional do modelo TxGNN (deep learning), que pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, e não evidência biológica. Não há racional mecanístico direto que justifique o uso da fenilalanina para tratar a colangite esclerosante.
 
 ## Evidências de Ensaios Clínicos
 
@@ -75,7 +75,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros estão cancelados. São listados os 5 principais:
+Os 15 registros estão válidos. São listados os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -97,7 +97,7 @@ Consulte a bula para as advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem evidência de efeito terapêutico; a literatura é apenas observacional, e a pontuação do TxGNN é uma previsão computacional sem racional mecanístico estabelecido. Além disso, todos os registros brasileiros estão cancelados.
+- Não há ensaios clínicos nem evidência de efeito terapêutico; a literatura é apenas observacional, e a pontuação do TxGNN é uma previsão computacional sem racional mecanístico estabelecido. O medicamento é comercializado no Brasil, com 15 registros válidos de 15.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança

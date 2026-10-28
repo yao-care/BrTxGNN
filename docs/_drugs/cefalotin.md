@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Cefalotin
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 203
-evidence_level: L4
+evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-13
 description: "Cefalotin: nova indicação prevista, Uretrite gonocócica (Gonococcal urethritis) (nível de evidência L4). Indicação original: Cefalosporinas / antibióticos sistêmicos simples"
@@ -14,7 +14,7 @@ predicted_indications: ["gonococcal urethritis", "Ureaplasma urethritis", "bronc
 # Cefalotin
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **8** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que pode ser eficaz para **uretrite gonocócica (gonococca
 |------|------|
 | Indicação Original | Cefalosporinas / antibióticos sistêmicos simples |
 | Nova Indicação Prevista | Uretrite gonocócica (Gonococcal urethritis) |
-| Pontuação de Previsão TxGNN | 99,25% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 9 (todos cancelados) |
+| Pontuação de Previsão TxGNN | 0,9925 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
+| Número de Registros | 9 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -65,17 +65,17 @@ Além disso, o produto está cancelado no mercado brasileiro e é de uso exclusi
 
 | Posição | Indicação | Pontuação | Nível | Comentário |
 |---|---|---|---|---|
-| 2 | Uretrite por *Ureaplasma* | 99,25% | L5 | *Ureaplasma* não possui parede celular; beta-lactâmicos são mecanisticamente ineficazes |
-| 3 | Bronquite | 99,25% | L4 | Maioria é viral; antibiótico só seria plausível em casos bacterianos |
-| 4 | Síndrome de hiperviscosidade policlonal | 99,16% | L5 | Sem vínculo mecanístico plausível; provável artefato do grafo |
-| 5 | Hiperamilasemia | 99,16% | L5 | Achado laboratorial sem relação com a ação antibacteriana |
-| 6 | Doença inflamatória uterina | 99,11% | L4 | Racional indireto (profilaxia cirúrgica); cobertura anaeróbica limitada |
-| 7 | Pielonefrite xantogranulomatosa | 99,09% | L4 | Tratamento é tipicamente cirúrgico; atividade limitada contra Gram-negativos |
-| 8 | Analbuminemia congênita | 99,01% | L5 | Doença genética; sem mecanismo plausível |
+| 2 | Uretrite por *Ureaplasma* | 0,9925 | L5 | *Ureaplasma* não possui parede celular; beta-lactâmicos são mecanisticamente ineficazes |
+| 3 | Bronquite | 0,9925 | L4 | Maioria é viral; antibiótico só seria plausível em casos bacterianos |
+| 4 | Síndrome de hiperviscosidade policlonal | 0,9916 | L5 | Sem vínculo mecanístico plausível; a pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica |
+| 5 | Hiperamilasemia | 0,9916 | L5 | Achado laboratorial sem relação com a ação antibacteriana |
+| 6 | Doença inflamatória uterina | 0,9911 | L4 | Racional indireto (profilaxia cirúrgica); cobertura anaeróbica limitada |
+| 7 | Pielonefrite xantogranulomatosa | 0,9909 | L4 | Tratamento é tipicamente cirúrgico; atividade limitada contra Gram-negativos |
+| 8 | Analbuminemia congênita | 0,9901 | L5 | Doença genética; sem mecanismo plausível |
 
 ## Informações de Comercialização no Brasil
 
-Todos os 9 registros encontrados estão cancelados; não há registro válido atualmente.
+Todos os 9 registros encontrados estão válidos; o medicamento é comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -102,7 +102,7 @@ Para advertências e contraindicações, consulte a bula.
 
 **Justificativa:**
 - Não há ensaios clínicos nem literatura apoiando a previsão; a evidência é apenas indireta (L4).
-- O fármaco tem atividade limitada contra *N. gonorrhoeae*, existem alternativas padrão (ceftriaxona) e todos os registros no Brasil estão cancelados.
+- O fármaco tem atividade limitada contra *N. gonorrhoeae*, existem alternativas padrão (ceftriaxona) e o medicamento é comercializado no Brasil (9 de 9 registros válidos).
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação (MOA) e do perfil de sensibilidade de *N. gonorrhoeae* à cefalotina.

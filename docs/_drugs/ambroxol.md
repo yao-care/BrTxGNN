@@ -4,17 +4,17 @@ title: Ambroxol
 parent: Apenas Predição do Modelo (L5)
 nav_order: 48
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Ambroxol: nova indicação prevista, Doença da Cavidade Nasal (Nasal Cavity Disease) (nível de evidência L5). Indicação original: Faringite (segundo as relações de indicação do grafo de conhecimento…"
+indication_count: 4
 monitor_inn: "Ambroxol"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder", "vulvitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "vulvovaginitis"]
+predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
+last_modified_at: 2026-10-27
+description: "Ambroxol: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Ambroxol
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,61 +33,64 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Ambroxol: Da faringite à doença da cavidade nasal
+## Ambroxol: agente mucolítico/secretolítico → doença da cavidade nasal (nasal cavity disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Ambroxol é um agente mucolítico/secretolítico, originalmente associado ao tratamento da faringite.
-O modelo TxGNN prevê que pode ser eficaz para **Doença da Cavidade Nasal (Nasal Cavity Disease)**,
-atualmente com **nenhum ensaio clínico** e **1 publicação** (revisão narrativa sobre tosse aguda) apoiando esta direção.
+Ambroxol é um agente mucolítico e secretolítico, usado como expectorante em vários países.
+O modelo TxGNN prevê que pode ser eficaz para **doença da cavidade nasal (nasal cavity disease)**,
+atualmente com **nenhum ensaio clínico** e **1 publicação** (revisão narrativa sobre tosse aguda, sem estudo direto da doença prevista) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Faringite (segundo as relações de indicação do grafo de conhecimento TxGNN; não há texto de indicação aprovada no Brasil) |
-| Nova Indicação Prevista | Doença da Cavidade Nasal (Nasal Cavity Disease) |
-| Pontuação de Previsão TxGNN | 99,91% |
-| Nível de Evidência | L5 (apenas previsão do modelo; a única publicação disponível é uma revisão narrativa sem verificação do desenho, o que não alcança o nível L3) |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | doença da cavidade nasal (nasal cavity disease) |
+| Pontuação de Previsão TxGNN | 0,9991 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas de farmacologia geral, o ambroxol é um agente mucolítico e secretolítico que aumenta a depuração das secreções das vias aéreas. Também apresenta atividade anestésica local (bloqueio de canais de sódio) e propriedades anti-inflamatórias.
+Não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pela farmacologia geral, ambroxol aumenta a depuração das secreções das vias aéreas e tem propriedades anestésicas locais (bloqueio de canais de sódio) e anti-inflamatórias. Esses efeitos poderiam, em tese, aliviar a hipersecreção de muco e a irritação das vias aéreas superiores.
 
-A faringite e as doenças da cavidade nasal são ambas afecções das vias aéreas superiores, com hipersecreção de muco e irritação da mucosa. Por isso, é plausível que o efeito sobre as secreções e o efeito anestésico/anti-inflamatório local possam aliviar sintomas nasais. Trata-se, porém, de uma inferência baseada em farmacologia geral, não confirmada pelos dados compilados.
+Esse raciocínio é uma inferência baseada em farmacologia geral, não confirmada pelos dados disponíveis. A pontuação alta do TxGNN (0,9991) é apenas uma previsão do modelo.
 
-Vale notar que o ambroxol também atua como chaperona da enzima glucosilceramidase beta (GBA1) e está sendo estudado para doenças neurodegenerativas, como Parkinson e esclerose lateral amiotrófica. Isso não tem relação direta com a indicação nasal prevista.
+Ambroxol também interage com a enzima glucosilceramidase beta (GBA1), atuando como chaperona; esse mecanismo está sendo estudado em doenças neurodegenerativas, mas não tem relação direta com a doença da cavidade nasal.
+
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Revisão narrativa (desenho não verificável) | Vestnik otorinolaringologii | Discute o tratamento da tosse aguda associada a gripe e infecções respiratórias virais agudas, em que a tosse pode ser produtiva, com expectoração evidente |
-
-Não há ensaios clínicos registrados relacionados a esta indicação.
+| [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Revisão narrativa | Vestnik otorinolaringologii | Discute o tratamento da tosse aguda associada a infecções respiratórias virais; o resumo disponível não trata diretamente da doença da cavidade nasal |
 
 ## Considerações de Segurança
 
-- **Interações Medicamentosas**: foi identificada 1 interação farmacológica, com a glucosilceramidase beta (GBA1). O ambroxol atua como chaperona inibitória da enzima em pH neutro, mas aumenta a atividade intracelular da enzima nos lisossomos ácidos. Trata-se de uma interação de alvo farmacológico, sem nível de gravidade classificado.
+- **Interações Medicamentosas**: foi registrada uma interação de natureza farmacológica com a glucosilceramidase beta (GBA1). Ambroxol atua como chaperona inibitória dessa enzima em pH neutro, mas aumenta sua atividade dentro das células, nos lisossomos ácidos. Não há classificação de gravidade disponível.
 
-Para advertências e contraindicações, consulte a bula.
+Para as demais informações de segurança, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-A pontuação do modelo é muito alta (99,91%), mas não há ensaios clínicos e a única publicação é uma revisão narrativa sobre tosse aguda, não específica para doença da cavidade nasal. Além disso, o fármaco não é comercializado no Brasil e os dados de segurança e de mecanismo estão incompletos.
+Não há ensaios clínicos nem estudos que avaliem diretamente a doença da cavidade nasal; a única publicação é uma revisão narrativa sobre tosse aguda. A previsão do modelo, isoladamente, não sustenta o avanço.
 
 **Para prosseguir, é necessário:**
-- Obter a bula na ANVISA para avaliar advertências e contraindicações (lacuna bloqueante para a triagem de segurança)
-- Complementar os dados do mecanismo de ação (por exemplo, via DrugBank)
-- Buscar estudos clínicos ou observacionais específicos de ambroxol em doenças da cavidade nasal
-- Esclarecer a via de administração necessária (a compatibilidade de vias ainda está pendente) e a viabilidade regulatória, dado que não há registro no Brasil
+- Estudos clínicos ou observacionais que avaliem ambroxol diretamente na doença da cavidade nasal
+- Dados detalhados do mecanismo de ação (MOA)
+- Advertências e contraindicações da bula aprovada pela ANVISA
+- Avaliação da compatibilidade de via de administração e da forma farmacêutica para uso nasal/superior das vias aéreas
+- A lista de registros locais pode estar parcial; confirmar o conjunto completo de licenças
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

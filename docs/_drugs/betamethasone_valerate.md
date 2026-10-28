@@ -8,6 +8,7 @@ nav_order: 130
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Betamethasone Valerate
@@ -51,7 +52,7 @@ O medicamento **não possui registros ativos** no mercado brasileiro, e os dados
 | Nova Indicação Prevista | Nenhuma — sem previsão TxGNN disponível |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros ANVISA | 0 |
 | Decisão Recomendada | **Hold** |
 

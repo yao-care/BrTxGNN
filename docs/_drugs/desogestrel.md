@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Desogestrel
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 258
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Desogestrel: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L3). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Desogestrel"
-predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "acne (disease)", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
+predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "acne (disease)", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
 ---
 
 # Desogestrel
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (amenorrhea)**, atua
 |------|------|
 | Indicação Original | Não disponível nos dados compilados (nenhuma licença ANVISA ativa) |
 | Nova Indicação Prevista | Amenorreia (amenorrhea) |
-| Pontuação de Previsão TxGNN | 99,96% |
-| Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
+| Pontuação de Previsão TxGNN | 0,9996 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 10) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

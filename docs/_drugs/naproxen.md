@@ -6,9 +6,9 @@ nav_order: 467
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-13
-description: "Naproxen: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly synd… (nível de evidência L5). Indicação original: Bursite, artrite reumatoide, espondilite anquilo…"
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
+description: "Naproxen: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Naproxen
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-## Naproxeno: Da dor e inflamação musculoesquelética à síndrome de braquidactilia-sindactilia
+## Naproxen: Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,11 +46,11 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Bursite, artrite reumatoide, espondilite anquilosante, tendinite, gota, enxaqueca, osteoartrite e outras (segundo o grafo de conhecimento; não há texto de indicação aprovada no Brasil) |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) |
-| Pontuação de Previsão TxGNN | 99,35% |
+| Pontuação de Previsão TxGNN | 0.9935 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados para este relatório) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 9) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A síndrome de braquidactilia-sindactilia é uma malformação esquelética congênita, de origem genética e relacionada ao desenvolvimento. Não foi identificada, nos dados disponíveis, nenhuma via plausível pela qual a inibição de prostaglandinas modificaria a evolução dessa doença. Qualquer benefício se limitaria, no máximo, ao alívio sintomático de dor articular, o que não está sustentado por evidências aqui.
 
-Portanto, a pontuação elevada do TxGNN (99,35%) reflete apenas uma associação no grafo de conhecimento. Não há base mecanística, clínica ou bibliográfica que a corrobore.
+Portanto, a pontuação elevada do modelo TxGNN (deep learning) (0,9935) vem do modelo e pode refletir semelhanças que ele aprendeu entre doenças relacionadas, não evidência biológica. Não há base mecanística, clínica ou bibliográfica que a corrobore.
 
 Outras previsões do modelo, igualmente sem evidências, foram: síndrome de microftalmia colobomatosa-displasia rizomélica (99,22%), displasia acromesomélica tipo Hunter-Thompson (99,17%) e síndrome de braquiolmia-amelogênese imperfeita (99,06%). Todas são doenças genéticas raras do desenvolvimento, sem racional mecanístico identificado para o naproxeno.
 
@@ -81,7 +81,7 @@ Consulte a bula para advertências principais e contraindicações formais.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão está no nível de evidência L5: não há ensaios clínicos, publicações nem racional mecanístico plausível, e o fármaco não está comercializado no Brasil. Não há base para avançar além da triagem inicial.
+Não há base para avançar além da triagem inicial.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula e os dados de segurança (advertências e contraindicações) de fontes oficiais, como o site da ANVISA

@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Betahistine
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 124
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Betahistine: nova indicação prevista, Síndrome das Pernas Inquietas (Restless Legs Syndrome) (nível de evidência L5). Indicação original: Vasodilatadores"
-monitor_inn: "Betahistine"
-predicted_indications: ["restless legs syndrome", "otosclerosis", "peripheral vertigo", "age-related hearing impairment", "vertigo, benign recurrent, 2", "autosomal recessive hyperinsulinism due to Kir6.2 deficiency", "hyperinsulinemic hypoglycemia, familial"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Betahistine: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação"
+predicted_indications: []
 ---
 
 # Betahistine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,96 +32,66 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Betaistina: De antivertiginoso/vasodilatador à síndrome das pernas inquietas
+<!-- known-uses-page -->
+<!-- description: Betahistine: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação -->
+## Betahistine: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+O modelo TxGNN não apresenta, para Betahistine, nenhum candidato com pontuação igual ou superior a 0,99. Por isso, atualmente não há nova indicação prevista. Os usos registrados para este medicamento estão listados abaixo.
 
-Betaistina é um análogo da histamina, originalmente registrado no Brasil como vasodilatador e antivertiginoso.
-O modelo TxGNN prevê que pode ser eficaz para a **Síndrome das Pernas Inquietas (Restless Legs Syndrome)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção específica; trata-se apenas de uma previsão do modelo.
-
-Observação: entre as 10 previsões geradas, a de maior evidência é a de **vertigem periférica** (e doença de Ménière), que corresponde a um uso já aprovado da classe antivertiginosa e, portanto, não é um reposicionamento genuíno. Ela é discutida ao longo do relatório como referência.
-
----
-
-## Visão Geral Rápida
-
+## Visão geral
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Vasodilatadores (classe do registro); antivertiginosos |
-| Nova Indicação Prevista | Síndrome das Pernas Inquietas (Restless Legs Syndrome) |
-| Pontuação de Previsão TxGNN | 98,51% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 20 (todos cancelados) |
-| Decisão Recomendada | Hold |
+| Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação de 0,99 ou mais) |
+| Usos conhecidos registrados para este medicamento | 2 |
+| Nível de evidência | Não se aplica |
+| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 20) |
+| Número de Registros | pelo menos 20 |
 
----
+## Usos conhecidos registrados para este medicamento
 
-## Por que Esta Previsão é Razoável?
+### Aprovados (com respaldo em licença ou bula)
+| Indicação | Fonte |
+|------|------|
+| Doença de Ménière (meniere disease) | Licença em outro país |
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, a betaistina atua como agonista do receptor H1 de histamina (fraco) e antagonista do receptor H3 (mais potente), o que aumenta a liberação central de histamina. Acredita-se que isso melhore a microcirculação da orelha interna e favoreça a compensação vestibular.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhuma | Nenhuma |
 
-A relação com a indicação original é indireta: a betaistina foi usada contra vertigem e distúrbios vestibulares, enquanto a síndrome das pernas inquietas é um transtorno neurológico sensório-motor. Existe apenas um elo teórico, via vias histaminérgicas e, secundariamente, dopaminérgicas e do metabolismo do ferro.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Hidropisia endolinfática (endolymphatic hydrops) |
 
-Os dados compilados não trazem ensaios nem literatura que sustentem essa ligação. A pontuação alta do TxGNN reflete proximidade na rede de conhecimento, e não evidência clínica. A previsão deve ser tratada como hipótese de pesquisa.
+## Market information
 
-### Outras previsões do modelo (para contexto)
-
-| Indicação prevista | Pontuação TxGNN | Nível de Evidência | Observação |
+| Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|
-| Doença de Ménière vestibular ativa | 98,34% | L3 | Revisões e estudos observacionais; uso já estabelecido |
-| Doença de Ménière coclear ativa | 98,34% | L4 | Apenas estudos pré-clínicos mecanísticos |
-| Doença de Ménière cocleovestibular ativa | 98,34% | L5 | Somente previsão |
-| Otosclerose | 98,19% | L4 | Evidência indireta; possível alívio de sintomas vestibulares |
-| Vertigem periférica | 98,07% | L1 | RCT (BEMED) e revisões sistemáticas, com eficácia incerta |
-| Perda auditiva relacionada à idade | 97,93% | L5 | Somente previsão |
-| Vertigem recorrente benigna tipo 2 | 97,78% | L2 | Estudos comparativos como adjuvante em VPPB |
-| Hiperinsulinismo por deficiência de Kir6.2 | 97,77% | L5 | Sem mecanismo plausível |
-| Hipoglicemia hiperinsulinêmica familiar | 97,32% | L5 | Sem mecanismo plausível |
+| 105530343 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 100431088 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 125680259 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 156510105 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 103720260 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 103900220 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 154230235 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 105730030 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 105530395 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 105730730 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 125680376 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 103700738 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 101180596 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 100431129 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 135170019 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 101180655 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 101180656 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 156510100 | DICLORIDRATO DE BETAISTINA |  | Ativo |
+| 105730557 | BETAISTINA |  | Ativo |
+| 151670050 | DICLORIDRATO DE BETAISTINA |  | Ativo |
 
----
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados para a síndrome das pernas inquietas, nem para as demais indicações previstas.
-
----
-
-## Evidências da Literatura
-
-Para a síndrome das pernas inquietas, atualmente não há literatura relacionada.
-
-Como referência, a literatura da indicação com maior evidência (vertigem periférica / Ménière) inclui:
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [26797774](https://pubmed.ncbi.nlm.nih.gov/26797774/) | 2016 | RCT | BMJ | Ensaio BEMED, multicêntrico, duplo-cego, controlado por placebo, de longa duração em doença de Ménière; reanálises indicam que a betaistina não reduziu significativamente as crises de vertigem em relação ao placebo |
-| [36827524](https://pubmed.ncbi.nlm.nih.gov/36827524/) | 2023 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Intervenções farmacológicas sistêmicas na doença de Ménière, incluindo betaistina; eficácia relatada como incerta |
-| [27327415](https://pubmed.ncbi.nlm.nih.gov/27327415/) | 2016 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Avalia se a betaistina supera o placebo nos sintomas de vertigem de diferentes causas |
-| [23778722](https://pubmed.ncbi.nlm.nih.gov/23778722/) | 2014 | Meta-análise | Eur Arch Otorhinolaryngol | Meta-análise de 12 estudos duplo-cegos controlados por placebo em vertigem vestibular e doença de Ménière |
-| [12582782](https://pubmed.ncbi.nlm.nih.gov/12582782/) | 2003 | RCT | Eur Arch Otorhinolaryngol | 144 pacientes com Ménière ou vertigem posicional paroxística; betaistina vs. placebo, duplo-cego |
-| [6363584](https://pubmed.ncbi.nlm.nih.gov/6363584/) | 1984 | RCT (cruzado) | J Laryngol Otol | Estudo duplo-cego e cruzado com 24 pacientes com vertigem de origem vestibular periférica |
-| [26245698](https://pubmed.ncbi.nlm.nih.gov/26245698/) | 2015 | Revisão | Acta Otolaryngol | Descreve a betaistina como eficaz e segura em Ménière, VPPB e neuronite vestibular |
-| [40070497](https://pubmed.ncbi.nlm.nih.gov/40070497/) | 2025 | Revisão sistemática / meta-análise | World J Otorhinolaryngol Head Neck Surg | Betaistina como adjuvante da manobra de Epley na VPPB, com foco na tontura residual |
-| [26139562](https://pubmed.ncbi.nlm.nih.gov/26139562/) | 2015 | Pré-clínico | Audiol Neurootol | Receptores H3 como possíveis mediadores do aumento do fluxo sanguíneo coclear induzido pela betaistina |
-| [20940335](https://pubmed.ncbi.nlm.nih.gov/20940335/) | 2011 | Estudo clínico randomizado | J Clin Pharmacol | Betaistina melhorou a recuperação de sintomas estáticos após neurotomia vestibular unilateral |
-
----
-
-## Informações de Comercialização no Brasil
-
-Todos os 20 registros são de medicamentos de princípio ativo único e estão cancelados. Os cinco principais:
-
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105530343 | Betaserc | — | Vasodilatadores |
-| Registro nº 100431088 | Betina | — | Antivertiginosos |
-| Registro nº 103720260 | Debet | — | Antivertiginosos |
-| Registro nº 105530395 | Serc | — | Vasodilatadores |
-| Registro nº 101180596 | Labirin | — | Antivertiginosos |
-
----
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
 
 ## Considerações de Segurança
 
@@ -130,19 +99,6 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 
 ---
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-- Para a síndrome das pernas inquietas há apenas previsão do modelo (L5), sem ensaios nem literatura, e o mecanismo proposto é meramente teórico. Além disso, todos os registros da betaistina no Brasil estão cancelados, e o ensaio BEMED, principal RCT, não demonstrou superioridade sobre o placebo em Ménière.
-
-**Para prosseguir, é necessário:**
-- Dados do mecanismo de ação (MOA) a partir do DrugBank
-- Bulas da ANVISA (advertências e contraindicações), hoje ausentes e bloqueantes para a triagem de segurança
-- Revisão da literatura sobre histamina e síndrome das pernas inquietas, além de estudos pré-clínicos que justifiquem a hipótese
-- Leitura crítica das conclusões do BEMED e das revisões Cochrane, caso se priorize a linha vestibular, que não é reposicionamento genuíno
-- Confirmação da viabilidade regulatória de um novo registro, dado que todos os atuais foram cancelados
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -8,6 +8,7 @@ nav_order: 202
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Cefaclor Monohydrate
@@ -49,8 +50,8 @@ Cefaclor Mono-Hidratado é um antibiótico betalactâmico da classe das cefalosp
 | Nova Indicação Prevista | Não disponível neste ciclo |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsão do modelo) |
-| Situação no Mercado | Não comercializado (conforme base consultada) |
-| Número de Registros | 0 |
+| Situação no Mercado | Comercializado (registros ativos: 4 de 4) |
+| Número de Registros | 4 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ---

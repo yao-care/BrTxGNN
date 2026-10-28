@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Brodalumab
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 154
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Brodalumab: nova indicação prevista, Doença ocular (eye disease) (nível de evidência L4). Indicação original: Imunomodulador"
 monitor_inn: "brodalumab"
 predicted_indications: ["strongyloidiasis", "eye disease", "vitamin deficiency disorder", "von Hippel anomaly", "chronic relapsing inflammatory optic neuropathy", "isolated optic neuritis", "recurrent idiopathic neuroretinitis", "optic perineuritis", "episcleritis periodica fugax", "nodular episcleritis"]
+last_modified_at: 2026-10-27
+description: "Brodalumab: nova indicação prevista, Estrongiloidíase (strongyloidiasis) (nível de evidência L5). Indicação original: IMUNOMODULADOR"
 ---
 
 # Brodalumab
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,73 +33,80 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Brodalumabe: De imunomodulador a doença ocular (previsão do modelo)
+## Brodalumabe: antagonista do receptor de IL-17A → Estrongiloidíase (strongyloidiasis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Brodalumabe (KYNTHEUM) é um anticorpo monoclonal antagonista do receptor A da interleucina-17 (IL-17RA), registrado na ANVISA com a indicação genérica de "imunomodulador".
-O modelo TxGNN prevê que pode ser eficaz para **doença ocular (eye disease)**, mas atualmente há **0 ensaios clínicos** e apenas **3 publicações** de relevância limitada (nenhuma demonstra benefício terapêutico).
+Brodalumabe é um anticorpo monoclonal que bloqueia o receptor A da interleucina-17 (IL-17RA), com ação imunomoduladora.
+O modelo TxGNN prevê que pode ser eficaz para **Estrongiloidíase (strongyloidiasis)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. A previsão baseia-se apenas no modelo computacional.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Imunomodulador |
-| Nova Indicação Prevista | Doença ocular (eye disease) |
-| Pontuação de Previsão TxGNN | 99,82% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Apenas registro cancelado |
-| Número de Registros | 1 |
+| Indicação Original | IMUNOMODULADOR |
+| Nova Indicação Prevista | Estrongiloidíase (strongyloidiasis) |
+| Pontuação de Previsão TxGNN | 0,9984 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
-> Observação: a indicação prevista de maior pontuação no modelo é a estrongiloidíase (99,84%), mas sem nenhuma evidência (L5) e com risco de segurança plausível. Este relatório se concentra em "doença ocular", a primeira previsão com literatura associada.
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o brodalumabe é um antagonista do IL-17RA: ao bloquear o receptor compartilhado, inibe a sinalização de várias isoformas de IL-17 (e não apenas a IL-17A). Esse perfil imunomodulador é o que sustenta seu uso original.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que o brodalumabe é um antagonista do receptor IL-17RA, que bloqueia a sinalização de várias isoformas de IL-17 em vez de uma única.
 
-A sinalização de IL-17 está implicada em doenças inflamatórias e autoimunes oculares, como a uveíte, o que oferece uma justificativa plausível, porém indireta, para a previsão. "Doença ocular" é, contudo, uma categoria ampla e pouco específica, e a pontuação elevada pode refletir apenas similaridade no grafo de conhecimento.
+Não foi estabelecida uma ligação mecanística plausível entre esse bloqueio e o tratamento da estrongiloidíase, uma infecção parasitária. A pontuação elevada do TxGNN é uma previsão baseada em padrões computacionais, sem respaldo experimental ou clínico direto. Além disso, a via da IL-17 participa da defesa de mucosas e da resposta antimicrobiana do hospedeiro; seu bloqueio pode, em tese, prejudicar essa defesa. Assim, preocupações de segurança são mais prováveis do que benefício de eficácia.
 
-A literatura recuperada não mostra benefício terapêutico. Ao contrário, o sinal aponta mais para possíveis preocupações de segurança do que para eficácia (ver seções abaixo).
+---
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
+---
+
 ## Evidências da Literatura
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [41916603](https://pubmed.ncbi.nlm.nih.gov/41916603/) | 2026 | Farmacovigilância (mundo real) | Canadian Journal of Ophthalmology | Análise de eventos de uveíte notificados com medicamentos sistêmicos aprovados pela FDA; trata a uveíte como evento adverso, não como alvo terapêutico |
-| [41770262](https://pubmed.ncbi.nlm.nih.gov/41770262/) | 2026 | Relato de caso | Rheumatology International | Primeiro caso de doença de Behçet como reação paradoxal ao brodalumabe em paciente com osteíte crônica não bacteriana |
-| [42576218](https://pubmed.ncbi.nlm.nih.gov/42576218/) | 2026 | Pré-clínico | Journal of Translational Medicine | O bloqueio de IL-17R com brodalumabe limitou a periodontite experimental; estudo não ocular, apenas apoia a ação anti-inflamatória do bloqueio de IL-17R |
+Atualmente não há literatura relacionada.
+
+---
 
 ## Informações de Comercialização no Brasil
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 185690015 (cancelado) | KYNTHEUM | Não informada | Imunomodulador |
+| 185690015 | KYNTHEUM | Não informada | Imunomodulador |
+
+---
 
 ## Considerações de Segurança
 
-- **Contraindicações (grafo de conhecimento, não bula)**: o grafo de conhecimento do TxGNN associa o brodalumabe como contraindicado em doença de Crohn, doença inflamatória intestinal e colite de Crohn.
-- **Interações Medicamentosas**: foram identificadas 68 interações; entre as listadas, destacam-se as de gravidade **Major** com adalimumabe, baricitinibe, certolizumabe pegol e vacina BCG (cepa Tice, viva). Há também interações de gravidade moderada com roflumilaste, alefacepte, alentuzumabe, anakinra, canaquinumabe, vacinas vivas e toxoide tetânico, além de interações menores com sais de zinco. A combinação com outros imunossupressores e vacinas vivas exige cautela.
-- **Sinais da literatura**: um caso de doença de Behçet (reação paradoxal) e a análise de farmacovigilância sobre uveíte sugerem que o bloqueio de IL-17 pode, em alguns casos, estar associado a eventos inflamatórios oculares/sistêmicos.
+- **Interações Medicamentosas** (68 interações registradas; principais exemplos):
+  - **Gravidade maior**: adalimumabe, baricitinibe, certolizumabe pegol e vacina BCG (cepa Tice, viva). Em geral, associam-se ao risco aumentado de imunossupressão e infecções.
+  - **Gravidade moderada**: roflumilaste, alefacepte, alemtuzumabe, anaquinra, canaquinumabe, toxoide tetânico e várias vacinas ou preparações com micro-organismos vivos (como cólera e adenovírus).
+  - **Gravidade menor**: sais de zinco (acetato, gluconato, sulfato e cloreto).
+
+Como a bula não está disponível nos dados compilados, consulte-a para advertências e contraindicações.
+
+---
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é sustentada apenas pelo modelo e por literatura indireta (pré-clínica, relato de caso e farmacovigilância), sem ensaios clínicos e sem demonstração de benefício. O registro brasileiro está cancelado e faltam dados de segurança da bula, o que impede avançar na triagem de segurança.
+- A previsão baseia-se apenas no modelo, sem ensaios clínicos nem publicações sobre a estrongiloidíase, e não há mecanismo plausível que sustente benefício. A modulação da IL-17 pode, ao contrário, aumentar riscos relacionados a infecções.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula na ANVISA (advertências e contraindicações), atualmente ausentes.
-- Complementar os dados de mecanismo de ação a partir do DrugBank.
-- Definir uma indicação ocular específica (por exemplo, um subtipo de uveíte) em vez da categoria ampla "doença ocular".
-- Realizar revisão sistemática e estudos pré-clínicos em modelos oculares para avaliar eficácia e o risco de eventos paradoxais.
-- Esclarecer a situação regulatória (registro cancelado) e a viabilidade de disponibilidade no Brasil.
+- Dados do mecanismo de ação e justificativa biológica que relacione o bloqueio de IL-17RA à imunidade antiparasitária
+- Estudos pré-clínicos que avaliem o efeito em modelos de infecção por *Strongyloides*
+- Obtenção e análise da bula (advertências e contraindicações), com avaliação específica do risco de infecções em populações expostas a parasitoses
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

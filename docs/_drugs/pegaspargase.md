@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pegaspargase
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 511
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Pegaspargase: nova indicação prevista, Linfoma/leucemia linfoblástica precursora (precursor lymphoblastic ly… (nível de evidência L1). Indicação original: Leucemia linfoblástica aguda (LLA)…"
+evidence_level: L5
+indication_count: 7
 monitor_inn: "PEGASPARGASE"
-predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
+predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
+last_modified_at: 2026-10-23
+description: "Pegaspargase: nova indicação prevista, Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Pegaspargase
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,89 +33,112 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-## Pegaspargase: Da leucemia linfoblástica aguda ao linfoma/leucemia linfoblástica precursora
+## Pegaspargase: Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Pegaspargase é uma forma pegilada da enzima L-asparaginase, originalmente usada no tratamento da leucemia linfoblástica aguda (LLA).
-O modelo TxGNN prevê que pode ser eficaz para **linfoma/leucemia linfoblástica precursora (precursor lymphoblastic lymphoma/leukemia)**,
-atualmente com **39 ensaios clínicos** e **20 publicações** apoiando esta direção. Vale notar que esta indicação prevista é, na prática, praticamente idêntica à indicação original; não se trata de um reposicionamento genuíno.
+Pegaspargase é uma forma pegilada da enzima asparaginase, usada originalmente no tratamento da leucemia linfoblástica aguda (LLA).
+O modelo TxGNN prevê que ele pode ser eficaz para **leucemia linfocítica crônica/linfoma linfocítico de pequenas células pré-germinal (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)**, mas **não há ensaios clínicos nem publicações** que estudem diretamente essa doença: trata-se de uma previsão exclusivamente do modelo.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Leucemia linfoblástica aguda (LLA), incluindo LLA de células T precursoras |
-| Nova Indicação Prevista | Linfoma/leucemia linfoblástica precursora (precursor lymphoblastic lymphoma/leukemia) |
-| Pontuação de Previsão TxGNN | 99,96% |
-| Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Não comercializado |
-| Número de Registros | 0 |
-| Decisão Recomendada | Proceed with Guardrails |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma |
+| Pontuação de Previsão TxGNN | 0.9995 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
+| Decisão Recomendada | Hold |
+
+---
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo informações conhecidas, a pegaspargase é uma L-asparaginase pegilada que depleta a asparagina circulante. Os linfoblastos têm baixa expressão de asparagina sintetase e dependem da asparagina externa; sua depleção inibe a síntese proteica e induz apoptose.
+Não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo informações conhecidas, a asparaginase degrada a asparagina circulante, e células linfoides imaturas com baixa expressão de asparagina sintetase dependem desse aminoácido para sobreviver. Esse racional é bem estabelecido na LLA.
 
-A doença prevista (leucemia/linfoma linfoblástico de precursores B ou T) é essencialmente a mesma da indicação original. Por isso, a previsão do modelo reflete o uso já estabelecido do fármaco, e não uma nova oportunidade terapêutica. O mecanismo é plenamente aplicável, pois a mesma dependência de asparagina está presente nas células linfoblásticas, tanto na leucemia quanto no linfoma linfoblástico.
+A relação com a nova indicação é fraca. A LLC/LLP é composta por células B maduras, de proliferação lenta, e nada indica a mesma dependência de asparagina. A pontuação alta provavelmente reflete a proximidade na ontologia com as indicações de leucemia linfoide, e não um sinal biológico independente. Isso vale também para o subtipo com hipermutação somática dos genes da região variável da cadeia pesada de imunoglobulina (pontuação idêntica, 0,9995).
 
-Entre as demais previsões do modelo, a de LLA (rank 5) tem a mesma base de evidências. Previsões como a leucemia linfocítica crônica, o linfoma folicular e a deficiência de metilcobalamina cblE têm apenas pontuação do modelo, sem estudos, e o racional mecanístico é fraco.
+
+---
 
 ## Evidências de Ensaios Clínicos
 
-Foram identificados 39 ensaios para esta indicação; abaixo estão os 10 mais relevantes (priorizando os classificados como de maior relevância e de fase mais avançada).
+Atualmente não há ensaios clínicos relacionados registrados para a indicação principal (LLC/LLP pré-germinal).
+
+Para contexto, o modelo também associou o pegaspargase a "neoplasia linfoide" (rank 5), com ensaios majoritariamente em LLA, que é a indicação original e, portanto, não constituem evidência direta da nova indicação principal. Exemplos:
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00967057](https://clinicaltrials.gov/study/NCT00967057) | Phase 3 | Concluído | 470 | ALLR3: ensaio internacional parcialmente randomizado de quimioterapia combinada em LLA recidivada/refratária pediátrica; pegaspargase faz parte do regime base |
-| [NCT00103285](https://clinicaltrials.gov/study/NCT00103285) | Phase 3 | Concluído | 5377 | Regimes de quimioterapia combinada em LLA de precursor B de risco padrão recém-diagnosticada; a contribuição específica da pegaspargase não pode ser isolada |
-| [NCT00905034](https://clinicaltrials.gov/study/NCT00905034) | Phase 2 | Concluído | 37 | Regime MOAD (metotrexato, vincristina, L-asparaginase pegilada, dexametasona) em resgate de LLA do adulto |
-| [NCT00890656](https://clinicaltrials.gov/study/NCT00890656) | Phase 2 | Concluído | 90 | Hyper-CVAD aumentado em resgate de LLA; a asparaginase não é a variável testada |
-| [NCT05602194](https://clinicaltrials.gov/study/NCT05602194) | Phase 3 | Ativo, sem recrutamento | 440 | Levocarnitina para prevenir hepatotoxicidade associada à asparaginase em adolescentes e adultos jovens; relevante para segurança, não para eficácia |
-| [NCT02003222](https://clinicaltrials.gov/study/NCT02003222) | Phase 3 | Ativo, sem recrutamento | 488 | Blinatumomabe somado à quimioterapia em LLA B recém-diagnosticada em adultos; evidência indireta para pegaspargase |
-| [NCT03643276](https://clinicaltrials.gov/study/NCT03643276) | Phase 3 | Recrutando | 5000 | Protocolo AIEOP-BFM ALL 2017 para crianças e adolescentes com LLA |
-| [NCT03914625](https://clinicaltrials.gov/study/NCT03914625) | Phase 3 | Ativo, sem recrutamento | 6720 | Blinatumomabe com quimioterapia (incluindo pegaspargase) em LLA-B de risco padrão ou síndrome de Down e linfoma B localizado |
-| [NCT01005914](https://clinicaltrials.gov/study/NCT01005914) | Phase 2 | Encerrado | 11 | Adição de PEG-asparaginase ao Hyper-CVAD em LLA de adultos recém-diagnosticada |
-| [NCT01403415](https://clinicaltrials.gov/study/NCT01403415) | Phase 1 | Concluído | 13 | Temsirolimo com reindução intensiva (incluindo pegaspargase) em LLA/linfoma não Hodgkin pediátrico recidivado; estudo pequeno |
+| [NCT00967057](https://clinicaltrials.gov/study/NCT00967057) | Phase 3 | Concluído | 470 | Estudo internacional em LLA recidivante/refratária; indicação original |
+| [NCT00905034](https://clinicaltrials.gov/study/NCT00905034) | Phase 2 | Concluído | 37 | Regime MOAD com pegaspargase em resgate de LLA |
+| [NCT05602194](https://clinicaltrials.gov/study/NCT05602194) | Phase 3 | Ativo, sem recrutamento | 440 | Levocarnitina para prevenir hepatotoxicidade associada à asparaginase |
+| [NCT06376721](https://clinicaltrials.gov/study/NCT06376721) | Phase 1/2 | Recrutando | 43 | Linperlisib + camrelizumabe + pegaspargase em linfoma NK/T recidivante/refratário |
+| [NCT02396043](https://clinicaltrials.gov/study/NCT02396043) | Phase 2 | Desconhecido | 50 | Regime BFM-95 modificado em linfoma linfoblástico T do adulto |
+
+---
 
 ## Evidências da Literatura
 
-Foram identificadas 20 publicações; abaixo estão as 10 mais relevantes.
+Atualmente não há literatura relacionada à indicação principal (LLC/LLP pré-germinal).
+
+Literatura de contexto, em doenças linfoides diferentes:
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [35271306](https://pubmed.ncbi.nlm.nih.gov/35271306/) | 2022 | RCT | J Clin Oncol | Estudo de fase III AALL1231 do COG: bortezomibe em LLA-T e linfoma linfoblástico recém-diagnosticados |
-| [32813610](https://pubmed.ncbi.nlm.nih.gov/32813610/) | 2020 | RCT | J Clin Oncol | Estudo de fase III AALL0434 do COG: nelarabina em LLA-T recém-diagnosticada |
-| [27114587](https://pubmed.ncbi.nlm.nih.gov/27114587/) | 2016 | RCT | J Clin Oncol | AALL0232: dexametasona e metotrexato em altas doses melhoram o desfecho em LLA-B de alto risco |
-| [37276451](https://pubmed.ncbi.nlm.nih.gov/37276451/) | 2023 | Coorte | Blood Adv | Estudo GIMEMA LAL1913: programa com pegaspargase adaptado ao risco em adultos de 18 a 65 anos com LLA Ph-negativa |
-| [31030380](https://pubmed.ncbi.nlm.nih.gov/31030380/) | 2019 | Revisão | Drugs | Revisão da pegaspargase em LLA: circulação prolongada e menor imunogenicidade em comparação com a L-asparaginase de E. coli |
-| [40109190](https://pubmed.ncbi.nlm.nih.gov/40109190/) | 2025 | Revisão | Haematologica | Consenso de especialistas sobre reconhecimento, prevenção e manejo de eventos adversos da asparaginase/pegaspargase em adultos com LLA |
-| [40858769](https://pubmed.ncbi.nlm.nih.gov/40858769/) | 2025 | Coorte | Ann Hematol | Tolerabilidade da pegaspargase em 90 pacientes com 55 anos ou mais no programa LAL1913 |
-| [34228505](https://pubmed.ncbi.nlm.nih.gov/34228505/) | 2021 | Ensaio clínico | J Clin Oncol | DFCI 11-001: eficácia e toxicidade de calaspargase pegol versus pegaspargase em LLA infantil |
-| [14499708](https://pubmed.ncbi.nlm.nih.gov/14499708/) | 2003 | Revisão | Adv Drug Deliv Rev | Revisão de estudos clínicos: a pegaspargase mantém o efeito antileucêmico com menos injeções e menos reações alérgicas |
-| [27643446](https://pubmed.ncbi.nlm.nih.gov/27643446/) | 2017 | Revisão | Leuk Lymphoma | Reações de hipersensibilidade à pegaspargase: infusão intravenosa versus injeção intramuscular |
+| [27723108](https://pubmed.ncbi.nlm.nih.gov/27723108/) | 2017 | Ensaio Phase 2 | Hematol Oncol | Regime MESA (com pegaspargase) em linfoma NK/T: resposta completa de 43,5% e resposta global de 87% em 46 pacientes |
+| [34449095](https://pubmed.ncbi.nlm.nih.gov/34449095/) | 2021 | Estudo multicêntrico | Am J Hematol | P-GEMOX seguido de radioterapia em linfoma NK/T em estágio inicial |
+| [36781296](https://pubmed.ncbi.nlm.nih.gov/36781296/) | 2023 | Revisão | Leuk Lymphoma | Opinião de especialistas sobre uso e manejo de toxicidade da asparaginase na LLA |
+| [30626253](https://pubmed.ncbi.nlm.nih.gov/30626253/) | 2019 | Coorte | Leuk Lymphoma | Atividade plasmática da asparaginase e depleção de asparagina com pegaspargase em LLA |
+
+---
+
+## Informações de Comercialização no Brasil
+
+| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
+|---------|------|------|-----------|
+| Registro 112780076 (válido) | ONCASPAR | — | — |
+| Registro 156280010 (cancelado) | ONCASPAR | — | — |
+| Registro 169790012 (cancelado) | ONCASPAR | — | — |
+
+---
+
+## Citotoxicidade
+
+| Item | Conteúdo |
+|------|------|
+| Classificação de Citotoxicidade | Enzima antineoplásica (depletora de asparagina), não é um citotóxico convencional clássico |
+| Risco de Mielossupressão | Consulte as advertências e precauções na bula |
+| Classificação de Emetogenicidade | Consulte as advertências e precauções na bula |
+| Itens de Monitoramento | Função hepática, amilase/lipase, coagulação e fibrinogênio, glicemia, atividade da asparaginase |
+| Proteção no Manuseio | Seguir os regulamentos institucionais de manuseio de antineoplásicos |
+
+---
 
 ## Considerações de Segurança
 
-- **Interações Medicamentosas**: foram identificadas 100 interações, todas de gravidade moderada nos dados exibidos. Entre as principais: corticosteroides (hidrocortisona, dexametasona, betametasona, triamcinolona, budesonida), antidiabéticos (metformina, acarbose, alogliptina, albiglutida, canagliflozina, dapagliflozina, saxagliptina, dulaglutida, clorpropamida), tetraciclinas (doxiciclina, tetraciclina), claritromicina, bupropiona, ácido acetilsalicílico e ácido quenodesoxicólico.
-- **Toxicidades descritas na literatura**: hepatotoxicidade, pancreatite, trombose, hipertrigliceridemia, hiperglicemia (especialmente com glicocorticoides) e reações de hipersensibilidade, com risco aumentado em adultos mais velhos e em pacientes obesos.
+- **Interações Medicamentosas**: foram identificadas 100 interações, todas de gravidade moderada nos dados exibidos. Exemplos: corticosteroides (hidrocortisona, dexametasona, betametasona, triamcinolona, budesonida), antidiabéticos (metformina, acarbose, alogliptina, canagliflozina, dapagliflozina, dulaglutida, clorpropamida), antibióticos (doxiciclina, tetraciclina, claritromicina), ácido acetilsalicílico e bupropiona.
+- **Pontos de atenção da literatura**: hepatotoxicidade, pancreatite, trombose, hipersensibilidade e toxicidade maior em adultos e adolescentes/jovens adultos.
 
-Para advertências e contraindicações formais, consulte a bula.
+Consulte a bula para advertências e contraindicações.
+
+---
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Há vários ensaios de fase 3 concluídos em LLA que incluem a pegaspargase no regime base, além de ampla literatura. Contudo, a evidência confirma o uso já estabelecido, e não um novo reposicionamento, e o fármaco não possui registro no Brasil.
+- A previsão principal (LLC/LLP pré-germinal) baseia-se apenas na pontuação do modelo, sem ensaios ou publicações sobre a própria doença. Não há racional biológico para dependência de asparagina, e a pontuação parece refletir proximidade de ontologia.
 
 **Para prosseguir, é necessário:**
-- Verificar a situação regulatória: não há registros no Brasil, então é preciso esclarecer a via de acesso ou de registro
-- Obter e analisar a bula (advertências e contraindicações), que ainda não estava disponível
-- Complementar os dados do mecanismo de ação
-- Plano de monitoramento das toxicidades específicas da asparaginase (função hepática, amilase/lipase, triglicerídeos, glicemia, coagulação e hipersensibilidade), especialmente em adultos acima de 40 anos e pacientes obesos
-- Planejar a revisão das interações com corticosteroides e antidiabéticos
+- Estudos pré-clínicos que mostrem sensibilidade de células de LLC/LLP à depleção de asparagina (expressão de asparagina sintetase).
+- Dados do mecanismo de ação e da bula da ANVISA (advertências e contraindicações; o texto de indicação dos registros está vazio).
+- Se houver interesse em reposicionamento, avaliar separadamente o linfoma NK/T extranodal, onde a literatura é mais consistente, como indicação própria (não é a previsão principal deste relatório).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

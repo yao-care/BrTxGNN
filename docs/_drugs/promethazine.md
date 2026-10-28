@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Promethazine
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 553
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Promethazine: nova indicação prevista, Conjuntivite da rosácea (rosacea conjunctivitis) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos"
-monitor_inn: "Promethazine"
-predicted_indications: ["rosacea conjunctivitis", "recalcitrant atopic dermatitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "conjunctival folliculosis", "chronic follicular conjunctivitis", "parasitic conjunctivitis"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Promethazine: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
+predicted_indications: []
 ---
 
 # Promethazine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,80 +32,57 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Prometazina: De anti-histamínico sistêmico para rosácea conjuntivite (conjuntivite associada à rosácea)
+<!-- known-uses-page -->
+<!-- description: Promethazine: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata -->
+## Promethazine: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+Os candidatos do modelo TxGNN para este medicamento (pontuação ≥ 0,99) correspondem todos a usos já conhecidos. Por isso, atualmente não há nenhuma nova indicação predita para a Promethazine.
 
-Prometazina é um anti-histamínico H1 de primeira geração com atividade anticolinérgica, registrado no Brasil como anti-histamínico sistêmico, antialérgico tópico e analgésico não narcótico.
-O modelo TxGNN prevê que pode ser eficaz para **conjuntivite da rosácea (rosacea conjunctivitis)**, mas **não há ensaios clínicos nem publicações** apoiando esta previsão específica.
-Entre as demais previsões, a **urticária alérgica** (6 publicações indiretas) e a **rinite** (13 publicações, em geral antigas) são as mais respaldadas e representam, em grande parte, usos já conhecidos do fármaco.
-
-## Visão Geral Rápida
-
+## Visão geral
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anti-histamínicos sistêmicos |
-| Nova Indicação Prevista | Conjuntivite da rosácea (rosacea conjunctivitis) |
-| Pontuação de Previsão TxGNN | 98,94% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 11 (todos cancelados) |
-| Decisão Recomendada | Hold |
+| Novas indicações preditas | Nenhuma (todos os candidatos do modelo rastreáveis a uma fonte são usos conhecidos) |
+| Usos conhecidos entre os candidatos do modelo | 3 |
+| Nível de evidência | Não aplicável |
+| Situação de mercado no Brasil | Comercializado (registros ativos: 11 de 11) |
+| Número de Registros | 11 (ativos: 11) |
 
-> Observação: a indicação de maior pontuação (conjuntivite da rosácea) tem o menor respaldo de evidências. As indicações com maior suporte da literatura estão detalhadas nas seções seguintes.
+## Usos conhecidos entre os candidatos do modelo
 
-## Por que Esta Previsão é Razoável?
+### Aprovados (com respaldo em registro ou bula)
+| Indicação | Fonte |
+|------|------|
+| Nenhuma | — |
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a prometazina é um antagonista do receptor H1 de histamina com atividade anticolinérgica e sedativa, e sua eficácia em condições alérgicas é consolidada. Mecanisticamente, pode aliviar prurido e inflamação da superfície ocular de origem alérgica.
+### Relacionados a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhuma | — |
 
-Para a conjuntivite da rosácea, porém, a relação é frágil. Essa condição é impulsionada principalmente pela disfunção das glândulas de Meibômio e por inflamação, não pela histamina. Um anti-histamínico ofereceria, no máximo, alívio sintomático do prurido. Não foram encontrados ensaios ou literatura que sustentem esse vínculo, e a previsão baseia-se apenas na pontuação do modelo.
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| conjuntivite papilar (papillary conjunctivitis) |
+| conjuntivite atópica (atopic conjunctivitis) |
+| conjuntivite primaveril (vernal conjunctivitis) |
 
-Outras previsões seguem a mesma lógica. Na **urticária alérgica**, o bloqueio H1 atua diretamente no mecanismo central (pápula e prurido); trata-se mais de uma "redescoberta" de uso existente do que de reposicionamento genuíno. Na **rinite**, o bloqueio H1 reduz espirros, coriza e prurido, e a prometazina é usada há décadas para isso, embora a sedação e o prejuízo psicomotor a tornem menos favorável que os anti-histamínicos de segunda geração.
+## Market information
 
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados para a indicação principal (conjuntivite da rosácea), nem para as demais indicações previstas.
-
-## Evidências da Literatura
-
-Não há literatura relacionada à indicação principal (conjuntivite da rosácea). As tabelas abaixo apresentam as publicações das indicações previstas com maior respaldo, a título de contexto.
-
-**Urticária alérgica (previsão nº 2, nível L4)**
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [22130869](https://pubmed.ncbi.nlm.nih.gov/22130869/) | 2012 | Estudo farmacodinâmico controlado (duplo-cego, cruzado, em voluntários saudáveis) | Archives of Dermatological Research | Compara prometazina, fexofenadina e olopatadina quanto à função psicomotora e às reações de pápula e eritema induzidas por histamina |
-| [26844217](https://pubmed.ncbi.nlm.nih.gov/26844217/) | 2016 | Auditoria retrospectiva | Asia Pacific Allergy | Manejo de anafilaxia em serviço de emergência comparado às boas práticas (evidência indireta) |
-| [1453998](https://pubmed.ncbi.nlm.nih.gov/1453998/) | 1992 | Série de casos | Medical Journal of Australia | Sete casos de intoxicação escombroide (evidência indireta) |
-| [19797416](https://pubmed.ncbi.nlm.nih.gov/19797416/) | 2010 | Relato de caso | Japanese Journal of Clinical Oncology | Dessensibilização a sunitinibe em paciente com GIST (evidência indireta) |
-| [15861](https://pubmed.ncbi.nlm.nih.gov/15861/) | 1977 | Relatório farmacológico | Farmakologiia i Toksikologiia | Estudo de outro anti-histamínico (fencarol) em comparação com a prometazina |
-
-**Rinite (previsão nº 4, nível L3)**
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [12113215](https://pubmed.ncbi.nlm.nih.gov/12113215/) | 2002 | Revisão | Clinical Allergy and Immunology | Anti-histamínicos H1, inclusive de primeira geração como a prometazina, têm efeitos antialérgicos e anti-inflamatórios |
-| [24791618](https://pubmed.ncbi.nlm.nih.gov/24791618/) | 2014 | Estudo farmacodinâmico controlado | Clinical Neurophysiology | Sonolência e respostas motoras com doses diárias consecutivas de prometazina e loratadina |
-| [22130869](https://pubmed.ncbi.nlm.nih.gov/22130869/) | 2012 | Estudo farmacodinâmico controlado | Archives of Dermatological Research | Ver acima |
-| [568438](https://pubmed.ncbi.nlm.nih.gov/568438/) | 1978 | Relato clínico | Annals of Allergy | Eficácia e segurança de longo prazo da prometazina em 40 crianças pré-escolares com rinite crônica |
-| [13593960](https://pubmed.ncbi.nlm.nih.gov/13593960/) | 1958 | Série de casos | AMA Archives of Otolaryngology | Relato preliminar de 66 pacientes com otite média secretora e alergia nasal tratados com prometazina |
-| [14175878](https://pubmed.ncbi.nlm.nih.gov/14175878/) | 1964 | Revisão | Canadian Medical Association Journal | Tratamento da rinite alérgica |
-| [1841552](https://pubmed.ncbi.nlm.nih.gov/1841552/) | 1991 | Estudo in vitro | Arch Immunol Ther Exp | Ligação de antagonistas H1 (prometazina) e H2 a linfócitos de indivíduos atópicos e saudáveis |
-
-## Informações de Comercialização no Brasil
-
-Todos os 11 registros encontram-se cancelados.
-
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 186200005 | Fenergan | Não informada | Anti-histamínicos sistêmicos |
-| Registro 102980042 | Pamergan | Não informada | Anti-histamínicos sistêmicos |
-| Registro 105710132 | Promergan | Não informada | Antialérgicos tópicos |
-| Registro 186200003 | Cremefenergan | Não informada | Anti-histamínicos sistêmicos |
-| Registro 125680333 | Cloridrato de Prometazina | Não informada | Anti-histamínicos sistêmicos |
-
-Há ainda outros 6 registros cancelados (Cloridrato de Prometazina, Prometazol, Profergan, Lisador, Doriless e Dorilen), incluindo associações indicadas como analgésicos não narcóticos.
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 186200005 | CLORIDRATO DE PROMETAZINA |  | Ativo |
+| 102980042 | CLORIDRATO DE PROMETAZINA |  | Ativo |
+| 105710132 | CLORIDRATO DE PROMETAZINA |  | Ativo |
+| 186200003 | PROMETAZINA |  | Ativo |
+| 125680333 | CLORIDRATO DE PROMETAZINA |  | Ativo |
+| 103700691 | CLORIDRATO DE PROMETAZINA, PROMETAZINA |  | Ativo |
+| 113430202 | PROMETAZINA, CLORIDRATO DE PROMETAZINA |  | Ativo |
+| 103700321 | CLORIDRATO DE PROMETAZINA, PROMETAZINA |  | Ativo |
+| 178170060 | DIPIRONA, CLORIDRATO DE PROMETAZINA, CLORIDRATO DE ADIFENINA |  | Ativo |
+| 115600059 | DIPIRONA, dipirona monoidratada, CLORIDRATO DE ADIFENINA, CL |  | Ativo |
+| 167730210 | DIPIRONA, dipirona monoidratada, CLORIDRATO DE ADIFENINA, CL |  | Ativo |
 
 ## Considerações de Segurança
 
@@ -115,20 +91,6 @@ Há ainda outros 6 registros cancelados (Cloridrato de Prometazina, Prometazol, 
 
 Para advertências e contraindicações, consulte a bula.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-- A indicação principal prevista (conjuntivite da rosácea) tem apenas pontuação do modelo (nível L5), sem ensaios nem literatura, e o mecanismo não é primariamente histamínico. Além disso, todos os registros brasileiros estão cancelados.
-- As indicações com mais respaldo (urticária alérgica e rinite) são em grande parte usos já conhecidos do fármaco e, por isso, não configuram reposicionamento novo. Podem ser tratadas como questões de pesquisa, mas enfrentam a concorrência de anti-histamínicos de segunda geração, com menos sedação.
-
-**Para prosseguir, é necessário:**
-- Obter advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança)
-- Obter dados de mecanismo de ação (DrugBank)
-- Realizar revisão de literatura direcionada à conjuntivite da rosácea e a conjuntivites alérgicas
-- Confirmar a situação regulatória atual e a viabilidade de uma nova submissão, já que não há registros vigentes
-- Avaliar a compatibilidade de via de administração (por exemplo, formulação oftálmica) e o perfil de sedação frente às alternativas de segunda geração
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

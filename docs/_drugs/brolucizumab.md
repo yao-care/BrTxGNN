@@ -6,7 +6,7 @@ nav_order: 155
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-13
-description: "Brolucizumab: nova indicação prevista, Transtorno mitocondrial da fosforilação oxidativa por anomalias do DN… (nível de evidência L5). Indicação original: Outros medicamentos com ação no aparelho vis…"
+description: "Brolucizumab: nova indicação prevista, Transtorno mitocondrial da fosforilação oxidativa por anomalias do DNA nuclear (nível de evidência L5). Indicação original: Outros medicamentos com ação no aparelho vis…"
 monitor_inn: "brolucizumab"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency"]
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-## Brolucizumabe: De medicamento de ação no aparelho visual para transtorno mitocondrial da fosforilação oxidativa
+## Brolucizumabe: De medicamento de ação no aparelho visual para Transtorno mitocondrial da fosforilação oxidativa por anomalias do DNA nuclear
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,25 +48,25 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Outros medicamentos com ação no aparelho visual |
 | Nova Indicação Prevista | Transtorno mitocondrial da fosforilação oxidativa por anomalias do DNA nuclear |
-| Pontuação de Previsão TxGNN | 99,67% |
+| Pontuação de Previsão TxGNN | 0,9967 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o brolucizumabe é um fragmento de anticorpo de cadeia única (scFv) que inibe o VEGF-A, aprovado para uso intraocular (injeção intravítrea).
 
-**Não foi estabelecida uma ligação mecanística plausível.** Os transtornos mitocondriais da fosforilação oxidativa não são conhecidos por serem dirigidos pelo VEGF-A, e um biológico administrado por via intravítrea dificilmente alcançaria a disfunção mitocondrial sistêmica. A pontuação alta (99,67%) reflete uma associação baseada em grafo de conhecimento, sem respaldo em estudos reais. Além disso, os riscos de inflamação intraocular e vasculite retiniana associados ao fármaco acrescentam uma preocupação de segurança.
+**Não foi estabelecida uma ligação mecanística plausível.** Os transtornos mitocondriais da fosforilação oxidativa não são conhecidos por serem dirigidos pelo VEGF-A, e um biológico administrado por via intravítrea dificilmente alcançaria a disfunção mitocondrial sistêmica. A pontuação alta (0,9967) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Além disso, os riscos de inflamação intraocular e vasculite retiniana associados ao fármaco acrescentam uma preocupação de segurança.
 
 ### Outras indicações previstas (todas com nível L5, sem ensaios nem literatura)
 
 | Posição | Indicação prevista | Pontuação TxGNN | Comentário |
 |------|------|------|------|
-| 2 | Varizes esofágicas com sangramento | 99,12% | A angiogênese esplâncnica mediada por VEGF contribui para a hipertensão portal, mas a racionalidade é apenas indireta e especulativa. A inibição sistêmica do VEGF pode agravar sangramentos e prejudicar a cicatrização, o que é preocupante em hemorragia varicosa ativa. |
-| 3 | Varizes esofágicas sem sangramento | 99,12% | Mesma racionalidade especulativa. O tratamento padrão (betabloqueadores não seletivos, ligadura endoscópica) tem base de evidências muito superior. |
-| 4 | Insuficiência pancreática exócrina | 99,07% | Nenhuma ligação mecanística crível: resulta da perda da função acinar e é tratada com reposição enzimática; o VEGF-A não tem papel conhecido na restauração da secreção. |
+| 2 | Varizes esofágicas com sangramento | 0,9912 | A angiogênese esplâncnica mediada por VEGF contribui para a hipertensão portal, mas a racionalidade é apenas indireta e especulativa. A inibição sistêmica do VEGF pode agravar sangramentos e prejudicar a cicatrização, o que é preocupante em hemorragia varicosa ativa. |
+| 3 | Varizes esofágicas sem sangramento | 0,9912 | Mesma racionalidade especulativa. O tratamento padrão (betabloqueadores não seletivos, ligadura endoscópica) tem base de evidências muito superior. |
+| 4 | Insuficiência pancreática exócrina | 0,9907 | Nenhuma ligação mecanística crível: resulta da perda da função acinar e é tratada com reposição enzimática; o VEGF-A não tem papel conhecido na restauração da secreção. |
 
 ## Informações de Comercialização no Brasil
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nitrazepam
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 473
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Nitrazepam: nova indicação prevista, Distúrbio do sono… (nível de evidência L4). Indicação original: Insônia"
 monitor_inn: "NITRAZEPAM"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
+description: "Nitrazepam: nova indicação prevista, Wernicke-Korsakoff syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Nitrazepam
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **3** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,32 @@ Nível de evidência: **L4** | Indicações previstas: **3**
 
 </div>
 
-## Nitrazepam: Da insônia a distúrbio do sono (iniciar e manter o sono)
+## Nitrazepam: Wernicke-Korsakoff syndrome
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 Nitrazepam é um benzodiazepínico originalmente usado no tratamento da insônia e da encefalopatia mioclônica precoce.
-O modelo TxGNN prevê que pode ser eficaz para **distúrbio do sono, com dificuldade de iniciar e manter o sono (Sleep disorder, initiating and maintaining sleep)**, mas essa previsão praticamente coincide com o uso original do fármaco. Não há ensaios clínicos registrados, e há **20 publicações** de apoio indireto ou geral (em sua maioria revisões).
+O modelo TxGNN prevê que pode ser eficaz para a **síndrome de Wernicke-Korsakoff (Wernicke-Korsakoff syndrome)**. Não há ensaios clínicos registrados, e há **20 publicações** de apoio indireto ou geral (em sua maioria revisões).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Insônia; encefalopatia mioclônica precoce (conforme o grafo de conhecimento do TxGNN; não há texto de indicação de registro no Brasil) |
-| Nova Indicação Prevista | Distúrbio do sono, com dificuldade de iniciar e manter o sono (Sleep disorder, initiating and maintaining sleep) |
-| Pontuação de Previsão TxGNN | 99,89% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Wernicke-Korsakoff syndrome |
+| Pontuação de Previsão TxGNN | 0.9931 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 20) |
+| Número de Registros | 20 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo o conhecimento da classe, o nitrazepam é um benzodiazepínico que potencializa a sinalização do receptor GABA-A, produzindo efeito sedativo-hipnótico.
 
-A nova indicação prevista é, na prática, uma redefinição da insônia, que já é uma indicação original do fármaco. Por isso, a pontuação muito alta (0,999) provavelmente reflete uma associação já conhecida, e não um sinal de reposicionamento realmente novo. Mecanisticamente a previsão é coerente, mas seu valor como descoberta é limitado.
 
-Duas outras previsões do modelo têm evidência ainda mais fraca: a encefalopatia aguda com convulsões bifásicas e difusão reduzida tardia (pontuação de 99,59%, nível L5) e a síndrome de Wernicke-Korsakoff (99,31%, nível L5). Na primeira, o benzodiazepínico serviria apenas ao controle agudo das crises, não como terapia modificadora da doença. Na segunda, não há vínculo mecanístico claro: a doença decorre de deficiência de tiamina, e os benzodiazepínicos podem piorar a cognição e a confusão e causar depressão respiratória. Sem estudos clínicos ou publicações de apoio, ambas são apenas previsões do modelo.
+A síndrome de Wernicke-Korsakoff (0,9931, nível L5) tem evidência fraca. Não há vínculo mecanístico claro: a doença decorre de deficiência de tiamina, e os benzodiazepínicos podem piorar a cognição e a confusão e causar depressão respiratória. Sem estudos clínicos ou publicações de apoio, é apenas uma previsão do modelo.
 
 ## Evidências de Ensaios Clínicos
 

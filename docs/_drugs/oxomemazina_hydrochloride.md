@@ -8,6 +8,7 @@ nav_order: 500
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Oxomemazina Hydrochloride
@@ -53,8 +54,8 @@ O fármaco **não possui registros de comercialização no Brasil**, e lacunas c
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem previsões ou estudos disponíveis) |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
+| Número de Registros | 7 (ativos: 7) |
 | Decisão Recomendada | **Hold** |
 
 ---

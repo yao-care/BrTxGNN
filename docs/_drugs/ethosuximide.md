@@ -48,10 +48,10 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Anticonvulsivantes |
 | Nova Indicação Prevista | Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
-| Pontuação de Previsão TxGNN | 99,91% |
+| Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 A NSIAD é causada por mutações de ganho de função no receptor V2 da vasopressina (AVPR2), que levam à ativação constitutiva do receptor e à retenção de água independentemente da vasopressina. Não há, nos dados disponíveis, nenhuma ligação farmacológica plausível entre o bloqueio de canais de cálcio do tipo T e a hiperatividade do receptor V2.
 
-Assim, a única sustentação da previsão é a pontuação muito alta do modelo (0,999), cuja justificativa não está disponível. Qualquer conexão seria especulativa e exigiria validação mecanística independente. A previsão pode refletir artefatos do grafo de conhecimento, como fenótipos compartilhados (hiponatremia ou crises convulsivas), e não uma relação farmacológica real.
+Assim, a única sustentação da previsão é a pontuação muito alta do modelo TxGNN (aprendizado profundo) (0,9991), cuja justificativa não está disponível. Qualquer conexão seria especulativa e exigiria validação mecanística independente. A pontuação vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, como fenótipos compartilhados (hiponatremia ou crises convulsivas), e não evidência biológica de uma relação farmacológica real.
 
 ## Informações de Comercialização no Brasil
 

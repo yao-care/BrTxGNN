@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Lactose: Da intolerância à lactose ao sangramento de varizes esofágicas
+## Lactose: Da intolerância à lactose às varizes esofágicas com sangramento
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,17 +48,17 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 |------|------|
 | Indicação Original | Intolerância à lactose |
 | Nova Indicação Prevista | Varizes esofágicas com sangramento (esophageal varices with bleeding) |
-| Pontuação de Previsão TxGNN | 99,93% |
+| Pontuação de Previsão TxGNN | 0,9993 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 3) |
+| Número de Registros | 3 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, a lactose é um dissacarídeo de uso alimentar e excipiente em medicamentos. Não foi identificado um vínculo mecanístico plausível com as varizes esofágicas.
 
-A pontuação alta do modelo provavelmente reflete uma confusão com açúcares estruturalmente semelhantes. A lactulose, outro dissacarídeo sintético, é usada na encefalopatia hepática e em contextos de sangramento varicoso. A previsão, portanto, parece ser um artefato do grafo de conhecimento, e não uma hipótese biológica sustentada.
+A pontuação alta do modelo provavelmente reflete uma confusão com açúcares estruturalmente semelhantes. A lactulose, outro dissacarídeo sintético, é usada na encefalopatia hepática e em contextos de sangramento varicoso. A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 A previsão para varizes esofágicas sem sangramento tem pontuação idêntica, o que reforça a suspeita de artefato. As demais previsões de maior pontuação (varizes em geral, síndrome de Steel, cistinose, hipofosfatasia, entre outras) também não têm vínculo mecanístico identificado, nem ensaios ou literatura de apoio.
 
@@ -76,7 +76,7 @@ Consulte a bula para informações de segurança.
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Esclarecer o mecanismo de ação a partir do DrugBank
-- Verificar se a previsão não resulta de confusão com a lactulose ou de artefato do grafo de conhecimento
+- Verificar se a previsão não resulta de confusão com a lactulose ou de semelhanças que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, e não de evidência biológica
 - Identificar estudos pré-clínicos ou observacionais que sustentem alguma relação com a hipertensão portal ou varizes antes de reconsiderar a decisão
 ## Aviso de isenção de responsabilidade
 

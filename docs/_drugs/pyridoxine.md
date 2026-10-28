@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Pyridoxine
-parent: Apenas Predição do Modelo (L5)
+parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 556
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Pyridoxine: nova indicação prevista, Uretrite por Ureaplasma (Ureaplasma urethritis) (nível de evidência L5). Indicação original: Monovitaminas, exceto vitamina K"
-monitor_inn: "Pyridoxine"
-predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "urinary tract infection (disease)", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "congenital prothrombin deficiency", "toxocariasis", "toxascariasis", "anisakiasis", "vitamin deficiency disorder"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Pyridoxine: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
+predicted_indications: []
 ---
 
 # Pyridoxine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **N/A** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,51 +32,67 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Piridoxina: De monovitamina à uretrite por Ureaplasma
+<!-- known-uses-page -->
+<!-- description: Pyridoxine: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata -->
+## Pyridoxine: Usos conhecidos e situação de mercado no Brasil
 {: .text-alpha }
 
-## Resumo em Uma Frase
+## Resumo
+O modelo TxGNN não apresenta, para Pyridoxine, nenhum candidato com pontuação igual ou superior a 0,99, portanto atualmente não há nova indicação prevista. Os usos registrados para o medicamento estão listados abaixo. Eles são usos já conhecidos e não representam candidatos do modelo.
 
-A piridoxina (vitamina B6) foi originalmente registrada no Brasil como monovitamina e como componente de associações antieméticas e vitamínicas.
-O modelo TxGNN prevê que ela possa ser eficaz para **uretrite por Ureaplasma (Ureaplasma urethritis)**, mas **não há ensaios clínicos nem publicações** que apoiem essa direção. É uma previsão puramente computacional.
-
-## Visão Geral Rápida
-
+## Visão geral rápida
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Monovitaminas, exceto vitamina K |
-| Nova Indicação Prevista | Uretrite por Ureaplasma (Ureaplasma urethritis) |
-| Pontuação de Previsão TxGNN | 93,87% |
-| Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 20 (todos cancelados) |
-| Decisão Recomendada | Hold |
+| Novas indicações previstas | Nenhuma (nenhum candidato do modelo com pontuação igual ou superior a 0,99) |
+| Usos conhecidos registrados para este medicamento | 3 |
+| Nível de evidência | Não se aplica |
+| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 20) |
+| Número de Registros | pelo menos 20 |
 
-## Por que Esta Previsão é Razoável?
+## Usos conhecidos registrados para este medicamento
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a piridoxina é a forma de vitamina B6 que o organismo converte em fosfato de piridoxal (PLP), coenzima do metabolismo de aminoácidos, neurotransmissores e unidades de um carbono. Sua eficácia na reposição vitamínica e, em associações, no controle de náuseas é conhecida.
+### Aprovadas (com respaldo em licença ou bula)
+| Indicação | Fonte |
+|------|------|
+| Dermatite (dermatitis) | Licença em outro país |
+| eczema | Licença em outro país |
 
-**A previsão não se sustenta do ponto de vista mecanístico.** A piridoxina não tem atividade antimicrobiana conhecida contra *Ureaplasma*, e o tratamento padrão da uretrite é feito com antibióticos. A pontuação alta (93,87%) parece refletir apenas associações no grafo de conhecimento, sem respaldo clínico ou na literatura. A análise de similaridade com a indicação original não foi concluída.
+### Relacionadas a uma indicação aprovada (mesma categoria de doença)
+| Indicação | Categoria aprovada |
+|------|------|
+| Nenhuma | Nenhuma |
 
-## Evidências de Ensaios Clínicos
+### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+| Indicação |
+|------|
+| Anemia por deficiência de piridoxina (pyridoxine deficiency anemia) |
 
-Atualmente não há ensaios clínicos relacionados registrados.
+## Market information
 
-## Evidências da Literatura
+| Registro | Produto | Forma farmacêutica | Situação |
+|------|------|------|------|
+| 107150060 | CLORIDRATO DE PIRIDOXINA |  | Ativo |
+| 115600078 | CLORIDRATO DE PIRIDOXINA, DIMENIDRINATO |  | Ativo |
+| 103920092 | DIMENIDRINATO, CLORIDRATO DE PIRIDOXINA |  | Ativo |
+| 103920210 | DIMENIDRINATO, CLORIDRATO DE PIRIDOXINA |  | Ativo |
+| 178170907 | DIMENIDRINATO, CLORIDRATO DE PIRIDOXINA |  | Ativo |
+| 109170016 | CLORIDRATO DE METOCLOPRAMIDA monoidratado, CLORIDRATO DE PIR |  | Ativo |
+| 103920207 | DIMENIDRINATO, CLORIDRATO DE PIRIDOXINA |  | Ativo |
+| 104971535 | DIMENIDRINATO, CLORIDRATO DE PIRIDOXINA |  | Ativo |
+| 104971531 | DIMENIDRINATO, CLORIDRATO DE PIRIDOXINA |  | Ativo |
+| 155840397 | DIMENIDRINATO, CLORIDRATO DE PIRIDOXINA |  | Ativo |
+| 144930034 | FERRO QUELATO, CLORIDRATO DE PIRIDOXINA, NICOTINAMIDA |  | Ativo |
+| 101550253 | MECOBALAMINA, NITRATO DE TIAMINA, CLORIDRATO DE PIRIDOXINA |  | Ativo |
+| 114620021 | CIANOCOBALAMINA, CLORIDRATO DE PIRIDOXINA, NITRATO DE TIAMIN |  | Ativo |
+| 100431326 | CIANOCOBALAMINA, CLORIDRATO DE PIRIDOXINA, NITRATO DE TIAMIN |  | Ativo |
+| 158190002 | CLORIDRATO DE TIAMINA, CLORIDRATO DE PIRIDOXINA, CIANOCOBALA |  | Ativo |
+| 103700811 | CLORIDRATO DE TIAMINA, CLORIDRATO DE PIRIDOXINA, CIANOCOBALA |  | Ativo |
+| 105730157 | CIANOCOBALAMINA, CLORIDRATO DE PIRIDOXINA, NITRATO DE TIAMIN |  | Ativo |
+| 106890207 | NITRATO DE TIAMINA, CLORIDRATO DE PIRIDOXINA, CIANOCOBALAMIN |  | Ativo |
+| 158190008 | NITRATO DE TIAMINA, CLORIDRATO DE PIRIDOXINA, CIANOCOBALAMIN |  | Ativo |
+| 103720302 | CIANOCOBALAMINA, CLORIDRATO DE PIRIDOXINA, NITRATO DE TIAMIN |  | Ativo |
 
-Atualmente não há literatura relacionada.
-
-## Informações de Comercialização no Brasil
-
-Todos os 20 registros encontrados estão cancelados. A tabela mostra os 5 principais.
-
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 107150060 | NEURI - B6 | Não informada | Monovitaminas, exceto vitamina K |
-| Registro nº 115600078 | NAUSILON B6 | Não informada | Antieméticos e antinauseantes |
-| Registro nº 103920092 | DIMENIDRIN | Não informada | Antieméticos e antinauseantes |
-| Registro nº 103920210 | DRIVOM B6 | Não informada | Antieméticos e antinauseantes |
-| Registro nº 178170907 | DRAMIN B6 | Não informada | Antieméticos e antinauseantes |
+Os dados contêm apenas parte dos registros; a lista pode estar incompleta.
 
 ## Considerações de Segurança
 
@@ -88,22 +103,6 @@ As informações de bula sobre advertências e contraindicações não estavam d
   - **Moderadas**: altretamina, fenobarbital, levodopa e fenitoína.
   - **Leves**: amobarbital, butabarbital, butalbital, metoexital, pentobarbital, secobarbital, tiopental, metilfenobarbital e primidona.
 
-## Conclusão e Próximos Passos
-
-**Decisão: Hold**
-
-**Justificativa:**
-- A previsão tem nível de evidência L5: não há ensaios, não há literatura e não há mecanismo plausível. Além disso, todos os registros brasileiros estão cancelados.
-- Os demais candidatos de maior pontuação (gonorreia, infecção urinária, doença inflamatória uterina, pielonefrite xantogranulomatosa) também ficam em Hold, por falta de fundamento mecanístico.
-- O candidato **"distúrbio por deficiência vitamínica"** (pontuação de 85,50%) é uma exceção. Tem nível L2, com um ensaio de Fase 2/3 concluído (NCT01128244, 13 participantes, efeitos da vitamina B6 no metabolismo de um carbono) e revisões sobre epilepsias dependentes de B6.
-  - Esse candidato é mais bem descrito como uso nutricional próprio da vitamina do que como reposicionamento.
-  - Sua recomendação preliminar é *Proceed with Guardrails*, com cautela quanto à neuropatia sensorial em doses altas e crônicas, às interações (como levodopa sem inibidor de descarboxilase) e à situação regulatória.
-
-**Para prosseguir, é necessário:**
-- Obter as advertências e contraindicações da bula na ANVISA.
-- Obter dados de mecanismo de ação da piridoxina, por exemplo no DrugBank.
-- Para uretrite por Ureaplasma, realizar estudos pré-clínicos ou observacionais que demonstrem algum efeito antimicrobiano ou adjuvante. Sem isso, a previsão não deve avançar.
-- Considerar priorizar a avaliação do candidato "distúrbio por deficiência vitamínica", verificando a disponibilidade regulatória, já que os registros atuais estão cancelados.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

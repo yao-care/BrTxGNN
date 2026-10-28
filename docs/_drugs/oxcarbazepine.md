@@ -4,17 +4,17 @@ title: Oxcarbazepine
 parent: Evidência Moderada (L3-L4)
 nav_order: 498
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Oxcarbazepine: nova indicação prevista, Epilepsia visual (visual epilepsy) (nível de evidência L4). Indicação original: Anticonvulsivantes"
 monitor_inn: "OXCARBAZEPINE"
 predicted_indications: ["restless legs syndrome"]
+description: "Oxcarbazepine: nova indicação prevista, Restless legs syndrome (nível de evidência L4). Indicação original: ANTICONVULSIVANTES"
 ---
 
 # Oxcarbazepine
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Oxcarbazepina: De anticonvulsivante a epilepsia visual
+## Oxcarbazepine: Restless legs syndrome
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,12 +45,12 @@ O modelo TxGNN prevê que pode ser eficaz para **epilepsia visual (visual epilep
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anticonvulsivantes |
-| Nova Indicação Prevista | Epilepsia visual (visual epilepsy) |
-| Pontuação de Previsão TxGNN | 99,95% |
+| Indicação Original | ANTICONVULSIVANTES |
+| Nova Indicação Prevista | Restless legs syndrome |
+| Pontuação de Previsão TxGNN | 0.9989 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Apenas registros cancelados |
-| Número de Registros | 8 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -83,7 +83,7 @@ Todas as publicações são gerais sobre epilepsia ou antiepilépticos; nenhuma 
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros encontrados estão cancelados.
+Todos os 8 registros encontrados estão válidos.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -108,7 +108,7 @@ Para advertências e contraindicações da bula, consulte a bula do medicamento.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão do modelo é alta (99,95%), mas não há ensaios clínicos nem literatura específica sobre epilepsia visual (nível L4). Além disso, todos os registros no Brasil estão cancelados e sódio-bloqueadores não são de primeira escolha nessa condição, com risco de agravamento de síndromes generalizadas.
+- A previsão do modelo TxGNN (deep learning) é alta (0,9989), mas não há ensaios clínicos nem literatura específica sobre a Síndrome das Pernas Inquietas (nível L4). O escore pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. No Brasil, os 8 registros encontrados estão válidos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).

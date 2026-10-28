@@ -48,10 +48,10 @@ atualmente com **4 ensaios clínicos** (todos de fase 1/2 ou 2, dois deles encer
 |------|------|
 | Indicação Original | Antineoplásico |
 | Nova Indicação Prevista | Carcinoma de células renais (renal cell carcinoma) |
-| Pontuação de Previsão TxGNN | 99,92% |
+| Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

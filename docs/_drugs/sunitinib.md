@@ -4,7 +4,7 @@ title: Sunitinib
 parent: Evidência Alta (L1-L2)
 nav_order: 601
 evidence_level: L2
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Sunitinib: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L2). Indicação original: Agentes antineoplásicos"
 monitor_inn: "sunitinib"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofib
 # Sunitinib
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L2** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ atualmente com **2 ensaios clínicos** (ambos de Fase 2, concluídos) e **9 publ
 |------|------|
 | Indicação Original | Agentes antineoplásicos |
 | Nova Indicação Prevista | Lipossarcoma (Liposarcoma) |
-| Pontuação de Previsão TxGNN | 99,87% |
+| Pontuação de Previsão TxGNN | 0,9987 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 7 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
+| Número de Registros | 7 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -82,7 +82,7 @@ A indicação original é genérica (antineoplásico), e o sunitinibe é usado e
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros encontrados estão cancelados; não há registro válido atualmente.
+O medicamento é comercializado; todos os 7 registros encontrados estão válidos.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -128,7 +128,7 @@ Há dois estudos de Fase 2 concluídos e um estudo publicado de Fase 2 com sinal
 
 ### Nota sobre outras indicações previstas
 
-Entre as demais indicações previstas, o **carcinoma renal** (pontuação 99,65%) tem o maior nível de evidência (L1, vários ensaios de Fase 3), mas corresponde ao uso já consolidado do próprio sunitinibe e, portanto, não constitui reposicionamento propriamente dito. O **carcinoma de células renais não classificado**, o **dermatofibrossarcoma protuberans** (especialmente após falha do imatinibe) e o **carcinoma renal infantil** apresentam evidências moderadas a limitadas. As demais indicações, como lipossarcoma mixoide ovariano, carcinoma renal associado a neuroblastoma, angiolipoma e fibrossarcoma cardíaco, contam com evidência mínima ou apenas com a previsão do modelo.
+Entre as demais indicações previstas, o **dermatofibrossarcoma protuberans** (especialmente após falha do imatinibe) apresenta evidências moderadas a limitadas. As demais indicações, como lipossarcoma mixoide ovariano, angiolipoma e fibrossarcoma cardíaco, contam com evidência mínima ou apenas com a previsão do modelo.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

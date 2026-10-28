@@ -6,9 +6,9 @@ nav_order: 525
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Pibrentasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L5). Indicação original: Infecção crônica pelo vírus da hepatite C"
 monitor_inn: "PIBRENTASVIR"
-predicted_indications: ["hepatitis B virus infection", "HIV infectious disease", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["hepatitis B virus infection", "HIV infectious disease", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Pibrentasvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Pibrentasvir
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Pibrentasvir: Da hepatite C crônica à infecção pelo vírus da hepatite B
+## Pibrentasvir: Infecção pelo vírus da hepatite B (hepatitis B virus infection)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,12 +45,12 @@ O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da hepat
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Infecção crônica pelo vírus da hepatite C |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Infecção pelo vírus da hepatite B (hepatitis B virus infection) |
-| Pontuação de Previsão TxGNN | 99,84% |
+| Pontuação de Previsão TxGNN | 0.9984 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -94,7 +94,7 @@ Para as demais informações de segurança, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para hepatite B não tem ensaios clínicos nem literatura específica e contradiz a lógica mecanística: a NS5A é exclusiva do VHC e não existe no VHB. O sinal parece um artefato de proximidade na rede de conhecimento. Além disso, o fármaco não é comercializado no Brasil (0 registros).
+A previsão para hepatite B não tem ensaios clínicos nem literatura específica e contradiz a lógica mecanística: a NS5A é exclusiva do VHC e não existe no VHB. O sinal parece um artefato de proximidade na rede de conhecimento.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) do pibrentasvir

@@ -5,10 +5,10 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 234
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-13
-description: "Clonazepam: nova indicação prevista, Síndrome das pernas inquietas (Restless Legs Syndrome) (nível de evidência L3). Indicação original: Epilepsia de ausência, síndrome de Lennox-Gastaut…"
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
+last_modified_at: 2026-10-27
+description: "Clonazepam: nova indicação prevista, Síndrome das pernas inquietas (restless legs syndrome) (nível de evidência L3). Indicação original: Não consta nos dados locais"
 ---
 
 # Clonazepam
@@ -33,34 +33,34 @@ Nível de evidência: **L3** | Indicações previstas: **3**
 
 </div>
 
-## Clonazepam: Da epilepsia e transtornos de ansiedade à síndrome das pernas inquietas
+## Clonazepam: benzodiazepínico (modulador alostérico positivo do receptor GABA-A) → Síndrome das pernas inquietas (restless legs syndrome)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Clonazepam é um benzodiazepínico usado originalmente no tratamento de síndromes epilépticas (como ausência e síndrome de Lennox-Gastaut) e do transtorno de ansiedade.
-O modelo TxGNN prevê que pode ser eficaz para a **síndrome das pernas inquietas (Restless Legs Syndrome)**,
-atualmente com **0 ensaios clínicos registrados** e **20 publicações** relacionadas a esta direção, incluindo uma revisão sistemática Cochrane e um pequeno ensaio cruzado controlado por placebo.
+Clonazepam é um benzodiazepínico que potencializa a inibição mediada pelo receptor GABA-A.
+O modelo TxGNN prevê que pode ser eficaz para a **Síndrome das pernas inquietas (restless legs syndrome)**, com pontuação de 0,9965.
+Os dados compilados para este relatório não incluem ensaios clínicos registrados, mas reúnem **20 publicações** relacionadas à direção da previsão, entre elas uma revisão sistemática Cochrane, um ensaio cruzado duplo-cego pequeno e diretrizes recentes.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Epilepsia de ausência, síndrome de Lennox-Gastaut, transtorno de ansiedade e outras (segundo o grafo de conhecimento; não há texto de indicação aprovada no Brasil) |
-| Nova Indicação Prevista | Síndrome das pernas inquietas (Restless Legs Syndrome) |
-| Pontuação de Previsão TxGNN | 99,65% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Síndrome das pernas inquietas (restless legs syndrome) |
+| Pontuação de Previsão TxGNN | 0,9965 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado (segundo os dados compilados) |
-| Número de Registros | 0 |
-| Decisão Recomendada | Hold |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
+| Número de Registros | pelo menos 20 |
+| Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o clonazepam é um benzodiazepínico que potencializa a inibição mediada pelos receptores GABA-A. Sua eficácia em epilepsia e ansiedade é conhecida, e mecanisticamente pode ser aplicável à síndrome das pernas inquietas.
+Atualmente, não há dados detalhados de mecanismo de ação nos registros compilados. Pelo conhecimento farmacológico geral, o clonazepam é um benzodiazepínico que reforça a inibição mediada pelo receptor GABA-A. Isso pode reduzir a hiperexcitabilidade sensório-motora e a fragmentação do sono associadas à síndrome das pernas inquietas e aos movimentos periódicos dos membros.
 
-A síndrome das pernas inquietas e os movimentos periódicos dos membros envolvem hiperexcitabilidade sensório-motora e fragmentação do sono. Ao aumentar a inibição GABAérgica, o clonazepam pode reduzir esses sintomas. Trata-se de um efeito sintomático sobre o sono e os sintomas motores, e não sobre a fisiopatologia de base (via dopaminérgica ou deficiência de ferro).
+A ação seria sintomática, sobre o sono e os sintomas motores, e não sobre a fisiopatologia de base (vias dopaminérgicas e metabolismo do ferro). A literatura descreve o uso de clonazepam nesse contexto há décadas, e uma pesquisa citada na revisão histórica de 2024 indica que cerca de 25% de 16.694 pessoas tratadas para a síndrome recebiam benzodiazepínicos, isolados ou associados.
 
-Vale destacar que a diretriz mais recente da Academia Americana de Medicina do Sono (2025) indica um movimento de afastamento dos benzodiazepínicos em favor de outros agentes de primeira linha (ligantes alfa-2-delta, ferro). O papel do clonazepam fica restrito a pacientes selecionados. A direção exata da recomendação deve ser confirmada no texto completo da diretriz.
+Há, porém, um sinal de mudança: a diretriz da Academia Americana de Medicina do Sono (2025) reflete afastamento dos benzodiazepínicos em favor de outros agentes de primeira linha (ligantes alfa-2-delta, ferro). O papel do clonazepam tende a ficar restrito a pacientes selecionados. A direção exata da recomendação da diretriz sobre o clonazepam deve ser confirmada no texto completo, pois os dados compilados trazem apenas o resumo.
 
 ## Evidências de Ensaios Clínicos
 
@@ -70,36 +70,38 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [28319266](https://pubmed.ncbi.nlm.nih.gov/28319266/) | 2017 | Revisão sistemática | Cochrane Database Syst Rev | Avalia benzodiazepínicos (sobretudo clonazepam) na síndrome das pernas inquietas, usados na prática para melhorar o sono |
-| [39324694](https://pubmed.ncbi.nlm.nih.gov/39324694/) | 2025 | Diretriz | J Clin Sleep Med | Diretriz da AASM para o tratamento de SPI e transtorno de movimentos periódicos dos membros |
-| [36692194](https://pubmed.ncbi.nlm.nih.gov/36692194/) | 2023 | Revisão sistemática e metanálise | J Clin Sleep Med | Responsividade farmacológica dos movimentos periódicos dos membros na SPI |
-| [38708125](https://pubmed.ncbi.nlm.nih.gov/38708125/) | 2024 | Revisão | Tremor Other Hyperkinet Mov | Visão histórica do papel dos benzodiazepínicos, incluindo clonazepam, na SPI; cerca de 25% de 16.694 pacientes tratados usam benzodiazepínicos |
-| [18925578](https://pubmed.ncbi.nlm.nih.gov/18925578/) | 2008 | Revisão | Mov Disord | Revisão baseada em evidências da Movement Disorder Society sobre tratamentos da SPI |
-| [6380197](https://pubmed.ncbi.nlm.nih.gov/6380197/) | 1984 | Estudo clínico (pequeno, inicial) | Acta Neurol Scand | Ensaio cruzado duplo-cego vs. placebo em 6 pacientes: melhora significativa da qualidade subjetiva do sono e da disestesia das pernas |
-| [11313161](https://pubmed.ncbi.nlm.nih.gov/11313161/) | 2001 | Estudo controlado por placebo | Eur Neuropsychopharmacol | Efeitos agudos de 1 mg de clonazepam no sono (laboratório do sono) em SPI e transtorno de movimentos periódicos dos membros |
-| [39787099](https://pubmed.ncbi.nlm.nih.gov/39787099/) | 2025 | Estudo clínico | Sleep | Compara efeitos de agonistas dopaminérgicos e clonazepam sobre movimentos de grandes grupos musculares na SPI |
-| [20156514](https://pubmed.ncbi.nlm.nih.gov/20156514/) | 2010 | Estudo clínico | Prog Neuropsychopharmacol Biol Psychiatry | Propõe equivalência de dose entre clonazepam e pramipexol na SPI |
-| [17876423](https://pubmed.ncbi.nlm.nih.gov/17876423/) | 2007 | Opinião de especialistas | Arq Neuropsiquiatr | Consenso de especialistas brasileiros sobre diagnóstico e manejo da SPI |
+| [28319266](https://pubmed.ncbi.nlm.nih.gov/28319266/) | 2017 | Revisão sistemática | Cochrane Database Syst Rev | Avalia benzodiazepínicos (sobretudo clonazepam) na síndrome das pernas inquietas, doença que afeta 5% a 15% da população |
+| [39324694](https://pubmed.ncbi.nlm.nih.gov/39324694/) | 2025 | Diretriz | J Clin Sleep Med | Diretriz da AASM sobre tratamento da síndrome das pernas inquietas e do transtorno de movimento periódico dos membros em adultos e crianças |
+| [36692194](https://pubmed.ncbi.nlm.nih.gov/36692194/) | 2023 | Revisão sistemática e metanálise | J Clin Sleep Med | Responsividade farmacológica dos movimentos periódicos dos membros na síndrome |
+| [38708125](https://pubmed.ncbi.nlm.nih.gov/38708125/) | 2024 | Revisão | Tremor Other Hyperkinet Mov | Panorama histórico do papel de benzodiazepínicos, incluindo clonazepam, na síndrome e nos movimentos periódicos do sono; 17 artigos sobre clonazepam |
+| [6380197](https://pubmed.ncbi.nlm.nih.gov/6380197/) | 1984 | Ensaio clínico cruzado duplo-cego (pequeno) | Acta Neurol Scand | Em 6 pacientes, melhora significativa da qualidade subjetiva do sono e da disestesia nas pernas versus placebo; vibração teve efeito menor e não significativo |
+| [11313161](https://pubmed.ncbi.nlm.nih.gov/11313161/) | 2001 | Estudo controlado por placebo em laboratório do sono | Eur Neuropsychopharmacol | Efeitos agudos de 1 mg de clonazepam sobre o sono objetivo e subjetivo e a qualidade do despertar |
+| [18925578](https://pubmed.ncbi.nlm.nih.gov/18925578/) | 2008 | Revisão baseada em evidências | Mov Disord | Revisão da força-tarefa da Movement Disorder Society sobre as terapias para a síndrome |
+| [20156514](https://pubmed.ncbi.nlm.nih.gov/20156514/) | 2010 | Estudo clínico | Prog Neuropsychopharmacol Biol Psychiatry | Proposta de equivalência de doses entre clonazepam e pramipexol |
+| [39787099](https://pubmed.ncbi.nlm.nih.gov/39787099/) | 2025 | Estudo clínico | Sleep | Efeitos diferenciais de agonistas dopaminérgicos e clonazepam sobre movimentos de grandes grupos musculares durante o sono |
+| [17876423](https://pubmed.ncbi.nlm.nih.gov/17876423/) | 2007 | Opinião de especialistas | Arq Neuropsiquiatr | Consenso de especialistas brasileiros sobre diagnóstico e manejo da síndrome |
 
 ## Considerações de Segurança
 
-- **Contraindicações (segundo o grafo de conhecimento, não o texto da bula)**: insuficiência hepática e doença hepática, doença renal, insuficiência respiratória, apneia obstrutiva do sono e síndromes de apneia do sono, síndrome de hipoventilação central congênita, glaucoma de ângulo aberto e de ângulo fechado, porfirias, transtorno por uso de substâncias/dependência, entre outras.
-- **Interações Medicamentosas**: foram identificadas 100 interações. As de gravidade **maior** incluem morfina (inclusive lipossomal). As de gravidade **moderada** incluem bupropiona, aprepitanto, omeprazol, cimetidina, claritromicina, dronabinol, nabilona, metoclopramida, ópio e sibutramina.
-- **Outros sinais**: o uso prolongado em populações idosas ou neurodegenerativas levanta preocupações com tolerância, dependência, sedação no dia seguinte, quedas e efeitos cognitivos, agravadas pela meia-vida longa do fármaco.
+- **Interações medicamentosas** (100 interações registradas; principais): 
+  - Gravidade maior: morfina e morfina lipossomal (risco de depressão do sistema nervoso central e respiratória).
+  - Gravidade moderada: bupropiona, aprepitanto, omeprazol, cimetidina, claritromicina, dronabinol, metoclopramida, nabilona, ópio, sibutramina e teduglutida.
+  - Gravidade menor: antiácidos como hidróxido de alumínio, carbonato de cálcio e compostos de magnésio.
+- **Condições de atenção** (a partir de relações de contraindicação registradas nos dados compilados, não de texto de bula): insuficiência hepática e doença hepática, doença renal, insuficiência respiratória, apneia obstrutiva do sono, glaucoma de ângulo fechado e aberto, porfiria, uso ou dependência de substâncias.
+- Advertências e contraindicações da bula não estavam disponíveis nos dados compilados; consulte a bula aprovada pela ANVISA.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- A pontuação do modelo é muito alta e há literatura de apoio (uma revisão Cochrane e um pequeno ensaio cruzado), mas não há ensaios clínicos registrados, a evidência é antiga ou de baixo poder, e as diretrizes recentes relegam os benzodiazepínicos a um papel limitado. Além disso, o fármaco não está comercializado no Brasil, o que impede a avançada para uma decisão mais favorável neste momento.
+- Há uma revisão sistemática Cochrane, estudos controlados pequenos e uso clínico histórico apoiando a previsão, mas sem ensaios registrados e com diretrizes recentes que deslocam o clonazepam para papel secundário. A evidência é de nível L3.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança)
-- Complementar os dados de mecanismo de ação a partir do DrugBank
-- Verificar no texto completo da diretriz AASM 2025 a direção exata da recomendação sobre benzodiazepínicos
-- Avaliar a situação regulatória no Brasil, já que não há registros vigentes
-- Definir população-alvo (pacientes selecionados) e plano de monitoramento de dependência, sedação e interações
+- Ler o texto completo da diretriz AASM de 2025 e da revisão Cochrane para confirmar a posição do clonazepam e a qualidade das evidências.
+- Obter os dados do mecanismo de ação e as advertências e contraindicações da bula na ANVISA.
+- Definir população-alvo restrita (pacientes que não toleram ou não respondem a agentes de primeira linha) e plano de monitoramento de sedação, tolerância, dependência, quedas e interações com opioides e depressores do sistema nervoso central.
+- Considerar um ensaio controlado atual, pois os estudos controlados disponíveis são antigos e de pequeno porte.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

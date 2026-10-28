@@ -47,10 +47,10 @@ O modelo TxGNN prevê que ela possa ser eficaz para a **síndrome semelhante à 
 |------|------|
 | Indicação Original | Preparações hormonais para uso sistêmico, excluindo hormônios sexuais e insulinas |
 | Nova Indicação Prevista | Síndrome semelhante à isotretinoína (isotretinoin-like syndrome) |
-| Pontuação de Previsão TxGNN | 99,15% |
+| Pontuação de Previsão TxGNN | 0,9915 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Apenas registros cancelados |
-| Número de Registros | 2 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
+| Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -59,7 +59,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação na base compil
 
 **Os dados compilados não sustentam um vínculo mecanístico plausível.** A síndrome semelhante à isotretinoína (embriopatia por ácido retinoico) é uma malformação teratogênica causada pela perturbação da sinalização de retinoides durante o desenvolvimento embrionário. Trata-se de uma condição congênita e irreversível, sem alvo farmacológico plausível para um agonista do receptor de oxitocina.
 
-A pontuação elevada do TxGNN (99,15%) é apenas uma previsão do grafo de conhecimento, sem corroboração por ensaios ou literatura. Pode refletir artefatos de topologia do grafo, e não relevância terapêutica real.
+A pontuação elevada do TxGNN (0,9915) é apenas uma previsão do modelo TxGNN (aprendizado profundo), sem corroboração por ensaios ou literatura. Pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, e não evidência biológica nem relevância terapêutica real.
 
 Uma segunda previsão do modelo, a síndrome de Goodman (acrocefalopolissindactilia tipo IV, 99,06%), apresenta o mesmo problema: é um distúrbio genético congênito de malformação craniofacial e de membros, sem papel conhecido da carbetocina, e também sem ensaios ou literatura (nível L5, Hold).
 

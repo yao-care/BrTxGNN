@@ -4,7 +4,7 @@ title: Meropenem
 parent: Evidência Moderada (L3-L4)
 nav_order: 445
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Meropenem: nova indicação prevista, Artrite bacteriana (bacterial arthritis) (nível de evidência L4). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "meropenem"
@@ -14,7 +14,7 @@ predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus a
 # Meropenem
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-## Meropenem: De antibiótico sistêmico à infecção do trato urinário
+## Meropenem: De antibiótico sistêmico à artrite bacteriana
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,13 +47,13 @@ O modelo TxGNN prevê que pode ser eficaz para **artrite bacteriana (bacterial a
 |------|------|
 | Indicação Original | Antibióticos sistêmicos simples |
 | Nova Indicação Prevista | Artrite bacteriana (bacterial arthritis) |
-| Pontuação de Previsão TxGNN | 99,92% |
+| Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Somente registros cancelados |
-| Número de Registros | 10 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
+| Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
-> **Observação:** a indicação de maior pontuação (artrite bacteriana) tem evidências fracas (L4). Entre as 10 indicações previstas, a infecção do trato urinário (pontuação 99,52%) é a única com evidências robustas (L1, recomendação "Proceed with Guardrails"), e é detalhada nas seções de evidências abaixo, por ser a única com ensaios clínicos registrados. As demais indicações estão resumidas na seção de conclusão.
+> **Observação:** a indicação de maior pontuação (artrite bacteriana) tem evidências fracas (L4).
 
 ## Por que Esta Previsão é Razoável?
 
@@ -102,7 +102,7 @@ Para a indicação de maior pontuação, **artrite bacteriana**, a literatura é
 
 ## Informações de Comercialização no Brasil
 
-Todos os 10 registros encontrados estão **cancelados**; atualmente não há registro válido de meropenem monofármaco nos dados compilados.
+Dos 10 registros encontrados, **10 estão válidos**; o meropenem monofármaco está comercializado nos dados compilados.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -128,26 +128,25 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold** (para a indicação principal, artrite bacteriana)
 
 **Justificativa:**
-- A indicação de maior pontuação (artrite bacteriana, 99,92%) tem apenas evidência indireta (L4), sem ensaios registrados.
+- A indicação de maior pontuação (artrite bacteriana, 0,9992) tem apenas evidência indireta (L4), sem ensaios registrados.
 - A infecção do trato urinário (L1) permitiria "Proceed with Guardrails", mas provavelmente se sobrepõe ao uso já estabelecido do meropenem, e os registros brasileiros estão todos cancelados.
 
 **Situação das demais indicações previstas:**
 
 | Indicação | Pontuação | Nível | Recomendação | Comentário |
 |------|------|------|------|------|
-| Epiglotite | 99,91% | L4 | Hold | Sem evidência clínica; agentes de espectro mais estreito são o padrão |
-| Infecção por *Staphylococcus aureus* | 99,85% | L4 | Hold | Ativo contra MSSA, mas não preferencial; MRSA é resistente |
-| Laringite | 99,59% | L5 | Hold | Predominantemente viral; sem racional |
-| Febre paratifoide | 99,57% | L4 | Hold | Opção de resgate em febre entérica XDR; sem dados diretos |
-| Infecção do trato urinário | 99,52% | L1 | Proceed with Guardrails | Ver seções de evidências |
-| Doença de Lyme | 99,46% | L5 | Hold | Apenas dados in vitro; existem terapias padrão |
-| Infecção por *Peptostreptococcus* | 99,37% | L5 | Hold | Plausível, mas sem estudos |
-| Uretrite por *Ureaplasma* | 99,33% | L5 | Hold | Mecanisticamente implausível (ausência de parede celular) |
-| Uretrite gonocócica | 99,33% | L5 | Hold | Ceftriaxona é a primeira linha; conflita com o uso racional de antimicrobianos |
+| Epiglotite | 0,9991 | L4 | Hold | Sem evidência clínica; agentes de espectro mais estreito são o padrão |
+| Infecção por *Staphylococcus aureus* | 0,9985 | L4 | Hold | Ativo contra MSSA, mas não preferencial; MRSA é resistente |
+| Laringite | 0,9959 | L5 | Hold | Predominantemente viral; sem racional |
+| Febre paratifoide | 0,9957 | L4 | Hold | Opção de resgate em febre entérica XDR; sem dados diretos |
+| Doença de Lyme | 0,9946 | L5 | Hold | Apenas dados in vitro; existem terapias padrão |
+| Infecção por *Peptostreptococcus* | 0,9937 | L5 | Hold | Plausível, mas sem estudos |
+| Uretrite por *Ureaplasma* | 0,9933 | L5 | Hold | Mecanisticamente implausível (ausência de parede celular) |
+| Uretrite gonocócica | 0,9933 | L5 | Hold | Ceftriaxona é a primeira linha; conflita com o uso racional de antimicrobianos |
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança.
-- Complementar os dados de mecanismo de ação (MOA) e esclarecer a situação regulatória, já que todos os registros estão cancelados.
+- Complementar os dados de mecanismo de ação (MOA).
 - Para artrite bacteriana: dados de penetração óssea e articular e estudos clínicos comparativos.
 - Para ITU, se for priorizada: reservar para patógenos produtores de ESBL ou multirresistentes, seguir o programa de uso racional de antimicrobianos e a suscetibilidade local, ajustar a dose à função renal, considerar alternativas poupadoras de carbapenêmicos e reconciliar a sobreposição com o uso original.
 - Plano de monitoramento para populações de risco (epilepsia, doença renal, trombocitopenia, uso de bupropiona).

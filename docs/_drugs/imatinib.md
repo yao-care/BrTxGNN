@@ -5,10 +5,10 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 362
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Imatinib: nova indicação prevista, Fibrossarcoma cardíaco (heart fibrosarcoma) (nível de evidência L5). Indicação original: Mastocitose sistêmica, GIST…"
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
+last_modified_at: 2026-10-27
+description: "Imatinib: nova indicação prevista, fibrossarcoma cardíaco (heart fibrosarcoma) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Imatinib
@@ -33,63 +33,64 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Imatinibe: Da leucemia mieloide crônica ao fibrossarcoma cardíaco
+## Imatinibe: inibidor de tirosina quinase (BCR-ABL, KIT, PDGFR) → fibrossarcoma cardíaco (heart fibrosarcoma)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Imatinibe é um inibidor de tirosina quinase, originalmente usado no tratamento de doenças como leucemia mieloide crônica BCR-ABL1 positiva, tumor estromal gastrointestinal (GIST) e mastocitose sistêmica.
-O modelo TxGNN prevê que pode ser eficaz para **fibrossarcoma cardíaco (heart fibrosarcoma)**,
-mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (uma revisão geral sobre novas indicações do imatinibe) ligada a esta previsão, ou seja, a evidência direta é muito fraca.
+Imatinibe é um inibidor de tirosina quinase que atua sobre as quinases ABL, KIT e PDGFR.
+O modelo TxGNN prevê que pode ser eficaz para **fibrossarcoma cardíaco (heart fibrosarcoma)**, mas, nos dados compilados para este relatório, há **0 ensaios clínicos** e apenas **1 publicação** (um comentário geral sobre novas indicações do imatinibe), sem estudo que investigue diretamente essa doença.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Mastocitose sistêmica, GIST, leucemia mieloide crônica BCR-ABL1 positiva, dermatofibrossarcoma protuberante, síndrome hipereosinofílica, entre outras (conforme o grafo de conhecimento; não há registro de bula no Brasil) |
-| Nova Indicação Prevista | Fibrossarcoma cardíaco (heart fibrosarcoma) |
-| Pontuação de Previsão TxGNN | 99,94% |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | fibrossarcoma cardíaco (heart fibrosarcoma) |
+| Pontuação de Previsão TxGNN | 0,9994 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (nos dados compilados) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 13) |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, o imatinibe inibe as quinases PDGFR, KIT e ABL, e sua eficácia em leucemia mieloide crônica, GIST e dermatofibrossarcoma protuberante (DFSP) está estabelecida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas e a literatura citada, o imatinibe inibe as quinases PDGFR, KIT e ABL.
 
-Alguns tumores do tipo fibrossarcoma podem ser dependentes de PDGFB, como ocorre no DFSP, que apresenta a fusão COL1A1-PDGFB. Isso oferece uma ligação mecanística plausível com a inibição de PDGFR pelo imatinibe.
+Alguns tumores do tipo fibrossarcoma podem ser dependentes de PDGFB, como ocorre na fusão COL1A1-PDGFB do dermatofibrossarcoma protuberans. Isso fornece uma ponte mecanística plausível, pois a inibição de PDGFR poderia, em teoria, atingir tumores com esse tipo de sinalização.
 
-Contudo, não há dados específicos sobre tumores cardíacos. A única publicação associada é um comentário geral sobre novas indicações do imatinibe, publicado em 2008, que conclui que as novas indicações não têm evidência robusta. A previsão, portanto, baseia-se essencialmente na pontuação do modelo.
+No entanto, não existem dados específicos para tumores cardíacos. A única publicação disponível é uma revisão geral sobre novas indicações do imatinibe, com a observação de que as evidências não são robustas. A previsão, portanto, é sustentada essencialmente pelo modelo e por um raciocínio mecanístico indireto.
+
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Revisão | Prescrire International | Comentário sobre as novas indicações do imatinibe (por exemplo, leucemia linfoblástica aguda Ph+, com taxa de resposta hematológica maior que a quimioterapia em um ensaio com 55 pacientes), concluindo que as evidências não são robustas. Não trata de tumores cardíacos |
+| [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Revisão | Prescrire International | Comentário sobre as novas indicações do imatinibe, concluindo que, apesar da expansão progressiva, as evidências não são robustas. Não aborda fibrossarcoma cardíaco. |
 
 ## Considerações de Segurança
 
-- **Contraindicações no grafo de conhecimento** (não são texto de bula): o grafo associa o imatinibe a condições como insuficiência hepática, doença renal, insuficiência cardíaca congestiva, doença arterial coronariana, derrame pericárdico, trombocitopenia, neutropenia, agranulocitose, anemia, hipofosfatemia e edema pulmonar, entre outras. Esses itens exigem confirmação na bula oficial.
-- **Interações Medicamentosas**: foram identificadas 100 interações, e os principais exemplos disponíveis são:
-  - **Maior gravidade**: eliglustate e naloxegol.
-  - **Gravidade moderada**: corticosteroides (hidrocortisona, dexametasona, betametasona, budesonida, triancinolona), pioglitazona, glimepirida, saxagliptina, aprepitanto, morfina, cimetidina, claritromicina, lansoprazol, dexlansoprazol, naltrexona, naldemedina e metreleptina.
+- **Interações Medicamentosas** (100 interações registradas; exemplos):
+  - Gravidade maior: eliglustate, naloxegol.
+  - Gravidade moderada: hidrocortisona, dexametasona, betametasona, budesonida, triancinolona, pioglitazona, glimepirida, claritromicina, cimetidina, aprepitanto, morfina, lansoprazol, entre outras.
 
-Dado o alvo cardíaco da indicação prevista, as condições cardiovasculares listadas acima merecem atenção especial.
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta no modelo, mas não há ensaios clínicos nem estudos específicos em fibrossarcoma cardíaco (nível L5). O fármaco também não está registrado no Brasil nos dados compilados.
+- A previsão tem pontuação alta no modelo (0,9994), mas não há ensaios clínicos nem estudos que avaliem diretamente o imatinibe em fibrossarcoma cardíaco (nível L5). O raciocínio mecanístico é plausível, porém indireto.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), pois a lacuna de dados de segurança impede a triagem de segurança.
-- Complementar os dados de mecanismo de ação do imatinibe (por exemplo, via DrugBank).
-- Buscar relatos de caso ou séries sobre sarcomas cardíacos tratados com imatinibe e avaliar a presença de alterações em PDGFR/KIT nesses tumores.
-- Avaliar a situação regulatória do imatinibe no Brasil, já que os dados compilados indicam ausência de registros.
-- Considerar que o dermatofibrossarcoma protuberante (já indicação original) e os sarcomas de tecidos moles de forma geral têm evidências mais consistentes do que o fibrossarcoma cardíaco, e podem ser alvos prioritários de investigação.
+- Dados de mecanismo de ação detalhados e verificação da dependência de PDGFR/KIT em tumores cardíacos.
+- Relatos de casos, séries ou estudos pré-clínicos específicos de fibrossarcoma cardíaco.
+- Obtenção e análise da bula registrada na ANVISA (advertências e contraindicações).
+- Plano de monitoramento de segurança, considerando as interações de gravidade maior e a cardiotoxicidade em população com tumor cardíaco.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

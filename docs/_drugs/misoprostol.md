@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Misoprostol
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 463
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Misoprostol: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L4). Indicação original: Não disponível nos dados compilados"
@@ -14,7 +14,7 @@ predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
 # Misoprostol
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **2** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **amenorreia (amenorrhea)**, mas 
 |------|------|
 | Indicação Original | Não disponível nos dados compilados (nenhuma indicação registrada na ANVISA) |
 | Nova Indicação Prevista | Amenorreia (amenorrhea) |
-| Pontuação de Previsão TxGNN | 99,64% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Não comercializado (segundo os dados compilados) |
-| Número de Registros | 0 |
+| Pontuação de Previsão TxGNN | 0,9964 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -106,7 +106,7 @@ Consulte a bula para informações adicionais de advertências e contraindicaç�
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos e a literatura disponível trata de aborto medicamentoso, não do tratamento da amenorreia. A pontuação do TxGNN (99,64%) é apenas uma previsão computacional, e o fármaco não possui registro ativo no Brasil nos dados compilados.
+- Não há ensaios clínicos e a literatura disponível trata de aborto medicamentoso, não do tratamento da amenorreia. A pontuação do TxGNN (0,9964) é apenas uma previsão computacional, e o fármaco não possui registro ativo no Brasil nos dados compilados.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

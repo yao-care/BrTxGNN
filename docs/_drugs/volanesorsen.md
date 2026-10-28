@@ -49,10 +49,10 @@ O modelo TxGNN prevê que pode ser eficaz para **anemia megaloblástica (Megalob
 |------|------|
 | Indicação Original | Outros agentes modificadores de lipídios |
 | Nova Indicação Prevista | Anemia megaloblástica (Megaloblastic Anemia) |
-| Pontuação de Previsão TxGNN | 99,997% |
+| Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | ✗ Somente registro cancelado |
-| Número de Registros | 1 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -61,9 +61,9 @@ O modelo TxGNN prevê que pode ser eficaz para **anemia megaloblástica (Megalob
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, volanesorsen é um oligonucleotídeo antisense que inibe o RNA mensageiro da APOC3 (apolipoproteína C-III) e, com isso, reduz os triglicerídeos.
 
-Não é possível identificar um vínculo mecanístico plausível entre essa inibição e a anemia megaloblástica, que é causada por deficiência de vitamina B12 ou de folato. A pontuação alta do TxGNN reflete apenas associações no grafo de conhecimento e não é sustentada por nenhum ensaio ou publicação. Por isso, esta previsão deve ser tratada com cautela.
+Não é possível identificar um vínculo mecanístico plausível entre essa inibição e a anemia megaloblástica, que é causada por deficiência de vitamina B12 ou de folato. A pontuação alta do modelo TxGNN (deep learning) pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica, e não é sustentada por nenhum ensaio ou publicação. Por isso, esta previsão deve ser tratada com cautela.
 
-Outras previsões do modelo (colangite esclerosante, doenças falciformes, meningococcemia e hemoglobinúria paroxística noturna) também apresentam pontuações muito altas, sem evidências e sem mecanismo plausível. Isso sugere artefatos do grafo, e não sinais independentes de eficácia.
+Outras previsões do modelo (colangite esclerosante, doenças falciformes, meningococcemia e hemoglobinúria paroxística noturna) também apresentam pontuações muito altas, sem evidências e sem mecanismo plausível. Isso sugere que as pontuações podem refletir similaridades aprendidas pelo modelo entre doenças relacionadas, e não sinais independentes de eficácia.
 
 ---
 

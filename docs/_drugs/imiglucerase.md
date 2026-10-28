@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Imiglucerase
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 363
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Imiglucerase: nova indicação prevista, Síndrome de Hurler (Hurler syndrome) (nível de evidência L4). Indicação original: Doença de Gaucher"
 monitor_inn: "Imiglucerase"
-predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "lysosomal storage disease with skeletal involvement", "Wolman disease with hypolipoproteinemia and acanthocytosis", "Wolman disease", "proximal myopathy with extrapyramidal signs", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant"]
+predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
 ---
 
 # Imiglucerase
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ O modelo TxGNN prevê que ela possa ser eficaz para a **Síndrome de Hurler (Hur
 |------|------|
 | Indicação Original | Doença de Gaucher |
 | Nova Indicação Prevista | Síndrome de Hurler (Hurler syndrome) |
-| Pontuação de Previsão TxGNN | 99,52% |
-| Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | ✗ Não comercializado |
-| Número de Registros | 0 |
+| Pontuação de Previsão TxGNN | 0,9952 |
+| Nível de Evidência | L5 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
