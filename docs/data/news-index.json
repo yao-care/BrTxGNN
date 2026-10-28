@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T21:54:37.293222+00:00",
+  "generated": "2026-10-28T04:36:22.079879+00:00",
   "count": 8,
   "news": [
     {
@@ -583,13 +583,43 @@
       ]
     },
     {
-      "id": "c220ecd36f14",
-      "title": "'Mais tatuado do Brasil' detalha tratamento contra câncer após 1ª sessão de quimioterapia",
-      "published": "2026-10-27T03:00:00+00:00",
+      "id": "67cb14250943",
+      "title": "Você sofre de ‘ansiedade de propósito’?",
+      "published": "2026-10-26T23:00:00+00:00",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1NiZXhMb1lYQ0o4V3U1a2VTaFRwNWs5RGhxckUyYUlhQXJZVFdCakNNQ1RHZUpiUS00NDUyVnFJSy1SeEpSaW9Hc1Q0WElQdm9OcEpfSGN3NF9nX0FPeUtwcHJDdEk2ZXBYdnlyMVJaVmcxeWczc3ZTaFJSS2F0WHJaNDhOdVHSAYwBQVVfeXFMTkk1QV9WN2dNcEFYcGgydmZ5NnpkYXBKNjJqREQxaVpEM1JGUllCV2laalctVXZjVjQ3X09fdzZVWHc0UFAydXY4eFJSSGlxMmlxdHk2SUVUTHFRMzZmUjY4TEp0b1Fjak82R3hfdVpGcC02NmVRdVBpdUVCY1FDa01OY01HWHZKeEhyV1U?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "anxiety disorder",
+          "keyword": "ansiedade",
+          "related_drugs": [
+            {
+              "slug": "flunitrazepam",
+              "name": "Flunitrazepam",
+              "url": "/drugs/flunitrazepam/"
+            },
+            {
+              "slug": "centella-asiatica",
+              "name": "Centella asiatica",
+              "url": "/drugs/centella-asiatica/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28b9015056c5",
+      "title": "'Mais tatuado do Brasil' passa pela 1ª sessão de quimioterapia para tratar câncer na bexiga: 'Me sinto muito bem'",
+      "published": "2026-10-26T18:14:25+00:00",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMG55UGd6bUdaMG9vUEhOaVJ2bVBLQVpaT2ZXY1NwOWdRLTdFRi1tdFM0M19GeDlIMHJEWFBNZ19VeWQxNUNvUGlZVEVIVVdJOGp6ZmRZdXZNYm1qMVRzUTNpdnpldjZsWjFqdHh0c19hN2dUOUNZekxqY2JUWGxielJXMVZmYnpmTGhQdjdMcWJIbFp5OVdfSkFiNzdYQUxvWVEtaEdfWnJlY2hHSDZFSi1zZEQ0dEg4c1I2Y0NraFIwMVJrakJ6WjlacC1QNEYwVmJiOThadmUzemNQclpQQnRtczlJbURkd3fSAfgBQVVfeXFMT0J2ZS1HbG0xRk9KUmVOR0otZjJROEI4ckJUbk8xRThmcWp1OHkwRVdBMl8yelR1aTAtbHJaM3RhczNoVFQ3Y09hX2ZfOWM4cVFuek11YXNoUjVLeE1hLU5pVk40bUxILWl2TUtNeDg1WDFld3J4RU95TXNtYW5PS3RnQkV6RlIyN3M0c2xIRW1CNnpIWVlaaHNFMVpQUDlKLUZwOWl5YUlJZC0xWG55TUVhTTczb3FfMm5qWThTeXozOHI3Z1NCTmFPdHBrN1JiTjFpYV9BSWtVakVYLTJSZXlpc19fUXJVdjFGWlFIejgtSXVWLVZHcHM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUlFlUFg3RzRvaGtadFZWVjFwWGxVOVduX3J5US1MQXJBeFBOVy1aSUdrV2MzOWI1WW41QjdhSmhOajNPU2JpNTJReDFxS25UZEZGX2Nob2ItVko4RnJZc2VEaW92d19hYnRzaVFSck5LTHBaQWNiemtnSW9WX0h3eW1NVmJDYkZjcmhwS2Z4dzBBR2x2YjdfdDVwUG1RNWljOWpSQmk5b3ExcVlKbW52OWNaZlBoOTgzbTNNbXluZ0hUdTR0VTdfeEtCQ0NLdGZhanhaQ28tXzlaeW1RTDhnY054V1RjclJNMXhjMElmX1Z5ZFJKR3JrZk5FQXhqbkx4dEFWS3FB0gGUAkFVX3lxTE9QSzVYQmpKWkJHNGQzNUVUYXdDTUtYd0laYzBOd3kxQjRna2MyV0piMWxlX1V0cEV2NmpSLVNjUzZ5T0ZCVUpGZjRSR0hRbjJCTkdWOElRVFlnMVd6bjM1eVR5UG5hSmJtOEp6WWhKY2JOQUtyVUE2VnFhSDRNdWVXR0VNSWw0OGdwaFd4WEtvcXl0TFA0X0FUNktsRkItRFNpQzk1bWlQUFlldHFVTm1hSXNzN25tZ1pIcTlmZkJwMzFOcTIwcFRhQVdCVVkya0MwX3Z0MzcwcnVpYVRtbFZMdDN5azdFR0ZVci1FUFl5TUZtYzRlWWRXdkZ1Y29nS1BUbXZQN1Zqemh6aF96ZktHbE1XdQ?oc=5"
         }
       ],
       "keywords": [
@@ -1062,36 +1092,6 @@
               "slug": "valsartan",
               "name": "VALSARTAN",
               "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "67cb14250943",
-      "title": "Você sofre de ‘ansiedade de propósito’?",
-      "published": "2026-10-26T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1NiZXhMb1lYQ0o4V3U1a2VTaFRwNWs5RGhxckUyYUlhQXJZVFdCakNNQ1RHZUpiUS00NDUyVnFJSy1SeEpSaW9Hc1Q0WElQdm9OcEpfSGN3NF9nX0FPeUtwcHJDdEk2ZXBYdnlyMVJaVmcxeWczc3ZTaFJSS2F0WHJaNDhOdVHSAYwBQVVfeXFMTkk1QV9WN2dNcEFYcGgydmZ5NnpkYXBKNjJqREQxaVpEM1JGUllCV2laalctVXZjVjQ3X09fdzZVWHc0UFAydXY4eFJSSGlxMmlxdHk2SUVUTHFRMzZmUjY4TEp0b1Fjak82R3hfdVpGcC02NmVRdVBpdUVCY1FDa01OY01HWHZKeEhyV1U?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "anxiety disorder",
-          "keyword": "ansiedade",
-          "related_drugs": [
-            {
-              "slug": "flunitrazepam",
-              "name": "Flunitrazepam",
-              "url": "/drugs/flunitrazepam/"
-            },
-            {
-              "slug": "centella-asiatica",
-              "name": "Centella asiatica",
-              "url": "/drugs/centella-asiatica/"
             }
           ]
         }
