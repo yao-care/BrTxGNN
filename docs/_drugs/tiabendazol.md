@@ -41,7 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Situação no Mercado Brasileiro | ✓ Comercializado |
+| Situação no Mercado Brasileiro | Não consta nos dados locais |
 | Número de Registros | 20 |
 
 ---
