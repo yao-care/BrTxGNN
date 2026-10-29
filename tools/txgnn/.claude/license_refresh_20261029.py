@@ -158,10 +158,11 @@ def main(argv):
             n_bundle += 1
             if not dry:
                 f.write_text(json.dumps(b, ensure_ascii=False, indent=2), encoding="utf-8")
-    S["steps"].append(f"許可證狀態有變 {n_rec} 筆、{n_bundle} 個藥")
+    n_id = len({c.split(" ")[1] for c in changes})  # 同一張許可證在證據包裡可能重複多筆（例如 CO 每個包裝一筆）
+    S["steps"].append(f"許可證狀態有變 {n_rec} 筆（{n_id} 張不重複許可證）、{n_bundle} 個藥")
     S["license_changes"] = changes[:1000]
-    if len(ids) and n_rec / len(ids) > 0.2:
-        finish(2, f"狀態變動 {n_rec}/{len(ids)} 筆超過 20%，疑似來源格式改變，不寫回")
+    if len(ids) and n_id / len(ids) > 0.2:
+        finish(2, f"狀態變動 {n_id}/{len(ids)} 張許可證超過 20%，疑似來源格式改變，不寫回")
     if dry:
         finish(0, f"試跑：{n_rec} 筆狀態會變，未寫回")
     raw_path.parent.mkdir(parents=True, exist_ok=True)

@@ -78,6 +78,15 @@ def learn(site):
 
 
 def fallback(site, st, lang_of):
+    # 先借同語言其他站學到的寫法（例：CO 沒寫過「未上市」，借 ES 的 Autorizado, no comercializado）
+    reg = _load("reg", BASE / ".claude/site_registry.py")  # 工作目錄裡只有本站，別站語言查站台權威表
+    my = reg.get(site)["lang"].lower().split("-")[0]
+    for f in sorted((BASE / ".claude/license_labels").glob("*.json")):
+        other = f.stem
+        if other != site and other in reg.SITES and reg.get(other)["lang"].lower().split("-")[0] == my:
+            w = json.loads(f.read_text(encoding="utf-8")).get("preferred", {}).get(st)
+            if w:
+                return w
     mv2 = _load("mv2", BASE / ".claude/rewrite_market_v2_20261021.py")
     vw = mv2.VALID_WORD.get(lang_of(site), mv2.VALID_WORD["en"])
     if st == "valid":
