@@ -27,6 +27,11 @@ O BrTxGNN analisa medicamentos registrados na ANVISA que possuem mapeamento para
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+Esta lista baseia-se nos dados de registro de [ANVISA](https://www.gov.br/anvisa/) (Brasil).
+
+<!-- local-home:end -->
+
 ## Estatísticas
 
 | Métrica | Valor |

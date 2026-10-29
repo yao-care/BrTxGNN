@@ -19,6 +19,42 @@ Usando inteligência artificial para descobrir novos usos para medicamentos exis
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## Brasil: o que este site abrange
+
+Este site publica relatórios de **{{ site.data.drug_stats.total_drugs }}** medicamentos que constam nos dados de registro de [ANVISA](https://www.gov.br/anvisa/) (Brasil).
+
+Relatórios por nível de evidência: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### Medicamentos com maior nível de evidência neste site
+
+| Medicamento | Nível de evidência |
+|---|---|
+| [Busulfan](/drugs/busulfan/) | L1 |
+| [Lanadelumab](/drugs/lanadelumab/) | L1 |
+| [Hydrocortisone](/drugs/hydrocortisone/) | L1 |
+| [Hydrocortisone Acetate](/drugs/hydrocortisone-acetate/) | L1 |
+| [Icatibant](/drugs/icatibant/) | L1 |
+| [Progesterone](/drugs/progesterone/) | L1 |
+| [Potassium](/drugs/potassium/) | L1 |
+| [Tizanidine](/drugs/tizanidine/) | L1 |
+| [Ketorolac](/drugs/ketorolac/) | L1 |
+| [Tacrolimus](/drugs/tacrolimus/) | L1 |
+
+### Medicamentos abrangidos apenas por este site entre os 30 sites TxGNN
+
+| Medicamento | Nível de evidência |
+|---|---|
+| [Clobutinol](/drugs/clobutinol/) | L5 |
+| [Cobalamin](/drugs/cobalamin/) | L5 |
+| [Cefdinir](/drugs/cefdinir/) | N/A |
+| [Metaraminol](/drugs/metaraminol/) | N/A |
+| [Nimesulide](/drugs/nimesulide/) | N/A |
+| [Potassium Hydroxide](/drugs/potassium-hydroxide/) | N/A |
+| [Potassium Sulfate](/drugs/potassium-sulfate/) | N/A |
+
+<!-- local-home:end -->
+
 ## O que é Reposicionamento de Medicamentos?
 
 <p class="key-answer" data-question="O que é reposicionamento de medicamentos?">
