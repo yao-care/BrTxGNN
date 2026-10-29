@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre demência (dementia)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre demência (dementia). 1 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre demência (dementia). 2 notícias, 4 medicamentos relacionados."
 permalink: /news/dementia/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 ---
 
 # Notícias sobre demência (dementia)
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre demência (dementia)?">
-<strong>demência (dementia)</strong> tem atualmente <strong>1 notícias</strong> e 4 medicamentos relacionados.
+<strong>demência (dementia)</strong> tem atualmente <strong>2 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «demência» e l
 </ul>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Como menopausa afeta a saúde mental da mulher: 'Sentimento de culpa'](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGt1Z2ROc2hNQ1NWZGpjTTJGV1pOTXpvVjkzMklQWXhMRWFxVzVFNWd0X3ZTNGkwUjd0WlFxQ0Y4YUQxUDg5SEVhLThoQVpGSUpaZ0RTNEtOT1NKQTloQ2lRaFJ6QUZvZXBpajRHLS1rS1hFbG0tVGZ3X2dkRTFWWkdUdlJ4QlZiTDY3WFRXUHY2eFItc0gyWmhQaWVTOFp3d1gzUTJNd2RGR3IyckhDUXNfdTJYQnM4M0xXZTJfa214dkJlQ0M1Qw?oc=5)
+
+2026-10-28
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGt1Z2ROc2hNQ1NWZGpjTTJGV1pOTXpvVjkzMklQWXhMRWFxVzVFNWd0X3ZTNGkwUjd0WlFxQ0Y4YUQxUDg5SEVhLThoQVpGSUpaZ0RTNEtOT1NKQTloQ2lRaFJ6QUZvZXBpajRHLS1rS1hFbG0tVGZ3X2dkRTFWWkdUdlJ4QlZiTDY3WFRXUHY2eFItc0gyWmhQaWVTOFp3d1gzUTJNd2RGR3IyckhDUXNfdTJYQnM4M0xXZTJfa214dkJlQ0M1Qw?oc=5)
+
+---
 
 ### [Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda - O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5)
 

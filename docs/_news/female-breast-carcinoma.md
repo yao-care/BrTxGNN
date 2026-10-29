@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer de mama (female breast carcinoma)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 1 notícias, 12 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 2 notícias, 12 medicamentos relacionados."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Notícias sobre câncer de mama (female breast carcinoma)
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de mama (female breast carcinoma)?">
-<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>1 notícias</strong> e 12 medicamentos relacionados.
+<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>2 notícias</strong> e 12 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de mama
 </ul>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Inchaço na axila levou biomédica de 39 anos a descobrir câncer de mama no Acre: 'O chão sumiu'](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5)
+
+2026-10-29
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5)
+
+---
 
 ### [Dados do Inca mostram que mulheres negras morrem 3,8 vezes mais que brancas por câncer de mama - O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2azBFcU1ZVXRJeXNQQzJvZEhIZl8zaWZsX2FIWkxZZjRhUUsxZ25NdWd6THNYaW1mblY0c2E0bjYxd1dDYkJ3UlphOTMyWUhJR2FFV0VHRkIxUGM2b2pCVmFqSjFNbDBIc0drcVhfWUFRZ3gxRnJEWno5OUh5dndjUUF3WmJkQVBTbTBkeHhJM2llcG9ZMTJENHBvZlMxS0tiLTBhWFZxTy1hcHQ2TWIzcnc4TjcteF93MU5XQXBhejdrMlp3Vzlyak5ucmJUWmFMdmdaMlgwR3RYZzIxMNIB8gFBVV95cUxNWUZnVV90QXAydnpZUU54b3lFRDJZaUEteXRMYzk2aHI4dllicFEzWUJfUTQzdUlRMzFmRUVNTWJCNE5RSXhyaHpma2ctNkJiZWFQNkI4c3BWMjRjbnozSGtjMWZmOS1jTFZDZHRjT1E0emhUVi1jYnJtRXJzMmtoWnhMdUFLRURRdTFTU1Y3REZYXzBVbXRrOWFXWHFGOXZnT3lMSUdTbFc0MnMzYzBXajYyMTYxNWlGMHk4Nmg5MTNhQ2F2MnhMSjQ4UUppV2x5R3BkbmdDUlVVRGpfTzAyaGNsWWFQWjNHN0NpWm04Tktudw?oc=5)
 

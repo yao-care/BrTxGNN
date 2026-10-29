@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-29T04:50:36.375042+00:00",
-  "total_fetched": 91,
-  "unique_count": 89,
-  "health_related_count": 40,
+  "fetched_at": "2026-10-29T12:27:53.837803+00:00",
+  "total_fetched": 94,
+  "unique_count": 92,
+  "health_related_count": 38,
   "news": [
+    {
+      "id": "5ab84cb8f7d9",
+      "title": "Inchaço na axila levou biomédica de 39 anos a descobrir câncer de mama no Acre: 'O chão sumiu' - G1",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "Inchaço na axila levou biomédica de 39 anos a descobrir câncer de mama no Acre: 'O chão sumiu'&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5"
+        }
+      ]
+    },
     {
       "id": "b07c1a3d3d75",
       "title": "A idade que atingimos o auge da inteligência, conforme estudos - Concursos no Brasil",
@@ -18,22 +30,10 @@
       ]
     },
     {
-      "id": "4555156127ff",
-      "title": "Alunos de uma escola técnica de Buenos Aires criaram sensores que medem temperatura do ar, umidade do solo e vento para alertar sobre risco de incêndio e estão na final de um prêmio mundial - Super Rádio Tupi",
-      "published": "2026-10-28T19:53:15+00:00",
-      "summary": "Alunos de uma escola técnica de Buenos Aires criaram sensores que medem temperatura do ar, umidade do solo e vento para alertar sobre risco de incêndio e estão na final de um prêmio mundial&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV09JQVRiSGw1RUQyRWFoT1FuMFBjeFFSYXZzU01tYjVfYnEzb3JNWXBxSGRNdFhmOVNxV3F4Nkk1UFNHYzdndS1abGQwNFdqR1N5WjlrMEFmb09NTl9qa1R0Q21iNS1VUjFlcEsxOVRLQm1CNG1GRXRqdEljN1NwM1VpLVFNSHNkcVBv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7b9a6450be62",
       "title": "Sintomas de AVC: sinais podem desaparecer, mas ainda indicam risco grave - Terra",
       "published": "2026-10-28T19:07:00+00:00",
-      "summary": "Sintomas de AVC: sinais podem desaparecer, mas ainda indicam risco grave&nbsp;&nbsp;TerraAVC: reconhecer os sintomas e agir rápido pode salvar vidas e evitar sequelas&nbsp;&nbsp;G1AVC: sinais de alerta e como agir rápido, segundo neurologista&nbsp;&nbsp;Campo Grande NewsCBF e Rede Brasil AVC levam alerta sobre prevenção do AVC aos estádios em rodada nacional&nbsp;&nbsp;CBFDia Mundial do AVC: reconhecer sintomas pode salvar vidas&nbsp;&nbsp;Senado",
+      "summary": "Sintomas de AVC: sinais podem desaparecer, mas ainda indicam risco grave&nbsp;&nbsp;TerraDedo de Prosa: sinais de alerta e prevenção ao AVC&nbsp;&nbsp;SenadoDia Mundial do AVC reforça importância da prevenção&nbsp;&nbsp;Correio do PovoAVC: reconhecer os sintomas e agir rápido pode salvar vidas e evitar sequelas&nbsp;&nbsp;G1Seus hábitos podem aumentar o risco de AVC? Saiba como prevenir doença&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "Terra",
@@ -42,26 +42,38 @@
       ]
     },
     {
-      "id": "5f64a06cde2f",
-      "title": "Excesso de treino afeta a regulação química do cérebro, mostra novo estudo - InfoMoney",
-      "published": "2026-10-28T18:35:47+00:00",
-      "summary": "Excesso de treino afeta a regulação química do cérebro, mostra novo estudo&nbsp;&nbsp;InfoMoney",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdG01RTVja254TmxFVXlYeEtRcjRGa3NYNFdnYnZLaEJ1d25LUnJrY21PR281QmhaLUhCZzFCMXVERlhjV3hMMTVrWTJiQWYySW1tVkR6dGFuVmNKRkg3LWJjLTd3amxWWnBINlJOYThIZmRJbG9DNUFRTkUteGFZVFpJRnR4YVlGcnFJTS1QbDAzQ1htM3BrNHBCTUVPSFFyOWdULWNRMGxDLXNicXfSAbMBQVVfeXFMTlJfQS1lbFNqektjUmhYNGsydjl6T2FQZ05wRmJTSmFyTmR3MXk3ZUtaak9HYzFLd2hHUHROdE5MUFBTRldNQjJpdEw0bm5ZNjFlUUI5NTEtZzdOaHo5M0NfZHRNZXFSV2RBeURzR040Zk5lRERnb0YycGVpeG9mQWtCYlVxaXA0ZENsOE40eUdzWENIVmF1QWtncWFfQXZwSEFvX2hSRllXTHFOUHAwLW5yRG8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1b604ad1a43f",
       "title": "Câncer de intestino antes dos 50: veja fatores de risco - SBT News",
       "published": "2026-10-28T18:33:22+00:00",
-      "summary": "Câncer de intestino antes dos 50: veja fatores de risco&nbsp;&nbsp;SBT NewsCâncer de intestino: exame de colonoscopia é principal forma de diagnóstico&nbsp;&nbsp;G1Ministério aprova diretrizes de rastreamento do câncer de intestino&nbsp;&nbsp;Campo Grande NewsMorte de Lua Blanco chama atenção para avanço do câncer colorretal | #DomingoEspetacular #shorts&nbsp;&nbsp;R7Câncer de cólon: sangramento é primeiro sintoma em 50% dos casos, diz médico&nbsp;&nbsp;Midiamax",
+      "summary": "Câncer de intestino antes dos 50: veja fatores de risco&nbsp;&nbsp;SBT NewsCâncer de intestino: exame de colonoscopia é principal forma de diagnóstico&nbsp;&nbsp;G1Ministério aprova diretrizes de rastreamento do câncer de intestino&nbsp;&nbsp;Campo Grande NewsMorte de Lua Blanco chama atenção para avanço do câncer colorretal | #DomingoEspetacular #shorts&nbsp;&nbsp;R7Câncer de cólon: sangramento é o primeiro sintoma em 50% dos casos, diz médico&nbsp;&nbsp;Midiamax",
       "sources": [
         {
           "name": "SBT News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrUTdGUjFpck1USFVnU0pBN1paWURYcnNaN2dlTXhLUFd5eWdsb1YyVDBXRTRZUEtiNGpOa0VLcmlNUVFfZVB1cUlXWjhXaXR3aGpKNmZSZmQ5UHNYY1ZQbTUxZVRGeHhCT3JmV2h4d19kSGRjdVdDLWd0bmt2ZUw1M0VweXdkUlcyNkQyS2FzdWw1QU95OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "238368a4920b",
+      "title": "Homens com dieta rica em proteína animal têm menos testosterona, diz estudo - Metrópoles",
+      "published": "2026-10-28T18:24:00+00:00",
+      "summary": "Homens com dieta rica em proteína animal têm menos testosterona, diz estudo&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1hMYXV1cUh3cW9ZWXFGX2VYNzJPZXQyaWN6dEl4LV9taDhORkJqRllKUFNFODQxN3k1anRQd3dhNVlVU0c5cUJtaTVWbTBDaVZ1d0M3RGVCSHg4X3dJMTdpNnYwTjRIRHNxSTRlU1hUdk10QUJqU0owZ3VQNFFMdDRLa25mZlhMRzNTeGRaMExBMV9QenBzRk4zLVNjRVVTM3pPalZtSDlrN0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e595511e11d6",
+      "title": "Excesso de treino afeta a regulação química do cérebro, mostra novo estudo - O GLOBO",
+      "published": "2026-10-28T17:41:25+00:00",
+      "summary": "Excesso de treino afeta a regulação química do cérebro, mostra novo estudo&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT1cxT2dXeGdJNHMxMFpaOTdOZnpNVlRxNVc5Sm8ybkQwQXdtcDFjeXBKalhwOXl5QjMzNTVJOW9aYXJqdk0yU1QwbHYwcndTTmpucXJtRGhSempSbXBoQUpzSkFCYmExREtkSXlKTEFfZ1RKZkdHaTJ4QzF3OGNyd2J0OE5wbHI0Uk1UWlliT1NYNGJrcEVxOXdjcVM2LVItYXRrM1lFY05SaC1zWEVwNmtfMnNsdUxqemYzWnV0b1plU0tCNWRCVtIB1wFBVV95cUxQaUZnUUxQejNTT2xWM0xid3lWTFFfV2tnUTNRQUJDem5IVktURWJ2bjJwTkZEeTJGNnZmSGZ4aklRSkVKNDczNlktdjNnb3RsRjRqUV9JYWtDODlrek1EQVhoUHg1TVZtWDZaSXRQUjRidFMtQ3dmQ3dZZXh6b1pvTjkwdmJaalBJUzk0bHBpU29RX0o5MGY3QS1IanZ5OVBTVEFhQlYyaDR6bDRldDhVOVlsdkZqcUZidUVHWjUzdFA0U2ItREwzYUZTSk9qZ1AyQXFfQ3hIVQ?oc=5"
         }
       ]
     },
@@ -150,18 +162,6 @@
       ]
     },
     {
-      "id": "7d7db4a0bd86",
-      "title": "Sucessor do Mounjaro supera Ozempic em estudo com pessoas com diabetes - UOL",
-      "published": "2026-10-28T12:44:59+00:00",
-      "summary": "Sucessor do Mounjaro supera Ozempic em estudo com pessoas com diabetes&nbsp;&nbsp;UOLRetatrutida mais que dobra perda de peso do Ozempic em novo estudo, diz farmacêutica&nbsp;&nbsp;O GLOBORetatrutida: será que é mesmo o novo remédio para emagrecer que você está usando?&nbsp;&nbsp;R7Medicamento de nova geração da Eli Lilly contra obesidade supera amplamente Ozempic em estudo comparativo&nbsp;&nbsp;Valor EconômicoMedicamento de última geração da Lilly supera o Ozempic em perda de peso e controle d",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbE0wandrMUxZUlVfeWZwelJuOXBlNDlWOTNBSTFlRnl1T2hSQzREcGtPMjdDYTgtdDE0Y3p1b1NIVjVrWTlwMVRsdjNOMzBFNVlJdWFobVUxdVFnbGN4ZFlWQ0Y1VGxNU0RUaTVESjBmVjdQY1k1bXVfTS1yRlBSQTRhTDh3c1R2dWRGUlFvckhkMnk2NHB0dDh6MGlzUm02RDlVT09qZHV6RHhzTXZJZlRZdm1aRDhFWEJfcTZsNDkxRTNtTWpqcg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "07ed685a3dbc",
       "title": "Cátedra Magda Soares de Educação Básica discute formação de professores de Matemática a partir de uma perspectiva problematizadora – Instituto de Estudos Avançados Transdisciplinares da UFMG - UFMG",
       "published": "2026-10-28T12:33:00+00:00",
@@ -237,7 +237,7 @@
       "id": "367b22f1cd3d",
       "title": "Como menopausa afeta a saúde mental da mulher: 'Sentimento de culpa' - UOL",
       "published": "2026-10-28T08:31:00+00:00",
-      "summary": "Como menopausa afeta a saúde mental da mulher: 'Sentimento de culpa'&nbsp;&nbsp;UOLMenopausa pode afetar saúde mental e provocar alterações de humor&nbsp;&nbsp;G1Névoa mental afeta memória e concentração durante a menopausa, mostra pesquisa&nbsp;&nbsp;agenciasp.sp.gov.brQuando a memória falha, a mulher precisa ser ouvida&nbsp;&nbsp;RdnewsNévoa mental na menopausa afeta memória e exige atenção médica&nbsp;&nbsp;Fato Paulista",
+      "summary": "Como menopausa afeta a saúde mental da mulher: 'Sentimento de culpa'&nbsp;&nbsp;UOLMenopausa pode afetar saúde mental e provocar alterações de humor&nbsp;&nbsp;G1Névoa mental afeta memória e concentração durante a menopausa, mostra pesquisa&nbsp;&nbsp;agenciasp.sp.gov.br\"Brain fog\" na perimenopausa: entenda as causas e diferenças para a demência&nbsp;&nbsp;Região Noroeste",
       "sources": [
         {
           "name": "UOL",
@@ -254,18 +254,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdFFoSWdLY0xCZjVpaDczTnRmWVNDcGZqRm1CaXlOOFpiMllDS2l1anowTU05cUNZejg4M0UtSjlJa1l2d20xaGVybElsNzlUb0dqY3QwQmktN3lwcl9VNGN3bXAyTDF5YkE4bGRNelRNdjdmRHZJdWxnX2I2RU9RampER19SVmtLQVdLLVBRSGswanhOejZwYUtpTWJxaHAwVXJTNWlSbXdySndaWEEwNlVvSTRXSUlOUFVpNTdZaWVGRFh6U2tkOVVBVUtOQS1JbjdxVGl6VkJITERUTmRtbmNsS193Q0ZYNy1pank0cFVMQXBmZUpHYVcyYXE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68691f72d883",
-      "title": "Açaí: a fruta símbolo da Amazônia tem benefício e risco que a ciência já comprovou - Portal do Holanda",
-      "published": "2026-10-28T06:44:00+00:00",
-      "summary": "Açaí: a fruta símbolo da Amazônia tem benefício e risco que a ciência já comprovou&nbsp;&nbsp;Portal do Holanda",
-      "sources": [
-        {
-          "name": "Portal do Holanda",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ1ctZWV0U0h0bGJORFQ1cU5WQXVqSXJ1Z2szM2pDZjBLU1U1bDl1ZTNVLWI4WWFkbS1JZzNfNVIzVmR2b3p0YU5SaW9XWkhzSnBFb2Q0RG5fbzVqUk9RV3RMZmlKY0N2dmZGbTJsUHFRSXhRbGx3ejdMemgzVlB1SXl0V1Y1Q1hvenl0MFZoZ0FfT3l2YmRMcFBhM0pIU2RBM2ZOU0NTOVpmNjJFVWtuOEVINXR1TXJ2ajMtOXNMMTkyWEtsdHVYNG1nYTZYUTVh?oc=5"
         }
       ]
     },
@@ -302,6 +290,18 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSXY3WDJsQmNVNng2RWI3aDNrSUJQZEM0SUxSMklITktiMklUUy1VS05WUmZFdGRGRHJmVE9PUndTM2RlQ3gyTDBoRVZUWnZvNUpOdnByV08zaVg0SjZYTEVWV2pldlhsdURrUjFEZkl0aFhxRHN2UXNDRWRWbmhGd2ppSWhFX1BYUHRKcHlzZ01JN3JnZEZDQnhTV0FTb1RuX3Y0RHZaN2F5UVpHN21zb0wwYldXLTdrb2tHRE9LdGF4U1JTai1wYVFLRXMzdTg3UTU2eTRIUHBIdEFlR0ZWUVZvVk02THJQbjNzbzNfNlFpVDRvVWFLVWtTa9IBigJBVV95cUxQMEIyZVNyc2VpVnYxc0RNQVc3bHc4dzdSdHFSR3o5LVBHN0JRcWc3al9uVVZCZGw2dnVxejZyVk04X2pfc0tadWkwUFZiS1dyMklMeWxrelJUNXNhekg2WkdpS2ZSU1ZGUWdISEtSaElBVWpsT2tXV3Q4a1VNbEdMOUZuRFk1TERmRXBaMjgtS2Vyemp4TTZRUm1MSnpTbXpwWlFsRHV5VldjeUFuV1ZzSERNSVh5Y2tXNklnVHJ2cVVXZzQySXRTaS1rOGl6Z1dFcDdyT3hmS1B2M19RTzlNZ1BlSTN5VWx4NENZdlFqcnB4TTc0TElIRE5nMy1aQTQxc1loRFVOOEp3Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f760728d51a7",
+      "title": "O que a Folha pensa: Atenção global ao sarampo - Folha de S.Paulo",
+      "published": "2026-10-28T01:00:00+00:00",
+      "summary": "O que a Folha pensa: Atenção global ao sarampo&nbsp;&nbsp;Folha de S.PauloBrasil precisa prestar atenção aos surtos de sarampo mundo afora&nbsp;&nbsp;O GLOBOEstados Unidos: aumento do sarampo expõe falhas na vacinação europeia&nbsp;&nbsp;Euronews.comCampanha que intensifica vacinação contra sarampo acaba nesta quinta-feira&nbsp;&nbsp;Jornal do ComércioSarampo: Porto Alegre tem apenas 70% de cobertura na segunda dose da vacina&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmJCS1prWkJnelJ4RHFkVEZJdGt3WnVhYXZFcnZld0tEUHJUS0g3d1U0RWFhZ2UtaEEyejlEZGpjNWVJVElpZDdDTm96MVg3TGoxTjZKYmRZY2ZIT2NKR1ZxRW1sNnFEYWx5Ymh0ajlkUkhvSFJMcmQ3SXAzNmtxVnl2cw?oc=5"
         }
       ]
     },
@@ -354,30 +354,6 @@
       ]
     },
     {
-      "id": "f2a2ba88f64c",
-      "title": "Muito além da sala de aula: professora de Curitiba leva experimento de alunos à Estação Espacial Internacional - Prefeitura de Curitiba",
-      "published": "2026-10-27T13:38:00+00:00",
-      "summary": "Muito além da sala de aula: professora de Curitiba leva experimento de alunos à Estação Espacial Internacional&nbsp;&nbsp;Prefeitura de Curitiba",
-      "sources": [
-        {
-          "name": "Prefeitura de Curitiba",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaG5iQzhCZjhRYllucG10SXphYm14Z0JvUTNGMTNFdHd3WUU3ZjZlRUpTTmdxSjFxRXdDMHlZSFlmMjBiZVV3LUc5aHRUa0YyNDJnRng2dUJwbVVKN0xxb3d5eHRJSTZuSDZtVEtMZzNYRms2T2U4ZlZjcndFQlphSks4Uy1JWnc0UVZSbjNUSjlRVVJhZ2VNRHF1Q2NKMXFiTU5VLV9IUElHUmZOcjZPa2drbi1CaldUVWJPU09ObDYzRlJESVZVTlJFdGJjRjJkOGt3YWFBdXhUSUZWQmp0QjE4TVQzUDkyUU1F?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dff63857be9c",
-      "title": "O poder da matemática a serviço da indústria - Revista Pesquisa FAPESP",
-      "published": "2026-10-27T11:57:00+00:00",
-      "summary": "O poder da matemática a serviço da indústria&nbsp;&nbsp;Revista Pesquisa FAPESP",
-      "sources": [
-        {
-          "name": "Revista Pesquisa FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzRIbWZLdVVNOVBJRjMzTTByVnFiMnY4bGM3TjZFMFJzVGRudURSWk96cmJ2OGV3UnNLRFZfZVVqQ2h6NUZ3eW9ibmZVZU5BMFptcG9UMDZnWHI4c0lRQXY2ZU5naUF4bTBjcmFQZDdYZ0NmZUJkbXNWUHZiZ3N4dWxGRVJzZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c8616174e6d9",
       "title": "Como é a base de pesquisa russa que chegou à menor temperatura registrada no mundo e é análoga à futura estação lunar - O GLOBO",
       "published": "2026-10-27T07:30:00+00:00",
@@ -393,7 +369,7 @@
       "id": "b6ab4f0e60d1",
       "title": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue - O GLOBO",
       "published": "2026-10-27T07:00:01+00:00",
-      "summary": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue&nbsp;&nbsp;O GLOBOFrutas da estação têm preços mais acessíveis e benefícios para a saúde&nbsp;&nbsp;G1Frutas ricas em fibras: opções naturais que ajudam a saciar na dieta&nbsp;&nbsp;Correio BrazilienseFrutas da estação podem ajudar na imunidade e no intestino; veja o que escolher em outubro&nbsp;&nbsp;Âncora 1Frutas de outubro: veja quais consumir e seus benefícios para a saúde&nbsp;&nbsp;Webrun",
+      "summary": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue&nbsp;&nbsp;O GLOBOFrutas da estação podem ajudar na imunidade e no intestino; veja o que escolher em outubro&nbsp;&nbsp;Âncora 1Frutas ricas em fibras: opções naturais que ajudam a saciar na dieta&nbsp;&nbsp;Correio BrazilienseFrutas da estação têm preços mais acessíveis e benefícios para a saúde&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "O GLOBO",
@@ -405,7 +381,7 @@
       "id": "3070650ae158",
       "title": "Usuários de Ozempic e Wegovy recorrem a suplementos para aliviar efeitos colaterais; entenda os riscos - G1",
       "published": "2026-10-27T07:00:00+00:00",
-      "summary": "Usuários de Ozempic e Wegovy recorrem a suplementos para aliviar efeitos colaterais; entenda os riscos&nbsp;&nbsp;G1Quando a busca por saúde coloca a vida em risco&nbsp;&nbsp;Gazeta DigitalApós 3 anos analisando suplementos, médico alerta que muitos não entregam o que prometem; descubra quais podem ser desperdício de dinheiro na farmácia&nbsp;&nbsp;Gazeta de São PauloMercado de suplementos cresce, mas promessas exigem cautela&nbsp;&nbsp;ParanashopEspecialista diz que suplementos viram tendência ",
+      "summary": "Usuários de Ozempic e Wegovy recorrem a suplementos para aliviar efeitos colaterais; entenda os riscos&nbsp;&nbsp;G1Nutricionista faz alerta sobre os riscos de consumir vitaminas sem orientação&nbsp;&nbsp;G1Quando a busca por saúde coloca a vida em risco&nbsp;&nbsp;Gazeta DigitalSuplementação ganha relevância com avanços dos GLP-1&nbsp;&nbsp;Panorama FarmacêuticoApós 3 anos analisando suplementos, médico alerta que muitos não entregam o que prometem; descubra quais podem ser desperdício de dinhe",
       "sources": [
         {
           "name": "G1",
@@ -429,7 +405,7 @@
       "id": "f21993095369",
       "title": "Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda - O GLOBO",
       "published": "2026-10-26T17:20:40+00:00",
-      "summary": "Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda&nbsp;&nbsp;O GLOBOAspirina pode reduzir demência em idosos, mas traz riscos, diz estudo&nbsp;&nbsp;CNN BrasilRemédio comum encontrado em muitas casas chamou atenção após estudo apontar possível redução de até 70% no risco de demência&nbsp;&nbsp;Tribuna de MinasRemédio para dor de cabeça reduz risco de demência em um determinado grupo de idosos&nbsp;&nbsp;Acorda CidadeAspirina é associada à redução de até 70% no ri",
+      "summary": "Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda&nbsp;&nbsp;O GLOBOAspirina pode reduzir demência em idosos, mas traz riscos, diz estudo&nbsp;&nbsp;CNN BrasilRemédio comum encontrado em muitas casas chamou atenção após estudo apontar possível redução de até 70% no risco de demência&nbsp;&nbsp;Tribuna de MinasRemédio para dor de cabeça reduz risco de demência em um determinado grupo de idosos&nbsp;&nbsp;Acorda CidadeEstudo associa aspirina e demência a perfil pla",
       "sources": [
         {
           "name": "O GLOBO",
@@ -474,14 +450,14 @@
       ]
     },
     {
-      "id": "afe5d2a080fd",
-      "title": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam - G1",
-      "published": "2026-10-22T05:00:00+00:00",
-      "summary": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam&nbsp;&nbsp;G1Brasil precisa prestar atenção aos surtos de sarampo mundo afora&nbsp;&nbsp;O GLOBOCampanha que intensifica vacinação contra sarampo acaba nesta quinta-feira&nbsp;&nbsp;Jornal do ComércioSarampo: Porto Alegre tem apenas 70% de cobertura na segunda dose da vacina&nbsp;&nbsp;R7Uma pessoa com sarampo pode infectar outras 18\"; alerta coordenadora de imunização da prefeitura&nbsp;&nbsp;Rádio ",
+      "id": "7359cec02805",
+      "title": "Câncer de intestino: sintomas que não devem ser ignorados - Campo Grande News",
+      "published": "2026-10-22T19:13:00+00:00",
+      "summary": "Câncer de intestino: sintomas que não devem ser ignorados&nbsp;&nbsp;Campo Grande NewsVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaWZhanJoQWl2U3NVMnREenJ4M2psR3U2UEstX1YyQUlwR1VTendJTDhTcllmZjc5aTJWU042bUN0Qm1lN0VlT3dQNVE0eW5QdW1EeS0zb3cwN1ducFdHZThaVmlJLWtQU29rOWVwTU1sWUhESi05YUhwZXFQVnU2VjJPU3g5bi1VallCOWxodjlyeDBpdHBWLVlleXVaQ1NKaE41VS1EdWdPUkxDcGc2RVJFeXc4MmFxbEJPaWc2cFpQZ0pDU2NYV1ktTzFSeV8zRDlyYkhyUEZiWUd2OS1QZtIB7wFBVV95cUxNU1gtQ2NpVjRSTjl3ZTBpWHJwWlg3dWNNVGNzNDc0MWQ0aVN4SDB0UlgyME12bkZsWVNDMHF2cnRWLThJQmYtdHVvSDg0Nm8wUVZ6S3lDMDlZRmNwbDVCNWJfdnlZOV9Vbm1PRjVnMTNFaVMwTzRvNUozRGNJYWp2R3VSOXAzSDlxbW50YlJKcUtSNEl0UkkzZldvNTc0aWJhMkVvaEJ5RzVKbFhSUzZVUktrTWlhNTJjblJGRHdIWnFWYjJuOFowR1RXeHRDdHBreVlQbDVOYnZMM0Y5QWV4U2NuSGhHWS1FUjRiSWRpVQ?oc=5"
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5"
         }
       ]
     }

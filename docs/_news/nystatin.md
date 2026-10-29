@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Nystatin. 10 indicações previstas."
 permalink: /news/nystatin/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Notícias sobre Nystatin
@@ -46,7 +46,7 @@ Esta página combina as indicações previstas por IA para Nystatin com as notí
 
 ### [Como menopausa afeta a saúde mental da mulher: 'Sentimento de culpa'](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGt1Z2ROc2hNQ1NWZGpjTTJGV1pOTXpvVjkzMklQWXhMRWFxVzVFNWd0X3ZTNGkwUjd0WlFxQ0Y4YUQxUDg5SEVhLThoQVpGSUpaZ0RTNEtOT1NKQTloQ2lRaFJ6QUZvZXBpajRHLS1rS1hFbG0tVGZ3X2dkRTFWWkdUdlJ4QlZiTDY3WFRXUHY2eFItc0gyWmhQaWVTOFp3d1gzUTJNd2RGR3IyckhDUXNfdTJYQnM4M0xXZTJfa214dkJlQ0M1Qw?oc=5)
 
-2026-10-28 <span class="news-indication-tag">menopausa</span>
+2026-10-28 <span class="news-indication-tag">demência</span> <span class="news-indication-tag">menopausa</span>
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGt1Z2ROc2hNQ1NWZGpjTTJGV1pOTXpvVjkzMklQWXhMRWFxVzVFNWd0X3ZTNGkwUjd0WlFxQ0Y4YUQxUDg5SEVhLThoQVpGSUpaZ0RTNEtOT1NKQTloQ2lRaFJ6QUZvZXBpajRHLS1rS1hFbG0tVGZ3X2dkRTFWWkdUdlJ4QlZiTDY3WFRXUHY2eFItc0gyWmhQaWVTOFp3d1gzUTJNd2RGR3IyckhDUXNfdTJYQnM4M0xXZTJfa214dkJlQ0M1Qw?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gefitinib?">
-<strong>Gefitinib</strong> tem atualmente <strong>6 notícias</strong> e 9 indicações previstas.
+<strong>Gefitinib</strong> tem atualmente <strong>9 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Esta página combina as indicações previstas por IA para Gefitinib com as not�
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (6)
+## Notícias relacionadas (9)
+
+### [Inchaço na axila levou biomédica de 39 anos a descobrir câncer de mama no Acre: 'O chão sumiu'](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5)
+
+2026-10-29 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5)
+
+---
 
 ### [Câncer de intestino antes dos 50: veja fatores de risco - SBT News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrUTdGUjFpck1USFVnU0pBN1paWURYcnNaN2dlTXhLUFd5eWdsb1YyVDBXRTRZUEtiNGpOa0VLcmlNUVFfZVB1cUlXWjhXaXR3aGpKNmZSZmQ5UHNYY1ZQbTUxZVRGeHhCT3JmV2h4d19kSGRjdVdDLWd0bmt2ZUw1M0VweXdkUlcyNkQyS2FzdWw1QU95OA?oc=5)
 
@@ -56,6 +64,14 @@ Fonte: [SBT News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrU
 2026-10-28 <span class="news-indication-tag">tumor</span>
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGxHemItM2RYU1NHQUpIa1l5bEdfbVhTbWcxZk9sRkRTN1FzY25CS2RYLUF6UVk0azFsaVlIR3pzTGthVDNySUh6ckQ1Q3JvOVFUZGdXei1hUmIySWpzMF9GZ2lZelhoazF5WjlNeUdFZFdsZEloX2ZmWE01QmRyZngwVjN4djYzLU9iM1VKTUtwZ21ZM0JENGxPaDNHYkdGMXA3Mlh1ajlwMnA1eWpIRkE0RHBzQ0dDZ3k4S280MnA4UEkzNDlIVXMwU04?oc=5)
+
+---
+
+### [Como menopausa afeta a saúde mental da mulher: 'Sentimento de culpa'](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGt1Z2ROc2hNQ1NWZGpjTTJGV1pOTXpvVjkzMklQWXhMRWFxVzVFNWd0X3ZTNGkwUjd0WlFxQ0Y4YUQxUDg5SEVhLThoQVpGSUpaZ0RTNEtOT1NKQTloQ2lRaFJ6QUZvZXBpajRHLS1rS1hFbG0tVGZ3X2dkRTFWWkdUdlJ4QlZiTDY3WFRXUHY2eFItc0gyWmhQaWVTOFp3d1gzUTJNd2RGR3IyckhDUXNfdTJYQnM4M0xXZTJfa214dkJlQ0M1Qw?oc=5)
+
+2026-10-28 <span class="news-indication-tag">demência</span> <span class="news-indication-tag">menopausa</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGt1Z2ROc2hNQ1NWZGpjTTJGV1pOTXpvVjkzMklQWXhMRWFxVzVFNWd0X3ZTNGkwUjd0WlFxQ0Y4YUQxUDg5SEVhLThoQVpGSUpaZ0RTNEtOT1NKQTloQ2lRaFJ6QUZvZXBpajRHLS1rS1hFbG0tVGZ3X2dkRTFWWkdUdlJ4QlZiTDY3WFRXUHY2eFItc0gyWmhQaWVTOFp3d1gzUTJNd2RGR3IyckhDUXNfdTJYQnM4M0xXZTJfa214dkJlQ0M1Qw?oc=5)
 
 ---
 
@@ -88,6 +104,14 @@ Fonte: [Portal Drauzio Varella](https://news.google.com/rss/articles/CBMivAFBVV9
 2026-10-26 <span class="news-indication-tag">demência</span>
 
 Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5)
+
+---
+
+### [Câncer de intestino: sintomas que não devem ser ignorados - Campo Grande News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5)
+
+2026-10-22 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Campo Grande News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5)
 
 ---
 
