@@ -3,8 +3,8 @@
 用語從該站自己的頁面學：更新前的頁面＋更新前的 license_facts，統計狀態欄每種寫法對應到哪種狀態
 （valid／not_marketed／cancelled），只採「≥90% 對應同一種狀態、出現 ≥2 次」的寫法；每種狀態取最常見的寫法。
 更新後：狀態欄的格子是某狀態的已知寫法、但許可證現在是另一種狀態 → 換成新狀態的寫法。
-新狀態在該站沒有學到寫法時：cancelled／valid 用 rewrite_market_v2.VALID_WORD 的對應字（valid→第一個有效字、cancelled→對應的註銷字），
-not_marketed 沒有通用字 → 不改、記在 unsynced（排程 summary 會列出）。
+新狀態在該站沒有學到寫法時：用證據包紀錄裡主管機關的原文狀態（pm 2026-10-30：只能用該國官方用語，不跨站借用、不機器翻譯）；
+原文也沒有 → 不改、記在 unsynced（排程 summary 列出、開 issue）。
 狀態欄＝表頭是 estado／status／statut／状態…的那一欄；許可證號在第一欄。Tw 的許可證表由 tfda 程式產生，不處理。
 用法（母目錄或工作目錄）：
   python3 .claude/license_table_sync_20261029.py learn 站 > labels.json   （用目前的 license_facts）
@@ -77,32 +77,28 @@ def learn(site):
     return {"labels": labels, "preferred": best}
 
 
-def fallback(site, st, lang_of):
-    # 先借同語言其他站學到的寫法（例：CO 沒寫過「未上市」，借 ES 的 Autorizado, no comercializado）
-    reg = _load("reg", BASE / ".claude/site_registry.py")  # 工作目錄裡只有本站，別站語言查站台權威表
-    my = reg.get(site)["lang"].lower().split("-")[0]
-    for f in sorted((BASE / ".claude/license_labels").glob("*.json")):
-        other = f.stem
-        if other != site and other in reg.SITES and reg.get(other)["lang"].lower().split("-")[0] == my:
-            w = json.loads(f.read_text(encoding="utf-8")).get("preferred", {}).get(st)
-            if w:
-                return w
-    mv2 = _load("mv2", BASE / ".claude/rewrite_market_v2_20261021.py")
-    vw = mv2.VALID_WORD.get(lang_of(site), mv2.VALID_WORD["en"])
-    if st == "valid":
-        return vw[0][1]
-    if st == "cancelled":
-        return vw[0][0]
-    return None
+def official_text(site):
+    """{許可證號: 主管機關原文狀態}：取自證據包 tfda.records 的 status／registration_status（下載轉換器寫入的官方字樣）"""
+    out = {}
+    for f in (BASE / site / "data/bundles").glob("*/drug_bundle.json"):
+        try:
+            recs = (json.loads(f.read_text(encoding="utf-8")).get("tfda") or {}).get("records", [])
+        except Exception:
+            continue
+        for r in recs:
+            k = str(r.get("license_id") or r.get("registration_number") or "").strip()
+            s = str(r.get("status") or r.get("registration_status") or "").strip()
+            if k and s:
+                out[norm(k)] = s
+    return out
 
 
 def apply(site, lab, dry=False):
     if site == "TwTxGNN":
         return [], []
-    site_lang = _load("dm", BASE / ".claude/drug_meta_description.py").site_lang
-    lang_of = lambda s: site_lang(BASE / s).lower().split("-")[0]
     fs = facts(site)
     labels, pref = lab["labels"], lab["preferred"]
+    off = official_text(site)
     changed, unsynced = [], []
     for f in sorted((BASE / site / "docs/_drugs").glob("*.md")):
         fc = page_facts(fs, f.stem)
@@ -118,9 +114,10 @@ def apply(site, lab, dry=False):
             was = labels.get(c[col])
             if not now or not was or was == now:
                 continue
-            want = pref.get(now) or fallback(site, now, lang_of)
+            # 本站頁面學到的寫法優先；沒有就用主管機關原文（pm 2026-10-30：只能用該國官方用語，不跨站借、不機器翻譯）
+            want = pref.get(now) or off.get(norm(c[0]))
             if not want:
-                unsynced.append(f"{f.stem} {c[0]}：{was}→{now}，本站沒有 {now} 的寫法")
+                unsynced.append(f"{f.stem} {c[0]}：{was}→{now}，本站沒有 {now} 的寫法、證據包也沒有官方原文")
                 continue
             changed.append((f.stem, f"許可證表 {c[0]} 狀態", c[col], want))
             c[col] = want
