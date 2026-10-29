@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 557
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Quetiapine: nova indicação prevista, Retinopatia distrófica com ou sem anomalias extraoculares (retinal dy… (nível de evidência L5). Indicação original: Antipsicóticos"
 monitor_inn: "quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
@@ -49,7 +49,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Retinopatia distrófica com ou 
 | Nova Indicação Prevista (maior pontuação) | Retinopatia distrófica com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies) |
 | Pontuação de Previsão TxGNN | 0,9957 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 

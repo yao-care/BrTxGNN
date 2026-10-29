@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "IRON"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Iron: nova indicação prevista, Anemia megaloblástica constitucional independente de vitamina B12 e folato (vitamin B12- and folate-independent constit… (nível de evidência L5). Indicação original: Nã…"
 ---
 
@@ -48,7 +48,7 @@ O ferro é um suplemento mineral utilizado para repor as reservas do organismo. 
 | Nova Indicação Prevista | Anemia megaloblástica constitucional independente de vitamina B12 e folato (vitamin B12- and folate-independent constitutional megaloblastic anemia) |
 | Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 3) |
 | Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 

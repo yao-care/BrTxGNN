@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Amoxicillin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Amoxicillin: nova indicação prevista, síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) (nível de evidência L5). Indicação original: PENICILINA DE AMPLO ESPECTRO"
 ---
 
@@ -49,7 +49,7 @@ O modelo TxGNN prevê que ela poderia ser útil para a **síndrome de hipervisco
 | Nova Indicação Prevista | síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) |
 | Pontuação de Previsão TxGNN | 0,9963 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 

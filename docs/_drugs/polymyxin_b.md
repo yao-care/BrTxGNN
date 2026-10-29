@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 534
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Polymyxin B: nova indicação prevista, Bronquite (bronchitis) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Polymyxin B"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
@@ -51,7 +51,7 @@ O modelo TxGNN prevê que pode ser eficaz para **bronquite (bronchitis)**, mas e
 | Nova Indicação Prevista | Bronquite (bronchitis) |
 | Pontuação de Previsão TxGNN | 0,9987 |
 | Nível de Evidência | L4 (para bronquite) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | 20 |
 | Decisão Recomendada | Hold |
 

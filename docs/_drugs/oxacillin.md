@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Oxacillin: nova indicação prevista, Epiglotite (Epiglottitis) (nível de evidência L5). Indicação original: Penicilinas resistentes à penicilinase"
 monitor_inn: "oxacillin"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que ela pode ser eficaz para **Epiglotite (Epiglottitis)**
 | Nova Indicação Prevista | Epiglotite (Epiglottitis) |
 | Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
-| Número de Registros | 6 (ativos: 6) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 6) |
+| Número de Registros | 6 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

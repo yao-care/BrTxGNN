@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 539
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Potassium Chloride: nova indicação prevista, Acidose Tubular Renal (Renal Tubular Acidosis) (nível de evidência L5). Indicação original: Reposição hidroeletrolítica e alimentação parenteral"
 monitor_inn: "POTASSIUM CHLORIDE"
 predicted_indications: ["renal tubular acidosis"]
@@ -50,7 +50,7 @@ mas atualmente há **0 ensaios clínicos** e apenas literatura de baixa força (
 | Nova Indicação Prevista | Acidose Tubular Renal (Renal Tubular Acidosis) |
 | Pontuação de Previsão TxGNN | 0,9987 |
 | Nível de Evidência | L5 (nenhum ensaio clínico; a literatura disponível é composta por relatos de caso, revisões e estudos observacionais, sem estudos que testem o fármaco na doença) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 

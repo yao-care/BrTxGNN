@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Cefalotin: nova indicação prevista, Uretrite gonocócica (Gonococcal urethritis) (nível de evidência L4). Indicação original: Cefalosporinas / antibióticos sistêmicos simples"
 monitor_inn: "cefalotin"
 predicted_indications: ["gonococcal urethritis", "Ureaplasma urethritis", "bronchitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "congenital analbuminemia"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **uretrite gonocócica (gonococca
 | Nova Indicação Prevista | Uretrite gonocócica (Gonococcal urethritis) |
 | Pontuação de Previsão TxGNN | 0,9925 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
-| Número de Registros | 9 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 9) |
+| Número de Registros | 9 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

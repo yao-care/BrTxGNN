@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Cilastatin: nova indicação prevista, Infecção por Staphylococcus aureus (staphylococcus aureus infection) (nível de evidência L3). Indicação original: ANTIBIOTICOS SISTEMICOS-ASSOCIACOES MEDICAMENTOS…"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que a associação pode ser útil em **infecção por Stap
 | Nova Indicação Prevista | Infecção por Staphylococcus aureus (staphylococcus aureus infection) |
 | Pontuação de Previsão TxGNN | 0,9994 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
-| Número de Registros | 9 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 9) |
+| Número de Registros | 9 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

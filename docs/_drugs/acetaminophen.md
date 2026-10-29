@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 18
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Acetaminophen: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Acetaminophen
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo que puderam ser rastreados são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 0 |
 | Nível de evidência | Não se aplica |
-| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 20) |
+| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 13) |
 | Número de Registros | pelo menos 20 |
 
 ## Usos conhecidos entre os candidatos do modelo
@@ -70,24 +70,24 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Acetaminophen
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|
-| 162410009 | PARACETAMOL |  | Ativo |
+| 162410009 | PARACETAMOL |  | Cancelado |
 | 100410163 | PARACETAMOL |  | Ativo |
-| 109630049 | PARACETAMOL |  | Ativo |
+| 109630049 | PARACETAMOL |  | Cancelado |
 | 167250010 | PARACETAMOL |  | Ativo |
-| 147610028 | PARACETAMOL |  | Ativo |
+| 147610028 | PARACETAMOL |  | Cancelado |
 | 118190187 | PARACETAMOL |  | Ativo |
 | 154230008 | PARACETAMOL |  | Ativo |
 | 100850148 | PARACETAMOL |  | Ativo |
 | 103110178 | PARACETAMOL |  | Ativo |
 | 103110179 | PARACETAMOL |  | Ativo |
 | 143810109 | PARACETAMOL |  | Ativo |
-| 115600235 | PARACETAMOL |  | Ativo |
-| 108840327 | PARACETAMOL |  | Ativo |
+| 115600235 | PARACETAMOL |  | Cancelado |
+| 108840327 | PARACETAMOL |  | Cancelado |
 | 118190041 | PARACETAMOL |  | Ativo |
 | 102350418 | PARACETAMOL |  | Ativo |
 | 192900010 | PARACETAMOL |  | Ativo |
-| 103700736 | PARACETAMOL |  | Ativo |
-| 147610016 | PARACETAMOL |  | Ativo |
+| 103700736 | PARACETAMOL |  | Cancelado |
+| 147610016 | PARACETAMOL |  | Cancelado |
 | 106890213 | PARACETAMOL |  | Ativo |
 | 121420001 | PARACETAMOL |  | Ativo |
 

@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 predicted_indications: []
 ---
 
@@ -50,7 +50,7 @@ Atorvastatin Calcium é uma estatina (inibidor da HMG-CoA redutase) amplamente c
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | Não aplicável |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
 | Número de Registros | 0 |
 | Decisão Recomendada | **Hold** |
 

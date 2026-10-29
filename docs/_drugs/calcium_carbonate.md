@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | FÁRMACOS PARA O TRATAMENTO DA HIPERCALEMIA E HIPERFOSFATEMIA; ANTIACIDO; OUTROS PRODUTOS PARA O APARELHO DIGESTIVO E METABOLISMO; VITAMINAS E SUPLEMENTOS MINERAIS; ANTIACIDOS E ANTIULCEROSOS |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
-| Número de Registros | 13 (ativos: 13) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 13) |
+| Número de Registros | 13 (ativos: 12) |
 
 ---
 

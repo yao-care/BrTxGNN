@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MAGNESIUM HYDROXIDE"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Magnesium Hydroxide: nova indicação prevista, Doença do estômago (nível de evidência L5). Indicação original: Antiácido"
 ---
 
@@ -52,8 +52,8 @@ Os dados compilados para este relatório não incluem nenhum ensaio clínico reg
 | Nova Indicação Prevista | Doença do estômago |
 | Pontuação de Previsão TxGNN | 0,9923 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
-| Número de Registros | 13 (ativos: 13) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 13) |
+| Número de Registros | 13 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ---

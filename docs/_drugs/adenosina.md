@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 30
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 predicted_indications: []
 ---
 
@@ -54,7 +54,7 @@ Existem **duas lacunas de dados críticas** — ausência de mecanismo de ação
 | Nova Indicação Prevista | Sem predições TxGNN disponíveis |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | Não determinado (ausência de predições) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 3) |
 | Número de Registros | 20 |
 | Decisão Recomendada | Hold |
 

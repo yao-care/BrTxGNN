@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 326
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Folic Acid: nova indicação prevista, Doença metabólica da biotina (biotin metabolic disease) (nível de evidência L4). Indicação original: Antianêmicos"
 monitor_inn: "FOLIC ACID"
 predicted_indications: ["biotin metabolic disease"]
@@ -51,7 +51,7 @@ O modelo TxGNN prevê que ele pode ser eficaz para a **doença metabólica da bi
 | Nova Indicação Prevista | Doença metabólica da biotina (biotin metabolic disease) |
 | Pontuação de Previsão TxGNN | 0,9949 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 

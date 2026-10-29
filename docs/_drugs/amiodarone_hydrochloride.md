@@ -42,8 +42,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | ANTIARRITMICOS |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
-| Número de Registros | 12 (ativos: 12) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 12) |
+| Número de Registros | 12 (ativos: 11) |
 
 ---
 

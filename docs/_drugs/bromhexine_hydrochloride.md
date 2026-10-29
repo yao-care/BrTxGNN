@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|----------|
 | Indicação Original | EXPECTORANTES; EXPECTORANTES BALSAMICOS E MUCOLITICO; EXPECTORANTES SIMPLES; BRONCODILATADORES |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 15) |
-| Número de Registros | 15 (ativos: 15) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 15) |
+| Número de Registros | 15 (ativos: 12) |
 
 ---
 

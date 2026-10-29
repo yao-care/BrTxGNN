@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 201
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Cefaclor: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ O modelo TxGNN não produziu nenhum candidato com pontuação igual ou superior 
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação de 0,99 ou mais) |
 | Usos conhecidos registrados para este medicamento | 10 |
 | Nível de evidência | Não aplicável |
-| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 2) |
+| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 1) |
 | Número de Registros | pelo menos 20 |
 
 ## Usos conhecidos registrados para este medicamento
@@ -80,7 +80,7 @@ O modelo TxGNN não produziu nenhum candidato com pontuação igual ou superior 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|
 | 135690379 | CEFACLOR |  | Cancelado |
-| 105830894 | CEFACLOR |  | Ativo |
+| 105830894 | CEFACLOR |  | Cancelado |
 | 123520053 | CEFACLOR |  | Cancelado |
 | 126750114 | CEFACLOR |  | Cancelado |
 | 100620144 | CEFACLOR |  | Cancelado |

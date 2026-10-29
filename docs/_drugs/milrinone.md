@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Milrinone: nova indicação prevista, Alopecia (Alopecia) (nível de evidência L5). Indicação original: Vasodilatadores"
 monitor_inn: "milrinone"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
@@ -50,8 +50,8 @@ Entre as demais previsões, a mais sustentada por evidências é **cor pulmonale
 | Nova Indicação Prevista | Alopecia (Alopecia) |
 | Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 3) |
+| Número de Registros | 3 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 > **Observação:** a previsão de maior pontuação (alopecia) não tem nenhuma evidência real. As previsões com respaldo de evidências (insuficiência cardíaca congestiva e cor pulmonale agudo) estão descritas nas seções seguintes, pois ajudam a orientar a decisão.

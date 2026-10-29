@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Gemcitabine: nova indicação prevista, adenocarcinoma mucinoso do reto (rectum mucinous adenocarcinoma) (nível de evidência L5). Indicação original: ANTINEOPLASICO"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | adenocarcinoma mucinoso do reto (rectum mucinous adenocarcinoma) |
 | Pontuação de Previsão TxGNN | 0,9977 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 17) |
-| Número de Registros | 17 (ativos: 17) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 17) |
+| Número de Registros | 17 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

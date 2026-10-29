@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clobazam"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Clobazam: nova indicação prevista, síndrome epiléptica relacionada à infecção febril (febrile infection-related epilepsy syndrome) (nível de evidência L5). Indicação original: Não consta nos dados lo…"
 ---
 
@@ -50,8 +50,8 @@ atualmente com **0 ensaios clínicos** e **2 publicações** (série e relato de
 | Nova Indicação Prevista | síndrome epiléptica relacionada à infecção febril (febrile infection-related epilepsy syndrome) |
 | Pontuação de Previsão TxGNN | 0,9982 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 6) |
-| Número de Registros | 6 (ativos: 2) |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 6 de 6) |
+| Número de Registros | 6 (ativos: 0) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

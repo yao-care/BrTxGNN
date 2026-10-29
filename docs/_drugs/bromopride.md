@@ -41,7 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | ANTIEMETICOS E ANTINAUSEANTES; ANTIEMÉTICOS E ANTINAUSEANTES; DIGESTIVO ANTIMETICOS E ANTINAUSEANTES |
-| Situação no Mercado | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | 0 |
 
 ---

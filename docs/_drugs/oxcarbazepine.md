@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 498
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "OXCARBAZEPINE"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: nova indicação prevista, Restless legs syndrome (nível de evidência L4). Indicação original: ANTICONVULSIVANTES"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **epilepsia visual (visual epilep
 | Nova Indicação Prevista | Restless legs syndrome |
 | Pontuação de Previsão TxGNN | 0.9989 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
-| Número de Registros | 8 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
+| Número de Registros | 8 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

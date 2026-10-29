@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 586
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: nova indicação prevista, Brain stem infarction (nível de evidência L5). Indicação original: ANTILIPEMICOS"
@@ -50,7 +50,7 @@ atualmente com **8 ensaios clínicos** e **20 publicações** apoiando esta dire
 | Nova Indicação Prevista | Brain stem infarction |
 | Pontuação de Previsão TxGNN | 0.9941 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Proceed with Guardrails |
 

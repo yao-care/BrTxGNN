@@ -19,7 +19,7 @@ evidence_level: N/A
 
 | Item | Value |
 |------|-------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | pelo menos 20 |
 | DrugBank ID | [DB01395](https://go.drugbank.com/drugs/DB01395) |
 | Number of Predicted Indications | 3 |

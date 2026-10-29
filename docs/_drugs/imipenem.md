@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 364
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Imipenem: nova indicação prevista, Esclerodermia difusa (Diffuse Scleroderma) (nível de evidência L5). Indicação original: Antibacteriano / antibióticos sistêmicos (associações medicamentosas)"
 monitor_inn: "imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
@@ -50,8 +50,8 @@ Entre as demais previsões, as mais bem sustentadas são **infecção por Staphy
 | Nova Indicação Prevista | Esclerodermia difusa (Diffuse Scleroderma) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
-| Número de Registros | 9 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 9) |
+| Número de Registros | 9 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 > Observação: a previsão de maior ranking (esclerodermia difusa) é a de menor sustentação biológica. As indicações infecciosas abaixo são mais plausíveis e merecem prioridade de análise.

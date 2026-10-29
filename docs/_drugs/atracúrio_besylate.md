@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|----------|
 | Indicação Original | RELAXANTES MUSCULARES; RELAXANTES MUSCULARES CENTRAIS SIMPLES |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
-| Número de Registros | 4 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 4) |
+| Número de Registros | 4 (ativos: 3) |
 
 ---
 

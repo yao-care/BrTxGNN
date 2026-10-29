@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Carboplatin: nova indicação prevista, adenocarcinoma mucinoso do reto (rectum mucinous adenocarcinoma) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -49,7 +49,7 @@ O modelo TxGNN prevê que ela pode ser eficaz para **adenocarcinoma mucinoso do 
 | Nova Indicação Prevista | adenocarcinoma mucinoso do reto (rectum mucinous adenocarcinoma) |
 | Pontuação de Previsão TxGNN | 0,9928 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 4) |
 | Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 

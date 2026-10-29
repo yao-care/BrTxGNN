@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 502
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Não há ensaios clínicos nem publicações de suporte para novas indicações 
 | Nova Indicação Prevista | Não disponível nesta execução |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 — sem previsão gerada pelo modelo |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 5) |
+| Número de Registros | 5 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ---

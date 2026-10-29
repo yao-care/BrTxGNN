@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 593
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 description: "Sofosbuvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L3). Indicação original: Não consta nos dados locais"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para a **infecção pelo vírus da hep
 | Nova Indicação Prevista | Infecção pelo vírus da hepatite B (hepatitis B virus infection) |
 | Pontuação de Previsão TxGNN | 0.9977 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 9) |
-| Número de Registros | 9 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 9) |
+| Número de Registros | 9 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

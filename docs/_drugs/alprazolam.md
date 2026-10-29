@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 43
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Alprazolam: nova indicação prevista, Insônia (insomnia) (nível de evidência L4). Indicação original: Transtorno de ansiedade"
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
@@ -50,7 +50,7 @@ mas atualmente há **0 ensaios clínicos** e **18 publicações** relacionadas, 
 | Nova Indicação Prevista | Insônia (insomnia) |
 | Pontuação de Previsão TxGNN | 0,9981 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

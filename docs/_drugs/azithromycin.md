@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 100
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Azithromycin: nova indicação prevista, Hiperamilasemia (Hyperamylasemia) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Azithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -51,7 +51,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Hiperamilasemia (Hyperamylasemi
 | Nova Indicação Prevista | Hiperamilasemia (Hyperamylasemia) |
 | Pontuação de Previsão TxGNN | 0,9981 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 

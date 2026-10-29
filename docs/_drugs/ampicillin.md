@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 65
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Ampicillin: nova indicação prevista, Laringite (Laryngitis) (nível de evidência L4). Indicação original: Penicilina de amplo espectro"
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Laringite (Laryngitis)**, mas a
 | Nova Indicação Prevista | Laringite (Laryngitis) |
 | Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 20) |
-| Número de Registros | 20 (ativos: 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 20) |
+| Número de Registros | 20 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

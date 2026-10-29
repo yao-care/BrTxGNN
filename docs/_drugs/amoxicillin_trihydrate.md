@@ -41,7 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | PENICILINA DE AMPLO ESPECTRO; ANTIBIOTICOS SISTEMICOS SIMPLES |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros ANVISA | 0 (resultado da consulta com nomenclatura em inglês) |
 
 ---

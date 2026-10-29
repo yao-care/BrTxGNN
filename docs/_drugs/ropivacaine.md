@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 574
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "Ropivacaine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
 description: "Ropivacaine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: ANESTESICOS LOCAIS"
@@ -50,8 +50,8 @@ atualmente com **2 ensaios clínicos** e **3 publicações** apoiando esta dire�
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
 | Pontuação de Previsão TxGNN | 0.9965 |
 | Nível de Evidência | L2 (ver observação abaixo) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
-| Número de Registros | 8 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
+| Número de Registros | 8 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 > **Observação sobre o nível de evidência:** o conjunto de dados atribui L2 à enxaqueca. Aplicando estritamente os critérios deste relatório, porém, o único estudo diretamente relevante e concluído é um ensaio randomizado de Fase 4 com apenas 10 participantes, e não há RCT de Fase 2/3 concluído. As demais evidências são estudos observacionais (L3). O nível L2 deve, portanto, ser interpretado com cautela, e a evidência real situa-se entre L2 e L3, com baixa robustez.

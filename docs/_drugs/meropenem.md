@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 445
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Meropenem: nova indicação prevista, Artrite bacteriana (bacterial arthritis) (nível de evidência L4). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "Lyme disease", "Peptostreptococcus infectious disease", "Ureaplasma urethritis", "gonococcal urethritis"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **artrite bacteriana (bacterial a
 | Nova Indicação Prevista | Artrite bacteriana (bacterial arthritis) |
 | Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
-| Número de Registros | 10 (ativos: 10) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 10) |
+| Número de Registros | 10 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 > **Observação:** a indicação de maior pontuação (artrite bacteriana) tem evidências fracas (L4).

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Methotrexate: nova indicação prevista, Blastoma Pulmonar (Pulmonary Blastoma) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Blastoma Pulmonar (Pulmonary Bl
 | Nova Indicação Prevista | Blastoma Pulmonar (Pulmonary Blastoma) |
 | Pontuação de Previsão TxGNN | 0,9945 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
-| Número de Registros | 10 (ativos: 10) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 10) |
+| Número de Registros | 10 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 ---

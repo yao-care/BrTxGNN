@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 53
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ A avaliação está incompleta e requer complementação de dados antes de qualq
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem estudos — sem previsão de modelo) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 5) |
+| Número de Registros | 5 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ---

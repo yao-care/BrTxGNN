@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Latanoprost: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -48,7 +48,7 @@ Latanoprosta é um análogo da prostaglandina F2-alfa, de uso oftálmico tópico
 | Nova Indicação Prevista | Calcifilaxia visceral (visceral calciphylaxis) |
 | Pontuação de Previsão TxGNN | 0,9983 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 10) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 8) |
 | Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 

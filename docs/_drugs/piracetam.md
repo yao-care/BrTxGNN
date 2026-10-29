@@ -5,7 +5,7 @@ layout: default
 title: Piracetam
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 527
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Piracetam: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 monitor_inn: "Piracetam"
 predicted_indications: []
@@ -43,8 +43,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 15) |
-| Número de Registros | 15 (ativos: 1) |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 15 de 15) |
+| Número de Registros | 15 (ativos: 0) |
 
 ## Aviso de isenção de responsabilidade
 

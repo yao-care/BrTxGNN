@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 359
 evidence_level: L1
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Icatibant: nova indicação prevista, Deficiência do inibidor de C1 (C1 inhibitor deficiency) (nível de evidência L1). Indicação original: Outros produtos não enquadrados em classe terapêutica específi…"
 monitor_inn: "icatibant"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência do inibidor de C1 
 | Nova Indicação Prevista | Deficiência do inibidor de C1 (C1 inhibitor deficiency) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 3) |
+| Número de Registros | 3 (ativos: 2) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?

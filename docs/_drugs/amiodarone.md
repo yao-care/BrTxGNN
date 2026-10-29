@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 56
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
 description: "Amiodarone: nova indicação prevista, Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) (nível de evidência L4). Indicação original: ANTIARR…"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **taquicardia ventricular polimó
 | Nova Indicação Prevista | Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) |
 | Pontuação de Previsão TxGNN | 0.9978 |
 | Nível de Evidência | L4 (apenas estudos de coorte, relatos de caso e revisões; sem estudos diretos do fármaco na doença) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
-| Número de Registros | 12 (ativos: 12) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 12) |
+| Número de Registros | 12 (ativos: 11) |
 | Decisão Recomendada | Hold |
 
 > **Observação importante:** entre as 10 indicações previstas, a de maior evidência é a **taquicardia ventricular** (rank 3; nível L1; Proceed with Guardrails), que na prática é um uso já consolidado e próximo da indicação original, e não um reposicionamento propriamente dito. Esta análise segue a indicação de rank 1 (CPVT), mas a taquicardia ventricular é apresentada na conclusão como alternativa.

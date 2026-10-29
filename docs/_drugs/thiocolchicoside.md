@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 633
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Thiocolchicoside: nova indicação prevista, Insônia (insomnia) (nível de evidência L5). Indicação original: Relaxantes musculares centrais simples"
 monitor_inn: "thiocolchicoside"
 predicted_indications: ["insomnia (disease)", "alcohol withdrawal delirium"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Insônia (insomnia) |
 | Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
-| Número de Registros | 4 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 4) |
+| Número de Registros | 4 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

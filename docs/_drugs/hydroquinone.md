@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 357
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Hydroquinone: nova indicação prevista, Ceratose Seborreica (Seborrheic Keratosis) (nível de evidência L4). Indicação original: Desmelanizantes (despigmentantes)"
 monitor_inn: "hydroquinone"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (estudo o
 | Nova Indicação Prevista | Ceratose Seborreica (Seborrheic Keratosis) |
 | Pontuação de Previsão TxGNN | 0,9973 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
-| Número de Registros | 12 (ativos: 12) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 12) |
+| Número de Registros | 12 (ativos: 11) |
 | Decisão Recomendada | Hold |
 
 ---

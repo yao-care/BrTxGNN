@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 151
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Brimonidine: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ O modelo TxGNN não gerou nenhum candidato com pontuação igual ou superior a 0
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação de 0,99 ou mais) |
 | Usos conhecidos registrados para este medicamento | 5 |
 | Nível de evidência | Não aplicável |
-| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 20) |
+| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | pelo menos 20 |
 
 ## Usos conhecidos registrados para este medicamento
@@ -79,7 +79,7 @@ O modelo TxGNN não gerou nenhum candidato com pontuação igual ou superior a 0
 | 103700733 | TARTARATO DE BRIMONIDINA |  | Ativo |
 | 154230144 | TARTARATO DE BRIMONIDINA |  | Ativo |
 | 103700735 | TARTARATO DE BRIMONIDINA |  | Ativo |
-| 178170833 | TARTARATO DE BRIMONIDINA |  | Ativo |
+| 178170833 | TARTARATO DE BRIMONIDINA |  | Cancelado |
 | 105730614 | TARTARATO DE BRIMONIDINA |  | Ativo |
 | 104971350 | TARTARATO DE BRIMONIDINA |  | Ativo |
 | 155840309 | TARTARATO DE BRIMONIDINA |  | Ativo |

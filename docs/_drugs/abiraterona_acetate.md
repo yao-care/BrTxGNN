@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 14
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ O fármaco **não possui registros vigentes no Brasil**, e a avaliação complet
 | Nova Indicação Prevista | Nenhuma previsão disponível no ciclo atual |
 | Pontuação de Previsão TxGNN | N/D |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
-| Número de Registros ANVISA | 16 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 16) |
+| Número de Registros ANVISA | 16 (ativos: 15) |
 | Decisão Recomendada | **Hold** |
 
 ---

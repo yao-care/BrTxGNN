@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 466
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Mupirocin: nova indicação prevista, Empiema Pleural (pleural empyema) (nível de evidência L5). Indicação original: Antiinfecciosos tópicos"
 monitor_inn: "mupirocin"
 predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Empiema Pleural (pleural empyema) |
 | Pontuação de Previsão TxGNN | 0,9949 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
-| Número de Registros | 8 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
+| Número de Registros | 8 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ---

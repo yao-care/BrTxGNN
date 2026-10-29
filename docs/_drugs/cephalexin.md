@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 215
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Cephalexin: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Cephalexin co
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo com origem rastreável são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 1 |
 | Nível de evidência | Não se aplica |
-| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 20) |
+| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | pelo menos 20 |
 
 ## Usos conhecidos entre os candidatos do modelo
@@ -75,7 +75,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Cephalexin co
 | 155840056 | CEFALEXINA |  | Ativo |
 | 118190191 | CEFALEXINA MONOIDRATADA |  | Ativo |
 | 107150140 | CEFALEXINA |  | Ativo |
-| 118190245 | CEFALEXINA MONOIDRATADA |  | Ativo |
+| 118190245 | CEFALEXINA MONOIDRATADA |  | Cancelado |
 | 104970014 | CEFALEXINA MONOIDRATADA |  | Ativo |
 | 103700382 | CEFALEXINA |  | Ativo |
 | 105830417 | CEFALEXINA MONOIDRATADA |  | Ativo |

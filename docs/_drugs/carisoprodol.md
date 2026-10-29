@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Carisoprodol: nova indicação prevista, Insônia (insomnia) (nível de evidência L5). Indicação original: Relaxante muscular esquelético de ação central"
 monitor_inn: "CARISOPRODOL"
 predicted_indications: ["insomnia (disease)"]
@@ -49,7 +49,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Insônia (insomnia)**, mas atua
 | Nova Indicação Prevista | Insônia (insomnia) |
 | Pontuação de Previsão TxGNN | 0,9902 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 8) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

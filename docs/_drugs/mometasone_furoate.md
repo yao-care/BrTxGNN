@@ -18,8 +18,8 @@ evidence_level: N/A
 
 | Item | Value |
 |------|-------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 18) |
-| Número de Registros | 18 (ativos: 18) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 18) |
+| Número de Registros | 18 (ativos: 16) |
 | DrugBank ID | [DB14512](https://go.drugbank.com/drugs/DB14512) |
 | Number of Predicted Indications | 20 |
 

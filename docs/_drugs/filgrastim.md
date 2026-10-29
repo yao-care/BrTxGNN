@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 317
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
 description: "Filgrastim: nova indicação prevista, Distúrbio de liberação primário das plaquetas (primary release disorder of platelets) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -49,7 +49,7 @@ O modelo TxGNN prevê que pode ser eficaz para **distúrbio de liberação prim�
 | Nova Indicação Prevista | Distúrbio de liberação primário das plaquetas (primary release disorder of platelets) |
 | Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 10) |
 | Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 

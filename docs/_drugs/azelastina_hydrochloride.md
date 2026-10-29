@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 99
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Cloridrato de Azelastina é um anti-histamínico de segunda geração, reconheci
 | Nova Indicação Prevista | Não disponível — nenhuma previsão TxGNN gerada |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 (sem previsão gerada pelo modelo) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

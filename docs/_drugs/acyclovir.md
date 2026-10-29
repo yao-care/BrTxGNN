@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Acyclovir: nova indicação prevista, Ceratoconjuntivite epitelial puntata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: ANTIVIROTICOS (INIBE REPLICACAO VIROTI…"
 ---
 
@@ -50,7 +50,7 @@ mas **não há ensaios clínicos** e apenas **2 publicações** foram recuperada
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial puntata (punctate epithelial keratoconjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9967 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
 | Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 

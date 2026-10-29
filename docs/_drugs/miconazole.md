@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 457
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Miconazole: nova indicação prevista, Acne (acne vulgaris) (nível de evidência L4). Indicação original: Antimicótico"
 monitor_inn: "Miconazole"
 predicted_indications: ["acne (disease)"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (acne vulgaris)**, mas atu
 | Nova Indicação Prevista | Acne (acne vulgaris) |
 | Pontuação de Previsão TxGNN | 0,9954 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
-| Número de Registros | 16 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 16) |
+| Número de Registros | 16 (ativos: 14) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

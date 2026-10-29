@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 488
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Orlistat: nova indicação prevista, Hipervitaminose (Hypervitaminosis) (nível de evidência L5). Indicação original: Moduladores do metabolismo e da digestão (orlistate)"
 monitor_inn: "orlistat"
 predicted_indications: ["hypervitaminosis"]
@@ -52,7 +52,7 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Hipervitaminose (Hypervitaminosis) |
 | Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 17) |
 | Número de Registros | 20 (todos cancelados) |
 | Decisão Recomendada | Hold |
 

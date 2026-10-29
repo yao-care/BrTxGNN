@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Levofloxacin: nova indicação prevista, Ceratoconjuntivite epitelial puntiforme (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,7 +50,7 @@ mas **não há ensaios clínicos** e há apenas **1 publicação** (um relato de
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial puntiforme (punctate epithelial keratoconjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 3) |
 | Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 

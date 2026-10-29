@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 32
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 predicted_indications: []
 ---
 
@@ -54,8 +54,8 @@ Sem predições disponíveis, não é possível realizar a avaliação de reposi
 | Nova Indicação Prevista | Não disponível |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 — sem predições do modelo |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
-| Número de Registros | 7 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 7) |
+| Número de Registros | 7 (ativos: 5) |
 | Decisão Recomendada | **Hold** |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Norfloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Norfloxacin: nova indicação prevista, Síndrome de hiperviscosidade policlonal (nível de evidência L5). Indicação original: Infecções bacterianas (infecção urinária, febre tifoide, disenteria…"
 ---
 
@@ -49,7 +49,7 @@ O modelo TxGNN prevê que pode ser eficaz para **síndrome de hiperviscosidade p
 | Nova Indicação Prevista | Síndrome de hiperviscosidade policlonal |
 | Pontuação de Previsão TxGNN | 0,9970 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 1) |
 | Número de Registros | Pelo menos 20 registros de medicamentos de ingrediente único (a lista pode estar incompleta) |
 | Decisão Recomendada | Hold |
 

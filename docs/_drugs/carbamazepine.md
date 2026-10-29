@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 189
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Carbamazepine: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L4). Indicação original: Anticonvulsivantes"
 monitor_inn: "CARBAMAZEPINE"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **18 publicações** associadas, ne
 | Nova Indicação Prevista | Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) |
 | Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 18) |
-| Número de Registros | 18 (ativos: 18) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 18) |
+| Número de Registros | 18 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ---

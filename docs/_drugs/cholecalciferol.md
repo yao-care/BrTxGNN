@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Cholecalciferol: nova indicação prevista, Displasia acromesomélica tipo Campailla-Martinelli (nível de evidência L5). Indicação original: Vitamina D e análogos"
 ---
 
@@ -50,7 +50,7 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta dire�
 | Nova Indicação Prevista | Displasia acromesomélica tipo Campailla-Martinelli |
 | Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | Pelo menos 20 registros (a lista pode estar incompleta) |
 | Decisão Recomendada | Hold |
 

@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 predicted_indications: []
 ---
 
@@ -48,8 +48,8 @@ Leflunomida (LEFLUNOMIDA) é um fármaco com 19 registros ativos no Brasil, conf
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem estudos reais associados a nenhuma previsão) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 19) |
-| Número de Registros | 19 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 19) |
+| Número de Registros | 19 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 169
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 predicted_indications: []
 ---
 
@@ -52,7 +52,7 @@ Existem **20 registros** da substância no mercado brasileiro, porém os detalhe
 | Nova Indicação Prevista | — (sem previsão TxGNN) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 13) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 12) |
 | Número de Registros | 20 |
 | Decisão Recomendada | **Hold** |
 

@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ e **não há registros de comercialização no Brasil** recuperados neste Eviden
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | Abaixo de L5 (sem previsões do modelo) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
-| Número de Registros | 10 (ativos: 10) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 10) |
+| Número de Registros | 10 (ativos: 9) |
 | Decisão Recomendada | **Hold** |
 
 ---

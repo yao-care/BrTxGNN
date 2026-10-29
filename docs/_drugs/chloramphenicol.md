@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 219
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Chloramphenicol: nova indicação prevista, Conjuntivite (Conjunctivitis) (nível de evidência L3). Indicação original: Cicatrizantes"
 monitor_inn: "chloramphenicol"
 predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
@@ -52,8 +52,8 @@ Trata-se, na prática, mais da confirmação de um uso antibacteriano já estabe
 | Nova Indicação Prevista | Conjuntivite (Conjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9966 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
-| Número de Registros | 8 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
+| Número de Registros | 8 (ativos: 7) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ---

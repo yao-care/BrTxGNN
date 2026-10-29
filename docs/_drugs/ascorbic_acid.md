@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ascorbic acid"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "perinatal disease", "segmental odontomaxillary dysplasia", "florid cemento-osseous dysplasia", "disease by subcellular system affected", "vitamin deficiency disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Ascorbic Acid: nova indicação prevista, Malformação esofágica não sindrômica (non-syndromic esophageal malformation) (nível de evidência L5). Indicação original: MONOVITAMINAS EXCETO VITAMINA K"
 ---
 
@@ -49,7 +49,7 @@ O modelo TxGNN prevê que pode ser eficaz para **malformação esofágica não s
 | Nova Indicação Prevista | Malformação esofágica não sindrômica (non-syndromic esophageal malformation) |
 | Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Hesperidin"
 predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Hesperidin: nova indicação prevista, neoplasia mieloproliferativa (myeloproliferative neoplasm) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -49,7 +49,7 @@ O modelo TxGNN prevê que pode ser eficaz para **neoplasia mieloproliferativa (m
 | Nova Indicação Prevista | neoplasia mieloproliferativa (myeloproliferative neoplasm) |
 | Pontuação de Previsão TxGNN | 0,9947 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 15) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 14) |
 | Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 

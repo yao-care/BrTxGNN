@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Guaifenesin"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Guaifenesin: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -49,7 +49,7 @@ O modelo TxGNN prevê que pode ser eficaz para **doença da cavidade nasal (nasa
 | Nova Indicação Prevista | doença da cavidade nasal (nasal cavity disease) |
 | Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 4) |
 | Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
