@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Potassium sulfate. 0 indicações previstas."
 permalink: /news/potassium_sulfate/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Notícias sobre Potassium sulfate
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Potassium sulfate?">
-<strong>Potassium sulfate</strong> tem atualmente <strong>7 notícias</strong> e 0 indicações previstas.
+<strong>Potassium sulfate</strong> tem atualmente <strong>6 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ Esta página combina as indicações previstas por IA para Potassium sulfate com
 <p><a href="{{ '/drugs/potassium-sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (7)
+## Notícias relacionadas (6)
 
 ### [Câncer de intestino antes dos 50: veja fatores de risco - SBT News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrUTdGUjFpck1USFVnU0pBN1paWURYcnNaN2dlTXhLUFd5eWdsb1YyVDBXRTRZUEtiNGpOa0VLcmlNUVFfZVB1cUlXWjhXaXR3aGpKNmZSZmQ5UHNYY1ZQbTUxZVRGeHhCT3JmV2h4d19kSGRjdVdDLWd0bmt2ZUw1M0VweXdkUlcyNkQyS2FzdWw1QU95OA?oc=5)
 
@@ -76,14 +76,6 @@ Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2az
 2026-10-27 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Portal Drauzio Varella](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWpNTEZwTlh0R25SN19DQ09mM2JvZ3BkeHdOTDB2UXNIVFU4OFJyNTllQ18yTzlEa25FNFotYjYwV2QxM2hzREE3ell2V0tPWTFvekFpVjhYLTRWYjlCQzkzeG9SamxGS0lLYXdsWFN3VEdoT2hhdnpYbHgyZm1jd1hyX0ZOUGFiWl90SlBoNUZXZFRKUzBNNGNpOU1QeXd2cTJTc2NZcHZRbXhaT0pZMExzWnN6czZfdTB2dg?oc=5)
-
----
-
-### [Anvisa libera remédio para câncer de pulmão avançado - UOL Notícias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0VlaHJ1enI4WW5hMmRhSWxpUWREMjl0V0dSMlI4REEzb09pWlpIQURUU0twNG93QlI4Z1pvcUZEem5OQ3dob1VhWGhTM2RWeW5lWTJGTURuUmFlUWgyREQwYnNjTnpnQzFXV1lNbThjWjBVSWtWYU5lMVhOcFVqU1RnOWpYajJkMXJyeWthSFFiSFhwQVlCeU82ODlBS1pBeC0xMm9KLWZoWEZuVjBUZWk1VWt5ZnJONkd4VTh6aFBTaWNuUlE?oc=5)
-
-2026-10-27 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de pulmão</span>
-
-Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0VlaHJ1enI4WW5hMmRhSWxpUWREMjl0V0dSMlI4REEzb09pWlpIQURUU0twNG93QlI4Z1pvcUZEem5OQ3dob1VhWGhTM2RWeW5lWTJGTURuUmFlUWgyREQwYnNjTnpnQzFXV1lNbThjWjBVSWtWYU5lMVhOcFVqU1RnOWpYajJkMXJyeWthSFFiSFhwQVlCeU82ODlBS1pBeC0xMm9KLWZoWEZuVjBUZWk1VWt5ZnJONkd4VTh6aFBTaWNuUlE?oc=5)
 
 ---
 
