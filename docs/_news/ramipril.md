@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre RAMIPRIL?">
-<strong>RAMIPRIL</strong> tem atualmente <strong>8 notícias</strong> e 9 indicações previstas.
+<strong>RAMIPRIL</strong> tem atualmente <strong>7 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ Esta página combina as indicações previstas por IA para RAMIPRIL com as notí
 <p><a href="{{ '/drugs/ramipril/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (8)
+## Notícias relacionadas (7)
 
 ### [Inchaço na axila levou biomédica de 39 anos a descobrir câncer de mama no Acre: 'O chão sumiu'](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5)
 
@@ -59,11 +59,11 @@ Fonte: [SBT News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrU
 
 ---
 
-### [Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWTSAd4BQVVfeXFMUFQyR0RnSUdFOHFmREZqVUt1VlhUajl6SHUwZnZJZXlGT2lldDhXVWNRVHFZWXEzV2hRMGpGRVVrWl85V2F5RXR3QmNKRkpOLTB1SjNENDRHSV8wQTk5RjhHS0JOYXd1VkV1bDVzLTR0eURKNDVTTVhpUmFUOWtVRG1kdDU3Qld4b0o3VmdzUW9BV3I4LTJOc1Z5OURSb0xtUWtYMDlMYndJb01WVjMyZEhPaEpvVUVUaWlSRzlOZC1RbVItQjMybm9xNG5fMEc1OWFPUFVfY3h4TnpYZ2FR?oc=5)
+### [Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5)
 
 2026-10-28 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">doença cardíaca</span>
 
-Fonte: [Estadão](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWTSAd4BQVVfeXFMUFQyR0RnSUdFOHFmREZqVUt1VlhUajl6SHUwZnZJZXlGT2lldDhXVWNRVHFZWXEzV2hRMGpGRVVrWl85V2F5RXR3QmNKRkpOLTB1SjNENDRHSV8wQTk5RjhHS0JOYXd1VkV1bDVzLTR0eURKNDVTTVhpUmFUOWtVRG1kdDU3Qld4b0o3VmdzUW9BV3I4LTJOc1Z5OURSb0xtUWtYMDlMYndJb01WVjMyZEhPaEpvVUVUaWlSRzlOZC1RbVItQjMybm9xNG5fMEc1OWFPUFVfY3h4TnpYZ2FR?oc=5)
+Fonte: [Estadão](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5)
 
 ---
 
@@ -75,11 +75,11 @@ Fonte: [UOL](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGxHemItM2RYU1
 
 ---
 
-### [Idosa obtém liminar para plano custear remédio contra câncer de pâncreas que emocionou médicos em congresso - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdFFoSWdLY0xCZjVpaDczTnRmWVNDcGZqRm1CaXlOOFpiMllDS2l1anowTU05cUNZejg4M0UtSjlJa1l2d20xaGVybElsNzlUb0dqY3QwQmktN3lwcl9VNGN3bXAyTDF5YkE4bGRNelRNdjdmRHZJdWxnX2I2RU9RampER19SVmtLQVdLLVBRSGswanhOejZwYUtpTWJxaHAwVXJTNWlSbXdySndaWEEwNlVvSTRXSUlOUFVpNTdZaWVGRFh6U2tkOVVBVUtOQS1JbjdxVGl6VkJITERUTmRtbmNsS193Q0ZYNy1pank0cFVMQXBmZUpHYVcyYXE?oc=5)
+### [Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
 
-2026-10-28 <span class="news-indication-tag">câncer</span>
+2026-10-28 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
 
-Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdFFoSWdLY0xCZjVpaDczTnRmWVNDcGZqRm1CaXlOOFpiMllDS2l1anowTU05cUNZejg4M0UtSjlJa1l2d20xaGVybElsNzlUb0dqY3QwQmktN3lwcl9VNGN3bXAyTDF5YkE4bGRNelRNdjdmRHZJdWxnX2I2RU9RampER19SVmtLQVdLLVBRSGswanhOejZwYUtpTWJxaHAwVXJTNWlSbXdySndaWEEwNlVvSTRXSUlOUFVpNTdZaWVGRFh6U2tkOVVBVUtOQS1JbjdxVGl6VkJITERUTmRtbmNsS193Q0ZYNy1pank0cFVMQXBmZUpHYVcyYXE?oc=5)
+Fonte: [Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
 
 ---
 
@@ -96,14 +96,6 @@ Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2az
 2026-10-27 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Portal Drauzio Varella](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWpNTEZwTlh0R25SN19DQ09mM2JvZ3BkeHdOTDB2UXNIVFU4OFJyNTllQ18yTzlEa25FNFotYjYwV2QxM2hzREE3ell2V0tPWTFvekFpVjhYLTRWYjlCQzkzeG9SamxGS0lLYXdsWFN3VEdoT2hhdnpYbHgyZm1jd1hyX0ZOUGFiWl90SlBoNUZXZFRKUzBNNGNpOU1QeXd2cTJTc2NZcHZRbXhaT0pZMExzWnN6czZfdTB2dg?oc=5)
-
----
-
-### [Câncer de intestino: sintomas que não devem ser ignorados - Campo Grande News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5)
-
-2026-10-22 <span class="news-indication-tag">câncer</span>
-
-Fonte: [Campo Grande News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5)
 
 ---
 

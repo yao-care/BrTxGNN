@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Albendazole?">
-<strong>Albendazole</strong> tem atualmente <strong>9 notícias</strong> e 3 indicações previstas.
+<strong>Albendazole</strong> tem atualmente <strong>7 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ Esta página combina as indicações previstas por IA para Albendazole com as no
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (9)
+## Notícias relacionadas (7)
+
+### [Patrick Stewart: o que é a demência com corpos de Lewy, que afetou ator de 'X-men' e 'Star Trek'](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdZdTZ1QkZsMmtuaUY4U05vdVV3NUJ3Q00xanVKLUx3YmplV05VeXFJRlJLRVVOZGZDUlBsbC1QaGhFS0tOMHhYaDluMHJXTWZycktUelJKVnlVc2kyYjlaM0Nic1Z1S0tSQTdoWHFRNmtFa29XaDh5aVkyS2xmQjJ6R0IzN2d5VF9NT1R3amIzY0FJcV9ES2ZNTFRiblg1VmZTbGNTQms4S0FwZXJkWHRJRkpEb3hFZ1h6NkNB?oc=5)
+
+2026-10-29 <span class="news-indication-tag">demência</span>
+
+Fonte: [Exame](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdZdTZ1QkZsMmtuaUY4U05vdVV3NUJ3Q00xanVKLUx3YmplV05VeXFJRlJLRVVOZGZDUlBsbC1QaGhFS0tOMHhYaDluMHJXTWZycktUelJKVnlVc2kyYjlaM0Nic1Z1S0tSQTdoWHFRNmtFa29XaDh5aVkyS2xmQjJ6R0IzN2d5VF9NT1R3amIzY0FJcV9ES2ZNTFRiblg1VmZTbGNTQms4S0FwZXJkWHRJRkpEb3hFZ1h6NkNB?oc=5)
+
+---
 
 ### [Inchaço na axila levou biomédica de 39 anos a descobrir câncer de mama no Acre: 'O chão sumiu'](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5)
 
@@ -61,19 +69,11 @@ Fonte: [UOL](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGxHemItM2RYU1
 
 ---
 
-### [Como menopausa afeta a saúde mental da mulher: 'Sentimento de culpa'](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGt1Z2ROc2hNQ1NWZGpjTTJGV1pOTXpvVjkzMklQWXhMRWFxVzVFNWd0X3ZTNGkwUjd0WlFxQ0Y4YUQxUDg5SEVhLThoQVpGSUpaZ0RTNEtOT1NKQTloQ2lRaFJ6QUZvZXBpajRHLS1rS1hFbG0tVGZ3X2dkRTFWWkdUdlJ4QlZiTDY3WFRXUHY2eFItc0gyWmhQaWVTOFp3d1gzUTJNd2RGR3IyckhDUXNfdTJYQnM4M0xXZTJfa214dkJlQ0M1Qw?oc=5)
+### [Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
 
-2026-10-28 <span class="news-indication-tag">demência</span> <span class="news-indication-tag">menopausa</span>
+2026-10-28 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
 
-Fonte: [UOL](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGt1Z2ROc2hNQ1NWZGpjTTJGV1pOTXpvVjkzMklQWXhMRWFxVzVFNWd0X3ZTNGkwUjd0WlFxQ0Y4YUQxUDg5SEVhLThoQVpGSUpaZ0RTNEtOT1NKQTloQ2lRaFJ6QUZvZXBpajRHLS1rS1hFbG0tVGZ3X2dkRTFWWkdUdlJ4QlZiTDY3WFRXUHY2eFItc0gyWmhQaWVTOFp3d1gzUTJNd2RGR3IyckhDUXNfdTJYQnM4M0xXZTJfa214dkJlQ0M1Qw?oc=5)
-
----
-
-### [Idosa obtém liminar para plano custear remédio contra câncer de pâncreas que emocionou médicos em congresso - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdFFoSWdLY0xCZjVpaDczTnRmWVNDcGZqRm1CaXlOOFpiMllDS2l1anowTU05cUNZejg4M0UtSjlJa1l2d20xaGVybElsNzlUb0dqY3QwQmktN3lwcl9VNGN3bXAyTDF5YkE4bGRNelRNdjdmRHZJdWxnX2I2RU9RampER19SVmtLQVdLLVBRSGswanhOejZwYUtpTWJxaHAwVXJTNWlSbXdySndaWEEwNlVvSTRXSUlOUFVpNTdZaWVGRFh6U2tkOVVBVUtOQS1JbjdxVGl6VkJITERUTmRtbmNsS193Q0ZYNy1pank0cFVMQXBmZUpHYVcyYXE?oc=5)
-
-2026-10-28 <span class="news-indication-tag">câncer</span>
-
-Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdFFoSWdLY0xCZjVpaDczTnRmWVNDcGZqRm1CaXlOOFpiMllDS2l1anowTU05cUNZejg4M0UtSjlJa1l2d20xaGVybElsNzlUb0dqY3QwQmktN3lwcl9VNGN3bXAyTDF5YkE4bGRNelRNdjdmRHZJdWxnX2I2RU9RampER19SVmtLQVdLLVBRSGswanhOejZwYUtpTWJxaHAwVXJTNWlSbXdySndaWEEwNlVvSTRXSUlOUFVpNTdZaWVGRFh6U2tkOVVBVUtOQS1JbjdxVGl6VkJITERUTmRtbmNsS193Q0ZYNy1pank0cFVMQXBmZUpHYVcyYXE?oc=5)
+Fonte: [Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
 
 ---
 
@@ -90,22 +90,6 @@ Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2az
 2026-10-27 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Portal Drauzio Varella](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWpNTEZwTlh0R25SN19DQ09mM2JvZ3BkeHdOTDB2UXNIVFU4OFJyNTllQ18yTzlEa25FNFotYjYwV2QxM2hzREE3ell2V0tPWTFvekFpVjhYLTRWYjlCQzkzeG9SamxGS0lLYXdsWFN3VEdoT2hhdnpYbHgyZm1jd1hyX0ZOUGFiWl90SlBoNUZXZFRKUzBNNGNpOU1QeXd2cTJTc2NZcHZRbXhaT0pZMExzWnN6czZfdTB2dg?oc=5)
-
----
-
-### [Aspirina pode reduzir em 70% risco de demência em idosos (mas traz risco); entenda - O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5)
-
-2026-10-26 <span class="news-indication-tag">demência</span>
-
-Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakFiNHFoU0xjRzZQUDFBVjd3S3hSWVdNSnpsR0w0dXM1aEJzMlA4dUVtSVBmUmZFRThmWVdsSG90X1VrbUE3TzhQTXNwOUVGX01xNHNleGVRSzEwRlc2MHVqYlh1WmEzQzJLT05PLXBPRldJVENHR2Q1TlZMT2Znd2pjcjFUaGFhelE3ckd5QjZENUVfcmdSZmJDeUJtdmpsLWQ5VFNQdFNxSEdnLVEzM2p6QUVkTWpOUnhWZWNjQzJ3VWxQVFFIMFZGd2pGU1lWTzh4OXk2YnLSAecBQVVfeXFMUDdxeHlqX3pJcEUxbjV3VGNjWnF1ZXNETWtteVpMQ1JUUkdOWjJBWGxaRnVWU3JzRmEzUVQzcVd4X09LcVJIY1FUSGlzU1pxWk1DTG9ZdDV5N1RCQTZ0d00yWHpBQTFSYzhVbFdBZDI5MUFQMDR2SGVhRnFYWDUxUE0xSDZSUUlheEJ0c2UtQTdTNmtBTEVzaXNZWGs2TUdGTHBvRnFiaHlhRXJTRTh2bl9fZVBxMUhRekF3X2tLX3pCWU9hSjVRdlVYc0sxUzhla2xiM0RBQi1sTUYxaFJLN19sSmQ2T0tJ?oc=5)
-
----
-
-### [Câncer de intestino: sintomas que não devem ser ignorados - Campo Grande News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5)
-
-2026-10-22 <span class="news-indication-tag">câncer</span>
-
-Fonte: [Campo Grande News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVXUVIzNmNjUGczcUI0ZUpzaTlqaGF6U1Vfc3NXcTdBODFQeEtZeXhNRS1VVFNHVnEzLWNQdWNGT2k1Nm50eFgxLU5PTHBIV1FOV2stMjJCNF9aYnVPYTBLQ0dMYUcxU19McDRqbkRLUHVCMUk3Q3ozRTU2MEdkdko5eUdfbmc5YnRrbXVlbGo5YnFvakVzM19NRFZOZmxTNldpazdLTnNyeEhkbHBxMUotd3dfU0NrZjNmQjJuMkdQQ05YbGfSAcYBQVVfeXFMT19PNDQ5MTR4Y1lTeGpaNXhlU3pFd1cybV9aVVRGV3Z3NTB3dmsxYlVfVXVadWtzR2E1dE1QbnlEUS1OSS1wb2VrdEV1b3g2dGlSU1Z2UTZxVWN2N0NycU1RdEVWeUNVM0dVRG5aV2pQX2l3UnBLOERxNkVmcG5KdnFQOHU5STBHUkJoUFk0dUxjcGF1WW1aMVBrUUNOZlpoQW1zNTdNQTR1M1RJQ1ZreUxkd3Z3RlFYV20ySmZxV3dEcDNLNGVB?oc=5)
 
 ---
 

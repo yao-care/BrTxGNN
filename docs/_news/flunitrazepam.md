@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Flunitrazepam?">
-<strong>Flunitrazepam</strong> tem atualmente <strong>1 notícias</strong> e 8 indicações previstas.
+<strong>Flunitrazepam</strong> tem atualmente <strong>2 notícias</strong> e 8 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ Esta página combina as indicações previstas por IA para Flunitrazepam com as 
 <p><a href="{{ '/drugs/flunitrazepam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
 
 ### [Como os trabalhos manuais aliviam a ansiedade e melhoram a saúde do cérebro - Época Negócios](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUUgyZncyOXlyTjQtTHFXdHZ4aFRSUDVYU3Y0TE1IWkVtT0I1ZEtJektjMV9wR21ZWnF2eFY2blMxdEszMVlRbXF6czFMb3lacVIwbjBGdDg1cG44SExwQ1dQcVpxN09JQjBrSFBHeVZoNThKQzJWdTUtaXhfb2V3aU93czYxalhpUnZ1dVgzcTIyaTh6Z2xXVDZ2NGozMXMyTU1XVWp4enRXNkRZblNWd3I0RDFmcUp2aFJTdU84SEltSTlyZ3VuLWUwYUoxQXdjcnE1aFVEbHNIQnM3T1NQbjNNbThtckRQanfSAfgBQVVfeXFMUC1qdk1FbjU2TnlicS1tQl9QdWcxSFVsclVDRXdDTFJzOExmTTZtdGRzNnZjUFlFMTBkbExnYVp5QXRXR212aWgxaVVNLWhmcktiVHpLSGg4dlA5VFk2bU84R2hiVVNxTDdCdjJCYVVEcjFYM2JlNnZkQlhMX3ZlWDk3ZXBhT1hyTG1ZcFdoZ0hrTE90djBLZ3ZJSXc5ZG9tWGV5QXRqc3pfNkpiMDJXMWNBZUFidTlqaE9zN1Nsa1hBZmRuY3lpUFpvcklJRTBPVjB3NGlYWFVxVlNIemw1UWtZZkw3Mm5wTnNuZmhrSnBtaUlZdm1sS3E?oc=5)
 
 2026-10-28 <span class="news-indication-tag">ansiedade</span>
 
 Fonte: [Época Negócios](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUUgyZncyOXlyTjQtTHFXdHZ4aFRSUDVYU3Y0TE1IWkVtT0I1ZEtJektjMV9wR21ZWnF2eFY2blMxdEszMVlRbXF6czFMb3lacVIwbjBGdDg1cG44SExwQ1dQcVpxN09JQjBrSFBHeVZoNThKQzJWdTUtaXhfb2V3aU93czYxalhpUnZ1dVgzcTIyaTh6Z2xXVDZ2NGozMXMyTU1XVWp4enRXNkRZblNWd3I0RDFmcUp2aFJTdU84SEltSTlyZ3VuLWUwYUoxQXdjcnE1aFVEbHNIQnM3T1NQbjNNbThtckRQanfSAfgBQVVfeXFMUC1qdk1FbjU2TnlicS1tQl9QdWcxSFVsclVDRXdDTFJzOExmTTZtdGRzNnZjUFlFMTBkbExnYVp5QXRXR212aWgxaVVNLWhmcktiVHpLSGg4dlA5VFk2bU84R2hiVVNxTDdCdjJCYVVEcjFYM2JlNnZkQlhMX3ZlWDk3ZXBhT1hyTG1ZcFdoZ0hrTE90djBLZ3ZJSXc5ZG9tWGV5QXRqc3pfNkpiMDJXMWNBZUFidTlqaE9zN1Nsa1hBZmRuY3lpUFpvcklJRTBPVjB3NGlYWFVxVlNIemw1UWtZZkw3Mm5wTnNuZmhrSnBtaUlZdm1sS3E?oc=5)
+
+---
+
+### [Alimentos ultraprocessados estão associados a lesão cerebral vascular silenciosa](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDJBMlBLY0FISmpuTzNrR2J3Znd3U09KbmhlN1l3QThFNDZPY0VMWHdvRUZHSEY4Z2VzUkJ6M0p2dFhzVi1rZUQ2UnA1Sm5BMnp6aUQ2enNacWppd3huZENNaTVQMl9zSXlCYXhuVmZUZnoxRC1HbFN6V3VoNlR1bEx4UzE1QjR0RXdqQWZJSkFIYTRCTnlYYTRyWVVmby05b21qNFdUX3F4RVlUTEtIejVxMnpmZw?oc=5)
+
+2026-10-28 <span class="news-indication-tag">ansiedade</span>
+
+Fonte: [Medscape](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDJBMlBLY0FISmpuTzNrR2J3Znd3U09KbmhlN1l3QThFNDZPY0VMWHdvRUZHSEY4Z2VzUkJ6M0p2dFhzVi1rZUQ2UnA1Sm5BMnp6aUQ2enNacWppd3huZENNaTVQMl9zSXlCYXhuVmZUZnoxRC1HbFN6V3VoNlR1bEx4UzE1QjR0RXdqQWZJSkFIYTRCTnlYYTRyWVVmby05b21qNFdUX3F4RVlUTEtIejVxMnpmZw?oc=5)
 
 ---
 

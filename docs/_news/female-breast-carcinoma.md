@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre câncer de mama (female breast carcinoma)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 2 notícias, 12 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 3 notícias, 12 medicamentos relacionados."
 permalink: /news/female-breast-carcinoma/
 last_modified_at: 2026-10-29
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de mama (female breast carcinoma)?">
-<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>2 notícias</strong> e 12 medicamentos relacionados.
+<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>3 notícias</strong> e 12 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de mama
 </ul>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (3)
 
 ### [Inchaço na axila levou biomédica de 39 anos a descobrir câncer de mama no Acre: 'O chão sumiu'](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5)
 
 2026-10-29
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5)
+
+---
+
+### [Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
+
+2026-10-28
+
+Fonte: [Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
 
 ---
 
