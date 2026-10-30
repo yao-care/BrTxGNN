@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com DIGOXIN. 5 indicações previstas."
 permalink: /news/digoxin/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # Notícias sobre DIGOXIN
@@ -39,11 +39,11 @@ Esta página combina as indicações previstas por IA para DIGOXIN com as notíc
 
 ## Notícias relacionadas (1)
 
-### [Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5)
+### [AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas - CNN Brasil](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZG1iQmJsSHFlTGtHSmdsaHJDX21kMEtZXzE3SkV1aENmaU52X0RLaDdWR3BseGtFcXZoOU9kSzk4NGZCdkxZWmk2b2hvT0ZMYWhIdGZ6dDBrbVQ3LUFmNm5FTDVYUzE1azZLcnV0ang2NEl1SzR0N1VoN1J0N1I5V3FLSndaemZVZUFRbUEtR2JnTVh2N2kzTWltb3BzRG1ySWltcFBENEVOV3daQmRB?oc=5)
 
-2026-10-28 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">doença cardíaca</span>
+2026-10-29 <span class="news-indication-tag">acidente vascular cerebral</span>
 
-Fonte: [Estadão](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5)
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZG1iQmJsSHFlTGtHSmdsaHJDX21kMEtZXzE3SkV1aENmaU52X0RLaDdWR3BseGtFcXZoOU9kSzk4NGZCdkxZWmk2b2hvT0ZMYWhIdGZ6dDBrbVQ3LUFmNm5FTDVYUzE1azZLcnV0ang2NEl1SzR0N1VoN1J0N1I5V3FLSndaemZVZUFRbUEtR2JnTVh2N2kzTWltb3BzRG1ySWltcFBENEVOV3daQmRB?oc=5)
 
 ---
 

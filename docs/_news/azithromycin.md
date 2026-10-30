@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Azithromycin. 10 indicações previstas."
 permalink: /news/azithromycin/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # Notícias sobre Azithromycin
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Azithromycin?">
-<strong>Azithromycin</strong> tem atualmente <strong>6 notícias</strong> e 10 indicações previstas.
+<strong>Azithromycin</strong> tem atualmente <strong>5 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,21 @@ Esta página combina as indicações previstas por IA para Azithromycin com as n
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (6)
+## Notícias relacionadas (5)
+
+### [Câncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo - O GLOBO](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSDVaWi1UMnZLWHd6RzI1M2hzUllyYTZFakVidUNEVDRJR0YxSjRUTHRKcXpIb19aY2ktQ0VzRm1GdnlGdjN5ay12VUlsQWtGNmowR0FYd1BCaV9lQ0NORnBzcjhhMDh2Y1VZX2J4UHdxQ3Z0aEdtZUV1dU8wVEtSeTVid3ZfcnlKZXZmVG1nY3JfU2o3OTJMbzBJaHRaT0dZOVRxMlpKV1BTSmc3MFVJMlpjT1ZXSnpNNU02dnFBTklOc3BoM0Zna29vTC1yaDZ5YjYya1YxV01DVGtJNlA3Y1VObkVscjVneThnRtIB-wFBVV95cUxQYkZ2NElvMFdBc1Z6ZzZSQ1RrWXlFWkU0Nll6U2hIc3Y5R1VTclFlYWFCN0pfVGRVak54QmluRHp6T1gtUnlodG15TEhoU2J3dFRvSEVZeXdtUHlMcjVZMVdya2Qyb3M5Y0pWc1pNNXg2WHNGclZfZkZlb1JrUTBOcnpVMUNJLVBkZkhCQUR5ZUhUb3dxZXZoZlllTjNTaXdZQjFJSkRtUXcyNU4zYmhHbWRPWG4wTUhvcDRBeEZteE9nLTVNaDluS01NYXpiNkdYVEQ4ZDhrQVdFLVE2eDJ4Z1dUNk9UNXJieU5IN1JNVWNkS2p4Uy1YVVh6Zw?oc=5)
+
+2026-10-29 <span class="news-indication-tag">câncer</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSDVaWi1UMnZLWHd6RzI1M2hzUllyYTZFakVidUNEVDRJR0YxSjRUTHRKcXpIb19aY2ktQ0VzRm1GdnlGdjN5ay12VUlsQWtGNmowR0FYd1BCaV9lQ0NORnBzcjhhMDh2Y1VZX2J4UHdxQ3Z0aEdtZUV1dU8wVEtSeTVid3ZfcnlKZXZmVG1nY3JfU2o3OTJMbzBJaHRaT0dZOVRxMlpKV1BTSmc3MFVJMlpjT1ZXSnpNNU02dnFBTklOc3BoM0Zna29vTC1yaDZ5YjYya1YxV01DVGtJNlA3Y1VObkVscjVneThnRtIB-wFBVV95cUxQYkZ2NElvMFdBc1Z6ZzZSQ1RrWXlFWkU0Nll6U2hIc3Y5R1VTclFlYWFCN0pfVGRVak54QmluRHp6T1gtUnlodG15TEhoU2J3dFRvSEVZeXdtUHlMcjVZMVdya2Qyb3M5Y0pWc1pNNXg2WHNGclZfZkZlb1JrUTBOcnpVMUNJLVBkZkhCQUR5ZUhUb3dxZXZoZlllTjNTaXdZQjFJSkRtUXcyNU4zYmhHbWRPWG4wTUhvcDRBeEZteE9nLTVNaDluS01NYXpiNkdYVEQ4ZDhrQVdFLVE2eDJ4Z1dUNk9UNXJieU5IN1JNVWNkS2p4Uy1YVVh6Zw?oc=5)
+
+---
 
 ### [Inchaço na axila levou biomédica de 39 anos a descobrir câncer de mama no Acre: 'O chão sumiu'](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5)
 
 2026-10-29 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5)
-
----
-
-### [Câncer de intestino antes dos 50: veja fatores de risco - SBT News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrUTdGUjFpck1USFVnU0pBN1paWURYcnNaN2dlTXhLUFd5eWdsb1YyVDBXRTRZUEtiNGpOa0VLcmlNUVFfZVB1cUlXWjhXaXR3aGpKNmZSZmQ5UHNYY1ZQbTUxZVRGeHhCT3JmV2h4d19kSGRjdVdDLWd0bmt2ZUw1M0VweXdkUlcyNkQyS2FzdWw1QU95OA?oc=5)
-
-2026-10-28 <span class="news-indication-tag">câncer</span>
-
-Fonte: [SBT News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrUTdGUjFpck1USFVnU0pBN1paWURYcnNaN2dlTXhLUFd5eWdsb1YyVDBXRTRZUEtiNGpOa0VLcmlNUVFfZVB1cUlXWjhXaXR3aGpKNmZSZmQ5UHNYY1ZQbTUxZVRGeHhCT3JmV2h4d19kSGRjdVdDLWd0bmt2ZUw1M0VweXdkUlcyNkQyS2FzdWw1QU95OA?oc=5)
-
----
-
-### [Tumor cerebral: por que os primeiros sinais podem passar despercebidos?](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGxHemItM2RYU1NHQUpIa1l5bEdfbVhTbWcxZk9sRkRTN1FzY25CS2RYLUF6UVk0azFsaVlIR3pzTGthVDNySUh6ckQ1Q3JvOVFUZGdXei1hUmIySWpzMF9GZ2lZelhoazF5WjlNeUdFZFdsZEloX2ZmWE01QmRyZngwVjN4djYzLU9iM1VKTUtwZ21ZM0JENGxPaDNHYkdGMXA3Mlh1ajlwMnA1eWpIRkE0RHBzQ0dDZ3k4S280MnA4UEkzNDlIVXMwU04?oc=5)
-
-2026-10-28 <span class="news-indication-tag">tumor</span>
-
-Fonte: [UOL](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGxHemItM2RYU1NHQUpIa1l5bEdfbVhTbWcxZk9sRkRTN1FzY25CS2RYLUF6UVk0azFsaVlIR3pzTGthVDNySUh6ckQ1Q3JvOVFUZGdXei1hUmIySWpzMF9GZ2lZelhoazF5WjlNeUdFZFdsZEloX2ZmWE01QmRyZngwVjN4djYzLU9iM1VKTUtwZ21ZM0JENGxPaDNHYkdGMXA3Mlh1ajlwMnA1eWpIRkE0RHBzQ0dDZ3k4S280MnA4UEkzNDlIVXMwU04?oc=5)
 
 ---
 

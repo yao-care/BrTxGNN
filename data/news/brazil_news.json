@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-29T22:31:23.279480+00:00",
-  "total_fetched": 87,
-  "unique_count": 85,
-  "health_related_count": 37,
+  "fetched_at": "2026-10-30T04:50:09.765255+00:00",
+  "total_fetched": 88,
+  "unique_count": 86,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "43a8fdb861d5",
+      "title": "Estudo estima mais de 800 mil mortes provocadas pelo Super El Niño; Brasil está entre os mais afetados - O GLOBO",
+      "published": "2026-10-29T22:07:28+00:00",
+      "summary": "Estudo estima mais de 800 mil mortes provocadas pelo Super El Niño; Brasil está entre os mais afetados&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb0YtWnkyY081R1BUWFFkSEkzNVVuWGMwaXpBVnZUMTRDUkkzVi1GTlYyWG52UzljX3ZRSWkxMGl5a0tBUTVGd3I4WV9qS3lwaEx1OVhjbVctUlBnR0NfaDVvZ0pRZ3p3ZmN0VWFTNk1NMVhlSVhIa2lNa0E0Q2JqcFNpeUVTYzRfVHFEU3V0U0NCZlhZX1pLMDdPWXE0Tnlab3lPano0NmNtMldKOHE4c3VyaU5DdWVRYjJiVGlGdjg0enBIblFjakVsdDM4TkxuTnFCRTRONEtOamJ0R2J0NVlaSG45UHpXUUZmZlYyem1kX0hDYVcyddIBhwJBVV95cUxPLW9jU3NSd3FscW91Nm9lWHBMMmppcTByV0dRR3JNOWJpTEF4SDJoV3Iwd19qT1Y1dFduYXhGRTdjbzNRd05ES2pnMlltQ2llRnExWlNXMkotWDZIbVlJNDEtZ1BUQVhndDR6a3RzVWhHb3Vmb0JuMEpXNWJ0VWxNYml0TjMyUzNiTE9XU21qUWlGRWdfZ0NiM0VyX1k5WDF1ejJuUU9fVGNITzZlZ21QQUh5TTZ6SFVIeHdXd2JFQXlpaW1fazR6ZS1zOTczVWRoYWJ1ak9FamcycFA1c2tfbUtvU3c2R3R6VGpIV2JBbGxkLUphVURPUzg2Q0Jqang5MjlEUUNlYw?oc=5"
+        }
+      ]
+    },
     {
       "id": "c45cf51305fc",
       "title": "Patrick Stewart: o que é a demência com corpos de Lewy, que afetou ator de 'X-men' e 'Star Trek' - Exame",
@@ -18,14 +30,14 @@
       ]
     },
     {
-      "id": "7fa7b488c80c",
-      "title": "Médica do Hospital Evangélico é afastada após comentários sobre troca de remédios - Folha Vitória",
-      "published": "2026-10-29T17:23:35+00:00",
-      "summary": "Médica do Hospital Evangélico é afastada após comentários sobre troca de remédios&nbsp;&nbsp;Folha Vitória",
+      "id": "de784054a826",
+      "title": "Deficiência de G6PD: sintomas, causas e como diagnosticar - Portal Drauzio Varella",
+      "published": "2026-10-29T18:06:03+00:00",
+      "summary": "Deficiência de G6PD: sintomas, causas e como diagnosticar&nbsp;&nbsp;Portal Drauzio Varella",
       "sources": [
         {
-          "name": "Folha Vitória",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPazMtbVlzOUdTWkgxVVVEWXZNdkdDeDc4WlIwejNFdXNORFZ5d0ZXVmNVUGhfSjlUU0JjYXpOU0pOYlpNSUJOdkJsWjN4enVMU3E4OUd5T1RZQ2JmdE1xYWJxYWNoY3hUTktRemowM3U1NTAyYTIwLXVYQXRmN0dBN2RiazB6YVBPVWVid2R2Tnd0TUZhc0xrb1FidmlMWHpxcXJBZHBuaTRBaXh2VnhaTExTX3dUbHZ4U2poTQ?oc=5"
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0hkX2xXMnZ4Y0V3VjQ3NDRXNC1iazF0eG9HdWtsYlhoaUVqbVlfZW9RZUdJOW1xY2lqTHBubVl5SW83UTN5ZXB6bW1xV19CTlRBSnQ2bm1qeUg2N2dhUDBXelFjSmdpb2ZKT3dTdllaVGdzSUZvX0xjVEZMZGRoR0JuY2Vzbjg4U2h5Vk9nMEJVY3JHaGpCaC1PQzBibW16ellpQg?oc=5"
         }
       ]
     },
@@ -33,7 +45,7 @@
       "id": "320d7e18e322",
       "title": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas - CNN Brasil",
       "published": "2026-10-29T16:58:04+00:00",
-      "summary": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas&nbsp;&nbsp;CNN BrasilUnidades de saúde de Volta Redonda promovem ações pelo Dia Mundial do AVC&nbsp;&nbsp;Prefeitura de Volta RedondaSUS amplia tratamentos para AVC, mas acesso depende da região e do tempo de atendimento&nbsp;&nbsp;Folha de S.PauloDedo de Prosa: sinais de alerta e prevenção ao AVC&nbsp;&nbsp;SenadoDia Mundial do AVC: ‘nunca imaginei que poderia ter esse problema aos 30 anos’, relata paciente&nbsp;&nbsp;O",
+      "summary": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas&nbsp;&nbsp;CNN BrasilNeurologista explica quais são os sinais e como prevenir acidente vascular cerebral (AVC)&nbsp;&nbsp;G1Unidades de saúde de Volta Redonda promovem ações pelo Dia Mundial do AVC&nbsp;&nbsp;Prefeitura de Volta RedondaSUS amplia tratamentos para AVC, mas acesso depende da região e do tempo de atendimento&nbsp;&nbsp;Folha de S.PauloDedo de Prosa: sinais de alerta e prevenção ao AVC&nbsp;&nbsp;Senado",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -54,6 +66,18 @@
       ]
     },
     {
+      "id": "5d54aa84169e",
+      "title": "Câncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo - O GLOBO",
+      "published": "2026-10-29T15:25:44+00:00",
+      "summary": "Câncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSDVaWi1UMnZLWHd6RzI1M2hzUllyYTZFakVidUNEVDRJR0YxSjRUTHRKcXpIb19aY2ktQ0VzRm1GdnlGdjN5ay12VUlsQWtGNmowR0FYd1BCaV9lQ0NORnBzcjhhMDh2Y1VZX2J4UHdxQ3Z0aEdtZUV1dU8wVEtSeTVid3ZfcnlKZXZmVG1nY3JfU2o3OTJMbzBJaHRaT0dZOVRxMlpKV1BTSmc3MFVJMlpjT1ZXSnpNNU02dnFBTklOc3BoM0Zna29vTC1yaDZ5YjYya1YxV01DVGtJNlA3Y1VObkVscjVneThnRtIB-wFBVV95cUxQYkZ2NElvMFdBc1Z6ZzZSQ1RrWXlFWkU0Nll6U2hIc3Y5R1VTclFlYWFCN0pfVGRVak54QmluRHp6T1gtUnlodG15TEhoU2J3dFRvSEVZeXdtUHlMcjVZMVdya2Qyb3M5Y0pWc1pNNXg2WHNGclZfZkZlb1JrUTBOcnpVMUNJLVBkZkhCQUR5ZUhUb3dxZXZoZlllTjNTaXdZQjFJSkRtUXcyNU4zYmhHbWRPWG4wTUhvcDRBeEZteE9nLTVNaDluS01NYXpiNkdYVEQ4ZDhrQVdFLVE2eDJ4Z1dUNk9UNXJieU5IN1JNVWNkS2p4Uy1YVVh6Zw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5249e0149b65",
       "title": "Turista dos EUA toma vacina de graça no Brasil e economiza mais de R$ 2.000 - UOL Notícias",
       "published": "2026-10-29T15:23:00+00:00",
@@ -62,18 +86,6 @@
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLWxIcHc4ZlRnWWZPeEtfUk9BeHExYkZEY295Skp5aUY1alNJV0t0ZTR1aTJlTG5BeS1IN2wtdmpTNHYxcVo3d3NSclJtTmZxTWN5bm9tOHRNVGpQcGljUWo5TTZSdVNpVHV4b256VXpRSkZnbFNkdEpBNHBuLTlQbllMSVdaa2pWLW1RZHhDY3I1T3VVaElFaUdsQ3hTNVNBbWxKQnZuSElJemh2QnRfLUpJMlF6N0ZyZ2I3SlFZSG5FZWRYZ3MtMmw4WkFDeEhVY2xNUFdUQWFNa21LNDZmMg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a5fa086aca8",
-      "title": "Cinco estados registram alta de casos de doenças respiratórias graves - UOL Notícias",
-      "published": "2026-10-29T15:11:51+00:00",
-      "summary": "Cinco estados registram alta de casos de doenças respiratórias graves&nbsp;&nbsp;UOL NotíciasSíndrome Respiratória Aguda está em nível de alerta em cinco estados&nbsp;&nbsp;Agência BrasilMS está entre 5 estados com alta de casos graves de SRAG&nbsp;&nbsp;Campo Grande NewsAlerta para síndrome respiratória aguda grave: Roraima registra alta incidência de casos&nbsp;&nbsp;G1Acre registra menor número de óbitos por síndrome respiratória aguda grave entre idosos desde 2024&nbsp;&nbsp;Agência de Notíc",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdkdrLUFfbV9jbGxBeDZCWE5QLV8xdkNESy1meDFqbjVYckRtcXNJYjBBZW1NTFN1ZDhtM0p3b0x1M3Qtd1hKUmNGN1Nlc2NSa0w5RVFXV2ZjbzREb2JWd0xMMms4bXphOUFWeXd4RXVwUkVWdEtNbWphSXdrTVpZVVFWSklCRUZ3QU5jV21aZ3ZlaVBYS3czUE40OThCc3RxdS1ZejRCSUVJYkJ4dDlQenV2Vl9DdWNvWlJWWDhmR01kWXAyYS04NmhRb1I0UmMwaEtzSGJn?oc=5"
         }
       ]
     },
@@ -162,14 +174,14 @@
       ]
     },
     {
-      "id": "1b604ad1a43f",
-      "title": "Câncer de intestino antes dos 50: veja fatores de risco - SBT News",
-      "published": "2026-10-28T18:33:22+00:00",
-      "summary": "Câncer de intestino antes dos 50: veja fatores de risco&nbsp;&nbsp;SBT NewsCâncer de intestino: exame de colonoscopia é principal forma de diagnóstico&nbsp;&nbsp;G1Ministério aprova diretrizes de rastreamento do câncer de intestino&nbsp;&nbsp;Campo Grande NewsMorte de Lua Blanco chama atenção para avanço do câncer colorretal | #DomingoEspetacular #shorts&nbsp;&nbsp;R7Câncer de cólon: sangramento é o primeiro sintoma em 50% dos casos, diz médico&nbsp;&nbsp;Midiamax",
+      "id": "198c5567480a",
+      "title": "Cientistas pedem que crise climática seja declarada emergência de saúde global - Folha de S.Paulo",
+      "published": "2026-10-28T21:07:00+00:00",
+      "summary": "Cientistas pedem que crise climática seja declarada emergência de saúde global&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "SBT News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGo3VTRrUTdGUjFpck1USFVnU0pBN1paWURYcnNaN2dlTXhLUFd5eWdsb1YyVDBXRTRZUEtiNGpOa0VLcmlNUVFfZVB1cUlXWjhXaXR3aGpKNmZSZmQ5UHNYY1ZQbTUxZVRGeHhCT3JmV2h4d19kSGRjdVdDLWd0bmt2ZUw1M0VweXdkUlcyNkQyS2FzdWw1QU95OA?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc19IZmlUMnJUVGM5VHdDVHZhcW5ycTczOG1CN3FPUG12RmtubGR2b1lBTzlTUm5iUGRieXNodXB1RVJFcllqZEhYYkgtNWdSQzZwVHlGajlZbFlqRXBmRHl5eVVfanpkUUVOcG9fb2lzV2VrUVc1aXlMY2ljWTVVVmlaaHVpU1RSdnotTkloVS1pQm1MU1Nfam5BSDctVXBwVDBGRjF2aGR0S1Z4RTEyOGUyOVhsSzlfTExnczBFbHU3SVoxMVdEYWFEVUdQdzRsaWhQUHRn?oc=5"
         }
       ]
     },
@@ -189,7 +201,7 @@
       "id": "b7b9c15ce119",
       "title": "Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa - Estadão",
       "published": "2026-10-28T16:53:00+00:00",
-      "summary": "Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa&nbsp;&nbsp;EstadãoSubir de 60 a 70 degraus por dia reduz risco de morte por doença cardíaca, indica estudo&nbsp;&nbsp;CRN1.comSubir escadas todos os dias pode reduzir risco de morte cardiovascular&nbsp;&nbsp;Diário do Centro do MundoSubir de 60 a 70 degraus por dia pode ajudar a proteger o coração&nbsp;&nbsp;redeutv.com.brEscadas no cotidiano e a saúde do coração&nbsp;&nbsp;SpaceMoney",
+      "summary": "Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Estadão",
@@ -213,7 +225,7 @@
       "id": "3ab2d23e57b6",
       "title": "Sofre com dor nas costas? Conheça técnica que devolve mobilidade da coluna - UOL",
       "published": "2026-10-28T15:00:00+00:00",
-      "summary": "Sofre com dor nas costas? Conheça técnica que devolve mobilidade da coluna&nbsp;&nbsp;UOLExercícios simples para aliviar a dor lombar que muita gente desconhece e que podem ser feitos em casa&nbsp;&nbsp;Catraca LivreDor nas costas: por que continuar se movimentando é recomendado mesmo com dor&nbsp;&nbsp;Tua SaúdeLiberação miofascial pode ajudar a aliviar dor lombar e melhorar mobilidade&nbsp;&nbsp;Diário do Centro do MundoFisioterapia e terapias manuais mostram resultados no tratamento da dor lo",
+      "summary": "Sofre com dor nas costas? Conheça técnica que devolve mobilidade da coluna&nbsp;&nbsp;UOLExercícios simples para aliviar a dor lombar que muita gente desconhece e que podem ser feitos em casa&nbsp;&nbsp;Catraca LivreFisioterapia e terapias manuais mostram resultados no tratamento da dor lombar com o Dr. Hudson, em Santa Helena&nbsp;&nbsp;Correio do LagoLiberação miofascial pode ajudar a aliviar dor lombar e melhorar mobilidade&nbsp;&nbsp;Diário do Centro do MundoDor nas costas: 5 hábitos apoiado",
       "sources": [
         {
           "name": "UOL",
@@ -222,38 +234,14 @@
       ]
     },
     {
-      "id": "f8328f6b81db",
-      "title": "Como os trabalhos manuais aliviam a ansiedade e melhoram a saúde do cérebro - Época Negócios",
-      "published": "2026-10-28T14:52:10+00:00",
-      "summary": "Como os trabalhos manuais aliviam a ansiedade e melhoram a saúde do cérebro&nbsp;&nbsp;Época Negócios",
-      "sources": [
-        {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUUgyZncyOXlyTjQtTHFXdHZ4aFRSUDVYU3Y0TE1IWkVtT0I1ZEtJektjMV9wR21ZWnF2eFY2blMxdEszMVlRbXF6czFMb3lacVIwbjBGdDg1cG44SExwQ1dQcVpxN09JQjBrSFBHeVZoNThKQzJWdTUtaXhfb2V3aU93czYxalhpUnZ1dVgzcTIyaTh6Z2xXVDZ2NGozMXMyTU1XVWp4enRXNkRZblNWd3I0RDFmcUp2aFJTdU84SEltSTlyZ3VuLWUwYUoxQXdjcnE1aFVEbHNIQnM3T1NQbjNNbThtckRQanfSAfgBQVVfeXFMUC1qdk1FbjU2TnlicS1tQl9QdWcxSFVsclVDRXdDTFJzOExmTTZtdGRzNnZjUFlFMTBkbExnYVp5QXRXR212aWgxaVVNLWhmcktiVHpLSGg4dlA5VFk2bU84R2hiVVNxTDdCdjJCYVVEcjFYM2JlNnZkQlhMX3ZlWDk3ZXBhT1hyTG1ZcFdoZ0hrTE90djBLZ3ZJSXc5ZG9tWGV5QXRqc3pfNkpiMDJXMWNBZUFidTlqaE9zN1Nsa1hBZmRuY3lpUFpvcklJRTBPVjB3NGlYWFVxVlNIemw1UWtZZkw3Mm5wTnNuZmhrSnBtaUlZdm1sS3E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a224ee37543d",
       "title": "Como transformar pesquisa científica em soluções socioeconômicas? Caminhos são discutidos em seminário - Jornal da USP",
-      "published": "2026-10-28T14:10:00+00:00",
+      "published": "2026-10-28T14:13:45+00:00",
       "summary": "Como transformar pesquisa científica em soluções socioeconômicas? Caminhos são discutidos em seminário&nbsp;&nbsp;Jornal da USP",
       "sources": [
         {
           "name": "Jornal da USP",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRF9tdVFxWURtNkRkNEFSS0dHQXMwQTVIdGNlNXhXMGhvVHlvRTAzaUFJMWxSbXhqMWc3cG10OGNjZVA5LTVGUm11T0ZNWWxDY3RGMHotcTF3YWoyYVNDbTRxRk52UUFwOXRYMWpnUDduODBvWkhHaTl4cE9mYkpIbHlQeHc3c1FnaHIwTlpDemppaFFyV2o4OXRWdUxDandDdFNrUndTLUVDNHVTcjBDaDdEUXRVR1MzUWRmT3A5X0J5U1RpcjR0Z0s2THcwY1BIQjZ1eA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1946f0ba1136",
-      "title": "Alimentos ultraprocessados estão associados a lesão cerebral vascular silenciosa - Medscape",
-      "published": "2026-10-28T13:34:55+00:00",
-      "summary": "Alimentos ultraprocessados estão associados a lesão cerebral vascular silenciosa&nbsp;&nbsp;MedscapeA ciência e a política por trás do pânico em torno dos alimentos ultraprocessados&nbsp;&nbsp;Folha de S.PauloConsumo de ultraprocessados está associado a doenças do coração, diabetes e ansiedade, diz revisão&nbsp;&nbsp;Tua SaúdeSGC TV: Alimentos ultraprocessados já representam quase um quarto da alimentação dos brasileiros&nbsp;&nbsp;Portal SGCNem todos os alimentos processados fazem mal: estes ci",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDJBMlBLY0FISmpuTzNrR2J3Znd3U09KbmhlN1l3QThFNDZPY0VMWHdvRUZHSEY4Z2VzUkJ6M0p2dFhzVi1rZUQ2UnA1Sm5BMnp6aUQ2enNacWppd3huZENNaTVQMl9zSXlCYXhuVmZUZnoxRC1HbFN6V3VoNlR1bEx4UzE1QjR0RXdqQWZJSkFIYTRCTnlYYTRyWVVmby05b21qNFdUX3F4RVlUTEtIejVxMnpmZw?oc=5"
         }
       ]
     },
@@ -266,18 +254,6 @@
         {
           "name": "The Conversation",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSXdaZmtlcjZyT1VwVTJZWlVEelQxd3hscVQ4THpnS3VNRU5WQWo2b3ByRmJiWjlxVU1LMy1BakFvbnpHSjU1UlNlZnA1M21yUF9IMll3ODdUY1ZEUFNCb3RaU1ROZzdfRWsySWstdW1jMjJOeFVWWHJ0dHUxd1FJNFYzT3dRN3k5djFrVGlZaFRrbUhuV2xudUVNTDYzaVdsMWluaGpkaFVyUy11WlRtWXZFUEc2LTZvVGVBWXlxYjhuSjl4ZUwxU2lvLW43VUV5b1hxM25Wa21WQm8zV1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2d4490ed3caf",
-      "title": "Tumor cerebral: por que os primeiros sinais podem passar despercebidos? - UOL",
-      "published": "2026-10-28T12:31:00+00:00",
-      "summary": "Tumor cerebral: por que os primeiros sinais podem passar despercebidos?&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGxHemItM2RYU1NHQUpIa1l5bEdfbVhTbWcxZk9sRkRTN1FzY25CS2RYLUF6UVk0azFsaVlIR3pzTGthVDNySUh6ckQ1Q3JvOVFUZGdXei1hUmIySWpzMF9GZ2lZelhoazF5WjlNeUdFZFdsZEloX2ZmWE01QmRyZngwVjN4djYzLU9iM1VKTUtwZ21ZM0JENGxPaDNHYkdGMXA3Mlh1ajlwMnA1eWpIRkE0RHBzQ0dDZ3k4S280MnA4UEkzNDlIVXMwU04?oc=5"
         }
       ]
     },
@@ -302,18 +278,6 @@
         {
           "name": "Revista Pesquisa FAPESP",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeE1SQno0czhQd3Q1MEJzM3UtaGJRODdZS3JTNzBrQ1ZnY3lGYkR1N2ZOd2R5WHZOeHZyZ2VVcllrZDFqekpfNUZvOXVWVEt1MVB6TFNnVlhxMWpyZDJCaDVvV2Q4UW13eGpRUUlsMEZlczhLMWt4UGx1bFJDTTdmNXotcEk5X1B4cU1KdGdXNzJ1cjhzNUVHVEtJX3dmRkhWMGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4724e4f37de5",
-      "title": "Como 36 minutos geram ganhos reais de massa muscular – veja como bater a meta da OMS sem sobrecarregar o corpo - CNN Brasil",
-      "published": "2026-10-28T11:40:38+00:00",
-      "summary": "Como 36 minutos geram ganhos reais de massa muscular – veja como bater a meta da OMS sem sobrecarregar o corpo&nbsp;&nbsp;CNN BrasilNem atletas escapam da perda muscular: por que correr e pedalar não substituem a musculação&nbsp;&nbsp;TerraTreinar musculação três vezes por semana pode transformar o condicionamento e a força muscular, mas os primeiros resultados nem sempre aparecem no espelho&nbsp;&nbsp;Correio BrazilienseTreino de força para corredores: treinadores explicam por que acumular quil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnNtSHk1cjljMmNVRUN2SlRSN0tWNFZWLWFWYW5MWk9peU9GNlV2R0dlaGhIQ3NrSXZoY0ZMSm16X08xaXY1VDJPd0s5QTNoS3dWTTBoVXNyZEpCZ1VKUC1vaWtCTHhxMDNTSTd1NXpCOEhzTmNyLVZzLVBRc2ltWENzWDh4SnBfV19fc0hxaHRhN1NRYkRraEhWSlA5aWN5ekxYMXIwMFRybFBBVXJ5b2RPUVZlWEcwNzhLTmxCQTQ1ZlFCbVRySnFvNGFMemNYd1htSG1NY3dmZkNmZnUzMnYzQ3Vfdw?oc=5"
         }
       ]
     },
@@ -378,30 +342,6 @@
       ]
     },
     {
-      "id": "be1c37699910",
-      "title": "Crise climática causa danos cada vez maiores à saúde e exige emergência sanitária global, apontam cientistas - G1",
-      "published": "2026-10-28T03:00:00+00:00",
-      "summary": "Crise climática causa danos cada vez maiores à saúde e exige emergência sanitária global, apontam cientistas&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSXY3WDJsQmNVNng2RWI3aDNrSUJQZEM0SUxSMklITktiMklUUy1VS05WUmZFdGRGRHJmVE9PUndTM2RlQ3gyTDBoRVZUWnZvNUpOdnByV08zaVg0SjZYTEVWV2pldlhsdURrUjFEZkl0aFhxRHN2UXNDRWRWbmhGd2ppSWhFX1BYUHRKcHlzZ01JN3JnZEZDQnhTV0FTb1RuX3Y0RHZaN2F5UVpHN21zb0wwYldXLTdrb2tHRE9LdGF4U1JTai1wYVFLRXMzdTg3UTU2eTRIUHBIdEFlR0ZWUVZvVk02THJQbjNzbzNfNlFpVDRvVWFLVWtTa9IBigJBVV95cUxQMEIyZVNyc2VpVnYxc0RNQVc3bHc4dzdSdHFSR3o5LVBHN0JRcWc3al9uVVZCZGw2dnVxejZyVk04X2pfc0tadWkwUFZiS1dyMklMeWxrelJUNXNhekg2WkdpS2ZSU1ZGUWdISEtSaElBVWpsT2tXV3Q4a1VNbEdMOUZuRFk1TERmRXBaMjgtS2Vyemp4TTZRUm1MSnpTbXpwWlFsRHV5VldjeUFuV1ZzSERNSVh5Y2tXNklnVHJ2cVVXZzQySXRTaS1rOGl6Z1dFcDdyT3hmS1B2M19RTzlNZ1BlSTN5VWx4NENZdlFqcnB4TTc0TElIRE5nMy1aQTQxc1loRFVOOEp3Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b99e3571db12",
-      "title": "Spray nasal com composto do veneno de sapo avança contra depressão resistente - Diário do Centro do Mundo",
-      "published": "2026-10-27T20:42:24+00:00",
-      "summary": "Spray nasal com composto do veneno de sapo avança contra depressão resistente&nbsp;&nbsp;Diário do Centro do MundoSpray nasal feito com composto psicodélico de veneno de sapo alivia rapidamente sintomas de depressão; mostra novo estudo&nbsp;&nbsp;O GLOBOSpray nasal à base de veneno de sapo pode aliviar depressão por semanas&nbsp;&nbsp;MetrópolesSpray nasal com psicodélico derivado de sapo do deserto é bem-sucedido contra a depressão&nbsp;&nbsp;VEJAVeneno de sapo para depressão: o que dois ensaio",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUhqQ2lNbHlkWjNvbHFpNmlaM2ZzSG8yOEh4SENfT1NwV2oyX1pDczEzQ0J1d2otR3QzN21fdGViUmJKbHJZM2pkNUlsMDdwSks1ZFBCMzZQMFFKN3FNbHBhTG5oYUlQV2pIb2dyLXdlbjZEZFJzTDBRR0xGdndWaXo0c2ZIQU50MTBDU083M3FTdkxDWkNHdWhaaUY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9c70bf96cbd0",
       "title": "Incidência de câncer é maior em pessoas com diabetes tipo 2 - Portal Drauzio Varella",
       "published": "2026-10-27T18:01:49+00:00",
@@ -410,6 +350,18 @@
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWpNTEZwTlh0R25SN19DQ09mM2JvZ3BkeHdOTDB2UXNIVFU4OFJyNTllQ18yTzlEa25FNFotYjYwV2QxM2hzREE3ell2V0tPWTFvekFpVjhYLTRWYjlCQzkzeG9SamxGS0lLYXdsWFN3VEdoT2hhdnpYbHgyZm1jd1hyX0ZOUGFiWl90SlBoNUZXZFRKUzBNNGNpOU1QeXd2cTJTc2NZcHZRbXhaT0pZMExzWnN6czZfdTB2dg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c8616174e6d9",
+      "title": "Como é a base de pesquisa russa que chegou à menor temperatura registrada no mundo e é análoga à futura estação lunar - O GLOBO",
+      "published": "2026-10-27T07:30:00+00:00",
+      "summary": "Como é a base de pesquisa russa que chegou à menor temperatura registrada no mundo e é análoga à futura estação lunar&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQWxsWEk5WGM5YmtXckc1U3J6eHdVd3BiU2NDaHRlOFVsaXk1R196SWRhbWlTVWZETWROb2ZFMXJCNFpEVlJXbnNnU1JmWFFxbDZtWXhMdTFXT2I0cG1ySXFoSDJwOTBCaGZudy1zX3JUZmFET2FMWHBjVks4QWxPT1ZwcW9xT3ItbTVhV0tsamM3UEJTcDNMb3NJbWhicnRSb1YwcWVHclN6YzYza053bEQzZjZiZjh5cF83ZWpqUV81WU5RNFNDZkVSYnNtQlpZOVZnSXRHTGR6NVk4LXdseTBXdmI1U3hNUTBLZHpYWDJPTzNIc3prUFZDeTM2VlV4Z2hWdEd1NDlUa0VUSzhXRm9kUVJxUkp50gGnAkFVX3lxTE9TdGRQckZjTmxhajdPQThDeGtHaXZjcFB2S19Ndkc5WlQxMWJnRFVoUmRMRXBDdXJzSEFVOE9jZWhpNFBRaUdHMWY0YVRDalJFdGsxT2FBVW0xMGhHVEtYbTVDSGlxUlhlb1R2ZDk3V2VzRnRLZWExRE9HZEdnNU1yQ3VqTV93MFprTXUzMHUtNEMwbWtISnlGYUFiamhzZHpBdjdFUVBRaDhBaUFzMVhXd1NiRGRIUUQ0Q1Q2ZWpkVVdSVXBRUHE1Y0lSSDVyLU5hT3JwZjlQNUxvdzFXeXNhZjhNa2pGcVVzWFNTOGhETzBwN01vYXQ2MDQwRHppQlRTZ09SR2oxTkwwSGhxVXhDWnJTTURkZnV3VjVSRWQxMzJhSzZ1ZmM?oc=5"
         }
       ]
     },
