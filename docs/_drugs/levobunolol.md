@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 405
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Levobunolol: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para o Levobunolol
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo que podem ser rastreados são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 2 |
 | Nível de evidência | Não aplicável |
-| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
 | Número de Registros | 3 (ativos: 1) |
 
 ## Usos conhecidos entre os candidatos do modelo

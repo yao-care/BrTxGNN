@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 360
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 description: "Idursulfase: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação igual ou superior a 0,99) |
 | Usos conhecidos registrados para este medicamento | 2 |
 | Nível de evidência | Não aplicável |
-| Situação de mercado no Brasil | Não comercializado (registros cancelados: 2 de 2) |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 2 de 2) |
 | Número de Registros | 2 (ativos: 0) |
 
 ## Usos conhecidos registrados para este medicamento

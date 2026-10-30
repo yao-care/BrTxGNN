@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 260
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dexchlorpheniramine: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Dexchlorpheni
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis a uma fonte são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 2 |
 | Nível de evidência | Não aplicável |
-| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
 
 ## Usos conhecidos entre os candidatos do modelo

@@ -3,7 +3,7 @@ layout: default
 title: Iopamidol
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 371
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Iopamidol: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0
@@ -45,7 +45,7 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 |------|------|
 | Novas indicações preditas | Nenhuma (nenhum candidato do modelo atingiu 0,99 ou mais) |
 | Usos conhecidos registrados para este medicamento | 0 |
-| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
 | Número de Registros | 4 (ativos: 1) |
 
 ## Usos conhecidos registrados para este medicamento

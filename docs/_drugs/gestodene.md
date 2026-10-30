@@ -3,7 +3,7 @@ layout: default
 title: Gestodene
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 340
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Gestodene: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0
@@ -44,7 +44,7 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 | Item | Conteúdo |
 |------|------|
 | Usos conhecidos registrados para este medicamento | 0 |
-| Situação de mercado no Brasil | Não comercializado (registros cancelados: 2 de 2) |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 2 de 2) |
 | Número de Registros | 2 (ativos: 0) |
 
 ## Usos conhecidos registrados para este medicamento

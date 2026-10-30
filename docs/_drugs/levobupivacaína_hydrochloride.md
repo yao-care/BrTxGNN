@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 |------|----------|
 | Indicação Original | ANESTESICOS LOCAIS |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros ANVISA | 2 (ativos: 2) |
+| Número de Registros | 2 (ativos: 2) |
 
 ---
 

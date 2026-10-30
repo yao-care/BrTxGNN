@@ -5,7 +5,7 @@ layout: default
 title: Arginine Aspartate
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 74
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 |------|------|
 | Indicação Original | VITAMINAS E SUPLEMENTOS MINERAIS; VITAMINAS; NUTRIENTES PARENTERAIS; REPOSICAO HIDROELETROLITICA E ALIMENTACAO PARENTERAL |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 18) |
-| Número de Registros ANVISA | 18 (ativos: 18) |
+| Número de Registros | 18 (ativos: 18) |
 
 ---
 

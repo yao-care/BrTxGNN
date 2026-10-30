@@ -5,7 +5,7 @@ layout: default
 title: Bromopride
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 158
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,7 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | ANTIEMETICOS E ANTINAUSEANTES; ANTIEMÉTICOS E ANTINAUSEANTES; DIGESTIVO ANTIMETICOS E ANTINAUSEANTES |
-| Situação no Mercado | Comercializado (registros ativos: pelo menos 19) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
 | Número de Registros | 0 |
 
 ---

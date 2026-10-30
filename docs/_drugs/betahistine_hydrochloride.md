@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 126
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -53,7 +53,7 @@ Sem previsões disponíveis, não é possível avançar para a etapa de avaliaç
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | L5 — Apenas previsão do modelo, sem estudos reais |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros ANVISA | 0 |
+| Número de Registros | 0 |
 | Decisão Recomendada | Hold |
 
 ---

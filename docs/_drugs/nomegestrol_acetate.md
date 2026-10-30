@@ -3,7 +3,7 @@ layout: default
 title: Nomegestrol Acetate
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 476
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nomegestrol Acetate: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0
@@ -44,7 +44,7 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 | Item | Conteúdo |
 |------|------|
 | Usos conhecidos registrados para este medicamento | 2 |
-| Situação de mercado no Brasil | Comercializado (registros ativos: 2 de 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
 | Número de Registros | 2 (ativos: 2) |
 
 ## Usos conhecidos registrados para este medicamento

@@ -5,7 +5,7 @@ layout: default
 title: Buclizina Dihydrochloride
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 160
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,7 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|----------|
 | Indicação Original | ESTIMULANTES DO APETITE |
-| Situação no Mercado | Comercializado (registros ativos: 1 de 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
 | DrugBank ID | Não mapeado |
 

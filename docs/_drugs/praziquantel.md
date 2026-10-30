@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 544
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Praziquantel: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 | Novas indicações preditas | Nenhuma (nenhum candidato do modelo obteve pontuação igual ou superior a 0,99) |
 | Usos conhecidos registrados para este medicamento | 4 |
 | Nível de evidência | Não se aplica |
-| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 7) |
 | Número de Registros | 7 (ativos: 1) |
 
 ## Usos conhecidos registrados para este medicamento

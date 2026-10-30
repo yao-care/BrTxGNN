@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 159
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Brompheniramine: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Bromphenirami
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis a uma fonte são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 2 |
 | Nível de evidência | Não se aplica |
-| Situação de mercado no Brasil | Comercializado (registros ativos: 19 de 19) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 19) |
 | Número de Registros | 19 (ativos: 19) |
 
 ## Usos conhecidos entre os candidatos do modelo

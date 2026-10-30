@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 540
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Potassium Hydroxide: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação igual ou superior a 0,99) |
 | Usos conhecidos registrados para este medicamento | 0 |
 | Nível de evidência | Não aplicável |
-| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
 
 ## Usos conhecidos registrados para este medicamento

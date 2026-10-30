@@ -5,7 +5,7 @@ layout: default
 title: Bupivacaine Hydrochloride
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 163
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 |------|------|
 | Indicação Original | ANESTESICOS LOCAIS |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
-| Número de Registros ANVISA | 12 (ativos: 12) |
+| Número de Registros | 12 (ativos: 12) |
 
 ---
 

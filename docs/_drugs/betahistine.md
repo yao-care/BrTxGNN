@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 124
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Betahistine: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ O modelo TxGNN não apresenta, para Betahistine, nenhum candidato com pontuaçã
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação de 0,99 ou mais) |
 | Usos conhecidos registrados para este medicamento | 2 |
 | Nível de evidência | Não se aplica |
-| Situação de mercado no Brasil | Comercializado (registros ativos: pelo menos 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
 | Número de Registros | pelo menos 20 |
 
 ## Usos conhecidos registrados para este medicamento

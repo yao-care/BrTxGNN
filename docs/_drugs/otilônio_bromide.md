@@ -52,7 +52,7 @@ Sem candidatos gerados, não é possível conduzir análise de indicação, evid
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (modelo não gerou candidatos; sem estudos mapeados) |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros ANVISA | 1 (ativos: 1) |
+| Número de Registros | 1 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

@@ -5,7 +5,7 @@ layout: default
 title: Carbinoxamina Maleate
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 193
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 |------|----------|
 | Indicação Original | PRODUTOS PARA TERAPIA SINTOMATICA DA GRIPE; ANALGESICOS NAO NARCOTICOS; PRODUTO P.TERAPIA SINTOMATICA DA GRIPE |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
-| Número de Registros ANVISA | 10 (ativos: 10) |
+| Número de Registros | 10 (ativos: 10) |
 
 ---
 

@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 594
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Solifenacin: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Todos os candidatos que o modelo TxGNN gerou para Solifenacin (pontuação ≥ 0
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 1 |
 | Nível de evidência | Não se aplica |
-| Situação de mercado no Brasil | Comercializado (registros ativos: 18 de 20) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 20) |
 | Número de Registros | 20 (ativos: 18) |
 
 ## Usos conhecidos entre os candidatos do modelo

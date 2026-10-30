@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 397
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lemborexant: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Todos os candidatos que o modelo TxGNN gerou para o Lemborexant e que puderam se
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis a uma fonte são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 0 |
 | Nível de evidência | Não aplicável |
-| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
 | Número de Registros | 1 (ativos: 1) |
 
 ## Usos conhecidos entre os candidatos do modelo

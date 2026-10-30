@@ -5,7 +5,7 @@ layout: default
 title: Testosterone Cypionate
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 621
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 |------|------|
 | Indicação Original | HORMONIO GONADOTROFICO |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros ANVISA | 3 (ativos: 3) |
+| Número de Registros | 3 (ativos: 3) |
 
 ---
 

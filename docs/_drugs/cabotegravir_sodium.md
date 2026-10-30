@@ -5,7 +5,7 @@ layout: default
 title: Cabotegravir Sodium
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 171
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 |------|------|
 | Indicação Original | ANTIRETROVIRAL |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
-| Número de Registros ANVISA | 4 (ativos: 4) |
+| Número de Registros | 4 (ativos: 4) |
 
 ---
 

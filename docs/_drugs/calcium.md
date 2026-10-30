@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 178
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Calcium: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 | Novas indicações preditas | Nenhuma (nenhum candidato do modelo atingiu pontuação igual ou superior a 0,99) |
 | Usos conhecidos registrados para este medicamento | 2 |
 | Nível de evidência | Não aplicável |
-| Situação de mercado no Brasil | Comercializado (registros ativos: 1 de 17) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 17) |
 | Número de Registros | 17 (ativos: 1) |
 
 ## Usos conhecidos registrados para este medicamento

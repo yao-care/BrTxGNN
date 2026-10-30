@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 604
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tafamidis: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação igual ou superior a 0,99) |
 | Usos conhecidos registrados para este medicamento | 4 |
 | Nível de evidência | Não se aplica |
-| Situação de mercado no Brasil | Comercializado (registros ativos: 2 de 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 3) |
 | Número de Registros | 3 (ativos: 2) |
 
 ## Usos conhecidos registrados para este medicamento
