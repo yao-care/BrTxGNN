@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre DIGOXIN?">
-<strong>DIGOXIN</strong> tem atualmente <strong>1 notícias</strong> e 5 indicações previstas.
+<strong>DIGOXIN</strong> tem atualmente <strong>2 notícias</strong> e 5 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ Esta página combina as indicações previstas por IA para DIGOXIN com as notíc
 <p><a href="{{ '/drugs/digoxin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Acidente Vascular Cerebral (AVC) - Notícias Interativa](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTZ6MmdsWHA1em40Y1NsN2duaVFZV292bG84YkRRM040TFB0RlJFS0RXM3RicjVDLTluTDNUNTY1R1lWTEk4bmx4TkZYYkNiX3loQXN2S21QOU8yR1FRZDBuaTA0RnJHcEI4QzFOY2NmYnZMUVRxdzhTM0JvQ1NUUkI3SE94NVlDQTVSd1dLU0pjXzQ?oc=5)
+
+2026-10-29 <span class="news-indication-tag">acidente vascular cerebral</span>
+
+Fonte: [Notícias Interativa](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTZ6MmdsWHA1em40Y1NsN2duaVFZV292bG84YkRRM040TFB0RlJFS0RXM3RicjVDLTluTDNUNTY1R1lWTEk4bmx4TkZYYkNiX3loQXN2S21QOU8yR1FRZDBuaTA0RnJHcEI4QzFOY2NmYnZMUVRxdzhTM0JvQ1NUUkI3SE94NVlDQTVSd1dLU0pjXzQ?oc=5)
+
+---
 
 ### [AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas - CNN Brasil](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZG1iQmJsSHFlTGtHSmdsaHJDX21kMEtZXzE3SkV1aENmaU52X0RLaDdWR3BseGtFcXZoOU9kSzk4NGZCdkxZWmk2b2hvT0ZMYWhIdGZ6dDBrbVQ3LUFmNm5FTDVYUzE1azZLcnV0ang2NEl1SzR0N1VoN1J0N1I5V3FLSndaemZVZUFRbUEtR2JnTVh2N2kzTWltb3BzRG1ySWltcFBENEVOV3daQmRB?oc=5)
 

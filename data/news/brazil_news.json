@@ -1,10 +1,58 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-30T04:50:09.765255+00:00",
-  "total_fetched": 88,
-  "unique_count": 86,
-  "health_related_count": 33,
+  "fetched_at": "2026-10-30T12:19:49.208731+00:00",
+  "total_fetched": 80,
+  "unique_count": 78,
+  "health_related_count": 27,
   "news": [
+    {
+      "id": "2c7596dc7231",
+      "title": "Atleta que teve incontinência fecal em prova de Hyrox fala sobre trauma e pede desculpas: 'Coloquei outras pessoas em risco' - BBC",
+      "published": "2026-10-30T11:04:31+00:00",
+      "summary": "Atleta que teve incontinência fecal em prova de Hyrox fala sobre trauma e pede desculpas: 'Coloquei outras pessoas em risco'&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jaGlYaDFta1FPdDFKcFpzYXI4ODFZWjZoN0cxREJaMklja3pQbjVtYWxIRmtUWjFrVzRjUWJ5RnlkbjBCc3BHdlVkYXJ0Rl9RZWVKdXlheV9udEh2MkRNYmpud9IBaEFVX3lxTE9jdnZpZEQzM1d3bGxOMnFNdzRnTzRhMkFCWjRzalk3dmhxeFItaEExRkxmSC02eWhZSmNiTm1pVUNUOU1iSFFqOXlLTmx3di1xNG5pb29lb2ktZENiUDJ2a01OYjJjWVVI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "25ee451a14ec",
+      "title": "Cinco regiões de corais no Brasil estão em estado crítico e correm risco de colapso - CNN Brasil",
+      "published": "2026-10-30T06:37:53+00:00",
+      "summary": "Cinco regiões de corais no Brasil estão em estado crítico e correm risco de colapso&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG5Yc0lETXp2eTRHVzRVWnREZGxsN3hKaGhVZVBTUVJhQ3JCajdaX3k5VWlzdWQxMUZ0NGliX3Fud3hSRGRpb3JDNXpWYWY0LU5DUkVScmg0OUstYUtJRWV0blhiNFdpTXJkX3k0bTVZSEliWmU4MGJLZnRHaEo0UktPLUNyUmdoMUFkNTZndUhtNDA5RUhEcVViSjd3TjBNQUsyVWc3VC1qVE42bENpcXZaby1QXzlHSUhUZ3dR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "35e25d7f0cb2",
+      "title": "Peixe raro de cabeça transparente é filmado em 4K pela primeira vez - O GLOBO",
+      "published": "2026-10-30T06:30:00+00:00",
+      "summary": "Peixe raro de cabeça transparente é filmado em 4K pela primeira vez&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGEycmlJa3RVaDBvWXhEUElobTR1bXpfQTVaN1JoVjBLaUV2TlM1MmFhTkRSOVpWTVlZZEF6dEJTb1pydk1XYnAzRGdHSDdmZmtGLUN4YTBqODZEMW5HZElhNXE3VnVwRmI1Nmp2MjNybENyLWJOYWx0M0RqZnlwbV9WWlVBbzFLYm92am9CcWs4NDNlMEtwVzIxUTBjYWd1Zkt2eEh5Q21FRkVFSUM2QVpVQmhGRWZOOEd6WGN0YjV0cldfR1Y2UXZ2LThQQzl1OWI4NXFR0gHkAUFVX3lxTFA1Y0ZlTzg4YzZXSVFTZGlVQ1FMclI4Yzd6TUR1LTlNNFBfcUIzcWxQay1uNEFQWm9HZDF1c2I5SkJsVTg2cnNxVlpiVVM5SUxzM05nT3BGZkdzUWU2dXZoQWpJN3JzZGk1Tm42OU5wRFZndV84TmxpN3AtNHBSLXgzQWU1OWtzakVBWWluTTJuRU9CWjJzSnlFMnVKVW1LcFdFWHA1NDJ5UjVaLXpENWNhOFBNRWZydWh4a3piMmZ3THJzaDRQZXRXdHE5clV5M2Z3bGJRU2VVN3YwVmpFUnN2ZlBkbg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2a41f48f5bb1",
+      "title": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo - G1",
+      "published": "2026-10-30T05:00:00+00:00",
+      "summary": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo&nbsp;&nbsp;G1Excesso de treino pode alterar a química do cérebro e afetar o descanso, mostra estudo&nbsp;&nbsp;TerraExcesso de treino afeta a regulação química do cérebro, mostra novo estudo&nbsp;&nbsp;InfoMoneyExercício faz bem, mas o excesso pode cobrar seu preço&nbsp;&nbsp;comunhao.com.brExercício pode cansar os músculos e aliviar a mente ao mesmo tempo; estudo explica o paradoxo da fadiga&nb",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTkVFbmNQZTkxb0FNMDFoVERXTnVqUWNjYnhUa3hFc3FIQVJMdzV0bEVYS1RxQXlhVDB3a3hIMEFqNllZeTZLcl9XN1FhaGpLeTM2ZXp5dE5DZ1h6RFZkYlNXMEdibzFKVk1CYkowMVh0VWQtVWdQQV9YaF9jVlQ2MGF5azNYdXI0LXVaWVBzQUsxZEdxM1R5TTlKWDF6VEFPamJOSmVzbk5fcXFJVmM3Z193UlZvN090NUdORXVxODVjUkFiZkpiU1U5YmZCUzFvRGN4elhiYXRLOGhZaWZfOGhfYW3SAfMBQVVfeXFMTVZzZE1ZWFpKSEhjM2QxdHJPMW01SlB4UFBZNGx2bl9ZSmItRGVfUzVVRWNCM3I4V3pxUU94ZzROellFRk4wOFBwN25QdmNZZGFPRW5UcFBrdUhLeFFpbDVYM2FOMVVyQlk1V1RKMFpkdzZ1NWgtYjRfbFppVHZBWHJHdUpzdzBTTC1GY2FqVGcxem1mak9Namg1TmFkN2JSd0hucUFpdW5yWWtKWHkwSXZFYTFreWkxSzJncWFTWlBLMzJnSFptUFdMWTVDamtCWVVjOGdWUDdkbFFOSGxvZVJhaTNsUnNBZ2lmNHhvc1BoaEI4?oc=5"
+        }
+      ]
+    },
     {
       "id": "43a8fdb861d5",
       "title": "Estudo estima mais de 800 mil mortes provocadas pelo Super El Niño; Brasil está entre os mais afetados - O GLOBO",
@@ -18,14 +66,26 @@
       ]
     },
     {
-      "id": "c45cf51305fc",
-      "title": "Patrick Stewart: o que é a demência com corpos de Lewy, que afetou ator de 'X-men' e 'Star Trek' - Exame",
-      "published": "2026-10-29T20:42:00+00:00",
-      "summary": "Patrick Stewart: o que é a demência com corpos de Lewy, que afetou ator de 'X-men' e 'Star Trek'&nbsp;&nbsp;Exame",
+      "id": "623bfacb2a10",
+      "title": "Corpos de Lewy e Alzheimer: entenda diagnóstico que afetava Patrick Stewart - CNN Brasil",
+      "published": "2026-10-29T21:12:56+00:00",
+      "summary": "Corpos de Lewy e Alzheimer: entenda diagnóstico que afetava Patrick Stewart&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdZdTZ1QkZsMmtuaUY4U05vdVV3NUJ3Q00xanVKLUx3YmplV05VeXFJRlJLRVVOZGZDUlBsbC1QaGhFS0tOMHhYaDluMHJXTWZycktUelJKVnlVc2kyYjlaM0Nic1Z1S0tSQTdoWHFRNmtFa29XaDh5aVkyS2xmQjJ6R0IzN2d5VF9NT1R3amIzY0FJcV9ES2ZNTFRiblg1VmZTbGNTQms4S0FwZXJkWHRJRkpEb3hFZ1h6NkNB?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM1NFMmV2LU9lUHM1dDF0YnZQYm9MMXBDN1VqQ21RZm1INU1pTUw3UHpTdE1sSVFnbDhQWU9nRGNSY3YzUHhuWWVNX3pwbmlrZVRkYXpMWW1YdW1MeFB3SkZ5VFdhdHpVTVVTZFNTUVhLeWZuTXZ5a24yZk1tNGs0UW92V1QydEduaGg1QzVjb1J0Tm5pdFBrNVFUYmpFRFJWYWVYaHJEbW9EV2RLNnA0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9bfa6d35045d",
+      "title": "Acidente Vascular Cerebral (AVC) - Notícias Interativa",
+      "published": "2026-10-29T18:31:59+00:00",
+      "summary": "Acidente Vascular Cerebral (AVC)&nbsp;&nbsp;Notícias Interativa",
+      "sources": [
+        {
+          "name": "Notícias Interativa",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTZ6MmdsWHA1em40Y1NsN2duaVFZV292bG84YkRRM040TFB0RlJFS0RXM3RicjVDLTluTDNUNTY1R1lWTEk4bmx4TkZYYkNiX3loQXN2S21QOU8yR1FRZDBuaTA0RnJHcEI4QzFOY2NmYnZMUVRxdzhTM0JvQ1NUUkI3SE94NVlDQTVSd1dLU0pjXzQ?oc=5"
         }
       ]
     },
@@ -45,7 +105,7 @@
       "id": "320d7e18e322",
       "title": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas - CNN Brasil",
       "published": "2026-10-29T16:58:04+00:00",
-      "summary": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas&nbsp;&nbsp;CNN BrasilNeurologista explica quais são os sinais e como prevenir acidente vascular cerebral (AVC)&nbsp;&nbsp;G1Unidades de saúde de Volta Redonda promovem ações pelo Dia Mundial do AVC&nbsp;&nbsp;Prefeitura de Volta RedondaSUS amplia tratamentos para AVC, mas acesso depende da região e do tempo de atendimento&nbsp;&nbsp;Folha de S.PauloDedo de Prosa: sinais de alerta e prevenção ao AVC&nbsp;&nbsp;Senado",
+      "summary": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas&nbsp;&nbsp;CNN BrasilSUS amplia tratamentos para AVC, mas acesso depende da região e do tempo de atendimento&nbsp;&nbsp;Folha de S.PauloNeurologista explica quais são os sinais e como prevenir acidente vascular cerebral (AVC)&nbsp;&nbsp;G1Unidades de saúde de Volta Redonda promovem ações pelo Dia Mundial do AVC&nbsp;&nbsp;Prefeitura de Volta RedondaOpinião | A prevenção de um AVC começa com noites bem dormidas&nbsp;&nbsp",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -69,7 +129,7 @@
       "id": "5d54aa84169e",
       "title": "Câncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo - O GLOBO",
       "published": "2026-10-29T15:25:44+00:00",
-      "summary": "Câncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo&nbsp;&nbsp;O GLOBO",
+      "summary": "Câncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo&nbsp;&nbsp;O GLOBOAvanço do câncer colorretal de início precoce na América Latina e o papel da alimentação na prevenção&nbsp;&nbsp;Estadão MTCâncer em jovens e envelhecimento acelerado: o que os números indicam&nbsp;&nbsp;Instituto de Longevidade MAGCasos de câncer antes dos 50 anos aumentam; causas ainda são investigadas&nbsp;&nbsp;THMais",
       "sources": [
         {
           "name": "O GLOBO",
@@ -138,18 +198,6 @@
       ]
     },
     {
-      "id": "597ede9e5f0c",
-      "title": "Excesso de treino pode alterar a química do cérebro e afetar o descanso, mostra estudo - Terra",
-      "published": "2026-10-29T08:00:00+00:00",
-      "summary": "Excesso de treino pode alterar a química do cérebro e afetar o descanso, mostra estudo&nbsp;&nbsp;TerraExcesso de treino afeta a regulação química do cérebro, mostra novo estudo&nbsp;&nbsp;O GLOBOExercício pode cansar os músculos e aliviar a mente ao mesmo tempo; estudo explica o paradoxo da fadiga&nbsp;&nbsp;O POVOTreinar demais pode desequilibrar o cérebro, revela estudo&nbsp;&nbsp;noticiasdoplanalto.com.brExcesso de treino pode afetar a regulação química do cérebro&nbsp;&nbsp;Correio Brazilie",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObTdYVDNFQXlTeUZGVlN3bnFYdlZBaGhFUWxFRzBBd0l3TFRuc0JaSzdNM0xRd2xkNnp1RXRFNV9aeDlqMjlfSWJzb0FaeG5ER05xdlAyZ3JDR0M5djJwVEgzMHI4bENPOUJBaEJ3YnNvUVRBV09Ra1ktekdpNnI3Z25HSUxUeDBXOXJJMTRRcFltbk5pcUVCcmpuemV2ZndOWUVmVlhmaDNQd0hFV1o4NDM5bGctNFFDN2VCOWJpV2tYZGhNcDNRSHA3Mk5ObE9uNXBlOTJfbE9xeGJ1NDFDX21YZ1JDT3Rjdng2bnk4VjBCb1B3Y1ozRW9tVVVOTldPQU9ZaTRJdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "870e7d6792d9",
       "title": "Médico usa robô para operar paciente a 56 km de distância em cirurgia inédita nos EUA - O GLOBO",
       "published": "2026-10-29T07:00:00+00:00",
@@ -162,18 +210,6 @@
       ]
     },
     {
-      "id": "b07c1a3d3d75",
-      "title": "A idade que atingimos o auge da inteligência, conforme estudos - Concursos no Brasil",
-      "published": "2026-10-28T21:40:42+00:00",
-      "summary": "A idade que atingimos o auge da inteligência, conforme estudos&nbsp;&nbsp;Concursos no Brasil",
-      "sources": [
-        {
-          "name": "Concursos no Brasil",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0h4Yk1qYjZ1R2phWmdGTkF0RUJxZ1I5aVN5RDVXR2REa041aTNOUnplbTJkYWxkVmxjRlhDb0dRbjZBSE5oT3VjX3k3Q3dtVDBBcjJYNjI2YmF3WUszQzI0SVRyTGVvWkFiYV9iQjBrWUstR3ZweVhqYk1oQWI0SXJSaFg5MTl4VXV6UjlKeHh1ODA0UlVNdHc4MFhqUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "198c5567480a",
       "title": "Cientistas pedem que crise climática seja declarada emergência de saúde global - Folha de S.Paulo",
       "published": "2026-10-28T21:07:00+00:00",
@@ -182,18 +218,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc19IZmlUMnJUVGM5VHdDVHZhcW5ycTczOG1CN3FPUG12RmtubGR2b1lBTzlTUm5iUGRieXNodXB1RVJFcllqZEhYYkgtNWdSQzZwVHlGajlZbFlqRXBmRHl5eVVfanpkUUVOcG9fb2lzV2VrUVc1aXlMY2ljWTVVVmlaaHVpU1RSdnotTkloVS1pQm1MU1Nfam5BSDctVXBwVDBGRjF2aGR0S1Z4RTEyOGUyOVhsSzlfTExnczBFbHU3SVoxMVdEYWFEVUdQdzRsaWhQUHRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "238368a4920b",
-      "title": "Homens com dieta rica em proteína animal têm menos testosterona, diz estudo - Metrópoles",
-      "published": "2026-10-28T18:24:00+00:00",
-      "summary": "Homens com dieta rica em proteína animal têm menos testosterona, diz estudo&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1hMYXV1cUh3cW9ZWXFGX2VYNzJPZXQyaWN6dEl4LV9taDhORkJqRllKUFNFODQxN3k1anRQd3dhNVlVU0c5cUJtaTVWbTBDaVZ1d0M3RGVCSHg4X3dJMTdpNnYwTjRIRHNxSTRlU1hUdk10QUJqU0owZ3VQNFFMdDRLa25mZlhMRzNTeGRaMExBMV9QenBzRk4zLVNjRVVTM3pPalZtSDlrN0E?oc=5"
         }
       ]
     },
@@ -246,18 +270,6 @@
       ]
     },
     {
-      "id": "43a736f9ec04",
-      "title": "Pesquisa do Inmetro reforça combate ao comércio ilegal de madeira identificando assinatura química das árvores - The Conversation",
-      "published": "2026-10-28T13:07:56+00:00",
-      "summary": "Pesquisa do Inmetro reforça combate ao comércio ilegal de madeira identificando assinatura química das árvores&nbsp;&nbsp;The Conversation",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSXdaZmtlcjZyT1VwVTJZWlVEelQxd3hscVQ4THpnS3VNRU5WQWo2b3ByRmJiWjlxVU1LMy1BakFvbnpHSjU1UlNlZnA1M21yUF9IMll3ODdUY1ZEUFNCb3RaU1ROZzdfRWsySWstdW1jMjJOeFVWWHJ0dHUxd1FJNFYzT3dRN3k5djFrVGlZaFRrbUhuV2xudUVNTDYzaVdsMWluaGpkaFVyUy11WlRtWXZFUEc2LTZvVGVBWXlxYjhuSjl4ZUwxU2lvLW43VUV5b1hxM25Wa21WQm8zV1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dcfb49b2e211",
       "title": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X",
       "published": "2026-10-28T12:09:05+00:00",
@@ -266,54 +278,6 @@
         {
           "name": "Portal Ponto X",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ced20e00c197",
-      "title": "Como mapear a opinião de elites se elas não respondem a pesquisas? - Revista Pesquisa FAPESP",
-      "published": "2026-10-28T12:03:00+00:00",
-      "summary": "Como mapear a opinião de elites se elas não respondem a pesquisas?&nbsp;&nbsp;Revista Pesquisa FAPESP",
-      "sources": [
-        {
-          "name": "Revista Pesquisa FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeE1SQno0czhQd3Q1MEJzM3UtaGJRODdZS3JTNzBrQ1ZnY3lGYkR1N2ZOd2R5WHZOeHZyZ2VVcllrZDFqekpfNUZvOXVWVEt1MVB6TFNnVlhxMWpyZDJCaDVvV2Q4UW13eGpRUUlsMEZlczhLMWt4UGx1bFJDTTdmNXotcEk5X1B4cU1KdGdXNzJ1cjhzNUVHVEtJX3dmRkhWMGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd9afaa21c12",
-      "title": "AVC: sinais de alerta e como agir rápido, segundo neurologista - Campo Grande News",
-      "published": "2026-10-28T11:30:00+00:00",
-      "summary": "AVC: sinais de alerta e como agir rápido, segundo neurologista&nbsp;&nbsp;Campo Grande News",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEpjUEJtRWh2blN1QTlkbFVrRWNkdkNWNGVJOUl0eEdTTjdYUG1XLXotRGFCdGtTTmVQTGF5aE1qb21GUzJrMVY5Ql9tZGdVcXEySTlRZWxJUldreXQtUlphTjJOUGJiUVNOMnhhd3dkTWZIbHBodDFVV2FjZHJoUlEtbDFyRzE2dElFc3Z6VXRWMkgzS2tLcEdfQTk2dnBsT05B0gGjAUFVX3lxTFBHYy00RlFjTU5pMUljVU5hU1ZxSXRja21hT0JwdGhOXy1tVHpkYkVNYmVYejZ2NTRRN2trZ29CU1VTY0RwdlBIUFJoeWdSaXNNdkdOWExGOEJyN0hvSjdvMTNSNkVjWkdXREJsUzlfcDl0OXFBdmxBSGxlRjlPd0xUQWNrNUhHS1NHMGZLTzZTU2FvbHk1U2tVUlNKRU5Lc21NcW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a3680358bfa0",
-      "title": "Simulação oferece retrato detalhado dos primórdios do Universo - Folha de S.Paulo",
-      "published": "2026-10-28T09:00:00+00:00",
-      "summary": "Simulação oferece retrato detalhado dos primórdios do Universo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNEFtMkJ6YTRaUXpCaWcta0FWcWRlZjhvUkktYUJzaTFXUkFIbWtoam9GNy1SUGYwaHlrUFpSZ2JyYmRUc1FfeEY4ZGxDZENCenJWZ0w1QXlrWF9rQWFZOXVXcXk2bjhzU1NjWE5HdFJVQkQ4S1UxaUhWVzRfa2Vtb0RpdkJyMFdoU0FnLUplb21oQlZlY0VZZFU3Q0duYXBFTmYzU09oX3ZWOW5TaGczd1lvQWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7647f5e637f5",
-      "title": "Pesquisa da UFRPE estuda população de jacarés no Açude de Apipucos, no Recife - Folha PE",
-      "published": "2026-10-28T08:57:21+00:00",
-      "summary": "Pesquisa da UFRPE estuda população de jacarés no Açude de Apipucos, no Recife&nbsp;&nbsp;Folha PE",
-      "sources": [
-        {
-          "name": "Folha PE",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaklvM1BIeVVGTkJxdXo5Q1FjRWpnY0VweGJLaTZ3azF1aWR6S0tqRDhvb0tZZkZyREtTN0J1dTJhMG9sU1pKd3VxSW52WWRDSjVCZUlIbzVSX3hqRF9aMXlCWFVEcVItUVBVbVR5SUlraGFqWS1TQ0xkUFdnSVJYSDVXQXBYT2QtMktFUXo3ZEd3ZzNod0NscVdPZmE3akhKSzVmUnNzODQ3bXVKX28xOA?oc=5"
         }
       ]
     },
@@ -354,50 +318,14 @@
       ]
     },
     {
-      "id": "c8616174e6d9",
-      "title": "Como é a base de pesquisa russa que chegou à menor temperatura registrada no mundo e é análoga à futura estação lunar - O GLOBO",
-      "published": "2026-10-27T07:30:00+00:00",
-      "summary": "Como é a base de pesquisa russa que chegou à menor temperatura registrada no mundo e é análoga à futura estação lunar&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQWxsWEk5WGM5YmtXckc1U3J6eHdVd3BiU2NDaHRlOFVsaXk1R196SWRhbWlTVWZETWROb2ZFMXJCNFpEVlJXbnNnU1JmWFFxbDZtWXhMdTFXT2I0cG1ySXFoSDJwOTBCaGZudy1zX3JUZmFET2FMWHBjVks4QWxPT1ZwcW9xT3ItbTVhV0tsamM3UEJTcDNMb3NJbWhicnRSb1YwcWVHclN6YzYza053bEQzZjZiZjh5cF83ZWpqUV81WU5RNFNDZkVSYnNtQlpZOVZnSXRHTGR6NVk4LXdseTBXdmI1U3hNUTBLZHpYWDJPTzNIc3prUFZDeTM2VlV4Z2hWdEd1NDlUa0VUSzhXRm9kUVJxUkp50gGnAkFVX3lxTE9TdGRQckZjTmxhajdPQThDeGtHaXZjcFB2S19Ndkc5WlQxMWJnRFVoUmRMRXBDdXJzSEFVOE9jZWhpNFBRaUdHMWY0YVRDalJFdGsxT2FBVW0xMGhHVEtYbTVDSGlxUlhlb1R2ZDk3V2VzRnRLZWExRE9HZEdnNU1yQ3VqTV93MFprTXUzMHUtNEMwbWtISnlGYUFiamhzZHpBdjdFUVBRaDhBaUFzMVhXd1NiRGRIUUQ0Q1Q2ZWpkVVdSVXBRUHE1Y0lSSDVyLU5hT3JwZjlQNUxvdzFXeXNhZjhNa2pGcVVzWFNTOGhETzBwN01vYXQ2MDQwRHppQlRTZ09SR2oxTkwwSGhxVXhDWnJTTURkZnV3VjVSRWQxMzJhSzZ1ZmM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b6ab4f0e60d1",
       "title": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue - O GLOBO",
       "published": "2026-10-27T07:00:01+00:00",
-      "summary": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue&nbsp;&nbsp;O GLOBOFrutas da estação podem ajudar na imunidade e no intestino; veja o que escolher em outubro&nbsp;&nbsp;Âncora 1Frutas ricas em fibras: opções naturais que ajudam a saciar na dieta&nbsp;&nbsp;Correio BrazilienseFrutas da estação têm preços mais acessíveis e benefícios para a saúde&nbsp;&nbsp;G1",
+      "summary": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue&nbsp;&nbsp;O GLOBOFrutas ricas em fibras: opções naturais que ajudam a saciar na dieta&nbsp;&nbsp;Correio BrazilienseFrutas da estação têm preços mais acessíveis e benefícios para a saúde&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGR1aWFsMGJIVUwwVjlUdlgtRnBORUx2ZzhKY0tubnNNVGxoNXBvYm1DdVhPcU9xYzdzUHNzSHhyZzBBcTMzRzZTbDJNNlJ3cXdjSnhRMkc4NUpEUDVFTW9iQU1XX1ptVzZBMzdGSHdBWXFCcmRlSnhHMkoyLWM4MERYaVNReGxKR2RCMkpLb3BoVmUzQmxDUEV1dEdVVzhCQ3V0cE80d1F4ZEgtd2VnNHoxSFVJWGpIWDdtc0VJejh0R1JEd0s0NFBGS0Rjc3o2YXAwaEhHOVZDeV9NVlHSAewBQVVfeXFMTzlzRWxrRnFvazI1elZYRy0zU2VINzc2N1IzRXNWYlBUdnlRYTBwdG9BeGRvaTJxbWswTjRMR1V5Z3hJOXp4SzBscXBMUkUxUk41Ulhvck1ac0U0YkNaZ3V5T242WEF5YnBaWk13RHIwR01JNVRfbGhfdnZHXzdPeFU2Wm55b0Vqb2tGMFkzSGQ3eUdXYUJ1Z1dHQ0JOR0ZTRjB4T0Ytd2QzVnhYZmhjRVFKaHRhcGdNVFBUYWdoaVdwYUlzazctUTZxRnNPQmREOE1xaWc3NldjVWpyYjE1UnVyUENlNk9LY3pYOWE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab2f4a9ae9a9",
-      "title": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais - UOL",
-      "published": "2026-10-23T08:30:00+00:00",
-      "summary": "Canetas emagrecedoras após os 60 anos exigem cuidados especiais&nbsp;&nbsp;UOLMulheres respondem melhor às canetas emagrecedoras? Dra. Tassiane Alvarenga explica possíveis motivos&nbsp;&nbsp;Estadão Blue StudioMG Responde: o que é preciso saber antes de usar canetas emagrecedoras?&nbsp;&nbsp;G15 riscos de usar caneta emagrecedora sem indicação médica&nbsp;&nbsp;TerraEra das canetas pode criar novas “epidemias”&nbsp;&nbsp;Tribuna Online",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDE1OEVIMVNicFdVeWZFSC0wZVFKZW9mZ01Hb1duaTlfMUZGVFdwUndocnNsTGJWdDFUejFLbTJKbkpFOXQxSWd2UTBmeWcxakIwTXVQdEZ0VXhDVHpiMnUyNmpEdHhyeEl6THZZNjJtb3ZJYm1uVzd5eDhuVG5mVHBpb0JyLXBVSE1QYl9CTVFnNkNVcjJnNVkxU3JDdngtZ2gyZDZWUGdFenF2U3F6V2xvdTNZWjhmOFQ4YmhrVDg4OGs0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "567ad1adc3ed",
-      "title": "Convulsões só durante a menstruação levam médicos a suspeitar de endometriose no cérebro de paciente - G1",
-      "published": "2026-10-23T08:00:00+00:00",
-      "summary": "Convulsões só durante a menstruação levam médicos a suspeitar de endometriose no cérebro de paciente&nbsp;&nbsp;G1Romena tem convulsões só durante a menstruação, e médicos suspeitam de endometriose no cérebro&nbsp;&nbsp;R7Convulsão durante a menstruação: médicos suspeitam de endometriose cerebral&nbsp;&nbsp;CNN BrasilMulher tem convulsões só na menstruação e lesão some após tratamento&nbsp;&nbsp;Olhar DigitalCaso de convulsão na menstruação levanta suspeita de endometriose cerebral&nbsp;&nbsp;Me",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS28xNHpqMW96VmRBTGFxekczWmFvM1J3R2xrU1g3SlNxNGhqN0ctU284eXUyM01TWHdoVXZySW5OREZqV3NwUzNBby1pQXo5cGd4anVodnpLSkMxQWlhdTQwMmxKWWdlc1k5U2V2Tng3NFNuM1AzdnlySFk0TjVUVjcyXzdWQVYtam1fYUJtaXc2NEkyTnZsb0dBWm9qR1JqTmkxRzdydkx2bVVwTURjSG1ISU9pSXVwa1FlMkM4bmdhZy1nUjVpb21jVXJnZGdJNW9ESlNTZU1LUkJqQXF4OVlieFRxTEHSAfYBQVVfeXFMTU5TM3ZoYi1OSi1zeDJTaDNrMlVkUERHb2w1dzJrcTA3VXlMeWNuYXg2WDdvMXpHU3ByV3lYRE9oNXlxMnEwNC1kanNyak1EXzVSdWcwY2hWMGFad3NlQzBobS1saDJDU3RIRzNPbDRhZWRoWWlTMnBSdkxvb3N4UjVyX3gtYVBZdWZBcGtmZFZyTHJLNTVfSmphUWxGTlN3SXhINFg0X000bGZWdmNuMjNpbXVud2UxMmlac3J3eTd0djBjQ3VHR0xaR1ZEUVZCcHNZMmZTbmhEd2Ywb1dPQk1MTThyajRCUFM0OG1pZlBmWEVwSU1B?oc=5"
         }
       ]
     }

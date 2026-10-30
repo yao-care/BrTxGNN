@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Albendazole?">
-<strong>Albendazole</strong> tem atualmente <strong>6 notícias</strong> e 3 indicações previstas.
+<strong>Albendazole</strong> tem atualmente <strong>5 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ Esta página combina as indicações previstas por IA para Albendazole com as no
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (6)
-
-### [Patrick Stewart: o que é a demência com corpos de Lewy, que afetou ator de 'X-men' e 'Star Trek'](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdZdTZ1QkZsMmtuaUY4U05vdVV3NUJ3Q00xanVKLUx3YmplV05VeXFJRlJLRVVOZGZDUlBsbC1QaGhFS0tOMHhYaDluMHJXTWZycktUelJKVnlVc2kyYjlaM0Nic1Z1S0tSQTdoWHFRNmtFa29XaDh5aVkyS2xmQjJ6R0IzN2d5VF9NT1R3amIzY0FJcV9ES2ZNTFRiblg1VmZTbGNTQms4S0FwZXJkWHRJRkpEb3hFZ1h6NkNB?oc=5)
-
-2026-10-29 <span class="news-indication-tag">demência</span>
-
-Fonte: [Exame](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdZdTZ1QkZsMmtuaUY4U05vdVV3NUJ3Q00xanVKLUx3YmplV05VeXFJRlJLRVVOZGZDUlBsbC1QaGhFS0tOMHhYaDluMHJXTWZycktUelJKVnlVc2kyYjlaM0Nic1Z1S0tSQTdoWHFRNmtFa29XaDh5aVkyS2xmQjJ6R0IzN2d5VF9NT1R3amIzY0FJcV9ES2ZNTFRiblg1VmZTbGNTQms4S0FwZXJkWHRJRkpEb3hFZ1h6NkNB?oc=5)
-
----
+## Notícias relacionadas (5)
 
 ### [Câncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo - O GLOBO](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSDVaWi1UMnZLWHd6RzI1M2hzUllyYTZFakVidUNEVDRJR0YxSjRUTHRKcXpIb19aY2ktQ0VzRm1GdnlGdjN5ay12VUlsQWtGNmowR0FYd1BCaV9lQ0NORnBzcjhhMDh2Y1VZX2J4UHdxQ3Z0aEdtZUV1dU8wVEtSeTVid3ZfcnlKZXZmVG1nY3JfU2o3OTJMbzBJaHRaT0dZOVRxMlpKV1BTSmc3MFVJMlpjT1ZXSnpNNU02dnFBTklOc3BoM0Zna29vTC1yaDZ5YjYya1YxV01DVGtJNlA3Y1VObkVscjVneThnRtIB-wFBVV95cUxQYkZ2NElvMFdBc1Z6ZzZSQ1RrWXlFWkU0Nll6U2hIc3Y5R1VTclFlYWFCN0pfVGRVak54QmluRHp6T1gtUnlodG15TEhoU2J3dFRvSEVZeXdtUHlMcjVZMVdya2Qyb3M5Y0pWc1pNNXg2WHNGclZfZkZlb1JrUTBOcnpVMUNJLVBkZkhCQUR5ZUhUb3dxZXZoZlllTjNTaXdZQjFJSkRtUXcyNU4zYmhHbWRPWG4wTUhvcDRBeEZteE9nLTVNaDluS01NYXpiNkdYVEQ4ZDhrQVdFLVE2eDJ4Z1dUNk9UNXJieU5IN1JNVWNkS2p4Uy1YVVh6Zw?oc=5)
 
