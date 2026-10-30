@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre DIGOXIN?">
-<strong>DIGOXIN</strong> tem atualmente <strong>2 notícias</strong> e 5 indicações previstas.
+<strong>DIGOXIN</strong> tem atualmente <strong>1 notícias</strong> e 5 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,13 @@ Esta página combina as indicações previstas por IA para DIGOXIN com as notíc
 <p><a href="{{ '/drugs/digoxin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (1)
 
-### [Acidente Vascular Cerebral (AVC) - Notícias Interativa](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTZ6MmdsWHA1em40Y1NsN2duaVFZV292bG84YkRRM040TFB0RlJFS0RXM3RicjVDLTluTDNUNTY1R1lWTEk4bmx4TkZYYkNiX3loQXN2S21QOU8yR1FRZDBuaTA0RnJHcEI4QzFOY2NmYnZMUVRxdzhTM0JvQ1NUUkI3SE94NVlDQTVSd1dLU0pjXzQ?oc=5)
+### [Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5)
 
-2026-10-29 <span class="news-indication-tag">acidente vascular cerebral</span>
+2026-10-28 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">doença cardíaca</span>
 
-Fonte: [Notícias Interativa](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTZ6MmdsWHA1em40Y1NsN2duaVFZV292bG84YkRRM040TFB0RlJFS0RXM3RicjVDLTluTDNUNTY1R1lWTEk4bmx4TkZYYkNiX3loQXN2S21QOU8yR1FRZDBuaTA0RnJHcEI4QzFOY2NmYnZMUVRxdzhTM0JvQ1NUUkI3SE94NVlDQTVSd1dLU0pjXzQ?oc=5)
-
----
-
-### [AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas - CNN Brasil](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZG1iQmJsSHFlTGtHSmdsaHJDX21kMEtZXzE3SkV1aENmaU52X0RLaDdWR3BseGtFcXZoOU9kSzk4NGZCdkxZWmk2b2hvT0ZMYWhIdGZ6dDBrbVQ3LUFmNm5FTDVYUzE1azZLcnV0ang2NEl1SzR0N1VoN1J0N1I5V3FLSndaemZVZUFRbUEtR2JnTVh2N2kzTWltb3BzRG1ySWltcFBENEVOV3daQmRB?oc=5)
-
-2026-10-29 <span class="news-indication-tag">acidente vascular cerebral</span>
-
-Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZG1iQmJsSHFlTGtHSmdsaHJDX21kMEtZXzE3SkV1aENmaU52X0RLaDdWR3BseGtFcXZoOU9kSzk4NGZCdkxZWmk2b2hvT0ZMYWhIdGZ6dDBrbVQ3LUFmNm5FTDVYUzE1azZLcnV0ang2NEl1SzR0N1VoN1J0N1I5V3FLSndaemZVZUFRbUEtR2JnTVh2N2kzTWltb3BzRG1ySWltcFBENEVOV3daQmRB?oc=5)
+Fonte: [Estadão](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5)
 
 ---
 

@@ -1,19 +1,199 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-30T12:19:49.208731+00:00",
-  "total_fetched": 80,
-  "unique_count": 78,
-  "health_related_count": 27,
+  "fetched_at": "2026-10-30T22:00:24.513077+00:00",
+  "total_fetched": 102,
+  "unique_count": 100,
+  "health_related_count": 41,
   "news": [
     {
-      "id": "2c7596dc7231",
-      "title": "Atleta que teve incontinência fecal em prova de Hyrox fala sobre trauma e pede desculpas: 'Coloquei outras pessoas em risco' - BBC",
-      "published": "2026-10-30T11:04:31+00:00",
-      "summary": "Atleta que teve incontinência fecal em prova de Hyrox fala sobre trauma e pede desculpas: 'Coloquei outras pessoas em risco'&nbsp;&nbsp;BBC",
+      "id": "9b53b217253c",
+      "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - ICL Notícias",
+      "published": "2026-10-30T20:01:08+00:00",
+      "summary": "SUS detecta quase 10 mil testes positivos para HPV de alto risco&nbsp;&nbsp;ICL NotíciasRastreamento do câncer do colo do útero&nbsp;&nbsp;G1HPV: os primeiros números do novo teste para prevenção do câncer de colo do útero no SUS&nbsp;&nbsp;VEJABahia inicia oferta de exame que identifica HPV antes de lesões associadas ao câncer&nbsp;&nbsp;Bahia NotíciasParaná disponibiliza painel de rastreamento organizado do câncer do colo do útero com teste de DNA-HPV&nbsp;&nbsp;Secretaria de Saúde do Paraná",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jaGlYaDFta1FPdDFKcFpzYXI4ODFZWjZoN0cxREJaMklja3pQbjVtYWxIRmtUWjFrVzRjUWJ5RnlkbjBCc3BHdlVkYXJ0Rl9RZWVKdXlheV9udEh2MkRNYmpud9IBaEFVX3lxTE9jdnZpZEQzM1d3bGxOMnFNdzRnTzRhMkFCWjRzalk3dmhxeFItaEExRkxmSC02eWhZSmNiTm1pVUNUOU1iSFFqOXlLTmx3di1xNG5pb29lb2ktZENiUDJ2a01OYjJjWVVI?oc=5"
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bcf5d12d4051",
+      "title": "Câncer de próstata: mais de 200 homens por dia descobrem a doença; saiba detectar problema - R7",
+      "published": "2026-10-30T19:28:35+00:00",
+      "summary": "Câncer de próstata: mais de 200 homens por dia descobrem a doença; saiba detectar problema&nbsp;&nbsp;R7Saúde estende Outubro Rosa e alerta para os cuidados do homem no Novembro Azul&nbsp;&nbsp;TásabendoCâncer de próstata: como o diagnóstico pode afetar a vida sexual e os relacionamentos&nbsp;&nbsp;O GLOBONovembro Azul: Brasil deve ter 77,9 mil casos de câncer de próstata | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCNovembro Azul: por que o Ministério da Saúde e",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjRNdHFmd1ktd3FQMWlIWlE4dllDZEhCSjQ0bTBnT2xVRXN4c0t3ZVdhdjFZMEE4dTlmS2QwYm9wTTIwOGFHU1B2dU9KYmtwWC05QjVWMHR5Wm9Ld0pzLVRfcnh2cXdvSnQ5SkFSNEx6c1pJSGNVQjRaQlRfRkh2dGhreGJHdV9NbWFfN3BOSGhyb2F0TW5ubmFpNmo0c2xkRnJrQ25Nb2ZNUS10QmIzajJ3V1pvQmp4UDlNNzhGdWNkc3dxa1J2WkRYTWI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad6751198186",
+      "title": "7 hábitos cientificamente comprovados para reduzir a gordura abdominal - UOL",
+      "published": "2026-10-30T18:36:25+00:00",
+      "summary": "7 hábitos cientificamente comprovados para reduzir a gordura abdominal&nbsp;&nbsp;UOLBarriga da menopausa existe: o que é a gordura visceral e os hábitos que ajudam a controlá-la&nbsp;&nbsp;Tua SaúdeCaracterísticas da gordura da barriga pode revelar risco cardíaco que o IMC não é capaz de detetar&nbsp;&nbsp;ObservadorAlimentos ricos em fibras e gorduras boas podem contribuir para o controle da gordura visceral&nbsp;&nbsp;Amazonas Em DiaInvestigação da FMUP “lê” na gordura abdominal sinais de ris",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUkhOSUNPY3FPMzdULUtOU05Yd1hlQl93OU4zTzhuOGNySGR6WFVkWlM4MGZqWkRJdl9vLVFWTE5rY0JzbTVQSHVRa2NBQzJjN1VjMjZ3eGp4Y3ZHYjdhQk05NDZBYkZTdkNOWGh2Z0FmTm5KVjZsME1tdVpfZ0hXVmxleUVMN3BKQ1MwLWJ4V1BwVjJ3dXR3TkEwMGtwU0NNbGNmcXRJWWl2RjIxRDE2UlFwYlVKNEN2N2lFWl9UcEZDVWJLdzlmdHpIeHpHTWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06c73ed30202",
+      "title": "Rio registra alta de casos de Mpox; ex-secretário de saúde faz alerta; saiba como se prevenir - O GLOBO",
+      "published": "2026-10-30T17:09:17+00:00",
+      "summary": "Rio registra alta de casos de Mpox; ex-secretário de saúde faz alerta; saiba como se prevenir&nbsp;&nbsp;O GLOBORio de Janeiro teve 45 casos de mpox no mês de setembro&nbsp;&nbsp;BandRio de Janeiro registra alta de casos do vírus Mpox&nbsp;&nbsp;Rádio 93 FMMpox: presidente da Frente Parlamentar da Vacina pede mais imunização após Rio registrar 43 casos&nbsp;&nbsp;Extra onlineCasos de Mpox no estado do Rio de Janeiro crescem 77% em comparação ao ano passado&nbsp;&nbsp;CBN",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaUZ3S1FZSGpQbTF6TTJ3ZmNreU9vcUUxRmg4QmdEb1V3N2hUOTZTTC1va1U0THp1ZS1KNnU1VndQN1dSdVlPQXEzNUdpRXRNTTB1SEwzNnJhY3VEMnhmaFNvQmhWWHkxSFhCSVI1aUl0QTF4WllYbWxkeEJmVmxVeTVaYlYxdlNfaTUydkpUQnZ1TUV4X3ZJbXBTV0U1WF9iZmEydnNvTi05TjdZUVVRZUhRNlVoaFFacFVPZmVzZlFmbzRlWERJMzFSa3VUcVFhZEFQb25wS0lWRzBsdng3c9IB7wFBVV95cUxNU1RlTlU5WTdKY1Vodlo4UFZubnFYd3RDWW5FMERBUjZBb1lYR0pCUVZ2c1ZSUFhUN2JTT0N3SUN4MHlfUnFzQXdUOUYtWW1kbDU5S0tPM3M5U1F3WTJCWHA4SEl0LU81dVEwQ1VtNW5RaG90WHVVdUpja3dtZDVxaDZhZ2VCTERHaTF0T1k0cVdLSTFZQjRRbE94NU5LVnN0QTVGQnV4SnZYT0xwbjAzTEQ3eTA0cnBNbVJSbE9fcFNYbUVhWWpLRy1PZGV4dlhwemRpdDF2aENNdzlwT1RVcnRzZk9CYktjaUJfUTFpaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a445609457f",
+      "title": "Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença - UOL",
+      "published": "2026-10-30T16:43:36+00:00",
+      "summary": "Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença&nbsp;&nbsp;UOLQuais são as pistas do Alzheimer antes dos primeiros sintomas?&nbsp;&nbsp;Revista Pesquisa FAPESPNovo exame de sangue para Alzheimer chega ao Brasil; veja como funciona&nbsp;&nbsp;IstoÉBiomarcadores sanguíneos e Alzheimer: o que está mudando na investigação da doença&nbsp;&nbsp;CBDLPerda de memória nem sempre é Alzheimer: conheça outros tipos de demência&nbsp;&nbsp;THMais",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLU42cGVpazJNNUJxQUk0REN5bW04T0JMSjBKX0Q0dUNFWkppMkgwM3JkVHdiTXlwNENyUWVtWWxiSmdFdDZhVXhKN2I2STBfUkZLREU1RXpxaEZ3VlpYVmZYY0wzWkk3aTMtMU1oUFBOMlN5eXJiX05Jc3lkS2VGQlNweVRNNWNoSTdvMWItakNRM1lEclQxMm84anB3N1ZZUXNhTy1rT0h0WXpvVGdNRWwxby14RGl0eWVlaktVZ1dmR3N0VmlWaTRHOXMtSUY5c3NpTlJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ad546e15d30",
+      "title": "Apenas 1,47% dos municípios cumprem meta de vacinação contra gripe - Folha de S.Paulo",
+      "published": "2026-10-30T16:00:00+00:00",
+      "summary": "Apenas 1,47% dos municípios cumprem meta de vacinação contra gripe&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWIwUi1Vc3F4R2RWcWREUC03SHhjcXZOUGphRzZZaEVNbVNNazlCMGNXYVdHQkRySWlvYXZvWWhvT2J0TXQ3QzhZalpoOHdURWl0ZVU1MjJLd3d1cTdJSGZ6TExBUV9lZGYzT0ozN2lxdGhNOXRoVGFUR1RnU3FfZ2YwbGpyZGpWMExubzVkTG5PcFUyMGxzUkFEN3gxcmFJS3BhX19UQi1QTG1fRFdnS3phV1NvdjU3NU41N3NsSEQtNEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd1a18d72ae5",
+      "title": "Donaduzzi Educação firma parceria com Stanford para fortalecer a inovação em saúde - Toledo News",
+      "published": "2026-10-30T15:42:00+00:00",
+      "summary": "Donaduzzi Educação firma parceria com Stanford para fortalecer a inovação em saúde&nbsp;&nbsp;Toledo News",
+      "sources": [
+        {
+          "name": "Toledo News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGRvcUpJeUhwV3l1SG4xbGRBUVRxLTYxajA2TDZLYXNCSUNGSVU1eThyd1AzbjY5WGpTSzBoYkpTR2MwTkdaa2lFYmVZcGNUV21EQU9GT3NJNDFmS1pQLVpyckRIelFNVk96dktoNVFpM2hSSEtWcDZpa2VoTEpvWVNEZmpZTFBJWFZPZ2R6amdhd280THFsRktGSzZqZmxnZ3cxX2RRLVZBeGduekd3QVVOajlZR0ZBU1h3RDlUbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c168ae496ae1",
+      "title": "Novo tratamento do câncer de próstata aumenta chance de paciente manter continência e função sexual - Estadão",
+      "published": "2026-10-30T13:52:00+00:00",
+      "summary": "Novo tratamento do câncer de próstata aumenta chance de paciente manter continência e função sexual&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeXloRFZubE41T3hJRWt2R3BMeHVGcHlxeDZCV05OMk5QZF8wSkJMV1lndlN0YzJxYV9DSUNlWTJvZ09IeTVGRGpBSkpvV2ZrblZTQlpETWZUMS03a0tDZkU4d2MybUFHbDJwVjVhc3NWcWtscHVjVVUtV0xFRlFvWEpYODE2QjFFbHEtSTdrVVdfZ1N5VWlkRHYwdVVwVmhHVlpkaGFtU3JIMWRfTENHYW15Y2lNSFFwN2NzTnotdktWQmtvanlOZFVkZUI5cnpMR3Q1VnQxNUluN1lGdHdReHFn0gHnAUFVX3lxTFBhR3J4N2ZmWWcyX01fczg2eUJqZjFla1hVRW9hRlVWTXc1cFMzVlhJUHNwWGIzOGNROWlyaTNCUTVvWU5mUnc3S05FWDlpcFE5eGdlaE91UFpJTzEwbE9XOXFrSEE3T2RWTnRubUdvSzc2ZGFtQzNremtzV1RzOTZkeUYtRFc4V1R0NEVNd3JIR1NUc2tiRkZZYjRsQVJDc3djaXV2WWhMRnNPVThMUG1tUFkxeVJQWmFuN1oyNEIwMkNjWHAybTBobGZJbnpYa0FicHdiOUJmQkZ0ZWtWMEJDaTNSUkM4UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99f50989d324",
+      "title": "Teresina libera vacina contra gripe para toda a população a partir de terça (3) - CidadeVerde.com",
+      "published": "2026-10-30T13:06:00+00:00",
+      "summary": "Teresina libera vacina contra gripe para toda a população a partir de terça (3)&nbsp;&nbsp;CidadeVerde.comVacina contra gripe será liberada para toda a população de Teresina a partir de terça-feira (3)&nbsp;&nbsp;G1Vacina contra a influenza é liberada para o público geral no Piauí&nbsp;&nbsp;Portal O DiaVacinação da gripe: FMS começa imunização de público geral a partir do dia 3 de novembro&nbsp;&nbsp;G1Piauí lidera ranking nacional de vacinação contra gripe e libera imunizante para público gera",
+      "sources": [
+        {
+          "name": "CidadeVerde.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblo5VmJFdlRqY2poa3VGVzV2cHRvN2FsTDVFMFV3YnE3dURjdHdtUUhwM3BLS19td3pvemhmTzNRdDc1VlZ2SnRYMVBUR0dtcVNKVWZEbkZPdlJEaEk1ampvd09IT1lESGlUdk95NWNlc0FlNUhQRDFRRVFNLVBxSXJZN3NPS1ozbzZlSHRnbWprOUdYVC0zZElmNlNPTTdlelNlNHpDSTdPMXJSVHp1TTNGWW0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "43b06f9ccf4a",
+      "title": "Preocupação com bronquiolite e vírus sincicial cresce entre gestantes - Agência Brasil",
+      "published": "2026-10-30T12:45:00+00:00",
+      "summary": "Preocupação com bronquiolite e vírus sincicial cresce entre gestantes&nbsp;&nbsp;Agência BrasilGestantes ainda desconhecem prevenção contra VSR pelo SUS&nbsp;&nbsp;Hojemais.com.brBronquiolite: 79% das gestantes têm dúvidas sobre a doença&nbsp;&nbsp;Tribuna do ParanáVacinação na gravidez pode reduzir casos graves de bronquiolite em bebês&nbsp;&nbsp;Rádio Clube de CanoinhasPesquisa revela que 79% das gestantes brasileiras têm dúvidas sobre bronquiolite e VSR. Saiba os riscos para os bebês e como f",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmNDcTBBMERhLVNrdUNXeDNTX3dlak9vUUduNk0yTHl0aEtFSEVJSlZaYkxkeGZiNUNWclJOaVhkajlfX0NTXzJsc1E5bFZuRlhLZkdNVzVsSG84dzdaUGlEMVRwZkpyMjFHLW53cWJtMV9sYlFpX3ROZkhGQ01aRmIyUVVMUWpzMnY0a2l3Zzh5ZW1yNzJLdEk1V3VESXFTWHY0UWp0cGszRmg4WFZmamdoT2ViWHNSbVAyRHRZbG1TQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b133d4d8ea4a",
+      "title": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa - UOL",
+      "published": "2026-10-30T12:33:00+00:00",
+      "summary": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa&nbsp;&nbsp;UOLMenopausa: 7 sinais que merecem atenção e avaliação médica&nbsp;&nbsp;G1Menopausa: diagnóstico é clínico e quase nunca requer exames&nbsp;&nbsp;Portal Drauzio VarellaFogacho não é frescura: o que o calorão na menopausa revela sobre a saúde da mulher&nbsp;&nbsp;VEJAPerimenopausa e Menopausa no Brasil: desafios no diagnóstico, acolhimento e políticas públicas&nbsp;&nbsp;Senado",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTWtQa042OUMwT1BnLW1TdFdNQ0JVNlNhVjlnYWJvX2RwR0ZWU3dnelV2Z3dvXzlYMUw1UEs3YXdWNjJNbXRHT19JMmRiUEpCdjBBLVZrVllabW1YSUZfUWpTVHpKVVU2QTdaZmNHdk5WSE13TmxxWWhyczdJajhrcVp2SndqdllEdWdneXpxMkI5VW83d01fUFNsXzhGWk1kNm5iR0dNRkhrbElteUo1YWFCMnRCSUhMWkZqYXVQcFFsSnFNajMtMjdiOXpOcElHRXQ2cTNBbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "74aebad53073",
+      "title": "Astrônomos identificam a primeira estrela verde já registrada no Universo - Correio do Povo",
+      "published": "2026-10-30T11:33:47+00:00",
+      "summary": "Astrônomos identificam a primeira estrela verde já registrada no Universo&nbsp;&nbsp;Correio do Povo",
+      "sources": [
+        {
+          "name": "Correio do Povo",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdWJhUUZFZlBHTVpEdjlTYURPVFNhRmVsd0stcXhWU29yZEVKQXBLaklPZVFfb1pTUXBpZFc3QlNJaktIalVVVDgwWUpNdm5Cd2NxSXN4aE13QWRmY0ppTGdBM1dVazBWWkdNUnZxUlVYWk82cWRHay1sbGdzcDdEVjlucHhaY09tYmRHcmUzVHg2Mzd4UXhkbE96ZUpZcDgtb3d3WE9nbTh4REF2X2pSVS1ILS15dVA1azhMTFR4eU5WYmVTcEkxc09fQkFKd2YzaFQ0Zg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a2299887c485",
+      "title": "Pessoas de até 59 anos têm até sábado para se vacinar com a Meningocócica ACWY na cidade do Rio - O GLOBO",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "Pessoas de até 59 anos têm até sábado para se vacinar com a Meningocócica ACWY na cidade do Rio&nbsp;&nbsp;O GLOBOVacina contra meningite: cobertura no grupo de 11 a 14 anos é de 67,1%, diz novo painel&nbsp;&nbsp;VEJAGoverno Lula disponibiliza painel para monitorar vacinação contra a meningite&nbsp;&nbsp;CartaCapitalGoverno cria painel para monitorar vacina contra meningite em adolescentes&nbsp;&nbsp;UOL NotíciasVacina contra meningite: veja o que mudou e quem deve tomar | Diário do Grande ABC -",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVzNyVWpfYjNRSVk2UUlHbl9RbmQ2b2RBZndCR0NwOG1zTkNaR2d2SFhuZi1zT0c5ajJGVm1DQlZkNGlYN2ZuTlh4UjZtU1d4OEVSS1R4N0N1SUlCWTh6OXphTzBSczFQQ1Rwd0NVa1pfRWNBa1o3cFdvakxEWVI1UFBWUzk4a1VKeTBKY1VnWjBWZXBwR1NZYVFNTllFVzBkS0pwak5OSzh0UDVmb2NkajdKbnZKdXRCMXlHeXlodXVWN3QzUDQ1LTc4M1ktZnIyb0xaTnlCcGJFbVlyY2pNZ1Bqd9IB8gFBVV95cUxNSWQtQjhZcGF4M2pFY1VDTHNiNVRxdTVsdWdIa2Y1S1lPcXRueHM3dXd4TlJFYnozSjNrUVhHaE5wbkFnNVRIQlBiUlNER1BKb080N25LV2Q1cDYzbWJnaHVmOXlfaWVGRUFUcm5wcUcwUnR2cnUyV21fUVRVU3BncmdBZVRRNUVYbXdkSjIxUzVkdFpkTnlsZzFhSVdaYVNYLU1vZkY0UkFNbGg3eGJXS3ZsZ2NrMzJOZmVucXE2a0ZYdEEwdUJGanZkRERYd1hHSmpMTUJWQXljdWw3NnlmQmJzdDl1dnpUVVFEQ0RUbm5TUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ce9bea66d29",
+      "title": "Reumatismo não afeta só idosos: veja os sinais de alerta e quando procurar um especialista - Jornal Correio",
+      "published": "2026-10-30T08:10:00+00:00",
+      "summary": "Reumatismo não afeta só idosos: veja os sinais de alerta e quando procurar um especialista&nbsp;&nbsp;Jornal CorreioMais de 15 milhões de brasileiros convivem com doenças reumáticas&nbsp;&nbsp;Jornal de BrasíliaDoenças reumáticas podem afetar crianças e comprometer órgãos além das articulações&nbsp;&nbsp;O TEMPODia Nacional de Luta contra as Doenças Reumáticas alerta para diagnóstico precoce&nbsp;&nbsp;O ImparcialCalendário: Dia Nacional de Luta Contra o Reumatismo – 30 de Outubro&nbsp;&nbsp;CRF",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVkxzX2VSOTFabnJDOGlhcXZlM0ZRdDZnZ2pBTDVGODZPaXM5Tkt0b3JvOVN6TFJuSDZCU19sTkxpRFF3VU45VmdaajJQMTFzMlhyTVBmQ0xORVNiMDkwOFVzckJTM0w2bVlWRWQ1azBrUnA5N201OXJvWTV2aERiVVNoRmFGTWFtZkpCaWJmTGZWd24xeTBVY0Y1QThmVGJ0T0hzQ2Vyd2V0aUJDMmZlYmI4U3F3c0tJWlNYSkkwWE5OZ1ZTUFU4T01YVm9iZEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61b0e6fe6381",
+      "title": "Professor da UAST está entre os 2% dos pesquisadores mais influentes do mundo - Farol de Notícias",
+      "published": "2026-10-30T08:00:33+00:00",
+      "summary": "Professor da UAST está entre os 2% dos pesquisadores mais influentes do mundo&nbsp;&nbsp;Farol de Notícias",
+      "sources": [
+        {
+          "name": "Farol de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLVpmVW5YNjJZVWdnbUxBMWR0azRGU3RIMjNxdEM0VHBVcm1rVU1yUDZGeGVjbkN5eUhIRTdBMnFadjU4WXNzbVJBVkdCVGV4bVlaUW5QRk11djBNMzYtajNXbHQwQ3k5Z05UUTBqODJNVTdERkJ0TmV1bVZic3h2TnkzMGNFU2JaV0NTNWxWUzNuSEt3MC0yNzh1eExYc09SUzdVajV0LUgwOVlVRFhLaEhFX1nSAbQBQVVfeXFMTy1aZlVuWDYyWVVnZ21MQTFkdGs0RlN0SDIzcXRDNFRwVXJta1VNclA2RnhlY25DeXlISEU3QTJxWnY1OFlzc21SQVZHQlRleG1ZWlFuUEZNdXYwTTM2LWozV2x0MEN5OWdOVFEwajgyTVU3REZCdE5ldW1WYnN4dk55MzBjRVNiWldDUzVsVlMzbkhLdzAtMjc4dXhMWHNPUlM3VWo1dC1IMDlZVURYS2hIRV9Z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b97c50482392",
+      "title": "Mastruz: a planta usada contra vermes que a Ufam já testa como possível aliada contra vírus - Cura pela Natureza - Portal do Holanda",
+      "published": "2026-10-30T06:50:00+00:00",
+      "summary": "Mastruz: a planta usada contra vermes que a Ufam já testa como possível aliada contra vírus - Cura pela Natureza&nbsp;&nbsp;Portal do Holanda",
+      "sources": [
+        {
+          "name": "Portal do Holanda",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUENNeUh3R2k3aFZsbHRoeXl3WGUyTzZIcWt1NDFFY3Z5MnRnZFMzT0FxQ3dPemZmeWRxRXo5MU9lTWtFWnczcl9fdWlCTThRTlBCODNNa0NMbzVfeWxjckVZcUtsaktWdXhfYXNJNGRONnI3YjkwN19mZlo1UE85Mk1ZX3JmMk5QRHc1VTJnSnJZZU9lMU5faEJKQnhRYlptYkxTNEgtX18zZG1lUVJRSW1YVDU3Z0kwTHROZGl1SHFmcTdvM2FDRmxoTUczQTczVG51aHZBV1UzenFF?oc=5"
         }
       ]
     },
@@ -45,7 +225,7 @@
       "id": "2a41f48f5bb1",
       "title": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo - G1",
       "published": "2026-10-30T05:00:00+00:00",
-      "summary": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo&nbsp;&nbsp;G1Excesso de treino pode alterar a química do cérebro e afetar o descanso, mostra estudo&nbsp;&nbsp;TerraExcesso de treino afeta a regulação química do cérebro, mostra novo estudo&nbsp;&nbsp;InfoMoneyExercício faz bem, mas o excesso pode cobrar seu preço&nbsp;&nbsp;comunhao.com.brExercício pode cansar os músculos e aliviar a mente ao mesmo tempo; estudo explica o paradoxo da fadiga&nb",
+      "summary": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo&nbsp;&nbsp;G1Excesso de treino pode alterar a química do cérebro e afetar o descanso, mostra estudo&nbsp;&nbsp;TerraExercício físico em excesso pode afetar a química do cérebro, diz estudo&nbsp;&nbsp;TNH1Exercício pode cansar os músculos e aliviar a mente ao mesmo tempo; estudo explica o paradoxo da fadiga&nbsp;&nbsp;O POVOExcesso de treino afeta a regulação química do cérebro, mostra novo estud",
       "sources": [
         {
           "name": "G1",
@@ -54,50 +234,38 @@
       ]
     },
     {
-      "id": "43a8fdb861d5",
-      "title": "Estudo estima mais de 800 mil mortes provocadas pelo Super El Niño; Brasil está entre os mais afetados - O GLOBO",
-      "published": "2026-10-29T22:07:28+00:00",
-      "summary": "Estudo estima mais de 800 mil mortes provocadas pelo Super El Niño; Brasil está entre os mais afetados&nbsp;&nbsp;O GLOBO",
+      "id": "129e81c96451",
+      "title": "Brasileiro de 26 anos cria equação matemática inédita para tratamento do câncer de próstata - Só Notícia Boa",
+      "published": "2026-10-29T23:04:00+00:00",
+      "summary": "Brasileiro de 26 anos cria equação matemática inédita para tratamento do câncer de próstata&nbsp;&nbsp;Só Notícia Boa",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb0YtWnkyY081R1BUWFFkSEkzNVVuWGMwaXpBVnZUMTRDUkkzVi1GTlYyWG52UzljX3ZRSWkxMGl5a0tBUTVGd3I4WV9qS3lwaEx1OVhjbVctUlBnR0NfaDVvZ0pRZ3p3ZmN0VWFTNk1NMVhlSVhIa2lNa0E0Q2JqcFNpeUVTYzRfVHFEU3V0U0NCZlhZX1pLMDdPWXE0Tnlab3lPano0NmNtMldKOHE4c3VyaU5DdWVRYjJiVGlGdjg0enBIblFjakVsdDM4TkxuTnFCRTRONEtOamJ0R2J0NVlaSG45UHpXUUZmZlYyem1kX0hDYVcyddIBhwJBVV95cUxPLW9jU3NSd3FscW91Nm9lWHBMMmppcTByV0dRR3JNOWJpTEF4SDJoV3Iwd19qT1Y1dFduYXhGRTdjbzNRd05ES2pnMlltQ2llRnExWlNXMkotWDZIbVlJNDEtZ1BUQVhndDR6a3RzVWhHb3Vmb0JuMEpXNWJ0VWxNYml0TjMyUzNiTE9XU21qUWlGRWdfZ0NiM0VyX1k5WDF1ejJuUU9fVGNITzZlZ21QQUh5TTZ6SFVIeHdXd2JFQXlpaW1fazR6ZS1zOTczVWRoYWJ1ak9FamcycFA1c2tfbUtvU3c2R3R6VGpIV2JBbGxkLUphVURPUzg2Q0Jqang5MjlEUUNlYw?oc=5"
+          "name": "Só Notícia Boa",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHg0QTBtUlNxWFVmOXl1cGdQNzIxV1lBbENaaTYxN3dWSDl6SjF6NzZPbEt3dGlEWFlZWEFtMlBOZTBHb1hmeXphNjJaM2VRcXY2NTZ3b2VPX1Y3YTQzakpVLU9GdGVQUllnUklpa3VldHdMbm9uekhmS1p4NVJoc2pETXlkai1aSmVkNzYtX2hhRkNPZUlHMlBPOFhnUWZG?oc=5"
         }
       ]
     },
     {
-      "id": "623bfacb2a10",
-      "title": "Corpos de Lewy e Alzheimer: entenda diagnóstico que afetava Patrick Stewart - CNN Brasil",
-      "published": "2026-10-29T21:12:56+00:00",
-      "summary": "Corpos de Lewy e Alzheimer: entenda diagnóstico que afetava Patrick Stewart&nbsp;&nbsp;CNN Brasil",
+      "id": "c45cf51305fc",
+      "title": "Patrick Stewart: o que é a demência com corpos de Lewy, que afetou ator de 'X-men' e 'Star Trek' - Exame",
+      "published": "2026-10-29T20:42:00+00:00",
+      "summary": "Patrick Stewart: o que é a demência com corpos de Lewy, que afetou ator de 'X-men' e 'Star Trek'&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM1NFMmV2LU9lUHM1dDF0YnZQYm9MMXBDN1VqQ21RZm1INU1pTUw3UHpTdE1sSVFnbDhQWU9nRGNSY3YzUHhuWWVNX3pwbmlrZVRkYXpMWW1YdW1MeFB3SkZ5VFdhdHpVTVVTZFNTUVhLeWZuTXZ5a24yZk1tNGs0UW92V1QydEduaGg1QzVjb1J0Tm5pdFBrNVFUYmpFRFJWYWVYaHJEbW9EV2RLNnA0?oc=5"
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdZdTZ1QkZsMmtuaUY4U05vdVV3NUJ3Q00xanVKLUx3YmplV05VeXFJRlJLRVVOZGZDUlBsbC1QaGhFS0tOMHhYaDluMHJXTWZycktUelJKVnlVc2kyYjlaM0Nic1Z1S0tSQTdoWHFRNmtFa29XaDh5aVkyS2xmQjJ6R0IzN2d5VF9NT1R3amIzY0FJcV9ES2ZNTFRiblg1VmZTbGNTQms4S0FwZXJkWHRJRkpEb3hFZ1h6NkNB?oc=5"
         }
       ]
     },
     {
-      "id": "9bfa6d35045d",
-      "title": "Acidente Vascular Cerebral (AVC) - Notícias Interativa",
-      "published": "2026-10-29T18:31:59+00:00",
-      "summary": "Acidente Vascular Cerebral (AVC)&nbsp;&nbsp;Notícias Interativa",
+      "id": "b0fada84fb77",
+      "title": "Pesquisadores colocaram uma câmera a 535 metros de profundidade sob o gelo da Antártida, e até eles ficaram surpresos com o que encontraram - Xataka Brasil",
+      "published": "2026-10-29T19:31:27+00:00",
+      "summary": "Pesquisadores colocaram uma câmera a 535 metros de profundidade sob o gelo da Antártida, e até eles ficaram surpresos com o que encontraram&nbsp;&nbsp;Xataka Brasil",
       "sources": [
         {
-          "name": "Notícias Interativa",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTZ6MmdsWHA1em40Y1NsN2duaVFZV292bG84YkRRM040TFB0RlJFS0RXM3RicjVDLTluTDNUNTY1R1lWTEk4bmx4TkZYYkNiX3loQXN2S21QOU8yR1FRZDBuaTA0RnJHcEI4QzFOY2NmYnZMUVRxdzhTM0JvQ1NUUkI3SE94NVlDQTVSd1dLU0pjXzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de784054a826",
-      "title": "Deficiência de G6PD: sintomas, causas e como diagnosticar - Portal Drauzio Varella",
-      "published": "2026-10-29T18:06:03+00:00",
-      "summary": "Deficiência de G6PD: sintomas, causas e como diagnosticar&nbsp;&nbsp;Portal Drauzio Varella",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0hkX2xXMnZ4Y0V3VjQ3NDRXNC1iazF0eG9HdWtsYlhoaUVqbVlfZW9RZUdJOW1xY2lqTHBubVl5SW83UTN5ZXB6bW1xV19CTlRBSnQ2bm1qeUg2N2dhUDBXelFjSmdpb2ZKT3dTdllaVGdzSUZvX0xjVEZMZGRoR0JuY2Vzbjg4U2h5Vk9nMEJVY3JHaGpCaC1PQzBibW16ellpQg?oc=5"
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZXFURzAzTGNuNWRXMktJVXhaOEEtczRnNnVPZkpBcEh4WXFxYjRLN1BWWjcxQzZqdWtlaXRLVTdQY2txeUlHN0hHQTRsMk9jMmxfTE1GWFdfRjMtZkt6TkpyV0l4TFVLUlQ2YWRWdENCTWxrdmZRTTlMYnlTZUdaYjBWdks5UFRreG1OUDhONDNTbnVFTzg2anRWUEowYUIyd0tuSXFkal9yM1dLenJZNG02c3hPODdkRXlsUjRqX1h3RllmaUlGNFRMd1VvU210RXBZQTdubTlrTTliWFBZakZwV0d3anRrdGxUM0NRS3hxWWFwWHBrZkhvN1B1c1N4?oc=5"
         }
       ]
     },
@@ -105,7 +273,7 @@
       "id": "320d7e18e322",
       "title": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas - CNN Brasil",
       "published": "2026-10-29T16:58:04+00:00",
-      "summary": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas&nbsp;&nbsp;CNN BrasilSUS amplia tratamentos para AVC, mas acesso depende da região e do tempo de atendimento&nbsp;&nbsp;Folha de S.PauloNeurologista explica quais são os sinais e como prevenir acidente vascular cerebral (AVC)&nbsp;&nbsp;G1Unidades de saúde de Volta Redonda promovem ações pelo Dia Mundial do AVC&nbsp;&nbsp;Prefeitura de Volta RedondaOpinião | A prevenção de um AVC começa com noites bem dormidas&nbsp;&nbsp",
+      "summary": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas&nbsp;&nbsp;CNN BrasilOpinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;EstadãoDia Mundial do AVC: HSJ promove ação e reforça a importância de agir rápido&nbsp;&nbsp;G1No Dia Mundial do AVC, Barco Brasil leva campanha “Cada Minuto Conta” ao esporte&nbsp;&nbsp;CartaCapitalDia Mundial do AVC: entenda como a saúde vascular ajuda a prevenir a doença&nbsp;&nbsp;GZH",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -129,7 +297,7 @@
       "id": "5d54aa84169e",
       "title": "Câncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo - O GLOBO",
       "published": "2026-10-29T15:25:44+00:00",
-      "summary": "Câncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo&nbsp;&nbsp;O GLOBOAvanço do câncer colorretal de início precoce na América Latina e o papel da alimentação na prevenção&nbsp;&nbsp;Estadão MTCâncer em jovens e envelhecimento acelerado: o que os números indicam&nbsp;&nbsp;Instituto de Longevidade MAGCasos de câncer antes dos 50 anos aumentam; causas ainda são investigadas&nbsp;&nbsp;THMais",
+      "summary": "Câncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo&nbsp;&nbsp;O GLOBOEstudo aponta possíveis causas da agressividade do câncer de intestino em jovens&nbsp;&nbsp;Folha de S.PauloEstudo descobre por que o câncer colorretal avança de forma agressiva em jovens&nbsp;&nbsp;TerraNotícias sobre Saúde: Análise revela que as taxas de câncer de cólon estão aumentando entre todos os adultos dos EUA&nbsp;&nbsp;TradingViewAvanço do câncer colorretal de iní",
       "sources": [
         {
           "name": "O GLOBO",
@@ -141,7 +309,7 @@
       "id": "5249e0149b65",
       "title": "Turista dos EUA toma vacina de graça no Brasil e economiza mais de R$ 2.000 - UOL Notícias",
       "published": "2026-10-29T15:23:00+00:00",
-      "summary": "Turista dos EUA toma vacina de graça no Brasil e economiza mais de R$ 2.000&nbsp;&nbsp;UOL NotíciasAmericana visita Brasil e usa SUS para tomar vacina de febre amarela: 'economizei US$ 400'&nbsp;&nbsp;GloboAmericana toma vacina de febre amarela pelo SUS e diz ter poupado US$ 400&nbsp;&nbsp;MetrópolesAmericana toma vacina contra febre amarela pelo SUS e diz ter economizado US$ 400&nbsp;&nbsp;Ver-o-Fato",
+      "summary": "Turista dos EUA toma vacina de graça no Brasil e economiza mais de R$ 2.000&nbsp;&nbsp;UOL NotíciasAmericana toma vacina de febre amarela pelo SUS e diz ter poupado US$ 400&nbsp;&nbsp;MetrópolesAmericana toma vacina contra febre amarela pelo SUS e diz ter economizado US$ 400&nbsp;&nbsp;Ver-o-Fato",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -150,14 +318,50 @@
       ]
     },
     {
-      "id": "ac9251acc29f",
-      "title": "Estudos de psicologia concluem que adultos que agradecem ao motorista do ônibus não são apenas educados, mas também demonstram grande empatia e consideração pelos outros - Rádio Itatiaia",
-      "published": "2026-10-29T12:48:48+00:00",
-      "summary": "Estudos de psicologia concluem que adultos que agradecem ao motorista do ônibus não são apenas educados, mas também demonstram grande empatia e consideração pelos outros&nbsp;&nbsp;Rádio Itatiaia",
+      "id": "57780d4ecd01",
+      "title": "Cientistas brasileiros exploram uso de ondas sonoras para destruir vírus da Covid-19 - Superinteressante",
+      "published": "2026-10-29T15:14:00+00:00",
+      "summary": "Cientistas brasileiros exploram uso de ondas sonoras para destruir vírus da Covid-19&nbsp;&nbsp;Superinteressante",
       "sources": [
         {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPdnBVanM2djBUTFliZXBWQjlQU3R2S1F6aXQxbldkWkVyS2UyUVZuOEJnemtVYjRoSjI1UzJFY0Y2ZEh5c1BQcks0MUhMS0c5NkNOSXQzNkd0ZnNod19ibkE4WGVZOVlEelp3SjBzQXRQTkVkWWZjdnFfWFItakswS2M2azQ3bHFqQXlNZWJTQy12dzJveEY4MUxyVGwtbXl5M2ljOU5YWnRrLXMzZU0tMEY0ZXdfal8wcFJIbDN3TkZmcFlndFRXMkZvcWU5cm5OUVk5Z1hwSXFaZTB1cEZaRU1zdkxfMGJ4SXEyckFPTDAtX2ZqSjdMQnVSekNwdVpleUZBM3Q5clZKTlh2MWo4a3gyYmVoZXAzTF9VTWxvS3BuSTRMbE9tOW51ZWk?oc=5"
+          "name": "Superinteressante",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3dQb1FXcVg0XzR4czFiZzB2NG52OGVXQzhxRHBTdkUydENXSWh6NDVMREFPd1k2aU1ab3ByNDVRcjJ5UkNzcE1KeTh0anZKT1FPV0wxY1dMVHNEV3RjdzUybWtnNEFFM3o4VEc2dVY2WGNwenNHclpvaC0zTnZsQnpXallyamRySjJMTTJLTG1aaWZ1dmNTQ1pTa0VoeXZmcy02aWdmNlhRQXUtM1VXSTVnbi1MNFBMYTlYcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3aedbf1b2c0",
+      "title": "Senado faz consulta pública sobre projeto de lei que criminaliza recusa e desinformação sobre vacinas - Brasil 247",
+      "published": "2026-10-29T14:43:38+00:00",
+      "summary": "Senado faz consulta pública sobre projeto de lei que criminaliza recusa e desinformação sobre vacinas&nbsp;&nbsp;Brasil 247Senado abre consulta pública sobre projeto que pune quem recusar vacina; confira votação&nbsp;&nbsp;Tribuna do PlanaltoProjeto prevê prisão por recusa à vacinação e fake news sobre vacinas&nbsp;&nbsp;Sistema Província de ComunicaçãoABC e SBPC apoiam PL que fortalece instrumentos legais-de proteção da saúde coletiva&nbsp;&nbsp;ABC - Academia Brasileira de CiênciasPopulação é ",
+      "sources": [
+        {
+          "name": "Brasil 247",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGFRNUN2cGdiTnNmT1c5dUM5T05GSFlPd3lRWUhoZjJoS0Z4TndfLUZUUlBtdkNweHFYdDVvOS1sTnNpd3ZvSmlScU9peGNlSEFRRzI4anVGS09zRVljb0ZLZ3ptRGtRcGhieGZYYVduZWxsNlI3UmNRVjktdlhad2dSRkR1cnFnaDZrNGZiQi1oZXVrRTdheUFKRGdZcExFOEJQdmRmMktVZ3ltMThNZldZQ1RqYTduQnVLNEsyLU5reTRLbXJXekd6aWRpNTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "45003b0003bd",
+      "title": "Dia Mundial do AVC: especialista alerta para sinais de socorro imediato - Tribuna de Petrópolis",
+      "published": "2026-10-29T11:48:51+00:00",
+      "summary": "Dia Mundial do AVC: especialista alerta para sinais de socorro imediato&nbsp;&nbsp;Tribuna de Petrópolis",
+      "sources": [
+        {
+          "name": "Tribuna de Petrópolis",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUkZwWV9IdmxmTWRJVkxOMjJQcXRsVlFNcXJ6WGRDVGIzWkxKOXRpMHJ2VWV0M0hZNlVfN1VXeWcyS2RReTRGVjNRMF9ZU0tKdEYzMUg0SHVIMUswYlI0dndocHkySWpzczM3RnpxYUItNVVXNXl0eU9KWlQ5dG91Q2NkSUhoMWZuYng0elhyVl9hQkw1TVRmRC1oTnhGVEpDZHdHS2M5RnlfSXlad2V5N3JxME5Fdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89972feb69c7",
+      "title": "Estudo associa excesso de proteína animal a níveis baixos de testosterona - CNN Brasil",
+      "published": "2026-10-29T10:48:02+00:00",
+      "summary": "Estudo associa excesso de proteína animal a níveis baixos de testosterona&nbsp;&nbsp;CNN BrasilFinlândia: estudo liga proteína vegetal a níveis mais altos de testosterona&nbsp;&nbsp;EuronewsHomens com dieta rica em proteína animal têm menos testosterona, diz estudo&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnQ4TlAxWEU4NmcwRmdRaXpLSS15alVuYWh6NkZCNkl2WEtwSUVPeHVaa2I4NjhjN3FjV0hCS0RYa1JlVnFhNnpFWTMxVHNwbkFZeXVJNi03RGFGSGo3Q2RUQ0R0ajlReHR6VF9KMHE3VEt5WG1BeC1ZYnZGUUFJMU5EaTdBTU1EMTBkQzhIZmFjbGduQ1RmcndnMXI2NnJFN0FHU2M4aXFGWDM0cXc?oc=5"
         }
       ]
     },
@@ -170,18 +374,6 @@
         {
           "name": "Portal do Holanda",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQemttRnQ4MHBDd042YU9JR2ZaQklhc3N0dGRCamM1UlZmYUw1NkNBUGhocHFGVGpnUE1iY3ZWaG5RWURLa2lReURBS3QtR2FILUQ0S2JjZzB5Y2kwZGgwRTZTNEF3UWpPSDJlUGVJb3QxNUxVaGRGNkx6Y0FVUy1UT2R1ZXgtcUlOcWhHdFNQVkFFNUlvYXdmdlFjUWVyOHZQeGd2R0xsQ1UyUEtjREhZRHhRaHJpYWdGTGw3WlNCOXlmWDNyNk12ZFg2b3Y3VDhTcm82aHJPcllOX2Z5NlJsWjNhX1o4bnFROGJqenNEaXBBUHhCZ29yX1ZtMERxVUQtVFFhMndjbl9ndw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ab84cb8f7d9",
-      "title": "Inchaço na axila levou biomédica de 39 anos a descobrir câncer de mama no Acre: 'O chão sumiu' - G1",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "Inchaço na axila levou biomédica de 39 anos a descobrir câncer de mama no Acre: 'O chão sumiu'&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEtIQk1WbjByczlKcFd5N0pBZ3JuVUlpZGhkTHY1Wjd2Ym4xUm53V2tUdGFlMEFCTnZOakRTUll2d24yaFZHWHpya2EzS1FYWm1TdVJMU3RmY0dLYWU4WGJORkdRdDc1WU1UZjk3cnpBRnBuT1RSVEgtTm84bnlJTUtUU01fVDM1bjB0SzI1OU1pM3owd1dDV1o5SG83VE9ZZm82TEo0eWdoVWo2RWlkMmNBY1M2QzNPcWh0dl9mVjNUaGtFemlLdDBSMUNzdno3cWZjRlhKb3Z6bGtCTWfSAewBQVVfeXFMTk9NSW5WWFM1R3k3bVdXcmlHYXJ1UDV0UWFRbFlwZUgxYlN4VmlENWVEMlJSaUR0WDJ6WWhEaDczMVVNN3J5R0lRaWl4TEZjSDhRallsdk1SdERCcW1sN0V1Y3F5cFB3YUJLOXZTVmtCd2JVdzlRRWQyYkJRdXVnSGhtTUdpclJKMk1SclJjWHA3T2pwc1liSzQ3QTFKNTRoOGp6dF9nR2pQdlZiUlN0OVNiMVFTY284RXN6X3Q0NHZBcllYNzdHX3F6RWlOUkdjYkVVcllDTXlBRjNXaFI2Qm9iUFVFd0dlZDNGWmY?oc=5"
         }
       ]
     },
@@ -210,14 +402,14 @@
       ]
     },
     {
-      "id": "198c5567480a",
-      "title": "Cientistas pedem que crise climática seja declarada emergência de saúde global - Folha de S.Paulo",
-      "published": "2026-10-28T21:07:00+00:00",
-      "summary": "Cientistas pedem que crise climática seja declarada emergência de saúde global&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "fee531bc7aad",
+      "title": "Anvisa aprova cinco novas canetas de GLP-1 - Governo Federal",
+      "published": "2026-10-29T04:21:00+00:00",
+      "summary": "Anvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;Governo FederalCanetas emagrecedoras: Anvisa aprova 20 novos medicamentos neste ano; veja todos os autorizados no país&nbsp;&nbsp;O GLOBOAnvisa aprova 5 novas canetas para diabetes e obesidade; total chega a 19 em 2026&nbsp;&nbsp;Folha de S.PauloAnvisa aprova cinco novas canetas emagrecedoras de GLP-1&nbsp;&nbsp;CNN BrasilCaneta após os 40: por que manter a massa muscular é essencial&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc19IZmlUMnJUVGM5VHdDVHZhcW5ycTczOG1CN3FPUG12RmtubGR2b1lBTzlTUm5iUGRieXNodXB1RVJFcllqZEhYYkgtNWdSQzZwVHlGajlZbFlqRXBmRHl5eVVfanpkUUVOcG9fb2lzV2VrUVc1aXlMY2ljWTVVVmlaaHVpU1RSdnotTkloVS1pQm1MU1Nfam5BSDctVXBwVDBGRjF2aGR0S1Z4RTEyOGUyOVhsSzlfTExnczBFbHU3SVoxMVdEYWFEVUdQdzRsaWhQUHRn?oc=5"
+          "name": "Governo Federal",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTBsOTBIUGhkYV9zOVRSZzZIZzBSekF4Nm9OUkpOS25ILUlldEczVHMyNFlhbXBvbEJRWEFOWndORm5ma0hFYlFuYlY5emRpaHYwOG5Vd0l2SHpGYWdNeE5fWnhmVjNFWHlCVmFOY0hlNGI2aWZuVDFMYTNKYnZtWkNNakpicFZwVDZIZ3dvVWZXa01CcEdpNGlTTlVpSXhYOWlFZ2l3TQ?oc=5"
         }
       ]
     },
@@ -225,35 +417,11 @@
       "id": "b7b9c15ce119",
       "title": "Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa - Estadão",
       "published": "2026-10-28T16:53:00+00:00",
-      "summary": "Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa&nbsp;&nbsp;EstadãoMeta-análise com mais de 480 mil pessoas associa subir cerca de 60 degraus por dia a menor risco cardiovascular&nbsp;&nbsp;O POVOSubir escadas todos os dias pode reduzir risco de morte cardiovascular&nbsp;&nbsp;Diário do Centro do MundoEscadas no cotidiano e a saúde do coração&nbsp;&nbsp;SpaceMoneySubir de 60 a 70 degraus por dia reduz risco de morte por doença cardíaca, indica estudo&nbsp",
       "sources": [
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5b28fc4b0489",
-      "title": "Vida na Terra surgiu a partir de cometas? Este estudo diz que não - Globo",
-      "published": "2026-10-28T16:18:27+00:00",
-      "summary": "Vida na Terra surgiu a partir de cometas? Este estudo diz que não&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVpBX2hCaXRJTjFEREhWUUJ0cGpfaDJOUW1LUGI3cW96aVgwS1dGSmdSSko2a2FXYXV6UkJZcXFwYlF3amNKbzV4ZGwtVl9WVFhBdGE0aDM5WkdmYzlaSlBvRExqenpWcXdhU1RubjhPMk1fNmtHYmkzSHNvT1FSMmlWV1JNYmZfa3l0YUtsS1Z2alNyc2laY2NocU01TExnQ0J6QnF5Tm1ONUVBaTdOR0E1YWM2WEFGRVhJdWV6MlFMRUh4OEloR25xeThGNUXSAd4BQVVfeXFMTjB3dVcxUGZDSm9YOHNBZk9MbWplU3RpT0tkYi0wQ1N5NU1xQ3ItcEUxaDl3Q1pSdTFhaUpCMDZvVmZlOEJwM1J4RFBMcmpSVnpLVVcyNnJsc1lEemMxZ0ctNlQ4Zi01UnZpNU1pWklHUjBIQ1Mxdm5fbFpJR2ZmYmtmRm1SOUhtMFNqcWtFMkNib2NZV0FqcWpXY1hlcUVPNFhXY3dVWHpoWnpDZXN1Qi1CSzJGLUVyTnl3dlhrbm1ObEtQNkVfMm9pSkxOY3FtZGl6WDF0Tk5vQUpoR0ZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3ab2d23e57b6",
-      "title": "Sofre com dor nas costas? Conheça técnica que devolve mobilidade da coluna - UOL",
-      "published": "2026-10-28T15:00:00+00:00",
-      "summary": "Sofre com dor nas costas? Conheça técnica que devolve mobilidade da coluna&nbsp;&nbsp;UOLExercícios simples para aliviar a dor lombar que muita gente desconhece e que podem ser feitos em casa&nbsp;&nbsp;Catraca LivreFisioterapia e terapias manuais mostram resultados no tratamento da dor lombar com o Dr. Hudson, em Santa Helena&nbsp;&nbsp;Correio do LagoLiberação miofascial pode ajudar a aliviar dor lombar e melhorar mobilidade&nbsp;&nbsp;Diário do Centro do MundoDor nas costas: 5 hábitos apoiado",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmN1T2N4UmZkVE5pX3g3bjRhQ0g0bXViSWpfZVVMUWZwck54a2pxTUEzSDZ2THNJN2xrZFhBNVAxeWoyZjlQZGhoeVVJY211dVhabFdESE5tSEJPcjhVekxHTVR6TWxvWEJpMm1OTnhaVEduMWNfSlAzV0RLZGNyOW5IN1VJUDI1dDRVcmVHT2dLNEZUbjJOazl0elE2ZDlDS1dWZktpdUdqTTdaMkNxbWJMSzl0a2huQkVMcTNlNUs?oc=5"
         }
       ]
     },
@@ -273,7 +441,7 @@
       "id": "dcfb49b2e211",
       "title": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X",
       "published": "2026-10-28T12:09:05+00:00",
-      "summary": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama&nbsp;&nbsp;Portal Ponto XEsporte ajuda mulheres em tratamento contra o câncer&nbsp;&nbsp;G1O exercício físico como aliado no combate e na recuperação do câncer de mama&nbsp;&nbsp;Diário do NordesteOutubro Rosa: atividade física e cuidado com a saúde fazem parte da rotina de frequentadora de Centro Esportivo&nbsp;&nbsp;Prefeitura de São PauloPrefeitura de Pedro II promove ",
+      "summary": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama&nbsp;&nbsp;Portal Ponto XEsporte ajuda mulheres em tratamento contra o câncer&nbsp;&nbsp;G1Câncer de mama: o treino também faz parte da prevenção&nbsp;&nbsp;jornaltribuna.com.brDepois do diagnóstico: preservar músculos pode ser tão importante quanto controlar o peso durante o…&nbsp;&nbsp;Portal Revista Kdea 360Exercício físico ajuda a reduzir fadiga durante o tratamento d",
       "sources": [
         {
           "name": "Portal Ponto X",
@@ -285,7 +453,7 @@
       "id": "8c105301efae",
       "title": "Dados do Inca mostram que mulheres negras morrem 3,8 vezes mais que brancas por câncer de mama - O GLOBO",
       "published": "2026-10-28T06:00:01+00:00",
-      "summary": "Dados do Inca mostram que mulheres negras morrem 3,8 vezes mais que brancas por câncer de mama&nbsp;&nbsp;O GLOBOINCA lança publicação sobre desigualdades raciais no câncer&nbsp;&nbsp;Agência BrasilMortalidade por câncer de mama é quase quatro vezes maior em negras&nbsp;&nbsp;CNN BrasilDesigualdade racial leva a diagnóstico tardio de câncer de mama, diz estudo&nbsp;&nbsp;BandOutubro rosa 2026 foca no combate ao câncer em mulheres negras&nbsp;&nbsp;Agora Litoral",
+      "summary": "Dados do Inca mostram que mulheres negras morrem 3,8 vezes mais que brancas por câncer de mama&nbsp;&nbsp;O GLOBODesigualdade reduz acesso de mulheres negras e indígenas à mamografia&nbsp;&nbsp;Folha de S.PauloCâncer de mama: mulheres negras morrem 3,8 vezes mais que brancas&nbsp;&nbsp;Agência BrasilMortalidade por câncer de mama é quase quatro vezes maior em negras&nbsp;&nbsp;CNN BrasilInca lança livro sobre câncer de mama e disparidades raciais&nbsp;&nbsp;Agência Brasil",
       "sources": [
         {
           "name": "O GLOBO",
@@ -294,14 +462,14 @@
       ]
     },
     {
-      "id": "70a957c64ec1",
-      "title": "Pesquisa com mais de 28 mil pessoas descobre 'freio' que pode ser chave para novos tratamentos de doenças hereditárias do sangue - G1",
-      "published": "2026-10-28T05:00:49+00:00",
-      "summary": "Pesquisa com mais de 28 mil pessoas descobre 'freio' que pode ser chave para novos tratamentos de doenças hereditárias do sangue&nbsp;&nbsp;G1",
+      "id": "b99e3571db12",
+      "title": "Spray nasal com composto do veneno de sapo avança contra depressão resistente - Diário do Centro do Mundo",
+      "published": "2026-10-27T20:42:24+00:00",
+      "summary": "Spray nasal com composto do veneno de sapo avança contra depressão resistente&nbsp;&nbsp;Diário do Centro do MundoSpray nasal feito com composto psicodélico de veneno de sapo alivia rapidamente sintomas de depressão; mostra novo estudo&nbsp;&nbsp;O GLOBOSpray nasal à base de veneno de sapo pode aliviar depressão por semanas&nbsp;&nbsp;MetrópolesSpray nasal com psicodélico derivado de sapo do deserto é bem-sucedido contra a depressão&nbsp;&nbsp;VEJAVeneno de sapo para depressão: o que dois ensaio",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMnZ4MjJCY2hFWEhhRXhhSGxsbldLM2NHYjJwdkVaNTY0cDhoNmlUNWRxMnBqbllGdUtCTEFsazk2M2tSZkF1RGZtczRMcWQzd0FnU0RxM2pHUFVRT0NFbTV1VlZFdjhZSHFoLWxZSkhhODFzOTNfMGpZUDFOZ09xZVNTdHNGR2JKeDQzTkpVM2FOQ1VWSmFRY1U4aDBEVTFtNXBnZ0JUMlF0NzA1NzNlM1djcEUwRGdpR3k0UFI5OXgzd1BOUzBVR3NmNTUwQjJMNGlFcE1BTUFtc1ZmdHc4aTZ5MmxSX3dDbkRrYmdPOWdRdWhxdnVQdW1NWU15d3U1WExDdEJ5dlBvQdIBmAJBVV95cUxNRHdHenVCeEdLYjdObHRjR0ZFYXpxRmYwcU1uNnJLMmhWMTZBUE5FSDh3UjFBcFp4bmJlclZYUUVYdkc4SlNVWlJWVHpTamtFeUh6bEJNN0RBcWZDbmotQ0ZDc0t4NEpwX1g0NTRZVG04RlBHdEd4MS1TMm1JVFRNNERFNTF2ZEpwb3RUSXNud1RjS3Q4ZFIwR0ZPTlpHcGF1WG5sOEJKNmxzSDQ1ZDhRRWJLWElEMVBnTHpla1dHV2g5Zjd0dDVZRF96TzFpYlh2dVRNNkdBZktRVUE5MlhKTkJGdmRWMHNVVHNWa3QtU2kzVFVWMFNQQ3B2b3M2SG10NGMzSktFUklaYnF4S1MyTFVWT2JRMFAw?oc=5"
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUhqQ2lNbHlkWjNvbHFpNmlaM2ZzSG8yOEh4SENfT1NwV2oyX1pDczEzQ0J1d2otR3QzN21fdGViUmJKbHJZM2pkNUlsMDdwSks1ZFBCMzZQMFFKN3FNbHBhTG5oYUlQV2pIb2dyLXdlbjZEZFJzTDBRR0xGdndWaXo0c2ZIQU50MTBDU083M3FTdkxDWkNHdWhaaUY?oc=5"
         }
       ]
     },
