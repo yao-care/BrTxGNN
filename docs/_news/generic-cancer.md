@@ -121,6 +121,14 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 
 ## Notícias relacionadas (8)
 
+### [Após filha morrer com câncer, mãe também é diagnosticada: "Jornada difícil"](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3BKajVxa0RGS3R2aXotXzRETU8ySzdVa3VQc0txTE96RFhTem9jYTlWYjREemI5d3ZPZWUzMkM1QTVyVmFvaXN5Y3RfQ19CSEY0bzRfYkZBR1dTd2dDelphWGp2U1pEVlFSWWN0a05yNDlvRVpqWmZ6aHh1d2dJSExzZHNoYnoxMUFHTGNNSVRlSUtKQU5WWU1yb3NGOXR2aXN2bUlKYw?oc=5)
+
+2026-10-31
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3BKajVxa0RGS3R2aXotXzRETU8ySzdVa3VQc0txTE96RFhTem9jYTlWYjREemI5d3ZPZWUzMkM1QTVyVmFvaXN5Y3RfQ19CSEY0bzRfYkZBR1dTd2dDelphWGp2U1pEVlFSWWN0a05yNDlvRVpqWmZ6aHh1d2dJSExzZHNoYnoxMUFHTGNNSVRlSUtKQU5WWU1yb3NGOXR2aXN2bUlKYw?oc=5)
+
+---
+
 ### [Vacinas oferecidas pelo SUS ajudam a prevenir diferentes tipos de câncer - Portal Drauzio Varella](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDYwUUYxN2NyMHd6UEFzT1FWcFhFLUVQTkdGdUliNFpnZUhnVHN6UGRNY2lQWGk5Umd6VlhVZWwyRkxibUJ3cXE4MWplcG9Odk9hOW5vczQwN0dsUExidzR6cjdfZGhIX2Ftbk9odzF1d1JuZWFpWWtVQmwwMW1XUUxqLWUyVXlFcGVUNF9oS2VITWZWNmljQTlPemM3VldPcERDYnp6UUJjU2I5T3hyU3ZLOGd1M3FT?oc=5)
 
 2026-10-30
@@ -145,6 +153,14 @@ Fonte: [R7](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjRNdHFmd1ktd3F
 
 ---
 
+### [Enfermeira de Iúna enfrenta câncer e cria vaquinha para arrecadar R$ 80 mil para cirurgia - Aqui Notícias](https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWcwWTFFTnBoZmc5Unk4NGtfVGUwRmZVeEh2QVpaclBES3I4cUVkWWlVYnlCekpsLXpGWkRJQldnazVheXpYTldmTF82Z2JpMjBzRDlKOEYwMzhTNmlwNjFFN1V4UkN5cGdRa1lVd0ppTWJYUzVSMi1mVEl4bWN2SlNKV0ZpTDU1RUNxNnJ5VGxDRUVOSGp5R2NhdGVDNnBCTjFEbkhmWkZtY1Uxek44TDY2MTBMYjBnZjV5MVFYSQ?oc=5)
+
+2026-10-30
+
+Fonte: [Aqui Notícias](https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWcwWTFFTnBoZmc5Unk4NGtfVGUwRmZVeEh2QVpaclBES3I4cUVkWWlVYnlCekpsLXpGWkRJQldnazVheXpYTldmTF82Z2JpMjBzRDlKOEYwMzhTNmlwNjFFN1V4UkN5cGdRa1lVd0ppTWJYUzVSMi1mVEl4bWN2SlNKV0ZpTDU1RUNxNnJ5VGxDRUVOSGp5R2NhdGVDNnBCTjFEbkhmWkZtY1Uxek44TDY2MTBMYjBnZjV5MVFYSQ?oc=5)
+
+---
+
 ### [Vacina contra câncer de pâncreas gera resposta imune em 99% dos pacientes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnZnSVVzOU9vNlM2X25fLWlRMDdBMUZ5dUJZQkdPZ08ySlZMYVdZdVNCY0djR2FYcTN6R0lUa1A3M08yVFJmXzNmaWFhckpLUXZqMmlnQ3JpUGdZMWRPT2VUMFozd2tsMnRVM3kxVmNhOElNZWJra0NWWVE3bEh3YTFOazZpN1JwTGxfUC1DX3JaVTBZZ0FaNC00OWVaSU5BajhUZG5mb24?oc=5)
 
 2026-10-30
@@ -161,27 +177,11 @@ Fonte: [Estadão](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeXloRFZub
 
 ---
 
-### [Brasileiro de 26 anos cria equação matemática inédita para tratamento do câncer de próstata - Só Notícia Boa](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHg0QTBtUlNxWFVmOXl1cGdQNzIxV1lBbENaaTYxN3dWSDl6SjF6NzZPbEt3dGlEWFlZWEFtMlBOZTBHb1hmeXphNjJaM2VRcXY2NTZ3b2VPX1Y3YTQzakpVLU9GdGVQUllnUklpa3VldHdMbm9uekhmS1p4NVJoc2pETXlkai1aSmVkNzYtX2hhRkNPZUlHMlBPOFhnUWZG?oc=5)
-
-2026-10-29
-
-Fonte: [Só Notícia Boa](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHg0QTBtUlNxWFVmOXl1cGdQNzIxV1lBbENaaTYxN3dWSDl6SjF6NzZPbEt3dGlEWFlZWEFtMlBOZTBHb1hmeXphNjJaM2VRcXY2NTZ3b2VPX1Y3YTQzakpVLU9GdGVQUllnUklpa3VldHdMbm9uekhmS1p4NVJoc2pETXlkai1aSmVkNzYtX2hhRkNPZUlHMlBPOFhnUWZG?oc=5)
-
----
-
 ### [Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
 
 2026-10-28
 
 Fonte: [Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
-
----
-
-### [Incidência de câncer é maior em pessoas com diabetes tipo 2 - Portal Drauzio Varella](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWpNTEZwTlh0R25SN19DQ09mM2JvZ3BkeHdOTDB2UXNIVFU4OFJyNTllQ18yTzlEa25FNFotYjYwV2QxM2hzREE3ell2V0tPWTFvekFpVjhYLTRWYjlCQzkzeG9SamxGS0lLYXdsWFN3VEdoT2hhdnpYbHgyZm1jd1hyX0ZOUGFiWl90SlBoNUZXZFRKUzBNNGNpOU1QeXd2cTJTc2NZcHZRbXhaT0pZMExzWnN6czZfdTB2dg?oc=5)
-
-2026-10-27
-
-Fonte: [Portal Drauzio Varella](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWpNTEZwTlh0R25SN19DQ09mM2JvZ3BkeHdOTDB2UXNIVFU4OFJyNTllQ18yTzlEa25FNFotYjYwV2QxM2hzREE3ell2V0tPWTFvekFpVjhYLTRWYjlCQzkzeG9SamxGS0lLYXdsWFN3VEdoT2hhdnpYbHgyZm1jd1hyX0ZOUGFiWl90SlBoNUZXZFRKUzBNNGNpOU1QeXd2cTJTc2NZcHZRbXhaT0pZMExzWnN6czZfdTB2dg?oc=5)
 
 ---
 
