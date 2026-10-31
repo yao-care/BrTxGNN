@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "BISOPROLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bisoprolol: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ mas, nos dados compilados para este relatório, há **0 ensaios clínicos** e **
 | Nova Indicação Prevista | Doença renal hipertensiva maligna (malignant hypertensive renal disease) |
 | Pontuação de Previsão TxGNN | 0,9994 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 13) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 29) |
+| Número de Registros | 29 (ativos: 20) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

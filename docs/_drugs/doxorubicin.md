@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 277
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Doxorubicin: nova indicação prevista, Sarcoma de Ewing (Ewing sarcoma) (nível de evidência L2). Indicação original: Antineoplásico"
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
@@ -50,8 +50,8 @@ atualmente com **28 ensaios clínicos** e **20 publicações** apoiando esta dir
 | Nova Indicação Prevista | Sarcoma de Ewing (Ewing sarcoma) |
 | Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
-| Número de Registros | 8 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 36) |
+| Número de Registros | 36 (ativos: 8) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -100,13 +100,40 @@ Observação: em vários ensaios acima a doxorrubicina faz parte do esquema de b
 
 Medicamento comercializado no país, com 8 registros válidos de 8.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 115410010 | ONCODOX | Não informada | Antineoplásico |
-| Registro nº 100430004 | CLORIDRATO DE DOXORRUBICINA | Não informada | Antibióticos antineoplásicos |
-| Registro nº 106460098 | RUBIDOX | Não informada | Antibióticos antineoplásicos |
-| Registro nº 155370063 | CLORIDRATO DE DOXORRUBICINA | Não informada | Antineoplásico |
-| Registro nº 100330134 | FAULDOXO | Não informada | Antibióticos antineoplásicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330134 | FAULDOXO | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100430004 | CLORIDRATO DE DOXORRUBICINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 106460098 | RUBIDOX | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 115410010 | ONCODOX | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Ativo |
+| 116880016 | EVORUBICIN | FARMARIN INDUSTRIA E COMERCIO LTDA | Ativo |
+| 122140076 | DOXOPEG | ADIUM S.A. | Ativo |
+| 155370063 | CLORIDRATO DE DOXORRUBICINA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370067 | DOCKS | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 100410141 | DOXOFIL | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430577 | CLORIDRATO DE DOXORRUBICINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100680901 | RANXAS | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100930198 | CAELYX | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 102160165 | ADRIBLASTINA | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 104080024 | DOXOBITON | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 104260058 | DOXXO | PRODUTOS FARMACÊUTICOS GUNTHER DO BRASIL LTDA | Cancelado |
+| 110130232 | CLORIDRATO DE DOXORRUBICINA | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+| 112130155 | BIORRUB | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 112363399 | CAELYX | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 112830030 | ITARRUBICINA | LABORATORIO ITAFARMA LTDA | Cancelado |
+| 121100357 | ADRIBLASTINA | PFIZER BRASIL LTDA | Cancelado |
+| 121100368 | EVORUBICIN | PFIZER BRASIL LTDA | Cancelado |
+| 121170096 | NEOXANE | ASTA MÉDICA LTDA | Cancelado |
+| 121170131 | CLORIDRATO DE DOXORRUBICINA | ASTA MÉDICA LTDA | Cancelado |
+| 122140021 | DOXOLEM | ADIUM S.A. | Cancelado |
+| 123610033 | ONCODOX | UCB BIOPHARMA LTDA. | Cancelado |
+| 123890046 | ADRIBLASTINA | PHARMACIA BRASIL LTDA | Cancelado |
+| 123890074 | DOXORRUBICINA INJETÁVEL | PHARMACIA BRASIL LTDA | Cancelado |
+| 126030030 | DOXOFIL | ÍTACA LABORATÓRIOS LTDA | Cancelado |
+| 127480010 | DOXO - BIG | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Cancelado |
+| 131390005 | FAULDOXO | DISAQ FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Citotoxicidade
 

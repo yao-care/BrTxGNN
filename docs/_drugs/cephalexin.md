@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 215
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Cephalexin: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Cephalexin co
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo com origem rastreável são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 1 |
 | Nível de evidência | Não se aplica |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 30 de 108) |
+| Número de Registros | 108 (ativos: 30) |
 
 ## Usos conhecidos entre os candidatos do modelo
 

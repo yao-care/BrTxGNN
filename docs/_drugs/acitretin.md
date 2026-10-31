@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 24
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "acitretin"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
 description: "Acitretin: nova indicação prevista, Acne (acne (disease)) (acne (disease)) (nível de evidência L3). Indicação original: CERATOLITICOS E CERATOPLASTICOS"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (acne (disease))**, mas as
 | Nova Indicação Prevista | Acne (acne (disease)) (acne (disease)) |
 | Pontuação de Previsão TxGNN | 0.9994 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 4) |
+| Número de Registros | 4 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -83,10 +83,12 @@ Ressalva importante: a classe dos retinoides (sobretudo a isotretinoína) é con
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 155730046 (cancelado) | NEOTIGASON | Não informada | Ceratolíticos e ceratoplásticos |
-| Registro nº 110130288 (cancelado) | ACITRETINA | Não informada | Ceratolíticos e ceratoplásticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 110130288 | ACITRETINA | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 155730046 | NEOTIGASON | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 101000543 | NEOTIGASON | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 110130271 | NEOTIGASON | GLENMARK FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

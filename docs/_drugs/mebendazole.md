@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Mebendazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Mebendazole: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). Indicação original: ANTI-HELMINTICOS DO TRATO GASTRINTESTINAL"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, mas h�
 | Nova Indicação Prevista | Acne (acne (disease)) |
 | Pontuação de Previsão TxGNN | 0,9920 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 11) |
-| Número de Registros | 11 (ativos: 10) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 121) |
+| Número de Registros | 121 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -75,13 +75,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Há 11 registros, todos de produtos de ingrediente único. Segundo os dados compilados, o status de comercialização é "Comercializado".
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 102980263 | Mebendazol | Não informada | Anti-helmínticos do trato gastrointestinal |
-| 105710032 | Belmirax | Não informada | Anti-helmínticos do trato gastrointestinal |
-| 154230210 | Mebendazol | Não informada | Anti-helmínticos do trato gastrointestinal |
-| 100431253 | Helmiben Meb | Não informada | Anti-helmínticos do trato gastrointestinal |
-| 154230030 | Menbel | Não informada | Anti-helmínticos do trato gastrointestinal |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431253 | HELMIBEN MEB | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 105710032 | BELMIRAX | BELFAR LTDA | Ativo |
+| 105710141 | MEBENDAZOL | BELFAR LTDA | Ativo |
+| 105710179 | EXELMIN | BELFAR LTDA | Ativo |
+| 105710192 | MEBENDAZOL | BELFAR LTDA | Ativo |
+| 109630041 | MENTELMIN | THEODORO F SOBRAL & CIA LTDA | Ativo |
+| 138410036 | HELMILAB | NATULAB LABORATORIO S.A | Ativo |
+| 154230030 | MENBEL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230069 | MEBENDAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230210 | MEBENDAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 100020104 | ASCARIOBEL | LABORATORIO SEDABEL LTDA | Cancelado |
+| 100380019 | HELMIN | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100430689 | HELMIBEN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100630286 | MEBENDAZOL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100810065 | VERMICINA | LABORATORIO CLIMAX SA | Cancelado |
+| 100930075 | OCTELMIN | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 101810216 | PLURIVERM | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810217 | PLURIBEN | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810481 | MEBENDAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810536 | MEBENDAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101830116 | LAFEPE -MEBENDAZOL | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 101910045 | ELMITAN | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102270012 | VERMESAN | LABORATÓRIO MADREVITA LTDA | Cancelado |
+| 102350485 | MEBENDAZOL | EMS S/A | Cancelado |
+| 102350516 | MEBENDAZOL | EMS S/A | Cancelado |
+| 102350728 | MEBENDAZOL+TIABENDAZOL | EMS S/A | Cancelado |
+| 102850007 | ERAVERM | LABORATORIOS GEMBALLA LTDA | Cancelado |
+| 102940080 | DUCTELMIN | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
+| 102980112 | CRISDAZOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 102980259 | MEBENDAZOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

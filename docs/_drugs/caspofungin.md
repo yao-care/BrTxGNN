@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Caspofungin: nova indicação prevista, Anormalidade da secreção de gastrina (gastrin secretion abnormality) (nível de evidência L5). Indicação original: Antifúngicos (ANTI-FUNGICOS)"
 monitor_inn: "caspofungin"
 predicted_indications: ["gastrin secretion abnormality"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Anormalidade da secreção de gastrina (gastrin secretion abnormality) |
 | Pontuação de Previsão TxGNN | 0,9944 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 5) |
-| Número de Registros | 5 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 6) |
+| Número de Registros | 6 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,13 +66,14 @@ Qualquer associação seria especulativa, por exemplo um efeito indireto via col
 
 O medicamento está comercializado no Brasil: 5 dos 5 registros são válidos.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100431156 | BERK | Não informada | Antifúngicos |
-| Registro nº 151430075 | Acetato de Caspofungina | Não informada | Antifúngicos |
-| Registro nº 151430076 | KAZFONA | Não informada | Antifúngicos |
-| Registro nº 101710226 | CANCIDAS | Não informada | Antifúngicos |
-| Registro nº 100431107 | Acetato de Caspofungina | Não informada | Antifúngicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431107 | ACETATO DE CASPOFUNGINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431156 | BERK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 151430075 | ACETATO DE CASPOFUNGINA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 151430076 | KAZFONA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 100290033 | CANCIDAS | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 101710226 | CANCIDAS | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Cancelado |
 
 ## Considerações de Segurança
 

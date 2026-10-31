@@ -5,7 +5,7 @@ layout: default
 title: Levonorgestrel Micronizado
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 415
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 8) |
-| Número de Registros | 8 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 9) |
+| Número de Registros | 9 (ativos: 6) |
 
 ## Aviso de isenção de responsabilidade
 

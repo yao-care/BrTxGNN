@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 96
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -62,10 +62,10 @@ Para avançar na avaliação, é necessário complementar os dados faltantes ide
 
 Foram identificados **2 registros ativos** de Axitinibe na ANVISA. No entanto, os detalhes individuais de cada registro (número oficial, nome comercial, forma farmacêutica e texto da indicação aprovada) não constam nos dados recebidos neste Evidence Pack.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Não disponível | Não disponível | Não disponível | Não disponível |
-| Não disponível | Não disponível | Não disponível | Não disponível |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 121100452 | INLYTA | PFIZER BRASIL LTDA | Ativo |
+| 102160240 | INLYTA | LABORATÓRIOS PFIZER LTDA | Cancelado |
 
 > Os registros existem conforme confirmado pelo query TFDA (resultado: 2 licenças), mas os campos de detalhamento não foram retornados. Recomenda-se consulta direta à base ANVISA para recuperar esses dados.
 

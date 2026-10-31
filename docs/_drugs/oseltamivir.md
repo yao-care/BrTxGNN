@@ -3,7 +3,7 @@ layout: default
 title: Oseltamivir
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 492
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Oseltamivir: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0
@@ -44,8 +44,8 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 | Item | Conteúdo |
 |------|------|
 | Usos conhecidos registrados para este medicamento | 3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
-| Número de Registros | 8 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
+| Número de Registros | 9 (ativos: 9) |
 
 ## Usos conhecidos registrados para este medicamento
 

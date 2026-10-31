@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CHLORTHALIDONE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Chlorthalidone: nova indicação prevista, glaucoma hereditário primário (primary hereditary glaucoma) (nível de evidência L5). Indicação original: DIURETICOS SIMPLES"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | glaucoma hereditário primário (primary hereditary glaucoma) |
 | Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 71) |
+| Número de Registros | 71 (ativos: 20) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -72,13 +72,40 @@ Atualmente não há literatura relacionada.
 
 Os dados compilados indicam situação de comercialização "Comercializado". A lista de registros pode ser parcial. Abaixo, os principais registros de medicamentos de ingrediente único (nomes comerciais conforme os dados locais):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 135690691 | Clortalil | Não informada | Diuréticos simples |
-| 102350614 | Clorotalidona | Não informada | Diuréticos simples |
-| 103920047 | Clordilon | Não informada | Diuréticos simples |
-| 105830801 | Clortalidona | Não informada | Diuréticos simples |
-| 103920191 | Clortalidona | Não informada | Diuréticos simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430951 | ATENOLOL + CLORTALIDONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430981 | DIUPRESS | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431573 | DIUBLOCK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470345 | ATENORESE | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470586 | ATENOLOL + CLORTALIDONA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102350614 | CLOROTALIDONA | EMS S/A | Ativo |
+| 102350639 | ATENOLOL + CLORTALIDONA | EMS S/A | Ativo |
+| 103700514 | ATENOLOL + CLORTALIDONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900210 | REVERT | FARMOQUÍMICA S/A | Ativo |
+| 103920047 | CLORDILON | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920091 | ATENOCLOR | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920191 | CLORTALIDONA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920192 | ATENOLOL + CLORTALIDONA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105730552 | ATENOLOL + CLORTALIDONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730569 | ANGIPRESS CD | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830801 | CLORTALIDONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831031 | ATENOLOL + CLORTALIDONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740092 | ABLOK PLUS | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 167730439 | ATENOLOL + CLORTALIDONA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 183260124 | ATENOLOL + CLORTALIDONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100380054 | HIGROTALIN | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100430977 | DIUBLOK | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100431126 | DIUBLOK | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100431413 | DIUBLOK | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470283 | CLORTALITON | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680052 | HIGROTON RESERPINA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100680067 | HIGROTON | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100681016 | CLORTALIDONA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100890288 | ATENOLOL + CLORTALIDONA | MERCK S/A | Cancelado |
+| 101160115 | CLORTALIDONA | KNOLL PRODS QUIMS FARMACEUTICOS LTDA. | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

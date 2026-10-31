@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 545
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Prednisolone: nova indicação prevista, Alopecia Areata (alopecia areata) (nível de evidência L2). Indicação original: Glicocorticoides sistêmicos"
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
@@ -50,8 +50,8 @@ atualmente sem ensaios clínicos registrados nos dados compilados, mas com **20 
 | Nova Indicação Prevista | Alopecia Areata (alopecia areata) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 45 de 92) |
+| Número de Registros | 92 (ativos: 45) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -87,13 +87,40 @@ Foram selecionadas as 10 publicações mais relevantes (de 20 recuperadas).
 
 Foram encontrados 20 registros válidos; os cinco principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 178170943 | PREDSIM | Não informada | Glicocorticoides sistêmicos |
-| Registro 102351043 | PREDNISOLONA | Não informada | Glicocorticoides sistêmicos |
-| Registro 155840664 | PREDNISOLONA | Não informada | Glicocorticoides sistêmicos |
-| Registro 100431283 | PRENI | Não informada | Glicocorticoides sistêmicos |
-| Registro 100431397 | PERCOIDE | Não informada | Glicocorticoides sistêmicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431269 | PREDNISOLONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431283 | PRENI | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431300 | PRENI | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431397 | PERCOIDE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431415 | PERCOIDE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431473 | FOSFATO SÓDICO DE PREDNISOLONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101470006 | PRED | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
+| 101470175 | ZYPRED | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
+| 102350174 | PREDMICIN | EMS S/A | Ativo |
+| 102351023 | EMS-PRED | EMS S/A | Ativo |
+| 102351043 | PREDNISOLONA | EMS S/A | Ativo |
+| 102351476 | PREDNISOLONA | EMS S/A | Ativo |
+| 102980481 | OFTPRED | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103920188 | FOSFATO SÓDICO DE PREDNISOLONA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971287 | STER | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971423 | CONISO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971424 | FOSFATO SODICO DE PREDNISOLONA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350186 | FOSFATO SÓDICO DE PREDNISOLONA | LABORATÓRIO GLOBO SA | Ativo |
+| 105350191 | PROSOLIN | LABORATÓRIO GLOBO SA | Ativo |
+| 105730040 | ZASTAT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730330 | PRELONE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730541 | FOSFATO SÓDICO DE PREDNISOLONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730560 | PREDNISOLONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830746 | PREDNISOLONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831070 | PREDNISOLONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 113430184 | FOSFATO SÓDICO DE PREDNISOLONA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 118190348 | PREDSIGMA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680082 | FOSFATO SÓDICO DE PREDNISOLONA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680129 | FOSFATO SÓDICO DE PREDNISOLONA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680268 | PREDNISOLONA | PRATI DONADUZZI & CIA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

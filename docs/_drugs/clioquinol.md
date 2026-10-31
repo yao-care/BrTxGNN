@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Clioquinol"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clioquinol: nova indicação prevista, Doença infecciosa ectotrix (ectothrix infectious disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -48,8 +48,8 @@ Clioquinol é um fármaco antimicrobiano de uso dermatológico. O modelo TxGNN p
 | Nova Indicação Prevista | Doença infecciosa ectotrix (ectothrix infectious disease) |
 | Pontuação de Previsão TxGNN | 0,9926 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 30 de 96) |
+| Número de Registros | 96 (ativos: 30) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 577
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 description: "Salbutamol: nova indicação prevista, Conjuntivite Papilar (papillary conjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite Papilar (Papillary
 | Nova Indicação Prevista | Conjuntivite Papilar (papillary conjunctivitis) |
 | Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 98) |
+| Número de Registros | 98 (ativos: 17) |
 | Decisão Recomendada | Hold |
 
 > **Observação:** a indicação de maior prioridade segundo o modelo é a conjuntivite papilar, mas dentre as dez indicações previstas, a que tem evidências mais robustas é a **doença pulmonar obstrutiva** (nível L1), que se sobrepõe ao uso original do fármaco. Ambas são detalhadas abaixo.

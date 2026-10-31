@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 147
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Bosentan: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L4). Indicação original: Anti-hipertensivos"
 monitor_inn: "bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
 | Pontuação de Previsão TxGNN | 0,9980 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 5) |
-| Número de Registros | 5 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 12) |
+| Número de Registros | 12 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -80,13 +80,20 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 109740326 | HAGIVAN | Não informada | Anti-hipertensivos (cancelado) |
-| Registro nº 109740314 | BOSENTANA | Não informada | Anti-hipertensivos (cancelado) |
-| Registro nº 123520272 | BOSENTANA | Não informada | Anti-hipertensivos (cancelado) |
-| Registro nº 155370080 | BOSENTANA | Não informada | Anti-hipertensivos (cancelado) |
-| Registro nº 146820121 | BOSPULMO | Não informada | Anti-hipertensivos (cancelado) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 109740314 | BOSENTANA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 123520272 | BOSENTANA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 146820121 | BOSPULMO | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155370080 | BOSENTANA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 104920231 | BOSENTANA | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 104920237 | HAGIVAN | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 109740326 | HAGIVAN | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 112363430 | BOSENTANA | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 122140086 | BOSENTANA | ADIUM S.A. | Cancelado |
+| 122140087 | USENTA | ADIUM S.A. | Cancelado |
+| 155380001 | TRACLEER | ACTELION PHARMACEUTICALS DO BRASIL LTDA | Cancelado |
+| 155380003 | BOSENTANA | ACTELION PHARMACEUTICALS DO BRASIL LTDA | Cancelado |
 
 ## Considerações de Segurança
 

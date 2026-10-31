@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with schistosomiasis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Minoxidil: nova indicação prevista, Hipotricose simples do couro cabeludo (nível de evidência L3). Indicação original: Hipertensão arterial e alopecia"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **hipotricose simples do couro ca
 | Nova Indicação Prevista | Hipotricose simples do couro cabeludo |
 | Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 13) |
-| Número de Registros | Pelo menos 20 (a lista pode estar incompleta) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 23 de 34) |
+| Número de Registros | 34 (ativos: 23) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -77,13 +77,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Os registros abaixo constam da lista parcial compilada (até 5 exemplos entre os 20 listados; 13 válidos e 7 cancelados). Os textos de indicação aprovada e as formas farmacêuticas não estavam disponíveis nos dados.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 115600249 | Kedaxyl (válido) | Não informada | Não informada |
-| Registro 101910304 | Aloxidil (válido) | Não informada | Não informada |
-| Registro 106890210 | Capitrat Men (válido) | Não informada | Não informada |
-| Registro 104971544 | Revipel (válido) | Não informada | Não informada |
-| Registro 100431433 | Dixil (válido) | Não informada | Não informada |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431433 | DIXIL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431434 | PILOX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101180632 | ENIAGOR | APSEN FARMACEUTICA S/A | Ativo |
+| 101180681 | ENIAGOR SEC | APSEN FARMACEUTICA S/A | Ativo |
+| 101910304 | ALOXIDIL | THERASKIN FARMACEUTICA LTDA. | Ativo |
+| 103900238 | FOLIUS | FARMOQUÍMICA S/A | Ativo |
+| 104971544 | REVIPEL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971546 | MINOXIDIL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730487 | PANT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730602 | MINOXIDIL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730781 | PANT SEC | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830949 | MINOXIDIL | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830959 | CAPY | GERMED FARMACEUTICA LTDA | Ativo |
+| 106890210 | CAPITRAT MEN | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+| 115600249 | KEDAXYL | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600266 | MINOXIDIL | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 143810306 | MINOXIDIL | CIMED INDUSTRIA S.A | Ativo |
+| 154230347 | LOPEXX | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840591 | MINOXIDIL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840621 | ACTFIO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730628 | MINOXIDIL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730629 | ALLOVITA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 178170897 | PIELUS MX | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 102160171 | LONITEN | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160202 | REGAINE | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 105730486 | MINOXIDIL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 112130473 | MINOXIDIL | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 121100382 | LONITEN | PFIZER BRASIL LTDA | Cancelado |
+| 123520271 | MINOXIDIL | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 123890004 | REGAINE | PHARMACIA BRASIL LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

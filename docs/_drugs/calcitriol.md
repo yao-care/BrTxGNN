@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CALCITRIOL"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Calcitriol: nova indicação prevista, Deficiência de vitamina D obsoleta (obsolete vitamin D deficiency) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Deficiência de vitamina D obsoleta (obsolete vitamin D deficiency) |
 | Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 12) |
-| Número de Registros | 12 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 11) |
+| Número de Registros | 11 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

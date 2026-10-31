@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 547
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Prednisone: nova indicação prevista, Alopecia areata (Alopecia Areata) (nível de evidência L3). Indicação original: Hormônios corticosteroides / Glicocorticoides sistêmicos"
 monitor_inn: "Prednisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
@@ -52,8 +52,8 @@ atualmente com **nenhum ensaio clínico registrado** e **20 publicações** recu
 | Nova Indicação Prevista | Alopecia areata (Alopecia Areata) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 22 de 65) |
+| Número de Registros | 65 (ativos: 22) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ---
@@ -95,13 +95,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Foram encontrados 20 registros válidos; abaixo estão os 5 principais.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 103920176 | Prednisona | Não informada | Hormônios corticosteroides |
-| Registro nº 113430213 | Prednisona | Não informada | Glicocorticoides sistêmicos |
-| Registro nº 105350217 | Flamape | Não informada | Glicocorticoides sistêmicos |
-| Registro nº 155840078 | Corticorten | Não informada | Hormônios corticosteroides |
-| Registro nº 100290189 | Meticorten | Não informada | Glicocorticoides sistêmicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290189 | METICORTEN | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100630264 | PREDNISONA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102350633 | PREDNISONA | EMS S/A | Ativo |
+| 102351206 | CICLORTEN | EMS S/A | Ativo |
+| 102980151 | CRISPRED | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103920176 | PREDNISONA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920216 | PREDCORT | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971336 | PREDNISONA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350217 | FLAMAPE | LABORATÓRIO GLOBO SA | Ativo |
+| 105350218 | PREDNISONA | LABORATÓRIO GLOBO SA | Ativo |
+| 105730702 | PREDNISONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830839 | PREDNISONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 112090139 | FUNED PREDNISONA | FUNDAÇÃO EZEQUIEL DIAS - FUNED | Ativo |
+| 113430213 | PREDNISONA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 118190372 | PREDNISONA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680160 | PREDNISONA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680379 | NISBAL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 155840078 | CORTICORTEN | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840572 | PREDNISONA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730516 | PREDINIS | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730519 | PREDNISONA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 183260500 | PREDNISONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100380080 | PREDITEC | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100430893 | PREDNISONA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100930065 | METICORTEN | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 101810578 | PREDNISONA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350379 | PREDINIS | EMS S/A | Cancelado |
+| 103700238 | ARTINIZONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103700448 | PREDNISONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103920080 | PREDCORT | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

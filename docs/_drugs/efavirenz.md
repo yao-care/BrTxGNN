@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Efavirenz: nova indicação prevista, síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **síndrome da imunodeficiência 
 | Nova Indicação Prevista | síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome) |
 | Pontuação de Previsão TxGNN | 0,9980 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 8) |
-| Número de Registros | 8 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 6) |
+| Número de Registros | 6 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

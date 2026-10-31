@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 559
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "Ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: nova indicação prevista, Peptic ulcer perforation (nível de evidência L3). Indicação original: ANTIULCEROSOS"
@@ -50,8 +50,8 @@ Atualmente há **0 ensaios clínicos** vinculados a esta indicação e **20 publ
 | Nova Indicação Prevista | Peptic ulcer perforation |
 | Pontuação de Previsão TxGNN | 0.9988 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 12) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 140) |
+| Número de Registros | 140 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -86,13 +86,40 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 Há 20 registros válidos. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 118190300 | Cloridrato de Ranitidina | Não informada | Antiulceroso |
-| Registro nº 105730437 | Label Gotas | Não informada | Antiulceroso |
-| Registro nº 105730333 | Label | Não informada | Antiulceroso |
-| Registro nº 154230035 | Ultidin | Não informada | Antiulceroso |
-| Registro nº 105830869 | Cloridrato de Ranitidina | Não informada | Antiulceroso |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431215 | CLORIDRATO DE RANITIDINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350430 | CLORIDRATO DE RANITIDINA | EMS S/A | Ativo |
+| 103700385 | CLORIDRATO DE RANITIDINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700449 | CLORIDRATO DE RANITIDINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103870044 | CLORIDRATO DE RANITIDINA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 105730333 | LABEL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730437 | LABEL GOTAS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730573 | CLORIDRATO DE RANITIDINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 108840309 | IQUEGO - RANITIDINA | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Ativo |
+| 110110055 | CLORIDRATO DE RANITIDINA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110390210 | CLORIDRATO DE RANITIDINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 110850025 | CLORIDRATO DE RANITIDINA | FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LT | Ativo |
+| 113430140 | CLORIDRATO DE RANITIDINA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 147610025 | CLORIDRATO DE RANITIDINA | NATIVITA IND. COM. LTDA. | Ativo |
+| 154230035 | ULTIDIN | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230271 | CLORIDRATO DE RANITIDINA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 100250042 | ANTAK | GLAXO WELLCOME S/A | Cancelado |
+| 100250091 | PYLORID | GLAXO WELLCOME S/A | Cancelado |
+| 100330022 | LOGAT | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100330081 | HELICID | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100410200 | CLORIDRATO DE RANITIDINA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430007 | CLORIDRATO DE RANITIDINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430592 | RANITAN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430801 | CLORIDRATO DE RANITIDINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470242 | RANIBLOK | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470332 | CLORIDRATO DE RANITIDINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680908 | CLORIDRATO DE RANITIDINA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100810073 | TAZEPIN | LABORATORIO CLIMAX SA | Cancelado |
+| 100890267 | CLORIDRATO DE RANITIDINA | MERCK S/A | Cancelado |
+| 101070196 | PYLORID | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

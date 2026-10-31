@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Retinopatia distrófica com ou 
 | Nova Indicação Prevista (maior pontuação) | Retinopatia distrófica com ou sem anomalias extraoculares (retinal dystrophy with or without extraocular anomalies) |
 | Pontuação de Previsão TxGNN | 0,9957 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 40 de 73) |
+| Número de Registros | 73 (ativos: 40) |
 | Decisão Recomendada | Hold |
 
 > **Observação:** entre as 10 previsões analisadas, a única com literatura é a tricotilomania (pontuação TxGNN de 0,9938, nível L4, classificada como "questão de pesquisa"). Ela é detalhada nas seções abaixo como candidata mais promissora. As demais previsões (todas L5, sem ensaios nem publicações) são: defeito congênito de glicosilação com fucosilação defeituosa, hidranencefalia, síndrome de microdeleção distal 17p13.3, polimicrogiria perisylviana com hipoplasia cerebelar e artrogripose, miopia ligada ao X, doença de Charcot-Marie-Tooth desmielinizante tipo 1G, miopia sindrômica e miopia 26 ligada ao X limitada ao sexo feminino.
@@ -86,13 +86,40 @@ Os resultados são heterogêneos: há relatos favoráveis, mas também um relato
 
 Há 20 registros válidos no mercado brasileiro. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100431356 | Quepsia LP | Não informada | Antipsicóticos |
-| Registro nº 109740325 | Kitapen | Não informada | Antipsicóticos |
-| Registro nº 102980465 | Quetipin LP | Não informada | Antipsicóticos |
-| Registro nº 100431115 | Quet XR | Não informada | Antipsicóticos |
-| Registro nº 154230205 | Quetibux | Não informada | Antipsicóticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431108 | HEMIFUMARATO DE QUETIAPINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431115 | QUET XR | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431191 | HEMIFUMARATO DE QUETIAPINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431195 | QUET | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431356 | QUEPSIA LP | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470492 | HEMIFUMARATO DE QUETIAPINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470496 | NEOTIAPIM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100630266 | HEMIFUMARATO DE QUETIAPINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681162 | HEMIFUMARATO DE QUETIAPINA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 101830149 | HEMIFUMARATO DE QUETIAPINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Ativo |
+| 102351017 | HEMIFUMARATO DE QUETIAPINA | EMS S/A | Ativo |
+| 102980379 | HEMIFUMARATO DE QUETIAPINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980380 | QUETIPIN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980465 | QUETIPIN LP | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980596 | QUETIPIN SO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700596 | HEMIFUMARATO DE QUETIAPINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720246 | ATIP | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103720247 | ATIP XR | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103720320 | ATIP | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103900194 | TRACOX | FARMOQUÍMICA S/A | Ativo |
+| 105730404 | QUETROS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730611 | HEMIFUMARATO DE QUETIAPINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730795 | MENSYVA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830826 | HEMIFUMARATO DE QUETIAPINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740317 | HEMIFUMARATO DE QUETIAPINA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740325 | KITAPEN | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 110390205 | HEMIFUMARATO DE QUETIAPINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 118190458 | HEMIFUMARATO DE QUETIAPINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 135690709 | QUEROPAX | EMS SIGMA PHARMA LTDA | Ativo |
+| 141070664 | SEROQUEL | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

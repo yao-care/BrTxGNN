@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clopidogrel: nova indicação prevista, enxaqueca com aura de tronco encefálico (migraine with brainstem aura) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ Para esta previsão específica, há **0 ensaios clínicos** e **15 publicaçõe
 | Nova Indicação Prevista | enxaqueca com aura de tronco encefálico (migraine with brainstem aura) |
 | Pontuação de Previsão TxGNN | 0,9944 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 9) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 30 de 68) |
+| Número de Registros | 68 (ativos: 30) |
 | Decisão Recomendada | Hold |
 
 Observação sobre o nível de evidência: nenhuma das publicações citadas estuda diretamente a enxaqueca com aura de tronco encefálico; elas tratam de enxaqueca com aura em geral, de enxaqueca associada a FOP ou de enxaqueca após fechamento de comunicação interatrial. Por isso o nível é L5.

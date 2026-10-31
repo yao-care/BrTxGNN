@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 113
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Belinostat: nova indicação prevista, Leucemia Mieloide (Myeloid Leukemia) (nível de evidência L2). Indicação original: Antineoplásico"
 monitor_inn: "belinostat"
 predicted_indications: ["myeloid leukemia", "plasma cell myeloma", "indolent plasma cell myeloma"]
@@ -100,9 +100,9 @@ Ressalva importante: não existe ensaio de Fase 3, e os dados de Fase 1/2 dispon
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 139000002 (cancelado) | BELEODAQ | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 139000002 | BELEODAQ | PINT PHARMA PRODUTOS MEDICO-HOSPITALARES E FARMACE | Ativo |
 
 ---
 

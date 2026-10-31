@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 484
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "OLANZAPINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: nova indicação prevista, Benign paroxysmal torticollis of infancy (nível de evidência L5). Indicação original: ANTIPSICOTICOS"
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Agorafobia (Agoraphobia)**, a i
 | Nova Indicação Prevista | Benign paroxysmal torticollis of infancy |
 | Pontuação de Previsão TxGNN | 0.9954 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 28 de 73) |
+| Número de Registros | 73 (ativos: 28) |
 | Decisão Recomendada | Hold (questão de pesquisa) |
 
 ### Comparação das candidatas previstas
@@ -89,13 +89,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Foram encontrados 20 registros válidos; o medicamento está comercializado. Os cinco principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 110390188 | Olanzapina | Não informada | Antipsicóticos |
-| Registro 105730028 | Olanexyn | Não informada | Antipsicóticos |
-| Registro 109740320 | Olanzys | Não informada | Antipsicóticos |
-| Registro 125680293 | Onaz | Não informada | Antipsicóticos |
-| Registro 102980390 | Crisapina | Não informada | Antipsicóticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431057 | OLANZAPINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431382 | ZAP | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100630290 | OLANZAPINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101830152 | OLANZAPINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Ativo |
+| 102351006 | OLANZAPINA | EMS S/A | Ativo |
+| 102351317 | ZOPIX | EMS S/A | Ativo |
+| 102980390 | CRISAPINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980391 | OLANZAPINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700727 | OLANZAPINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900193 | ZESTEN | FARMOQUÍMICA S/A | Ativo |
+| 105730028 | OLANEXYN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730431 | AXONIUM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730642 | OLANZAPINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830965 | OLANZAPINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740319 | OLANZAPINA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740320 | OLANZYS | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 110390188 | OLANZAPINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 112060023 | OLANZAPINA | UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE | Ativo |
+| 118190454 | OLANZAPINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680273 | OLANZAPINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680293 | ONAZ | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 141070617 | OLANZAPINA | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 151670047 | OLANZAPINA | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
+| 154230222 | OLANZAPINA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840515 | OLANZAPINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840697 | OLANZAPINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156510036 | OLANZAPINA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 189770009 | ZYPREXA | BIOPAS BRASIL PRODUTOS FARMACEUTICOS LTDA | Ativo |
+| 100430705 | OLESKIZ | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100431058 | ZAP | EUROFARMA LABORATORIOS S.A. | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

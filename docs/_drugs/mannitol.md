@@ -50,8 +50,8 @@ mas hoje há **0 ensaios clínicos** e apenas **1 publicação** (uma revisão g
 | Nova Indicação Prevista | Síndrome nefrogênica de antidiurese inapropriada (nephrogenic syndrome of inappropriate antidiuresis) |
 | Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 21 de 42) |
+| Número de Registros | 42 (ativos: 21) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -76,13 +76,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Há 20 registros válidos. Principais registros (máximo de 5):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 117720008 | Solução de Manitol Equiplex | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
-| Registro 111200002 | Manitol a 20% Basa | Não informada | Diuréticos |
-| Registro 106830090 | Manitol Baxter | Não informada | Diuréticos osmóticos |
-| Registro 126800003 | Manitol 20% | Não informada | Diuréticos simples |
-| Registro 104910067 | Manitol 3% | Não informada | Produtos para vias urinárias |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410052 | PURISOLE SM | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410122 | MANITOL 20% | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100850042 | SOLUCÃO DE MANITOL 20% | LABORATORIOS B. BRAUN S/A | Ativo |
+| 102980534 | SOLUÇÃO DE MANITOL 20% | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103110071 | MANITOL 20% | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110175 | SORBITOL + MANITOL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103460011 | MANITOL BEKER | BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA | Ativo |
+| 103870054 | HYPOFARMA MANITOL 20% | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 104910012 | JP MANITOL | JP INDUSTRIA FARMACEUTICA S/A | Ativo |
+| 104910067 | MANITOL 3% | JP INDUSTRIA FARMACEUTICA S/A | Ativo |
+| 105730366 | LEVOID | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 106830090 | MANITOL BAXTER | BAXTER HOSPITALAR LTDA | Ativo |
+| 110850037 | MANITOL FARMACE | FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LT | Ativo |
+| 111200002 | MANITOL A 20 % BASA | BASAL INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 117720008 | SOLUCAO DE MANITOL EQUIPLEX | EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 117720027 | MANITOL | EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 125760032 | PORTEBRO | UNITED MEDICAL LTDA | Ativo |
+| 126800003 | MANITOL 20% | COPERMED COMERCIAL IMPORTADORA LTDA | Ativo |
+| 162300005 | MANITOL | BDN TRADING LTDA | Ativo |
+| 174650019 | MANITOL | FARMA VISION IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENT | Ativo |
+| 182650004 | MANITOL 20% | AURANTIS INDUSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100410012 | FRESENITOL | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410121 | ENDONITOL | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100431045 | MANITOL 20% | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470263 | ENAPROTEC | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100630245 | MANITOL 20% | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100730012 | SOLUÇÃO INJETÁVEL MANITOL 20% | INDÚSTRIA FARMACÊUTICA TEXON LTDA | Cancelado |
+| 100850077 | SOLUÇÃO DE SORBITOL E MANITOL COMPOSTA | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850108 | MANITOL | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 101390012 | SOLUCAO DE MANITOL 20% | LABORATÓRIO SANOBIOL LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

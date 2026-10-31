@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 382
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Ketoconazole: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Antimicótico"
 monitor_inn: "KETOCONAZOLE"
 predicted_indications: ["acne (disease)"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, atualm
 | Nova Indicação Prevista | Acne (acne (disease)) |
 | Pontuação de Previsão TxGNN | 0,9980 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 17) |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 69 de 259) |
+| Número de Registros | 259 (ativos: 69) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -86,13 +86,40 @@ A pontuação elevada do TxGNN é apenas uma previsão computacional. Parte da l
 
 Há 20 registros válidos e o medicamento está comercializado. Os cinco primeiros são listados abaixo (a forma farmacêutica não consta nos dados compilados).
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105350176 | Cetomicoss | Não informada | Antimicótico |
-| Registro nº 155840263 | Cetoneo | Não informada | Antimicótico |
-| Registro nº 154230254 | Cetoconazol | Não informada | Antimicóticos sistêmicos |
-| Registro nº 109630057 | Cetoconazol | Não informada | Antimicóticos para uso tópico |
-| Registro nº 183260090 | Cetoconazol + dipropionato de betametasona | Não informada | Glicocorticoides tópicos - associação medicamentosa |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430797 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430798 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430820 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA + SULFATO DE NEOM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430821 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA + SULFATO DE NEOM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430824 | TROK-N | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431429 | TROK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431430 | TROK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350459 | CETOCONAZOL | EMS S/A | Ativo |
+| 102350501 | EMSCORT | EMS S/A | Ativo |
+| 102350591 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | EMS S/A | Ativo |
+| 102350592 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | EMS S/A | Ativo |
+| 102351273 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA + SULFATO DE NEOM | EMS S/A | Ativo |
+| 103700092 | LOZAN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700246 | CETOCORT | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700464 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA + SULFATO DE NEOM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700468 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA + SULFATO DE NEOM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700496 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700497 | CETOCONAZOL+ DIPROPIONATO DE BETAMETASONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700693 | CETOCORT-N | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700700 | CETOCORT-N | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700715 | CETOCONAZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104400180 | CETOBETA | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104400207 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA + SULFATO DE NEOM | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104810094 | CETOCONAZOL | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810116 | CETOCONAZOL+DIPROPIONATO DE BETAMETASONA+SULFATO DE NEOMICIN | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105350168 | CETOCONAZOL+DIPROPIONATO DE BETAMETASONA | LABORATÓRIO GLOBO SA | Ativo |
+| 105350176 | CETOMICOSS | LABORATÓRIO GLOBO SA | Ativo |
+| 105350182 | CETOCONAZOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105710149 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA + SULFATO DE NEOM | BELFAR LTDA | Ativo |
+| 105710153 | BETACORTAZOL | BELFAR LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

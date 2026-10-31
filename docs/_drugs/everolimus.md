@@ -50,8 +50,8 @@ atualmente com **1 ensaio clínico** (Fase 2, em combinação com ribociclibe) e
 | Nova Indicação Prevista | Lipossarcoma (liposarcoma) |
 | Pontuação de Previsão TxGNN | 0,9988 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 11) |
-| Número de Registros | 11 (ativos: 11) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 14) |
+| Número de Registros | 14 (ativos: 11) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -81,13 +81,22 @@ A lógica biológica é coerente, mas a evidência clínica disponível é um ú
 
 Todos os 11 registros constam como válidos. Os cinco principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100681065 | AFINITOR | Não informada | Antineoplásico |
-| Registro nº 102351418 | EVEROLIMO | Não informada | Agente imunossupressor |
-| Registro nº 100680959 | CERTICAN | Não informada | Agente imunossupressor |
-| Registro nº 151430082 | TORHANZ | Não informada | Antineoplásico |
-| Registro nº 182610004 | EXHER | Não informada | Agentes antineoplásicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100680959 | CERTICAN | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681065 | AFINITOR | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102351418 | EVEROLIMO | EMS S/A | Ativo |
+| 110630162 | EVEROLIMO | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 112060026 | EVEROLIMO | UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE | Ativo |
+| 151430078 | EVEROLIMO | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 151430082 | TORHANZ | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155370113 | EVEROLIMO | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370122 | EVTOR | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 182610002 | EVEROLIMO | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 182610004 | EXHER | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 100330198 | OSYS | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100470642 | ROMUFY | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 110390169 | EVEROLIMO | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
 
 ## Citotoxicidade
 

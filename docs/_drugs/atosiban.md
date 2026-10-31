@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Atosiban: nova indicação prevista, Glaucoma hereditário primário (primary hereditary glaucoma) (nível de evidência L5). Indicação original: Outros produtos para uso em ginecologia e obstetrícia"
 monitor_inn: "atosiban"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "visceral calciphylaxis"]
@@ -83,12 +83,12 @@ A única indicação com alguma literatura é "doença vascular". Os estudos rec
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 128760022 | Acetato de Atosibana | Não informada | Outros produtos para uso em ginecologia e obstetrícia |
-| Registro nº 128760010 | Tractocile | Não informada | Outros produtos para uso em ginecologia e obstetrícia |
-| Registro nº 155370051 | Acetato de Atosibana | Não informada | Outros produtos para uso em ginecologia e obstetrícia |
-| Registro nº 155370058 | Attosy | Não informada | Outros produtos para uso em ginecologia e obstetrícia |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 128760010 | TRACTOCILE | LABORATÓRIOS FERRING LTDA | Ativo |
+| 128760022 | ACETATO DE ATOSIBANA | LABORATÓRIOS FERRING LTDA | Ativo |
+| 155370051 | ACETATO DE ATOSIBANA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370058 | ATTOSY | ACCORD FARMACÊUTICA LTDA | Ativo |
 
 Os 4 registros estão **válidos** (4 de 4); o medicamento é comercializado no Brasil.
 

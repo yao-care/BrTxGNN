@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (um relat
 | Nova Indicação Prevista | Porfiria Aguda Intermitente (Acute Intermittent Porphyria) |
 | Pontuação de Previsão TxGNN | 0,9941 |
 | Nível de Evidência | L5 (apenas previsão do modelo; a literatura disponível é um relato de caso sem evidência de eficácia) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 8) |
+| Número de Registros | 8 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,13 +74,16 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 122140137 (cancelado) | LUSANDA | Não informada | Analgésicos narcóticos |
-| Registro 191980002 (cancelado) | RESTIVA | Não informada | Analgésicos narcóticos |
-| Registro 186100012 (cancelado) | TRANSTEC | Não informada | Analgésicos |
-| Registro 122140134 (cancelado) | BUPRENORFINA | Não informada | Analgésicos narcóticos |
-| Registro 191980011 (cancelado) | NORPATCH | Não informada | Analgésicos narcóticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 122140134 | BUPRENORFINA | ADIUM S.A. | Ativo |
+| 122140137 | LUSANDA | ADIUM S.A. | Ativo |
+| 186100012 | TRANSTEC | GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. | Ativo |
+| 191980002 | RESTIVA | MUNDIPHARMA BRASIL PRODUTOS MÉDICOS E FARMACÊUTICO | Ativo |
+| 191980011 | NORPATCH | MUNDIPHARMA BRASIL PRODUTOS MÉDICOS E FARMACÊUTICO | Ativo |
+| 100930162 | TEMGESIC | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 122140077 | RESTIVA | ADIUM S.A. | Cancelado |
+| 172870522 | TEMGESIC | HYPERA S.A. | Cancelado |
 
 ## Considerações de Segurança
 

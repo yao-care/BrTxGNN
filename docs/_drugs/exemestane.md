@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Exemestane"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Exemestane: nova indicação prevista, Deficiência de antitrombina tipo 2 (antithrombin deficiency type 2) (nível de evidência L5). Indicação original: ANTINEOPLASICO"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência de antitrombina ti
 | Nova Indicação Prevista | Deficiência de antitrombina tipo 2 (antithrombin deficiency type 2) |
 | Pontuação de Previsão TxGNN | 0,9983 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 9) |
+| Número de Registros | 9 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -63,13 +63,17 @@ A pontuação elevada (0,9983) reflete apenas a previsão do modelo, sem respald
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 146820072 | EMAH | Não informada | Antineoplásico |
-| Registro 121100397 | AROMASIN | Não informada | Antineoplásico |
-| Registro 155370048 | EXEMESTANO | Não informada | Antineoplásico |
-| Registro 100431336 | PROEXTY | Não informada | Agentes antineoplásicos |
-| Registro 146820066 | EXEMESTANO | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431336 | PROEXTY | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 121100397 | AROMASIN | PFIZER BRASIL LTDA | Ativo |
+| 146820066 | EXEMESTANO | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 146820072 | EMAH | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155370048 | EXEMESTANO | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 102160141 | AROMASIN | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 103840001 | AROMASIN | PHARMACIA BRASIL LTDA | Cancelado |
+| 121100335 | EXEMESTANO | PFIZER BRASIL LTDA | Cancelado |
+| 149320013 | EXEMESTANO | KEMMI PHARMA LTDA | Cancelado |
 
 ## Citotoxicidade
 

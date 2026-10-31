@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Cilastatin: nova indicação prevista, Infecção por Staphylococcus aureus (staphylococcus aureus infection) (nível de evidência L3). Indicação original: ANTIBIOTICOS SISTEMICOS-ASSOCIACOES MEDICAMENTOS…"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que a associação pode ser útil em **infecção por Stap
 | Nova Indicação Prevista | Infecção por Staphylococcus aureus (staphylococcus aureus infection) |
 | Pontuação de Previsão TxGNN | 0,9994 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 9) |
-| Número de Registros | 9 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 21) |
+| Número de Registros | 21 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -86,13 +86,29 @@ Assim, a ligação é indireta e atribuível ao fármaco parceiro. A previsão �
 
 Os dados compilados indicam 9 registros e situação de comercialização "Comercializado".
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 137040002 | Imipenem + Cilastatina Sódica | Não informada | Antibióticos sistêmicos – associações medicamentosas |
-| 100630137 | Tiepem | Não informada | Antibióticos sistêmicos – associações medicamentosas |
-| 155620013 | Imipenem + Cilastatina | Não informada | Antibióticos sistêmicos – associações medicamentosas |
-| 102010053 | Penexil | Não informada | Antibióticos sistêmicos – associações medicamentosas |
-| 101710236 | Recarbrio | Não informada | Antibacteriano |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100630137 | TIEPEM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100630239 | IMIPENEM + CILASTATINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101710236 | RECARBRIO | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Ativo |
+| 102010053 | PENEXIL | QUIMICA HALLER LTDA | Ativo |
+| 104970228 | IMICIL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 110110037 | IMIPENEM + CILASTATINA SÓDICA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 123520204 | IMIPENEM + CILASTATINA SÓDICA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 137040002 | IMIPENEM + CILASTATINA SÓDICA | MIDFARMA PRODUTOS FARMACEUTICOS LTDA | Ativo |
+| 155620013 | IMIPENEM + CILASTATINA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 100290026 | TIENAM | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 100410218 | IMIPENEM + CILASTATINA SÓDICA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430578 | CLASTIPEN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 104650186 | INFEPEN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 106460125 | MENIPEN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 112830051 | ITINEM | LABORATORIO ITAFARMA LTDA | Cancelado |
+| 114020069 | IMIPENEM + CILASTATINA SÓDICA | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 120690020 | IMIPENEM + CILASTATINA SODICA | LABORATÓRIOS LIBRA DO BRASIL LTDA | Cancelado |
+| 124730003 | IMIPENEM + CILASTATINA SÓDICA |  TARGO COMÉRCIO INTERNACIONAL LIMITADA | Cancelado |
+| 137640124 | IMISTAT | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 137640125 | IMIPENÉM MONOIDRATADO + CILASTATINA SÓDICA | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 188300029 | IMIPENÉM MONOIDRATADO + CILASTATINA SÓDICA | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
 
 Foram listados 5 dos 9 registros.
 

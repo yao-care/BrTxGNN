@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 466
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Mupirocin: nova indicação prevista, Empiema Pleural (pleural empyema) (nível de evidência L5). Indicação original: Antiinfecciosos tópicos"
 monitor_inn: "mupirocin"
 predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Empiema Pleural (pleural empyema) |
 | Pontuação de Previsão TxGNN | 0,9949 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
-| Número de Registros | 8 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 20) |
+| Número de Registros | 20 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -74,13 +74,28 @@ Há, contudo, limitações importantes. A mupirocina é formulada apenas para us
 
 Os 8 registros estão válidos (8 de 8); o medicamento é comercializado atualmente no Brasil.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 109170132 | Bacrocin | Não informada | Antiinfecciosos tópicos |
-| Registro nº 100630269 | Mupirocina | Não informada | Antiinfecciosos tópicos |
-| Registro nº 125680157 | Mupirocina | Não informada | Antiinfecciosos tópicos |
-| Registro nº 107150145 | Dermoban | Não informada | Antiinfecciosos tópicos |
-| Registro nº 102980268 | Mupirocina | Não informada | Antiinfecciosos tópicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100630269 | MUPIROCINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101070078 | BACTROBAN | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+| 102980268 | MUPIROCINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980619 | MUPIFOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 107150145 | DERMOBAN | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 109170132 | BACROCIN | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 125680157 | MUPIROCINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 155840342 | BACTRONEO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 101810514 | MUPIROCINA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350977 | DERMOPIROX | EMS S/A | Cancelado |
+| 102350979 | MUPIROCINA | EMS S/A | Cancelado |
+| 102980429 | MUPIFOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 104650257 | BACTRONEO | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105750057 | BACROCIN | VALEANT FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 105770181 | BACTOCIN | LABORATIL FARMACEUTICA LTDA | Cancelado |
+| 109740138 | MUPIR | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 110130228 | SUPIROCIN | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+| 119610021 | BACROCIN | BL INDÚSTRIA OTICA LTDA | Cancelado |
+| 124510009 | PIROCITOM | TOMMUS QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 172870389 | BACTRONEO | HYPERA S.A. | Cancelado |
 
 ---
 

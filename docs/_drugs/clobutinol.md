@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clobutinol"
 predicted_indications: ["typhoid fever", "mucocutaneous leishmaniasis", "leishmaniasis, diffuse cutaneous", "diffuse scleroderma", "pneumonia", "trigonitis", "bronchiolitis obliterans with obstructive pulmonary disease", "paratyphoid fever", "cystitis", "combined immunodeficiency due to DOCK8 deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clobutinol: nova indicação prevista, febre tifoide (typhoid fever) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **febre tifoide (typhoid fever)**
 | Nova Indicação Prevista | febre tifoide (typhoid fever) |
 | Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 2) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 18) |
+| Número de Registros | 18 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

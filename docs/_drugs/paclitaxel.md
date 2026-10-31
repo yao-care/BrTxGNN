@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 504
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel: nova indicação prevista, Parameningeal embryonal rhabdomyosarcoma (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para o **carcinoma de mama feminino (f
 | Nova Indicação Prevista | Parameningeal embryonal rhabdomyosarcoma |
 | Pontuação de Previsão TxGNN | 0.9973 |
 | Nível de Evidência | L5 (L1 não atribuído ao carcinoma de mama feminino, pois os ensaios Phase 3 listados não testam diretamente o paclitaxel como variável principal) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 49) |
+| Número de Registros | 49 (ativos: 15) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?

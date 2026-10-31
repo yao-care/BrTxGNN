@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 566
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Rifaximin: nova indicação prevista, Candidíase oral (oral candidiasis) (nível de evidência L4). Indicação original: RIFAXIMINA"
 monitor_inn: "rifaximin"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **candidíase oral (oral candidia
 | Nova Indicação Prevista | Candidíase oral (oral candidiasis) |
 | Pontuação de Previsão TxGNN | 0,9975 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -71,9 +71,10 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 109740276 (cancelado) | XIFAXAN | Não informada | RIFAXIMINA |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 109740276 | XIFAXAN | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740225 | XIFAXAN | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 669
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "VILDAGLIPTIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Vildagliptin: nova indicação prevista, Síndrome da pessoa rígida clássica (classic stiff person syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para a **síndrome da pessoa rígida c
 | Nova Indicação Prevista | Síndrome da pessoa rígida clássica (classic stiff person syndrome) |
 | Pontuação de Previsão TxGNN | 0.9988 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 14) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 28 de 36) |
+| Número de Registros | 36 (ativos: 28) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

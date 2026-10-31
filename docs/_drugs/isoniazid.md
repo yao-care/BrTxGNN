@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 376
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Isoniazid: nova indicação prevista, Conjuntivite (Conjunctivitis) (nível de evidência L4). Indicação original: Tuberculostáticos (tratamento da tuberculose)"
 monitor_inn: "isoniazid"
 predicted_indications: ["conjunctivitis"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **12 publicações** (em sua
 | Nova Indicação Prevista | Conjuntivite (Conjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9936 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
-| Número de Registros | 6 (ativos: 6) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 29) |
+| Número de Registros | 29 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -87,13 +87,37 @@ Não há ensaios randomizados entre as publicações. Estão listadas abaixo as 
 
 Dos 6 registros, 6 estão válidos no Brasil; o medicamento é comercializado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 110390106 | FURP-ISONIAZIDA | Não informada | Tuberculostáticos |
-| Registro nº 112330036 | LAQFA-ISONIAZIDA | Não informada | Tuberculostáticos |
-| Registro nº 110630073 | FARMANGUINHOS - ISONIAZIDA | Não informada | Tuberculostáticos |
-| Registro nº 126250029 | LFM - ISONIAZIDA | Não informada | Tuberculostáticos |
-| Registro nº 110630139 | FARMANGUINHOS ISONIAZIDA + RIFAMPICINA | Não informada | Tuberculostáticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 110390106 | FURP-ISONIAZIDA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 110630073 | FARMANGUINHOS - ISONIAZIDA | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 110630139 | FARMANGUINHOS ISONIAZIDA + RIFAMPICINA | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 110630140 | FARMANGUINHOS RIFAMPICINA+ISONIAZIDA+PIRAZINAMIDA+ETAMBUTOL | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 112330036 | LAQFA-ISONIAZIDA | LABORATORIO QUIMICO FARMACEUTICO DA AERONAUTICA | Ativo |
+| 126250029 | LFM - ISONIAZIDA | LABORATÓRIO FARMACÊUTICO DA MARINHA | Ativo |
+| 101830005 | LAFEPE- ISONIAZIDA + RIFAMPICINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 101830094 | LAFEPE- ISONIAZIDA + RIFAMPICINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 101830146 | ISONIAZIDA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 102350323 | ISONIAZIDA EMS | EMS S/A | Cancelado |
+| 102350324 | RIFAMISON | EMS S/A | Cancelado |
+| 103110054 | ISOFAN | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 104070077 | ISONIAZIDA + RIFAMPICINA | INSTITUTO VITAL BRAZIL S/A | Cancelado |
+| 104080045 | RIFADAL | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 104080055 | ISONIDAX | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 104650155 | TUBERZID | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104971312 | ISON | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 107140101 | ISONIATON | SANVAL COMERCIO E INDUSTRIA LTDA | Cancelado |
+| 107150094 | ISONIAZIN | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Cancelado |
+| 108580246 | RIFAZOMIDA | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 108840291 | IQUEGO-ISONIAZIDA | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Cancelado |
+| 108840299 | IQUEGO-ISONIAZIDA + RIFAMPICINA | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Cancelado |
+| 110390166 | FURP - ISONIAZIDA + RIFAMPICINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+| 110630079 | FARMANGUINHOS - ISONIAZIDA + RIFAMPICINA | FUNDAÇÃO OSWALDO CRUZ | Cancelado |
+| 112060007 | NUPLAM - ISONIAZIDA + RIFAMPICINA | UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE | Cancelado |
+| 112060018 | NUPLAM - ISONIAZIDA | UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE | Cancelado |
+| 112080059 | LQFE ISONIAZIDA | LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO | Cancelado |
+| 113050032 | RIFANSIL COMPOSTO | LUMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 120190003 | ISONIAZIDA | GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

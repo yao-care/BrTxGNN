@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Enflurane: nova indicação prevista, Transtorno Afetivo Bipolar Maníaco (Manic Bipolar Affective Disorder) (nível de evidência L5). Indicação original: Anestésicos gerais voláteis e gasosos"
 monitor_inn: "enflurane"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "dysthymic disorder", "Prinzmetal angina", "myofascial pain syndrome", "migraine disorder", "bipolar disorder"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Transtorno Afetivo Bipolar Maníaco (Manic Bipolar Affective Disorder) |
 | Pontuação de Previsão TxGNN | 0,9969 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
+| Número de Registros | 4 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -84,9 +84,12 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102980157 (cancelado) | ENFLURAN | Não informada | Anestésicos gerais voláteis e gasosos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980157 | ENFLURAN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 100630217 | ENURAN | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100630220 | ENFLURANO | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105530138 | ETRANE | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
 
 ## Considerações de Segurança
 

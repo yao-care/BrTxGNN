@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 518
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Perindopril: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disea… (nível de evidência L4). Indicação original: Anti-hipertensivos"
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **1 publicação** (sem relevância
 | Nova Indicação Prevista | Doença renal hipertensiva maligna (malignant hypertensive renal disease) |
 | Pontuação de Previsão TxGNN | 0,9977 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
-| Número de Registros | 6 (ativos: 6) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 11) |
+| Número de Registros | 11 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,13 +74,19 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 112780074 | ACERTIL | Não informada | Anti-hipertensivos (cancelado) |
-| Registro nº 123520206 | PERINDOPRIL ERBUMINA | Não informada | Anti-hipertensivos simples (cancelado) |
-| Registro nº 112780075 | ACERTANLO | Não informada | Anti-hipertensivos (cancelado) |
-| Registro nº 102351261 | PERINDOPRIL ERBUMINA + INDAPAMIDA | Não informada | Anti-hipertensivos (cancelado) |
-| Registro nº 112780077 | ACERTALIX | Não informada | Anti-hipertensivos (cancelado) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102351261 | PERINDOPRIL ERBUMINA + INDAPAMIDA | EMS S/A | Ativo |
+| 112780074 | ACERTIL | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 112780075 | ACERTANLO | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 112780077 | ACERTALIX | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 112780084 | TRIPLIXAM | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 123520206 | PERINDOPRIL ERBUMINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 105250036 | PERICOR | TORRENT DO BRASIL LTDA | Cancelado |
+| 105250037 | PERINDOPRIL | TORRENT DO BRASIL LTDA | Cancelado |
+| 110130257 | PERICARD PLUS | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+| 112780051 | COVERSYL | LABORATÓRIOS SERVIER DO BRASIL LTDA | Cancelado |
+| 112780056 | COVERSYL PLUS | LABORATÓRIOS SERVIER DO BRASIL LTDA | Cancelado |
 
 Há ainda um sexto registro (TRIPLIXAM, inibidores da ECA, associações), também cancelado.
 

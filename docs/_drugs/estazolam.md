@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Estazolam"
 predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "audiogenic seizures", "startle epilepsy", "thinking seizures", "micturation-induced seizures", "eating seizures"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Estazolam: nova indicação prevista, Epilepsia visual (nível de evidência L5). Indicação original: Não informada nos registros compilados"
 ---
 
@@ -82,13 +82,15 @@ Os artigos abaixo são indiretos: nenhum estuda a epilepsia visual em si.
 
 Os registros abaixo não trazem texto de indicação aprovada nem forma farmacêutica. Vários nomes comerciais indicam produtos à base de diazepam, o que deve ser verificado na fonte regulatória.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada | Situação |
-|---------|------|------|-----------|------|
-| Registro 105530045 | Noctal | Não informada | Não informada | Válido |
-| Registro 104920087 | Menostress | Não informada | Não informada | Cancelado |
-| Registro 112060008 | Nuplam-Diazepam | Não informada | Não informada | Cancelado |
-| Registro 110390007 | FURP-Diazepam | Não informada | Não informada | Cancelado |
-| Registro 103080010 | Diazepan | Não informada | Não informada | Cancelado |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 105530045 | NOCTAL | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 101860029 | DIAZEPAM COMPOSTO INJETÁVEL | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Cancelado |
+| 103080010 | DIAZEPAN | PETROLABOR IND FTCA LTDA | Cancelado |
+| 104920087 | MENOSTRESS | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 110390007 | FURP-DIAZEPAM | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+| 112060008 | NUPLAM-DIAZEPAM | UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE | Cancelado |
+| 113430086 | DIAZEPAMIL | HIPOLABOR FARMACEUTICA LTDA | Cancelado |
 
 Há ainda 2 registros cancelados (Diazepamil e Diazepam Composto Injetável), totalizando 7.
 

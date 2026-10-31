@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Metreleptin: nova indicação prevista, Lentiginose generalizada familiar (familial generalized lentiginosis) (nível de evidência L5). Indicação original: Outros produtos para o aparelho digestivo e me…"
 monitor_inn: "metreleptin"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "Moynahan syndrome", "rhabdoid tumor", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "benign neoplasm of adrenal gland", "peripheral nerve schwannoma"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **lentiginose generalizada famili
 | Nova Indicação Prevista | Lentiginose generalizada familiar (familial generalized lentiginosis) |
 | Pontuação de Previsão TxGNN | 0,9971 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -63,9 +63,10 @@ Portanto, a previsão não tem respaldo mecanístico claro. Também não há ens
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100580123 (cancelado) | MYALEPT | Não informada | Outros produtos para o aparelho digestivo e metabolismo |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100580123 | MYALEPT | CHIESI FARMACÊUTICA LTDA | Ativo |
+| 175040002 | MYALEPT | AMRYT BRASIL COMERCIO E IMPORTACAO DE MEDICAMENTOS | Cancelado |
 
 ## Considerações de Segurança
 

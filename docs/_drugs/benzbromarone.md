@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 119
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Benzbromarone: nova indicação prevista, Hipouricemia Renal (Hypouricemia, renal) (nível de evidência L5). Indicação original: Antigotoso"
 monitor_inn: "benzbromarone"
 predicted_indications: ["hypouricemia, renal"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipouricemia Renal (Hypouricemi
 | Nova Indicação Prevista | Hipouricemia Renal (Hypouricemia, renal) |
 | Pontuação de Previsão TxGNN | 0,9907 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -84,9 +84,10 @@ Nenhum dos estudos abaixo avalia a benzbromarona como tratamento da hipouricemia
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100380103 (cancelado) | ZILARICINA | Não informada | Antigotoso |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100380103 | ZILARICINA | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
+| 104450128 | NARCARICINA | LABORATORIO SINTERAPICO INDUSTRIAL FTCO LTDA | Cancelado |
 
 ## Considerações de Segurança
 

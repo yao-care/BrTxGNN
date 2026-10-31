@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 596
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Sorbitol"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
 description: "Sorbitol: nova indicação prevista, Hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -49,8 +49,8 @@ A previsão vem do modelo TxGNN (deep learning) e pode refletir semelhanças que
 | Nova Indicação Prevista | Hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) |
 | Pontuação de Previsão TxGNN | 0.9940 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 3) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 33) |
+| Número de Registros | 33 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

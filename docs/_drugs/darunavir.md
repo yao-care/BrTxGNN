@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DARUNAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Darunavir: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (nível de evidência L5). Indicação original: Infecção por HIV e AIDS"
 ---
 
@@ -88,13 +88,14 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 188300114 | Darunavir (Viatris) | Não informada | Texto de indicação não disponível |
-| Registro 112330056 | Darunavir (Laboratório Químico Farmacêutico da Aeronáutica) | Não informada | Texto de indicação não disponível |
-| Registro 112363387 | Prezista | Não informada | Texto de indicação não disponível |
-| Registro 112363434 | Symtuza® | Não informada | Texto de indicação não disponível |
-| Registro 101830156 | Darunavir (LAFEPE) | Não informada | Texto de indicação não disponível |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101830156 | DARUNAVIR | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Ativo |
+| 102980571 | DARVYR | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 112330056 | DARUNAVIR | LABORATORIO QUIMICO FARMACEUTICO DA AERONAUTICA | Ativo |
+| 112363387 | PREZISTA | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 112363434 | SYMTUZA® | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 188300114 | DARUNAVIR | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
 
 Há ainda o registro 102980571 (Darvyr, Cristália), totalizando 6 registros válidos. Todos constam como produtos de princípio ativo único.
 

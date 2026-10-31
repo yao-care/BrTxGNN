@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 657
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Triptorelin: nova indicação prevista, Hipertricose (hypertrichosis) (nível de evidência L5). Indicação original: Outros produtos para o aparelho digestivo e metabolismo"
 monitor_inn: "triptorelin"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
@@ -85,11 +85,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Os 3 registros estão válidos (3 de 3); o medicamento é comercializado no Brasil.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 128760009 | Gonapeptyl Depot | Não informada | Outros produtos para o aparelho digestivo e metabolismo |
-| Registro nº 128760014 | Gonapeptyl Daily | Não informada | Outros produtos para o aparelho digestivo e metabolismo |
-| Registro nº 105730120 | Neo Decapeptyl | Não informada | Outros prods. não enquadrados em classe terapêutica específica |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 105730120 | NEO DECAPEPTYL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 128760009 | GONAPEPTYL DEPOT | LABORATÓRIOS FERRING LTDA | Ativo |
+| 128760014 | GONAPEPTYL DAILY | LABORATÓRIOS FERRING LTDA | Ativo |
 
 ---
 

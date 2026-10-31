@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 555
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pseudoephedrine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L4). Indicação original: Anti-histamínicos sistêmicos (em associação)"
 monitor_inn: "PSEUDOEPHEDRINE"
 predicted_indications: ["nasal cavity disease", "allergic urticaria"]
@@ -50,8 +50,8 @@ atualmente com **0 ensaios clínicos** e **7 publicações** (em sua maioria pr�
 | Nova Indicação Prevista | Doença da cavidade nasal (nasal cavity disease) |
 | Pontuação de Previsão TxGNN | 0,9975 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 30 de 127) |
+| Número de Registros | 127 (ativos: 30) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -82,13 +82,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Há 20 registros válidos. Principais exemplos:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 143810256 | Loratamed D | — | Anti-histamínicos sistêmicos |
-| Registro 104810148 | Loratadina + sulfato de pseudoefedrina | — | Anti-histamínicos sistêmicos |
-| Registro 102350874 | Paracetamol + cloridrato de pseudoefedrina | — | Produto para terapia sintomática da gripe |
-| Registro 186200001 | Allegra D | — | Descongestionantes nasais sistêmicos |
-| Registro 157211208 | Tylenol Sinus | — | Produto para terapia sintomática da gripe |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290187 | DESALEX D12 | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100431589 | PARACETAMOL + CLORIDRATO DE PSEUDOEFEDRINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350637 | ALLEXOFEDRIN | EMS S/A | Ativo |
+| 102350684 | MALEATO DE DEXCLORFENIRAMINA + SULFATO DE PSEUDOEFEDRINA + G | EMS S/A | Ativo |
+| 102350860 | ALLEXOFEDRIN D | EMS S/A | Ativo |
+| 102350874 | PARACETAMOL + CLORIDRATO DE PSEUDOEFEDRINA | EMS S/A | Ativo |
+| 102351247 | EMSEXPECTOR | EMS S/A | Ativo |
+| 102351249 | LORATADINA + SULFATO DE PSEUDOEFEDRINA | EMS S/A | Ativo |
+| 102351271 | EMSFEB EFE | EMS S/A | Ativo |
+| 102351362 | CLORIDRATO DE FEXOFENADINA + CLORIDRATO DE PSEUDOEFEDRINA | EMS S/A | Ativo |
+| 103700485 | LORATADINA + SULFATO DE PSEUDOEFEDRINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900155 | ACTIFEDRIN | FARMOQUÍMICA S/A | Ativo |
+| 104810148 | LORATADINA + SULFATO DE PSEUDOEFEDRINA | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971194 | HISTADIN D | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730068 | LUR D12 | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730527 | ESALERG D12 | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730694 | DESLORATADINA + SULFATO DE PSEUDOEFEDRINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730705 | LORATADINA + SULFATO DE PSEUDOEFEDRINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830314 | LORATADINA + SULFATO DE PSEUDOEFEDRINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830900 | PARACETAMOL + CLORIDRATO DE PSEUDOEFEDRINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831021 | CLORIDRATO DE FEXOFENADINA + CLORIDRATO DE PSEUDOEFEDRINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 115600146 | POLARATUSS | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 118190199 | SPECTOLAB EXP | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190486 | RESFEGRIPE SINUS | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190499 | MULTIFLUXIS | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 143810220 | LORATADINA + SULFATO DE PSEUDOEFEDRINA | CIMED INDUSTRIA S.A | Ativo |
+| 143810256 | LORATAMED D | CIMED INDUSTRIA S.A | Ativo |
+| 157211208 | TYLENOL SINUS | KENVUE LTDA. | Ativo |
+| 167730429 | EXPECTAMIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 186200001 | ALLEGRA D | OPELLA HEALTHCARE BRAZIL LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 626
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Tetracycline: nova indicação prevista, Ceratoconjuntivite epitelial punctata (Punctate Epithelial Keratoconj… (nível de evidência L4). Indicação original: Classe das tetraciclinas"
 monitor_inn: "Tetracycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (um relat
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (Punctate Epithelial Keratoconjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9958 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 10) |
-| Número de Registros | 10 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 71) |
+| Número de Registros | 71 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,13 +74,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 103700010 | TETRACLIN | Não informada | Classe das tetraciclinas |
-| Registro nº 115600027 | CINATREX | Não informada | Antiinfecciosos tópicos para uso oftálmico |
-| Registro nº 109170071 | Cloridrato de Tetraciclina | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 177940048 | OFITE PLUS | Não informada | Antiinfecciosos tópicos para uso oftálmico |
-| Registro nº 116370017 | NOVASUTIN | Não informada | Antimicótico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 103700010 | TETRACLIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700567 | CLORIDRATO DE TETRACICLINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103920054 | FUNGITRIN | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 109170009 | TETRAMED | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109170071 | CLORIDRATO DE TETRACICLINA | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 115600027 | CINATREX | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600269 | OFITE PLUS | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 116370017 | NOVASUTIN | BLAU FARMACÊUTICA S.A. | Ativo |
+| 125680171 | CLORIDRATO DE TETRACICLINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 158190016 | TERICIN AT | ARESE PHARMA LTDA. | Ativo |
+| 100380028 | TETRACAPS | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100430621 | ANFOTERICINA B + CLORIDRATO DE  TETRACICLINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470261 | FOCOTRIN | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101800073 | TALSUTIN | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 101800131 | TETREX | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 101800391 | TALSUTIN | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 101810273 | AMBRA SINTO T | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810293 | PARENZYME TETRACICLINA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810342 | TETRACICLINA + ANFOTERICINA B | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810586 | CLORIDRATO DE TETRACICLINA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101860020 | TETRACICLISA | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Cancelado |
+| 102030054 | TETRAMAX | INFABRA INDUSTRIA FARMACEUTICA BRASILEIRA LTDA | Cancelado |
+| 102350228 | TETRAMICIN | EMS S/A | Cancelado |
+| 102350399 | TRICOCILIN B | EMS S/A | Cancelado |
+| 102350590 | CLORIDRATO DE TETRACICLINA + ANFOTERICINA B | EMS S/A | Cancelado |
+| 102980210 | GINO - RICIN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 102980277 | CLORIDRATO DE TETRACICLINA + ANFOTERICINA B | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103700240 | ANFOTERIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103970066 | KANDINAL | PRODUTOS FARMACÊUTICOS MILLET ROUX | Cancelado |
+| 104040115 | TETRALUP | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 Observação: todos os 10 registros encontrados têm licença válida atualmente. Os cinco acima são apresentados como amostra.
 

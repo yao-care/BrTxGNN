@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Metoclopramide: nova indicação prevista, Gastroduodenite (nível de evidência L4). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
@@ -52,8 +52,8 @@ atualmente com **1 ensaio clínico** (de uso procedimental) e **cerca de 20 publ
 | Nova Indicação Prevista | Úlcera gástrica (gastric ulcer) |
 | Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 83) |
+| Número de Registros | 83 (ativos: 20) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -97,13 +97,40 @@ A pontuação muito alta do TxGNN (0,9990) é uma previsão computacional do mod
 
 Os 20 registros encontrados estão **válidos**; o medicamento é comercializado. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 143810162 | Cloridrato de Metoclopramida | Não informada | Antieméticos e antinauseantes |
-| Registro nº 183260318 | Plasil | Não informada | Antieméticos e antinauseantes |
-| Registro nº 103700217 | Plagex | Não informada | Antieméticos e antinauseantes |
-| Registro nº 109170016 | Vomistop | Não informada | Antieméticos e antinauseantes |
-| Registro nº 103870022 | Hyposil | Não informada | Antieméticos e antinauseantes |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101860003 | METOCLOSANTISA | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
+| 103110166 | NOPROSIL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103700217 | PLAGEX | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700281 | CLORIDRATO DE METOCLOPRAMIDA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103870022 | HYPOSIL | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103920247 | VOUMEDI | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920248 | CLORIDRATO DE METOCLOPRAMIDA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105710086 | PLABEL | BELFAR LTDA | Ativo |
+| 105710165 | CLORIDRATO DE METOCLOPRAMIDA | BELFAR LTDA | Ativo |
+| 105730365 | DIGEPLUS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 109170016 | VOMISTOP | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109170151 | PLASIL | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 110390063 | FURP - METOCLOPRAMIDA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 110850021 | METROFARMA | FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LT | Ativo |
+| 113430052 | NOVOSIL | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 113430149 | CLORIDRATO DE METOCLOPRAMIDA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 116370121 | ARISTOPRAMIDA | BLAU FARMACÊUTICA S.A. | Ativo |
+| 143810154 | PLAVOM | CIMED INDUSTRIA S.A | Ativo |
+| 143810162 | CLORIDRATO DE METOCLOPRAMIDA | CIMED INDUSTRIA S.A | Ativo |
+| 144930067 | CLORIDRATO DE METOCLOPRAMIDA | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 100490087 | METOCLOPRAMIL | LABORATÓRIO SAÚDE LTDA | Cancelado |
+| 101810427 | CLORIDRATO DE METOCLOPRAMIDA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810558 | CITROPLUS | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350447 | CLORIDRATO DE METOCLOPRAMIDA | EMS S/A | Cancelado |
+| 102350707 | CLORIDRATO DE METOCLOPRAMIDA | EMS S/A | Cancelado |
+| 102350826 | CLORIDRATO DE METOCLOPRAMIDA | EMS S/A | Cancelado |
+| 102680030 | CLORIDRATO DE METOCLOPRAMIDA | LABORSIL IND FTCA LTDA | Cancelado |
+| 102700037 | ARISTOPRAMIDA | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 102940116 | FLUCCIL | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
+| 103110043 | ISTASIL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

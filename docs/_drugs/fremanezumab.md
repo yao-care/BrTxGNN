@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "fremanezumab"
 predicted_indications: ["atrophoderma vermiculata"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fremanezumab: nova indicação prevista, atrofodermia vermiculada (atrophoderma vermiculata) (nível de evidência L5). Indicação original: OUTROS PRODUTOS QUE ATUAM SOBRE O SISTEMA NERVOSO"
 ---
 
@@ -72,9 +72,9 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 155730050 | AJOVY | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 155730050 | AJOVY | TEVA FARMACÊUTICA LTDA. | Ativo |
 
 ## Considerações de Segurança
 

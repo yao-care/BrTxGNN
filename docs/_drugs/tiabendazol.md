@@ -5,7 +5,7 @@ layout: default
 title: Tiabendazol
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 635
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Situação no Mercado Brasileiro | Não consta nos dados locais |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 57) |
+| Número de Registros | 57 (ativos: 1) |
 
 ---
 

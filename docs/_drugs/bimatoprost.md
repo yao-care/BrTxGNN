@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Bimatoprost: nova indicação prevista, Síndrome malformativa com componente dentário e/ou periodontal (malformation syndrome with odontal and/or periodontal c… (nível de evidência L5). Indicação origi…"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **síndrome malformativa com comp
 | Nova Indicação Prevista | Síndrome malformativa com componente dentário e/ou periodontal (malformation syndrome with odontal and/or periodontal component) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 10) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 35) |
+| Número de Registros | 35 (ativos: 18) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

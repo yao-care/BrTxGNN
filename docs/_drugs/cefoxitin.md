@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 209
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Cefoxitin: nova indicação prevista, Otite média infecciosa (infectious otitis media) (nível de evidência L5). Indicação original: Cefalosporinas"
 monitor_inn: "cefoxitin"
 predicted_indications: ["infectious otitis media", "urinary tract infection (disease)", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **otite média infecciosa (infect
 | Nova Indicação Prevista | Otite média infecciosa (infectious otitis media) |
 | Pontuação de Previsão TxGNN | 0,9930 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 4) |
-| Número de Registros | 4 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 17) |
+| Número de Registros | 17 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -73,12 +73,25 @@ Atualmente não há ensaios clínicos relacionados registrados para a otite méd
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 116370123 | CEFOXITINA SÓDICA | Não informada | CEFALOSPORINAS |
-| Registro nº 155620007 | KEFOX | Não informada | CEFALOSPORINAS |
-| Registro nº 116370188 | CEFTON | Não informada | CEFALOSPORINAS |
-| Registro nº 100410203 | CEFOXITINA SÓDICA | Não informada | CEFALOSPORINAS |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 116370123 | CEFOXITINA SÓDICA | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370188 | CEFTON | BLAU FARMACÊUTICA S.A. | Ativo |
+| 155620007 | KEFOX | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 100290020 | MEFOXIN | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 100410203 | CEFOXITINA SÓDICA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430707 | CEFOXITINA SODICA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 102700085 | CEFTON | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 104080076 | CEFOXIN | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 104650132 | NEO CEFOX | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 106460126 | GAMACEF | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 110110049 | CEFOXITINA SÓDICA | NEWCOM FARMACEUTICA LTDA. | Cancelado |
+| 110390140 | CEFOXITINA SODICA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+| 114020025 | CEFOX | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 114020036 | CEFOXITINA SÓDICA | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 116370087 | CEFTON | BLAU FARMACÊUTICA S.A. | Cancelado |
+| 189000023 | CEFTON | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
+| 189000048 | CEFOXITINA SÓDICA | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
 
 O medicamento é comercializado no Brasil, com 4 registros válidos de 4.
 

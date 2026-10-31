@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Finasteride: nova indicação prevista, Hipertricose universal congênita tipo Ambras (Ambras type hypertricho… (nível de evidência L5). Indicação original: Inibidor da alfa-redutase"
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertricose universal congêni
 | Nova Indicação Prevista | Hipertricose universal congênita tipo Ambras (Ambras type hypertrichosis universalis congenita) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 27 de 86) |
+| Número de Registros | 86 (ativos: 27) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -81,13 +81,40 @@ Como referência indireta, a segunda indicação prevista (hipertricose em geral
 
 Dos registros, 20 estão válidos. Principais exemplos:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 143810230 | Finasterida | — | Inibidor da alfa-redutase |
-| Registro 105710180 | Fendical | — | Outros produtos com ação na pele e mucosas |
-| Registro 104971177 | Prohair | — | Inibidor da alfa-redutase |
-| Registro 135690678 | Capyla-Hair | — | Inibidor da alfa-redutase |
-| Registro 103700652 | Finarid | — | Inibidor da alfa-redutase |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330174 | FINALOP | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100430815 | FINASTERIDA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431076 | DUOMO HP | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431396 | HOMINUS | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431455 | MESILATO DE DOXAZOSINA + FINASTERIDA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350635 | FINASTERIDA | EMS S/A | Ativo |
+| 102350636 | FINASTERIDA | EMS S/A | Ativo |
+| 103700541 | FINASTERIDA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700592 | FINASTERIDA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700652 | FINARID | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700653 | EXCALV | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720235 | PRÓS-HP | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 104971177 | PROHAIR | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971398 | FINASTERIDA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105710180 | FENDICAL | BELFAR LTDA | Ativo |
+| 105830796 | FINASTERIDA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830805 | FINASTERIDA | GERMED FARMACEUTICA LTDA | Ativo |
+| 110390196 | FINASTERIDA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 118190259 | FINASTERIDA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190315 | FINASTERIDA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680281 | FINASTERIDA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135690723 | FINASTIL | EMS SIGMA PHARMA LTDA | Ativo |
+| 143810230 | FINASTERIDA | CIMED INDUSTRIA S.A | Ativo |
+| 143810231 | FINASTERIDA | CIMED INDUSTRIA S.A | Ativo |
+| 151670030 | FINASTERIDA | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
+| 167730425 | FINASTERIDA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730440 | FINASTERIDA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100290019 | PROPECIA | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 100290028 | PROSCAR | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 100330083 | FINALOP | LIBBS FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Citotoxicidade
 

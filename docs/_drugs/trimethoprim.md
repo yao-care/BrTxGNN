@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 656
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 description: "Trimethoprim: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: TRIMETOPRIMA EM ASSOCIACAO COM SUL…"
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta p
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
 | Pontuação de Previsão TxGNN | 0.9957 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 23 de 111) |
+| Número de Registros | 111 (ativos: 23) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -98,13 +98,40 @@ Para a segunda indicação prevista (conjuntivite), a literatura mais relevante 
 
 Todos os 20 registros constam como válidos. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 103920170 | Sulfametoxazol + Trimetoprima | — | Trimetoprima em associação com sulfas |
-| Registro nº 155840346 | Bac-Sulfitrin | — | Trimetoprima em associação com sulfas |
-| Registro nº 103700625 | Bacteracin | — | Trimetoprima em associação com sulfas |
-| Registro nº 103900205 | Bactrim | — | Trimetoprima em associação com sulfas |
-| Registro nº 125680021 | Espectroprima | — | Trimetoprima em associação com sulfas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431282 | SUBTRAX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351048 | SULFAMETOXAZOL + TRIMETOPRIMA | EMS S/A | Ativo |
+| 103700315 | SULFAMETOXAZOL + TRIMETOPRIMA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700410 | SULFAMETOXAZOL + TRIMETOPRIMA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700625 | BACTERACIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700638 | BACTERACIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103850003 | BACFAR | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 103900205 | BACTRIM | FARMOQUÍMICA S/A | Ativo |
+| 103920169 | SULFAMETOXAZOL + TRIMETOPRIMA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920170 | SULFAMETOXAZOL+TRIMETOPRIMA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920212 | TAXBAC | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920214 | TAXBAC | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105710130 | BELFACTRIM | BELFAR LTDA | Ativo |
+| 110390066 | FURP-SULFAMETOXAZOL + TRIMETOPRIMA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 112090028 | FUNED SULFAMETOXAZOL + TRIMETOPRIMA | FUNDAÇÃO EZEQUIEL DIAS - FUNED | Ativo |
+| 125680021 | ESPECTROPRIMA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680209 | SULFAMETOXAZOL + TRIMETOPRIMA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680353 | SIPUL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 144930083 | BACVAX | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 144930084 | SULFAMETOXAZOL + TRIMETOPRIMA | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 155840346 | BAC-SULFITRIN | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730212 | UROCTRIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730253 | BENECTRIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100250083 | ESPECTRIN | GLAXO WELLCOME S/A | Cancelado |
+| 100380029 | BACMETRIM | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100470112 | QIFTRIM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470481 | SULFAMETOXAZOL + TRIMETOPRIMA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101000008 | BACTRIM | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 101070168 | ESPECTRIN | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101830121 | SULFAMETOXAZOL+TRIMETOPRIMA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

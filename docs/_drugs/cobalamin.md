@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 238
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cobalamin: nova indicação prevista, Hiperfosfatemia (hyperphosphatemia) (nível de evidência L5). Indicação original: Monovitaminas, exceto vitamina K"
 monitor_inn: "cobalamin"
 predicted_indications: ["hyperphosphatemia (disease)", "cystinosis"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **hiperfosfatemia (hyperphosphate
 | Nova Indicação Prevista | Hiperfosfatemia (hyperphosphatemia) |
 | Pontuação de Previsão TxGNN | 0,9966 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 5) |
+| Número de Registros | 5 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -76,9 +76,13 @@ Para a indicação principal (hiperfosfatemia), atualmente não há literatura r
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 109740008 (cancelado) | CRONOBÊ | Não informada | Monovitaminas, exceto vitamina K |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 109740008 | CRONOBÊ | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 101910297 | LIPOSITOL | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 109740083 | DEXA-CRONOBE | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 109740127 | CRONEURIT | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 136310011 | POLIVITAMINAS E POLIMINERAIS PARA CABELOS E UNHAS | TRANSCONTINENTAL TRADING LTDA | Cancelado |
 
 ## Considerações de Segurança
 

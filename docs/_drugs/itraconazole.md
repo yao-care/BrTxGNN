@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 378
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Itraconazole: nova indicação prevista, Pneumocistose (Pneumocystosis) (nível de evidência L5). Indicação original: Antimicóticos sistêmicos"
 monitor_inn: "ITRACONAZOLE"
 predicted_indications: ["pneumocystosis"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Pneumocistose (Pneumocystosis)*
 | Nova Indicação Prevista | Pneumocistose (Pneumocystosis) |
 | Pontuação de Previsão TxGNN | 0,9934 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
-| Número de Registros | 13 (ativos: 13) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 49) |
+| Número de Registros | 49 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -86,13 +86,40 @@ Não há estudo que teste diretamente o itraconazol no tratamento da pneumocisto
 
 Todos os 13 registros encontram-se válidos. Os cinco principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 112360028 | SPORANOX | Não informada | Antimicóticos sistêmicos |
-| Registro nº 154230009 | TRAXONOL | Não informada | Antimicóticos sistêmicos |
-| Registro nº 135690703 | ITRASPOR | Não informada | Antimicótico |
-| Registro nº 102350382 | ITRALEX | Não informada | Antimicótico |
-| Registro nº 118190470 | FUNOK | Não informada | Antimicótico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431188 | ITRACONAZOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350382 | ITRALEX | EMS S/A | Ativo |
+| 102351205 | ITRACONAZOL | EMS S/A | Ativo |
+| 105830937 | ITRACONAZOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 110390215 | ITRACONAZOL | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 112360028 | SPORANOX | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 118190377 | ITRACONAZOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190470 | FUNOK | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680170 | ITRACONAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135690703 | ITRASPOR | EMS SIGMA PHARMA LTDA | Ativo |
+| 154230009 | TRAXONOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230260 | ITRACONAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 167730588 | ITRACONAZOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100380078 | ICONAZOL | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100430631 | EUTRAMIX | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470286 | ITRAHEXAL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100890213 | VOLFAX | MERCK S/A | Cancelado |
+| 102700106 | TRACOZON | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 103700450 | FUNGONAX | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103920095 | TRACOZOL | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 103940443 | TRANAZOL | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
+| 104041933 | TRACONAX | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 104080072 | ITRACOTAN | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 104300031 | MICONAL | DIFFUCAP - CHEMOBRÁS QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+| 104400097 | SPOZOL | CELLERA FARMACEUTICA S.A. | Cancelado |
+| 104650212 | NEO ITRAX | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105350130 | GLOBO ITRACONAZOL | LABORATÓRIO GLOBO SA | Cancelado |
+| 105730215 | TRACONAL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105830155 | MONITRAX | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830175 | ITRASPOR | GERMED FARMACEUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

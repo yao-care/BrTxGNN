@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 167
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Busulfan: nova indicação prevista, Síndrome Mielodisplásica (Myelodysplastic Syndrome) (nível de evidência L1). Indicação original: Antineoplásicos citotóxicos"
 monitor_inn: "busulfan"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "simian immunodeficiency virus infection"]
@@ -50,8 +50,8 @@ atualmente com **39 ensaios clínicos** e **20 publicações** compilados para e
 | Nova Indicação Prevista | Síndrome Mielodisplásica (Myelodysplastic Syndrome) |
 | Pontuação de Previsão TxGNN | 0,9962 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 7) |
+| Número de Registros | 7 (ativos: 1) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -98,9 +98,15 @@ Foram compilados 20 estudos. Abaixo estão os 10 mais relevantes.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 155370107 (cancelado) | BUSSULFANO | Não informada | Antineoplásicos citotóxicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 155370107 | BUSSULFANO | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 100250065 | MYLERAN | GLAXO WELLCOME S/A | Cancelado |
+| 101070187 | MYLERAN | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101620250 | BUSILVEX | LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA | Cancelado |
+| 137640149 | MYLERAN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 155370109 | BUXILFAM | ACCORD FARMACÊUTICA LTDA | Cancelado |
+| 155370137 | BUXILFAM | ACCORD FARMACÊUTICA LTDA | Cancelado |
 
 ## Citotoxicidade
 

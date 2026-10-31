@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 575
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Rutin: nova indicação prevista, Doença fibrocística da mama (breast fibrocystic disease) (nível de evidência L5). Indicação original: Antivaricosos de ação sistêmica"
 monitor_inn: "rutin"
 predicted_indications: ["breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia", "vulvovaginal candidiasis", "breast abscess", "fat necrosis of breast", "vaginitis (disease)"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que ela possa ser eficaz para **doença fibrocística da m
 | Nova Indicação Prevista | Doença fibrocística da mama (breast fibrocystic disease) |
 | Pontuação de Previsão TxGNN | 0,9974 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 14) |
+| Número de Registros | 14 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -92,10 +92,22 @@ Esses estudos estão fora do tema e não oferecem apoio direto nem indireto rele
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 111990004 (cancelado) | Castanha da Índia Composta | Não informada | Antivaricosos de ação sistêmica |
-| Registro 102350339 (cancelado) | Gerovital | Não informada | Polivitamínicos com minerais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350339 | GEROVITAL | EMS S/A | Ativo |
+| 111990004 | CASTANHA DA ÍNDIA COMPOSTA | MAKROFARMA QUIMICA FARMACEUTICA LTDA | Ativo |
+| 101740027 | NOVARRUTINA | AVERT LABORATÓRIOS LTDA | Cancelado |
+| 101910111 | MAGNOVIT | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 103420053 | CASTANHA DA INDIA COMPOSTA | FARMABRAZ BETA ATALAIA FARMACEUTICA LTDA. | Cancelado |
+| 104810089 | FLEBOTRAT | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 105760056 | VARIZOL | LABORATORIO SIMOES LTDA. | Cancelado |
+| 105830075 | DORICAL KIDS | GERMED FARMACEUTICA LTDA | Cancelado |
+| 111250011 | HEMORROIDEX | MEDIC INDL FTCA LTDA | Cancelado |
+| 115600084 | GERILON | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Cancelado |
+| 122830029 | VARIZINA | DM INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 136310011 | POLIVITAMINAS E POLIMINERAIS PARA CABELOS E UNHAS | TRANSCONTINENTAL TRADING LTDA | Cancelado |
+| 137640103 | BIO CAPS E | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 137950002 | VITAMIN C 1000 MG PLUS SUNDOWN | DIVINA DISTRIBUIDORA DE VITAMINAS NATURAIS SUNDOWN | Cancelado |
 
 ## Considerações de Segurança
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Ceftriaxone"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ceftriaxone: nova indicação prevista, Hiperamilasemia (nível de evidência L5). Indicação original: Cefalosporinas"
 ---
 
@@ -50,8 +50,8 @@ Esta previsão tem pouco respaldo e provavelmente é um artefato do modelo.
 | Nova Indicação Prevista | Hiperamilasemia |
 | Pontuação de Previsão TxGNN | 0,9939 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 54) |
+| Número de Registros | 54 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -76,13 +76,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100431422 | TRIAXIN | Não informada | Cefalosporinas |
-| Registro nº 100630003 | AMPLOSPEC | Não informada | Cefalosporinas |
-| Registro nº 174200016 | CEFTRIAXONA SÓDICA | Não informada | Cefalosporinas |
-| Registro nº 103700712 | CEFTRIAXONA DISSÓDICA | Não informada | Cefalosporinas |
-| Registro nº 103700348 | TEUCEF | Não informada | Cefalosporinas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430706 | CEFTRIAXONA DISSÓDICA HEMIEPTAIDRATADA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430710 | CEFTRIAXONA DISSÓDICA HEMIEPTAIDRATADA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431422 | TRIAXIN | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100630003 | AMPLOSPEC | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101000132 | ROCEFIN | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+| 103700348 | TEUCEF | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700712 | CEFTRIAXONA DISSÓDICA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 110110018 | CEFTRIAXONA DISSÓDICA HEMIEPTAIDRATADA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110110046 | CEFTRIONA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 116370101 | TRIAXTON | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370174 | CEFTRIAXONA DISSÓDICA | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370179 | CEFTRIAXONA DISSÓDICA | BLAU FARMACÊUTICA S.A. | Ativo |
+| 155620009 | KEFTRON | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 155620054 | CEFTRIAXONA DISSÓDICA HEMIEPTAIDRATADA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 174200016 | CEFTRIAXONA SÓDICA | EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 100410189 | CEFTRIONA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410211 | CEFTRIAXONA DISSÓDICA HEMIEPTAIDRATADA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410230 | CEFTRIAXONA DISSÓDICA HEMIEPTAIDRATADA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100431011 | TRIAXIN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470438 | CEFTRIAXONA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680879 | CEFTRIAXONA SÓDICA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 102350350 | CEFTRIAX | EMS S/A | Cancelado |
+| 102350450 | CEFTRIAXONA SODICA | EMS S/A | Cancelado |
+| 102700088 | TRIAXTON | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 103110145 | CEFTRIAXONA DISSÓDICA | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 103920049 | TRAXON | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104080065 | CEFTRIAXONA | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 104650135 | NEOCEFTRIONA | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104650398 | CEFTRIAXONA SODICA | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104970178 | TRIOXINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 Os registros listados são de medicamentos com ceftriaxona isolada. O texto de indicação registrado indica apenas a classe farmacológica. Hiperamilasemia não consta como indicação em nenhum deles.
 

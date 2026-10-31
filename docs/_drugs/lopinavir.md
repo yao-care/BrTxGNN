@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "LOPINAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lopinavir: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (nível de evidência L4). Indicação original: Infecção por HIV e AIDS"
 ---
 
@@ -75,12 +75,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 198600010 (válido) | KALETRA | Não informada | Não informada |
-| Registro 102980436 (válido) | LOPINAVIR + RITONAVIR | Não informada | Não informada |
-| Registro 105530242 (cancelado) | KALETRA | Não informada | Não informada |
-| Registro 110390223 (cancelado) | LOPINAVIR + RITONAVIR | Não informada | Não informada |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980436 | LOPINAVIR + RITONAVIR | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 198600010 | KALETRA | ABBVIE FARMACÊUTICA LTDA. | Ativo |
+| 105530242 | KALETRA | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 110390223 | LOPINAVIR + RITONAVIR | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
 
 ## Considerações de Segurança
 

@@ -50,8 +50,8 @@ atualmente com **10 ensaios clínicos** listados (a maioria de forma indireta, e
 | Nova Indicação Prevista | Síndrome de Dor Miofascial (Myofascial Pain Syndrome) |
 | Pontuação de Previsão TxGNN | 0,9909 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 33 de 58) |
+| Número de Registros | 58 (ativos: 33) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -91,13 +91,40 @@ A indicação original (espasmo e relaxamento muscular) está muito próxima da 
 
 Os 20 registros localizados estão **válidos**; o medicamento está comercializado no Brasil. Principais exemplos:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105730572 | Cloridrato de ciclobenzaprina | — | Relaxantes musculares |
-| Registro nº 167730107 | Miofibrax | — | Relaxantes musculares |
-| Registro nº 178170792 | Cizax | — | Relaxantes musculares |
-| Registro nº 154230279 | Miebra | — | Relaxantes musculares |
-| Registro nº 101180646 | Miosan ODT | — | Relaxantes musculares |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430945 | CLORIDRATO DE CICLOBENZAPRINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431164 | MUSCULARE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431601 | CLONIXINATO DE LISINA + CLORIDRATO DE CICLOBENZAPRINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101180129 | MIOSAN | APSEN FARMACEUTICA S/A | Ativo |
+| 101180611 | MIOSAN CAF | APSEN FARMACEUTICA S/A | Ativo |
+| 101180646 | MIOSAN ODT | APSEN FARMACEUTICA S/A | Ativo |
+| 102351126 | CLONIXINATO DE LISINA + CLORIDRATO DE CICLOBENZAPRIN | EMS S/A | Ativo |
+| 102351167 | BENZIFLEX LIS | EMS S/A | Ativo |
+| 102351381 | CLORIDRATO DE CICLOBENZAPRINA | EMS S/A | Ativo |
+| 102351382 | BENZIFLEX | EMS S/A | Ativo |
+| 102351422 | MIOGESIC LIS | EMS S/A | Ativo |
+| 103900174 | DOLAMIN FLEX | FARMOQUÍMICA S/A | Ativo |
+| 103920226 | CLORIDRATO DE CICLOBENZAPRINA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920228 | MIOMUSC | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810108 | CLORIDRATO DE CICLOBENZAPRINA | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105350215 | CLORIDRATO DE CICLOBENZAPRINA | LABORATÓRIO GLOBO SA | Ativo |
+| 105730293 | MIRTAX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730572 | CLORIDRATO DE CICLOBENZAPRINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830995 | CLORIDRATO DE CICLOBENZAPRINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830998 | MUSCUSAN | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190334 | CICLALGIN FLEX | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190408 | CLORIDRATO DE CICLOBENZAPRINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 122140093 | MITRUL | ADIUM S.A. | Ativo |
+| 125680280 | CLORIDRATO DE CICLOBENZAPRINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 143810174 | CLORIDRATO DE CICLOBENZAPRINA | CIMED INDUSTRIA S.A | Ativo |
+| 151670057 | CLORIDRATO DE CICLOBENZAPRINA | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
+| 154230237 | CLORIDRATO DE CICLOBENZAPRINA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230279 | MIEBRA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840043 | CLORIDRATO DE CICLOBENZAPRINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730107 | MIOFIBRAX | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

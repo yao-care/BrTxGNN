@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 162
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bupivacaine: nova indicação prevista, Acrodermatite crônica atrófica (Acrodermatitis chronica atrophicans) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "BUPIVACAINE"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Acrodermatite crônica atrófica (Acrodermatitis chronica atrophicans) |
 | Pontuação de Previsão TxGNN | 0,9923 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
-| Número de Registros | 12 (ativos: 12) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 23) |
+| Número de Registros | 23 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,13 +74,31 @@ A pontuação alta (0,9923) vem do modelo TxGNN (deep learning) e pode refletir 
 
 Todos os 12 registros estão válidos (12 de 12). A indicação aprovada em todos é "Anestésicos locais". Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 104970185 | BUPSTESIC | — | Anestésicos locais |
-| Registro 103870087 | HYPOBUP H | — | Anestésicos locais |
-| Registro 103870053 | Cloridrato de Bupivacaína | — | Anestésicos locais |
-| Registro 102980053 | NEOCAINA | — | Anestésicos locais |
-| Registro 104971448 | BUPICAN | — | Anestésicos locais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980053 | NEOCAINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980077 | NEOCAINA PESADA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980350 | NEOCAÍNA COM VASOCONSTRITOR | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103870053 | CLORIDRATO DE BUPIVACAÍNA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103870055 | CLORIDRATO DE BUPIVACAÍNA HIPERBÁRICA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103870087 | HYPOBUP H | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103870088 | HYPOBUP | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 104970185 | BUPSTESIC | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104970207 | BUPSTESIC COM VASO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971448 | BUPICAN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 113430108 | TRADINOL | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 113430168 | CLORIDRATO DE BUPIVACAÍNA + GLICOSE | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 101770026 | LONGACAINA | DFL INDÚSTRIA E COMÉRCIO S/A | Cancelado |
+| 102350366 | EPHICAINA | EMS S/A | Cancelado |
+| 104650115 | DORCAÍNA | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105530014 | CLORIDRATO DE BUPIVACAÍNA | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105530215 | BUPIVA ABBOTT PESADA | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105530257 | CLORIDRATO DE BUPIVACAINA | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 109930007 | CIRUCAÍNA 0,5 % | DLA PHARMACEUTICAL LTDA | Cancelado |
+| 116180099 | MARCAINA COM EPINEFRINA | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+| 116180100 | MARCAINA | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+| 142770032 | BUPICAN | CLARIS PRODUTOS FARMACÊUTICOS DO BRASIL LTDA | Cancelado |
+| 172870296 | DORCAÍNA | HYPERA S.A. | Cancelado |
 
 ## Considerações de Segurança
 

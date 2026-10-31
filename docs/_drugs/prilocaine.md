@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 549
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Prilocaine: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "Prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
@@ -50,8 +50,8 @@ Entre as 10 indicações previstas, a única com sinal minimamente plausível é
 | Nova Indicação Prevista (1ª colocada) | Conjuntivite papilar (papillary conjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 14) |
+| Número de Registros | 14 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 > Observação: a indicação em primeiro lugar no ranking do modelo não tem nenhuma evidência. A indicação com mais evidência é a neuralgia (nível L2 segundo a pontuação compilada, com ressalvas importantes; ver abaixo).
@@ -96,13 +96,22 @@ Alertas de segurança vindos da literatura de outras indicações: em dermatite 
 
 O medicamento é comercializado no Brasil: os 5 registros existentes (5 de 5) estão válidos.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100850244 | Baritekal Hiperbárica | Não informada | Anestésicos |
-| Registro 137640156 | Emla | Não informada | Anestésicos locais |
-| Registro 102980033 | Medicaína | Não informada | Anestésicos locais |
-| Registro 101770028 | Prilonest | Não informada | Anestésicos locais |
-| Registro 102980330 | Citocaína | Não informada | Anestésicos locais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100850244 | BARITEKAL HIPERBÁRICA | LABORATORIOS B. BRAUN S/A | Ativo |
+| 101770028 | PRILONEST | DFL INDÚSTRIA E COMÉRCIO S/A | Ativo |
+| 102980033 | MEDICAÍNA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980330 | CITOCAINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 137640156 | EMLA | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100430602 | PRILOCAINA + FELIPRESSINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 102350911 | LIDOCAÍNA + PRILOCAÍNA | EMS S/A | Cancelado |
+| 105830609 | LIDOCAÍNA + PRILOCAÍNA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 109930004 | PRILOSTESINA 3% | DLA PHARMACEUTICAL LTDA | Cancelado |
+| 109930013 | CITANEST 3% COM OCTAPRESSIN | DLA PHARMACEUTICAL LTDA | Cancelado |
+| 116180087 | EMLA | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+| 135690496 | LIDOCAÍNA + PRILOCAÍNA | EMS SIGMA PHARMA LTDA | Cancelado |
+| 149010001 | CITANEST 3% COM OCTAPRESSIN | DENTSPLY IND.COM. LTDA | Cancelado |
+| 167730044 | LIDOCAÍNA + PRILOCAÍNA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

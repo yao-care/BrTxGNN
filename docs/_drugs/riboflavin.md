@@ -7,7 +7,7 @@ title: RIBOFLAVIN
 drugbank_id: DB00140
 permalink: /drugs/riboflavin/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Item | Value |
 |------|-------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 1) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 322) |
+| Número de Registros | 322 (ativos: 19) |
 | DrugBank ID | [DB00140](https://go.drugbank.com/drugs/DB00140) |
 | Number of Predicted Indications | 1 |
 

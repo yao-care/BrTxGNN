@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ACARBOSE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Acarbose: nova indicação prevista, Síndrome da pessoa rígida clássica (nível de evidência L5). Indicação original: Diabetes mellitus tipo 2"
 ---
 
@@ -73,12 +73,12 @@ Atualmente não há literatura relacionada para a síndrome da pessoa rígida cl
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada | Situação |
-|---------|------|------|-----------|------|
-| Registro 135690035 | AGLUCOSE (EMS Sigma Pharma) | Não informada | Texto de indicação não disponível | Válido |
-| Registro 104290084 | GLUCOBAY (Bayer) | Não informada | Texto de indicação não disponível | Cancelado |
-| Registro 100200132 | STABILIC (União Química) | Não informada | Texto de indicação não disponível | Cancelado |
-| Registro 170560074 | GLUCOBAY (Bayer) | Não informada | Texto de indicação não disponível | Cancelado |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 135690035 | AGLUCOSE | EMS SIGMA PHARMA LTDA | Ativo |
+| 100200132 | STABILIC | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 104290084 | GLUCOBAY | BAYER S.A. | Cancelado |
+| 170560074 | GLUCOBAY | BAYER S.A. | Cancelado |
 
 ## Considerações de Segurança
 

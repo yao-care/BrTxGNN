@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 399
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lenvatinib: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L2). Indicação original: Antineoplásico (agentes antineoplásicos e imunomoduladores)"
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **lipossarcoma (Liposarcoma)**, a
 | Nova Indicação Prevista | Lipossarcoma (Liposarcoma) |
 | Pontuação de Previsão TxGNN | 0,9951 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 6) |
+| Número de Registros | 6 (ativos: 5) |
 | Decisão Recomendada | Hold (com pergunta de pesquisa em aberto) |
 
 ## Por que Esta Previsão é Razoável?
@@ -78,13 +78,14 @@ Um estudo de Fase Ib/II (LEADER) combinou lenvatinibe com eribulina, um inibidor
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 146820114 (cancelado) | SAUMYA | — | Antineoplásico |
-| Registro 146820111 (cancelado) | Mesilato de lenvatinibe | — | Antineoplásico |
-| Registro 122140129 (cancelado) | LODATYR | — | Agentes antineoplásicos e imunomoduladores |
-| Registro 125760027 (cancelado) | LENVIMA | — | Agentes antineoplásicos e imunomoduladores |
-| Registro 122140123 (cancelado) | Mesilato de lenvatinibe | — | Agentes antineoplásicos e imunomoduladores |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 122140123 | MESILATO DE LENVATINIBE | ADIUM S.A. | Ativo |
+| 122140129 | LODATYR | ADIUM S.A. | Ativo |
+| 125760027 | LENVIMA | UNITED MEDICAL LTDA | Ativo |
+| 146820111 | MESILATO DE LENVATINIBE | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 146820114 | SAUMYA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 173100003 | LENVIMA | EISAI LABORATÓRIOS LTDA | Cancelado |
 
 ## Citotoxicidade
 

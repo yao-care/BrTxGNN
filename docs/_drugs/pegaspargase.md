@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "PEGASPARGASE"
 predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pegaspargase: nova indicação prevista, Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -99,11 +99,11 @@ Literatura de contexto, em doenças linfoides diferentes:
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 112780076 (válido) | ONCASPAR | — | — |
-| Registro 156280010 (cancelado) | ONCASPAR | — | — |
-| Registro 169790012 (cancelado) | ONCASPAR | — | — |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 112780076 | ONCASPAR | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 156280010 | ONCASPAR | BAXALTA BRASIL BIOCIÊNCIA LTDA | Cancelado |
+| 169790012 | ONCASPAR | SHIRE FARMACÊUTICA BRASIL LTDA. | Cancelado |
 
 ---
 

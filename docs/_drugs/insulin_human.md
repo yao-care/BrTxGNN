@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 369
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Insulin Human: nova indicação prevista, Ooforite autoimune (autoimmune oophoritis) (nível de evidência L5). Indicação original: Antidiabéticos"
 monitor_inn: "insulin human"
 predicted_indications: ["autoimmune oophoritis", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Ooforite autoimune (autoimmune oophoritis) |
 | Pontuação de Previsão TxGNN | 0,9984 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 13) |
-| Número de Registros | 13 (ativos: 11) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 44) |
+| Número de Registros | 44 (ativos: 11) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -86,13 +86,40 @@ Portanto, a plausibilidade biológica é limitada e especulativa. A ausência de
 
 Todos os 13 registros encontrados estão válidos; o medicamento é comercializado no Brasil.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 117660003 | Novolin R | Não informada | Antidiabéticos |
-| Registro nº 116640008 | Insunorm N | Não informada | Antidiabéticos |
-| Registro nº 112600181 | Humulin R | Não informada | Antidiabéticos |
-| Registro nº 116640007 | Insunorm R | Não informada | Antidiabéticos |
-| Registro nº 102351253 | Insuliv R | Não informada | Antidiabéticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 112080085 | LQFEX - INSULINA HUMANA R | LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO | Ativo |
+| 112090144 | FUNED INSULINA R | FUNDAÇÃO EZEQUIEL DIAS - FUNED | Ativo |
+| 112600057 | HUMULIN N | ELI LILLY DO BRASIL LTDA | Ativo |
+| 112600181 | HUMULIN R | ELI LILLY DO BRASIL LTDA | Ativo |
+| 116640007 | INSUNORM R | BIOCON BIOLOGICS DO BRASIL LTDA | Ativo |
+| 116640008 | INSUNORM N | BIOCON BIOLOGICS DO BRASIL LTDA | Ativo |
+| 117660003 | NOVOLIN R | NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 117660004 | NOVOLIN N | NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 133480002 | AFREZZA | BIOMM SA | Ativo |
+| 166740002 | WOSULIN R | GERAIS, COMÉRCIO E IMPORTAÇÃO DE MATERIAIS E EQUIP | Ativo |
+| 166740003 | WOSULIN 70/30 | GERAIS, COMÉRCIO E IMPORTAÇÃO DE MATERIAIS E EQUIP | Ativo |
+| 100430664 | INSULINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 102160206 | EXUBERA | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102351253 | INSULIV R | EMS S/A | Cancelado |
+| 104070107 | IVB - INSULINA HUMANA R | INSTITUTO VITAL BRAZIL S/A | Cancelado |
+| 104070111 | IVB - INSULINA HUMANA R | INSTITUTO VITAL BRAZIL S/A | Cancelado |
+| 104650458 | INSUNEO N | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105740015 | BIOHULIN R | NOVO NORDISK PRODUÇÃO FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 105740016 | BIOHULIN U | NOVO NORDISK PRODUÇÃO FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 105740017 | BIOHULIN NPH | NOVO NORDISK PRODUÇÃO FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 105740025 | BIOHULIN 70/30 | NOVO NORDISK PRODUÇÃO FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 105740031 | BIOHULIN 90/10 | NOVO NORDISK PRODUÇÃO FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 105740033 | BIOHULIN 80/20 | NOVO NORDISK PRODUÇÃO FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 105740052 | BIOHULIN L | NOVO NORDISK PRODUÇÃO FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 106460186 | INSUGEN R | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 106460187 | INSUGEN 70/30 | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 110630119 | INSULINA HUMANA RECOMBINANTE NPH | FUNDAÇÃO OSWALDO CRUZ | Cancelado |
+| 110630120 | INSULINA HUMANA RECOMBINANTE R | FUNDAÇÃO OSWALDO CRUZ | Cancelado |
+| 112600178 | HUMULIN 70N/30R | ELI LILLY DO BRASIL LTDA | Cancelado |
+| 113000267 | INSUMAN | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 Há outros 8 registros cancelados (incluindo Afrezza, Wosulin 70/30, Wosulin R, Novolin N e Humulin N), todos com a mesma indicação.
 

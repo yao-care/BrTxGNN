@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 100
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Azithromycin: nova indicação prevista, Hiperamilasemia (Hyperamylasemia) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Azithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Hiperamilasemia (Hyperamylasemi
 | Nova Indicação Prevista | Hiperamilasemia (Hyperamylasemia) |
 | Pontuação de Previsão TxGNN | 0,9981 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 53 de 134) |
+| Número de Registros | 134 (ativos: 53) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -83,13 +83,40 @@ Atualmente não há literatura relacionada.
 
 Foram encontrados 20 registros válidos. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 105730148 | Azitromicina | Não informada | Antibióticos sistêmicos simples |
-| Registro 105730720 | Zirk | Não informada | Antibióticos sistêmicos simples |
-| Registro 102010063 | Azitromicina monoidratada | Não informada | Antibióticos sistêmicos simples |
-| Registro 155620036 | Azitromicina monoidratada | Não informada | Antibióticos sistêmicos simples |
-| Registro 155840530 | Azitromicina di-hidratada | Não informada | Antibióticos sistêmicos simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430902 | AZITROMICINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431081 | AZITROMICINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431167 | ASTRO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431172 | ASTRO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431546 | ASTRO IV | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470446 | AZITROMICINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102010063 | AZITROMICINA MONOIDRATADA | QUIMICA HALLER LTDA | Ativo |
+| 102350522 | AZITROMICINA | EMS S/A | Ativo |
+| 102350560 | AZITROMICINA | EMS S/A | Ativo |
+| 102980433 | AZITROMICINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980435 | AZICIN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700490 | AZITROMICINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700672 | TEUTRAZI | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700755 | AZITROMICINA DI-HIDRATADA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105350160 | AZITROMICINA | LABORATÓRIO GLOBO SA | Ativo |
+| 105350174 | ZOLPROX | LABORATÓRIO GLOBO SA | Ativo |
+| 105710122 | TROMIZIR | BELFAR LTDA | Ativo |
+| 105730147 | ZIRK | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730148 | AZITROMICINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730706 | AZITROMICINA DI-HIDRATADA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730720 | ZIRK | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830493 | AZITROMICINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830932 | AZITROMICINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830942 | AZITROMICINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109170056 | AZITROMED | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109170097 | AZITROMICINA | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109650003 | AZITROMICINA DI-HIDRATADA | MANDALA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE PRODUT | Ativo |
+| 113430189 | AZITROMICINA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 115600169 | AZITROMICINA | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 117170070 | AZITROMICINA | PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

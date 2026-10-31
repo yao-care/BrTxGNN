@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 72
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Apixaban: nova indicação prevista, Transtorno de Enxaqueca (Migraine Disorder) (nível de evidência L4). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Apixaban"
 predicted_indications: ["migraine disorder"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Transtorno de Enxaqueca (Migrai
 | Nova Indicação Prevista | Transtorno de Enxaqueca (Migraine Disorder) |
 | Pontuação de Previsão TxGNN | 0,9902 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 16) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 28 de 35) |
+| Número de Registros | 35 (ativos: 28) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

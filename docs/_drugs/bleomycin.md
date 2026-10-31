@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "reticulum cell sarcoma", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bleomycin: nova indicação prevista, Neoplasia da cauda equina (cauda equina neoplasm) (nível de evidência L5). Indicação original: ANTIBIOTICOS ANTINEOPLASICOS"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que ela pode ser eficaz para **neoplasia da cauda equina (
 | Nova Indicação Prevista | Neoplasia da cauda equina (cauda equina neoplasm) |
 | Pontuação de Previsão TxGNN | 0,9930 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 11) |
+| Número de Registros | 11 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -73,13 +73,19 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 100431498 | Sulfato de Bleomicina | Não informada | Antibióticos antineoplásicos |
-| 155370141 | Sulfato de Bleomicina | Não informada | Antibióticos antineoplásicos |
-| 115410008 | Cinaleo | Não informada | Antineoplásicos citotóxicos |
-| 100431509 | Blesto | Não informada | Antibióticos antineoplásicos |
-| 105730676 | Bonar | Não informada | Antibióticos antineoplásicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431498 | SULFATO DE BLEOMICINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431509 | BLESTO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 105730676 | BONAR | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 115410008 | CINALEO | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Ativo |
+| 155370141 | SULFATO DE BLEOMICINA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 101800114 | BLENOXANE | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 104970265 | BLEOMIC | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 112130098 | BONAR | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 122140020 | TECNOMICINA | ADIUM S.A. | Cancelado |
+| 123610062 | CINALEO | UCB BIOPHARMA LTDA. | Cancelado |
+| 155730006 | TEVABLEO | TEVA FARMACÊUTICA LTDA. | Cancelado |
 
 ## Citotoxicidade
 

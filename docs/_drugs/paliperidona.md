@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 506
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -62,10 +62,12 @@ Os dados de suporte — mecanismo de ação, detalhes dos registros e informaç�
 
 Os registros ANVISA foram identificados (4 licenças ativas), porém os campos de detalhe — número de registro, nome comercial, forma farmacêutica e indicação aprovada — estão todos em branco no pacote de evidências recebido.
 
-| Situação | Detalhe |
-|------|------|
-| Total de Registros ANVISA | 4 |
-| Detalhes dos Produtos | Não disponíveis — requer complementação |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 112363388 | INVEGA | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 112363398 | INVEGA | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 122140135 | PALMITATO DE PALIPERIDONA | ADIUM S.A. | Ativo |
+| 122140136 | VEGAPALI | ADIUM S.A. | Ativo |
 
 > Para completar esta seção, é necessário re-executar a consulta TFDA/ANVISA com retorno dos campos de produto.
 

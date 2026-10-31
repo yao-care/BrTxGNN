@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 556
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Pyridoxine: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ O modelo TxGNN não apresenta, para Pyridoxine, nenhum candidato com pontuação
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo com pontuação igual ou superior a 0,99) |
 | Usos conhecidos registrados para este medicamento | 3 |
 | Nível de evidência | Não se aplica |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 60 de 458) |
+| Número de Registros | 458 (ativos: 60) |
 
 ## Usos conhecidos registrados para este medicamento
 

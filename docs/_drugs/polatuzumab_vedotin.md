@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 532
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Polatuzumab Vedotin: nova indicação prevista, Carcinoma de mama HER2-positivo (HER2 positive breast carcinoma) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "polatuzumab vedotin"
 predicted_indications: ["HER2 positive breast carcinoma"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Carcinoma de mama HER2-positivo (HER2 positive breast carcinoma) |
 | Pontuação de Previsão TxGNN | 0,9934 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -64,9 +64,10 @@ Além disso, o câncer de mama HER2-positivo já conta com ADCs estabelecidos qu
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 101000674 (cancelado) | ROPOLIVY | Não informada | ANTINEOPLASICO |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101000674 | ROPOLIVY | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+| 101000669 | ROPOLIVY | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
 
 ## Citotoxicidade
 

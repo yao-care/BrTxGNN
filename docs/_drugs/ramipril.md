@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ramipril: nova indicação prevista, Hipertensão pulmonar de mecanismo multifatorial incerto (nível de evidência L5). Indicação original: Hipertensão arterial e doenças cerebrovasculares"
 ---
 
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser útil para **hipertensão pulmonar de mecanis
 | Nova Indicação Prevista | Hipertensão pulmonar de mecanismo multifatorial incerto |
 | Pontuação de Previsão TxGNN | 0,9993 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 4) |
-| Número de Registros | Pelo menos 20 registros (a lista pode ser parcial): 4 válidos e 16 cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 32) |
+| Número de Registros | 32 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -83,12 +83,40 @@ Atualmente não há literatura relacionada.
 
 A lista abaixo mostra apenas os registros válidos. Há pelo menos 20 registros no total e a lista compilada pode ser parcial. Os registros não trazem texto de indicação aprovada nem forma farmacêutica. Alguns nomes comerciais podem corresponder a associações, o que deve ser confirmado na bula.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 183260185 | Ramipril | Não informada | Não informada nos registros |
-| Registro nº 100330086 | Naprix | Não informada | Não informada nos registros |
-| Registro nº 100330096 | Naprix A | Não informada | Não informada nos registros |
-| Registro nº 100330178 | Naprix D | Não informada | Não informada nos registros |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330086 | NAPRIX | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100330096 | NAPRIX A | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100330178 | NAPRIX D | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 183260185 | RAMIPRIL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100330094 | NAPRIX D | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100470443 | RAMIPRIL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680953 | RAMIPRIL | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101810590 | RAMIPRIL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350767 | RAMIPRIL + HIDROCLOROTIAZIDA | EMS S/A | Cancelado |
+| 102980007 | RAMIPRIL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 104650351 | ATENSEC | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105250022 | ECATOR | TORRENT DO BRASIL LTDA | Cancelado |
+| 105250028 | ECATOR H | TORRENT DO BRASIL LTDA | Cancelado |
+| 105250048 | RAMIPRIL + BESILATO DE ANLODIPINO | TORRENT DO BRASIL LTDA | Cancelado |
+| 105250052 | ECATOR ANLO | TORRENT DO BRASIL LTDA | Cancelado |
+| 105830439 | RAMIPRIL + HIDROCLOROTIAZIDA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 109740150 | RAMIZ  A | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 109740156 | PRESSNOR | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 109740161 | PRESSNOR H | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 112130329 | RAMIPRIL | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 113000150 | TRIATEC | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 113000159 | TRIATEC D | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 113001054 | RAMIPRIL | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 123520121 | RAMIPRIL | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 126750054 | RAMIPRIL | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 135690308 | RAMIPRIL + HIDROCLOROTIAZIDA | EMS SIGMA PHARMA LTDA | Cancelado |
+| 135690468 | RAMIPRESS HCT | EMS SIGMA PHARMA LTDA | Cancelado |
+| 155840033 | RAMIPRIL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 155840135 | ATENSEC | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 167730340 | RAMIPRIL + HIDROCLOROTIAZIDA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

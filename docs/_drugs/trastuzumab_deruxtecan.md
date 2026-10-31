@@ -64,9 +64,9 @@ Além disso, um ADC citotóxico é biologicamente improvável como tratamento de
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 104540191 (cancelado) | ENHERTU | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 104540191 | ENHERTU | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Ativo |
 
 ## Citotoxicidade
 

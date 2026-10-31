@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 282
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Edaravone: nova indicação prevista, Deficiência de Cofator 2 da Heparina (Heparin Cofactor 2 Deficiency) (nível de evidência L5). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 monitor_inn: "edaravone"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
@@ -65,9 +65,9 @@ Uma segunda previsão, **excesso de fator V com trombose espontânea** (pontuaç
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 104540192 (cancelado) | RADICAVA | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 104540192 | RADICAVA | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Ativo |
 
 ## Considerações de Segurança
 

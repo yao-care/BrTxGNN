@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Hyaluronidase: nova indicação prevista, Esotropia (nível de evidência L5). Indicação original: GLICOCORTICOIDES TOPICOS - ASSOCIACAO MEDICAMENTOSA"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Esotropia (esotropia)**, mas n�
 | Nova Indicação Prevista | Esotropia (esotropia) |
 | Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 7) |
+| Número de Registros | 7 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -73,11 +73,15 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101180625 | HYAX | Não informada | Glicocorticoides tópicos - associação medicamentosa |
-| Registro 101180164 | POSTEC | Não informada | Glicocorticoides tópicos - associação medicamentosa |
-| Registro 101180021 | OTO - XILODASE | Não informada | Antinfecciosos tópicos - associações medicamentosas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101180021 | OTO - XILODASE | APSEN FARMACEUTICA S/A | Ativo |
+| 101180164 | POSTEC | APSEN FARMACEUTICA S/A | Ativo |
+| 101180625 | HYAX | APSEN FARMACEUTICA S/A | Ativo |
+| 101180012 | HYALOZIMA | APSEN FARMACEUTICA S/A | Cancelado |
+| 101180037 | XILODASE | APSEN FARMACEUTICA S/A | Cancelado |
+| 102350306 | VASOLIS | EMS S/A | Cancelado |
+| 103720020 | LANABIOTIC | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
 
 ## Considerações de Segurança
 

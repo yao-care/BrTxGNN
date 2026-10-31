@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 552
 evidence_level: L1
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Progesterone: nova indicação prevista, Amenorreia (Amenorrhea) (nível de evidência L5). Indicação original: Progestágenos simples"
 monitor_inn: "Progesterone"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
@@ -50,8 +50,8 @@ atualmente com **4 ensaios clínicos** e **19 publicações** associadas a esta 
 | Nova Indicação Prevista | Amenorreia (Amenorrhea) |
 | Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L1 (conforme a classificação dos dados compilados; ver ressalva abaixo) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
-| Número de Registros | 7 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 16) |
+| Número de Registros | 16 (ativos: 7) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 > **Ressalva sobre o nível de evidência:** o único ensaio de Phase 3 concluído (NCT00946192) testa estrogênio em atletas, não progesterona isolada. Por esse critério estrito, o nível seria mais próximo de L2/L3. O L1 deve ser lido com cautela.
@@ -94,13 +94,24 @@ Predominam revisões e textos descritivos; não há ensaios randomizados para es
 
 Todos os 7 registros encontrados estão **válidos**; atualmente há registro válido para produtos de progesterona isolada nos dados compilados.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 187590009 | Progesterona | Não informada | Progestágenos simples |
-| Registro 103900201 | Junno | Não informada | Progestágenos simples |
-| Registro 187590001 | Utrogestan | Não informada | Progestágenos simples |
-| Registro 187590014 | Prolutex | Não informada | Progestágenos simples |
-| Registro 100890365 | Crinone | Não informada | Progestágenos simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100890365 | CRINONE | MERCK S/A | Ativo |
+| 103900200 | PROGESTERONA | FARMOQUÍMICA S/A | Ativo |
+| 103900201 | JUNNO | FARMOQUÍMICA S/A | Ativo |
+| 135640008 | GYNPRO | EXELTIS LABORATORIO FARMACEUTICO LTDA | Ativo |
+| 187590001 | UTROGESTAN | BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA | Ativo |
+| 187590009 | PROGESTERONA | BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA | Ativo |
+| 187590014 | PROLUTEX | BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA | Ativo |
+| 101620047 | GINECOSIDE | LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA | Cancelado |
+| 103900167 | UTROGESTAN | FARMOQUÍMICA S/A | Cancelado |
+| 111240217 | CRINONE | SERONO PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+| 122050029 | UTROGESTAN | LABORATORIO ENILA IND. E COM. DE PROD. QUIM. E FAR | Cancelado |
+| 122050042 | NATUCOMB | LABORATORIO ENILA IND. E COM. DE PROD. QUIM. E FAR | Cancelado |
+| 122140056 | EVOCANIL | ADIUM S.A. | Cancelado |
+| 123610094 | PROLUTEX | UCB BIOPHARMA LTDA. | Cancelado |
+| 156200023 | ÁGAPE | VIDFARMA INDÚSTRIA DE MEDICAMENTOS LTDA | Cancelado |
+| 187590004 | PROGESTERONA | BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA | Cancelado |
 
 ## Considerações de Segurança
 

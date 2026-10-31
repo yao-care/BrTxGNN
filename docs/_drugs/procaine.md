@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 551
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Procaine"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis"]
 description: "Procaine: nova indicação prevista, Metemoglobinemia (methemoglobinemia) (nível de evidência L4). Indicação original: ANESTESICOS LOCAIS"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê, como principal candidata, a **metemoglobinemia (methemogl
 | Nova Indicação Prevista | Metemoglobinemia (methemoglobinemia) |
 | Pontuação de Previsão TxGNN | 0.9950 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
-| Número de Registros | 4 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 40) |
+| Número de Registros | 40 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -95,12 +95,40 @@ Nenhum desses trabalhos demonstra benefício da procaína no tratamento da metem
 
 O medicamento é comercializado: dos 4 registros encontrados, 4 têm licença válida.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 105700050 | DORDENTE | Não informada | Anestésicos locais |
-| Registro 167730344 | BISMU-JET | Não informada | Anti-infecciosos e antissépticos tópicos para orofaringe |
-| Registro 103420050 | PASSAJÁ | Não informada | Produtos odontológicos |
-| Registro 115600080 | AFTINE | Não informada | Produtos para orofaringe |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 103420050 | PASSAJÁ | FARMABRAZ BETA ATALAIA FARMACEUTICA LTDA. | Ativo |
+| 103700158 | BENZAPEN G | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105700050 | DORDENTE | HEARST LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 110110031 | WONILIN | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110390113 | FURP-BENZILPENICILINA PROCAINA + BENZILPENICILINA POTASSICA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 115600080 | AFTINE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 116370115 | PENKARON | BLAU FARMACÊUTICA S.A. | Ativo |
+| 167730344 | BISMU-JET | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100140016 | DRENOVAC | QUIMICA FARMACEUTICA NIKKHO DO BRASIL LTDA | Cancelado |
+| 100140030 | GINUROVAC | QUIMICA FARMACEUTICA NIKKHO DO BRASIL LTDA | Cancelado |
+| 100410191 | WONILIN | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430684 | WYCILLIN R | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470122 | TIMPANOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100810092 | LINFOCILIN | LABORATORIO CLIMAX SA | Cancelado |
+| 101310028 | CIBRAMICINA | COMPANHIA BRASILEIRA DE ANTIBIOTICOS-CIBRAN | Cancelado |
+| 101550092 | DEXAGIL | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Cancelado |
+| 101800015 | DESPACILINA | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 102700060 | PENKARON | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 102870033 | PASSAJÁ | SA FTCA BRASILEIRA FARMABRAZ | Cancelado |
+| 103940492 | FONERGIN | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
+| 104540006 | TROMBOPLASTINA + ASSOC. | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Cancelado |
+| 104810061 | NETACIL | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104970216 | PENI  PROC | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105530209 | CLORIDRATO DE PROCAINA INJETÁVEL ABBOTT | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105830102 | BISMU-JET | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830169 | DEXANEURIN | GERMED FARMACEUTICA LTDA | Cancelado |
+| 108580247 | PENCIL 400 | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 108930002 | ANESTESIOL | NUTRACOM INDUSTRIA E COMERCIO LTDA | Cancelado |
+| 109740018 | BENAPEN | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 112350019 | JOSFENOL | JOSPER FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

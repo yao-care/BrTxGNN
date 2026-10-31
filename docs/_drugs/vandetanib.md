@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 666
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Vandetanib: nova indicação prevista, Carcinoma de células renais (renal cell carcinoma) (nível de evidência L2). Indicação original: Antineoplásico"
 monitor_inn: "vandetanib"
 predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
@@ -50,8 +50,8 @@ atualmente com **4 ensaios clínicos** (todos de fase 1/2 ou 2, dois deles encer
 | Nova Indicação Prevista | Carcinoma de células renais (renal cell carcinoma) |
 | Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
+| Número de Registros | 4 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -83,9 +83,12 @@ Os dados clínicos existentes são pequenos. O ensaio mais informativo é o de f
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 183260326 (cancelado) | CAPRELSA | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 183260326 | CAPRELSA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 113001195 | CAPRELSA | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 116180246 | CAPRELSA | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+| 125430028 | CAPRELSA | GENZYME DO BRASIL LTDA | Cancelado |
 
 ## Citotoxicidade
 

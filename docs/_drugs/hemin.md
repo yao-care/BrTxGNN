@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 351
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Hemin: nova indicação prevista, Púrpura Trombocitopênica (Thrombocytopenic Purpura) (nível de evidência L5). Indicação original: Outros derivados do sangue e substitutos"
 monitor_inn: "hemin"
 predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor deficiency", "acquired coagulation factor deficiency", "serpinopathy with toxic serpin polymerization", "hereditary angioedema with C1Inh deficiency", "inherited thrombophilia", "symptomatic form of hemophilia in female carriers", "hereditary von Willebrand disease", "congenital factor XI deficiency"]
@@ -83,9 +83,9 @@ Observação: para a segunda previsão (hemofilia), foram recuperadas três publ
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 171260002 (cancelado) | PANHEMATIN | Não informada | Outros derivados do sangue e substitutos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 171260002 | PANHEMATIN | RECORDATI RARE DISEASES COMÉRCIO DE MEDICAMENTOS L | Ativo |
 
 ---
 

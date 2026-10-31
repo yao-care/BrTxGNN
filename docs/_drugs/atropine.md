@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Atropine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Atropine: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: ANTIESPASMODICOS E ANTICOLINERGICOS GASTRINTESTINAIS"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Transtorno de enxaqueca (migrai
 | Nova Indicação Prevista | Transtorno de enxaqueca (migraine disorder) |
 | Pontuação de Previsão TxGNN | 0,9956 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 32) |
+| Número de Registros | 32 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -82,13 +82,40 @@ As publicações abaixo são as mais próximas do tema; nenhuma testa a atropina
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 116370088 | ATROPION | Não informada | Antiespasmódicos e anticolinérgicos gastrintestinais |
-| Registro nº 110850017 | ATROFARMA | Não informada | Antiespasmódicos e anticolinérgicos gastrintestinais |
-| Registro nº 101860010 | SANTROPINA | Não informada | Antiespasmódicos e anticolinérgicos, associações medicamentosas |
-| Registro nº 101470091 | ATROPINA | Não informada | Midriáticos |
-| Registro nº 103110165 | PASMODEX | Não informada | Antiespasmódicos e anticolinérgicos gastrintestinais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101470091 | ATROPINA | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
+| 101860010 | SANTROPINA | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
+| 103110165 | PASMODEX | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 110850017 | ATROFARMA | FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LT | Ativo |
+| 116370088 | ATROPION | BLAU FARMACÊUTICA S.A. | Ativo |
+| 100230237 | ISOPTO ATROPINA | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 101710028 | ORMIGREIN | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Cancelado |
+| 101830015 | LAFEPE SULFATO DE ATROPINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 102160162 | LOMOTIL | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102700057 | ATROPION | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 103110038 | ISTARTROP | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 104080061 | SULFATO DE ATROPINA | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 104400007 | ESPASMOCRON | CELLERA FARMACEUTICA S.A. | Cancelado |
+| 104440078 | VAGOSTESYL | LABORATÓRIO GROSS S. A. | Cancelado |
+| 104650310 | TARTARATO DE ERGOTAMINA + ASSOCIAÇÕES | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104760021 | GASTROTANOL | LABORATORIO QUIMICO FARMACEUTICO BARROS LTDA | Cancelado |
+| 104971162 | DOLOR | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 104971293 | ATROP | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 110390104 | FURP-ATROPINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+| 112080046 | LQFEX - SULFATO DE ATROPINA | LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO | Cancelado |
+| 113430048 | ATROPINON | HIPOLABOR FARMACEUTICA LTDA | Cancelado |
+| 113430132 | SULFATO DE ATROPINA | HIPOLABOR FARMACEUTICA LTDA | Cancelado |
+| 114020055 | NOVATON | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 120330009 | COLESTASE | SANOFI - SYNTHELABO FARMACÊUTICA LTDA | Cancelado |
+| 121550030 | SECUTROPINA | ENGEFARMA PRODS. FARMACÊUTICOS LTDA. | Cancelado |
+| 122830003 | ATROPLAS | DM INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 123890111 | LOMOTIL | PHARMACIA BRASIL LTDA | Cancelado |
+| 135320006 | ATROPOCIL | DM COMERCIAL DE MEDICAMENTOS LTDA | Cancelado |
+| 148690022 | ATROP | FORMIL FARMACÊUTICA LTDA | Cancelado |
+| 151700011 | PASMODEX | ISOFARMA INDUSTRIAL FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 646
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Tolterodine: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ Todos os candidatos que o modelo TxGNN gerou para Tolterodine correspondem a uso
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis a uma fonte são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 1 |
 | Nível de evidência | Não aplicável |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 6) |
+| Número de Registros | 6 (ativos: 1) |
 
 ## Usos conhecidos entre os candidatos do modelo
 

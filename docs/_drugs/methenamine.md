@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 449
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Methenamine: nova indicação prevista, Uretrite por Ureaplasma (Ureaplasma urethritis) (nível de evidência L5). Indicação original: Antissépticos urinários – associações medicamentosas"
 monitor_inn: "methenamine"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** que apoiem dire
 | Nova Indicação Prevista | Uretrite por Ureaplasma (Ureaplasma urethritis) |
 | Pontuação de Previsão TxGNN | 0,9979 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 7) |
+| Número de Registros | 7 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -85,11 +85,15 @@ Para a indicação principal (uretrite por Ureaplasma), atualmente não há lite
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 104440066 (cancelado) | SEPURIN | Não informada | Antissépticos urinários – associações medicamentosas |
-| Registro 102351376 (cancelado) | CYSTEX DUO | Não informada | Antissépticos urinários – associações medicamentosas |
-| Registro 102350283 (cancelado) | CYSTEX | Não informada | Antissépticos urinários – associações medicamentosas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350283 | CYSTEX | EMS S/A | Ativo |
+| 102351376 | CYSTEX DUO | EMS S/A | Ativo |
+| 104440066 | SEPURIN | LABORATÓRIO GROSS S. A. | Ativo |
+| 102870034 | URODONAL | SA FTCA BRASILEIRA FARMABRAZ | Cancelado |
+| 102980119 | METENAMINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103420052 | URODONAL | FARMABRAZ BETA ATALAIA FARMACEUTICA LTDA. | Cancelado |
+| 109220199 | UROSALIN | H B FARMA LABORATÓRIOS LTDA | Cancelado |
 
 ## Considerações de Segurança
 

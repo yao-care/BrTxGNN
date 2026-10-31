@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Flunitrazepam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Flunitrazepam: nova indicação prevista, enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Indicação aprovada não registrada nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | enxaqueca (migraine disorder) |
 | Pontuação de Previsão TxGNN | 0,9971 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 6) |
-| Número de Registros | 6 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 7) |
+| Número de Registros | 7 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

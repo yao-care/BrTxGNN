@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Iodixanol"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Iodixanol: nova indicação prevista, Osteoartrite (nível de evidência L5). Indicação original: Não consta texto de indicação nos registros da ANVISA compilados para…"
 ---
 
@@ -48,8 +48,8 @@ Iodixanol é um meio de contraste radiográfico iodado, iso-osmolar, usado em ex
 | Nova Indicação Prevista | Osteoartrite |
 | Pontuação de Previsão TxGNN | 0,9907 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 5) |
-| Número de Registros | 5 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
+| Número de Registros | 4 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -78,13 +78,12 @@ Para artrite reumatoide, a única publicação é o relato de caso [36628042](ht
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada | Situação |
-|---------|------|------|-----------|------|
-| Registro 183960002 | VISIPAQUE | Não informada | Não informada | Válido |
-| Registro 172870392 | VISIPAQUE | Não informada | Não informada | Cancelado |
-| Registro 178170099 | VISIPAQUE | Não informada | Não informada | Cancelado |
-| Registro 120330010 | IODIXANOL | Não informada | Não informada | Cancelado |
-| Registro 103940518 | VISIPAQUE | Não informada | Não informada | Cancelado |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 183960002 | VISIPAQUE | GE HEALTHCARE DO BRASIL COMÉRCIO E SERVIÇOS PARA E | Ativo |
+| 103940518 | VISIPAQUE | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
+| 172870392 | VISIPAQUE | HYPERA S.A. | Cancelado |
+| 178170099 | VISIPAQUE | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Cancelado |
 
 ## Considerações de Segurança
 

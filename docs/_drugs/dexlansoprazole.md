@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "dexlansoprazole"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dexlansoprazole: nova indicação prevista, gastroduodenite (gastroduodenitis) (nível de evidência L5). Indicação original: ANTIACIDOS E ANTIULCEROSOS"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | gastroduodenite (gastroduodenitis) |
 | Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
+| Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -70,9 +70,11 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 106390261 | DEXILANT | Não informada | Antiácidos e antiulcerosos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 106390261 | DEXILANT | TAKEDA PHARMA LTDA. | Ativo |
+| 188300113 | DEXLANSOPRAZOL | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 188300115 | FROSIV | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
 
 ## Considerações de Segurança
 

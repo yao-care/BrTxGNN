@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 601
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Sunitinib: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L2). Indicação original: Agentes antineoplásicos"
 monitor_inn: "sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
@@ -50,8 +50,8 @@ atualmente com **2 ensaios clínicos** (ambos de Fase 2, concluídos) e **9 publ
 | Nova Indicação Prevista | Lipossarcoma (Liposarcoma) |
 | Pontuação de Previsão TxGNN | 0,9987 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
-| Número de Registros | 7 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
+| Número de Registros | 8 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -84,13 +84,16 @@ A indicação original é genérica (antineoplásico), e o sunitinibe é usado e
 
 O medicamento é comercializado; todos os 7 registros encontrados estão válidos.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 151430071 | SUZOPA | Não informada | Agentes antineoplásicos |
-| Registro nº 182610022 | XUNIB | Não informada | Antineoplásico |
-| Registro nº 146820119 | SARRA | Não informada | Antineoplásico |
-| Registro nº 121100466 | SUTENT | Não informada | Antineoplásico |
-| Registro nº 146820117 | MALATO DE SUNITINIBE | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 121100466 | SUTENT | PFIZER BRASIL LTDA | Ativo |
+| 146820117 | MALATO DE SUNITINIBE | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 146820119 | SARRA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 151430068 | MALATO DE SUNITINIBE | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 151430071 | SUZOPA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 182610019 | MALATO DE SUNITINIBE | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 182610022 | XUNIB | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 102160205 | SUTENT | LABORATÓRIOS PFIZER LTDA | Cancelado |
 
 ## Citotoxicidade
 

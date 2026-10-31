@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) |
 | Pontuação de Previsão TxGNN | 0,9926 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
-| Número de Registros | 8 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 29) |
+| Número de Registros | 29 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,13 +74,37 @@ Atualmente não há literatura relacionada.
 
 Todos os 8 registros estão válidos; o medicamento é comercializado no Brasil, com 8 licenças válidas de 8.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 154230266 | Espironolactona | Não informada | Diuréticos simples |
-| Registro nº 113430155 | Espironolactona | Não informada | Diuréticos simples |
-| Registro nº 121100419 | Aldactone | Não informada | Diuréticos |
-| Registro nº 100431399 | Diacqua | Não informada | Diuréticos simples |
-| Registro nº 105830285 | Espironolactona | Não informada | Diuréticos simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430952 | ESPIRONOLACTONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431399 | DIACQUA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350632 | ESPIRONOLACTONA | EMS S/A | Ativo |
+| 105831064 | ESPIRONOLACTONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 110390185 | ESPIRONOLACTONA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 113430155 | ESPIRONOLACTONA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 121100419 | ALDACTONE | PFIZER BRASIL LTDA | Ativo |
+| 154230266 | ESPIRONOLACTONA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 167730704 | ESPIRONOLACTONA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 194270113 | ESPIRONOLACTONA | MOMENTA FARMACÊUTICA LTDA. | Ativo |
+| 100430963 | DIACQUA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100431121 | DIACQUA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 101460082 | ESPIROBAL | LABORATÓRIOS BALDACCI LTDA | Cancelado |
+| 102160170 | ALDAZIDA | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160176 | ALDACTONE | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 103920183 | ESPIRONOLACTONA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104400098 | ALDARIL | CELLERA FARMACEUTICA S.A. | Cancelado |
+| 105830285 | ESPIRONOLACTONA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 107140266 | ESPIRONOLACTONA | SANVAL COMERCIO E INDUSTRIA LTDA | Cancelado |
+| 109740136 | SPIROCTAN | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 113000051 | LASILACTONA | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 121100427 | ALDAZIDA | PFIZER BRASIL LTDA | Cancelado |
+| 123890086 | ALDACTONE | PHARMACIA BRASIL LTDA | Cancelado |
+| 123890091 | ALDAZIDA | PHARMACIA BRASIL LTDA | Cancelado |
+| 137640040 | ALDOSTERIN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 155840296 | ALDNEO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 155840300 | ESPIRONOLACTONA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 183260444 | LASILACTONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+| 194270068 | DIACQUA | MOMENTA FARMACÊUTICA LTDA. | Cancelado |
 
 (Exibidos os 5 primeiros de 8 registros.)
 

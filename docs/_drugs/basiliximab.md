@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 107
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Basiliximab: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação igual ou superior a 0,99) |
 | Usos conhecidos registrados para este medicamento | 2 |
 | Nível de evidência | Não se aplica |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
-| Número de Registros | 2 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
+| Número de Registros | 1 (ativos: 1) |
 
 ## Usos conhecidos registrados para este medicamento
 

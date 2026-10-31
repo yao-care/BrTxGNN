@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 323
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fluorometholone: nova indicação prevista, Vasculite pós-infecciosa (postinfectious vasculitis) (nível de evidência L5). Indicação original: Glicocorticoides tópico oftalmológico simples"
 monitor_inn: "fluorometholone"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Vasculite pós-infecciosa (postinfectious vasculitis) |
 | Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 7) |
+| Número de Registros | 7 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -80,9 +80,15 @@ As demais previsões (pós-bacteriano, otite externa, estenose uretral infeccios
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102980483 (cancelado) | FLUTINOL | Não informada | Glicocorticoides tópico oftalmológico simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980483 | FLUTINOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 100230269 | FLORATE | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 100681096 | FLORATE | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101470013 | FLUMEX | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+| 101470167 | FLUMEX-N | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+| 115600136 | OFTRATE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Cancelado |
+| 117250028 | FLUTINOL | LATINOFARMA INDUSTRIAS FARMACEUTICAS LTDA | Cancelado |
 
 Não há registro válido atualmente, o que limita a viabilidade prática.
 

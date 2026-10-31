@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 258
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Desogestrel: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L3). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Desogestrel"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "acne (disease)", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (amenorrhea)**, atua
 | Nova Indicação Prevista | Amenorreia (amenorrhea) |
 | Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 10) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 40 de 80) |
+| Número de Registros | 80 (ativos: 40) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 611
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tenofovir Alafenamide: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficienc… (nível de evidência L4). Indicação original: Associações de antivirais para o tr…"
 monitor_inn: "tenofovir alafenamide"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -50,8 +50,8 @@ atualmente com **0 ensaios clínicos** e **8 publicações** (todas pré-clínic
 | Nova Indicação Prevista | Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) |
 | Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
-| Número de Registros | 4 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 5) |
+| Número de Registros | 5 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -85,12 +85,13 @@ Todos os estudos abaixo são pré-clínicos (macacos ou camundongos humanizados)
 
 Os 4 registros abaixo constam como **válidos**; atualmente há 4 registros válidos de 4.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 109290006 | VEMLIDY | Não informada | Não informada |
-| Registro nº 109290007 | DESCOVY | Não informada | Associações de antivirais para o tratamento de infecções por HIV |
-| Registro nº 109290008 | BIKTARVY | Não informada | Não informada |
-| Registro nº 112363434 | SYMTUZA® | Não informada | Associações de antivirais para o tratamento de infecções por HIV |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 109290006 | VEMLIDY | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 109290007 | DESCOVY | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 109290008 | BIKTARVY | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 112363434 | SYMTUZA® | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 109290009 | GENVOYA | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Cancelado |
 
 ## Considerações de Segurança
 

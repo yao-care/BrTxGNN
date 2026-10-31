@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Oxacillin: nova indicação prevista, Epiglotite (Epiglottitis) (nível de evidência L5). Indicação original: Penicilinas resistentes à penicilinase"
 monitor_inn: "oxacillin"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que ela pode ser eficaz para **Epiglotite (Epiglottitis)**
 | Nova Indicação Prevista | Epiglotite (Epiglottitis) |
 | Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 6) |
-| Número de Registros | 6 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 27) |
+| Número de Registros | 27 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -73,13 +73,35 @@ Atualmente não há literatura relacionada.
 
 Os 6 registros no Brasil estão válidos; o medicamento é comercializado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 116370111 | OXANON | Não informada | Penicilinas penicilinase-resistentes |
-| Registro nº 103700282 | Oxacilina Sódica | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 174200007 | Oxacilina Sódica | Não informada | Penicilinas penicilinase-resistentes |
-| Registro nº 116370141 | Oxacilina Sódica | Não informada | Penicilinas penicilinase-resistentes |
-| Registro nº 100410179 | Oxacilil | Não informada | Antibióticos sistêmicos simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 103700282 | OXACILINA SODICA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 110110016 | OXACILINA SÓDICA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110110017 | OXACILIL | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 116370111 | OXANON | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370141 | OXACILINA SÓDICA | BLAU FARMACÊUTICA S.A. | Ativo |
+| 174200007 | OXACILINA SÓDICA | EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 100410179 | OXACILIL | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410205 | OXACILINA SÓDICA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430713 | OXACILINA SÓDICA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100630077 | OXACIL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101800129 | STAFICILIN-N | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 102700119 | OXANON | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 103460022 | OXACILINA SÓDICA | BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA | Cancelado |
+| 103700155 | TEUTOCILIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104080010 | ROXACILIN | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 108580070 | OXACICLINA | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 108580222 | OXACILINA SODICA | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 109740068 | OXAPEN | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 112830024 | OXACILINA SODICA | LABORATORIO ITAFARMA LTDA | Cancelado |
+| 114020009 | OXACILIL | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 114020080 | OXACILINA SÓDICA | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 137640016 | BACTOCILIN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 137640097 | OXACILINA SÓDICA | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 151670017 | OXACILINA SÓDICA | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Cancelado |
+| 188300014 | OXACILINA SÓDICA | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
+| 188300017 | BACTOCILIN | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
+| 189000031 | OXANON | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
 
 ## Considerações de Segurança
 

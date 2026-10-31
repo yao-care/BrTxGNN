@@ -5,7 +5,7 @@ layout: default
 title: Testosterone
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 620
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | HORMONIOS SEXUAIS EXCLUSIVE OCITOCICOS; ANDROGENOS-ASSOCIACOES MEDICAMENTOSAS |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
-| Número de Registros | 4 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 27) |
+| Número de Registros | 27 (ativos: 14) |
 
 ---
 

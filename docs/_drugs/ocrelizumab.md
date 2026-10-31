@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 482
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ocrelizumab: nova indicação prevista, Carcinoma de mama HER2 positivo (HER2 positive breast carcinoma) (nível de evidência L5). Indicação original: Imunossupressores seletivos"
 monitor_inn: "ocrelizumab"
 predicted_indications: ["HER2 positive breast carcinoma", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer"]
@@ -63,9 +63,9 @@ As demais previsões do modelo TxGNN (deep learning) são câncer de mama com re
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 101000666 (cancelado) | OCREVUS | Não informada | Imunossupressores seletivos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101000666 | OCREVUS | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
 
 ## Considerações de Segurança
 

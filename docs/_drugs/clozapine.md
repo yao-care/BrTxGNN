@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 237
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clozapine: nova indicação prevista, Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) (nível de evidência L2). Indicação original: Neurolépticos"
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
@@ -52,8 +52,8 @@ atualmente com **1 ensaio clínico** diretamente relacionado a esta indicação 
 | Nova Indicação Prevista | Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) |
 | Pontuação de Previsão TxGNN | 0,9995 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 13) |
+| Número de Registros | 13 (ativos: 5) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ---
@@ -95,13 +95,21 @@ Essa direção é apoiada por uma revisão sistemática e metanálise de 2020 so
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 103720282 (cancelado) | OKÓTICO | Não informada | Neurolépticos |
-| Registro nº 188300034 (cancelado) | LEPONEX | Não informada | Neurolépticos |
-| Registro nº 102980378 (cancelado) | CLOZAPINA | Não informada | Neurolépticos |
-| Registro nº 102980377 (cancelado) | PINAZAN | Não informada | Neurolépticos |
-| Registro nº 101830148 (cancelado) | CLOZAPINA | Não informada | Neurolépticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101830148 | CLOZAPINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Ativo |
+| 102980377 | PINAZAN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980378 | CLOZAPINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103720282 | OKÓTICO | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 188300034 | LEPONEX | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 100330062 | CLOPAR | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100680027 | LEPONEX | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 104971228 | UNICLOZAPIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 110500044 | LIFALCLOZAPINA | LAB INDL FTCO ALAGOAS SA - LIFAL | Cancelado |
+| 110500052 | CLOZAPINA | LAB INDL FTCO ALAGOAS SA - LIFAL | Cancelado |
+| 112130191 | VIDMAX | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 123610039 | ZOLAPIN | UCB BIOPHARMA LTDA. | Cancelado |
+| 156510074 | XYNAZ | ZYDUS NIKKHO FARMACÊUTICA LTDA | Cancelado |
 
 ---
 

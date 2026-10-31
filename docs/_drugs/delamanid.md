@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "delamanid"
 predicted_indications: ["allergic urticaria"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Delamanid: nova indicação prevista, urticária alérgica (allergic urticaria) (nível de evidência L5). Indicação original: OUTROS MEDICAMENTOS USADOS NO TRATAMENTO DA TUBERCULOSE"
 ---
 
@@ -72,9 +72,9 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 188300098 | DELTYBA | Não informada | Outros medicamentos usados no tratamento da tuberculose |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 188300098 | DELTYBA | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
 
 ## Considerações de Segurança
 

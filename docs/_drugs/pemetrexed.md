@@ -50,8 +50,8 @@ atualmente com **7 ensaios clínicos** e **20 publicações** apoiando esta dire
 | Nova Indicação Prevista | Pleural adenomatoid tumor |
 | Pontuação de Previsão TxGNN | 0.9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 27) |
+| Número de Registros | 27 (ativos: 20) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -93,11 +93,35 @@ Não há ensaio de fase 3 específico para a doença peritoneal. A evidência ve
 
 Os 3 registros encontrados estão **válidos** (3 licenças válidas de 3); o pemetrexede está comercializado neste país.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 155730068 | PEMDIA | Não informada | Antineoplásico |
-| Registro 112600166 | ALIMTA | Não informada | Antineoplásico |
-| Registro 155370034 | PEMTRYX | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330166 | ATRED | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431234 | PEMETREXEDE DISSÓDICO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431250 | EROXYM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102980498 | MESOTEM | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 106460214 | PLEXEDEN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 106460215 | PEMETREXEDE DISSÓDICO HEPTAIDRATADO | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 110130269 | PEMEGLENN | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 110130270 | PEMETREXEDE | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 112600166 | ALIMTA | ELI LILLY DO BRASIL LTDA | Ativo |
+| 116370153 | PEMETREXEDE DISSÓDICO | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370212 | PREMEXEDE | BLAU FARMACÊUTICA S.A. | Ativo |
+| 146820076 | PEMETREXEDE DISSODICO | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 146820084 | SUKHI | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 151430050 | PEMETREXEDE DISSÓDICO | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155370033 | PEMETREXEDE DISSODICO | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370034 | PEMTRYX | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155730068 | PEMDIA | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 165070029 | HOPEM | CAMBER FARMACEUTICA LTDA | Ativo |
+| 165070032 | PEMETREXEDE DISSÓDICO | CAMBER FARMACEUTICA LTDA | Ativo |
+| 188300090 | PEMETREXEDE DISSÓDICO | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 116370194 | PREMEXEDE | BLAU FARMACÊUTICA S.A. | Cancelado |
+| 122140088 | PEMETREXEDE DISSÓDICO | ADIUM S.A. | Cancelado |
+| 122140089 | PEMEKER | ADIUM S.A. | Cancelado |
+| 149320014 | PEMETREXEDE DISSODICO | KEMMI PHARMA LTDA | Cancelado |
+| 151430053 | FONHEP | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 155730025 | PEMETREXEDE DISSODICO | TEVA FARMACÊUTICA LTDA. | Cancelado |
+| 155730027 | TACTROL | TEVA FARMACÊUTICA LTDA. | Cancelado |
 
 ## Citotoxicidade
 

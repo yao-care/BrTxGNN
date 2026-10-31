@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 281
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dutasteride: nova indicação prevista, Hipertricose universal congênita do tipo Ambras (Ambras type hypertri… (nível de evidência L5). Indicação original: Inibidor da alfa-redutase"
 monitor_inn: "Dutasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Hipertricose universal congênita do tipo Ambras (Ambras type hypertrichosis universalis congenita) |
 | Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
-| Número de Registros | 13 (ativos: 13) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 21) |
+| Número de Registros | 21 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -80,13 +80,29 @@ Como referência indireta, para outra indicação prevista (alopecia areata difu
 
 Todos os 13 registros encontram-se válidos. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101070231 | AVODART | Não informada | Inibidor da alfa-redutase |
-| Registro 105730618 | DUTASTERIDA | Não informada | Inibidor da alfa-redutase |
-| Registro 105730022 | DROALFA | Não informada | Inibidor da alfa-redutase |
-| Registro 105730472 | DASTENE | Não informada | Inibidor da alfa-redutase |
-| Registro 101070287 | COMBODART (dutasterida + tansulosina) | Não informada | Outros produtos com ação no trato urinário |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101070231 | AVODART | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+| 101070287 | COMBODART | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+| 101180648 | DUTASTERIDA + CLORIDRATO DE TANSULOSINA | APSEN FARMACEUTICA S/A | Ativo |
+| 101180650 | TANDUO | APSEN FARMACEUTICA S/A | Ativo |
+| 105730022 | DROALFA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730122 | DASTENE DUO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730189 | TASDUX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730472 | DASTENE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730618 | DUTASTERIDA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 122140100 | DUTASTERIDA + CLORIDRATO DE TANSULOSINA | ADIUM S.A. | Ativo |
+| 122140101 | DUTAM | ADIUM S.A. | Ativo |
+| 123520305 | DUTASTERIDA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 156510111 | DUTASTERIDA + CLORIDRATO DE TANSULOSINA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 156510130 | DUTAVIX | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 178170987 | DUTATANSO | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 100470550 | DUTASTERIDA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470556 | PRIMESTERIDE | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101070309 | DUTASTERIDA + CLORIDRATO DE TANSULOSINA | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101070312 | DUTASTERIDA | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 105730469 | DUTASTERIDA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 112130463 | DUTASTERIDA | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

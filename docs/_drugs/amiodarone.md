@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 56
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
 description: "Amiodarone: nova indicação prevista, Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) (nível de evidência L4). Indicação original: ANTIARR…"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **taquicardia ventricular polimó
 | Nova Indicação Prevista | Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) |
 | Pontuação de Previsão TxGNN | 0.9978 |
 | Nível de Evidência | L4 (apenas estudos de coorte, relatos de caso e revisões; sem estudos diretos do fármaco na doença) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 12) |
-| Número de Registros | 12 (ativos: 11) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 39) |
+| Número de Registros | 39 (ativos: 12) |
 | Decisão Recomendada | Hold |
 
 > **Observação importante:** entre as 10 indicações previstas, a de maior evidência é a **taquicardia ventricular** (rank 3; nível L1; Proceed with Guardrails), que na prática é um uso já consolidado e próximo da indicação original, e não um reposicionamento propriamente dito. Esta análise segue a indicação de rank 1 (CPVT), mas a taquicardia ventricular é apresentada na conclusão como alternativa.
@@ -87,13 +87,40 @@ Nenhuma dessas publicações demonstra benefício direto da amiodarona na CPVT.
 
 Dos 12 registros encontrados, os 12 constam como **válidos**; o medicamento está comercializado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 123520189 | Cloridrato de Amiodarona | Não informada | Antiarrítmicos |
-| Registro nº 100330001 | Ancoron | Não informada | Antiarrítmicos |
-| Registro nº 101460069 | Amiobal | Não informada | Antiarrítmicos |
-| Registro nº 100330162 | Ancoron | Não informada | Antiarrítmicos |
-| Registro nº 183260294 | Cloridrato de Amiodarona | Não informada | Antiarrítmicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330001 | ANCORON | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100330162 | ANCORON | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 101460069 | AMIOBAL | LABORATÓRIOS BALDACCI LTDA | Ativo |
+| 105730565 | MIODARON | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 110110024 | CLORIDRATO DE AMIODARONA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 113430122 | CLORIDRATO DE AMIODARONA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 123520189 | CLORIDRATO DE AMIODARONA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 154230002 | AMIORON | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230277 | CLORIDRATO DE AMIODARONA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 156510070 | CLORIDRATO DE AMIODARONA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 183260294 | CLORIDRATO DE AMIODARONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 183260423 | ATLANSIL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100410206 | CLORIDRATO DE AMIODARONA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100470207 | COR MIO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100490090 | AMIO -BRAS | LABORATÓRIO SAÚDE LTDA | Cancelado |
+| 101160142 | AMIODARONA | KNOLL PRODS QUIMS FARMACEUTICOS LTDA. | Cancelado |
+| 102980116 | MIOCORON | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103700367 | CARDICORON | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103920094 | MIODAREN | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104080068 | ANGYTON | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 104650209 | MIODARID | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105500066 | MIOCOR | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105730580 | CLORIDRATO DE AMIODARONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 107140254 | CLORIDRATO DE AMIODARONA | SANVAL COMERCIO E INDUSTRIA LTDA | Cancelado |
+| 108970043 | ARRITIROM | EVERSIL PRODUTOS FTCOS IND COM LTDA | Cancelado |
+| 109740107 | MIODON | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 110860037 | AMIRONA | LASA INDÚSTRIA FARMACÊUTICA LTDA. | Cancelado |
+| 112130014 | MIODARON | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 112130260 | CLORIDRATO DE AMIODARONA | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 113001049 | CLORIDRATO DE AMIODARONA | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 (Exibidos os 5 principais registros, de um total de 12.)
 

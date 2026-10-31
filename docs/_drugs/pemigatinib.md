@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 515
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "pemigatinib"
 predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "axial spondylometaphyseal dysplasia"]
 description: "Pemigatinib: nova indicação prevista, Neoplasia Endócrina Múltipla (multiple endocrine neoplasia) (nível de evidência L5). Indicação original: OUTROS ANTINEOPLASICOS"
@@ -80,9 +80,9 @@ Para a indicação principal (neoplasia endócrina múltipla), atualmente não h
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 125760040 (cancelado) | PEMAZYRE | Não informada | Outros antineoplásicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 125760040 | PEMAZYRE | UNITED MEDICAL LTDA | Ativo |
 
 ## Citotoxicidade
 

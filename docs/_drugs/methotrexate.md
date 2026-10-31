@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Blastoma Pulmonar (Pulmonary Bl
 | Nova Indicação Prevista | Blastoma Pulmonar (Pulmonary Blastoma) |
 | Pontuação de Previsão TxGNN | 0,9945 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 10) |
-| Número de Registros | 10 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 28) |
+| Número de Registros | 28 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -93,13 +93,36 @@ Atualmente não há literatura relacionada para Blastoma Pulmonar.
 
 Todos os 10 registros encontrados estão **válidos**; o metotrexato está atualmente comercializado (10 registros válidos de 10).
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 116370033 | METREXATO | Não informada | Antineoplásico |
-| Registro nº 122140018 | TECNOMET | Não informada | Antimetabólicos antagonistas do ácido fólico |
-| Registro nº 100431549 | METOTREXATO | Não informada | Antimetabólicos antagonistas do ácido fólico |
-| Registro nº 116370137 | MTX | Não informada | Antineoplásicos citotóxicos |
-| Registro nº 155370010 | HYTAS | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330137 | FAULDMETRO | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431549 | METOTREXATO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431561 | MEXY | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 116370137 | MTX | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370142 | METOTREXATO | BLAU FARMACÊUTICA S.A. | Ativo |
+| 122140018 | TECNOMET | ADIUM S.A. | Ativo |
+| 155370010 | HYTAS | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 101440018 | TRIXILEM | BIONCOL FARMACÊUTICA LTDA. | Cancelado |
+| 102160182 | MIANTREX CS | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 103700197 | TREXAT | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104970201 | UNI-TREXATO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 108840360 | IQUEGO-METOTREXATO | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Cancelado |
+| 109680084 | METOTREXATO | LABORATÓRIO KINDER LTDA | Cancelado |
+| 112130097 | BIOMETROX | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 120190070 | NEOTREXAL | GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+| 120690010 | LITREXATE | LABORATÓRIOS LIBRA DO BRASIL LTDA | Cancelado |
+| 121100377 | MIANTREX CS | PFIZER BRASIL LTDA | Cancelado |
+| 121170101 | EMTHEXATE | ASTA MÉDICA LTDA | Cancelado |
+| 121170132 | METOTREXATO | ASTA MÉDICA LTDA | Cancelado |
+| 123610034 | UNITREXATE | UCB BIOPHARMA LTDA. | Cancelado |
+| 123890063 | MIANTREX CS | PHARMACIA BRASIL LTDA | Cancelado |
+| 127480014 | MTX-BIG | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Cancelado |
+| 131390002 | FAULDMETRO | DISAQ FARMACÊUTICA LTDA | Cancelado |
+| 150820025 | EMTHEXATE | ASTA MÉDICA-ONCOLOGIA LTDA | Cancelado |
+| 150820046 | METOTREXATO | ASTA MÉDICA-ONCOLOGIA LTDA | Cancelado |
+| 155730002 | TEVAMETHO | TEVA FARMACÊUTICA LTDA. | Cancelado |
+| 167250011 | TESTE CLOEN | EMPRESA DE TESTE LTDA. (VS01) | Cancelado |
+| 167250012 | TESTE CLOEN | EMPRESA DE TESTE LTDA. (VS01) | Cancelado |
 
 *(Exibidos os 5 primeiros de 10 registros, todos cancelados.)*
 

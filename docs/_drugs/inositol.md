@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "INOSITOL"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatic porphyria", "congestive heart failure", "acute pulmonary heart disease", "glycogen storage disease due to hepatic glycogen synthase deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Inositol: nova indicação prevista, Cirrose associada ao cobre idiopática (idiopathic copper-associated c… (nível de evidência L5). Indicação original: Sem texto de indicação aprovada nos registros. N…"
 ---
 
@@ -53,8 +53,8 @@ As previsões de maior pontuação (doenças hepáticas e da circulação portal
 | Nova Indicação Prevista (com literatura) | Insuficiência cardíaca congestiva (congestive heart failure) |
 | Pontuação de Previsão TxGNN | 0,9998 (cirrose associada ao cobre); 0,9944 (insuficiência cardíaca congestiva) |
 | Nível de Evidência | L5 (cirrose associada ao cobre); L5 (insuficiência cardíaca congestiva, ver justificativa abaixo) |
-| Situação no Mercado Brasileiro | Desconhecida (lista parcial); todos os 20 registros listados estão cancelados |
-| Número de Registros | Pelo menos 20 (a lista pode estar incompleta) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 29) |
+| Número de Registros | 29 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 Nota sobre o nível de evidência: embora o conjunto de dados classifique a insuficiência cardíaca como L4, nenhuma das publicações recuperadas testa o inositol como intervenção nessa doença. O estudo mais próximo (PMID 39121579) é uma coorte que mede o mielo-inositol plasmático como biomarcador, sem avaliar tratamento. Pela regra de teto de evidência, o nível aplicável é L5.
@@ -90,15 +90,39 @@ Várias outras publicações recuperadas (estresse nitrosativo, FMO2, coesinopat
 
 ## Informações de Comercialização no Brasil
 
-A lista abaixo é parcial (há pelo menos 20 registros) e todos os registros listados constam como cancelados. Os registros não trazem texto de indicação aprovada nem forma farmacêutica, e são produtos de composição multivitamínica ou associada.
+Os registros não trazem texto de indicação aprovada nem forma farmacêutica, e são produtos de composição multivitamínica ou associada.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101830011 | LAFEPE POLIVITAMINAS | Não informada | Não informada |
-| Registro 101910297 | LIPOSITOL | Não informada | Não informada |
-| Registro 115570055 | ANEMIX | Não informada | Não informada |
-| Registro 172870347 | GERIVIX | Não informada | Não informada |
-| Registro 172870421 | METIOCOLIN B 12 | Não informada | Não informada |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 167730285 | NATUS GERIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100020031 | HEPACHOFRIL | LABORATORIO SEDABEL LTDA | Cancelado |
+| 100020089 | TIAMINA + ASSOCIAÇÕES | LABORATORIO SEDABEL LTDA | Cancelado |
+| 100320047 | HECROSINE | ORTOQUIMICA INDUSTRIA QUÍMICO-FARMACÊUTICA LTDA | Cancelado |
+| 100380001 | AMINOLYSIN | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100380017 | BIOLIP | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 101550042 | POLIVITAMINICOS E MINERAIS ASSOCIADOS | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Cancelado |
+| 101830011 | LAFEPE POLIVITAMINAS | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 101910297 | LIPOSITOL | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102160245 | CLUSIVOL COMPOSTO | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102680024 | METISIL B 12 | LABORSIL IND FTCA LTDA | Cancelado |
+| 103200001 | ANECROSAN B12 | INSTITUTO BIOCHIMICO MARAGLIANO LTDA | Cancelado |
+| 103940479 | METIOCOLIN B 12 | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
+| 104340006 | HEPATOGENOL | PROFARB LTDA | Cancelado |
+| 104650405 | GERIVIX | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105530115 | METIOCOLIN B12 | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105730072 | GERIATON | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105830085 | NATUS GERIN | GERMED FARMACEUTICA LTDA | Cancelado |
+| 106390119 | XANTINON | TAKEDA PHARMA LTDA. | Cancelado |
+| 113050021 | MULTIVIMS PLUS | LUMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 115570055 | ANEMIX | INFAN INDUSTRIA QUIMICA FARMACEUTICA NACIONAL S/A | Cancelado |
+| 116950033 | VITFORTE | LABORATÓRIO FARMACÊUTICO VITAMED LTDA | Cancelado |
+| 126140006 | PLUSVITAM | QUIMIFAR LTDA. | Cancelado |
+| 127020020 | VITAMIN FOR HAIR | BIOWELL AMERICA LTDA | Cancelado |
+| 136310009 | NATURAL WEALTH PARA O CABELO | TRANSCONTINENTAL TRADING LTDA | Cancelado |
+| 136310011 | POLIVITAMINAS E POLIMINERAIS PARA CABELOS E UNHAS | TRANSCONTINENTAL TRADING LTDA | Cancelado |
+| 172870347 | GERIVIX | HYPERA S.A. | Cancelado |
+| 172870421 | METIOCOLIN B 12 | HYPERA S.A. | Cancelado |
+| 178170106 | METIOCOLIN B 12 | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Cancelado |
 
 ## Considerações de Segurança
 
@@ -118,13 +142,13 @@ Chama atenção que várias dessas relações são cardiovasculares, o que merec
 **Decisão: Hold**
 
 **Justificativa:**
-- As previsões de maior pontuação não têm nenhum ensaio ou publicação, e a única com literatura (insuficiência cardíaca) traz apenas dados indiretos, com um sinal que sugere elevação do mielo-inositol como possivelmente deletéria. Todos os registros brasileiros listados estão cancelados e faltam dados de segurança da bula.
+- As previsões de maior pontuação não têm nenhum ensaio ou publicação, e a única com literatura (insuficiência cardíaca) traz apenas dados indiretos, com um sinal que sugere elevação do mielo-inositol como possivelmente deletéria. Faltam dados de segurança da bula.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA para advertências e contraindicações (lacuna que impede a triagem de segurança)
 - Obter dados do mecanismo de ação do inositol (por exemplo, no DrugBank)
 - Investigar se o mielo-inositol elevado na insuficiência cardíaca é causa, consequência ou biomarcador, com estudos mecanísticos e, depois, pré-clínicos de intervenção
-- Verificar a situação regulatória atual do inositol no Brasil, já que a lista é parcial e todos os registros listados estão cancelados
+- Verificar a situação regulatória atual do inositol no Brasil
 - Não priorizar as previsões hepáticas e portais sem alguma evidência de apoio independente do modelo
 ## Aviso de isenção de responsabilidade
 

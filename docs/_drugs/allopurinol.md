@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "inflammatory myopathy with abundant macrophages"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Allopurinol: nova indicação prevista, Porfiria hepática (hepatic porphyria) (nível de evidência L5). Indicação original: Antigotosos (gota)"
 ---
 
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que ele pode ser eficaz para **porfiria hepática (hepatic
 | Nova Indicação Prevista | Porfiria hepática (hepatic porphyria) |
 | Pontuação de Previsão TxGNN | 0,9995 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 22) |
+| Número de Registros | 22 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -84,13 +84,30 @@ Nenhuma das publicações abaixo testa o alopurinol em pacientes com porfiria; s
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 183260035 | ALOPURINOL | Não informada | Antigotosos |
-| Registro nº 100470331 | ALOPURINOL | Não informada | Antigotosos |
-| Registro nº 100681154 | ALOPURINOL | Não informada | Antigotosos |
-| Registro nº 137640122 | ZYLORIC | Não informada | Não informada |
-| Registro nº 125680191 | ALOPURINOL | Não informada | Antigotosos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100470331 | ALOPURINOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681154 | ALOPURINOL | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 125680191 | ALOPURINOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 137640122 | ZYLORIC | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 183260035 | ALOPURINOL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100250078 | ZYLORIC | GLAXO WELLCOME S/A | Cancelado |
+| 100470469 | ZOPRINOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470614 | URIC | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101070204 | ZYLORIC | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101180160 | ZILOPUR | APSEN FARMACEUTICA S/A | Cancelado |
+| 101810569 | ALOPURINOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101910292 | PURINOL | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102350520 | ALOPURINOL | EMS S/A | Cancelado |
+| 104041950 | ALOZIC | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 104450127 | LABOPURINOL | LABORATORIO SINTERAPICO INDUSTRIAL FTCO LTDA | Cancelado |
+| 105830783 | ALOPURINOL | GERMED FARMACEUTICA LTDA | Cancelado |
+| 106240099 | ALOPURIMILIUM | INDÚSTRIA FARMACÊUTICA MILIAN LTDA | Cancelado |
+| 107140114 | LOPURAX | SANVAL COMERCIO E INDUSTRIA LTDA | Cancelado |
+| 109740087 | XANTUR | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 110630040 | FAR- MAGUINHOS -ALOPURINOL | FUNDAÇÃO OSWALDO CRUZ | Cancelado |
+| 146680014 | ALOPURINOL | APOTEX DO BRASIL LTDA | Cancelado |
+| 167730406 | ALOPURINOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
 ---
 

@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 574
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "Ropivacaine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
 description: "Ropivacaine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: ANESTESICOS LOCAIS"
@@ -50,8 +50,8 @@ atualmente com **2 ensaios clínicos** e **3 publicações** apoiando esta dire�
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
 | Pontuação de Previsão TxGNN | 0.9965 |
 | Nível de Evidência | L2 (ver observação abaixo) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
-| Número de Registros | 8 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 13) |
+| Número de Registros | 13 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 > **Observação sobre o nível de evidência:** o conjunto de dados atribui L2 à enxaqueca. Aplicando estritamente os critérios deste relatório, porém, o único estudo diretamente relevante e concluído é um ensaio randomizado de Fase 4 com apenas 10 participantes, e não há RCT de Fase 2/3 concluído. As demais evidências são estudos observacionais (L3). O nível L2 deve, portanto, ser interpretado com cautela, e a evidência real situa-se entre L2 e L3, com baixa robustez.
@@ -83,13 +83,21 @@ Na enxaqueca, a ropivacaína é aplicada de forma localizada em estruturas ligad
 
 Todos os 8 registros encontram-se **válidos**; o medicamento está comercializado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 103700645 | OPIVAC | Não informada | Anestésicos locais |
-| Registro nº 100430957 | Cloridrato de Ropivacaína | Não informada | Anestésicos locais |
-| Registro nº 103870072 | Cloridrato de Ropivacaína | Não informada | Anestésicos locais |
-| Registro nº 102980555 | ROPI® BOLSA | Não informada | Anestésicos locais |
-| Registro nº 103700633 | Cloridrato de Ropivacaína | Não informada | Anestésicos locais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980339 | ROPI | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980555 | ROPI® BOLSA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700633 | CLORIDRATO DE ROPIVACAÍNA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700645 | OPIVAC | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103870072 | CLORIDRATO DE ROPIVACAÍNA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103870090 | HYROVI | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 137640157 | NAROPIN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100430957 | CLORIDRATO DE ROPIVACAÍNA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430974 | ANESYN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100630256 | CLORIDRATO DE ROPIVACAÍNA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 116180094 | NAROPIN | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+| 121100334 | PIGESIC | PFIZER BRASIL LTDA | Cancelado |
+| 121100337 | CLORIDRATO DE ROPIVACAINA | PFIZER BRASIL LTDA | Cancelado |
 
 Existem ainda outros 3 registros cancelados (NAROPIN, HYROVI e ROPI), não listados por limite de 5 itens.
 

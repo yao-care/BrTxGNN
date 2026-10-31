@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 194
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Carbocisteine: nova indicação prevista, Gota (Gout) (nível de evidência L5). Indicação original: Expectorantes"
 monitor_inn: "Carbocisteine"
 predicted_indications: ["gout"]
@@ -51,8 +51,8 @@ Observação importante: a segunda previsão, **Bronquite (Bronchitis)**, é a �
 | Nova Indicação Prevista | Gota (Gout) |
 | Pontuação de Previsão TxGNN | 0,9967 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 14) |
-| Número de Registros | 14 (ativos: 14) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 60) |
+| Número de Registros | 60 (ativos: 14) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -88,13 +88,40 @@ Para referência, a literatura disponível para a previsão de **bronquite** (2�
 
 Todos os 14 registros estão válidos; o medicamento é comercializado atualmente. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 118190009 | Mucolab | — | Expectorantes |
-| Registro 125680034 | Carbocisteína | — | Expectorantes balsâmicos e mucolítico |
-| Registro 143810037 | Carbocin | — | Expectorantes |
-| Registro 138410034 | Mucobronq | — | Expectorantes balsâmicos e mucolítico |
-| Registro 103700180 | Fluitoss | — | Expectorantes simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350461 | CARBOCISTEÍNA | EMS S/A | Ativo |
+| 103700180 | FLUITOSS | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700397 | CARBOCISTEÍNA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104971315 | MUCOFAN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730709 | CARBOCISTEINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 125680034 | CARBOCISTEÍNA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680388 | KLARTA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 138410034 | MUCOBRONQ | NATULAB LABORATORIO S.A | Ativo |
+| 143810037 | CARBOCIN | CIMED INDUSTRIA S.A | Ativo |
+| 143810094 | CARBOCISTEÍNA | CIMED INDUSTRIA S.A | Ativo |
+| 147610017 | CARBOCISTEÍNA | NATIVITA IND. COM. LTDA. | Ativo |
+| 147610018 | CARBOTRAT | NATIVITA IND. COM. LTDA. | Ativo |
+| 154230081 | CARBOCISTEÍNA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 196240012 | MUCBE | KYMBERG FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 100890169 | MUCOFLUX | MERCK S/A | Cancelado |
+| 100890283 | CARBOCISTEÍNA | MERCK S/A | Cancelado |
+| 101810352 | CARBOCISTEINA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810353 | CARBOCISTEINA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101910241 | TOSSIMEL | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102350732 | CARBOCISTEÍNA | EMS S/A | Cancelado |
+| 102350850 | CARBOCISTEÍNA | EMS S/A | Cancelado |
+| 103920063 | PULMOTRAT | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104400159 | SANTÓSS | CELLERA FARMACEUTICA S.A. | Cancelado |
+| 104650147 | MUCOCISTEIN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104650394 | CARBOCISTEÍNA | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104971338 | CARBOCISTEÍNA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105770157 | CARBOFAN | LABORATIL FARMACEUTICA LTDA | Cancelado |
+| 105830163 | MUCOTOSS | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830400 | CARBOCISTEÍNA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830492 | CARBOCISTEÍNA | GERMED FARMACEUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

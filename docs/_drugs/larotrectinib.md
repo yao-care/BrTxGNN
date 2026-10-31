@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Larotrectinib: nova indicação prevista, Neoplasia Endócrina Múltipla (Multiple Endocrine Neoplasia) (nível de evidência L3). Indicação original: Agentes antineoplásicos"
 monitor_inn: "larotrectinib"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
@@ -77,10 +77,10 @@ Os inibidores seletivos de RET (selpercatinibe e pralsetinibe) são a opção di
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 170560117 (cancelado) | VITRAKVI | Não informada | Agentes antineoplásicos |
-| Registro nº 170560116 (cancelado) | VITRAKVI | Não informada | Agentes antineoplásicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 170560116 | VITRAKVI | BAYER S.A. | Ativo |
+| 170560117 | VITRAKVI | BAYER S.A. | Ativo |
 
 ## Citotoxicidade
 

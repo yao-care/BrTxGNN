@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Mometasone: nova indicação prevista, Linfoma cutâneo primário de células T (primary cutaneous T-cell lymph… (nível de evidência L4). Indicação original: Produtos para terapia nasal de ação específica"
 monitor_inn: "Mometasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **2 publicações** (ambos r
 | Nova Indicação Prevista | Linfoma cutâneo primário de células T (primary cutaneous T-cell lymphoma) |
 | Pontuação de Previsão TxGNN | 0,9936 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
-| Número de Registros | 9 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 28 de 58) |
+| Número de Registros | 58 (ativos: 28) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -73,13 +73,40 @@ Há, porém, uma ressalva importante: não existem dados de estudos específicos
 
 O medicamento é comercializado no Brasil: dos 9 registros encontrados, 9 estão vigentes.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100431341 | Furoato de Mometasona | Não informada | Produtos para terapia nasal de ação específica |
-| Registro 178170887 | Amome | Não informada | Produtos para terapia nasal de ação específica |
-| Registro 100431344 | Ventus | Não informada | Produtos para terapia nasal de ação específica |
-| Registro 100431349 | Monax | Não informada | Produtos para terapia nasal de ação específica |
-| Registro 100290217 | Nasonex® | Não informada | Produtos para terapia nasal de ação específica |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290193 | NITES | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290217 | NASONEX | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100330114 | TOPISON | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431341 | FUROATO DE MOMETASONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431344 | VENTUS | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431349 | MONAX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100681181 | ATECTURA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681182 | ENERZAIR | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102350790 | FUROATO DE MOMETASONA | EMS S/A | Ativo |
+| 102350791 | FUROATO DE MOMETASONA | EMS S/A | Ativo |
+| 102351472 | FUROATO DE MOMETASONA | EMS S/A | Ativo |
+| 102351479 | ATOF | EMS S/A | Ativo |
+| 105730631 | FUROATO DE MOMETASONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730664 | FUROATO DE MOMETASONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830485 | FUROATO DE MOMETASONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831053 | FUROATO DE MOMETASONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831069 | FUROATO DE MOMETASONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 110130273 | DERMOTIL FUSID | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 110130287 | FUROATO DE MOMETASONA | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 110130290 | MOMATE | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 110130304 | RYALTRIS | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 155840228 | FUROATO DE MOMETASONA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840699 | FUROATO DE MOMETASONA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 178170788 | OXIMAX | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 178170881 | M-LIX | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 178170887 | AMOME | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 183260208 | FUROATO DE MOMETASONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 183260221 | FUROATO DE MOMETASONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100430768 | FUROATO DE MOMETASONA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430769 | FUROATO DE MOMETASONA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 (Exibidos os 5 primeiros de 9 registros cancelados.)
 

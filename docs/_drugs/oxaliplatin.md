@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 497
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 description: "Oxaliplatin: nova indicação prevista, Mesotelioma Pleural Maligno (malignant pleural mesothelioma) (nível de evidência L2). Indicação original: Não consta nos dados locais"
@@ -50,8 +50,8 @@ atualmente com **3 ensaios clínicos** (2 diretamente relevantes, de Fase 2) e *
 | Nova Indicação Prevista | Mesotelioma Pleural Maligno (malignant pleural mesothelioma) |
 | Pontuação de Previsão TxGNN | 0.9968 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 35) |
+| Número de Registros | 35 (ativos: 17) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

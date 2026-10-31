@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 624
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tetracaine: nova indicação prevista, Acrodermatite crônica atrófica (acrodermatitis chronica atrophicans) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "TETRACAINE"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **acrodermatite crônica atrófic
 | Nova Indicação Prevista | Acrodermatite crônica atrófica (acrodermatitis chronica atrophicans) |
 | Pontuação de Previsão TxGNN | 0,9993 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 16) |
+| Número de Registros | 16 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -103,13 +103,24 @@ Literatura das outras previsões (selecionada, priorizando RCT, depois revisões
 
 Os 5 registros estão válidos; o medicamento é comercializado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101430075 | Pliaglis | Não informada | Anestésicos locais |
-| Registro 102980565 | Skincaine | Não informada | Anestésicos locais |
-| Registro 178170933 | Hexomedine | Não informada | Antiinfecciosos e antissépticos tópicos para orofaringe |
-| Registro 102980552 | Lidocaína + Tetracaína | Não informada | Anestésicos locais |
-| Registro 103900162 | Oto Betnovate | Não informada | Glicocorticoides tópicos – associação medicamentosa |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101430075 | PLIAGLIS | MEGALABS FARMACEUTICA S.A. | Ativo |
+| 102980552 | LIDOCAÍNA + TETRACAÍNA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980565 | SKINCAINE | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103900162 | OTO BETNOVATE | FARMOQUÍMICA S/A | Ativo |
+| 178170933 | HEXOMEDINE | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 101470049 | ANESTÉSICO OCULUM | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+| 105730471 | ISETIONATO DE HEXAMIDINA + CLORIDRATO DE TETRACAINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105730636 | ISETIONATO DE HEXAMIDINA+CLORIDRATO DE TETRACAINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 112130465 | ISETIONATO DE HEXAMIDINA+CLORIDRATO DE TETRACAINA | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 113000076 | HEXOMEDINE | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 126250035 | TETRACAINA CLORIDRATO | LABORATÓRIO FARMACÊUTICO DA MARINHA | Cancelado |
+| 129160070 | PLIAGLIS | GALDERMA BRASIL LTDA | Cancelado |
+| 149160019 | OTO BETNOVATE | ZEST FARMACÊUTICA LTDA | Cancelado |
+| 161680001 | PLIAGLIS | CML PRODUTOS MÉDICOS LTDA | Cancelado |
+| 183260296 | ISETIONATO DE HEXAMIDINA + CLORIDRATO DE TETRACAÍNA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+| 183260310 | HEXOMEDINE | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
 
 ## Considerações de Segurança
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "COLCHICINE"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Colchicine: nova indicação prevista, Malária por Plasmodium falciparum (Plasmodium falciparum malaria) (nível de evidência L5). Indicação original: ANTINFLAMATORIOS ANTIREUMATICOS"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Malária por Plasmodium falcipa
 | Nova Indicação Prevista | Malária por Plasmodium falciparum (Plasmodium falciparum malaria) |
 | Pontuação de Previsão TxGNN | 0,9960 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
-| Número de Registros | 7 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 17) |
+| Número de Registros | 17 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,13 +74,25 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 120190075 | COXYM | Não informada | Antiinflamatórios antirreumáticos |
-| 101180109 | COLCHIS | Não informada | Antigotosos |
-| 154230203 | COLCHICINA | Não informada | Antigotosos |
-| 118190144 | COLCHICINA | Não informada | Antiinflamatórios antirreumáticos |
-| 118190397 | GOLTRITE | Não informada | Antiinflamatórios antirreumáticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101180109 | COLCHIS | APSEN FARMACEUTICA S/A | Ativo |
+| 101180595 | COLCHIS | APSEN FARMACEUTICA S/A | Ativo |
+| 118190109 | COCICHIMIL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190144 | COLCHICINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190397 | GOLTRITE | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 120190075 | COXYM | GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA | Ativo |
+| 154230203 | COLCHICINA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230258 | CIXIN | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 101180609 | COLCHIS | APSEN FARMACEUTICA S/A | Cancelado |
+| 101910261 | REGOUT | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 104070085 | IVB - COLCHICINA | INSTITUTO VITAL BRAZIL S/A | Cancelado |
+| 104080089 | COLZURIC | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 105500155 | COLCITRAT | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 106240102 | COCICHIMIL | INDÚSTRIA FARMACÊUTICA MILIAN LTDA | Cancelado |
+| 126750377 | GOLTRITE | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 142570072 | COCINAX | LUCIOMED FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 154230036 | CIXIN | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Cancelado |
 
 Foram listados 5 dos 7 registros de medicamentos de ingrediente único; a lista está limitada aos cinco principais.
 

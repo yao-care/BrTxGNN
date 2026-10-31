@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "RITONAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ritonavir: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **infecção pelo vírus da imuno
 | Nova Indicação Prevista | Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) |
 | Pontuação de Previsão TxGNN | 0.9992 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 20) |
-| Número de Registros | 20 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 15) |
+| Número de Registros | 15 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 Observação sobre o nível de evidência: as publicações disponíveis estudam o SIV em macacos e em cultura de células, ou sobre outros temas. Como não há ensaio clínico nem estudo que avalie diretamente o ritonavir como tratamento desta doença em contexto de indicação, o nível é limitado a L5, conforme a regra de teto de evidência.
@@ -88,10 +88,23 @@ Nenhuma das publicações é ensaio clínico randomizado; a maioria é pré-clí
 
 Há 20 registros no total, dos quais 5 válidos e 15 cancelados. Os registros não trazem texto de indicação aprovada nem forma farmacêutica nos dados compilados. Abaixo, os registros válidos de ritonavir isolado; o registro de Kaletra e o de lopinavir + ritonavir são produtos de associação, e o de Paxlovid é uma associação com nirmatrelvir, portanto não descrevem a aprovação do ritonavir isolado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 102980437 | Ritonavir (Cristália) | Não informada | Não informada nos dados compilados |
-| Registro 101830153 | Ritonavir (LAFEPE) | Não informada | Não informada nos dados compilados |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101830153 | RITONAVIR | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Ativo |
+| 102980436 | LOPINAVIR + RITONAVIR | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980437 | RITONAVIR | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 121100496 | PAXLOVID | PFIZER BRASIL LTDA | Ativo |
+| 198600010 | KALETRA | ABBVIE FARMACÊUTICA LTDA. | Ativo |
+| 100890261 | RITONAVIR (PORT 344/98 LISTA C4) | MERCK S/A | Cancelado |
+| 101830130 | LAFEPE-RITONAVIR | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 102980244 | RITOVIR | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 104650035 | NEOTONAVIR | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105530204 | NORVIR | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105530242 | KALETRA | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 110390223 | LOPINAVIR + RITONAVIR | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+| 198600009 | NORVIR | ABBVIE FARMACÊUTICA LTDA. | Cancelado |
+| 198600012 | VIEKIRA | ABBVIE FARMACÊUTICA LTDA. | Cancelado |
+| 198600015 | NORVIR | ABBVIE FARMACÊUTICA LTDA. | Cancelado |
 
 Registros válidos de produtos em associação (apenas para referência): Kaletra (198600010), Lopinavir + Ritonavir (102980436) e Paxlovid (121100496).
 

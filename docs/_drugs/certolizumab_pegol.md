@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "certolizumab pegol"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Certolizumab Pegol: nova indicação prevista, hipermobilidade do cóccix (hypermobility of coccyx) (nível de evidência L5). Indicação original: ANTINFLAMATORIOS"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | hipermobilidade do cóccix (hypermobility of coccyx) |
 | Pontuação de Previsão TxGNN | 0,9975 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -70,9 +70,10 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 123610087 | CIMZIA | Não informada | Conforme texto do registro local |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 123610087 | CIMZIA | UCB BIOPHARMA LTDA. | Ativo |
+| 116180239 | CIMZIA | ASTRAZENECA DO BRASIL LTDA | Cancelado |
 
 ## Considerações de Segurança
 

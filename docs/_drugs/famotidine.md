@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Famotidine"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Famotidine: nova indicação prevista, obstrução duodenal (duodenal obstruction) (nível de evidência L5). Indicação original: ANTIACIDOS E ANTIULCEROSOS"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser útil para **obstrução duodenal (duodenal o
 | Nova Indicação Prevista | obstrução duodenal (duodenal obstruction) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 6) |
+| Número de Registros | 6 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,10 +74,14 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 105730144 | FAMOX | Não informada | Antiácidos e antiulcerosos |
-| Registro 105730052 | FAMOX | Não informada | Não informada |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 105730052 | FAMOX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730144 | FAMOX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 100820077 | FAMOSET | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+| 103940191 | FAMODINE | LABORATÓRIO AMERICANO DE FARMACOTERAPIA S/A | Cancelado |
+| 104650246 | FAMOTID | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 115570028 | FAMOTIDINA | INFAN INDUSTRIA QUIMICA FARMACEUTICA NACIONAL S/A | Cancelado |
 
 ## Considerações de Segurança
 

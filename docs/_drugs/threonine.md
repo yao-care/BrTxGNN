@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 634
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Threonine: nova indicação prevista, Gastroparesia (Gastroparesis) (nível de evidência L5). Indicação original: Produtos para dietas especiais"
 monitor_inn: "THREONINE"
 predicted_indications: ["gastroparesis (disease)"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Gastroparesia (Gastroparesis) |
 | Pontuação de Previsão TxGNN | 0,9932 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 17) |
-| Número de Registros | 17 (ativos: 17) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 33) |
+| Número de Registros | 33 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,13 +66,40 @@ Uma conexão indireta possível seria o suporte nutricional (enteral ou parenter
 
 Dos 17 registros encontrados, 17 estão válidos. São listados abaixo os 5 principais.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100419923 | Ketosteril | Não informada | Produtos para dietas especiais |
-| Registro 100410131 | Nephrotect | Não informada | Nutrientes parenterais |
-| Registro 100410159 | Aminoven 10% Infant | Não informada | Nutrientes parenterais |
-| Registro 100850145 | Amixal | Não informada | Nutrientes parenterais |
-| Registro 100850109 | Nutriflex Plus | Não informada | Nutrientes parenterais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410150 | SMOFKABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410159 | AMINOVEN 10% INFANT | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419923 | KETOSTERIL | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419935 | AMINOVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419938 | KABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100850109 | NUTRIFLEX PLUS | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850124 | NUTRIFLEX LIPID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850145 | AMIXAL | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850246 | NUTRIFLEX LIPID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850247 | NUTRIFLEX | LABORATORIOS B. BRAUN S/A | Ativo |
+| 106830181 | OLIMEL | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830185 | NUMETA NEO | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830186 | NUMETA PED | BAXTER HOSPITALAR LTDA | Ativo |
+| 100410003 | AMINOSTERIL HEPA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410004 | AMINOSTERIL NEFRO | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410026 | AMINOSTERIL 10% | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410041 | AMINOSTERIL HEPA 8% + GLICOSE | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100850001 | AMINOPLASMAL L 10 A | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850122 | PEDIAMINO TAU | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850140 | PEDIAMINO TAU | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 103850032 | LISANEURIN | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Cancelado |
+| 105530190 | INTRASOL | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 106830068 | TRAVASOL | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830083 | POLIAMINOÁCIDOS RENAMIN | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830097 | CLINIMIX | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830109 | POLIAMINOÁCIDOS | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830157 | OLICLINOMEL | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830176 | OLICLINOMEL N8-800 | BAXTER HOSPITALAR LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 246
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cyclosporine: nova indicação prevista, Doença granulomatosa crônica autossômica recessiva (Granulomatous dis… (nível de evidência L4). Indicação original: Outros medicamentos com ação no aparelho vis…"
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **doença granulomatosa crônica 
 | Nova Indicação Prevista | Doença granulomatosa crônica autossômica recessiva (Granulomatous disease, chronic, autosomal recessive) |
 | Pontuação de Previsão TxGNN | 0,9968 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 19) |
+| Número de Registros | 19 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -83,13 +83,27 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101470160 | Restasis | Não informada | Outros medicamentos com ação no aparelho visual (cancelado) |
-| Registro 105830234 | Ciclosporina | Não informada | Agente imunossupressor (cancelado) |
-| Registro 105830999 | Sigmasporin Microral | Não informada | Agente imunossupressor (cancelado) |
-| Registro 100680020 | Sandimmun | Não informada | Não informada (cancelado) |
-| Registro 105830197 | Sigmasporin Microral | Não informada | Agente imunossupressor (cancelado) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100680020 | SANDIMMUN | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 101470160 | RESTASIS | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
+| 105830197 | SIGMASPORIN MICRORAL | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830234 | CICLOSPORINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830999 | SIGMASPORIN MICRORAL | GERMED FARMACEUTICA LTDA | Ativo |
+| 100470336 | CICLOSPORINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470640 | CICLOSPORINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100630169 | BIOIMUN | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350693 | CICLOSPORINA | EMS S/A | Cancelado |
+| 102980159 | CYCLOSPORIN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103700335 | TRAMUNIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104540163 | SISPORIN | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Cancelado |
+| 105530241 | GENGRAF | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105530244 | CICLOSPORINA | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105530246 | CICLOSPORINA | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105830262 | CICLOSPORINA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 106460157 | PHARMOSPORIN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 135690187 | CICLOSPORINA | EMS SIGMA PHARMA LTDA | Cancelado |
+| 137640025 | ZINOGRAF ME | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
 ---
 

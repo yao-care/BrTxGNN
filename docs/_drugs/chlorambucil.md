@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "chlorambucil"
 predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Chlorambucil: nova indicação prevista, Leucemia linfocítica crônica/linfoma linfocítico de pequenas células pré-centro germinativo (pregerminal center chronic… (nível de evidência L5). Indicação orig…"
 ---
 
@@ -50,8 +50,8 @@ atualmente com **nenhum ensaio clínico** e **1 publicação** (uma revisão de 
 | Nova Indicação Prevista | Leucemia linfocítica crônica/linfoma linfocítico de pequenas células pré-centro germinativo (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) |
 | Pontuação de Previsão TxGNN | 0,9972 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,9 +74,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 137640148 | LEUKERAN | Não informada | Outros antineoplásicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 137640148 | LEUKERAN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100250073 | LEUKERAN | GLAXO WELLCOME S/A | Cancelado |
+| 101070208 | LEUKERAN | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
 
 ## Citotoxicidade
 

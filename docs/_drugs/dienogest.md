@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Dienogest"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dienogest: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -55,8 +55,8 @@ mas atualmente não há ensaios clínicos registrados e há **7 publicações** 
 | Nova Indicação Prevista | Amenorreia (amenorrhea (disease)) |
 | Pontuação de Previsão TxGNN | 0,9971 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 13) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 23 de 36) |
+| Número de Registros | 36 (ativos: 23) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

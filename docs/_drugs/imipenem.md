@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 364
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Imipenem: nova indicação prevista, Esclerodermia difusa (Diffuse Scleroderma) (nível de evidência L5). Indicação original: Antibacteriano / antibióticos sistêmicos (associações medicamentosas)"
 monitor_inn: "imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
@@ -50,8 +50,8 @@ Entre as demais previsões, as mais bem sustentadas são **infecção por Staphy
 | Nova Indicação Prevista | Esclerodermia difusa (Diffuse Scleroderma) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 9) |
-| Número de Registros | 9 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 21) |
+| Número de Registros | 21 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 > Observação: a previsão de maior ranking (esclerodermia difusa) é a de menor sustentação biológica. As indicações infecciosas abaixo são mais plausíveis e merecem prioridade de análise.
@@ -102,13 +102,29 @@ Publicações selecionadas das demais previsões (prioridade para estudos clíni
 
 Os 9 registros encontrados estão **válidos** (9 de 9); o medicamento está comercializado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 137040002 | Imipenem + Cilastatina Sódica | Não informada | Antibióticos sistêmicos - associações medicamentosas |
-| Registro 100630137 | Tiepem | Não informada | Antibióticos sistêmicos - associações medicamentosas |
-| Registro 155620013 | Imipenem + Cilastatina | Não informada | Antibióticos sistêmicos - associações medicamentosas |
-| Registro 102010053 | Penexil | Não informada | Antibióticos sistêmicos - associações medicamentosas |
-| Registro 104970228 | Imicil | Não informada | Antibióticos sistêmicos - associações medicamentosas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100630137 | TIEPEM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100630239 | IMIPENEM + CILASTATINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101710236 | RECARBRIO | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Ativo |
+| 102010053 | PENEXIL | QUIMICA HALLER LTDA | Ativo |
+| 104970228 | IMICIL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 110110037 | IMIPENEM + CILASTATINA SÓDICA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 123520204 | IMIPENEM + CILASTATINA SÓDICA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 137040002 | IMIPENEM + CILASTATINA SÓDICA | MIDFARMA PRODUTOS FARMACEUTICOS LTDA | Ativo |
+| 155620013 | IMIPENEM + CILASTATINA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 100290026 | TIENAM | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 100410218 | IMIPENEM + CILASTATINA SÓDICA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430578 | CLASTIPEN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 104650186 | INFEPEN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 106460125 | MENIPEN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 112830051 | ITINEM | LABORATORIO ITAFARMA LTDA | Cancelado |
+| 114020069 | IMIPENEM + CILASTATINA SÓDICA | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 120690020 | IMIPENEM + CILASTATINA SODICA | LABORATÓRIOS LIBRA DO BRASIL LTDA | Cancelado |
+| 124730003 | IMIPENEM + CILASTATINA SÓDICA |  TARGO COMÉRCIO INTERNACIONAL LIMITADA | Cancelado |
+| 137640124 | IMISTAT | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 137640125 | IMIPENÉM MONOIDRATADO + CILASTATINA SÓDICA | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 188300029 | IMIPENÉM MONOIDRATADO + CILASTATINA SÓDICA | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
 
 Há ainda outros 4 registros cancelados, incluindo Recarbrio (indicação: antibacteriano).
 

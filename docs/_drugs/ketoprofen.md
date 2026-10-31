@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ketoprofen: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasi… (nível de evidência L5). Indicação original: Anti-inflamatórios e antirreumáticos"
 monitor_inn: "KETOPROFEN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
 | Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 45 de 92) |
+| Número de Registros | 92 (ativos: 45) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,13 +74,40 @@ Atualmente não há literatura relacionada.
 
 O medicamento está comercializado, com 20 registros válidos. Principais registros (5 de 20):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100431249 | Bicerto | Não informada | Anti-inflamatórios e antirreumáticos |
-| Registro nº 100431236 | Cetoprofeno | Não informada | Anti-inflamatórios e antirreumáticos |
-| Registro nº 103700554 | Cetofenid | Não informada | Anti-inflamatórios e antirreumáticos |
-| Registro nº 105830930 | Ceftfenpro LP | Não informada | Anti-inflamatórios e antirreumáticos |
-| Registro nº 100431313 | Bicerto IV | Não informada | Anti-inflamatórios e antirreumáticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430722 | CETOPROFENO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431214 | CETOPROFENO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431236 | CETOPROFENO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431249 | BICERTO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431313 | BICERTO IV | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431353 | ALGIE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431459 | CETOPROFENO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350610 | CETOPROFENO | EMS S/A | Ativo |
+| 102351254 | CETOPROFENO | EMS S/A | Ativo |
+| 102351280 | RHALUNID | EMS S/A | Ativo |
+| 102351463 | CETOPROFENO | EMS S/A | Ativo |
+| 102980276 | CETOPROFENO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980320 | CETOPROFENO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103110183 | AXIFLENNID | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103700548 | CETOPROFENO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700554 | CETOFENID | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700555 | CETOPROFENO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700772 | CETOPROFENO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700775 | CETOFENID | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700776 | CETOPROFENO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700777 | CETOFENID | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720300 | TRIPLOA | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 104440022 | PRODYGO | LABORATÓRIO GROSS S. A. | Ativo |
+| 104970004 | ARTRINID | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971462 | CETOPROFENO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971519 | ARTRINID IV | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730065 | ALGILIVE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730128 | ARTROSIL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730655 | CETOPROFENO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830925 | CETOPROFENO | GERMED FARMACEUTICA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

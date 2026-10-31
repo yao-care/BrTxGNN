@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 478
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Norepinephrine: nova indicação prevista, Doença Pulmonar Obstrutiva (Obstructive Lung Disease) (nível de evidência L4). Indicação original: Vasoconstritores e hipertensores"
 monitor_inn: "norepinephrine"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
@@ -52,8 +52,8 @@ mas atualmente há apenas **1 ensaio clínico** (sem relevância direta) e **19 
 | Nova Indicação Prevista | Doença Pulmonar Obstrutiva (Obstructive Lung Disease) |
 | Pontuação de Previsão TxGNN | 0,9984 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 10) |
-| Número de Registros | 10 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 20) |
+| Número de Registros | 20 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -95,13 +95,28 @@ Há ressalvas importantes: a norepinefrina não tem papel estabelecido como bron
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 103870060 | Hemitartarato de norepinefrina | Não informada | Vasoconstritores e hipertensores |
-| Registro 100410190 | Hemitartarato de norepinefrina | Não informada | Vasoconstritores e hipertensores |
-| Registro 113430126 | Hemitartarato de norepinefrina | Não informada | Vasoconstritores e hipertensores |
-| Registro 104971510 | Unianora | Não informada | Vasoconstritores e hipertensores |
-| Registro 104971514 | Hemitartarato de norepinefrina monoidratada | Não informada | Vasoconstritores e hipertensores |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980072 | XYLESTESIN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980384 | XYLESTESIN COM NOREPINEFRINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103870030 | HYPONOR | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103870060 | HEMITARTARATO DE NOREPINEFRINA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 104971510 | UNIANORA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971514 | HEMITARTARATO DE NOREPINEFRINA MONOIDRATADA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 110110045 | EPIKABI | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 113430066 | NORADREM | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 113430126 | HEMITARTARATO DE NOREPINEFRINA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 100410190 | HEMITARTARATO DE NOREPINEFRINA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410226 | EPIKABI | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 101770024 | MEPINOR | DFL INDÚSTRIA E COMÉRCIO S/A | Cancelado |
+| 105530236 | LEVOPHED | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 109930003 | LIDOSTESIM | DLA PHARMACEUTICAL LTDA | Cancelado |
+| 110110030 | HEMITARTARATO DE NOREPINEFRINA | NEWCOM FARMACEUTICA LTDA. | Cancelado |
+| 114020058 | HEMITARTARATO DE NOREPINEFRINA | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 114020064 | NOVANOR | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 120690030 | DRENALIB | LABORATÓRIOS LIBRA DO BRASIL LTDA | Cancelado |
+| 127480003 | NOREPINE | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Cancelado |
+| 162500003 | LEVOPHED | HOSPIRA PRODUTOS HOSPITALARES LTDA | Cancelado |
 
 Observação: os 10 registros encontrados estão válidos; a tabela mostra apenas os 5 primeiros. Entre os demais constam produtos como Hyponor, Noradrem, Epikabi (vasoconstritores) e Xylestesin e Xylestesin com norepinefrina (anestésicos locais).
 

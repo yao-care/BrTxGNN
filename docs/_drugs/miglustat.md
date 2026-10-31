@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 459
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "miglustat"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
 description: "Miglustat: nova indicação prevista, Autosomal ichthyosis syndrome with fatal disease course (nível de evidência L5). Indicação original: OUTROS PRODS NAO ENQUADRADOS EM CLASSE TERAPEUTICA ESPECIF"
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para a **doença de Tay-Sachs (Tay-Sac
 | Nova Indicação Prevista | Autosomal ichthyosis syndrome with fatal disease course |
 | Pontuação de Previsão TxGNN | 0.9983 |
 | Nível de Evidência | L5 (conforme classificação dos dados compilados; ver ressalva abaixo) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 **Ressalva sobre a escolha da indicação:** a primeira indicação da lista de previsões (ictiose autossômica com curso fatal, pontuação 0,9983) não tem nenhum ensaio ou publicação. Neste relatório, foi destacada a doença de Tay-Sachs (7ª colocada, 0,9975), pois é a única previsão com evidências reais. As demais previsões estão resumidas ao final.
@@ -101,9 +101,10 @@ A coerência mecanística é boa, mas os resultados clínicos são mistos. Um re
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 112363431 (cancelado) | ZAVESCA | Não informada | Outros produtos não enquadrados em classe terapêutica específica |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 112363431 | ZAVESCA | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 155380002 | ZAVESCA | ACTELION PHARMACEUTICALS DO BRASIL LTDA | Cancelado |
 
 ---
 

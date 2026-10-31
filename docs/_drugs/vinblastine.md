@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 670
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
 description: "Vinblastine: nova indicação prevista, Rhabdomyosarcoma (disease) (nível de evidência L3). Indicação original: ANTINEOPLASICO"
@@ -50,8 +50,8 @@ atualmente sem ensaios clínicos registrados e com **7 publicações** associada
 | Nova Indicação Prevista | Rhabdomyosarcoma (disease) |
 | Pontuação de Previsão TxGNN | 0.9986 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 12) |
+| Número de Registros | 12 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -80,11 +80,20 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 115410006 (cancelado) | VINATIN | Não informada | Antineoplásico |
-| Registro nº 155620015 (cancelado) | VELBAN | Não informada | Antineoplásico |
-| Registro nº 100330130 (cancelado) | FAULBLASTINA | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330130 | FAULBLASTINA | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 115410006 | VINATIN | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Ativo |
+| 155620015 | VELBAN | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 100410144 | RABINEFIL | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 102980219 | VIMBLASTIN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 106460199 | SULFATO DE VIMBLASTINA | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 112600039 | VIMBLASTINA | ELI LILLY DO BRASIL LTDA | Cancelado |
+| 123610061 | VINATIN | UCB BIOPHARMA LTDA. | Cancelado |
+| 126030036 | RABINEFIL | ÍTACA LABORATÓRIOS LTDA | Cancelado |
+| 127480002 | VELBAN | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Cancelado |
+| 131390015 | FAULBLASTINA | DISAQ FARMACÊUTICA LTDA | Cancelado |
+| 155730029 | TEVAVINBLA | TEVA FARMACÊUTICA LTDA. | Cancelado |
 
 ## Citotoxicidade
 

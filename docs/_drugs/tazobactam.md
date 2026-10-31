@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 607
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Tazobactam: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ Todos os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para o Tazob
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo com origem rastreável são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 2 |
 | Nível de evidência | Não se aplica |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 10) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 28) |
+| Número de Registros | 28 (ativos: 14) |
 
 ## Usos conhecidos entre os candidatos do modelo
 

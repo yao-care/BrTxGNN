@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Letrozole: nova indicação prevista, carcinoma de mamilo (nipple carcinoma) (nível de evidência L5). Indicação original: ANTINEOPLASICO"
 ---
 
@@ -50,8 +50,8 @@ atualmente sem ensaios clínicos registrados e com **8 publicações** (principa
 | Nova Indicação Prevista | carcinoma de mamilo (nipple carcinoma) |
 | Pontuação de Previsão TxGNN | 0,9976 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 17) |
-| Número de Registros | 17 (ativos: 17) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 27) |
+| Número de Registros | 27 (ativos: 17) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -77,13 +77,35 @@ Importante: nenhuma das publicações recuperadas estuda diretamente o letrozol 
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105730739 | SABINE | Não informada | Antineoplásico |
-| Registro nº 146820060 | LETROZOL | Não informada | Antineoplásico |
-| Registro nº 156510060 | LEMOL | Não informada | Antineoplásico |
-| Registro nº 105830933 | LETROZOL | Não informada | Antineoplásico |
-| Registro nº 174200018 | MAHILA | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430953 | LETROZOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100680100 | FEMARA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102351282 | LEFÉMI | EMS S/A | Ativo |
+| 105730739 | SABINE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830933 | LETROZOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740378 | LETROZOL | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 116370172 | LETROZOL | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370205 | LETHOZY | BLAU FARMACÊUTICA S.A. | Ativo |
+| 123520238 | LETROZOL | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 146820060 | LETROZOL | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155370074 | LETROZOL | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 156510055 | LETROZOL | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 156510060 | LEMOL | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 174200018 | MAHILA | EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 178170888 | IVEVI | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 182610001 | LETROZOL | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 182610005 | NOAZY | NATCOFARMA DO BRASIL LTDA | Ativo |
+| 100470533 | LETROZOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470536 | LEZIEU | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470637 | LETROZOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470641 | LETNYZA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 106460219 | BREELET | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 106460221 | LETROZOL | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 123520240 | SOLETRE | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 146820080 | LILIYA | SUN FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 149320016 | LETROZOL | KEMMI PHARMA LTDA | Cancelado |
+| 151430036 | LETROZOL | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 
 ## Citotoxicidade
 

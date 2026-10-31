@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 648
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Trabectedin: nova indicação prevista, Carcinoma de mama feminino (female breast carcinoma) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "trabectedin"
 predicted_indications: ["female breast carcinoma"]
@@ -50,8 +50,8 @@ atualmente com **1 ensaio clínico** (de baixa relevância) e **20 publicações
 | Nova Indicação Prevista | Carcinoma de mama feminino (female breast carcinoma) |
 | Pontuação de Previsão TxGNN | 0,9973 |
 | Nível de Evidência | L5 (apenas de forma frágil: o único ensaio listado é de fase 2, mas não avalia eficácia; há estudos de fase 2 na literatura) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -85,9 +85,10 @@ A indicação original registrada no Brasil é apenas "antineoplásico", sem esp
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 122140133 (cancelado) | YONDELIS | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 122140133 | YONDELIS | ADIUM S.A. | Ativo |
+| 112363395 | YONDELIS | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
 
 ## Citotoxicidade
 

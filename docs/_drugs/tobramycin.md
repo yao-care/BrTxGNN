@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 643
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Tobramycin: nova indicação prevista, Ceratite por Exposição (Exposure Keratitis) (nível de evidência L4). Indicação original: Antiinfecciosos tópicos para uso oftálmico"
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Ceratite por Exposição (Expos
 | Nova Indicação Prevista | Ceratite por Exposição (Exposure Keratitis) |
 | Pontuação de Previsão TxGNN | 0,9993 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 16) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 60) |
+| Número de Registros | 60 (ativos: 18) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -84,13 +84,40 @@ Nenhum desses trabalhos testa a tobramicina na ceratite por exposição.
 
 Há 20 registros vigentes no Brasil e o medicamento é comercializado. Os cinco principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102351184 | Tobramicina | Não informada | Antiinfecciosos tópicos para uso oftálmico |
-| Registro nº 105830858 | Antibrex | Não informada | Antiinfecciosos tópicos para uso oftálmico |
-| Registro nº 102350953 | Tobralox | Não informada | Antiinfecciosos tópicos para uso oftálmico |
-| Registro nº 154230278 | Zobilar | Não informada | Antiinfecciosos tópicos para uso oftálmico |
-| Registro nº 100681100 | Tobrex | Não informada | Antiinfecciosos tópicos para uso oftálmico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100580112 | BRAMITOB | CHIESI FARMACÊUTICA LTDA | Ativo |
+| 100681098 | TOBRADEX | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681100 | TOBREX | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102350953 | TOBRALOX | EMS S/A | Ativo |
+| 102980494 | TOBRACIN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 104971305 | TOBRACORT | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730698 | TOBRAMICINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830852 | TOBRAMICINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190421 | TOBRAMICINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 127480030 | TOBRAMICINA | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Ativo |
+| 154230261 | TOBRAMICINA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230278 | ZOBILAR | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155620010 | TOBRAMINA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 155730026 | TOBRAZOL | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 155840193 | TOBRAMICINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730495 | TOBRAMICINA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730540 | TOBRACULAR | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 188300067 | ZOTEON PÓ | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 100230182 | TOBREX | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 100230216 | TOBRADEX | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 100230245 | TOBRAMICINA | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 100230250 | TOBRAMICINA + DEXAMETASONA | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 100630272 | TOBRAMICINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680867 | TOFLAMIXINA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100680916 | TOFLAMIXINA PLUS | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100681083 | TOBI | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100681088 | TOBRAMICINA + DEXAMETASONA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100681094 | ZOTEON PÓ | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101470147 | TOBRAGAN | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+| 101470158 | TOBRAMICINA + DEXAMETASONA | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

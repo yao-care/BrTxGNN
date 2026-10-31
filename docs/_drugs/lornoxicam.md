@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "Lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lornoxicam: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: Não informada nos dados compilados"
 ---
 
@@ -84,11 +84,11 @@ A indicação original não pôde ser extraída dos registros locais. Ainda assi
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 109740216 (válido) | XEFO | Não informada | Não informada |
-| Registro 109740238 (cancelado) | LORNOX | Não informada | Não informada |
-| Registro 101740022 (cancelado) | LORNOX | Não informada | Não informada |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 109740216 | XEFO | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 101740022 | LORNOX | AVERT LABORATÓRIOS LTDA | Cancelado |
+| 109740238 | LORNOX | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
 
 ---
 

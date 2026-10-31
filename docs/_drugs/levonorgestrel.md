@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 414
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Levonorgestrel: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Osteoporose pós-menopausa / osteoporose"
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
@@ -50,8 +50,8 @@ atualmente com **0 ensaios clínicos** e **20 publicações** recuperadas, em su
 | Nova Indicação Prevista | Acne (acne (disease)) |
 | Pontuação de Previsão TxGNN | 0,9988 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 33 de 95) |
+| Número de Registros | 95 (ativos: 33) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

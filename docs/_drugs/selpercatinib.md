@@ -75,9 +75,9 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 112600204 (cancelado) | RETSEVMO | Não informada | Inibidores da proteína quinase |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 112600204 | RETSEVMO | ELI LILLY DO BRASIL LTDA | Ativo |
 
 ## Citotoxicidade
 

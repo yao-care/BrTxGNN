@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 640
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tioconazole: nova indicação prevista, Vulvovaginite (Vulvovaginitis) (nível de evidência L1). Indicação original: Antimicóticos para uso tópico"
 monitor_inn: "tioconazole"
 predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis"]
@@ -50,8 +50,8 @@ Trata-se, na prática, de um uso já estabelecido (candidíase vaginal), e não 
 | Nova Indicação Prevista | Vulvovaginite (Vulvovaginitis) |
 | Pontuação de Previsão TxGNN | 0,9923 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 18) |
-| Número de Registros | 18 (ativos: 18) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 62) |
+| Número de Registros | 62 (ativos: 18) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -85,13 +85,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Todos os 18 registros estão válidos. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 118190129 | Tioconazol | — | Antimicóticos para uso tópico |
-| Registro nº 107150136 | Tionazen | — | Antimicóticos para uso tópico |
-| Registro nº 125680086 | Tioconazol + Tinidazol | — | Produtos ginecológicos antiinfecciosos tópicos, associações medicamentosas |
-| Registro nº 188710005 | Amplogin | — | Antiinfecciosos tópicos, associações medicamentosas |
-| Registro nº 103900165 | Gynopac | — | Antiparasitários |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101550194 | TAKIL | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 101550251 | TRIVIFEME | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 102350580 | TIOCONAZOL + TINIDAZOL | EMS S/A | Ativo |
+| 102350801 | TIOTRAX | EMS S/A | Ativo |
+| 103900115 | GYNOMAX | FARMOQUÍMICA S/A | Ativo |
+| 103900165 | GYNOPAC | FARMOQUÍMICA S/A | Ativo |
+| 105350154 | TIOCONAZOL + TINIDAZOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105710175 | GYNBEN | BELFAR LTDA | Ativo |
+| 105830290 | TIOCONAZOL + TINIDAZOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 107150136 | TIONAZEN | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 118190129 | TIOCONAZOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680086 | TIOCONAZOL + TINIDAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 154230084 | TIOCONAZOL + TINIDAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230087 | TININ | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840160 | TIOCONAZOL + TINIDAZOL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840204 | VULNAGEN | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730166 | TIOCONAZOL + TINIDAZOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 188710005 | AMPLOGIN | GALLIA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 100430894 | TIOCONAZOL | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100930252 | GINOTINIX | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 101810301 | SECZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810317 | MONIZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810345 | TIOCONAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810348 | TIOCONAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810367 | TIOCONAZOL + TINIDAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102160040 | TRALEN | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160047 | CARTRAX | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102350621 | TIOCONAZOL | EMS S/A | Cancelado |
+| 102350623 | TIOCONAZOL | EMS S/A | Cancelado |
+| 102350627 | TIOCONAZOL | EMS S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

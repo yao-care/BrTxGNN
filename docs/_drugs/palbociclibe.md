@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 505
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Para avançar, é necessário resolver os dois gaps de dados críticos identific
 | Nova Indicação Prevista | Nenhuma indicação prevista disponível no Evidence Pack |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 — sem predições nem estudos no Evidence Pack atual |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 7) |
-| Número de Registros | 7 (ativos: 6) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
+| Número de Registros | 8 (ativos: 7) |
 | Decisão Recomendada | **Hold** |
 
 ---

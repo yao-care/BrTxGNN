@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 516
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Penciclovir"
 predicted_indications: ["fascioliasis"]
 description: "Penciclovir: nova indicação prevista, Fasciolíase (fascioliasis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Fasciolíase (fascioliasis) |
 | Pontuação de Previsão TxGNN | 0.9906 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 8) |
-| Número de Registros | 8 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
+| Número de Registros | 4 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

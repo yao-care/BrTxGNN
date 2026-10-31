@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 553
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Promethazine: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ Os candidatos do modelo TxGNN para este medicamento (pontuação ≥ 0,99) corre
 | Novas indicações preditas | Nenhuma (todos os candidatos do modelo rastreáveis a uma fonte são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 3 |
 | Nível de evidência | Não aplicável |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 11) |
-| Número de Registros | 11 (ativos: 11) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 50) |
+| Número de Registros | 50 (ativos: 13) |
 
 ## Usos conhecidos entre os candidatos do modelo
 

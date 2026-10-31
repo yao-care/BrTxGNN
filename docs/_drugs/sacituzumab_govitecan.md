@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 576
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "sacituzumab govitecan"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
 description: "Sacituzumab Govitecan: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -63,9 +63,9 @@ Outras indicações previstas pelo modelo também carecem de respaldo. Para reti
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 109290012 (cancelado) | TRODELVY | Não informada | Não informada |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 109290012 | TRODELVY | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Ativo |
 
 ## Citotoxicidade
 

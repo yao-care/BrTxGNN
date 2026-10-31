@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 554
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Propofol: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L2). Indicação original: Não disponível nos dados de registro da ANVISA (uso conhecido: aneste…"
 monitor_inn: "Propofol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Enxaqueca (Migraine Disorder)**
 | Nova Indicação Prevista | Enxaqueca (Migraine Disorder) |
 | Pontuação de Previsão TxGNN | 0,9969 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 23) |
+| Número de Registros | 23 (ativos: 14) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?

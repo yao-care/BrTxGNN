@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 155
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Brolucizumab: nova indicação prevista, Transtorno mitocondrial da fosforilação oxidativa por anomalias do DNA nuclear (nível de evidência L5). Indicação original: Outros medicamentos com ação no aparelho vis…"
 monitor_inn: "brolucizumab"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Transtorno mitocondrial da fosforilação oxidativa por anomalias do DNA nuclear |
 | Pontuação de Previsão TxGNN | 0,9967 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -70,9 +70,10 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100681185 (cancelado) | VSIQQ | Não informada | Outros medicamentos com ação no aparelho visual |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100681185 | VSIQQ | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100470634 | VSIQQ | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

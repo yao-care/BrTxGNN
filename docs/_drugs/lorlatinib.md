@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 426
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lorlatinib: nova indicação prevista, Fibromatose gengival (fibromatosis, gingival) (nível de evidência L5). Indicação original: Agentes antineoplásicos"
 monitor_inn: "lorlatinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -81,9 +81,9 @@ Entre as 10 previsões, algumas têm literatura, mas ela se refere sobretudo a u
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 121100476 (cancelado) | LORBRENA | Não informada | Agentes antineoplásicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 121100476 | LORBRENA | PFIZER BRASIL LTDA | Ativo |
 
 ## Citotoxicidade
 

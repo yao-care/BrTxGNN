@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 98
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "AZATHIOPRINE"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
 description: "Azathioprine: nova indicação prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (nível de evidência L5). Indicação original: IMUNODEPRESSOR"
@@ -50,8 +50,8 @@ Atenção: as duas primeiras previsões do modelo (síndromes congênitas raras)
 | Nova Indicação Prevista | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
 | Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 14) |
+| Número de Registros | 14 (ativos: 5) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 **Observação sobre a ordem das previsões:** as previsões de maior pontuação (síndrome de microftalmia colobomatosa com displasia rizomélica, síndrome de braquidactilia-sindactilia e síndrome WHIM) não têm ensaios clínicos nem literatura, e não há racional mecanístico plausível. As pontuações vêm do modelo TxGNN (deep learning) e podem refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
@@ -100,13 +100,22 @@ Dos ensaios identificados para DII e colite ulcerativa, estes são os mais relev
 
 Há 5 registros válidos de 5 no total; o medicamento está comercializado no Brasil.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102980090 | IMUNEN | Não informada | Imunodepressor |
-| Registro nº 137640128 | IMURAN | Não informada | Antimetabólitos análogos da purina |
-| Registro nº 100630306 | AZATIOPRINA | Não informada | Imunodepressor |
-| Registro nº 110390107 | FURP-AZATIOPRINA | Não informada | Antimetabólitos análogos da purina |
-| Registro nº 105830003 | IMUSSUPREX | Não informada | Imunomodulador |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100630306 | AZATIOPRINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102980090 | IMUNEN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 105830003 | IMUSSUPREX | GERMED FARMACEUTICA LTDA | Ativo |
+| 110390107 | FURP-AZATIOPRINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 137640128 | IMURAN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100250071 | IMURAN | GLAXO WELLCOME S/A | Cancelado |
+| 101070186 | IMURAN | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 104080056 | AZATON | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 104650157 | NEOPLASTIN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104971210 | SUPRESSAN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 107140126 | PRIMATION | SANVAL COMERCIO E INDUSTRIA LTDA | Cancelado |
+| 108580144 | PRODOZATI | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 120190073 | SUPREMUNE | GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+| 126030033 | ASEROPRIN | ÍTACA LABORATÓRIOS LTDA | Cancelado |
 
 ## Considerações de Segurança
 

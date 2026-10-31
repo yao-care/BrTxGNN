@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 270
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dimenhydrinate: nova indicação prevista, Urticária Alérgica (Allergic Urticaria) (nível de evidência L4). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
@@ -50,8 +50,8 @@ mas atualmente há **nenhum ensaio clínico** e apenas **1 publicação** (estud
 | Nova Indicação Prevista | Urticária Alérgica (Allergic Urticaria) |
 | Pontuação de Previsão TxGNN | 0,9974 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 14) |
-| Número de Registros | 14 (ativos: 14) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 34) |
+| Número de Registros | 34 (ativos: 14) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -78,13 +78,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Todos os 14 registros encontrados estão **válidos**; o medicamento é comercializado no país. Os cinco principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 155840550 | Dimenidrinato | — | Antieméticos e antinauseantes |
-| Registro nº 104971530 | Dimenidrinato | — | Antieméticos e antinauseantes |
-| Registro nº 178170901 | Dramin | — | Antieméticos e antinauseantes |
-| Registro nº 155840559 | Dramavit | — | Antieméticos e antinauseantes |
-| Registro nº 104971536 | Nausicalm cápsula mole | — | Antieméticos e antinauseantes |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 103920092 | DIMENIDRIN | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920207 | DIMENIDRINATO + CLORIDRATO DE PIRIDOXINA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920210 | DRIVOM B6 | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971530 | DIMENIDRINATO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971531 | DIMENIDRINATO + CLORIDRATO DE PIRIDOXINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971535 | NAUSICALM B6 | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971536 | NAUSICALM CÁPSULA MOLE | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 115600078 | NAUSILON B6 | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 155840397 | DRAMAVIT B6 | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840550 | DIMENIDRINATO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840559 | DRAMAVIT | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 178170900 | DRAMIN B6 DL | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 178170901 | DRAMIN | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 178170907 | DRAMIN B6 | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 100431022 | EMET | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 104041921 | DRAMAVIT | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 104041925 | DRAMAVIT B6 | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 104650279 | NEODRIN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104971128 | NAUSICALM B6 | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 104971165 | DIMENIDRINATO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105830008 | ANSIALEN B6 | GERMED FARMACEUTICA LTDA | Cancelado |
+| 106390155 | DRAMIN | TAKEDA PHARMA LTDA. | Cancelado |
+| 106390241 | DRAMIN B6 DL | TAKEDA PHARMA LTDA. | Cancelado |
+| 106390242 | DRAMIN B6 | TAKEDA PHARMA LTDA. | Cancelado |
+| 118190178 | DIMENIDRINATO + CLORIDRATO DE PIRIDOXINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Cancelado |
+| 118190179 | HEMAREG B6 | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Cancelado |
+| 118190180 | DIMENIDRINATO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Cancelado |
+| 118190181 | HEMAREG | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Cancelado |
+| 120190090 | NAUSEDRINATO | GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+| 141070011 | EMEBRID | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

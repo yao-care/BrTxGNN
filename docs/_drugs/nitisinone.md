@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **acidose tubular renal (renal tu
 | Nova Indicação Prevista | Acidose tubular renal (renal tubular acidosis) |
 | Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 4) |
+| Número de Registros | 4 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -63,10 +63,12 @@ A pontuação alta do TxGNN (0,9996) vem do modelo TxGNN (deep learning) e pode 
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 138400002 (cancelado) | ORFADIN | Não informada | Outros produtos para o trato alimentar e metabolismo |
-| Registro nº 138400003 (cancelado) | ORFADIN | Não informada | Outros produtos para o trato alimentar e metabolismo |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 138400002 | ORFADIN | INNOVATIVE MEDICINES BRASIL SP DISTRIBUICAO DE MED | Ativo |
+| 138400003 | ORFADIN | INNOVATIVE MEDICINES BRASIL SP DISTRIBUICAO DE MED | Ativo |
+| 175360002 | NITIKABS | PHARMEDIC PHARMACEUTICALS, IMPORTACAO, EXPORTACAO, | Ativo |
+| 175360001 | NITIKABS | PHARMEDIC PHARMACEUTICALS IMPORTAÇÃO, DISTRIBUIÇÃO | Cancelado |
 
 ## Considerações de Segurança
 

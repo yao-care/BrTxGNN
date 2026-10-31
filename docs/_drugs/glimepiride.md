@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Síndrome do membro rígido focal (focal stiff limb syndrome) |
 | Pontuação de Previsão TxGNN | 0,9975 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 13) |
-| Número de Registros | 13 (ativos: 13) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 63) |
+| Número de Registros | 63 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -68,13 +68,40 @@ Outras previsões do modelo seguem a mesma lógica (síndrome da pessoa rígida 
 
 Dos 13 registros encontrados, 13 estão válidos. Os 5 principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 155370007 | Glimepirida | Não informada | Antidiabéticos |
-| Registro nº 154230236 | Glimepirida | Não informada | Antidiabéticos |
-| Registro nº 100431143 | Glimepirida | Não informada | Antidiabéticos |
-| Registro nº 103900130 | Glimepil | Não informada | Antidiabéticos |
-| Registro nº 102351379 | Glimepirida + cloridrato de metformina | Não informada | Antidiabéticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430965 | BETES | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431143 | GLIMEPIRIDA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470420 | GLIMEPIRIDA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102350967 | GLIMEPIRIDA | EMS S/A | Ativo |
+| 102351379 | GLIMEPIRIDA + CLORIDRATO DE METFORMINA | EMS S/A | Ativo |
+| 103900130 | GLIMEPIL | FARMOQUÍMICA S/A | Ativo |
+| 105730377 | MERITOR | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730627 | GLIMEPIRIDA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105831032 | GLIMEPIRIDA | GERMED FARMACEUTICA LTDA | Ativo |
+| 125680297 | GLIMEPIRIDA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 143810146 | GLIMEPIRIDA | CIMED INDUSTRIA S.A | Ativo |
+| 154230236 | GLIMEPIRIDA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155370007 | GLIMEPIRIDA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 100430042 | GLIMEPIRIDA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470294 | GLIMEPRID | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470539 | GLIPRYD | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100681019 | GLIMEPIRIDA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100890316 | GLIMEPIRIDA | MERCK S/A | Cancelado |
+| 101460079 | GLIMEPIBAL | LABORATÓRIOS BALDACCI LTDA | Cancelado |
+| 101550197 | GLIMESEC | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Cancelado |
+| 101810509 | GLIMEPIRIDA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810527 | GLIMEPAC | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350694 | GLIANSOR | EMS S/A | Cancelado |
+| 103700279 | GLIMEPIRIDA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103700614 | AMAGLYN | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103700617 | GLIMEPIRIDA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104650336 | GLIMERAN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104810115 | GLIMEPIRIDA | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 105250020 | AZULIX | TORRENT DO BRASIL LTDA | Cancelado |
+| 105250070 | AZULIX MF | TORRENT DO BRASIL LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 78
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Artemether: nova indicação prevista, Angioedema adquirido (acquired angioedema) (nível de evidência L5). Indicação original: Antimaláricos"
 monitor_inn: "artemether"
 predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
@@ -52,8 +52,8 @@ O modelo TxGNN atribuiu a maior pontuação a **angioedema adquirido (acquired a
 | Indicação com evidências (2ª colocada) | Malária por *Plasmodium falciparum* (indicação já estabelecida) |
 | Pontuação de Previsão TxGNN | 0,9990 (angioedema adquirido) |
 | Nível de Evidência | L5 (angioedema adquirido); L1 (malária por *P. falciparum*, confirmação do uso original) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
+| Número de Registros | 4 (ativos: 1) |
 | Decisão Recomendada | Hold para angioedema adquirido; Proceed with Guardrails apenas para a malária (uso já estabelecido) |
 
 ---
@@ -106,9 +106,12 @@ Os ensaios abaixo se referem à malária por *P. falciparum*, a indicação orig
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100680103 (cancelado) | COARTEM | Não informada | Antimaláricos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100680103 | COARTEM | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100440114 | PALUTHER | RHODIA FARMA LTDA. | Cancelado |
+| 113000272 | PALUTHER | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 118610074 | ARTER | ATIVUS FARMACÊUTICA LTDA | Cancelado |
 
 ---
 

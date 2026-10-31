@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 345
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Glucagon: nova indicação prevista, Síndrome do intestino irritável (Irritable Bowel Syndrome) (nível de evidência L3). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "GLUCAGON"
 predicted_indications: ["irritable bowel syndrome"]
@@ -50,8 +50,8 @@ atualmente com **2 ensaios clínicos** (ambos com análogos/GLP-1, não com gluc
 | Nova Indicação Prevista | Síndrome do intestino irritável (Irritable Bowel Syndrome) |
 | Pontuação de Previsão TxGNN | 0,9924 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
-| Número de Registros | 3 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

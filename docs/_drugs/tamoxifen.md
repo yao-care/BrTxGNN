@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 605
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: nova indicação prevista, Doença de Paget mamária (mammary Paget disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -53,8 +53,8 @@ O modelo TxGNN prevê que pode ser eficaz para a **Doença de Paget mamária (Ma
 | Nova Indicação Prevista | Doença de Paget mamária (mammary Paget disease) |
 | Pontuação de Previsão TxGNN | 0.9969 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 30) |
+| Número de Registros | 30 (ativos: 11) |
 | Decisão Recomendada | Hold |
 
 ---

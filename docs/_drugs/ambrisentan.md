@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ambrisentan"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ambrisentan: nova indicação prevista, Malformação arteriovenosa pulmonar (pulmonary arteriovenous malformation (disease)) (nível de evidência L5). Indicação original: ANTI-HIPERTENSIVOS"
 ---
 
@@ -71,9 +71,9 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101070281 | VOLIBRIS | Não informada | Consulte os registros locais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101070281 | VOLIBRIS | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
 
 ## Considerações de Segurança
 

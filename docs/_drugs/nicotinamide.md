@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 469
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Nicotinamide: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ Todos os candidatos que o modelo TxGNN gerou para Nicotinamide, e que podem ser 
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 1 |
 | Nível de evidência | Não se aplica |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 23 de 326) |
+| Número de Registros | 326 (ativos: 23) |
 
 ## Usos conhecidos entre os candidatos do modelo
 

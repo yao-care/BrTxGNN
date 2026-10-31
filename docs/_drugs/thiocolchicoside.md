@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 633
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Thiocolchicoside: nova indicação prevista, Insônia (insomnia) (nível de evidência L5). Indicação original: Relaxantes musculares centrais simples"
 monitor_inn: "thiocolchicoside"
 predicted_indications: ["insomnia (disease)", "alcohol withdrawal delirium"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Insônia (insomnia) |
 | Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 4) |
-| Número de Registros | 4 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 11) |
+| Número de Registros | 11 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,12 +66,19 @@ Outra previsão do modelo, **delírio por abstinência alcoólica** (pontuação
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100431471 | COLTRAX | Não informada | Relaxantes musculares centrais simples (cancelado) |
-| Registro 100410222 | Tiocolchicosídeo | Não informada | Agentes relaxantes musculares de ação central (cancelado) |
-| Registro 116370106 | Tiocolchicosídeo | Não informada | Relaxantes musculares (cancelado) |
-| Registro 100431472 | COLTRAX INJ | Não informada | Relaxantes musculares centrais simples (cancelado) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431471 | COLTRAX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431472 | COLTRAX INJ | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 110110057 | TIOCOLCHICOSÍDEO | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 116370106 | TIOCOLCHICOSÍDEO | BLAU FARMACÊUTICA S.A. | Ativo |
+| 100410222 | TIOCOLCHICOSÍDEO | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 105830004 | MUSCORIL | GERMED FARMACEUTICA LTDA | Cancelado |
+| 113000215 | COLTRAX INJ | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 113000988 | COLTRAX | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 183260378 | COLTRAX | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+| 183260384 | COLTRAX INJ | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
+| 189000044 | TIOCOLCHICOSIDEO | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
 
 ## Citotoxicidade
 

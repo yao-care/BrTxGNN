@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "candesartan cilexetil"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Candesartan Cilexetil: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: ANTI-HIPERTENSIVOS SIMPLES"
 ---
 
@@ -48,8 +48,8 @@ Candesartana cilexetila é um anti-hipertensivo, e o modelo TxGNN prevê que pod
 | Nova Indicação Prevista | Doença renal hipertensiva maligna (malignant hypertensive renal disease) |
 | Pontuação de Previsão TxGNN | 0,9968 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 17) |
-| Número de Registros | 17 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 49) |
+| Número de Registros | 49 (ativos: 17) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -64,13 +64,40 @@ Contudo, essa nova indicação se sobrepõe em grande parte ao uso anti-hiperten
 
 Segundo os dados compilados, há 17 registros, todos de produtos com candesartana cilexetila isolada ou associada à hidroclorotiazida. Abaixo estão os 5 primeiros; a lista não é exaustiva.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 102351089 | Candesartana cilexetila | Não informada | Anti-hipertensivos simples |
-| 105730673 | Candesartana cilexetila | Não informada | Anti-hipertensivos simples |
-| 189770010 | Atacand | Não informada | Anti-hipertensivos simples |
-| 125680302 | Candesartana cilexetila | Não informada | Anti-hipertensivos simples |
-| 105831048 | Vecande | Não informada | Anti-hipertensivos simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330177 | CANDESARTANA CILEXETILA+HIDROCLOROTIAZIDA | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100330182 | VENZER HCT | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100330197 | VENZER | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100470476 | CANDESARTANA CILEXETILA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470529 | CANDESARTANA CILEXETILA+HIDROCLOROTIAZIDA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102351089 | CANDESARTANA CILEXETILA | EMS S/A | Ativo |
+| 105730202 | CADENZA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730673 | CANDESARTANA CILEXETILA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830766 | CANDESARTANA CILEXETILA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830773 | CANDESARTANA CILEXETILA + HIDROCLOROTIAZIDA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831042 | VECANDE HCT | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831048 | VECANDE | GERMED FARMACEUTICA LTDA | Ativo |
+| 125680302 | CANDESARTANA CILEXETILA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135170012 | CANDESARTANA CILEXETILA + HIDROCLOROTIAZIDA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 135170014 | ANGIOTENSIL HCT | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 189770010 | ATACAND | BIOPAS BRASIL PRODUTOS FARMACEUTICOS LTDA | Ativo |
+| 189770011 | ATACAND HCT | BIOPAS BRASIL PRODUTOS FARMACEUTICOS LTDA | Ativo |
+| 100430669 | CARTAN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470477 | DESARCOR | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470530 | DESARCOR HCT | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100890398 | CANDESSA HCT | MERCK S/A | Cancelado |
+| 100890399 | CANDESSA | MERCK S/A | Cancelado |
+| 102351091 | BLOCAND | EMS S/A | Cancelado |
+| 102351097 | CANDESARTANA CILEXETILA+HIDROCLOROTIAZIDA | EMS S/A | Cancelado |
+| 105530219 | BLOPRESS | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105530237 | BLOPRESS  H | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105730479 | CANDESARTANA CILEXETILA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105730480 | CADENZA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105830767 | CANDEMED | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830774 | CANDEMED HCT | GERMED FARMACEUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

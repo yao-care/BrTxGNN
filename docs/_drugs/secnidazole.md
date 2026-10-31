@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "Secnidazole"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "trichomonal vulvovaginitis", "leukoplakia of vagina", "vulvovaginal candidiasis"]
 description: "Secnidazole: nova indicação prevista, Postmenopausal atrophic vaginitis (nível de evidência L5). Indicação original: AMEBICIDAS, GIARDICIDAS E TRICOMONICIDAS"
@@ -54,8 +54,8 @@ atualmente com **3 ensaios clínicos** e **17 publicações** apoiando esta dire
 | Nova Indicação Prevista | Postmenopausal atrophic vaginitis |
 | Pontuação de Previsão TxGNN | 0.9970 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 22 de 61) |
+| Número de Registros | 61 (ativos: 22) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ---
@@ -101,13 +101,40 @@ Importante: as evidências disponíveis referem-se à vaginose bacteriana e à t
 
 Há 20 registros válidos de secnidazol nos dados compilados, e o medicamento está comercializado no Brasil. Os 5 principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 103700456 | Secnidazol | Não informada | Amebicidas, giardicidas e tricomonicidas |
-| Registro nº 125680172 | Secnidazol | Não informada | Amebicidas, giardicidas e tricomonicidas |
-| Registro nº 103850093 | Secfar | Não informada | Amebicidas, giardicidas e tricomonicidas |
-| Registro nº 118190411 | Nquíase | Não informada | Amebicidas, giardicidas e tricomonicidas |
-| Registro nº 105350110 | Secnimax | Não informada | Amebicidas, giardicidas e tricomonicidas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100380096 | SECTIL | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
+| 100380097 | SECNIDAZOL | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
+| 100470297 | SECNIHEXAL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470559 | SECNIDAZOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102350670 | SECNIDAZOL | EMS S/A | Ativo |
+| 103700456 | SECNIDAZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103850093 | SECFAR | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 103900165 | GYNOPAC | FARMOQUÍMICA S/A | Ativo |
+| 103920107 | SECDAZOL | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920194 | SECNIDAZOL | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105350110 | SECNIMAX | LABORATÓRIO GLOBO SA | Ativo |
+| 105350187 | SECNIDAZOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105830947 | SECNIDAZOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190323 | SECNIDAZOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190411 | NQUÍASE | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520145 | SECNIDAZOL | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680172 | SECNIDAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135690590 | UNIGYN | EMS SIGMA PHARMA LTDA | Ativo |
+| 141070131 | SECNIDAZOL | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 141070639 | DECNAZOL | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 164250013 | SECNIDAL | MOKSHA8 BRASIL INDUSTRIA E COMERCIO DE MEDICAMENTO | Ativo |
+| 183260071 | SECNIDAZOL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100380067 | SECTIL | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100470527 | SECNIDAZOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100890348 | SECNIDAZOL | MERCK S/A | Cancelado |
+| 100930258 | SECSIM | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 101810380 | SECNIDAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350531 | SECNAXIDOL | EMS S/A | Cancelado |
+| 102351294 | SECNAXIDOL | EMS S/A | Cancelado |
+| 102940098 | SECNIDALIN | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

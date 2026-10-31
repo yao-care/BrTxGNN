@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Desloratadine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: ANTI-HISTAMINICOS SISTEMICOS"
 ---
 
@@ -50,8 +50,8 @@ mas até o momento há **0 ensaios clínicos** e apenas **2 publicações** (amb
 | Nova Indicação Prevista | Doença da cavidade nasal (nasal cavity disease) |
 | Pontuação de Previsão TxGNN | 0,9987 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 55 de 107) |
+| Número de Registros | 107 (ativos: 55) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -77,13 +77,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Há 20 registros de produtos de desloratadina isolada nos dados compilados (a lista pode estar incompleta). Principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 154230334 | Hystalor | Não informada | Anti-histamínicos sistêmicos |
-| 167730689 | Deslorana | Não informada | Anti-histamínicos sistêmicos |
-| 100431302 | Superhist ODT | Não informada | Anti-histamínicos para uso sistêmico |
-| 125680360 | Ikaros | Não informada | Anti-histamínicos sistêmicos |
-| 105730465 | Esalerg Gotas | Não informada | Anti-histamínicos sistêmicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290187 | DESALEX D12 | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290191 | DESALEX | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290227 | DESLORATADINA | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100431243 | LEG | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431258 | DESLORATADINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431263 | LEG | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431266 | DESLORATADINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431302 | SUPERHIST ODT | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431380 | ALOFF XPE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431386 | ALOFF | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431501 | SUPERHIST | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350962 | DESTADIN | EMS S/A | Ativo |
+| 102351426 | DESLORATADINA | EMS S/A | Ativo |
+| 103700784 | DESLORATADINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700785 | RITTY | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900215 | LIVIDEX | FARMOQUÍMICA S/A | Ativo |
+| 104810155 | DESLORATADINA | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105350245 | DESLORATADINA | LABORATÓRIO GLOBO SA | Ativo |
+| 105350246 | DESLORATADINA | LABORATÓRIO GLOBO SA | Ativo |
+| 105730002 | LUR | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730027 | LUR GOTAS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730068 | LUR D12 | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730102 | DECONLERG | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730104 | DECONLERG | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730456 | ESALERG | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730465 | ESALERG GOTAS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730527 | ESALERG D12 | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730616 | DESLORATADINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730620 | DESLORATADINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730694 | DESLORATADINA + SULFATO DE PSEUDOEFEDRINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 520
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Phenobarbital: nova indicação prevista, Neoplasia do Nervo Trigêmeo (Trigeminal Nerve Neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "Phenobarbital"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que poderia ser eficaz para **Neoplasia do Nervo Trigêmeo
 | Nova Indicação Prevista | Neoplasia do Nervo Trigêmeo (Trigeminal Nerve Neoplasm) |
 | Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
-| Número de Registros | 8 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 36) |
+| Número de Registros | 36 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -101,13 +101,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Todos os 8 registros estão **válidos** (8 de 8); o medicamento é comercializado no Brasil.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 104970285 | Fenobarbital | Não informada | Anticonvulsivantes |
-| Registro 141070658 | Gardenal | Não informada | Anticonvulsivantes |
-| Registro 104971330 | Fenobarbital | Não informada | Anticonvulsivantes |
-| Registro 103700322 | Carbital | Não informada | Anticonvulsivantes |
-| Registro 110390037 | FURP-Fenobarbital | Não informada | Anticonvulsivantes |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100630282 | FENOBARBITAL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102980016 | FENOCRIS | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700322 | CARBITAL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700640 | FENOBARBITAL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104400238 | GARDENAL | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104970285 | FENOBARBITAL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971330 | FENOBARBITAL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 110390037 | FURP-FENOBARBITAL | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 100820018 | EDHANOL | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+| 101910155 | EUCALMINA | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102350040 | FENOBARBITOL | EMS S/A | Cancelado |
+| 102980332 | FENOCRIS | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103700481 | FENOBARBITAL (PORT. 344/98 - LISTA B1) | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104440078 | VAGOSTESYL | LABORATÓRIO GROSS S. A. | Cancelado |
+| 104440095 | GROSS | LABORATÓRIO GROSS S. A. | Cancelado |
+| 104650177 | GARBITAL | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104650425 | FENOBARBITAL (PORT. 344/98 - LISTA B1) | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104970252 | UNIFENOBARB | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 106460104 | FENOBARBITAL | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 107140105 | BARBITRON | SANVAL COMERCIO E INDUSTRIA LTDA | Cancelado |
+| 107140242 | FENOBARBITAL | SANVAL COMERCIO E INDUSTRIA LTDA | Cancelado |
+| 110630081 | FARMANGUINHOS - FENOBARBITAL | FUNDAÇÃO OSWALDO CRUZ | Cancelado |
+| 112090014 | FUNED - FENOBARBITAL | FUNDAÇÃO EZEQUIEL DIAS - FUNED | Cancelado |
+| 112090096 | FENOBARBITAL | FUNDAÇÃO EZEQUIEL DIAS - FUNED | Cancelado |
+| 112100012 | LAFERGS - FENOBARBITAL | FUNDAÇÃO ESTADUAL DE PRODUÇÃO E PESQUISA EM SAÚDE  | Cancelado |
+| 113000306 | GARDENAL | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 113001010 | FENOBARBITAL (PORT.344/98 LISTA - B1) | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 113430191 | FENOBARBITAL | HIPOLABOR FARMACEUTICA LTDA | Cancelado |
+| 121550015 | SECUFENOTAL | ENGEFARMA PRODS. FARMACÊUTICOS LTDA. | Cancelado |
+| 126250001 | LFM-FENOBARBITAL | LABORATÓRIO FARMACÊUTICO DA MARINHA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 (Exibidos os 5 principais de um total de 8 registros; os demais incluem Fenocris e outras apresentações de Fenobarbital.)
 

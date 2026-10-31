@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Adapalene"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Adapalene: nova indicação prevista, Zinco plasmático elevado (zinc, elevated plasma) (nível de evidência L5). Indicação original: PRODUTOS ANTI-ACNE"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Zinco plasmático elevado (zinc
 | Nova Indicação Prevista | Zinco plasmático elevado (zinc, elevated plasma) |
 | Pontuação de Previsão TxGNN | 0,9951 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 10) |
-| Número de Registros | 10 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 28) |
+| Número de Registros | 28 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -71,13 +71,36 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 105830421 | Adapaleno | Não informada | Produtos anti-acne |
-| Registro 183260039 | Adapaleno | Não informada | Produtos anti-acne |
-| Registro 103900128 | Belpele | Não informada | Produtos anti-acne |
-| Registro 129160025 | Differin | Não informada | Produtos anti-acne |
-| Registro 178170988 | Adacne | Não informada | Produtos anti-acne |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330232 | ADAZO | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100330233 | ADAPALENO + PERÓXIDO DE BENZOILA | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 103900128 | BELPELE | FARMOQUÍMICA S/A | Ativo |
+| 105830421 | ADAPALENO | GERMED FARMACEUTICA LTDA | Ativo |
+| 110130249 | ADACNE CLIN | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 110130266 | DERIVA C MICRO | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 129160025 | DIFFERIN | GALDERMA BRASIL LTDA | Ativo |
+| 129160068 | EPIDUO | GALDERMA BRASIL LTDA | Ativo |
+| 155840695 | ADAPALENO + PERÓXIDO DE BENZOÍLA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 178170988 | ADACNE | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 178171004 | ADACNE PEROX | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 178171006 | DERIVA MICRO | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 183260039 | ADAPALENO | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 101810529 | ADAPALENO | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810576 | ADAPEL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350748 | ADAPALENO | EMS S/A | Cancelado |
+| 102350749 | ADAPALENO | EMS S/A | Cancelado |
+| 105730710 | DALAP | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105830422 | ADAPALENO | GERMED FARMACEUTICA LTDA | Cancelado |
+| 110130230 | ADACNE | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+| 110130264 | DERIVA MICRO | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+| 112130355 | ADAPALENO | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 112130358 | DALAP | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 123520182 | ALENE | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 135690286 | ADAPALENO | EMS SIGMA PHARMA LTDA | Cancelado |
+| 135690287 | ADAPALENO | EMS SIGMA PHARMA LTDA | Cancelado |
+| 167730154 | ADAPALENO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 183260033 | ADAPEL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
 
 Estão listados os 5 primeiros de 10 registros.
 

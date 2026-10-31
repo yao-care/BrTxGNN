@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Carvedilol: nova indicação prevista, doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ Até o momento há **0 ensaios clínicos** e **0 publicações** que estudem dir
 | Nova Indicação Prevista | doença renal hipertensiva maligna (malignant hypertensive renal disease) |
 | Pontuação de Previsão TxGNN | 0,9955 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 10) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 22 de 46) |
+| Número de Registros | 46 (ativos: 22) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

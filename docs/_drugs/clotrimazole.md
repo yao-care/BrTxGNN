@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Clotrimazole"
 predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clotrimazole: nova indicação prevista, acne (acne (disease)) (nível de evidência L5). Indicação original: ANTIMICOTICOS PARA USO TOPICO"
 ---
 
@@ -50,8 +50,8 @@ mas, até o momento, há apenas **1 ensaio clínico** (de uma combinação de tr
 | Nova Indicação Prevista | acne (acne (disease)) |
 | Pontuação de Previsão TxGNN | 0,9986 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 26 de 84) |
+| Número de Registros | 84 (ativos: 26) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -72,13 +72,40 @@ A sustentação é fraca. O único ensaio registrado testa uma combinação fixa
 
 Há pelo menos 20 registros na ANVISA, mas a lista pode ser parcial. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 170560102 | Canesten | Não informada | Antimicóticos para uso tópico |
-| Registro 105710162 | Clotrimazol | Não informada | Antimicótico |
-| Registro 103700457 | Clotrimazol | Não informada | Antimicóticos para uso tópico |
-| Registro 170560124 | Gino-Canesten | Não informada | Antiinfecciosos e antissépticos ginecológicos excluindo associações com corticosteroides |
-| Registro 103700249 | Clotren | Não informada | Antimicóticos para uso tópico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350440 | CLOTRIMAZOL | EMS S/A | Ativo |
+| 102350712 | CLOTRIMAZOL | EMS S/A | Ativo |
+| 102351406 | CYSTEXGINO | EMS S/A | Ativo |
+| 103700249 | CLOTREN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700457 | CLOTRIMAZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900217 | CLOTRIMIX | FARMOQUÍMICA S/A | Ativo |
+| 103920171 | CLOTRIMAZOL | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105350121 | FUNGISTEN | LABORATÓRIO GLOBO SA | Ativo |
+| 105350199 | CLOTRIMAZOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105710097 | DERMOTRIZOL | BELFAR LTDA | Ativo |
+| 105710162 | CLOTRIMAZOL | BELFAR LTDA | Ativo |
+| 105830382 | CLOTRIMAZOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830481 | CLOTRIMAZOL + ACETATO DE DEXAMETASONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830519 | CLOTRIMAZOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 106890153 | ABC | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+| 110130260 | CLOTRIGEL | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 110130285 | LOMECAN | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 115600038 | CLOMAZOL | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 125680096 | CLOTRIMAZOL + ACETATO DE DEXAMETASONA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680104 | CLOTRIMAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680210 | CLOTRIMAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 167730183 | DERMOBENE | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 170560102 | CANESTEN | BAYER S.A. | Ativo |
+| 170560124 | GINO-CANESTEN | BAYER S.A. | Ativo |
+| 183260167 | CLOTRIMAZOL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 183260172 | CLOTRIMAZOL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100470249 | MICOSTEN | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810341 | CLOTRIMAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810384 | CLOTRIMAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810418 | CLOTRIMAZOL + ACETATO DE DEXAMETASONA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

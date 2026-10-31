@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 587
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Sirolimus: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L3). Indicação original: Agente imunossupressor"
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
@@ -52,8 +52,8 @@ Hoje essa direção conta com **1 ensaio clínico** e **7 publicações**, mas s
 | Nova Indicação Prevista | Lipossarcoma (Liposarcoma) |
 | Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
+| Número de Registros | 4 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -92,9 +92,12 @@ A relação com a indicação original é indireta. O uso como imunossupressor (
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 121100453 (cancelado) | Rapamune | — | Agente imunossupressor |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 121100453 | RAPAMUNE | PFIZER BRASIL LTDA | Ativo |
+| 100640062 | SIROMUNE | DE MAYO INDS QUIMS FTCAS LTDA | Cancelado |
+| 102160254 | RAPAMUNE | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 121100117 | RAPAMUNE | PFIZER BRASIL LTDA | Cancelado |
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Capecitabine: nova indicação prevista, Adenocarcinoma gástrico e polipose proximal do estômago (gastric adenocarcinoma and proximal polyposis of the stomach) (nível de evidência L5). Indicação origin…"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compi
 | Nova Indicação Prevista | Adenocarcinoma gástrico e polipose proximal do estômago (gastric adenocarcinoma and proximal polyposis of the stomach) |
 | Pontuação de Previsão TxGNN | 0,9994 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 11) |
-| Número de Registros | 11 (ativos: 10) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 16) |
+| Número de Registros | 16 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,13 +66,24 @@ A pontuação do TxGNN é muito alta (0,9994), mas é apenas uma saída do model
 
 Há 11 registros válidos de produtos de agente único, sem registros cancelados.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 102980591 | CAPEDUC | – | Outros antineoplásicos |
-| 100431210 | CORRETAL | – | Outros antineoplásicos |
-| 102980601 | CAPECITABINA | – | Outros antineoplásicos |
-| 104070110 | CAPECITABINA | – | Outros antineoplásicos |
-| 105730756 | CAPZAT | – | Outros antineoplásicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431209 | CAPECITABINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431210 | CORRETAL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351292 | COAMA | EMS S/A | Ativo |
+| 102980591 | CAPEDUC | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980601 | CAPECITABINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 104070110 | CAPECITABINA | INSTITUTO VITAL BRAZIL S/A | Ativo |
+| 105730756 | CAPZAT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 106460222 | CAPECITABINA | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 146820040 | CAPECITABINA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 189770004 | XELODA | BIOPAS BRASIL PRODUTOS FARMACEUTICOS LTDA | Ativo |
+| 101000549 | XELODA | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 112330055 | CAPECITABINA | LABORATORIO QUIMICO FARMACEUTICO DA AERONAUTICA | Cancelado |
+| 123520247 | CAPELIV | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 146820045 | CAPECARE | SUN FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 151430057 | CAPECITABINA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 151430059 | APECIBINE | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 
 A lista acima mostra os 5 primeiros de 11 registros.
 

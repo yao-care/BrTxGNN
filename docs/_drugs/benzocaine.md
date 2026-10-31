@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 122
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Benzocaine: nova indicação prevista, Conjuntivite Papilar (Papillary Conjunctivitis) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "BENZOCAINE"
 predicted_indications: ["papillary conjunctivitis"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Conjuntivite Papilar (Papillary
 | Nova Indicação Prevista | Conjuntivite Papilar (Papillary Conjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9938 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
-| Número de Registros | 10 (ativos: 10) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 49) |
+| Número de Registros | 49 (ativos: 11) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -65,13 +65,40 @@ Além disso, todas as indicações originais são de uso orofaríngeo ou anesté
 
 Todos os 10 registros encontrados são de produtos isolados (monofármaco) e estão cancelados. Os 5 principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101770027 | BENZOTOP | — | Anestésicos locais |
-| Registro 155840367 | NEOPIRIDIN | — | Produtos para orofaringe |
-| Registro 106890215 | RESFEGARGANTA | — | Anti-infecciosos e antissépticos tópicos para orofaringe |
-| Registro 103900159 | DEQUADIN | — | Anti-infecciosos e antissépticos tópicos para orofaringe |
-| Registro 106890151 | SANILIN | — | Anti-infecciosos e antissépticos tópicos para orofaringe |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431409 | ANDOLBA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101430024 | MALVATRICIN | MEGALABS FARMACEUTICA S.A. | Ativo |
+| 101430027 | PENETRO | MEGALABS FARMACEUTICA S.A. | Ativo |
+| 101430068 | MALVONA | MEGALABS FARMACEUTICA S.A. | Ativo |
+| 101770027 | BENZOTOP | DFL INDÚSTRIA E COMÉRCIO S/A | Ativo |
+| 102350174 | PREDMICIN | EMS S/A | Ativo |
+| 103900159 | DEQUADIN | FARMOQUÍMICA S/A | Ativo |
+| 106890151 | SANILIN | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+| 106890215 | RESFEGARGANTA | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+| 106890216 | DESAFTALIV | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+| 155840367 | NEOPIRIDIN | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 100020102 | AMIGDAMICIN | LABORATORIO SEDABEL LTDA | Cancelado |
+| 100380032 | DERMICUTIS | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100430617 | HEMOAL | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100431037 | ANDOLBA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470009 | AMIDALIN | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100490071 | GLITOSCAYNA+ BENZOCAINA | LABORATÓRIO SAÚDE LTDA | Cancelado |
+| 100490103 | DROPSTOS | LABORATÓRIO SAÚDE LTDA | Cancelado |
+| 100580001 | ALBICON | CHIESI FARMACÊUTICA LTDA | Cancelado |
+| 100930203 | SOLARCAINE | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 101430003 | BROMIL | MEGALABS FARMACEUTICA S.A. | Cancelado |
+| 101430022 | TOSSDROPS | MEGALABS FARMACEUTICA S.A. | Cancelado |
+| 101430067 | MALVONA | MEGALABS FARMACEUTICA S.A. | Cancelado |
+| 101770012 | TOPEX | DFL INDÚSTRIA E COMÉRCIO S/A | Cancelado |
+| 102860008 | PASTILHAS SAÚDE | LABORATORIO SAUDE LTDA | Cancelado |
+| 104540006 | TROMBOPLASTINA + ASSOC. | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Cancelado |
+| 104620018 | MALVONA | LABORATORIOS PRIMA LTDA | Cancelado |
+| 104620037 | MALVONA | LABORATORIOS PRIMA LTDA | Cancelado |
+| 104650210 | NEOPIRIDIN | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105040011 | POMADA DE ERVA DE BICHO ADRENALINA E HAMAMÉLIS COMPOSTA IMES | LABORATÓRIOS OSÓRIO DE MORAES LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

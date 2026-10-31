@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **pneumocistose (Pneumocystosis)*
 | Nova Indicação Prevista | Pneumocistose (Pneumocystosis) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 41 de 141) |
+| Número de Registros | 141 (ativos: 41) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -96,13 +96,40 @@ Prioridade para os tipos de estudo mais robustos; nenhum é RCT.
 
 Foram encontrados 20 registros válidos; o medicamento está comercializado. Listados os cinco principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 143810134 | Metronidazol | Não informada | Amebicidas, giardicidas e tricomonicidas |
-| Registro 106830115 | Metroniflex | Não informada | Amebicidas, giardicidas e tricomonicidas |
-| Registro 110360273 | Flagyl | Não informada | Amebicidas, giardicidas e tricomonicidas |
-| Registro 129160007 | Rozex | Não informada | Outros produtos com ação na pele e mucosas |
-| Registro 100850107 | Metronack | Não informada | Antiinfecciosos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410129 | ENDONIDAZOL | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410158 | METRONIDAZOL | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100850107 | METRONACK | LABORATORIOS B. BRAUN S/A | Ativo |
+| 103110119 | METRONIDAZOL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110148 | HIDAZOL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110154 | METRONIDAZOL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103460020 | METRONIDAZOL | BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA | Ativo |
+| 103700007 | COLPATRIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700071 | HELMIZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700664 | METRONIDAZOL + NISTATINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700714 | METRONIDAZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103870046 | METRONIDAZOL | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103900059 | COLPISTAR | FARMOQUÍMICA S/A | Ativo |
+| 104910064 | METRONIDAZOL | JP INDUSTRIA FARMACEUTICA S/A | Ativo |
+| 105710103 | FLAGIMAX | BELFAR LTDA | Ativo |
+| 105710140 | METRONIDAZOL | BELFAR LTDA | Ativo |
+| 106830115 | METRONIFLEX | BAXTER HOSPITALAR LTDA | Ativo |
+| 107150089 | TRICOMAX | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 110360273 | FLAGYL | HEMAFARMA COM E IND FARMACEUTICA LTDA | Ativo |
+| 110390103 | FURP-METRONIDAZOL | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 110850014 | NIDAZOFARMA | FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LT | Ativo |
+| 118190327 | METRONIDAZOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190446 | MEFLAGIN | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680043 | METRONIDAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680044 | METRONIDAZOL + NISTATINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680182 | METRONIDAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 129160007 | ROZEX | GALDERMA BRASIL LTDA | Ativo |
+| 135640005 | GYNOTRAN | EXELTIS LABORATORIO FARMACEUTICO LTDA | Ativo |
+| 135640013 | METRONIDAZOL + NITRATO DE MICONAZOL | EXELTIS LABORATORIO FARMACEUTICO LTDA | Ativo |
+| 143810134 | METRONIDAZOL | CIMED INDUSTRIA S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

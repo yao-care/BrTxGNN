@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 452
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "methylergometrine"
 predicted_indications: ["hypertrichosis (disease)", "pulmonary hypertension", "migraine disorder", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "kyphoscoliotic heart disease", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Methylergometrine: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). Indicação original: OCITOCICOS NAO HORMONAIS"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **hipertricose (hypertrichosis)**
 | Nova Indicação Prevista | Hipertricose (hypertrichosis (disease)) |
 | Pontuação de Previsão TxGNN | 0.9987 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -81,9 +81,10 @@ Para a indicação principal (hipertricose), atualmente não há literatura rela
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 104970126 (cancelado) | ERGOMETRIN | Não informada | Ocitócicos não hormonais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 104970126 | ERGOMETRIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 100680076 | METHERGIN | NOVARTIS BIOCIENCIAS S.A | Cancelado |
 
 ## Considerações de Segurança
 

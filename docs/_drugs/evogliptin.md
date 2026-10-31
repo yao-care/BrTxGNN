@@ -78,10 +78,10 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100431502 | Tartarato de evogliptina | Não informada | Antidiabéticos (cancelado) |
-| Registro 100431343 | Suganon | Não informada | Antidiabéticos (cancelado) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431343 | SUGANON | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431502 | TARTARATO DE EVOGLIPTINA | EUROFARMA LABORATORIOS S.A. | Ativo |
 
 ## Considerações de Segurança
 

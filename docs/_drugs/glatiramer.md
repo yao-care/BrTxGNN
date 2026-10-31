@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** vinculada
 | Nova Indicação Prevista | Hemoglobinopatia (hemoglobinopathy) |
 | Pontuação de Previsão TxGNN | 0,9903 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 5) |
+| Número de Registros | 5 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,11 +74,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 155730064 | ACETATO DE GLATIRÂMER | Não informada | Imunomodulador |
-| Registro 155730001 | COPAXONE | Não informada | Imunomodulador |
-| Registro 156260032 | GLAMETIX | Não informada | Imunomodulador |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 155730001 | COPAXONE | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 155730064 | ACETATO DE GLATIRÂMER | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 156260032 | GLAMETIX | LABORATÓRIOS BAGÓ DO BRASIL S/A | Ativo |
+| 112130203 | COPAXONE | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 155730056 | ACETATO DE GLATIRÂMER | TEVA FARMACÊUTICA LTDA. | Cancelado |
 
 ## Considerações de Segurança
 

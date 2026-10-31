@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 196
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Desta forma, **não é possível realizar análise de reposicionamento** até qu
 | Nova Indicação Prevista | — (dados ausentes) |
 | Pontuação de Previsão TxGNN | — (pipeline não executado) |
 | Nível de Evidência | — (sem previsão disponível) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 7) |
+| Número de Registros | 7 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ---

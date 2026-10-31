@@ -50,8 +50,8 @@ A pontuação é alta (0,9971), mas trata-se de uma previsão puramente computac
 | Nova Indicação Prevista | Mastocitoma extracutâneo (extracutaneous mastocytoma) |
 | Pontuação de Previsão TxGNN | 0,9971 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 3) |
-| Número de Registros | 3 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 5) |
+| Número de Registros | 5 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -95,11 +95,13 @@ Não há literatura relacionada à indicação principal (mastocitoma extracutâ
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 122140114 (cancelado) | EGURINEL | Não informada | Não informada |
-| Registro 101000663 (cancelado) | ESBRIET | Não informada | Outros produtos para o aparelho respiratório |
-| Registro 100470649 (cancelado) | PIRFENIDONA | Não informada | Outros produtos para o aparelho respiratório |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100470649 | PIRFENIDONA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 110390235 | PIRFENIDONA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 122140114 | EGURINEL | ADIUM S.A. | Ativo |
+| 155730075 | ESDONA | TEVA FARMACÊUTICA LTDA. | Ativo |
+| 101000663 | ESBRIET | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
 
 ## Considerações de Segurança
 

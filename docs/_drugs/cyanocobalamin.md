@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 243
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cyanocobalamin: nova indicação prevista, Doença metabólica da biotina (biotin metabolic disease) (nível de evidência L5). Indicação original: Vitamina B12 (cianocobalamina e análogos)"
 monitor_inn: "CYANOCOBALAMIN"
 predicted_indications: ["biotin metabolic disease"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que ela pode ser eficaz para **doença metabólica da biot
 | Nova Indicação Prevista | Doença metabólica da biotina (biotin metabolic disease) |
 | Pontuação de Previsão TxGNN | 0,9960 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 35 de 358) |
+| Número de Registros | 358 (ativos: 35) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -75,13 +75,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Foram encontrados 20 registros válidos no Brasil. Os cinco principais estão listados abaixo.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 164000007 | Amicored | Não informada | Vitamina B12 (cianocobalamina e análogos) |
-| Registro nº 114620021 | Betrat | Não informada | Produtos à base de vitamina B12 – associações medicamentosas |
-| Registro nº 100431326 | Neo B | Não informada | Produtos à base de vitamina B12 – associações medicamentosas |
-| Registro nº 103700811 | Tipici | Não informada | Vitamina B1 em associação com vitaminas B6 e/ou B12 |
-| Registro nº 103850051 | Vi-Ferrin | Não informada | Antianêmicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431326 | NEO B | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431339 | CLORIDRATO DE TIAMINA + CLORIDRATO DE PIRIDOXINA + CIANOCOBA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431346 | DEXALGEN NF | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431408 | CITOBÊ | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431464 | CITOBÊ-DEXA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350242 | COMPLEXO B 12 | EMS S/A | Ativo |
+| 102351341 | COMPLEXO B 12 XPE | EMS S/A | Ativo |
+| 103700811 | TIPICI | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720302 | RENOVI B | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103720306 | RENOVI B PLUS | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103850051 | VI -  FERRIN | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 104440053 | ORGANONEURO CEREBRAL | LABORATÓRIO GROSS S. A. | Ativo |
+| 104971153 | NEO CEBETIL COMPLEXO | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971351 | DEXANEURIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971567 | TRIRUBIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730157 | NOCIP | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730173 | LYVABE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730367 | COMBIRON FÓLICO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 106830093 | CERNE-12 | BAXTER HOSPITALAR LTDA | Ativo |
+| 106890207 | NEOPLEXUS | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+| 109740354 | CRONOBE COMPLEX | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740357 | CRONOBE COMPLEX  IM | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 114620021 | BETRAT | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 114620049 | VITAMINAS B1 + B6 + B12 | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 115600194 | GERILON | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600280 | MATURE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 121420663 | ALGINAC | PROCTER & GAMBLE DO BRASIL LTDA. | Ativo |
+| 121420669 | CITONEURIN | PROCTER & GAMBLE DO BRASIL LTDA. | Ativo |
+| 121420670 | DEXA-CITONEURIN NFF | PROCTER & GAMBLE DO BRASIL LTDA. | Ativo |
+| 154230370 | CIONYN | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

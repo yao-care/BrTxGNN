@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 172
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Caffeine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Estimulantes respiratórios"
 monitor_inn: "Caffeine"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que ela pode ser eficaz para **doença da cavidade nasal (
 | Nova Indicação Prevista | Doença da cavidade nasal (nasal cavity disease) |
 | Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 76 de 281) |
+| Número de Registros | 281 (ativos: 76) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -77,13 +77,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Há 20 registros válidos e o medicamento está comercializado. Os cinco principais são:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100580115 | Peyona | Não informada | Estimulantes respiratórios |
-| Registro nº 154230047 | Tylalgin Caf | Não informada | Analgésicos não narcóticos |
-| Registro nº 101180611 | Miosan Caf | Não informada | Relaxantes musculares |
-| Registro nº 109170076 | Gripinew | Não informada | Produtos para terapia sintomática da gripe |
-| Registro nº 178170004 | Melhoral | Não informada | Analgésicos não narcóticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431230 | CARISOPRODOL + DICLOFENACO DE SÓDIO + PARACETAMOL+ CAFEÍNA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431241 | TRIMUSK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470267 | TRILAX | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100490106 | CALMADOR | LABORATÓRIO SAÚDE LTDA | Ativo |
+| 100580115 | PEYONA | CHIESI FARMACÊUTICA LTDA | Ativo |
+| 100660047 | ALICURA | LABORATORIO CATARINENSE LTDA | Ativo |
+| 101180611 | MIOSAN CAF | APSEN FARMACEUTICA S/A | Ativo |
+| 101430072 | BESEROL | MEGALABS FARMACEUTICA S.A. | Ativo |
+| 102350072 | DORICIN | EMS S/A | Ativo |
+| 102350551 | INFRALAX | EMS S/A | Ativo |
+| 102351337 | MIGRALIV | EMS S/A | Ativo |
+| 102351436 | XAQUELIV | EMS S/A | Ativo |
+| 102980328 | ANA - FLEX | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700179 | SEDALEX | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700789 | DIPIRONA SODICA+CAFEINA ANIDRA+CITRATO DE ORFENADRINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104400190 | TANDENE | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104400224 | TANDERALGIN | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104400225 | CARISOPRODOL + DICLOFENACO SÓDICO + PARACETAMOL + CAFEÍNA | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104810122 | SUALIV | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810133 | RELAXMED | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810164 | RESSALIVDOR | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971511 | PARACETAMOL + CARISOPRODOL + DICLOFENACO SÓDICO + CAFEÍNA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971527 | TANDRIFLAN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105710006 | DRENOGRIP | BELFAR LTDA | Ativo |
+| 105730069 | CEFALIV | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730100 | TANDRILAX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730195 | TOSAKS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730715 | DORILAX DT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 107150190 | ENXAK | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 109170076 | GRIPINEW | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

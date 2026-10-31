@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 569
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Risperidone: nova indicação prevista, Paralisia do olhar horizontal familiar com escoliose progressiva (gaz… (nível de evidência L5). Indicação original: Neurolépticos (antipsicótico)"
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
@@ -50,8 +50,8 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta dire�
 | Nova Indicação Prevista | Paralisia do olhar horizontal familiar com escoliose progressiva (gaze palsy, familial horizontal, with progressive scoliosis) |
 | Pontuação de Previsão TxGNN | 0,9976 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 27 de 54) |
+| Número de Registros | 54 (ativos: 27) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,13 +74,40 @@ Atualmente não há literatura relacionada.
 
 Dos 20 registros localizados, todos estão cancelados. Não há registro vigente de risperidona isolada nem em associação. Abaixo estão 5 dos registros, incluindo os nomes comerciais distintos.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105730599 | ZARGUS | Não informada | Neurolépticos |
-| Registro nº 125680292 | PERLID | Não informada | Neurolépticos |
-| Registro nº 104971134 | VIVERDAL | Não informada | Neurolépticos |
-| Registro nº 155370028 | RISPERAC | Não informada | Neurolépticos |
-| Registro nº 104971412 | RISPERIDONA | Não informada | Neurolépticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431002 | RISS | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431180 | RISPERIDONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470449 | RISPERIDONA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100630279 | RISPERIDONA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681161 | RISPERIDONA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102350824 | RISPERIDONA | EMS S/A | Ativo |
+| 102980200 | RISPERIDON | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700619 | RISPERIDONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103920197 | RISPERIDONA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971134 | VIVERDAL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971412 | RISPERIDONA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350227 | RISPERIDONA | LABORATÓRIO GLOBO SA | Ativo |
+| 105350229 | RISPXAN | LABORATÓRIO GLOBO SA | Ativo |
+| 105730539 | RISPERIDONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730599 | ZARGUS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830532 | RISPERIDONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740292 | RISPERIDONA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 118190404 | RISPERIDONA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520210 | RISPERIDONA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680232 | RISPERIDONA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680269 | RISPERIDONA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680291 | PERLID | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680292 | PERLID | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 154230283 | RISPERIDONA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155370027 | RISPERIDONA | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155370028 | RISPERAC | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 183260478 | RISPERIDONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100430984 | RISPERIDONA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470519 | RISPALUM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680975 | RISPERIDONA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

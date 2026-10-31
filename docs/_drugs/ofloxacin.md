@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 483
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Ofloxacin: nova indicação prevista, Polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade poli… (nível de evidência L5). Indicação original: Antiinfecciosos"
 monitor_inn: "ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
@@ -50,8 +50,8 @@ Entre as 10 previsões analisadas, a mais bem sustentada por dados é a **peste 
 | Nova Indicação Prevista | Polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade policlonal) |
 | Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 8) |
-| Número de Registros | 8 (ativos: 6) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 30) |
+| Número de Registros | 30 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 > Observação: as 10 previsões têm pontuações muito próximas (0,9957 a 0,9991), então a posição no ranking do modelo não distingue bem a plausibilidade biológica. A pontuação da previsão de maior valor vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. A tabela abaixo resume as demais previsões.
@@ -106,13 +106,38 @@ Outros trabalhos recuperados tratam de resistência em outros organismos (por ex
 
 Todos os 8 registros estão vigentes (8 licenças válidas de 8); o medicamento é comercializado no Brasil.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 126250061 | LFM - Ofloxacino | Não informada | Antiinfecciosos |
-| Registro nº 167730555 | Ofloxalis | Não informada | Antiinfecciosos tópicos para uso oftálmico |
-| Registro nº 102350779 | Ofloxacino | Não informada | Antiinfecciosos tópicos para uso oftálmico |
-| Registro nº 107150097 | Floxina | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 101470027 | Ofloxa | Não informada | Antiinfecciosos tópicos para uso oftálmico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101470027 | OFLOX | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
+| 102350779 | OFLOXACINO | EMS S/A | Ativo |
+| 102980492 | NOSTIL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 107150097 | FLOXINA | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 126250061 | LFM - OFLOXACINO | LABORATÓRIO FARMACÊUTICO DA MARINHA | Ativo |
+| 167730555 | OFLOXALIS | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100230246 | OFLOXACINO | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 102700116 | OXITOPENA | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 103700384 | OFLOXACINO | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104650507 | OFLOXACINO | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104970260 | OFLOXITRAT | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 104971284 | GENOXACIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105730423 | OFLOXACINO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105830453 | OFLOXACINO | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830871 | OFLOXACINO | GERMED FARMACEUTICA LTDA | Cancelado |
+| 108840356 | IQUEGO-OFLOXACINO | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Cancelado |
+| 112080033 | LQFEX - OFLOXACINO | LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO | Cancelado |
+| 112130437 | OFLOXACINO | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 112363340 | FLOXSTAT | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 117250016 | NOSTIL | LATINOFARMA INDUSTRIAS FARMACEUTICAS LTDA | Cancelado |
+| 123520082 | OFLOXACINO | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 123610008 | OFLOCIN | UCB BIOPHARMA LTDA. | Cancelado |
+| 135690324 | OFLOXACINO | EMS SIGMA PHARMA LTDA | Cancelado |
+| 137640056 | FLOGIRAX | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 148690018 | GENOXACIN | FORMIL FARMACÊUTICA LTDA | Cancelado |
+| 155840312 | OFLOXACINO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 167730240 | OFLOXACINO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730512 | OFLOXACINO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 172870405 | OFLOXACINO | HYPERA S.A. | Cancelado |
+| 178170124 | OFLOXINO | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Cancelado |
 
 ## Considerações de Segurança
 

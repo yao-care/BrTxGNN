@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "eplerenone"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Eplerenone: nova indicação prevista, hipertensão pulmonar devida a doença pulmonar e/ou hipóxia (pulmonary hypertension owing to lung disease and/or hypoxia) (nível de evidência L5). Indicação origin…"
 ---
 
@@ -50,8 +50,8 @@ Os dados compilados para este relatório não incluem ensaios clínicos registra
 | Nova Indicação Prevista | hipertensão pulmonar devida a doença pulmonar e/ou hipóxia (pulmonary hypertension owing to lung disease and/or hypoxia) |
 | Pontuação de Previsão TxGNN | 0,9950 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 4) |
+| Número de Registros | 4 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -83,10 +83,12 @@ Nenhum dos estudos citados investiga diretamente, em humanos, a hipertensão pul
 
 Há 2 registros de produtos de princípio ativo único, ambos para eplerenona.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 188300110 | INSPRA | Não informada | Outros medicamentos de ação no aparelho cardiovascular |
-| Registro 188300112 | ZIMIF | Não informada | Outros medicamentos de ação no aparelho cardiovascular |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 188300110 | INSPRA | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 188300112 | ZIMIF | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 102160199 | INSPRA | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 115350010 | INSPRA | UPJOHN BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDIC | Cancelado |
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 474
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Nitrendipine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Anti-hipertensivos simples"
 monitor_inn: "nitrendipine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
 | Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 7) |
+| Número de Registros | 7 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -85,11 +85,15 @@ Atualmente não há ensaios clínicos relacionados registrados para enxaqueca.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105730549 (cancelado) | NITRENDIPINO | Não informada | Anti-hipertensivos simples |
-| Registro nº 105730563 (cancelado) | NITRENCORD | Não informada | Anti-hipertensivos |
-| Registro nº 100330045 (cancelado) | CALTREN | Não informada | Antianginosos e vasodilatadores |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330045 | CALTREN | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 105730549 | NITRENDIPINO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730563 | NITRENCORD | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 100430648 | NITRENDIPINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 104290058 | BAYPRESS | BAYER S.A. | Cancelado |
+| 112130043 | NITRENCORD | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 112130302 | NITRENDIPINO | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
 
 ---
 

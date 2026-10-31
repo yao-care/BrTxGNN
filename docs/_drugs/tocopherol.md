@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 644
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Tocopherol: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação igual ou superior a 0,99) |
 | Usos conhecidos registrados para este medicamento | 1 |
 | Nível de evidência | Não se aplica |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 145) |
+| Número de Registros | 145 (ativos: 3) |
 
 ## Usos conhecidos registrados para este medicamento
 

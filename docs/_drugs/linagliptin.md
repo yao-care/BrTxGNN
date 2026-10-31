@@ -7,7 +7,7 @@ title: LINAGLIPTIN
 drugbank_id: DB08882
 permalink: /drugs/linagliptin/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Item | Value |
 |------|-------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 18) |
-| Número de Registros | 18 (ativos: 17) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 21) |
+| Número de Registros | 21 (ativos: 20) |
 | DrugBank ID | [DB08882](https://go.drugbank.com/drugs/DB08882) |
 | Number of Predicted Indications | 2 |
 

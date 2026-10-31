@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 228
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Clindamycin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Clindamycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 15) |
-| Número de Registros | 15 (ativos: 14) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 62) |
+| Número de Registros | 62 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,13 +74,40 @@ Atualmente não há literatura relacionada à indicação principal prevista (ce
 
 Todos os 15 registros encontrados têm licença válida. Os cinco primeiros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 102350805 | Cloridrato de clindamicina | Não informada | Antibióticos sistêmicos simples |
-| Registro 113430103 | Fosfato de clindamicina | Não informada | Antibióticos sistêmicos simples |
-| Registro 103870036 | Hyclin | Não informada | Antibióticos sistêmicos simples |
-| Registro 121100385 | Dalacin C | Não informada | Antibióticos sistêmicos simples |
-| Registro 110130266 | Deriva C Micro | Não informada | Produtos antiacne |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101070339 | CLINDOXYL | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+| 101910303 | VITACID ACNE | THERASKIN FARMACEUTICA LTDA. | Ativo |
+| 102350805 | CLORIDRATO DE CLINDAMICINA | EMS S/A | Ativo |
+| 103700471 | CLORIDRATO DE CLINDAMICINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700627 | CLINDAMIN-C | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103870036 | HYCLIN | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103870074 | FOSFATO DE CLINDAMICINA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 104970284 | FOSFATO DE CLINDAMICINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971332 | CLORIDRATO DE CLINDAMICINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 110110033 | FOSFATO DE CLINDAMICINA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110130249 | ADACNE CLIN | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 110130266 | DERIVA C MICRO | GLENMARK FARMACÊUTICA LTDA | Ativo |
+| 113430103 | FOSFATO DE CLINDAMICINA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 116370103 | CLINDARIX | BLAU FARMACÊUTICA S.A. | Ativo |
+| 121100385 | DALACIN C | PFIZER BRASIL LTDA | Ativo |
+| 100410196 | FOSFATO DE CLINDAMICINA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430006 | FOSFATO DE CLINDAMICINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430661 | TECLIND | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470314 | CLORIDRATO DE CLINDAMICINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101910240 | CLINDACNE | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102160153 | DALACIN T | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160173 | DALACIN C E DALACIN V | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102350428 | CLINDAM | EMS S/A | Cancelado |
+| 102350720 | FOSFATO DE CLINDAMICINA | EMS S/A | Cancelado |
+| 102350737 | FOSFATO DE CLINDAMICINA | EMS S/A | Cancelado |
+| 102350780 | FOSFATO DE CLINDAMICINA | EMS S/A | Cancelado |
+| 102700082 | CLINDARIX | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 103110122 | KLIDACIN | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 103700262 | CLINDAMIN - D | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103700269 | CLINDAMIN - C | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

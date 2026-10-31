@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 467
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Naproxen: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) |
 | Pontuação de Previsão TxGNN | 0.9935 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 9) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 45) |
+| Número de Registros | 45 (ativos: 19) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

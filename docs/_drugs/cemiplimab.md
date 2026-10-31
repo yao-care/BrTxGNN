@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 213
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cemiplimab: nova indicação prevista, Carcinoma adenoescamoso da vesícula biliar (gallbladder adenosquamous… (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "cemiplimab"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "external ear basal cell carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Carcinoma adenoescamoso da vesícula biliar (gallbladder adenosquamous carcinoma) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -72,9 +72,10 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 122140130 (cancelado) | LIBTAYO | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 122140130 | LIBTAYO | ADIUM S.A. | Ativo |
+| 183260303 | LIBTAYO | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
 
 ## Citotoxicidade
 

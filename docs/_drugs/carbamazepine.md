@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 189
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Carbamazepine: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L4). Indicação original: Anticonvulsivantes"
 monitor_inn: "CARBAMAZEPINE"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **18 publicações** associadas, ne
 | Nova Indicação Prevista | Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) |
 | Pontuação de Previsão TxGNN | 1,0000 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 18) |
-| Número de Registros | 18 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 67) |
+| Número de Registros | 67 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -97,13 +97,40 @@ As 18 publicações recuperadas são, em sua maioria, relatos de caso e revisõe
 
 Todos os 18 registros estão válidos (18 de 18). Seguem os 5 primeiros da lista.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100630280 | Carbamazepina | Não informada | Anticonvulsivantes |
-| Registro 102980513 | Carbamazepina | Não informada | Anticonvulsivantes |
-| Registro 107150101 | Tegrezin | Não informada | Anticonvulsivantes |
-| Registro 104970172 | Uni-Carbamaz | Não informada | Anticonvulsivantes |
-| Registro 102980044 | Tegretard | Não informada | Anticonvulsivantes |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100630280 | CARBAMAZEPINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100680085 | TEGRETOL | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102350548 | CARBAMAZEPINA | EMS S/A | Ativo |
+| 102980044 | TEGRETARD | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980513 | CARBAMAZEPINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700472 | CARBAMAZEPINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104970172 | UNI-CARBAMAZ | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971331 | CARBAMAZEPINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971344 | CARBAMAZEPINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105830847 | CARBAMAZEPINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 107150101 | TEGREZIN | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 110390221 | CARBAMAZEPINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 113430180 | CARBAMAZEPINA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 113430203 | CARBAMAZEPINA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 113430208 | CARBAMAZEPINA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 155840066 | CARBAMAZEPINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 100430745 | CARBAMAZEPINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470534 | CARBAMAZEPINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680992 | CARBAMAZEPINA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100681023 | CARBAMAZEPINA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100820120 | ANORIL | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+| 101180598 | CARBAMAZEPINA | APSEN FARMACEUTICA S/A | Cancelado |
+| 101310013 | CARBAZOL | COMPANHIA BRASILEIRA DE ANTIBIOTICOS-CIBRAN | Cancelado |
+| 101810485 | CARBAMAZEPINA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810520 | CARBAMAZEPINA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810541 | PROLEPTOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101830086 | CARBAMAZEPINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 101830127 | LAFEPE - CARBAMAZEPINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 101910071 | VATE | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102350980 | CARBAMAZEPINA (PORT 344/98 - LISTA C1) | EMS S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Entacapone: nova indicação prevista, Neurodegeneração associada ao PLA2G6 (PLA2G6-associated neurodegenera… (nível de evidência L5). Indicação original: Antiparkinsonianos"
 monitor_inn: "ENTACAPONE"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **neurodegeneração associada ao
 | Nova Indicação Prevista | Neurodegeneração associada ao PLA2G6 (PLA2G6-associated neurodegeneration) |
 | Pontuação de Previsão TxGNN | 0,9976 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 14) |
+| Número de Registros | 14 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -73,11 +73,22 @@ Atualmente não há literatura relacionada.
 
 Todos os registros de entacapona no Brasil constam como cancelados; não há registro válido atualmente.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100470633 (cancelado) | COMTAN | Não informada | Antiparkinsonianos |
-| Registro 135690587 (cancelado) | ENTARKIN | Não informada | Antiparkinsonianos |
-| Registro 100470632 (cancelado) | STALEVO | Não informada | Antiparkinsonianos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100470632 | STALEVO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470633 | COMTAN | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 135690587 | ENTARKIN | EMS SIGMA PHARMA LTDA | Ativo |
+| 100680095 | COMTAN | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100680962 | STALEVO | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 102351014 | ENTACAPONA | EMS S/A | Cancelado |
+| 102351015 | ENTAPARK | EMS S/A | Cancelado |
+| 105830709 | CAPINSON | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830710 | ENTACAPONA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 108840374 | ENTACAPONA | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Cancelado |
+| 110390167 | ENTACAPONA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+| 110500050 | ENTACAPONA | LAB INDL FTCO ALAGOAS SA - LIFAL | Cancelado |
+| 167730194 | CAPONA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730195 | ENTACAPONA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

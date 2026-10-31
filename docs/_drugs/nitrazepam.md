@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 473
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "NITRAZEPAM"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
 description: "Nitrazepam: nova indicação prevista, Wernicke-Korsakoff syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para a **síndrome de Wernicke-Korsako
 | Nova Indicação Prevista | Wernicke-Korsakoff syndrome |
 | Pontuação de Previsão TxGNN | 0.9931 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 20) |
-| Número de Registros | 20 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 13) |
+| Número de Registros | 13 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

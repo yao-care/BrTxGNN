@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 600
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Sumatriptan: usos conhecidos e situação de mercado no Brasil; atualmente nenhum novo candidato a indicação"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ Os candidatos que o modelo TxGNN gerou para o Sumatriptan (pontuação ≥ 0,99)
 | Novas indicações preditas | Nenhuma (todos os candidatos do modelo que podem ser rastreados são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 1 |
 | Nível de evidência | Não se aplica |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 12) |
+| Número de Registros | 12 (ativos: 5) |
 
 ## Usos conhecidos entre os candidatos do modelo
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Esomeprazole: nova indicação prevista, Obstrução duodenal (duodenal obstruction) (nível de evidência L5). Indicação original: ANTIULCEROSOS"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Obstrução duodenal (duodenal obstruction) |
 | Pontuação de Previsão TxGNN | 0,9945 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 15) |
-| Número de Registros | 15 (ativos: 14) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 30 de 57) |
+| Número de Registros | 57 (ativos: 30) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -64,13 +64,40 @@ Não foram encontrados ensaios clínicos nem literatura que estudem diretamente 
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 105730119 | Esomeprazol magnésico | Não informada | Antiulcerosos |
-| Registro 165070003 | Yesom | Não informada | Outros produtos para o aparelho digestivo e metabolismo |
-| Registro 146820027 | Esomeprazol sódico | Não informada | Outros produtos para o aparelho digestivo e metabolismo |
-| Registro 100431061 | Ésio | Não informada | Outros produtos para o aparelho digestivo e metabolismo |
-| Registro 105730531 | Gaeso | Não informada | Antiulcerosos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431061 | ÉSIO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431217 | ÉSIO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351081 | ESOGASTRO | EMS S/A | Ativo |
+| 102351096 | ESOGASTRO IBP | EMS S/A | Ativo |
+| 102351182 | ESOMEPRAZOL MAGNÉSICO TRI-HIDRATADO | EMS S/A | Ativo |
+| 102351238 | ESMOG | EMS S/A | Ativo |
+| 102351368 | AMOXICILINA + CLARITROMICINA + ESOMEPRAZOL | EMS S/A | Ativo |
+| 102980528 | MEZP | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980548 | ESOMEPRAZOL SÓDICO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 105730119 | ESOMEPRAZOL MAGNÉSICO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730531 | GAESO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830843 | MEZOLIUM | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830848 | ESOMEPRAZOL MAGNÉSICO TRI-HIDRATADO | GERMED FARMACEUTICA LTDA | Ativo |
+| 116180105 | NEXIUM | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 116180245 | ESOMEPRAZOL MAGNÉSIO TRIIDRATADO | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 118190340 | ESOP | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190463 | ESOMEPRAZOL MAGNÉSICO TRI-HIDRATADO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520219 | ESOMEPRAZOL MAGNÉSICO | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 135690700 | ESOMEX | EMS SIGMA PHARMA LTDA | Ativo |
+| 143810277 | ESOMEPRAZOL MAGNÉSICO | CIMED INDUSTRIA S.A | Ativo |
+| 146820027 | ESOMEPRAZOL SODICO | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 155370082 | ESOMEPRAZOL SÓDICO | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 155840652 | EZHYUM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840688 | ESOMEPRAZOL MAGNÉSICO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 165070002 | ESOMEPRAZOL SÓDICO | CAMBER FARMACEUTICA LTDA | Ativo |
+| 165070003 | YESOM | CAMBER FARMACEUTICA LTDA | Ativo |
+| 167730485 | NEXPRAZIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730492 | ESOMEPRAZOL MAGNÉSICO TRI-HIDRATADO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 178170954 | ESOL XR | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 186100014 | VIMOVO | GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 Há 15 registros no total; a tabela mostra apenas os cinco primeiros.
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 381
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ivosidenib: nova indicação prevista, Poliomielite bulbar (bulbar polio) (nível de evidência L5). Indicação original: Agentes antineoplásicos"
 monitor_inn: "ivosidenib"
 predicted_indications: ["bulbar polio"]
@@ -78,9 +78,9 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 112780089 (cancelado) | TIBSOVO | Não informada | Agentes antineoplásicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 112780089 | TIBSOVO | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
 
 ## Citotoxicidade
 

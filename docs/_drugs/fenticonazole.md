@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fenticonazole: nova indicação prevista, Vulvovaginite tricomonásica (trichomonal vulvovaginitis) (nível de evidência L4). Indicação original: Antimicóticos para uso tópico"
 monitor_inn: "fenticonazole"
 predicted_indications: ["trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "vulvovaginitis", "vulvitis", "herpetic vulvovaginitis", "vaginitis (disease)"]
@@ -50,8 +50,8 @@ O maior volume de evidências (**20 publicações**) refere-se à **vulvovaginit
 | Nova Indicação Prevista | Vulvovaginite tricomonásica (trichomonal vulvovaginitis) |
 | Pontuação de Previsão TxGNN | 0,9950 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 18) |
+| Número de Registros | 18 (ativos: 6) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -92,13 +92,26 @@ Para a indicação principal (vulvovaginite tricomonásica), há apenas duas pub
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100431072 | GINNA | Não informada | Antimicóticos para uso tópico (cancelado) |
-| Registro nº 100431128 | NITRATO DE FENTICONAZOL | Não informada | Antimicóticos para uso tópico (cancelado) |
-| Registro nº 105730327 | FENTIZOL | Não informada | Antimicóticos para uso tópico (cancelado) |
-| Registro nº 102350991 | NITRATO DE FENTICONAZOL | Não informada | Antimicóticos para uso tópico (cancelado) |
-| Registro nº 103720256 | VAGICAND | Não informada | Antimicóticos para uso tópico (cancelado) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431072 | GINNA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431128 | NITRATO DE FENTICONAZOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431597 | NITRATO DE FENTICONAZOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350991 | NITRATO DE FENTICONAZOL | EMS S/A | Ativo |
+| 103720256 | VAGICAND | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 105730327 | FENTIZOL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 100431080 | NITRATO DE FENTICONAZOL | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 102351000 | GYNOF | EMS S/A | Cancelado |
+| 103720222 | VAGICAND | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
+| 105830696 | NITRATO DE FENTICONAZOL | GERMED FARMACEUTICA LTDA | Cancelado |
+| 106390198 | LOMEXIN | TAKEDA PHARMA LTDA. | Cancelado |
+| 114620008 | FENTINAX | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 118610287 | FENTINAX | ATIVUS FARMACÊUTICA LTDA | Cancelado |
+| 121170107 | FENTIZOL | ASTA MÉDICA LTDA | Cancelado |
+| 135690579 | FENTISIGMA | EMS SIGMA PHARMA LTDA | Cancelado |
+| 167730148 | NITRATO DE FENTICONAZOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730152 | FENTIGYN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 194270012 | FENTICREM | MOMENTA FARMACÊUTICA LTDA. | Cancelado |
 
 ## Considerações de Segurança
 

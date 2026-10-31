@@ -50,8 +50,8 @@ atualmente com **0 ensaios clínicos** e **3 publicações** (uma revisão, um e
 | Nova Indicação Prevista | Glaucoma (glaucoma) |
 | Pontuação de Previsão TxGNN | 0,9927 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 17) |
-| Número de Registros | 17 (ativos: 17) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 42) |
+| Número de Registros | 42 (ativos: 19) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -78,13 +78,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Todos os 17 registros encontram-se válidos. Abaixo, os 5 principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100630278 | Hemitartarato de Rivastigmina | Não informada | Outros produtos que atuam sobre o sistema nervoso |
-| Registro nº 105730780 | Vivencia Patch | Não informada | Outros produtos que atuam sobre o sistema nervoso |
-| Registro nº 135690644 | Vastigma | Não informada | Outros produtos que atuam sobre o sistema nervoso |
-| Registro nº 102980499 | Cogniva | Não informada | Outros produtos que atuam sobre o sistema nervoso |
-| Registro nº 125760034 | Exelon | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100630278 | HEMITARTARATO DE RIVASTIGMINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100790002 | HEMITARTARATO DE RIVASTIGMINA | LABORVIDA LABORATÓRIOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980499 | COGNIVA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980514 | HEMITARTARATO DE RIVASTIGMINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 104070103 | HEMITARTARATO DE RIVASTIGMINA | INSTITUTO VITAL BRAZIL S/A | Ativo |
+| 105730436 | VIVENCIA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730595 | HEMITARTARATO DE RIVASTIGMINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730771 | RIVASTIGMINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730780 | VIVENCIA PATCH | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 106460183 | HEMITARTARATO DE RIVASTIGMINA | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 122140139 | RIVASTIGMINA | ADIUM S.A. | Ativo |
+| 122140140 | RIVAZICH | ADIUM S.A. | Ativo |
+| 123520259 | HEMITARTARATO DE RIVASTIGMINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125760034 | EXELON | UNITED MEDICAL LTDA | Ativo |
+| 125760038 | DURIVAST | UNITED MEDICAL LTDA | Ativo |
+| 125760042 | HEMITARTARATO DE RIVASTIGMINA | UNITED MEDICAL LTDA | Ativo |
+| 135690644 | VASTIGMA | EMS SIGMA PHARMA LTDA | Ativo |
+| 143810266 | HEMITARTARATO DE RIVASTIGMINA | CIMED INDUSTRIA S.A | Ativo |
+| 154230245 | HIDROGENOTARTARATO DE RIVASTIGMINA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 100470489 | HIDROGENOTARTARATO DE RIVASTIGMINA (PORT. 344/98 - LISTA C1) | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470509 | RIGMINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470631 | HEMITARTARATO DE RIVASTIGMINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680099 | EXELON | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 102351044 | HEMITARTARATO DE RIVASTIGMINA | EMS S/A | Cancelado |
+| 102351057 | RIXEVAST | EMS S/A | Cancelado |
+| 102351153 | RIXEVAST | EMS S/A | Cancelado |
+| 102351157 | HEMITARTARATO DE RIVASTIGMINA | EMS S/A | Cancelado |
+| 103720303 | REC | SUPERA FARMA LABORATÓRIOS S.A | Cancelado |
+| 105730448 | HEMITARTARATO DE RIVASTIGMINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 105830739 | TIGMA | GERMED FARMACEUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

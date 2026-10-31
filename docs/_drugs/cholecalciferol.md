@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Cholecalciferol: nova indicação prevista, Displasia acromesomélica tipo Campailla-Martinelli (nível de evidência L5). Indicação original: Vitamina D e análogos"
 ---
 
@@ -50,8 +50,8 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta dire�
 | Nova Indicação Prevista | Displasia acromesomélica tipo Campailla-Martinelli |
 | Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | Pelo menos 20 registros (a lista pode estar incompleta) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 73 de 297) |
+| Número de Registros | 297 (ativos: 73) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,13 +74,40 @@ Atualmente não há literatura relacionada.
 
 Foram identificados pelo menos 20 registros válidos de produtos com colecalciferol isolado, e a lista pode estar incompleta. Abaixo, os 5 primeiros:
 
-| Número de Registro | Nome Comercial | Indicação Aprovada |
-|---------|------|-----------|
-| Registro nº 100431390 | OHDE CAPS | Vitamina D e análogos |
-| Registro nº 105730171 | VIT. D SOLEIL CAPS | Vitamina D e análogos |
-| Registro nº 143810246 | VITAMINA D CIMED | Vitamina D e análogos |
-| Registro nº 100380106 | DEFULL | Vitamina D e análogos |
-| Registro nº 170420025 | VITAMINA D3 | Análogo sintético da vitamina D |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290180 | FOSAMAX D | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100380106 | DEFULL | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
+| 100431261 | ALTAD CAPS | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431390 | OHDE CAPS | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431446 | VITAMINA D3 | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431571 | ALTAD CAPS DURA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431599 | VITAMINA D3 | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470662 | VITAMINA D3 | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101180623 | INPRUV D | APSEN FARMACEUTICA S/A | Ativo |
+| 101180624 | INPRUV D K | APSEN FARMACEUTICA S/A | Ativo |
+| 101550249 | VITERSOL DM | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 101910061 | CAMOMILINA C | THERASKIN FARMACEUTICA LTDA. | Ativo |
+| 102351311 | VIDYN D3 | EMS S/A | Ativo |
+| 102980018 | FRUTOVITAM | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980212 | VITADERME | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980507 | GRAN-D | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700800 | TUA D3 | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900175 | ALENDIL CÁLCIO D | FARMOQUÍMICA S/A | Ativo |
+| 103900206 | DEMI-D | FARMOQUÍMICA S/A | Ativo |
+| 103920198 | VITDERA D3 | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920233 | VITAMINA D3 | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104440021 | MILDÊ | LABORATÓRIO GROSS S. A. | Ativo |
+| 104810158 | DÊLUX | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971480 | D3CAPS | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971481 | FONT D | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971484 | VITAMINA D3 | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971485 | VITAMINA D3 | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105530384 | SOF D | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 105730133 | VIT. BIO D | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730163 | VIT. D SOLEIL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

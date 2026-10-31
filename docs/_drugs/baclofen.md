@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 105
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Baclofen: nova indicação prevista, Transtorno de déficit de atenção e hiperatividade (Attention Deficit-… (nível de evidência L4). Indicação original: Não disponível"
 monitor_inn: "Baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para o **transtorno de déficit de ate
 | Nova Indicação Prevista | Transtorno de déficit de atenção e hiperatividade (Attention Deficit-Hyperactivity Disorder) |
 | Pontuação de Previsão TxGNN | 0,9932 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 7) |
-| Número de Registros | 7 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 6) |
+| Número de Registros | 6 (ativos: 4) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Milrinone: nova indicação prevista, Alopecia (Alopecia) (nível de evidência L5). Indicação original: Vasodilatadores"
 monitor_inn: "milrinone"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
@@ -50,8 +50,8 @@ Entre as demais previsões, a mais sustentada por evidências é **cor pulmonale
 | Nova Indicação Prevista | Alopecia (Alopecia) |
 | Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 3) |
-| Número de Registros | 3 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 7) |
+| Número de Registros | 7 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 > **Observação:** a previsão de maior pontuação (alopecia) não tem nenhuma evidência real. As previsões com respaldo de evidências (insuficiência cardíaca congestiva e cor pulmonale agudo) estão descritas nas seções seguintes, pois ajudam a orientar a decisão.
@@ -102,11 +102,15 @@ Não há literatura para alopecia. As publicações abaixo se referem a cefaleia
 
 Os 3 registros (3 de 3) estão **válidos**; o medicamento está comercializado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100410234 | Lactato de Milrinona | Não informada | Vasodilatadores |
-| Registro 183260321 | Primacor | Não informada | Vasodilatadores |
-| Registro 174650017 | Lactato de Milrinona | Não informada | Vasodilatadores |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 110110006 | LACTATO DE MILRINONA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 174650017 | LACTATO DE MILRINONA | FARMA VISION IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENT | Ativo |
+| 183260321 | PRIMACOR | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100410234 | LACTATO DE MILRINONA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 113001015 | PRIMACOR | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 119240025 | PRIMACOR | SANOFI WINTHROP FARMACEUTICA LTDA | Cancelado |
+| 120330223 | PRIMACOR | SANOFI - SYNTHELABO FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

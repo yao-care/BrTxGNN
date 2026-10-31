@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 488
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Orlistat: nova indicação prevista, Hipervitaminose (Hypervitaminosis) (nível de evidência L5). Indicação original: Moduladores do metabolismo e da digestão (orlistate)"
 monitor_inn: "orlistat"
 predicted_indications: ["hypervitaminosis"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Hipervitaminose (Hypervitaminosis) |
 | Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 17) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 41) |
+| Número de Registros | 41 (ativos: 17) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -72,13 +72,40 @@ Essa relação é **teórica**: nenhum estudo testou o orlistate como estratégi
 
 Foram encontrados 20 registros **válidos**; o medicamento está comercializado. Principais registros (5 de 20):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 167730493 | Orlistate | Não informada | Orlistate |
-| Registro 102351042 | Orlistate | Não informada | Orlistate |
-| Registro 103720293 | TAT | Não informada | Moduladores do metabolismo e da digestão |
-| Registro 155840399 | Lipoxen | Não informada | Moduladores do metabolismo e da digestão |
-| Registro 105730751 | Sfinge | Não informada | Moduladores do metabolismo e da digestão |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431295 | CORPORE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431315 | ORLISTATE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351042 | ORLISTATE | EMS S/A | Ativo |
+| 102351209 | SILUESTAT | EMS S/A | Ativo |
+| 103720293 | TAT | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 105730748 | ORLISTATE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730751 | SFINGE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830851 | ORLISTATE | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830862 | LIPIBLOCK | GERMED FARMACEUTICA LTDA | Ativo |
+| 123520257 | ORLISTATE | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680258 | ORLISTATE | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680373 | ORLIBE | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135690707 | ORLIPID | EMS SIGMA PHARMA LTDA | Ativo |
+| 141070670 | ORLISTATE | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 155840399 | LIPOXEN | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840527 | ORLISTATE | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 178170849 | LIPOCLIN | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 101000547 | XENICAL | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 102351052 | SILUESTAT | EMS S/A | Cancelado |
+| 105830699 | LIPIBLOCK | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830741 | ORLISTATE | GERMED FARMACEUTICA LTDA | Cancelado |
+| 110130268 | LYSTATE | GLENMARK FARMACÊUTICA LTDA | Cancelado |
+| 118190387 | ORLIBESI | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Cancelado |
+| 118190388 | ORLISTATE | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Cancelado |
+| 123520268 | TOR | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 126750138 | ORLIBESI | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 126750163 | ORLISTATE | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 126750251 | ORLISTATE | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 126750256 | ORLIBESI | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 135690348 | LIPIBLOCK | EMS SIGMA PHARMA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

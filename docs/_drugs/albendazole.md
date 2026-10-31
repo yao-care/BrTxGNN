@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 34
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Albendazole: nova indicação prevista, Equinococose alveolar (Alveolar Echinococcosis) (nível de evidência L2). Indicação original: Anti-helmínticos do trato gastrointestinal"
 monitor_inn: "Albendazole"
 predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
@@ -50,8 +50,8 @@ atualmente com **3 ensaios clínicos** e **20 publicações** apoiando esta dire
 | Nova Indicação Prevista | Equinococose alveolar (Alveolar Echinococcosis) |
 | Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 24 de 97) |
+| Número de Registros | 97 (ativos: 24) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -89,13 +89,40 @@ Na prática, esta previsão está mais próxima de um uso já estabelecido da cl
 
 Foram encontrados 20 registros válidos; o medicamento está comercializado. Principais exemplos:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 154230323 | ALBEL | Não informada | Anti-helmínticos do trato gastrointestinal |
-| Registro nº 105730574 | ALBENDAZOL | Não informada | Anti-helmínticos do trato gastrointestinal |
-| Registro nº 103700685 | ALBENTEL | Não informada | Anti-helmínticos do trato gastrointestinal |
-| Registro nº 125680361 | ELFI | Não informada | Anti-helmínticos do trato gastrointestinal |
-| Registro nº 167730562 | MONOZOL | Não informada | Anti-helmínticos do trato gastrointestinal |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350513 | ALBENDAZOL | EMS S/A | Ativo |
+| 102350662 | ALBENDAZOL | EMS S/A | Ativo |
+| 103700313 | ALBENDAZOL 40 MG/ML SUSPENSÃO ORAL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700492 | ALBENDAZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700685 | ALBENTEL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105730218 | PARASIN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730574 | ALBENDAZOL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 110390213 | ALBENDAZOL | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 118190246 | ALBENDAZOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 120190008 | BENZOL | GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA | Ativo |
+| 125680029 | ALBENDAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680052 | ALBENDAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680361 | ELFI | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680370 | ELFI | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 143810004 | MEBENIX | CIMED INDUSTRIA S.A | Ativo |
+| 143810187 | ALBENDAZOL | CIMED INDUSTRIA S.A | Ativo |
+| 143810196 | MEBENIX | CIMED INDUSTRIA S.A | Ativo |
+| 154230044 | ALBEL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230323 | ALBEL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230329 | ALBENDAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230337 | ALBENDAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 167730294 | ALBENDAZOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730562 | MONOZOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 183260193 | ALBENDAZOL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100020080 | VERMIPERAZIN | LABORATORIO SEDABEL LTDA | Cancelado |
+| 100380064 | ALBEZIN | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 101070089 | ZENTEL | GLAXOSMITHKLINE BRASIL LTDA | Cancelado |
+| 101810486 | ALBENDAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810495 | ALBENDAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810502 | ALBENDAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

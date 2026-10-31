@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Docetaxel: nova indicação prevista, Sarcoma de Ewing (Ewing sarcoma) (nível de evidência L2). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ atualmente com **8 ensaios clínicos** e **20 publicações** apoiando esta dire
 | Nova Indicação Prevista | Sarcoma de Ewing (Ewing sarcoma) |
 | Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 29) |
+| Número de Registros | 29 (ativos: 15) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?

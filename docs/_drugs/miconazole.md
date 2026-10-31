@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (acne vulgaris)**, mas atu
 | Nova Indicação Prevista | Acne (acne vulgaris) |
 | Pontuação de Previsão TxGNN | 0,9954 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 16) |
-| Número de Registros | 16 (ativos: 14) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 131) |
+| Número de Registros | 131 (ativos: 15) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -78,13 +78,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 105710019 | COLPADAK | Não informada | Antimicótico |
-| Registro 157211207 | DAKTARIN GEL ORAL | Gel oral | Antimicóticos para uso tópico |
-| Registro 135640005 | GYNOTRAN | Não informada | Produtos ginecológicos antiinfecciosos tópicos, associação medicamentosa |
-| Registro 105710177 | TRINIZOL-M | Não informada | Amebicidas, giardicidas e tricomonicidas |
-| Registro 103700575 | DERMOVAGIN | Não informada | Antimicóticos para uso tópico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430991 | CREVAGIN | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431293 | TINIDAZOL + NITRATO DE MICONAZOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102980290 | TINIDAZOL + NITRATO DE MICONAZOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700575 | DERMOVAGIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700577 | TINIDAZOL + NITRATO DE MICONAZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105710177 | TRINIZOL-M | BELFAR LTDA | Ativo |
+| 125680386 | TINIDAZOL + NITRATO DE MICONAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135640005 | GYNOTRAN | EXELTIS LABORATORIO FARMACEUTICO LTDA | Ativo |
+| 135640013 | METRONIDAZOL + NITRATO DE MICONAZOL | EXELTIS LABORATORIO FARMACEUTICO LTDA | Ativo |
+| 154230112 | GINO-COLON | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230115 | TINIDAZOL + NITRATO DE MICONAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 156510132 | METRONIDAZOL + NITRATO DE MICONAZOL | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 157211207 | DAKTARIN GEL ORAL | KENVUE LTDA. | Ativo |
+| 178170068 | TINIDAZOL + NITRATO DE MICONAZOL | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 178170806 | AMPLIUM G | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 100920060 | MICOTICS | LABORATORIO INDUSTRIAL FARMACÊUTICO LIFAR LTDA | Cancelado |
+| 100930205 | LOTRIMIN | MANTECORP INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A. | Cancelado |
+| 101710063 | GINEDAK | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Cancelado |
+| 101810298 | FACYL M | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810368 | TINIDAZOL + NITRATO DE MICONAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810393 | NITRATO DE MICONAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810410 | NITRATO DE MICONAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810528 | NITRATO DE MICONAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101910259 | AMICOSE | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102160166 | GINO-PLETIL | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102350251 | KETOGIN | EMS S/A | Cancelado |
+| 102350543 | DAKGRAN | EMS S/A | Cancelado |
+| 102350620 | NITRATO DE MICONAZOL | EMS S/A | Cancelado |
+| 102350622 | NITRATO DE MICONAZOL | EMS S/A | Cancelado |
+| 102350706 | TINIDAZOL + NITRATO DE MICONAZOL | EMS S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

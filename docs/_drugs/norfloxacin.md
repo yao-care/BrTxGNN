@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Norfloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Norfloxacin: nova indicação prevista, Síndrome de hiperviscosidade policlonal (nível de evidência L5). Indicação original: Infecções bacterianas (infecção urinária, febre tifoide, disenteria…"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **síndrome de hiperviscosidade p
 | Nova Indicação Prevista | Síndrome de hiperviscosidade policlonal |
 | Pontuação de Previsão TxGNN | 0,9970 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 1) |
-| Número de Registros | Pelo menos 20 registros de medicamentos de ingrediente único (a lista pode estar incompleta) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 85) |
+| Número de Registros | 85 (ativos: 20) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -73,13 +73,40 @@ Atualmente não há literatura relacionada com a síndrome de hiperviscosidade p
 
 Dos registros listados (lista possivelmente parcial), 2 estão válidos e 18 cancelados. Abaixo, os registros válidos e alguns cancelados. Os registros não trazem forma farmacêutica nem texto de indicação aprovada.
 
-| Número de Registro | Nome Comercial | Situação | Fabricante |
-|---------|------|------|-----------|
-| Registro nº 109170100 | Norfloxacino | Válido | Medquímica Indústria Farmacêutica Ltda. |
-| Registro nº 104810106 | Norfloxacino | Válido | 1Farma Indústria Farmacêutica Ltda. |
-| Registro nº 155840328 | Neofloxin | Cancelado | Brainfarma |
-| Registro nº 172870202 | Neofloxin | Cancelado | Hypera S.A. |
-| Registro nº 100890225 | Uroseptal | Cancelado | Merck S/A |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431276 | NORFLOXACINO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470435 | NORFLOXACINO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102351112 | NORFLOXACINO | EMS S/A | Ativo |
+| 103700245 | ANDROFLOXIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700483 | NORFLOXACINO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104810106 | NORFLOXACINO | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105350097 | NORXACIN | LABORATÓRIO GLOBO SA | Ativo |
+| 105350164 | NORFLOXACINO | LABORATÓRIO GLOBO SA | Ativo |
+| 105710116 | UROTROBEL | BELFAR LTDA | Ativo |
+| 105710190 | NORFLOXACINO | BELFAR LTDA | Ativo |
+| 105830309 | NORFLOXACINO | GERMED FARMACEUTICA LTDA | Ativo |
+| 117170073 | NORFLOXACINO | PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A | Ativo |
+| 118190068 | NORFLOXACINO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520065 | NORFLOXACINO | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680154 | NORFLOXACINO | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135690695 | NORF | EMS SIGMA PHARMA LTDA | Ativo |
+| 143810170 | NORFLOXACINO | CIMED INDUSTRIA S.A | Ativo |
+| 154230281 | NORFLOXACINO | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840064 | NORFLOXACINO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 183260141 | NORFLOXACINO | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100290021 | FLOXACIN | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 100290148 | RESPEXIL | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 100330031 | URITRAT | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100380072 | FLOXIN | BRASTERAPICA PHARMACEUTICA LTDA. | Cancelado |
+| 100431219 | NORFLOXACINO | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470269 | FLOX | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470623 | FLOX | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680177 | NORFLOXACINO | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100890225 | UROSEPTAL | MERCK S/A | Cancelado |
+| 100890295 | NORFLOXACINO | MERCK S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

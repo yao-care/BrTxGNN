@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 481
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Nystatin: nova indicação prevista, Vulvovaginite (vulvovaginitis) (nível de evidência L3). Indicação original: Antimicótico"
 monitor_inn: "Nystatin"
 predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
@@ -52,8 +52,8 @@ Atualmente, há **0 ensaios clínicos** e **20 publicações** (todas revisões,
 | Nova Indicação Prevista | Vulvovaginite (vulvovaginitis) |
 | Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 67 de 235) |
+| Número de Registros | 235 (ativos: 67) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -97,13 +97,40 @@ Foram compiladas 20 publicações. Abaixo estão as 10 mais relevantes, prioriza
 
 Foram encontrados 20 registros, todos **válidos**. Abaixo estão os 5 primeiros. A forma farmacêutica não consta nos dados compilados.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 115600164 | Nistatina | Não informada | Antimicótico |
-| Registro nº 109630053 | Nistatina | Não informada | Antimicótico |
-| Registro nº 138410028 | Nistamax | Não informada | Antimicótico |
-| Registro nº 104971474 | Nidazolin | Não informada | Antimicótico |
-| Registro nº 107150112 | Albistin | Não informada | Antimicótico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430972 | TRIANCINOLONA ACETONIDA + SULFATO DE NEOMICINA + GRAMICIDINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430973 | TRIANCINOLONA ACETONIDA + SULFATO DE NEOMICINA + GRAMICIDINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101550007 | TRIVAGEL N | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 102350505 | NISTATINA | EMS S/A | Ativo |
+| 102350650 | ACETONIDO DE TRIANCINOLONA+SULFATO DE NEOMICINA+GRAMICIDINA+ | EMS S/A | Ativo |
+| 102350651 | ACETONIDO DE TRIANCINOLONA+SULFATO DE NEOMICINA+GRAMICIDINA+ | EMS S/A | Ativo |
+| 102351284 | NISTATINA + ÓXIDO DE ZINCO | EMS S/A | Ativo |
+| 102351356 | POMAGLÓS TRATAMENTO | EMS S/A | Ativo |
+| 102980260 | NISTATINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700007 | COLPATRIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700078 | CANDITRAT | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700305 | NISTATINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700482 | NISTATINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700556 | HIPODERTRAT | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700558 | NISTATINA + ÓXIDO DE ZINCO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700664 | METRONIDAZOL + NISTATINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103850004 | BENZEVIT | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 103900059 | COLPISTAR | FARMOQUÍMICA S/A | Ativo |
+| 104810156 | NISTATINA + OXIDO DE ZINCO | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104971474 | NIDAZOLIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350158 | NISTATINA + OXIDO DE ZINCO | LABORATÓRIO GLOBO SA | Ativo |
+| 105350166 | DERMONASE | LABORATÓRIO GLOBO SA | Ativo |
+| 105730008 | COLPISTATIN | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830468 | NISTATINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830951 | NISTATINA + ÓXIDO DE ZINCO | GERMED FARMACEUTICA LTDA | Ativo |
+| 106390260 | DERMODEX | TAKEDA PHARMA LTDA. | Ativo |
+| 107150089 | TRICOMAX | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 107150112 | ALBISTIN | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 107150161 | ALIVBABY | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 109630053 | NISTATINA | THEODORO F SOBRAL & CIA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 Outros nomes comerciais com registro cancelado incluem Micostalab, Nistrazin, Canditrat e Neo Mistatin.
 

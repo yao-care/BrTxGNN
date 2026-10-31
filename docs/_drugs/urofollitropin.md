@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 661
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Urofollitropin: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Hormônio gonadotrófico"
 monitor_inn: "urofollitropin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
 | Pontuação de Previsão TxGNN | 0,9985 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
+| Número de Registros | 4 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -64,9 +64,12 @@ Outras indicações previstas, como enxaqueca com aura de tronco encefálico, s�
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 187590013 (cancelado) | FOSTIMON-M | Não informada | Hormônio gonadotrófico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 187590013 | FOSTIMON-M | BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA | Ativo |
+| 123610009 | FOSTIMON | UCB BIOPHARMA LTDA. | Cancelado |
+| 123610080 | FOSTIMON-M | UCB BIOPHARMA LTDA. | Cancelado |
+| 128760016 | BRAVELLE | LABORATÓRIOS FERRING LTDA | Cancelado |
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 586
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: nova indicação prevista, Brain stem infarction (nível de evidência L5). Indicação original: ANTILIPEMICOS"
@@ -50,8 +50,8 @@ atualmente com **8 ensaios clínicos** e **20 publicações** apoiando esta dire
 | Nova Indicação Prevista | Brain stem infarction |
 | Pontuação de Previsão TxGNN | 0.9941 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 39 de 110) |
+| Número de Registros | 110 (ativos: 39) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -97,13 +97,40 @@ Observação: apenas dois ensaios (NCT00552097 e NCT00129402) têm a sinvastatin
 
 O medicamento está comercializado, com **20 registros válidos** atualmente. Os cinco principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 118190228 | MENOCOL | Não informada | Antilipêmicos |
-| Registro nº 154230264 | SINVASTATINA | Não informada | Antilipêmicos |
-| Registro nº 118190226 | SINVASTATINA | Não informada | Antilipêmicos |
-| Registro nº 101460061 | SINVASCOR | Não informada | Antilipêmicos |
-| Registro nº 141070108 | SINVASTATINA | Não informada | Antilipêmicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290135 | VYTORIN | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290215 | ZETSIM | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100470270 | SINVASTACOR | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470472 | SINVASTATINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681124 | SINVASTATINA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100890254 | CLINFAR | MERCK S/A | Ativo |
+| 101460061 | SINVASCOR | LABORATÓRIOS BALDACCI LTDA | Ativo |
+| 101460091 | SINVASCOR EZE | LABORATÓRIOS BALDACCI LTDA | Ativo |
+| 102350487 | SINVASTATINA | EMS S/A | Ativo |
+| 102351139 | EZETIMIBA + SINVASTATINA | EMS S/A | Ativo |
+| 102351255 | SINVALIP | EMS S/A | Ativo |
+| 104300043 | UNAK | DIFFUCAP - CHEMOBRÁS QUÍMICA E FARMACÊUTICA LTDA | Ativo |
+| 105350185 | SINVASTATINA | LABORATÓRIO GLOBO SA | Ativo |
+| 105350188 | SINVASMAX | LABORATÓRIO GLOBO SA | Ativo |
+| 105350219 | SIMLIP | LABORATÓRIO GLOBO SA | Ativo |
+| 105830814 | EZETIMIBA + SINVASTATINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830919 | SINVASTATINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740084 | VASLIP | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740235 | POSICOR SIN | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740263 | SINVASTATINA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740296 | EZETIMIBA + SINVASTATINA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 110390194 | SINVASTATINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 118190226 | SINVASTATINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190228 | MENOCOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190316 | EMIBAZET SINV | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190370 | SINVASTATINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190425 | SINZETAB | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190450 | LIPISTATINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520048 | SINVASTATINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 123520302 | EZETIMIBA + SINVASTATINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 Outros nomes comerciais entre os registros cancelados: Clinfar, Simlip, Sinvastacor, Sinvax e Sinvastamed.
 

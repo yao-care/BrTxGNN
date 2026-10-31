@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Mastocitoma extracutâneo (extracutaneous mastocytoma) |
 | Pontuação de Previsão TxGNN | 0,9964 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
+| Número de Registros | 3 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -85,9 +85,11 @@ Para a indicação principal (mastocitoma extracutâneo), atualmente não há li
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 171260007 (cancelado) | SYLVANT | Não informada | Imunossupressor |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 171260007 | SYLVANT | RECORDATI RARE DISEASES COMÉRCIO DE MEDICAMENTOS L | Ativo |
+| 112363411 | SYLVANT | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 151890004 | SYLVANT | COLLECT IMPORTAÇÃO E COMÉRCIO LTDA | Cancelado |
 
 ## Considerações de Segurança
 

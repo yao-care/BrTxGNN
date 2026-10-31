@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 477
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Norelgestromin: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L5). Indicação original: Anticoncepcionais"
 monitor_inn: "norelgestromin"
 predicted_indications: ["amenorrhea (disease)"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Amenorreia (amenorrhea)**, mas 
 | Nova Indicação Prevista | Amenorreia (amenorrhea) |
 | Pontuação de Previsão TxGNN | 0,9951 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -63,9 +63,10 @@ A pontuação muito alta (0,9951) é uma previsão baseada em modelo e pode refl
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 191290002 (cancelado) | EVRA | Não informada | Anticoncepcionais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 191290002 | EVRA | GEDEON RICHTER DO BRASIL IMPORTADORA, EXPORTADORA  | Ativo |
+| 112363359 | EVRA | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **pneumocistose (Pneumocystosis)*
 | Nova Indicação Prevista | Pneumocistose (Pneumocystosis) |
 | Pontuação de Previsão TxGNN | 0,9977 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -89,9 +89,10 @@ Nenhum desses trabalhos demonstra eficácia do posaconazol contra a pneumocistos
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 101710196 (cancelado) | NOXAFIL | Não informada | Antimicóticos sistêmicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101710196 | NOXAFIL | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Ativo |
+| 166140011 | NOXAFIL | SCHERING-PLOUGH PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
 
 ---
 

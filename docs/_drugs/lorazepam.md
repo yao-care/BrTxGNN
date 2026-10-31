@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 425
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: nova indicação prevista, Neoplasia do Nervo Trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Neoplasia do Nervo Trigêmeo (T
 | Nova Indicação Prevista | Neoplasia do Nervo Trigêmeo (trigeminal nerve neoplasm) |
 | Pontuação de Previsão TxGNN | 0.9987 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 24) |
+| Número de Registros | 24 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Etoricoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Etoricoxib: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** vinculada
 | Nova Indicação Prevista | Transtorno de enxaqueca (migraine disorder) |
 | Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 17) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 29 de 32) |
+| Número de Registros | 32 (ativos: 29) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 361
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Iloprost: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the s… (nível de evidência L5). Indicação original: PROSTAGLANDINAS"
 monitor_inn: "iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **hipotricose simples do couro ca
 | Nova Indicação Prevista | Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) |
 | Pontuação de Previsão TxGNN | 0,9945 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -81,9 +81,10 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 170560076 (cancelado) | VENTAVIS | Não informada | PROSTAGLANDINAS |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 170560076 | VENTAVIS | BAYER S.A. | Ativo |
+| 100200122 | VENTAVIS | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
 
 ---
 

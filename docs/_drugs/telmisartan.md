@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 609
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 description: "Telmisartan: nova indicação prevista, Prinzmetal angina (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Oclusão de Artéria Cerebral (
 | Nova Indicação Prevista | Prinzmetal angina |
 | Pontuação de Previsão TxGNN | 0.9998 |
 | Nível de Evidência | L5 (atribuído de forma conservadora; apoio majoritariamente pré-clínico e indireto) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 24 de 49) |
+| Número de Registros | 49 (ativos: 24) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

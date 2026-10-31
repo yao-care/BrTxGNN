@@ -5,7 +5,7 @@ layout: default
 title: Bisacodyl
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 143
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | LAXANTES IRRITANTES OU ESTIMULANTES; LAXANTES |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
-| Número de Registros | 9 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 30) |
+| Número de Registros | 30 (ativos: 9) |
 
 ---
 

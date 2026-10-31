@@ -5,7 +5,7 @@ layout: default
 title: Leucine
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 402
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | NUTRIENTES PARENTERAIS; REPOSICAO HIDROELETROLITICA E ALIMENTACAO PARENTERAL |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
-| Número de Registros | 16 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 31) |
+| Número de Registros | 31 (ativos: 14) |
 
 ---
 

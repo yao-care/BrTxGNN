@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 565
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Rifampicin: nova indicação prevista, Conjuntivite (conjunctivitis) (nível de evidência L3). Indicação original: RIFAMPICINAS"
@@ -50,8 +50,8 @@ atualmente com **0 ensaios clínicos** e **19 publicações** recuperadas nesta 
 | Nova Indicação Prevista | Conjuntivite (conjunctivitis) |
 | Pontuação de Previsão TxGNN | 0.9995 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 33) |
+| Número de Registros | 33 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -83,13 +83,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 183260374 (cancelado) | RIFALDIN | Não informada | Rifampicinas |
-| Registro 112080026 (cancelado) | RIFAMPICINA | Não informada | Rifampicinas |
-| Registro 110390016 (cancelado) | FURP-RIFAMPICINA | Não informada | Rifampicinas |
-| Registro 110630139 (cancelado) | FARMANGUINHOS ISONIAZIDA + RIFAMPICINA | Não informada | Tuberculostáticos |
-| Registro 110630140 (cancelado) | FARMANGUINHOS RIFAMPICINA+ISONIAZIDA+PIRAZINAMIDA+ETAMBUTOL | Não informada | Tuberculostáticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 110390016 | FURP-RIFAMPICINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 110630139 | FARMANGUINHOS ISONIAZIDA + RIFAMPICINA | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 110630140 | FARMANGUINHOS RIFAMPICINA+ISONIAZIDA+PIRAZINAMIDA+ETAMBUTOL | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 112080026 | RIFAMPICINA | LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO | Ativo |
+| 183260374 | RIFALDIN | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 101830005 | LAFEPE- ISONIAZIDA + RIFAMPICINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 101830009 | LAFEPE - RIFAMPICINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 101830094 | LAFEPE- ISONIAZIDA + RIFAMPICINA | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Cancelado |
+| 102350324 | RIFAMISON | EMS S/A | Cancelado |
+| 102980167 | MULTIBACILAR | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 102980246 | RIFAMPICINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 103110054 | ISOFAN | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 103920111 | RIFANPTIL | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104070071 | RIFAMPICINA IVB | INSTITUTO VITAL BRAZIL S/A | Cancelado |
+| 104070077 | ISONIAZIDA + RIFAMPICINA | INSTITUTO VITAL BRAZIL S/A | Cancelado |
+| 104080045 | RIFADAL | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 104080051 | RIFANTEX | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 107140100 | MONICIL | SANVAL COMERCIO E INDUSTRIA LTDA | Cancelado |
+| 107140101 | ISONIATON | SANVAL COMERCIO E INDUSTRIA LTDA | Cancelado |
+| 108580246 | RIFAZOMIDA | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 108840299 | IQUEGO-ISONIAZIDA + RIFAMPICINA | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Cancelado |
+| 110390166 | FURP - ISONIAZIDA + RIFAMPICINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+| 110500021 | LIFAL RIFAMPICINA | LAB INDL FTCO ALAGOAS SA - LIFAL | Cancelado |
+| 110630075 | FARMANGUINHOS - RIFAMPICINA | FUNDAÇÃO OSWALDO CRUZ | Cancelado |
+| 110630079 | FARMANGUINHOS - ISONIAZIDA + RIFAMPICINA | FUNDAÇÃO OSWALDO CRUZ | Cancelado |
+| 112060007 | NUPLAM - ISONIAZIDA + RIFAMPICINA | UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE | Cancelado |
+| 112060019 | NUPLAM - RIFAMPICINA | UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE | Cancelado |
+| 113000175 | RIFALDIN | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
+| 113050032 | RIFANSIL COMPOSTO | LUMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 113050033 | RIFANSIL | LUMA INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

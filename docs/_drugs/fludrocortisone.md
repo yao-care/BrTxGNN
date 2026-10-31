@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 320
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fludrocortisone: nova indicação prevista, Linfoma cutâneo primário de células T (primary cutaneous T-cell lymph… (nível de evidência L5). Indicação original: Mineralocorticoides"
 monitor_inn: "fludrocortisone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "cystic teratoma", "spinal cord dermoid cyst", "dermoid cyst of ovary", "disease of orbital part of eye adnexa", "eye disease", "disease of orbital region", "exostosis"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **linfoma cutâneo primário de c
 | Nova Indicação Prevista | Linfoma cutâneo primário de células T (primary cutaneous T-cell lymphoma) |
 | Pontuação de Previsão TxGNN | 0,9958 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
+| Número de Registros | 4 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -69,9 +69,12 @@ A pontuação alta (0,9958) reflete apenas a previsão computacional do modelo, 
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 137640160 (cancelado) | FLORINEFE | Não informada | MINERALOCORTICOIDES |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 137640160 | FLORINEFE | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100840102 | PANOTIL | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Cancelado |
+| 100840112 | RINOFLUIMUCIL | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Cancelado |
+| 101800022 | FLORINEFE | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
 
 ---
 

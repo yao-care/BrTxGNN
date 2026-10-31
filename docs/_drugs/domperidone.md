@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 275
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Domperidone: nova indicação prevista, Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrom… (nível de evidência L5). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "DOMPERIDONE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
 | Pontuação de Previsão TxGNN | 0,9908 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 19) |
-| Número de Registros | 19 (ativos: 19) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 40) |
+| Número de Registros | 40 (ativos: 19) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,13 +66,40 @@ A pontuação vem do modelo TxGNN (aprendizado profundo) e pode refletir semelha
 
 Todos os 19 registros encontram-se válidos; abaixo, os 5 primeiros. A forma farmacêutica não consta nos dados compilados.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 167730457 | Dompgran | Não informada | Antieméticos e antinauseantes |
-| Registro nº 105830824 | Motiridona | Não informada | Antieméticos e antinauseantes |
-| Registro nº 105710187 | Perigite | Não informada | Antieméticos e antinauseantes |
-| Registro nº 135690689 | Molidon | Não informada | Antieméticos e antinauseantes |
-| Registro nº 155840633 | Domperidona | Não informada | Antieméticos e antinauseantes |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431033 | DOMPERIX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431163 | DOMPERIDONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350999 | DOMPERIDONA | EMS S/A | Ativo |
+| 102351115 | DOMPLIV | EMS S/A | Ativo |
+| 105710174 | PERIGITE | BELFAR LTDA | Ativo |
+| 105710187 | PERIGITE | BELFAR LTDA | Ativo |
+| 105730723 | DOMPED | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830824 | MOTIRIDONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830825 | DOMPERIDONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190330 | DOMPERIDONA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520192 | DOMPERIDONA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 135690689 | MOLIDON | EMS SIGMA PHARMA LTDA | Ativo |
+| 143810265 | DOMPERIDONA | CIMED INDUSTRIA S.A | Ativo |
+| 155840633 | DOMPERIDONA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 157211213 | MOTILIUM | KENVUE LTDA. | Ativo |
+| 167730457 | DOMPGRAN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730458 | DOMPERIDONA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 178170884 | PERIDAL | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 183260145 | DOMPERIDONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100431032 | DOMPERIDONA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 101810422 | PERIDAL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810459 | LANSODOM | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810517 | DOMPERIDONA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810646 | DOMPERIDONA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350982 | DOMPLIV | EMS S/A | Cancelado |
+| 105500140 | PERIDONA | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105500197 | PERIGITE | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105500198 | PERIGITE | UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105830687 | MOTIRIDONA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830692 | DOMPERIDONA | GERMED FARMACEUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

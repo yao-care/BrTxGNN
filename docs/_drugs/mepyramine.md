@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 444
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "mepyramine"
 predicted_indications: ["nasal cavity disease"]
 description: "Mepyramine: nova indicação prevista, Nasal cavity disease (nível de evidência L5). Indicação original: DESCONGESTIONANTES NASAIS TOPICOS"
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **4 publicações** indireta
 | Nova Indicação Prevista | Nasal cavity disease |
 | Pontuação de Previsão TxGNN | 0.9974 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 19) |
+| Número de Registros | 19 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -77,11 +77,27 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102350145 (cancelado) | NARIDRIN | Não informada | Descongestionantes nasais tópicos |
-| Registro nº 117170079 (cancelado) | ENJOY | Não informada | Analgésicos contra enxaqueca |
-| Registro nº 178170093 (cancelado) | ENGOV | Não informada | Outros produtos para o aparelho digestivo e metabolismo |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350145 | NARIDRIN | EMS S/A | Ativo |
+| 117170079 | ENJOY | PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A | Ativo |
+| 178170093 | ENGOV | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 100140029 | GINOMETRIM | QUIMICA FARMACEUTICA NIKKHO DO BRASIL LTDA | Cancelado |
+| 100490100 | NORMALIZAN | LABORATÓRIO SAÚDE LTDA | Cancelado |
+| 100663394 | POSDRINK | LABORATORIO CATARINENSE LTDA | Cancelado |
+| 100870001 | ANTITERMIN | QUIMIOTERAPICA BRASILEIRA LTDA | Cancelado |
+| 102690021 | GRIPAL COMPOSTO | INSTITUTO NACIONAL QUIMIOTERAPIA | Cancelado |
+| 102860005 | NORMALISAN | LABORATORIO SAUDE LTDA | Cancelado |
+| 104920013 | CONIDRIN | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 104970003 | ANALGEX C | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 108170058 | BENZOMEL PEDIATRICO | CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S | Cancelado |
+| 108580243 | ALERGITANIL | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 109220116 | ENJOY | H B FARMA LABORATÓRIOS LTDA | Cancelado |
+| 115600067 | NARIFLUX | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Cancelado |
+| 122830037 | ENGOV | DM INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 137640177 | ENJOY | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 142570069 | NAZOSIL | LUCIOMED FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 172870036 | ENGOV | HYPERA S.A. | Cancelado |
 
 ## Considerações de Segurança
 

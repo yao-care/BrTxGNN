@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 357
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Hydroquinone: nova indicação prevista, Ceratose Seborreica (Seborrheic Keratosis) (nível de evidência L4). Indicação original: Desmelanizantes (despigmentantes)"
 monitor_inn: "hydroquinone"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (estudo o
 | Nova Indicação Prevista | Ceratose Seborreica (Seborrheic Keratosis) |
 | Pontuação de Previsão TxGNN | 0,9973 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 12) |
-| Número de Registros | 12 (ativos: 11) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 11 de 40) |
+| Número de Registros | 40 (ativos: 11) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -86,13 +86,40 @@ Atualmente não há ensaios clínicos relacionados registrados para ceratose seb
 
 Os 12 registros no Brasil estão vigentes; o medicamento é comercializado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 102351141 | Hidroquinona | — | Desmelanizantes |
-| Registro 105830901 | Hidroquinona | — | Desmelanizantes |
-| Registro 105830634 | Claquinona | — | Desmelanizantes |
-| Registro 167730559 | Hidroquinona | — | Desmelanizantes |
-| Registro 167730561 | Cleankinol | — | Desmelanizantes |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350930 | HIDROQUINONA+ TRETINOINA + FLUOCINOLONA ACETONIDA | EMS S/A | Ativo |
+| 102351141 | HIDROQUINONA | EMS S/A | Ativo |
+| 102351142 | HIDROPEEK | EMS S/A | Ativo |
+| 105830630 | HORMOSKIN | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830634 | CLAQUINONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830901 | HIDROQUINONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109170130 | SOLAQUIN | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 135690690 | LUMIDERM | EMS SIGMA PHARMA LTDA | Ativo |
+| 167730078 | SUAVICID | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730559 | HIDROQUINONA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730561 | CLEANKINOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101810572 | TRIDERM | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810602 | FLUOCINOLONA ACETONIDA+HIDROQUINONA+TRETINOÍNA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350912 | HIDROQUINONA | EMS S/A | Cancelado |
+| 102350933 | TRINULOX | EMS S/A | Cancelado |
+| 102350937 | HIDROPEEK | EMS S/A | Cancelado |
+| 102350955 | HIDROQUINONA | EMS S/A | Cancelado |
+| 105750054 | SOLAQUIN | VALEANT FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 105750056 | ELDOQUIN | VALEANT FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 105750061 | GLYQUIN XM | VALEANT FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 105830610 | HIDROQUINONA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830629 | HIDROQUINONA + TRETINOINA + FLUOCINOLONA  ACETONIDA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830649 | HIDROQUINONA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 106750050 | CLARIPEL | LABORATÓRIOS STIEFEL LTDA | Cancelado |
+| 109170136 | GLYQUIN XM | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Cancelado |
+| 119610020 | SOLAQUIN | BL INDÚSTRIA OTICA LTDA | Cancelado |
+| 119610023 | GLYQUIN XM | BL INDÚSTRIA OTICA LTDA | Cancelado |
+| 129160048 | TRI-LUMA | GALDERMA BRASIL LTDA | Cancelado |
+| 135690497 | HIDROQUINONA | EMS SIGMA PHARMA LTDA | Cancelado |
+| 135690521 | OSKIN | EMS SIGMA PHARMA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 Há ainda outros 7 registros cancelados (entre eles Solaquin, Hidropeek, Lumiderm, Glyquin XM, Suavicid, Hormoskin e uma associação de hidroquinona + tretinoína + acetonido de fluocinolona).
 

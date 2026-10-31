@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 217
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cetrorelix: nova indicação prevista, Hipertricose (hypertrichosis) (nível de evidência L5). Indicação original: Hormônios da hipófise"
 monitor_inn: "cetrorelix"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "persistent fetal circulation syndrome", "familial isolated trichomegaly", "familial male-limited precocious puberty", "aromatase excess syndrome", "centra precocious puberty 1"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertricose (hypertrichosis)**
 | Nova Indicação Prevista | Hipertricose (hypertrichosis) |
 | Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -83,9 +83,10 @@ As demais previsões entre as 10 primeiras também carecem de evidências (todas
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100890369 (cancelado) | CETROTIDE | Não informada | Hormônios da hipófise |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100890369 | CETROTIDE | MERCK S/A | Ativo |
+| 111240220 | CETROTIDE | SERONO PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
 
 ---
 

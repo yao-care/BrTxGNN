@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 613
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Teprotumumab: nova indicação prevista, Monossomia do X (Monosomy X) (nível de evidência L5). Indicação original: Imunossupressor"
 monitor_inn: "teprotumumab"
 predicted_indications: ["monosomy X", "esophageal varices with bleeding", "esophageal varices without bleeding", "mixed gonadal dysgenesis", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Turner syndrome due to structural X chromosome anomalies", "mosaic monosomy X", "sex chromosome disorder of sex development", "varicose disease", "X chromosome number anomaly"]
@@ -49,8 +49,8 @@ O modelo TxGNN (deep learning) prevê que pode ser eficaz para **monossomia do X
 | Nova Indicação Prevista | Monossomia do X (Monosomy X) |
 | Pontuação de Previsão TxGNN | 0,9979 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -79,9 +79,10 @@ Nenhuma das demais previsões apresenta ensaios clínicos ou literatura.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 102440025 (cancelado) | TEPEZZA | Não informada | Imunossupressor |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102440025 | TEPEZZA | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
+| 154280002 | TEPEZZA | HORIZON THERAPEUTICS BRASIL LTDA. | Cancelado |
 
 ## Considerações de Segurança
 

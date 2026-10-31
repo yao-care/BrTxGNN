@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 50
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Amikacin: nova indicação prevista, Febre paratifoide (paratyphoid fever) (nível de evidência L4). Indicação original: Aminoglicosídeos"
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **febre paratifoide (paratyphoid 
 | Nova Indicação Prevista | Febre paratifoide (paratyphoid fever) |
 | Pontuação de Previsão TxGNN | 0,9982 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 3) |
-| Número de Registros | 3 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 18) |
+| Número de Registros | 18 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -78,11 +78,26 @@ Também há um estudo de sensibilidade de *S. typhi* (PMID 8354556, 1993) em que
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada | Situação |
-|---------|------|------|-----------|------|
-| Registro nº 113430141 | Sulfato de Amicacina | Não informada | Aminoglicosídeos | Cancelado |
-| Registro nº 100410217 | Sulfato de Amicacina | Não informada | Aminoglicosídeos | Cancelado |
-| Registro nº 103700297 | Sulfato de Amicacina | Não informada | Aminoglicosídeos | Cancelado |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 103700297 | SULFATO DE AMICACINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 110110002 | SULFATO DE AMICACINA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 113430141 | SULFATO DE AMICACINA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 100410217 | SULFATO DE AMICACINA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430718 | SULFATO DE AMICACINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 101800106 | NOVAMIN | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 102350446 | SULFATO DE AMICACINA | EMS S/A | Cancelado |
+| 102700055 | AMICILON | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 103110059 | HICACINA | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 103870048 | HYMYCIN | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Cancelado |
+| 104080023 | AMICALIN | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 108580248 | AMICAN | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 110390139 | SULFATO DE AMICACINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Cancelado |
+| 114020008 | NOVAMICACIM | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 114020044 | SULFATO DE AMICACINA | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 116370107 | AMICILON | BLAU FARMACÊUTICA S.A. | Cancelado |
+| 120190055 | KLEBICIL | GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+| 189000008 | AMICILON | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
 
 ## Considerações de Segurança
 

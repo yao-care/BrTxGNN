@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
 description: "Carbetocin: nova indicação prevista, Síndrome semelhante à isotretinoína (isotretinoin-like syndrome) (nível de evidência L5). Indicação original: PREPARAÇÕES HORMONAIS PARA USO SISTÊMICO…"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que ela possa ser eficaz para a **síndrome semelhante à 
 | Nova Indicação Prevista | Síndrome semelhante à isotretinoína (isotretinoin-like syndrome) |
 | Pontuação de Previsão TxGNN | 0.9915 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 3) |
+| Número de Registros | 3 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -65,10 +65,11 @@ Uma segunda previsão do modelo, a síndrome de Goodman (acrocefalopolissindacti
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 128760024 (cancelado) | DURATOCIN | Não informada | Preparações hormonais para uso sistêmico, excluindo hormônios sexuais e insulinas |
-| Registro 128760025 (cancelado) | TOCYNAE | Não informada | Preparações hormonais para uso sistêmico, excluindo hormônios sexuais e insulinas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 128760024 | DURATOCIN | LABORATÓRIOS FERRING LTDA | Ativo |
+| 128760025 | TOCYNAE | LABORATÓRIOS FERRING LTDA | Ativo |
+| 128760012 | DURATOCIN | LABORATÓRIOS FERRING LTDA | Cancelado |
 
 ## Considerações de Segurança
 

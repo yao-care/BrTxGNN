@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Bilastina é um anti-histamínico H1 de segunda geração, indicado para o trata
 | Nova Indicação Prevista | Análise TxGNN pendente |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | — |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 17 de 19) |
-| Número de Registros | 19 (ativos: 17) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 21 de 23) |
+| Número de Registros | 23 (ativos: 21) |
 | Decisão Recomendada | Hold |
 
 ---

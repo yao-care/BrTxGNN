@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 112
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -68,9 +68,9 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis n
 
 O fármaco possui **1 registro ativo** com status "Já Comercializado". Os detalhes individuais do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram populados** no Evidence Pack atual e precisam ser recuperados via download da bula na ANVISA.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|--------------------|----------------|--------------------|--------------------|
-| *(não disponível)* | *(não disponível)* | *(não disponível)* | *(não disponível)* |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101070295 | BENLYSTA | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
 
 ---
 

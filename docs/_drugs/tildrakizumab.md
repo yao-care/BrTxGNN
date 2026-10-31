@@ -71,9 +71,9 @@ Outras indicações previstas, todas também em nível L5 e com recomendação H
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 146820112 (cancelado) | ILUMYA | Não informada | Imunomodulador |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 146820112 | ILUMYA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
 
 ## Considerações de Segurança
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Empagliflozin: nova indicação prevista, Síndrome do membro rígido focal (focal stiff limb syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Síndrome do membro rígido focal (focal stiff limb syndrome) |
 | Pontuação de Previsão TxGNN | 0.9906 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
-| Número de Registros | 8 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 27 de 27) |
+| Número de Registros | 27 (ativos: 27) |
 | Decisão Recomendada | Hold |
 
 Outras previsões do modelo, também sem qualquer evidência: síndrome da pessoa rígida clássica (0.9906) e opsismodisplasia (0.9903).
@@ -66,13 +66,35 @@ A pontuação alta (0,9903) vem do modelo TxGNN (deep learning) e pode refletir 
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 105831024 | Empagliflozina (Germed) | Não informada | Texto de indicação não disponível |
-| 103670172 | Jardiance | Não informada | Texto de indicação não disponível |
-| 103670176 | Glyxambi | Não informada | Texto de indicação não disponível |
-| 102351414 | Glempa | Não informada | Texto de indicação não disponível |
-| 102351416 | Empagliflozina (EMS) | Não informada | Texto de indicação não disponível |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330234 | EMPATIQ | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431588 | EMP | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431593 | EMPAGLIFLOZINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351414 | GLEMPA | EMS S/A | Ativo |
+| 102351416 | EMPAGLIFLOZINA | EMS S/A | Ativo |
+| 102351486 | EMPAGLIFLOZINA + LINAGLIPTINA | EMS S/A | Ativo |
+| 102980617 | EMFLOZ | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103670172 | JARDIANCE | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Ativo |
+| 103670176 | GLYXAMBI | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Ativo |
+| 103670178 | JARDIANCE DUO | BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUT | Ativo |
+| 105250136 | EMPAGLIFLOZINA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250137 | EPAG | TORRENT DO BRASIL LTDA | Ativo |
+| 105350259 | EMPAGLIFLOZINA | LABORATÓRIO GLOBO SA | Ativo |
+| 105730196 | EMPRELIA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105831024 | EMPAGLIFLOZINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831026 | EMPAFLO | GERMED FARMACEUTICA LTDA | Ativo |
+| 109170149 | EMPAGLIFLOZINA | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109170150 | GLUZERA | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 123520304 | EMPAGLIFLOZINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680391 | EMPAGLIFLOZINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135170096 | EMPAGLIFLOZINA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 138450009 | EMPAGLIFLOZINA | SANUSPHAR PESQUISA E DESENVOVIMENTO LTDA | Ativo |
+| 138450010 | ARDIC | SANUSPHAR PESQUISA E DESENVOVIMENTO LTDA | Ativo |
+| 138450011 | EMBARD | SANUSPHAR PESQUISA E DESENVOVIMENTO LTDA | Ativo |
+| 151430102 | EMPAGLIFLOZINA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 165070051 | AMPOLDO | CAMBER FARMACEUTICA LTDA | Ativo |
+| 170420033 | EMPAGLIFLOZINA | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Ativo |
 
 Há 8 registros válidos no total; são listados os 5 principais. Os registros constam como produto isolado nos dados compilados.
 

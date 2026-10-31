@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 642
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tizanidine: nova indicação prevista, Transtorno de enxaqueca (Migraine disorder) (nível de evidência L5). Indicação original: Relaxantes musculares centrais simples"
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
@@ -50,8 +50,8 @@ atualmente com **2 ensaios clínicos registrados** (1 deles diretamente relevant
 | Nova Indicação Prevista | Transtorno de enxaqueca (Migraine disorder) |
 | Pontuação de Previsão TxGNN | 0,9979 |
 | Nível de Evidência | L1 (conforme classificação do conjunto de dados; ver ressalva na conclusão) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 5) |
+| Número de Registros | 5 (ativos: 3) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -86,11 +86,13 @@ Há apoio clínico direto: um estudo duplo-cego controlado por placebo em cefale
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 123520196 (cancelado) | Cloridrato de Tizanidina | Não informada | Relaxantes musculares centrais simples |
-| Registro 156490008 (cancelado) | Cloridrato de Tizanidina | Não informada | Relaxantes musculares centrais simples |
-| Registro 100470659 (cancelado) | Sirdalud | Não informada | Relaxantes musculares centrais simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100470659 | SIRDALUD | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 123520196 | CLORIDRATO DE TIZANIDINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 156490008 | CLORIDRATO DE TIZANIDINA | UNICHEM FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 100680055 | SIRDALUD | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 103700746 | CLORIDRATO DE TIZANIDINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 
 ## Considerações de Segurança
 

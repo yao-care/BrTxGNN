@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 423
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Loperamide: nova indicação prevista, Conjuntivite contagiosa aguda (acute contagious conjunctivitis) (nível de evidência L5). Indicação original: Antidiarreicos simples sem ação antimicrobiana"
 monitor_inn: "Loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "parasitic conjunctivitis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "conjunctival folliculosis", "Angelucci syndrome"]
@@ -52,8 +52,8 @@ A pontuação alta vem do modelo TxGNN (deep learning) e pode refletir semelhan�
 | Nova Indicação Prevista | Conjuntivite contagiosa aguda (acute contagious conjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
-| Número de Registros | 8 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 21) |
+| Número de Registros | 21 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -90,13 +90,29 @@ Para a indicação principal (conjuntivite contagiosa aguda) não há literatura
 
 Os 8 registros estão válidos (8 de 8); o medicamento está comercializado atualmente.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 117170085 | Cloridrato de Loperamida | Não informada | Antidiarreicos simples sem ação antimicrobiana |
-| Registro nº 157211211 | Imosec | Não informada | Antidiarreicos adsorventes e antiflatulentos |
-| Registro nº 100470318 | Diasec | Não informada | Antidiarreicos adsorventes e antiflatulentos |
-| Registro nº 155840142 | Magnostase | Não informada | Antidiarreicos simples sem ação antimicrobiana |
-| Registro nº 105350159 | Cloridrato de Loperamida | Não informada | Antidiarreicos simples sem ação antimicrobiana |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100470318 | DIASEC | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470525 | CLORIDRATO DE LOPERAMIDA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 105350156 | INTESTIN | LABORATÓRIO GLOBO SA | Ativo |
+| 105350159 | CLORIDRATO DE LOPERAMIDA | LABORATÓRIO GLOBO SA | Ativo |
+| 117170026 | KAOSEC | PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A | Ativo |
+| 117170085 | CLORIDRATO DE LOPERAMIDA | PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A | Ativo |
+| 155840142 | MAGNOSTASE | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 157211211 | IMOSEC | KENVUE LTDA. | Ativo |
+| 101910175 | DISTERAN | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 103700332 | LOPERIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104650339 | MAGNOSTASE | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 107150075 | DIAFURAN | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Cancelado |
+| 109060077 | COLISEC | JARRELL FARMACÊUTICA LTDA EPP | Cancelado |
+| 109220175 | ENTEROSEC | H B FARMA LABORATÓRIOS LTDA | Cancelado |
+| 112360015 | IMOSEC | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 112360038 | IMODIUM PLUS | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 117170081 | CLORIDRATO DE LOPERAMIDA | PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A | Cancelado |
+| 126250068 | LFM-LOPERAMIDA | LABORATÓRIO FARMACÊUTICO DA MARINHA | Cancelado |
+| 141070622 | CLORIDRATO DE LOPERAMIDA | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Cancelado |
+| 155840464 | CLORIDRATO DE LOPERAMIDA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 172870119 | MAGNOSTASE | HYPERA S.A. | Cancelado |
 
 Há outros 3 registros cancelados (nº 100470525, 105350156 e 117170026), não listados por limite de 5 registros.
 

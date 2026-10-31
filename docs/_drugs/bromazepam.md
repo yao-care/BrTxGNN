@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bromazepam: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não informada nos dados compilados"
 monitor_inn: "BROMAZEPAM"
 predicted_indications: ["migraine disorder"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**
 | Nova Indicação Prevista | Enxaqueca (migraine disorder) |
 | Pontuação de Previsão TxGNN | 0,9906 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 5) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 55) |
+| Número de Registros | 55 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

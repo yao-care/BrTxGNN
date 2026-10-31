@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 257
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Desmopressin: nova indicação prevista, Deficiência congênita de protrombina (congenital prothrombin deficien… (nível de evidência L5). Indicação original: Outros hormônios mediadores e produtos equiv…"
 monitor_inn: "desmopressin"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência congênita de prot
 | Nova Indicação Prevista | Deficiência congênita de protrombina (congenital prothrombin deficiency) |
 | Pontuação de Previsão TxGNN | 0,9970 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 10) |
+| Número de Registros | 10 (ativos: 5) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -73,13 +73,18 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 110390115 | FURP-DESMOPRESSINA | Não informada | Outros hormônios mediadores e produtos equivalentes (cancelado) |
-| Registro nº 128760021 | EPONIM | Não informada | Outros hormônios mediadores e produtos equivalentes (cancelado) |
-| Registro nº 128760015 | DDAVP | Não informada | Outros hormônios mediadores e produtos equivalentes (cancelado) |
-| Registro nº 106460172 | ACETATO DE DESMOPRESSINA | Não informada | Outros hormônios mediadores e produtos equivalentes (cancelado) |
-| Registro nº 106460234 | DOSYX | Não informada | Outros hormônios mediadores e produtos equivalentes (cancelado) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 106460172 | ACETATO DE DESMOPRESSINA | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 106460234 | DOSYX | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Ativo |
+| 110390115 | FURP-DESMOPRESSINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 128760015 | DDAVP | LABORATÓRIOS FERRING LTDA | Ativo |
+| 128760021 | EPONIM | LABORATÓRIOS FERRING LTDA | Ativo |
+| 108580192 | DESMOPRIN | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 109740186 | DESMURIN | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
+| 128760001 | DDAVP | LABORATÓRIOS FERRING LTDA | Cancelado |
+| 146820022 | D-VOID | SUN FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 154710003 | D-VOID | SUN FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

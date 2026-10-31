@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LAMOTRIGINE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lamotrigine: nova indicação prevista, neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: ANTICONVULSIVANTES"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **neoplasia do nervo trigêmeo (t
 | Nova Indicação Prevista | neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) |
 | Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 24 de 54) |
+| Número de Registros | 54 (ativos: 24) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -76,13 +76,40 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 Os dados compilados indicam situação de comercialização "Comercializado" e 20 registros, mas a lista pode ser parcial. Os registros listados são de medicamentos de lamotrigina isolada.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 146820082 | Lamosyn | Não informada | Anticonvulsivantes |
-| Registro 100431059 | Léptico | Não informada | Anticonvulsivantes |
-| Registro 109740271 | Forlut | Não informada | Anticonvulsivantes |
-| Registro 101070006 | Lamictal | Não informada | Anticonvulsivantes |
-| Registro 156510087 | Nepil | Não informada | Anticonvulsivantes |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431059 | LÉPTICO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431139 | LAMOTRIGINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101070006 | LAMICTAL | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+| 102980295 | NEURAL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700547 | LAMOTRIGINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105250039 | LAMOTRIGINA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250072 | LAMOTRIGINA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250073 | LAMITOR CD | TORRENT DO BRASIL LTDA | Ativo |
+| 109170147 | LAMOTRIGINA | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109740271 | FORLUT | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740330 | LAMOTRIGINA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 123520199 | LAMOTRIGINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680275 | LAMOTRIGINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135170066 | LAMOTRIGINA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 146820049 | LAMOSYN CD | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 146820050 | LAMOTRIGINA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 146820082 | LAMOSYN | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 154230273 | EXAFOB | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230274 | LAMOTRIGINA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155370031 | LAMEZ | ACCORD FARMACÊUTICA LTDA | Ativo |
+| 156490009 | LAMOTRIGINA | UNICHEM FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 156510080 | LAMOTRIGINA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 156510087 | NEPIL | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 183260003 | LAMOTRIGINA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100250076 | LAMICTAL | GLAXO WELLCOME S/A | Cancelado |
+| 100431060 | LAMOTRIGINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100630258 | LAMOTRIGINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100820136 | NEURIUM | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+| 101810611 | LAMOTRIGINA | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810617 | LAMORGIN | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

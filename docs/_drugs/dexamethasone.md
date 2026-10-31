@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 259
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Dexamethasone: nova indicação prevista, Alopecia Areata (alopecia areata) (nível de evidência L2). Indicação original: Glicocorticoides sistêmicos"
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
@@ -50,8 +50,8 @@ atualmente com **nenhum ensaio clínico registrado** e **20 publicações** recu
 | Nova Indicação Prevista | Alopecia Areata (alopecia areata) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 16) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 85 de 263) |
+| Número de Registros | 263 (ativos: 85) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -85,13 +85,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Os 20 registros constam como válidos. Abaixo, os 5 principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105830879 | Dexametasona | Não informada | Glicocorticoides sistêmicos |
-| Registro nº 115600100 | Dexaden | Não informada | Glicocorticoides sistêmicos |
-| Registro nº 100681097 | Maxidex | Não informada | Glicocorticoides tópicos oftálmicos simples |
-| Registro nº 105730303 | Decadron | Não informada | Glicocorticoides sistêmicos |
-| Registro nº 170420030 | Cloridrato de ciprofloxacino + dexametasona | Não informada | Anti-infecciosos tópicos, associações medicamentosas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431331 | FOSFATO DISSÓDICO DE DEXAMETASONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431339 | CLORIDRATO DE TIAMINA + CLORIDRATO DE PIRIDOXINA + CIANOCOBA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431346 | DEXALGEN NF | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431384 | KOIDEXA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431464 | CITOBÊ-DEXA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100681086 | CILODEX | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681097 | MAXIDEX | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681098 | TOBRADEX | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681102 | VIGADEXA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681106 | MAXITROL | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 101550007 | TRIVAGEL N | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 102350086 | EMISTIN | EMS S/A | Ativo |
+| 102350515 | DEXAMETASONA | EMS S/A | Ativo |
+| 102350702 | DEXAMETASONA | EMS S/A | Ativo |
+| 102350848 | ACETATO DE DEXAMETASONA | EMS S/A | Ativo |
+| 102351210 | CLORIDRATO DE CIPROFLOXACINO MONOIDRATADO + DEXAMETASONA | EMS S/A | Ativo |
+| 102351457 | CLORIDRATO DE MOXIFLOXACINO + FOSFATO DISSÓDICO DE DEXAMETAS | EMS S/A | Ativo |
+| 102980486 | MAXIFLOX D | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700060 | DEXASON | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700171 | DEXAVISON | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700284 | DEXAMETASONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700287 | FOSFATO DISSODICO DE DEXAMETASONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700479 | ACETATO DE DEXAMETASONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700552 | DEXAMETASONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720306 | RENOVI B PLUS | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103870047 | FOSFATO DISSODICO DE DEXAMETASONA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103920067 | DEXAMEX | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920236 | ACETATO DE DEXAMETASONA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104970139 | UNIDEXA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971305 | TOBRACORT | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

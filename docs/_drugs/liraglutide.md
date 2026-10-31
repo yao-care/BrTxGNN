@@ -7,7 +7,7 @@ title: LIRAGLUTIDE
 drugbank_id: DB06655
 permalink: /drugs/liraglutide/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Item | Value |
 |------|-------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 5) |
-| Número de Registros | 5 (ativos: 5) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
+| Número de Registros | 8 (ativos: 8) |
 | DrugBank ID | [DB06655](https://go.drugbank.com/drugs/DB06655) |
 | Number of Predicted Indications | 2 |
 

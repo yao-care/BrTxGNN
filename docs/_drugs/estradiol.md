@@ -7,7 +7,7 @@ title: ESTRADIOL
 drugbank_id: DB00783
 permalink: /drugs/estradiol/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Item | Value |
 |------|-------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 8) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 63 de 181) |
+| Número de Registros | 181 (ativos: 63) |
 | DrugBank ID | [DB00783](https://go.drugbank.com/drugs/DB00783) |
 | Number of Predicted Indications | 6 |
 

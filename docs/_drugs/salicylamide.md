@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 578
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Salicylamide: nova indicação prevista, Faringite (Pharyngitis) (nível de evidência L4). Indicação original: Produtos para terapia sintomática da gripe"
 monitor_inn: "salicylamide"
 predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "allergic urticaria", "lung disease", "massive neonatal aspiration syndrome", "respiratory syncytial virus bronchiolitis", "hantavirus infectious disease"]
@@ -50,8 +50,8 @@ atualmente com **0 ensaios clínicos** e **1 publicação** (um relato de 1953) 
 | Nova Indicação Prevista | Faringite (Pharyngitis) |
 | Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 7) |
+| Número de Registros | 7 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,9 +74,15 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 105710006 (cancelado) | DRENOGRIP | Não informada | Produtos para terapia sintomática da gripe |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 105710006 | DRENOGRIP | BELFAR LTDA | Ativo |
+| 103920124 | RESFRIOL S | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104040114 | TERMOGRIPE C | LUPER INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 105830088 | ANACOLD | GERMED FARMACEUTICA LTDA | Cancelado |
+| 108580030 | RESPRAX | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 109170006 | GRIPIN C | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Cancelado |
+| 122830072 | BENEGRIP | DM INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

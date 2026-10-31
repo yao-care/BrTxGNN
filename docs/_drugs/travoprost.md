@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 653
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
 description: "Travoprost: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **calcifilaxia visceral (visceral
 | Nova Indicação Prevista | Calcifilaxia visceral (visceral calciphylaxis) |
 | Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 7) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 29) |
+| Número de Registros | 29 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ---

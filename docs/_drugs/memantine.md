@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 442
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Memantine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 description: "Memantine: nova indicação prevista, Hipertensão pulmonar (pulmonary hypertension) (nível de evidência L5). Indicação original: OUTROS PRODUTOS QUE ATUAM SOBRE O SISTEMA NERVOSO"
@@ -53,8 +53,8 @@ A direção melhor sustentada pelos dados é a **enxaqueca (migraine disorder)**
 | Nova Indicação com Maior Evidência (2ª do ranking) | Pulmonary hypertension |
 | Pontuação de Previsão TxGNN | 0.9954 |
 | Nível de Evidência | Hipertensão pulmonar: L5; enxaqueca: L1 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 41 de 58) |
+| Número de Registros | 58 (ativos: 41) |
 | Decisão Recomendada | Hipertensão pulmonar: Hold; enxaqueca: Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -108,13 +108,40 @@ Para hipertensão pulmonar, atualmente não há ensaios clínicos relacionados r
 
 Há 20 registros **válidos**; o medicamento é comercializado. Principais registros (5 de 20):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105250104 | Cloridrato de memantina | Não informada | Outros produtos que atuam sobre o sistema nervoso |
-| Registro nº 125680289 | Maizher | Não informada | Outros produtos que atuam sobre o sistema nervoso |
-| Registro nº 102351324 | Moriale ODT | Não informada | Outros produtos que atuam sobre o sistema nervoso |
-| Registro nº 109740286 | Kamppi | Não informada | Outros produtos que atuam sobre o sistema nervoso |
-| Registro nº 100431040 | Heimer | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330159 | ZIDER | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100330216 | ZIDER | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100431040 | HEIMER | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431134 | CLORIDRATO DE MEMANTINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470579 | CLORIDRATO DE MEMANTINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681175 | CLORIDRATO DE MEMANTINA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 101180592 | ALOIS | APSEN FARMACEUTICA S/A | Ativo |
+| 101180614 | CLORIDRATO DE MEMANTINA | APSEN FARMACEUTICA S/A | Ativo |
+| 101180615 | ALOIS | APSEN FARMACEUTICA S/A | Ativo |
+| 101180627 | CLORIDRATO DE DONEPEZILA + CLORIDRATO DE MEMANTINA | APSEN FARMACEUTICA S/A | Ativo |
+| 101180628 | ALOIS DUO | APSEN FARMACEUTICA S/A | Ativo |
+| 101180645 | ALOIS DUO PACK | APSEN FARMACEUTICA S/A | Ativo |
+| 102351324 | MORIALE ODT | EMS S/A | Ativo |
+| 102351380 | MORIALE DUO | EMS S/A | Ativo |
+| 102351385 | CLORIDRATO DE DONEPEZILA + CLORIDRATO DE MEMANTINA | EMS S/A | Ativo |
+| 102351403 | CLORIDRATO DE MEMANTINA | EMS S/A | Ativo |
+| 102980577 | LÁBREA DUO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700595 | CLORIDRATO DE MEMANTINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700597 | MEMORALL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104750050 | EBIX | LUNDBECK BRASIL LTDA | Ativo |
+| 105250086 | MEALZ | TORRENT DO BRASIL LTDA | Ativo |
+| 105250104 | CLORIDRATO DE MEMANTINA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250127 | EPÉZ DUO | TORRENT DO BRASIL LTDA | Ativo |
+| 105730046 | COMFECT DUO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730467 | DONILA DUO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730502 | VIE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730570 | CLORIDRATO DE MEMANTINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730736 | CLORIDRATO DE DONEPEZILA + CLORIDRATO DE MEMANTINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105831018 | CLORIDRATO DE MEMANTINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740286 | KAMPPI | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

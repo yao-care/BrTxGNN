@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 665
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Vancomycin: nova indicação prevista, Esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que ela pode ser eficaz para **esclerodermia difusa (diffu
 | Nova Indicação Prevista | Esclerodermia difusa (diffuse scleroderma) |
 | Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 10) |
-| Número de Registros | 10 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 41) |
+| Número de Registros | 41 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -81,13 +81,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 O medicamento é comercializado no Brasil: os 10 registros estão válidos (10 de 10).
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 116370114 | VANCOSON | Não informada | Antibióticos sistêmicos simples |
-| Registro 103700461 | CLORIDRATO DE VANCOMICINA | Não informada | Antibióticos sistêmicos simples |
-| Registro 155620005 | VANCOCINA CP | Não informada | Antibióticos sistêmicos simples |
-| Registro 116370092 | CLORIDRATO DE VANCOMICINA | Não informada | Antibióticos sistêmicos simples |
-| Registro 116370183 | HICOVAN | Não informada | Antibióticos sistêmicos simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980511 | VANK | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700461 | CLORIDRATO DE VANCOMICINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104970242 | VANCOTRAT | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 110110010 | NOVAMICIN | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110110023 | CLORIDRATO DE VANCOMICINA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 116370092 | CLORIDRATO DE VANCOMICINA | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370114 | VANCOSON | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370183 | HICOVAN | BLAU FARMACÊUTICA S.A. | Ativo |
+| 155620005 | VANCOCINA CP | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 155620041 | CLORIDRATO DE VANCOMICINA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 100410188 | NOVAMICIN | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410202 | CLORIDRATO DE VANCOMICINA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430579 | VANCOMICINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430709 | CLORIDRATO DE VANCOMICINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100630157 | VANCOCID | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102700083 | VANCOSON | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 102700129 | CLORIDRATO DE VANCOMICINA | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 103110123 | HICOVAN | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 103110137 | HICOVAN | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 103460017 | CLORIDRATO DE VANCOMICINA | BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA | Cancelado |
+| 103700230 | VANCLOMIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104080039 | VANCOPLUS | ROYTON QUÍMICA FARMACÊUTICA LTDA | Cancelado |
+| 105530211 | VANCOABBOTT | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 106460132 | AMPLOBAC | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 108580168 | CLORIDRATO DE VANCOMICINA | PRODOTTI LABORATÓRIO FARMACÊUTICO LTDA. | Cancelado |
+| 111020002 | EDICIN | INTERLAB FARMACÊUTICA LTDA | Cancelado |
+| 112600013 | VANCOCINA CP | ELI LILLY DO BRASIL LTDA | Cancelado |
+| 112830046 | VANCO - MAX | LABORATORIO ITAFARMA LTDA | Cancelado |
+| 114020029 | NOVAMICIN | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 114020090 | CLORIDRATO DE VANCOMICINA | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

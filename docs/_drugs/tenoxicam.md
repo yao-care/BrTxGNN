@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tenoxicam"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "trigeminal autonomic cephalalgia", "alopecia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tenoxicam: nova indicação prevista, Brachydactyly-syndactyly syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **distúrbio de cefaleia (headach
 | Nova Indicação Prevista | Brachydactyly-syndactyly syndrome |
 | Pontuação de Previsão TxGNN | 0.9980 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
-| Número de Registros | Pelo menos 20 registros (a lista pode estar incompleta): 6 válidos e 14 cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 37) |
+| Número de Registros | 37 (ativos: 14) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 > Observação: a previsão em primeiro lugar no ranking do modelo (síndrome de braquidactilia-sindactilia) não tem nenhuma evidência e nenhum mecanismo plausível. Por isso, este relatório avalia a previsão mais bem sustentada, o distúrbio de cefaleia (3ª posição), que é a única com um ensaio clínico direto.
@@ -80,13 +80,40 @@ Esse mecanismo é plausível para cefaleias: as prostaglandinas participam da se
 
 Foram listados 5 dos pelo menos 20 registros localizados (a lista pode estar incompleta). Nenhum traz texto de indicação aprovada nem forma farmacêutica nos dados compilados.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 155840092 (válido) | Tenoxicam (Brainfarma) | Não informada | Não informada |
-| Registro nº 102980374 (válido) | Tenoxicam (Cristália) | Não informada | Não informada |
-| Registro nº 188300059 (válido) | Tilatil (Viatris) | Não informada | Não informada |
-| Registro nº 154230346 (válido) | Titenil (Geolab) | Não informada | Não informada |
-| Registro nº 155840238 (válido) | Tiloxineo (Brainfarma) | Não informada | Não informada |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430757 | TENOXICAM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351001 | TENOXICAM | EMS S/A | Ativo |
+| 102980374 | TENOXICAM | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 104971138 | TEFLAN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971418 | TENOXICAM | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 109170059 | TENOXIL | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109170094 | TENOXICAM | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 115600188 | TILONAX | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600231 | TENOXICAM | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 154230215 | TENOXICAM | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230346 | TITENIL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840092 | TENOXICAM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840238 | TILOXINEO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 188300059 | TILATIL | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 100430716 | TENOCAM | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470256 | TILOXICAN | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470486 | TENOXICAM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101000144 | TILATIL | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Cancelado |
+| 102350457 | TENOXICAM | EMS S/A | Cancelado |
+| 102350634 | INFLAGEL | EMS S/A | Cancelado |
+| 102940085 | GALATIL | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
+| 103920096 | REUMOTEC | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
+| 104650470 | TENOXICAM | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 104650495 | TILOXINEO | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105830248 | TENOXICAM | GERMED FARMACEUTICA LTDA | Cancelado |
+| 109860031 | TENOVID | IBFARMA INDUSTRIA DE BIOTECNOLOGIA FTCA LTDA. | Cancelado |
+| 115600044 | TILONAX | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Cancelado |
+| 116540064 | TENOBIO | BIOFARMA FARMACÊUTICA LTDA | Cancelado |
+| 123520034 | TENOXICAM | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 123520092 | TENOXICAM | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

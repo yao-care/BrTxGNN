@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ALFACALCIDOL"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Alfacalcidol: nova indicação prevista, displasia conodisplásica craniofacial (craniofacial conodysplasia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -64,11 +64,11 @@ Portanto, a previsão deve ser tratada como hipótese inicial, sem sustentação
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Situação |
-|---------|------|------|-----------|
-| 106460156 | INNOSFEN | Não informada | Cancelado |
-| 135690020 | SIGMACALCIDOL | Não informada | Válido |
-| 112130175 | ALFAD | Não informada | Cancelado |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 135690020 | SIGMACALCIDOL | EMS SIGMA PHARMA LTDA | Ativo |
+| 106460156 | INNOSFEN | LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA | Cancelado |
+| 112130175 | ALFAD | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
 
 Dos 3 registros, 1 está válido e 2 estão cancelados. Todos são de produto de um único princípio ativo.
 

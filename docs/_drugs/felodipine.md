@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Felodipine: nova indicação prevista, Hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hy… (nível de evidência L5). Indicação original: Anti-hipertensivos – associações medicamentosa"
 monitor_inn: "felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que ele pode ser eficaz para **hipertensão pulmonar de me
 | Nova Indicação Prevista | Hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hypertension with unclear multifactorial mechanism) |
 | Pontuação de Previsão TxGNN | 0,9991 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
+| Número de Registros | 4 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -93,9 +93,12 @@ Um relato de caso (PMID 15222138, angina de Prinzmetal induzida por nicergolina)
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 116180241 (cancelado) | SELOZOK FIX | Não informada | Anti-hipertensivos – associações medicamentosas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 116180241 | SELOZOK FIX | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 100470396 | FELODIPINO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 116180074 | SPLENDIL | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+| 116180235 | ATACAND COMB | ASTRAZENECA DO BRASIL LTDA | Cancelado |
 
 ## Considerações de Segurança
 

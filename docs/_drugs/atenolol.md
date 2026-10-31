@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ATENOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Atenolol: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ mas, nos dados compiladas para este relatório, há **0 ensaios clínicos** e **
 | Nova Indicação Prevista | Doença renal hipertensiva maligna (malignant hypertensive renal disease) |
 | Pontuação de Previsão TxGNN | 0.9985 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 4) |
-| Número de Registros | Pelo menos 20 registros (lista possivelmente parcial): 5 válidos e 15 cancelados |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 40 de 128) |
+| Número de Registros | 128 (ativos: 40) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -83,13 +83,40 @@ Nenhuma publicação estuda diretamente a doença renal hipertensiva maligna. Pa
 
 Foram listados 20 registros, mas o total é de pelo menos 20 e a lista pode ser parcial. Abaixo estão os registros válidos de medicamentos de componente único (os registros não trazem forma farmacêutica nem texto de indicação aprovada).
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 154230268 | Atenolol (Geolab) | — | — |
-| Registro nº 102351170 | Himaagin (EMS) | — | — |
-| Registro nº 109740272 | Atenolol (Biolab Sanus) | — | — |
-| Registro nº 125680146 | Atenolol (Prati Donaduzzi) | — | — |
-| Registro nº 109740100 | Ablok (Biolab Sanus) | — | — |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430951 | ATENOLOL + CLORTALIDONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431573 | DIUBLOCK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470345 | ATENORESE | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470352 | ATENOPRESS | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470363 | ATENOLOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470586 | ATENOLOL + CLORTALIDONA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102350458 | ATENOLOL | EMS S/A | Ativo |
+| 102350639 | ATENOLOL + CLORTALIDONA | EMS S/A | Ativo |
+| 102351274 | BESILATO DE ANLODIPINO+ATENOLOL | EMS S/A | Ativo |
+| 103700151 | ATEPRESS | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700396 | ATENOLOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700514 | ATENOLOL + CLORTALIDONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900210 | REVERT | FARMOQUÍMICA S/A | Ativo |
+| 103920045 | TENOLON | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920091 | ATENOCLOR | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920192 | ATENOLOL + CLORTALIDONA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920250 | ATENOLOL | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105730540 | ATENOLOL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730552 | ATENOLOL + CLORTALIDONA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730569 | ANGIPRESS CD | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730575 | BETALOR | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730592 | ANGIPRESS | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830802 | ATENOLOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831031 | ATENOLOL + CLORTALIDONA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109740092 | ABLOK PLUS | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740100 | ABLOK | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740272 | ATENOLOL | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 118190202 | ATENOLOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190204 | ATENOLAB | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680146 | ATENOLOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

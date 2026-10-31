@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Indomethacin: nova indicação prevista, Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) (nível de evidência L5). Indicação original: ANTINFLAMATORIOS ANTIREUMATICOS"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **síndrome de braquidactilia-sin
 | Nova Indicação Prevista | Síndrome de braquidactilia-sindactilia (brachydactyly-syndactyly syndrome) |
 | Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 8) |
+| Número de Registros | 8 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -63,9 +63,16 @@ A pontuação alta (0,9997) provavelmente reflete um artefato da estrutura da re
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 137640119 | INDOCID | Não informada | ANTINFLAMATORIOS ANTIREUMATICOS |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 137640119 | INDOCID | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100290170 | INDOCID | ORGANON FARMACÊUTICA LTDA. | Cancelado |
+| 102350368 | INDOMETACINA | EMS S/A | Cancelado |
+| 103700236 | METACIDIL | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 104540039 | AGILISIN | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Cancelado |
+| 108840349 | IQUEGO - INDOMETACINA | INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS S/A - IQUEGO | Cancelado |
+| 110650032 | INDOCID | PRODOME QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
+| 126030019 | INDOMETACINA | ÍTACA LABORATÓRIOS LTDA | Cancelado |
 
 ## Considerações de Segurança
 

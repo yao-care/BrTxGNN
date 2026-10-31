@@ -92,9 +92,9 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada | Situação |
-|---------|------|------|-----------|------|
-| Registro nº 102440007 | REPATHA | Não informada | Antilipêmicos | Cancelado |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102440007 | REPATHA | AMGEN BIOTECNOLOGIA DO BRASIL LTDA. | Ativo |
 
 ---
 

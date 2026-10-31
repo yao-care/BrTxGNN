@@ -102,9 +102,9 @@ Foram selecionadas as 10 publicações mais relevantes, priorizando diretrizes e
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 101000664 (cancelado) | ERIVEDGE | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101000664 | ERIVEDGE | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
 
 O único registro do vismodegibe na ANVISA consta como **cancelado**, portanto não há produto com registro válido no Brasil nos dados compilados. A disponibilidade deve ser verificada antes de qualquer iniciativa.
 

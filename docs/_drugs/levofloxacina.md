@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 412
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -51,8 +51,8 @@ O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco 
 | Nova Indicação Prevista | Não disponível — predição TxGNN pendente |
 | Pontuação de Previsão TxGNN | Não disponível |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 4) |
-| Número de Registros | 4 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 38 de 78) |
+| Número de Registros | 78 (ativos: 38) |
 | Decisão Recomendada | Hold |
 
 ---

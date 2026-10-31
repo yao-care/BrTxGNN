@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 355
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Hydrocortisone: nova indicação prevista, Alopecia Areata (alopecia areata) (nível de evidência L5). Indicação original: Glicocorticoides tópicos simples, exceto uso oftálmico"
 monitor_inn: "HYDROCORTISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
@@ -50,8 +50,8 @@ O único ensaio usou a hidrocortisona 1% como comparador de baixa potência, e n
 | Nova Indicação Prevista | Alopecia Areata (alopecia areata) |
 | Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L1 (conforme a classificação dos dados compilados; ver ressalva abaixo) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
-| Número de Registros | 4 (ativos: 4) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 74) |
+| Número de Registros | 74 (ativos: 14) |
 | Decisão Recomendada | Hold |
 
 **Ressalva sobre o nível de evidência:** pelos critérios do relatório, L1 exigiria ≥2 ensaios de Fase 3 concluídos. Há apenas um ensaio de Fase 3 (n=41), no qual a hidrocortisona foi comparador. Uma leitura conservadora do nível seria, portanto, mais próxima de L2. Por isso a decisão é cautelosa.
@@ -91,12 +91,40 @@ Observação: a maior parte dessas publicações é antiga (1955–1973), sem re
 
 Os 4 registros encontrados estão válidos (4 de 4); o medicamento é comercializado.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102350808 | Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado) |
-| Registro nº 116370119 | Ariscorten | Não informada | Glicocorticoides sistêmicos (cancelado) |
-| Registro nº 167730155 | Hidrocorte | Não informada | Creme dermatológico (cancelado) |
-| Registro nº 103900154 | Otosporin | Não informada | Anti-infecciosos tópicos, associações medicamentosas (cancelado) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102350808 | HIDROCORTISONA | EMS S/A | Ativo |
+| 103700463 | ANDROCORTIL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700527 | ACETATO DE HIDROCORTISONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700768 | ACECORTHYL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900142 | OTOCIRIAX | FARMOQUÍMICA S/A | Ativo |
+| 103900154 | OTOSPORIN | FARMOQUÍMICA S/A | Ativo |
+| 104970020 | CORTISONAL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971333 | ACETATO DE HIDROCORTISONA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971404 | CORTIGEN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 110110042 | GLIOCORT | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 116370105 | SUCCINATO SODICO DE HIDROCORTISONA | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370119 | ARISCORTEN | BLAU FARMACÊUTICA S.A. | Ativo |
+| 137640159 | XYLOPROCT | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730155 | HIDROCORTE | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100200010 | BERLISON | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 100230236 | CIPRO HC | ALCON LABORATÓRIOS DO BRASIL LTDA. | Cancelado |
+| 100410187 | GLIOCORT | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430682 | LOCOID | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430721 | SUCCINATO SÓDICO DE HIDROCORTISONA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100630166 | BENZENIL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680030 | VIOFÓRMIO-HIDROCORTISONA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100681113 | CIPRO HC | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101800259 | WESTCORT | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+| 101910239 | THERASONA | THERASKIN FARMACEUTICA LTDA. | Cancelado |
+| 102160021 | TERRA - CORTRIL | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102160083 | ANUSOL HC | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102350345 | CORTIZOL | EMS S/A | Cancelado |
+| 102350472 | SUCCINATO SÓDICO DE HIDROCORTISONA | EMS S/A | Cancelado |
+| 102350499 | CLIOQUINOL + HIDROCORTISONA | EMS S/A | Cancelado |
+| 102350806 | HIDROCORTISONA | EMS S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

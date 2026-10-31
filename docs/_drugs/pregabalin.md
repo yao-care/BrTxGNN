@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 548
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: nova indicação prevista, Tendinite (tendinitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **tendinite (tendinitis)**, mas, 
 | Nova Indicação Prevista | Tendinite (tendinitis) |
 | Pontuação de Previsão TxGNN | 0.9971 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 13) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 61 de 86) |
+| Número de Registros | 86 (ativos: 61) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

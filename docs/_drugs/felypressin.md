@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 313
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "felypressin"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "esotropia", "diabetic retinopathy", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "chondroid hamartoma", "non-seminomatous lesion", "tumor of testis and paratestis", "pre-malignant neoplasm"]
 description: "Felypressin: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: ANESTESICOS LOCAIS"
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Osteoporose induzida por fármacos (drug-induced osteoporosis) |
 | Pontuação de Previsão TxGNN | 0.9980 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 6) |
+| Número de Registros | 6 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -64,10 +64,14 @@ Outras indicações previstas pelo modelo também carecem de respaldo: retinopat
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102980330 (cancelado) | CITOCAINA | Não informada | Anestésicos locais |
-| Registro nº 101770028 (cancelado) | PRILONEST | Não informada | Anestésicos locais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101770028 | PRILONEST | DFL INDÚSTRIA E COMÉRCIO S/A | Ativo |
+| 102980330 | CITOCAINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 100430602 | PRILOCAINA + FELIPRESSINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 109930004 | PRILOSTESINA 3% | DLA PHARMACEUTICAL LTDA | Cancelado |
+| 109930013 | CITANEST 3% COM OCTAPRESSIN | DLA PHARMACEUTICAL LTDA | Cancelado |
+| 149010001 | CITANEST 3% COM OCTAPRESSIN | DENTSPLY IND.COM. LTDA | Cancelado |
 
 ## Considerações de Segurança
 

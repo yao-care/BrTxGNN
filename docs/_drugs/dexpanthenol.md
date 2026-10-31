@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dexpanthenol: nova indicação prevista, Estenose anorretal (anorectal stricture) (nível de evidência L5). Indicação original: Outros produtos com ação na pele e mucosas"
 monitor_inn: "dexpanthenol"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Estenose anorretal (anorectal stricture) |
 | Pontuação de Previsão TxGNN | 0,9972 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
-| Número de Registros | 16 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 54) |
+| Número de Registros | 54 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

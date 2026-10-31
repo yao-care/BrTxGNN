@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 509
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "PANTOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: nova indicação prevista, Duodenal obstruction (nível de evidência L5). Indicação original: ANTIULCEROSOS"
@@ -52,8 +52,8 @@ atualmente com **1 ensaio clínico** e **20 publicações** apoiando esta direç
 | Nova Indicação Prevista | Duodenal obstruction |
 | Pontuação de Previsão TxGNN | 0.9921 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 48 de 103) |
+| Número de Registros | 103 (ativos: 48) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ---
@@ -96,13 +96,40 @@ Obstrução duodenal (pontuação de 0,9921) não tem vínculo mecanístico crí
 
 Todos os 20 registros encontrados estão válidos; o medicamento está comercializado no Brasil. Abaixo, os 5 primeiros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 123520201 | Pantoprazol sódico | Não informada | Antiulcerosos |
-| Registro nº 155840605 | Pantoprazol sódico | Não informada | Antiácidos e antiulcerosos simples |
-| Registro nº 103700756 | Tolza | Não informada | Antiulcerosos |
-| Registro nº 167730432 | Pantoprazol sódico sesqui-hidratado | Não informada | Antiulcerosos |
-| Registro nº 103700774 | Pantoprazol sódico sesqui-hidratado | Não informada | Antiácidos e antiulcerosos simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430026 | PANTOPRAZOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430634 | PANTOCAL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431213 | PANTOCAL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431438 | PANTOPRAZOL SÓDICO SESQUI-HIDRATADO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431440 | GÁZIA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470307 | PANTOPAZ | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470456 | PANTOPRAZOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681129 | PANTOPRAZOL | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 101180622 | INILOK | APSEN FARMACEUTICA S/A | Ativo |
+| 101460064 | ZIPROL | LABORATÓRIOS BALDACCI LTDA | Ativo |
+| 102350156 | PANTOPRAZOL SÓDICO | EMS S/A | Ativo |
+| 102351266 | NIVUX | EMS S/A | Ativo |
+| 102351289 | PANTOPRAZOL MAGNÉSICO DI-HIDRATADO | EMS S/A | Ativo |
+| 102351296 | RESTITUE | EMS S/A | Ativo |
+| 102980519 | PTZOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980542 | PANTOPRAZOL SÓDICO SESQUI-HIDRATADO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700756 | TOLZA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700774 | PANTOPRAZOL SÓDICO SESQUI-HIDRATADO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700778 | TOLZA IV | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104971564 | PANGASTRI | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730011 | PANTOMIX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730031 | DISPETIC | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730462 | ADIPEPT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730503 | DIVENA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730550 | PANTOPRAZOL SÓDICO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730554 | PANTOPRAZOL MAGNÉSICO DIIDRATADO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830897 | PANTOPRAZOL SÓDICO SESQUI-HIDRATADO | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830983 | NIDUE | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831007 | PANTOPRAZOL MAGNÉSICO | GERMED FARMACEUTICA LTDA | Ativo |
+| 106390182 | PANTOZOL | TAKEDA PHARMA LTDA. | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

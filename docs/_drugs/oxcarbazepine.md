@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 498
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "OXCARBAZEPINE"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: nova indicação prevista, Restless legs syndrome (nível de evidência L4). Indicação original: ANTICONVULSIVANTES"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **epilepsia visual (visual epilep
 | Nova Indicação Prevista | Restless legs syndrome |
 | Pontuação de Previsão TxGNN | 0.9989 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
-| Número de Registros | 8 (ativos: 7) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 24) |
+| Número de Registros | 24 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -85,13 +85,32 @@ Todas as publicações são gerais sobre epilepsia ou antiepilépticos; nenhuma 
 
 Todos os 8 registros encontrados estão válidos.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 170420026 | Oxcarbazepina | Não informada | Anticonvulsivantes |
-| Registro 104971421 | Oxcarbazepina | Não informada | Anticonvulsivantes |
-| Registro 105250102 | Oleptal | Não informada | Anticonvulsivantes |
-| Registro 105250079 | Oxcarbazepina | Não informada | Anticonvulsivantes |
-| Registro 100680046 | Trileptal | Não informada | Anticonvulsivantes |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100680046 | TRILEPTAL | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 104971213 | OXCARB | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971421 | OXCARBAZEPINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105250079 | OXCARBAZEPINA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250102 | OLEPTAL | TORRENT DO BRASIL LTDA | Ativo |
+| 123520211 | OXCARBAZEPINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 183260062 | OXCARBAZEPINA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100470540 | OXCARBAZEPINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470545 | STABNESS | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680978 | OXCARBAZEPINA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100681034 | OXCARBAZEPINA (PORT 344/98 LISTA C1) | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101810511 | OXCARBAZEPINA (PORT 344/98 LISTA C1) | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810543 | ALZEPINOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102980217 | LEPTARD | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 104971389 | OXCARBAZEPINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Cancelado |
+| 105250027 | OLEPTAL | TORRENT DO BRASIL LTDA | Cancelado |
+| 105730225 | AURAM | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
+| 112130190 | ACONVULSIN | BIOSINTÉTICA FARMACÊUTICA LTDA | Cancelado |
+| 118610050 | ALIVIX | ATIVUS FARMACÊUTICA LTDA | Cancelado |
+| 123520213 | SELZIC | RANBAXY FARMACÊUTICA LTDA | Cancelado |
+| 156510025 | OXCARBAZEPINA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Cancelado |
+| 156510026 | ZYOXIPINA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Cancelado |
+| 170420026 | OXCARBAZEPINA | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Cancelado |
+| 183260064 | ALZEPINOL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
 
 Há ainda outros três registros (123520211, 183260062 e 104971213 – Oxcarb), também cancelados.
 

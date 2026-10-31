@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 645
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Tolnaftate: usos conhecidos e situação de mercado no Brasil; atualmente nenhum novo candidato a indicação"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ Os candidatos que o modelo TxGNN de aprendizado profundo (pontuação ≥ 0,99) 
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo que puderam ser rastreados são usos conhecidos) |
 | Usos conhecidos entre os candidatos do modelo | 3 |
 | Nível de evidência | Não se aplica |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 28 de 86) |
+| Número de Registros | 86 (ativos: 28) |
 
 ## Usos conhecidos entre os candidatos do modelo
 

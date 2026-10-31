@@ -7,7 +7,7 @@ title: GABAPENTIN
 drugbank_id: DB00996
 permalink: /drugs/gabapentin/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Item | Value |
 |------|-------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 9) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 23 de 53) |
+| Número de Registros | 53 (ativos: 23) |
 | DrugBank ID | [DB00996](https://go.drugbank.com/drugs/DB00996) |
 | Number of Predicted Indications | 2 |
 

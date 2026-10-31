@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **hanseníase (leprosy)**, mas at
 | Nova Indicação Prevista | Hanseníase (leprosy) |
 | Pontuação de Previsão TxGNN | 0,9953 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -63,9 +63,10 @@ Outras indicações previstas pelo modelo (também todas de nível L5 e com reco
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 121100501 (cancelado) | PADCEV | Não informada | Agentes antineoplásicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 121100501 | PADCEV | PFIZER BRASIL LTDA | Ativo |
+| 122140119 | PADCEV | ADIUM S.A. | Cancelado |
 
 ## Citotoxicidade
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 529
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Piroxicam"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
 description: "Piroxicam: nova indicação prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -49,8 +49,8 @@ Entre as indicações previstas pelo modelo TxGNN, a que tem maior sustentação
 | Nova Indicação Prevista | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
 | Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 (primeira da lista); L3 (artrite idiopática juvenil) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 4) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 70) |
+| Número de Registros | 70 (ativos: 10) |
 | Decisão Recomendada | Hold (primeira da lista); Hold com questão de pesquisa para artrite idiopática juvenil |
 
 > **Observação:** a indicação classificada em primeiro lugar pelo TxGNN não tem qualquer evidência de apoio nem plausibilidade biológica. Por isso, este relatório detalha a evidência da **artrite idiopática juvenil**, a única previsão com literatura relevante.

@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Leucemia Mieloide (Myeloid Leuk
 | Nova Indicação Prevista | Leucemia Mieloide (Myeloid Leukemia) |
 | Pontuação de Previsão TxGNN | 0,9965 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -86,9 +86,10 @@ Observação: nenhuma publicação trata especificamente de leucemia mieloide. O
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 186420001 (cancelado) | BRUKINSA | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 186420001 | BRUKINSA | BEONE MEDICINES BRASIL LTDA | Ativo |
+| 122140116 | BRUKINSA | ADIUM S.A. | Cancelado |
 
 ## Citotoxicidade
 

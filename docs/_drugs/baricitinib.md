@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "baricitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Baricitinib: nova indicação prevista, Síndrome de microftalmia colobomatosa com displasia rizomélica (colobomatous microphthalmia-rhizomelic dysplasia syndro… (nível de evidência L5). Indicação origi…"
 ---
 
@@ -64,9 +64,9 @@ A pontuação elevada (0,9994) é apenas uma previsão computacional e pode refl
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 112600198 | OLUMIANT | Não informada | Não registrada nos dados locais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 112600198 | OLUMIANT | ELI LILLY DO BRASIL LTDA | Ativo |
 
 ## Considerações de Segurança
 

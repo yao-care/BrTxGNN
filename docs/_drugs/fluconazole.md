@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 319
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fluconazole: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antimicóticos sistêmicos"
 monitor_inn: "Fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9924 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 31 de 98) |
+| Número de Registros | 98 (ativos: 31) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -75,13 +75,40 @@ Atualmente não há ensaios clínicos relacionados registrados para ceratoconjun
 
 O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 102350578 | Fluconazol | Não informada | Antimicóticos sistêmicos |
-| Registro nº 109170098 | Fluconazol | Não informada | Antimicóticos sistêmicos |
-| Registro nº 103920157 | Fluconid | Não informada | Antimicóticos sistêmicos |
-| Registro nº 154230014 | Flucanil | Não informada | Antimicóticos sistêmicos |
-| Registro nº 125680382 | Fuebllo | Não informada | Antimicótico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410157 | FLUCONAZOL | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419936 | FRESOLCAN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 102350578 | FLUCONAZOL | EMS S/A | Ativo |
+| 102980585 | FLUCAZOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103110073 | HICONAZOL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110118 | FLUCONAZOL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110152 | FLUCONAZOL | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103460025 | FLUCONAZOL | BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA | Ativo |
+| 103700354 | FLUCONAZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103920157 | FLUCONID | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920190 | FLUCONAZOL | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104300013 | PRONAZOL | DIFFUCAP - CHEMOBRÁS QUÍMICA E FARMACÊUTICA LTDA | Ativo |
+| 105350189 | FLUCONAZOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105350193 | FLUCOLCID | LABORATÓRIO GLOBO SA | Ativo |
+| 105710084 | FLUCOL | BELFAR LTDA | Ativo |
+| 105710189 | FLUCONAZOL | BELFAR LTDA | Ativo |
+| 105831056 | FLUCONAZOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 109170055 | FLUCOVIL | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109170098 | FLUCONAZOL | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109740056 | TRIAZOL | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 110850046 | FLUCONAZOL | FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LT | Ativo |
+| 121100424 | ZOLTEC | PFIZER BRASIL LTDA | Ativo |
+| 123520114 | FLUCONAZOL | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680199 | FLUCONAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680382 | FUEBLO | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 143810114 | FLUCONAZOL | CIMED INDUSTRIA S.A | Ativo |
+| 143810192 | FLUCOMED | CIMED INDUSTRIA S.A | Ativo |
+| 154230014 | FLUCANIL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230259 | FLUCONAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 158190014 | ZELIX | ARESE PHARMA LTDA. | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

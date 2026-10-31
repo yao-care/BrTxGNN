@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 239
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cobicistat: nova indicação prevista, Síndrome da imunodeficiência adquirida felina (feline acquired immuno… (nível de evidência L5). Indicação original: Associações de antivirais para o tratamento de…"
 monitor_inn: "cobicistat"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Síndrome da imunodeficiência adquirida felina (feline acquired immunodeficiency syndrome) |
 | Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -74,9 +74,10 @@ Não foram fornecidos dados veterinários, ensaios clínicos ou literatura. Alé
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 112363434 (cancelado) | SYMTUZA® | Não informada | Associações de antivirais para o tratamento de infecções por HIV |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 112363434 | SYMTUZA® | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
+| 109290009 | GENVOYA | GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA | Cancelado |
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Thiamine"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Thiamine: nova indicação prevista, Resistência ao hormônio tireoidiano por mutação no receptor beta do hormônio tireoidiano (nível de evidência L5). Indicação original: Vitaminas e suplementos minerais"
 ---
 
@@ -52,8 +52,8 @@ Duas outras previsões do modelo foram avaliadas de forma complementar: glaucoma
 | Nova Indicação Prevista | Resistência ao hormônio tireoidiano por mutação no receptor beta do hormônio tireoidiano |
 | Pontuação de Previsão TxGNN | 0,9943 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | Pelo menos 20 (a lista pode estar incompleta) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 58 de 436) |
+| Número de Registros | 436 (ativos: 58) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -96,13 +96,40 @@ Para a indicação principal (resistência ao hormônio tireoidiano) não há li
 
 A lista abaixo mostra 5 dos pelo menos 20 registros; a lista completa pode estar incompleta.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 164000001 | ACESYL | — | Vitaminas e suplementos minerais |
-| Registro 113430170 | CLORIDRATO DE TIAMINA | — | Monovitaminas, exceto vitamina K |
-| Registro 104400233 | NAÉVIA | — | Monovitaminas, exceto vitamina K |
-| Registro 155840164 | VITAMINA B1 NEO QUÍMICA | — | Monovitaminas, exceto vitamina K |
-| Registro 113430218 | HIPOVIT B | — | Vitamina B1 (monodroga) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100380038 | PETIVIT BC | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
+| 100380118 | APETIPLUS | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
+| 100410242 | TIAMINA | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100431326 | NEO B | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431339 | CLORIDRATO DE TIAMINA + CLORIDRATO DE PIRIDOXINA + CIANOCOBA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431346 | DEXALGEN NF | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431408 | CITOBÊ | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431464 | CITOBÊ-DEXA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101550253 | DOZEMAST TRIO | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 101860033 | SANTIPLEX B | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
+| 102350242 | COMPLEXO B 12 | EMS S/A | Ativo |
+| 102350328 | APEVITIN BC | EMS S/A | Ativo |
+| 102351340 | COMPLEXO B | EMS S/A | Ativo |
+| 102351341 | COMPLEXO B 12 XPE | EMS S/A | Ativo |
+| 103700261 | BENEUM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700811 | TIPICI | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103720302 | RENOVI B | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103720306 | RENOVI B PLUS | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103870029 | HYPLEX B | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103920089 | BERITIN   BC | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920229 | BONPETI | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104400220 | BENERVA | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104400233 | NAÉVIA | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104440053 | ORGANONEURO CEREBRAL | LABORATÓRIO GROSS S. A. | Ativo |
+| 104971351 | DEXANEURIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971567 | TRIRUBIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730157 | NOCIP | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730173 | LYVABE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730367 | COMBIRON FÓLICO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 106890207 | NEOPLEXUS | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

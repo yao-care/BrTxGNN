@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 268
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Diethylcarbamazine: nova indicação prevista, Linfedema sindrômico (syndromic lymphedema) (nível de evidência L5). Indicação original: Antiparasitários"
 monitor_inn: "diethylcarbamazine"
 predicted_indications: ["syndromic lymphedema", "primary lymphedema"]
@@ -78,9 +78,9 @@ As publicações abaixo tratam de filariose e suas complicações. Nenhuma avali
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 110630093 (cancelado) | Dietilcarbamazina Citrato | Não informada | Antiparasitários |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 110630093 | DIETILCARBAMAZINA CITRATO | FUNDAÇÃO OSWALDO CRUZ | Ativo |
 
 ## Considerações de Segurança
 

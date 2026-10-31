@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 445
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Meropenem: nova indicação prevista, Artrite bacteriana (bacterial arthritis) (nível de evidência L4). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "Lyme disease", "Peptostreptococcus infectious disease", "Ureaplasma urethritis", "gonococcal urethritis"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **artrite bacteriana (bacterial a
 | Nova Indicação Prevista | Artrite bacteriana (bacterial arthritis) |
 | Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 10) |
-| Número de Registros | 10 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 23) |
+| Número de Registros | 23 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 > **Observação:** a indicação de maior pontuação (artrite bacteriana) tem evidências fracas (L4).
@@ -104,13 +104,31 @@ Para a indicação de maior pontuação, **artrite bacteriana**, a literatura é
 
 Dos 10 registros encontrados, **10 estão válidos**; o meropenem monofármaco está comercializado nos dados compilados.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100430034 | Meropeném | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 100630190 | Mepenox | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 100410207 | Meropenem | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 100630229 | Meropeném | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 116370187 | Meropeném | Não informada | Antibióticos sistêmicos simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430034 | MEROPENÉM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431008 | MEROMAX | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100630190 | MEPENOX | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100630229 | MEROPENÉM | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 103700728 | MEROPENEM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 110110040 | MEROPENEM | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 116370187 | MEROPENÉM | BLAU FARMACÊUTICA S.A. | Ativo |
+| 121100433 | MERONEM | PFIZER BRASIL LTDA | Ativo |
+| 155620019 | MEROPENÉM | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 174200003 | MEROPENEM | EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 100410207 | MEROPENEM | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430723 | MEROMAX | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470599 | MEROPENEM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100470603 | MENEPROZ | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102010055 | MEROXIL | QUIMICA HALLER LTDA | Cancelado |
+| 102700126 | MOEPLAMINA | ARISTON INDS QUIMS FTCAS LTDA | Cancelado |
+| 114020075 | MEROPENEM | NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 116180056 | MERONEM | ASTRAZENECA DO BRASIL LTDA | Cancelado |
+| 137640084 | ZYLPEN | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 151670045 | MEROPENEM | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Cancelado |
+| 155840600 | MEROPENEM | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Cancelado |
+| 188300028 | ZYLPEN | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
+| 188300054 | MEROPENÉM | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
 
 Há ainda outros cinco registros cancelados (incluindo Meronem e Meromax), totalizando 10.
 

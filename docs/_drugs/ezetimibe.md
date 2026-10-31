@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "EZETIMIBE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Ezetimibe: nova indicação prevista, Deficiência da proteína de transferência de ésteres de colesterol (nível de evidência L5). Indicação original: Antilipêmicos"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência da proteína de tr
 | Nova Indicação Prevista | Deficiência da proteína de transferência de ésteres de colesterol |
 | Pontuação de Previsão TxGNN | 0,9909 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 16) |
-| Número de Registros | Pelo menos 20 registros (a lista pode estar incompleta) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 34 de 64) |
+| Número de Registros | 64 (ativos: 34) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -76,13 +76,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Lista parcial (pelo menos 20 registros; abaixo, os 5 principais):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 103700686 | EZETIMIBA | Não informada | Antilipêmicos |
-| Registro nº 103700687 | TEUMIB | Não informada | Antilipêmicos |
-| Registro nº 100290076 | EZETROL | Não informada | Antilipêmicos |
-| Registro nº 100290214 | ZETIA | Não informada | Antilipêmicos |
-| Registro nº 135170030 | ZETERINA | Não informada | Antilipêmicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290076 | EZETROL | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290135 | VYTORIN | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290214 | ZETIA | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100290215 | ZETSIM | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100330210 | PLENANCE EZE | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100470538 | EZETIMIBA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 101460091 | SINVASCOR EZE | LABORATÓRIOS BALDACCI LTDA | Ativo |
+| 102351132 | EZETIMIBA | EMS S/A | Ativo |
+| 102351139 | EZETIMIBA + SINVASTATINA | EMS S/A | Ativo |
+| 104540195 | NUSTENDI | DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA | Ativo |
+| 105250108 | ROSUCOR EZE | TORRENT DO BRASIL LTDA | Ativo |
+| 105730018 | RUNNER EZE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730139 | ROSUVASTATINA CÁLCICA + EZETIMIBA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730719 | TREZETE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830814 | EZETIMIBA + SINVASTATINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109170123 | EZETIMIBA | MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. | Ativo |
+| 109740234 | POSICOR | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740235 | POSICOR SIN | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740296 | EZETIMIBA + SINVASTATINA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740297 | EZETIMIBA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 118190316 | EMIBAZET SINV | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190425 | SINZETAB | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190494 | EZETIMIBA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520302 | EZETIMIBA + SINVASTATINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 135170028 | EZETIMIBA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 135170030 | ZETERINA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 155840553 | EZETIMIBA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840647 | EZETIMIBA + SINVASTATINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156510106 | EZETIMIBA + SINVASTATINA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 167730407 | EZETIMIBA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

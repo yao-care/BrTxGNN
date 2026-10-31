@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 639
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "Tinidazole"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "apocrine adenosis of breast", "blunt duct adenosis of breast", "congenital human immunodeficiency virus", "AIDS related complex", "benign mammary dysplasia"]
 description: "Tinidazole: nova indicação prevista, Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis) (nível de evidência L5). Indicação original: AMEBICIDAS, GIARDICIDAS E TRICOMONICIDAS"
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis) |
 | Pontuação de Previsão TxGNN | 0.9993 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 28 de 90) |
+| Número de Registros | 90 (ativos: 28) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,13 +66,40 @@ Em resumo, o escore alto (0,9993) deve ser interpretado com cautela: vem do mode
 
 Há 20 registros válidos. Principais exemplos:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 105830520 | Tinidazol | — | Amebicidas, giardicidas e tricomonicidas |
-| Registro 188710005 | Amplogin | — | Antiinfecciosos tópicos – associações medicamentosas |
-| Registro 154230115 | Tinidazol + nitrato de miconazol | — | Produtos ginecológicos antiinfecciosos tópicos, associações medicamentosas |
-| Registro 178170806 | Amplium G | — | Produtos ginecológicos antiinfecciosos tópicos, associações medicamentosas |
-| Registro 102980426 | Tindamas | — | Antimicótico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430991 | CREVAGIN | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431293 | TINIDAZOL + NITRATO DE MICONAZOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101550194 | TAKIL | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 101550251 | TRIVIFEME | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 102350580 | TIOCONAZOL + TINIDAZOL | EMS S/A | Ativo |
+| 102350801 | TIOTRAX | EMS S/A | Ativo |
+| 102980290 | TINIDAZOL + NITRATO DE MICONAZOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700575 | DERMOVAGIN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700577 | TINIDAZOL + NITRATO DE MICONAZOL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900115 | GYNOMAX | FARMOQUÍMICA S/A | Ativo |
+| 103900165 | GYNOPAC | FARMOQUÍMICA S/A | Ativo |
+| 105350154 | TIOCONAZOL + TINIDAZOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105710175 | GYNBEN | BELFAR LTDA | Ativo |
+| 105710177 | TRINIZOL-M | BELFAR LTDA | Ativo |
+| 105830290 | TIOCONAZOL + TINIDAZOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 105830520 | TINIDAZOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 125680086 | TIOCONAZOL + TINIDAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680386 | TINIDAZOL + NITRATO DE MICONAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 154230084 | TIOCONAZOL + TINIDAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230087 | TININ | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230112 | GINO-COLON | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230115 | TINIDAZOL + NITRATO DE MICONAZOL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840160 | TIOCONAZOL + TINIDAZOL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840204 | VULNAGEN | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 167730166 | TIOCONAZOL + TINIDAZOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 178170068 | TINIDAZOL + NITRATO DE MICONAZOL | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 178170806 | AMPLIUM G | COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. | Ativo |
+| 188710005 | AMPLOGIN | GALLIA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 100140029 | GINOMETRIM | QUIMICA FARMACEUTICA NIKKHO DO BRASIL LTDA | Cancelado |
+| 100820033 | POLIGINAX | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

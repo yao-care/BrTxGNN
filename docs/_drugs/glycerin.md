@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 347
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "glycerin"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
 description: "Glycerin: nova indicação prevista, Síndrome da cauda equina (cauda equina syndrome) (nível de evidência L5). Indicação original: LAXANTES IRRITANTES OU ESTIMULANTES"
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que ela possa ser eficaz para **Síndrome da cauda equina 
 | Nova Indicação Prevista (maior pontuação) | Síndrome da cauda equina (cauda equina syndrome) |
 | Pontuação de Previsão TxGNN | 0.9960 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 11) |
+| Número de Registros | 11 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -88,11 +88,19 @@ Para a indicação de maior pontuação (síndrome da cauda equina), não há li
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 104910011 (cancelado) | CLISTEROL | Não informada | Laxantes irritantes ou estimulantes |
-| Registro 117720010 (cancelado) | SOLUÇÃO DE GLICERINA | Não informada | Laxantes irritantes ou estimulantes |
-| Registro 103110005 (cancelado) | GLICERINA 12% | Não informada | Enemas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 103110005 | GLICERINA 12% | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 104910011 | CLISTEROL | JP INDUSTRIA FARMACEUTICA S/A | Ativo |
+| 117720010 | SOLUCAO DE GLICERINA | EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470020 | FLUORETO DE SÓDIO | JOFADEL IND FTCA SA | Cancelado |
+| 101470170 | OPTIVE | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
+| 102100033 | PASTA D´ÁGUA MENTOLADA | LABORATORIO TAYUYNA LTDA | Cancelado |
+| 102100037 | PASTA D'AGUA | LABORATORIO TAYUYNA LTDA | Cancelado |
+| 103510050 | CLISTER | QUIMICA E FARMACEUTICA GASPAR VIANA SA | Cancelado |
+| 104910058 | GLICERINA | JP INDUSTRIA FARMACEUTICA S/A | Cancelado |
+| 108170045 | SUPOSITÓRIO DE GLICERINA GRANADO | CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S | Cancelado |
+| 113440001 | GLICENAX | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
 
 ## Considerações de Segurança
 

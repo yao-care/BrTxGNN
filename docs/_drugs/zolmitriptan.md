@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **apenas literatura indireta** (pub
 | Nova Indicação Prevista | Atrophoderma vermiculata |
 | Pontuação de Previsão TxGNN | 0.9990 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -82,9 +82,10 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 186100010 (cancelado) | ZOMIG/ZOMIG OD | Não informada | Analgésicos contra enxaqueca |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 186100010 | ZOMIG | GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. | Ativo |
+| 116180067 | ZOMIG/ZOMIG OD | ASTRAZENECA DO BRASIL LTDA | Cancelado |
 
 ## Considerações de Segurança
 

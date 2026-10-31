@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 76
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Aripiprazole: nova indicação prevista, Transtorno afetivo maior (major affective disorder) (nível de evidência L1). Indicação original: Antipsicóticos"
 monitor_inn: "ARIPIPRAZOLE"
 predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
@@ -50,8 +50,8 @@ atualmente com **37 ensaios clínicos** e **19 publicações** apoiando esta dir
 | Nova Indicação Prevista | Transtorno afetivo maior (major affective disorder) |
 | Pontuação de Previsão TxGNN | 0,9962 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 31 de 40) |
+| Número de Registros | 40 (ativos: 31) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -98,13 +98,40 @@ Foram selecionados os ensaios mais relevantes, priorizando Fase 3 concluídos e 
 
 Há 20 registros válidos. Os cinco principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 125680290 | Aripiprazol | Não informada | Antipsicóticos |
-| Registro nº 105730177 | Aristab ODT | Não informada | Antipsicóticos |
-| Registro nº 100630301 | Aripiprazol | Não informada | Antipsicóticos |
-| Registro nº 156490007 | Aripiprazol | Não informada | Antipsicóticos |
-| Registro nº 105730017 | Aquarela | Não informada | Antipsicóticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100470587 | ARIPIPRAZOL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100630301 | ARIPIPRAZOL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681177 | ARIPIPRAZOL | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102351307 | ARPEJO | EMS S/A | Ativo |
+| 102351411 | ARIPIPRAZOL | EMS S/A | Ativo |
+| 102351417 | ARPEJO | EMS S/A | Ativo |
+| 102980530 | SENSAZ | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980550 | ARIPIPRAZOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103720301 | BIQUIZ | SUPERA FARMA LABORATÓRIOS S.A | Ativo |
+| 103900226 | HEDD | FARMOQUÍMICA S/A | Ativo |
+| 105250076 | TOARIP | TORRENT DO BRASIL LTDA | Ativo |
+| 105350234 | ARIPIPRAZOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105730017 | AQUARELA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730079 | AQUARELA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730177 | ARISTAB ODT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730178 | AQUARELA ODT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730425 | ARISTAB | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730661 | ARIPIPRAZOL | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730724 | ARISTAB | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105831055 | ARPIO | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190475 | ARIPIPRAZOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680290 | ARIPIPRAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680308 | HARIP | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680381 | HARIP ODT | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 155840552 | ARIPIPRAZOL | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156490007 | ARIPIPRAZOL | UNICHEM FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 156510057 | ARIPIPRAZOL | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 156510059 | KAVIUM | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 156510122 | KAVIUM ODT | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 170420003 | ARIPIPRAZOL | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

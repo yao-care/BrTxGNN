@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 127
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Betamethasone: nova indicação prevista, Alopecia areata (alopecia areata) (nível de evidência L2). Indicação original: Glicocorticoides tópicos simples (exceto uso oftálmico)"
 monitor_inn: "BETAMETHASONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
@@ -50,8 +50,8 @@ atualmente com **6 ensaios clínicos** e **20 publicações** apoiando esta dire
 | Nova Indicação Prevista | Alopecia areata (alopecia areata) |
 | Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 172 de 497) |
+| Número de Registros | 497 (ativos: 172) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -92,13 +92,40 @@ A alopecia areata é uma doença autoimune em que células T atacam os folículo
 
 Há 20 registros válidos e o medicamento é comercializado. Os principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 178170799 | Diprosone | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| Registro nº 101070233 | Betnovate | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| Registro nº 141070019 | Dermovat | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
-| Registro nº 102350570 | Betametasona | Não informada | Glicocorticoides sistêmicos |
-| Registro nº 104970188 | Betaprospan | Não informada | Glicocorticoides sistêmicos – associações medicamentosas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430797 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430798 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430820 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA + SULFATO DE NEOM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430821 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA + SULFATO DE NEOM | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430824 | TROK-N | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430917 | BETATRINTA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430980 | TROK-G | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431146 | DIPROPIONATO DE BETAMETASONA + FOSFATO DISSÓDICO DE BETAMETA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431319 | VALERATO DE BETAMETASONA + SULFATO DE GENTAMICINA + TOLNAFTA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431357 | PERMESE | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431381 | KOIDE D | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431406 | PERMUT | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431429 | TROK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431430 | TROK | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431439 | DIPROPIONATO DE BETAMETASONA + SULFATO DE GENTAMICINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431552 | BETAMETASONA + MALEATO DE DEXCLORFENIRAMINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101070216 | BETNOVATE N | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+| 101070233 | BETNOVATE | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+| 101180164 | POSTEC | APSEN FARMACEUTICA S/A | Ativo |
+| 101180625 | HYAX | APSEN FARMACEUTICA S/A | Ativo |
+| 102350501 | EMSCORT | EMS S/A | Ativo |
+| 102350557 | MALEATO DE DEXCLORFENIRAMINA + BETAMETASONA | EMS S/A | Ativo |
+| 102350570 | BETAMETASONA | EMS S/A | Ativo |
+| 102350591 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | EMS S/A | Ativo |
+| 102350592 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | EMS S/A | Ativo |
+| 102350607 | CELERGIN | EMS S/A | Ativo |
+| 102350652 | DIPROPIONATO DE BETAMETASONA + ÁCIDO SALICÍLICO | EMS S/A | Ativo |
+| 102350711 | DIPROPIONATO DE BETAMETASONA | EMS S/A | Ativo |
+| 102350713 | DIPROPIONATO DE BETAMETASONA + SULFATO DE GENTAMICINA | EMS S/A | Ativo |
+| 102350736 | MALEATO DE DEXCLORFENIRAMINA + BETAMETASONA | EMS S/A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 359
 evidence_level: L1
 indication_count: 7
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Icatibant: nova indicação prevista, Deficiência do inibidor de C1 (C1 inhibitor deficiency) (nível de evidência L1). Indicação original: Outros produtos não enquadrados em classe terapêutica específi…"
 monitor_inn: "icatibant"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência do inibidor de C1 
 | Nova Indicação Prevista | Deficiência do inibidor de C1 (C1 inhibitor deficiency) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 3) |
-| Número de Registros | 3 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 5) |
+| Número de Registros | 5 (ativos: 3) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -93,11 +93,13 @@ Esta previsão corresponde, na prática, a uma **confirmação da indicação j�
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 115410023 (cancelado) | GULANDARIPA | Não informada | Outros produtos não enquadrados em classe terapêutica específica |
-| Registro 115410019 (cancelado) | ACETATO DE ICATIBANTO | Não informada | Outros produtos não enquadrados em classe terapêutica específica |
-| Registro 106390305 (cancelado) | FIRAZYR | Não informada | Outros produtos não enquadrados em classe terapêutica específica |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 115410019 | ACETATO DE ICATIBANTO | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Ativo |
+| 115410023 | GULANDARIPA | CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICA | Ativo |
+| 126270019 | FIRAZYR | TAKEDA FARMACEUTICA BRASIL LTDA | Ativo |
+| 106390305 | FIRAZYR | TAKEDA PHARMA LTDA. | Cancelado |
+| 169790003 | FIRAZYR | SHIRE FARMACÊUTICA BRASIL LTDA. | Cancelado |
 
 ## Considerações de Segurança
 

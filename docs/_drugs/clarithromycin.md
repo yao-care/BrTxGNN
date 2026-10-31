@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clarithromycin: nova indicação prevista, Hiperamilasemia (nível de evidência L5). Indicação original: Macrolídeos"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **hiperamilasemia (hyperamylasemi
 | Nova Indicação Prevista | Hiperamilasemia |
 | Pontuação de Previsão TxGNN | 0,9935 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | Pelo menos 20 registros (a lista pode estar incompleta) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 29 de 75) |
+| Número de Registros | 75 (ativos: 29) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -75,13 +75,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Os registros abaixo correspondem aos cinco primeiros da lista, que pode estar incompleta (pelo menos 20 registros válidos de produtos com um único princípio ativo).
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105530200 | Klaricid | Não informada | Macrolídeos |
-| Registro nº 155620025 | Claritromicina | Não informada | Macrolídeos |
-| Registro nº 141070628 | Claritromicina | Não informada | Macrolídeos |
-| Registro nº 125680366 | Claritromicina | Não informada | Macrolídeos |
-| Registro nº 183260025 | Claritromicina | Não informada | Macrolídeos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431538 | CLARITROMICINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350482 | CLARITROMICINA | EMS S/A | Ativo |
+| 102350544 | CLARITROMICINA | EMS S/A | Ativo |
+| 102351096 | ESOGASTRO IBP | EMS S/A | Ativo |
+| 102351315 | CLABAT | EMS S/A | Ativo |
+| 102351316 | CLABAT | EMS S/A | Ativo |
+| 102351368 | AMOXICILINA + CLARITROMICINA + ESOMEPRAZOL | EMS S/A | Ativo |
+| 102980536 | SEPTMYC | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700365 | PYLORITRAT | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700540 | LANSOPRAZOL + CLARITROMICINA + AMOXICILINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104971550 | CLINBACTER | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105530200 | KLARICID | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 105530396 | BULANSI | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 105730125 | PYLORIPAC | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730282 | OMEPRAMIX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830943 | CLARITROMICINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 109650004 | CLARITROMICINA | MANDALA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE PRODUT | Ativo |
+| 115600225 | H.BACTER | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600260 | LANSOPRAZOL +CLARITROMICINA +AMOXICILINA | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 116370192 | CLARILIB | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370234 | CLARITROMICINA | BLAU FARMACÊUTICA S.A. | Ativo |
+| 125680366 | CLARITROMICINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 141070628 | CLARITROMICINA | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 155620025 | CLARITROMICINA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 155840635 | CLARITROMICINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155900003 | CLARITROMICINA | MR PHARMA LTDA | Ativo |
+| 167250004 | TESTE CA 29298 | EMPRESA DE TESTE LTDA. (VS01) | Ativo |
+| 174650016 | CLARITROMICINA | FARMA VISION IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENT | Ativo |
+| 183260025 | CLARITROMICINA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100330071 | MACLICIN | LIBBS FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

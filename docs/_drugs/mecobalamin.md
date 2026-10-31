@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 436
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Mecobalamin: nova indicação prevista, Colangite Esclerosante (Sclerosing Cholangitis) (nível de evidência L5). Indicação original: Monovitaminas, exceto vitamina K"
 monitor_inn: "mecobalamin"
 predicted_indications: ["sclerosing cholangitis", "multiple endocrine neoplasia", "bone Paget disease"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Colangite Esclerosante (Sclerosing Cholangitis) |
 | Pontuação de Previsão TxGNN | 0,9950 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 12 de 12) |
-| Número de Registros | 12 (ativos: 12) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 17) |
+| Número de Registros | 17 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -72,13 +72,25 @@ Outras previsões do modelo, também sem evidências, foram: neoplasia endócrin
 
 Todos os 12 registros encontrados estão **válidos**. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100431535 | MEC 12 | Não informada | Monovitaminas, exceto vitamina K (cancelado) |
-| Registro 105730116 | DODIBE | Não informada | Monovitaminas, exceto vitamina K (cancelado) |
-| Registro 100431532 | DOZI | Não informada | Monovitaminas, exceto vitamina K (cancelado) |
-| Registro 114620042 | MECOBE | Não informada | Monovitaminas, exceto vitamina K (cancelado) |
-| Registro 101550253 | DOZEMAST TRIO | Não informada | Vitamina B1 em associação com vitaminas B6 e/ou B12 (cancelado) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431532 | DOZI | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431535 | MEC 12 | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431605 | DOZI | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101180664 | COBI-12 | APSEN FARMACEUTICA S/A | Ativo |
+| 101550248 | DOZEMAST | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 101550253 | DOZEMAST TRIO | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 102351475 | MECODOZZE | EMS S/A | Ativo |
+| 105730116 | DODIBE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 109740360 | ATIVB | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740365 | DEFB | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740371 | MECOBALAMINA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 114620042 | MECOBE | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 114620052 | MECOBALAMINA | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 114620054 | PERI B12 | MYRALIS INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 135170093 | MECOBALAMINA | ALTHAIA S.A. INDUSTRIA FARMACEUTICA | Ativo |
+| 156650006 | BMAST | DROXTER INDUSTRIA, COMÉRCIO E PARTICIPAÇÕES LTDA | Ativo |
+| 103410056 | METHYCOBAL | TRB PHARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA LTDA | Cancelado |
 
 ---
 

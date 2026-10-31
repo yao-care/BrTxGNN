@@ -89,11 +89,11 @@ Foram recuperadas 20 publicações; abaixo estão as mais relevantes para hipert
 
 O medicamento é comercializado no Brasil: os 3 registros existentes estão válidos (3 de 3).
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 193570006 | TERGLY | Não informada | Outros produtos anti-hemorrágicos |
-| Registro 128760006 | GLYPRESSIN | Não informada | Outros produtos anti-hemorrágicos |
-| Registro 193570005 | Acetato de Terlipressina | Não informada | Outros produtos anti-hemorrágicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 128760006 | GLYPRESSIN | LABORATÓRIOS FERRING LTDA | Ativo |
+| 193570005 | ACETATO DE TERLIPRESSINA | VOLPHARMA DISTRIBUIDORA DE PRODUTOS HOSPITALARES E | Ativo |
+| 193570006 | TERGLY | VOLPHARMA DISTRIBUIDORA DE PRODUTOS HOSPITALARES E | Ativo |
 
 ## Considerações de Segurança
 

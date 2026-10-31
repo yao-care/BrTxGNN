@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Acyclovir: nova indicação prevista, Ceratoconjuntivite epitelial puntata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: ANTIVIROTICOS (INIBE REPLICACAO VIROTI…"
 ---
 
@@ -50,8 +50,8 @@ mas **não há ensaios clínicos** e apenas **2 publicações** foram recuperada
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial puntata (punctate epithelial keratoconjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9967 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 45 de 132) |
+| Número de Registros | 132 (ativos: 45) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -73,13 +73,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 105730556 | Aciclovir | Não informada | Antivirótico (inibe a replicação viral) |
-| Registro 167730634 | Aciclovir | Não informada | Antivirótico |
-| Registro 115600082 | Acivirax | Não informada | Antivirótico |
-| Registro 100470317 | Herpesil | Não informada | Antivirótico |
-| Registro 116370214 | Zorvy | Não informada | Antiviral |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431222 | ACICLOVIR | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470317 | HERPESIL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470329 | ACICLOVIR | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100630265 | ACICLOVIR | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681166 | ACICLOVIR | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100890280 | ACICLOVIR | MERCK S/A | Ativo |
+| 101070253 | ZOVIRAX | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+| 102350406 | ANTIVIRAX | EMS S/A | Ativo |
+| 102351322 | ACICLOVIR | EMS S/A | Ativo |
+| 103700091 | EZOPEN | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700610 | ACICLOVIR | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103920223 | ZICLOVIR | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920224 | ACICLOVIR | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104970194 | UNI-VIR | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971416 | ACICLOVIR | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730063 | HPMIX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730521 | HPMIX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730522 | HPMIX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730556 | ACICLOVIR | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730568 | ACICLOVIR | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830964 | ACICLOVIR | GERMED FARMACEUTICA LTDA | Ativo |
+| 106890205 | ACICLOR | KLEY HERTZ FARMACEUTICA S.A | Ativo |
+| 110110007 | ZYNVIR | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 115600082 | ACIVIRAX | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600204 | ACICLOVIR | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 116370164 | ACICLOVIR SÓDICO | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370213 | ACICLOVIR | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370214 | ZORVY | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370217 | ZORVY CREME | BLAU FARMACÊUTICA S.A. | Ativo |
+| 118190435 | ACICLOVIR | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 A lista apresenta apenas 5 dos registros e pode ser parcial.
 

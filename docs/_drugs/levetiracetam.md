@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 404
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **epilepsia visual (visual epilep
 | Nova Indicação Prevista | Beta-ketothiolase deficiency |
 | Pontuação de Previsão TxGNN | 0.9990 |
 | Nível de Evidência | L5 (para a indicação principal); L1 para o estado de mal epiléptico |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 49 de 54) |
+| Número de Registros | 54 (ativos: 49) |
 | Decisão Recomendada | Hold (indicação principal); Proceed with Guardrails (estado de mal epiléptico) |
 
 

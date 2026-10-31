@@ -50,8 +50,8 @@ A previsão com maior respaldo de evidências é **anovulação (anovulation)**,
 | Nova Indicação Prevista | 46,XY distúrbio do desenvolvimento sexual por defeito de esteroidogênese testicular (46,XY disorder of sex development due to testicular steroidogenesis defect) |
 | Pontuação de Previsão TxGNN | 0,9990 |
 | Nível de Evidência | L5 (para a previsão de maior pontuação) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 8) |
+| Número de Registros | 8 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 > **Observação:** entre as 10 previsões avaliadas, a de maior pontuação (46,XY DSD) não tem evidências. Somente a 10ª, **anovulação** (pontuação de 0,9952), tem evidências reais (nível L1, decisão *Proceed with Guardrails*). Ela é analisada nas seções seguintes, pois é a única com dados clínicos.
@@ -97,10 +97,16 @@ Para as demais previsões, atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 135690591 (cancelado) | INDUX | Não informada | Outros produtos para uso em ginecologia e obstetrícia |
-| Registro nº 183260245 (cancelado) | CLOMID | Não informada | Outros produtos para uso em ginecologia e obstetrícia |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 135690591 | INDUX | EMS SIGMA PHARMA LTDA | Ativo |
+| 183260245 | CLOMID | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100890352 | SEROPHENE | MERCK S/A | Cancelado |
+| 101810255 | CLOMID | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350376 | CLOMIFENO | EMS S/A | Cancelado |
+| 102980190 | CLOMIFEN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 105830160 | INDUX | GERMED FARMACEUTICA LTDA | Cancelado |
+| 111240018 | SEROPHENE | SERONO PRODUTOS FARMACÊUTICOS LTDA | Cancelado |
 
 ## Considerações de Segurança
 

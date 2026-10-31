@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Lidocaine: nova indicação prevista, Ceratoconjuntivite epitelial punctata (nível de evidência L5). Indicação original: Anestésicos locais"
 ---
 
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **ceratoconjuntivite epitelial pu
 | Nova Indicação Prevista | Ceratoconjuntivite epitelial punctata |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | Pelo menos 20 (a lista pode estar incompleta) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 55 de 182) |
+| Número de Registros | 182 (ativos: 55) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -97,13 +97,40 @@ Atualmente não há literatura relacionada para a ceratoconjuntivite epitelial p
 
 Foram listados 20 registros válidos, todos de medicamentos de ingrediente único (lista possivelmente parcial). Os principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 155840162 | LIDOGEL | Não informada | Anestésicos locais |
-| Registro nº 104400188 | LIDIAL | Não informada | Anestésicos locais |
-| Registro nº 105730589 | DERMOMAX | Não informada | Anestésicos |
-| Registro nº 102980365 | XYLESTESIN ISOBÁRICO | Não informada | Medicamentos com ação no miocárdio |
-| Registro nº 165070015 | CLORIDRATO DE LIDOCAÍNA | Não informada | Anestésicos locais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101000132 | ROCEFIN | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
+| 101180021 | OTO - XILODASE | APSEN FARMACEUTICA S/A | Ativo |
+| 101430024 | MALVATRICIN | MEGALABS FARMACEUTICA S.A. | Ativo |
+| 101430075 | PLIAGLIS | MEGALABS FARMACEUTICA S.A. | Ativo |
+| 101770016 | ALPHACAINE | DFL INDÚSTRIA E COMÉRCIO S/A | Ativo |
+| 102100052 | TIMEOLATE | LABORATORIO TAYUYNA LTDA | Ativo |
+| 102350902 | LIDOCAÍNA | EMS S/A | Ativo |
+| 102351257 | OTOMIXYN | EMS S/A | Ativo |
+| 102980033 | MEDICAÍNA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980072 | XYLESTESIN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980249 | CLORIDRATO DE LIDOCAÍNA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980357 | XYLESTESIN | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980365 | XYLESTESIN ISOBÁRICO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980384 | XYLESTESIN COM NOREPINEFRINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980385 | XYLESTESIN PESADA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980552 | LIDOCAÍNA + TETRACAÍNA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980565 | SKINCAINE | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980582 | CLORIDRATO DE LIDOCAÍNA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700348 | TEUCEF | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700712 | CEFTRIAXONA DISSÓDICA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103850016 | ELOTIN | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 103870039 | HYPOCAÍNA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103870041 | CLORIDRATO DE LIDOCAÍNA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103900187 | LIDOSPORIN | FARMOQUÍMICA S/A | Ativo |
+| 104110001 | SS WHITE 100 | S S WHITE ARTIGOS DENTARIOS S/A | Ativo |
+| 104400188 | LIDIAL | CELLERA FARMACEUTICA S.A. | Ativo |
+| 104810076 | LIDOPASS | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104970111 | LIDOJET | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971351 | DEXANEURIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730589 | DERMOMAX | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

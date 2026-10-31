@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Amoxicillin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Amoxicillin: nova indicação prevista, síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) (nível de evidência L5). Indicação original: PENICILINA DE AMPLO ESPECTRO"
 ---
 
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que ela poderia ser útil para a **síndrome de hipervisco
 | Nova Indicação Prevista | síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity syndrome) |
 | Pontuação de Previsão TxGNN | 0,9963 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 123 de 359) |
+| Número de Registros | 359 (ativos: 123) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -71,13 +71,40 @@ Atualmente não há literatura relacionada.
 
 Os dados compilados indicam situação de comercialização "Comercializado", com 20 registros listados (a lista pode ser parcial). Os registros abaixo são produtos de ingrediente único.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 170420029 | Amoxicilina | Não informada | Penicilina de amplo espectro |
-| Registro nº 167730477 | Polimoxil | Não informada | Penicilina de amplo espectro |
-| Registro nº 105730548 | Amoxicilina tri-hidratada | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 125680375 | Apluc | Não informada | Penicilina de amplo espectro |
-| Registro nº 135690722 | Velamox BD | Não informada | Penicilina de amplo espectro |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430727 | AMOXICILINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430728 | AMOXICILINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430802 | AMOXICILINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430811 | AMOXICILINA SÓDICA + CLAVULANATO DE POTÁSSIO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431004 | AMOXICILINA + CLAVULANATO DE POTÁSSIO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431067 | AMOXICILINA + CLAVULANATO DE POTÁSSIO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431154 | SINOT CLAV | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431155 | SINOT CLAV | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431170 | SINOT | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431171 | SINOT | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431385 | ATAK CLAV | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431426 | ATAK CLAV | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470431 | AMOXICILINA + CLAVULANATO DE POTÁSSIO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470452 | CLAXAM | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470457 | AMOXICILINA + CLAVULANATO DE POTÁSSIO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681145 | AMOXICILINA TRI-HIDRATADA + CLAVULANATO DE POTÁSSIO | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681168 | AMOXICILINA + CLAVULANATO DE POTÁSSIO | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 101070003 | AMOXIL | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+| 101070076 | CLAVULIN | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
+| 102350455 | AMOXICILINA | EMS S/A | Ativo |
+| 102350465 | AMOXICILINA | EMS S/A | Ativo |
+| 102350528 | AMOXICILINA + CLAVULANATO DE POTASSIO | EMS S/A | Ativo |
+| 102350532 | AMOXICILINA + CLAVULANATO DE POTASSIO | EMS S/A | Ativo |
+| 102350608 | AMOXICILINA | EMS S/A | Ativo |
+| 102350665 | AMOXICILINA | EMS S/A | Ativo |
+| 102350819 | AMOXICILINA + CLAVULANATO DE POTÁSSIO | EMS S/A | Ativo |
+| 102350845 | AMOXICILINA + CLAVULANATO DE POTÁSSIO | EMS S/A | Ativo |
+| 102351096 | ESOGASTRO IBP | EMS S/A | Ativo |
+| 102351143 | POLICLAVUMOXIL | EMS S/A | Ativo |
+| 102351144 | POLICLAVUMOXIL BD | EMS S/A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

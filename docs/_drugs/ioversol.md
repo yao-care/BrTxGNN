@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ioversol"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "alopecia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ioversol: nova indicação prevista, Osteoartrite (osteoarthritis) (nível de evidência L5). Indicação original: Não informada nos textos de registro disponíveis"
 ---
 
@@ -83,11 +83,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 113980036 (válido) | OPTIRAY | Não informada | Não informada |
-| Registro 113980030 (cancelado) | OPTIRAY | Não informada | Não informada |
-| Registro 149800023 (cancelado) | OPTIRAY | Não informada | Não informada |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 113980036 | OPTIRAY | GUERBET IMAGEM DO BRASIL LTDA | Ativo |
+| 113980030 | OPTIRAY | GUERBET IMAGEM DO BRASIL LTDA | Cancelado |
+| 149800023 | OPTIRAY | GUERBET PRODUTOS RADIOLÓGICOS LTDA | Cancelado |
 
 ---
 

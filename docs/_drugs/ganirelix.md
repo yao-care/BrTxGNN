@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 336
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ganirelix: nova indicação prevista, Hipertricose (hypertrichosis) (nível de evidência L5). Indicação original: Outros produtos não enquadrados em classe terapêutica específica (cla…"
 monitor_inn: "ganirelix"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial male-limited precocious puberty", "persistent fetal circulation syndrome", "aromatase excess syndrome", "centra precocious puberty 1", "familial isolated trichomegaly"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **hipertricose (hypertrichosis)**
 | Nova Indicação Prevista | Hipertricose (hypertrichosis) |
 | Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
-| Número de Registros | 3 (ativos: 3) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 4) |
+| Número de Registros | 4 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -67,11 +67,12 @@ Outras previsões do modelo seguem o mesmo padrão. Entre as dez principais, a m
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 146820126 (cancelado) | FERTESSA | Não informada | Outros produtos não enquadrados em classe terapêutica específica |
-| Registro 146820122 (cancelado) | ACETATO DE GANIRRELIX | Não informada | Outros produtos não enquadrados em classe terapêutica específica |
-| Registro 100290212 (cancelado) | ORGALUTRAN | Não informada | Outros produtos não enquadrados em classe terapêutica específica |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290212 | ORGALUTRAN | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 146820122 | ACETATO DE GANIRRELIX | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 146820126 | FERTESSA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 101710097 | ORGALUTRAN | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Cancelado |
 
 ## Considerações de Segurança
 

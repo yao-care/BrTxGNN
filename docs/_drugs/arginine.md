@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 73
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Arginine: nova indicação prevista, Gastroparesia (Gastroparesis) (nível de evidência L4). Indicação original: Vitaminas e suplementos minerais"
 monitor_inn: "ARGININE"
 predicted_indications: ["gastroparesis (disease)"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que ela pode ser eficaz para **gastroparesia (Gastroparesi
 | Nova Indicação Prevista | Gastroparesia (Gastroparesis) |
 | Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 18) |
-| Número de Registros | 18 (ativos: 18) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 24 de 73) |
+| Número de Registros | 73 (ativos: 24) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -87,13 +87,40 @@ A relação com a indicação original é indireta: o uso aprovado é nutriciona
 
 Foram encontrados 18 registros, e os 18 estão válidos; o medicamento é comercializado no Brasil. Principais registros (5 de 18):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 156510039 | Reforgan | Não informada | Vitaminas e suplementos minerais |
-| Registro 115600171 | Aspargil C | Não informada | Vitaminas |
-| Registro 100410131 | Nephrotect | Não informada | Nutrientes parenterais |
-| Registro 100410159 | Aminoven 10% Infant | Não informada | Nutrientes parenterais |
-| Registro 106830181 | Olimel | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410150 | SMOFKABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410159 | AMINOVEN 10% INFANT | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419935 | AMINOVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419938 | KABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100840148 | SPIDUFEN | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Ativo |
+| 100849959 | SPIDUFEN LIMÃO COLA | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Ativo |
+| 100849960 | SPIDUFEN ORO | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Ativo |
+| 100849961 | ARGYFEN | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Ativo |
+| 100850109 | NUTRIFLEX PLUS | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850124 | NUTRIFLEX LIPID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850145 | AMIXAL | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850246 | NUTRIFLEX LIPID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850247 | NUTRIFLEX | LABORATORIOS B. BRAUN S/A | Ativo |
+| 106830181 | OLIMEL | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830185 | NUMETA NEO | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830186 | NUMETA PED | BAXTER HOSPITALAR LTDA | Ativo |
+| 112780074 | ACERTIL | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 112780075 | ACERTANLO | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 112780077 | ACERTALIX | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 112780084 | TRIPLIXAM | LABORATÓRIOS SERVIER DO BRASIL LTDA | Ativo |
+| 115600171 | ASPARGIL C | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 121100504 | VELSIPITY | PFIZER BRASIL LTDA | Ativo |
+| 100330010 | ENERGOPLEX | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100410003 | AMINOSTERIL HEPA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410020 | SOLUÇÃO DE AMINOÁCIDOS COM ELETRÓLITOS E SEM CARBOIDRATOS  A | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410026 | AMINOSTERIL 10% | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410041 | AMINOSTERIL HEPA 8% + GLICOSE | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100470053 | LONGEVIT | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

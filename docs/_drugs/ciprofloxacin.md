@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ciprofloxacin: nova indicação prevista, esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -48,8 +48,8 @@ O ciprofloxacino é um antibacteriano da classe das fluoroquinolonas, usado em i
 | Nova Indicação Prevista | esclerodermia difusa (diffuse scleroderma) |
 | Pontuação de Previsão TxGNN | 0,9987 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 6) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 62 de 188) |
+| Número de Registros | 188 (ativos: 62) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

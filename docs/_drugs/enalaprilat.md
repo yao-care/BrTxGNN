@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Enalaprilat: nova indicação prevista, Glaucoma Hereditário Primário (Primary Hereditary Glaucoma) (nível de evidência L5). Indicação original: Anti-hipertensivos"
 monitor_inn: "enalaprilat"
 predicted_indications: ["primary hereditary glaucoma"]
@@ -72,9 +72,9 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100290031 (cancelado) | RENITEC | Não informada | Anti-hipertensivos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290031 | RENITEC | ORGANON FARMACÊUTICA LTDA. | Ativo |
 
 ## Considerações de Segurança
 

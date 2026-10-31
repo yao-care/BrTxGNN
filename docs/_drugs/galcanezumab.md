@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Deficiência de Cofator 2 da He
 | Nova Indicação Prevista | Deficiência de Cofator 2 da Heparina (Heparin Cofactor 2 Deficiency) |
 | Pontuação de Previsão TxGNN | 0,9950 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -72,9 +72,10 @@ Em ambas, também não há vínculo mecanístico crível. No caso do excesso de 
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 100330224 (cancelado) | EMGALITY | Não informada | Outras preparações antienxaqueca |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330224 | EMGALITY | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 112600200 | EMGALITY | ELI LILLY DO BRASIL LTDA | Cancelado |
 
 ## Considerações de Segurança
 

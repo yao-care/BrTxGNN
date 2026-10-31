@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 464
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Modafinil: nova indicação prevista, Insônia (insomnia) (nível de evidência L3). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 monitor_inn: "modafinil"
 predicted_indications: ["insomnia (disease)"]
@@ -50,8 +50,8 @@ Mecanisticamente, a previsão é questionável: um fármaco que promove vigília
 | Nova Indicação Prevista | Insônia (insomnia) |
 | Pontuação de Previsão TxGNN | 0,9985 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -88,9 +88,10 @@ A maioria dessas publicações trata de sonolência e fadiga em outras condiçõ
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100330145 (cancelado) | STAVIGILE | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330145 | STAVIGILE | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 104750051 | VIGIL | LUNDBECK BRASIL LTDA | Cancelado |
 
 ## Considerações de Segurança
 

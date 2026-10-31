@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 97
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Azacitidina (AZACITIDINA) é um agente antineoplásico da classe dos análogos d
 | Nova Indicação Prevista | Previsão TxGNN ainda não gerada |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (nenhum dado de estudos disponível no pacote) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 11) |
-| Número de Registros | 11 (ativos: 10) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 14) |
+| Número de Registros | 14 (ativos: 13) |
 | Decisão Recomendada | **Hold** |
 
 ---

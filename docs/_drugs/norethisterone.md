@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 479
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Norethisterone: nova indicação prevista, Amenorreia (Amenorrhea) (nível de evidência L4). Indicação original: Progestágenos simples (anticoncepcionais e terapia hormonal em gineco…"
 monitor_inn: "NORETHISTERONE"
 predicted_indications: ["amenorrhea (disease)"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** registrados e **20 publicações** as
 | Nova Indicação Prevista | Amenorreia (Amenorrhea) |
 | Pontuação de Previsão TxGNN | 0,9960 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 18) |
-| Número de Registros | 18 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 61) |
+| Número de Registros | 61 (ativos: 18) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -87,13 +87,40 @@ Foram priorizadas revisões sistemáticas e estudos clínicos. Nenhuma publicaç
 
 Todos os 18 registros estão vigentes (18 de 18 licenças válidas). Principais exemplos:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 104971500 | Primolut-Nor | — | Progestágenos simples |
-| Registro 109740101 | Norestin | — | Anticoncepcionais |
-| Registro 109740262 | Noretisterona | — | Anticoncepcionais |
-| Registro 100470656 | Estalis | — | Estrogênios associados a outros fármacos, exclusive androgênios |
-| Registro 170560043 | Mesigyna | — | Anticoncepcionais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330106 | NATIFA PRO | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100330211 | NATIFA PRO UBD | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100430928 | ENANTATO DE NORETISTERONA + VALERATO DE ESTRADIOL | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102351103 | ESTRADIOL+ACETATO DE NORETISTERONA | EMS S/A | Ativo |
+| 104971495 | PRIMOSISTON | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971500 | PRIMOLUT-NOR | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 109740101 | NORESTIN | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740117 | SUPREMA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740262 | NORETISTERONA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740386 | ESTRADIOL + ACETATO DE NORETISTERONA | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 109740387 | SUPRELLE | BIOLAB SANUS FARMACÊUTICA LTDA | Ativo |
+| 115600215 | ENANTATO DE NORETISTERONA + VALERATO DE ESTRADIOL | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600224 | NOREGYNA | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600234 | ENANTATO DE NORETISTERONA + VALERATO DE ESTRADIOL | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600240 | FINIFERT | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 170560043 | MESIGYNA | BAYER S.A. | Ativo |
+| 197110005 | SYSTEN CONTI | THERAMEX FARMACEUTICA LTDA. | Ativo |
+| 197110006 | SYSTEN SEQUI | THERAMEX FARMACEUTICA LTDA. | Ativo |
+| 100200034 | PRIMOLUT - NOR | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 100200037 | PRIMOSISTON | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 100200078 | MESIGYNA | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 100200082 | CLIANE | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 100430740 | LINATIS | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430941 | NOELE | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100431042 | ACTIVELLE | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470656 | ESTALIS | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100680012 | ESTRACOMB TTS | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100680094 | MERIGEST | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100680101 | ESTRAGEST | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100680150 | MERICOMB | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Citotoxicidade
 

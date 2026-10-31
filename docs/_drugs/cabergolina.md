@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 169
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Existem **20 registros** da substância no mercado brasileiro, porém os detalhe
 | Nova Indicação Prevista | — (sem previsão TxGNN) |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | N/A |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 12) |
-| Número de Registros | 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 25) |
+| Número de Registros | 25 (ativos: 15) |
 | Decisão Recomendada | **Hold** |
 
 ---
@@ -77,9 +77,33 @@ Adicionalmente, o campo `predicted_indications` retornou **lista vazia**, o que 
 
 Os 20 registros existem no sistema regulatório, mas os detalhes não foram recuperados nesta execução do pipeline. A tabela abaixo não pode ser preenchida:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---|---|---|---|
-| — | — | — | — |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431274 | CABERGOLINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100630307 | CABERGOLINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 102351161 | CABERGOLINA | EMS S/A | Ativo |
+| 102980410 | CABEREDUX | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980442 | CABERGOLINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 105830808 | CABERGOLINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 110390214 | CABERGOLINA | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 110630134 | CABERGOLINA | FUNDAÇÃO OSWALDO CRUZ | Ativo |
+| 118190331 | CABERGOLINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 121100412 | DOSTINEX | PFIZER BRASIL LTDA | Ativo |
+| 122140091 | CABERTRIX | ADIUM S.A. | Ativo |
+| 123520266 | CABERGOLINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 125680257 | CABERGOLINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 146820083 | CABERGOLINA | SUN FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 198830001 | CABERGOLINA | FUNDAÇÃO BAIANA DE PESQ. CIENTIFICA E DESENV.  TEC | Ativo |
+| 102160140 | DOSTINEX | LABORATÓRIOS PFIZER LTDA | Cancelado |
+| 102980409 | CABERGOLINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Cancelado |
+| 104920229 | CABERGOLINA | BIOLAB FARMA GENERICOS LTDA | Cancelado |
+| 109220064 | ADEGRIP | H B FARMA LABORATÓRIOS LTDA | Cancelado |
+| 122140090 | CABERGOLINA | ADIUM S.A. | Cancelado |
+| 123890061 | DOSTINEX | PHARMACIA BRASIL LTDA | Cancelado |
+| 126750197 | CABERGOLINA | NOVA QUIMICA FARMACÊUTICA S/A | Cancelado |
+| 135690677 | CABERGOLINA | EMS SIGMA PHARMA LTDA | Cancelado |
+| 167730428 | CABERGOLINA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730433 | BERGOX | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
 > **Ação necessária:** Executar novamente a consulta ao portal ANVISA com extração completa dos campos de cada registro.
 

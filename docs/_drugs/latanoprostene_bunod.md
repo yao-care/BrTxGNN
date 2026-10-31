@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 394
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Latanoprostene Bunod: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). Indicação original: Análogos da prostaglandina"
 monitor_inn: "latanoprostene bunod"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
@@ -96,9 +96,9 @@ Para outras indicações previstas, foram identificadas as publicações abaixo,
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 119610029 (cancelado) | VYZULTA | Não informada | Análogos da prostaglandina |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 119610029 | VYZULTA | BL INDÚSTRIA OTICA LTDA | Ativo |
 
 ## Considerações de Segurança
 

@@ -64,9 +64,9 @@ Como observação complementar, a segunda indicação prevista pelo modelo, a **
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 129160206 (cancelado) | AKLIEF | Não informada | Retinoides para tratamento da acne (para uso tópico) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 129160206 | AKLIEF | GALDERMA BRASIL LTDA | Ativo |
 
 ## Considerações de Segurança
 

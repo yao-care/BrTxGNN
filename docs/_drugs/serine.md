@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 584
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Serine: nova indicação prevista, Miopatia visceral familiar (familial visceral myopathy) (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "Serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
@@ -52,8 +52,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Miopatia visceral familiar (familial visceral myopathy) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 16) |
-| Número de Registros | 16 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 14 de 28) |
+| Número de Registros | 28 (ativos: 14) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -86,13 +86,36 @@ Observação: para outras indicações previstas (obstrução intestinal e glauc
 
 Os 16 registros estão válidos (16 de 16). Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100410131 | Nephrotect | — | Nutrientes parenterais |
-| Registro 100410159 | Aminoven 10% Infant | — | Nutrientes parenterais |
-| Registro 100850145 | Amixal | — | Nutrientes parenterais |
-| Registro 100850109 | Nutriflex Plus | — | Nutrientes parenterais |
-| Registro 106830181 | Olimel | — | Reposição hidroeletrolítica e alimentação parenteral |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410150 | SMOFKABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410159 | AMINOVEN 10% INFANT | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419935 | AMINOVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100419938 | KABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100850109 | NUTRIFLEX PLUS | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850124 | NUTRIFLEX LIPID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850145 | AMIXAL | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850246 | NUTRIFLEX LIPID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850247 | NUTRIFLEX | LABORATORIOS B. BRAUN S/A | Ativo |
+| 106830181 | OLIMEL | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830185 | NUMETA NEO | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830186 | NUMETA PED | BAXTER HOSPITALAR LTDA | Ativo |
+| 100410003 | AMINOSTERIL HEPA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410041 | AMINOSTERIL HEPA 8% + GLICOSE | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100850001 | AMINOPLASMAL L 10 A | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850122 | PEDIAMINO TAU | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850140 | PEDIAMINO TAU | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 105530190 | INTRASOL | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 106830068 | TRAVASOL | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830083 | POLIAMINOÁCIDOS RENAMIN | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830097 | CLINIMIX | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830109 | POLIAMINOÁCIDOS | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830157 | OLICLINOMEL | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830176 | OLICLINOMEL N8-800 | BAXTER HOSPITALAR LTDA | Cancelado |
+| 113440016 | SOLUCAO DE AMINOACIDOS 4,08% | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
+| 113440017 | SOLUCAO DE AMINOACIDOS 10% COM CARBOIDRATOS E  ELETROLITOS | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
 
 ---
 

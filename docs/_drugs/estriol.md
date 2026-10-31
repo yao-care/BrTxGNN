@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 302
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Estriol: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L3). Indicação original: Não disponível nos registros da ANVISA"
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
@@ -50,8 +50,8 @@ Atualmente, não há ensaios clínicos registrados e há **6 publicações** rel
 | Nova Indicação Prevista | Amenorreia (amenorrhea) |
 | Pontuação de Previsão TxGNN | 0,9918 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 3) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 15) |
+| Número de Registros | 15 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

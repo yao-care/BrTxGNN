@@ -50,8 +50,8 @@ Entre as dez previsões, as mais plausíveis do ponto de vista biológico são a
 | Nova Indicação Prevista | Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) |
 | Pontuação de Previsão TxGNN | 0,9999 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
-| Número de Registros | 2 (ativos: 2) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 3) |
+| Número de Registros | 3 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -85,10 +85,11 @@ Para a indicação principal (neoplasia do nervo trigêmeo), atualmente não há
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 101180659 (cancelado) | PRIMID | Não informada | Anticonvulsivantes |
-| Registro 101180131 (cancelado) | PRIMID | Não informada | Anticonvulsivantes |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101180131 | PRIMID | APSEN FARMACEUTICA S/A | Ativo |
+| 101180659 | PRIMID | APSEN FARMACEUTICA S/A | Ativo |
+| 121100033 | EPIDONA | PFIZER BRASIL LTDA | Cancelado |
 
 ## Citotoxicidade
 

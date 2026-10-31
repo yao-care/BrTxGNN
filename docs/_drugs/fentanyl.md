@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Fentanyl: nova indicação prevista, Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrom… (nível de evidência L5). Indicação original: Analgésicos narcóticos"
 monitor_inn: "FENTANYL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
 | Pontuação de Previsão TxGNN | 0,9946 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 11) |
-| Número de Registros | 11 (ativos: 9) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 29) |
+| Número de Registros | 29 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -76,13 +76,37 @@ Atualmente não há literatura relacionada.
 
 Todos os 11 registros encontram-se **válidos**. Os cinco principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 100410166 | Citrato de Fentanila | Não informada | Analgésicos narcóticos |
-| Registro 104970264 | Unifental | Não informada | Analgésicos narcóticos |
-| Registro 103700587 | Anesfent | Não informada | Analgésicos narcóticos |
-| Registro 155730048 | Fentora | Não informada | Analgésicos narcóticos |
-| Registro 102980588 | Fentanest Bolsa | Não informada | Anestésicos opioides |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102980081 | FENTANEST | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980302 | NILPERIDOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980588 | FENTANEST BOLSA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700587 | ANESFENT | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700588 | CITRATO DE FENTANILA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104970264 | UNIFENTAL | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 110110036 | CITRATO DE FENTANILA | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 113430107 | TRANIL | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 113430151 | CITRATO DE FENTANILA | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 155620060 | FENTANIL | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 100410166 | CITRATO DE FENTANILA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430944 | CITRATO DE FENTANILA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100630204 | BIOFENT | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100630230 | CITRATO DE FENTANILA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350903 | SEFENTIL | EMS S/A | Cancelado |
+| 102350970 | CITRATO DE FENTANILA | EMS S/A | Cancelado |
+| 104650117 | FENTANEO | LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA | Cancelado |
+| 105530186 | FENTABBOTT | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Cancelado |
+| 105830600 | FENTANOLAX | GERMED FARMACEUTICA LTDA | Cancelado |
+| 105830669 | CITRATO DE FENTANILA | GERMED FARMACEUTICA LTDA | Cancelado |
+| 112360004 | INOVAL | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 112360027 | DUROGESIC | JANSSEN-CILAG FARMACÊUTICA LTDA | Cancelado |
+| 135690489 | NILAFEN | EMS SIGMA PHARMA LTDA | Cancelado |
+| 135690553 | CITRATO DE FENTANILA | EMS SIGMA PHARMA LTDA | Cancelado |
+| 146820019 | FENDROP | SUN FARMACÊUTICA DO BRASIL LTDA | Cancelado |
+| 154710005 | FENDROP | SUN FARMACÊUTICA LTDA | Cancelado |
+| 155730048 | FENTORA | TEVA FARMACÊUTICA LTDA. | Cancelado |
+| 167730022 | FENTALIX | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 167730119 | CITRATO DE FENTANILA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 443
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Mepolizumab: nova indicação prevista, Trombocitopenia por destruição imune (thrombocytopenia due to immune… (nível de evidência L4). Indicação original: Outros medicamentos antiasmáticos"
 monitor_inn: "mepolizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
@@ -74,9 +74,9 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 101070335 (cancelado) | NUCALA | Não informada | Outros medicamentos antiasmáticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101070335 | NUCALA | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 280
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dupilumab: nova indicação prevista, Bronquite (Bronchitis) (nível de evidência L3). Indicação original: Imunomodulador"
 monitor_inn: "dupilumab"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
@@ -50,8 +50,8 @@ atualmente com **1 ensaio clínico** (indireto, em rinossinusite crônica) e **1
 | Nova Indicação Prevista | Bronquite (Bronchitis) |
 | Pontuação de Previsão TxGNN | 0,9992 |
 | Nível de Evidência | L3 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -85,9 +85,10 @@ Ressalva importante: o único ensaio listado trata de rinossinusite crônica sem
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 183260335 (cancelado) | DUPIXENT | Não informada | Imunomodulador |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 183260335 | DUPIXENT | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 113001175 | DUPIXENT | SANOFI-AVENTIS FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

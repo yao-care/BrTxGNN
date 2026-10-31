@@ -71,9 +71,9 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 183260480 (cancelado) | CABLIVI | — | Antitrombótico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 183260480 | CABLIVI | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
 
 ## Considerações de Segurança
 

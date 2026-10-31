@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Lansoprazole: nova indicação prevista, obstrução duodenal (duodenal obstruction) (nível de evidência L5). Indicação original: ANTIULCEROSOS"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | obstrução duodenal (duodenal obstruction) |
 | Pontuação de Previsão TxGNN | 0,9968 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 18) |
-| Número de Registros | 18 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 65) |
+| Número de Registros | 65 (ativos: 16) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -66,13 +66,40 @@ Portanto, a previsão deve ser tratada com cautela: não há estudo que a susten
 
 Há 18 registros nos dados compilados, entre produtos isolados e associações (por exemplo, com claritromicina e amoxicilina para erradicação de *H. pylori*). Os dados de situação dos registros são inconsistentes entre si, por isso a situação individual de cada um deve ser confirmada diretamente na ANVISA. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 183260178 | Lansoprazol | Não informada | Antiulcerosos |
-| Registro 105730129 | Prazol | Não informada | Antiulcerosos |
-| Registro 135690004 | Lanz | Não informada | Antiulcerosos |
-| Registro 154230016 | Lanzopept | Não informada | Antiulcerosos |
-| Registro 118190439 | Laflugi | Não informada | Antiulcerosos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 102351114 | LANSOPRAZOL | EMS S/A | Ativo |
+| 103700365 | PYLORITRAT | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700540 | LANSOPRAZOL + CLARITROMICINA + AMOXICILINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 105730125 | PYLORIPAC | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105730126 | PYLORIPAC RETRAT | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830348 | LANSOPRAZOL | GERMED FARMACEUTICA LTDA | Ativo |
+| 115600225 | H.BACTER | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600260 | LANSOPRAZOL +CLARITROMICINA +AMOXICILINA | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 118190344 | LANSOPRAZOL | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190439 | LAFLUGI | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680211 | LANSOPRAZOL | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135690004 | LANZ | EMS SIGMA PHARMA LTDA | Ativo |
+| 154230016 | LANZOPEPT | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 167250004 | TESTE CA 29298 | EMPRESA DE TESTE LTDA. (VS01) | Ativo |
+| 167730301 | LANSOPRAZOL | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 183260178 | LANSOPRAZOL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+| 100470282 | LANSOHEXAL | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100810089 | LANSOMAX | LABORATORIO CLIMAX SA | Cancelado |
+| 100820109 | DIPROX | ABBOTT PRODUTOS PARA SAÚDE LTDA. | Cancelado |
+| 101810214 | PRAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810319 | PYLORIPAC | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810358 | LANSOPRAZOL | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810443 | LANSOPRID | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810459 | LANSODOM | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 101810579 | PYLORIPAC RETRAT | MEDLEY INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 102350427 | ALKAZOL | EMS S/A | Cancelado |
+| 102350691 | LANSOPRAZOL | EMS S/A | Cancelado |
+| 102940132 | PYLORISET | NEOLATINA COMÉRCIO E INDÚSTRIA FARMACEUTICA S.A | Cancelado |
+| 103700163 | LANOGASTRO | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
+| 103900111 | LAMPRAZ | FARMOQUÍMICA S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

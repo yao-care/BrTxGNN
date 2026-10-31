@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 212
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Celecoxib: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (Acromesomelic dysplasi… (nível de evidência L5). Indicação original: Artrite reumatoide, espondilite anquilosante, o…"
 monitor_inn: "CELECOXIB"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que ele pode ser eficaz para **displasia acromesomélica t
 | Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (Acromesomelic dysplasia, Hunter-Thompson type) |
 | Pontuação de Previsão TxGNN | 0,9988 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 39) |
+| Número de Registros | 39 (ativos: 20) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

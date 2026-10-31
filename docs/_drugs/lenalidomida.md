@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 398
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -61,8 +61,8 @@ Adicionalmente, os dados de mecanismo de ação (MOA), indicações aprovadas, a
 | Nova Indicação Prevista | Não disponível – previsões TxGNN ausentes |
 | Pontuação de Previsão TxGNN | N/A |
 | Nível de Evidência | L5 – sem estudos vinculados a nenhuma previsão |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 10) |
-| Número de Registros | 10 (ativos: 8) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 11) |
+| Número de Registros | 11 (ativos: 9) |
 | Decisão Recomendada | **Hold** |
 
 ---

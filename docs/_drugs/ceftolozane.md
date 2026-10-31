@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ceftolozane: nova indicação prevista, Uretrite por Ureaplasma (Ureaplasma urethritis) (nível de evidência L5). Indicação original: Outras cefalosporinas e penêmicos"
 monitor_inn: "ceftolozane"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "urogenital tuberculosis", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Uretrite por Ureaplasma (Ureapl
 | Nova Indicação Prevista | Uretrite por Ureaplasma (Ureaplasma urethritis) |
 | Pontuação de Previsão TxGNN | 0,9989 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -75,9 +75,10 @@ Para a indicação principal (uretrite por Ureaplasma), atualmente não há lite
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 101710231 (cancelado) | ZERBAXA | Não informada | Outras cefalosporinas e penêmicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101710231 | ZERBAXA | MERCK SHARP & DOHME FARMACEUTICA LTDA. | Ativo |
+| 100290200 | ZERBAXA | ORGANON FARMACÊUTICA LTDA. | Cancelado |
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 65
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Ampicillin: nova indicação prevista, Laringite (Laryngitis) (nível de evidência L4). Indicação original: Penicilina de amplo espectro"
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Laringite (Laryngitis)**, mas a
 | Nova Indicação Prevista | Laringite (Laryngitis) |
 | Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 16 de 20) |
-| Número de Registros | 20 (ativos: 16) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 125) |
+| Número de Registros | 125 (ativos: 18) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -86,13 +86,40 @@ Foram recuperadas 19 publicações; abaixo estão as mais relevantes (nenhuma é
 
 Todos os 20 registros estão válidos. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 103700299 | Ampicilina Sódica | Não informada | Penicilina de amplo espectro |
-| Registro nº 116370098 | Cilinon | Não informada | Penicilina de amplo espectro |
-| Registro nº 100410185 | Amplatil | Não informada | Antiinfecciosos |
-| Registro nº 100430793 | Sulbactam Sódico + Ampicilina Sódica | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 174200008 | Ampicilina Sódica + Sulbactam Sódica | Não informada | Antibióticos sistêmicos - associações medicamentosas |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100430687 | AMPLACILINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430793 | SULBACTAM SÓDICO + AMPICILINA SÓDICA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350431 | AMPICILINA | EMS S/A | Ativo |
+| 103700299 | AMPICILINA SÓDICA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700793 | ULCTAM | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 110110013 | AMPICILINA SÓDICA + SULBACTAM SÓDICO | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 110110059 | AMPLATIL | NEWCOM FARMACEUTICA LTDA. | Ativo |
+| 116370098 | CILINON | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370186 | AMPICILINA SÓDICA + SULBACTAM SÓDICO | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370202 | AMPCTAN | BLAU FARMACÊUTICA S.A. | Ativo |
+| 118190010 | AMPICILAB | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190170 | AMPICILINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680144 | AMPICILINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680201 | AMPICILINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 155620032 | AMPICILINA SÓDICA + SULBACTAM SÓDICA | ANTIBIÓTICOS DO BRASIL LTDA | Ativo |
+| 174200006 | AMPICILINA SÓDICA | EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 174200008 | AMPICILINA SÓDICA + SULBACTAM SÓDICO | EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 188300001 | AMPICILINA SÓDICA + SULBACTAM SÓDICO | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |
+| 100410185 | AMPLATIL | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410214 | AMPICILINA SÓDICA + SULBACTAM SÓDICO | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100430552 | PULMOVACIN | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430755 | AMPICILINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100430756 | AMPICILINA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470430 | AMPICILINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100630048 | BIPENCIL | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100640016 | DURAPEN | DE MAYO INDS QUIMS FTCAS LTDA | Cancelado |
+| 100680896 | AMPLACILINA | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 101160086 | AMPICILINA | KNOLL PRODS QUIMS FARMACEUTICOS LTDA. | Cancelado |
+| 101310035 | AMPLITOR | COMPANHIA BRASILEIRA DE ANTIBIOTICOS-CIBRAN | Cancelado |
+| 101800006 | AMPICILINA SODICA | BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

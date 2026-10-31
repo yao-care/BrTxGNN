@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Fexofenadine: nova indicação prevista, Conjuntivite da rosácea (rosacea conjunctivitis) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos"
 monitor_inn: "Fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Conjuntivite da rosácea (rosacea conjunctivitis) |
 | Pontuação de Previsão TxGNN | 0,9985 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 35 de 62) |
+| Número de Registros | 62 (ativos: 35) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -73,13 +73,40 @@ Todas as demais previsões também estão no nível L5, sem ensaios ou literatur
 
 Foram encontrados 20 registros **válidos** atualmente. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 123520142 | Cloridrato de fexofenadina | Não informada | Anti-histamínicos sistêmicos |
-| Registro nº 186200010 | Allegra | Não informada | Anti-histamínicos sistêmicos |
-| Registro nº 102351327 | Allexofedrin Pediátrico | Não informada | Anti-histamínicos para uso sistêmico |
-| Registro nº 167730635 | Lexler | Não informada | Anti-histamínicos para uso sistêmico |
-| Registro nº 196240011 | Aler | Não informada | Anti-histamínicos sistêmicos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431273 | ALTIVA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431305 | CLORIDRATO DE FEXOFENADINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431523 | CLORIDRATO DE FEXOFENADINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 102350637 | ALLEXOFEDRIN | EMS S/A | Ativo |
+| 102350860 | ALLEXOFEDRIN D | EMS S/A | Ativo |
+| 102351309 | CLORIDRATO DE FEXOFENADINA | EMS S/A | Ativo |
+| 102351327 | ALLEXOFEDRIN PEDIÁTRICO | EMS S/A | Ativo |
+| 102351361 | CLORIDRATO DE FEXOFENADINA | EMS S/A | Ativo |
+| 102351362 | CLORIDRATO DE FEXOFENADINA + CLORIDRATO DE PSEUDOEFEDRINA | EMS S/A | Ativo |
+| 103700742 | CLORIDRATO DE FEXOFENADINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700780 | FEXXOLYV | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103920230 | CLORIDRATO DE FEXOFENADINA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920238 | AFECSO | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810139 | CLORIDRATO DE FEXOFENADINA | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810147 | FEXX | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105831010 | CLORIDRATO DE FEXOFENADINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 105831021 | CLORIDRATO DE FEXOFENADINA + CLORIDRATO DE PSEUDOEFEDRINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190293 | CLORIDRATO DE FEXOFENADINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190294 | CLORIDRATO DE FEXOFENADINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 123520142 | CLORIDRATO DE FEXOFENADINA | RANBAXY FARMACÊUTICA LTDA | Ativo |
+| 143810203 | CLORIDRATO DE FEXOFENADINA | CIMED INDUSTRIA S.A | Ativo |
+| 143810216 | FENAXXE | CIMED INDUSTRIA S.A | Ativo |
+| 143810284 | PRAALERGIA | CIMED INDUSTRIA S.A | Ativo |
+| 155840603 | CLORIDRATO DE FEXOFENADINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840606 | DESRINITE | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840712 | CLORIDRATO DE FEXOFENADINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156490006 | CLORIDRATO DE FEXOFENADINA | UNICHEM FARMACÊUTICA DO BRASIL LTDA | Ativo |
+| 167730630 | CLORIDRATO DE FEXOFENADINA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730635 | LEXLER | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 167730664 | LEXLER | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

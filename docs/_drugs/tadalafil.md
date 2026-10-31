@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 603
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "TADALAFIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 description: "Tadalafil: nova indicação prevista, Hipertricose universal congênita tipo Ambras (Ambras type hypertrichosis universalis congenita) (nível de evidência L5). Indicação original: Não consta nos dados l…"
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Hipertricose universal congêni
 | Nova Indicação Prevista | Hipertricose universal congênita tipo Ambras (Ambras type hypertrichosis universalis congenita) |
 | Pontuação de Previsão TxGNN | 0.9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
-| Número de Registros | 0 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 26 de 49) |
+| Número de Registros | 49 (ativos: 26) |
 | Decisão Recomendada | Hold |
 
 ---

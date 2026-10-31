@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 561
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ravulizumab: nova indicação prevista, Neutropenia congênita grave autossômica recessiva por deficiência de G6PC3 (nível de evidência L5). Indicação original: Outros produtos não enquadrados em classe tera…"
 monitor_inn: "ravulizumab"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para a **neutropenia congênita grave 
 | Nova Indicação Prevista | Neutropenia congênita grave autossômica recessiva por deficiência de G6PC3 |
 | Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -63,9 +63,10 @@ Outras previsões do modelo seguem o mesmo padrão: ocupam as posições 2 a 10 
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 116180301 (cancelado) | ULTOMIRIS | Não informada | Outros produtos não enquadrados em classe terapêutica específica |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 116180301 | ULTOMIRIS | ASTRAZENECA DO BRASIL LTDA | Ativo |
+| 198110004 | ULTOMIRIS | ALEXION SERVICOS E FARMACEUTICA DO BRASIL LTDA | Cancelado |
 
 ## Considerações de Segurança
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 462
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Mirtazapine: nova indicação prevista, Síndrome de Ohdo e variantes (Ohdo syndrome and variants) (nível de evidência L5). Indicação original: Antidepressivos"
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Síndrome de Ohdo e variantes (Ohdo syndrome and variants) |
 | Pontuação de Previsão TxGNN | 0,9942 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 30 de 36) |
+| Número de Registros | 36 (ativos: 30) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -70,13 +70,40 @@ Outras previsões do modelo seguem a mesma lógica:
 
 Todos os 20 registros encontrados são de medicamentos de componente único e estão **cancelados**; não há registro válido atualmente. Exibem-se os 5 primeiros.
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| 103700791 | Mirtazapina | Não informada | Antidepressivos |
-| 100470464 | Razapina | Não informada | Antidepressivos |
-| 103700765 | Mirtazapina | Não informada | Antidepressivos |
-| 105830944 | Mirtazapina | Não informada | Antidepressivos |
-| 100290224 | Remeron | Não informada | Antidepressivos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100290224 | REMERON | ORGANON FARMACÊUTICA LTDA. | Ativo |
+| 100431595 | MYRZEN ODT | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100470462 | MIRTAZAPINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470464 | RAZAPINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100470512 | MIRTAZAPINA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 100681146 | MIRTAZAPINA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 100681147 | MIRTAZAPINA | NOVARTIS BIOCIENCIAS S.A | Ativo |
+| 102351281 | MIRTAZAPINA | EMS S/A | Ativo |
+| 103700765 | MIRTAZAPINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700791 | MIRTAZAPINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700802 | MYRTZ ODT | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700809 | MYZAPY | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103900232 | CATARSE ODT | FARMOQUÍMICA S/A | Ativo |
+| 105250030 | MENELAT | TORRENT DO BRASIL LTDA | Ativo |
+| 105250081 | MENELAT ODT | TORRENT DO BRASIL LTDA | Ativo |
+| 105250083 | MIRTAZAPINA | TORRENT DO BRASIL LTDA | Ativo |
+| 105250125 | MIRTAZAPINA | TORRENT DO BRASIL LTDA | Ativo |
+| 105350235 | MIRTAZAPINA | LABORATÓRIO GLOBO SA | Ativo |
+| 105830944 | MIRTAZAPINA | GERMED FARMACEUTICA LTDA | Ativo |
+| 118190353 | MIRTAZAPINA | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680277 | MIRTAZAPINA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680316 | ZAPSY | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 141070616 | MIRTAZAPINA | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 143810249 | MIRTAZAPINA | CIMED INDUSTRIA S.A | Ativo |
+| 151670038 | MIRTAZAPINA | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
+| 151670052 | MIRTAZAPINA | AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA | Ativo |
+| 155840566 | MIRTAZAPINA | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 156510126 | MIRTAZAPINA | ZYDUS NIKKHO FARMACÊUTICA LTDA | Ativo |
+| 167730606 | MIRTAZAPINA | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 183260289 | MIRTAZAPINA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 Entre os demais registros cancelados constam também as marcas Myzapy, Myrtz ODT e Menelat.
 

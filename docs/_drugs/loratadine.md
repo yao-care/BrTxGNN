@@ -7,7 +7,7 @@ title: LORATADINE
 drugbank_id: DB00455
 permalink: /drugs/loratadine/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Item | Value |
 |------|-------|
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | pelo menos 20 |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 41 de 132) |
+| Número de Registros | 132 (ativos: 41) |
 | DrugBank ID | [DB00455](https://go.drugbank.com/drugs/DB00455) |
 | Number of Predicted Indications | 9 |
 
