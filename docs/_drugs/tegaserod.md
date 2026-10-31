@@ -74,9 +74,10 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 109740242 (cancelado) | ZELMAC | Não informada | Outros produtos para o aparelho digestivo e metabolismo |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100680185 | ZELMAC | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 109740242 | ZELMAC | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
 
 ## Considerações de Segurança
 

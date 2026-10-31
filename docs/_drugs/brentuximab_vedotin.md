@@ -88,9 +88,10 @@ Não há RCT específico para linfoma folicular. Principais publicações recupe
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 106390269 (cancelado) | ADCETRIS | Não informada | Antineoplásico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 126270021 | ADCETRIS | TAKEDA FARMACEUTICA BRASIL LTDA | Ativo |
+| 106390269 | ADCETRIS | TAKEDA PHARMA LTDA. | Cancelado |
 
 ## Citotoxicidade
 

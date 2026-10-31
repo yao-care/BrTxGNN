@@ -80,9 +80,10 @@ Atualmente não há literatura relacionada a novas indicações disponível no E
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| (não informado) | (não informado) | (não informado) | (não informado) |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 126270026 | EVOBRIG | TAKEDA FARMACEUTICA BRASIL LTDA | Ativo |
+| 106390281 | EVOBRIG | TAKEDA PHARMA LTDA. | Cancelado |
 
 > **Nota:** O registro consta como existente (1 licença ativa, status "Marketed"), porém os campos detalhados não foram preenchidos no Evidence Pack. Recomenda-se consultar diretamente a base da ANVISA para obter as informações completas.
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Gemifloxacin: nova indicação prevista, Síndrome de hiperviscosidade policlonal (polyclonal hyperviscosity sy… (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "gemifloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "endomyometritis"]
@@ -74,9 +74,9 @@ Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 105730363 (cancelado) | FACTIVE | Não informada | Antibióticos sistêmicos simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 105730363 | FACTIVE | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Cancelado |
 
 ## Conclusão e Próximos Passos
 

@@ -88,9 +88,11 @@ Vale destacar que essa é a indicação já aprovada do fármaco na Agência Eur
 
 ## Informações de Comercialização no Brasil
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 106390290 (cancelado) | TAKHZYRO | Não informada | Outros produtos não enquadrados em classe terapêutica específica |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 126270009 | TAKHZYRO | TAKEDA FARMACEUTICA BRASIL LTDA | Ativo |
+| 106390290 | TAKHZYRO | TAKEDA PHARMA LTDA. | Cancelado |
+| 169790023 | TAKHZYRO | SHIRE FARMACÊUTICA BRASIL LTDA. | Cancelado |
 
 ## Considerações de Segurança
 
