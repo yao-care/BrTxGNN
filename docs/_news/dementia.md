@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Notícias sobre demência (dementia)"
+title: "Notícias sobre perda de memória (dementia)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre demência (dementia). 1 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre perda de memória (dementia). 1 notícias, 4 medicamentos relacionados."
 permalink: /news/dementia/
 last_modified_at: 2026-10-31
 ---
 
-# Notícias sobre demência (dementia)
+# Notícias sobre perda de memória (dementia)
 
 [← Voltar à visão geral das notícias]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Que notícias há sobre demência (dementia)?">
-<strong>demência (dementia)</strong> tem atualmente <strong>1 notícias</strong> e 4 medicamentos relacionados.
+<p class="key-answer" data-question="Que notícias há sobre perda de memória (dementia)?">
+<strong>perda de memória (dementia)</strong> tem atualmente <strong>1 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
-Esta página reúne as notícias de saúde mais recentes sobre «demência» e lista os medicamentos da base de dados BrTxGNN cujas indicações previstas incluem esta doença.
+Esta página reúne as notícias de saúde mais recentes sobre «perda de memória» e lista os medicamentos da base de dados BrTxGNN cujas indicações previstas incluem esta doença.
 </div>
 
 <div class="related-drugs-card">

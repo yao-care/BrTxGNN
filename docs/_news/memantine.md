@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Memantine. 4 indicações previstas."
 permalink: /news/memantine/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Notícias sobre Memantine
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Memantine?">
-<strong>Memantine</strong> tem atualmente <strong>2 notícias</strong> e 4 indicações previstas.
+<strong>Memantine</strong> tem atualmente <strong>1 notícias</strong> e 4 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ Esta página combina as indicações previstas por IA para Memantine com as not�
 <p><a href="{{ '/drugs/memantine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (1)
 
 ### [Reumatismo não afeta só idosos: veja os sinais de alerta e quando procurar um especialista - Jornal Correio](https://news.google.com/rss/articles/CBMizwFBVV95cUxQVkxzX2VSOTFabnJDOGlhcXZlM0ZRdDZnZ2pBTDVGODZPaXM5Tkt0b3JvOVN6TFJuSDZCU19sTkxpRFF3VU45VmdaajJQMTFzMlhyTVBmQ0xORVNiMDkwOFVzckJTM0w2bVlWRWQ1azBrUnA5N201OXJvWTV2aERiVVNoRmFGTWFtZkpCaWJmTGZWd24xeTBVY0Y1QThmVGJ0T0hzQ2Vyd2V0aUJDMmZlYmI4U3F3c0tJWlNYSkkwWE5OZ1ZTUFU4T01YVm9iZEk?oc=5)
 
 2026-10-30 <span class="news-indication-tag">reumatismo</span>
 
 Fonte: [Jornal Correio](https://news.google.com/rss/articles/CBMizwFBVV95cUxQVkxzX2VSOTFabnJDOGlhcXZlM0ZRdDZnZ2pBTDVGODZPaXM5Tkt0b3JvOVN6TFJuSDZCU19sTkxpRFF3VU45VmdaajJQMTFzMlhyTVBmQ0xORVNiMDkwOFVzckJTM0w2bVlWRWQ1azBrUnA5N201OXJvWTV2aERiVVNoRmFGTWFtZkpCaWJmTGZWd24xeTBVY0Y1QThmVGJ0T0hzQ2Vyd2V0aUJDMmZlYmI4U3F3c0tJWlNYSkkwWE5OZ1ZTUFU4T01YVm9iZEk?oc=5)
-
----
-
-### [Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">doença cardíaca</span>
-
-Fonte: [Estadão](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5)
 
 ---
 

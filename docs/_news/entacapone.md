@@ -46,7 +46,7 @@ Esta página combina as indicações previstas por IA para ENTACAPONE com as not
 
 ### [Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLU42cGVpazJNNUJxQUk0REN5bW04T0JMSjBKX0Q0dUNFWkppMkgwM3JkVHdiTXlwNENyUWVtWWxiSmdFdDZhVXhKN2I2STBfUkZLREU1RXpxaEZ3VlpYVmZYY0wzWkk3aTMtMU1oUFBOMlN5eXJiX05Jc3lkS2VGQlNweVRNNWNoSTdvMWItakNRM1lEclQxMm84anB3N1ZZUXNhTy1rT0h0WXpvVGdNRWwxby14RGl0eWVlaktVZ1dmR3N0VmlWaTRHOXMtSUY5c3NpTlJn?oc=5)
 
-2026-10-30 <span class="news-indication-tag">demência</span>
+2026-10-30 <span class="news-indication-tag">perda de memória</span>
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLU42cGVpazJNNUJxQUk0REN5bW04T0JMSjBKX0Q0dUNFWkppMkgwM3JkVHdiTXlwNENyUWVtWWxiSmdFdDZhVXhKN2I2STBfUkZLREU1RXpxaEZ3VlpYVmZYY0wzWkk3aTMtMU1oUFBOMlN5eXJiX05Jc3lkS2VGQlNweVRNNWNoSTdvMWItakNRM1lEclQxMm84anB3N1ZZUXNhTy1rT0h0WXpvVGdNRWwxby14RGl0eWVlaktVZ1dmR3N0VmlWaTRHOXMtSUY5c3NpTlJn?oc=5)
 
