@@ -96,7 +96,7 @@ As demais previsões (doença do metabolismo da biotina, malformação esofágic
 
 ## Informações de Comercialização no Brasil
 
-
+A situação dos registros na ANVISA está na tabela de visão geral acima.
 
 ---
 

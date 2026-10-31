@@ -109,7 +109,7 @@ Dos 16 ensaios compilados, os 10 mais relevantes são:
 
 **Para prosseguir, é necessário:**
 - Obter da bula na ANVISA as advertências e contraindicações oficiais, hoje ausentes.
-- Esclarecer a situação regulatória: os dados indicam apenas um registro cancelado, embora existam formulações parenterais e nasais do fármaco.
+- Esclarecer a situação regulatória das formulações parenterais e nasais do fármaco.
 - Documentar o mecanismo de ação a partir do DrugBank.
 - Definir limites de dose e de duração do tratamento, especialmente em crianças e idosos, com monitoramento de risco gastrointestinal, renal e hemorrágico.
 ## Aviso de isenção de responsabilidade

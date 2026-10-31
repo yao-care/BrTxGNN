@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Methotrexate: nova indicação prevista, Blastoma Pulmonar (Pulmonary Blastoma) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
@@ -143,7 +143,7 @@ Consulte a bula para advertências e contraindicações oficiais.
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
 - Complementar os dados de mecanismo de ação (DrugBank).
 - Realizar revisão de literatura e de relatos de caso específicos de blastoma pulmonar.
-- Esclarecer a situação regulatória (registros cancelados) e a disponibilidade de formulações.
+- Esclarecer a situação regulatória e a disponibilidade de formulações.
 - Avaliar o risco de toxicidade pulmonar do metotrexato em contexto de tumor pulmonar.
 ## Aviso de isenção de responsabilidade
 

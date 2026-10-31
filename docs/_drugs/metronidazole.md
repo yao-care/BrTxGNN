@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 455
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Metronidazole: nova indicação prevista, Pneumocistose (Pneumocystosis) (nível de evidência L5). Indicação original: Amebicidas, giardicidas e tricomonicidas"
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
@@ -129,7 +129,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Obter dados de mecanismo de ação e das advertências e contraindicações da bula (ANVISA), hoje ausentes.
 - Verificar se há atividade in vitro/in vivo contra *Pneumocystis* antes de qualquer avanço (hoje não há base para isso).
 - Reorientar a avaliação para indicações com plausibilidade maior (pôliposis em capuz, proctossigmoidite ulcerativa, úlcera vulvar de Crohn/amebiana), que exigem revisão sistemática e estudos controlados.
-- Esclarecer a situação regulatória (registros cancelados) e formas farmacêuticas disponíveis.
+- Esclarecer a situação regulatória e formas farmacêuticas disponíveis.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

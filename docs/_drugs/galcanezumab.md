@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 333
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Galcanezumab: nova indicação prevista, Deficiência de Cofator 2 da Heparina (Heparin Cofactor 2 Deficiency) (nível de evidência L5). Indicação original: Outras preparações antienxaqueca"
 monitor_inn: "galcanezumab"
 predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
@@ -91,7 +91,7 @@ Não há ensaios clínicos nem literatura, e o mecanismo do galcanezumabe (bloqu
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois essa lacuna impede a triagem de segurança
 - Complementar os dados do mecanismo de ação via DrugBank
 - Apresentar justificativa biológica ou dados pré-clínicos que sustentem a hipótese, caso se queira reavaliar
-- Esclarecer a situação regulatória atual do produto no Brasil (registro cancelado)
+- Esclarecer a situação regulatória atual do produto no Brasil
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 638
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tildrakizumab: nova indicação prevista, Retinopatia diabética não proliferativa grave (severe nonproliferativ… (nível de evidência L5). Indicação original: Imunomodulador"
 monitor_inn: "tildrakizumab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
@@ -95,7 +95,7 @@ Não há ensaios clínicos nem literatura que sustentem qualquer das indicaçõe
 - Realizar revisão sistemática da literatura e de registros de ensaios sobre IL-23/IL-17 em retinopatia diabética
 - Gerar evidência pré-clínica (modelos de retinopatia diabética) antes de qualquer avaliação clínica
 - Priorizar, se houver interesse, a hipótese de osteoporose induzida por fármacos, por ser a mais plausível biologicamente
-- Esclarecer a situação regulatória (registro cancelado) e a compatibilidade de via de administração, especialmente para uso ocular
+- Esclarecer a situação regulatória e a compatibilidade de via de administração, especialmente para uso ocular
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

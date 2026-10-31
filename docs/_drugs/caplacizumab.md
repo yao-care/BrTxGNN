@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 187
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Caplacizumab: nova indicação prevista, Transtorno primário de liberação plaquetária (primary release disorde… (nível de evidência L5). Indicação original: Antitrombótico"
 monitor_inn: "caplacizumab"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "hemophilia", "platelet-type bleeding disorder"]
@@ -107,7 +107,7 @@ Para advertências e contraindicações, consulte a bula.
 - Dados detalhados do mecanismo de ação e uma justificativa biológica que explique como bloquear vWF-GPIb poderia beneficiar um defeito de secreção plaquetária.
 - Estudos pré-clínicos que mostrem benefício e não piora do fenótipo hemorrágico.
 - Avaliação de segurança, com análise específica do risco de sangramento, e consulta à bula para advertências e contraindicações.
-- Esclarecimento do status regulatório no Brasil (registro cancelado).
+- Esclarecimento do status regulatório no Brasil.
 
 **Observação:** na mesma lista de previsões, a **púrpura trombocitopênica trombótica (PTT)** aparece como o 5º alvo, com 8 ensaios clínicos (incluindo os Phase 3 HERCULES e Post-HERCULES) e 20 publicações, nível de evidência L1 e recomendação *Proceed with Guardrails*. Trata-se, porém, da indicação já aprovada do fármaco e não de um reposicionamento propriamente dito. Se o objetivo é avaliar o potencial real de caplacizumabe, vale analisar o relatório dessa indicação, com atenção ao risco hemorrágico, ao uso concomitante de troca plasmática e imunossupressão e à duração guiada pela atividade de ADAMTS13.
 ## Aviso de isenção de responsabilidade

@@ -94,7 +94,6 @@ Para advertências e contraindicações formais, consulte a bula.
 
 **Justificativa:**
 - Não há ensaios clínicos registrados nem estudos clínicos que avaliem diretamente a budesonida no eczema atópico; as evidências são pré-clínicas ou indiretas, e a literatura sobre alergia de contato sugere um risco de segurança. Por isso, o nível de evidência é L5, apesar da alta pontuação do modelo.
-- Os dados locais indicam apenas registros cancelados, sem produto atualmente válido no Brasil.
 
 **Para prosseguir, é necessário:**
 - Ensaios clínicos controlados da budesonida tópica no eczema atópico, com eficácia e segurança (sensibilização de contato, absorção sistêmica, crescimento infantil).

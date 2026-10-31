@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 457
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Miconazole: nova indicação prevista, Acne (acne vulgaris) (nível de evidência L4). Indicação original: Antimicótico"
 monitor_inn: "Miconazole"
 predicted_indications: ["acne (disease)"]
@@ -110,7 +110,7 @@ Consulte a bula para advertências e contraindicações formais, pois os dados d
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados.
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank).
 - Realizar ensaio clínico controlado, com diagnóstico bem definido, que diferencie acne vulgar de foliculite por *Malassezia*.
-- Verificar a disponibilidade de produtos e a via de administração (tópica) compatível com a nova indicação, dado o status de registros apenas cancelados.
+- Verificar a disponibilidade de produtos e a via de administração (tópica) compatível com a nova indicação.
 - Avaliar o perfil de interações medicamentosas, sobretudo se houver absorção sistêmica relevante.
 
 **Observação sobre outras indicações previstas:** a indicação de maior suporte nos dados é **micose superficial** (nível L3, "Proceed with Guardrails"), mas ela corresponde essencialmente ao uso antifúngico já conhecido da classe, e não a um reposicionamento verdadeiro. As demais previsões (blastomicose, dermatofitose do couro cabeludo, granuloma de Majocchi, entre outras) têm evidência limitada ou apenas computacional.

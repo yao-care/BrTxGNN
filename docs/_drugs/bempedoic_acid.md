@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 114
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bempedoic Acid: nova indicação prevista, Hipertireoidismo (Hyperthyroidism) (nível de evidência L5). Indicação original: Antilipêmicos"
 monitor_inn: "bempedoic acid"
 predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "malignant catarrh", "infectious bovine rhinotracheitis", "cytomegalovirus infection", "hyperthyroxinemia", "drug-induced osteoporosis", "multiple endocrine neoplasia", "pregnancy associated osteoporosis"]
@@ -117,7 +117,7 @@ A previsão para hipertireoidismo baseia-se apenas na pontuação do modelo (ní
 - Dados do mecanismo de ação documentados e uma análise que relacione ACLY à fisiologia tireoidiana
 - Obtenção e análise da bula na ANVISA (advertências e contraindicações), pendência bloqueante para a triagem de segurança
 - Estudos pré-clínicos que sustentem qualquer efeito sobre a função tireoidiana
-- Esclarecimento da situação regulatória no Brasil (registro cancelado)
+- Esclarecimento da situação regulatória no Brasil
 - Considerar priorizar a avaliação da HoFH (posição 6), com evidências observacionais, mas atentando à limitação mecanística em pacientes com receptor de LDL ausente
 ## Aviso de isenção de responsabilidade
 

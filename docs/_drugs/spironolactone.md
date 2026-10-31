@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Spironolactone: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the s… (nível de evidência L5). Indicação original: Diuréticos simples"
 monitor_inn: "SPIRONOLACTONE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
@@ -106,7 +106,7 @@ A previsão tem pontuação alta no modelo TxGNN (deep learning), mas nível de 
 - Complementar os dados do mecanismo de ação (MOA) a partir do DrugBank.
 - Realizar busca sistemática de literatura e de registros de ensaios clínicos para hipotricose hereditária.
 - Avaliar estudos pré-clínicos que testem se o bloqueio androgênico é relevante para as variantes genéticas envolvidas.
-- Esclarecer a situação regulatória (registros cancelados) e a via de administração adequada (por exemplo, oral vs. tópica).
+- Esclarecer a situação regulatória e a via de administração adequada (por exemplo, oral vs. tópica).
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

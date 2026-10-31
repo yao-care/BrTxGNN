@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 550
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Primidone: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "primidone"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -112,7 +112,7 @@ Para advertências principais e demais informações de segurança, consulte a b
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA (advertências e contraindicações), pois a lacuna atual impede a triagem de segurança.
 - Obter dados de mecanismo de ação (por exemplo, via DrugBank).
-- Esclarecer a situação regulatória (registros cancelados) e a viabilidade de comercialização no Brasil.
+- Esclarecer a situação regulatória e a viabilidade de comercialização no Brasil.
 - Se houver interesse, priorizar uma revisão de literatura direcionada a epilepsias reflexas e à neuralgia do trigêmeo, em vez de neoplasia do trigêmeo.
 - Avaliar o perfil de segurança diante das contraindicações do grafo (porfiria, doenças hepáticas e renais, discrasias sanguíneas) e das interações de gravidade maior (morfina, eliglustate).
 ## Aviso de isenção de responsabilidade

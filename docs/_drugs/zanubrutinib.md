@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 679
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Zanubrutinib: nova indicação prevista, Leucemia Mieloide (Myeloid Leukemia) (nível de evidência L4). Indicação original: Antineoplásico"
 monitor_inn: "zanubrutinib"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
@@ -118,7 +118,7 @@ Para advertências e contraindicações, consulte a bula.
 - Dados detalhados do mecanismo de ação e análise da dependência de BTK em modelos de leucemia mieloide (estudos pré-clínicos)
 - Evidência clínica específica do zanubrutinibe em leucemia mieloide
 - Bula da ANVISA com advertências e contraindicações, para a triagem de segurança
-- Esclarecimento da situação regulatória no Brasil (registro cancelado)
+- Esclarecimento da situação regulatória no Brasil
 - Avaliação das interações medicamentosas relevantes (inibidores/indutores de CYP3A, antiagregantes e anticoagulantes) em populações específicas
 ## Aviso de isenção de responsabilidade
 

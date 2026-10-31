@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 290
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Enfortumab Vedotin: nova indicação prevista, Hanseníase (leprosy) (nível de evidência L5). Indicação original: Agentes antineoplásicos"
 monitor_inn: "enfortumab vedotin"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
@@ -95,7 +95,7 @@ Para advertências e contraindicações, consulte a bula.
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
 - Obter dados do mecanismo de ação via DrugBank e avaliar qualquer elo biológico entre Nectina-4/MMAE e hanseníase.
 - Buscar evidências pré-clínicas que justifiquem a hipótese antes de qualquer estudo clínico.
-- Esclarecer a situação regulatória (registro cancelado) e a viabilidade de acesso ao produto no Brasil.
+- Esclarecer a situação regulatória e a viabilidade de acesso ao produto no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -120,7 +120,7 @@ Para advertências e contraindicações, consulte a bula.
 - Dados de expressão de CD30 em linfoma folicular para definir critérios de seleção de pacientes
 - Dados detalhados do mecanismo de ação (MOA)
 - Bula da ANVISA com advertências e contraindicações, atualmente ausentes
-- Esclarecimento da situação regulatória no Brasil (registro cancelado)
+- Esclarecimento da situação regulatória no Brasil
 
 **Observação sobre outras previsões:** entre as demais previsões, "neoplasia de células B" (inclui linfoma de Hodgkin, já aprovado, e LDGCB; nível L2, Proceed with Guardrails) tem o respaldo mais forte, mas sua novidade como reposicionamento pode estar superestimada. As previsões restantes têm evidência fraca ou apenas preditiva, e algumas provavelmente refletem semelhanças que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, não evidência biológica.
 ## Aviso de isenção de responsabilidade

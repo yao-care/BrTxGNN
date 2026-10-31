@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 233
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clomifeno: nova indicação prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (nível de evidência L5). Indicação original: Outros produtos para uso em ginecologia e obstetrícia"
 monitor_inn: "clomifene"
 predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "anovulation"]
@@ -122,7 +122,7 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA com advertências e contraindicações (lacuna de dados bloqueante para a triagem de segurança)
 - Obter dados detalhados do mecanismo de ação (MOA), por exemplo via DrugBank
-- Verificar a situação regulatória atual do clomifeno no Brasil (registros hoje apenas cancelados) e a existência de outros produtos vigentes
+- Verificar a situação regulatória atual do clomifeno no Brasil e a existência de produtos vigentes
 - Definir plano de monitoramento para gestação múltipla, hiperestimulação ovariana e limite de duração do tratamento
 - Não avançar com as previsões sem evidências (46,XY DSD, septos vaginais, X frágil, BPES, trissomias/tetrassomias) sem estudos pré-clínicos ou clínicos que sustentem um mecanismo plausível
 ## Aviso de isenção de responsabilidade

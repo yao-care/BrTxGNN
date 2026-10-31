@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 528
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Pirfenidone: nova indicação prevista, Mastocitoma extracutâneo (extracutaneous mastocytoma) (nível de evidência L5). Indicação original: Outros produtos para o aparelho respiratório"
 monitor_inn: "pirfenidone"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
@@ -113,7 +113,7 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta, mas é apenas computacional (L5), sem ensaios nem literatura, sem vínculo mecanístico com a doença impulsionada por KIT, e o fármaco não tem registro vigente no Brasil (apenas registros cancelados).
+- A previsão tem pontuação alta, mas é apenas computacional (L5), sem ensaios nem literatura, sem vínculo mecanístico com a doença impulsionada por KIT.
 
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (por exemplo, via DrugBank).

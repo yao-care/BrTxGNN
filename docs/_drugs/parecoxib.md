@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 510
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Parecoxib: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L3). Indicação original: Antiinflamatórios"
 monitor_inn: "parecoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
@@ -103,7 +103,7 @@ Apesar da pontuação alta e do mecanismo plausível, a evidência clínica se r
 - Obter e analisar a bula na ANVISA (advertências e contraindicações)
 - Confirmar o desenho, o desfecho e os resultados do estudo PMID 21996647
 - Obter dados do mecanismo de ação no DrugBank
-- Avaliar a viabilidade da via injetável para enxaqueca e a situação regulatória (registros cancelados)
+- Avaliar a viabilidade da via injetável para enxaqueca e a situação regulatória
 - Buscar ensaios controlados e randomizados que sustentem a eficácia em enxaqueca
 - Avaliar o risco cardiovascular da inibição seletiva da COX-2
 ## Aviso de isenção de responsabilidade

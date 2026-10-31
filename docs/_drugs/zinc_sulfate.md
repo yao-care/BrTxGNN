@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 683
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Zinc Sulfate: nova indicação prevista, Faringite (Pharyngitis) (nível de evidência L3). Indicação original: Outros suplementos minerais, exceto de ferro e para reidratação"
 monitor_inn: "ZINC SULFATE"
 predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "congenital prothrombin deficiency"]
@@ -102,7 +102,7 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).
 - Obter dados de mecanismo de ação (por exemplo, via DrugBank).
 - Realizar ensaio randomizado controlado em faringite aguda (infecciosa) com forma farmacêutica adequada (como pastilhas).
-- Definir a via de administração e a forma farmacêutica viáveis e avaliar a compatibilidade com o status regulatório atual (registros cancelados).
+- Definir a via de administração e a forma farmacêutica viáveis e avaliar a compatibilidade com o status regulatório atual.
 - Avaliar os sinais de segurança do grafo de conhecimento e as interações de nível moderado antes de qualquer uso.
 
 ### Observação sobre as demais previsões

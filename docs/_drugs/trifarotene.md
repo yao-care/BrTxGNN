@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 654
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Trifarotene: nova indicação prevista, Zinco plasmático elevado (zinc, elevated plasma) (nível de evidência L5). Indicação original: Retinoides para tratamento da acne (uso tópico)"
 monitor_inn: "trifarotene"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
@@ -86,7 +86,7 @@ Para demais informações de segurança (advertências e contraindicações), co
 - Complementar os dados de mecanismo de ação a partir do DrugBank.
 - Demonstrar uma hipótese biológica que ligue a sinalização por receptores do ácido retinoico ao metabolismo do zinco, com estudos pré-clínicos.
 - Avaliar a compatibilidade da via de administração (tópica) com a nova indicação, pois a exposição sistêmica é limitada.
-- Esclarecer a situação regulatória do produto no Brasil (registro cancelado) antes de qualquer desenvolvimento local.
+- Esclarecer a situação regulatória do produto no Brasil antes de qualquer desenvolvimento local.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 535
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Posaconazole: nova indicação prevista, Pneumocistose (Pneumocystosis) (nível de evidência L4). Indicação original: Antimicóticos sistêmicos"
 monitor_inn: "posaconazole"
 predicted_indications: ["pneumocystosis"]
@@ -114,7 +114,7 @@ Para advertências e contraindicações, consulte a bula.
 - Dados de mecanismo de ação confirmados em fonte primária (DrugBank).
 - Estudos pré-clínicos ou clínicos que avaliem diretamente o posaconazol contra *Pneumocystis*, incluindo comparação com sulfametoxazol-trimetoprima.
 - Bula da ANVISA com advertências e contraindicações, hoje ausentes e que impedem a triagem de segurança.
-- Esclarecimento da situação regulatória (registro cancelado) e das formas farmacêuticas disponíveis.
+- Esclarecimento da situação regulatória e das formas farmacêuticas disponíveis.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

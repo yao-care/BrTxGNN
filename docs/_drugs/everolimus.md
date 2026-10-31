@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 306
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Everolimus: nova indicação prevista, Lipossarcoma (liposarcoma) (nível de evidência L2). Indicação original: Agente imunossupressor"
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
@@ -120,7 +120,7 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).
 - Obter os dados de mecanismo de ação (MOA) no DrugBank.
 - Aguardar a conclusão do estudo NCT03114527 (prevista para 12/2026) e avaliar desfechos de eficácia e segurança.
-- Esclarecer a situação regulatória (registros cancelados) e a viabilidade de comercialização no Brasil.
+- Esclarecer a situação regulatória e a viabilidade de comercialização no Brasil.
 - Planejar um estudo comparativo ou com braço de everolimo isolado para definir a contribuição do fármaco.
 
 **Observação:** entre as demais previsões, o **carcinoma de células renais não classificado** apresenta evidências mais robustas (diversos estudos de Fase 2, incluindo os randomizados ASPEN e ESPN, nível L2, recomendação "Proceed with Guardrails"), mas em populações mistas de carcinoma de células não claras. Vale considerá-lo como candidato prioritário em avaliação paralela.

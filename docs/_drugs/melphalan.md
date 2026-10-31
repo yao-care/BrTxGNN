@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 description: "Melphalan: nova indicação prevista, Female breast carcinoma (nível de evidência L5). Indicação original: ANTINEOPLASICOS CITOTOXICOS"
@@ -114,7 +114,7 @@ Há um ensaio de Phase 2 concluído em tumores germinativos recidivados, mas o m
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a avaliação de segurança
 - Obter dados detalhados do mecanismo de ação (MOA) no DrugBank
 - Buscar literatura específica sobre melfalano em altas doses em tumores germinativos, para isolar o efeito do fármaco dentro dos regimes combinados
-- Esclarecer a situação regulatória (registro cancelado) e a disponibilidade de formulações no Brasil
+- Esclarecer a situação regulatória e a disponibilidade de formulações no Brasil
 - Definir plano de monitoramento hematológico, renal, hepático e pulmonar para uso em altas doses com resgate de células-tronco
 ## Aviso de isenção de responsabilidade
 

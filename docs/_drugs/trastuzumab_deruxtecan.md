@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 652
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Trastuzumab Deruxtecan: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "trastuzumab deruxtecan"
 predicted_indications: ["drug-induced osteoporosis"]
@@ -98,7 +98,7 @@ A previsão se baseia exclusivamente na pontuação do modelo (L5), sem ensaios 
 - Dados de mecanismo de ação (MOA) e análise de plausibilidade biológica entre HER2/topoisomerase I e o metabolismo ósseo
 - Evidências pré-clínicas ou clínicas que apoiem a indicação
 - Bula atualizada da ANVISA, com advertências e contraindicações
-- Esclarecimento da situação regulatória atual (registro cancelado)
+- Esclarecimento da situação regulatória atual
 - Avaliação de viabilidade da via de administração e da população-alvo
 ## Aviso de isenção de responsabilidade
 

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 343
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Glatiramer: nova indicação prevista, Hemoglobinopatia (hemoglobinopathy) (nível de evidência L5). Indicação original: Imunomodulador"
 monitor_inn: "glatiramer"
 predicted_indications: ["hemoglobinopathy"]
@@ -76,9 +76,9 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 155730064 | ACETATO DE GLATIRÂMER | Não informada | Imunomodulador (registro cancelado) |
-| Registro 155730001 | COPAXONE | Não informada | Imunomodulador (registro cancelado) |
-| Registro 156260032 | GLAMETIX | Não informada | Imunomodulador (registro cancelado) |
+| Registro 155730064 | ACETATO DE GLATIRÂMER | Não informada | Imunomodulador |
+| Registro 155730001 | COPAXONE | Não informada | Imunomodulador |
+| Registro 156260032 | GLAMETIX | Não informada | Imunomodulador |
 
 ## Considerações de Segurança
 
@@ -97,7 +97,7 @@ Para advertências e contraindicações, consulte a bula.
 - Obter o mecanismo de ação do glatirâmer (por exemplo, via DrugBank) e analisar se há ligação com a fisiopatologia das hemoglobinopatias.
 - Obter a bula na ANVISA para avaliar advertências e contraindicações (lacuna bloqueante para a triagem de segurança).
 - Realizar busca sistemática de literatura e estudos pré-clínicos que sustentem a hipótese.
-- Esclarecer a situação regulatória (registros cancelados) e a compatibilidade de via de administração e forma farmacêutica.
+- Esclarecer a situação regulatória e a compatibilidade de via de administração e forma farmacêutica.
 - Avaliar o risco da interação de gravidade maior com o natalizumabe, em especial em pacientes com esclerose múltipla.
 ## Aviso de isenção de responsabilidade
 

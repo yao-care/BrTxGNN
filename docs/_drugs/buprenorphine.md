@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 165
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Buprenorphine: nova indicação prevista, Porfiria Aguda Intermitente (Acute Intermittent Porphyria) (nível de evidência L5). Indicação original: Analgésicos narcóticos"
 monitor_inn: "BUPRENORPHINE"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "benign shuddering attacks", "extrapyramidal and movement disease"]
@@ -100,7 +100,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 - Dados do mecanismo de ação e análise da ligação mecanística com a via de biossíntese do heme
 - Bula da ANVISA com advertências e contraindicações, para triagem de segurança
 - Evidências pré-clínicas ou clínicas específicas para porfiria aguda intermitente
-- Avaliação da situação regulatória (registros cancelados) e da via de administração compatível
+- Avaliação da situação regulatória e da via de administração compatível
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

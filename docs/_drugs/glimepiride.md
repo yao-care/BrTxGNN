@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 344
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Glimepiride: nova indicação prevista, Síndrome do membro rígido focal (focal stiff limb syndrome) (nível de evidência L5). Indicação original: Antidiabéticos"
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -97,7 +97,7 @@ A previsão vem do modelo TxGNN (deep learning) (nível L5), sem ensaios clínic
 - Evidência clínica ou pré-clínica que sustente o uso em síndrome do membro rígido focal (hoje inexistente)
 - Dados detalhados do mecanismo de ação e análise da relação com a autoimunidade anti-GAD
 - Advertências e contraindicações da bula na ANVISA, necessárias para a triagem de segurança
-- Esclarecimento da situação regulatória (registros cancelados) e da compatibilidade de vias de administração
+- Esclarecimento da situação regulatória e da compatibilidade de vias de administração
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

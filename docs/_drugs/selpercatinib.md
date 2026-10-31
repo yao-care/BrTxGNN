@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 582
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Selpercatinib: nova indicação prevista, Hipertensão Pulmonar (Pulmonary Hypertension) (nível de evidência L5). Indicação original: Inibidores da proteína quinase"
 monitor_inn: "selpercatinib"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura"]
@@ -110,7 +110,7 @@ Consulte a bula para advertências e contraindicações, pois estas não estavam
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Buscar evidência pré-clínica que ligue a via RET à fisiopatologia da hipertensão pulmonar.
 - Avaliar o impacto das interações medicamentosas e do perfil de segurança (pressão arterial, QT, fígado) em um contexto não oncológico.
-- Esclarecer a situação regulatória no Brasil (registro cancelado).
+- Esclarecer a situação regulatória no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

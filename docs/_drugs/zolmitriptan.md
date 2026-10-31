@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 684
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan: nova indicação prevista, Atrophoderma vermiculata (nível de evidência L5). Indicação original: ANALGESICOS CONTRA ENXAQUECA"
@@ -106,7 +106,7 @@ Há uma lista extensa de contraindicações cardiovasculares e cerebrovasculares
 - Avaliação detalhada de risco cardiovascular e cerebrovascular para esse subtipo
 - Dados do mecanismo de ação a partir de fontes como o DrugBank
 - Bula oficial da ANVISA com advertências e contraindicações
-- Esclarecimento da situação regulatória no Brasil (registro cancelado) e de eventual nova formulação
+- Esclarecimento da situação regulatória no Brasil e de eventual nova formulação
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

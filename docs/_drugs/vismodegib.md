@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 671
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "vismodegib"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
 description: "Vismodegib: nova indicação prevista, Medulloblastoma with extensive nodularity (nível de evidência L5). Indicação original: ANTINEOPLASICO"
@@ -133,7 +133,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há ensaios de Phase 2, diretrizes e revisões na área. Contudo, a indicação coincide com o uso oncológico original, o registro brasileiro está cancelado e não há dados de bula, então a decisão exige salvaguardas.
 
 **Para prosseguir, é necessário:**
-- Verificar a situação regulatória e a disponibilidade real do produto no Brasil (registro cancelado).
+- Verificar a situação regulatória e a disponibilidade real do produto no Brasil.
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna considerada bloqueante para a triagem de segurança.
 - Complementar os dados de mecanismo de ação a partir do DrugBank.
 - Definir um plano de gestão de risco: programa de contracepção e prevenção de gravidez, monitoramento de espasmos musculares, peso e paladar, e cautela com população pediátrica.

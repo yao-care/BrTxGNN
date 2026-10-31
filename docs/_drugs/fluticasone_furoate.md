@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 325
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fluticasone Furoate: nova indicação prevista, Eczema atópico (atopic eczema) (nível de evidência L5). Indicação original: Glicocorticoides tópicos simples, exceto uso oftálmico"
 monitor_inn: "FLUTICASONE FUROATE"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
@@ -106,7 +106,7 @@ A previsão é mecanisticamente plausível, mas não há ensaios clínicos nem l
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank).
 - Buscar estudos clínicos ou pré-clínicos diretos da fluticasona furoato em dermatite atópica.
 - Avaliar a viabilidade de forma farmacêutica e via de administração cutânea, já que os produtos conhecidos são inalatórios e nasais.
-- Esclarecer a situação regulatória atual (registros cancelados) e comparar com corticosteroides tópicos já estabelecidos para eczema.
+- Esclarecer a situação regulatória atual e comparar com corticosteroides tópicos já estabelecidos para eczema.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

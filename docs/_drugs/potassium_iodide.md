@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 541
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Potassium Iodide: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L4). Indicação original: Outros produtos não enquadrados em classe terapêutica específic"
 monitor_inn: "Potassium Iodide"
 predicted_indications: ["nasal cavity disease"]
@@ -107,7 +107,7 @@ Todos os 11 registros encontrados estão válidos. Os 5 principais:
 - Obter dados de mecanismo de ação (por exemplo, via DrugBank).
 - Delimitar a indicação a micoses nasais granulomatosas específicas (zigomicose, esporotricose), em vez de "doença da cavidade nasal" em geral.
 - Buscar estudos em humanos, como séries de casos ou estudos observacionais, sobre doença nasal fúngica ou granulomatosa.
-- Avaliar a situação regulatória (registro cancelado) e a compatibilidade de via de administração e formulação.
+- Avaliar a situação regulatória e a compatibilidade de via de administração e formulação.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

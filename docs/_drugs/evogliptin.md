@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 307
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Evogliptin: nova indicação prevista, Opsismodisplasia (Opsismodysplasia) (nível de evidência L5). Indicação original: Antidiabéticos"
 monitor_inn: "evogliptin"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy"]
@@ -99,7 +99,7 @@ Consulte a bula para informações de segurança. Nos dados compilados não há 
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).
 - Complementar o mecanismo de ação a partir do DrugBank.
 - Realizar estudos pré-clínicos ou de mecanismo que testem alguma relação entre a inibição da DPP-4 e a via INPPL1/SHIP2 (PI3K/AKT).
-- Esclarecer a situação regulatória (registros cancelados) e a viabilidade de comercialização no Brasil.
+- Esclarecer a situação regulatória e a viabilidade de comercialização no Brasil.
 - Revisar a literatura de forma sistemática para as doenças previstas, sobretudo a síndrome da pessoa rígida, onde há a hipótese imunológica mais plausível.
 ## Aviso de isenção de responsabilidade
 

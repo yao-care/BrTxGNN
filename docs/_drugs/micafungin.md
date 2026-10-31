@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 456
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Micafungin: nova indicação prevista, Infecção do Trato Urinário (urinary tract infection) (nível de evidência L3). Indicação original: Antifúngicos"
 monitor_inn: "micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
@@ -116,7 +116,7 @@ Há plausibilidade biológica e evidência clínica consistente, porém limitada
 - Confirmar o mecanismo de ação em fonte oficial (por exemplo, DrugBank)
 - Avaliar a segurança em pacientes com doença renal, dada a sinalização do modelo TxGNN (deep learning), que pode refletir similaridades aprendidas pelo modelo entre doenças relacionadas, não evidência biológica
 - Definir critérios de seleção de pacientes (candidúria sintomática, resistência ao fluconazol), evitando o tratamento de candidúria assintomática
-- Considerar ensaio prospectivo e esclarecer a situação regulatória (registros cancelados) e a disponibilidade do produto no Brasil
+- Considerar ensaio prospectivo e esclarecer a situação regulatória e a disponibilidade do produto no Brasil
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

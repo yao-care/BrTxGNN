@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 572
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Rivastigmine: nova indicação prevista, Glaucoma (glaucoma) (nível de evidência L4). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]
@@ -110,7 +110,7 @@ A evidência se limita a um estudo pré-clínico em coelhos, uma análise comput
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa atualmente bloqueante
 - Confirmar o mecanismo de ação em fonte primária (por exemplo, DrugBank)
 - Estudos pré-clínicos adicionais de PIO com formulação oftálmica, incluindo dose, tolerabilidade ocular e segurança de longo prazo
-- Avaliar a viabilidade regulatória e comercial diante da situação "apenas cancelados" no Brasil
+- Avaliar a viabilidade regulatória e comercial no Brasil
 - Avaliar o risco de efeitos colinérgicos sistêmicos (cardíacos, respiratórios, gastrointestinais) com uso ocular e as interações relevantes, em especial com bupropiona
 ## Aviso de isenção de responsabilidade
 

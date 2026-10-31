@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 514
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 description: "Pemetrexed: nova indicação prevista, Pleural adenomatoid tumor (nível de evidência L5). Indicação original: ANTINEOPLASICO"
@@ -124,7 +124,7 @@ Consulte a bula para advertências e contraindicações formais.
 Há ensaios randomizados de fase 2 e séries clínicas com pemetrexede + platina no mesotelioma peritoneal, além de forte respaldo no mesotelioma pleural (fase 3 pivotal, Vogelzang 2003). Contudo, não há ensaio de fase 3 específico para a doença peritoneal e os registros brasileiros estão todos cancelados.
 
 **Para prosseguir, é necessário:**
-- Verificar a situação regulatória e a disponibilidade atual do pemetrexede no Brasil (registros cancelados), incluindo possíveis registros de outros fabricantes.
+- Verificar a situação regulatória e a disponibilidade atual do pemetrexede no Brasil, incluindo possíveis registros de outros fabricantes.
 - Obter a bula na ANVISA para advertências e contraindicações formais.
 - Acompanhar os resultados dos ensaios de fase 2 em andamento (NCT05001880, NCT06543069, NCT06057935).
 - Definir plano de monitoramento hematológico, renal e de interações (anti-inflamatórios, nefrotóxicos), com suplementação de folato e vitamina B12 conforme a bula.

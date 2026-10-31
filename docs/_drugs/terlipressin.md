@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 619
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "terlipressin"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
 description: "Terlipressin: nova indicação prevista, Open-angle glaucoma (nível de evidência L5). Indicação original: OUTROS PRODUTOS ANTI-HEMORRAGICOS"
@@ -112,7 +112,7 @@ A previsão de hipertensão pulmonar tem plausibilidade fisiológica e alguns es
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank)
 - Realizar estudos prospectivos e controlados em hipertensão pulmonar, com monitoramento hemodinâmico pulmonar e sistêmico
-- Esclarecer a situação regulatória (registros cancelados) e as vias de administração viáveis
+- Esclarecer a situação regulatória e as vias de administração viáveis
 - Não priorizar as previsões de glaucoma, esotropia e cefaleia sem base mecanística
 ## Aviso de isenção de responsabilidade
 
