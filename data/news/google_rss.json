@@ -1,29 +1,17 @@
 {
   "source": "google_rss_br",
-  "fetched_at": "2026-10-31T16:57:29.056479+00:00",
-  "count": 101,
+  "fetched_at": "2026-10-31T21:08:48.217159+00:00",
+  "count": 99,
   "news": [
     {
-      "id": "0a445609457f",
-      "title": "Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença - UOL",
-      "published": "2026-10-30T16:43:36+00:00",
-      "summary": "Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença&nbsp;&nbsp;UOL",
+      "id": "777b7a417b59",
+      "title": "Meningocócica ACWY: último dia da campanha no Rio tem filas e vacinas esgotadas - G1",
+      "published": "2026-10-31T13:57:50+00:00",
+      "summary": "Meningocócica ACWY: último dia da campanha no Rio tem filas e vacinas esgotadas&nbsp;&nbsp;G1Cobertura da vacina contra meningite é de apenas 67,1% entre adolescentes&nbsp;&nbsp;MetrópolesGoverno Lula disponibiliza painel para monitorar vacinação contra a meningite&nbsp;&nbsp;CartaCapitalEm 25 dias, Rio vacina mais de 410 mil pessoas contra a meningite&nbsp;&nbsp;Prefeitura da Cidade do Rio de JaneiroVacina ACWY até os 59 anos: quem precisa tomar e até quando vai a repescagem&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLU42cGVpazJNNUJxQUk0REN5bW04T0JMSjBKX0Q0dUNFWkppMkgwM3JkVHdiTXlwNENyUWVtWWxiSmdFdDZhVXhKN2I2STBfUkZLREU1RXpxaEZ3VlpYVmZYY0wzWkk3aTMtMU1oUFBOMlN5eXJiX05Jc3lkS2VGQlNweVRNNWNoSTdvMWItakNRM1lEclQxMm84anB3N1ZZUXNhTy1rT0h0WXpvVGdNRWwxby14RGl0eWVlaktVZ1dmR3N0VmlWaTRHOXMtSUY5c3NpTlJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d76876765737",
-      "title": "Vacina ACWY: cariocas fazem filas em postos e esgotam imunizante no Rio - O GLOBO",
-      "published": "2026-10-31T15:49:27+00:00",
-      "summary": "Vacina ACWY: cariocas fazem filas em postos e esgotam imunizante no Rio&nbsp;&nbsp;O GLOBOVacina contra meningite: cobertura no grupo de 11 a 14 anos é de 67,1%, diz novo painel&nbsp;&nbsp;VEJAGoverno Lula disponibiliza painel para monitorar vacinação contra a meningite&nbsp;&nbsp;CartaCapitalCobertura da vacina contra meningite é de apenas 67,1% entre adolescentes&nbsp;&nbsp;MetrópolesEm 25 dias, Rio vacina mais de 410 mil pessoas contra a meningite&nbsp;&nbsp;Prefeitura da Cidade do Rio de Jan",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlNHWUJ3aXA5d3ZfbHdvZUYzR0E3cFFhSlZkZnVGRGV4c2ppRjFRc0ZZRFFTNC11MzVSUDlnNGI3VmR0T0hoYTR2QklYZnUtRVRva09Cd0RiVmhDTlVVYUozUkJxNmh0d0llTFoxWmdmd0pvUjJOUDRQLVNxRERuSndPVHRyOW9Ub0NYNHFOMi1KaVc1TVpmZ2RNa2JOOTJ4Ty12WWYtbE92Z3MtV05CcmY2SkNjMVJsNmVfcGh1U3JiZ9IB0AFBVV95cUxOWGRBWmJWRTZpRmVfOXFialo1bUlKVFhpUmZBNXZMc2d1MnN1bkJXR1Jsd0Y1RHZKN2hrVzJOemNUQjU5RTMwNDBTQUJxc2l5Vlh3V1dWUFhEZFhHSWpsSTRxdmQwaFRsdC1KVjJGYTFDdl9keE90V0Uwa2NzaEdkV0JuZWtiX3J5N05BeDVtT19UZzdhU0FKQVNTMXY1TmxfZzBEekl6aG1VZ2FKZGVXYTQ5dlZZdXV3OHRYOWxoZnhOWjkxWnU1MkdodE9qZUJ0?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV21qT3BtUy1IZl9qemtUOVBnLTkyeHZydUtXRlhHUWZCZi1RNmJGWUZjMmZXUE56YWMtLWh1WHZCdUFNMmJ2UHd1Q1NQNG40ZjhnT3ZwOVczMFl0bFY3REx1Y0hOMEw1b3dzVXZ5MFp3VXhDOVpOdlR5Q3M5MDNBa3hlZ1FReEt5WVZlOENER3NMS3BpREtFWm1HaEpWOWlJNlJXV2JBSURNc3JXWF9KdWx5Y0pSbHdMcjdJY2pwUUJaZzN20gHTAUFVX3lxTE9fNXpxUUtfNHFuRWdMZVNwMU5ONmtqd01pQ1NkSUxoNm1MZlVYU21YdlVXVnFLVjIxdThpT0ZtOHBhTnVsWmRaRzBhV0ZPcmJxOWU3anhveERaUVFzN1J4LVZOVUg4ak1QV25qelM5Y3hFeFdTTFdKSkQ1TER5Y1ZDcGZXUE1hWi14YnVpWENVSVNnTEhWSVdNSmRHSmtuRmlOTURPMVhOZGhnRnFQVGRPaXM3TVNuN1FKa0J1dWhyOWpQejdEMjdvd2p5OURPUjk5S0E?oc=5"
         }
       ]
     },
@@ -31,7 +19,7 @@
       "id": "be681231ca98",
       "title": "AVC: Médicos explicam sintomas e sinais de alerta ao Dr. Kalil - CNN Brasil",
       "published": "2026-10-31T09:00:16+00:00",
-      "summary": "AVC: Médicos explicam sintomas e sinais de alerta ao Dr. Kalil&nbsp;&nbsp;CNN BrasilEspecialista tira dúvidas sobre AVC&nbsp;&nbsp;G1Unidades de saúde de Volta Redonda promovem ações pelo Dia Mundial do AVC&nbsp;&nbsp;Prefeitura de Volta RedondaOpinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;EstadãoNo Dia Mundial do AVC, Barco Brasil leva campanha “Cada Minuto Conta” ao esporte&nbsp;&nbsp;CartaCapital",
+      "summary": "AVC: Médicos explicam sintomas e sinais de alerta ao Dr. Kalil&nbsp;&nbsp;CNN BrasilHMC registra 912 atendimentos por AVC em dois anos e alerta para urgência no diagnóstico&nbsp;&nbsp;Prefeitura de CuiabáEspecialista tira dúvidas sobre AVC&nbsp;&nbsp;G1Unidades de saúde de Volta Redonda promovem ações pelo Dia Mundial do AVC&nbsp;&nbsp;Prefeitura de Volta RedondaOpinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -40,26 +28,26 @@
       ]
     },
     {
-      "id": "9b53b217253c",
-      "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - ICL Notícias",
-      "published": "2026-10-31T01:01:08+00:00",
-      "summary": "SUS detecta quase 10 mil testes positivos para HPV de alto risco&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "f23e6b240d69",
+      "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - Agência Brasil",
+      "published": "2026-10-30T19:30:00+00:00",
+      "summary": "SUS detecta quase 10 mil testes positivos para HPV de alto risco&nbsp;&nbsp;Agência BrasilBoa Vista vai oferecer novo teste para detecção precoce do câncer do colo do útero&nbsp;&nbsp;G1Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país&nbsp;&nbsp;Governo FederalBahia inicia oferta de exame que identifica HPV antes de lesões associadas ao câncer&nbsp;&nbsp;Bahia NotíciasCeará realiza 1,1 mil testes para detecção precoce do câncer do colo do útero&nbsp",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnlfUklzZ0JpZVpRdllPTzZIdDUwOUdEazNYOGJFbHl4NUlKUFpfTllJMHRobUtZeldZdWlERGQ1cDkwTFNkcDFnQkViQ2swVmFDTlpKUmRfR0RqR0JMdkxIRXZNelo5MDhNOFVpUnM4eVBJV0EzV2diamxtWjRxRXMxN0h4S2w3VXJCdE5hYTB4czl3Q1hUYmxFcUkyWF9ja2lrY0stczFsdkZ5V0FhUUpuNlk5cGtpaG13?oc=5"
         }
       ]
     },
     {
-      "id": "6f005a83e2b6",
-      "title": "Saiba como acontece a transmissão e as melhores formas de se prevenir da Mpox - O GLOBO",
-      "published": "2026-10-31T09:00:00+00:00",
-      "summary": "Saiba como acontece a transmissão e as melhores formas de se prevenir da Mpox&nbsp;&nbsp;O GLOBOCasos de Mpox aumentam 7 vezes no Rio em dois meses; capital está sem vacina contra a doença&nbsp;&nbsp;G1Rio de Janeiro registra 74 casos de Mpox em dois meses&nbsp;&nbsp;CNN BrasilPrefeitura do RJ investiga nova morte por suspeita de Mpox&nbsp;&nbsp;R7Rio tem alta nos casos de Mpox em setembro e outubro&nbsp;&nbsp;SBT News",
+      "id": "e83a9db5ac28",
+      "title": "O teste simples de fitness que prevê o seu risco de morte - G1",
+      "published": "2026-10-31T15:17:59+00:00",
+      "summary": "O teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;G1Teste de 1 minuto pode revelar sinais de risco para a saúde do coração&nbsp;&nbsp;Diário do Centro do MundoTestes de recuperação de pulso após exercício e o que diz sobre saúde&nbsp;&nbsp;PeriskopiTeste de 1 minuto pode indicar maior risco de morte; veja como fazer&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc3Eteng4VjQ5R2hoRnN1WnloRVluNi1RbnhzaG1CREdfd2wxbzhraW1Pb0lFS3BDdVhzaGdEWXR5aTVGbDZtUndRaXNLVmdZVWd0Z0FXbGlhWkNOZThEQ1ZaazR1WTJxbVRaTWpIcjlfNmlyZU50bTk2RXNPVXczZGxpc3kzZVh0SW9SVFVHeVZMa0UtcnRGYzlRTXR6UmY0QVF5c09NLWxob1pwQ2ozM1VUdHhOajV2NUxYVm5zUU04LTBtaGxzMEJpQdIB2gFBVV95cUxObU5aVFhUSFJIanl1SUJHMDRlRkZDTnZ0eXBiQjlfeV80UmY3bVZtX3hBZjExUFE3WFl1cnd5RjZYYUNIREpfSlk3VktMUGV4LVdxejNONXo1SzB5bkRTeG03WFJoUjdPLWlGYjF0QmxNNTdIOFlmVmxTX3QyVjBObXhVeUY1VE5GRDVlaHBSY3ZBZ2s0Mkd4RHU0dldkalg4OGw1U1NnakZ0bE1mWWF4NldJdURZckZydEV1TGZrMENBYkZocUZjRzM1Q21ELTYwd2NXRngwSzV3Zw?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejFRdmdhZkxUeU1CaGs1bDI0d2tsN2ZsaWJqQVU3cEhyR29tWGR2aVRhOXlDOHZuMGZWTHRNaFhsVFprOXVtdFBsMk9xNTY5X25tczlDUWktdk12QWhvckZXa2NfWHVHSUpXdE9rS04tSzVHVEhTZ01lZzgxdkJMZEFuX2J5WGI4d1JRRS0zSHRscWE3cUpGLWljMWM5ZW1NYmlxT1poaWQ2S3JiZ0HSAbwBQVVfeXFMTmhaUHVmTktheTdad1JZOFVRTlpmbDNfbkdOOTF5elNodXQtcGdIMEs2N2Q4Mm5kVFIxcjFXUXVLcGRqVktLd3FHamNvQUxnWEtValA5WmpiMkI3c1hoVEtneklfbUhZRTZoY2lOeEZ1N0kwMmNsWThlRDdOZll0WU9wVmJCaHJySTJ6M2hDS1RDUlFDc29nSl83azIyQUtMSE1iS3JNYTV6ZjNpMlRCcDBITDk4MWlFVGNVdXE?oc=5"
         }
       ]
     },
@@ -67,7 +55,7 @@
       "id": "bcf5d12d4051",
       "title": "Câncer de próstata: mais de 200 homens por dia descobrem a doença; saiba detectar problema - R7",
       "published": "2026-10-30T19:28:35+00:00",
-      "summary": "Câncer de próstata: mais de 200 homens por dia descobrem a doença; saiba detectar problema&nbsp;&nbsp;R7Saúde estende Outubro Rosa e alerta para os cuidados do homem no Novembro Azul&nbsp;&nbsp;TásabendoCâncer de próstata: campanha alerta para exames e diagnóstico precoce&nbsp;&nbsp;BandNovembro Azul: por que o Ministério da Saúde e os urologistas discordam sobre o exame de próstata em homem sem sintomas&nbsp;&nbsp;Jornal do BrasilCâncer de próstata: Bahia registra alta nas cirurgias e SUS incor",
+      "summary": "Câncer de próstata: mais de 200 homens por dia descobrem a doença; saiba detectar problema&nbsp;&nbsp;R7Saúde estende Outubro Rosa e alerta para os cuidados do homem no Novembro Azul&nbsp;&nbsp;TásabendoCâncer de próstata: campanha alerta para exames e diagnóstico precoce&nbsp;&nbsp;BandCompromisso diário com a saúde: Outubro Rosa e Novembro Azul&nbsp;&nbsp;Portal ArautoMauá abre Novembro Azul com ação de saúde neste domingo&nbsp;&nbsp;Portal ABC do ABC",
       "sources": [
         {
           "name": "R7",
@@ -76,14 +64,38 @@
       ]
     },
     {
-      "id": "8aa66e419c0b",
-      "title": "Anvisa aprova cinco novas canetas de GLP-1 - GOV.BR",
-      "published": "2026-10-29T04:21:00+00:00",
-      "summary": "Anvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;GOV.BRCanetas emagrecedoras: Anvisa aprova 20 novos medicamentos neste ano; veja todos os autorizados no país&nbsp;&nbsp;O GLOBOCaneta após os 40: por que manter a massa muscular é essencial&nbsp;&nbsp;TerraAnvisa aprova 5 novas canetas para diabetes e obesidade; total chega a 19 em 2026&nbsp;&nbsp;Folha de S.PauloAnvisa aprova cinco novas canetas emagrecedoras de GLP-1&nbsp;&nbsp;CNN Brasil",
+      "id": "01c589205f64",
+      "title": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos - G1",
+      "published": "2026-10-31T19:35:25+00:00",
+      "summary": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos&nbsp;&nbsp;G1Rio de Janeiro registra 74 casos de Mpox em dois meses&nbsp;&nbsp;CNN BrasilPrefeitura do RJ investiga nova morte por suspeita de Mpox&nbsp;&nbsp;R7Rio tem alta nos casos de Mpox em setembro e outubro&nbsp;&nbsp;SBT NewsCasos de Mpox disparam no Rio e chegam a sete vezes o registrado no ano passado em apenas dois meses; capital enfrenta falta de vacinas contra a doença&nbsp;&nbsp;Tempo Real",
       "sources": [
         {
-          "name": "GOV.BR",
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObko3VHJxUm1FVjdCdFU5cTVBUzVudkZ5UFN3UTNTMkdIYnF5MlVMVWFSQXgyci1SU0xhaUhvVWNGbERvcEJRNkdDNXhmLWR4bG8yTWplaE5rWFQ0cUF1N2JTdGwwQVcwMHFlU05oZmVwV3ltcVdrZ0k3OHdkMkNLN3Q2WWkwLWJOVVRfcW9jOWJfOHBIVEJtZ01HRkd1dXhSNmJmdHMyaEd4VjVEbzdpN1pNMElReEI2V0o1SXNxWjFNTEoxaEhDQ0E5Y0c4blVEeHJoUTlwSWZrZElBeWN1T0FZOWltU1RBeU000gH6AUFVX3lxTE45dXNSWUlLX1BRMDdiMHVzQmJOa0djRDNZaEdIRzJldnlYM3dCNUpXTmYxUkI5RFNvVDNkZjVQZE4tU3BsMXRSQ3lPOVlQOUVuWXFQenlDOVI4eG5KZGxCOGsyYW9qZXRWWHRaakxuSmh3blo2aVVuLTU1TEtEdFBfeEFPZG1OcFlHazYtaUFsVzB1SXlIbVVPMTQ5aVJnRTRFYnY5ZHJ5Zkpfd0RIaGNPelFvendaeFk5RzVMaG5SS0h1bnVwZ3RnOThlWFphd2tpcnJiTUpEWTVKSnJQU2FJcENoTFg4Y29nZ0hhUUJqVFV1OTI1WU1Ja0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fee531bc7aad",
+      "title": "Anvisa aprova cinco novas canetas de GLP-1 - Governo Federal",
+      "published": "2026-10-29T04:21:00+00:00",
+      "summary": "Anvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;Governo FederalOpinião | A revolução das canetas emagrecedoras: do prato às cadeias globais de proteínas&nbsp;&nbsp;EstadãoAnvisa aprova cinco novas canetas emagrecedoras de GLP-1&nbsp;&nbsp;CNN BrasilCaneta após os 40: por que manter a massa muscular é essencial&nbsp;&nbsp;TerraCanetas emagrecedoras: Anvisa aprova 20 novos medicamentos neste ano; veja todos os autorizados no país&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "Governo Federal",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTBsOTBIUGhkYV9zOVRSZzZIZzBSekF4Nm9OUkpOS25ILUlldEczVHMyNFlhbXBvbEJRWEFOWndORm5ma0hFYlFuYlY5emRpaHYwOG5Vd0l2SHpGYWdNeE5fWnhmVjNFWHlCVmFOY0hlNGI2aWZuVDFMYTNKYnZtWkNNakpicFZwVDZIZ3dvVWZXa01CcEdpNGlTTlVpSXhYOWlFZ2l3TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81f9defc0b2e",
+      "title": "Halloween: qual é a quantidade ideal de doces para crianças? - O GLOBO",
+      "published": "2026-10-31T07:30:00+00:00",
+      "summary": "Halloween: qual é a quantidade ideal de doces para crianças?&nbsp;&nbsp;O GLOBOHalloween acende alerta para excesso de doces e impactos na saúde digestiva&nbsp;&nbsp;Estado de MinasHalloween: excesso de doces pode prejudicar saúde digestiva&nbsp;&nbsp;TerraSusto de Halloween pode causar uma parada cardíada? Entenda o perigo das travessuras&nbsp;&nbsp;ExameTrick or Treat: 10 doces que nunca deve dar aos miúdos no Halloween&nbsp;&nbsp;New in Oeiras",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnpQOTh1VlNPekN3TVVwOE9CUElDVmk5MmJrZ1htWXFQZVVkbW5YZHRBdHVza2JHeUdrc2dQVVd4MHJYREZNdUROcTFscjcwODJFN3hCSlN5V1V0cHl3VGYybUJVZE1ObGRmSjhrVWE1VS1fVG9rQzZGdmZ4TENwSVFhanhMVlUwN3o5QTFFMnB6cm5LTXA0M3BUZi1YYWpYRlRQemlTX2lxdHpkSjk0MEgwS1nSAcMBQVVfeXFMT1VzRW0tZ2VUWE83UkdKQUdMa1pYemtTb25jbmVzRnNfZnFLQnA5Y1M0NERaZ2c0bFhTcFBLbG5Vc3ZUblB5YXZQYzJIcnNqc2lWN1Zaa3hhWEhqS2VSLS0zZ3ZCd1FjdkpiMDVQQnFIeEVnc3BfLUFDZUpKYklIRi0zTkMyeUllaVpLQlV3T2ZWZjVuWnUxSDl1dGxzeWZLV0VEcDN2dzU4b0locU5VNDVFcFBHNUVaMXFWYXdRM3Y4UUUw?oc=5"
         }
       ]
     },
@@ -100,6 +112,42 @@
       ]
     },
     {
+      "id": "d247b5583347",
+      "title": "Exercício físico em excesso pode afetar a química do cérebro, diz estudo - CNN Brasil",
+      "published": "2026-10-30T14:47:13+00:00",
+      "summary": "Exercício físico em excesso pode afetar a química do cérebro, diz estudo&nbsp;&nbsp;CNN BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDJ3aDd5VmxPVEV1d29RTFpNTWhlYVlON0stRC1hbUF1VzluZmRDVkxZaG9kSTNjNnlkNVdWZkFTR0lfWTR0bGc0N25JVnNxT3hCdjNFS0o0bmNiTlNYTXR5bDZaMF96ckNxcWwzVDAwSE51Y1NKNU8tQVNWdXZvbjhKU045T19JbGF5aHJlTGVJS3lIR2R4aGFqd0RhbmtnQm5UVjRka2pRZms?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b133d4d8ea4a",
+      "title": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa - UOL",
+      "published": "2026-10-30T12:33:00+00:00",
+      "summary": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa&nbsp;&nbsp;UOLMenopausa sem tabu: saúde física, mental e prevenção – Saúde Sem Tabu #64&nbsp;&nbsp;Portal Drauzio VarellaMenopausa: 7 sinais que merecem atenção e avaliação médica&nbsp;&nbsp;G1Fogacho não é frescura: o que o calorão na menopausa revela sobre a saúde da mulher&nbsp;&nbsp;VEJAPerimenopausa e Menopausa no Brasil: desafios no diagnóstico, acolhimento e políticas públicas&nbsp;&nbsp;Senado",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTWtQa042OUMwT1BnLW1TdFdNQ0JVNlNhVjlnYWJvX2RwR0ZWU3dnelV2Z3dvXzlYMUw1UEs3YXdWNjJNbXRHT19JMmRiUEpCdjBBLVZrVllabW1YSUZfUWpTVHpKVVU2QTdaZmNHdk5WSE13TmxxWWhyczdJajhrcVp2SndqdllEdWdneXpxMkI5VW83d01fUFNsXzhGWk1kNm5iR0dNRkhrbElteUo1YWFCMnRCSUhMWkZqYXVQcFFsSnFNajMtMjdiOXpOcElHRXQ2cTNBbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a445609457f",
+      "title": "Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença - UOL",
+      "published": "2026-10-30T16:43:36+00:00",
+      "summary": "Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLU42cGVpazJNNUJxQUk0REN5bW04T0JMSjBKX0Q0dUNFWkppMkgwM3JkVHdiTXlwNENyUWVtWWxiSmdFdDZhVXhKN2I2STBfUkZLREU1RXpxaEZ3VlpYVmZYY0wzWkk3aTMtMU1oUFBOMlN5eXJiX05Jc3lkS2VGQlNweVRNNWNoSTdvMWItakNRM1lEclQxMm84anB3N1ZZUXNhTy1rT0h0WXpvVGdNRWwxby14RGl0eWVlaktVZ1dmR3N0VmlWaTRHOXMtSUY5c3NpTlJn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5ce59c87b06c",
       "title": "'Disseram que sou obesa': como a volta da magreza extrema nas redes acompanha alta de 71% nos casos de anorexia e bulimia - G1",
       "published": "2026-10-31T06:00:00+00:00",
@@ -108,6 +156,18 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUTRhZUw1Ulc0aUlmaGtBcTVnTmFsQ1B4anNwQlNsb3pHcS0wczFYTnMzRk84Q3JkTndyV3BiNmNqNFhUS3hTX0tMUURjV1ViXzVfLWV2OVNiQ0VyeUZfWkV3V2FHSmc3a0ZaRXFyOWk1WTVNTnplVURHbHdfOVBYYXVTVGp6Vlc3UHVkTkt4YldOcmF5UDBjc1h6ZXFJckhNTlQySGo4dE45VHcySWw1OTQ5b29qVTF4QUVIWHppTEpKYjZ1TnVwdTJSZ3l3NXZRd2VLODFwZ2V2bEdiZFE3ZHpVZHM5UGJ5a1RuTS05TzFhOWlNSjNFdnZlX1lhYTlXcEZncjJZY9IBlgJBVV95cUxOdjkzUHJWT1pMckUxaTRaOU1uUm5JYXlZeDhzZEx4eHQ3UzJ0TmhEVFRKZEVQdmZGQTg3MkVpUE9KN2tnejZKdG91dHdXcFd3LUppT3dubnBpdG9VXzFuakNrWmR3ZkZPSlV2NmhTQVJXZUtTQ1psNDdVTnRpQ3laaHhlLU11SUx5SENVRWhRckltampKa3hnaXNBc0xuRmtRb0Y5a1U5a3Z2dzVsTjU2M2lqR1JOdTBQcVRITmF0MjFndUF2MWdWNDlaZEc2bDZlWTA3VGliblFJT0dtMWxqQXlhLVBfSWxqMS0xMHRqMzJuWDVsdERtenRydjd1WmwzbmJPZGhMWDl3ZXoyMENwdnFIX25LQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be773235238d",
+      "title": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje - UOL",
+      "published": "2026-10-31T15:00:00+00:00",
+      "summary": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje&nbsp;&nbsp;UOLHábitos saudáveis podem ajudar a reduzir risco de Alzheimer&nbsp;&nbsp;TV JaguariO que pode fazer para se proteger contra a doença de Alzheimer?&nbsp;&nbsp;TRT Português",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYk84SlJuLUFNQzVlUmd6RGo2TjJHNnNMbG9NUmZ3RmIyTlFTYmFXU2RxR1BzQmVEcXdjOXFCVzQzTlVlZnl6a0Z1QVJyZllCZFljMnZUbWx3UDRhdTEwMjFaVjdvaFg1ZTF2VUVJZFg5a0JRM2FIR1NpUFBwQ0dWZnlzSk5mYURCbmRHZXZwdmNhOFl3WXY5anhPUThOMGhfYUZQSFdzMHk2dXlzREY5bHc5cENSaHFfemJRa3ZmTG4?oc=5"
         }
       ]
     },
@@ -139,11 +199,23 @@
       "id": "dcfb49b2e211",
       "title": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X",
       "published": "2026-10-28T12:09:05+00:00",
-      "summary": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama&nbsp;&nbsp;Portal Ponto XAtividades físicas ajudam na prevenção contra o câncer de mama&nbsp;&nbsp;CNN BrasilExercício físico ajuda a reduzir fadiga durante o tratamento do câncer de mama&nbsp;&nbsp;O OtimistaDepois do diagnóstico: preservar músculos pode ser tão importante quanto controlar o peso durante o…&nbsp;&nbsp;Portal Revista Kdea 360Outubro Rosa: atividade física",
+      "summary": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama&nbsp;&nbsp;Portal Ponto XDepois do diagnóstico: preservar músculos pode ser tão importante quanto controlar o peso durante o…&nbsp;&nbsp;Jornal do BrásAtividades físicas ajudam na prevenção contra o câncer de mama&nbsp;&nbsp;CNN BrasilExercício físico ajuda a reduzir fadiga durante o tratamento do câncer de mama&nbsp;&nbsp;O OtimistaOutubro Rosa: atividade física e cuidad",
       "sources": [
         {
           "name": "Portal Ponto X",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "96ee93d5fb1a",
+      "title": "Britânico passa por cirurgia de 16 horas em Londres e descobre que médicos deixaram parte de seu crânio cair no chão da sala de operação - CNN Brasil",
+      "published": "2026-10-31T00:06:49+00:00",
+      "summary": "Britânico passa por cirurgia de 16 horas em Londres e descobre que médicos deixaram parte de seu crânio cair no chão da sala de operação&nbsp;&nbsp;CNN BrasilTom Park-Paul supera cirurgia complexa após malformação cerebral&nbsp;&nbsp;boca.com.brBritânico descobre que médicos deixaram parte de seu crânio cair durante cirurgia&nbsp;&nbsp;Aventuras na História",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPd0EwTkQ5dzRSbzAyQWY3clFQTG1ZZEdBZUs2RXROSlNyQ1FOZUxfYlVjSTk3MUhrYmFRVTZITzhDeUliMDlSdERjMktaVE1FbDdSbWszbUZOdFlMbmREOWgxdWkyN1BGdG84S3pxWUVnMFFNZzY3V2l5b0d4ZDRuaGhPc2I1elRKdGVUb1ViNWUwTmV2WkdZS2dTWTQ1em0zQnM0aDIwVWdOSTdUSlZkYUpqMkg3QnE4dEFaT0E4VDZNa3lGQXcwODdTcG45M3dYUnhoMW11OHFrNWRwLVVEa0FLSFh1V3Nlb1o4Y2xhY1liS3pEYlVYZTB3amZ4M25DYTJvUE1nOVJ3dk0?oc=5"
         }
       ]
     },
@@ -160,18 +232,6 @@
       ]
     },
     {
-      "id": "96ee93d5fb1a",
-      "title": "Britânico passa por cirurgia de 16 horas em Londres e descobre que médicos deixaram parte de seu crânio cair no chão da sala de operação - CNN Brasil",
-      "published": "2026-10-31T00:06:49+00:00",
-      "summary": "Britânico passa por cirurgia de 16 horas em Londres e descobre que médicos deixaram parte de seu crânio cair no chão da sala de operação&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPd0EwTkQ5dzRSbzAyQWY3clFQTG1ZZEdBZUs2RXROSlNyQ1FOZUxfYlVjSTk3MUhrYmFRVTZITzhDeUliMDlSdERjMktaVE1FbDdSbWszbUZOdFlMbmREOWgxdWkyN1BGdG84S3pxWUVnMFFNZzY3V2l5b0d4ZDRuaGhPc2I1elRKdGVUb1ViNWUwTmV2WkdZS2dTWTQ1em0zQnM0aDIwVWdOSTdUSlZkYUpqMkg3QnE4dEFaT0E4VDZNa3lGQXcwODdTcG45M3dYUnhoMW11OHFrNWRwLVVEa0FLSFh1V3Nlb1o4Y2xhY1liS3pEYlVYZTB3amZ4M25DYTJvUE1nOVJ3dk0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e0e42625db7e",
       "title": "Como tendência de compartilhamento de sangue pode estar alimentando nova crise de HIV - BBC",
       "published": "2026-10-30T12:11:33+00:00",
@@ -180,30 +240,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zOHV5Zjk0N1FraElpOXRrOS1nOFRjbE5RUHp3NzRGVkEwUl93WGRLMUMwTGtZMm1WLTVSdXFCQW5OSVNJaEhPTnF1MVFOOTUyUVNFWDY2WlJkYkZ1Q3hyelVmb9IBaEFVX3lxTE8zTnFQZTlDcDI1V25UNGViUG9ncjVjeG1UZm1JNjZqUlV0Z2FLdndxOGd6Q2cxQUlmNWpiRUJ5d2ZPS09SaW93cFNob3hhQXFUM2lURmV3VHdWUndRYWpmRms1Tml0Smp0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2c6c3ff462f6",
-      "title": "Após filha morrer com câncer, mãe também é diagnosticada: \"Jornada difícil\" - Metrópoles",
-      "published": "2026-10-31T05:00:00+00:00",
-      "summary": "Após filha morrer com câncer, mãe também é diagnosticada: \"Jornada difícil\"&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3BKajVxa0RGS3R2aXotXzRETU8ySzdVa3VQc0txTE96RFhTem9jYTlWYjREemI5d3ZPZWUzMkM1QTVyVmFvaXN5Y3RfQ19CSEY0bzRfYkZBR1dTd2dDelphWGp2U1pEVlFSWWN0a05yNDlvRVpqWmZ6aHh1d2dJSExzZHNoYnoxMUFHTGNNSVRlSUtKQU5WWU1yb3NGOXR2aXN2bUlKYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a880dbca0d51",
-      "title": "Treinar não basta: cinco erros no pós-treino que podem prejudicar seus resultados - Jornal Correio",
-      "published": "2026-10-31T09:00:00+00:00",
-      "summary": "Treinar não basta: cinco erros no pós-treino que podem prejudicar seus resultados&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmFaTDAwc3dvcjFremVLYVFjcFBiQXBtcE9mVlRFbTlWcUkzbm51c2x3NnpvMVdCZWhyM3B3dUxEaUYwWHhLN1Z5TTgxTzJPcGtCWkRJLXkzc3BSVE5Bak5tOEhBemJ4cG9FM21JaWRfTW9yV015aFlscmNfWTR5VzBZUWdMcXdSUjZXSVQtSXBYOWxFSXVaa0g0S29FbklTYWxpTFhyMmRuVU5qZ2NWUzA1bVN1c29RcjZ4S3ZnVTR6ZzQ?oc=5"
         }
       ]
     },
@@ -220,10 +256,22 @@
       ]
     },
     {
+      "id": "b6ab4f0e60d1",
+      "title": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue - O GLOBO",
+      "published": "2026-10-27T07:00:01+00:00",
+      "summary": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue&nbsp;&nbsp;O GLOBOFrutas ricas em fibras: opções naturais que ajudam a saciar na dieta&nbsp;&nbsp;Correio BrazilienseQuais frutas incluir na alimentação depois dos 50 anos para ajudar a manter a glicemia equilibrada&nbsp;&nbsp;Acorda CidadePicos de açúcar no sangue após comer frutas: Experimente combinar estes 3 alimentos.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGR1aWFsMGJIVUwwVjlUdlgtRnBORUx2ZzhKY0tubnNNVGxoNXBvYm1DdVhPcU9xYzdzUHNzSHhyZzBBcTMzRzZTbDJNNlJ3cXdjSnhRMkc4NUpEUDVFTW9iQU1XX1ptVzZBMzdGSHdBWXFCcmRlSnhHMkoyLWM4MERYaVNReGxKR2RCMkpLb3BoVmUzQmxDUEV1dEdVVzhCQ3V0cE80d1F4ZEgtd2VnNHoxSFVJWGpIWDdtc0VJejh0R1JEd0s0NFBGS0Rjc3o2YXAwaEhHOVZDeV9NVlHSAewBQVVfeXFMTzlzRWxrRnFvazI1elZYRy0zU2VINzc2N1IzRXNWYlBUdnlRYTBwdG9BeGRvaTJxbWswTjRMR1V5Z3hJOXp4SzBscXBMUkUxUk41Ulhvck1ac0U0YkNaZ3V5T242WEF5YnBaWk13RHIwR01JNVRfbGhfdnZHXzdPeFU2Wm55b0Vqb2tGMFkzSGQ3eUdXYUJ1Z1dHQ0JOR0ZTRjB4T0Ytd2QzVnhYZmhjRVFKaHRhcGdNVFBUYWdoaVdwYUlzazctUTZxRnNPQmREOE1xaWc3NldjVWpyYjE1UnVyUENlNk9LY3pYOWE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1fe481602c58",
       "title": "'Enxaqueca do sextou': por que a dor pode surgir bem na hora do descanso - UOL",
       "published": "2026-10-30T12:30:00+00:00",
-      "summary": "'Enxaqueca do sextou': por que a dor pode surgir bem na hora do descanso&nbsp;&nbsp;UOLEspecialista orienta sobre como lidar com a enxaqueca&nbsp;&nbsp;G1Tem crises de enxaqueca frequentes? Conheça os três principais fatores ocultos que pioram a dor&nbsp;&nbsp;Bons FluidosDor de cabeça que não passa? Médico alerta que enxaqueca pode piorar com uso excessivo de analgésicos&nbsp;&nbsp;Jornal Correio",
+      "summary": "'Enxaqueca do sextou': por que a dor pode surgir bem na hora do descanso&nbsp;&nbsp;UOLTem crises de enxaqueca frequentes? Conheça os três principais fatores ocultos que pioram a dor&nbsp;&nbsp;Bons FluidosDor de cabeça que não passa? Médico alerta que enxaqueca pode piorar com uso excessivo de analgésicos&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
           "name": "UOL",
@@ -244,86 +292,38 @@
       ]
     },
     {
-      "id": "1946f0ba1136",
-      "title": "Alimentos ultraprocessados estão associados a lesão cerebral vascular silenciosa - Medscape",
-      "published": "2026-10-28T13:34:55+00:00",
-      "summary": "Alimentos ultraprocessados estão associados a lesão cerebral vascular silenciosa&nbsp;&nbsp;MedscapeVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "2c6c3ff462f6",
+      "title": "Após filha morrer com câncer, mãe também é diagnosticada: \"Jornada difícil\" - Metrópoles",
+      "published": "2026-10-31T05:00:00+00:00",
+      "summary": "Após filha morrer com câncer, mãe também é diagnosticada: \"Jornada difícil\"&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDJBMlBLY0FISmpuTzNrR2J3Znd3U09KbmhlN1l3QThFNDZPY0VMWHdvRUZHSEY4Z2VzUkJ6M0p2dFhzVi1rZUQ2UnA1Sm5BMnp6aUQ2enNacWppd3huZENNaTVQMl9zSXlCYXhuVmZUZnoxRC1HbFN6V3VoNlR1bEx4UzE1QjR0RXdqQWZJSkFIYTRCTnlYYTRyWVVmby05b21qNFdUX3F4RVlUTEtIejVxMnpmZw?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3BKajVxa0RGS3R2aXotXzRETU8ySzdVa3VQc0txTE96RFhTem9jYTlWYjREemI5d3ZPZWUzMkM1QTVyVmFvaXN5Y3RfQ19CSEY0bzRfYkZBR1dTd2dDelphWGp2U1pEVlFSWWN0a05yNDlvRVpqWmZ6aHh1d2dJSExzZHNoYnoxMUFHTGNNSVRlSUtKQU5WWU1yb3NGOXR2aXN2bUlKYw?oc=5"
         }
       ]
     },
     {
-      "id": "878ce1deece3",
-      "title": "Como casos de dengue despencaram 95% no RS após alta nos últimos anos - G1",
-      "published": "2026-10-30T06:00:00+00:00",
-      "summary": "Como casos de dengue despencaram 95% no RS após alta nos últimos anos&nbsp;&nbsp;G1Autoridades alertam: apesar da queda, casos de dengue pedem atenção&nbsp;&nbsp;Notícias - Canção NovaSanta Cruz registra queda de 83% nos casos de dengue em relação ao ano passado&nbsp;&nbsp;GAZCasos de dengue caem 95% no Rio Grande do Sul em 2026, mas autoridades alertam para riscos no verão&nbsp;&nbsp;Clic CamaquãComo casos de dengue despencaram 95% no RS&nbsp;&nbsp;G1",
+      "id": "4ef59dbca179",
+      "title": "Sair para caminhar em vez de ir à academia é ótimo, mas só funciona se a caminhada for feita a 5 km/h e com certa regularidade - Terra",
+      "published": "2026-10-30T18:12:00+00:00",
+      "summary": "Sair para caminhar em vez de ir à academia é ótimo, mas só funciona se a caminhada for feita a 5 km/h e com certa regularidade&nbsp;&nbsp;TerraCom apenas 1.000 passos por dia, o risco cardiovascular já começa a cair, e o efeito vai somando&nbsp;&nbsp;Tua SaúdeQuantos minutos por semana de atividade aeróbica são recomendados e por quê?&nbsp;&nbsp;Catraca LivreTrinta minutos de caminhada por dia são suficientes para melhorar saúde, diz estudo&nbsp;&nbsp;G1Caminhar em vez de ir à academia é uma óti",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMjR6MDV2S3YxaXN5bWphU1BQZE5jUmFGekQxUFdPclRxMVNNRFk2TVZobEhMa2ZJR2tuZ3dvaVdRMjEySHZrTmJUdUtVVVYzSEVBWU1lcmpmY0tCS1lnQzZ2YVdqM2ZNaVBzR0pvYXZacTI0eUl4Y1NzYjJCUG9abWVUcnh1Wno4dHZfczdpMWZFakpxVUN1clBGX3hCSkFzelFhMzJMMTh2ejJDRkRkRWxseWJsNERsQ0dHZE5xSmtSMWNTbkVlOW5JVWF6aGhMaXh0bFAzU2dmZ9IB6AFBVV95cUxNWEI2SDR5RkpmUk9FeTJLSVhydzkxaWhhdzdXUmZra2RPVFg5NjdLemNlelI4ZDA5aWszSlQ0NlhucTRVNU53SzJpbFYyX3V1cWwyU01iT0hCVWxoOE12MU5JQ1YwaDl4NHlDcDJ5WGY4alRCWFY0djN3cV9tdVhyVWJUdUlsSHZib2dmcWVXWHc1VDB3bjNOUm54eTVrV3VPNkl6Rmxwd0x6elRVaTR3MERHYllkck9hSk9LQnI3RkdZdnZ3YjRUVEJWYThfZEc0RThlSXNFeGUxQ20yUHA1YmpvVjN6S29q?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNMlR5M1ZNdnNsZ2UyUjhGWXhzVk1XRTB1M0ZJOGpKV2dla0twRFFYUXRUOU5mQVZTWEFwd3pjWW9ySVZVVkJETm50eWdTaXVmZEx1alQzY1lybFFxTEVhVzFrYW9uNzVibUxFNmhrVFEzR0lTQWtBbjluQndXMURZSUVFd05mdUQ2RFM3SDVqb3hpM2xnVzZkckVyYUZOS1E4ajRCUUxrZzdobzV3UHp3NzFmTjBCN0ttcDhaQVdFZllyQkxSSGVfNjFvMTlXVk5EUTRHR0FlZmpOOGNxNFRhVUF3U1RVb25tWUhRejF5bWIxLWMwdDlqR2FCbEJIUGx5RmdBTEpLUkZxUE5jQXJXamZmdHFLQk1rRklDWFhoQ2xSQ1dibEM0?oc=5"
         }
       ]
     },
     {
-      "id": "4e0c0ffb0bf1",
-      "title": "Pequenas trocas no cardápio ajudam a enriquecer refeições com fibras; veja dicas - Folha de S.Paulo",
-      "published": "2026-10-30T07:00:00+00:00",
-      "summary": "Pequenas trocas no cardápio ajudam a enriquecer refeições com fibras; veja dicas&nbsp;&nbsp;Folha de S.PauloCanetas emagrecedoras mudam o carrinho de compras e dão força às fibras&nbsp;&nbsp;ExameO que está mudando no prato dos brasileiros?&nbsp;&nbsp;EstadãoMenos apetite, a mesma necessidade de fibras: como ajustar as refeições na era das canetas emagrecedoras&nbsp;&nbsp;G1Fibras ganham espaço no prato e viram aliadas de uma nova rotina alimentar&nbsp;&nbsp;Metrópoles",
+      "id": "a880dbca0d51",
+      "title": "Treinar não basta: cinco erros no pós-treino que podem prejudicar seus resultados - Jornal Correio",
+      "published": "2026-10-31T09:00:00+00:00",
+      "summary": "Treinar não basta: cinco erros no pós-treino que podem prejudicar seus resultados&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTDBsc1lNYUhqX2pnRmxJb25adlJyNldIVkZQQ1FIMjdNdm5VRWZHMUxrMktDaHhvaG5NNW9ESzdzc29GZjhHcUNZWDUwV3ZNUlNyVC1vSGhrY0psUnUwMzFCWUZ1UUMzQm0yY24zMkNORGxiNUNFOURObEhTVVdZeHhfZ0d6eXlDS0dPY1RLQ2FtNlZya0l1Y1FmdGpJRGhUcHdCQ2JhS1p4RkxfLXZMMm1mcmZHeHd1X001Z0tUdENJQkJXNzVfdkMyYVNhbnM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89972feb69c7",
-      "title": "Estudo associa excesso de proteína animal a níveis baixos de testosterona - CNN Brasil",
-      "published": "2026-10-29T10:48:02+00:00",
-      "summary": "Estudo associa excesso de proteína animal a níveis baixos de testosterona&nbsp;&nbsp;CNN BrasilFinlândia: estudo liga proteína vegetal a níveis mais altos de testosterona&nbsp;&nbsp;Euronews.comHomens com dieta rica em proteína animal têm menos testosterona, diz estudo&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnQ4TlAxWEU4NmcwRmdRaXpLSS15alVuYWh6NkZCNkl2WEtwSUVPeHVaa2I4NjhjN3FjV0hCS0RYa1JlVnFhNnpFWTMxVHNwbkFZeXVJNi03RGFGSGo3Q2RUQ0R0ajlReHR6VF9KMHE3VEt5WG1BeC1ZYnZGUUFJMU5EaTdBTU1EMTBkQzhIZmFjbGduQ1RmcndnMXI2NnJFN0FHU2M4aXFGWDM0cXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd3dc650f1d1",
-      "title": "Estatinas salvam vidas. Por que ainda há tanto medo delas? - O GLOBO",
-      "published": "2026-10-30T07:30:00+00:00",
-      "summary": "Estatinas salvam vidas. Por que ainda há tanto medo delas?&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNTAwZHZTVWpocndwY0JBX0x0SVA0QTJTcms2bGJvbDdrMFlhUURuc0ZTZDFUa3JmZk9FbHRGOERfREdmV05oWXZWR2Z3bnMxUUR4R3hVaVFxcGU3ZGVkeWpvQVUxRGQxTFNtUkVScHFfUURZZW9FcmtuQzN1QVF6TWtSemEzb3U3MkEtMEZCb3R0NFR4T2FqaFVDNi0tNGp1NUxraV9rTm1UNExickxrRTFIY0s5SlZlVWJzLUhQWdIBzgFBVV95cUxPcVlhVjhiMVlVdzQzdTFIRjc4SnN5TEJXSm1Va2J2V2lDNERVeFEzbVMtTENGZG1oSml6SWtPeGZxZmc2OG1oblZEWS14NWs5M0Jta0pESXJvZ1Y3VzBqMy1fZzZzcWt0YnA3a3hCVVRBMXRmVEdTUXVSVF8tR0NEZDYzUC1GUjlDUXBpSWtOZFcwNGd4RFRmYXNRUVlySTJOWUF1S3U4Nm9UT3lWMW9sMGY2UzQwdTdSTXhLQ1Z0UEVoUkZrUXpCRVp0N1lfdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6ab4f0e60d1",
-      "title": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue - O GLOBO",
-      "published": "2026-10-27T07:00:01+00:00",
-      "summary": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue&nbsp;&nbsp;O GLOBOFrutas ricas em fibras: opções naturais que ajudam a saciar na dieta&nbsp;&nbsp;Correio BraziliensePicos de açúcar no sangue após comer frutas: Experimente combinar estes 3 alimentos.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGR1aWFsMGJIVUwwVjlUdlgtRnBORUx2ZzhKY0tubnNNVGxoNXBvYm1DdVhPcU9xYzdzUHNzSHhyZzBBcTMzRzZTbDJNNlJ3cXdjSnhRMkc4NUpEUDVFTW9iQU1XX1ptVzZBMzdGSHdBWXFCcmRlSnhHMkoyLWM4MERYaVNReGxKR2RCMkpLb3BoVmUzQmxDUEV1dEdVVzhCQ3V0cE80d1F4ZEgtd2VnNHoxSFVJWGpIWDdtc0VJejh0R1JEd0s0NFBGS0Rjc3o2YXAwaEhHOVZDeV9NVlHSAewBQVVfeXFMTzlzRWxrRnFvazI1elZYRy0zU2VINzc2N1IzRXNWYlBUdnlRYTBwdG9BeGRvaTJxbWswTjRMR1V5Z3hJOXp4SzBscXBMUkUxUk41Ulhvck1ac0U0YkNaZ3V5T242WEF5YnBaWk13RHIwR01JNVRfbGhfdnZHXzdPeFU2Wm55b0Vqb2tGMFkzSGQ3eUdXYUJ1Z1dHQ0JOR0ZTRjB4T0Ytd2QzVnhYZmhjRVFKaHRhcGdNVFBUYWdoaVdwYUlzazctUTZxRnNPQmREOE1xaWc3NldjVWpyYjE1UnVyUENlNk9LY3pYOWE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b99e3571db12",
-      "title": "Spray nasal com composto do veneno de sapo avança contra depressão resistente - Diário do Centro do Mundo",
-      "published": "2026-10-27T20:42:24+00:00",
-      "summary": "Spray nasal com composto do veneno de sapo avança contra depressão resistente&nbsp;&nbsp;Diário do Centro do MundoSpray nasal feito com composto psicodélico de veneno de sapo alivia rapidamente sintomas de depressão; mostra novo estudo&nbsp;&nbsp;O GLOBOSpray nasal à base de veneno de sapo pode aliviar depressão por semanas&nbsp;&nbsp;MetrópolesSpray nasal com psicodélico derivado de sapo do deserto é bem-sucedido contra a depressão&nbsp;&nbsp;VEJAVeneno de sapo para depressão: o que dois ensaio",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUhqQ2lNbHlkWjNvbHFpNmlaM2ZzSG8yOEh4SENfT1NwV2oyX1pDczEzQ0J1d2otR3QzN21fdGViUmJKbHJZM2pkNUlsMDdwSks1ZFBCMzZQMFFKN3FNbHBhTG5oYUlQV2pIb2dyLXdlbjZEZFJzTDBRR0xGdndWaXo0c2ZIQU50MTBDU083M3FTdkxDWkNHdWhaaUY?oc=5"
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmFaTDAwc3dvcjFremVLYVFjcFBiQXBtcE9mVlRFbTlWcUkzbm51c2x3NnpvMVdCZWhyM3B3dUxEaUYwWHhLN1Z5TTgxTzJPcGtCWkRJLXkzc3BSVE5Bak5tOEhBemJ4cG9FM21JaWRfTW9yV015aFlscmNfWTR5VzBZUWdMcXdSUjZXSVQtSXBYOWxFSXVaa0g0S29FbklTYWxpTFhyMmRuVU5qZ2NWUzA1bVN1c29RcjZ4S3ZnVTR6ZzQ?oc=5"
         }
       ]
     },
@@ -340,26 +340,14 @@
       ]
     },
     {
-      "id": "99f50989d324",
+      "id": "8d583af967e7",
       "title": "Teresina libera vacina contra gripe para toda a população a partir de terça (3) - CidadeVerde.com",
       "published": "2026-10-30T13:06:00+00:00",
-      "summary": "Teresina libera vacina contra gripe para toda a população a partir de terça (3)&nbsp;&nbsp;CidadeVerde.comVacina contra gripe será liberada para toda a população de Teresina a partir de terça-feira (3)&nbsp;&nbsp;G1Vacina contra a influenza é liberada para o público geral no Piauí&nbsp;&nbsp;Portal O DiaVacinação da gripe: FMS começa imunização de público geral a partir do dia 3 de novembro&nbsp;&nbsp;G1Vacina contra a Influenza será liberada para toda a população de Teresina&nbsp;&nbsp;GP1",
+      "summary": "Teresina libera vacina contra gripe para toda a população a partir de terça (3)&nbsp;&nbsp;CidadeVerde.comVacina contra gripe será liberada para toda a população de Teresina a partir de terça-feira (3)&nbsp;&nbsp;G1Vacina contra a Influenza será liberada para toda a população de Teresina&nbsp;&nbsp;GP1Piauí lidera ranking nacional de vacinação contra gripe e libera imunizante para público geral&nbsp;&nbsp;Portal Cidade ModeloOlinda amplia vacinação contra a gripe para pessoas de todas as idades&",
       "sources": [
         {
           "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblo5VmJFdlRqY2poa3VGVzV2cHRvN2FsTDVFMFV3YnE3dURjdHdtUUhwM3BLS19td3pvemhmTzNRdDc1VlZ2SnRYMVBUR0dtcVNKVWZEbkZPdlJEaEk1ampvd09IT1lESGlUdk95NWNlc0FlNUhQRDFRRVFNLVBxSXJZN3NPS1ozbzZlSHRnbWprOUdYVC0zZElmNlNPTTdlelNlNHpDSTdPMXJSVHp1TTNGWW0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b97c50482392",
-      "title": "Mastruz: a planta usada contra vermes que a Ufam já testa como possível aliada contra vírus - Cura pela Natureza - Portal do Holanda",
-      "published": "2026-10-30T06:50:00+00:00",
-      "summary": "Mastruz: a planta usada contra vermes que a Ufam já testa como possível aliada contra vírus - Cura pela Natureza&nbsp;&nbsp;Portal do Holanda",
-      "sources": [
-        {
-          "name": "Portal do Holanda",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUENNeUh3R2k3aFZsbHRoeXl3WGUyTzZIcWt1NDFFY3Z5MnRnZFMzT0FxQ3dPemZmeWRxRXo5MU9lTWtFWnczcl9fdWlCTThRTlBCODNNa0NMbzVfeWxjckVZcUtsaktWdXhfYXNJNGRONnI3YjkwN19mZlo1UE85Mk1ZX3JmMk5QRHc1VTJnSnJZZU9lMU5faEJKQnhRYlptYkxTNEgtX18zZG1lUVJRSW1YVDU3Z0kwTHROZGl1SHFmcTdvM2FDRmxoTUczQTczVG51aHZBV1UzenFF?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeTVfbXNaTGxCWnB5QUM2by1mSzhyVm9heVZ5ZGdidEhSY3RNY0pNS0d2c2FyaXZFLXJJNVhsUzNXTThTQlBzZ1FwVHMyUXZTOWdUSF9oZnRKYlFwengtcWZwSFdFUE1NWlpNbWowak8wYUxtRWY2b05KaXFCUDNTRmsxWWhuc3luYnJzZjZOSmdDbjJMUld0RzFEZVFBU1V2TnIxZEhGRXJKeGNfR1FNV0ZxODJfZmc?oc=5"
         }
       ]
     },
@@ -400,6 +388,18 @@
       ]
     },
     {
+      "id": "14e9de9e70d7",
+      "title": "Um terço de 90 + metade de 28 − 5² parece fácil, mas exige três habilidades que aprendemos na escola - Super Rádio Tupi",
+      "published": "2026-10-31T09:33:06+00:00",
+      "summary": "Um terço de 90 + metade de 28 − 5² parece fácil, mas exige três habilidades que aprendemos na escola&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOelR2NzEzb1lMUC03V0VWQ09NWjhUWlZya0lHRkE5MnpmZ3hUWlAxYXRZODZuUWJKYTlnLW8zaDBjMmVjXy0xNWJiX0dvcHJiZU9LTWVVSDIxUFlNdXVuWG9WUGczaV9kUWlYNjN3bGw2eHFNbnRsbjBkSWE2STNLcFpXRlNCTEpORkNzQ1NsS0R2ZVRFVEtVSklid1JpRG5ULXE0Sk5Fa0VVMnMyQUNaNV9Hb0V5ekFZVWxCWDV0R1dIemFybmJucllB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "48ed726f4ad8",
       "title": "Três irmãs brasileiras passaram dos 100 anos, assim como a mãe: os hábitos em comum da família chama a atenção da ciência - TudoGostoso",
       "published": "2026-10-28T18:10:00+00:00",
@@ -408,6 +408,18 @@
         {
           "name": "TudoGostoso",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNjY1YkNVck43U2VEa3NpMEk1TzUyYVZBV1R5Y0F2Rnl2a1JrQ0tWZmNTSHg1YWVhSXQwSWh5VVRLNjlKNUNoRHVpY1RxeGIyOU9VMnI1NDlWQWNFS2RSZjJGak1faVRtMTFKbFVpYy1nc3FuU3lDODRfRmJQNUVKU1pwd09wRTBfQ0hDS2xTcFBKWDdEejFscEVBLTdUSTlBcUlGWF9ESmJCYXNTTHlLZGdQVWdFM3NILUlMNl9ILW9wT0hsMkFWbVowZjBEUHpmMXBGdl94ZWhwV2E0TDhCVXFab3gyOVQxYmN2eE1JbjR4LU1OZU90WlEtckNrek3SAYQCQVVfeXFMUHhwOC13bXR5XzdnWXVkYWtOdFJCU1g1c0pMSXJlSmVleFNHOVI1MEFQT2tseDRRblF4WE4tRnl6X0lIamZJOWNTbVhyRl92TnBydF9hOTRuT2NnNy1EVkZqTjFnRU1vOGxHamJtSHZDVEg3U1I0cERPRUxJamFfd3lqMFlWcXhNRUI5YV8tQUNseGo3N2tVOU9FU1lyOU45d1Z4Z1RRUE02akVKSVNsZXdfQ29ROWNFSDZCd0V1RVdTajZMdGVNZGh2X3JXN1V0QWVyZzdsRVdNRUpDelNLSGRYaEhXZkE1cWtHZlYwU0x0ZWRoQy05aFVISElQc2NoMEViRTM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec2d1d7b3524",
+      "title": "Paleontólogos identificam primeiro anfíbio que levava vida 100% marinha - Folha de S.Paulo",
+      "published": "2026-10-31T09:00:00+00:00",
+      "summary": "Paleontólogos identificam primeiro anfíbio que levava vida 100% marinha&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGNqbGE3cWhUdlczR2wwcHVKWkIzamlYbklDZE1lNmFGSnRidmNIM1lfZkJHSkhLNzY1VC1XVkZpT3loQldwVk4za2JtZVFnV3h0cUhJTHJiOFVtTlZZTG4zM0ZhUll3RE5GNVlGZ2dTQW9SM051UGVFTlptSTA1ZzNlWU5QcVRENzFINUl3SGdjMFRoWlJfTHNhZTByeFNJSTBXNnZZYjJUa3hUWVJOSjJnUmFNcFEyVnMyTDE3Yw?oc=5"
         }
       ]
     },
@@ -436,26 +448,14 @@
       ]
     },
     {
-      "id": "ec2d1d7b3524",
-      "title": "Paleontólogos identificam primeiro anfíbio que levava vida 100% marinha - Folha de S.Paulo",
-      "published": "2026-10-31T09:00:00+00:00",
-      "summary": "Paleontólogos identificam primeiro anfíbio que levava vida 100% marinha&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "fc7a275a7294",
+      "title": "Ativista e sociólogo Ian Caetano de Oliveira morre aos 32 anos em Goiânia - G1",
+      "published": "2026-10-31T17:04:07+00:00",
+      "summary": "Ativista e sociólogo Ian Caetano de Oliveira morre aos 32 anos em Goiânia&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGNqbGE3cWhUdlczR2wwcHVKWkIzamlYbklDZE1lNmFGSnRidmNIM1lfZkJHSkhLNzY1VC1XVkZpT3loQldwVk4za2JtZVFnV3h0cUhJTHJiOFVtTlZZTG4zM0ZhUll3RE5GNVlGZ2dTQW9SM051UGVFTlptSTA1ZzNlWU5QcVRENzFINUl3SGdjMFRoWlJfTHNhZTByeFNJSTBXNnZZYjJUa3hUWVJOSjJnUmFNcFEyVnMyTDE3Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "14e9de9e70d7",
-      "title": "Um terço de 90 + metade de 28 − 5² parece fácil, mas exige três habilidades que aprendemos na escola - Super Rádio Tupi",
-      "published": "2026-10-31T09:33:06+00:00",
-      "summary": "Um terço de 90 + metade de 28 − 5² parece fácil, mas exige três habilidades que aprendemos na escola&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOelR2NzEzb1lMUC03V0VWQ09NWjhUWlZya0lHRkE5MnpmZ3hUWlAxYXRZODZuUWJKYTlnLW8zaDBjMmVjXy0xNWJiX0dvcHJiZU9LTWVVSDIxUFlNdXVuWG9WUGczaV9kUWlYNjN3bGw2eHFNbnRsbjBkSWE2STNLcFpXRlNCTEpORkNzQ1NsS0R2ZVRFVEtVSklid1JpRG5ULXE0Sk5Fa0VVMnMyQUNaNV9Hb0V5ekFZVWxCWDV0R1dIemFybmJucllB?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWl4S3JBUUd4ejVhM09XbGl3UGhoeHA3bVpTSl8tSHNpUjZONFNXTU5rT182aHVRdE5pYnF1ZWVXTmMzUFd2cFh4Q0tCa2xPa1J5TkF4NUhNTVpwelBOM2ZpeUozbG1aeVlucGNSenQ1OXIwTWFJZEYyaWg5MURTRnJwY3ZraWd4TTdJZG9NOW1lOXhVWWVyRlB0TlFyNExJUERqd1dmamw4UUo3N2xzYlhjMXVJQUF2b010b3ZkalRuVS13bmR30gHWAUFVX3lxTE5CWnZQb21CZEJnVHZaNjFUN2VVeDVNQVQ1VEVwQlFkcElKMFNoZ250dnBQdDhWZlFzNXVLTDBvelZiamVBbWl6OC1wWEFZSnBBUVhvZVJyS01IbkdyWmF0NGNMUkVvQmwtSy1FdE5EMU1RNG1VTGJfRDN0NXNZdTBtb3pwcHRlMFgtTnBGaGhLNU1kaXpmZTBkWUhOY18tVjhEdVhlQ3NaNzlYQWRnbGtzSlIyV1BxSEl6RXhGWmFDVmtXUkJQSXBpeEJzcFllZHgtUzZXNUE?oc=5"
         }
       ]
     },
@@ -472,6 +472,18 @@
       ]
     },
     {
+      "id": "2ddbcd1dc031",
+      "title": "Aos 96 anos, José Sarney retoma exercícios físicos após cirurgia para tratar obstrução intestinal - Terra",
+      "published": "2026-10-31T17:58:00+00:00",
+      "summary": "Aos 96 anos, José Sarney retoma exercícios físicos após cirurgia para tratar obstrução intestinal&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRGtOaVdVNUdaWFY5YnJQUjlWc3FOZ3ZhR1hkdUh2Uk1ybld6RjR2MjJhWndxY0NYSjhqUzlWMF9QV2VOb3ZnSTN2Wk10QklzeURKd2ZfajRwQWVKdGU5ZHA2cjhIaDhfQ0oxdlJrVll4dXJOeTF2dnVCMFEyN1BlX2ZNR0hMUS1lemRLMUNiUGJzaWV4OFNEMHh4YW5KeXNESW1oVVlZY2VGWi1HN3NGT1Rtdm85LXFfSHE1Q2dLcVJ2eU1HWm9NNHY5OWtiU0NNSGVhVDVTbjlFeWVyQUF5OVpNMUFoWmRYY3RBN1JGYVVEUFNkdm5fQ1VVRFIxLVE3b3hGRlJ3c0V6RjNaNFZCd3NNa3lERXYtS0dJeg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3d9dffd46f41",
       "title": "Especialistas em psicologia apontam: “Quem lava a louça enquanto cozinha pode não estar apenas sendo organizado, mas tentando evitar que pequenas tarefas se acumulem e aumentem a sensação de desordem.” Uma reflexão sobre tarefas pequenas, c - Super Rádio Tupi",
       "published": "2026-10-31T10:20:29+00:00",
@@ -484,98 +496,26 @@
       ]
     },
     {
-      "id": "35e25d7f0cb2",
-      "title": "Peixe raro de cabeça transparente é filmado em 4K pela primeira vez - O GLOBO",
-      "published": "2026-10-30T06:30:00+00:00",
-      "summary": "Peixe raro de cabeça transparente é filmado em 4K pela primeira vez&nbsp;&nbsp;O GLOBO",
+      "id": "cefbd79cf5c1",
+      "title": "Comunidade científica se articula por nome para o Ministério da Ciência, Tecnologia e Inovação - O GLOBO",
+      "published": "2026-10-31T18:17:00+00:00",
+      "summary": "Comunidade científica se articula por nome para o Ministério da Ciência, Tecnologia e Inovação&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGEycmlJa3RVaDBvWXhEUElobTR1bXpfQTVaN1JoVjBLaUV2TlM1MmFhTkRSOVpWTVlZZEF6dEJTb1pydk1XYnAzRGdHSDdmZmtGLUN4YTBqODZEMW5HZElhNXE3VnVwRmI1Nmp2MjNybENyLWJOYWx0M0RqZnlwbV9WWlVBbzFLYm92am9CcWs4NDNlMEtwVzIxUTBjYWd1Zkt2eEh5Q21FRkVFSUM2QVpVQmhGRWZOOEd6WGN0YjV0cldfR1Y2UXZ2LThQQzl1OWI4NXFR0gHkAUFVX3lxTFA1Y0ZlTzg4YzZXSVFTZGlVQ1FMclI4Yzd6TUR1LTlNNFBfcUIzcWxQay1uNEFQWm9HZDF1c2I5SkJsVTg2cnNxVlpiVVM5SUxzM05nT3BGZkdzUWU2dXZoQWpJN3JzZGk1Tm42OU5wRFZndV84TmxpN3AtNHBSLXgzQWU1OWtzakVBWWluTTJuRU9CWjJzSnlFMnVKVW1LcFdFWHA1NDJ5UjVaLXpENWNhOFBNRWZydWh4a3piMmZ3THJzaDRQZXRXdHE5clV5M2Z3bGJRU2VVN3YwVmpFUnN2ZlBkbg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaGV5UjlYckM4eW1KSFR5enRxOFhCYmpncDg3ejdjQnlrb0pOU3FEa3lNRVdENGxKaVNrbXE0SWc2ZmJQNmk0VGdoVHNSbk1iS0U4d29FV0NqRlg4ajg0RWp6UE9aVnpxeHViSkQyTko0ejNBVzlCS2lvSTIwa0JCS0JXUHAyYm4tSWE0RFdhNC1oR2ZUbEtjaHhhdDIwenMtY0dFeHpGSUh3OG9ob3kxUHBnUnJKSFh3ZzRkUEhIX1NmcV93QkRyRUF6VF9CWG5PS05PZy1udVRwMnF3UEMtT0ZHZk5Kakk0T1ZkWtIB-wFBVV95cUxNVy1zZmtoQm5PbWppbkIzeUNNbTFkOHpyYmprWDdOYWV6cWFoZ0U4dW1fUlVlZ2xheG1PY2tMdFdxbDItMHdYcUZUZ2VSTkNCUlVVZDdwR3FhanJmWTRCRjhoclAtVWt0WDFCT25oRHdvRjkyZFR6V1VEbVBwblRDRWdkYW1BbkhKRjdlZWlEV2JZUkdmMzdQNTlJSUpGdHVLSVRDTE5zYVB0OU8yLVVNMEljazh0RnRhQ3J6YW03QjBXbjNiRHgyZUdqWlBqOS0tVXN0NGFLVlY3Z3hKS3pyS0hLXzRRZENWZlhsR3pPT19Bb3RjZHViRmNRTQ?oc=5"
         }
       ]
     },
     {
-      "id": "2df6e7633531",
-      "title": "Armário oferece retrato da vida em Pompeia antes da erupção do Vesúvio - Folha de S.Paulo",
-      "published": "2026-10-30T14:00:00+00:00",
-      "summary": "Armário oferece retrato da vida em Pompeia antes da erupção do Vesúvio&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "0f831588648f",
+      "title": "Mulher tem parada cardiorrespiratória após ser atingida por cabo de alta tensão em SP - Folha de S.Paulo",
+      "published": "2026-10-31T15:31:00+00:00",
+      "summary": "Mulher tem parada cardiorrespiratória após ser atingida por cabo de alta tensão em SP&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUzQ1bUZWcmFZcVZTMXh2ZEhuUUF5eHV0cFFNdmlWNkNBM0E2MUloWUdjTkdHa3dWd0JaR0lQbThKTkVEYkdKc3V2SHE4b0cyTWtIdWFMa2EwYkdFSGZRcGNVNEpsRTlXcDlYNHU2by1uQ0o3cjcwUWpKSllmdFVTeEI5QkJaS1RGUWFBNjdlTGRvQUhtc01vcm13c2VNemZxd3o2VGNja3J4amJNdHBSZndPOHBhQ1FzNzZaVXc1OA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9493869299ea",
-      "title": "Homem encontra planta crescendo dentro de seu olho após acidente com galho durante viagem de verão - CNN Brasil",
-      "published": "2026-10-29T21:46:11+00:00",
-      "summary": "Homem encontra planta crescendo dentro de seu olho após acidente com galho durante viagem de verão&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODJ6WE1QVTVtTXFyZ2NvejFSXzVZVWwtVEoxbTg3SVBkdWJEbmhfQkRkSVJwUkRzRHl6blNlVHdsV2FiV0ZWa21GeDE4eGJoUnlvSlc2czhSRUpBRlU5bHFaRUtIemhBbFFucUR5Q0d1RzBqTEF3dUtubW1JbkszejhhUGdwYWY0RXNoaExWWGhIOXhIWDJaMFJGMG1peTN4djhEMXUtOG5hcUVwSkVOOVlFSE8tZ1ZOVExsMHh2ME9EUnZHYUdPZTQ0ZU14VWpRaFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3b7662631db",
-      "title": "'Meu irmão comprou sem saber a cápsula de césio-137 que desencadeou maior acidente radioativo do Brasil' - BBC",
-      "published": "2026-10-30T11:27:33+00:00",
-      "summary": "'Meu irmão comprou sem saber a cápsula de césio-137 que desencadeou maior acidente radioativo do Brasil'&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xcEhZN0V3dndnUWh6bDRqUEZGN2Y0NTBXenJRUHpzWk1OQ200SE1GSXVlaXRrVTBOTFoydEtmVERENHNWX0FuN0hJeFhEc0JYT1NMQkhoZGRIUkRZNUxWa0hVZ9IBaEFVX3lxTE1xUVBMdk1GQ3hJZktVbWtuU25aa1ZUSDZmS1pFRzZMZGJURzZOM1JVZmZ5aV9ncUdoVU1kZXlRQzdPZmcwbHlrZENvRU5PY0JzNTdpUTZWLWNKQlR0TjNkVHI0WHptODRK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ede882cb5151",
-      "title": "Fúria (quase) sob controle: o mercado para se livrar da raiva está em alta - VEJA",
-      "published": "2026-10-30T09:00:55+00:00",
-      "summary": "Fúria (quase) sob controle: o mercado para se livrar da raiva está em alta&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTFTUmw2Y3FWemtubHB2VnRiT2NHcUZZX1V4bjlOT3pYZVk3dm94NmFIMTRUWGN6YUNJQU1XOW0wMUFMWWpweDcwUlhsaG5hYlRwRVR6LW42amdqeVkwRHVFanhSR3VCTXBjT1RoQzVrT0dvOTFyTDRGcHU4RGhkRzhIZUlWNXZHVEpLQXozQll3ZjkxZkhhN3pIWjJMZzl4WnI3RTVHWUhRSXNsdk9UN0tR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ef59dbca179",
-      "title": "Sair para caminhar em vez de ir à academia é ótimo, mas só funciona se a caminhada for feita a 5 km/h e com certa regularidade - Terra",
-      "published": "2026-10-30T18:12:00+00:00",
-      "summary": "Sair para caminhar em vez de ir à academia é ótimo, mas só funciona se a caminhada for feita a 5 km/h e com certa regularidade&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNMlR5M1ZNdnNsZ2UyUjhGWXhzVk1XRTB1M0ZJOGpKV2dla0twRFFYUXRUOU5mQVZTWEFwd3pjWW9ySVZVVkJETm50eWdTaXVmZEx1alQzY1lybFFxTEVhVzFrYW9uNzVibUxFNmhrVFEzR0lTQWtBbjluQndXMURZSUVFd05mdUQ2RFM3SDVqb3hpM2xnVzZkckVyYUZOS1E4ajRCUUxrZzdobzV3UHp3NzFmTjBCN0ttcDhaQVdFZllyQkxSSGVfNjFvMTlXVk5EUTRHR0FlZmpOOGNxNFRhVUF3U1RVb25tWUhRejF5bWIxLWMwdDlqR2FCbEJIUGx5RmdBTEpLUkZxUE5jQXJXamZmdHFLQk1rRklDWFhoQ2xSQ1dibEM0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "69470f315b9c",
-      "title": "O desastre de 1940 que fez uma ponte virar ‘vela no vento’ e obrigou a engenharia a criar pistas com formato de asa - CNN Brasil",
-      "published": "2026-10-30T15:36:52+00:00",
-      "summary": "O desastre de 1940 que fez uma ponte virar ‘vela no vento’ e obrigou a engenharia a criar pistas com formato de asa&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaVhQYmpXeWtSQmlpUFZsc3UyRVdOM3ZUaldjQUtLb21uLTRVbUNSb2RvckFVTEo3LUJDRWJDVXpKT0tpcmFjTjFyQnhCYWpiZF80RmVJRXd1d1JNNnh4MHlxNTFaeUNWYmw0Q0haamlvOGUyVUcxb2pJWUpVR2MzZkpzLWxsQ0tHalhKVGE1Z3B6eVR0UkNzdEJKNkZtQzE3dG94QUdyMzJoTmtwTTlZcV9nekxnZ0FHRHJ2anAzbVMxbm1jVHpLZFFmaG1JSG1mVm5PUnNrQXlORlZVTkZNdXFKVUxCM0xpYm5VVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "41f2b830a717",
-      "title": "Especialistas em psicologia apontam: devolver o carrinho de compras ao lugar indicado no supermercado não é apenas sinal de organização, mas também pode indicar um forte senso de responsabilidade coletiva - Super Rádio Tupi",
-      "published": "2026-10-31T12:20:24+00:00",
-      "summary": "Especialistas em psicologia apontam: devolver o carrinho de compras ao lugar indicado no supermercado não é apenas sinal de organização, mas também pode indicar um forte senso de responsabilidade coletiva&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNeE1qRmZPYmtFWEFMUm1FTnY2UENNOW9fOUZKMVE2UE9sMFZ5aVIxUXRPTEh0d0FZdEJSNHYxZk5HOEFtQU45dTktYnlmSlFVWURFTFJWcXROZld1N21RdVVxeEc5eGJGRk5OdTlvek1TT3dsTWtPVEt4ak5Nc3g0RVJyc2tuc3Y0bk44Q19iZmlvblJvOUt2VHlWOXRBM1JiUU5BRzkyaWgyTGw3bE1Ed2RvTVBVOGhoNWJTbjZEOXdZeDJHNDIwX1V0Zl9Bdm1qSTUwSFM4OVZGUnJ4NjlERW5iSUpldjZuRVlKWFYtbmNaZlpaQ3RxVlA5SVNtMnRMNVBJNmV5M1UyYkJXSXE4RTd3eS05SGhTVDgxMEZIRzl2SWNYM2pXVnUyNzdWUFNPMzgtcFlhODJ6eF9JS1JpUTlnS1lCbmoyZDliTmNB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS3BqWlV1a21BZkQ1TEFHbFZJY19kbVZWYURPWk1mblhLQ3RnLVNVQkxQUmtyVllBSkZqSHlZV0lDMGtDZkJjanlPdDJ4OGItNEVSdjgzZ3oxZlJlYThmOGRQODNncDc3T2NqeV9tU3pxX2FDRDFqSXZESWpiTTdSUzJZaHoyMkk1Y3JCYUZGOVVWNlFOYmlvTzE4Mk9adk9xVEp1bkhhOUxOM2JGVkh2emRXZGxrSjJxdlByVGZwVTZyQUN6Y2RUZG85NzlGZWRkb21VQk9n?oc=5"
         }
       ]
     },
@@ -592,14 +532,38 @@
       ]
     },
     {
-      "id": "bbcfd78e74e0",
-      "title": "Capítulo 143: Segunda-feira, 02/11, resumo de Quem Ama Cuida (6 mudanças da reta final) - O TEMPO",
-      "published": "2026-10-29T16:44:38+00:00",
-      "summary": "Capítulo 143: Segunda-feira, 02/11, resumo de Quem Ama Cuida (6 mudanças da reta final)&nbsp;&nbsp;O TEMPO",
+      "id": "52c31bc58203",
+      "title": "INSS esclarece: é falsa a informação de que vai bloquear benefício de quem não tiver documento com biometria - Governo Federal",
+      "published": "2026-10-27T18:58:00+00:00",
+      "summary": "INSS esclarece: é falsa a informação de que vai bloquear benefício de quem não tiver documento com biometria&nbsp;&nbsp;Governo Federal",
       "sources": [
         {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMVRGN04zUVBHMVlqOGpsME1qbUtjNEJ5dUNxcnJ4Mlg0TEtrb1hlODZ4T3l6ZGVlaXZUZzNvSzJMVWJnZk5CWkVkd05zQUM0clJFT0Q2eEs1Uko0UlFkSlh3R2dpVVZrZENzRGRWN254S0FjbVNjQ2N6ZEdWX1EtRlB4NDVNZWRDS2xyWnNOeVE1M1JyY0Vzd1dfaEJoNDNuMDJRZS1MMzR5SWFvTlZwWDJTM1JoOGo5bzVtX1dsTllCb2x0YnFsb2ppM0RIbEdKdU5ScFFR?oc=5"
+          "name": "Governo Federal",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV2JQTFdBazVCUnF6UkVlZVNBVUZKOFZPbllXS3JvVTMyUnMyMmU3aGdnRmp3NFRhaDJwWlkwT3dGQUx0czF0c3J4cjZPekRkUFd1ZmVoUVdFZkJoZDZQNkpFYVp2NlRNMHJ6MkFMeVgtWDEwbThJdGdqTjhrcVhBM2hKVXNHdldFVzBQVVBGOWU3eE9KSDg2dUYwb2FCZE44ZTI5S1Z0V29heEFWSW9vNVo1dzItcEZ3UHU5UzE4V3NweEZYLVBnbDlWQkRRMUxKaEw0U0p0ZjhydUpnYjRNb0dvdnRDR29BZ01J?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9493869299ea",
+      "title": "Homem encontra planta crescendo dentro de seu olho após acidente com galho durante viagem de verão - CNN Brasil",
+      "published": "2026-10-29T21:46:11+00:00",
+      "summary": "Homem encontra planta crescendo dentro de seu olho após acidente com galho durante viagem de verão&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODJ6WE1QVTVtTXFyZ2NvejFSXzVZVWwtVEoxbTg3SVBkdWJEbmhfQkRkSVJwUkRzRHl6blNlVHdsV2FiV0ZWa21GeDE4eGJoUnlvSlc2czhSRUpBRlU5bHFaRUtIemhBbFFucUR5Q0d1RzBqTEF3dUtubW1JbkszejhhUGdwYWY0RXNoaExWWGhIOXhIWDJaMFJGMG1peTN4djhEMXUtOG5hcUVwSkVOOVlFSE8tZ1ZOVExsMHh2ME9EUnZHYUdPZTQ0ZU14VWpRaFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41f2b830a717",
+      "title": "Especialistas em psicologia apontam: devolver o carrinho de compras ao lugar indicado no supermercado não é apenas sinal de organização, mas também pode indicar um forte senso de responsabilidade coletiva - Super Rádio Tupi",
+      "published": "2026-10-31T12:20:24+00:00",
+      "summary": "Especialistas em psicologia apontam: devolver o carrinho de compras ao lugar indicado no supermercado não é apenas sinal de organização, mas também pode indicar um forte senso de responsabilidade coletiva&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNeE1qRmZPYmtFWEFMUm1FTnY2UENNOW9fOUZKMVE2UE9sMFZ5aVIxUXRPTEh0d0FZdEJSNHYxZk5HOEFtQU45dTktYnlmSlFVWURFTFJWcXROZld1N21RdVVxeEc5eGJGRk5OdTlvek1TT3dsTWtPVEt4ak5Nc3g0RVJyc2tuc3Y0bk44Q19iZmlvblJvOUt2VHlWOXRBM1JiUU5BRzkyaWgyTGw3bE1Ed2RvTVBVOGhoNWJTbjZEOXdZeDJHNDIwX1V0Zl9Bdm1qSTUwSFM4OVZGUnJ4NjlERW5iSUpldjZuRVlKWFYtbmNaZlpaQ3RxVlA5SVNtMnRMNVBJNmV5M1UyYkJXSXE4RTd3eS05SGhTVDgxMEZIRzl2SWNYM2pXVnUyNzdWUFNPMzgtcFlhODJ6eF9JS1JpUTlnS1lCbmoyZDliTmNB?oc=5"
         }
       ]
     },
@@ -640,18 +604,6 @@
       ]
     },
     {
-      "id": "e4e8e61c02ee",
-      "title": "Trabalhou com ruído, calor ou produtos químicos? Seu tempo de contribuição para o INSS pode ser diferente - www.jornalcruzeiro.com.br",
-      "published": "2026-10-31T12:41:00+00:00",
-      "summary": "Trabalhou com ruído, calor ou produtos químicos? Seu tempo de contribuição para o INSS pode ser diferente&nbsp;&nbsp;www.jornalcruzeiro.com.br",
-      "sources": [
-        {
-          "name": "www.jornalcruzeiro.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaVR3Y0Z4ZDBIU2NURE9PSlZLMWZwWDBvT3Zxa1A4dWk2TkFCaXFsRlNqV0FkSld5TlBMN2RLWGlKQzlIcWNUMV91RzlvSXdJa2RsYTdRUmdodm9WSDN5UU8tVXhYSWVrZ1RJaWNZTEJBZ2IwYkVqblRrTkxaYldhNEJRRkpfWDZTU2ZMZ2RDMTNRX1R1b2hidUg1RFdvTjhoSFVyQnlqQ0M1UDluM0NyV1BmSi02eFRsSmd2N2ExRW5BRGs4ZGNzTDRONnFXclM0d1VxM1I4eDg2bkJQdlBCTnQ5Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1f81fdc4d614",
       "title": "Como se exercitar mais sem nem mesmo tentar - BBC",
       "published": "2026-10-28T21:10:16+00:00",
@@ -664,26 +616,14 @@
       ]
     },
     {
-      "id": "e0329554e1e6",
-      "title": "Exército conclui curso de defesa contra ameaças químicas - Poder360",
-      "published": "2026-10-31T11:34:19+00:00",
-      "summary": "Exército conclui curso de defesa contra ameaças químicas&nbsp;&nbsp;Poder360",
+      "id": "71f926dd699c",
+      "title": "Pantanal entra oficialmente na rota da aridez, aponta plano do governo - Mongabay Brasil",
+      "published": "2026-10-29T07:19:48+00:00",
+      "summary": "Pantanal entra oficialmente na rota da aridez, aponta plano do governo&nbsp;&nbsp;Mongabay Brasil",
       "sources": [
         {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHE0bEJzbzVTdkZIVDB6b3h6SXRNTzVSaXk0d0RiRF9HeXJVNGR4cUVINV9UOUp1dzFfeVMyUEJkWjBuZjMyVFl3RzN2Yi1qMWo0OC10M05ubkQtOEFfXzFLczZuYnZOcERmeDdoN29sVUR4UXVGODBJQjVaRVk3ZlVEcnRIOS1LeEF4ZmllMlFjVVJrX1dTbEdhcUYzMU5pTFctZzZiSURMWXdjcWw2dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fddb726e729b",
-      "title": "Microscópio que analisa partículas cinco mil vezes menores que um fio de cabelo será utilizado em faculdade de SP a partir de 2027 - CNN Brasil",
-      "published": "2026-10-30T22:38:11+00:00",
-      "summary": "Microscópio que analisa partículas cinco mil vezes menores que um fio de cabelo será utilizado em faculdade de SP a partir de 2027&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORXlwc3FKOFVaVzBZTHNCUU5GZkNtZmlYR0VvZmJRNENwTmIzMUlmTW5sZDFHVEUtMXVHUG1ONUQ1WGl0Mk5CVjFnNk03Y2ZHMm9xdENVSm5kUWFHTnA4ZHhoN2J3OXdCUmVDUjM4eFRmeXNGRTNiRFJ3clQ2UkxzOFdteUtLMUQzZlB0LVdJYzR2aG1DYVNyazhYaVU0TVl1V1NhczloNFh4QjR5V3dMbWdzdDNBOXR4THQyTGJOMHlJZFhSYzZRMm55ZWFHWkdtdzMzVTBFRWswZk1kcUVTMGVKNEl0U01QSzdLWG1mRmVtX2NuQVNtNF9XM3Q?oc=5"
+          "name": "Mongabay Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ0NTM244R2pvQUk4aXhFeXJJWlNQUXRUeHZ1YlRpeHhQRlo2NERkTjVLZGdHajRxVUhRN0ZGZVlPWVFrWlV1VHRteUllXzlLUHdOUGNvZ0tpN1RSSGVqaG53MVZDVE9hYmxCbjM1ZGVnRUJnNk9mYTA4RUlvUk52MWdpNjhCUnpIMG9Ra1lVX0FUZkNncWNTNkVXdXNma0JVLVRPU2lYRWl4WnBUQ1VoVUw4YVBfb2c?oc=5"
         }
       ]
     },
@@ -700,38 +640,26 @@
       ]
     },
     {
-      "id": "e7ae4e285872",
-      "title": "Milho safrinha: pesquisa de 35 anos em Assis chega ao fim e acende alerta sobre futuro da APTA - Assiscity",
-      "published": "2026-10-31T14:34:54+00:00",
-      "summary": "Milho safrinha: pesquisa de 35 anos em Assis chega ao fim e acende alerta sobre futuro da APTA&nbsp;&nbsp;Assiscity",
+      "id": "f3efec0cbd2a",
+      "title": "Professor de química se veste de personagem de terror para aliviar tensão pré-Enem de alunos - G1",
+      "published": "2026-10-31T11:00:01+00:00",
+      "summary": "Professor de química se veste de personagem de terror para aliviar tensão pré-Enem de alunos&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Assiscity",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ2VYb3FPV29sa0tycEJsVmNKUUlxNlVEdEZYQnYxbHAzZWhOYlV5YTNWUmo0b0RVX28tRmNYbjdsNmtNTzJYcEtOaEZGWHI3ZlFfVlhCSzNZM2xYSURPVWI4Z0luNXFpMXZPSmNDLWtOTUc1ZllqQUo4LXRsRUlrNlMyWUtrWlZwSU5oN2dpTU5MWmUtLUJ3U3Z1RXRGa09BU1I2N0ctLUJhSHNQMWhHRENMc1BlWHdWb0pkOEZFOFhpOFdSWVBFdHZLaWJUSDJlcmJLYy13eUhBT3E5?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMXJzbmFuNklkbkFQZkxsYlZ5SGVrSEZ0RkRwWlpWSVZERjl6RTZhRXZPY0xFaXpYaHFiQWduekJXM1BxUGoycWUwYjdyNFhvc0dOalNpcUNHNS1oR1FhQVlHTURnUjMzSXlvZkdBZ0hTdG9rT1plalQxWWp0Y0UtU0V5NlkyeFhDSkNWZHJoVWFRVWc1aG5zS014S3FqWkU0bUxRa0d6YlZwOVduTGowMTRaZDEwVUhmandLbmQzNE1QRVN6V3labFE2clp0bmtQZThFNXEwQUpDd3F4NktMS0gxYlJaeU00WjdUY0kyWWdldHViMGhDdG1nZUFtbUXSAY4CQVVfeXFMTk90Y01aR25pWUEyR2dvVTFrT2VVZ3A0d191YkJ5NTVFMEVlLVp6UmdOT3dFejZNV0l1c0k4eEYxdFpqcVY4aWZBUHZTMXJ6aHcyb1cycGZHTlFSVmtYMVNIdWxDcTgxOG1wbm1kcVpyRmtoWGd2cTFXQ0tRZVB4b1Z4UVRXMGhINXlONm9YeWVZV2hjbDV5ZWxNRFR6MXhmeVQyb0ZJTC1ZMHNBTkg4empLQVhMWnk1ZjN4NndHUVpwbDFfSW5ZMUZVQjhlMVdYRnU1OWM4c3NOZThQNWFIZktlRHJFT2QxQmhieDgzZ3hiM0FJYy1NNHEtcjhsNk5xSTRUQWR3NGlMZ2phTlBB?oc=5"
         }
       ]
     },
     {
-      "id": "bc01f5817e9a",
-      "title": "Humanos cancelaram acidentalmente a próxima era glacial, mas isso não é motivo para comemorar, dizem os cientistas - CNN Brasil",
-      "published": "2026-10-29T19:15:00+00:00",
-      "summary": "Humanos cancelaram acidentalmente a próxima era glacial, mas isso não é motivo para comemorar, dizem os cientistas&nbsp;&nbsp;CNN Brasil",
+      "id": "e4e8e61c02ee",
+      "title": "Trabalhou com ruído, calor ou produtos químicos? Seu tempo de contribuição para o INSS pode ser diferente - www.jornalcruzeiro.com.br",
+      "published": "2026-10-31T12:41:00+00:00",
+      "summary": "Trabalhou com ruído, calor ou produtos químicos? Seu tempo de contribuição para o INSS pode ser diferente&nbsp;&nbsp;www.jornalcruzeiro.com.br",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZGMwS0Q2Mm9xWnQ1RzFQb2k5czF1WVhXcHo1RWFTdnlrOThwWWdNZkotMlMzWVAyRV9FNU5sMHVPOXdGWUFjazNkZ3kxLTl5U083UkJvbkZqZVAxb3ZMTU5rRF9lMHRPVjBvaWZrTjFHMHpOUXNpdEdJQk5zT19TNDRmQUZsOF9SOVF4cER5R05HYUZvWnZMbU5GZWV3WmhlQjVBUXRjWkc2NzRCbFNFVGxsaVBKS0lRNDFoRGZyN1M0TUhEXzR5d2xoOXhhb1RENFhhX0h6MXN0SFRvOUdsdF9OXzk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c76819453adc",
-      "title": "Estudante de 14 anos cria modelo matemático que melhora em 16,7% a detecção de terremotos no mundo e vira finalista em prêmio de inovação - Terra",
-      "published": "2026-10-26T16:12:00+00:00",
-      "summary": "Estudante de 14 anos cria modelo matemático que melhora em 16,7% a detecção de terremotos no mundo e vira finalista em prêmio de inovação&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNWDR6UmhlSjRWSUNkeWRpbDhvX1B0RnhJSGtEdHJZMUp3OHo5QWQxUW8zVEo4VHUxUW5GQjctQmMyWlJNZjMydmZ6d0s4aXBzQ21XSS12c1VVMGk5aEVGeFdZN29qVG5oVVRDTWhUbi1GdlZVanhBXzFsd24tdHFWNUN2QlNzQy1CZlZyQUc3ekVCdkswLUhQVHRLS0Z1eGVqWlFUTE9JbmY3TTV6Q0ROZVZGMXFNTVVSYmZZb1dBRmFCdXUtTnQ5UkxEaVdoUjVYS3pPX2taWm5jRzFKZDFMQzJvMHd6YUhGUHZPY3ZJeDNCWkF4elZscEU3MnN6bmdWcUJKQWtWVkI4ZUYwaDQyUUNEcUxmaklNbnoyR0pMXy14U0ItRmVBQW9iREw0cHV5SXo4enZSNkhXd24tYmUyNg?oc=5"
+          "name": "www.jornalcruzeiro.com.br",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaVR3Y0Z4ZDBIU2NURE9PSlZLMWZwWDBvT3Zxa1A4dWk2TkFCaXFsRlNqV0FkSld5TlBMN2RLWGlKQzlIcWNUMV91RzlvSXdJa2RsYTdRUmdodm9WSDN5UU8tVXhYSWVrZ1RJaWNZTEJBZ2IwYkVqblRrTkxaYldhNEJRRkpfWDZTU2ZMZ2RDMTNRX1R1b2hidUg1RFdvTjhoSFVyQnlqQ0M1UDluM0NyV1BmSi02eFRsSmd2N2ExRW5BRGs4ZGNzTDRONnFXclM0d1VxM1I4eDg2bkJQdlBCTnQ5Zw?oc=5"
         }
       ]
     },
@@ -760,26 +688,50 @@
       ]
     },
     {
-      "id": "6553d5515fa8",
-      "title": "Aos 96 anos, José Sarney retoma rotina de exercícios físicos três semanas após cirurgia; VÍDEO - G1",
-      "published": "2026-10-31T12:42:30+00:00",
-      "summary": "Aos 96 anos, José Sarney retoma rotina de exercícios físicos três semanas após cirurgia; VÍDEO&nbsp;&nbsp;G1",
+      "id": "fddb726e729b",
+      "title": "Microscópio que analisa partículas cinco mil vezes menores que um fio de cabelo será utilizado em faculdade de SP a partir de 2027 - CNN Brasil",
+      "published": "2026-10-30T22:38:11+00:00",
+      "summary": "Microscópio que analisa partículas cinco mil vezes menores que um fio de cabelo será utilizado em faculdade de SP a partir de 2027&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUGxzREZYd0x5azNpMmhwNTRxWmJDT2ZMaEg0OW5oTkFpckxZQmpZeGVzQTVIWThRc3ZfRk9UaG1pcGV4cnFqZFpoR2RSWnh1OTBXZEFjZ1h0RC1mbnRNV0ZDSElKTVFkNlVnUnFfNTFvb1V3dGN4OUVDRENvQW9VWmVMN3RqNmQ1ZVZaTzVmZkpzY1dwbWwyLUpNbGU4cE5MMXkyb1lKYTN1N0EwVG5JZ3pvQVVrMWpJQlR6Q0ctbjFOem5XcGJNRl90ZV9EeEFlZDRNQ0xVZHdpSmlTLVRRZl9wdEnSAfMBQVVfeXFMTUZBNWV0b3VCSDR6OTFPRlRzdUI1ZExXSXhVUDFiSHJOSFdnblExTXFJaFVhZmx1eUttbEw0TjRQdFFjdUhXOENpNFFaMV9RNjVnOXZMazhvUUgwaWduWGRBZFRYaVd5UnlNRTN1cE1SY0lSdGF4OVFTU0VSREVDaE5OWllxQ1dxYlJUNl80d1lLejF6OWIzLVZvcGxTQW90Sl9YUEowbFV1cDdMMlgxcmZDVjkwVURnalNfaXo3ODFwbEJxNGZqenFnWWVZcEpVblI3NFMzLUZwa1hUUmVzLTNFakMxUTJTWUZiZS0xbnFOcXlj?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORXlwc3FKOFVaVzBZTHNCUU5GZkNtZmlYR0VvZmJRNENwTmIzMUlmTW5sZDFHVEUtMXVHUG1ONUQ1WGl0Mk5CVjFnNk03Y2ZHMm9xdENVSm5kUWFHTnA4ZHhoN2J3OXdCUmVDUjM4eFRmeXNGRTNiRFJ3clQ2UkxzOFdteUtLMUQzZlB0LVdJYzR2aG1DYVNyazhYaVU0TVl1V1NhczloNFh4QjR5V3dMbWdzdDNBOXR4THQyTGJOMHlJZFhSYzZRMm55ZWFHWkdtdzMzVTBFRWswZk1kcUVTMGVKNEl0U01QSzdLWG1mRmVtX2NuQVNtNF9XM3Q?oc=5"
         }
       ]
     },
     {
-      "id": "2a41f48f5bb1",
-      "title": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo - G1",
-      "published": "2026-10-30T05:00:00+00:00",
-      "summary": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo&nbsp;&nbsp;G1",
+      "id": "e5aec5cfeda4",
+      "title": "Mostratec reconhece anos de pesquisa de jovens estudantes - abc+",
+      "published": "2026-10-31T15:38:07+00:00",
+      "summary": "Mostratec reconhece anos de pesquisa de jovens estudantes&nbsp;&nbsp;abc+",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTkVFbmNQZTkxb0FNMDFoVERXTnVqUWNjYnhUa3hFc3FIQVJMdzV0bEVYS1RxQXlhVDB3a3hIMEFqNllZeTZLcl9XN1FhaGpLeTM2ZXp5dE5DZ1h6RFZkYlNXMEdibzFKVk1CYkowMVh0VWQtVWdQQV9YaF9jVlQ2MGF5azNYdXI0LXVaWVBzQUsxZEdxM1R5TTlKWDF6VEFPamJOSmVzbk5fcXFJVmM3Z193UlZvN090NUdORXVxODVjUkFiZkpiU1U5YmZCUzFvRGN4elhiYXRLOGhZaWZfOGhfYW3SAfMBQVVfeXFMTVZzZE1ZWFpKSEhjM2QxdHJPMW01SlB4UFBZNGx2bl9ZSmItRGVfUzVVRWNCM3I4V3pxUU94ZzROellFRk4wOFBwN25QdmNZZGFPRW5UcFBrdUhLeFFpbDVYM2FOMVVyQlk1V1RKMFpkdzZ1NWgtYjRfbFppVHZBWHJHdUpzdzBTTC1GY2FqVGcxem1mak9Namg1TmFkN2JSd0hucUFpdW5yWWtKWHkwSXZFYTFreWkxSzJncWFTWlBLMzJnSFptUFdMWTVDamtCWVVjOGdWUDdkbFFOSGxvZVJhaTNsUnNBZ2lmNHhvc1BoaEI4?oc=5"
+          "name": "abc+",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYk5sSVpkdk1UUHFJMkFPdjB2dWZuUllHUHc0b2YwNWhGbWJCOGZtU3lBRjdEMGx4NDl3MzViTTVWQ0xkYkZoOTNubWpEZFd4VHAwcE91WUFTbDJidGhsYkJJUDAzVURBalRkV3Y0QzZZV1BoNUI5THdZY1c2TE5aUDhxdEFtUDB5RnBrMTF5RTR0c0FVUUZHNHZxeHpZdVBaclcyQzdoc29faFFKbHZmQzZTQ2piaXRfOHJtWlhpeEx4cXEzVUk5TVRxVmpGTURIaTBZSEpfNmhPNU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7ae4e285872",
+      "title": "Milho safrinha: pesquisa de 35 anos em Assis chega ao fim e acende alerta sobre futuro da APTA - Assiscity",
+      "published": "2026-10-31T14:34:54+00:00",
+      "summary": "Milho safrinha: pesquisa de 35 anos em Assis chega ao fim e acende alerta sobre futuro da APTA&nbsp;&nbsp;Assiscity",
+      "sources": [
+        {
+          "name": "Assiscity",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ2VYb3FPV29sa0tycEJsVmNKUUlxNlVEdEZYQnYxbHAzZWhOYlV5YTNWUmo0b0RVX28tRmNYbjdsNmtNTzJYcEtOaEZGWHI3ZlFfVlhCSzNZM2xYSURPVWI4Z0luNXFpMXZPSmNDLWtOTUc1ZllqQUo4LXRsRUlrNlMyWUtrWlZwSU5oN2dpTU5MWmUtLUJ3U3Z1RXRGa09BU1I2N0ctLUJhSHNQMWhHRENMc1BlWHdWb0pkOEZFOFhpOFdSWVBFdHZLaWJUSDJlcmJLYy13eUhBT3E5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ede882cb5151",
+      "title": "Fúria (quase) sob controle: o mercado para se livrar da raiva está em alta - VEJA",
+      "published": "2026-10-30T09:00:55+00:00",
+      "summary": "Fúria (quase) sob controle: o mercado para se livrar da raiva está em alta&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTFTUmw2Y3FWemtubHB2VnRiT2NHcUZZX1V4bjlOT3pYZVk3dm94NmFIMTRUWGN6YUNJQU1XOW0wMUFMWWpweDcwUlhsaG5hYlRwRVR6LW42amdqeVkwRHVFanhSR3VCTXBjT1RoQzVrT0dvOTFyTDRGcHU4RGhkRzhIZUlWNXZHVEpLQXozQll3ZjkxZkhhN3pIWjJMZzl4WnI3RTVHWUhRSXNsdk9UN0tR?oc=5"
         }
       ]
     },
@@ -796,14 +748,14 @@
       ]
     },
     {
-      "id": "f39064faaa3a",
-      "title": "A Lua e o Sol controlam a subida e a descida do mar; entenda como funcionam as marés - Rádio Itatiaia",
-      "published": "2026-10-31T13:41:38+00:00",
-      "summary": "A Lua e o Sol controlam a subida e a descida do mar; entenda como funcionam as marés&nbsp;&nbsp;Rádio Itatiaia",
+      "id": "4ea81bd19ba0",
+      "title": "Escondido nas águas profundas do Rio Tefé, peixe elétrico revela uma nova espécie na Amazônia e atrai a atenção dos cientistas - Xataka Brasil",
+      "published": "2026-10-25T13:30:13+00:00",
+      "summary": "Escondido nas águas profundas do Rio Tefé, peixe elétrico revela uma nova espécie na Amazônia e atrai a atenção dos cientistas&nbsp;&nbsp;Xataka Brasil",
       "sources": [
         {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa1lKTGI1NzR4S0VGcmJDNHpXVXdYTnpkb0ZlRzJWdS1VLUZyVms2WjJ5TklFZ3U5bGU2UWxGaWtWclJkYms2c2haODdfZkJ0cXlNQ043dEdKMHgxUld2N3NhSC1VYkRqN2dGeFJVNDFXSWlZWUxNOUZKQ2JvMXpjSnpRVXAyQklBYmJycF83ZzNrNUJyTE5Xd1dhU095dVhpa0gxM2puNTVnR1F6UXBrcmVNdHNNNzhuYlA0?oc=5"
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaWZNeEFtdTM1VXZKZlJPQ2xYYWtfTHhHWlhydlpvZjRzNGdXTmUzWVdneWRuenBCVWt1b0hEWUdOQno0QXNQVmR0Yzk0SmFOVks5Yk96YW9xY3ZfdEZhTW1XUEt0M0s1c1BSSWFTNzZ3WVBlZGQ4V3p6NXp5bl9OT01BMlQwT3RsUGd4M2djN1RYM2VHMGNTd29JTTFIMTA1cU5OMWZiZkxoa1ZsdEI4czVZR2s4aFFoRmJpMEozak5ZLXhTMTRvUXNsOXJlalBEZHBOZFZlM1hZVDg1TXBINXpQOXpDRXhPbC16WmQtNFg?oc=5"
         }
       ]
     },
@@ -832,6 +784,42 @@
       ]
     },
     {
+      "id": "f39064faaa3a",
+      "title": "A Lua e o Sol controlam a subida e a descida do mar; entenda como funcionam as marés - Rádio Itatiaia",
+      "published": "2026-10-31T13:41:38+00:00",
+      "summary": "A Lua e o Sol controlam a subida e a descida do mar; entenda como funcionam as marés&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa1lKTGI1NzR4S0VGcmJDNHpXVXdYTnpkb0ZlRzJWdS1VLUZyVms2WjJ5TklFZ3U5bGU2UWxGaWtWclJkYms2c2haODdfZkJ0cXlNQ043dEdKMHgxUld2N3NhSC1VYkRqN2dGeFJVNDFXSWlZWUxNOUZKQ2JvMXpjSnpRVXAyQklBYmJycF83ZzNrNUJyTE5Xd1dhU095dVhpa0gxM2puNTVnR1F6UXBrcmVNdHNNNzhuYlA0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf740f3d7501",
+      "title": "Insetos como mosquitos e abelhas exibem personalidade e se contrapõem à ideia de minirrobô - Folha de S.Paulo",
+      "published": "2026-10-31T14:00:00+00:00",
+      "summary": "Insetos como mosquitos e abelhas exibem personalidade e se contrapõem à ideia de minirrobô&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRWtlZnhkMGFaeUlBcVVua0dtYWNicFlJeWtwUjh5RlRXUGYzX1lKd3h4TFJ1bEhsYUpaeXFzeTI0SExtQVNoVlNzTkVNNTNyMV9hNmphMVRhR01fWE5pYTNwdEh4QUVqd19ra0Rna2hYeC1yX1FMRDNfdTdKUE5ZZUw2QkxxWV90c0FTQV9OZmZlZ3BmZGpad0FkVXBlSGgwVE1weXUwT25rWmozMVFEUElqVGZfVE9DNERGcEx0MUh1cldQZHNYb3BPVXF0a0NtUURoOTg0UnJ2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "35e25d7f0cb2",
+      "title": "Peixe raro de cabeça transparente é filmado em 4K pela primeira vez - O GLOBO",
+      "published": "2026-10-30T06:30:00+00:00",
+      "summary": "Peixe raro de cabeça transparente é filmado em 4K pela primeira vez&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGEycmlJa3RVaDBvWXhEUElobTR1bXpfQTVaN1JoVjBLaUV2TlM1MmFhTkRSOVpWTVlZZEF6dEJTb1pydk1XYnAzRGdHSDdmZmtGLUN4YTBqODZEMW5HZElhNXE3VnVwRmI1Nmp2MjNybENyLWJOYWx0M0RqZnlwbV9WWlVBbzFLYm92am9CcWs4NDNlMEtwVzIxUTBjYWd1Zkt2eEh5Q21FRkVFSUM2QVpVQmhGRWZOOEd6WGN0YjV0cldfR1Y2UXZ2LThQQzl1OWI4NXFR0gHkAUFVX3lxTFA1Y0ZlTzg4YzZXSVFTZGlVQ1FMclI4Yzd6TUR1LTlNNFBfcUIzcWxQay1uNEFQWm9HZDF1c2I5SkJsVTg2cnNxVlpiVVM5SUxzM05nT3BGZkdzUWU2dXZoQWpJN3JzZGk1Tm42OU5wRFZndV84TmxpN3AtNHBSLXgzQWU1OWtzakVBWWluTTJuRU9CWjJzSnlFMnVKVW1LcFdFWHA1NDJ5UjVaLXpENWNhOFBNRWZydWh4a3piMmZ3THJzaDRQZXRXdHE5clV5M2Z3bGJRU2VVN3YwVmpFUnN2ZlBkbg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4a71e5b9c4e6",
       "title": "Frase do dia da Psicologia: 'Existem pessoas que confundem o carinho que recebem com a obrigação de serem perdoadas todas as vezes. Fuja delas' - reflexão inspirada em Harriet Lerner - Jornal Correio",
       "published": "2026-10-30T18:03:02+00:00",
@@ -844,18 +832,6 @@
       ]
     },
     {
-      "id": "4ea81bd19ba0",
-      "title": "Escondido nas águas profundas do Rio Tefé, peixe elétrico revela uma nova espécie na Amazônia e atrai a atenção dos cientistas - Xataka Brasil",
-      "published": "2026-10-25T13:30:13+00:00",
-      "summary": "Escondido nas águas profundas do Rio Tefé, peixe elétrico revela uma nova espécie na Amazônia e atrai a atenção dos cientistas&nbsp;&nbsp;Xataka Brasil",
-      "sources": [
-        {
-          "name": "Xataka Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaWZNeEFtdTM1VXZKZlJPQ2xYYWtfTHhHWlhydlpvZjRzNGdXTmUzWVdneWRuenBCVWt1b0hEWUdOQno0QXNQVmR0Yzk0SmFOVks5Yk96YW9xY3ZfdEZhTW1XUEt0M0s1c1BSSWFTNzZ3WVBlZGQ4V3p6NXp5bl9OT01BMlQwT3RsUGd4M2djN1RYM2VHMGNTd29JTTFIMTA1cU5OMWZiZkxoa1ZsdEI4czVZR2s4aFFoRmJpMEozak5ZLXhTMTRvUXNsOXJlalBEZHBOZFZlM1hZVDg1TXBINXpQOXpDRXhPbC16WmQtNFg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8f5f96473f92",
       "title": "Feira de ciência do Sesi Bahia reúne projetos de estudantes de 20 estados e do exterior - Jornal Correio",
       "published": "2026-10-30T09:00:00+00:00",
@@ -864,6 +840,18 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM1BVSnljU0tBeHNfbV9OUGVEWWQwdFBXQkZwazIxOXVFS1dqanhNVEZzaVJIUDhzNWNBT0YwSk5iMlZDakNRY04xZFNRSS1mM2VqTGVybTNTR0pYZnk4ODZENzRhQ0dEVkhQSXB2ZG03cXlrYXlpUm9QUkk0WFVWVmE5ODMwNTZLZHhQd0pXUlBmaFFoTzd5WnBFY1dzWE03Uy1MWTNfSF91Y3JZUnNOM3VDOFNHc2VyOTJZTWttZGdFYW1kUlI3OGJpUkVma01hY0MtZmJjX05BUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "545aed6ea921",
+      "title": "Aquecimento global atrasou próxima Era do Gelo, aponta estudo - Meio Bit",
+      "published": "2026-10-30T17:31:08+00:00",
+      "summary": "Aquecimento global atrasou próxima Era do Gelo, aponta estudo&nbsp;&nbsp;Meio Bit",
+      "sources": [
+        {
+          "name": "Meio Bit",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdkRURlN1bkZSUll4RkgwcThtUHZhWFB0dUdBY0lqTWVHVVB1YW1Wd3Q3ZnRrTXVBVkpMWWJaWXIzN1Y5LVJRNXEwTHhQNEV1bjlBMVBYT3piRFkweWQwZGNucGpndkRGLWNtOVJTUVdzM3ppa3lEUV9CMHdHRmc?oc=5"
         }
       ]
     },
@@ -928,50 +916,50 @@
       ]
     },
     {
-      "id": "1fb44a7f7d73",
-      "title": "Pesquisa identifica hortaliças não convencionais com potencial de adaptação às mudanças climáticas no RS - Brasil de Fato",
-      "published": "2026-10-30T15:41:00+00:00",
-      "summary": "Pesquisa identifica hortaliças não convencionais com potencial de adaptação às mudanças climáticas no RS&nbsp;&nbsp;Brasil de Fato",
+      "id": "a228be00fb35",
+      "title": "Entenda a relação entre o Halloween e a busca pela matéria escura - Olhar Digital",
+      "published": "2026-10-31T10:30:00+00:00",
+      "summary": "Entenda a relação entre o Halloween e a busca pela matéria escura&nbsp;&nbsp;Olhar Digital",
       "sources": [
         {
-          "name": "Brasil de Fato",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONFM1ZVFWMmJ2VzAtWGFEY01Zck9HRllacFROWmtiUmJIeTRJUEQwX3EzdzhSdnNndVNzMktVZURyenIxaHR4NkNYdVRwaFNac1ZJeGlYckpxNjVOclhabWpZV2xwN3JxUHdhdTVjSGRiU3F2RzlTSzQ4elN0U1UzVnFzWFFVLXdGakNWTUJteEl6ZFRFSnctMUprWjNCZnYwUTVfenJjRVE0Nmk2V0pFNVhnWFBTVks1blUtbHEzZEh3WHFOSkFiM3BNZEwtSERGTTM1aWJWanRpaFRyMFhmZ09R?oc=5"
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkx0ZHJRVWpZV05PVmgtMk5mdkhIWEVnTHhtX05naWpYekFGUUFILWlFNm5xLUxtU1hNblViLU5vdVUtUGEtMl9iUFNWaXNVZFhid3ZINFRVS3BsS3lOTlVqM05ZdU1lY0xBRWZpbVhtc1owdTJ2VTRvVmtMX05xWDhlTk4wQ3hSQmlYLUlKWmRlQWpxQUhkM1d1aFo2SDVNbzUwOWh3UV9fQ3dWREE5eWVfMmZReWhXTW8tWUEyZw?oc=5"
         }
       ]
     },
     {
-      "id": "5fc5a1b89b65",
-      "title": "'Recomece com velocidade normal': o que dizem as gravações do controle dos trens que se chocaram na Espanha - BBC",
-      "published": "2026-10-29T22:12:53+00:00",
-      "summary": "'Recomece com velocidade normal': o que dizem as gravações do controle dos trens que se chocaram na Espanha&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52QzZxVm5zYVpua3RNWERjclVkSDNZbUloZ280SVpVdFdMazI2clZWWTJxWXRYQXMxdFhJRWRNTnFIMHdnZUx6VGpTS2I2TV9qQi00OXlKSEVENVlMNmhOcHFRRdIBaEFVX3lxTE03OTZOOUJ4MDRSQThRVE5XdmdQcDJwMHRuOXNibGFVU1NvZ3lxeEIyTEcxV211dXZKb1VLelkzcVBndFRHTzBVVWtHUkhKYVZuSDhWYUYwNGk2aWJLNjRyeUpjbGVWendy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ad592de46cf",
-      "title": "Inscrições para o Programa Futuras Cientistas vão até 6 novembro - Agência Brasil",
-      "published": "2026-10-30T10:42:00+00:00",
-      "summary": "Inscrições para o Programa Futuras Cientistas vão até 6 novembro&nbsp;&nbsp;Agência Brasil",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFdrZjJoblBTYk9RVTFLVWNYLXVVeWhFQS1vRnZOSzQ2d2l0c0ZYTEtqcEJZcXR6YndubHRodmNfOG84b0g3a1VjTmNVWC1ZMlhvR2FZUU9WT24xbTFJVENTeUhUWUU3NmsxZFhiZVJRTDF5YjZ3TmFscHQyMndjY2JYMVdCaHgzUk5Cckg0WXo4SE5TZDBUM3g4aWpFbTE5bVNCekVfYi1WalRRSE1yQi1ubDFVTC1MckZQQzlBTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25ee451a14ec",
-      "title": "Cinco regiões de corais no Brasil estão em estado crítico e correm risco de colapso - CNN Brasil",
-      "published": "2026-10-30T06:37:53+00:00",
-      "summary": "Cinco regiões de corais no Brasil estão em estado crítico e correm risco de colapso&nbsp;&nbsp;CNN Brasil",
+      "id": "c8bb9dfa5d78",
+      "title": "Há três séculos, uma jovem italiana desafiou as regras da ciência e se tornou professora universitária - CNN Brasil",
+      "published": "2026-10-30T13:13:39+00:00",
+      "summary": "Há três séculos, uma jovem italiana desafiou as regras da ciência e se tornou professora universitária&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG5Yc0lETXp2eTRHVzRVWnREZGxsN3hKaGhVZVBTUVJhQ3JCajdaX3k5VWlzdWQxMUZ0NGliX3Fud3hSRGRpb3JDNXpWYWY0LU5DUkVScmg0OUstYUtJRWV0blhiNFdpTXJkX3k0bTVZSEliWmU4MGJLZnRHaEo0UktPLUNyUmdoMUFkNTZndUhtNDA5RUhEcVViSjd3TjBNQUsyVWc3VC1qVE42bENpcXZaby1QXzlHSUhUZ3dR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS3d5bU1PSjIyQU8xS1hMTzFwSVVPdHFQWGd0aFJFZ3hZMENUa0tRWlBYdXlCTlgxWDc4eUMyQXFDWlFNMndiY2JSOTRRcWFIWDVFVm1Ya2ZyMDk5UnFMOEVPWWw4SVg2RFkyeDY1UDBHWTlWUlB3eGVYR0FaMlVyaEJSYW9HMzVrQzc1U3ZLVVJFN1VuRGJJS0dERHJ5T0laZkd4MHVRakpyV3I5OWE1VVlXaUdWUzRHd3F5TnlrVGdHQXVqcDhDQnFNOVhUSlNndWZoT0F1Z2JsRmtT?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c76819453adc",
+      "title": "Estudante de 14 anos cria modelo matemático que melhora em 16,7% a detecção de terremotos no mundo e vira finalista em prêmio de inovação - Terra",
+      "published": "2026-10-26T16:12:00+00:00",
+      "summary": "Estudante de 14 anos cria modelo matemático que melhora em 16,7% a detecção de terremotos no mundo e vira finalista em prêmio de inovação&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNWDR6UmhlSjRWSUNkeWRpbDhvX1B0RnhJSGtEdHJZMUp3OHo5QWQxUW8zVEo4VHUxUW5GQjctQmMyWlJNZjMydmZ6d0s4aXBzQ21XSS12c1VVMGk5aEVGeFdZN29qVG5oVVRDTWhUbi1GdlZVanhBXzFsd24tdHFWNUN2QlNzQy1CZlZyQUc3ekVCdkswLUhQVHRLS0Z1eGVqWlFUTE9JbmY3TTV6Q0ROZVZGMXFNTVVSYmZZb1dBRmFCdXUtTnQ5UkxEaVdoUjVYS3pPX2taWm5jRzFKZDFMQzJvMHd6YUhGUHZPY3ZJeDNCWkF4elZscEU3MnN6bmdWcUJKQWtWVkI4ZUYwaDQyUUNEcUxmaklNbnoyR0pMXy14U0ItRmVBQW9iREw0cHV5SXo4enZSNkhXd24tYmUyNg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2df6e7633531",
+      "title": "Armário oferece retrato da vida em Pompeia antes da erupção do Vesúvio - Folha de S.Paulo",
+      "published": "2026-10-30T14:00:00+00:00",
+      "summary": "Armário oferece retrato da vida em Pompeia antes da erupção do Vesúvio&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUzQ1bUZWcmFZcVZTMXh2ZEhuUUF5eHV0cFFNdmlWNkNBM0E2MUloWUdjTkdHa3dWd0JaR0lQbThKTkVEYkdKc3V2SHE4b0cyTWtIdWFMa2EwYkdFSGZRcGNVNEpsRTlXcDlYNHU2by1uQ0o3cjcwUWpKSllmdFVTeEI5QkJaS1RGUWFBNjdlTGRvQUhtc01vcm13c2VNemZxd3o2VGNja3J4amJNdHBSZndPOHBhQ1FzNzZaVXc1OA?oc=5"
         }
       ]
     },
@@ -1000,6 +988,54 @@
       ]
     },
     {
+      "id": "1fb44a7f7d73",
+      "title": "Pesquisa identifica hortaliças não convencionais com potencial de adaptação às mudanças climáticas no RS - Brasil de Fato",
+      "published": "2026-10-30T15:41:00+00:00",
+      "summary": "Pesquisa identifica hortaliças não convencionais com potencial de adaptação às mudanças climáticas no RS&nbsp;&nbsp;Brasil de Fato",
+      "sources": [
+        {
+          "name": "Brasil de Fato",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONFM1ZVFWMmJ2VzAtWGFEY01Zck9HRllacFROWmtiUmJIeTRJUEQwX3EzdzhSdnNndVNzMktVZURyenIxaHR4NkNYdVRwaFNac1ZJeGlYckpxNjVOclhabWpZV2xwN3JxUHdhdTVjSGRiU3F2RzlTSzQ4elN0U1UzVnFzWFFVLXdGakNWTUJteEl6ZFRFSnctMUprWjNCZnYwUTVfenJjRVE0Nmk2V0pFNVhnWFBTVks1blUtbHEzZEh3WHFOSkFiM3BNZEwtSERGTTM1aWJWanRpaFRyMFhmZ09R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ad592de46cf",
+      "title": "Inscrições para o Programa Futuras Cientistas vão até 6 novembro - Agência Brasil",
+      "published": "2026-10-30T10:42:00+00:00",
+      "summary": "Inscrições para o Programa Futuras Cientistas vão até 6 novembro&nbsp;&nbsp;Agência Brasil",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFdrZjJoblBTYk9RVTFLVWNYLXVVeWhFQS1vRnZOSzQ2d2l0c0ZYTEtqcEJZcXR6YndubHRodmNfOG84b0g3a1VjTmNVWC1ZMlhvR2FZUU9WT24xbTFJVENTeUhUWUU3NmsxZFhiZVJRTDF5YjZ3TmFscHQyMndjY2JYMVdCaHgzUk5Cckg0WXo4SE5TZDBUM3g4aWpFbTE5bVNCekVfYi1WalRRSE1yQi1ubDFVTC1MckZQQzlBTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "25ee451a14ec",
+      "title": "Cinco regiões de corais no Brasil estão em estado crítico e correm risco de colapso - CNN Brasil",
+      "published": "2026-10-30T06:37:53+00:00",
+      "summary": "Cinco regiões de corais no Brasil estão em estado crítico e correm risco de colapso&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG5Yc0lETXp2eTRHVzRVWnREZGxsN3hKaGhVZVBTUVJhQ3JCajdaX3k5VWlzdWQxMUZ0NGliX3Fud3hSRGRpb3JDNXpWYWY0LU5DUkVScmg0OUstYUtJRWV0blhiNFdpTXJkX3k0bTVZSEliWmU4MGJLZnRHaEo0UktPLUNyUmdoMUFkNTZndUhtNDA5RUhEcVViSjd3TjBNQUsyVWc3VC1qVE42bENpcXZaby1QXzlHSUhUZ3dR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9cd72da53389",
+      "title": "Macacos podem desenvolver germofobia após sobreviverem a surto de doença - Superinteressante",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "Macacos podem desenvolver germofobia após sobreviverem a surto de doença&nbsp;&nbsp;Superinteressante",
+      "sources": [
+        {
+          "name": "Superinteressante",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGJ4X3oxRDRPUGtDNXFqRC1QWHJQYWdSOHU4UUFUM0d3ZnZsb212WDRXa3ROVXJWbTYybVAtQTdRTjJ0dENrZlloVG9ycmZ1d2VNZWFqU0k1SmtQUk1vTDZFRVZRQTNGUGVoZkZ4bmxTR1duZEd5eEN3ODhxWGhxZzN0TWlVbGtabktONXdRbmVmbmNzWW5iY0J3cmJDVVQ0dXRTWEc5MERTNWJh?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f9f743c3a6ed",
       "title": "Astrônomos descobrem possível planeta-anão, a 7,1 bilhões de quilômetros do Sol - Folha de S.Paulo",
       "published": "2026-10-30T09:00:00+00:00",
@@ -1020,18 +1056,6 @@
         {
           "name": "Campo Grande News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEpjUEJtRWh2blN1QTlkbFVrRWNkdkNWNGVJOUl0eEdTTjdYUG1XLXotRGFCdGtTTmVQTGF5aE1qb21GUzJrMVY5Ql9tZGdVcXEySTlRZWxJUldreXQtUlphTjJOUGJiUVNOMnhhd3dkTWZIbHBodDFVV2FjZHJoUlEtbDFyRzE2dElFc3Z6VXRWMkgzS2tLcEdfQTk2dnBsT05B0gGjAUFVX3lxTFBHYy00RlFjTU5pMUljVU5hU1ZxSXRja21hT0JwdGhOXy1tVHpkYkVNYmVYejZ2NTRRN2trZ29CU1VTY0RwdlBIUFJoeWdSaXNNdkdOWExGOEJyN0hvSjdvMTNSNkVjWkdXREJsUzlfcDl0OXFBdmxBSGxlRjlPd0xUQWNrNUhHS1NHMGZLTzZTU2FvbHk1U2tVUlNKRU5Lc21NcW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0c9104b09e71",
-      "title": "Cientistas chineses descobrem três novos exoplanetas que desafiam teorias sobre o futuro da Terra - Brasil 247",
-      "published": "2026-10-30T13:35:19+00:00",
-      "summary": "Cientistas chineses descobrem três novos exoplanetas que desafiam teorias sobre o futuro da Terra&nbsp;&nbsp;Brasil 247",
-      "sources": [
-        {
-          "name": "Brasil 247",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUjhJRG93STRQZkotamVHZExxVG1LZDZXLUNUWm84WnNjaktVWmdCYkhFaUNCa0FfUzVTQldYR2FwbjR6MkFuNl9vdTRlZm5kQnFha18yWXRraWNPeFhTMW8ydnZQd2o5MmZhekd2dXZJa3NuMWpCTmR6UDV2RWJWZmZENG0tZWRBWVBaMzk2MHA2M2ZMclBNSmVfWmVNQklFU05KQW1FNlNhcXp6ZWtMZGEtQ05sRHhqa0V0REZQb1pKeTNJSkd4R0lMcXhkX1paZll3?oc=5"
         }
       ]
     },
@@ -1060,66 +1084,6 @@
       ]
     },
     {
-      "id": "bf453bcf6ddc",
-      "title": "Obras de adaptação às mudanças climáticas avançam no Espírito Santo com recursos do Fundo Cidades - Aqui Notícias",
-      "published": "2026-10-29T19:35:51+00:00",
-      "summary": "Obras de adaptação às mudanças climáticas avançam no Espírito Santo com recursos do Fundo Cidades&nbsp;&nbsp;Aqui Notícias",
-      "sources": [
-        {
-          "name": "Aqui Notícias",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOVlLNENtNzFhS2E2Z2ItZkdBa0psRHdxYUJTQkhrcFZhbDVKWlJBWmFlSzJjLV8yb1ZwMFp5UXJad2cyYWJ2TC1nXzJNbU1VbkpxTjRiQ2p4YmxpX0dGdkJTLXA2d1ZjLXhIM2lHUjQ4SENrQno0anZyaDR0MmloclhSS1dpcG83OUJTUGdPMFZFX1FRQ0lZWFRLLVpqYjNBUVhTdTMwWUJfTExPMFNfQVlRZFl3dWhqeFpGVWIxdEd6Ym1ibWstcmtGZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4724e4f37de5",
-      "title": "Como 36 minutos geram ganhos reais de massa muscular – veja como bater a meta da OMS sem sobrecarregar o corpo - CNN Brasil",
-      "published": "2026-10-28T11:40:38+00:00",
-      "summary": "Como 36 minutos geram ganhos reais de massa muscular – veja como bater a meta da OMS sem sobrecarregar o corpo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnNtSHk1cjljMmNVRUN2SlRSN0tWNFZWLWFWYW5MWk9peU9GNlV2R0dlaGhIQ3NrSXZoY0ZMSm16X08xaXY1VDJPd0s5QTNoS3dWTTBoVXNyZEpCZ1VKUC1vaWtCTHhxMDNTSTd1NXpCOEhzTmNyLVZzLVBRc2ltWENzWDh4SnBfV19fc0hxaHRhN1NRYkRraEhWSlA5aWN5ekxYMXIwMFRybFBBVXJ5b2RPUVZlWEcwNzhLTmxCQTQ1ZlFCbVRySnFvNGFMemNYd1htSG1NY3dmZkNmZnUzMnYzQ3Vfdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b0e65f4556b",
-      "title": "Evolução da evolução - Valor Econômico",
-      "published": "2026-10-30T08:00:00+00:00",
-      "summary": "Evolução da evolução&nbsp;&nbsp;Valor Econômico",
-      "sources": [
-        {
-          "name": "Valor Econômico",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSmpxUEExdXBkTGpMT2tucHNmX0oxTHF4TldGZGhuVFB3YXJuTHJkdHFQY0JpdG0zeEdrX25FbHF1ci1qVWhQSmZLbnRSRWdOaUpRZUV0V09FVURTMDdqVlJXY0hhU0JZYnFnOWxSdVpxVTQ0eG1SY0JvOGpZRzZObmNGQ0s3LVY5eWQ40gGaAUFVX3lxTE9mRjF2eDVVU1hfVGplVEVHVURmMEJvMThBZ3BXN3pyMFlrV0U5UW1DTGZEMzlrSVZBTEQ4ako4MGlXc3NxY3dlZzBENm9rYUZkUUg3WXBua2swM3Nub0NtdHY5clBveUQwNVBoc1pVUW13MWt5TVE5eUZNVEFtTGR0bWpKZXhTT3NOcURNYTdpX0hMV0dwb1VFRVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "69ee7d325e18",
-      "title": "Adultos que tiveram amigo imaginário sentem mais a presença de terceiros - Metrópoles",
-      "published": "2026-10-30T19:50:00+00:00",
-      "summary": "Adultos que tiveram amigo imaginário sentem mais a presença de terceiros&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjNwTGtFRy1mcHFNZE5ESlRUMmlCT3dLUVF3V1dKREpGN1JUakE0QnhlMFgzWXgtVERNbzFoM0R2dUxsV0J4NHZMYUVyVGRyeklrZDlJQ3htOG9YaUtDNTBXN0ZPM0ZFUm5rMDB3amVLLWxZdnFsME80Zlk0dDY5cV9qQjNtaGRWSDdKamd4NjBja014VlR3ZG4tV1ItNm4tcnhHRnNJZHQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d7679d1131b",
-      "title": "3 Universidades têm 750 vagas em Ciências Biológicas a distância - PEBSP",
-      "published": "2026-10-29T14:20:25+00:00",
-      "summary": "3 Universidades têm 750 vagas em Ciências Biológicas a distância&nbsp;&nbsp;PEBSP",
-      "sources": [
-        {
-          "name": "PEBSP",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNby1uZE1oUWFsT1dGUTBJT09nU2YxV2tCaDlSN1lBNUJJR0ZhS2NTRUVMNjhQOXFkZkZhMjZ3TE1fcG9uYmFLMkVfRWpZX2RaMTNzUTlaN3BHTmZHczJXZE9rTjBiWnU5M0FRTTVEVVk3blp3eE00TVlBZ0dDNFhSZndLNU5iU0kycTlBTEhDWGk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d6e6eecf8b04",
       "title": "Animais do Halloween: bióloga explica como espécies símbolos do Dia das Bruxas atuam na biodiversidade - Brasil Escola",
       "published": "2026-10-30T21:26:00+00:00",
@@ -1128,30 +1092,6 @@
         {
           "name": "Brasil Escola",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWktxUV9DYzFpS05mZzNzb2o0bHRTQWtVMWFHRWlMczBET2ZjRjI0MlMtLTRoM3FzZnBWME0wbHZtTXg5YmZXUzNKZDI0X3kwcGNJUUVsY3FPMk0xRE5nUWpsci1WZG1rQ2wwWTR2djJLdDhfZ2RBUDV6VEw3eFRCX0o2UG01c0hNaUpWb1pVal9kSXBmWEQ5NE1CLVhEY3BqUDhGRmpEWEtJWE9pdEFsNHl1TDZ3UzZQTVhxU2VoRGJhRDQ4RmfSAcsBQVVfeXFMTW5MMU5zQjF2MlJvbEU0UkVkZmNrOV9yWmdPbnBSQ3gwRlJUblVrek5Gd2xCYXZ1M2xIY0paQ1VTNGg2V0VRRGZLTlhwVzFLT3JYUkN5TVBLZ192LVFlZW9BTzVobDAwdjlhTE1FRVZDaGdVSExYYTl5eGR2a2txcHRQSDJiRFV1djVRbXRlMDdGSzJ0VVNwWktwVGd6R051MXJRWXpPOXJlclV0N0dxdVRnVGs4VjVfR1NWSmFuUmN3NDJfdl9PaFVaWEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f297a26236ff",
-      "title": "Lua hoje: confira a fase da Lua deste sábado 31/10/2026 - Olhar Digital",
-      "published": "2026-10-31T10:34:35+00:00",
-      "summary": "Lua hoje: confira a fase da Lua deste sábado 31/10/2026&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjg1al8zUkgzRnVjVU1XSnFvX19lTENGUFAwRm9zMWFLX1N3NTNFb1Jpb01ydEgwbHhEUnRKMXBjOC1BRzdIODZ0YUhQX0JvUE1qeDFvX04tUUFVWGw2V2dhZWdKcFg3eU5rcXdadUc5N1pnNWlzN1hrRU5lYVI0UjVLeVNnOV9xMllmSFdkSEpSaEdPSEhnbHMzZ21LRk5NbVhkYld6UldjWWV3NzhDeQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "61b0e6fe6381",
-      "title": "Professor da UAST está entre os 2% dos pesquisadores mais influentes do mundo - Farol de Notícias",
-      "published": "2026-10-30T08:00:33+00:00",
-      "summary": "Professor da UAST está entre os 2% dos pesquisadores mais influentes do mundo&nbsp;&nbsp;Farol de Notícias",
-      "sources": [
-        {
-          "name": "Farol de Notícias",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLVpmVW5YNjJZVWdnbUxBMWR0azRGU3RIMjNxdEM0VHBVcm1rVU1yUDZGeGVjbkN5eUhIRTdBMnFadjU4WXNzbVJBVkdCVGV4bVlaUW5QRk11djBNMzYtajNXbHQwQ3k5Z05UUTBqODJNVTdERkJ0TmV1bVZic3h2TnkzMGNFU2JaV0NTNWxWUzNuSEt3MC0yNzh1eExYc09SUzdVajV0LUgwOVlVRFhLaEhFX1nSAbQBQVVfeXFMTy1aZlVuWDYyWVVnZ21MQTFkdGs0RlN0SDIzcXRDNFRwVXJta1VNclA2RnhlY25DeXlISEU3QTJxWnY1OFlzc21SQVZHQlRleG1ZWlFuUEZNdXYwTTM2LWozV2x0MEN5OWdOVFEwajgyTVU3REZCdE5ldW1WYnN4dk55MzBjRVNiWldDUzVsVlMzbkhLdzAtMjc4dXhMWHNPUlM3VWo1dC1IMDlZVURYS2hIRV9Z?oc=5"
         }
       ]
     },
@@ -1192,14 +1132,14 @@
       ]
     },
     {
-      "id": "5424f293cabd",
-      "title": "Ave gigante da Era do Gelo pode nunca ter existido, segundo novo estudo - Superinteressante",
-      "published": "2026-10-30T22:18:00+00:00",
-      "summary": "Ave gigante da Era do Gelo pode nunca ter existido, segundo novo estudo&nbsp;&nbsp;Superinteressante",
+      "id": "2453b38b135c",
+      "title": "Ufba tem 10 dos 19 cientistas que atuam na Bahia entre os mais influentes do mundo - Rádio Metrópole",
+      "published": "2026-10-31T13:20:00+00:00",
+      "summary": "Ufba tem 10 dos 19 cientistas que atuam na Bahia entre os mais influentes do mundo&nbsp;&nbsp;Rádio Metrópole",
       "sources": [
         {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObU5hNmM4SFdPa1JpQWg3ckJIQjdYRUFTQXBzMXYtdjU5YWZqbnFYNDd3VnNNU0VkSVlXTEZ3Z2FXMWtNRW9kNnJiR01YM2J2by1vOWlZVnFTNXlNbmx1RmtWamV0em1FWEt4dXpYd1hkMWZmSVBadUhjQ2lxZFZzSFZWNDRfbHZwZnF3NjcyeFo4WjNJcVZSZktfRVgyS2htTS1mR1BHZjJBQQ?oc=5"
+          "name": "Rádio Metrópole",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdXFRZlQ0WUdvQjYwZ2syWGdoM1BSSkx6OG9LRDlKbUFJQ01YY01WUTBGa19NbE5SSTZuRE1nS0d3UDY2MzBlVWNMY2kwTGdOSXl2ZTNWdnNldEdVUFVTNmtsb2RfYnJhWWxYc21IYkFuWl9GSWtLdHBKVUxjUEFYTFZ3WEVWQmdPNU5MbEdETXk1eUh1VDJWcUhVM0JpMU9tbFJ1YzdBVWlsTkFiRzBzYXZINmtGYW9rVE9fZUlZQ2h0cVh5MXVmbXJB?oc=5"
         }
       ]
     },
@@ -1212,6 +1152,42 @@
         {
           "name": "Xataka Brasil",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZXFURzAzTGNuNWRXMktJVXhaOEEtczRnNnVPZkpBcEh4WXFxYjRLN1BWWjcxQzZqdWtlaXRLVTdQY2txeUlHN0hHQTRsMk9jMmxfTE1GWFdfRjMtZkt6TkpyV0l4TFVLUlQ2YWRWdENCTWxrdmZRTTlMYnlTZUdaYjBWdks5UFRreG1OUDhONDNTbnVFTzg2anRWUEowYUIyd0tuSXFkal9yM1dLenJZNG02c3hPODdkRXlsUjRqX1h3RllmaUlGNFRMd1VvU210RXBZQTdubTlrTTliWFBZakZwV0d3anRrdGxUM0NRS3hxWWFwWHBrZkhvN1B1c1N4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5424f293cabd",
+      "title": "Ave gigante da Era do Gelo pode nunca ter existido, segundo novo estudo - Superinteressante",
+      "published": "2026-10-30T22:18:00+00:00",
+      "summary": "Ave gigante da Era do Gelo pode nunca ter existido, segundo novo estudo&nbsp;&nbsp;Superinteressante",
+      "sources": [
+        {
+          "name": "Superinteressante",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObU5hNmM4SFdPa1JpQWg3ckJIQjdYRUFTQXBzMXYtdjU5YWZqbnFYNDd3VnNNU0VkSVlXTEZ3Z2FXMWtNRW9kNnJiR01YM2J2by1vOWlZVnFTNXlNbmx1RmtWamV0em1FWEt4dXpYd1hkMWZmSVBadUhjQ2lxZFZzSFZWNDRfbHZwZnF3NjcyeFo4WjNJcVZSZktfRVgyS2htTS1mR1BHZjJBQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d8307023e71",
+      "title": "Algas revelam impactos da mudança climática do litoral brasileiro à Antártica - Agência FAPESP",
+      "published": "2026-10-30T03:00:28+00:00",
+      "summary": "Algas revelam impactos da mudança climática do litoral brasileiro à Antártica&nbsp;&nbsp;Agência FAPESP",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWFxaXhram9NNnBNbk0yQWxQZm5wTXg3M0tFT2dmV3BaMzh4dmhvZlFxcFJFVjNtZUtvV2VuREdERjVEelN6cmV2SS1hTnJQZUI2eUJ4UDJITjBZTmxucXkzaWFzTUpVandPdXM2alBHVEhsdDI3RF9mY1JLU2pjcFBVUWtNUTA5V3ZCWDIzckVzVXNVNUZBd1VYSHBZRnV1UDVXWUZtTDJMWVo5SEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "557bd6af4f10",
+      "title": "Ninho de ave arisca da Mata Atlântica é registrado pela primeira vez em MG - G1",
+      "published": "2026-10-29T14:56:28+00:00",
+      "summary": "Ninho de ave arisca da Mata Atlântica é registrado pela primeira vez em MG&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0JiOC0yR1hoVGt1NHFHRndvYTl5THRyR3UzRTZpWl9mdjdwS2VUaExabmVvMVRHc3p3VnhodnlVMEhsdkYtVXlRMlZqbnpsTHFWMlpvUXd2QmR5a2NBQmRDYy1mbHp6dHhZSmdibDhPdzR0QWVsRzZNTTRjNWF4VjRiZlBUU0oxellQNlpneldBd0l2ZXV1ZEhBdTdYNHlQSDFPNTFJdVFSZlFHMmtkZVJBVjdWSmt3TWE0eldNZzhMcWc4aUcxTjhaR3pScGxzMWZsRlgyd3RaRDRQcDRGYk8yRmZZX0VUVXfSAfgBQVVfeXFMTVNIX0hCWk13V0RkTHItM0FMWGI0SV85ZTRwMXRuc1BqRktCajdGMV9CQ0U5dnJMQXhqLU5HWk9jMEs4YTNKOFdoSS1McWFGVUkwd2NuSXdkT2YxRzVZMEZtc3FLdmZOY1Y3dlVSM1JCSFNlaGpMM1NKSjNQeFVNaEcwZzhxNHFNakhuVzdSN3lPbHBjVkhELS1uUnZKSGFWYm54U25zUmRGcWpQMThLdjYway1iRUQ5SmdrbXZIMFd6eEZ6aU9Pdi1IV2tvQmpTYXVudjI1ekdhRXJfaXBpQjUwWDNGTWJwZHQwOFFlekxad0xoc2lWVFk?oc=5"
         }
       ]
     }
