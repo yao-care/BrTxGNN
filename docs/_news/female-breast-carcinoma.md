@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer de mama (female breast carcinoma)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 2 notícias, 12 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 1 notícias, 12 medicamentos relacionados."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Notícias sobre câncer de mama (female breast carcinoma)
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de mama (female breast carcinoma)?">
-<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>2 notícias</strong> e 12 medicamentos relacionados.
+<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>1 notícias</strong> e 12 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de mama
 </ul>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (1)
 
 ### [Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
 
 2026-10-28
 
 Fonte: [Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
-
----
-
-### [Dados do Inca mostram que mulheres negras morrem 3,8 vezes mais que brancas por câncer de mama - O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2azBFcU1ZVXRJeXNQQzJvZEhIZl8zaWZsX2FIWkxZZjRhUUsxZ25NdWd6THNYaW1mblY0c2E0bjYxd1dDYkJ3UlphOTMyWUhJR2FFV0VHRkIxUGM2b2pCVmFqSjFNbDBIc0drcVhfWUFRZ3gxRnJEWno5OUh5dndjUUF3WmJkQVBTbTBkeHhJM2llcG9ZMTJENHBvZlMxS0tiLTBhWFZxTy1hcHQ2TWIzcnc4TjcteF93MU5XQXBhejdrMlp3Vzlyak5ucmJUWmFMdmdaMlgwR3RYZzIxMNIB8gFBVV95cUxNWUZnVV90QXAydnpZUU54b3lFRDJZaUEteXRMYzk2aHI4dllicFEzWUJfUTQzdUlRMzFmRUVNTWJCNE5RSXhyaHpma2ctNkJiZWFQNkI4c3BWMjRjbnozSGtjMWZmOS1jTFZDZHRjT1E0emhUVi1jYnJtRXJzMmtoWnhMdUFLRURRdTFTU1Y3REZYXzBVbXRrOWFXWHFGOXZnT3lMSUdTbFc0MnMzYzBXajYyMTYxNWlGMHk4Nmg5MTNhQ2F2MnhMSjQ4UUppV2x5R3BkbmdDUlVVRGpfTzAyaGNsWWFQWjNHN0NpWm04Tktudw?oc=5)
-
-2026-10-28
-
-Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2azBFcU1ZVXRJeXNQQzJvZEhIZl8zaWZsX2FIWkxZZjRhUUsxZ25NdWd6THNYaW1mblY0c2E0bjYxd1dDYkJ3UlphOTMyWUhJR2FFV0VHRkIxUGM2b2pCVmFqSjFNbDBIc0drcVhfWUFRZ3gxRnJEWno5OUh5dndjUUF3WmJkQVBTbTBkeHhJM2llcG9ZMTJENHBvZlMxS0tiLTBhWFZxTy1hcHQ2TWIzcnc4TjcteF93MU5XQXBhejdrMlp3Vzlyak5ucmJUWmFMdmdaMlgwR3RYZzIxMNIB8gFBVV95cUxNWUZnVV90QXAydnpZUU54b3lFRDJZaUEteXRMYzk2aHI4dllicFEzWUJfUTQzdUlRMzFmRUVNTWJCNE5RSXhyaHpma2ctNkJiZWFQNkI4c3BWMjRjbnozSGtjMWZmOS1jTFZDZHRjT1E0emhUVi1jYnJtRXJzMmtoWnhMdUFLRURRdTFTU1Y3REZYXzBVbXRrOWFXWHFGOXZnT3lMSUdTbFc0MnMzYzBXajYyMTYxNWlGMHk4Nmg5MTNhQ2F2MnhMSjQ4UUppV2x5R3BkbmdDUlVVRGpfTzAyaGNsWWFQWjNHN0NpWm04Tktudw?oc=5)
 
 ---
 

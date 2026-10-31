@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Potassium sulfate. 0 indicações previstas."
 permalink: /news/potassium_sulfate/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Notícias sobre Potassium sulfate
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Potassium sulfate?">
-<strong>Potassium sulfate</strong> tem atualmente <strong>10 notícias</strong> e 0 indicações previstas.
+<strong>Potassium sulfate</strong> tem atualmente <strong>11 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,13 @@ Esta página combina as indicações previstas por IA para Potassium sulfate com
 <p><a href="{{ '/drugs/potassium-sulfate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (10)
+## Notícias relacionadas (11)
 
-### [SUS detecta quase 10 mil testes positivos para HPV de alto risco - ICL Notícias](https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5)
+### [SUS detecta quase 10 mil testes positivos para HPV de alto risco - Agência Brasil](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnlfUklzZ0JpZVpRdllPTzZIdDUwOUdEazNYOGJFbHl4NUlKUFpfTllJMHRobUtZeldZdWlERGQ1cDkwTFNkcDFnQkViQ2swVmFDTlpKUmRfR0RqR0JMdkxIRXZNelo5MDhNOFVpUnM4eVBJV0EzV2diamxtWjRxRXMxN0h4S2w3VXJCdE5hYTB4czl3Q1hUYmxFcUkyWF9ja2lrY0stczFsdkZ5V0FhUUpuNlk5cGtpaG13?oc=5)
 
 2026-10-30 <span class="news-indication-tag">câncer</span>
 
-Fonte: [ICL Notícias](https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5)
+Fonte: [Agência Brasil](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnlfUklzZ0JpZVpRdllPTzZIdDUwOUdEazNYOGJFbHl4NUlKUFpfTllJMHRobUtZeldZdWlERGQ1cDkwTFNkcDFnQkViQ2swVmFDTlpKUmRfR0RqR0JMdkxIRXZNelo5MDhNOFVpUnM4eVBJV0EzV2diamxtWjRxRXMxN0h4S2w3VXJCdE5hYTB4czl3Q1hUYmxFcUkyWF9ja2lrY0stczFsdkZ5V0FhUUpuNlk5cGtpaG13?oc=5)
 
 ---
 
@@ -44,6 +44,22 @@ Fonte: [ICL Notícias](https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBH
 2026-10-30 <span class="news-indication-tag">câncer</span>
 
 Fonte: [R7](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjRNdHFmd1ktd3FQMWlIWlE4dllDZEhCSjQ0bTBnT2xVRXN4c0t3ZVdhdjFZMEE4dTlmS2QwYm9wTTIwOGFHU1B2dU9KYmtwWC05QjVWMHR5Wm9Ld0pzLVRfcnh2cXdvSnQ5SkFSNEx6c1pJSGNVQjRaQlRfRkh2dGhreGJHdV9NbWFfN3BOSGhyb2F0TW5ubmFpNmo0c2xkRnJrQ25Nb2ZNUS10QmIzajJ3V1pvQmp4UDlNNzhGdWNkc3dxa1J2WkRYTWI?oc=5)
+
+---
+
+### [Câncer de pâncreas: vacina experimental ativa defesas do organismo em quase 100% dos pacientes - O GLOBO](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT29rZV9GZG43a3d1emptOGJGN2VNWURNQ1BCNExnRUZmS1FBbFAtME15ZDUwRmZvMjBRWHpNM0Z3MmhOenZ4ck1SeGFKbWRFSkZaa2twY2U4M2tKSk9IS1oyMXZkX2d5MkwtS21CczI1MGt2Y3NjYkV6LXo1V25sY0VpLUFEa1RBU1NFVmRmS3Nrcy1oeWMtVzNnZnNSUE1kTEttUV9OUVA1MGxlZERPUkRkajlUaURROVh1V3hsZ21US3hNTlhzdkNuM0ZzSDhYSFJpWkJ2U0xXbXBYY05ZNEd1YmJFMkRHRUNz0gH6AUFVX3lxTE5zZ29yVGlrZ1pjdG9vRlRyM0R1Q3RKTTcxRWp4bVV1UHJDUVJteHR0M1FUdnpSMjMzdlVJN0xaSmZtQVFRSlVPd085Z1JiVDlFRnJCSUpsMktDN3JScXZXbmNrdWJtMUU0enlCVXpqNDNTNURXVGgzYVRLSjdCYktENFVXNFNJSmJSWUkzYk94WHhTY1F0QXhDeWl3TUNsckVjaVQ2QTE4MF9yR1hmbkgzVlM3M0R5QkRjUEx3Yk5JQUNUS0J2TXRNbldCVF9Ic0h0UEoyV21oYWxHZkdSN0V1UmlpajZMcU9EY3ZDbXZIZ0tOcTFKTFMzREE?oc=5)
+
+2026-10-30 <span class="news-indication-tag">câncer</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT29rZV9GZG43a3d1emptOGJGN2VNWURNQ1BCNExnRUZmS1FBbFAtME15ZDUwRmZvMjBRWHpNM0Z3MmhOenZ4ck1SeGFKbWRFSkZaa2twY2U4M2tKSk9IS1oyMXZkX2d5MkwtS21CczI1MGt2Y3NjYkV6LXo1V25sY0VpLUFEa1RBU1NFVmRmS3Nrcy1oeWMtVzNnZnNSUE1kTEttUV9OUVA1MGxlZERPUkRkajlUaURROVh1V3hsZ21US3hNTlhzdkNuM0ZzSDhYSFJpWkJ2U0xXbXBYY05ZNEd1YmJFMkRHRUNz0gH6AUFVX3lxTE5zZ29yVGlrZ1pjdG9vRlRyM0R1Q3RKTTcxRWp4bVV1UHJDUVJteHR0M1FUdnpSMjMzdlVJN0xaSmZtQVFRSlVPd085Z1JiVDlFRnJCSUpsMktDN3JScXZXbmNrdWJtMUU0enlCVXpqNDNTNURXVGgzYVRLSjdCYktENFVXNFNJSmJSWUkzYk94WHhTY1F0QXhDeWl3TUNsckVjaVQ2QTE4MF9yR1hmbkgzVlM3M0R5QkRjUEx3Yk5JQUNUS0J2TXRNbldCVF9Ic0h0UEoyV21oYWxHZkdSN0V1UmlpajZMcU9EY3ZDbXZIZ0tOcTFKTFMzREE?oc=5)
+
+---
+
+### [Hospital anuncia aquisição de equipamento para o tratamento de câncer de próstata](https://news.google.com/rss/articles/CBMiygFBVV95cUxPNHBoeTgzZVBwRVBfek1SSzlja2NiYzdsZTlaT0NlWEFnZnI2MTNER1RWemtvR3k3SzVrRkVVUDJOcW44OVZPb2diSzlOWGdCNWE5WGwwbXJVaDVXTmdJSmtHaFFWTGFZVkNka1pENm1TOV9UNG1fc3pMR2pGcmVxMGthYlJYTW5HdTV2b0VhUFRRc3gycjl6MWlqa2dYWGJmRzlYdTU0dzFCZmlLcWdoc3BsZ2RGTWxNNXhtaDdCZTVTYWJrYkZsSkZ30gHPAUFVX3lxTE0tZmZ6Q2ozNGVUM09KVUgyTy1nSUQxUnVoVTh0ODBjeGVlM24ta1FYZWk1c2h2bF8wMUEzX0xYem13SURSQ3F6NXNyb1JfWWJRdXFVSkpoZDF0TGZ2RmY4d2l0TWdtcTJ1QVZnYTE0QkljbFVoN19EVkZ5SVAtaGVBb1MzS0tiTE1remdYTXlkVlFrUjd1dkxhNDhFMjQ4RnNBbEZQek5GbXZBTGhNUzRfLTUtVEJPVTNkUVpEN3NVNlBqTEU1cGI5dktFZHFNaw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Estadão](https://news.google.com/rss/articles/CBMiygFBVV95cUxPNHBoeTgzZVBwRVBfek1SSzlja2NiYzdsZTlaT0NlWEFnZnI2MTNER1RWemtvR3k3SzVrRkVVUDJOcW44OVZPb2diSzlOWGdCNWE5WGwwbXJVaDVXTmdJSmtHaFFWTGFZVkNka1pENm1TOV9UNG1fc3pMR2pGcmVxMGthYlJYTW5HdTV2b0VhUFRRc3gycjl6MWlqa2dYWGJmRzlYdTU0dzFCZmlLcWdoc3BsZ2RGTWxNNXhtaDdCZTVTYWJrYkZsSkZ30gHPAUFVX3lxTE0tZmZ6Q2ozNGVUM09KVUgyTy1nSUQxUnVoVTh0ODBjeGVlM24ta1FYZWk1c2h2bF8wMUEzX0xYem13SURSQ3F6NXNyb1JfWWJRdXFVSkpoZDF0TGZ2RmY4d2l0TWdtcTJ1QVZnYTE0QkljbFVoN19EVkZ5SVAtaGVBb1MzS0tiTE1remdYTXlkVlFrUjd1dkxhNDhFMjQ4RnNBbEZQek5GbXZBTGhNUzRfLTUtVEJPVTNkUVpEN3NVNlBqTEU1cGI5dktFZHFNaw?oc=5)
 
 ---
 
@@ -92,14 +108,6 @@ Fonte: [Estadão](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV
 2026-10-28 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
 
 Fonte: [Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
-
----
-
-### [Dados do Inca mostram que mulheres negras morrem 3,8 vezes mais que brancas por câncer de mama - O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2azBFcU1ZVXRJeXNQQzJvZEhIZl8zaWZsX2FIWkxZZjRhUUsxZ25NdWd6THNYaW1mblY0c2E0bjYxd1dDYkJ3UlphOTMyWUhJR2FFV0VHRkIxUGM2b2pCVmFqSjFNbDBIc0drcVhfWUFRZ3gxRnJEWno5OUh5dndjUUF3WmJkQVBTbTBkeHhJM2llcG9ZMTJENHBvZlMxS0tiLTBhWFZxTy1hcHQ2TWIzcnc4TjcteF93MU5XQXBhejdrMlp3Vzlyak5ucmJUWmFMdmdaMlgwR3RYZzIxMNIB8gFBVV95cUxNWUZnVV90QXAydnpZUU54b3lFRDJZaUEteXRMYzk2aHI4dllicFEzWUJfUTQzdUlRMzFmRUVNTWJCNE5RSXhyaHpma2ctNkJiZWFQNkI4c3BWMjRjbnozSGtjMWZmOS1jTFZDZHRjT1E0emhUVi1jYnJtRXJzMmtoWnhMdUFLRURRdTFTU1Y3REZYXzBVbXRrOWFXWHFGOXZnT3lMSUdTbFc0MnMzYzBXajYyMTYxNWlGMHk4Nmg5MTNhQ2F2MnhMSjQ4UUppV2x5R3BkbmdDUlVVRGpfTzAyaGNsWWFQWjNHN0NpWm04Tktudw?oc=5)
-
-2026-10-28 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
-
-Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2azBFcU1ZVXRJeXNQQzJvZEhIZl8zaWZsX2FIWkxZZjRhUUsxZ25NdWd6THNYaW1mblY0c2E0bjYxd1dDYkJ3UlphOTMyWUhJR2FFV0VHRkIxUGM2b2pCVmFqSjFNbDBIc0drcVhfWUFRZ3gxRnJEWno5OUh5dndjUUF3WmJkQVBTbTBkeHhJM2llcG9ZMTJENHBvZlMxS0tiLTBhWFZxTy1hcHQ2TWIzcnc4TjcteF93MU5XQXBhejdrMlp3Vzlyak5ucmJUWmFMdmdaMlgwR3RYZzIxMNIB8gFBVV95cUxNWUZnVV90QXAydnpZUU54b3lFRDJZaUEteXRMYzk2aHI4dllicFEzWUJfUTQzdUlRMzFmRUVNTWJCNE5RSXhyaHpma2ctNkJiZWFQNkI4c3BWMjRjbnozSGtjMWZmOS1jTFZDZHRjT1E0emhUVi1jYnJtRXJzMmtoWnhMdUFLRURRdTFTU1Y3REZYXzBVbXRrOWFXWHFGOXZnT3lMSUdTbFc0MnMzYzBXajYyMTYxNWlGMHk4Nmg5MTNhQ2F2MnhMSjQ4UUppV2x5R3BkbmdDUlVVRGpfTzAyaGNsWWFQWjNHN0NpWm04Tktudw?oc=5)
 
 ---
 

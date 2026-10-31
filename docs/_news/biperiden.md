@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Biperiden. 10 indicações previstas."
 permalink: /news/biperiden/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Notícias sobre Biperiden
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Biperiden?">
-<strong>Biperiden</strong> tem atualmente <strong>2 notícias</strong> e 10 indicações previstas.
+<strong>Biperiden</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ Esta página combina as indicações previstas por IA para Biperiden com as not�
 <p><a href="{{ '/drugs/biperiden/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (1)
 
 ### [Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLU42cGVpazJNNUJxQUk0REN5bW04T0JMSjBKX0Q0dUNFWkppMkgwM3JkVHdiTXlwNENyUWVtWWxiSmdFdDZhVXhKN2I2STBfUkZLREU1RXpxaEZ3VlpYVmZYY0wzWkk3aTMtMU1oUFBOMlN5eXJiX05Jc3lkS2VGQlNweVRNNWNoSTdvMWItakNRM1lEclQxMm84anB3N1ZZUXNhTy1rT0h0WXpvVGdNRWwxby14RGl0eWVlaktVZ1dmR3N0VmlWaTRHOXMtSUY5c3NpTlJn?oc=5)
 
 2026-10-30 <span class="news-indication-tag">demência</span>
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLU42cGVpazJNNUJxQUk0REN5bW04T0JMSjBKX0Q0dUNFWkppMkgwM3JkVHdiTXlwNENyUWVtWWxiSmdFdDZhVXhKN2I2STBfUkZLREU1RXpxaEZ3VlpYVmZYY0wzWkk3aTMtMU1oUFBOMlN5eXJiX05Jc3lkS2VGQlNweVRNNWNoSTdvMWItakNRM1lEclQxMm84anB3N1ZZUXNhTy1rT0h0WXpvVGdNRWwxby14RGl0eWVlaktVZ1dmR3N0VmlWaTRHOXMtSUY5c3NpTlJn?oc=5)
-
----
-
-### [Patrick Stewart: o que é a demência com corpos de Lewy, que afetou ator de 'X-men' e 'Star Trek'](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdZdTZ1QkZsMmtuaUY4U05vdVV3NUJ3Q00xanVKLUx3YmplV05VeXFJRlJLRVVOZGZDUlBsbC1QaGhFS0tOMHhYaDluMHJXTWZycktUelJKVnlVc2kyYjlaM0Nic1Z1S0tSQTdoWHFRNmtFa29XaDh5aVkyS2xmQjJ6R0IzN2d5VF9NT1R3amIzY0FJcV9ES2ZNTFRiblg1VmZTbGNTQms4S0FwZXJkWHRJRkpEb3hFZ1h6NkNB?oc=5)
-
-2026-10-29 <span class="news-indication-tag">demência</span>
-
-Fonte: [Exame](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdZdTZ1QkZsMmtuaUY4U05vdVV3NUJ3Q00xanVKLUx3YmplV05VeXFJRlJLRVVOZGZDUlBsbC1QaGhFS0tOMHhYaDluMHJXTWZycktUelJKVnlVc2kyYjlaM0Nic1Z1S0tSQTdoWHFRNmtFa29XaDh5aVkyS2xmQjJ6R0IzN2d5VF9NT1R3amIzY0FJcV9ES2ZNTFRiblg1VmZTbGNTQms4S0FwZXJkWHRJRkpEb3hFZ1h6NkNB?oc=5)
 
 ---
 

@@ -1,19 +1,43 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-30T22:00:24.513077+00:00",
-  "total_fetched": 102,
-  "unique_count": 100,
-  "health_related_count": 41,
+  "fetched_at": "2026-10-31T04:35:32.373296+00:00",
+  "total_fetched": 100,
+  "unique_count": 97,
+  "health_related_count": 42,
   "news": [
     {
-      "id": "9b53b217253c",
-      "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - ICL Notícias",
-      "published": "2026-10-30T20:01:08+00:00",
-      "summary": "SUS detecta quase 10 mil testes positivos para HPV de alto risco&nbsp;&nbsp;ICL NotíciasRastreamento do câncer do colo do útero&nbsp;&nbsp;G1HPV: os primeiros números do novo teste para prevenção do câncer de colo do útero no SUS&nbsp;&nbsp;VEJABahia inicia oferta de exame que identifica HPV antes de lesões associadas ao câncer&nbsp;&nbsp;Bahia NotíciasParaná disponibiliza painel de rastreamento organizado do câncer do colo do útero com teste de DNA-HPV&nbsp;&nbsp;Secretaria de Saúde do Paraná",
+      "id": "96ee93d5fb1a",
+      "title": "Britânico passa por cirurgia de 16 horas em Londres e descobre que médicos deixaram parte de seu crânio cair no chão da sala de operação - CNN Brasil",
+      "published": "2026-10-31T00:06:49+00:00",
+      "summary": "Britânico passa por cirurgia de 16 horas em Londres e descobre que médicos deixaram parte de seu crânio cair no chão da sala de operação&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPd0EwTkQ5dzRSbzAyQWY3clFQTG1ZZEdBZUs2RXROSlNyQ1FOZUxfYlVjSTk3MUhrYmFRVTZITzhDeUliMDlSdERjMktaVE1FbDdSbWszbUZOdFlMbmREOWgxdWkyN1BGdG84S3pxWUVnMFFNZzY3V2l5b0d4ZDRuaGhPc2I1elRKdGVUb1ViNWUwTmV2WkdZS2dTWTQ1em0zQnM0aDIwVWdOSTdUSlZkYUpqMkg3QnE4dEFaT0E4VDZNa3lGQXcwODdTcG45M3dYUnhoMW11OHFrNWRwLVVEa0FLSFh1V3Nlb1o4Y2xhY1liS3pEYlVYZTB3amZ4M25DYTJvUE1nOVJ3dk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a8eb75b34aa",
+      "title": "Casos de Mpox aumentam 7 vezes no Rio em dois meses; capital está sem vacina contra a doença - G1",
+      "published": "2026-10-30T22:29:38+00:00",
+      "summary": "Casos de Mpox aumentam 7 vezes no Rio em dois meses; capital está sem vacina contra a doença&nbsp;&nbsp;G1Prefeitura do RJ investiga nova morte por suspeita de Mpox&nbsp;&nbsp;R7Rio de Janeiro teve 45 casos de mpox no mês de setembro&nbsp;&nbsp;BandRio registra 45 casos de varíola dos macacos em setembro deste ano&nbsp;&nbsp;Diário do RioRio de Janeiro registra 74 casos de Mpox em dois meses&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjNqdEl6aWh0SV9YZ2JkQzBzYTdZOEpZdkhacUYyaWNqNDhLbjhMY19BZ2h4N1JOeTQ2dXd2WHNIeVhFOEVaNk5FOEhkWXNjNFJ1em5kcThsWUFxbnBHYTRLeTd5cFVRbUhnZnBzSHM3TGtYaGZ3Qmt3Ync0bWx2NmY5d2tzUTE4RzZidWp3SzhwbDIxZkpDWtIBpwFBVV95cUxOUUNFSjFxQlg1TkpJVEhUb3NjUUtqeEFiY2Y0OU1aaEpFODloOGVrRFFIZTFMbnVFWGlWNU95U0c3S3BoUjlfMGdfNlRWUVQwcVJ2NS02RXNCVklqcFJHaklzbXdQRHhVNkRBT2VrV0o3MGhoOTJIY1RNTW1GUVRUOU1zU2tLNjhoY3hVMmxUUExETWo2Tk9NZklLNVV0OGNYNFg2Y1lCZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f23e6b240d69",
+      "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - Agência Brasil",
+      "published": "2026-10-30T19:30:00+00:00",
+      "summary": "SUS detecta quase 10 mil testes positivos para HPV de alto risco&nbsp;&nbsp;Agência BrasilCeará realiza 1,1 mil testes para detecção precoce do câncer do colo do útero&nbsp;&nbsp;O POVO+Rastreamento do câncer do colo do útero&nbsp;&nbsp;G1Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país&nbsp;&nbsp;GOV.BRHPV: os primeiros números do novo teste para prevenção do câncer de colo do útero no SUS&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnlfUklzZ0JpZVpRdllPTzZIdDUwOUdEazNYOGJFbHl4NUlKUFpfTllJMHRobUtZeldZdWlERGQ1cDkwTFNkcDFnQkViQ2swVmFDTlpKUmRfR0RqR0JMdkxIRXZNelo5MDhNOFVpUnM4eVBJV0EzV2diamxtWjRxRXMxN0h4S2w3VXJCdE5hYTB4czl3Q1hUYmxFcUkyWF9ja2lrY0stczFsdkZ5V0FhUUpuNlk5cGtpaG13?oc=5"
         }
       ]
     },
@@ -21,7 +45,7 @@
       "id": "bcf5d12d4051",
       "title": "Câncer de próstata: mais de 200 homens por dia descobrem a doença; saiba detectar problema - R7",
       "published": "2026-10-30T19:28:35+00:00",
-      "summary": "Câncer de próstata: mais de 200 homens por dia descobrem a doença; saiba detectar problema&nbsp;&nbsp;R7Saúde estende Outubro Rosa e alerta para os cuidados do homem no Novembro Azul&nbsp;&nbsp;TásabendoCâncer de próstata: como o diagnóstico pode afetar a vida sexual e os relacionamentos&nbsp;&nbsp;O GLOBONovembro Azul: Brasil deve ter 77,9 mil casos de câncer de próstata | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCNovembro Azul: por que o Ministério da Saúde e",
+      "summary": "Câncer de próstata: mais de 200 homens por dia descobrem a doença; saiba detectar problema&nbsp;&nbsp;R7Saúde estende Outubro Rosa e alerta para os cuidados do homem no Novembro Azul&nbsp;&nbsp;TásabendoCâncer de próstata: campanha alerta para exames e diagnóstico precoce&nbsp;&nbsp;www.band.com.brNovembro Azul: Brasil deve ter 77,9 mil casos de câncer de próstata | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCNovembro Azul: por que o Ministério da Saúde e os urol",
       "sources": [
         {
           "name": "R7",
@@ -42,14 +66,14 @@
       ]
     },
     {
-      "id": "06c73ed30202",
-      "title": "Rio registra alta de casos de Mpox; ex-secretário de saúde faz alerta; saiba como se prevenir - O GLOBO",
-      "published": "2026-10-30T17:09:17+00:00",
-      "summary": "Rio registra alta de casos de Mpox; ex-secretário de saúde faz alerta; saiba como se prevenir&nbsp;&nbsp;O GLOBORio de Janeiro teve 45 casos de mpox no mês de setembro&nbsp;&nbsp;BandRio de Janeiro registra alta de casos do vírus Mpox&nbsp;&nbsp;Rádio 93 FMMpox: presidente da Frente Parlamentar da Vacina pede mais imunização após Rio registrar 43 casos&nbsp;&nbsp;Extra onlineCasos de Mpox no estado do Rio de Janeiro crescem 77% em comparação ao ano passado&nbsp;&nbsp;CBN",
+      "id": "4ef59dbca179",
+      "title": "Sair para caminhar em vez de ir à academia é ótimo, mas só funciona se a caminhada for feita a 5 km/h e com certa regularidade - Terra",
+      "published": "2026-10-30T18:12:00+00:00",
+      "summary": "Sair para caminhar em vez de ir à academia é ótimo, mas só funciona se a caminhada for feita a 5 km/h e com certa regularidade&nbsp;&nbsp;TerraTrinta minutos de caminhada por dia são suficientes para melhorar saúde, diz estudo&nbsp;&nbsp;G1Quantos minutos por semana de atividade aeróbica são recomendados e por quê?&nbsp;&nbsp;Catraca LivreACC orienta a prescrição de exercício na prevenção cardíaca primária e secundária&nbsp;&nbsp;Afya | HomeQuanta atividade física os adultos de 18 a 59 anos deve",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaUZ3S1FZSGpQbTF6TTJ3ZmNreU9vcUUxRmg4QmdEb1V3N2hUOTZTTC1va1U0THp1ZS1KNnU1VndQN1dSdVlPQXEzNUdpRXRNTTB1SEwzNnJhY3VEMnhmaFNvQmhWWHkxSFhCSVI1aUl0QTF4WllYbWxkeEJmVmxVeTVaYlYxdlNfaTUydkpUQnZ1TUV4X3ZJbXBTV0U1WF9iZmEydnNvTi05TjdZUVVRZUhRNlVoaFFacFVPZmVzZlFmbzRlWERJMzFSa3VUcVFhZEFQb25wS0lWRzBsdng3c9IB7wFBVV95cUxNU1RlTlU5WTdKY1Vodlo4UFZubnFYd3RDWW5FMERBUjZBb1lYR0pCUVZ2c1ZSUFhUN2JTT0N3SUN4MHlfUnFzQXdUOUYtWW1kbDU5S0tPM3M5U1F3WTJCWHA4SEl0LU81dVEwQ1VtNW5RaG90WHVVdUpja3dtZDVxaDZhZ2VCTERHaTF0T1k0cVdLSTFZQjRRbE94NU5LVnN0QTVGQnV4SnZYT0xwbjAzTEQ3eTA0cnBNbVJSbE9fcFNYbUVhWWpLRy1PZGV4dlhwemRpdDF2aENNdzlwT1RVcnRzZk9CYktjaUJfUTFpaw?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNMlR5M1ZNdnNsZ2UyUjhGWXhzVk1XRTB1M0ZJOGpKV2dla0twRFFYUXRUOU5mQVZTWEFwd3pjWW9ySVZVVkJETm50eWdTaXVmZEx1alQzY1lybFFxTEVhVzFrYW9uNzVibUxFNmhrVFEzR0lTQWtBbjluQndXMURZSUVFd05mdUQ2RFM3SDVqb3hpM2xnVzZkckVyYUZOS1E4ajRCUUxrZzdobzV3UHp3NzFmTjBCN0ttcDhaQVdFZllyQkxSSGVfNjFvMTlXVk5EUTRHR0FlZmpOOGNxNFRhVUF3U1RVb25tWUhRejF5bWIxLWMwdDlqR2FCbEJIUGx5RmdBTEpLUkZxUE5jQXJXamZmdHFLQk1rRklDWFhoQ2xSQ1dibEM0?oc=5"
         }
       ]
     },
@@ -78,14 +102,38 @@
       ]
     },
     {
-      "id": "dd1a18d72ae5",
-      "title": "Donaduzzi Educação firma parceria com Stanford para fortalecer a inovação em saúde - Toledo News",
-      "published": "2026-10-30T15:42:00+00:00",
-      "summary": "Donaduzzi Educação firma parceria com Stanford para fortalecer a inovação em saúde&nbsp;&nbsp;Toledo News",
+      "id": "1fb44a7f7d73",
+      "title": "Pesquisa identifica hortaliças não convencionais com potencial de adaptação às mudanças climáticas no RS - Brasil de Fato",
+      "published": "2026-10-30T15:41:00+00:00",
+      "summary": "Pesquisa identifica hortaliças não convencionais com potencial de adaptação às mudanças climáticas no RS&nbsp;&nbsp;Brasil de Fato",
       "sources": [
         {
-          "name": "Toledo News",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGRvcUpJeUhwV3l1SG4xbGRBUVRxLTYxajA2TDZLYXNCSUNGSVU1eThyd1AzbjY5WGpTSzBoYkpTR2MwTkdaa2lFYmVZcGNUV21EQU9GT3NJNDFmS1pQLVpyckRIelFNVk96dktoNVFpM2hSSEtWcDZpa2VoTEpvWVNEZmpZTFBJWFZPZ2R6amdhd280THFsRktGSzZqZmxnZ3cxX2RRLVZBeGduekd3QVVOajlZR0ZBU1h3RDlUbw?oc=5"
+          "name": "Brasil de Fato",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONFM1ZVFWMmJ2VzAtWGFEY01Zck9HRllacFROWmtiUmJIeTRJUEQwX3EzdzhSdnNndVNzMktVZURyenIxaHR4NkNYdVRwaFNac1ZJeGlYckpxNjVOclhabWpZV2xwN3JxUHdhdTVjSGRiU3F2RzlTSzQ4elN0U1UzVnFzWFFVLXdGakNWTUJteEl6ZFRFSnctMUprWjNCZnYwUTVfenJjRVE0Nmk2V0pFNVhnWFBTVks1blUtbHEzZEh3WHFOSkFiM3BNZEwtSERGTTM1aWJWanRpaFRyMFhmZ09R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "72cdbd5a2153",
+      "title": "Câncer de pâncreas: vacina experimental ativa defesas do organismo em quase 100% dos pacientes - O GLOBO",
+      "published": "2026-10-30T15:06:20+00:00",
+      "summary": "Câncer de pâncreas: vacina experimental ativa defesas do organismo em quase 100% dos pacientes&nbsp;&nbsp;O GLOBOVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT29rZV9GZG43a3d1emptOGJGN2VNWURNQ1BCNExnRUZmS1FBbFAtME15ZDUwRmZvMjBRWHpNM0Z3MmhOenZ4ck1SeGFKbWRFSkZaa2twY2U4M2tKSk9IS1oyMXZkX2d5MkwtS21CczI1MGt2Y3NjYkV6LXo1V25sY0VpLUFEa1RBU1NFVmRmS3Nrcy1oeWMtVzNnZnNSUE1kTEttUV9OUVA1MGxlZERPUkRkajlUaURROVh1V3hsZ21US3hNTlhzdkNuM0ZzSDhYSFJpWkJ2U0xXbXBYY05ZNEd1YmJFMkRHRUNz0gH6AUFVX3lxTE5zZ29yVGlrZ1pjdG9vRlRyM0R1Q3RKTTcxRWp4bVV1UHJDUVJteHR0M1FUdnpSMjMzdlVJN0xaSmZtQVFRSlVPd085Z1JiVDlFRnJCSUpsMktDN3JScXZXbmNrdWJtMUU0enlCVXpqNDNTNURXVGgzYVRLSjdCYktENFVXNFNJSmJSWUkzYk94WHhTY1F0QXhDeWl3TUNsckVjaVQ2QTE4MF9yR1hmbkgzVlM3M0R5QkRjUEx3Yk5JQUNUS0J2TXRNbldCVF9Ic0h0UEoyV21oYWxHZkdSN0V1UmlpajZMcU9EY3ZDbXZIZ0tOcTFKTFMzREE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "781a47d8cdb4",
+      "title": "Hospital anuncia aquisição de equipamento para o tratamento de câncer de próstata - Estadão",
+      "published": "2026-10-30T13:52:00+00:00",
+      "summary": "Hospital anuncia aquisição de equipamento para o tratamento de câncer de próstata&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNHBoeTgzZVBwRVBfek1SSzlja2NiYzdsZTlaT0NlWEFnZnI2MTNER1RWemtvR3k3SzVrRkVVUDJOcW44OVZPb2diSzlOWGdCNWE5WGwwbXJVaDVXTmdJSmtHaFFWTGFZVkNka1pENm1TOV9UNG1fc3pMR2pGcmVxMGthYlJYTW5HdTV2b0VhUFRRc3gycjl6MWlqa2dYWGJmRzlYdTU0dzFCZmlLcWdoc3BsZ2RGTWxNNXhtaDdCZTVTYWJrYkZsSkZ30gHPAUFVX3lxTE0tZmZ6Q2ozNGVUM09KVUgyTy1nSUQxUnVoVTh0ODBjeGVlM24ta1FYZWk1c2h2bF8wMUEzX0xYem13SURSQ3F6NXNyb1JfWWJRdXFVSkpoZDF0TGZ2RmY4d2l0TWdtcTJ1QVZnYTE0QkljbFVoN19EVkZ5SVAtaGVBb1MzS0tiTE1remdYTXlkVlFrUjd1dkxhNDhFMjQ4RnNBbEZQek5GbXZBTGhNUzRfLTUtVEJPVTNkUVpEN3NVNlBqTEU1cGI5dktFZHFNaw?oc=5"
         }
       ]
     },
@@ -117,7 +165,7 @@
       "id": "43b06f9ccf4a",
       "title": "Preocupação com bronquiolite e vírus sincicial cresce entre gestantes - Agência Brasil",
       "published": "2026-10-30T12:45:00+00:00",
-      "summary": "Preocupação com bronquiolite e vírus sincicial cresce entre gestantes&nbsp;&nbsp;Agência BrasilGestantes ainda desconhecem prevenção contra VSR pelo SUS&nbsp;&nbsp;Hojemais.com.brBronquiolite: 79% das gestantes têm dúvidas sobre a doença&nbsp;&nbsp;Tribuna do ParanáVacinação na gravidez pode reduzir casos graves de bronquiolite em bebês&nbsp;&nbsp;Rádio Clube de CanoinhasPesquisa revela que 79% das gestantes brasileiras têm dúvidas sobre bronquiolite e VSR. Saiba os riscos para os bebês e como f",
+      "summary": "Preocupação com bronquiolite e vírus sincicial cresce entre gestantes&nbsp;&nbsp;Agência BrasilGestantes ainda desconhecem prevenção contra VSR pelo SUS&nbsp;&nbsp;Hojemais.com.brBronquiolite: 79% das gestantes têm dúvidas sobre a doença&nbsp;&nbsp;Tribuna do ParanáConhecimento sobre bronquiolite avança entre gestantes, mas dúvidas ainda persistem&nbsp;&nbsp;IdestPesquisa revela que 79% das gestantes brasileiras têm dúvidas sobre bronquiolite e VSR. Saiba os riscos para os bebês e como funciona ",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -129,7 +177,7 @@
       "id": "b133d4d8ea4a",
       "title": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa - UOL",
       "published": "2026-10-30T12:33:00+00:00",
-      "summary": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa&nbsp;&nbsp;UOLMenopausa: 7 sinais que merecem atenção e avaliação médica&nbsp;&nbsp;G1Menopausa: diagnóstico é clínico e quase nunca requer exames&nbsp;&nbsp;Portal Drauzio VarellaFogacho não é frescura: o que o calorão na menopausa revela sobre a saúde da mulher&nbsp;&nbsp;VEJAPerimenopausa e Menopausa no Brasil: desafios no diagnóstico, acolhimento e políticas públicas&nbsp;&nbsp;Senado",
+      "summary": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa&nbsp;&nbsp;UOLMenopausa: 7 sinais que merecem atenção e avaliação médica&nbsp;&nbsp;G1Fogacho não é frescura: o que o calorão na menopausa revela sobre a saúde da mulher&nbsp;&nbsp;VEJAPerimenopausa e Menopausa no Brasil: desafios no diagnóstico, acolhimento e políticas públicas&nbsp;&nbsp;SenadoMenopausa transforma a pele: por que fazer os mesmos procedimentos de antes pode não funcionar&nbsp;&nbsp;Estadão Blue Studio",
       "sources": [
         {
           "name": "UOL",
@@ -153,7 +201,7 @@
       "id": "a2299887c485",
       "title": "Pessoas de até 59 anos têm até sábado para se vacinar com a Meningocócica ACWY na cidade do Rio - O GLOBO",
       "published": "2026-10-30T09:00:00+00:00",
-      "summary": "Pessoas de até 59 anos têm até sábado para se vacinar com a Meningocócica ACWY na cidade do Rio&nbsp;&nbsp;O GLOBOVacina contra meningite: cobertura no grupo de 11 a 14 anos é de 67,1%, diz novo painel&nbsp;&nbsp;VEJAGoverno Lula disponibiliza painel para monitorar vacinação contra a meningite&nbsp;&nbsp;CartaCapitalGoverno cria painel para monitorar vacina contra meningite em adolescentes&nbsp;&nbsp;UOL NotíciasVacina contra meningite: veja o que mudou e quem deve tomar | Diário do Grande ABC -",
+      "summary": "Pessoas de até 59 anos têm até sábado para se vacinar com a Meningocócica ACWY na cidade do Rio&nbsp;&nbsp;O GLOBOVacina contra meningite: cobertura no grupo de 11 a 14 anos é de 67,1%, diz novo painel&nbsp;&nbsp;VEJAGoverno Lula disponibiliza painel para monitorar vacinação contra a meningite&nbsp;&nbsp;CartaCapitalVacina ACWY até os 59 anos: quem precisa tomar e até quando vai a repescagem&nbsp;&nbsp;TerraGoverno cria painel para monitorar vacina contra meningite em adolescentes&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "O GLOBO",
@@ -165,7 +213,7 @@
       "id": "4ce9bea66d29",
       "title": "Reumatismo não afeta só idosos: veja os sinais de alerta e quando procurar um especialista - Jornal Correio",
       "published": "2026-10-30T08:10:00+00:00",
-      "summary": "Reumatismo não afeta só idosos: veja os sinais de alerta e quando procurar um especialista&nbsp;&nbsp;Jornal CorreioMais de 15 milhões de brasileiros convivem com doenças reumáticas&nbsp;&nbsp;Jornal de BrasíliaDoenças reumáticas podem afetar crianças e comprometer órgãos além das articulações&nbsp;&nbsp;O TEMPODia Nacional de Luta contra as Doenças Reumáticas alerta para diagnóstico precoce&nbsp;&nbsp;O ImparcialCalendário: Dia Nacional de Luta Contra o Reumatismo – 30 de Outubro&nbsp;&nbsp;CRF",
+      "summary": "Reumatismo não afeta só idosos: veja os sinais de alerta e quando procurar um especialista&nbsp;&nbsp;Jornal CorreioDoenças reumáticas afetam 15 milhões de brasileiros; diagnóstico precoce é importante&nbsp;&nbsp;G1Doenças reumáticas podem afetar crianças e comprometer órgãos além das articulações&nbsp;&nbsp;O TEMPODia Nacional de Luta contra as Doenças Reumáticas alerta para diagnóstico precoce&nbsp;&nbsp;O ImparcialMais de 15 milhões de brasileiros convivem com doenças reumáticas&nbsp;&nbsp;Jo",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -222,14 +270,38 @@
       ]
     },
     {
+      "id": "878ce1deece3",
+      "title": "Como casos de dengue despencaram 95% no RS após alta nos últimos anos - G1",
+      "published": "2026-10-30T06:00:00+00:00",
+      "summary": "Como casos de dengue despencaram 95% no RS após alta nos últimos anos&nbsp;&nbsp;G1Santa Cruz registra queda de 83% nos casos de dengue em relação ao ano passado&nbsp;&nbsp;GAZCasos de dengue caem 95% no Rio Grande do Sul em 2026, mas autoridades alertam para riscos no verão&nbsp;&nbsp;Clic CamaquãComo casos de dengue despencaram 95% no RS&nbsp;&nbsp;G1Casos de dengue caem 95% no Rio Grande do Sul&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMjR6MDV2S3YxaXN5bWphU1BQZE5jUmFGekQxUFdPclRxMVNNRFk2TVZobEhMa2ZJR2tuZ3dvaVdRMjEySHZrTmJUdUtVVVYzSEVBWU1lcmpmY0tCS1lnQzZ2YVdqM2ZNaVBzR0pvYXZacTI0eUl4Y1NzYjJCUG9abWVUcnh1Wno4dHZfczdpMWZFakpxVUN1clBGX3hCSkFzelFhMzJMMTh2ejJDRkRkRWxseWJsNERsQ0dHZE5xSmtSMWNTbkVlOW5JVWF6aGhMaXh0bFAzU2dmZ9IB6AFBVV95cUxNWEI2SDR5RkpmUk9FeTJLSVhydzkxaWhhdzdXUmZra2RPVFg5NjdLemNlelI4ZDA5aWszSlQ0NlhucTRVNU53SzJpbFYyX3V1cWwyU01iT0hCVWxoOE12MU5JQ1YwaDl4NHlDcDJ5WGY4alRCWFY0djN3cV9tdVhyVWJUdUlsSHZib2dmcWVXWHc1VDB3bjNOUm54eTVrV3VPNkl6Rmxwd0x6elRVaTR3MERHYllkck9hSk9LQnI3RkdZdnZ3YjRUVEJWYThfZEc0RThlSXNFeGUxQ20yUHA1YmpvVjN6S29q?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2a41f48f5bb1",
       "title": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo - G1",
       "published": "2026-10-30T05:00:00+00:00",
-      "summary": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo&nbsp;&nbsp;G1Excesso de treino pode alterar a química do cérebro e afetar o descanso, mostra estudo&nbsp;&nbsp;TerraExercício físico em excesso pode afetar a química do cérebro, diz estudo&nbsp;&nbsp;TNH1Exercício pode cansar os músculos e aliviar a mente ao mesmo tempo; estudo explica o paradoxo da fadiga&nbsp;&nbsp;O POVOExcesso de treino afeta a regulação química do cérebro, mostra novo estud",
+      "summary": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo&nbsp;&nbsp;G1Excesso de treino pode alterar a química do cérebro e afetar o descanso, mostra estudo&nbsp;&nbsp;TerraExercício físico em excesso pode afetar a química do cérebro, diz estudo&nbsp;&nbsp;TNH1Treinar demais pode alterar substâncias do cérebro?&nbsp;&nbsp;A TARDEExcesso de treino afeta a regulação química do cérebro, mostra novo estudo&nbsp;&nbsp;InfoMoney",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTkVFbmNQZTkxb0FNMDFoVERXTnVqUWNjYnhUa3hFc3FIQVJMdzV0bEVYS1RxQXlhVDB3a3hIMEFqNllZeTZLcl9XN1FhaGpLeTM2ZXp5dE5DZ1h6RFZkYlNXMEdibzFKVk1CYkowMVh0VWQtVWdQQV9YaF9jVlQ2MGF5azNYdXI0LXVaWVBzQUsxZEdxM1R5TTlKWDF6VEFPamJOSmVzbk5fcXFJVmM3Z193UlZvN090NUdORXVxODVjUkFiZkpiU1U5YmZCUzFvRGN4elhiYXRLOGhZaWZfOGhfYW3SAfMBQVVfeXFMTVZzZE1ZWFpKSEhjM2QxdHJPMW01SlB4UFBZNGx2bl9ZSmItRGVfUzVVRWNCM3I4V3pxUU94ZzROellFRk4wOFBwN25QdmNZZGFPRW5UcFBrdUhLeFFpbDVYM2FOMVVyQlk1V1RKMFpkdzZ1NWgtYjRfbFppVHZBWHJHdUpzdzBTTC1GY2FqVGcxem1mak9Namg1TmFkN2JSd0hucUFpdW5yWWtKWHkwSXZFYTFreWkxSzJncWFTWlBLMzJnSFptUFdMWTVDamtCWVVjOGdWUDdkbFFOSGxvZVJhaTNsUnNBZ2lmNHhvc1BoaEI4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6faeb6b765e2",
+      "title": "Canetas emagrecedoras: Anvisa aprova 20 novos medicamentos neste ano; veja todos os autorizados no país - O GLOBO",
+      "published": "2026-10-30T03:00:01+00:00",
+      "summary": "Canetas emagrecedoras: Anvisa aprova 20 novos medicamentos neste ano; veja todos os autorizados no país&nbsp;&nbsp;O GLOBOAnvisa aprova 5 novas canetas para diabetes e obesidade; total chega a 19 em 2026&nbsp;&nbsp;Folha de S.PauloCaneta após os 40: por que manter a massa muscular é essencial&nbsp;&nbsp;TerraAnvisa aprova cinco novas canetas emagrecedoras de GLP-1&nbsp;&nbsp;CNN BrasilCanetas emagrecedoras acendem alerta para perda de massa muscular; nutricionista explica cuidados&nbsp;&nbsp;Est",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPckEzVlI3elFCTkZCTTZoaktvQnJqb2dOd1ZpamY1dWhWbWowamZPQmpvWjFpS3dadkZFajJlUGFHcVEtQWFrYm05dV9PaGFMZzNyYjYwdmpxbGk0TjYxaldwaU5yOHpQcWh6Smg1aF9fZlU2cmRDRkJvMjBZTW1DRF85QlJRZlFkeU5CdnVYMHA4WDRDUnJ0cUViaVFHOXZhSjNJMUs1QlkwMFVIelNOcjZSbDJic25Gckx1UEhVNEFrbTFCR1FVNWtuSEFZd1NPZ1JXMENDOHRvcHZOOXl3ZldpdGhqYVVxejNsNFZn0gH8AUFVX3lxTE5lQzh6MkxLdGdRdXNFRWd6ZzFCOGxiRzA4M3ZMRFVBdXNQSGJ4TjVsa2JZTEh2ekF0QzNPX19ZYjFZeTJFWWI0VWlqNFFHR2JiQlFNLVVWR2dDS0I1bVJZUHhCOHRsd3M3UnphQmplS2tKVmM0OHBnbFJjdk9OWDE2LVQ0VXFBc3ZzMnd2eHJTTmhrZTgzbUc1aUhQZmx0eGV5Rk5rVlRkRWxQNm5ZcGtTYXNwTGNHWFpPcG5UY1ZTYk5nRjZ1ZC01M2xINFg3Y2Y0Tk1WZFZqaWhBNjBrQWxlb3FuME9YSFltbkdsYkRaQmg4c1d5dUFveE5QUg?oc=5"
         }
       ]
     },
@@ -242,18 +314,6 @@
         {
           "name": "Só Notícia Boa",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHg0QTBtUlNxWFVmOXl1cGdQNzIxV1lBbENaaTYxN3dWSDl6SjF6NzZPbEt3dGlEWFlZWEFtMlBOZTBHb1hmeXphNjJaM2VRcXY2NTZ3b2VPX1Y3YTQzakpVLU9GdGVQUllnUklpa3VldHdMbm9uekhmS1p4NVJoc2pETXlkai1aSmVkNzYtX2hhRkNPZUlHMlBPOFhnUWZG?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c45cf51305fc",
-      "title": "Patrick Stewart: o que é a demência com corpos de Lewy, que afetou ator de 'X-men' e 'Star Trek' - Exame",
-      "published": "2026-10-29T20:42:00+00:00",
-      "summary": "Patrick Stewart: o que é a demência com corpos de Lewy, que afetou ator de 'X-men' e 'Star Trek'&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdZdTZ1QkZsMmtuaUY4U05vdVV3NUJ3Q00xanVKLUx3YmplV05VeXFJRlJLRVVOZGZDUlBsbC1QaGhFS0tOMHhYaDluMHJXTWZycktUelJKVnlVc2kyYjlaM0Nic1Z1S0tSQTdoWHFRNmtFa29XaDh5aVkyS2xmQjJ6R0IzN2d5VF9NT1R3amIzY0FJcV9ES2ZNTFRiblg1VmZTbGNTQms4S0FwZXJkWHRJRkpEb3hFZ1h6NkNB?oc=5"
         }
       ]
     },
@@ -273,7 +333,7 @@
       "id": "320d7e18e322",
       "title": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas - CNN Brasil",
       "published": "2026-10-29T16:58:04+00:00",
-      "summary": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas&nbsp;&nbsp;CNN BrasilOpinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;EstadãoDia Mundial do AVC: HSJ promove ação e reforça a importância de agir rápido&nbsp;&nbsp;G1No Dia Mundial do AVC, Barco Brasil leva campanha “Cada Minuto Conta” ao esporte&nbsp;&nbsp;CartaCapitalDia Mundial do AVC: entenda como a saúde vascular ajuda a prevenir a doença&nbsp;&nbsp;GZH",
+      "summary": "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas&nbsp;&nbsp;CNN BrasilOpinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;EstadãoProjeto \"AVC: Cada Minuto Conta\" capacita profissionais de saúde em Itaperuna&nbsp;&nbsp;G1Unidades de saúde de Volta Redonda promovem ações pelo Dia Mundial do AVC&nbsp;&nbsp;Prefeitura de Volta RedondaNo Dia Mundial do AVC, Barco Brasil leva campanha “Cada Minuto Conta” ao esporte&nbsp;&nbsp;CartaCapita",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -330,18 +390,6 @@
       ]
     },
     {
-      "id": "a3aedbf1b2c0",
-      "title": "Senado faz consulta pública sobre projeto de lei que criminaliza recusa e desinformação sobre vacinas - Brasil 247",
-      "published": "2026-10-29T14:43:38+00:00",
-      "summary": "Senado faz consulta pública sobre projeto de lei que criminaliza recusa e desinformação sobre vacinas&nbsp;&nbsp;Brasil 247Senado abre consulta pública sobre projeto que pune quem recusar vacina; confira votação&nbsp;&nbsp;Tribuna do PlanaltoProjeto prevê prisão por recusa à vacinação e fake news sobre vacinas&nbsp;&nbsp;Sistema Província de ComunicaçãoABC e SBPC apoiam PL que fortalece instrumentos legais-de proteção da saúde coletiva&nbsp;&nbsp;ABC - Academia Brasileira de CiênciasPopulação é ",
-      "sources": [
-        {
-          "name": "Brasil 247",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGFRNUN2cGdiTnNmT1c5dUM5T05GSFlPd3lRWUhoZjJoS0Z4TndfLUZUUlBtdkNweHFYdDVvOS1sTnNpd3ZvSmlScU9peGNlSEFRRzI4anVGS09zRVljb0ZLZ3ptRGtRcGhieGZYYVduZWxsNlI3UmNRVjktdlhad2dSRkR1cnFnaDZrNGZiQi1oZXVrRTdheUFKRGdZcExFOEJQdmRmMktVZ3ltMThNZldZQ1RqYTduQnVLNEsyLU5reTRLbXJXekd6aWRpNTA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "45003b0003bd",
       "title": "Dia Mundial do AVC: especialista alerta para sinais de socorro imediato - Tribuna de Petrópolis",
       "published": "2026-10-29T11:48:51+00:00",
@@ -357,7 +405,7 @@
       "id": "89972feb69c7",
       "title": "Estudo associa excesso de proteína animal a níveis baixos de testosterona - CNN Brasil",
       "published": "2026-10-29T10:48:02+00:00",
-      "summary": "Estudo associa excesso de proteína animal a níveis baixos de testosterona&nbsp;&nbsp;CNN BrasilFinlândia: estudo liga proteína vegetal a níveis mais altos de testosterona&nbsp;&nbsp;EuronewsHomens com dieta rica em proteína animal têm menos testosterona, diz estudo&nbsp;&nbsp;Metrópoles",
+      "summary": "Estudo associa excesso de proteína animal a níveis baixos de testosterona&nbsp;&nbsp;CNN BrasilFinlândia: estudo liga proteína vegetal a níveis mais altos de testosterona&nbsp;&nbsp;Euronews.comHomens com dieta rica em proteína animal têm menos testosterona, diz estudo&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -402,18 +450,6 @@
       ]
     },
     {
-      "id": "fee531bc7aad",
-      "title": "Anvisa aprova cinco novas canetas de GLP-1 - Governo Federal",
-      "published": "2026-10-29T04:21:00+00:00",
-      "summary": "Anvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;Governo FederalCanetas emagrecedoras: Anvisa aprova 20 novos medicamentos neste ano; veja todos os autorizados no país&nbsp;&nbsp;O GLOBOAnvisa aprova 5 novas canetas para diabetes e obesidade; total chega a 19 em 2026&nbsp;&nbsp;Folha de S.PauloAnvisa aprova cinco novas canetas emagrecedoras de GLP-1&nbsp;&nbsp;CNN BrasilCaneta após os 40: por que manter a massa muscular é essencial&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Governo Federal",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTBsOTBIUGhkYV9zOVRSZzZIZzBSekF4Nm9OUkpOS25ILUlldEczVHMyNFlhbXBvbEJRWEFOWndORm5ma0hFYlFuYlY5emRpaHYwOG5Vd0l2SHpGYWdNeE5fWnhmVjNFWHlCVmFOY0hlNGI2aWZuVDFMYTNKYnZtWkNNakpicFZwVDZIZ3dvVWZXa01CcEdpNGlTTlVpSXhYOWlFZ2l3TQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b7b9c15ce119",
       "title": "Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa - Estadão",
       "published": "2026-10-28T16:53:00+00:00",
@@ -426,18 +462,6 @@
       ]
     },
     {
-      "id": "a224ee37543d",
-      "title": "Como transformar pesquisa científica em soluções socioeconômicas? Caminhos são discutidos em seminário - Jornal da USP",
-      "published": "2026-10-28T14:13:45+00:00",
-      "summary": "Como transformar pesquisa científica em soluções socioeconômicas? Caminhos são discutidos em seminário&nbsp;&nbsp;Jornal da USP",
-      "sources": [
-        {
-          "name": "Jornal da USP",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRF9tdVFxWURtNkRkNEFSS0dHQXMwQTVIdGNlNXhXMGhvVHlvRTAzaUFJMWxSbXhqMWc3cG10OGNjZVA5LTVGUm11T0ZNWWxDY3RGMHotcTF3YWoyYVNDbTRxRk52UUFwOXRYMWpnUDduODBvWkhHaTl4cE9mYkpIbHlQeHc3c1FnaHIwTlpDemppaFFyV2o4OXRWdUxDandDdFNrUndTLUVDNHVTcjBDaDdEUXRVR1MzUWRmT3A5X0J5U1RpcjR0Z0s2THcwY1BIQjZ1eA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dcfb49b2e211",
       "title": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X",
       "published": "2026-10-28T12:09:05+00:00",
@@ -446,18 +470,6 @@
         {
           "name": "Portal Ponto X",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c105301efae",
-      "title": "Dados do Inca mostram que mulheres negras morrem 3,8 vezes mais que brancas por câncer de mama - O GLOBO",
-      "published": "2026-10-28T06:00:01+00:00",
-      "summary": "Dados do Inca mostram que mulheres negras morrem 3,8 vezes mais que brancas por câncer de mama&nbsp;&nbsp;O GLOBODesigualdade reduz acesso de mulheres negras e indígenas à mamografia&nbsp;&nbsp;Folha de S.PauloCâncer de mama: mulheres negras morrem 3,8 vezes mais que brancas&nbsp;&nbsp;Agência BrasilMortalidade por câncer de mama é quase quatro vezes maior em negras&nbsp;&nbsp;CNN BrasilInca lança livro sobre câncer de mama e disparidades raciais&nbsp;&nbsp;Agência Brasil",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX29Na2M2azBFcU1ZVXRJeXNQQzJvZEhIZl8zaWZsX2FIWkxZZjRhUUsxZ25NdWd6THNYaW1mblY0c2E0bjYxd1dDYkJ3UlphOTMyWUhJR2FFV0VHRkIxUGM2b2pCVmFqSjFNbDBIc0drcVhfWUFRZ3gxRnJEWno5OUh5dndjUUF3WmJkQVBTbTBkeHhJM2llcG9ZMTJENHBvZlMxS0tiLTBhWFZxTy1hcHQ2TWIzcnc4TjcteF93MU5XQXBhejdrMlp3Vzlyak5ucmJUWmFMdmdaMlgwR3RYZzIxMNIB8gFBVV95cUxNWUZnVV90QXAydnpZUU54b3lFRDJZaUEteXRMYzk2aHI4dllicFEzWUJfUTQzdUlRMzFmRUVNTWJCNE5RSXhyaHpma2ctNkJiZWFQNkI4c3BWMjRjbnozSGtjMWZmOS1jTFZDZHRjT1E0emhUVi1jYnJtRXJzMmtoWnhMdUFLRURRdTFTU1Y3REZYXzBVbXRrOWFXWHFGOXZnT3lMSUdTbFc0MnMzYzBXajYyMTYxNWlGMHk4Nmg5MTNhQ2F2MnhMSjQ4UUppV2x5R3BkbmdDUlVVRGpfTzAyaGNsWWFQWjNHN0NpWm04Tktudw?oc=5"
         }
       ]
     },

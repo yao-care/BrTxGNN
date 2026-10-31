@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre demência (dementia)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre demência (dementia). 2 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre demência (dementia). 1 notícias, 4 medicamentos relacionados."
 permalink: /news/dementia/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Notícias sobre demência (dementia)
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre demência (dementia)?">
-<strong>demência (dementia)</strong> tem atualmente <strong>2 notícias</strong> e 4 medicamentos relacionados.
+<strong>demência (dementia)</strong> tem atualmente <strong>1 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ Esta página reúne as notícias de saúde mais recentes sobre «demência» e l
 </ul>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (1)
 
 ### [Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLU42cGVpazJNNUJxQUk0REN5bW04T0JMSjBKX0Q0dUNFWkppMkgwM3JkVHdiTXlwNENyUWVtWWxiSmdFdDZhVXhKN2I2STBfUkZLREU1RXpxaEZ3VlpYVmZYY0wzWkk3aTMtMU1oUFBOMlN5eXJiX05Jc3lkS2VGQlNweVRNNWNoSTdvMWItakNRM1lEclQxMm84anB3N1ZZUXNhTy1rT0h0WXpvVGdNRWwxby14RGl0eWVlaktVZ1dmR3N0VmlWaTRHOXMtSUY5c3NpTlJn?oc=5)
 
 2026-10-30
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLU42cGVpazJNNUJxQUk0REN5bW04T0JMSjBKX0Q0dUNFWkppMkgwM3JkVHdiTXlwNENyUWVtWWxiSmdFdDZhVXhKN2I2STBfUkZLREU1RXpxaEZ3VlpYVmZYY0wzWkk3aTMtMU1oUFBOMlN5eXJiX05Jc3lkS2VGQlNweVRNNWNoSTdvMWItakNRM1lEclQxMm84anB3N1ZZUXNhTy1rT0h0WXpvVGdNRWwxby14RGl0eWVlaktVZ1dmR3N0VmlWaTRHOXMtSUY5c3NpTlJn?oc=5)
-
----
-
-### [Patrick Stewart: o que é a demência com corpos de Lewy, que afetou ator de 'X-men' e 'Star Trek'](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdZdTZ1QkZsMmtuaUY4U05vdVV3NUJ3Q00xanVKLUx3YmplV05VeXFJRlJLRVVOZGZDUlBsbC1QaGhFS0tOMHhYaDluMHJXTWZycktUelJKVnlVc2kyYjlaM0Nic1Z1S0tSQTdoWHFRNmtFa29XaDh5aVkyS2xmQjJ6R0IzN2d5VF9NT1R3amIzY0FJcV9ES2ZNTFRiblg1VmZTbGNTQms4S0FwZXJkWHRJRkpEb3hFZ1h6NkNB?oc=5)
-
-2026-10-29
-
-Fonte: [Exame](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdZdTZ1QkZsMmtuaUY4U05vdVV3NUJ3Q00xanVKLUx3YmplV05VeXFJRlJLRVVOZGZDUlBsbC1QaGhFS0tOMHhYaDluMHJXTWZycktUelJKVnlVc2kyYjlaM0Nic1Z1S0tSQTdoWHFRNmtFa29XaDh5aVkyS2xmQjJ6R0IzN2d5VF9NT1R3amIzY0FJcV9ES2ZNTFRiblg1VmZTbGNTQms4S0FwZXJkWHRJRkpEb3hFZ1h6NkNB?oc=5)
 
 ---
 
