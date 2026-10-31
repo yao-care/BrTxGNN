@@ -5,7 +5,7 @@ layout: default
 title: Calcium Propionate
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 182
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 |------|------|
 | Indicação Original | ELETROLITOS SIMPLES; PRODUTOS PARA HEMODIALISE; REIDRATANTES PARENTERAIS; REPOSICAO HIDROELETROLITICA E ALIMENTACAO PARENTERAL; OUTRAS SOL P/ REPOS HIDROELETROLITICA E ALIM PARENTERAL; MEDICACAO PARA TRATAMENTO DA ACIDOSE METABOLICA |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 0 |
+| Número de Registros | pelo menos 20 |
 
 ---
 

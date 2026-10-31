@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 682
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Zinc Oxide: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Emolientes e protetores da pele e mucosas"
 monitor_inn: "Zinc oxide"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Acne (acne (disease))**, mas at
 | Nova Indicação Prevista | Acne (acne (disease)) |
 | Pontuação de Previsão TxGNN | 0,9986 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 35 de 187) |
+| Número de Registros | 187 (ativos: 35) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -87,13 +87,40 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 O medicamento está comercializado no Brasil, com 20 registros válidos. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 103700556 | HIPODERTRAT | Não informada | Emolientes e protetores da pele e mucosas |
-| Registro 155840113 | Nistatina + Óxido de Zinco | Não informada | Emolientes e protetores da pele e mucosas |
-| Registro 115600148 | OXYDERME | Não informada | Antifúngicos |
-| Registro 196240009 | Nistatina + Óxido de Zinco | Não informada | Antimicóticos para uso tópico |
-| Registro 125680138 | PRATIDERM | Não informada | Antimicótico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101550091 | VITERGAN ZINCO | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 102351284 | NISTATINA + ÓXIDO DE ZINCO | EMS S/A | Ativo |
+| 102351356 | POMAGLÓS TRATAMENTO | EMS S/A | Ativo |
+| 102980600 | CUTISANOL | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700556 | HIPODERTRAT | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700558 | NISTATINA + ÓXIDO DE ZINCO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103850004 | BENZEVIT | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 104810156 | NISTATINA + OXIDO DE ZINCO | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 105350158 | NISTATINA + OXIDO DE ZINCO | LABORATÓRIO GLOBO SA | Ativo |
+| 105350166 | DERMONASE | LABORATÓRIO GLOBO SA | Ativo |
+| 105830951 | NISTATINA + ÓXIDO DE ZINCO | GERMED FARMACEUTICA LTDA | Ativo |
+| 106390260 | DERMODEX | TAKEDA PHARMA LTDA. | Ativo |
+| 106900003 | POMADA MINANCORA | MINÂNCORA & CIA LTDA | Ativo |
+| 107150161 | ALIVBABY | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 108170030 | POLVILHO ANTISSÉPTICO GRANADO | CASA GRANADO LABORATÓRIOS, FARMÁCIAS E DROGARIAS S | Ativo |
+| 110390022 | AD FURP | FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP | Ativo |
+| 115600148 | OXYDERME | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 118190368 | NISTATINA + ÓXIDO DE ZINCO | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 118190453 | NQZIN BABY | MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEU | Ativo |
+| 125680138 | PRATIDERM | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680140 | NISTATINA + ÓXIDO DE ZINCO | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680173 | PRATIGLÓS | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 137640159 | XYLOPROCT | ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 141070078 | NISTATINA + ÓXIDO DE ZINCO | PHARLAB INDÚSTRIA FARMACÊUTICA S.A. | Ativo |
+| 143810222 | NISTATINA+OXIDO DE ZINCO | CIMED INDUSTRIA S.A | Ativo |
+| 143810258 | BABYMED TRATAMENTO | CIMED INDUSTRIA S.A | Ativo |
+| 154230095 | BEBEX N | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230098 | BEBEX ADE | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840113 | NISTATINA + ÓXIDO DE ZINCO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 155840174 | BABYNEO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

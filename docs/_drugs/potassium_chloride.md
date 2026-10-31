@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 539
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Potassium Chloride: nova indicação prevista, Acidose Tubular Renal (Renal Tubular Acidosis) (nível de evidência L5). Indicação original: Reposição hidroeletrolítica e alimentação parenteral"
 monitor_inn: "POTASSIUM CHLORIDE"
 predicted_indications: ["renal tubular acidosis"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e apenas literatura de baixa força (
 | Nova Indicação Prevista | Acidose Tubular Renal (Renal Tubular Acidosis) |
 | Pontuação de Previsão TxGNN | 0,9987 |
 | Nível de Evidência | L5 (nenhum ensaio clínico; a literatura disponível é composta por relatos de caso, revisões e estudos observacionais, sem estudos que testem o fármaco na doença) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 61 de 231) |
+| Número de Registros | 231 (ativos: 61) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -87,13 +87,40 @@ Foram selecionadas as publicações mais relevantes. Não há ensaios clínicos 
 
 O medicamento está comercializado, com 20 registros válidos (principais 5 de 20).
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 117720007 | Solução de Cloreto de Potássio | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
-| Registro nº 155920001 | Cloreto de Potássio | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
-| Registro nº 125680032 | Ionclor | Não informada | Eletrólitos simples |
-| Registro nº 116880036 | Cloreto de Potássio 19,1% | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
-| Registro nº 104971470 | Slow-K | Não informada | Eletrólitos simples |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100330131 | MUVINLAX | LIBBS FARMACÊUTICA LTDA | Ativo |
+| 100410017 | HISOCEL | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410103 | SOLUÇÃO RINGER COM LACTATO | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410115 | RINGER | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410150 | SMOFKABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100430690 | REHIDRAT | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431052 | SOLUÇÃO FISIOLÓGICA DE RINGER COM LACTATO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100850044 | SOLUÇÃO DE RINGER COM LACTATO | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850045 | B.BRAUN SOLUÇÃO DE RINGER Nº3 | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850143 | DUOSOL COM POTÁSSIO | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850147 | PLASMAFUNDIN | LABORATORIOS B. BRAUN S/A | Ativo |
+| 101860040 | CLORETO DE POTÁSSIO | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
+| 102980533 | SOLUÇÃO DE RINGER | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980541 | SOLUCAO FISIOLOGICA DE RINGER COM LACTATO DE SODIO | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 102980610 | SOLLUID | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103110009 | RINGER | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110089 | RINGER COM LACTATO | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110096 | SOLUÇÃO SALINA BALANCEADA - HALEX ISTAR | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110135 | ISTARHES | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110149 | PLASMAISTAR | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110160 | ISOFARMA-SOLUÇÃO DE CLORETO DE POTÁSSIO | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110181 | MIXISTAR | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103460015 | SOLUÇÃO DE RINGER COM LACTATO DE SÓDIO | BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA | Ativo |
+| 104440037 | HIDRION | LABORATÓRIO GROSS S. A. | Ativo |
+| 104910060 | RINGER | JP INDUSTRIA FARMACEUTICA S/A | Ativo |
+| 104910061 | SOLUÇÃO DE RINGER COM LACTATO | JP INDUSTRIA FARMACEUTICA S/A | Ativo |
+| 104971470 | SLOW-K | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105350139 | REHIDRAZOL | LABORATÓRIO GLOBO SA | Ativo |
+| 105530341 | PEDIALYTE MAX | ABBOTT LABORATÓRIOS DO BRASIL LTDA | Ativo |
+| 106830067 | BAXTER SOLUÇÃO DE RINGER COM LACTATO | BAXTER HOSPITALAR LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

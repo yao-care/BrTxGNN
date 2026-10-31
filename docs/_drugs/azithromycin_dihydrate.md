@@ -5,7 +5,7 @@ layout: default
 title: Azithromycin Dihydrate
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 101
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 |------|------|
 | Indicação Original | ANTIBIOTICOS SISTEMICOS SIMPLES |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
-| Número de Registros | 0 |
+| Número de Registros | pelo menos 20 |
 
 ## Aviso de isenção de responsabilidade
 

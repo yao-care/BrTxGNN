@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -51,7 +51,7 @@ CALCIUM DIHYDRATE CHLORIDE (provavelmente cloreto de cálcio di-hidratado, CaCl�
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem estudos reais; sem previsão do modelo) |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 0 |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | **Hold** |
 
 ---

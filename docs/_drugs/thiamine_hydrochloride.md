@@ -5,7 +5,7 @@ layout: default
 title: Thiamine Hydrochloride
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 631
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 |------|----------|
 | Indicação Original | VITAMINAS E SUPLEMENTOS MINERAIS; MONOVITAMINAS EXCETO VITAMINA K; VITAMINA B1 (MONODROGA); VITAMINA B1 EM ASSOCIAÇÃO COM VITAMINAS B6 E/OU B12; PRODUTOS A BASE DE VIT B 12-ASSOCIACOES MEDICAMENTOSAS |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 0 |
+| Número de Registros | pelo menos 20 |
 
 ---
 

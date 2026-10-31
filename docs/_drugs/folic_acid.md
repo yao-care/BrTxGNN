@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 326
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Folic Acid: nova indicação prevista, Doença metabólica da biotina (biotin metabolic disease) (nível de evidência L4). Indicação original: Antianêmicos"
 monitor_inn: "FOLIC ACID"
 predicted_indications: ["biotin metabolic disease"]
@@ -51,8 +51,8 @@ O modelo TxGNN prevê que ele pode ser eficaz para a **doença metabólica da bi
 | Nova Indicação Prevista | Doença metabólica da biotina (biotin metabolic disease) |
 | Pontuação de Previsão TxGNN | 0,9949 |
 | Nível de Evidência | L4 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 22 de 213) |
+| Número de Registros | 213 (ativos: 22) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -96,13 +96,40 @@ Foram compiladas 19 publicações, quase todas revisões narrativas ou estudos i
 
 Há 20 registros válidos no Brasil. Principais exemplos:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro 158190007 | FOLACIN | Não informada | Antianêmicos |
-| Registro 104430020 | FOLIN | Não informada | Antianêmicos simples |
-| Registro 115240014 | NORIPURUM FÓLICO | Não informada | Antianêmicos a base de ferro - associações medicamentosas |
-| Registro 135690592 | NEUTROFER FÓLICO | Não informada | Antianêmicos a base de ferro - associações medicamentosas |
-| Registro 106830093 | CERNE-12 | Não informada | Polivitamínicos sem minerais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100431603 | DEXFER FÓLICO | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 101550245 | ENDOFOLIN | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
+| 102350372 | FOLIFOLIN | EMS S/A | Ativo |
+| 103700157 | AFOPIC | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103850051 | VI -  FERRIN | LABORATÓRIO FARMACÊUTICO ELOFAR LTDA | Ativo |
+| 103900143 | MATER FOLIC | FARMOQUÍMICA S/A | Ativo |
+| 104430020 | FOLIN | GEYER MEDICAMENTOS S.A. | Ativo |
+| 105730367 | COMBIRON FÓLICO | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 106830093 | CERNE-12 | BAXTER HOSPITALAR LTDA | Ativo |
+| 107150066 | ACFOL | CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTD | Ativo |
+| 112090018 | FUNED ÁCIDO FÓLICO | FUNDAÇÃO EZEQUIEL DIAS - FUNED | Ativo |
+| 113430159 | HIPOFOL | HIPOLABOR FARMACEUTICA LTDA | Ativo |
+| 115240014 | NORIPURUM FÓLICO | BLANVER FARMOQUIMICA E FARMACEUTICA S.A. | Ativo |
+| 125680204 | PRATIFOLIN | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135690592 | NEUTROFER  FÓLICO | EMS SIGMA PHARMA LTDA | Ativo |
+| 138410050 | AFOLIC | NATULAB LABORATORIO S.A | Ativo |
+| 144930087 | PRÉ-FOLIC | AIRELA INDÚSTRIA FARMACÊUTICA LTDA. | Ativo |
+| 154230142 | FOLONIN | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840271 | NEO FÓLICO | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+| 158190007 | FOLACIN | ARESE PHARMA LTDA. | Ativo |
+| 167730285 | NATUS GERIN | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
+| 188710008 | FERTRYX | GALLIA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 100020089 | TIAMINA + ASSOCIAÇÕES | LABORATORIO SEDABEL LTDA | Cancelado |
+| 100200112 | NATELE | UNIAO QUIMICA INTERNACIONAL LTDA | Cancelado |
+| 100330006 | CGT | LIBBS FARMACÊUTICA LTDA | Cancelado |
+| 100430605 | ACIDO FOLICO - EUROFARMA | EUROFARMA LABORATORIOS S.A. | Cancelado |
+| 100470251 | UM AO DIA | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
+| 100490084 | GESTAC | LABORATÓRIO SAÚDE LTDA | Cancelado |
+| 100680972 | DYNAMISAN | NOVARTIS BIOCIENCIAS S.A | Cancelado |
+| 100890032 | ILOBAN | MERCK S/A | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ---
 

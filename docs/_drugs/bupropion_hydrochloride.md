@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 166
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -51,7 +51,7 @@ Bupropion Hydrochloride é um fármaco amplamente conhecido internacionalmente c
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem estudos disponíveis neste pacote) |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 0 |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ---

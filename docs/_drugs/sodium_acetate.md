@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 588
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Sodium Acetate: nova indicação prevista, Deficiência congênita de protrombina (congenital prothrombin deficien… (nível de evidência L5). Indicação original: Produtos para hemodiálise"
 monitor_inn: "Sodium acetate"
 predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "gonococcal urethritis", "Ureaplasma urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Deficiência congênita de protrombina (congenital prothrombin deficiency) |
 | Pontuação de Previsão TxGNN | 0,9998 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 41) |
+| Número de Registros | 41 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -74,13 +74,40 @@ Atualmente não há literatura relacionada para a indicação prevista principal
 
 Há 20 registros válidos no Brasil e o medicamento está comercializado. Principais registros (5 de 20):
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 132230114 | CIFOBAN | Não informada | Produtos para hemodiálise |
-| Registro nº 164000004 | Acetato de Sódio | Não informada | Eletrólitos simples |
-| Registro nº 100431323 | TRICIT | Não informada | Produtos para hemodiálise |
-| Registro nº 106830184 | REGIOCIT | Não informada | Produtos para hemodiálise |
-| Registro nº 100431052 | Solução Fisiológica de Ringer com Lactato | Não informada | Reidratantes parenterais |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410150 | SMOFKABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100850109 | NUTRIFLEX PLUS | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850124 | NUTRIFLEX LIPID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850147 | PLASMAFUNDIN | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850246 | NUTRIFLEX LIPID | LABORATORIOS B. BRAUN S/A | Ativo |
+| 100850247 | NUTRIFLEX | LABORATORIOS B. BRAUN S/A | Ativo |
+| 102980610 | SOLLUID | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103110096 | SOLUÇÃO SALINA BALANCEADA - HALEX ISTAR | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110135 | ISTARHES | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 103110149 | PLASMAISTAR | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Ativo |
+| 106830102 | PLASMA LYTE | BAXTER HOSPITALAR LTDA | Ativo |
+| 106830181 | OLIMEL | BAXTER HOSPITALAR LTDA | Ativo |
+| 164000004 | ACETATO DE SÓDIO | VASCONCELOS INDUSTRIA FARMACEUTICA E COMERCIO LTDA | Ativo |
+| 100410021 | HISOPLEX COM GLICOSE | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410022 | HISOPLEX | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410102 | ENDODIAL - CPHD | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410124 | SOLUÇÃO ELETROLÍTICA COMPOSTA BALANCEADA | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100410135 | VOLULYTE | FRESENIUS KABI BRASIL LTDA | Cancelado |
+| 100850028 | ACETATO DE SODIO | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850136 | AMINOPLASMAL | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850139 | RINGERFUNDIN | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 100850141 | TETRASPAN | LABORATORIOS B. BRAUN S/A | Cancelado |
+| 101620093 | ACETATO DE SÓDIO | DARROW LABORATÓRIOS S/A | Cancelado |
+| 101620241 | SOLUÇÃO ELETROLÍTICA C/ 55 MEQ LACTATO E 5% DE GLICOSE | LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA | Cancelado |
+| 103110010 | SOLUÇÃO ELETROLÍTICA GLICOSADA | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 103110044 | SOLUÇÃO  POLIELETROLITICA | HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA | Cancelado |
+| 106830068 | TRAVASOL | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830097 | CLINIMIX | BAXTER HOSPITALAR LTDA | Cancelado |
+| 106830157 | OLICLINOMEL | BAXTER HOSPITALAR LTDA | Cancelado |
+| 113440017 | SOLUCAO DE AMINOACIDOS 10% COM CARBOIDRATOS E  ELETROLITOS | ENDOMED LABORATORIO FARMACEUTICO LTDA | Cancelado |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

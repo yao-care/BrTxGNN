@@ -5,7 +5,7 @@ layout: default
 title: Amlodipine Besylate
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 60
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 |------|------|
 | Indicação Original | ANTI-HIPERTENSIVOS SIMPLES; ANTI-HIPERTENSIVOS |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 0 |
+| Número de Registros | pelo menos 20 |
 
 ---
 

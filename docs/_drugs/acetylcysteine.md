@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 22
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Acetylcysteine: nova indicação prevista, Doença trombótica (thrombotic disease) (nível de evidência L2). Indicação original: Expectorantes balsâmicos e mucolítico"
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
@@ -50,8 +50,8 @@ atualmente com **7 ensaios clínicos** e **20 publicações** apoiando esta dire
 | Nova Indicação Prevista | Doença trombótica (thrombotic disease) |
 | Pontuação de Previsão TxGNN | 0,9996 |
 | Nível de Evidência | L2 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 33 de 68) |
+| Número de Registros | 68 (ativos: 33) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
@@ -93,13 +93,40 @@ Esse mecanismo é mais relevante para microangiopatias mediadas por VWF, como a 
 
 Foram encontrados 20 registros válidos; o medicamento está comercializado. Principais registros:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 125680383 | Ancype | Não informada | Expectorantes balsâmicos e mucolítico |
-| Registro nº 105730648 | Acetilcisteína | Não informada | Expectorantes balsâmicos e mucolítico |
-| Registro nº 167730691 | Mucos Expec | Não informada | Expectorantes balsâmicos e mucolítico |
-| Registro nº 103700578 | Pneumucil | Não informada | Expectorantes balsâmicos e mucolítico |
-| Registro nº 104971505 | Flucistein | Não informada | Expectorantes balsâmicos e mucolítico |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100410159 | AMINOVEN 10% INFANT | FRESENIUS KABI BRASIL LTDA | Ativo |
+| 100430771 | ACETILCISTEÍNA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100430772 | ACETILCISTEINA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431294 | ACETILCISTEÍNA | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431371 | AIRES | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100431437 | AIRES | EUROFARMA LABORATORIOS S.A. | Ativo |
+| 100840075 | FLUIMUCIL | ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. | Ativo |
+| 102351286 | FLUITEÍNA | EMS S/A | Ativo |
+| 102351342 | ACETILCISTEÍNA | EMS S/A | Ativo |
+| 103700578 | PNEUMUCIL | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700580 | ACETILCISTEÍNA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 104970006 | ACETILCISTEÍNA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971149 | FLUCISTEIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971317 | ACETILCISTEINA | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 104971505 | FLUCISTEIN | UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A | Ativo |
+| 105730648 | ACETILCISTEINA | ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A | Ativo |
+| 105830972 | ACETILCISTEÍNA | GERMED FARMACEUTICA LTDA | Ativo |
+| 115600206 | PULMONARE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 115600232 | ACETILCISTEÍNA | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Ativo |
+| 116370073 | ACETILCISTEÍNA | BLAU FARMACÊUTICA S.A. | Ativo |
+| 116370122 | BROMUC | BLAU FARMACÊUTICA S.A. | Ativo |
+| 125680100 | ACETILCISTEÍNA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680127 | ACETILCISTEÍNA | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 125680383 | ANCYPE | PRATI DONADUZZI & CIA LTDA | Ativo |
+| 135690281 | NAC | EMS SIGMA PHARMA LTDA | Ativo |
+| 154230108 | ACETILCISTEÍNA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230140 | CISTEIL | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 154230289 | ACETILCISTEÍNA | GEOLAB INDÚSTRIA FARMACÊUTICA S/A | Ativo |
+| 155840185 | CETILPLEX | BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

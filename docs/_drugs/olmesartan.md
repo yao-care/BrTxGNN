@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 485
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Olmesartan: nova indicação prevista, Angina de Prinzmetal (Prinzmetal angina) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
@@ -54,7 +54,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Angina de Prinzmetal (Prinzmeta
 | Pontuação de Previsão TxGNN | 0,9984 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 11) |
-| Número de Registros | 0 |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | Hold |
 
 ---

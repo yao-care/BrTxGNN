@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Metamizole: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L5). Indicação original: Analgésicos não narcóticos"
 monitor_inn: "Metamizole"
 predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 | Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
 | Pontuação de Previsão TxGNN | 0,9978 |
 | Nível de Evidência | L5 (apenas previsão do modelo, sem estudos de eficácia reais) |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 20 (todos cancelados) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 171 de 496) |
+| Número de Registros | 496 (ativos: 171) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -84,13 +84,40 @@ Nenhum dos estudos abaixo é ensaio clínico de eficácia. Os achados abaixo for
 
 Todos os 20 registros constam como válidos. Abaixo, os 5 principais:
 
-| Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
-|---------|------|------|-----------|
-| Registro nº 117720023 | Dipirona Sódica | Não informada | Analgésicos não narcóticos |
-| Registro nº 105830893 | Dipirona Monoidratada | Não informada | Analgésicos não narcóticos |
-| Registro nº 186200018 | Novalgina | Não informada | Analgésicos não narcóticos |
-| Registro nº 104810010 | Dorfebril | Não informada | Analgésicos não narcóticos |
-| Registro nº 103920101 | Doralex | Não informada | Analgésicos não narcóticos |
+| Registro | Produto | Empresa detentora | Situação |
+|------|------|------|------|
+| 101860012 | SANTIDOR | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
+| 101860036 | DIPIRONA | SANTISA LABORATÓRIO FARMACÊUTICO S/A | Ativo |
+| 102350072 | DORICIN | EMS S/A | Ativo |
+| 102350225 | DORSPAN | EMS S/A | Ativo |
+| 102350523 | DIPIRONA MONOIDRATADA | EMS S/A | Ativo |
+| 102350800 | DIPIRONA SÓDICA | EMS S/A | Ativo |
+| 102351295 | DIPIRONA MONOIDRATADA | EMS S/A | Ativo |
+| 102351337 | MIGRALIV | EMS S/A | Ativo |
+| 102351391 | DIPIRONA MONOIDRATADA | EMS S/A | Ativo |
+| 102351395 | DORICIN UNO | EMS S/A | Ativo |
+| 102351408 | DORSPAN COMPOSTO | EMS S/A | Ativo |
+| 102351436 | XAQUELIV | EMS S/A | Ativo |
+| 102980328 | ANA - FLEX | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
+| 103700028 | HIOSPAN COMPOSTO | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700179 | SEDALEX | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700307 | DIPIRONA SODICA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700470 | DIPIRONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700624 | ALIVDIP | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700630 | ALIVDIP | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700779 | DIPIRONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103700789 | DIPIRONA SODICA+CAFEINA ANIDRA+CITRATO DE ORFENADRINA | LABORATÓRIO TEUTO BRASILEIRO S/A | Ativo |
+| 103870018 | HYNALGIN | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103870023 | HYPOCINA COMPOSTA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103870076 | DIPIRONA MONOIDRATADA | HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTD | Ativo |
+| 103920101 | DORALEX | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 103920237 | DIPIRONA MONOIDRATADA | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810010 | DORFEBRIL | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810122 | SUALIV | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810133 | RELAXMED | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+| 104810162 | DIPIRONA MONOIDRATADA | 1FARMA INDUSTRIA FARMACEUTICA LTDA | Ativo |
+
+A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
 ## Considerações de Segurança
 

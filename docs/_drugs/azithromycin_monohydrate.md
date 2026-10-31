@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 102
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -53,7 +53,7 @@ Azithromycin Monohydrate é a forma mono-hidratada da azitromicina, um antibiót
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (ausência de previsões e estudos disponíveis) |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 18) |
-| Número de Registros | 0 |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | **Hold** |
 
 ---

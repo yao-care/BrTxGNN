@@ -5,7 +5,7 @@ layout: default
 title: Ondansetron Hydrochloride
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 487
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 |------|------|
 | Indicação Original | ANTIEMETICOS E ANTINAUSEANTES; ANTIEMÉTICOS E ANTINAUSEANTES; ANTAGONISTAS DA SEROTONINA (5-HT3) |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 19) |
-| Número de Registros | 0 |
+| Número de Registros | pelo menos 20 |
 
 ---
 

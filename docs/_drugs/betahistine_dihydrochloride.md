@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 125
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -53,7 +53,7 @@ O fármaco também **não possui registros** no mercado regulatório consultado,
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | N/A (ausência de previsão impede classificação) |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: pelo menos 20) |
-| Número de Registros | 0 |
+| Número de Registros | pelo menos 20 |
 | Decisão Recomendada | **Hold** |
 
 ---
