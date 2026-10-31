@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 672
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Vitamin A: nova indicação prevista, Deficiência congênita de protrombina (congenital prothrombin deficien… (nível de evidência L5). Indicação original: Distúrbio de deficiência vitamínica / deficiênc…"
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "radiation or chemically induced disorder"]
@@ -51,8 +51,8 @@ O modelo TxGNN (deep learning) prevê que pode ser eficaz para **deficiência co
 | Nova Indicação Prevista | Deficiência congênita de protrombina (congenital prothrombin deficiency) |
 | Pontuação de Previsão TxGNN | 0,9997 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 1 de 1) |
-| Número de Registros | 1 (ativos: 0) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 30) |
+| Número de Registros | 30 (ativos: 1) |
 | Decisão Recomendada | Hold |
 
 ---
@@ -96,7 +96,7 @@ As demais previsões (doença do metabolismo da biotina, malformação esofágic
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados para este relatório, não há registros ativos de vitamina A isolada na ANVISA, e o fármaco consta como não comercializado.
+
 
 ---
 
@@ -120,7 +120,7 @@ Para advertências e contraindicações em bula, consulte a bula do produto, poi
 
 **Justificativa:**
 - A indicação de maior pontuação (deficiência congênita de protrombina) é uma previsão puramente do modelo TxGNN (deep learning) (L5), sem ensaios, sem literatura e sem mecanismo plausível; a pontuação pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. A vitamina relevante para a protrombina é a vitamina K.
-- O fármaco não é comercializado no Brasil, e faltam os dados de bula da ANVISA, o que impede a triagem de segurança.
+- Faltam os dados de bula da ANVISA, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), que é uma lacuna bloqueante.

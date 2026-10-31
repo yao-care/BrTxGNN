@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 150
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Brigatinibe (BRIGATINIBE) é um inibidor de tirosina quinase ALK, originalmente 
 | Nova Indicação Prevista | **Nenhuma previsão disponível** |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | **L5** (sem previsão do modelo nem estudos associados) |
-| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 1 de 1) |
-| Número de Registros | 1 (ativos: 0) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
+| Número de Registros | 2 (ativos: 1) |
 | Decisão Recomendada | **Hold** |
 
 ---

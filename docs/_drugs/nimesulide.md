@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 470
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Nimesulide: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação de 0,99 ou mais) |
 | Usos conhecidos registrados para este medicamento | 0 |
 | Nível de evidência | Não aplicável |
-| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 2 de 2) |
-| Número de Registros | 2 (ativos: 0) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 61 de 142) |
+| Número de Registros | 142 (ativos: 61) |
 
 ## Usos conhecidos registrados para este medicamento
 

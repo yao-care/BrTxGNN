@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (uma revi
 | Nova Indicação Prevista | Enxaqueca (Migraine Disorder) |
 | Pontuação de Previsão TxGNN | 0,9947 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 1 de 1) |
-| Número de Registros | 1 (ativos: 0) |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 2 de 2) |
+| Número de Registros | 2 (ativos: 0) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

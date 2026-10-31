@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Isotretinoin: nova indicação prevista, Doença Renal Hipertensiva Maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Nova Indicação Prevista | Doença Renal Hipertensiva Maligna (malignant hypertensive renal disease) |
 | Pontuação de Previsão TxGNN | 0,9901 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 3 de 3) |
-| Número de Registros | 3 (ativos: 0) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 13 de 44) |
+| Número de Registros | 44 (ativos: 13) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?

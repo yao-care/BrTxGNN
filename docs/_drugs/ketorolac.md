@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 3
 monitor_inn: "Ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ketorolac: nova indicação prevista, Transtorno de cefaleia (headache disorder) (nível de evidência L1). Indicação original: Não consta nos dados locais"
 ---
 
@@ -50,8 +50,8 @@ atualmente com **16 ensaios clínicos** e **18 publicações** apoiando esta dir
 | Nova Indicação Prevista | Transtorno de cefaleia (headache disorder) |
 | Pontuação de Previsão TxGNN | 0,9943 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 1 de 1) |
-| Número de Registros | 1 (ativos: 0) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 52 de 76) |
+| Número de Registros | 76 (ativos: 52) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?

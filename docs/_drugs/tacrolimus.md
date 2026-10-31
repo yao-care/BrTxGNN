@@ -50,8 +50,8 @@ atualmente com **2 ensaios clínicos** e **20 publicações** relacionadas a est
 | Nova Indicação Prevista | Dermatite seborreica (seborrheic dermatitis) |
 | Pontuação de Previsão TxGNN | 0.9926 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 2 de 2) |
-| Número de Registros | 2 (ativos: 0) |
+| Situação no Mercado Brasileiro | Comercializado (registros ativos: 15 de 30) |
+| Número de Registros | 30 (ativos: 15) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 > Observação sobre o nível de evidência: o nível L1 foi atribuído pelo critério de avaliação dos dados compilados (ensaio de Fase 3 concluído, mais estudo de Fase 4 e literatura clínica). Pela regra estrita (≥2 RCTs de Fase 3 concluídos), há apenas um ensaio de Fase 3 nesta indicação; a classificação deve ser lida com cautela.

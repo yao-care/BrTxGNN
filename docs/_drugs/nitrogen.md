@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 475
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "nitrogen"
 predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]
 description: "Nitrogen: nova indicação prevista, 16q24.1 microdeletion syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -49,8 +49,8 @@ O modelo TxGNN prevê que pode ser eficaz para a **síndrome de microdeleção 1
 | Nova Indicação Prevista | 16q24.1 microdeletion syndrome |
 | Pontuação de Previsão TxGNN | 0.9973 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Não comercializado (sem registro) |
-| Número de Registros | 0 (ativos: 0) |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 1 de 1) |
+| Número de Registros | 1 (ativos: 0) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
