@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 602
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: nova indicação prevista, Dermatite seborreica (seborrheic dermatitis) (nível de evidência L1). Indicação original: Não consta nos dados locais"
@@ -50,8 +50,8 @@ atualmente com **2 ensaios clínicos** e **20 publicações** relacionadas a est
 | Nova Indicação Prevista | Dermatite seborreica (seborrheic dermatitis) |
 | Pontuação de Previsão TxGNN | 0.9926 |
 | Nível de Evidência | L1 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
-| Número de Registros | 2 (ativos: 1) |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 2 de 2) |
+| Número de Registros | 2 (ativos: 0) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 > Observação sobre o nível de evidência: o nível L1 foi atribuído pelo critério de avaliação dos dados compilados (ensaio de Fase 3 concluído, mais estudo de Fase 4 e literatura clínica). Pela regra estrita (≥2 RCTs de Fase 3 concluídos), há apenas um ensaio de Fase 3 nesta indicação; a classificação deve ser lida com cautela.
@@ -97,7 +97,7 @@ Consulte a bula para as advertências e contraindicações oficiais.
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Há um ensaio de Fase 3 concluído (n=120), um estudo de Fase 4 concluído (n=104) e um estudo clínico publicado de manutenção, todos diretamente voltados à dermatite seborreica facial com tacrolimo 0,1% pomada. Contudo, o tacrolimo não possui registro comercializado no Brasil e as preocupações de classe (malignidade, linfoma) exigem cautela.
+- Há um ensaio de Fase 3 concluído (n=120), um estudo de Fase 4 concluído (n=104) e um estudo clínico publicado de manutenção, todos diretamente voltados à dermatite seborreica facial com tacrolimo 0,1% pomada. Contudo, os registros do tacrolimo no Brasil estão cancelados (2 de 2) e as preocupações de classe (malignidade, linfoma) exigem cautela.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), atualmente ausente.

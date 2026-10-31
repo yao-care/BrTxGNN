@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 608
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tegaserod: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L4). Indicação original: Outros produtos para o aparelho digestivo e metabolismo"
 monitor_inn: "tegaserod"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -50,8 +50,8 @@ mas atualmente há **0 ensaios clínicos** e apenas **1 publicação** (uma revi
 | Nova Indicação Prevista | Enxaqueca (Migraine Disorder) |
 | Pontuação de Previsão TxGNN | 0,9947 |
 | Nível de Evidência | L5 |
-| Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 1) |
-| Número de Registros | 1 (ativos: 1) |
+| Situação no Mercado Brasileiro | Não comercializado (registros cancelados: 1 de 1) |
+| Número de Registros | 1 (ativos: 0) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
@@ -90,7 +90,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Decisão: Hold**
 
 **Justificativa:**
-A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica; não há ensaios clínicos e há uma única revisão geral. O medicamento está comercializado no Brasil, com 1 registro válido de 1, e o perfil de segurança sugerido (eventos cardiovasculares e cerebrovasculares) é particularmente preocupante em uma população com enxaqueca.
+A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica; não há ensaios clínicos e há uma única revisão geral. O registro do medicamento no Brasil está cancelado (1 de 1), e o perfil de segurança sugerido (eventos cardiovasculares e cerebrovasculares) é particularmente preocupante em uma população com enxaqueca.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança
