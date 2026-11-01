@@ -1,15 +1,27 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-31T21:08:48.874151+00:00",
+  "fetched_at": "2026-11-01T04:55:27.790405+00:00",
   "total_fetched": 101,
-  "unique_count": 99,
-  "health_related_count": 44,
+  "unique_count": 100,
+  "health_related_count": 39,
   "news": [
+    {
+      "id": "4c92dfcfeb04",
+      "title": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon - Metrópoles",
+      "published": "2026-10-31T19:37:00+00:00",
+      "summary": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon&nbsp;&nbsp;MetrópolesCientistas descobrem como toxina de bactéria intestinal pode favorecer câncer de cólon&nbsp;&nbsp;Meio News",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHk5T0M1Q0FwNS01XzJPTmw5RXR6TEt0V3BWanB2bFBtMkNyUC1jQzRhX0lyRXZOeGU5OHk5U2tIbWdoVXNKbWhlRGFQdGtjbkg3RHBsQVFoS3RsVUh5RWotbXRNVFVMRk56MDNoUUFOWXNCVzVzRTNBekV4ckNYVWhwRXMwTEp6Q0hSSmMzYlQ5dHZub0I3VFByNUtGTVF6VmRHOWhOMA?oc=5"
+        }
+      ]
+    },
     {
       "id": "01c589205f64",
       "title": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos - G1",
       "published": "2026-10-31T19:35:25+00:00",
-      "summary": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos&nbsp;&nbsp;G1Rio de Janeiro registra 74 casos de Mpox em dois meses&nbsp;&nbsp;CNN BrasilPrefeitura do RJ investiga nova morte por suspeita de Mpox&nbsp;&nbsp;R7Rio tem alta nos casos de Mpox em setembro e outubro&nbsp;&nbsp;SBT NewsCasos de Mpox disparam no Rio e chegam a sete vezes o registrado no ano passado em apenas dois meses; capital enfrenta falta de vacinas contra a doença&nbsp;&nbsp;Tempo Real",
+      "summary": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos&nbsp;&nbsp;G1Mpox: casos disparam no Rio, e governo anuncia reforço de vacinas&nbsp;&nbsp;VEJARio de Janeiro registra 74 casos de Mpox em dois meses&nbsp;&nbsp;CNN BrasilPrefeitura do RJ investiga nova morte por suspeita de Mpox&nbsp;&nbsp;R7Rio tem alta nos casos de Mpox em setembro e outubro&nbsp;&nbsp;SBT News",
       "sources": [
         {
           "name": "G1",
@@ -30,10 +42,22 @@
       ]
     },
     {
-      "id": "e5aec5cfeda4",
-      "title": "Mostratec reconhece anos de pesquisa de jovens estudantes - abc+",
-      "published": "2026-10-31T15:38:07+00:00",
-      "summary": "Mostratec reconhece anos de pesquisa de jovens estudantes&nbsp;&nbsp;abc+",
+      "id": "f7c00f47bdee",
+      "title": "Vacina ACWY: cariocas fazem filas em postos e esgotam imunizante no Rio - Extra online",
+      "published": "2026-10-31T16:55:46+00:00",
+      "summary": "Vacina ACWY: cariocas fazem filas em postos e esgotam imunizante no Rio&nbsp;&nbsp;Extra onlineMeningocócica ACWY: último dia da campanha no Rio tem filas e vacinas esgotadas&nbsp;&nbsp;G1Cobertura da vacina contra meningite é de apenas 67,1% entre adolescentes&nbsp;&nbsp;MetrópolesGoverno Lula disponibiliza painel para monitorar vacinação contra a meningite&nbsp;&nbsp;CartaCapitalEm 25 dias, Rio vacina mais de 410 mil pessoas contra a meningite&nbsp;&nbsp;Prefeitura da Cidade do Rio de Janeiro",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3FhTXplZGo0ZjVsejkybkRrbDAyYUhUTVpfd1lYZEdMS051MjR6TGkzaFA0UHpCczJNcmhXM2R3TGNLcGNCX1ZGaktiQVFqQ2Fqb0Q0cTZNd3d2YllvdnZjazhUYWc1VnZ1aGVwME45RVdVWHJYNVE1ekNKRGM0TGNBVUZidGhjMnYxTzF0dnpRTFM3R2Q0cUVfSExSTDhoSlpLUkxTSXFRXzQtcHdncGVhN0IxRG03TU5OZtIBywFBVV95cUxOTkdkaEs3SVQ2enBtWWhsSkxpSlBIbzd0NUxJVG1wdlYtVXBtX3Z4dGkycWFuZnpaRDhPQ1FRREg0QlJxd2FDOWF4LXhUeTFYdG5GSTdseEVUVUZuN05wMDB5SDlDWTQ4U3hFaG5zaEFzVEt3QVBSdmNjc1JOX014WThLNjR0ODl2WmVob1pXajdoRVdrZ3ZHMnNvVlBNWlVkLXBDTlh3czVQTUZYLS14VzU2a0xiRElTY3hUY01ESnhMTXNYQlZhQlFUaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ac8fe06ddc82",
+      "title": "Mostratec reconhece anos de pesquisa de jovens estudantes; veja a lista de premiados - abc+",
+      "published": "2026-10-31T15:38:00+00:00",
+      "summary": "Mostratec reconhece anos de pesquisa de jovens estudantes; veja a lista de premiados&nbsp;&nbsp;abc+",
       "sources": [
         {
           "name": "abc+",
@@ -45,7 +69,7 @@
       "id": "e83a9db5ac28",
       "title": "O teste simples de fitness que prevê o seu risco de morte - G1",
       "published": "2026-10-31T15:17:59+00:00",
-      "summary": "O teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;G1Teste de 1 minuto pode revelar sinais de risco para a saúde do coração&nbsp;&nbsp;Diário do Centro do MundoTestes de recuperação de pulso após exercício e o que diz sobre saúde&nbsp;&nbsp;PeriskopiTeste de 1 minuto pode indicar maior risco de morte; veja como fazer&nbsp;&nbsp;Exame",
+      "summary": "O teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;G1Teste de 1 minuto pode revelar sinais de risco para a saúde do coração&nbsp;&nbsp;Diário do Centro do MundoTestes de recuperação de pulso após exercício e o que diz sobre saúde&nbsp;&nbsp;PeriskopiTeste de 1 minuto pode indicar maior risco de morte; veja como fazer&nbsp;&nbsp;ExameTeste de recuperação cardíaca pode indicar risco à saúde&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
           "name": "G1",
@@ -57,11 +81,35 @@
       "id": "be773235238d",
       "title": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje - UOL",
       "published": "2026-10-31T15:00:00+00:00",
-      "summary": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje&nbsp;&nbsp;UOLHábitos saudáveis podem ajudar a reduzir risco de Alzheimer&nbsp;&nbsp;TV JaguariO que pode fazer para se proteger contra a doença de Alzheimer?&nbsp;&nbsp;TRT Português",
+      "summary": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje&nbsp;&nbsp;UOLNovo alerta da OMS: Até 45% dos casos de demência podem ser evitados antes dos primeiros sintomas&nbsp;&nbsp;Catraca LivreColesterol alto passa a ser considerado fator de risco para demência, afirma comissão científica&nbsp;&nbsp;Tua SaúdeHábitos saudáveis podem ajudar a reduzir risco de Alzheimer&nbsp;&nbsp;TV JaguariO que pode fazer para se proteger contra a doença de Alzheimer?&nbsp;&nbsp;TRT Português",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYk84SlJuLUFNQzVlUmd6RGo2TjJHNnNMbG9NUmZ3RmIyTlFTYmFXU2RxR1BzQmVEcXdjOXFCVzQzTlVlZnl6a0Z1QVJyZllCZFljMnZUbWx3UDRhdTEwMjFaVjdvaFg1ZTF2VUVJZFg5a0JRM2FIR1NpUFBwQ0dWZnlzSk5mYURCbmRHZXZwdmNhOFl3WXY5anhPUThOMGhfYUZQSFdzMHk2dXlzREY5bHc5cENSaHFfemJRa3ZmTG4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc9128b02504",
+      "title": "Pesquisas indicam que evolução elevou risco moderno de doenças autoimunes - Folha de S.Paulo",
+      "published": "2026-10-31T15:00:00+00:00",
+      "summary": "Pesquisas indicam que evolução elevou risco moderno de doenças autoimunes&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYldLSU9FSk1WdnIwRllZbVlmN3ZuVGxLTXR5Wk5OcmtaanVpeUxzalhwWEd0ZDI5dmhJUlpqSmtlV0M5QzdDMlhMZDRGanhHWmFaT2kzLU1FV3BmTnV3MXR4ZVNuWXg5WldmTHd3UE9PbzZXeThhOW5TaWpVcWNEXzB1RTQ0Rm1TMGZkYldlQmE0dkx6Z01XUk5TNXlGbU9feVNuck15MUh4TTFOZFZyRDA4V2xmXzVPNm5wdFd3N3dob2lEdzZjaG5VYWdvLXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b941ee32a67c",
+      "title": "Saúde: o teste simples de fitness que prevê o seu risco de morte - BBC",
+      "published": "2026-10-31T14:58:02+00:00",
+      "summary": "Saúde: o teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BSTdqNzVOck8xMk5BZTBRUE9vSndJeHowSnhzNVhqMFpGUGFmVC1yUGpvY2lwT2g3NFZxT21YYkZxY0hkcUprbm5XSmpQU011VEZOd3IzdzhSQThHTkpBTHcxVdIBaEFVX3lxTE1NUUItVjVyOGh6aXVyVkR0SXlCR1MwbWEyN3pDc2t5cndUUHZsSUVWN1BjMXhqR2NGYjdEa1pMNTllZmNZNkVLRHR1djhpOS1leWR6MGI2a3ZyMmZoVHh1UmY5NjJKTElr?oc=5"
         }
       ]
     },
@@ -78,14 +126,26 @@
       ]
     },
     {
-      "id": "777b7a417b59",
-      "title": "Meningocócica ACWY: último dia da campanha no Rio tem filas e vacinas esgotadas - G1",
-      "published": "2026-10-31T13:57:50+00:00",
-      "summary": "Meningocócica ACWY: último dia da campanha no Rio tem filas e vacinas esgotadas&nbsp;&nbsp;G1Cobertura da vacina contra meningite é de apenas 67,1% entre adolescentes&nbsp;&nbsp;MetrópolesGoverno Lula disponibiliza painel para monitorar vacinação contra a meningite&nbsp;&nbsp;CartaCapitalEm 25 dias, Rio vacina mais de 410 mil pessoas contra a meningite&nbsp;&nbsp;Prefeitura da Cidade do Rio de JaneiroVacina ACWY até os 59 anos: quem precisa tomar e até quando vai a repescagem&nbsp;&nbsp;Terra",
+      "id": "a6ccbc0d7064",
+      "title": "Estudos sugerem que Mounjaro e Ozempic podem ajudar na longevidade - Gazeta do Povo",
+      "published": "2026-10-31T13:00:00+00:00",
+      "summary": "Estudos sugerem que Mounjaro e Ozempic podem ajudar na longevidade&nbsp;&nbsp;Gazeta do Povo",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV21qT3BtUy1IZl9qemtUOVBnLTkyeHZydUtXRlhHUWZCZi1RNmJGWUZjMmZXUE56YWMtLWh1WHZCdUFNMmJ2UHd1Q1NQNG40ZjhnT3ZwOVczMFl0bFY3REx1Y0hOMEw1b3dzVXZ5MFp3VXhDOVpOdlR5Q3M5MDNBa3hlZ1FReEt5WVZlOENER3NMS3BpREtFWm1HaEpWOWlJNlJXV2JBSURNc3JXWF9KdWx5Y0pSbHdMcjdJY2pwUUJaZzN20gHTAUFVX3lxTE9fNXpxUUtfNHFuRWdMZVNwMU5ONmtqd01pQ1NkSUxoNm1MZlVYU21YdlVXVnFLVjIxdThpT0ZtOHBhTnVsWmRaRzBhV0ZPcmJxOWU3anhveERaUVFzN1J4LVZOVUg4ak1QV25qelM5Y3hFeFdTTFdKSkQ1TER5Y1ZDcGZXUE1hWi14YnVpWENVSVNnTEhWSVdNSmRHSmtuRmlOTURPMVhOZGhnRnFQVGRPaXM3TVNuN1FKa0J1dWhyOWpQejdEMjdvd2p5OURPUjk5S0E?oc=5"
+          "name": "Gazeta do Povo",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3U2YWd3NDNreTlPSzRmVDZaRVVpMk1VbTBlMk5aNHgyNU1rOFFyeVI3S1Ayb0VPblIwRWE3SlhZaW1HT2pFalR6bU1UTHNZZGZ0ZlRwYlVhc3k2RkJmY0JURXhPTjVxNmpCb2N4amQtZEFSdTJ5d2JDdjF2ZU9sa00tTVNMMk9DVjA1Zi04QU5GeDk1WjVF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57d43bae358c",
+      "title": "Nasa entra no clima do Halloween com Sol em forma de abóbora e nebulosas fantasmagóricas; veja - O GLOBO",
+      "published": "2026-10-31T12:42:06+00:00",
+      "summary": "Nasa entra no clima do Halloween com Sol em forma de abóbora e nebulosas fantasmagóricas; veja&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbFc4SnhvWFA0TkN1dWRSbnczSnVoQ2NOaVhGVHZ0V3QzV2RVY1dpRy1rWkp1TnhqaHVDVm9CaUJaVUo3VHBPcm13V1lPNlNJWXl3U1Y2WWw3MndwNWNjYTZBZlFGZkVTV3dPMzk3ckVDVUM1ZEN2QzNhbkhOUzNTbFJrYU1fdDBmMDJzc1o0enh3VFp3V2doWThoWGJZM3J1QUs5WFdaWXZYUVJnY1pvdEY5dWdKRXN6cHFpQXVlSE93MmVqajJua3lZX1l4d3VTcEV0WTBtaWNkR3BpUjdOUlp2amZ4aTN6NXptclFaSHkyYUpqNG9uN9IBhwJBVV95cUxNZ3A2ek5IbDh5VGM3ZHl3LVItUnBnbTZuVS1wbFhKb3FFTTFIaTZxdHhLd3Y3VGNNdkxUbHQ4RVZNdVhpNWNRSzQ3LTdlR2RxM2Y4MDJCSW9jd1RHaXh6Z2o1cEthdWNTdFpIdzRyam81bmp1Rm1mUGNWOXFtNHd1ZkJPTkVqQ3NnaTUtX2xtTTVvRjV2ejhyd3dxMUVfenp4dExlMFlqVERNQjRvZDJQYVdNTjBBSFYwcDQ1UTVSRW5xRmNVZi1zZnQxOUl1eV9ndjRqSVhRSDZxXzNlbWhmbU9wVU1CRXNvWUhQYi1ReVp6RFoyOHhmOXNwNUdtWHVjRE5Sbm5vQQ?oc=5"
         }
       ]
     },
@@ -98,6 +158,18 @@
         {
           "name": "Poder360",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEhROHpkVnJ3M1h5NnJPWFduLW80THhwbm5WV0VwTVVQZHNnaEZoZE41VEZaSFpNNjMwQ2dOdWRXWklaeEZWcmtlSW1TRnlyMnBsTFpoMFJ0TXNVS2xfV3YtRHdZMEhaazNyUDFOdTBxSXpfdXFYQUZ6MkxvWjlVSkluc2tnUjBVWWozWFVNMDBENDltOVphSDEtUjY3VTBTWFVCY0l2aTZELTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12c5953344f1",
+      "title": "Combinação de remédios pode melhorar controle da hipertensão - Poder360",
+      "published": "2026-10-31T11:34:19+00:00",
+      "summary": "Combinação de remédios pode melhorar controle da hipertensão&nbsp;&nbsp;Poder360Baixa adesão ao tratamento medicamentoso dificulta combate à hipertensão&nbsp;&nbsp;Folha de S.PauloHipertensão atinge quase 24% dos adultos brasileiros e pode não apresentar sintomas&nbsp;&nbsp;Agora LitoralControlar a pressão arterial de forma eficaz poderia prevenir mais de 500.000 mortes por ano.&nbsp;&nbsp;Vietnam.vnAVC, sintomas, prevenção, diagnóstico e tratamento&nbsp;&nbsp;Revista Newslab",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUV5dmJBN3FFYzNFUXFtb0lZRW1UT3lUYm1RSnlfa0ZrUS05d28tY2FhLW5JSjNYbEdVSi1NaGFyeXQ1TEtQdUpRbGswa2tjMFJaYmRIaEVZaDhPVEZsaVlXT2x2OG5Xc0N4WHI5WmhobDNZaWhRLW5MaXZkRUtHLTliQlJxcV8xWWJTYTNfWDB6Sm85Nlk4cGt1akcxd1hzUTRj?oc=5"
         }
       ]
     },
@@ -150,6 +222,18 @@
       ]
     },
     {
+      "id": "52174e71234e",
+      "title": "Mosquitos Aedes aegypti contaminados com bactéria que combate vírus da dengue são soltos no Paraná; entenda - G1",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "Mosquitos Aedes aegypti contaminados com bactéria que combate vírus da dengue são soltos no Paraná; entenda&nbsp;&nbsp;G1Prefeitura expande cobertura do Método Wolbachia para mais 34 bairros no município&nbsp;&nbsp;Portal da Prefeitura de UberlândiaCrato implementa tecnologia de controle e prevenção ao mosquito Aedes Aegypti em nove bairros&nbsp;&nbsp;O POVOProcon-LD alerta para o golpe do falso aluguel ao planejar as férias de fim de ano&nbsp;&nbsp;Blog Londrinasoltura dos mosquitos em Contagem",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTGRlSF8yVE56SnNXd21yYm0zRU5PZUlPUU9sTGZvWUJ0cG9YU083N1ZkZVIzTEVIdk5qSE1FaFZSc3NFMUZ0aG8xSkF2M2JyMFpPcDFWeEZkMkVHYXN2WjlrUVlRWWwxUDZJTEcxNDBGV3BXbzQ4NjdhM0h3OWpDNU5BZ2tBeUV3eDZfTGxtMFMxN2RpcE1JUFNqN2pOblhkbG9tSlNxeWFob2txSDhUTHJNMzk3Qko4Y0F6ZFc5LXFjNXd3UVlsZXRrTF9laVVZWE5JeTRrTFVnS1BVVVJWTlQxVE55OXFQYmxFemlfNHBuU2Ywb1ZqdWJLbFFGQVVESWJR0gGSAkFVX3lxTFA1Q1FKNnZHdXRGaUE4SXY4M3FmVnE4Z2dzTTdBVVlOQkNxcFE0MmNQZEFpUkt5QXhhVjh5QkFzbGNhVlh5YjFTSEh2OFJLSmlQekRLRFRGcktXSzl0RWhxcnhWbXl4WmtQQjE2cGdQX1FvTFpVTjY1ZTN3cWE4eUdsdzNWNzgxWHVHYlFhcEtrX25abTlTLUtEWmRtNWp3SE9xeEdfVW1WNC1jZTEzWTVCQzJPaWNoVnh6aFptUFBKclNJSXlUTlFtV3dIekVrWWZHT2xGN2dIOEphT0ZXRnZiYXlYN2ljVG5JTnVaTFZINVgzbHBHcVhBdlRiSUlPa292Ym5ES3l1M0xjYUNfclhtY1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f44b6f6f6d0c",
       "title": "A psicologia explica: “Pessoas que voltam das férias sem postar nenhuma foto nas redes sociais podem não estar apenas sendo discretas, mas aproveitando os momentos sem sentir necessidade de aprovação dos outros” - Super Rádio Tupi",
       "published": "2026-10-31T03:27:46+00:00",
@@ -158,6 +242,18 @@
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZ1p2LTB4MlNTcDZUYU1yTUV4WmxDWTNtT09WSEVzYTM2VVYwcUpvcHZFb2o4MnNrSXl4S1FVUWhmeW1GYUk5amFwODMxdUN6WmdwcVJiWW5MU09LSW1Ncm9jcW5kdTFJUHNSaXBDdDBqbWlxRnAyc1pIS25tc3ptUmNncDZRYlctSDlnSjBGeWl2NFVHRnloZGFNSnA3MGpzWmM5RFRJQUlqaXNoTmxoYkkwV1VhbFRHaE5pN3NFYm5mVjdXR2ZId2lJZHVaWE1zcl8xQ2hPV0JrYVVPeUNkOEQ5R2pLS3hVYy1FdHB4SklrSUlZX3ZWcEZ3dURzREUxLVNfTkZVWldfeUdWaWpXTFEyc0NxUjVsUGREd290RnE0a0Y5UzFGVG5ZQmZNLV9YNEE3WlVPYk9odUVYVVI2VEVaNVhiZHp3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9b53b217253c",
+      "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - ICL Notícias",
+      "published": "2026-10-31T01:01:08+00:00",
+      "summary": "SUS detecta quase 10 mil testes positivos para HPV de alto risco&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5"
         }
       ]
     },
@@ -174,14 +270,14 @@
       ]
     },
     {
-      "id": "5424f293cabd",
-      "title": "Ave gigante da Era do Gelo pode nunca ter existido, segundo novo estudo - Superinteressante",
-      "published": "2026-10-30T22:18:00+00:00",
-      "summary": "Ave gigante da Era do Gelo pode nunca ter existido, segundo novo estudo&nbsp;&nbsp;Superinteressante",
+      "id": "3e5e64e3d4d6",
+      "title": "Paula Gibi convive com câncer há 13 anos e encontra no humor uma forma de enfrentar a doença - OBemdito",
+      "published": "2026-10-30T21:43:00+00:00",
+      "summary": "Paula Gibi convive com câncer há 13 anos e encontra no humor uma forma de enfrentar a doença&nbsp;&nbsp;OBemdito",
       "sources": [
         {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObU5hNmM4SFdPa1JpQWg3ckJIQjdYRUFTQXBzMXYtdjU5YWZqbnFYNDd3VnNNU0VkSVlXTEZ3Z2FXMWtNRW9kNnJiR01YM2J2by1vOWlZVnFTNXlNbmx1RmtWamV0em1FWEt4dXpYd1hkMWZmSVBadUhjQ2lxZFZzSFZWNDRfbHZwZnF3NjcyeFo4WjNJcVZSZktfRVgyS2htTS1mR1BHZjJBQQ?oc=5"
+          "name": "OBemdito",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95ekd6dDMyUnFScDRPMndLVHJhbkxreUptVmt0bFRwdld4UXJDeWx5SjNIUzk4Sl9hSGxGTkVuU2c2SjRLUDVMcEVhenhRcHNzbUlZaEI3bkV3X3dYdFBHYnJkR3R4d0NLQUdrZ0pyWVhYdTh1X1lrdXNn0gF_QVVfeXFMUHA2MjJfMEM0OTVGOWp6bzZyOTFtMGNDdzRkT1JEUG9aelFYZUh6eHA1NjVJelZMVGdmZ1BjMDB2dDJGZnlXUm92RkxMMnd6clktaUs0SHhaQ0c4aDdTRFZjZnlZa1FqMnVTRlRHcGxjT1pvZUs1Z25hMEZVX0lZSQ?oc=5"
         }
       ]
     },
@@ -210,42 +306,6 @@
       ]
     },
     {
-      "id": "f23e6b240d69",
-      "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - Agência Brasil",
-      "published": "2026-10-30T19:30:00+00:00",
-      "summary": "SUS detecta quase 10 mil testes positivos para HPV de alto risco&nbsp;&nbsp;Agência BrasilBoa Vista vai oferecer novo teste para detecção precoce do câncer do colo do útero&nbsp;&nbsp;G1Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país&nbsp;&nbsp;Governo FederalBahia inicia oferta de exame que identifica HPV antes de lesões associadas ao câncer&nbsp;&nbsp;Bahia NotíciasCeará realiza 1,1 mil testes para detecção precoce do câncer do colo do útero&nbsp",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnlfUklzZ0JpZVpRdllPTzZIdDUwOUdEazNYOGJFbHl4NUlKUFpfTllJMHRobUtZeldZdWlERGQ1cDkwTFNkcDFnQkViQ2swVmFDTlpKUmRfR0RqR0JMdkxIRXZNelo5MDhNOFVpUnM4eVBJV0EzV2diamxtWjRxRXMxN0h4S2w3VXJCdE5hYTB4czl3Q1hUYmxFcUkyWF9ja2lrY0stczFsdkZ5V0FhUUpuNlk5cGtpaG13?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bcf5d12d4051",
-      "title": "Câncer de próstata: mais de 200 homens por dia descobrem a doença; saiba detectar problema - R7",
-      "published": "2026-10-30T19:28:35+00:00",
-      "summary": "Câncer de próstata: mais de 200 homens por dia descobrem a doença; saiba detectar problema&nbsp;&nbsp;R7Saúde estende Outubro Rosa e alerta para os cuidados do homem no Novembro Azul&nbsp;&nbsp;TásabendoCâncer de próstata: campanha alerta para exames e diagnóstico precoce&nbsp;&nbsp;BandCompromisso diário com a saúde: Outubro Rosa e Novembro Azul&nbsp;&nbsp;Portal ArautoMauá abre Novembro Azul com ação de saúde neste domingo&nbsp;&nbsp;Portal ABC do ABC",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjRNdHFmd1ktd3FQMWlIWlE4dllDZEhCSjQ0bTBnT2xVRXN4c0t3ZVdhdjFZMEE4dTlmS2QwYm9wTTIwOGFHU1B2dU9KYmtwWC05QjVWMHR5Wm9Ld0pzLVRfcnh2cXdvSnQ5SkFSNEx6c1pJSGNVQjRaQlRfRkh2dGhreGJHdV9NbWFfN3BOSGhyb2F0TW5ubmFpNmo0c2xkRnJrQ25Nb2ZNUS10QmIzajJ3V1pvQmp4UDlNNzhGdWNkc3dxa1J2WkRYTWI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f607a490603",
-      "title": "Enfermeira de Iúna enfrenta câncer e cria vaquinha para arrecadar R$ 80 mil para cirurgia - Aqui Notícias",
-      "published": "2026-10-30T19:20:22+00:00",
-      "summary": "Enfermeira de Iúna enfrenta câncer e cria vaquinha para arrecadar R$ 80 mil para cirurgia&nbsp;&nbsp;Aqui Notícias",
-      "sources": [
-        {
-          "name": "Aqui Notícias",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWcwWTFFTnBoZmc5Unk4NGtfVGUwRmZVeEh2QVpaclBES3I4cUVkWWlVYnlCekpsLXpGWkRJQldnazVheXpYTldmTF82Z2JpMjBzRDlKOEYwMzhTNmlwNjFFN1V4UkN5cGdRa1lVd0ppTWJYUzVSMi1mVEl4bWN2SlNKV0ZpTDU1RUNxNnJ5VGxDRUVOSGp5R2NhdGVDNnBCTjFEbkhmWkZtY1Uxek44TDY2MTBMYjBnZjV5MVFYSQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ad6751198186",
       "title": "7 hábitos cientificamente comprovados para reduzir a gordura abdominal - UOL",
       "published": "2026-10-30T18:36:25+00:00",
@@ -254,18 +314,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUkhOSUNPY3FPMzdULUtOU05Yd1hlQl93OU4zTzhuOGNySGR6WFVkWlM4MGZqWkRJdl9vLVFWTE5rY0JzbTVQSHVRa2NBQzJjN1VjMjZ3eGp4Y3ZHYjdhQk05NDZBYkZTdkNOWGh2Z0FmTm5KVjZsME1tdVpfZ0hXVmxleUVMN3BKQ1MwLWJ4V1BwVjJ3dXR3TkEwMGtwU0NNbGNmcXRJWWl2RjIxRDE2UlFwYlVKNEN2N2lFWl9UcEZDVWJLdzlmdHpIeHpHTWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ef59dbca179",
-      "title": "Sair para caminhar em vez de ir à academia é ótimo, mas só funciona se a caminhada for feita a 5 km/h e com certa regularidade - Terra",
-      "published": "2026-10-30T18:12:00+00:00",
-      "summary": "Sair para caminhar em vez de ir à academia é ótimo, mas só funciona se a caminhada for feita a 5 km/h e com certa regularidade&nbsp;&nbsp;TerraCom apenas 1.000 passos por dia, o risco cardiovascular já começa a cair, e o efeito vai somando&nbsp;&nbsp;Tua SaúdeQuantos minutos por semana de atividade aeróbica são recomendados e por quê?&nbsp;&nbsp;Catraca LivreTrinta minutos de caminhada por dia são suficientes para melhorar saúde, diz estudo&nbsp;&nbsp;G1Caminhar em vez de ir à academia é uma óti",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNMlR5M1ZNdnNsZ2UyUjhGWXhzVk1XRTB1M0ZJOGpKV2dla0twRFFYUXRUOU5mQVZTWEFwd3pjWW9ySVZVVkJETm50eWdTaXVmZEx1alQzY1lybFFxTEVhVzFrYW9uNzVibUxFNmhrVFEzR0lTQWtBbjluQndXMURZSUVFd05mdUQ2RFM3SDVqb3hpM2xnVzZkckVyYUZOS1E4ajRCUUxrZzdobzV3UHp3NzFmTjBCN0ttcDhaQVdFZllyQkxSSGVfNjFvMTlXVk5EUTRHR0FlZmpOOGNxNFRhVUF3U1RVb25tWUhRejF5bWIxLWMwdDlqR2FCbEJIUGx5RmdBTEpLUkZxUE5jQXJXamZmdHFLQk1rRklDWFhoQ2xSQ1dibEM0?oc=5"
         }
       ]
     },
@@ -294,22 +342,10 @@
       ]
     },
     {
-      "id": "7ad546e15d30",
-      "title": "Apenas 1,47% dos municípios cumprem meta de vacinação contra gripe - Folha de S.Paulo",
-      "published": "2026-10-30T16:00:00+00:00",
-      "summary": "Apenas 1,47% dos municípios cumprem meta de vacinação contra gripe&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWIwUi1Vc3F4R2RWcWREUC03SHhjcXZOUGphRzZZaEVNbVNNazlCMGNXYVdHQkRySWlvYXZvWWhvT2J0TXQ3QzhZalpoOHdURWl0ZVU1MjJLd3d1cTdJSGZ6TExBUV9lZGYzT0ozN2lxdGhNOXRoVGFUR1RnU3FfZ2YwbGpyZGpWMExubzVkTG5PcFUyMGxzUkFEN3gxcmFJS3BhX19UQi1QTG1fRFdnS3phV1NvdjU3NU41N3NsSEQtNEk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7a6dcb91bfa1",
       "title": "Vacina contra câncer de pâncreas gera resposta imune em 99% dos pacientes - Metrópoles",
       "published": "2026-10-30T15:42:00+00:00",
-      "summary": "Vacina contra câncer de pâncreas gera resposta imune em 99% dos pacientes&nbsp;&nbsp;MetrópolesCâncer de pâncreas: vacina experimental ativa defesas do organismo em quase 100% dos pacientes&nbsp;&nbsp;O GLOBOVacina experimental para cancro do pâncreas mostra em ensaio clínico que gera resposta imune a gene com mutações&nbsp;&nbsp;TV EuropaVacina experimental apresenta resultados promissores no combate ao câncer de pâncreas&nbsp;&nbsp;Jornal OpçãoVacina experimental contra câncer de pâncreas ativ",
+      "summary": "Vacina contra câncer de pâncreas gera resposta imune em 99% dos pacientes&nbsp;&nbsp;MetrópolesCâncer de pâncreas: vacina experimental ativa defesas do organismo em quase 100% dos pacientes&nbsp;&nbsp;O GLOBOVacina experimental apresenta resultados promissores no combate ao câncer de pâncreas&nbsp;&nbsp;Jornal OpçãoVacina experimental contra câncer de pâncreas ativa células T em 98,9%&nbsp;&nbsp;Afya | HomeVacina contra câncer de pâncreas ativa defesa do organismo em 99% dos pacientes em estudo&",
       "sources": [
         {
           "name": "Metrópoles",
@@ -318,22 +354,10 @@
       ]
     },
     {
-      "id": "1fb44a7f7d73",
-      "title": "Pesquisa identifica hortaliças não convencionais com potencial de adaptação às mudanças climáticas no RS - Brasil de Fato",
-      "published": "2026-10-30T15:41:00+00:00",
-      "summary": "Pesquisa identifica hortaliças não convencionais com potencial de adaptação às mudanças climáticas no RS&nbsp;&nbsp;Brasil de Fato",
-      "sources": [
-        {
-          "name": "Brasil de Fato",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONFM1ZVFWMmJ2VzAtWGFEY01Zck9HRllacFROWmtiUmJIeTRJUEQwX3EzdzhSdnNndVNzMktVZURyenIxaHR4NkNYdVRwaFNac1ZJeGlYckpxNjVOclhabWpZV2xwN3JxUHdhdTVjSGRiU3F2RzlTSzQ4elN0U1UzVnFzWFFVLXdGakNWTUJteEl6ZFRFSnctMUprWjNCZnYwUTVfenJjRVE0Nmk2V0pFNVhnWFBTVks1blUtbHEzZEh3WHFOSkFiM3BNZEwtSERGTTM1aWJWanRpaFRyMFhmZ09R?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d247b5583347",
       "title": "Exercício físico em excesso pode afetar a química do cérebro, diz estudo - CNN Brasil",
       "published": "2026-10-30T14:47:13+00:00",
-      "summary": "Exercício físico em excesso pode afetar a química do cérebro, diz estudo&nbsp;&nbsp;CNN BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Exercício físico em excesso pode afetar a química do cérebro, diz estudo&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -369,35 +393,11 @@
       "id": "b133d4d8ea4a",
       "title": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa - UOL",
       "published": "2026-10-30T12:33:00+00:00",
-      "summary": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa&nbsp;&nbsp;UOLMenopausa sem tabu: saúde física, mental e prevenção – Saúde Sem Tabu #64&nbsp;&nbsp;Portal Drauzio VarellaMenopausa: 7 sinais que merecem atenção e avaliação médica&nbsp;&nbsp;G1Fogacho não é frescura: o que o calorão na menopausa revela sobre a saúde da mulher&nbsp;&nbsp;VEJAPerimenopausa e Menopausa no Brasil: desafios no diagnóstico, acolhimento e políticas públicas&nbsp;&nbsp;Senado",
+      "summary": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa&nbsp;&nbsp;UOLMenopausa: 7 sinais que merecem atenção e avaliação médica&nbsp;&nbsp;G1Fogacho não é frescura: o que o calorão na menopausa revela sobre a saúde da mulher&nbsp;&nbsp;VEJAPerimenopausa e Menopausa no Brasil: desafios no diagnóstico, acolhimento e políticas públicas&nbsp;&nbsp;SenadoMenopausa transforma a pele: por que fazer os mesmos procedimentos de antes pode não funcionar&nbsp;&nbsp;Estadão Blue Studio",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTWtQa042OUMwT1BnLW1TdFdNQ0JVNlNhVjlnYWJvX2RwR0ZWU3dnelV2Z3dvXzlYMUw1UEs3YXdWNjJNbXRHT19JMmRiUEpCdjBBLVZrVllabW1YSUZfUWpTVHpKVVU2QTdaZmNHdk5WSE13TmxxWWhyczdJajhrcVp2SndqdllEdWdneXpxMkI5VW83d01fUFNsXzhGWk1kNm5iR0dNRkhrbElteUo1YWFCMnRCSUhMWkZqYXVQcFFsSnFNajMtMjdiOXpOcElHRXQ2cTNBbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1fe481602c58",
-      "title": "'Enxaqueca do sextou': por que a dor pode surgir bem na hora do descanso - UOL",
-      "published": "2026-10-30T12:30:00+00:00",
-      "summary": "'Enxaqueca do sextou': por que a dor pode surgir bem na hora do descanso&nbsp;&nbsp;UOLTem crises de enxaqueca frequentes? Conheça os três principais fatores ocultos que pioram a dor&nbsp;&nbsp;Bons FluidosDor de cabeça que não passa? Médico alerta que enxaqueca pode piorar com uso excessivo de analgésicos&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYXJkWWR4X3NjamlJWjJoYUVDVUFQMVdRZjBHb3Rqek1ZYVgtRFRmNTZ6VzBtNDYxMXpXX0YwS3lpYjFtTk0zc21JdTFvNTlYY1lKU2N1TUZWcmtTZGtqSlpGVGNfeTVXOC0tSENYbFlNNjVOeXI0OXZqck8wMS1aQnNnVHJsaFVfT3ExTTNkZnQ2VFN6aWFzYmhaVklXWGZKaElSbmZ2X25aMHcwVlRQX2NzaWVWNmJ6R2xua3FTTk9MUmxZaXJvNTlOOVViZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25ee451a14ec",
-      "title": "Cinco regiões de corais no Brasil estão em estado crítico e correm risco de colapso - CNN Brasil",
-      "published": "2026-10-30T06:37:53+00:00",
-      "summary": "Cinco regiões de corais no Brasil estão em estado crítico e correm risco de colapso&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG5Yc0lETXp2eTRHVzRVWnREZGxsN3hKaGhVZVBTUVJhQ3JCajdaX3k5VWlzdWQxMUZ0NGliX3Fud3hSRGRpb3JDNXpWYWY0LU5DUkVScmg0OUstYUtJRWV0blhiNFdpTXJkX3k0bTVZSEliWmU4MGJLZnRHaEo0UktPLUNyUmdoMUFkNTZndUhtNDA5RUhEcVViSjd3TjBNQUsyVWc3VC1qVE42bENpcXZaby1QXzlHSUhUZ3dR?oc=5"
         }
       ]
     },
@@ -414,18 +414,6 @@
       ]
     },
     {
-      "id": "b0fada84fb77",
-      "title": "Pesquisadores colocaram uma câmera a 535 metros de profundidade sob o gelo da Antártida, e até eles ficaram surpresos com o que encontraram - Xataka Brasil",
-      "published": "2026-10-29T19:31:27+00:00",
-      "summary": "Pesquisadores colocaram uma câmera a 535 metros de profundidade sob o gelo da Antártida, e até eles ficaram surpresos com o que encontraram&nbsp;&nbsp;Xataka Brasil",
-      "sources": [
-        {
-          "name": "Xataka Brasil",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZXFURzAzTGNuNWRXMktJVXhaOEEtczRnNnVPZkpBcEh4WXFxYjRLN1BWWjcxQzZqdWtlaXRLVTdQY2txeUlHN0hHQTRsMk9jMmxfTE1GWFdfRjMtZkt6TkpyV0l4TFVLUlQ2YWRWdENCTWxrdmZRTTlMYnlTZUdaYjBWdks5UFRreG1OUDhONDNTbnVFTzg2anRWUEowYUIyd0tuSXFkal9yM1dLenJZNG02c3hPODdkRXlsUjRqX1h3RllmaUlGNFRMd1VvU210RXBZQTdubTlrTTliWFBZakZwV0d3anRrdGxUM0NRS3hxWWFwWHBrZkhvN1B1c1N4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c63afbf542ce",
       "title": "Médico brasileiro revela por que os mais velhos não comem - iG Gente",
       "published": "2026-10-29T15:30:00+00:00",
@@ -434,42 +422,6 @@
         {
           "name": "iG Gente",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlFuVENNNTYwY0RWX21mUzB2RWVpbGdWSDY5Y3FfUmNsdTBHZjJ4cFg0SjlZZG5pS1VRVVNfMzhfbjcwTm1reDlNVVlsYmlEcVpMbFYxNFk3ZklRenhHRlNyTXZGN0x0WGZqcDc5dENmaFJCdmpXXzRhWWJyMmxWdTZOaFg2U1UtRGJFd1VrZFp6ODIxb1NLWWhvOVJTOWR5LTdOY1dacFdOQXZ6b09abUdYNVFvSVnSAbwBQVVfeXFMT0NCSFRkUWNCNjZ3R0otWFpoNnZTTkJjRkZmOHcyRFdhWVBtTEVGYWQyaEZWOVE1elJmMkpQUmo2S3RPTkNzenNHQU9hQ0RlakFENGhQdG5TaXFKbnFVaEZCN3lIcjZWR2hidXVlWUpKSjczcWx6LUNKekRaRHhjVi1STWo2TW1yOGdNYzNhakVvVDVpYVk4dnJXSmlqRDROWHJKdDlZajRjc29EVXZwajFBZFZ4S0g1dE9CQVU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5249e0149b65",
-      "title": "Turista dos EUA toma vacina de graça no Brasil e economiza mais de R$ 2.000 - UOL Notícias",
-      "published": "2026-10-29T15:23:00+00:00",
-      "summary": "Turista dos EUA toma vacina de graça no Brasil e economiza mais de R$ 2.000&nbsp;&nbsp;UOL NotíciasAmericana toma vacina de febre amarela pelo SUS e diz ter poupado US$ 400&nbsp;&nbsp;MetrópolesAmericana toma vacina contra febre amarela pelo SUS e diz ter economizado US$ 400&nbsp;&nbsp;Ver-o-Fato",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLWxIcHc4ZlRnWWZPeEtfUk9BeHExYkZEY295Skp5aUY1alNJV0t0ZTR1aTJlTG5BeS1IN2wtdmpTNHYxcVo3d3NSclJtTmZxTWN5bm9tOHRNVGpQcGljUWo5TTZSdVNpVHV4b256VXpRSkZnbFNkdEpBNHBuLTlQbllMSVdaa2pWLW1RZHhDY3I1T3VVaElFaUdsQ3hTNVNBbWxKQnZuSElJemh2QnRfLUpJMlF6N0ZyZ2I3SlFZSG5FZWRYZ3MtMmw4WkFDeEhVY2xNUFdUQWFNa21LNDZmMg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "557bd6af4f10",
-      "title": "Ninho de ave arisca da Mata Atlântica é registrado pela primeira vez em MG - G1",
-      "published": "2026-10-29T14:56:28+00:00",
-      "summary": "Ninho de ave arisca da Mata Atlântica é registrado pela primeira vez em MG&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0JiOC0yR1hoVGt1NHFHRndvYTl5THRyR3UzRTZpWl9mdjdwS2VUaExabmVvMVRHc3p3VnhodnlVMEhsdkYtVXlRMlZqbnpsTHFWMlpvUXd2QmR5a2NBQmRDYy1mbHp6dHhZSmdibDhPdzR0QWVsRzZNTTRjNWF4VjRiZlBUU0oxellQNlpneldBd0l2ZXV1ZEhBdTdYNHlQSDFPNTFJdVFSZlFHMmtkZVJBVjdWSmt3TWE0eldNZzhMcWc4aUcxTjhaR3pScGxzMWZsRlgyd3RaRDRQcDRGYk8yRmZZX0VUVXfSAfgBQVVfeXFMTVNIX0hCWk13V0RkTHItM0FMWGI0SV85ZTRwMXRuc1BqRktCajdGMV9CQ0U5dnJMQXhqLU5HWk9jMEs4YTNKOFdoSS1McWFGVUkwd2NuSXdkT2YxRzVZMEZtc3FLdmZOY1Y3dlVSM1JCSFNlaGpMM1NKSjNQeFVNaEcwZzhxNHFNakhuVzdSN3lPbHBjVkhELS1uUnZKSGFWYm54U25zUmRGcWpQMThLdjYway1iRUQ5SmdrbXZIMFd6eEZ6aU9Pdi1IV2tvQmpTYXVudjI1ekdhRXJfaXBpQjUwWDNGTWJwZHQwOFFlekxad0xoc2lWVFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dff63857be9c",
-      "title": "O poder da matemática a serviço da indústria - Revista Pesquisa FAPESP",
-      "published": "2026-10-29T11:57:00+00:00",
-      "summary": "O poder da matemática a serviço da indústria&nbsp;&nbsp;Revista Pesquisa FAPESP",
-      "sources": [
-        {
-          "name": "Revista Pesquisa FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzRIbWZLdVVNOVBJRjMzTTByVnFiMnY4bGM3TjZFMFJzVGRudURSWk96cmJ2OGV3UnNLRFZfZVVqQ2h6NUZ3eW9ibmZVZU5BMFptcG9UMDZnWHI4c0lRQXY2ZU5naUF4bTBjcmFQZDdYZ0NmZUJkbXNWUHZiZ3N4dWxGRVJzZw?oc=5"
         }
       ]
     },
@@ -489,7 +441,7 @@
       "id": "fee531bc7aad",
       "title": "Anvisa aprova cinco novas canetas de GLP-1 - Governo Federal",
       "published": "2026-10-29T04:21:00+00:00",
-      "summary": "Anvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;Governo FederalOpinião | A revolução das canetas emagrecedoras: do prato às cadeias globais de proteínas&nbsp;&nbsp;EstadãoAnvisa aprova cinco novas canetas emagrecedoras de GLP-1&nbsp;&nbsp;CNN BrasilCaneta após os 40: por que manter a massa muscular é essencial&nbsp;&nbsp;TerraCanetas emagrecedoras: Anvisa aprova 20 novos medicamentos neste ano; veja todos os autorizados no país&nbsp;&nbsp;O GLOBO",
+      "summary": "Anvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;Governo FederalOpinião | A revolução das canetas emagrecedoras: do prato às cadeias globais de proteínas&nbsp;&nbsp;EstadãoCaneta após os 40: por que manter a massa muscular é essencial&nbsp;&nbsp;TerraCanetas emagrecedoras: Anvisa aprova 20 novos medicamentos neste ano; veja todos os autorizados no país&nbsp;&nbsp;O GLOBOAprovação de novas canetas emagrecedoras pela Anvisa deve reduzir os preços. #JR24H #Shorts&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "Governo Federal",
@@ -501,7 +453,7 @@
       "id": "dcfb49b2e211",
       "title": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X",
       "published": "2026-10-28T12:09:05+00:00",
-      "summary": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama&nbsp;&nbsp;Portal Ponto XDepois do diagnóstico: preservar músculos pode ser tão importante quanto controlar o peso durante o…&nbsp;&nbsp;Jornal do BrásAtividades físicas ajudam na prevenção contra o câncer de mama&nbsp;&nbsp;CNN BrasilExercício físico ajuda a reduzir fadiga durante o tratamento do câncer de mama&nbsp;&nbsp;O OtimistaOutubro Rosa: atividade física e cuidad",
+      "summary": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama&nbsp;&nbsp;Portal Ponto XAulão de Funcional Outubro Rosa em Benedito Leite chama atenção para autocuidado com o câncer&nbsp;&nbsp;Cidadesnanet.comDepois do diagnóstico: preservar músculos pode ser tão importante quanto controlar o peso durante o…&nbsp;&nbsp;Jornal do BrásAtividades físicas ajudam na prevenção contra o câncer de mama&nbsp;&nbsp;CNN BrasilExercício físico a",
       "sources": [
         {
           "name": "Portal Ponto X",
@@ -510,26 +462,14 @@
       ]
     },
     {
-      "id": "cd9afaa21c12",
-      "title": "AVC: sinais de alerta e como agir rápido, segundo neurologista - Campo Grande News",
-      "published": "2026-10-28T11:30:00+00:00",
-      "summary": "AVC: sinais de alerta e como agir rápido, segundo neurologista&nbsp;&nbsp;Campo Grande News",
+      "id": "b99e3571db12",
+      "title": "Spray nasal com composto do veneno de sapo avança contra depressão resistente - Diário do Centro do Mundo",
+      "published": "2026-10-27T20:42:24+00:00",
+      "summary": "Spray nasal com composto do veneno de sapo avança contra depressão resistente&nbsp;&nbsp;Diário do Centro do MundoSpray nasal feito com composto psicodélico de veneno de sapo alivia rapidamente sintomas de depressão; mostra novo estudo&nbsp;&nbsp;O GLOBOSpray nasal à base de veneno de sapo pode aliviar depressão por semanas&nbsp;&nbsp;MetrópolesVeneno de sapo para depressão: o que dois ensaios mostram&nbsp;&nbsp;cienciadefato.com.brSpray nasal com psicodélico derivado de sapo do deserto é bem-su",
       "sources": [
         {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEpjUEJtRWh2blN1QTlkbFVrRWNkdkNWNGVJOUl0eEdTTjdYUG1XLXotRGFCdGtTTmVQTGF5aE1qb21GUzJrMVY5Ql9tZGdVcXEySTlRZWxJUldreXQtUlphTjJOUGJiUVNOMnhhd3dkTWZIbHBodDFVV2FjZHJoUlEtbDFyRzE2dElFc3Z6VXRWMkgzS2tLcEdfQTk2dnBsT05B0gGjAUFVX3lxTFBHYy00RlFjTU5pMUljVU5hU1ZxSXRja21hT0JwdGhOXy1tVHpkYkVNYmVYejZ2NTRRN2trZ29CU1VTY0RwdlBIUFJoeWdSaXNNdkdOWExGOEJyN0hvSjdvMTNSNkVjWkdXREJsUzlfcDl0OXFBdmxBSGxlRjlPd0xUQWNrNUhHS1NHMGZLTzZTU2FvbHk1U2tVUlNKRU5Lc21NcW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6ab4f0e60d1",
-      "title": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue - O GLOBO",
-      "published": "2026-10-27T07:00:01+00:00",
-      "summary": "As frutas indicadas para comer depois dos 50 anos que ajudam a abaixar o açúcar no sangue&nbsp;&nbsp;O GLOBOFrutas ricas em fibras: opções naturais que ajudam a saciar na dieta&nbsp;&nbsp;Correio BrazilienseQuais frutas incluir na alimentação depois dos 50 anos para ajudar a manter a glicemia equilibrada&nbsp;&nbsp;Acorda CidadePicos de açúcar no sangue após comer frutas: Experimente combinar estes 3 alimentos.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGR1aWFsMGJIVUwwVjlUdlgtRnBORUx2ZzhKY0tubnNNVGxoNXBvYm1DdVhPcU9xYzdzUHNzSHhyZzBBcTMzRzZTbDJNNlJ3cXdjSnhRMkc4NUpEUDVFTW9iQU1XX1ptVzZBMzdGSHdBWXFCcmRlSnhHMkoyLWM4MERYaVNReGxKR2RCMkpLb3BoVmUzQmxDUEV1dEdVVzhCQ3V0cE80d1F4ZEgtd2VnNHoxSFVJWGpIWDdtc0VJejh0R1JEd0s0NFBGS0Rjc3o2YXAwaEhHOVZDeV9NVlHSAewBQVVfeXFMTzlzRWxrRnFvazI1elZYRy0zU2VINzc2N1IzRXNWYlBUdnlRYTBwdG9BeGRvaTJxbWswTjRMR1V5Z3hJOXp4SzBscXBMUkUxUk41Ulhvck1ac0U0YkNaZ3V5T242WEF5YnBaWk13RHIwR01JNVRfbGhfdnZHXzdPeFU2Wm55b0Vqb2tGMFkzSGQ3eUdXYUJ1Z1dHQ0JOR0ZTRjB4T0Ytd2QzVnhYZmhjRVFKaHRhcGdNVFBUYWdoaVdwYUlzazctUTZxRnNPQmREOE1xaWc3NldjVWpyYjE1UnVyUENlNk9LY3pYOWE?oc=5"
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUhqQ2lNbHlkWjNvbHFpNmlaM2ZzSG8yOEh4SENfT1NwV2oyX1pDczEzQ0J1d2otR3QzN21fdGViUmJKbHJZM2pkNUlsMDdwSks1ZFBCMzZQMFFKN3FNbHBhTG5oYUlQV2pIb2dyLXdlbjZEZFJzTDBRR0xGdndWaXo0c2ZIQU50MTBDU083M3FTdkxDWkNHdWhaaUY?oc=5"
         }
       ]
     }

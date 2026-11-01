@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer de cólon"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de cólon. 1 notícias, 2 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de cólon. 2 notícias, 2 medicamentos relacionados."
 permalink: /news/câncer-de-cólon/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # Notícias sobre câncer de cólon
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de cólon?">
-<strong>câncer de cólon</strong> tem atualmente <strong>1 notícias</strong> e 2 medicamentos relacionados.
+<strong>câncer de cólon</strong> tem atualmente <strong>2 notícias</strong> e 2 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de cól
 </ul>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Estudo descobre como bactéria intestinal pode favorecer câncer de cólon](https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHk5T0M1Q0FwNS01XzJPTmw5RXR6TEt0V3BWanB2bFBtMkNyUC1jQzRhX0lyRXZOeGU5OHk5U2tIbWdoVXNKbWhlRGFQdGtjbkg3RHBsQVFoS3RsVUh5RWotbXRNVFVMRk56MDNoUUFOWXNCVzVzRTNBekV4ckNYVWhwRXMwTEp6Q0hSSmMzYlQ5dHZub0I3VFByNUtGTVF6VmRHOWhOMA?oc=5)
+
+2026-10-31
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHk5T0M1Q0FwNS01XzJPTmw5RXR6TEt0V3BWanB2bFBtMkNyUC1jQzRhX0lyRXZOeGU5OHk5U2tIbWdoVXNKbWhlRGFQdGtjbkg3RHBsQVFoS3RsVUh5RWotbXRNVFVMRk56MDNoUUFOWXNCVzVzRTNBekV4ckNYVWhwRXMwTEp6Q0hSSmMzYlQ5dHZub0I3VFByNUtGTVF6VmRHOWhOMA?oc=5)
+
+---
 
 ### [Estudo aponta possíveis causas da agressividade do câncer de intestino em jovens - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWXQ0d0lJc3pub1lKOHJNajlWdmtpaVhMMkRMbVpjTEhqUHhzTmVMT3JyQU9LbjU2cWdadDZCY2U0ckdyZjc5blpKMld5YXpGUUM0bk5uenl6dDlObHJ2ZnYwaTVhaGZEcTRuVjFXXzBLVloxTllPQVhCSFA0WkRvVlBsb3JaZUtIa1NoRkxwazBqdVRadG9fbXBkV1dYekd4bHk3a1VoZHhrSzlkMmU4aGRTM2prWlNlb1ItWWNGSnZycjFtU3gtVmYwSkdNdS1tZ3B4VEtDeVY?oc=5)
 

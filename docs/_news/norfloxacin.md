@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Norfloxacin. 10 indicações previstas."
 permalink: /news/norfloxacin/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # Notícias sobre Norfloxacin
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Norfloxacin?">
-<strong>Norfloxacin</strong> tem atualmente <strong>9 notícias</strong> e 10 indicações previstas.
+<strong>Norfloxacin</strong> tem atualmente <strong>8 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ Esta página combina as indicações previstas por IA para Norfloxacin com as no
 <p><a href="{{ '/drugs/norfloxacin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (9)
+## Notícias relacionadas (8)
+
+### [Estudo descobre como bactéria intestinal pode favorecer câncer de cólon](https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHk5T0M1Q0FwNS01XzJPTmw5RXR6TEt0V3BWanB2bFBtMkNyUC1jQzRhX0lyRXZOeGU5OHk5U2tIbWdoVXNKbWhlRGFQdGtjbkg3RHBsQVFoS3RsVUh5RWotbXRNVFVMRk56MDNoUUFOWXNCVzVzRTNBekV4ckNYVWhwRXMwTEp6Q0hSSmMzYlQ5dHZub0I3VFByNUtGTVF6VmRHOWhOMA?oc=5)
+
+2026-10-31 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de cólon</span>
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHk5T0M1Q0FwNS01XzJPTmw5RXR6TEt0V3BWanB2bFBtMkNyUC1jQzRhX0lyRXZOeGU5OHk5U2tIbWdoVXNKbWhlRGFQdGtjbkg3RHBsQVFoS3RsVUh5RWotbXRNVFVMRk56MDNoUUFOWXNCVzVzRTNBekV4ckNYVWhwRXMwTEp6Q0hSSmMzYlQ5dHZub0I3VFByNUtGTVF6VmRHOWhOMA?oc=5)
+
+---
 
 ### [Após filha morrer com câncer, mãe também é diagnosticada: "Jornada difícil"](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3BKajVxa0RGS3R2aXotXzRETU8ySzdVa3VQc0txTE96RFhTem9jYTlWYjREemI5d3ZPZWUzMkM1QTVyVmFvaXN5Y3RfQ19CSEY0bzRfYkZBR1dTd2dDelphWGp2U1pEVlFSWWN0a05yNDlvRVpqWmZ6aHh1d2dJSExzZHNoYnoxMUFHTGNNSVRlSUtKQU5WWU1yb3NGOXR2aXN2bUlKYw?oc=5)
 
 2026-10-31 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3BKajVxa0RGS3R2aXotXzRETU8ySzdVa3VQc0txTE96RFhTem9jYTlWYjREemI5d3ZPZWUzMkM1QTVyVmFvaXN5Y3RfQ19CSEY0bzRfYkZBR1dTd2dDelphWGp2U1pEVlFSWWN0a05yNDlvRVpqWmZ6aHh1d2dJSExzZHNoYnoxMUFHTGNNSVRlSUtKQU5WWU1yb3NGOXR2aXN2bUlKYw?oc=5)
+
+---
+
+### [Paula Gibi convive com câncer há 13 anos e encontra no humor uma forma de enfrentar a doença](https://news.google.com/rss/articles/CBMiekFVX3lxTE95ekd6dDMyUnFScDRPMndLVHJhbkxreUptVmt0bFRwdld4UXJDeWx5SjNIUzk4Sl9hSGxGTkVuU2c2SjRLUDVMcEVhenhRcHNzbUlZaEI3bkV3X3dYdFBHYnJkR3R4d0NLQUdrZ0pyWVhYdTh1X1lrdXNn0gF_QVVfeXFMUHA2MjJfMEM0OTVGOWp6bzZyOTFtMGNDdzRkT1JEUG9aelFYZUh6eHA1NjVJelZMVGdmZ1BjMDB2dDJGZnlXUm92RkxMMnd6clktaUs0SHhaQ0c4aDdTRFZjZnlZa1FqMnVTRlRHcGxjT1pvZUs1Z25hMEZVX0lZSQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">câncer</span>
+
+Fonte: [OBemdito](https://news.google.com/rss/articles/CBMiekFVX3lxTE95ekd6dDMyUnFScDRPMndLVHJhbkxreUptVmt0bFRwdld4UXJDeWx5SjNIUzk4Sl9hSGxGTkVuU2c2SjRLUDVMcEVhenhRcHNzbUlZaEI3bkV3X3dYdFBHYnJkR3R4d0NLQUdrZ0pyWVhYdTh1X1lrdXNn0gF_QVVfeXFMUHA2MjJfMEM0OTVGOWp6bzZyOTFtMGNDdzRkT1JEUG9aelFYZUh6eHA1NjVJelZMVGdmZ1BjMDB2dDJGZnlXUm92RkxMMnd6clktaUs0SHhaQ0c4aDdTRFZjZnlZa1FqMnVTRlRHcGxjT1pvZUs1Z25hMEZVX0lZSQ?oc=5)
 
 ---
 
@@ -65,30 +81,6 @@ Fonte: [Portal Drauzio Varella](https://news.google.com/rss/articles/CBMiuAFBVV9
 2026-10-30 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de cólon</span>
 
 Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWXQ0d0lJc3pub1lKOHJNajlWdmtpaVhMMkRMbVpjTEhqUHhzTmVMT3JyQU9LbjU2cWdadDZCY2U0ckdyZjc5blpKMld5YXpGUUM0bk5uenl6dDlObHJ2ZnYwaTVhaGZEcTRuVjFXXzBLVloxTllPQVhCSFA0WkRvVlBsb3JaZUtIa1NoRkxwazBqdVRadG9fbXBkV1dYekd4bHk3a1VoZHhrSzlkMmU4aGRTM2prWlNlb1ItWWNGSnZycjFtU3gtVmYwSkdNdS1tZ3B4VEtDeVY?oc=5)
-
----
-
-### [SUS detecta quase 10 mil testes positivos para HPV de alto risco - Agência Brasil](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnlfUklzZ0JpZVpRdllPTzZIdDUwOUdEazNYOGJFbHl4NUlKUFpfTllJMHRobUtZeldZdWlERGQ1cDkwTFNkcDFnQkViQ2swVmFDTlpKUmRfR0RqR0JMdkxIRXZNelo5MDhNOFVpUnM4eVBJV0EzV2diamxtWjRxRXMxN0h4S2w3VXJCdE5hYTB4czl3Q1hUYmxFcUkyWF9ja2lrY0stczFsdkZ5V0FhUUpuNlk5cGtpaG13?oc=5)
-
-2026-10-30 <span class="news-indication-tag">câncer</span>
-
-Fonte: [Agência Brasil](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnlfUklzZ0JpZVpRdllPTzZIdDUwOUdEazNYOGJFbHl4NUlKUFpfTllJMHRobUtZeldZdWlERGQ1cDkwTFNkcDFnQkViQ2swVmFDTlpKUmRfR0RqR0JMdkxIRXZNelo5MDhNOFVpUnM4eVBJV0EzV2diamxtWjRxRXMxN0h4S2w3VXJCdE5hYTB4czl3Q1hUYmxFcUkyWF9ja2lrY0stczFsdkZ5V0FhUUpuNlk5cGtpaG13?oc=5)
-
----
-
-### [Câncer de próstata: mais de 200 homens por dia descobrem a doença; saiba detectar problema](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjRNdHFmd1ktd3FQMWlIWlE4dllDZEhCSjQ0bTBnT2xVRXN4c0t3ZVdhdjFZMEE4dTlmS2QwYm9wTTIwOGFHU1B2dU9KYmtwWC05QjVWMHR5Wm9Ld0pzLVRfcnh2cXdvSnQ5SkFSNEx6c1pJSGNVQjRaQlRfRkh2dGhreGJHdV9NbWFfN3BOSGhyb2F0TW5ubmFpNmo0c2xkRnJrQ25Nb2ZNUS10QmIzajJ3V1pvQmp4UDlNNzhGdWNkc3dxa1J2WkRYTWI?oc=5)
-
-2026-10-30 <span class="news-indication-tag">câncer</span>
-
-Fonte: [R7](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjRNdHFmd1ktd3FQMWlIWlE4dllDZEhCSjQ0bTBnT2xVRXN4c0t3ZVdhdjFZMEE4dTlmS2QwYm9wTTIwOGFHU1B2dU9KYmtwWC05QjVWMHR5Wm9Ld0pzLVRfcnh2cXdvSnQ5SkFSNEx6c1pJSGNVQjRaQlRfRkh2dGhreGJHdV9NbWFfN3BOSGhyb2F0TW5ubmFpNmo0c2xkRnJrQ25Nb2ZNUS10QmIzajJ3V1pvQmp4UDlNNzhGdWNkc3dxa1J2WkRYTWI?oc=5)
-
----
-
-### [Enfermeira de Iúna enfrenta câncer e cria vaquinha para arrecadar R$ 80 mil para cirurgia - Aqui Notícias](https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWcwWTFFTnBoZmc5Unk4NGtfVGUwRmZVeEh2QVpaclBES3I4cUVkWWlVYnlCekpsLXpGWkRJQldnazVheXpYTldmTF82Z2JpMjBzRDlKOEYwMzhTNmlwNjFFN1V4UkN5cGdRa1lVd0ppTWJYUzVSMi1mVEl4bWN2SlNKV0ZpTDU1RUNxNnJ5VGxDRUVOSGp5R2NhdGVDNnBCTjFEbkhmWkZtY1Uxek44TDY2MTBMYjBnZjV5MVFYSQ?oc=5)
-
-2026-10-30 <span class="news-indication-tag">câncer</span>
-
-Fonte: [Aqui Notícias](https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWcwWTFFTnBoZmc5Unk4NGtfVGUwRmZVeEh2QVpaclBES3I4cUVkWWlVYnlCekpsLXpGWkRJQldnazVheXpYTldmTF82Z2JpMjBzRDlKOEYwMzhTNmlwNjFFN1V4UkN5cGdRa1lVd0ppTWJYUzVSMi1mVEl4bWN2SlNKV0ZpTDU1RUNxNnJ5VGxDRUVOSGp5R2NhdGVDNnBCTjFEbkhmWkZtY1Uxek44TDY2MTBMYjBnZjV5MVFYSQ?oc=5)
 
 ---
 
