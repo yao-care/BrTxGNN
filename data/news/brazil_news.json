@@ -1,15 +1,123 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-01T12:50:07.197162+00:00",
-  "total_fetched": 106,
-  "unique_count": 105,
-  "health_related_count": 42,
+  "fetched_at": "2026-11-01T21:47:39.914100+00:00",
+  "total_fetched": 108,
+  "unique_count": 106,
+  "health_related_count": 43,
   "news": [
+    {
+      "id": "22a1305ea4c3",
+      "title": "AquaRio completa 10 anos, soma 9,5 milhões de visitantes e anuncia R$ 10 milhões para pesquisas - Diário do Rio",
+      "published": "2026-11-01T18:25:29+00:00",
+      "summary": "AquaRio completa 10 anos, soma 9,5 milhões de visitantes e anuncia R$ 10 milhões para pesquisas&nbsp;&nbsp;Diário do Rio",
+      "sources": [
+        {
+          "name": "Diário do Rio",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONnk1RFdmR3JtTzN3SnhZS3Vib3duc0ZLZDAwUWVETjZacUt1TkJXSGN3Rk9IemxMRVQ5cWYtaXdMeW1OLWpNU19nbXJadVMyUkY5cS1WeVRUem9TNlJCTm44RGJKcUNZYWRfRldmWUs5SXlHNWQ4dTlJUXBPTGdsM3p6bnMzRnRDbjZtZFViaW9NS25vc0t6TU00WG53Q09EbUNtc013enJ0aTQ3SVUyT3VvYk9sU29MZWZycml0SEZMQjM3c0k5WHJrbzNjWjJuSDBXUWtMcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f8d17a5d9d3",
+      "title": "Maior volume de exercícios amplia benefícios cardiovasculares, diz estudo - Folha de S.Paulo",
+      "published": "2026-11-01T16:03:00+00:00",
+      "summary": "Maior volume de exercícios amplia benefícios cardiovasculares, diz estudo&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTUdOT3FzaTNxTktHQmNGMHBydFhJdWJjWGxtY0l6T1BTU29RcWI2MHlURUI3NWxHaXM1SVVFdmZZZm9VMU9IY05nbGlXc1REOUhES3lGUm9PX1JzMDEyYzgzN1VNVUtpbjY0TWtmM2F5djRxSmpyblVGYnh2OHZlTnB3WlZLTVo0RlNnaVFMcm1QZUc2UWhPYUdPODdxUnl5OUE0ZVhEdk9zNDJHOFU4Y3hTdTlTcUtfMDRRUGw4bE1lQTk0VnlHNml2N2Q3dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6469d73a0a97",
+      "title": "1 em cada 3 brasileiros com diabetes terá retinopatia diabética, que pode evoluir para cegueira - Folha de S.Paulo",
+      "published": "2026-11-01T15:00:00+00:00",
+      "summary": "1 em cada 3 brasileiros com diabetes terá retinopatia diabética, que pode evoluir para cegueira&nbsp;&nbsp;Folha de S.PauloCampanha conscientiza sobre a prevenção da retinopatia diabética&nbsp;&nbsp;Agência BrasilComo o diabetes pode afetar a visão e até provocar cegueira?&nbsp;&nbsp;iG SaúdeGlaucoma é silencioso e pode causar cegueira; veja quando investigar&nbsp;&nbsp;G1Diabetes pode afetar a visão antes mesmo dos primeiros sintomas, alerta campanha&nbsp;&nbsp;Bonde",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWkR3QWhVQnB5ODJHVUxxc3h5dHktRHNXSzVrV051ZGFuaS1Xd3ZKZTFfNFZFdjlCNDgxRndKSTlURDNDVDZDLTNZVXgzNEtPdzZzY0NPSTM2ckUyN295eDhpMnZRclRDR1MyWTlNZmRjLTJHc3RLRmt6QnFLQXcxdFlsOWdMWEd0ZmJJV25UZUw0dlNiVGJKS1JTNFlNUG50ZjZOc1o3MloxTzVtQ2EyNkdEd1RuQkNYcXBsMk5aU1huSU4wVG9oV200OFgzN2JfMkJxOFB3UVJEM0plOE1ncTNValBrRVh6aGFZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce481df9fedb",
+      "title": "Morar sozinho é mais arriscado para jovens e adultos do que para idosos, mostra novo estudo; entenda - O GLOBO",
+      "published": "2026-11-01T12:59:57+00:00",
+      "summary": "Morar sozinho é mais arriscado para jovens e adultos do que para idosos, mostra novo estudo; entenda&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONGdnc1Z3V0xlS2o1cWdWOHVmM3QzNDhHQlNodjh2RTdqMnNHX1ZBa3FGbTQya1QxNm9BaHVnY1dveXE5allOOWNRRkY5azdHdE5RUFdLdlVDV0JQeVQyWWZfT0Z6ZWFxTHFUS2RlVUpvOF8weDM1amRZeVQyT1lOQkF6OHliQnZRNTQ2V1lZWERJcWhCQWd5eHZFalNBRkdyeDVPMU9vV29Zemw0OVFLdlR2UHhrRWhwek1OUWkxckxoeG1ucU9WUXJEVF9QZEJjMFc3SkF2TnVwYTgxZDcxSUdUM0xYVnFvTUHSAfgBQVVfeXFMUGRwZzI1bDlkWWFGWjhFM21xODNVbzhpbTRjclJDc0R3dmxEN3lkbHBnX2tVSGdJUi1HaHJldkY1OGdHVGZHQlFZY2hlUXRxdmVIN042d0R0cUJoTmU2YU5raVctY1psa1ZxeG8weWhnX25ldTdBV2NUMW9qYzZVMjV0bjVNX19STk83Qk1MV0NIYU42UlRBemIyUDVjbTZjc1RJVlBlcXZOR2xLbmN3R3ZDMWM5NGk0ZTYzYzJVeC1DLVVBRDlVSXc3bU9DUU4waERGdEhwRTdyc2FvWG1zSHZxeVE3MkJNVEUyaHNOQnJocjhhTF9TU3E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "baf12b25d6f2",
+      "title": "Cataratas de Sangue na Antártida: conheça a geleira que libera água vermelha e intriga pesquisadores - Surgiu",
+      "published": "2026-11-01T11:38:00+00:00",
+      "summary": "Cataratas de Sangue na Antártida: conheça a geleira que libera água vermelha e intriga pesquisadores&nbsp;&nbsp;Surgiu",
+      "sources": [
+        {
+          "name": "Surgiu",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDBJSjFnYTdkcW0zZndScFhhOV9hZmZPa1FPWHl3cUx1ZlVtakR1OFpNYXp0REY2cjFBREM5S1JoWDRONDlzTWVuSDBtY00teEl6eEZzbmdCUE9jcUpBQ20tM3IzRi1YQnhualNvMlVpanYwUkh2OEwxMDJYdmI0ZVhxa1ZncTlYQnFBT3c3TjZ0R2J3bHVtOG4xR0NMZHFtekFLWk9zWVRob0RCWW9rLUNWcFVDa0RVRmxnNWVPSTVJVjJfTFBtc0pFMWxnZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7cf49eb981fd",
+      "title": "Estudo associa atividade física a maior volume cerebral em idosos - Poder360",
+      "published": "2026-11-01T11:15:14+00:00",
+      "summary": "Estudo associa atividade física a maior volume cerebral em idosos&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ19IeHlfYjduS3FTWnd0UGpzRkNwUVJQdEYyNl9rcmpRam9YREFFc1pwOUo1cERjUHA4OUhHel9VU09Sd1FVMlVCSGJSdFlXd2RDN211dGU4aTYtWVBBbTQwQmJXNmVXT2duNGRNTTByTXZjbi00V2Mzd2pZUzhQVzBvUWhmaTZhUENDX2FaSUxVRmRQRk1ST3FMMjItNk5DUG5RNEM2ZUlvWEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa2129a48b61",
+      "title": "Câncer de próstata matou 50 homens por dia no país em 2025 - Agência Brasil",
+      "published": "2026-11-01T11:12:00+00:00",
+      "summary": "Câncer de próstata matou 50 homens por dia no país em 2025&nbsp;&nbsp;Agência BrasilNovembro Azul: câncer de próstata é o segundo tipo mais comum em homens&nbsp;&nbsp;CNN BrasilCâncer de próstata: tratamento não significa fim da vida sexual, diz médico&nbsp;&nbsp;MetrópolesNovembro Azul reforça a importância do cuidado com a saúde masculina&nbsp;&nbsp;Correio BrazilienseNovembro Azul: saiba a importância da campanha na saúde masculina&nbsp;&nbsp;Band",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORDM3TmhtZm5oVFVaZnpMTnZpQkRKXzBvTmN0YTY1dkdCYlNOOFRtNXhUZGZZTkZwd3ZqQ3Q1Y2hFQXJLOW9jVU9mNGVsaEhJdEdBMzNVUENLNmhzOTBlTTk2TFBTX19lMW9OM2lZQ1U0R2p0QTFybUctcVg3aS11SXlDcy05eHZSa2dYaThYbUFsX3RaWi1SUGlldHlIN2k2Ulg1MU85ZldfNmloQlJwcWduMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7c566f49a136",
+      "title": "Vacina ACWY: aplicação aos grupos prioritários retorna na próxima semana - Extra online",
+      "published": "2026-11-01T10:00:00+00:00",
+      "summary": "Vacina ACWY: aplicação aos grupos prioritários retorna na próxima semana&nbsp;&nbsp;Extra onlineMeningocócica ACWY: último dia da campanha no Rio tem filas e vacinas esgotadas&nbsp;&nbsp;G1Último dia de vacinação contra a meningite no Rio tem filas e estoques esgotados antes do horário previsto&nbsp;&nbsp;Tempo RealCobertura da vacina contra meningite é de apenas 67,1% entre adolescentes&nbsp;&nbsp;MetrópolesEm 25 dias, mais de 410 mil pessoas são vacinadas contra meningite no Rio&nbsp;&nbsp;O D",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd3NqT3BWVTUzVHZhR2N6a005N0o0Y2pGNGRCR1k1a01DN2gtMnJZUndUM3hHOFoxRGQtNlBteXhnaHpaaDJWNmFOcmV6R2p5Wloxb0pNY3VKeGR4QUVkRUdNLU1XRDMyTXpyRUJxWTRSN19uTFRUNmZEVVI3bUxwR0NpSm81LUQtRG9WdjZ3aXhEc0ExTGtSWFcxS1liY05EUW9YUlk4cXVmaEFLdWdCOWc4cF9McWlzVlhmaNIBywFBVV95cUxPZmVHNXpvV2IwUURaWUNWN2lCRVNBNHNiQ2IzSk9DZHl1c1o2NGR3aXhsQXNvWTM2bUg0X2ZmS0hhUUMyeHNCM3k0RDRZRVBaSjZobzdNeGtkUTRZdTB2SmdadzdQM0hFTHgxeTlTOGo0Q3lHN1lfVUZ2U1pITzdFekpaN0NMbGdURHVsY2UwTmt4cHJlbF9PWW5aVDZYTmVVZGtXSEhzRXhKWl8wT3RnMFVEZDBOczBfRVdmYTh1MUdpMHN6cFBlM0hIWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d94c06817263",
+      "title": "Apenas 30% dos hipertensos seguem o tratamento, dizem médicos ao Dr. Kalil - CNN Brasil",
+      "published": "2026-11-01T09:00:10+00:00",
+      "summary": "Apenas 30% dos hipertensos seguem o tratamento, dizem médicos ao Dr. Kalil&nbsp;&nbsp;CNN BrasilCombinação de remédios pode melhorar controle da hipertensão&nbsp;&nbsp;Poder360Controlar a pressão arterial de forma eficaz poderia prevenir mais de 500.000 mortes por ano.&nbsp;&nbsp;Vietnam.vnPrevenção ao AVC: o alerta sobre os riscos invisíveis&nbsp;&nbsp;Revista Ana MariaAVC, sintomas, prevenção, diagnóstico e tratamento&nbsp;&nbsp;Revista Newslab",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmpNMFJPaWd2am9ENWZKakgyalFDSko2ek5JZU5fekN3S0JyN1dZVzR1cEl4WGtsM2ZVbU1jYjBOU0VaUHZFTFB6VzNSSEdZUkJodkJ2MGJaeTRSWTI1R1JJSlBFbm1mTnZLNnFyaWFRS0trczVxS0FDNGEyQTQzd0szRFNUSkVZcVN6VVpYcmNWdGFjbTAxRWZ3eDduUmdJYnZxaGFadzZZVzQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "91f9f7fbda84",
       "title": "Do coração ao intestino: 8 motivos para comer maçã todos os dias - UOL",
       "published": "2026-11-01T08:30:00+00:00",
-      "summary": "Do coração ao intestino: 8 motivos para comer maçã todos os dias&nbsp;&nbsp;UOLPara que serve a maçã? Veja benefícios e receitas suculentas com a fruta&nbsp;&nbsp;EstadãoMaçã com casca ou em suco? Nutricionista explica o que muda no organismo&nbsp;&nbsp;Notícias de Cordeirópolis-SPMaçã crua ou cozida? Entenda o que muda nos nutrientes e nos benefícios para o intestino&nbsp;&nbsp;Âncora 1Maçã pode ajudar a controlar colesterol e está associada a menor risco de diabetes&nbsp;&nbsp;TNH1",
+      "summary": "Do coração ao intestino: 8 motivos para comer maçã todos os dias&nbsp;&nbsp;UOLPara que serve a maçã? Veja benefícios e receitas suculentas com a fruta&nbsp;&nbsp;EstadãoMaçã com casca ou em suco? Nutricionista explica o que muda no organismo&nbsp;&nbsp;Notícias de Cordeirópolis-SPMaçã crua ou cozida? Entenda o que muda nos nutrientes e nos benefícios para o intestino&nbsp;&nbsp;Âncora 1Comer maçã todos os dias faz bem à saúde? Conheça 7 benefícios investigados pela ciência&nbsp;&nbsp;Tribuna de",
       "sources": [
         {
           "name": "UOL",
@@ -21,7 +129,7 @@
       "id": "11e7da2a131b",
       "title": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes - G1",
       "published": "2026-11-01T08:00:00+00:00",
-      "summary": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes&nbsp;&nbsp;G1Remédio prolonga por sete anos controle do câncer de pulmão&nbsp;&nbsp;Brasil 247Comprimido diário mostra resultado inédito no câncer que mais mata no Brasil&nbsp;&nbsp;Folha de CuritibaNovo Tratamento Amplia a Sobrevida no Câncer de Pulmão Agressivo&nbsp;&nbsp;Forbes BrasilModerna perde protagonismo em congresso de oncologia, enquanto Amgen rouba a cena&nbsp;&nbsp;Valor Econômic",
+      "summary": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes&nbsp;&nbsp;G1Remédio prolonga por sete anos controle do câncer de pulmão&nbsp;&nbsp;Brasil 247Comprimido diário aumenta sobrevida de pacientes com câncer de pulmão avançado&nbsp;&nbsp;Rádio MetrópoleRemédio para câncer de pulmão pode evitar avanço da doença por 7 anos&nbsp;&nbsp;CNN BrasilNovo Tratamento Amplia a Sobrevida no Câncer de Pulmão Agressivo&nbsp;&nbsp;Forbes Brasil",
       "sources": [
         {
           "name": "G1",
@@ -54,10 +162,22 @@
       ]
     },
     {
+      "id": "a0649721593c",
+      "title": "Câncer de intestino: avanços da medicina trazem novas opções de tratamento - R7",
+      "published": "2026-11-01T05:00:00+00:00",
+      "summary": "Câncer de intestino: avanços da medicina trazem novas opções de tratamento&nbsp;&nbsp;R7Em estudo, novo tratamento para câncer retal avançado promete reduzir necessidade de amputação&nbsp;&nbsp;Futuro da SaúdeImunoterapia e câncer colorretal: veja novos e animadores estudos&nbsp;&nbsp;Assine AbrilRemédio da GSK elimina tumores retais em 76% dos pacientes em ensaio clínico&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosEstudo aponta medicamento que fez câncer de reto desaparece",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDZXaFJETFZiRzAtWlNsaHoyZHdUVmdTZGNfVVhKQXdsc3NKTVl4T2NLajB1UlhOektVLTZjRmVxbzZfX2RrV3VEQ0hzaV83cVdYSUNhRlF4RXVYck1tSmVwU3E2azVIdDhSSnYwRDhMal9EdEhIdTVHb1VzeXZYNmdlZWNaVFdtc19ndDNMRGctbkw4NDNNNFMzNG9XUXhtUl8xYk1iUnZISkVZbnd1ZW02QkJPdVB6NWNWZGViekIwVEtDUGw1bm9ZX1U?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4c92dfcfeb04",
       "title": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon - Metrópoles",
       "published": "2026-10-31T19:37:00+00:00",
-      "summary": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon&nbsp;&nbsp;MetrópolesSeu intestino não serve apenas para digerir: conheça a microbiota intestinal&nbsp;&nbsp;Portal da Cidade - Mogi Mirim / SPToxina de bactéria intestinal usa proteína claudina-4 para danificar cólon, aponta estudo&nbsp;&nbsp;Diário do Estado de S. PauloCientistas descobrem como toxina de bactéria intestinal pode favorecer câncer de cólon&nbsp;&nbsp;Meio News",
+      "summary": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon&nbsp;&nbsp;MetrópolesVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Metrópoles",
@@ -69,7 +189,7 @@
       "id": "01c589205f64",
       "title": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos - G1",
       "published": "2026-10-31T19:35:25+00:00",
-      "summary": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos&nbsp;&nbsp;G1Mpox: casos disparam no Rio, e governo anuncia reforço de vacinas&nbsp;&nbsp;Assine AbrilPrefeitura do RJ investiga nova morte por suspeita de Mpox&nbsp;&nbsp;R7Rio de Janeiro registra 74 casos de Mpox em dois meses&nbsp;&nbsp;CNN BrasilRio tem alta nos casos de Mpox em setembro e outubro&nbsp;&nbsp;SBT News",
+      "summary": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos&nbsp;&nbsp;G1Secretaria de Saúde do RJ monitora alta de Mpox após casos superarem 2025&nbsp;&nbsp;Folha de S.PauloMpox: casos disparam no Rio, e governo anuncia reforço de vacinas&nbsp;&nbsp;Assine AbrilMpox: governo reforça volume de vacina no Rio para lidar com alta de casos&nbsp;&nbsp;MetrópolesRio tem alta nos casos de Mpox em setembro e outubro&nbsp;&nbsp;SBT News",
       "sources": [
         {
           "name": "G1",
@@ -102,18 +222,6 @@
       ]
     },
     {
-      "id": "f7c00f47bdee",
-      "title": "Vacina ACWY: cariocas fazem filas em postos e esgotam imunizante no Rio - Extra online",
-      "published": "2026-10-31T16:55:46+00:00",
-      "summary": "Vacina ACWY: cariocas fazem filas em postos e esgotam imunizante no Rio&nbsp;&nbsp;Extra onlineVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3FhTXplZGo0ZjVsejkybkRrbDAyYUhUTVpfd1lYZEdMS051MjR6TGkzaFA0UHpCczJNcmhXM2R3TGNLcGNCX1ZGaktiQVFqQ2Fqb0Q0cTZNd3d2YllvdnZjazhUYWc1VnZ1aGVwME45RVdVWHJYNVE1ekNKRGM0TGNBVUZidGhjMnYxTzF0dnpRTFM3R2Q0cUVfSExSTDhoSlpLUkxTSXFRXzQtcHdncGVhN0IxRG03TU5OZtIBywFBVV95cUxOTkdkaEs3SVQ2enBtWWhsSkxpSlBIbzd0NUxJVG1wdlYtVXBtX3Z4dGkycWFuZnpaRDhPQ1FRREg0QlJxd2FDOWF4LXhUeTFYdG5GSTdseEVUVUZuN05wMDB5SDlDWTQ4U3hFaG5zaEFzVEt3QVBSdmNjc1JOX014WThLNjR0ODl2WmVob1pXajdoRVdrZ3ZHMnNvVlBNWlVkLXBDTlh3czVQTUZYLS14VzU2a0xiRElTY3hUY01ESnhMTXNYQlZhQlFUaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ac8fe06ddc82",
       "title": "Mostratec reconhece anos de pesquisa de jovens estudantes; veja a lista de premiados - abc+",
       "published": "2026-10-31T15:38:00+00:00",
@@ -129,7 +237,7 @@
       "id": "e83a9db5ac28",
       "title": "O teste simples de fitness que prevê o seu risco de morte - G1",
       "published": "2026-10-31T15:17:59+00:00",
-      "summary": "O teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;G1Teste de 1 minuto pode revelar sinais de risco para a saúde do coração&nbsp;&nbsp;Diário do Centro do MundoTestes de recuperação de pulso após exercício e o que diz sobre saúde&nbsp;&nbsp;PeriskopiTeste de 1 minuto pode indicar maior risco de morte; veja como fazer&nbsp;&nbsp;ExameTeste de recuperação cardíaca pode indicar risco à saúde&nbsp;&nbsp;Diário do Centro do Mundo",
+      "summary": "O teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;G1Teste de 1 minuto pode revelar sinais de risco para a saúde do coração&nbsp;&nbsp;Diário do Centro do MundoTeste de 1 minuto pode indicar maior risco de morte; veja como fazer&nbsp;&nbsp;ExameTeste de recuperação cardíaca pode indicar risco à saúde&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
           "name": "G1",
@@ -158,18 +266,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYldLSU9FSk1WdnIwRllZbVlmN3ZuVGxLTXR5Wk5OcmtaanVpeUxzalhwWEd0ZDI5dmhJUlpqSmtlV0M5QzdDMlhMZDRGanhHWmFaT2kzLU1FV3BmTnV3MXR4ZVNuWXg5WldmTHd3UE9PbzZXeThhOW5TaWpVcWNEXzB1RTQ0Rm1TMGZkYldlQmE0dkx6Z01XUk5TNXlGbU9feVNuck15MUh4TTFOZFZyRDA4V2xmXzVPNm5wdFd3N3dob2lEdzZjaG5VYWdvLXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7ae4e285872",
-      "title": "Milho safrinha: pesquisa de 35 anos em Assis chega ao fim e acende alerta sobre futuro da APTA - Assiscity",
-      "published": "2026-10-31T14:34:54+00:00",
-      "summary": "Milho safrinha: pesquisa de 35 anos em Assis chega ao fim e acende alerta sobre futuro da APTA&nbsp;&nbsp;Assiscity",
-      "sources": [
-        {
-          "name": "Assiscity",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ2VYb3FPV29sa0tycEJsVmNKUUlxNlVEdEZYQnYxbHAzZWhOYlV5YTNWUmo0b0RVX28tRmNYbjdsNmtNTzJYcEtOaEZGWHI3ZlFfVlhCSzNZM2xYSURPVWI4Z0luNXFpMXZPSmNDLWtOTUc1ZllqQUo4LXRsRUlrNlMyWUtrWlZwSU5oN2dpTU5MWmUtLUJ3U3Z1RXRGa09BU1I2N0ctLUJhSHNQMWhHRENMc1BlWHdWb0pkOEZFOFhpOFdSWVBFdHZLaWJUSDJlcmJLYy13eUhBT3E5?oc=5"
         }
       ]
     },
@@ -210,30 +306,6 @@
       ]
     },
     {
-      "id": "12c5953344f1",
-      "title": "Combinação de remédios pode melhorar controle da hipertensão - Poder360",
-      "published": "2026-10-31T11:34:19+00:00",
-      "summary": "Combinação de remédios pode melhorar controle da hipertensão&nbsp;&nbsp;Poder360Apenas 30% dos hipertensos seguem o tratamento, dizem médicos ao Dr. Kalil&nbsp;&nbsp;CNN BrasilControlar a pressão arterial de forma eficaz poderia prevenir mais de 500.000 mortes por ano.&nbsp;&nbsp;Vietnam.vnPrevenção ao AVC: o alerta sobre os riscos invisíveis&nbsp;&nbsp;Revista Ana MariaAVC, sintomas, prevenção, diagnóstico e tratamento&nbsp;&nbsp;Revista Newslab",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUV5dmJBN3FFYzNFUXFtb0lZRW1UT3lUYm1RSnlfa0ZrUS05d28tY2FhLW5JSjNYbEdVSi1NaGFyeXQ1TEtQdUpRbGswa2tjMFJaYmRIaEVZaDhPVEZsaVlXT2x2OG5Xc0N4WHI5WmhobDNZaWhRLW5MaXZkRUtHLTliQlJxcV8xWWJTYTNfWDB6Sm85Nlk4cGt1akcxd1hzUTRj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b53b217253c",
-      "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - ICL Notícias",
-      "published": "2026-10-31T10:26:40+00:00",
-      "summary": "SUS detecta quase 10 mil testes positivos para HPV de alto risco&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "be681231ca98",
       "title": "AVC: Médicos explicam sintomas e sinais de alerta ao Dr. Kalil - CNN Brasil",
       "published": "2026-10-31T09:00:16+00:00",
@@ -258,30 +330,6 @@
       ]
     },
     {
-      "id": "81f9defc0b2e",
-      "title": "Halloween: qual é a quantidade ideal de doces para crianças? - O GLOBO",
-      "published": "2026-10-31T07:30:00+00:00",
-      "summary": "Halloween: qual é a quantidade ideal de doces para crianças?&nbsp;&nbsp;O GLOBOHalloween acende alerta para excesso de doces e impactos na saúde digestiva&nbsp;&nbsp;Estado de MinasHalloween: excesso de doces pode prejudicar saúde digestiva&nbsp;&nbsp;TerraSusto de Halloween pode causar uma parada cardíada? Entenda o perigo das travessuras&nbsp;&nbsp;ExameTrick or Treat: 10 doces que nunca deve dar aos miúdos no Halloween&nbsp;&nbsp;New in Oeiras",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnpQOTh1VlNPekN3TVVwOE9CUElDVmk5MmJrZ1htWXFQZVVkbW5YZHRBdHVza2JHeUdrc2dQVVd4MHJYREZNdUROcTFscjcwODJFN3hCSlN5V1V0cHl3VGYybUJVZE1ObGRmSjhrVWE1VS1fVG9rQzZGdmZ4TENwSVFhanhMVlUwN3o5QTFFMnB6cm5LTXA0M3BUZi1YYWpYRlRQemlTX2lxdHpkSjk0MEgwS1nSAcMBQVVfeXFMT1VzRW0tZ2VUWE83UkdKQUdMa1pYemtTb25jbmVzRnNfZnFLQnA5Y1M0NERaZ2c0bFhTcFBLbG5Vc3ZUblB5YXZQYzJIcnNqc2lWN1Zaa3hhWEhqS2VSLS0zZ3ZCd1FjdkpiMDVQQnFIeEVnc3BfLUFDZUpKYklIRi0zTkMyeUllaVpLQlV3T2ZWZjVuWnUxSDl1dGxzeWZLV0VEcDN2dzU4b0locU5VNDVFcFBHNUVaMXFWYXdRM3Y4UUUw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2c6c3ff462f6",
-      "title": "Após filha morrer com câncer, mãe também é diagnosticada: \"Jornada difícil\" - Metrópoles",
-      "published": "2026-10-31T05:00:00+00:00",
-      "summary": "Após filha morrer com câncer, mãe também é diagnosticada: \"Jornada difícil\"&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3BKajVxa0RGS3R2aXotXzRETU8ySzdVa3VQc0txTE96RFhTem9jYTlWYjREemI5d3ZPZWUzMkM1QTVyVmFvaXN5Y3RfQ19CSEY0bzRfYkZBR1dTd2dDelphWGp2U1pEVlFSWWN0a05yNDlvRVpqWmZ6aHh1d2dJSExzZHNoYnoxMUFHTGNNSVRlSUtKQU5WWU1yb3NGOXR2aXN2bUlKYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "52174e71234e",
       "title": "Mosquitos Aedes aegypti contaminados com bactéria que combate vírus da dengue são soltos no Paraná; entenda - G1",
       "published": "2026-10-31T04:00:00+00:00",
@@ -302,6 +350,18 @@
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZ1p2LTB4MlNTcDZUYU1yTUV4WmxDWTNtT09WSEVzYTM2VVYwcUpvcHZFb2o4MnNrSXl4S1FVUWhmeW1GYUk5amFwODMxdUN6WmdwcVJiWW5MU09LSW1Ncm9jcW5kdTFJUHNSaXBDdDBqbWlxRnAyc1pIS25tc3ptUmNncDZRYlctSDlnSjBGeWl2NFVHRnloZGFNSnA3MGpzWmM5RFRJQUlqaXNoTmxoYkkwV1VhbFRHaE5pN3NFYm5mVjdXR2ZId2lJZHVaWE1zcl8xQ2hPV0JrYVVPeUNkOEQ5R2pLS3hVYy1FdHB4SklrSUlZX3ZWcEZ3dURzREUxLVNfTkZVWldfeUdWaWpXTFEyc0NxUjVsUGREd290RnE0a0Y5UzFGVG5ZQmZNLV9YNEE3WlVPYk9odUVYVVI2VEVaNVhiZHp3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9b53b217253c",
+      "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - ICL Notícias",
+      "published": "2026-10-31T01:01:08+00:00",
+      "summary": "SUS detecta quase 10 mil testes positivos para HPV de alto risco&nbsp;&nbsp;ICL NotíciasTeste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país&nbsp;&nbsp;GOV.BRCeará realiza 1,1 mil testes para detecção precoce do câncer do colo do útero&nbsp;&nbsp;O POVO+SUS identifica quase 10 mil casos de HPV de alto risco em exames de rastreamento&nbsp;&nbsp;Bahia NotíciasRastreamento do câncer do colo do útero&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5"
         }
       ]
     },
@@ -345,11 +405,23 @@
       "id": "120fe5e5d3e5",
       "title": "Estudo aponta possíveis causas da agressividade do câncer de intestino em jovens - Folha de S.Paulo",
       "published": "2026-10-30T19:36:00+00:00",
-      "summary": "Estudo aponta possíveis causas da agressividade do câncer de intestino em jovens&nbsp;&nbsp;Folha de S.PauloCâncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo&nbsp;&nbsp;O GLOBOEstudo descobre por que o câncer colorretal avança de forma agressiva em jovens&nbsp;&nbsp;TerraNotícias sobre Saúde: Análise revela que as taxas de câncer de cólon estão aumentando entre todos os adultos dos EUA&nbsp;&nbsp;TradingViewAvanço do câncer colorretal de iní",
+      "summary": "Estudo aponta possíveis causas da agressividade do câncer de intestino em jovens&nbsp;&nbsp;Folha de S.PauloCâncer de intestino em jovens é formado por células mais resistentes à quimioterapia, mostra novo estudo&nbsp;&nbsp;O GLOBOEstudo descobre por que o câncer colorretal avança de forma agressiva em jovens&nbsp;&nbsp;TerraAvanço do câncer colorretal de início precoce na América Latina e o papel da alimentação na prevenção&nbsp;&nbsp;Estadão MTCâncer colorretal precoce apresenta maior proporçã",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWXQ0d0lJc3pub1lKOHJNajlWdmtpaVhMMkRMbVpjTEhqUHhzTmVMT3JyQU9LbjU2cWdadDZCY2U0ckdyZjc5blpKMld5YXpGUUM0bk5uenl6dDlObHJ2ZnYwaTVhaGZEcTRuVjFXXzBLVloxTllPQVhCSFA0WkRvVlBsb3JaZUtIa1NoRkxwazBqdVRadG9fbXBkV1dYekd4bHk3a1VoZHhrSzlkMmU4aGRTM2prWlNlb1ItWWNGSnZycjFtU3gtVmYwSkdNdS1tZ3B4VEtDeVY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "573bc33015f1",
+      "title": "Testosterona: o que realmente ajuda a aumentar os níveis do hormônio naturalmente? - Portal Revista Kdea 360",
+      "published": "2026-10-30T18:42:09+00:00",
+      "summary": "Testosterona: o que realmente ajuda a aumentar os níveis do hormônio naturalmente?&nbsp;&nbsp;Portal Revista Kdea 360Avanços na Urologia e os riscos do uso indiscriminado de testosterona&nbsp;&nbsp;Portal de BeltrãoHormônio em debate: mulheres na menopausa recorrem à testosterona, mas ciência não dá garantias&nbsp;&nbsp;www.radiocaicara.com.brTestosterona e companhia: por que tanta gente usa hormônio sem precisar?&nbsp;&nbsp;UOLTestosterona e ganho de massa muscular: quais são os riscos?&nbsp;&n",
+      "sources": [
+        {
+          "name": "Portal Revista Kdea 360",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGx0SDdQd0hWYXpXM0N0RFJwNktPZ0xxRmp2WDF3Y0oxaHBxUUtvbEc0SmViSG1jRk1mN3R5aEZNcHUxUmtZcDdLODZDMzJIbVdDU2JqMGF6YXYydF9xWW1JU3NVNlF2UUwtTmZsQUt1UUpCN3dXa1hRdVlEVlYzUDFKVWNITzVrbVktUDVKZ0MzZFR4anVMVlBIcFFUYzFodTNlN0V4S1o3cGpxY1JITld3c2ZPcDNGM1JYUHlkOUtmdw?oc=5"
         }
       ]
     },
@@ -362,42 +434,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUkhOSUNPY3FPMzdULUtOU05Yd1hlQl93OU4zTzhuOGNySGR6WFVkWlM4MGZqWkRJdl9vLVFWTE5rY0JzbTVQSHVRa2NBQzJjN1VjMjZ3eGp4Y3ZHYjdhQk05NDZBYkZTdkNOWGh2Z0FmTm5KVjZsME1tdVpfZ0hXVmxleUVMN3BKQ1MwLWJ4V1BwVjJ3dXR3TkEwMGtwU0NNbGNmcXRJWWl2RjIxRDE2UlFwYlVKNEN2N2lFWl9UcEZDVWJLdzlmdHpIeHpHTWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a445609457f",
-      "title": "Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença - UOL",
-      "published": "2026-10-30T16:43:36+00:00",
-      "summary": "Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLU42cGVpazJNNUJxQUk0REN5bW04T0JMSjBKX0Q0dUNFWkppMkgwM3JkVHdiTXlwNENyUWVtWWxiSmdFdDZhVXhKN2I2STBfUkZLREU1RXpxaEZ3VlpYVmZYY0wzWkk3aTMtMU1oUFBOMlN5eXJiX05Jc3lkS2VGQlNweVRNNWNoSTdvMWItakNRM1lEclQxMm84anB3N1ZZUXNhTy1rT0h0WXpvVGdNRWwxby14RGl0eWVlaktVZ1dmR3N0VmlWaTRHOXMtSUY5c3NpTlJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a6dcb91bfa1",
-      "title": "Vacina contra câncer de pâncreas gera resposta imune em 99% dos pacientes - Metrópoles",
-      "published": "2026-10-30T15:42:00+00:00",
-      "summary": "Vacina contra câncer de pâncreas gera resposta imune em 99% dos pacientes&nbsp;&nbsp;MetrópolesCâncer de pâncreas: vacina experimental ativa defesas do organismo em quase 100% dos pacientes&nbsp;&nbsp;O GLOBOVacina experimental apresenta resultados promissores no combate ao câncer de pâncreas&nbsp;&nbsp;Jornal OpçãoVacina contra câncer de pâncreas ativa defesa do organismo em 99% dos pacientes em estudo&nbsp;&nbsp;Só Notícia BoaVacina experimental contra câncer de pâncreas ativa células T em 98,",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnZnSVVzOU9vNlM2X25fLWlRMDdBMUZ5dUJZQkdPZ08ySlZMYVdZdVNCY0djR2FYcTN6R0lUa1A3M08yVFJmXzNmaWFhckpLUXZqMmlnQ3JpUGdZMWRPT2VUMFozd2tsMnRVM3kxVmNhOElNZWJra0NWWVE3bEh3YTFOazZpN1JwTGxfUC1DX3JaVTBZZ0FaNC00OWVaSU5BajhUZG5mb24?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d247b5583347",
-      "title": "Exercício físico em excesso pode afetar a química do cérebro, diz estudo - CNN Brasil",
-      "published": "2026-10-30T14:47:13+00:00",
-      "summary": "Exercício físico em excesso pode afetar a química do cérebro, diz estudo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDJ3aDd5VmxPVEV1d29RTFpNTWhlYVlON0stRC1hbUF1VzluZmRDVkxZaG9kSTNjNnlkNVdWZkFTR0lfWTR0bGc0N25JVnNxT3hCdjNFS0o0bmNiTlNYTXR5bDZaMF96ckNxcWwzVDAwSE51Y1NKNU8tQVNWdXZvbjhKU045T19JbGF5aHJlTGVJS3lIR2R4aGFqd0RhbmtnQm5UVjRka2pRZms?oc=5"
         }
       ]
     },
@@ -417,7 +453,7 @@
       "id": "8d583af967e7",
       "title": "Teresina libera vacina contra gripe para toda a população a partir de terça (3) - CidadeVerde.com",
       "published": "2026-10-30T13:06:00+00:00",
-      "summary": "Teresina libera vacina contra gripe para toda a população a partir de terça (3)&nbsp;&nbsp;CidadeVerde.comVacina contra gripe será liberada para toda a população de Teresina a partir de terça-feira (3)&nbsp;&nbsp;G1Vacina contra a Influenza será liberada para toda a população de Teresina&nbsp;&nbsp;GP1Piauí lidera ranking nacional de vacinação contra gripe e libera imunizante para público geral&nbsp;&nbsp;Portal Cidade ModeloOlinda amplia vacinação contra a gripe para pessoas de todas as idades&",
+      "summary": "Teresina libera vacina contra gripe para toda a população a partir de terça (3)&nbsp;&nbsp;CidadeVerde.comVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "CidadeVerde.com",
@@ -438,25 +474,25 @@
       ]
     },
     {
-      "id": "c63afbf542ce",
-      "title": "Médico brasileiro revela por que os mais velhos não comem - iG Gente",
-      "published": "2026-10-29T15:30:00+00:00",
-      "summary": "Médico brasileiro revela por que os mais velhos não comem&nbsp;&nbsp;iG Gente",
+      "id": "2a41f48f5bb1",
+      "title": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo - G1",
+      "published": "2026-10-30T05:00:00+00:00",
+      "summary": "Excesso de exercício físico pode afetar química do cérebro e aumentar 'cansaço mental', mostra estudo&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "iG Gente",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlFuVENNNTYwY0RWX21mUzB2RWVpbGdWSDY5Y3FfUmNsdTBHZjJ4cFg0SjlZZG5pS1VRVVNfMzhfbjcwTm1reDlNVVlsYmlEcVpMbFYxNFk3ZklRenhHRlNyTXZGN0x0WGZqcDc5dENmaFJCdmpXXzRhWWJyMmxWdTZOaFg2U1UtRGJFd1VrZFp6ODIxb1NLWWhvOVJTOWR5LTdOY1dacFdOQXZ6b09abUdYNVFvSVnSAbwBQVVfeXFMT0NCSFRkUWNCNjZ3R0otWFpoNnZTTkJjRkZmOHcyRFdhWVBtTEVGYWQyaEZWOVE1elJmMkpQUmo2S3RPTkNzenNHQU9hQ0RlakFENGhQdG5TaXFKbnFVaEZCN3lIcjZWR2hidXVlWUpKSjczcWx6LUNKekRaRHhjVi1STWo2TW1yOGdNYzNhakVvVDVpYVk4dnJXSmlqRDROWHJKdDlZajRjc29EVXZwajFBZFZ4S0g1dE9CQVU?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTkVFbmNQZTkxb0FNMDFoVERXTnVqUWNjYnhUa3hFc3FIQVJMdzV0bEVYS1RxQXlhVDB3a3hIMEFqNllZeTZLcl9XN1FhaGpLeTM2ZXp5dE5DZ1h6RFZkYlNXMEdibzFKVk1CYkowMVh0VWQtVWdQQV9YaF9jVlQ2MGF5azNYdXI0LXVaWVBzQUsxZEdxM1R5TTlKWDF6VEFPamJOSmVzbk5fcXFJVmM3Z193UlZvN090NUdORXVxODVjUkFiZkpiU1U5YmZCUzFvRGN4elhiYXRLOGhZaWZfOGhfYW3SAfMBQVVfeXFMTVZzZE1ZWFpKSEhjM2QxdHJPMW01SlB4UFBZNGx2bl9ZSmItRGVfUzVVRWNCM3I4V3pxUU94ZzROellFRk4wOFBwN25QdmNZZGFPRW5UcFBrdUhLeFFpbDVYM2FOMVVyQlk1V1RKMFpkdzZ1NWgtYjRfbFppVHZBWHJHdUpzdzBTTC1GY2FqVGcxem1mak9Namg1TmFkN2JSd0hucUFpdW5yWWtKWHkwSXZFYTFreWkxSzJncWFTWlBLMzJnSFptUFdMWTVDamtCWVVjOGdWUDdkbFFOSGxvZVJhaTNsUnNBZ2lmNHhvc1BoaEI4?oc=5"
         }
       ]
     },
     {
-      "id": "fee531bc7aad",
-      "title": "Anvisa aprova cinco novas canetas de GLP-1 - Governo Federal",
+      "id": "8aa66e419c0b",
+      "title": "Anvisa aprova cinco novas canetas de GLP-1 - GOV.BR",
       "published": "2026-10-29T04:21:00+00:00",
-      "summary": "Anvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;Governo FederalAnvisa aprova cinco novas canetas para tratamento de diabetes e obesidade; veja quais&nbsp;&nbsp;G1Opinião | A revolução das canetas emagrecedoras: do prato às cadeias globais de proteínas&nbsp;&nbsp;EstadãoCaneta após os 40: por que manter a massa muscular é essencial&nbsp;&nbsp;TerraAprovação de novas canetas emagrecedoras pela Anvisa deve reduzir os preços. #JR24H #Shorts&nbsp;&nbsp;R7",
+      "summary": "Anvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;GOV.BRAnvisa aprova 5 novas canetas para tratamento de diabetes e obesidade&nbsp;&nbsp;Valor EconômicoOpinião | A revolução das canetas emagrecedoras: do prato às cadeias globais de proteínas&nbsp;&nbsp;EstadãoAprovação de novas canetas emagrecedoras pela Anvisa deve reduzir os preços. #JR24H #Shorts&nbsp;&nbsp;R7Anvisa aprova cinco novas canetas de GLP-1 para tratamento de diabetes e obesidade&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
-          "name": "Governo Federal",
+          "name": "GOV.BR",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTBsOTBIUGhkYV9zOVRSZzZIZzBSekF4Nm9OUkpOS25ILUlldEczVHMyNFlhbXBvbEJRWEFOWndORm5ma0hFYlFuYlY5emRpaHYwOG5Vd0l2SHpGYWdNeE5fWnhmVjNFWHlCVmFOY0hlNGI2aWZuVDFMYTNKYnZtWkNNakpicFZwVDZIZ3dvVWZXa01CcEdpNGlTTlVpSXhYOWlFZ2l3TQ?oc=5"
         }
       ]
@@ -474,18 +510,6 @@
       ]
     },
     {
-      "id": "ced20e00c197",
-      "title": "Como mapear a opinião de elites se elas não respondem a pesquisas? - Revista Pesquisa FAPESP",
-      "published": "2026-10-28T12:03:00+00:00",
-      "summary": "Como mapear a opinião de elites se elas não respondem a pesquisas?&nbsp;&nbsp;Revista Pesquisa FAPESP",
-      "sources": [
-        {
-          "name": "Revista Pesquisa FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeE1SQno0czhQd3Q1MEJzM3UtaGJRODdZS3JTNzBrQ1ZnY3lGYkR1N2ZOd2R5WHZOeHZyZ2VVcllrZDFqekpfNUZvOXVWVEt1MVB6TFNnVlhxMWpyZDJCaDVvV2Q4UW13eGpRUUlsMEZlczhLMWt4UGx1bFJDTTdmNXotcEk5X1B4cU1KdGdXNzJ1cjhzNUVHVEtJX3dmRkhWMGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b99e3571db12",
       "title": "Spray nasal com composto do veneno de sapo avança contra depressão resistente - Diário do Centro do Mundo",
       "published": "2026-10-27T20:42:24+00:00",
@@ -494,18 +518,6 @@
         {
           "name": "Diário do Centro do Mundo",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUhqQ2lNbHlkWjNvbHFpNmlaM2ZzSG8yOEh4SENfT1NwV2oyX1pDczEzQ0J1d2otR3QzN21fdGViUmJKbHJZM2pkNUlsMDdwSks1ZFBCMzZQMFFKN3FNbHBhTG5oYUlQV2pIb2dyLXdlbjZEZFJzTDBRR0xGdndWaXo0c2ZIQU50MTBDU083M3FTdkxDWkNHdWhaaUY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7fc2f7c9f00a",
-      "title": "Após psicóloga falar sobre não selecionar petistas para empregos, Conselho diz que repudia discriminação e que caso será apurado - G1",
-      "published": "2026-10-27T19:22:43+00:00",
-      "summary": "Após psicóloga falar sobre não selecionar petistas para empregos, Conselho diz que repudia discriminação e que caso será apurado&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeTYzTER1MGF4dUUwOVdlNV9MOVM1SUZzYW5mUlRQb0xQRHVPa0VFR1NrSTJrT2Z3RTByZlBtOTMyX2xxQjJ2VzIwREJKTG92Zld5NmdtaGNUSUZfdlQyY1d5RzlodTN1X3pIeDhMRF8tUUxjZzNFdjRwNzExY21UWjNiUFlpemJJNmRjcmpRZUIxYnE2UHNfVG1tblRZclktTEIxNU5MYkFDZDZxZlhaYlBqamMxZmdHZFh4azE0WW53N2ROaVMyd0lmZXIyS244YzEwUWRZWG5iS0hFbzVWTmEzM1Z2MWhNUVhLbmIyTkFSX1JGc2ZYcW9GVndKNGQ5WlFaTnJ4U3pYVFlEWldXd0ZtMXdNbGpwa0ZyatIBqwJBVV95cUxOaDlHQXJ2TjZ0TVM4SzdpVmRwdUhXakE4OHdqakFFWWExWVJiS3FWd2RRcVFpcTllLUlrbFNWRWF0LTVOampnOGdBd19iQmpBeW9zMDF4Q09mS1ZndEpiekZCV0hrdGdxSU9XN2o0dlJOQ2YzLVhrYk1wZFJPa3lFTEE0UVY3MG9panMycWdPdTFVUkkyUHc3RWVMdlctQ1N1Y1g5TkVPQ1E4NUxTMlpjY09xT29FbFVNSU1rdW5UVk9PckFKSmJrOV9LREdqbTJLcjVFTDNVZ2tpTkcxckNONDVfLVJyN05GLTJ5NDZHa2xGQlVPVGtxbjlIZ2hJdlFqRHdYYlBxUy1taGtEanUtNVpLaGZGRUd5Vk1hMDlTUEJsM0NsMnNnVXUzQQ?oc=5"
         }
       ]
     }

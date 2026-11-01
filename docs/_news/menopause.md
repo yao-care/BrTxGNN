@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre menopausa (menopause)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre menopausa (menopause). 1 notícias, 14 medicamentos relacionados."
+description: "Notícias de saúde sobre menopausa (menopause). 2 notícias, 14 medicamentos relacionados."
 permalink: /news/menopause/
 last_modified_at: 2026-11-01
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre menopausa (menopause)?">
-<strong>menopausa (menopause)</strong> tem atualmente <strong>1 notícias</strong> e 14 medicamentos relacionados.
+<strong>menopausa (menopause)</strong> tem atualmente <strong>2 notícias</strong> e 14 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «menopausa» e l
 </ul>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Testosterona: o que realmente ajuda a aumentar os níveis do hormônio naturalmente? - Portal Revista Kdea 360](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGx0SDdQd0hWYXpXM0N0RFJwNktPZ0xxRmp2WDF3Y0oxaHBxUUtvbEc0SmViSG1jRk1mN3R5aEZNcHUxUmtZcDdLODZDMzJIbVdDU2JqMGF6YXYydF9xWW1JU3NVNlF2UUwtTmZsQUt1UUpCN3dXa1hRdVlEVlYzUDFKVWNITzVrbVktUDVKZ0MzZFR4anVMVlBIcFFUYzFodTNlN0V4S1o3cGpxY1JITld3c2ZPcDNGM1JYUHlkOUtmdw?oc=5)
+
+2026-10-30
+
+Fonte: [Portal Revista Kdea 360](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGx0SDdQd0hWYXpXM0N0RFJwNktPZ0xxRmp2WDF3Y0oxaHBxUUtvbEc0SmViSG1jRk1mN3R5aEZNcHUxUmtZcDdLODZDMzJIbVdDU2JqMGF6YXYydF9xWW1JU3NVNlF2UUwtTmZsQUt1UUpCN3dXa1hRdVlEVlYzUDFKVWNITzVrbVktUDVKZ0MzZFR4anVMVlBIcFFUYzFodTNlN0V4S1o3cGpxY1JITld3c2ZPcDNGM1JYUHlkOUtmdw?oc=5)
+
+---
 
 ### [7 hábitos cientificamente comprovados para reduzir a gordura abdominal](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUkhOSUNPY3FPMzdULUtOU05Yd1hlQl93OU4zTzhuOGNySGR6WFVkWlM4MGZqWkRJdl9vLVFWTE5rY0JzbTVQSHVRa2NBQzJjN1VjMjZ3eGp4Y3ZHYjdhQk05NDZBYkZTdkNOWGh2Z0FmTm5KVjZsME1tdVpfZ0hXVmxleUVMN3BKQ1MwLWJ4V1BwVjJ3dXR3TkEwMGtwU0NNbGNmcXRJWWl2RjIxRDE2UlFwYlVKNEN2N2lFWl9UcEZDVWJLdzlmdHpIeHpHTWM?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Paclitaxel?">
-<strong>Paclitaxel</strong> tem atualmente <strong>10 notícias</strong> e 2 indicações previstas.
+<strong>Paclitaxel</strong> tem atualmente <strong>12 notícias</strong> e 2 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,29 @@ Esta página combina as indicações previstas por IA para Paclitaxel com as not
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (10)
+## Notícias relacionadas (12)
+
+### [Câncer de próstata matou 50 homens por dia no país em 2025 - Agência Brasil](https://news.google.com/rss/articles/CBMiswFBVV95cUxORDM3TmhtZm5oVFVaZnpMTnZpQkRKXzBvTmN0YTY1dkdCYlNOOFRtNXhUZGZZTkZwd3ZqQ3Q1Y2hFQXJLOW9jVU9mNGVsaEhJdEdBMzNVUENLNmhzOTBlTTk2TFBTX19lMW9OM2lZQ1U0R2p0QTFybUctcVg3aS11SXlDcy05eHZSa2dYaThYbUFsX3RaWi1SUGlldHlIN2k2Ulg1MU85ZldfNmloQlJwcWduMA?oc=5)
+
+2026-11-01 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Agência Brasil](https://news.google.com/rss/articles/CBMiswFBVV95cUxORDM3TmhtZm5oVFVaZnpMTnZpQkRKXzBvTmN0YTY1dkdCYlNOOFRtNXhUZGZZTkZwd3ZqQ3Q1Y2hFQXJLOW9jVU9mNGVsaEhJdEdBMzNVUENLNmhzOTBlTTk2TFBTX19lMW9OM2lZQ1U0R2p0QTFybUctcVg3aS11SXlDcy05eHZSa2dYaThYbUFsX3RaWi1SUGlldHlIN2k2Ulg1MU85ZldfNmloQlJwcWduMA?oc=5)
+
+---
 
 ### [Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb1dFYmVGZUFzNTlGY2dNVnJmWUJCTm15XzVRY0RfV2dzS2hYZVRTR0VvbVVSendHNEVwcDZ3eTdpblR0d0FVTWxsVlBBRkFFUzZLb1RpTHdLLXNQLUVZdWR6Sms5TjVZT0RZR2VWaU82ZEFUYUpoOG1USTZLdXh1WVZqTHN3M2U3MmVoMWVQbE5uU1R3TGxseFAwaGpUcGVlX2VaN2kzQlRLbmNLUk01NXpoVHJXNkN1cEZ2V210YjlxZXc1ejNCZWVBSjViMW8xbDFaY3lUa3ItZ1lRbzYyakdVSUhVZWR4OW9UcNIB-wFBVV95cUxPbmpxLVpKU2ZSZVp6TUI5c0lJaWN0eEpERks4MW5icjVhNktSQ2JoNktYaGg2Um1vWGxhMjQxc3dmOFN5eFRmdHJKTEUxeWctOVpZeEU4Y1ZNZDlyeF96ODJaSW13SnlaeHMwc29iMFM4b1J4WXQ1b3lhUmt2ZUdwUnY3WUN4SHowRHd5WjZtX21wUkRnT0hjZmNmSmpoZTN5WHYxV2R0ODFhUE8zRWJkcUxMcUk5R2RpS25pMGxzQW9jSzRSMXM5UEsxbjFZcUR3TkFTbVNtdTRPVEdiMk9GbkV5bk5lVTF5d2xoX1N5TjFvd0RyV1BWQU53dw?oc=5)
 
 2026-11-01 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de pulmão</span>
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb1dFYmVGZUFzNTlGY2dNVnJmWUJCTm15XzVRY0RfV2dzS2hYZVRTR0VvbVVSendHNEVwcDZ3eTdpblR0d0FVTWxsVlBBRkFFUzZLb1RpTHdLLXNQLUVZdWR6Sms5TjVZT0RZR2VWaU82ZEFUYUpoOG1USTZLdXh1WVZqTHN3M2U3MmVoMWVQbE5uU1R3TGxseFAwaGpUcGVlX2VaN2kzQlRLbmNLUk01NXpoVHJXNkN1cEZ2V210YjlxZXc1ejNCZWVBSjViMW8xbDFaY3lUa3ItZ1lRbzYyakdVSUhVZWR4OW9UcNIB-wFBVV95cUxPbmpxLVpKU2ZSZVp6TUI5c0lJaWN0eEpERks4MW5icjVhNktSQ2JoNktYaGg2Um1vWGxhMjQxc3dmOFN5eFRmdHJKTEUxeWctOVpZeEU4Y1ZNZDlyeF96ODJaSW13SnlaeHMwc29iMFM4b1J4WXQ1b3lhUmt2ZUdwUnY3WUN4SHowRHd5WjZtX21wUkRnT0hjZmNmSmpoZTN5WHYxV2R0ODFhUE8zRWJkcUxMcUk5R2RpS25pMGxzQW9jSzRSMXM5UEsxbjFZcUR3TkFTbVNtdTRPVEdiMk9GbkV5bk5lVTF5d2xoX1N5TjFvd0RyV1BWQU53dw?oc=5)
+
+---
+
+### [Câncer de intestino: avanços da medicina trazem novas opções de tratamento](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDZXaFJETFZiRzAtWlNsaHoyZHdUVmdTZGNfVVhKQXdsc3NKTVl4T2NLajB1UlhOektVLTZjRmVxbzZfX2RrV3VEQ0hzaV83cVdYSUNhRlF4RXVYck1tSmVwU3E2azVIdDhSSnYwRDhMal9EdEhIdTVHb1VzeXZYNmdlZWNaVFdtc19ndDNMRGctbkw4NDNNNFMzNG9XUXhtUl8xYk1iUnZISkVZbnd1ZW02QkJPdVB6NWNWZGViekIwVEtDUGw1bm9ZX1U?oc=5)
+
+2026-11-01 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de reto</span> <span class="news-indication-tag">câncer retal</span>
+
+Fonte: [R7](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDZXaFJETFZiRzAtWlNsaHoyZHdUVmdTZGNfVVhKQXdsc3NKTVl4T2NLajB1UlhOektVLTZjRmVxbzZfX2RrV3VEQ0hzaV83cVdYSUNhRlF4RXVYck1tSmVwU3E2azVIdDhSSnYwRDhMal9EdEhIdTVHb1VzeXZYNmdlZWNaVFdtc19ndDNMRGctbkw4NDNNNFMzNG9XUXhtUl8xYk1iUnZISkVZbnd1ZW02QkJPdVB6NWNWZGViekIwVEtDUGw1bm9ZX1U?oc=5)
 
 ---
 
@@ -52,11 +68,11 @@ Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHk5T0
 
 ---
 
-### [Após filha morrer com câncer, mãe também é diagnosticada: "Jornada difícil"](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3BKajVxa0RGS3R2aXotXzRETU8ySzdVa3VQc0txTE96RFhTem9jYTlWYjREemI5d3ZPZWUzMkM1QTVyVmFvaXN5Y3RfQ19CSEY0bzRfYkZBR1dTd2dDelphWGp2U1pEVlFSWWN0a05yNDlvRVpqWmZ6aHh1d2dJSExzZHNoYnoxMUFHTGNNSVRlSUtKQU5WWU1yb3NGOXR2aXN2bUlKYw?oc=5)
+### [SUS detecta quase 10 mil testes positivos para HPV de alto risco - ICL Notícias](https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5)
 
 2026-10-31 <span class="news-indication-tag">câncer</span>
 
-Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3BKajVxa0RGS3R2aXotXzRETU8ySzdVa3VQc0txTE96RFhTem9jYTlWYjREemI5d3ZPZWUzMkM1QTVyVmFvaXN5Y3RfQ19CSEY0bzRfYkZBR1dTd2dDelphWGp2U1pEVlFSWWN0a05yNDlvRVpqWmZ6aHh1d2dJSExzZHNoYnoxMUFHTGNNSVRlSUtKQU5WWU1yb3NGOXR2aXN2bUlKYw?oc=5)
+Fonte: [ICL Notícias](https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5)
 
 ---
 
@@ -78,9 +94,17 @@ Fonte: [Portal Drauzio Varella](https://news.google.com/rss/articles/CBMiuAFBVV9
 
 ### [Estudo aponta possíveis causas da agressividade do câncer de intestino em jovens - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWXQ0d0lJc3pub1lKOHJNajlWdmtpaVhMMkRMbVpjTEhqUHhzTmVMT3JyQU9LbjU2cWdadDZCY2U0ckdyZjc5blpKMld5YXpGUUM0bk5uenl6dDlObHJ2ZnYwaTVhaGZEcTRuVjFXXzBLVloxTllPQVhCSFA0WkRvVlBsb3JaZUtIa1NoRkxwazBqdVRadG9fbXBkV1dYekd4bHk3a1VoZHhrSzlkMmU4aGRTM2prWlNlb1ItWWNGSnZycjFtU3gtVmYwSkdNdS1tZ3B4VEtDeVY?oc=5)
 
-2026-10-30 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de cólon</span>
+2026-10-30 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWXQ0d0lJc3pub1lKOHJNajlWdmtpaVhMMkRMbVpjTEhqUHhzTmVMT3JyQU9LbjU2cWdadDZCY2U0ckdyZjc5blpKMld5YXpGUUM0bk5uenl6dDlObHJ2ZnYwaTVhaGZEcTRuVjFXXzBLVloxTllPQVhCSFA0WkRvVlBsb3JaZUtIa1NoRkxwazBqdVRadG9fbXBkV1dYekd4bHk3a1VoZHhrSzlkMmU4aGRTM2prWlNlb1ItWWNGSnZycjFtU3gtVmYwSkdNdS1tZ3B4VEtDeVY?oc=5)
+
+---
+
+### [Testosterona: o que realmente ajuda a aumentar os níveis do hormônio naturalmente? - Portal Revista Kdea 360](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGx0SDdQd0hWYXpXM0N0RFJwNktPZ0xxRmp2WDF3Y0oxaHBxUUtvbEc0SmViSG1jRk1mN3R5aEZNcHUxUmtZcDdLODZDMzJIbVdDU2JqMGF6YXYydF9xWW1JU3NVNlF2UUwtTmZsQUt1UUpCN3dXa1hRdVlEVlYzUDFKVWNITzVrbVktUDVKZ0MzZFR4anVMVlBIcFFUYzFodTNlN0V4S1o3cGpxY1JITld3c2ZPcDNGM1JYUHlkOUtmdw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">menopausa</span>
+
+Fonte: [Portal Revista Kdea 360](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGx0SDdQd0hWYXpXM0N0RFJwNktPZ0xxRmp2WDF3Y0oxaHBxUUtvbEc0SmViSG1jRk1mN3R5aEZNcHUxUmtZcDdLODZDMzJIbVdDU2JqMGF6YXYydF9xWW1JU3NVNlF2UUwtTmZsQUt1UUpCN3dXa1hRdVlEVlYzUDFKVWNITzVrbVktUDVKZ0MzZFR4anVMVlBIcFFUYzFodTNlN0V4S1o3cGpxY1JITld3c2ZPcDNGM1JYUHlkOUtmdw?oc=5)
 
 ---
 
@@ -89,14 +113,6 @@ Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNW
 2026-10-30 <span class="news-indication-tag">menopausa</span>
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUkhOSUNPY3FPMzdULUtOU05Yd1hlQl93OU4zTzhuOGNySGR6WFVkWlM4MGZqWkRJdl9vLVFWTE5rY0JzbTVQSHVRa2NBQzJjN1VjMjZ3eGp4Y3ZHYjdhQk05NDZBYkZTdkNOWGh2Z0FmTm5KVjZsME1tdVpfZ0hXVmxleUVMN3BKQ1MwLWJ4V1BwVjJ3dXR3TkEwMGtwU0NNbGNmcXRJWWl2RjIxRDE2UlFwYlVKNEN2N2lFWl9UcEZDVWJLdzlmdHpIeHpHTWM?oc=5)
-
----
-
-### [Vacina contra câncer de pâncreas gera resposta imune em 99% dos pacientes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnZnSVVzOU9vNlM2X25fLWlRMDdBMUZ5dUJZQkdPZ08ySlZMYVdZdVNCY0djR2FYcTN6R0lUa1A3M08yVFJmXzNmaWFhckpLUXZqMmlnQ3JpUGdZMWRPT2VUMFozd2tsMnRVM3kxVmNhOElNZWJra0NWWVE3bEh3YTFOazZpN1JwTGxfUC1DX3JaVTBZZ0FaNC00OWVaSU5BajhUZG5mb24?oc=5)
-
-2026-10-30 <span class="news-indication-tag">câncer</span>
-
-Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnZnSVVzOU9vNlM2X25fLWlRMDdBMUZ5dUJZQkdPZ08ySlZMYVdZdVNCY0djR2FYcTN6R0lUa1A3M08yVFJmXzNmaWFhckpLUXZqMmlnQ3JpUGdZMWRPT2VUMFozd2tsMnRVM3kxVmNhOElNZWJra0NWWVE3bEh3YTFOazZpN1JwTGxfUC1DX3JaVTBZZ0FaNC00OWVaSU5BajhUZG5mb24?oc=5)
 
 ---
 
