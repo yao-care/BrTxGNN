@@ -1,15 +1,63 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-01T04:55:27.790405+00:00",
-  "total_fetched": 101,
-  "unique_count": 100,
-  "health_related_count": 39,
+  "fetched_at": "2026-11-01T12:50:07.197162+00:00",
+  "total_fetched": 106,
+  "unique_count": 105,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "91f9f7fbda84",
+      "title": "Do coração ao intestino: 8 motivos para comer maçã todos os dias - UOL",
+      "published": "2026-11-01T08:30:00+00:00",
+      "summary": "Do coração ao intestino: 8 motivos para comer maçã todos os dias&nbsp;&nbsp;UOLPara que serve a maçã? Veja benefícios e receitas suculentas com a fruta&nbsp;&nbsp;EstadãoMaçã com casca ou em suco? Nutricionista explica o que muda no organismo&nbsp;&nbsp;Notícias de Cordeirópolis-SPMaçã crua ou cozida? Entenda o que muda nos nutrientes e nos benefícios para o intestino&nbsp;&nbsp;Âncora 1Maçã pode ajudar a controlar colesterol e está associada a menor risco de diabetes&nbsp;&nbsp;TNH1",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjNGUkJyeVNUQVI3VmNGaUhfYmJZWGdQQk5pVno2bWY3ZENIajVRWUlnUkRCMkVkMDBZS2tib1BnSHlYRTdYSnI3X0ExekExYkhaRmJYSVVDR0VCZFR2bjBpN3ZwY0c0NHlQVGNqNS1qN2tRWnBPdUhMS0EtZ0h4VnVCNm4zSnd2R2tVQzE3V1lzN3h6bG1zV3FBTFB4QVl6TGR6MUVCUkxwNmIwMjRCZnllTDJMWmxyT1hNZ3VsMVo3WHZZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11e7da2a131b",
+      "title": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes - G1",
+      "published": "2026-11-01T08:00:00+00:00",
+      "summary": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes&nbsp;&nbsp;G1Remédio prolonga por sete anos controle do câncer de pulmão&nbsp;&nbsp;Brasil 247Comprimido diário mostra resultado inédito no câncer que mais mata no Brasil&nbsp;&nbsp;Folha de CuritibaNovo Tratamento Amplia a Sobrevida no Câncer de Pulmão Agressivo&nbsp;&nbsp;Forbes BrasilModerna perde protagonismo em congresso de oncologia, enquanto Amgen rouba a cena&nbsp;&nbsp;Valor Econômic",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb1dFYmVGZUFzNTlGY2dNVnJmWUJCTm15XzVRY0RfV2dzS2hYZVRTR0VvbVVSendHNEVwcDZ3eTdpblR0d0FVTWxsVlBBRkFFUzZLb1RpTHdLLXNQLUVZdWR6Sms5TjVZT0RZR2VWaU82ZEFUYUpoOG1USTZLdXh1WVZqTHN3M2U3MmVoMWVQbE5uU1R3TGxseFAwaGpUcGVlX2VaN2kzQlRLbmNLUk01NXpoVHJXNkN1cEZ2V210YjlxZXc1ejNCZWVBSjViMW8xbDFaY3lUa3ItZ1lRbzYyakdVSUhVZWR4OW9UcNIB-wFBVV95cUxPbmpxLVpKU2ZSZVp6TUI5c0lJaWN0eEpERks4MW5icjVhNktSQ2JoNktYaGg2Um1vWGxhMjQxc3dmOFN5eFRmdHJKTEUxeWctOVpZeEU4Y1ZNZDlyeF96ODJaSW13SnlaeHMwc29iMFM4b1J4WXQ1b3lhUmt2ZUdwUnY3WUN4SHowRHd5WjZtX21wUkRnT0hjZmNmSmpoZTN5WHYxV2R0ODFhUE8zRWJkcUxMcUk5R2RpS25pMGxzQW9jSzRSMXM5UEsxbjFZcUR3TkFTbVNtdTRPVEdiMk9GbkV5bk5lVTF5d2xoX1N5TjFvd0RyV1BWQU53dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7162d425254d",
+      "title": "Dormiu mal? 5 medicamentos comuns podem estar atrapalhando seu sono; veja quais - O GLOBO",
+      "published": "2026-11-01T07:00:00+00:00",
+      "summary": "Dormiu mal? 5 medicamentos comuns podem estar atrapalhando seu sono; veja quais&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUC1ITXNYYlNYeEJ0bGFDNG1keVBNTksydGZIOC1XUkZPbHRuZktQR0V5Q0F4MkxuVm1qWUkzeTVxeHFQdk54a0ZmZzhjMF8zcFUzS25HdkxkVHRDY0ZqWThWWkowNEk1UnJMT3ZDNHIwNlRKYVhEbk1iOHNwa1hXYnFyc3ZFbW1PdHpkLW9QcFF5MGZTWHN4bWlHVzZlbnZrMGZhaEt3SmhiaHdzMHhuWkJZVWZXT1RiNUJ4d2NJaURLZllNY1l1aHZwS1hnQdIB3AFBVV95cUxPWmF2TTBnZ0ZQR2llZFE1TVduUlRZOVFwaEUxRW4tZG1QOVJDRXRPb3pEVEMyaDQ4MmY1NXRqWVJodUZKbE4xX3pIZmRmaWFWU0taN1U2QjA0cE84TWowTjhPZ0d3bERsZ0k3XzdVVGluUm8tM1Qtb1FCZ0VmcHdqbU5RWUV3aWVuRDNPZHdCZEVJVE1sd2l3Z0pzLXZRU3ZzeHRQemtIeUMzdVgwQnk0Z0xXQVJIcmRCYzlTcHFGcWhhdFhDS3h1dV9fYmhkMHQ0OFRySGFPT2w2RWot?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf1dd8c3f484",
+      "title": "Álcool faz bem à saúde? Por que a ideia de proteção merece cuidado - CNN Brasil",
+      "published": "2026-11-01T06:40:18+00:00",
+      "summary": "Álcool faz bem à saúde? Por que a ideia de proteção merece cuidado&nbsp;&nbsp;CNN BrasilEstudos sobre vinho e coração exigem cautela, dizem especialistas&nbsp;&nbsp;Folha de CuritibaNovo estudo derruba uma das crenças mais repetidas sobre o consumo de álcool&nbsp;&nbsp;O AntagonistaNovo estudo associa 14 bebidas por semana a um risco de 4% de morrer por causas relacionadas com o álcool ao longo da vida&nbsp;&nbsp;VineturBeber um pouco todo dia faz mal? Estudo traz alerta sobre o consumo de álcoo",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGR2eWRlemxETHdYOUhhZGR0djI4UlZJNkFQSGdIY3U5R0ZPekgzQm0zOUVHaFZrcWZrYk5iNWt0TzlLaG5QT2Zja3FLc1BvbWd1em5uWXRTc1pIcXZTNmJHUm82SHdRdzNrbFdFRnpTcVNMMWJFWHpDb19FS2NOa1hfZlk3Z2VDRGRLejA1aWNyR01aOGtpR2o5MzJnS2N4a0Iw?oc=5"
+        }
+      ]
+    },
     {
       "id": "4c92dfcfeb04",
       "title": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon - Metrópoles",
       "published": "2026-10-31T19:37:00+00:00",
-      "summary": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon&nbsp;&nbsp;MetrópolesCientistas descobrem como toxina de bactéria intestinal pode favorecer câncer de cólon&nbsp;&nbsp;Meio News",
+      "summary": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon&nbsp;&nbsp;MetrópolesSeu intestino não serve apenas para digerir: conheça a microbiota intestinal&nbsp;&nbsp;Portal da Cidade - Mogi Mirim / SPToxina de bactéria intestinal usa proteína claudina-4 para danificar cólon, aponta estudo&nbsp;&nbsp;Diário do Estado de S. PauloCientistas descobrem como toxina de bactéria intestinal pode favorecer câncer de cólon&nbsp;&nbsp;Meio News",
       "sources": [
         {
           "name": "Metrópoles",
@@ -21,11 +69,23 @@
       "id": "01c589205f64",
       "title": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos - G1",
       "published": "2026-10-31T19:35:25+00:00",
-      "summary": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos&nbsp;&nbsp;G1Mpox: casos disparam no Rio, e governo anuncia reforço de vacinas&nbsp;&nbsp;VEJARio de Janeiro registra 74 casos de Mpox em dois meses&nbsp;&nbsp;CNN BrasilPrefeitura do RJ investiga nova morte por suspeita de Mpox&nbsp;&nbsp;R7Rio tem alta nos casos de Mpox em setembro e outubro&nbsp;&nbsp;SBT News",
+      "summary": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos&nbsp;&nbsp;G1Mpox: casos disparam no Rio, e governo anuncia reforço de vacinas&nbsp;&nbsp;Assine AbrilPrefeitura do RJ investiga nova morte por suspeita de Mpox&nbsp;&nbsp;R7Rio de Janeiro registra 74 casos de Mpox em dois meses&nbsp;&nbsp;CNN BrasilRio tem alta nos casos de Mpox em setembro e outubro&nbsp;&nbsp;SBT News",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObko3VHJxUm1FVjdCdFU5cTVBUzVudkZ5UFN3UTNTMkdIYnF5MlVMVWFSQXgyci1SU0xhaUhvVWNGbERvcEJRNkdDNXhmLWR4bG8yTWplaE5rWFQ0cUF1N2JTdGwwQVcwMHFlU05oZmVwV3ltcVdrZ0k3OHdkMkNLN3Q2WWkwLWJOVVRfcW9jOWJfOHBIVEJtZ01HRkd1dXhSNmJmdHMyaEd4VjVEbzdpN1pNMElReEI2V0o1SXNxWjFNTEoxaEhDQ0E5Y0c4blVEeHJoUTlwSWZrZElBeWN1T0FZOWltU1RBeU000gH6AUFVX3lxTE45dXNSWUlLX1BRMDdiMHVzQmJOa0djRDNZaEdIRzJldnlYM3dCNUpXTmYxUkI5RFNvVDNkZjVQZE4tU3BsMXRSQ3lPOVlQOUVuWXFQenlDOVI4eG5KZGxCOGsyYW9qZXRWWHRaakxuSmh3blo2aVVuLTU1TEtEdFBfeEFPZG1OcFlHazYtaUFsVzB1SXlIbVVPMTQ5aVJnRTRFYnY5ZHJ5Zkpfd0RIaGNPelFvendaeFk5RzVMaG5SS0h1bnVwZ3RnOThlWFphd2tpcnJiTUpEWTVKSnJQU2FJcENoTFg4Y29nZ0hhUUJqVFV1OTI1WU1Ja0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3bc1e221401e",
+      "title": "Remédios de graça para pressão alta, diabetes e colesterol estão disponíveis até para quem tem plano de saúde - Jornal Correio",
+      "published": "2026-10-31T18:00:00+00:00",
+      "summary": "Remédios de graça para pressão alta, diabetes e colesterol estão disponíveis até para quem tem plano de saúde&nbsp;&nbsp;Jornal CorreioMinistério da Saúde investiga suspeitas de fraude no Farmácia Popular&nbsp;&nbsp;G1Grupo de trabalho avança no debate sobre inclusão de novos serviços de saúde no Farmácia Popular&nbsp;&nbsp;Governo FederalFarmácia Popular poderá oferecer exames gratuitos e novos serviços de saúde para diabéticos e hipertensos; entenda o que pode mudar&nbsp;&nbsp;Rádio TucunaréFa",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRVp2bGl4dTdmVDAxYnNVbE9jb2NyeTZqdnNBNjNZa1ZrRGdPYnNud1QzMlU1N0VaMVhCUDN1RlQ2aF9mblhRODk0Z3FNNFRUZV9zUDZQTWFqV0RxbWpyZ085VEg4anRLVlB6VlJzalZFcDRIQUpfdHU3ZlhfRng3VUlFajkzcXZYdFdsbWR0OURUVFNNVWI3enR5Y19UVnVkdUNxb3VZY29wMUU5LU96V1k1N2wxd0w5S0RwN0ZQaUtDaWlNNXFUQ3ltOFlZX2JsaHNRazBuM3hzZml6M1AyemtfdHpCSENwUFdKWg?oc=5"
         }
       ]
     },
@@ -45,7 +105,7 @@
       "id": "f7c00f47bdee",
       "title": "Vacina ACWY: cariocas fazem filas em postos e esgotam imunizante no Rio - Extra online",
       "published": "2026-10-31T16:55:46+00:00",
-      "summary": "Vacina ACWY: cariocas fazem filas em postos e esgotam imunizante no Rio&nbsp;&nbsp;Extra onlineMeningocócica ACWY: último dia da campanha no Rio tem filas e vacinas esgotadas&nbsp;&nbsp;G1Cobertura da vacina contra meningite é de apenas 67,1% entre adolescentes&nbsp;&nbsp;MetrópolesGoverno Lula disponibiliza painel para monitorar vacinação contra a meningite&nbsp;&nbsp;CartaCapitalEm 25 dias, Rio vacina mais de 410 mil pessoas contra a meningite&nbsp;&nbsp;Prefeitura da Cidade do Rio de Janeiro",
+      "summary": "Vacina ACWY: cariocas fazem filas em postos e esgotam imunizante no Rio&nbsp;&nbsp;Extra onlineVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Extra online",
@@ -102,18 +162,6 @@
       ]
     },
     {
-      "id": "b941ee32a67c",
-      "title": "Saúde: o teste simples de fitness que prevê o seu risco de morte - BBC",
-      "published": "2026-10-31T14:58:02+00:00",
-      "summary": "Saúde: o teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BSTdqNzVOck8xMk5BZTBRUE9vSndJeHowSnhzNVhqMFpGUGFmVC1yUGpvY2lwT2g3NFZxT21YYkZxY0hkcUprbm5XSmpQU011VEZOd3IzdzhSQThHTkpBTHcxVdIBaEFVX3lxTE1NUUItVjVyOGh6aXVyVkR0SXlCR1MwbWEyN3pDc2t5cndUUHZsSUVWN1BjMXhqR2NGYjdEa1pMNTllZmNZNkVLRHR1djhpOS1leWR6MGI2a3ZyMmZoVHh1UmY5NjJKTElr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e7ae4e285872",
       "title": "Milho safrinha: pesquisa de 35 anos em Assis chega ao fim e acende alerta sobre futuro da APTA - Assiscity",
       "published": "2026-10-31T14:34:54+00:00",
@@ -165,7 +213,7 @@
       "id": "12c5953344f1",
       "title": "Combinação de remédios pode melhorar controle da hipertensão - Poder360",
       "published": "2026-10-31T11:34:19+00:00",
-      "summary": "Combinação de remédios pode melhorar controle da hipertensão&nbsp;&nbsp;Poder360Baixa adesão ao tratamento medicamentoso dificulta combate à hipertensão&nbsp;&nbsp;Folha de S.PauloHipertensão atinge quase 24% dos adultos brasileiros e pode não apresentar sintomas&nbsp;&nbsp;Agora LitoralControlar a pressão arterial de forma eficaz poderia prevenir mais de 500.000 mortes por ano.&nbsp;&nbsp;Vietnam.vnAVC, sintomas, prevenção, diagnóstico e tratamento&nbsp;&nbsp;Revista Newslab",
+      "summary": "Combinação de remédios pode melhorar controle da hipertensão&nbsp;&nbsp;Poder360Apenas 30% dos hipertensos seguem o tratamento, dizem médicos ao Dr. Kalil&nbsp;&nbsp;CNN BrasilControlar a pressão arterial de forma eficaz poderia prevenir mais de 500.000 mortes por ano.&nbsp;&nbsp;Vietnam.vnPrevenção ao AVC: o alerta sobre os riscos invisíveis&nbsp;&nbsp;Revista Ana MariaAVC, sintomas, prevenção, diagnóstico e tratamento&nbsp;&nbsp;Revista Newslab",
       "sources": [
         {
           "name": "Poder360",
@@ -174,10 +222,22 @@
       ]
     },
     {
+      "id": "9b53b217253c",
+      "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - ICL Notícias",
+      "published": "2026-10-31T10:26:40+00:00",
+      "summary": "SUS detecta quase 10 mil testes positivos para HPV de alto risco&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "be681231ca98",
       "title": "AVC: Médicos explicam sintomas e sinais de alerta ao Dr. Kalil - CNN Brasil",
       "published": "2026-10-31T09:00:16+00:00",
-      "summary": "AVC: Médicos explicam sintomas e sinais de alerta ao Dr. Kalil&nbsp;&nbsp;CNN BrasilHMC registra 912 atendimentos por AVC em dois anos e alerta para urgência no diagnóstico&nbsp;&nbsp;Prefeitura de CuiabáEspecialista tira dúvidas sobre AVC&nbsp;&nbsp;G1Unidades de saúde de Volta Redonda promovem ações pelo Dia Mundial do AVC&nbsp;&nbsp;Prefeitura de Volta RedondaOpinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;Estadão",
+      "summary": "AVC: Médicos explicam sintomas e sinais de alerta ao Dr. Kalil&nbsp;&nbsp;CNN BrasilEspecialista tira dúvidas sobre AVC&nbsp;&nbsp;G1HMC registra 912 atendimentos por AVC em dois anos e alerta para urgência no diagnóstico&nbsp;&nbsp;Prefeitura de CuiabáOpinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;EstadãoNo Dia Mundial do AVC, Barco Brasil leva campanha “Cada Minuto Conta” ao esporte&nbsp;&nbsp;CartaCapital",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -246,18 +306,6 @@
       ]
     },
     {
-      "id": "9b53b217253c",
-      "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - ICL Notícias",
-      "published": "2026-10-31T01:01:08+00:00",
-      "summary": "SUS detecta quase 10 mil testes positivos para HPV de alto risco&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CbVBHcWZOMk1lODAteVFXNVhFOGZaT0pESU9JcndSb1k0ZWVGeFVtSWVKUVJacXhQSWNUVktmT185U1h2UHppQkRYX3c5OUxhYlBKbjliUzFoYkVMaWFJQmdITU1yU3VGQl9RZDlmQU81Yk1MTHdZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "96ee93d5fb1a",
       "title": "Britânico passa por cirurgia de 16 horas em Londres e descobre que médicos deixaram parte de seu crânio cair no chão da sala de operação - CNN Brasil",
       "published": "2026-10-31T00:06:49+00:00",
@@ -318,18 +366,6 @@
       ]
     },
     {
-      "id": "545aed6ea921",
-      "title": "Aquecimento global atrasou próxima Era do Gelo, aponta estudo - Meio Bit",
-      "published": "2026-10-30T17:31:08+00:00",
-      "summary": "Aquecimento global atrasou próxima Era do Gelo, aponta estudo&nbsp;&nbsp;Meio Bit",
-      "sources": [
-        {
-          "name": "Meio Bit",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdkRURlN1bkZSUll4RkgwcThtUHZhWFB0dUdBY0lqTWVHVVB1YW1Wd3Q3ZnRrTXVBVkpMWWJaWXIzN1Y5LVJRNXEwTHhQNEV1bjlBMVBYT3piRFkweWQwZGNucGpndkRGLWNtOVJTUVdzM3ppa3lEUV9CMHdHRmc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0a445609457f",
       "title": "Lúcia Helena: Alzheimer: chega ao Brasil o teste de sangue que encontra pista da doença - UOL",
       "published": "2026-10-30T16:43:36+00:00",
@@ -345,7 +381,7 @@
       "id": "7a6dcb91bfa1",
       "title": "Vacina contra câncer de pâncreas gera resposta imune em 99% dos pacientes - Metrópoles",
       "published": "2026-10-30T15:42:00+00:00",
-      "summary": "Vacina contra câncer de pâncreas gera resposta imune em 99% dos pacientes&nbsp;&nbsp;MetrópolesCâncer de pâncreas: vacina experimental ativa defesas do organismo em quase 100% dos pacientes&nbsp;&nbsp;O GLOBOVacina experimental apresenta resultados promissores no combate ao câncer de pâncreas&nbsp;&nbsp;Jornal OpçãoVacina experimental contra câncer de pâncreas ativa células T em 98,9%&nbsp;&nbsp;Afya | HomeVacina contra câncer de pâncreas ativa defesa do organismo em 99% dos pacientes em estudo&",
+      "summary": "Vacina contra câncer de pâncreas gera resposta imune em 99% dos pacientes&nbsp;&nbsp;MetrópolesCâncer de pâncreas: vacina experimental ativa defesas do organismo em quase 100% dos pacientes&nbsp;&nbsp;O GLOBOVacina experimental apresenta resultados promissores no combate ao câncer de pâncreas&nbsp;&nbsp;Jornal OpçãoVacina contra câncer de pâncreas ativa defesa do organismo em 99% dos pacientes em estudo&nbsp;&nbsp;Só Notícia BoaVacina experimental contra câncer de pâncreas ativa células T em 98,",
       "sources": [
         {
           "name": "Metrópoles",
@@ -390,18 +426,6 @@
       ]
     },
     {
-      "id": "b133d4d8ea4a",
-      "title": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa - UOL",
-      "published": "2026-10-30T12:33:00+00:00",
-      "summary": "19 coisas que as mulheres gostariam que o marido soubesse sobre a menopausa&nbsp;&nbsp;UOLMenopausa: 7 sinais que merecem atenção e avaliação médica&nbsp;&nbsp;G1Fogacho não é frescura: o que o calorão na menopausa revela sobre a saúde da mulher&nbsp;&nbsp;VEJAPerimenopausa e Menopausa no Brasil: desafios no diagnóstico, acolhimento e políticas públicas&nbsp;&nbsp;SenadoMenopausa transforma a pele: por que fazer os mesmos procedimentos de antes pode não funcionar&nbsp;&nbsp;Estadão Blue Studio",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTWtQa042OUMwT1BnLW1TdFdNQ0JVNlNhVjlnYWJvX2RwR0ZWU3dnelV2Z3dvXzlYMUw1UEs3YXdWNjJNbXRHT19JMmRiUEpCdjBBLVZrVllabW1YSUZfUWpTVHpKVVU2QTdaZmNHdk5WSE13TmxxWWhyczdJajhrcVp2SndqdllEdWdneXpxMkI5VW83d01fUFNsXzhGWk1kNm5iR0dNRkhrbElteUo1YWFCMnRCSUhMWkZqYXVQcFFsSnFNajMtMjdiOXpOcElHRXQ2cTNBbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "35e25d7f0cb2",
       "title": "Peixe raro de cabeça transparente é filmado em 4K pela primeira vez - O GLOBO",
       "published": "2026-10-30T06:30:00+00:00",
@@ -426,22 +450,10 @@
       ]
     },
     {
-      "id": "9cd72da53389",
-      "title": "Macacos podem desenvolver germofobia após sobreviverem a surto de doença - Superinteressante",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "Macacos podem desenvolver germofobia após sobreviverem a surto de doença&nbsp;&nbsp;Superinteressante",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGJ4X3oxRDRPUGtDNXFqRC1QWHJQYWdSOHU4UUFUM0d3ZnZsb212WDRXa3ROVXJWbTYybVAtQTdRTjJ0dENrZlloVG9ycmZ1d2VNZWFqU0k1SmtQUk1vTDZFRVZRQTNGUGVoZkZ4bmxTR1duZEd5eEN3ODhxWGhxZzN0TWlVbGtabktONXdRbmVmbmNzWW5iY0J3cmJDVVQ0dXRTWEc5MERTNWJh?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fee531bc7aad",
       "title": "Anvisa aprova cinco novas canetas de GLP-1 - Governo Federal",
       "published": "2026-10-29T04:21:00+00:00",
-      "summary": "Anvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;Governo FederalOpinião | A revolução das canetas emagrecedoras: do prato às cadeias globais de proteínas&nbsp;&nbsp;EstadãoCaneta após os 40: por que manter a massa muscular é essencial&nbsp;&nbsp;TerraCanetas emagrecedoras: Anvisa aprova 20 novos medicamentos neste ano; veja todos os autorizados no país&nbsp;&nbsp;O GLOBOAprovação de novas canetas emagrecedoras pela Anvisa deve reduzir os preços. #JR24H #Shorts&nbsp;&nbsp;R7",
+      "summary": "Anvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;Governo FederalAnvisa aprova cinco novas canetas para tratamento de diabetes e obesidade; veja quais&nbsp;&nbsp;G1Opinião | A revolução das canetas emagrecedoras: do prato às cadeias globais de proteínas&nbsp;&nbsp;EstadãoCaneta após os 40: por que manter a massa muscular é essencial&nbsp;&nbsp;TerraAprovação de novas canetas emagrecedoras pela Anvisa deve reduzir os preços. #JR24H #Shorts&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "Governo Federal",
@@ -462,6 +474,18 @@
       ]
     },
     {
+      "id": "ced20e00c197",
+      "title": "Como mapear a opinião de elites se elas não respondem a pesquisas? - Revista Pesquisa FAPESP",
+      "published": "2026-10-28T12:03:00+00:00",
+      "summary": "Como mapear a opinião de elites se elas não respondem a pesquisas?&nbsp;&nbsp;Revista Pesquisa FAPESP",
+      "sources": [
+        {
+          "name": "Revista Pesquisa FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeE1SQno0czhQd3Q1MEJzM3UtaGJRODdZS3JTNzBrQ1ZnY3lGYkR1N2ZOd2R5WHZOeHZyZ2VVcllrZDFqekpfNUZvOXVWVEt1MVB6TFNnVlhxMWpyZDJCaDVvV2Q4UW13eGpRUUlsMEZlczhLMWt4UGx1bFJDTTdmNXotcEk5X1B4cU1KdGdXNzJ1cjhzNUVHVEtJX3dmRkhWMGc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b99e3571db12",
       "title": "Spray nasal com composto do veneno de sapo avança contra depressão resistente - Diário do Centro do Mundo",
       "published": "2026-10-27T20:42:24+00:00",
@@ -470,6 +494,18 @@
         {
           "name": "Diário do Centro do Mundo",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUhqQ2lNbHlkWjNvbHFpNmlaM2ZzSG8yOEh4SENfT1NwV2oyX1pDczEzQ0J1d2otR3QzN21fdGViUmJKbHJZM2pkNUlsMDdwSks1ZFBCMzZQMFFKN3FNbHBhTG5oYUlQV2pIb2dyLXdlbjZEZFJzTDBRR0xGdndWaXo0c2ZIQU50MTBDU083M3FTdkxDWkNHdWhaaUY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7fc2f7c9f00a",
+      "title": "Após psicóloga falar sobre não selecionar petistas para empregos, Conselho diz que repudia discriminação e que caso será apurado - G1",
+      "published": "2026-10-27T19:22:43+00:00",
+      "summary": "Após psicóloga falar sobre não selecionar petistas para empregos, Conselho diz que repudia discriminação e que caso será apurado&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeTYzTER1MGF4dUUwOVdlNV9MOVM1SUZzYW5mUlRQb0xQRHVPa0VFR1NrSTJrT2Z3RTByZlBtOTMyX2xxQjJ2VzIwREJKTG92Zld5NmdtaGNUSUZfdlQyY1d5RzlodTN1X3pIeDhMRF8tUUxjZzNFdjRwNzExY21UWjNiUFlpemJJNmRjcmpRZUIxYnE2UHNfVG1tblRZclktTEIxNU5MYkFDZDZxZlhaYlBqamMxZmdHZFh4azE0WW53N2ROaVMyd0lmZXIyS244YzEwUWRZWG5iS0hFbzVWTmEzM1Z2MWhNUVhLbmIyTkFSX1JGc2ZYcW9GVndKNGQ5WlFaTnJ4U3pYVFlEWldXd0ZtMXdNbGpwa0ZyatIBqwJBVV95cUxOaDlHQXJ2TjZ0TVM4SzdpVmRwdUhXakE4OHdqakFFWWExWVJiS3FWd2RRcVFpcTllLUlrbFNWRWF0LTVOampnOGdBd19iQmpBeW9zMDF4Q09mS1ZndEpiekZCV0hrdGdxSU9XN2o0dlJOQ2YzLVhrYk1wZFJPa3lFTEE0UVY3MG9panMycWdPdTFVUkkyUHc3RWVMdlctQ1N1Y1g5TkVPQ1E4NUxTMlpjY09xT29FbFVNSU1rdW5UVk9PckFKSmJrOV9LREdqbTJLcjVFTDNVZ2tpTkcxckNONDVfLVJyN05GLTJ5NDZHa2xGQlVPVGtxbjlIZ2hJdlFqRHdYYlBxUy1taGtEanUtNVpLaGZGRUd5Vk1hMDlTUEJsM0NsMnNnVXUzQQ?oc=5"
         }
       ]
     }
