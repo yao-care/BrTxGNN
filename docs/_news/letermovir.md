@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Letermovir. 1 indicações previstas."
 permalink: /news/letermovir/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Notícias sobre Letermovir
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Letermovir?">
-<strong>Letermovir</strong> tem atualmente <strong>10 notícias</strong> e 1 indicações previstas.
+<strong>Letermovir</strong> tem atualmente <strong>13 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,31 @@ Esta página combina as indicações previstas por IA para Letermovir com as not
 <p><a href="{{ '/drugs/letermovir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (10)
+## Notícias relacionadas (13)
+
+### [Alterações genéticas hereditárias são menos frequentes em brasileiros com câncer de próstata, indica estudo - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLWVlSjFYYVZhTmc0NXI5ZExsblRZblJtNEh5N1JLWk45ZnprcmVEYV92cUJROHYxNUVkSnhjU0F2b1ZtZ3VhaW11Zkd1ak9JaFpKbzNqTlFWN0tLVzBzbkd4bnpwd29ZcGtxWVNoSlY4NGxSMVBaQVdXRlc2NVJJSlVuVTROWWVSV0hmRktGQVl2X1hPWlRVUlpoX1RPbTFUY0RTOVlpbHlicFluR004eXJRVlN6Q0c5ek5Xd0lLdF8wMF9FSS1vaE03RWZxX0JTdy1ZeEpMMHA0NkkybFQ3Ti0xVkktbjdfU2dPSWhyNDUxWktqUzl6aWpjMA?oc=5)
+
+2026-11-02 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLWVlSjFYYVZhTmc0NXI5ZExsblRZblJtNEh5N1JLWk45ZnprcmVEYV92cUJROHYxNUVkSnhjU0F2b1ZtZ3VhaW11Zkd1ak9JaFpKbzNqTlFWN0tLVzBzbkd4bnpwd29ZcGtxWVNoSlY4NGxSMVBaQVdXRlc2NVJJSlVuVTROWWVSV0hmRktGQVl2X1hPWlRVUlpoX1RPbTFUY0RTOVlpbHlicFluR004eXJRVlN6Q0c5ek5Xd0lLdF8wMF9FSS1vaE03RWZxX0JTdy1ZeEpMMHA0NkkybFQ3Ti0xVkktbjdfU2dPSWhyNDUxWktqUzl6aWpjMA?oc=5)
+
+---
+
+### [Remédio para câncer de pulmão pode evitar avanço da doença por 7 anos - CNN Brasil](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYURTdGNEdzRKdTdlejBFRFNqcXV2QWp5RTZQMXdvc2g3ZkVHRzFrdnNxMzNvYVRqOXRycHFQTEJtNHRjNDF0NUUwUG9IblN0OUE3NUNrNTBMOXRYeTViS1l1YWRZLWs1aDliX3lZNEhDSzRQUG5sYklnNG5KcFRYZ1BGYlJrZkttR2JxVURkTTg2OG43V3ktekRkOHJnRkhVUGIwcnA4RWs?oc=5)
+
+2026-11-01 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de pulmão</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYURTdGNEdzRKdTdlejBFRFNqcXV2QWp5RTZQMXdvc2g3ZkVHRzFrdnNxMzNvYVRqOXRycHFQTEJtNHRjNDF0NUUwUG9IblN0OUE3NUNrNTBMOXRYeTViS1l1YWRZLWs1aDliX3lZNEhDSzRQUG5sYklnNG5KcFRYZ1BGYlJrZkttR2JxVURkTTg2OG43V3ktekRkOHJnRkhVUGIwcnA4RWs?oc=5)
+
+---
+
+### [Câncer de Próstata Matou 50 Homens por Dia no País em 2025 - Forbes Brasil](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0YtT1pVel9zLUtvTUJnNVVuR29RX1c2b3VxS2FfZ0JpRFlZd1BHTlJnM1FGZEs3Vm56bjVlQWlsY0d4a2J6ZFAzVGswWF9fQ2hNd3F6VXJ4QTRMc2FpbmxBZkJFV1FfaXpvbHVadktsR05zUXhLTWNsRlJlZmhEaHNid2ZjM19QeWM1eDNyeWlFb0d6TnA3cWVZMzRqTUM5dzI2ZQ?oc=5)
+
+2026-11-01 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Forbes Brasil](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0YtT1pVel9zLUtvTUJnNVVuR29RX1c2b3VxS2FfZ0JpRFlZd1BHTlJnM1FGZEs3Vm56bjVlQWlsY0d4a2J6ZFAzVGswWF9fQ2hNd3F6VXJ4QTRMc2FpbmxBZkJFV1FfaXpvbHVadktsR05zUXhLTWNsRlJlZmhEaHNid2ZjM19QeWM1eDNyeWlFb0d6TnA3cWVZMzRqTUM5dzI2ZQ?oc=5)
+
+---
 
 ### [Câncer de próstata matou 50 homens por dia no país em 2025 - Agência Brasil](https://news.google.com/rss/articles/CBMiswFBVV95cUxORDM3TmhtZm5oVFVaZnpMTnZpQkRKXzBvTmN0YTY1dkdCYlNOOFRtNXhUZGZZTkZwd3ZqQ3Q1Y2hFQXJLOW9jVU9mNGVsaEhJdEdBMzNVUENLNmhzOTBlTTk2TFBTX19lMW9OM2lZQ1U0R2p0QTFybUctcVg3aS11SXlDcy05eHZSa2dYaThYbUFsX3RaWi1SUGlldHlIN2k2Ulg1MU85ZldfNmloQlJwcWduMA?oc=5)
 
