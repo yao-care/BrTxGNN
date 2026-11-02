@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-01T21:47:39.914100+00:00",
-  "total_fetched": 108,
-  "unique_count": 106,
-  "health_related_count": 43,
+  "fetched_at": "2026-11-02T04:56:25.963112+00:00",
+  "total_fetched": 103,
+  "unique_count": 101,
+  "health_related_count": 38,
   "news": [
+    {
+      "id": "fd0347439de6",
+      "title": "'Serpente robô' criada pelo MIT percorre corpo humano por dentro para examinar e tratar doenças; conheça - Terra",
+      "published": "2026-11-01T21:02:00+00:00",
+      "summary": "'Serpente robô' criada pelo MIT percorre corpo humano por dentro para examinar e tratar doenças; conheça&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeWdwNFM3RjM2X3JRYXlTMThoQzBYY1hOdThPd216OUREWlJNemZ2ekg4OGVQd0t6QXFTejdLdXVMTW9KU25yTXBHcDhlcXNaanF1S1l3SGtxVHNHOE5LWlVuNGt2U052SUkzUWNxQ2tyNGYyeFpJMmVNb09XNFJGdzFITDlmQkVMLXVsdXZSUjNldXBsNG9kNXRzcWNZWTlJSXNXTXU3T3VBdi00c1VwZ2tvQm4tTHhKVG43TEJuUDhEaWgySEpHUUJVTUxSZkd1dC1MN3VkUHlNTzV4V0RSSWE2MkJVTnZkeEVVbzY0V29tNjZ6WTRCTWl2emhYazcxTkxtM2NhOVJ4N010Tzc1bkR4SWkwVWRVV3BCVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "79faf4d03898",
+      "title": "Secretaria de Saúde do RJ monitora alta de Mpox após casos superarem 2025 - Folha de S.Paulo",
+      "published": "2026-11-01T20:26:00+00:00",
+      "summary": "Secretaria de Saúde do RJ monitora alta de Mpox após casos superarem 2025&nbsp;&nbsp;Folha de S.PauloSaiba como acontece a transmissão e as melhores formas de se prevenir da Mpox&nbsp;&nbsp;O GLOBOMpox: casos disparam no Rio, e governo anuncia reforço de vacinas&nbsp;&nbsp;Assine AbrilMpox: governo reforça volume de vacina no Rio para lidar com alta de casos&nbsp;&nbsp;MetrópolesRio de Janeiro registra 211 casos de Mpox em 2026&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWFEWTV4Zm9NRkI4VllkZl9YQ3B6Z2dUSmlPSXppMnlFcVc4dUhWbTFqU1l0Y2tVZ3JqZkl5Y3VqWnBOdC00aXl3dHB2MlF3VENUUFdWaFZyazZfeHJoYXQ3VmptcnhoYkpiNXJ6Z2t3ZzE3SHd6QTgxUFRDREZOaDRtZm9DUUVRWjJTT3V3bUN1UlZlX2RaNjllOWF6NkVxNXo5akV2MU83UVlxSUVtWXlBZGowREFPRXlhUjZmNENOaThsdDRRM2M4TnAwZlE?oc=5"
+        }
+      ]
+    },
     {
       "id": "22a1305ea4c3",
       "title": "AquaRio completa 10 anos, soma 9,5 milhões de visitantes e anuncia R$ 10 milhões para pesquisas - Diário do Rio",
@@ -14,6 +38,18 @@
         {
           "name": "Diário do Rio",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONnk1RFdmR3JtTzN3SnhZS3Vib3duc0ZLZDAwUWVETjZacUt1TkJXSGN3Rk9IemxMRVQ5cWYtaXdMeW1OLWpNU19nbXJadVMyUkY5cS1WeVRUem9TNlJCTm44RGJKcUNZYWRfRldmWUs5SXlHNWQ4dTlJUXBPTGdsM3p6bnMzRnRDbjZtZFViaW9NS25vc0t6TU00WG53Q09EbUNtc013enJ0aTQ3SVUyT3VvYk9sU29MZWZycml0SEZMQjM3c0k5WHJrbzNjWjJuSDBXUWtMcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0fa59d7d4566",
+      "title": "Cérebro é composto por dois órgãos? Estudo revela origens celulares distintas - Gazeta do Povo",
+      "published": "2026-11-01T17:00:00+00:00",
+      "summary": "Cérebro é composto por dois órgãos? Estudo revela origens celulares distintas&nbsp;&nbsp;Gazeta do Povo",
+      "sources": [
+        {
+          "name": "Gazeta do Povo",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkRMNFRfTTJHbnBJbHJBMV9mWTFSeTF2dDJFejJ2MEEwZVItZmlycDR1Z2ZSTENrVFhMLVFneVdmbVF5RXN3NEVJN0MzV2J4dTJoeUFLWmJldV9YdEg0QjlwdEpwTFd3Z1lpWHdIZGFSZUlPVE40T3QyWkJnX2lUS1UyckkzUThQZ3c?oc=5"
         }
       ]
     },
@@ -66,6 +102,18 @@
       ]
     },
     {
+      "id": "2f27ce376907",
+      "title": "Opinião - Marcelo Leite: Sonho da medicina de precisão alcança SUS - Folha de S.Paulo",
+      "published": "2026-11-01T11:30:00+00:00",
+      "summary": "Opinião - Marcelo Leite: Sonho da medicina de precisão alcança SUS&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjZGcXN0d09JNXpJSENfa0ZiUlNtSUpLZnphbU1OcWxZbzdGWmVTM1ZYTzg3NVlXcmE1RkoxS2ktQ2lDY1VmWE5ndVY3ZlpPLVpPUUk0eW44WGp4WVpfMWhsbTVENkxKUS0teFk5c01MQjZ2ZGZsU1ZLYnc5d2FpYjRCMXNVZ0xJeE5UWWhZY2p5cVZPQUJpeXFERlJ0WnlObzRHSEwwQzBOZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7cf49eb981fd",
       "title": "Estudo associa atividade física a maior volume cerebral em idosos - Poder360",
       "published": "2026-11-01T11:15:14+00:00",
@@ -81,7 +129,7 @@
       "id": "aa2129a48b61",
       "title": "Câncer de próstata matou 50 homens por dia no país em 2025 - Agência Brasil",
       "published": "2026-11-01T11:12:00+00:00",
-      "summary": "Câncer de próstata matou 50 homens por dia no país em 2025&nbsp;&nbsp;Agência BrasilNovembro Azul: câncer de próstata é o segundo tipo mais comum em homens&nbsp;&nbsp;CNN BrasilCâncer de próstata: tratamento não significa fim da vida sexual, diz médico&nbsp;&nbsp;MetrópolesNovembro Azul reforça a importância do cuidado com a saúde masculina&nbsp;&nbsp;Correio BrazilienseNovembro Azul: saiba a importância da campanha na saúde masculina&nbsp;&nbsp;Band",
+      "summary": "Câncer de próstata matou 50 homens por dia no país em 2025&nbsp;&nbsp;Agência BrasilNovembro Azul: câncer de próstata é o segundo tipo mais comum em homens&nbsp;&nbsp;CNN BrasilCâncer de próstata: tratamento não significa fim da vida sexual, diz médico&nbsp;&nbsp;MetrópolesNovembro Azul: saiba a importância da campanha na saúde masculina&nbsp;&nbsp;BandMauá abre Novembro Azul em evento de carros antigos no domingo (1º)&nbsp;&nbsp;Diário do Grande ABC",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -93,7 +141,7 @@
       "id": "7c566f49a136",
       "title": "Vacina ACWY: aplicação aos grupos prioritários retorna na próxima semana - Extra online",
       "published": "2026-11-01T10:00:00+00:00",
-      "summary": "Vacina ACWY: aplicação aos grupos prioritários retorna na próxima semana&nbsp;&nbsp;Extra onlineMeningocócica ACWY: último dia da campanha no Rio tem filas e vacinas esgotadas&nbsp;&nbsp;G1Último dia de vacinação contra a meningite no Rio tem filas e estoques esgotados antes do horário previsto&nbsp;&nbsp;Tempo RealCobertura da vacina contra meningite é de apenas 67,1% entre adolescentes&nbsp;&nbsp;MetrópolesEm 25 dias, mais de 410 mil pessoas são vacinadas contra meningite no Rio&nbsp;&nbsp;O D",
+      "summary": "Vacina ACWY: aplicação aos grupos prioritários retorna na próxima semana&nbsp;&nbsp;Extra onlineMeningocócica ACWY: último dia da campanha no Rio tem filas e vacinas esgotadas&nbsp;&nbsp;G1Cobertura da vacina contra meningite é de apenas 67,1% entre adolescentes&nbsp;&nbsp;MetrópolesSaúde lança painel para monitorar vacina da meningite no país; veja&nbsp;&nbsp;D24AMPrefeitura amplia oferta da vacina meningocócica ACWY até quinta-feira, 29&nbsp;&nbsp;Prefeitura Municipal de Vitória da Conquista -",
       "sources": [
         {
           "name": "Extra online",
@@ -129,7 +177,7 @@
       "id": "11e7da2a131b",
       "title": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes - G1",
       "published": "2026-11-01T08:00:00+00:00",
-      "summary": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes&nbsp;&nbsp;G1Remédio prolonga por sete anos controle do câncer de pulmão&nbsp;&nbsp;Brasil 247Comprimido diário aumenta sobrevida de pacientes com câncer de pulmão avançado&nbsp;&nbsp;Rádio MetrópoleRemédio para câncer de pulmão pode evitar avanço da doença por 7 anos&nbsp;&nbsp;CNN BrasilNovo Tratamento Amplia a Sobrevida no Câncer de Pulmão Agressivo&nbsp;&nbsp;Forbes Brasil",
+      "summary": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes&nbsp;&nbsp;G1Comprimido diário aumenta sobrevida de pacientes com câncer de pulmão avançado&nbsp;&nbsp;Rádio MetrópoleRemédio prolonga por sete anos controle do câncer de pulmão&nbsp;&nbsp;Brasil 247Remédio para câncer de pulmão pode evitar avanço da doença por 7 anos&nbsp;&nbsp;CNN BrasilNovo Tratamento Amplia a Sobrevida no Câncer de Pulmão Agressivo&nbsp;&nbsp;Forbes Brasil",
       "sources": [
         {
           "name": "G1",
@@ -174,42 +222,6 @@
       ]
     },
     {
-      "id": "4c92dfcfeb04",
-      "title": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon - Metrópoles",
-      "published": "2026-10-31T19:37:00+00:00",
-      "summary": "Estudo descobre como bactéria intestinal pode favorecer câncer de cólon&nbsp;&nbsp;MetrópolesVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHk5T0M1Q0FwNS01XzJPTmw5RXR6TEt0V3BWanB2bFBtMkNyUC1jQzRhX0lyRXZOeGU5OHk5U2tIbWdoVXNKbWhlRGFQdGtjbkg3RHBsQVFoS3RsVUh5RWotbXRNVFVMRk56MDNoUUFOWXNCVzVzRTNBekV4ckNYVWhwRXMwTEp6Q0hSSmMzYlQ5dHZub0I3VFByNUtGTVF6VmRHOWhOMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01c589205f64",
-      "title": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos - G1",
-      "published": "2026-10-31T19:35:25+00:00",
-      "summary": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos&nbsp;&nbsp;G1Secretaria de Saúde do RJ monitora alta de Mpox após casos superarem 2025&nbsp;&nbsp;Folha de S.PauloMpox: casos disparam no Rio, e governo anuncia reforço de vacinas&nbsp;&nbsp;Assine AbrilMpox: governo reforça volume de vacina no Rio para lidar com alta de casos&nbsp;&nbsp;MetrópolesRio tem alta nos casos de Mpox em setembro e outubro&nbsp;&nbsp;SBT News",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObko3VHJxUm1FVjdCdFU5cTVBUzVudkZ5UFN3UTNTMkdIYnF5MlVMVWFSQXgyci1SU0xhaUhvVWNGbERvcEJRNkdDNXhmLWR4bG8yTWplaE5rWFQ0cUF1N2JTdGwwQVcwMHFlU05oZmVwV3ltcVdrZ0k3OHdkMkNLN3Q2WWkwLWJOVVRfcW9jOWJfOHBIVEJtZ01HRkd1dXhSNmJmdHMyaEd4VjVEbzdpN1pNMElReEI2V0o1SXNxWjFNTEoxaEhDQ0E5Y0c4blVEeHJoUTlwSWZrZElBeWN1T0FZOWltU1RBeU000gH6AUFVX3lxTE45dXNSWUlLX1BRMDdiMHVzQmJOa0djRDNZaEdIRzJldnlYM3dCNUpXTmYxUkI5RFNvVDNkZjVQZE4tU3BsMXRSQ3lPOVlQOUVuWXFQenlDOVI4eG5KZGxCOGsyYW9qZXRWWHRaakxuSmh3blo2aVVuLTU1TEtEdFBfeEFPZG1OcFlHazYtaUFsVzB1SXlIbVVPMTQ5aVJnRTRFYnY5ZHJ5Zkpfd0RIaGNPelFvendaeFk5RzVMaG5SS0h1bnVwZ3RnOThlWFphd2tpcnJiTUpEWTVKSnJQU2FJcENoTFg4Y29nZ0hhUUJqVFV1OTI1WU1Ja0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3bc1e221401e",
-      "title": "Remédios de graça para pressão alta, diabetes e colesterol estão disponíveis até para quem tem plano de saúde - Jornal Correio",
-      "published": "2026-10-31T18:00:00+00:00",
-      "summary": "Remédios de graça para pressão alta, diabetes e colesterol estão disponíveis até para quem tem plano de saúde&nbsp;&nbsp;Jornal CorreioMinistério da Saúde investiga suspeitas de fraude no Farmácia Popular&nbsp;&nbsp;G1Grupo de trabalho avança no debate sobre inclusão de novos serviços de saúde no Farmácia Popular&nbsp;&nbsp;Governo FederalFarmácia Popular poderá oferecer exames gratuitos e novos serviços de saúde para diabéticos e hipertensos; entenda o que pode mudar&nbsp;&nbsp;Rádio TucunaréFa",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRVp2bGl4dTdmVDAxYnNVbE9jb2NyeTZqdnNBNjNZa1ZrRGdPYnNud1QzMlU1N0VaMVhCUDN1RlQ2aF9mblhRODk0Z3FNNFRUZV9zUDZQTWFqV0RxbWpyZ085VEg4anRLVlB6VlJzalZFcDRIQUpfdHU3ZlhfRng3VUlFajkzcXZYdFdsbWR0OURUVFNNVWI3enR5Y19UVnVkdUNxb3VZY29wMUU5LU96V1k1N2wxd0w5S0RwN0ZQaUtDaWlNNXFUQ3ltOFlZX2JsaHNRazBuM3hzZml6M1AyemtfdHpCSENwUFdKWg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2ddbcd1dc031",
       "title": "Aos 96 anos, José Sarney retoma exercícios físicos após cirurgia para tratar obstrução intestinal - Terra",
       "published": "2026-10-31T17:58:00+00:00",
@@ -222,22 +234,10 @@
       ]
     },
     {
-      "id": "ac8fe06ddc82",
-      "title": "Mostratec reconhece anos de pesquisa de jovens estudantes; veja a lista de premiados - abc+",
-      "published": "2026-10-31T15:38:00+00:00",
-      "summary": "Mostratec reconhece anos de pesquisa de jovens estudantes; veja a lista de premiados&nbsp;&nbsp;abc+",
-      "sources": [
-        {
-          "name": "abc+",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYk5sSVpkdk1UUHFJMkFPdjB2dWZuUllHUHc0b2YwNWhGbWJCOGZtU3lBRjdEMGx4NDl3MzViTTVWQ0xkYkZoOTNubWpEZFd4VHAwcE91WUFTbDJidGhsYkJJUDAzVURBalRkV3Y0QzZZV1BoNUI5THdZY1c2TE5aUDhxdEFtUDB5RnBrMTF5RTR0c0FVUUZHNHZxeHpZdVBaclcyQzdoc29faFFKbHZmQzZTQ2piaXRfOHJtWlhpeEx4cXEzVUk5TVRxVmpGTURIaTBZSEpfNmhPNU0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e83a9db5ac28",
       "title": "O teste simples de fitness que prevê o seu risco de morte - G1",
       "published": "2026-10-31T15:17:59+00:00",
-      "summary": "O teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;G1Teste de 1 minuto pode revelar sinais de risco para a saúde do coração&nbsp;&nbsp;Diário do Centro do MundoTeste de 1 minuto pode indicar maior risco de morte; veja como fazer&nbsp;&nbsp;ExameTeste de recuperação cardíaca pode indicar risco à saúde&nbsp;&nbsp;Diário do Centro do Mundo",
+      "summary": "O teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "G1",
@@ -249,7 +249,7 @@
       "id": "be773235238d",
       "title": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje - UOL",
       "published": "2026-10-31T15:00:00+00:00",
-      "summary": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje&nbsp;&nbsp;UOLNovo alerta da OMS: Até 45% dos casos de demência podem ser evitados antes dos primeiros sintomas&nbsp;&nbsp;Catraca LivreColesterol alto passa a ser considerado fator de risco para demência, afirma comissão científica&nbsp;&nbsp;Tua SaúdeHábitos saudáveis podem ajudar a reduzir risco de Alzheimer&nbsp;&nbsp;TV JaguariO que pode fazer para se proteger contra a doença de Alzheimer?&nbsp;&nbsp;TRT Português",
+      "summary": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje&nbsp;&nbsp;UOLNovo alerta da OMS: até 45% dos casos de demência podem ser evitados antes dos primeiros sintomas&nbsp;&nbsp;Catraca LivreColesterol alto passa a ser considerado fator de risco para demência, afirma comissão científica&nbsp;&nbsp;Tua SaúdeHábitos saudáveis podem ajudar a reduzir risco de Alzheimer&nbsp;&nbsp;TV JaguariO que pode fazer para se proteger contra a doença de Alzheimer?&nbsp;&nbsp;TRT Português",
       "sources": [
         {
           "name": "UOL",
@@ -309,7 +309,7 @@
       "id": "be681231ca98",
       "title": "AVC: Médicos explicam sintomas e sinais de alerta ao Dr. Kalil - CNN Brasil",
       "published": "2026-10-31T09:00:16+00:00",
-      "summary": "AVC: Médicos explicam sintomas e sinais de alerta ao Dr. Kalil&nbsp;&nbsp;CNN BrasilEspecialista tira dúvidas sobre AVC&nbsp;&nbsp;G1HMC registra 912 atendimentos por AVC em dois anos e alerta para urgência no diagnóstico&nbsp;&nbsp;Prefeitura de CuiabáOpinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;EstadãoNo Dia Mundial do AVC, Barco Brasil leva campanha “Cada Minuto Conta” ao esporte&nbsp;&nbsp;CartaCapital",
+      "summary": "AVC: Médicos explicam sintomas e sinais de alerta ao Dr. Kalil&nbsp;&nbsp;CNN BrasilHMC registra 912 atendimentos por AVC em dois anos e alerta para urgência no diagnóstico&nbsp;&nbsp;Prefeitura de CuiabáOpinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;EstadãoTratamento e reabilitação ajudam pacientes a recuperar movimentos após AVC&nbsp;&nbsp;R7Dia Mundial do AVC: especialista orienta sobre prevenção e sinais de alerta&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -342,18 +342,6 @@
       ]
     },
     {
-      "id": "f44b6f6f6d0c",
-      "title": "A psicologia explica: “Pessoas que voltam das férias sem postar nenhuma foto nas redes sociais podem não estar apenas sendo discretas, mas aproveitando os momentos sem sentir necessidade de aprovação dos outros” - Super Rádio Tupi",
-      "published": "2026-10-31T03:27:46+00:00",
-      "summary": "A psicologia explica: “Pessoas que voltam das férias sem postar nenhuma foto nas redes sociais podem não estar apenas sendo discretas, mas aproveitando os momentos sem sentir necessidade de aprovação dos outros”&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZ1p2LTB4MlNTcDZUYU1yTUV4WmxDWTNtT09WSEVzYTM2VVYwcUpvcHZFb2o4MnNrSXl4S1FVUWhmeW1GYUk5amFwODMxdUN6WmdwcVJiWW5MU09LSW1Ncm9jcW5kdTFJUHNSaXBDdDBqbWlxRnAyc1pIS25tc3ptUmNncDZRYlctSDlnSjBGeWl2NFVHRnloZGFNSnA3MGpzWmM5RFRJQUlqaXNoTmxoYkkwV1VhbFRHaE5pN3NFYm5mVjdXR2ZId2lJZHVaWE1zcl8xQ2hPV0JrYVVPeUNkOEQ5R2pLS3hVYy1FdHB4SklrSUlZX3ZWcEZ3dURzREUxLVNfTkZVWldfeUdWaWpXTFEyc0NxUjVsUGREd290RnE0a0Y5UzFGVG5ZQmZNLV9YNEE3WlVPYk9odUVYVVI2VEVaNVhiZHp3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9b53b217253c",
       "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco - ICL Notícias",
       "published": "2026-10-31T01:01:08+00:00",
@@ -374,18 +362,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPd0EwTkQ5dzRSbzAyQWY3clFQTG1ZZEdBZUs2RXROSlNyQ1FOZUxfYlVjSTk3MUhrYmFRVTZITzhDeUliMDlSdERjMktaVE1FbDdSbWszbUZOdFlMbmREOWgxdWkyN1BGdG84S3pxWUVnMFFNZzY3V2l5b0d4ZDRuaGhPc2I1elRKdGVUb1ViNWUwTmV2WkdZS2dTWTQ1em0zQnM0aDIwVWdOSTdUSlZkYUpqMkg3QnE4dEFaT0E4VDZNa3lGQXcwODdTcG45M3dYUnhoMW11OHFrNWRwLVVEa0FLSFh1V3Nlb1o4Y2xhY1liS3pEYlVYZTB3amZ4M25DYTJvUE1nOVJ3dk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e5e64e3d4d6",
-      "title": "Paula Gibi convive com câncer há 13 anos e encontra no humor uma forma de enfrentar a doença - OBemdito",
-      "published": "2026-10-30T21:43:00+00:00",
-      "summary": "Paula Gibi convive com câncer há 13 anos e encontra no humor uma forma de enfrentar a doença&nbsp;&nbsp;OBemdito",
-      "sources": [
-        {
-          "name": "OBemdito",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95ekd6dDMyUnFScDRPMndLVHJhbkxreUptVmt0bFRwdld4UXJDeWx5SjNIUzk4Sl9hSGxGTkVuU2c2SjRLUDVMcEVhenhRcHNzbUlZaEI3bkV3X3dYdFBHYnJkR3R4d0NLQUdrZ0pyWVhYdTh1X1lrdXNn0gF_QVVfeXFMUHA2MjJfMEM0OTVGOWp6bzZyOTFtMGNDdzRkT1JEUG9aelFYZUh6eHA1NjVJelZMVGdmZ1BjMDB2dDJGZnlXUm92RkxMMnd6clktaUs0SHhaQ0c4aDdTRFZjZnlZa1FqMnVTRlRHcGxjT1pvZUs1Z25hMEZVX0lZSQ?oc=5"
         }
       ]
     },
@@ -417,7 +393,7 @@
       "id": "573bc33015f1",
       "title": "Testosterona: o que realmente ajuda a aumentar os níveis do hormônio naturalmente? - Portal Revista Kdea 360",
       "published": "2026-10-30T18:42:09+00:00",
-      "summary": "Testosterona: o que realmente ajuda a aumentar os níveis do hormônio naturalmente?&nbsp;&nbsp;Portal Revista Kdea 360Avanços na Urologia e os riscos do uso indiscriminado de testosterona&nbsp;&nbsp;Portal de BeltrãoHormônio em debate: mulheres na menopausa recorrem à testosterona, mas ciência não dá garantias&nbsp;&nbsp;www.radiocaicara.com.brTestosterona e companhia: por que tanta gente usa hormônio sem precisar?&nbsp;&nbsp;UOLTestosterona e ganho de massa muscular: quais são os riscos?&nbsp;&n",
+      "summary": "Testosterona: o que realmente ajuda a aumentar os níveis do hormônio naturalmente?&nbsp;&nbsp;Portal Revista Kdea 360Avanços na Urologia e os riscos do uso indiscriminado de testosterona&nbsp;&nbsp;Portal Tri NotíciasHormônio em debate: mulheres na menopausa recorrem à testosterona, mas ciência não dá garantias&nbsp;&nbsp;www.radiocaicara.com.brTestosterona e ganho de massa muscular: quais são os riscos?&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Portal Revista Kdea 360",
@@ -450,18 +426,6 @@
       ]
     },
     {
-      "id": "8d583af967e7",
-      "title": "Teresina libera vacina contra gripe para toda a população a partir de terça (3) - CidadeVerde.com",
-      "published": "2026-10-30T13:06:00+00:00",
-      "summary": "Teresina libera vacina contra gripe para toda a população a partir de terça (3)&nbsp;&nbsp;CidadeVerde.comVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeTVfbXNaTGxCWnB5QUM2by1mSzhyVm9heVZ5ZGdidEhSY3RNY0pNS0d2c2FyaXZFLXJJNVhsUzNXTThTQlBzZ1FwVHMyUXZTOWdUSF9oZnRKYlFwengtcWZwSFdFUE1NWlpNbWowak8wYUxtRWY2b05KaXFCUDNTRmsxWWhuc3luYnJzZjZOSmdDbjJMUld0RzFEZVFBU1V2TnIxZEhGRXJKeGNfR1FNV0ZxODJfZmc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "35e25d7f0cb2",
       "title": "Peixe raro de cabeça transparente é filmado em 4K pela primeira vez - O GLOBO",
       "published": "2026-10-30T06:30:00+00:00",
@@ -486,38 +450,14 @@
       ]
     },
     {
-      "id": "8aa66e419c0b",
-      "title": "Anvisa aprova cinco novas canetas de GLP-1 - GOV.BR",
-      "published": "2026-10-29T04:21:00+00:00",
-      "summary": "Anvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;GOV.BRAnvisa aprova 5 novas canetas para tratamento de diabetes e obesidade&nbsp;&nbsp;Valor EconômicoOpinião | A revolução das canetas emagrecedoras: do prato às cadeias globais de proteínas&nbsp;&nbsp;EstadãoAprovação de novas canetas emagrecedoras pela Anvisa deve reduzir os preços. #JR24H #Shorts&nbsp;&nbsp;R7Anvisa aprova cinco novas canetas de GLP-1 para tratamento de diabetes e obesidade&nbsp;&nbsp;Jornal Correio",
+      "id": "a1176c6f5b1c",
+      "title": "Anvisa aprova cinco novas canetas para tratamento de diabetes e obesidade; veja quais - G1",
+      "published": "2026-10-29T07:00:00+00:00",
+      "summary": "Anvisa aprova cinco novas canetas para tratamento de diabetes e obesidade; veja quais&nbsp;&nbsp;G1Anvisa aprova 5 novas canetas para tratamento de diabetes e obesidade | Brasil&nbsp;&nbsp;Valor EconômicoOpinião | A revolução das canetas emagrecedoras: do prato às cadeias globais de proteínas&nbsp;&nbsp;EstadãoAnvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;GOV.BRAprovação de novas canetas emagrecedoras pela Anvisa deve reduzir os preços. #JR24H #Shorts&nbsp;&nbsp;R7",
       "sources": [
         {
-          "name": "GOV.BR",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTBsOTBIUGhkYV9zOVRSZzZIZzBSekF4Nm9OUkpOS25ILUlldEczVHMyNFlhbXBvbEJRWEFOWndORm5ma0hFYlFuYlY5emRpaHYwOG5Vd0l2SHpGYWdNeE5fWnhmVjNFWHlCVmFOY0hlNGI2aWZuVDFMYTNKYnZtWkNNakpicFZwVDZIZ3dvVWZXa01CcEdpNGlTTlVpSXhYOWlFZ2l3TQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dcfb49b2e211",
-      "title": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X",
-      "published": "2026-10-28T12:09:05+00:00",
-      "summary": "Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama&nbsp;&nbsp;Portal Ponto XAulão de Funcional Outubro Rosa em Benedito Leite chama atenção para autocuidado com o câncer&nbsp;&nbsp;Cidadesnanet.comDepois do diagnóstico: preservar músculos pode ser tão importante quanto controlar o peso durante o…&nbsp;&nbsp;Jornal do BrásAtividades físicas ajudam na prevenção contra o câncer de mama&nbsp;&nbsp;CNN BrasilExercício físico a",
-      "sources": [
-        {
-          "name": "Portal Ponto X",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b99e3571db12",
-      "title": "Spray nasal com composto do veneno de sapo avança contra depressão resistente - Diário do Centro do Mundo",
-      "published": "2026-10-27T20:42:24+00:00",
-      "summary": "Spray nasal com composto do veneno de sapo avança contra depressão resistente&nbsp;&nbsp;Diário do Centro do MundoSpray nasal feito com composto psicodélico de veneno de sapo alivia rapidamente sintomas de depressão; mostra novo estudo&nbsp;&nbsp;O GLOBOSpray nasal à base de veneno de sapo pode aliviar depressão por semanas&nbsp;&nbsp;MetrópolesVeneno de sapo para depressão: o que dois ensaios mostram&nbsp;&nbsp;cienciadefato.com.brSpray nasal com psicodélico derivado de sapo do deserto é bem-su",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUhqQ2lNbHlkWjNvbHFpNmlaM2ZzSG8yOEh4SENfT1NwV2oyX1pDczEzQ0J1d2otR3QzN21fdGViUmJKbHJZM2pkNUlsMDdwSks1ZFBCMzZQMFFKN3FNbHBhTG5oYUlQV2pIb2dyLXdlbjZEZFJzTDBRR0xGdndWaXo0c2ZIQU50MTBDU083M3FTdkxDWkNHdWhaaUY?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDNHay12WXI1MkNRSmtHTHY3Vndrc3VRa0c5QmFmVmh2U29JVThzT18tbUZTc2hGWGJMWWhzN0NscW1zZ2pfdzBmSEl2Vnl2d3ZQYXNkREF3UHUwc2pMNlBneUl4NGxhOEoyY0FETGhoUmZrbjJWbzk3amVhTnBFMlY1eTZZNFZCWEhPaXhYOFNOa2dWZUdXcEk0NlhvZDJQeFFWeExGTUVzNl9EU0ZHZVRNN2FkZmVNLUxMQnJIU2dMdC1yMkM3cEpJY0lqTVNaMnfSAeABQVVfeXFMTXNsRVZQYnJKazA0bzNTaFBFSi1Ib1Z0MzFVY2JyVFhpaVZYVHYxZElCUENfTkoybWZHRnF0YUc3TWNZeHUyWnJ5NElPX21pRDFJdzVyRTNrY3IteVdEU1VZb01uZWJHS3VUWnRnWW9ZeGVKQ0c5WHQ0YjMwNzhqcXo2RldvZVhwSXpPZXZ5SkhkeGl4Zm5LT2oyeUhTNzJvMERZWWlCZ0pvR3VMNnlVcl9NTmFPNEVGTS1HNWhieXk2MkllVzlrSS10czZnN01jSDBpWS1CbkpwWUl1OTBLMVI?oc=5"
         }
       ]
     }
