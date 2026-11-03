@@ -4,17 +4,17 @@ title: Meropenem
 parent: Evidência Moderada (L3-L4)
 nav_order: 445
 evidence_level: L4
-indication_count: 9
-last_modified_at: 2026-10-31
-description: "Meropenem: nova indicação prevista, Artrite bacteriana (bacterial arthritis) (nível de evidência L4). Indicação original: Antibióticos sistêmicos simples"
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "meropenem"
-predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "Lyme disease", "Peptostreptococcus infectious disease", "Ureaplasma urethritis", "gonococcal urethritis"]
+predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
+description: "Meropenem: nova indicação prevista, artrite bacteriana (bacterial arthritis) (nível de evidência L4). Indicação original: Não consta nos dados locais"
 ---
 
 # Meropenem
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **9** 
+Nível de evidência: **L4** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,76 +33,54 @@ Nível de evidência: **L4** | Indicações previstas: **9**
 
 </div>
 
-## Meropenem: De antibiótico sistêmico à artrite bacteriana
+## Meropenem: artrite bacteriana (bacterial arthritis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Meropenem é um antibiótico carbapenêmico de amplo espectro, registrado na ANVISA na categoria "antibióticos sistêmicos simples".
-O modelo TxGNN prevê que pode ser eficaz para **artrite bacteriana (bacterial arthritis)**, a previsão de maior pontuação, mas sem ensaios clínicos e com literatura apenas indireta (relatos de caso, coortes retrospectivas, revisões e estudos farmacocinéticos). A indicação com maior suporte de evidências entre as previstas é a **infecção do trato urinário (urinary tract infection)**, com **9 ensaios clínicos** e **20 publicações**.
+Meropeném é um antibiótico carbapenêmico de uso sistêmico, com registros ativos no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **artrite bacteriana (bacterial arthritis)**, mas não há ensaios clínicos registrados; a previsão se apoia em **20 publicações** de baixa força (relatos de caso, coortes retrospectivas, revisões e estudos farmacocinéticos).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antibióticos sistêmicos simples |
-| Nova Indicação Prevista | Artrite bacteriana (bacterial arthritis) |
-| Pontuação de Previsão TxGNN | 0,9992 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | artrite bacteriana (bacterial arthritis) |
+| Pontuação de Previsão TxGNN | 0.9992 |
 | Nível de Evidência | L4 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 23) |
 | Número de Registros | 23 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
-> **Observação:** a indicação de maior pontuação (artrite bacteriana) tem evidências fracas (L4).
-
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no conjunto de dados compilado. Segundo informações conhecidas, meropenem é um carbapenêmico de amplo espectro que inibe a síntese da parede celular bacteriana por meio da ligação às proteínas ligadoras de penicilina (PBP). É estável frente a muitas beta-lactamases, incluindo as de espectro estendido (ESBL).
+Atualmente, não há dados detalhados do mecanismo de ação nos dados compilados. Conforme o conhecimento geral da classe, o meropeném é um carbapenêmico de amplo espectro que inibe a síntese da parede celular bacteriana ao se ligar às proteínas ligadoras de penicilina (PBPs).
 
-Para **artrite bacteriana**, a atividade contra bacilos Gram-negativos e contra *Burkholderia pseudomallei* (melioidose), patógenos que causam infecções osteoarticulares, é plausível. Contudo, a penetração em osso e articulação é sustentada apenas por dados farmacocinéticos indiretos, e não há ensaios registrados.
+A artrite bacteriana é causada por bactérias, incluindo bacilos Gram-negativos e *Burkholderia pseudomallei* (melioidose), para os quais a atividade do meropeném é plausível. Os relatos de caso reunidos descrevem artrite séptica por *Klebsiella pneumoniae* produtora de β-lactamase de espectro estendido tratada com meropeném associado a amicacina e lavagem articular, e isolados de melioidose osteoarticular suscetíveis ao meropeném.
 
-Para **infecção do trato urinário (ITU)**, a atividade contra Enterobacterales, inclusive produtores de ESBL, está bem estabelecida. Vários ensaios de Fase 3 usam meropenem como comparador. Como a ITU complicada provavelmente se sobrepõe ao uso já aprovado do fármaco, o reposicionamento neste caso é, na prática, uma confirmação de uso existente.
+Ressalva importante: a penetração óssea e articular só é sustentada por dados farmacocinéticos indiretos, e não há estudo clínico controlado que avalie o meropeném especificamente nesta doença.
 
 ## Evidências de Ensaios Clínicos
 
-Os ensaios abaixo referem-se à indicação **infecção do trato urinário**, a única das 10 previstas com ensaios registrados. Para artrite bacteriana, atualmente não há ensaios clínicos relacionados registrados.
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT03840148](https://clinicaltrials.gov/study/NCT03840148) | Phase 3 | Concluído | 661 | Cefepima/VNRX-5133 vs meropenem em ITU complicada, incluindo pielonefrite aguda (não inferioridade) |
-| [NCT03477422](https://clinicaltrials.gov/study/NCT03477422) | Phase 3 | Concluído | 230 | CSE-1034 (ceftriaxona + sulbactam + EDTA) vs meropenem em ITU complicada por bactérias produtoras de beta-lactamase |
-| [NCT02142751](https://clinicaltrials.gov/study/NCT02142751) | Phase 3 | Concluído | 161 | Fosfomicina vs meropenem ou ceftriaxona em ITU bacterêmica por *E. coli* multirresistente |
-| [NCT01970371](https://clinicaltrials.gov/study/NCT01970371) | Phase 3 | Concluído | 69 | Plazomicina vs colistina (associadas a meropenem ou tigeciclina) em infecções por Enterobacteriaceae resistentes a carbapenêmicos |
-| [NCT03543436](https://clinicaltrials.gov/study/NCT03543436) | Phase 3 | Concluído | 29 | Temocilina vs carbapenêmico em ITU por Enterobacterales produtores de ESBL (amostra pequena) |
-| [NCT03230838](https://clinicaltrials.gov/study/NCT03230838) | Phase 2 | Concluído | 134 | Ceftolozana/tazobactam vs meropenem em ITU complicada pediátrica |
-| [NCT03891433](https://clinicaltrials.gov/study/NCT03891433) | Phase 4 | Suspenso | 198 | Piperacilina/tazobactam vs carbapenêmicos em ITU por ESBL; dados incompletos |
-| [NCT03174795](https://clinicaltrials.gov/study/NCT03174795) | Phase 1 | Concluído | 20 | Farmacocinética de RO7079901 coadministrado com meropenem em ITU complicada |
-| [NCT00771316](https://clinicaltrials.gov/study/NCT00771316) | Phase 3 | Encerrado | 6 | MK0826 vs meropenem em ITU complicada; encerrado com 6 participantes, sem valor informativo |
-
-Observação: na maioria desses ensaios, o meropenem é o comparador, e não o fármaco em estudo. Ainda foi identificado o estudo observacional NCT04278404 (farmacocinética de fármacos pouco estudados em crianças, n=5.000), que não constitui evidência de eficácia em ITU.
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Publicações referentes à **infecção do trato urinário**:
-
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [29486041](https://pubmed.ncbi.nlm.nih.gov/29486041/) | 2018 | RCT | JAMA | TANGO I: meropenem-vaborbactam vs piperacilina-tazobactam em ITU complicada (cura clínica e erradicação microbiana) |
-| [30270406](https://pubmed.ncbi.nlm.nih.gov/30270406/) | 2018 | RCT | Infect Dis Ther | TANGO II: meropenem-vaborbactam vs melhor terapia disponível em infecções por Enterobacteriaceae resistentes a carbapenêmicos |
-| [39817442](https://pubmed.ncbi.nlm.nih.gov/39817442/) | 2025 | Revisão sistemática / meta-análise em rede | J Comp Eff Res | Eficácia das opções de tratamento em ITU complicada e pielonefrite aguda; carbapenêmicos como terapia de última linha |
-| [32094128](https://pubmed.ncbi.nlm.nih.gov/32094128/) | 2020 | Coorte retrospectiva | Antimicrob Agents Chemother | Meropenem-vaborbactam vs ceftazidima-avibactam em infecções por CRE (classificado na base como RCT, mas descrito como coorte retrospectiva multicêntrica) |
-| [33058798](https://pubmed.ncbi.nlm.nih.gov/33058798/) | 2021 | RCT | Lancet Infect Dis | APEKS-NP: cefiderocol vs meropenem em dose alta e infusão estendida em pneumonia nosocomial (indireta para ITU) |
-| [18416587](https://pubmed.ncbi.nlm.nih.gov/18416587/) | 2008 | Revisão | Drugs | Revisão do uso de meropenem em infecções bacterianas graves |
-| [36726388](https://pubmed.ncbi.nlm.nih.gov/36726388/) | 2023 | Revisão | Infect Drug Resist | Avaliação clínica de meropenem-vaborbactam em ITU |
-| [38688353](https://pubmed.ncbi.nlm.nih.gov/38688353/) | 2024 | Revisão | Int J Antimicrob Agents | Diretrizes práticas SIMIT/SPILF para infecções por bacilos Gram-negativos multirresistentes |
-| [35787918](https://pubmed.ncbi.nlm.nih.gov/35787918/) | 2022 | Revisão | Int J Antimicrob Agents | Dados clínicos de novos antibióticos contra Gram-negativos multirresistentes |
-| [14508383](https://pubmed.ncbi.nlm.nih.gov/14508383/) | 2003 | Revisão | Ther Drug Monit | Carbapenêmicos em pediatria; estabilidade frente a ESBL e AmpC |
-
-Para a indicação de maior pontuação, **artrite bacteriana**, a literatura é indireta: revisões sobre melioidose osteoarticular, uma coorte retrospectiva (PMID 35146367) e relatos de caso, como o de artrite séptica por *Klebsiella pneumoniae* produtora de ESBL tratada com meropenem e amicacina (PMID 17433752), além de estudos farmacocinéticos.
+| [35146367](https://pubmed.ncbi.nlm.nih.gov/35146367/) | 2021 | Coorte retrospectiva | Le infezioni in medicina | Caracterização de pacientes com melioidose osteoarticular, forma rara de acometimento ósseo e articular |
+| [39489417](https://pubmed.ncbi.nlm.nih.gov/39489417/) | 2024 | Revisão retrospectiva | Indian J Med Microbiol | 22 casos de melioidose musculoesquelética (9 de artrite séptica); todos os isolados suscetíveis ao meropeném |
+| [39193962](https://pubmed.ncbi.nlm.nih.gov/39193962/) | 2024 | Coorte | Clinical Laboratory | Distribuição de patógenos e resistência antimicrobiana em infecções osteoarticulares de crianças pequenas |
+| [36678359](https://pubmed.ncbi.nlm.nih.gov/36678359/) | 2022 | Revisão | Pathogens | Opções terapêuticas para melioidose: antibióticos versus terapia com fagos |
+| [17433752](https://pubmed.ncbi.nlm.nih.gov/17433752/) | 2007 | Relato de caso | Joint Bone Spine | Dois casos de artrite séptica por *K. pneumoniae* produtora de ESBL, tratados com sucesso com meropeném e amicacina mais lavagem artroscópica |
+| [39380073](https://pubmed.ncbi.nlm.nih.gov/39380073/) | 2024 | Relato de caso | J Med Case Reports | Melioidose disseminada com artrite séptica, inicialmente confundida com tuberculose |
+| [38375100](https://pubmed.ncbi.nlm.nih.gov/38375100/) | 2024 | Relato de caso | Infect Drug Resist | Meningite supurativa com artrite por *Streptococcus suis* |
+| [39681779](https://pubmed.ncbi.nlm.nih.gov/39681779/) | 2025 | Estudo farmacocinético | Clin Pharmacokinet | Farmacocinética populacional do meropeném em adultos de diferentes idades e regimes de dose ideais |
+| [37713001](https://pubmed.ncbi.nlm.nih.gov/37713001/) | 2024 | Estudo observacional | Eur J Orthop Surg Traumatol | Antibiograma para tratamento empírico de infecções ortopédicas não espinhais, incluindo artrite séptica |
+| [33857030](https://pubmed.ncbi.nlm.nih.gov/33857030/) | 2021 | Estudo in vitro | J Bone Joint Surg Am | Estabilidade térmica e cinética de eluição do meropeném e outros antibióticos em cimento ósseo PMMA |
 
 ## Informações de Comercialização no Brasil
-
-Dos 10 registros encontrados, **10 estão válidos**; o meropenem monofármaco está comercializado nos dados compilados.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -130,44 +108,24 @@ Dos 10 registros encontrados, **10 estão válidos**; o meropenem monofármaco e
 | 188300028 | ZYLPEN | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
 | 188300054 | MEROPENÉM | VIATRIS FARMACEUTICA DO BRASIL LTDA | Cancelado |
 
-Há ainda outros cinco registros cancelados (incluindo Meronem e Meromax), totalizando 10.
-
 ## Considerações de Segurança
 
-- **Contraindicações associadas (grafo de conhecimento, não texto de bula):** epilepsia, doença renal, piureter, trombocitopenia, colite por *Clostridium difficile* e enterocolite necrosante perinatal.
-- **Interações medicamentosas (14 identificadas):**
-  - **Maiores:** bupropiona (risco aumentado de convulsões), iohexol e iopamidol.
-  - **Moderadas:** ácido picossulfúrico, polietilenoglicol 3350 com eletrólitos, sulfato de sódio, nitisinona, lindano, etinilestradiol, alpelisibe, encorafenibe, ácido micofenólico, pemetrexede e teriflunomida.
+- **Interações Medicamentosas**: foram identificadas 14 interações. As de gravidade maior envolvem bupropiona, iohexol e iopamidol. As demais são de gravidade moderada, entre elas ácido picossulfúrico, polietilenoglicol com eletrólitos, nitisinona, sulfato de sódio, lindano, etinilestradiol, alpelisibe, encorafenibe, ácido micofenólico, pemetrexede e teriflunomida.
 
-Para advertências e contraindicações formais, consulte a bula.
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold** (para a indicação principal, artrite bacteriana)
+**Decisão: Hold**
 
 **Justificativa:**
-- A indicação de maior pontuação (artrite bacteriana, 0,9992) tem apenas evidência indireta (L4), sem ensaios registrados.
-- A infecção do trato urinário (L1) permitiria "Proceed with Guardrails", mas provavelmente se sobrepõe ao uso já estabelecido do meropenem, e os registros brasileiros estão todos cancelados.
-
-**Situação das demais indicações previstas:**
-
-| Indicação | Pontuação | Nível | Recomendação | Comentário |
-|------|------|------|------|------|
-| Epiglotite | 0,9991 | L4 | Hold | Sem evidência clínica; agentes de espectro mais estreito são o padrão |
-| Infecção por *Staphylococcus aureus* | 0,9985 | L4 | Hold | Ativo contra MSSA, mas não preferencial; MRSA é resistente |
-| Laringite | 0,9959 | L5 | Hold | Predominantemente viral; sem racional |
-| Febre paratifoide | 0,9957 | L4 | Hold | Opção de resgate em febre entérica XDR; sem dados diretos |
-| Doença de Lyme | 0,9946 | L5 | Hold | Apenas dados in vitro; existem terapias padrão |
-| Infecção por *Peptostreptococcus* | 0,9937 | L5 | Hold | Plausível, mas sem estudos |
-| Uretrite por *Ureaplasma* | 0,9933 | L5 | Hold | Mecanisticamente implausível (ausência de parede celular) |
-| Uretrite gonocócica | 0,9933 | L5 | Hold | Ceftriaxona é a primeira linha; conflita com o uso racional de antimicrobianos |
+- A previsão tem pontuação alta (0,9992), mas não há ensaios clínicos registrados e a literatura é composta por relatos de caso, coortes retrospectivas, revisões e estudos farmacocinéticos, sem estudo controlado em artrite bacteriana.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança.
-- Complementar os dados de mecanismo de ação (MOA).
-- Para artrite bacteriana: dados de penetração óssea e articular e estudos clínicos comparativos.
-- Para ITU, se for priorizada: reservar para patógenos produtores de ESBL ou multirresistentes, seguir o programa de uso racional de antimicrobianos e a suscetibilidade local, ajustar a dose à função renal, considerar alternativas poupadoras de carbapenêmicos e reconciliar a sobreposição com o uso original.
-- Plano de monitoramento para populações de risco (epilepsia, doença renal, trombocitopenia, uso de bupropiona).
+- Dados clínicos controlados ou prospectivos do meropeném em artrite bacteriana, incluindo dados de penetração articular
+- Dados de mecanismo de ação e de advertências e contraindicações da bula da ANVISA
+- Avaliação à luz de estratégias de uso racional de carbapenêmicos (stewardship) e da resistência bacteriana local
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

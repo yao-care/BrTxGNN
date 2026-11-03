@@ -4,17 +4,17 @@ title: Riluzole
 parent: Apenas Predição do Modelo (L5)
 nav_order: 567
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-31
-description: "Riluzole: nova indicação prevista, Polimicrogiria parieto-occipital parassagital bilateral (bilateral pa… (nível de evidência L5). Indicação original: Outros produtos que atuam sobre o sistema nervos"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "riluzole"
-predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
+predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
+description: "Riluzole: nova indicação prevista, polimicrogiria parieto-occipital parassagital bilateral (bilateral parasagittal parieto-occipital polymicrogyria) (nível de evidência L5)."
 ---
 
 # Riluzole
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **9** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,20 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-## Riluzol: Do sistema nervoso a uma malformação cortical rara (polimicrogiria parieto-occipital parassagital bilateral)
+## Riluzole: polimicrogiria parieto-occipital parassagital bilateral (bilateral parasagittal parieto-occipital polymicrogyria)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Riluzol foi registrado no Brasil na categoria "outros produtos que atuam sobre o sistema nervoso" e é conhecido como tratamento da esclerose lateral amiotrófica (ELA).
-O modelo TxGNN prevê que pode ser eficaz para **polimicrogiria parieto-occipital parassagital bilateral (bilateral parasagittal parieto-occipital polymicrogyria)**, mas **não há ensaios clínicos nem publicações** apoiando esta previsão específica; trata-se apenas de uma previsão computacional.
+Riluzol é um fármaco que atua sobre o sistema nervoso, comercializado no Brasil. O modelo TxGNN prevê que pode ser eficaz para **polimicrogiria parieto-occipital parassagital bilateral (bilateral parasagittal parieto-occipital polymicrogyria)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se de uma previsão exclusivamente computacional.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Outros produtos que atuam sobre o sistema nervoso |
-| Nova Indicação Prevista | Polimicrogiria parieto-occipital parassagital bilateral (bilateral parasagittal parieto-occipital polymicrogyria) |
-| Pontuação de Previsão TxGNN | 0,9999 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | polimicrogiria parieto-occipital parassagital bilateral (bilateral parasagittal parieto-occipital polymicrogyria) |
+| Pontuação de Previsão TxGNN | 0.9999 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 18) |
 | Número de Registros | 18 (ativos: 8) |
@@ -55,23 +54,15 @@ O modelo TxGNN prevê que pode ser eficaz para **polimicrogiria parieto-occipita
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o riluzol modula a transmissão glutamatérgica e reduz a excitotoxicidade, e é o tratamento de referência para a ELA.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. De modo geral, o riluzol é conhecido por modular a transmissão glutamatérgica e reduzir a excitotoxicidade, mas isso é conhecimento geral e não está detalhado nos dados disponíveis.
 
-Para a polimicrogiria parieto-occipital parassagital bilateral, porém, **não há vínculo mecanístico sustentado pelos dados**. A pontuação muito alta (0.9999) vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
+Não há suporte nos dados para um vínculo específico entre esse mecanismo e a malformação cortical da polimicrogiria. A pontuação alta (0,9999) provavelmente reflete um artefato do modelo, e não uma relação biológica demonstrada. A relação com a indicação original é, portanto, considerada fraca e não comprovada.
 
-Outras previsões do modelo são mais plausíveis por analogia com a ELA, como a síndrome do neurônio motor inferior de início tardio, a síndrome de Mills e a amiotrofia monomélica. Ainda assim, nenhuma delas conta com ensaios ou literatura nos dados compilados.
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada para a indicação prevista principal.
+Nenhum estudo clínico ou publicação foi fornecido para esta doença. Por isso, a previsão deve ser tratada apenas como hipótese a ser investigada.
 
 ## Informações de Comercialização no Brasil
 
-O medicamento está comercializado no país, com 8 registros válidos de 8.
+Segundo os dados compilados, há 18 registros no total, dos quais 8 estão válidos e 10 cancelados. Principais registros válidos:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -96,25 +87,22 @@ O medicamento está comercializado no país, com 8 registros válidos de 8.
 
 ## Considerações de Segurança
 
-- **Contraindicações (associações do grafo de conhecimento, não texto de bula)**: neutropenia, agranulocitose, abuso/dependência de substâncias, hiperbilirrubinemia (inclusive hereditária), síndrome de Gilbert, doença pulmonar intersticial e lesão hepática induzida por fármacos.
-- **Interações Medicamentosas**: 44 interações identificadas. Entre as listadas, as de gravidade **moderada** incluem ácido obeticólico, naltrexona, deferasirox, osilodrostato, anagrelida, asparaginase (E. coli), brentuximabe vedotina, clofarabina, metotrexato e epirrubicina. As de gravidade leve incluem omeprazol, cafeína, teofilina e aminofilina.
-- **Contexto hepático**: a literatura compilada indica que cerca de 50% dos pacientes com ELA em uso de riluzol oral apresentam ALT acima do limite superior da normalidade (8% acima de 3× e 2% acima de 5×), o que reforça a necessidade de monitorar a função hepática.
+- **Contraindicações:** os dados de bula não estão disponíveis. Consulte a bula para informações completas de segurança.
+- **Interações Medicamentosas:** foram identificadas 44 interações. Entre as de gravidade moderada estão: ácido obeticólico, naltrexona, deferasirox, osilodrostat, anagrelida, asparaginase, brentuximabe vedotina, clofarabina, metotrexato e epirrubicina. Interações de gravidade leve incluem omeprazol, cafeína, teofilina e aminofilina.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para polimicrogiria parieto-occipital parassagital bilateral é apenas computacional (nível L5), sem ensaios, sem literatura e sem vínculo mecanístico plausível.
-- Além disso, não há registro ativo do riluzol no Brasil (todos os 8 estão cancelados), e faltam dados de bula sobre advertências e contraindicações.
+- Não há ensaios clínicos nem publicações para esta doença, e não há vínculo mecanístico plausível nos dados. A previsão tem apenas valor de geração de hipótese.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula na ANVISA (advertências e contraindicações).
-- Completar os dados do mecanismo de ação (por exemplo, via DrugBank).
-- Realizar estudos pré-clínicos ou de mecanismo que justifiquem a relação entre riluzol e a polimicrogiria.
-- Avaliar candidatas mais plausíveis por analogia com a ELA (síndrome do neurônio motor inferior de início tardio, síndrome de Mills, amiotrofia monomélica), buscando ensaios ou literatura específicos.
-- Verificar de forma independente as evidências do riluzol na ELA (por exemplo, ensaios pivotais de Fase 3), sem extrapolá-las para subtipos genéticos específicos.
-- Esclarecer a situação regulatória: motivos dos cancelamentos e possibilidade de novo registro.
+- Revisão da literatura sobre a fisiopatologia da polimicrogiria e possível papel da modulação glutamatérgica
+- Dados de mecanismo de ação detalhados do fármaco
+- Estudos pré-clínicos que sustentem a hipótese
+- Informações de segurança da bula aprovada pela ANVISA
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

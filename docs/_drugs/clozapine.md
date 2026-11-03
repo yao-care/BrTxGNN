@@ -4,17 +4,17 @@ title: Clozapine
 parent: Apenas Predição do Modelo (L5)
 nav_order: 237
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Clozapine: nova indicação prevista, Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) (nível de evidência L2). Indicação original: Neurolépticos"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Clozapine"
-predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
+predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
+description: "Clozapine: nova indicação prevista, transtorno afetivo bipolar maníaco (manic bipolar affective disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Clozapine
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,40 +33,34 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Clozapina: De neurolépticos para transtorno afetivo bipolar maníaco
+## Clozapine: transtorno afetivo bipolar maníaco (manic bipolar affective disorder)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Clozapina é um antipsicótico atípico, registrado no Brasil na categoria "neurolépticos".
+Clozapina é um antipsicótico atípico (classe dos neurolépticos), com registros válidos no Brasil.
 O modelo TxGNN prevê que pode ser eficaz para **transtorno afetivo bipolar maníaco (manic bipolar affective disorder)**,
-atualmente com **1 ensaio clínico** diretamente relacionado a esta indicação (Fase 2, concluído) e **20 publicações** apoiando esta direção.
-
----
+atualmente com **1 ensaio clínico** de Fase 2 e **20 publicações** associados a esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Neurolépticos |
-| Nova Indicação Prevista | Transtorno afetivo bipolar maníaco (manic bipolar affective disorder) |
-| Pontuação de Previsão TxGNN | 0,9995 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | transtorno afetivo bipolar maníaco (manic bipolar affective disorder) |
+| Pontuação de Previsão TxGNN | 0.9995 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 13) |
 | Número de Registros | 13 (ativos: 5) |
 | Decisão Recomendada | Proceed with Guardrails |
 
----
-
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a clozapina é um antipsicótico atípico com perfil amplo de receptores: antagonismo de dopamina D2/D4, serotonina 5-HT2A, receptores muscarínicos e adrenérgicos.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a clozapina tem um perfil amplo de receptores, com antagonismo de D2/D4, 5-HT2A, muscarínico e adrenérgico.
 
-A indicação original (classe dos neurolépticos, usada em psicoses) e a mania bipolar compartilham alterações em circuitos dopaminérgicos e serotoninérgicos. Por isso, o perfil multirreceptor da clozapina pode explicar efeitos antimaníacos e estabilizadores do humor, especialmente em mania resistente ao tratamento, quando os tratamentos convencionais não funcionam ou não são tolerados.
+Esse perfil pode explicar efeitos antimaníacos e estabilizadores do humor, sobretudo na mania refratária ao tratamento. Uma revisão sistemática com metanálise de 2020 sobre clozapina no transtorno bipolar vai nessa direção.
 
-Essa direção é apoiada por uma revisão sistemática e metanálise de 2020 sobre clozapina no transtorno bipolar. Os riscos conhecidos do fármaco (agranulocitose, miocardite, convulsões e efeitos metabólicos) exigem medidas de monitoramento.
-
----
+A mania resistente ao tratamento é um cenário em que as opções convencionais falham ou não são toleradas, e é justamente o foco do ensaio de Fase 2 disponível. Os riscos conhecidos da clozapina (agranulocitose, miocardite, convulsões e efeitos metabólicos) exigem monitoramento rigoroso.
 
 ## Evidências de Ensaios Clínicos
 
@@ -74,24 +68,20 @@ Essa direção é apoiada por uma revisão sistemática e metanálise de 2020 so
 |---------|------|------|------|---------|
 | [NCT00029458](https://clinicaltrials.gov/study/NCT00029458) | Phase 2 | Concluído | 42 | Estudo duplo-cego que avalia segurança e eficácia da clozapina na fase maníaca do transtorno bipolar resistente ao tratamento; resultados não detalhados nos dados compilados |
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | Revisão sistemática/Metanálise | J Psychiatr Res | Avalia eficácia clínica da clozapina no transtorno bipolar e seu perfil de efeitos adversos |
-| [41192460](https://pubmed.ncbi.nlm.nih.gov/41192460/) | 2025 | Coorte/Efetividade | Lancet Psychiatry | Efetividade e segurança transdiagnósticas da clozapina em transtornos psicóticos, afetivos e de personalidade, comparada a outros antipsicóticos |
+| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | Revisão sistemática/Metanálise | J Psychiatr Res | Avalia a eficácia clínica da clozapina no transtorno bipolar e seu perfil de efeitos adversos |
 | [25346322](https://pubmed.ncbi.nlm.nih.gov/25346322/) | 2015 | Revisão sistemática | Bipolar Disord | Avalia eficácia e segurança da clozapina no transtorno bipolar resistente ao tratamento |
-| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Revisão | Mol Psychiatry | Tratamento do transtorno bipolar resistente; resposta inadequada em mania e depressão agudas e na manutenção |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Revisão | Acta Psychiatr Scand | Opções baseadas em evidências para tratar mania bipolar, incluindo escolha de estabilizador de humor e antipsicótico |
-| [33719158](https://pubmed.ncbi.nlm.nih.gov/33719158/) | 2021 | Revisão | Bipolar Disord | Síntese do conhecimento atual sobre clozapina no transtorno bipolar e perspectivas futuras |
-| [41262335](https://pubmed.ncbi.nlm.nih.gov/41262335/) | 2025 | Estudo de dosagem | Drug Des Devel Ther | Interações medicamentosas da clozapina e dosagem individualizada no transtorno bipolar, com abordagem de modelagem |
-| [31567198](https://pubmed.ncbi.nlm.nih.gov/31567198/) | 2021 | Estudo clínico | Am J Ther | Discute titulação rápida de clozapina em esquizofrenia e transtorno bipolar |
-| [10682225](https://pubmed.ncbi.nlm.nih.gov/10682225/) | 2000 | Série de casos | Clin Neuropharmacol | 36 pacientes tratados com ECT e clozapina combinadas; 67% se beneficiaram e a maioria tolerou bem |
-| [26407790](https://pubmed.ncbi.nlm.nih.gov/26407790/) | 2015 | Metanálise (segurança metabólica) | World Psychiatry | Prevalência de síndrome metabólica em esquizofrenia, transtorno bipolar e depressão maior, relevante para o risco metabólico |
-
----
+| [41192460](https://pubmed.ncbi.nlm.nih.gov/41192460/) | 2025 | Estudo de coorte/efetividade | Lancet Psychiatry | Efetividade e segurança transdiagnóstica da clozapina em transtornos psicóticos, afetivos e de personalidade, comparada a outros antipsicóticos |
+| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Revisão | Acta Psychiatr Scand | Opções de tratamento baseadas em evidências para mania bipolar |
+| [33719158](https://pubmed.ncbi.nlm.nih.gov/33719158/) | 2021 | Revisão | Bipolar Disord | Panorama do conhecimento atual sobre clozapina no transtorno bipolar e próximos passos |
+| [41262335](https://pubmed.ncbi.nlm.nih.gov/41262335/) | 2025 | Estudo de dosagem | Drug Des Devel Ther | Interações medicamentosas da clozapina e dosagem individualizada no transtorno bipolar |
+| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Revisão | Mol Psychiatry | Tratamento do transtorno bipolar resistente, incluindo resposta inadequada em mania aguda |
+| [11280956](https://pubmed.ncbi.nlm.nih.gov/11280956/) | 2001 | Revisão | Bull Menninger Clin | Opções farmacológicas no transtorno bipolar resistente; base de dados composta sobretudo por relatos e séries de casos |
+| [10682225](https://pubmed.ncbi.nlm.nih.gov/10682225/) | 2000 | Série de casos | Clin Neuropharmacol | 36 pacientes tratados com eletroconvulsoterapia e clozapina; 67% se beneficiaram, com eventos adversos em 16,6% |
+| [9448668](https://pubmed.ncbi.nlm.nih.gov/9448668/) | 1998 | Revisão | J Clin Psychiatry | Papel dos antipsicóticos, incluindo clozapina, no tratamento agudo e de manutenção do transtorno bipolar |
 
 ## Informações de Comercialização no Brasil
 
@@ -111,31 +101,28 @@ Essa direção é apoiada por uma revisão sistemática e metanálise de 2020 so
 | 123610039 | ZOLAPIN | UCB BIOPHARMA LTDA. | Cancelado |
 | 156510074 | XYNAZ | ZYDUS NIKKHO FARMACÊUTICA LTDA | Cancelado |
 
----
+Há 13 registros no total, dos quais 5 válidos e 8 cancelados; a tabela lista os 5 registros válidos.
 
 ## Considerações de Segurança
 
-- **Contraindicações (com base em associações do grafo de conhecimento, não em texto de bula)**: epilepsia, doença hepática, doença da vesícula biliar, hiperglicemia, diabetes mellitus, cetoacidose diabética, hiperplasia prostática benigna, neutropenia, agranulocitose, leucopenia, hipotensão e hipotensão ortostática, hiperlipidemia, doença arterial coronariana, obesidade, AVC e doenças cerebrovasculares, embolia pulmonar, parada cardíaca súbita, doenças do sistema de condução cardíaco, insuficiência respiratória, glaucoma de ângulo fechado, íleo paralítico, atrofia de múltiplos sistemas e síndrome de taquicardia postural ortostática.
-- **Riscos que exigem monitoramento** (conforme as evidências compiladas): agranulocitose, miocardite/cardiotoxicidade, convulsões e efeitos metabólicos (hiperglicemia e síndrome metabólica).
-- **Interações Medicamentosas**: foram identificadas 100 interações; as principais listadas:
-  - **Graves (Major)**: bupropiona, morfina, citrato de potássio.
-  - **Moderadas**: acarbose, famotidina, epinefrina, albiglutida, alogliptina, metformina, pioglitazona, hioscina, loperamida, omeprazol, atropina, lorcasserina, bisacodil, glicopirrônio, canagliflozina, clorpropamida, cimetidina.
+- **Interações medicamentosas (principais, gravidade maior):** bupropiona, morfina e citrato de potássio. Há ainda várias interações de gravidade moderada, entre elas antidiabéticos (acarbose, metformina, pioglitazona, alogliptina, canagliflozina, clorpropamida, albiglutida), anticolinérgicos (atropina, hioscina, glicopirrônio), cimetidina, famotidina, omeprazol, epinefrina, loperamida, bisacodil e lorcaserina. O levantamento identificou 100 interações no total.
+- **Riscos conhecidos descritos na literatura compilada:** agranulocitose, miocardite/cardiotoxicidade, convulsões e efeitos metabólicos (hiperglicemia, síndrome metabólica).
 
----
+Consulte a bula para advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há um ensaio de Fase 2 duplo-cego concluído em mania resistente, além de uma metanálise de 2020 e ensaios de Fase 3/4 em andamento ou concluídos no transtorno bipolar. O nível de evidência é L2. Os riscos hematológicos, cardíacos, convulsivos e metabólicos exigem salvaguardas.
+- Há um ensaio de Fase 2 duplo-cego concluído em mania resistente ao tratamento e uma metanálise de 2020 que apoiam a direção da previsão, sem ensaio de Fase 3 concluído para mania adulta. O perfil de risco da clozapina exige salvaguardas.
 
 **Para prosseguir, é necessário:**
-- Obter os resultados publicados dos ensaios NCT00029458 e NCT00036582 (Fase 3 em bipolar pediátrico resistente, cujos resultados não estão nos dados compilados) para verificar a magnitude da eficácia.
-- Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), pois esses dados não estavam disponíveis; essa lacuna bloqueia a triagem de segurança.
-- Esclarecer a situação regulatória: os 5 registros no Brasil estão válidos (5 de 5) e o medicamento é comercializado, o que exige confirmar a disponibilidade atual do produto e a via de registro.
-- Complementar os dados de mecanismo de ação (MOA) a partir do DrugBank.
-- Definir um plano de monitoramento: contagem absoluta de neutrófilos (ANC), função cardíaca (miocardite), risco de convulsões, parâmetros metabólicos (glicemia e lipídios) e revisão das interações medicamentosas.
+- Obter os resultados detalhados do ensaio NCT00029458 para confirmar a magnitude da eficácia.
+- Dados formais de mecanismo de ação.
+- Advertências e contraindicações da bula da ANVISA, ainda não disponíveis nos dados compilados.
+- Plano de monitoramento: contagem absoluta de neutrófilos, função cardíaca, risco de convulsões e parâmetros metabólicos (glicemia, lipídios, peso).
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

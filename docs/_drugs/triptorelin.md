@@ -4,17 +4,17 @@ title: Triptorelin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 657
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Triptorelin: nova indicação prevista, Hipertricose (hypertrichosis) (nível de evidência L5). Indicação original: Outros produtos para o aparelho digestivo e metabolismo"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "triptorelin"
-predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
+description: "Triptorelin: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Triptorelin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +33,43 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Triptorelina: De "outros produtos para o aparelho digestivo e metabolismo" para Hipertricose (hypertrichosis)
+## Triptorelin: Hipertricose (hypertrichosis (disease))
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-A triptorelina é um agonista do hormônio liberador de gonadotrofinas (GnRH). No Brasil, seus registros constam apenas em categorias terapêuticas genéricas, como "outros produtos para o aparelho digestivo e metabolismo".
-O modelo TxGNN prevê que ela possa ser eficaz para **Hipertricose (hypertrichosis)**, mas essa previsão tem **0 ensaios clínicos** e **1 publicação** que não apoia a direção: é um relato de caso sobre hipertricose induzida por ciclosporina, sem tratamento com triptorelina.
-
----
+Triptorelina é um agonista do hormônio liberador de gonadotrofinas (GnRH), comercializado no Brasil com os nomes Gonapeptyl Depot, Gonapeptyl Daily e Neo Decapeptyl.
+O modelo TxGNN prevê que pode ser eficaz para **Hipertricose (hypertrichosis (disease))**, mas há **0 ensaios clínicos** e apenas **1 publicação** (um relato de caso que não avalia a triptorelina como tratamento), de modo que a previsão não tem respaldo clínico real.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Outros produtos para o aparelho digestivo e metabolismo (classe terapêutica constante no registro, não uma indicação clínica específica) |
-| Nova Indicação Prevista | Hipertricose (hypertrichosis) |
-| Pontuação de Previsão TxGNN | 1,0000 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Hipertricose (hypertrichosis (disease)) |
+| Pontuação de Previsão TxGNN | 1.0000 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
 | Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
----
-
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a triptorelina é um agonista do GnRH. A estimulação contínua dessensibiliza os receptores de GnRH da hipófise, reduz o LH e o FSH e, com isso, os esteroides sexuais produzidos pelas gônadas.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, pela classe do fármaco, que a triptorelina é um agonista do GnRH: após a estimulação inicial, ela dessensibiliza a hipófise e reduz a produção de hormônios sexuais (testosterona e estrogênio).
 
-**Esta previsão não tem respaldo mecanístico crível.** A supressão de esteroides sexuais não deveria tratar a hipertricose e pode até agir no sentido oposto sobre o crescimento de pelos. A pontuação alta do modelo (1,0000) provavelmente reflete proximidade na rede de conhecimento biomédico, e não uma relação terapêutica real. Outras doenças previstas com pontuações igualmente altas (por exemplo, hipertricose congênita de Ambras e anormalidades genéticas da haste capilar) também não têm lógica farmacológica plausível.
-
-Observação: entre as demais previsões do modelo, a **puberdade precoce** (posição 8 da lista) tem evidência robusta, com vários ensaios de Fase 3 concluídos. É, porém, um uso já consolidado em diversas regiões, e portanto não é reposicionamento genuíno. Ela confirma que o modelo reconhece a farmacologia conhecida do fármaco, mas não altera a avaliação da hipertricose.
-
----
+A análise dos dados compilados não identificou um vínculo mecanístico crível com a hipertricose. A supressão de esteroides sexuais não deve tratar o crescimento excessivo de pelos e pode até atuar em sentido oposto sobre o crescimento capilar. A pontuação alta do modelo, portanto, deve ser interpretada com cautela, pois não é acompanhada de nenhuma evidência clínica ou de plausibilidade biológica.
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [41822646](https://pubmed.ncbi.nlm.nih.gov/41822646/) | 2026 | Relato de caso | Cureus | Mulher trans de 25 anos, com psoríase em placas grave, desenvolveu hipertricose generalizada após iniciar ciclosporina, apesar de usar estradiol e triptorelina como bloqueio de testosterona. O quadro foi atribuído à ciclosporina, **não** a um benefício da triptorelina. |
-
----
+| [41822646](https://pubmed.ncbi.nlm.nih.gov/41822646/) | 2026 | Relato de caso | Cureus | Hipertricose generalizada induzida por ciclosporina em uma mulher transgênero com psoríase grave que usava estradiol e triptorelina. O quadro foi causado pela ciclosporina; o relato não indica benefício da triptorelina. |
 
 ## Informações de Comercialização no Brasil
-
-Os 3 registros estão válidos (3 de 3); o medicamento é comercializado no Brasil.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -91,33 +77,26 @@ Os 3 registros estão válidos (3 de 3); o medicamento é comercializado no Bras
 | 128760009 | GONAPEPTYL DEPOT | LABORATÓRIOS FERRING LTDA | Ativo |
 | 128760014 | GONAPEPTYL DAILY | LABORATÓRIOS FERRING LTDA | Ativo |
 
----
-
 ## Considerações de Segurança
 
-Os dados de advertências e contraindicações da bula da ANVISA não estavam disponíveis nos dados compilados. Consulte a bula para essas informações.
+- **Contraindicações/condições de atenção (dados de relações fármaco-doença, não texto de bula):** hipertensão, doença renal, doença hepática, doença da vesícula biliar, hiperglicemia, diabetes mellitus, cetoacidose diabética, obesidade (inclusive monogênica), obstrução do trato urinário, pioureter e doença da medula espinhal. Devem ser confirmadas na bula.
+- **Interações Medicamentosas:** foram identificadas 262 interações. As listadas incluem uma de gravidade **maior**, com dolasetrona (risco relacionado ao prolongamento do intervalo QT), e várias de gravidade moderada, principalmente com antidiabéticos (acarbose, metformina, pioglitazona, glimepirida, clorpropamida, inibidores de SGLT2 e de DPP-4, agonistas de GLP-1), laxantes e preparos intestinais (bisacodil, picossulfato, polietilenoglicol), além de famotidina, loperamida, claritromicina e palonosetrona.
 
-- **Contraindicações ou condições de atenção sugeridas pelo grafo de conhecimento do TxGNN** (associações do grafo, não texto de bula): hipertensão, doença renal, piureter, doença hepática, doença da vesícula biliar, hiperglicemia, diabetes mellitus, cetoacidose diabética, obesidade (incluindo obesidade monogênica), obstrução do trato urinário e doença da medula espinhal.
-- **Interações medicamentosas:** foram identificadas 262 interações. Entre as listadas:
-  - **Grave:** dolasetrona.
-  - **Moderada:** antidiabéticos (acarbose, albiglutida, alogliptina, metformina, pioglitazona, canagliflozina, clorpropamida, dapagliflozina, saxagliptina, dulaglutida, empagliflozina, glimepirida), famotidina, loperamida, bisacodil, claritromicina, ácido picossulfúrico, polietilenoglicol 3350 com eletrólitos e palonosetrona.
-
----
+As advertências e contraindicações da bula da ANVISA não estavam disponíveis; consulte a bula para as informações de segurança oficiais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura que apoiem a triptorelina na hipertricose. O único artigo encontrado descreve um efeito adverso da ciclosporina, e não há mecanismo plausível que sustente a previsão (nível de evidência L5).
-- Além disso, o fármaco é comercializado no Brasil, com 3 registros válidos de 3.
+- Não há ensaios clínicos nem estudos que avaliem a triptorelina na hipertricose; a única publicação trata de um efeito adverso da ciclosporina. Não existe vínculo mecanístico plausível, e a pontuação alta do modelo parece ser um artefato da previsão.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar as bulas na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
-- Obter os dados de mecanismo de ação a partir do DrugBank.
-- Apresentar uma hipótese mecanística plausível e dados pré-clínicos ou clínicos que ligue a supressão do eixo GnRH à hipertricose, o que hoje não existe.
-- Confirmar a situação regulatória atual da triptorelina no Brasil, onde o fármaco é comercializado e os 3 registros listados estão válidos.
-- Se o objetivo for aproveitar o potencial do fármaco, avaliar separadamente indicações com evidência real, como a puberdade precoce central.
+- Evidência clínica ou pré-clínica que mostre benefício da triptorelina na hipertricose
+- Uma hipótese mecanística plausível que justifique o uso de um agonista do GnRH nessa condição
+- Dados detalhados do mecanismo de ação
+- Bula da ANVISA com advertências e contraindicações para a triagem de segurança
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
