@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Progesterone
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Moderada (L3-L4)
 nav_order: 552
-evidence_level: L5
+evidence_level: L4
 indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-description: "Progesterone: nova indicação prevista, Doença fibrocística da mama (breast fibrocystic disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Progesterone: nova indicação prevista, Doença fibrocística da mama (breast fibrocystic disease) (nível de evidência L4). Indicação original: Não consta nos dados locais"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **6** 
+Nível de evidência: **L4** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,9 +38,9 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 ## Resumo em Uma Frase
 
-Progesterona é um hormônio progestágeno, comercializado no Brasil em diversos produtos de progestágeno simples.
-O modelo TxGNN prevê que pode ser eficaz para **Doença fibrocística da mama (breast fibrocystic disease)**,
-atualmente com **nenhum ensaio clínico** registrado e **19 publicações** associadas a esta direção, em sua maioria revisões, estudos observacionais e de associação hormonal.
+A progesterona é o hormônio progestagênio natural, comercializado no Brasil em medicamentos de progestagênio isolado.
+O modelo TxGNN prevê que ela possa ser útil na **doença fibrocística da mama (breast fibrocystic disease)**.
+Hoje há **0 ensaios clínicos** e **19 publicações** sobre o tema, todas de natureza endocrinológica, mecanística ou observacional. Nenhuma testa a progesterona como tratamento.
 
 ## Visão Geral Rápida
 
@@ -49,18 +49,18 @@ atualmente com **nenhum ensaio clínico** registrado e **19 publicações** asso
 | Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Doença fibrocística da mama (breast fibrocystic disease) |
 | Pontuação de Previsão TxGNN | 0.9998 |
-| Nível de Evidência | L5 |
+| Nível de Evidência | L4 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 16) |
 | Número de Registros | 16 (ativos: 7) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. A progesterona é um hormônio sexual feminino natural, e o racional para a nova indicação vem da hipótese hormonal da doença.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. A progesterona atua como hormônio sexual feminino. Ela equilibra a ação do estrogênio sobre o tecido mamário, e esse papel é a base da hipótese biológica desta previsão.
 
-A hipótese da razão estradiol/progesterona (E2/P) sustenta que a deficiência relativa de progesterona (predomínio estrogênico) contribui para a doença mamária benigna e a mastalgia. Uma revisão de 1986 descreve a fisiopatologia da doença fibrocística como resultado de predomínio estrogênico e deficiência de progesterona, e um estudo com 50 mulheres com a doença e 40 controles avaliou a relação E2/P na fase lútea tardia.
+A hipótese central é a da "dominância estrogênica". Na doença fibrocística, a deficiência relativa de progesterona em relação ao estradiol (a razão E2/P) favoreceria a proliferação do tecido conjuntivo e do epitélio mamário. Isso levaria a nódulos, cistos e dor mamária. Um estudo com 50 mulheres com a doença e 40 controles avaliou essa razão na fase lútea tardia. Revisões clássicas também descrevem a fisiopatologia como predomínio estrogênico com falta de progesterona.
 
-Esse racional é plausível, mas frágil: a literatura é composta sobretudo por revisões antigas, epidemiologia e estudos de associação, e o próprio efeito da progesterona sobre a proliferação mamária é debatido. Nenhum estudo citado testa a progesterona como tratamento da doença, por isso o nível de evidência é L5.
+Essa lógica oferece uma justificativa plausível, mas ainda indireta. Os trabalhos disponíveis são em grande parte revisões antigas, estudos epidemiológicos e de associação. Além disso, o efeito da progesterona sobre a proliferação mamária é debatido: parte da literatura a considera protetora, parte a considera estimuladora. Por isso, a previsão deve ser tratada como hipótese de pesquisa.
 
 ## Evidências de Ensaios Clínicos
 
@@ -70,18 +70,20 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [31168213](https://pubmed.ncbi.nlm.nih.gov/31168213/) | 2018 | Estudo de associação hormonal (50 casos, 40 controles) | Acta Clinica Croatica | Avaliou o papel da relação estradiol/progesterona na fase lútea tardia na ocorrência da doença fibrocística, mastalgia e mastodinia |
-| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Review | Am J Obstet Gynecol | Fisiopatologia determinada por predomínio estrogênico e deficiência de progesterona; risco de câncer de mama aumentado de 2 a 4 vezes |
-| [6481706](https://pubmed.ncbi.nlm.nih.gov/6481706/) | 1984 | Review | J Reprod Med | Revisão da fisiologia hormonal da mama; estrogênio e contraceptivos orais não causam câncer de mama e podem ter leve efeito protetor |
-| [3902125](https://pubmed.ncbi.nlm.nih.gov/3902125/) | 1985 | Review | Breast Cancer Res Treat | Epidemiologia e endocrinologia da doença mamária benigna |
-| [1936311](https://pubmed.ncbi.nlm.nih.gov/1936311/) | 1991 | Review | Fertil Steril | Contraceptivos orais antigos pareciam proteger contra doença mamária benigna; incerto se os de baixa dose de progestágeno fazem o mesmo |
-| [41438397](https://pubmed.ncbi.nlm.nih.gov/41438397/) | 2025 | Transversal | Int J Reprod Biomed | Associação entre doença fibrocística da mama e fenótipos da síndrome dos ovários policísticos |
-| [28598826](https://pubmed.ncbi.nlm.nih.gov/28598826/) | 2017 | RCT (metformina) | Breast Dis | Ensaio duplo-cego com placebo avaliando metformina, não progesterona, nas alterações fibrocísticas |
-| [7788004](https://pubmed.ncbi.nlm.nih.gov/7788004/) | 1995 | Observacional | Eur J Endocrinol | Hormônios tireoidianos no soro e no líquido de cistos mamários de mulheres com a doença |
-| [22103710](https://pubmed.ncbi.nlm.nih.gov/22103710/) | 2012 | Observacional | Gynecol Endocrinol | Taxas da doença fibrocística entre fenótipos de SOP e sua relação com parâmetros hormonais e metabólicos |
-| [8043497](https://pubmed.ncbi.nlm.nih.gov/8043497/) | 1994 | Observacional | J Steroid Biochem Mol Biol | Esteroides no líquido de cistos mamários e relação com o risco de câncer de mama |
+| [31168213](https://pubmed.ncbi.nlm.nih.gov/31168213/) | 2018 | Estudo observacional | Acta Clin Croat | Compara a razão estradiol/progesterona na fase lútea tardia entre 50 mulheres com doença fibrocística e 40 controles. |
+| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Revisão | Am J Obstet Gynecol | Descreve a fisiopatologia como predomínio de estrogênio e deficiência de progesterona. Aponta aumento de 2 a 4 vezes no risco de câncer de mama nesses casos. |
+| [6481706](https://pubmed.ncbi.nlm.nih.gov/6481706/) | 1984 | Revisão | J Reprod Med | Revisa a ação de estrogênio e progesterona na mama. Conclui que contraceptivos orais não causam câncer de mama e podem ter leve efeito protetor. |
+| [1936311](https://pubmed.ncbi.nlm.nih.gov/1936311/) | 1991 | Revisão | Fertil Steril | Dados epidemiológicos sugerem que contraceptivos orais antigos protegiam contra doença mamária benigna. Não está claro se as doses atuais de progestagênio mantêm esse efeito. |
+| [3902125](https://pubmed.ncbi.nlm.nih.gov/3902125/) | 1985 | Revisão | Breast Cancer Res Treat | Revisão da epidemiologia e da endocrinologia da doença mamária benigna. |
+| [41438397](https://pubmed.ncbi.nlm.nih.gov/41438397/) | 2025 | Estudo transversal | Int J Reprod Biomed | Investiga a associação entre doença fibrocística da mama e fenótipos da síndrome dos ovários policísticos. |
+| [22103710](https://pubmed.ncbi.nlm.nih.gov/22103710/) | 2012 | Estudo observacional | Gynecol Endocrinol | Avalia as taxas de doença fibrocística e sua relação com parâmetros hormonais e metabólicos em mulheres com síndrome dos ovários policísticos. |
+| [7788004](https://pubmed.ncbi.nlm.nih.gov/7788004/) | 1995 | Observacional | Eur J Endocrinol | Mede hormônios tireoidianos no soro e no líquido de cistos mamários em mulheres com doença fibrocística. |
+| [28598826](https://pubmed.ncbi.nlm.nih.gov/28598826/) | 2017 | Ensaio clínico randomizado | Breast Dis | Estudo duplo-cego controlado por placebo sobre o efeito da **metformina** (não da progesterona) nas alterações fibrocísticas. |
+| [34537861](https://pubmed.ncbi.nlm.nih.gov/34537861/) | 2022 | Revisão | Virchows Arch | Revisão patológica das lesões apócrinas da mama, frequentes em cistos benignos. |
 
 ## Informações de Comercialização no Brasil
+
+A progesterona está comercializada no Brasil, com 7 registros válidos e 9 cancelados, num total de 16. Abaixo estão cinco dos registros válidos de produto de princípio ativo único.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -102,27 +104,25 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 156200023 | ÁGAPE | VIDFARMA INDÚSTRIA DE MEDICAMENTOS LTDA | Cancelado |
 | 187590004 | PROGESTERONA | BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA | Cancelado |
 
-Há 7 registros válidos entre os 16 registros, e 9 cancelados; a tabela lista apenas os 5 principais.
-
 ## Considerações de Segurança
 
-- **Contraindicações (relações de contraindicação recorrentes nas bases consultadas, não texto de bula)**: hipertensão, insuficiência e doença hepática, epilepsia, transtornos de ansiedade, porfiria, doença renal, doença da vesícula biliar, hiperglicemia e diabetes mellitus, hipotireoidismo, osteoporose, lúpus eritematoso sistêmico, asma, hipertrigliceridemia e dependência de substâncias.
-- **Interações Medicamentosas**: foram identificadas 100 interações, todas as listadas de nível moderado. As principais envolvem antidiabéticos (acarbose, metformina, pioglitazona, glimepirida, repaglinida, clorpropamida, inibidores de SGLT2 como dapagliflozina, canagliflozina e empagliflozina, inibidores de DPP-4 como alogliptina e saxagliptina, análogos de GLP-1 como liraglutida, semaglutida e dulaglutida, e insulinas), além de aprepitanto e claritromicina.
+- **Interações medicamentosas:** foram identificadas 100 interações, e as 20 primeiras listadas são de gravidade moderada. A maioria envolve antidiabéticos, como acarbose, metformina, pioglitazona, alogliptina, canagliflozina, dapagliflozina, empagliflozina, glimepirida, repaglinida, clorpropamida, semaglutida, liraglutida, dulaglutida e insulinas (asparte, degludeca e detemir). Também constam aprepitanto e claritromicina. Com antidiabéticos, convém monitorar a glicemia.
 
-Consulte a bula para as advertências e contraindicações oficiais.
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta no modelo, mas nenhum estudo citado avalia a progesterona como tratamento desta doença; não há ensaios clínicos e a literatura é indireta (revisões antigas e associações hormonais).
+- O nível de evidência é L4. Nenhum estudo testa a progesterona como tratamento da doença fibrocística da mama: não há ensaios registrados, e as publicações são endocrinológicas e mecanísticas (razão estradiol/progesterona, receptores hormonais). A pontuação alta do TxGNN (0,9998) não substitui evidência clínica.
 
 **Para prosseguir, é necessário:**
-- Dados do mecanismo de ação da progesterona
-- Revisão sistemática da literatura sobre progestágenos (tópicos ou orais) na mastalgia e na doença fibrocística
-- Ensaio clínico controlado de fase 2 com a progesterona nesta indicação
-- Obtenção das advertências e contraindicações da bula na ANVISA, além de avaliação do perfil de segurança mamária e da via de administração adequada
+- Obter dados do mecanismo de ação da progesterona no tecido mamário.
+- Realizar revisão sistemática da literatura sobre progestagênios (incluindo vias tópica e oral) em mastalgia e alterações fibrocísticas.
+- Obter ensaios clínicos randomizados que testem a progesterona na doença, com desfechos de dor, nódulos e cistos.
+- Avaliar a segurança mamária de longo prazo, dado o debate sobre o efeito proliferativo.
+- Complementar as advertências e contraindicações da bula aprovada pela ANVISA.
 
 ## Aviso de isenção de responsabilidade
 

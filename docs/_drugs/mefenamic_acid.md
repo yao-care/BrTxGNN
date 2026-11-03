@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mefenamic Acid
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Alta (L1-L2)
 nav_order: 438
-evidence_level: L5
+evidence_level: L2
 indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "mefenamic acid"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
-description: "Mefenamic Acid: nova indicação prevista, Transtorno de cefaleia (headache disorder) (nível de evidência L5). Indicação original: ANTINFLAMATORIOS ANTIREUMATICOS"
+description: "Mefenamic Acid: nova indicação prevista, Transtorno de cefaleia (headache disorder) (nível de evidência L2). Indicação original: ANTINFLAMATORIOS ANTIREUMATICOS"
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **6** 
+Nível de evidência: **L2** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,9 +38,9 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 ## Resumo em Uma Frase
 
-O ácido mefenâmico é um anti-inflamatório não esteroidal (AINE) com registro no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **Transtorno de cefaleia (headache disorder)**,
-atualmente com **0 ensaios clínicos registrados** e **19 publicações** relacionadas a esta direção, incluindo dois estudos duplo-cegos em enxaqueca, uma condição mais específica.
+O ácido mefenâmico é um anti-inflamatório não esteroidal (AINE) que atua inibindo a síntese de prostaglandinas.
+O modelo TxGNN prevê que ele pode ser útil no **Transtorno de cefaleia (headache disorder)**.
+Não há ensaios clínicos registrados para essa direção. Há **20 publicações** nos dados compilados, entre elas três ensaios randomizados duplo-cegos pequenos e antigos em enxaqueca, um subtipo de cefaleia. O nível de evidência é **L2**.
 
 ## Visão Geral Rápida
 
@@ -49,16 +49,16 @@ atualmente com **0 ensaios clínicos registrados** e **19 publicações** relaci
 | Indicação Original | ANTINFLAMATORIOS ANTIREUMATICOS; ANTINFLAMATORIOS |
 | Nova Indicação Prevista | Transtorno de cefaleia (headache disorder) |
 | Pontuação de Previsão TxGNN | 0.9964 |
-| Nível de Evidência | L5 |
+| Nível de Evidência | L2 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
 | Número de Registros | 10 (ativos: 10) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação neste material. Pela classe farmacológica conhecida, o ácido mefenâmico inibe a ciclo-oxigenase (COX) e, com isso, a síntese de prostaglandinas, que participam de dor e inflamação.
+Atualmente, não há dados detalhados de mecanismo de ação para este fármaco nos dados compilados. Pelo que se sabe da classe, o ácido mefenâmico bloqueia a ciclo-oxigenase (COX) e reduz a produção de prostaglandinas. Essas moléculas participam da dor e da inflamação neurogênica, e acredita-se que também contribuam para a cefaleia, em especial a menstrual ou perimenstrual, em que há liberação de prostaglandinas.
 
-As prostaglandinas estão implicadas em certos tipos de cefaleia, em especial a enxaqueca menstrual e a cefaleia perimenstrual. Isso torna o mecanismo plausível para cefaleia. Contudo, as evidências disponíveis são antigas, de pequeno porte e tratam de enxaqueca, não do conjunto "transtorno de cefaleia". Nenhum dos estudos citados avalia diretamente a categoria ampla prevista; por isso o nível de evidência é limitado a L5, apesar da plausibilidade biológica.
+A ligação mecanística é plausível, mas a evidência para a categoria ampla "transtorno de cefaleia" é indireta. Os estudos clínicos disponíveis são pequenos, antigos e feitos especificamente em enxaqueca. Para a enxaqueca, as diretrizes discutem AINEs na prevenção, mas a evidência é limitada e, em geral, favorece outros AINEs (como o naproxeno) e agentes mais novos.
 
 ## Evidências de Ensaios Clínicos
 
@@ -68,18 +68,20 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [6347393](https://pubmed.ncbi.nlm.nih.gov/6347393/) | 1983 | RCT duplo-cego | Cephalalgia | Ácido mefenâmico vs paracetamol em 40 pacientes com enxaqueca (com metoclopramida em todas as crises) |
-| [3524092](https://pubmed.ncbi.nlm.nih.gov/3524092/) | 1986 | RCT cruzado duplo-cego | Acta Neurol Scand | Profilaxia de enxaqueca: ácido mefenâmico e propranolol reduziram frequência e duração total das crises vs placebo (17 pacientes concluíram) |
-| [10799353](https://pubmed.ncbi.nlm.nih.gov/10799353/) | 2000 | Estudo duplo-cego vs placebo | Eur J Med Res | Enxaqueca menstrual em 24 pacientes tratadas com ácido mefenâmico ou placebo |
-| [22529203](https://pubmed.ncbi.nlm.nih.gov/22529203/) | 2012 | Diretriz (AAN/AHS) | Neurology | Avalia AINEs na prevenção de enxaqueca episódica; evidência limitada |
-| [18427072](https://pubmed.ncbi.nlm.nih.gov/18427072/) | 2008 | Revisão baseada em evidências | Neurology | Tratamento agudo e prevenção da enxaqueca menstrual |
-| [20836574](https://pubmed.ncbi.nlm.nih.gov/20836574/) | 2010 | Revisão | Drugs | Prevenção e tratamento da enxaqueca menstrual |
-| [40265504](https://pubmed.ncbi.nlm.nih.gov/40265504/) | 2025 | Revisão | Curr Opin Neurol | Atualização sobre curso clínico e manejo da enxaqueca em mulheres |
-| [8749241](https://pubmed.ncbi.nlm.nih.gov/8749241/) | 1995 | Revisão | Cephalalgia | Analgésicos e AINEs no tratamento da crise aguda de enxaqueca |
-| [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Revisão | Pathol Biol | Revisão de estudos controlados de AINEs (incluindo ácido mefenâmico) em enxaqueca |
-| [29095288](https://pubmed.ncbi.nlm.nih.gov/29095288/) | 2017 | Série de casos (segurança) | Medicine | Enteropatia grave com atrofia de vilosidades em usuários prolongados de ácido mefenâmico |
+| [6347393](https://pubmed.ncbi.nlm.nih.gov/6347393/) | 1983 | RCT duplo-cego cruzado | Cephalalgia | Ácido mefenâmico 500 mg comparado a paracetamol 500 mg em 40 pacientes com enxaqueca ambulatorial, em seis crises, todas com metoclopramida associada |
+| [3524092](https://pubmed.ncbi.nlm.nih.gov/3524092/) | 1986 | RCT duplo-cego cruzado | Acta Neurol Scand | Na profilaxia da enxaqueca (29 pacientes; 17 concluíram), o ácido mefenâmico e o propranolol reduziram a frequência e a duração total das crises em comparação ao placebo. Não houve efeito significativo na duração média nem na gravidade das crises |
+| [10799353](https://pubmed.ncbi.nlm.nih.gov/10799353/) | 2000 | RCT duplo-cego vs placebo | Eur J Med Res | 24 mulheres de 18 a 35 anos com enxaqueca menstrual sem aura, tratadas por dois ciclos, um deles com placebo, para avaliar o efeito do ácido mefenâmico na dor |
+| [22529203](https://pubmed.ncbi.nlm.nih.gov/22529203/) | 2012 | Diretriz (AAN/AHS) | Neurology | Atualização baseada em evidências sobre AINEs e outros tratamentos complementares na prevenção da enxaqueca episódica em adultos |
+| [18427072](https://pubmed.ncbi.nlm.nih.gov/18427072/) | 2008 | Revisão baseada em evidências | Neurology | Revisão sistemática e metanálise de tratamentos agudos e preventivos de curto prazo da enxaqueca menstrual |
+| [20836574](https://pubmed.ncbi.nlm.nih.gov/20836574/) | 2010 | Revisão | Drugs | Prevenção e tratamento da enxaqueca menstrual, com comparação da eficácia de diferentes fármacos |
+| [8749241](https://pubmed.ncbi.nlm.nih.gov/8749241/) | 1995 | Revisão | Cephalalgia | Analgésicos e AINEs no tratamento da crise aguda de enxaqueca, com uso combinado de antiemético |
+| [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Revisão | Pathol Biol | Estudos controlados de AINEs (incluindo ácido mefenâmico) no tratamento de crises e na profilaxia da enxaqueca |
+| [29095288](https://pubmed.ncbi.nlm.nih.gov/29095288/) | 2017 | Série de casos (segurança) | Medicine | Enteropatia grave com atrofia vilositária em usuários prolongados de ácido mefenâmico, com revisão de 20 relatos e 5 casos do próprio hospital |
+| [38812640](https://pubmed.ncbi.nlm.nih.gov/38812640/) | 2024 | Pré-clínico (ratos) | Turk J Med Sci | Modelo de cefaleia por uso excessivo de medicação: papel de permeabilidade intestinal aumentada e inflamação associadas ao uso de AINEs |
 
 ## Informações de Comercialização no Brasil
+
+O fármaco consta como comercializado no Brasil, com 10 registros válidos, todos de medicamentos com um único princípio ativo.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -89,26 +91,27 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | Registro nº 167730421 | Ponsdril | Não informada | Anti-inflamatórios |
 | Registro nº 100431309 | Fen | Não informada | Anti-inflamatórios antirreumáticos |
 
-Há 10 registros no total, todos válidos; a tabela mostra apenas os cinco principais.
-
 ## Considerações de Segurança
 
-- **Interações medicamentosas**: foram identificadas 195 interações no total. Entre as de nível moderado estão ácido acetilsalicílico, corticoides (hidrocortisona, dexametasona, betametasona, triancinolona, budesonida), metformina, clorpropamida, mesalazina, balsalazida, aprepitanto e sais de potássio. Famotidina, ranitidina e cimetidina têm interação de nível leve.
-- **Riscos descritos na literatura**: enteropatia com atrofia de vilosidades no uso prolongado (PMID 29095288), nefropatia associada ao uso de analgésicos em pacientes com cefaleia crônica (PMID 8262786) e risco de cefaleia por uso excessivo de medicação com analgésicos frequentes.
-- Condições de atenção para AINEs registradas nos dados compilados: hipertensão, doença renal, doença hepática, úlcera péptica ativa, doenças da coagulação, infarto do miocárdio e outras doenças cardiovasculares. Não se trata de texto de bula; confirmar na bula.
+- **Interações medicamentosas**: foram identificadas 195 interações. As de nível moderado incluem ácido acetilsalicílico, corticoides (hidrocortisona, dexametasona, betametasona, triamcinolona, budesonida), metformina, clorpropamida, mesalazina, balsalazida, aprepitanto, citrato de potássio e bicarbonato de potássio, além de preparos de limpeza intestinal (ácido picossulfúrico e polietilenoglicol com eletrólitos). Há ainda interações de nível leve, por exemplo com famotidina, ranitidina, cimetidina, dapagliflozina e linaclotida.
+- **Alertas da literatura**: o uso prolongado pode causar enteropatia com atrofia vilositária. O uso frequente de analgésicos, incluindo AINEs, pode levar a cefaleia por uso excessivo de medicação. Há também relato de associação entre uso de analgésicos e doença renal crônica em pacientes com cefaleia.
+
+Para advertências e contraindicações formais, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- Nenhum estudo citado avalia diretamente o "transtorno de cefaleia" como categoria; os RCTs são pequenos, antigos e restritos à enxaqueca. Não há ensaios clínicos registrados, e o nível de evidência é L5.
+- O nível de evidência é L2: há pequenos ensaios randomizados duplo-cegos em enxaqueca (1983, 1986 e 2000), mas não há programa de fase 3 nem ensaios em andamento. A evidência para a categoria ampla de cefaleia é indireta.
+- A pontuação do modelo é alta (0,9964), mas o benefício frente a alternativas já estabelecidas é incerto. O risco de cefaleia por uso excessivo de medicação e de toxicidade gastrintestinal e renal em uso frequente pede cautela.
 
 **Para prosseguir, é necessário:**
+- Ensaio clínico contemporâneo, controlado e de maior porte, em subtipos definidos de cefaleia (por exemplo, enxaqueca menstrual).
+- Comparação direta com AINEs e terapias já recomendadas nas diretrizes.
 - Dados de mecanismo de ação detalhados.
-- Definir uma indicação mais específica (por exemplo, enxaqueca menstrual) e avaliar a evidência direta correspondente.
-- Revisão das advertências e contraindicações da bula brasileira, atualmente não disponíveis nos dados compilados.
-- Avaliação de segurança quanto ao uso repetido (risco gastrointestinal, renal e cefaleia por uso excessivo de medicação).
+- Advertências e contraindicações da bula brasileira.
+- Plano de monitoramento de segurança gastrintestinal e renal, e de limitação da frequência de uso para evitar cefaleia por uso excessivo.
 
 ## Aviso de isenção de responsabilidade
 
