@@ -35,7 +35,8 @@ O BrTxGNN integra múltiplas fontes de dados públicas para garantir a rastreabi
 | **Fonte** | Agência Nacional de Vigilância Sanitária |
 | **Dados** | Medicamentos registrados no Brasil |
 | **Registros** | ~42.000 medicamentos |
-| **Atualização** | Semanal |
+| **Atualização** | Semanal (download automático toda segunda-feira) |
+| **Arquivo** | [DADOS_ABERTOS_MEDICAMENTOS.csv](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | **Link** | [dados.anvisa.gov.br](https://dados.anvisa.gov.br/) |
 
 ---

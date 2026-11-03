@@ -45,7 +45,7 @@ e integração de registros eletrônicos de saúde via SMART on FHIR.
 |------|-----------|
 | Manutenção | 藥提醒科技有限公司 (yao.care) |
 | Base do Modelo | Harvard TxGNN (Zitnik Lab) |
-| Última Atualização | Março 2026 |
+| Última Atualização das estatísticas | {{ site.data.drug_stats.generated }} |
 
 ### Base Acadêmica
 
