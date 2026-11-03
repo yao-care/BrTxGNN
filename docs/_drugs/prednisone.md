@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 547
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Prednisone: nova indicação prevista, Alopecia areata (Alopecia Areata) (nível de evidência L3). Indicação original: Hormônios corticosteroides / Glicocorticoides sistêmicos"
 monitor_inn: "Prednisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
@@ -174,6 +174,7 @@ Consulte a bula para as advertências e contraindicações oficiais.
 | 8 | Atriquia com lesões papulares | 0,9995 | L5 | Hold |
 | 9 | Tenossinovite | 0,9980 | L4 | Questão de pesquisa |
 | 10 | Prolapso da glândula lacrimal | 0,9966 | L5 | Hold |
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

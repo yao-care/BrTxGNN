@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 662
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Valganciclovir: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior a 0,99 para o Valganciclovir, portanto, no momento, não há nova indicação prevista. Os usos registrados para este medicamento são listados abaixo.
 
 ## Visão geral rápida
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo obteve pontuação igual ou superior a 0,99) |
@@ -52,16 +53,19 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 ## Usos conhecidos registrados para este medicamento
 
 ### Aprovados (com respaldo em registro ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Nenhum | Nenhum |
 
 ### Relacionados a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhum | Nenhum |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | Nenhum |

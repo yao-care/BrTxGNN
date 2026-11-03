@@ -3,7 +3,7 @@ layout: default
 title: Iopamidol
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 371
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Iopamidol: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior a 0,99 para o Iopamidol, portanto não há, no momento, nova indicação predita. Os usos registrados para o medicamento são listados abaixo.
 
 ## Visão geral rápida
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações preditas | Nenhuma (nenhum candidato do modelo atingiu 0,99 ou mais) |
@@ -51,16 +52,19 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 ## Usos conhecidos registrados para este medicamento
 
 ### Aprovados (com respaldo em registro ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Nenhuma | Nenhuma |
 
 ### Relacionados a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhuma | Nenhuma |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | Nenhuma |

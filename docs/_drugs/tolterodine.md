@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 646
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Tolterodine: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 Todos os candidatos que o modelo TxGNN gerou para Tolterodine correspondem a usos já conhecidos. Por isso, no momento não há nova indicação prevista para este medicamento.
 
 ## Visão geral rápida
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis a uma fonte são usos conhecidos) |
@@ -52,16 +53,19 @@ Todos os candidatos que o modelo TxGNN gerou para Tolterodine correspondem a uso
 ## Usos conhecidos entre os candidatos do modelo
 
 ### Aprovados (com respaldo em registro ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Nenhum | Nenhum |
 
 ### Relacionados a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhum | Nenhum |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | bexiga hiperativa (overactive bladder (disease)) |

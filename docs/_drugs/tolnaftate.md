@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 645
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Tolnaftate: usos conhecidos e situação de mercado no Brasil; atualmente nenhum novo candidato a indicação"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 Os candidatos que o modelo TxGNN de aprendizado profundo (pontuação ≥ 0,99) gerou para o Tolnaftate correspondem, todos, a usos já conhecidos. Por isso, atualmente não há nenhuma nova indicação prevista para este medicamento. As pontuações vêm do modelo TxGNN (aprendizado profundo) e podem refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 ## Visão geral
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo que puderam ser rastreados são usos conhecidos) |
@@ -52,16 +53,19 @@ Os candidatos que o modelo TxGNN de aprendizado profundo (pontuação ≥ 0,99) 
 ## Usos conhecidos entre os candidatos do modelo
 
 ### Aprovados (com respaldo em registro ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Nenhum | Nenhum |
 
 ### Relacionados a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhum | Nenhum |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | Dermatofitose da região inguinal e perianal (dermatophytosis of groin and perianal area) |

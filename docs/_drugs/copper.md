@@ -3,7 +3,7 @@ layout: default
 title: Copper
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 242
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Copper: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior a 0,99 para Copper, portanto não há, no momento, nova indicação prevista. Os usos registrados para este medicamento estão listados abaixo.
 
 ## Visão geral rápida
+
 | Item | Conteúdo |
 |------|------|
 | Usos conhecidos registrados para este medicamento | 1 |
@@ -50,16 +51,19 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 ## Usos conhecidos registrados para este medicamento
 
 ### Aprovado (com respaldo de licença ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | imagem por radionuclídeos (radionuclide imaging) | licença em outro país |
 
 ### Relacionado a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | nenhuma | nenhuma |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | nenhuma |

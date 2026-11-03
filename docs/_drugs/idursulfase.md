@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 360
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Idursulfase: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superior a 0,99 para a Idursulfase, portanto não há, no momento, nova indicação prevista. Os usos já registrados para este medicamento estão listados abaixo. Esses usos são registros próprios do medicamento e não candidatos do modelo.
 
 ## Visão geral
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação igual ou superior a 0,99) |
@@ -52,16 +53,19 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 ## Usos conhecidos registrados para este medicamento
 
 ### Aprovado (com respaldo em licença ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Mucopolissacaridose II (mucopolysaccharidosis ii) | Licença em outro país |
 
 ### Relacionado a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhum | Nenhum |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | Mucopolissacaridose (mucopolysaccharidosis) |

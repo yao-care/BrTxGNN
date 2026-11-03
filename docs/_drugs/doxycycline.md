@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 278
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Doxycycline: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L4). Indicação original: Antibióticos sistêmicos simples (classe das t…"
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
@@ -133,6 +133,7 @@ Para advertências e demais contraindicações, consulte a bula.
 | Síndrome pós-infecciosa | L2 (dados) | Research Question | O único ensaio de fase 3 (NCT07658976) ainda não iniciou o recrutamento, e a literatura é heterogênea |
 | Otite externa, vasculite pós-infecciosa, estenose uretral infecciosa, cardiomiopatia chagásica, ceratite por exposição | L5 | Hold | Evidência indireta; na cardiomiopatia chagásica, o estudo pré-clínico não mostrou efeito aditivo sobre o benznidazol |
 | Síndrome hemolítico-urêmica associada a infecção | L5 | Hold | Sem estudos. Antibióticos costumam ser evitados na SHU associada a STEC, por poderem aumentar a liberação da toxina Shiga, o que representa risco de segurança |
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

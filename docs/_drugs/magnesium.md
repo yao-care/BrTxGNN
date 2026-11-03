@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 430
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Magnesium: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior a 0,99 para este medicamento, portanto não há, no momento, nova indicação prevista. Os usos registrados para o medicamento estão listados abaixo.
 
 ## Visão geral
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação de 0,99 ou mais) |
@@ -52,16 +53,19 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 ## Usos conhecidos registrados para este medicamento
 
 ### Aprovado (respaldado por licença ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | úlcera duodenal (duodenal ulcer) | licença em outro país |
 
 ### Relacionado a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhum | Nenhum |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | Nenhum |

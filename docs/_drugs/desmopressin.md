@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 257
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Desmopressin: nova indicação prevista, Deficiência congênita de protrombina (congenital prothrombin deficien… (nível de evidência L5). Indicação original: Outros hormônios mediadores e produtos equiv…"
 monitor_inn: "desmopressin"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
@@ -116,6 +116,7 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 | Pseudo-doença de von Willebrand | 0,9916 | L4 | Conflita com a fisiopatologia; considerada relativamente contraindicada |
 | Síndrome de Scott | 0,9916 | L4 | Sem dados clínicos com desmopressina; mecanismo não corrige o defeito |
 | "Flood factor deficiency" | 0,9915 | L5 | Provável erro de mapeamento do nome da doença; requer curadoria antes de qualquer avaliação |
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

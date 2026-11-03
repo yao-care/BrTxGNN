@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 556
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Pyridoxine: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 O modelo TxGNN não apresenta, para Pyridoxine, nenhum candidato com pontuação igual ou superior a 0,99, portanto atualmente não há nova indicação prevista. Os usos registrados para o medicamento estão listados abaixo. Eles são usos já conhecidos e não representam candidatos do modelo.
 
 ## Visão geral rápida
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo com pontuação igual ou superior a 0,99) |
@@ -52,17 +53,20 @@ O modelo TxGNN não apresenta, para Pyridoxine, nenhum candidato com pontuação
 ## Usos conhecidos registrados para este medicamento
 
 ### Aprovadas (com respaldo em licença ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Dermatite (dermatitis) | Licença em outro país |
 | eczema | Licença em outro país |
 
 ### Relacionadas a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhuma | Nenhuma |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | Anemia por deficiência de piridoxina (pyridoxine deficiency anemia) |

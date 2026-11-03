@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 499
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Oxiconazole: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 Todos os candidatos gerados pelo modelo TxGNN para o Oxiconazole que puderam ser rastreados até uma fonte correspondem a usos já conhecidos. Por isso, atualmente não há nenhuma nova indicação prevista para este medicamento.
 
 ## Visão geral
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis são usos conhecidos) |
@@ -52,16 +53,19 @@ Todos os candidatos gerados pelo modelo TxGNN para o Oxiconazole que puderam ser
 ## Usos conhecidos entre os candidatos do modelo
 
 ### Aprovados (com respaldo em registro ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Nenhum | Nenhum |
 
 ### Relacionados a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhum | Nenhum |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | Nenhum |

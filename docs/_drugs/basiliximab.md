@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 107
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Basiliximab: known uses and market status in Brazil; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior a 0,99 para o Basiliximab, portanto, atualmente, não há nova indicação prevista. Os usos registrados para este medicamento estão listados abaixo.
 
 ## Visão geral rápida
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação igual ou superior a 0,99) |
@@ -52,17 +53,20 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 ## Usos conhecidos registrados para este medicamento
 
 ### Aprovados (com respaldo de licença ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Rejeição de enxerto (graft rejection) | Licença em outro país |
 | Transplante renal (kidney transplantation) | Licença em outro país |
 
 ### Relacionados a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhum | Nenhum |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | Nenhum |

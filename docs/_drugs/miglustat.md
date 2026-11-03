@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 459
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "miglustat"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
 description: "Miglustat: nova indicação prevista, Autosomal ichthyosis syndrome with fatal disease course (nível de evidência L5). Indicação original: OUTROS PRODS NAO ENQUADRADOS EM CLASSE TERAPEUTICA ESPECIF"
@@ -151,6 +151,7 @@ Todas com nível L5 e recomendação **Hold**, sem ensaios clínicos ou literatu
 | 8 | Neoplasia benigna da glândula adrenal | 0,9974 | Nenhum mecanismo plausível identificado |
 | 9 | Ictiose recessiva ligada ao X | 0,9973 | Vínculo especulativo |
 | 10 | Neurodegeneração associada à hidroxilase de ácidos graxos | 0,9972 | Direção do efeito incerta |
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

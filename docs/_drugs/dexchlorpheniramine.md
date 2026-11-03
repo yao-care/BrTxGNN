@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 260
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Dexchlorpheniramine: usos conhecidos e situação de mercado no Brasil; atualmente nenhuma nova indicação candidata"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Dexchlorpheniramine que puderam ser rastreados até uma fonte correspondem, todos, a usos já conhecidos. Por isso, atualmente não há nenhuma nova indicação prevista para este medicamento. Os dois usos conhecidos abaixo constam como relações no grafo de conhecimento, sem aprovação identificada nesta análise.
 
 ## Visão geral
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo rastreáveis a uma fonte são usos conhecidos) |
@@ -52,16 +53,19 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Dexchlorpheni
 ## Usos conhecidos entre os candidatos do modelo
 
 ### Aprovados (com respaldo em registro ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Nenhuma | — |
 
 ### Relacionados a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhuma | — |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | urticária alérgica (allergic urticaria) |

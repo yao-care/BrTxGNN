@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 472
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Nitisinone: nova indicação prevista, Acidose tubular renal (renal tubular acidosis) (nível de evidência L5). Indicação original: Outros produtos para o trato alimentar e metabolismo"
 monitor_inn: "nitisinone"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
@@ -106,6 +106,7 @@ Para advertências e contraindicações da bula, consulte a bula aprovada, pois 
 | 8 | Síndrome de Griscelli | 0,9987 | L5 | Ligação tênue pela via da tirosina/melanina; a nitisinona eleva a tirosina e não corrige o defeito |
 | 9 | Doença granulomatosa crônica ligada ao X | 0,9987 | L5 | Sem relação mecanística conhecida |
 | 10 | Fenótipo ermine | 0,9987 | L5 | Ligação especulativa pela via tirosina/melanina |
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

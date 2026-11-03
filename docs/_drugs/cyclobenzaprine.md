@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 244
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Cyclobenzaprine: nova indicação prevista, Síndrome de Dor Miofascial (Myofascial Pain Syndrome) (nível de evidência L2). Indicação original: Relaxantes musculares"
 monitor_inn: "Cyclobenzaprine"
 predicted_indications: ["myofascial pain syndrome", "neuralgia", "papillary conjunctivitis"]
@@ -152,6 +152,7 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 | Indicação | Pontuação TxGNN | Nível | Recomendação |
 |------|------|------|------|
 | Neuralgia | 0,9908 | L4 | Questão de pesquisa |
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 545
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Prednisolone: nova indicação prevista, Alopecia Areata (alopecia areata) (nível de evidência L2). Indicação original: Glicocorticoides sistêmicos"
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
@@ -150,6 +150,7 @@ Há um ensaio randomizado controlado por placebo, uma meta-análise em rede e re
 | Foliculite decalvante | 0,9998 | L4 | Hold | Evidência indireta, de regime combinado |
 | Eflúvio telógeno | 0,9998 | L5 | Hold | Sem evidências; condição geralmente autolimitada |
 | Demais indicações (hipotricose hereditária, síndromes genéticas raras, atriquia, prolapso da glândula lacrimal, etc.) | ≤ 0,9998 | L5 | Hold | Sem evidências ou mecanismo plausível |
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

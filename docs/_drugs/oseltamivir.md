@@ -3,7 +3,7 @@ layout: default
 title: Oseltamivir
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 492
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Oseltamivir: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior a 0,99 para o Oseltamivir, portanto não há, no momento, nova indicação prevista. Os usos registrados para este medicamento estão listados abaixo. Esses usos são os registros próprios do medicamento e não são candidatos do modelo.
 
 ## Visão geral rápida
+
 | Item | Conteúdo |
 |------|------|
 | Usos conhecidos registrados para este medicamento | 3 |
@@ -50,6 +51,7 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 ## Usos conhecidos registrados para este medicamento
 
 ### Aprovados (com respaldo em licença ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Resfriado comum (common cold) | licença em outro país |
@@ -57,11 +59,13 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 | Influenza | licença em outro país |
 
 ### Relacionados a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhuma | Nenhuma |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | Nenhuma |

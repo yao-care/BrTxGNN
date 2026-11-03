@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 574
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "Ropivacaine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
 description: "Ropivacaine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: ANESTESICOS LOCAIS"
@@ -134,6 +134,7 @@ Existe plausibilidade mecanística e algum suporte clínico para bloqueios com r
 | Tendinite | L4, evidência indireta e alerta de citotoxicidade em tenócitos | Hold |
 | Bronquite | L4, associação incidental com analgesia pós-cirurgia cardíaca | Hold |
 | Enxaqueca com aura do tronco encefálico, dismorfia distímica, síndrome nefrogênica de antidiurese inapropriada, miosite granulomatosa idiopática, miosite fibrosa | L5, apenas previsão do modelo; vários sem mecanismo plausível | Hold |
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

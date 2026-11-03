@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 664
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 description: "Valsartan: nova indicação prevista, Malignant hypertensive renal disease (nível de evidência L4). Indicação original: Não consta nos dados locais"
@@ -112,6 +112,7 @@ Os dados de advertências e contraindicações da bula não estavam disponíveis
 | Síndrome de Braddock | 0,9996 | L5 | Apenas previsão do modelo | Hold |
 | Cor pulmonale crônico | 0,9958 | L4 | Evidência indireta (sacubitril/valsartana em insuficiência cardíaca; um estudo pré-clínico de remodelamento do ventrículo direito, PMID 32552157). O único ensaio associado (NCT02966665, Fase 1, 420 participantes, em recrutamento) é sobre exercício e função vascular na hipertensão, com correspondência fraca | Questão de pesquisa |
 | Angina de Prinzmetal | 0,9945 | L5 | O único artigo (PMID 20555232) trata de alternância da onda T, sem relação com o tratamento | Hold |
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

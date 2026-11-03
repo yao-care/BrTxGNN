@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 544
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Praziquantel: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superior a 0,99 para o Praziquantel, portanto não há, no momento, nova indicação predita. Os usos registrados para este medicamento estão listados abaixo. Eles são usos já conhecidos e não são candidatos do modelo.
 
 ## Visão geral rápida
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações preditas | Nenhuma (nenhum candidato do modelo obteve pontuação igual ou superior a 0,99) |
@@ -52,16 +53,19 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 ## Usos conhecidos registrados para este medicamento
 
 ### Aprovados (com respaldo em registro ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Nenhuma | — |
 
 ### Relacionados a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhuma | — |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | Enterobíase (enterobiasis) |

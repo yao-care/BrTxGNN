@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 124
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Betahistine: usos conhecidos e situação de mercado no Brasil; atualmente sem novo candidato a indicação"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 O modelo TxGNN não apresenta, para Betahistine, nenhum candidato com pontuação igual ou superior a 0,99. Por isso, atualmente não há nova indicação prevista. Os usos registrados para este medicamento estão listados abaixo.
 
 ## Visão geral
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações previstas | Nenhuma (nenhum candidato do modelo atingiu pontuação de 0,99 ou mais) |
@@ -52,16 +53,19 @@ O modelo TxGNN não apresenta, para Betahistine, nenhum candidato com pontuaçã
 ## Usos conhecidos registrados para este medicamento
 
 ### Aprovados (com respaldo em licença ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Doença de Ménière (meniere disease) | Licença em outro país |
 
 ### Relacionados a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhuma | Nenhuma |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | Hidropisia endolinfática (endolymphatic hydrops) |

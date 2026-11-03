@@ -5,7 +5,7 @@ parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 405
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Levobunolol: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para o Levobunolol são todos usos já conhecidos. Por isso, não há atualmente nenhuma nova indicação prevista para este medicamento. Os usos conhecidos listados abaixo constam como relações no grafo de conhecimento e não equivalem, por si sós, a indicações aprovadas.
 
 ## Visão geral rápida
+
 | Item | Conteúdo |
 |------|------|
 | Novas indicações previstas | Nenhuma (todos os candidatos do modelo que podem ser rastreados são usos conhecidos) |
@@ -52,16 +53,19 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para o Levobunolol
 ## Usos conhecidos entre os candidatos do modelo
 
 ### Aprovados (com respaldo em registro ou bula)
+
 | Indicação | Fonte |
 |------|------|
 | Nenhum | — |
 
 ### Relacionados a uma indicação aprovada (mesma categoria de doença)
+
 | Indicação | Categoria aprovada |
 |------|------|
 | Nenhum | — |
 
 ### Relações registradas no grafo de conhecimento (sem aprovação encontrada)
+
 | Indicação |
 |------|
 | glaucoma 1, de ângulo aberto (glaucoma 1, open angle) |
