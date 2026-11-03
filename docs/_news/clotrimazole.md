@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre Clotrimazole"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Clotrimazole. 3 indicações previstas."
+description: "Notícias de saúde relacionadas com Clotrimazole. 2 indicações previstas."
 permalink: /news/clotrimazole/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-03
 ---
 
 # Notícias sobre Clotrimazole
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Clotrimazole?">
-<strong>Clotrimazole</strong> tem atualmente <strong>2 notícias</strong> e 3 indicações previstas.
+<strong>Clotrimazole</strong> tem atualmente <strong>2 notícias</strong> e 2 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -26,10 +26,9 @@ Esta página combina as indicações previstas por IA para Clotrimazole com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L1</li>
-<li><strong>Indicações previstas (3)</strong>:<ul>
+<li><strong>Indicações previstas (2)</strong>:<ul>
 <li>acne (acne (disease))</li>
-<li>Vulvovaginite (vulvovaginitis)</li>
-<li>vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis)</li>
+<li>Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>

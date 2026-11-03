@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre Nystatin"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com Nystatin. 10 indicações previstas."
+description: "Notícias de saúde relacionadas com Nystatin. 9 indicações previstas."
 permalink: /news/nystatin/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-03
 ---
 
 # Notícias sobre Nystatin
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Nystatin?">
-<strong>Nystatin</strong> tem atualmente <strong>2 notícias</strong> e 10 indicações previstas.
+<strong>Nystatin</strong> tem atualmente <strong>2 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -26,15 +26,14 @@ Esta página combina as indicações previstas por IA para Nystatin com as notí
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
-<li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Vulvovaginite (vulvovaginitis)</li>
-<li>disease of orbital region</li>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>Doença da região orbital (disease of orbital region)</li>
 <li>disease of orbital part of eye adnexa</li>
 <li>cystic teratoma</li>
 <li>spinal cord dermoid cyst</li>
-<li>vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis)</li>
+<li>Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis)</li>
 <li>doença metabólica da biotina (biotin metabolic disease)</li>
-<li>vulvitis</li>
+<li>Vulvite (vulvitis)</li>
 <li>commissural lip fistula</li>
 <li>osteoradionecrosis of the mandible</li>
 </ul></li>

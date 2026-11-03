@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Trastuzumab. 6 indicações previstas."
 permalink: /news/trastuzumab/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Notícias sobre Trastuzumab
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Trastuzumab?">
-<strong>Trastuzumab</strong> tem atualmente <strong>13 notícias</strong> e 6 indicações previstas.
+<strong>Trastuzumab</strong> tem atualmente <strong>15 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ Esta página combina as indicações previstas por IA para Trastuzumab com as no
 <p><a href="{{ '/drugs/trastuzumab/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (13)
+## Notícias relacionadas (15)
+
+### [Novembro Azul: casos de câncer de próstata triplicam em homens com menos de 50 anos nas últimas duas décadas - O GLOBO](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXRwZVJnUWlBakhtM2l2Y3VFcWg5ckpUVm9veUpGNWxZaURwaDEyaEp4UnQ3cl8xQXNkTkhVZ1M0eTRzWTBRYTFxZnhPNGhBRFcxeUlDUWNabU55YVhFb0xzb1dDSVVwWGVQbHQ3a2xrdjlVaS1UdFJkWXZILVpnVzRBVTRfbTJwdEl4TGs1ZGxBd1FrNlBrVVE4M2c5OEo5THJhTS1KWWdsWG53eWFxNE1vOG04OUFhVUtlQU4tU254ZWRSb2FYdGFMaE95U1hzUmN6NUxDaVBQZkpnNUpESDRBUVhCSkNtYW9Qdnc4dnFjLVRqWnfSAYQCQVVfeXFMTU80Z1paM25fUlY1MWpoTmdlVGRvZ29nMTFkcjJpSE8zN3o5Y2NsUVRlNVQwa21ZSDdxM3BrQURSZ0w0ZTFmTTlxcVE1MlpIT3Z6VDNWVWxUYzhwSUpmeXFQLVBQZUJKeGt4Nl9pTE9YTk4ycjZDbFJ0eXJFTk5tRDZjeGxTUnNWYlIzWXZldERYMVZFVmd1U2F4LUVLTGlHOW0wQnlLcDVvak5uaWlRR1NRc01IOXl3bG0yYmNGVDdkQ2djYmtVdUJNalVCVm1ySzlfWTFQbERjTHphLXp6LTlndzd0V1FEOHJCYWN3akt2UnJGM3pybTBPQlF3TUdPQ0pITlI?oc=5)
+
+2026-11-03 <span class="news-indication-tag">câncer</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXRwZVJnUWlBakhtM2l2Y3VFcWg5ckpUVm9veUpGNWxZaURwaDEyaEp4UnQ3cl8xQXNkTkhVZ1M0eTRzWTBRYTFxZnhPNGhBRFcxeUlDUWNabU55YVhFb0xzb1dDSVVwWGVQbHQ3a2xrdjlVaS1UdFJkWXZILVpnVzRBVTRfbTJwdEl4TGs1ZGxBd1FrNlBrVVE4M2c5OEo5THJhTS1KWWdsWG53eWFxNE1vOG04OUFhVUtlQU4tU254ZWRSb2FYdGFMaE95U1hzUmN6NUxDaVBQZkpnNUpESDRBUVhCSkNtYW9Qdnc4dnFjLVRqWnfSAYQCQVVfeXFMTU80Z1paM25fUlY1MWpoTmdlVGRvZ29nMTFkcjJpSE8zN3o5Y2NsUVRlNVQwa21ZSDdxM3BrQURSZ0w0ZTFmTTlxcVE1MlpIT3Z6VDNWVWxUYzhwSUpmeXFQLVBQZUJKeGt4Nl9pTE9YTk4ycjZDbFJ0eXJFTk5tRDZjeGxTUnNWYlIzWXZldERYMVZFVmd1U2F4LUVLTGlHOW0wQnlLcDVvak5uaWlRR1NRc01IOXl3bG0yYmNGVDdkQ2djYmtVdUJNalVCVm1ySzlfWTFQbERjTHphLXp6LTlndzd0V1FEOHJCYWN3akt2UnJGM3pybTBPQlF3TUdPQ0pITlI?oc=5)
+
+---
+
+### [Mortes por câncer do colo do útero podem aumentar quase 40% no mundo até 2050, aponta estudo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWUFaSnZ1Q3lZcXUyQjl6NE4zcndhU016ZTVhUTVTOXF2S2ZXSXJEdkFZdjNpaHVoOFk1ZWQ1RjBXaXg1NzJvdDJhQTJ1MFNaR3RNUDhPM2Y0cGtCb00yRThGcVNOOExFMWNxaGhhUGY2Y2luWWVZN3lEdWhmUzAxN1dJZDVpbWUycUV3OVQyOVdIcUZCSVlpNjQ1aU93TnBKNUtnaUJlSGMtdVVGbWttM2ZmRUZWRkN2U01mTk5zdDMxdzBpVmdKc2hHZldyTENTVkhjYWZYTmRVdEdRUDdWSDFiY9IB8gFBVV95cUxPSVB2TUtIR1Nza0lxSU1DV1dwdTU1eE1wMWJzSmNKQnY2Y0Rlbl92Ry15dHZOc0F2NkJuSWxoUFp1MzBIVlp1d3hzajllMnNwMGxORllsZHhlcUQ3YnljdUtzSTJZbVBWU3otXzFneE8tVlNuQzBsdGoxbUZoaVN2VktZU2VlQVRINXRMV2N2c2o5RGVlTE1IaENfSGtzUGRiek9vbTNhYXIxQnZYOElielFpQTZDWmhaQ1BUd2ZJbDZMLWUzWW9xa19jb0hCdnhTd0hteG5xcWtEUld0R0g1Y29MOGtRd0lreE5hd0VGOEdxZw?oc=5)
+
+2026-11-02 <span class="news-indication-tag">câncer</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWUFaSnZ1Q3lZcXUyQjl6NE4zcndhU016ZTVhUTVTOXF2S2ZXSXJEdkFZdjNpaHVoOFk1ZWQ1RjBXaXg1NzJvdDJhQTJ1MFNaR3RNUDhPM2Y0cGtCb00yRThGcVNOOExFMWNxaGhhUGY2Y2luWWVZN3lEdWhmUzAxN1dJZDVpbWUycUV3OVQyOVdIcUZCSVlpNjQ1aU93TnBKNUtnaUJlSGMtdVVGbWttM2ZmRUZWRkN2U01mTk5zdDMxdzBpVmdKc2hHZldyTENTVkhjYWZYTmRVdEdRUDdWSDFiY9IB8gFBVV95cUxPSVB2TUtIR1Nza0lxSU1DV1dwdTU1eE1wMWJzSmNKQnY2Y0Rlbl92Ry15dHZOc0F2NkJuSWxoUFp1MzBIVlp1d3hzajllMnNwMGxORllsZHhlcUQ3YnljdUtzSTJZbVBWU3otXzFneE8tVlNuQzBsdGoxbUZoaVN2VktZU2VlQVRINXRMV2N2c2o5RGVlTE1IaENfSGtzUGRiek9vbTNhYXIxQnZYOElielFpQTZDWmhaQ1BUd2ZJbDZMLWUzWW9xa19jb0hCdnhTd0hteG5xcWtEUld0R0g1Y29MOGtRd0lreE5hd0VGOEdxZw?oc=5)
+
+---
 
 ### [Alterações genéticas hereditárias são menos frequentes em brasileiros com câncer de próstata, indica estudo - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLWVlSjFYYVZhTmc0NXI5ZExsblRZblJtNEh5N1JLWk45ZnprcmVEYV92cUJROHYxNUVkSnhjU0F2b1ZtZ3VhaW11Zkd1ak9JaFpKbzNqTlFWN0tLVzBzbkd4bnpwd29ZcGtxWVNoSlY4NGxSMVBaQVdXRlc2NVJJSlVuVTROWWVSV0hmRktGQVl2X1hPWlRVUlpoX1RPbTFUY0RTOVlpbHlicFluR004eXJRVlN6Q0c5ek5Xd0lLdF8wMF9FSS1vaE03RWZxX0JTdy1ZeEpMMHA0NkkybFQ3Ti0xVkktbjdfU2dPSWhyNDUxWktqUzl6aWpjMA?oc=5)
 
