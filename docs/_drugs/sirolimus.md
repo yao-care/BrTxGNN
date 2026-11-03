@@ -4,17 +4,17 @@ title: Sirolimus
 parent: Evidência Moderada (L3-L4)
 nav_order: 587
 evidence_level: L3
-indication_count: 7
-last_modified_at: 2026-10-31
-description: "Sirolimus: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L3). Indicação original: Agente imunossupressor"
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "Sirolimus"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
+description: "Sirolimus: nova indicação prevista, Lipossarcoma (liposarcoma) (nível de evidência L3). Indicação original: Não consta nos dados locais"
 ---
 
 # Sirolimus
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **7** 
+Nível de evidência: **L3** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **7**
 
 </div>
 
-## Sirolimo: De agente imunossupressor para lipossarcoma
+## Sirolimus: Lipossarcoma (liposarcoma)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,9 +48,9 @@ Hoje essa direção conta com **1 ensaio clínico** e **7 publicações**, mas s
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Agente imunossupressor |
-| Nova Indicação Prevista | Lipossarcoma (Liposarcoma) |
-| Pontuação de Previsão TxGNN | 0,9989 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Lipossarcoma (liposarcoma) |
+| Pontuação de Previsão TxGNN | 0.9989 |
 | Nível de Evidência | L3 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 4) |
 | Número de Registros | 4 (ativos: 1) |
@@ -124,7 +124,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Verificar os resultados publicados do NCT02821507 e a contribuição isolada do sirolimo na combinação.
 - Buscar evidência randomizada ou comparativa específica para lipossarcoma.
 - Avaliar o plano de monitoramento de interações e a exigência de nível sérico (vale mínimo) do sirolimo.
-- Considerar a priorização de outras indicações previstas para o mesmo fármaco, com evidência mais forte. A mais robusta é a **linfangioleiomiomatose (lymphangiomyoma)**, com pontuação de 0,9979. Ela tem nível L1, incluindo o ensaio de Fase 3 MILES (NCT00414648, n=89), e é elegível a "Proceed with Guardrails".
+- Considerar a priorização de outras indicações previstas para o mesmo fármaco, com evidência mais forte. Ela tem nível L1, incluindo o ensaio de Fase 3 MILES (NCT00414648, n=89), e é elegível a "Proceed with Guardrails".
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

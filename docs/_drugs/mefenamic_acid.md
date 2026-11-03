@@ -4,17 +4,17 @@ title: Mefenamic Acid
 parent: Evidência Moderada (L3-L4)
 nav_order: 438
 evidence_level: L3
-indication_count: 7
-last_modified_at: 2026-10-28
-description: "Mefenamic Acid: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L3). Indicação original: Anti-inflamatórios antirreumáticos"
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "mefenamic acid"
-predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+description: "Mefenamic Acid: nova indicação prevista, Headache disorder (nível de evidência L3). Indicação original: ANTINFLAMATORIOS ANTIREUMATICOS"
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **7** 
+Nível de evidência: **L3** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **7**
 
 </div>
 
-## Ácido Mefenâmico: De anti-inflamatório/antirreumático para artrite reumatoide
+## Mefenamic Acid: Headache disorder
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,9 +45,9 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anti-inflamatórios antirreumáticos |
-| Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
-| Pontuação de Previsão TxGNN | 0,9973 |
+| Indicação Original | ANTINFLAMATORIOS ANTIREUMATICOS; ANTINFLAMATORIOS |
+| Nova Indicação Prevista | Headache disorder |
+| Pontuação de Previsão TxGNN | 0.9964 |
 | Nível de Evidência | L3 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 10 de 10) |
 | Número de Registros | 10 (ativos: 10) |
@@ -57,7 +57,7 @@ O modelo TxGNN prevê que pode ser eficaz para **Artrite Reumatoide (Rheumatoid 
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, o ácido mefenâmico é um inibidor de COX-1/COX-2 que reduz a síntese de prostaglandinas, o que é plausível para a dor e a inflamação articular.
 
-A artrite reumatoide já se enquadra na classificação original de anti-inflamatório/antirreumático dos registros brasileiros. A previsão, portanto, é mecanisticamente coerente, mas reflete sobretudo a associação de classe dos AINEs com a artrite, e não uma nova aplicação.
+A previsão, portanto, é mecanisticamente coerente, mas reflete sobretudo a associação de classe dos AINEs com a artrite, e não uma nova aplicação.
 
 Estudos antigos compararam o ácido mefenâmico com ibuprofeno, sulindaco, flurbiprofeno e indometacina. Os AINEs mais recentes e os DMARDs largamente o superaram na prática clínica, e o produto não está mais comercializado no Brasil.
 
@@ -107,7 +107,7 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 **Decisão: Hold**
 
 **Justificativa:**
-A artrite reumatoide já faz parte da classificação original do fármaco, de modo que a previsão não representa reposicionamento real. As evidências são antigas (1966–1979), de pequeno porte, sem ensaios registrados, e o produto não tem mais registro vigente no Brasil. Os AINEs e DMARDs modernos o substituíram.
+As evidências são antigas (1966–1979), de pequeno porte, sem ensaios registrados, e o produto não tem mais registro vigente no Brasil. Os AINEs e DMARDs modernos o substituíram.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), uma lacuna que bloqueia a triagem de segurança.

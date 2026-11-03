@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Phenylbutazone
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 523
-evidence_level: L3
-indication_count: 5
-last_modified_at: 2026-10-28
-description: "Phenylbutazone: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L3). Indicação original: Anti-inflamatórios antirreumáticos"
+evidence_level: L5
+indication_count: 3
+last_modified_at: 2026-11-03
 monitor_inn: "Phenylbutazone"
-predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "sclerosing cholangitis"]
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis"]
+description: "Phenylbutazone: nova indicação prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (nível de evidência L5). Indicação original: ANTINFLAMATORIOS ANTIREUMATICOS"
 ---
 
 # Phenylbutazone
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **5** 
+Nível de evidência: **L5** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **5**
 
 </div>
 
-## Fenilbutazona: Do uso anti-inflamatório antirreumático à artrite reumatoide
+## Phenylbutazone: Colobomatous microphthalmia-rhizomelic dysplasia syndrome
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,10 +48,10 @@ Trata-se de uma previsão que reflete um uso histórico do fármaco, e não de u
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anti-inflamatórios antirreumáticos |
-| Nova Indicação Prevista | Artrite Reumatoide (Rheumatoid Arthritis) |
-| Pontuação de Previsão TxGNN | 0,9982 |
-| Nível de Evidência | L3 |
+| Indicação Original | ANTINFLAMATORIOS ANTIREUMATICOS |
+| Nova Indicação Prevista | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
+| Pontuação de Previsão TxGNN | 0.9971 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 2) |
 | Número de Registros | 2 (ativos: 2) |
 | Decisão Recomendada | Hold |

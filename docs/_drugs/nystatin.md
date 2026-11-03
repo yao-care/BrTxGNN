@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nystatin
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 481
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Nystatin: nova indicação prevista, Vulvovaginite (vulvovaginitis) (nível de evidência L3). Indicação original: Antimicótico"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Nystatin"
-predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+description: "Nystatin: nova indicação prevista, Disease of orbital region (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Nystatin
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Nistatina: Do antimicótico à vulvovaginite
+## Nystatin: Disease of orbital region
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,10 +48,10 @@ Atualmente, há **0 ensaios clínicos** e **20 publicações** (todas revisões,
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antimicótico |
-| Nova Indicação Prevista | Vulvovaginite (vulvovaginitis) |
-| Pontuação de Previsão TxGNN | 0,9992 |
-| Nível de Evidência | L3 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Disease of orbital region |
+| Pontuação de Previsão TxGNN | 0.9990 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 67 de 235) |
 | Número de Registros | 235 (ativos: 67) |
 | Decisão Recomendada | Hold |
@@ -150,7 +150,7 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para vulvovaginite é mecanisticamente sólida, mas é uma extensão da indicação antifúngica já existente, com evidência limitada a revisões e estudos de baixo nível (L3), sem ensaio clínico registrado. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos, mas os dados de segurança da bula não estão disponíveis, o que impede avançar na triagem de segurança.
+- Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos, mas os dados de segurança da bula não estão disponíveis, o que impede avançar na triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

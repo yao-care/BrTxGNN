@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Albendazole
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 34
-evidence_level: L2
-indication_count: 3
-last_modified_at: 2026-10-31
-description: "Albendazole: nova indicação prevista, Equinococose alveolar (Alveolar Echinococcosis) (nível de evidência L2). Indicação original: Anti-helmínticos do trato gastrointestinal"
+evidence_level: L5
+indication_count: 1
+last_modified_at: 2026-11-03
 monitor_inn: "Albendazole"
-predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
+predicted_indications: ["coenurosis"]
+description: "Albendazole: nova indicação prevista, Coenurosis (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Albendazole
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **3** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L2** | Indicações previstas: **3**
 
 </div>
 
-## Albendazol: Do tratamento de helmintos intestinais à equinococose alveolar
+## Albendazole: Coenurosis
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,10 +46,10 @@ atualmente com **3 ensaios clínicos** e **20 publicações** apoiando esta dire
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Anti-helmínticos do trato gastrointestinal |
-| Nova Indicação Prevista | Equinococose alveolar (Alveolar Echinococcosis) |
-| Pontuação de Previsão TxGNN | 0,9997 |
-| Nível de Evidência | L2 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Coenurosis |
+| Pontuação de Previsão TxGNN | 0.9983 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 24 de 97) |
 | Número de Registros | 97 (ativos: 24) |
 | Decisão Recomendada | Proceed with Guardrails |
@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação na base compil
 
 A indicação original (parasitoses intestinais) e a equinococose alveolar têm a mesma natureza: ambas são helmintíases. A equinococose alveolar é causada pela forma larval do cestódeo *Echinococcus multilocularis*, que acomete principalmente o fígado e se comporta de forma semelhante a um tumor.
 
-Na prática, esta previsão está mais próxima de um uso já estabelecido da classe do que de um reposicionamento genuíno: o albendazol já é o tratamento quimioterápico de referência na equinococose alveolar, conforme consensos de especialistas. Sua ação é parasitostática, não parasiticida, e por isso muitas vezes é necessário tratamento prolongado ou até vitalício após ressecção incompleta.
+Sua ação é parasitostática, não parasiticida, e por isso muitas vezes é necessário tratamento prolongado ou até vitalício após ressecção incompleta.
 
 ## Evidências de Ensaios Clínicos
 

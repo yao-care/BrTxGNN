@@ -4,17 +4,17 @@ title: Amiodarone
 parent: Evidência Moderada (L3-L4)
 nav_order: 56
 evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-31
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Amiodarone"
-predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-description: "Amiodarone: nova indicação prevista, Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) (nível de evidência L4). Indicação original: ANTIARR…"
+predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+description: "Amiodarone: nova indicação prevista, Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) (nível de evidência L4)."
 ---
 
 # Amiodarone
 {: .fs-9 }
 
-Nível de evidência: **L4** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -45,7 +45,7 @@ O modelo TxGNN prevê que pode ser eficaz para **taquicardia ventricular polimó
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | ANTIARRITMICOS |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Taquicardia ventricular polimórfica catecolaminérgica (catecholaminergic polymorphic ventricular tachycardia) |
 | Pontuação de Previsão TxGNN | 0.9978 |
 | Nível de Evidência | L4 (apenas estudos de coorte, relatos de caso e revisões; sem estudos diretos do fármaco na doença) |

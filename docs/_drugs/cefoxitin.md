@@ -4,17 +4,17 @@ title: Cefoxitin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 209
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-31
+indication_count: 8
+last_modified_at: 2026-11-03
 description: "Cefoxitin: nova indicação prevista, Otite média infecciosa (infectious otitis media) (nível de evidência L5). Indicação original: Cefalosporinas"
 monitor_inn: "cefoxitin"
-predicted_indications: ["infectious otitis media", "urinary tract infection (disease)", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
+predicted_indications: ["infectious otitis media", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
 ---
 
 # Cefoxitin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **9** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -121,7 +121,6 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 - Avaliação da viabilidade regulatória e comercial, dado que não há registro vigente no Brasil.
 
 **Observações sobre outras indicações previstas** (como contexto, sem alterar a decisão acima):
-- **Infecção do trato urinário**: nível L3, com um ensaio de fase 4 (NCT02474706, cefoxitina vs. imipenem/cilastatina em ITU por *E. coli* produtora de ESBL) encerrado precocemente com apenas 6 participantes, sem dados de eficácia utilizáveis. Há estudos históricos (1978-1979) e um modelo murino favorável. Classificada como questão de pesquisa, e não como novo reposicionamento.
 - **Uretrite gonocócica**: nível L2, com diversos estudos clínicos históricos (1979-1983) mostrando cura com dose única. Trata-se de um uso já conhecido, hoje preterido em favor da ceftriaxona.
 - **Uretrite por Ureaplasma e toxocaríase**: sem respaldo mecanístico, pois o *Ureaplasma* não possui parede celular e a toxocaríase é uma parasitose; provavelmente artefatos do modelo.
 ## Aviso de isenção de responsabilidade

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lanadelumab
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 389
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Lanadelumab: nova indicação prevista, Deficiência de inibidor de C1 (C1 inhibitor deficiency) (nível de evidência L1). Indicação original: Outros produtos não enquadrados em classe terapêutica especí…"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "lanadelumab"
-predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
+predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
+description: "Lanadelumab: nova indicação prevista, Serpinopathy with toxic serpin polymerization (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Lanadelumab
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-## Lanadelumabe: Da indicação original não especificada à deficiência de inibidor de C1
+## Lanadelumab: Serpinopathy with toxic serpin polymerization
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,10 +45,10 @@ O modelo TxGNN prevê que pode ser eficaz para a **deficiência de inibidor de C
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Outros produtos não enquadrados em classe terapêutica específica (texto do registro na ANVISA) |
-| Nova Indicação Prevista | Deficiência de inibidor de C1 (C1 inhibitor deficiency) |
-| Pontuação de Previsão TxGNN | 1,0000 |
-| Nível de Evidência | L1 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Serpinopathy with toxic serpin polymerization |
+| Pontuação de Previsão TxGNN | 0.9999 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
 | Número de Registros | 3 (ativos: 1) |
 | Decisão Recomendada | Proceed with Guardrails |

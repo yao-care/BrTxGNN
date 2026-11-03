@@ -4,17 +4,17 @@ title: Iron
 parent: Apenas Predição do Modelo (L5)
 nav_order: 374
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 monitor_inn: "IRON"
-predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-10-29
+predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
+last_modified_at: 2026-11-03
 description: "Iron: nova indicação prevista, Anemia megaloblástica constitucional independente de vitamina B12 e folato (vitamin B12- and folate-independent constit… (nível de evidência L5). Indicação original: Nã…"
 ---
 
 # Iron
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **6** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---

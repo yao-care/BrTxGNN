@@ -4,17 +4,17 @@ title: Aripiprazole
 parent: Apenas Predição do Modelo (L5)
 nav_order: 76
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-31
-description: "Aripiprazole: nova indicação prevista, Transtorno afetivo maior (major affective disorder) (nível de evidência L1). Indicação original: Antipsicóticos"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "ARIPIPRAZOLE"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+description: "Aripiprazole: nova indicação prevista, Gaze palsy, familial horizontal, with progressive scoliosis (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **9** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-## Aripiprazol: Do uso como antipsicótico ao transtorno afetivo maior
+## Aripiprazole: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ atualmente com **37 ensaios clínicos** e **19 publicações** apoiando esta dir
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antipsicóticos |
-| Nova Indicação Prevista | Transtorno afetivo maior (major affective disorder) |
-| Pontuação de Previsão TxGNN | 0,9962 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Gaze palsy, familial horizontal, with progressive scoliosis |
+| Pontuação de Previsão TxGNN | 0.9960 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 31 de 40) |
 | Número de Registros | 40 (ativos: 31) |

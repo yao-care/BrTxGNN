@@ -4,17 +4,17 @@ title: Magnesium Sulfate
 parent: Apenas Predição do Modelo (L5)
 nav_order: 433
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "MAGNESIUM SULFATE"
-predicted_indications: ["toxemia of pregnancy", "thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
-last_modified_at: 2026-10-28
-description: "Magnesium Sulfate: nova indicação prevista, Toxemia of pregnancy (nível de evidência L5). Indicação original: ELETROLITOS SIMPLES"
+predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
+last_modified_at: 2026-11-03
+description: "Magnesium Sulfate: nova indicação prevista, Thrombotic disease (nível de evidência L5). Indicação original: ELETROLITOS SIMPLES"
 ---
 
 # Magnesium Sulfate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **9** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-## Magnesium Sulfate: Toxemia of pregnancy
+## Magnesium Sulfate: Thrombotic disease
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,8 +48,8 @@ O modelo TxGNN prevê que pode ser eficaz para **toxemia da gravidez (pré-eclâ
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | ELETROLITOS SIMPLES; POLIVITAMINICOS COM MINERAIS |
-| Nova Indicação Prevista | Toxemia of pregnancy |
-| Pontuação de Previsão TxGNN | 1.0000 |
+| Nova Indicação Prevista | Thrombotic disease |
+| Pontuação de Previsão TxGNN | 0.9990 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 4) |
 | Número de Registros | 4 (ativos: 4) |

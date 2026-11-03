@@ -4,17 +4,17 @@ title: Clomifene
 parent: Apenas Predição do Modelo (L5)
 nav_order: 233
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Clomifeno: nova indicação prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (nível de evidência L5). Indicação original: Outros produtos para uso em ginecologia e obstetrícia"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "clomifene"
-predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "anovulation"]
+predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12"]
+description: "Clomifene: nova indicação prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Clomifene
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,28 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Clomifeno: De produtos para uso em ginecologia e obstetrícia para 46,XY disorder of sex development due to testicular steroidogenesis defect
+## Clomifene: 46,XY disorder of sex development due to testicular steroidogenesis defect
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
 Clomifeno (clomifene) foi originalmente registrado na ANVISA na categoria "outros produtos para uso em ginecologia e obstetrícia", sendo usado na indução da ovulação.
 O modelo TxGNN prevê que pode ser eficaz para **46,XY distúrbio do desenvolvimento sexual por defeito de esteroidogênese testicular (46,XY disorder of sex development due to testicular steroidogenesis defect)**, a previsão de maior pontuação, mas **sem nenhum ensaio clínico ou publicação** que a apoie.
-A previsão com maior respaldo de evidências é **anovulação (anovulation)**, com **3 ensaios clínicos** e **20 publicações**. Porém, trata-se da confirmação de um uso já estabelecido, e não de um reposicionamento novo.
+Porém, trata-se da confirmação de um uso já estabelecido, e não de um reposicionamento novo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Outros produtos para uso em ginecologia e obstetrícia |
-| Nova Indicação Prevista | 46,XY distúrbio do desenvolvimento sexual por defeito de esteroidogênese testicular (46,XY disorder of sex development due to testicular steroidogenesis defect) |
-| Pontuação de Previsão TxGNN | 0,9990 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | 46,XY disorder of sex development due to testicular steroidogenesis defect |
+| Pontuação de Previsão TxGNN | 0.9990 |
 | Nível de Evidência | L5 (para a previsão de maior pontuação) |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 8) |
 | Número de Registros | 8 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
-> **Observação:** entre as 10 previsões avaliadas, a de maior pontuação (46,XY DSD) não tem evidências. Somente a 10ª, **anovulação** (pontuação de 0,9952), tem evidências reais (nível L1, decisão *Proceed with Guardrails*). Ela é analisada nas seções seguintes, pois é a única com dados clínicos.
+> **Observação:** entre as 10 previsões avaliadas, a de maior pontuação (46,XY DSD) não tem evidências. Ela é analisada nas seções seguintes, pois é a única com dados clínicos.
 
 ## Por que Esta Previsão é Razoável?
 
@@ -66,7 +66,6 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação na base consul
 
 ## Evidências de Ensaios Clínicos
 
-Para a indicação **anovulação** (única previsão com ensaios registrados):
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|

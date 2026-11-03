@@ -4,17 +4,17 @@ title: Fenticonazole
 parent: Apenas Predição do Modelo (L5)
 nav_order: 315
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-31
-description: "Fenticonazole: nova indicação prevista, Vulvovaginite tricomonásica (trichomonal vulvovaginitis) (nível de evidência L4). Indicação original: Antimicóticos para uso tópico"
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "fenticonazole"
-predicted_indications: ["trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "vulvovaginitis", "vulvitis", "herpetic vulvovaginitis", "vaginitis (disease)"]
+predicted_indications: ["trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "vulvitis", "herpetic vulvovaginitis"]
+description: "Fenticonazole: nova indicação prevista, Vulvovaginite tricomonásica (trichomonal vulvovaginitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Fenticonazole
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **6** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-## Fenticonazol: De antimicótico tópico a Vulvovaginite tricomonásica
+## Fenticonazole: Vulvovaginite tricomonásica (trichomonal vulvovaginitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ O maior volume de evidências (**20 publicações**) refere-se à **vulvovaginit
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antimicóticos para uso tópico |
+| Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | Vulvovaginite tricomonásica (trichomonal vulvovaginitis) |
-| Pontuação de Previsão TxGNN | 0,9950 |
+| Pontuação de Previsão TxGNN | 0.9950 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 18) |
 | Número de Registros | 18 (ativos: 6) |

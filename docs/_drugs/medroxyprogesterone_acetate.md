@@ -4,17 +4,17 @@ title: Medroxyprogesterone Acetate
 parent: Apenas Predição do Modelo (L5)
 nav_order: 437
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-28
-description: "Medroxyprogesterone Acetate: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L4). Indicação original: Progestágenos simples"
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "Medroxyprogesterone acetate"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Medroxyprogesterone Acetate: nova indicação prevista, Breast fibrocystic disease (nível de evidência L5). Indicação original: PROGESTAGENOS SIMPLES"
 ---
 
 # Medroxyprogesterone Acetate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **7** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-## Acetato de Medroxiprogesterona: Da contracepção à Amenorreia (Amenorrhea)
+## Medroxyprogesterone Acetate: Breast fibrocystic disease
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ atualmente sem ensaios clínicos registrados, mas com **20 publicações** recup
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Progestágenos simples |
-| Nova Indicação Prevista | Amenorreia (amenorrhea) |
-| Pontuação de Previsão TxGNN | 1,0000 |
+| Indicação Original | PROGESTAGENOS SIMPLES; ANTICONCEPCIONAIS |
+| Nova Indicação Prevista | Breast fibrocystic disease |
+| Pontuação de Previsão TxGNN | 0.9995 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
 | Número de Registros | 8 (ativos: 8) |
@@ -58,7 +58,7 @@ atualmente sem ensaios clínicos registrados, mas com **20 publicações** recup
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o MPA é um progestágeno sintético. Na amenorreia secundária com estrogênio endógeno adequado, o desafio com progestágeno induz sangramento por privação ao transformar o endométrio preparado pelo estrogênio. Trata-se de um uso clínico consolidado, e a justificativa biológica é forte.
 
-Porém, a literatura recuperada trata principalmente do uso contraceptivo (incluindo a amenorreia como efeito colateral do Depo-Provera), e não do tratamento da amenorreia. A evidência é, portanto, indireta, e a pontuação elevada do TxGNN é parcialmente explicada pelo conhecido efeito do fármaco de causar amenorreia.
+Porém, a literatura recuperada trata principalmente do uso contraceptivo (incluindo a amenorreia como efeito colateral do Depo-Provera), e não do tratamento da amenorreia.
 
 Outras previsões do modelo incluem doença fibrocística da mama (L3, com dois relatos clínicos antigos e pequenos sobre o MPA), displasia mamária benigna, endometriose em diferentes localizações e hipoplasia renal. Esta última não tem vínculo mecanístico plausível e parece ser um artefato do modelo. Este relatório foca na previsão de maior pontuação.
 
@@ -104,7 +104,7 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem forte plausibilidade biológica, mas a evidência é indireta (L4), sem ensaios clínicos, e o fármaco não possui registro vigente no Brasil. Além disso, o uso do MPA para induzir sangramento de privação em amenorreia secundária já é prática clínica estabelecida, o que limita o caráter de "reposicionamento" da previsão.
+- A previsão tem forte plausibilidade biológica, mas a evidência é indireta (L4), sem ensaios clínicos, e o fármaco não possui registro vigente no Brasil.
 
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA (advertências e contraindicações), atualmente ausente

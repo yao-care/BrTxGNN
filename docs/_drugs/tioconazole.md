@@ -4,17 +4,17 @@ title: Tioconazole
 parent: Apenas Predição do Modelo (L5)
 nav_order: 640
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-31
-description: "Tioconazole: nova indicação prevista, Vulvovaginite (Vulvovaginitis) (nível de evidência L1). Indicação original: Antimicóticos para uso tópico"
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "tioconazole"
-predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis"]
+predicted_indications: ["vulvitis", "postmenopausal atrophic vaginitis"]
+description: "Tioconazole: nova indicação prevista, Vulvitis (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Tioconazole
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **3** 
+Nível de evidência: **L5** | Indicações previstas: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-## Tioconazol: Do uso antifúngico tópico à vulvovaginite
+## Tioconazole: Vulvitis
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ Trata-se, na prática, de um uso já estabelecido (candidíase vaginal), e não 
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antimicóticos para uso tópico |
-| Nova Indicação Prevista | Vulvovaginite (Vulvovaginitis) |
-| Pontuação de Previsão TxGNN | 0,9923 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Vulvitis |
+| Pontuação de Previsão TxGNN | 0.9920 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 18 de 62) |
 | Número de Registros | 62 (ativos: 18) |

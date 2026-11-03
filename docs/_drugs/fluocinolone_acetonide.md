@@ -4,17 +4,17 @@ title: Fluocinolone Acetonide
 parent: Apenas Predição do Modelo (L5)
 nav_order: 322
 evidence_level: L5
-indication_count: 4
-last_modified_at: 2026-10-28
+indication_count: 1
+last_modified_at: 2026-11-03
 monitor_inn: "fluocinolone acetonide"
-predicted_indications: ["annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides"]
-description: "Fluocinolone Acetonide: nova indicação prevista, Líquen plano atrófico anular (annular atrophic lichen planus) (nível de evidência L5). Indicação original: DESMELANIZANTES"
+predicted_indications: ["lichen planus pemphigoides"]
+description: "Fluocinolone Acetonide: nova indicação prevista, Lichen planus pemphigoides (nível de evidência L5). Indicação original: DESMELANIZANTES"
 ---
 
 # Fluocinolone Acetonide
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **4** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-## Fluocinolone Acetonide: Líquen plano atrófico anular (annular atrophic lichen planus)
+## Fluocinolone Acetonide: Lichen planus pemphigoides
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,8 +47,8 @@ Atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compilado
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | DESMELANIZANTES; GLICOCORTICOIDES TOPICOS - ASSOCIACAO MEDICAMENTOSA; MEDICAMENTOS COM ACAO NO APARELHO AUDITIVO |
-| Nova Indicação Prevista | Líquen plano atrófico anular (annular atrophic lichen planus) |
-| Pontuação de Previsão TxGNN | 0.9942 |
+| Nova Indicação Prevista | Lichen planus pemphigoides |
+| Pontuação de Previsão TxGNN | 0.9934 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
 | Número de Registros | 9 (ativos: 9) |
@@ -96,7 +96,7 @@ Consulte a bula para advertências e contraindicações oficiais, que não estav
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta (0,9942), mas está no nível L5: não há ensaios clínicos nem literatura. O medicamento está comercializado, com 9 registros válidos de 9.
+- O medicamento está comercializado, com 9 registros válidos de 9.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), pois a triagem de segurança não pôde ser concluída.

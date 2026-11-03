@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Chloramphenicol
-parent: Evidência Moderada (L3-L4)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 219
-evidence_level: L3
-indication_count: 9
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-11-03
-description: "Chloramphenicol: nova indicação prevista, Conjuntivite (Conjunctivitis) (nível de evidência L3). Indicação original: Cicatrizantes"
 monitor_inn: "chloramphenicol"
-predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
+predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
+description: "Chloramphenicol: nova indicação prevista, Diffuse scleroderma (nível de evidência L5). Indicação original: CLORANFENICOL E ANALOGOS"
 ---
 
 # Chloramphenicol
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **9** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **9**
 
 </div>
 
-## Cloranfenicol: De cicatrizante e anti-infeccioso para conjuntivite
+## Chloramphenicol: Diffuse scleroderma
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -48,10 +48,10 @@ Trata-se, na prática, mais da confirmação de um uso antibacteriano já estabe
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Cicatrizantes (classificação "Cloranfenicol e análogos" e "Outros medicamentos com ação no aparelho visual" também constam nos registros) |
-| Nova Indicação Prevista | Conjuntivite (Conjunctivitis) |
-| Pontuação de Previsão TxGNN | 0,9966 |
-| Nível de Evidência | L3 |
+| Indicação Original | CLORANFENICOL E ANALOGOS; CICATRIZANTES; OUTROS MEDICAMENTOS COM ACAO NO APARELHO VISUAL |
+| Nova Indicação Prevista | Diffuse scleroderma |
+| Pontuação de Previsão TxGNN | 0.9965 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
 | Número de Registros | 8 (ativos: 7) |
 | Decisão Recomendada | Proceed with Guardrails |
@@ -83,13 +83,11 @@ Foram identificadas 19 publicações. Abaixo, as mais relevantes (priorizando es
 | [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Intervenções para prevenir a oftalmia neonatal (conjuntivite neonatal) com antissépticos ou antibióticos |
 | [38511104](https://pubmed.ncbi.nlm.nih.gov/38511104/) | 2024 | Estudo comparativo | Curr Ther Res | Comparação entre moxifloxacino e cloranfenicol em infecções oculares bacterianas |
 | [11270936](https://pubmed.ncbi.nlm.nih.gov/11270936/) | 2001 | Revisão comparativa | Drugs | Revisão de 16 preparações antibacterianas oftálmicas tópicas |
-| [3554881](https://pubmed.ncbi.nlm.nih.gov/3554881/) | 1987 | Ensaio randomizado (cego simples) | Acta Ophthalmol | Ácido fusídico 1% (sucesso clínico 84%) vs. cloranfenicol 0,5% (81%) em conjuntivite aguda purulenta; mais efeitos locais leves com cloranfenicol (14% vs. 5%) |
 | [3300139](https://pubmed.ncbi.nlm.nih.gov/3300139/) | 1987 | Ensaio aberto randomizado | Acta Ophthalmol | Na Tanzânia, ácido fusídico (93%) foi superior ao cloranfenicol (48%) e à framicetina (74%), com maior resistência in vitro ao cloranfenicol |
 | [8800624](https://pubmed.ncbi.nlm.nih.gov/8800624/) | 1996 | Revisão/comentário de segurança | Drug Saf | Discute a controvertida ligação entre cloranfenicol ocular tópico e anemia aplásica |
 | [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | Revisão/comentário | Eye (Lond) | Debate sobre o uso ou abuso do cloranfenicol tópico |
 | [25833086](https://pubmed.ncbi.nlm.nih.gov/25833086/) | 2015 | Comentário | Clin Exp Ophthalmol | Comentário sobre o cloranfenicol vendido sem prescrição |
 | [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | Revisão | Clin Pharmacokinet | Tratamento de infecções oculares com antibacterianos tópicos |
-| [7153511](https://pubmed.ncbi.nlm.nih.gov/7153511/) | 1982 | Estudo clínico/laboratorial | J Hyg | Em conjuntivite neonatal por clamídia, o cloranfenicol atrasou e atenuou os sinais, mas 85% dos tratados continuaram com cultura positiva |
 
 ---
 

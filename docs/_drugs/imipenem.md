@@ -4,17 +4,17 @@ title: Imipenem
 parent: Apenas Predição do Modelo (L5)
 nav_order: 364
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Imipenem: nova indicação prevista, Esclerodermia difusa (Diffuse Scleroderma) (nível de evidência L5). Indicação original: Antibacteriano / antibióticos sistêmicos (associações medicamentosas)"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "imipenem"
-predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
+description: "Imipenem: nova indicação prevista, Esclerodermia difusa (diffuse scleroderma) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Imipenem
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-## Imipenem: De antibacteriano sistêmico a Diffuse Scleroderma (esclerodermia difusa)
+## Imipenem: Esclerodermia difusa (diffuse scleroderma)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ Entre as demais previsões, as mais bem sustentadas são **infecção por Staphy
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antibacteriano / antibióticos sistêmicos (associações medicamentosas) |
-| Nova Indicação Prevista | Esclerodermia difusa (Diffuse Scleroderma) |
-| Pontuação de Previsão TxGNN | 0,9999 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Esclerodermia difusa (diffuse scleroderma) |
+| Pontuação de Previsão TxGNN | 0.9999 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 21) |
 | Número de Registros | 21 (ativos: 9) |

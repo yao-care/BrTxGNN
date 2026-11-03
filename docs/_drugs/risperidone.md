@@ -4,17 +4,17 @@ title: Risperidone
 parent: Apenas Predição do Modelo (L5)
 nav_order: 569
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-31
+indication_count: 4
+last_modified_at: 2026-11-03
 description: "Risperidone: nova indicação prevista, Paralisia do olhar horizontal familiar com escoliose progressiva (gaz… (nível de evidência L5). Indicação original: Neurolépticos (antipsicótico)"
 monitor_inn: "RISPERIDONE"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **5** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -134,7 +134,6 @@ Não há advertências nem contraindicações de bula nas fontes compiladas. Con
 - Bula e informações de segurança atualizadas, e confirmação de disponibilidade regulatória, já que não há registro vigente no Brasil.
 
 **Observação sobre outras previsões do modelo:** para o mesmo fármaco, o TxGNN apontou indicações com evidência bem mais robusta.
-- O **transtorno afetivo maior (depressão resistente ao tratamento e transtorno bipolar)** tem nível L1, com dois ensaios de Fase 3 concluídos e metanálises de apoio.
   - Os ensaios são NCT00095134 (630 participantes) e NCT00044681 (258 participantes), ambos sobre risperidona como adjuvante a antidepressivos.
   - Esse caminho é recomendado como Proceed with Guardrails, com monitoramento de efeitos metabólicos, prolactina, sintomas extrapiramidais e ganho de peso.
 - A **tricotilomania** tem nível L4, com apenas relatos e séries de casos.

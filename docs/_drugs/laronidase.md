@@ -4,17 +4,17 @@ title: Laronidase
 parent: Apenas Predição do Modelo (L5)
 nav_order: 391
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 monitor_inn: "Laronidase"
-predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome"]
-last_modified_at: 2026-10-28
-description: "Laronidase: nova indicação prevista, doença de depósito lisossômico com envolvimento esquelético (lysosomal storage disease with skeletal involvement) (nível de evidência L5). Indicação original: Não…"
+predicted_indications: ["Sanfilippo syndrome"]
+last_modified_at: 2026-11-03
+description: "Laronidase: nova indicação prevista, Sanfilippo syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Laronidase
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **2** 
+Nível de evidência: **L5** | Indicações previstas: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-## Laronidase: enzima de reposição (alfa-L-iduronidase recombinante) → doença de depósito lisossômico com envolvimento esquelético (lysosomal storage disease with skeletal involvement)
+## Laronidase: Sanfilippo syndrome
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -47,8 +47,8 @@ mas atualmente há **0 ensaios clínicos** e **4 publicações** (revisões, um 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Nova Indicação Prevista | doença de depósito lisossômico com envolvimento esquelético (lysosomal storage disease with skeletal involvement) |
-| Pontuação de Previsão TxGNN | 0,9931 |
+| Nova Indicação Prevista | Sanfilippo syndrome |
+| Pontuação de Previsão TxGNN | 0.9922 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 2) |
 | Número de Registros | 2 (ativos: 1) |

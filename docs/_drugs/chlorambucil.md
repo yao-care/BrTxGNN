@@ -4,17 +4,17 @@ title: Chlorambucil
 parent: Apenas Predição do Modelo (L5)
 nav_order: 218
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 monitor_inn: "chlorambucil"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-10-31
-description: "Chlorambucil: nova indicação prevista, Leucemia linfocítica crônica/linfoma linfocítico de pequenas células pré-centro germinativo (pregerminal center chronic… (nível de evidência L5). Indicação orig…"
+predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+last_modified_at: 2026-11-03
+description: "Chlorambucil: nova indicação prevista, ALK-positive large B-cell lymphoma (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **7** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L5** | Indicações previstas: **7**
 
 </div>
 
-## Clorambucila: agente alquilante → leucemia linfocítica crônica/linfoma linfocítico de pequenas células pré-centro germinativo (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)
+## Chlorambucil: ALK-positive large B-cell lymphoma
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,9 +46,9 @@ atualmente com **nenhum ensaio clínico** e **1 publicação** (uma revisão de 
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | OUTROS ANTINEOPLASICOS |
-| Nova Indicação Prevista | Leucemia linfocítica crônica/linfoma linfocítico de pequenas células pré-centro germinativo (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) |
-| Pontuação de Previsão TxGNN | 0,9972 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | ALK-positive large B-cell lymphoma |
+| Pontuação de Previsão TxGNN | 0.9961 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
 | Número de Registros | 3 (ativos: 1) |

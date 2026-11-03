@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexamethasone
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 259
-evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Dexamethasone: nova indicação prevista, Alopecia Areata (alopecia areata) (nível de evidência L2). Indicação original: Glicocorticoides sistêmicos"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Dexamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+description: "Dexamethasone: nova indicação prevista, Alopecia mucinosa (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **10** 
+Nível de evidência: **L5** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-## Dexametasona: De glicocorticoide sistêmico e oftálmico à alopecia areata
+## Dexamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,10 +46,10 @@ atualmente com **nenhum ensaio clínico registrado** e **20 publicações** recu
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Glicocorticoides sistêmicos |
-| Nova Indicação Prevista | Alopecia Areata (alopecia areata) |
-| Pontuação de Previsão TxGNN | 0,9999 |
-| Nível de Evidência | L2 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Alopecia mucinosa |
+| Pontuação de Previsão TxGNN | 0.9999 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 85 de 263) |
 | Número de Registros | 263 (ativos: 85) |
 | Decisão Recomendada | Proceed with Guardrails |

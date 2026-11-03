@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Icatibant
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 359
-evidence_level: L1
-indication_count: 7
-last_modified_at: 2026-10-31
-description: "Icatibant: nova indicação prevista, Deficiência do inibidor de C1 (C1 inhibitor deficiency) (nível de evidência L1). Indicação original: Outros produtos não enquadrados em classe terapêutica específi…"
+evidence_level: L5
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "icatibant"
-predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
+predicted_indications: ["serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
+description: "Icatibant: nova indicação prevista, Serpinopathy with toxic serpin polymerization (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Icatibant
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **7** 
+Nível de evidência: **L5** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Nível de evidência: **L1** | Indicações previstas: **7**
 
 </div>
 
-## Icatibanto: Do uso sem classe terapêutica específica à deficiência do inibidor de C1
+## Icatibant: Serpinopathy with toxic serpin polymerization
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -45,10 +45,10 @@ O modelo TxGNN prevê que pode ser eficaz para **deficiência do inibidor de C1 
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Outros produtos não enquadrados em classe terapêutica específica |
-| Nova Indicação Prevista | Deficiência do inibidor de C1 (C1 inhibitor deficiency) |
-| Pontuação de Previsão TxGNN | 0,9999 |
-| Nível de Evidência | L1 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Serpinopathy with toxic serpin polymerization |
+| Pontuação de Previsão TxGNN | 0.9999 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 5) |
 | Número de Registros | 5 (ativos: 3) |
 | Decisão Recomendada | Proceed with Guardrails |

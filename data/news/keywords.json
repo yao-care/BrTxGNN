@@ -1,7 +1,7 @@
 {
   "generated": "2026-04-12",
   "drug_count": 993,
-  "indication_count": 1088,
+  "indication_count": 1083,
   "drugs": [
     {
       "slug": "levetiracetam",
@@ -14012,7 +14012,6 @@
         "gadoteridol",
         "tenoxicam",
         "metamizole",
-        "phenylbutazone",
         "apixaban",
         "centella_asiatica",
         "nimesulide",
@@ -14260,7 +14259,6 @@
       "related_drugs": [
         "potassium_sulfate",
         "metamizole",
-        "phenylbutazone",
         "nimesulide",
         "nomegestrol_acetate",
         "amiodarone",
@@ -16263,7 +16261,6 @@
         "pt": []
       },
       "related_drugs": [
-        "ceftriaxone",
         "cefazolin",
         "sorbitol"
       ]
@@ -16302,7 +16299,6 @@
         "pt": []
       },
       "related_drugs": [
-        "ceftriaxone",
         "cephalexin",
         "cefazolin"
       ]
@@ -17119,11 +17115,8 @@
         "cyproterone_acetate",
         "desogestrel",
         "elafibranor",
-        "medroxyprogesterone_acetate",
         "etonogestrel",
-        "norethisterone",
-        "misoprostol",
-        "progesterone"
+        "misoprostol"
       ]
     },
     {
@@ -17283,7 +17276,6 @@
         "plerixafor",
         "prilocaine",
         "ropivacaine",
-        "salbutamol",
         "cefazolin",
         "basiliximab",
         "cyclosporine",
@@ -17582,7 +17574,6 @@
         "pt": []
       },
       "related_drugs": [
-        "flurbiprofen",
         "tisagenlecleucel"
       ]
     },
@@ -17888,8 +17879,7 @@
         "prilocaine",
         "droperidol",
         "methadone",
-        "clozapine",
-        "haloperidol"
+        "clozapine"
       ]
     },
     {
@@ -18260,7 +18250,6 @@
       "related_drugs": [
         "tinidazole",
         "sodium_chloride",
-        "danazol",
         "medroxyprogesterone_acetate",
         "etonogestrel",
         "letrozole",
@@ -18562,7 +18551,6 @@
       },
       "related_drugs": [
         "flunitrazepam",
-        "alprazolam",
         "centella_asiatica",
         "olanzapine"
       ]
@@ -18684,7 +18672,6 @@
       "related_drugs": [
         "pyridoxine",
         "biotin",
-        "ascorbic_acid",
         "d-glucose",
         "iron"
       ]
@@ -19880,8 +19867,6 @@
         "sodium_chloride",
         "calcipotriol",
         "danazol",
-        "nystatin",
-        "clotrimazole",
         "ivermectin",
         "ambroxol"
       ]
@@ -19985,7 +19970,6 @@
         "pt": []
       },
       "related_drugs": [
-        "laronidase",
         "imiglucerase"
       ]
     },
@@ -20511,8 +20495,6 @@
         "nitazoxanide",
         "clarithromycin",
         "amoxicillin",
-        "ciprofloxacin",
-        "levofloxacin",
         "norfloxacin"
       ]
     },
@@ -21238,7 +21220,6 @@
         "pt": []
       },
       "related_drugs": [
-        "secnidazole",
         "clotrimazole"
       ]
     },
@@ -21776,9 +21757,7 @@
         "pt": []
       },
       "related_drugs": [
-        "risperidone",
-        "clozapine",
-        "aripiprazole"
+        "clozapine"
       ]
     },
     {
@@ -22338,9 +22317,7 @@
       },
       "related_drugs": [
         "prednisolone",
-        "dexamethasone",
         "hydrocortisone_acetate",
-        "betamethasone",
         "hydrocortisone",
         "prednisone"
       ]
@@ -22557,8 +22534,7 @@
         "pt": []
       },
       "related_drugs": [
-        "sodium_carbonate",
-        "amiodarone"
+        "sodium_carbonate"
       ]
     },
     {
@@ -22829,18 +22805,6 @@
       ]
     },
     {
-      "name": "toxemia of pregnancy",
-      "keywords": {
-        "en": [
-          "toxemia of pregnancy"
-        ],
-        "pt": []
-      },
-      "related_drugs": [
-        "magnesium_sulfate"
-      ]
-    },
-    {
       "name": "psychotic disorder",
       "keywords": {
         "en": [
@@ -22849,8 +22813,7 @@
         "pt": []
       },
       "related_drugs": [
-        "magnesium_sulfate",
-        "clozapine"
+        "magnesium_sulfate"
       ]
     },
     {
@@ -23980,7 +23943,6 @@
         "pt": []
       },
       "related_drugs": [
-        "alprostadil",
         "sodium_lauryl_sulfate"
       ]
     },
@@ -25015,20 +24977,7 @@
         "pt": []
       },
       "related_drugs": [
-        "albendazole",
         "mebendazole"
-      ]
-    },
-    {
-      "name": "Cestode infectious disease",
-      "keywords": {
-        "en": [
-          "Cestode infectious disease"
-        ],
-        "pt": []
-      },
-      "related_drugs": [
-        "albendazole"
       ]
     },
     {
@@ -26376,7 +26325,6 @@
       },
       "related_drugs": [
         "loperamide",
-        "erythromycin",
         "sulfamethoxazole",
         "polymyxin_b"
       ]
@@ -26587,18 +26535,6 @@
       "keywords": {
         "en": [
           "vitamin B12- and folate-independent constitutional megaloblastic anemia"
-        ],
-        "pt": []
-      },
-      "related_drugs": [
-        "iron"
-      ]
-    },
-    {
-      "name": "Plummer-Vinson syndrome",
-      "keywords": {
-        "en": [
-          "Plummer-Vinson syndrome"
         ],
         "pt": []
       },
@@ -27867,18 +27803,6 @@
       ]
     },
     {
-      "name": "tenosynovitis",
-      "keywords": {
-        "en": [
-          "tenosynovitis"
-        ],
-        "pt": []
-      },
-      "related_drugs": [
-        "prednisone"
-      ]
-    },
-    {
       "name": "vertebral anomalies and variable endocrine and T-cell dysfunction",
       "keywords": {
         "en": [
@@ -28328,18 +28252,6 @@
       "keywords": {
         "en": [
           "benign PEComa"
-        ],
-        "pt": []
-      },
-      "related_drugs": [
-        "sirolimus"
-      ]
-    },
-    {
-      "name": "lymphangiomyoma",
-      "keywords": {
-        "en": [
-          "lymphangiomyoma"
         ],
         "pt": []
       },
