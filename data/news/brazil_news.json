@@ -1,15 +1,123 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-03T13:47:33.534026+00:00",
-  "total_fetched": 100,
-  "unique_count": 99,
-  "health_related_count": 38,
+  "fetched_at": "2026-11-03T22:58:56.838517+00:00",
+  "total_fetched": 102,
+  "unique_count": 102,
+  "health_related_count": 40,
   "news": [
     {
-      "id": "7b97bb2dbd4f",
-      "title": "Novembro Azul: casos de câncer de próstata triplicam em homens com menos de 50 anos nas últimas duas décadas - O GLOBO",
+      "id": "d1cc31fd1897",
+      "title": "Primeira morte por sarampo em 30 anos no estado de Nova York é de um bebê de sete meses - Folha de S.Paulo",
+      "published": "2026-11-03T20:02:00+00:00",
+      "summary": "Primeira morte por sarampo em 30 anos no estado de Nova York é de um bebê de sete meses&nbsp;&nbsp;Folha de S.PauloCriança morre por sarampo em Nova York e estado registra primeira morte pela doença em mais de 30 anos&nbsp;&nbsp;G1Bebê de 7 meses não vacinado é a primeira morte por sarampo em Nova York em 30 anos&nbsp;&nbsp;EstadãoCriança é a primeira vítima fatal do sarampo em Nova York em 30 anos&nbsp;&nbsp;VEJAEstado de Nova York tem 1ª morte de criança por sarampo em 30 anos&nbsp;&nbsp;InfoM",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjlGUzZkNkZ1SWcxZHpDMmwyWWlUUUZUVy1ZY2w2WmNqNE5Hc1BWdkNNT3dwN2tDaUF0RDhNX0dJR0ViZ1hFUjI4bEp3SHJkdDNCUUtoalllSkU3cGJrS0NfZ1VWUl9XenBmYXJaSnR5UEx4N2Q0d0dWUVk4Z2NNWmRpQTYxd0JWQTlBdFJyOUhoTnVzZlhLNS0xVEpZNEl5VlpxV1MzQzNHdUY1dEEyMVk2NjNFYWxkTHAwem5Ecm5RQlpqbmY2MXh3c3BsaVN2TkZWVkQ1dUF1NTZadFg3ODJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "363a834bcb24",
+      "title": "CÂNCER DE INTESTINO! Dra. Amanda Meirelles faz alerta urgente - Portal Leo Dias",
+      "published": "2026-11-03T16:58:13+00:00",
+      "summary": "CÂNCER DE INTESTINO! Dra. Amanda Meirelles faz alerta urgente&nbsp;&nbsp;Portal Leo Dias",
+      "sources": [
+        {
+          "name": "Portal Leo Dias",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHZNZG1Tbk5jZFAwQzYwMDZLNEdQNTNhQkd1MlVVUWhDRXZZa0w4cHJHcnZmQThVOWdBQWNSR1A4cHkwblh6WUV6SHV2MjJhR1g5WlQ4dGxQVGdpNkdfVzVyWFgzUGFrY2lmX3FfLWtLY0ZvN1gtSkRqc21uRkt3WWF5ZzdrOWtBcG9VU0x2U3lMY3JkTy1xaVN4TGFQWEVwWHFfbmNYUWJYUE5r0gGyAUFVX3lxTE5kU2MteURtSXVQMkxyZGs4MS1DdXZFWDIwTEtURVNPOFo2TWRzRk1QTmNIbmZBNmFWOVZpUHl2ZUlTcm1vaVV1c29YNjN5QXJCdWxHZ0FaeHQ2TVRWWGQyNnYwSTAyT0NUSEZ6Y2tqNGZpZGZGX050WldfemhnWW1Rczk4Yl9Yc0NlZk53aS1kSEl3aWctaEoxZE0yS3REUTk2akhYa0swbWF3YTM3VHphOGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8430fb4e3a8f",
+      "title": "Mpox: Ministério da Saúde diz que vai reforçar estoques de vacinas em meio à alta de casos no Rio - O GLOBO",
+      "published": "2026-11-03T15:25:51+00:00",
+      "summary": "Mpox: Ministério da Saúde diz que vai reforçar estoques de vacinas em meio à alta de casos no Rio&nbsp;&nbsp;O GLOBORio de Janeiro já tem mais que o dobro de casos registrados de mpox em 2025&nbsp;&nbsp;UOL NotíciasCasos de Mpox no Brasil chegam a 665 em 2026, diz Ministério da Saúde&nbsp;&nbsp;CNN BrasilMpox no Rio de Janeiro: “É preciso reconhecer que estamos diante de um problema relevante de saúde pública que exige uma resposta proporcional à situação epidemiológica atual”, sinaliza Dra. May",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR1hQNHVjNFFCazUtbWtZcmZvVlRSSmpJbkhIdlNtTGRvUVBHNnQ0QVV3Q0xxa0otYXJPTUNFTHFxSTNuOTM1djh6X0luWUpLWDlpdFh5ZFZsWm5WNC1DbFlRUm02c1ZSX1BwMmgwQ0NhSmphMW1TQURMV2NKOExxRExtWEpYblM0MDBjTWt2cVpZdV9EUGZnUktTYlc1TTZXSDNITVFCYlQ0dTdYemRkdDFNZThMblA3eEE4LVo3ZVpMNmNHa2NwUFdIRTE5VkhROXlxWl9FR0ZCNm55Q1QxZjl2UlFsNzTSAfYBQVVfeXFMUENRbFFLcjFOREFwZnFudEpKNnRkZ3BNNVlpdW1fZERuNnhoVWFaNXl2X2ZPdG9OU216V1JDSGE4SVZSVWxnbDJWV29GVnZYb3FXd3JUdjZQVjFVd2ZSd1oxWFpnTkc2UmRNZlpvNkJ3QU14UnFCdERJcXpmcm9LVDdkLVg3cmtXZllkSjc1d0xJaDVGS2RkaGZYX1VRY1dWckd1ZWJ4cFhWN0V5RHNReUViOGNqU0QyelNHVnptazF5RTlyNENoa0lTWFRPb3BsRzcwMmdDUjctUGlDRXljTmVRYURUOUZHT2NwaDJXd3JVRzhveTdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22c54bd536b3",
+      "title": "Cúrcuma e medicamentos: o alerta do cardiólogo sobre interações perigosas - Rádio Itatiaia",
+      "published": "2026-11-03T14:54:08+00:00",
+      "summary": "Cúrcuma e medicamentos: o alerta do cardiólogo sobre interações perigosas&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzkwbzQ5Tzh3cXYwYnUydzJrLTE1X3BYUkRYOXpnVk10blRyZTd5bnYteElXTldjdDN0ejNCVlYzM0NMQ1ZmUTBzN3lNNXFYY21vZWtSa2dSRmxoUWZJclpzVzJGam1hZXZ2aFpaVk0yOVc4SzZqNHhrOXoxek1Od1ZmS1F6RHpVYkhkQTczT3ZIemVaZ3NmSDd3ck9NbC1OV3UyZVlRVVdLdERS?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6bac7f09082b",
+      "title": "Vacina contra gripe é ampliada em Teresina; veja onde receber a dose - CidadeVerde.com",
+      "published": "2026-11-03T12:14:00+00:00",
+      "summary": "Vacina contra gripe é ampliada em Teresina; veja onde receber a dose&nbsp;&nbsp;CidadeVerde.comVacina contra gripe é liberada para toda a população de Teresina a partir desta terça-feira (3)&nbsp;&nbsp;G1Alto Longá amplia vacinação contra a Influenza para toda a população a partir de 6 meses&nbsp;&nbsp;Portal R10Vacinação contra a gripe é oferecida na Festa do Divino em Mogi das Cruzes para grupos prioritários&nbsp;&nbsp;diarioesp.com.brVacina contra gripe é liberada no DF para todas as idades&n",
+      "sources": [
+        {
+          "name": "CidadeVerde.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWRPZmxlNWtDYWVPVjVQRTV2eDBlZlIyb0NlRTc4OWp1N0xnTHZtUFJDNVIwVFVWT3pPWUJQNm5hekduSWFPTnFSQVRlX3YzTTAteWdya3NrTGFNNVAyQ2FBOVNKQ0wyLWxRSmNUNUdDeHBZMjMwZXpxeG5MQkE4alZDSnRPMEY2ZzJGenNzbTFOOW5YTnAwQnVfN0dES3lRUGZzR1lTQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9717821849f7",
+      "title": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração - ICL Notícias",
+      "published": "2026-11-03T12:13:12+00:00",
+      "summary": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasApenas 30% dos hipertensos seguem o tratamento, dizem médicos ao Dr. Kalil&nbsp;&nbsp;CNN BrasilCombinação de remédios pode melhorar controle da hipertensão&nbsp;&nbsp;Poder360Clínica São Vicente explica o risco de interromper remédios para pressão alta e diabetes&nbsp;&nbsp;O Popular do ParanáAVC, sintomas, prevenção, diagnóstico e tratamento&nbsp;&nbsp;Revista Newslab",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZcFFnRUtLVXlIdEVTUGFIbU1oMmtoQzUwMWFMWS1XcmRjMG1kMXNkQnBzeEEwcjlIODd4ZGMzSzFldFQxeVozeTF1c3V3S2ZTbXlPR0t1ZmhOaXVzQi00OWQ1REU5d05jRUpoWjg5eTNTTnRiMU1V?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "93f4cc926a6b",
+      "title": "Exercício físico deve passar a ser receitado para a saúde cerebral - Agência Brasil",
+      "published": "2026-11-03T11:52:00+00:00",
+      "summary": "Exercício físico deve passar a ser receitado para a saúde cerebral&nbsp;&nbsp;Agência BrasilExcesso de treino afeta a regulação química do cérebro, mostra estudo&nbsp;&nbsp;Poder360\"Overtraining\": excesso de atividade física pode prejudicar a saúde&nbsp;&nbsp;R7Médicos deveriam receitar exercícios físicos como medicamentos, defendem pesquisadores&nbsp;&nbsp;O TEMPOIdosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo&nbsp;&nbsp;Superinteressante",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3hCV01xSlBPQnFHWTZHVFJNell5RUR3RW5WUGUwdk5HeTM2Y2d3M2MtdjFCbVZCbjNHQm1ULXZNekhuR3BGOUdoNWRYTnlkZGFodXAzVVIyeDlNa3JxcjhkbXVubVl6cHFNUmp3emY4cW9iZDhNb081UmdEcmtHYUhlbldKdjdVVlZBczZ0VlRVUUNoQ1dqS1RSNjNFdHpNQ1ctUkFvWkl6QWlXZDJLdzVkWnJyenNp?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bba0f74b482e",
+      "title": "Organoides podem antecipar resposta ao tratamento no câncer de cabeça e pescoço - Medscape",
+      "published": "2026-11-03T11:30:05+00:00",
+      "summary": "Organoides podem antecipar resposta ao tratamento no câncer de cabeça e pescoço&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXdBV3lFRjBSSjVRLVI2SGFXbEhmeE9FZzl3TkdDWlY2czhZSXlzcEY3UlhlSEhfcVhvY2dQSW1vWEpRRlFMcmpHMmhmYzk4ZXQ0UXJPLXBHTTdlN0JzaVZNbkNGWjlMUzAzbDFQYU5EMmxtMzlKRWpqeHpTdHRuZVJzUjQtaDBBN0hVSVFYazZNVUxaMEtzTzN3b2NjZGtQa2FMcUE4VUM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "195be218c9f7",
+      "title": "Maçã com casca, sem casca ou em suco: entenda o que muda para a saúde - Jornal Correio",
+      "published": "2026-11-03T08:10:00+00:00",
+      "summary": "Maçã com casca, sem casca ou em suco: entenda o que muda para a saúde&nbsp;&nbsp;Jornal CorreioMaçã: para que serve? Veja benefícios e receitas com a fruta&nbsp;&nbsp;EstadãoDo coração ao intestino: 8 motivos para comer maçã todos os dias&nbsp;&nbsp;UOLMaçã crua ou cozida? Entenda o que muda nos nutrientes e nos benefícios para o intestino&nbsp;&nbsp;Âncora 1Você já comeu maçã hoje? Uma das frutas mais populares do mundo pode trazer benefícios&nbsp;&nbsp;Jornal da Franca",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW5QWllCejV5SUtoTWFheWtXd2dLUU1lUmcxV3l4MHE1MnVVVUdQVi1RZlg1NXE3LVY0ZVhIUUh5RzRkNVRuNWF0Y3pTQld5Q2FDUU1hTDI3OXIxMExSZVNQdng4VHYtTUVoS3BheGpwNjRrb3NCRHA5eVYxakNCTW5JOXNvbXlRLWpSRlV4Mk9xZFM0akkwRklDdDA0dDRwUG0wQmszcWNHY3J0bFBSNXln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a60af8874ac",
+      "title": "Novembro Azul: casos de câncer de próstata cresceram 4 vezes em homens com menos de 50 anos nas últimas duas décadas - O GLOBO",
       "published": "2026-11-03T07:30:00+00:00",
-      "summary": "Novembro Azul: casos de câncer de próstata triplicam em homens com menos de 50 anos nas últimas duas décadas&nbsp;&nbsp;O GLOBOUnidades da Prefeitura de Manaus intensificam cuidado integral à saúde do homem durante campanha 'Novembro Azul'&nbsp;&nbsp;Prefeitura de ManausNovembro Azul alerta para câncer de próstata&nbsp;&nbsp;G1Novembro Azul&nbsp;&nbsp;CBFSociedade Brasileira de Urologia do RS terá embaixador pela primeira vez e faz ação na Redenção no dia 7&nbsp;&nbsp;Jornal do Comércio",
+      "summary": "Novembro Azul: casos de câncer de próstata cresceram 4 vezes em homens com menos de 50 anos nas últimas duas décadas&nbsp;&nbsp;O GLOBONovembro azul: Rio tem previsão de 9 mil novos casos de câncer de próstata, terceiro estado no ranking nacional&nbsp;&nbsp;O GLOBOICR.T destaca prevenção e cirurgia robótica no Novembro Azul&nbsp;&nbsp;TerraNovembro Azul: próstata pode crescer de forma benigna, e tem cura&nbsp;&nbsp;Agência BrasilNovembro Azul: PMM intensifica cuidados a saúde masculina&nbsp;&nbs",
       "sources": [
         {
           "name": "O GLOBO",
@@ -21,23 +129,11 @@
       "id": "6407646e6e2a",
       "title": "Próteses penianas ajudam homens a recuperar ereção após cirurgia da próstata - Folha de S.Paulo",
       "published": "2026-11-03T07:00:00+00:00",
-      "summary": "Próteses penianas ajudam homens a recuperar ereção após cirurgia da próstata&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Próteses penianas ajudam homens a recuperar ereção após cirurgia da próstata&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFM2X0Y0cGhNaXJHelFKc2toXzhKTW5RNXBOdkI4c2Ridk1xc1FxZC1MTkNkT3VvSGYzRXY2MnFHMVlTd3JWcjl5eUtPVGx5TjE3Y3BtLVdvN0ljcWNJSmdaVC01eTFva1VLMHYtSXlNWVJyVk5kVVFQNl9SYzQ3S1pnNDAwT3QwbTRsdFZ3bHp4VlJiLVpvT1lwQjFxalNqZDRVczZrUzJ4X3pOSUdRTU5fcFo2LWxxVHBoOTlGOEVtNGw2eFJGUXpiUWxvdFlxYU1V?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4a459c47db8",
-      "title": "Sarampo passa despercebido em 7% dos casos nos EUA, diz estudo - UOL Notícias",
-      "published": "2026-11-03T04:46:42+00:00",
-      "summary": "Sarampo passa despercebido em 7% dos casos nos EUA, diz estudo&nbsp;&nbsp;UOL NotíciasNova York registra primeira morte por sarampo em 30 anos&nbsp;&nbsp;UOL NotíciasCriança é a primeira vítima fatal do sarampo em Nova York em 30 anos&nbsp;&nbsp;VEJAEstados Unidos: criança morre em Nova Iorque na primeira morte por sarampo em 30 anos&nbsp;&nbsp;Euronews.comEUA confirmam 6ª morte por sarampo este ano e tem pior quadro de sarampo em mais de 30 anos; entenda&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMzNEZUM0eWZuYXVKcjJvRWh4SEVtOV9JYXAwdEwtVmVkUGpDZDYxN1RqdUNKQ0RTcEhyWlhMMXpSN1d5ZV9qT0R0RkxtT0R4T0FYR3JteTM1ZF83RnR2V3p4bU5NY3BUbGFibVNKN01vTUNtWG9ERVQ0djRkaEgyV29XaVlyNmNwZVpDc2ZWbHhxMk5IN2ZCTmx5TkFkRlJtbkN6T0s4ZHdYYlpCVjF2LUIwVnNjRUViVEhPdk1OMzdJRXlRdzVzX1pRcmxRMWsy?oc=5"
         }
       ]
     },
@@ -54,14 +150,14 @@
       ]
     },
     {
-      "id": "4246d4dca851",
-      "title": "'Equação do apocalipse': estudo de 1960 cravou data exata do fim do mundo na sexta-feira 13 de novembro deste ano; saiba o que ciência diz hoje - Diário do Litoral",
-      "published": "2026-11-02T20:46:00+00:00",
-      "summary": "'Equação do apocalipse': estudo de 1960 cravou data exata do fim do mundo na sexta-feira 13 de novembro deste ano; saiba o que ciência diz hoje&nbsp;&nbsp;Diário do Litoral",
+      "id": "eb9190d42e77",
+      "title": "Novo Experimento de Aprisionamento de Stanford: um estudo abusivo deveria virar reality show? - BBC",
+      "published": "2026-11-02T20:42:39+00:00",
+      "summary": "Novo Experimento de Aprisionamento de Stanford: um estudo abusivo deveria virar reality show?&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "Diário do Litoral",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMl9DNWpFS1djeVNUcC1iM2pZa3hJVU5rWXgyTk53QlcwV1hsemc0NFRtM25KVXV2dDlqVU5DdnFURFg4Tk94NjYxbzBDQzVnVVEwLUVLTTBTTFo2MHBwRlgwVmkxMG9oMEpWU2oyeUEyeVJRckdkYzFkdlZJVXY1dE5jcjAyOVNGRUtzdnBxSXoyZ1o5LWpSR1BhRVFhNTd2SnZhSDNpWkVGWDdiSUFzaUJaMlNDN01ZTkJpLXVlcjh5dWFzdVU4Sl8xM1B6bUNhZnVmdW42UFY2OGFNQTBERWdHRkl2Z1M1TGRTQTBuWHo1OXpoRGNQWG5xVTgzWnYybDVhTVJ2Y3I3aFZKVFBySVdhZEFlS25HM3c?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XdjJhWjdEYjB0bFFocWpYMDhwRUpiTUxCUTNfX1pGbDNPaFJfN2ljQjhCSHBzUVR1RUxDOTJmQ205aWEtdHNLQ3Jybk9EYmtDVWFid3RmZWpUUHRUZ1VYODIzTdIBaEFVX3lxTE5zaFBvX0xIVnVJeDBPZEs2ZUlIcjhxZUFUaDJyR3BXWXRFUGpRN0RDYnNSSlpmRnRvVEdVU19GWnhoSmtQdVpYTUNPSnNvMmhGYmdKaU1Bc2NDVkk2d2JpTzN6WG9JY3N5?oc=5"
         }
       ]
     },
@@ -78,14 +174,38 @@
       ]
     },
     {
-      "id": "792310b4fb10",
-      "title": "Júpiter, Saturno e Urano podem colidir após a morte do Sol, aponta estudo - Diário do Centro do Mundo",
-      "published": "2026-11-02T19:59:53+00:00",
-      "summary": "Júpiter, Saturno e Urano podem colidir após a morte do Sol, aponta estudo&nbsp;&nbsp;Diário do Centro do Mundo",
+      "id": "4996e197b7f9",
+      "title": "Aos 25, homem descobre câncer após culpar suplemento de ferro por sintomas - Metrópoles",
+      "published": "2026-11-02T19:26:00+00:00",
+      "summary": "Aos 25, homem descobre câncer após culpar suplemento de ferro por sintomas&nbsp;&nbsp;MetrópolesJovem de 25 anos confunde sintomas de câncer agressivo com efeito de suplemento&nbsp;&nbsp;primeira página sc",
       "sources": [
         {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYUszWUhmZ2JKclRKQmw1bV9BYnM0bjRwdXViWnhLQW1WQm5wUjIzYVFkOGttUmY4ZGpRakE4WGMtRUhfRGpqTFJJa0haM3ZhMDhLa0NzOXNwRkJKcTI4T1JhWl94VWFvRDJxcTlXUG9pUjZELVQ5UUN5MTJYSkkxa3NCQ3dXb1J3elFZLXA0RzJGdUlZYy1nRlZlWS1JeERY?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTg4c3ozeEIzMndHanNodDZFZzJUaTY0RVhZV1FxTE1udUhtejZ3UUZGVDhtcnp2OVFjYTRUM3liQzY3UEdHdUhwLVlOTUx3UWNWTE8yblV1T0JXdlZUOWJyaTlsY1RTZGhwSy1VR01SelJIY1N1cHNHTkpzODNUTHdsVEVrVzd0Nk9iRUFxbVQ4UXcxLXJmMlJCWDZtRjB0MVRFdGw0WndLdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf750fd9d977",
+      "title": "Como o antibiótico sabe onde está a bactéria e por que não se pode atrasar a dose da medicação - CNN Brasil",
+      "published": "2026-11-02T17:55:22+00:00",
+      "summary": "Como o antibiótico sabe onde está a bactéria e por que não se pode atrasar a dose da medicação&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnFvVS0zMS1welVKMFkwSE02U0JZcTBsZVFpd2l2SVpSUjJtRlNQQUhWcFRzOWFjQmZaY2pBOXJ0R0p3a0NYRElxM0kzOTFDM0ZyOEFGTlVKd0JxbkFPZk1FdnhlUVVscWVQWENWNnhTQ2VSTWF3VDRKc2JxQ2JHeEllbnV6WktYaVlBSkt4N3pBRVdwR2xKOFhyMF9JZHkyWmRVWjN5bF9BX25xcTlnc0Nzek5XUnNxbjdQNEs5M0dsMC1BQXhpQ1ExemVoeXVEVWxF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bdd42296ea03",
+      "title": "\"Serpente robô\" passeia por corpo humano para tratar doenças; entenda - CNN Brasil",
+      "published": "2026-11-02T15:19:00+00:00",
+      "summary": "\"Serpente robô\" passeia por corpo humano para tratar doenças; entenda&nbsp;&nbsp;CNN BrasilMIT cria \"robô serpente\" para investigar interior do intestino delgado&nbsp;&nbsp;MetrópolesRobô serpente do MIT percorre intestino por dentro para tratar doenças&nbsp;&nbsp;Globo'Serpente robô' criada pelo MIT percorre corpo humano por dentro para examinar e tratar doenças; conheça&nbsp;&nbsp;TerraMIT: investigação sobre robôs que examinam o intestino de dentro&nbsp;&nbsp;Distrito Online",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOHVTVEtQdHZPRDFaMTI2aTBnbGUtS1dVWWJrV2lQMTVFeHdXYkJEYkw0NDk2aTFkdExGWVhjYWxvSUpkdG5MN0lLbVI1bklhZjVOZ0xiVUR4cmNsMFFNamNKYl96NmpiaUM0S01wazRPMFE2SENzV2h2TWxtRmdHVUVDMWgxT1NBWmlLaE1reGlFQXM2S2JQWlpRUEEzVzgtUzREZA?oc=5"
         }
       ]
     },
@@ -93,11 +213,23 @@
       "id": "3f96e8c397ad",
       "title": "Mortes por câncer do colo do útero podem aumentar quase 40% no mundo até 2050, aponta estudo - G1",
       "published": "2026-11-02T15:00:01+00:00",
-      "summary": "Mortes por câncer do colo do útero podem aumentar quase 40% no mundo até 2050, aponta estudo&nbsp;&nbsp;G1",
+      "summary": "Mortes por câncer do colo do útero podem aumentar quase 40% no mundo até 2050, aponta estudo&nbsp;&nbsp;G1Estudo prevê 522 mil mortes por câncer do colo do útero no mundo até 2050&nbsp;&nbsp;Afya | HomeMortes por câncer do colo do útero podem subir 39,3%&nbsp;&nbsp;BNT - Boca no TromboneCâncer do colo do útero pode matar mais 39,3% até 2050&nbsp;&nbsp;n3news.com.brMortes por câncer do colo do útero podem aumentar quase 40% até 2050&nbsp;&nbsp;Jornal da Fronteira",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWUFaSnZ1Q3lZcXUyQjl6NE4zcndhU016ZTVhUTVTOXF2S2ZXSXJEdkFZdjNpaHVoOFk1ZWQ1RjBXaXg1NzJvdDJhQTJ1MFNaR3RNUDhPM2Y0cGtCb00yRThGcVNOOExFMWNxaGhhUGY2Y2luWWVZN3lEdWhmUzAxN1dJZDVpbWUycUV3OVQyOVdIcUZCSVlpNjQ1aU93TnBKNUtnaUJlSGMtdVVGbWttM2ZmRUZWRkN2U01mTk5zdDMxdzBpVmdKc2hHZldyTENTVkhjYWZYTmRVdEdRUDdWSDFiY9IB8gFBVV95cUxPSVB2TUtIR1Nza0lxSU1DV1dwdTU1eE1wMWJzSmNKQnY2Y0Rlbl92Ry15dHZOc0F2NkJuSWxoUFp1MzBIVlp1d3hzajllMnNwMGxORllsZHhlcUQ3YnljdUtzSTJZbVBWU3otXzFneE8tVlNuQzBsdGoxbUZoaVN2VktZU2VlQVRINXRMV2N2c2o5RGVlTE1IaENfSGtzUGRiek9vbTNhYXIxQnZYOElielFpQTZDWmhaQ1BUd2ZJbDZMLWUzWW9xa19jb0hCdnhTd0hteG5xcWtEUld0R0g1Y29MOGtRd0lreE5hd0VGOEdxZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02f65296da63",
+      "title": "Por que crocodilos sobreviveram a asteroide que matou dinossauros? Estudo pode ter descoberto - Globo",
+      "published": "2026-11-02T14:09:17+00:00",
+      "summary": "Por que crocodilos sobreviveram a asteroide que matou dinossauros? Estudo pode ter descoberto&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPXzBHVnl1THNMNHlRdE05Ml9ObEpvS080SXNFMkhNS2pzMy1hcXhtWTVGUG80T0ZHZmNUVGJiSUl5VllxcGlyYUNOa1JDSU5hby1MNHhNbExCQ0ljeEdjRFMzaGIwTm91SjhvUEFPdUgzTVJNemZ5a01pWG5ocURNejRrS3hyNGRmUXRxVk9IRWNGY29oNG5QVWl4SzNGZzlTYUp4ZTRJTTFyUjhvWTVnSWxmSjlUOEp6N2FCTXBhOWlMNGNoZDNaRXVEWGtjOXp3dGhRalgtQVNMVjdDQXRjYWg1aG1menhBX0sw0gH6AUFVX3lxTE00MTRhWHhYVVlyaklPMHZfMlRXRG4xSnlMYmNsZDdHcnJLbVRxajE3QmNqRFZsbzBPV0VhcGJQM1BLZ19qUkdsNjh5LVdwVW1CZEwyYWhGbGRFa1BPNEtyYTM5Q0Q1R0NNdDB4VzBqWEpCcW5GWnFKeDNSaTJ5Ql9FT1h2RkZhVDF6dE9BWHI1N2h3MHFRc2hqemtkQkd0Z0t0LUxtNVM4dmZ1QWFCZkJpLTRzMElqRE1CUXpVc3ZBWVVlXzBDM0VGUThWTVBLZHc5cS1EVmtTOEozSVFuZjlPZVZZeXBpMHhobjJXN2hHcmY2TENaYlRWTnc?oc=5"
         }
       ]
     },
@@ -117,7 +249,7 @@
       "id": "29f7ec5588fe",
       "title": "Prefeitura de Maceió inicia vacinação antirrábica no sábado (7) - Prefeitura de Maceió",
       "published": "2026-11-02T13:16:00+00:00",
-      "summary": "Prefeitura de Maceió inicia vacinação antirrábica no sábado (7)&nbsp;&nbsp;Prefeitura de MaceióCampanha de vacinação contra a raiva começa em Alagoas e segue até 7 de dezembro&nbsp;&nbsp;G1Itaboraí realiza hoje, vacinação antirrábica para cães e gatos&nbsp;&nbsp;NewsPrefeitura de Penedo inicia Campanha de Vacinação Antirrábica com atendimento no antigo SESP&nbsp;&nbsp;Prefeitura de Penedo / ALPrefeitura divulga cronograma de vacinação antirrábica para novembro em Nossa Senhora do Livramento&nbsp",
+      "summary": "Prefeitura de Maceió inicia vacinação antirrábica no sábado (7)&nbsp;&nbsp;Prefeitura de MaceióAracaju inicia campanha de vacinação antirrábica com pontos fixos e drive-thru&nbsp;&nbsp;G1Caruaru promove campanha gratuita de Vacinação Antirrábica&nbsp;&nbsp;CBN CaruaruPrefeitura de Itaboraí realiza vacinação antirrábica em bairros do município&nbsp;&nbsp;Portal Oficial da Prefeitura de ItaboraíPrefeitura de Penedo inicia Campanha de Vacinação Antirrábica com atendimento no antigo SESP&nbsp;&nbsp;",
       "sources": [
         {
           "name": "Prefeitura de Maceió",
@@ -141,7 +273,7 @@
       "id": "510fb7fa08ec",
       "title": "MG registra 33 casos de Mpox; novo caso foi confirmado neste fim de semana - CNN Brasil",
       "published": "2026-11-02T11:43:59+00:00",
-      "summary": "MG registra 33 casos de Mpox; novo caso foi confirmado neste fim de semana&nbsp;&nbsp;CNN BrasilMinas Gerais registra 33 casos de Mpox&nbsp;&nbsp;G1Confins confirma primeiro caso de mpox; Minas soma 33 registros em 2026&nbsp;&nbsp;MetrópolesPrefeitura de Confins confirma primeiro caso de mpox no município&nbsp;&nbsp;Estado de MinasConfins confirma primeiro caso de Mpox; veja sintomas e como se prevenir&nbsp;&nbsp;O TEMPO",
+      "summary": "MG registra 33 casos de Mpox; novo caso foi confirmado neste fim de semana&nbsp;&nbsp;CNN BrasilMinas Gerais registra 33 casos de Mpox&nbsp;&nbsp;G1Minas Gerais registra 33 casos de Mpox em 2026, informa secretaria&nbsp;&nbsp;BandNewsConfins confirma primeiro caso de mpox; Minas soma 33 registros em 2026&nbsp;&nbsp;MetrópolesConfins confirma primeiro caso de Mpox e reforça orientações de prevenção&nbsp;&nbsp;Impactto News",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -177,7 +309,7 @@
       "id": "05cf56e54a82",
       "title": "Como diferenciar o AVC isquêmico do hemorrágico? Entenda com Dr. Kalil - CNN Brasil",
       "published": "2026-11-02T09:00:41+00:00",
-      "summary": "Como diferenciar o AVC isquêmico do hemorrágico? Entenda com Dr. Kalil&nbsp;&nbsp;CNN BrasilPrograma SOS AVC registra mais de 900 atendimentos em dois anos em Cuiabá&nbsp;&nbsp;G1Opinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;EstadãoHMC registra 912 atendimentos por AVC em dois anos e alerta para urgência no diagnóstico&nbsp;&nbsp;Prefeitura de CuiabáHospital Regional dos Caetés promove roda de conversa sobre prevenção e sinais de AVC&nbsp;&nbsp;Agência",
+      "summary": "Como diferenciar o AVC isquêmico do hemorrágico? Entenda com Dr. Kalil&nbsp;&nbsp;CNN BrasilCada minuto faz diferença em caso de AVC&nbsp;&nbsp;G1AVC: 70 mil brasileiros morrem por ano e risco de recorrência preocupa&nbsp;&nbsp;Portal A12Opinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;EstadãoAVC: Brasil registrou uma morte a cada sete minutos em 2025&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -198,34 +330,10 @@
       ]
     },
     {
-      "id": "a012929a53b0",
-      "title": "Alterações genéticas hereditárias são menos frequentes em brasileiros com câncer de próstata, indica estudo - Folha de S.Paulo",
-      "published": "2026-11-02T07:00:00+00:00",
-      "summary": "Alterações genéticas hereditárias são menos frequentes em brasileiros com câncer de próstata, indica estudo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLWVlSjFYYVZhTmc0NXI5ZExsblRZblJtNEh5N1JLWk45ZnprcmVEYV92cUJROHYxNUVkSnhjU0F2b1ZtZ3VhaW11Zkd1ak9JaFpKbzNqTlFWN0tLVzBzbkd4bnpwd29ZcGtxWVNoSlY4NGxSMVBaQVdXRlc2NVJJSlVuVTROWWVSV0hmRktGQVl2X1hPWlRVUlpoX1RPbTFUY0RTOVlpbHlicFluR004eXJRVlN6Q0c5ek5Xd0lLdF8wMF9FSS1vaE03RWZxX0JTdy1ZeEpMMHA0NkkybFQ3Ti0xVkktbjdfU2dPSWhyNDUxWktqUzl6aWpjMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "685b0a68b2e8",
-      "title": "Exercícios depois dos 70 anos: como treinar força sem depender só de máquinas - Rádio Itatiaia",
-      "published": "2026-11-02T05:06:35+00:00",
-      "summary": "Exercícios depois dos 70 anos: como treinar força sem depender só de máquinas&nbsp;&nbsp;Rádio ItatiaiaFotos: Os treinadores concordam: 'A partir dos 50 anos, duas ou três sessões de musculação por semana são suficientes para manter a massa muscular'&nbsp;&nbsp;www.purepeople.com.brMédica revela o hábito mais importante para envelhecer com saúde&nbsp;&nbsp;Notícias ao MinutoDepois dos 55, o halter certo no treino de força não é o mais pesado, mas o que deixa as últimas repetições difíceis, e o s",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQi0zUkVuYWtrS0wyUUhMX05tZ2RkazRBY1hydUVXd2FQcW5lclVjWUJoRFc1WGhNLUJMZUhQRThOc2pkdDhjTlMxZUM1UDR0ZWlxb1R1VHJxR091Y3diSEJqaFZWYXpkS0gwZWhuQ0RfSHBCYlRIYXh1TklQek1HVzFoN3lObzhNdmVVV3lVSk9oaWtNeGNiVG56UVM4Q0hSZVBVb3VSSVYxSjZLck9ZSVNn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "38c397db823f",
       "title": "Psoríase não atinge só a pele e aumenta risco de problemas no coração - CNN Brasil",
       "published": "2026-11-02T03:00:23+00:00",
-      "summary": "Psoríase não atinge só a pele e aumenta risco de problemas no coração&nbsp;&nbsp;CNN BrasilCuidado à flor da pele: especialista lança livro para esclarecer dúvidas e combater estigmas relacionados à psoríase&nbsp;&nbsp;Tribuna do NortePsoríase: Humap-UFMS alerta sobre os sinais e os tratamentos&nbsp;&nbsp;diariodigital.com.brPsoríase exige acompanhamento médico para controle dos sintomas&nbsp;&nbsp;G1ALMG se ilumina de roxo em homenagem ao Dia Mundial da Psoríase&nbsp;&nbsp;Portal da Assembleia ",
+      "summary": "Psoríase não atinge só a pele e aumenta risco de problemas no coração&nbsp;&nbsp;CNN BrasilPsoríase afeta mais de 5 milhões de pessoas no Brasil&nbsp;&nbsp;R7Cuidado à flor da pele: especialista lança livro para esclarecer dúvidas e combater estigmas relacionados à psoríase&nbsp;&nbsp;Tribuna do NorteLesões da psoríase podem afetar autoestima de jovens e adolescentes, diz médico especialista&nbsp;&nbsp;Portal Opinião PublicaALMG se ilumina de roxo em homenagem ao Dia Mundial da Psoríase&nbsp;&nb",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -234,70 +342,10 @@
       ]
     },
     {
-      "id": "79faf4d03898",
-      "title": "Secretaria de Saúde do RJ monitora alta de Mpox após casos superarem 2025 - Folha de S.Paulo",
-      "published": "2026-11-01T20:26:00+00:00",
-      "summary": "Secretaria de Saúde do RJ monitora alta de Mpox após casos superarem 2025&nbsp;&nbsp;Folha de S.PauloMpox: governo reforça volume de vacina no Rio para lidar com alta de casos&nbsp;&nbsp;MetrópolesRio de Janeiro registra 74 casos de Mpox em dois meses&nbsp;&nbsp;CNN BrasilMpox em alta no Rio: saiba sinais e formas de transmissão da doença&nbsp;&nbsp;VEJAMpox no Rio de Janeiro: “É preciso reconhecer que estamos diante de um problema relevante de saúde pública que exige uma resposta proporcional à",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWFEWTV4Zm9NRkI4VllkZl9YQ3B6Z2dUSmlPSXppMnlFcVc4dUhWbTFqU1l0Y2tVZ3JqZkl5Y3VqWnBOdC00aXl3dHB2MlF3VENUUFdWaFZyazZfeHJoYXQ3VmptcnhoYkpiNXJ6Z2t3ZzE3SHd6QTgxUFRDREZOaDRtZm9DUUVRWjJTT3V3bUN1UlZlX2RaNjllOWF6NkVxNXo5akV2MU83UVlxSUVtWXlBZGowREFPRXlhUjZmNENOaThsdDRRM2M4TnAwZlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f725a25304d",
-      "title": "Por que estudos controversos da psicologia ainda exercem tanta influência? - Folha de S.Paulo",
-      "published": "2026-11-01T19:00:00+00:00",
-      "summary": "Por que estudos controversos da psicologia ainda exercem tanta influência?&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkFTN0RqQU5KaHpYaWxhV2tLUzFTRk9lZFJCdFQ5UElyd1hiREt6VjBBMnFlT2ZmSE4tWjRhajRTMXpuNUEwMTRoaVExRmZCTUl5aVJoa3J2V2d2MkhQb1BsVkl3QW5kalpQVjhMQ0phUElrQ3ItallsOVdLNmFZaDRGSzRaTWZHWGVMTWN5NDJMTTBlb1gyWXc2OGdVcjR2LUNXMGpCN2pocWtIdlBjWXU0UnJmWGhnSTlRUUNLTDJTdUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "67632b18de6d",
-      "title": "Remédio para câncer de pulmão pode evitar avanço da doença por 7 anos - CNN Brasil",
-      "published": "2026-11-01T17:29:10+00:00",
-      "summary": "Remédio para câncer de pulmão pode evitar avanço da doença por 7 anos&nbsp;&nbsp;CNN BrasilComprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes&nbsp;&nbsp;G1Remédio prolonga por sete anos controle do câncer de pulmão&nbsp;&nbsp;Brasil 247Comprimido diário aumenta sobrevida de pacientes com câncer de pulmão avançado&nbsp;&nbsp;Rádio MetrópoleNovos remédios prometem controlar câncer, diabetes e HIV em 2026&nbsp;&nbsp;ncnews.com.br",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYURTdGNEdzRKdTdlejBFRFNqcXV2QWp5RTZQMXdvc2g3ZkVHRzFrdnNxMzNvYVRqOXRycHFQTEJtNHRjNDF0NUUwUG9IblN0OUE3NUNrNTBMOXRYeTViS1l1YWRZLWs1aDliX3lZNEhDSzRQUG5sYklnNG5KcFRYZ1BGYlJrZkttR2JxVURkTTg2OG43V3ktekRkOHJnRkhVUGIwcnA4RWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0fa59d7d4566",
-      "title": "Cérebro é composto por dois órgãos? Estudo revela origens celulares distintas - Gazeta do Povo",
-      "published": "2026-11-01T17:00:00+00:00",
-      "summary": "Cérebro é composto por dois órgãos? Estudo revela origens celulares distintas&nbsp;&nbsp;Gazeta do Povo",
-      "sources": [
-        {
-          "name": "Gazeta do Povo",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkRMNFRfTTJHbnBJbHJBMV9mWTFSeTF2dDJFejJ2MEEwZVItZmlycDR1Z2ZSTENrVFhMLVFneVdmbVF5RXN3NEVJN0MzV2J4dTJoeUFLWmJldV9YdEg0QjlwdEpwTFd3Z1lpWHdIZGFSZUlPVE40T3QyWkJnX2lUS1UyckkzUThQZ3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f8d17a5d9d3",
-      "title": "Maior volume de exercícios amplia benefícios cardiovasculares, diz estudo - Folha de S.Paulo",
-      "published": "2026-11-01T16:03:00+00:00",
-      "summary": "Maior volume de exercícios amplia benefícios cardiovasculares, diz estudo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTUdOT3FzaTNxTktHQmNGMHBydFhJdWJjWGxtY0l6T1BTU29RcWI2MHlURUI3NWxHaXM1SVVFdmZZZm9VMU9IY05nbGlXc1REOUhES3lGUm9PX1JzMDEyYzgzN1VNVUtpbjY0TWtmM2F5djRxSmpyblVGYnh2OHZlTnB3WlZLTVo0RlNnaVFMcm1QZUc2UWhPYUdPODdxUnl5OUE0ZVhEdk9zNDJHOFU4Y3hTdTlTcUtfMDRRUGw4bE1lQTk0VnlHNml2N2Q3dw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ce481df9fedb",
       "title": "Morar sozinho é mais arriscado para jovens e adultos do que para idosos, mostra novo estudo; entenda - O GLOBO",
       "published": "2026-11-01T12:59:57+00:00",
-      "summary": "Morar sozinho é mais arriscado para jovens e adultos do que para idosos, mostra novo estudo; entenda&nbsp;&nbsp;O GLOBO",
+      "summary": "Morar sozinho é mais arriscado para jovens e adultos do que para idosos, mostra novo estudo; entenda&nbsp;&nbsp;O GLOBOAté quando a solitude é considerada saudável? Estudo responde&nbsp;&nbsp;TerraMorar sozinho pode representar um risco maior para jovens e adultos do que para idosos, aponta estudo&nbsp;&nbsp;Rede AtlântidaRisco de morte associado a morar sozinho é maior entre adultos de 18 e 64 anos&nbsp;&nbsp;ZatumMorar sozinho eleva risco de morte entre adultos de 18 a 64 anos, diz estudo&nbsp",
       "sources": [
         {
           "name": "O GLOBO",
@@ -306,14 +354,14 @@
       ]
     },
     {
-      "id": "91f9f7fbda84",
-      "title": "Do coração ao intestino: 8 motivos para comer maçã todos os dias - UOL",
-      "published": "2026-11-01T08:30:00+00:00",
-      "summary": "Do coração ao intestino: 8 motivos para comer maçã todos os dias&nbsp;&nbsp;UOLMaçã com casca, sem casca ou em suco: entenda o que muda para a saúde&nbsp;&nbsp;Jornal CorreioPara que serve a maçã? Veja benefícios e receitas suculentas com a fruta&nbsp;&nbsp;EstadãoMaçã crua ou cozida? Entenda o que muda nos nutrientes e nos benefícios para o intestino&nbsp;&nbsp;Âncora 1Você já comeu maçã hoje? Uma das frutas mais populares do mundo pode trazer benefícios&nbsp;&nbsp;Jornal da Franca",
+      "id": "11e7da2a131b",
+      "title": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes - G1",
+      "published": "2026-11-01T08:00:00+00:00",
+      "summary": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes&nbsp;&nbsp;G1Remédio para câncer de pulmão pode evitar avanço da doença por 7 anos&nbsp;&nbsp;CNN BrasilRemédio prolonga por sete anos controle do câncer de pulmão&nbsp;&nbsp;Brasil 247Comprimido diário aumenta sobrevida de pacientes com câncer de pulmão avançado&nbsp;&nbsp;Rádio MetrópoleLorlatinibe mantém câncer de pulmão estável por 7 anos&nbsp;&nbsp;Portal ABC do ABC",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjNGUkJyeVNUQVI3VmNGaUhfYmJZWGdQQk5pVno2bWY3ZENIajVRWUlnUkRCMkVkMDBZS2tib1BnSHlYRTdYSnI3X0ExekExYkhaRmJYSVVDR0VCZFR2bjBpN3ZwY0c0NHlQVGNqNS1qN2tRWnBPdUhMS0EtZ0h4VnVCNm4zSnd2R2tVQzE3V1lzN3h6bG1zV3FBTFB4QVl6TGR6MUVCUkxwNmIwMjRCZnllTDJMWmxyT1hNZ3VsMVo3WHZZ?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb1dFYmVGZUFzNTlGY2dNVnJmWUJCTm15XzVRY0RfV2dzS2hYZVRTR0VvbVVSendHNEVwcDZ3eTdpblR0d0FVTWxsVlBBRkFFUzZLb1RpTHdLLXNQLUVZdWR6Sms5TjVZT0RZR2VWaU82ZEFUYUpoOG1USTZLdXh1WVZqTHN3M2U3MmVoMWVQbE5uU1R3TGxseFAwaGpUcGVlX2VaN2kzQlRLbmNLUk01NXpoVHJXNkN1cEZ2V210YjlxZXc1ejNCZWVBSjViMW8xbDFaY3lUa3ItZ1lRbzYyakdVSUhVZWR4OW9UcNIB-wFBVV95cUxPbmpxLVpKU2ZSZVp6TUI5c0lJaWN0eEpERks4MW5icjVhNktSQ2JoNktYaGg2Um1vWGxhMjQxc3dmOFN5eFRmdHJKTEUxeWctOVpZeEU4Y1ZNZDlyeF96ODJaSW13SnlaeHMwc29iMFM4b1J4WXQ1b3lhUmt2ZUdwUnY3WUN4SHowRHd5WjZtX21wUkRnT0hjZmNmSmpoZTN5WHYxV2R0ODFhUE8zRWJkcUxMcUk5R2RpS25pMGxzQW9jSzRSMXM5UEsxbjFZcUR3TkFTbVNtdTRPVEdiMk9GbkV5bk5lVTF5d2xoX1N5TjFvd0RyV1BWQU53dw?oc=5"
         }
       ]
     },
@@ -321,7 +369,7 @@
       "id": "cf1dd8c3f484",
       "title": "Álcool faz bem à saúde? Por que a ideia de proteção merece cuidado - CNN Brasil",
       "published": "2026-11-01T06:40:18+00:00",
-      "summary": "Álcool faz bem à saúde? Por que a ideia de proteção merece cuidado&nbsp;&nbsp;CNN Brasil",
+      "summary": "Álcool faz bem à saúde? Por que a ideia de proteção merece cuidado&nbsp;&nbsp;CNN BrasilÁlcool pode estar ligado a uma vida mais longa, revela novo estudo&nbsp;&nbsp;Correio do EstadoEstudos sobre vinho e coração exigem cautela, dizem especialistas&nbsp;&nbsp;Folha de CuritibaUma taça de vinho por dia faz bem? Especialista alerta para riscos que muita gente desconhece&nbsp;&nbsp;Meio News",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -342,22 +390,10 @@
       ]
     },
     {
-      "id": "b3c11c9abfd8",
-      "title": "Ebola ultrapassa 5 mil mortes no Congo e atinge letalidade próxima de 50% - Correio Braziliense",
-      "published": "2026-10-31T15:50:00+00:00",
-      "summary": "Ebola ultrapassa 5 mil mortes no Congo e atinge letalidade próxima de 50%&nbsp;&nbsp;Correio BrazilienseEbola mata 5.376 na RD Congo e cepa sem vacina chega a países vizinhos&nbsp;&nbsp;UOL NotíciasEpidemia de ebola provoca mais de 5.300 mortes&nbsp;&nbsp;Correio do PovoSurto de ebola ultrapassa 5 mil mortes no Congo e atinge letalidade próxima de 50%&nbsp;&nbsp;Juína NewsMSF fornece apoio psicológico a pacientes com Ebola e seus familiares na RD Congo&nbsp;&nbsp;Médicos Sem Fronteiras",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObG9mcE5hV2R0QmJTNV80bFJFZndHQ2w0cXI0NHB0YmFsN0t6SG1VSURteVNybGJOSC1kNHZKVVVKWU8yS0lPSWRfYlVIcFZUVjhKNXQ4WWF6NE1yVUxjNEZCOUlUalZlZEtSM1JjVmxaM01La21xRE80QUNJa2ZzdjZKUjB5QzZuSVJKYl9SMS1rTzhWalhSalo2TkJwMkFhVmQ1YjlLMjU0b2NNcEwxNEVVRlN4OWNzdTlyLVJnYm5JZUh3MEtucDVMYTZYYi1pLVB5cNIB2gFBVV95cUxOOVpCS0NyV29MZ2h1ZFJGV3loYjhWRnNiaDhrR3puaEwzeUg3Z0M4ankybl8zVDJGdFpxMzhOX28wYUdlUUdUNnNKRVA3a2VjcF93TTdEUWFPZTFpNVJJTUt0MElfMXZhbUMwQnRtX2RSYVBmeXI0Q3ktZVJ6YXlvTlNuZ2NfczEyOUY5bnRWSkc2SnJseFRiOURuREdZUWtKNzRIRnlVTV9pZ3RCOFhWcTFfdlk0S2Zub3didDk0ZmlyanhEMVZqdkNwdFlrZzZDOTcyeHVZUkVadw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e83a9db5ac28",
       "title": "O teste simples de fitness que prevê o seu risco de morte - G1",
       "published": "2026-10-31T15:17:59+00:00",
-      "summary": "O teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;G1Teste de recuperação cardíaca pode indicar risco à saúde&nbsp;&nbsp;Diário do Centro do MundoTeste de 1 minuto pode revelar sinais de risco para a saúde do coração&nbsp;&nbsp;Diário do Centro do Mundo",
+      "summary": "O teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "G1",
@@ -402,22 +438,10 @@
       ]
     },
     {
-      "id": "573bc33015f1",
-      "title": "Testosterona: o que realmente ajuda a aumentar os níveis do hormônio naturalmente? - Portal Revista Kdea 360",
-      "published": "2026-10-30T18:42:09+00:00",
-      "summary": "Testosterona: o que realmente ajuda a aumentar os níveis do hormônio naturalmente?&nbsp;&nbsp;Portal Revista Kdea 360Hormônio em debate: mulheres na menopausa recorrem à testosterona, mas ciência não dá garantias&nbsp;&nbsp;www.radiocaicara.com.brTestosterona e ganho de massa muscular: quais são os riscos?&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "Portal Revista Kdea 360",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGx0SDdQd0hWYXpXM0N0RFJwNktPZ0xxRmp2WDF3Y0oxaHBxUUtvbEc0SmViSG1jRk1mN3R5aEZNcHUxUmtZcDdLODZDMzJIbVdDU2JqMGF6YXYydF9xWW1JU3NVNlF2UUwtTmZsQUt1UUpCN3dXa1hRdVlEVlYzUDFKVWNITzVrbVktUDVKZ0MzZFR4anVMVlBIcFFUYzFodTNlN0V4S1o3cGpxY1JITld3c2ZPcDNGM1JYUHlkOUtmdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c168ae496ae1",
       "title": "Novo tratamento do câncer de próstata aumenta chance de paciente manter continência e função sexual - Estadão",
       "published": "2026-10-30T13:52:00+00:00",
-      "summary": "Novo tratamento do câncer de próstata aumenta chance de paciente manter continência e função sexual&nbsp;&nbsp;EstadãoSintomas e tratamento do câncer de próstata&nbsp;&nbsp;G1Câncer de próstata: urologista explica tratamentos e diagnóstico precoce&nbsp;&nbsp;Imirante.comtratamento do câncer de próstata Archives&nbsp;&nbsp;O AntagonistaCâncer de próstata com metástases: estudo aponta ganho de sobrevida com hormonoterapia de segunda geração, e o tempo adicional dos pacientes chama atenção&nbsp;&nb",
+      "summary": "Novo tratamento do câncer de próstata aumenta chance de paciente manter continência e função sexual&nbsp;&nbsp;EstadãoSintomas e tratamento do câncer de próstata&nbsp;&nbsp;G1Novembro Azul: Hospital Moinhos de Vento apresenta nova tecnologia para tratamento do câncer de próstata&nbsp;&nbsp;LeouveCâncer de próstata: urologista explica tratamentos e diagnóstico precoce&nbsp;&nbsp;Imirante.comPEACE-1: tratamento triplo com abiraterona prolonga sobrevida no câncer de próstata metastático&nbsp;&nbsp;",
       "sources": [
         {
           "name": "Estadão",
@@ -438,14 +462,14 @@
       ]
     },
     {
-      "id": "d292517ce5d1",
+      "id": "a1176c6f5b1c",
       "title": "Anvisa aprova cinco novas canetas para tratamento de diabetes e obesidade; veja quais - G1",
       "published": "2026-10-29T07:00:00+00:00",
-      "summary": "Anvisa aprova cinco novas canetas para tratamento de diabetes e obesidade; veja quais&nbsp;&nbsp;G1\"Canetas emagrecedoras serão disponibilizadas de forma responsável no SUS\", diz ministro — Ministério da Saúde&nbsp;&nbsp;Governo FederalAnvisa certifica fábrica chinesa para produzir canetas emagrecedoras&nbsp;&nbsp;Poder360Anvisa aprova 5 novas canetas para contra diabetes e obesidade&nbsp;&nbsp;iG SaúdeAnvisa aprova cinco novas canetas de GLP-1 para tratamento de diabetes e obesidade&nbsp;&nbsp;",
+      "summary": "Anvisa aprova cinco novas canetas para tratamento de diabetes e obesidade; veja quais&nbsp;&nbsp;G1'Canetas emagrecedoras' precisam de descarte adequado depois do uso&nbsp;&nbsp;G1Anvisa certifica fábrica chinesa para produzir canetas emagrecedoras&nbsp;&nbsp;Poder360Anvisa aprova 5 novas canetas para tratamento de diabetes e obesidade&nbsp;&nbsp;Estado de MinasAnvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;Governo Federal",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDNHay12WXI1MkNRSmtHTHY3Vndrc3VRa0c5QmFmVmh2U29JVThzT18tbUZTc2hGWGJMWWhzN0NscW1zZ2pfdzBmSEl2Vnl2d3ZQYXNkREF3UHUwc2pMNlBneUl4NGxhOEoyY0FETGhoUmZrbjJWbzk3amVhTnBFMlY1eTZZNFZCWEhPaXhYOFNOa2dWZUdXcEk0NlhvZDJQeFFWeExGTUVzNl9EU0ZHZVRNN2FkZmVNLUxMQnJIU2dMdC1yMkM3cEpJY0lqTVNaMnc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDNHay12WXI1MkNRSmtHTHY3Vndrc3VRa0c5QmFmVmh2U29JVThzT18tbUZTc2hGWGJMWWhzN0NscW1zZ2pfdzBmSEl2Vnl2d3ZQYXNkREF3UHUwc2pMNlBneUl4NGxhOEoyY0FETGhoUmZrbjJWbzk3amVhTnBFMlY1eTZZNFZCWEhPaXhYOFNOa2dWZUdXcEk0NlhvZDJQeFFWeExGTUVzNl9EU0ZHZVRNN2FkZmVNLUxMQnJIU2dMdC1yMkM3cEpJY0lqTVNaMnfSAeABQVVfeXFMTXNsRVZQYnJKazA0bzNTaFBFSi1Ib1Z0MzFVY2JyVFhpaVZYVHYxZElCUENfTkoybWZHRnF0YUc3TWNZeHUyWnJ5NElPX21pRDFJdzVyRTNrY3IteVdEU1VZb01uZWJHS3VUWnRnWW9ZeGVKQ0c5WHQ0YjMwNzhqcXo2RldvZVhwSXpPZXZ5SkhkeGl4Zm5LT2oyeUhTNzJvMERZWWlCZ0pvR3VMNnlVcl9NTmFPNEVGTS1HNWhieXk2MkllVzlrSS10czZnN01jSDBpWS1CbkpwWUl1OTBLMVI?oc=5"
         }
       ]
     },
@@ -453,7 +477,7 @@
       "id": "b7b9c15ce119",
       "title": "Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa - Estadão",
       "published": "2026-10-28T16:53:00+00:00",
-      "summary": "Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa&nbsp;&nbsp;EstadãoSubir 70 degraus por dia ajuda a proteger o coração&nbsp;&nbsp;Tribuna OnlineMeta-análise com mais de 480 mil pessoas associa subir cerca de 60 degraus por dia a menor risco cardiovascular&nbsp;&nbsp;O POVOReduza uma viagem de elevador por dia e desfrute de inúmeros benefícios incríveis para a saúde.&nbsp;&nbsp;Vietnam.vnSubir de 60 a 70 degraus por dia pode ajudar a proteger o coração&nbs",
       "sources": [
         {
           "name": "Estadão",
