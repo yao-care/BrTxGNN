@@ -66,7 +66,7 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 |------|
 | Mucopolissacaridose (mucopolysaccharidosis) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

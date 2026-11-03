@@ -66,7 +66,7 @@ Todos os candidatos gerados pelo modelo TxGNN para o Oxiconazole que puderam ser
 |------|
 | Nenhum |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

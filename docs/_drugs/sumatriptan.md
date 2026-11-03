@@ -66,7 +66,7 @@ Os candidatos que o modelo TxGNN gerou para o Sumatriptan (pontuação ≥ 0,99)
 |------|
 | Nenhum |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

@@ -66,7 +66,7 @@ O modelo TxGNN não apresenta, para Betahistine, nenhum candidato com pontuaçã
 |------|
 | Hidropisia endolinfática (endolymphatic hydrops) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

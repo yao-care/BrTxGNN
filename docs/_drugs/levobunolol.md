@@ -67,7 +67,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para o Levobunolol
 | glaucoma 1, de ângulo aberto (glaucoma 1, open angle) |
 | glaucoma de ângulo aberto (open angle glaucoma) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

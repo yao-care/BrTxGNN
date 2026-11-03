@@ -68,7 +68,7 @@ Os candidatos do modelo TxGNN para este medicamento (pontuação ≥ 0,99) corre
 | conjuntivite atópica (atopic conjunctivitis) |
 | conjuntivite primaveril (vernal conjunctivitis) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

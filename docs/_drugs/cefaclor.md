@@ -75,7 +75,7 @@ O modelo TxGNN não produziu nenhum candidato com pontuação igual ou superior 
 | amigdalite (tonsillitis) |
 | infecção do trato urinário (urinary tract infection) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

@@ -66,7 +66,7 @@ Todos os candidatos que o modelo TxGNN gerou para Nicotinamide, e que podem ser 
 |------|
 | Acne (acne (disease)) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

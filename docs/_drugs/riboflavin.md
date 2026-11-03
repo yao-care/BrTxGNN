@@ -15,20 +15,20 @@ evidence_level: N/A
 
 # RIBOFLAVIN
 
-## Basic Information
+## Visão Geral Rápida
 
-| Item | Value |
-|------|-------|
+| Item | Conteúdo |
+|------|----------|
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 19 de 322) |
 | Número de Registros | 322 (ativos: 19) |
 | DrugBank ID | [DB00140](https://go.drugbank.com/drugs/DB00140) |
-| Number of Predicted Indications | 1 |
+| Novas indicações previstas | Nenhuma |
 
-## Disclaimer
+## Aviso de isenção de responsabilidade
 
-These predictions are for research purposes only and do not constitute medical advice.
-Clinical validation is required before any clinical application.
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
 
 ---
 
-[← Back to Drug Search](/drugs/)
+[← Voltar à lista de medicamentos](/drugs/)

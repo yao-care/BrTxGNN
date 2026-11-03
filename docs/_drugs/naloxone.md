@@ -15,20 +15,20 @@ evidence_level: N/A
 
 # NALOXONE
 
-## Basic Information
+## Visão Geral Rápida
 
-| Item | Value |
-|------|-------|
+| Item | Conteúdo |
+|------|----------|
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 5) |
 | Número de Registros | 5 (ativos: 3) |
 | DrugBank ID | [DB01183](https://go.drugbank.com/drugs/DB01183) |
-| Number of Predicted Indications | 3 |
+| Novas indicações previstas | Nenhuma |
 
-## Disclaimer
+## Aviso de isenção de responsabilidade
 
-These predictions are for research purposes only and do not constitute medical advice.
-Clinical validation is required before any clinical application.
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
 
 ---
 
-[← Back to Drug Search](/drugs/)
+[← Voltar à lista de medicamentos](/drugs/)

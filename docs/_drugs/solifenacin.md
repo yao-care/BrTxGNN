@@ -66,7 +66,7 @@ Todos os candidatos que o modelo TxGNN gerou para Solifenacin (pontuação ≥ 0
 |------|
 | bexiga hiperativa (overactive bladder (disease)) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

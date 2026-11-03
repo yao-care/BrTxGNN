@@ -15,20 +15,20 @@ evidence_level: N/A
 
 # LINAGLIPTIN
 
-## Basic Information
+## Visão Geral Rápida
 
-| Item | Value |
-|------|-------|
+| Item | Conteúdo |
+|------|----------|
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 20 de 21) |
 | Número de Registros | 21 (ativos: 20) |
 | DrugBank ID | [DB08882](https://go.drugbank.com/drugs/DB08882) |
-| Number of Predicted Indications | 2 |
+| Novas indicações previstas | Nenhuma |
 
-## Disclaimer
+## Aviso de isenção de responsabilidade
 
-These predictions are for research purposes only and do not constitute medical advice.
-Clinical validation is required before any clinical application.
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
 
 ---
 
-[← Back to Drug Search](/drugs/)
+[← Voltar à lista de medicamentos](/drugs/)

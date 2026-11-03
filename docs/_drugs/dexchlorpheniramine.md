@@ -67,7 +67,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Dexchlorpheni
 | urticária alérgica (allergic urticaria) |
 | urticária ao frio (cold urticaria) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

@@ -66,7 +66,7 @@ Todos os candidatos que o modelo TxGNN gerou para o Lemborexant e que puderam se
 |------|
 | Nenhuma |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

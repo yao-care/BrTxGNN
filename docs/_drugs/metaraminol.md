@@ -66,7 +66,7 @@ Os candidatos do modelo TxGNN para o Metaraminol (pontuação ≥ 0,99) correspo
 |------|
 | Transtorno hipotensivo (hypotensive disorder) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

@@ -66,7 +66,7 @@ Os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Cephalexin co
 |------|
 | Artrite bacteriana (bacterial arthritis) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

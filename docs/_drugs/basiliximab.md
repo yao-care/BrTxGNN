@@ -67,7 +67,7 @@ O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior
 |------|
 | Nenhum |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

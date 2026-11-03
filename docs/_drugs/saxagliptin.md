@@ -15,20 +15,20 @@ evidence_level: N/A
 
 # SAXAGLIPTIN
 
-## Basic Information
+## Visão Geral Rápida
 
-| Item | Value |
-|------|-------|
+| Item | Conteúdo |
+|------|----------|
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 4 de 7) |
 | Número de Registros | 7 (ativos: 4) |
 | DrugBank ID | [DB06335](https://go.drugbank.com/drugs/DB06335) |
-| Number of Predicted Indications | 2 |
+| Novas indicações previstas | Nenhuma |
 
-## Disclaimer
+## Aviso de isenção de responsabilidade
 
-These predictions are for research purposes only and do not constitute medical advice.
-Clinical validation is required before any clinical application.
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
 
 ---
 
-[← Back to Drug Search](/drugs/)
+[← Voltar à lista de medicamentos](/drugs/)

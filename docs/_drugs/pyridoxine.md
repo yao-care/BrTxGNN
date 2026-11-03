@@ -67,7 +67,7 @@ O modelo TxGNN não apresenta, para Pyridoxine, nenhum candidato com pontuação
 |------|
 | Anemia por deficiência de piridoxina (pyridoxine deficiency anemia) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

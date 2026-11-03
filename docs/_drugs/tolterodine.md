@@ -66,7 +66,7 @@ Todos os candidatos que o modelo TxGNN gerou para Tolterodine correspondem a uso
 |------|
 | bexiga hiperativa (overactive bladder (disease)) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

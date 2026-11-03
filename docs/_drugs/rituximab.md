@@ -15,20 +15,20 @@ evidence_level: N/A
 
 # RITUXIMAB
 
-## Basic Information
+## Visão Geral Rápida
 
-| Item | Value |
-|------|-------|
+| Item | Conteúdo |
+|------|----------|
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 7 de 8) |
 | Número de Registros | 8 (ativos: 7) |
 | DrugBank ID | [DB00073](https://go.drugbank.com/drugs/DB00073) |
-| Number of Predicted Indications | 10 |
+| Novas indicações previstas | Nenhuma |
 
-## Disclaimer
+## Aviso de isenção de responsabilidade
 
-These predictions are for research purposes only and do not constitute medical advice.
-Clinical validation is required before any clinical application.
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
 
 ---
 
-[← Back to Drug Search](/drugs/)
+[← Voltar à lista de medicamentos](/drugs/)

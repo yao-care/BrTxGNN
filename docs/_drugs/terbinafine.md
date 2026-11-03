@@ -66,7 +66,7 @@ Todos os candidatos que o modelo TxGNN (pontuação ≥ 0,99) gerou para Terbina
 |------|
 | tinha do corpo (tinea corporis) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

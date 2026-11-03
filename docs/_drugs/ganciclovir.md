@@ -68,7 +68,7 @@ O modelo TxGNN não produziu, para o Ganciclovir, nenhum candidato com pontuaç�
 | ceratite por vírus herpes simplex (herpes simplex virus keratitis) |
 | taquicardia ventricular (ventricular tachycardia) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

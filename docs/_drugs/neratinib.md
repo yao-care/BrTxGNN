@@ -69,7 +69,7 @@ Todos os candidatos que o modelo TxGNN gerou para o Neratinib (pontuação ≥ 0
 |------|
 | Nenhuma |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

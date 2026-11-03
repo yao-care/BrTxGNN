@@ -68,7 +68,7 @@ Os candidatos que o modelo TxGNN de aprendizado profundo (pontuação ≥ 0,99) 
 | Tinha do pé (tinea pedis) |
 | Tinha do corpo (tinea corporis) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|

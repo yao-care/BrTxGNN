@@ -68,7 +68,7 @@ O modelo TxGNN não apresentou nenhum candidato com pontuação igual ou superio
 | Amiloidose AL (al amyloidosis) |
 | Amiloidose ATTRV122I (attrv122i amyloidosis) |
 
-## Market information
+## Informações de Comercialização no Brasil
 
 | Registro | Produto | Forma farmacêutica | Situação |
 |------|------|------|------|
