@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "chlorambucil"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
 last_modified_at: 2026-11-03
-description: "Chlorambucil: nova indicação prevista, ALK-positive large B-cell lymphoma (nível de evidência L5). Indicação original: Não consta nos dados locais"
+description: "Chlorambucil: nova indicação prevista, Linfoma de grandes células B ALK-positivo (ALK-positive large B-cell lymphoma) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Chlorambucil
@@ -33,21 +33,21 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-## Chlorambucil: ALK-positive large B-cell lymphoma
+## Chlorambucil: Linfoma de grandes células B ALK-positivo (ALK-positive large B-cell lymphoma)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Clorambucila é um agente alquilante antineoplásico, com registro local na ANVISA sob a categoria "outros antineoplásicos".
-O modelo TxGNN prevê que pode ser eficaz para **leucemia linfocítica crônica/linfoma linfocítico de pequenas células pré-centro germinativo (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)**,
-atualmente com **nenhum ensaio clínico** e **1 publicação** (uma revisão de 2003 sobre manejo da leucemia linfocítica crônica adaptado ao risco) associada a esta direção.
+A clorambucila é um agente alquilante oral, da classe das mostardas nitrogenadas, registrado no Brasil como antineoplásico sob o nome comercial LEUKERAN.
+O modelo TxGNN prevê que ela possa ser útil no **Linfoma de grandes células B ALK-positivo (ALK-positive large B-cell lymphoma)**.
+Até o momento, **nenhum ensaio clínico** e **nenhuma publicação** nos dados compilados para este relatório estudam diretamente essa doença. A previsão se apoia apenas no modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Nova Indicação Prevista | ALK-positive large B-cell lymphoma |
+| Nova Indicação Prevista | Linfoma de grandes células B ALK-positivo (ALK-positive large B-cell lymphoma) |
 | Pontuação de Previsão TxGNN | 0.9961 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
@@ -56,11 +56,9 @@ atualmente com **nenhum ensaio clínico** e **1 publicação** (uma revisão de 
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo o conhecimento farmacológico geral, a clorambucila é um agente alquilante que forma ligações cruzadas no DNA e atua sobre células linfoides em proliferação. Isso torna plausível uma aplicação em doenças linfoproliferativas de células B.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. De modo geral, a clorambucila alquila o DNA, formando ligações cruzadas que impedem a replicação e induzem a morte de células em proliferação. Por isso, teoricamente ela poderia agir sobre células de linfoma B, que se dividem rapidamente.
 
-A leucemia linfocítica crônica (LLC) e o linfoma linfocítico de pequenas células (LLP) são a mesma doença em apresentações diferentes. O subtipo "pré-centro germinativo" caracteriza-se por genes de imunoglobulina não mutados. O único artigo fornecido, uma revisão de 2003, discute a abordagem adaptada ao risco na LLC, mas não demonstra eficácia específica para esse subtipo.
-
-Como a clorambucila já é um agente conhecido na LLC, o resultado não representa um reposicionamento genuíno. A pontuação elevada do TxGNN é apenas uma previsão computacional. Como nenhum estudo citado avalia diretamente a eficácia da clorambucila neste subtipo, o nível de evidência é L5.
+O linfoma de grandes células B ALK-positivo é um tumor raro e agressivo. Não há ensaios clínicos nem literatura que mostrem benefício da clorambucila nessa doença. A relação com um alquilante é apenas conceitual, e a pontuação alta reflete a previsão do modelo, não um resultado clínico. Um alquilante de uso oral e de potência relativamente baixa também pode ser insuficiente para um linfoma agressivo. Isso precisaria ser avaliado antes de qualquer conclusão.
 
 ## Evidências de Ensaios Clínicos
 
@@ -68,11 +66,11 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [12577769](https://pubmed.ncbi.nlm.nih.gov/12577769/) | 2003 | Revisão | Nederlands tijdschrift voor geneeskunde | A LLC de células B é a leucemia mais comum no mundo ocidental e não deve ser considerada indolente. Existem dois subtipos (pré-centro germinativo, com genes de imunoglobulina não mutados, e outro), o que justifica uma abordagem adaptada ao risco. |
+Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
+
+Há 3 registros associados à clorambucila: 1 válido e 2 cancelados. O medicamento consta como comercializado.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -84,33 +82,38 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Citotóxico convencional (agente alquilante, derivado de mostarda nitrogenada) |
-| Risco de Mielossupressão | Alto (a lista de condições de risco inclui neutropenia, leucopenia, trombocitopenia e anemia) |
-| Classificação de Emetogenicidade | Baixa a média |
-| Itens de Monitoramento | Hemograma completo com diferencial, função hepática e renal |
+| Classificação de Citotoxicidade | Citotóxico convencional (agente alquilante, mostarda nitrogenada) |
+| Risco de Mielossupressão | Alto (supressão da medula óssea é um efeito esperado da classe) |
+| Classificação de Emetogenicidade | Baixa a média, conforme a categoria do fármaco |
+| Itens de Monitoramento | Hemograma completo com diferencial, função hepática e função renal |
 | Proteção no Manuseio | Seguir os regulamentos de manuseio de citotóxicos |
+
+Consulte as advertências e precauções na bula para detalhes.
 
 ## Considerações de Segurança
 
-- **Condições de risco registradas na base de conhecimento do modelo (não derivadas da bula)**: epilepsia, trombocitopenia, síndrome nefrótica, neutropenia, agranulocitose, anemia, doença pulmonar intersticial, fibrose pulmonar, lesão hepática induzida por fármacos, leucopenia, linfopenia e leucemia aguda.
-- **Interações Medicamentosas**: 167 interações registradas. Entre as principais:
-  - Gravidade maior: deferiprona e samário (153Sm) lexidronam.
-  - Gravidade moderada: anfotericina B (incluindo formulações lipídicas e lipossomais), cloranfenicol, mercaptopurina, roflumilaste, palifermina e cloreto de estrôncio Sr-89.
+- **Interações Medicamentosas**: foram identificadas 167 interações potenciais. Entre as principais estão:
+  - **Gravidade maior**: deferiprona e samário (153Sm) lexidronam.
+  - **Gravidade moderada**: anfotericina B (incluindo formulações lipídicas e lipossomais), paliferminA, cloranfenicol, mercaptopurina, roflumilaste e cloreto de estrôncio Sr-89.
+  - **Gravidade menor**: levofloxacino.
+  - Outras interações, como varfarina, prednisona e omeprazol, constam sem classificação de gravidade.
 
-As advertências e contraindicações da bula não estavam disponíveis; consulte a bula.
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem estudo que avalie diretamente este subtipo; a única publicação é uma revisão geral. A clorambucila já é um agente estabelecido na LLC, de modo que a previsão agrega pouco como reposicionamento.
+- A previsão tem pontuação TxGNN alta (0,9961), mas não há ensaio clínico nem publicação que estude a clorambucila no linfoma de grandes células B ALK-positivo. O nível de evidência é L5.
 
 **Para prosseguir, é necessário:**
-- Dados de eficácia específicos para o subtipo pré-centro germinativo, com comparação com os tratamentos atuais.
-- Dados do mecanismo de ação.
-- Advertências e contraindicações da bula aprovada pela ANVISA.
-- Plano de monitoramento hematológico e de segurança.
+- Revisão sistemática da literatura sobre o tratamento do linfoma de grandes células B ALK-positivo e o papel de alquilantes.
+- Dados de mecanismo de ação da clorambucila para analisar o vínculo mecanístico com essa doença.
+- Obtenção e análise da bula aprovada pela ANVISA, para completar advertências e contraindicações.
+- Avaliação de dados pré-clínicos ou de casos clínicos antes de qualquer estudo prospectivo.
+- Plano de monitoramento de segurança hematológica, caso a avaliação avance.
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Medroxyprogesterone Acetate
-parent: Apenas Predição do Modelo (L5)
+parent: Evidência Moderada (L3-L4)
 nav_order: 437
-evidence_level: L5
+evidence_level: L3
 indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Medroxyprogesterone Acetate: nova indicação prevista, Breast fibrocystic disease (nível de evidência L5). Indicação original: PROGESTAGENOS SIMPLES"
+description: "Medroxyprogesterone Acetate: nova indicação prevista, Doença fibrocística da mama (breast fibrocystic disease) (nível de evidência L3). Indicação original: PROGESTAGENOS SIMPLES"
 ---
 
 # Medroxyprogesterone Acetate
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **6** 
+Nível de evidência: **L3** | Indicações previstas: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +33,56 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-## Medroxyprogesterone Acetate: Breast fibrocystic disease
+## Medroxyprogesterone Acetate: Doença fibrocística da mama (breast fibrocystic disease)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-O acetato de medroxiprogesterona (MPA) é um progestágeno sintético, registrado no Brasil como progestágeno simples e anticoncepcional.
-O modelo TxGNN prevê que pode ser eficaz para **amenorreia (amenorrhea)**,
-atualmente sem ensaios clínicos registrados, mas com **20 publicações** recuperadas (em sua maioria revisões indiretas, sobre contracepção).
+O acetato de medroxiprogesterona é um progestagênio sintético, com registros no Brasil como progestagênio simples e anticoncepcional.
+O modelo TxGNN prevê que pode ser eficaz para **doença fibrocística da mama (breast fibrocystic disease)**,
+atualmente com **0 ensaios clínicos registrados** e **9 publicações** relacionadas a esta direção, sendo apenas duas delas estudos clínicos pequenos e antigos com o próprio fármaco.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | PROGESTAGENOS SIMPLES; ANTICONCEPCIONAIS |
-| Nova Indicação Prevista | Breast fibrocystic disease |
+| Nova Indicação Prevista | Doença fibrocística da mama (breast fibrocystic disease) |
 | Pontuação de Previsão TxGNN | 0.9995 |
-| Nível de Evidência | L5 |
+| Nível de Evidência | L3 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 8 de 8) |
 | Número de Registros | 8 (ativos: 8) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, o MPA é um progestágeno sintético. Na amenorreia secundária com estrogênio endógeno adequado, o desafio com progestágeno induz sangramento por privação ao transformar o endométrio preparado pelo estrogênio. Trata-se de um uso clínico consolidado, e a justificativa biológica é forte.
+Atualmente, não há dados detalhados sobre o mecanismo de ação. Segundo informações conhecidas, o acetato de medroxiprogesterona é um progestagênio, e mecanisticamente pode ser aplicável à doença fibrocística da mama.
 
-Porém, a literatura recuperada trata principalmente do uso contraceptivo (incluindo a amenorreia como efeito colateral do Depo-Provera), e não do tratamento da amenorreia.
+As alterações fibrocísticas da mama dependem de hormônios. A literatura descreve um quadro de predomínio de estrogênio e deficiência relativa de progesterona, que estimula a proliferação do tecido conjuntivo e do epitélio. Um progestagênio poderia, em teoria, contrapor essa proliferação induzida pelo estrogênio.
 
-Outras previsões do modelo incluem doença fibrocística da mama (L3, com dois relatos clínicos antigos e pequenos sobre o MPA), displasia mamária benigna, endometriose em diferentes localizações e hipoplasia renal. Esta última não tem vínculo mecanístico plausível e parece ser um artefato do modelo. Este relatório foca na previsão de maior pontuação.
+Há, porém, um sinal de cautela: nos estudos sobre terapia de reposição hormonal, o efeito dos progestagênios sobre o tecido mamário é misto e pode ser desfavorável. Além disso, a literatura traz relato de hiperplasia mioepitelial induzida por este fármaco em cadelas da raça beagle. O racional é plausível, mas não está consolidado.
+
+## Evidências de Ensaios Clínicos
+
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Nenhum ensaio clínico está registrado para esta indicação. A literatura recuperada é composta majoritariamente por revisões (tier 3) sobre contracepção hormonal.
-
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [23641480](https://pubmed.ncbi.nlm.nih.gov/23641480/) | 2013 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Contraceptivos injetáveis combinados são método reversível e altamente eficaz; aceitabilidade pode ser limitada por alterações no padrão de sangramento |
-| [18843662](https://pubmed.ncbi.nlm.nih.gov/18843662/) | 2008 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Versão anterior da revisão sobre injetáveis combinados |
-| [8178904](https://pubmed.ncbi.nlm.nih.gov/8178904/) | 1994 | Revisão | Am J Obstet Gynecol | DMPA 150 mg IM a cada 3 meses, com eficácia contraceptiva superior a 99%; aprovado pela FDA em 1992 |
-| [8725701](https://pubmed.ncbi.nlm.nih.gov/8725701/) | 1996 | Revisão | J Reprod Med | Aconselhamento e manejo de efeitos colaterais do DMPA |
-| [8829701](https://pubmed.ncbi.nlm.nih.gov/8829701/) | 1996 | Revisão | Int J Fertil Menopausal Stud | Opções contraceptivas de longa duração, com taxas anuais de gravidez inferiores a 1 por 100 mulheres-ano |
-| [6119259](https://pubmed.ncbi.nlm.nih.gov/6119259/) | 1981 | Revisão | Int J Gynaecol Obstet | Contracepção pós-parto, considerando a amenorreia pós-parto e a lactação |
-| [6141923](https://pubmed.ncbi.nlm.nih.gov/6141923/) | 1984 | Revisão | Drug Intell Clin Pharm | Infertilidade induzida por fármacos |
-| [1604074](https://pubmed.ncbi.nlm.nih.gov/1604074/) | 1992 | Revisão | Rev Med Liege | Contracepção hormonal |
-| [8492647](https://pubmed.ncbi.nlm.nih.gov/8492647/) | 1993 | Revisão | MCN Am J Matern Child Nurs | Depo-Provera |
-| [120837](https://pubmed.ncbi.nlm.nih.gov/120837/) | 1979 | Revisão | IARC Monogr | Avaliação do risco carcinogênico do acetato de medroxiprogesterona |
+| [6241963](https://pubmed.ncbi.nlm.nih.gov/6241963/) | 1983 | Ensaio clínico pequeno, provavelmente não controlado | Rev Chil Obstet Ginecol | Ensaio terapêutico com acetato de medroxiprogesterona na doença fibrocística grave da mama (sem resumo disponível) |
+| [2978834](https://pubmed.ncbi.nlm.nih.gov/2978834/) | 1988 | Série de casos/coorte | Rev Chil Pediatr | Uso do acetato de medroxiprogesterona em adolescentes com doença fibrocística da mama (sem resumo disponível) |
+| [12841885](https://pubmed.ncbi.nlm.nih.gov/12841885/) | 2003 | Coorte/estudo clínico | Climacteric | Compara cinco esquemas de reposição hormonal em mulheres na pós-menopausa com mastopatia fibrocística benigna |
+| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Revisão | Am J Obstet Gynecol | Fisiopatologia: predomínio de estrogênio e deficiência de progesterona; risco de câncer de mama 2 a 4 vezes maior |
+| [3657597](https://pubmed.ncbi.nlm.nih.gov/3657597/) | 1987 | Revisão | Maturitas | Etiologia incerta; anticoncepcionais orais reduzem a incidência da doença; alguns progestagênios causaram hiperplasia mioepitelial em cadelas |
+| [10576236](https://pubmed.ncbi.nlm.nih.gov/10576236/) | 1999 | Coorte | Int J Gynaecol Obstet | Mudanças na densidade mamográfica e novas formações sólidas ou císticas durante diferentes tipos de reposição hormonal |
+| [11379380](https://pubmed.ncbi.nlm.nih.gov/11379380/) | 2001 | Coorte | Climacteric | Citologia por punção aspirativa para acompanhar a proliferação epitelial mamária na reposição hormonal |
+| [11379377](https://pubmed.ncbi.nlm.nih.gov/11379377/) | 2001 | Coorte | Climacteric | Efeito de diferentes esquemas de reposição hormonal sobre a densidade mamográfica |
+| [8603031](https://pubmed.ncbi.nlm.nih.gov/8603031/) | 1996 | Pré-clínico/mecanístico | J Steroid Biochem Mol Biol | Controle do crescimento de câncer de mama e endométrio mediado por receptor de androgênio (indireto) |
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros estão válidos; o medicamento está comercializado.
+Há 8 registros válidos, todos de produtos de ingrediente único.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -93,25 +94,26 @@ Todos os 8 registros estão válidos; o medicamento está comercializado.
 
 ## Considerações de Segurança
 
-- **Contraindicações sugeridas pelo grafo de conhecimento** (relações fármaco-doença do TxGNN/PrimeKG, não texto de bula): hipertensão, insuficiência e doença hepática, doença renal, epilepsia, asma, diabetes mellitus e cetoacidose diabética, osteoporose, lúpus eritematoso sistêmico, hipotireoidismo, doença da vesícula biliar, hipertrigliceridemia, hipercalcemia, transtornos de ansiedade, abuso de substâncias e **carcinoma de mama feminino**.
-- **Interações medicamentosas** (100 registradas; nível moderado nos principais exemplos): antidiabéticos (acarbose, metformina, glimepiridina, clorpropamida, inibidores de SGLT2 como canagliflozina, dapagliflozina e empagliflozina, inibidores de DPP-4 como alogliptina e saxagliptina, agonistas de GLP-1 como semaglutida, liraglutida e dulaglutida, e insulinas), além de aprepitanto, dexametasona e claritromicina.
-- Em relação à doença fibrocística, os dados apontam que o sinal de segurança mamária do MPA em terapia hormonal combinada exige cautela.
+- **Contraindicações (relações de segurança registradas nos dados compilados, não texto de bula)**: hipertensão, insuficiência e doença hepática, doença renal, doença da vesícula biliar, epilepsia, asma, diabetes mellitus e cetoacidose diabética, hipotireoidismo, osteoporose, lúpus eritematoso sistêmico, hipertrigliceridemia, hipercalcemia, transtornos de ansiedade e distímico, abuso de substâncias e carcinoma de mama feminino.
+- **Interações Medicamentosas** (100 interações registradas; de gravidade moderada nas principais): antidiabéticos como acarbose, metformina, glimepirida, clorpropamida, inibidores de SGLT2 (canagliflozina, dapagliflozina, empagliflozina), inibidores de DPP-4 (alogliptina, saxagliptina), agonistas de GLP-1 (liraglutida, semaglutida, dulaglutida, albiglutida) e insulinas; além de aprepitanto, dexametasona e claritromicina.
+- Em relação à mama, a literatura recuperada indica sinal de cautela para progestagênios associados à terapia hormonal combinada.
 
-Consulte a bula para as advertências e contraindicações oficiais, que não estavam disponíveis nos dados compilados.
+Consulte a bula para as advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem forte plausibilidade biológica, mas a evidência é indireta (L4), sem ensaios clínicos, e o fármaco não possui registro vigente no Brasil.
+- A única evidência direta com o fármaco consiste em dois estudos pequenos, antigos, não controlados e em espanhol, sem ensaios clínicos registrados. O restante da literatura é indireto, e há sinal de segurança mamária a ser considerado.
 
 **Para prosseguir, é necessário:**
-- Obter a bula da ANVISA (advertências e contraindicações), atualmente ausente
-- Obter dados de mecanismo de ação (por exemplo, via DrugBank)
-- Realizar busca de literatura específica sobre MPA no tratamento da amenorreia (primária e secundária), e não apenas sobre contracepção
-- Confirmar a situação regulatória atual e a viabilidade de nova submissão, considerando que o medicamento está comercializado, com 8 registros válidos de 8
-- Avaliar o perfil de segurança (mama, hepático, metabólico, ósseo) para a população-alvo
+- Dados do mecanismo de ação do fármaco.
+- Texto de bula com advertências e contraindicações (lacuna de segurança bloqueante).
+- Revisão crítica dos dois estudos clínicos antigos e, se justificável, ensaio controlado e randomizado.
+- Avaliação do risco mamário do progestagênio, especialmente em população com lesões proliferativas.
+- Avaliação da compatibilidade de via de administração e formulação para o novo uso.
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

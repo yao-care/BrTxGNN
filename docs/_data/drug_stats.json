@@ -2,11 +2,11 @@
   "generated": "2026-11-03",
   "total_drugs": 517,
   "level_counts": {
-    "L1": 8,
-    "L2": 19,
+    "L1": 7,
+    "L2": 18,
     "L3": 26,
     "L4": 32,
-    "L5": 388
+    "L5": 390
   },
   "all_drugs": [
     {
@@ -138,7 +138,7 @@
     {
       "name": "Amiodarone",
       "slug": "amiodarone",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -324,7 +324,7 @@
     {
       "name": "Betamethasone",
       "slug": "betamethasone",
-      "level": "L2",
+      "level": "L4",
       "indication_count": 7
     },
     {
@@ -1836,13 +1836,13 @@
     {
       "name": "Medroxyprogesterone Acetate",
       "slug": "medroxyprogesterone_acetate",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 6
     },
     {
       "name": "Mefenamic Acid",
       "slug": "mefenamic_acid",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 6
     },
     {
@@ -2424,7 +2424,7 @@
     {
       "name": "Progesterone",
       "slug": "progesterone",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 6
     },
     {

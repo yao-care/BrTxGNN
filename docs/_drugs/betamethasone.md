@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Betamethasone
-parent: Evidência Alta (L1-L2)
+parent: Evidência Moderada (L3-L4)
 nav_order: 127
-evidence_level: L2
+evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-11-03
 monitor_inn: "BETAMETHASONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-description: "Betamethasone: nova indicação prevista, Alopecia mucinosa (nível de evidência L2). Indicação original: Não consta nos dados locais"
+description: "Betamethasone: nova indicação prevista, Mucinose folicular (alopecia mucinosa) (nível de evidência L4). Indicação original: Não consta nos dados locais"
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **7** 
+Nível de evidência: **L4** | Indicações previstas: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,62 +33,48 @@ Nível de evidência: **L2** | Indicações previstas: **7**
 
 </div>
 
-## Betamethasone: Alopecia mucinosa
+## Betamethasone: Mucinose folicular (alopecia mucinosa)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Betametasona é um glicocorticoide potente, registrado no Brasil em formulações tópicas e sistêmicas (corticosteroides, incluindo associações medicamentosas).
-O modelo TxGNN prevê que pode ser eficaz para **alopecia areata (alopecia areata)**,
-atualmente com **6 ensaios clínicos** e **20 publicações** apoiando esta direção.
+Betametasona é um glicocorticoide sintético, usado em formulações tópicas e sistêmicas.
+O modelo TxGNN prevê que pode ser eficaz para **Mucinose folicular (alopecia mucinosa)**,
+atualmente com **0 ensaios clínicos** e **1 publicação** (série de casos de 1964) apoiando esta direção.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Nova Indicação Prevista | Alopecia mucinosa |
+| Nova Indicação Prevista | Mucinose folicular (alopecia mucinosa) |
 | Pontuação de Previsão TxGNN | 0.9997 |
-| Nível de Evidência | L2 |
+| Nível de Evidência | L4 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 172 de 497) |
 | Número de Registros | 497 (ativos: 172) |
-| Decisão Recomendada | Proceed with Guardrails |
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a betametasona é um glicocorticoide potente, que suprime a resposta imune e inflamatória. Sua eficácia como corticosteroide tópico e sistêmico já é reconhecida nas indicações originais.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a betametasona pertence à classe dos glicocorticoides, que exercem ação anti-inflamatória e imunossupressora.
 
-A alopecia areata é uma doença autoimune em que células T atacam os folículos pilosos, com colapso do privilégio imune folicular. Como a betametasona suprime essa resposta imune mediada por células T, a previsão é biologicamente coerente. Os corticosteroides já são uma classe estabelecida de tratamento para essa condição, em esquemas tópicos, intralesionais e de minipulso oral.
+A mucinose folicular envolve depósito de mucina e inflamação ao redor dos folículos pilosos, processo que corticosteroides podem, em tese, reduzir. Esse é o elo mecanístico plausível com o uso do fármaco.
 
-É importante notar que o "reposicionamento" aqui é, em grande parte, uma extensão de indicação dentro da mesma classe terapêutica, já que corticosteroides tópicos são o tratamento padrão para a doença em placas.
+Ressalta-se que o respaldo é frágil: restringe-se a uma série de casos e revisão terapêutica de 1964, sem dados controlados nem estudo específico com betametasona.
 
 ## Evidências de Ensaios Clínicos
 
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Phase 2 | Concluído | 60 | Compara azatioprina semanal em pulso com minipulso oral de betametasona em alopecia areata moderada a grave |
-| [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Phase 4 | Concluído | 50 | Latanoprosta tópica vs. corticosteroide tópico (betametasona) em alopecia areata localizada; betametasona como comparador |
-| [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | N/A | Ainda não recrutando | 60 | Combinação tópica de metformina 30%, sinvastatina 2% e valerato de betametasona 0,1%; sem resultados |
-| [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Phase 4 | Recrutando | 250 | Alopecia cicatricial centrífuga central (não é alopecia areata); relevância apenas indireta |
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Meta-análise em rede | Cochrane Database Syst Rev | Compara tratamentos para alopecia areata (imunossupressores, estimulantes de crescimento, imunoterapia de contato) |
-| [39393548](https://pubmed.ncbi.nlm.nih.gov/39393548/) | 2025 | RCT | J Am Acad Dermatol | Entrega transdérmica por microagulhas de betametasona composta em alopecia areata, buscando reduzir a dor da injeção intralesional |
-| [34400956](https://pubmed.ncbi.nlm.nih.gov/34400956/) | 2021 | RCT | Iran J Pharm Res | Pulso oral de betametasona (3 mg/semana), metotrexato e combinação em alopecia areata grave, duplo-cego e controlado por placebo |
-| [36257912](https://pubmed.ncbi.nlm.nih.gov/36257912/) | 2022 | RCT | Dermatol Ther | Latanoprosta vs. minoxidil e betametasona, isolados e combinados, em alopecia areata |
-| [40510104](https://pubmed.ncbi.nlm.nih.gov/40510104/) | 2025 | RCT | Cureus | Ciclosporina oral vs. minipulso oral de betametasona (60 pacientes) |
-| [32594786](https://pubmed.ncbi.nlm.nih.gov/32594786/) | 2022 | RCT | J Dermatolog Treat | Betametasona vs. triancinolona intralesional em alopecia areata localizada, desenho intrapaciente |
-| [40519428](https://pubmed.ncbi.nlm.nih.gov/40519428/) | 2025 | Estudo clínico | Cureus | Eficácia e segurança de minipulsos orais de betametasona em alopecia areata moderada a grave |
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Revisão | Dermatol Pract Concept | Eficácia, recidiva e efeitos adversos da pulsoterapia com corticosteroides em alopecia areata |
-| [38623137](https://pubmed.ncbi.nlm.nih.gov/38623137/) | 2024 | Estudo comparativo | Cureus | Dipropionato de betametasona tópico vs. minoxidil em alopecia areata |
-| [27746635](https://pubmed.ncbi.nlm.nih.gov/27746635/) | 2016 | Estudo comparativo | Ann Dermatol | Ciclosporina oral vs. minipulso de betametasona em alopecia areata |
+| [14164963](https://pubmed.ncbi.nlm.nih.gov/14164963/) | 1964 | Série de casos / Revisão | Archives of Dermatology | Relato de três casos de mucinose folicular (alopecia mucinosa) e revisão das terapias da época; sem resumo disponível |
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros válidos e o medicamento é comercializado. Os principais:
+Há 497 registros no total, dos quais 172 válidos e 325 cancelados. A tabela lista alguns dos principais.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -123,38 +109,25 @@ Há 20 registros válidos e o medicamento é comercializado. Os principais:
 | 102350713 | DIPROPIONATO DE BETAMETASONA + SULFATO DE GENTAMICINA | EMS S/A | Ativo |
 | 102350736 | MALEATO DE DEXCLORFENIRAMINA + BETAMETASONA | EMS S/A | Ativo |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
-
 ## Considerações de Segurança
 
-- **Contraindicações sugeridas pelo grafo de conhecimento (não provêm da bula)**: hipertensão, insuficiência cardíaca congestiva, epilepsia, hiperglicemia, sarampo, ceratite por herpes simples, deficiências hipofisárias (incluindo hipopituitarismo, síndrome de Sheehan e deficiência de hormônio do crescimento), hipogonadismo hipogonadotrófico (incluindo síndrome de Kallmann) e defeitos do ciclo da ureia (deficiência de carbamoil-fosfato sintetase I, citrulinemia, hiperargininemia).
-- **Interações Medicamentosas**: foram identificadas 100 interações; entre as listadas, a de nível **grave** é com **adalimumabe**. Interações de nível moderado incluem zidovudina, isotretinoína, acarbose, acebutolol, acetazolamida, cetorolaco, nifedipino, ibuprofeno, etinilestradiol, albiglutida, aldesleucina, alefacepte, alentuzumabe, fluvoxamina e fosamprenavir. Interações leves incluem formoterol e salbutamol.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total. Entre as listadas, destaca-se a de nível **grave** com adalimumabe. As de nível moderado incluem zidovudina, isotretinoína, acarbose, acebutolol, acetazolamida, cetorolaco, nifedipino, ibuprofeno, etinilestradiol, fluvoxamina e fosamprenavir; as de nível leve incluem formoterol e salbutamol.
 
-Os dados de advertências e contraindicações da bula não estão disponíveis; consulte a bula para informações de segurança completas.
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Há um ensaio de Phase 2 concluído com minipulso oral de betametasona, além de vários RCTs publicados (minipulso oral, intralesional e tópico) que sustentam o uso em alopecia areata. Porém, em vários ensaios a betametasona é apenas comparador.
+- A única evidência é uma série de casos antiga (1964), sem ensaios clínicos nem dados controlados, apesar da pontuação TxGNN elevada.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula na ANVISA para advertências e contraindicações, hoje ausentes
-- Confirmar o mecanismo de ação via DrugBank
-- Verificar a situação regulatória: não há registro vigente no Brasil, sendo necessário novo registro ou regularização antes de qualquer uso
-- Definir via de administração e esquema (tópico, intralesional ou minipulso oral) e plano de monitoramento de eventos adversos de corticosteroides (glicemia, pressão arterial, supressão do eixo hipotálamo-hipófise-adrenal)
-- Avaliar o risco das interações, em especial com adalimumabe
+- Dados de mecanismo de ação da betametasona
+- Revisão sistemática da literatura recente sobre corticosteroides na mucinose folicular
+- Definição da via de administração adequada (tópica, intralesional ou sistêmica)
+- Informações de segurança da bula (advertências e contraindicações) para a avaliação de segurança
 
-### Outras indicações previstas (resumo)
-
-As demais previsões têm sustentação fraca e recomendação **Hold**, exceto onde indicado:
-
-- **Alopecia mucinosa** (L4): apenas série de casos de 1964; sem dados controlados.
-- **Eflúvio telógeno** (L4): fundamento fraco, pois a doença costuma ser autolimitada e não inflamatória; só há um relato de caso.
-- **Foliculite decalvante de Quinquaud** (L4): tratamento de primeira linha é antibacteriano; apenas relatos de caso.
-- **Síndrome nefrótica esteroide-sensível idiopática** (L3, "Research Question"): plausibilidade forte, mas a única evidência é um estudo pediátrico de 1981; prednisona/prednisolona são o padrão, sem vantagem clara para a betametasona.
-- **Demais previsões** (alopecia com deficiência de anticorpos, hipotricose hereditária com vesículas cutâneas recorrentes, síndrome de alopecia-deficiência intelectual-hipogonadismo hipergonadotrófico, atriquia com lesões papulares, síndrome nefrótica esteroide-resistente esporádica) (L5): apenas previsão do modelo, sem estudos; em alguns casos o mecanismo é contraintuitivo ou há preocupação de segurança.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

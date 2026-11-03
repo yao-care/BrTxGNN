@@ -38,9 +38,8 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 ## Resumo em Uma Frase
 
-Clomifeno (clomifene) foi originalmente registrado na ANVISA na categoria "outros produtos para uso em ginecologia e obstetrícia", sendo usado na indução da ovulação.
-O modelo TxGNN prevê que pode ser eficaz para **46,XY distúrbio do desenvolvimento sexual por defeito de esteroidogênese testicular (46,XY disorder of sex development due to testicular steroidogenesis defect)**, a previsão de maior pontuação, mas **sem nenhum ensaio clínico ou publicação** que a apoie.
-Porém, trata-se da confirmação de um uso já estabelecido, e não de um reposicionamento novo.
+Clomifeno é um modulador seletivo do receptor de estrogênio, usado em ginecologia para estimular a ovulação.
+O modelo TxGNN prevê que pode ser eficaz para **Distúrbio do desenvolvimento sexual 46,XY por defeito da esteroidogênese testicular (46,XY disorder of sex development due to testicular steroidogenesis defect)**, mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção. Trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
 
@@ -49,52 +48,28 @@ Porém, trata-se da confirmação de um uso já estabelecido, e não de um repos
 | Indicação Original | Não consta nos dados locais |
 | Nova Indicação Prevista | 46,XY disorder of sex development due to testicular steroidogenesis defect |
 | Pontuação de Previsão TxGNN | 0.9990 |
-| Nível de Evidência | L5 (para a previsão de maior pontuação) |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 8) |
 | Número de Registros | 8 (ativos: 2) |
 | Decisão Recomendada | Hold |
 
-> **Observação:** entre as 10 previsões avaliadas, a de maior pontuação (46,XY DSD) não tem evidências. Ela é analisada nas seções seguintes, pois é a única com dados clínicos.
-
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo informações farmacológicas conhecidas, o clomifeno é um modulador seletivo do receptor de estrogênio (SERM), com ligação ao receptor de estrogênio alfa (ESR1). Ele bloqueia o *feedback* negativo do estrogênio no hipotálamo, aumentando a pulsatilidade do GnRH e a secreção de FSH e LH, o que estimula o desenvolvimento folicular e a ovulação.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, pela farmacologia geral, que o clomifeno atua sobre o receptor de estrogênio alfa (ESR1). Ao bloquear o *feedback* negativo no hipotálamo, tende a aumentar a liberação de gonadotrofinas (LH e FSH).
 
-**Para a previsão de maior pontuação (46,XY DSD por defeito de esteroidogênese testicular):** o vínculo mecanístico é fraco e especulativo. O defeito é uma falha enzimática primária da gônada, e aumentar as gonadotrofinas dificilmente o corrigiria. Não há evidências clínicas.
-
-**Para anovulação:** o mecanismo descrito acima é o fundamento do uso já consolidado do clomifeno. A anovulação é o núcleo da indicação já conhecida do fármaco, portanto trata-se de confirmação e não de reposicionamento. As demais previsões (septos vaginais, síndrome do X frágil em portadoras, BPES e trissomias/tetrassomias parciais) não têm plausibilidade farmacológica evidente e provavelmente refletem similaridades que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, não evidência biológica, sem relação causal. Em algumas (X frágil, BPES), há apenas um elo indireto com insuficiência ovariana, que o clomifeno não trataria na causa.
+A relação com o defeito da esteroidogênese testicular é frágil. Esse defeito é um problema enzimático primário da gônada, e aumentar as gonadotrofinas dificilmente corrigiria a falha na síntese de esteroides. A pontuação alta (0,9990) reflete apenas a proximidade no modelo computacional, não um mecanismo comprovado. A ligação mecanística é, portanto, especulativa.
 
 ## Evidências de Ensaios Clínicos
 
-
-| Número do Ensaio | Fase | Status | Participantes | Principais Achados |
-|---------|------|------|------|---------|
-| [NCT00478504](https://clinicaltrials.gov/study/NCT00478504) | Phase 4 | Concluído | 159 | Ensaio randomizado, duplo-cego, cruzado, comparando letrozol com citrato de clomifeno na indução da ovulação em mulheres com síndrome dos ovários policísticos (SOP); avalia taxas de gravidez, gestações múltiplas e nascidos vivos |
-| [NCT02544776](https://clinicaltrials.gov/study/NCT02544776) | Não aplicável | Concluído | 60 | Anlodipino com Clomid em pacientes com SOP: o anlodipino parece promissor para melhorar o fluxo sanguíneo uterino e ovariano, o tamanho do folículo pré-ovulatório, a progesterona na fase lútea média e o desfecho gestacional |
-| [NCT07398924](https://clinicaltrials.gov/study/NCT07398924) | Não aplicável | Concluído | 90 | Estradiol vaginal versus guaifenesina oral em mulheres em indução da ovulação com citrato de clomifeno, avaliando espessura endometrial, muco cervical e taxa de gravidez clínica (o clomifeno é o agente de fundo) |
-
-Para as demais previsões, atualmente não há ensaios clínicos relacionados registrados.
+Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Evidências da Literatura
 
-Para **anovulação** (10 das 20 publicações, priorizando as de maior nível de evidência):
-
-| PMID | Ano | Tipo | Periódico | Principais Achados |
-|------|-----|------|------|---------|
-| [29273245](https://pubmed.ncbi.nlm.nih.gov/29273245/) | 2018 | Ensaio randomizado fatorial (classificado como revisão sistemática Cochrane) | Lancet | Gonadotrofinas versus clomifeno, com ou sem inseminação intrauterina, em mulheres com anovulação normogonadotrófica e falha ao clomifeno (M-OVIN) |
-| [22128296](https://pubmed.ncbi.nlm.nih.gov/22128296/) | 2012 | RCT | Human Reproduction | Clomifeno versus FSH em baixa dose como tratamento de primeira linha na anovulação associada à SOP |
-| [35351379](https://pubmed.ncbi.nlm.nih.gov/35351379/) | 2022 | Revisão sistemática/meta-análise | Reprod Biomed Online | Influência da etnia nos resultados da indução da ovulação com clomifeno na SOP |
-| [14576245](https://pubmed.ncbi.nlm.nih.gov/14576245/) | 2003 | Revisão sistemática/meta-análise | BMJ | Eficácia da metformina na SOP |
-| [12917943](https://pubmed.ncbi.nlm.nih.gov/12917943/) | 2003 | Revisão sistemática (Cochrane) | Cochrane Database Syst Rev | Fármacos sensibilizadores da insulina na SOP |
-| [18487613](https://pubmed.ncbi.nlm.nih.gov/18487613/) | 2008 | Análise de subgrupos de RCT | Human Reproduction | Avalia se a adição de metformina ao clomifeno aumenta a gravidez em subgrupos de mulheres com SOP |
-| [17137400](https://pubmed.ncbi.nlm.nih.gov/17137400/) | 2006 | Revisão | Drugs | Inibidores de aromatase na indução da ovulação; o clomifeno é a primeira linha há quase meio século, mas tem efeitos antiestrogênicos no endométrio e no muco cervical e risco de gestação múltipla |
-| [21406133](https://pubmed.ncbi.nlm.nih.gov/21406133/) | 2010 | Revisão | BMJ Clin Evid | Visão geral da infertilidade feminina e suas causas, incluindo falha ovulatória |
-| [31296604](https://pubmed.ncbi.nlm.nih.gov/31296604/) | 2019 | Revisão | J Clin Pathol | Investigação e manejo da subfertilidade |
-| [8521770](https://pubmed.ncbi.nlm.nih.gov/8521770/) | 1995 | Revisão (tipo não classificado) | Drugs | O clomifeno é geralmente a primeira escolha na amenorreia; menotropinas ou GnRH quando falha |
-
-Para as demais previsões, atualmente não há literatura relacionada.
+Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
+
+Os registros locais indicam o medicamento como comercializado, com 2 registros válidos e 6 cancelados, num total de 8 registros.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -109,27 +84,24 @@ Para as demais previsões, atualmente não há literatura relacionada.
 
 ## Considerações de Segurança
 
-- **Contraindicações (baseadas no grafo de conhecimento TxGNN, não no texto da bula):** transtornos de ansiedade, transtornos neuróticos e distimia; doença hepática; doença da vesícula biliar; hipotireoidismo (incluindo mixedema e hipotireoidismo congênito); insuficiência adrenal (doença de Addison); tromboflebite; síndrome dos ovários policísticos; endometriose; câncer de endométrio/corpo uterino; tireotoxicose/hipertireoidismo/doença de Graves; tumores hipofisários; cisto ovariano; síndrome de hiperestimulação ovariana; distúrbios visuais e cegueira.
-- **Interações medicamentosas:** interação **grave (Major)** com **bexaroteno**. Também há dados farmacológicos de ligação ao receptor de estrogênio alfa (ESR1) e ao canal VRAC, sem classificação de gravidade.
-- **Monitoramento sugerido para anovulação:** gestação múltipla, hiperestimulação ovariana e limite de duração do tratamento.
+- **Interações Medicamentosas**: foi identificada uma interação de nível **maior** com **bexaroteno**. Também constam interações farmacológicas com o receptor de estrogênio alfa e com o canal VRAC, que descrevem alvos do fármaco e não interações clínicas com outros medicamentos.
+- **Condições com risco de contraindicação (dados de relações fármaco-doença, não de bula)**: doença hepática, doença da vesícula biliar, hipotireoidismo, hipertireoidismo, insuficiência adrenal, tromboflebite, síndrome dos ovários policísticos, endometriose, câncer de endométrio, tumores da hipófise, cisto ovariano, síndrome de hiperestimulação ovariana, transtornos de visão e transtornos de ansiedade ou neuróticos. Esses itens devem ser confirmados na bula aprovada.
 
-Consulte a bula para as advertências e contraindicações oficiais, que não estavam disponíveis nos dados compilados para este relatório.
+Consulte a bula para as advertências e contraindicações oficiais, que não estavam disponíveis nos dados compilados.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold** (para a previsão de maior pontuação, 46,XY DSD e as demais previsões sem evidências)
-**Anovulação: Proceed with Guardrails**, ressalvando que se trata de uso já estabelecido, e não de reposicionamento novo.
+**Decisão: Hold**
 
 **Justificativa:**
-- A previsão de maior pontuação (0,9990) é puramente computacional, sem ensaios, sem literatura e com mecanismo implausível; deve permanecer em espera (nível L5).
-- Para anovulação, há um ensaio de Fase 4 concluído, duplo-cego e randomizado, além de várias revisões sistemáticas. Porém, as evidências são principalmente comparativas ou em subpopulações com SOP, e ambos os registros brasileiros estão cancelados.
+- Não há ensaios clínicos nem publicações para esta indicação, o nível de evidência é L5 e o mecanismo proposto é fraco e especulativo. A pontuação alta do modelo, isoladamente, não sustenta o avanço.
 
 **Para prosseguir, é necessário:**
-- Obter a bula da ANVISA com advertências e contraindicações (lacuna de dados bloqueante para a triagem de segurança)
-- Obter dados detalhados do mecanismo de ação (MOA), por exemplo via DrugBank
-- Verificar a situação regulatória atual do clomifeno no Brasil e a existência de produtos vigentes
-- Definir plano de monitoramento para gestação múltipla, hiperestimulação ovariana e limite de duração do tratamento
-- Não avançar com as previsões sem evidências (46,XY DSD, septos vaginais, X frágil, BPES, trissomias/tetrassomias) sem estudos pré-clínicos ou clínicos que sustentem um mecanismo plausível
+- Obter e analisar a bula aprovada na ANVISA (advertências e contraindicações).
+- Levantar dados de mecanismo de ação em fontes como o DrugBank.
+- Realizar revisão sistemática da literatura sobre o defeito da esteroidogênese testicular e o uso de moduladores do receptor de estrogênio.
+- Avaliar, com especialistas em endocrinologia, a plausibilidade biológica antes de qualquer estudo pré-clínico ou clínico.
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

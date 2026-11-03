@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-03
 monitor_inn: "fluocinolone acetonide"
 predicted_indications: ["lichen planus pemphigoides"]
-description: "Fluocinolone Acetonide: nova indicação prevista, Lichen planus pemphigoides (nível de evidência L5). Indicação original: DESMELANIZANTES"
+description: "Fluocinolone Acetonide: nova indicação prevista, pênfigoide líquen plano (lichen planus pemphigoides) (nível de evidência L5). Indicação original: DESMELANIZANTES"
 ---
 
 # Fluocinolone Acetonide
@@ -33,48 +33,38 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-## Fluocinolone Acetonide: Lichen planus pemphigoides
+## Fluocinolone Acetonide: pênfigoide líquen plano (lichen planus pemphigoides)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Fluocinolona acetonida é um corticoide tópico sintético, registrado no Brasil como desmelanizante, como medicamento de ação no aparelho auditivo e como glicocorticoide tópico em associação medicamentosa.
-O modelo TxGNN prevê que pode ser eficaz para **líquen plano atrófico anular (annular atrophic lichen planus)**.
-Atualmente há **0 ensaios clínicos** e **0 publicações** nos dados compilados para esta direção, de modo que a previsão se apoia apenas no modelo.
+Fluocinolona acetonida é um corticosteroide sintético, registrado no Brasil em produtos de uso tópico e otológico.
+O modelo TxGNN prevê que pode ser eficaz para **pênfigoide líquen plano (lichen planus pemphigoides)**,
+mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão do modelo.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | DESMELANIZANTES; GLICOCORTICOIDES TOPICOS - ASSOCIACAO MEDICAMENTOSA; MEDICAMENTOS COM ACAO NO APARELHO AUDITIVO |
-| Nova Indicação Prevista | Lichen planus pemphigoides |
+| Nova Indicação Prevista | pênfigoide líquen plano (lichen planus pemphigoides) |
 | Pontuação de Previsão TxGNN | 0.9934 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 9 de 9) |
 | Número de Registros | 9 (ativos: 9) |
 | Decisão Recomendada | Hold |
 
-Outras previsões do modelo, com o mesmo nível de evidência (L5) e igualmente sem estudos associados: líquen plano hipertrófico (0.9942), líquen plano pigmentoso (0.9942) e líquen plano penfigoide (0.9934).
-
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação deste fármaco nos dados compilados. Segundo informações farmacológicas conhecidas, a fluocinolona acetonida é um corticoide que atua sobre o receptor de glicocorticoide (NR3C1), com efeito anti-inflamatório e imunossupressor. É usada em cremes para condições cutâneas inflamatórias e pruriginosas, e em implantes intravítreos (por exemplo, para edema macular diabético e uveíte posterior não infecciosa, aprovados pelo FDA).
+Os dados compilados para este relatório não trazem informações detalhadas sobre o mecanismo de ação. Pela farmacologia conhecida, a fluocinolona acetonida age no receptor de glicocorticoide (NR3C1), o que lhe confere ação anti-inflamatória e imunossupressora, usada em condições inflamatórias e pruriginosas da pele. Também existem implantes intravítreos com este princípio ativo em outros países, para edema macular diabético e uveíte posterior não infecciosa.
 
-O líquen plano é uma dermatose inflamatória mediada por linfócitos T, e os corticoides tópicos são abordagem padrão de primeira linha no líquen plano em geral. A plausibilidade mecanística é, portanto, razoável: supressão da inflamação dirigida por células T.
+O pênfigoide líquen plano associa características do líquen plano a bolhas subepidérmicas mediadas por autoanticorpos (BP180). Corticosteroides, tópicos ou sistêmicos, são pilar do tratamento de doenças bolhosas autoimunes, então o mecanismo da classe é plausível.
 
-Ressalvas: trata-se de uma previsão para um subtipo específico, sem estudos com este fármaco nos dados disponíveis. A relação com a indicação original (desmelanizante, em associações com hidroquinona e tretinoína) é apenas contextual. No líquen plano pigmentoso, o benefício sobre a pigmentação já estabelecida é incerto. No líquen plano penfigoide, a gravidade pode exigir terapia sistêmica.
-
-## Evidências de Ensaios Clínicos
-
-Atualmente não há ensaios clínicos relacionados registrados.
-
-## Evidências da Literatura
-
-Atualmente não há literatura relacionada.
+Porém, não há ensaios nem literatura nos dados compilados para a fluocinolona acetonida nessa doença, e casos graves podem exigir terapia sistêmica. A compatibilidade de via de administração ainda não foi avaliada. A evidência é somente a previsão do modelo.
 
 ## Informações de Comercialização no Brasil
 
-Os 9 registros são válidos (9 de 9); o medicamento está comercializado.
+Os dados compilados indicam 9 registros válidos, e a situação de mercado é "Comercializado".
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -84,26 +74,28 @@ Os 9 registros são válidos (9 de 9); o medicamento está comercializado.
 | Registro 102350930 | Hidroquinona + Tretinoína + Fluocinolona acetonida | Não informada | Desmelanizantes |
 | Registro 154230164 | Fluocinolona acetonida + sulfato de polimixina B + sulfato de neomicina | Não informada | Glicocorticoides tópicos - associação medicamentosa |
 
+Há mais 4 registros além dos cinco listados acima.
+
 ## Considerações de Segurança
 
-- **Contraindicações segundo o grafo de conhecimento (não é texto de bula)**: o grafo de conhecimento do TxGNN (PrimeKG) associa o fármaco a contraindicações em: queimadura solar, ceratite por herpes simples, infecção por herpes simples, herpes-zóster geniculado, insuficiência adrenocortical, doença de Addison, glaucoma, atrofia da pele, telangiectasia (incluindo telangiectasia hemorrágica hereditária), doença capilar, doença vascular periférica (incluindo claudicação intermitente e doença arterial periférica), eczema atópico, dermatite, infecção fúngica ocular, tuberculose ocular e úlcera de córnea micótica. Atenção especial à **atrofia da pele**, relevante porque a indicação prevista é uma forma atrófica de líquen plano.
-- **Interações Medicamentosas**: foram identificadas 9 interações na base DDInter, todas com nível de gravidade não classificado: dexametasona, cetirizina, citalopram, ácido valproico, paracetamol, digoxina, levotiroxina, ácido alendrônico e clonazepam. Além disso, o fármaco atua sobre o receptor de glicocorticoide.
+Os dados de advertências e contraindicações da bula não estavam disponíveis; consulte a bula para essas informações.
 
-Consulte a bula para advertências e contraindicações oficiais, que não estavam disponíveis nos dados compilados.
+- **Contraindicações relacionadas a doenças (dados de relações entre fármaco e doença, não texto de bula)**: queimadura solar, ceratite por herpes simples, infecção por herpes simples, herpes-zóster geniculado, insuficiência adrenocortical, doença de Addison, glaucoma, atrofia da pele, telangiectasia (inclusive telangiectasia hemorrágica hereditária), doenças capilares, doença vascular periférica, claudicação intermitente, doença arterial periférica, eczema atópico, dermatite, infecção fúngica ocular, tuberculose ocular e úlcera corneana micótica.
+- **Interações medicamentosas**: foram identificadas 10 entradas, entre elas dexametasona, cetirizina, citalopram, ácido valproico, paracetamol, digoxina, levotiroxina, ácido alendrônico e clonazepam, todas com nível de gravidade não classificado. Além disso, o fármaco liga-se ao receptor de glicocorticoide, seu alvo farmacológico.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- O medicamento está comercializado, com 9 registros válidos de 9.
+- A previsão (pontuação 0,9934) não tem ensaios clínicos nem publicações que estudem diretamente a doença, portanto o nível de evidência é L5.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar as bulas na ANVISA (advertências e contraindicações), pois a triagem de segurança não pôde ser concluída.
-- Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
-- Realizar revisão sistemática da literatura sobre corticoides tópicos no líquen plano e seus subtipos.
-- Avaliar a compatibilidade de via de administração e forma farmacêutica, e a disponibilidade de produto com registro ativo no Brasil.
-- Avaliar o risco de atrofia cutânea com corticoide potente na forma atrófica anular.
+- Revisão da literatura e busca de relatos de caso sobre corticosteroides tópicos nessa doença.
+- Avaliação da compatibilidade entre as vias de administração dos produtos registrados e o tratamento da doença.
+- Obtenção das advertências e contraindicações da bula na ANVISA para a triagem de segurança.
+- Dados detalhados do mecanismo de ação.
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
