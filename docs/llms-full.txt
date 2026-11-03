@@ -15,6 +15,7 @@ Os níveis de evidência vão de L1 (evidência clínica mais robusta) a L5 (ape
 - `/` Reposicionamento de Medicamentos — BrTxGNN - Sistema de predição de reposicionamento de medicamentos para o Brasil usando IA. Previsões baseadas no modelo TxGNN de Harvard.
 - `/drugs/` Medicamentos — Lista de medicamentos analisados pelo BrTxGNN para reposicionamento.
 - `/evidence-high/` Evidência Alta (L1-L2) — Candidatos a reposicionamento de medicamentos L1-L2 no BrTxGNN, apoiados por ensaios clínicos ou revisões sistemáticas.
+- `/clinical-trial-evidence/` Medicamentos no Brasil com ensaios para nova indicação — Medicamentos registrados na ANVISA cuja nova indicação prevista pelo TxGNN tem evidência de ensaios clínicos (L1-L2): indicação, nível e ensaios.
 - `/evidence-medium/` Evidência Moderada (L3-L4) — Candidatos a reposicionamento de medicamentos L3-L4 no BrTxGNN, respaldados por evidências observacionais ou pré-clínicas.
 - `/evidence-low/` Apenas Predição do Modelo (L5) — Candidatos L5 no BrTxGNN: apenas predição do modelo, ainda sem evidências clínicas ou de literatura.
 - `/methodology/` Metodologia — Metodologia técnica do BrTxGNN para previsão de reposicionamento de medicamentos.

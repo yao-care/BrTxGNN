@@ -32,6 +32,8 @@ Esta lista baseia-se nos dados de registro de [ANVISA](https://www.gov.br/anvisa
 
 <!-- local-home:end -->
 
+Seleção: [Medicamentos no Brasil com evidência de ensaios clínicos para uma nova indicação]({{ '/clinical-trial-evidence/' | relative_url }}) (L1–L2, com a indicação prevista e o número de ensaios registrados citados).
+
 ## Estatísticas
 
 | Métrica | Valor |

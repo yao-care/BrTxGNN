@@ -12,6 +12,8 @@ description: "Candidatos a reposicionamento de medicamentos L1-L2 no BrTxGNN, ap
 Candidatos que podem ser priorizados para avaliação clínica
 </p>
 
+Quais destes medicamentos têm evidência de ensaios para a nova indicação prevista e quantos ensaios registrados são citados? Veja [Medicamentos no Brasil com evidência de ensaios clínicos para uma nova indicação]({{ '/clinical-trial-evidence/' | relative_url }}).
+
 ---
 
 ## Critérios
