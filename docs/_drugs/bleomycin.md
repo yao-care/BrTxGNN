@@ -4,17 +4,17 @@ title: Bleomycin
 parent: Apenas Predição do Modelo (L5)
 nav_order: 145
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 monitor_inn: "bleomycin"
-predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "reticulum cell sarcoma", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-10-31
-description: "Bleomycin: nova indicação prevista, Neoplasia da cauda equina (cauda equina neoplasm) (nível de evidência L5). Indicação original: ANTIBIOTICOS ANTINEOPLASICOS"
+predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
+last_modified_at: 2026-11-03
+description: "Bleomycin: nova indicação prevista, Cauda equina neoplasm (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Bleomycin
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **6** 
+Nível de evidência: **L5** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,21 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-## Bleomicina: antibiótico antineoplásico (agente citotóxico) → neoplasia da cauda equina (cauda equina neoplasm)
+## Bleomycin: Cauda equina neoplasm
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-A bleomicina é um antibiótico antineoplásico citotóxico, que causa quebras na fita de DNA das células tumorais.
-O modelo TxGNN prevê que ela pode ser eficaz para **neoplasia da cauda equina (cauda equina neoplasm)**, mas não há **nenhum ensaio clínico** e apenas **1 publicação** indireta (sobre germinoma do sistema nervoso central) associada a esta previsão.
+A bleomicina é um antibiótico antineoplásico citotóxico, registrado no Brasil nessa classe.
+O modelo TxGNN prevê que pode ser eficaz para **tumor astrocítico adulto (adult astrocytic tumour)**, com **nenhum ensaio clínico registrado** e **14 publicações** recuperadas, em sua maioria antigas, de pequeno porte e não controladas.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | ANTIBIOTICOS ANTINEOPLASICOS; ANTINEOPLASICOS CITOTOXICOS |
-| Nova Indicação Prevista | Neoplasia da cauda equina (cauda equina neoplasm) |
-| Pontuação de Previsão TxGNN | 0,9930 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Cauda equina neoplasm |
+| Pontuação de Previsão TxGNN | 0.9930 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 11) |
 | Número de Registros | 11 (ativos: 5) |
@@ -55,11 +55,11 @@ O modelo TxGNN prevê que ela pode ser eficaz para **neoplasia da cauda equina (
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se que a bleomicina é um antibiótico antineoplásico, cuja ação citotóxica envolve a quebra das fitas de DNA. Em princípio, isso poderia atingir células tumorais de diferentes origens.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a bleomicina é um antibiótico citotóxico cuja ação antitumoral decorre de quebras na fita de DNA das células tumorais.
 
-Porém, a ligação com a neoplasia da cauda equina é fraca. A única publicação recuperada trata de radioterapia para germinoma do sistema nervoso central (SNC) recidivado após quimioterapia que incluía bleomicina (esquema PEB). Trata-se de outro cenário tumoral e de um estudo de coorte retrospectivo, que não avalia a bleomicina nesta doença. Além disso, a bleomicina penetra mal no SNC, o que limita o argumento mecanístico para tumores espinhais ou do SNC.
+Em princípio, essa citotoxicidade poderia atingir células de glioma, e o fármaco já foi estudado nesse contexto: há um ensaio de fase I com infusão intratumoral contínua em glioblastoma recorrente, um estudo de fase II associando inibidores de calmodulina à bleomicina em gliomas de alto grau e regimes antigos de radioterapia com procarbazina, bleomicina e CCNU em astrocitomas supratentoriais de alto grau.
 
-A pontuação do modelo é alta, mas ela reflete apenas a previsão computacional, sem estudo real que a sustente.
+Há ressalvas importantes: a barreira hematoencefálica limita a entrega sistêmica, de modo que seria necessária administração local, e a toxicidade pulmonar da bleomicina é uma preocupação de segurança.
 
 ## Evidências de Ensaios Clínicos
 
@@ -69,7 +69,16 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [9440744](https://pubmed.ncbi.nlm.nih.gov/9440744/) | 1998 | Coorte | Journal of Clinical Oncology | Avaliação retrospectiva da radioterapia como terapia de resgate em germinoma do SNC recidivado após quimioterapia primária com carboplatina, etoposídeo e bleomicina (PEB). Não testa a bleomicina na neoplasia da cauda equina. |
+| [6164465](https://pubmed.ncbi.nlm.nih.gov/6164465/) | 1981 | Estudo clínico randomizado | Cancer | 118 pacientes com astrocitoma grau III–IV; a radioterapia pós-operatória confirmou valor, sem potencialização da sobrevida pela bleomicina |
+| [1698540](https://pubmed.ncbi.nlm.nih.gov/1698540/) | 1990 | Estudo clínico (fase II) | Cancer Research | Inibidores de calmodulina associados à bleomicina em gliomas de alto grau |
+| [12416544](https://pubmed.ncbi.nlm.nih.gov/12416544/) | 2002 | Fase I | J Neuro-Oncol | Viabilidade de bleomicina intratumoral contínua em glioblastoma recorrente |
+| [77898](https://pubmed.ncbi.nlm.nih.gov/77898/) | 1978 | Estudo clínico | J Neurosurg | Radioterapia com procarbazina, bleomicina e CCNU em astrocitomas supratentoriais de alto grau (20 pacientes, comparados a controles retrospectivos) |
+| [10933484](https://pubmed.ncbi.nlm.nih.gov/10933484/) | 1999 | Coorte | Ital J Neurol Sci | Quimioterapia local (bleomicina e mitoxantrona via reservatório de Ommaya) com cirurgias repetidas em glioblastoma |
+| [2430685](https://pubmed.ncbi.nlm.nih.gov/2430685/) | 1986 | Relato de caso | Cancer Drug Delivery | Bleomicina intraperitoneal para ascite maligna após derivação em astrocitoma hipotalâmico pediátrico |
+| [55988](https://pubmed.ncbi.nlm.nih.gov/55988/) | 1975 | In vitro | Neurol Surg (No shinkei geka) | Efeito inibitório da bleomicina sobre células de astrocitoma e meningioma em cultura |
+| [6184967](https://pubmed.ncbi.nlm.nih.gov/6184967/) | 1982 | Série clínica | Acta Neurochir | Complicações da radioquimioterapia com BCNU-bleomicina em tumores cerebrais malignos |
+| [4118423](https://pubmed.ncbi.nlm.nih.gov/4118423/) | 1972 | Relato de segurança | Am J Clin Pathol | Pneumonite intersticial associada à terapia com bleomicina |
+| [25749900](https://pubmed.ncbi.nlm.nih.gov/25749900/) | 2015 | Coorte | Child's Nerv Syst | Resultados e fatores prognósticos em tumores intracranianos de células germinativas não germinomatosos |
 
 ## Informações de Comercialização no Brasil
 
@@ -94,28 +103,30 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | Classificação de Citotoxicidade | Citotóxico convencional (antibiótico antineoplásico) |
 | Risco de Mielossupressão | Consulte as advertências e precauções na bula |
 | Classificação de Emetogenicidade | Consulte as advertências e precauções na bula |
-| Itens de Monitoramento | Hemograma completo, função hepática e renal; atenção à função pulmonar, dada a toxicidade pulmonar descrita na literatura |
+| Itens de Monitoramento | Função pulmonar (a toxicidade pulmonar é o risco mais citado na literatura recuperada); demais parâmetros conforme a bula |
 | Proteção no Manuseio | Seguir os regulamentos de manuseio de citotóxicos |
 
 ## Considerações de Segurança
 
-- **Interações Medicamentosas**: foram identificadas 205 interações no total. As primeiras listadas incluem levofloxacino (menor) e, sem classificação de gravidade definida, pantoprazol, palonossetrona, lactulose, aprepitanto, morfina, omeprazol, lansoprazol, vancomicina, prednisona e hidrocortisona.
-- **Toxicidade pulmonar**: a literatura recuperada para as demais previsões descreve pneumonite intersticial e fibrose pulmonar associadas à bleomicina.
+- **Toxicidade pulmonar**: a literatura recuperada descreve pneumonite intersticial associada à bleomicina, preocupação relevante para qualquer novo uso.
+- **Interações medicamentosas**: foram identificadas 205 interações no total. As listadas incluem levofloxacino (menor) e, com gravidade não classificada, pantoprazol, palonosetrona, lactulose, aprepitanto, morfina, omeprazol, lansoprazol, vancomicina, prednisona, hidrocortisona, manitol, cloreto de potássio, prednisolona, ranitidina, granisetrona, ondansetrona, famotidina, claritromicina e metoclopramida.
 
-Para as demais informações de segurança, consulte a bula.
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem estudo que avalie a bleomicina diretamente na neoplasia da cauda equina; a única publicação trata de outro tumor do SNC. O nível de evidência é L5, e a baixa penetração da bleomicina no SNC enfraquece o racional mecanístico.
+- Apesar da pontuação alta do modelo, as evidências diretas são antigas, de pequeno porte e majoritariamente não controladas; o único estudo randomizado não mostrou potencialização da sobrevida pela bleomicina, e não há ensaios clínicos registrados.
+- A barreira hematoencefálica e a toxicidade pulmonar limitam a viabilidade.
 
 **Para prosseguir, é necessário:**
-- Dados detalhados do mecanismo de ação (MOA).
-- Informações da bula (advertências e contraindicações) para a triagem de segurança.
-- Estudos pré-clínicos ou clínicos que avaliem a bleomicina, possivelmente com administração local, em tumores da cauda equina ou espinhais.
-- Avaliação da penetração no SNC e do risco de toxicidade pulmonar.
+- Dados do mecanismo de ação e de penetração no sistema nervoso central
+- Avaliação de vias de administração local (intratumoral) e sua compatibilidade com as apresentações registradas
+- Estudos modernos e controlados em tumores astrocíticos
+- Informações completas de segurança da bula (advertências e contraindicações)
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

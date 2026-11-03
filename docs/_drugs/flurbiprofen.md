@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: Apenas Predição do Modelo (L5)
 nav_order: 324
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "FLURBIPROFEN"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-10-31
-description: "Flurbiprofen: nova indicação prevista, displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (nível de evidência L5). Indicação original: Não consta nos dados …"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
+last_modified_at: 2026-11-03
+description: "Flurbiprofen: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (nível de evidência L5)."
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-Nível de evidência: **L5** | Indicações previstas: **9** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 </div>
 
-## Flurbiprofeno: anti-inflamatório não esteroidal (inibidor de COX) → displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
+## Flurbiprofen: Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Flurbiprofeno é um anti-inflamatório não esteroidal (AINE) que inibe a ciclo-oxigenase e é usado em doenças reumáticas.
-O modelo TxGNN prevê que pode ser eficaz para **displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)**,
+Flurbiprofeno é um anti-inflamatório não esteroide (AINE) que atua inibindo a ciclo-oxigenase.
+O modelo TxGNN prevê que pode ser eficaz para **Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)**,
 mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta direção; trata-se apenas de uma previsão computacional.
 
 ## Visão Geral Rápida
@@ -47,8 +47,8 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | Não consta nos dados locais |
-| Nova Indicação Prevista | displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
-| Pontuação de Previsão TxGNN | 0,9999 |
+| Nova Indicação Prevista | Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
+| Pontuação de Previsão TxGNN | 0.9999 |
 | Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 10) |
 | Número de Registros | 10 (ativos: 6) |
@@ -56,42 +56,36 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando esta d
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Sabe-se, de forma geral, que o flurbiprofeno pertence à classe dos AINEs, que reduzem a formação de prostaglandinas por meio da inibição da COX-1 e da COX-2.
+Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Pela classe conhecida, o flurbiprofeno é um AINE, cujo efeito principal é reduzir a síntese de prostaglandinas por inibição da COX, aliviando dor e inflamação.
 
-Para esta previsão, não foi identificado um vínculo mecanístico plausível. A displasia acromesomélica tipo Hunter-Thompson é uma displasia esquelética genética rara, causada por perda de função do gene *GDF5* (CDMP1), com origem no desenvolvimento e sem natureza inflamatória. A inibição da COX não deve corrigir o defeito de base.
+A displasia acromesomélica tipo Hunter-Thompson é uma doença genética rara do esqueleto, associada à perda de função do gene GDF5 (CDMP1), de origem do desenvolvimento e não inflamatória. A inibição da COX não deve corrigir esse defeito de base. Não foi identificado vínculo mecanístico plausível.
 
-A pontuação alta do TxGNN parece refletir proximidade com fenótipos esqueléticos e articulares nos dados do modelo, e não uma justificativa biológica. Por isso, a previsão deve ser tratada com cautela.
+A pontuação alta do TxGNN parece refletir proximidade computacional com fenótipos esqueléticos e articulares, e não uma justificativa biológica. A previsão deve ser tratada com cautela, no máximo como hipótese para alívio sintomático de dor, sem respaldo de dados.
 
 ## Informações de Comercialização no Brasil
 
-Os dados compilados indicam situação **comercializado**, com 6 registros no total: 2 válidos e 4 cancelados. Os detalhes de cada registro (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados compilados.
+O flurbiprofeno consta como **comercializado** no Brasil, com 10 registros no total, dos quais 6 estão válidos e 4 cancelados. Os dados compilados não trazem o detalhamento individual dos registros (número, nome comercial e forma farmacêutica), por isso não é possível listá-los em tabela.
 
 ## Considerações de Segurança
 
-- **Contraindicações**: os dados compilados não trazem texto de bula com contraindicações. Consulte a bula para informações de segurança.
-- **Interações Medicamentosas**: foram identificadas 100 interações no total. Entre as listadas, a maioria é de gravidade moderada, por exemplo:
-  - Ácido acetilsalicílico
-  - Corticosteroides (hidrocortisona, dexametasona, betametasona, triancinolona, budesonida)
-  - Metformina
-  - Glimepirida e clorpropamida
-  - Mesalazina e balsalazida
-  - Aprepitanto
-  - Citrato e bicarbonato de potássio
-
-  Interações de gravidade leve incluem famotidina, cimetidina e linaclotida.
+- **Contraindicações e condições de risco (relações de segurança do fármaco, não texto de bula):** hipertensão, doença renal, doença hepática, doença da vesícula biliar, úlcera péptica (incluindo ativa), infarto do miocárdio, trombose coronariana, doenças cardiovasculares e cardíacas, distúrbios de coagulação sanguínea, hemoglobinopatias, uso/dependência de substâncias e piureter.
+- **Interações medicamentosas** (100 interações registradas; principais exemplos):
+  - Moderadas: ácido acetilsalicílico, corticosteroides (hidrocortisona, dexametasona, betametasona, budesonida, triamcinolona), metformina, glimepirida, clorpropamida, aprepitanto, mesalazina, balsalazida, citrato e bicarbonato de potássio, e alguns laxantes/preparos intestinais (picossulfato, sulfato de sódio, polietilenoglicol com eletrólitos).
+  - Leves: famotidina, cimetidina, linaclotida.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem publicações sobre esta doença, e não existe vínculo mecanístico plausível; a previsão baseia-se apenas na pontuação do modelo (nível de evidência L5).
+- Não há ensaios clínicos nem literatura para esta doença, nenhum vínculo mecanístico plausível foi identificado e o perfil de segurança do AINE (cardiovascular, renal, gastrointestinal) exige cautela em uma doença de origem genética do desenvolvimento.
 
 **Para prosseguir, é necessário:**
-- Evidência pré-clínica ou clínica que relacione a inibição da COX à fisiopatologia da doença
-- Dados de mecanismo de ação do fármaco
-- Texto de bula com advertências e contraindicações
-- Avaliação da relevância clínica de um tratamento apenas sintomático em uma doença genética do desenvolvimento
+- Dados de mecanismo de ação do flurbiprofeno e uma hipótese biológica que relacione a COX à via GDF5/CDMP1
+- Estudos pré-clínicos ou observacionais que avaliem diretamente esta doença
+- Advertências e contraindicações extraídas da bula aprovada pela ANVISA
+- Detalhamento dos registros locais (apresentações e formas farmacêuticas)
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

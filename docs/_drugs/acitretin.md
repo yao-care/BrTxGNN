@@ -5,10 +5,10 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 24
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "acitretin"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
-description: "Acitretin: nova indicação prevista, Acne (acne (disease)) (acne (disease)) (nível de evidência L3). Indicação original: CERATOLITICOS E CERATOPLASTICOS"
+description: "Acitretin: nova indicação prevista, Acne (acne (disease)) (nível de evidência L3). Indicação original: CERATOLITICOS E CERATOPLASTICOS"
 ---
 
 # Acitretin
@@ -33,7 +33,7 @@ Nível de evidência: **L3** | Indicações previstas: **4**
 
 </div>
 
-## Acitretin: Acne (acne (disease)) (acne (disease))
+## Acitretin: Acne (acne (disease))
 {: .text-alpha }
 
 ## Resumo em Uma Frase
@@ -46,7 +46,7 @@ O modelo TxGNN prevê que pode ser eficaz para **acne (acne (disease))**, mas as
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | CERATOLITICOS E CERATOPLASTICOS |
-| Nova Indicação Prevista | Acne (acne (disease)) (acne (disease)) |
+| Nova Indicação Prevista | Acne (acne (disease)) |
 | Pontuação de Previsão TxGNN | 0.9994 |
 | Nível de Evidência | L3 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 2 de 4) |

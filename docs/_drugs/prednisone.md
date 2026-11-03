@@ -4,17 +4,17 @@ title: Prednisone
 parent: Evidência Moderada (L3-L4)
 nav_order: 547
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-11-03
-description: "Prednisone: nova indicação prevista, Alopecia areata (Alopecia Areata) (nível de evidência L3). Indicação original: Hormônios corticosteroides / Glicocorticoides sistêmicos"
 monitor_inn: "Prednisone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
+description: "Prednisone: nova indicação prevista, Alopecia areata (nível de evidência L3). Indicação original: Não consta nos dados locais"
 ---
 
 # Prednisone
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L3** | Indicações previstas: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,67 +33,57 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Prednisona: De glicocorticoide sistêmico para alopecia areata
+## Prednisone: Alopecia areata
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Prednisona é um glicocorticoide sistêmico (hormônio corticosteroide), registrado na ANVISA como "glicocorticoides sistêmicos" e "hormônios corticosteroides".
-O modelo TxGNN prevê que pode ser eficaz para **alopecia areata (Alopecia Areata)**,
-atualmente com **nenhum ensaio clínico registrado** e **20 publicações** recuperadas nesta direção, em sua maioria relatos e séries de casos antigos, além de alguns estudos recentes de combinação.
-
----
+Prednisona é um glicocorticoide sistêmico, com registros no Brasil na classe de hormônios corticosteroides.
+O modelo TxGNN prevê que pode ser eficaz para **Alopecia areata (alopecia areata)**,
+atualmente com **nenhum ensaio clínico registrado** e **20 publicações** relacionadas a esta direção, em sua maioria relatos e séries de casos mais antigos, além de um ensaio randomizado recente de combinação.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hormônios corticosteroides / Glicocorticoides sistêmicos |
-| Nova Indicação Prevista | Alopecia areata (Alopecia Areata) |
-| Pontuação de Previsão TxGNN | 0,9999 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Alopecia areata |
+| Pontuação de Previsão TxGNN | 0.9999 |
 | Nível de Evidência | L3 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 22 de 65) |
 | Número de Registros | 65 (ativos: 22) |
 | Decisão Recomendada | Proceed with Guardrails |
 
----
-
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no material compilado. Segundo informações conhecidas, a prednisona é um glicocorticoide sistêmico com ação anti-inflamatória e imunossupressora, sua utilização em doenças inflamatórias e autoimunes está bem estabelecida e, mecanisticamente, pode ser aplicável à alopecia areata.
+Atualmente, não há dados detalhados sobre o mecanismo de ação da prednisona nos dados compilados para este relatório. Sabe-se, porém, que ela é um glicocorticoide sistêmico, que suprime a ativação de linfócitos T e a sinalização de citocinas pró-inflamatórias, como o interferon-gama.
 
-A alopecia areata é uma doença autoimune mediada por células T: linfócitos T CD8+ citotóxicos atacam o folículo piloso, que perdeu seu privilégio imune. A prednisona suprime a ativação de células T e a sinalização de citocinas pró-inflamatórias (por exemplo, interferon-gama), o que oferece um mecanismo plausível.
+A alopecia areata é uma doença autoimune mediada por linfócitos T: células T CD8+ citotóxicas atacam o folículo piloso, que perdeu seu privilégio imunológico. Suprimir essa resposta imune é, portanto, um mecanismo plausível para a prednisona.
 
-O uso clínico é antigo, mas há recidiva após a suspensão e efeitos adversos sistêmicos que limitam sua utilização. As evidências são principalmente séries antigas sem controle e relatos de pulsoterapia, somadas a estudos recentes de combinação (metotrexato com ou sem prednisona em baixa dose; baricitinibe com prednisona em baixa dose).
-
----
+O uso clínico em alopecia areata é antigo, mas as recaídas após a suspensão e os efeitos adversos sistêmicos limitam sua utilização. A base de evidências é formada sobretudo por séries não controladas e relatos de pulsoterapia, além de estudos recentes de combinação (metotrexato com ou sem prednisona em baixa dose; baricitinibe com prednisona em baixa dose).
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
----
-
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [36884234](https://pubmed.ncbi.nlm.nih.gov/36884234/) | 2023 | RCT (desenho a confirmar) | JAMA Dermatology | Metotrexato isolado vs. metotrexato + prednisona em baixa dose em alopecia areata totalis ou universalis, estudo duplo-cego em duas etapas |
-| [1444500](https://pubmed.ncbi.nlm.nih.gov/1444500/) | 1992 | Estudo randomizado e controlado | Archives of Dermatology | 32 pacientes: redução gradual de prednisona por 6 semanas seguida de minoxidil 2% tópico ou veículo, comparado a estudo aberto com 48 pacientes |
-| [20804894](https://pubmed.ncbi.nlm.nih.gov/20804894/) | 2010 | Coorte/estudo clínico | Annales de Dermatologie et de Vénéréologie | Avaliação da eficácia e segurança de prednisona oral em pulso mensal |
-| [41958306](https://pubmed.ncbi.nlm.nih.gov/41958306/) | 2026 | Série de casos retrospectiva | JEADV | Baricitinibe com prednisona em baixa dose na alopecia areata muito grave |
-| [37467740](https://pubmed.ncbi.nlm.nih.gov/37467740/) | 2023 | Série de casos | Clin Exp Dermatol | Oito casos de alopecia areata muito grave com melhora importante com baricitinibe e corticoide em baixa dose |
-| [38650498](https://pubmed.ncbi.nlm.nih.gov/38650498/) | 2024 | Coorte de mundo real | Ital J Dermatol Venereol | Comorbidades, padrões de tratamento e carga econômica de pacientes hospitalizados por alopecia areata na Itália |
-| [791152](https://pubmed.ncbi.nlm.nih.gov/791152/) | 1976 | Seguimento de coorte | Archives of Dermatology | 18 pacientes tratados com prednisona em dias alternados: resposta inicial, mas benefício de longo prazo pouco expressivo e muitos efeitos adversos |
-| [1444509](https://pubmed.ncbi.nlm.nih.gov/1444509/) | 1992 | Revisão | Archives of Dermatology | Revisão de terapias, eficácia, segurança e mecanismo; comparações entre estudos limitadas pela heterogeneidade de desenho |
-| [8996277](https://pubmed.ncbi.nlm.nih.gov/8996277/) | 1997 | A classificar | J Am Acad Dermatol | Ciclosporina sistêmica com prednisona em baixa dose na alopecia areata grave crônica |
-| [24326561](https://pubmed.ncbi.nlm.nih.gov/24326561/) | 2013 | Relato de caso | J Investig Dermatol Symp Proc | Resposta clínica à combinação de ciclosporina e prednisona em paciente com alopecia areata grave |
-
----
+| [36884234](https://pubmed.ncbi.nlm.nih.gov/36884234/) | 2023 | Ensaio randomizado (desenho a confirmar) | JAMA Dermatology | Metotrexato isolado versus metotrexato com prednisona em baixa dose em alopecia areata total ou universal, em duas etapas, duplo-cego |
+| [1444500](https://pubmed.ncbi.nlm.nih.gov/1444500/) | 1992 | Ensaio randomizado controlado | Archives of Dermatology | 32 pacientes: redução progressiva de prednisona por 6 semanas seguida de minoxidil 2% tópico ou veículo |
+| [1444509](https://pubmed.ncbi.nlm.nih.gov/1444509/) | 1992 | Revisão | Archives of Dermatology | Revisão de terapias, eficácia, segurança e mecanismo; difícil comparar estudos devido à heterogeneidade |
+| [20804894](https://pubmed.ncbi.nlm.nih.gov/20804894/) | 2010 | Coorte | Annales de Dermatologie et de Vénéréologie | Prednisona oral em pulso mensal: avaliação de eficácia e segurança |
+| [38650498](https://pubmed.ncbi.nlm.nih.gov/38650498/) | 2024 | Coorte de mundo real | Italian Journal of Dermatology and Venereology | Perfil de pacientes hospitalizados com alopecia areata na Itália: comorbidades, tratamentos e custos |
+| [41958306](https://pubmed.ncbi.nlm.nih.gov/41958306/) | 2026 | Série de casos retrospectiva | JEADV | Baricitinibe com prednisona em baixa dose em alopecia areata muito grave |
+| [37467740](https://pubmed.ncbi.nlm.nih.gov/37467740/) | 2023 | Série de casos | Clinical and Experimental Dermatology | Oito casos de alopecia areata muito grave com melhora importante com baricitinibe e corticoide em baixa dose |
+| [791152](https://pubmed.ncbi.nlm.nih.gov/791152/) | 1976 | Seguimento de coorte | Archives of Dermatology | 18 pacientes tratados com prednisona em dias alternados: benefício a longo prazo não considerado substancial, com vários efeitos adversos |
+| [4571041](https://pubmed.ncbi.nlm.nih.gov/4571041/) | 1973 | Coorte/estudo imunológico | Archives of Dermatology | Estudos imunológicos e tratamento com prednisona |
+| [8996277](https://pubmed.ncbi.nlm.nih.gov/8996277/) | 1997 | Estudo clínico | Journal of the American Academy of Dermatology | Ciclosporina sistêmica com prednisona em baixa dose na alopecia areata crônica grave |
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 20 registros válidos; abaixo estão os 5 principais.
+Há 65 registros no total, dos quais 22 válidos e 43 cancelados. Abaixo, os principais registros válidos.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -128,52 +118,25 @@ Foram encontrados 20 registros válidos; abaixo estão os 5 principais.
 | 103700448 | PREDNISONA | LABORATÓRIO TEUTO BRASILEIRO S/A | Cancelado |
 | 103920080 | PREDCORT | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
-
----
-
 ## Considerações de Segurança
 
-- **Contraindicações (derivadas do grafo de conhecimento, não da bula)**: o grafo de conhecimento associa à prednisona contraindicação com hipertensão, epilepsia, hiperglicemia, insuficiência cardíaca congestiva, queratite por herpes simples, sarampo, deficiências do ciclo da ureia (como citrulinemia e hiperargininemia) e deficiências hormonais hipofisárias (hipopituitarismo, deficiência de hormônio do crescimento, hipogonadismo hipogonadotrófico, síndrome de Kallmann, síndrome de Sheehan).
-- **Interações medicamentosas**: foram identificadas 100 interações, e as 20 listadas incluem:
-  - **Maior**: adalimumabe.
-  - **Moderada**: zidovudina, isotretinoína, acarbose, acebutolol, acetazolamida, cetorolaco, nifedipino, ibuprofeno, etinilestradiol, butalbital, albiglutida, aldesleucina, alefacepte, alentuzumabe, aliscireno, abametapir (tópico), toxoide tetânico.
-  - **Menor**: formoterol, salbutamol.
-- **Efeitos adversos descritos na literatura sobre alopecia areata**: acne, obesidade, opacidades do cristalino e hipertensão leve com o uso sistêmico prolongado, além de recidiva após a suspensão.
+- **Interações Medicamentosas**: foram identificadas 100 interações no total. Entre as listadas, a de maior gravidade é com **adalimumabe (Major)**. Interações de gravidade moderada incluem zidovudina, isotretinoína, acarbose, acetazolamida, cetorolaco, nifedipino, ibuprofeno, etinilestradiol, butalbital, albiglutida, aldesleucina, alefacepte, alentuzumabe e aliscireno; formoterol e salbutamol têm gravidade menor.
+- **Condições a considerar com cautela** (relações de contraindicação nos dados compilados, não texto de bula): hipertensão, epilepsia, hiperglicemia, insuficiência cardíaca congestiva, ceratite por herpes simples, sarampo, hipopituitarismo e deficiências hipofisárias, além de alguns distúrbios do ciclo da ureia.
 
-Consulte a bula para as advertências e contraindicações oficiais.
-
----
+As advertências e contraindicações da bula não estavam disponíveis nos dados compilados; consulte a bula para informações completas de segurança.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- O mecanismo é plausível e o uso clínico é antigo, mas as evidências são majoritariamente séries de casos e estudos não controlados (L3), sem ensaios registrados, com recidiva após suspensão e toxicidade sistêmica. Não há registro vigente no Brasil, o que impõe uma etapa regulatória adicional.
+- Há uso clínico antigo e estudos recentes de combinação em alopecia areata, com mecanismo imunológico plausível. Porém, não há ensaios clínicos registrados, a maior parte da literatura é de séries não controladas, e recaídas e efeitos adversos sistêmicos limitam o uso. Os estudos citados tratam diretamente da doença, mas o nível permanece L3.
 
 **Para prosseguir, é necessário:**
-- Confirmar o desenho do estudo de 2023 (PMID 36884234); se for um RCT de fase 2, o nível de evidência poderia ser reavaliado.
-- Obter advertências e contraindicações da bula na ANVISA, hoje ausentes.
-- Obter dados detalhados do mecanismo de ação (MOA) no DrugBank.
-- Definir esquema posológico (pulso, baixa dose, associações) e plano de monitoramento de segurança (pressão arterial, glicemia, infecções, densidade óssea).
-- Avaliar a situação regulatória: o medicamento é comercializado no país, com 20 registros válidos.
-
----
-
-### Outras indicações previstas (resumo)
-
-| Posição | Indicação | Pontuação TxGNN | Evidência | Recomendação |
-|------|------|------|------|------|
-| 2 | Alopecia mucinosa | 0,9999 | L5 | Hold |
-| 3 | Eflúvio telógeno | 0,9999 | L5 | Hold |
-| 4 | Foliculite decalvante de Quinquaud | 0,9999 | L5 | Hold |
-| 5 | Alopecia com deficiência de anticorpos | 0,9999 | L5 | Hold |
-| 6 | Hipotricose hereditária com vesículas cutâneas recorrentes | 0,9999 | L5 | Hold |
-| 7 | Síndrome alopecia–deficiência intelectual–hipogonadismo hipergonadotrófico | 0,9999 | L5 | Hold |
-| 8 | Atriquia com lesões papulares | 0,9995 | L5 | Hold |
-| 9 | Tenossinovite | 0,9980 | L4 | Questão de pesquisa |
-| 10 | Prolapso da glândula lacrimal | 0,9966 | L5 | Hold |
+- Confirmar o desenho do estudo randomizado de 2023 (PMID 36884234) e, se for ensaio de fase 2/3, reavaliar o nível de evidência.
+- Obter as advertências e contraindicações da bula na ANVISA.
+- Complementar os dados de mecanismo de ação (DrugBank).
+- Definir um plano de monitoramento de segurança (pressão arterial, glicemia, infecções) e de estratégia para recaída após a suspensão.
 
 ## Aviso de isenção de responsabilidade
 
