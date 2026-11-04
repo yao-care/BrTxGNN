@@ -24,22 +24,35 @@ Usando inteligência artificial para descobrir novos usos para medicamentos exis
 
 Este site publica relatórios de **{{ site.data.drug_stats.total_drugs }}** medicamentos que constam nos dados de registro de [ANVISA](https://www.gov.br/anvisa/) (Brasil).
 
-Relatórios por nível de evidência: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+Conjunto de dados: [ANVISA: DADOS_ABERTOS_MEDICAMENTOS.csv](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv); é baixado e comparado automaticamente toda semana (às segundas-feiras). Detalhes: [Fontes de Dados]({{ '/sources/' | relative_url }}).
+
+Relatórios por nível de evidência:
+
+| Nível de evidência | Relatórios | Proporção |
+|---|---|---|
+| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+
+12 pares medicamento–doença previstos neste site não aparecem em nenhum outro dos 30 sites TxGNN.
 
 ### Medicamentos com maior nível de evidência neste site
 
 | Medicamento | Nível de evidência |
 |---|---|
 | [Busulfan](/drugs/busulfan/) | L1 |
-| [Lanadelumab](/drugs/lanadelumab/) | L1 |
-| [Hydrocortisone](/drugs/hydrocortisone/) | L1 |
-| [Hydrocortisone Acetate](/drugs/hydrocortisone-acetate/) | L1 |
-| [Icatibant](/drugs/icatibant/) | L1 |
-| [Progesterone](/drugs/progesterone/) | L1 |
 | [Potassium](/drugs/potassium/) | L1 |
-| [Tizanidine](/drugs/tizanidine/) | L1 |
 | [Ketorolac](/drugs/ketorolac/) | L1 |
 | [Tacrolimus](/drugs/tacrolimus/) | L1 |
+| [Acetylcysteine](/drugs/acetylcysteine/) | L2 |
+| [Diazepam](/drugs/diazepam/) | L2 |
+| [Ledipasvir](/drugs/ledipasvir/) | L2 |
+| [Polidocanol](/drugs/polidocanol/) | L2 |
+| [Clozapine](/drugs/clozapine/) | L2 |
+| [Hydrocortisone](/drugs/hydrocortisone/) | L2 |
 
 ### Medicamentos abrangidos apenas por este site entre os 30 sites TxGNN
 
@@ -76,7 +89,7 @@ Relatórios por nível de evidência: L1 {{ site.data.drug_stats.level_counts.L1
 |------|-----------|
 | Medicamentos ANVISA | 42.819 |
 | Medicamentos ativos | 17.210 |
-| Classes terapêuticas | ~200 |
+| Classes terapêuticas | 493 |
 
 ---
 
@@ -131,15 +144,4 @@ Este relatório é apenas para fins de pesquisa acadêmica e <strong>não consti
 
 ## Sobre o Desenvolvedor
 
-Esta plataforma é desenvolvida e operada pela **藥提醒科技有限公司** (yao.care, número de registro
-empresarial 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
-
-O BrTxGNN é o site do Brasil da linha de produtos "TxGNN Drug Repurposing" da empresa.
-O mesmo sistema está implantado em 30 países e regiões, cada um nomeado `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN, e assim por diante) em `{cc}txgnn.yao.care`.
-Visão geral do produto: <https://www.yao.care/medical/txgnn/>.
-
-O próprio modelo TxGNN foi desenvolvido pelo Zitnik Lab da Harvard Medical School e publicado
-na *Nature Medicine*. Esta plataforma é o sistema de produção que a 藥提醒科技有限公司 construiu sobre esse
-modelo, abrangendo a integração de dados nacionais de registro de medicamentos, predição por aprendizado profundo que exclui os usos já registrados no grafo de conhecimento, classificação de evidências do PubMed / ClinicalTrials
-e integração de registros eletrônicos de saúde via SMART on FHIR.
+Esta plataforma é desenvolvida e operada pela **藥提醒科技有限公司** (yao.care). Veja a página <a href="{{ '/about/' | relative_url }}">Sobre o Projeto</a> para o histórico completo da empresa e da metodologia.
