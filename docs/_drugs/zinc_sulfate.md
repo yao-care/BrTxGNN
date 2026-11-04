@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Zinc Sulfate
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 683
-evidence_level: L2
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-11-04
 monitor_inn: "ZINC SULFATE"
 predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "congenital prothrombin deficiency"]
-description: "Zinc Sulfate: nova indicação prevista, faringite (pharyngitis) (nível de evidência L2). Indicação original: OUTROS SUPLEMS MINERAIS EXCETO DE FERRO E P/ REHIDRATACAO"
+description: "Zinc Sulfate: nova indicação prevista, Faringite (pharyngitis) (nível de evidência L5). Indicação original: OUTROS SUPLEMS MINERAIS EXCETO DE FERRO E P/ REHIDRATACAO"
 ---
 
 # Zinc Sulfate
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **4** 
+Nível de evidência: **L5** | Indicações previstas: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,47 +33,50 @@ Nível de evidência: **L2** | Indicações previstas: **4**
 
 </div>
 
-## Zinc Sulfate: faringite (pharyngitis)
+## Zinc Sulfate: Faringite (pharyngitis)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-O sulfato de zinco é um sal de zinco usado como suplemento mineral e em produtos oftálmicos.
-O modelo TxGNN prevê que pode ser eficaz para **faringite (pharyngitis)**,
-atualmente com **1 ensaio clínico** e **2 publicações** apoiando esta direção. O nível de evidência é **L2**: um ensaio randomizado, controlado por placebo, mostrou benefício em dor de garganta pós-operatória, enquanto um estudo randomizado em faringite por radioterapia não mostrou benefício.
+O sulfato de zinco é um sal mineral de zinco, com registros vigentes no Brasil.
+O modelo TxGNN prevê que ele possa ser útil para **Faringite (pharyngitis)**, mas a evidência direta disponível é fraca e negativa: o único ensaio randomizado em faringite não mostrou benefício. Os dados compilados incluem **1 ensaio clínico** (em dor de garganta pós-operatória, condição relacionada, mas diferente) e **2 publicações**.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
 | Indicação Original | OUTROS SUPLEMS MINERAIS EXCETO DE FERRO E P/ REHIDRATACAO; OUTROS MEDICAMENTOS COM ACAO NO APARELHO VISUAL; DESCONGESTIONATES OFTALMICOS |
-| Nova Indicação Prevista | faringite (pharyngitis) |
+| Nova Indicação Prevista | Faringite (pharyngitis) |
 | Pontuação de Previsão TxGNN | 0.9985 |
-| Nível de Evidência | L2 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 3) |
 | Número de Registros | 3 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação do fármaco nos dados compilados para este relatório. O zinco liberado localmente, por exemplo a partir de pastilhas, pode reduzir a inflamação da mucosa, favorecer o reparo do epitélio e modular a resposta imune local e a função sensorial e gustativa. Esses efeitos são plausíveis para irritação e dor de garganta.
+Atualmente, não há dados detalhados sobre o mecanismo de ação do sulfato de zinco. O zinco é um mineral com papel conhecido na reparação do epitélio, na resposta imune local e na função sensorial, como o paladar.
 
-A ligação, porém, é indireta. O ensaio disponível avalia dor de garganta pós-operatória, associada à intubação, e não faringite infecciosa. O estudo em faringite induzida por radioterapia, por sua vez, não mostrou benefício. A previsão deve ser vista como hipótese a confirmar, não como resultado estabelecido.
+Esses efeitos tornam plausível, em teoria, um benefício em irritação e dor de garganta. Mesmo assim, o vínculo é indireto: os estudos disponíveis tratam de dor de garganta após intubação e de mucosite por radioterapia, não de faringite em geral.
+
+A pontuação do TxGNN é alta, mas ela indica apenas a força da previsão computacional. Os estudos clínicos disponíveis não a sustentam, e o único ensaio randomizado diretamente em faringite não mostrou benefício.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT02405832](https://clinicaltrials.gov/study/NCT02405832) | Não se aplica | Concluído | 87 | Estudo randomizado, duplo-cego e controlado por placebo de pastilhas de zinco no pré-operatório, para avaliar a incidência de dor de garganta pós-operatória. Os resultados publicados indicam redução da incidência e da gravidade. |
+| [NCT02405832](https://clinicaltrials.gov/study/NCT02405832) | Não se aplica | Concluído | 87 | Estudo randomizado, duplo-cego e controlado por placebo sobre pastilhas de zinco no pré-operatório para reduzir a dor de garganta após intubação. A população é pós-operatória, não de faringite infecciosa, portanto não é evidência direta. |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [23720981](https://pubmed.ncbi.nlm.nih.gov/23720981/) | 2013 | RCT | Journal of the Medical Association of Thailand | Suplementação com sulfato de zinco em pacientes com câncer de cabeça e pescoço, para aliviar mucosite oral e faringite induzidas por radiação. Não houve benefício. |
-| [20123362](https://pubmed.ncbi.nlm.nih.gov/20123362/) | 2010 | Relato/série de casos | Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology, and Endodontics | Disgeusia prolongada após amigdalectomia; discute o possível papel da deficiência de zinco na dieta. |
+| [23720981](https://pubmed.ncbi.nlm.nih.gov/23720981/) | 2013 | RCT | J Med Assoc Thai | Ensaio randomizado, duplo-cego e controlado por placebo com sulfato de zinco em pacientes com câncer de cabeça e pescoço, para mucosite oral e faringite induzidas por radiação. Não demonstrou benefício do zinco. |
+| [20123362](https://pubmed.ncbi.nlm.nih.gov/20123362/) | 2010 | Relato/série de casos | Oral Surg Oral Med Oral Pathol Oral Radiol Endod | Discute a disgeusia prolongada após amigdalectomia e o possível papel da deficiência de zinco. Não avalia faringite. |
 
 ## Informações de Comercialização no Brasil
+
+Há 3 registros vigentes de produtos com sulfato de zinco isolado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -83,22 +86,26 @@ A ligação, porém, é indireta. O ensaio disponível avalia dor de garganta p�
 
 ## Considerações de Segurança
 
-- **Interações Medicamentosas**: foram identificadas 100 interações no total. As amostradas incluem as de nível moderado com alendronato, risedronato, ibandronato, tetraciclina e baloxavir marboxil, que podem reduzir a absorção por quelação. As demais interações listadas, como as com corticoides e imunossupressores, são de nível leve.
+- **Interações Medicamentosas**: foram identificadas 100 interações na consulta. As de gravidade moderada incluem:
+  - alendronato (ácido alendrônico), risedronato (ácido risedrônico) e ibandronato;
+  - tetraciclina;
+  - baloxavir marboxila.
 
-Consulte a bula para as demais informações de segurança, como advertências e contraindicações.
+  As demais, em sua maioria de gravidade leve, envolvem corticosteroides (hidrocortisona, dexametasona, betametasona, triancinolona) e imunossupressores ou imunobiológicos (abatacepte, adalimumabe, azatioprina, baricitinibe, entre outros).
+
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- Há um ensaio randomizado positivo em dor de garganta pós-operatória e um estudo randomizado negativo em faringite por radioterapia. Nenhum avalia faringite infecciosa, e o mecanismo e a segurança ainda não estão caracterizados.
+- O nível de evidência é L5. O único ensaio randomizado diretamente em faringite não mostrou benefício, e o ensaio de pastilhas de zinco trata de dor de garganta pós-intubação, uma condição relacionada, mas diferente. A pontuação alta do modelo, isoladamente, não justifica avançar.
 
 **Para prosseguir, é necessário:**
-- Ensaios controlados em faringite aguda de outra origem, especialmente infecciosa
-- Dados do mecanismo de ação
-- Advertências e contraindicações da bula aprovada pela ANVISA
-- Avaliação de via de administração e formulação adequadas, como pastilhas, já que os registros locais são de suplemento e produtos oftálmicos
+- Ensaios clínicos randomizados em faringite aguda (infecciosa) que mostrem benefício consistente.
+- Dados de mecanismo de ação e definição de via, forma farmacêutica e dose adequadas para uso local na garganta.
+- Revisão das advertências e contraindicações da bula brasileira, além do plano de manejo das interações medicamentosas moderadas.
 
 ## Aviso de isenção de responsabilidade
 
