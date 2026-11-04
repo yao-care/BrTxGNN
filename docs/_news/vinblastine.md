@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Vinblastine. 10 indicações previstas."
 permalink: /news/vinblastine/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Notícias sobre Vinblastine
@@ -27,7 +27,7 @@ Esta página combina as indicações previstas por IA para Vinblastine com as no
 <ul>
 <li><strong>Nível de evidência</strong>: L3</li>
 <li><strong>Indicações previstas (10)</strong>:<ul>
-<li>Rabdomiossarcoma (Rhabdomyosarcoma) (rhabdomyosarcoma (disease))</li>
+<li>rabdomiossarcoma (rhabdomyosarcoma (disease))</li>
 <li>botryoid-type embryonal rhabdomyosarcoma of the vagina</li>
 <li>parameningeal embryonal rhabdomyosarcoma</li>
 <li>embryonal extrahepatic bile duct rhabdomyosarcoma</li>

@@ -373,6 +373,18 @@
       "count": 18
     }
   ],
+  "/drugs/centella-asiatica/": [
+    {
+      "url": "/news/centella_asiatica/",
+      "title": "Notícias sobre Centella asiatica",
+      "count": 1
+    },
+    {
+      "url": "/news/anxiety-disorder/",
+      "title": "Notícias sobre ansiedade (anxiety disorder)",
+      "count": 1
+    }
+  ],
   "/drugs/chlorthalidone/": [
     {
       "url": "/news/chlorthalidone/",
@@ -573,6 +585,18 @@
       "url": "/news/generic-cancer/",
       "title": "Notícias sobre câncer (generic_cancer)",
       "count": 18
+    }
+  ],
+  "/drugs/flunitrazepam/": [
+    {
+      "url": "/news/flunitrazepam/",
+      "title": "Notícias sobre Flunitrazepam",
+      "count": 1
+    },
+    {
+      "url": "/news/anxiety-disorder/",
+      "title": "Notícias sobre ansiedade (anxiety disorder)",
+      "count": 1
     }
   ],
   "/drugs/gadobutrol/": [

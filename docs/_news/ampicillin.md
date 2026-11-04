@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Ampicillin. 9 indicações previstas."
 permalink: /news/ampicillin/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Notícias sobre Ampicillin
@@ -33,8 +33,8 @@ Esta página combina as indicações previstas por IA para Ampicillin com as not
 <li>chronic ethmoidal sinusitis</li>
 <li>gingivitis</li>
 <li>paranasal sinus neoplasm (disease)</li>
-<li>Artrite bacteriana (bacterial arthritis)</li>
-<li>conjuntivite (conjunctivitis)</li>
+<li>artrite bacteriana (bacterial arthritis)</li>
+<li>Conjuntivite (conjunctivitis)</li>
 <li>pericoronitis</li>
 </ul></li>
 </ul>

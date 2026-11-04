@@ -1,7 +1,37 @@
 {
-  "generated": "2026-11-04T05:19:01.326034+00:00",
-  "count": 23,
+  "generated": "2026-11-04T13:55:30.183139+00:00",
+  "count": 24,
   "news": [
+    {
+      "id": "2c4783809935",
+      "title": "Sinais que uma pessoa costuma dar quando a ansiedade está em nível elevado",
+      "published": "2026-11-04T05:00:00+00:00",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazd3cHY1TExsWUd1eC1JSV9xY3UxbGNsblpmUERFMkk2dXNtV1hONWcwaTktU0tWNkNiakJfTUtEWDkwcDVvcHItZlNIWkN0N3F4aHBPSWt4ZWdYQXQ0WjFtNFdiR1FoNVEwSUUtVndsN3QwTWFBVi1LZ3EyV19xMWRiS0VmN3dWSGpqREY4VmhTbDNCY2VxSG1seEdJNU81UXlyTWxqT1lGQm80RDVic3J0b0E5d25kSkYxWVowcE1uMFM2?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "anxiety disorder",
+          "keyword": "ansiedade",
+          "related_drugs": [
+            {
+              "slug": "flunitrazepam",
+              "name": "Flunitrazepam",
+              "url": "/drugs/flunitrazepam/"
+            },
+            {
+              "slug": "centella-asiatica",
+              "name": "Centella asiatica",
+              "url": "/drugs/centella-asiatica/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "bba0f74b482e",
       "title": "Organoides podem antecipar resposta ao tratamento no câncer de cabeça e pescoço",
@@ -1900,6 +1930,46 @@
       ]
     },
     {
+      "id": "be773235238d",
+      "title": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje",
+      "published": "2026-10-31T15:00:00+00:00",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYk84SlJuLUFNQzVlUmd6RGo2TjJHNnNMbG9NUmZ3RmIyTlFTYmFXU2RxR1BzQmVEcXdjOXFCVzQzTlVlZnl6a0Z1QVJyZllCZFljMnZUbWx3UDRhdTEwMjFaVjdvaFg1ZTF2VUVJZFg5a0JRM2FIR1NpUFBwQ0dWZnlzSk5mYURCbmRHZXZwdmNhOFl3WXY5anhPUThOMGhfYUZQSFdzMHk2dXlzREY5bHc5cENSaHFfemJRa3ZmTG4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden",
+              "url": "/drugs/biperiden/"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE",
+              "url": "/drugs/entacapone/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "5ba1bdb5673f",
       "title": "Vacinas oferecidas pelo SUS ajudam a prevenir diferentes tipos de câncer - Portal Drauzio Varella",
       "published": "2026-10-30T20:06:05+00:00",
@@ -3304,46 +3374,6 @@
               "slug": "valsartan",
               "name": "VALSARTAN",
               "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "be773235238d",
-      "title": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje",
-      "published": "2026-10-31T15:00:00+00:00",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYk84SlJuLUFNQzVlUmd6RGo2TjJHNnNMbG9NUmZ3RmIyTlFTYmFXU2RxR1BzQmVEcXdjOXFCVzQzTlVlZnl6a0Z1QVJyZllCZFljMnZUbWx3UDRhdTEwMjFaVjdvaFg1ZTF2VUVJZFg5a0JRM2FIR1NpUFBwQ0dWZnlzSk5mYURCbmRHZXZwdmNhOFl3WXY5anhPUThOMGhfYUZQSFdzMHk2dXlzREY5bHc5cENSaHFfemJRa3ZmTG4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden",
-              "url": "/drugs/biperiden/"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE",
-              "url": "/drugs/entacapone/"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole",
-              "url": "/drugs/albendazole/"
             }
           ]
         }
