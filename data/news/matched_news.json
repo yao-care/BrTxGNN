@@ -1,8 +1,73 @@
 {
-  "last_updated": "2026-11-03T22:59:03.832915+00:00",
-  "total_count": 114,
+  "last_updated": "2026-11-04T05:19:01.173101+00:00",
+  "total_count": 107,
   "matched_count": 23,
   "news": [
+    {
+      "id": "36e386b941fe",
+      "title": "Marechal Cândido Rondon no topo da ciência! - Rádio Difusora do Paraná",
+      "published": "2026-11-04T03:18:49+00:00",
+      "summary": "Marechal Cândido Rondon no topo da ciência!&nbsp;&nbsp;Rádio Difusora do Paraná",
+      "sources": [
+        {
+          "name": "Rádio Difusora do Paraná",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EUHktM3hkTlRhMlo2bERUYUxwMkEzYndYSElkQUJUYWlGVFRWbERUamotdlJWT3QyWU9ucnpPczBneGEyVzFHZXRJOW9NV0ljaHdlS1RtUUhleHFVRHBEOENFRnlQa29UVFV0VkYtajBfN3h2bWpJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "497098f626e1",
+      "title": "Zeptoverso: cientistas detectam sinais de fenômeno raro no mundo das partículas; saiba mais",
+      "published": "2026-11-04T01:22:27+00:00",
+      "summary": "Zeptoverso: cientistas detectam sinais de fenômeno raro no mundo das partículas; saiba mais&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYzZuaFdTVm1SNkZNLVVuR0NFRWZWX08yYUVJWXNSTkRHWGttS0NXbk1zcnRKdkFtaXhqb2ZqVEgxaWVOYXY4Q0xvTXFlNjhjNVZDMFMyejNsQ0ZTUU9IYkVzUVZUVXJ0bmU5UTdMdkdHM0huN1lTS2t2OGJJUGR6ZGg0MTVscHBuSkxWM1Z6cnBKZHVsbE1WckQwd0ZtZzkzaWNQcGktVHZielBzUm1vVzd1TnVkX1g3NWtpMnd1RmxyZTloRkdFZ08tTzZONU1teUtrbHpBdlFBcmxJQzhsVUJZbGRVUdIB9AFBVV95cUxOQTkzTUxhcnkwdTE4TEQyc3gzOUJMemV3MHBfN1ZSdzUwVW1uRmVrN191QWhNWnpiNTdLSzNhSlFfTC1UU25lMi1oZVNPNnBtZ01OMjl5U0llSnMxdW4zMWJPQ0VVQTRrcUU1SXFPQ0NBX2JYVDhDMGRUQkliRW1NMllvUDZmSnQyRFR0d2FfREtkc1FSWDEtbEF2QlZfWkY2X01qMDlJRGxGbDcxSmRJU3F2QUlFLVpseDlXb052aEpRXy1nN1dqSmQ3UkFTRWN4YjRwS0lETFRWeHZfWlNaZ1I3WWZvVUVhX1A5TEwzYWxmdnBs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "529ea19ba57b",
+      "title": "Estudante do interior da Bahia conquista 1° lugar em feira internacional de ciência - Jornal Correio",
+      "published": "2026-11-04T01:02:43+00:00",
+      "summary": "Estudante do interior da Bahia conquista 1° lugar em feira internacional de ciência&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb3V2bjAzb05xNmoyWUY1MlJZOE9tVnNWaGhVMTZYZHI3WG5ScU4tbzgxeHI2OUlncEZPXzFFbnV0QldTWEhNaUxpLXlNaVg3SUF3MUQyQ2xkbWVXYWJGR0xnN1k5OHFrOXdzN01sdGFSZm1icG4yajY0VmxCY29aVlBhYVFCUjN3b2pSSVFqQWFoS3BkNGRfcVdTa2w4Y0VlRzhlUU51NGd3STNrLU5hbUdBVDRyRG1jV3hUdGRMNXl4eDJYUm9ULTh6YVZiUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fd6c35484a24",
+      "title": "Telescópio da Nasa cairá na Terra nas próximas horas após resgate fracassar - Folha de S.Paulo",
+      "published": "2026-11-03T23:05:00+00:00",
+      "summary": "Telescópio da Nasa cairá na Terra nas próximas horas após resgate fracassar&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWThIZG9QaGZZeC1oS0hkcDJWSEFIUHBYdlFUREVjWUtLYXA4SUcyZVVLM0ZKWVFhMW4yXzI5MnRlZnFrYkFYTW51WlVOZDhZaVhoQkNlaW82UktRSlQxOWwyZEs4akFaYUNGWnFyYnhVREN4eWdoSzN3OFY2VEtSR2VtNlV6MC11akIwN0xzOFp0NDFWLWljNlA1M0ctTnBHYXpBX25BVlRRVi1RYUZzWTJ2TC1oSEpMY0FfdnNUcmZocXpLbTl3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "497d8bbefb3c",
+      "title": "Roberto Machado de Moraes (1940 - 2026) - Mortes: Químico foi leitor assíduo da Folha por 79 anos - Folha de S.Paulo",
+      "published": "2026-11-03T22:17:00+00:00",
+      "summary": "Roberto Machado de Moraes (1940 - 2026) - Mortes: Químico foi leitor assíduo da Folha por 79 anos&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVXJPaWRkNVJuUDlTRkZibDZwWS1uNTNQemsxWURQTWZuZVhYcE5rcHY5d2UxaElwVktTNm1aRERIcFhSbnpPTU0wUmk4dTZ3VGQxMTJEYzJmaGFwZkhSVUt5dFdrZDNjMzFnczdUV3hmaDdQM3Ffc3cyQmFyNjliMzZqbGRiRjVzOXppM3lUbE1IQlZKaVo2cVpZekFjZlB1aFFDUjBXa19ac0RS?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ea1417819b7e",
       "title": "Fim do mundo na sexta-feira 13? Previsão de 1960 diz que apocalipse acontece nos próximos dias - CNN Brasil",
@@ -17,14 +82,40 @@
       "matched_keywords": []
     },
     {
-      "id": "36e386b941fe",
-      "title": "Marechal Cândido Rondon no topo da ciência! - Rádio Difusora do Paraná",
-      "published": "2026-11-03T21:13:24+00:00",
-      "summary": "Marechal Cândido Rondon no topo da ciência!&nbsp;&nbsp;Rádio Difusora do Paraná",
+      "id": "fec89aab0d6d",
+      "title": "Caminhão com produtos químicos bate em mureta e carga cai na BR-232, em Bezerros",
+      "published": "2026-11-03T20:24:36+00:00",
+      "summary": "Caminhão com produtos químicos bate em mureta e carga cai na BR-232, em Bezerros&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Rádio Difusora do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EUHktM3hkTlRhMlo2bERUYUxwMkEzYndYSElkQUJUYWlGVFRWbERUamotdlJWT3QyWU9ucnpPczBneGEyVzFHZXRJOW9NV0ljaHdlS1RtUUhleHFVRHBEOENFRnlQa29UVFV0VkYtajBfN3h2bWpJ?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONG9TaHdpWXVMRmVkcFhEOF8yLWNKWGlLc0paWUZQSFgwX1B1cXc5M0FQTmQ4UVBTSjUzTnFzQURPTFJacURWdGtUb0ZueGlpN2pZTFVyQVN1ZUlEeUJmZnk0ZVZUbm82X3pZOGstbWZHaXJkS3c4RXMtc3FmWWtTbGVQZ3ZKX1dDNVEtWFhvaEdJRmtIeTFqUjMwN1RsSnFEWXNGNkNJY2U1eTlHOTN1MmxWWnZWdXdLaXIwc2pLRmFRYlJXX1NKOEwyRF90aU85Tk4xTS1qcy0yaDTSAeoBQVVfeXFMUGx3R1VnQUNCcVhSUFRfN2RJQUU1SzMzVGV4U0MtQVB2UDBGQW11cVRWTW5QWFREb01rQnVDSzBTTkxlRlNZM3VPeThacy1fOUd6Z0dINnBRTTNwd2NZb2dhSDRqS3hZQTNLUGJKY3dvTmhla0tFRllsTDB5V1RtbVhtVk1PbVdBOWJzZWljcDN5d3pvNUczNjVUR0dSRmRZWGMxTExfTE1OV3hKTGVKWndrNVBaMlFZUUtuTmhuUEt3Qndhdld2N1BTTHJCTlFNb0U3VXBiaHhmT2tScUhVLWZoYmR3VllxOFd3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7eeaebb5ccc1",
+      "title": "Projeto verão: quais são os cinco erros na alimentação e nos treinos que podem prejudicar seus resultados?",
+      "published": "2026-11-03T20:12:36+00:00",
+      "summary": "Projeto verão: quais são os cinco erros na alimentação e nos treinos que podem prejudicar seus resultados?&nbsp;&nbsp;GZH",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaERJbnRaM09Zcjl6MHBzSXIyZUZLcmFpaml0NlVERGhDMGdnWWw2ZGhOa29OTFVDdXdHNmk2WWdYbXRCWmt6ejFtV1dVZ2l6T1BPbnluNEQ4elFTekpaQjlkTHdBbWxSemM4S1hMY1g1aWZ1M2ZGXzB3bkw1YjRnT25BMTlhZHZ1QWM0akQ3NEhWLWM3UURwT1JYNVVQTFFvZ2dYSGVWY0E2M3RNb0NHNDBsLXNySnBiWEYzUmpSQ0FrSmF1Q3h0ZU5LTHVIQkpheExZdzZuUFo0MW14Ri1pMl9VSGh5SmRfSkxrZkc4blhESHAyNmhOUDVVYm5xVXVFbUM3dThDNFNaTDZvZkc0Z3I2bUVGalBB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6e0ad6107aed",
+      "title": "Universo mais colorido: cientistas registram a primeira estrela verde - Correio Braziliense",
+      "published": "2026-11-03T20:04:00+00:00",
+      "summary": "Universo mais colorido: cientistas registram a primeira estrela verde&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaDZEdXprY05Nc1NKX0VWS29LcExYQi14RHNLR3o3QnkzUi1ycGtwOXZoNERVVDQ5RTdYOUdTbjlXOWRWakVEeGYzcTdac1I5RnZ3RmR6N0JjbzVnaHhFYmtwTGhmMHVNaEhabWxpamQ1MkZPcDgxSDYxZl9neHBXb3JfZDJtT0NZTGFZRHVMWnVGM08zMzNzN3NDRDdKa1psdkdFemdzbk44YUp1QVFpMlNJanQxRFdWTGdTc241SmVwNTFBU0dYVklLb3JZYVh3N3pBRkZrM0JyQzTSAeABQVVfeXFMTlhYZzdDb0dxbTh1QXoyUWt3LWVDS2RSQkF4QjZPcE5ueHZrMEhOWmlmVDdvWTU3RlJSb1lEVFZDbHpOU2RISVk4cEFHdDlUMUFTUFZCNEZwTUFOMmFVOUFTZHNhVHU0eWYwcFZ2QlpoNVFBaFZpOUF3NTlneHNmRkpGVEd4b05HREhLSGhuQVhsaWJxZTBpRUhhVE9uR1Nib3Y1Wk5hbEhpV25vSjNqYkwyWVZDMm5naUhEa3p1MFdQUWg4dVBoeUo5b2dBVDYwbnBMN0ctVW1FZkhlUHMwVTE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -69,6 +160,32 @@
       "matched_keywords": []
     },
     {
+      "id": "e667a0b02abd",
+      "title": "Telescópio espacial da NASA está prestes a cair na Terra – Brasil pode ser atingido? - Olhar Digital",
+      "published": "2026-11-03T19:29:00+00:00",
+      "summary": "Telescópio espacial da NASA está prestes a cair na Terra – Brasil pode ser atingido?&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX2Y4NHZ4ZHJGZkk3QUFPNTJWQzZVSm9LaGhwMjQ1ZG82VXU3TXc4cHBySHVTRURoNEd5OHFvcFZGSTNweGFWaGdZOTBlbGJLMzNSc1h4V0txc2t1ZFg3Q21NdFpSajRyR1JxT3I5UWlWaExSSzU4ZjBjRmh0TzYwSFpYbTFqU09ncjhDb1g4ckF1WGMxdFlVZ0F2QVdmeXluaGtJRnJ2Tk5lSlZNU1NxTUpOdDBSbl8tQ3hGSGdNeGFUbHMwTjN2aE5XN2c5bHE0cVZmZg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2bd17fa18edd",
+      "title": "Fóssil de dinossauro brasileiro de 115 milhões de anos preservou vestígios de sangue",
+      "published": "2026-11-03T19:27:32+00:00",
+      "summary": "Fóssil de dinossauro brasileiro de 115 milhões de anos preservou vestígios de sangue&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaGdmbkFVS29FQ0hqUTJ3QkJVM0xTQzR2YnVkVzdxQkRFZjBxM1J4bDY4X3dFOTYtMURUa0hCZXlpaWNyZjZZOFBvSDNma3UzZGUyVWRyaE1DeFZlRlF0TDJZZk5yY01ZaF9qQ1o1NWw0U1ZWSjFBbUFhN0hoVmFyVG5IeEFBUGF0d29id245QUJzN01CTlRpejhGQVp4M3NJZHZmQTVDRE9TUDRtT1BHcENHUEc4eDJJSDhlSzEtS3BDeno1eXBJbmFDbEF0UXBUaThhLWF2cnlSa205b19j0gHuAUFVX3lxTE5XOWZENldVSHpfSnZrN2hmNUlVN1NkOHQ1c182N1FRTDYzQVdyVjJadFNIUUVrbVZJWVFVaVJCSHh4OWV0LWotZDUwYjVyTGVRMkZTM2JWMEk2RmlSLWZhSE9oUTlOamVlQko3Y2h5MmMtbDZSVXF4QkUtdzBIV0NoNHllZkdPRllvVUk3T3MxNGVUYzJzQi11UWNEN2YxSUgtSDVIRzc1SFY5ejVfc1h6QU8zampnSnNubHZTWjUwNk8xSTlvb193VGRlNno0UjJ3ZEZjblFsZ1RNWTQ4SEtVUlBmOGo3bnJHS2w3Q2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a31f6806d89d",
       "title": "Dragagem no canal do Porto do Rio Grande será finalizada em dezembro",
       "published": "2026-11-03T19:06:11+00:00",
@@ -90,6 +207,19 @@
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSVVRSmRLQmI5bmJTQU8yTWN6YUk0WjBkR2tsdk1oY3ZKdkMwZk12YUZqc0IzOTNoRVZfb1c5TGI2RmZ6Z2wzaGpNYTFuQXJzbG45bjBrV3lBUmJFZFliRnFlV3B4bWxIOVBmWjRTX2RtZzU3WjRtcHdfdWs4YWVQQkFUV2VNSGRsc2RZcTc3QUdRSW1vQjJmY1NrWm4xUUNlT0xmQ1JBRkhiSU42V2xyR1pfQnpFZWV3ZXRkS3N3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2405b0b43895",
+      "title": "Casos de Mpox no Brasil chegam a 665 em 2026, diz Ministério da Saúde - CNN Brasil",
+      "published": "2026-11-03T18:17:51+00:00",
+      "summary": "Casos de Mpox no Brasil chegam a 665 em 2026, diz Ministério da Saúde&nbsp;&nbsp;CNN BrasilMpox: Ministério da Saúde diz que vai reforçar estoques de vacinas em meio à alta de casos no Rio&nbsp;&nbsp;O GLOBOMpox: Rio de Janeiro já tem mais que o dobro dos casos registrados em 2025&nbsp;&nbsp;EstadãoSecretaria de Saúde do RJ monitora alta de Mpox após casos superarem 2025&nbsp;&nbsp;Folha de S.PauloMpox no Rio de Janeiro: “É preciso reconhecer que estamos diante de um problema relevante de saúde ",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlBwVGljei02OEhXYXVxUW9fUFZEQndUQ0tpQjliVVJoYW8xYzVmci11MEFlYnJ5c0kxMUVkVDIyT3c1UTEwQ3kzN2l1U21odWZDTVBiQ3AzbEdURlpJWlRaOGlTLWxIdHVMdGtYWGNLM0JYY3U4RmhVSkV3VnF1ZVNmSkZOY1dzOEpYUW8zWGVRYVhBN2owcXYteWNlSGVxU0lyOHpoMA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -121,477 +251,6 @@
       "matched_keywords": []
     },
     {
-      "id": "363a834bcb24",
-      "title": "CÂNCER DE INTESTINO! Dra. Amanda Meirelles faz alerta urgente - Portal Leo Dias",
-      "published": "2026-11-03T16:58:13+00:00",
-      "summary": "CÂNCER DE INTESTINO! Dra. Amanda Meirelles faz alerta urgente&nbsp;&nbsp;Portal Leo Dias",
-      "sources": [
-        {
-          "name": "Portal Leo Dias",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHZNZG1Tbk5jZFAwQzYwMDZLNEdQNTNhQkd1MlVVUWhDRXZZa0w4cHJHcnZmQThVOWdBQWNSR1A4cHkwblh6WUV6SHV2MjJhR1g5WlQ4dGxQVGdpNkdfVzVyWFgzUGFrY2lmX3FfLWtLY0ZvN1gtSkRqc21uRkt3WWF5ZzdrOWtBcG9VU0x2U3lMY3JkTy1xaVN4TGFQWEVwWHFfbmNYUWJYUE5r0gGyAUFVX3lxTE5kU2MteURtSXVQMkxyZGs4MS1DdXZFWDIwTEtURVNPOFo2TWRzRk1QTmNIbmZBNmFWOVZpUHl2ZUlTcm1vaVV1c29YNjN5QXJCdWxHZ0FaeHQ2TVRWWGQyNnYwSTAyT0NUSEZ6Y2tqNGZpZGZGX050WldfemhnWW1Rczk4Yl9Yc0NlZk53aS1kSEl3aWctaEoxZE0yS3REUTk2akhYa0swbWF3YTM3VHphOGc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "câncer",
-          "related_drugs": [
-            {
-              "slug": "imatinib",
-              "name": "Imatinib",
-              "url": "/drugs/imatinib/"
-            },
-            {
-              "slug": "oxaliplatin",
-              "name": "Oxaliplatin",
-              "url": "/drugs/oxaliplatin/"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "Ampicillin",
-              "url": "/drugs/ampicillin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "ceftriaxone",
-              "name": "Ceftriaxone",
-              "url": "/drugs/ceftriaxone/"
-            },
-            {
-              "slug": "pegaspargase",
-              "name": "PEGASPARGASE",
-              "url": "/drugs/pegaspargase/"
-            },
-            {
-              "slug": "potassium_sulfate",
-              "name": "Potassium sulfate",
-              "url": "/drugs/potassium-sulfate/"
-            },
-            {
-              "slug": "plerixafor",
-              "name": "PLERIXAFOR",
-              "url": "/drugs/plerixafor/"
-            },
-            {
-              "slug": "phenytoin",
-              "name": "PHENYTOIN",
-              "url": "/drugs/phenytoin/"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "phenobarbital",
-              "name": "Phenobarbital",
-              "url": "/drugs/phenobarbital/"
-            },
-            {
-              "slug": "risdiplam",
-              "name": "Risdiplam",
-              "url": "/drugs/risdiplam/"
-            },
-            {
-              "slug": "letermovir",
-              "name": "Letermovir",
-              "url": "/drugs/letermovir/"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "LISINOPRIL",
-              "url": "/drugs/lisinopril/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "IRBESARTAN",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "cefaclor",
-              "name": "Cefaclor",
-              "url": "/drugs/cefaclor/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tamoxifen",
-              "name": "Tamoxifen",
-              "url": "/drugs/tamoxifen/"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "Methotrexate",
-              "url": "/drugs/methotrexate/"
-            },
-            {
-              "slug": "relebactam",
-              "name": "Relebactam",
-              "url": "/drugs/relebactam/"
-            },
-            {
-              "slug": "imiglucerase",
-              "name": "Imiglucerase",
-              "url": "/drugs/imiglucerase/"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole",
-              "url": "/drugs/secnidazole/"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "CLONAZEPAM",
-              "url": "/drugs/clonazepam/"
-            },
-            {
-              "slug": "captopril",
-              "name": "CAPTOPRIL",
-              "url": "/drugs/captopril/"
-            },
-            {
-              "slug": "fluconazole",
-              "name": "Fluconazole",
-              "url": "/drugs/fluconazole/"
-            },
-            {
-              "slug": "hesperidin",
-              "name": "Hesperidin",
-              "url": "/drugs/hesperidin/"
-            },
-            {
-              "slug": "cysteine",
-              "name": "Cysteine",
-              "url": "/drugs/cysteine/"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol",
-              "url": "/drugs/sorbitol/"
-            },
-            {
-              "slug": "dantrolene",
-              "name": "Dantrolene",
-              "url": "/drugs/dantrolene/"
-            },
-            {
-              "slug": "cefdinir",
-              "name": "Cefdinir",
-              "url": "/drugs/cefdinir/"
-            },
-            {
-              "slug": "basiliximab",
-              "name": "Basiliximab",
-              "url": "/drugs/basiliximab/"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "Azithromycin",
-              "url": "/drugs/azithromycin/"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus",
-              "url": "/drugs/everolimus/"
-            },
-            {
-              "slug": "colchicine",
-              "name": "COLCHICINE",
-              "url": "/drugs/colchicine/"
-            },
-            {
-              "slug": "mometasone",
-              "name": "Mometasone",
-              "url": "/drugs/mometasone/"
-            },
-            {
-              "slug": "topiramate",
-              "name": "TOPIRAMATE",
-              "url": "/drugs/topiramate/"
-            },
-            {
-              "slug": "baclofen",
-              "name": "Baclofen",
-              "url": "/drugs/baclofen/"
-            },
-            {
-              "slug": "penciclovir",
-              "name": "Penciclovir",
-              "url": "/drugs/penciclovir/"
-            },
-            {
-              "slug": "nomegestrol_acetate",
-              "name": "Nomegestrol acetate",
-              "url": "/drugs/nomegestrol-acetate/"
-            },
-            {
-              "slug": "isotretinoin",
-              "name": "ISOTRETINOIN",
-              "url": "/drugs/isotretinoin/"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel",
-              "url": "/drugs/cabazitaxel/"
-            },
-            {
-              "slug": "aztreonam",
-              "name": "Aztreonam",
-              "url": "/drugs/aztreonam/"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "LORAZEPAM",
-              "url": "/drugs/lorazepam/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "CALCIPOTRIOL",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "serine",
-              "name": "Serine",
-              "url": "/drugs/serine/"
-            },
-            {
-              "slug": "clarithromycin",
-              "name": "Clarithromycin",
-              "url": "/drugs/clarithromycin/"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole",
-              "url": "/drugs/albendazole/"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "CARBAMAZEPINE",
-              "url": "/drugs/carbamazepine/"
-            },
-            {
-              "slug": "lactulose",
-              "name": "LACTULOSE",
-              "url": "/drugs/lactulose/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "Amoxicillin",
-              "url": "/drugs/amoxicillin/"
-            },
-            {
-              "slug": "adapalene",
-              "name": "Adapalene",
-              "url": "/drugs/adapalene/"
-            },
-            {
-              "slug": "elafibranor",
-              "name": "Elafibranor",
-              "url": "/drugs/elafibranor/"
-            },
-            {
-              "slug": "trastuzumab",
-              "name": "Trastuzumab",
-              "url": "/drugs/trastuzumab/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "RAMIPRIL",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "praziquantel",
-              "name": "Praziquantel",
-              "url": "/drugs/praziquantel/"
-            },
-            {
-              "slug": "deferasirox",
-              "name": "DEFERASIROX",
-              "url": "/drugs/deferasirox/"
-            },
-            {
-              "slug": "potassium",
-              "name": "Potassium",
-              "url": "/drugs/potassium/"
-            },
-            {
-              "slug": "tetracycline",
-              "name": "Tetracycline",
-              "url": "/drugs/tetracycline/"
-            },
-            {
-              "slug": "sorafenib",
-              "name": "Sorafenib",
-              "url": "/drugs/sorafenib/"
-            },
-            {
-              "slug": "vinblastine",
-              "name": "Vinblastine",
-              "url": "/drugs/vinblastine/"
-            },
-            {
-              "slug": "tezacaftor",
-              "name": "Tezacaftor",
-              "url": "/drugs/tezacaftor/"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "BISOPROLOL",
-              "url": "/drugs/bisoprolol/"
-            },
-            {
-              "slug": "vancomycin",
-              "name": "Vancomycin",
-              "url": "/drugs/vancomycin/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole",
-              "url": "/drugs/letrozole/"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine",
-              "url": "/drugs/capecitabine/"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab",
-              "url": "/drugs/bevacizumab/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "chlorthalidone",
-              "name": "CHLORTHALIDONE",
-              "url": "/drugs/chlorthalidone/"
-            },
-            {
-              "slug": "ciprofloxacin",
-              "name": "Ciprofloxacin",
-              "url": "/drugs/ciprofloxacin/"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "LAMOTRIGINE",
-              "url": "/drugs/lamotrigine/"
-            },
-            {
-              "slug": "iopamidol",
-              "name": "Iopamidol",
-              "url": "/drugs/iopamidol/"
-            },
-            {
-              "slug": "atenolol",
-              "name": "ATENOLOL",
-              "url": "/drugs/atenolol/"
-            },
-            {
-              "slug": "doxorubicin",
-              "name": "Doxorubicin",
-              "url": "/drugs/doxorubicin/"
-            },
-            {
-              "slug": "megestrol_acetate",
-              "name": "Megestrol acetate",
-              "url": "/drugs/megestrol-acetate/"
-            },
-            {
-              "slug": "gestodene",
-              "name": "Gestodene",
-              "url": "/drugs/gestodene/"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "CARVEDILOL",
-              "url": "/drugs/carvedilol/"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "Levofloxacin",
-              "url": "/drugs/levofloxacin/"
-            },
-            {
-              "slug": "ambroxol",
-              "name": "Ambroxol",
-              "url": "/drugs/ambroxol/"
-            },
-            {
-              "slug": "polymyxin_b",
-              "name": "Polymyxin B",
-              "url": "/drugs/polymyxin-b/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "avibactam",
-              "name": "Avibactam",
-              "url": "/drugs/avibactam/"
-            },
-            {
-              "slug": "calcium",
-              "name": "Calcium",
-              "url": "/drugs/calcium/"
-            },
-            {
-              "slug": "norfloxacin",
-              "name": "Norfloxacin",
-              "url": "/drugs/norfloxacin/"
-            },
-            {
-              "slug": "sirolimus",
-              "name": "Sirolimus",
-              "url": "/drugs/sirolimus/"
-            },
-            {
-              "slug": "venetoclax",
-              "name": "Venetoclax",
-              "url": "/drugs/venetoclax/"
-            },
-            {
-              "slug": "valsartan",
-              "name": "VALSARTAN",
-              "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "143d721e6b7b",
       "title": "Entenda como a genética dos cães pode ter revelado mistérios do desastre de Chernobyl - CNN Brasil",
       "published": "2026-11-03T16:43:23+00:00",
@@ -618,14 +277,53 @@
       "matched_keywords": []
     },
     {
-      "id": "8430fb4e3a8f",
-      "title": "Mpox: Ministério da Saúde diz que vai reforçar estoques de vacinas em meio à alta de casos no Rio - O GLOBO",
-      "published": "2026-11-03T15:25:51+00:00",
-      "summary": "Mpox: Ministério da Saúde diz que vai reforçar estoques de vacinas em meio à alta de casos no Rio&nbsp;&nbsp;O GLOBORio de Janeiro já tem mais que o dobro de casos registrados de mpox em 2025&nbsp;&nbsp;UOL NotíciasCasos de Mpox no Brasil chegam a 665 em 2026, diz Ministério da Saúde&nbsp;&nbsp;CNN BrasilMpox no Rio de Janeiro: “É preciso reconhecer que estamos diante de um problema relevante de saúde pública que exige uma resposta proporcional à situação epidemiológica atual”, sinaliza Dra. May",
+      "id": "12684c1547d4",
+      "title": "Fuvest 2027: saiba quais foram as questões mais difíceis da primeira fase - Guia do Estudante",
+      "published": "2026-11-03T16:24:00+00:00",
+      "summary": "Fuvest 2027: saiba quais foram as questões mais difíceis da primeira fase&nbsp;&nbsp;Guia do Estudante",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR1hQNHVjNFFCazUtbWtZcmZvVlRSSmpJbkhIdlNtTGRvUVBHNnQ0QVV3Q0xxa0otYXJPTUNFTHFxSTNuOTM1djh6X0luWUpLWDlpdFh5ZFZsWm5WNC1DbFlRUm02c1ZSX1BwMmgwQ0NhSmphMW1TQURMV2NKOExxRExtWEpYblM0MDBjTWt2cVpZdV9EUGZnUktTYlc1TTZXSDNITVFCYlQ0dTdYemRkdDFNZThMblA3eEE4LVo3ZVpMNmNHa2NwUFdIRTE5VkhROXlxWl9FR0ZCNm55Q1QxZjl2UlFsNzTSAfYBQVVfeXFMUENRbFFLcjFOREFwZnFudEpKNnRkZ3BNNVlpdW1fZERuNnhoVWFaNXl2X2ZPdG9OU216V1JDSGE4SVZSVWxnbDJWV29GVnZYb3FXd3JUdjZQVjFVd2ZSd1oxWFpnTkc2UmRNZlpvNkJ3QU14UnFCdERJcXpmcm9LVDdkLVg3cmtXZllkSjc1d0xJaDVGS2RkaGZYX1VRY1dWckd1ZWJ4cFhWN0V5RHNReUViOGNqU0QyelNHVnptazF5RTlyNENoa0lTWFRPb3BsRzcwMmdDUjctUGlDRXljTmVRYURUOUZHT2NwaDJXd3JVRzhveTdn?oc=5"
+          "name": "Guia do Estudante",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkgycWdJQUpYRnpIVXhDaUdxNFlMblVMZHkzY0tzX210YXczcDBNUy1xX0xGMWd0YVc2SXc3N0ZjTWkyLVFMUWdwbWlDM0xncVVQbkUyMEJ6X2ZsS2dHWnlMMWVoRlFyNEYzYUFSZ0x4ckdEb3JWU3pJZ3hScVNDTTk5Y3VpSnI2QS10Z3ZmR2tSTW1ISFNVaHFOVlpPWG9XWGVQSThBMEw2QTRidTk4NDN2eEJBem5NcnVkdUJDakd3Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fa6a4f2c567c",
+      "title": "Andar de bike pode causar disfunção erétil? Estudo com 4 mil homens mostrou o que acontece com o corpo ao passar horas pedalando - CNN Brasil",
+      "published": "2026-11-03T15:42:01+00:00",
+      "summary": "Andar de bike pode causar disfunção erétil? Estudo com 4 mil homens mostrou o que acontece com o corpo ao passar horas pedalando&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWDVnc1pRT2cwLTV5MkRQbzlabVJLQmJ0eFY5ZFpaTjEyalhmSWpyWERYTC1EY05HbUtqSE5POHJiLVRWbFJjOFlUcFdCeDI3SGhURWh2SVRyZ3VvRk02ZzhMSkFKdGR0WU5tVXIzUXN1YzhsQVAzYzVtWklQR3Q2bkdTLS1LU041RThoVHhfa0NWLUpQVkQ1aUJHN1VmQTdxWGsxUWJFOWFMVmVidWRvaWlmVmp0b0o5c2U1T21SeURUMjlhLUhSV2VueXV5ZnhIOVRKeDlUcHRqZjl6SnVlNnZaTWwzTEZMVWtoS2dRVk5ROUtmZ1NxVTdHTXFISUk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "52c533873590",
+      "title": "Medicamento experimental pode restaurar o fígado e barrar o Alzheimer",
+      "published": "2026-11-03T15:20:00+00:00",
+      "summary": "Medicamento experimental pode restaurar o fígado e barrar o Alzheimer&nbsp;&nbsp;MetrópolesVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZFdZSTN2Ni03aVd2dU54RFFuNDdxbWE4V2V2b21tblpUUkN0M25UMXAyZElYSFlVNmhDbWtZbk01QnBsZmh0LXVQbDRJTThqX0hnczZPXzBpa0lJa2lhODAyZWQ2UjBseVRBcUxIeUlGY1FFTGRBTWp3VWlnT0lSWjlQNlN1YnRNem5oSW1qQ292NE5sZW8tNjdMc0pqSEIzejZrNA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a913a07fbd19",
+      "title": "Navegadores da Ilha de Páscoa povoaram Havaí após jornada no oceano - Folha de S.Paulo",
+      "published": "2026-11-03T15:00:00+00:00",
+      "summary": "Navegadores da Ilha de Páscoa povoaram Havaí após jornada no oceano&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWExrQ01sbVFwbTZKRGVQOHJWaFMyTURSLUdKWktLM05hV3BZSS1hMTJwQU1CeG4wNjJQNVN3WjRTVzdudDN4ZTRCdUN1TVV6RmZ3VktJZ1NfQWVLYzdVU0syLVZFN2VYb0JxVnREaEdxR1lJUi1XQ09ZRjRQclpwMjNhWnAtczlWbEFrRGQ0SGh6Yng0MTNmbkpfaTVHTVI3QUhVbmxZckZIS09henhJZDhIaGluQWlQZEJz?oc=5"
         }
       ],
       "matched_keywords": []
@@ -657,6 +355,19 @@
       "matched_keywords": []
     },
     {
+      "id": "20aff31e7d6d",
+      "title": "EUA acabam de revelar que China manteve aeronave secreta em órbita no espaço por seis anos",
+      "published": "2026-11-03T13:14:00+00:00",
+      "summary": "EUA acabam de revelar que China manteve aeronave secreta em órbita no espaço por seis anos&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQanNDbWo5MWVoUU42VzVfWDN3OER4bllDSlowc3BmdU8zaG1leTJiVng5dW5Ic0c1NmhUb2VPN1QxTWs1bU11UUx5UTQ2TFRMa04wNVF5SmVoa1FWTHp6RE85T1JVS2pacDFnLU5kcFBzckdzRGZPZml0aVVxNkZMNmhmcHR3Q0NxUWs4dXJZV0xyV1JhSzJUbmlGdHNNeDBDTUVuT1hTZ3Q4MC1pWkpKcmppbERXdnRjeXlTWEpFc096bWNvMlNwcjM3Ymx0SjZ0Tk8tTzRoZTJ1cjZCN0dXa1ZJS2NCcDVBT2RzbnJmNFpmNG05S1pNNUVaN0tNYU5qRzB4NA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "2ed25d926b3f",
       "title": "‘Transição não pode aprofundar desigualdades internas’, diz Corrêa do Lago - Valor Econômico",
       "published": "2026-11-03T13:08:34+00:00",
@@ -670,14 +381,14 @@
       "matched_keywords": []
     },
     {
-      "id": "b95a61104f6c",
-      "title": "Matemática da Série B: chances de título, acesso e rebaixamento a duas rodadas do fim - UmDois Esportes",
-      "published": "2026-11-03T13:06:18+00:00",
-      "summary": "Matemática da Série B: chances de título, acesso e rebaixamento a duas rodadas do fim&nbsp;&nbsp;UmDois Esportes",
+      "id": "567f0db26a40",
+      "title": "Em áudio | 'Um dos grandes mistérios da ciência': o que a anestesia geral revela sobre o nosso cérebro",
+      "published": "2026-11-03T12:27:21+00:00",
+      "summary": "Em áudio | 'Um dos grandes mistérios da ciência': o que a anestesia geral revela sobre o nosso cérebro&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "UmDois Esportes",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOEVnR09LdGZNYjdSQTFtY0RVMk5JSWE3RWNWYzkxYnhReTdySGYwZUFLRm5LS3BER2RTY0hmOGM3ejVaSFVONk1uYW9NVHpxeGVlVm9XUnhKeGZudHZIbHFsd25NYUFGSDM3MXRxZjZWWUMwLUZfMkZKVl9JSDVxMFBlYnN4VmFQY1JTaFQ3NG5jbER0VFlEeHJUSW9sYUJUdXprYWI3MjRFcW9aaWlj?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PVWt3TFVwenNER3BiY2VsRUJJb0E4Ukx0TlV5Nm1GVHZ5TUc5ZWt5dDBGSGZ2V2JYemI3VFV1WkhocUNoWDUzMEN5ZGpPTUx0MWxKcXgwLURIVWNQUHVjZQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -699,11 +410,24 @@
       "id": "9717821849f7",
       "title": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração - ICL Notícias",
       "published": "2026-11-03T12:13:12+00:00",
-      "summary": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasApenas 30% dos hipertensos seguem o tratamento, dizem médicos ao Dr. Kalil&nbsp;&nbsp;CNN BrasilCombinação de remédios pode melhorar controle da hipertensão&nbsp;&nbsp;Poder360Clínica São Vicente explica o risco de interromper remédios para pressão alta e diabetes&nbsp;&nbsp;O Popular do ParanáAVC, sintomas, prevenção, diagnóstico e tratamento&nbsp;&nbsp;Revista Newslab",
+      "summary": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasSal com menos sódio pode reduzir o risco de AVC em hipertensos&nbsp;&nbsp;Tua SaúdePotássio na dieta também ajuda a controlar a pressão alta&nbsp;&nbsp;Diário do SudoesteHipertensão: 7 frutas que você deve adicionar à sua dieta.&nbsp;&nbsp;Vietnam.vnPressão alta: 10 alimentos que você deve evitar no dia a dia&nbsp;&nbsp;DOL",
       "sources": [
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZcFFnRUtLVXlIdEVTUGFIbU1oMmtoQzUwMWFMWS1XcmRjMG1kMXNkQnBzeEEwcjlIODd4ZGMzSzFldFQxeVozeTF1c3V3S2ZTbXlPR0t1ZmhOaXVzQi00OWQ1REU5d05jRUpoWjg5eTNTTnRiMU1V?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a2ae86f04dce",
+      "title": "O desafio da educação afro-brasileira - Revista Pesquisa FAPESP",
+      "published": "2026-11-03T11:57:00+00:00",
+      "summary": "O desafio da educação afro-brasileira&nbsp;&nbsp;Revista Pesquisa FAPESP",
+      "sources": [
+        {
+          "name": "Revista Pesquisa FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UT3lUaDR2TzFtMkdxVk9USEpaNlFyd3dadWwtNklDaUpLYXBQZHVIRWR3WWhCZi04WU9kNUdwY09lZ0FEOWFVLVU1cGswNEhpU0lneTJoVVJtenFvaDVZTGxpUFVBT3ZjS0NUdXQzZ1BnVVJRX1RzbWY3NVM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1219,6 +943,23 @@
       "matched_keywords": []
     },
     {
+      "id": "b99e6165930e",
+      "title": "Lua hoje: confira a fase da Lua desta terça-feira 3/11/2026 - Olhar Digital",
+      "published": "2026-11-02T10:57:12+00:00",
+      "summary": "Lua hoje: confira a fase da Lua desta terça-feira 3/11/2026&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRGozQ0tFSm5pbHBweXhYYWVQaUZiNXJsTC1wNF8zdF8wMHh1aU53ejFnNzhVT001S0l4VW1kRDh2ay0tYkdNSlZ5cnFWdERqVUxkczR6alhudFl2UlYtVl80eDYwbDBydGN5T3JsWExaeE1ZUXFjZG9SRWJITWRJbTVGWW9JT09PYWJkRDNuNmh0bERnenlLbV9EMU9sOGljUExMdHFibTFoUlpWNXlDRmNQTDVxQQ?oc=5"
+        },
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21wRGRzVG1reVlSVVFJczF3dkZHa0wtYWJYQmtnd05jbnhPc1U1ZGZtdUl1anotV3R0RUw3bzJIczZ2bWpZSzUtMjdROGE2U09QMnZ5b2xTYUJVbXhtZXg0RHRlQ3ZLazB6S3kyb2VSMTFWNmprOXowUktlQUY0d0EwaVM1MWtTUnZGanFDN0p5YlEzX09ocUp0eThiajl0TWh6Q2lNRk9ZS09FTW9jTXZ2WVl5ZWhK?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f7db5ae739cf",
       "title": "Emissões de carbono das hidrelétricas estão superestimadas, dizem cientistas - Inovação Tecnológica",
       "published": "2026-11-03T09:35:37+00:00",
@@ -1227,6 +968,32 @@
         {
           "name": "Inovação Tecnológica",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmd0NXZwNTF4TXVwdnlNWlRNUEx1SzhwQ2JDaDdWeE56LW83MkdKOXVkVHZWbmhHWTRHOWFyQ29FOGdFM2h4N2ZzbGtRR1FfU3Z4WWpVaVNUYXdLcGFleGdaeXR6MjZJNXdBb3d6YXRzT0pLT2pNLXIyeDVtNUhYNWRDcnhXcWRCdG9SeUFpYlR1bVdyTXBCVFhYNGV2SzdRcVBsczdTUFB0dTJVMHVvazJGRQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f6919709866d",
+      "title": "Dormir bem virou negócio: economia do sono pode movimentar US$ 134 bilhões até 2031 - Época Negócios",
+      "published": "2026-11-03T09:00:02+00:00",
+      "summary": "Dormir bem virou negócio: economia do sono pode movimentar US$ 134 bilhões até 2031&nbsp;&nbsp;Época NegóciosInsônia atinge 45% dos brasileiros e é tema do programa Conversa Saudável, da TV Assembleia&nbsp;&nbsp;Assembleia Legislativa do ParanáDormir mal pode sabotar sua dieta; veja o que acontece no organismo&nbsp;&nbsp;Jornal CorreioMais de 30% dos adultos nas capitais sofrem com insônia, alerta estudo&nbsp;&nbsp;bra1.com.br",
+      "sources": [
+        {
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNejBEZ3BDdTZWdFNadXNxRWhtQmR2a1c2di14dVJOckQzNlNrcDRRaW81ZlF1TE1tZWtibGE1RDdkdU5TcXNPdi1lUjJrWEZQMUJQQUZnWW04TWhFREdJVHF1NTNwR3VTdGVPSEJxcklWMFdjRHNwaDA0M0lSbVlnUGpQZHQzZjRyUVlDc2NkTEZiUW94ZXRUX3BMcDJZNFY0LW10eEotZ19XeGZ0a1hmZVFuQjBvV3hZSjh2a2FlS0otczNVTjQ4SEY1YjVpZGgyeG01R1V1Y19IcjBoV000aUJ2Tmgyd0QtR005dG53UHk1dUFTVGpV0gGGAkFVX3lxTE9tcHFyYWFBSTFWMjVqTzI3MXkwMGQ2Uk9jMFViSUhCZGd0VDhQWDYxdkc0T0t5clg2TC1yVkRObG5DcU1hY096OXE5OU9GTGtLZVk3bTB1ZlhHcGxEVFlXdmhmSkVobmJSR2FCenpEQTZHTUp2N3BCejZOaFFtMVFMcndaaU5tTkM4ZkdwWFl4SVNaSkFqNHdrbVNPOS1kOTRSeUJVR0JuRnZBcVg1SUZ2ZTdkd1VSZnZDMHEtSWhjTnNhbUs3WEpZSGZVa0UxNmFLenV3SE9TRzBZc2twaHdxZ1NwUVhEczlJbmplTlBVRnZKUDBncFQwZnk0ck9vY1V2Z2VsRHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "524d305752fe",
+      "title": "Alzheimer: sintoma inicial que parece depressão costuma ser ignorado",
+      "published": "2026-11-03T08:30:00+00:00",
+      "summary": "Alzheimer: sintoma inicial que parece depressão costuma ser ignorado&nbsp;&nbsp;UOLEsquece-se de nomes, perde as chaves ou entra numa divisão sem saber porquê? Médicos explicam quando deve preocupar-se&nbsp;&nbsp;Executive DigestEstudo com 2,8 milhões de pessoas identifica 127 regiões do DNA ligadas ao Alzheimer&nbsp;&nbsp;Tribuna do ParanáAlzheimer vai além da genética e envolve fatores de risco modificáveis&nbsp;&nbsp;Grupo A HoraEsquecimento frequente é sinal de Alzheimer? Veja como diferenci",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOU5oUTRiaHNmb2tPVTY0TDFkTnNZQkhqSTljMzhTSDc3YmFvV1lCM1pqdGFrWkN1c3pFRXVjbEYxNlRKY004TWR3OGdpbXBORC0tS2JFS1lFYWZHdDU0R2N5UE9KM0U0SDhZNWt4d2NnTE9TRzVyaVZMcGVramxqSVQ4TmtFVThGMjlXTDdqcXRfWWxLRkNYQjR0aUdhR096WlJrY1RDRlJoYmVYZ0VBNEdrUUtHZTRXa1k4dFBvNHR3RFd0T1JfeldWV0hITGtvTTVj?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1248,7 +1015,7 @@
       "id": "1a60af8874ac",
       "title": "Novembro Azul: casos de câncer de próstata cresceram 4 vezes em homens com menos de 50 anos nas últimas duas décadas - O GLOBO",
       "published": "2026-11-03T07:30:00+00:00",
-      "summary": "Novembro Azul: casos de câncer de próstata cresceram 4 vezes em homens com menos de 50 anos nas últimas duas décadas&nbsp;&nbsp;O GLOBONovembro azul: Rio tem previsão de 9 mil novos casos de câncer de próstata, terceiro estado no ranking nacional&nbsp;&nbsp;O GLOBOICR.T destaca prevenção e cirurgia robótica no Novembro Azul&nbsp;&nbsp;TerraNovembro Azul: próstata pode crescer de forma benigna, e tem cura&nbsp;&nbsp;Agência BrasilNovembro Azul: PMM intensifica cuidados a saúde masculina&nbsp;&nbs",
+      "summary": "Novembro Azul: casos de câncer de próstata cresceram 4 vezes em homens com menos de 50 anos nas últimas duas décadas&nbsp;&nbsp;O GLOBONovembro azul reforça importância do cuidado com a saúde do homem&nbsp;&nbsp;G1Edifício-sede do STF ganha iluminação especial em adesão à campanha Novembro Azul&nbsp;&nbsp;stf noticiasNovembro Azul: MPSC atua como garantidor dos direitos da pessoa com câncer de próstata&nbsp;&nbsp;Ministério Público de Santa CatarinaUnidades da Prefeitura de Manaus intensificam c",
       "sources": [
         {
           "name": "O GLOBO",
@@ -1755,19 +1522,6 @@
       "matched_keywords": []
     },
     {
-      "id": "eabc728753bb",
-      "title": "AVC isquêmico ou hemorrágico: entenda as diferenças e os sinais de alerta - Diário do Centro do Mundo",
-      "published": "2026-11-03T01:40:57+00:00",
-      "summary": "AVC isquêmico ou hemorrágico: entenda as diferenças e os sinais de alerta&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWI5Q1ljc3c3RV9MOUFxOWJVUGRiMERWa29wYTFiYnBPSEVRc2Z2bHUxRnpxS3hOTUxybm1xdlN4R3BWejBUdWEtcDctdFd6QmRZc202eVZwcUdRSExQY3JxdXJWZjFuLWZveW5Odnp6TU5Wcng0MlZKbVZqQm84UXEydjJxRXFtVnJWakxweGVNU0owLVFZU29wbFBLNExZVkF1S1c4VUJ5MzBzMDRVanRLWV9veHRHTEpvbDZxWFA3QQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "434de7ad28ef",
       "title": "Nova espécie de planta no Cerrado homenageia Marina Silva e já nasce ameaçada - Rádio Itatiaia",
       "published": "2026-11-03T00:00:38+00:00",
@@ -1794,19 +1548,6 @@
       "matched_keywords": []
     },
     {
-      "id": "29143cb80ea1",
-      "title": "James Webb revela novas pistas sobre a origem do visitante interestelar 3I/ATLAS - Olhar Digital",
-      "published": "2026-11-02T21:24:00+00:00",
-      "summary": "James Webb revela novas pistas sobre a origem do visitante interestelar 3I/ATLAS&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlBQR3lfUGJZTlJhcnEwdUdqRVh5dUNFVzNYSEFRTnlic0ZYby1ZbVUtbnphRlpsblJOLWdKNzh0cF9uODBlTF9PR3h5bnJMbGNFeVA5T0NuSnp4ZGN2SHFXTENjUVlOZlp6eWtUbjlGcnN1S2VKMXA1TnMyS3hIN0RZc3Y0V2tUZHlLZXNwbGVMeGtjX09zUXYzTlZmOVZ6T1Zmb0JqbjlTQnluNlJXZnFoWTBPenpEcDA0UUo2bW5lbFV3TnltTW1xdWtJWko5ZUVJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "cfdd91fa55bf",
       "title": "Nasa encerra missão simulada a Marte após um ano de confinamento - Diário do Centro do Mundo",
       "published": "2026-11-02T21:10:37+00:00",
@@ -1820,27 +1561,14 @@
       "matched_keywords": []
     },
     {
-      "id": "93c440882a03",
+      "id": "eac22f83986b",
       "title": "IMPA Tech abre inscrições para 50 vagas em Teresina; veja como se inscrever",
       "published": "2026-11-02T21:04:00+00:00",
       "summary": "IMPA Tech abre inscrições para 50 vagas em Teresina; veja como se inscrever&nbsp;&nbsp;CidadeVerde.com",
       "sources": [
         {
           "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlk4UmZsLWZJcHlUZ196UWpSSkk0blg4YUtZcDBfb0xNcXNUR2pJTWFjTFlMY2ZwRVVKMnNHTW4xZzU1UUR0bEZweVhBZXpPYmdUYUl0Smdlc1lPX1VNLTIzTThwTjhfbjdHNVFBdjFNd1pEM3B3RFJ3TVdaa2EydjlwMVhLbVpaV2JYS3NDSmpzSnoyT1N4b0xwdlFvM1F1dEE2SmlEekRxamYzcHY2djN0U1g?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "eb9190d42e77",
-      "title": "Novo Experimento de Aprisionamento de Stanford: um estudo abusivo deveria virar reality show?",
-      "published": "2026-11-02T20:42:39+00:00",
-      "summary": "Novo Experimento de Aprisionamento de Stanford: um estudo abusivo deveria virar reality show?&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XdjJhWjdEYjB0bFFocWpYMDhwRUpiTUxCUTNfX1pGbDNPaFJfN2ljQjhCSHBzUVR1RUxDOTJmQ205aWEtdHNLQ3Jybk9EYmtDVWFid3RmZWpUUHRUZ1VYODIzTdIBaEFVX3lxTE5zaFBvX0xIVnVJeDBPZEs2ZUlIcjhxZUFUaDJyR3BXWXRFUGpRN0RDYnNSSlpmRnRvVEdVU19GWnhoSmtQdVpYTUNPSnNvMmhGYmdKaU1Bc2NDVkk2d2JpTzN6WG9JY3N5?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVV80S3lxWXlNcjFOc3pUX1EzR3hpcjFOX0RnOXAxelFNcmR6TjZjRVhoM2pNelpiWmdfdzlvRXc5YWkxVzQtWFRnWURERW4wdlIzVjlYX3FNMENpRy10bG5BY1hVVUt0TGZ6Y0NHZDFEeDdscFk2eWxDeWtBbDlHZmd4Sy1XNGVEOS05b0VfYXhJZWhfdkNmc2huNjYzd3hRYUJvRHNzVklsY1NEQzczeg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1854,32 +1582,6 @@
         {
           "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ2w4OWxTdUVxSlJlcU0tcHIxdkpyZDh3SC1IbVVYbU9FbWNjamdfSnpZbTh2Y0w2S29jc1dDNTl0emVnck9BR05UWThRamdLeUQ5bVdianpCT0xHSUYtQjlrbnc1azdEczZiWjZXRS00SzFpRlF0Ukd3am9SQlZaOFI2M2dkS0tldmZrMkdWakdYUktYZDFITU52dHc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d2faeb316195",
-      "title": "A psicologia revela: um narcisista vulnerável é um dos mais perigosos porque é difícil de reconhecer; aqui estão as dicas essenciais para não passar despercebido",
-      "published": "2026-11-02T20:11:00+00:00",
-      "summary": "A psicologia revela: um narcisista vulnerável é um dos mais perigosos porque é difícil de reconhecer; aqui estão as dicas essenciais para não passar despercebido&nbsp;&nbsp;Purepeople",
-      "sources": [
-        {
-          "name": "Purepeople",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUGhrN0RqUEpMNFZrcUhoX1lqYTM0MnJVVEU0dzNUSEFGalVPYURiMi1qam9STWhGZjl6Ykt2YTJodGxETHNjQnlnZ012SVdZb1drdTlKTW9pYlRkcDg4ZGRmMVZXaVhKcDZVazNSX0YxZjRaTlJoNGdSY25MTzFwT285UDYxbzJFOUxENTNuRHJzVndmVHpVaVczdXNvSTZieWhBRUZUMk5Ub2RJUGFURmFhX1U3T2pQR0JPVGRROGNDeExjNmZjWTFBekFaQWw0dnpTSDdhZ3lHOVZP0gHiAUFVX3lxTE45Z1pPLXhkYzNXNXVreS1yYUZFNTkycUhOM1Utemh2Wnp0eW1JSWZ4Vi1DLXBMcVZEelVOamhETXNhQVVTR3VDQmVBU0M3c24ydGpER2FxcElRSTlLNlFCMlYxaFA3dmlTVHctdHhlWWdnZmdkV0wwcHlEckN3UVUwOXF4NlEyaEpkZFpHRnNSaTRfcE9tQzlmV2Rzc3JTY09oelJaQW5HVTk2c3FKNTVZakI4TTBEMHh0Z2tXTmsxQjV5UkhaRXJSeWxlbjdWMnFBMjRXWEJsek5xSnF2dUhXdVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9afac51949fd",
-      "title": "Pesquisadores encontram sangue em fóssil de 115 milhões de anos no Ceará e revelam semelhança entre dinossauros e humanos - O GLOBO",
-      "published": "2026-11-02T20:00:00+00:00",
-      "summary": "Pesquisadores encontram sangue em fóssil de 115 milhões de anos no Ceará e revelam semelhança entre dinossauros e humanos&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNOGVGNUpweUgzbElCQVlUc1B5UnNybktSUUh5eWJLUXpnXzNHSjRiVF9PeE1jOVpuRHV0OXE5RG9uNWU3R2EwWmZoWFpSdW8zcXN4LTBUYWlOS25qNDlBTWQ2ZUdpNHFyNWJFdVhDc29ldlpzVUZGTDZfRUdYbFAwa3RxTG9DbUFjUDE5RTQydHEwUE1YVktobEVXODk0dTBOU0VKR0VtZDQ2TmRTLVcxQnVINmRGSHlBQ2pKSnAzZjAtckVyVGNicVFFa0pGanBRYmtIZEpSSHFrdVRqanJpWS1hT2t4SHRPcnV6VEFaN2xrMFBFYmNMak1lM29KZ0IzMkZOXzhFYnFUQdIBmAJBVV95cUxPSDdMdFZUTTlhamxXdUUtcnd6ZkZ4T3pFOTF3d2lmQUYyNFFNcnlMTDFDa0tJODZ0Y3pITVpfelo4WEs4VHlHa0pBQjd5MTRvVjVleVlfT1IwS1hrQUlLdW5ocnozSVFyTXdHeHluUWdZckU1d0w4UEIzUGgyM3dzMzBZdmlEZzYxODVFQkotYUhSWUVkY24yRUd4ampnV1U0U2U0M0QxSW80NFRNbUhnLVctRzV4LVo4YUVXNGttZ2NRWTQtUEZiYjdCVkxPa0RmYjlDTUpkM2pTaFNRRFpBMERseTlnaEtpN2lvenctN3lXYzlBSjBSQmh0QzJZdVZVNE83R1cyQ2VGWEg2cVZfNW9rSVFCbG9s?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2382,19 +2084,6 @@
       "matched_keywords": []
     },
     {
-      "id": "6d6c6e95eea4",
-      "title": "Foguete lança satélite que consegue enxergar a Terra através das nuvens - Olhar Digital",
-      "published": "2026-11-02T19:05:00+00:00",
-      "summary": "Foguete lança satélite que consegue enxergar a Terra através das nuvens&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHdrZ3prcV93OEJCRGNVRjF4TjNvMm1FdlhpaHdrcUhBUFB0U1M3b3A1bUw2UXZmYXd3Wkl6eHFDaTVHcjQyMVo1LWQtSnh4WGwtMnpGMVNvRzZyWDNkbGxxZVN4R0JReVp6Wi16ZUtKQmlyTXdYaTMxRFQxVWJDZUZKcTFtR2RUc0poVDdhRUMxNVAxQVczbjRjZ3EwU0VaTldyZlBtVHlTUVFUZlVWM28tUDg0bEYxMDg4TmlrUnZUTTBUY3JZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "674210ea2812",
       "title": "Bayer licencia tecnologia de fixação biológica de nitrogênio - Revista Cultivar",
       "published": "2026-11-02T18:55:00+00:00",
@@ -2408,19 +2097,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c9507e268bc5",
-      "title": "São Pedro não colabora? Previsão de chuva adia Feira da Lagoa Itatiaia mais uma vez",
-      "published": "2026-11-02T18:49:00+00:00",
-      "summary": "São Pedro não colabora? Previsão de chuva adia Feira da Lagoa Itatiaia mais uma vez&nbsp;&nbsp;Midiamax",
-      "sources": [
-        {
-          "name": "Midiamax",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRl85VlJGaTZkUjcwZTVmREU0RlctN0tLNVl1aW5Wa0c0R1JLS0V3aWtFWFFkM2JZbl94cmRNSXpTYkIyemRFRUlTamljLVMzWmg2VEwwY0ZUdFl1a3JDemFSOWJsY0MzWDgzcldxZS1yZ0wyaVQ5cHZjbkwzUnhFNHdqZHJoQ0g3QXBIUVlyek9abW1FWEhRVkNwdWVqSzhXWDAyY3l5UnVzSTYwa1pwSzB3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "500944e84d02",
       "title": "Cientistas buscam descobrir porque órgão sexual masculino impacta na expectativa de vida",
       "published": "2026-11-02T18:47:27+00:00",
@@ -2429,19 +2105,6 @@
         {
           "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZnBHR0xERmR3VU1SSEc4SFBYRk5jSGJENW9reE9pWmJtQjN3VzNsUkItWHZILWpiS1lzRkJITWQxN2swQzczaXBLTXgycXlKY0FyenR2V0pTbzJ6VF8wRHJuY0x4b0dpWDlRek5tWHY1OTk2RlBESTBOdmdmVXlCYXFFaE9NY2I5UFgyV2J5VWcxUkZZTmh2SWd6cHlyWHo4YnBqU2NLVHV1N013LTZKLVJROE1MUUo0LTRDUmVKSXdLcnF6aEl0LTBFUjZZc3JMOGY3N0R4MUcxVjFRUmVlbdIB7wFBVV95cUxPU19nUXllak1tbEUwYU1xTzh1SXk1Vm5yUW9BZWlTdWFQalVZSm1qVlFBOGdGWEltOTJHNGZ1NU15ZkE5RTg3TEtkMExaUERocEp3dDRWSWNQM09tWlBISHVoYXVhUnNEVXFiOWVTLUxnRXN4YjlVdGZyUmtBU2ZLSTRjb3hwZ3hwaEUzYWM1djFTVjNvWlpoekhUUV9VM2R1bzd6SE5lZkVwempiR1FCYVkzQUl4RFJCNVFkc3R0ODA0X05xcFhEbXBzaDFjV2cxUk01eUhaOVlJbGVZRmJaRVkxWEhoeDVURkxCdC1wUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "434c76b084ce",
-      "title": "Trocar grãos refinados por integrais pode trazer benefícios cardiovasculares - Folha de S.Paulo",
-      "published": "2026-11-02T18:30:00+00:00",
-      "summary": "Trocar grãos refinados por integrais pode trazer benefícios cardiovasculares&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTUpUbC00OExLdkFYVkRxN1BRcG1ZNGhKbmxkb3dtNUFZb1dDTEhxMkVCTmxiWFNxTUptM1ZEMkMzeTQxeTRmTFdBVGNFS0RMTlNyelQ2eUtyWkFpRGt3b3BqS1lJd2oyVkRiNWZDRkJaUmlwaVFTUTN1anZncnJEN1JvTXNwdTlDUFdCOFZZOVNscHdpMDZSSUhkV05KSnc2MzlYZ1djX0c4T1A2MXF3UWk5ay05QmEtZnAyazdtWnAyNUVuUTZXdVd0Yw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2502,7 +2165,7 @@
       "id": "bdd42296ea03",
       "title": "\"Serpente robô\" passeia por corpo humano para tratar doenças; entenda - CNN Brasil",
       "published": "2026-11-02T15:19:00+00:00",
-      "summary": "\"Serpente robô\" passeia por corpo humano para tratar doenças; entenda&nbsp;&nbsp;CNN BrasilMIT cria \"robô serpente\" para investigar interior do intestino delgado&nbsp;&nbsp;MetrópolesRobô serpente do MIT percorre intestino por dentro para tratar doenças&nbsp;&nbsp;Globo'Serpente robô' criada pelo MIT percorre corpo humano por dentro para examinar e tratar doenças; conheça&nbsp;&nbsp;TerraMIT: investigação sobre robôs que examinam o intestino de dentro&nbsp;&nbsp;Distrito Online",
+      "summary": "\"Serpente robô\" passeia por corpo humano para tratar doenças; entenda&nbsp;&nbsp;CNN Brasil‘Robô serpente’ pode ajudar a tratar doenças no intestino; veja como ele funciona&nbsp;&nbsp;R7Robô serpente do MIT percorre intestino por dentro para tratar doenças&nbsp;&nbsp;GloboCientistas criam “robô serpente” para examinar intestino delgado&nbsp;&nbsp;A TARDEMIT cria \"robô serpente\" para investigar interior do intestino delgado&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -2523,477 +2186,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "3f96e8c397ad",
-      "title": "Mortes por câncer do colo do útero podem aumentar quase 40% no mundo até 2050, aponta estudo",
-      "published": "2026-11-02T15:00:01+00:00",
-      "summary": "Mortes por câncer do colo do útero podem aumentar quase 40% no mundo até 2050, aponta estudo&nbsp;&nbsp;G1Estudo prevê 522 mil mortes por câncer do colo do útero no mundo até 2050&nbsp;&nbsp;Afya | HomeMortes por câncer do colo do útero podem subir 39,3%&nbsp;&nbsp;BNT - Boca no TromboneCâncer do colo do útero pode matar mais 39,3% até 2050&nbsp;&nbsp;n3news.com.brMortes por câncer do colo do útero podem aumentar quase 40% até 2050&nbsp;&nbsp;Jornal da Fronteira",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWUFaSnZ1Q3lZcXUyQjl6NE4zcndhU016ZTVhUTVTOXF2S2ZXSXJEdkFZdjNpaHVoOFk1ZWQ1RjBXaXg1NzJvdDJhQTJ1MFNaR3RNUDhPM2Y0cGtCb00yRThGcVNOOExFMWNxaGhhUGY2Y2luWWVZN3lEdWhmUzAxN1dJZDVpbWUycUV3OVQyOVdIcUZCSVlpNjQ1aU93TnBKNUtnaUJlSGMtdVVGbWttM2ZmRUZWRkN2U01mTk5zdDMxdzBpVmdKc2hHZldyTENTVkhjYWZYTmRVdEdRUDdWSDFiY9IB8gFBVV95cUxPSVB2TUtIR1Nza0lxSU1DV1dwdTU1eE1wMWJzSmNKQnY2Y0Rlbl92Ry15dHZOc0F2NkJuSWxoUFp1MzBIVlp1d3hzajllMnNwMGxORllsZHhlcUQ3YnljdUtzSTJZbVBWU3otXzFneE8tVlNuQzBsdGoxbUZoaVN2VktZU2VlQVRINXRMV2N2c2o5RGVlTE1IaENfSGtzUGRiek9vbTNhYXIxQnZYOElielFpQTZDWmhaQ1BUd2ZJbDZMLWUzWW9xa19jb0hCdnhTd0hteG5xcWtEUld0R0g1Y29MOGtRd0lreE5hd0VGOEdxZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "câncer",
-          "related_drugs": [
-            {
-              "slug": "imatinib",
-              "name": "Imatinib",
-              "url": "/drugs/imatinib/"
-            },
-            {
-              "slug": "oxaliplatin",
-              "name": "Oxaliplatin",
-              "url": "/drugs/oxaliplatin/"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "Ampicillin",
-              "url": "/drugs/ampicillin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "ceftriaxone",
-              "name": "Ceftriaxone",
-              "url": "/drugs/ceftriaxone/"
-            },
-            {
-              "slug": "pegaspargase",
-              "name": "PEGASPARGASE",
-              "url": "/drugs/pegaspargase/"
-            },
-            {
-              "slug": "potassium_sulfate",
-              "name": "Potassium sulfate",
-              "url": "/drugs/potassium-sulfate/"
-            },
-            {
-              "slug": "plerixafor",
-              "name": "PLERIXAFOR",
-              "url": "/drugs/plerixafor/"
-            },
-            {
-              "slug": "phenytoin",
-              "name": "PHENYTOIN",
-              "url": "/drugs/phenytoin/"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "phenobarbital",
-              "name": "Phenobarbital",
-              "url": "/drugs/phenobarbital/"
-            },
-            {
-              "slug": "risdiplam",
-              "name": "Risdiplam",
-              "url": "/drugs/risdiplam/"
-            },
-            {
-              "slug": "letermovir",
-              "name": "Letermovir",
-              "url": "/drugs/letermovir/"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "LISINOPRIL",
-              "url": "/drugs/lisinopril/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "IRBESARTAN",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "cefaclor",
-              "name": "Cefaclor",
-              "url": "/drugs/cefaclor/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tamoxifen",
-              "name": "Tamoxifen",
-              "url": "/drugs/tamoxifen/"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "Methotrexate",
-              "url": "/drugs/methotrexate/"
-            },
-            {
-              "slug": "relebactam",
-              "name": "Relebactam",
-              "url": "/drugs/relebactam/"
-            },
-            {
-              "slug": "imiglucerase",
-              "name": "Imiglucerase",
-              "url": "/drugs/imiglucerase/"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole",
-              "url": "/drugs/secnidazole/"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "CLONAZEPAM",
-              "url": "/drugs/clonazepam/"
-            },
-            {
-              "slug": "captopril",
-              "name": "CAPTOPRIL",
-              "url": "/drugs/captopril/"
-            },
-            {
-              "slug": "fluconazole",
-              "name": "Fluconazole",
-              "url": "/drugs/fluconazole/"
-            },
-            {
-              "slug": "hesperidin",
-              "name": "Hesperidin",
-              "url": "/drugs/hesperidin/"
-            },
-            {
-              "slug": "cysteine",
-              "name": "Cysteine",
-              "url": "/drugs/cysteine/"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol",
-              "url": "/drugs/sorbitol/"
-            },
-            {
-              "slug": "dantrolene",
-              "name": "Dantrolene",
-              "url": "/drugs/dantrolene/"
-            },
-            {
-              "slug": "cefdinir",
-              "name": "Cefdinir",
-              "url": "/drugs/cefdinir/"
-            },
-            {
-              "slug": "basiliximab",
-              "name": "Basiliximab",
-              "url": "/drugs/basiliximab/"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "Azithromycin",
-              "url": "/drugs/azithromycin/"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus",
-              "url": "/drugs/everolimus/"
-            },
-            {
-              "slug": "colchicine",
-              "name": "COLCHICINE",
-              "url": "/drugs/colchicine/"
-            },
-            {
-              "slug": "mometasone",
-              "name": "Mometasone",
-              "url": "/drugs/mometasone/"
-            },
-            {
-              "slug": "topiramate",
-              "name": "TOPIRAMATE",
-              "url": "/drugs/topiramate/"
-            },
-            {
-              "slug": "baclofen",
-              "name": "Baclofen",
-              "url": "/drugs/baclofen/"
-            },
-            {
-              "slug": "penciclovir",
-              "name": "Penciclovir",
-              "url": "/drugs/penciclovir/"
-            },
-            {
-              "slug": "nomegestrol_acetate",
-              "name": "Nomegestrol acetate",
-              "url": "/drugs/nomegestrol-acetate/"
-            },
-            {
-              "slug": "isotretinoin",
-              "name": "ISOTRETINOIN",
-              "url": "/drugs/isotretinoin/"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel",
-              "url": "/drugs/cabazitaxel/"
-            },
-            {
-              "slug": "aztreonam",
-              "name": "Aztreonam",
-              "url": "/drugs/aztreonam/"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "LORAZEPAM",
-              "url": "/drugs/lorazepam/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "CALCIPOTRIOL",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "serine",
-              "name": "Serine",
-              "url": "/drugs/serine/"
-            },
-            {
-              "slug": "clarithromycin",
-              "name": "Clarithromycin",
-              "url": "/drugs/clarithromycin/"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole",
-              "url": "/drugs/albendazole/"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "CARBAMAZEPINE",
-              "url": "/drugs/carbamazepine/"
-            },
-            {
-              "slug": "lactulose",
-              "name": "LACTULOSE",
-              "url": "/drugs/lactulose/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "Amoxicillin",
-              "url": "/drugs/amoxicillin/"
-            },
-            {
-              "slug": "adapalene",
-              "name": "Adapalene",
-              "url": "/drugs/adapalene/"
-            },
-            {
-              "slug": "elafibranor",
-              "name": "Elafibranor",
-              "url": "/drugs/elafibranor/"
-            },
-            {
-              "slug": "trastuzumab",
-              "name": "Trastuzumab",
-              "url": "/drugs/trastuzumab/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "RAMIPRIL",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "praziquantel",
-              "name": "Praziquantel",
-              "url": "/drugs/praziquantel/"
-            },
-            {
-              "slug": "deferasirox",
-              "name": "DEFERASIROX",
-              "url": "/drugs/deferasirox/"
-            },
-            {
-              "slug": "potassium",
-              "name": "Potassium",
-              "url": "/drugs/potassium/"
-            },
-            {
-              "slug": "tetracycline",
-              "name": "Tetracycline",
-              "url": "/drugs/tetracycline/"
-            },
-            {
-              "slug": "sorafenib",
-              "name": "Sorafenib",
-              "url": "/drugs/sorafenib/"
-            },
-            {
-              "slug": "vinblastine",
-              "name": "Vinblastine",
-              "url": "/drugs/vinblastine/"
-            },
-            {
-              "slug": "tezacaftor",
-              "name": "Tezacaftor",
-              "url": "/drugs/tezacaftor/"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "BISOPROLOL",
-              "url": "/drugs/bisoprolol/"
-            },
-            {
-              "slug": "vancomycin",
-              "name": "Vancomycin",
-              "url": "/drugs/vancomycin/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole",
-              "url": "/drugs/letrozole/"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine",
-              "url": "/drugs/capecitabine/"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab",
-              "url": "/drugs/bevacizumab/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "chlorthalidone",
-              "name": "CHLORTHALIDONE",
-              "url": "/drugs/chlorthalidone/"
-            },
-            {
-              "slug": "ciprofloxacin",
-              "name": "Ciprofloxacin",
-              "url": "/drugs/ciprofloxacin/"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "LAMOTRIGINE",
-              "url": "/drugs/lamotrigine/"
-            },
-            {
-              "slug": "iopamidol",
-              "name": "Iopamidol",
-              "url": "/drugs/iopamidol/"
-            },
-            {
-              "slug": "atenolol",
-              "name": "ATENOLOL",
-              "url": "/drugs/atenolol/"
-            },
-            {
-              "slug": "doxorubicin",
-              "name": "Doxorubicin",
-              "url": "/drugs/doxorubicin/"
-            },
-            {
-              "slug": "megestrol_acetate",
-              "name": "Megestrol acetate",
-              "url": "/drugs/megestrol-acetate/"
-            },
-            {
-              "slug": "gestodene",
-              "name": "Gestodene",
-              "url": "/drugs/gestodene/"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "CARVEDILOL",
-              "url": "/drugs/carvedilol/"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "Levofloxacin",
-              "url": "/drugs/levofloxacin/"
-            },
-            {
-              "slug": "ambroxol",
-              "name": "Ambroxol",
-              "url": "/drugs/ambroxol/"
-            },
-            {
-              "slug": "polymyxin_b",
-              "name": "Polymyxin B",
-              "url": "/drugs/polymyxin-b/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "avibactam",
-              "name": "Avibactam",
-              "url": "/drugs/avibactam/"
-            },
-            {
-              "slug": "calcium",
-              "name": "Calcium",
-              "url": "/drugs/calcium/"
-            },
-            {
-              "slug": "norfloxacin",
-              "name": "Norfloxacin",
-              "url": "/drugs/norfloxacin/"
-            },
-            {
-              "slug": "sirolimus",
-              "name": "Sirolimus",
-              "url": "/drugs/sirolimus/"
-            },
-            {
-              "slug": "venetoclax",
-              "name": "Venetoclax",
-              "url": "/drugs/venetoclax/"
-            },
-            {
-              "slug": "valsartan",
-              "name": "VALSARTAN",
-              "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "02f65296da63",
@@ -3061,23 +2253,10 @@
       "matched_keywords": []
     },
     {
-      "id": "b80460c726be",
-      "title": "De Adamantina, Sítio Jerivá vence Prêmio SP Carbono Zero em projeto de agricultura de baixo carbono - Siga Mais",
-      "published": "2026-11-02T13:18:51+00:00",
-      "summary": "De Adamantina, Sítio Jerivá vence Prêmio SP Carbono Zero em projeto de agricultura de baixo carbono&nbsp;&nbsp;Siga Mais",
-      "sources": [
-        {
-          "name": "Siga Mais",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTEVVM2pYbV9mOGR6TVpKYUdYUlZBYnkxUUJ1OTdBRFYxTVcwVHUxcl9UUEQyaElhRzNjZ19hVDJibmoxclRMTlZBSmpqM2s2RW1NWFVzaFJQYVFJY0RHS1AzOHJHamZYOHN4ei1MN2xMdlNOVXVvaHU1S2RDYzE4alZ3d0RjX2E4V1FvcnpjSlhaNGIzeV83YkZoeTRLb1JCdk1hYW8xcEd4ODdPdTNPcmM3OVdKY1FhZUV0NEk4V1VUT2ZJSjVNakxpcnpYdU52dFRkZFRhcjA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "29f7ec5588fe",
       "title": "Prefeitura de Maceió inicia vacinação antirrábica no sábado (7) - Prefeitura de Maceió",
       "published": "2026-11-02T13:16:00+00:00",
-      "summary": "Prefeitura de Maceió inicia vacinação antirrábica no sábado (7)&nbsp;&nbsp;Prefeitura de MaceióAracaju inicia campanha de vacinação antirrábica com pontos fixos e drive-thru&nbsp;&nbsp;G1Caruaru promove campanha gratuita de Vacinação Antirrábica&nbsp;&nbsp;CBN CaruaruPrefeitura de Itaboraí realiza vacinação antirrábica em bairros do município&nbsp;&nbsp;Portal Oficial da Prefeitura de ItaboraíPrefeitura de Penedo inicia Campanha de Vacinação Antirrábica com atendimento no antigo SESP&nbsp;&nbsp;",
+      "summary": "Prefeitura de Maceió inicia vacinação antirrábica no sábado (7)&nbsp;&nbsp;Prefeitura de MaceióAracaju inicia campanha de vacinação antirrábica com pontos fixos e drive-thru&nbsp;&nbsp;G1Vacinação antirrábica chega ao Macurani e ramais&nbsp;&nbsp;Portal do Marcos SantosPrefeitura de Itaboraí realiza vacinação antirrábica em bairros do município&nbsp;&nbsp;Portal Oficial da Prefeitura de ItaboraíPrefeitura de Penedo inicia Campanha de Vacinação Antirrábica com atendimento no antigo SESP&nbsp;&nbs",
       "sources": [
         {
           "name": "Prefeitura de Maceió",
@@ -3100,27 +2279,14 @@
       "matched_keywords": []
     },
     {
-      "id": "c5252d5e773e",
-      "title": "Dia de Finados: o que as crianças entendem sobre a morte e como falar com elas sobre o assunto - O GLOBO",
-      "published": "2026-11-02T13:03:49+00:00",
-      "summary": "Dia de Finados: o que as crianças entendem sobre a morte e como falar com elas sobre o assunto&nbsp;&nbsp;O GLOBO",
+      "id": "7094e6e7ca88",
+      "title": "O futuro da beleza é brasileiro",
+      "published": "2026-11-02T12:09:46+00:00",
+      "summary": "O futuro da beleza é brasileiro&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeHdRemlmQ3FXdXFuR1FqLWxGbHVnMDRIbk0yQmk5VnVaX05RaHNqRjREV2M2aktvaVZ4Q204NE56YXlDaXpvRjZJQmt3Q1lodTV0Nm1oVUpZRWVoMURueWVnYnJPQlhUNkVvVVh2dTNGcXFaOFEyM3UtTXZmN2RtNlpDcWI2cGs2MmdZd25mU0JaaURjNldfdWtucmREazJTOWVoODg2bjVhQU04cVdERXpVYkZ5NzM5Ml8ya0Q1VHYzTU9teWJPa0wyRVdEZG1tOFRuX2RlMExROXJHVEM2aVd6VdIB8gFBVV95cUxQSDdPZGFpNEo0SUVEUDloelZCMW8zcFFRd1oydDY3aXdkTTVpTHlvNjBKTDV4NjZuOWdnTjh4RFdPVnpFLXg5a3lNVnhILUpSQml1TXhmMUZuNVZSZDNTYTFMYkVSV3FhVG1WeVJHTVVMbUdfTVVkdTJ5RkRCb2l6S3F5Z2NoQTg0UndheUNrLXZLb0FZbXlrZEhMelRyNm41SGR3NVRYaWVnc2lBLWdTeWFqSTdfcnlabkVLbF9POWR2bVRqcVE5aEVOS29lRTNLREdWRjJ0NUM4QnJac0xrTHJoWk42anZFaWF5RWFqU3Y0UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c062c490a071",
-      "title": "Fuvest anula questão de matemática após identificar erro em coordenada geográfica",
-      "published": "2026-11-02T12:55:44+00:00",
-      "summary": "Fuvest anula questão de matemática após identificar erro em coordenada geográfica&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObVRSUFZQb2x6MWx2V2RweEpSem5qWVJDR2RlN1VrZ3cyMGwwcjFqYmcwUVBxeUh0ZkRjZWJJZF96R0xqejRjNjg5V0MtZ2xBUTc1M3BOLVlOTDdCaEhQa2YwMmFsTlk5NTNiV3pLU2ZPdzhQT1hucjU0UERXUzduT2lxWjBybXJGbDRRYUNCMXBDZTE1ckZOUjRZNkV1YWp6bW5mdUNicmU0eGlmM0c4U2dFNGlMUGhuMGRTU0pnR1pKQmhGUlN3NzlrMDFRdTRiTm1QYUVRUW1KTms3LUxyQ3JqQdIB8gFBVV95cUxQS0s1VmlOdC15V3hEaEZNZW9nckxLTFVCV2tsRVBTekh2X2hnazhkU0NVWC1GMER4ODNSUDRGaHZGWE1RUmtxbEdyenNjN0NiaUNVcV83MXhOcHJiV01JNlJkdGZrT2t5aFdmUk5YdUN2Z29vcTVtZUpuRmtQeU9VUjJXUUhBR2JvYU5GVmRqU3JIRFBCZ1N4dWdBSmZQXzZXWkE0QmlEYm5zajRvODhsSU8wVEEwWFR2SGpiWUlxdEtvd2Y0a253VWgtU3A4TncwTENJa2VObVNnRms5cjdLYXpvUXBwN3pQTWwwWmYydkJsdw?oc=5"
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4ZXFnUnJYMDAzMEw3enhuLVEybEZJVHVldjBZXzVTT0xOOGVnVWs0Z3ZkdXIwMVNFWHN3SHpSdFdwSE1DbzZISHhXM3VIUVpHa282UjdIV2htbTJhTVItMEFnX19YdUl1cTNv?oc=5"
         }
       ],
       "matched_keywords": []
@@ -3152,19 +2318,6 @@
       "matched_keywords": []
     },
     {
-      "id": "bf3f8e2f220b",
-      "title": "Meteorologista explica acidente aéreo nos Estados Unidos sob tempestade - MetSul Meteorologia",
-      "published": "2026-11-02T11:56:34+00:00",
-      "summary": "Meteorologista explica acidente aéreo nos Estados Unidos sob tempestade&nbsp;&nbsp;MetSul Meteorologia",
-      "sources": [
-        {
-          "name": "MetSul Meteorologia",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEM2VmJ1YmFEODQzazY4MUZTMlJTWENFZmtlWnJVbDlOby1OOEdJd1B0akVOSE5QT1l4elJEQXJtX21qUlhObVJ0OFlxdHhDM0d2R0FHYVRXTEpvVk1USTFMZTVjaHZuT3pPZUszQ2NkaVQxNVJIMExjVzA3NjVfQXRsVXhiMm5xRFl1X3JmZVpSbWxzU3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "510fb7fa08ec",
       "title": "MG registra 33 casos de Mpox; novo caso foi confirmado neste fim de semana - CNN Brasil",
       "published": "2026-11-02T11:43:59+00:00",
@@ -3173,19 +2326,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT28wVE1RWWljZUNPbDF0bjlielRMaVRwa2h1azdWRDFWZG1wcHM0WDRkempjZ0JSZDhzSUlONVFOWXd6Ump0SF9YZGN0SEVhSlFmWjgzNEJXOFFOck1waHFxZHJzNkI5Y0ZfWkJwZWtKQ2RodUNuRmtIS21VbmNXYlVtUFNYZm9GMGw3QzZUcGgyVzl2SUJ2RzhFTEdkS1FiTERRclNlNWkzdkZRaVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5985df0f10cf",
-      "title": "Lua hoje: confira a fase da Lua desta segunda-feira 2/11/2026 - Olhar Digital",
-      "published": "2026-11-02T10:57:12+00:00",
-      "summary": "Lua hoje: confira a fase da Lua desta segunda-feira 2/11/2026&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21wRGRzVG1reVlSVVFJczF3dkZHa0wtYWJYQmtnd05jbnhPc1U1ZGZtdUl1anotV3R0RUw3bzJIczZ2bWpZSzUtMjdROGE2U09QMnZ5b2xTYUJVbXhtZXg0RHRlQ3ZLazB6S3kyb2VSMTFWNmprOXowUktlQUY0d0EwaVM1MWtTUnZGanFDN0p5YlEzX09ocUp0eThiajl0TWh6Q2lNRk9ZS09FTW9jTXZ2WVl5ZWhK?oc=5"
         }
       ],
       "matched_keywords": []
@@ -3217,32 +2357,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7bb518f69bb3",
-      "title": "Midterms: Por que cientistas estão bastante preocupados com as eleições dos Estados Unidos?",
-      "published": "2026-11-02T10:12:39+00:00",
-      "summary": "Midterms: Por que cientistas estão bastante preocupados com as eleições dos Estados Unidos?&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWFpRkVxYWpLbFFnZ1l0T0c2WUxSdzBCQ3ZQTVhnYVpvSFNyUWlZaVhibGpiTlBPeUdfNjJjTHpnNG5pSDZlcV9pcXF0V3VScUF3U0lBdXFaVTRHMXNuNWl1Y1hpYkxKN19lMVRlbWdYa1NtenVfOUJteGhqTjlZemdNanhmUEZuNENvSlBLeTJUeDJic09BN1VNSDFUSTVKd1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4dda6cbd2cf4",
-      "title": "Ferramenta on-line facilita a análise de dados genéticos complexos",
-      "published": "2026-11-02T09:14:31+00:00",
-      "summary": "Ferramenta on-line facilita a análise de dados genéticos complexos&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0hOYmxwSWthVTF5a1l1RTQxeHpJalJFbmlybGJOdEthUlh6dmxraTJOWFR2dUZYcWFpdk10T29mYXh1LUdDUEd3MXVBb2xlTTY3T0tJdVFWUlQ0OXF6Ri1HelNGTlJEd0J1NTIwU0xiZEh0bWxRQV90aXRURElMZGtJY0labTNwSk5Ya0s5QlJyeHlZN1o4a0NKcWNJNTFPc1l5R3dZbzdYMFZpQWNVWlBPeFZ4Y1U?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "5e96b6e034ad",
       "title": "Vídeo mostra cirurgia de bugio César após fratura no fêmur; espécie está ameaçada de extinção",
       "published": "2026-11-02T09:13:57+00:00",
@@ -3256,19 +2370,6 @@
       "matched_keywords": []
     },
     {
-      "id": "05cf56e54a82",
-      "title": "Como diferenciar o AVC isquêmico do hemorrágico? Entenda com Dr. Kalil - CNN Brasil",
-      "published": "2026-11-02T09:00:41+00:00",
-      "summary": "Como diferenciar o AVC isquêmico do hemorrágico? Entenda com Dr. Kalil&nbsp;&nbsp;CNN BrasilCada minuto faz diferença em caso de AVC&nbsp;&nbsp;G1AVC: 70 mil brasileiros morrem por ano e risco de recorrência preocupa&nbsp;&nbsp;Portal A12Opinião | AVC não tem idade: como reconhecer os sinais e agir sem perder tempo&nbsp;&nbsp;EstadãoAVC: Brasil registrou uma morte a cada sete minutos em 2025&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmp3Q19aVWVmbDd3M3I4M0NXUTQtVGdELXJBMVA5NWtiaHd1MFl2Y2tlSDNXaktiWk9JQ1lPR1REOE5xYW5EM1hHZXYxak82MWxpYUxuM3Nyb0pydDVrak1xY3JUWi1JdG9rbEp4VmVVQm5jTkdlUEV5azhFNS0xZlBsenRTNTVpUDN6eWpDUXVxRzdOWjU2UTlOYWtubXNuRG5sVGNTOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "5f58b6b0a992",
       "title": "Painel: Cientistas articulam campanha para indicar presidente da SBPC ao Ministério da Ciência e Tecnologia - Folha de S.Paulo",
       "published": "2026-11-02T09:00:00+00:00",
@@ -3277,32 +2378,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN3JlVlJsZm9McmR1SEh1ZVdScFFLOUFlZFhnR29keW5SQ1k3VzJLN2VrVzdPYUZBbnV3TFQwelpXSEpJT3YwQW4xVWtTTDUzZlVhYTRlaHFhMlhIa0VCcVRvaDhKdlptV1QtQ1VJcDhTN1lBYU1nekdndmMtcVQwV2JzS09yMzZHMksxSkN0SFJmYllBLV9FbUtacDQ0WGlFVWhraDdXMzkxQ1dtOTZJcE9QZXNkSElBSXA4Wkh2TVRySXRjMEw1c09yMTlod0twd2dlR2ZqX3dMWnJXWlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "17f8a2cba5e7",
-      "title": "Dinossauro do tamanho de peru é apontado como o 1º a consumir frutas - Folha de S.Paulo",
-      "published": "2026-11-02T09:00:00+00:00",
-      "summary": "Dinossauro do tamanho de peru é apontado como o 1º a consumir frutas&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGI2eGtzR2JnYUxEb1pDazd3QVp0RDFhejU3Y2U2NnJYdXlOWjlzX1JENmdYQ0trR19vRjFpcTAwTUtNZ0NUeUxkVTVmLVRCdlRRZ3NlNzQyOTNITlRaaW10a0xrSUFPS0FTZ0hHMmdDNlQyck1kSkFLRE5ITkhPNVhJdUtKQ3JIQ2pkR2VOZm1qSXlTcXg3bzh1cVI5VEJFTW1wX1BmaTRlVlBFeXRPNk5Namx2VEJ3Wnp5Qg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "979f4251f57a",
-      "title": "Excesso de treino afeta a regulação química do cérebro, mostra estudo",
-      "published": "2026-11-02T08:34:26+00:00",
-      "summary": "Excesso de treino afeta a regulação química do cérebro, mostra estudo&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2pkZ3RRd1phVXVpNFNuSW9VOW9UZ3M4Yk9DbVd2SERGRDhTbF9rWm9TMXNmaS0tUnc0bEI3YVIyd2dRWHo3YXFyWWl2cFhPQVJpeXpYc3lmSE1kRlJnYWtaU0wwZTZrRXJLMFpUOVRrbTNtSXN5RzdTVFlzRHZKTV9hNkZpRi1YYU1KbV9IWjBLS0Q5Q1F2UHJrcW9ia0dXaUFHSVNaZ3Zoa2FqX0E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -3347,32 +2422,6 @@
       "matched_keywords": []
     },
     {
-      "id": "ef4672c7b34e",
-      "title": "Como superar o choque da perda de um familiar nas estradas - Estado de Minas",
-      "published": "2026-11-02T05:00:00+00:00",
-      "summary": "Como superar o choque da perda de um familiar nas estradas&nbsp;&nbsp;Estado de Minas",
-      "sources": [
-        {
-          "name": "Estado de Minas",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1RYdmJuaEJyUTd5ajRtNmlQRjhBSW1aVkxXekM5RTdQV1Q3alpzTWxfdktLU3VmQVRCNFFwSFBwV1hHU0hVTEZ1RE1UZElLUEVZNk84WWxuMVlOdVIyOV9WdDNxZV9JWEJWd1Y5c3pzenhqOWktUmo5bFA0WWJVLTBycHlDRWc3QzdiM05wN284dWJrLV9CbEZWTGhqV3YydDVFbGdPWGhPZUUx0gGyAUFVX3lxTE9jcWxkRDh4SVRYVkVqM2tfN2FTNGRxWG5KTnB4VlgyMkllUlJKNVQxWk5TV2h5cWxEM0JaaGFBcXoxLWQ1bE1vQWNRN1kzQ2VpRzlkek9RUXVyRXZNeWhsUWloMXdsaURwOHE0d0wxdUo4RkVlNXFDNHRVanFuNUJvcGRySFRDNDZyc2FDRU1Qd0hWQkk4RzZyWmxobWxLUlZTTzNCY3lfaUozc2FKVGJ6U2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fbd0618effab",
-      "title": "Pais ausentes: ave bota ovos em ninho que não é seu para os outros cuidarem",
-      "published": "2026-11-02T05:00:00+00:00",
-      "summary": "Pais ausentes: ave bota ovos em ninho que não é seu para os outros cuidarem&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFpYQWRYeDNsczRDX0xnakMxUEZtYXI5QmppSjVhdTJmQ1lIVWE1bGRuUnFFaHBZazgxU0RTMW51blRacnJMcmVqam1UbFhPX2ctaEpwNHV4V1ZUS3JUN3ROckYtZ3pFOGJwdDA5eXI1RXNXZGpQUGNoNEY5NWhjSmtmRDM1c1BkZnF5ck8xM1NxcDZkWFV5WWgxZzFQeV9BTTFBMWNGQjVjNFQxZ3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "38c397db823f",
       "title": "Psoríase não atinge só a pele e aumenta risco de problemas no coração - CNN Brasil",
       "published": "2026-11-02T03:00:23+00:00",
@@ -3386,40 +2435,14 @@
       "matched_keywords": []
     },
     {
-      "id": "840cfe1a2a70",
-      "title": "Cearense conquista ouro em torneio mundial de Física e bate recorde brasileiro - Diário do Centro do Mundo",
-      "published": "2026-11-02T02:45:32+00:00",
-      "summary": "Cearense conquista ouro em torneio mundial de Física e bate recorde brasileiro&nbsp;&nbsp;Diário do Centro do Mundo",
+      "id": "8e2223a0b2dd",
+      "title": "Especialistas em longevidade concordam: \"As pessoas que vivem mais não fazem exercícios, mas vivem em áreas como Madri, onde cada deslocamento é uma caminhada.\" - Catraca Livre",
+      "published": "2026-11-02T01:44:33+00:00",
+      "summary": "Especialistas em longevidade concordam: \"As pessoas que vivem mais não fazem exercícios, mas vivem em áreas como Madri, onde cada deslocamento é uma caminhada.\"&nbsp;&nbsp;Catraca LivreDan Buettner, especialista em longevidade, acorda entre 6h30 e 7h e logo sai para caminhar ou pedalar&nbsp;&nbsp;Catraca LivreDan Buettner, especialista em longevidade: ‘Ter um cachorro pode ser o incentivo que faltava para adotar hábitos mais saudáveis’&nbsp;&nbsp;Rádio ItatiaiaSair para caminhar logo ao acordar:",
       "sources": [
         {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMG9HWXUwRlhmaVdKN0VieXZMcU9qVFpfV3pWSUFRZ0QxNVNMRWVvdzFNb3JGaUt6THI4MV9BUXVEMXdOZ0V6THVnbjVwdHo0V0dKOVdVRzd1YVloSEZ1TTVPMTl1VUg1V0tjSExQaGpLUEE0T2JDYlBiN25vMmVTUE45SWM5QjE0cm56NlNxV2Npa1hrNkxZcU1Rb0k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2039706d3f0c",
-      "title": "Especialistas em psicologia afirmam: \"Quem gosta de ir à praia pode encontrar no mar uma forma natural de aliviar o estresse e recarregar as emoções.\" - Super Rádio Tupi",
-      "published": "2026-11-01T23:20:26+00:00",
-      "summary": "Especialistas em psicologia afirmam: \"Quem gosta de ir à praia pode encontrar no mar uma forma natural de aliviar o estresse e recarregar as emoções.\"&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQN2padS1KMC1XUXN6U2dxSTZrTFRVM1dhM01abGtKdFN0Yi1lVG9sMVpyYnY1V1h5RXBGS2lEZTFnVVNBR2xFMkk1RnJMRFpqcDJ1SExqVFpNYzZsMkVtTGtDYm84MDFCYTA2d3NEclhVWnk3a2g2aXdKaDdmTlVjaDMxRWtUNVA3OFowSjVBVlJJa0ZDdGY4UWlRTnVUMHhndFJfaTMyb0tXaTdKRzlrZW9CMTRCdlkzZV9DanZXS3JGOWdnOGlpalg5QTBBTmloQmhtVzVCanhjN1IxVkI0bEZUZ0tmZDdoNFhoYXA0WWVocVZRbDVKMThaWWlsNkJkYTdTOE1uLXBvR3VhbElz?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e05ed5ee7a4c",
-      "title": "'Xarope de múmia' era feito de cadáver para curar gripe na Idade Média — e a ciência agora descobriu um segredo inesperado - CNN Brasil",
-      "published": "2026-11-01T13:00:26+00:00",
-      "summary": "'Xarope de múmia' era feito de cadáver para curar gripe na Idade Média — e a ciência agora descobriu um segredo inesperado&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOFk0dTZEMUlMZkpBM0JEb19Yc2dCMTFrM0VOQWNyX19xUG04X0lHVHZWV0YzcnlGVXJMQ0VmQzktLVRRMWkzR1FFYWxpZWZ6UjRzM09KY2JoNlZIcUNNWmd3U0ZxLVcxSlVEM2VUZXp4dkJIX0lNMzNvZnVUdm54SFBkZDljc2g1Mno0R2daSExVYUZBek9EUnZkUTlnX3pnd3JPTkdOSkxwSG1WM1dyUUVrRGl5VDU4ak5zcmE3eU0yc01CUm15dGhxdS1obzVwZy1pZGgwMVVaSHd5TDBUT0RQNUN1WUtueF9LaVFjWk1Vams?oc=5"
+          "name": "Catraca Livre",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPcUY5WUdYdmdCS0RLenVpeXIwbkU1bFlXR3pOY0l3cXN0X0JyaTFoNDhZZWlRLTRqa3VvRWFiV3Z1TTNoc3VKaDVnbWpsN05MdjNQU0NKeWtVYld2b3ZXZFlKTUZVVWpWNGY3My1hTXRUWkUxeVMzS1dENHJWamVnNGc5THFmeEx3Q1RsZzFyUnJCRTNyaHRTZ0pGNzhrYjVyQl9lUERnMXBWQ3h5dHRGTXFwWnh3bFBzVHppSkYxaGp2MkJFaklMUFJod0dYMkUxWjhZamVhdW90MTZqeUdJQWRfVmRrWEdfWkN1WnZ0T3BkaVMxUl9ySEp1RV9BN1dUaDgwMTdWT0VGcGRXamlHdlp0R1JjUEhyVXBxQktFa1JmNkJZY3c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -3438,23 +2461,10 @@
       "matched_keywords": []
     },
     {
-      "id": "b2ab56f2f839",
-      "title": "6 coisas que especialistas em longevidade gostariam que as pessoas parassem de dizer",
-      "published": "2026-11-01T08:30:00+00:00",
-      "summary": "6 coisas que especialistas em longevidade gostariam que as pessoas parassem de dizer&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2V6czlCbEVVaGJYZ09PTnpVYjQ1U1hFTDMtekNLUklTT056T2RTSWMtSUNOTl9md2phMGR2LXVfcGtDVm1rS1R3VnlidnBaUEhiV0NrNjFlMVNTeWdQeTZicUlWQmVEOGE1OG1RVF9CcUwtWU9aNlcxV0JuZUIzaWtvNVVHUEJCeGRrSW5xUUhmZ2hWNEwzbGhCaHExT2JHcXlBazFhRFE5U2VidE9BOHR4c1FheWZSdzQwZUVYNmtwQThsUDN1S0ZScEFsWmN2LXc0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "11e7da2a131b",
       "title": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes",
       "published": "2026-11-01T08:00:00+00:00",
-      "summary": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes&nbsp;&nbsp;G1Remédio para câncer de pulmão pode evitar avanço da doença por 7 anos&nbsp;&nbsp;CNN BrasilRemédio prolonga por sete anos controle do câncer de pulmão&nbsp;&nbsp;Brasil 247Comprimido diário aumenta sobrevida de pacientes com câncer de pulmão avançado&nbsp;&nbsp;Rádio MetrópoleLorlatinibe mantém câncer de pulmão estável por 7 anos&nbsp;&nbsp;Portal ABC do ABC",
+      "summary": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes&nbsp;&nbsp;G1Remédio para câncer de pulmão pode evitar avanço da doença por 7 anos&nbsp;&nbsp;CNN BrasilRemédio prolonga por sete anos controle do câncer de pulmão&nbsp;&nbsp;Brasil 247Comprimido diário aumenta sobrevida de pacientes com câncer de pulmão avançado&nbsp;&nbsp;Rádio MetrópoleNovos remédios prometem controlar câncer, diabetes e HIV em 2026&nbsp;&nbsp;ncnews.com.br",
       "sources": [
         {
           "name": "G1",
@@ -3952,19 +2962,6 @@
       "matched_keywords": []
     },
     {
-      "id": "4c2a6345a371",
-      "title": "Colírio todo dia faz mal? Veja quais tipos exigem cuidado - Diário do Centro do Mundo",
-      "published": "2026-10-31T19:08:51+00:00",
-      "summary": "Colírio todo dia faz mal? Veja quais tipos exigem cuidado&nbsp;&nbsp;Diário do Centro do MundoColírio para crescer cílios que viralizou no TikTok traz riscos à visão&nbsp;&nbsp;MetrópolesColírio que viralizou nas redes sociais pode reativar herpes ocular; entenda os riscos do uso&nbsp;&nbsp;SCC10Extensão de cílios: veja os riscos para a saúde dos olhos&nbsp;&nbsp;TerraColírio para cílios viral no TikTok exige alerta: uso sem prescrição pode causar danos permanentes à visão&nbsp;&nbsp;Diário do E",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkdKOEVKNjdKLS1MYTljME9fRVhsOUxHdzFmaTZyRFg2SGp6LUFHTWpXYVlPZ1g5Mm1jaVQwa0FnU2hsME5pV2NHaUR1eGN0NXQ1ZWE0TzhvYnJGNllyTV9BWkF2ZTFYdDZ1VjVJUDJvNUlzMVhDZDJPdWlSdnpVd0Z6QllZeGEtMVpDQ3lwcllFNXRxQkpfUXhXNEQ2UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e83a9db5ac28",
       "title": "O teste simples de fitness que prevê o seu risco de morte",
       "published": "2026-10-31T15:17:59+00:00",
@@ -3976,47 +2973,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "be773235238d",
-      "title": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje",
-      "published": "2026-10-31T15:00:00+00:00",
-      "summary": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje&nbsp;&nbsp;UOLNovo alerta da OMS: até 45% dos casos de demência podem ser evitados antes dos primeiros sintomas&nbsp;&nbsp;Catraca LivreColesterol alto passa a ser considerado fator de risco para demência, afirma comissão científica&nbsp;&nbsp;Tua SaúdeHábitos saudáveis podem ajudar a reduzir risco de Alzheimer&nbsp;&nbsp;TV Jaguari",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYk84SlJuLUFNQzVlUmd6RGo2TjJHNnNMbG9NUmZ3RmIyTlFTYmFXU2RxR1BzQmVEcXdjOXFCVzQzTlVlZnl6a0Z1QVJyZllCZFljMnZUbWx3UDRhdTEwMjFaVjdvaFg1ZTF2VUVJZFg5a0JRM2FIR1NpUFBwQ0dWZnlzSk5mYURCbmRHZXZwdmNhOFl3WXY5anhPUThOMGhfYUZQSFdzMHk2dXlzREY5bHc5cENSaHFfemJRa3ZmTG4?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden",
-              "url": "/drugs/biperiden/"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE",
-              "url": "/drugs/entacapone/"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole",
-              "url": "/drugs/albendazole/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "96ee93d5fb1a",
@@ -4497,6 +3453,1002 @@
               "slug": "valsartan",
               "name": "VALSARTAN",
               "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1176c6f5b1c",
+      "title": "Anvisa aprova cinco novas canetas para tratamento de diabetes e obesidade; veja quais",
+      "published": "2026-10-29T07:00:00+00:00",
+      "summary": "Anvisa aprova cinco novas canetas para tratamento de diabetes e obesidade; veja quais&nbsp;&nbsp;G1'Canetas emagrecedoras' precisam de descarte adequado depois do uso&nbsp;&nbsp;G1Anvisa aprova 5 novas canetas para tratamento de diabetes e obesidade&nbsp;&nbsp;Agência BrasilAnvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;Governo FederalAnvisa certifica fábrica chinesa para produzir canetas emagrecedoras&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDNHay12WXI1MkNRSmtHTHY3Vndrc3VRa0c5QmFmVmh2U29JVThzT18tbUZTc2hGWGJMWWhzN0NscW1zZ2pfdzBmSEl2Vnl2d3ZQYXNkREF3UHUwc2pMNlBneUl4NGxhOEoyY0FETGhoUmZrbjJWbzk3amVhTnBFMlY1eTZZNFZCWEhPaXhYOFNOa2dWZUdXcEk0NlhvZDJQeFFWeExGTUVzNl9EU0ZHZVRNN2FkZmVNLUxMQnJIU2dMdC1yMkM3cEpJY0lqTVNaMnfSAeABQVVfeXFMTXNsRVZQYnJKazA0bzNTaFBFSi1Ib1Z0MzFVY2JyVFhpaVZYVHYxZElCUENfTkoybWZHRnF0YUc3TWNZeHUyWnJ5NElPX21pRDFJdzVyRTNrY3IteVdEU1VZb01uZWJHS3VUWnRnWW9ZeGVKQ0c5WHQ0YjMwNzhqcXo2RldvZVhwSXpPZXZ5SkhkeGl4Zm5LT2oyeUhTNzJvMERZWWlCZ0pvR3VMNnlVcl9NTmFPNEVGTS1HNWhieXk2MkllVzlrSS10czZnN01jSDBpWS1CbkpwWUl1OTBLMVI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "363a834bcb24",
+      "title": "CÂNCER DE INTESTINO! Dra. Amanda Meirelles faz alerta urgente - Portal Leo Dias",
+      "published": "2026-11-03T16:58:13+00:00",
+      "summary": "CÂNCER DE INTESTINO! Dra. Amanda Meirelles faz alerta urgente&nbsp;&nbsp;Portal Leo Dias",
+      "sources": [
+        {
+          "name": "Portal Leo Dias",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHZNZG1Tbk5jZFAwQzYwMDZLNEdQNTNhQkd1MlVVUWhDRXZZa0w4cHJHcnZmQThVOWdBQWNSR1A4cHkwblh6WUV6SHV2MjJhR1g5WlQ4dGxQVGdpNkdfVzVyWFgzUGFrY2lmX3FfLWtLY0ZvN1gtSkRqc21uRkt3WWF5ZzdrOWtBcG9VU0x2U3lMY3JkTy1xaVN4TGFQWEVwWHFfbmNYUWJYUE5r0gGyAUFVX3lxTE5kU2MteURtSXVQMkxyZGs4MS1DdXZFWDIwTEtURVNPOFo2TWRzRk1QTmNIbmZBNmFWOVZpUHl2ZUlTcm1vaVV1c29YNjN5QXJCdWxHZ0FaeHQ2TVRWWGQyNnYwSTAyT0NUSEZ6Y2tqNGZpZGZGX050WldfemhnWW1Rczk4Yl9Yc0NlZk53aS1kSEl3aWctaEoxZE0yS3REUTk2akhYa0swbWF3YTM3VHphOGc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "câncer",
+          "related_drugs": [
+            {
+              "slug": "imatinib",
+              "name": "Imatinib",
+              "url": "/drugs/imatinib/"
+            },
+            {
+              "slug": "oxaliplatin",
+              "name": "Oxaliplatin",
+              "url": "/drugs/oxaliplatin/"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin",
+              "url": "/drugs/ampicillin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "ceftriaxone",
+              "name": "Ceftriaxone",
+              "url": "/drugs/ceftriaxone/"
+            },
+            {
+              "slug": "pegaspargase",
+              "name": "PEGASPARGASE",
+              "url": "/drugs/pegaspargase/"
+            },
+            {
+              "slug": "potassium_sulfate",
+              "name": "Potassium sulfate",
+              "url": "/drugs/potassium-sulfate/"
+            },
+            {
+              "slug": "plerixafor",
+              "name": "PLERIXAFOR",
+              "url": "/drugs/plerixafor/"
+            },
+            {
+              "slug": "phenytoin",
+              "name": "PHENYTOIN",
+              "url": "/drugs/phenytoin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "phenobarbital",
+              "name": "Phenobarbital",
+              "url": "/drugs/phenobarbital/"
+            },
+            {
+              "slug": "risdiplam",
+              "name": "Risdiplam",
+              "url": "/drugs/risdiplam/"
+            },
+            {
+              "slug": "letermovir",
+              "name": "Letermovir",
+              "url": "/drugs/letermovir/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "LISINOPRIL",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "IRBESARTAN",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "cefaclor",
+              "name": "Cefaclor",
+              "url": "/drugs/cefaclor/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tamoxifen",
+              "name": "Tamoxifen",
+              "url": "/drugs/tamoxifen/"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "Methotrexate",
+              "url": "/drugs/methotrexate/"
+            },
+            {
+              "slug": "relebactam",
+              "name": "Relebactam",
+              "url": "/drugs/relebactam/"
+            },
+            {
+              "slug": "imiglucerase",
+              "name": "Imiglucerase",
+              "url": "/drugs/imiglucerase/"
+            },
+            {
+              "slug": "secnidazole",
+              "name": "Secnidazole",
+              "url": "/drugs/secnidazole/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "CLONAZEPAM",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "captopril",
+              "name": "CAPTOPRIL",
+              "url": "/drugs/captopril/"
+            },
+            {
+              "slug": "fluconazole",
+              "name": "Fluconazole",
+              "url": "/drugs/fluconazole/"
+            },
+            {
+              "slug": "hesperidin",
+              "name": "Hesperidin",
+              "url": "/drugs/hesperidin/"
+            },
+            {
+              "slug": "cysteine",
+              "name": "Cysteine",
+              "url": "/drugs/cysteine/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "dantrolene",
+              "name": "Dantrolene",
+              "url": "/drugs/dantrolene/"
+            },
+            {
+              "slug": "cefdinir",
+              "name": "Cefdinir",
+              "url": "/drugs/cefdinir/"
+            },
+            {
+              "slug": "basiliximab",
+              "name": "Basiliximab",
+              "url": "/drugs/basiliximab/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin",
+              "url": "/drugs/azithromycin/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "COLCHICINE",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "mometasone",
+              "name": "Mometasone",
+              "url": "/drugs/mometasone/"
+            },
+            {
+              "slug": "topiramate",
+              "name": "TOPIRAMATE",
+              "url": "/drugs/topiramate/"
+            },
+            {
+              "slug": "baclofen",
+              "name": "Baclofen",
+              "url": "/drugs/baclofen/"
+            },
+            {
+              "slug": "penciclovir",
+              "name": "Penciclovir",
+              "url": "/drugs/penciclovir/"
+            },
+            {
+              "slug": "nomegestrol_acetate",
+              "name": "Nomegestrol acetate",
+              "url": "/drugs/nomegestrol-acetate/"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "ISOTRETINOIN",
+              "url": "/drugs/isotretinoin/"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel",
+              "url": "/drugs/cabazitaxel/"
+            },
+            {
+              "slug": "aztreonam",
+              "name": "Aztreonam",
+              "url": "/drugs/aztreonam/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "LORAZEPAM",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "CALCIPOTRIOL",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "serine",
+              "name": "Serine",
+              "url": "/drugs/serine/"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "Clarithromycin",
+              "url": "/drugs/clarithromycin/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "CARBAMAZEPINE",
+              "url": "/drugs/carbamazepine/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "LACTULOSE",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin",
+              "url": "/drugs/amoxicillin/"
+            },
+            {
+              "slug": "adapalene",
+              "name": "Adapalene",
+              "url": "/drugs/adapalene/"
+            },
+            {
+              "slug": "elafibranor",
+              "name": "Elafibranor",
+              "url": "/drugs/elafibranor/"
+            },
+            {
+              "slug": "trastuzumab",
+              "name": "Trastuzumab",
+              "url": "/drugs/trastuzumab/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "RAMIPRIL",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "praziquantel",
+              "name": "Praziquantel",
+              "url": "/drugs/praziquantel/"
+            },
+            {
+              "slug": "deferasirox",
+              "name": "DEFERASIROX",
+              "url": "/drugs/deferasirox/"
+            },
+            {
+              "slug": "potassium",
+              "name": "Potassium",
+              "url": "/drugs/potassium/"
+            },
+            {
+              "slug": "tetracycline",
+              "name": "Tetracycline",
+              "url": "/drugs/tetracycline/"
+            },
+            {
+              "slug": "sorafenib",
+              "name": "Sorafenib",
+              "url": "/drugs/sorafenib/"
+            },
+            {
+              "slug": "vinblastine",
+              "name": "Vinblastine",
+              "url": "/drugs/vinblastine/"
+            },
+            {
+              "slug": "tezacaftor",
+              "name": "Tezacaftor",
+              "url": "/drugs/tezacaftor/"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "BISOPROLOL",
+              "url": "/drugs/bisoprolol/"
+            },
+            {
+              "slug": "vancomycin",
+              "name": "Vancomycin",
+              "url": "/drugs/vancomycin/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole",
+              "url": "/drugs/letrozole/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "chlorthalidone",
+              "name": "CHLORTHALIDONE",
+              "url": "/drugs/chlorthalidone/"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "LAMOTRIGINE",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "iopamidol",
+              "name": "Iopamidol",
+              "url": "/drugs/iopamidol/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "ATENOLOL",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "doxorubicin",
+              "name": "Doxorubicin",
+              "url": "/drugs/doxorubicin/"
+            },
+            {
+              "slug": "megestrol_acetate",
+              "name": "Megestrol acetate",
+              "url": "/drugs/megestrol-acetate/"
+            },
+            {
+              "slug": "gestodene",
+              "name": "Gestodene",
+              "url": "/drugs/gestodene/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "CARVEDILOL",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "Levofloxacin",
+              "url": "/drugs/levofloxacin/"
+            },
+            {
+              "slug": "ambroxol",
+              "name": "Ambroxol",
+              "url": "/drugs/ambroxol/"
+            },
+            {
+              "slug": "polymyxin_b",
+              "name": "Polymyxin B",
+              "url": "/drugs/polymyxin-b/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "avibactam",
+              "name": "Avibactam",
+              "url": "/drugs/avibactam/"
+            },
+            {
+              "slug": "calcium",
+              "name": "Calcium",
+              "url": "/drugs/calcium/"
+            },
+            {
+              "slug": "norfloxacin",
+              "name": "Norfloxacin",
+              "url": "/drugs/norfloxacin/"
+            },
+            {
+              "slug": "sirolimus",
+              "name": "Sirolimus",
+              "url": "/drugs/sirolimus/"
+            },
+            {
+              "slug": "venetoclax",
+              "name": "Venetoclax",
+              "url": "/drugs/venetoclax/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "VALSARTAN",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f96e8c397ad",
+      "title": "Mortes por câncer do colo do útero podem aumentar quase 40% no mundo até 2050, aponta estudo",
+      "published": "2026-11-02T15:00:01+00:00",
+      "summary": "Mortes por câncer do colo do útero podem aumentar quase 40% no mundo até 2050, aponta estudo&nbsp;&nbsp;G1Estudo prevê 522 mil mortes por câncer do colo do útero no mundo até 2050&nbsp;&nbsp;Afya | HomeMortes por câncer do colo do útero podem subir 39,3%&nbsp;&nbsp;BNT - Boca no TromboneCâncer do colo do útero pode matar mais 39,3% até 2050&nbsp;&nbsp;n3news.com.brMortes por câncer do colo do útero podem aumentar quase 40% até 2050&nbsp;&nbsp;Jornal da Fronteira",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWUFaSnZ1Q3lZcXUyQjl6NE4zcndhU016ZTVhUTVTOXF2S2ZXSXJEdkFZdjNpaHVoOFk1ZWQ1RjBXaXg1NzJvdDJhQTJ1MFNaR3RNUDhPM2Y0cGtCb00yRThGcVNOOExFMWNxaGhhUGY2Y2luWWVZN3lEdWhmUzAxN1dJZDVpbWUycUV3OVQyOVdIcUZCSVlpNjQ1aU93TnBKNUtnaUJlSGMtdVVGbWttM2ZmRUZWRkN2U01mTk5zdDMxdzBpVmdKc2hHZldyTENTVkhjYWZYTmRVdEdRUDdWSDFiY9IB8gFBVV95cUxPSVB2TUtIR1Nza0lxSU1DV1dwdTU1eE1wMWJzSmNKQnY2Y0Rlbl92Ry15dHZOc0F2NkJuSWxoUFp1MzBIVlp1d3hzajllMnNwMGxORllsZHhlcUQ3YnljdUtzSTJZbVBWU3otXzFneE8tVlNuQzBsdGoxbUZoaVN2VktZU2VlQVRINXRMV2N2c2o5RGVlTE1IaENfSGtzUGRiek9vbTNhYXIxQnZYOElielFpQTZDWmhaQ1BUd2ZJbDZMLWUzWW9xa19jb0hCdnhTd0hteG5xcWtEUld0R0g1Y29MOGtRd0lreE5hd0VGOEdxZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "câncer",
+          "related_drugs": [
+            {
+              "slug": "imatinib",
+              "name": "Imatinib",
+              "url": "/drugs/imatinib/"
+            },
+            {
+              "slug": "oxaliplatin",
+              "name": "Oxaliplatin",
+              "url": "/drugs/oxaliplatin/"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin",
+              "url": "/drugs/ampicillin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "ceftriaxone",
+              "name": "Ceftriaxone",
+              "url": "/drugs/ceftriaxone/"
+            },
+            {
+              "slug": "pegaspargase",
+              "name": "PEGASPARGASE",
+              "url": "/drugs/pegaspargase/"
+            },
+            {
+              "slug": "potassium_sulfate",
+              "name": "Potassium sulfate",
+              "url": "/drugs/potassium-sulfate/"
+            },
+            {
+              "slug": "plerixafor",
+              "name": "PLERIXAFOR",
+              "url": "/drugs/plerixafor/"
+            },
+            {
+              "slug": "phenytoin",
+              "name": "PHENYTOIN",
+              "url": "/drugs/phenytoin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "phenobarbital",
+              "name": "Phenobarbital",
+              "url": "/drugs/phenobarbital/"
+            },
+            {
+              "slug": "risdiplam",
+              "name": "Risdiplam",
+              "url": "/drugs/risdiplam/"
+            },
+            {
+              "slug": "letermovir",
+              "name": "Letermovir",
+              "url": "/drugs/letermovir/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "LISINOPRIL",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "IRBESARTAN",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "cefaclor",
+              "name": "Cefaclor",
+              "url": "/drugs/cefaclor/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tamoxifen",
+              "name": "Tamoxifen",
+              "url": "/drugs/tamoxifen/"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "Methotrexate",
+              "url": "/drugs/methotrexate/"
+            },
+            {
+              "slug": "relebactam",
+              "name": "Relebactam",
+              "url": "/drugs/relebactam/"
+            },
+            {
+              "slug": "imiglucerase",
+              "name": "Imiglucerase",
+              "url": "/drugs/imiglucerase/"
+            },
+            {
+              "slug": "secnidazole",
+              "name": "Secnidazole",
+              "url": "/drugs/secnidazole/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "CLONAZEPAM",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "captopril",
+              "name": "CAPTOPRIL",
+              "url": "/drugs/captopril/"
+            },
+            {
+              "slug": "fluconazole",
+              "name": "Fluconazole",
+              "url": "/drugs/fluconazole/"
+            },
+            {
+              "slug": "hesperidin",
+              "name": "Hesperidin",
+              "url": "/drugs/hesperidin/"
+            },
+            {
+              "slug": "cysteine",
+              "name": "Cysteine",
+              "url": "/drugs/cysteine/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "dantrolene",
+              "name": "Dantrolene",
+              "url": "/drugs/dantrolene/"
+            },
+            {
+              "slug": "cefdinir",
+              "name": "Cefdinir",
+              "url": "/drugs/cefdinir/"
+            },
+            {
+              "slug": "basiliximab",
+              "name": "Basiliximab",
+              "url": "/drugs/basiliximab/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin",
+              "url": "/drugs/azithromycin/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "COLCHICINE",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "mometasone",
+              "name": "Mometasone",
+              "url": "/drugs/mometasone/"
+            },
+            {
+              "slug": "topiramate",
+              "name": "TOPIRAMATE",
+              "url": "/drugs/topiramate/"
+            },
+            {
+              "slug": "baclofen",
+              "name": "Baclofen",
+              "url": "/drugs/baclofen/"
+            },
+            {
+              "slug": "penciclovir",
+              "name": "Penciclovir",
+              "url": "/drugs/penciclovir/"
+            },
+            {
+              "slug": "nomegestrol_acetate",
+              "name": "Nomegestrol acetate",
+              "url": "/drugs/nomegestrol-acetate/"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "ISOTRETINOIN",
+              "url": "/drugs/isotretinoin/"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel",
+              "url": "/drugs/cabazitaxel/"
+            },
+            {
+              "slug": "aztreonam",
+              "name": "Aztreonam",
+              "url": "/drugs/aztreonam/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "LORAZEPAM",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "CALCIPOTRIOL",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "serine",
+              "name": "Serine",
+              "url": "/drugs/serine/"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "Clarithromycin",
+              "url": "/drugs/clarithromycin/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "CARBAMAZEPINE",
+              "url": "/drugs/carbamazepine/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "LACTULOSE",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin",
+              "url": "/drugs/amoxicillin/"
+            },
+            {
+              "slug": "adapalene",
+              "name": "Adapalene",
+              "url": "/drugs/adapalene/"
+            },
+            {
+              "slug": "elafibranor",
+              "name": "Elafibranor",
+              "url": "/drugs/elafibranor/"
+            },
+            {
+              "slug": "trastuzumab",
+              "name": "Trastuzumab",
+              "url": "/drugs/trastuzumab/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "RAMIPRIL",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "praziquantel",
+              "name": "Praziquantel",
+              "url": "/drugs/praziquantel/"
+            },
+            {
+              "slug": "deferasirox",
+              "name": "DEFERASIROX",
+              "url": "/drugs/deferasirox/"
+            },
+            {
+              "slug": "potassium",
+              "name": "Potassium",
+              "url": "/drugs/potassium/"
+            },
+            {
+              "slug": "tetracycline",
+              "name": "Tetracycline",
+              "url": "/drugs/tetracycline/"
+            },
+            {
+              "slug": "sorafenib",
+              "name": "Sorafenib",
+              "url": "/drugs/sorafenib/"
+            },
+            {
+              "slug": "vinblastine",
+              "name": "Vinblastine",
+              "url": "/drugs/vinblastine/"
+            },
+            {
+              "slug": "tezacaftor",
+              "name": "Tezacaftor",
+              "url": "/drugs/tezacaftor/"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "BISOPROLOL",
+              "url": "/drugs/bisoprolol/"
+            },
+            {
+              "slug": "vancomycin",
+              "name": "Vancomycin",
+              "url": "/drugs/vancomycin/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole",
+              "url": "/drugs/letrozole/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "chlorthalidone",
+              "name": "CHLORTHALIDONE",
+              "url": "/drugs/chlorthalidone/"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "LAMOTRIGINE",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "iopamidol",
+              "name": "Iopamidol",
+              "url": "/drugs/iopamidol/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "ATENOLOL",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "doxorubicin",
+              "name": "Doxorubicin",
+              "url": "/drugs/doxorubicin/"
+            },
+            {
+              "slug": "megestrol_acetate",
+              "name": "Megestrol acetate",
+              "url": "/drugs/megestrol-acetate/"
+            },
+            {
+              "slug": "gestodene",
+              "name": "Gestodene",
+              "url": "/drugs/gestodene/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "CARVEDILOL",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "Levofloxacin",
+              "url": "/drugs/levofloxacin/"
+            },
+            {
+              "slug": "ambroxol",
+              "name": "Ambroxol",
+              "url": "/drugs/ambroxol/"
+            },
+            {
+              "slug": "polymyxin_b",
+              "name": "Polymyxin B",
+              "url": "/drugs/polymyxin-b/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "avibactam",
+              "name": "Avibactam",
+              "url": "/drugs/avibactam/"
+            },
+            {
+              "slug": "calcium",
+              "name": "Calcium",
+              "url": "/drugs/calcium/"
+            },
+            {
+              "slug": "norfloxacin",
+              "name": "Norfloxacin",
+              "url": "/drugs/norfloxacin/"
+            },
+            {
+              "slug": "sirolimus",
+              "name": "Sirolimus",
+              "url": "/drugs/sirolimus/"
+            },
+            {
+              "slug": "venetoclax",
+              "name": "Venetoclax",
+              "url": "/drugs/venetoclax/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "VALSARTAN",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be773235238d",
+      "title": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje",
+      "published": "2026-10-31T15:00:00+00:00",
+      "summary": "Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje&nbsp;&nbsp;UOLNovo alerta da OMS: até 45% dos casos de demência podem ser evitados antes dos primeiros sintomas&nbsp;&nbsp;Catraca LivreColesterol alto passa a ser considerado fator de risco para demência, afirma comissão científica&nbsp;&nbsp;Tua SaúdeHábitos saudáveis podem ajudar a reduzir risco de Alzheimer&nbsp;&nbsp;TV Jaguari",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYk84SlJuLUFNQzVlUmd6RGo2TjJHNnNMbG9NUmZ3RmIyTlFTYmFXU2RxR1BzQmVEcXdjOXFCVzQzTlVlZnl6a0Z1QVJyZllCZFljMnZUbWx3UDRhdTEwMjFaVjdvaFg1ZTF2VUVJZFg5a0JRM2FIR1NpUFBwQ0dWZnlzSk5mYURCbmRHZXZwdmNhOFl3WXY5anhPUThOMGhfYUZQSFdzMHk2dXlzREY5bHc5cENSaHFfemJRa3ZmTG4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden",
+              "url": "/drugs/biperiden/"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE",
+              "url": "/drugs/entacapone/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
             }
           ]
         }
@@ -5058,45 +5010,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e0e42625db7e",
-      "title": "Como tendência de compartilhamento de sangue pode estar alimentando nova crise de HIV",
-      "published": "2026-10-30T12:11:33+00:00",
-      "summary": "Como tendência de compartilhamento de sangue pode estar alimentando nova crise de HIV&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zOHV5Zjk0N1FraElpOXRrOS1nOFRjbE5RUHp3NzRGVkEwUl93WGRLMUMwTGtZMm1WLTVSdXFCQW5OSVNJaEhPTnF1MVFOOTUyUVNFWDY2WlJkYkZ1Q3hyelVmb9IBaEFVX3lxTE8zTnFQZTlDcDI1V25UNGViUG9ncjVjeG1UZm1JNjZqUlV0Z2FLdndxOGd6Q2cxQUlmNWpiRUJ5d2ZPS09SaW93cFNob3hhQXFUM2lURmV3VHdWUndRYWpmRms1Tml0Smp0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5249e0149b65",
-      "title": "Turista dos EUA toma vacina de graça no Brasil e economiza mais de R$ 2.000 - UOL Notícias",
-      "published": "2026-10-29T15:23:00+00:00",
-      "summary": "Turista dos EUA toma vacina de graça no Brasil e economiza mais de R$ 2.000&nbsp;&nbsp;UOL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLWxIcHc4ZlRnWWZPeEtfUk9BeHExYkZEY295Skp5aUY1alNJV0t0ZTR1aTJlTG5BeS1IN2wtdmpTNHYxcVo3d3NSclJtTmZxTWN5bm9tOHRNVGpQcGljUWo5TTZSdVNpVHV4b256VXpRSkZnbFNkdEpBNHBuLTlQbllMSVdaa2pWLW1RZHhDY3I1T3VVaElFaUdsQ3hTNVNBbWxKQnZuSElJemh2QnRfLUpJMlF6N0ZyZ2I3SlFZSG5FZWRYZ3MtMmw4WkFDeEhVY2xNUFdUQWFNa21LNDZmMg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a1176c6f5b1c",
-      "title": "Anvisa aprova cinco novas canetas para tratamento de diabetes e obesidade; veja quais",
-      "published": "2026-10-29T07:00:00+00:00",
-      "summary": "Anvisa aprova cinco novas canetas para tratamento de diabetes e obesidade; veja quais&nbsp;&nbsp;G1'Canetas emagrecedoras' precisam de descarte adequado depois do uso&nbsp;&nbsp;G1Anvisa certifica fábrica chinesa para produzir canetas emagrecedoras&nbsp;&nbsp;Poder360Anvisa aprova 5 novas canetas para tratamento de diabetes e obesidade&nbsp;&nbsp;Estado de MinasAnvisa aprova cinco novas canetas de GLP-1&nbsp;&nbsp;Governo Federal",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDNHay12WXI1MkNRSmtHTHY3Vndrc3VRa0c5QmFmVmh2U29JVThzT18tbUZTc2hGWGJMWWhzN0NscW1zZ2pfdzBmSEl2Vnl2d3ZQYXNkREF3UHUwc2pMNlBneUl4NGxhOEoyY0FETGhoUmZrbjJWbzk3amVhTnBFMlY1eTZZNFZCWEhPaXhYOFNOa2dWZUdXcEk0NlhvZDJQeFFWeExGTUVzNl9EU0ZHZVRNN2FkZmVNLUxMQnJIU2dMdC1yMkM3cEpJY0lqTVNaMnfSAeABQVVfeXFMTXNsRVZQYnJKazA0bzNTaFBFSi1Ib1Z0MzFVY2JyVFhpaVZYVHYxZElCUENfTkoybWZHRnF0YUc3TWNZeHUyWnJ5NElPX21pRDFJdzVyRTNrY3IteVdEU1VZb01uZWJHS3VUWnRnWW9ZeGVKQ0c5WHQ0YjMwNzhqcXo2RldvZVhwSXpPZXZ5SkhkeGl4Zm5LT2oyeUhTNzJvMERZWWlCZ0pvR3VMNnlVcl9NTmFPNEVGTS1HNWhieXk2MkllVzlrSS10czZnN01jSDBpWS1CbkpwWUl1OTBLMVI?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b7b9c15ce119",
