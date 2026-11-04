@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lornoxicam
-parent: Evidência Alta (L1-L2)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 427
-evidence_level: L2
+evidence_level: L5
 indication_count: 8
 monitor_inn: "Lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
-last_modified_at: 2026-10-31
-description: "Lornoxicam: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: Não informada nos dados compilados"
+last_modified_at: 2026-11-04
+description: "Lornoxicam: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
 # Lornoxicam
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **8** 
+Nível de evidência: **L5** | Indicações previstas: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,56 +33,50 @@ Nível de evidência: **L2** | Indicações previstas: **8**
 
 </div>
 
-## Lornoxicam: Da indicação original não especificada à enxaqueca
+## Lornoxicam: Transtorno de enxaqueca (migraine disorder)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Lornoxicam é um anti-inflamatório não esteroide (AINE) da classe dos oxicans, com propriedades analgésicas, anti-inflamatórias e antipiréticas. Os dados compilados para este relatório não trazem o texto da indicação aprovada no Brasil.
-O modelo TxGNN prevê que pode ser eficaz para **enxaqueca (migraine disorder)**, atualmente com **1 ensaio clínico** de Fase 2 e **2 publicações** (revisões) relacionadas a esta direção.
-
----
+Lornoxicam é um anti-inflamatório não esteroidal (AINE) da classe dos oxicams, com ação analgésica, anti-inflamatória e antipirética.
+O modelo TxGNN prevê que pode ser eficaz para **transtorno de enxaqueca (migraine disorder)**, com **1 ensaio clínico** concluído (sem resultados publicados) e **2 publicações** de revisão relacionadas. Como nenhum estudo publicado testou diretamente o lornoxicam na enxaqueca, o nível de evidência é L5.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não informada nos dados compilados (os registros da ANVISA não trazem texto de indicação) |
-| Nova Indicação Prevista | Enxaqueca (migraine disorder) |
-| Pontuação de Previsão TxGNN | 0,9987 |
-| Nível de Evidência | L2 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Transtorno de enxaqueca (migraine disorder) |
+| Pontuação de Previsão TxGNN | 0.9987 |
+| Nível de Evidência | L5 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 1 de 3) |
 | Número de Registros | 3 (ativos: 1) |
-| Decisão Recomendada | Proceed with Guardrails |
-
----
+| Decisão Recomendada | Hold |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, o lornoxicam é um inibidor não seletivo de COX-1 e COX-2 da classe dos oxicans. Ao inibir a síntese de prostaglandinas, ele reduz a inflamação neurogênica e a sensibilização periférica e central no sistema trigeminovascular, o mesmo caminho pelo qual outros AINEs aliviam a dor aguda da enxaqueca.
+Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o lornoxicam é um inibidor não seletivo de COX-1 e COX-2 da classe dos oxicams. Ao bloquear a síntese de prostaglandinas, reduz a inflamação neurogênica e a sensibilização periférica e central no sistema trigeminovascular.
 
-A indicação original não pôde ser extraída dos registros locais. Ainda assim, o perfil analgésico e anti-inflamatório do lornoxicam é coerente com o tratamento da dor de cabeça. A ligação biológica é plausível e apoiada pela classe dos AINEs. O que sustenta a previsão do TxGNN é principalmente o ensaio clínico de Fase 2 e as revisões sobre AINEs na enxaqueca, e não dados de eficácia do próprio lornoxicam, cujos resultados ainda não foram obtidos.
+Esse é o mesmo mecanismo pelo qual outros AINEs aliviam a dor da crise aguda de enxaqueca, o que torna a ligação biologicamente plausível e apoiada pela classe farmacológica. A revisão de 1992 sobre AINEs na enxaqueca cita o lornoxicam entre os fármacos testados, mas o trecho disponível não permite concluir sobre seu efeito específico.
 
----
+Vale ressaltar que a plausibilidade mecanística é um argumento de classe, e não uma demonstração de eficácia do lornoxicam nessa condição.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) | Phase 2 | Concluído | 150 | Estudo randomizado, duplo-cego, controlado por placebo, de dose única de lornoxicam intravenoso (8 mg ou 16 mg) no tratamento agudo da dor de cabeça moderada ou intensa de um ataque de enxaqueca. Os resultados de eficácia não constavam nos dados compilados. |
-
----
+| [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) | Phase 2 | Concluído | 150 | Estudo randomizado, duplo-cego, controlado por placebo, de dose única de lornoxicam intravenoso (8 mg ou 16 mg) contra placebo na cefaleia moderada a intensa de uma crise de enxaqueca. Os resultados não estão disponíveis na base compilada. |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Review | Pathologie-biologie | Revisão de estudos controlados de AINEs (incluindo lornoxicam) no tratamento de crises e na profilaxia da enxaqueca |
-| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Review | Drugs | Revisão da farmacologia e do potencial terapêutico do lornoxicam em condições dolorosas e inflamatórias, com meia-vida curta (3 a 5 horas) |
-
----
+| [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Revisão | Pathologie-biologie | Revisa estudos controlados de AINEs no tratamento da crise e na profilaxia da enxaqueca; o lornoxicam está entre os fármacos citados. |
+| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Revisão | Drugs | Revisão da farmacologia e do potencial terapêutico do lornoxicam em condições dolorosas e inflamatórias; não é específica para enxaqueca. |
 
 ## Informações de Comercialização no Brasil
+
+Há 3 registros de medicamentos com lornoxicam isolado: 1 válido e 2 cancelados.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -90,27 +84,24 @@ A indicação original não pôde ser extraída dos registros locais. Ainda assi
 | 101740022 | LORNOX | AVERT LABORATÓRIOS LTDA | Cancelado |
 | 109740238 | LORNOX | BIOLAB SANUS FARMACÊUTICA LTDA | Cancelado |
 
----
-
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
 
----
-
 ## Conclusão e Próximos Passos
 
-**Decisão: Proceed with Guardrails**
+**Decisão: Hold**
 
 **Justificativa:**
-Há um ensaio de Fase 2 concluído, randomizado e controlado por placebo, que estuda diretamente a enxaqueca, além de revisões que sustentam o uso de AINEs nessa condição. Como os resultados do ensaio não foram obtidos e faltam dados de segurança e de mecanismo, a avanço deve ser cauteloso.
+- O único ensaio clínico direto (Phase 2) foi concluído sem resultados publicados ou disponibilizados, e as demais fontes são revisões; portanto, não há estudo publicado que teste o lornoxicam na enxaqueca, e o nível de evidência é L5. A plausibilidade mecanística de classe sustenta continuar a investigação, mas não uma decisão de avanço.
 
 **Para prosseguir, é necessário:**
-- Obter os resultados do ensaio NCT00293657 (desfechos primários e secundários)
-- Baixar e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados
-- Confirmar as indicações aprovadas e as formas farmacêuticas dos registros brasileiros
-- Completar os dados de mecanismo de ação no DrugBank
-- Verificar a compatibilidade das vias de administração (o ensaio usou a via intravenosa)
+- Obter os resultados do ensaio NCT00293657 (desfechos de dor, segurança e doses de 8 mg e 16 mg).
+- Confirmar a disponibilidade de formulação adequada no Brasil, já que o estudo usou via intravenosa.
+- Obter os dados de mecanismo de ação.
+- Obter as advertências e contraindicações da bula na ANVISA para a triagem de segurança.
+- Comparar o lornoxicam com AINEs já estabelecidos na crise aguda de enxaqueca.
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

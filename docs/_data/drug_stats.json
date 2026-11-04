@@ -3,10 +3,10 @@
   "total_drugs": 517,
   "level_counts": {
     "L1": 4,
-    "L2": 23,
-    "L3": 25,
+    "L2": 22,
+    "L3": 23,
     "L4": 30,
-    "L5": 391
+    "L5": 394
   },
   "all_drugs": [
     {
@@ -1776,7 +1776,7 @@
     {
       "name": "Lornoxicam",
       "slug": "lornoxicam",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 8
     },
     {
@@ -1998,7 +1998,7 @@
     {
       "name": "Modafinil",
       "slug": "modafinil",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 1
     },
     {
@@ -2634,7 +2634,7 @@
     {
       "name": "Sirolimus",
       "slug": "sirolimus",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 6
     },
     {
