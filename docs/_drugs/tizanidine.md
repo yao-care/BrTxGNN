@@ -3,18 +3,18 @@ layout: default
 title: Tizanidine
 parent: Evidência Alta (L1-L2)
 nav_order: 642
-evidence_level: L1
+evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-31
-description: "Tizanidine: nova indicação prevista, Transtorno de enxaqueca (Migraine disorder) (nível de evidência L5). Indicação original: Relaxantes musculares centrais simples"
+last_modified_at: 2026-11-04
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
+description: "Tizanidine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: Não consta nos dados locais"
 ---
 
 # Tizanidine
 {: .fs-9 }
 
-Nível de evidência: **L1** | Indicações previstas: **5** 
+Nível de evidência: **L2** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,56 +33,53 @@ Nível de evidência: **L1** | Indicações previstas: **5**
 
 </div>
 
-## Tizanidina: De relaxante muscular central a transtorno de enxaqueca
+## Tizanidine: Enxaqueca (migraine disorder)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-A tizanidina foi originalmente registrada no Brasil como relaxante muscular de ação central.
-O modelo TxGNN prevê que pode ser eficaz para **transtorno de enxaqueca (migraine disorder)**,
-atualmente com **2 ensaios clínicos registrados** (1 deles diretamente relevante) e **16 publicações** apoiando esta direção.
+A tizanidina é um relaxante muscular de ação central, comercializado no Brasil.
+O modelo TxGNN prevê que pode ser eficaz para **Enxaqueca (migraine disorder)**,
+O nível de evidência é **L2**.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Relaxantes musculares centrais simples |
-| Nova Indicação Prevista | Transtorno de enxaqueca (Migraine disorder) |
-| Pontuação de Previsão TxGNN | 0,9979 |
-| Nível de Evidência | L1 (conforme classificação do conjunto de dados; ver ressalva na conclusão) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Enxaqueca (migraine disorder) |
+| Pontuação de Previsão TxGNN | 0.9979 |
+| Nível de Evidência | L2 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 5) |
 | Número de Registros | 5 (ativos: 3) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados. Segundo informações conhecidas, a tizanidina é um agonista alfa-2 adrenérgico de ação central, usado como relaxante muscular, e mecanisticamente pode ser aplicável à enxaqueca.
+Atualmente, não há dados detalhados de mecanismo de ação registrados nos dados compilados para este relatório. Pela literatura farmacológica, a tizanidina é um agonista alfa-2 adrenérgico central. Esse tipo de ação pode reduzir a transmissão nociceptiva trigeminovascular e diminuir a tensão muscular, incluindo a contribuição da musculatura pericraniana para a dor de cabeça.
 
-A relação entre a indicação original e a nova é plausível: o agonismo alfa-2 pode reduzir a transmissão nociceptiva trigeminovascular e a tensão da musculatura pericraniana, que contribui para as cefaleias. Ou seja, o efeito sobre o tônus muscular e o efeito sobre a dor central podem convergir na profilaxia da enxaqueca.
-
-Há apoio clínico direto: um estudo duplo-cego controlado por placebo em cefaleia crônica diária (Saper et al., 2002) e um ensaio de Fase 3 em prevenção de enxaqueca. Também foram previstas, em ordem decrescente de pontuação, outras indicações (cefaleia em geral, fibromialgia, síndrome de Tourette etc.), mas apenas a cefaleia e, de forma preliminar, a fibromialgia contam com algum respaldo.
+Como o fármaco já é usado para reduzir o tônus muscular, é plausível que o mesmo mecanismo ajude na profilaxia da enxaqueca. O apoio clínico direto vem de um ensaio randomizado controlado por placebo em cefaleia crônica diária (na qual a maioria dos pacientes tinha enxaqueca) e de um ensaio de Phase 3 de prevenção de enxaqueca ainda sem resultados.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT05484349](https://clinicaltrials.gov/study/NCT05484349) | Phase 3 | Desconhecido | 189 | Estudo multicêntrico, randomizado, duplo-cego e controlado por placebo de tizanidina oral na prevenção de crises de enxaqueca episódica em adultos de 18 a 65 anos. Sem resultados disponíveis; conclusão prevista para dez/2025. |
-| [NCT02403687](https://clinicaltrials.gov/study/NCT02403687) | N/A | Concluído | 300 | Estudo observacional (PACE) de 24 semanas sobre AINEs tópicos para alívio da dor. Relevância baixa; sem vínculo claro com a tizanidina. |
+| [NCT05484349](https://clinicaltrials.gov/study/NCT05484349) | Phase 3 | Desconhecido | 189 | Estudo multicêntrico, randomizado, duplo-cego e controlado por placebo, que avalia eficácia, segurança e tolerabilidade da tizanidina oral na prevenção de crises de enxaqueca episódica em adultos de 18 a 65 anos. Sem resultados disponíveis. |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [12167135](https://pubmed.ncbi.nlm.nih.gov/12167135/) | 2002 | RCT | Headache | Tizanidina versus placebo como profilaxia adjuvante de cefaleia crônica diária (enxaqueca crônica, cefaleia migranosa ou tensional), estudo multicêntrico duplo-cego |
-| [12696998](https://pubmed.ncbi.nlm.nih.gov/12696998/) | 2003 | Revisão | CNS Drugs | Fármacos que atuam em espasmo e tônus muscular (baclofeno, tizanidina, toxina botulínica) como prevenção de enxaqueca e cefaleia tensional; faltam estudos controlados |
-| [31365643](https://pubmed.ncbi.nlm.nih.gov/31365643/) | 2019 | Consenso | Arquivos de Neuro-Psiquiatria | Consenso da Sociedade Brasileira de Cefaleia sobre o tratamento da enxaqueca crônica |
-| [11318882](https://pubmed.ncbi.nlm.nih.gov/11318882/) | 2001 | Estudo aberto | Headache | Titulação de dose, aberta, de tizanidina na profilaxia da cefaleia crônica diária (eficácia e tolerabilidade) |
-| [15115635](https://pubmed.ncbi.nlm.nih.gov/15115635/) | 2004 | Revisão | Current Pain and Headache Reports | Novas opções de prevenção da enxaqueca, incluindo a tizanidina entre outros agentes |
-| [20464578](https://pubmed.ncbi.nlm.nih.gov/20464578/) | 2010 | Revisão | Neurological Sciences | Revisão dos estudos duplo-cegos controlados por placebo na profilaxia da enxaqueca crônica |
-| [17115988](https://pubmed.ncbi.nlm.nih.gov/17115988/) | 2006 | Revisão | Headache | Tratamento profilático da cefaleia crônica diária; a tizanidina está entre os poucos fármacos com evidência |
-| [11903539](https://pubmed.ncbi.nlm.nih.gov/11903539/) | 2002 | Relato/regime clínico | Headache | Tizanidina em baixa dose com AINEs na desintoxicação da cefaleia por abuso de analgésicos |
-| [40983294](https://pubmed.ncbi.nlm.nih.gov/40983294/) | 2025 | Pré-clínico/formulação | J Control Release | Automontagem supramolecular de tizanidina com meloxicam, com efeito antienxaqueca sinérgico |
-| [21770931](https://pubmed.ncbi.nlm.nih.gov/21770931/) | 2011 | Revisão | Headache | Ensaios clínicos em abuso de medicação e profilaxia da enxaqueca crônica; tizanidina citada entre os agentes avaliados |
+| [12167135](https://pubmed.ncbi.nlm.nih.gov/12167135/) | 2002 | RCT | Headache | Estudo duplo-cego, controlado por placebo e multicêntrico da tizanidina como profilaxia adjuvante da cefaleia crônica diária (incluindo enxaqueca crônica). |
+| [11318882](https://pubmed.ncbi.nlm.nih.gov/11318882/) | 2001 | Estudo aberto | Headache | Titulação de dose aberta para avaliar eficácia e segurança dos comprimidos de tizanidina na profilaxia da cefaleia crônica diária. |
+| [11903539](https://pubmed.ncbi.nlm.nih.gov/11903539/) | 2002 | Série clínica | Headache | Tizanidina em baixa dose com anti-inflamatórios na desintoxicação da cefaleia de rebote por analgésicos. |
+| [12696998](https://pubmed.ncbi.nlm.nih.gov/12696998/) | 2003 | Review | CNS Drugs | Revisa fármacos que atuam sobre espasmo e tônus muscular (baclofeno, tizanidina, toxina botulínica) como prevenção de enxaqueca e cefaleia tensional. |
+| [15115635](https://pubmed.ncbi.nlm.nih.gov/15115635/) | 2004 | Review | Curr Pain Headache Rep | Novas opções de prevenção da enxaqueca, incluindo a tizanidina. |
+| [17115988](https://pubmed.ncbi.nlm.nih.gov/17115988/) | 2006 | Review | Headache | Tratamento profilático da cefaleia crônica diária, citando a tizanidina entre as opções avaliadas. |
+| [21770931](https://pubmed.ncbi.nlm.nih.gov/21770931/) | 2011 | Revisão | Headache | Ensaios clínicos em enxaqueca crônica; a tizanidina é citada entre os fármacos avaliados na profilaxia. |
+| [23293866](https://pubmed.ncbi.nlm.nih.gov/23293866/) | 2013 | Review | Headache | Manejo racional da enxaqueca crônica, citando a tizanidina entre as opções. |
+| [31365643](https://pubmed.ncbi.nlm.nih.gov/31365643/) | 2019 | Consenso | Arq Neuropsiquiatr | Consenso da Sociedade Brasileira de Cefaleia sobre o tratamento da enxaqueca crônica. |
+| [40983294](https://pubmed.ncbi.nlm.nih.gov/40983294/) | 2025 | Pré-clínico | J Control Release | Automontagem supramolecular de tizanidina com meloxicam, com efeito anti-enxaqueca sinérgico em modelo pré-clínico. |
 
 ## Informações de Comercialização no Brasil
 
@@ -96,24 +93,24 @@ Há apoio clínico direto: um estudo duplo-cego controlado por placebo em cefale
 
 ## Considerações de Segurança
 
-- **Contraindicações (associações do grafo de conhecimento, não texto de bula)**: insuficiência hepática, doença renal, transtornos psicóticos (incluindo esquizofreniforme e esquizoafetivo), transtornos mentais em geral e transtornos hipotensivos.
-- **Interações Medicamentosas**: foram identificadas 100 interações; entre as principais, de gravidade **maior**: famotidina, cimetidina, morfina, dolasetrona e ácido obeticólico. De gravidade moderada: claritromicina, levofloxacino, metoclopramida, naltrexona, atropina, hiosciamina, dicicloverina, loperamida, dronabinol, nabilona, palonosetrona, entre outras. Inibidores da CYP1A2 (p. ex., fluvoxamina, ciprofloxacino) exigem atenção especial.
-- **Pontos de atenção do perfil do fármaco**: sedação, hipotensão e risco de hepatotoxicidade, com necessidade de monitoramento hepático.
+- **Interações Medicamentosas** (100 interações registradas; principais de nível maior): famotidina, cimetidina, morfina, dolasetrona e ácido obeticólico. Há também diversas interações de nível moderado, como hioscina, loperamida, atropina, claritromicina, levofloxacino e metoclopramida.
+- **Pontos de atenção** (conforme a avaliação de reposicionamento): sedação, hipotensão, risco de hepatotoxicidade e muitas interações via CYP1A2 (por exemplo, fluvoxamina e ciprofloxacino).
+
+Para advertências e contraindicações completas, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Há um ensaio de Fase 3 diretamente testando a tizanidina na prevenção da enxaqueca e um RCT controlado por placebo em cefaleia crônica diária, além de numerosas revisões. Porém, o ensaio de Fase 3 tem status desconhecido e sem resultados publicados; por isso, o nível L1 deve ser tratado com cautela, pois a condição de "≥2 RCTs de Fase 3 concluídos" não é claramente atendida pelos dados disponíveis.
-- O medicamento é comercializado no Brasil, com 3 registros válidos de 3.
+- Há um ensaio randomizado controlado por placebo com tizanidina em cefaleia crônica diária (maioria com enxaqueca) e um ensaio de Phase 3 específico para enxaqueca, ainda sem resultados; por isso o nível de evidência é L2. A pontuação TxGNN é alta (0,9979).
 
 **Para prosseguir, é necessário:**
-- Obter os resultados do NCT05484349 (confirmar status e conclusão).
-- Obter dados do mecanismo de ação (DrugBank) e da bula da ANVISA (advertências e contraindicações), atualmente ausentes.
-- Definir plano de monitoramento de função hepática, pressão arterial e sedação, e regras para uso concomitante de inibidores da CYP1A2.
-- Avaliar a situação regulatória: novo registro ou reativação, já que não há registro vigente no Brasil.
-- As demais indicações previstas (fibromialgia, síndrome de Tourette, tricotilomania etc.) permanecem em *Hold* ou em fase de pergunta de pesquisa, sem evidência suficiente.
+- Obter os resultados do ensaio NCT05484349 ou confirmar seu andamento.
+- Obter bula completa com advertências e contraindicações.
+- Plano de monitoramento de sedação, pressão arterial e função hepática, com atenção às interações via CYP1A2.
+- Dados detalhados do mecanismo de ação.
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

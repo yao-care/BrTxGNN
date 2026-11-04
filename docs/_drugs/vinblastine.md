@@ -3,18 +3,18 @@ layout: default
 title: Vinblastine
 parent: Evidência Moderada (L3-L4)
 nav_order: 670
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-04
 monitor_inn: "Vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
-description: "Vinblastine: nova indicação prevista, Rhabdomyosarcoma (disease) (nível de evidência L3). Indicação original: ANTINEOPLASICO"
+description: "Vinblastine: nova indicação prevista, rabdomiossarcoma (rhabdomyosarcoma (disease)) (nível de evidência L4). Indicação original: Não consta nos dados locais"
 ---
 
 # Vinblastine
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,50 +33,60 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Vinblastine: Rhabdomyosarcoma (disease)
+## Vinblastine: rabdomiossarcoma (rhabdomyosarcoma (disease))
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Vimblastina (Vinblastine) é um alcaloide da vinca, registrado no Brasil como antineoplásico.
-O modelo TxGNN prevê que pode ser eficaz para **Rabdomiossarcoma (Rhabdomyosarcoma)**,
-atualmente sem ensaios clínicos registrados e com **7 publicações** associadas a esta direção, em sua maioria relatos de caso e estudos pré-clínicos.
+A vimblastina é um alcaloide da vinca, registrado no Brasil como antineoplásico.
+O modelo TxGNN prevê que ela pode ser útil para **rabdomiossarcoma (rhabdomyosarcoma (disease))**.
+Até o momento, os dados compilados para este relatório mostram **nenhum ensaio clínico** e **7 publicações** relacionadas a essa direção, sendo as de maior relevância clínica relatos de caso de quimioterapia contendo vimblastina.
+
+---
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | ANTINEOPLASICO |
-| Nova Indicação Prevista | Rhabdomyosarcoma (disease) |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | rabdomiossarcoma (rhabdomyosarcoma (disease)) |
 | Pontuação de Previsão TxGNN | 0.9986 |
-| Nível de Evidência | L3 |
+| Nível de Evidência | L4 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 3 de 12) |
 | Número de Registros | 12 (ativos: 3) |
 | Decisão Recomendada | Hold |
 
+---
+
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada para este relatório. Segundo informações conhecidas, a vimblastina é um alcaloide da vinca que se liga à tubulina e inibe a polimerização dos microtúbulos, causando parada mitótica em células de divisão rápida.
+Atualmente, não há dados detalhados sobre o mecanismo de ação registrados para este fármaco. Segundo informações conhecidas, a vimblastina é um alcaloide da vinca que se liga à tubulina e inibe a polimerização dos microtúbulos, causando parada mitótica em células de divisão rápida.
 
-O rabdomiossarcoma é um sarcoma pediátrico altamente proliferativo, o que torna plausível a ação de um agente antimitótico. Alcaloides da vinca (principalmente a vincristina) já fazem parte dos esquemas padrão para essa doença, de modo que a novidade do reposicionamento específico da vimblastina é limitada.
+O rabdomiossarcoma é um sarcoma pediátrico altamente proliferativo, e um agente antimitótico é mecanisticamente plausível nesse contexto. Alcaloides da vinca (principalmente a vincristina) já fazem parte de esquemas padrão para rabdomiossarcoma, de modo que a novidade do reposicionamento especificamente para a vimblastina é limitada.
 
-A literatura inclui um esquema metronômico pediátrico com vários fármacos (2011), um estudo de letalidade sintética entre inibidores de PLK1 e fármacos desestabilizadores de microtúbulos (2015) e relatos de caso. A contribuição isolada da vimblastina nas combinações descritas não pode ser separada.
+As evidências disponíveis são, em sua maioria, relatos de caso e estudos pré-clínicos. Não é possível isolar a contribuição da vimblastina nos esquemas combinados descritos.
+
+---
 
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
 
+---
+
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [41216926](https://pubmed.ncbi.nlm.nih.gov/41216926/) | 2026 | Coorte | Pediatric Blood & Cancer | Ensaios CWS-96 e CWS-2002P em sarcomas de partes moles não rabdomiossarcoma em crianças e adolescentes (relevância indireta) |
-| [22156656](https://pubmed.ncbi.nlm.nih.gov/22156656/) | 2011 | Estudo piloto | Oncotarget | Regime metronômico pediátrico com 4 fármacos |
-| [38050209](https://pubmed.ncbi.nlm.nih.gov/38050209/) | 2023 | Relato de caso/Revisão | Medicine | Rabdomiossarcoma perianal em adulta; resposta parcial após nivolumabe, dacarbazina, cisplatina e vimblastina, seguida de ressecção cirúrgica |
-| [26024389](https://pubmed.ncbi.nlm.nih.gov/26024389/) | 2015 | Pré-clínico | Cell Death & Differentiation | Letalidade sintética entre inibidores de PLK1 e fármacos desestabilizadores de microtúbulos em modelos de rabdomiossarcoma |
+| [38050209](https://pubmed.ncbi.nlm.nih.gov/38050209/) | 2023 | Relato de caso/Revisão | Medicine | Rabdomiossarcoma perianal em adulta; após progressão com outro esquema, nivolumabe + dacarbazina + cisplatina + vimblastina levou a resposta parcial, seguida de ressecção cirúrgica |
+| [2451411](https://pubmed.ncbi.nlm.nih.gov/2451411/) | 1987 | Relato de caso/Revisão | Hinyokika Kiyo | Rabdomiossarcoma prostático refratário em criança; a combinação cisplatina, vimblastina e peplomicina reduziu rapidamente a massa pélvica |
+| [22156656](https://pubmed.ncbi.nlm.nih.gov/22156656/) | 2011 | Estudo clínico piloto | Oncotarget | Regime metronômico pediátrico de quatro fármacos, estudo piloto |
+| [41216926](https://pubmed.ncbi.nlm.nih.gov/41216926/) | 2026 | Coorte | Pediatric Blood & Cancer | Ensaios cooperativos CWS-96 e CWS-2002P em sarcomas de partes moles localizados que não são rabdomiossarcoma (relevância indireta) |
+| [26024389](https://pubmed.ncbi.nlm.nih.gov/26024389/) | 2015 | Pré-clínico | Cell Death & Differentiation | Letalidade sintética entre inibidores de PLK1 e fármacos desestabilizadores de microtúbulos em modelos pré-clínicos de rabdomiossarcoma |
 | [3329524](https://pubmed.ncbi.nlm.nih.gov/3329524/) | 1987 | Pré-clínico/Mecanístico | Anti-Cancer Drug Design | Seletividade terapêutica dos alcaloides da vinca em xenoenxertos de rabdomiossarcoma humano em camundongos |
-| [2451411](https://pubmed.ncbi.nlm.nih.gov/2451411/) | 1987 | Relato de caso/Revisão | Hinyokika Kiyo | Rabdomiossarcoma prostático refratário em criança, com redução rápida da massa pélvica após cisplatina, vimblastina e peplomicina |
-| [14328283](https://pubmed.ncbi.nlm.nih.gov/14328283/) | 1965 | Revisão (histórica) | Br J Clin Pract | Revisão histórica da quimioterapia de tumores em crianças |
+| [14328283](https://pubmed.ncbi.nlm.nih.gov/14328283/) | 1965 | Revisão histórica | British Journal of Clinical Practice | Quimioterapia de tumores em crianças |
+
+---
 
 ## Informações de Comercialização no Brasil
 
@@ -95,38 +105,44 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | 131390015 | FAULBLASTINA | DISAQ FARMACÊUTICA LTDA | Cancelado |
 | 155730029 | TEVAVINBLA | TEVA FARMACÊUTICA LTDA. | Cancelado |
 
+Dos 12 registros contabilizados, 3 estão válidos e 9 cancelados.
+
+---
+
 ## Citotoxicidade
 
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Citotóxico convencional (alcaloide da vinca, inibidor de microtúbulos) |
+| Classificação de Citotoxicidade | Citotóxico convencional (alcaloide da vinca, antimicrotúbulo) |
+| Risco de Mielossupressão | Alto (a neutropenia é a toxicidade limitante de dose típica desta classe) |
 | Classificação de Emetogenicidade | Baixa a média |
-| Itens de Monitoramento | Hemograma completo com diferencial, função hepática e renal, avaliação neurológica periférica |
-| Proteção no Manuseio | Necessário seguir os regulamentos de manuseio de citotóxicos; consulte as advertências e precauções na bula |
+| Itens de Monitoramento | Hemograma completo com diferencial, função hepática e renal |
+| Proteção no Manuseio | Necessário seguir os regulamentos de manuseio de citotóxicos; atenção especial ao risco de extravasamento (vesicante) e à via exclusivamente intravenosa |
+
+---
 
 ## Considerações de Segurança
 
-- **Contraindicações sinalizadas pelo grafo de conhecimento (não provenientes de bula)**: insuficiência hepática, trombocitopenia, neutropenia, agranulocitose, neuropatia periférica e doenças do sistema nervoso periférico, hiperbilirrubinemia (incluindo síndrome de Gilbert), doença pulmonar, isquemia miocárdica e doença arterial coronariana, doenças infecciosas (incluindo infecções fúngicas e dermatofitose), além de transtornos de ansiedade e distímico.
-- **Interações medicamentosas** (100 interações registradas; principais):
-  - **Maior**: claritromicina.
-  - **Moderada**: aprepitanto, dexametasona, metronidazol, eliglustate, miconazol, rolapitanto, rosuvastatina, sinvastatina, tinidazol, fenilbutirato de glicerol e troglitazona.
-  - **Menor**: levofloxacino.
-- **Alerta da literatura**: relato de íleo grave com infusão de cisplatina e vimblastina em neuroblastoma (1988).
+- **Interações medicamentosas:** os dados compilados registram 100 interações. Entre as listadas, a de **claritromicina** é classificada como **grave**. Interações de gravidade moderada incluem aprepitanto, dexametasona, metronidazol, eliglustate, miconazol, rolapitanto, rosuvastatina, sinvastatina, tinidazol, fenilbutirato de glicerol e troglitazona. A interação com levofloxacino é classificada como leve.
+- **Condições de cautela (relações de contraindicação registradas nos dados de modelagem, não texto de bula):** insuficiência hepática, neutropenia, trombocitopenia, agranulocitose, neuropatia periférica, hiperbilirrubinemia (incluindo síndrome de Gilbert), doença pulmonar, isquemia miocárdica/doença arterial coronariana e doenças infecciosas, entre outras.
+- Na literatura sobre neuroblastoma há relato de íleo grave com infusão de cisplatina e vimblastina; isso reforça a necessidade de monitoramento gastrointestinal e neurológico, embora se refira a outra condição.
 
-As advertências e contraindicações da bula aprovada pela ANVISA não estavam disponíveis; consulte a bula para informações de segurança completas.
+Para advertências e contraindicações formais, consulte a bula.
+
+---
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
 
 **Justificativa:**
-- A evidência é de nível L3, composta por relatos de caso, estudos pré-clínicos e um estudo piloto de combinação, sem ensaios registrados. A vincristina já ocupa o lugar dos alcaloides da vinca nos esquemas padrão de rabdomiossarcoma. Os três registros brasileiros estão cancelados, e faltam dados de segurança da bula, o que impede a triagem de segurança.
+- A única evidência são relatos de caso de esquemas combinados contendo vimblastina (nível L4), sem ensaios clínicos registrados. Como a vincristina já é o alcaloide da vinca padrão no rabdomiossarcoma, o ganho específico da vimblastina é incerto.
 
 **Para prosseguir, é necessário:**
-- Obter a bula da ANVISA (advertências e contraindicações) e os dados do mecanismo de ação.
-- Realizar revisão sistemática comparando vimblastina com vincristina em rabdomiossarcoma.
-- Avaliar se há interesse regulatório, já que não há registro válido no Brasil e não há formas farmacêuticas informadas.
-- Definir plano de monitoramento hematológico, hepático e neurológico para populações pediátricas.
+- Revisão sistemática da literatura que isole a contribuição da vimblastina em esquemas para rabdomiossarcoma, incluindo estudos mais robustos que relatos de caso
+- Dados formais de mecanismo de ação e das advertências e contraindicações da bula aprovada pela ANVISA
+- Avaliação comparativa frente aos esquemas padrão com vincristina, com plano de monitoramento de segurança (hematológico, neurológico e gastrointestinal)
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

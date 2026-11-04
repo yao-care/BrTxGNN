@@ -3,18 +3,18 @@ layout: default
 title: Minoxidil
 parent: Evidência Moderada (L3-L4)
 nav_order: 461
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with schistosomiasis"]
-last_modified_at: 2026-10-31
-description: "Minoxidil: nova indicação prevista, Hipotricose simples do couro cabeludo (nível de evidência L3). Indicação original: Hipertensão arterial e alopecia"
+last_modified_at: 2026-11-04
+description: "Minoxidil: nova indicação prevista, hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) (nível de evidência L4). Indicação original: Não consta nos dados locais"
 ---
 
 # Minoxidil
 {: .fs-9 }
 
-Nível de evidência: **L3** | Indicações previstas: **10** 
+Nível de evidência: **L4** | Indicações previstas: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,33 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-## Minoxidil: De hipertensão e alopecia para hipotricose simples do couro cabeludo
+## Minoxidil: hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Minoxidil é um vasodilatador (abridor de canais de potássio) usado originalmente no tratamento da hipertensão arterial e da alopecia.
-O modelo TxGNN prevê que pode ser eficaz para **hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp)**, atualmente com **0 ensaios clínicos** e **3 publicações** (relatos e séries de casos) apoiando esta direção.
+Minoxidil é um vasodilatador que abre canais de potássio sensíveis ao ATP e é também usado para estimular o crescimento capilar.
+O modelo TxGNN prevê que pode ser eficaz para **hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp)**, atualmente com **0 ensaios clínicos** e **3 publicações** (relatos de caso, sempre em combinação com outros tratamentos) apoiando esta direção. O nível de evidência é **L4**.
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Hipertensão arterial e alopecia (relações registradas no grafo de conhecimento; os textos de indicação dos registros no Brasil estão vazios) |
-| Nova Indicação Prevista | Hipotricose simples do couro cabeludo |
-| Pontuação de Previsão TxGNN | 1,0000 |
-| Nível de Evidência | L3 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) |
+| Pontuação de Previsão TxGNN | 1.0000 |
+| Nível de Evidência | L4 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 23 de 34) |
 | Número de Registros | 34 (ativos: 23) |
 | Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
 
-Atualmente, não há dados detalhados sobre o mecanismo de ação no banco de dados consultado. Segundo a literatura compilada, o minoxidil é um pró-fármaco convertido em sulfato de minoxidil, que abre canais de potássio sensíveis ao ATP, prolonga a fase anágena, aumenta o fluxo sanguíneo folicular e estimula fatores de crescimento do folículo, como o VEGF. Revisões também apontam possível ativação da via Wnt/β-catenina.
+Os dados compilados para este relatório não trazem uma descrição detalhada do mecanismo de ação do fármaco. Segundo a literatura, o minoxidil (por meio do metabólito ativo sulfato de minoxidil) abre canais de potássio sensíveis ao ATP, prolonga a fase anágena do ciclo capilar, aumenta o fluxo sanguíneo folicular e estimula fatores de crescimento do folículo, como o VEGF.
 
-A hipotricose simples do couro cabeludo é uma doença genética rara, de herança autossômica dominante (associada a variantes do gene CDSN), caracterizada por baixa densidade capilar. Como o minoxidil já é usado para alopecia, é plausível que estimule os folículos remanescentes também nesta condição.
+A hipotricose simples do couro cabeludo é uma doença genética rara, de herança autossômica dominante (associada a variantes do gene CDSN), caracterizada por redução da densidade e do comprimento dos cabelos. Como o minoxidil atua justamente na estimulação e na manutenção do folículo piloso, é plausível que traga benefício nesse quadro.
 
-A evidência é indireta quanto à eficácia controlada: os dados vêm de relatos de casos, frequentemente com terapias combinadas (fatores de crescimento, plasma rico em plaquetas, extratos botânicos), o que dificulta isolar o efeito do minoxidil.
+O que existe até agora são relatos de caso: tratamento com minoxidil oral e fatores de crescimento, combinação de extratos botânicos com minoxidil, e injeção de plasma rico em plaquetas com minoxidil tópico 2%. Como todos usam terapias combinadas, não é possível isolar o efeito do minoxidil.
 
 ## Evidências de Ensaios Clínicos
 
@@ -70,12 +70,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Relato/série de casos | Dermatologic Therapy | Tratamento da hipotricose simples hereditária do couro cabeludo com minoxidil oral e fatores de crescimento |
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Relato de caso familiar | Frontiers in Genetics | Menino de 8 anos com HSS por mutação no CDSN, tratado com extratos botânicos associados a minoxidil |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Relato de caso | J Dermatol Treat | Paciente de 14 anos tratada com injeção de plasma rico em plaquetas e minoxidil tópico 2%, com resposta descrita como bem-sucedida |
+| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Relato de caso familiar | Frontiers in Genetics | Menino de 8 anos com HSS por mutação no gene CDSN, tratado com extratos botânicos associados a minoxidil |
+| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Relato de caso | Journal of Dermatological Treatment | Paciente de 14 anos tratada com injeção de plasma rico em plaquetas e minoxidil tópico 2%, com resposta descrita como bem-sucedida |
 
 ## Informações de Comercialização no Brasil
 
-Os registros abaixo constam da lista parcial compilada (até 5 exemplos entre os 20 listados; 13 válidos e 7 cancelados). Os textos de indicação aprovada e as formas farmacêuticas não estavam disponíveis nos dados.
+Há ao menos 34 registros, e a lista abaixo pode ser parcial. Existem registros válidos no país.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -110,26 +110,26 @@ Os registros abaixo constam da lista parcial compilada (até 5 exemplos entre os
 | 123520271 | MINOXIDIL | RANBAXY FARMACÊUTICA LTDA | Cancelado |
 | 123890004 | REGAINE | PHARMACIA BRASIL LTDA | Cancelado |
 
-A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
-
 ## Considerações de Segurança
 
-- **Contraindicações registradas no grafo de conhecimento (não provêm de bula)**: doenças cardiovasculares (infarto do miocárdio, doença cardíaca, derrame/trombose coronariana), acidente vascular cerebral e doenças cerebrovasculares, feocromocitoma e paraganglioma simpático, doença renal, hipotensão ortostática e síndrome de taquicardia postural ortostática, atrofia de múltiplos sistemas, pericardite, derrame pericárdico e tamponamento cardíaco, hemoglobinopatias, e dermatose do couro cabeludo.
-- **Interações Medicamentosas**: foram identificadas 100 interações; as listadas são de nível moderado, com corticoides (hidrocortisona, prednisona, prednisolona, dexametasona, betametasona, triamcinolona, budesonida), bupropiona, morfina, ópio, inibidores de SGLT2 (canagliflozina, dapagliflozina, empagliflozina, ertugliflozina), dronabinol, nabilona e sapropterina. Calcitriol, clotrimazol e metformina têm interação de nível desconhecido.
-- Os dados de advertências e contraindicações das bulas da ANVISA não estavam disponíveis; consulte a bula para informações de segurança completas. Em doses sistêmicas, o minoxidil pode causar taquicardia reflexa, retenção de líquidos e derrame pericárdico.
+- **Interações Medicamentosas** (nível moderado): corticosteroides (hidrocortisona, triamcinolona, dexametasona, betametasona, budesonida, prednisolona, prednisona), bupropiona, morfina, ópio, inibidores de SGLT2 (canagliflozina, dapagliflozina, empagliflozina, ertugliflozina), dronabinol, nabilona e sapropterina. Calcitriol, clotrimazol e metformina têm interação de nível desconhecido. Foram identificadas 100 interações no total; a lista acima é parcial.
+- **Condições de cautela**: os dados compilados indicam que o minoxidil é desaconselhado ou exige cautela em doenças cardiovasculares (infarto do miocárdio, doença cardíaca), acidente vascular cerebral, derrame ou tamponamento pericárdico, feocromocitoma, hipotensão ortostática e doença renal. Trata-se de dados de relação fármaco-doença, não de texto de bula.
+
+Consulte a bula para advertências e contraindicações oficiais.
 
 ## Conclusão e Próximos Passos
 
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Há três relatos de casos diretamente sobre esta doença e o mecanismo é plausível, porém não há ensaios clínicos nem estudos controlados, e em todos os relatos o minoxidil foi usado junto a outras intervenções.
+- O modelo atribui pontuação muito alta (1,0000) e há mecanismo plausível, mas a evidência (L4) se limita a três relatos de caso com terapias combinadas, sem ensaios clínicos.
+- O minoxidil já é amplamente comercializado no Brasil, o que facilita a avaliação, mas exige salvaguardas de segurança, sobretudo na forma oral.
 
 **Para prosseguir, é necessário:**
-- Estudos controlados ou séries maiores que isolem o efeito do minoxidil
-- Dados de mecanismo de ação e de advertências/contraindicações das bulas da ANVISA (bloqueio para a triagem de segurança)
-- Definição da via de administração (tópica ou oral em baixa dose) e plano de monitoramento cardiovascular, sobretudo em crianças e com uso oral
-- Confirmação das indicações aprovadas nos registros brasileiros, hoje sem texto de indicação
+- Estudos controlados, ou ao menos séries de casos maiores, com minoxidil isolado em hipotricose simples do couro cabeludo.
+- Dados detalhados do mecanismo de ação e das advertências e contraindicações da bula na ANVISA.
+- Definição de dose e via de administração (tópica ou oral em baixa dose), com plano de monitoramento cardiovascular e de retenção hídrica, especialmente em crianças.
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

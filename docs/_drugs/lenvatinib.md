@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lenvatinib
-parent: Evidência Alta (L1-L2)
+parent: Evidência Moderada (L3-L4)
 nav_order: 399
-evidence_level: L2
+evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-10-31
-description: "Lenvatinib: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L2). Indicação original: Antineoplásico (agentes antineoplásicos e imunomoduladores)"
+last_modified_at: 2026-11-04
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
+description: "Lenvatinib: nova indicação prevista, Lipossarcoma (liposarcoma) (nível de evidência L3). Indicação original: Não consta nos dados locais"
 ---
 
 # Lenvatinib
 {: .fs-9 }
 
-Nível de evidência: **L2** | Indicações previstas: **5** 
+Nível de evidência: **L3** | Indicações previstas: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,50 +33,53 @@ Nível de evidência: **L2** | Indicações previstas: **5**
 
 </div>
 
-## Lenvatinibe: De antineoplásico geral para lipossarcoma
+## Lenvatinib: Lipossarcoma (liposarcoma)
 {: .text-alpha }
 
 ## Resumo em Uma Frase
 
-Lenvatinibe é um inibidor de múltiplas quinases (VEGFR, FGFR, PDGFRα, KIT e RET), registrado no Brasil como antineoplásico.
-O modelo TxGNN prevê que pode ser eficaz para **lipossarcoma (Liposarcoma)**, atualmente com **1 ensaio clínico** e **4 publicações** relacionados a esta direção (apenas 1 delas é um estudo clínico direto).
+Lenvatinibe é um inibidor multiquinase com registro no Brasil como antineoplásico.
+O modelo TxGNN prevê que pode ser eficaz para **Lipossarcoma (liposarcoma)**,
+atualmente com **1 ensaio clínico** e **4 publicações** relacionadas, sendo apenas um estudo clínico de braço único diretamente sobre a doença (nível de evidência L3).
 
 ## Visão Geral Rápida
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Antineoplásico (agentes antineoplásicos e imunomoduladores) |
-| Nova Indicação Prevista | Lipossarcoma (Liposarcoma) |
-| Pontuação de Previsão TxGNN | 0,9951 |
-| Nível de Evidência | L2 |
+| Indicação Original | Não consta nos dados locais |
+| Nova Indicação Prevista | Lipossarcoma (liposarcoma) |
+| Pontuação de Previsão TxGNN | 0.9951 |
+| Nível de Evidência | L3 |
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 5 de 6) |
 | Número de Registros | 6 (ativos: 5) |
-| Decisão Recomendada | Hold (com pergunta de pesquisa em aberto) |
+| Decisão Recomendada | Proceed with Guardrails |
 
 ## Por que Esta Previsão é Razoável?
 
-Lenvatinibe inibe VEGFR1-3, FGFR1-4, PDGFRα, RET e KIT, suprimindo a angiogênese tumoral e a sinalização de crescimento. Os dados compilados para este relatório não trazem uma descrição detalhada do mecanismo de ação, mas esse perfil de alvos é conhecido e coerente com a ação antineoplásica registrada.
+Lenvatinibe inibe vários receptores de tirosina quinase envolvidos na angiogênese tumoral e na sinalização de crescimento: VEGFR1-3, FGFR1-4, PDGFRα, RET e KIT. Ao bloquear esses alvos, reduz o suprimento sanguíneo e o crescimento do tumor. Atualmente, não há dados detalhados de mecanismo de ação nos registros compilados; a descrição acima baseia-se no racional de reposicionamento do fármaco.
 
-Lipossarcoma é um sarcoma de partes moles com opções de tratamento limitadas. A indicação original do fármaco é oncológica genérica (sem tumor específico nos registros), e a nova indicação é, portanto, outro tumor sólido que depende de angiogênese e de sinalização por tirosina-quinases.
+Os sarcomas de partes moles, como o lipossarcoma, são tumores mesenquimais com opções terapêuticas limitadas na doença avançada. A inibição da angiogênese e de vias de fatores de crescimento é uma estratégia plausível nesses tumores, o que sustenta a previsão do modelo.
 
-Um estudo de Fase Ib/II (LEADER) combinou lenvatinibe com eribulina, um inibidor de microtúbulos, em sarcoma adipocítico e leiomiossarcoma avançados. Como o desenho é de braço único e em combinação, a contribuição isolada do lenvatinibe não pode ser determinada.
+Há um sinal clínico direto: um estudo de fase Ib/II combinou lenvatinibe com eribulina (inibidor de microtúbulos) em lipossarcoma e leiomiossarcoma avançados. Como o estudo usa uma combinação e não tem grupo comparador, não é possível isolar a contribuição do lenvatinibe isoladamente.
 
 ## Evidências de Ensaios Clínicos
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
-| [NCT03526679](https://clinicaltrials.gov/study/NCT03526679) | Fase 1/2 | Concluído | 30 | Lenvatinibe + eribulina em sarcoma adipocítico e leiomiossarcoma avançados, inoperáveis ou metastáticos; braço único, avalia segurança e eficácia |
+| [NCT03526679](https://clinicaltrials.gov/study/NCT03526679) | Fase 1/2 | Concluído | 30 | Estudo de braço único (LEADER) de lenvatinibe + eribulina em sarcoma adipocítico e leiomiossarcoma avançados, inoperáveis ou metastáticos; avalia segurança e eficácia |
 
 ## Evidências da Literatura
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
-| [36129471](https://pubmed.ncbi.nlm.nih.gov/36129471/) | 2022 | Ensaio de Fase Ib/II, braço único | Clinical Cancer Research | Estudo LEADER: segurança e eficácia de lenvatinibe + eribulina em lipossarcoma e leiomiossarcoma avançados |
-| [34326745](https://pubmed.ncbi.nlm.nih.gov/34326745/) | 2021 | Relato de caso | Case Reports in Oncology | Redução evidente do tumor em lipossarcoma desdiferenciado com metástase pulmonar, com tratamento individualizado |
-| [39103896](https://pubmed.ncbi.nlm.nih.gov/39103896/) | 2024 | Biomarcador/pré-clínico | Experimental Hematology & Oncology | CDK4 como biomarcador prognóstico em sarcomas de partes moles; contexto mecanístico, não é evidência direta do lenvatinibe |
-| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Revisão pré-clínica | Anticancer Research | Atividade antitumoral da eribulina em combinação com agentes de mecanismos diferentes |
+| [36129471](https://pubmed.ncbi.nlm.nih.gov/36129471/) | 2022 | Ensaio de fase Ib/II de braço único | Clin Cancer Res | Estudo LEADER: segurança e eficácia de lenvatinibe + eribulina em lipossarcoma e leiomiossarcoma avançados |
+| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Revisão pré-clínica | Anticancer Res | Atividade pré-clínica da eribulina em combinação com agentes de diferentes mecanismos |
+| [39103896](https://pubmed.ncbi.nlm.nih.gov/39103896/) | 2024 | Biomarcador/pré-clínico | Exp Hematol Oncol | CDK4 como biomarcador prognóstico em sarcomas e efeito sinérgico de sua inibição em lipossarcoma desdiferenciado; contexto mecanístico, sem evidência direta para lenvatinibe |
+| [34326745](https://pubmed.ncbi.nlm.nih.gov/34326745/) | 2021 | Relato de caso | Case Rep Oncol | Redução tumoral em lipossarcoma desdiferenciado com metástase pulmonar sob tratamento individualizado |
 
 ## Informações de Comercialização no Brasil
+
+Há registros válidos de lenvatinibe no Brasil (5 válidos e 1 cancelado, entre 6 registros no total).
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -91,40 +94,30 @@ Um estudo de Fase Ib/II (LEADER) combinou lenvatinibe com eribulina, um inibidor
 
 | Item | Conteúdo |
 |------|------|
-| Classificação de Citotoxicidade | Terapia alvo (inibidor de múltiplas tirosina-quinases) |
+| Classificação de Citotoxicidade | Terapia alvo (inibidor multiquinase) |
 | Risco de Mielossupressão | Consulte as advertências e precauções na bula |
 | Classificação de Emetogenicidade | Consulte as advertências e precauções na bula |
-| Itens de Monitoramento | Pressão arterial, proteinúria, função hepática e renal, hemograma (conforme prática clínica) |
+| Itens de Monitoramento | Consulte as advertências e precauções na bula |
 | Proteção no Manuseio | Consulte as advertências e precauções na bula |
 
 ## Considerações de Segurança
 
-- **Interações Medicamentosas**: foram identificadas 260 interações no total. As principais listadas nos dados compilados:
-  - **Maior gravidade (Major)**: dolasetrona e cisaprida (risco associado, em geral, ao prolongamento do intervalo QT).
-  - **Moderada**: claritromicina, levofloxacino, palonosetrona, granisetrona, naltrexona, famotidina, loperamida e diversos laxantes (bisacodil, ácido picossulfúrico, polietilenoglicol, sulfato de sódio, óleo de rícino, glicerina, lactitol, lactulose, citrato e hidróxido de magnésio).
-  - **Leve (Minor)**: metronidazol.
-- Para advertências e contraindicações, consulte a bula.
+- **Interações Medicamentosas**: foram identificadas 260 interações nos dados compilados. Entre as listadas, as de gravidade **maior** incluem dolasetrona e cisaprida. Interações de gravidade moderada incluem claritromicina, levofloxacina, famotidina, loperamida, granissetrona, palonosetrona, naltrexona e diversos laxantes (bisacodil, lactulose, lactitol, citrato e hidróxido de magnésio, polietilenoglicol, sulfato de sódio, óleo de rícino, glicerina, ácido picossulfúrico). Metronidazol tem interação de gravidade menor.
+
+Para advertências e contraindicações, consulte a bula.
 
 ## Conclusão e Próximos Passos
 
-**Decisão: Hold**
+**Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Para o lipossarcoma há apenas um estudo de braço único em combinação (Fase 1/2), sem comparador randomizado, o que caracteriza uma pergunta de pesquisa e não uma evidência confirmatória. Além disso, o medicamento é comercializado no Brasil, com 5 registros válidos de 5.
+- Há um estudo de fase Ib/II de braço único, concluído, que testa lenvatinibe com eribulina em lipossarcoma avançado (nível L3). Não há ensaio randomizado, e o efeito do lenvatinibe isolado não pode ser separado do da combinação.
 
 **Para prosseguir, é necessário:**
-- Ensaio randomizado de Fase 2/3 em lipossarcoma que isole a contribuição do lenvatinibe.
-- Dados de mecanismo de ação e informações de bula (advertências e contraindicações) da ANVISA.
-- Verificação da situação regulatória no Brasil, já que não há registro vigente.
-
-**Outras previsões do modelo (resumo):**
-
-| Indicação | Pontuação TxGNN | Nível | Recomendação |
-|---|---|---|---|
-| Lipossarcoma mixoide ovariano | 0,9947 | L5 | Hold |
-| Angiolipoma | 0,9935 | L5 | Hold |
-| Pneumotórax espontâneo familiar | 0,9929 | L5 | Hold |
-| Síndrome endócrino-cérebro-osteodisplasia | 0,9921 | L5 | Hold |
+- Resultados detalhados de eficácia e segurança do estudo LEADER, especificamente na coorte de lipossarcoma
+- Ensaio randomizado ou comparativo que isole a contribuição do lenvatinibe
+- Dados de mecanismo de ação e de advertências e contraindicações da bula aprovada pela ANVISA
+- Plano de monitoramento de segurança, incluindo revisão das interações medicamentosas de gravidade maior
 
 ## Aviso de isenção de responsabilidade
 

@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-03",
+  "generated": "2026-11-04",
   "total_drugs": 517,
   "level_counts": {
-    "L1": 7,
-    "L2": 19,
-    "L3": 26,
-    "L4": 33,
-    "L5": 388
+    "L1": 4,
+    "L2": 23,
+    "L3": 25,
+    "L4": 30,
+    "L5": 391
   },
   "all_drugs": [
     {
@@ -150,7 +150,7 @@
     {
       "name": "Ampicillin",
       "slug": "ampicillin",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -162,7 +162,7 @@
     {
       "name": "Apixaban",
       "slug": "apixaban",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 1
     },
     {
@@ -666,7 +666,7 @@
     {
       "name": "Citric Acid",
       "slug": "citric_acid",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 8
     },
     {
@@ -738,7 +738,7 @@
     {
       "name": "Clozapine",
       "slug": "clozapine",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 9
     },
     {
@@ -888,7 +888,7 @@
     {
       "name": "Diazepam",
       "slug": "diazepam",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 10
     },
     {
@@ -1368,7 +1368,7 @@
     {
       "name": "Glucagon",
       "slug": "glucagon",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 1
     },
     {
@@ -1428,13 +1428,13 @@
     {
       "name": "Hydrocortisone",
       "slug": "hydrocortisone",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 9
     },
     {
       "name": "Hydrocortisone Acetate",
       "slug": "hydrocortisone_acetate",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 9
     },
     {
@@ -1674,7 +1674,7 @@
     {
       "name": "Lenvatinib",
       "slug": "lenvatinib",
-      "level": "L2",
+      "level": "L3",
       "indication_count": 5
     },
     {
@@ -1716,7 +1716,7 @@
     {
       "name": "Levonorgestrel",
       "slug": "levonorgestrel",
-      "level": "L4",
+      "level": "L2",
       "indication_count": 5
     },
     {
@@ -1812,7 +1812,7 @@
     {
       "name": "Magnesium Sulfate",
       "slug": "magnesium_sulfate",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 8
     },
     {
@@ -1980,7 +1980,7 @@
     {
       "name": "Minoxidil",
       "slug": "minoxidil",
-      "level": "L3",
+      "level": "L4",
       "indication_count": 10
     },
     {
@@ -2670,7 +2670,7 @@
     {
       "name": "Sorafenib",
       "slug": "sorafenib",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 6
     },
     {
@@ -2862,7 +2862,7 @@
     {
       "name": "Tizanidine",
       "slug": "tizanidine",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 5
     },
     {
@@ -2994,7 +2994,7 @@
     {
       "name": "Valsartan",
       "slug": "valsartan",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 6
     },
     {
@@ -3006,7 +3006,7 @@
     {
       "name": "Vandetanib",
       "slug": "vandetanib",
-      "level": "L2",
+      "level": "L3",
       "indication_count": 10
     },
     {
@@ -3030,7 +3030,7 @@
     {
       "name": "Vinblastine",
       "slug": "vinblastine",
-      "level": "L3",
+      "level": "L4",
       "indication_count": 10
     },
     {
@@ -3096,7 +3096,7 @@
     {
       "name": "Zinc Sulfate",
       "slug": "zinc_sulfate",
-      "level": "L3",
+      "level": "L2",
       "indication_count": 4
     },
     {
