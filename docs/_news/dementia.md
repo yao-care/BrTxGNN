@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre demência (dementia)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre demência (dementia). 1 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre demência (dementia). 2 notícias, 4 medicamentos relacionados."
 permalink: /news/dementia/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-04
 ---
 
 # Notícias sobre demência (dementia)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre demência (dementia)?">
-<strong>demência (dementia)</strong> tem atualmente <strong>1 notícias</strong> e 4 medicamentos relacionados.
+<strong>demência (dementia)</strong> tem atualmente <strong>2 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «demência» e l
 </ul>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Mini-AVC é ligado a risco de demência próximo ao de quem teve AVC](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENVQWx0dnRlaUdlRWFyTzMwVG42R3lIWUpDbDJiX19oZWw0dWF1OW16NU5jdU1ONmppeGJEeFNKdmFnOGJZVUp1UDB6U096WTlmTjRSb0FjSDRZcVc5M21ic1d4SDVuNk9sZHhreUxSMHB5elZEQk1lYV9IUTVyMzc4OXh3V1RoNUVlRTJ3MHU2c3VUa2dsc0lMRHNDUTZRSmhvd2VwelFGM0FFLThTemNkYlZlOC1HSHdF?oc=5)
+
+2026-11-04
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENVQWx0dnRlaUdlRWFyTzMwVG42R3lIWUpDbDJiX19oZWw0dWF1OW16NU5jdU1ONmppeGJEeFNKdmFnOGJZVUp1UDB6U096WTlmTjRSb0FjSDRZcVc5M21ic1d4SDVuNk9sZHhreUxSMHB5elZEQk1lYV9IUTVyMzc4OXh3V1RoNUVlRTJ3MHU2c3VUa2dsc0lMRHNDUTZRSmhvd2VwelFGM0FFLThTemNkYlZlOC1HSHdF?oc=5)
+
+---
 
 ### [Como reduzir o risco de Alzheimer? 7 hábitos para adotar hoje](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYk84SlJuLUFNQzVlUmd6RGo2TjJHNnNMbG9NUmZ3RmIyTlFTYmFXU2RxR1BzQmVEcXdjOXFCVzQzTlVlZnl6a0Z1QVJyZllCZFljMnZUbWx3UDRhdTEwMjFaVjdvaFg1ZTF2VUVJZFg5a0JRM2FIR1NpUFBwQ0dWZnlzSk5mYURCbmRHZXZwdmNhOFl3WXY5anhPUThOMGhfYUZQSFdzMHk2dXlzREY5bHc5cENSaHFfemJRa3ZmTG4?oc=5)
 

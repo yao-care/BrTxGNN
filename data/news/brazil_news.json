@@ -1,19 +1,271 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-04T13:55:21.487933+00:00",
-  "total_fetched": 91,
-  "unique_count": 89,
-  "health_related_count": 35,
+  "fetched_at": "2026-11-04T23:19:43.185374+00:00",
+  "total_fetched": 98,
+  "unique_count": 98,
+  "health_related_count": 44,
   "news": [
     {
-      "id": "e026c7642255",
-      "title": "Anvisa aprova Wegovy em comprimido, a primeira pílula de semaglutida para tratar obesidade no Brasil - G1",
-      "published": "2026-11-04T11:20:42+00:00",
-      "summary": "Anvisa aprova Wegovy em comprimido, a primeira pílula de semaglutida para tratar obesidade no Brasil&nbsp;&nbsp;G1Anvisa aprova Wegovy em comprimido, 1ª versão oral das canetas emagrecedoras&nbsp;&nbsp;O GLOBOAnvisa aprova primeiro GLP-1 em comprimido para tratamento da obesidade&nbsp;&nbsp;EstadãoAnvisa aprova nova semaglutida em comprimido para o tratamento da obesidade&nbsp;&nbsp;VEJAAnvisa aprova primeiro medicamento de GLP-1 oral para obesidade&nbsp;&nbsp;Agência Brasil",
+      "id": "5f5b822be3e5",
+      "title": "A psicologia afirma: quem faz crochê não está apenas passando o tempo; em estudo com cerca de 8 mil praticantes, quase 90% relataram sentir-se mais calmos - Super Rádio Tupi",
+      "published": "2026-11-04T20:52:46+00:00",
+      "summary": "A psicologia afirma: quem faz crochê não está apenas passando o tempo; em estudo com cerca de 8 mil praticantes, quase 90% relataram sentir-se mais calmos&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQmJuMDJOS29ta3ZBOUdQWmJmUVJKdERVNEVPSTdERUhFUDIzLVVLRjZjTDJiVUowR2c4YnFhTDVMbWcwbFJ4eUV2ZzJkTU9TSnJ2SE5vYnlFbW1YcGxtbUdoS1FIMC1sUlpiWW1BSVJTbmZJTTdpdnktdjFYTTFHa0o3akgtaHhON1ZlNFFyckE4UktGRWt1VXByT0VKazEzTnFqQjQ0a2FmZVZBMnJEY0lGT2VycEtjTG9uc1FaTVMtcVQyQUlncXdTRWtaV3U4Tm80bkc1QUhkWHp5X3l4N0VXaUVpalQ1NU84ak9obzVNR3Z4SmZwQnBhQmw5dHp0dUFBOG1R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "605b9edf84f8",
+      "title": "Wegovy em comprimido chega ao Brasil e acende alerta para Hypera, diz Goldman Sachs - InfoMoney",
+      "published": "2026-11-04T20:43:20+00:00",
+      "summary": "Wegovy em comprimido chega ao Brasil e acende alerta para Hypera, diz Goldman Sachs&nbsp;&nbsp;InfoMoneyAnvisa aprova Wegovy em comprimido: o que falta para versão oral da caneta emagracedora chegar às farmácias do Brasil?&nbsp;&nbsp;G1Anvisa aprova nova semaglutida em comprimido para o tratamento da obesidade&nbsp;&nbsp;VEJAGLP-1 em comprimido: para quem é indicado e quais os cuidados ao trocar a caneta pela versão oral&nbsp;&nbsp;EstadãoAnvisa aprova comprimido Wegovy, pílula de semaglutida pa",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGxkUzAyckhuUk4zUzNfTmphOTNXeU5sbjlWTkpmcThvZmV0cnZXd2p1MEZJTDJQaWt3eExaYVBreUNBNEtGc0p0NHZtcGRWYktGc21nbzlENXYzbWpkeTRpQ3NQMG11RVlNWDJyTmpRQjhzTXFQVUZiVEtnVDQ0ZTJOOUJjVE5CdkFWeldXdnl6amlWdEVHNU5uV0dfR0V5ZlEtcVBnYmFhM1MtQk9oREwwTFlCYzRZaV9XdkVn0gHDAUFVX3lxTFB6QzBGVmY0N1h5T1hLMTdFLTJYUENtdlp4NFQ1cUZUWFdQSXd3NlZtQUR6WWZaZU92T1Y2b2VQUGVQTE1aUnlOSUIyQ09PTVRtZmNROWpwYnYxZW9qcy1fNXEtQU50ZndfSlBILUc4TFpYR0xjVUNHSkNZbTZEX0dmV1VubDVqSlU0cmZkTURXOUdMYlFDT21lUG5ybjVVOWR2Y1BFNkhHWlB2QVcwZk1xa1BBRDFpSlZmdThOSGNxMTdSUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f8549482d58b",
+      "title": "Fibras de pitanga e cambuci têm efeito sobre células de câncer, diz USP - UOL",
+      "published": "2026-11-04T20:19:45+00:00",
+      "summary": "Fibras de pitanga e cambuci têm efeito sobre células de câncer, diz USP&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnF3MFE3TVU2YTd5UldUblBZM1dHcmhoR0EwMW9na3J0RHN2OWxBUWhyYndGSDgwSHdDVU9FNW9GQVFTOVNIQTJCampFX1RuTEVQUThYTzBQR05sU1ozV3hfaHhaV0Judi1oS3FCZENEbmRpdUFsRTd6ck5VYnhyNDF3bHRFR24xclBfNUFMM0R3d2lMamo3Sm9HX3VfZkVoWkdTM04yY3NVVW94a3ZBazFkRUZhMlZYbjFJRTh1ckdxQjJqRFR2bnMweWM3UFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38f24c269490",
+      "title": "Mini-AVC é ligado a risco de demência próximo ao de quem teve AVC - UOL",
+      "published": "2026-11-04T18:49:50+00:00",
+      "summary": "Mini-AVC é ligado a risco de demência próximo ao de quem teve AVC&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENVQWx0dnRlaUdlRWFyTzMwVG42R3lIWUpDbDJiX19oZWw0dWF1OW16NU5jdU1ONmppeGJEeFNKdmFnOGJZVUp1UDB6U096WTlmTjRSb0FjSDRZcVc5M21ic1d4SDVuNk9sZHhreUxSMHB5elZEQk1lYV9IUTVyMzc4OXh3V1RoNUVlRTJ3MHU2c3VUa2dsc0lMRHNDUTZRSmhvd2VwelFGM0FFLThTemNkYlZlOC1HSHdF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92fd81839ce6",
+      "title": "Câncer de intestino: Dra. Amanda Meirelles faz alerta urgente sobre a doença - Portal Leo Dias",
+      "published": "2026-11-04T17:22:42+00:00",
+      "summary": "Câncer de intestino: Dra. Amanda Meirelles faz alerta urgente sobre a doença&nbsp;&nbsp;Portal Leo DiasSaiba como identificar e prevenir o câncer de intestino&nbsp;&nbsp;G1Estudo aponta possíveis causas da agressividade do câncer de intestino em jovens&nbsp;&nbsp;Folha de S.PauloEstudo aponta por que o câncer de intestino é mais agressivo em jovens&nbsp;&nbsp;VEJACâncer colorretal avança entre jovens e acende alerta após morte de Lua Blanco&nbsp;&nbsp;GPS Brasília",
+      "sources": [
+        {
+          "name": "Portal Leo Dias",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHZNZG1Tbk5jZFAwQzYwMDZLNEdQNTNhQkd1MlVVUWhDRXZZa0w4cHJHcnZmQThVOWdBQWNSR1A4cHkwblh6WUV6SHV2MjJhR1g5WlQ4dGxQVGdpNkdfVzVyWFgzUGFrY2lmX3FfLWtLY0ZvN1gtSkRqc21uRkt3WWF5ZzdrOWtBcG9VU0x2U3lMY3JkTy1xaVN4TGFQWEVwWHFfbmNYUWJYUE5r0gGyAUFVX3lxTE5kU2MteURtSXVQMkxyZGs4MS1DdXZFWDIwTEtURVNPOFo2TWRzRk1QTmNIbmZBNmFWOVZpUHl2ZUlTcm1vaVV1c29YNjN5QXJCdWxHZ0FaeHQ2TVRWWGQyNnYwSTAyT0NUSEZ6Y2tqNGZpZGZGX050WldfemhnWW1Rczk4Yl9Yc0NlZk53aS1kSEl3aWctaEoxZE0yS3REUTk2akhYa0swbWF3YTM3VHphOGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67a884c878fa",
+      "title": "Comer mais carboidratos pode atrasar seu relógio biológico, aponta estudo - Extra online",
+      "published": "2026-11-04T15:18:51+00:00",
+      "summary": "Comer mais carboidratos pode atrasar seu relógio biológico, aponta estudo&nbsp;&nbsp;Extra online",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWGJhWHFGeHZBT2laYzB3al8yN2lkejRBaFd4cDFWRXpsMHZzQkQ5M2x6c3VURHVGaGk5Y256TjgzQWVUWkZXNEFnNnhTV0ZaT0V3UFZ3b1FBQ2tYZHF5QjJMcUxzb2FreWYwanhNZ0lmWUQyTkFIdDFUd2dvRjdmWU5rNjlBVmNmdTA5bFozazktWjlOaE82R3R4QUl4N1o5OFItZjk4Q1ZyU2ZpS3FjT2hoMU1GU0p3aWZXb2MtdEg3d9IB0AFBVV95cUxNWlhkc0djTXUwQ1h5clRpMTBwclFCdU9rYnF0UlB5MUhFVVMwR3ZfcHRIZTBYc1J5SjVVYkdENnpvZ1o4RzM2bkNGY3FkRkd6Y3Z5SXB0NE05Tl9uMTljWDMwTVp4Y0Nmelg5c1FTdGEyRXRGaDg3bWh1TkY1VUZTOGZuVndEcWNtR0JqaEdCaG1UV3VOMnRRdmI2aHBmY3hQYWUwdlg5UkpJNXd3eTJVeXN5WDlicVZzX3JIb0JMSDBFbXV0cFpfSHhPUnpkWjNl?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c94cf1932b24",
+      "title": "Cientistas enganam células cancerígenas e criam remédio contra o câncer - Metrópoles",
+      "published": "2026-11-04T15:10:00+00:00",
+      "summary": "Cientistas enganam células cancerígenas e criam remédio contra o câncer&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeG5KaFdyMWlzWXh0bnV0S1RxWEFrenhvME9JM3YwelJHWFU2Zkx3T0MxdW51RnhoTGFSQTlBeVVEVmdFa3ZoaWJoY283MFBLMkJnWV9LWGs3RkY2NFB5Q1YxZnc2MkZOWlMxYzdZamI4bmRvMC1qSzRnRW84ck5qTzR2aU04VENCcGZBYzdKNlpqcEpOVDVONWd6TnZueTNtNDBFcmRFZ3p3SVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd4122080a04",
+      "title": "Câncer de próstata: 5 informações que seu médico gostaria que você soubesse - UOL",
+      "published": "2026-11-04T15:00:00+00:00",
+      "summary": "Câncer de próstata: 5 informações que seu médico gostaria que você soubesse&nbsp;&nbsp;UOLNovembro Azul incentiva homens a cuidar da saúde&nbsp;&nbsp;G1Câncer de próstata só afeta idosos? Confira mitos e verdades sobre a doença&nbsp;&nbsp;CartaCapitalNovembro Azul: cuidar da saúde também é um ato de cidadania&nbsp;&nbsp;Tribunal Regional Eleitoral de SergipeLANÇAMENTO DA CAMPANHA NOVEMBRO AZUL MARCA ABERTURA DAS AÇÕES DE PREVENÇÃO NA CÂMARA MUNICIPAL DE CALDAS NOVAS&nbsp;&nbsp;Câmara Municipal d",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdnoxN2EzOW9nRkE2dDlOd0k5MUZUVVBpWGF3OHpiM3VqVnZScDkyOW1XWUdmaUtSTmhrNnA4UEloU1pRc3V6blVERkU1VUVEVTM5ajVjaC1nUUpMNVpkRlZzMk16M2ZseXlmWHNuSXJDRkNYM3pMZF95aDZibktkV2ZTVmg1RXIxaURKUWRjZEkwT2pFUlN0TnBvalB5UXF4TzZZSjQ3TE1sd2VyemEyalI4WHJVbEJtNDhTSi1XTDNoWHo0YlBrUi1jcEduZWx4MjM0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "79256445b443",
+      "title": "Especialistas em psicologia revelam que andar rápido não significa apenas ter pressa: o hábito pode indicar menor neuroticismo - Minha Vida Saúde",
+      "published": "2026-11-04T14:45:34+00:00",
+      "summary": "Especialistas em psicologia revelam que andar rápido não significa apenas ter pressa: o hábito pode indicar menor neuroticismo&nbsp;&nbsp;Minha Vida Saúde",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVazdHWHpDTk5CYTltQUxPMVB6TGVoU2VMNUh1aFhmdWRNS2RYX1BGUkdWcjgwWnlvQ19Db2U1cjNhb3cxbVR0TXRzLUVSVWNwck15czVfNnJwS1BSOXJ3YtIBZkFVX3lxTE1VZGZzZ2hnT3BoWjExOWZOcFY4ejViYVRrOWdmN3JLaDRvREg3WXpMQnZkWTBWQkFya29fSEJWUklZdVVSVlA0cC0tZldTMDJ5YUt5QlBRQkpkdFNBdkV2ZmQ3MFZBdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5b503c87e2bd",
+      "title": "Mpox: DF teve 23 casos confirmados em 2026, sendo 8 apenas em outubro - G1",
+      "published": "2026-11-04T14:16:55+00:00",
+      "summary": "Mpox: DF teve 23 casos confirmados em 2026, sendo 8 apenas em outubro&nbsp;&nbsp;G1DF fica sem vacinas contra mpox e organizações LGBT+ acionam Ministério Público&nbsp;&nbsp;Brasil de Fato“Bolha com pus”: homem de 32 anos é diagnosticado com Mpox no DF&nbsp;&nbsp;MetrópolesDF soma 425 casos de mpox desde 2022; oito foram confirmados em outubro deste ano&nbsp;&nbsp;Correio BrazilienseMpox: Secretaria de Saúde orienta população sobre prevenção e sintomas da doença&nbsp;&nbsp;Secretaria de Saúde do",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMWU4TkpGN3ZyZVdHdG9GeEpSMFI0M0pFb0VKcW1UY2I0bmdxaWpMclA3YjY0UWxvVkJVZktoTXc2Qm9Gc2txYzRJakhhLWxGVkFmY2RVUWxkUjZLSmg3MU53R2dITHF6MGVqb0s2MzJQYm5JcV9PTG1EZzUwWHlRN25iZFVLaHFQSk8ycnM4bDczNThSd0NzSFBGUHQya1ZDa2d4VmwwUGsyVUluVHc2WV9IX0szSHd0LVU3RkR1TE5FVG5LSDNhMWNzc1BTRzhzNWF1XzgwU0JmREVpTWtzalBMYnpyZ9IB9AFBVV95cUxPTE53VkpJbVdrckxlTnMxRzZFOFc4ODEzMW1Cd0N4TUc2YjAxZGdTdkU2ams2dkxjTWhfQkpiTFZpRUhZb3hPYWc0RHBCdm1YVWNDVXJFS0RtSzFSeDFyOUhiZXRsRk5ST21QNGJxNTUzSXdybzhRcjBnUnNHYmstT2NfOHNPMktlZXFwSkE5VU5EM0pfaWhINnh2WEw0dkRzTE5nQW9oWDF5RDJvRDkzc3NWeTRxamtNUzJZdzAwUVRzY09Sd05ObndFYVdJY2dzR3JwX1BhelVVR0Q2OUh5aTdzTmQ5bjFpNVRSR1NhUVliX29z?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYk1scmFlSE84QUIwYWNfSnJ3MGZ3S0paQW5VRGRqSUJOZzBGc2pRdHZWU3BFWDk4ekJVTUJnN2ZUTkMwa3RrZXRUV1RLNlFJaW1RQ1BzbmtSQUwtQmI0LU9HM2pxZUU4czRrejNvNHBXSFNmM0J4OUtqaFp5Z21OTnlKaU83ZzZDQ3djckpVZVBIUHdlYWViREo1a0dxX2Q3S2dOWkdNYVcyQU1McFZQWnA0OGFiOWEyb2FBX21OSWQ0OGFuV1FKYXlrQUV5Z9IB3AFBVV95cUxNMDhQejZGTzd4Wjk1QnhLVXRKRDNzeHBvWDQ2Z1NHeTVEQlJJYjg1QWtHZkwyNmx4U1JLbXlZbnpDUjJWX3BzZzRTeVRGcEhuQWxxTWdYX1E1enphWkxwUEoydTNEZkhxSDBVR0d6aERQYklXYTRqVEdXVXFRU1ItSnpIeHREbFJkZXM0clkxWjRmYjVGWWlmLUU4TW9UOEtkbWxnS2twc1ZCZldVdWhvTnRfbURaaW5ZdmNxVHZtaTVNemxWb3ZtU1UxeU52RnJrc2hRRHN2YktVT3ZW?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc3862c0f74a",
+      "title": "Um ano após acidente que o deixou à beira da morte e de ação na justiça, jovem de Vilhena passou por 3 cirurgias em 4 dias - Folha do Sul",
+      "published": "2026-11-04T14:16:00+00:00",
+      "summary": "Um ano após acidente que o deixou à beira da morte e de ação na justiça, jovem de Vilhena passou por 3 cirurgias em 4 dias&nbsp;&nbsp;Folha do Sul",
+      "sources": [
+        {
+          "name": "Folha do Sul",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcHhaa0hkeURTQmtKaHhfeF9GMEVWTGhEV1hfT2x4LVlmNkV5QzFwdHhVYmVoZXRTal9Oc3pRUmNnZGtNYUNPakFwdXZMT00ybzJ5S2lQSnRPcm5wT1Z5QWI3LVgxVVdHVzVvRkU0MlV3T2U5eGdiQnEzdDA5ZWxpMDNGMXlQaTBJaXk3SG1lUXVUSkx0YmNWMzlvMVNRM3hjRDJjNFh4R2ppck1OanJSYzZONjFBRVE4VW5vZkVVVkZxVmhibHNCMWJrUjVOSkNFQkxfaXdWV1IxNGVvSTVKaHJheEpZX0NZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f25efb817dcc",
+      "title": "Descoberta de segredo de cadeado encontrado em naufrágio desvenda mistério de 400 anos - BBC",
+      "published": "2026-11-04T14:12:04+00:00",
+      "summary": "Descoberta de segredo de cadeado encontrado em naufrágio desvenda mistério de 400 anos&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VR2ttUVVOSTdzOVo3R1Z2WWhZR3lwTUczTU1oUWJTRm9rb0ZwWXRBdmxlQ0JUem1MeHNadTVycTVJV3JmQjgxdzVfbTRVNW4xRERSV0tPOFJIWEZGNHBXRW1Ud9IBaEFVX3lxTE1SSFpiQUVfeEp0SUFKRFNabzNGWk9mbXpleFFmOEo5SUJLaV8wMW5PR3gzUW5VS3RhT1ZtMkJxd3VMR0VjTWNQYW1KY2xMM2daSjloS2Rxa2V3dWVPZ1hTQnlIc1lwdjNy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d24f3c51c28a",
+      "title": "Pane silenciosa em idosos com diabetes esconde risco grave de coma; entenda - UOL Notícias",
+      "published": "2026-11-04T13:57:29+00:00",
+      "summary": "Pane silenciosa em idosos com diabetes esconde risco grave de coma; entenda&nbsp;&nbsp;UOL Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeHhOdkZTTFdKN2E1anFHWTUxMnBIUWY0MkJiRmR2TWlGczhROUtjZVkxLW9DVWN2WnQ5VHpNdWxoUE5kMUxTd2lmT2FJWmVBWk95UFRKTC1TMEZQZ0RhOElid3dxOEJvVmtHQkxTeFEtMVdhQTNOUGRqa3BCRVdzZ1Z0VmUzNjJnQ1ktaFlmSHp0Yl9KNlRxQXQ1WVRIc0k2bDVoVkJFMEVSMTQzR3JnU3JfOUhzWHFHSmM2cXJNQVdxTEx0VTlkTERuZlBlVjNQUlJv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fec12f293b77",
+      "title": "Foto de turista no Facebook revela descoberta arqueológica de 120 milhões de anos - Globo",
+      "published": "2026-11-04T13:36:51+00:00",
+      "summary": "Foto de turista no Facebook revela descoberta arqueológica de 120 milhões de anos&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSlhfTWRSYXFTWUFFaGZWVjZrS1htbHFWWkowTEJmR01TUnJOajZFZUFqNG1yWTFxS1llNXpvREVSME9aSnFwc2FCQkRhX3hyaHBvUUphdEVKY0NmVXdUQ1cwMnA4OUhvckJ1MndiNkJJQW5IV3FZVGxvSFkzcm5MQVNhVnpITWNKQXFZTncyVVhtUkVHUmFYZTV3SEEyeXFZOEpLbDFmQVIzUDBUZWhmWjN3RVVTUlRhYUV3d1FaYlE1a1BBSWVUTk11VXE2ZXZxdVl6b3lCajhoa1RiM0djUHo1c0JFTkJrLU9oLdIB-wFBVV95cUxQNDZVYzRoLVp3ajdKRldORV9fN2RmbkY1ZHl6ZTlmMlBEUVhPM0NSWFYyZi1yamRIemxhRWVWS0dicGhkT0tKUDREa2FocDJMS0lXSjF1akhFZVRyRjkwOHBVM3dyV1o0b0xtR0pIMzVaVHJMejlCWk9lTTRZN0NtVjN0WS1ERjZwbUl1QUM2Z1dNWThrejBQMTVLTHhMTThLRl9rdnRpVi05bDFiRjJiaXJ3Znhlc0hpc1BValBRX0FINTFJSXpjWi1XZTREdjRha2V4aFNxd1VIaWM1MU9QSzRjSWF2eFJsRnpDRjhmVjBWODFtTkg5VTBhRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64a259f65b93",
+      "title": "Estudo mostra como ultraprocessados ativam o sistema de recompensa infantil - UOL",
+      "published": "2026-11-04T13:28:52+00:00",
+      "summary": "Estudo mostra como ultraprocessados ativam o sistema de recompensa infantil&nbsp;&nbsp;UOLMingau fortificado recebe o mesmo rótulo de refrigerante e salgadinho&nbsp;&nbsp;O CafezinhoAlimentos populares podem aumentar em 40% risco de danos cerebrais&nbsp;&nbsp;portalsbn.com.brUltraprocessados ativam recompensa cerebral em crianças, diz pesquisa&nbsp;&nbsp;n3news.com.brMaior consumo de alimentos ultraprocessados diminui qualidade alimentar&nbsp;&nbsp;TV Europa",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc19iZm5STUJDd29CbVNnNlFhbXo3ZmdVb3RUTmpCZjJ2VkJiQkd4a1lZSlJLQ1FjRWtwdHBnWjU1eXc3YkxRTTJwakVJT2NoS2hPcWRQaGw4eldDVEtLc05pczlZeTFDZmhXQVRwa1FFUHlqbEhPSmhmeEJwN0R2U2hjN2g4VkZKbXlSbHcxRXJaWjV2dzZudVNLamJXa2N0WnExakRiam5aNDg4eEFjR214UFQ1WXRhV0pyUWRXcHlKUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5843fe0d6088",
+      "title": "Segundo a psicologia, o que a desorganização em casa revela sobre sua saúde mental - Rádio Itatiaia",
+      "published": "2026-11-04T13:07:12+00:00",
+      "summary": "Segundo a psicologia, o que a desorganização em casa revela sobre sua saúde mental&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2VZczNraW1lekRwYXdDRlRKTTg5OVBsbWx1MnAtNTE5THZuekJZdENPUWhIT2VSV0VPUFlZYllYcERfMllzcVNna3RsQzNia1BEUElpYXFpX184WmI0aW9KdU5ScFRaRU12Qkk2eTVaSk54SElkRkVVWURZbmxSSGZwM1dnd1BDZXRsd1VRUjc5OXQ0Q21yYjU0Qy1vR0MyaDJ2RTV2VGJlWERKZVB5OGFSZGdOck4y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7c6dd54a8e1",
+      "title": "Você quer ser tratado com base na ciência ou no achismo do médico? | Triturando Dados #7 - Estadão",
+      "published": "2026-11-04T12:30:00+00:00",
+      "summary": "Você quer ser tratado com base na ciência ou no achismo do médico? | Triturando Dados #7&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT185UWN5cWhjNUQ3d0ZSLUZUX1hEVjJiY09sS2todnlvdWR4RUd0TjVqOUNwNE9Kamk4S1JvekRGTDRQQU50STVuSW9sUzZsdnBuZU9mSlZaZHVQV05obnY2bVpUcXpRT3J5Nl9EdGNOMm1VUHlLdXhvcTB3Rlk0QXo1N1FpN3B1YUlodnlYdzU2bXVGS2VIM1hUb3dKUGx3cVUwWjU4X0lySlA4SERRQXVNeFk4S0Z1aDNGX21OMkFkeDNtVmplUHdsX2J2cDN4ZTVOcW5xTdIB3AFBVV95cUxOSWROcklkN2xHUDQwMDY2cG40aTFhbDJGZThBS0lUTFlHYmFSOGJuM2x1ZUo3OVROOEktRGd5aUkzMy1tWDVIdzl1ckRwbWZiTTdyVkhpZGROWXJHZWVqX25GeXM0OC1Bdkh6a3ZBWm9oYlNYZXNjYm9fS0ptWVBkU19oeWtvQnR4TGV0dm81eG9RTC13Sks1OU00MVlhWGFndHUzX2NrUHJYTG1rTmllVE9QX2pmcnVMS1VXSmFlU2VCQmNzU0JJalBURWdkOVhMRXlyWm1zRllMdnFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5b12a4854e9",
+      "title": "DF amplia vacinação contra a gripe para todo o público; veja onde se vacinar - G1",
+      "published": "2026-11-04T12:29:40+00:00",
+      "summary": "DF amplia vacinação contra a gripe para todo o público; veja onde se vacinar&nbsp;&nbsp;G1Vacina contra gripe é liberada no DF para todas as idades&nbsp;&nbsp;Secretaria de Saúde do Distrito FederalVacina contra influenza é liberada para todas as idades no DF&nbsp;&nbsp;Correio BrazilienseVacina contra gripe é ampliada em Teresina; veja onde receber a dose&nbsp;&nbsp;CidadeVerde.comDF libera vacina contra gripe para todas as idades a partir desta quarta-feira (4)&nbsp;&nbsp;Brasil de Fato",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3lZcHl2V0Z4YWFaRU1pWkpSaUpraThBcTJXTHRhWnJBV1JUNmpWUzhQS2F2UUYtZHh3MXc2N2s1MFhjQ0lGa2I1U2tONVNKNXFVbDZ1S1Y5dUxWNVJoNDg1cUxzcnhXdlV0UzNYZE12LW5RdEtWZS10OXRxbmxrY2h2UjhNbEN1b2VGd0hsWTdXV3B5R2wtR1JTVXpCU2ZXTWdKcHQxaGN6amFRY1YzaURvWFY2bzNZSXNONdIBywFBVV95cUxOM1MtOHd5ZFJWZldONGpyR2dvbWVNV0FyWmJUM21oY0s5a0J3Ym1tcHRNamVubTNUTmdZU1hrQUIyMHZVdXBQOExXQThBc3lzZ1lMb1ZfRmVDd2FvX21OQThvQjdQZzh3Ykp2UzV6aDlhN0t6Ykgza2V6bGZzakFNRUtySTR1NWFSTkJRa1I0VGkwc28tdkpENDN5cUFpZ2daeTF0d0xlWC1OWW1DTU9Kb3phT0RwYlpaVGlLREwyeGl2MzJXUjl1X2F0Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bdcc6d89acaa",
+      "title": "Implante reduz glicose sem remédios em testes com camundongos - UOL",
+      "published": "2026-11-04T12:16:32+00:00",
+      "summary": "Implante reduz glicose sem remédios em testes com camundongos&nbsp;&nbsp;UOLDiabetes: novo implante usa eletricidade para diminuir açúcar no sangue&nbsp;&nbsp;MetrópolesCientistas criam implante que usa eletricidade para controlar diabetes&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2J1c2RhVDRJdUNkN1REejFXTUhoZThxbnpQWG0yN0RkcnhFSG41RFdsRVB1cURGblJIcUIzZjlVRFJDYTBfTUVEVUp4Zlg5blJFNUdHUHVzVmZtd0txc3ptTWl3SGo1MWs2cDlHRUZKeFptSldodW1raXhWWHUyVVJ1Wm94cERJVXdwT2NER3EwTi1fRUk0clNsOC1tSm1tay1PdXZmUW8xVmc1dFFxOFdXRXlkQmlkTGRpNUkxcG9jazA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b4ee137453a0",
+      "title": "Inglaterra vai testar sangue de pacientes com inchaço para detectar câncer - UOL Notícias",
+      "published": "2026-11-04T11:03:29+00:00",
+      "summary": "Inglaterra vai testar sangue de pacientes com inchaço para detectar câncer&nbsp;&nbsp;UOL NotíciasTeste de sangue para detectar câncer começa em clínicas&nbsp;&nbsp;Direto Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0JYVE5rdTdwZ0g4VUJKYnhlWGw3SHJLRzZ4akZyNXF2SGNBRzZKWjZsUkM2WjF6UHJmYVdOb3Z2VTItM3RUSDdxN2F4MC1fdWhidEpSc0l2SDdDeUozMll5aEFpNmhzNGlaam5LRm9MeFZmVVNUOHVXMHp1alpDdUJuUG5HYXU4eWFkMlpZRDI4ZF82cUJOZjNwQU1XV21FWHBONi1ZLXZhMlF5Y3pIZFkzaDVQSndFSzk2OUctLWlTSXg4aFlSaG9nVzVGakVYbldN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6564d7ee0bf1",
+      "title": "Pesquisador e médica do interior de SP estão em ranking dos cientistas mais influentes do mundo - G1",
+      "published": "2026-11-04T10:58:20+00:00",
+      "summary": "Pesquisador e médica do interior de SP estão em ranking dos cientistas mais influentes do mundo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQamhxZ09QOUNicms2bWpxZWZadnNRN1VuemIwM2tKenlFaUs3LXVOOHFRbFhjckU1emlVM2dpNXF2U2xKdVJXV3k3UlZoZFVzRlNWZGFjbTgtWFZzdDYtdEpqbVVjZDZuWFRDWnZnZ09QM1FRU3U3VlZISjFCeGNoTkx5aDJZaXhMM3g0aHhiWEtPUGxqUXV2Z1JQTzJmdy1QY0lqM0d4Vkl4UHRNM2htbDFKTXlaZng5Vjh5THhjbkF6NjFOREhjQmNRTGxGTGNOZDVRaUJLRHRVSXVsbVloQmlNcnlWOF96OVJJSlJfT2FGU1JiSmllNUZaTnl5c3c1emRwd2FIQdIBlgJBVV95cUxNM0lQcjA0QWZjMmRwWVBlcE53a0haMFl4YW94U2xGWUpSejJJTEMwWWIyVHFNT3YxNWRQSWFUMWVLWUMxalpaN041WThFdTdzbmctZ29fNVI2TW9qc2l3R2RLaDBqaEdWcFBUajM5RXprZGlvc2ZIV1RCLWtCbks4S1BEeGVBVndaQjljaU50Q2FtMlFEVW1CZG84UGh4MmtDdUdnZHg5QTFKMUEwY3pPbUpQTGgzVWhYNnNOMHZQN0hIOFdCcWNtckM5bHk0SjhFTWU0bnNJdXRfSHFsZ0REVXh0UlFjNTNfMzkzWW1KSzd5aUNVTXM4ZktWYTV0UDhWT0J4OXpFZ3RpZndFNUUyREkxQmhLUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08eefc087ae4",
+      "title": "Influenciador morre aos 32 anos após luta contra câncer de estômago - Metrópoles",
+      "published": "2026-11-04T09:36:00+00:00",
+      "summary": "Influenciador morre aos 32 anos após luta contra câncer de estômago&nbsp;&nbsp;MetrópolesMarcel Johnson perdeu 57 kg antes de morrer; entenda o que aconteceu com o influenciador&nbsp;&nbsp;O GLOBOPai de 5 filhos, astro do TikTok morre aos 32 após câncer&nbsp;&nbsp;UOLFamoso morre aos 32 anos com câncer no estômago e viúva chora: ‘Lutou tanto’&nbsp;&nbsp;Mais NovelaInfluenciador que compartilhava rotina com a família no TikTok morre aos 32 anos após câncer de estômago&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVRRVVdCMWVLVGNTbWtIelNCTS1KWDVPZXV6dlNsU2c3ZWNpMlBjTFJvWXRGRl8tTXV0YnVIbndPTzZWeEQxbWlPaFpNWkxUYmpwc2xKS2p1UXFXMlZjWjFISXRuc1RIRERYdEFUZzVxaHQtV3FDT2l5eGlQTl9CbDU3ZHlBVmRENVBVTU81ck1vdFR1UnFoMThHZnRoUEM2V25HMDh0NzI5ODg?oc=5"
         }
       ]
     },
@@ -30,14 +282,14 @@
       ]
     },
     {
-      "id": "d143f4d5e782",
-      "title": "“Bolha com pus”: homem se torna o 13º paciente diagnosticado com Mpox no DF - Metrópoles",
-      "published": "2026-11-04T05:58:00+00:00",
-      "summary": "“Bolha com pus”: homem se torna o 13º paciente diagnosticado com Mpox no DF&nbsp;&nbsp;MetrópolesDF registra aumento de casos de mpox; são 23 registros até 4/11&nbsp;&nbsp;Correio BrazilienseMpox no Distrito Federal: homem é diagnosticado como o 13º caso&nbsp;&nbsp;Diário GoianienseDF confirma 13º caso de Mpox em 2026; paciente é morador do Guará; veja os sintomas&nbsp;&nbsp;Cadê Brasília“Bolha com pus”: homem é o 13º paciente diagnosticado com Mpox no DF&nbsp;&nbsp;PAIPEE -",
+      "id": "b6fa9df8fe54",
+      "title": "Creatina pode trazer ganho de força e saúde muscular sem sobrecarregar rins - Metrópoles",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "Creatina pode trazer ganho de força e saúde muscular sem sobrecarregar rins&nbsp;&nbsp;MetrópolesEla virou febre nas academias: saiba quais são os benefícios da creatina #DomingoEspetacular #Shorts&nbsp;&nbsp;R7Creatina depois dos 50: o suplemento da academia que agora é estudado para a memória&nbsp;&nbsp;Tua SaúdeCreatina fica em alta nas buscas no Paraná; veja o que dizem Anvisa e estudos&nbsp;&nbsp;ParanashopCreatina pode ajudar memória, imunidade e saúde muscular&nbsp;&nbsp;Diário do Centro ",
       "sources": [
         {
           "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcW8tWUdlZzdUWXV3cUhJa05sN1RtYjlIZndfTjVkLVpNM2xOM3JZbzNrNktuTHh3bzVVSzBmWWdmR0QwaTZaNDI3dTYzbk5tOHdRaXdteWwxcE5xWVpicXVRVnR4akRQN2RqLUdkN0NxWEd5QzJTb3lHQTZQQmJQNHFMTThKaTFMX0NhRXdtYnUwdkFySDVLU285Z0NHUm9lazVhdmk3WHczZ3NoQ0FQNndVZ3N4X3M?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOW43REJFMG8ya2hRSEV3ZERzVWRZRks0NVJ4N0IxbDFCY3pxVGxVc2lnZHhZUV9uR1VNc01hS3M1V1hCaUlpdWFUd0IzZmlrZ05YNkRraUNQYjItMEtrSTVodXNla1EtVjZyR0UyQTJVZjlLTjFGT2I4cGtORFZ4c1BHY3V5enV0RHh3R3h2Q1diMXd3RDJGZVNycFA2RDQ1ckFfblpLRjJqTGtX?oc=5"
         }
       ]
     },
@@ -54,26 +306,26 @@
       ]
     },
     {
-      "id": "ec381e944491",
-      "title": "Rio de Janeiro confirma 269 casos de Mpox em 2026; sem óbitos até o momento - CNN Brasil",
-      "published": "2026-11-04T00:29:33+00:00",
-      "summary": "Rio de Janeiro confirma 269 casos de Mpox em 2026; sem óbitos até o momento&nbsp;&nbsp;CNN BrasilRio confirma 269 casos de mpox em 2026 e espera reforço de vacinas&nbsp;&nbsp;UOL NotíciasMpox: Ministério da Saúde diz que vai reforçar estoques de vacinas em meio à alta de casos no Rio&nbsp;&nbsp;O GLOBOCasos de Mpox no Brasil chegam a 665 em 2026, diz Ministério da Saúde&nbsp;&nbsp;CNN BrasilMpox: Rio de Janeiro já tem mais que o dobro dos casos registrados em 2025&nbsp;&nbsp;Estadão",
+      "id": "9717821849f7",
+      "title": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração - ICL Notícias",
+      "published": "2026-11-04T01:13:12+00:00",
+      "summary": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasPressão alta: sintomas de alerta e quando procurar atendimento médico&nbsp;&nbsp;Imirante.comPressão alta: 10 alimentos que você deve evitar no dia a dia&nbsp;&nbsp;DOL",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDctT0d4TUk4OUJ3ZHlwb0h1TjNkRzhjNXgtMWhTdUVvQXpYYUdwREJpQjdYT2dDQ1l4cFh5TFp0eTNHT0Y3d1cwN1A4SzFTeXdDa3l6VFoxOHJUZ1hPQjZSMlFjZm02V25HcEQ1MzVUd2IzdWYweWh1U0s5Nmk1TXhGUjZYajdaRUNKdnh0T3IyMTNlX0M0WXoxQm5QeGFjdlNmcTMzUjgxaFk1YTlN?oc=5"
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZcFFnRUtLVXlIdEVTUGFIbU1oMmtoQzUwMWFMWS1XcmRjMG1kMXNkQnBzeEEwcjlIODd4ZGMzSzFldFQxeVozeTF1c3V3S2ZTbXlPR0t1ZmhOaXVzQi00OWQ1REU5d05jRUpoWjg5eTNTTnRiMU1V?oc=5"
         }
       ]
     },
     {
-      "id": "c1f4e55eec04",
-      "title": "Guapimirim na Olimpíada Nacional de Eficiência Energética 2026 - O Dia",
-      "published": "2026-11-03T23:44:00+00:00",
-      "summary": "Guapimirim na Olimpíada Nacional de Eficiência Energética 2026&nbsp;&nbsp;O Dia",
+      "id": "ec381e944491",
+      "title": "Rio de Janeiro confirma 269 casos de Mpox em 2026; sem óbitos até o momento - CNN Brasil",
+      "published": "2026-11-04T00:29:33+00:00",
+      "summary": "Rio de Janeiro confirma 269 casos de Mpox em 2026; sem óbitos até o momento&nbsp;&nbsp;CNN BrasilRio confirma 269 casos de mpox em 2026 e espera reforço de vacinas&nbsp;&nbsp;UOL NotíciasCasos de Mpox no Brasil chegam a 665 em 2026, diz Ministério da Saúde&nbsp;&nbsp;CNN BrasilMpox: Rio tem maior número de casos em um mês desde 2022; veja sintomas | Brasil&nbsp;&nbsp;Valor EconômicoMpox: Ministério da Saúde diz que vai reforçar estoques de vacinas em meio à alta de casos no Rio&nbsp;&nbsp;Folha ",
       "sources": [
         {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEZtbXRyMFd2UktoX3d4MXJtT1ZMUlhtQnRtaDVXczlKMFdFc1FEdXZCUHFZSHJyVG9yYmVkWnlqblVlLU5CaGZULW03UWNsYmFLOFBoZ3kxWE1DTkJVZWdPUnltdmZBRXE4bUpSV2hCcExtbjVTVFNPakVIRlJiOTNJTmZMVmZhYzBxZzVkTkdoVTA4ejRSdEF4cWdkNWk4cWtkOUxORGNPWEdZNHU4aElDME5VMVdY0gG-AUFVX3lxTE5hWDVUMFlYY082Zk45V2RfRTZVYlNBbTV0UHRPQ0VMOEg5YnFmMWw2dXN3Rnlyc2VGUFJNeGotQTdKWkxRd2EtTnhRY2g2VXVLd3p6eEVrWlMydnl3RXh1R2lJdXhQQTNmTnlmZ1ptN3R2V2R4M3NZa1ZDTTRzYkdfdXoyUnUtMFpIV2JmVE14bDVBdkF4a2hHY2JZV192aTRhSmNmcjd5U3hTRFVYemQ4cjB3ZzlxZjIzMUV2eVE?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDctT0d4TUk4OUJ3ZHlwb0h1TjNkRzhjNXgtMWhTdUVvQXpYYUdwREJpQjdYT2dDQ1l4cFh5TFp0eTNHT0Y3d1cwN1A4SzFTeXdDa3l6VFoxOHJUZ1hPQjZSMlFjZm02V25HcEQ1MzVUd2IzdWYweWh1U0s5Nmk1TXhGUjZYajdaRUNKdnh0T3IyMTNlX0M0WXoxQm5QeGFjdlNmcTMzUjgxaFk1YTlN?oc=5"
         }
       ]
     },
@@ -102,14 +354,38 @@
       ]
     },
     {
-      "id": "d1cc31fd1897",
-      "title": "Primeira morte por sarampo em 30 anos no estado de Nova York é de um bebê de sete meses - Folha de S.Paulo",
-      "published": "2026-11-03T20:02:00+00:00",
-      "summary": "Primeira morte por sarampo em 30 anos no estado de Nova York é de um bebê de sete meses&nbsp;&nbsp;Folha de S.PauloCriança morre por sarampo em Nova York e estado registra primeira morte pela doença em mais de 30 anos&nbsp;&nbsp;G1Bebê de 7 meses não vacinado é a primeira morte por sarampo em Nova York em 30 anos&nbsp;&nbsp;EstadãoCriança é a primeira vítima fatal do sarampo em Nova York em 30 anos&nbsp;&nbsp;VEJAEstado de Nova York tem 1ª morte de criança por sarampo em 30 anos&nbsp;&nbsp;InfoM",
+      "id": "de59004a039b",
+      "title": "Segundo este famoso matemático chinês, a chave para a felicidade não está na saúde, no dinheiro ou no amor - Minha Vida Saúde",
+      "published": "2026-11-03T19:02:24+00:00",
+      "summary": "Segundo este famoso matemático chinês, a chave para a felicidade não está na saúde, no dinheiro ou no amor&nbsp;&nbsp;Minha Vida Saúde",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjlGUzZkNkZ1SWcxZHpDMmwyWWlUUUZUVy1ZY2w2WmNqNE5Hc1BWdkNNT3dwN2tDaUF0RDhNX0dJR0ViZ1hFUjI4bEp3SHJkdDNCUUtoalllSkU3cGJrS0NfZ1VWUl9XenBmYXJaSnR5UEx4N2Q0d0dWUVk4Z2NNWmRpQTYxd0JWQTlBdFJyOUhoTnVzZlhLNS0xVEpZNEl5VlpxV1MzQzNHdUY1dEEyMVk2NjNFYWxkTHAwem5Ecm5RQlpqbmY2MXh3c3BsaVN2TkZWVkQ1dUF1NTZadFg3ODJB?oc=5"
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zem9BOXpyWDkydzF6eDZoaTZYamNlR21uVDB1dmZPc1dYYlNvR0J3dnRkczY5ekk5UXAzeG53bWpyeFJBTk00S1VQVVUzSTE2Y1ZrM0JkUWRkWUJKMVRQZtIBZkFVX3lxTE9qaXRNMjc5LVh6aXpjblkzRmt3N2tQS3duQXZkLW9nR3pDRzdPZjkydmhrX2txYlMta3U4Qm9fTUZWTHgxYktfSzl3M0tTNlMyS3F6TDdUWnFMUVJwYkp5dS1TZ1E3Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cd851bb69a92",
+      "title": "Laika: a cadela que se tornou o primeiro ser vivo a orbitar a Terra - Aventuras na História",
+      "published": "2026-11-03T17:30:36+00:00",
+      "summary": "Laika: a cadela que se tornou o primeiro ser vivo a orbitar a Terra&nbsp;&nbsp;Aventuras na História",
+      "sources": [
+        {
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdktmcXBYdFQ2X3N0M3J5eHNpVm5teU9kWWZLWVNpZTJDdnlWMHFqTkNnWkJkTFNzSV9SUGxDd1prTE5GejdIQnhzNVZxSG1XbEYtQkVjOHk2aHliMUJROUEtNGhqZHhTTnplcFc2TnlzT1hnV0QwZWpzVXM1NElpaVdMMldodFBOb0NpTG1WRVA5NmtmWUFHSW56NFlpdG1hbHltR21aRkc3UTlCMmNHTDhINVkxcnZzclBYUDlIN0I4NkdaNGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12684c1547d4",
+      "title": "Fuvest 2027: saiba quais foram as questões mais difíceis da primeira fase - Guia do Estudante",
+      "published": "2026-11-03T16:24:00+00:00",
+      "summary": "Fuvest 2027: saiba quais foram as questões mais difíceis da primeira fase&nbsp;&nbsp;Guia do Estudante",
+      "sources": [
+        {
+          "name": "Guia do Estudante",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkgycWdJQUpYRnpIVXhDaUdxNFlMblVMZHkzY0tzX210YXczcDBNUy1xX0xGMWd0YVc2SXc3N0ZjTWkyLVFMUWdwbWlDM0xncVVQbkUyMEJ6X2ZsS2dHWnlMMWVoRlFyNEYzYUFSZ0x4ckdEb3JWU3pJZ3hScVNDTTk5Y3VpSnI2QS10Z3ZmR2tSTW1ISFNVaHFOVlpPWG9XWGVQSThBMEw2QTRidTk4NDN2eEJBem5NcnVkdUJDakd3Zw?oc=5"
         }
       ]
     },
@@ -138,38 +414,14 @@
       ]
     },
     {
-      "id": "41350462b847",
-      "title": "Uma pesquisa da USP colocou duas frutas brasileiras no radar da ciência por seu potencial contra células cancerígenas - TudoGostoso",
-      "published": "2026-11-03T13:07:00+00:00",
-      "summary": "Uma pesquisa da USP colocou duas frutas brasileiras no radar da ciência por seu potencial contra células cancerígenas&nbsp;&nbsp;TudoGostoso",
+      "id": "4b1603d919f9",
+      "title": "Criança morre por sarampo em Nova York e estado registra primeira morte pela doença em mais de 30 anos - G1",
+      "published": "2026-11-03T12:59:35+00:00",
+      "summary": "Criança morre por sarampo em Nova York e estado registra primeira morte pela doença em mais de 30 anos&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "TudoGostoso",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNd2J4SUZRRVNoYjU2M2tRUFhVcG5QZEZCSXo1QWR3NHZhTGZCaHVsNmJxdXd1SkxEa2k4ZnNiR1Q4WnRJODdjMWNyT1NWZTZYYlpQVWF1dm8telhGUU1BZV9zLXY3OTZQU0JpRFBGU3VkQ0p6bnBzVkRMUUg5NDhubzVvcVBVY2pBN2lFTmJxWU9BNmtZSVBvbEhDWG1HdFRqLWpFbnhJZ1VKUEI5allRbjktTEtHcHFuM1VES1lTMlRLcWE3clljV2NpdHBqZkJpRVZPZGZKX0NBR2p2S3VnTXBrdVE1S2FUZjZpNkdsUUc5YVg1SHd5bmNhNljSAYICQVVfeXFMTzZDa2V4QzlnSEVMdkFFUUI4alhqeTZmQVMyZDZyU2M1MWxQUmhFbjFyeUd6LWxnT1VfNmtkWmpYUDFrMjROTnR4b0lvWmhobXlSQTZhZUZ1bTlma3lWZzlwRDBhZFItcU4wcnRmNl9YSlZtNll0T0xjaWRiSzNrck5CZU9GOE52dld4WTdEbjNNQ2I4VEw4bWRtUUE5UnNPRU4xblYxMkhNTHFBa1dSZ1o0djkzNzNBaS0xdTB3RlhJWW1XWGxibEZvZDhRVHdiSWprRlJsUzBtWTJlVlp5TV9NV2RWTUIya0lSQV82d3RwcHl1bGFUdnVqTG1hR29uWWtn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6bac7f09082b",
-      "title": "Vacina contra gripe é ampliada em Teresina; veja onde receber a dose - CidadeVerde.com",
-      "published": "2026-11-03T12:14:00+00:00",
-      "summary": "Vacina contra gripe é ampliada em Teresina; veja onde receber a dose&nbsp;&nbsp;CidadeVerde.comDF amplia vacinação contra a gripe para todo o público; veja onde se vacinar&nbsp;&nbsp;G1Vacina contra gripe é liberada no DF para todas as idades&nbsp;&nbsp;Jornal de BrasíliaAlto Longá amplia vacinação contra a Influenza para toda a população a partir de 6 meses&nbsp;&nbsp;Portal R10Vacinação contra gripe é liberada para toda a população do DF&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWRPZmxlNWtDYWVPVjVQRTV2eDBlZlIyb0NlRTc4OWp1N0xnTHZtUFJDNVIwVFVWT3pPWUJQNm5hekduSWFPTnFSQVRlX3YzTTAteWdya3NrTGFNNVAyQ2FBOVNKQ0wyLWxRSmNUNUdDeHBZMjMwZXpxeG5MQkE4alZDSnRPMEY2ZzJGenNzbTFOOW5YTnAwQnVfN0dES3lRUGZzR1lTQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9717821849f7",
-      "title": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração - ICL Notícias",
-      "published": "2026-11-03T12:13:12+00:00",
-      "summary": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasDieta rica em potássio também é importante no controle da pressão alta, diz estudo&nbsp;&nbsp;SuperinteressanteEstudo: sal enriquecido com potássio pode evitar quase 3 milhões de mortes anuais&nbsp;&nbsp;Euronews.comPressão alta: sintomas de alerta e quando procurar atendimento médico&nbsp;&nbsp;Imirante.comSal com menos sódio pode reduzir o risco de AVC em hipertensos&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZcFFnRUtLVXlIdEVTUGFIbU1oMmtoQzUwMWFMWS1XcmRjMG1kMXNkQnBzeEEwcjlIODd4ZGMzSzFldFQxeVozeTF1c3V3S2ZTbXlPR0t1ZmhOaXVzQi00OWQ1REU5d05jRUpoWjg5eTNTTnRiMU1V?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNXZsdUNhd0Q4a3lIT2M2RmRoUmpOR2dxR1VUZ1FrWHBDM0xwQzZRc0gzeF9BV3BxQS1DZGFfVHF2MVpOTk9NekhJWjJfWVEtRnc4Ykh3eWlFaTRHRWNGeDFOS1lLT2V0R2x1eE4yMXducWJBV1B2dGtkQTJ3blZvNVRUSUNzQ3JrNDN0Z0NmS0ZBczRuQkFxVEV3N2dyUWtZdW0tOFhxaU1GU3VKT01wWGwxWnplRjdDa3lpN1hwYnRpWk1CaEV6N2ZTOVBDakRIbWxVcWpiUDUta3JqVFpuWTNuTktld9IB9AFBVV95cUxQT0NsRThHRFVrTnprbVhORlYxeVJiWGpzQlNsaUFIeF9uVnhxWjZ2ZlMtbGlEbzJ2TE0zcXpndC10TF8zYklZMUZPcUhHdERvblVVdTdMQ1EtcG4xQk1DQnVWWlV3aHo2NHlHVkFQVVpMUTNUTlc4aDJMT3ZiYUJPN2Uwbkk3Ums2SHY1RjhxaUMyM05UdmNDTlB2NUE4dFc0ZVNocDRxVjg3QXBKaXlEakV0TE5wMTg1bVBaVGpUT3MtNTJfSGRoMmdWZ1N4MEt6am0ycDhxNkdoaDlxM1NHYW1mclJlaExRYjZ3T3BBenBrTlEz?oc=5"
         }
       ]
     },
@@ -189,7 +441,7 @@
       "id": "93f4cc926a6b",
       "title": "Exercício físico deve passar a ser receitado para a saúde cerebral - Agência Brasil",
       "published": "2026-11-03T11:52:00+00:00",
-      "summary": "Exercício físico deve passar a ser receitado para a saúde cerebral&nbsp;&nbsp;Agência Brasil\"Overtraining\": excesso de atividade física pode prejudicar a saúde&nbsp;&nbsp;R7Excesso de treino afeta a regulação química do cérebro, mostra estudo&nbsp;&nbsp;Poder360Médicos deveriam receitar exercícios físicos como medicamentos, defendem pesquisadores&nbsp;&nbsp;O TEMPOIdosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo&nbsp;&nbsp;Superinteressante",
+      "summary": "Exercício físico deve passar a ser receitado para a saúde cerebral&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -222,30 +474,6 @@
       ]
     },
     {
-      "id": "195be218c9f7",
-      "title": "Maçã com casca, sem casca ou em suco: entenda o que muda para a saúde - Jornal Correio",
-      "published": "2026-11-03T08:10:00+00:00",
-      "summary": "Maçã com casca, sem casca ou em suco: entenda o que muda para a saúde&nbsp;&nbsp;Jornal CorreioMaçã: para que serve? Veja benefícios e receitas com a fruta&nbsp;&nbsp;EstadãoDo coração ao intestino: 8 motivos para comer maçã todos os dias&nbsp;&nbsp;UOLMaçã com casca ou em suco? Nutricionista explica o que muda no organismo&nbsp;&nbsp;Notícias de Cordeirópolis-SP",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW5QWllCejV5SUtoTWFheWtXd2dLUU1lUmcxV3l4MHE1MnVVVUdQVi1RZlg1NXE3LVY0ZVhIUUh5RzRkNVRuNWF0Y3pTQld5Q2FDUU1hTDI3OXIxMExSZVNQdng4VHYtTUVoS3BheGpwNjRrb3NCRHA5eVYxakNCTW5JOXNvbXlRLWpSRlV4Mk9xZFM0akkwRklDdDA0dDRwUG0wQmszcWNHY3J0bFBSNXln?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a60af8874ac",
-      "title": "Novembro Azul: casos de câncer de próstata cresceram 4 vezes em homens com menos de 50 anos nas últimas duas décadas - O GLOBO",
-      "published": "2026-11-03T07:30:00+00:00",
-      "summary": "Novembro Azul: casos de câncer de próstata cresceram 4 vezes em homens com menos de 50 anos nas últimas duas décadas&nbsp;&nbsp;O GLOBONovembro Azul: PMM intensifica cuidados a saúde masculina&nbsp;&nbsp;Prefeitura de ManausPiauí deve registrar mais de 1,1 mil casos de câncer de próstata em 2026; veja quando procurar um médico&nbsp;&nbsp;G1Novembro Azul: MPSC atua como garantidor dos direitos da pessoa com câncer de próstata&nbsp;&nbsp;Ministério Público de Santa CatarinaEdifício-sede do STF gan",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXRwZVJnUWlBakhtM2l2Y3VFcWg5ckpUVm9veUpGNWxZaURwaDEyaEp4UnQ3cl8xQXNkTkhVZ1M0eTRzWTBRYTFxZnhPNGhBRFcxeUlDUWNabU55YVhFb0xzb1dDSVVwWGVQbHQ3a2xrdjlVaS1UdFJkWXZILVpnVzRBVTRfbTJwdEl4TGs1ZGxBd1FrNlBrVVE4M2c5OEo5THJhTS1KWWdsWG53eWFxNE1vOG04OUFhVUtlQU4tU254ZWRSb2FYdGFMaE95U1hzUmN6NUxDaVBQZkpnNUpESDRBUVhCSkNtYW9Qdnc4dnFjLVRqWnfSAYQCQVVfeXFMTU80Z1paM25fUlY1MWpoTmdlVGRvZ29nMTFkcjJpSE8zN3o5Y2NsUVRlNVQwa21ZSDdxM3BrQURSZ0w0ZTFmTTlxcVE1MlpIT3Z6VDNWVWxUYzhwSUpmeXFQLVBQZUJKeGt4Nl9pTE9YTk4ycjZDbFJ0eXJFTk5tRDZjeGxTUnNWYlIzWXZldERYMVZFVmd1U2F4LUVLTGlHOW0wQnlLcDVvak5uaWlRR1NRc01IOXl3bG0yYmNGVDdkQ2djYmtVdUJNalVCVm1ySzlfWTFQbERjTHphLXp6LTlndzd0V1FEOHJCYWN3akt2UnJGM3pybTBPQlF3TUdPQ0pITlI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6407646e6e2a",
       "title": "Próteses penianas ajudam homens a recuperar ereção após cirurgia da próstata - Folha de S.Paulo",
       "published": "2026-11-03T07:00:00+00:00",
@@ -254,30 +482,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFM2X0Y0cGhNaXJHelFKc2toXzhKTW5RNXBOdkI4c2Ridk1xc1FxZC1MTkNkT3VvSGYzRXY2MnFHMVlTd3JWcjl5eUtPVGx5TjE3Y3BtLVdvN0ljcWNJSmdaVC01eTFva1VLMHYtSXlNWVJyVk5kVVFQNl9SYzQ3S1pnNDAwT3QwbTRsdFZ3bHp4VlJiLVpvT1lwQjFxalNqZDRVczZrUzJ4X3pOSUdRTU5fcFo2LWxxVHBoOTlGOEVtNGw2eFJGUXpiUWxvdFlxYU1V?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb9190d42e77",
-      "title": "Novo Experimento de Aprisionamento de Stanford: um estudo abusivo deveria virar reality show? - BBC",
-      "published": "2026-11-02T20:42:39+00:00",
-      "summary": "Novo Experimento de Aprisionamento de Stanford: um estudo abusivo deveria virar reality show?&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XdjJhWjdEYjB0bFFocWpYMDhwRUpiTUxCUTNfX1pGbDNPaFJfN2ljQjhCSHBzUVR1RUxDOTJmQ205aWEtdHNLQ3Jybk9EYmtDVWFid3RmZWpUUHRUZ1VYODIzTdIBaEFVX3lxTE5zaFBvX0xIVnVJeDBPZEs2ZUlIcjhxZUFUaDJyR3BXWXRFUGpRN0RDYnNSSlpmRnRvVEdVU19GWnhoSmtQdVpYTUNPSnNvMmhGYmdKaU1Bc2NDVkk2d2JpTzN6WG9JY3N5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4996e197b7f9",
-      "title": "Aos 25, homem descobre câncer após culpar suplemento de ferro por sintomas - Metrópoles",
-      "published": "2026-11-02T19:26:00+00:00",
-      "summary": "Aos 25, homem descobre câncer após culpar suplemento de ferro por sintomas&nbsp;&nbsp;MetrópolesJovem de 25 anos confunde sintomas de câncer agressivo com efeito de suplemento&nbsp;&nbsp;primeira página sc",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTg4c3ozeEIzMndHanNodDZFZzJUaTY0RVhZV1FxTE1udUhtejZ3UUZGVDhtcnp2OVFjYTRUM3liQzY3UEdHdUhwLVlOTUx3UWNWTE8yblV1T0JXdlZUOWJyaTlsY1RTZGhwSy1VR01SelJIY1N1cHNHTkpzODNUTHdsVEVrVzd0Nk9iRUFxbVQ4UXcxLXJmMlJCWDZtRjB0MVRFdGw0WndLdw?oc=5"
         }
       ]
     },
@@ -294,78 +498,6 @@
       ]
     },
     {
-      "id": "48dec91d0da8",
-      "title": "Fuvest anula questão de matemática após erro geográfico em prova da primeira fase - Folha de S.Paulo",
-      "published": "2026-11-02T16:06:00+00:00",
-      "summary": "Fuvest anula questão de matemática após erro geográfico em prova da primeira fase&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0NINEdsaDNEaFZ1VkM2YU5sY3NVM2E3WDN5SGhsTmNXYXFFYkhHNzRiRmZtZk9iZGUwakVxcDFpYUh1ZlF1Q0RBTUVXalZJVVhiRk4yVHdVOTRiVVpXMVNEcTd6aDBTTTNHU1k3OHBObVBnWl9obFdILU5HS01tcnZ0bV9VOUFTUGNKRXZtUDNLbnd1WmVrUGZLT2l5TV9DQml4Y3hpNUZuVlhCMDRfR1RqOU93aVFYdjEzUHhuLUoydnJET0dybXVNYXlwdHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02f65296da63",
-      "title": "Por que crocodilos sobreviveram a asteroide que matou dinossauros? Estudo pode ter descoberto - Globo",
-      "published": "2026-11-02T14:09:17+00:00",
-      "summary": "Por que crocodilos sobreviveram a asteroide que matou dinossauros? Estudo pode ter descoberto&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPXzBHVnl1THNMNHlRdE05Ml9ObEpvS080SXNFMkhNS2pzMy1hcXhtWTVGUG80T0ZHZmNUVGJiSUl5VllxcGlyYUNOa1JDSU5hby1MNHhNbExCQ0ljeEdjRFMzaGIwTm91SjhvUEFPdUgzTVJNemZ5a01pWG5ocURNejRrS3hyNGRmUXRxVk9IRWNGY29oNG5QVWl4SzNGZzlTYUp4ZTRJTTFyUjhvWTVnSWxmSjlUOEp6N2FCTXBhOWlMNGNoZDNaRXVEWGtjOXp3dGhRalgtQVNMVjdDQXRjYWg1aG1menhBX0sw0gH6AUFVX3lxTE00MTRhWHhYVVlyaklPMHZfMlRXRG4xSnlMYmNsZDdHcnJLbVRxajE3QmNqRFZsbzBPV0VhcGJQM1BLZ19qUkdsNjh5LVdwVW1CZEwyYWhGbGRFa1BPNEtyYTM5Q0Q1R0NNdDB4VzBqWEpCcW5GWnFKeDNSaTJ5Ql9FT1h2RkZhVDF6dE9BWHI1N2h3MHFRc2hqemtkQkd0Z0t0LUxtNVM4dmZ1QWFCZkJpLTRzMElqRE1CUXpVc3ZBWVVlXzBDM0VGUThWTVBLZHc5cS1EVmtTOEozSVFuZjlPZVZZeXBpMHhobjJXN2hHcmY2TENaYlRWTnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ebfa9818b184",
-      "title": "Saquinhos de chá podem liberar milhares de microplásticos e contaminar a bebida com substâncias químicas, aponta novo estudo; entenda - O GLOBO",
-      "published": "2026-11-02T14:01:40+00:00",
-      "summary": "Saquinhos de chá podem liberar milhares de microplásticos e contaminar a bebida com substâncias químicas, aponta novo estudo; entenda&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQV3NGc29nclBabk1EejR4Y3ZMaDBKakFuMjFhRHlFR3NEVjVQNXdEcWtvdFllRldyYTBmQkZzbEZRWmJtRGdMQTUzNkhUNGJSV2xJNEN1aFdrZzJSWE53V0FxVUhTWVdGUTNQeUZwS1BHQ1FTYjdFMl9JWUpvXzB1NUtfaW9QY1BYSGpadVVJZDZyMzJTZl9DMW4zMVktRF9iSlloSldKcVBEbGJFZmFpNlJxR3h5R1d5YU5fRFdtSjVqU0dnYTF0NnFIX0xPenBURmkxSDl1UHVlUkhqbjkyRENpVXoxRG5TWm9GRkFkVWo5clF0VlVkUVNOTUxQY0JHQ2k0TFVReWNpU1VrNE1tVXNIaV9qd9IBpAJBVV95cUxNT21fdWVZdWFUVVctc0xfUkMzVjZ0TzNvRjJqQ19LTWxtMHlGZmxIQlRLWW8zbnlyRWNZS1RlUnVSYXpJZGtBREo5VWY4YlMwMHdoS2pUQ3Foa0lQT3pJQWZNNjViYTNoalBOZHU4SEVaaVpvVFZYS2pMcUZfZmRHa1k5RklRa192Nl9aOHhIZG9iWTRmby1NREFES2FlbTZzX3pxTVU2Z3lpZFZyOWNubzc2bzlhUmpwQVItWWNvR3RadXMwQUY5QWtpM2hLTjVCUHQzMzdiajhneXhrbnRnd2ZKUV9iNUpiUWN5TmpjLU5zMGFLa0FRM1dKdTMyczNCakI3akFvVHI5RjYxLUUtR2N4QmF2MHJwNTdId3NfV1lUbFNL?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29f7ec5588fe",
-      "title": "Prefeitura de Maceió inicia vacinação antirrábica no sábado (7) - Prefeitura de Maceió",
-      "published": "2026-11-02T13:16:00+00:00",
-      "summary": "Prefeitura de Maceió inicia vacinação antirrábica no sábado (7)&nbsp;&nbsp;Prefeitura de MaceióCampanha de vacinação contra a raiva começa em Alagoas e segue até 7 de dezembro&nbsp;&nbsp;G1Vacinação antirrábica chega ao Macurani e ramais&nbsp;&nbsp;Portal do Marcos SantosImperatriz realiza Dia D de vacinação antirrábica neste sábado (07)&nbsp;&nbsp;Prefeitura Municipal de ImperatrizPrefeitura de Itaboraí realiza vacinação antirrábica em bairros do município&nbsp;&nbsp;Portal Oficial da Prefeitur",
-      "sources": [
-        {
-          "name": "Prefeitura de Maceió",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmMtUHpMMHhCLUo5TkhQcXg2dHAzQWRka0lrWC1GSjF5Ny1SZUtoR1R4Q1RoZzgtTHJfc1JUNENlQmpoRklDRXNHOEpwcU5iRVptbWZ3U3p6M25GSEpQNWdqbG9QaGdUZFlGVERURlBKeEh0dlVzdDBnMnFkVklSaHhIMDJzY2dWY1FYdjNBclhmOWlPTTVkdnY3OVdRSS1j?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "510fb7fa08ec",
-      "title": "MG registra 33 casos de Mpox; novo caso foi confirmado neste fim de semana - CNN Brasil",
-      "published": "2026-11-02T11:43:59+00:00",
-      "summary": "MG registra 33 casos de Mpox; novo caso foi confirmado neste fim de semana&nbsp;&nbsp;CNN BrasilMinas Gerais registra 33 casos de Mpox&nbsp;&nbsp;G1Minas Gerais registra 33 casos de Mpox em 2026, informa secretaria&nbsp;&nbsp;BandNewsConfins confirma primeiro caso de mpox; Minas soma 33 registros em 2026&nbsp;&nbsp;MetrópolesConfins confirma primeiro caso de Mpox e reforça orientações de prevenção&nbsp;&nbsp;Impactto News",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT28wVE1RWWljZUNPbDF0bjlielRMaVRwa2h1azdWRDFWZG1wcHM0WDRkempjZ0JSZDhzSUlONVFOWXd6Ump0SF9YZGN0SEVhSlFmWjgzNEJXOFFOck1waHFxZHJzNkI5Y0ZfWkJwZWtKQ2RodUNuRmtIS21VbmNXYlVtUFNYZm9GMGw3QzZUcGgyVzl2SUJ2RzhFTEdkS1FiTERRclNlNWkzdkZRaVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "38c397db823f",
-      "title": "Psoríase não atinge só a pele e aumenta risco de problemas no coração - CNN Brasil",
-      "published": "2026-11-02T03:00:23+00:00",
-      "summary": "Psoríase não atinge só a pele e aumenta risco de problemas no coração&nbsp;&nbsp;CNN BrasilPsoríase afeta mais de 5 milhões de pessoas no Brasil&nbsp;&nbsp;R7Cuidado à flor da pele: especialista lança livro para esclarecer dúvidas e combater estigmas relacionados à psoríase&nbsp;&nbsp;Tribuna do NorteLesões da psoríase podem afetar autoestima de jovens e adolescentes, diz médico especialista&nbsp;&nbsp;Portal Opinião PublicaALMG se ilumina de roxo em homenagem ao Dia Mundial da Psoríase&nbsp;&nb",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjVPcjgwNUJ3SXcwSFkzSWVkMmxHcWtQSWZrV2VuRnJRX01VM3ZmOFZoeTFMV1B3dVVxTjZFYnFOSFRSRmpmV1Q3N0FUa2dNNzdrVExMQWtQazlrQ2VuUXBna1J4ZFRXLTdrSU1KZkhQWmJ1WnItdFQ2T0llUk5FdE5VY1FhTG5CaFcxM3U5RzUzNDAySjRSVFQ3bk9OdVFFNFFISk1MN2U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ce481df9fedb",
       "title": "Morar sozinho é mais arriscado para jovens e adultos do que para idosos, mostra novo estudo; entenda - O GLOBO",
       "published": "2026-11-01T12:59:57+00:00",
@@ -378,34 +510,10 @@
       ]
     },
     {
-      "id": "11e7da2a131b",
-      "title": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes - G1",
-      "published": "2026-11-01T08:00:00+00:00",
-      "summary": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes&nbsp;&nbsp;G1Remédio para câncer de pulmão pode evitar avanço da doença por 7 anos&nbsp;&nbsp;CNN BrasilRemédio prolonga por sete anos controle do câncer de pulmão&nbsp;&nbsp;Brasil 247Comprimido diário aumenta sobrevida de pacientes com câncer de pulmão avançado&nbsp;&nbsp;Rádio MetrópoleNovos remédios prometem controlar câncer, diabetes e HIV em 2026&nbsp;&nbsp;ncnews.com.br",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb1dFYmVGZUFzNTlGY2dNVnJmWUJCTm15XzVRY0RfV2dzS2hYZVRTR0VvbVVSendHNEVwcDZ3eTdpblR0d0FVTWxsVlBBRkFFUzZLb1RpTHdLLXNQLUVZdWR6Sms5TjVZT0RZR2VWaU82ZEFUYUpoOG1USTZLdXh1WVZqTHN3M2U3MmVoMWVQbE5uU1R3TGxseFAwaGpUcGVlX2VaN2kzQlRLbmNLUk01NXpoVHJXNkN1cEZ2V210YjlxZXc1ejNCZWVBSjViMW8xbDFaY3lUa3ItZ1lRbzYyakdVSUhVZWR4OW9UcNIB-wFBVV95cUxPbmpxLVpKU2ZSZVp6TUI5c0lJaWN0eEpERks4MW5icjVhNktSQ2JoNktYaGg2Um1vWGxhMjQxc3dmOFN5eFRmdHJKTEUxeWctOVpZeEU4Y1ZNZDlyeF96ODJaSW13SnlaeHMwc29iMFM4b1J4WXQ1b3lhUmt2ZUdwUnY3WUN4SHowRHd5WjZtX21wUkRnT0hjZmNmSmpoZTN5WHYxV2R0ODFhUE8zRWJkcUxMcUk5R2RpS25pMGxzQW9jSzRSMXM5UEsxbjFZcUR3TkFTbVNtdTRPVEdiMk9GbkV5bk5lVTF5d2xoX1N5TjFvd0RyV1BWQU53dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf1dd8c3f484",
-      "title": "Álcool faz bem à saúde? Por que a ideia de proteção merece cuidado - CNN Brasil",
-      "published": "2026-11-01T06:40:18+00:00",
-      "summary": "Álcool faz bem à saúde? Por que a ideia de proteção merece cuidado&nbsp;&nbsp;CNN BrasilÁlcool pode estar ligado a uma vida mais longa, revela novo estudo&nbsp;&nbsp;Correio do EstadoEstudos sobre vinho e coração exigem cautela, dizem especialistas&nbsp;&nbsp;Folha de CuritibaUma taça de vinho por dia faz bem? Especialista alerta para riscos que muita gente desconhece&nbsp;&nbsp;Meio News",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGR2eWRlemxETHdYOUhhZGR0djI4UlZJNkFQSGdIY3U5R0ZPekgzQm0zOUVHaFZrcWZrYk5iNWt0TzlLaG5QT2Zja3FLc1BvbWd1em5uWXRTc1pIcXZTNmJHUm82SHdRdzNrbFdFRnpTcVNMMWJFWHpDb19FS2NOa1hfZlk3Z2VDRGRLejA1aWNyR01aOGtpR2o5MzJnS2N4a0Iw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e83a9db5ac28",
       "title": "O teste simples de fitness que prevê o seu risco de morte - G1",
       "published": "2026-10-31T15:17:59+00:00",
-      "summary": "O teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "summary": "O teste simples de fitness que prevê o seu risco de morte&nbsp;&nbsp;G1Teste de recuperação cardíaca pode indicar risco à saúde&nbsp;&nbsp;Diário do Centro do MundoSaber disso vale a pena: o “teste fitness” que qualquer pessoa pode fazer e prevê o risco de morte&nbsp;&nbsp;Montevideo PortalTeste de 1 minuto pode revelar sinais de risco para a saúde do coração&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
           "name": "G1",

@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Potassium. 5 indicações previstas."
 permalink: /news/potassium/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Notícias sobre Potassium
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Potassium?">
-<strong>Potassium</strong> tem atualmente <strong>18 notícias</strong> e 5 indicações previstas.
+<strong>Potassium</strong> tem atualmente <strong>23 notícias</strong> e 5 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,53 @@ Esta página combina as indicações previstas por IA para Potassium com as not�
 <p><a href="{{ '/drugs/potassium/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (18)
+## Notícias relacionadas (23)
 
-### [CÂNCER DE INTESTINO! Dra. Amanda Meirelles faz alerta urgente - Portal Leo Dias](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHZNZG1Tbk5jZFAwQzYwMDZLNEdQNTNhQkd1MlVVUWhDRXZZa0w4cHJHcnZmQThVOWdBQWNSR1A4cHkwblh6WUV6SHV2MjJhR1g5WlQ4dGxQVGdpNkdfVzVyWFgzUGFrY2lmX3FfLWtLY0ZvN1gtSkRqc21uRkt3WWF5ZzdrOWtBcG9VU0x2U3lMY3JkTy1xaVN4TGFQWEVwWHFfbmNYUWJYUE5r0gGyAUFVX3lxTE5kU2MteURtSXVQMkxyZGs4MS1DdXZFWDIwTEtURVNPOFo2TWRzRk1QTmNIbmZBNmFWOVZpUHl2ZUlTcm1vaVV1c29YNjN5QXJCdWxHZ0FaeHQ2TVRWWGQyNnYwSTAyT0NUSEZ6Y2tqNGZpZGZGX050WldfemhnWW1Rczk4Yl9Yc0NlZk53aS1kSEl3aWctaEoxZE0yS3REUTk2akhYa0swbWF3YTM3VHphOGc?oc=5)
+### [Fibras de pitanga e cambuci têm efeito sobre células de câncer, diz USP](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnF3MFE3TVU2YTd5UldUblBZM1dHcmhoR0EwMW9na3J0RHN2OWxBUWhyYndGSDgwSHdDVU9FNW9GQVFTOVNIQTJCampFX1RuTEVQUThYTzBQR05sU1ozV3hfaHhaV0Judi1oS3FCZENEbmRpdUFsRTd6ck5VYnhyNDF3bHRFR24xclBfNUFMM0R3d2lMamo3Sm9HX3VfZkVoWkdTM04yY3NVVW94a3ZBazFkRUZhMlZYbjFJRTh1ckdxQjJqRFR2bnMweWM3UFE?oc=5)
 
-2026-11-03 <span class="news-indication-tag">câncer</span>
+2026-11-04 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnF3MFE3TVU2YTd5UldUblBZM1dHcmhoR0EwMW9na3J0RHN2OWxBUWhyYndGSDgwSHdDVU9FNW9GQVFTOVNIQTJCampFX1RuTEVQUThYTzBQR05sU1ozV3hfaHhaV0Judi1oS3FCZENEbmRpdUFsRTd6ck5VYnhyNDF3bHRFR24xclBfNUFMM0R3d2lMamo3Sm9HX3VfZkVoWkdTM04yY3NVVW94a3ZBazFkRUZhMlZYbjFJRTh1ckdxQjJqRFR2bnMweWM3UFE?oc=5)
+
+---
+
+### [Câncer de intestino: Dra. Amanda Meirelles faz alerta urgente sobre a doença - Portal Leo Dias](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHZNZG1Tbk5jZFAwQzYwMDZLNEdQNTNhQkd1MlVVUWhDRXZZa0w4cHJHcnZmQThVOWdBQWNSR1A4cHkwblh6WUV6SHV2MjJhR1g5WlQ4dGxQVGdpNkdfVzVyWFgzUGFrY2lmX3FfLWtLY0ZvN1gtSkRqc21uRkt3WWF5ZzdrOWtBcG9VU0x2U3lMY3JkTy1xaVN4TGFQWEVwWHFfbmNYUWJYUE5r0gGyAUFVX3lxTE5kU2MteURtSXVQMkxyZGs4MS1DdXZFWDIwTEtURVNPOFo2TWRzRk1QTmNIbmZBNmFWOVZpUHl2ZUlTcm1vaVV1c29YNjN5QXJCdWxHZ0FaeHQ2TVRWWGQyNnYwSTAyT0NUSEZ6Y2tqNGZpZGZGX050WldfemhnWW1Rczk4Yl9Yc0NlZk53aS1kSEl3aWctaEoxZE0yS3REUTk2akhYa0swbWF3YTM3VHphOGc?oc=5)
+
+2026-11-04 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Portal Leo Dias](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHZNZG1Tbk5jZFAwQzYwMDZLNEdQNTNhQkd1MlVVUWhDRXZZa0w4cHJHcnZmQThVOWdBQWNSR1A4cHkwblh6WUV6SHV2MjJhR1g5WlQ4dGxQVGdpNkdfVzVyWFgzUGFrY2lmX3FfLWtLY0ZvN1gtSkRqc21uRkt3WWF5ZzdrOWtBcG9VU0x2U3lMY3JkTy1xaVN4TGFQWEVwWHFfbmNYUWJYUE5r0gGyAUFVX3lxTE5kU2MteURtSXVQMkxyZGs4MS1DdXZFWDIwTEtURVNPOFo2TWRzRk1QTmNIbmZBNmFWOVZpUHl2ZUlTcm1vaVV1c29YNjN5QXJCdWxHZ0FaeHQ2TVRWWGQyNnYwSTAyT0NUSEZ6Y2tqNGZpZGZGX050WldfemhnWW1Rczk4Yl9Yc0NlZk53aS1kSEl3aWctaEoxZE0yS3REUTk2akhYa0swbWF3YTM3VHphOGc?oc=5)
+
+---
+
+### [Cientistas enganam células cancerígenas e criam remédio contra o câncer](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeG5KaFdyMWlzWXh0bnV0S1RxWEFrenhvME9JM3YwelJHWFU2Zkx3T0MxdW51RnhoTGFSQTlBeVVEVmdFa3ZoaWJoY283MFBLMkJnWV9LWGs3RkY2NFB5Q1YxZnc2MkZOWlMxYzdZamI4bmRvMC1qSzRnRW84ck5qTzR2aU04VENCcGZBYzdKNlpqcEpOVDVONWd6TnZueTNtNDBFcmRFZ3p3SVE?oc=5)
+
+2026-11-04 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeG5KaFdyMWlzWXh0bnV0S1RxWEFrenhvME9JM3YwelJHWFU2Zkx3T0MxdW51RnhoTGFSQTlBeVVEVmdFa3ZoaWJoY283MFBLMkJnWV9LWGs3RkY2NFB5Q1YxZnc2MkZOWlMxYzdZamI4bmRvMC1qSzRnRW84ck5qTzR2aU04VENCcGZBYzdKNlpqcEpOVDVONWd6TnZueTNtNDBFcmRFZ3p3SVE?oc=5)
+
+---
+
+### [Câncer de próstata: 5 informações que seu médico gostaria que você soubesse](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdnoxN2EzOW9nRkE2dDlOd0k5MUZUVVBpWGF3OHpiM3VqVnZScDkyOW1XWUdmaUtSTmhrNnA4UEloU1pRc3V6blVERkU1VUVEVTM5ajVjaC1nUUpMNVpkRlZzMk16M2ZseXlmWHNuSXJDRkNYM3pMZF95aDZibktkV2ZTVmg1RXIxaURKUWRjZEkwT2pFUlN0TnBvalB5UXF4TzZZSjQ3TE1sd2VyemEyalI4WHJVbEJtNDhTSi1XTDNoWHo0YlBrUi1jcEduZWx4MjM0?oc=5)
+
+2026-11-04 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdnoxN2EzOW9nRkE2dDlOd0k5MUZUVVBpWGF3OHpiM3VqVnZScDkyOW1XWUdmaUtSTmhrNnA4UEloU1pRc3V6blVERkU1VUVEVTM5ajVjaC1nUUpMNVpkRlZzMk16M2ZseXlmWHNuSXJDRkNYM3pMZF95aDZibktkV2ZTVmg1RXIxaURKUWRjZEkwT2pFUlN0TnBvalB5UXF4TzZZSjQ3TE1sd2VyemEyalI4WHJVbEJtNDhTSi1XTDNoWHo0YlBrUi1jcEduZWx4MjM0?oc=5)
+
+---
+
+### [Inglaterra vai testar sangue de pacientes com inchaço para detectar câncer - UOL Notícias](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0JYVE5rdTdwZ0g4VUJKYnhlWGw3SHJLRzZ4akZyNXF2SGNBRzZKWjZsUkM2WjF6UHJmYVdOb3Z2VTItM3RUSDdxN2F4MC1fdWhidEpSc0l2SDdDeUozMll5aEFpNmhzNGlaam5LRm9MeFZmVVNUOHVXMHp1alpDdUJuUG5HYXU4eWFkMlpZRDI4ZF82cUJOZjNwQU1XV21FWHBONi1ZLXZhMlF5Y3pIZFkzaDVQSndFSzk2OUctLWlTSXg4aFlSaG9nVzVGakVYbldN?oc=5)
+
+2026-11-04 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0JYVE5rdTdwZ0g4VUJKYnhlWGw3SHJLRzZ4akZyNXF2SGNBRzZKWjZsUkM2WjF6UHJmYVdOb3Z2VTItM3RUSDdxN2F4MC1fdWhidEpSc0l2SDdDeUozMll5aEFpNmhzNGlaam5LRm9MeFZmVVNUOHVXMHp1alpDdUJuUG5HYXU4eWFkMlpZRDI4ZF82cUJOZjNwQU1XV21FWHBONi1ZLXZhMlF5Y3pIZFkzaDVQSndFSzk2OUctLWlTSXg4aFlSaG9nVzVGakVYbldN?oc=5)
+
+---
+
+### [Influenciador morre aos 32 anos após luta contra câncer de estômago](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVRRVVdCMWVLVGNTbWtIelNCTS1KWDVPZXV6dlNsU2c3ZWNpMlBjTFJvWXRGRl8tTXV0YnVIbndPTzZWeEQxbWlPaFpNWkxUYmpwc2xKS2p1UXFXMlZjWjFISXRuc1RIRERYdEFUZzVxaHQtV3FDT2l5eGlQTl9CbDU3ZHlBVmRENVBVTU81ck1vdFR1UnFoMThHZnRoUEM2V25HMDh0NzI5ODg?oc=5)
+
+2026-11-04 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVRRVVdCMWVLVGNTbWtIelNCTS1KWDVPZXV6dlNsU2c3ZWNpMlBjTFJvWXRGRl8tTXV0YnVIbndPTzZWeEQxbWlPaFpNWkxUYmpwc2xKS2p1UXFXMlZjWjFISXRuc1RIRERYdEFUZzVxaHQtV3FDT2l5eGlQTl9CbDU3ZHlBVmRENVBVTU81ck1vdFR1UnFoMThHZnRoUEM2V25HMDh0NzI5ODg?oc=5)
 
 ---
 
