@@ -45,24 +45,6 @@ SMART on FHIR is an open standard that allows healthcare applications to securel
     <p style="color: #555; margin: 0.5rem 0 1rem;">No EHR connection needed. Enter drug names directly to test functionality</p>
     <a href="standalone.html" style="display: inline-block; padding: 8px 16px; background: #4caf50; color: white; text-decoration: none; border-radius: 6px; font-size: 0.9rem;">Try Now &rarr;</a>
   </div>
-  <div style="padding: 1.5rem; background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); border-radius: 12px; border: 2px solid #2196f3;">
-    <div style="font-size: 2rem; margin-bottom: 0.5rem;">📖</div>
-    <strong style="font-size: 1.1rem; color: #1565c0;">User Guide</strong>
-    <p style="color: #555; margin: 0.5rem 0 1rem;">Step-by-step tutorial: How to use BrTxGNN SMART App</p>
-    <a href="guide/" style="display: inline-block; padding: 8px 16px; background: #2196f3; color: white; text-decoration: none; border-radius: 6px; font-size: 0.9rem;">View Guide &rarr;</a>
-  </div>
-  <div style="padding: 1.5rem; background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%); border-radius: 12px; border: 2px solid #ff9800;">
-    <div style="font-size: 2rem; margin-bottom: 0.5rem;">⚙️</div>
-    <strong style="font-size: 1.1rem; color: #e65100;">Technical Docs</strong>
-    <p style="color: #555; margin: 0.5rem 0 1rem;">OAuth configuration, FHIR API, drug mapping workflow</p>
-    <a href="technical-docs/" style="display: inline-block; padding: 8px 16px; background: #ff9800; color: white; text-decoration: none; border-radius: 6px; font-size: 0.9rem;">Technical Specs &rarr;</a>
-  </div>
-  <div style="padding: 1.5rem; background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); border-radius: 12px; border: 2px solid #9c27b0;">
-    <div style="font-size: 2rem; margin-bottom: 0.5rem;">🔗</div>
-    <strong style="font-size: 1.1rem; color: #7b1fa2;">Integrations</strong>
-    <p style="color: #555; margin: 0.5rem 0 1rem;">ClinicalTrials.gov, DDI checking, CDS Hooks</p>
-    <a href="integrations/" style="display: inline-block; padding: 8px 16px; background: #9c27b0; color: white; text-decoration: none; border-radius: 6px; font-size: 0.9rem;">View Integrations &rarr;</a>
-  </div>
 </div>
 
 ---
@@ -71,7 +53,6 @@ SMART on FHIR is an open standard that allows healthcare applications to securel
 
 <div style="background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); border-radius: 12px; padding: 1.5rem; margin: 1.5rem 0; border: 2px solid #4caf50;">
   <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
-    <img src="{{ '/assets/images/smart-app-icon.png' | relative_url }}" alt="BrTxGNN App Icon" style="width: 64px; height: 64px; border-radius: 12px;">
     <div>
       <div style="font-weight: 600; font-size: 1.2rem; color: #2e7d32;">brtxgnn-smart-app</div>
       <div style="color: #555;">Yao.Care Technology Co., Ltd.</div>
@@ -80,16 +61,6 @@ SMART on FHIR is an open standard that allows healthcare applications to securel
   <p style="margin-bottom: 1rem; color: #333;">Query drug repurposing candidates for patient medications using TxGNN deep learning predictions.</p>
   <a href="https://apps.smarthealthit.org/app/brtxgnn-smart-app" target="_blank" style="display: inline-block; padding: 10px 20px; background: #333; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">View on SMART App Gallery ↗</a>
 </div>
-
----
-
-## Documentation Structure
-
-| Page | Description |
-|------|-------------|
-| [User Guide](guide/) | Step-by-step tutorial for general users |
-| [Technical Docs](technical-docs/) | FHIR configuration, API endpoints for developers |
-| [Integrations](integrations/) | External resource integrations and links |
 
 ---
 
