@@ -35,7 +35,7 @@ O BrTxGNN integra múltiplas fontes de dados públicas para garantir a rastreabi
 | **Fonte** | Agência Nacional de Vigilância Sanitária |
 | **Dados** | Medicamentos registrados no Brasil |
 | **Registros** | {{ site.data.source_stats.display.anvisa_records }} registros de medicamentos no arquivo ({{ site.data.source_stats.display.anvisa_active }} com situação Ativo) |
-| **Atualização** | Semanal (download automático toda segunda-feira) |
+| **Atualização** | Arquivo baixado em março de 2026 (instantâneo; os números acima vêm dele). Toda segunda-feira um processo automático baixa o arquivo de novo e atualiza só a situação dos registros que aparecem nas páginas de medicamentos |
 | **Arquivo** | [DADOS_ABERTOS_MEDICAMENTOS.csv](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | **Link** | [dados.anvisa.gov.br](https://dados.anvisa.gov.br/) |
 
@@ -155,7 +155,7 @@ Todas as fontes de dados são utilizadas em conformidade com seus respectivos te
 
 | Fonte | Frequência |
 |-------|------------|
-| ANVISA | Semanal |
+| ANVISA | Instantâneo de março de 2026; situação dos registros verificada semanalmente |
 | ClinicalTrials.gov | Diária |
 | PubMed | Contínua |
 | DrugBank | Mensal |
