@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T23:19:52.835302+00:00",
+  "generated": "2026-11-05T05:39:30.410638+00:00",
   "count": 30,
   "news": [
     {
@@ -467,46 +467,6 @@
               "slug": "valsartan",
               "name": "VALSARTAN",
               "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "38f24c269490",
-      "title": "Mini-AVC é ligado a risco de demência próximo ao de quem teve AVC",
-      "published": "2026-11-04T18:49:50+00:00",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENVQWx0dnRlaUdlRWFyTzMwVG42R3lIWUpDbDJiX19oZWw0dWF1OW16NU5jdU1ONmppeGJEeFNKdmFnOGJZVUp1UDB6U096WTlmTjRSb0FjSDRZcVc5M21ic1d4SDVuNk9sZHhreUxSMHB5elZEQk1lYV9IUTVyMzc4OXh3V1RoNUVlRTJ3MHU2c3VUa2dsc0lMRHNDUTZRSmhvd2VwelFGM0FFLThTemNkYlZlOC1HSHdF?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden",
-              "url": "/drugs/biperiden/"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE",
-              "url": "/drugs/entacapone/"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole",
-              "url": "/drugs/albendazole/"
             }
           ]
         }
@@ -3370,6 +3330,46 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYk84SlJuLUFNQzVlUmd6RGo2TjJHNnNMbG9NUmZ3RmIyTlFTYmFXU2RxR1BzQmVEcXdjOXFCVzQzTlVlZnl6a0Z1QVJyZllCZFljMnZUbWx3UDRhdTEwMjFaVjdvaFg1ZTF2VUVJZFg5a0JRM2FIR1NpUFBwQ0dWZnlzSk5mYURCbmRHZXZwdmNhOFl3WXY5anhPUThOMGhfYUZQSFdzMHk2dXlzREY5bHc5cENSaHFfemJRa3ZmTG4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden",
+              "url": "/drugs/biperiden/"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE",
+              "url": "/drugs/entacapone/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38f24c269490",
+      "title": "Mini-AVC é ligado a risco de demência próximo ao de quem teve AVC",
+      "published": "2026-11-04T18:49:50+00:00",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENVQWx0dnRlaUdlRWFyTzMwVG42R3lIWUpDbDJiX19oZWw0dWF1OW16NU5jdU1ONmppeGJEeFNKdmFnOGJZVUp1UDB6U096WTlmTjRSb0FjSDRZcVc5M21ic1d4SDVuNk9sZHhreUxSMHB5elZEQk1lYV9IUTVyMzc4OXh3V1RoNUVlRTJ3MHU2c3VUa2dsc0lMRHNDUTZRSmhvd2VwelFGM0FFLThTemNkYlZlOC1HSHdF?oc=5"
         }
       ],
       "keywords": [
