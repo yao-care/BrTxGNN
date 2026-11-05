@@ -23,7 +23,7 @@ Predicoes de reposicionamento de medicamentos para medicamentos aprovados pela A
 | **Predicoes totais** | 17,788,744 |
 | **Medicamentos unicos** | 770 |
 | **Indicacoes unicas** | 17,041 |
-| **Dados DDI** | 302,516 |
+| **Dados DDI** | 160,235 |
 | **Dados DFI** | 857 |
 | **Dados DHI** | 35 |
 | **Dados DDSI** | 8,359 |
@@ -219,7 +219,7 @@ PYTHONPATH=src python -m brtxgnn.predict.txgnn_model
 | **Dados de medicamentos** | ANVISA | [Dados Abertos ANVISA - Medicamentos Registrados](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) | Brazil |
 | **Grafo de conhecimento** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 diseases, 7,957 drugs |
 | **Base de dados de medicamentos** | DrugBank | [DrugBank](https://go.drugbank.com/) | Mapeamento de ingredientes de medicamentos |
-| **Interacoes medicamentosas** | DDInter 2.0 | [DDInter](https://ddinter2.scbdd.com/) | Pares DDI |
+| **Interacoes medicamentosas** | DDInter | [DDInter](https://ddinter2.scbdd.com/) | Pares DDI |
 | **Interacoes medicamentosas** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | Interacoes de medicamentos aprovados |
 | **Ensaios clinicos** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | Registro de ensaios clinicos |
 | **Ensaios clinicos** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | Plataforma internacional de ensaios clinicos |

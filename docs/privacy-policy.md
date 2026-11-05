@@ -8,7 +8,7 @@ permalink: /privacy-policy/
 
 # Política de Privacidade
 
-**Última atualização**: Março de 2026
+**Última atualização**: 5 de novembro de 2026
 
 ---
 
@@ -22,18 +22,20 @@ O BrTxGNN (brtxgnn.yao.care) é um projeto de pesquisa de código aberto que for
 
 ### Dados que NÃO Coletamos
 
-- **Dados pessoais**: Não coletamos nomes, e-mails ou informações de identificação
+- **Dados pessoais**: Não coletamos nomes, e-mails nem dados de cadastro (o site não tem contas nem formulários)
 - **Dados de saúde**: Não coletamos informações médicas de usuários
-- **Cookies de rastreamento**: Não utilizamos cookies de rastreamento de terceiros
+- **Dados de pacientes**: O aplicativo SMART não envia a identidade do paciente nem os dados do prontuário aos servidores deste site (é um site estático, sem backend); para identificar os medicamentos, envia apenas os códigos RxNorm (sem identificadores do paciente) ao serviço RxNav da Biblioteca Nacional de Medicina dos EUA e, quando você solicita ensaios clínicos, os nomes do medicamento e da indicação ao ClinicalTrials.gov
 
 ### Dados de Acesso
 
-O GitHub Pages pode coletar automaticamente:
-- Endereços IP (anonimizados)
+O GitHub Pages pode registrar automaticamente:
+- Endereços IP
 - Informações do navegador
 - Páginas visitadas
 
-Estes dados são utilizados apenas para estatísticas agregadas de acesso.
+O GitHub trata esses registros conforme a própria política de privacidade.
+
+Além disso, o site usa o Google Analytics 4, que coleta, por meio de cookies de análise definidos ao carregar a página, as páginas visitadas, o site de origem, a profundidade de rolagem e o tempo na página. Usamos esses dados apenas para estatísticas agregadas de acesso. Termos de busca, conteúdo de formulários e parâmetros da URL não são enviados.
 
 ---
 
