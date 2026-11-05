@@ -53,6 +53,17 @@ Os dados do BrTxGNN são:
 
 O site é hospedado no GitHub Pages. Consulte a [Política de Privacidade do GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
+### Recursos de terceiros carregados pelas páginas
+
+As páginas carregam os seguintes recursos de terceiros, que podem registrar os acessos conforme suas próprias políticas:
+
+| Serviço | Finalidade | Política de privacidade |
+|---------|---------|----------------|
+| Google Analytics 4 (www.googletagmanager.com, google-analytics.com) | Estatísticas de visitas (páginas vistas, origem); usa cookies de análise. Termos de busca, conteúdo de formulários e parâmetros da URL não são enviados. | [Política de Privacidade do Google](https://policies.google.com/privacy) |
+| cdn.jsdelivr.net | Bibliotecas de scripts: gráficos d3 em todas as páginas; Fuse.js para comparar nomes e o cliente SMART on FHIR nas páginas SMART | [Política de Privacidade do jsDelivr](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net) |
+| clinicaltrials.gov | Busca de ensaios clínicos nas páginas SMART: somente quando você solicita, os nomes do medicamento e da indicação são enviados à API do ClinicalTrials.gov | [Políticas web da NLM](https://www.nlm.nih.gov/web_policies.html) |
+| rxnav.nlm.nih.gov | Aplicativo SMART: os códigos RxNorm dos medicamentos lidos do seu prontuário eletrônico são enviados à API RxNav da NLM para obter o nome do princípio ativo (sem identificadores do paciente) | [Políticas web da NLM](https://www.nlm.nih.gov/web_policies.html) |
+
 ### Fontes de Dados
 
 Utilizamos dados públicos de:
