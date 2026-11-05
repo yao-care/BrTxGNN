@@ -20,27 +20,28 @@ Predicoes de reposicionamento de medicamentos para medicamentos aprovados pela A
 | Item | Quantidade |
 |------|------|
 | **Relatorios de medicamentos** | 517 |
-| **Predicoes totais** | 17,788,744 |
-| **Medicamentos unicos** | 770 |
+| **Predicoes totais** | 20,252,111 |
+| **Medicamentos unicos** | 1,037 |
 | **Indicacoes unicas** | 17,041 |
 | **Dados DDI** | 160,235 |
-| **Recursos FHIR** | 256 MK / 2,404 CUD |
+| **Recursos FHIR** | 1,420 MK / 3,865 CUD |
 
 ### Distribuicao dos niveis de evidencia
 
 | Nivel de evidencia | Quantidade de relatorios | Descricao |
 |---------|-------|------|
-| **L1** | 0 | Multiplos ECRs de Fase 3 |
-| **L2** | 0 | ECR unico ou multiplos Fase 2 |
-| **L3** | 0 | Estudos observacionais |
-| **L4** | 0 | Estudos pre-clinicos / mecanisticos |
-| **L5** | 256 | Apenas predicao computacional |
+| **L1** | 4 | Multiplos ECRs de Fase 3 |
+| **L2** | 21 | ECR unico ou multiplos Fase 2 |
+| **L3** | 23 | Estudos observacionais |
+| **L4** | 30 | Estudos pre-clinicos / mecanisticos |
+| **L5** | 395 | Apenas predicao computacional |
+| **N/A** | 44 | Apenas usos conhecidos (sem novas previsões) |
 
 ### Por fonte
 
 | Fonte | Predicoes |
 |------|------|
-| DL | 17,786,340 |
+| DL | 20,249,707 |
 | KG + DL | 2,081 |
 | KG | 323 |
 
@@ -49,9 +50,9 @@ Predicoes de reposicionamento de medicamentos para medicamentos aprovados pela A
 | Confianca | Predicoes |
 |------|------|
 | very_high | 1,522 |
-| high | 883,214 |
-| medium | 1,780,501 |
-| low | 15,123,507 |
+| high | 982,685 |
+| medium | 1,990,650 |
+| low | 17,277,254 |
 
 ---
 
@@ -71,7 +72,7 @@ uv run python scripts/run_kg_prediction.py
 | Metrica | Valor |
 |------|------|
 | ANVISA Total de medicamentos | 14,150 |
-| Mapeados para DrugBank | 9,946 (70.3%) |
+| Mapeados para DrugBank | 11,133 (78.7%) |
 | Candidatos a reposicionamento | 2,404 |
 
 ### Metodo de aprendizado profundo
@@ -83,8 +84,8 @@ PYTHONPATH=src python -m brtxgnn.predict.txgnn_model
 
 | Metrica | Valor |
 |------|------|
-| Predicoes DL totais | 1,436,436 |
-| Medicamentos unicos | 770 |
+| Predicoes DL totais | 2,138,252 |
+| Medicamentos unicos | 1,037 |
 | Indicacoes unicas | 17,041 |
 
 ### Interpretacao de pontuacoes
