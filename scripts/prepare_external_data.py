@@ -161,6 +161,10 @@ def main():
     relations.to_csv(relations_path, index=False)
     print(f"  藥物-疾病關係數: {len(relations)} -> {relations_path}")
 
+    # /sources/ 頁 TxGNN、ANVISA、DrugBank 表的數字由 docs/_data/source_stats.json 供應（2026-11-05）
+    import generate_source_stats
+    generate_source_stats.main([])
+
     print()
     print("=" * 60)
     print("完成！")

@@ -19,6 +19,7 @@
   10. docs/_data/hreflang.json 裡本站自己的頁（說明頁等，藥物頁除外）存在、不是 noindex／轉址頁、組裡有自我參照、沒有 x-default（2026-11-04）。
   11. 提到 DDInter／DDI 的行只能寫 site_data 的 DDInter 列數、去重配對數（2026-11-05）。
   12. docs/_data/ddi_sources.json＝.github/ddi-versions.json 的 site_data；頁面的 DDInter／GtoPdb 數字與版本用 Liquid 讀它（scripts/sync_ddi_sources.py，2026-11-05）。
+  13. /sources/ 的 TxGNN、ANVISA、DrugBank 數字用 Liquid 讀 docs/_data/source_stats.json（scripts/generate_source_stats.py，2026-11-05）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -434,6 +435,13 @@ try:
     errors.extend(_sds.problems())
 except SystemExit as _e:
     errors.append(f"scripts/sync_ddi_sources.py：{_e}")
+
+# 13) /sources/ 的 TxGNN、ANVISA、DrugBank 數字（2026-11-05 補）：用 Liquid 讀 docs/_data/source_stats.json，不寫死。
+#     資料檔由 scripts/generate_source_stats.py 從 Release 的 data/ 算出（prepare_external_data.py 跑完自動呼叫）。
+_spec13 = _ilu.spec_from_file_location("generate_source_stats", Path(__file__).resolve().parent / "generate_source_stats.py")
+_gss = _ilu.module_from_spec(_spec13)
+_spec13.loader.exec_module(_gss)
+errors.extend(_gss.problems())
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

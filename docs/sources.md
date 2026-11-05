@@ -23,8 +23,8 @@ O BrTxGNN integra múltiplas fontes de dados públicas para garantir a rastreabi
 | **Tipo** | Modelo de previsão de IA |
 | **Fonte** | Zitnik Lab, Harvard Medical School |
 | **Dados** | Grafo de conhecimento biomédico |
-| **Doenças no grafo** | 17.080 |
-| **Relações** | ~80.000 arestas |
+| **Doenças no grafo** | {{ site.data.source_stats.display.txgnn_diseases }} (nós de doença) |
+| **Relações** | {{ site.data.source_stats.display.txgnn_drug_disease_edges }} arestas medicamento–doença (indicação e contraindicação) |
 | **Link** | [zitniklab.hms.harvard.edu/projects/TxGNN](https://zitniklab.hms.harvard.edu/projects/TxGNN/) |
 
 ### ANVISA
@@ -34,7 +34,7 @@ O BrTxGNN integra múltiplas fontes de dados públicas para garantir a rastreabi
 | **Tipo** | Registro regulatório |
 | **Fonte** | Agência Nacional de Vigilância Sanitária |
 | **Dados** | Medicamentos registrados no Brasil |
-| **Registros** | ~42.000 medicamentos |
+| **Registros** | {{ site.data.source_stats.display.anvisa_records }} registros de medicamentos no arquivo ({{ site.data.source_stats.display.anvisa_active }} com situação Ativo) |
 | **Atualização** | Semanal (download automático toda segunda-feira) |
 | **Arquivo** | [DADOS_ABERTOS_MEDICAMENTOS.csv](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | **Link** | [dados.anvisa.gov.br](https://dados.anvisa.gov.br/) |
@@ -74,10 +74,12 @@ O BrTxGNN integra múltiplas fontes de dados públicas para garantir a rastreabi
 | **Tipo** | Base de dados farmacológicos |
 | **Fonte** | University of Alberta |
 | **Dados** | Informações detalhadas de medicamentos |
-| **Entidades** | ~8.000 medicamentos |
+| **Entidades** | {{ site.data.source_stats.display.txgnn_drugbank_drugs }} medicamentos com DrugBank ID no grafo de conhecimento do TxGNN |
 | **Link** | [go.drugbank.com](https://go.drugbank.com/) |
 
 **Uso**: Mapeamento de nomes de medicamentos e informações farmacológicas.
+
+Os números das tabelas TxGNN, ANVISA e DrugBank acima são contados a partir dos arquivos de dados da Release deste repositório (`data/external/disease_vocab.csv`, `drug_disease_relations.csv`, `drugbank_vocab.csv` e `data/raw/br_fda_drugs.json`).
 
 ---
 

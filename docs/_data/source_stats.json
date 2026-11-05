@@ -1,0 +1,20 @@
+{
+  "_source": "Calculado a partir de data/ (Release data-20261105-122515) por scripts/generate_source_stats.py; não editar. Algoritmo no cabeçalho do script.",
+  "release": "data-20261105-122515",
+  "txgnn_diseases": 17080,
+  "txgnn_drug_disease_edges": 80126,
+  "txgnn_drugbank_drugs": 7957,
+  "anvisa_records": 42819,
+  "anvisa_active": 17210,
+  "edges_by_relation": {
+    "contraindication": 61350,
+    "indication": 18776
+  },
+  "display": {
+    "txgnn_diseases": "17.080",
+    "txgnn_drug_disease_edges": "80.126",
+    "txgnn_drugbank_drugs": "7.957",
+    "anvisa_records": "42.819",
+    "anvisa_active": "17.210"
+  }
+}
