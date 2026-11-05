@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer (generic_cancer). 23 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 24 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Notícias sobre câncer (generic_cancer)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
-<strong>câncer (generic_cancer)</strong> tem atualmente <strong>23 notícias</strong> e 93 medicamentos relacionados.
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>24 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -119,7 +119,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (23)
+## Notícias relacionadas (24)
+
+### [Estudo aponta combinação capaz de conter avanço de câncer de pulmão - CNN Brasil](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGdjR1YzaWJjMndDaHJlU0RFN0xtZXpsQzUtU1Vuak9FMVVNTXBlc0xyVk5nSVdDb09CTEt3alpFbEtCbE5pRWZsT3F2VEpzTkF5azVWSnd2eDJvZy1QYmViWS1yblhRSkQ0QWlfVHIxY2w4Mm1PRmVGazllV05Cc1BaUDhHaXpUblVDQUU4TElsRlZFMm9DZm1nUnJsLWJQdVlFRnRB?oc=5)
+
+2026-11-05
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGdjR1YzaWJjMndDaHJlU0RFN0xtZXpsQzUtU1Vuak9FMVVNTXBlc0xyVk5nSVdDb09CTEt3alpFbEtCbE5pRWZsT3F2VEpzTkF5azVWSnd2eDJvZy1QYmViWS1yblhRSkQ0QWlfVHIxY2w4Mm1PRmVGazllV05Cc1BaUDhHaXpUblVDQUU4TElsRlZFMm9DZm1nUnJsLWJQdVlFRnRB?oc=5)
+
+---
 
 ### [Fibras de pitanga e cambuci têm efeito sobre células de câncer, diz USP](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnF3MFE3TVU2YTd5UldUblBZM1dHcmhoR0EwMW9na3J0RHN2OWxBUWhyYndGSDgwSHdDVU9FNW9GQVFTOVNIQTJCampFX1RuTEVQUThYTzBQR05sU1ozV3hfaHhaV0Judi1oS3FCZENEbmRpdUFsRTd6ck5VYnhyNDF3bHRFR24xclBfNUFMM0R3d2lMamo3Sm9HX3VfZkVoWkdTM04yY3NVVW94a3ZBazFkRUZhMlZYbjFJRTh1ckdxQjJqRFR2bnMweWM3UFE?oc=5)
 
