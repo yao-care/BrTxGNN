@@ -32,7 +32,7 @@ SMART on FHIR is an open standard that allows healthcare applications to securel
 | **Repurposing Query** | Display predicted new indication candidates for each drug |
 | **Evidence Level Marking** | Clearly mark the evidence level for each prediction (L1-L5) |
 | **Clinical Trials Query** | Real-time query of related clinical trials on ClinicalTrials.gov |
-| **Drug-Drug Interactions** | Automatically check DDI and display warnings |
+| **Drug-Drug Interactions** | Checks the entered drugs against 15 built-in rules for common high-risk combinations and shows warnings. This is not a full interaction database check: no warning does not mean no interaction. |
 
 ---
 
