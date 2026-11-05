@@ -1,0 +1,15 @@
+{
+  "_note": "Gerado por scripts/sync_ddi_sources.py a partir de site_data em .github/ddi-versions.json; não editar.",
+  "ddinter_rows": 222383,
+  "ddinter_unique_pairs": 160235,
+  "ddinter_drug_names": 1939,
+  "gtopdb_version": "2026.3.1",
+  "gtopdb_drug_target_records": 4808,
+  "gtopdb_release": "data-20261105-122515",
+  "display": {
+    "ddinter_rows": "222.383",
+    "ddinter_unique_pairs": "160.235",
+    "ddinter_drug_names": "1.939",
+    "gtopdb_drug_target_records": "4.808"
+  }
+}
