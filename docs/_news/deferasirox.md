@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com DEFERASIROX. 5 indicações previstas."
 permalink: /news/deferasirox/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Notícias sobre DEFERASIROX
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre DEFERASIROX?">
-<strong>DEFERASIROX</strong> tem atualmente <strong>23 notícias</strong> e 5 indicações previstas.
+<strong>DEFERASIROX</strong> tem atualmente <strong>24 notícias</strong> e 5 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ Esta página combina as indicações previstas por IA para DEFERASIROX com as no
 <p><a href="{{ '/drugs/deferasirox/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (23)
+## Notícias relacionadas (24)
+
+### [Estudo aponta combinação capaz de conter avanço de câncer de pulmão - CNN Brasil](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGdjR1YzaWJjMndDaHJlU0RFN0xtZXpsQzUtU1Vuak9FMVVNTXBlc0xyVk5nSVdDb09CTEt3alpFbEtCbE5pRWZsT3F2VEpzTkF5azVWSnd2eDJvZy1QYmViWS1yblhRSkQ0QWlfVHIxY2w4Mm1PRmVGazllV05Cc1BaUDhHaXpUblVDQUU4TElsRlZFMm9DZm1nUnJsLWJQdVlFRnRB?oc=5)
+
+2026-11-05 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de pulmão</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGdjR1YzaWJjMndDaHJlU0RFN0xtZXpsQzUtU1Vuak9FMVVNTXBlc0xyVk5nSVdDb09CTEt3alpFbEtCbE5pRWZsT3F2VEpzTkF5azVWSnd2eDJvZy1QYmViWS1yblhRSkQ0QWlfVHIxY2w4Mm1PRmVGazllV05Cc1BaUDhHaXpUblVDQUU4TElsRlZFMm9DZm1nUnJsLWJQdVlFRnRB?oc=5)
+
+---
 
 ### [Fibras de pitanga e cambuci têm efeito sobre células de câncer, diz USP](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnF3MFE3TVU2YTd5UldUblBZM1dHcmhoR0EwMW9na3J0RHN2OWxBUWhyYndGSDgwSHdDVU9FNW9GQVFTOVNIQTJCampFX1RuTEVQUThYTzBQR05sU1ozV3hfaHhaV0Judi1oS3FCZENEbmRpdUFsRTd6ck5VYnhyNDF3bHRFR24xclBfNUFMM0R3d2lMamo3Sm9HX3VfZkVoWkdTM04yY3NVVW94a3ZBazFkRUZhMlZYbjFJRTh1ckdxQjJqRFR2bnMweWM3UFE?oc=5)
 

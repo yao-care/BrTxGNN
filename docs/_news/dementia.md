@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre demência (dementia)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre demência (dementia). 2 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre demência (dementia). 3 notícias, 4 medicamentos relacionados."
 permalink: /news/dementia/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Notícias sobre demência (dementia)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre demência (dementia)?">
-<strong>demência (dementia)</strong> tem atualmente <strong>2 notícias</strong> e 4 medicamentos relacionados.
+<strong>demência (dementia)</strong> tem atualmente <strong>3 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «demência» e l
 </ul>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (3)
+
+### [Mudanças de comportamento em idosos podem ser sinais precoces de demência - Folha de S.Paulo](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb04xVldjbmxBX0pyQmtleU0tQlRqN2Uyb1JNZDRKZzI3djNWYkZldDRBbXNxTU9hT094cWF0M3R3UGRzSGFEN0FaSHF1c3NYazZHWk5ROGxacmFLM2F2cFlGRUtDNGdUeGkwcnJqMnlpZE12NHkxeU55NXBBbmRvOEh2M2N2Z0pzazJkaGN1ZVFveW8yVmpCMDdadWRHaGRmNFNid0NfbkN6TkVwRWN0S2ZQelU4SE1qUDFadkdjV0o0Tlk?oc=5)
+
+2026-11-05
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb04xVldjbmxBX0pyQmtleU0tQlRqN2Uyb1JNZDRKZzI3djNWYkZldDRBbXNxTU9hT094cWF0M3R3UGRzSGFEN0FaSHF1c3NYazZHWk5ROGxacmFLM2F2cFlGRUtDNGdUeGkwcnJqMnlpZE12NHkxeU55NXBBbmRvOEh2M2N2Z0pzazJkaGN1ZVFveW8yVmpCMDdadWRHaGRmNFNid0NfbkN6TkVwRWN0S2ZQelU4SE1qUDFadkdjV0o0Tlk?oc=5)
+
+---
 
 ### [Mini-AVC é ligado a risco de demência próximo ao de quem teve AVC](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENVQWx0dnRlaUdlRWFyTzMwVG42R3lIWUpDbDJiX19oZWw0dWF1OW16NU5jdU1ONmppeGJEeFNKdmFnOGJZVUp1UDB6U096WTlmTjRSb0FjSDRZcVc5M21ic1d4SDVuNk9sZHhreUxSMHB5elZEQk1lYV9IUTVyMzc4OXh3V1RoNUVlRTJ3MHU2c3VUa2dsc0lMRHNDUTZRSmhvd2VwelFGM0FFLThTemNkYlZlOC1HSHdF?oc=5)
 
