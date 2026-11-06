@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TICAGRELOR?">
-<strong>TICAGRELOR</strong> tem atualmente <strong>2 notícias</strong> e 9 indicações previstas.
+<strong>TICAGRELOR</strong> tem atualmente <strong>3 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ Esta página combina as indicações previstas por IA para TICAGRELOR com as not
 <p><a href="{{ '/drugs/ticagrelor/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (3)
 
 ### [O melhor horário para ir dormir e reduzir a pressão arterial - Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUE2dk01TjhOZ0k3YmZuU1M5Z3duYU0tVXdJUHRDRFlDeDBqOG4yckJVb29lSDJjSzRRMnlhOUhyRVlJVlhqdHlmbWI5TkNSaDNQejlyTlJ4TElmMXQycVhSeVBPN2tadUIzVjB1QWZENlNldUlUQUNjbFlIeURvbVBjMXRMNjc2Y0VjbURhYnRFUXF5S3NDc0JxVEs?oc=5)
 
 2026-11-04 <span class="news-indication-tag">cardiovascular</span>
 
 Fonte: [Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUE2dk01TjhOZ0k3YmZuU1M5Z3duYU0tVXdJUHRDRFlDeDBqOG4yckJVb29lSDJjSzRRMnlhOUhyRVlJVlhqdHlmbWI5TkNSaDNQejlyTlJ4TElmMXQycVhSeVBPN2tadUIzVjB1QWZENlNldUlUQUNjbFlIeURvbVBjMXRMNjc2Y0VjbURhYnRFUXF5S3NDc0JxVEs?oc=5)
+
+---
+
+### [Pesquisa descobre benefício de comer manga e abacate todos os dias](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUdYTlFwdy1VYUpLYVU0TkZyOWo1VXpLbVpTdFJIYUdQSVVVOGVoTnMtUWpnU3BXYkczYjZqZ0tfdjcyWHRjRU05LVp4TG1IZ19MREJjcDVXMUZLTlBvT19ubDJ0RlBINy1CVUI1bHVfUDlTOHh3Y3V6NGdfWkRHM0MtYnVpQmNjRVhUM3lOMGdsR1JrMGVqUFg2ZHJxdkhxUDJyRWRWS2JqQWc1X3RFajgzU19xcU0ya2xpdnNB?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cardiovascular</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUdYTlFwdy1VYUpLYVU0TkZyOWo1VXpLbVpTdFJIYUdQSVVVOGVoTnMtUWpnU3BXYkczYjZqZ0tfdjcyWHRjRU05LVp4TG1IZ19MREJjcDVXMUZLTlBvT19ubDJ0RlBINy1CVUI1bHVfUDlTOHh3Y3V6NGdfWkRHM0MtYnVpQmNjRVhUM3lOMGdsR1JrMGVqUFg2ZHJxdkhxUDJyRWRWS2JqQWc1X3RFajgzU19xcU0ya2xpdnNB?oc=5)
 
 ---
 

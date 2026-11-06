@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre cardiovascular"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre cardiovascular. 2 notícias, 7 medicamentos relacionados."
+description: "Notícias de saúde sobre cardiovascular. 3 notícias, 7 medicamentos relacionados."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-11-06
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre cardiovascular?">
-<strong>cardiovascular</strong> tem atualmente <strong>2 notícias</strong> e 7 medicamentos relacionados.
+<strong>cardiovascular</strong> tem atualmente <strong>3 notícias</strong> e 7 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ Esta página reúne as notícias de saúde mais recentes sobre «cardiovascular�
 </ul>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (3)
 
 ### [O melhor horário para ir dormir e reduzir a pressão arterial - Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUE2dk01TjhOZ0k3YmZuU1M5Z3duYU0tVXdJUHRDRFlDeDBqOG4yckJVb29lSDJjSzRRMnlhOUhyRVlJVlhqdHlmbWI5TkNSaDNQejlyTlJ4TElmMXQycVhSeVBPN2tadUIzVjB1QWZENlNldUlUQUNjbFlIeURvbVBjMXRMNjc2Y0VjbURhYnRFUXF5S3NDc0JxVEs?oc=5)
 
 2026-11-04
 
 Fonte: [Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUE2dk01TjhOZ0k3YmZuU1M5Z3duYU0tVXdJUHRDRFlDeDBqOG4yckJVb29lSDJjSzRRMnlhOUhyRVlJVlhqdHlmbWI5TkNSaDNQejlyTlJ4TElmMXQycVhSeVBPN2tadUIzVjB1QWZENlNldUlUQUNjbFlIeURvbVBjMXRMNjc2Y0VjbURhYnRFUXF5S3NDc0JxVEs?oc=5)
+
+---
+
+### [Pesquisa descobre benefício de comer manga e abacate todos os dias](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUdYTlFwdy1VYUpLYVU0TkZyOWo1VXpLbVpTdFJIYUdQSVVVOGVoTnMtUWpnU3BXYkczYjZqZ0tfdjcyWHRjRU05LVp4TG1IZ19MREJjcDVXMUZLTlBvT19ubDJ0RlBINy1CVUI1bHVfUDlTOHh3Y3V6NGdfWkRHM0MtYnVpQmNjRVhUM3lOMGdsR1JrMGVqUFg2ZHJxdkhxUDJyRWRWS2JqQWc1X3RFajgzU19xcU0ya2xpdnNB?oc=5)
+
+2026-11-03
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUdYTlFwdy1VYUpLYVU0TkZyOWo1VXpLbVpTdFJIYUdQSVVVOGVoTnMtUWpnU3BXYkczYjZqZ0tfdjcyWHRjRU05LVp4TG1IZ19MREJjcDVXMUZLTlBvT19ubDJ0RlBINy1CVUI1bHVfUDlTOHh3Y3V6NGdfWkRHM0MtYnVpQmNjRVhUM3lOMGdsR1JrMGVqUFg2ZHJxdkhxUDJyRWRWS2JqQWc1X3RFajgzU19xcU0ya2xpdnNB?oc=5)
 
 ---
 

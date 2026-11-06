@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gefitinib?">
-<strong>Gefitinib</strong> tem atualmente <strong>31 notícias</strong> e 9 indicações previstas.
+<strong>Gefitinib</strong> tem atualmente <strong>33 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Esta página combina as indicações previstas por IA para Gefitinib com as not�
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (31)
+## Notícias relacionadas (33)
+
+### [Guia da longevidade: Ana Cláudia Michels lista hábitos para evitar demência - UOL Notícias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmNVM3JhQms0bklFSmJSam5ZeFFKZ1p4MlZrd2UwV3pJaTRXNmFKSllzOWN5NWh6ZkI0VzZLLTlkLTFZUVFGYTRBTHU5YTZsOXEyU3h5Y1cwa1o2NjBfaGktNFFpWWJqZkpHNGdkci1wSU04cWxRZmE3RjhobGM3NVdxak9LVUlJTENyR0tBcVd5a1BTc3ROQ0J4b2lZd2lvdEdZTDRqdlNUZW4yR3FicXJ1MGpaWUZXa0hFQy1rSUw3V2h6N1piaXl4MjhuVHdYY1Rzbg?oc=5)
+
+2026-11-06 <span class="news-indication-tag">demência</span>
+
+Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmNVM3JhQms0bklFSmJSam5ZeFFKZ1p4MlZrd2UwV3pJaTRXNmFKSllzOWN5NWh6ZkI0VzZLLTlkLTFZUVFGYTRBTHU5YTZsOXEyU3h5Y1cwa1o2NjBfaGktNFFpWWJqZkpHNGdkci1wSU04cWxRZmE3RjhobGM3NVdxak9LVUlJTENyR0tBcVd5a1BTc3ROQ0J4b2lZd2lvdEdZTDRqdlNUZW4yR3FicXJ1MGpaWUZXa0hFQy1rSUw3V2h6N1piaXl4MjhuVHdYY1Rzbg?oc=5)
+
+---
 
 ### [Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro - Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx5Q1c4QVB4VWYzclFIZFJNTjJ5THFHTnJab3BISTBBVXhoLUdnMGRENmJZRXVaOE1LcjBXR1lhMXJsbFBtY1Z0M0tCYzVWd00wMVl2QWE3TE92SzFvSzJILVFhdlhEX3E4TEoxa29SSUZ2dF9yM05xa1lRSF9DOGMzNEJyRzF5d0UwY2hHMFFPZG9pa3l2cmJzdjFORUJWbmEtbXJ0TmRvMHByN3AweloybFYzeEpmdVhUdjRvSXduajZoRkdndW41enU1UV9JS3c?oc=5)
 
@@ -56,6 +64,14 @@ Fonte: [Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx
 2026-11-05 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Exame](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU1Ob19Jbzd0S0RhNEVVd3ZZZFZHdWZmOWFoVDh5UU54ZHJzdS0zdGRLSEl2bWc1Q1VqS0wzaGpmcm5CQjhjTFp6TG5McDlrLWJLRHVwTzN1WXF5T1I1bGs3Y1pTNmgyRFJOeExKeU96TGlXc2xoUDQ4NXpyUWtLM0FfOVdjNFo1eXRNRHdFUXctMXBoeUtaLVEybTRxMmszY3dYYkFIcHRST2pqV2g1ZnExalVzMkk?oc=5)
+
+---
+
+### [Lu Make Up: Micropigmentação pode resgatar autoestima de quem teve câncer - UOL Economia](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlGUEZ1U0NqWC15NElyZFRpSVdOS2U4SHBUNjB5WW52b3dxdU10T2JpYWFvSUp3RURicXBlYXI0dHFDdXQtRUdNY3RHajNiVktMQTQ1eXpPMDVVcFVhTlhkX1c4SGV2X2tJb21Qd19CeGJlSUM3U01LdnJQd1A1MzZGR2tYSmlwVWVBVU5pUG4?oc=5)
+
+2026-11-05 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL Economia](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlGUEZ1U0NqWC15NElyZFRpSVdOS2U4SHBUNjB5WW52b3dxdU10T2JpYWFvSUp3RURicXBlYXI0dHFDdXQtRUdNY3RHajNiVktMQTQ1eXpPMDVVcFVhTlhkX1c4SGV2X2tJb21Qd19CeGJlSUM3U01LdnJQd1A1MzZGR2tYSmlwVWVBVU5pUG4?oc=5)
 
 ---
 

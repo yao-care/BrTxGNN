@@ -1,15 +1,171 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-06T13:53:02.491933+00:00",
-  "total_fetched": 94,
-  "unique_count": 93,
-  "health_related_count": 36,
+  "fetched_at": "2026-11-06T22:48:11.025881+00:00",
+  "total_fetched": 95,
+  "unique_count": 92,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "d3502da6d4e3",
+      "title": "A psicologia aponta que quem rabisca o papel durante ligações e reuniões pode não estar distraído, e um estudo mostrou que essas pessoas lembraram de quase 30% mais informações - Super Rádio Tupi",
+      "published": "2026-11-06T20:50:26+00:00",
+      "summary": "A psicologia aponta que quem rabisca o papel durante ligações e reuniões pode não estar distraído, e um estudo mostrou que essas pessoas lembraram de quase 30% mais informações&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPVHFOSDlPOWpwNVJKM0dCRERJbmpyYzJxUjdrOVRYbWdiTTZ5OThkeDQ3cm5aZC1QVm4ydHNSRkY1dlJCZ1paUTlMRTdyYmMwd09BVFVlWl9sNmdsTzhjcWZ5NHhPal8zMTdER3FTclF6ZVdvdEVPVkxuLW9xSWo3eWo1UjViTy1OQVJrLUtxOTBhaW0wRG1wSHhWUnhVVHRlRDRzc2JuVmJkX2ZzVW9FeVBmRWxvZ3Nsb0JZZG82WjJiSi1RRzZnT2ZQdUlKdHRaQUtHZGxDcTV6bkwxZlZ6MDVNZDl5Y3dmV0U3WnQ4SXNoRmNya1dWVEdUbUlTX0NDOWEyR1Z0dV9ySS16QldCVjhrTHJfb3FEc1J6QWxTTFJqdU9iWVN4dVF6SXVBdjV4Sy00dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f1152e78850",
+      "title": "Morre em Erechim, aos 41 anos, o médico Jonatã Leal da Silva - Jornal Bom Dia",
+      "published": "2026-11-06T19:04:00+00:00",
+      "summary": "Morre em Erechim, aos 41 anos, o médico Jonatã Leal da Silva&nbsp;&nbsp;Jornal Bom Dia",
+      "sources": [
+        {
+          "name": "Jornal Bom Dia",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnhMMlhyTXZuT1llcVRYejdTRjdrYXNkZG1oUHFzM3RPNUo3SmMtaU9lZXQ5VnJoVWtEN2xSeDh5MG82aWh2MUR6X3p0M0RGTkRaX1I4TmdBU2FXcFVsV3RKbmVLemJtV3lzSWR3akVlSTR2dWQtM3BUWHlPMFNPYXNxai1xODVjYTI0VGUtdE5Fbm9MNzlZblhSemo1NEhFVXVXOExJYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d82d898cff73",
+      "title": "GCN: Casos de hepatite A disparam em Franca e preocupam autoridades - sampi.net.br",
+      "published": "2026-11-06T18:27:00+00:00",
+      "summary": "GCN: Casos de hepatite A disparam em Franca e preocupam autoridades&nbsp;&nbsp;sampi.net.br",
+      "sources": [
+        {
+          "name": "sampi.net.br",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRGVvTnIyYmU0WHZ5MklOT3ZSVDg2UVUzNVNsSlc0VGNsMFVtQmJDZkpjdTJCWkx5ZF8xVTBSU0R6TlhETk1mRjJhSmEyaVdVaEdQS0hsSWNtcUEyNnJWclVGTDZEb2xLbUJjZjVPcEdpUVpDdGpBSU1ZMGNvX1E3dHh0UGRfNnlkNmpPNEh5SDg3X05MdDJncTZyUUhEVlA1dmZSVGpOVTdzWldlQWZmTV9MeG5jaDVpY3U4czRSamN3UnhLSEJhNHhycw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "adbec0473d26",
+      "title": "INSS terá de levar à perícia médica quem tiver auxílio-doença negado duas vezes seguidas - O GLOBO",
+      "published": "2026-11-06T15:00:54+00:00",
+      "summary": "INSS terá de levar à perícia médica quem tiver auxílio-doença negado duas vezes seguidas&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTTRJTENXVkdsdzZvdWlxLUt1TldSTXM2dnpVN1NRN0lvdzJfQm1WTi1iOFNlaWRlTmk4dWhOc0FITzJlMXllQ29GdFQwMDdwV2oxQ1o1VXFiREl2RG1aQXUzRzg2dWJLbXhaQmlzbUJMd1E3dVMxY2RmVW05T0lWbUxzcWx2Ym9ZSEFwUThNM0xqTlRMQU43cWNuQnZmN2s2VGVNOXc4ODBITGpNRVdrZEhWaWU0T3E5OWFuSm4xaUdXUlFMc1FEVlZ2dUNscV9wMWRGWjZYUFhRUnRPb1pjZdIB7wFBVV95cUxQLUs1V2VreTJwbHc2VUtoS1poN0JkSWxmMzFVX1NpN25KSjFfRG5WSE5WVGhtbmRkSDJSYjlMR0tPZzNkWGx3aHhJYlY4MC1UMUd6SGRNVWhGOC1QTEhHTzBPSXN2N01RSlRaVXd4VDVHQ01TbFJ6WDdnNmlqbU9BTTlhVk0tWVFORVVKa3MxcWtwQXFUYmVsazJxVWlSa0liNUxMSUZOVmVJS2FqcElWaGlHZ1pXUDBnWU9ZSHFZMTVZZTNkV3JyUGlLOWx4M3ZIU3BnR3BBMDYtUC1Ldnc4b2hoLUFnd09sTDhzUDJKaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee2af4bf499c",
+      "title": "CE tem aumento de casos de Mpox em outubro e chega a 18 confirmações em 2026 - Diário do Nordeste",
+      "published": "2026-11-06T14:40:13+00:00",
+      "summary": "CE tem aumento de casos de Mpox em outubro e chega a 18 confirmações em 2026&nbsp;&nbsp;Diário do NordesteCeará registra 18 casos confirmados de Mpox em 2026&nbsp;&nbsp;O POVO+Casos de mpox no Ceará sobem para 40, confirma Sesa&nbsp;&nbsp;Diário do NordesteNOTA OFICIAL Secretaria da Saúde de Sobral confirma dois casos de MPOX no município&nbsp;&nbsp;Prefeitura de SobralCeará registra 40 casos de mpox em 2026, aponta Sesa&nbsp;&nbsp;CN7",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc29qRllIbmpXdkwxTEVVLUhRbXA2Wkp5TXAwUDJBdEx2X29DMEdUUzJPN3Zad3NqX2FKRlhvZ28xMDdfeHV6Vk5DRWRINlYzaTVkQS1wc1VfWlRwMF9hX1pCTXJzRjRaZlNkMDFJQ1l5Y3BqamRLcnpsOFJtQjBVQkE2MDE2V2R4TUFiamxFVVdtRUIybGdsNFJ4ay1CSk9xMDhTTTBqSmRuM1p4RDlXUFdxYkhSMEhoOS1UanhzbU5vZ09wY0xKWHRsODB1WFJrU3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1735189b8cd",
+      "title": "País pode chegar a 860 mil casos prováveis de dengue em 2027 - Agência Brasil",
+      "published": "2026-11-06T14:32:00+00:00",
+      "summary": "País pode chegar a 860 mil casos prováveis de dengue em 2027&nbsp;&nbsp;Agência BrasilMinistério da Saúde projeta alta da dengue em 2027 e quer voltar a usar vacina do Butantan&nbsp;&nbsp;Folha de S.PauloSaúde alerta para alta da dengue e tenta retomar vacina Butantan-DV&nbsp;&nbsp;Poder360Brasil pode ter 2,8 milhões de casos de dengue em 2027 em cenário grave, diz Fiocruz&nbsp;&nbsp;R7Apesar do El Niño, casos de dengue devem manter padrão semelhante ao de anos anteriores, aponta projeção&nbsp;&",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1pQaWR0dFdoZGVqQkVvWTl3YV9SeDBfU2pMY3BYSjdudGFoaVlRRUVSN2dpclRXSHB4VTRzUHp5UV81WjFJSDVudnNuU3VKTjIxRUJURTgxU3h5Rl9pUy1QQVZTbEpwdDdWaG8tYWhDQk94VUhSS3c1RVhUTGJpZXJSWXM5WDl3Q3plcEpTUDQ4QXJKOVdWREV1dnM2UEFqdFdkekl6ZFg4d240WGJBcEwtRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47165535322e",
+      "title": "O novo inimigo das células cancerígenas sempre esteve no pomar da sua avó segundo nova pesquisa brasileira da USP - Terra",
+      "published": "2026-11-06T13:42:00+00:00",
+      "summary": "O novo inimigo das células cancerígenas sempre esteve no pomar da sua avó segundo nova pesquisa brasileira da USP&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMmowbkJWajE3U0RDVzk2TnBCXzhtczl0aGIyNFAteC1WOG5IWWdBN245MWt6U3p5TDE0OW1sV0VXMnZXcE95M0tPLXVyQy1VdjI5aVRMMHlSZW5kTlNlQ0x3M1lEWVhNb2Z6MXE3QnpUdm9ERDFXclhhNDBIV0M1Uy1pT05qNUNDRGVFSXBxb0xKSjdGUFRjOHJ0Skt4Tk1ObEViSU9xMHRiTWhmSDhWQktjejFwUXBQRkpnbTVGaFJ4ZmxYaE1obUJZRURBSFNyVUVZMWZmYTZYLWNSYnh2X0tLc1JWbWp5SVJHTm5fMzRJYkdYZHphOHpLbWJicTVIUTVSdlYwNm9vYUxOWHNjZnVPTHpvY2tLZ3VLc25Qd0dkZnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "424c4db27291",
+      "title": "Período de chuvas no Sudeste: saiba como a previsão do tempo pode ajudar na prevenção da dengue - Climatempo",
+      "published": "2026-11-06T13:32:00+00:00",
+      "summary": "Período de chuvas no Sudeste: saiba como a previsão do tempo pode ajudar na prevenção da dengue&nbsp;&nbsp;ClimatempoSorocaba entra em alerta máximo para dengue com alto índice de infestação do Aedes&nbsp;&nbsp;G1Prefeitura de Piancó reforça orientações para prevenir a proliferação do mosquito da dengue&nbsp;&nbsp;Polêmica ParaíbaChuva e sol: risco da dengue deixa Vigilância em alerta permanente&nbsp;&nbsp;Rádio Santa Cruz FMDengue em Ubatuba: Casos Caem 68% em 2026 e Cidade Intensifica Prevençã",
+      "sources": [
+        {
+          "name": "Climatempo",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUm00OU9TOHg1dzFKNDlSU2JEQ2ZRWWxqajhub0dWYUZGbk1rM0pqLUZvN1RTVkdBS1o2RWU5Y0NCRDhSdHFramlRM09LS0ZNa3F3UU9zT1dvcFBJQ3JzYkhwbW5TWWRmMmN1UjdwdTlzR0UxRkdTZl82Tkh2T2huN295eGplR3RYbFNvQVAxSkh5TFJZZC00bHkxaWxmTENqclVkZEhfQlFSd25IM0FmbDZoNmVRc0VUZHRQUVB2WWpLZWxhME9DZGNZcTRWR0FQOUtHbkRsRnVfZ0NSUGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "828450a4a402",
+      "title": "Intestino do peixe-boi revela milhares de micróbios e enzimas inéditos com potencial para bioenergia e agricultura - Agrimidia",
+      "published": "2026-11-06T11:26:55+00:00",
+      "summary": "Intestino do peixe-boi revela milhares de micróbios e enzimas inéditos com potencial para bioenergia e agricultura&nbsp;&nbsp;Agrimidia",
+      "sources": [
+        {
+          "name": "Agrimidia",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOFpjX2NyWXJrcDlBdlM0OHhBU282X1JmUUZOT201czZFb2VNbEdjSE8xM1ZxTC1hZm40aGd6YW5yWVZsaFZkSExBMGZYRFNZbGVyUGxjWnBGUjhvM2J1b3RQRldmR0lDM1NQMklzcGNYbjYzLVBfZS1pa181eU1mMEFJRVRMYThsdXNLbVJ2RXFWTlhQejlNbGRtUjVuWWpLeXJic05TZVlCLVRhYmFGYXBpSWE4U0RNQkhSQ0Z4N1dVaWNKejNIMjkycFhrcVhqU0lFUFVFbkpkS0pLZ1BaWFd2b3FvWldoWlFpT29ic0toSmt2aXMxV3BqYmo5bURNa21YNw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af45e88948be",
+      "title": "Manaus terá vacinação contra sarampo em 10 unidades neste sábado; veja locais e horários - G1",
+      "published": "2026-11-06T11:15:29+00:00",
+      "summary": "Manaus terá vacinação contra sarampo em 10 unidades neste sábado; veja locais e horários&nbsp;&nbsp;G1Prefeitura realiza ‘Dia D’ de vacinação contra o sarampo&nbsp;&nbsp;Prefeitura de ManausAmazonas faz ‘Dia D’ de vacinação contra o sarampo, neste sábado&nbsp;&nbsp;D24AMPrefeitura de Parintins realiza Dia S Nacional de combate ao Sarampo nesta quarta-feira (4)&nbsp;&nbsp;Prefeitura de ParintinsAmazonas reforça ações contra o sarampo com a implantação de comitê de operações&nbsp;&nbsp;Portal Mári",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcW5xYXVRYjBHX2pEdnBlXzFJeEZZOHRkdDZTVVd5STU4c2lQamxVQW9YdHE2enFfeXh4b2l1OHNSYzlEM3hGcDdhTGZqZVQzTzJsZTN0d2hTNmpUNVlBRVN0d01jMGJDRHJrRGF2N3pHdTA2N3ktQXZ6V3ZCYW1vVno4RnFYVmZNeDVZRkdaV3lIVnE4aUdBZjRjS3N1cGFkV3JyNld4QUNWbXRtVEx2Z0dmU3hFLUM4M3hoRF94R1hpUWVZVkhYenFab0N3bE15T0dvNWc4c0dsMjllSnhWWU8zQ2Vrdkd6c3ZPZWk4XzNzT09lTnfSAYQCQVVfeXFMUDhFa3BUaFduY040V3locGdfVmdvRlhjYlQ3SjFIREszbFdmcnp1ZGc3YXY0OHFyQm9MTFZXTGRLaDlhLTN0d3NuVlVseUYwZkhublFVdjR5ZTBLalZGM3A3R21zd3MwYnRXc25HQ3ZOeVlVUXdlYVYtYVNxeGlDZUdWdVdld1M0MUVXVXBwRkdId2JDbEkyRjBwVUpsX3ltSWFObkViS292cHNDNzQ3WFl6Mkhnem9nQXJ3b2pSN3FfRTFDWGF2M2FSdlk5M2pmYktGSTJpaDdTdDN5OGJnYzJScmtZTkg0amJqemtHMG13cGxmbEFOTUxyVTRXRXJ0bGZiZWk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bcf3ad7c5a2a",
+      "title": "Professor da UFV é co-autor na descoberta de duas novas espécies de macacos bugio - Folha da Mata",
+      "published": "2026-11-06T10:48:00+00:00",
+      "summary": "Professor da UFV é co-autor na descoberta de duas novas espécies de macacos bugio&nbsp;&nbsp;Folha da Mata",
+      "sources": [
+        {
+          "name": "Folha da Mata",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX3ZvR0ZHc0NIV3hpZGpMQUsxRWdQYklfWHJuRi1EN3N1NVN1U3Z2QVBBMTBoczdnbGlaRDNaN0cxTFQyOC03RlZVSGZqYW1TR2NRWTFvYmV3SUNhbHlxV2M0aDVRajB1R1JBQVZqa05ycXdQQkJuajNDT1dLSXQ3Xy12Vk9CNnBneVRyR0VQM3pXRkdOYlZ4RlRidEQ1am5oRmF5eHpQWHE3bUx4c0hMWDVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b378d78db0eb",
+      "title": "Guia da longevidade: Ana Cláudia Michels lista hábitos para evitar demência - UOL Notícias",
+      "published": "2026-11-06T08:30:00+00:00",
+      "summary": "Guia da longevidade: Ana Cláudia Michels lista hábitos para evitar demência&nbsp;&nbsp;UOL Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmNVM3JhQms0bklFSmJSam5ZeFFKZ1p4MlZrd2UwV3pJaTRXNmFKSllzOWN5NWh6ZkI0VzZLLTlkLTFZUVFGYTRBTHU5YTZsOXEyU3h5Y1cwa1o2NjBfaGktNFFpWWJqZkpHNGdkci1wSU04cWxRZmE3RjhobGM3NVdxak9LVUlJTENyR0tBcVd5a1BTc3ROQ0J4b2lZd2lvdEdZTDRqdlNUZW4yR3FicXJ1MGpaWUZXa0hFQy1rSUw3V2h6N1piaXl4MjhuVHdYY1Rzbg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cfb1a79b0bf0",
+      "title": "Zumbido no ouvido pode esconder problemas de saúde; veja quando o sinal exige atenção - Jornal Correio",
+      "published": "2026-11-06T08:00:00+00:00",
+      "summary": "Zumbido no ouvido pode esconder problemas de saúde; veja quando o sinal exige atenção&nbsp;&nbsp;Jornal CorreioNovembro Laranja: campanha busca conscientização sobre o zumbido no ouvido&nbsp;&nbsp;G1Novembro Laranja alerta problemas auditivos que afetam milhões de brasileiros e podem comprometer a qualidade de vida&nbsp;&nbsp;TerraPerda auditiva: sinais discretos podem indicar problema de audição&nbsp;&nbsp;TarobáUsa fones de ouvido todos os dias? Hábito pode causar danos irreversíveis à audição",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYlFYaG1vWkZGRmY3dVVTZDRWRzVLeFkxaG05a3pKc3ZhajJITGlIa2JBV2NfOFRheVl6dDdMV1Y5VHBQMmRlU3lhS3VRcUdEOGZyODRsWEo3amFsYlE4U2lzRkJ0TE5HYlVJMGlNQktVdE5kZkZtU3JNUUtEZE1IZkpOMm1UY3pwRUwtSHhDaGtWNDdILXNubXlndF9QRWdGRTdUay1sMHduaVN5ZWd2eTVjdFdjcWxxMXc4U0NqY3BEV1MzekhfbA?oc=5"
+        }
+      ]
+    },
     {
       "id": "da127df02787",
       "title": "Nutricionistas estipulam o número máximo de ovos para comer em uma semana; entenda - O GLOBO",
       "published": "2026-11-06T07:00:00+00:00",
-      "summary": "Nutricionistas estipulam o número máximo de ovos para comer em uma semana; entenda&nbsp;&nbsp;O GLOBOQuem tem colesterol alto precisa cortar o ovo? O que os estudos mais recentes mostram&nbsp;&nbsp;Tua SaúdeOvos depois dos 60: quantos por semana e como cozinhá-los&nbsp;&nbsp;SAPONutricionistas indicam até sete ovos por semana em dieta equilibrada&nbsp;&nbsp;Diário do Centro do Mundo",
+      "summary": "Nutricionistas estipulam o número máximo de ovos para comer em uma semana; entenda&nbsp;&nbsp;O GLOBOOvo todo dia faz mal? Nutricionista explica quantos ovos consumir por semana&nbsp;&nbsp;TerraQuem tem colesterol alto precisa cortar o ovo? O que os estudos mais recentes mostram&nbsp;&nbsp;Tua SaúdeOvos depois dos 60: quantos por semana e como cozinhá-los&nbsp;&nbsp;SAPONutricionistas indicam até sete ovos por semana em dieta equilibrada&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
           "name": "O GLOBO",
@@ -21,7 +177,7 @@
       "id": "5c385b6c3f31",
       "title": "Um em cada quatro adolescentes no mundo não pratica 60 minutos de atividade física em nenhum dia da semana, aponta estudo - G1",
       "published": "2026-11-06T06:00:00+00:00",
-      "summary": "Um em cada quatro adolescentes no mundo não pratica 60 minutos de atividade física em nenhum dia da semana, aponta estudo&nbsp;&nbsp;G1",
+      "summary": "Um em cada quatro adolescentes no mundo não pratica 60 minutos de atividade física em nenhum dia da semana, aponta estudo&nbsp;&nbsp;G1OMS cobra que adolescentes se movimentem mais após registrar manutenção de inatividade física nos últimos 15 anos&nbsp;&nbsp;VEJAOMS alerta para falta de atividade física entre adolescentes&nbsp;&nbsp;Folha de S.PauloSedentarismo atinge adolescentes e preocupa pesquisadores&nbsp;&nbsp;Aqui NotíciasMeninas também precisam ocupar o tatame: esporte ajuda a combater ",
       "sources": [
         {
           "name": "G1",
@@ -42,30 +198,6 @@
       ]
     },
     {
-      "id": "aed01f305581",
-      "title": "Mpox: casos aumentam no Rio; doença mata? Passa pelo beijo? Veja respostas às principais dúvidas - G1",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "Mpox: casos aumentam no Rio; doença mata? Passa pelo beijo? Veja respostas às principais dúvidas&nbsp;&nbsp;G1Ministério da Saúde vai comprar até 20 mil doses da vacina contra mpox&nbsp;&nbsp;Agência BrasilCom 665 casos, Saúde autoriza compra de 20 mil doses de vacina contra mpox&nbsp;&nbsp;UOL NotíciasMinistério da Saúde autoriza aquisição de 20 mil doses da vacina contra mpox&nbsp;&nbsp;EstadãoMinistério da Saúde autoriza aquisição de 20 mil doses da vacina contra a Mpox&nbsp;&nbsp;CartaCapita",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFJ5ODVJMFIzNXhNVzRaSEZEMzBabFY0cXlvSUZYc0RsUWdLVHZySm9nTEJGWDNkOWhpLWZNZXJ3YU5JcjJ5UlloUEhkSVdJZWc1am9LTkZjVmI5QVl4XzdveVJUeF9ab0E5RWxOSjhtM0xJbVRUVW9VOXdLR1o1WXY0TzhOYlZFdWFnbExyLWdPRnItQVY3QkhDQ3dYMXp4Z1NsVUNOR2lMT2p5N2gtMG05b3RHcmZ6OXV1TXcyRFFtQnpaZmFCMGs4YW5NbUpGeGRUYnpNSDdKLW9H0gHrAUFVX3lxTE02RGpLRXF3cWNRSnJHWXZPNVUzcmZraU0tbG81TVNXWmxZMVI2TTBoQVlNRXE5WVR6Q09adVNkUjhKcjhLRWZobDFoQjlzeE1URUNuX2UwaVNjM1pBall5bEowQ3FUbTgzZ0xaQi1oalhOaE1LaXE4amxEa2pYS2RXUWk2TkpfbmwyVmhWRG9YNEpUQm1EbGRuTFFrVExadHJRakdQem13N0thTTMyNDlCZFlRTnl1eDdLRTZzQnBXYTloSk9sVVUyVS1NcHpMYktyR2VxWE1YYzExdVo5R0pvYzZOYUtLV0FwNVU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d18e55ed15e0",
-      "title": "São Paulo confirma cerca de 60 casos de Mpox nos últimos 30 dias - CNN Brasil",
-      "published": "2026-11-05T21:43:16+00:00",
-      "summary": "São Paulo confirma cerca de 60 casos de Mpox nos últimos 30 dias&nbsp;&nbsp;CNN BrasilSão Paulo concentra quatro em cada dez casos de mpox registrados no Brasil desde 2022&nbsp;&nbsp;Portal da AbelhinhaSão Paulo registra 60 casos de Mpox em 30 dias; veja sintomas&nbsp;&nbsp;Rádio ItatiaiaSP lidera ranking de infecções por Mpox com 4 a cada 10 casos no Brasil&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTTJHWkhFNnZWR25Qd1JDSDg4OUdGa0xQR3VLaERpSHRxVndlczU4dER6QmxWNXppeXY2SWJfbG9pZGZnb1BlcnpseVN0cXQyVmNuRUN0aU9jVkg4X3o5WXZXUDdkVXZQaUNmR19faHRNeXRiV0pUanhGQnhKYmx2cjU1bW95cDBZNTZnWWlWSlpiYVV6NnEyaGZ2SVE4bWQyLUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6c2f346a20d0",
       "title": "Pesquisadora descobre novas espécies de cogumelos raros em MT após fotos nas redes sociais - G1",
       "published": "2026-11-05T20:00:36+00:00",
@@ -78,26 +210,26 @@
       ]
     },
     {
-      "id": "e0382a30c11b",
-      "title": "Pesquisa encontra peixes com tumores 11 anos após desastre de Mariana - Metrópoles",
-      "published": "2026-11-05T19:41:00+00:00",
-      "summary": "Pesquisa encontra peixes com tumores 11 anos após desastre de Mariana&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVy1nd1hoQ2F0d3JfOTUwWjIxM0NPcHNkUDI1YTJZYUQ3LWI0ZzVrRVRRZUcyTlNPYzF4cEVFelRXOVNiRDFVVjhydTlkMU9oUjZvWER2dTFCYzgtUHlhY0NLTXFxSFljaV93QjFCaEhUQlptRGR2REphUlB1RWpQaGgxcER0ZThSVnlSdUZaNnRnVmxyZ01vMmJrWHdkaFhZbjIzX3dZb3VUa18wYnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d55a4580640d",
       "title": "Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro - Diário do Rio",
       "published": "2026-11-05T19:30:42+00:00",
-      "summary": "Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro&nbsp;&nbsp;Diário do RioNovembro Azul: como as mulheres ajudam a vencer o preconceito masculino com os cuidados de saúde&nbsp;&nbsp;O GLOBOPrefeitura de Manaus reforça prevenção ao câncer de próstata com palestra do Novembro Azul&nbsp;&nbsp;Prefeitura de ManausExercício pode reduzir risco de câncer de próstata e ajudar no tratamento, dizem especialistas&nbsp;&nbsp;TerraSorocaba promove ações alusivas à cam",
+      "summary": "Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro&nbsp;&nbsp;Diário do RioPrefeitura de Manaus reforça prevenção ao câncer de próstata com palestra do Novembro Azul&nbsp;&nbsp;Prefeitura de ManausNovembro Azul: Liga faz mutirão de atendimentos&nbsp;&nbsp;G1Cuiabá prepara programação especial com exames e mutirão de biópsias para a saúde do homem&nbsp;&nbsp;Prefeitura de CuiabáPrevenção ao câncer de próstata&nbsp;&nbsp;Portal da Alego",
       "sources": [
         {
           "name": "Diário do Rio",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx5Q1c4QVB4VWYzclFIZFJNTjJ5THFHTnJab3BISTBBVXhoLUdnMGRENmJZRXVaOE1LcjBXR1lhMXJsbFBtY1Z0M0tCYzVWd00wMVl2QWE3TE92SzFvSzJILVFhdlhEX3E4TEoxa29SSUZ2dF9yM05xa1lRSF9DOGMzNEJyRzF5d0UwY2hHMFFPZG9pa3l2cmJzdjFORUJWbmEtbXJ0TmRvMHByN3AweloybFYzeEpmdVhUdjRvSXduajZoRkdndW41enU1UV9JS3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c8602dfe049a",
+      "title": "Quanto mais, melhor? Como o aumento de volume de exercício afeta a saúde do coração - Estadão",
+      "published": "2026-11-05T19:02:00+00:00",
+      "summary": "Quanto mais, melhor? Como o aumento de volume de exercício afeta a saúde do coração&nbsp;&nbsp;EstadãoExercício físico moderado protege contra doenças cardiovasculares&nbsp;&nbsp;Correio do EstadoEstudo revela que mais atividade física amplia proteção contra doenças cardiovasculares&nbsp;&nbsp;A Crítica de Campo GrandeCardiologistas americanos recomendam prescrever exercício como remédio&nbsp;&nbsp;ZatumExercício físico pode fazer mais do que fortalecer o coração — estudo revela novo efeito&nbsp",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbFZYRzI2ODdYTHhjYUZnUDBpZlB0TGUzZERUNDBaXzdIZHhLd1hLcUVsaTQzV0VmQUxOSnFmbDRfRWdoRmlzTmpVSFBULXNjQ3hqLTZTdW56TnhrSF9UTGZrbVR2TFV5empmazI4WDlCQWtoRFNxNE5LRFFObkRCZlJRdGZtOHkxWTVURzRJTDVNVktGcXdySWFVOXZvSjFqNFJNUjY0N2hNUjBTUmw0RGZEcmU2V3FaTTJSSDYxMTdUbGJGTk9HZ09BS3h3NEHSAdQBQVVfeXFMUHJ6RVdmeTBLRzkyN2FYV3A3Ym9qVlhhY3BfTUJsRnc3Wjg5ZXdWZWNUd1h6QjFkUW5BVnY4aDhaaDNCTktaQXM5SDR4bGdFUmM5eC1OV2xBZGg3Zlp4RWNuWVBtd2lKSDRKdVRSZVYtOWhJcmRVendHWlZYVXIxeDRzM0FNMjZkWHRNZ1lwLVczRzlNQkxMVVp5M3pLLUdQTWtJT2JMcm53Y3k5TDFBbG5hc3EtUUVET2lDNWw5YXE1QlRNMkFIelNxR00xWXlLSzVDNFM?oc=5"
         }
       ]
     },
@@ -114,26 +246,26 @@
       ]
     },
     {
-      "id": "00ab7cd42ad6",
-      "title": "Aos 22 anos, jovem perde a fala e passa a ter até 30 convulsões por dia - Metrópoles",
-      "published": "2026-11-05T15:59:00+00:00",
-      "summary": "Aos 22 anos, jovem perde a fala e passa a ter até 30 convulsões por dia&nbsp;&nbsp;MetrópolesJovem perde a fala e sofre até 30 convulsões diárias por doença&nbsp;&nbsp;primeira página scJovem de 22 anos perde a fala e sofre até 30 convulsões por dia&nbsp;&nbsp;ncnews.com.br",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmhsRENJLUhibGpNTDNtME9lX0tfZXpsNkdTR2t2cVlzODRwRE5sVXcwdFUwT21uNVh3WHVwakdnWkUyakh5VVdNZEhPLWE4Q0tFX3BERWVveHg3enQwSjlhOFlORW5OaW14RWEwenpuc2lmSERsWV9iQTR3MGhBTTBNTWFWeGpmcG4xT3NDZ2NYaW5VcFlmV093UXZBSWJKcHhxX3N3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bec5490e8eec",
       "title": "Estudo descobre que alternativa ao sal comum pode evitar milhões de mortes ao ano - Extra online",
       "published": "2026-11-05T15:21:05+00:00",
-      "summary": "Estudo descobre que alternativa ao sal comum pode evitar milhões de mortes ao ano&nbsp;&nbsp;Extra onlineDieta rica em potássio também é importante no controle da pressão alta, diz estudo&nbsp;&nbsp;SuperinteressanteQuer substituir o sal? Novo estudo aponta substituto que pode salvar milhões de vidas&nbsp;&nbsp;NiT New in TownEstudo: sal enriquecido com potássio pode evitar quase 3 milhões de mortes anuais&nbsp;&nbsp;Euronews.comO sal que pode reduzir risco de infarto e AVC em até 15%&nbsp;&nbsp",
+      "summary": "Estudo descobre que alternativa ao sal comum pode evitar milhões de mortes ao ano&nbsp;&nbsp;Extra onlineDieta rica em potássio também é importante no controle da pressão alta, diz estudo&nbsp;&nbsp;SuperinteressanteEstudo: sal enriquecido com potássio pode evitar quase 3 milhões de mortes anuais&nbsp;&nbsp;Euronews.comQuer substituir o sal? Novo estudo aponta substituto que pode salvar milhões de vidas&nbsp;&nbsp;NiT New in TownO sal que pode reduzir risco de infarto e AVC em até 15%&nbsp;&nbsp",
       "sources": [
         {
           "name": "Extra online",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRlNMOFJWbmtkak8wV0haRGt2NDRyNVRUdFhYRlZ0MnZnX1BCRUd4OVQwUnhNdkU2eTlZSVhMYnNQMml4d2g0dXh2RlFXcTJJZkxVWElnaXJ6dmhKUmdpMHNZcmZhTE9TLTJHaGhTVHc4eFJsdlo3LXYzWlVCakhwOFB0LUhtZmNZOGg0TURuSmxqdkZycTlvQlhnc1F6OHdhYlpXUGFTbkVHMS1BN094Z3JFT3dwRHBQbmF4bkZrUU51Uzd3YjA2ZGgtejI3QdIB3AFBVV95cUxQQ0w3bkJlYWdBV3NwVXlOUUtrMFJfZTc4UEVGLVVsWG5FNDh3ZWZ1bkd1by1XTWd1UGR2NEFBWHhFOXluUlE0clhTR09iRGdmTC15NGhEOWNUbGYtUmx2V2pfcl90RnQyVmJnbmdPeVlXRDZDQTZfT3UtYkhPelZOdXNCWml4alN6cnc2bXRhWklYRWFBR1ZlWmNweTVlZlFManpjRTJWNThfT3VoVWpTV3NoT0dGLW5lZlhFdkhKWEhXazhpV2l5UHZkWWpTZWI0UWpJUEFyeDNPOHU5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d034bae303bb",
+      "title": "Ministério da Saúde autoriza aquisição de 20 mil doses da vacina contra mpox por meio da Opas - Governo Federal",
+      "published": "2026-11-05T13:25:39+00:00",
+      "summary": "Ministério da Saúde autoriza aquisição de 20 mil doses da vacina contra mpox por meio da Opas&nbsp;&nbsp;Governo FederalES registra recorde de seis casos de mpox em apenas uma semana; total no ano chega a 17&nbsp;&nbsp;G1Rio retoma vacinação contra Mpox para pessoas com HIV&nbsp;&nbsp;G1Ministério da Saúde vai comprar até 20 mil doses da vacina contra mpox&nbsp;&nbsp;Agência BrasilMinistério da Saúde autoriza compra de 20 mil doses de vacina contra Mpox&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Governo Federal",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS0N5dzhRRW9fcmpQckJ4NUlOa29vYkladnRjeURPNkVvM1JkcmtRY3E1bUc5YmIzaTc5NXFENnBGMHJxSWdtcThKaEFRMVVYTlgyUHQtYllieGVUNmFmYURiVFV3Z2FRZE1OcW5vSUtMRnZ4dldPTkVZV2dSb0pVMEhZQ184UkxBdkdfWmZmTHVNUkxWZksxQWFQS1NwMmt5Vk5qOEd0Q2pBWS1MRXpXdFB6VGxGYm9uMU9tN29mOXJ1S3BQWUNWWmVYOUc3a2NQT1VJRjJKRTNQdjBIWG01czNYUnpOMVVfLUdDUQ?oc=5"
         }
       ]
     },
@@ -146,18 +278,6 @@
         {
           "name": "Exame",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU1Ob19Jbzd0S0RhNEVVd3ZZZFZHdWZmOWFoVDh5UU54ZHJzdS0zdGRLSEl2bWc1Q1VqS0wzaGpmcm5CQjhjTFp6TG5McDlrLWJLRHVwTzN1WXF5T1I1bGs3Y1pTNmgyRFJOeExKeU96TGlXc2xoUDQ4NXpyUWtLM0FfOVdjNFo1eXRNRHdFUXctMXBoeUtaLVEybTRxMmszY3dYYkFIcHRST2pqV2g1ZnExalVzMkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e68f82919a34",
-      "title": "FDA aprova medicamento que traz cura funcional da hepatite B crônica - UOL Notícias",
-      "published": "2026-11-05T12:23:07+00:00",
-      "summary": "FDA aprova medicamento que traz cura funcional da hepatite B crônica&nbsp;&nbsp;UOL Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXhhb0x4bl9leVlNS09DT1VuNW9vOGcxWU9mYVFQRmNHLXFPMUZQZm1kYlo2MTVWMWt0bWQ4VTVfM1hUSVNrUmczR295SUxKSWdnM3ZIbnF2QlVvNHA3WnZ5MHdleW9QRkNyaVRmVlVONVhlX3ZJb0hfMHMxMkQxMGdDS3VheWpGcUFwd3FQMElSdmloQUpnSDNiSG1wRTFIS0xWQ2VmV09jY3dnRUxOVDdwenY2WlhpNXh5dW9RWUdPUUszZURB?oc=5"
         }
       ]
     },
@@ -177,7 +297,7 @@
       "id": "d19f3ab3dcfb",
       "title": "Longevidade: os 5 hábitos comuns entre idosos brasileiros que vivem mais, segundo especialistas em envelhecimento saudável - CNN Brasil",
       "published": "2026-11-05T08:55:14+00:00",
-      "summary": "Longevidade: os 5 hábitos comuns entre idosos brasileiros que vivem mais, segundo especialistas em envelhecimento saudável&nbsp;&nbsp;CNN BrasilComo ajudar pais idosos a envelhecer com qualidade: os hábitos que a gerontologia recomenda&nbsp;&nbsp;Tua SaúdeO que você faz aos 30 anos pode influenciar sua saúde aos 70; veja quais hábitos adotar&nbsp;&nbsp;Catraca LivreCuidados com o envelhecimento saudável devem começar antes da menopausa, alerta ginecologista&nbsp;&nbsp;A TribunaLongevidade saudáv",
+      "summary": "Longevidade: os 5 hábitos comuns entre idosos brasileiros que vivem mais, segundo especialistas em envelhecimento saudável&nbsp;&nbsp;CNN BrasilCuidados com o envelhecimento saudável devem começar antes da menopausa, alerta ginecologista&nbsp;&nbsp;A TribunaComo chegar à velhice sem perder a autonomia? Veja o que a ciência diz&nbsp;&nbsp;Diário do NordesteComo o cuidado da saúde aos 40 anos pode melhorar a vida aos 70 anos?&nbsp;&nbsp;Rádio PampaO que você faz aos 30 anos pode influenciar sua sa",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -186,38 +306,26 @@
       ]
     },
     {
-      "id": "c79a08b570b5",
-      "title": "Ana Cláudia Michels rebate 'chips da beleza': 'Não existe essa tecnologia' - UOL Notícias",
+      "id": "3fbdd963bc47",
+      "title": "Lu Make Up: Micropigmentação pode resgatar autoestima de quem teve câncer - UOL Economia",
       "published": "2026-11-05T08:30:00+00:00",
-      "summary": "Ana Cláudia Michels rebate 'chips da beleza': 'Não existe essa tecnologia'&nbsp;&nbsp;UOL NotíciasGuia da longevidade: Ana Cláudia Michels lista hábitos para evitar demência&nbsp;&nbsp;UOL Notícias",
+      "summary": "Lu Make Up: Micropigmentação pode resgatar autoestima de quem teve câncer&nbsp;&nbsp;UOL EconomiaPreocupações e vergonha ficam lá fora: quando a maquilhagem e a cor ajudam mulheres que têm cancro&nbsp;&nbsp;ZAP Notícias",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlREczc3aDVaQXpvRjdhMmUyY2dDWVBhSXVyN0hwWXItSHpBOTZqSHNaZTNUQ2pqZHhGRmpKMHhRQ0NRbDEzUUxBSmt5Nkp3WjJpSFZnenZJWHFreUowSER2eTN4NF96dERScEtjNGd2bEJDQm5jSDBPVVhLRkpIX3o1X1d6aXM3ZGFjQlY5NVlrU0xMM1VkMmw3SDBKWC1DX0N3?oc=5"
+          "name": "UOL Economia",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlGUEZ1U0NqWC15NElyZFRpSVdOS2U4SHBUNjB5WW52b3dxdU10T2JpYWFvSUp3RURicXBlYXI0dHFDdXQtRUdNY3RHajNiVktMQTQ1eXpPMDVVcFVhTlhkX1c4SGV2X2tJb21Qd19CeGJlSUM3U01LdnJQd1A1MzZGR2tYSmlwVWVBVU5pUG4?oc=5"
         }
       ]
     },
     {
-      "id": "c24af4f2132e",
-      "title": "Semaglutida em comprimido tem o mesmo efeito da caneta? Veja o que dizem os estudos - Terra",
+      "id": "c5fedd433a29",
+      "title": "Mpox: DF confirma oito casos em outubro e investiga circulação do vírus - Correio Braziliense",
       "published": "2026-11-05T08:00:00+00:00",
-      "summary": "Semaglutida em comprimido tem o mesmo efeito da caneta? Veja o que dizem os estudos&nbsp;&nbsp;TerraNova caneta emagrecedora Semaclique chega às farmácias com preço a partir de R$ 333&nbsp;&nbsp;Folha de S.PauloDiabetes: SemaClique: nova caneta de semaglutida chega ao mercado e divulga preço&nbsp;&nbsp;VEJACanetas emagrecedoras alimentam mercado clandestino&nbsp;&nbsp;Estadão Blue StudioWegovy em comprimido é aprovado pela Anvisa: o que falta para chegar às farmácias do Brasil? - BBC News Brasil",
+      "summary": "Mpox: DF confirma oito casos em outubro e investiga circulação do vírus&nbsp;&nbsp;Correio BrazilienseMinistério da Saúde envia 100 doses de vacina contra Mpox ao DF; público-alvo é restrito&nbsp;&nbsp;G1Febre, ínguas e feridas na pele estão entre os sintomas da mpox&nbsp;&nbsp;MetrópolesDF fica sem vacinas contra mpox e organizações LGBT+ acionam Ministério Público&nbsp;&nbsp;Brasil de FatoMpox pode ocorrer sem febre e com uma única lesão: saiba reconhecer os sinais&nbsp;&nbsp;Jornal de Brasíli",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2tNTlFNd2VMUkFScUtuSUExbXFvMmJrektBNXNNdm1yUzU2UzNiSUVNcWdSVGQwaTRNdy1SQ0VqejZMQmdvSmhiR2x5NEI1Vm9VazRMWTZLNWV1VEtsVjl2Rk5zSTV6VXpkRTYyZ3ZDZG1mQlBSTDFzLUlSZ1g4QS1aN2JfZ2pGdk81aWNYeDY1QThuWlJMcktZODBEWFk1MFd5WnlyTEY5bWN4XzU0bDF0VFF5S2JwRnFwT0Q5UERZd1J4UXlvTWJWQW41WTRCeUZtYXFfQUJpMHdERlpVMmR6aG45ZWkxaTdfN2xLRnZ6aVBvc3lfTm1oaktXd3pfZ1RV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "75465a8c45ea",
-      "title": "Carne vermelha pode aumentar o risco de câncer? Entenda o que se sabe - Jornal Correio",
-      "published": "2026-11-05T08:00:00+00:00",
-      "summary": "Carne vermelha pode aumentar o risco de câncer? Entenda o que se sabe&nbsp;&nbsp;Jornal CorreioConsumir carnes processadas aumenta risco de diabete e câncer de intestino; veja o que dizem especialistas&nbsp;&nbsp;TerraMais de 70% dos brasileiros têm hábitos alimentares associados ao risco de câncer colorretal, doença que vitimou Lua Blanco e Preta Gil&nbsp;&nbsp;Bacana NewsSubstituir carne vermelha pode ajudar a evitar o diabetes&nbsp;&nbsp;Correio do EstadoCarne vermelha pode aumentar o risco d",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnh1aHhjOVgtS3J4Ukg1UWo3RE92TDQ4ZWVuS2hZbkRHeG43ZVVKWWgtVmpEQlV5bG9Rc3c2T1NQczFFVXFhR3BDMXpwVlJtOG5meDhWYjQ2R1YzX2ROelp3dnNpcS0xZEdhby1ZUGRvVHZ2Z2hodnRHazgyQ1ZLcU4xQy1Sbmlpbm9hcWpzSm5iVHJPalFXT0RGNEdtQU1CeXBDd1R6S0VFSUN4VlF5VnlOOA?oc=5"
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZVplMUtPbkZnZzJWaVdGZnF1cEl0dDNwZmVtUTR0bW9ZRTlsX0dWVWpISFJNTnRUWHNqaHlhTjZFWFJZWG1UWVNXMGZ1d3Q0bGpyTTYyYjZJV0wtWVRfRldaVDFnMS1KNldYRVBoY2lER0wxYnhsRG5tMllIaEY0Q0VPZjFqVFBUbm9LVDJuT2tFR0FCQnM2SzVCbFFqdUhYTGFkdWF1N2paTEw1RjJLd0RvME5SVHpNMTB3d1c5UVhkR0p4anYyUHlyMy1LeURJR3Z6YWlVNNIB3AFBVV95cUxPSDdLd1JmaG9ocXJhQlQ3U2lfZkl1R3FXaHNLbXlFblJnSUljdWtkZ3ZNYlJoeFB6dENNUEZQaHdiTVVZNi15NjVPZlNhRjdrUDktTDFfX1ZPUGJFaTFtX1pfRV94VnpTY0dpRERHODRFajBHUmE2M0dtVDVPdVZVMkFseDBwWm1CZnZKSi1tNHh4cjVndzdteXhUbmRQSUM4SEtGU0Y1cDdhUG5sbzlXZGN2bjhfanFsWkVQdnpvRHgxdG9QbFNzbllUYWY3SloxaV9kTmt1TDJFUHcw?oc=5"
         }
       ]
     },
@@ -234,70 +342,10 @@
       ]
     },
     {
-      "id": "13e38d7fc5c6",
-      "title": "Estudo aponta combinação capaz de conter avanço de câncer de pulmão - CNN Brasil",
-      "published": "2026-11-05T06:37:57+00:00",
-      "summary": "Estudo aponta combinação capaz de conter avanço de câncer de pulmão&nbsp;&nbsp;CNN BrasilComprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes&nbsp;&nbsp;G1Remédio para câncer de pulmão pode evitar avanço da doença por 7 anos&nbsp;&nbsp;CNN BrasilCombinação de remédios reduz em 45% avanço do câncer de pulmão&nbsp;&nbsp;TV Sim BrasilNovos remédios prometem controlar câncer, diabetes e HIV em 2026&nbsp;&nbsp;ncnews.com.br",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGdjR1YzaWJjMndDaHJlU0RFN0xtZXpsQzUtU1Vuak9FMVVNTXBlc0xyVk5nSVdDb09CTEt3alpFbEtCbE5pRWZsT3F2VEpzTkF5azVWSnd2eDJvZy1QYmViWS1yblhRSkQ0QWlfVHIxY2w4Mm1PRmVGazllV05Cc1BaUDhHaXpUblVDQUU4TElsRlZFMm9DZm1nUnJsLWJQdVlFRnRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9d7df641b52f",
-      "title": "Mpox: com 23 casos e sem vacina, DF pede imunizantes ao Ministério da Saúde - Metrópoles",
-      "published": "2026-11-05T00:33:00+00:00",
-      "summary": "Mpox: com 23 casos e sem vacina, DF pede imunizantes ao Ministério da Saúde&nbsp;&nbsp;MetrópolesMpox: Secretaria de Saúde orienta população sobre prevenção e sintomas da doença&nbsp;&nbsp;Secretaria de Saúde do Distrito FederalMpox: DF teve 23 casos confirmados em 2026, sendo 8 apenas em outubro&nbsp;&nbsp;G1DF fica sem vacinas contra mpox e organizações LGBT+ acionam Ministério Público&nbsp;&nbsp;Brasil de FatoFebre, ínguas e feridas na pele estão entre os sintomas da mpox&nbsp;&nbsp;Metrópole",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEdqZlJnbXVwTldkUHNaSDliXzZqYWNKOU8xWDdsemVETEt1NFdXeE5EZnhUY0VhWG9tU2NGSDc1VDVVSXg3VU90NUVaNlNKV21xLVluWlBraFd1RkI3SXFxRHhfTVVydGpDemR2eTI2Zk5BNHJIZzBuSjFKODFWcFdXbmp6N2FIU2o0WU1zRWRIQmVvS0RZLXJ1aWNzMjdkeUEtMTdUWVZlWHVvNXBpSkRCeUc2MXJX?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f8549482d58b",
-      "title": "Fibras de pitanga e cambuci têm efeito sobre células de câncer, diz USP - UOL",
-      "published": "2026-11-04T20:19:45+00:00",
-      "summary": "Fibras de pitanga e cambuci têm efeito sobre células de câncer, diz USP&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnF3MFE3TVU2YTd5UldUblBZM1dHcmhoR0EwMW9na3J0RHN2OWxBUWhyYndGSDgwSHdDVU9FNW9GQVFTOVNIQTJCampFX1RuTEVQUThYTzBQR05sU1ozV3hfaHhaV0Judi1oS3FCZENEbmRpdUFsRTd6ck5VYnhyNDF3bHRFR24xclBfNUFMM0R3d2lMamo3Sm9HX3VfZkVoWkdTM04yY3NVVW94a3ZBazFkRUZhMlZYbjFJRTh1ckdxQjJqRFR2bnMweWM3UFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de45805e6c94",
-      "title": "Mortes: Transformou o sonho de ser astronauta em pesquisas sobre a vida no espaço - Folha de S.Paulo",
-      "published": "2026-11-04T20:08:00+00:00",
-      "summary": "Mortes: Transformou o sonho de ser astronauta em pesquisas sobre a vida no espaço&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEtyNV92cy1pUlp2cV9IcUQwakIxOWZrY1o5bkExUWZtRHVpNEptMnRTaXMxSzZhNTFDU1MtUTRLcUxFTVpjN0xsc25yZEJIWGtJVTlzN2VSQlpjbHNxX0l4ZVdacFRWR0dSOEhBMWVVMTd1ajlNZy01NjlZUFVNTjQtQ0tpQVFEMzJpZm1LZ2FkX01mb2htdmhFTDZyS09MYm1mQl9LR1FLSVlmNFdJWmEzeHBnaUhpTm5LTlR3U1dGaktibkdKNXhnRWV6WUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e52336c5ed22",
-      "title": "A Bayer quer lançar oito biológicos até 2030. O primeiro vem neste ano - The AgriBiz",
-      "published": "2026-11-04T18:07:10+00:00",
-      "summary": "A Bayer quer lançar oito biológicos até 2030. O primeiro vem neste ano&nbsp;&nbsp;The AgriBiz",
-      "sources": [
-        {
-          "name": "The AgriBiz",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUE1lWThlNGhmdU9rSDVBQXB5bEppTHIwSlFuN2VEdTR5VENyM2lkXzgwRVAtYTdzeDFrRUpWMC1BRm54UkN3ZkYyd3dvYkZBN1Npay03V1o0enRKdzB3T1FqSUF6UzNKYXQtMEhBbXVObF9rZVlocGxjYWxmLXZJaDAtbk5sMUM0X3AyNlFVVEFtRUJXVTFRUWFoNjFqRU1XTF9XM1NOSzdzWnZvQkdCaV9NZlkzWnBpSjJGNDNZR2Zndw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9717821849f7",
       "title": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração - ICL Notícias",
       "published": "2026-11-04T17:19:15+00:00",
-      "summary": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasApenas 30% dos hipertensos seguem o tratamento, dizem médicos ao Dr. Kalil&nbsp;&nbsp;CNN BrasilCombinação de remédios pode melhorar controle da hipertensão&nbsp;&nbsp;Poder360Clínica São Vicente explica o risco de interromper remédios para pressão alta e diabetes&nbsp;&nbsp;O Popular do ParanáApenas 30% dos hipertensos diagnosticados seguem tratamento contínuo no Brasil&nbsp;&nbsp;Leouve",
+      "summary": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasPressão alta pode avançar sem sintomas e exige cuidados preventivos&nbsp;&nbsp;G1Apenas 30% dos hipertensos seguem o tratamento, dizem médicos ao Dr. Kalil&nbsp;&nbsp;CNN BrasilPressão alta: sintomas de alerta e quando procurar atendimento médico&nbsp;&nbsp;Imirante.comCombinação de remédios pode melhorar controle da hipertensão&nbsp;&nbsp;Poder360",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -309,7 +357,7 @@
       "id": "201579f6168a",
       "title": "Vacina contra influenza é liberada para todas as idades no DF - Correio Braziliense",
       "published": "2026-11-04T16:58:00+00:00",
-      "summary": "Vacina contra influenza é liberada para todas as idades no DF&nbsp;&nbsp;Correio BrazilienseVacina da gripe para todos: ampliação da campanha aumenta procura nos postos de vacinação&nbsp;&nbsp;G1Mais que uma obrigação&nbsp;&nbsp;Correio BrazilienseDF libera vacina contra gripe para todas as idades a partir desta quarta-feira (4)&nbsp;&nbsp;Brasil de FatoDF amplia vacinação contra gripe para toda a população&nbsp;&nbsp;Jornal de Brasília",
+      "summary": "Vacina contra influenza é liberada para todas as idades no DF&nbsp;&nbsp;Correio BrazilienseVacina da gripe para todos: ampliação da campanha aumenta procura nos postos de vacinação&nbsp;&nbsp;G1Saiba onde se vacinar contra a gripe neste sábado (7)&nbsp;&nbsp;Jornal de BrasíliaDF contará com 30 pontos de vacinação contra a gripe neste sábado (7/11)&nbsp;&nbsp;MetrópolesMais que uma obrigação&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -330,66 +378,6 @@
       ]
     },
     {
-      "id": "79256445b443",
-      "title": "Especialistas em psicologia revelam que andar rápido não significa apenas ter pressa: o hábito pode indicar menor neuroticismo - Minha Vida Saúde",
-      "published": "2026-11-04T14:45:34+00:00",
-      "summary": "Especialistas em psicologia revelam que andar rápido não significa apenas ter pressa: o hábito pode indicar menor neuroticismo&nbsp;&nbsp;Minha Vida Saúde",
-      "sources": [
-        {
-          "name": "Minha Vida Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVazdHWHpDTk5CYTltQUxPMVB6TGVoU2VMNUh1aFhmdWRNS2RYX1BGUkdWcjgwWnlvQ19Db2U1cjNhb3cxbVR0TXRzLUVSVWNwck15czVfNnJwS1BSOXJ3YtIBZkFVX3lxTE1VZGZzZ2hnT3BoWjExOWZOcFY4ejViYVRrOWdmN3JLaDRvREg3WXpMQnZkWTBWQkFya29fSEJWUklZdVVSVlA0cC0tZldTMDJ5YUt5QlBRQkpkdFNBdkV2ZmQ3MFZBdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc3862c0f74a",
-      "title": "Um ano após acidente que o deixou à beira da morte e de ação na justiça, jovem de Vilhena passou por 3 cirurgias em 4 dias - Folha do Sul",
-      "published": "2026-11-04T14:16:00+00:00",
-      "summary": "Um ano após acidente que o deixou à beira da morte e de ação na justiça, jovem de Vilhena passou por 3 cirurgias em 4 dias&nbsp;&nbsp;Folha do Sul",
-      "sources": [
-        {
-          "name": "Folha do Sul",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcHhaa0hkeURTQmtKaHhfeF9GMEVWTGhEV1hfT2x4LVlmNkV5QzFwdHhVYmVoZXRTal9Oc3pRUmNnZGtNYUNPakFwdXZMT00ybzJ5S2lQSnRPcm5wT1Z5QWI3LVgxVVdHVzVvRkU0MlV3T2U5eGdiQnEzdDA5ZWxpMDNGMXlQaTBJaXk3SG1lUXVUSkx0YmNWMzlvMVNRM3hjRDJjNFh4R2ppck1OanJSYzZONjFBRVE4VW5vZkVVVkZxVmhibHNCMWJrUjVOSkNFQkxfaXdWV1IxNGVvSTVKaHJheEpZX0NZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d24f3c51c28a",
-      "title": "Pane silenciosa em idosos com diabetes esconde risco grave de coma; entenda - UOL Notícias",
-      "published": "2026-11-04T13:57:29+00:00",
-      "summary": "Pane silenciosa em idosos com diabetes esconde risco grave de coma; entenda&nbsp;&nbsp;UOL Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeHhOdkZTTFdKN2E1anFHWTUxMnBIUWY0MkJiRmR2TWlGczhROUtjZVkxLW9DVWN2WnQ5VHpNdWxoUE5kMUxTd2lmT2FJWmVBWk95UFRKTC1TMEZQZ0RhOElid3dxOEJvVmtHQkxTeFEtMVdhQTNOUGRqa3BCRVdzZ1Z0VmUzNjJnQ1ktaFlmSHp0Yl9KNlRxQXQ1WVRIc0k2bDVoVkJFMEVSMTQzR3JnU3JfOUhzWHFHSmM2cXJNQVdxTEx0VTlkTERuZlBlVjNQUlJv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57f2955dde3a",
-      "title": "O melhor horário para ir dormir e reduzir a pressão arterial - Rádio Itatiaia",
-      "published": "2026-11-04T13:10:53+00:00",
-      "summary": "O melhor horário para ir dormir e reduzir a pressão arterial&nbsp;&nbsp;Rádio ItatiaiaQual é o melhor horário para dormir? Estudo mostra por que ir cedo ou tarde demais afeta o coração&nbsp;&nbsp;CNN BrasilEntenda por que 8 horas de sono de boa qualidade são essenciais para a saúde integral&nbsp;&nbsp;ParanashopA imunidade não depende só da alimentação, mas também da qualidade do seu sono&nbsp;&nbsp;Tua SaúdeQual a relação entre o horário de dormir e a sua saúde cardiovascular?&nbsp;&nbsp;Vietna",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUE2dk01TjhOZ0k3YmZuU1M5Z3duYU0tVXdJUHRDRFlDeDBqOG4yckJVb29lSDJjSzRRMnlhOUhyRVlJVlhqdHlmbWI5TkNSaDNQejlyTlJ4TElmMXQycVhSeVBPN2tadUIzVjB1QWZENlNldUlUQUNjbFlIeURvbVBjMXRMNjc2Y0VjbURhYnRFUXF5S3NDc0JxVEs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9347d761e529",
-      "title": "Existe um horário-limite para tomar café sem prejudicar o sono? Veja o que diz a ciência - G1",
-      "published": "2026-11-04T06:00:01+00:00",
-      "summary": "Existe um horário-limite para tomar café sem prejudicar o sono? Veja o que diz a ciência&nbsp;&nbsp;G1Até que horas pode tomar café? Estudo aponta melhor período para proteger o coração e o sono&nbsp;&nbsp;JM OnlineCafé à tarde pode afetar o sono mesmo horas depois, aponta revisão&nbsp;&nbsp;Diário do Centro do MundoSono após o almoço: especialistas explicam quando é normal e quando sinaliza problemas de saúde&nbsp;&nbsp;Francês NewsJP1: Até quantas horas antes de dormir você pode tomar café? Ve",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeEx4a25pTTFoTFo0a0VScXRTQmtPR3NSclB2ZDEybUlyMzN2VzlHQTZNNmNZeXozS2tfV1ZuNGgyLVdmQl8tcmRabFUzOGN2X1RPR3JUVUZDOUNJVkhGeDQyX0NaX0dudHlreHNXUWpzSS00N2dOR1FzQUxPamVlOTRCLV9EUDZRLWMxZWs5WG1sbHNyY3FvcUc4T25FNXpTTnZWZXpTR09MWnVkUjZiamJfc3RiT0ZvZzEzVEdDbTBudjR2NGg0UXlqc2dTX1RWZDJ2Tkhn0gHkAUFVX3lxTE1WSk04TV9xN3B1aHM2LU5Ka2twVzFycVN5VjhVaEtVa1l3cHJjczVGUFFQVHNKdGxjUFlCSGQzVWlUYXNBaldEV3d2U00ycVl4OGNNcHI3eDdzVkkzeUl1a0hFMTZ0S2lVNHdhT2NlR1pWNGlidnJJS2MzbXRjZ2FpR3BRdlZHU1hraUI2c0xEVkt4WXNSLUxhWjhNNEhVUmNzel96MGE4WGM1Y3hRdGk2XzJDQ0tMRUVuRnZOUU9LZkJpdnJTV3lYQm5tUXlRQjQ5NDVYNHZBSVFvVnpIUzFTdVYteA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8488c634b799",
       "title": "Bicicleta faz mal à saúde sexual masculina? Estudo explica o que acontece com o corpo - TNH1",
       "published": "2026-11-04T01:31:00+00:00",
@@ -405,7 +393,7 @@
       "id": "15920c3879a5",
       "title": "Pesquisa descobre benefício de comer manga e abacate todos os dias - UOL",
       "published": "2026-11-03T12:54:59+00:00",
-      "summary": "Pesquisa descobre benefício de comer manga e abacate todos os dias&nbsp;&nbsp;UOLAbacate e manga por dia melhoram artérias de pessoas com pré-diabetes&nbsp;&nbsp;O Cafezinho",
+      "summary": "Pesquisa descobre benefício de comer manga e abacate todos os dias&nbsp;&nbsp;UOLComer estas duas frutas todos os dias pode trazer benefícios à saúde, aponta estudo&nbsp;&nbsp;TerraAbacate e manga por dia melhoram artérias de pessoas com pré-diabetes&nbsp;&nbsp;O CafezinhoEstudo Associa Abacate e Manga a Melhorias na Saúde Cardiovascular&nbsp;&nbsp;Diario EconomicoEstudo associa manga e abacate diários a melhora vascular em pré-diabéticos&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
           "name": "UOL",

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tinidazole?">
-<strong>Tinidazole</strong> tem atualmente <strong>30 notícias</strong> e 10 indicações previstas.
+<strong>Tinidazole</strong> tem atualmente <strong>31 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ Esta página combina as indicações previstas por IA para Tinidazole com as not
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (30)
+## Notícias relacionadas (31)
 
 ### [Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro - Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx5Q1c4QVB4VWYzclFIZFJNTjJ5THFHTnJab3BISTBBVXhoLUdnMGRENmJZRXVaOE1LcjBXR1lhMXJsbFBtY1Z0M0tCYzVWd00wMVl2QWE3TE92SzFvSzJILVFhdlhEX3E4TEoxa29SSUZ2dF9yM05xa1lRSF9DOGMzNEJyRzF5d0UwY2hHMFFPZG9pa3l2cmJzdjFORUJWbmEtbXJ0TmRvMHByN3AweloybFYzeEpmdVhUdjRvSXduajZoRkdndW41enU1UV9JS3c?oc=5)
 
@@ -65,6 +65,14 @@ Fonte: [Exame](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU1Ob19Jbzd0
 2026-11-05 <span class="news-indication-tag">menopausa</span>
 
 Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR2liSkhzUXR5NmwtQVk1bHpaa3BtUTBkZ0JRYUdxRGNsWTB1MUVJX1ppWWRWcUZndDF4QnFqcFVSMXFWaTZ3SnhhWEZmbWNmYUxtMmg4anFteERwdVZlLVFMc1NtVE5jWmVCTzU0YlUwZUpmWmV0dUNOb1NPWFdPUnA0SlBGREFzanhwcDkwRndRUld6bWRidjVpNllUWjZKWmdfY1dDOTBHUkpBWjBkSHVOV00xWFo1c0tNZkZOMVphb1k0UmJPUWlFZi01ek9tYzJtQ015cFRlUkZZbmo5RVc5RUdUeElvWm8tWmdYVkZkNDVyNlE?oc=5)
+
+---
+
+### [Lu Make Up: Micropigmentação pode resgatar autoestima de quem teve câncer - UOL Economia](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlGUEZ1U0NqWC15NElyZFRpSVdOS2U4SHBUNjB5WW52b3dxdU10T2JpYWFvSUp3RURicXBlYXI0dHFDdXQtRUdNY3RHajNiVktMQTQ1eXpPMDVVcFVhTlhkX1c4SGV2X2tJb21Qd19CeGJlSUM3U01LdnJQd1A1MzZGR2tYSmlwVWVBVU5pUG4?oc=5)
+
+2026-11-05 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL Economia](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlGUEZ1U0NqWC15NElyZFRpSVdOS2U4SHBUNjB5WW52b3dxdU10T2JpYWFvSUp3RURicXBlYXI0dHFDdXQtRUdNY3RHajNiVktMQTQ1eXpPMDVVcFVhTlhkX1c4SGV2X2tJb21Qd19CeGJlSUM3U01LdnJQd1A1MzZGR2tYSmlwVWVBVU5pUG4?oc=5)
 
 ---
 

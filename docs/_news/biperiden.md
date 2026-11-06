@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Biperiden?">
-<strong>Biperiden</strong> tem atualmente <strong>4 notícias</strong> e 10 indicações previstas.
+<strong>Biperiden</strong> tem atualmente <strong>5 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Esta página combina as indicações previstas por IA para Biperiden com as not�
 <p><a href="{{ '/drugs/biperiden/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (4)
+## Notícias relacionadas (5)
+
+### [Guia da longevidade: Ana Cláudia Michels lista hábitos para evitar demência - UOL Notícias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmNVM3JhQms0bklFSmJSam5ZeFFKZ1p4MlZrd2UwV3pJaTRXNmFKSllzOWN5NWh6ZkI0VzZLLTlkLTFZUVFGYTRBTHU5YTZsOXEyU3h5Y1cwa1o2NjBfaGktNFFpWWJqZkpHNGdkci1wSU04cWxRZmE3RjhobGM3NVdxak9LVUlJTENyR0tBcVd5a1BTc3ROQ0J4b2lZd2lvdEdZTDRqdlNUZW4yR3FicXJ1MGpaWUZXa0hFQy1rSUw3V2h6N1piaXl4MjhuVHdYY1Rzbg?oc=5)
+
+2026-11-06 <span class="news-indication-tag">demência</span>
+
+Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmNVM3JhQms0bklFSmJSam5ZeFFKZ1p4MlZrd2UwV3pJaTRXNmFKSllzOWN5NWh6ZkI0VzZLLTlkLTFZUVFGYTRBTHU5YTZsOXEyU3h5Y1cwa1o2NjBfaGktNFFpWWJqZkpHNGdkci1wSU04cWxRZmE3RjhobGM3NVdxak9LVUlJTENyR0tBcVd5a1BTc3ROQ0J4b2lZd2lvdEdZTDRqdlNUZW4yR3FicXJ1MGpaWUZXa0hFQy1rSUw3V2h6N1piaXl4MjhuVHdYY1Rzbg?oc=5)
+
+---
 
 ### [Ana Cláudia Michels rebate 'chips da beleza': 'Não existe essa tecnologia' - UOL Notícias](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlREczc3aDVaQXpvRjdhMmUyY2dDWVBhSXVyN0hwWXItSHpBOTZqSHNaZTNUQ2pqZHhGRmpKMHhRQ0NRbDEzUUxBSmt5Nkp3WjJpSFZnenZJWHFreUowSER2eTN4NF96dERScEtjNGd2bEJDQm5jSDBPVVhLRkpIX3o1X1d6aXM3ZGFjQlY5NVlrU0xMM1VkMmw3SDBKWC1DX0N3?oc=5)
 

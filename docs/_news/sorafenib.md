@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Sorafenib?">
-<strong>Sorafenib</strong> tem atualmente <strong>27 notícias</strong> e 6 indicações previstas.
+<strong>Sorafenib</strong> tem atualmente <strong>28 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ Esta página combina as indicações previstas por IA para Sorafenib com as not�
 <p><a href="{{ '/drugs/sorafenib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (27)
+## Notícias relacionadas (28)
 
 ### [Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro - Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx5Q1c4QVB4VWYzclFIZFJNTjJ5THFHTnJab3BISTBBVXhoLUdnMGRENmJZRXVaOE1LcjBXR1lhMXJsbFBtY1Z0M0tCYzVWd00wMVl2QWE3TE92SzFvSzJILVFhdlhEX3E4TEoxa29SSUZ2dF9yM05xa1lRSF9DOGMzNEJyRzF5d0UwY2hHMFFPZG9pa3l2cmJzdjFORUJWbmEtbXJ0TmRvMHByN3AweloybFYzeEpmdVhUdjRvSXduajZoRkdndW41enU1UV9JS3c?oc=5)
 
@@ -53,6 +53,14 @@ Fonte: [Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx
 2026-11-05 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Exame](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU1Ob19Jbzd0S0RhNEVVd3ZZZFZHdWZmOWFoVDh5UU54ZHJzdS0zdGRLSEl2bWc1Q1VqS0wzaGpmcm5CQjhjTFp6TG5McDlrLWJLRHVwTzN1WXF5T1I1bGs3Y1pTNmgyRFJOeExKeU96TGlXc2xoUDQ4NXpyUWtLM0FfOVdjNFo1eXRNRHdFUXctMXBoeUtaLVEybTRxMmszY3dYYkFIcHRST2pqV2g1ZnExalVzMkk?oc=5)
+
+---
+
+### [Lu Make Up: Micropigmentação pode resgatar autoestima de quem teve câncer - UOL Economia](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlGUEZ1U0NqWC15NElyZFRpSVdOS2U4SHBUNjB5WW52b3dxdU10T2JpYWFvSUp3RURicXBlYXI0dHFDdXQtRUdNY3RHajNiVktMQTQ1eXpPMDVVcFVhTlhkX1c4SGV2X2tJb21Qd19CeGJlSUM3U01LdnJQd1A1MzZGR2tYSmlwVWVBVU5pUG4?oc=5)
+
+2026-11-05 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL Economia](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlGUEZ1U0NqWC15NElyZFRpSVdOS2U4SHBUNjB5WW52b3dxdU10T2JpYWFvSUp3RURicXBlYXI0dHFDdXQtRUdNY3RHajNiVktMQTQ1eXpPMDVVcFVhTlhkX1c4SGV2X2tJb21Qd19CeGJlSUM3U01LdnJQd1A1MzZGR2tYSmlwVWVBVU5pUG4?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer (generic_cancer). 27 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 28 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-06
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
-<strong>câncer (generic_cancer)</strong> tem atualmente <strong>27 notícias</strong> e 93 medicamentos relacionados.
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>28 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -119,7 +119,7 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (27)
+## Notícias relacionadas (28)
 
 ### [Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro - Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx5Q1c4QVB4VWYzclFIZFJNTjJ5THFHTnJab3BISTBBVXhoLUdnMGRENmJZRXVaOE1LcjBXR1lhMXJsbFBtY1Z0M0tCYzVWd00wMVl2QWE3TE92SzFvSzJILVFhdlhEX3E4TEoxa29SSUZ2dF9yM05xa1lRSF9DOGMzNEJyRzF5d0UwY2hHMFFPZG9pa3l2cmJzdjFORUJWbmEtbXJ0TmRvMHByN3AweloybFYzeEpmdVhUdjRvSXduajZoRkdndW41enU1UV9JS3c?oc=5)
 
@@ -134,6 +134,14 @@ Fonte: [Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx
 2026-11-05
 
 Fonte: [Exame](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU1Ob19Jbzd0S0RhNEVVd3ZZZFZHdWZmOWFoVDh5UU54ZHJzdS0zdGRLSEl2bWc1Q1VqS0wzaGpmcm5CQjhjTFp6TG5McDlrLWJLRHVwTzN1WXF5T1I1bGs3Y1pTNmgyRFJOeExKeU96TGlXc2xoUDQ4NXpyUWtLM0FfOVdjNFo1eXRNRHdFUXctMXBoeUtaLVEybTRxMmszY3dYYkFIcHRST2pqV2g1ZnExalVzMkk?oc=5)
+
+---
+
+### [Lu Make Up: Micropigmentação pode resgatar autoestima de quem teve câncer - UOL Economia](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlGUEZ1U0NqWC15NElyZFRpSVdOS2U4SHBUNjB5WW52b3dxdU10T2JpYWFvSUp3RURicXBlYXI0dHFDdXQtRUdNY3RHajNiVktMQTQ1eXpPMDVVcFVhTlhkX1c4SGV2X2tJb21Qd19CeGJlSUM3U01LdnJQd1A1MzZGR2tYSmlwVWVBVU5pUG4?oc=5)
+
+2026-11-05
+
+Fonte: [UOL Economia](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlGUEZ1U0NqWC15NElyZFRpSVdOS2U4SHBUNjB5WW52b3dxdU10T2JpYWFvSUp3RURicXBlYXI0dHFDdXQtRUdNY3RHajNiVktMQTQ1eXpPMDVVcFVhTlhkX1c4SGV2X2tJb21Qd19CeGJlSUM3U01LdnJQd1A1MzZGR2tYSmlwVWVBVU5pUG4?oc=5)
 
 ---
 
