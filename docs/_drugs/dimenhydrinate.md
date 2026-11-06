@@ -6,7 +6,7 @@ nav_order: 270
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Dimenhydrinate: nova indicação prevista, Urticária Alérgica (Allergic Urticaria) (nível de evidência L4). Indicação original: Antieméticos e antinauseantes"
+description: "Dimenhydrinate: nova indicação prevista, Urticária Alérgica (Allergic Urticaria) (nível de evidência L5). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
 ---

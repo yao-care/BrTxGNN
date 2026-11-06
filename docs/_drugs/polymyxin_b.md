@@ -6,7 +6,7 @@ nav_order: 534
 evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Polymyxin B: nova indicação prevista, Bronquite (bronchitis) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
+description: "Polymyxin B: nova indicação prevista, Bronquite (bronchitis) (nível de evidência L4). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Polymyxin B"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
 ---

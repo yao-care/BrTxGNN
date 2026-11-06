@@ -6,7 +6,7 @@ nav_order: 330
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-28
-description: "Fusidic Acid: nova indicação prevista, Ceratite de exposição (exposure keratitis) (nível de evidência L4). Indicação original: Antiinfecciosos tópicos"
+description: "Fusidic Acid: nova indicação prevista, Ceratite de exposição (exposure keratitis) (nível de evidência L5). Indicação original: Antiinfecciosos tópicos"
 monitor_inn: "fusidic acid"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
 ---

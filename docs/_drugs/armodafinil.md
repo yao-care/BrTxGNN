@@ -6,7 +6,7 @@ nav_order: 77
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Armodafinil: nova indicação prevista, Insônia (Insomnia) (nível de evidência L5). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
+description: "Armodafinil: nova indicação prevista, Insônia (Insomnia) (nível de evidência L2). Indicação original: Outros produtos que atuam sobre o sistema nervoso"
 monitor_inn: "armodafinil"
 predicted_indications: ["insomnia (disease)"]
 ---

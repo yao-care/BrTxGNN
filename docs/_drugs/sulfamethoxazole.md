@@ -6,7 +6,7 @@ nav_order: 599
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Sulfamethoxazole: nova indicação prevista, Conjuntivite contagiosa aguda (acute contagious conjunctivitis) (nível de evidência L4). Indicação original: Trimetoprima em associação com sulfas"
+description: "Sulfamethoxazole: nova indicação prevista, Conjuntivite contagiosa aguda (acute contagious conjunctivitis) (nível de evidência L5). Indicação original: Trimetoprima em associação com sulfas"
 monitor_inn: "Sulfamethoxazole"
 predicted_indications: ["acute contagious conjunctivitis"]
 ---

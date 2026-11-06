@@ -6,7 +6,7 @@ nav_order: 297
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-11-03
-description: "Erythromycin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L4). Indicação original: Antibióticos sistêmicos simples"
+description: "Erythromycin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 ---

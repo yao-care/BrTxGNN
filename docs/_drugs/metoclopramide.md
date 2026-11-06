@@ -6,7 +6,7 @@ nav_order: 453
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Metoclopramide: nova indicação prevista, Gastroduodenite (nível de evidência L4). Indicação original: Antieméticos e antinauseantes"
+description: "Metoclopramide: nova indicação prevista, Gastroduodenite (nível de evidência L5). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 ---

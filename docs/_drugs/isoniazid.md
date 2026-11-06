@@ -6,7 +6,7 @@ nav_order: 376
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Isoniazid: nova indicação prevista, Conjuntivite (Conjunctivitis) (nível de evidência L4). Indicação original: Tuberculostáticos (tratamento da tuberculose)"
+description: "Isoniazid: nova indicação prevista, Conjuntivite (Conjunctivitis) (nível de evidência L5). Indicação original: Tuberculostáticos (tratamento da tuberculose)"
 monitor_inn: "isoniazid"
 predicted_indications: ["conjunctivitis"]
 ---
