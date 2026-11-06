@@ -113,13 +113,13 @@ Para advertências e contraindicações completas, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para gastroparesia tem apenas respaldo computacional (nível L5), sem ensaios clínicos ou literatura, e sem mecanismo plausível documentado. O escore de 0.9932 vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 17 registros válidos de 17.
+A previsão para gastroparesia tem apenas respaldo computacional (nível L5), sem ensaios clínicos ou literatura, e sem mecanismo plausível documentado. O escore de 0.9932 vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da treonina e de uma possível relação com a motilidade gástrica
 - Busca sistemática de ensaios clínicos e literatura sobre treonina em gastroparesia
 - Bulas da ANVISA com advertências e contraindicações, para a triagem de segurança
-- Esclarecimento da situação regulatória atual (medicamento comercializado, com 17 registros válidos de 17) e das vias de administração compatíveis com a nova indicação
+- Esclarecimento da situação regulatória atual e das vias de administração compatíveis com a nova indicação
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

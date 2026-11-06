@@ -87,7 +87,6 @@ Há, porém, limitações importantes. Não existem dados de Fase 3 que mostrem 
 
 ## Informações de Comercialização no Brasil
 
-
 ## Citotoxicidade
 
 | Item | Conteúdo |
@@ -112,13 +111,13 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 **Decisão: Hold**
 
 **Justificativa:**
-- Há dois estudos de Fase 2 diretamente relevantes (ambos com 29 participantes; um concluído, outro com status desconhecido) e vários estudos de Fase 2 publicados, mas sem Fase 3, com resultados heterogêneos (inclusive um estudo de segunda linha negativo) e sem demonstração de superioridade sobre o padrão. A oxaliplatina também não tem registro no Brasil e as informações de segurança da bula estão ausentes, o que impede avançar para a triagem de segurança.
+- Há dois estudos de Fase 2 diretamente relevantes (ambos com 29 participantes; um concluído, outro com status desconhecido) e vários estudos de Fase 2 publicados, mas sem Fase 3, com resultados heterogêneos (inclusive um estudo de segunda linha negativo) e sem demonstração de superioridade sobre o padrão. As informações de segurança da bula estão ausentes, o que impede avançar para a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula aprovada (advertências e contraindicações) na ANVISA.
 - Complementar os dados de mecanismo de ação via DrugBank.
 - Avaliar os resultados do NCT00859469 (concluído) e comparar com o esquema padrão cisplatina/pemetrexede.
-- Verificar a viabilidade regulatória no Brasil (ausência de registro vigente) antes de qualquer plano de desenvolvimento.
+- Verificar a viabilidade regulatória no Brasil antes de qualquer plano de desenvolvimento.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -118,12 +118,12 @@ Consulte a bula para as demais informações de segurança.
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Para transtorno hipertensivo há meta-análises de ensaios randomizados e ensaios de Fase 3 concluídos com potássio, o que sustenta nível L1 e uma direção plausível. Porém, os ensaios diretamente relevantes são pequenos ou antigos, os registros brasileiros estão todos cancelados e a evidência refere-se à ingestão/suplementação de potássio, não a um medicamento específico.
+Para transtorno hipertensivo há meta-análises de ensaios randomizados e ensaios de Fase 3 concluídos com potássio, o que sustenta nível L1 e uma direção plausível. Porém, os ensaios diretamente relevantes são pequenos ou antigos e a evidência refere-se à ingestão/suplementação de potássio, não a um medicamento específico.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), hoje ausentes nos dados compilados
 - Complementar os dados de mecanismo de ação (DrugBank)
-- Definir formulação, dose e via de administração e verificar a possibilidade de novo registro, já que não há registro válido
+- Definir formulação, dose e via de administração e verificar a possibilidade de novo registro
 - Estabelecer plano de monitoramento do potássio sérico e critérios de exclusão (insuficiência renal, uso de IECA/BRA/ARNI, antagonistas de mineralocorticoides ou diuréticos poupadores de potássio)
 - Realizar ensaios controlados maiores e com desfecho claro para o uso de potássio em hipertensão
 ## Aviso de isenção de responsabilidade

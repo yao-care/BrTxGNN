@@ -70,7 +70,7 @@ Consulte a bula para informações de segurança. Não há dados de interações
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos nem literatura. O fármaco não tem registro ativo no Brasil e o perfil de risco dos benzodiazepínicos pesa contra o uso na enxaqueca.
+A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos nem literatura.
 
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA, com advertências e contraindicações, para a triagem de segurança.

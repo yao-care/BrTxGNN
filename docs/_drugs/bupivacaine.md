@@ -72,7 +72,7 @@ A pontuação alta (0,9923) vem do modelo TxGNN (deep learning) e pode refletir 
 
 ## Informações de Comercialização no Brasil
 
-Todos os 12 registros estão válidos (12 de 12). A indicação aprovada em todos é "Anestésicos locais". Principais registros:
+A indicação aprovada em todos é "Anestésicos locais". Principais registros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

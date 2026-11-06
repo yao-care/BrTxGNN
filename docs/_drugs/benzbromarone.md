@@ -101,7 +101,7 @@ Para as demais informações de segurança (advertências, contraindicações), 
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem estudos de eficácia, e o nível de evidência é L5. O mecanismo (inibição do URAT1) vai contra o objetivo terapêutico, pois reproduziria o defeito da doença, e o único registro brasileiro está cancelado.
+- Não há ensaios clínicos nem estudos de eficácia, e o nível de evidência é L5. O mecanismo (inibição do URAT1) vai contra o objetivo terapêutico, pois reproduziria o defeito da doença.
 
 **Para prosseguir, é necessário:**
 - Confirmar se a previsão é um artefato de associação gene/via, e não de benefício terapêutico, antes de qualquer investimento adicional.

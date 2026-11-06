@@ -120,11 +120,10 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Para lentiginose generalizada familiar, a evidência é apenas a previsão do modelo (L5), sem ensaios nem literatura. O registro brasileiro está cancelado, e não há dados de bula.
+- Para lentiginose generalizada familiar, a evidência é apenas a previsão do modelo (L5), sem ensaios nem literatura. Não há dados de bula.
 - A indicação com evidência mais avançada, schwannoma de nervo periférico (L3), segue como questão de pesquisa: o único ensaio com selumetinibe nessa área foi encerrado com 10 participantes, sem resultados fornecidos.
 
 **Para prosseguir, é necessário:**
-- Obter a bula da ANVISA (advertências e contraindicações) e esclarecer a situação do registro cancelado.
 - Complementar os dados do mecanismo de ação.
 - Buscar evidências específicas para lentiginose generalizada familiar (relatos de caso, estudos pré-clínicos).
 - Acompanhar os resultados dos estudos de fase 2 em NF2 e avaliar priorizar o schwannoma como indicação-alvo.

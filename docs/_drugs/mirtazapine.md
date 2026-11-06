@@ -68,7 +68,7 @@ Outras previsões do modelo seguem a mesma lógica:
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados são de medicamentos de componente único e estão **cancelados**; não há registro válido atualmente. Exibem-se os 5 primeiros.
+Todos os 20 registros encontrados são de medicamentos de componente único e estão **cancelados**. Exibem-se os 5 primeiros.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -122,14 +122,14 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura, e sem plausibilidade mecanística. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos.
+- A previsão baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura, e sem plausibilidade mecanística.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da mirtazapina (DrugBank) e análise de sua ligação com a biologia da síndrome de Ohdo
 - Advertências e contraindicações da bula na ANVISA, para a triagem de segurança
 - Revisão sistemática da literatura e de registros de ensaios, incluindo evidências pré-clínicas
 - Justificativa clínica para um possível uso sintomático (sono ou humor), com avaliação de segurança em crianças
-- Verificação da situação regulatória, dado que não há registro válido no Brasil
+- Verificação da situação regulatória
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

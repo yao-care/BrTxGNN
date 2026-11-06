@@ -79,7 +79,6 @@ Para a indicação principal (hipertensão pulmonar de mecanismo incerto), atual
 | [2487551](https://pubmed.ncbi.nlm.nih.gov/2487551/) | 1989 | Estudo hemodinâmico agudo | Cardiovasc Drugs Ther | Efeitos agudos do felodipino na hemodinâmica central e no fluxo sanguíneo regional em 10 pacientes com insuficiência cardíaca congestiva grave |
 | [3154329](https://pubmed.ncbi.nlm.nih.gov/3154329/) | 1988 | Revisão | Cardiovasc Drugs Ther | Uso e eficácia comparativa dos bloqueadores de cálcio na hipertensão e arritmias supraventriculares |
 
-
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [7744087](https://pubmed.ncbi.nlm.nih.gov/7744087/) | 1995 | Duplo-cego, randomizado, cruzado (angina estável) | Eur Heart J | Felodipino ER 10 mg e nifedipino SR melhoraram a duração do exercício (66 s e 50 s) em 43 pacientes |
@@ -112,14 +111,14 @@ Para advertências e contraindicações da bula, consulte a bula aprovada, pois 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal (hipertensão pulmonar de mecanismo incerto) tem apenas suporte computacional (L5), sem ensaios ou publicações, e há ressalvas fisiopatológicas (benefício limitado dos bloqueadores de cálcio fora do subgrupo vasorreativo; risco na hipoxia). Além disso, o único registro brasileiro está cancelado.
+- A previsão principal (hipertensão pulmonar de mecanismo incerto) tem apenas suporte computacional (L5), sem ensaios ou publicações, e há ressalvas fisiopatológicas (benefício limitado dos bloqueadores de cálcio fora do subgrupo vasorreativo; risco na hipoxia).
 - As melhores evidências são para o cor pulmonale crônico (L4, apenas estudos hemodinâmicos agudos), classificado como questão de pesquisa.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação a partir do DrugBank
 - Bula do ANVISA com advertências e contraindicações (lacuna bloqueante para a triagem de segurança)
 - Confirmação do desenho dos estudos (randomização, desfechos) na angina de Prinzmetal e definição de vantagem frente aos bloqueadores de cálcio já disponíveis
-- Avaliação da viabilidade regulatória e comercial, dado que o registro está cancelado
+- Avaliação da viabilidade regulatória e comercial
 - Se houver interesse em hipertensão pulmonar, evidências específicas (ensaios) em subgrupos vasorreativos e avaliação da via de administração e formulação
 ## Aviso de isenção de responsabilidade
 

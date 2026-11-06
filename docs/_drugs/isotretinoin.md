@@ -64,7 +64,7 @@ Como não há estudo clínico nem publicação que avalie diretamente esta doen�
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, os 3 registros existentes no Brasil estão cancelados e não há registro válido. A lista detalhada de registros não está disponível nos dados compilados.
+A lista detalhada de registros não está disponível nos dados compilados.
 
 ## Considerações de Segurança
 
@@ -79,7 +79,7 @@ Consulte a bula para informações de segurança complementares.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se sustenta apenas na pontuação do modelo, sem ensaios clínicos nem literatura sobre esta doença. Os registros no Brasil estão todos cancelados, e há contraindicações e interações relevantes.
+- A previsão se sustenta apenas na pontuação do modelo, sem ensaios clínicos nem literatura sobre esta doença. Há contraindicações e interações relevantes.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) da isotretinoína

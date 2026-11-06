@@ -40,7 +40,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Cabergolina é um agonista dopaminérgico utilizado principalmente no tratamento da hiperprolactinemia e da doença de Parkinson.
 O presente Evidence Pack **não contém previsões TxGNN** para novas indicações — o campo `predicted_indications` está vazio — portanto não é possível avaliar candidatos de reposicionamento neste ciclo.
-Existem **20 registros** da substância no mercado brasileiro, porém os detalhes dos registros não foram recuperados nesta execução.
 
 ---
 
@@ -60,13 +59,11 @@ Existem **20 registros** da substância no mercado brasileiro, porém os detalhe
 
 ## Por que Este Relatório Está Incompleto?
 
-Este Evidence Pack foi gerado com **dados parciais**: apenas a consulta ao banco regulatório brasileiro (TFDA/ANVISA) e ao DrugBank foram executadas, mas os campos de retorno dos registros estão em branco (campos `license_number`, `product_name_zh`, `approved_indication_text` todos vazios).
-
 Há dois bloqueios críticos identificados no `meta.data_gaps`:
 
 | ID | Item Faltante | Severidade | Impacto |
 |----|--------------|-----------|---------|
-| DG001 | TFDA/ANVISA — advertências e contraindicações da bula | **Bloqueante** | Impede avaliação inicial de segurança |
+| DG001 | ANVISA — advertências e contraindicações da bula | **Bloqueante** | Impede avaliação inicial de segurança |
 | DG002 | Mecanismo de ação (MOA) | Alta | Impede análise de relevância mecanística |
 
 Adicionalmente, o campo `predicted_indications` retornou **lista vazia**, o que significa que o pipeline TxGNN não gerou candidatos de reposicionamento para CABERGOLINA neste ciclo. Sem candidatos, não há base para avaliação de nova indicação.

@@ -97,7 +97,7 @@ Nota complementar: o grafo de conhecimento utilizado pelo TxGNN (PrimeKG) regist
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para bronquite tem pontuação alta no TxGNN, mas é sustentada apenas pelo modelo (nível L5), sem ensaios clínicos e sem literatura que avalie o ácido benzoico. Além disso, o único registro na ANVISA está cancelado e faltam dados de segurança de bula.
+- A previsão para bronquite tem pontuação alta no TxGNN, mas é sustentada apenas pelo modelo (nível L5), sem ensaios clínicos e sem literatura que avalie o ácido benzoico.
 
 **Para prosseguir, é necessário:**
 - Obter a bula na ANVISA e analisar advertências e contraindicações, etapa que bloqueia a triagem de segurança

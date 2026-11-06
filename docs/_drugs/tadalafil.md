@@ -121,7 +121,7 @@ Entre as demais previsões, a única publicação identificada refere-se à enxa
 
 **Justificativa:**
 - A previsão baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. O racional farmacológico sugere inclusive direção oposta à terapêutica, já que vasodilatadores podem causar hipertricose.
-- A tadalafila não tem registro comercializado no Brasil nos dados compilados, e há contraindicações extensas segundo o grafo de conhecimento.
+- Há contraindicações extensas segundo o grafo de conhecimento.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) a partir do DrugBank, para permitir análise mecanística formal.

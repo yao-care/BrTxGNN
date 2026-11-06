@@ -75,7 +75,6 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Atualmente não há literatura relacionada para amenorreia.
 
-
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [33496999](https://pubmed.ncbi.nlm.nih.gov/33496999/) | 2021 | Coorte | Dermatologic Therapy | Série de 75 pacientes brasileiros com vasculopatia livedoide (clínica, histopatologia e terapia), em centro único da USP |
@@ -90,7 +89,7 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para amenorreia tem pontuação alta no modelo, mas não conta com ensaios clínicos, literatura nem vínculo mecanístico plausível (nível L5). Além disso, a diosmina não possui registro ativo no Brasil nos dados compilados.
+A previsão para amenorreia tem pontuação alta no modelo, mas não conta com ensaios clínicos, literatura nem vínculo mecanístico plausível (nível L5).
 
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (MOA) em fonte como o DrugBank

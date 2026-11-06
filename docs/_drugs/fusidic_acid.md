@@ -101,7 +101,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança.
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank).
 - Buscar evidências específicas do uso de ácido fusídico oftálmico em ceratite de exposição ou em suas infecções secundárias.
-- Avaliar a compatibilidade de via de administração e formulação oftálmica, além da situação regulatória, já que não há registro vigente.
+- Avaliar a compatibilidade de via de administração e formulação oftálmica, além da situação regulatória.
 - Considerar a análise de outras indicações previstas, como a otite externa (rank 3), cuja plausibilidade biológica é maior (infecção por *S. aureus*), embora a literatura disponível seja indireta (bacteriologia e vigilância de resistência, em grande parte veterinária) e exija revisão dos dados de resistência.
 ## Aviso de isenção de responsabilidade
 

@@ -72,7 +72,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, o ibuprofeno consta como comercializado no Brasil, com 13 registros válidos e 7 cancelados. Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.
+Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.
 
 ## Considerações de Segurança
 

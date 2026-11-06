@@ -81,12 +81,12 @@ Consulte a bula para informações de segurança completas. Nenhum dado de adver
 **Decisão: Hold**
 
 **Justificativa:**
-O modelo TxGNN não produziu previsões de reposicionamento para este fármaco, e os dados regulatórios brasileiros indicam ausência de registros na ANVISA. Sem um `drugbank_id` válido integrado ao pipeline, não é possível gerar ou validar candidatos de reposicionamento.
+O modelo TxGNN não produziu previsões de reposicionamento para este fármaco. Sem um `drugbank_id` válido integrado ao pipeline, não é possível gerar ou validar candidatos de reposicionamento.
 
 **Para prosseguir, é necessário:**
 
 - **Resolver DG002 (Crítico):** Obter e integrar o `drugbank_id` correto para Amorolfina — a consulta ao DrugBank encontrou 1 resultado (`result_count: 1`), mas o ID não foi inserido no registro; revisar o pipeline de mapeamento
-- **Resolver DG001 (Bloqueante):** Baixar e analisar a bula ANVISA/TFDA para extrair advertências e contraindicações
+- **Resolver DG001 (Bloqueante):** Baixar e analisar a bula ANVISA para extrair advertências e contraindicações
 - **Reexecutar o modelo TxGNN** após integração do DrugBank ID para gerar previsões válidas
 - **Verificar o status regulatório brasileiro** diretamente na base da ANVISA usando o nome AMOROLFINA, CLORIDRATO DE AMOROLFINA e o nome comercial Loceryl® (comercializado em outros mercados)
 - **Avaliar barreira farmacocinética:** dado que a formulação padrão é tópica (esmalte ungueal), documentar se há formulações sistêmicas disponíveis que tornariam o reposicionamento clinicamente viável

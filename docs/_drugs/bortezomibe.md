@@ -80,7 +80,7 @@ Atualmente não há previsão de nova indicação, portanto não foram coletadas
 
 ## Informações de Comercialização no Brasil
 
-O bortezomibe possui **20 registros** com status "Comercializado". No entanto, os detalhes dos registros (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram preenchidos no Evidence Pack atual**.
+O bortezomibe possui **20 registros** com status "Comercializado".
 
 > ⚠️ É necessário complementar os dados de registro junto à ANVISA para completar esta seção.
 

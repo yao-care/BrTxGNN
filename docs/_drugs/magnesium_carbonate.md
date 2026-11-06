@@ -38,7 +38,6 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 ## Resumo em Uma Frase
 
-Carbonato de magnésio é um sal de magnésio usado como antiácido e em associações analgésicas não narcóticas, com registros hoje todos cancelados no Brasil.
 O modelo TxGNN prevê que pode ser eficaz para **doença ulcerosa péptica ativa (active peptic ulcer disease)**,
 mas há **0 ensaios clínicos** e apenas **1 publicação** (um estudo in vitro) apoiando esta direção.
 

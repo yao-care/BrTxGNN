@@ -88,13 +88,13 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia somente na pontuação do modelo (nível L5), sem ensaios clínicos, sem literatura e sem racional mecanístico plausível. Além disso, o único registro no Brasil está cancelado.
+A previsão se apoia somente na pontuação do modelo (nível L5), sem ensaios clínicos, sem literatura e sem racional mecanístico plausível.
 
 **Para prosseguir, é necessário:**
 - Obter os dados do mecanismo de ação (por exemplo, via DrugBank) e avaliar qualquer vínculo biológico entre a inibição de JAK1 e a síndrome prevista
 - Baixar e analisar a bula na ANVISA para obter advertências e contraindicações, etapa que bloqueia a triagem de segurança
 - Realizar busca sistemática de literatura e de registros de ensaios clínicos, além de estudos pré-clínicos que sustentem a hipótese
-- Esclarecer a situação regulatória atual do fármaco no Brasil, já que o registro encontrado está cancelado
+- Esclarecer a situação regulatória atual do fármaco no Brasil
 - Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original, hoje pendentes
 ## Aviso de isenção de responsabilidade
 

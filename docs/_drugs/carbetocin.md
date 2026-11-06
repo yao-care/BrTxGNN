@@ -82,13 +82,13 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão está no nível L5: baseia-se apenas no modelo, sem ensaios clínicos nem literatura, e a biologia da doença (malformação congênita por perturbação de retinoides) não oferece alvo plausível para um agonista de oxitocina. Além disso, os dois registros brasileiros estão cancelados.
+- A previsão está no nível L5: baseia-se apenas no modelo, sem ensaios clínicos nem literatura, e a biologia da doença (malformação congênita por perturbação de retinoides) não oferece alvo plausível para um agonista de oxitocina.
 
 **Para prosseguir, é necessário:**
 - Evidência independente (pré-clínica ou clínica) que sustente um vínculo mecanístico entre a sinalização do receptor de oxitocina e a doença prevista
 - Dados detalhados do mecanismo de ação (MOA) da carbetocina
 - Advertências e contraindicações da bula da ANVISA, ainda não disponíveis
-- Avaliação de viabilidade regulatória, dado que não há registro vigente no Brasil
+- Avaliação de viabilidade regulatória
 - Reavaliação de outras indicações previstas, ou das direções já exploradas clinicamente para a carbetocina (como a síndrome de Prader-Willi), que têm racionalidade farmacológica mais clara
 ## Aviso de isenção de responsabilidade
 

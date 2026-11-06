@@ -113,7 +113,7 @@ Para as demais informações de segurança (advertências e contraindicações),
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do modelo é alta (0,9997), mas não há ensaios nem publicações diretas para "perfuração de úlcera péptica" (L5). Além disso, o medicamento é comercializado no Brasil, com 1 registro válido de 1.
+- A pontuação do modelo é alta (0,9997), mas não há ensaios nem publicações diretas para "perfuração de úlcera péptica" (L5).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança.

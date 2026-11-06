@@ -76,7 +76,7 @@ Pela regra de teto de evidência, nenhuma das publicações citadas estuda a ame
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados locais, há 13 registros válidos e 7 cancelados, e a lista pode estar parcial. A tabela de registros é gerada pelo programa e não está detalhada aqui.
+A lista pode estar parcial. A tabela de registros é gerada pelo programa e não está detalhada aqui.
 
 ## Considerações de Segurança
 

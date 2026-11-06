@@ -120,7 +120,7 @@ Consulte a bula para as advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem publicações, e o mecanismo conhecido da fentanila (tendência a causar antidiurese) vai contra a fisiopatologia da doença. Somam-se a isso o alto perfil de risco, a carga de interações medicamentosas e a ausência de registros vigentes no Brasil.
+- Não há ensaios clínicos nem publicações, e o mecanismo conhecido da fentanila (tendência a causar antidiurese) vai contra a fisiopatologia da doença. Somam-se a isso o alto perfil de risco, a carga de interações medicamentosas.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (consulta à API do DrugBank)

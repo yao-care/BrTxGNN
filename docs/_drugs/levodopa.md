@@ -89,7 +89,7 @@ A previsão se apoia apenas na pontuação do modelo (L5), sem ensaios clínicos
 - Dados do mecanismo de ação da levodopa e uma hipótese biológica explícita ligando-a à encefalite de Rasmussen
 - Revisão sistemática da literatura e busca em registros de ensaios clínicos (inclusive ICTRP) sobre levodopa ou agonistas dopaminérgicos nessa doença
 - Bula da ANVISA (advertências e contraindicações), em especial sobre risco de convulsões e sintomas neuropsiquiátricos
-- Verificação da situação regulatória no Brasil, pois os dados compilados indicam 0 registros, o que deve ser confirmado
+- Verificação da situação regulatória no Brasil
 - Avaliação pré-clínica ou em modelos antes de qualquer estudo em humanos
 ## Aviso de isenção de responsabilidade
 

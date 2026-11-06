@@ -84,14 +84,14 @@ As advertências e contraindicações da bula brasileira não foram obtidas nos 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão tem apenas a pontuação do modelo como suporte (nível L5), sem ensaios clínicos nem literatura, e não há ligação mecanística plausível entre a etosuximida e a fisiopatologia da NSIAD. Além disso, o único registro no Brasil está cancelado.
+A previsão tem apenas a pontuação do modelo como suporte (nível L5), sem ensaios clínicos nem literatura, e não há ligação mecanística plausível entre a etosuximida e a fisiopatologia da NSIAD.
 
 **Para prosseguir, é necessário:**
 - Obter o mecanismo de ação documentado (por exemplo, via DrugBank) e avaliar uma possível ligação com a via do receptor V2/AVPR2.
 - Fazer busca sistemática de literatura e de ensaios clínicos sobre etosuximida em NSIAD ou hiponatremia relacionada.
 - Obter e analisar a bula da ANVISA (advertências e contraindicações) para a triagem de segurança.
 - Realizar validação pré-clínica independente do mecanismo, caso se deseje seguir adiante.
-- Avaliar a viabilidade regulatória e comercial, dado que o registro no Brasil está cancelado.
+- Avaliar a viabilidade regulatória e comercial.
 - Considerar o perfil de segurança (sinais hematológicos, hepáticos e renais) antes de qualquer uso em população com NSIAD.
 ## Aviso de isenção de responsabilidade
 

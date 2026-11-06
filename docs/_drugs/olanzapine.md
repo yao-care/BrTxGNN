@@ -87,7 +87,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 20 registros válidos; o medicamento está comercializado. Os cinco principais:
+O medicamento está comercializado. Os cinco principais:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -139,7 +139,7 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 **Decisão: Hold (tratar como questão de pesquisa)**
 
 **Justificativa:**
-- A evidência para agorafobia é de nível L3: um estudo aberto pequeno em transtorno de pânico, relatos de caso e revisões, sem ensaios registrados nem dados específicos para agorafobia. Além disso, a olanzapina não tem registro vigente no Brasil e carrega riscos metabólicos relevantes.
+- A evidência para agorafobia é de nível L3: um estudo aberto pequeno em transtorno de pânico, relatos de caso e revisões, sem ensaios registrados nem dados específicos para agorafobia.
 - As outras duas candidatas não justificam avanço: o torcicolo paroxístico benigno da infância tem apenas previsão do modelo (L5), e a distimia tem dados específicos escassos.
 
 **Para prosseguir, é necessário:**

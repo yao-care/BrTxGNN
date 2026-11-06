@@ -137,12 +137,11 @@ Não aplicável: o artemeter é um antimalárico, não um antineoplásico. Esta 
 
 **Justificativa:**
 - A previsão de maior pontuação (angioedema adquirido, 0,9990) não tem ensaios, literatura nem vínculo mecanístico plausível, ficando em L5.
-- As evidências robustas (L1) dizem respeito à malária, indicação original, e não constituem reposicionamento. Além disso, o único registro brasileiro está cancelado.
+- As evidências robustas (L1) dizem respeito à malária, indicação original, e não constituem reposicionamento.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
 - Obter dados do mecanismo de ação no DrugBank.
-- Esclarecer a situação regulatória: o registro COARTEM está cancelado, sem registro válido de monoterapia ou combinação.
 - Para qualquer hipótese de reposicionamento (por exemplo, esclerodermia), gerar evidências pré-clínicas e justificar o mecanismo antes de avançar.
 - Avaliar o risco cardíaco (QT) e o plano de manejo das interações graves, especialmente com inibidores de CYP3A4 e antirretrovirais.
 ## Aviso de isenção de responsabilidade

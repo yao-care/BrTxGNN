@@ -63,7 +63,6 @@ O Evidence Pack recebido apresenta lacunas em três camadas distintas que, em co
 O campo `predicted_indications` está vazio. Isso pode decorrer de falha no mapeamento do nome do fármaco: o pipeline recebeu "ACETAZOLAMIDA" (grafia em português/espanhol), mas o DrugBank e o grafo de conhecimento TxGNN indexam o composto como "acetazolamide" (INN em inglês). A ausência de `drugbank_id` no pacote confirma que o mapeamento DrugBank não foi resolvido nesta execução.
 
 **2. Detalhes regulatórios incompletos**
-Embora o sistema confirme **5 registros ativos** na ANVISA, todos os campos de detalhe (número de registro, nome comercial, forma farmacêutica, indicação aprovada) constam como vazios. Os dados foram coletados do portal TFDA/ANVISA, mas a extração dos metadados dos registros individuais não foi concluída.
 
 **3. Dados de segurança e mecanismo ausentes**
 As advertências, contraindicações e o mecanismo de ação (MOA) são classificados como lacunas de dados com severidade **Bloqueante (DG001)** e **Alta (DG002)**, respectivamente, impedindo a avaliação de segurança preliminar.

@@ -89,7 +89,6 @@ Não há ensaios clínicos nem literatura que sustentem a previsão (nível L5),
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Investigar se a pontuação do modelo TxGNN (deep learning) reflete apenas semelhanças aprendidas entre doenças relacionadas e buscar evidências biológicas ou pré-clínicas que justifiquem a hipótese
 - Avaliar o risco do uso de AINEs em contexto de desenvolvimento/gestação
-- Considerar que não há registro ativo no Brasil, o que exigiria novo processo regulatório
 
 ---
 

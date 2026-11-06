@@ -71,7 +71,7 @@ Todas as demais previsões também estão no nível L5, sem ensaios ou literatur
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 20 registros **válidos** atualmente. Principais registros:
+Principais registros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -123,13 +123,13 @@ Advertências e contraindicações da bula brasileira não estavam disponíveis;
 **Decisão: Hold**
 
 **Justificativa:**
-- Todas as previsões estão no nível L5, sem ensaios clínicos nem literatura. Além disso, não há registro válido da fexofenadina no Brasil (todos os 20 estão cancelados), e a via oral sistêmica é pouco adequada para doenças da superfície ocular.
+- Todas as previsões estão no nível L5, sem ensaios clínicos nem literatura.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
 - Obter dados detalhados do mecanismo de ação (MOA) via DrugBank.
 - Realizar revisão da literatura sobre anti-histamínicos na rosácea ocular e em doenças alérgicas palpebrais.
-- Avaliar a compatibilidade de via de administração (formulação oftálmica/tópica versus oral) e a situação regulatória, dado que não há registro válido.
+- Avaliar a compatibilidade de via de administração (formulação oftálmica/tópica versus oral) e a situação regulatória.
 - Considerar priorizar indicações com maior plausibilidade biológica (dermatoses alérgicas da pálpebra, componente alérgico da blefaroconjuntivite) para uma eventual reavaliação.
 ## Aviso de isenção de responsabilidade
 

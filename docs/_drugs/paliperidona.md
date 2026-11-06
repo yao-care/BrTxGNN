@@ -40,7 +40,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Paliperidona (PALIPERIDONA) é um antipsicótico atípico registrado no Brasil com 4 licenças ativas na ANVISA.
 O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual de dados, impedindo a análise de novas indicações.
-Os dados de suporte — mecanismo de ação, detalhes dos registros e informações de segurança — estão todos ausentes neste pacote de evidências.
 
 ---
 
@@ -68,8 +67,6 @@ Os registros ANVISA foram identificados (4 licenças ativas), porém os campos d
 | 112363398 | INVEGA | JANSSEN-CILAG FARMACÊUTICA LTDA | Ativo |
 | 122140135 | PALMITATO DE PALIPERIDONA | ADIUM S.A. | Ativo |
 | 122140136 | VEGAPALI | ADIUM S.A. | Ativo |
-
-> Para completar esta seção, é necessário re-executar a consulta TFDA/ANVISA com retorno dos campos de produto.
 
 ---
 

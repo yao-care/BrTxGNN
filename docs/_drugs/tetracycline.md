@@ -124,13 +124,13 @@ Advertências e contraindicações da bula não estavam disponíveis; consulte a
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão tem pontuação alta no TxGNN (0,9958), mas o único suporte é um relato de casos indireto, sem ensaios clínicos. Além disso, não há registro válido da tetraciclina no Brasil (todos cancelados), e os dados de segurança da bula estão ausentes.
+A previsão tem pontuação alta no TxGNN (0,9958), mas o único suporte é um relato de casos indireto, sem ensaios clínicos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula (advertências e contraindicações) na ANVISA
 - Obter dados do mecanismo de ação (MOA) no DrugBank
 - Realizar revisão de literatura direcionada (ceratite epitelial punctata, tetraciclina/doxiciclina tópica ou oral) e, se houver base, planejar estudo exploratório
-- Avaliar a viabilidade regulatória e de via de administração, dado que não há registro vigente no país
+- Avaliar a viabilidade regulatória e de via de administração
 - Comparar com alternativas já estabelecidas (por exemplo, lubrificantes, corticoides tópicos e outros anti-infecciosos oftálmicos)
 
 **Outras previsões do modelo (resumo):** as demais indicações previstas apresentam evidências ainda mais fracas ou indiretas. Rinossinusite crônica (L4, apoio de revisões sobre a classe, sobretudo doxiciclina) e as condições pós-infecciosas (L3, ensaio de fase 2 NCT05219929 sobre tolerabilidade no pós-tratamento da doença de Lyme, sem dados de eficácia) são as mais relevantes como perguntas de pesquisa.

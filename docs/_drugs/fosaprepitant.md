@@ -78,7 +78,7 @@ A pontuação elevada do TxGNN (0,9992) vem do modelo TxGNN (deep learning) e po
 | Registro nº 155370078 | Fosaprepitanto dimeglumina | Não informada | Antieméticos e antinauseantes |
 | Registro nº 165070030 | Fopitant | Não informada | Antieméticos e antinauseantes |
 
-Observação: são 8 registros no total, todos com situação cancelada; a tabela mostra os 5 primeiros. Entre os demais estão Emend Injetável (101710225) e Foza (155370085).
+Observação: são 8 registros no total; a tabela mostra os 5 primeiros. Entre os demais estão Emend Injetável (101710225) e Foza (155370085).
 
 ---
 

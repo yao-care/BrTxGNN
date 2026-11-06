@@ -121,7 +121,7 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta e plausibilidade de classe, mas não há ensaios clínicos nem estudos com mometasona nessa indicação, apenas dois relatos de caso indiretos (nível L4). Além disso, não há registro vigente no Brasil, e as informações de segurança da bula não estão disponíveis.
+- A previsão tem pontuação alta e plausibilidade de classe, mas não há ensaios clínicos nem estudos com mometasona nessa indicação, apenas dois relatos de caso indiretos (nível L4).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa necessária para a triagem de segurança.

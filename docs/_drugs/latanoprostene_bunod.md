@@ -112,14 +112,14 @@ Para as demais informações de segurança, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para calcifilaxia visceral tem pontuação alta no TxGNN (0,9976), mas não conta com ensaios clínicos nem publicações (nível L5). O mecanismo é pouco plausível, dada a via tópica ocular e a exposição sistêmica mínima. Além disso, o único registro no Brasil está cancelado.
+- A previsão para calcifilaxia visceral tem pontuação alta no TxGNN (0,9976), mas não conta com ensaios clínicos nem publicações (nível L5). O mecanismo é pouco plausível, dada a via tópica ocular e a exposição sistêmica mínima.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA, com advertências e contraindicações, que ainda não estão disponíveis
 - Complementar os dados do mecanismo de ação em fontes como o DrugBank
 - Realizar estudos pré-clínicos que testem se o NO e a sinalização do receptor FP influenciam a calcificação vascular
 - Avaliar a viabilidade de via sistêmica ou formulação alternativa, já que a via ocular não gera exposição sistêmica relevante
-- Esclarecer a situação regulatória no Brasil, já que o registro está cancelado
+- Esclarecer a situação regulatória no Brasil
 - Se houver interesse em uma direção com maior plausibilidade, priorizar o glaucoma hereditário primário, que é uma extensão da indicação aprovada, com confirmação em populações geneticamente definidas
 ## Aviso de isenção de responsabilidade
 

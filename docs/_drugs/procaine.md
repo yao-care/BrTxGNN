@@ -145,7 +145,7 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 **Decisão: Hold**
 
 **Justificativa:**
-- A indicação com maior pontuação (metemoglobinemia) é, segundo a literatura, um efeito adverso da procaína, e não uma oportunidade terapêutica. Não há ensaios clínicos para nenhuma das indicações previstas, e os registros no Brasil estão todos cancelados.
+- A indicação com maior pontuação (metemoglobinemia) é, segundo a literatura, um efeito adverso da procaína, e não uma oportunidade terapêutica. Não há ensaios clínicos para nenhuma das indicações previstas.
 - Apenas fibromialgia e tendinite merecem investigação como questões de pesquisa, para alívio sintomático da dor.
 
 **Para prosseguir, é necessário:**
@@ -153,7 +153,7 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Descartar formalmente a metemoglobinemia e indicações correlatas como alvos terapêuticos e tratá-las como alerta de segurança.
 - Se houver interesse em dor musculoesquelética, revisar sistematicamente as evidências de infiltração de procaína e planejar ensaios randomizados modernos (injeção em pontos-gatilho ou anestésicos intravenosos), verificando o desenho do estudo de terapia neural de 2022.
-- Avaliar a viabilidade regulatória, já que não há registro vigente no Brasil.
+- Avaliar a viabilidade regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

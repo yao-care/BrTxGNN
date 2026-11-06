@@ -38,7 +38,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo
 
-Cafeína Citrato é a forma citrato da cafeína, um metilxantina com uso clínico estabelecido predominantemente na apneia da prematuridade em neonatos. O presente Evidence Pack, no entanto, **não contém indicações originais registradas no banco de dados consultado, nem previsões de reposicionamento geradas pelo modelo TxGNN**, o que impossibilita uma análise de reposicionamento completa neste momento. A ausência de registros na ANVISA e de dados de mecanismo de ação reforça a necessidade de complementação antes de qualquer decisão.
+Cafeína Citrato é a forma citrato da cafeína, um metilxantina com uso clínico estabelecido predominantemente na apneia da prematuridade em neonatos. O presente Evidence Pack, no entanto, **não contém indicações originais registradas no banco de dados consultado, nem previsões de reposicionamento geradas pelo modelo TxGNN**, o que impossibilita uma análise de reposicionamento completa neste momento.
 
 ---
 

@@ -131,7 +131,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem estudos de eficácia para artrite reumatoide; a pontuação alta do modelo não é corroborada por dados clínicos, e há um sinal de segurança (agranulocitose com metotrexato) relevante nessa população. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos.
+- Não há ensaios clínicos nem estudos de eficácia para artrite reumatoide; a pontuação alta do modelo não é corroborada por dados clínicos, e há um sinal de segurança (agranulocitose com metotrexato) relevante nessa população.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) a partir do DrugBank

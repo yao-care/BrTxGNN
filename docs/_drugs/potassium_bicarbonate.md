@@ -83,7 +83,7 @@ Há ressalvas importantes: a pontuação elevada do TxGNN (0,9972) é apenas uma
 **Decisão: Hold**
 
 **Justificativa:**
-Não há ensaios clínicos nem literatura que sustentem a previsão (nível L5). A indicação prevista praticamente coincide com a original, e o único registro brasileiro está cancelado. Além disso, há alertas de segurança relevantes relacionados ao potássio.
+Não há ensaios clínicos nem literatura que sustentem a previsão (nível L5). A indicação prevista praticamente coincide com a original. Além disso, há alertas de segurança relevantes relacionados ao potássio.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança

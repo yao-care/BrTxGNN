@@ -81,13 +81,13 @@ Consulte a bula para advertências e contraindicações.
 
 **Justificativa:**
 - A previsão tem alta pontuação no modelo, mas nenhum ensaio clínico nem publicação a sustenta, e não há plausibilidade mecanística (CD20 não é alvo reconhecido no câncer de mama HER2 positivo). O nível de evidência é L5.
-- O único registro no Brasil está cancelado, e não há dados de segurança da bula.
+- Não há dados de segurança da bula.
 
 **Para prosseguir, é necessário:**
 - Obter a bula na ANVISA para análise de advertências e contraindicações
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Realizar estudos pré-clínicos que testem se a depleção de células B/CD20 tem papel biológico no câncer de mama HER2 positivo
-- Verificar a situação regulatória atual do produto no Brasil, já que o registro consta como cancelado
+- Verificar a situação regulatória atual do produto no Brasil
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

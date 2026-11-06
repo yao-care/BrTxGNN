@@ -105,12 +105,12 @@ As advertências e contraindicações da bula brasileira não foram obtidas; con
 **Decisão: Hold**
 
 **Justificativa:**
-A pontuação do modelo é alta, mas a evidência direta é limitada: o único ensaio (Phase 3) não demonstra que o desogestrel seja a intervenção avaliada, e a literatura é composta sobretudo por revisões e estudos indiretos com contraceptivos combinados. Além disso, o fármaco não tem registro ativo no Brasil e faltam dados de bula e de mecanismo, o que impede avançar na triagem de segurança.
+A pontuação do modelo é alta, mas a evidência direta é limitada: o único ensaio (Phase 3) não demonstra que o desogestrel seja a intervenção avaliada, e a literatura é composta sobretudo por revisões e estudos indiretos com contraceptivos combinados.
 
 **Para prosseguir, é necessário:**
 - Verificar os braços de intervenção do NCT00946192 para confirmar se o desogestrel é avaliado.
 - Obter a bula da ANVISA (advertências e contraindicações) e dados de mecanismo de ação (DrugBank).
-- Esclarecer a situação regulatória no Brasil (ausência de registros) e a viabilidade de vias de administração.
+- Esclarecer a situação regulatória no Brasil e a viabilidade de vias de administração.
 - Buscar estudos que avaliem desogestrel (isolado ou combinado) em amenorreia, separando o efeito do progestágeno do efeito do estrogênio.
 - Definir a similaridade com a indicação original e analisar a relação risco-benefício, dadas as contraindicações (p. ex., risco tromboembólico, hipertensão, doença hepática).
 

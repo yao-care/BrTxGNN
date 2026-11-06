@@ -38,7 +38,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo
 
-Bezafibrato é um fármaco da classe dos fibratos, utilizado no tratamento de **dislipidemia** (hipertrigliceridemia e hiperlipidemia mista), com 18 registros ativos no Brasil.
 O presente Evidence Pack não contém previsões TxGNN para novas indicações — o pipeline de predição ainda não foi executado ou não retornou candidatos para este fármaco.
 São necessárias etapas adicionais de coleta de dados (MOA, indicações aprovadas detalhadas, dados de segurança) antes que uma avaliação completa de reposicionamento possa ser conduzida.
 
@@ -64,13 +63,11 @@ Bezafibrato pertence à classe dos **fibratos**, fármacos agonistas dos recepto
 
 No entanto, os dados de mecanismo de ação detalhados (MOA) não foram incorporados a este Evidence Pack. Consultas ao DrugBank foram realizadas com sucesso (1 resultado encontrado), mas os dados ainda não foram integrados ao relatório.
 
-> **Nota:** Os dados regulatórios detalhados dos 18 registros no Brasil (nome comercial, forma farmacêutica, texto de indicação aprovada) também não estão disponíveis nesta versão do Evidence Pack. Os campos retornaram vazios na consulta à base TFDA/ANVISA.
+> **Nota:** Os dados regulatórios detalhados dos 18 registros no Brasil (nome comercial, forma farmacêutica, texto de indicação aprovada) também não estão disponíveis nesta versão do Evidence Pack.
 
 ---
 
 ## Informações de Comercialização no Brasil
-
-O bezafibrato possui **18 registros ativos** no Brasil, confirmando que o fármaco está legalmente comercializado no país.
 
 Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica, indicação aprovada) não constam neste Evidence Pack e precisam ser recuperados diretamente da base de dados da ANVISA.
 

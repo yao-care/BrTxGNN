@@ -38,7 +38,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo em Uma Frase
 
-Amilorida (AMILORIDA) é um fármaco com **20 registros ativos** no mercado brasileiro, porém este pacote de evidências não contém dados de indicação original, mecanismo de ação nem previsões do modelo TxGNN. Sem previsões de nova indicação geradas, **não é possível realizar uma avaliação de reposicionamento neste momento**. A coleta de dados complementares é necessária antes de prosseguir.
+Sem previsões de nova indicação geradas, **não é possível realizar uma avaliação de reposicionamento neste momento**. A coleta de dados complementares é necessária antes de prosseguir.
 
 ---
 
@@ -60,13 +60,11 @@ Amilorida (AMILORIDA) é um fármaco com **20 registros ativos** no mercado bras
 
 O modelo TxGNN **não gerou nenhuma previsão de reposicionamento** para Amilorida neste pacote de evidências. Sem uma indicação candidata, não é possível avaliar a coerência mecanística entre indicação original e nova indicação.
 
-Adicionalmente, não há dados sobre o mecanismo de ação (MOA) neste pacote. Segundo as lacunas identificadas (`DG002`), a consulta ao DrugBank é necessária para recuperar essas informações. Da mesma forma, as indicações originais aprovadas constam nos 20 registros regulatórios, mas os detalhes individuais de cada registro (nome comercial, forma farmacêutica, indicação aprovada) estão ausentes neste pacote — sendo necessário processar os registros via ANVISA/TFDA para completá-los.
+Adicionalmente, não há dados sobre o mecanismo de ação (MOA) neste pacote. Segundo as lacunas identificadas (`DG002`), a consulta ao DrugBank é necessária para recuperar essas informações. Da mesma forma, as indicações originais aprovadas constam nos 20 registros regulatórios.
 
 ---
 
 ## Informações de Comercialização no Brasil
-
-O fármaco possui status **Comercializado** com **20 registros ativos**. Os detalhes individuais dos registros (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste pacote de evidências — o preenchimento requer consulta direta às bulas registradas na ANVISA.
 
 ---
 

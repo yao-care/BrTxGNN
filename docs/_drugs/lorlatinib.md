@@ -110,7 +110,6 @@ Os dados de advertências e contraindicações da bula não estavam disponíveis
 
 **Justificativa:**
 - A previsão para fibromatose gengival é exclusivamente computacional (nível L5), sem ensaios clínicos, sem literatura e sem ligação mecanística com a inibição de ALK/ROS1.
-- O único registro brasileiro está cancelado, e a bula não pôde ser analisada, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).

@@ -86,7 +86,7 @@ Para referência, a literatura disponível para a previsão de **bronquite** (2�
 
 ## Informações de Comercialização no Brasil
 
-Todos os 14 registros estão válidos; o medicamento é comercializado atualmente. Principais registros:
+O medicamento é comercializado atualmente. Principais registros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -137,7 +137,7 @@ Consulte a bula para as demais informações de segurança.
 
 **Justificativa:**
 - Para a gota, não há ensaios, literatura nem mecanismo plausível (nível L5). A pontuação alta vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, possivelmente doenças do metabolismo de purinas, não evidência biológica.
-- A única previsão com respaldo real é a bronquite (L3, "Proceed with Guardrails"), mas ela é basicamente a indicação original. Além disso, não há registro ativo no Brasil.
+- A única previsão com respaldo real é a bronquite (L3, "Proceed with Guardrails"), mas ela é basicamente a indicação original.
 
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (consulta à API do DrugBank).

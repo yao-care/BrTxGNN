@@ -63,7 +63,7 @@ Além disso, todas as indicações originais são de uso orofaríngeo ou anesté
 
 ## Informações de Comercialização no Brasil
 
-Todos os 10 registros encontrados são de produtos isolados (monofármaco) e estão cancelados. Os 5 principais:
+Os 5 principais:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -113,7 +113,7 @@ Consulte a bula para informações de segurança completas; as advertências e c
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se apoia apenas na pontuação do modelo TxGNN (deep learning, nível L5), sem ensaios clínicos nem literatura. O mecanismo anestésico não atinge a causa imunoalérgica da doença, há risco de toxicidade corneana, não há uso oftálmico aprovado e o medicamento está comercializado no Brasil, com 10 registros válidos de 10.
+- A previsão se apoia apenas na pontuação do modelo TxGNN (deep learning, nível L5), sem ensaios clínicos nem literatura. O mecanismo anestésico não atinge a causa imunoalérgica da doença, há risco de toxicidade corneana, não há uso oftálmico aprovado.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula oficial na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

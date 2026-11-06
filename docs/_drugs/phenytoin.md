@@ -105,7 +105,7 @@ Para as demais advertências, consulte a bula.
 - Obter da bula da ANVISA as advertências e contraindicações oficiais (lacuna de dados bloqueante para a triagem de segurança).
 - Complementar os dados de mecanismo de ação.
 - Se houver interesse, redirecionar a avaliação para neuralgia do trigêmeo, com revisão sistemática da evidência de fenitoína versus carbamazepina/oxcarbazepina e eventual ensaio de resgate IV.
-- Verificar a situação regulatória atual no Brasil, já que não há registro válido, e planejar monitoramento de níveis séricos e de interações medicamentosas.
+- Verificar a situação regulatória atual no Brasil, e planejar monitoramento de níveis séricos e de interações medicamentosas.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

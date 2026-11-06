@@ -91,7 +91,7 @@ Atualmente não há literatura relacionada para Blastoma Pulmonar.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 10 registros encontrados estão **válidos**; o metotrexato está atualmente comercializado (10 registros válidos de 10).
+O metotrexato está atualmente comercializado.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -123,8 +123,6 @@ Todos os 10 registros encontrados estão **válidos**; o metotrexato está atual
 | 155730002 | TEVAMETHO | TEVA FARMACÊUTICA LTDA. | Cancelado |
 | 167250011 | TESTE CLOEN | EMPRESA DE TESTE LTDA. (VS01) | Cancelado |
 | 167250012 | TESTE CLOEN | EMPRESA DE TESTE LTDA. (VS01) | Cancelado |
-
-*(Exibidos os 5 primeiros de 10 registros, todos cancelados.)*
 
 ---
 
@@ -159,7 +157,7 @@ Consulte a bula para advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para Blastoma Pulmonar tem apenas a pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. Por outro lado, o medicamento está comercializado no Brasil, com 10 registros válidos de 10.
+- A previsão para Blastoma Pulmonar tem apenas a pontuação do modelo (nível L5), sem ensaios clínicos nem literatura.
 - Entre as indicações previstas, Linfoma de Hodgkin e Rabdomiossarcoma têm evidência um pouco mais robusta (L3), mas ainda indireta ou antiga, por isso são classificadas como questões de pesquisa.
 
 **Para prosseguir, é necessário:**

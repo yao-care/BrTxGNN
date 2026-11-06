@@ -89,7 +89,7 @@ A indicação original (espasmo e relaxamento muscular) está muito próxima da 
 
 ## Informações de Comercialização no Brasil
 
-Os 20 registros localizados estão **válidos**; o medicamento está comercializado no Brasil. Principais exemplos:
+O medicamento está comercializado no Brasil. Principais exemplos:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -139,7 +139,7 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- A dor miofascial está muito próxima da indicação original, e há ensaios randomizados pequenos em dor miofascial e distensão muscular. A evidência direta, porém, é limitada: os ensaios de Fase 3 são em fibromialgia, e o medicamento está comercializado no Brasil, com 20 registros válidos.
+- A dor miofascial está muito próxima da indicação original, e há ensaios randomizados pequenos em dor miofascial e distensão muscular. A evidência direta, porém, é limitada: os ensaios de Fase 3 são em fibromialgia.
 
 **Para prosseguir, é necessário:**
 - Confirmar a condição e a intervenção de cada ensaio listado, separando os ensaios em fibromialgia dos de dor miofascial.

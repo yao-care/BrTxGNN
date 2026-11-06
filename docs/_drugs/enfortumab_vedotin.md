@@ -90,7 +90,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para hanseníase não tem ensaios clínicos, literatura nem mecanismo plausível (nível L5). Além disso, o único registro no Brasil está cancelado, e um fármaco citotóxico e imunossupressor dificilmente seria adequado para uma doença infecciosa tratável com terapias estabelecidas.
+- A previsão para hanseníase não tem ensaios clínicos, literatura nem mecanismo plausível (nível L5).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.

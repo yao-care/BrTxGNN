@@ -96,7 +96,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para angina de Prinzmetal baseia-se apenas no modelo (L5), sem ensaios clínicos nem publicações, e o tratamento padrão já é bem estabelecido. Além disso, o fármaco não possui registro no Brasil.
+- A previsão para angina de Prinzmetal baseia-se apenas no modelo (L5), sem ensaios clínicos nem publicações, e o tratamento padrão já é bem estabelecido.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação e da indicação original do fármaco

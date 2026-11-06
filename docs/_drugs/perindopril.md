@@ -107,7 +107,7 @@ Há ainda um sexto registro (TRIPLIXAM, inibidores da ECA, associações), tamb�
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), ainda indisponível.
 - Complementar os dados de mecanismo de ação (DrugBank).
 - Realizar revisão sistemática da literatura clínica sobre IECA em nefropatia hipertensiva maligna.
-- Avaliar o risco renal (estenose de artéria renal, hiperpotassemia) e a situação regulatória, já que não há registro válido no Brasil.
+- Avaliar o risco renal (estenose de artéria renal, hiperpotassemia) e a situação regulatória.
 - Se o interesse for mantido, considerar a indicação alternativa: hipertensão pulmonar por doença pulmonar e/ou hipóxia (há apenas estudos pré-clínicos em ratos, nível L4), também em *Hold*.
 ## Aviso de isenção de responsabilidade
 

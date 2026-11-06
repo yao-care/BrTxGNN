@@ -64,7 +64,7 @@ A doença renal hipertensiva maligna é uma complicação grave de órgão-alvo 
 
 ## Informações de Comercialização no Brasil
 
-A situação de mercado no Brasil é de medicamento comercializado, com 13 registros válidos e 7 cancelados. Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não constam nos dados compilados.
+Os registros são parciais (a lista pode estar incompleta), e os detalhes de cada registro não constam nos dados compilados.
 
 ## Considerações de Segurança
 

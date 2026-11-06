@@ -90,7 +90,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se baseia quase só no modelo e em uma revisão pediátrica indireta, sem ensaios clínicos (nível L4). Além disso, o único registro brasileiro está cancelado, o que limita a relevância prática imediata.
+- A previsão se baseia quase só no modelo e em uma revisão pediátrica indireta, sem ensaios clínicos (nível L4).
 
 **Para prosseguir, é necessário:**
 - Obter a bula na ANVISA para análise de advertências e contraindicações, etapa necessária para a triagem de segurança.

@@ -117,12 +117,11 @@ A HAP associada a cardiopatia congênita e a HAP associada a doença do tecido c
 
 **Justificativa:**
 - Para a indicação principal prevista (hipotricose simples do couro cabeludo), não há ensaios, literatura nem vínculo mecanístico plausível; a previsão é exclusivamente computacional (nível L5).
-- O único registro brasileiro da iloprosta (VENTAVIS) está cancelado, e os dados de bula (advertências e contraindicações) não estavam disponíveis, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).
 - Complementar os dados de mecanismo de ação no DrugBank.
-- Verificar a situação regulatória atual da iloprosta no Brasil, já que o único registro está cancelado.
+- Verificar a situação regulatória atual da iloprosta no Brasil.
 - Considerar priorizar os subgrupos de HAP (cardiopatia congênita e doença do tecido conjuntivo) como questões de pesquisa, por terem maior suporte (L3).
 - Para hipotricose simples, gerar evidência pré-clínica de mecanismo antes de qualquer avanço.
 ## Aviso de isenção de responsabilidade

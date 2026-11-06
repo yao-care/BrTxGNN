@@ -114,7 +114,7 @@ As advertências principais e as contraindicações de bula não estavam dispon�
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é puramente computacional (L5), sem ensaios clínicos nem literatura para a indicação principal. O único registro brasileiro está cancelado, e faltam dados de segurança de bula.
+- A previsão é puramente computacional (L5), sem ensaios clínicos nem literatura para a indicação principal. Faltam dados de segurança de bula.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que impede a triagem de segurança

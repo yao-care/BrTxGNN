@@ -74,7 +74,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Os dados de registro disponíveis são parciais. A situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a lista detalhada de registros não está disponível nos dados compilados.
+Os dados de registro disponíveis são parciais. A lista detalhada de registros não está disponível nos dados compilados.
 
 ## Considerações de Segurança
 

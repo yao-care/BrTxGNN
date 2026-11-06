@@ -87,13 +87,13 @@ Uma segunda previsão do modelo, "doença pulmonar obstrutiva", tem evidência m
 
 **Justificativa:**
 - A previsão para bronquite se apoia em um único ensaio de Fase 2 conduzido em DPOC, sem desfecho em bronquite e sem literatura específica. Isso corresponde ao nível de evidência L4.
-- O registro brasileiro está cancelado, e a evidência robusta existente refere-se à DPOC, que não é uma nova indicação.
+- A evidência robusta existente refere-se à DPOC, que não é uma nova indicação.
 
 **Para prosseguir, é necessário:**
 - Obter da bula na ANVISA as advertências e contraindicações, hoje indisponíveis, para a triagem de segurança.
 - Obter dados detalhados do mecanismo de ação (MOA), por exemplo via DrugBank.
 - Obter estudos clínicos ou observacionais específicos em bronquite crônica, distinguindo-a de bronquite aguda ou infecciosa.
-- Confirmar a situação regulatória e a disponibilidade comercial atuais no Brasil, já que o único registro está cancelado.
+- Confirmar a situação regulatória e a disponibilidade comercial atuais no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

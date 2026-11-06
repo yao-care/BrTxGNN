@@ -70,7 +70,7 @@ Para avançar na análise, é necessário primeiro preencher as lacunas de dados
 
 ## Informações de Comercialização no Brasil
 
-CARBIDOPA MONOHYDRATE não possui registros ativos no Brasil. Nenhuma licença foi identificada no banco de dados regulatório consultado.
+Nenhuma licença foi identificada no banco de dados regulatório consultado.
 
 ---
 

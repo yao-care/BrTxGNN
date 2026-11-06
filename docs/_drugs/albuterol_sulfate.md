@@ -69,7 +69,7 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O pacote de evidências não contém previsões TxGNN nem dados regulatórios brasileiros para este fármaco. A busca na ANVISA com o termo "ALBUTEROL SULFATE" retornou **0 registros**, o que indica uma provável divergência de nomenclatura: no Brasil e nos demais países que adotam o sistema DCI/INN da OMS, este fármaco é registrado como **Salbutamol** — enquanto "Albuterol" é o nome utilizado principalmente nos Estados Unidos.
+O pacote de evidências não contém previsões TxGNN nem dados regulatórios brasileiros para este fármaco.
 
 **Para prosseguir, é necessário:**
 - Repetir a busca regulatória na ANVISA utilizando o nome DCI correto: **"Salbutamol"** ou **"Salbutamol Sulfato"**

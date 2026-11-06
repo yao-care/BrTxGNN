@@ -39,7 +39,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 ## Resumo
 
 Biperiden Lactato é um fármaco anticolinérgico utilizado no tratamento da doença de Parkinson e de distúrbios extrapiramidais induzidos por medicamentos.
-O Evidence Pack recebido **não contém previsões de novas indicações geradas pelo modelo TxGNN**, e o fármaco não possui registro ativo no Brasil, tornando inviável uma avaliação completa de reposicionamento neste momento.
+O Evidence Pack recebido **não contém previsões de novas indicações geradas pelo modelo TxGNN**.
 Para avançar na análise, são necessários o processamento das previsões do modelo e a obtenção dos dados regulatórios e de segurança identificados como lacunas.
 
 ---
@@ -73,7 +73,7 @@ O mecanismo de ação detalhado (MOA formal via DrugBank) foi identificado como 
 
 ## Informações de Comercialização no Brasil
 
-Biperiden Lactato **não possui registros ativos na ANVISA** conforme os dados consultados (data de corte: 05/04/2026). Nenhuma licença foi localizada sob esta denominação salina.
+Nenhuma licença foi localizada sob esta denominação salina.
 
 > **Nota importante:** O biperideno está disponível em alguns mercados sob a forma de **cloridrato de biperideno** (Biperiden HCl). Recomenda-se verificar se há registros ativos na ANVISA sob denominações alternativas antes de concluir pela ausência total do fármaco no mercado brasileiro.
 
@@ -90,7 +90,6 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack não contém previsões de novas indicações pelo TxGNN, não há registros ANVISA ativos e os dados de segurança (advertências, contraindicações e interações) estão ausentes — condições que impossibilitam qualquer avaliação de reposicionamento neste momento.
 
 **Para prosseguir, é necessário:**
 - Executar o pipeline TxGNN para gerar previsões de novas indicações para Biperiden Lactato e popular o campo `predicted_indications`

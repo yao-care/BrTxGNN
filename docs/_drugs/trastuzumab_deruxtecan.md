@@ -92,7 +92,7 @@ Consulte a bula para as demais informações de segurança, como advertências e
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se baseia exclusivamente na pontuação do modelo (L5), sem ensaios clínicos, sem literatura e sem vínculo mecanístico plausível. O perfil de toxicidade de um ADC citotóxico torna a relação risco-benefício desfavorável para uma condição óssea crônica. Além disso, o único registro no Brasil está cancelado.
+A previsão se baseia exclusivamente na pontuação do modelo (L5), sem ensaios clínicos, sem literatura e sem vínculo mecanístico plausível. O perfil de toxicidade de um ADC citotóxico torna a relação risco-benefício desfavorável para uma condição óssea crônica.
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação (MOA) e análise de plausibilidade biológica entre HER2/topoisomerase I e o metabolismo ósseo

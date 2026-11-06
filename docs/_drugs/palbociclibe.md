@@ -70,7 +70,7 @@ Adicionalmente, o dado de mecanismo de ação (MOA) está ausente (DG002), o que
 
 ## Informações de Comercialização no Brasil
 
-O fármaco está registrado no Brasil com **7 registros ativos** confirmados pela ANVISA. Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não foram recuperados na coleta atual.
+O fármaco está registrado no Brasil com **7 registros ativos** confirmados pela ANVISA.
 
 > Para visualizar os registros completos, consulte diretamente o portal da ANVISA em [consultas.anvisa.gov.br](https://consultas.anvisa.gov.br/) pesquisando por "palbociclibe".
 

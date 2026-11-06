@@ -88,7 +88,7 @@ Para as demais informações de segurança, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A única sustentação é a alta pontuação do modelo (0,9909), sem nenhum ensaio clínico ou publicação. O mecanismo é especulativo e pouco conectado às causas genéticas do glaucoma hereditário primário. Além disso, o produto está com registro cancelado no Brasil e é de uso intravenoso.
+- A única sustentação é a alta pontuação do modelo (0,9909), sem nenhum ensaio clínico ou publicação. O mecanismo é especulativo e pouco conectado às causas genéticas do glaucoma hereditário primário.
 
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank) e avaliar a relevância do sistema renina-angiotensina ocular no glaucoma hereditário.
@@ -96,7 +96,7 @@ Para as demais informações de segurança, consulte a bula.
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois esses dados ainda não estão disponíveis.
 - Avaliar a viabilidade de via de administração e formulação adequadas ao uso ocular, já que o enalaprilato é intravenoso.
 - Considerar o risco de angioedema, contraindicação registrada no grafo de conhecimento.
-- Esclarecer a situação regulatória, dado que o único registro no Brasil está cancelado.
+- Esclarecer a situação regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

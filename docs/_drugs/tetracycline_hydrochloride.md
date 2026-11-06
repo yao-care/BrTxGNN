@@ -64,7 +64,7 @@ O pipeline de coleta de dados apresentou as seguintes lacunas críticas que impe
 
 **Ausência de previsões TxGNN:** A etapa mais fundamental do relatório — a previsão de nova indicação — não produziu resultados. Isso pode indicar que o fármaco não foi mapeado corretamente ao vocabulário do DrugBank no conhecimento do modelo, ou que sua entrada no pipeline de predição foi interrompida antes da geração de candidatos.
 
-**Dados regulatórios brasileiros ausentes:** A consulta à ANVISA retornou 0 registros para "TETRACYCLINE HYDROCHLORIDE". Isso não significa necessariamente que o fármaco seja inexistente no Brasil — pode haver divergência no nome de busca (e.g., "Tetraciclina", "Tetracycline base") ou registros sob nomes de combinações. A consulta ao DrugBank retornou 1 resultado (status: *success*), mas as informações não foram integradas ao Evidence Pack.
+A consulta ao DrugBank retornou 1 resultado (status: *success*), mas as informações não foram integradas ao Evidence Pack.
 
 **Mecanismo de ação e segurança não disponíveis:** Sem o DrugBank ID vinculado e sem o PDF da bula processado, os campos de MOA, advertências e contraindicações permanecem em branco.
 

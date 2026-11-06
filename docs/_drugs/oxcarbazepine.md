@@ -83,8 +83,6 @@ Todas as publicações são gerais sobre epilepsia ou antiepilépticos; nenhuma 
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros encontrados estão válidos.
-
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100680046 | TRILEPTAL | NOVARTIS BIOCIENCIAS S.A | Ativo |
@@ -127,13 +125,13 @@ Para advertências e contraindicações da bula, consulte a bula do medicamento.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão do modelo TxGNN (deep learning) é alta (0,9989), mas não há ensaios clínicos nem literatura específica sobre a Síndrome das Pernas Inquietas (nível L4). O escore pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. No Brasil, os 8 registros encontrados estão válidos.
+- A previsão do modelo TxGNN (deep learning) é alta (0,9989), mas não há ensaios clínicos nem literatura específica sobre a Síndrome das Pernas Inquietas (nível L4). O escore pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).
 - Complementar os dados de mecanismo de ação (MOA) via DrugBank.
 - Realizar busca dirigida por evidências clínicas em epilepsia fotossensível/reflexa visual e avaliar a diferença em relação a valproato e levetiracetam.
-- Verificar a situação regulatória atual no Brasil, já que não há registros vigentes.
+- Verificar a situação regulatória atual no Brasil.
 - Avaliar se outras indicações previstas com algum sinal clínico (síndrome das pernas inquietas, estado de mal epiléptico) merecem priorização, ainda que com evidência limitada a relatos de caso.
 ## Aviso de isenção de responsabilidade
 

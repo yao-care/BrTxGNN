@@ -72,7 +72,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados. Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação aprovada.
+Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação aprovada.
 
 ## Considerações de Segurança
 

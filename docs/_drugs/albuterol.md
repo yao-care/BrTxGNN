@@ -58,7 +58,7 @@ Albuterol (salbutamol) é um agonista seletivo dos receptores adrenérgicos beta
 
 O Evidence Pack recebido apresenta `drugbank_id: null`, o que provavelmente impediu o mapeamento correto do fármaco na base de conhecimento do TxGNN. Sem o identificador DrugBank, o modelo de grafo de conhecimento não consegue localizar o nó correspondente ao fármaco e, portanto, não produz previsões de reposicionamento. O DrugBank ID esperado para Albuterol é **DB01001**, e sua ausência representa a causa mais provável da lista de `predicted_indications` vazia.
 
-Adicionalmente, a busca realizada na base da ANVISA com o termo "ALBUTEROL" retornou 0 registros. No Brasil, este fármaco é registrado sob o nome INN adotado pela OMS — **salbutamol** — utilizado amplamente em produtos como Aerolin®, Salbutamol Sandoz® e similares. A divergência de nomenclatura explica o resultado negativo da consulta regulatória.
+No Brasil, este fármaco é registrado sob o nome INN adotado pela OMS — **salbutamol** — utilizado amplamente em produtos como Aerolin®, Salbutamol Sandoz® e similares. A divergência de nomenclatura explica o resultado negativo da consulta regulatória.
 
 ## Conclusão e Próximos Passos
 

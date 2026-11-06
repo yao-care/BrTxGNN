@@ -44,7 +44,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 | Situação no Mercado Brasileiro | Comercializado (registros ativos: 6 de 6) |
 | Número de Registros | 6 (ativos: 6) |
 
-> ⚠️ **Atenção**: A consulta à base regulatória retornou 0 registros para Levotiroxina Sódica, o que pode indicar uma falha de busca. Levotiroxina é um fármaco amplamente comercializado no Brasil (ex.: Puran T4, Synthroid). Recomenda-se verificação manual na base ANVISA antes de interpretar este resultado como ausência de registro.
+> Levotiroxina é um fármaco amplamente comercializado no Brasil (ex.: Puran T4, Synthroid).
 
 ---
 

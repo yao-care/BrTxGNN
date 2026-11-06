@@ -89,7 +89,7 @@ Os dois estudos foram avaliados como de relevância baixa (grau C) para a indica
 
 ## Informações de Comercialização no Brasil
 
-Todos os 9 registros são de produtos com fosfomicina isolada e estão válidos. A tabela mostra os 5 primeiros.
+A tabela mostra os 5 primeiros.
 
 | Número de Registro | Nome Comercial | Indicação Aprovada |
 |---------|------|-----------|

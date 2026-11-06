@@ -85,7 +85,7 @@ Para advertências e contraindicações, consulte a bula, pois essas informaçõ
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se apenas em inferência computacional (nível L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível. Além disso, o único registro no Brasil está cancelado.
+A previsão baseia-se apenas em inferência computacional (nível L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança

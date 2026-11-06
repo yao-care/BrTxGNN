@@ -90,7 +90,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem mecanismo antifúngico plausível, e a única publicação indica que a rifaximina pode favorecer candidíase. Além disso, o único registro no Brasil está cancelado.
+- Não há ensaios clínicos nem mecanismo antifúngico plausível, e a única publicação indica que a rifaximina pode favorecer candidíase.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) e evidência de atividade antifúngica ou de efeito benéfico sobre a candidíase oral.

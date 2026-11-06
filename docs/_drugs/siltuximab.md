@@ -107,7 +107,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para mastocitoma extracutâneo tem pontuação alta no modelo, mas nenhuma evidência clínica ou da literatura (nível L5). Além disso, o único registro na ANVISA está cancelado e faltam dados de segurança da bula.
+A previsão para mastocitoma extracutâneo tem pontuação alta no modelo, mas nenhuma evidência clínica ou da literatura (nível L5).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança

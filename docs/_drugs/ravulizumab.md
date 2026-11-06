@@ -82,7 +82,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 
 **Justificativa:**
 - A previsão tem nível de evidência L5: não há ensaios clínicos nem literatura, e a análise não encontrou ligação mecanística plausível entre a inibição de C5 e a neutropenia por deficiência de G6PC3.
-- O único registro brasileiro está cancelado, e há sinal de contraindicação com infecção meningocócica.
+- Há sinal de contraindicação com infecção meningocócica.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados.

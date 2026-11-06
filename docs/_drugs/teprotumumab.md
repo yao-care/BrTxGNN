@@ -95,14 +95,14 @@ Para demais informações de segurança, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5). Além disso, o mecanismo conhecido (inibição do IGF-1R) é contrário ao benefício esperado em doenças com déficit de crescimento, e o único registro brasileiro está cancelado.
+Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5). Além disso, o mecanismo conhecido (inibição do IGF-1R) é contrário ao benefício esperado em doenças com déficit de crescimento.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação detalhado, obtidos de fontes como o DrugBank
 - Bula do ANVISA com advertências e contraindicações, hoje ausente e que impede a triagem de segurança
 - Evidências pré-clínicas ou clínicas que sustentem qualquer das indicações previstas
 - Avaliação de compatibilidade de via de administração e de similaridade com a indicação original
-- Reavaliação do status regulatório, já que o registro está cancelado
+- Reavaliação do status regulatório
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

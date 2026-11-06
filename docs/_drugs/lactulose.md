@@ -70,7 +70,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Os dados compilados indicam situação de comercialização "Comercializado", com 6 registros válidos e 13 cancelados. Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para listagem.
+Não há detalhamento de registros individuais (nome comercial, forma farmacêutica) disponível para listagem.
 
 ## Considerações de Segurança
 

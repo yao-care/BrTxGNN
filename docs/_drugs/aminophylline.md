@@ -77,7 +77,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 9 registros válidos de 9 no Brasil; o medicamento está comercializado.
+O medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -86,8 +86,6 @@ Foram encontrados 9 registros válidos de 9 no Brasil; o medicamento está comer
 | Registro nº 103920165 | Aminofilina | Não informada | Broncodilatadores |
 | Registro nº 103870059 | Aminofilina | Não informada | Broncodilatadores |
 | Registro nº 103700286 | Aminofilina | Não informada | Broncodilatadores |
-
-Há mais 4 registros cancelados (nº 113430165, 110850024, 103700445 e Asmafin nº 107150067), todos com a mesma indicação.
 
 ## Considerações de Segurança
 
@@ -104,13 +102,13 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do TxGNN é alta (0,9988), mas a evidência sustentadora é L4: apenas uma revisão e relatos de caso, sem ensaios clínicos. Além disso, os 9 registros no Brasil estão válidos (9 de 9) e os dados de bula (advertências e contraindicações) não estão disponíveis, o que impede a triagem de segurança.
+- A pontuação do TxGNN é alta (0,9988), mas a evidência sustentadora é L4: apenas uma revisão e relatos de caso, sem ensaios clínicos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a avaliação de segurança.
 - Complementar os dados do mecanismo de ação (consulta ao DrugBank).
 - Realizar uma revisão sistemática ou estudos clínicos (fase 2) de aminofilina em enxaqueca, incluindo a cefaleia pós-punção dural como modelo.
-- Definir via de administração e formulação viáveis, já que não há produto com registro válido no país.
+- Definir via de administração e formulação viáveis.
 - Elaborar plano de gerenciamento das interações (em especial com bupropiona) e da janela terapêutica estreita das xantinas.
 
 ## Outras Indicações Previstas (Resumo)

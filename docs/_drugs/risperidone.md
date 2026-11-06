@@ -72,7 +72,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Dos 20 registros localizados, todos estão cancelados. Não há registro vigente de risperidona isolada nem em associação. Abaixo estão 5 dos registros, incluindo os nomes comerciais distintos.
+Abaixo estão 5 dos registros, incluindo os nomes comerciais distintos.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -126,12 +126,11 @@ Não há advertências nem contraindicações de bula nas fontes compiladas. Con
 **Justificativa:**
 - Não há ensaios clínicos nem publicações, e o nível de evidência é L5.
 - Não existe vínculo mecanístico plausível entre a ação da risperidona e a fisiopatologia da doença.
-- O medicamento é comercializado no Brasil, com 20 registros válidos.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação documentados e uma justificativa biológica para a doença ligada ao ROBO3.
 - Estudos pré-clínicos ou relatos de casos que indiquem algum benefício.
-- Bula e informações de segurança atualizadas, e confirmação de disponibilidade regulatória, já que não há registro vigente no Brasil.
+- Bula e informações de segurança atualizadas, e confirmação de disponibilidade regulatória.
 
 **Observação sobre outras previsões do modelo:** para o mesmo fármaco, o TxGNN apontou indicações com evidência bem mais robusta.
   - Os ensaios são NCT00095134 (630 participantes) e NCT00044681 (258 participantes), ambos sobre risperidona como adjuvante a antidepressivos.

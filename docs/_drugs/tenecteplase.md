@@ -58,7 +58,6 @@ mas atualmente há **0 ensaios clínicos** e **0 publicações** apoiando direta
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação registrados nos dados compilados. Segundo informações conhecidas, a tenecteplase é um ativador do plasminogênio tecidual específico para fibrina, que dissolve trombos coronarianos. Sua eficácia no infarto do miocárdio já é estabelecida, e mecanisticamente pode ser aplicável a subtipos anatômicos dessa doença.
 
-
 As previsões para doenças como deleção parcial do braço curto do cromossomo 16, anemias hemolíticas hereditárias e deficiência de piruvato quinase não têm vínculo mecanístico plausível com a fibrinólise. Os scores vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica.
 
 ## Evidências de Ensaios Clínicos
@@ -93,12 +92,12 @@ Nenhuma delas fornece evidência direta de eficácia para o infarto posteroinfer
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal é um subtipo anatômico de uma indicação já existente (infarto do miocárdio), sem ensaios clínicos nem publicações específicas; o nível de evidência é L5 e a pontuação alta do modelo não é respaldada por dados reais. O fármaco não possui registro comercializado no Brasil.
+- A previsão principal é um subtipo anatômico de uma indicação já existente (infarto do miocárdio), sem ensaios clínicos nem publicações específicas; o nível de evidência é L5 e a pontuação alta do modelo não é respaldada por dados reais.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) detalhados a partir do DrugBank
 - Bula da ANVISA com advertências e contraindicações, hoje indisponível e que bloqueia a triagem de segurança
-- Esclarecer a situação regulatória no Brasil (não há registros vigentes)
+- Esclarecer a situação regulatória no Brasil
 - Evidências clínicas específicas para o infarto posteroinferior, ou confirmação de que a indicação já está coberta pela indicação geral de infarto do miocárdio
 - Entre as demais previsões, apenas a estenose coronariana (nível L3, estudo de viabilidade de tenecteplase intracoronária) justifica uma questão de pesquisa; as previsões de doenças hematológicas e cromossômicas devem ser descartadas, pois os scores vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica
 ## Aviso de isenção de responsabilidade

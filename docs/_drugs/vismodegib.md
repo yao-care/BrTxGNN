@@ -55,7 +55,6 @@ Atenção: essa indicação corresponde, na prática, ao uso oncológico já est
 
 **Ressalva sobre o nível de evidência:** os dados compilados classificam esta indicação como L1, mas nenhum ensaio de Phase 3 concluído aparece na lista. O nível reflete o fato de a indicação já ser estabelecida (estudo pivotal ERIVANCE, Phase 2, e aprovações internacionais). Pelos critérios estritos do relatório, as evidências apresentadas aqui seriam compatíveis com L2 ou inferior.
 
-
 ## Por que Esta Previsão é Razoável?
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação na base compilada. Segundo informações conhecidas, o vismodegibe é um inibidor oral de pequena molécula da proteína Smoothened (SMO), que bloqueia a via de sinalização Hedgehog. A literatura revisada confirma essa descrição (PMID 24756807, 24359667).
@@ -106,7 +105,7 @@ Foram selecionadas as 10 publicações mais relevantes, priorizando diretrizes e
 |------|------|------|------|
 | 101000664 | ERIVEDGE | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
 
-O único registro do vismodegibe na ANVISA consta como **cancelado**, portanto não há produto com registro válido no Brasil nos dados compilados. A disponibilidade deve ser verificada antes de qualquer iniciativa.
+A disponibilidade deve ser verificada antes de qualquer iniciativa.
 
 ## Citotoxicidade
 
@@ -130,7 +129,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há ensaios de Phase 2, diretrizes e revisões na área. Contudo, a indicação coincide com o uso oncológico original, o registro brasileiro está cancelado e não há dados de bula, então a decisão exige salvaguardas.
+O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há ensaios de Phase 2, diretrizes e revisões na área.
 
 **Para prosseguir, é necessário:**
 - Verificar a situação regulatória e a disponibilidade real do produto no Brasil.

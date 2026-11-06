@@ -128,7 +128,7 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Buscar evidência clínica direta para a indicação prevista (ensaios e estudos controlados)
 - Avaliar a via de administração (por exemplo, formulação oftálmica), ainda não definida
-- Esclarecer a situação regulatória, já que não há registro vigente no Brasil
+- Esclarecer a situação regulatória
 - Considerar, entre as previsões listadas, apenas a ceratite por exposição com infecção bacteriana secundária como hipótese a investigar, ainda assim com evidência indireta
 ## Aviso de isenção de responsabilidade
 

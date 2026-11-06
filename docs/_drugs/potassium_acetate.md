@@ -94,7 +94,7 @@ Os quatro registros constam como válidos; o medicamento está comercializado no
 - Realizar busca sistemática de literatura e ensaios clínicos sobre sais de potássio/acetato na ATR.
 - Avaliar a compatibilidade de via de administração (oral vs. parenteral), já que as vias necessárias para a ATR ainda não foram definidas.
 - Avaliar o risco de hipercalemia e definir um plano de monitoramento (potássio sérico, função renal e equilíbrio ácido-base), sobretudo com inibidores da ECA, bloqueadores dos receptores da angiotensina e diuréticos poupadores de potássio.
-- Verificar a viabilidade regulatória, dado que não há registro válido no Brasil.
+- Verificar a viabilidade regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

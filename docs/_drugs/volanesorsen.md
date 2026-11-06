@@ -90,7 +90,7 @@ Para as demais informações de segurança (advertências e contraindicações),
 
 **Justificativa:**
 - A previsão tem nível de evidência L5, sem ensaios clínicos nem literatura, e sem vínculo mecanístico plausível com a anemia megaloblástica.
-- O único registro no Brasil está cancelado, e há risco de trombocitopenia, o que desfavorece o uso em doenças hematológicas.
+- Há risco de trombocitopenia, o que desfavorece o uso em doenças hematológicas.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que é bloqueante para a triagem de segurança.

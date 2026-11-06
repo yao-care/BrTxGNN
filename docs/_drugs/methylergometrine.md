@@ -99,13 +99,13 @@ As advertências e contraindicações oficiais da bula não estavam disponíveis
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para hipertricose é apenas um resultado do modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, o único registro no Brasil está cancelado e há preocupações de segurança relevantes.
+- A previsão para hipertricose é apenas um resultado do modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível.
 
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (MOA) do fármaco.
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem esses dados.
 - Caso se deseje explorar alguma direção, a enxaqueca é a única com racional biológico (via metisergida). Seria necessária uma revisão de literatura específica e uma avaliação de segurança vascular, tratando-a como questão de pesquisa e não como candidata a desenvolvimento.
-- Esclarecer a situação regulatória, já que não há registro válido no Brasil.
+- Esclarecer a situação regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

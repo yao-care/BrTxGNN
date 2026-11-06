@@ -72,7 +72,7 @@ Esses dois fatores combinados impedem a execução do modelo de previsão, torna
 
 ## Informações de Comercialização no Brasil
 
-O fármaco não possui registros ativos no Brasil. Nenhuma licença foi identificada na consulta à ANVISA.
+Nenhuma licença foi identificada na consulta à ANVISA.
 
 ---
 

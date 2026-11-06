@@ -86,7 +86,7 @@ Nenhuma publicação testou o glucagon na síndrome do intestino irritável. A l
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com 2 registros, dos quais 1 está válido e 1 cancelado. Os detalhes dos registros (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados.
+Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com 2 registros, dos quais 1 está válido e 1 cancelado.
 
 ## Considerações de Segurança
 

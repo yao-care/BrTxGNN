@@ -95,7 +95,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos, e a única publicação relatada aponta para toxicidade pulmonar, não para benefício. Além disso, o único registro no Brasil está cancelado.
+A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos, e a única publicação relatada aponta para toxicidade pulmonar, não para benefício.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança

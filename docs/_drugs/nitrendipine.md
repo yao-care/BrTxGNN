@@ -118,7 +118,7 @@ Consulte a bula para informações sobre advertências e contraindicações.
 - Complementar os dados do mecanismo de ação do nitrendipino (por exemplo, via DrugBank).
 - Realizar revisão sistemática da literatura sobre bloqueadores de canais de cálcio na enxaqueca e comparar o nitrendipino com alternativas já usadas (como a flunarizina).
 - Avaliar a priorização de **hipertensão pulmonar** (seleção de pacientes com resposta vasorreativa) e **angina de Prinzmetal** como direções com maior respaldo.
-- Esclarecer a viabilidade regulatória e comercial, já que não há registro válido no Brasil.
+- Esclarecer a viabilidade regulatória e comercial.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

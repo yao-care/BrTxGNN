@@ -75,7 +75,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros válidos e o medicamento está comercializado. Os cinco principais são:
+O medicamento está comercializado. Os cinco principais são:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -130,7 +130,7 @@ A previsão se apoia apenas no modelo e em literatura indireta, sem ensaios clí
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna de dados que bloqueia a triagem de segurança
 - Obter dados de mecanismo de ação a partir do DrugBank
 - Realizar estudos pré-clínicos e clínicos específicos de doença nasal (por exemplo, papel dos receptores TAS2R no epitélio nasal)
-- Avaliar a viabilidade de via de administração (intranasal ou outra) e a situação regulatória, dado que não há registros vigentes no Brasil
+- Avaliar a viabilidade de via de administração (intranasal ou outra) e a situação regulatória
 - Considerar alternativas com evidência mais forte entre as demais previsões (por exemplo, cefaleia hípnica, cuja literatura relata o uso de cafeína como terapia de primeira linha em séries pequenas e relatos de casos)
 ## Aviso de isenção de responsabilidade
 

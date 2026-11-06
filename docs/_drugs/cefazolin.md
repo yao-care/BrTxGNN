@@ -73,7 +73,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Segundo os registros locais, há 5 registros válidos e 15 cancelados, e a lista pode ser parcial. Os dados compilados não trazem o detalhamento dos registros (número, nome comercial, forma farmacêutica), por isso a tabela não é apresentada.
+A lista pode ser parcial. Os dados compilados não trazem o detalhamento dos registros (número, nome comercial, forma farmacêutica), por isso a tabela não é apresentada.
 
 ## Considerações de Segurança
 

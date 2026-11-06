@@ -133,12 +133,11 @@ Foram compilados 20 estudos. Abaixo estão os 10 mais relevantes.
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há vários ensaios de Fase 2, Fase 2/3 e Fase 3, além de comparações randomizadas, que sustentam o busulfano como base do condicionamento em SMD. Contudo, o papel é exclusivamente de condicionamento pré-transplante, a evidência de Fase 3 específica para SMD é limitada e o único registro brasileiro está cancelado.
+Há vários ensaios de Fase 2, Fase 2/3 e Fase 3, além de comparações randomizadas, que sustentam o busulfano como base do condicionamento em SMD. Contudo, o papel é exclusivamente de condicionamento pré-transplante, a evidência de Fase 3 específica para SMD é limitada.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois esta lacuna impede a triagem de segurança.
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank).
-- Esclarecer a situação regulatória: o registro está cancelado, sendo necessário verificar a disponibilidade de produto vigente (por exemplo, busulfano injetável de outros titulares).
 - Definir plano de monitoramento de segurança (mielotoxicidade, toxicidade hepática, convulsões, interações) para o contexto de transplante.
 - Aguardar resultados dos ensaios de Fase 2/3 em andamento (NCT04708054, NCT05453552).
 

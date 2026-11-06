@@ -64,7 +64,7 @@ Em resumo, o escore alto (0,9993) deve ser interpretado com cautela: vem do mode
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros válidos. Principais exemplos:
+Principais exemplos:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -120,7 +120,7 @@ A previsão para vaginite atrófica pós-menopausa não tem nenhum ensaio clíni
 - Bula da ANVISA com advertências e contraindicações, para a triagem de segurança.
 - Justificativa biológica para uso em vaginite atrófica (por exemplo, papel de infecção secundária) e estudos pré-clínicos ou exploratórios.
 - Avaliação de compatibilidade de via de administração e forma farmacêutica, hoje pendente.
-- Esclarecimento do status regulatório, já que não há registro válido no Brasil.
+- Esclarecimento do status regulatório.
 
 ### Observação sobre as demais previsões
 

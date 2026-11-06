@@ -81,8 +81,6 @@ Os 10 registros abaixo estão válidos (10 de 10); o medicamento está comercial
 | Registro 100410149 | SMOFKABIVEN LIVRE DE ELETRÓLITOS | Não informada | Nutrientes parenterais |
 | Registro 106830098 | PRIMENE | Não informada | Nutrientes parenterais |
 
-Há ainda outros cinco registros cancelados (SMOFKABIVEN, OLIMEL, NUMETA PED, NUMETA NEO e AMINOVEN), totalizando 10.
-
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
@@ -94,7 +92,7 @@ Observação: para o hipertireoidismo e a hipertiroxinemia (outras indicações 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para síndrome da cauda equina baseia-se apenas no modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, não há registro válido da tirosina no Brasil.
+- A previsão para síndrome da cauda equina baseia-se apenas no modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) da tirosina

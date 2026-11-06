@@ -72,7 +72,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-O medicamento está comercializado, com 20 registros válidos. Principais registros (5 de 20):
+Principais registros (5 de 20):
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -128,13 +128,13 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta, mas não há nenhum ensaio clínico nem publicação (nível L5), e não existe vínculo mecanístico plausível entre a inibição da COX e a deficiência de GDF5/CDMP1. Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos.
+- A previsão tem pontuação alta, mas não há nenhum ensaio clínico nem publicação (nível L5), e não existe vínculo mecanístico plausível entre a inibição da COX e a deficiência de GDF5/CDMP1.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula do ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Realizar busca sistemática da literatura e de ensaios; entre as dez indicações previstas, a suscetibilidade a espondiloartropatia e a artrite juvenil associada a LACC1 são as mais coerentes com o uso original e podem ser priorizadas, ciente de que seriam benefício sintomático de classe, não um achado de reposicionamento inédito.
-- Verificar a situação regulatória atual, pois não há registro vigente no Brasil.
+- Verificar a situação regulatória atual.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

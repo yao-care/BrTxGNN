@@ -38,7 +38,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo
 
-Oseltamivir fosfato é um antiviral inibidor de neuraminidase, amplamente conhecido como Tamiflu®, indicado para o tratamento e profilaxia da influenza (gripe) A e B. O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta execução, impossibilitando a análise de reposicionamento. A avaliação está bloqueada por lacunas críticas de dados: ausência de registros regulatórios na base consultada, sem informações de segurança e sem candidatos de reposicionamento gerados.
+Oseltamivir fosfato é um antiviral inibidor de neuraminidase, amplamente conhecido como Tamiflu®, indicado para o tratamento e profilaxia da influenza (gripe) A e B. O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta execução, impossibilitando a análise de reposicionamento.
 
 ---
 

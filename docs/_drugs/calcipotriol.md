@@ -80,7 +80,7 @@ A base de evidências é, porém, fraca: consiste em pequenas séries clínicas 
 **Decisão: Hold**
 
 **Justificativa:**
-- A evidência é limitada a séries pequenas e relatos de casos (L3), sem ensaios clínicos registrados. O fármaco não possui registro ativo no Brasil nos dados compilados, e as informações de segurança da bula não estão disponíveis.
+- A evidência é limitada a séries pequenas e relatos de casos (L3), sem ensaios clínicos registrados. As informações de segurança da bula não estão disponíveis.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações) e confirmar a situação regulatória do calcipotriol no Brasil.

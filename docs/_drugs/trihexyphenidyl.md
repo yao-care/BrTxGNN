@@ -89,14 +89,14 @@ Atualmente não há ensaios clínicos relacionados registrados.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura que testem o triexifenidil no TDAH; a pontuação alta do modelo é apenas computacional. Além disso, os efeitos adversos cognitivos dos anticolinérgicos podem agravar a desatenção, e o único registro no Brasil está cancelado.
+- Não há ensaios clínicos nem literatura que testem o triexifenidil no TDAH; a pontuação alta do modelo é apenas computacional. Além disso, os efeitos adversos cognitivos dos anticolinérgicos podem agravar a desatenção.
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação (MOA) detalhados, a partir do DrugBank.
 - Bula do ANVISA com advertências e contraindicações, para a triagem de segurança.
 - Revisão sistemática da literatura sobre anticolinérgicos em TDAH, tiques e hiperatividade, com atenção ao impacto cognitivo.
 - Avaliação de estudos pré-clínicos ou de um ensaio exploratório antes de qualquer avanço.
-- Avaliação da viabilidade regulatória, já que não há registro vigente no Brasil.
+- Avaliação da viabilidade regulatória.
 
 **Observação sobre outras previsões:** as demais indicações previstas (síndrome faciodigitogenital, TDAH tipo desatento, encefalite de Rasmussen, neurodegeneração associada ao PLA2G6, entre outras) também carecem de evidência clínica. A neurodegeneração associada ao PLA2G6 foi classificada como "questão de pesquisa", pelo possível benefício sintomático em distonia e tremor, com base em um único relato de caso.
 ## Aviso de isenção de responsabilidade

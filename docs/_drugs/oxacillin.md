@@ -128,7 +128,7 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 - Obter e analisar a bula na ANVISA para advertências e contraindicações formais.
 - Complementar os dados de mecanismo de ação (DrugBank).
 - Realizar revisão da literatura clínica sobre o papel de antiestafilocócicos na epiglotite.
-- Verificar a disponibilidade comercial atual, dado que não há registro válido no Brasil.
+- Verificar a disponibilidade comercial atual.
 - Avaliar a via de administração e a forma farmacêutica necessárias.
 
 **Observação sobre outras indicações previstas:** "artrite bacteriana" (pontuação 0,9950, nível L4) tem plausibilidade mecanística maior, pois a oxacilina é tratamento estabelecido para infecções osteoarticulares por MSSA. Contudo, a literatura recuperada é majoritariamente descritiva (revisões, séries de casos, epidemiologia), sem ensaios diretos de eficácia, e trata-se de uso já dentro da indicação antibacteriana existente. "Laringite" (0,9973, L5) e "infecção do trato urinário" (0,9903, L4) são pouco plausíveis clinicamente: a laringite é majoritariamente viral, e a oxacilina não cobre as enterobactérias, principais causadoras de ITU. Ambas permanecem em Hold.

@@ -40,7 +40,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo em Uma Frase
 
-Adenosina é um nucleosídeo endógeno com presença consolidada no mercado brasileiro, contando com **20 registros ativos**.
 No entanto, o modelo TxGNN **não gerou predições de novas indicações** para este fármaco no ciclo atual de análise, o que impede a condução completa do relatório de reposicionamento.
 Existem **duas lacunas de dados críticas** — ausência de mecanismo de ação e de dados regulatórios detalhados — que precisam ser resolvidas antes de prosseguir.
 
@@ -71,8 +70,6 @@ Para que esta seção seja completada em versão futura, é necessário: (1) exe
 ---
 
 ## Informações de Comercialização no Brasil
-
-O fármaco possui **20 registros ativos** no mercado brasileiro, confirmando disponibilidade comercial ampla. Contudo, os detalhes individuais dos registros — número de licença, nome comercial, forma farmacêutica e texto da indicação aprovada — não estão disponíveis nos dados atuais (todos os campos retornaram vazios na consulta ao TFDA).
 
 Esses detalhes devem ser obtidos diretamente junto à ANVISA para possibilitar a análise regulatória completa.
 

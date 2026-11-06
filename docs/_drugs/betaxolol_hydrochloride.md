@@ -40,7 +40,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Betaxolol Hidrocloro é um bloqueador beta-1 adrenérgico seletivo, historicamente indicado no tratamento da hipertensão arterial e do glaucoma/hipertensão ocular.
 O Evidence Pack atual **não contém previsões do modelo TxGNN** para novas indicações terapêuticas, impossibilitando a condução de análise formal de reposicionamento.
-A ausência de registros no mercado, de informações de segurança e de dados de mecanismo de ação torna esta avaliação classificada como **Hold** até que as lacunas críticas sejam sanadas.
 
 ---
 
@@ -72,7 +71,7 @@ Contudo, **sem dados de mecanismo de ação (MOA) validados no Evidence Pack e s
 
 Consulte a bula do produto para informações completas de segurança.
 
-> **Nota:** A consulta às fontes DDI e TFDA não retornou dados de advertências, contraindicações ou interações medicamentosas para este fármaco no Evidence Pack atual. As lacunas de dados de segurança (DG001) têm severidade **Bloqueante** para qualquer avanço na avaliação.
+> As lacunas de dados de segurança (DG001) têm severidade **Bloqueante** para qualquer avanço na avaliação.
 
 ---
 
@@ -84,11 +83,10 @@ Consulte a bula do produto para informações completas de segurança.
 O Evidence Pack não contém previsões de novas indicações pelo modelo TxGNN, e os campos críticos de segurança, mecanismo de ação e registro regulatório estão ausentes — tornando inviável qualquer análise estruturada de reposicionamento neste momento.
 
 **Para prosseguir, é necessário:**
-- 🔴 **(Bloqueante — DG001)** Obter advertências, contraindicações e informações de bula via TFDA/ANVISA (download e parsing do PDF da bula)
+- 🔴 **(Bloqueante — DG001)** Obter advertências, contraindicações e informações de bula via ANVISA (download e parsing do PDF da bula)
 - 🟠 **(Alta — DG002)** Integrar dados de mecanismo de ação (MOA) do DrugBank — a consulta já retornou 1 resultado pendente de extração
 - 🟡 Executar ou revisar o pipeline TxGNN para gerar previsões de reposicionamento para o Betaxolol Hidrocloro
 - 🟡 Verificar mapeamento para DrugBank ID (atualmente nulo) para garantir cobertura no grafo de conhecimento
-- 🟡 Investigar por que a consulta TFDA retornou 0 registros — o fármaco pode estar cadastrado sob variantes de nome (ex: "betaxolol", sem o sufixo "hydrochloride")
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

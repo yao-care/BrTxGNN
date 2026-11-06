@@ -85,7 +85,7 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados. A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.
+A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.
 
 ## Considerações de Segurança
 

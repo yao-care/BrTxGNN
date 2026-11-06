@@ -100,13 +100,13 @@ Consulte a bula para as advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se baseia somente na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura, e não há mecanismo plausível de modificação da doença. O fármaco não está registrado no Brasil e tem perfil de segurança que exige cautela.
+- A previsão se baseia somente na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura, e não há mecanismo plausível de modificação da doença.
 
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank) para analisar a ligação mecanística.
 - Obter e analisar a bula na ANVISA (advertências e contraindicações oficiais), etapa bloqueante para a triagem de segurança.
 - Realizar revisão da literatura específica sobre tramadol nas doenças previstas, especialmente como analgesia sintomática em displasias esqueléticas e artrites.
-- Esclarecer a situação regulatória no Brasil, já que não há registros vigentes.
+- Esclarecer a situação regulatória no Brasil.
 - Definir, caso se avance, uma avaliação de segurança para populações específicas (pediatria, insuficiência hepática, risco de dependência e de síndrome serotoninérgica).
 ## Aviso de isenção de responsabilidade
 

@@ -71,7 +71,7 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão está no nível L5 (apenas modelo), sem ensaios clínicos, sem literatura e sem mecanismo plausível. O fármaco não tem registro no Brasil, e os dados de segurança da bula não estão disponíveis.
+- A previsão está no nível L5 (apenas modelo), sem ensaios clínicos, sem literatura e sem mecanismo plausível. Os dados de segurança da bula não estão disponíveis.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança

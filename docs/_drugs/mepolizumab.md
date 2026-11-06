@@ -87,12 +87,12 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se quase exclusivamente em um escore computacional, com apenas um relato de caso confundido por terapia concomitante e sem ensaios clínicos. Além disso, o único registro brasileiro está cancelado.
+A previsão baseia-se quase exclusivamente em um escore computacional, com apenas um relato de caso confundido por terapia concomitante e sem ensaios clínicos.
 
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (MOA) em fonte confiável, como o DrugBank
 - Obter e analisar a bula na ANVISA (advertências e contraindicações) para a triagem de segurança
-- Esclarecer a situação regulatória do produto no Brasil, já que o registro está cancelado
+- Esclarecer a situação regulatória do produto no Brasil
 - Buscar estudos que avaliem diretamente o mepolizumabe em trombocitopenia imune, para além do contexto hipereosinofílico
 - Considerar que as demais indicações previstas (distúrbio de liberação plaquetária, pseudo-doença de von Willebrand, trombocitopenia autoimune e trombastenia de Glanzmann) têm apenas predição computacional e plausibilidade biológica baixa ou nula
 ## Aviso de isenção de responsabilidade

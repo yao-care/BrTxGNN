@@ -72,7 +72,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Os dados locais indicam que o fármaco é comercializado, com 10 registros válidos. A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.
+A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.
 
 ## Considerações de Segurança
 

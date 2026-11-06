@@ -40,7 +40,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Binimetinibe é um inibidor de MEK1/MEK2 (terapia-alvo) utilizado no tratamento do melanoma com mutação BRAF V600E/K, em combinação com encorafenibe.
 O Evidence Pack atual **não contém previsões de novas indicações** geradas pelo modelo TxGNN, impossibilitando a análise completa de reposicionamento neste ciclo.
-O fármaco está comercializado no Brasil com 2 registros, mas os detalhes dos registros e dados de segurança não foram populados nesta versão do pack.
+O fármaco está comercializado no Brasil com 2 registros.
 
 ---
 
@@ -81,9 +81,8 @@ O Evidence Pack não contém previsões de novas indicações (`predicted_indica
 
 **Para prosseguir, é necessário:**
 - Executar o pipeline TxGNN para gerar previsões de novas indicações para Binimetinibe
-- Preencher os detalhes dos 2 registros da ANVISA (número de registro, nome comercial, forma farmacêutica, indicação aprovada) — a consulta TFDA retornou 2 resultados mas os campos foram devolvidos vazios
 - Recuperar dados de MOA do DrugBank — a consulta retornou 1 resultado (`result_status: success`) mas o campo `drugbank_id` e `original_moa` não foram populados; verificar a extração
-- Baixar e analisar a bula da ANVISA/TFDA para preencher advertências principais e contraindicações (DG001 – severidade Blocking)
+- Baixar e analisar a bula da ANVISA para preencher advertências principais e contraindicações (DG001 – severidade Blocking)
 - Consultar banco de dados de interações medicamentosas (DDI) com nome alternativo ou sinônimos, pois a consulta atual retornou `not_found`
 ## Aviso de isenção de responsabilidade
 

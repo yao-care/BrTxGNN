@@ -74,7 +74,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros válidos. Principais registros (máximo de 5):
+Principais registros (máximo de 5):
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -124,7 +124,7 @@ Consulte a bula para as advertências e contraindicações oficiais, pois não e
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se baseia apenas na pontuação do modelo (nível L5): não há ensaios clínicos, a única publicação não é específica do manitol, e o mecanismo da doença (ganho de função do AVPR2) não é plausivelmente tratável por diurese osmótica, com risco de piora da hiponatremia. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos.
+A previsão se baseia apenas na pontuação do modelo (nível L5): não há ensaios clínicos, a única publicação não é específica do manitol, e o mecanismo da doença (ganho de função do AVPR2) não é plausivelmente tratável por diurese osmótica, com risco de piora da hiponatremia.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.

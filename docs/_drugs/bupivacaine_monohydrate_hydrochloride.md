@@ -69,12 +69,12 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O modelo TxGNN não produziu nenhuma previsão de reposicionamento para Bupivacaína Monohidrato Cloridrato nesta execução, e o fármaco não possui registro de comercialização no Brasil, tornando inviável o avanço da análise com os dados atuais.
+O modelo TxGNN não produziu nenhuma previsão de reposicionamento para Bupivacaína Monohidrato Cloridrato nesta execução.
 
 **Para prosseguir, é necessário:**
 - Verificar se o identificador do fármaco está correto — confirmar se `BUPIVACAINE MONOHYDRATE HYDROCHLORIDE` deve ser normalizado para `BUPIVACAINE` no pipeline de mapeamento TxGNN
 - Obter o DrugBank ID correspondente para acessar MOA, categorias farmacológicas e dados de segurança (Data Gap DG002)
-- Baixar e analisar a bula ANVISA/TFDA para preencher advertências, contraindicações e indicações originais (Data Gap DG001)
+- Baixar e analisar a bula ANVISA para preencher advertências, contraindicações e indicações originais (Data Gap DG001)
 - Reprocessar o candidato pelo TxGNN após correção do identificador para verificar se surgem previsões de reposicionamento
 ## Aviso de isenção de responsabilidade
 

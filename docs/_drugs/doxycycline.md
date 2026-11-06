@@ -92,8 +92,6 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 | Registro nº 121100437 (cancelado) | Vibramicina | Não informada | Classe das tetraciclinas |
 | Registro nº 100470330 (cancelado) | Doxiciclina | Não informada | Classe das tetraciclinas |
 
-Os quatro registros constam como cancelados; não há registro válido nos dados compilados.
-
 ---
 
 ## Considerações de Segurança
@@ -122,7 +120,7 @@ Para advertências e demais contraindicações, consulte a bula.
 - Obter o mecanismo de ação no DrugBank e as advertências e contraindicações da bula na ANVISA (lacunas de dados de gravidade bloqueante e alta).
 - Realizar revisão sistemática da literatura sobre doxiciclina em ceratoconjuntivite, com atenção a doenças oculares por clamídia e rosácea ocular.
 - Definir a via e a formulação (sistêmica ou oftálmica), pois a compatibilidade de via não foi avaliada.
-- Esclarecer a situação regulatória, já que não há registro válido no Brasil.
+- Esclarecer a situação regulatória.
 
 **Outras indicações previstas, para priorização:**
 

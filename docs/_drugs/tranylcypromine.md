@@ -94,13 +94,13 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão de maior pontuação (torcicolo paroxístico benigno da infância) não tem nenhum ensaio, publicação ou ligação mecanística plausível, e o perfil de risco do fármaco é incompatível com o uso em lactentes. O único registro no Brasil está cancelado.
+A previsão de maior pontuação (torcicolo paroxístico benigno da infância) não tem nenhum ensaio, publicação ou ligação mecanística plausível, e o perfil de risco do fármaco é incompatível com o uso em lactentes.
 
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA com advertências e contraindicações oficiais
 - Complementar os dados de mecanismo de ação (DrugBank)
 - Priorizar, se houver interesse, indicações com literatura (por exemplo, agorafobia e transtorno de pânico refratário), que hoje têm apenas revisões e relatos de caso (nível L4) e exigiriam estudos controlados
-- Confirmar a situação regulatória atual do fármaco no Brasil, já que o registro está cancelado
+- Confirmar a situação regulatória atual do fármaco no Brasil
 - Elaborar um plano de segurança específico para crise hipertensiva, síndrome serotoninérgica e interações medicamentosas antes de qualquer desenvolvimento
 ## Aviso de isenção de responsabilidade
 

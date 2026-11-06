@@ -72,7 +72,6 @@ Não há vínculo mecanístico claro entre essa via e a síntese ou secreção d
 | 9 | Neoplasia endócrina múltipla | 0,9918 | Sem racional mecanístico |
 | 10 | Osteoporose associada à gestação | 0,9917 | Sem vínculo; preocupações de segurança na gravidez |
 
-
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados para hipertireoidismo.
@@ -111,7 +110,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para hipertireoidismo baseia-se apenas na pontuação do modelo (nível L5), sem ensaios, literatura ou vínculo mecanístico plausível. Além disso, o único registro no Brasil está cancelado.
+A previsão para hipertireoidismo baseia-se apenas na pontuação do modelo (nível L5), sem ensaios, literatura ou vínculo mecanístico plausível.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação documentados e uma análise que relacione ACLY à fisiologia tireoidiana

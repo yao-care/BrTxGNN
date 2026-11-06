@@ -91,7 +91,7 @@ Não há ensaio de fase 3 específico para a doença peritoneal. A evidência ve
 
 ## Informações de Comercialização no Brasil
 
-Os 3 registros encontrados estão **válidos** (3 licenças válidas de 3); o pemetrexede está comercializado neste país.
+O pemetrexede está comercializado neste país.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -145,7 +145,7 @@ Consulte a bula para advertências e contraindicações formais.
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há ensaios randomizados de fase 2 e séries clínicas com pemetrexede + platina no mesotelioma peritoneal, além de forte respaldo no mesotelioma pleural (fase 3 pivotal, Vogelzang 2003). Contudo, não há ensaio de fase 3 específico para a doença peritoneal e os registros brasileiros estão todos cancelados.
+Há ensaios randomizados de fase 2 e séries clínicas com pemetrexede + platina no mesotelioma peritoneal, além de forte respaldo no mesotelioma pleural (fase 3 pivotal, Vogelzang 2003). Contudo, não há ensaio de fase 3 específico para a doença peritoneal.
 
 **Para prosseguir, é necessário:**
 - Verificar a situação regulatória e a disponibilidade atual do pemetrexede no Brasil, incluindo possíveis registros de outros fabricantes.

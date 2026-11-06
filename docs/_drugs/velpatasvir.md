@@ -101,7 +101,7 @@ Para advertências e contraindicações, consulte a bula.
 - Dados detalhados do mecanismo de ação (MOA)
 - Obtenção e análise da bula da ANVISA (advertências e contraindicações), se houver registro futuro
 - Resultados do NCT04997564 para orientar o manejo da reativação do HBV em coinfectados
-- Definição do cenário regulatório no Brasil, já que não há registro vigente
+- Definição do cenário regulatório no Brasil
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

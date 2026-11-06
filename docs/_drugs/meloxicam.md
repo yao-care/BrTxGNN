@@ -118,7 +118,7 @@ A previsão é apenas do modelo (L5), sem ensaios clínicos nem literatura. As c
 - Obter dados do mecanismo de ação (MOA) no DrugBank
 - Realizar estudos pré-clínicos ou de mecanismo que justifiquem uma relação entre COX-2/prostaglandinas e a patologia
 - Priorizar, se houver interesse, a hipótese mais coerente (AIJ poliarticular FR-positiva), com revisão de estudos específicos do meloxicam
-- Avaliar a viabilidade regulatória, já que não há registro vigente no Brasil
+- Avaliar a viabilidade regulatória
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

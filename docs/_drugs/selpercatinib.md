@@ -103,7 +103,7 @@ Consulte a bula para advertências e contraindicações, pois estas não estavam
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para hipertensão pulmonar baseia-se somente no modelo (nível L5), sem ensaios clínicos, sem literatura sobre a indicação e sem vínculo mecanístico plausível. Além disso, o único registro brasileiro está cancelado.
+- A previsão para hipertensão pulmonar baseia-se somente no modelo (nível L5), sem ensaios clínicos, sem literatura sobre a indicação e sem vínculo mecanístico plausível.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

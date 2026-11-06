@@ -110,13 +110,13 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-Para a indicação principal (tumor relacionado ao HHV-8), a previsão está no nível L5, sem nenhum ensaio clínico ou publicação, e o registro brasileiro está cancelado. Embora o mecanismo seja biologicamente plausível, a evidência é insuficiente para avançar.
+Para a indicação principal (tumor relacionado ao HHV-8), a previsão está no nível L5, sem nenhum ensaio clínico ou publicação. Embora o mecanismo seja biologicamente plausível, a evidência é insuficiente para avançar.
 
 **Para prosseguir, é necessário:**
 - Realizar busca sistemática de ensaios e literatura sobre avelumabe em sarcoma de Kaposi e outros tumores associados ao HHV-8
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), uma lacuna bloqueante para a triagem de segurança
 - Completar os dados de mecanismo de ação no DrugBank
-- Esclarecer a situação regulatória, já que o único registro está cancelado
+- Esclarecer a situação regulatória
 - Se houver interesse em oncologia, considerar priorizar as indicações uroteliais (posições 9 e 10), que têm evidência indireta mais robusta
 ## Aviso de isenção de responsabilidade
 

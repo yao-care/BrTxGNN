@@ -108,7 +108,7 @@ A previsão se baseia apenas no modelo (L5): não há ensaios clínicos, a liter
 - Obter o mecanismo de ação (consulta à API do DrugBank)
 - Obter advertências e contraindicações da bula na ANVISA
 - Estudos pré-clínicos ou de mecanismo sobre aspartato, amoniogênese renal e equilíbrio ácido-base
-- Avaliar a viabilidade regulatória, dado que não há registro válido no Brasil, e a compatibilidade de vias de administração
+- Avaliar a viabilidade regulatória, e a compatibilidade de vias de administração
 - Revisão de segurança renal, considerando que a previsão do modelo TxGNN (deep learning) para acidose tubular renal pode refletir similaridades aprendidas entre doenças relacionadas, não evidência biológica
 ## Aviso de isenção de responsabilidade
 

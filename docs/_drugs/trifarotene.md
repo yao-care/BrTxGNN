@@ -79,7 +79,7 @@ Para demais informações de segurança (advertências e contraindicações), co
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para zinco plasmático elevado baseia-se exclusivamente na pontuação do modelo, sem ensaios clínicos, literatura ou vínculo mecanístico plausível (nível de evidência L5). Além disso, o único registro no Brasil está cancelado.
+- A previsão para zinco plasmático elevado baseia-se exclusivamente na pontuação do modelo, sem ensaios clínicos, literatura ou vínculo mecanístico plausível (nível de evidência L5).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.

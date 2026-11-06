@@ -66,7 +66,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis n
 
 ## Informações de Comercialização no Brasil
 
-O fármaco possui **1 registro ativo** com status "Já Comercializado". Os detalhes individuais do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram populados** no Evidence Pack atual e precisam ser recuperados via download da bula na ANVISA.
+O fármaco possui **1 registro ativo** com status "Já Comercializado".
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

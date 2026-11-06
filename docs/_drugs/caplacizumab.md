@@ -101,7 +101,6 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 - Não há ensaios clínicos nem publicações para esta indicação (nível L5).
 - O mecanismo de ação (inibição da adesão plaquetária mediada por vWF) sugere possível piora de um distúrbio hemorrágico, o que contraria a previsão do modelo.
-- O único registro brasileiro está cancelado.
 
 **Para prosseguir, é necessário:**
 - Dados detalhados do mecanismo de ação e uma justificativa biológica que explique como bloquear vWF-GPIb poderia beneficiar um defeito de secreção plaquetária.

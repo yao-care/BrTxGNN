@@ -95,13 +95,12 @@ O ensaio disponível (NCT00729586) é um estudo Phase 2 randomizado e concluído
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Há um ensaio Phase 2 randomizado e concluído em câncer endometrial com regime que inclui megestrol, e a progestina tem fundamento hormonal plausível nessa doença. Contudo, a evidência é indireta (braço combinado), não há literatura específica para esta indicação, e o único registro brasileiro está cancelado.
+- Há um ensaio Phase 2 randomizado e concluído em câncer endometrial com regime que inclui megestrol, e a progestina tem fundamento hormonal plausível nessa doença. Contudo, a evidência é indireta (braço combinado), não há literatura específica para esta indicação.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar os resultados do NCT00729586, especialmente a contribuição do braço com megestrol.
 - Obter a bula da ANVISA para avaliar advertências e contraindicações (lacuna de dados bloqueante para a triagem de segurança).
 - Confirmar o mecanismo de ação em fontes como o DrugBank.
-- Definir a situação regulatória: o registro está cancelado, e seria necessário um novo registro ou outra via de acesso.
 - Estabelecer plano de monitoramento para pacientes com diabetes, hipertensão e doença hepática/renal, além de avaliar interações com antidiabéticos.
 
 ## Outras Previsões do Modelo (Contexto)

@@ -81,7 +81,7 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack está estruturalmente incompleto — `predicted_indications` retornou lista vazia e os dados de registro ANVISA não foram populados, tornando inviável qualquer análise de reposicionamento ou avaliação de segurança nesta versão.
+O Evidence Pack está estruturalmente incompleto — `predicted_indications` retornou lista vazia.
 
 **Para prosseguir, é necessário:**
 - **[Blocking]** Obter informações de segurança da bula ANVISA (advertências e contraindicações) — fazer download do PDF da bula no portal da ANVISA e extrair os dados relevantes

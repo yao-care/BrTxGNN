@@ -109,14 +109,14 @@ Para hipertensão pulmonar, atualmente não há literatura relacionada.
 **Decisão: Hold**
 
 **Justificativa:**
-Todas as previsões estão no nível L5, sem ensaios clínicos nem literatura direta. Além disso, o registro no Brasil está cancelado e o perfil de segurança da classe (hiperfosfatemia, toxicidade ocular, 112 interações) exige cautela. A hipertensão pulmonar é a previsão com a justificativa biológica mais plausível, mas a direção do efeito é incerta.
+Todas as previsões estão no nível L5, sem ensaios clínicos nem literatura direta. A hipertensão pulmonar é a previsão com a justificativa biológica mais plausível, mas a direção do efeito é incerta.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem esses dados
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank)
 - Realizar estudos pré-clínicos de FGFR em modelos de hipertensão pulmonar, para esclarecer se a inibição é benéfica ou prejudicial
 - Revisar a literatura sistematicamente para identificar evidências diretas
-- Avaliar a viabilidade regulatória, já que o único registro está cancelado
+- Avaliar a viabilidade regulatória
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

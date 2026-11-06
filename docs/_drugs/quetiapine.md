@@ -84,7 +84,7 @@ Os resultados são heterogêneos: há relatos favoráveis, mas também um relato
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros válidos no mercado brasileiro. Principais registros:
+Principais registros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -134,7 +134,7 @@ Não há texto de bula disponível para advertências e contraindicações forma
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão de maior pontuação (distrofia retiniana com ou sem anomalias extraoculares) e as demais previsões de doenças genéticas ou congênitas não têm ensaios, literatura nem vínculo mecanístico (nível L5). A tricotilomania tem apenas relatos de caso e revisões (L4), sem estudo controlado, e o medicamento é comercializado no Brasil com 20 registros válidos.
+- A previsão de maior pontuação (distrofia retiniana com ou sem anomalias extraoculares) e as demais previsões de doenças genéticas ou congênitas não têm ensaios, literatura nem vínculo mecanístico (nível L5). A tricotilomania tem apenas relatos de caso e revisões (L4), sem estudo controlado.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança.

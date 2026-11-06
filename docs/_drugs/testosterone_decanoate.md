@@ -38,7 +38,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo
 
-Testosterona Decanoato é um éster de testosterona de ação prolongada, pertencente à classe dos androgênios e esteroides anabólicos, classicamente utilizado em terapias de reposição hormonal masculina (hipogonadismo). O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual de análise — nenhuma nova indicação candidata foi identificada. A ausência de registro brasileiro e a indisponibilidade de dados de mecanismo de ação (MOA) e segurança limitam qualquer avaliação aprofundada neste momento.
+Testosterona Decanoato é um éster de testosterona de ação prolongada, pertencente à classe dos androgênios e esteroides anabólicos, classicamente utilizado em terapias de reposição hormonal masculina (hipogonadismo). O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual de análise — nenhuma nova indicação candidata foi identificada.
 
 ---
 
@@ -58,8 +58,6 @@ Testosterona Decanoato é um éster de testosterona de ação prolongada, perten
 
 ## Informações de Comercialização no Brasil
 
-Não há registros ativos de Testosterona Decanoato na ANVISA. A consulta realizada em 26/03/2026 retornou **zero resultados**, indicando que o fármaco não possui registro vigente como produto independente no Brasil.
-
 > Observação: Testosterona Decanoato pode estar comercializada no Brasil como componente de combinações de ésteres de testosterona (ex.: Sustanon). Uma consulta específica por produto combinado pode ser necessária para esclarecer a situação regulatória real.
 
 ---
@@ -75,7 +73,7 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O modelo TxGNN não gerou nenhuma previsão de reposicionamento para este fármaco no ciclo atual. A combinação de ausência de registro regulatório no Brasil, dados de mecanismo de ação indisponíveis e ausência de informações de segurança torna inviável qualquer análise de viabilidade clínica ou regulatória neste momento.
+O modelo TxGNN não gerou nenhuma previsão de reposicionamento para este fármaco no ciclo atual.
 
 **Para prosseguir, é necessário:**
 - Integrar os dados do DrugBank (consulta retornou 1 resultado em 26/03/2026, mas o conteúdo ainda não foi processado) para obter MOA, categorias terapêuticas e perfil de segurança

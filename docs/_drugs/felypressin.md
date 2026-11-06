@@ -82,7 +82,7 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 **Decisão: Hold**
 
 **Justificativa:**
-Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5), o mecanismo de ação é desconhecido e não há plausibilidade biológica evidente. Além disso, os dois registros no Brasil estão cancelados, o que reduz a viabilidade regulatória.
+Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5), o mecanismo de ação é desconhecido e não há plausibilidade biológica evidente.
 
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (por exemplo, consultando o DrugBank) e avaliar a plausibilidade da sinalização de vasopressina/receptores V1 no osso

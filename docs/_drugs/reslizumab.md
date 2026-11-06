@@ -81,14 +81,14 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta no modelo, mas não há ensaios clínicos nem literatura direta (nível L5). Além disso, o único registro brasileiro está cancelado e faltam dados de mecanismo e de segurança.
+- A previsão tem pontuação alta no modelo, mas não há ensaios clínicos nem literatura direta (nível L5).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Realizar busca de literatura e de ensaios clínicos sobre o bloqueio de IL-5 em trombocitopenia imune
 - Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original
-- Verificar a viabilidade regulatória, dado que o registro no Brasil está cancelado
+- Verificar a viabilidade regulatória
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

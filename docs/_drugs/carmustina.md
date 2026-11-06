@@ -83,7 +83,7 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O modelo TxGNN não gerou previsões de reposicionamento para Carmustina neste ciclo de avaliação, inviabilizando a análise comparativa de indicações. Adicionalmente, os detalhes dos registros regulatórios brasileiros (indicações aprovadas, advertências, contraindicações) não foram recuperados, impossibilitando a avaliação completa de segurança.
+O modelo TxGNN não gerou previsões de reposicionamento para Carmustina neste ciclo de avaliação, inviabilizando a análise comparativa de indicações.
 
 **Para prosseguir, é necessário:**
 - Mapear o **DrugBank ID** de Carmustina (BCNU) e reexecutar a previsão TxGNN para obter candidatos de reposicionamento

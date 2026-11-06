@@ -4,6 +4,107 @@
    "sentence": "A consulta à ANVISA (TFDA query em 2026-03-26) confirmou",
    "cut": " (TFDA query em 2026-03-26)",
    "reason": "M5：TwTxGNN 模板殘留的台灣查詢欄位名（TFDA query），本站查的是 ANVISA；只刪括號，句子其餘部分保留（2026-11-06）"
+  },
+  {
+   "sentence": "**Detalhes dos registros**: todos os campos estão em branco (10 registros confirmados, sem detalhes)",
+   "reason": "事實：ANVISA 11 張、有效 9 張，證據包有逐張明細；「明細都是空的、10 張」與事實矛盾，整條刪（2026-11-06）"
+  },
+  {
+   "sentence": "Lenalidomida (LENALIDOMIDA) é um fármaco registrado na ANVISA com 10 registros ativos e situação de comercialização confirmada no Brasil.",
+   "reason": "事實：ANVISA 11 張、有效 9 張；只刪「 com 10 registros ativos e situação de comercialização confirmada no Brasil」，留下「是 ANVISA 登記的藥物」（2026-11-06）",
+   "cut": " com 10 registros ativos e situação de comercialização confirmada no Brasil"
+  },
+  {
+   "sentence": "A consulta à ANVISA confirmou **10 registros** para Lenalidomida no Brasil com status de comercialização ativo.",
+   "reason": "事實：ANVISA 11 張、有效 9 張，張數不符，整句刪（2026-11-06）"
+  },
+  {
+   "sentence": "No entanto, os detalhes individuais — número de registro, nome comercial, forma farmacêutica e indicação aprovada — **não foram retornados** nesta versão do Evidence Pack (todos os campos estão em branco).",
+   "reason": "事實：證據包已有 11 張許可的逐張明細（號碼、品名、劑型、適應症），「明細沒有回傳、欄位空白」與事實矛盾，整句刪（2026-11-06）"
+  },
+  {
+   "sentence": "É necessário recuperar os detalhes completos antes de prosseguir com a análise.",
+   "reason": "以前一句（明細空白）為前提，前提已刪，整句刪（2026-11-06）"
+  },
+  {
+   "sentence": "Sem previsões TxGNN e sem dados regulatórios detalhados, não existe base técnica",
+   "reason": "事實：證據包有逐張許可明細；只刪「 e sem dados regulatórios detalhados」（2026-11-06）",
+   "cut": " e sem dados regulatórios detalhados"
+  },
+  {
+   "sentence": "A confirmação de 10 registros ativos demonstra que o fármaco está presente no mercado brasileiro",
+   "reason": "事實：有效 9 張；只刪張數「10 」，「有有效登記、在巴西市場上」的敘述保留（2026-11-06）",
+   "cut": "10 "
+  },
+  {
+   "sentence": "**Recuperar detalhes dos 10 registros ANVISA**: números de registro, nomes comerciais, formas farmacêuticas e indicações aprovadas",
+   "reason": "事實：11 張許可的明細已在證據包中，「去取回 10 張的明細」以錯誤前提為基礎，整條刪（2026-11-06）"
+  }
+ ],
+ "amilorida_hydrochloride": [
+  {
+   "sentence": "| Indicação Original | Não disponível (sem registros no TFDA) |",
+   "reason": "括號「TFDA 查無紀錄」是 TwTxGNN 模板殘留，只刪括號，「Não disponível」保留（2026-11-06）",
+   "cut": " (sem registros no TFDA)"
+  },
+  {
+   "sentence": "| DG001 | Advertências/contraindicações do TFDA (bula) |",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留，只刪「 do TFDA」（2026-11-06）",
+   "cut": " do TFDA"
+  },
+  {
+   "sentence": "Baixar e analisar o PDF da bula no TFDA para extrair advertências e contraindicações",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留，只刪「 no TFDA」（2026-11-06）",
+   "cut": " no TFDA"
+  }
+ ],
+ "amorolfina_hydrochloride": [
+  {
+   "sentence": "Baixar e analisar a bula ANVISA/TFDA para extrair advertências e contraindicações",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留，只刪「/TFDA」（2026-11-06）",
+   "cut": "/TFDA"
+  }
+ ],
+ "betahistine_dihydrochloride": [
+  {
+   "sentence": "Obter a bula oficial via TFDA ou equivalente regulatório para extrair advertências e contraindicações",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留，只刪「via TFDA ou equivalente regulatório 」（2026-11-06）",
+   "cut": "via TFDA ou equivalente regulatório "
+  }
+ ],
+ "betaxolol_hydrochloride": [
+  {
+   "sentence": "Obter advertências, contraindicações e informações de bula via TFDA/ANVISA",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留，只刪「TFDA/」（2026-11-06）",
+   "cut": "TFDA/"
+  }
+ ],
+ "binimetinibe": [
+  {
+   "sentence": "Baixar e analisar a bula da ANVISA/TFDA para preencher advertências principais e contraindicações",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留，只刪「/TFDA」（2026-11-06）",
+   "cut": "/TFDA"
+  }
+ ],
+ "bupivacaine_monohydrate_hydrochloride": [
+  {
+   "sentence": "Baixar e analisar a bula ANVISA/TFDA para preencher advertências",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留，只刪「/TFDA」（2026-11-06）",
+   "cut": "/TFDA"
+  }
+ ],
+ "cabergolina": [
+  {
+   "sentence": "| DG001 | TFDA/ANVISA — advertências e contraindicações da bula |",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留，只刪「TFDA/」（2026-11-06）",
+   "cut": "TFDA/"
+  }
+ ],
+ "oxycodone_hydrochloride": [
+  {
+   "sentence": "Baixar e analisar a bula disponível na TFDA/ANVISA para preencher",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留，只刪「TFDA/」（2026-11-06）",
+   "cut": "TFDA/"
   }
  ]
 }

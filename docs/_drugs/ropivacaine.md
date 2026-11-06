@@ -116,14 +116,13 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-Existe plausibilidade mecanística e algum suporte clínico para bloqueios com ropivacaína na enxaqueca, mas as evidências são frágeis: um RCT de Fase 4 com apenas 10 participantes, um estudo de cefaleia pediátrica não específico para enxaqueca e estudos observacionais. Além disso, embora o medicamento esteja comercializado, com 8 registros válidos de 8, faltam dados de bula e de mecanismo de ação. O conjunto não sustenta avançar além de uma pergunta de pesquisa.
+Existe plausibilidade mecanística e algum suporte clínico para bloqueios com ropivacaína na enxaqueca, mas as evidências são frágeis: um RCT de Fase 4 com apenas 10 participantes, um estudo de cefaleia pediátrica não específico para enxaqueca e estudos observacionais. O conjunto não sustenta avançar além de uma pergunta de pesquisa.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula oficial da ANVISA (advertências e contraindicações), pois a triagem de segurança não pode ser concluída sem esses dados.
 - Complementar os dados do mecanismo de ação a partir do DrugBank.
 - Realizar ensaios randomizados maiores (Fase 2/3), controlados por placebo, de bloqueios com ropivacaína especificamente em enxaqueca.
 - Avaliar a compatibilidade entre as vias de administração necessárias (bloqueio de gânglio, injeção em pontos-gatilho) e as formas farmacêuticas disponíveis.
-- Verificar a situação regulatória: não há registro válido no Brasil, o que exigiria novo registro ou comercialização por outra via.
 
 ### Outras indicações previstas (resumo)
 

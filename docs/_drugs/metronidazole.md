@@ -94,7 +94,7 @@ Prioridade para os tipos de estudo mais robustos; nenhum é RCT.
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 20 registros válidos; o medicamento está comercializado. Listados os cinco principais:
+O medicamento está comercializado. Listados os cinco principais:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -150,7 +150,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos, a literatura é indireta e não sustenta eficácia contra *Pneumocystis*, e o mecanismo do metronidazol é incompatível com um fungo; a pontuação alta vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos.
+- Não há ensaios clínicos, a literatura é indireta e não sustenta eficácia contra *Pneumocystis*, e o mecanismo do metronidazol é incompatível com um fungo; a pontuação alta vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 **Para prosseguir, é necessário:**
 - Obter dados de mecanismo de ação e das advertências e contraindicações da bula (ANVISA), hoje ausentes.

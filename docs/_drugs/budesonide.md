@@ -98,7 +98,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Para prosseguir, é necessário:**
 - Ensaios clínicos controlados da budesonida tópica no eczema atópico, com eficácia e segurança (sensibilização de contato, absorção sistêmica, crescimento infantil).
 - Dados do mecanismo de ação e das advertências e contraindicações da bula na ANVISA.
-- Avaliação da viabilidade regulatória e da forma farmacêutica tópica, já que não há registro válido no mercado brasileiro.
+- Avaliação da viabilidade regulatória e da forma farmacêutica tópica.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

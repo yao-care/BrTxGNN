@@ -94,7 +94,7 @@ Nenhum dos artigos abaixo é RCT; todos são relatos de caso, coortes ou revisõ
 
 ## Informações de Comercialização no Brasil
 
-Todos os 12 registros estão **válidos** (12 de 12); o medicamento está comercializado. Os 5 principais:
+O medicamento está comercializado. Os 5 principais:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -124,13 +124,12 @@ Para advertências e contraindicações, consulte a bula.
 
 **Justificativa:**
 - A previsão para artrite reumatoide é apenas um resultado do modelo TxGNN (aprendizado profundo) (nível L5), que pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica, sem ensaios clínicos, sem plausibilidade mecanística e com literatura que reflete apenas o tratamento de infecções em pacientes com AR.
-- Não há registro válido no Brasil. As demais indicações previstas (síndromes genéticas raras, colangite esclerosante, osteoartrite, nefropatia diabética, síndrome WHIM) também não têm evidência de suporte e igualmente recebem recomendação Hold.
+- As demais indicações previstas (síndromes genéticas raras, colangite esclerosante, osteoartrite, nefropatia diabética, síndrome WHIM) também não têm evidência de suporte e igualmente recebem recomendação Hold.
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação que sustentem uma hipótese biologicamente plausível (por exemplo, efeito imunomodulador ou sobre o microbioma).
 - Dados de pré-clínicos ou estudos de mecanismo, caso a hipótese seja considerada.
 - Obtenção e análise da bula (advertências e contraindicações) para a triagem de segurança.
-- Reavaliação da situação regulatória, considerando que os 12 registros estão válidos.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

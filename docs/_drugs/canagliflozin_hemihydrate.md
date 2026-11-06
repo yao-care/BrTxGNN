@@ -88,7 +88,6 @@ O Evidence Pack não contém previsões do modelo TxGNN, dados regulatórios nac
 - Re-executar o **pipeline TxGNN** com o DrugBank ID validado para gerar previsões de indicação
 - Obter **dados de MOA** completos via DrugBank API (severidade: Alta)
 - Coletar **informações de segurança** da bula: advertências, contraindicações e interações medicamentosas (severidade: Bloqueante)
-- Verificar registros no **Brasil/ANVISA** diretamente — a consulta atual foi realizada na base TFDA (Taiwan), o que pode explicar o resultado zero para um composto com presença internacional
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

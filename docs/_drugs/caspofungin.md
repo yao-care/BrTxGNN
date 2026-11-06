@@ -90,14 +90,14 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem vínculo mecanístico plausível. Além disso, o medicamento está comercializado no Brasil (5 de 5 registros válidos) e há interação medicamentosa de gravidade maior com a dexametasona.
+A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem vínculo mecanístico plausível. Além disso, o medicamento está comercializado no Brasil e há interação medicamentosa de gravidade maior com a dexametasona.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
 - Complementar os dados de mecanismo de ação via DrugBank.
 - Realizar revisão de literatura e busca de estudos pré-clínicos que sustentem uma hipótese mecanística para a secreção de gastrina.
 - Avaliar a compatibilidade de vias de administração (a caspofungina é de uso intravenoso) e a similaridade com a indicação original.
-- Esclarecer a situação regulatória, já que não há registro válido no Brasil.
+- Esclarecer a situação regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

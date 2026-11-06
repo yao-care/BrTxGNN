@@ -94,13 +94,13 @@ Consulte a bula para informações adicionais de segurança (advertências e con
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura que sustentem nenhuma das indicações previstas (nível L5). O cobicistat não tem atividade antiviral própria, as indicações previstas são veterinárias ou de pesquisa, ou sem vínculo biológico evidente, e o único registro brasileiro está cancelado.
+- Não há ensaios clínicos nem literatura que sustentem nenhuma das indicações previstas (nível L5). O cobicistat não tem atividade antiviral própria, as indicações previstas são veterinárias ou de pesquisa, ou sem vínculo biológico evidente.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem esses dados
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank)
 - Buscar dados veterinários ou pré-clínicos (FIV/SIV) e definir o antiviral parceiro ativo
-- Avaliar se há interesse regulatório e de mercado, dado que o registro no Brasil está cancelado
+- Avaliar se há interesse regulatório e de mercado
 - Descartar ou reavaliar a previsão para o transtorno do neurodesenvolvimento, por ausência de racional mecanístico
 ## Aviso de isenção de responsabilidade
 

@@ -109,14 +109,14 @@ Não há advertências ou contraindicações da bula nos dados compilados; consu
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem apenas respaldo computacional (L5), sem ensaios clínicos nem literatura direta. Há obstáculos mecanísticos relevantes (urease do *Ureaplasma*, infecção de mucosa) e os registros brasileiros estão todos cancelados.
+- A previsão tem apenas respaldo computacional (L5), sem ensaios clínicos nem literatura direta. Há obstáculos mecanísticos relevantes (urease do *Ureaplasma*, infecção de mucosa).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a lacuna de segurança bloqueia a triagem de segurança.
 - Obter dados do mecanismo de ação (ex.: via DrugBank).
 - Estudos in vitro de atividade do formaldeído contra *Ureaplasma* em diferentes pHs e na presença de urease.
 - Revisão sistemática da literatura sobre metenamina em uretrite e infecções genitais.
-- Avaliar a viabilidade regulatória, dado que não há registro vigente no Brasil.
+- Avaliar a viabilidade regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

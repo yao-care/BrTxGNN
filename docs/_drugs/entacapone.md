@@ -71,8 +71,6 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os registros de entacapona no Brasil constam como cancelados; não há registro válido atualmente.
-
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100470632 | STALEVO | SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -120,7 +118,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Dados do mecanismo de ação (MOA) da entacapona.
 - Bula da ANVISA com advertências e contraindicações, hoje ausentes, o que bloqueia a triagem de segurança.
 - Evidências de literatura ou relatos de caso em PLAN, especialmente em fenótipos com distonia-parkinsonismo.
-- Avaliação de viabilidade regulatória e comercial, dado que não há registro válido no Brasil.
+- Avaliação de viabilidade regulatória e comercial.
 - Análise de risco-benefício frente às contraindicações do grafo, em especial as cardiovasculares, hepáticas e psiquiátricas.
 ## Aviso de isenção de responsabilidade
 

@@ -38,7 +38,7 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 ## Resumo em Uma Frase
 
-Diazóxido foi originalmente registrado no Brasil como vasodilatador (produto TENSURIL, atualmente com registro cancelado).
+Diazóxido foi originalmente registrado no Brasil como vasodilatador.
 O modelo TxGNN prevê que pode ser eficaz para **Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp)**, a previsão de maior pontuação, mas sem nenhum ensaio clínico ou publicação direta que a sustente. A indicação com algum respaldo indireto é a **Alopecia (alopecia)**, com **6 publicações** (sobretudo revisões, relatos de caso e um estudo em primatas) e **nenhum ensaio clínico**.
 
 ## Visão Geral Rápida
@@ -95,7 +95,7 @@ As publicações abaixo referem-se à indicação **Alopecia** (rank 4), a únic
 **Decisão: Hold**
 
 **Justificativa:**
-- Todas as previsões estão em nível L5, exceto alopecia (L4, apenas com dados pré-clínicos em primatas e relatos indiretos). Não há ensaios clínicos em humanos, o produto não está mais comercializado no Brasil e a segurança sistêmica é desfavorável. Alopecia é, no máximo, uma questão de pesquisa a investigar por via tópica.
+- Todas as previsões estão em nível L5, exceto alopecia (L4, apenas com dados pré-clínicos em primatas e relatos indiretos). Não há ensaios clínicos em humanos e a segurança sistêmica é desfavorável. Alopecia é, no máximo, uma questão de pesquisa a investigar por via tópica.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.

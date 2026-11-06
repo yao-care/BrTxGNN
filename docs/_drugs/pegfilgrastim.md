@@ -61,7 +61,6 @@ Uma hipótese especulativa é que a mobilização de células progenitoras poder
 
 A pontuação muito alta do TxGNN (0,9989) é apenas uma previsão do modelo e não é respaldada por evidências clínicas ou de literatura. A segunda previsão, retinopatia diabética (termo mais amplo), compartilha a mesma racionalidade especulativa (pontuação de 0,9973).
 
-
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 100 interações no total, e os 20 primeiros registros são de gravidade moderada (fonte: DDInter). Entre os principais:
@@ -77,7 +76,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-Não há ensaios clínicos nem publicações que sustentem qualquer das indicações previstas, e o mecanismo de ação não está disponível. O fármaco também não possui registro comercializado no Brasil, e a previsão baseia-se apenas no modelo (L5).
+Não há ensaios clínicos nem publicações que sustentem qualquer das indicações previstas, e o mecanismo de ação não está disponível. A previsão baseia-se apenas no modelo (L5).
 
 **Para prosseguir, é necessário:**
 - Obter os dados do mecanismo de ação (MOA) em fonte confiável, como o DrugBank

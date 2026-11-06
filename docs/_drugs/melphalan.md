@@ -108,7 +108,7 @@ Consulte a bula para informações complementares de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-Há um ensaio de Phase 2 concluído em tumores germinativos recidivados, mas o melfalano é apenas um componente de um regime combinado, e a única publicação é antiga e pouco relevante. Além disso, o único registro brasileiro está cancelado e as informações de bula não estão disponíveis, o que impede a triagem de segurança.
+Há um ensaio de Phase 2 concluído em tumores germinativos recidivados, mas o melfalano é apenas um componente de um regime combinado, e a única publicação é antiga e pouco relevante.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a avaliação de segurança

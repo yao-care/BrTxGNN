@@ -92,7 +92,7 @@ Foram selecionadas as publicações mais relevantes entre as disponíveis (nenhu
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se apenas no modelo e em um elo mecanístico plausível, sem ensaios clínicos nem estudos de eficácia do alprazolam em insônia. Somam-se a isso os riscos conhecidos de dependência e quedas, o grande número de interações e a ausência de registro no Brasil.
+A previsão baseia-se apenas no modelo e em um elo mecanístico plausível, sem ensaios clínicos nem estudos de eficácia do alprazolam em insônia. Somam-se a isso os riscos conhecidos de dependência e quedas, o grande número de interações.
 
 **Para prosseguir, é necessário:**
 - Dados detalhados do mecanismo de ação (MOA)

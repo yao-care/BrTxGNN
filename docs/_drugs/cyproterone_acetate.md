@@ -103,7 +103,7 @@ A previsão se apoia apenas na pontuação do modelo TxGNN (deep learning) e em 
 - Dados do mecanismo de ação (MOA) e da bula (advertências e contraindicações) na ANVISA
 - Revisão sistemática de dados específicos do acetato de ciproterona em enxaqueca, avaliando a direção do efeito (benefício ou piora)
 - Avaliação do perfil de risco tromboembólico e vascular, especialmente em enxaqueca com aura
-- Esclarecimento da situação regulatória no Brasil, já que não há registro vigente
+- Esclarecimento da situação regulatória no Brasil
 
 ### Observação sobre outras previsões
 

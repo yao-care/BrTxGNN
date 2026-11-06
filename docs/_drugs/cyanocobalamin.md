@@ -73,7 +73,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 20 registros válidos no Brasil. Os cinco principais estão listados abaixo.
+Os cinco principais estão listados abaixo.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -127,7 +127,7 @@ A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos e com u
 - Dados do mecanismo de ação da cianocobalamina (DrugBank) e análise do elo mecanístico com a biotina
 - Evidências pré-clínicas ou clínicas de que a B12 traga benefício em distúrbios do metabolismo da biotina (por exemplo, deficiência de biotinidase ou de holocarboxilase sintetase)
 - Bula da ANVISA com advertências e contraindicações, para a triagem de segurança
-- Esclarecimento da situação regulatória, já que não há registro válido no Brasil, e avaliação da compatibilidade de vias de administração
+- Esclarecimento da situação regulatória, e avaliação da compatibilidade de vias de administração
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -105,7 +105,6 @@ Uma fração substancial dos cânceres de mama HER2-positivos também expressa r
 **Para prosseguir, é necessário:**
 - Confirmar o status de HER2 (superexpressão/amplificação) antes de qualquer uso; não há suporte para doença HER2-negativa.
 - Obter as advertências e contraindicações da bula na ANVISA (dados ausentes), incluindo monitoramento cardíaco, dado o risco de cardiotoxicidade descrito na literatura.
-- Esclarecer a situação regulatória no Brasil: os dados compilados indicam 0 registros, o que deve ser verificado.
 - Obter dados detalhados do mecanismo de ação (MOA) na base DrugBank.
 - Avaliar o plano de manejo das interações de gravidade maior.
 ## Aviso de isenção de responsabilidade

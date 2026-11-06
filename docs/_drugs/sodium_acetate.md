@@ -72,7 +72,7 @@ Atualmente não há literatura relacionada para a indicação prevista principal
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros válidos no Brasil e o medicamento está comercializado. Principais registros (5 de 20):
+O medicamento está comercializado. Principais registros (5 de 20):
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -121,14 +121,14 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão vem do modelo TxGNN (deep learning) (nível L5), sem ensaios clínicos nem literatura, e sem vínculo mecanístico plausível com a deficiência de protrombina; o escore pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica. Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos.
+- A previsão vem do modelo TxGNN (deep learning) (nível L5), sem ensaios clínicos nem literatura, e sem vínculo mecanístico plausível com a deficiência de protrombina; o escore pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) a partir de fontes como o DrugBank
 - Advertências e contraindicações da bula na ANVISA, para a triagem de segurança
 - Justificativa biológica para a hipótese de coagulação, com estudos pré-clínicos
 - Reavaliar candidatas com mais respaldo ou vínculo mecanístico mais plausível (por exemplo, infecção do trato urinário, ainda que apenas especulativa, via alcalinização urinária)
-- Esclarecer a situação regulatória, já que não há registro válido no país
+- Esclarecer a situação regulatória
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

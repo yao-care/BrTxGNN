@@ -90,8 +90,6 @@ As demais previsões (pós-bacteriano, otite externa, estenose uretral infeccios
 | 115600136 | OFTRATE | CIFARMA CIENTÍFICA FARMACÊUTICA LTDA | Cancelado |
 | 117250028 | FLUTINOL | LATINOFARMA INDUSTRIAS FARMACEUTICAS LTDA | Cancelado |
 
-Não há registro válido atualmente, o que limita a viabilidade prática.
-
 ---
 
 ## Considerações de Segurança
@@ -108,7 +106,7 @@ Consulte a bula para advertências e contraindicações formais.
 **Decisão: Hold**
 
 **Justificativa:**
-Para a indicação principal (vasculite pós-infecciosa), há apenas previsão do modelo (L5), sem ensaios nem literatura, com vínculo mecanístico fraco devido à exposição sistêmica mínima da forma oftálmica. Além disso, o único registro no Brasil está cancelado.
+Para a indicação principal (vasculite pós-infecciosa), há apenas previsão do modelo (L5), sem ensaios nem literatura, com vínculo mecanístico fraco devido à exposição sistêmica mínima da forma oftálmica.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações) para a triagem de segurança.

@@ -79,14 +79,14 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 
 **Justificativa:**
 - A previsão é apenas computacional (L5), sem ensaios clínicos nem literatura, e sem plausibilidade mecanística direta.
-- O único registro no Brasil está cancelado, e faltam dados de segurança da bula.
+- Faltam dados de segurança da bula.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem isso.
 - Obter os dados de mecanismo de ação no DrugBank.
 - Realizar estudos pré-clínicos que testem se o efeito antioxidante/endotelial da edaravona influencia a via da trombina ou da coagulação.
 - Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original (ainda pendentes).
-- Esclarecer a situação regulatória, já que o registro está cancelado e não há produto comercializado.
+- Esclarecer a situação regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

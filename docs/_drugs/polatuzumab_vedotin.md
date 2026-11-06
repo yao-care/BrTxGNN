@@ -96,7 +96,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão é sustentada apenas pelo modelo (L5), sem ensaios clínicos nem literatura, e não há vínculo mecanístico plausível entre o alvo CD79b e o câncer de mama HER2-positivo. Além disso, o único registro no Brasil está cancelado e há alternativas já estabelecidas dirigidas ao HER2.
+A previsão é sustentada apenas pelo modelo (L5), sem ensaios clínicos nem literatura, e não há vínculo mecanístico plausível entre o alvo CD79b e o câncer de mama HER2-positivo.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA, para advertências e contraindicações (lacuna que bloqueia a triagem de segurança)

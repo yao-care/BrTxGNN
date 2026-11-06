@@ -60,7 +60,7 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação compilados par
 
 A ligação com o transtorno bipolar é especulativa: a modulação gabaérgica e glutamatérgica poderia, em tese, relacionar-se à estabilização do humor. No entanto, não há ensaios clínicos nem literatura que sustentem essa indicação, e a pontuação alta do TxGNN (0,9969) é apenas uma previsão computacional.
 
-Há ainda fatores que limitam a viabilidade: o enflurano tem perfil pró-convulsivante no EEG e seu registro no Brasil está cancelado.
+Há ainda fatores que limitam a viabilidade: o enflurano tem perfil pró-convulsivante no EEG.
 
 ### Outras indicações previstas (todas nível L5, decisão Hold)
 

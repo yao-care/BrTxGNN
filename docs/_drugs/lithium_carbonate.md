@@ -92,8 +92,6 @@ Os 10 registros encontram-se válidos (10 de 10 licenças válidas). A forma far
 | Registro nº 109740347 | Carbonato de Lítio | Antidepressivos |
 | Registro nº 102980556 | Literata | Antidepressivos |
 
-*Mostrados os 5 primeiros de 10 registros, todos cancelados.*
-
 ---
 
 ## Considerações de Segurança
@@ -120,7 +118,7 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank).
 - Realizar estudos pré-clínicos (por exemplo, modelos celulares ou animais com mutação em COMP) para testar a hipótese.
 - Avaliar o perfil de segurança do lítio (janela terapêutica estreita, função renal e tireoidiana) na população-alvo, em geral pediátrica.
-- Esclarecer a situação regulatória do produto no Brasil, já que não há registro vigente.
+- Esclarecer a situação regulatória do produto no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -40,7 +40,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Biperideno cloridrato é um anticolinérgico clássico (antagonista muscarínico M1), tradicionalmente utilizado no tratamento da doença de Parkinson e de reações extrapiramidais induzidas por antipsicóticos.
 O modelo TxGNN **não gerou nenhuma previsão de reposicionamento** para este fármaco na rodada atual de análise, impossibilitando a avaliação de novas indicações terapêuticas.
-A ausência de registros no mercado brasileiro e os dados de segurança incompletos reforçam a necessidade de complementação de informações antes de qualquer avanço.
 
 ---
 
@@ -81,7 +80,7 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O modelo TxGNN não gerou previsões de reposicionamento para biperideno cloridrato nesta rodada em razão de lacunas críticas de dados (DrugBank ID ausente, MOA não estruturado), e as informações de segurança estão indisponíveis. A ausência de registro no mercado brasileiro elimina o ponto de entrada regulatório imediato.
+O modelo TxGNN não gerou previsões de reposicionamento para biperideno cloridrato nesta rodada em razão de lacunas críticas de dados (DrugBank ID ausente, MOA não estruturado), e as informações de segurança estão indisponíveis.
 
 **Para prosseguir, é necessário:**
 - Localizar e registrar o **DrugBank ID** correto para biperideno cloridrato (buscar por "biperiden" em [drugbank.com](https://go.drugbank.com/))

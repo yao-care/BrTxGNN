@@ -38,7 +38,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo
 
-Aflibercepte (AFLIBERCEPTE) é um fármaco atualmente comercializado no Brasil com 4 registros ativos na ANVISA.
 O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta versão do Evidence Pack,
 e há lacunas de dados críticas — incluindo ausência de MOA e dados de segurança — que impedem a avaliação completa de reposicionamento.
 

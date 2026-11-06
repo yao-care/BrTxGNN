@@ -58,8 +58,7 @@ Atualmente há **0 ensaios clínicos** vinculados a esta indicação e **20 publ
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo informações conhecidas, a ranitidina é um antagonista competitivo dos receptores H2 da histamina nas células parietais gástricas, o que reduz a secreção de ácido basal e estimulada. A redução da acidez é a base estabelecida para a cicatrização de úlceras.
 
-
-Vale notar que a ranitidina está comercializada no Brasil, com 20 registros válidos. Além disso, os inibidores da bomba de prótons (IBPs) substituíram em grande parte os bloqueadores H2, de modo que o valor de reposicionamento é limitado.
+Além disso, os inibidores da bomba de prótons (IBPs) substituíram em grande parte os bloqueadores H2, de modo que o valor de reposicionamento é limitado.
 
 ## Evidências de Ensaios Clínicos
 
@@ -84,7 +83,7 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros válidos. Principais registros:
+Principais registros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

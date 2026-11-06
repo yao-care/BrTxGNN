@@ -126,7 +126,7 @@ Para advertências e contraindicações em bula, consulte a bula do produto, poi
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), que é uma lacuna bloqueante.
 - Obter os dados do mecanismo de ação no DrugBank.
 - Se houver interesse em reposicionamento, priorizar a direção com mais respaldo (doença perinatal / displasia broncopulmonar em recém-nascidos de muito baixo peso), definindo dose, via de administração (intramuscular vs. oral) e limites de segurança quanto a toxicidade e teratogenicidade.
-- Confirmar a viabilidade regulatória e de via de administração, já que não há registro vigente no Brasil.
+- Confirmar a viabilidade regulatória e de via de administração.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

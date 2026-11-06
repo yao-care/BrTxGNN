@@ -87,7 +87,7 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para deficiência de potássio não tem ensaios, literatura nem mecanismo plausível (nível L5). Além disso, o único registro brasileiro está cancelado.
+- A previsão para deficiência de potássio não tem ensaios, literatura nem mecanismo plausível (nível L5).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados.

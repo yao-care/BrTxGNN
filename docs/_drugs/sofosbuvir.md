@@ -108,7 +108,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há plausibilidade mecanística para ação direta contra o HBV. Os ensaios e as publicações recuperados tratam do HCV, e o HBV aparece como questão de segurança (reativação) e não como alvo terapêutico. O fármaco também não tem registro ativo no Brasil, segundo os dados compilados.
+- Não há plausibilidade mecanística para ação direta contra o HBV. Os ensaios e as publicações recuperados tratam do HCV, e o HBV aparece como questão de segurança (reativação) e não como alvo terapêutico.
 
 **Para prosseguir, é necessário:**
 - Resultados completos do ensaio de fase 2 NCT03312023 (PMID 36045503), com análise dos desfechos HBsAg e HBV DNA.

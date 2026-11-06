@@ -99,7 +99,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros estão **válidos** (8 de 8); o medicamento é comercializado no Brasil.
+O medicamento é comercializado no Brasil.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

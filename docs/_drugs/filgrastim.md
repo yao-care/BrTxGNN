@@ -91,7 +91,6 @@ Para fins de contexto, o único item da lista com ensaios associados é o distú
 
 ## Informações de Comercialização no Brasil
 
-
 ## Considerações de Segurança
 
 **Interações Medicamentosas:** a consulta de interações foi concluída e identificou 100 interações no total. Os principais exemplos listados, todos de gravidade **moderada** (fonte: DDInter), incluem:
@@ -114,7 +113,7 @@ Para advertências e contraindicações, consulte a bula.
 - Obter os dados de mecanismo de ação (MOA) para permitir análise da ligação mecanística
 - Obter advertências e contraindicações da bula (ANVISA), indispensáveis para a triagem de segurança
 - Realizar revisão sistemática da literatura e estudos pré-clínicos que sustentem um papel do filgrastim em distúrbios plaquetários
-- Esclarecer a situação regulatória no Brasil, já que não há registros ativos
+- Esclarecer a situação regulatória no Brasil
 - Se houver interesse em outra indicação, priorizar o distúrbio hemorrágico do tipo plaquetário (posição 10, L4), embora a evidência seja apenas indireta, via contexto de transplante
 ## Aviso de isenção de responsabilidade
 

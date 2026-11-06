@@ -103,7 +103,7 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Obter dados de mecanismo de ação (por exemplo, via DrugBank).
 - Realizar busca sistemática por estudos controlados modernos de salicilamida isolada em faringite.
 - Avaliar o perfil de segurança (hematológico, hepático, hipersensibilidade) e a compatibilidade de via de administração e forma farmacêutica.
-- Reconsiderar a relevância regulatória, dado que o único registro brasileiro está cancelado.
+- Reconsiderar a relevância regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

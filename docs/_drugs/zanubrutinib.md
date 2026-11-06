@@ -113,7 +113,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para leucemia mieloide não tem apoio clínico específico: o único ensaio é de Fase 1, com relevância indireta, e a literatura trata de neoplasias linfoides. Além disso, o único registro brasileiro está cancelado.
+- A previsão para leucemia mieloide não tem apoio clínico específico: o único ensaio é de Fase 1, com relevância indireta, e a literatura trata de neoplasias linfoides.
 
 **Para prosseguir, é necessário:**
 - Dados detalhados do mecanismo de ação e análise da dependência de BTK em modelos de leucemia mieloide (estudos pré-clínicos)

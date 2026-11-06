@@ -106,7 +106,7 @@ Para hipertensão pulmonar, atualmente não há ensaios clínicos relacionados r
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros **válidos**; o medicamento é comercializado. Principais registros (5 de 20):
+O medicamento é comercializado. Principais registros (5 de 20):
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -157,12 +157,11 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 
 **Justificativa:**
 - Hipertensão pulmonar: a pontuação do modelo é alta (0,9954), mas não há ensaios nem literatura direta; o único elo é teórico (NMDA na vasculatura pulmonar).
-- Enxaqueca: há um ensaio de Fase 3 concluído e várias metanálises e revisões sistemáticas. Porém, o ensaio é pequeno (33 participantes), a eficácia segue descrita como controversa e há poucos ensaios robustos. Além disso, não há registro válido no Brasil, e os dados de segurança da bula estão ausentes.
+- Enxaqueca: há um ensaio de Fase 3 concluído e várias metanálises e revisões sistemáticas. Porém, o ensaio é pequeno (33 participantes), a eficácia segue descrita como controversa e há poucos ensaios robustos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança.
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank).
-- Avaliar a situação regulatória: o medicamento é comercializado e há 20 registros válidos, de modo que seria preciso verificar a via de acesso para a nova indicação.
 - Para enxaqueca: examinar os resultados completos do NCT04698525 e as metanálises (PMID 33961371 e 35467554) e planejar ensaio de maior porte, com plano de monitoramento de segurança (função renal e hepática, interações com anticolinérgicos).
 - Para hipertensão pulmonar: gerar evidência pré-clínica direta com memantina antes de qualquer avanço.
 ## Aviso de isenção de responsabilidade

@@ -84,13 +84,13 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos registrados, e a evidência direta se limita a um estudo fisiológico pequeno e a uma revisão. Além disso, o estriol não tem registro no Brasil e os dados de segurança da bula estão ausentes.
+- Não há ensaios clínicos registrados, e a evidência direta se limita a um estudo fisiológico pequeno e a uma revisão.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações) para a triagem de segurança
 - Complementar os dados de mecanismo de ação no DrugBank
 - Buscar ensaios controlados de eficácia do estriol na amenorreia, em especial na AHF
-- Avaliar a viabilidade regulatória, já que não há registro vigente no Brasil, e definir via de administração e forma farmacêutica
+- Avaliar a viabilidade regulatória, e definir via de administração e forma farmacêutica
 - Avaliar o perfil de segurança endometrial e mamário do uso de estrogênio
 ## Aviso de isenção de responsabilidade
 

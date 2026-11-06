@@ -80,7 +80,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros válidos. Principais exemplos:
+Principais exemplos:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -129,7 +129,7 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é mecanisticamente coerente, mas sobrepõe-se quase totalmente à indicação original (descongestão nasal), portanto não constitui reposicionamento genuíno. As evidências são majoritariamente pré-clínicas (L4), não há ensaios clínicos e o medicamento é comercializado no Brasil, com 20 registros válidos.
+- A previsão é mecanisticamente coerente, mas sobrepõe-se quase totalmente à indicação original (descongestão nasal), portanto não constitui reposicionamento genuíno. As evidências são majoritariamente pré-clínicas (L4), não há ensaios clínicos.
 - O perfil de segurança cardiovascular e metabólico, indicado pelo grafo de conhecimento e pelas interações com antidiabéticos, exige cautela.
 
 **Para prosseguir, é necessário:**

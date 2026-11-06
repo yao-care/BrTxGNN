@@ -86,13 +86,13 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia apenas no modelo (L5), sem ensaios clínicos nem literatura, sem vínculo mecanístico plausível, e o único registro no Brasil está cancelado. Além disso, o grafo de conhecimento aponta contraindicações relacionadas ao metabolismo do ferro e a anemias, o que enfraquece ainda mais a hipótese.
+A previsão se apoia apenas no modelo (L5), sem ensaios clínicos nem literatura, sem vínculo mecanístico plausível. Além disso, o grafo de conhecimento aponta contraindicações relacionadas ao metabolismo do ferro e a anemias, o que enfraquece ainda mais a hipótese.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações oficiais), etapa bloqueante para a triagem de segurança
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Levantar evidências pré-clínicas ou clínicas que sustentem um vínculo biológico com a nova indicação
-- Avaliar a viabilidade regulatória e comercial, dado que não há registro vigente no Brasil
+- Avaliar a viabilidade regulatória e comercial
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

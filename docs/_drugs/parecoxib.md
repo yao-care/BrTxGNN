@@ -76,7 +76,7 @@ Para outras indicações previstas (subtipos de enxaqueca), a literatura adicion
 
 ## Informações de Comercialização no Brasil
 
-Os 8 registros estão válidos (8 de 8); o medicamento está comercializado.
+O medicamento está comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -97,7 +97,7 @@ Observação: pelo mecanismo de inibição seletiva da COX-2, que reduz a prosta
 **Decisão: Hold**
 
 **Justificativa:**
-Apesar da pontuação alta e do mecanismo plausível, a evidência clínica se resume a um estudo piloto de desenho não confirmado, sem ensaios registrados. Os 8 registros no Brasil estão válidos (8 de 8) e o medicamento é comercializado, mas a forma é apenas injetável. Os dados de segurança da bula também não estão disponíveis, o que impede a triagem de segurança.
+Apesar da pontuação alta e do mecanismo plausível, a evidência clínica se resume a um estudo piloto de desenho não confirmado, sem ensaios registrados. O medicamento é comercializado, mas a forma é apenas injetável. Os dados de segurança da bula também não estão disponíveis, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações)

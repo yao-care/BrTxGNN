@@ -38,7 +38,7 @@ Nível de evidência: **L2** | Indicações previstas: **3**
 
 ## Resumo em Uma Frase
 
-Belinostat é um inibidor de histona desacetilase (HDAC), registrado no Brasil apenas com a indicação genérica de "antineoplásico" (registro atualmente cancelado).
+Belinostat é um inibidor de histona desacetilase (HDAC), registrado no Brasil apenas com a indicação genérica de "antineoplásico".
 O modelo TxGNN prevê que pode ser eficaz para **Leucemia Mieloide (Myeloid Leukemia)**,
 atualmente com **6 ensaios clínicos** e **20 publicações** relacionadas a esta direção (das quais 4 são estudos clínicos de Fase 1/2 diretamente relevantes).
 
@@ -132,13 +132,13 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Apesar da pontuação TxGNN muito alta (0,9953) e da plausibilidade biológica, as evidências clínicas se limitam a um Fase 2 pequeno (n=12) e a estudos de Fase 1 de combinação, sem sinal claro de eficácia. O único registro brasileiro está cancelado e não há dados de bula (advertências e contraindicações) para a triagem de segurança.
+- Apesar da pontuação TxGNN muito alta (0,9953) e da plausibilidade biológica, as evidências clínicas se limitam a um Fase 2 pequeno (n=12) e a estudos de Fase 1 de combinação, sem sinal claro de eficácia. Não há dados de bula (advertências e contraindicações) para a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter a bula na ANVISA para advertências e contraindicações (lacuna bloqueante da triagem de segurança)
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank)
 - Revisar os resultados de eficácia (taxas de resposta) dos estudos de Fase 1/2 e definir qual combinação tem sinal mais promissor
-- Avaliar a viabilidade regulatória e de acesso, dado que o registro no Brasil está cancelado
+- Avaliar a viabilidade regulatória e de acesso
 - Planejar monitoramento cardíaco (QTc) e hematológico, além de revisão das interações medicamentosas relevantes
 ## Aviso de isenção de responsabilidade
 

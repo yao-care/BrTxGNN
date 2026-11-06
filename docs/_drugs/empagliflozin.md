@@ -96,7 +96,7 @@ A pontuação alta (0,9903) vem do modelo TxGNN (deep learning) e pode refletir 
 | 165070051 | AMPOLDO | CAMBER FARMACEUTICA LTDA | Ativo |
 | 170420033 | EMPAGLIFLOZINA | MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA | Ativo |
 
-Há 8 registros válidos no total; são listados os 5 principais. Os registros constam como produto isolado nos dados compilados.
+São listados os 5 principais. Os registros constam como produto isolado nos dados compilados.
 
 ## Considerações de Segurança
 

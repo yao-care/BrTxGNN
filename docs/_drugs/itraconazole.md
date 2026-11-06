@@ -143,7 +143,7 @@ As advertências e contraindicações oficiais da bula da ANVISA não estavam di
 - Bula da ANVISA com advertências e contraindicações, para a triagem de segurança.
 - Evidência pré-clínica ou clínica direta de atividade do itraconazol contra *Pneumocystis*, que justifique reconsiderar a decisão.
 - Avaliação do perfil de segurança (QT, hepático, cardíaco e interações) em pacientes imunossuprimidos, população-alvo típica.
-- Esclarecimento da situação regulatória, já que não há registro vigente no Brasil.
+- Esclarecimento da situação regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

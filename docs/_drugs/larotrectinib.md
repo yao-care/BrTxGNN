@@ -106,7 +106,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-Não há alvo em comum entre o larotrectinibe (TRK) e o principal motor da MEN2 (RET), e as evidências são apenas indiretas (um ensaio basket tumor-agnóstico e literatura sobre outros inibidores). Além disso, os registros do produto no Brasil estão cancelados e faltam dados de segurança da bula.
+Não há alvo em comum entre o larotrectinibe (TRK) e o principal motor da MEN2 (RET), e as evidências são apenas indiretas (um ensaio basket tumor-agnóstico e literatura sobre outros inibidores).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança

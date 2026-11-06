@@ -132,7 +132,6 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 - Obter da ANVISA a bula com advertências e contraindicações oficiais (lacuna bloqueante para a triagem de segurança).
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank).
 - Para alopecia: estudos pré-clínicos (por exemplo, modelos de folículo piloso) que testem o efeito da inibição de PDE3, e avaliação de viabilidade de via tópica, já que o uso atual é intravenoso.
-- Definir a situação regulatória: como não há registro válido no Brasil, seria necessário novo registro ou reativação.
 - Se o interesse for cardiovascular, priorizar a análise de insuficiência cardíaca aguda e cor pulmonale, com monitoramento hemodinâmico e restrição a uso de curto prazo.
 ## Aviso de isenção de responsabilidade
 

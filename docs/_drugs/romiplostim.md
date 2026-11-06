@@ -98,14 +98,14 @@ Para as demais informações de segurança (advertências e contraindicações),
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal não tem ensaios clínicos, e a única publicação trata de outra doença (PTI). O mecanismo (aumentar a contagem de plaquetas) não corrige um defeito de função plaquetária, e o fármaco não possui registro no Brasil.
+- A previsão principal não tem ensaios clínicos, e a única publicação trata de outra doença (PTI). O mecanismo (aumentar a contagem de plaquetas) não corrige um defeito de função plaquetária.
 
 **Para prosseguir, é necessário:**
-- Obter e analisar a bula da ANVISA (advertências e contraindicações), pois o fármaco não tem registro local.
+- Obter e analisar a bula da ANVISA (advertências e contraindicações).
 - Complementar os dados do mecanismo de ação (MOA) a partir do DrugBank.
 - Avaliar, como pergunta de pesquisa separada, a trombocitopenia aloimune fetal e neonatal, com dados de segurança fetal e de transferência placentária.
 - Verificar se há qualquer estudo direto do romiplostim em distúrbios de liberação plaquetária antes de qualquer avanço.
-- Confirmar a situação regulatória do romiplostim no Brasil (ausência de registros nos dados compilados).
+- Confirmar a situação regulatória do romiplostim no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -85,8 +85,6 @@ Foram selecionadas as publicações mais relevantes. Não há ensaios clínicos 
 
 ## Informações de Comercialização no Brasil
 
-O medicamento está comercializado, com 20 registros válidos (principais 5 de 20).
-
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330131 | MUVINLAX | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -136,14 +134,14 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é plausível como terapia adjuvante da hipopotassemia associada à ATR distal, mas não há ensaios clínicos nem estudos controlados; a literatura se resume a relatos de caso e revisões. Além disso, o fármaco não trata o defeito subjacente, e o medicamento está comercializado no Brasil, com 20 registros válidos.
+- A previsão é plausível como terapia adjuvante da hipopotassemia associada à ATR distal, mas não há ensaios clínicos nem estudos controlados; a literatura se resume a relatos de caso e revisões. Além disso, o fármaco não trata o defeito subjacente.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a segurança ainda não pôde ser triada de forma adequada.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Definir o papel do fármaco em relação ao citrato de potássio e ao bicarbonato, com revisão sistemática ou estudos comparativos.
 - Delimitar os subtipos de ATR elegíveis (excluindo tipo 4 e hiperpotassemia) e um plano de monitoramento de potássio sérico e função renal.
-- Verificar a viabilidade regulatória, já que não há registro válido no Brasil, e as formas farmacêuticas e vias de administração necessárias.
+- Verificar a viabilidade regulatória, e as formas farmacêuticas e vias de administração necessárias.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

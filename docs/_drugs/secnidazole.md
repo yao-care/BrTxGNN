@@ -99,7 +99,7 @@ Importante: as evidências disponíveis referem-se à vaginose bacteriana e à t
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros válidos de secnidazol nos dados compilados, e o medicamento está comercializado no Brasil. Os 5 principais:
+O medicamento está comercializado no Brasil. Os 5 principais:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -157,10 +157,10 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Há ensaios de Fase 3 concluídos e controlados por placebo, além de revisões sistemáticas, para vaginose bacteriana e tricomoníase, as principais causas de corrimento vaginal. Trata-se, porém, de uma extensão da indicação original, e o medicamento está comercializado no Brasil, com 20 registros válidos.
+- Há ensaios de Fase 3 concluídos e controlados por placebo, além de revisões sistemáticas, para vaginose bacteriana e tricomoníase, as principais causas de corrimento vaginal. Trata-se, porém, de uma extensão da indicação original.
 
 **Para prosseguir, é necessário:**
-- Confirmar a disponibilidade local do produto e a situação regulatória, já que não há registro válido
+- Confirmar a disponibilidade local do produto e a situação regulatória
 - Obter a bula da ANVISA para advertências e contraindicações
 - Obter dados do mecanismo de ação (MOA)
 - Confirmar a etiologia (vaginose bacteriana, tricomoníase ou candidíase) antes do uso, com diagnóstico por NAAT ou microscopia; tratar também os parceiros na tricomoníase

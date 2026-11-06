@@ -89,7 +89,7 @@ Para advertências e contraindicações da bula, consulte a bula; não foi poss�
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta, mas é apenas computacional (L5): não há ensaios clínicos nem literatura, não há dados de mecanismo de ação, o único registro no Brasil está cancelado e as informações de bula não foram obtidas.
+- A previsão tem pontuação alta, mas é apenas computacional (L5): não há ensaios clínicos nem literatura, não há dados de mecanismo de ação e as informações de bula não foram obtidas.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

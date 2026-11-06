@@ -93,7 +93,6 @@ Consulte a bula para informações de segurança. Nos dados compilados não há 
 
 **Justificativa:**
 - Todas as previsões se apoiam apenas no modelo (nível L5), sem ensaios clínicos nem literatura, e sem vínculo mecanístico plausível com a DPP-4.
-- Além disso, os dois registros no Brasil estão cancelados e faltam dados de segurança da bula, o que impede avançar para a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).

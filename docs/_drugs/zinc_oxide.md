@@ -85,7 +85,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-O medicamento está comercializado no Brasil, com 20 registros válidos. Principais registros:
+Principais registros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -138,7 +138,7 @@ Consulte a bula para advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para acne tem pontuação alta no TxGNN (0,9986), mas sem ensaios clínicos e com literatura apenas indireta (nível L4). Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos, e os dados de segurança da bula não estão disponíveis.
+- A previsão para acne tem pontuação alta no TxGNN (0,9986), mas sem ensaios clínicos e com literatura apenas indireta (nível L4).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar as advertências e contraindicações da bula na ANVISA, etapa necessária antes da triagem de segurança.

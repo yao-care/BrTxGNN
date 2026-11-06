@@ -65,7 +65,6 @@ Cloridrato de Oxicodona é um agonista opioide µ (mu) com mecanismo de ação a
 No entanto, esta análise apresentou três limitações críticas que impediram a geração de previsões pelo TxGNN:
 
 1. **Ausência de DrugBank ID**: O identificador DrugBank é o ponto de entrada obrigatório para o mapeamento do fármaco no grafo de conhecimento (Knowledge Graph). Sem ele, o modelo não consegue localizar o nó correspondente ao fármaco e, portanto, não produz previsões de reposicionamento.
-2. **Nenhum registro encontrado na ANVISA**: A consulta ao banco de dados regulatório brasileiro com o termo exato "OXYCODONE HYDROCHLORIDE" retornou 0 resultados. Isso pode indicar que o fármaco está registrado sob grafia alternativa (por exemplo, "Oxicodona") ou que a consulta não cobriu todos os registros vigentes.
 3. **Dados de MOA não estruturados**: Sem dados de mecanismo de ação no formato esperado pelo sistema, a etapa de análise de relevância mecanística não pôde ser executada.
 
 A combinação desses fatores resultou em `predicted_indications: []`, inviabilizando qualquer análise de reposicionamento nesta execução.
@@ -88,7 +87,7 @@ Sem previsões geradas pelo modelo TxGNN e sem registros localizados na ANVISA, 
 **Para prosseguir, é necessário:**
 - Confirmar o DrugBank ID correto do fármaco (possivelmente **DB00497**) e reprocessar a análise com o identificador vinculado
 - Repetir a consulta à ANVISA com grafias alternativas: "Oxicodona", "Oxicodona Cloridrato", "OxyContin", entre outras
-- Baixar e analisar a bula disponível na TFDA/ANVISA para preencher os dados de advertências e contraindicações
+- Baixar e analisar a bula disponível na ANVISA para preencher os dados de advertências e contraindicações
 - Consultar a DrugBank API para obter dados estruturados de MOA e categorias farmacológicas
 - Reanalisar com o pacote de dados completo para permitir a geração de previsões pelo TxGNN
 ## Aviso de isenção de responsabilidade

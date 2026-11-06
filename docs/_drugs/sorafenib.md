@@ -78,7 +78,7 @@ A via MAPK e a angiogênese são vias plausíveis em sarcomas de partes moles, e
 
 ## Informações de Comercialização no Brasil
 
-O medicamento consta como comercializado no Brasil, com 3 registros válidos e 1 cancelado, totalizando 4 registros. Os detalhes de cada registro (nome comercial, forma farmacêutica) não estão disponíveis nos dados compilados para este relatório.
+O medicamento consta como comercializado no Brasil, com 3 registros válidos e 1 cancelado, totalizando 4 registros.
 
 ## Citotoxicidade
 

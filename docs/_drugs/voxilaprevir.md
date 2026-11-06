@@ -117,7 +117,7 @@ Para advertências e contraindicações, consulte a bula.
 - Obtenção e análise da bula (advertências e contraindicações), ainda indisponíveis nos dados compilados.
 - Avaliação do contexto de coinfecção HBV/HCV, incluindo o risco de reativação do HBV durante o tratamento do HCV.
 - Revisão do perfil de interações medicamentosas, especialmente as de gravidade maior.
-- Definição da situação regulatória no Brasil, já que não há registro vigente.
+- Definição da situação regulatória no Brasil.
 
 **Observação sobre as outras indicações previstas:** hepatite E, hepatite A, febre hemorrágica de Omsk, doença da floresta de Kyasanur, HIV, hepatite B crônica e outras também receberam recomendação *Hold*, com nível de evidência L4 ou L5. Os ensaios associados à hepatite A e ao HIV são estudos de HCV vinculados apenas pelo nome do fármaco e não avaliam essas doenças.
 ## Aviso de isenção de responsabilidade

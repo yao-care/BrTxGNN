@@ -62,7 +62,6 @@ atualmente com **1 ensaio clínico** e **20 publicações** apoiando esta direç
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação na base de origem. Pelo conhecimento da classe e pela literatura compilada, o pantoprazol inibe de forma irreversível a H+/K+ ATPase (bomba de prótons) das células parietais gástricas. Isso reduz a secreção de ácido e permite a cicatrização da úlcera.
 
-
 Obstrução duodenal (pontuação de 0,9921) não tem vínculo mecanístico crível. A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
 ---
@@ -94,7 +93,7 @@ Obstrução duodenal (pontuação de 0,9921) não tem vínculo mecanístico crí
 
 ## Informações de Comercialização no Brasil
 
-Todos os 20 registros encontrados estão válidos; o medicamento está comercializado no Brasil. Abaixo, os 5 primeiros:
+O medicamento está comercializado no Brasil. Abaixo, os 5 primeiros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -151,12 +150,11 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Há ensaio de Phase 3 concluído e vários ensaios comparativos de pantoprazol na úlcera duodenal, o que sustenta o nível L1. Porém, trata-se de uma indicação já estabelecida da classe, sem novidade terapêutica, e há 20 registros válidos no Brasil, com o medicamento comercializado.
+- Há ensaio de Phase 3 concluído e vários ensaios comparativos de pantoprazol na úlcera duodenal, o que sustenta o nível L1. Porém, trata-se de uma indicação já estabelecida da classe, sem novidade terapêutica.
 
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA (advertências e contraindicações), que é uma lacuna bloqueante para a triagem de segurança.
 - Confirmar o mecanismo de ação em fonte primária (DrugBank).
-- Verificar a situação regulatória atual: os 20 registros estão cancelados, então é preciso confirmar se há outro registro vigente ou se seria necessário um novo registro.
 - Avaliar o risco em pacientes com osteoporose, risco de fratura ou deficiência de vitamina B12, e revisar as interações de maior gravidade (atazanavir, acalabrutinibe).
 - Confirmar a população exata do ensaio NCT02084420, cujo título não deixa claro se se trata de úlcera péptica ativa.
 ## Aviso de isenção de responsabilidade

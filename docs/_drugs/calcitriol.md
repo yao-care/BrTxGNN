@@ -62,7 +62,7 @@ No entanto, a entrada da doença está marcada como obsoleta na terminologia de 
 
 ## Informações de Comercialização no Brasil
 
-O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados. Os detalhes individuais dos registros não estão disponíveis nos dados deste relatório.
+O fármaco consta como comercializado no Brasil, com 2 registros válidos e 10 cancelados, segundo os dados regulatórios compilados.
 
 ## Considerações de Segurança
 

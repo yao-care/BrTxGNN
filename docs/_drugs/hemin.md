@@ -105,7 +105,7 @@ Observação: para a segunda previsão (hemofilia), foram recuperadas três publ
 
 **Justificativa:**
 - A previsão baseia-se apenas em pontuação computacional (nível L5), sem ensaios clínicos nem literatura, e sem mecanismo plausível demonstrado.
-- O único registro no Brasil está cancelado, e faltam dados de segurança da bula.
+- Faltam dados de segurança da bula.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).

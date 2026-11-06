@@ -91,13 +91,13 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura direta sobre pregabalina na tendinite. A pontuação alta do TxGNN reflete apenas uma previsão computacional (nível L4), e a ausência de registro no Brasil limita o acesso.
+- Não há ensaios clínicos nem literatura direta sobre pregabalina na tendinite. A pontuação alta do TxGNN reflete apenas uma previsão computacional (nível L4).
 
 **Para prosseguir, é necessário:**
 - Estudos clínicos ou pré-clínicos que testem diretamente a pregabalina na tendinite, e não apenas na dor pós-operatória.
 - Dados detalhados do mecanismo de ação e análise da ligação mecanística com a doença tendínea.
 - Advertências e contraindicações oficiais obtidas da bula (ANVISA), pendência que bloqueia a triagem de segurança.
-- Avaliação da viabilidade regulatória, já que o fármaco não tem registro no Brasil.
+- Avaliação da viabilidade regulatória.
 
 ### Outras indicações previstas (resumo)
 

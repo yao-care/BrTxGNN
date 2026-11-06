@@ -68,7 +68,7 @@ As formulações mais comuns são a solução nasal (spray) para rinite alérgic
 
 ## Informações de Comercialização no Brasil
 
-Nenhum registro foi encontrado na base de dados regulatória com o termo de busca **"AZELASTINA HYDROCHLORIDE"**. Possíveis razões:
+Possíveis razões:
 
 - O fármaco pode estar registrado sob nomenclatura em português: **"Cloridrato de Azelastina"** ou simplesmente **"Azelastina"**
 - Pode haver registro apenas por nome comercial (ex.: Allergodil®, Azedine®)

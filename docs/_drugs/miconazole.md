@@ -76,8 +76,6 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais.
-
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430991 | CREVAGIN | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -131,7 +129,7 @@ Consulte a bula para advertências e contraindicações formais, pois os dados d
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para acne tem pontuação alta (0,9954), mas as evidências são de nível L4: nenhum ensaio registrado, apenas um estudo pequeno, uma revisão e dados in vitro. Além disso, o miconazol está comercializado no Brasil, com 16 registros válidos de 16, e não há dados de bula para avaliação de segurança.
+- A previsão para acne tem pontuação alta (0,9954), mas as evidências são de nível L4: nenhum ensaio registrado, apenas um estudo pequeno, uma revisão e dados in vitro.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados.

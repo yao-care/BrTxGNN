@@ -84,12 +84,11 @@ Para as advertências formais, consulte a bula.
 
 **Justificativa:**
 - Não há ensaios clínicos nem literatura, e a biologia da doença (defeito genético na sinalização BMP/GDF) não tem relação plausível com a inibição da COX-2. A previsão se apoia só na pontuação do modelo (nível L5).
-- O celecoxibe também não está registrado no Brasil, o que impede qualquer avanço regulatório local.
 
 **Para prosseguir, seria necessário:**
 - Evidência biológica ou pré-clínica que ligue a inibição da COX-2 à via do GDF5/BMP.
 - Dados do mecanismo de ação e das advertências e contraindicações da bula, hoje ausentes.
-- Avaliação da viabilidade regulatória no Brasil, já que não há registro vigente.
+- Avaliação da viabilidade regulatória no Brasil.
 
 **Observação:** entre as outras indicações previstas para o celecoxibe, a espondilopatia inflamatória (espondilite anquilosante/espondiloartrite axial) tem o maior respaldo: ensaios de Fase 3 e Fase 4 concluídos, um ensaio randomizado publicado (CONSUL) e revisões. Contudo, ela já faz parte das indicações originais do fármaco e, portanto, não constitui reposicionamento genuíno.
 ## Aviso de isenção de responsabilidade

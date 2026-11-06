@@ -41,7 +41,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 ## Resumo em Uma Frase
 
 Sulfato de Atropina é um agente anticolinérgico clássico com décadas de uso em indicações como bradicardia, midríase e tratamento de intoxicação por organofosforados.
-O modelo TxGNN **não retornou indicações previstas** nesta consulta (26/03/2026), provavelmente porque o fármaco não foi localizado na base regulatória brasileira consultada (0 registros encontrados).
+O modelo TxGNN **não retornou indicações previstas** nesta consulta (26/03/2026), provavelmente porque o fármaco não foi localizado na base regulatória brasileira consultada.
 Com os dados disponíveis, **não é possível conduzir uma análise de reposicionamento**, e a avaliação deve ser suspensa até a resolução das lacunas identificadas.
 
 ---
@@ -64,7 +64,7 @@ Com os dados disponíveis, **não é possível conduzir uma análise de reposici
 
 A consulta à base regulatória não retornou nenhum registro para **ATROPINE SULFATE**.
 
-> **Atenção:** A ausência de registros pode refletir uma divergência de grafia ou identificador, e **não necessariamente** indica que o fármaco não está disponível no Brasil. Atropina é um medicamento de uso amplamente estabelecido; recomenda-se verificar o cadastro sob termos alternativos (ex.: "ATROPINA", "ATROPINA SULFATO") antes de concluir pela ausência de comercialização.
+> Atropina é um medicamento de uso amplamente estabelecido; recomenda-se verificar o cadastro sob termos alternativos (ex.: "ATROPINA", "ATROPINA SULFATO") antes de concluir pela ausência de comercialização.
 
 ---
 

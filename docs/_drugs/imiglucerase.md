@@ -87,7 +87,7 @@ Para as demais informações de segurança (advertências e contraindicações),
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) do fármaco
 - Evidências pré-clínicas que sustentem qualquer atividade do imiglucerase sobre o metabolismo de glicosaminoglicanos
-- Informações de bula (advertências e contraindicações) da ANVISA, já que o fármaco não possui registro no Brasil
+- Informações de bula (advertências e contraindicações) da ANVISA
 - Justificativa clara de que há vantagem sobre as terapias já disponíveis para MPS I
 ## Aviso de isenção de responsabilidade
 

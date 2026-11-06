@@ -84,7 +84,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-O fármaco possui **20 registros ativos** no Brasil. No entanto, os detalhes individuais de cada registro (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não foram retornados na consulta à TFDA. Os dados de identificação dos produtos estão em branco no Evidence Pack.
+Os dados de identificação dos produtos estão em branco no Evidence Pack.
 
 Para obter as informações completas de comercialização, consulte diretamente o portal de consulta de medicamentos da ANVISA.
 
@@ -107,7 +107,6 @@ O fármaco não gerou previsões de reposicionamento e possui lacunas críticas 
 - **Resolver DG001 (Bloqueante):** Baixar a bula da ANVISA e extrair indicação aprovada, advertências e contraindicações
 - **Resolver DG002 (Alta prioridade):** Obter o DrugBank ID de LEVOMETIONINA via DrugBank API para habilitar o mapeamento no Knowledge Graph
 - **Reprocessar no pipeline TxGNN** após associação do DrugBank ID para gerar previsões de reposicionamento
-- **Verificar dados TFDA:** Investigar por que os 20 registros retornaram sem detalhes de produto (possível problema de parsing ou codificação no pipeline)
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -76,7 +76,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 14 registros encontrados estão **válidos**; o medicamento é comercializado no país. Os cinco principais:
+O medicamento é comercializado no país. Os cinco principais:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -127,7 +127,7 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é mecanisticamente plausível e tem pontuação alta, mas se apoia em um único estudo farmacocinético veterinário, sem ensaios clínicos em humanos (nível L4). Além disso, o produto não tem registro válido no Brasil e existem alternativas de segunda geração com melhor perfil de tolerabilidade.
+- A previsão é mecanisticamente plausível e tem pontuação alta, mas se apoia em um único estudo farmacocinético veterinário, sem ensaios clínicos em humanos (nível L4).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a lacuna atual impede a triagem de segurança.

@@ -75,13 +75,12 @@ Acalabrutinibe maleato mono-hidratado é um inibidor seletivo da tirosina quinas
 **Decisão: Hold**
 
 **Justificativa:**
-O fármaco não possui registro regulatório no Brasil e o modelo TxGNN não gerou previsões de reposicionamento, tornando a análise de evidências inviável no momento. A causa mais provável é a ausência de DrugBank ID no registro de entrada, impedindo o mapeamento do fármaco ao grafo de conhecimento.
+A causa mais provável é a ausência de DrugBank ID no registro de entrada, impedindo o mapeamento do fármaco ao grafo de conhecimento.
 
 **Para prosseguir, é necessário:**
 - **Corrigir o mapeamento DrugBank:** identificar e inserir o DrugBank ID correto de acalabrutinibe para re-executar a pipeline TxGNN e obter previsões de reposicionamento
 - **Coletar MOA e categorias via DrugBank API:** lacuna classificada como Alta Severidade no Evidence Pack (DG002)
 - **Recuperar dados regulatórios internacionais:** consultar FDA (NDA 210259) e EMA para caracterizar as indicações aprovadas globalmente e subsidiar a análise de indicação original
-- **Baixar e analisar bula de referência:** obter advertências, contraindicações e perfil de segurança completo de fontes internacionais, como medida paliativa à ausência de registro nacional (DG001)
 - **Avaliar acesso no Brasil:** verificar viabilidade de importação autorizada pela ANVISA ou inclusão em programa de acesso expandido/uso compassivo
 ## Aviso de isenção de responsabilidade
 

@@ -37,7 +37,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo em Uma Frase
 
-OTILÔNIO BROMIDE é um fármaco com histórico de uso como antiespasmódico gastrointestinal em diversos países, porém sem registro ativo no Brasil.
 No presente Evidence Pack, **nenhuma previsão de reposicionamento foi gerada pelo modelo TxGNN**, pois o fármaco não possui DrugBank ID associado — pré-requisito obrigatório para o mapeamento ao grafo de conhecimento.
 Sem candidatos gerados, não é possível conduzir análise de indicação, evidências clínicas ou justificativa mecanística neste ciclo.
 

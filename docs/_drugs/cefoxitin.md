@@ -93,8 +93,6 @@ Atualmente não há ensaios clínicos relacionados registrados para a otite méd
 | 189000023 | CEFTON | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
 | 189000048 | CEFOXITINA SÓDICA | ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA | Cancelado |
 
-O medicamento é comercializado no Brasil, com 4 registros válidos de 4.
-
 ## Considerações de Segurança
 
 - **Contraindicações (previstas no grafo de conhecimento, não extraídas da bula)**: doença renal, piureter, colite por *Clostridium difficile*, enterocolite necrosante perinatal e colite.
@@ -112,13 +110,13 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para otite média infecciosa tem pontuação alta, mas é apenas teórica (L5): não há ensaios clínicos, a única publicação não sustenta a eficácia e o MRSA é resistente à cefoxitina. No Brasil, o medicamento é comercializado, com 4 registros válidos de 4.
+- A previsão para otite média infecciosa tem pontuação alta, mas é apenas teórica (L5): não há ensaios clínicos, a única publicação não sustenta a eficácia e o MRSA é resistente à cefoxitina.
 
 **Para prosseguir, é necessário:**
 - Estudos clínicos ou dados de suscetibilidade dos patógenos típicos da otite média (por exemplo, *S. pneumoniae*, *H. influenzae*, *M. catarrhalis*) à cefoxitina.
 - Dados do mecanismo de ação a partir do DrugBank.
 - Bula da ANVISA com advertências e contraindicações, para a triagem de segurança.
-- Avaliação da viabilidade regulatória e comercial, dado que não há registro vigente no Brasil.
+- Avaliação da viabilidade regulatória e comercial.
 
 **Observações sobre outras indicações previstas** (como contexto, sem alterar a decisão acima):
 - **Uretrite gonocócica**: nível L2, com diversos estudos clínicos históricos (1979-1983) mostrando cura com dose única. Trata-se de um uso já conhecido, hoje preterido em favor da ceftriaxona.

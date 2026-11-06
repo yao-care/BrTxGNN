@@ -96,14 +96,14 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para hiperfosfatemia tem pontuação alta, porém sem nenhum ensaio clínico, sem literatura e sem relação mecanística plausível (nível L5). Além disso, o único registro brasileiro está cancelado.
+A previsão para hiperfosfatemia tem pontuação alta, porém sem nenhum ensaio clínico, sem literatura e sem relação mecanística plausível (nível L5).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência que bloqueia a triagem de segurança
 - Obter dados do mecanismo de ação via DrugBank
 - Realizar revisão de literatura e estudos pré-clínicos que testem uma possível ligação entre a cobalamina e o metabolismo do fosfato
 - Avaliar a relevância das contraindicações do grafo de conhecimento (p. ex., hipertensão e deficiência de potássio)
-- Esclarecer a situação regulatória e as formas farmacêuticas disponíveis, dado que o registro está cancelado
+- Esclarecer a situação regulatória e as formas farmacêuticas disponíveis
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -38,7 +38,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo em Uma Frase
 
-Amantadina Hidrocloreto (AMANTADINA HYDROCHLORIDE) é um fármaco com histórico clínico documentado na literatura médica internacional, porém **nenhuma indicação prevista foi gerada pelo modelo TxGNN** neste ciclo de avaliação. A ausência de registros no mercado brasileiro e a falta do DrugBank ID impedem o mapeamento do fármaco na rede de conhecimento TxGNN, inviabilizando uma análise completa de reposicionamento neste momento.
+Amantadina Hidrocloreto (AMANTADINA HYDROCHLORIDE) é um fármaco com histórico clínico documentado na literatura médica internacional, porém **nenhuma indicação prevista foi gerada pelo modelo TxGNN** neste ciclo de avaliação.
 
 ---
 
@@ -58,7 +58,7 @@ Amantadina Hidrocloreto (AMANTADINA HYDROCHLORIDE) é um fármaco com histórico
 
 ## Por que Não Há Previsão Disponível?
 
-A consulta ao banco de dados regulatório brasileiro retornou **0 registros** para o nome "AMANTADINA HYDROCHLORIDE". Uma hipótese provável é que o nome consultado mistura o idioma português ("amantadina") com o inglês ("hydrochloride"), podendo não corresponder ao formato cadastrado nos sistemas da ANVISA — onde o equivalente seria "Amantadina Cloridrato" ou "Cloridrato de Amantadina".
+Uma hipótese provável é que o nome consultado mistura o idioma português ("amantadina") com o inglês ("hydrochloride"), podendo não corresponder ao formato cadastrado nos sistemas da ANVISA — onde o equivalente seria "Amantadina Cloridrato" ou "Cloridrato de Amantadina".
 
 Além disso, a ausência do **DrugBank ID** é um bloqueio crítico: sem esse identificador, o fármaco não pode ser mapeado como nó na rede do conhecimento TxGNN, o que impede a geração de qualquer previsão de reposicionamento pelo modelo de aprendizado profundo ou pelo método de grafo de conhecimento (KG).
 
@@ -71,7 +71,7 @@ Por fim, a indisponibilidade dos dados de **mecanismo de ação (MOA)** e das **
 **Decisão: Hold**
 
 **Justificativa:**
-O fármaco não possui registros no mercado brasileiro e não gerou previsões TxGNN. Os dados mínimos necessários para uma avaliação estruturada de reposicionamento — DrugBank ID, MOA e informações de segurança regulatória — estão ausentes neste pacote de evidências.
+Os dados mínimos necessários para uma avaliação estruturada de reposicionamento — DrugBank ID, MOA e informações de segurança regulatória — estão ausentes neste pacote de evidências.
 
 **Para prosseguir, é necessário:**
 - **[Bloqueante]** Revisar o nome de busca no sistema ANVISA: tentar "Cloridrato de Amantadina", "Amantadina Cloridrato" ou "Amantadine Hydrochloride"

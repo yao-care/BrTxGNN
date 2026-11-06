@@ -91,7 +91,7 @@ Esse mecanismo é mais relevante para microangiopatias mediadas por VWF, como a 
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 20 registros válidos; o medicamento está comercializado. Principais registros:
+O medicamento está comercializado. Principais registros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -141,12 +141,11 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 
 **Justificativa:**
 - Há um ensaio de Phase 3 concluído (NCT03252925) e um de Phase 2/3 em andamento na TA-TMA, mais revisões sistemáticas e coorte na PTT, o que corresponde ao nível L2. Faltam resultados publicados dos ensaios, e o único Phase 3 não atinge o critério de dois ensaios para L1.
-- O produto não tem registro válido no Brasil, o que exige regularização regulatória antes de qualquer uso na nova indicação.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar os resultados do NCT03252925 e acompanhar o NCT07279610
 - Obter a bula da ANVISA (advertências e contraindicações) e dados do mecanismo de ação no DrugBank
-- Avaliar a situação regulatória: há 20 registros válidos e o medicamento está comercializado
+- O medicamento está comercializado
 - Definir via de administração, dose e formulação (intravenosa vs. oral) para a nova indicação
 - Revisar as interações medicamentosas e as contraindicações sugeridas (asma, úlcera péptica, hipotensão, varizes esofágicas)
 - Esclarecer o benefício da NAC isolada, já que vários ensaios usam combinações (atorvastatina, danazol, dexametasona)

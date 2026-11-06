@@ -81,13 +81,13 @@ Atualmente não há literatura relacionada.
 
 **Justificativa:**
 - A previsão para o mieloma indolente é apenas computacional (L5), sem ensaios clínicos nem literatura. O plerixafor atua hoje no mieloma como mobilizador de células-tronco, não como terapia contra a doença.
-- O medicamento não tem registro no Brasil, e as advertências e contraindicações da bula da ANVISA não estão disponíveis.
+- As advertências e contraindicações da bula da ANVISA não estão disponíveis.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula (advertências e contraindicações), pois isso bloqueia a triagem de segurança.
 - Obter dados detalhados do mecanismo de ação (MOA) em fonte curada.
 - Realizar estudos pré-clínicos ou clínicos que testem o bloqueio de CXCR4 no mieloma indolente.
-- Avaliar o cenário regulatório no Brasil, já que não há registro vigente.
+- Avaliar o cenário regulatório no Brasil.
 - Considerar outra indicação prevista para o mesmo fármaco com evidências muito mais robustas: a **leucemia mieloide**, com 24 ensaios clínicos de fase 1 e 2 (por exemplo NCT00512252 e NCT00906945). Ela atingiu nível L2, mas sem ensaios de fase 3, e merece avaliação em separado.
 ## Aviso de isenção de responsabilidade
 

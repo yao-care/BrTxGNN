@@ -98,7 +98,7 @@ Consulte a bula para as advertências e contraindicações formais, que não est
 **Decisão: Hold**
 
 **Justificativa:**
-- Há RCTs antigos (1981-1990) que apoiam o midazolam como hipnótico, mas os ensaios clínicos registrados são apenas indiretos, o fármaco não tem registro no Brasil e faltam dados de bula e de mecanismo, o que impede a triagem de segurança.
+- Há RCTs antigos (1981-1990) que apoiam o midazolam como hipnótico, mas os ensaios clínicos registrados são apenas indiretos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações)

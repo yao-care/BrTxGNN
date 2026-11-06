@@ -39,7 +39,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 ## Resumo em Uma Frase
 
 Acyclovir Sodium é a forma sódica do aciclovir, antiviral da classe dos análogos de nucleosídeos, amplamente reconhecido pelo tratamento de infecções por herpesvírus (herpes simples, varicela e herpes-zóster).
-No ciclo atual de análise, o modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco — condição diretamente associada à ausência de registro no sistema regulatório brasileiro.
 Sem indicação prevista, **não há ensaios clínicos nem publicações** vinculados a candidatos de reposicionamento nesta análise.
 
 ---
@@ -81,12 +80,12 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O pipeline TxGNN não retornou nenhuma previsão de reposicionamento para Acyclovir Sodium neste ciclo de análise. A ausência de registro regulatório no Brasil, combinada às lacunas de dados em mecanismo de ação e segurança, impede qualquer avaliação de viabilidade neste momento.
+O pipeline TxGNN não retornou nenhuma previsão de reposicionamento para Acyclovir Sodium neste ciclo de análise.
 
 **Para prosseguir, é necessário:**
-- Confirmar o status junto à ANVISA — o fármaco pode estar cadastrado sob o INN simplificado **"Aciclovir"**, sem o sufixo sódico, o que explicaria o retorno de 0 registros na consulta atual
+- Confirmar o status junto à ANVISA — o fármaco pode estar cadastrado sob o INN simplificado **"Aciclovir"**, sem o sufixo sódico
 - Integrar os dados de mecanismo de ação ao Evidence Pack (a consulta ao DrugBank retornou 1 resultado, mas os campos não foram preenchidos)
-- Coletar advertências, contraindicações e interações medicamentosas a partir da bula oficial (ANVISA/TFDA)
+- Coletar advertências, contraindicações e interações medicamentosas a partir da bula oficial
 - Reprocessar o pipeline com os dados regulatórios corrigidos para habilitar as previsões TxGNN
 ## Aviso de isenção de responsabilidade
 

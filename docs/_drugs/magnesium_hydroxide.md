@@ -95,7 +95,7 @@ Selecionei as publicações mais pertinentes. Nenhuma é um ensaio controlado ra
 
 ## Informações de Comercialização no Brasil
 
-Há 13 registros válidos, todos de produtos de ingrediente único. Abaixo, os 5 principais. A forma farmacêutica não consta nos dados compilados.
+Abaixo, os 5 principais. A forma farmacêutica não consta nos dados compilados.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|

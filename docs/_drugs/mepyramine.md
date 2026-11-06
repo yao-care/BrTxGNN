@@ -119,7 +119,7 @@ A previsão é mecanisticamente plausível, mas corresponde ao uso anti-histamí
 - Complementar os dados de mecanismo de ação (MOA) a partir do DrugBank
 - Buscar evidências clínicas em humanos (ensaios ou estudos observacionais) para urticária alérgica
 - Comparar com anti-histamínicos de segunda geração, preferidos pelas diretrizes atuais
-- Avaliar a viabilidade regulatória, já que não há registro vigente, e a compatibilidade de vias de administração
+- Avaliar a viabilidade regulatória, e a compatibilidade de vias de administração
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

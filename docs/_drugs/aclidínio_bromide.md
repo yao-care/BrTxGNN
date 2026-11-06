@@ -39,7 +39,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Aclidínio brometo é um broncodilatador de longa duração da classe LAMA (Long-Acting Muscarinic Antagonist), indicado para tratamento de manutenção da DPOC (Doença Pulmonar Obstrutiva Crônica) em adultos.
 Nesta rodada de análise, o modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco, tornando impossível a avaliação de novas indicações.
-O fármaco não possui registro ativo no Brasil e os dados de mecanismo de ação e segurança não foram recuperados, o que impede a progressão do fluxo padrão de avaliação.
+Os dados de mecanismo de ação e segurança não foram recuperados, o que impede a progressão do fluxo padrão de avaliação.
 
 ---
 
@@ -59,7 +59,7 @@ O fármaco não possui registro ativo no Brasil e os dados de mecanismo de açã
 
 ## Situação Regulatória no Brasil
 
-Nenhum registro foi encontrado para aclidínio brometo junto à ANVISA. O fármaco **não possui licença ativa para comercialização no Brasil**. A consulta à base regulatória retornou zero resultados em 26/03/2026.
+O fármaco **não possui licença ativa para comercialização no Brasil**. A consulta à base regulatória retornou zero resultados em 26/03/2026.
 
 > Para referência, o produto é comercializado internacionalmente com os nomes Tudorza® Pressair® e Bretaris® Genuair®, aprovado pela EMA e FDA para DPOC.
 

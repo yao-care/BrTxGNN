@@ -84,7 +84,7 @@ A pontuação elevada do TxGNN é apenas uma previsão computacional. Parte da l
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros válidos e o medicamento está comercializado. Os cinco primeiros são listados abaixo (a forma farmacêutica não consta nos dados compilados).
+O medicamento está comercializado. Os cinco primeiros são listados abaixo (a forma farmacêutica não consta nos dados compilados).
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -132,13 +132,12 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se apoia apenas no modelo, em dados in vitro e em um ensaio pequeno sem resultados (nível L4). Não há registro válido no Brasil, e o perfil de segurança sistêmico é desfavorável.
+- A previsão se apoia apenas no modelo, em dados in vitro e em um ensaio pequeno sem resultados (nível L4). O perfil de segurança sistêmico é desfavorável.
 
 **Para prosseguir, é necessário:**
 - Resultados do ensaio NCT07237763 (cetoconazol 2% vs. adapaleno 2%) e, se positivos, ensaios randomizados maiores de fase 2/3 na via tópica
 - Dados de bula da ANVISA sobre advertências e contraindicações, atualmente ausentes
 - Dados detalhados de mecanismo de ação a partir do DrugBank
-- Avaliação da viabilidade regulatória de um novo registro tópico, considerando que há 20 registros válidos atualmente
 - Distinção clara entre acne vulgar e foliculite por *Malassezia* nos estudos futuros
 ## Aviso de isenção de responsabilidade
 

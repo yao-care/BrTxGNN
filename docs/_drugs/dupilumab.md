@@ -106,13 +106,13 @@ Consulte a bula para advertências e contraindicações.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão de bronquite tem pontuação alta e mecanismo plausível (inflamação tipo 2), mas não há ensaio clínico direto na indicação; o único ensaio é indireto, e a maior parte da literatura trata de asma e DPOC. Além disso, o único registro no Brasil está cancelado.
+- A previsão de bronquite tem pontuação alta e mecanismo plausível (inflamação tipo 2), mas não há ensaio clínico direto na indicação; o único ensaio é indireto, e a maior parte da literatura trata de asma e DPOC.
 
 **Para prosseguir, é necessário:**
 - Definir o fenótipo-alvo (bronquite crônica/DPOC tipo 2 com eosinofilia) e confirmar com ensaios de fase 3 específicos em DPOC.
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), uma lacuna bloqueante para a triagem de segurança.
 - Complementar os dados de mecanismo de ação a partir do DrugBank.
-- Verificar a situação regulatória atual no Brasil, dado que o registro consta como cancelado.
+- Verificar a situação regulatória atual no Brasil.
 - Estabelecer plano de monitoramento para interações de gravidade maior (imunossupressores e biológicos).
 
 ### Observação sobre outras indicações previstas

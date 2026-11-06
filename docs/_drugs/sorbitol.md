@@ -76,7 +76,6 @@ Entre as demais previsões do modelo, apenas as duas abaixo têm alguma literatu
 | Indicação | Pontuação TxGNN | Nível | Observação |
 |------|------|------|------|
 
-
 ## Considerações de Segurança
 
 - **Contraindicações (grafo de conhecimento, não bula)**: doença ulcerosa péptica ativa.
@@ -91,14 +90,14 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura que apoiem o sorbitol na hipertermia maligna induzida por exercício, e não existe vínculo mecanístico plausível. O fármaco não possui registro como medicamento no Brasil, e a previsão (L5) baseia-se apenas no modelo.
+- Não há ensaios clínicos nem literatura que apoiem o sorbitol na hipertermia maligna induzida por exercício, e não existe vínculo mecanístico plausível. A previsão (L5) baseia-se apenas no modelo.
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação que justifiquem a hipótese, caso ela seja mantida.
 - Obtenção e análise da bula (advertências e contraindicações) para a triagem de segurança.
 - Estudos pré-clínicos que testem a hipótese antes de qualquer avanço.
 - Reavaliação do conjunto de candidatas, pois outras indicações previstas (insuficiência cardíaca e otite média) também carecem de evidência direta e não justificam priorização.
-- Definição da situação regulatória no Brasil, já que não há registro vigente.
+- Definição da situação regulatória no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

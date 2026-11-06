@@ -75,7 +75,7 @@ Além disso, o produto está cancelado no mercado brasileiro e é de uso exclusi
 
 ## Informações de Comercialização no Brasil
 
-Todos os 9 registros encontrados estão válidos; o medicamento é comercializado.
+O medicamento é comercializado.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
@@ -84,8 +84,6 @@ Todos os 9 registros encontrados estão válidos; o medicamento é comercializad
 | Registro 104970176 | Cefalotil | Não informada | Antibióticos sistêmicos simples |
 | Registro 174200013 | Cefalotina Sódica | Não informada | Cefalosporinas |
 | Registro 100630084 | Kefalomax | Não informada | Cefalosporinas |
-
-Há ainda outros 4 registros cancelados (Cefariston, Cefalotina Sódica ×2 e Keflin Neutro).
 
 ## Considerações de Segurança
 
@@ -102,13 +100,13 @@ Para advertências e contraindicações, consulte a bula.
 
 **Justificativa:**
 - Não há ensaios clínicos nem literatura apoiando a previsão; a evidência é apenas indireta (L4).
-- O fármaco tem atividade limitada contra *N. gonorrhoeae*, existem alternativas padrão (ceftriaxona) e o medicamento é comercializado no Brasil (9 de 9 registros válidos).
+- O fármaco tem atividade limitada contra *N. gonorrhoeae*, existem alternativas padrão (ceftriaxona) e o medicamento é comercializado no Brasil.
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação (MOA) e do perfil de sensibilidade de *N. gonorrhoeae* à cefalotina.
 - Bula da ANVISA com advertências e contraindicações, para triagem de segurança.
 - Estudos in vitro ou clínicos que mostrem vantagem sobre os tratamentos atuais.
-- Avaliação da viabilidade regulatória, dado que não há registro válido no Brasil.
+- Avaliação da viabilidade regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

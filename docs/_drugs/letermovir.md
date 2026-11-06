@@ -63,7 +63,7 @@ Não foram encontrados ensaios clínicos nem publicações sobre letermovir ness
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados locais, o fármaco consta como comercializado, com 2 registros válidos e 1 cancelado. Os detalhes de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis nos dados compilados.
+Segundo os dados locais, o fármaco consta como comercializado, com 2 registros válidos e 1 cancelado.
 
 ## Considerações de Segurança
 

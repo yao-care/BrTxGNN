@@ -102,8 +102,6 @@ Dos 10 registros, 10 estão válidos; o medicamento está comercializado no Bras
 | Registro 100850246 | Nutriflex Lipid | — | Nutrientes parenterais |
 | Registro 100850124 | Nutriflex Lipid | — | Nutrientes parenterais |
 
-(Listados os 5 principais, de um total de 10 registros cancelados.)
-
 ---
 
 ## Considerações de Segurança
@@ -127,7 +125,7 @@ Para advertências e contraindicações formais, consulte a bula.
 - Dados do mecanismo de ação (MOA) e da relação direta entre o ácido glutâmico e o metabolismo ósseo
 - Bula oficial da ANVISA, com advertências e contraindicações
 - Estudos pré-clínicos específicos do ácido glutâmico em modelos de osteoporose, antes de qualquer ensaio clínico
-- Avaliação da viabilidade regulatória, dado que não há registro válido no Brasil, e da via de administração
+- Avaliação da viabilidade regulatória, e da via de administração
 - Avaliação de segurança em pacientes com doença renal ou cardiovascular
 
 **Observação sobre outras indicações previstas:** osteoporose associada à gravidez, glaucoma hereditário primário e gastroparesia têm nível de evidência L5 e recomendação Hold. Para o glaucoma, a excitotoxicidade do glutamato sugere risco, e não benefício. Para a gastroparesia, a literatura recuperada (anticorpos anti-GAD) não tem relação com o ácido glutâmico como fármaco.

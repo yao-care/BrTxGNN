@@ -94,7 +94,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se baseia apenas no modelo (L5), sem ensaios clínicos nem literatura. Além disso, a ausência de parede celular no *Ureaplasma* torna o mecanismo da ceftolozana biologicamente implausível. O único registro no Brasil está cancelado.
+- A previsão se baseia apenas no modelo (L5), sem ensaios clínicos nem literatura. Além disso, a ausência de parede celular no *Ureaplasma* torna o mecanismo da ceftolozana biologicamente implausível.
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação confirmados (DrugBank)

@@ -66,8 +66,6 @@ A ausência de indicação original registrada e de registros na ANVISA reforça
 
 ## Informações de Comercialização no Brasil
 
-Nenhum registro encontrado na base ANVISA para "CALCIUM DIHYDRATE CHLORIDE".
-
 > **Nota:** Recomenda-se nova consulta com nomenclatura padronizada: "cloreto de cálcio" ou "calcium chloride" para verificar registros de formulações contendo este componente.
 
 ---
@@ -91,7 +89,7 @@ O pipeline TxGNN não gerou nenhuma previsão de reposicionamento para este fár
 - **Resolver o DrugBank ID**: O log de consulta indica 1 resultado encontrado no DrugBank, mas o campo `drugbank_id` permanece nulo — verificar o resultado bruto e propagar o ID correto (provavelmente DB06724)
 - **Reexecutar o pipeline TxGNN**: Com o DrugBank ID correto, o modelo de grafo de conhecimento poderá gerar previsões de reposicionamento
 - **Levantar indicação original**: Consultar a bula de referência da ANVISA ou base DrugBank para registrar a indicação aprovada principal
-- **Sanar DG001 (TFDA/ANVISA)** e **DG002 (MOA)**: Obter dados de advertências e mecanismo de ação antes de qualquer avaliação de segurança
+- **Sanar DG001** e **DG002 (MOA)**: Obter dados de advertências e mecanismo de ação antes de qualquer avaliação de segurança
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

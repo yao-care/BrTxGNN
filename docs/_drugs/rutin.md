@@ -121,14 +121,14 @@ Não há dados de bula disponíveis sobre advertências e contraindicações; co
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se baseia apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura sobre a rutina para essas indicações. Além disso, os dois registros brasileiros estão cancelados e faltam dados de segurança da bula.
+A previsão se baseia apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura sobre a rutina para essas indicações.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Complementar o mecanismo de ação a partir do DrugBank para avaliar a ponte mecanística
 - Realizar busca dirigida de literatura e ensaios sobre rutina em doença fibrocística da mama e condições mamárias benignas
 - Avaliar as contraindicações do grafo de conhecimento (distúrbios do metabolismo do ferro e anemia falciforme) quanto à relevância clínica
-- Verificar a viabilidade regulatória e de via de administração, já que não há registro vigente no Brasil
+- Verificar a viabilidade regulatória e de via de administração
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

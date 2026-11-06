@@ -66,15 +66,13 @@ Terbinafina é um fármaco bem caracterizado: inibe seletivamente a enzima **esq
 
 O registro de consultas (`query_log`) revela uma inconsistência importante: a consulta ao DrugBank retornou **1 resultado com sucesso**, mas o campo `drugbank_id` no Evidence Pack permanece `null`. Isso indica que o ID DrugBank foi localizado mas não foi propagado corretamente para o JSON de saída — uma falha na etapa de persistência do pipeline de mapeamento.
 
-Adicionalmente, o campo `original_indications` está vazio, o que impede o TxGNN de calcular similaridade entre indicação de origem e candidatos de reposicionamento. Por fim, a consulta regulatória foi direcionada à fonte TFDA (Taiwan), retornando 0 registros — o que não reflete necessariamente a situação regulatória no Brasil, onde Terbinafina possui histórico de comercialização.
+Adicionalmente, o campo `original_indications` está vazio, o que impede o TxGNN de calcular similaridade entre indicação de origem e candidatos de reposicionamento.
 
 ---
 
 ## Informações de Comercialização no Brasil
 
-Nenhum registro foi encontrado na consulta atual.
-
-> **Atenção:** A fonte de dados regulatórios consultada neste ciclo parece ser a base TFDA (Taiwan Food and Drug Administration), não a ANVISA. Para confirmar a situação de registro no Brasil, consulte diretamente o portal da ANVISA em [https://consultas.anvisa.gov.br/](https://consultas.anvisa.gov.br/).
+> Para confirmar a situação de registro no Brasil, consulte diretamente o portal da ANVISA em [https://consultas.anvisa.gov.br/](https://consultas.anvisa.gov.br/).
 
 ---
 
@@ -94,7 +92,6 @@ O pipeline não completou o mapeamento DrugBank para Terbinafina Cloridrato nest
 **Para prosseguir, é necessário:**
 - **Corrigir o pipeline de mapeamento**: o DrugBank retornou 1 resultado com sucesso, mas o `drugbank_id` não foi persistido — localizar e corrigir o bug na etapa de integração
 - **Preencher `original_indications`**: mapear as indicações aprovadas a partir do DrugBank ou da bula ANVISA
-- **Apontar a consulta regulatória para ANVISA**: substituir a fonte TFDA pela base brasileira e re-executar a coleta
 - **Re-executar o pipeline completo** após as correções acima para obter previsões TxGNN válidas
 - **Coletar dados de MOA e segurança**: obter advertências e contraindicações da bula ANVISA após confirmação do registro
 ## Aviso de isenção de responsabilidade

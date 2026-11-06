@@ -40,7 +40,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Abiraterona Acetato é um inibidor da enzima CYP17A1, aprovado internacionalmente para o tratamento do câncer de próstata resistente à castração (CRPC), atuando ao bloquear a biossíntese de andrógenos em tecidos tumorais, adrenais e testiculares.
 O modelo TxGNN **não identificou novas indicações de reposicionamento** para este fármaco no ciclo atual, pois há **duas lacunas críticas de dados** — ausência de informações regulatórias e de mecanismo de ação — que interromperam o pipeline de análise.
-O fármaco **não possui registros vigentes no Brasil**, e a avaliação completa está bloqueada até que as lacunas sejam sanadas.
+A avaliação completa está bloqueada até que as lacunas sejam sanadas.
 
 ---
 
@@ -83,7 +83,7 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O modelo TxGNN não gerou candidatos de reposicionamento para Abiraterona Acetato neste ciclo, e a análise de segurança está bloqueada pela ausência de bula ANVISA. O fármaco também não possui registro ativo no Brasil, o que impõe barreiras regulatórias adicionais a qualquer desenvolvimento clínico local.
+O modelo TxGNN não gerou candidatos de reposicionamento para Abiraterona Acetato neste ciclo, e a análise de segurança está bloqueada pela ausência de bula ANVISA.
 
 **Para prosseguir, é necessário:**
 - **[DG001 — Bloqueante]** Baixar e extrair informações da bula da ANVISA (advertências, contraindicações, populações especiais)

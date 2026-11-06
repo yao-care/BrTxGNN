@@ -152,7 +152,7 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 **Decisão: Hold**
 
 **Justificativa:**
-- A única evidência clínica é um ensaio de fase 4 pequeno, de status desconhecido, sobre visualização endoscópica, que não avalia tratamento da úlcera. A literatura é indireta, o fármaco não tem ação cicatrizante ou antissecretora, e não há registro válido no Brasil.
+- A única evidência clínica é um ensaio de fase 4 pequeno, de status desconhecido, sobre visualização endoscópica, que não avalia tratamento da úlcera. A literatura é indireta, o fármaco não tem ação cicatrizante ou antissecretora.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), hoje indisponível.

@@ -64,8 +64,6 @@ A pontuação do TxGNN é muito alta (0,9994), mas é apenas uma saída do model
 
 ## Informações de Comercialização no Brasil
 
-Há 11 registros válidos de produtos de agente único, sem registros cancelados.
-
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431209 | CAPECITABINA | EUROFARMA LABORATORIOS S.A. | Ativo |

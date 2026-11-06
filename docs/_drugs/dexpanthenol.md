@@ -91,7 +91,7 @@ A previsão para estenose anorretal tem pontuação alta (0,9972), mas é purame
 - Baixar e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Realizar busca sistemática na literatura e em registros de ensaios sobre dexpantenol em doenças anorretais
 - Esclarecer a relevância da hemofilia como contraindicação no grafo de conhecimento
-- Definir a via de administração e a forma farmacêutica, e verificar a situação regulatória, já que não há registro vigente
+- Definir a via de administração e a forma farmacêutica, e verificar a situação regulatória
 - Avaliar, como alternativa, indicações com maior plausibilidade biológica (proctite, ceratoconjuntivite epitelial punctata) ou com ensaio indireto (exantema, após confirmar a condição estudada em NCT01136005)
 ## Aviso de isenção de responsabilidade
 

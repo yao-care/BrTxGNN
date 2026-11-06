@@ -72,7 +72,7 @@ Para que a análise de reposicionamento possa ser conduzida, é necessário prim
 
 ## Informações de Comercialização no Brasil
 
-O fármaco consta como **comercializado** com **1 registro** no mercado brasileiro. No entanto, os detalhes do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não estão disponíveis** no Evidence Pack atual — os campos retornaram vazios na consulta à base regulatória.
+O fármaco consta como **comercializado** com **1 registro** no mercado brasileiro.
 
 ---
 
@@ -103,10 +103,10 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O Evidence Pack está incompleto em camadas críticas: nenhuma previsão TxGNN foi gerada, os detalhes do registro regulatório estão vazios e as informações de segurança apresentam lacunas classificadas como *Blocking* — tornando inviável qualquer recomendação de reposicionamento neste momento.
+O Evidence Pack está incompleto em camadas críticas: nenhuma previsão TxGNN foi gerada e as informações de segurança apresentam lacunas classificadas como *Blocking* — tornando inviável qualquer recomendação de reposicionamento neste momento.
 
 **Para prosseguir, é necessário:**
-- **[DG001 — Blocking]** Baixar e analisar o PDF da bula (ANVISA/TFDA) para obter advertências principais e contraindicações
+- **[DG001 — Blocking]** Baixar e analisar o PDF da bula para obter advertências principais e contraindicações
 - **[DG002 — High]** Consultar a API do DrugBank para obter o DrugBank ID, MOA completo e categorias farmacológicas
 - **Reexecutar o pipeline TxGNN** para gerar candidatos de novas indicações — sem previsões, o relatório de reposicionamento não pode ser produzido
 - **Completar os dados de registro**: número de registro, nome comercial, forma farmacêutica e texto da indicação aprovada

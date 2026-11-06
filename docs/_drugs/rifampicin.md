@@ -136,7 +136,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Para prosseguir, é necessário:**
 - Obter e analisar as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança).
 - Complementar os dados de mecanismo de ação via DrugBank.
-- Definir a viabilidade de uma formulação oftálmica tópica, pois não há dados de forma farmacêutica nos registros (todos cancelados).
+- Definir a viabilidade de uma formulação oftálmica tópica.
 - Realizar revisão sistemática do uso ocular de rifampicina (tracoma, clamídia, conjuntivite bacteriana) e comparar com os tratamentos atuais.
 - Avaliar o risco de resistência (uso reservado para tuberculose) e as interações medicamentosas.
 

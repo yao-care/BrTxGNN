@@ -98,7 +98,7 @@ Não há advertências ou contraindicações de bula nos dados compilados. Consu
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é mecanisticamente paradoxal (fármaco promotor da vigília para uma condição de sono insuficiente), os ensaios não têm resultados disponíveis, e o único registro brasileiro está cancelado. Sem dados de segurança de bula, não é possível avançar à triagem de segurança.
+- A previsão é mecanisticamente paradoxal (fármaco promotor da vigília para uma condição de sono insuficiente), os ensaios não têm resultados disponíveis. Sem dados de segurança de bula, não é possível avançar à triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações).
@@ -106,7 +106,7 @@ Não há advertências ou contraindicações de bula nos dados compilados. Consu
 - Obter os resultados publicados dos ensaios NCT01091974, NCT01011218 e NCT02552303.
 - Definir se o alvo é a insônia em si ou a sonolência diurna e a fadiga associadas, em populações específicas (câncer, apneia do sono, trabalho em turnos).
 - Avaliar o risco cardiovascular e psiquiátrico, dadas as contraindicações apontadas pelo grafo de conhecimento.
-- Esclarecer a situação regulatória, já que o registro está cancelado.
+- Esclarecer a situação regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

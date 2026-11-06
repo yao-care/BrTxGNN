@@ -109,7 +109,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do modelo é muito alta, mas o mecanismo do azol não se aplica ao *Pneumocystis* (ausência de ergosterol), não há ensaio clínico com posaconazol para essa indicação e a literatura é apenas geral. O nível de evidência é L4, e o único registro brasileiro está cancelado.
+- A pontuação do modelo é muito alta, mas o mecanismo do azol não se aplica ao *Pneumocystis* (ausência de ergosterol), não há ensaio clínico com posaconazol para essa indicação e a literatura é apenas geral. O nível de evidência é L4.
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação confirmados em fonte primária (DrugBank).

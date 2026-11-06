@@ -117,7 +117,7 @@ Advertências e contraindicações da bula não estavam disponíveis; consulte a
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão tem pontuação alta, mas nível de evidência L5: não há ensaios clínicos nem literatura, e o mecanismo (redução da DHT) não explica a síndrome de Ambras, de origem genética. Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13.
+A previsão tem pontuação alta, mas nível de evidência L5: não há ensaios clínicos nem literatura, e o mecanismo (redução da DHT) não explica a síndrome de Ambras, de origem genética.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem ela

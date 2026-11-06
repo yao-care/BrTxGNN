@@ -64,7 +64,7 @@ Há, porém, uma limitação importante: a ceratoconjuntivite epitelial punctata
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados para este relatório, a situação de mercado é **comercializado**, com **8 registros válidos** e **12 registros cancelados**. A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.
+A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.
 
 ## Considerações de Segurança
 

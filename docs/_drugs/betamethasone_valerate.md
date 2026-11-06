@@ -40,7 +40,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Betamethasone Valerate é um corticosteroide tópico de potência média a alta, classicamente utilizado no tratamento de condições inflamatórias da pele, como eczema, psoríase e dermatites.
 O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo de análise atual, possivelmente por ausência do identificador DrugBank ID no grafo de conhecimento.
-O medicamento **não possui registros ativos** no mercado brasileiro, e os dados de segurança apresentam lacunas críticas.
+Os dados de segurança apresentam lacunas críticas.
 
 ---
 

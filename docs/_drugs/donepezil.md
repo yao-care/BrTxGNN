@@ -64,7 +64,7 @@ Assim, a previsão deve ser tratada apenas como um sinal gerado pelo modelo, a s
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, o medicamento consta como comercializado, com 10 registros válidos. A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.
+A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.
 
 ## Considerações de Segurança
 

@@ -108,7 +108,7 @@ Não há dados de advertências e contraindicações da bula para este produto. 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal tem apenas suporte computacional (L5), sem ensaios clínicos nem literatura pertinente, e não há vínculo mecanístico plausível entre o ácido lático e uma malformação vascular estrutural. Além disso, o único registro no Brasil está cancelado.
+- A previsão principal tem apenas suporte computacional (L5), sem ensaios clínicos nem literatura pertinente, e não há vínculo mecanístico plausível entre o ácido lático e uma malformação vascular estrutural.
 
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank).

@@ -86,7 +86,6 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 **Justificativa:**
 - Não há ensaios clínicos nem literatura para amenorreia (nível L5, apenas previsão do modelo).
 - O mecanismo é incerto e a direção do efeito é ambígua.
-- O único registro brasileiro está cancelado.
 - O perfil de contraindicações é extenso e não pôde ser confirmado pela bula.
 
 **Para prosseguir, é necessário:**
@@ -94,7 +93,7 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Realizar busca sistemática de literatura e de ensaios clínicos sobre progestágenos no tratamento da amenorreia.
 - Definir se o objetivo é induzir amenorreia ou tratar amenorreia patológica.
-- Avaliar a viabilidade regulatória e de via de administração, já que o registro atual está cancelado.
+- Avaliar a viabilidade regulatória e de via de administração.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

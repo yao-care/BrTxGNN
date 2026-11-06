@@ -70,7 +70,7 @@ Essa relação é **teórica**: nenhum estudo testou o orlistate como estratégi
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 20 registros **válidos**; o medicamento está comercializado. Principais registros (5 de 20):
+O medicamento está comercializado. Principais registros (5 de 20):
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -125,13 +125,13 @@ Consulte a bula para informações complementares de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se baseia somente no modelo (L5), sem ensaios clínicos nem literatura, e o vínculo mecanístico é teórico. Além disso, o orlistate não tem registro válido no Brasil, e o manejo padrão da hipervitaminose (suspender a fonte) já é simples e eficaz.
+A previsão se baseia somente no modelo (L5), sem ensaios clínicos nem literatura, e o vínculo mecanístico é teórico.
 
 **Para prosseguir, é necessário:**
 - Estudos pré-clínicos ou observacionais que avaliem o efeito do orlistate na carga corporal de vitaminas lipossolúveis em excesso
 - Dados formais de mecanismo de ação
 - Advertências e contraindicações da bula na ANVISA, que ainda não foram analisadas
-- Avaliação da situação regulatória, dado que o medicamento está comercializado com 20 registros válidos
+- Avaliação da situação regulatória
 - Avaliação do risco de deficiência vitamínica e de outras contraindicações apontadas pelo grafo de conhecimento
 ## Aviso de isenção de responsabilidade
 

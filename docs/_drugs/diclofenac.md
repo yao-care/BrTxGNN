@@ -64,7 +64,7 @@ A pontuação alta do TxGNN reflete apenas um padrão de previsão do modelo, se
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados. A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.
+A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.
 
 ## Considerações de Segurança
 

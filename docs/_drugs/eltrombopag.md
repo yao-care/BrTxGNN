@@ -100,14 +100,13 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta (0,9926), mas a evidência se limita a relatos e séries de casos em complicações hematológicas do HIV (L3). O único ensaio clínico não é em HIV e foi encerrado. Não há indício de efeito antiviral, e o fármaco não tem registro válido no Brasil.
+- A previsão tem pontuação alta (0,9926), mas a evidência se limita a relatos e séries de casos em complicações hematológicas do HIV (L3). O único ensaio clínico não é em HIV e foi encerrado. Não há indício de efeito antiviral.
 
 **Para prosseguir, é necessário:**
 - Definir se o objetivo é tratar a trombocitopenia ou citopenias associadas ao HIV (suporte) ou buscar efeito antiviral, que hoje só tem respaldo pré-clínico.
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
 - Obter os dados de mecanismo de ação no DrugBank.
 - Verificar o motivo do encerramento do ensaio NCT00678587.
-- Esclarecer a situação regulatória: ambos os registros estão cancelados.
 - Avaliar a segurança em pacientes com HIV e hepatopatia ou coinfecção por hepatite, dadas as contraindicações indicadas no grafo de conhecimento.
 - Gerar evidência prospectiva (ensaio clínico em PTI associada ao HIV).
 ## Aviso de isenção de responsabilidade

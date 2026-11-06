@@ -75,7 +75,6 @@ As demais previsões de maior pontuação também carecem de sustentação. A ta
 | Síndrome do olho seco | 0,9958 | L4 | Evidência indireta (spray oral) |
 | Taquicardia ventricular | 0,9918 | L5 | Sem evidências |
 
-
 ---
 
 ## Evidências de Ensaios Clínicos
@@ -109,7 +108,7 @@ Os 10 registros estão **válidos** (10 de 10); o produto está comercializado.
 | Registro 104810124 | Digiazia | Não informada | Antiácido |
 | Registro 104971402 | Frutaxx | Não informada | Antiácido |
 
-Foram listados os 5 primeiros dos 10 registros (todos cancelados). Entre os demais estão Sal de Fruta Eno e Sonrisal.
+Entre os demais estão Sal de Fruta Eno e Sonrisal.
 
 ---
 

@@ -91,13 +91,12 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem relação mecanística plausível. Além disso, o único registro no Brasil está cancelado, e há preocupações de segurança (mielossupressão e numerosas interações) numa infecção viral aguda para a qual já existem vacinas.
+A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem relação mecanística plausível.
 
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (MOA) no DrugBank e avaliar possível relação com a replicação do poliovírus ou fatores do hospedeiro.
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).
 - Realizar estudos pré-clínicos *in vitro* de atividade antipoliovírus antes de qualquer avanço.
-- Esclarecer a situação regulatória do registro cancelado.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

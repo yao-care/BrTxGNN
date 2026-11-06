@@ -82,7 +82,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão é apenas do modelo (L5): não há ensaios clínicos e a literatura recuperada não testa a rivaroxabana na artrite reumatoide. Além disso, o fármaco não tem registro vigente no Brasil nos dados compilados, e a segurança em artrite reumatoide (risco de sangramento, interações) não foi avaliada.
+A previsão é apenas do modelo (L5): não há ensaios clínicos e a literatura recuperada não testa a rivaroxabana na artrite reumatoide.
 
 **Para prosseguir, é necessário:**
 - Obter as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança)

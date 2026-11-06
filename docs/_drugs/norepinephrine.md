@@ -118,7 +118,7 @@ Há ressalvas importantes: a norepinefrina não tem papel estabelecido como bron
 | 127480003 | NOREPINE | OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTR | Cancelado |
 | 162500003 | LEVOPHED | HOSPIRA PRODUTOS HOSPITALARES LTDA | Cancelado |
 
-Observação: os 10 registros encontrados estão válidos; a tabela mostra apenas os 5 primeiros. Entre os demais constam produtos como Hyponor, Noradrem, Epikabi (vasoconstritores) e Xylestesin e Xylestesin com norepinefrina (anestésicos locais).
+A tabela mostra apenas os 5 primeiros. Entre os demais constam produtos como Hyponor, Noradrem, Epikabi (vasoconstritores) e Xylestesin e Xylestesin com norepinefrina (anestésicos locais).
 
 ---
 
@@ -136,13 +136,13 @@ Para advertências e contraindicações da bula, consulte a bula aprovada pela A
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos que testem a norepinefrina em doença pulmonar obstrutiva e a literatura é basicamente fisiológica ou de revisão. Além disso, a norepinefrina é um vasopressor sistêmico sem papel broncodilatador, com risco cardiovascular relevante, e está comercializada no Brasil, com 10 registros válidos de 10.
+- Não há ensaios clínicos que testem a norepinefrina em doença pulmonar obstrutiva e a literatura é basicamente fisiológica ou de revisão. Além disso, a norepinefrina é um vasopressor sistêmico sem papel broncodilatador, com risco cardiovascular relevante.
 
 **Para prosseguir, é necessário:**
 - Dados detalhados do mecanismo de ação (MOA) e análise da plausibilidade mecanística frente aos agonistas beta-2 já disponíveis
 - Informações de segurança da bula (advertências e contraindicações) para triagem de segurança
 - Estudos pré-clínicos ou clínicos que avaliem a norepinefrina (ou via de administração alternativa, como a inalatória) em doença pulmonar obstrutiva
-- Avaliação da viabilidade regulatória, dado que não há registros válidos no Brasil
+- Avaliação da viabilidade regulatória
 
 ---
 

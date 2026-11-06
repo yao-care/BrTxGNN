@@ -138,7 +138,7 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 - Obter e analisar a bula/informações de segurança da ANVISA (advertências e contraindicações), uma lacuna que impede a triagem de segurança.
 - Obter dados do mecanismo de ação (MOA) para fortalecer a análise mecanística.
 - Gerar evidência clínica ou pré-clínica direta da tobramicina na ceratite por exposição, avaliando o risco de toxicidade epitelial em superfície ocular comprometida.
-- Verificar a situação regulatória atual de produtos oftálmicos com tobramicina no Brasil, já que não há registro vigente.
+- Verificar a situação regulatória atual de produtos oftálmicos com tobramicina no Brasil.
 
 **Observação sobre outras previsões:** a otite externa (pontuação 0,9981, nível L4) é a candidata mais plausível entre as demais, com relatos históricos do uso de tobramicina, mas se aproxima de um uso já existente e exige atenção à ototoxicidade; ela merece avaliação própria. As demais previsões (por exemplo, doença animal não humana, vasculite pós-infecciosa, cardiomiopatia chagásica, síndrome hemolítico-urêmica relacionada a infecção) não têm suporte clínico ou mecanístico, e a última apresenta ainda um sinal de segurança contrário.
 ## Aviso de isenção de responsabilidade

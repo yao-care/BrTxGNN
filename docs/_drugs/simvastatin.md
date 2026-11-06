@@ -95,7 +95,7 @@ Observação: apenas dois ensaios (NCT00552097 e NCT00129402) têm a sinvastatin
 
 ## Informações de Comercialização no Brasil
 
-O medicamento está comercializado, com **20 registros válidos** atualmente. Os cinco principais:
+Os cinco principais:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -148,12 +148,11 @@ Para advertências formais de uso, consulte a bula.
 
 **Justificativa:**
 - Há vários ensaios de Phase 3 concluídos em hipercolesterolemia familiar, com dois deles incluindo a sinvastatina diretamente (ENHANCE e o estudo em adolescentes), além de revisões Cochrane e diretrizes. Trata-se, na prática, de uso já consolidado e próximo da indicação original, e não de reposicionamento genuíno.
-- O mercado brasileiro não tem registros válidos, e faltam dados de bula; por isso a decisão exige cautela. Note-se também que o ENHANCE não mostrou benefício adicional da ezetimiba sobre a progressão da aterosclerose, o que não questiona o efeito da sinvastatina sobre o LDL-C.
+- Faltam dados de bula; por isso a decisão exige cautela. Note-se também que o ENHANCE não mostrou benefício adicional da ezetimiba sobre a progressão da aterosclerose, o que não questiona o efeito da sinvastatina sobre o LDL-C.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois os dados atuais de segurança vêm só de grafo de conhecimento e de interações.
 - Confirmar o mecanismo de ação em fonte oficial (DrugBank).
-- Verificar a situação regulatória: o medicamento está comercializado, com 20 registros válidos no Brasil.
 - Definir guardrails de segurança: monitoramento de miopatia e função hepática, controle de doses, revisão de interações via CYP3A4 e protocolo para uso pediátrico sob especialista.
 - Esclarecer o papel isolado da sinvastatina nos ensaios em que ela é apenas terapia de base.
 

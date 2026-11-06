@@ -97,7 +97,7 @@ Consulte a bula para advertências, contraindicações e interações medicament
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem isso
 - Obter dados do mecanismo de ação (MOA) no DrugBank
 - Realizar revisão da literatura sobre reposição estrogênica em FXPOI/portadoras da pré-mutação de FMR1
-- Verificar a viabilidade regulatória, dado que não há registro vigente no país, e a compatibilidade de via de administração
+- Verificar a viabilidade regulatória, e a compatibilidade de via de administração
 - Avaliar se o foco deve migrar para indicações com plausibilidade biológica mais direta, em vez de condições cromossômicas sem vínculo estrogênico
 ## Aviso de isenção de responsabilidade
 

@@ -104,7 +104,7 @@ Para demais informações de segurança (advertências e contraindicações), co
 **Decisão: Hold**
 
 **Justificativa:**
-- As evidências são exclusivamente pré-clínicas (L4), com modelos de SIV/SHIV em macacos que representam pesquisa translacional sobre o HIV, e não uma nova indicação em humanos. Além disso, não há registro válido do produto no Brasil no momento.
+- As evidências são exclusivamente pré-clínicas (L4), com modelos de SIV/SHIV em macacos que representam pesquisa translacional sobre o HIV, e não uma nova indicação em humanos.
 
 **Para prosseguir, é necessário:**
 - Esclarecer se o objetivo é um uso humano novo; se não for, tratar o resultado como validação de modelo para HIV, e não como reposicionamento.

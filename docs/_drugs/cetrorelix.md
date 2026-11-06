@@ -104,7 +104,6 @@ Para advertências e contraindicações, consulte a bula.
 
 **Justificativa:**
 - Não há ensaios clínicos nem literatura para nenhuma das indicações previstas. Para a hipertricose, o mecanismo é fraco e a pontuação elevada do TxGNN (deep learning) pode refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
-- O registro único no Brasil está cancelado, o que limita a viabilidade prática.
 - A puberdade precoce central é a hipótese biologicamente mais coerente e pode ser tratada como pergunta de pesquisa, mas os agonistas de GnRH já são o padrão de cuidado.
 
 **Para prosseguir, é necessário:**

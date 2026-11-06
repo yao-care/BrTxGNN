@@ -70,7 +70,7 @@ Para que uma análise de reposicionamento seja possível, é necessário primeir
 
 ## Informações de Comercialização no Brasil
 
-O fármaco possui **2 registros ativos** no Brasil, porém os detalhes individuais (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não foram recuperados neste ciclo de coleta. Os dados de registro precisam ser complementados via consulta direta à base de dados da ANVISA.
+Os dados de registro precisam ser complementados via consulta direta à base de dados da ANVISA.
 
 > ℹ️ Nota: O Benznidazol é fabricado no Brasil pelo **LAFEPE** (Laboratório Farmacêutico do Estado de Pernambuco), sendo um medicamento estratégico para o Programa Nacional de Controle da Doença de Chagas do Ministério da Saúde.
 

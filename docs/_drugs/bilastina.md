@@ -66,7 +66,7 @@ Sua eficácia em rinite alérgica e urticária foi estabelecida em ensaios clín
 
 ## Informações de Comercialização no Brasil
 
-Os detalhes individuais dos registros (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis no Evidence Pack atual. Está confirmado que Bilastina possui **19 registros** na base regulatória brasileira com situação **comercializado**, porém a coleta dos campos individuais ainda não foi realizada.
+Está confirmado que Bilastina possui **19 registros** na base regulatória brasileira com situação **comercializado**, porém a coleta dos campos individuais ainda não foi realizada.
 
 ---
 

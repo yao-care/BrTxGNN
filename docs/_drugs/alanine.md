@@ -75,7 +75,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 16 registros estão válidos. São listados os 5 principais:
+São listados os 5 principais:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -121,13 +121,13 @@ Para advertências, contraindicações e interações medicamentosas formais, co
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos e sem literatura que avalie a alanina na gastroparesia. Além disso, o medicamento está comercializado no Brasil, com 16 registros válidos de 16.
+- A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos e sem literatura que avalie a alanina na gastroparesia.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da alanina e análise de uma ligação mecanística plausível com a fisiopatologia da gastroparesia
 - Estudos pré-clínicos ou clínicos que avaliem diretamente a alanina na gastroparesia
 - Obtenção e análise das bulas na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança
-- Avaliação da compatibilidade de vias de administração e da viabilidade regulatória, dado que não há registro vigente no Brasil
+- Avaliação da compatibilidade de vias de administração e da viabilidade regulatória
 - Análise cuidadosa das contraindicações sugeridas pelo grafo de conhecimento, especialmente doença renal e cardiovascular, que são comuns na população-alvo
 ## Aviso de isenção de responsabilidade
 

@@ -95,7 +95,7 @@ As 18 publicações recuperadas são, em sua maioria, relatos de caso e revisõe
 
 ## Informações de Comercialização no Brasil
 
-Todos os 18 registros estão válidos (18 de 18). Seguem os 5 primeiros da lista.
+Seguem os 5 primeiros da lista.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -159,12 +159,12 @@ Além da neoplasia do nervo trigêmeo, o modelo prevê outras indicações. Quas
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos, e a literatura mostra apenas alívio sintomático da dor neurálgica em pacientes com tumores, sem evidência de efeito antineoplásico. Além disso, os 18 registros brasileiros estão válidos (18 de 18) e há dados de segurança relevantes, como risco hematológico, hepático e cardíaco.
+- Não há ensaios clínicos, e a literatura mostra apenas alívio sintomático da dor neurálgica em pacientes com tumores, sem evidência de efeito antineoplásico.
 
 **Para prosseguir, é necessário:**
 - Definir se o objetivo é tratar a dor associada ao tumor (manejo sintomático, já coberto pelo uso em neuralgia do trigêmeo) ou ter efeito antitumoral, caso em que seriam necessários estudos pré-clínicos de mecanismo
 - Obter dados do mecanismo de ação detalhado
-- Obter a bula atualizada junto à ANVISA (advertências e contraindicações), já que não há registro válido no mercado brasileiro
+- Obter a bula atualizada junto à ANVISA (advertências e contraindicações)
 - Esclarecer a situação regulatória atual (motivo dos cancelamentos e eventual novo registro)
 - Se houver interesse nas epilepsias reflexas, avaliar a indicação "epilepsia do susto" como questão de pesquisa, por ter uma série clínica de apoio
 ## Aviso de isenção de responsabilidade

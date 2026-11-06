@@ -77,13 +77,13 @@ Nenhum dado de segurança específico está disponível nos dados compilados (se
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se exclusivamente no modelo (nível L5), sem ensaios clínicos, sem literatura e sem ligação mecanística plausível. O único registro no Brasil está cancelado, e faltam dados de segurança.
+A previsão baseia-se exclusivamente no modelo (nível L5), sem ensaios clínicos, sem literatura e sem ligação mecanística plausível. Faltam dados de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), uma lacuna bloqueante para a triagem de segurança
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Realizar estudos pré-clínicos ou revisão da literatura que sustentem uma hipótese mecanística para distrofia retiniana
-- Avaliar a compatibilidade de via de administração e a viabilidade regulatória, dado que o registro está cancelado
+- Avaliar a compatibilidade de via de administração e a viabilidade regulatória
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

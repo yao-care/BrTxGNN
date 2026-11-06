@@ -134,14 +134,14 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 
 **Justificativa:**
 - A previsão tem pontuação alta, mas é apenas um resultado de rede (nível L5), sem ensaios ou publicações e sem mecanismo plausível, já que a síndrome de Ambras não depende de DHT.
-- Os 20 registros brasileiros estão cancelados, e o risco fetal agrava a preocupação.
+- O risco fetal agrava a preocupação.
 
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (MOA) no DrugBank.
 - Baixar e analisar as bulas na ANVISA (advertências e contraindicações) para a triagem de segurança.
 - Buscar evidências pré-clínicas ou relatos de caso que sustentem um papel da via androgênica na síndrome de Ambras.
 - Avaliar separadamente indicações vizinhas mais plausíveis, dependentes de andrógenos, como o hirsutismo.
-- Confirmar a situação regulatória atual no Brasil, já que o medicamento está comercializado com 20 registros válidos.
+- Confirmar a situação regulatória atual no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

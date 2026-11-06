@@ -85,8 +85,6 @@ Foram selecionadas as 10 publicações mais relevantes (de 20 recuperadas).
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 20 registros válidos; os cinco principais:
-
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431269 | PREDNISOLONA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -136,7 +134,6 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 Há um ensaio randomizado controlado por placebo, uma meta-análise em rede e revisões sistemáticas que apoiam o uso de corticoide sistêmico em pulso na alopecia areata, com plausibilidade mecanística clara (nível L2). A recaída após a suspensão, a toxicidade cumulativa e a preferência atual pelos inibidores de JAK nos casos graves exigem cautela.
 
 **Para prosseguir, é necessário:**
-- Confirmar a situação regulatória: o medicamento está comercializado no Brasil, com 20 registros válidos.
 - Obter as advertências e contraindicações da bula na ANVISA, hoje ausentes.
 - Complementar os dados do mecanismo de ação.
 - Definir dose, esquema de pulso e duração, com plano de monitoramento de efeitos adversos (glicemia, pressão arterial, infecções, crescimento em crianças).

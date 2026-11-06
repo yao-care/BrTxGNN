@@ -86,7 +86,7 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 **Decisão: Hold**
 
 **Justificativa:**
-Não há ensaios clínicos nem literatura, e o mecanismo do galcanezumabe (bloqueio do CGRP) não tem relação plausível com a deficiência de cofator 2 da heparina. Além disso, o único registro no Brasil está cancelado.
+Não há ensaios clínicos nem literatura, e o mecanismo do galcanezumabe (bloqueio do CGRP) não tem relação plausível com a deficiência de cofator 2 da heparina.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois essa lacuna impede a triagem de segurança

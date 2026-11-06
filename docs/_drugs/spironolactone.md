@@ -72,7 +72,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros estão válidos; o medicamento é comercializado no Brasil, com 8 licenças válidas de 8.
+O medicamento é comercializado no Brasil, com 8 licenças válidas de 8.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

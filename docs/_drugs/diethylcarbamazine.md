@@ -91,13 +91,13 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem estudos diretos na nova indicação. A literatura trata apenas de filariose, e o linfedema sindrômico é genético e não infeccioso, o que torna o mecanismo implausível. Além disso, o único registro no Brasil está cancelado.
+- Não há ensaios clínicos nem estudos diretos na nova indicação. A literatura trata apenas de filariose, e o linfedema sindrômico é genético e não infeccioso, o que torna o mecanismo implausível.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (consulta ao DrugBank)
 - Bula da ANVISA com advertências e contraindicações, para a triagem de segurança
 - Estudos pré-clínicos ou de mecanismo que justifiquem o uso em linfedema não infeccioso
-- Avaliação da situação regulatória, já que não há registro válido no Brasil
+- Avaliação da situação regulatória
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -40,7 +40,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Atazanavir Sulfato é um inibidor de protease do HIV-1, originalmente utilizado no tratamento da infecção por HIV em adultos e populações pediátricas.
 O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco com os dados disponíveis atualmente.
-Foram identificadas **lacunas críticas de dados** — incluindo ausência de registros regulatórios brasileiros e de mecanismo de ação documentado — que impedem a realização de uma avaliação completa neste momento.
 
 ---
 
@@ -69,7 +68,7 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O pipeline TxGNN não produziu candidatos de reposicionamento para Atazanavir Sulfato na execução atual, e o fármaco não possui registros ativos na base de dados regulatória consultada — impossibilitando qualquer análise de indicação original, mecanismo ou perfil de segurança a partir das fontes primárias.
+O pipeline TxGNN não produziu candidatos de reposicionamento para Atazanavir Sulfato na execução atual.
 
 **Para prosseguir, é necessário:**
 - Consultar a ANVISA diretamente para verificar situação registratória (o fármaco é distribuído pelo Ministério da Saúde para o Programa Nacional de DST/AIDS e pode ter vias de registro distintas)

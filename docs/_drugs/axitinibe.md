@@ -60,14 +60,14 @@ Para avançar na avaliação, é necessário complementar os dados faltantes ide
 
 ## Informações de Comercialização no Brasil
 
-Foram identificados **2 registros ativos** de Axitinibe na ANVISA. No entanto, os detalhes individuais de cada registro (número oficial, nome comercial, forma farmacêutica e texto da indicação aprovada) não constam nos dados recebidos neste Evidence Pack.
+No entanto, os detalhes individuais de cada registro (número oficial, nome comercial, forma farmacêutica e texto da indicação aprovada) não constam nos dados recebidos neste Evidence Pack.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 121100452 | INLYTA | PFIZER BRASIL LTDA | Ativo |
 | 102160240 | INLYTA | LABORATÓRIOS PFIZER LTDA | Cancelado |
 
-> Os registros existem conforme confirmado pelo query TFDA (resultado: 2 licenças), mas os campos de detalhamento não foram retornados. Recomenda-se consulta direta à base ANVISA para recuperar esses dados.
+> Recomenda-se consulta direta à base ANVISA para recuperar esses dados.
 
 ---
 
@@ -85,7 +85,7 @@ Consulte a bula para informações de segurança.
 O Evidence Pack apresenta lacunas de dados em nível **Blocking** e **High** que impedem a execução completa do pipeline de avaliação: estão ausentes as advertências e contraindicações da bula ANVISA, o mecanismo de ação (MOA) e, sobretudo, qualquer previsão de reposicionamento gerada pelo TxGNN — tornando inviável a análise de novas indicações neste momento.
 
 **Para prosseguir, é necessário:**
-- **[DG001 — Blocking]** Baixar e analisar as bulas ANVISA dos 2 registros, extraindo indicações aprovadas, advertências principais e contraindicações (fonte: TFDA/ANVISA, método: download e parse do PDF da bula)
+- **[DG001 — Blocking]** Baixar e analisar as bulas ANVISA dos 2 registros, extraindo indicações aprovadas, advertências principais e contraindicações
 - **[DG002 — High]** Consultar a DrugBank API para recuperar o mecanismo de ação (MOA) do Axitinibe e categorias farmacológicas — nota: o query DrugBank retornou 1 resultado, mas os dados não foram incluídos no Evidence Pack atual
 - Complementar os campos vazios dos 2 registros ANVISA (número de registro, nome comercial, forma farmacêutica, texto completo da indicação)
 - Reexecutar o pipeline TxGNN com os dados de MOA e indicação preenchidos para gerar previsões de reposicionamento válidas

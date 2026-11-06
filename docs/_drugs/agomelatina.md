@@ -40,7 +40,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo
 
-Agomelatina é um fármaco psicotrópico comercializado no Brasil com **7 registros ativos** na ANVISA.
 No ciclo de análise atual, o pipeline TxGNN **não gerou predições de reposicionamento** para este fármaco — possivelmente devido a falhas no mapeamento do DrugBank ID e na recuperação do mecanismo de ação.
 Sem predições disponíveis, não é possível realizar a avaliação de reposicionamento neste ciclo.
 
@@ -87,7 +86,6 @@ O Evidence Pack não contém predições TxGNN nem dados regulatórios detalhado
 - **[High]** Obter o DrugBank ID e o mecanismo de ação (MOA) via DrugBank API — o query retornou 1 resultado, mas o ID não foi mapeado para o Evidence Pack
 - Recuperar os detalhes dos 7 registros ANVISA: nome comercial, forma farmacêutica e indicação aprovada
 - Re-executar o pipeline de predição TxGNN após correção do mapeamento DrugBank para obter candidatos de reposicionamento
-- Verificar a fonte dos dados regulatórios: o `query_log` indica fonte `tfda` (Taiwan FDA) — confirmar se os registros correspondem efetivamente à base ANVISA brasileira
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

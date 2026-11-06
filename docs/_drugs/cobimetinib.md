@@ -90,13 +90,13 @@ As demais previsões entre as 10 primeiras são, em sua maioria, variantes ou do
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão tem pontuação alta, mas é puramente computacional (L5), sem ensaios clínicos nem literatura. Somando-se a isso a limitada penetração no sistema nervoso central, o perfil de toxicidade desfavorável em doenças do neurônio motor e o registro cancelado no Brasil, não há base para avançar.
+A previsão tem pontuação alta, mas é puramente computacional (L5), sem ensaios clínicos nem literatura. Somando-se a isso a limitada penetração no sistema nervoso central, o perfil de toxicidade desfavorável em doenças do neurônio motor, não há base para avançar.
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação a partir do DrugBank e análise do vínculo mecanístico com a ELA
 - Advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança)
 - Estudos pré-clínicos em modelos de ELA, incluindo exposição no SNC
-- Avaliação da viabilidade regulatória e comercial, dado que o único registro está cancelado
+- Avaliação da viabilidade regulatória e comercial
 - Plano de monitoramento de segurança (oftalmológico, CPK, cardíaco) caso se avance
 ## Aviso de isenção de responsabilidade
 

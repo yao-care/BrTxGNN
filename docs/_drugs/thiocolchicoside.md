@@ -99,7 +99,7 @@ A previsão para insônia baseia-se apenas no modelo (L5), sem ensaios clínicos
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência que impede a triagem de segurança
 - Esclarecer o mecanismo de ação via DrugBank e avaliar a coerência com a ação hipnótica
 - Realizar revisão sistemática da literatura e de registros de ensaios clínicos para insônia
-- Avaliar o risco pró-convulsivante e a viabilidade regulatória, dado que não há registro válido no país
+- Avaliar o risco pró-convulsivante e a viabilidade regulatória
 - Verificar a compatibilidade de vias de administração e a similaridade com a indicação original
 ## Aviso de isenção de responsabilidade
 

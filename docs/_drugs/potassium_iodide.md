@@ -100,7 +100,7 @@ Todos os 11 registros encontrados estão válidos. Os 5 principais:
 **Decisão: Hold**
 
 **Justificativa:**
-- Apesar da pontuação TxGNN muito alta (0,9995), as evidências se limitam a quatro relatos de caso, três deles veterinários, sem ensaios clínicos e sem dados controlados em humanos. Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados) e as informações de segurança da bula estão ausentes, o que impede avançar para a triagem de segurança.
+- Apesar da pontuação TxGNN muito alta (0,9995), as evidências se limitam a quatro relatos de caso, três deles veterinários, sem ensaios clínicos e sem dados controlados em humanos.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que atualmente bloqueia a avaliação de segurança.

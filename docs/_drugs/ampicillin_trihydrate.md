@@ -39,7 +39,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 ## Resumo
 
 Ampicillin Trihydrate é a forma tri-hidratada da ampicilina, um antibiótico de amplo espectro do grupo das aminopenicilinas, historicamente utilizado no tratamento de infecções bacterianas diversas.
-Este Evidence Pack **não contém previsões de reposicionamento geradas pelo TxGNN**, pois o fármaco não possui registros ativos na ANVISA e apresenta lacunas críticas de dados que bloqueiam a avaliação.
+Este Evidence Pack **não contém previsões de reposicionamento geradas pelo TxGNN**.
 Sem indicações previstas, dados regulatórios ou informações de segurança disponíveis, a análise de reposicionamento **não pode ser concluída neste momento**.
 
 ---

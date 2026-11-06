@@ -40,7 +40,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Betahistina Dicloridrato é um análogo da histamina amplamente utilizado no tratamento da Doença de Ménière e síndromes vertiginosas periféricas, com mecanismo de ação relacionado aos receptores histaminérgicos H1 e H3.
 O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual de análise (lista `predicted_indications` vazia).
-O fármaco também **não possui registros** no mercado regulatório consultado, o que limita significativamente a avaliação.
 
 ---
 
@@ -77,11 +76,11 @@ Consulte a bula para informações de segurança.
 **Decisão: Hold**
 
 **Justificativa:**
-O modelo TxGNN não gerou nenhuma previsão de reposicionamento para Betahistina Dicloridrato, os dados regulatórios locais estão ausentes (0 registros), e as lacunas de dados críticas (MOA e advertências) ainda precisam ser resolvidas antes de qualquer avaliação de segurança ou eficácia.
+O modelo TxGNN não gerou nenhuma previsão de reposicionamento para Betahistina Dicloridrato, os dados regulatórios locais estão ausentes, e as lacunas de dados críticas (MOA e advertências) ainda precisam ser resolvidas antes de qualquer avaliação de segurança ou eficácia.
 
 **Para prosseguir, é necessário:**
 - **[DG002 — Alta prioridade]** Resolver o mapeamento `drugbank_id`: verificar se `DB00772` (Betahistine) corresponde a este sal e atualizar o registro para reprocessar as previsões TxGNN
-- **[DG001 — Bloqueante]** Obter a bula oficial via TFDA ou equivalente regulatório para extrair advertências e contraindicações
+- **[DG001 — Bloqueante]** Obter a bula oficial para extrair advertências e contraindicações
 - Confirmar se o fármaco está registrado sob nome alternativo (ex.: "Betahistina", "Betaserc", "Merislon") no mercado consultado
 - Após resolução do DrugBank ID, reexecutar o pipeline TxGNN para gerar `predicted_indications`
 - Avaliar a necessidade de inclusão de fontes regulatórias adicionais para mercados onde o fármaco está efetivamente comercializado (ex.: UE, Japão)

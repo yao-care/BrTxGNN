@@ -90,7 +90,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é apenas computacional (L5), sem ensaios clínicos nem literatura, sem vínculo mecanístico plausível e com perfil de toxicidade desfavorável para uso sistêmico em condições não oncológicas. Além disso, o único registro brasileiro está cancelado.
+- A previsão é apenas computacional (L5), sem ensaios clínicos nem literatura, sem vínculo mecanístico plausível e com perfil de toxicidade desfavorável para uso sistêmico em condições não oncológicas.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada

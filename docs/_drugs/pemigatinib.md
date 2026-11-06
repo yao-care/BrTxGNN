@@ -116,7 +116,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para neoplasia endócrina múltipla baseia-se apenas no modelo (nível L5), sem ensaios clínicos nem literatura de apoio e sem vínculo mecanístico direto estabelecido. Além disso, o único registro no Brasil está cancelado.
+A previsão para neoplasia endócrina múltipla baseia-se apenas no modelo (nível L5), sem ensaios clínicos nem literatura de apoio e sem vínculo mecanístico direto estabelecido.
 
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (MOA) em fonte confiável, como o DrugBank

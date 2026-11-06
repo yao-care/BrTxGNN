@@ -97,7 +97,7 @@ Para demais informações de segurança (advertências, contraindicações e int
 Há RCTs e estudos comparativos que utilizam polidocanol em varizes esofágicas sangrantes, com mecanismo direto e plausível.
 
 **Para prosseguir, é necessário:**
-- Verificar a situação regulatória do polidocanol no Brasil (não há registros ativos) e a via de acesso para uso endoscópico
+- Verificar a situação regulatória do polidocanol no Brasil e a via de acesso para uso endoscópico
 - Obter advertências e contraindicações da bula e dados do mecanismo de ação
 - Comparar com ligadura elástica e terapias padrão atuais, em literatura mais recente
 - Plano de monitoramento de segurança (estenose, disfagia, ressangramento, função hepática de cirróticos)

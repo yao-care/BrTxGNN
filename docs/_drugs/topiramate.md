@@ -41,7 +41,6 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 Topiramato é um medicamento anticonvulsivante, registrado no Brasil para o tratamento de crises epilépticas.
 O modelo TxGNN prevê que pode ser eficaz para **neoplasma do nervo trigêmeo (trigeminal nerve neoplasm)**, com pontuação de 0,9970. No entanto, **não há ensaios clínicos nem publicações** que apoiem essa direção; a previsão se baseia apenas no modelo.
 
-
 ---
 
 ## Visão Geral Rápida
@@ -77,8 +76,6 @@ Atualmente não há literatura relacionada.
 ---
 
 ## Informações de Comercialização no Brasil
-
-O medicamento está comercializado no país, com 20 registros válidos.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -135,12 +132,12 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para neoplasma do nervo trigêmeo é apenas do modelo (L5), sem ensaios, sem literatura e sem plausibilidade mecanística. Além disso, o medicamento não tem registro vigente no Brasil.
+- A previsão para neoplasma do nervo trigêmeo é apenas do modelo (L5), sem ensaios, sem literatura e sem plausibilidade mecanística.
 
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação e bulas da ANVISA (advertências e contraindicações).
 - Evidência pré-clínica ou clínica de atividade antitumoral, se houver interesse nesta indicação.
-- Esclarecer a situação regulatória (o medicamento está comercializado, com 20 registros válidos).
+- Esclarecer a situação regulatória.
 
 ### Outras previsões do modelo (para priorização)
 

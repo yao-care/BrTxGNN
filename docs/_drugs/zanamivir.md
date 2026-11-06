@@ -89,14 +89,13 @@ Para as demais informações de segurança, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do TxGNN é alta, mas não há ensaios clínicos, literatura ou mecanismo plausível que sustentem o uso do zanamivir na pielonefrite. O fármaco também não está registrado no Brasil.
+- A pontuação do TxGNN é alta, mas não há ensaios clínicos, literatura ou mecanismo plausível que sustentem o uso do zanamivir na pielonefrite.
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) para avaliar o vínculo mecanístico.
 - Bula da ANVISA com advertências e contraindicações, atualmente ausente e que impede a triagem de segurança.
 - Evidência pré-clínica ou clínica de atividade em pielonefrite, ou a reavaliação de outras previsões com maior plausibilidade biológica.
 - Análise de compatibilidade de via de administração. O zanamivir é usado principalmente por via inalatória, o que pode não ser adequado para infecção renal.
-- Avaliação regulatória sobre a ausência de registro no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

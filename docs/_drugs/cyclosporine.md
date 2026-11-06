@@ -130,7 +130,7 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 - Dados do mecanismo de ação (MOA) por meio do DrugBank.
 - Alertas e contraindicações da bula da ANVISA, hoje indisponíveis, o que impede a triagem de segurança.
 - Avaliação do risco de infecção em pacientes com DGC.
-- Esclarecimento da situação regulatória no Brasil, já que não há registro válido.
+- Esclarecimento da situação regulatória no Brasil.
 
 ---
 

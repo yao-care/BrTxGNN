@@ -87,7 +87,7 @@ Outras indicações previstas, todas também em nível L5 e com recomendação H
 **Decisão: Hold**
 
 **Justificativa:**
-Não há ensaios clínicos nem literatura que sustentem qualquer das indicações previstas (nível L5), a hipótese mecanística é especulativa e o único registro brasileiro está cancelado.
+Não há ensaios clínicos nem literatura que sustentem qualquer das indicações previstas (nível L5), a hipótese mecanística é especulativa.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula (advertências e contraindicações), pois não há dados de segurança de rótulo

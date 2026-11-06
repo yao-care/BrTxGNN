@@ -132,13 +132,13 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal tem apenas suporte do modelo (L5), sem ensaios nem literatura. A relação plausível (FXPOI) trataria apenas o componente ovariano. Além disso, não há registro válido no Brasil, o que dificulta qualquer avanço regulatório imediato.
+- A previsão principal tem apenas suporte do modelo (L5), sem ensaios nem literatura. A relação plausível (FXPOI) trataria apenas o componente ovariano.
 
 **Para prosseguir, é necessário:**
 - Revisão da literatura específica sobre reposição estrogênica em FXPOI/portadoras da pré-mutação FMR1
 - Dados de mecanismo de ação (MOA), atualmente ausentes
 - Bula e informações de advertências/contraindicações da ANVISA, ainda não obtidas
-- Avaliação da viabilidade regulatória, pois não há registros válidos e as formas farmacêuticas não constam nos dados
+- Avaliação da viabilidade regulatória
 - Se houver interesse em indicações com algum apoio (anovulação), aguardar resultados do NCT02186782 e confirmar a formulação de estradiol utilizada
 ## Aviso de isenção de responsabilidade
 

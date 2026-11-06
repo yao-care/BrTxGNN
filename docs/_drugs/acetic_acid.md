@@ -122,7 +122,7 @@ Consulte a bula para as demais informações de segurança.
 - Obter o mecanismo de ação na DrugBank para analisar o vínculo mecanístico.
 - Avaliar a compatibilidade de via de administração (hoje pendente), especialmente a via tópica para tinea corporis, já que o produto original é um concentrado para diálise e não de uso direto no paciente.
 - Se for priorizada a tinea corporis: revisar a literatura de forma sistemática e definir concentração, formulação e perfil de segurança cutânea (risco de queimaduras) antes de qualquer estudo clínico.
-- Esclarecer a situação regulatória, dado que não há registro válido no Brasil.
+- Esclarecer a situação regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

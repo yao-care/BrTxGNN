@@ -81,7 +81,7 @@ Atualmente não há literatura relacionada.
 
 ## Informações de Comercialização no Brasil
 
-Foram encontrados 20 registros válidos. Principais registros:
+Principais registros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -137,13 +137,13 @@ Consulte a bula para as advertências e contraindicações oficiais, pois esses 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão para hiperamilasemia tem pontuação alta no modelo, mas não conta com nenhum ensaio clínico, nenhuma publicação nem mecanismo plausível (nível L5). O medicamento está comercializado no Brasil, com 20 registros válidos.
+A previsão para hiperamilasemia tem pontuação alta no modelo, mas não conta com nenhum ensaio clínico, nenhuma publicação nem mecanismo plausível (nível L5).
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da azitromicina e justificativa biológica para a indicação prevista
 - Bula da ANVISA com advertências e contraindicações oficiais
 - Definição de que a hiperamilasemia, sendo um achado laboratorial, constitui um alvo terapêutico clinicamente relevante
-- Confirmação da situação regulatória atual no Brasil (medicamento comercializado, com 20 registros válidos)
+- Confirmação da situação regulatória atual no Brasil
 
 **Observação sobre outras indicações previstas:** entre as demais previsões, a de **doença hematológica congênita** (ligada a complicações da doença falciforme, como a síndrome torácica aguda) é a que reúne mais respaldo (nível L3), mas os dois únicos ensaios identificados foram retirados sem inclusão de participantes. A previsão de **gamopatia monoclonal** (L4) conta com apenas um estudo pré-clínico in vitro em mieloma. Ambas poderiam ser consideradas questões de pesquisa em avaliações futuras, mas não alteram a decisão para a indicação principal deste relatório.
 ## Aviso de isenção de responsabilidade

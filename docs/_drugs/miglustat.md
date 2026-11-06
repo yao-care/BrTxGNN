@@ -125,7 +125,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-Há racional mecanístico coerente e ensaios clínicos reais em gangliosidose GM2, mas os estudos são pequenos, vários foram encerrados precocemente e os resultados de eficácia são inconsistentes. Os dados de segurança da bula brasileira estão ausentes e o único registro no Brasil está cancelado, de modo que só se justifica avançar como questão de pesquisa, com salvaguardas.
+Há racional mecanístico coerente e ensaios clínicos reais em gangliosidose GM2, mas os estudos são pequenos, vários foram encerrados precocemente e os resultados de eficácia são inconsistentes. Os dados de segurança da bula brasileira estão ausentes.
 
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.

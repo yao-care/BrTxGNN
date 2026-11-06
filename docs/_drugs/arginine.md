@@ -138,14 +138,14 @@ Consulte a bula para advertências e contraindicações oficiais, pois estas nã
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se apoia apenas em estudos pré-clínicos em roedores e em uma pontuação computacional do modelo (nível L4), sem nenhum ensaio clínico. Além disso, embora o medicamento seja comercializado no Brasil (18 registros válidos de 18), o perfil de segurança oficial não está disponível, o que impede a triagem de segurança.
+A previsão se apoia apenas em estudos pré-clínicos em roedores e em uma pontuação computacional do modelo (nível L4), sem nenhum ensaio clínico. Além disso, embora o medicamento seja comercializado no Brasil, o perfil de segurança oficial não está disponível, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Verificar se a suplementação de arginina reverte a gastroparesia em modelos animais e, em seguida, avaliar estudos exploratórios em humanos
 - Avaliar o impacto das contraindicações sugeridas pelo grafo de conhecimento (renal, cardiovascular, metabólicas) em pacientes com gastroparesia, como os diabéticos
-- Avaliar a viabilidade regulatória e comercial, dado que não há registro válido no Brasil
+- Avaliar a viabilidade regulatória e comercial
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

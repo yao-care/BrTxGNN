@@ -113,7 +113,7 @@ Consulte a bula para as advertências e interações medicamentosas oficiais; n�
 - Complementar os dados de mecanismo de ação via DrugBank.
 - Realizar busca dirigida por estudos de eficácia da feniramina em urticária (ensaios clínicos e revisões sistemáticas).
 - Avaliar a compatibilidade de via de administração, já que os produtos registrados são oftálmicos e a urticária costuma exigir uso sistêmico.
-- Verificar se há interesse regulatório e comercial, dado que não há registro válido no Brasil.
+- Verificar se há interesse regulatório e comercial.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

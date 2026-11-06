@@ -94,7 +94,7 @@ Foram compiladas 19 publicações, quase todas revisões narrativas ou estudos i
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros válidos no Brasil. Principais exemplos:
+Principais exemplos:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -147,13 +147,13 @@ Consulte a bula para advertências e contraindicações oficiais, pois esses dad
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão se apoia apenas no modelo e em literatura indireta (nível L4), sem ensaios clínicos. Não há mecanismo plausível de benefício direto, já que o ácido fólico não substitui a biotina. O medicamento é comercializado no Brasil, com 20 registros válidos.
+- A previsão se apoia apenas no modelo e em literatura indireta (nível L4), sem ensaios clínicos. Não há mecanismo plausível de benefício direto, já que o ácido fólico não substitui a biotina.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
 - Complementar os dados de mecanismo de ação no DrugBank.
 - Realizar revisão sistemática específica sobre folato e deficiência de biotinidase ou de holocarboxilase sintetase, para confirmar se existe algum benefício, ainda que indireto.
-- Avaliar a situação regulatória atual, pois não há registro válido no Brasil.
+- Avaliar a situação regulatória atual.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

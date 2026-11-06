@@ -63,7 +63,7 @@ A pontuação alta (0,9906) é apenas uma previsão computacional. Não há ensa
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados para este relatório, o penciclovir consta como **comercializado** no Brasil, com 4 registros no total: 1 válido e 3 cancelados. Os detalhes individuais dos registros (número, nome comercial e forma farmacêutica) não estão disponíveis nos dados compilados.
+Segundo os dados compilados para este relatório, o penciclovir consta como **comercializado** no Brasil, com 4 registros no total: 1 válido e 3 cancelados.
 
 ## Considerações de Segurança
 

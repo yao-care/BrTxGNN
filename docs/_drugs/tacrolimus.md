@@ -97,13 +97,13 @@ Consulte a bula para as advertências e contraindicações oficiais.
 **Decisão: Proceed with Guardrails**
 
 **Justificativa:**
-- Há um ensaio de Fase 3 concluído (n=120), um estudo de Fase 4 concluído (n=104) e um estudo clínico publicado de manutenção, todos diretamente voltados à dermatite seborreica facial com tacrolimo 0,1% pomada. Contudo, os registros do tacrolimo no Brasil estão cancelados (2 de 2) e as preocupações de classe (malignidade, linfoma) exigem cautela.
+- Há um ensaio de Fase 3 concluído (n=120), um estudo de Fase 4 concluído (n=104) e um estudo clínico publicado de manutenção, todos diretamente voltados à dermatite seborreica facial com tacrolimo 0,1% pomada.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), atualmente ausente.
 - Complementar os dados de mecanismo de ação na base do fármaco.
 - Confirmar resultados publicados dos ensaios NCT02004860 e NCT01591070 (eficácia e taxa de recaída).
-- Avaliar a via regulatória no Brasil, já que não há registro vigente, e definir plano de monitoramento de segurança de longo prazo (risco de malignidade, infecções cutâneas) para uso de manutenção.
+- Avaliar a via regulatória no Brasil, e definir plano de monitoramento de segurança de longo prazo (risco de malignidade, infecções cutâneas) para uso de manutenção.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -110,7 +110,7 @@ Consulte a bula para advertências e contraindicações oficiais; o risco hemorr
 **Decisão: Hold**
 
 **Justificativa:**
-- Para hipertensão pulmonar, a previsão é apenas computacional (L5), sem ensaios e com literatura não relacionada. O prasugrel não tem registro no Brasil, e a bula da ANVISA não foi obtida. A enxaqueca associada ao FOP é a direção mais promissora (L3), mas o apoio vem de estudos de classe, retrospectivos e pequenos, e pode ser tratada como pergunta de pesquisa.
+- Para hipertensão pulmonar, a previsão é apenas computacional (L5), sem ensaios e com literatura não relacionada. A bula da ANVISA não foi obtida. A enxaqueca associada ao FOP é a direção mais promissora (L3), mas o apoio vem de estudos de classe, retrospectivos e pequenos, e pode ser tratada como pergunta de pesquisa.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações) e confirmar a situação regulatória do prasugrel no Brasil.

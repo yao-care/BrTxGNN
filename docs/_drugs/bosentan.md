@@ -108,13 +108,12 @@ As advertências e contraindicações oficiais da bula brasileira não estavam d
 
 **Justificativa:**
 - A previsão tem pontuação alta no TxGNN (0,9980), mas não há ensaios clínicos nem dados de eficácia em humanos com artrite reumatoide; o suporte se limita a modelos animais (nível L4).
-- Dos 5 registros brasileiros, todos os 5 estão válidos (mercado: comercializado) e o perfil de segurança exige atenção (especialmente toxicidade hepática).
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação consolidados (via DrugBank)
 - Advertências e contraindicações da bula na ANVISA
 - Estudos clínicos iniciais (por exemplo, fase 2) em artrite reumatoide
-- Avaliação da viabilidade regulatória, dado que não há registro vigente no Brasil
+- Avaliação da viabilidade regulatória
 - Plano de monitoramento hepático e hematológico para eventual estudo
 
 ## Aviso de isenção de responsabilidade

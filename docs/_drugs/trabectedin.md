@@ -111,13 +111,13 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- O único ensaio clínico registrado não avalia eficácia em câncer de mama, e as evidências de fase 2 estão na literatura, sem confirmação de fase 3. O registro brasileiro está cancelado e as advertências e contraindicações da bula não estão disponíveis, o que impede a triagem de segurança.
+- O único ensaio clínico registrado não avalia eficácia em câncer de mama, e as evidências de fase 2 estão na literatura, sem confirmação de fase 3. As advertências e contraindicações da bula não estão disponíveis, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações)
 - Obter dados oficiais do mecanismo de ação (por exemplo, no DrugBank)
 - Revisar os resultados completos dos estudos de fase 2 em câncer de mama (PMIDs 25239225, 24692579, 27266804) e definir subpopulações-alvo (BRCA1/2, triplo-negativo)
-- Esclarecer a situação regulatória e a disponibilidade do produto no Brasil, já que o único registro está cancelado
+- Esclarecer a situação regulatória e a disponibilidade do produto no Brasil
 - Verificar a forma farmacêutica e a via de administração
 ## Aviso de isenção de responsabilidade
 

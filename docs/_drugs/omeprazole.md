@@ -107,7 +107,7 @@ Há um sinal de segurança (carcinogênese em modelos animais). A pontuação al
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank).
-- Confirmar a situação regulatória do omeprazol no Brasil, já que os dados compilados indicam 0 registros.
+- Confirmar a situação regulatória do omeprazol no Brasil.
 - Realizar ensaios clínicos randomizados que avaliem desfechos de refluxo duodenogástrico (sintomas, exposição biliar, histologia da mucosa).
 - Avaliar o risco de carcinogênese gástrica com o bloqueio ácido prolongado nesse contexto.
 

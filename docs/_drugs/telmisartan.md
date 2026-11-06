@@ -113,7 +113,7 @@ Não há dados de advertências e contraindicações da bula nos dados compilado
 - Complementar os dados de mecanismo de ação (MOA), por exemplo, consultando o DrugBank.
 - Obter o resultado principal do TRIDENT e avaliar a contribuição específica da telmisartana na combinação.
 - Buscar evidência clínica humana direta (ensaios de fase 2/3) em AVC isquêmico/oclusão arterial cerebral.
-- Verificar a situação regulatória no Brasil, já que não há registro vigente nos dados compilados.
+- Verificar a situação regulatória no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

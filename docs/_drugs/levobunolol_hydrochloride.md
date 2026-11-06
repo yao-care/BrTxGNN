@@ -38,7 +38,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo
 
-Levobunolol cloridrato é um beta-bloqueador não seletivo de uso oftálmico, classicamente utilizado no tratamento do glaucoma e da hipertensão ocular. O Evidence Pack consultado **não contém previsões do modelo TxGNN** para novas indicações, e o fármaco não possui registro vigente no Brasil. Sem previsões e sem dados regulatórios, a avaliação de reposicionamento não pode ser concluída nesta etapa.
+Levobunolol cloridrato é um beta-bloqueador não seletivo de uso oftálmico, classicamente utilizado no tratamento do glaucoma e da hipertensão ocular. O Evidence Pack consultado **não contém previsões do modelo TxGNN** para novas indicações. Sem previsões e sem dados regulatórios, a avaliação de reposicionamento não pode ser concluída nesta etapa.
 
 ---
 

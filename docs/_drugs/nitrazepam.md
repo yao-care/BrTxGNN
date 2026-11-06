@@ -57,7 +57,6 @@ O modelo TxGNN prevê que pode ser eficaz para a **síndrome de Wernicke-Korsako
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação na base consultada. Segundo o conhecimento da classe, o nitrazepam é um benzodiazepínico que potencializa a sinalização do receptor GABA-A, produzindo efeito sedativo-hipnótico.
 
-
 A síndrome de Wernicke-Korsakoff (0,9931, nível L5) tem evidência fraca. Não há vínculo mecanístico claro: a doença decorre de deficiência de tiamina, e os benzodiazepínicos podem piorar a cognição e a confusão e causar depressão respiratória. Sem estudos clínicos ou publicações de apoio, é apenas uma previsão do modelo.
 
 ## Evidências de Ensaios Clínicos
@@ -98,7 +97,6 @@ Para advertências e contraindicações formais, consulte a bula.
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA com advertências e contraindicações, pois a ausência desses dados bloqueia a triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
-- Avaliar a viabilidade regulatória: não há registro vigente no Brasil.
 - Definir se há interesse real em uma nova indicação, além da insônia já estabelecida; se não houver, o caso tende a ser arquivado.
 - Classificar a gravidade das interações medicamentosas, hoje sem nível definido.
 ## Aviso de isenção de responsabilidade

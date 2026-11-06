@@ -135,7 +135,7 @@ Os dados de advertências e contraindicações da bula da ANVISA não estavam di
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
 - Obter dados detalhados do mecanismo de ação.
 - Se houver interesse em neuralgia, tratá-la como pergunta de pesquisa: revisão sistemática e ensaio controlado moderno que isole o efeito da prilocaína (ou justifique a combinação), com plano de monitoramento de metemoglobinemia.
-- Verificar a viabilidade regulatória, dado que não há registro válido de prilocaína no Brasil, e definir via de administração e forma farmacêutica adequadas.
+- Verificar a viabilidade regulatória, e definir via de administração e forma farmacêutica adequadas.
 - Para conjuntivite papilar e demais indicações sem evidência, não priorizar investimento sem nova justificativa mecanística.
 ## Aviso de isenção de responsabilidade
 

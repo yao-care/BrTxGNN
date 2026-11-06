@@ -87,7 +87,7 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos e com uma única publicação indireta. Além disso, o fármaco não está registrado no Brasil e apresenta importantes preocupações de segurança (dependência, sedação e interações com depressores do SNC).
+A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos e com uma única publicação indireta.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula (advertências e contraindicações) para a triagem de segurança.

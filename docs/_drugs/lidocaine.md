@@ -95,7 +95,7 @@ Atualmente não há literatura relacionada para a ceratoconjuntivite epitelial p
 
 ## Informações de Comercialização no Brasil
 
-Foram listados 20 registros válidos, todos de medicamentos de ingrediente único (lista possivelmente parcial). Os principais:
+Os principais:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

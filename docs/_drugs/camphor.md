@@ -106,7 +106,7 @@ Nota adicional: a literatura compilada sugere que óleos essenciais com propried
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) e das advertências e contraindicações da bula da ANVISA
 - Replicação independente do estudo pré-clínico, com avaliação de dose, via de administração e segurança neurológica (risco de convulsões)
-- Avaliação da compatibilidade de vias de administração e de formulação, já que não há registros vigentes no Brasil
+- Avaliação da compatibilidade de vias de administração e de formulação
 - Estudos de segurança e de prova de conceito em humanos antes de qualquer ensaio clínico
 
 **Observação sobre as demais previsões:** as outras indicações previstas (enxaqueca com aura do tronco encefálico, disfunção erétil, hipertensão pulmonar, doença de Raynaud, síndrome de Tourette, entre outras) não têm evidência de eficácia e permanecem como "Hold". Em particular, as publicações sobre hipertensão pulmonar tratam do questionário CAMPHOR (Cambridge Pulmonary Hypertension Outcome Review), uma coincidência de nome sem relação com o fármaco.

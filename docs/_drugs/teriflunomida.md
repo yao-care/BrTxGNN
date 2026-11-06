@@ -38,7 +38,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo
 
-Teriflunomida é um agente imunomodulador oral aprovado para o tratamento de formas recidivantes da esclerose múltipla (EM), atuando como inibidor da enzima dihidroorotato desidrogenase (DHODH). O presente Evidence Pack não contém predições TxGNN processadas para este fármaco, impossibilitando a análise de reposicionamento neste momento. Com 11 registros ativos no Brasil, há base regulatória estabelecida, mas os dados do pacote estão incompletos para suportar uma avaliação de nova indicação.
+Teriflunomida é um agente imunomodulador oral aprovado para o tratamento de formas recidivantes da esclerose múltipla (EM), atuando como inibidor da enzima dihidroorotato desidrogenase (DHODH). O presente Evidence Pack não contém predições TxGNN processadas para este fármaco, impossibilitando a análise de reposicionamento neste momento. Os dados do pacote estão incompletos para suportar uma avaliação de nova indicação.
 
 ---
 
@@ -58,7 +58,7 @@ Teriflunomida é um agente imunomodulador oral aprovado para o tratamento de for
 
 ## Informações de Comercialização no Brasil
 
-O Evidence Pack confirma **11 registros ativos** de Teriflunomida no Brasil e status de comercialização ativo. Entretanto, os campos de detalhamento dos registros (número, nome comercial, forma farmacêutica e texto de indicação aprovada) retornaram vazios na extração atual.
+Entretanto, os campos de detalhamento dos registros (número, nome comercial, forma farmacêutica e texto de indicação aprovada) retornaram vazios na extração atual.
 
 > Os dados de registro precisam ser complementados por consulta direta ao sistema DATAVISA/ANVISA para listar os produtos individualmente.
 
@@ -79,7 +79,6 @@ O Evidence Pack não contém predições TxGNN processadas (`predicted_indicatio
 
 **Para prosseguir, é necessário:**
 - **[Crítico]** Executar o pipeline TxGNN com o identificador DrugBank correto de Teriflunomida (DB08880) para gerar as predições de reposicionamento
-- **[Crítico]** Reprocessar os dados ANVISA/TFDA para preencher os campos de registro (número, nome comercial, indicação aprovada)
 - **[Alto]** Recuperar o MOA completo via DrugBank API (Teriflunomida: inibidor de DHODH) para permitir análise de relacionamento mecanístico
 - **[Alto]** Baixar e analisar a bula aprovada pela ANVISA para extrair advertências, contraindicações e interações medicamentosas
 - Após a obtenção das predições, reavaliar o Evidence Pack completo seguindo o fluxo padrão L1–L5

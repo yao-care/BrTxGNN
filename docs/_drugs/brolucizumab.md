@@ -87,7 +87,7 @@ Para as demais informações de segurança, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-Todas as indicações previstas têm apenas previsão do modelo (L5), sem ensaios clínicos nem literatura, e sem ligação mecanística plausível. Além disso, o único registro no Brasil está cancelado e a via de administração (intravítrea) é incompatível com doenças sistêmicas.
+Todas as indicações previstas têm apenas previsão do modelo (L5), sem ensaios clínicos nem literatura, e sem ligação mecanística plausível.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança

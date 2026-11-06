@@ -100,7 +100,7 @@ Consulte a bula para as demais informações de segurança.
 - Obter a bula da ANVISA com advertências e contraindicações oficiais.
 - Obter dados detalhados do mecanismo de ação.
 - Definir plano de mitigação do risco de hemorragia intracraniana e das interações medicamentosas (especialmente inibidores potentes de CYP3A4, como a claritromicina).
-- Avaliar a viabilidade regulatória no Brasil, dado que não há registro vigente.
+- Avaliar a viabilidade regulatória no Brasil.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

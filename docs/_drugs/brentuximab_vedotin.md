@@ -114,7 +114,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A evidência para linfoma folicular é fraca (L3): o único ensaio diretamente na indicação está em andamento e sem resultados, os demais foram retirados, encerrados ou não são específicos, e a literatura trata sobretudo de linfoma de células T. Além disso, a expressão de CD30 no linfoma folicular é baixa e o único registro brasileiro está cancelado.
+- A evidência para linfoma folicular é fraca (L3): o único ensaio diretamente na indicação está em andamento e sem resultados, os demais foram retirados, encerrados ou não são específicos, e a literatura trata sobretudo de linfoma de células T. Além disso, a expressão de CD30 no linfoma folicular é baixa.
 
 **Para prosseguir, é necessário:**
 - Resultados do ensaio NCT04587687 (brentuximabe + bendamustina em linfoma folicular R/R)

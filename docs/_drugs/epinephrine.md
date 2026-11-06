@@ -125,7 +125,6 @@ Há vários ensaios de Phase 3 concluídos com epinefrina inalatória em asma, o
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
 - Confirmar o mecanismo de ação em fonte consolidada (DrugBank).
-- Definir a situação regulatória: não há registro vigente no Brasil, e seria preciso verificar a via para uma formulação inalatória.
 - Estabelecer plano de monitoramento cardiovascular e de interações, em especial com antidepressivos tricíclicos e betabloqueadores.
 - Distinguir o uso inalatório (asma) do uso em bronquiolite, cuja evidência é mista.
 ## Aviso de isenção de responsabilidade

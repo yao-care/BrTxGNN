@@ -101,7 +101,7 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura para linfoma cutâneo primário de células T, e o elo mecanístico é apenas especulativo. O registro brasileiro está cancelado e não há dados de segurança de bula.
+- Não há ensaios clínicos nem literatura para linfoma cutâneo primário de células T, e o elo mecanístico é apenas especulativo. Não há dados de segurança de bula.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna bloqueante para a triagem de segurança

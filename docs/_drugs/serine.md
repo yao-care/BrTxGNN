@@ -84,7 +84,7 @@ Observação: para outras indicações previstas (obstrução intestinal e glauc
 
 ## Informações de Comercialização no Brasil
 
-Os 16 registros estão válidos (16 de 16). Principais registros:
+Principais registros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -133,13 +133,13 @@ Consulte a bula para advertências e contraindicações oficiais.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura que sustentem o uso da serina na miopatia visceral familiar, e não existe mecanismo plausível. A previsão é puramente computacional (L5), e o medicamento é comercializado no Brasil, com 16 registros válidos de 16.
+- Não há ensaios clínicos nem literatura que sustentem o uso da serina na miopatia visceral familiar, e não existe mecanismo plausível. A previsão é puramente computacional (L5).
 
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) e uma hipótese biológica plausível que ligue a serina à doença
 - Revisão de literatura curada, para descartar coincidências de palavras-chave
 - Informações de segurança da bula da ANVISA (advertências e contraindicações), bloqueio atual para a triagem de segurança
-- Avaliação da compatibilidade de via de administração e da situação regulatória, dado que não há registros vigentes no Brasil
+- Avaliação da compatibilidade de via de administração e da situação regulatória
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

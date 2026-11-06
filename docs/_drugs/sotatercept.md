@@ -98,7 +98,7 @@ Atualmente não há literatura relacionada.
 **Decisão: Hold**
 
 **Justificativa:**
-Todas as previsões estão no nível L5 (apenas previsão do modelo), sem ensaios clínicos nem publicações. O registro brasileiro está cancelado e não há dados de segurança da bula, o que impede avançar para a triagem de segurança. Para leucemia linfoblástica aguda, há ainda a possibilidade de dano, além de ausência de mecanismo estabelecido.
+Todas as previsões estão no nível L5 (apenas previsão do modelo), sem ensaios clínicos nem publicações. Não há dados de segurança da bula, o que impede avançar para a triagem de segurança. Para leucemia linfoblástica aguda, há ainda a possibilidade de dano, além de ausência de mecanismo estabelecido.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.

@@ -118,7 +118,7 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do TxGNN é alta, mas o suporte é apenas uma publicação indireta (levantamento de suscetibilidade), sem ensaios clínicos. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos, e não existe formulação ocular.
+- A pontuação do TxGNN é alta, mas o suporte é apenas uma publicação indireta (levantamento de suscetibilidade), sem ensaios clínicos.
 
 **Para prosseguir, é necessário:**
 - Obter da ANVISA a bula com advertências e contraindicações, que ainda não estão disponíveis

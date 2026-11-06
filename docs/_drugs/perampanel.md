@@ -57,10 +57,7 @@ O modelo TxGNN (aprendizado profundo) prevê que pode ser eficaz para **Deficiê
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação compilados para este relatório. Segundo a literatura recuperada, perampanel é um antagonista seletivo e não competitivo do receptor AMPA, que reduz a hiperexcitabilidade neuronal mediada por glutamato. Já foi aprovado em vários países como terapia adjuvante de crises focais.
 
-
-
 ## Evidências de Ensaios Clínicos
-
 
 | Número do Ensaio | Fase | Status | Participantes | Principais Achados |
 |---------|------|------|------|---------|
@@ -105,7 +102,7 @@ Para a deficiência de beta-cetotiolase, as evidências se limitam à previsão 
 - Esclarecer o mecanismo de ação em fonte detalhada (por exemplo, DrugBank).
 - Para epilepsia visual: buscar evidência específica (séries de casos ou estudos em epilepsia fotossensível) antes de qualquer avanço.
 - Para estado de mal epiléptico: acompanhar os resultados do ensaio de fase 2 NCT06401707 e avaliar um ensaio randomizado adequadamente dimensionado.
-- Avaliar a situação regulatória no Brasil (sem registro vigente) e as formas farmacêuticas disponíveis, incluindo a via de administração necessária em contexto agudo.
+- Avaliar a situação regulatória no Brasil e as formas farmacêuticas disponíveis, incluindo a via de administração necessária em contexto agudo.
 - Definir plano de monitoramento de eventos psiquiátricos e de interações medicamentosas.
 ## Aviso de isenção de responsabilidade
 

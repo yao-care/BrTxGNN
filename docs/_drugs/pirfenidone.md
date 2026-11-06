@@ -122,7 +122,7 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), uma lacuna que bloqueia a triagem de segurança.
 - Investigar o sinal de segurança relacionado a sarcomas e dermatofibromas.
 - Realizar estudos pré-clínicos que testem a hipótese em modelos de neoplasias de mastócitos.
-- Confirmar a situação regulatória, já que o medicamento está comercializado no Brasil, com 3 registros válidos de 3.
+- Confirmar a situação regulatória.
 - Considerar, como alternativa de pesquisa, a indicação "neoplasia fibroblástica" (L4), somente após a avaliação de segurança.
 ## Aviso de isenção de responsabilidade
 

@@ -106,14 +106,14 @@ Os dados de bula da ANVISA não estavam disponíveis nos dados compilados; consu
 **Decisão: Hold**
 
 **Justificativa:**
-- A pontuação do TxGNN é alta, mas a evidência real é indireta: o único ensaio é de fase 4 em hidradenite supurativa, e a literatura é composta por revisões, diretrizes e relatos de caso. A acitretina não é terapia padrão para acne, o perfil de segurança é muito restritivo (teratogenicidade) e os dois registros brasileiros estão cancelados.
+- A pontuação do TxGNN é alta, mas a evidência real é indireta: o único ensaio é de fase 4 em hidradenite supurativa, e a literatura é composta por revisões, diretrizes e relatos de caso. A acitretina não é terapia padrão para acne, o perfil de segurança é muito restritivo (teratogenicidade).
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), uma lacuna que bloqueia a triagem de segurança.
 - Complementar os dados do mecanismo de ação (por exemplo, via DrugBank).
 - Confirmar o desenho e os resultados do ensaio NCT07708480 e buscar ensaios randomizados em acne vulgar ou hidradenite supurativa.
 - Definir um plano de gestão de risco de gravidez (contracepção e período de washout) e de monitoramento hepático e lipídico.
-- Avaliar a situação regulatória, já que não há registro válido no Brasil.
+- Avaliar a situação regulatória.
 
 **Outras previsões do modelo (todas com decisão Hold, nível L5, sem ensaios nem literatura):** lúpus eritematoso sistêmico pediátrico (0.9935), eritroblastose fetal (0.9928, sem vínculo mecanístico plausível e incompatível com a contraindicação na gravidez) e síndrome de predisposição a câncer com telangiectasia cutânea familiar e orofaríngea (0.9910).
 ## Aviso de isenção de responsabilidade

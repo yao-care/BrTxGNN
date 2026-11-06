@@ -120,7 +120,7 @@ Para advertências e contraindicações formais, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura e sem mecanismo estabelecido, embora o medicamento seja comercializado no Brasil, com 16 registros válidos de 16. Além disso, faltam dados de advertências e contraindicações da bula, o que impede a triagem de segurança.
+Além disso, faltam dados de advertências e contraindicações da bula, o que impede a triagem de segurança.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna considerada bloqueante

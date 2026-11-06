@@ -73,7 +73,7 @@ Atualmente não há ensaios clínicos relacionados registrados para ceratoconjun
 
 ## Informações de Comercialização no Brasil
 
-O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):
+Principais registros (5 de 20):
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -125,13 +125,13 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão para ceratoconjuntivite epitelial punctata é puramente computacional (L5), sem ensaios ou literatura, e sem mecanismo plausível, já que a doença é tipicamente viral ou inflamatória. Além disso, não há registro vigente do fármaco no Brasil.
+- A previsão para ceratoconjuntivite epitelial punctata é puramente computacional (L5), sem ensaios ou literatura, e sem mecanismo plausível, já que a doença é tipicamente viral ou inflamatória.
 
 **Para prosseguir, é necessário:**
 - Obter os dados do mecanismo de ação (por exemplo, via DrugBank) e avaliar a relação mecanística com a doença.
 - Baixar e analisar a bula na ANVISA para advertências e contraindicações, etapa que bloqueia a triagem de segurança.
 - Realizar busca sistemática de literatura e ensaios sobre fluconazol em ceratoconjuntivite epitelial punctata.
-- Esclarecer a situação regulatória (medicamento comercializado, com 20 registros válidos) e a compatibilidade de via de administração (oftálmica vs. sistêmica).
+- Esclarecer a situação regulatória e a compatibilidade de via de administração (oftálmica vs. sistêmica).
 - Se houver interesse em alternativas, a malária por *P. falciparum* (L4) poderia ser priorizada para estudos pré-clínicos, mas com baixa expectativa de eficácia.
 ## Aviso de isenção de responsabilidade
 

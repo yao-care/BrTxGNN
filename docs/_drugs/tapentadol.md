@@ -96,7 +96,7 @@ Para advertências e contraindicações formais, consulte a bula.
 - Obter e analisar a bula/advertências e contraindicações da ANVISA (lacuna bloqueante para a triagem de segurança)
 - Complementar os dados de mecanismo de ação em fonte estruturada (ex.: DrugBank)
 - Buscar estudos pré-clínicos ou clínicos de tapentadol em enxaqueca/cefaleia que justifiquem avançar
-- Definir a situação regulatória no Brasil (sem registro ativo) e a compatibilidade de vias de administração
+- Definir a situação regulatória no Brasil e a compatibilidade de vias de administração
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

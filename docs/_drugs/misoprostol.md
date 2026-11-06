@@ -106,7 +106,7 @@ Consulte a bula para informações adicionais de advertências e contraindicaç�
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos e a literatura disponível trata de aborto medicamentoso, não do tratamento da amenorreia. A pontuação do TxGNN (0,9964) é apenas uma previsão computacional, e o fármaco não possui registro ativo no Brasil nos dados compilados.
+- Não há ensaios clínicos e a literatura disponível trata de aborto medicamentoso, não do tratamento da amenorreia. A pontuação do TxGNN (0,9964) é apenas uma previsão computacional.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.

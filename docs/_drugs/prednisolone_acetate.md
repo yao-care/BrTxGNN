@@ -102,8 +102,6 @@ Como contexto, a única publicação identificada que avalia o acetato de predni
 | Registro nº 101470006 | PRED | Não informada | Glicocorticoides tópicos oftalmológicos simples |
 | Registro nº 104971287 | STER | Não informada | Glicocorticoides tópicos oftalmológicos simples |
 
-Há ainda mais dois registros válidos (PREDOPTIC e ZYPRED, este classificado como anti-infeccioso tópico em associações medicamentosas), totalizando 7.
-
 ---
 
 ## Considerações de Segurança

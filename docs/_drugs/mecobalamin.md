@@ -70,7 +70,7 @@ Outras previsões do modelo, também sem evidências, foram: neoplasia endócrin
 
 ## Informações de Comercialização no Brasil
 
-Todos os 12 registros encontrados estão **válidos**. Principais registros:
+Principais registros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -110,14 +110,14 @@ Consulte a bula para advertências e contraindicações formais.
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos nem literatura que sustentem a indicação prevista (nível L5), e a pontuação alta do TxGNN, isoladamente, não estabelece vínculo terapêutico. Além disso, o medicamento é comercializado no Brasil, com 12 registros válidos de 12.
+- Não há ensaios clínicos nem literatura que sustentem a indicação prevista (nível L5), e a pontuação alta do TxGNN, isoladamente, não estabelece vínculo terapêutico.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA para advertências e contraindicações (lacuna de dados bloqueante para a triagem de segurança).
 - Complementar os dados de mecanismo de ação (por exemplo, via consulta à API do DrugBank).
 - Realizar busca sistemática de literatura e de ensaios clínicos sobre vitamina B12/mecobalamina em colangite esclerosante.
 - Investigar estudos pré-clínicos que sustentem um vínculo biológico plausível.
-- Avaliar a compatibilidade de vias de administração e a viabilidade regulatória, dado que não há registro válido no Brasil.
+- Avaliar a compatibilidade de vias de administração e a viabilidade regulatória.
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

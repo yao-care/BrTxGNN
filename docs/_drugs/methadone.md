@@ -94,7 +94,7 @@ Consulte a bula para advertências e contraindicações oficiais, pois os dados 
 **Decisão: Hold**
 
 **Justificativa:**
-A previsão se baseia em um único relato clínico antigo (1992), sem ensaios registrados, e o perfil de risco da metadona (dependência, QT longo, depressão respiratória) pesa fortemente contra o uso em uma condição crônica, frequentemente pediátrica. Além disso, o único registro brasileiro está cancelado.
+A previsão se baseia em um único relato clínico antigo (1992), sem ensaios registrados, e o perfil de risco da metadona (dependência, QT longo, depressão respiratória) pesa fortemente contra o uso em uma condição crônica, frequentemente pediátrica.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), atualmente indisponível

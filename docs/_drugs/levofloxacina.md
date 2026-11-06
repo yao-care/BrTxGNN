@@ -59,7 +59,7 @@ O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco 
 
 ## Informações de Comercialização no Brasil
 
-Foram identificados **4 registros** da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa. No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação aprovada) não foram recuperados nesta execução do pipeline — os campos retornaram vazios.
+Foram identificados **4 registros** da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa.
 
 É necessário complementar a consulta à base ANVISA para obter esses dados antes de qualquer análise regulatória comparativa.
 

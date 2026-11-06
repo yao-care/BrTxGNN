@@ -38,7 +38,7 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo
 
-Leflunomida (LEFLUNOMIDA) é um fármaco com 19 registros ativos no Brasil, confirmado como comercializado. No entanto, o Evidence Pack recebido não contém indicações originais registradas, mecanismo de ação (MOA) nem previsões de novas indicações pelo modelo TxGNN. Sem o campo `predicted_indications` preenchido, não é possível gerar um relatório completo de reposicionamento neste momento.
+No entanto, o Evidence Pack recebido não contém indicações originais registradas, mecanismo de ação (MOA) nem previsões de novas indicações pelo modelo TxGNN. Sem o campo `predicted_indications` preenchido, não é possível gerar um relatório completo de reposicionamento neste momento.
 
 ## Visão Geral Rápida
 

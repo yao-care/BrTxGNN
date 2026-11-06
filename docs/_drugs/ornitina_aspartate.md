@@ -40,7 +40,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Ornitina Aspartato (L-ornitina L-aspartato) é um fármaco cujos dados regulatórios e de indicação original não constam no sistema brasileiro.
 O modelo TxGNN **não gerou previsões de reposicionamento** para este composto neste ciclo de análise,
-pois a ausência de registro nacional e as lacunas críticas de dados (MOA, advertências, indicação original) impediram a execução completa do pipeline.
 
 ---
 

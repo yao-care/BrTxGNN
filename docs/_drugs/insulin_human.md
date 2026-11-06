@@ -84,7 +84,7 @@ Portanto, a plausibilidade biológica é limitada e especulativa. A ausência de
 
 ## Informações de Comercialização no Brasil
 
-Todos os 13 registros encontrados estão válidos; o medicamento é comercializado no Brasil.
+O medicamento é comercializado no Brasil.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -144,13 +144,13 @@ Para advertências e contraindicações, consulte a bula.
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão é apenas computacional (L5), sem ensaios clínicos nem literatura, e sem vínculo mecanístico demonstrado entre insulina e ooforite autoimune. Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13.
+- A previsão é apenas computacional (L5), sem ensaios clínicos nem literatura, e sem vínculo mecanístico demonstrado entre insulina e ooforite autoimune.
 
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação da insulina humana.
 - Revisar a literatura e os registros de ensaios sobre insulina e ooforite autoimune.
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pôde ser concluída.
-- Esclarecer a situação regulatória atual, já que não há registro válido no Brasil.
+- Esclarecer a situação regulatória atual.
 - Se houver interesse em outras previsões, a agenesia pancreática (L4) é a única com coerência clínica, mas equivale à indicação original e não constitui reposicionamento.
 ## Aviso de isenção de responsabilidade
 

@@ -82,7 +82,7 @@ A indicação original é genérica (antineoplásico), e o sunitinibe é usado e
 
 ## Informações de Comercialização no Brasil
 
-O medicamento é comercializado; todos os 7 registros encontrados estão válidos.
+O medicamento é comercializado.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -118,14 +118,14 @@ Observação: o texto da bula aprovado pela ANVISA não estava disponível, de m
 **Decisão: Hold**
 
 **Justificativa:**
-Há dois estudos de Fase 2 concluídos e um estudo publicado de Fase 2 com sinal clínico direto, porém limitado, em sarcomas de partes moles. Faltam dados confirmatórios específicos de lipossarcoma, e todos os registros brasileiros do sunitinibe estão cancelados, o que impede o uso imediato no país.
+Há dois estudos de Fase 2 concluídos e um estudo publicado de Fase 2 com sinal clínico direto, porém limitado, em sarcomas de partes moles. Faltam dados confirmatórios específicos de lipossarcoma.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pendência bloqueante para a triagem de segurança
 - Complementar os dados do mecanismo de ação via DrugBank
 - Extrair os resultados específicos de lipossarcoma dos estudos de Fase 2 (taxa de resposta e sobrevida livre de progressão)
 - Comparar com terapias estabelecidas para lipossarcoma e definir o desenho de um estudo confirmatório
-- Verificar a viabilidade regulatória no Brasil, dado que não há registro válido atualmente
+- Verificar a viabilidade regulatória no Brasil
 
 ---
 

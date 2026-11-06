@@ -38,7 +38,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 ## Resumo em Uma Frase
 
-Amilorida Cloridrato (AMILORIDA HYDROCHLORIDE) é um fármaco consultado na base do TFDA/ANVISA, porém **sem registros comerciais ativos no Brasil**.
 O modelo TxGNN **não gerou nenhuma previsão de reposicionamento** nesta execução, possivelmente em razão da ausência de DrugBank ID mapeado ou de dados insuficientes de indicações originais.
 A avaliação está incompleta e requer complementação de dados antes de qualquer análise de reposicionamento.
 
@@ -48,7 +47,7 @@ A avaliação está incompleta e requer complementação de dados antes de qualq
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | Não disponível (sem registros no TFDA) |
+| Indicação Original | Não disponível |
 | Nova Indicação Prevista | Nenhuma previsão gerada pelo TxGNN |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | L5 (sem estudos — sem previsão de modelo) |
@@ -64,7 +63,7 @@ A execução do pipeline identificou **2 lacunas críticas** que inviabilizaram 
 
 | ID | Item | Severidade | Impacto |
 |----|------|------------|---------|
-| DG001 | Advertências/contraindicações do TFDA (bula) | Bloqueante | Impossibilita avaliação inicial de segurança (S1) |
+| DG001 | Advertências/contraindicações (bula) | Bloqueante | Impossibilita avaliação inicial de segurança (S1) |
 | DG002 | Mecanismo de ação (MOA) | Alta | Impede análise de relevância mecanística |
 
 > **Observação sobre o DrugBank:** O log de consulta indica que a busca ao DrugBank retornou **1 resultado** para "AMILORIDA HYDROCHLORIDE", mas os dados não foram populados no Evidence Pack. É provável que o mapeamento DrugBank ID esteja pendente de resolução manual.
@@ -72,8 +71,6 @@ A execução do pipeline identificou **2 lacunas críticas** que inviabilizaram 
 ---
 
 ## Informações de Comercialização no Brasil
-
-Nenhum registro encontrado. O fármaco **AMILORIDA HYDROCHLORIDE não possui registros ativos** na base consultada do TFDA/ANVISA.
 
 ---
 
@@ -92,7 +89,7 @@ O TxGNN não gerou previsões de reposicionamento para este fármaco na execuç�
 
 **Para prosseguir, é necessário:**
 - **[DG002 — Alta prioridade]** Consultar o DrugBank API para recuperar o DrugBank ID e o MOA do fármaco (a query já retornou 1 resultado: verificar por que os dados não foram populados)
-- **[DG001 — Bloqueante]** Baixar e analisar o PDF da bula no TFDA para extrair advertências e contraindicações
+- **[DG001 — Bloqueante]** Baixar e analisar o PDF da bula para extrair advertências e contraindicações
 - Verificar se o nome "AMILORIDA HYDROCHLORIDE" está indexado corretamente no DrugBank — possível variação de grafia em relação ao INN padrão em inglês ("Amiloride hydrochloride")
 - Reexecutar o pipeline TxGNN após resolução do mapeamento DrugBank para obter previsões de reposicionamento
 - Avaliar se o fármaco possui registro em outros mercados relevantes (EUA, Europa) que possam fornecer dados de indicações originais como referência

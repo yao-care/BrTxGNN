@@ -145,7 +145,7 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a ausência desses dados bloqueia a triagem de segurança.
 - Consultar o mecanismo de ação detalhado no DrugBank.
 - Apresentar uma hipótese mecanística plausível e evidência pré-clínica antes de qualquer investimento clínico.
-- Definir a via de administração compatível com a nova indicação e avaliar sua viabilidade regulatória, já que não há registro válido no Brasil.
+- Definir a via de administração compatível com a nova indicação e avaliar sua viabilidade regulatória.
 - Descartar a síndrome da cauda equina como alvo terapêutico, por refletir um evento adverso.
 ## Aviso de isenção de responsabilidade
 

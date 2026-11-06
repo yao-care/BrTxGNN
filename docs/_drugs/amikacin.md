@@ -119,7 +119,7 @@ Também há um estudo de sensibilidade de *S. typhi* (PMID 8354556, 1993) em que
 - Obter a bula da ANVISA com advertências e contraindicações (lacuna bloqueante na triagem de segurança).
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank).
 - Gerar dados clínicos comparativos de amicacina na febre paratifoide ou entérica, incluindo a penetração intracelular e o desempenho frente a esquemas padrão.
-- Definir via de administração e forma farmacêutica compatíveis e verificar a situação regulatória atual (não há registro vigente no Brasil).
+- Definir via de administração e forma farmacêutica compatíveis e verificar a situação regulatória atual.
 - Avaliar o perfil de risco de nefrotoxicidade e ototoxicidade e o plano de monitoramento, dadas as contraindicações indicadas.
 ## Aviso de isenção de responsabilidade
 

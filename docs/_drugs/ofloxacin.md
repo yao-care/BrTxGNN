@@ -151,14 +151,14 @@ Consulte a bula para advertências principais e contraindicações oficiais; os 
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão principal (síndrome de hiperviscosidade policlonal) é apenas uma previsão do modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, o medicamento é comercializado no Brasil (8 registros válidos de 8), e o perfil de segurança exige cautela em várias condições.
+- A previsão principal (síndrome de hiperviscosidade policlonal) é apenas uma previsão do modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, o medicamento é comercializado no Brasil, e o perfil de segurança exige cautela em várias condições.
 - A peste septicêmica (L4) é a hipótese mais defensável, mas é uma extensão do uso antibacteriano existente e se apoia apenas em dados in vitro e em animais. Pode ser tratada como questão de pesquisa, não como candidata a reposicionamento imediato.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), hoje um bloqueio para a triagem de segurança.
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank).
 - Para peste septicêmica: revisar diretrizes e dados clínicos de fluoroquinolonas e avaliar a viabilidade de estudos em humanos.
-- Para qualquer nova indicação: confirmar a compatibilidade de via de administração e a situação regulatória, já que não há registro vigente no Brasil.
+- Para qualquer nova indicação: confirmar a compatibilidade de via de administração e a situação regulatória.
 - Descartar ou despriorizar as previsões hematológicas sem respaldo mecanístico.
 ## Aviso de isenção de responsabilidade
 
