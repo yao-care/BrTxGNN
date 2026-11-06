@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com ENTACAPONE. 10 indicações previstas."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Notícias sobre ENTACAPONE
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ENTACAPONE?">
-<strong>ENTACAPONE</strong> tem atualmente <strong>3 notícias</strong> e 10 indicações previstas.
+<strong>ENTACAPONE</strong> tem atualmente <strong>4 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Esta página combina as indicações previstas por IA para ENTACAPONE com as not
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (3)
+## Notícias relacionadas (4)
+
+### [Ana Cláudia Michels rebate 'chips da beleza': 'Não existe essa tecnologia' - UOL Notícias](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlREczc3aDVaQXpvRjdhMmUyY2dDWVBhSXVyN0hwWXItSHpBOTZqSHNaZTNUQ2pqZHhGRmpKMHhRQ0NRbDEzUUxBSmt5Nkp3WjJpSFZnenZJWHFreUowSER2eTN4NF96dERScEtjNGd2bEJDQm5jSDBPVVhLRkpIX3o1X1d6aXM3ZGFjQlY5NVlrU0xMM1VkMmw3SDBKWC1DX0N3?oc=5)
+
+2026-11-05 <span class="news-indication-tag">demência</span>
+
+Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlREczc3aDVaQXpvRjdhMmUyY2dDWVBhSXVyN0hwWXItSHpBOTZqSHNaZTNUQ2pqZHhGRmpKMHhRQ0NRbDEzUUxBSmt5Nkp3WjJpSFZnenZJWHFreUowSER2eTN4NF96dERScEtjNGd2bEJDQm5jSDBPVVhLRkpIX3o1X1d6aXM3ZGFjQlY5NVlrU0xMM1VkMmw3SDBKWC1DX0N3?oc=5)
+
+---
 
 ### [Mudanças de comportamento em idosos podem ser sinais precoces de demência - Folha de S.Paulo](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb04xVldjbmxBX0pyQmtleU0tQlRqN2Uyb1JNZDRKZzI3djNWYkZldDRBbXNxTU9hT094cWF0M3R3UGRzSGFEN0FaSHF1c3NYazZHWk5ROGxacmFLM2F2cFlGRUtDNGdUeGkwcnJqMnlpZE12NHkxeU55NXBBbmRvOEh2M2N2Z0pzazJkaGN1ZVFveW8yVmpCMDdadWRHaGRmNFNid0NfbkN6TkVwRWN0S2ZQelU4SE1qUDFadkdjV0o0Tlk?oc=5)
 

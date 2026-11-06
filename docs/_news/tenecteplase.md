@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com TENECTEPLASE. 7 indicações previstas."
 permalink: /news/tenecteplase/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 ---
 
 # Notícias sobre TENECTEPLASE
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TENECTEPLASE?">
-<strong>TENECTEPLASE</strong> tem atualmente <strong>1 notícias</strong> e 7 indicações previstas.
+<strong>TENECTEPLASE</strong> tem atualmente <strong>2 notícias</strong> e 7 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ Esta página combina as indicações previstas por IA para TENECTEPLASE com as n
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [O melhor horário para ir dormir e reduzir a pressão arterial - Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUE2dk01TjhOZ0k3YmZuU1M5Z3duYU0tVXdJUHRDRFlDeDBqOG4yckJVb29lSDJjSzRRMnlhOUhyRVlJVlhqdHlmbWI5TkNSaDNQejlyTlJ4TElmMXQycVhSeVBPN2tadUIzVjB1QWZENlNldUlUQUNjbFlIeURvbVBjMXRMNjc2Y0VjbURhYnRFUXF5S3NDc0JxVEs?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cardiovascular</span>
+
+Fonte: [Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUE2dk01TjhOZ0k3YmZuU1M5Z3duYU0tVXdJUHRDRFlDeDBqOG4yckJVb29lSDJjSzRRMnlhOUhyRVlJVlhqdHlmbWI5TkNSaDNQejlyTlJ4TElmMXQycVhSeVBPN2tadUIzVjB1QWZENlNldUlUQUNjbFlIeURvbVBjMXRMNjc2Y0VjbURhYnRFUXF5S3NDc0JxVEs?oc=5)
+
+---
 
 ### [Quantos degraus você deveria subir ao dia para proteger o coração? Estudo traz estimativa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjFmQk9EV05MWjhnSV9SN3d0TlU0bjBNY2htRzRGUHdkdXZGSVluclowX2FKdjJ2aGpYSEgxREVtbFVMV0hIRkFyQlJBSmRBNDAzTjBNbThHVzVyV00taElveUN1bXBqWFBfbElQX0hwZnEyUW5vS2VUY2pCMWFoVmlKY2FYaXM4NU1qTnJ2TkFNUVRyR1JwY1VXWFQwMUpiTVNqWHJETVZzNW14OHBKN05tT0k0ODBDTWZrdUR4WGphSV9FY1FnQUhyZ3VSV3ZSNnlSU1U4eWQ?oc=5)
 

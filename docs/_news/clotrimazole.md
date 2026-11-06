@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para Clotrimazole com as n
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Nível de evidência</strong>: L1</li>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (2)</strong>:<ul>
 <li>acne (acne (disease))</li>
 <li>Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis)</li>

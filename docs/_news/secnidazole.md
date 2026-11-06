@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Secnidazole?">
-<strong>Secnidazole</strong> tem atualmente <strong>28 notícias</strong> e 6 indicações previstas.
+<strong>Secnidazole</strong> tem atualmente <strong>30 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ Esta página combina as indicações previstas por IA para Secnidazole com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
-<li><strong>Nível de evidência</strong>: L1</li>
+<li><strong>Nível de evidência</strong>: L5</li>
 <li><strong>Indicações previstas (6)</strong>:<ul>
 <li>Vaginite atrófica pós-menopausa (postmenopausal atrophic vaginitis)</li>
 <li>ulceration of vulva</li>
@@ -38,7 +38,7 @@ Esta página combina as indicações previstas por IA para Secnidazole com as no
 <p><a href="{{ '/drugs/secnidazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (28)
+## Notícias relacionadas (30)
 
 ### [Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro - Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx5Q1c4QVB4VWYzclFIZFJNTjJ5THFHTnJab3BISTBBVXhoLUdnMGRENmJZRXVaOE1LcjBXR1lhMXJsbFBtY1Z0M0tCYzVWd00wMVl2QWE3TE92SzFvSzJILVFhdlhEX3E4TEoxa29SSUZ2dF9yM05xa1lRSF9DOGMzNEJyRzF5d0UwY2hHMFFPZG9pa3l2cmJzdjFORUJWbmEtbXJ0TmRvMHByN3AweloybFYzeEpmdVhUdjRvSXduajZoRkdndW41enU1UV9JS3c?oc=5)
 
@@ -48,11 +48,27 @@ Fonte: [Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx
 
 ---
 
+### [Qual é o câncer raro de Christa Pike, que sobreviveu a duas doses de injeção letal nos EUA?](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU1Ob19Jbzd0S0RhNEVVd3ZZZFZHdWZmOWFoVDh5UU54ZHJzdS0zdGRLSEl2bWc1Q1VqS0wzaGpmcm5CQjhjTFp6TG5McDlrLWJLRHVwTzN1WXF5T1I1bGs3Y1pTNmgyRFJOeExKeU96TGlXc2xoUDQ4NXpyUWtLM0FfOVdjNFo1eXRNRHdFUXctMXBoeUtaLVEybTRxMmszY3dYYkFIcHRST2pqV2g1ZnExalVzMkk?oc=5)
+
+2026-11-05 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Exame](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU1Ob19Jbzd0S0RhNEVVd3ZZZFZHdWZmOWFoVDh5UU54ZHJzdS0zdGRLSEl2bWc1Q1VqS0wzaGpmcm5CQjhjTFp6TG5McDlrLWJLRHVwTzN1WXF5T1I1bGs3Y1pTNmgyRFJOeExKeU96TGlXc2xoUDQ4NXpyUWtLM0FfOVdjNFo1eXRNRHdFUXctMXBoeUtaLVEybTRxMmszY3dYYkFIcHRST2pqV2g1ZnExalVzMkk?oc=5)
+
+---
+
 ### [Longevidade: os 5 hábitos comuns entre idosos brasileiros que vivem mais, segundo especialistas em envelhecimento saudável - CNN Brasil](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR2liSkhzUXR5NmwtQVk1bHpaa3BtUTBkZ0JRYUdxRGNsWTB1MUVJX1ppWWRWcUZndDF4QnFqcFVSMXFWaTZ3SnhhWEZmbWNmYUxtMmg4anFteERwdVZlLVFMc1NtVE5jWmVCTzU0YlUwZUpmWmV0dUNOb1NPWFdPUnA0SlBGREFzanhwcDkwRndRUld6bWRidjVpNllUWjZKWmdfY1dDOTBHUkpBWjBkSHVOV00xWFo1c0tNZkZOMVphb1k0UmJPUWlFZi01ek9tYzJtQ015cFRlUkZZbmo5RVc5RUdUeElvWm8tWmdYVkZkNDVyNlE?oc=5)
 
 2026-11-05 <span class="news-indication-tag">menopausa</span>
 
 Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR2liSkhzUXR5NmwtQVk1bHpaa3BtUTBkZ0JRYUdxRGNsWTB1MUVJX1ppWWRWcUZndDF4QnFqcFVSMXFWaTZ3SnhhWEZmbWNmYUxtMmg4anFteERwdVZlLVFMc1NtVE5jWmVCTzU0YlUwZUpmWmV0dUNOb1NPWFdPUnA0SlBGREFzanhwcDkwRndRUld6bWRidjVpNllUWjZKWmdfY1dDOTBHUkpBWjBkSHVOV00xWFo1c0tNZkZOMVphb1k0UmJPUWlFZi01ek9tYzJtQ015cFRlUkZZbmo5RVc5RUdUeElvWm8tWmdYVkZkNDVyNlE?oc=5)
+
+---
+
+### [Carne vermelha pode aumentar o risco de câncer? Entenda o que se sabe - Jornal Correio](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnh1aHhjOVgtS3J4Ukg1UWo3RE92TDQ4ZWVuS2hZbkRHeG43ZVVKWWgtVmpEQlV5bG9Rc3c2T1NQczFFVXFhR3BDMXpwVlJtOG5meDhWYjQ2R1YzX2ROelp3dnNpcS0xZEdhby1ZUGRvVHZ2Z2hodnRHazgyQ1ZLcU4xQy1Sbmlpbm9hcWpzSm5iVHJPalFXT0RGNEdtQU1CeXBDd1R6S0VFSUN4VlF5VnlOOA?oc=5)
+
+2026-11-05 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Jornal Correio](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnh1aHhjOVgtS3J4Ukg1UWo3RE92TDQ4ZWVuS2hZbkRHeG43ZVVKWWgtVmpEQlV5bG9Rc3c2T1NQczFFVXFhR3BDMXpwVlJtOG5meDhWYjQ2R1YzX2ROelp3dnNpcS0xZEdhby1ZUGRvVHZ2Z2hodnRHazgyQ1ZLcU4xQy1Sbmlpbm9hcWpzSm5iVHJPalFXT0RGNEdtQU1CeXBDd1R6S0VFSUN4VlF5VnlOOA?oc=5)
 
 ---
 
