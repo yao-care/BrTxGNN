@@ -69,7 +69,7 @@ Adicionalmente, os dados de mecanismo de ação (MOA), indicações aprovadas, a
 
 ## Informações de Comercialização no Brasil
 
-A consulta à ANVISA (TFDA query em 2026-03-26) confirmou **10 registros** para Lenalidomida no Brasil com status de comercialização ativo. No entanto, os detalhes individuais — número de registro, nome comercial, forma farmacêutica e indicação aprovada — **não foram retornados** nesta versão do Evidence Pack (todos os campos estão em branco).
+A consulta à ANVISA confirmou **10 registros** para Lenalidomida no Brasil com status de comercialização ativo. No entanto, os detalhes individuais — número de registro, nome comercial, forma farmacêutica e indicação aprovada — **não foram retornados** nesta versão do Evidence Pack (todos os campos estão em branco).
 
 É necessário recuperar os detalhes completos antes de prosseguir com a análise.
 

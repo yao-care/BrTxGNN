@@ -1,0 +1,9 @@
+{
+ "lenalidomida": [
+  {
+   "sentence": "A consulta à ANVISA (TFDA query em 2026-03-26) confirmou",
+   "cut": " (TFDA query em 2026-03-26)",
+   "reason": "M5：TwTxGNN 模板殘留的台灣查詢欄位名（TFDA query），本站查的是 ANVISA；只刪括號，句子其餘部分保留（2026-11-06）"
+  }
+ ]
+}
