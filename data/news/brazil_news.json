@@ -1,15 +1,75 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-07T05:04:55.799328+00:00",
-  "total_fetched": 93,
-  "unique_count": 91,
-  "health_related_count": 38,
+  "fetched_at": "2026-11-07T12:37:49.382123+00:00",
+  "total_fetched": 88,
+  "unique_count": 88,
+  "health_related_count": 34,
   "news": [
+    {
+      "id": "58673eba5ff2",
+      "title": "Consumidor alerta sobre carne a vácuo “podre” vendida em Vilhena e denuncia riscos para a saúde coletiva na cidade - Folha do Sul",
+      "published": "2026-11-07T11:21:00+00:00",
+      "summary": "Consumidor alerta sobre carne a vácuo “podre” vendida em Vilhena e denuncia riscos para a saúde coletiva na cidade&nbsp;&nbsp;Folha do Sul",
+      "sources": [
+        {
+          "name": "Folha do Sul",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWFpVeEVpa1ZLc3NHbHJ1VmJKUWwzbDlsSDctSGxMT1EzMndEOHdETHo2LTJtZC1UVFRFVkw4aHdKaGRCX3Jtbl8tamVNZllSRVU1aUdQcDVXZEJMaVNETE5ZUHYzbk9fY0s3UWRZUDh5TFNsZE96dDFWM3pLSVRKLVEzelB2UzNLWWxOUjJpblgtWXU2NFBVMXFhTjdwM0tMel91NTRXUnJkYjhnY1Zwb2ZZQVc4eTRkb3ZSdUwzZ01TS0xlRVRBVHhCaHNmbTBqeXJ4cnNkZHhGUlNv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "767dfb6c7bb5",
+      "title": "Trocar o sal de cozinha por versão com potássio poderia evitar 3 milhões de mortes por ano no mundo, estima estudo - G1",
+      "published": "2026-11-07T07:00:00+00:00",
+      "summary": "Trocar o sal de cozinha por versão com potássio poderia evitar 3 milhões de mortes por ano no mundo, estima estudo&nbsp;&nbsp;G1Dieta rica em potássio também é importante no controle da pressão alta, diz estudo&nbsp;&nbsp;SuperinteressanteCientistas encontram alternativa ao sal comum que pode evitar milhões de mortes ao ano&nbsp;&nbsp;Alô Alô BahiaPesquisa mostra que alimentos como a banana protegem mais a pressão das mulheres&nbsp;&nbsp;Tua SaúdeO sal que pode reduzir risco de infarto e AVC em ",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcFVXeFAxYkl3MU9IOG1oV0ZnYVpGNHpDUFpGV0JZZWdfdk9NdFNrU1VRRngxS0l1aTY3RnVEVTVUcDRFaDduRG5KMHB3SzVEVVlhd0tNbFFCYmowWUtJM1ZhQVNvYVpuQ3RfSXlHOXFFSFAwTGg0eVZCTGpFMU5RbWdueWhYN1JtYmNiMjMxT3V1M0xkTXVBTnpFaTJwdTFUUHd3STdDSl9xRGxXRHh3bFpZVWh6MC1YX0s2Yy1od0dHTmFqbS1rX1RqdTMwd2lHazU1NC12S1BKU0VlQmFLS19JcVdvZl9QWXdoU1dFeUhwZk5mZnpUbdIBhwJBVV95cUxQMzVuaEVpbW9kV2lCbkVCN3MwNkdzVjIxZTlnRDRkZzdXaHI2dGl4MDJYdXJqUXNPaFZ4QTJWck5UUmpIcFRQaG44OGR6emI4Y2ItSENuOFJwckRIeV9zMEhlS1pyN3FOaEJubzNYUklHNXZHYW1wOVM5LU5rVTRTbzFZME1NTk4tVmdzU3hHcmZEZ2FQVjAwRk5LYVdHSEJDczZxSUpLaVhRZ2o2Zk1haVlUU3NZNHM2NktlZDBNZkdXZFc5X29TX0YzOEF4dVB0WlJ2bkVlR3laNUxlRGZjNmtuTnh0UUdPWWVhM2VSYksxLUEySWlvamVqbGJPV2VBS0xDb1gwdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "44444cee4273",
+      "title": "Mercúrio contaminou mais sítios arqueológicos maias do que se imaginava, diz estudo - G1",
+      "published": "2026-11-07T05:00:01+00:00",
+      "summary": "Mercúrio contaminou mais sítios arqueológicos maias do que se imaginava, diz estudo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWmhKZUJETWF5RXU1akQtNzdCb21lbFVfVEhDd2w2SVJNdFNJQUlNREdIZnd3Z3VQeXNzdTJSWFo5UTkwQkx0WXhvenJsUVVVcU9HTG9wSmYxb0x1VWVJZHpndGhSWmJtT1N3TVdabVU1OG50d1BXNDk0WF9vTlRyOTROZVc5bXhxYlVBSl9LZnJfR3d3SFJnX3lQY2o2SHRoaGJmMHRFYVNoUFVuLVJWenYzeWVrYXBJLU5yaWNtM1dfNlNrZ05DelRXOWVtSUVGRHfSAeABQVVfeXFMTlByS2g1RmhPYUZjbElUS2xPN1Y5LTdUQUZIcGxuWkxKMVowdlhSUXVBWlI4aTduZzY3RnpiamJRcWdETGctMlNRTWpXNzVYdGpnTnJXNU52MUU2dDUxREhLc3B1MWd4UkxfUVRxMW5lSGx2OUR0SE9IUTFQejc5V3QzZmZDS3pzbFBLMG5SWGhnbTBsWENFMjVoSU44V1pNT3I3UHV0OF81d0thOU9JRFVGYVZHOWZVNzFVSmlFLV82c09KRFp2UjA0UXFpZDBxNmgxUDNyeWxldC1VU1VxMVo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ce8cad661be",
+      "title": "Vacina contra mpox no Ceará: veja quem pode receber as doses - Diário do Nordeste",
+      "published": "2026-11-06T23:16:00+00:00",
+      "summary": "Vacina contra mpox no Ceará: veja quem pode receber as doses&nbsp;&nbsp;Diário do NordesteCeará registra 40 casos de MPOX&nbsp;&nbsp;G1Ceará registra 18 casos confirmados de Mpox em 2026&nbsp;&nbsp;O POVO+NOTA OFICIAL Secretaria da Saúde de Sobral confirma dois casos de MPOX no município&nbsp;&nbsp;Prefeitura de SobralCeará registra 40 casos de mpox em 2026, aponta Sesa&nbsp;&nbsp;CN7",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTRrRVplMmtZRGY0clhoM2VzWmlfZTJ3OHhqbFowTU1RZ05ZMFdVVUFlZUsxYkVKaUVIYkV3Vl9NODU1R3FlTzBBYnVCdndzNkE3WkhFYUtUcENCTnQzYWxrM0hFVk9kWWhmNXd2bjBEdGNTUXNtNV9ucWN6c24zLTM4SkNSbms3UmpBcGlsVW1TdkwzX0ZFZVhTc1dzZ1FYcDN2R3lPVnhsT2xpU0V0aFh3d3lXZ3NGV1Bn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "483e12add0b1",
+      "title": "Ministério da Saúde envia 100 doses de vacina contra Mpox ao DF; público-alvo é restrito - G1",
+      "published": "2026-11-06T22:22:49+00:00",
+      "summary": "Ministério da Saúde envia 100 doses de vacina contra Mpox ao DF; público-alvo é restrito&nbsp;&nbsp;G1Febre, ínguas e feridas na pele estão entre os sintomas da mpox&nbsp;&nbsp;MetrópolesDF fica sem vacinas contra mpox e organizações LGBT+ acionam Ministério Público&nbsp;&nbsp;Brasil de FatoMpox pode ocorrer sem febre e com uma única lesão: saiba reconhecer os sinais&nbsp;&nbsp;Jornal de BrasíliaMpox: Secretaria de Saúde orienta população sobre prevenção e sintomas da doença&nbsp;&nbsp;Secretari",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNnVubkEwdFVzalFHdE42TlRBVGVWZ3FZTVVVUEZUcHJIdDJhNU9oakxzR184Q29HUXZnUHdWZWhPalhqZGJlSVR1ZDNjZ0tjXzhpekNHXzljT2duZGlVT3UzM2Q0cFRIcjREdWI1VnZBT0VVWE1oaHdkZTB5alZZblRFb2JBcVJISEZkT1RHal9qRjJodTROanRmQTFpVVBMaG9tRXVKX1pUaElEbXVFdGt3RGpqRjdxNlhVdVRLNmFqVHF1Wlhhd0lva1ZReFF3NXl0UG9xRU9FaE5aTEhRS1VhWHMxbDNP0gH3AUFVX3lxTE9EZnV2dTM5Rm5uOGdQWlB2T2RfN1VmcjU5R1I3ZzhMNk1ZTHdWSUo3M0FiekF3aXhNWGhXVTNHMDR4aXNEY0ZEaFJiT3pJMmxuc1NBRjAwTEJFN3lFdU1kQUZBQ2NpcURoX0cxTlNrSDJpNjJhWnVFZzNoNkJGZFNOOThRYXR3ZGMyV2RGQ0RpVlV2dUZqd180OFFOcGF1OGtIS2doVVZ0d1VGSUtSZGFTb3JBOC1xcTlOaEVrb3k4SEYxQzVUYUltbE1kaEZmbDhERDJIazNQcC1rY2Iwb0FTU0NISFI4ODE2bHlSNnRlZkx3SGpXNlE?oc=5"
+        }
+      ]
+    },
     {
       "id": "bf2c361e5761",
       "title": "ES registra recorde de seis casos de Mpox em apenas uma semana; total no ano chega a 17 - G1",
       "published": "2026-11-06T22:14:03+00:00",
-      "summary": "ES registra recorde de seis casos de Mpox em apenas uma semana; total no ano chega a 17&nbsp;&nbsp;G1Mpox: casos aumentam no Rio; doença mata? Passa pelo beijo? Veja respostas às principais dúvidas&nbsp;&nbsp;G1Ministério da Saúde autoriza compra de 20 mil doses de vacina contra Mpox&nbsp;&nbsp;Folha de S.PauloMinistério da Saúde autoriza aquisição de 20 mil doses da vacina contra a Mpox&nbsp;&nbsp;CartaCapitalRio recebe novo lote com duas mil doses de vacina contra a mpox&nbsp;&nbsp;Agência Bra",
+      "summary": "ES registra recorde de seis casos de Mpox em apenas uma semana; total no ano chega a 17&nbsp;&nbsp;G1Rio recebe novo lote com duas mil doses de vacina contra a mpox&nbsp;&nbsp;Agência BrasilMinistério da Saúde autoriza compra de 20 mil doses de vacina contra Mpox&nbsp;&nbsp;Folha de S.PauloBrasil registra 665 casos de mpox em 2026; Ministério envia 2 mil doses ao RJ&nbsp;&nbsp;Tribuna do NorteRio de Janeiro confirma 269 casos de Mpox em 2026; sem óbitos até o momento&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "G1",
@@ -78,26 +138,26 @@
       ]
     },
     {
-      "id": "32308cda774f",
-      "title": "Além do câncer: quatro doenças urológicas comuns entre homens - Diário do Centro do Mundo",
-      "published": "2026-11-06T19:35:56+00:00",
-      "summary": "Além do câncer: quatro doenças urológicas comuns entre homens&nbsp;&nbsp;Diário do Centro do MundoNovembro Azul: próstata pode crescer de forma benigna, e tem cura&nbsp;&nbsp;Agência BrasilQuando a noctúria é normal e quando investigar&nbsp;&nbsp;www.guairanews.comAcordar várias vezes para urinar pode ser sinal de aumento da próstata; entenda os sintomas&nbsp;&nbsp;O RebateHPB: novas técnicas podem preservar a ejaculação&nbsp;&nbsp;Jornal O candeeiro",
+      "id": "73b5f60ff384",
+      "title": "Cochilos de idosos à tarde podem ser indício de risco de demência - DW.com",
+      "published": "2026-11-06T20:30:16+00:00",
+      "summary": "Cochilos de idosos à tarde podem ser indício de risco de demência&nbsp;&nbsp;DW.com",
       "sources": [
         {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFotVTNlVUxWcXNLMURpWm9mNjBSRm9RVE5HcHFiS0JOT1prQVVMeVVaMExXaGFBSWZOMEdOaWtXYWdPcVFOZFV3djJIbk0wajZMZ0pNRVVjNTJySHc5anB0UmxZQVhwbURVOXdIOGdGWGlHeDc0STR5MDVrVlB5YjBlcmtfUUl4SE9ESi1ibkV4ZDY1bEE?oc=5"
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFVTRFdfVnY4TUZBOHBDYkFhX1ZRNUlRQlRGRkhBcldJV2pscnFsdmhfN0YyZFF2MlZQX29nbzloQm5NNVhQV0c0cjI4ZVpEaGZ3RTkwQUpWTVhGRm83S3g1QzJRUGkzWk1Ib2FES1FkV2luOE9tUFY5cFd3NzNpUUFfNGRRbGo5cUtwTk1SdkxIQVJHcmdGVXRzcWFXTGQ1Unh1SnpyN0tuU3NNclF5MHNqRW1vUEnSAbcBQVVfeXFMTVpCUVpROWtibUFoMlMxa281N2xqS1IxV3dlOUNoWFpmdWk5UWxuVURhdW1Cc0drdDdpT045R1NtRE1pdzdjMWdweVptXzl0aVJ6dmtNc3NnQjVZZlNuX04zNThlOThkcjdUa2VjT29QelhMRVJ2bTBoV0VXVEQ5ZnZCNW5EU2JrVWFqazdVSzdVVmE0Z0tqMUtIWTFJbnJESmpFNGoyN3h4SFl5S25ES21FREdBNlkw?oc=5"
         }
       ]
     },
     {
-      "id": "3f1152e78850",
-      "title": "Morre em Erechim, aos 41 anos, o médico Jonatã Leal da Silva - Jornal Bom Dia",
-      "published": "2026-11-06T19:04:00+00:00",
-      "summary": "Morre em Erechim, aos 41 anos, o médico Jonatã Leal da Silva&nbsp;&nbsp;Jornal Bom Dia",
+      "id": "32308cda774f",
+      "title": "Além do câncer: quatro doenças urológicas comuns entre homens - Diário do Centro do Mundo",
+      "published": "2026-11-06T19:35:56+00:00",
+      "summary": "Além do câncer: quatro doenças urológicas comuns entre homens&nbsp;&nbsp;Diário do Centro do MundoNovembro Azul: próstata pode crescer de forma benigna, e tem cura&nbsp;&nbsp;D24AMQuando a noctúria é normal e quando investigar&nbsp;&nbsp;www.guairanews.comAcordar várias vezes para urinar pode ser sinal de aumento da próstata; entenda os sintomas&nbsp;&nbsp;O RebateHPB: novas técnicas podem preservar a ejaculação&nbsp;&nbsp;Jornal O candeeiro",
       "sources": [
         {
-          "name": "Jornal Bom Dia",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnhMMlhyTXZuT1llcVRYejdTRjdrYXNkZG1oUHFzM3RPNUo3SmMtaU9lZXQ5VnJoVWtEN2xSeDh5MG82aWh2MUR6X3p0M0RGTkRaX1I4TmdBU2FXcFVsV3RKbmVLemJtV3lzSWR3akVlSTR2dWQtM3BUWHlPMFNPYXNxai1xODVjYTI0VGUtdE5Fbm9MNzlZblhSemo1NEhFVXVXOExJYw?oc=5"
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFotVTNlVUxWcXNLMURpWm9mNjBSRm9RVE5HcHFiS0JOT1prQVVMeVVaMExXaGFBSWZOMEdOaWtXYWdPcVFOZFV3djJIbk0wajZMZ0pNRVVjNTJySHc5anB0UmxZQVhwbURVOXdIOGdGWGlHeDc0STR5MDVrVlB5YjBlcmtfUUl4SE9ESi1ibkV4ZDY1bEE?oc=5"
         }
       ]
     },
@@ -162,38 +222,14 @@
       ]
     },
     {
-      "id": "ee2af4bf499c",
-      "title": "CE tem aumento de casos de Mpox em outubro e chega a 18 confirmações em 2026 - Diário do Nordeste",
-      "published": "2026-11-06T14:40:13+00:00",
-      "summary": "CE tem aumento de casos de Mpox em outubro e chega a 18 confirmações em 2026&nbsp;&nbsp;Diário do NordesteCeará registra 40 casos de MPOX&nbsp;&nbsp;G1Vacina contra mpox no Ceará: veja quem pode receber as doses&nbsp;&nbsp;Diário do NordesteCeará registra 18 casos confirmados de Mpox em 2026&nbsp;&nbsp;O POVO+NOTA OFICIAL Secretaria da Saúde de Sobral confirma dois casos de MPOX no município&nbsp;&nbsp;Prefeitura de Sobral",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc29qRllIbmpXdkwxTEVVLUhRbXA2Wkp5TXAwUDJBdEx2X29DMEdUUzJPN3Zad3NqX2FKRlhvZ28xMDdfeHV6Vk5DRWRINlYzaTVkQS1wc1VfWlRwMF9hX1pCTXJzRjRaZlNkMDFJQ1l5Y3BqamRLcnpsOFJtQjBVQkE2MDE2V2R4TUFiamxFVVdtRUIybGdsNFJ4ay1CSk9xMDhTTTBqSmRuM1p4RDlXUFdxYkhSMEhoOS1UanhzbU5vZ09wY0xKWHRsODB1WFJrU3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f1735189b8cd",
       "title": "País pode chegar a 860 mil casos prováveis de dengue em 2027 - Agência Brasil",
       "published": "2026-11-06T14:32:00+00:00",
-      "summary": "País pode chegar a 860 mil casos prováveis de dengue em 2027&nbsp;&nbsp;Agência BrasilApesar do El Niño, casos de dengue devem manter padrão semelhante ao de anos anteriores, aponta projeção&nbsp;&nbsp;O GLOBOMinistério da Saúde projeta alta da dengue em 2027 e quer voltar a usar vacina do Butantan&nbsp;&nbsp;Folha de S.PauloSaúde alerta para alta da dengue e tenta retomar vacina Butantan-DV&nbsp;&nbsp;Poder360Brasil pode ter 2,8 milhões de casos de dengue em 2027 em cenário grave, diz Fiocruz&n",
+      "summary": "País pode chegar a 860 mil casos prováveis de dengue em 2027&nbsp;&nbsp;Agência BrasilDengue: as chuvas e o calor do El Ninho vão provocar uma explosão de casos? Entenda&nbsp;&nbsp;O GLOBOSaúde alerta para alta da dengue e tenta retomar vacina Butantan-DV&nbsp;&nbsp;Poder360Brasil pode ter 2,8 milhões de casos de dengue em 2027 em cenário grave, diz Fiocruz&nbsp;&nbsp;R7Ministério da Saúde prevê alta de casos de dengue em 2027&nbsp;&nbsp;Jornal do Tocantins",
       "sources": [
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1pQaWR0dFdoZGVqQkVvWTl3YV9SeDBfU2pMY3BYSjdudGFoaVlRRUVSN2dpclRXSHB4VTRzUHp5UV81WjFJSDVudnNuU3VKTjIxRUJURTgxU3h5Rl9pUy1QQVZTbEpwdDdWaG8tYWhDQk94VUhSS3c1RVhUTGJpZXJSWXM5WDl3Q3plcEpTUDQ4QXJKOVdWREV1dnM2UEFqdFdkekl6ZFg4d240WGJBcEwtRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "47165535322e",
-      "title": "O novo inimigo das células cancerígenas sempre esteve no pomar da sua avó segundo nova pesquisa brasileira da USP - Terra",
-      "published": "2026-11-06T13:42:00+00:00",
-      "summary": "O novo inimigo das células cancerígenas sempre esteve no pomar da sua avó segundo nova pesquisa brasileira da USP&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMmowbkJWajE3U0RDVzk2TnBCXzhtczl0aGIyNFAteC1WOG5IWWdBN245MWt6U3p5TDE0OW1sV0VXMnZXcE95M0tPLXVyQy1VdjI5aVRMMHlSZW5kTlNlQ0x3M1lEWVhNb2Z6MXE3QnpUdm9ERDFXclhhNDBIV0M1Uy1pT05qNUNDRGVFSXBxb0xKSjdGUFRjOHJ0Skt4Tk1ObEViSU9xMHRiTWhmSDhWQktjejFwUXBQRkpnbTVGaFJ4ZmxYaE1obUJZRURBSFNyVUVZMWZmYTZYLWNSYnh2X0tLc1JWbWp5SVJHTm5fMzRJYkdYZHphOHpLbWJicTVIUTVSdlYwNm9vYUxOWHNjZnVPTHpvY2tLZ3VLc25Qd0dkZnc?oc=5"
         }
       ]
     },
@@ -225,7 +261,7 @@
       "id": "7b42e0598af7",
       "title": "Nova caneta emagrecedora Semaclique chega às farmácias com preço a partir de R$ 333 - Folha de S.Paulo",
       "published": "2026-11-06T12:00:00+00:00",
-      "summary": "Nova caneta emagrecedora Semaclique chega às farmácias com preço a partir de R$ 333&nbsp;&nbsp;Folha de S.PauloNova caneta de semaglutida produzida no Brasil chega às farmácias nesta sexta; veja preço e quem pode usar&nbsp;&nbsp;G1Canetas emagrecedoras alimentam mercado clandestino&nbsp;&nbsp;Estadão Blue StudioEMS leva às prateleiras sua terceira caneta emagrecedora e abre conversa com o SUS&nbsp;&nbsp;NeoFeedAnvisa aprova comprimido de semaglutida para tratar sobrepeso e obesidade #HojeEmDia #",
+      "summary": "Nova caneta emagrecedora Semaclique chega às farmácias com preço a partir de R$ 333&nbsp;&nbsp;Folha de S.PauloSemaClique: nova caneta com fabricação nacional chega às farmácias&nbsp;&nbsp;CNN BrasilWegovy oral, novas canetas emagrecedoras: um guia para você comparar os análogos de GLP-1 disponíveis no Brasil (e o que vem por aí)&nbsp;&nbsp;O GLOBOEMS leva às prateleiras sua terceira caneta emagrecedora e abre conversa com o SUS&nbsp;&nbsp;NeoFeedWegovy em forma de comprimido: o que falta para c",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -249,7 +285,7 @@
       "id": "af45e88948be",
       "title": "Manaus terá vacinação contra sarampo em 10 unidades neste sábado; veja locais e horários - G1",
       "published": "2026-11-06T11:15:29+00:00",
-      "summary": "Manaus terá vacinação contra sarampo em 10 unidades neste sábado; veja locais e horários&nbsp;&nbsp;G1Prefeitura realiza ‘Dia D’ de vacinação contra o sarampo&nbsp;&nbsp;Prefeitura de ManausAmazonas faz ‘Dia D’ de vacinação contra o sarampo, neste sábado&nbsp;&nbsp;D24AMPrefeitura de Parintins realiza Dia S Nacional de combate ao Sarampo nesta quarta-feira (4)&nbsp;&nbsp;Prefeitura de ParintinsAmazonas reforça ações contra o sarampo com a implantação de comitê de operações&nbsp;&nbsp;Portal Mári",
+      "summary": "Manaus terá vacinação contra sarampo em 10 unidades neste sábado; veja locais e horários&nbsp;&nbsp;G1Prefeitura realiza ‘Dia D’ de vacinação contra o sarampo&nbsp;&nbsp;Prefeitura de ManausAmazonas faz ‘Dia D’ de vacinação contra o sarampo, neste sábado&nbsp;&nbsp;D24AMPrefeitura de Parintins realiza Dia S Nacional de combate ao Sarampo nesta quarta-feira (4)&nbsp;&nbsp;Prefeitura de ParintinsVacinação contra o sarampo segue disponível em mais de 170 salas de Manaus&nbsp;&nbsp;Rádio Rio Mar",
       "sources": [
         {
           "name": "G1",
@@ -270,30 +306,6 @@
       ]
     },
     {
-      "id": "cfb1a79b0bf0",
-      "title": "Zumbido no ouvido pode esconder problemas de saúde; veja quando o sinal exige atenção - Jornal Correio",
-      "published": "2026-11-06T08:00:00+00:00",
-      "summary": "Zumbido no ouvido pode esconder problemas de saúde; veja quando o sinal exige atenção&nbsp;&nbsp;Jornal CorreioNovembro Laranja: campanha busca conscientização sobre o zumbido no ouvido&nbsp;&nbsp;G1Novembro Laranja alerta problemas auditivos que afetam milhões de brasileiros e podem comprometer a qualidade de vida&nbsp;&nbsp;TerraPerda auditiva: sinais discretos podem indicar problema de audição&nbsp;&nbsp;TarobáUsa fones de ouvido todos os dias? Hábito pode causar danos irreversíveis à audição",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYlFYaG1vWkZGRmY3dVVTZDRWRzVLeFkxaG05a3pKc3ZhajJITGlIa2JBV2NfOFRheVl6dDdMV1Y5VHBQMmRlU3lhS3VRcUdEOGZyODRsWEo3amFsYlE4U2lzRkJ0TE5HYlVJMGlNQktVdE5kZkZtU3JNUUtEZE1IZkpOMm1UY3pwRUwtSHhDaGtWNDdILXNubXlndF9QRWdGRTdUay1sMHduaVN5ZWd2eTVjdFdjcWxxMXc4U0NqY3BEV1MzekhfbA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "73b5f60ff384",
-      "title": "Cochilos de idosos à tarde podem ser indício de risco de demência - DW.com",
-      "published": "2026-11-06T07:59:59+00:00",
-      "summary": "Cochilos de idosos à tarde podem ser indício de risco de demência&nbsp;&nbsp;DW.com",
-      "sources": [
-        {
-          "name": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFVTRFdfVnY4TUZBOHBDYkFhX1ZRNUlRQlRGRkhBcldJV2pscnFsdmhfN0YyZFF2MlZQX29nbzloQm5NNVhQV0c0cjI4ZVpEaGZ3RTkwQUpWTVhGRm83S3g1QzJRUGkzWk1Ib2FES1FkV2luOE9tUFY5cFd3NzNpUUFfNGRRbGo5cUtwTk1SdkxIQVJHcmdGVXRzcWFXTGQ1Unh1SnpyN0tuU3NNclF5MHNqRW1vUEnSAbcBQVVfeXFMTVpCUVpROWtibUFoMlMxa281N2xqS1IxV3dlOUNoWFpmdWk5UWxuVURhdW1Cc0drdDdpT045R1NtRE1pdzdjMWdweVptXzl0aVJ6dmtNc3NnQjVZZlNuX04zNThlOThkcjdUa2VjT29QelhMRVJ2bTBoV0VXVEQ5ZnZCNW5EU2JrVWFqazdVSzdVVmE0Z0tqMUtIWTFJbnJESmpFNGoyN3h4SFl5S25ES21FREdBNlkw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "23595b3f373b",
       "title": "Vitaminas na veia: quando a promessa de saúde cria riscos - O GLOBO",
       "published": "2026-11-06T07:30:00+00:00",
@@ -306,26 +318,38 @@
       ]
     },
     {
-      "id": "d55a4580640d",
-      "title": "Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro - Diário do Rio",
-      "published": "2026-11-05T19:30:42+00:00",
-      "summary": "Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro&nbsp;&nbsp;Diário do RioAções de prevenção da saúde do homem serão realizadas durante o Novembro Azul&nbsp;&nbsp;G1Prefeitura de Manaus reforça prevenção ao câncer de próstata com palestra do Novembro Azul&nbsp;&nbsp;Prefeitura de ManausCuiabá prepara programação especial com exames e mutirão de biópsias para a saúde do homem&nbsp;&nbsp;Prefeitura de CuiabáPrevenção ao câncer de próstata&nbsp;&nbsp;Portal ",
+      "id": "5c385b6c3f31",
+      "title": "Um em cada quatro adolescentes no mundo não pratica 60 minutos de atividade física em nenhum dia da semana, aponta estudo - G1",
+      "published": "2026-11-06T06:00:00+00:00",
+      "summary": "Um em cada quatro adolescentes no mundo não pratica 60 minutos de atividade física em nenhum dia da semana, aponta estudo&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Diário do Rio",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx5Q1c4QVB4VWYzclFIZFJNTjJ5THFHTnJab3BISTBBVXhoLUdnMGRENmJZRXVaOE1LcjBXR1lhMXJsbFBtY1Z0M0tCYzVWd00wMVl2QWE3TE92SzFvSzJILVFhdlhEX3E4TEoxa29SSUZ2dF9yM05xa1lRSF9DOGMzNEJyRzF5d0UwY2hHMFFPZG9pa3l2cmJzdjFORUJWbmEtbXJ0TmRvMHByN3AweloybFYzeEpmdVhUdjRvSXduajZoRkdndW41enU1UV9JS3c?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZkdxUjd0aUJBT1hHNzFBNUhQeklwbVl3dTVnV3Y3cGw4M25zVlRURHhWSlp3alo2WFBNV2pJTHdOVFlDT21wV0NUV2xvWXZVNTlRTThRZTZBa29vLWxTZHZEZDdyQ1J1eWJZNXI4UlpBRUQ0X2F1OXU4cWxOQlVJZFFfNjJZZ0pHcldldkphZlY0QnRpQ0FGakM0WkpReG8wNF8zSUVoN0YybVZqamotei1VVC1JeTZabHo4ZEVCcUE1MUptSndhRDMxYVBSUkFLVHRULUpMcVdZclNJMi1nRVFERl8ybFFFcEt6UktuWjdTY2RXOXZuWk0zQTk4dVhCTUHSAZACQVVfeXFMTW1HeG5yOWdUeVIyem9rWFc0c0owZ0lQSll3X2NBU2Ezd3Z6c3JCanlEeTdISHVCeWhlTHp1VWdqMHlNbXFielowc3JzazJrT0tBdFUwbFZLUjNVUGYyWGxoQ2t5M285N0RBNUFWNHNaNjhBRnJnQU5qSUQ5NzBRTFlTcjhneXJ2ek5hVTh3TkpodDE5TkF1M1VZdll0Z19RT1B4RlFpQUQwQjBvbnVRM3g2UlZaTjQtSUJiWmZhUjlob0lUaXhSMGlONVFwa2JVektOczFfdnRYOWtob1FHdFVjTzhPdmU1ZUg0RWI5eGUtZU5PUG5JMU5pZ3A5dTdVNl9TTVFBdzdWdnhGdEZweDY?oc=5"
         }
       ]
     },
     {
-      "id": "c8602dfe049a",
-      "title": "Quanto mais, melhor? Como o aumento de volume de exercício afeta a saúde do coração - Estadão",
-      "published": "2026-11-05T19:02:00+00:00",
-      "summary": "Quanto mais, melhor? Como o aumento de volume de exercício afeta a saúde do coração&nbsp;&nbsp;EstadãoEstudo revela que mais atividade física amplia proteção contra doenças cardiovasculares&nbsp;&nbsp;A Crítica de Campo GrandeCardiologistas americanos recomendam prescrever exercício como remédio&nbsp;&nbsp;ZatumExercício físico pode fazer mais do que fortalecer o coração — estudo revela novo efeito&nbsp;&nbsp;ExameMaior volume de exercícios amplia benefícios cardiovasculares, diz estudo&nbsp;&nb",
+      "id": "fa25ef7e244e",
+      "title": "Brasil recebe primeiros computadores quânticos da América Latina - Brasil 247",
+      "published": "2026-11-05T23:47:13+00:00",
+      "summary": "Brasil recebe primeiros computadores quânticos da América Latina&nbsp;&nbsp;Brasil 247",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbFZYRzI2ODdYTHhjYUZnUDBpZlB0TGUzZERUNDBaXzdIZHhLd1hLcUVsaTQzV0VmQUxOSnFmbDRfRWdoRmlzTmpVSFBULXNjQ3hqLTZTdW56TnhrSF9UTGZrbVR2TFV5empmazI4WDlCQWtoRFNxNE5LRFFObkRCZlJRdGZtOHkxWTVURzRJTDVNVktGcXdySWFVOXZvSjFqNFJNUjY0N2hNUjBTUmw0RGZEcmU2V3FaTTJSSDYxMTdUbGJGTk9HZ09BS3h3NEHSAdQBQVVfeXFMUHJ6RVdmeTBLRzkyN2FYV3A3Ym9qVlhhY3BfTUJsRnc3Wjg5ZXdWZWNUd1h6QjFkUW5BVnY4aDhaaDNCTktaQXM5SDR4bGdFUmM5eC1OV2xBZGg3Zlp4RWNuWVBtd2lKSDRKdVRSZVYtOWhJcmRVendHWlZYVXIxeDRzM0FNMjZkWHRNZ1lwLVczRzlNQkxMVVp5M3pLLUdQTWtJT2JMcm53Y3k5TDFBbG5hc3EtUUVET2lDNWw5YXE1QlRNMkFIelNxR00xWXlLSzVDNFM?oc=5"
+          "name": "Brasil 247",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaURRMTlnQ0RUNDF1UXNrR0xmSTExMGZNNmU5NW9taTFTeEZHcGt6VlhPQ3hTLUVMZ3hxYjNkN19adDR6SDkyUldPY0NTOXRCdVY3bGFDZ2ctYkVzbTR0d042bl9DUVZHNFNTeWpUMmlZVzdHVzc4SFZvdDA5VjVTMGh0WUR5ZEhKU1NUcWVzZjltbzNrMUgybTdLd3g1YW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d55a4580640d",
+      "title": "Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro - Diário do Rio",
+      "published": "2026-11-05T19:30:42+00:00",
+      "summary": "Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro&nbsp;&nbsp;Diário do RioAções de prevenção da saúde do homem serão realizadas durante o Novembro Azul&nbsp;&nbsp;G1Cuiabá prepara programação especial com exames e mutirão de biópsias para a saúde do homem&nbsp;&nbsp;Prefeitura de CuiabáPrefeitura de Manaus reforça prevenção ao câncer de próstata com palestra do Novembro Azul&nbsp;&nbsp;Prefeitura de ManausPrevenção ao câncer de próstata&nbsp;&nbsp;Portal ",
+      "sources": [
+        {
+          "name": "Diário do Rio",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx5Q1c4QVB4VWYzclFIZFJNTjJ5THFHTnJab3BISTBBVXhoLUdnMGRENmJZRXVaOE1LcjBXR1lhMXJsbFBtY1Z0M0tCYzVWd00wMVl2QWE3TE92SzFvSzJILVFhdlhEX3E4TEoxa29SSUZ2dF9yM05xa1lRSF9DOGMzNEJyRzF5d0UwY2hHMFFPZG9pa3l2cmJzdjFORUJWbmEtbXJ0TmRvMHByN3AweloybFYzeEpmdVhUdjRvSXduajZoRkdndW41enU1UV9JS3c?oc=5"
         }
       ]
     },
@@ -342,18 +366,6 @@
       ]
     },
     {
-      "id": "bec5490e8eec",
-      "title": "Estudo descobre que alternativa ao sal comum pode evitar milhões de mortes ao ano - Extra online",
-      "published": "2026-11-05T15:21:05+00:00",
-      "summary": "Estudo descobre que alternativa ao sal comum pode evitar milhões de mortes ao ano&nbsp;&nbsp;Extra onlineDieta rica em potássio também é importante no controle da pressão alta, diz estudo&nbsp;&nbsp;SuperinteressanteCientistas encontram alternativa ao sal comum que pode evitar milhões de mortes ao ano&nbsp;&nbsp;Alô Alô BahiaEstudo: sal enriquecido com potássio pode evitar quase 3 milhões de mortes anuais&nbsp;&nbsp;Euronews.comO sal que pode reduzir risco de infarto e AVC em até 15%&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRlNMOFJWbmtkak8wV0haRGt2NDRyNVRUdFhYRlZ0MnZnX1BCRUd4OVQwUnhNdkU2eTlZSVhMYnNQMml4d2g0dXh2RlFXcTJJZkxVWElnaXJ6dmhKUmdpMHNZcmZhTE9TLTJHaGhTVHc4eFJsdlo3LXYzWlVCakhwOFB0LUhtZmNZOGg0TURuSmxqdkZycTlvQlhnc1F6OHdhYlpXUGFTbkVHMS1BN094Z3JFT3dwRHBQbmF4bkZrUU51Uzd3YjA2ZGgtejI3QdIB3AFBVV95cUxQQ0w3bkJlYWdBV3NwVXlOUUtrMFJfZTc4UEVGLVVsWG5FNDh3ZWZ1bkd1by1XTWd1UGR2NEFBWHhFOXluUlE0clhTR09iRGdmTC15NGhEOWNUbGYtUmx2V2pfcl90RnQyVmJnbmdPeVlXRDZDQTZfT3UtYkhPelZOdXNCWml4alN6cnc2bXRhWklYRWFBR1ZlWmNweTVlZlFManpjRTJWNThfT3VoVWpTV3NoT0dGLW5lZlhFdkhKWEhXazhpV2l5UHZkWWpTZWI0UWpJUEFyeDNPOHU5?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3d4a1a60f632",
       "title": "Qual é o câncer raro de Christa Pike, que sobreviveu a duas doses de injeção letal nos EUA? - Exame",
       "published": "2026-11-05T13:02:30+00:00",
@@ -366,74 +378,14 @@
       ]
     },
     {
-      "id": "9465edd96ea4",
-      "title": "Até que horas se pode tomar café? Estudo define horário limite para proteger o coração e o sono - CNN Brasil",
-      "published": "2026-11-05T11:15:55+00:00",
-      "summary": "Até que horas se pode tomar café? Estudo define horário limite para proteger o coração e o sono&nbsp;&nbsp;CNN BrasilExiste um horário-limite para tomar café sem prejudicar o sono?&nbsp;&nbsp;G1Café à tarde pode afetar o sono mesmo horas depois, aponta revisão&nbsp;&nbsp;Diário do Centro do MundoSono após o almoço: especialistas explicam quando é normal e quando sinaliza problemas de saúde&nbsp;&nbsp;Francês NewsCafé na menopausa: aliado da energia ou uma armadilha contra o cansaço?&nbsp;&nbsp;R",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMjBtTUJSc1FOdWwwNDEtdmdyQXlZUGI2TGFHcFlWaWROTzZxSFRZd1VadXZUb25maml3Wll3N1dsazZVVkxTc2xlUFg0Y2huUy1TY1hpaE5ySkV1SDRBVDBtQ0o4UnRBZDRkSEFIUldsX0RHbWJiY1d4SlBPc2dCTlNKdHZOSFNnb09jQmZxWE9EdFdNak81UnNJWk44bEcyWjQyazhjUkdjSXQ2SldfNnJueERMVEF0U3VGVE9NVktsM1E5VTcyNktEeDRobEZwdmdB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "353ac21a142f",
-      "title": "Salvador tem taxa de hepatite B 65% acima da média nacional; veja como se prevenir - Jornal Correio",
-      "published": "2026-11-05T09:00:00+00:00",
-      "summary": "Salvador tem taxa de hepatite B 65% acima da média nacional; veja como se prevenir&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOER5VTBLaVZYNDNQRm9WYU9nZlU4SE9ieTFZaktmLWlnU08tMGJ4SzBTWDQyLTFkOXlnNXgzTWF6R3dEbWxmaGFRNGpkSnJDYllZSTdQOXVueE1jYmxOYUZrdTdjUDZDREkyVzVXSldnYmtxS2NRSGREQVo1YXl0VFMta1RpLUtZX3ZnUjR0SEc3LWNPTWNsQXRGeFUzRXdELVdTbWdUWFR4azU3bkJVTDFTbU9IQ0NUdUFnS002RnFpbTZWVHdteWFsVVRVWXBf?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d19f3ab3dcfb",
-      "title": "Longevidade: os 5 hábitos comuns entre idosos brasileiros que vivem mais, segundo especialistas em envelhecimento saudável - CNN Brasil",
-      "published": "2026-11-05T08:55:14+00:00",
-      "summary": "Longevidade: os 5 hábitos comuns entre idosos brasileiros que vivem mais, segundo especialistas em envelhecimento saudável&nbsp;&nbsp;CNN BrasilCuidados com o envelhecimento saudável devem começar antes da menopausa, alerta ginecologista&nbsp;&nbsp;A TribunaComo chegar à velhice sem perder a autonomia? Veja o que a ciência diz&nbsp;&nbsp;Diário do NordesteComo o cuidado da saúde aos 40 anos pode melhorar a vida aos 70 anos?&nbsp;&nbsp;Rádio PampaO que você faz aos 30 anos pode influenciar sua sa",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR2liSkhzUXR5NmwtQVk1bHpaa3BtUTBkZ0JRYUdxRGNsWTB1MUVJX1ppWWRWcUZndDF4QnFqcFVSMXFWaTZ3SnhhWEZmbWNmYUxtMmg4anFteERwdVZlLVFMc1NtVE5jWmVCTzU0YlUwZUpmWmV0dUNOb1NPWFdPUnA0SlBGREFzanhwcDkwRndRUld6bWRidjVpNllUWjZKWmdfY1dDOTBHUkpBWjBkSHVOV00xWFo1c0tNZkZOMVphb1k0UmJPUWlFZi01ek9tYzJtQ015cFRlUkZZbmo5RVc5RUdUeElvWm8tWmdYVkZkNDVyNlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c5fedd433a29",
-      "title": "Mpox: DF confirma oito casos em outubro e investiga circulação do vírus - Correio Braziliense",
-      "published": "2026-11-05T08:00:00+00:00",
-      "summary": "Mpox: DF confirma oito casos em outubro e investiga circulação do vírus&nbsp;&nbsp;Correio BrazilienseMinistério da Saúde envia 100 doses de vacina contra Mpox ao DF; público-alvo é restrito&nbsp;&nbsp;G1Febre, ínguas e feridas na pele estão entre os sintomas da mpox&nbsp;&nbsp;MetrópolesDF fica sem vacinas contra mpox e organizações LGBT+ acionam Ministério Público&nbsp;&nbsp;Brasil de FatoMpox pode ocorrer sem febre e com uma única lesão: saiba reconhecer os sinais&nbsp;&nbsp;Jornal de Brasíli",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZVplMUtPbkZnZzJWaVdGZnF1cEl0dDNwZmVtUTR0bW9ZRTlsX0dWVWpISFJNTnRUWHNqaHlhTjZFWFJZWG1UWVNXMGZ1d3Q0bGpyTTYyYjZJV0wtWVRfRldaVDFnMS1KNldYRVBoY2lER0wxYnhsRG5tMllIaEY0Q0VPZjFqVFBUbm9LVDJuT2tFR0FCQnM2SzVCbFFqdUhYTGFkdWF1N2paTEw1RjJLd0RvME5SVHpNMTB3d1c5UVhkR0p4anYyUHlyMy1LeURJR3Z6YWlVNNIB3AFBVV95cUxPSDdLd1JmaG9ocXJhQlQ3U2lfZkl1R3FXaHNLbXlFblJnSUljdWtkZ3ZNYlJoeFB6dENNUEZQaHdiTVVZNi15NjVPZlNhRjdrUDktTDFfX1ZPUGJFaTFtX1pfRV94VnpTY0dpRERHODRFajBHUmE2M0dtVDVPdVZVMkFseDBwWm1CZnZKSi1tNHh4cjVndzdteXhUbmRQSUM4SEtGU0Y1cDdhUG5sbzlXZGN2bjhfanFsWkVQdnpvRHgxdG9QbFNzbllUYWY3SloxaV9kTmt1TDJFUHcw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9717821849f7",
       "title": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração - ICL Notícias",
       "published": "2026-11-04T17:19:15+00:00",
-      "summary": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasPressão alta pode avançar sem sintomas e exige cuidados preventivos&nbsp;&nbsp;G1Apenas 30% dos hipertensos seguem o tratamento, dizem médicos ao Dr. Kalil&nbsp;&nbsp;CNN BrasilPressão alta: sintomas de alerta e quando procurar atendimento médico&nbsp;&nbsp;Imirante.comCombinação de remédios pode melhorar controle da hipertensão&nbsp;&nbsp;Poder360",
+      "summary": "Pressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasPressão alta pode avançar sem sintomas e exige cuidados preventivos&nbsp;&nbsp;G1Apenas 30% dos hipertensos seguem o tratamento, dizem médicos ao Dr. Kalil&nbsp;&nbsp;CNN BrasilPressão alta: sintomas de alerta e quando procurar atendimento médico&nbsp;&nbsp;Imirante.comClínica São Vicente explica o risco de interromper remédios para pressão alta e diabetes&nbsp;&nbsp;O Popular do Paraná",
       "sources": [
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZcFFnRUtLVXlIdEVTUGFIbU1oMmtoQzUwMWFMWS1XcmRjMG1kMXNkQnBzeEEwcjlIODd4ZGMzSzFldFQxeVozeTF1c3V3S2ZTbXlPR0t1ZmhOaXVzQi00OWQ1REU5d05jRUpoWjg5eTNTTnRiMU1V?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8488c634b799",
-      "title": "Bicicleta faz mal à saúde sexual masculina? Estudo explica o que acontece com o corpo - TNH1",
-      "published": "2026-11-04T01:31:00+00:00",
-      "summary": "Bicicleta faz mal à saúde sexual masculina? Estudo explica o que acontece com o corpo&nbsp;&nbsp;TNH1Andar de bike pode causar disfunção erétil? Estudo com 4 mil homens mostrou o que acontece com o corpo ao passar horas pedalando&nbsp;&nbsp;CNN BrasilPedalar por muitas horas pode afetar a saúde sexual masculina? Estudos investigam um risco pouco comentado&nbsp;&nbsp;O POVOEstudo com mais de 4 mil ciclistas investiga relação entre uso prolongado da bicicleta e disfunção erétil&nbsp;&nbsp;Mais FM ",
-      "sources": [
-        {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2NIdkp5N1V5M1JBUVVnQ1NWRkl3c1BSR1YxNUFWRE12ZDI4c3A2ZzAzaWZKekJVRlQ3eFpmdy1fUDBIRktyT1hodGNPMFBoalpSOXJUM0lJQ1NWX2dMTm1ZTFcyRkYwZTJHdEF0dlB6LWRvMGhReDJkaGhuZ2ZPSVlOYkYxd3d3UXV1WGFoeXQxQ09iRGxOTkR3OFBKNS1KemJQZFA1bDJKMGFleWR6QW1NcjJHUUtWYVAyY09B0gG4AUFVX3lxTE5KS2lzWDloeWJ3b3U2TWowbk1TenZjVUNXNG9hSE41b1NoTmdVWHNCQi1LTWQ4ZEV6TldQb0lpWWZjVVIyYm5NUHFkMUVzZDN2NGZNNU1DQnh1LU9BNkpvNFBkUUQ4ZXJPYjFFN1p5LWU3MXhvLVNCbXg1dFV6TkNFSVBYTS1EYnJnVEtIb1RkNlAtOEpjWVBNOE5fNTJVNmVsOTExc3ZWUnpwNGNOR3BOcTZlS0VDOVc?oc=5"
         }
       ]
     },
