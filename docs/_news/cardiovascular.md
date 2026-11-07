@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre cardiovascular"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre cardiovascular. 3 notícias, 7 medicamentos relacionados."
+description: "Notícias de saúde sobre cardiovascular. 4 notícias, 7 medicamentos relacionados."
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Notícias sobre cardiovascular
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre cardiovascular?">
-<strong>cardiovascular</strong> tem atualmente <strong>3 notícias</strong> e 7 medicamentos relacionados.
+<strong>cardiovascular</strong> tem atualmente <strong>4 notícias</strong> e 7 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «cardiovascular�
 </ul>
 </div>
 
-## Notícias relacionadas (3)
+## Notícias relacionadas (4)
+
+### [Qual é o melhor horário para dormir? Estudo mostra por que ir cedo ou tarde demais afeta o coração - CNN Brasil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzloWFA5Ql94VFRNV1h0b3gyUnFNdElocy1tNkJMcmlXQXdsZGRFSHBzcmpFa2lKTmUyN203T3dWdmlpdUpBMlgtVlVoTWEwT1V0cVpqbzVkdUp6T2ctNzZCeEFDdDBGOXNHWDN2cDg0N0dFcHNKZVpYTmdza2ZlNjJnQVl5bExPU202WmZ2dTN6dVVPMUdJdFY1NXhVanY0ZTQ3RUdNajIzeTJ2OFZ2RE1mOV9oMzl2ZUFWLVpiUTl3YVBrVks2TW9TOXFNWjAtNjBmdXVuaw?oc=5)
+
+2026-11-05
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzloWFA5Ql94VFRNV1h0b3gyUnFNdElocy1tNkJMcmlXQXdsZGRFSHBzcmpFa2lKTmUyN203T3dWdmlpdUpBMlgtVlVoTWEwT1V0cVpqbzVkdUp6T2ctNzZCeEFDdDBGOXNHWDN2cDg0N0dFcHNKZVpYTmdza2ZlNjJnQVl5bExPU202WmZ2dTN6dVVPMUdJdFY1NXhVanY0ZTQ3RUdNajIzeTJ2OFZ2RE1mOV9oMzl2ZUFWLVpiUTl3YVBrVks2TW9TOXFNWjAtNjBmdXVuaw?oc=5)
+
+---
 
 ### [O melhor horário para ir dormir e reduzir a pressão arterial - Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUE2dk01TjhOZ0k3YmZuU1M5Z3duYU0tVXdJUHRDRFlDeDBqOG4yckJVb29lSDJjSzRRMnlhOUhyRVlJVlhqdHlmbWI5TkNSaDNQejlyTlJ4TElmMXQycVhSeVBPN2tadUIzVjB1QWZENlNldUlUQUNjbFlIeURvbVBjMXRMNjc2Y0VjbURhYnRFUXF5S3NDc0JxVEs?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer (generic_cancer). 29 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 32 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-07
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
-<strong>câncer (generic_cancer)</strong> tem atualmente <strong>29 notícias</strong> e 93 medicamentos relacionados.
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>32 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -119,7 +119,31 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (29)
+## Notícias relacionadas (32)
+
+### [Cupuaçu: o parente do cacau que intrigou cientistas contra o câncer, mas apenas em laboratório - Portal do Holanda](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3BuWlRIY1c1dkg4MTZRbWVNYjBRS01tYnB0SDZ0dDF6cXZYbXd6MTlyV2xOQ0tnTEVPd1h6Unc0Unk3QUZZRWlNQzVOV3F0eE5kN2Z3cjAwbG9zblhNZkJpalprSHNQSHBCYl9kZy1YSjJ0eUpwbWRfdjQyaUJJTTV5Yk05VTR5S1Y3RG52c3U0b29CdTdDZHVVcVJQeHVNX0FGOFhFX1B5aXc1NXlZTk5ZVXQ0NFh3UDVweTBhTjNNdWRycnZnMTVJWDlvd0xMY2FUQjhCMFoyUDEyNFY4?oc=5)
+
+2026-11-07
+
+Fonte: [Portal do Holanda](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3BuWlRIY1c1dkg4MTZRbWVNYjBRS01tYnB0SDZ0dDF6cXZYbXd6MTlyV2xOQ0tnTEVPd1h6Unc0Unk3QUZZRWlNQzVOV3F0eE5kN2Z3cjAwbG9zblhNZkJpalprSHNQSHBCYl9kZy1YSjJ0eUpwbWRfdjQyaUJJTTV5Yk05VTR5S1Y3RG52c3U0b29CdTdDZHVVcVJQeHVNX0FGOFhFX1B5aXc1NXlZTk5ZVXQ0NFh3UDVweTBhTjNNdWRycnZnMTVJWDlvd0xMY2FUQjhCMFoyUDEyNFY4?oc=5)
+
+---
+
+### [Terçol que não cura pode ser sinal de câncer, diz especialista a Kalil - CNN Brasil](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGE1bWNWQnN1N09JZEE5SVJTbjQwaUx5XzZzU2pTUmI2dzBray1XMk1URFVHeC1NRks0VkY1d1RCZmJTa2NnMVhQd0V4cGlueXYzVklKNHo1Vjhha3NjRERkczBsdkRxS01KVG16QnlTUVhaaUx2VDRoM25xMmNvRHZiNG9VWjVSb0s0amZBT2t1MldEdXlVMjJxejFma2dJU1BVM1pfbkg?oc=5)
+
+2026-11-06
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGE1bWNWQnN1N09JZEE5SVJTbjQwaUx5XzZzU2pTUmI2dzBray1XMk1URFVHeC1NRks0VkY1d1RCZmJTa2NnMVhQd0V4cGlueXYzVklKNHo1Vjhha3NjRERkczBsdkRxS01KVG16QnlTUVhaaUx2VDRoM25xMmNvRHZiNG9VWjVSb0s0amZBT2t1MldEdXlVMjJxejFma2dJU1BVM1pfbkg?oc=5)
+
+---
+
+### [HPV também pode causar câncer na boca e na garganta; dentista alerta para prevenção - Jornal Correio](https://news.google.com/rss/articles/CBMixgFBVV95cUxOS25wR0ZKcmNvR3BxNU9nNmhweGNxeGxqRUQ0MjFqVFFFQl9VaENNaDEtczZleHZZNGFLZWdXWmZyY3kweGVSOW5yamhpX1hzc0M1Rm1MMnl0dFVPWHlILV9RQ2JJd2JQRkltbXl1SHJWM1RRTEpXREhxQTY1ZW5zOXlRZkRBanBXbENuX29MR1AweURuS19KTFFRTXlwR2t0V3NFZ0w5NE9zTFJ3NFpvNmNYTW5DY3FLdEdidkNSbHlaMzRIM2c?oc=5)
+
+2026-11-06
+
+Fonte: [Jornal Correio](https://news.google.com/rss/articles/CBMixgFBVV95cUxOS25wR0ZKcmNvR3BxNU9nNmhweGNxeGxqRUQ0MjFqVFFFQl9VaENNaDEtczZleHZZNGFLZWdXWmZyY3kweGVSOW5yamhpX1hzc0M1Rm1MMnl0dFVPWHlILV9RQ2JJd2JQRkltbXl1SHJWM1RRTEpXREhxQTY1ZW5zOXlRZkRBanBXbENuX29MR1AweURuS19KTFFRTXlwR2t0V3NFZ0w5NE9zTFJ3NFpvNmNYTW5DY3FLdEdidkNSbHlaMzRIM2c?oc=5)
+
+---
 
 ### [Além do câncer: quatro doenças urológicas comuns entre homens - Diário do Centro do Mundo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFotVTNlVUxWcXNLMURpWm9mNjBSRm9RVE5HcHFiS0JOT1prQVVMeVVaMExXaGFBSWZOMEdOaWtXYWdPcVFOZFV3djJIbk0wajZMZ0pNRVVjNTJySHc5anB0UmxZQVhwbURVOXdIOGdGWGlHeDc0STR5MDVrVlB5YjBlcmtfUUl4SE9ESi1ibkV4ZDY1bEE?oc=5)
 
