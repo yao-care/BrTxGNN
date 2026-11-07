@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Metronidazole. 10 indicações previstas."
 permalink: /news/metronidazole/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Notícias sobre Metronidazole
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Metronidazole?">
-<strong>Metronidazole</strong> tem atualmente <strong>3 notícias</strong> e 10 indicações previstas.
+<strong>Metronidazole</strong> tem atualmente <strong>4 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Esta página combina as indicações previstas por IA para Metronidazole com as 
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (3)
+## Notícias relacionadas (4)
+
+### [Até que horas se pode tomar café? Estudo define horário limite para proteger o coração e o sono - CNN Brasil](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMjBtTUJSc1FOdWwwNDEtdmdyQXlZUGI2TGFHcFlWaWROTzZxSFRZd1VadXZUb25maml3Wll3N1dsazZVVkxTc2xlUFg0Y2huUy1TY1hpaE5ySkV1SDRBVDBtQ0o4UnRBZDRkSEFIUldsX0RHbWJiY1d4SlBPc2dCTlNKdHZOSFNnb09jQmZxWE9EdFdNak81UnNJWk44bEcyWjQyazhjUkdjSXQ2SldfNnJueERMVEF0U3VGVE9NVktsM1E5VTcyNktEeDRobEZwdmdB?oc=5)
+
+2026-11-05 <span class="news-indication-tag">menopausa</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMjBtTUJSc1FOdWwwNDEtdmdyQXlZUGI2TGFHcFlWaWROTzZxSFRZd1VadXZUb25maml3Wll3N1dsazZVVkxTc2xlUFg0Y2huUy1TY1hpaE5ySkV1SDRBVDBtQ0o4UnRBZDRkSEFIUldsX0RHbWJiY1d4SlBPc2dCTlNKdHZOSFNnb09jQmZxWE9EdFdNak81UnNJWk44bEcyWjQyazhjUkdjSXQ2SldfNnJueERMVEF0U3VGVE9NVktsM1E5VTcyNktEeDRobEZwdmdB?oc=5)
+
+---
 
 ### [Longevidade: os 5 hábitos comuns entre idosos brasileiros que vivem mais, segundo especialistas em envelhecimento saudável - CNN Brasil](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR2liSkhzUXR5NmwtQVk1bHpaa3BtUTBkZ0JRYUdxRGNsWTB1MUVJX1ppWWRWcUZndDF4QnFqcFVSMXFWaTZ3SnhhWEZmbWNmYUxtMmg4anFteERwdVZlLVFMc1NtVE5jWmVCTzU0YlUwZUpmWmV0dUNOb1NPWFdPUnA0SlBGREFzanhwcDkwRndRUld6bWRidjVpNllUWjZKWmdfY1dDOTBHUkpBWjBkSHVOV00xWFo1c0tNZkZOMVphb1k0UmJPUWlFZi01ek9tYzJtQ015cFRlUkZZbmo5RVc5RUdUeElvWm8tWmdYVkZkNDVyNlE?oc=5)
 

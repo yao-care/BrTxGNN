@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre demência (dementia)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre demência (dementia). 5 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre demência (dementia). 6 notícias, 4 medicamentos relacionados."
 permalink: /news/dementia/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Notícias sobre demência (dementia)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre demência (dementia)?">
-<strong>demência (dementia)</strong> tem atualmente <strong>5 notícias</strong> e 4 medicamentos relacionados.
+<strong>demência (dementia)</strong> tem atualmente <strong>6 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ Esta página reúne as notícias de saúde mais recentes sobre «demência» e l
 </ul>
 </div>
 
-## Notícias relacionadas (5)
+## Notícias relacionadas (6)
 
 ### [Guia da longevidade: Ana Cláudia Michels lista hábitos para evitar demência - UOL Notícias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmNVM3JhQms0bklFSmJSam5ZeFFKZ1p4MlZrd2UwV3pJaTRXNmFKSllzOWN5NWh6ZkI0VzZLLTlkLTFZUVFGYTRBTHU5YTZsOXEyU3h5Y1cwa1o2NjBfaGktNFFpWWJqZkpHNGdkci1wSU04cWxRZmE3RjhobGM3NVdxak9LVUlJTENyR0tBcVd5a1BTc3ROQ0J4b2lZd2lvdEdZTDRqdlNUZW4yR3FicXJ1MGpaWUZXa0hFQy1rSUw3V2h6N1piaXl4MjhuVHdYY1Rzbg?oc=5)
 
 2026-11-06
 
 Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmNVM3JhQms0bklFSmJSam5ZeFFKZ1p4MlZrd2UwV3pJaTRXNmFKSllzOWN5NWh6ZkI0VzZLLTlkLTFZUVFGYTRBTHU5YTZsOXEyU3h5Y1cwa1o2NjBfaGktNFFpWWJqZkpHNGdkci1wSU04cWxRZmE3RjhobGM3NVdxak9LVUlJTENyR0tBcVd5a1BTc3ROQ0J4b2lZd2lvdEdZTDRqdlNUZW4yR3FicXJ1MGpaWUZXa0hFQy1rSUw3V2h6N1piaXl4MjhuVHdYY1Rzbg?oc=5)
+
+---
+
+### [Cochilos de idosos à tarde podem ser indício de risco de demência](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFVTRFdfVnY4TUZBOHBDYkFhX1ZRNUlRQlRGRkhBcldJV2pscnFsdmhfN0YyZFF2MlZQX29nbzloQm5NNVhQV0c0cjI4ZVpEaGZ3RTkwQUpWTVhGRm83S3g1QzJRUGkzWk1Ib2FES1FkV2luOE9tUFY5cFd3NzNpUUFfNGRRbGo5cUtwTk1SdkxIQVJHcmdGVXRzcWFXTGQ1Unh1SnpyN0tuU3NNclF5MHNqRW1vUEnSAbcBQVVfeXFMTVpCUVpROWtibUFoMlMxa281N2xqS1IxV3dlOUNoWFpmdWk5UWxuVURhdW1Cc0drdDdpT045R1NtRE1pdzdjMWdweVptXzl0aVJ6dmtNc3NnQjVZZlNuX04zNThlOThkcjdUa2VjT29QelhMRVJ2bTBoV0VXVEQ5ZnZCNW5EU2JrVWFqazdVSzdVVmE0Z0tqMUtIWTFJbnJESmpFNGoyN3h4SFl5S25ES21FREdBNlkw?oc=5)
+
+2026-11-06
+
+Fonte: [DW.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFVTRFdfVnY4TUZBOHBDYkFhX1ZRNUlRQlRGRkhBcldJV2pscnFsdmhfN0YyZFF2MlZQX29nbzloQm5NNVhQV0c0cjI4ZVpEaGZ3RTkwQUpWTVhGRm83S3g1QzJRUGkzWk1Ib2FES1FkV2luOE9tUFY5cFd3NzNpUUFfNGRRbGo5cUtwTk1SdkxIQVJHcmdGVXRzcWFXTGQ1Unh1SnpyN0tuU3NNclF5MHNqRW1vUEnSAbcBQVVfeXFMTVpCUVpROWtibUFoMlMxa281N2xqS1IxV3dlOUNoWFpmdWk5UWxuVURhdW1Cc0drdDdpT045R1NtRE1pdzdjMWdweVptXzl0aVJ6dmtNc3NnQjVZZlNuX04zNThlOThkcjdUa2VjT29QelhMRVJ2bTBoV0VXVEQ5ZnZCNW5EU2JrVWFqazdVSzdVVmE0Z0tqMUtIWTFJbnJESmpFNGoyN3h4SFl5S25ES21FREdBNlkw?oc=5)
 
 ---
 

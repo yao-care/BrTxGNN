@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Letrozole. 4 indicações previstas."
 permalink: /news/letrozole/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Notícias sobre Letrozole
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Letrozole?">
-<strong>Letrozole</strong> tem atualmente <strong>31 notícias</strong> e 4 indicações previstas.
+<strong>Letrozole</strong> tem atualmente <strong>33 notícias</strong> e 4 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ Esta página combina as indicações previstas por IA para Letrozole com as not�
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (31)
+## Notícias relacionadas (33)
+
+### [Além do câncer: quatro doenças urológicas comuns entre homens - Diário do Centro do Mundo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFotVTNlVUxWcXNLMURpWm9mNjBSRm9RVE5HcHFiS0JOT1prQVVMeVVaMExXaGFBSWZOMEdOaWtXYWdPcVFOZFV3djJIbk0wajZMZ0pNRVVjNTJySHc5anB0UmxZQVhwbURVOXdIOGdGWGlHeDc0STR5MDVrVlB5YjBlcmtfUUl4SE9ESi1ibkV4ZDY1bEE?oc=5)
+
+2026-11-06 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Diário do Centro do Mundo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFotVTNlVUxWcXNLMURpWm9mNjBSRm9RVE5HcHFiS0JOT1prQVVMeVVaMExXaGFBSWZOMEdOaWtXYWdPcVFOZFV3djJIbk0wajZMZ0pNRVVjNTJySHc5anB0UmxZQVhwbURVOXdIOGdGWGlHeDc0STR5MDVrVlB5YjBlcmtfUUl4SE9ESi1ibkV4ZDY1bEE?oc=5)
+
+---
 
 ### [Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro - Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx5Q1c4QVB4VWYzclFIZFJNTjJ5THFHTnJab3BISTBBVXhoLUdnMGRENmJZRXVaOE1LcjBXR1lhMXJsbFBtY1Z0M0tCYzVWd00wMVl2QWE3TE92SzFvSzJILVFhdlhEX3E4TEoxa29SSUZ2dF9yM05xa1lRSF9DOGMzNEJyRzF5d0UwY2hHMFFPZG9pa3l2cmJzdjFORUJWbmEtbXJ0TmRvMHByN3AweloybFYzeEpmdVhUdjRvSXduajZoRkdndW41enU1UV9JS3c?oc=5)
 
@@ -51,6 +59,14 @@ Fonte: [Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx
 2026-11-05 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Exame](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU1Ob19Jbzd0S0RhNEVVd3ZZZFZHdWZmOWFoVDh5UU54ZHJzdS0zdGRLSEl2bWc1Q1VqS0wzaGpmcm5CQjhjTFp6TG5McDlrLWJLRHVwTzN1WXF5T1I1bGs3Y1pTNmgyRFJOeExKeU96TGlXc2xoUDQ4NXpyUWtLM0FfOVdjNFo1eXRNRHdFUXctMXBoeUtaLVEybTRxMmszY3dYYkFIcHRST2pqV2g1ZnExalVzMkk?oc=5)
+
+---
+
+### [Até que horas se pode tomar café? Estudo define horário limite para proteger o coração e o sono - CNN Brasil](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMjBtTUJSc1FOdWwwNDEtdmdyQXlZUGI2TGFHcFlWaWROTzZxSFRZd1VadXZUb25maml3Wll3N1dsazZVVkxTc2xlUFg0Y2huUy1TY1hpaE5ySkV1SDRBVDBtQ0o4UnRBZDRkSEFIUldsX0RHbWJiY1d4SlBPc2dCTlNKdHZOSFNnb09jQmZxWE9EdFdNak81UnNJWk44bEcyWjQyazhjUkdjSXQ2SldfNnJueERMVEF0U3VGVE9NVktsM1E5VTcyNktEeDRobEZwdmdB?oc=5)
+
+2026-11-05 <span class="news-indication-tag">menopausa</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMjBtTUJSc1FOdWwwNDEtdmdyQXlZUGI2TGFHcFlWaWROTzZxSFRZd1VadXZUb25maml3Wll3N1dsazZVVkxTc2xlUFg0Y2huUy1TY1hpaE5ySkV1SDRBVDBtQ0o4UnRBZDRkSEFIUldsX0RHbWJiY1d4SlBPc2dCTlNKdHZOSFNnb09jQmZxWE9EdFdNak81UnNJWk44bEcyWjQyazhjUkdjSXQ2SldfNnJueERMVEF0U3VGVE9NVktsM1E5VTcyNktEeDRobEZwdmdB?oc=5)
 
 ---
 

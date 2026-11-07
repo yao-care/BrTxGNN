@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer (generic_cancer). 28 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 29 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Notícias sobre câncer (generic_cancer)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
-<strong>câncer (generic_cancer)</strong> tem atualmente <strong>28 notícias</strong> e 93 medicamentos relacionados.
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>29 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -119,7 +119,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (28)
+## Notícias relacionadas (29)
+
+### [Além do câncer: quatro doenças urológicas comuns entre homens - Diário do Centro do Mundo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFotVTNlVUxWcXNLMURpWm9mNjBSRm9RVE5HcHFiS0JOT1prQVVMeVVaMExXaGFBSWZOMEdOaWtXYWdPcVFOZFV3djJIbk0wajZMZ0pNRVVjNTJySHc5anB0UmxZQVhwbURVOXdIOGdGWGlHeDc0STR5MDVrVlB5YjBlcmtfUUl4SE9ESi1ibkV4ZDY1bEE?oc=5)
+
+2026-11-06
+
+Fonte: [Diário do Centro do Mundo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFotVTNlVUxWcXNLMURpWm9mNjBSRm9RVE5HcHFiS0JOT1prQVVMeVVaMExXaGFBSWZOMEdOaWtXYWdPcVFOZFV3djJIbk0wajZMZ0pNRVVjNTJySHc5anB0UmxZQVhwbURVOXdIOGdGWGlHeDc0STR5MDVrVlB5YjBlcmtfUUl4SE9ESi1ibkV4ZDY1bEE?oc=5)
+
+---
 
 ### [Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro - Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx5Q1c4QVB4VWYzclFIZFJNTjJ5THFHTnJab3BISTBBVXhoLUdnMGRENmJZRXVaOE1LcjBXR1lhMXJsbFBtY1Z0M0tCYzVWd00wMVl2QWE3TE92SzFvSzJILVFhdlhEX3E4TEoxa29SSUZ2dF9yM05xa1lRSF9DOGMzNEJyRzF5d0UwY2hHMFFPZG9pa3l2cmJzdjFORUJWbmEtbXJ0TmRvMHByN3AweloybFYzeEpmdVhUdjRvSXduajZoRkdndW41enU1UV9JS3c?oc=5)
 
