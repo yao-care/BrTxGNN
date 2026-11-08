@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Avibactam?">
-<strong>Avibactam</strong> tem atualmente <strong>33 notícias</strong> e 4 indicações previstas.
+<strong>Avibactam</strong> tem atualmente <strong>35 notícias</strong> e 4 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ Esta página combina as indicações previstas por IA para Avibactam com as not�
 <p><a href="{{ '/drugs/avibactam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (33)
+## Notícias relacionadas (35)
+
+### [Câncer de pulmão: tomografia de baixa dose reduz mortalidade entre pessoas de alto risco, aponta estudo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEN5TDVaaWsySl9VRm51WGhnWE1rb09paV9fX2lqdVlNSVpVYkxKcDlyUVVTWjhKZ1RsaHZxc1hubWxiWlhFUXpnZFpDVTRZTmxrN29tSHhPMzE4cFhSVUpxRHJFSTB3OG9ENHltSm1GdS1oQ0VLLUV0NnZTNzFyVUNHUjFxUDM0UV9WMlhCLS13ME5EalluU3lIc1lGR19pY1owTTRYX3FTUG1rUTBXX3FIU2VEVjlGVm4wbGROajlNbWx6bkQ5RUQ0YlQ0LUdUU09wN0xqQ1J2RUlTWGNuWTdYVDlQMnZB?oc=5)
+
+2026-11-08 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de pulmão</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEN5TDVaaWsySl9VRm51WGhnWE1rb09paV9fX2lqdVlNSVpVYkxKcDlyUVVTWjhKZ1RsaHZxc1hubWxiWlhFUXpnZFpDVTRZTmxrN29tSHhPMzE4cFhSVUpxRHJFSTB3OG9ENHltSm1GdS1oQ0VLLUV0NnZTNzFyVUNHUjFxUDM0UV9WMlhCLS13ME5EalluU3lIc1lGR19pY1owTTRYX3FTUG1rUTBXX3FIU2VEVjlGVm4wbGROajlNbWx6bkQ5RUQ0YlQ0LUdUU09wN0xqQ1J2RUlTWGNuWTdYVDlQMnZB?oc=5)
+
+---
 
 ### [Câncer nos olhos: quais sinais observar em crianças? Entenda com Dr. Kalil - CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVRSl9nVzdOTlNuRHUzUWs4anZNSlhHN1lIOUEtbWZ2M3I5bFNFRGJBeVljZmx2a1JOcC1VSEdmV05rMkVqZ2Z6UDlYOGhxQlJiTHZKeVA3ZUFfSFhvVHotUnNuTGs3RVJqeFpGd3NRSUlDbW0yaWFuTFlmXzhGR0s3YlpBSE8xZHhPU1NjUEJlTXZRUEVaTFN5WFVrU1ZKUk5xc2pQYXFaUzQ?oc=5)
 
 2026-11-07 <span class="news-indication-tag">câncer</span>
 
 Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVRSl9nVzdOTlNuRHUzUWs4anZNSlhHN1lIOUEtbWZ2M3I5bFNFRGJBeVljZmx2a1JOcC1VSEdmV05rMkVqZ2Z6UDlYOGhxQlJiTHZKeVA3ZUFfSFhvVHotUnNuTGs3RVJqeFpGd3NRSUlDbW0yaWFuTFlmXzhGR0s3YlpBSE8xZHhPU1NjUEJlTXZRUEVaTFN5WFVrU1ZKUk5xc2pQYXFaUzQ?oc=5)
+
+---
+
+### [Toque de Saúde. Por: Dr. Douglas Andrade](https://news.google.com/rss/articles/CBMic0FVX3lxTE42S2gyWnFCZUFTdkNydzhndkVkel9nREhxbkJUdi1tTkFIbHpJSXgwcFZhdEl2eUc3c3pFWkN4UVlNSXNTX01hSGNEZnlvVGxCWGNoSDVmUzNGLW1raW5laE94T210T19wRGNfbGlkb1pxcmc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Guiacampos.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE42S2gyWnFCZUFTdkNydzhndkVkel9nREhxbkJUdi1tTkFIbHpJSXgwcFZhdEl2eUc3c3pFWkN4UVlNSXNTX01hSGNEZnlvVGxCWGNoSDVmUzNGLW1raW5laE94T210T19wRGNfbGlkb1pxcmc?oc=5)
 
 ---
 

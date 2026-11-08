@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer (generic_cancer). 33 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 35 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-08
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
-<strong>câncer (generic_cancer)</strong> tem atualmente <strong>33 notícias</strong> e 93 medicamentos relacionados.
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>35 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -119,13 +119,29 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (33)
+## Notícias relacionadas (35)
+
+### [Câncer de pulmão: tomografia de baixa dose reduz mortalidade entre pessoas de alto risco, aponta estudo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEN5TDVaaWsySl9VRm51WGhnWE1rb09paV9fX2lqdVlNSVpVYkxKcDlyUVVTWjhKZ1RsaHZxc1hubWxiWlhFUXpnZFpDVTRZTmxrN29tSHhPMzE4cFhSVUpxRHJFSTB3OG9ENHltSm1GdS1oQ0VLLUV0NnZTNzFyVUNHUjFxUDM0UV9WMlhCLS13ME5EalluU3lIc1lGR19pY1owTTRYX3FTUG1rUTBXX3FIU2VEVjlGVm4wbGROajlNbWx6bkQ5RUQ0YlQ0LUdUU09wN0xqQ1J2RUlTWGNuWTdYVDlQMnZB?oc=5)
+
+2026-11-08
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEN5TDVaaWsySl9VRm51WGhnWE1rb09paV9fX2lqdVlNSVpVYkxKcDlyUVVTWjhKZ1RsaHZxc1hubWxiWlhFUXpnZFpDVTRZTmxrN29tSHhPMzE4cFhSVUpxRHJFSTB3OG9ENHltSm1GdS1oQ0VLLUV0NnZTNzFyVUNHUjFxUDM0UV9WMlhCLS13ME5EalluU3lIc1lGR19pY1owTTRYX3FTUG1rUTBXX3FIU2VEVjlGVm4wbGROajlNbWx6bkQ5RUQ0YlQ0LUdUU09wN0xqQ1J2RUlTWGNuWTdYVDlQMnZB?oc=5)
+
+---
 
 ### [Câncer nos olhos: quais sinais observar em crianças? Entenda com Dr. Kalil - CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVRSl9nVzdOTlNuRHUzUWs4anZNSlhHN1lIOUEtbWZ2M3I5bFNFRGJBeVljZmx2a1JOcC1VSEdmV05rMkVqZ2Z6UDlYOGhxQlJiTHZKeVA3ZUFfSFhvVHotUnNuTGs3RVJqeFpGd3NRSUlDbW0yaWFuTFlmXzhGR0s3YlpBSE8xZHhPU1NjUEJlTXZRUEVaTFN5WFVrU1ZKUk5xc2pQYXFaUzQ?oc=5)
 
 2026-11-07
 
 Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVRSl9nVzdOTlNuRHUzUWs4anZNSlhHN1lIOUEtbWZ2M3I5bFNFRGJBeVljZmx2a1JOcC1VSEdmV05rMkVqZ2Z6UDlYOGhxQlJiTHZKeVA3ZUFfSFhvVHotUnNuTGs3RVJqeFpGd3NRSUlDbW0yaWFuTFlmXzhGR0s3YlpBSE8xZHhPU1NjUEJlTXZRUEVaTFN5WFVrU1ZKUk5xc2pQYXFaUzQ?oc=5)
+
+---
+
+### [Toque de Saúde. Por: Dr. Douglas Andrade](https://news.google.com/rss/articles/CBMic0FVX3lxTE42S2gyWnFCZUFTdkNydzhndkVkel9nREhxbkJUdi1tTkFIbHpJSXgwcFZhdEl2eUc3c3pFWkN4UVlNSXNTX01hSGNEZnlvVGxCWGNoSDVmUzNGLW1raW5laE94T210T19wRGNfbGlkb1pxcmc?oc=5)
+
+2026-11-07
+
+Fonte: [Guiacampos.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE42S2gyWnFCZUFTdkNydzhndkVkel9nREhxbkJUdi1tTkFIbHpJSXgwcFZhdEl2eUc3c3pFWkN4UVlNSXNTX01hSGNEZnlvVGxCWGNoSDVmUzNGLW1raW5laE94T210T19wRGNfbGlkb1pxcmc?oc=5)
 
 ---
 

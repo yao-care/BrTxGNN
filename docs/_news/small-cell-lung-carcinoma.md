@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer de pulmão (small cell lung carcinoma)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de pulmão (small cell lung carcinoma). 3 notícias, 2 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de pulmão (small cell lung carcinoma). 4 notícias, 2 medicamentos relacionados."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-08
 ---
 
 # Notícias sobre câncer de pulmão (small cell lung carcinoma)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de pulmão (small cell lung carcinoma)?">
-<strong>câncer de pulmão (small cell lung carcinoma)</strong> tem atualmente <strong>3 notícias</strong> e 2 medicamentos relacionados.
+<strong>câncer de pulmão (small cell lung carcinoma)</strong> tem atualmente <strong>4 notícias</strong> e 2 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de pulm
 </ul>
 </div>
 
-## Notícias relacionadas (3)
+## Notícias relacionadas (4)
+
+### [Câncer de pulmão: tomografia de baixa dose reduz mortalidade entre pessoas de alto risco, aponta estudo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEN5TDVaaWsySl9VRm51WGhnWE1rb09paV9fX2lqdVlNSVpVYkxKcDlyUVVTWjhKZ1RsaHZxc1hubWxiWlhFUXpnZFpDVTRZTmxrN29tSHhPMzE4cFhSVUpxRHJFSTB3OG9ENHltSm1GdS1oQ0VLLUV0NnZTNzFyVUNHUjFxUDM0UV9WMlhCLS13ME5EalluU3lIc1lGR19pY1owTTRYX3FTUG1rUTBXX3FIU2VEVjlGVm4wbGROajlNbWx6bkQ5RUQ0YlQ0LUdUU09wN0xqQ1J2RUlTWGNuWTdYVDlQMnZB?oc=5)
+
+2026-11-08
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEN5TDVaaWsySl9VRm51WGhnWE1rb09paV9fX2lqdVlNSVpVYkxKcDlyUVVTWjhKZ1RsaHZxc1hubWxiWlhFUXpnZFpDVTRZTmxrN29tSHhPMzE4cFhSVUpxRHJFSTB3OG9ENHltSm1GdS1oQ0VLLUV0NnZTNzFyVUNHUjFxUDM0UV9WMlhCLS13ME5EalluU3lIc1lGR19pY1owTTRYX3FTUG1rUTBXX3FIU2VEVjlGVm4wbGROajlNbWx6bkQ5RUQ0YlQ0LUdUU09wN0xqQ1J2RUlTWGNuWTdYVDlQMnZB?oc=5)
+
+---
 
 ### [Estudo aponta combinação capaz de conter avanço de câncer de pulmão - CNN Brasil](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGdjR1YzaWJjMndDaHJlU0RFN0xtZXpsQzUtU1Vuak9FMVVNTXBlc0xyVk5nSVdDb09CTEt3alpFbEtCbE5pRWZsT3F2VEpzTkF5azVWSnd2eDJvZy1QYmViWS1yblhRSkQ0QWlfVHIxY2w4Mm1PRmVGazllV05Cc1BaUDhHaXpUblVDQUU4TElsRlZFMm9DZm1nUnJsLWJQdVlFRnRB?oc=5)
 
