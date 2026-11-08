@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Gefitinib. 9 indicações previstas."
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Notícias sobre Gefitinib
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gefitinib?">
-<strong>Gefitinib</strong> tem atualmente <strong>38 notícias</strong> e 9 indicações previstas.
+<strong>Gefitinib</strong> tem atualmente <strong>39 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Esta página combina as indicações previstas por IA para Gefitinib com as not�
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (38)
+## Notícias relacionadas (39)
+
+### [Câncer nos olhos: quais sinais observar em crianças? Entenda com Dr. Kalil - CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVRSl9nVzdOTlNuRHUzUWs4anZNSlhHN1lIOUEtbWZ2M3I5bFNFRGJBeVljZmx2a1JOcC1VSEdmV05rMkVqZ2Z6UDlYOGhxQlJiTHZKeVA3ZUFfSFhvVHotUnNuTGs3RVJqeFpGd3NRSUlDbW0yaWFuTFlmXzhGR0s3YlpBSE8xZHhPU1NjUEJlTXZRUEVaTFN5WFVrU1ZKUk5xc2pQYXFaUzQ?oc=5)
+
+2026-11-07 <span class="news-indication-tag">câncer</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVRSl9nVzdOTlNuRHUzUWs4anZNSlhHN1lIOUEtbWZ2M3I5bFNFRGJBeVljZmx2a1JOcC1VSEdmV05rMkVqZ2Z6UDlYOGhxQlJiTHZKeVA3ZUFfSFhvVHotUnNuTGs3RVJqeFpGd3NRSUlDbW0yaWFuTFlmXzhGR0s3YlpBSE8xZHhPU1NjUEJlTXZRUEVaTFN5WFVrU1ZKUk5xc2pQYXFaUzQ?oc=5)
+
+---
 
 ### [Cupuaçu: o parente do cacau que intrigou cientistas contra o câncer, mas apenas em laboratório - Portal do Holanda](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3BuWlRIY1c1dkg4MTZRbWVNYjBRS01tYnB0SDZ0dDF6cXZYbXd6MTlyV2xOQ0tnTEVPd1h6Unc0Unk3QUZZRWlNQzVOV3F0eE5kN2Z3cjAwbG9zblhNZkJpalprSHNQSHBCYl9kZy1YSjJ0eUpwbWRfdjQyaUJJTTV5Yk05VTR5S1Y3RG52c3U0b29CdTdDZHVVcVJQeHVNX0FGOFhFX1B5aXc1NXlZTk5ZVXQ0NFh3UDVweTBhTjNNdWRycnZnMTVJWDlvd0xMY2FUQjhCMFoyUDEyNFY4?oc=5)
 
@@ -63,7 +71,7 @@ Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGE1bWN
 
 2026-11-06 <span class="news-indication-tag">demência</span>
 
-Fonte: [DW.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFVTRFdfVnY4TUZBOHBDYkFhX1ZRNUlRQlRGRkhBcldJV2pscnFsdmhfN0YyZFF2MlZQX29nbzloQm5NNVhQV0c0cjI4ZVpEaGZ3RTkwQUpWTVhGRm83S3g1QzJRUGkzWk1Ib2FES1FkV2luOE9tUFY5cFd3NzNpUUFfNGRRbGo5cUtwTk1SdkxIQVJHcmdGVXRzcWFXTGQ1Unh1SnpyN0tuU3NNclF5MHNqRW1vUEnSAbcBQVVfeXFMTVpCUVpROWtibUFoMlMxa281N2xqS1IxV3dlOUNoWFpmdWk5UWxuVURhdW1Cc0drdDdpT045R1NtRE1pdzdjMWdweVptXzl0aVJ6dmtNc3NnQjVZZlNuX04zNThlOThkcjdUa2VjT29QelhMRVJ2bTBoV0VXVEQ5ZnZCNW5EU2JrVWFqazdVSzdVVmE0Z0tqMUtIWTFJbnJESmpFNGoyN3h4SFl5S25ES21FREdBNlkw?oc=5) · [UOL Notícias](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOem82cXdQRVJ5cWs1UGNNV0M1NjBLa2VlS2ZIMlpOZVVHQ0wyRGNQdUplQ215eUJ1MHo3czAxT0ppT0NrMkpQMFdJZlZ4d1dEX2lXNE5nN0ZlRm92SGljREpQQTF2OEoyUGx4T3A0RTJXNUdaaGhxR0stT1RnbDRKQjJmblIwSWV2X2J3YnVvdTZqMnBXamlWRjh3ajBuS0N3X09saGFyV0NwTnIzV2thTDdzaTVmSWJnYlY0WFJBVXpsQmRyWHBnTGZ0SXR5NlQwMEpyNkFn?oc=5)
+Fonte: [DW.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFVTRFdfVnY4TUZBOHBDYkFhX1ZRNUlRQlRGRkhBcldJV2pscnFsdmhfN0YyZFF2MlZQX29nbzloQm5NNVhQV0c0cjI4ZVpEaGZ3RTkwQUpWTVhGRm83S3g1QzJRUGkzWk1Ib2FES1FkV2luOE9tUFY5cFd3NzNpUUFfNGRRbGo5cUtwTk1SdkxIQVJHcmdGVXRzcWFXTGQ1Unh1SnpyN0tuU3NNclF5MHNqRW1vUEnSAbcBQVVfeXFMTVpCUVpROWtibUFoMlMxa281N2xqS1IxV3dlOUNoWFpmdWk5UWxuVURhdW1Cc0drdDdpT045R1NtRE1pdzdjMWdweVptXzl0aVJ6dmtNc3NnQjVZZlNuX04zNThlOThkcjdUa2VjT29QelhMRVJ2bTBoV0VXVEQ5ZnZCNW5EU2JrVWFqazdVSzdVVmE0Z0tqMUtIWTFJbnJESmpFNGoyN3h4SFl5S25ES21FREdBNlkw?oc=5)
 
 ---
 

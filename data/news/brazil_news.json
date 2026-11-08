@@ -1,14 +1,14 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-08T04:59:07.615171+00:00",
-  "total_fetched": 97,
-  "unique_count": 95,
-  "health_related_count": 35,
+  "fetched_at": "2026-11-08T12:55:02.143951+00:00",
+  "total_fetched": 98,
+  "unique_count": 97,
+  "health_related_count": 32,
   "news": [
     {
       "id": "4272d4734b1f",
       "title": "Brasil vai desenvolver seu primeiro foguete orbital em parceria com a Índia - O GLOBO",
-      "published": "2026-11-08T03:00:00+00:00",
+      "published": "2026-11-08T10:06:19+00:00",
       "summary": "Brasil vai desenvolver seu primeiro foguete orbital em parceria com a Índia&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
@@ -18,14 +18,86 @@
       ]
     },
     {
+      "id": "8fb092f60430",
+      "title": "Doença autoimune pode ser desencadeada por estresse? O que diz a ciência - UOL",
+      "published": "2026-11-08T08:30:00+00:00",
+      "summary": "Doença autoimune pode ser desencadeada por estresse? O que diz a ciência&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU0dmcE5OaG5qYnJoNFBzRGdQWk9BYXhEYm1QTGR0eVV0Y3hmWkN5RU1qRFEtZS0tbHg2RmQ5czRsWE5OTG5ZZVVmeUxjOHBzVFVCMHJnNDQ0YW5VTFhwcFB0Z0lvMDVnb2I0YXpyX1lMRmVRVFFzTElhOF9CYlVOVG1uQ0JILVFTWHRDODUtMTNKcDlZTU5kWjl1d0E1S0g1bF85aVdOaFNTamZ5bFlOS3Z2aUxRUWlTdmllWUxzYlY4Y0dfUG1kcEJrWkJVNVU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b7b3f95954b",
+      "title": "A ‘Doença do Nobel’ e o risco da falácia de autoridade: por que grandes cientistas erram - Estadão",
+      "published": "2026-11-08T08:30:00+00:00",
+      "summary": "A ‘Doença do Nobel’ e o risco da falácia de autoridade: por que grandes cientistas erram&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ25iaWxRaE1LaDRjWC1QU3V2YUlpVWFiN3hwY3FDUktfa2hWc0hQS2lnSXRQQWMzbkM4QWctd2RpT1d6bDZjX29SYjR5RTg2LUp5dlNET2swLXlfT2NBTnlLSXBRVVJiTUVPQjY3MU1hWmc3emNvNkNPLXFIUnpjemFzM0sxYnl5aHBLY1pVQURqdTJMaDNrTFpQbFJPTWxHOVp2aDNnNE1IUlJYQVpmWDh6bU1Ob3hsN20xLUVtbkhsVE5Dekc1T3lWd19vRGJxejJET2h3NkPSAd4BQVVfeXFMUHcyeXJaaGMwNmFYWmhKZVluU0w0dnBLa2ZfUFlxMnhNektpTURiTi0tR0RKLW9Uaklsc3lfRHBKTXQ5cVdkNTF1VlN5TnlFY1JCRVFBRmpUMlRXUFJVcGMzcE1qTmpMWW1BbWJyTUJNWUxYa3RyVTRyZTR5WUw2OWlXeXJXajB1LUxRZW16WDJoNjRyTm42ZTkwSUwxcENUNGg3RmdmcU5HMXlsNk95QkhVSVM0Q19Td1B0YUxyVnRHQ0VfUjl4a3o1YVlZRXF0d1doQlZhaGhWS0RfMUZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb0f090bc7af",
+      "title": "O que está por trás do pânico em relação aos alimentos ultraprocessados? - O GLOBO",
+      "published": "2026-11-08T07:30:00+00:00",
+      "summary": "O que está por trás do pânico em relação aos alimentos ultraprocessados?&nbsp;&nbsp;O GLOBOComer sem conseguir parar pode ser sinal de alerta; estudo brasileiro aponta relação com ultraprocessados&nbsp;&nbsp;Jornal CorreioPesquisa aponta que 45% dos brasileiros consomem ultraprocessados e já tentaram reduzir ingestão; nutróloga orienta&nbsp;&nbsp;Tribuna HojeMenos ultraprocessados, mais saúde? O que começa a mudar no seu corpo nos primeiros dias&nbsp;&nbsp;Executive DigestUltraprocessados e difi",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGtCYXBRUndQTGtZTDVCVm1YZlU0b1NXWmEzZ1VaTEpkV1VZb1R2TTBDenV2WldodTlXa09ubHpFZ3pxcXJLZzVIbUtWLVoxUzJ6YTZqUDAwVXhWSHJhUUVOU2MxVUVHUVczUVlwLXdaRlYtOTZlRFFTWjlNdml4OTBXREFKSHdKMy1DTTJNVmgtalRibG5oRlZUZjVqQndBWV81bDJRazc4UzRhNXJHWHotM2FGXzMwaXBOV3d5WVVEb01iMkHSAdQBQVVfeXFMTW5ZVDJ3ZlpuOVBuaWpHS3M1WVZ0NmpvOERhbkR2ZW5IUjFlQURVZ3VJa0s5UWJrdXR5dmxHT0JlalE5X0p6SVhXNmgxRVBEd0FlN0x2NDI1QmFfeDRYSFBTNk9KZ3JsNWhqWFhiTmZZQkNRODdHZUlzTjBNc2hjeVlzOTVDdUd1cG1WNFVMYzRWNm9xZGJRYjZwdlcxallnOHZjZ2FfTkp6ZU5RVnB0SDdSRHRvNXJGSHZjQ1BEQ3JtenZPNFlTRmIxbG9LenNMdWRKaGQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b66fa06c35f6",
+      "title": "El Niño acende alerta para dengue em 2027; projeção aponta chance de 866 mil casos - G1",
+      "published": "2026-11-08T07:00:00+00:00",
+      "summary": "El Niño acende alerta para dengue em 2027; projeção aponta chance de 866 mil casos&nbsp;&nbsp;G1País pode chegar a 860 mil casos prováveis de dengue em 2027&nbsp;&nbsp;Agência BrasilDengue: Brasil registra quase 490 mil casos e especialistas alertam para avanço da doença&nbsp;&nbsp;R7Saúde alerta para alta da dengue e tenta retomar vacina Butantan-DV&nbsp;&nbsp;Poder360Dengue pode causar complicações graves e levar à morte; conheça os sintomas de alerta&nbsp;&nbsp;Folha BV",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVZ1UlBPdGw2N1hFR2l3NmZqMGdidlpkaU5kcDVUaUVNRjM1RXZnTTRpUHB2aTB3dGl2NjNJUzU0RTlNc295QVZ2RTdJUEhWWEtMNzh1Z2tpUDJYaDFzbzNrVVdudVc5MkZqU3NrY19hNlBuTnV3X2dkcFN1UDNyeWtZMWc2Y3NNY05LZmcyX3JqR0ZZLTlOR9IBpwFBVV95cUxOcENRS1hwaUdRQ3VPQ1VER3RGNUE5akxYdGZoVmdhZy1UOTd2dGc0RkpMRjNGZWFQdGliTGtubTR1UmJtLUc3UUdqQThzb241am5vMHFlUmxQNFRCQ0ZOMUppdlNwVUgtTi13ZmZVdWRYYlJYNmtfTmxseG5MbW5oUE9QenJ1QnloWDZjSTNwZGpfMHN0Sm85aWxnaDVkNHdtMVVQMVQ4Zw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0e1e35a332af",
       "title": "A pressão deveria ser ainda mais baixa para proteger cérebro e coração - UOL",
-      "published": "2026-11-08T02:14:49+00:00",
+      "published": "2026-11-08T03:53:51+00:00",
       "summary": "A pressão deveria ser ainda mais baixa para proteger cérebro e coração&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUpKOHJFWUs1YjlrMWlfd01WbE02T3NyX1BGR2VmRW8xTWs3cV85cUo4bUI2OThRY3ZpMm9lcGRaaW1EdHZ1Ymx1dEI5ZzRldlJNbi13bWpzY0JJTlNqeDhxVWIyd0dUTWswYnNjZHdSelFBZFVGZDZEY1R5RllLSHY3UEVNNnFtVU9ZWE40QW1ZWTZnOWZNWl9rb3hrelZBTHZlRUJCSnBEN1lWcXhCV0ZfTXdTT29WOUJkUC1pdng?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6600d99d806",
+      "title": "Remédio popular contra hipertensão pode ter efeito sobre perda de peso; entenda pesquisa - Diário do Nordeste",
+      "published": "2026-11-07T23:29:00+00:00",
+      "summary": "Remédio popular contra hipertensão pode ter efeito sobre perda de peso; entenda pesquisa&nbsp;&nbsp;Diário do NordesteRemédio popular para hipertensão pode ter efeito na perda de peso; saiba qual é&nbsp;&nbsp;O GLOBOLosartana ativa gordura marrom, sem prova de emagrecer&nbsp;&nbsp;SpaceMoneyLosartana emagrece? Veja o que descobriu novo estudo&nbsp;&nbsp;ncnews.com.br",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcDc3LXUwLVBZWTgzR2tTSVJ3Q0ExV0licHZZUXlROEJWbUQ5Vnh6N3MzcnVjYXhtZUNlN05Ec0RVTF9rRTI1RS1BWnFZNXZHc0g5WU5YVFdsOG92cmN2bVFRMzVTLU13OHFsMGV1b092VEM1aFFZc3p0dXZQaHBaUFFFMURUaHlNWl9LMjNKbVp5SGNMeHl0RlFfS3cxWEN0TFJSQy15MWh5VEJTM2hwUldpYjJIQ3oyblNjUzV3dGh5QXJFaUJzaW9YZ3U2OXlRLVZnZ1RLYmFvOTZjaXhpYlNPTV9fdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f785985f9d8f",
+      "title": "Câncer nos olhos: quais sinais observar em crianças? Entenda com Dr. Kalil - CNN Brasil",
+      "published": "2026-11-07T22:30:23+00:00",
+      "summary": "Câncer nos olhos: quais sinais observar em crianças? Entenda com Dr. Kalil&nbsp;&nbsp;CNN BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVRSl9nVzdOTlNuRHUzUWs4anZNSlhHN1lIOUEtbWZ2M3I5bFNFRGJBeVljZmx2a1JOcC1VSEdmV05rMkVqZ2Z6UDlYOGhxQlJiTHZKeVA3ZUFfSFhvVHotUnNuTGs3RVJqeFpGd3NRSUlDbW0yaWFuTFlmXzhGR0s3YlpBSE8xZHhPU1NjUEJlTXZRUEVaTFN5WFVrU1ZKUk5xc2pQYXFaUzQ?oc=5"
         }
       ]
     },
@@ -45,7 +117,7 @@
       "id": "d2e21e19cafc",
       "title": "Jovens têm os piores índices de saúde mental em estudo com 92 países - UOL",
       "published": "2026-11-07T20:00:00+00:00",
-      "summary": "Jovens têm os piores índices de saúde mental em estudo com 92 países&nbsp;&nbsp;UOLSaúde mental dos jovens piora em 92 países e acende alerta global, aponta estudo&nbsp;&nbsp;Terra",
+      "summary": "Jovens têm os piores índices de saúde mental em estudo com 92 países&nbsp;&nbsp;UOLSaúde mental de jovens está piorando no mundo, diz estudo com pessoas de 92 países&nbsp;&nbsp;GloboJovens de 18 a 25 anos têm os piores índices de saúde mental em estudo com 92 países&nbsp;&nbsp;Francês NewsSaúde mental dos jovens piora em 92 países e acende alerta global, aponta estudo&nbsp;&nbsp;Bons Fluidos",
       "sources": [
         {
           "name": "UOL",
@@ -69,23 +141,11 @@
       "id": "3f0db7a15dd6",
       "title": "DF recebe 100 doses de vacina contra Mpox e aplicará em grupo prioritário - Metrópoles",
       "published": "2026-11-07T18:20:00+00:00",
-      "summary": "DF recebe 100 doses de vacina contra Mpox e aplicará em grupo prioritário&nbsp;&nbsp;MetrópolesMinistério da Saúde envia 100 doses de vacina contra Mpox ao DF; público-alvo é restrito&nbsp;&nbsp;G1Mpox pode ocorrer sem febre e com uma única lesão: saiba reconhecer os sinais&nbsp;&nbsp;Jornal de BrasíliaMpox: saiba quem poderá receber a vacina no Distrito Federal&nbsp;&nbsp;Correio BrazilienseMpox: Secretaria de Saúde orienta população sobre prevenção e sintomas da doença&nbsp;&nbsp;Secretaria de",
+      "summary": "DF recebe 100 doses de vacina contra Mpox e aplicará em grupo prioritário&nbsp;&nbsp;MetrópolesMinistério da Saúde envia 100 doses de vacina contra Mpox ao DF; público-alvo é restrito&nbsp;&nbsp;G1Mpox pode ocorrer sem febre e com uma única lesão: saiba reconhecer os sinais&nbsp;&nbsp;Jornal de BrasíliaMpox: saiba quem poderá receber a vacina no Distrito Federal&nbsp;&nbsp;Correio BrazilienseMenos pânico, mais informação: novos casos de mpox reforçam importância da prevenção, diagnóstico precoce",
       "sources": [
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTlVJRFFWY05sVl9JQ1BJVXc2TjktaU05NE9TYU5FcUFIbE5RamNVQ3AtTEJTb2h4NjFXYVUyTFIwUDRxeENjVXZiamo4RzBfY3VNeFA0djQ1RmV1TmhRVjJVUVdsdTVVZ1hlN1VqaDh6bDJ1S1NyQmlEbWhPUkdwSmY3Nmw1Sm1XSEViV2M2LUVSdGVEYk03TVd5T0dXT0g3dmFHNlc2bnRzbEpLZG00LVFPZlB3NDV1UE1FSFdiRTU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "08bbc6881692",
-      "title": "Remédio popular para hipertensão pode ter efeito na perda de peso; saiba qual é - O GLOBO",
-      "published": "2026-11-07T18:00:18+00:00",
-      "summary": "Remédio popular para hipertensão pode ter efeito na perda de peso; saiba qual é&nbsp;&nbsp;O GLOBORemédio popular contra hipertensão pode ter efeito sobre perda de peso; entenda pesquisa&nbsp;&nbsp;Diário do NordesteLosartana ativa gordura marrom, sem prova de emagrecer&nbsp;&nbsp;SpaceMoneyLosartana emagrece? Veja o que descobriu novo estudo&nbsp;&nbsp;ncnews.com.br",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWd6NC1kcHg0aEhLaFpCZW9QTXJ2RUtGc3ZkVDFtem5MRDJiWEZFMkpKeGJyN25fTkdEMmtQd1pzR2VQUGVNMDNNUFo4SlMtb0czVWV0QmpfVEkydVczMUtFT1c0d1FCSHZXMFZIdW03QWpIaER5RmR4bktLNHBoTDlUb0UwS3U5bTNuWTFoN3VId2pScGlTTnhOQzBUSV9VaWR4cEJHbnFoNVRDRWpnMndvbGZLVFVwT2VoRjhRTnRxWHR1YU51NFNJcmt5N3c?oc=5"
         }
       ]
     },
@@ -117,7 +177,7 @@
       "id": "b332b08133cd",
       "title": "Sarampo passa de 5.000 casos nos EUA e tem mortes em 2 estados - UOL Notícias",
       "published": "2026-11-07T17:39:05+00:00",
-      "summary": "Sarampo passa de 5.000 casos nos EUA e tem mortes em 2 estados&nbsp;&nbsp;UOL NotíciasEpicentro do surto de sarampo nos EUA, Pensilvânia registra 6ª morte pela doença, todas entre não vacinados&nbsp;&nbsp;O GLOBOWisconsin registra primeira morte por sarampo desde 1990&nbsp;&nbsp;Folha PECasos de sarampo nos EUA passam de 5 mil pela primeira vez desde 1991&nbsp;&nbsp;Agência BrasilEstados Unidos registram maior número de casos de sarampo em 30 anos&nbsp;&nbsp;CartaCapital",
+      "summary": "Sarampo passa de 5.000 casos nos EUA e tem mortes em 2 estados&nbsp;&nbsp;UOL NotíciasCasos de sarampo nos EUA ultrapassam 5 mil pela primeira vez desde a década de 1990&nbsp;&nbsp;O GLOBOWisconsin registra primeira morte por sarampo desde 1990&nbsp;&nbsp;Folha de S.PauloCasos de sarampo nos EUA batem recorde em 35 anos&nbsp;&nbsp;SBT NewsCasos de sarampo nos EUA passam de 5 mil pela primeira vez desde 1991&nbsp;&nbsp;Agência Brasil",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -153,7 +213,7 @@
       "id": "2daa9d1080ee",
       "title": "Rio retoma vacinação contra mpox após receber 2 mil doses - O Dia",
       "published": "2026-11-07T11:34:27+00:00",
-      "summary": "Rio retoma vacinação contra mpox após receber 2 mil doses&nbsp;&nbsp;O DiaRio retoma vacinação contra Mpox para pessoas com HIV&nbsp;&nbsp;G1Vacinação focada em grupos mais vulneráveis é eficaz contra mpox&nbsp;&nbsp;Agência BrasilMinistério da Saúde autoriza aquisição de 20 mil doses da vacina contra mpox&nbsp;&nbsp;EstadãoEspecialistas descartam a necessidade de vacinação em massa contra a Mpox&nbsp;&nbsp;CartaCapital",
+      "summary": "Rio retoma vacinação contra mpox após receber 2 mil doses&nbsp;&nbsp;O DiaES registra recorde de seis casos de Mpox em apenas uma semana; total no ano chega a 17&nbsp;&nbsp;G1Vacinação focada em grupos mais vulneráveis é eficaz contra mpox&nbsp;&nbsp;Agência BrasilMinistério da Saúde autoriza aquisição de 20 mil doses da vacina contra mpox&nbsp;&nbsp;EstadãoEspecialistas descartam a necessidade de vacinação em massa contra a Mpox&nbsp;&nbsp;CartaCapital",
       "sources": [
         {
           "name": "O Dia",
@@ -165,7 +225,7 @@
       "id": "5b3b965280a7",
       "title": "Testosterona não é whey - O GLOBO",
       "published": "2026-11-07T07:30:00+00:00",
-      "summary": "Testosterona não é whey&nbsp;&nbsp;O GLOBOTestosterona para emagrecer e ganhar músculo: o que a modulação hormonal promete e o que ela cobra do corpo&nbsp;&nbsp;Assine AbrilESTUDO ASSOCIA ANABOLIZANTES A RISCO TRIPLO DE INFARTO&nbsp;&nbsp;Bahia EconômicaImprensa - Novembro Azul: NAS promove roda de conversa sobre saúde masculina&nbsp;&nbsp;TRF5Pesquisas alertam sobre associação entre uso de anabolizantes e alterações no coração&nbsp;&nbsp;Tribuna do Planalto",
+      "summary": "Testosterona não é whey&nbsp;&nbsp;O GLOBOBusca por músculos maiores pode custar a saúde do coração; entenda os riscos dos anabolizantes&nbsp;&nbsp;Jornal CorreioEritrocitose por uso de anabolizantes: qual a melhor conduta?&nbsp;&nbsp;MedscapeNovembro Azul: reposição de testosterona pode ajudar na saúde mental dos homens&nbsp;&nbsp;DOLUso prolongado de anabolizantes é associado a alterações no coração; entenda | SEGS Portal Nacional de...&nbsp;&nbsp;SEGS Portal Nacional",
       "sources": [
         {
           "name": "O GLOBO",
@@ -177,7 +237,7 @@
       "id": "767dfb6c7bb5",
       "title": "Trocar o sal de cozinha por versão com potássio poderia evitar 3 milhões de mortes por ano no mundo, estima estudo - G1",
       "published": "2026-11-07T07:00:00+00:00",
-      "summary": "Trocar o sal de cozinha por versão com potássio poderia evitar 3 milhões de mortes por ano no mundo, estima estudo&nbsp;&nbsp;G1Dieta rica em potássio também é importante no controle da pressão alta, diz estudo&nbsp;&nbsp;SuperinteressanteCientistas encontram alternativa ao sal comum que pode evitar milhões de mortes ao ano&nbsp;&nbsp;Alô Alô BahiaPesquisa mostra que alimentos como a banana protegem mais a pressão das mulheres&nbsp;&nbsp;Tua SaúdeO sal que pode reduzir risco de infarto e AVC em ",
+      "summary": "Trocar o sal de cozinha por versão com potássio poderia evitar 3 milhões de mortes por ano no mundo, estima estudo&nbsp;&nbsp;G1Dieta rica em potássio também é importante no controle da pressão alta, diz estudo&nbsp;&nbsp;SuperinteressanteCientistas encontram alternativa ao sal comum que pode evitar milhões de mortes ao ano&nbsp;&nbsp;Alô Alô Bahia5 alimentos ricos em potássio que favorecem o controle da pressão arterial&nbsp;&nbsp;Tua SaúdeO sal que pode reduzir risco de infarto e AVC em até 15",
       "sources": [
         {
           "name": "G1",
@@ -222,30 +282,6 @@
       ]
     },
     {
-      "id": "9ce8cad661be",
-      "title": "Vacina contra mpox no Ceará: veja quem pode receber as doses - Diário do Nordeste",
-      "published": "2026-11-06T23:16:00+00:00",
-      "summary": "Vacina contra mpox no Ceará: veja quem pode receber as doses&nbsp;&nbsp;Diário do NordesteCeará registra 40 casos de MPOX&nbsp;&nbsp;G1Ceará registra 18 casos confirmados de Mpox em 2026&nbsp;&nbsp;O POVO+NOTA OFICIAL Secretaria da Saúde de Sobral confirma dois casos de MPOX no município&nbsp;&nbsp;Prefeitura de SobralCeará registra 40 casos de mpox em 2026, aponta Sesa&nbsp;&nbsp;CN7",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTRrRVplMmtZRGY0clhoM2VzWmlfZTJ3OHhqbFowTU1RZ05ZMFdVVUFlZUsxYkVKaUVIYkV3Vl9NODU1R3FlTzBBYnVCdndzNkE3WkhFYUtUcENCTnQzYWxrM0hFVk9kWWhmNXd2bjBEdGNTUXNtNV9ucWN6c24zLTM4SkNSbms3UmpBcGlsVW1TdkwzX0ZFZVhTc1dzZ1FYcDN2R3lPVnhsT2xpU0V0aFh3d3lXZ3NGV1Bn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a4498528fbc9",
-      "title": "Terçol que não cura pode ser sinal de câncer, diz especialista a Kalil - CNN Brasil",
-      "published": "2026-11-06T22:11:01+00:00",
-      "summary": "Terçol que não cura pode ser sinal de câncer, diz especialista a Kalil&nbsp;&nbsp;CNN BrasilVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGE1bWNWQnN1N09JZEE5SVJTbjQwaUx5XzZzU2pTUmI2dzBray1XMk1URFVHeC1NRks0VkY1d1RCZmJTa2NnMVhQd0V4cGlueXYzVklKNHo1Vjhha3NjRERkczBsdkRxS01KVG16QnlTUVhaaUx2VDRoM25xMmNvRHZiNG9VWjVSb0s0amZBT2t1MldEdXlVMjJxejFma2dJU1BVM1pfbkg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3759bd8fc702",
       "title": "DF contará com 30 pontos de vacinação contra a gripe neste sábado (7/11) - Metrópoles",
       "published": "2026-11-06T22:11:00+00:00",
@@ -258,6 +294,18 @@
       ]
     },
     {
+      "id": "c93d111820f3",
+      "title": "90 milhões de pessoas estão em risco devido às mudanças climáticas, diz ONU - CNN Brasil",
+      "published": "2026-11-06T21:16:36+00:00",
+      "summary": "90 milhões de pessoas estão em risco devido às mudanças climáticas, diz ONU&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMEx1bVR6NVJ4SHNXNk9Kd3dQMHlnQ2tGWGJ0OW9OTVN6eUtuQ0w1UDNqXzRyN0cxN2hickhOY1k1RGtpdGZyMGFLWEJkQVdyTnI2UnZ0c0xoMVN4WG5MLTZDbmZwRml3REJGYTRvY2M5bGRmekEtaXRBNGhNWllzNG9pbFJ5SVdQdzJ3bjhISEZSY2VuNWlZOFFJX3Bhb2RVWjMwWjJqeTZHeGJTdGRhYlpIRXJadXh0OFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cf5795402f3f",
       "title": "Como a inteligência artificial supera os melhores matemáticos do mundo, e quais são os riscos disso - Estadão",
       "published": "2026-11-06T21:00:00+00:00",
@@ -266,18 +314,6 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWpGRndYeUctNEZvUmo2SGF4VWplRXpiWHBCRUd3amlRaG5nbkl3a1JTZ19MUFhnZXdjY2Y0Z2JBWXo3RHJxeU5nYjJNT0N0TVc5M05SRlJ6NWo3clplNkx1alFxaUtMT1VLNWFicVRYLXY5WVY0Mm1ac191OWx1Zm10RDRxZjY1UEFxLVo0c0E2VV8zeVVCZGVGOVcwbkFsZUY1VHpyZGtJRXI2R0xzRHowYVI0c0U4MloyLTJpTk1xRGVmZVh4bkc2MGxDcVJ5SnVGQTNlT3B2cVAx0gHiAUFVX3lxTE0tY1QxeTdDOXpXX0xBaWRxdllMZGpLQUtZOTlkU1dOdHBIZVBCV3duVlBiUVhPdGE1TE96Z2tic3ZwWjV2a3phblJEa2ZBVWczeXhPamN2Z1NQakYzOVJjSldCcWI0V1pFb1dLR3YtaGt3eXBVR1p1eldGSFJMMlZwZG0zWTcyTHZ3V2xQSjZGM3N3MW5oRmVLMEIxeUlqS0xxc0pBYmw1RWFMNHV0VDlSa3k0ZlFhUzNDeFdDZGN4TDJHVmZsalZiYkducElLMnhjRlRITDVjMmh5aUFRMEs1OEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d00c78286cfa",
-      "title": "Bactéria 'zumbi' abre novas portas para biotecnologia e bioenergia - Correio Braziliense",
-      "published": "2026-11-06T20:52:00+00:00",
-      "summary": "Bactéria 'zumbi' abre novas portas para biotecnologia e bioenergia&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObld0bm5XQlNjeFpLWkRXU2hrRGJRY1p2UjZ0YlYtRlduZTFZUU01WDE1MHJLblhudDNwVGI5dFVLcEtkdnFoZlpnbDY3dE5QWnBlalppUFYyV21NcFZhMmdTNWF3R1dwZkVUS1N0LUQyVDhnQTRGNXB4d3VKLWM1cF9iMXBuV0xjd2ZnQk9VUWJ2RzBqb0RoaHJEbjNmb3ZWRVVWakZJTGo3bEFSTmFrWjVfclE1TWdQZkIzVTM3V3M5Q2tYdmpIdWpnc0VpTHJ3OFNwM1dR0gHbAUFVX3lxTE1POXFMWEhLSTJiVzZyT3NVRUp4QzFJM3pyOUF1enZTblRDdWUzZ2JyWXFXUV85eUpwVGFqazNvQ3ptVkNsbkdmTjRfU2VDRllhX3J3U3JSZkNNRTFva0syeEo1aUQ1TVdBNWVfVVhMbENGUEMtVTc2WHl1N01kQ0JxdVlkNjJ5SVdTUGRDajlDQTk0azZGeWhGRjI3QW9LOWExSDlVcVE5NWNUdWFKZlVLOHFzTm5rZ05PdTNtTVRjbFVOLTRpdVVGUHV2VVlXMFJmU083bFVlQlpUYw?oc=5"
         }
       ]
     },
@@ -296,36 +332,12 @@
     {
       "id": "73b5f60ff384",
       "title": "Cochilos de idosos à tarde podem ser indício de risco de demência - DW.com",
-      "published": "2026-11-06T20:30:16+00:00",
+      "published": "2026-11-06T20:29:31+00:00",
       "summary": "Cochilos de idosos à tarde podem ser indício de risco de demência&nbsp;&nbsp;DW.com",
       "sources": [
         {
           "name": "DW.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFVTRFdfVnY4TUZBOHBDYkFhX1ZRNUlRQlRGRkhBcldJV2pscnFsdmhfN0YyZFF2MlZQX29nbzloQm5NNVhQV0c0cjI4ZVpEaGZ3RTkwQUpWTVhGRm83S3g1QzJRUGkzWk1Ib2FES1FkV2luOE9tUFY5cFd3NzNpUUFfNGRRbGo5cUtwTk1SdkxIQVJHcmdGVXRzcWFXTGQ1Unh1SnpyN0tuU3NNclF5MHNqRW1vUEnSAbcBQVVfeXFMTVpCUVpROWtibUFoMlMxa281N2xqS1IxV3dlOUNoWFpmdWk5UWxuVURhdW1Cc0drdDdpT045R1NtRE1pdzdjMWdweVptXzl0aVJ6dmtNc3NnQjVZZlNuX04zNThlOThkcjdUa2VjT29QelhMRVJ2bTBoV0VXVEQ5ZnZCNW5EU2JrVWFqazdVSzdVVmE0Z0tqMUtIWTFJbnJESmpFNGoyN3h4SFl5S25ES21FREdBNlkw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f003343bfda1",
-      "title": "Cochilos de idosos à tarde podem ser indício de risco de demência, diz estudo - UOL Notícias",
-      "published": "2026-11-06T20:28:00+00:00",
-      "summary": "Cochilos de idosos à tarde podem ser indício de risco de demência, diz estudo&nbsp;&nbsp;UOL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOem82cXdQRVJ5cWs1UGNNV0M1NjBLa2VlS2ZIMlpOZVVHQ0wyRGNQdUplQ215eUJ1MHo3czAxT0ppT0NrMkpQMFdJZlZ4d1dEX2lXNE5nN0ZlRm92SGljREpQQTF2OEoyUGx4T3A0RTJXNUdaaGhxR0stT1RnbDRKQjJmblIwSWV2X2J3YnVvdTZqMnBXamlWRjh3ajBuS0N3X09saGFyV0NwTnIzV2thTDdzaTVmSWJnYlY0WFJBVXpsQmRyWHBnTGZ0SXR5NlQwMEpyNkFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6cb3aa5192a8",
-      "title": "HPV também pode causar câncer na boca e na garganta; dentista alerta para prevenção - Jornal Correio",
-      "published": "2026-11-06T20:18:41+00:00",
-      "summary": "HPV também pode causar câncer na boca e na garganta; dentista alerta para prevenção&nbsp;&nbsp;Jornal CorreioCâncer bucal, sinais, prevenção e avanços no tratamento&nbsp;&nbsp;Revista NewslabHPV também está ligado ao câncer de orofaringe&nbsp;&nbsp;www.guairanews.com",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS25wR0ZKcmNvR3BxNU9nNmhweGNxeGxqRUQ0MjFqVFFFQl9VaENNaDEtczZleHZZNGFLZWdXWmZyY3kweGVSOW5yamhpX1hzc0M1Rm1MMnl0dFVPWHlILV9RQ2JJd2JQRkltbXl1SHJWM1RRTEpXREhxQTY1ZW5zOXlRZkRBanBXbENuX29MR1AweURuS19KTFFRTXlwR2t0V3NFZ0w5NE9zTFJ3NFpvNmNYTW5DY3FLdEdidkNSbHlaMzRIM2c?oc=5"
         }
       ]
     },
@@ -354,62 +366,14 @@
       ]
     },
     {
-      "id": "88dd0a60dde7",
-      "title": "As primeiras evidências do uso de cannabis para fins psicoativos foram encontradas em um antigo túmulo na Sibéria - CNN Brasil",
-      "published": "2026-11-06T14:51:54+00:00",
-      "summary": "As primeiras evidências do uso de cannabis para fins psicoativos foram encontradas em um antigo túmulo na Sibéria&nbsp;&nbsp;CNN Brasil",
+      "id": "3196b56a8353",
+      "title": "INSS muda regras sobre análise documental do auxílio-doença - UOL Economia",
+      "published": "2026-11-06T15:29:36+00:00",
+      "summary": "INSS muda regras sobre análise documental do auxílio-doença&nbsp;&nbsp;UOL Economia",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdzRvc3B4elpmMGw5SExoa2lLRmJDMDdxQ3dyUkt3LVlnSzZGYlc0b29NLUQxeUREb2tza3NLRC12VVpOSWpaZVlDUWF0YzhvcDc1N0k3S3RLSkd3QVhOR3UwaXFLUzg2RU5aQlAwZ1A0T21peEZ2aG5IS3dPbHQtZzJzUDd1Y2Z2eVNja1A2dlRvejEwNTY0eW9KWDZrTDVXT2htaEthYzRqc0JqVlNwRlVIMWRLVUJfa1Y5VTZHOW5jVGFmZDhRd3JiekJaZW93Z1NTMEdwTWhQYnVpMnVoS2lLZFNBUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "828450a4a402",
-      "title": "Intestino do peixe-boi revela milhares de micróbios e enzimas inéditos com potencial para bioenergia e agricultura - Agrimidia",
-      "published": "2026-11-06T11:26:55+00:00",
-      "summary": "Intestino do peixe-boi revela milhares de micróbios e enzimas inéditos com potencial para bioenergia e agricultura&nbsp;&nbsp;Agrimidia",
-      "sources": [
-        {
-          "name": "Agrimidia",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOFpjX2NyWXJrcDlBdlM0OHhBU282X1JmUUZOT201czZFb2VNbEdjSE8xM1ZxTC1hZm40aGd6YW5yWVZsaFZkSExBMGZYRFNZbGVyUGxjWnBGUjhvM2J1b3RQRldmR0lDM1NQMklzcGNYbjYzLVBfZS1pa181eU1mMEFJRVRMYThsdXNLbVJ2RXFWTlhQejlNbGRtUjVuWWpLeXJic05TZVlCLVRhYmFGYXBpSWE4U0RNQkhSQ0Z4N1dVaWNKejNIMjkycFhrcVhqU0lFUFVFbkpkS0pLZ1BaWFd2b3FvWldoWlFpT29ic0toSmt2aXMxV3BqYmo5bURNa21YNw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b378d78db0eb",
-      "title": "Guia da longevidade: Ana Cláudia Michels lista hábitos para evitar demência - UOL Notícias",
-      "published": "2026-11-06T08:30:00+00:00",
-      "summary": "Guia da longevidade: Ana Cláudia Michels lista hábitos para evitar demência&nbsp;&nbsp;UOL Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmNVM3JhQms0bklFSmJSam5ZeFFKZ1p4MlZrd2UwV3pJaTRXNmFKSllzOWN5NWh6ZkI0VzZLLTlkLTFZUVFGYTRBTHU5YTZsOXEyU3h5Y1cwa1o2NjBfaGktNFFpWWJqZkpHNGdkci1wSU04cWxRZmE3RjhobGM3NVdxak9LVUlJTENyR0tBcVd5a1BTc3ROQ0J4b2lZd2lvdEdZTDRqdlNUZW4yR3FicXJ1MGpaWUZXa0hFQy1rSUw3V2h6N1piaXl4MjhuVHdYY1Rzbg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4663402480b0",
-      "title": "Projeto do Sírio-Libanês estimula envelhecimento saudável - 06/11/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
-      "published": "2026-11-06T07:00:00+00:00",
-      "summary": "Projeto do Sírio-Libanês estimula envelhecimento saudável - 06/11/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ3h0eTB2VXZ1M25Nam1iM0k4UXQ4eFJkR28wOWY5RDFDQmRBb1UtdFQ4TzhYMk1wZmRoXzRhLW03MnR2bERTYXhkTEljNDhGLWN2UEpRNGdFcG1xd0JBcEUzUU5udGJSeHVhSER1Xzc5Ui1Xdktmb2Zwam5MTGloQllwdGtpYkR3X3ZKdDFCVEdvY0dteFlvcUdIV3ZCaDJMOHhaaUFid0JwdVYwM29EaUQtM1RYR1oyUmM2WlY2eVFFYkk1UElmOXk0MnpCZzBXbUJkTkFJeU01b0R2cEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c385b6c3f31",
-      "title": "Um em cada quatro adolescentes no mundo não pratica 60 minutos de atividade física em nenhum dia da semana, aponta estudo - G1",
-      "published": "2026-11-06T06:00:00+00:00",
-      "summary": "Um em cada quatro adolescentes no mundo não pratica 60 minutos de atividade física em nenhum dia da semana, aponta estudo&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZkdxUjd0aUJBT1hHNzFBNUhQeklwbVl3dTVnV3Y3cGw4M25zVlRURHhWSlp3alo2WFBNV2pJTHdOVFlDT21wV0NUV2xvWXZVNTlRTThRZTZBa29vLWxTZHZEZDdyQ1J1eWJZNXI4UlpBRUQ0X2F1OXU4cWxOQlVJZFFfNjJZZ0pHcldldkphZlY0QnRpQ0FGakM0WkpReG8wNF8zSUVoN0YybVZqamotei1VVC1JeTZabHo4ZEVCcUE1MUptSndhRDMxYVBSUkFLVHRULUpMcVdZclNJMi1nRVFERl8ybFFFcEt6UktuWjdTY2RXOXZuWk0zQTk4dVhCTUHSAZACQVVfeXFMTW1HeG5yOWdUeVIyem9rWFc0c0owZ0lQSll3X2NBU2Ezd3Z6c3JCanlEeTdISHVCeWhlTHp1VWdqMHlNbXFielowc3JzazJrT0tBdFUwbFZLUjNVUGYyWGxoQ2t5M285N0RBNUFWNHNaNjhBRnJnQU5qSUQ5NzBRTFlTcjhneXJ2ek5hVTh3TkpodDE5TkF1M1VZdll0Z19RT1B4RlFpQUQwQjBvbnVRM3g2UlZaTjQtSUJiWmZhUjlob0lUaXhSMGlONVFwa2JVektOczFfdnRYOWtob1FHdFVjTzhPdmU1ZUg0RWI5eGUtZU5PUG5JMU5pZ3A5dTdVNl9TTVFBdzdWdnhGdEZweDY?oc=5"
+          "name": "UOL Economia",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVVmS0F3c0Jsa1BaU0YwN2h5YUdNX3VPUGhBNWpqVFF5aWcyTlF4dHlrYVdrS3FWNzR4Z1NkTXNOX0ZZTndHbDRDMG5ndzNKQldzVTl1Sy1FSzluUWZtcFpFY1BxMG00d3RHTE1zYm1qRlUweUQwMElMTDl1bFpvVE4tdDVNeVZ4MGNVVnFldC1NcDVBNU9DMTZmR290akN5ZmtRLUVfU2ppR3RWVnpwUEg1aC1yZ0FSS2pnRjV4bXQ?oc=5"
         }
       ]
     },

@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Relebactam. 3 indicações previstas."
 permalink: /news/relebactam/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Notícias sobre Relebactam
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Relebactam?">
-<strong>Relebactam</strong> tem atualmente <strong>32 notícias</strong> e 3 indicações previstas.
+<strong>Relebactam</strong> tem atualmente <strong>33 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ Esta página combina as indicações previstas por IA para Relebactam com as not
 <p><a href="{{ '/drugs/relebactam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (32)
+## Notícias relacionadas (33)
+
+### [Câncer nos olhos: quais sinais observar em crianças? Entenda com Dr. Kalil - CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVRSl9nVzdOTlNuRHUzUWs4anZNSlhHN1lIOUEtbWZ2M3I5bFNFRGJBeVljZmx2a1JOcC1VSEdmV05rMkVqZ2Z6UDlYOGhxQlJiTHZKeVA3ZUFfSFhvVHotUnNuTGs3RVJqeFpGd3NRSUlDbW0yaWFuTFlmXzhGR0s3YlpBSE8xZHhPU1NjUEJlTXZRUEVaTFN5WFVrU1ZKUk5xc2pQYXFaUzQ?oc=5)
+
+2026-11-07 <span class="news-indication-tag">câncer</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVRSl9nVzdOTlNuRHUzUWs4anZNSlhHN1lIOUEtbWZ2M3I5bFNFRGJBeVljZmx2a1JOcC1VSEdmV05rMkVqZ2Z6UDlYOGhxQlJiTHZKeVA3ZUFfSFhvVHotUnNuTGs3RVJqeFpGd3NRSUlDbW0yaWFuTFlmXzhGR0s3YlpBSE8xZHhPU1NjUEJlTXZRUEVaTFN5WFVrU1ZKUk5xc2pQYXFaUzQ?oc=5)
+
+---
 
 ### [Cupuaçu: o parente do cacau que intrigou cientistas contra o câncer, mas apenas em laboratório - Portal do Holanda](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3BuWlRIY1c1dkg4MTZRbWVNYjBRS01tYnB0SDZ0dDF6cXZYbXd6MTlyV2xOQ0tnTEVPd1h6Unc0Unk3QUZZRWlNQzVOV3F0eE5kN2Z3cjAwbG9zblhNZkJpalprSHNQSHBCYl9kZy1YSjJ0eUpwbWRfdjQyaUJJTTV5Yk05VTR5S1Y3RG52c3U0b29CdTdDZHVVcVJQeHVNX0FGOFhFX1B5aXc1NXlZTk5ZVXQ0NFh3UDVweTBhTjNNdWRycnZnMTVJWDlvd0xMY2FUQjhCMFoyUDEyNFY4?oc=5)
 
