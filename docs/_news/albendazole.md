@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Albendazole. 1 indicações previstas."
 permalink: /news/albendazole/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Notícias sobre Albendazole
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Albendazole?">
-<strong>Albendazole</strong> tem atualmente <strong>43 notícias</strong> e 1 indicações previstas.
+<strong>Albendazole</strong> tem atualmente <strong>44 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Esta página combina as indicações previstas por IA para Albendazole com as no
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (43)
+## Notícias relacionadas (44)
+
+### [Câncer do colo do útero: conheça sintomas, causas e relação com o HPV - Diário do Nordeste](https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFZXbkEyUGNwMlF0Wk9CcjUxdUFDRXJIZ28yRkYyNWtGWVI4MEVUczZlc1U0dTdRd3YzYXhsa09vZ0Q1RFRWSU1NNzBfX2dZckpyZXllWUxPcU9YOHFyMDRJYnlLZ2RmNGl4c0had0xwdE9XYnFMRGg5cFpMWjZKMzRRVjZhdVJHTmlxQ0Z0SFByM2NhRFV3MWhQQm9pNWx2a3pPV3dva0tpY1UzUmdFWW5icmFZU3dYS3BsdC1hbG5lLURkOFhGSVc0dw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Diário do Nordeste](https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFZXbkEyUGNwMlF0Wk9CcjUxdUFDRXJIZ28yRkYyNWtGWVI4MEVUczZlc1U0dTdRd3YzYXhsa09vZ0Q1RFRWSU1NNzBfX2dZckpyZXllWUxPcU9YOHFyMDRJYnlLZ2RmNGl4c0had0xwdE9XYnFMRGg5cFpMWjZKMzRRVjZhdVJHTmlxQ0Z0SFByM2NhRFV3MWhQQm9pNWx2a3pPV3dva0tpY1UzUmdFWW5icmFZU3dYS3BsdC1hbG5lLURkOFhGSVc0dw?oc=5)
+
+---
 
 ### [Neuropsicólogo explica a importância do exercício físico no combate à demência - O GLOBO](https://news.google.com/rss/articles/CBMizwFBVV95cUxNd24zRTBPLXlFYlltQncwbVNRR2h0V0tDUGYxOXN2bzFhSEltTGZack5MbEFhdDVtWGhOb3Vta18yZ1Rza082YWFQLXdIR0xxbEIxd3pRUHJ6aFJ5OUktdElra0ZNM1hESFotcGdnSkI1U3Z5alo0bWtxQnNobFlsY3Q1cmE4SE9KVFp4R0xqWU1qNzNWQ1BPbzVuWm5iVVU3Rmk3SXZSSUctTnB1bVFFOFRiOWZNUWdFWUdfXzYwYTlwcWFZTTlDdEo0czlNTXfSAd4BQVVfeXFMTU52TXNhQkVPVTd4a3Y0U2FpM3VvS3pBLTdSbWpGT1ROclZOOTNXY25QUVg4ZVRFYXZGdmNNLVZNLWE2VGQxUlkySFAwZXV1MlpDQ0RXUGZXT0FMMnZsRGZjWUQ3RHQxdXowQmd4dHpYMS1ZNTA4ZU9wbnlLMWY5T2FTdGF5SU1TYVJRNzAzWXRMUWNXZTdjbDdJYUFlUk14dTM5TWU0bE5DeGpfbmZNN1htYTRuQjNYN094RTFpT1YwWjkzd09wU2lSWklrVDJWUlRSV2oySG5rM1ZwQ3ZR?oc=5)
 

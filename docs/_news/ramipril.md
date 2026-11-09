@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com RAMIPRIL. 9 indicações previstas."
 permalink: /news/ramipril/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Notícias sobre RAMIPRIL
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre RAMIPRIL?">
-<strong>RAMIPRIL</strong> tem atualmente <strong>35 notícias</strong> e 9 indicações previstas.
+<strong>RAMIPRIL</strong> tem atualmente <strong>36 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Esta página combina as indicações previstas por IA para RAMIPRIL com as notí
 <p><a href="{{ '/drugs/ramipril/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (35)
+## Notícias relacionadas (36)
+
+### [Câncer do colo do útero: conheça sintomas, causas e relação com o HPV - Diário do Nordeste](https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFZXbkEyUGNwMlF0Wk9CcjUxdUFDRXJIZ28yRkYyNWtGWVI4MEVUczZlc1U0dTdRd3YzYXhsa09vZ0Q1RFRWSU1NNzBfX2dZckpyZXllWUxPcU9YOHFyMDRJYnlLZ2RmNGl4c0had0xwdE9XYnFMRGg5cFpMWjZKMzRRVjZhdVJHTmlxQ0Z0SFByM2NhRFV3MWhQQm9pNWx2a3pPV3dva0tpY1UzUmdFWW5icmFZU3dYS3BsdC1hbG5lLURkOFhGSVc0dw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Diário do Nordeste](https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFZXbkEyUGNwMlF0Wk9CcjUxdUFDRXJIZ28yRkYyNWtGWVI4MEVUczZlc1U0dTdRd3YzYXhsa09vZ0Q1RFRWSU1NNzBfX2dZckpyZXllWUxPcU9YOHFyMDRJYnlLZ2RmNGl4c0had0xwdE9XYnFMRGg5cFpMWjZKMzRRVjZhdVJHTmlxQ0Z0SFByM2NhRFV3MWhQQm9pNWx2a3pPV3dva0tpY1UzUmdFWW5icmFZU3dYS3BsdC1hbG5lLURkOFhGSVc0dw?oc=5)
+
+---
 
 ### [Câncer de pulmão: tomografia de baixa dose reduz mortalidade entre pessoas de alto risco, aponta estudo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEN5TDVaaWsySl9VRm51WGhnWE1rb09paV9fX2lqdVlNSVpVYkxKcDlyUVVTWjhKZ1RsaHZxc1hubWxiWlhFUXpnZFpDVTRZTmxrN29tSHhPMzE4cFhSVUpxRHJFSTB3OG9ENHltSm1GdS1oQ0VLLUV0NnZTNzFyVUNHUjFxUDM0UV9WMlhCLS13ME5EalluU3lIc1lGR19pY1owTTRYX3FTUG1rUTBXX3FIU2VEVjlGVm4wbGROajlNbWx6bkQ5RUQ0YlQ0LUdUU09wN0xqQ1J2RUlTWGNuWTdYVDlQMnZB?oc=5)
 

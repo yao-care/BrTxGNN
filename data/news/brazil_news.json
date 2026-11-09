@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-08T21:48:18.425709+00:00",
-  "total_fetched": 104,
-  "unique_count": 103,
-  "health_related_count": 40,
+  "fetched_at": "2026-11-09T05:08:46.285360+00:00",
+  "total_fetched": 99,
+  "unique_count": 97,
+  "health_related_count": 39,
   "news": [
+    {
+      "id": "23703d1a10e4",
+      "title": "Beber álcool todos os dias faz bem à saúde? Cientista de Harvard explica o que dizem os estudos - Rádio Itatiaia",
+      "published": "2026-11-09T00:45:34+00:00",
+      "summary": "Beber álcool todos os dias faz bem à saúde? Cientista de Harvard explica o que dizem os estudos&nbsp;&nbsp;Rádio ItatiaiaA uva faz bem para o coração? Pesquisa começa pelo suco, mas seguirá com o vinho&nbsp;&nbsp;GZHEstudo do InCor investiga efeitos do suco de uva tinto sobre a saúde cardiovascula&nbsp;&nbsp;AgitoSPGrande estudo conclui que até o consumo moderado aumenta os riscos de cancro, incapacidade e morte prematura ao longo da vida&nbsp;&nbsp;VineturEstudo liga duas doses diárias de álcoo",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTmxyTk00b2JTQUQ5NnhkbktDOW1ucWVOTENON2xZa3FEMVZjSjZOejJNaXAzemNUZUhwVUFhODRMM2pvd08yUUlmd0cxeGVkMzlCSFdKcHRXSzV2VkNheUtBNEYyMUhNRzIxN3N5SUlDM3hjMFFDMU1jNUNzSjFONlhmLW5RM2VVWE5fbjlnWW9uZmpsMy1BV1FCQ0tGbzkyLW55SEFUOVR4WFBaTUlmNWxoVzJfNHdlQ0xVaFJ3S05UR3J4ajZxUklR?oc=5"
+        }
+      ]
+    },
     {
       "id": "d0a368c778f6",
       "title": "Estresse pode desencadear doença autoimune? Entenda o que diz a ciência - Diário do Centro do Mundo",
@@ -18,14 +30,50 @@
       ]
     },
     {
+      "id": "26df63b05ebe",
+      "title": "Pela primeira vez, cientistas conseguiram enviar cheiros de forma digital - Portal Tempo Novo",
+      "published": "2026-11-08T19:56:00+00:00",
+      "summary": "Pela primeira vez, cientistas conseguiram enviar cheiros de forma digital&nbsp;&nbsp;Portal Tempo Novo",
+      "sources": [
+        {
+          "name": "Portal Tempo Novo",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNjRkNkw0dVVxcEt6TTdkd2dINDh3dU1rN3luQ2pTR1VWcExOX3ZaQUhkMkt6MjVYb1czVV84U0EwN0RrbW11OGZRQ0FnNXVfdUg1WGpteHpLTWNJeDdreGJnbXZLRGFHXzMyRDBWWHhVZTZkWlhIb0ZSczVPWm9MaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d9d50b3f439c",
+      "title": "Gabarito Enem 2026 prova branca: correção extraoficial do primeiro dia - Guia do Estudante",
+      "published": "2026-11-08T18:00:49+00:00",
+      "summary": "Gabarito Enem 2026 prova branca: correção extraoficial do primeiro dia&nbsp;&nbsp;Guia do Estudante",
+      "sources": [
+        {
+          "name": "Guia do Estudante",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNE1Eb29QMEJ4b0xXSDVRUlRBSG1fM0hfdG14Sk5WVW1DRk0wQXlyQ2R1UVU0VGo5RmJ6dEFFa2pKWmJjY1FNRTlRRk1KWnhqcHR4RGVZRmxiaTZvSExISkN6alM2aG9hc2pVZmhLTHVlYlVwZU1yeWM1bXFlZmFQa1h5dmFVczdlYXhJaTJhZ2pxNGNBVWV2X0NjT2FRNEFYYi1jMnNheVRfSkk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cbd6729d1912",
       "title": "Vacina contra mpox: Ministério da Saúde amplia compra para 25 mil doses; veja quem pode se imunizar - O GLOBO",
       "published": "2026-11-08T17:32:56+00:00",
-      "summary": "Vacina contra mpox: Ministério da Saúde amplia compra para 25 mil doses; veja quem pode se imunizar&nbsp;&nbsp;O GLOBOMinistério informa ter adquirido 25 mil doses de vacina contra mpox&nbsp;&nbsp;Agência BrasilBrasil registra 665 casos de mpox em 2026; Ministério envia 2 mil doses ao RJ&nbsp;&nbsp;Tribuna do NorteEspecialistas descartam a necessidade de vacinação em massa contra a Mpox&nbsp;&nbsp;CartaCapitalBrasil receberá 25 mil doses de Mpox após negociação com laboratório dinamarquês&nbsp;&",
+      "summary": "Vacina contra mpox: Ministério da Saúde amplia compra para 25 mil doses; veja quem pode se imunizar&nbsp;&nbsp;O GLOBOMinistério informa ter adquirido 25 mil doses de vacina contra mpox&nbsp;&nbsp;O POVO+Brasil registra 665 casos de mpox em 2026; Ministério envia 2 mil doses ao RJ&nbsp;&nbsp;Tribuna do NorteEspecialistas descartam a necessidade de vacinação em massa contra a Mpox&nbsp;&nbsp;CartaCapitalMpox: Ministério da Saúde garante 25 mil doses de vacina após negociação internacional&nbsp;&n",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPS0xZQ3FBQjllTng3SkRtbUNUTlFsVERtT3JjNHVQQTIzbXp6MWlZX2paNHlvcDNpb2ZWM2RJYUU4SUkzZElteTdMTVVLLUpXQnhQNEVoR1k4N0ZUbm1xZUdrUkhQZ1Z3SzA2WkhBTFY4ZnloVnhfN2ItZE51ai1NY3ZQazFvQTgzSUwwaHo2dHVtNFJ0dzBrUENQYzBnanpZZmdMWElHLXd3eU0tZGpweFRmTmltMGQ5dWEtVktEbHRoNkYtVXhQZlFmUVI0eFpaSzVYaHpqWWNDUE5pVTZzQkdncURTRHZz0gH3AUFVX3lxTE5YZGNnQUZieEZDSGlDaklvcGFic3QtbENOVjRLZlZ1NE9lYlJaY0JnakVjN3dpZC01eW50ekhKRXprMFh4NWgteUx2SnVoVkZ4TnVMY1pjRmxjQ3l4dC1OVEhUcml2NjFwQmt2dkhud2NCRVF0VFRfZW5QZWNSdXNMcFotLW90U05FYWo3by02ZV9jTkM0RXZzTTRBSE5zWkhrNDhzQWpwMW5pcFlwTzA4QXgzdjdPbngwVUoxcnBYbjdHR3NqNzlfWXlEX3ZqNnJEVUtwVHZTTVlOMG9PYXRHajlNTm8tdTc4UFI3NWZFdlVxWVR2Y00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c95caae97321",
+      "title": "Brasileira superdotada de 5 anos conquista ouro em olimpíada de matemática em Singapura e chega a 14 medalhas. - JASB - Jornal dos Agentes de Saúde do Brasil.",
+      "published": "2026-11-08T17:17:00+00:00",
+      "summary": "Brasileira superdotada de 5 anos conquista ouro em olimpíada de matemática em Singapura e chega a 14 medalhas.&nbsp;&nbsp;JASB - Jornal dos Agentes de Saúde do Brasil.",
+      "sources": [
+        {
+          "name": "JASB - Jornal dos Agentes de Saúde do Brasil.",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfTjhfNXB3YkRrMGlXNUNVZ0g4em1GS1RXVDNFbl9qd1ZGel9CazRlQkF2RXBPQ2Z2WjdxNERudU5wLWxTN3llS1RPSTdCcnhSajk0TXdZLS1VOVJxYTFHeFNDamRJM1pRT2c?oc=5"
         }
       ]
     },
@@ -74,6 +122,30 @@
         {
           "name": "Portal M1",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdkktaE50VHBObmY0c3puMWFiQkZxRGl3UFhFX242dnJpbGlVdEtwbzVuQUs4SW5qSnljNTF3T0s2eXotSVgtaTNHeVBwTWRIN3Y2NkNmOXRRTjJ4ME56MW1UNFpKOHJ5ZlZSeTlFal80X3ZJVmlKWHp3ckZTaV9mNlpWYnJ6OWhqUTZDZ1lXaWtMMjFMREJNU2duYWJubHJjOURzUjdOWG9FNHFiTlBJeGZId0h1Wk1xSGpsLUExNkRCV25tX3kwblVBa1hoUUlmLTd3Y0hHeWxsSHJBekp3TS1ZUEdPS0toc3J3Ylh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d7fec7b2d71",
+      "title": "Agro brasileiro expande uso de bactérias em controle biológico - Poder360",
+      "published": "2026-11-08T12:50:18+00:00",
+      "summary": "Agro brasileiro expande uso de bactérias em controle biológico&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNzl1UFNEMWk3UXVYNXdOaUNJYnVBU19xWFZlT3Q4Y0hTOGJkTlkyTng4aUFtZWFTcmpCMS02MXhVVTNVTWFCdl95R0I1SEJSaTZKdGlNanpmNDFKVVc0T0hVWUFtMFFLWEdab0lhRDlCT2taVEppdjFKQzdhWUdyNkJjdHVYNjNRdDRaQ3FFdDFzWnJHQWZKeW93Zmg5cExs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a82b7f4e163",
+      "title": "Câncer do colo do útero: conheça sintomas, causas e relação com o HPV - Diário do Nordeste",
+      "published": "2026-11-08T12:00:00+00:00",
+      "summary": "Câncer do colo do útero: conheça sintomas, causas e relação com o HPV&nbsp;&nbsp;Diário do NordesteMortes por câncer do colo do útero podem aumentar quase 40% no mundo até 2050, aponta estudo&nbsp;&nbsp;G1Câncer do colo do útero pode evoluir sem sintomas e acende alerta para a importância dos exames preventivos&nbsp;&nbsp;Revista SoberanaPrevenção e detecção precoce do câncer do colo do útero.&nbsp;&nbsp;Vietnam.vnEstudo prevê 522 mil mortes por câncer do colo do útero no mundo até 2050&nbsp;&nb",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFZXbkEyUGNwMlF0Wk9CcjUxdUFDRXJIZ28yRkYyNWtGWVI4MEVUczZlc1U0dTdRd3YzYXhsa09vZ0Q1RFRWSU1NNzBfX2dZckpyZXllWUxPcU9YOHFyMDRJYnlLZ2RmNGl4c0had0xwdE9XYnFMRGg5cFpMWjZKMzRRVjZhdVJHTmlxQ0Z0SFByM2NhRFV3MWhQQm9pNWx2a3pPV3dva0tpY1UzUmdFWW5icmFZU3dYS3BsdC1hbG5lLURkOFhGSVc0dw?oc=5"
         }
       ]
     },
@@ -177,7 +249,7 @@
       "id": "b66fa06c35f6",
       "title": "El Niño acende alerta para dengue em 2027; projeção aponta chance de 866 mil casos - G1",
       "published": "2026-11-08T07:00:00+00:00",
-      "summary": "El Niño acende alerta para dengue em 2027; projeção aponta chance de 866 mil casos&nbsp;&nbsp;G1Fiocruz projeta 866 mil casos de dengue no Brasil em 2027&nbsp;&nbsp;Brasil 247El Niño acende alerta e Brasil pode registrar 866 mil casos de dengue em 2027&nbsp;&nbsp;RedeTV!Dengue: Brasil registra quase 490 mil casos e especialistas alertam para avanço da doença&nbsp;&nbsp;R7Cientistas projetam 866 mil casos de dengue no Brasil em 2027&nbsp;&nbsp;Metrópoles",
+      "summary": "El Niño acende alerta para dengue em 2027; projeção aponta chance de 866 mil casos&nbsp;&nbsp;G1Fiocruz projeta 866 mil casos de dengue no Brasil em 2027&nbsp;&nbsp;Brasil 247Dengue: Brasil registra quase 490 mil casos e especialistas alertam para avanço da doença&nbsp;&nbsp;R7Cientistas projetam 866 mil casos de dengue no Brasil em 2027&nbsp;&nbsp;MetrópolesDengue: projeção indica mais risco no Rio em 2027&nbsp;&nbsp;Jornal O Fluminense",
       "sources": [
         {
           "name": "G1",
@@ -201,7 +273,7 @@
       "id": "011dada140f0",
       "title": "Não é só o sal! Saiba qual ingrediente \"inesperado\" favorece a pressão alta - Metrópoles",
       "published": "2026-11-08T05:00:00+00:00",
-      "summary": "Não é só o sal! Saiba qual ingrediente \"inesperado\" favorece a pressão alta&nbsp;&nbsp;MetrópolesPressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasHipertensão: falta de sintomas dificulta diagnóstico e favorece lesões em órgãos vitais&nbsp;&nbsp;A Hora do SulBons hábitos alimentares e estilo de vida são fundamentais para prevenir a hipertensão&nbsp;&nbsp;Secretaria da Saúde do ParanáPressão alta pode avançar sem sintomas e exige cuidados p",
+      "summary": "Não é só o sal! Saiba qual ingrediente \"inesperado\" favorece a pressão alta&nbsp;&nbsp;MetrópolesPressão alta: veja quais alimentos evitar e hábitos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasPressão alta: sintomas de alerta e quando procurar atendimento médico&nbsp;&nbsp;Imirante.comQual pressão é considerada normal de acordo com a sua idade para proteger o coração&nbsp;&nbsp;Tua SaúdeHipertensão: falta de sintomas dificulta diagnóstico e favorece lesões em órgãos vitais&nbsp;&nbsp;",
       "sources": [
         {
           "name": "Metrópoles",
@@ -234,14 +306,14 @@
       ]
     },
     {
-      "id": "4272d4734b1f",
-      "title": "Brasil vai desenvolver seu primeiro foguete orbital em parceria com a Índia - O GLOBO",
-      "published": "2026-11-08T03:00:00+00:00",
-      "summary": "Brasil vai desenvolver seu primeiro foguete orbital em parceria com a Índia&nbsp;&nbsp;O GLOBO",
+      "id": "c6600d99d806",
+      "title": "Remédio popular contra hipertensão pode ter efeito sobre perda de peso; entenda pesquisa - Diário do Nordeste",
+      "published": "2026-11-07T23:29:00+00:00",
+      "summary": "Remédio popular contra hipertensão pode ter efeito sobre perda de peso; entenda pesquisa&nbsp;&nbsp;Diário do NordesteRemédio popular para hipertensão pode ter efeito na perda de peso; saiba qual é&nbsp;&nbsp;O GLOBOLosartana ativa gordura marrom, sem prova de emagrecer&nbsp;&nbsp;SpaceMoneyRemédio usado contra pressão alta pode ajudar no emagrecimento; entenda&nbsp;&nbsp;DOLLosartana emagrece? Entenda o que pesquisa descobriu sobre o remédio para hipertensão&nbsp;&nbsp;Francês News",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYktzVHlLZ3pQV1pCbGliOFVHYzIxTUlLNWs1UWt5QzA1elprakhvdlFfN0U0OUx6WU9lUG5MdG11ekdHcHgxOUw3NlhGUE1mSUpCSEZCdG9saTdnSlZWTENnM2VmaVRkYVl3V1ZvdFVxU04xcUh1eFYzX2VidFdkOXhmOXpyV1Vxb21COFpLTVhxalVVZEI4YTRPbFNrMXRRckZoZklBZ09LTzhHcUxJeUVGZ2hkalViUFE3UUVWYXc4b2p0d1FBVFlBUURPQ09OUExhXy1jcmsxdUV5eWV4dtIB7wFBVV95cUxORy1KMmNld2FnLVoxbXFVdkRYVllGR09EWWo0SHBpOVRId1Bia1Bad3hlUVNXM3lnY3pxdDY3MFlTdGJJeTV4UUY2ZnRsY0dxdlFjMnVjVU5BY005VWlSWVI0VDdNU3NnRWdfazd6QTV1VFZVcVlfclJQR3ZnV0N3Vjd4TnozLWFmMGhGX09wVm12a2hfS1RTcnU0ckM1TWIyOTFVT0RKNDVFYjYybW9YU0c2SnNEczBJck1hcWRLWGQtQ2xRdmJ5ZExUdmF1WUFSamNRazVTTE8xME8xVU1NN3huYVNDSjFnb0tjMUlJYw?oc=5"
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcDc3LXUwLVBZWTgzR2tTSVJ3Q0ExV0licHZZUXlROEJWbUQ5Vnh6N3MzcnVjYXhtZUNlN05Ec0RVTF9rRTI1RS1BWnFZNXZHc0g5WU5YVFdsOG92cmN2bVFRMzVTLU13OHFsMGV1b092VEM1aFFZc3p0dXZQaHBaUFFFMURUaHlNWl9LMjNKbVp5SGNMeHl0RlFfS3cxWEN0TFJSQy15MWh5VEJTM2hwUldpYjJIQ3oyblNjUzV3dGh5QXJFaUJzaW9YZ3U2OXlRLVZnZ1RLYmFvOTZjaXhpYlNPTV9fdw?oc=5"
         }
       ]
     },
@@ -273,7 +345,7 @@
       "id": "d9d6391a1d2e",
       "title": "Anvisa aprova Wegovy em comprimido, mas venda depende de definição de preço - Diário do Centro do Mundo",
       "published": "2026-11-07T21:56:03+00:00",
-      "summary": "Anvisa aprova Wegovy em comprimido, mas venda depende de definição de preço&nbsp;&nbsp;Diário do Centro do MundoGuia compara 17 canetas e comprimidos para emagrecimento disponíveis no Brasil&nbsp;&nbsp;O GLOBONova caneta emagrecedora Semaclique chega às farmácias com preço a partir de R$ 333&nbsp;&nbsp;Folha de S.PauloAnvisa aprova semaglutida oral para obesidade&nbsp;&nbsp;Jornal O FluminenseEMS leva às prateleiras sua terceira caneta emagrecedora e abre conversa com o SUS&nbsp;&nbsp;NeoFeed",
+      "summary": "Anvisa aprova Wegovy em comprimido, mas venda depende de definição de preço&nbsp;&nbsp;Diário do Centro do MundoGuia compara 17 canetas e comprimidos para emagrecimento disponíveis no Brasil&nbsp;&nbsp;O GLOBOSemaClique: nova caneta com fabricação nacional chega às farmácias&nbsp;&nbsp;CNN BrasilWegovy em forma de comprimido: o que falta para chegar às farmácias?&nbsp;&nbsp;UOLAnvisa aprova semaglutida oral para obesidade&nbsp;&nbsp;Jornal O Fluminense",
       "sources": [
         {
           "name": "Diário do Centro do Mundo",
@@ -321,23 +393,11 @@
       "id": "3f0db7a15dd6",
       "title": "DF recebe 100 doses de vacina contra Mpox e aplicará em grupo prioritário - Metrópoles",
       "published": "2026-11-07T18:20:00+00:00",
-      "summary": "DF recebe 100 doses de vacina contra Mpox e aplicará em grupo prioritário&nbsp;&nbsp;MetrópolesMinistério da Saúde envia 100 doses de vacina contra Mpox ao DF; público-alvo é restrito&nbsp;&nbsp;G1Mpox pode ocorrer sem febre e com uma única lesão: saiba reconhecer os sinais&nbsp;&nbsp;Jornal de BrasíliaMpox: saiba quem poderá receber a vacina no Distrito Federal&nbsp;&nbsp;Correio BrazilienseMenos pânico, mais informação: novos casos de mpox reforçam importância da prevenção, diagnóstico precoce",
+      "summary": "DF recebe 100 doses de vacina contra Mpox e aplicará em grupo prioritário&nbsp;&nbsp;MetrópolesMinistério da Saúde envia 100 doses de vacina contra Mpox ao DF; público-alvo é restrito&nbsp;&nbsp;G1Mpox: saiba quem poderá receber a vacina no Distrito Federal&nbsp;&nbsp;Correio BrazilienseMpox pode ocorrer sem febre e com uma única lesão: saiba reconhecer os sinais&nbsp;&nbsp;Jornal de BrasíliaMenos pânico, mais informação: novos casos de mpox reforçam importância da prevenção, diagnóstico precoce",
       "sources": [
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTlVJRFFWY05sVl9JQ1BJVXc2TjktaU05NE9TYU5FcUFIbE5RamNVQ3AtTEJTb2h4NjFXYVUyTFIwUDRxeENjVXZiamo4RzBfY3VNeFA0djQ1RmV1TmhRVjJVUVdsdTVVZ1hlN1VqaDh6bDJ1S1NyQmlEbWhPUkdwSmY3Nmw1Sm1XSEViV2M2LUVSdGVEYk03TVd5T0dXT0g3dmFHNlc2bnRzbEpLZG00LVFPZlB3NDV1UE1FSFdiRTU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "08bbc6881692",
-      "title": "Remédio popular para hipertensão pode ter efeito na perda de peso; saiba qual é - O GLOBO",
-      "published": "2026-11-07T18:00:18+00:00",
-      "summary": "Remédio popular para hipertensão pode ter efeito na perda de peso; saiba qual é&nbsp;&nbsp;O GLOBORemédio popular contra hipertensão pode ter efeito sobre perda de peso; entenda pesquisa&nbsp;&nbsp;Diário do NordesteLosartana ativa gordura marrom, sem prova de emagrecer&nbsp;&nbsp;SpaceMoneyRemédio usado contra pressão alta pode ajudar no emagrecimento; entenda&nbsp;&nbsp;DOLLosartana emagrece? Entenda o que pesquisa descobriu sobre o remédio para hipertensão&nbsp;&nbsp;Francês News",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWd6NC1kcHg0aEhLaFpCZW9QTXJ2RUtGc3ZkVDFtem5MRDJiWEZFMkpKeGJyN25fTkdEMmtQd1pzR2VQUGVNMDNNUFo4SlMtb0czVWV0QmpfVEkydVczMUtFT1c0d1FCSHZXMFZIdW03QWpIaER5RmR4bktLNHBoTDlUb0UwS3U5bTNuWTFoN3VId2pScGlTTnhOQzBUSV9VaWR4cEJHbnFoNVRDRWpnMndvbGZLVFVwT2VoRjhRTnRxWHR1YU51NFNJcmt5N3c?oc=5"
         }
       ]
     },
@@ -354,6 +414,18 @@
       ]
     },
     {
+      "id": "03d8591bdb2a",
+      "title": "Experimento químico em feira de ciências deixa 11 crianças queimadas em escola de MG - CBN",
+      "published": "2026-11-07T17:43:18+00:00",
+      "summary": "Experimento químico em feira de ciências deixa 11 crianças queimadas em escola de MG&nbsp;&nbsp;CBN",
+      "sources": [
+        {
+          "name": "CBN",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcHA4STZ2RzY2OTFGVzg0VlNxODJZLTZBbnhwWmVZQlhIdzUzdlB1RDh6djJtbXgwNlZrSVpROE9Kc0lHdnE1SFFvOXZieVY1U083cXdjZ1dVbjlpcEZPOGU3VllOUldIRkV1OWExMXV6dUpWeWFvNnFaN1d5UjcxLU96QnlkcDR3M0FxM3lsRFBqZTRFZXgzbzVyOXRqSXZzaEM3OHN4VWpwVDFvb1Vyc1lmZWpNdmZ2bXByaXBIb0VfaFVtMnZsQlpqUF8xT1NzS05QVDZNeC1WVENLZzM40gHuAUFVX3lxTE9fT1ZRZFdXZkVjRGRCOGxGaVZKMTdhcUpWbklNOE15ZG80WnZJRWdtY2l3WVpleng1SndaSzJRNHp0N2RleWFuMzZNaFdUSmNtcV9hcG8tOHltX0RkRDlJZmc4MkhSNWozNGtfVmpsQW11aGdROVZvN3pHb29ZSmFqUm9sQ1UyNl9TcEV0eTZsWkdtUFRyZXQ4Zk5pbmFSelU1b1BKdXNrYkdxdmNUZndSWXh5blpwZVgza2g0aVBCYTdBZzZKeG9wREtTdk5tdFFFR0xVaTkzTVlQdlFXUVN3T3RJZGhiTnBxSmtjdlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b332b08133cd",
       "title": "Sarampo passa de 5.000 casos nos EUA e tem mortes em 2 estados - UOL Notícias",
       "published": "2026-11-07T17:39:05+00:00",
@@ -366,22 +438,10 @@
       ]
     },
     {
-      "id": "f276f5716231",
-      "title": "Segundo a psicologia, quem lê o final do livro antes de chegar lá pode não estar estragando a história, e um estudo mostrou que saber o desfecho pode até aumentar o prazer da leitura - Super Rádio Tupi",
-      "published": "2026-11-07T16:28:25+00:00",
-      "summary": "Segundo a psicologia, quem lê o final do livro antes de chegar lá pode não estar estragando a história, e um estudo mostrou que saber o desfecho pode até aumentar o prazer da leitura&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNNW5yZmdaYkFaVjBxS29CV1lfTVowY1VMOTRaWjVibUV3VU1VMnh1U0lld1BkYmU4NXFRNEE0R0tham9wRHB3b2pfdHBOakhHQWptelpXYnV5bjNyWFBpeFhneXoxemFzeGhYYXlvNnhOUGJKWk15T1VTalNkU1VzVlhHV0FLUE5MVjFfa0laUWliMWUtZHBpQllwdTkwMmR1b0NQcWdLcU5TUXk2M0VKN2VsemdNZmU5WWMxRTJUVy1tbFdJUUJ1eDVuRnBkcDJYMlduMm5ZSWZiWHE1RHRsemJRQTZTbnZLQ2k1aXRkLV81MU1mMVI3TVV2UTVwRzN3VnY2LTNMUlF6cENlNngwUkNGcGZFZm5kTnlFbmR2TC1xcE9zX3k2SmJNS0Q3c3JqZlQxWjRET2J2Y1NK?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3597269df419",
       "title": "Toque de Saúde. Por: Dr. Douglas Andrade - Guiacampos.com",
       "published": "2026-11-07T15:57:40+00:00",
-      "summary": "Toque de Saúde. Por: Dr. Douglas Andrade&nbsp;&nbsp;Guiacampos.comAção do Novembro Azul oferece atendimentos gratuitos de saúde nesta segunda (9) em Macapá&nbsp;&nbsp;G1Novembro Azul: a construção de uma cultura de cuidado&nbsp;&nbsp;Jornal do ComércioSociedade Brasileira de Urologia promove ação do Novembro Azul no Parque da Redenção, em Porto Alegre&nbsp;&nbsp;Correio do PovoMais da metade dos homens não sabe como prevenir o câncer de próstata&nbsp;&nbsp;Band",
+      "summary": "Toque de Saúde. Por: Dr. Douglas Andrade&nbsp;&nbsp;Guiacampos.comAção do Novembro Azul oferece atendimentos gratuitos de saúde nesta segunda (9) em Macapá&nbsp;&nbsp;G1Novembro Azul reforça importância da prevenção e do cuidado contínuo com a saúde dos homens em Jundiaí&nbsp;&nbsp;Prefeitura de JundiaíMais da metade dos homens não sabe como prevenir o câncer de próstata&nbsp;&nbsp;BandSociedade Brasileira de Urologia promove ação do Novembro Azul no Parque da Redenção, em Porto Alegre&nbsp;&nbs",
       "sources": [
         {
           "name": "Guiacampos.com",
@@ -402,18 +462,6 @@
       ]
     },
     {
-      "id": "5b3b965280a7",
-      "title": "Testosterona não é whey - O GLOBO",
-      "published": "2026-11-07T07:30:00+00:00",
-      "summary": "Testosterona não é whey&nbsp;&nbsp;O GLOBOBusca por músculos maiores pode custar a saúde do coração; entenda os riscos dos anabolizantes&nbsp;&nbsp;Jornal CorreioEritrocitose por uso de anabolizantes: qual a melhor conduta?&nbsp;&nbsp;MedscapeNovembro Azul: reposição de testosterona pode ajudar na saúde mental dos homens&nbsp;&nbsp;DOLUso prolongado de anabolizantes é associado a alterações no coração; entenda | SEGS Portal Nacional de...&nbsp;&nbsp;SEGS Portal Nacional",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWJ2bHdjX09ya2xSd2VUcjgtWmFGa3pGcUN0dVV4Z3hXTDN4ZllLMGoxV09BRFQwUUN1QWdhV2JBVEJLa2lDcGtMNXZhaWN3N1g5cEppaXVqLXMzZjlBSHg1Rm1hc0FWVmFHcFA3MkttLVJ6ejhTdkxzNzhGQkJvQXJhN2FFYnEwTWs3QW5janLSAZ8BQVVfeXFMTlc1akktTjlzcGt4RlQtWFVWTVktQWc5RUFNdTdWeWVlMlktZzlLdDUzN3AwdEV1ZS1jb0VMdzdsRVo1OEtfQmxQejE1MU1Db0R0RGtLVXhaM0dhQk5IWmd1SEo2X0ZHVkxMU3JZT1BKQU52WEprV2lwLU1wQU9XU0dFLWZ1a25TdmFqeWZjNXQ3WE9YSHZ6ZHN6RllNdG1z?oc=5"
-        }
-      ]
-    },
-    {
       "id": "767dfb6c7bb5",
       "title": "Trocar o sal de cozinha por versão com potássio poderia evitar 3 milhões de mortes por ano no mundo, estima estudo - G1",
       "published": "2026-11-07T07:00:00+00:00",
@@ -422,66 +470,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcFVXeFAxYkl3MU9IOG1oV0ZnYVpGNHpDUFpGV0JZZWdfdk9NdFNrU1VRRngxS0l1aTY3RnVEVTVUcDRFaDduRG5KMHB3SzVEVVlhd0tNbFFCYmowWUtJM1ZhQVNvYVpuQ3RfSXlHOXFFSFAwTGg0eVZCTGpFMU5RbWdueWhYN1JtYmNiMjMxT3V1M0xkTXVBTnpFaTJwdTFUUHd3STdDSl9xRGxXRHh3bFpZVWh6MC1YX0s2Yy1od0dHTmFqbS1rX1RqdTMwd2lHazU1NC12S1BKU0VlQmFLS19JcVdvZl9QWXdoU1dFeUhwZk5mZnpUbdIBhwJBVV95cUxQMzVuaEVpbW9kV2lCbkVCN3MwNkdzVjIxZTlnRDRkZzdXaHI2dGl4MDJYdXJqUXNPaFZ4QTJWck5UUmpIcFRQaG44OGR6emI4Y2ItSENuOFJwckRIeV9zMEhlS1pyN3FOaEJubzNYUklHNXZHYW1wOVM5LU5rVTRTbzFZME1NTk4tVmdzU3hHcmZEZ2FQVjAwRk5LYVdHSEJDczZxSUpLaVhRZ2o2Zk1haVlUU3NZNHM2NktlZDBNZkdXZFc5X29TX0YzOEF4dVB0WlJ2bkVlR3laNUxlRGZjNmtuTnh0UUdPWWVhM2VSYksxLUEySWlvamVqbGJPV2VBS0xDb1gwdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f26bf69d0411",
-      "title": "Cupuaçu: o parente do cacau que intrigou cientistas contra o câncer, mas apenas em laboratório - Portal do Holanda",
-      "published": "2026-11-07T05:45:00+00:00",
-      "summary": "Cupuaçu: o parente do cacau que intrigou cientistas contra o câncer, mas apenas em laboratório&nbsp;&nbsp;Portal do Holanda",
-      "sources": [
-        {
-          "name": "Portal do Holanda",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3BuWlRIY1c1dkg4MTZRbWVNYjBRS01tYnB0SDZ0dDF6cXZYbXd6MTlyV2xOQ0tnTEVPd1h6Unc0Unk3QUZZRWlNQzVOV3F0eE5kN2Z3cjAwbG9zblhNZkJpalprSHNQSHBCYl9kZy1YSjJ0eUpwbWRfdjQyaUJJTTV5Yk05VTR5S1Y3RG52c3U0b29CdTdDZHVVcVJQeHVNX0FGOFhFX1B5aXc1NXlZTk5ZVXQ0NFh3UDVweTBhTjNNdWRycnZnMTVJWDlvd0xMY2FUQjhCMFoyUDEyNFY4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44444cee4273",
-      "title": "Mercúrio contaminou mais sítios arqueológicos maias do que se imaginava, diz estudo - G1",
-      "published": "2026-11-07T05:00:01+00:00",
-      "summary": "Mercúrio contaminou mais sítios arqueológicos maias do que se imaginava, diz estudo&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWmhKZUJETWF5RXU1akQtNzdCb21lbFVfVEhDd2w2SVJNdFNJQUlNREdIZnd3Z3VQeXNzdTJSWFo5UTkwQkx0WXhvenJsUVVVcU9HTG9wSmYxb0x1VWVJZHpndGhSWmJtT1N3TVdabVU1OG50d1BXNDk0WF9vTlRyOTROZVc5bXhxYlVBSl9LZnJfR3d3SFJnX3lQY2o2SHRoaGJmMHRFYVNoUFVuLVJWenYzeWVrYXBJLU5yaWNtM1dfNlNrZ05DelRXOWVtSUVGRHfSAeABQVVfeXFMTlByS2g1RmhPYUZjbElUS2xPN1Y5LTdUQUZIcGxuWkxKMVowdlhSUXVBWlI4aTduZzY3RnpiamJRcWdETGctMlNRTWpXNzVYdGpnTnJXNU52MUU2dDUxREhLc3B1MWd4UkxfUVRxMW5lSGx2OUR0SE9IUTFQejc5V3QzZmZDS3pzbFBLMG5SWGhnbTBsWENFMjVoSU44V1pNT3I3UHV0OF81d0thOU9JRFVGYVZHOWZVNzFVSmlFLV82c09KRFp2UjA0UXFpZDBxNmgxUDNyeWxldC1VU1VxMVo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7dc26377c5a0",
-      "title": "BORRAZÓPOLIS – Alunas do Castelo Branco conquistam 2º lugar em feira científica estadual - blog do berimbau",
-      "published": "2026-11-06T21:54:40+00:00",
-      "summary": "BORRAZÓPOLIS – Alunas do Castelo Branco conquistam 2º lugar em feira científica estadual&nbsp;&nbsp;blog do berimbau",
-      "sources": [
-        {
-          "name": "blog do berimbau",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZU9RdW5NM3doY2hqaHNtZkpjRFhXa2pGQjYxNi15QUVIWkZfaUdROHIzY3dYUVBPczdyVnc1SVdUb1JhUXdPZDFjMW12QVBfR1IzTGVXZW9YOWN1S19vYjQ5UzRmYnFodHFnODN2ZnhBODBhRkRjN3d0dmZTUmVpb21OMDRBZUZpMV81dTJ2NHpid1VrN251SXQ4SlpGQURYMjlSR254U1ZZU2F5eEoyWmJYdlc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f003343bfda1",
-      "title": "Cochilos de idosos à tarde podem ser indício de risco de demência, diz estudo - UOL Notícias",
-      "published": "2026-11-06T20:28:00+00:00",
-      "summary": "Cochilos de idosos à tarde podem ser indício de risco de demência, diz estudo&nbsp;&nbsp;UOL NotíciasCochilos de idosos à tarde podem ser indício de risco de demência&nbsp;&nbsp;DW.comMudanças de comportamento em idosos podem ser sinais precoces de demência&nbsp;&nbsp;Folha de S.PauloPrimeiro, esqueceu um nome. Depois, começou a repetir perguntas. O que isso pode indicar sobre o risco de demência?&nbsp;&nbsp;TerraMudança de personalidade pode ser sinal de demência; conheça uma doença que vai alé",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOem82cXdQRVJ5cWs1UGNNV0M1NjBLa2VlS2ZIMlpOZVVHQ0wyRGNQdUplQ215eUJ1MHo3czAxT0ppT0NrMkpQMFdJZlZ4d1dEX2lXNE5nN0ZlRm92SGljREpQQTF2OEoyUGx4T3A0RTJXNUdaaGhxR0stT1RnbDRKQjJmblIwSWV2X2J3YnVvdTZqMnBXamlWRjh3ajBuS0N3X09saGFyV0NwTnIzV2thTDdzaTVmSWJnYlY0WFJBVXpsQmRyWHBnTGZ0SXR5NlQwMEpyNkFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b7e52d21706b",
-      "title": "Pedalar muito pode causar disfunção erétil? Veja como se proteger - UOL",
-      "published": "2026-11-02T15:00:00+00:00",
-      "summary": "Pedalar muito pode causar disfunção erétil? Veja como se proteger&nbsp;&nbsp;UOLAndar de bike pode causar disfunção erétil? Estudo com 4 mil homens mostrou o que acontece com o corpo ao passar horas pedalando&nbsp;&nbsp;CNN BrasilPedalar por muitas horas pode afetar a saúde sexual masculina? Estudos investigam um risco pouco comentado&nbsp;&nbsp;O POVOEstudo com mais de 4 mil ciclistas investiga relação entre uso prolongado da bicicleta e disfunção erétil&nbsp;&nbsp;Mais FM IguatuDormência e dor",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaW5yVlVOQ2ZQT2FqeVR5Qm1MNkIxclk3T1A1NlJvc3NFQkd6SFFZWDl1SmRHb2M4cUtTTFBqb2tXcnAxNGdMTDV0MmROOHJjU3RFbFBac2Y4VTdNdUJaQnptX3FfZHJ3eDN3MHhUWlE3WjB0eVprek03eHhxdUlXMTNKY1BMaUwyeXFIVFFnMTRKS3NON1ZhR3ZZTEpWb01RbGVuVm1JRXBRTjJLdy1YSW03OEV3VHNUZnI0cVl4NkdvNWVNUlE?oc=5"
         }
       ]
     }
