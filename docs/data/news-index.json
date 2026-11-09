@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T05:08:58.114461+00:00",
+  "generated": "2026-11-09T15:29:54.383342+00:00",
   "count": 54,
   "news": [
     {
@@ -467,46 +467,6 @@
               "slug": "valsartan",
               "name": "VALSARTAN",
               "url": "/drugs/valsartan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "08a3b3f16767",
-      "title": "Neuropsicólogo explica a importância do exercício físico no combate à demência - O GLOBO",
-      "published": "2026-11-08T07:30:01+00:00",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd24zRTBPLXlFYlltQncwbVNRR2h0V0tDUGYxOXN2bzFhSEltTGZack5MbEFhdDVtWGhOb3Vta18yZ1Rza082YWFQLXdIR0xxbEIxd3pRUHJ6aFJ5OUktdElra0ZNM1hESFotcGdnSkI1U3Z5alo0bWtxQnNobFlsY3Q1cmE4SE9KVFp4R0xqWU1qNzNWQ1BPbzVuWm5iVVU3Rmk3SXZSSUctTnB1bVFFOFRiOWZNUWdFWUdfXzYwYTlwcWFZTTlDdEo0czlNTXfSAd4BQVVfeXFMTU52TXNhQkVPVTd4a3Y0U2FpM3VvS3pBLTdSbWpGT1ROclZOOTNXY25QUVg4ZVRFYXZGdmNNLVZNLWE2VGQxUlkySFAwZXV1MlpDQ0RXUGZXT0FMMnZsRGZjWUQ3RHQxdXowQmd4dHpYMS1ZNTA4ZU9wbnlLMWY5T2FTdGF5SU1TYVJRNzAzWXRMUWNXZTdjbDdJYUFlUk14dTM5TWU0bE5DeGpfbmZNN1htYTRuQjNYN094RTFpT1YwWjkzd09wU2lSWklrVDJWUlRSV2oySG5rM1ZwQ3ZR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden",
-              "url": "/drugs/biperiden/"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE",
-              "url": "/drugs/entacapone/"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole",
-              "url": "/drugs/albendazole/"
             }
           ]
         }
@@ -1934,6 +1894,46 @@
               "slug": "valsartan",
               "name": "VALSARTAN",
               "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08a3b3f16767",
+      "title": "Neuropsicólogo explica a importância do exercício físico no combate à demência - O GLOBO",
+      "published": "2026-11-08T07:30:01+00:00",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd24zRTBPLXlFYlltQncwbVNRR2h0V0tDUGYxOXN2bzFhSEltTGZack5MbEFhdDVtWGhOb3Vta18yZ1Rza082YWFQLXdIR0xxbEIxd3pRUHJ6aFJ5OUktdElra0ZNM1hESFotcGdnSkI1U3Z5alo0bWtxQnNobFlsY3Q1cmE4SE9KVFp4R0xqWU1qNzNWQ1BPbzVuWm5iVVU3Rmk3SXZSSUctTnB1bVFFOFRiOWZNUWdFWUdfXzYwYTlwcWFZTTlDdEo0czlNTXfSAd4BQVVfeXFMTU52TXNhQkVPVTd4a3Y0U2FpM3VvS3pBLTdSbWpGT1ROclZOOTNXY25QUVg4ZVRFYXZGdmNNLVZNLWE2VGQxUlkySFAwZXV1MlpDQ0RXUGZXT0FMMnZsRGZjWUQ3RHQxdXowQmd4dHpYMS1ZNTA4ZU9wbnlLMWY5T2FTdGF5SU1TYVJRNzAzWXRMUWNXZTdjbDdJYUFlUk14dTM5TWU0bE5DeGpfbmZNN1htYTRuQjNYN094RTFpT1YwWjkzd09wU2lSWklrVDJWUlRSV2oySG5rM1ZwQ3ZR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden",
+              "url": "/drugs/biperiden/"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE",
+              "url": "/drugs/entacapone/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
             }
           ]
         }
