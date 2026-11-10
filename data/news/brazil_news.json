@@ -1,14 +1,86 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-11-10T14:29:28.538904+00:00",
-  "total_fetched": 93,
-  "unique_count": 93,
-  "health_related_count": 36,
+  "fetched_at": "2026-11-10T22:56:47.074020+00:00",
+  "total_fetched": 100,
+  "unique_count": 99,
+  "health_related_count": 40,
   "news": [
+    {
+      "id": "2b1bb48739ee",
+      "title": "Cientista alagoano cria fórmula que pode ajudar em pesquisas contra o câncer de próstata - TNH1",
+      "published": "2026-11-10T18:56:23+00:00",
+      "summary": "Cientista alagoano cria fórmula que pode ajudar em pesquisas contra o câncer de próstata&nbsp;&nbsp;TNH1",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUZYYTV6T21KeTFMbGd2aWlDZGE0TlZyUGtYN0JpVE5xUUpfTk4za2RLNVN3QWJzbnByb1I4S1RZUV9YM180ang2SXdOUEZsMXF1a2FVNFZVMTJBUTJMZFZWTVVXSlZsdWFBc2c0MGpkeVc0cmRqaElqT2pCR21FZWQ5NFlud2F4WEprazF3b0dBRG5EcEFod1hNci1aLTN4QWVMUmVlREpNa1E0STdaanFwR2swMERTX2xmcFlrWmVxcXfSAb4BQVVfeXFMT2NXM0VWbEZmSm1kdm1MQ081WlF0N2R1ZjNJUXpDZVpveHM2bDhMaVZkdjFnVUhPOGFQZTRpanRTMkxKQV9hZzc3b0h1dUJvQW1HcXFwVUVsNGFpVDNjU1dsbkk0RVViVGxvUE9sV3pualJHSllKYkRUb3UtemozT09mUHA2WFowQkFxMmNnREtrTWJISXlYN21iQUFlaUwxWTZwdENDc2hTaDVNaGFxSzh4a05wUVZqRm12amU4dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c7c0f94c7f21",
+      "title": "Auxílio-doença: INSS muda regras; entenda como pedir revisão em 10 dias - Folha do ES",
+      "published": "2026-11-10T17:46:40+00:00",
+      "summary": "Auxílio-doença: INSS muda regras; entenda como pedir revisão em 10 dias&nbsp;&nbsp;Folha do ES",
+      "sources": [
+        {
+          "name": "Folha do ES",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3c3RNRWRCc1kyZzFFbEhmVEE0UDNBX3dRTFZYNEVYT1dMZHRLcUF6OXBWTkstNFBFa1BlSi1iSW1CVk9UVTZxVHh3NktIY1NWUFJvcVRob0tvQXlEOWJsY0NlUjRBT3J4YU9FeC1JdjJXRnc5ZmtuSDNEUWNKZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da42e93fc08e",
+      "title": "Energéticos são associados a relatos de problemas cardíacos em jovens - Diário do Centro do Mundo",
+      "published": "2026-11-10T17:33:45+00:00",
+      "summary": "Energéticos são associados a relatos de problemas cardíacos em jovens&nbsp;&nbsp;Diário do Centro do MundoBebidas energéticas podem causar danos graves ao coração (especialmente entre jovens), afirma estudo&nbsp;&nbsp;O GLOBOBebidas energéticas: riscos para o coração dos jovens&nbsp;&nbsp;Gazeta do PovoCoração: como a NiT multiplicou por onze um risco que um estudo não mediu&nbsp;&nbsp;Contra ProvaEstas bebidas podem prejudicar suas artérias e aumentar o risco de infarto&nbsp;&nbsp;Meio News",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1FZMHZpNHhHQ3Z2MVNNdm1hUEg1OW9BaEMwNldUM05hN18tNk1mU1lVeDgzTnRycFdqWllwaFcxVjBlS0gwSDgtbXF6cGREYkN2OHhNM2hQX3FKUzRIa2xZR0Item9FeUQyWWZNdFJ3ckllZkZvTVFnVG9FdFRNNjZfR04zbVlNT3VWNzNnNFZmWnQy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f680d8c9c00f",
+      "title": "Primeiro computador quântico da América Latina vai ser instalado na Paraíba; conheça os detalhes - G1",
+      "published": "2026-11-10T15:29:33+00:00",
+      "summary": "Primeiro computador quântico da América Latina vai ser instalado na Paraíba; conheça os detalhes&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSGx2cm9Bei1ZV2FxRld3ZUk2TVZYQThWM0NibjAzckpTcmRKaGRPUjgwb3hQTlJvaXZSN2hITUJSTnRacXBYM2JwYTBaVGU3N2NCdDdWVXBzV3BFd0tqWUFpcC0zMHFqdXV5OXJqeVB0QzZnVWY2eWNWWi1fTjVaLWEzSWg1WlhaUUR1d2UteHlfQmRMV0MwRTgxSVVwZUhyUkRkN1RKVC1TTXJlcW9CWW4tUGFKcFRVVG1vOdIBywFBVV95cUxOV2pRMGI1NFRydC1oM015ZklRcjhpWGZtdTJYQkd3RTVXbGtpcHMta1Rub3VSMDE3QjBtQ1V2OXpUR3ZlSUZZQjV2MXZSWHpOQ09Uc0hTajI1TnlNazBCZzl2TG8taFljWHU3VVFLX092N0hyaFlCTkxqZHdsWjFqUUZ3UGo1N1Q3eUJNT2V2YjJMekZkTkFSemwxLTQzTkx3SDZsakdFazhZMlVickFWZnlvbE8ySUtLUUZ3YWpiMVk1SHZBU0RFNGVyUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e5078f2d23f",
+      "title": "HTLV: vírus silencioso pode afetar 1,1 milhão de brasileiros - Campo Grande News",
+      "published": "2026-11-10T15:10:00+00:00",
+      "summary": "HTLV: vírus silencioso pode afetar 1,1 milhão de brasileiros&nbsp;&nbsp;Campo Grande NewsDia Mundial do HTLV conscientiza sobre a importância da testagem&nbsp;&nbsp;Jornal de BrasíliaRevisão de casos de sífilis congênita em quatro municípios paulistas corrige notificações e reforça importância da vigilância&nbsp;&nbsp;Agência AidsSaúde promove seminário para fortalecer rede de diagnóstico e cuidado integral do HTLV&nbsp;&nbsp;Secretaria de Saúde do ParanáMais de 1 milhão de brasileiros podem ter",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ19EcTNBazVzWHVfTjRUV3pxMWlGbTJyX3FqRHBFZ2ZPWjI0MUxDQXJ5dWNidkpOLTRkMk4xVk9yMkxhaWZNUWpVTHdzdnQyMDZUVzRwcE1EU1hRX1o3RmR3VkotbE1mUnZ2MXNSOWpxd1U3aHhPU25SMkxYUnFSWU9CcmJpZUtJWXFrWktLb2djQXZqNEp0amdyS1pNT0dVcGY1VENsbzBJOFZvb0FVeGxjTElEZ9IBtgFBVV95cUxNRjVoTXQzQ2k0TExyRWRIUTM4T3owdmd6ZDZvNDJGXzQtN3R1OF9Nb3V3d1BYQWZXR3dtRGIwaVh3Y0o3VV8xYlZabVlNLU5fUGFoNVlOd3d2VnRFUU5lRzJHVFNfRW1BVXQyeV9RSE5OQWJjWk1Va2ZpUzJrbWpoaHh5U1hXRld3MnM0ODFyaEpqSE93QUJfQkpYaWVsWWhRTElaNFVmZXlMaUd3UnlKU3NLc1ZNZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c86d14c7ada7",
+      "title": "Mamografia pode fazer mais do que detectar câncer de mama e também fornece pistas sobre a saúde cardíaca - Folha de S.Paulo",
+      "published": "2026-11-10T15:00:00+00:00",
+      "summary": "Mamografia pode fazer mais do que detectar câncer de mama e também fornece pistas sobre a saúde cardíaca&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeE1tUDRKYVpVTHVrNmtabzNZOG9WdFIyWDIzc3E5YVUyLWJaTUhSMmtvZnBsaU5iWlFaa3hMNkdDOFpGdFRpRHp0WVJnOHhKVXloTnV0VnRld0hCMWR5Qm50dElpeWRfLUlpXzd4YmVJRFpVV1g2QTAtanhsQnp6dXlRRmNtZHZrTGRJUkN5MVdOclpTY045UXprdXBQUWhfNXdaUGFkclhXMGpHNXRZVE1HU0M0TFllTFdlWjFUMnZzY2hHbkM0Uy1qQlY1bndfV29haE4wN3RhZWpQbjNtbGJiZzl0VGtMYnVpNlpwWGJWNl9YdTg5YWN3?oc=5"
+        }
+      ]
+    },
     {
       "id": "aa9b8e2114f4",
       "title": "Ela disse que mãe estava 'caçando problema'; dias depois, descobriu câncer - UOL",
-      "published": "2026-11-10T12:09:06+00:00",
+      "published": "2026-11-10T13:30:00+00:00",
       "summary": "Ela disse que mãe estava 'caçando problema'; dias depois, descobriu câncer&nbsp;&nbsp;UOL",
       "sources": [
         {
@@ -18,14 +90,26 @@
       ]
     },
     {
-      "id": "14136a6e0555",
-      "title": "Aos 23 anos, promessa de seleção tem doença neurológica sem cura e pode não jogar mais, diz dirigente - Jornal Correio",
-      "published": "2026-11-10T12:01:00+00:00",
-      "summary": "Aos 23 anos, promessa de seleção tem doença neurológica sem cura e pode não jogar mais, diz dirigente&nbsp;&nbsp;Jornal Correio",
+      "id": "8928889fd73f",
+      "title": "Sousense Mateus Wendler representa a UNIFACISA em fórum nacional do Conselho Federal de Medicina, em Brasília - Notícia Já",
+      "published": "2026-11-10T13:26:42+00:00",
+      "summary": "Sousense Mateus Wendler representa a UNIFACISA em fórum nacional do Conselho Federal de Medicina, em Brasília&nbsp;&nbsp;Notícia Já",
       "sources": [
         {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxON29Ma2hORnJ3a2d4aVJWSEZxRTRWbU5DSnFrZ0xsVU5PVlloeFRjSUVFT012ZWRIY3BXTmgwTUwwRVRGLXAwNDQ1X3ZaX0VBOFFRQXRyYWVlSEM3T2g5MHhobU5oUXRQVjlOMnNIc1p5dDBVbGFZSmV2cVNkc3hxQ25feDdJazRoVTQ0Mk9oUEtnWkw2Z0FVbTRwbDllWXlMNGVwdDFXemlzYkNNODhIbmQ5UUJab2lVeVpfYzk5MWd5TjJmQkxoU19td0tFS09ubWZaanhwSEhzYmVEVXVqaw?oc=5"
+          "name": "Notícia Já",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZkNIMUIyUVdZSUo3d0JhR2NiUWxtc2g5bF9RN211TTdReWRmcndLX1hOUkdoMWR0aDAwX1BKSTV0anVHTHJkUjhYT2xicXJHNHZweHczLS1PeEItYzZDMVVSNzBWS2U0QkRMWTUySnI0X3NwRFRWSGo0M25WdlRBcnlCZDNvU0tlRWtxbVRSd0duX2xRZS1FSFk1WmtkZjBXc3NPZHBlOXNidjZYVHJWRVBxNmtWOHg0WGVlX2tIbG5mNkFpTHdTd2c1X2FSSTZuOFU3U29LbDN0M2F1emJmVElWbE8wTHo2N0NVSHJHcU02YktITmFqdTV5Y2RWZmZyZ3B3Sk14UXE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df69654d1ff6",
+      "title": "'Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara' - BBC",
+      "published": "2026-11-10T11:37:43+00:00",
+      "summary": "'Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5"
         }
       ]
     },
@@ -42,14 +126,26 @@
       ]
     },
     {
-      "id": "389fab4cc3a3",
-      "title": "‘Envelhecer não é fracasso’: Autoridade em menopausa nos EUA desfaz mitos sobre reposição hormonal - Globo",
-      "published": "2026-11-10T09:00:00+00:00",
-      "summary": "‘Envelhecer não é fracasso’: Autoridade em menopausa nos EUA desfaz mitos sobre reposição hormonal&nbsp;&nbsp;GloboMenopausa: como funcionam os novos medicamentos não hormonais para fogachos?&nbsp;&nbsp;Assine AbrilRisco de depressão sobe 40%: médica psiquiatra detalha as mudanças emocionais da perimenopausa que as mulheres confundem com cansaço do dia a dia&nbsp;&nbsp;TerraMenopausa: você não precisa aguentar os sintomas sem ajuda; nova diretriz atualiza orientações sobre tratamentos&nbsp;&nbsp",
+      "id": "e0e7f773af1f",
+      "title": "Pesquisadores identificam um comportamento incomum entre um burro e um touro que convivem no mesmo pasto e descobrem como vínculos sociais entre animais de espécies diferentes podem desafiar explicações tradicionais sobre comportamento anim - Super Rádio Tupi",
+      "published": "2026-11-10T10:33:43+00:00",
+      "summary": "Pesquisadores identificam um comportamento incomum entre um burro e um touro que convivem no mesmo pasto e descobrem como vínculos sociais entre animais de espécies diferentes podem desafiar explicações tradicionais sobre comportamento anim&nbsp;&nbsp;Super Rádio Tupi",
       "sources": [
         {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNNEZMVk0xbnNKSFY2bE4tSG5rNk9JaWVDdlZpZGlBOG1Ca3lSdy02bmtGTHlxN0VQRWNJTTctNWtnbDZ6dDN2SWJ3c2VHZnNMdUExT2VIN2NvMlVaU2hqMDhsRmp4d256WUVDcldTZENYa1k4T0JtZEQ3andHSjltcXUzSERRVGZpZmJKSng5bHAxcVB0a2FRTFA5MnZzWW1TM1ZiUWRaUzhxa0tfazhsQ1kya3BlQ1BaZVBLSXFfR2dIcHlMQ09maU1USmNKYzk4MVJPcU5YdnFkRTBRQ3FNYmFCalUwRE1SVjVmWFU4UDRUc1U3Njg2cVRJOEdtUmttYVpDVHFqNllyWTljb09PdkdwT3ItV1ViUE1nVmM0WEt2TjFVbjhMbDB2bnp5SjFt0gG_AkFVX3lxTE1OVU1WMURzM2ZiLTNBZFpEcXJyUmRFWlN0a2xVUi1hNnRVbEsxajV2VzRhNTZMNTNhQWUwY2ZGY1JYQkRmUkp3d3g5emJMTkdueHBJX0owWjJtaGN2U2M3SzBwaVFTV3BSLTNwbVk2OGF6Vi1MOGlSSmZrTDkyQldGcTVqbmhFcnBkRGZZa3NzYk55V1UycEp6NjBwUUlWSjQydDVJZlR4WFlndzBWZkNESGozdjRBbUpWanhFZ3VZN3F6NDV3enZHQ2Z3b1JpdjJsakdJSDBiSFNvU1QtbFFOVW1YYk1YdXBudHF5WnA3M0ZZelBIOGhySGMyUjhyeEhWUDExNVhEOGJuWVlHbEVtaUl4YV83cF8wc1BhdDJ5SjQ0UXVPNE1kMWVjbTVBdzBxNEVsQVFobWYzVzFXcWc?oc=5"
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQNDdCRGxEcWp3bUJQUXdkeVk3VUJQV1MxZHRraTYxUzZkUFFGQVFMTG8wZlctSkFCY3NXZXExSEhmbURIeUh1M2VaV3NtdnljeUUwSDBCSjBUNW9fQ28xaEtIZnlleUdxM2xVZ25pck44WlBjRDNPcWNBcnVTZmd1Q242ZVVHTWpVTDlzUkhGUFNUZHNQUGNSMGdxTm9iNDdVR3BLb3RpdXFPYTB3cGdKU2lxN3pLX0UzYTBpTEJEdzh0LUc0QmUtbGNtWlIzNG85WTZhVXZpSU1qM0NyMmcxOVpSUVFsbmhSZE9yTGRFQUFvelNuYVhiM205RmJITU1hYTktUnBCMWJER3J0a0dwQ0ZqWm1VMXd5a2xUc3h4SlRZZWp3ZGNDbVV4X1NUellzSXVxR0hjbVJyNDZEWlRRQTZZQUYwcnBtNklj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "590ef4edccda",
+      "title": "Vacina contra chikungunya é eficaz até cinco anos após aplicação, diz laboratório - UOL Notícias",
+      "published": "2026-11-10T08:09:55+00:00",
+      "summary": "Vacina contra chikungunya é eficaz até cinco anos após aplicação, diz laboratório&nbsp;&nbsp;UOL NotíciasPor que as ações da Valneva estão subindo hoje?&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosVacina contra chikungunya mantém resposta imunológica por até cinco anos, aponta estudo&nbsp;&nbsp;BossaNews BrasilVacina contra chikungunya mostra eficácia duradoura&nbsp;&nbsp;noticiasdoplanalto.com.brAnticorpos da vacina contra chikungunya da Valneva persistem em 94% após cinco",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQy05dGNHMVo2aURIbTBhM2lsQjVhSVBabTVvd25DMDJJVzB3dzBOci13NUNWNGhqWThWdUpZZU9fZFhfeGdtUXVnM0ZPa192a2NqejRhdFBOVkgtSkhTQXc5QUF5LTNzTksyMnNPSVBxbUNIN2NoMVVBS1hJNEx5ZDRhTW5qYW50b1VZcno4R08xTEFwQlRrdmZwd0F3R3BPS0NXZlE3LUtTMGVHUWFFSHJ4NldtN0t6cDN6d2Q0emxWRjV4aTZTRQ?oc=5"
         }
       ]
     },
@@ -57,7 +153,7 @@
       "id": "cc7455c3957e",
       "title": "Vacinas contra câncer feitas sob medida: o que o avanço no melanoma indica sobre o futuro do tratamento - G1",
       "published": "2026-11-10T08:00:00+00:00",
-      "summary": "Vacinas contra câncer feitas sob medida: o que o avanço no melanoma indica sobre o futuro do tratamento&nbsp;&nbsp;G1Como as vacinas de mRNA podem revolucionar o tratamento do câncer&nbsp;&nbsp;UOL NotíciasESMO 2026: vacina de mRNA contra câncer reduz em 42% risco de recidiva ou óbito&nbsp;&nbsp;O NORTÃO",
+      "summary": "Vacinas contra câncer feitas sob medida: o que o avanço no melanoma indica sobre o futuro do tratamento&nbsp;&nbsp;G1Como as vacinas de mRNA podem revolucionar o tratamento do câncer&nbsp;&nbsp;UOL NotíciasVacina sob medida reduz em 42% risco de retorno do câncer de pele&nbsp;&nbsp;Correio BrazilienseVacina guiada pelo tumor reduz recorrência do melanoma em 42%&nbsp;&nbsp;O CafezinhoESMO 2026: vacina de mRNA contra câncer reduz em 42% risco de recidiva ou óbito&nbsp;&nbsp;O NORTÃO",
       "sources": [
         {
           "name": "G1",
@@ -69,7 +165,7 @@
       "id": "0251bcfad943",
       "title": "Um em cada quatro casos de mpox registrados na cidade do Rio está na Zona Sul - O GLOBO",
       "published": "2026-11-10T07:30:01+00:00",
-      "summary": "Um em cada quatro casos de mpox registrados na cidade do Rio está na Zona Sul&nbsp;&nbsp;O GLOBOMpox: Ministério da Saúde garante 25 mil doses de vacina após negociação internacional&nbsp;&nbsp;Governo FederalMPF apura possível falha do Ministério da Saúde na distribuição de vacinas contra mpox&nbsp;&nbsp;Ministério Público FederalCasos de mpox aumentam no Brasil; veja os sintomas e os cuidados para prevenção&nbsp;&nbsp;CartaCapitalMpox: Ministério da Saúde negocia com laboratório e amplia compr",
+      "summary": "Um em cada quatro casos de mpox registrados na cidade do Rio está na Zona Sul&nbsp;&nbsp;O GLOBOMPF apura possível falha do Ministério da Saúde na distribuição de vacinas contra mpox&nbsp;&nbsp;Ministério Público FederalSaúde adquire 25 mil doses de vacina contra Mpox; veja quem pode se vacinar&nbsp;&nbsp;CNN BrasilCasos de mpox aumentam no Brasil; veja os sintomas e os cuidados para prevenção&nbsp;&nbsp;CartaCapitalMpox: Ministério da Saúde negocia com laboratório e amplia compra de vacina&nbsp",
       "sources": [
         {
           "name": "O GLOBO",
@@ -78,10 +174,22 @@
       ]
     },
     {
+      "id": "469baa3e9042",
+      "title": "Câncer de próstata: a importância do aconselhamento genético - O GLOBO",
+      "published": "2026-11-10T07:30:00+00:00",
+      "summary": "Câncer de próstata: a importância do aconselhamento genético&nbsp;&nbsp;O GLOBONovembro Azul: terapias-alvo ampliam opções de tratamento personalizado para o câncer de próstata&nbsp;&nbsp;Arena de NotíciasA influência da genética nas particularidades do câncer de próstata&nbsp;&nbsp;Medicina S/ACâncer de próstata avançado: estudo identifica alterações genéticas que podem orientar tratamentos&nbsp;&nbsp;Jornal CorreioTestes genéticos apontam opções de tratamento para 45% dos pacientes com câncer ",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXE2MS02Q0J6dGJOYmNCMG5ma1piMWRfM3NvTm8tTXhZbTFOMTFsY1pvVGZqZl81UE1Bb3FvQVNqNlpBTHA5RTY2SHN2azVtdDhqV2RBdU94d2tucGVpMlhtYUs4NDdBYjlsMklVeG4tMzl2cUg0b2pBT2J2dlY4ay0yUDdJYy1WU3FvLUxqTFVMbUs1U1FJekttb005eUp6LXNKTUpsNWtkMHBBQnAtLVZDYXA0TTZNREFDNjIwc9IBzgFBVV95cUxQVjVoSkhsYThvZ3I1RDJSZk16M19aUXRUN25oSWoydjF3RWp5TjhZQU5rdTc2RFdWUUZZS21JUjV5UThNZzdBelNkLVdJNTRRS0Z5U3g3LXFDa29mbnBONDFUaVZoTjd0SEpydGhZY3hnV3hjanAzbmFpb3dCaUZwRk5UbVFfWGw4UzAxTHhxQl9UZFVWVUJMRjdXR0pPNl9XNXBHXzJOM01fZFNPMG1MWmVsbG5TbWk5R24xS0ViYTRmQjF5QTkwdnNFd0VZUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "56b1c59e7b2c",
       "title": "Brasileiros com risco de diabetes subestimam chance de ter a doença, diz pesquisa internacional - Folha de S.Paulo",
       "published": "2026-11-10T05:00:00+00:00",
-      "summary": "Brasileiros com risco de diabetes subestimam chance de ter a doença, diz pesquisa internacional&nbsp;&nbsp;Folha de S.PauloDiabetes: estudo aponta que 252 milhões de pessoas têm a doença e não sabem&nbsp;&nbsp;O GLOBODiabetes pode afetar 1 em cada 8 adultos até 2050, alerta IDF&nbsp;&nbsp;TerraDiabetes: conheça os sintomas, como prevenir e quando procurar ajuda&nbsp;&nbsp;BandDiagnóstico de diabetes mais que dobra entre adultos e exige atenção na infância&nbsp;&nbsp;Bem Paraná",
+      "summary": "Brasileiros com risco de diabetes subestimam chance de ter a doença, diz pesquisa internacional&nbsp;&nbsp;Folha de S.PauloDiabetes: pesquisa aponta baixa percepção de risco e obstáculos para avaliação&nbsp;&nbsp;EstadãoDiabetes: estudo global revela que 252 milhões de pessoas têm a doença e não sabem&nbsp;&nbsp;O GLOBO252 milhões de pessoas têm diabetes e não sabem, aponta pesquisa&nbsp;&nbsp;CNN BrasilDiabetes tipo 2: a importância do diagnóstico precoce e exames preventivos&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -102,14 +210,14 @@
       ]
     },
     {
-      "id": "c453ecf37bed",
-      "title": "Covid-19 volta a fazer vítima fatal em Aquidauana e Saúde emite alerta à população - O Pantaneiro",
-      "published": "2026-11-09T23:46:00+00:00",
-      "summary": "Covid-19 volta a fazer vítima fatal em Aquidauana e Saúde emite alerta à população&nbsp;&nbsp;O Pantaneiro",
+      "id": "3bc173309785",
+      "title": "Após morte por Covid-19, secretária de Saúde de Aquidauana alerta para importância da vacinação - O Pantaneiro",
+      "published": "2026-11-10T00:08:00+00:00",
+      "summary": "Após morte por Covid-19, secretária de Saúde de Aquidauana alerta para importância da vacinação&nbsp;&nbsp;O Pantaneiro",
       "sources": [
         {
           "name": "O Pantaneiro",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV0c4aWVINXJNUVdkYXhBOG1OSTZsZlpMX2pvTkRKaWNRNmE3dXlxTmZMdlVtTXhNRjhRN2VDQnZYT2tGclFycDg3WUpEMHA3NEFHMEc2bzlxdXJsUFJIUXFuYXdtZDhIYm1paFVMVkpwZWowZE1xbWpWRTVhR21rNVRlNER5YUNLM1dwaUZoQjc1OExIMXhybUZEYnI0OWRuN3hzei1ESFRveFVBUjRHZk9fdU5SR1lSYTlaSElQd3QxYmtmRVgwTktidkZpcmdp?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUTBMRVVxOHJpMFlEaXBPN0lvTUNQRDFqTzNfLWNNMjZqTEtmTFdoTjEtS3FsMmlCTWF1eUNfdndHZHRGN1FnLVlaallLbmdLdkpXSU5RXzJhc2ZkMlFmWlJXSEtaRk9pSjRoSmxYRTA2c1NzNFVkX2xLUk5QMHZPbzNDTVp4a2w5ZDdpdE5FbWl3NnBsWF9CbElxLWt6ZFR5cXNlb1djNVNJQmpwcHJvWVo5dDh2X0xOc0YxNk1MeEhCazc0TlRwQkxaQXR6TDV0ak52aFBqVXNFQlBvY01sTg?oc=5"
         }
       ]
     },
@@ -129,11 +237,23 @@
       "id": "6f882e30382e",
       "title": "Menos de 2% dos municípios alcançam 'meta ótima' em vacinação contra gripe - UOL Notícias",
       "published": "2026-11-09T22:50:00+00:00",
-      "summary": "Menos de 2% dos municípios alcançam 'meta ótima' em vacinação contra gripe&nbsp;&nbsp;UOL NotíciasBaixa adesão à vacina da gripe expõe idosos a infarto&nbsp;&nbsp;O CafezinhoApenas 1,68% dos municípios atingem meta de vacinação contra a gripe&nbsp;&nbsp;Rádio Cidade 99.7 FMNo Acre, imunização se estende de novembro a julho e tem grupos prioritários&nbsp;&nbsp;G1Apenas 31,83% dos idosos foram vacinados contra gripe no Acre; nova campanha começa com meta de 90%&nbsp;&nbsp;Acre Agora",
+      "summary": "Menos de 2% dos municípios alcançam 'meta ótima' em vacinação contra gripe&nbsp;&nbsp;UOL NotíciasNo Acre, imunização se estende de novembro a julho e tem grupos prioritários&nbsp;&nbsp;G1Baixa adesão à vacina da gripe expõe idosos a infarto&nbsp;&nbsp;O CafezinhoApenas 1,68% dos municípios atingem meta de vacinação contra a gripe&nbsp;&nbsp;Rádio Cidade 99.7 FMApenas 31,83% dos idosos foram vacinados contra gripe no Acre; nova campanha começa com meta de 90%&nbsp;&nbsp;Acre Agora",
       "sources": [
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUHVqRGJkY0xaWnZGT1JJRTlSRmNXbUFRQTQwRkhpeXEwNG16MHhHUm01dTlRamo2eHhRb3hSM2NkckNLMU1yWW9HTzRyajJsbkdoalRMX09RYTd0Mjg1czNWUDlWSW9JRTZSYWFxa1hSZnJNVk5UZVh3U1lMc2VqMlB4anlhSlpOT09sNE1hVTdON2tnZmlsT2RQTXNpTDlQOXc1N1pXRTZ3WTVPOVdDWmlUeDBzenBxXzg4SG53WDRVSVdENU1kOVBqX1pnejM5NHVWcTJHSFJ0Tm8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d619f8e488d",
+      "title": "As vantagens de reduzir a pressão arterial em quem tem diabetes - UOL",
+      "published": "2026-11-09T21:54:18+00:00",
+      "summary": "As vantagens de reduzir a pressão arterial em quem tem diabetes&nbsp;&nbsp;UOLA pressão deveria ser ainda mais baixa para proteger cérebro e coração&nbsp;&nbsp;UOLPesquisa brasileira mostra que controle rigoroso da pressão arterial reduz risco de novo AVC&nbsp;&nbsp;Jornal da USPControle rigoroso da pressão reduz risco de AVC, aponta estudo brasileiro&nbsp;&nbsp;TerraEstudo com 4,3 mil pacientes questiona qual deve ser a meta de pressão para quem já teve um AVC&nbsp;&nbsp;Tribuna de Minas",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUZnOUtWNDRmNHA0MzNBTTY3cHcwQ3E2Yy1melBPa1MxU3hjdXdGNnJOVjQ3dmVlOE9KZlNET0VTNkdiZjllWVNpaXRyMDRuZzlGZ2MzTDJBMmFmMzk1WFVWdlRWa2M1U3VHLVdOU2ZFdThfT3hwcDUxLWk2UlU1LUdHZlpDMGl5cmpUUnlOWnVmQUVjNXFxOXd3bEg0YUlhSE9kQ2t2SExJTmR3WEMtOGVvYWgyZmpEQ08yYVNlSUhiMTg0WVE?oc=5"
         }
       ]
     },
@@ -150,10 +270,46 @@
       ]
     },
     {
+      "id": "81404e29a8b4",
+      "title": "'Victoria colombiana': a fascinante descoberta de uma vitória-régia gigante na América do Sul que pode ser vista do espaço - BBC",
+      "published": "2026-11-09T21:20:28+00:00",
+      "summary": "'Victoria colombiana': a fascinante descoberta de uma vitória-régia gigante na América do Sul que pode ser vista do espaço&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMENqRUV5ZzhSZGNzMkxySjg4U05JZnBqaTZhZWV3SzVjVm1QSDlFNHNHQWJHdHN6YjNsRE9oZzVjSERhZlppbzFmTFVwMnltOWIyUTBtbXR6VWhJajNTam5OVdIBaEFVX3lxTFA3eVYzcENUYURIdzdsRVJ2WVM5d1hRTHRKY0pYOTNaR0VYTklxWU5nbHRMWV8yNXNnMFZRSjdEYXZQbXQybnlNenF0WXZOQzlqU2dldGdyNG1zSHZROTJESW1fQnFFcE1J?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fdab0b0eb114",
+      "title": "Conheça o Alvinho: tamanduá albino que virou laboratório vivo da conservação no Cerrado - Primeira Página",
+      "published": "2026-11-09T20:40:00+00:00",
+      "summary": "Conheça o Alvinho: tamanduá albino que virou laboratório vivo da conservação no Cerrado&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS20wVlBjSlRCZkx1cnRsV2VqS1cxcmZDWTBVVzBaUDdpLW0xWWxFcnZQbk1FSjc1bUR2eURsdExrem1FdkV2cWUtbDJra2hvbHVHaWZJLW1TTVdWNWhRZ01jTGxjWWVZcndVNmtfWnRjclFvNzM3ZktyX3BFc3g0UW9hNUM2TlJGZ1ZfVG9INUNrejFuWk5tU1NMWFY4aEVwbHhBWEdtZnc3aTJYNUU5VkVLQnF4MmhEV1ZVcGRYaXZvWDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc58668dc240",
+      "title": "Estudo com 45 mulheres mostra que hidratante vaginal reduziu em 73% a dor na relação sexual - Diário do Pará",
+      "published": "2026-11-09T19:39:22+00:00",
+      "summary": "Estudo com 45 mulheres mostra que hidratante vaginal reduziu em 73% a dor na relação sexual&nbsp;&nbsp;Diário do ParáMenopausa: há três sintomas íntimos que não deve ignorar nem aceitar como normais&nbsp;&nbsp;SIC",
+      "sources": [
+        {
+          "name": "Diário do Pará",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ1o4WUdzQ1VwMlcyRzJhRGxCbTNJdGltSkJsbC03U013Z0dUVTF3WHR5cTdCTTluQnRKcXRtM25BWjhBRFpQVzN4V2hfRG43eFJ0NGVVV19ZNXpCNHhfZmE0LTZFQi1YeVBGMk1FaHlMNmZ0amI2NjZoMWNwSlJTX1FzelQ4ZW5ycTlNaDlCY05KSmlMN2c5WFQxcFZkOVFFRF96UDc4VHNBUDNMNGJFVldB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7eed379a9b45",
       "title": "Nível de conhecimento e prevenção ao câncer de próstata cai no Brasil - Agência Brasil",
       "published": "2026-11-09T19:04:00+00:00",
-      "summary": "Nível de conhecimento e prevenção ao câncer de próstata cai no Brasil&nbsp;&nbsp;Agência BrasilNovembro Azul reforça ações de saúde masculina na Região Tocantina&nbsp;&nbsp;G1Câncer de próstata: é possível curar sem perder a ereção?&nbsp;&nbsp;VEJA RIOPrefeitura de Macapá leva cuidado e prevenção à população em situação de vulnerabilidade no Centro POP&nbsp;&nbsp;Diário do AmapáJornal do Comércio realiza atividade de conscientização sobre o câncer de próstata&nbsp;&nbsp;Jornal do Comércio",
+      "summary": "Nível de conhecimento e prevenção ao câncer de próstata cai no Brasil&nbsp;&nbsp;Agência BrasilNovembro Azul: HU de Campina Grande oferece atendimento preventivo&nbsp;&nbsp;G1Novembro Azul: deixar o preconceito de lado e fazer da prevenção um hábito é o melhor caminho&nbsp;&nbsp;FenaeCuidados com a saúde masculina: dicas para cada fase da vida&nbsp;&nbsp;TerraPrefeitura de Macapá leva cuidado e prevenção à população em situação de vulnerabilidade no Centro POP&nbsp;&nbsp;Diário do Amapá",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -186,26 +342,14 @@
       ]
     },
     {
-      "id": "6d619f8e488d",
-      "title": "As vantagens de reduzir a pressão arterial em quem tem diabetes - UOL",
-      "published": "2026-11-09T16:54:18+00:00",
-      "summary": "As vantagens de reduzir a pressão arterial em quem tem diabetes&nbsp;&nbsp;UOLA pressão deveria ser ainda mais baixa para proteger cérebro e coração&nbsp;&nbsp;UOLPesquisa brasileira mostra que controle rigoroso da pressão arterial reduz risco de novo AVC&nbsp;&nbsp;Jornal da USPControle da pressão arterial reduz risco para o coração pós AVC, diz estudo&nbsp;&nbsp;MetrópolesEstudo aponta que controle da pressão reduz em 21% eventos cardiovasculares&nbsp;&nbsp;Gazeta Digital",
+      "id": "6064c1c45ab2",
+      "title": "Marataízes decreta alerta climático diante dos riscos do El Niño - A Gazeta",
+      "published": "2026-11-09T16:47:00+00:00",
+      "summary": "Marataízes decreta alerta climático diante dos riscos do El Niño&nbsp;&nbsp;A Gazeta",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUZnOUtWNDRmNHA0MzNBTTY3cHcwQ3E2Yy1melBPa1MxU3hjdXdGNnJOVjQ3dmVlOE9KZlNET0VTNkdiZjllWVNpaXRyMDRuZzlGZ2MzTDJBMmFmMzk1WFVWdlRWa2M1U3VHLVdOU2ZFdThfT3hwcDUxLWk2UlU1LUdHZlpDMGl5cmpUUnlOWnVmQUVjNXFxOXd3bEg0YUlhSE9kQ2t2SExJTmR3WEMtOGVvYWgyZmpEQ08yYVNlSUhiMTg0WVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c253d3491225",
-      "title": "Touro e jumento macho protagonizam 51 episódios de comportamento sexual em quatro dias, aponta estudo na Etiópia - CNN Brasil",
-      "published": "2026-11-09T16:31:30+00:00",
-      "summary": "Touro e jumento macho protagonizam 51 episódios de comportamento sexual em quatro dias, aponta estudo na Etiópia&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN2Mzc3NPU2IzaDZQcGVVY3pKTWNCa2lmYTVHY3VmSTZ2NTNDemtiOXcyYUJkYnViOGM0bWFrNlF0dGhibmVyM3lYU1RWWFNPVm1lYjVEOTVobGFUZDlvUWhHUWM1cnVvWTQ4Q1IzU0psSFV3ZTlCcjRDNGctQW5MV21vSHhYNFphMTZGR2MzRUVheUdsYWVkLUItSjRaUUg3RzJXa1JuTVpCN2tlV1d6dkhFY1hJa1NZc294N3lsMXdYaG5zY1J0RXZBM2R6TDY5VnJTbzY2d1dPbE42VDFtYnBnOA?oc=5"
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFQwUmxZbHpJUDdtQXFvYnpUbmZ0TktzWmp0dzhINi02MlNnZnVUQ2Y0RnFLNmc1YklIQ3RqWm1wNy1kS0NybW1jSnVQOU8wT0Q5aVJHdTI0aEo5VUVDNkxsbDNJOVZtTEs4Vzh4b292Z1pGcnhISE5vQ0RtRHNRNTFPaVhZSWI4WldPMDhPYnpmSl9yWDJQemlJQlVYRHVmT29CbA?oc=5"
         }
       ]
     },
@@ -246,18 +390,6 @@
       ]
     },
     {
-      "id": "0660a18b47a5",
-      "title": "Estudos de psicologia concluem que adultos que agradecem ao motorista do ônibus não são apenas educados, mas também demonstram grande empatia - Rádio Itatiaia",
-      "published": "2026-11-09T13:26:31+00:00",
-      "summary": "Estudos de psicologia concluem que adultos que agradecem ao motorista do ônibus não são apenas educados, mas também demonstram grande empatia&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVWl6ajhydEwtOGF0cGlScW9neGhkYjBKMVZfaEExbWZNOGhZYzJ1VUM2VlNaU25YeHRFWG5WY0RYLVVGRGZsLTFBQTUwOFF2NVpRcWRVeDBXTGY3bUI3U1kwSnNpbV9Kc0x4N2l6RGtraWwzUXdtRlRNSzR1bHRPeGJVQTctYlVQbkdVYVpLWmdXQTNfQzNDeWlhX2tFazZBYlhWVXE4cUE0eXhjdlY4R3hPaEN0YV90MnpnOUNyN1hDWWtzNnhmRmF1VWpfLTNCVHVYelNPd1Y0UVR0MWhJd2w1bzlESWx5ZlI0WHF0b21jZVpTMmVzbWlQZ2VGRFFkTjAxdkZ1UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ab0a73f88e73",
       "title": "O novo remédio que mantém a pressão baixa até 2 anos depois da interrupção já tem previsão de chegar ao Brasil - O GLOBO",
       "published": "2026-11-09T12:53:57+00:00",
@@ -282,62 +414,14 @@
       ]
     },
     {
-      "id": "3f22c903d2fd",
-      "title": "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas - Agência Brasil",
-      "published": "2026-11-09T12:35:00+00:00",
-      "summary": "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas&nbsp;&nbsp;Agência BrasilMinistério da Saúde repassa R$ 524 mil para conter surto de sarampo em municípios do Amazonas&nbsp;&nbsp;G1Saúde libera R$ 524 mil para reforçar combate ao sarampo no Amazonas&nbsp;&nbsp;CartaCapitalDia D de vacinação contra o sarampo mobiliza a tríplice fronteira neste sábado (7) — Ministério da Saúde&nbsp;&nbsp;Governo FederalDia D contra o sarampo mobiliza unidades de saúde para vacinação em Manaus&nbsp",
+      "id": "20c22b266211",
+      "title": "55% dos brasileiros vivem em 'encasulamento' social por medo e polarização, aponta estudo - Terra",
+      "published": "2026-11-09T08:00:00+00:00",
+      "summary": "55% dos brasileiros vivem em 'encasulamento' social por medo e polarização, aponta estudo&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelJ0bF8zTmF1cHRtOGh6X1ViWTRUUWNIVkFzTWdmb0ZZdlo1dWk2R19hdUs5QjJ3c0tGWFdSTUxUc1FwYkJMTEU1dFp6WXQ3MnkyWnZOLWk2QUt3V3dUSlNGbVF5eE5QTEZPeEZhbEROM3RLS0VoeFlaNHRUb25BNXJWYjhHNVZKQmpwSVdnRDhZSE5JYUE4a0VwUW5IODhGY3k5aEl6cEdBXzRwTld3WEdtQ3hURDZxR3JF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "12fe839d9115",
-      "title": "Descoberta reduz em 53% danos do Alzheimer no cérebro traz nova esperança contra a doença - Tribuna do Paraná",
-      "published": "2026-11-09T11:14:00+00:00",
-      "summary": "Descoberta reduz em 53% danos do Alzheimer no cérebro traz nova esperança contra a doença&nbsp;&nbsp;Tribuna do Paraná",
-      "sources": [
-        {
-          "name": "Tribuna do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0k3d3RRczdIZ1A5RENSdXRjbzVHT0doM0hvY2ZpX3VvWmtoQTRaeUVjMTdJRy1lRWNaOWdtZHFBeklfa3FZRjdxSTdjN1o1dEd4SWJDdWY5YlA5V2FqLVZTUGhfcjU1ZFIyVS1kd0JCQ1V5THd0NVhBNWlLZWEtR3lmWWI5LW8zRWZIWDl6WFlTWTZiZzRzcXVqbHZOSE5JUWhV0gGoAUFVX3lxTE90bnFTT21tZ2RpTlRETmphUFlfVlAwSDNIWEZrMWlCZlFURXRIS3RzVzY5aVlLSWdjdzd6UEIzbVNGX2l6R0dIV0VKbW56cXpLdDBOc2JtVGFTelQxX0ZBdnE0Q0EzYVBsb210OF80UVFoTExZX1Z3LUVMUTl4ejBwTG15UTFhSDlJejB6bEpfVXdmZGNQRXRCeVFDd0FQd2ZyRzM2dzRtdA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8204bc6e1db6",
-      "title": "Miopia: Kalil e especialistas detalham critérios para cirurgia refrativa - CNN Brasil",
-      "published": "2026-11-09T09:00:01+00:00",
-      "summary": "Miopia: Kalil e especialistas detalham critérios para cirurgia refrativa&nbsp;&nbsp;CNN BrasilCirurgia de miopia pode garantir visão sem óculos até os 40 anos&nbsp;&nbsp;TV Sim BrasilUso prolongado de telas pode causar olho seco e afetar a concentração | SEGS Portal Nacional de Seguros,...&nbsp;&nbsp;SEGS Portal NacionalOlhos a arder e dores de cabeça? 4 hábitos com os ecrãs que deve mudar&nbsp;&nbsp;Notícias ao MinutoAlcon lança \"Aliados pelo Alívio do Olho Seco\"&nbsp;&nbsp;Grandes Nomes da Pro",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFJPam42NFZIOXV3Wld5TWUwMzZRTVdYNjVGVmVSYWptSGQ5ZXJWQTRZWVdZM1BjSmZ0blZnc0xPUDRDLUJOOE80emRBd0tsS19fTXJJTmZzZzBXY0w4Z2JlcndHVUlYaldaMDNFSk5qMVlhaWhYMmE4WWlSVExPZFVCZFUwSFFYbklLSmM1RDFZbGwxQ2NjdFRRQmlkWmFtMUMwSzBsdVB3WEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "334161a6ad9c",
-      "title": "Vacina Pneumo 20 em Belém: saiba onde tomar, quem tem direito e documentos para receber dose contra pneumonia - G1",
-      "published": "2026-11-09T09:00:00+00:00",
-      "summary": "Vacina Pneumo 20 em Belém: saiba onde tomar, quem tem direito e documentos para receber dose contra pneumonia&nbsp;&nbsp;G1Vacina pneumocócica para idosos em Mossoró&nbsp;&nbsp;G1Vacinas Pneumo-20 já estão disponíveis em São João da Boa Vista&nbsp;&nbsp;Jornal do ParabrisaPrefeitura desmente fake sobre vacina Pneumo 23 e esclarece mudança para Pneumo 20&nbsp;&nbsp;Prefeitura de CuiabáVacina Pneumo 20 chega a idosos com mais de 85 anos em Belém&nbsp;&nbsp;URB News",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeXczajhTdGx4bVVSNjA5V0hpeVlCSHRyYUxBaVZBQUZ4YmRZTEtoX0ViQy11eGphRHFfU09IQzBnakg3UWIxTS1RWUcwS0FoMW9HRkg0OUs2ZmM2d2FZazFHektXWW4zc0otTExkbUFWSEpVT0JHUDNsSm5GNGkzYl9ZMEdIcG9LTmhNeHhGbW1DVTNkY0R0Y3JWX3FCX21SSkdEOEhBb3N4X1BsZExqZEpMYlpJeUwwc0dNZkl0Qjd0aFIwRGFvdnZkakdDSU9ncnVvYjA3MWl2VkRKTWFNcHlaSG5aLWcxaV9SSkVwbEVnQU3SAYICQVVfeXFMUDI5TTBUbWFHWDF3MWRIc3FJQmttVTd0MUhVN3otLWNPNm52TmM3aW9ienltNS1nOWRRckdTcE1PcURJVnlJSjBwUENSeDJSUEZ5anRVeUxWM1VQU2JKNFR2V2EwZDZxMzVoTmJ4cEJnOXBBM2FQd29wdThGRnVLUlJNNk1tYk5ZbTJXbjVaWC05ZlpRdE55VWxfOUN4aF9QczllU1pIX2hXWTBGa3JrWTdTdmIzRVM1anJRdk5kc2ZQUU1PWVFYSHBHaVB4X3JHRmR5ZXB3eHNxNTA2S20ySUw5c3FDMW5iZmRrc2ZNT1d6SE9PUzBJZThaT1o5RGp1QllB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3911feffbf2e",
-      "title": "Atenção primária bem avaliada está ligada a menos internações de idosos no SUS, mas não nos planos - Folha de S.Paulo",
-      "published": "2026-11-09T07:00:00+00:00",
-      "summary": "Atenção primária bem avaliada está ligada a menos internações de idosos no SUS, mas não nos planos&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaU1ldFlWY1JLX0lkS3lzRGY5WDM2T2VIX1A1Nk1weG1OaFNXWlRvY3AwNU5lSVhoUHVkMktIWlBpY25TUEhvYlh3S2trNUtTVVZ0Q3U5Mmw3ZTl1SjhVdUpydFk0NDN2SWdxNXBXQ0g2UXhwWGNxelBzdVQyLV8zRTBERUtyNkY5Rk5nazdRbUxrbk5yR0tYSkw4ejQtcGd4SnBTTjcxaVkteFVvX29UajFiY0VDWUI2bzRXSHIxNkZtOGpVS0d3c1ZzZkpvN0V6U0xPY1NRRkUxeFdVUkxZSlptcGpLTnFoU3JFOGRlSQ?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNb2JpT3hEYXlPbGtkMC00Wll2TUJ3c2dJYkwzakZkS3A5a3FCUzRQZ2pQLURsWFhTNTVIV1ZJMG56WEFPbElYRUszZk9fNWdXSFAzY2xJX3d2ZTdzeGZJSkFFUk5ZQUZmbkhuWjJpc1puS3pTWDNRa0RiNlhIMG1RZFVLWjYtZlRLS09rS09yQlFCaWlyM1EyU0F6TFhSb1BCeFJVVDYtVVlzcDhHcjlCUGR4S1lRUDFxT1lsbHdBcW1pWERTamVjVnZ4Y3Njd3cwVDF6YW9aN3NBTEhYQ0JhMXdUTkQ1VUhfZ184dTNOdzF6NjBIQ2RhTUwzcXZ0R00?oc=5"
         }
       ]
     },
@@ -350,18 +434,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNnQyck5CUUw4QmFJMFhqTmFNZzljdDVnLUk2SzhRTm1TMGpLN3pJWjlyYkdQa0tja2FoR0xCRlE1V3BxSEd1YVI0V3QyaV91VkkzcDFiRi1lSTZPcVpITUNZRzNqeVJaMktmbXBGZG5jdmtzNnlIOWFxLVNUUEtlSk5RRkZYYXY4T19sV1ZDbGowWnI5MTh6NXdkcW9UcE9DUFhGd2pfdGd6c2RGQ1dXbHdTUjlTZ3VfOTd4OFBfbXpwUE5LSmpXZHk2bUNXOGU0MzlhM3c4VW0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "91a132718fa4",
-      "title": "Sete em cada dez pacientes com câncer de próstata esperam mais de 60 dias para iniciar tratamento, diz pesquisa - Folha de S.Paulo",
-      "published": "2026-11-09T02:00:00+00:00",
-      "summary": "Sete em cada dez pacientes com câncer de próstata esperam mais de 60 dias para iniciar tratamento, diz pesquisa&nbsp;&nbsp;Folha de S.Paulo05/11/2026 - Atendimentos por câncer de próstata no SUS de SP crescem 21,8% entre 2023 e 2025&nbsp;&nbsp;Secretaria de Estado da Saúde de São PauloInternações por câncer de próstata sobem 30% em SP em três anos&nbsp;&nbsp;G1Atendimentos por câncer crescem 21,8% no SUS de SP&nbsp;&nbsp;www.correiodamanha.com.brAtendimentos por câncer de próstata no SUS crescem",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZlZ0ZkF2dDZWX29JeEtVZF9BTU1YYjN5ek9HalJpaFpzU2JnV1I5MHNDZVRnTHhkd2k4cVBPbGVCLWVoRFVWcjJuTXEwWEVHM2VQRkhzVlFYNUxRNDQwMzQ4bnJYMDFLSVYwUktMblJMSGstMktrUjZIaHhnUmxqb05sb0dFbVlwdEtaR2hwSnVNT3I1NXg1RHYxaFZlVGlmX2hYTnFOREUtUW9lUVd2c2RTQzlqbmxJdUlDWHM3VlRfcDNlaHVyX3l1TXR1cF9CaldHRzlZT0dMOVdrM1Vnc3NYSi05Nk5LeldLZFVuY2dzY1V4Uk9TZTdMamFxa2hQYUZIdHBvWQ?oc=5"
         }
       ]
     },
@@ -402,18 +474,6 @@
       ]
     },
     {
-      "id": "99ec9c3bc688",
-      "title": "Câncer de pulmão: tomografia de baixa dose reduz mortalidade entre pessoas de alto risco, aponta estudo - G1",
-      "published": "2026-11-08T07:00:01+00:00",
-      "summary": "Câncer de pulmão: tomografia de baixa dose reduz mortalidade entre pessoas de alto risco, aponta estudo&nbsp;&nbsp;G1Câncer de pulmão agressivo: especialistas alertam para os riscos do atraso no diagnóstico&nbsp;&nbsp;Saúde em DiaCâncer de pulmão: desafios no diagnóstico e esperança com imunoterapia&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEN5TDVaaWsySl9VRm51WGhnWE1rb09paV9fX2lqdVlNSVpVYkxKcDlyUVVTWjhKZ1RsaHZxc1hubWxiWlhFUXpnZFpDVTRZTmxrN29tSHhPMzE4cFhSVUpxRHJFSTB3OG9ENHltSm1GdS1oQ0VLLUV0NnZTNzFyVUNHUjFxUDM0UV9WMlhCLS13ME5EalluU3lIc1lGR19pY1owTTRYX3FTUG1rUTBXX3FIU2VEVjlGVm4wbGROajlNbWx6bkQ5RUQ0YlQ0LUdUU09wN0xqQ1J2RUlTWGNuWTdYVDlQMnZB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "08bbc6881692",
       "title": "Remédio popular para hipertensão pode ter efeito na perda de peso; saiba qual é - O GLOBO",
       "published": "2026-11-07T18:00:18+00:00",
@@ -422,18 +482,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWd6NC1kcHg0aEhLaFpCZW9QTXJ2RUtGc3ZkVDFtem5MRDJiWEZFMkpKeGJyN25fTkdEMmtQd1pzR2VQUGVNMDNNUFo4SlMtb0czVWV0QmpfVEkydVczMUtFT1c0d1FCSHZXMFZIdW03QWpIaER5RmR4bktLNHBoTDlUb0UwS3U5bTNuWTFoN3VId2pScGlTTnhOQzBUSV9VaWR4cEJHbnFoNVRDRWpnMndvbGZLVFVwT2VoRjhRTnRxWHR1YU51NFNJcmt5N3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90d2c7a21b23",
-      "title": "Bebidas energéticas podem causar danos graves ao coração (especialmente entre jovens), afirma estudo - O GLOBO",
-      "published": "2026-11-07T12:02:56+00:00",
-      "summary": "Bebidas energéticas podem causar danos graves ao coração (especialmente entre jovens), afirma estudo&nbsp;&nbsp;O GLOBOBebidas energéticas: riscos para o coração dos jovens&nbsp;&nbsp;Gazeta do PovoPesquisa aponta associação entre consumo de energéticos e maior ocorrência de problemas cardíacos em jovens&nbsp;&nbsp;Rádio Cidade 99.7 FMCafé, energéticos e pré-treinos: combinação pode elevar consumo de cafeína e afetar o coração&nbsp;&nbsp;JCEstas bebidas podem prejudicar suas artérias e aumentar ",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMGNNTjlkbDRHZEViVzFHWHFJWlgzRENlcmNJdGd0dlVWWExYeG5adDNidGlYU3luaWVvOERZLUZ1aWtPa0w5QUdranloVThDaEptMnV4eDZWeTFBdTlOWkhucUFVSHJITjBKY1JUaC1oOGR0TnlTSFI0enllQ29VUVhXYTVOLTByc0xMYVVzS01FLTVpVHFlS1JDcEdyVmNXUk9LV3NpdThMLTZwSndrdTJtLXctQXpsYUs5TzVNTEJfOU1TOUE5N0tSRlhQeG0zX2IwTU53aVRoV3PSAeoBQVVfeXFMTldqOWlBVGpkVmtERVZmQm5aSUNXemdrYjVmQmc0SFpRZGtOQ0xHd1NfZXdLR2xMV1B6S3FYbEtPWTV6MTBEa3dHcnYySGpZbEg4XzNJSWZlZlhjcGhwVkNmcm1yTnJ0T2hBc2JEczZqd2x1SW9qS3Q4M1dDaVJLNWFlNkNqNmNDTlVSODJGTEhmVzFpbDBhWXNfelNnaGhLMFR4X3l1VWRVR25pZ1p2elBGUmhZUmRnZlkwUlNSWVVCb0hTUzdzUkllUVU1UFNNcHhsYVgyczRkbWZ5NkM0cDRMNVJrdzBwQlhR?oc=5"
         }
       ]
     }
