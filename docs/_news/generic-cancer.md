@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer (generic_cancer)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer (generic_cancer). 36 notícias, 93 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer (generic_cancer). 37 notícias, 93 medicamentos relacionados."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Notícias sobre câncer (generic_cancer)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer (generic_cancer)?">
-<strong>câncer (generic_cancer)</strong> tem atualmente <strong>36 notícias</strong> e 93 medicamentos relacionados.
+<strong>câncer (generic_cancer)</strong> tem atualmente <strong>37 notícias</strong> e 93 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -119,7 +119,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer» e lis
 </ul>
 </div>
 
-## Notícias relacionadas (36)
+## Notícias relacionadas (37)
+
+### [Sete em cada dez pacientes com câncer de próstata esperam mais de 60 dias para iniciar tratamento, diz pesquisa - Folha de S.Paulo](https://news.google.com/rss/articles/CBMihwJBVV95cUxPZlZ0ZkF2dDZWX29JeEtVZF9BTU1YYjN5ek9HalJpaFpzU2JnV1I5MHNDZVRnTHhkd2k4cVBPbGVCLWVoRFVWcjJuTXEwWEVHM2VQRkhzVlFYNUxRNDQwMzQ4bnJYMDFLSVYwUktMblJMSGstMktrUjZIaHhnUmxqb05sb0dFbVlwdEtaR2hwSnVNT3I1NXg1RHYxaFZlVGlmX2hYTnFOREUtUW9lUVd2c2RTQzlqbmxJdUlDWHM3VlRfcDNlaHVyX3l1TXR1cF9CaldHRzlZT0dMOVdrM1Vnc3NYSi05Nk5LeldLZFVuY2dzY1V4Uk9TZTdMamFxa2hQYUZIdHBvWQ?oc=5)
+
+2026-11-09
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMihwJBVV95cUxPZlZ0ZkF2dDZWX29JeEtVZF9BTU1YYjN5ek9HalJpaFpzU2JnV1I5MHNDZVRnTHhkd2k4cVBPbGVCLWVoRFVWcjJuTXEwWEVHM2VQRkhzVlFYNUxRNDQwMzQ4bnJYMDFLSVYwUktMblJMSGstMktrUjZIaHhnUmxqb05sb0dFbVlwdEtaR2hwSnVNT3I1NXg1RHYxaFZlVGlmX2hYTnFOREUtUW9lUVd2c2RTQzlqbmxJdUlDWHM3VlRfcDNlaHVyX3l1TXR1cF9CaldHRzlZT0dMOVdrM1Vnc3NYSi05Nk5LeldLZFVuY2dzY1V4Uk9TZTdMamFxa2hQYUZIdHBvWQ?oc=5)
+
+---
 
 ### [Câncer do colo do útero: conheça sintomas, causas e relação com o HPV - Diário do Nordeste](https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFZXbkEyUGNwMlF0Wk9CcjUxdUFDRXJIZ28yRkYyNWtGWVI4MEVUczZlc1U0dTdRd3YzYXhsa09vZ0Q1RFRWSU1NNzBfX2dZckpyZXllWUxPcU9YOHFyMDRJYnlLZ2RmNGl4c0had0xwdE9XYnFMRGg5cFpMWjZKMzRRVjZhdVJHTmlxQ0Z0SFByM2NhRFV3MWhQQm9pNWx2a3pPV3dva0tpY1UzUmdFWW5icmFZU3dYS3BsdC1hbG5lLURkOFhGSVc0dw?oc=5)
 
