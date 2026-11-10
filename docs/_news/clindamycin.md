@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Clindamycin. 6 indicações previstas."
 permalink: /news/clindamycin/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-10
 ---
 
 # Notícias sobre Clindamycin
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Clindamycin?">
-<strong>Clindamycin</strong> tem atualmente <strong>4 notícias</strong> e 6 indicações previstas.
+<strong>Clindamycin</strong> tem atualmente <strong>5 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ Esta página combina as indicações previstas por IA para Clindamycin com as no
 <p><a href="{{ '/drugs/clindamycin/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (4)
+## Notícias relacionadas (5)
+
+### [‘Envelhecer não é fracasso’: Autoridade em menopausa nos EUA desfaz mitos sobre reposição hormonal](https://news.google.com/rss/articles/CBMisAJBVV95cUxNNEZMVk0xbnNKSFY2bE4tSG5rNk9JaWVDdlZpZGlBOG1Ca3lSdy02bmtGTHlxN0VQRWNJTTctNWtnbDZ6dDN2SWJ3c2VHZnNMdUExT2VIN2NvMlVaU2hqMDhsRmp4d256WUVDcldTZENYa1k4T0JtZEQ3andHSjltcXUzSERRVGZpZmJKSng5bHAxcVB0a2FRTFA5MnZzWW1TM1ZiUWRaUzhxa0tfazhsQ1kya3BlQ1BaZVBLSXFfR2dIcHlMQ09maU1USmNKYzk4MVJPcU5YdnFkRTBRQ3FNYmFCalUwRE1SVjVmWFU4UDRUc1U3Njg2cVRJOEdtUmttYVpDVHFqNllyWTljb09PdkdwT3ItV1ViUE1nVmM0WEt2TjFVbjhMbDB2bnp5SjFt0gG_AkFVX3lxTE1OVU1WMURzM2ZiLTNBZFpEcXJyUmRFWlN0a2xVUi1hNnRVbEsxajV2VzRhNTZMNTNhQWUwY2ZGY1JYQkRmUkp3d3g5emJMTkdueHBJX0owWjJtaGN2U2M3SzBwaVFTV3BSLTNwbVk2OGF6Vi1MOGlSSmZrTDkyQldGcTVqbmhFcnBkRGZZa3NzYk55V1UycEp6NjBwUUlWSjQydDVJZlR4WFlndzBWZkNESGozdjRBbUpWanhFZ3VZN3F6NDV3enZHQ2Z3b1JpdjJsakdJSDBiSFNvU1QtbFFOVW1YYk1YdXBudHF5WnA3M0ZZelBIOGhySGMyUjhyeEhWUDExNVhEOGJuWVlHbEVtaUl4YV83cF8wc1BhdDJ5SjQ0UXVPNE1kMWVjbTVBdzBxNEVsQVFobWYzVzFXcWc?oc=5)
+
+2026-11-10 <span class="news-indication-tag">menopausa</span>
+
+Fonte: [Globo](https://news.google.com/rss/articles/CBMisAJBVV95cUxNNEZMVk0xbnNKSFY2bE4tSG5rNk9JaWVDdlZpZGlBOG1Ca3lSdy02bmtGTHlxN0VQRWNJTTctNWtnbDZ6dDN2SWJ3c2VHZnNMdUExT2VIN2NvMlVaU2hqMDhsRmp4d256WUVDcldTZENYa1k4T0JtZEQ3andHSjltcXUzSERRVGZpZmJKSng5bHAxcVB0a2FRTFA5MnZzWW1TM1ZiUWRaUzhxa0tfazhsQ1kya3BlQ1BaZVBLSXFfR2dIcHlMQ09maU1USmNKYzk4MVJPcU5YdnFkRTBRQ3FNYmFCalUwRE1SVjVmWFU4UDRUc1U3Njg2cVRJOEdtUmttYVpDVHFqNllyWTljb09PdkdwT3ItV1ViUE1nVmM0WEt2TjFVbjhMbDB2bnp5SjFt0gG_AkFVX3lxTE1OVU1WMURzM2ZiLTNBZFpEcXJyUmRFWlN0a2xVUi1hNnRVbEsxajV2VzRhNTZMNTNhQWUwY2ZGY1JYQkRmUkp3d3g5emJMTkdueHBJX0owWjJtaGN2U2M3SzBwaVFTV3BSLTNwbVk2OGF6Vi1MOGlSSmZrTDkyQldGcTVqbmhFcnBkRGZZa3NzYk55V1UycEp6NjBwUUlWSjQydDVJZlR4WFlndzBWZkNESGozdjRBbUpWanhFZ3VZN3F6NDV3enZHQ2Z3b1JpdjJsakdJSDBiSFNvU1QtbFFOVW1YYk1YdXBudHF5WnA3M0ZZelBIOGhySGMyUjhyeEhWUDExNVhEOGJuWVlHbEVtaUl4YV83cF8wc1BhdDJ5SjQ0UXVPNE1kMWVjbTVBdzBxNEVsQVFobWYzVzFXcWc?oc=5)
+
+---
 
 ### [Até que horas se pode tomar café? Estudo define horário limite para proteger o coração e o sono - CNN Brasil](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMjBtTUJSc1FOdWwwNDEtdmdyQXlZUGI2TGFHcFlWaWROTzZxSFRZd1VadXZUb25maml3Wll3N1dsazZVVkxTc2xlUFg0Y2huUy1TY1hpaE5ySkV1SDRBVDBtQ0o4UnRBZDRkSEFIUldsX0RHbWJiY1d4SlBPc2dCTlNKdHZOSFNnb09jQmZxWE9EdFdNak81UnNJWk44bEcyWjQyazhjUkdjSXQ2SldfNnJueERMVEF0U3VGVE9NVktsM1E5VTcyNktEeDRobEZwdmdB?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Phenobarbital?">
-<strong>Phenobarbital</strong> tem atualmente <strong>37 notícias</strong> e 3 indicações previstas.
+<strong>Phenobarbital</strong> tem atualmente <strong>40 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,31 @@ Esta página combina as indicações previstas por IA para Phenobarbital com as 
 <p><a href="{{ '/drugs/phenobarbital/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (37)
+## Notícias relacionadas (40)
+
+### [Ela disse que mãe estava 'caçando problema'; dias depois, descobriu câncer](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjdULTY0SElFdVotZW0yVDdjMmhIaW1ldVRVLVJlMzl3THFmR2lYWEdDX3dIaXVDS3F2T1djSjl2Sk5mOWZhRnhyM25tSHMyaEl4ZzBmUlEybGRmNnhIQk1zTnRyUk96OVhsLWgtUXpDUG9MNTNOSnlLNEpXODZ6YmZSb2IwcUJyeDMybTY3czhLMWlGcHp0bkdobmY0eUZZS0ZuS3VJV3ZOU0NJNGZhV045M1ZLdGY0aHpjYlliRG9mTHpRZzRNM1VxTXRpUXM?oc=5)
+
+2026-11-10 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjdULTY0SElFdVotZW0yVDdjMmhIaW1ldVRVLVJlMzl3THFmR2lYWEdDX3dIaXVDS3F2T1djSjl2Sk5mOWZhRnhyM25tSHMyaEl4ZzBmUlEybGRmNnhIQk1zTnRyUk96OVhsLWgtUXpDUG9MNTNOSnlLNEpXODZ6YmZSb2IwcUJyeDMybTY3czhLMWlGcHp0bkdobmY0eUZZS0ZuS3VJV3ZOU0NJNGZhV045M1ZLdGY0aHpjYlliRG9mTHpRZzRNM1VxTXRpUXM?oc=5)
+
+---
+
+### [Vacinas contra câncer feitas sob medida: o que o avanço no melanoma indica sobre o futuro do tratamento](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPc2RhcUVRV3MtY3N1OVB6eWZFbms3eFV3dUJUXzBndnpBQmNPRzlwZzhzOS1MZ0RGdmpFNHdfSURiZDVsM1J1TkY4UEZsMFpfU3Q3THR1Q1g4RkRqS1NxMVlUQ0tzOWJ1UWpiZ0U3SDZ0VUs4R1pYNTdtbzNmX2ZzSFNEZExlRkdLUnNHVjAtZjhiX0ZRMEpUaERHWV9tLUlhT3lxb3NlTFNrX0k0Nk85VjJSeGtPbnJYVU52LUhiZUJVUHNNYzNUUGFqY3dibThMQmpiWWxXMmQ4cHhOaE1IcVg0MDBjOF84SGfSAfgBQVVfeXFMT05hTHhESmFlVTJuTUhjN0xFekczUmNlQm5NUm0xSlByNUhudHQweTgxMTM1LVVjaXJMRXQ1SXdTd2ItUjdJaUpWbWRnd3JTendUTGl1ZXNyT3VKSnB4aVJrSWRKaFZ6aTBEOTN5N1gyenBDNHB1R2ZGaWdacGU0eXExZlFqV2lNN2ZIc1VmeENGRkdMUUc3OWozTEpXdFJzX2hxRDMzeExZWUh2UlBqeWFvalZMekxDRGxsV2d3ZEhVOXdtTmRncThlNk1McEpLMFNOSEZnM2NVTENmQlYwa3hmUXV4MWJGeFFjSkE5Rmk3aTdqei1YbHI?oc=5)
+
+2026-11-10 <span class="news-indication-tag">câncer</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPc2RhcUVRV3MtY3N1OVB6eWZFbms3eFV3dUJUXzBndnpBQmNPRzlwZzhzOS1MZ0RGdmpFNHdfSURiZDVsM1J1TkY4UEZsMFpfU3Q3THR1Q1g4RkRqS1NxMVlUQ0tzOWJ1UWpiZ0U3SDZ0VUs4R1pYNTdtbzNmX2ZzSFNEZExlRkdLUnNHVjAtZjhiX0ZRMEpUaERHWV9tLUlhT3lxb3NlTFNrX0k0Nk85VjJSeGtPbnJYVU52LUhiZUJVUHNNYzNUUGFqY3dibThMQmpiWWxXMmQ4cHhOaE1IcVg0MDBjOF84SGfSAfgBQVVfeXFMT05hTHhESmFlVTJuTUhjN0xFekczUmNlQm5NUm0xSlByNUhudHQweTgxMTM1LVVjaXJMRXQ1SXdTd2ItUjdJaUpWbWRnd3JTendUTGl1ZXNyT3VKSnB4aVJrSWRKaFZ6aTBEOTN5N1gyenBDNHB1R2ZGaWdacGU0eXExZlFqV2lNN2ZIc1VmeENGRkdMUUc3OWozTEpXdFJzX2hxRDMzeExZWUh2UlBqeWFvalZMekxDRGxsV2d3ZEhVOXdtTmRncThlNk1McEpLMFNOSEZnM2NVTENmQlYwa3hmUXV4MWJGeFFjSkE5Rmk3aTdqei1YbHI?oc=5)
+
+---
+
+### [Nível de conhecimento e prevenção ao câncer de próstata cai no Brasil - Agência Brasil](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlZZdlJBa0hTYkltSTNVS2VvNjJqaFRNYjNTSGhUOHl4dTBxR3VBdWZ1dlc1emJzeHhJSDRSdm1sUVJ3RExVc1pqT2NtRlZURndNaUhmMlJDYkt3UzNRdEs3SmRxdWNlQTJtUlh1SU9MNk5QM2UwZjRaWXUxaFYwRGRMNEhQcTBSdTV3WllqNnV5dTlnWFFVdjAtY0dxNUZhTjRJVmJDVlJiU3dkbDVFSnotdEIzcW1DTTFLaC1XZzI5QQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Agência Brasil](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlZZdlJBa0hTYkltSTNVS2VvNjJqaFRNYjNTSGhUOHl4dTBxR3VBdWZ1dlc1emJzeHhJSDRSdm1sUVJ3RExVc1pqT2NtRlZURndNaUhmMlJDYkt3UzNRdEs3SmRxdWNlQTJtUlh1SU9MNk5QM2UwZjRaWXUxaFYwRGRMNEhQcTBSdTV3WllqNnV5dTlnWFFVdjAtY0dxNUZhTjRJVmJDVlJiU3dkbDVFSnotdEIzcW1DTTFLaC1XZzI5QQ?oc=5)
+
+---
 
 ### [Sete em cada dez pacientes com câncer de próstata esperam mais de 60 dias para iniciar tratamento, diz pesquisa - Folha de S.Paulo](https://news.google.com/rss/articles/CBMihwJBVV95cUxPZlZ0ZkF2dDZWX29JeEtVZF9BTU1YYjN5ek9HalJpaFpzU2JnV1I5MHNDZVRnTHhkd2k4cVBPbGVCLWVoRFVWcjJuTXEwWEVHM2VQRkhzVlFYNUxRNDQwMzQ4bnJYMDFLSVYwUktMblJMSGstMktrUjZIaHhnUmxqb05sb0dFbVlwdEtaR2hwSnVNT3I1NXg1RHYxaFZlVGlmX2hYTnFOREUtUW9lUVd2c2RTQzlqbmxJdUlDWHM3VlRfcDNlaHVyX3l1TXR1cF9CaldHRzlZT0dMOVdrM1Vnc3NYSi05Nk5LeldLZFVuY2dzY1V4Uk9TZTdMamFxa2hQYUZIdHBvWQ?oc=5)
 
