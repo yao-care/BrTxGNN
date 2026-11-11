@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com ENTACAPONE. 10 indicações previstas."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-08
 ---
 
 # Notícias sobre ENTACAPONE
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ENTACAPONE?">
-<strong>ENTACAPONE</strong> tem atualmente <strong>4 notícias</strong> e 10 indicações previstas.
+<strong>ENTACAPONE</strong> tem atualmente <strong>8 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ Esta página combina as indicações previstas por IA para ENTACAPONE com as not
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (4)
+## Notícias relacionadas (8)
+
+### [Neuropsicólogo explica a importância do exercício físico no combate à demência - O GLOBO](https://news.google.com/rss/articles/CBMizwFBVV95cUxNd24zRTBPLXlFYlltQncwbVNRR2h0V0tDUGYxOXN2bzFhSEltTGZack5MbEFhdDVtWGhOb3Vta18yZ1Rza082YWFQLXdIR0xxbEIxd3pRUHJ6aFJ5OUktdElra0ZNM1hESFotcGdnSkI1U3Z5alo0bWtxQnNobFlsY3Q1cmE4SE9KVFp4R0xqWU1qNzNWQ1BPbzVuWm5iVVU3Rmk3SXZSSUctTnB1bVFFOFRiOWZNUWdFWUdfXzYwYTlwcWFZTTlDdEo0czlNTXfSAd4BQVVfeXFMTU52TXNhQkVPVTd4a3Y0U2FpM3VvS3pBLTdSbWpGT1ROclZOOTNXY25QUVg4ZVRFYXZGdmNNLVZNLWE2VGQxUlkySFAwZXV1MlpDQ0RXUGZXT0FMMnZsRGZjWUQ3RHQxdXowQmd4dHpYMS1ZNTA4ZU9wbnlLMWY5T2FTdGF5SU1TYVJRNzAzWXRMUWNXZTdjbDdJYUFlUk14dTM5TWU0bE5DeGpfbmZNN1htYTRuQjNYN094RTFpT1YwWjkzd09wU2lSWklrVDJWUlRSV2oySG5rM1ZwQ3ZR?oc=5)
+
+2026-11-08 <span class="news-indication-tag">demência</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMizwFBVV95cUxNd24zRTBPLXlFYlltQncwbVNRR2h0V0tDUGYxOXN2bzFhSEltTGZack5MbEFhdDVtWGhOb3Vta18yZ1Rza082YWFQLXdIR0xxbEIxd3pRUHJ6aFJ5OUktdElra0ZNM1hESFotcGdnSkI1U3Z5alo0bWtxQnNobFlsY3Q1cmE4SE9KVFp4R0xqWU1qNzNWQ1BPbzVuWm5iVVU3Rmk3SXZSSUctTnB1bVFFOFRiOWZNUWdFWUdfXzYwYTlwcWFZTTlDdEo0czlNTXfSAd4BQVVfeXFMTU52TXNhQkVPVTd4a3Y0U2FpM3VvS3pBLTdSbWpGT1ROclZOOTNXY25QUVg4ZVRFYXZGdmNNLVZNLWE2VGQxUlkySFAwZXV1MlpDQ0RXUGZXT0FMMnZsRGZjWUQ3RHQxdXowQmd4dHpYMS1ZNTA4ZU9wbnlLMWY5T2FTdGF5SU1TYVJRNzAzWXRMUWNXZTdjbDdJYUFlUk14dTM5TWU0bE5DeGpfbmZNN1htYTRuQjNYN094RTFpT1YwWjkzd09wU2lSWklrVDJWUlRSV2oySG5rM1ZwQ3ZR?oc=5)
+
+---
+
+### [Cochilos de idosos à tarde podem ser indício de risco de demência](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFVTRFdfVnY4TUZBOHBDYkFhX1ZRNUlRQlRGRkhBcldJV2pscnFsdmhfN0YyZFF2MlZQX29nbzloQm5NNVhQV0c0cjI4ZVpEaGZ3RTkwQUpWTVhGRm83S3g1QzJRUGkzWk1Ib2FES1FkV2luOE9tUFY5cFd3NzNpUUFfNGRRbGo5cUtwTk1SdkxIQVJHcmdGVXRzcWFXTGQ1Unh1SnpyN0tuU3NNclF5MHNqRW1vUEnSAbcBQVVfeXFMTVpCUVpROWtibUFoMlMxa281N2xqS1IxV3dlOUNoWFpmdWk5UWxuVURhdW1Cc0drdDdpT045R1NtRE1pdzdjMWdweVptXzl0aVJ6dmtNc3NnQjVZZlNuX04zNThlOThkcjdUa2VjT29QelhMRVJ2bTBoV0VXVEQ5ZnZCNW5EU2JrVWFqazdVSzdVVmE0Z0tqMUtIWTFJbnJESmpFNGoyN3h4SFl5S25ES21FREdBNlkw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">demência</span>
+
+Fonte: [DW.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFVTRFdfVnY4TUZBOHBDYkFhX1ZRNUlRQlRGRkhBcldJV2pscnFsdmhfN0YyZFF2MlZQX29nbzloQm5NNVhQV0c0cjI4ZVpEaGZ3RTkwQUpWTVhGRm83S3g1QzJRUGkzWk1Ib2FES1FkV2luOE9tUFY5cFd3NzNpUUFfNGRRbGo5cUtwTk1SdkxIQVJHcmdGVXRzcWFXTGQ1Unh1SnpyN0tuU3NNclF5MHNqRW1vUEnSAbcBQVVfeXFMTVpCUVpROWtibUFoMlMxa281N2xqS1IxV3dlOUNoWFpmdWk5UWxuVURhdW1Cc0drdDdpT045R1NtRE1pdzdjMWdweVptXzl0aVJ6dmtNc3NnQjVZZlNuX04zNThlOThkcjdUa2VjT29QelhMRVJ2bTBoV0VXVEQ5ZnZCNW5EU2JrVWFqazdVSzdVVmE0Z0tqMUtIWTFJbnJESmpFNGoyN3h4SFl5S25ES21FREdBNlkw?oc=5)
+
+---
+
+### [Cochilos de idosos à tarde podem ser indício de risco de demência, diz estudo - UOL Notícias](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOem82cXdQRVJ5cWs1UGNNV0M1NjBLa2VlS2ZIMlpOZVVHQ0wyRGNQdUplQ215eUJ1MHo3czAxT0ppT0NrMkpQMFdJZlZ4d1dEX2lXNE5nN0ZlRm92SGljREpQQTF2OEoyUGx4T3A0RTJXNUdaaGhxR0stT1RnbDRKQjJmblIwSWV2X2J3YnVvdTZqMnBXamlWRjh3ajBuS0N3X09saGFyV0NwTnIzV2thTDdzaTVmSWJnYlY0WFJBVXpsQmRyWHBnTGZ0SXR5NlQwMEpyNkFn?oc=5)
+
+2026-11-06 <span class="news-indication-tag">demência</span>
+
+Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOem82cXdQRVJ5cWs1UGNNV0M1NjBLa2VlS2ZIMlpOZVVHQ0wyRGNQdUplQ215eUJ1MHo3czAxT0ppT0NrMkpQMFdJZlZ4d1dEX2lXNE5nN0ZlRm92SGljREpQQTF2OEoyUGx4T3A0RTJXNUdaaGhxR0stT1RnbDRKQjJmblIwSWV2X2J3YnVvdTZqMnBXamlWRjh3ajBuS0N3X09saGFyV0NwTnIzV2thTDdzaTVmSWJnYlY0WFJBVXpsQmRyWHBnTGZ0SXR5NlQwMEpyNkFn?oc=5)
+
+---
+
+### [Guia da longevidade: Ana Cláudia Michels lista hábitos para evitar demência - UOL Notícias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmNVM3JhQms0bklFSmJSam5ZeFFKZ1p4MlZrd2UwV3pJaTRXNmFKSllzOWN5NWh6ZkI0VzZLLTlkLTFZUVFGYTRBTHU5YTZsOXEyU3h5Y1cwa1o2NjBfaGktNFFpWWJqZkpHNGdkci1wSU04cWxRZmE3RjhobGM3NVdxak9LVUlJTENyR0tBcVd5a1BTc3ROQ0J4b2lZd2lvdEdZTDRqdlNUZW4yR3FicXJ1MGpaWUZXa0hFQy1rSUw3V2h6N1piaXl4MjhuVHdYY1Rzbg?oc=5)
+
+2026-11-06 <span class="news-indication-tag">demência</span>
+
+Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmNVM3JhQms0bklFSmJSam5ZeFFKZ1p4MlZrd2UwV3pJaTRXNmFKSllzOWN5NWh6ZkI0VzZLLTlkLTFZUVFGYTRBTHU5YTZsOXEyU3h5Y1cwa1o2NjBfaGktNFFpWWJqZkpHNGdkci1wSU04cWxRZmE3RjhobGM3NVdxak9LVUlJTENyR0tBcVd5a1BTc3ROQ0J4b2lZd2lvdEdZTDRqdlNUZW4yR3FicXJ1MGpaWUZXa0hFQy1rSUw3V2h6N1piaXl4MjhuVHdYY1Rzbg?oc=5)
+
+---
 
 ### [Ana Cláudia Michels rebate 'chips da beleza': 'Não existe essa tecnologia' - UOL Notícias](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlREczc3aDVaQXpvRjdhMmUyY2dDWVBhSXVyN0hwWXItSHpBOTZqSHNaZTNUQ2pqZHhGRmpKMHhRQ0NRbDEzUUxBSmt5Nkp3WjJpSFZnenZJWHFreUowSER2eTN4NF96dERScEtjNGd2bEJDQm5jSDBPVVhLRkpIX3o1X1d6aXM3ZGFjQlY5NVlrU0xMM1VkMmw3SDBKWC1DX0N3?oc=5)
 

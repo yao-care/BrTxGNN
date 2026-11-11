@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com CAPTOPRIL. 3 indicações previstas."
 permalink: /news/captopril/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-10
 ---
 
 # Notícias sobre CAPTOPRIL
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre CAPTOPRIL?">
-<strong>CAPTOPRIL</strong> tem atualmente <strong>27 notícias</strong> e 3 indicações previstas.
+<strong>CAPTOPRIL</strong> tem atualmente <strong>43 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,127 @@ Esta página combina as indicações previstas por IA para CAPTOPRIL com as not�
 <p><a href="{{ '/drugs/captopril/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (27)
+## Notícias relacionadas (43)
+
+### [Cientista alagoano cria fórmula que pode ajudar em pesquisas contra o câncer de próstata](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUZYYTV6T21KeTFMbGd2aWlDZGE0TlZyUGtYN0JpVE5xUUpfTk4za2RLNVN3QWJzbnByb1I4S1RZUV9YM180ang2SXdOUEZsMXF1a2FVNFZVMTJBUTJMZFZWTVVXSlZsdWFBc2c0MGpkeVc0cmRqaElqT2pCR21FZWQ5NFlud2F4WEprazF3b0dBRG5EcEFod1hNci1aLTN4QWVMUmVlREpNa1E0STdaanFwR2swMERTX2xmcFlrWmVxcXfSAb4BQVVfeXFMT2NXM0VWbEZmSm1kdm1MQ081WlF0N2R1ZjNJUXpDZVpveHM2bDhMaVZkdjFnVUhPOGFQZTRpanRTMkxKQV9hZzc3b0h1dUJvQW1HcXFwVUVsNGFpVDNjU1dsbkk0RVViVGxvUE9sV3pualJHSllKYkRUb3UtemozT09mUHA2WFowQkFxMmNnREtrTWJISXlYN21iQUFlaUwxWTZwdENDc2hTaDVNaGFxSzh4a05wUVZqRm12amU4dw?oc=5)
+
+2026-11-10 <span class="news-indication-tag">câncer</span>
+
+Fonte: [TNH1](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUZYYTV6T21KeTFMbGd2aWlDZGE0TlZyUGtYN0JpVE5xUUpfTk4za2RLNVN3QWJzbnByb1I4S1RZUV9YM180ang2SXdOUEZsMXF1a2FVNFZVMTJBUTJMZFZWTVVXSlZsdWFBc2c0MGpkeVc0cmRqaElqT2pCR21FZWQ5NFlud2F4WEprazF3b0dBRG5EcEFod1hNci1aLTN4QWVMUmVlREpNa1E0STdaanFwR2swMERTX2xmcFlrWmVxcXfSAb4BQVVfeXFMT2NXM0VWbEZmSm1kdm1MQ081WlF0N2R1ZjNJUXpDZVpveHM2bDhMaVZkdjFnVUhPOGFQZTRpanRTMkxKQV9hZzc3b0h1dUJvQW1HcXFwVUVsNGFpVDNjU1dsbkk0RVViVGxvUE9sV3pualJHSllKYkRUb3UtemozT09mUHA2WFowQkFxMmNnREtrTWJISXlYN21iQUFlaUwxWTZwdENDc2hTaDVNaGFxSzh4a05wUVZqRm12amU4dw?oc=5)
+
+---
+
+### [Mamografia pode fazer mais do que detectar câncer de mama e também fornece pistas sobre a saúde cardíaca - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeE1tUDRKYVpVTHVrNmtabzNZOG9WdFIyWDIzc3E5YVUyLWJaTUhSMmtvZnBsaU5iWlFaa3hMNkdDOFpGdFRpRHp0WVJnOHhKVXloTnV0VnRld0hCMWR5Qm50dElpeWRfLUlpXzd4YmVJRFpVV1g2QTAtanhsQnp6dXlRRmNtZHZrTGRJUkN5MVdOclpTY045UXprdXBQUWhfNXdaUGFkclhXMGpHNXRZVE1HU0M0TFllTFdlWjFUMnZzY2hHbkM0Uy1qQlY1bndfV29haE4wN3RhZWpQbjNtbGJiZzl0VGtMYnVpNlpwWGJWNl9YdTg5YWN3?oc=5)
+
+2026-11-10 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de mama</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeE1tUDRKYVpVTHVrNmtabzNZOG9WdFIyWDIzc3E5YVUyLWJaTUhSMmtvZnBsaU5iWlFaa3hMNkdDOFpGdFRpRHp0WVJnOHhKVXloTnV0VnRld0hCMWR5Qm50dElpeWRfLUlpXzd4YmVJRFpVV1g2QTAtanhsQnp6dXlRRmNtZHZrTGRJUkN5MVdOclpTY045UXprdXBQUWhfNXdaUGFkclhXMGpHNXRZVE1HU0M0TFllTFdlWjFUMnZzY2hHbkM0Uy1qQlY1bndfV29haE4wN3RhZWpQbjNtbGJiZzl0VGtMYnVpNlpwWGJWNl9YdTg5YWN3?oc=5)
+
+---
+
+### [Ela disse que mãe estava 'caçando problema'; dias depois, descobriu câncer](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjdULTY0SElFdVotZW0yVDdjMmhIaW1ldVRVLVJlMzl3THFmR2lYWEdDX3dIaXVDS3F2T1djSjl2Sk5mOWZhRnhyM25tSHMyaEl4ZzBmUlEybGRmNnhIQk1zTnRyUk96OVhsLWgtUXpDUG9MNTNOSnlLNEpXODZ6YmZSb2IwcUJyeDMybTY3czhLMWlGcHp0bkdobmY0eUZZS0ZuS3VJV3ZOU0NJNGZhV045M1ZLdGY0aHpjYlliRG9mTHpRZzRNM1VxTXRpUXM?oc=5)
+
+2026-11-10 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjdULTY0SElFdVotZW0yVDdjMmhIaW1ldVRVLVJlMzl3THFmR2lYWEdDX3dIaXVDS3F2T1djSjl2Sk5mOWZhRnhyM25tSHMyaEl4ZzBmUlEybGRmNnhIQk1zTnRyUk96OVhsLWgtUXpDUG9MNTNOSnlLNEpXODZ6YmZSb2IwcUJyeDMybTY3czhLMWlGcHp0bkdobmY0eUZZS0ZuS3VJV3ZOU0NJNGZhV045M1ZLdGY0aHpjYlliRG9mTHpRZzRNM1VxTXRpUXM?oc=5)
+
+---
+
+### [Vacinas contra câncer feitas sob medida: o que o avanço no melanoma indica sobre o futuro do tratamento](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPc2RhcUVRV3MtY3N1OVB6eWZFbms3eFV3dUJUXzBndnpBQmNPRzlwZzhzOS1MZ0RGdmpFNHdfSURiZDVsM1J1TkY4UEZsMFpfU3Q3THR1Q1g4RkRqS1NxMVlUQ0tzOWJ1UWpiZ0U3SDZ0VUs4R1pYNTdtbzNmX2ZzSFNEZExlRkdLUnNHVjAtZjhiX0ZRMEpUaERHWV9tLUlhT3lxb3NlTFNrX0k0Nk85VjJSeGtPbnJYVU52LUhiZUJVUHNNYzNUUGFqY3dibThMQmpiWWxXMmQ4cHhOaE1IcVg0MDBjOF84SGfSAfgBQVVfeXFMT05hTHhESmFlVTJuTUhjN0xFekczUmNlQm5NUm0xSlByNUhudHQweTgxMTM1LVVjaXJMRXQ1SXdTd2ItUjdJaUpWbWRnd3JTendUTGl1ZXNyT3VKSnB4aVJrSWRKaFZ6aTBEOTN5N1gyenBDNHB1R2ZGaWdacGU0eXExZlFqV2lNN2ZIc1VmeENGRkdMUUc3OWozTEpXdFJzX2hxRDMzeExZWUh2UlBqeWFvalZMekxDRGxsV2d3ZEhVOXdtTmRncThlNk1McEpLMFNOSEZnM2NVTENmQlYwa3hmUXV4MWJGeFFjSkE5Rmk3aTdqei1YbHI?oc=5)
+
+2026-11-10 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">tumor</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPc2RhcUVRV3MtY3N1OVB6eWZFbms3eFV3dUJUXzBndnpBQmNPRzlwZzhzOS1MZ0RGdmpFNHdfSURiZDVsM1J1TkY4UEZsMFpfU3Q3THR1Q1g4RkRqS1NxMVlUQ0tzOWJ1UWpiZ0U3SDZ0VUs4R1pYNTdtbzNmX2ZzSFNEZExlRkdLUnNHVjAtZjhiX0ZRMEpUaERHWV9tLUlhT3lxb3NlTFNrX0k0Nk85VjJSeGtPbnJYVU52LUhiZUJVUHNNYzNUUGFqY3dibThMQmpiWWxXMmQ4cHhOaE1IcVg0MDBjOF84SGfSAfgBQVVfeXFMT05hTHhESmFlVTJuTUhjN0xFekczUmNlQm5NUm0xSlByNUhudHQweTgxMTM1LVVjaXJMRXQ1SXdTd2ItUjdJaUpWbWRnd3JTendUTGl1ZXNyT3VKSnB4aVJrSWRKaFZ6aTBEOTN5N1gyenBDNHB1R2ZGaWdacGU0eXExZlFqV2lNN2ZIc1VmeENGRkdMUUc3OWozTEpXdFJzX2hxRDMzeExZWUh2UlBqeWFvalZMekxDRGxsV2d3ZEhVOXdtTmRncThlNk1McEpLMFNOSEZnM2NVTENmQlYwa3hmUXV4MWJGeFFjSkE5Rmk3aTdqei1YbHI?oc=5)
+
+---
+
+### [Câncer de próstata: a importância do aconselhamento genético - O GLOBO](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXE2MS02Q0J6dGJOYmNCMG5ma1piMWRfM3NvTm8tTXhZbTFOMTFsY1pvVGZqZl81UE1Bb3FvQVNqNlpBTHA5RTY2SHN2azVtdDhqV2RBdU94d2tucGVpMlhtYUs4NDdBYjlsMklVeG4tMzl2cUg0b2pBT2J2dlY4ay0yUDdJYy1WU3FvLUxqTFVMbUs1U1FJekttb005eUp6LXNKTUpsNWtkMHBBQnAtLVZDYXA0TTZNREFDNjIwc9IBzgFBVV95cUxQVjVoSkhsYThvZ3I1RDJSZk16M19aUXRUN25oSWoydjF3RWp5TjhZQU5rdTc2RFdWUUZZS21JUjV5UThNZzdBelNkLVdJNTRRS0Z5U3g3LXFDa29mbnBONDFUaVZoTjd0SEpydGhZY3hnV3hjanAzbmFpb3dCaUZwRk5UbVFfWGw4UzAxTHhxQl9UZFVWVUJMRjdXR0pPNl9XNXBHXzJOM01fZFNPMG1MWmVsbG5TbWk5R24xS0ViYTRmQjF5QTkwdnNFd0VZUQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">câncer</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXE2MS02Q0J6dGJOYmNCMG5ma1piMWRfM3NvTm8tTXhZbTFOMTFsY1pvVGZqZl81UE1Bb3FvQVNqNlpBTHA5RTY2SHN2azVtdDhqV2RBdU94d2tucGVpMlhtYUs4NDdBYjlsMklVeG4tMzl2cUg0b2pBT2J2dlY4ay0yUDdJYy1WU3FvLUxqTFVMbUs1U1FJekttb005eUp6LXNKTUpsNWtkMHBBQnAtLVZDYXA0TTZNREFDNjIwc9IBzgFBVV95cUxQVjVoSkhsYThvZ3I1RDJSZk16M19aUXRUN25oSWoydjF3RWp5TjhZQU5rdTc2RFdWUUZZS21JUjV5UThNZzdBelNkLVdJNTRRS0Z5U3g3LXFDa29mbnBONDFUaVZoTjd0SEpydGhZY3hnV3hjanAzbmFpb3dCaUZwRk5UbVFfWGw4UzAxTHhxQl9UZFVWVUJMRjdXR0pPNl9XNXBHXzJOM01fZFNPMG1MWmVsbG5TbWk5R24xS0ViYTRmQjF5QTkwdnNFd0VZUQ?oc=5)
+
+---
+
+### [Nível de conhecimento e prevenção ao câncer de próstata cai no Brasil - Agência Brasil](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlZZdlJBa0hTYkltSTNVS2VvNjJqaFRNYjNTSGhUOHl4dTBxR3VBdWZ1dlc1emJzeHhJSDRSdm1sUVJ3RExVc1pqT2NtRlZURndNaUhmMlJDYkt3UzNRdEs3SmRxdWNlQTJtUlh1SU9MNk5QM2UwZjRaWXUxaFYwRGRMNEhQcTBSdTV3WllqNnV5dTlnWFFVdjAtY0dxNUZhTjRJVmJDVlJiU3dkbDVFSnotdEIzcW1DTTFLaC1XZzI5QQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Agência Brasil](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlZZdlJBa0hTYkltSTNVS2VvNjJqaFRNYjNTSGhUOHl4dTBxR3VBdWZ1dlc1emJzeHhJSDRSdm1sUVJ3RExVc1pqT2NtRlZURndNaUhmMlJDYkt3UzNRdEs3SmRxdWNlQTJtUlh1SU9MNk5QM2UwZjRaWXUxaFYwRGRMNEhQcTBSdTV3WllqNnV5dTlnWFFVdjAtY0dxNUZhTjRJVmJDVlJiU3dkbDVFSnotdEIzcW1DTTFLaC1XZzI5QQ?oc=5)
+
+---
+
+### [Sete em cada dez pacientes com câncer de próstata esperam mais de 60 dias para iniciar tratamento, diz pesquisa - Folha de S.Paulo](https://news.google.com/rss/articles/CBMihwJBVV95cUxPZlZ0ZkF2dDZWX29JeEtVZF9BTU1YYjN5ek9HalJpaFpzU2JnV1I5MHNDZVRnTHhkd2k4cVBPbGVCLWVoRFVWcjJuTXEwWEVHM2VQRkhzVlFYNUxRNDQwMzQ4bnJYMDFLSVYwUktMblJMSGstMktrUjZIaHhnUmxqb05sb0dFbVlwdEtaR2hwSnVNT3I1NXg1RHYxaFZlVGlmX2hYTnFOREUtUW9lUVd2c2RTQzlqbmxJdUlDWHM3VlRfcDNlaHVyX3l1TXR1cF9CaldHRzlZT0dMOVdrM1Vnc3NYSi05Nk5LeldLZFVuY2dzY1V4Uk9TZTdMamFxa2hQYUZIdHBvWQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMihwJBVV95cUxPZlZ0ZkF2dDZWX29JeEtVZF9BTU1YYjN5ek9HalJpaFpzU2JnV1I5MHNDZVRnTHhkd2k4cVBPbGVCLWVoRFVWcjJuTXEwWEVHM2VQRkhzVlFYNUxRNDQwMzQ4bnJYMDFLSVYwUktMblJMSGstMktrUjZIaHhnUmxqb05sb0dFbVlwdEtaR2hwSnVNT3I1NXg1RHYxaFZlVGlmX2hYTnFOREUtUW9lUVd2c2RTQzlqbmxJdUlDWHM3VlRfcDNlaHVyX3l1TXR1cF9CaldHRzlZT0dMOVdrM1Vnc3NYSi05Nk5LeldLZFVuY2dzY1V4Uk9TZTdMamFxa2hQYUZIdHBvWQ?oc=5)
+
+---
+
+### [Câncer do colo do útero: conheça sintomas, causas e relação com o HPV - Diário do Nordeste](https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFZXbkEyUGNwMlF0Wk9CcjUxdUFDRXJIZ28yRkYyNWtGWVI4MEVUczZlc1U0dTdRd3YzYXhsa09vZ0Q1RFRWSU1NNzBfX2dZckpyZXllWUxPcU9YOHFyMDRJYnlLZ2RmNGl4c0had0xwdE9XYnFMRGg5cFpMWjZKMzRRVjZhdVJHTmlxQ0Z0SFByM2NhRFV3MWhQQm9pNWx2a3pPV3dva0tpY1UzUmdFWW5icmFZU3dYS3BsdC1hbG5lLURkOFhGSVc0dw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Diário do Nordeste](https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFZXbkEyUGNwMlF0Wk9CcjUxdUFDRXJIZ28yRkYyNWtGWVI4MEVUczZlc1U0dTdRd3YzYXhsa09vZ0Q1RFRWSU1NNzBfX2dZckpyZXllWUxPcU9YOHFyMDRJYnlLZ2RmNGl4c0had0xwdE9XYnFMRGg5cFpMWjZKMzRRVjZhdVJHTmlxQ0Z0SFByM2NhRFV3MWhQQm9pNWx2a3pPV3dva0tpY1UzUmdFWW5icmFZU3dYS3BsdC1hbG5lLURkOFhGSVc0dw?oc=5)
+
+---
+
+### [Câncer de pulmão: tomografia de baixa dose reduz mortalidade entre pessoas de alto risco, aponta estudo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEN5TDVaaWsySl9VRm51WGhnWE1rb09paV9fX2lqdVlNSVpVYkxKcDlyUVVTWjhKZ1RsaHZxc1hubWxiWlhFUXpnZFpDVTRZTmxrN29tSHhPMzE4cFhSVUpxRHJFSTB3OG9ENHltSm1GdS1oQ0VLLUV0NnZTNzFyVUNHUjFxUDM0UV9WMlhCLS13ME5EalluU3lIc1lGR19pY1owTTRYX3FTUG1rUTBXX3FIU2VEVjlGVm4wbGROajlNbWx6bkQ5RUQ0YlQ0LUdUU09wN0xqQ1J2RUlTWGNuWTdYVDlQMnZB?oc=5)
+
+2026-11-08 <span class="news-indication-tag">câncer</span> <span class="news-indication-tag">câncer de pulmão</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEN5TDVaaWsySl9VRm51WGhnWE1rb09paV9fX2lqdVlNSVpVYkxKcDlyUVVTWjhKZ1RsaHZxc1hubWxiWlhFUXpnZFpDVTRZTmxrN29tSHhPMzE4cFhSVUpxRHJFSTB3OG9ENHltSm1GdS1oQ0VLLUV0NnZTNzFyVUNHUjFxUDM0UV9WMlhCLS13ME5EalluU3lIc1lGR19pY1owTTRYX3FTUG1rUTBXX3FIU2VEVjlGVm4wbGROajlNbWx6bkQ5RUQ0YlQ0LUdUU09wN0xqQ1J2RUlTWGNuWTdYVDlQMnZB?oc=5)
+
+---
+
+### [Câncer nos olhos: quais sinais observar em crianças? Entenda com Dr. Kalil - CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVRSl9nVzdOTlNuRHUzUWs4anZNSlhHN1lIOUEtbWZ2M3I5bFNFRGJBeVljZmx2a1JOcC1VSEdmV05rMkVqZ2Z6UDlYOGhxQlJiTHZKeVA3ZUFfSFhvVHotUnNuTGs3RVJqeFpGd3NRSUlDbW0yaWFuTFlmXzhGR0s3YlpBSE8xZHhPU1NjUEJlTXZRUEVaTFN5WFVrU1ZKUk5xc2pQYXFaUzQ?oc=5)
+
+2026-11-07 <span class="news-indication-tag">câncer</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVRSl9nVzdOTlNuRHUzUWs4anZNSlhHN1lIOUEtbWZ2M3I5bFNFRGJBeVljZmx2a1JOcC1VSEdmV05rMkVqZ2Z6UDlYOGhxQlJiTHZKeVA3ZUFfSFhvVHotUnNuTGs3RVJqeFpGd3NRSUlDbW0yaWFuTFlmXzhGR0s3YlpBSE8xZHhPU1NjUEJlTXZRUEVaTFN5WFVrU1ZKUk5xc2pQYXFaUzQ?oc=5)
+
+---
+
+### [Toque de Saúde. Por: Dr. Douglas Andrade](https://news.google.com/rss/articles/CBMic0FVX3lxTE42S2gyWnFCZUFTdkNydzhndkVkel9nREhxbkJUdi1tTkFIbHpJSXgwcFZhdEl2eUc3c3pFWkN4UVlNSXNTX01hSGNEZnlvVGxCWGNoSDVmUzNGLW1raW5laE94T210T19wRGNfbGlkb1pxcmc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Guiacampos.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE42S2gyWnFCZUFTdkNydzhndkVkel9nREhxbkJUdi1tTkFIbHpJSXgwcFZhdEl2eUc3c3pFWkN4UVlNSXNTX01hSGNEZnlvVGxCWGNoSDVmUzNGLW1raW5laE94T210T19wRGNfbGlkb1pxcmc?oc=5)
+
+---
+
+### [Cupuaçu: o parente do cacau que intrigou cientistas contra o câncer, mas apenas em laboratório - Portal do Holanda](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3BuWlRIY1c1dkg4MTZRbWVNYjBRS01tYnB0SDZ0dDF6cXZYbXd6MTlyV2xOQ0tnTEVPd1h6Unc0Unk3QUZZRWlNQzVOV3F0eE5kN2Z3cjAwbG9zblhNZkJpalprSHNQSHBCYl9kZy1YSjJ0eUpwbWRfdjQyaUJJTTV5Yk05VTR5S1Y3RG52c3U0b29CdTdDZHVVcVJQeHVNX0FGOFhFX1B5aXc1NXlZTk5ZVXQ0NFh3UDVweTBhTjNNdWRycnZnMTVJWDlvd0xMY2FUQjhCMFoyUDEyNFY4?oc=5)
+
+2026-11-07 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Portal do Holanda](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3BuWlRIY1c1dkg4MTZRbWVNYjBRS01tYnB0SDZ0dDF6cXZYbXd6MTlyV2xOQ0tnTEVPd1h6Unc0Unk3QUZZRWlNQzVOV3F0eE5kN2Z3cjAwbG9zblhNZkJpalprSHNQSHBCYl9kZy1YSjJ0eUpwbWRfdjQyaUJJTTV5Yk05VTR5S1Y3RG52c3U0b29CdTdDZHVVcVJQeHVNX0FGOFhFX1B5aXc1NXlZTk5ZVXQ0NFh3UDVweTBhTjNNdWRycnZnMTVJWDlvd0xMY2FUQjhCMFoyUDEyNFY4?oc=5)
+
+---
+
+### [Terçol que não cura pode ser sinal de câncer, diz especialista a Kalil - CNN Brasil](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGE1bWNWQnN1N09JZEE5SVJTbjQwaUx5XzZzU2pTUmI2dzBray1XMk1URFVHeC1NRks0VkY1d1RCZmJTa2NnMVhQd0V4cGlueXYzVklKNHo1Vjhha3NjRERkczBsdkRxS01KVG16QnlTUVhaaUx2VDRoM25xMmNvRHZiNG9VWjVSb0s0amZBT2t1MldEdXlVMjJxejFma2dJU1BVM1pfbkg?oc=5)
+
+2026-11-06 <span class="news-indication-tag">câncer</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGE1bWNWQnN1N09JZEE5SVJTbjQwaUx5XzZzU2pTUmI2dzBray1XMk1URFVHeC1NRks0VkY1d1RCZmJTa2NnMVhQd0V4cGlueXYzVklKNHo1Vjhha3NjRERkczBsdkRxS01KVG16QnlTUVhaaUx2VDRoM25xMmNvRHZiNG9VWjVSb0s0amZBT2t1MldEdXlVMjJxejFma2dJU1BVM1pfbkg?oc=5)
+
+---
+
+### [HPV também pode causar câncer na boca e na garganta; dentista alerta para prevenção - Jornal Correio](https://news.google.com/rss/articles/CBMixgFBVV95cUxOS25wR0ZKcmNvR3BxNU9nNmhweGNxeGxqRUQ0MjFqVFFFQl9VaENNaDEtczZleHZZNGFLZWdXWmZyY3kweGVSOW5yamhpX1hzc0M1Rm1MMnl0dFVPWHlILV9RQ2JJd2JQRkltbXl1SHJWM1RRTEpXREhxQTY1ZW5zOXlRZkRBanBXbENuX29MR1AweURuS19KTFFRTXlwR2t0V3NFZ0w5NE9zTFJ3NFpvNmNYTW5DY3FLdEdidkNSbHlaMzRIM2c?oc=5)
+
+2026-11-06 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Jornal Correio](https://news.google.com/rss/articles/CBMixgFBVV95cUxOS25wR0ZKcmNvR3BxNU9nNmhweGNxeGxqRUQ0MjFqVFFFQl9VaENNaDEtczZleHZZNGFLZWdXWmZyY3kweGVSOW5yamhpX1hzc0M1Rm1MMnl0dFVPWHlILV9RQ2JJd2JQRkltbXl1SHJWM1RRTEpXREhxQTY1ZW5zOXlRZkRBanBXbENuX29MR1AweURuS19KTFFRTXlwR2t0V3NFZ0w5NE9zTFJ3NFpvNmNYTW5DY3FLdEdidkNSbHlaMzRIM2c?oc=5)
+
+---
+
+### [Além do câncer: quatro doenças urológicas comuns entre homens - Diário do Centro do Mundo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFotVTNlVUxWcXNLMURpWm9mNjBSRm9RVE5HcHFiS0JOT1prQVVMeVVaMExXaGFBSWZOMEdOaWtXYWdPcVFOZFV3djJIbk0wajZMZ0pNRVVjNTJySHc5anB0UmxZQVhwbURVOXdIOGdGWGlHeDc0STR5MDVrVlB5YjBlcmtfUUl4SE9ESi1ibkV4ZDY1bEE?oc=5)
+
+2026-11-06 <span class="news-indication-tag">câncer</span>
+
+Fonte: [Diário do Centro do Mundo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFotVTNlVUxWcXNLMURpWm9mNjBSRm9RVE5HcHFiS0JOT1prQVVMeVVaMExXaGFBSWZOMEdOaWtXYWdPcVFOZFV3djJIbk0wajZMZ0pNRVVjNTJySHc5anB0UmxZQVhwbURVOXdIOGdGWGlHeDc0STR5MDVrVlB5YjBlcmtfUUl4SE9ESi1ibkV4ZDY1bEE?oc=5)
+
+---
 
 ### [Santa Casa do Rio oferece consultas gratuitas de urologia e exames de próstata em novembro - Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx5Q1c4QVB4VWYzclFIZFJNTjJ5THFHTnJab3BISTBBVXhoLUdnMGRENmJZRXVaOE1LcjBXR1lhMXJsbFBtY1Z0M0tCYzVWd00wMVl2QWE3TE92SzFvSzJILVFhdlhEX3E4TEoxa29SSUZ2dF9yM05xa1lRSF9DOGMzNEJyRzF5d0UwY2hHMFFPZG9pa3l2cmJzdjFORUJWbmEtbXJ0TmRvMHByN3AweloybFYzeEpmdVhUdjRvSXduajZoRkdndW41enU1UV9JS3c?oc=5)
 
@@ -50,6 +170,14 @@ Fonte: [Diário do Rio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkx
 2026-11-05 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Exame](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU1Ob19Jbzd0S0RhNEVVd3ZZZFZHdWZmOWFoVDh5UU54ZHJzdS0zdGRLSEl2bWc1Q1VqS0wzaGpmcm5CQjhjTFp6TG5McDlrLWJLRHVwTzN1WXF5T1I1bGs3Y1pTNmgyRFJOeExKeU96TGlXc2xoUDQ4NXpyUWtLM0FfOVdjNFo1eXRNRHdFUXctMXBoeUtaLVEybTRxMmszY3dYYkFIcHRST2pqV2g1ZnExalVzMkk?oc=5)
+
+---
+
+### [Lu Make Up: Micropigmentação pode resgatar autoestima de quem teve câncer - UOL Economia](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlGUEZ1U0NqWC15NElyZFRpSVdOS2U4SHBUNjB5WW52b3dxdU10T2JpYWFvSUp3RURicXBlYXI0dHFDdXQtRUdNY3RHajNiVktMQTQ1eXpPMDVVcFVhTlhkX1c4SGV2X2tJb21Qd19CeGJlSUM3U01LdnJQd1A1MzZGR2tYSmlwVWVBVU5pUG4?oc=5)
+
+2026-11-05 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL Economia](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlGUEZ1U0NqWC15NElyZFRpSVdOS2U4SHBUNjB5WW52b3dxdU10T2JpYWFvSUp3RURicXBlYXI0dHFDdXQtRUdNY3RHajNiVktMQTQ1eXpPMDVVcFVhTlhkX1c4SGV2X2tJb21Qd19CeGJlSUM3U01LdnJQd1A1MzZGR2tYSmlwVWVBVU5pUG4?oc=5)
 
 ---
 

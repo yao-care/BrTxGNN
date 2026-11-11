@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com TENECTEPLASE. 7 indicações previstas."
 permalink: /news/tenecteplase/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-10
 ---
 
 # Notícias sobre TENECTEPLASE
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TENECTEPLASE?">
-<strong>TENECTEPLASE</strong> tem atualmente <strong>2 notícias</strong> e 7 indicações previstas.
+<strong>TENECTEPLASE</strong> tem atualmente <strong>5 notícias</strong> e 7 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,37 @@ Esta página combina as indicações previstas por IA para TENECTEPLASE com as n
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (5)
+
+### ['Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
+
+2026-11-10 <span class="news-indication-tag">doença cardíaca</span>
+
+Fonte: [BBC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
+
+---
+
+### [Qual é o melhor horário para dormir? Estudo mostra por que ir cedo ou tarde demais afeta o coração - CNN Brasil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzloWFA5Ql94VFRNV1h0b3gyUnFNdElocy1tNkJMcmlXQXdsZGRFSHBzcmpFa2lKTmUyN203T3dWdmlpdUpBMlgtVlVoTWEwT1V0cVpqbzVkdUp6T2ctNzZCeEFDdDBGOXNHWDN2cDg0N0dFcHNKZVpYTmdza2ZlNjJnQVl5bExPU202WmZ2dTN6dVVPMUdJdFY1NXhVanY0ZTQ3RUdNajIzeTJ2OFZ2RE1mOV9oMzl2ZUFWLVpiUTl3YVBrVks2TW9TOXFNWjAtNjBmdXVuaw?oc=5)
+
+2026-11-05 <span class="news-indication-tag">cardiovascular</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzloWFA5Ql94VFRNV1h0b3gyUnFNdElocy1tNkJMcmlXQXdsZGRFSHBzcmpFa2lKTmUyN203T3dWdmlpdUpBMlgtVlVoTWEwT1V0cVpqbzVkdUp6T2ctNzZCeEFDdDBGOXNHWDN2cDg0N0dFcHNKZVpYTmdza2ZlNjJnQVl5bExPU202WmZ2dTN6dVVPMUdJdFY1NXhVanY0ZTQ3RUdNajIzeTJ2OFZ2RE1mOV9oMzl2ZUFWLVpiUTl3YVBrVks2TW9TOXFNWjAtNjBmdXVuaw?oc=5)
+
+---
 
 ### [O melhor horário para ir dormir e reduzir a pressão arterial - Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUE2dk01TjhOZ0k3YmZuU1M5Z3duYU0tVXdJUHRDRFlDeDBqOG4yckJVb29lSDJjSzRRMnlhOUhyRVlJVlhqdHlmbWI5TkNSaDNQejlyTlJ4TElmMXQycVhSeVBPN2tadUIzVjB1QWZENlNldUlUQUNjbFlIeURvbVBjMXRMNjc2Y0VjbURhYnRFUXF5S3NDc0JxVEs?oc=5)
 
 2026-11-04 <span class="news-indication-tag">cardiovascular</span>
 
 Fonte: [Rádio Itatiaia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUE2dk01TjhOZ0k3YmZuU1M5Z3duYU0tVXdJUHRDRFlDeDBqOG4yckJVb29lSDJjSzRRMnlhOUhyRVlJVlhqdHlmbWI5TkNSaDNQejlyTlJ4TElmMXQycVhSeVBPN2tadUIzVjB1QWZENlNldUlUQUNjbFlIeURvbVBjMXRMNjc2Y0VjbURhYnRFUXF5S3NDc0JxVEs?oc=5)
+
+---
+
+### [Pesquisa descobre benefício de comer manga e abacate todos os dias](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUdYTlFwdy1VYUpLYVU0TkZyOWo1VXpLbVpTdFJIYUdQSVVVOGVoTnMtUWpnU3BXYkczYjZqZ0tfdjcyWHRjRU05LVp4TG1IZ19MREJjcDVXMUZLTlBvT19ubDJ0RlBINy1CVUI1bHVfUDlTOHh3Y3V6NGdfWkRHM0MtYnVpQmNjRVhUM3lOMGdsR1JrMGVqUFg2ZHJxdkhxUDJyRWRWS2JqQWc1X3RFajgzU19xcU0ya2xpdnNB?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cardiovascular</span>
+
+Fonte: [UOL](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUdYTlFwdy1VYUpLYVU0TkZyOWo1VXpLbVpTdFJIYUdQSVVVOGVoTnMtUWpnU3BXYkczYjZqZ0tfdjcyWHRjRU05LVp4TG1IZ19MREJjcDVXMUZLTlBvT19ubDJ0RlBINy1CVUI1bHVfUDlTOHh3Y3V6NGdfWkRHM0MtYnVpQmNjRVhUM3lOMGdsR1JrMGVqUFg2ZHJxdkhxUDJyRWRWS2JqQWc1X3RFajgzU19xcU0ya2xpdnNB?oc=5)
 
 ---
 

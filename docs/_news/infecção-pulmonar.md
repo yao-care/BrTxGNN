@@ -1,0 +1,49 @@
+---
+layout: default
+title: "Notícias sobre pneumonia (infecção pulmonar)"
+parent: Notícias de Saúde
+nav_exclude: true
+description: "Notícias de saúde sobre pneumonia (infecção pulmonar). 1 notícias, 4 medicamentos relacionados."
+permalink: /news/infecção-pulmonar/
+last_modified_at: 2026-11-10
+---
+
+# Notícias sobre pneumonia (infecção pulmonar)
+
+[← Voltar à visão geral das notícias]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="Que notícias há sobre pneumonia (infecção pulmonar)?">
+<strong>pneumonia (infecção pulmonar)</strong> tem atualmente <strong>1 notícias</strong> e 4 medicamentos relacionados.
+</p>
+
+<div class="key-takeaway">
+Esta página reúne as notícias de saúde mais recentes sobre «pneumonia» e lista os medicamentos da base de dados BrTxGNN cujas indicações previstas incluem esta doença.
+</div>
+
+<div class="related-drugs-card">
+<strong>Relatórios de medicamentos relacionados</strong>
+<p>As indicações previstas dos seguintes medicamentos podem estar relacionadas com esta doença:</p>
+<ul>
+<li><a href="{{ '/drugs/clobutinol/' | relative_url }}">Clobutinol</a></li>
+<li><a href="{{ '/drugs/ganciclovir/' | relative_url }}">Ganciclovir</a></li>
+<li><a href="{{ '/drugs/oseltamivir/' | relative_url }}">Oseltamivir</a></li>
+<li><a href="{{ '/drugs/tazobactam/' | relative_url }}">Tazobactam</a></li>
+</ul>
+</div>
+
+## Notícias relacionadas (1)
+
+### [Vacina Pneumo 20 em Belém: saiba onde tomar, quem tem direito e documentos para receber dose contra pneumonia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeXczajhTdGx4bVVSNjA5V0hpeVlCSHRyYUxBaVZBQUZ4YmRZTEtoX0ViQy11eGphRHFfU09IQzBnakg3UWIxTS1RWUcwS0FoMW9HRkg0OUs2ZmM2d2FZazFHektXWW4zc0otTExkbUFWSEpVT0JHUDNsSm5GNGkzYl9ZMEdIcG9LTmhNeHhGbW1DVTNkY0R0Y3JWX3FCX21SSkdEOEhBb3N4X1BsZExqZEpMYlpJeUwwc0dNZkl0Qjd0aFIwRGFvdnZkakdDSU9ncnVvYjA3MWl2VkRKTWFNcHlaSG5aLWcxaV9SSkVwbEVnQU3SAYICQVVfeXFMUDI5TTBUbWFHWDF3MWRIc3FJQmttVTd0MUhVN3otLWNPNm52TmM3aW9ienltNS1nOWRRckdTcE1PcURJVnlJSjBwUENSeDJSUEZ5anRVeUxWM1VQU2JKNFR2V2EwZDZxMzVoTmJ4cEJnOXBBM2FQd29wdThGRnVLUlJNNk1tYk5ZbTJXbjVaWC05ZlpRdE55VWxfOUN4aF9QczllU1pIX2hXWTBGa3JrWTdTdmIzRVM1anJRdk5kc2ZQUU1PWVFYSHBHaVB4X3JHRmR5ZXB3eHNxNTA2S20ySUw5c3FDMW5iZmRrc2ZNT1d6SE9PUzBJZThaT1o5RGp1QllB?oc=5)
+
+2026-11-09
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeXczajhTdGx4bVVSNjA5V0hpeVlCSHRyYUxBaVZBQUZ4YmRZTEtoX0ViQy11eGphRHFfU09IQzBnakg3UWIxTS1RWUcwS0FoMW9HRkg0OUs2ZmM2d2FZazFHektXWW4zc0otTExkbUFWSEpVT0JHUDNsSm5GNGkzYl9ZMEdIcG9LTmhNeHhGbW1DVTNkY0R0Y3JWX3FCX21SSkdEOEhBb3N4X1BsZExqZEpMYlpJeUwwc0dNZkl0Qjd0aFIwRGFvdnZkakdDSU9ncnVvYjA3MWl2VkRKTWFNcHlaSG5aLWcxaV9SSkVwbEVnQU3SAYICQVVfeXFMUDI5TTBUbWFHWDF3MWRIc3FJQmttVTd0MUhVN3otLWNPNm52TmM3aW9ienltNS1nOWRRckdTcE1PcURJVnlJSjBwUENSeDJSUEZ5anRVeUxWM1VQU2JKNFR2V2EwZDZxMzVoTmJ4cEJnOXBBM2FQd29wdThGRnVLUlJNNk1tYk5ZbTJXbjVaWC05ZlpRdE55VWxfOUN4aF9QczllU1pIX2hXWTBGa3JrWTdTdmIzRVM1anJRdk5kc2ZQUU1PWVFYSHBHaVB4X3JHRmR5ZXB3eHNxNTA2S20ySUw5c3FDMW5iZmRrc2ZNT1d6SE9PUzBJZThaT1o5RGp1QllB?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>Aviso de isenção de responsabilidade</strong>: As notícias desta página são recolhidas automaticamente e servem apenas como referência para investigação; não constituem aconselhamento médico.
+</div>

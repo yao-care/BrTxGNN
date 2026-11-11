@@ -3,9 +3,9 @@ layout: default
 title: "Notícias sobre câncer de mama (female breast carcinoma)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 1 notícias, 12 medicamentos relacionados."
+description: "Notícias de saúde sobre câncer de mama (female breast carcinoma). 2 notícias, 12 medicamentos relacionados."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-10
 ---
 
 # Notícias sobre câncer de mama (female breast carcinoma)
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre câncer de mama (female breast carcinoma)?">
-<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>1 notícias</strong> e 12 medicamentos relacionados.
+<strong>câncer de mama (female breast carcinoma)</strong> tem atualmente <strong>2 notícias</strong> e 12 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Esta página reúne as notícias de saúde mais recentes sobre «câncer de mama
 </ul>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Mamografia pode fazer mais do que detectar câncer de mama e também fornece pistas sobre a saúde cardíaca - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeE1tUDRKYVpVTHVrNmtabzNZOG9WdFIyWDIzc3E5YVUyLWJaTUhSMmtvZnBsaU5iWlFaa3hMNkdDOFpGdFRpRHp0WVJnOHhKVXloTnV0VnRld0hCMWR5Qm50dElpeWRfLUlpXzd4YmVJRFpVV1g2QTAtanhsQnp6dXlRRmNtZHZrTGRJUkN5MVdOclpTY045UXprdXBQUWhfNXdaUGFkclhXMGpHNXRZVE1HU0M0TFllTFdlWjFUMnZzY2hHbkM0Uy1qQlY1bndfV29haE4wN3RhZWpQbjNtbGJiZzl0VGtMYnVpNlpwWGJWNl9YdTg5YWN3?oc=5)
+
+2026-11-10
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeE1tUDRKYVpVTHVrNmtabzNZOG9WdFIyWDIzc3E5YVUyLWJaTUhSMmtvZnBsaU5iWlFaa3hMNkdDOFpGdFRpRHp0WVJnOHhKVXloTnV0VnRld0hCMWR5Qm50dElpeWRfLUlpXzd4YmVJRFpVV1g2QTAtanhsQnp6dXlRRmNtZHZrTGRJUkN5MVdOclpTY045UXprdXBQUWhfNXdaUGFkclhXMGpHNXRZVE1HU0M0TFllTFdlWjFUMnZzY2hHbkM0Uy1qQlY1bndfV29haE4wN3RhZWpQbjNtbGJiZzl0VGtMYnVpNlpwWGJWNl9YdTg5YWN3?oc=5)
+
+---
 
 ### [Outubro Rosa: Prefeitura de Bom Jesus promove aulão de pilates e zumba e reforça a importância da prevenção ao câncer de mama - Portal Ponto X](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0ZKZEM2S090emQ3a1pLOUVmcEtnSjRFWWVlRXJ6RkFxQjB4ZXdRXzBhQ0ppLW9TdDF3V1lhb3R6NElpQm5ldlpuQjZYRUlvOEV6QkRLYzBaeVRCVnAzNjZxQ1VLdzgyV1dldGpxOWtIS1NJWGp0QzNfUDFPY21ldFNGMTZrS2hSWjlTVjJqLTU0aF9xdnBDRTEyRzJvYlJ0UlRWaTBobXpxc0NEWWpmMzhmenBHdk9BS25meHQ3OVhSZW5ubmlkYU9NdUZNZldSUV9TLVg0a3hhQVo4U2pyQTRMOW40ejI4WEVVR1RzZURkckliamFn?oc=5)
 
