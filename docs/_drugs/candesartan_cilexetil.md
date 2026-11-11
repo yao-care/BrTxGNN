@@ -62,7 +62,7 @@ Contudo, essa nova indicação se sobrepõe em grande parte ao uso anti-hiperten
 
 ## Informações de Comercialização no Brasil
 
-Segundo os dados compilados, há 17 registros, todos de produtos com candesartana cilexetila isolada ou associada à hidroclorotiazida. Abaixo estão os 5 primeiros; a lista não é exaustiva.
+Abaixo estão os 5 primeiros; a lista não é exaustiva.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

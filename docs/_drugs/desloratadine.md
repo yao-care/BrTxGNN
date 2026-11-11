@@ -75,7 +75,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros de produtos de desloratadina isolada nos dados compilados (a lista pode estar incompleta). Principais:
+Principais:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

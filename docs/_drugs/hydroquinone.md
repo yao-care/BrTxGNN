@@ -84,7 +84,7 @@ Atualmente não há ensaios clínicos relacionados registrados para ceratose seb
 
 ## Informações de Comercialização no Brasil
 
-Os 12 registros no Brasil estão vigentes; o medicamento é comercializado.
+O medicamento é comercializado.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -138,7 +138,7 @@ Para as demais informações de segurança (advertências, contraindicações e 
 **Decisão: Hold**
 
 **Justificativa:**
-- Não há ensaios clínicos, e a única publicação é um estudo observacional indireto. Além disso, a ceratose seborreica é uma lesão benigna cuja base não é pigmentar, de modo que a plausibilidade mecanística é fraca. Os 12 registros brasileiros estão vigentes.
+- Não há ensaios clínicos, e a única publicação é um estudo observacional indireto. Além disso, a ceratose seborreica é uma lesão benigna cuja base não é pigmentar, de modo que a plausibilidade mecanística é fraca.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), que é uma lacuna bloqueante para a triagem de segurança

@@ -46,7 +46,7 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 
 ## Informações de Comercialização no Brasil
 
-Todos os 18 registros estão vigentes (18 de 18 licenças válidas). Principais exemplos:
+Principais exemplos:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

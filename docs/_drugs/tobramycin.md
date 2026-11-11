@@ -82,7 +82,7 @@ Nenhum desses trabalhos testa a tobramicina na ceratite por exposição.
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros vigentes no Brasil e o medicamento é comercializado. Os cinco principais:
+O medicamento é comercializado. Os cinco principais:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -132,7 +132,7 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 **Decisão: Hold**
 
 **Justificativa:**
-- A previsão tem pontuação alta no modelo (0,9993), mas não há ensaios clínicos nem estudos que testem a tobramicina na ceratite por exposição (nível L4). Além disso, existe sinal de toxicidade para o epitélio corneano. No Brasil, o medicamento é comercializado, com 20 registros vigentes.
+- A previsão tem pontuação alta no modelo (0,9993), mas não há ensaios clínicos nem estudos que testem a tobramicina na ceratite por exposição (nível L4). Além disso, existe sinal de toxicidade para o epitélio corneano.
 
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula/informações de segurança da ANVISA (advertências e contraindicações), uma lacuna que impede a triagem de segurança.

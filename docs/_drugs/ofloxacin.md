@@ -104,7 +104,7 @@ Outros trabalhos recuperados tratam de resistência em outros organismos (por ex
 
 ## Informações de Comercialização no Brasil
 
-Todos os 8 registros estão vigentes (8 licenças válidas de 8); o medicamento é comercializado no Brasil.
+O medicamento é comercializado no Brasil.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

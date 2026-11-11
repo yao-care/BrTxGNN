@@ -127,7 +127,7 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa necessária para a triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Revisar a literatura sobre corticosteroides tópicos na micose fungoide em estágio inicial, buscando dados específicos de mometasona.
-- Avaliar a compatibilidade de via e formulação (tópica) e a situação regulatória, dado que o medicamento é comercializado no Brasil, com 9 registros vigentes de 9.
+- Avaliar a compatibilidade de via e formulação (tópica) e a situação regulatória.
 - Considerar um estudo exploratório de fase inicial, caso a revisão sustente a hipótese.
 ## Aviso de isenção de responsabilidade
 

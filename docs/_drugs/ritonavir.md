@@ -86,7 +86,7 @@ Nenhuma das publicações é ensaio clínico randomizado; a maioria é pré-clí
 
 ## Informações de Comercialização no Brasil
 
-Há 20 registros no total, dos quais 5 válidos e 15 cancelados. Os registros não trazem texto de indicação aprovada nem forma farmacêutica nos dados compilados. Abaixo, os registros válidos de ritonavir isolado; o registro de Kaletra e o de lopinavir + ritonavir são produtos de associação, e o de Paxlovid é uma associação com nirmatrelvir, portanto não descrevem a aprovação do ritonavir isolado.
+Os registros não trazem texto de indicação aprovada nem forma farmacêutica nos dados compilados. Abaixo, os registros válidos de ritonavir isolado; o registro de Kaletra e o de lopinavir + ritonavir são produtos de associação, e o de Paxlovid é uma associação com nirmatrelvir, portanto não descrevem a aprovação do ritonavir isolado.
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

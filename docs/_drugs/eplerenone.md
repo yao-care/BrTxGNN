@@ -81,8 +81,6 @@ Nenhum dos estudos citados investiga diretamente, em humanos, a hipertensão pul
 
 ## Informações de Comercialização no Brasil
 
-Há 2 registros de produtos de princípio ativo único, ambos para eplerenona.
-
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 188300110 | INSPRA | VIATRIS FARMACEUTICA DO BRASIL LTDA | Ativo |

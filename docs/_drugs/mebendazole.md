@@ -73,7 +73,7 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 ## Informações de Comercialização no Brasil
 
-Há 11 registros, todos de produtos de ingrediente único. Segundo os dados compilados, o status de comercialização é "Comercializado".
+Segundo os dados compilados, o status de comercialização é "Comercializado".
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|

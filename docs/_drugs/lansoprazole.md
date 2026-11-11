@@ -64,7 +64,7 @@ Portanto, a previsão deve ser tratada com cautela: não há estudo que a susten
 
 ## Informações de Comercialização no Brasil
 
-Há 18 registros nos dados compilados, entre produtos isolados e associações (por exemplo, com claritromicina e amoxicilina para erradicação de *H. pylori*). Os dados de situação dos registros são inconsistentes entre si, por isso a situação individual de cada um deve ser confirmada diretamente na ANVISA. Principais registros:
+Os dados de situação dos registros são inconsistentes entre si, por isso a situação individual de cada um deve ser confirmada diretamente na ANVISA. Principais registros:
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
