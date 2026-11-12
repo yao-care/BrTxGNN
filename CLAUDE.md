@@ -525,3 +525,4 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 `site_config.PROGRAM_LINE_RE` 排除程式產生的「A tabela mostra até 30 registros…」一行（轉紀錄與驗證時不當成正文）。
 - 2026-11-12 正文許可證張數對事實層掃描：28 頁 30 筆 correct 紀錄（`br-lic-20261112-*`）把 AI 正文依 10-31 前舊證據包（最多 20 筆）寫的市場事實張數改成事實層（例：metamizole「20 張全部有效」→496 張中 171 張有效、mirtazapine「20 張全部註銷」→36 張中 30 張有效）；錨在被更正句上的 6 筆舊紀錄改錨，前版存 history。
   講證據包／流程的句子（「O Evidence Pack retornou N registros」、待辦「Recuperar os detalhes dos N registros」）與「pelo menos／lista parcial／5 de N」之類的顯示說明不改。
+- 2026-11-12 許可證表格列狀態對事實層（母目錄 check_drug_page.py --row-status）：26 頁 56 列 ANVISA 現行有效（Ativo）的登記在號碼格、類別格或狀態欄標成 cancelado，以 56 筆 `br-row-20261112-*` correct 紀錄更正（拿掉「(cancelado)」、狀態欄改「Ativo」；依證據包 data-20261105 原始狀態逐列確認）。

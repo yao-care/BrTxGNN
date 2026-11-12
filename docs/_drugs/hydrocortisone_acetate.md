@@ -79,11 +79,41 @@ Há uma ressalva importante: a hidrocortisona é um corticosteroide de baixa pot
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 104971333 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado) |
-| Registro 103700527 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado) |
-| Registro 103700768 | Acecorthyl | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado) |
-| Registro 104971404 | Cortigen | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado) |
-| Registro 104970020 | Cortisonal | Não informada | Anti-inflamatórios e antirreumáticos – associações medicamentosas (cancelado) |
+| Registro 104971333 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
+| Registro 103700527 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
+| Registro 103700768 | Acecorthyl | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
+| Registro 104971404 | Cortigen | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico |
+| Registro 104970020 | Cortisonal | Não informada | Anti-inflamatórios e antirreumáticos – associações medicamentosas |
+
+<!-- review:begin br-row-20261112-hydrocortisone_acetate-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro 104971333 / Acetato de Hidrocortisona / Não informada / Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 104971333 (ACETATO DE HIDROCORTISONA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-hydrocortisone_acetate-1 -->
+
+<!-- review:begin br-row-20261112-hydrocortisone_acetate-2 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro 103700527 / Acetato de Hidrocortisona / Não informada / Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 103700527 (ACETATO DE HIDROCORTISONA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-hydrocortisone_acetate-2 -->
+
+<!-- review:begin br-row-20261112-hydrocortisone_acetate-3 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Acecorthyl / Não informada / Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 103700768 (ACECORTHYL) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-hydrocortisone_acetate-3 -->
+
+<!-- review:begin br-row-20261112-hydrocortisone_acetate-4 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Cortigen / Não informada / Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 104971404 (CORTIGEN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-hydrocortisone_acetate-4 -->
+
+<!-- review:begin br-row-20261112-hydrocortisone_acetate-5 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Anti-inflamatórios e antirreumáticos – associações medicamentosas (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 104970020 (CORTISONAL) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-hydrocortisone_acetate-5 -->
 
 Há 6 registros válidos no total; os cinco principais estão listados acima.
 
@@ -105,6 +135,22 @@ Há 6 registros válidos no total; os cinco principais estão listados acima.
 - Confirmar o desfecho da hidrocortisona no ensaio NCT01453686 e comparar com corticosteroides mais potentes.
 - Definir a formulação e a via (tópica ou intralesional) adequadas ao acetato de hidrocortisona.
 - Estabelecer um plano de monitoramento de segurança, incluindo uso pediátrico e efeitos cutâneos e sistêmicos dos corticosteroides.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Tabela: registro 104971333 (ACETATO DE HIDROCORTISONA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 103700527 (ACETATO DE HIDROCORTISONA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 103700768 (ACECORTHYL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 104971404 (CORTIGEN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 104970020 (CORTISONAL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

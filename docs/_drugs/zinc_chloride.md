@@ -73,7 +73,13 @@ Vale notar que o uso original (infusão intravenosa como nutriente) é muito dif
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 100410165 (cancelado) | ADDAVEN | Não informada | Nutrientes parenterais |
+| Registro nº 100410165 | ADDAVEN | Não informada | Nutrientes parenterais |
+
+<!-- review:begin br-row-20261112-zinc_chloride-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 100410165 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 100410165 (ADDAVEN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-zinc_chloride-1 -->
 
 ## Considerações de Segurança
 
@@ -113,6 +119,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 100410165 (ADDAVEN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -84,9 +84,27 @@ Os demais artigos recuperados tratam de síndrome de Sjögren, biomarcadores ou 
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 106830098 (cancelado) | PRIMENE | Não informada | Nutrientes parenterais |
-| Registro 106830186 (cancelado) | NUMETA PED | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
-| Registro 106830185 (cancelado) | NUMETA NEO | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
+| Registro 106830098 | PRIMENE | Não informada | Nutrientes parenterais |
+| Registro 106830186 | NUMETA PED | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
+| Registro 106830185 | NUMETA NEO | Não informada | Reposição hidroeletrolítica e alimentação parenteral |
+
+<!-- review:begin br-row-20261112-cysteine-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro 106830098 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 106830098 (PRIMENE) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-cysteine-1 -->
+
+<!-- review:begin br-row-20261112-cysteine-2 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro 106830186 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 106830186 (NUMETA PED) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-cysteine-2 -->
+
+<!-- review:begin br-row-20261112-cysteine-3 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro 106830185 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 106830185 (NUMETA NEO) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-cysteine-3 -->
 
 ## Considerações de Segurança
 
@@ -109,6 +127,21 @@ Consulte a bula para as advertências e contraindicações oficiais, pois não f
 - Avaliar a via de administração: a cisteína atual é parenteral, e a nova indicação exigiria formulação oftálmica tópica.
 - Avaliar a segurança ocular da administração tópica, considerando as contraindicações do grafo de conhecimento.
 - Observação: outras previsões (glaucoma de ângulo fechado, doença da cavidade nasal, faringite, doença traqueal) têm evidência indireta ou nula, e as duas entradas de glaucoma são duplicatas que devem ser unificadas.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Tabela: registro 106830098 (PRIMENE) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 106830186 (NUMETA PED) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 106830185 (NUMETA NEO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

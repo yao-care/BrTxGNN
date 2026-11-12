@@ -84,7 +84,13 @@ Vale ressaltar que a indicação original registrada no Brasil é apenas uma cat
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 137640150 (cancelado) | ALKERAN | Não informada | Antineoplásicos citotóxicos |
+| Registro 137640150 | ALKERAN | Não informada | Antineoplásicos citotóxicos |
+
+<!-- review:begin br-row-20261112-melphalan-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro 137640150 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 137640150 (ALKERAN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-melphalan-1 -->
 
 ## Citotoxicidade
 
@@ -139,6 +145,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado e as informações de bula não estão disponíveis, o que impede a triagem de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 137640150 (ALKERAN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

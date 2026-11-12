@@ -77,7 +77,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 101430027 (cancelado) | PENETRO | Não informada | Expectorantes balsâmicos e mucolítico |
+| Registro nº 101430027 | PENETRO | Não informada | Expectorantes balsâmicos e mucolítico |
+
+<!-- review:begin br-row-20261112-benzoic_acid-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 101430027 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 101430027 (PENETRO) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-benzoic_acid-1 -->
 
 ## Considerações de Segurança
 
@@ -121,6 +127,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro na ANVISA está cancelado e faltam dados de segurança de bula” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 101430027 (PENETRO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

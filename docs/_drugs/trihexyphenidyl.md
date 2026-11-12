@@ -76,7 +76,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 101180604 (cancelado) | ARTANE | Não informada | Antiparkinsonianos |
+| Registro nº 101180604 | ARTANE | Não informada | Antiparkinsonianos |
+
+<!-- review:begin br-row-20261112-trihexyphenidyl-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 101180604 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 101180604 (ARTANE) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-trihexyphenidyl-1 -->
 
 ## Considerações de Segurança
 
@@ -122,6 +128,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 101180604 (ARTANE) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

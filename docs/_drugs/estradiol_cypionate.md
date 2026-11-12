@@ -75,10 +75,34 @@ Atualmente não há literatura relacionada para a indicação principal (síndro
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 110360271 | Naomi | Não informada | Anticoncepcionais (cancelado) |
-| Registro 110360270 | Acetato de medroxiprogesterona + cipionato de estradiol | Não informada | Anticoncepcionais (cancelado) |
-| Registro 110360266 | Cyclofemina | Não informada | Anticoncepcionais (cancelado) |
-| Registro 110360267 | Lyndaveluno | Não informada | Anticoncepcionais (cancelado) |
+| Registro 110360271 | Naomi | Não informada | Anticoncepcionais |
+| Registro 110360270 | Acetato de medroxiprogesterona + cipionato de estradiol | Não informada | Anticoncepcionais |
+| Registro 110360266 | Cyclofemina | Não informada | Anticoncepcionais |
+| Registro 110360267 | Lyndaveluno | Não informada | Anticoncepcionais |
+
+<!-- review:begin br-row-20261112-estradiol_cypionate-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Naomi / Não informada / Anticoncepcionais (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360271 (NAOMI) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-estradiol_cypionate-1 -->
+
+<!-- review:begin br-row-20261112-estradiol_cypionate-2 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Acetato de medroxiprogesterona + cipionato de estradiol / Não informada / Anticoncepcionais (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360270 (ACETATO DE MEDROXIPROGESTERONA +CIPIONATO DE ESTRADIOL) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-estradiol_cypionate-2 -->
+
+<!-- review:begin br-row-20261112-estradiol_cypionate-3 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Cyclofemina / Não informada / Anticoncepcionais (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360266 (CYCLOFEMINA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-estradiol_cypionate-3 -->
+
+<!-- review:begin br-row-20261112-estradiol_cypionate-4 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Lyndaveluno / Não informada / Anticoncepcionais (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360267 (LYNDAVELUNO) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-estradiol_cypionate-4 -->
 
 ## Considerações de Segurança
 
@@ -115,6 +139,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “dado que não há registro vigente no país” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 110360271 (NAOMI) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 110360270 (ACETATO DE MEDROXIPROGESTERONA +CIPIONATO DE ESTRADIOL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 110360266 (CYCLOFEMINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 110360267 (LYNDAVELUNO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

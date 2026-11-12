@@ -95,7 +95,13 @@ Para a indicação principal (retinopatia diabética não proliferativa grave), 
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 164000011 (cancelado) | ACETATO DE ZINCO 0,5 MEQ/ML | Não informada | Soluções que ajustam o balanço eletrolítico |
+| Registro 164000011 | ACETATO DE ZINCO 0,5 MEQ/ML | Não informada | Soluções que ajustam o balanço eletrolítico |
+
+<!-- review:begin br-row-20261112-zinc_acetate-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro 164000011 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 164000011 (ACETATO DE ZINCO 0,5 MEQ/ML) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-zinc_acetate-1 -->
 
 ## Considerações de Segurança
 
@@ -138,6 +144,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “O único registro brasileiro está cancelado, e f” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 164000011 (ACETATO DE ZINCO 0,5 MEQ/ML) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -76,7 +76,13 @@ Observação sobre outra indicação prevista (malformação aórtica, 8ª posi�
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 100681184 (cancelado) | SYBRAVA | Não informada | Antilipêmicos |
+| Registro nº 100681184 | SYBRAVA | Não informada | Antilipêmicos |
+
+<!-- review:begin br-row-20261112-inclisiran-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 100681184 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 100681184 (SYBRAVA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-inclisiran-1 -->
 
 ## Considerações de Segurança
 
@@ -111,6 +117,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 100681184 (SYBRAVA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

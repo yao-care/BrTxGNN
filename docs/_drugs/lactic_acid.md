@@ -92,7 +92,13 @@ Os demais trabalhos recuperados tratam de endocardite, biomarcadores perioperat�
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 101430024 (cancelado) | MALVATRICIN | Não informada | Demulcentes e outros medicamentos de uso oral para tratamento da orofaringe |
+| Registro nº 101430024 | MALVATRICIN | Não informada | Demulcentes e outros medicamentos de uso oral para tratamento da orofaringe |
+
+<!-- review:begin br-row-20261112-lactic_acid-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 101430024 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 101430024 (MALVATRICIN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-lactic_acid-1 -->
 
 ## Considerações de Segurança
 
@@ -131,6 +137,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 101430024 (MALVATRICIN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

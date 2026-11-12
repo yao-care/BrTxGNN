@@ -83,9 +83,27 @@ Atualmente não há literatura relacionada para a indicação principal (acroder
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 128600008 (cancelado) | Syrex – Diluente fisiológico injetável de medicamentos | Não informada | Diluentes e veículos de medicamentos |
-| Registro nº 105040001 (cancelado) | Auris-Sedina | Não informada | Removedores de secreção do conduto auditivo externo |
-| Registro nº 105700050 (cancelado) | Dordente | Não informada | Anestésicos locais |
+| Registro nº 128600008 | Syrex – Diluente fisiológico injetável de medicamentos | Não informada | Diluentes e veículos de medicamentos |
+| Registro nº 105040001 | Auris-Sedina | Não informada | Removedores de secreção do conduto auditivo externo |
+| Registro nº 105700050 | Dordente | Não informada | Anestésicos locais |
+
+<!-- review:begin br-row-20261112-phenol-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 128600008 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 128600008 (SYREX - DILUENTE FISIOLÓGICO INJETÁVEL DE MEDICAMENTOS) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-phenol-1 -->
+
+<!-- review:begin br-row-20261112-phenol-2 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 105040001 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 105040001 (AURIS-SEDINA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-phenol-2 -->
+
+<!-- review:begin br-row-20261112-phenol-3 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 105700050 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 105700050 (DORDENTE) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-phenol-3 -->
 
 ---
 
@@ -111,6 +129,21 @@ Consulte a bula para advertências e contraindicações oficiais.
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank).
 - Demonstrar uma justificativa biológica para a nova indicação; caso contrário, redirecionar a investigação para a hipótese melhor sustentada (cicatrizes de acne/queloide acneiforme), com revisão da literatura e avaliação de segurança.
 - Avaliar a compatibilidade de via de administração, hoje pendente.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Tabela: registro 128600008 (SYREX - DILUENTE FISIOLÓGICO INJETÁVEL DE MEDICAMENTOS) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 105040001 (AURIS-SEDINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 105700050 (DORDENTE) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

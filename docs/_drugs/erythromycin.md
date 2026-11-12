@@ -76,7 +76,13 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 125680089 (cancelado) | RUBROMICIN | Não informada | Antibióticos sistêmicos simples |
+| Registro 125680089 | RUBROMICIN | Não informada | Antibióticos sistêmicos simples |
+
+<!-- review:begin br-row-20261112-erythromycin-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro 125680089 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 125680089 (RUBROMICIN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-erythromycin-1 -->
 
 ## Considerações de Segurança
 
@@ -114,6 +120,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado, o que limita a relevância prática imediata” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 125680089 (RUBROMICIN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

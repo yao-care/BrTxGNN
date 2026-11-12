@@ -72,7 +72,13 @@ O ensaio disponível (NCT00729586) é um estudo Phase 2 randomizado e concluído
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 106460123 (cancelado) | FEMIGESTROL | Não informada | Antineoplásico |
+| Registro nº 106460123 | FEMIGESTROL | Não informada | Antineoplásico |
+
+<!-- review:begin br-row-20261112-megestrol_acetate-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 106460123 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 106460123 (FEMIGESTROL) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-megestrol_acetate-1 -->
 
 ## Citotoxicidade
 
@@ -129,6 +135,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Definir a situação regulatória: o registro está cancelado, e seria necessário um novo registro ou outra via de acesso” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 106460123 (FEMIGESTROL) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

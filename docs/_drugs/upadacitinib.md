@@ -68,7 +68,13 @@ A pontuação muito alta (0,9961) vem do modelo TxGNN (deep learning) e pode ref
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 198600017 (cancelado) | RINVOQ | Não informada | Imunossupressores seletivos |
+| Registro nº 198600017 | RINVOQ | Não informada | Imunossupressores seletivos |
+
+<!-- review:begin br-row-20261112-upadacitinib-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 198600017 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 198600017 (RINVOQ) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-upadacitinib-1 -->
 
 ## Considerações de Segurança
 
@@ -119,6 +125,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que o registro encontrado está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 198600017 (RINVOQ) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

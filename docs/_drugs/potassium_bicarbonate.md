@@ -66,7 +66,13 @@ Há ressalvas importantes: a pontuação elevada do TxGNN (0,9972) é apenas uma
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 173900005 (cancelado) | LUFTAGASTRO | Não informada | Antiácido |
+| Registro nº 173900005 | LUFTAGASTRO | Não informada | Antiácido |
+
+<!-- review:begin br-row-20261112-potassium_bicarbonate-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 173900005 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 173900005 (LUFTAGASTRO) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-potassium_bicarbonate-1 -->
 
 ## Considerações de Segurança
 
@@ -108,6 +114,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 173900005 (LUFTAGASTRO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

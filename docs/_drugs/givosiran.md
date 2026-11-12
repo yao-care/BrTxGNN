@@ -59,7 +59,6 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação na base compil
 
 Não foi identificada relação mecanística plausível entre a supressão de ALAS1 e a patologia vascular e portal da esclerose hepatoportal. A pontuação muito alta do TxGNN (1,0000) vem do modelo de aprendizado profundo e pode refletir semelhanças que o modelo aprendeu entre doenças hepáticas relacionadas, e não evidência biológica. Ressalta-se que outras quatro doenças tiveram exatamente a mesma pontuação, o que reforça essa leitura.
 
-
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados para esclerose hepatoportal.
@@ -72,7 +71,13 @@ Atualmente não há literatura relacionada para esclerose hepatoportal.
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro 193610002 (cancelado) | GIVLAARI | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+| Registro 193610002 | GIVLAARI | Não informada | Outros produtos que atuam sobre o sistema nervoso |
+
+<!-- review:begin br-row-20261112-givosiran-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro 193610002 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 193610002 (GIVLAARI) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-givosiran-1 -->
 
 ## Considerações de Segurança
 
@@ -94,6 +99,19 @@ Para advertências e contraindicações, consulte a bula.
 - Obter dados do mecanismo de ação na DrugBank.
 - Justificativa biológica independente que ligue ALAS1/metabolismo do heme à esclerose hepatoportal, antes de qualquer investimento.
 - Considerar redirecionar a avaliação para a porfiria por deficiência de ALA desidratase (L4), com revisão sistemática dos poucos casos publicados e avaliação do papel da produção eritroide de ALA.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Tabela: registro 193610002 (GIVLAARI) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

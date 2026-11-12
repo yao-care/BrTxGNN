@@ -87,10 +87,34 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 108840304 (cancelado) | Iquego - Doxiciclina | Não informada | Antibióticos sistêmicos simples |
-| Registro nº 103700108 (cancelado) | Clordox | Não informada | Classe das tetraciclinas |
-| Registro nº 121100437 (cancelado) | Vibramicina | Não informada | Classe das tetraciclinas |
-| Registro nº 100470330 (cancelado) | Doxiciclina | Não informada | Classe das tetraciclinas |
+| Registro nº 108840304 | Iquego - Doxiciclina | Não informada | Antibióticos sistêmicos simples |
+| Registro nº 103700108 | Clordox | Não informada | Classe das tetraciclinas |
+| Registro nº 121100437 | Vibramicina | Não informada | Classe das tetraciclinas |
+| Registro nº 100470330 | Doxiciclina | Não informada | Classe das tetraciclinas |
+
+<!-- review:begin br-row-20261112-doxycycline-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 108840304 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 108840304 (IQUEGO - DOXICICLINA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-doxycycline-1 -->
+
+<!-- review:begin br-row-20261112-doxycycline-2 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 103700108 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 103700108 (CLORDOX) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-doxycycline-2 -->
+
+<!-- review:begin br-row-20261112-doxycycline-3 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 121100437 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 121100437 (VIBRAMICINA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-doxycycline-3 -->
+
+<!-- review:begin br-row-20261112-doxycycline-4 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 100470330 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 100470330 (DOXICICLINA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-doxycycline-4 -->
 
 ---
 
@@ -154,6 +178,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “Os quatro registros constam como cancelados; não há registro válido nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 108840304 (IQUEGO - DOXICICLINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 103700108 (CLORDOX) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 121100437 (VIBRAMICINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 100470330 (DOXICICLINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

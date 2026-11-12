@@ -1619,6 +1619,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-row-20261112-bempedoic_acid-1",
+   "drug": "bempedoic_acid",
+   "file": "bempedoic_acid.md",
+   "action": "correct",
+   "claim": "Registro nº 104540195 (cancelado)",
+   "replacement": "Registro nº 104540195",
+   "summary": "Tabela: registro 104540195 (NUSTENDI) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 104540195 (NUSTENDI) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 104540195（NUSTENDI）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
    "id": "br-lic-20261106-benzbromarone-1",
    "drug": "benzbromarone",
    "file": "benzbromarone.md",
@@ -1717,6 +1737,26 @@
    "checked": "2026-11-06",
    "summary": "Removido: “Além disso, o único registro na ANVISA está cancelado e faltam dados de segurança de bula”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+  },
+  {
+   "id": "br-row-20261112-benzoic_acid-1",
+   "drug": "benzoic_acid",
+   "file": "benzoic_acid.md",
+   "action": "correct",
+   "claim": "Registro nº 101430027 (cancelado)",
+   "replacement": "Registro nº 101430027",
+   "summary": "Tabela: registro 101430027 (PENETRO) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 101430027 (PENETRO) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 101430027（PENETRO）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
   },
   {
    "id": "br-lic-20261106-betahistine_dihydrochloride-1",
@@ -4003,6 +4043,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-row-20261112-docusate-1",
+   "drug": "docusate",
+   "file": "docusate.md",
+   "action": "correct",
+   "claim": "Registro nº 178170103 (cancelado)",
+   "replacement": "Registro nº 178170103",
+   "summary": "Tabela: registro 178170103 (HUMECTOL D) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 178170103 (HUMECTOL D) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 178170103（HUMECTOL D）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
    "id": "br-lic-20261106-donepezil-1",
    "drug": "donepezil",
    "file": "donepezil.md",
@@ -4062,6 +4122,86 @@
    "checked": "2026-11-06",
    "summary": "Removido: “já que não há registro válido no Brasil”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+  },
+  {
+   "id": "br-row-20261112-doxycycline-1",
+   "drug": "doxycycline",
+   "file": "doxycycline.md",
+   "action": "correct",
+   "claim": "Registro nº 108840304 (cancelado)",
+   "replacement": "Registro nº 108840304",
+   "summary": "Tabela: registro 108840304 (IQUEGO - DOXICICLINA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 108840304 (IQUEGO - DOXICICLINA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 108840304（IQUEGO - DOXICICLINA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-doxycycline-2",
+   "drug": "doxycycline",
+   "file": "doxycycline.md",
+   "action": "correct",
+   "claim": "Registro nº 103700108 (cancelado)",
+   "replacement": "Registro nº 103700108",
+   "summary": "Tabela: registro 103700108 (CLORDOX) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 103700108 (CLORDOX) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 103700108（CLORDOX）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-doxycycline-3",
+   "drug": "doxycycline",
+   "file": "doxycycline.md",
+   "action": "correct",
+   "claim": "Registro nº 121100437 (cancelado)",
+   "replacement": "Registro nº 121100437",
+   "summary": "Tabela: registro 121100437 (VIBRAMICINA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 121100437 (VIBRAMICINA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 121100437（VIBRAMICINA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-doxycycline-4",
+   "drug": "doxycycline",
+   "file": "doxycycline.md",
+   "action": "correct",
+   "claim": "Registro nº 100470330 (cancelado)",
+   "replacement": "Registro nº 100470330",
+   "summary": "Tabela: registro 100470330 (DOXICICLINA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 100470330 (DOXICICLINA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 100470330（DOXICICLINA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
   },
   {
    "id": "br-lic-20261106-dupilumab-1",
@@ -4202,6 +4342,46 @@
    "checked": "2026-11-06",
    "summary": "Removido: “Esclarecer a situação regulatória: ambos os registros estão cancelados”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+  },
+  {
+   "id": "br-row-20261112-eltrombopag-1",
+   "drug": "eltrombopag",
+   "file": "eltrombopag.md",
+   "action": "correct",
+   "claim": "Registro nº 182610027 (cancelado)",
+   "replacement": "Registro nº 182610027",
+   "summary": "Tabela: registro 182610027 (ELTROMBOPAGUE OLAMINA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 182610027 (ELTROMBOPAGUE OLAMINA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 182610027（ELTROMBOPAGUE OLAMINA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-eltrombopag-2",
+   "drug": "eltrombopag",
+   "file": "eltrombopag.md",
+   "action": "correct",
+   "claim": "Registro nº 100681132 (cancelado)",
+   "replacement": "Registro nº 100681132",
+   "summary": "Tabela: registro 100681132 (REVOLADE) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 100681132 (REVOLADE) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 100681132（REVOLADE）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
   },
   {
    "id": "br-lic-20261106-empagliflozin-1",
@@ -4466,6 +4646,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-row-20261112-erythromycin-1",
+   "drug": "erythromycin",
+   "file": "erythromycin.md",
+   "action": "correct",
+   "claim": "Registro 125680089 (cancelado)",
+   "replacement": "Registro 125680089",
+   "summary": "Tabela: registro 125680089 (RUBROMICIN) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 125680089 (RUBROMICIN) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 125680089（RUBROMICIN）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
    "id": "br-lic-20261106-estradiol_cypionate-1",
    "drug": "estradiol_cypionate",
    "file": "estradiol_cypionate.md",
@@ -4484,6 +4684,86 @@
    "checked": "2026-11-06",
    "summary": "Removido: “dado que não há registro vigente no país”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+  },
+  {
+   "id": "br-row-20261112-estradiol_cypionate-1",
+   "drug": "estradiol_cypionate",
+   "file": "estradiol_cypionate.md",
+   "action": "correct",
+   "claim": "| Naomi | Não informada | Anticoncepcionais (cancelado)",
+   "replacement": "| Naomi | Não informada | Anticoncepcionais",
+   "summary": "Tabela: registro 110360271 (NAOMI) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360271 (NAOMI) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 110360271（NAOMI）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-estradiol_cypionate-2",
+   "drug": "estradiol_cypionate",
+   "file": "estradiol_cypionate.md",
+   "action": "correct",
+   "claim": "| Acetato de medroxiprogesterona + cipionato de estradiol | Não informada | Anticoncepcionais (cancelado)",
+   "replacement": "| Acetato de medroxiprogesterona + cipionato de estradiol | Não informada | Anticoncepcionais",
+   "summary": "Tabela: registro 110360270 (ACETATO DE MEDROXIPROGESTERONA +CIPIONATO DE ESTRADIOL) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360270 (ACETATO DE MEDROXIPROGESTERONA +CIPIONATO DE ESTRADIOL) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 110360270（ACETATO DE MEDROXIPROGESTERONA +CIPIONATO DE ESTRADIOL）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-estradiol_cypionate-3",
+   "drug": "estradiol_cypionate",
+   "file": "estradiol_cypionate.md",
+   "action": "correct",
+   "claim": "| Cyclofemina | Não informada | Anticoncepcionais (cancelado)",
+   "replacement": "| Cyclofemina | Não informada | Anticoncepcionais",
+   "summary": "Tabela: registro 110360266 (CYCLOFEMINA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360266 (CYCLOFEMINA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 110360266（CYCLOFEMINA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-estradiol_cypionate-4",
+   "drug": "estradiol_cypionate",
+   "file": "estradiol_cypionate.md",
+   "action": "correct",
+   "claim": "| Lyndaveluno | Não informada | Anticoncepcionais (cancelado)",
+   "replacement": "| Lyndaveluno | Não informada | Anticoncepcionais",
+   "summary": "Tabela: registro 110360267 (LYNDAVELUNO) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 110360267 (LYNDAVELUNO) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 110360267（LYNDAVELUNO）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
   },
   {
    "id": "br-lic-20261106-estradiol_valerate-1",
@@ -5568,6 +5848,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-row-20261112-inclisiran-1",
+   "drug": "inclisiran",
+   "file": "inclisiran.md",
+   "action": "correct",
+   "claim": "Registro nº 100681184 (cancelado)",
+   "replacement": "Registro nº 100681184",
+   "summary": "Tabela: registro 100681184 (SYBRAVA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 100681184 (SYBRAVA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 100681184（SYBRAVA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
    "id": "br-lic-20261106-insulin_human-1",
    "drug": "insulin_human",
    "file": "insulin_human.md",
@@ -5886,6 +6186,26 @@
    "checked": "2026-11-06",
    "summary": "Removido: “Além disso, o único registro no Brasil está cancelado”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+  },
+  {
+   "id": "br-row-20261112-lactic_acid-1",
+   "drug": "lactic_acid",
+   "file": "lactic_acid.md",
+   "action": "correct",
+   "claim": "Registro nº 101430024 (cancelado)",
+   "replacement": "Registro nº 101430024",
+   "summary": "Tabela: registro 101430024 (MALVATRICIN) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 101430024 (MALVATRICIN) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 101430024（MALVATRICIN）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
   },
   {
    "id": "br-lic-20261106-lactose-1",
@@ -6436,6 +6756,86 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-row-20261112-loxoprofen-1",
+   "drug": "loxoprofen",
+   "file": "loxoprofen.md",
+   "action": "correct",
+   "claim": "| Loxoprofeno Sódico | Não informada | Anti-inflamatórios (cancelado)",
+   "replacement": "| Loxoprofeno Sódico | Não informada | Anti-inflamatórios",
+   "summary": "Tabela: registro 102351441 (LOXOPROFENO SÓDICO) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 102351441 (LOXOPROFENO SÓDICO) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 102351441（LOXOPROFENO SÓDICO）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-loxoprofen-2",
+   "drug": "loxoprofen",
+   "file": "loxoprofen.md",
+   "action": "correct",
+   "claim": "| Loxonin | Não informada | Anti-inflamatórios (cancelado)",
+   "replacement": "| Loxonin | Não informada | Anti-inflamatórios",
+   "summary": "Tabela: registro 104540159 (LOXONIN) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 104540159 (LOXONIN) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 104540159（LOXONIN）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-loxoprofen-3",
+   "drug": "loxoprofen",
+   "file": "loxoprofen.md",
+   "action": "correct",
+   "claim": "| Loxonin Flex | Não informada | Anti-inflamatórios (cancelado)",
+   "replacement": "| Loxonin Flex | Não informada | Anti-inflamatórios",
+   "summary": "Tabela: registro 104540188 (LOXONIN FLEX) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 104540188 (LOXONIN FLEX) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 104540188（LOXONIN FLEX）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-loxoprofen-4",
+   "drug": "loxoprofen",
+   "file": "loxoprofen.md",
+   "action": "correct",
+   "claim": "| Oxotron | Não informada | Anti-inflamatórios (cancelado)",
+   "replacement": "| Oxotron | Não informada | Anti-inflamatórios",
+   "summary": "Tabela: registro 105730495 (OXOTRON) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 105730495 (OXOTRON) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 105730495（OXOTRON）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
    "id": "br-lic-20261106-magnesium_carbonate-1",
    "drug": "magnesium_carbonate",
    "file": "magnesium_carbonate.md",
@@ -6656,6 +7056,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-row-20261112-megestrol_acetate-1",
+   "drug": "megestrol_acetate",
+   "file": "megestrol_acetate.md",
+   "action": "correct",
+   "claim": "Registro nº 106460123 (cancelado)",
+   "replacement": "Registro nº 106460123",
+   "summary": "Tabela: registro 106460123 (FEMIGESTROL) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 106460123 (FEMIGESTROL) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 106460123（FEMIGESTROL）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
    "id": "br-lic-20261106-meloxicam-1",
    "drug": "meloxicam",
    "file": "meloxicam.md",
@@ -6714,6 +7134,26 @@
    "checked": "2026-11-06",
    "summary": "Removido: “Além disso, o único registro brasileiro está cancelado e as informações de bula não estão disponíveis, o que impede a triagem de segurança”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+  },
+  {
+   "id": "br-row-20261112-melphalan-1",
+   "drug": "melphalan",
+   "file": "melphalan.md",
+   "action": "correct",
+   "claim": "Registro 137640150 (cancelado)",
+   "replacement": "Registro 137640150",
+   "summary": "Tabela: registro 137640150 (ALKERAN) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 137640150 (ALKERAN) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 137640150（ALKERAN）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
   },
   {
    "id": "br-lic-20261106-memantine-1",
@@ -7155,6 +7595,86 @@
    "checked": "2026-10-31",
    "summary": "Removido: “(registros cancelados)”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：32888d31（2026-10-31）"
+  },
+  {
+   "id": "br-row-20261112-micafungin-1",
+   "drug": "micafungin",
+   "file": "micafungin.md",
+   "action": "correct",
+   "claim": "Registro nº 100470661 (cancelado)",
+   "replacement": "Registro nº 100470661",
+   "summary": "Tabela: registro 100470661 (MYCAMINE) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 100470661 (MYCAMINE) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 100470661（MYCAMINE）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-micafungin-2",
+   "drug": "micafungin",
+   "file": "micafungin.md",
+   "action": "correct",
+   "claim": "Registro nº 155370119 (cancelado)",
+   "replacement": "Registro nº 155370119",
+   "summary": "Tabela: registro 155370119 (MICAFUNGINA SÓDICA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 155370119 (MICAFUNGINA SÓDICA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 155370119（MICAFUNGINA SÓDICA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-micafungin-3",
+   "drug": "micafungin",
+   "file": "micafungin.md",
+   "action": "correct",
+   "claim": "Registro nº 155370126 (cancelado)",
+   "replacement": "Registro nº 155370126",
+   "summary": "Tabela: registro 155370126 (MYCAFREM) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 155370126 (MYCAFREM) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 155370126（MYCAFREM）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-micafungin-4",
+   "drug": "micafungin",
+   "file": "micafungin.md",
+   "action": "correct",
+   "claim": "Registro nº 156510131 (cancelado)",
+   "replacement": "Registro nº 156510131",
+   "summary": "Tabela: registro 156510131 (MICAFUNGINA SÓDICA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 156510131 (MICAFUNGINA SÓDICA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 156510131（MICAFUNGINA SÓDICA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
   },
   {
    "id": "br-lic-20261031-miconazole-1",
@@ -8465,6 +8985,106 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-row-20261112-phenytoin-1",
+   "drug": "phenytoin",
+   "file": "phenytoin.md",
+   "action": "correct",
+   "claim": "| FURP - Fenitoína | Não informada | Anticonvulsivantes (cancelado)",
+   "replacement": "| FURP - Fenitoína | Não informada | Anticonvulsivantes",
+   "summary": "Tabela: registro 110390036 (FURP - FENITOINA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 110390036 (FURP - FENITOINA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 110390036（FURP - FENITOINA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-phenytoin-2",
+   "drug": "phenytoin",
+   "file": "phenytoin.md",
+   "action": "correct",
+   "claim": "| Registro 103700473 | Fenitoína | Não informada | Anticonvulsivantes (cancelado)",
+   "replacement": "| Registro 103700473 | Fenitoína | Não informada | Anticonvulsivantes",
+   "summary": "Tabela: registro 103700473 (FENITOÍNA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 103700473 (FENITOÍNA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 103700473（FENITOÍNA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-phenytoin-3",
+   "drug": "phenytoin",
+   "file": "phenytoin.md",
+   "action": "correct",
+   "claim": "| Registro 107150171 | Fenitoína | Não informada | Anticonvulsivantes (cancelado)",
+   "replacement": "| Registro 107150171 | Fenitoína | Não informada | Anticonvulsivantes",
+   "summary": "Tabela: registro 107150171 (FENITOÍNA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 107150171 (FENITOÍNA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 107150171（FENITOÍNA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-phenytoin-4",
+   "drug": "phenytoin",
+   "file": "phenytoin.md",
+   "action": "correct",
+   "claim": "| FUNED - Fenitoína | Não informada | Anticonvulsivantes (cancelado)",
+   "replacement": "| FUNED - Fenitoína | Não informada | Anticonvulsivantes",
+   "summary": "Tabela: registro 112090023 (FUNED - FENITOÍNA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 112090023 (FUNED - FENITOÍNA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 112090023（FUNED - FENITOÍNA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-phenytoin-5",
+   "drug": "phenytoin",
+   "file": "phenytoin.md",
+   "action": "correct",
+   "claim": "| Dantalin | Não informada | Anticonvulsivantes (cancelado)",
+   "replacement": "| Dantalin | Não informada | Anticonvulsivantes",
+   "summary": "Tabela: registro 107150095 (DANTALIN) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 107150095 (DANTALIN) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 107150095（DANTALIN）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
    "id": "br-lic-20261106-piperacillin-1",
    "drug": "piperacillin",
    "file": "piperacillin.md",
@@ -8763,6 +9383,26 @@
    "checked": "2026-11-06",
    "summary": "Removido: “e o único registro brasileiro está cancelado”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+  },
+  {
+   "id": "br-row-20261112-potassium_bicarbonate-1",
+   "drug": "potassium_bicarbonate",
+   "file": "potassium_bicarbonate.md",
+   "action": "correct",
+   "claim": "Registro nº 173900005 (cancelado)",
+   "replacement": "Registro nº 173900005",
+   "summary": "Tabela: registro 173900005 (LUFTAGASTRO) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 173900005 (LUFTAGASTRO) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 173900005（LUFTAGASTRO）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
   },
   {
    "id": "br-lic-20261106-potassium_chloride-1",
@@ -11396,6 +12036,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-row-20261112-trihexyphenidyl-1",
+   "drug": "trihexyphenidyl",
+   "file": "trihexyphenidyl.md",
+   "action": "correct",
+   "claim": "Registro nº 101180604 (cancelado)",
+   "replacement": "Registro nº 101180604",
+   "summary": "Tabela: registro 101180604 (ARTANE) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 101180604 (ARTANE) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 101180604（ARTANE）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
    "id": "br-lic-20261106-tyrosine-1",
    "drug": "tyrosine",
    "file": "tyrosine.md",
@@ -11475,6 +12135,26 @@
    "checked": "2026-11-06",
    "summary": "Removido: “já que o registro encontrado está cancelado”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+  },
+  {
+   "id": "br-row-20261112-upadacitinib-1",
+   "drug": "upadacitinib",
+   "file": "upadacitinib.md",
+   "action": "correct",
+   "claim": "Registro nº 198600017 (cancelado)",
+   "replacement": "Registro nº 198600017",
+   "summary": "Tabela: registro 198600017 (RINVOQ) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 198600017 (RINVOQ) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 198600017（RINVOQ）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
   },
   {
    "id": "br-lic-20261106-urofollitropin-1",
@@ -11617,6 +12297,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-row-20261112-volanesorsen-1",
+   "drug": "volanesorsen",
+   "file": "volanesorsen.md",
+   "action": "correct",
+   "claim": "Registro nº 157700003 (cancelado)",
+   "replacement": "Registro nº 157700003",
+   "summary": "Tabela: registro 157700003 (WAYLIVRA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 157700003 (WAYLIVRA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 157700003（WAYLIVRA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
    "id": "br-lic-20261106-vonoprazan-1",
    "drug": "vonoprazan",
    "file": "vonoprazan.md",
@@ -11757,6 +12457,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-row-20261112-zinc_acetate-1",
+   "drug": "zinc_acetate",
+   "file": "zinc_acetate.md",
+   "action": "correct",
+   "claim": "Registro 164000011 (cancelado)",
+   "replacement": "Registro 164000011",
+   "summary": "Tabela: registro 164000011 (ACETATO DE ZINCO 0,5 MEQ/ML) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 164000011 (ACETATO DE ZINCO 0,5 MEQ/ML) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 164000011（ACETATO DE ZINCO 0,5 MEQ/ML）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
    "id": "br-lic-20261106-zinc_chloride-1",
    "drug": "zinc_chloride",
    "file": "zinc_chloride.md",
@@ -11775,6 +12495,26 @@
    "checked": "2026-11-06",
    "summary": "Removido: “o único registro no Brasil está cancelado”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+  },
+  {
+   "id": "br-row-20261112-zinc_chloride-1",
+   "drug": "zinc_chloride",
+   "file": "zinc_chloride.md",
+   "action": "correct",
+   "claim": "Registro nº 100410165 (cancelado)",
+   "replacement": "Registro nº 100410165",
+   "summary": "Tabela: registro 100410165 (ADDAVEN) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 100410165 (ADDAVEN) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 100410165（ADDAVEN）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
   },
   {
    "id": "br-lic-20261106-zinc_oxide-1",
@@ -12540,6 +13280,386 @@
    ],
    "checked": "2026-11-12",
    "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-row-20261112-cysteine-1",
+   "drug": "cysteine",
+   "file": "cysteine.md",
+   "action": "correct",
+   "claim": "Registro 106830098 (cancelado)",
+   "replacement": "Registro 106830098",
+   "summary": "Tabela: registro 106830098 (PRIMENE) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 106830098 (PRIMENE) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 106830098（PRIMENE）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-cysteine-2",
+   "drug": "cysteine",
+   "file": "cysteine.md",
+   "action": "correct",
+   "claim": "Registro 106830186 (cancelado)",
+   "replacement": "Registro 106830186",
+   "summary": "Tabela: registro 106830186 (NUMETA PED) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 106830186 (NUMETA PED) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 106830186（NUMETA PED）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-cysteine-3",
+   "drug": "cysteine",
+   "file": "cysteine.md",
+   "action": "correct",
+   "claim": "Registro 106830185 (cancelado)",
+   "replacement": "Registro 106830185",
+   "summary": "Tabela: registro 106830185 (NUMETA NEO) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 106830185 (NUMETA NEO) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 106830185（NUMETA NEO）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-givosiran-1",
+   "drug": "givosiran",
+   "file": "givosiran.md",
+   "action": "correct",
+   "claim": "Registro 193610002 (cancelado)",
+   "replacement": "Registro 193610002",
+   "summary": "Tabela: registro 193610002 (GIVLAARI) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 193610002 (GIVLAARI) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 193610002（GIVLAARI）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-hydrocortisone_acetate-1",
+   "drug": "hydrocortisone_acetate",
+   "file": "hydrocortisone_acetate.md",
+   "action": "correct",
+   "claim": "| Registro 104971333 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)",
+   "replacement": "| Registro 104971333 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico",
+   "summary": "Tabela: registro 104971333 (ACETATO DE HIDROCORTISONA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 104971333 (ACETATO DE HIDROCORTISONA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 104971333（ACETATO DE HIDROCORTISONA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-hydrocortisone_acetate-2",
+   "drug": "hydrocortisone_acetate",
+   "file": "hydrocortisone_acetate.md",
+   "action": "correct",
+   "claim": "| Registro 103700527 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)",
+   "replacement": "| Registro 103700527 | Acetato de Hidrocortisona | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico",
+   "summary": "Tabela: registro 103700527 (ACETATO DE HIDROCORTISONA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 103700527 (ACETATO DE HIDROCORTISONA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 103700527（ACETATO DE HIDROCORTISONA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-hydrocortisone_acetate-3",
+   "drug": "hydrocortisone_acetate",
+   "file": "hydrocortisone_acetate.md",
+   "action": "correct",
+   "claim": "| Acecorthyl | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)",
+   "replacement": "| Acecorthyl | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico",
+   "summary": "Tabela: registro 103700768 (ACECORTHYL) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 103700768 (ACECORTHYL) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 103700768（ACECORTHYL）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-hydrocortisone_acetate-4",
+   "drug": "hydrocortisone_acetate",
+   "file": "hydrocortisone_acetate.md",
+   "action": "correct",
+   "claim": "| Cortigen | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico (cancelado)",
+   "replacement": "| Cortigen | Não informada | Glicocorticoides tópicos simples, exceto uso oftálmico",
+   "summary": "Tabela: registro 104971404 (CORTIGEN) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 104971404 (CORTIGEN) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 104971404（CORTIGEN）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-hydrocortisone_acetate-5",
+   "drug": "hydrocortisone_acetate",
+   "file": "hydrocortisone_acetate.md",
+   "action": "correct",
+   "claim": "| Anti-inflamatórios e antirreumáticos – associações medicamentosas (cancelado)",
+   "replacement": "| Anti-inflamatórios e antirreumáticos – associações medicamentosas",
+   "summary": "Tabela: registro 104970020 (CORTISONAL) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 104970020 (CORTISONAL) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 104970020（CORTISONAL）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-phenol-1",
+   "drug": "phenol",
+   "file": "phenol.md",
+   "action": "correct",
+   "claim": "Registro nº 128600008 (cancelado)",
+   "replacement": "Registro nº 128600008",
+   "summary": "Tabela: registro 128600008 (SYREX - DILUENTE FISIOLÓGICO INJETÁVEL DE MEDICAMENTOS) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 128600008 (SYREX - DILUENTE FISIOLÓGICO INJETÁVEL DE MEDICAMENTOS) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 128600008（SYREX - DILUENTE FISIOLÓGICO INJETÁVEL DE MEDICAMENTOS）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-phenol-2",
+   "drug": "phenol",
+   "file": "phenol.md",
+   "action": "correct",
+   "claim": "Registro nº 105040001 (cancelado)",
+   "replacement": "Registro nº 105040001",
+   "summary": "Tabela: registro 105040001 (AURIS-SEDINA) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 105040001 (AURIS-SEDINA) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 105040001（AURIS-SEDINA）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-phenol-3",
+   "drug": "phenol",
+   "file": "phenol.md",
+   "action": "correct",
+   "claim": "Registro nº 105700050 (cancelado)",
+   "replacement": "Registro nº 105700050",
+   "summary": "Tabela: registro 105700050 (DORDENTE) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 105700050 (DORDENTE) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 105700050（DORDENTE）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-sodium_citrate-1",
+   "drug": "sodium_citrate",
+   "file": "sodium_citrate.md",
+   "action": "correct",
+   "claim": "Registro nº 102350421 (cancelado)",
+   "replacement": "Registro nº 102350421",
+   "summary": "Tabela: registro 102350421 (ENDCOFF) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 102350421 (ENDCOFF) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 102350421（ENDCOFF）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-sodium_citrate-2",
+   "drug": "sodium_citrate",
+   "file": "sodium_citrate.md",
+   "action": "correct",
+   "claim": "Registro nº 157211204 (cancelado)",
+   "replacement": "Registro nº 157211204",
+   "summary": "Tabela: registro 157211204 (BENALET) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 157211204 (BENALET) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 157211204（BENALET）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-sodium_citrate-3",
+   "drug": "sodium_citrate",
+   "file": "sodium_citrate.md",
+   "action": "correct",
+   "claim": "Registro nº 115600099 (cancelado)",
+   "replacement": "Registro nº 115600099",
+   "summary": "Tabela: registro 115600099 (BENATUX) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 115600099 (BENATUX) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 115600099（BENATUX）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-sodium_citrate-4",
+   "drug": "sodium_citrate",
+   "file": "sodium_citrate.md",
+   "action": "correct",
+   "claim": "Registro nº 114620040 (cancelado)",
+   "replacement": "Registro nº 114620040",
+   "summary": "Tabela: registro 114620040 (UNIZINCO SORO) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 114620040 (UNIZINCO SORO) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 114620040（UNIZINCO SORO）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-sodium_citrate-5",
+   "drug": "sodium_citrate",
+   "file": "sodium_citrate.md",
+   "action": "correct",
+   "claim": "Registro nº 103110096 (cancelado)",
+   "replacement": "Registro nº 103110096",
+   "summary": "Tabela: registro 103110096 (SOLUÇÃO SALINA BALANCEADA - HALEX ISTAR) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 103110096 (SOLUÇÃO SALINA BALANCEADA - HALEX ISTAR) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 103110096（SOLUÇÃO SALINA BALANCEADA - HALEX ISTAR）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-sodium_lauryl_sulfate-1",
+   "drug": "sodium_lauryl_sulfate",
+   "file": "sodium_lauryl_sulfate.md",
+   "action": "correct",
+   "claim": "| ENEMIN | Não informada | Laxantes | Cancelado |",
+   "replacement": "| ENEMIN | Não informada | Laxantes | Ativo |",
+   "summary": "Tabela: registro 106890199 (ENEMIN) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 106890199 (ENEMIN) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 106890199（ENEMIN）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-row-20261112-sodium_lauryl_sulfate-2",
+   "drug": "sodium_lauryl_sulfate",
+   "file": "sodium_lauryl_sulfate.md",
+   "action": "correct",
+   "claim": "| MINILAX | Não informada | Laxantes | Cancelado |",
+   "replacement": "| MINILAX | Não informada | Laxantes | Ativo |",
+   "summary": "Tabela: registro 100431404 (MINILAX) está ativo, não cancelado",
+   "note": "Segundo os dados abertos da ANVISA (2026-11-05), o registro 100431404 (MINILAX) tem situação “Ativo”; a indicação “cancelado” foi retirada.",
+   "finding": "表格列把 100431404（MINILAX）標成 cancelado；證據包 ANVISA：Ativo、事實層 valid",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
   }
  ]
 }

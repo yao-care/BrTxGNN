@@ -85,8 +85,20 @@ Um rastreamento in vitro de fármacos aprovados (PMID 32977702) aponta possível
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 182610027 (cancelado) | Eltrombopague olamina | Não informada | Outros produtos anti-hemorrágicos |
-| Registro nº 100681132 (cancelado) | Revolade | Não informada | Outros produtos anti-hemorrágicos |
+| Registro nº 182610027 | Eltrombopague olamina | Não informada | Outros produtos anti-hemorrágicos |
+| Registro nº 100681132 | Revolade | Não informada | Outros produtos anti-hemorrágicos |
+
+<!-- review:begin br-row-20261112-eltrombopag-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 182610027 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 182610027 (ELTROMBOPAGUE OLAMINA) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-eltrombopag-1 -->
+
+<!-- review:begin br-row-20261112-eltrombopag-2 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Registro nº 100681132 (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 100681132 (REVOLADE) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-eltrombopag-2 -->
 
 ## Considerações de Segurança
 
@@ -132,6 +144,8 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 |------|------|------|------|
 | 2026-11-06 | Removido: “e o fármaco não tem registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Esclarecer a situação regulatória: ambos os registros estão cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 182610027 (ELTROMBOPAGUE OLAMINA) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 100681132 (REVOLADE) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

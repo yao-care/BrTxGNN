@@ -66,10 +66,34 @@ A pontuação alta do TxGNN (0,9980) vem do modelo TxGNN (deep learning), é ape
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
-| Registro nº 102351441 | Loxoprofeno Sódico | Não informada | Anti-inflamatórios (cancelado) |
-| Registro nº 104540159 | Loxonin | Não informada | Anti-inflamatórios (cancelado) |
-| Registro nº 104540188 | Loxonin Flex | Não informada | Anti-inflamatórios (cancelado) |
-| Registro nº 105730495 | Oxotron | Não informada | Anti-inflamatórios (cancelado) |
+| Registro nº 102351441 | Loxoprofeno Sódico | Não informada | Anti-inflamatórios |
+| Registro nº 104540159 | Loxonin | Não informada | Anti-inflamatórios |
+| Registro nº 104540188 | Loxonin Flex | Não informada | Anti-inflamatórios |
+| Registro nº 105730495 | Oxotron | Não informada | Anti-inflamatórios |
+
+<!-- review:begin br-row-20261112-loxoprofen-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Loxoprofeno Sódico / Não informada / Anti-inflamatórios (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 102351441 (LOXOPROFENO SÓDICO) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-loxoprofen-1 -->
+
+<!-- review:begin br-row-20261112-loxoprofen-2 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Loxonin / Não informada / Anti-inflamatórios (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 104540159 (LOXONIN) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-loxoprofen-2 -->
+
+<!-- review:begin br-row-20261112-loxoprofen-3 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Loxonin Flex / Não informada / Anti-inflamatórios (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 104540188 (LOXONIN FLEX) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-loxoprofen-3 -->
+
+<!-- review:begin br-row-20261112-loxoprofen-4 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Oxotron / Não informada / Anti-inflamatórios (cancelado)” Segundo os dados abertos da ANVISA (2026-11-05), o registro 105730495 (OXOTRON) tem situação “Ativo”; a indicação “cancelado” foi retirada. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-row-20261112-loxoprofen-4 -->
 
 ## Considerações de Segurança
 
@@ -109,6 +133,10 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Considerar que não há registro ativo no Brasil, o que exigiria novo processo regulatório” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 102351441 (LOXOPROFENO SÓDICO) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 104540159 (LOXONIN) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 104540188 (LOXONIN FLEX) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Tabela: registro 105730495 (OXOTRON) está ativo, não cancelado | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 
