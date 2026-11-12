@@ -5,7 +5,7 @@ parent: Notícias de Saúde
 nav_exclude: true
 description: "Notícias de saúde relacionadas com Gadoteridol. 0 indicações previstas."
 permalink: /news/gadoteridol/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-12
 ---
 
 # Notícias sobre Gadoteridol
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Gadoteridol?">
-<strong>Gadoteridol</strong> tem atualmente <strong>1 notícias</strong> e 0 indicações previstas.
+<strong>Gadoteridol</strong> tem atualmente <strong>2 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ Esta página combina as indicações previstas por IA para Gadoteridol com as no
 <p><a href="{{ '/drugs/gadoteridol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (2)
+
+### [Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo - CNN Brasil](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnN5YW5PNm9NNGVaZzhsMG1MWTZiTkhRb2EyOFZXTVhfYTc3V1FtLTF0ZXRHcEVSRzAxc01tTU1oM2ZIWjgyQjZDZERyUS0wdnhrQjZWNTNodXlfSDlmOGdVZVZzS0tsYk5velhMZEpqYzNyV25RZVZpWjhyZmZPYjRUZllkT0xNMFVFOURlV256dktNWFhRQkFBaXNoQWN5X0E?oc=5)
+
+2026-11-11 <span class="news-indication-tag">artrose</span>
+
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnN5YW5PNm9NNGVaZzhsMG1MWTZiTkhRb2EyOFZXTVhfYTc3V1FtLTF0ZXRHcEVSRzAxc01tTU1oM2ZIWjgyQjZDZERyUS0wdnhrQjZWNTNodXlfSDlmOGdVZVZzS0tsYk5velhMZEpqYzNyV25RZVZpWjhyZmZPYjRUZllkT0xNMFVFOURlV256dktNWFhRQkFBaXNoQWN5X0E?oc=5)
+
+---
 
 ### ['Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNUYyb2IydG1MS1hyLXFoQ0xrYlZfRnRFVGpIdzRNQm5SWjN4TWt2SWdwZGNrSlpOVmdyMnZwc0QtRm5OWTVlcm1sWlZIRzZiTzNlZm9vUnc3YnUxVzd0TG45c9IBaEFVX3lxTE1HMk5CZlBWNjNCUVBzMzRaZ2RLcHdkYzFtYVBmRFZWUHVzamt5eDczbnFWNVA2MUR6Y1FZbDFDd25ESERSUWo2UlRsRUlkdXRqY05oV2NtRWJhZ0pmWHBBckc2emdqZVNO?oc=5)
 
