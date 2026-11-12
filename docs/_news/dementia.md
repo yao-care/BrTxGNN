@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre demência (dementia)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre demência (dementia). 10 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre demência (dementia). 9 notícias, 4 medicamentos relacionados."
 permalink: /news/dementia/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre demência (dementia)?">
-<strong>demência (dementia)</strong> tem atualmente <strong>10 notícias</strong> e 4 medicamentos relacionados.
+<strong>demência (dementia)</strong> tem atualmente <strong>9 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ Esta página reúne as notícias de saúde mais recentes sobre «demência» e l
 </ul>
 </div>
 
-## Notícias relacionadas (10)
+## Notícias relacionadas (9)
 
 ### ['Dois terços dos casos de Alzheimer são em mulheres', alerta neurocientista](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTdhUFViazlydVhtdmZ5WUp1TktwOGgxWGdTX3FqNUZ0Qmtlck5IdjlBbkt4OUdVQUtiVHJMTnR6V3J0Mi1DOE9YMUxMNTc3OVlaczA0RW82VEpxOXN3elRGUm83X0otWC1VRWJiMWg4Sk43cTRfZWJJQVBVc1h1bUV0aHdxb1QzMU9DekNrY0ZKVGphbVJkY25NU3p0blludm9QMmh1akZLTk9FZ29teENidDN0SHg3Snc?oc=5)
 
 2026-11-11
 
 Fonte: [UOL](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTdhUFViazlydVhtdmZ5WUp1TktwOGgxWGdTX3FqNUZ0Qmtlck5IdjlBbkt4OUdVQUtiVHJMTnR6V3J0Mi1DOE9YMUxMNTc3OVlaczA0RW82VEpxOXN3elRGUm83X0otWC1VRWJiMWg4Sk43cTRfZWJJQVBVc1h1bUV0aHdxb1QzMU9DekNrY0ZKVGphbVJkY25NU3p0blludm9QMmh1akZLTk9FZ29teENidDN0SHg3Snc?oc=5)
-
----
-
-### [Atividade física prepara o cérebro de pacientes com depressão para a psicoterapia - Agência FAPESP](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUllKemJVZ2tkUUVYbTh4anl3NGtmc25qbmJ6d2FxSkVWX2pmUXU0dm1wRHpRZG1uZVFmUkpQMjhzdThmOFd2ME03RF95Q0JVYTRoM0JWRHVuNFZYTUJZRkxJT2RkNWtfM043TGlfRC1PY3RkVnNQU1F4SkJrSGRxZVlfZEtMU3pJR2RKYjNhYkR2MWN4dXFyM0VabTdmX3RNQ2kzb203QlJYNllmWFhDMFVUSQ?oc=5)
-
-2026-11-11
-
-Fonte: [Agência FAPESP](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUllKemJVZ2tkUUVYbTh4anl3NGtmc25qbmJ6d2FxSkVWX2pmUXU0dm1wRHpRZG1uZVFmUkpQMjhzdThmOFd2ME03RF95Q0JVYTRoM0JWRHVuNFZYTUJZRkxJT2RkNWtfM043TGlfRC1PY3RkVnNQU1F4SkJrSGRxZVlfZEtMU3pJR2RKYjNhYkR2MWN4dXFyM0VabTdmX3RNQ2kzb203QlJYNllmWFhDMFVUSQ?oc=5)
 
 ---
 

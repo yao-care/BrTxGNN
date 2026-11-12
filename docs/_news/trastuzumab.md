@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Trastuzumab?">
-<strong>Trastuzumab</strong> tem atualmente <strong>46 notícias</strong> e 6 indicações previstas.
+<strong>Trastuzumab</strong> tem atualmente <strong>48 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ Esta página combina as indicações previstas por IA para Trastuzumab com as no
 <p><a href="{{ '/drugs/trastuzumab/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (46)
+## Notícias relacionadas (48)
+
+### [Câncer de próstata: 78% dos homens esperam mais de 60 dias por tratamento - UOL Notícias](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUTZVTnVWeU8wMnFQRXFKdTctM2laSGl5cVVDZF9YWFVQV1U2cUVrY1FMTlN5S3ZJRkgyM204Nmprbjl4SlNJRFhlQUZ2MVpHTUdqX05QYzI5SGRLRTExVGVBcmVUODI1T0xQdm5nc2tZRXNLWGpUbF9zdzRVdUFvS1NoNm92eTRZdE5SNWJhNy16SkRsNnFOLTZjWlE4dERtSDhDd0Z6aXF6UllkZlJXVkN2NGdtTXVGQ2ROLXNPdU51MnVfcU5jdXJTemlKS0dQT1dNUFVvUG9PaVRFbThXeFFkVU9yTGZsMkE?oc=5)
+
+2026-11-12 <span class="news-indication-tag">câncer</span>
+
+Fonte: [UOL Notícias](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUTZVTnVWeU8wMnFQRXFKdTctM2laSGl5cVVDZF9YWFVQV1U2cUVrY1FMTlN5S3ZJRkgyM204Nmprbjl4SlNJRFhlQUZ2MVpHTUdqX05QYzI5SGRLRTExVGVBcmVUODI1T0xQdm5nc2tZRXNLWGpUbF9zdzRVdUFvS1NoNm92eTRZdE5SNWJhNy16SkRsNnFOLTZjWlE4dERtSDhDd0Z6aXF6UllkZlJXVkN2NGdtTXVGQ2ROLXNPdU51MnVfcU5jdXJTemlKS0dQT1dNUFVvUG9PaVRFbThXeFFkVU9yTGZsMkE?oc=5)
+
+---
 
 ### [Câncer de próstata: 8 em cada 10 pacientes já diagnosticados demoram mais de 60 dias para iniciar o tratamento no SUS](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU3pKMDM2S01QYnVVbHp4TUFkckc4c2NYbnV0VWRXWGswcXF2bkxxWWQySUZBQkJLdzg2Q3NkTHF0U2pia3hsM3JFZTQ4SlVzZnJiRU41cTZFRGc1dG1pVnUtNjltQUdxaW1WNU1hWE5aTHBDUmZiZzVvWHJQaDRVelJhUy14bXVlV2lpUlEwanUwZGo5Yktnd0xnT2RsRDgtSDUwYzRkZ1pxdi1zQkx2UlRWaExud0oxY3VTWHlBOGtNSVE1Wk1BX0FmRVJPeDRkaF9rZDhkS3BlcDBDSVV0bUpLT1J3NDJhbkdjZHZRN3NrZFJRV19VOHNoVmHSAYsCQVVfeXFMTkszRUREU2d0VXFOVVM1QU52aDJqdThvZ0pxQnJkR1M0OGtuSmE2eXJaZXZuTlB6ZGdWU3NKLXlXSWtVOVFuZjBuUU82ek5nenM5M1pWNWp6YUxmcFpxdjZBYncyNUYtdkNmdE85STNNTVphTkNkcFlZU1ZvdEEtdUNkMERjWEg3ekJhU2VUOEktRmpISUJRc3lManhNb3ZScHp0X1ZQZWY0RE51TWJBam9RT1hnb1pEMmZPRTFwWFFRV3pzcm1sYkZBNk5sUEpaSnJnU01DVmdlZzN6RGM4UDF4ZWxXNUVzZ2ZvR2tQZ09VUEtSN2xBaWNNaS1XTExWc29DbTREZnlrdGln?oc=5)
 
@@ -53,6 +61,14 @@ Fonte: [G1](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU3pKMDM2S01QYnV
 2026-11-11 <span class="news-indication-tag">câncer</span>
 
 Fonte: [Estadão](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUi1LR0lmTmlKd1JDRmNVd25nUVNEdWFLeHZnakdVUnY5NTMtWWdyMXR0STUzWFIxazVjOTJ4QUtKRGlfbUZLVldDNExGQkRTUDlWR1JiaHV5NkxSQTJNVW5XVkR3VGd1UFBYeFY2NWVFUWoxZ21IeC14UWNhLWo3Ui1NNzRSdDl1TndlM29rVU5QUTFhS0VoNDkxYmRLTHpZVmtwcEszUW9xTkFZMm9lMTdTdmtraDZ5Q2pLcy1tdXNxSFpWOVdvS9IBzgFBVV95cUxQb0VjbzhnRnZtTjRPeEVQSHdlV0JXdlc0NGFDMFpkaEFHLXZ6alJuYVJBQS1TQ2lhczFySXBaS2pCVEdOclVjYmdPc2prUnlKdWlScUEtR1loMmp6YVg4OHdmZURvV1dnSzlzblNTMzRCTGNBTUZyZlFuMXRHcFlOdEh2c0c2NG1Vb1hCdkR5Y0wydlRzUm1OSzFwbWZZRGhxeFlRMDl0OWdkbFZVUUZrbnlQRHB2ekZXRWVJSzVPUXdmYlB5a3N0ak0wX2l0Zw?oc=5)
+
+---
+
+### [Inclusão de vacina contra herpes-zóster no SUS vai à Câmara](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFlPOE54ZUwtQjJSWWE1SC1SRm51SmVoY2N0dTdWc0ZZOGJXVWlmUDF1QlNsWHJfd091RkRiek9Rc1VWZlJRRm9KeEM2WU5ONzkxT0tVV1FiUzVmam5MQ2NBbEpRdzQwT2VycHlxVU1vOGlxSWZJWFZoYkl0MVluMkF3U0VjaW13aHJvYVh5WFF6ckdCMTVNSnZWVkZpWEp5LUVjTXUwRGJEalRtODZCV3JtSGllUHM?oc=5)
+
+2026-11-11 <span class="news-indication-tag">herpes-zóster</span>
+
+Fonte: [Senado](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFlPOE54ZUwtQjJSWWE1SC1SRm51SmVoY2N0dTdWc0ZZOGJXVWlmUDF1QlNsWHJfd091RkRiek9Rc1VWZlJRRm9KeEM2WU5ONzkxT0tVV1FiUzVmam5MQ2NBbEpRdzQwT2VycHlxVU1vOGlxSWZJWFZoYkl0MVluMkF3U0VjaW13aHJvYVh5WFF6ckdCMTVNSnZWVkZpWEp5LUVjTXUwRGJEalRtODZCV3JtSGllUHM?oc=5)
 
 ---
 
