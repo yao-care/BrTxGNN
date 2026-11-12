@@ -89,7 +89,13 @@ A pontuação do TxGNN é muito alta (0,9994), mas é apenas uma saída do model
 | 151430057 | CAPECITABINA | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 | 151430059 | APECIBINE | DR. REDDYS FARMACÊUTICA DO BRASIL LTDA | Cancelado |
 
-A lista acima mostra os 5 primeiros de 11 registros.
+A lista acima mostra os 16 registros.
+
+<!-- review:begin br-lic-20261112-capecitabine-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “A lista acima mostra os 5 primeiros de 11 registros.” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 16 registros e há 16 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-capecitabine-1 -->
 
 ## Citotoxicidade
 
@@ -130,6 +136,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Removido: “Há 11 registros válidos de produtos de agente único, sem registros cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Contagem exibida: “A lista acima mostra os 5 primeiros de 11 registros” → “A lista acima mostra os 16 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -102,7 +102,13 @@ Atualmente não há literatura relacionada.
 | 167730154 | ADAPALENO | LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA | Cancelado |
 | 183260033 | ADAPEL | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
 
-Estão listados os 5 primeiros de 10 registros.
+Estão listados os 28 registros.
+
+<!-- review:begin br-lic-20261112-adapalene-1 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “Estão listados os 5 primeiros de 10 registros.” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 28 registros e há 28 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-adapalene-1 -->
 
 ## Considerações de Segurança
 
@@ -123,6 +129,19 @@ Para demais informações de segurança, consulte a bula.
 - Obter e analisar a bula na ANVISA para a triagem de segurança
 - Realizar estudos pré-clínicos ou observacionais que avaliem diretamente o zinco plasmático elevado
 - Avaliar a compatibilidade da via de administração tópica com a nova indicação
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Contagem exibida: “Estão listados os 5 primeiros de 10 registros” → “Estão listados os 28 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

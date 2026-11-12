@@ -114,7 +114,13 @@ O medicamento é comercializado no Brasil: dos 58 registros, 28 estão vigentes.
 
 A tabela mostra até 30 registros (os ativos primeiro). A lista completa está na consulta de medicamentos da ANVISA (https://consultas.anvisa.gov.br/#/medicamentos/).
 
-(Exibidos os 5 primeiros de 9 registros cancelados.)
+(A tabela exibe 2 dos 30 registros cancelados.)
+
+<!-- review:begin br-lic-20261112-mometasone-2 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “(Exibidos os 5 primeiros de 9 registros cancelados.)” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 58 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-mometasone-2 -->
 
 ## Considerações de Segurança
 
@@ -159,6 +165,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Além disso, não há registro vigente no Brasil, e as informações de segurança da bula não estão disponíveis” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-11 | Removido: “dado que o medicamento é comercializado no Brasil, com 9 registros vigentes de 9” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Registros vigentes: 9 de 9 → 28 de 58 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Contagem exibida: “Exibidos os 5 primeiros de 9 registros cancelados” → “A tabela exibe 2 dos 30 registros cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

@@ -526,3 +526,4 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - 2026-11-12 正文許可證張數對事實層掃描：28 頁 30 筆 correct 紀錄（`br-lic-20261112-*`）把 AI 正文依 10-31 前舊證據包（最多 20 筆）寫的市場事實張數改成事實層（例：metamizole「20 張全部有效」→496 張中 171 張有效、mirtazapine「20 張全部註銷」→36 張中 30 張有效）；錨在被更正句上的 6 筆舊紀錄改錨，前版存 history。
   講證據包／流程的句子（「O Evidence Pack retornou N registros」、待辦「Recuperar os detalhes dos N registros」）與「pelo menos／lista parcial／5 de N」之類的顯示說明不改。
 - 2026-11-12 許可證表格列狀態對事實層（母目錄 check_drug_page.py --row-status）：26 頁 56 列 ANVISA 現行有效（Ativo）的登記在號碼格、類別格或狀態欄標成 cancelado，以 56 筆 `br-row-20261112-*` correct 紀錄更正（拿掉「(cancelado)」、狀態欄改「Ativo」；依證據包 data-20261105 原始狀態逐列確認）。
+- 2026-11-12 顯示說明的列數與總數：12 頁「Principais registros (5 de 20)」「Exibidos os 5 primeiros de N」之類句子的列數／總數是舊證據包的數字（現在程式表列到 30 筆），以 `br-lic-20261112-*` 照表格列數與事實層總數更正；fluconazole、ketoprofen 是 11-06 紀錄同 id 重發（前版存 history）。講證據包／流程的句子不改。

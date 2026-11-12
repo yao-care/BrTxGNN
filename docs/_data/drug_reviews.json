@@ -2878,6 +2878,26 @@
    "anchor": "A pontuação do TxGNN é muito alta (0,9994), mas é apenas uma saída do modelo, sem estudos clínicos ou publicações que a sustentem nos dados compilados."
   },
   {
+   "id": "br-lic-20261112-capecitabine-1",
+   "drug": "capecitabine",
+   "file": "capecitabine.md",
+   "action": "correct",
+   "claim": "A lista acima mostra os 5 primeiros de 11 registros.",
+   "replacement": "A lista acima mostra os 16 registros.",
+   "summary": "Contagem exibida: “A lista acima mostra os 5 primeiros de 11 registros” → “A lista acima mostra os 16 registros”",
+   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 16 registros e há 16 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+   "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 16 筆，事實層總數 16（data-20261105）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
+  },
+  {
    "id": "br-lic-20261031-caplacizumab-1",
    "drug": "caplacizumab",
    "file": "caplacizumab.md",
@@ -5191,8 +5211,8 @@
    "file": "fluconazole.md",
    "action": "correct",
    "claim": "O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):",
-   "replacement": "Principais registros (5 de 20):",
-   "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 98 registros para este medicamento, 31 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+   "replacement": "Principais registros (30 de 98):",
+   "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 98 registros para este medicamento, 31 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. A contagem exibida foi atualizada para “Principais registros (30 de 98)” (tabela atual e dados de 2026-11-05).",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -5201,9 +5221,33 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-12",
    "summary": "Removido: “O medicamento é comercializado, com 20 registros válidos”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+   "history": [
+    {
+     "id": "br-lic-20261106-fluconazole-1",
+     "drug": "fluconazole",
+     "file": "fluconazole.md",
+     "action": "correct",
+     "claim": "O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):",
+     "replacement": "Principais registros (5 de 20):",
+     "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 98 registros para este medicamento, 31 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “O medicamento é comercializado, com 20 registros válidos”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-12",
+     "reason": "保留的「Principais registros (5 de 20):」列數與總數是舊證據包的數字；現在程式表列 30 筆、事實層總數 98，重發時一併更正"
+    }
+   ]
   },
   {
    "id": "br-lic-20261106-fluconazole-2",
@@ -6093,8 +6137,8 @@
    "file": "ketoprofen.md",
    "action": "correct",
    "claim": "O medicamento está comercializado, com 20 registros válidos. Principais registros (5 de 20):",
-   "replacement": "Principais registros (5 de 20):",
-   "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 92 registros para este medicamento, 45 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+   "replacement": "Principais registros (30 de 92):",
+   "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 92 registros para este medicamento, 45 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. A contagem exibida foi atualizada para “Principais registros (30 de 92)” (tabela atual e dados de 2026-11-05).",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -6103,9 +6147,33 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-12",
    "summary": "Removido: “O medicamento está comercializado, com 20 registros válidos”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+   "history": [
+    {
+     "id": "br-lic-20261106-ketoprofen-1",
+     "drug": "ketoprofen",
+     "file": "ketoprofen.md",
+     "action": "correct",
+     "claim": "O medicamento está comercializado, com 20 registros válidos. Principais registros (5 de 20):",
+     "replacement": "Principais registros (5 de 20):",
+     "note": "Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 92 registros para este medicamento, 45 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "ANVISA – Dados abertos de medicamentos",
+       "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removido: “O medicamento está comercializado, com 20 registros válidos”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）",
+     "retired": "2026-11-12",
+     "reason": "保留的「Principais registros (5 de 20):」列數與總數是舊證據包的數字；現在程式表列 30 筆、事實層總數 92，重發時一併更正"
+    }
+   ]
   },
   {
    "id": "br-lic-20261106-ketoprofen-2",
@@ -7214,6 +7282,26 @@
    "checked": "2026-11-06",
    "summary": "Removido: “Avaliar a situação regulatória: o medicamento é comercializado e há 20 registros válidos, de modo que seria preciso verificar a via de acess”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+  },
+  {
+   "id": "br-lic-20261112-memantine-1",
+   "drug": "memantine",
+   "file": "memantine.md",
+   "action": "correct",
+   "claim": "Principais registros (5 de 20):",
+   "replacement": "Principais registros (30 de 58):",
+   "summary": "Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 58”",
+   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 58 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+   "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 30 筆，事實層總數 58（data-20261105）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
   },
   {
    "id": "br-lic-20261106-mepolizumab-1",
@@ -8381,6 +8469,26 @@
    "checked": "2026-11-06",
    "summary": "Removido: “dado que o medicamento está comercializado com 20 registros válidos”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
+  },
+  {
+   "id": "br-lic-20261112-orlistat-1",
+   "drug": "orlistat",
+   "file": "orlistat.md",
+   "action": "correct",
+   "claim": "Principais registros (5 de 20):",
+   "replacement": "Principais registros (30 de 41):",
+   "summary": "Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 41”",
+   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 41 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+   "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 30 筆，事實層總數 41（data-20261105）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
   },
   {
    "id": "br-lic-20261106-ornitina_aspartate-1",
@@ -10648,6 +10756,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d2611a2b（2026-11-06）"
   },
   {
+   "id": "br-lic-20261112-sodium_acetate-1",
+   "drug": "sodium_acetate",
+   "file": "sodium_acetate.md",
+   "action": "correct",
+   "claim": "Principais registros (5 de 20):",
+   "replacement": "Principais registros (30 de 41):",
+   "summary": "Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 41”",
+   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 41 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+   "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 30 筆，事實層總數 41（data-20261105）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
+  },
+  {
    "id": "br-lic-20261106-sodium_carbonate-1",
    "drug": "sodium_carbonate",
    "file": "sodium_carbonate.md",
@@ -12722,6 +12850,26 @@
    "method": "2026-11-12 人工查核（正文張數對事實層）"
   },
   {
+   "id": "br-lic-20261112-arginine-2",
+   "drug": "arginine",
+   "file": "arginine.md",
+   "action": "correct",
+   "claim": "Principais registros (5 de 18):",
+   "replacement": "Principais registros (30 de 73):",
+   "summary": "Contagem exibida: “Principais registros (5 de 18” → “Principais registros (30 de 73”",
+   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 73 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+   "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 30 筆，事實層總數 73（data-20261105）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
+  },
+  {
    "id": "br-lic-20261112-axitinibe-1",
    "drug": "axitinibe",
    "file": "axitinibe.md",
@@ -12900,6 +13048,26 @@
    ],
    "checked": "2026-11-12",
    "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-isoleucine-2",
+   "drug": "isoleucine",
+   "file": "isoleucine.md",
+   "action": "correct",
+   "claim": "Principais registros (5 de 16):",
+   "replacement": "Principais registros (30 de 31):",
+   "summary": "Contagem exibida: “Principais registros (5 de 16” → “Principais registros (30 de 31”",
+   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 31 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+   "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 30 筆，事實層總數 31（data-20261105）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
   },
   {
    "id": "br-lic-20261112-threonine-1",
@@ -13122,6 +13290,26 @@
    "method": "2026-11-12 人工查核（正文張數對事實層）"
   },
   {
+   "id": "br-lic-20261112-mometasone-2",
+   "drug": "mometasone",
+   "file": "mometasone.md",
+   "action": "correct",
+   "claim": "(Exibidos os 5 primeiros de 9 registros cancelados.)",
+   "replacement": "(A tabela exibe 2 dos 30 registros cancelados.)",
+   "summary": "Contagem exibida: “Exibidos os 5 primeiros de 9 registros cancelados” → “A tabela exibe 2 dos 30 registros cancelados”",
+   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 58 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+   "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 30 筆，事實層總數 58（data-20261105）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
+  },
+  {
    "id": "br-lic-20261112-procaine-1",
    "drug": "procaine",
    "file": "procaine.md",
@@ -13220,6 +13408,26 @@
    ],
    "checked": "2026-11-12",
    "method": "2026-11-12 人工查核（正文張數對事實層）"
+  },
+  {
+   "id": "br-lic-20261112-spironolactone-3",
+   "drug": "spironolactone",
+   "file": "spironolactone.md",
+   "action": "correct",
+   "claim": "(Exibidos os 5 primeiros de 8 registros.)",
+   "replacement": "(Exibidos os 29 registros.)",
+   "summary": "Contagem exibida: “Exibidos os 5 primeiros de 8 registros” → “Exibidos os 29 registros”",
+   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 29 registros e há 29 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+   "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 29 筆，事實層總數 29（data-20261105）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
   },
   {
    "id": "br-lic-20261112-hesperidin-1",
@@ -13660,6 +13868,46 @@
    ],
    "checked": "2026-11-12",
    "method": "2026-11-12 人工查核（許可證表格列狀態對事實層與證據包原始狀態）"
+  },
+  {
+   "id": "br-lic-20261112-adapalene-1",
+   "drug": "adapalene",
+   "file": "adapalene.md",
+   "action": "correct",
+   "claim": "Estão listados os 5 primeiros de 10 registros.",
+   "replacement": "Estão listados os 28 registros.",
+   "summary": "Contagem exibida: “Estão listados os 5 primeiros de 10 registros” → “Estão listados os 28 registros”",
+   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 28 registros e há 28 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+   "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 28 筆，事實層總數 28（data-20261105）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
+  },
+  {
+   "id": "br-lic-20261112-d-glucose-1",
+   "drug": "d-glucose",
+   "file": "d-glucose.md",
+   "action": "correct",
+   "claim": "Principais registros (5 de 20):",
+   "replacement": "Principais registros (30 de 212):",
+   "summary": "Contagem exibida: “Principais registros (5 de 20” → “Principais registros (30 de 212”",
+   "note": "Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 30 registros e há 212 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros).",
+   "finding": "顯示說明的列數與總數是 10-31 依成分重建前舊證據包（最多 20 筆、表格只列 5 筆）的數字；現在的表格列 30 筆，事實層總數 212（data-20261105）",
+   "sources": [
+    {
+     "title": "ANVISA – Dados abertos de medicamentos",
+     "url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（顯示說明的總數對事實層與表格）"
   }
  ]
 }

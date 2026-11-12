@@ -118,7 +118,13 @@ O medicamento é comercializado no Brasil, com 10 licenças válidas de 29.
 | 183260444 | LASILACTONA | SANOFI MEDLEY FARMACÊUTICA LTDA. | Cancelado |
 | 194270068 | DIACQUA | MOMENTA FARMACÊUTICA LTDA. | Cancelado |
 
-(Exibidos os 5 primeiros de 8 registros.)
+(Exibidos os 29 registros.)
+
+<!-- review:begin br-lic-20261112-spironolactone-3 -->
+
+> **Correção de verificação (2026-11-12)**: Texto original: “(Exibidos os 5 primeiros de 8 registros.)” Corrigido conforme a tabela desta seção e os dados abertos de medicamentos da ANVISA (2026-11-05): a tabela mostra 29 registros e há 29 registros para este medicamento; a contagem antiga vinha de uma versão anterior dos dados (no máximo 20 registros). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261112-spironolactone-3 -->
 
 ## Considerações de Segurança
 
@@ -168,6 +174,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 | 2026-11-06 | Removido: “Todos os 8 registros estão válidos; o” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Licenças válidas: 8 de 8 → 10 de 29 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-12 | Licenças válidas: 8 de 8 → 10 de 29 | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Contagem exibida: “Exibidos os 5 primeiros de 8 registros” → “Exibidos os 29 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
 <!-- review:end log -->
 

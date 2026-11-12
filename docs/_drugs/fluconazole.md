@@ -73,11 +73,11 @@ Atualmente não há ensaios clínicos relacionados registrados para ceratoconjun
 
 ## Informações de Comercialização no Brasil
 
-Principais registros (5 de 20):
+Principais registros (30 de 98):
 
 <!-- review:begin br-lic-20261106-fluconazole-1 -->
 
-> **Correção de verificação (2026-11-06)**: Texto original: “O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 98 registros para este medicamento, 31 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+> **Correção de verificação (2026-11-12)**: Texto original: “O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 98 registros para este medicamento, 31 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. A contagem exibida foi atualizada para “Principais registros (30 de 98)” (tabela atual e dados de 2026-11-05). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
 
 <!-- review:end br-lic-20261106-fluconazole-1 -->
 
@@ -160,7 +160,7 @@ Abaixo está o registro de verificação desta página: afirmações conferidas 
 
 | Data da verificação | Item | Ação | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Removido: “O medicamento é comercializado, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-12 | Removido: “O medicamento é comercializado, com 20 registros válidos” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “Além disso, não há registro vigente do fármaco no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 | 2026-11-06 | Removido: “(medicamento comercializado, com 20 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
 
