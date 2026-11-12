@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 573
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "ROMIPLOSTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
 description: "Romiplostim: nova indicação prevista, Distúrbio primário de liberação plaquetária (primary release disorder of platelets) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -100,12 +100,45 @@ Para as demais informações de segurança (advertências e contraindicações),
 **Justificativa:**
 - A previsão principal não tem ensaios clínicos, e a única publicação trata de outra doença (PTI). O mecanismo (aumentar a contagem de plaquetas) não corrige um defeito de função plaquetária.
 
+<!-- review:begin br-lic-20261106-romiplostim-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O mecanismo (aumentar a contagem de plaquetas) não corrige um defeito de função plaquetária, e o fármaco não possui registro no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-romiplostim-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações).
 - Complementar os dados do mecanismo de ação (MOA) a partir do DrugBank.
 - Avaliar, como pergunta de pesquisa separada, a trombocitopenia aloimune fetal e neonatal, com dados de segurança fetal e de transferência placentária.
 - Verificar se há qualquer estudo direto do romiplostim em distúrbios de liberação plaquetária antes de qualquer avanço.
 - Confirmar a situação regulatória do romiplostim no Brasil.
+
+<!-- review:begin br-lic-20261106-romiplostim-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Obter e analisar a bula da ANVISA (advertências e contraindicações), pois o fármaco não tem registro local.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-romiplostim-2 -->
+
+<!-- review:begin br-lic-20261106-romiplostim-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar a situação regulatória do romiplostim no Brasil (ausência de registros nos dados compilados).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-romiplostim-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o fármaco não possui registro no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “pois o fármaco não tem registro local” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(ausência de registros nos dados compilados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

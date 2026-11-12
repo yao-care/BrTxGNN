@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ivermectin"
 predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "candida glabrata", "congenital candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ivermectin: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -74,6 +74,12 @@ Atualmente não há literatura relacionada.
 
 A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.
 
+<!-- review:begin br-lic-20261106-ivermectin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os dados locais indicam que o fármaco é comercializado, com 10 registros válidos. A lista de registros pode estar incompleta (dados parciais) e não foi detalhada nos dados compilados para este relatório.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 24 registros para este medicamento, 12 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ivermectin-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: a consulta identificou 100 interações registradas. Entre as de gravidade moderada estão:
@@ -104,6 +110,19 @@ Para advertências e contraindicações, consulte a bula.
 - Texto de bula do ANVISA com advertências e contraindicações, para triagem de segurança
 - Avaliação da via de administração e da forma farmacêutica compatíveis com uso vulvovaginal
 - Estudos clínicos que investiguem diretamente a candidíase vulvovaginal
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os dados locais indicam que o fármaco é comercializado, com 10 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

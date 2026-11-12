@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 357
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Hydroquinone: nova indicação prevista, Ceratose Seborreica (Seborrheic Keratosis) (nível de evidência L5). Indicação original: Desmelanizantes (despigmentantes)"
 monitor_inn: "hydroquinone"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
@@ -86,6 +86,12 @@ Atualmente não há ensaios clínicos relacionados registrados para ceratose seb
 
 O medicamento é comercializado.
 
+<!-- review:begin br-lic-20261111-hydroquinone-1 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Os 12 registros no Brasil estão vigentes; o medicamento é comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 40 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-hydroquinone-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102350930 | HIDROQUINONA+ TRETINOINA + FLUOCINOLONA ACETONIDA | EMS S/A | Ativo |
@@ -140,12 +146,32 @@ Para as demais informações de segurança (advertências, contraindicações e 
 **Justificativa:**
 - Não há ensaios clínicos, e a única publicação é um estudo observacional indireto. Além disso, a ceratose seborreica é uma lesão benigna cuja base não é pigmentar, de modo que a plausibilidade mecanística é fraca.
 
+<!-- review:begin br-lic-20261111-hydroquinone-2 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Além disso, a ceratose seborreica é uma lesão benigna cuja base não é pigmentar, de modo que a plausibilidade mecanística é fraca. Os 12 registros brasileiros estão vigentes.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 40 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-hydroquinone-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), que é uma lacuna bloqueante para a triagem de segurança
 - Complementar os dados de mecanismo de ação via DrugBank
 - Esclarecer a relevância clínica da despigmentação em ceratose seborreica, com estudos específicos (por exemplo, estudo piloto ou revisão sistemática)
 - Verificar a compatibilidade de via de administração e forma farmacêutica
 - Confirmar a situação regulatória dos 12 registros vigentes e avaliar o perfil de segurança para essa possível indicação
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-11 | Removido: “s 12 registros no Brasil estão vigentes; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-11 | Removido: “Os 12 registros brasileiros estão vigentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

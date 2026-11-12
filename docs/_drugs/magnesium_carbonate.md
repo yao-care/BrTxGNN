@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
 description: "Magnesium Carbonate: nova indicação prevista, Gastroduodenitis (nível de evidência L5). Indicação original: ANALGESICOS NAO NARCOTICOS"
@@ -40,6 +40,12 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 O modelo TxGNN prevê que pode ser eficaz para **doença ulcerosa péptica ativa (active peptic ulcer disease)**,
 mas há **0 ensaios clínicos** e apenas **1 publicação** (um estudo in vitro) apoiando esta direção.
+
+<!-- review:begin br-lic-20261106-magnesium_carbonate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Carbonato de magnésio é um sal de magnésio usado como antiácido e em associações analgésicas não narcóticas, com registros hoje todos cancelados no Brasil. / O modelo TxGNN prevê que pode ser eficaz para **doença ulcerosa péptica ativa (active peptic ulcer disease)**,” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-magnesium_carbonate-1 -->
 
 ## Visão Geral Rápida
 
@@ -114,6 +120,19 @@ Para advertências e contraindicações em bula, consulte a bula do medicamento.
 - Estudos clínicos que avaliem desfechos de cicatrização ou sintomas de úlcera com carbonato de magnésio
 - Avaliação do interesse comercial e regulatório, dado o cancelamento dos registros
 - Revisão das interações medicamentosas (especialmente com dolutegravir, tetraciclinas e bifosfonatos) e das contraindicações em insuficiência renal e hepática
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Carbonato de magnésio é um sal de magnésio usado como antiácido e em associações analgésicas não narcóticas, com registros hoje todos cancel” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

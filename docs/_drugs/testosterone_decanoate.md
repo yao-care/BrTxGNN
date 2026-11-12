@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 622
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -40,6 +40,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Testosterona Decanoato é um éster de testosterona de ação prolongada, pertencente à classe dos androgênios e esteroides anabólicos, classicamente utilizado em terapias de reposição hormonal masculina (hipogonadismo). O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual de análise — nenhuma nova indicação candidata foi identificada.
 
+<!-- review:begin br-lic-20261106-testosterone_decanoate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual de análise — nenhuma nova indicação candidata foi identificada. A ausência de registro brasileiro e a indisponibilidade de dados de mecanismo de ação (MOA) e segurança limitam qualquer avaliação aprofundada neste momento.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-testosterone_decanoate-1 -->
+
 ---
 
 ## Visão Geral Rápida
@@ -60,6 +66,12 @@ Testosterona Decanoato é um éster de testosterona de ação prolongada, perten
 
 > Observação: Testosterona Decanoato pode estar comercializada no Brasil como componente de combinações de ésteres de testosterona (ex.: Sustanon). Uma consulta específica por produto combinado pode ser necessária para esclarecer a situação regulatória real.
 
+<!-- review:begin br-lic-20261106-testosterone_decanoate-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há registros ativos de Testosterona Decanoato na ANVISA. A consulta realizada em 26/03/2026 retornou **zero resultados**, indicando que o fármaco não possui registro vigente como produto independente no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-testosterone_decanoate-2 -->
+
 ---
 
 ## Considerações de Segurança
@@ -75,11 +87,32 @@ Consulte a bula para informações de segurança.
 **Justificativa:**
 O modelo TxGNN não gerou nenhuma previsão de reposicionamento para este fármaco no ciclo atual.
 
+<!-- review:begin br-lic-20261106-testosterone_decanoate-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN não gerou nenhuma previsão de reposicionamento para este fármaco no ciclo atual. A combinação de ausência de registro regulatório no Brasil, dados de mecanismo de ação indisponíveis e ausência de informações de segurança torna inviável qualquer análise de viabilidade clínica ou regulatória neste momento.” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-testosterone_decanoate-3 -->
+
 **Para prosseguir, é necessário:**
 - Integrar os dados do DrugBank (consulta retornou 1 resultado em 26/03/2026, mas o conteúdo ainda não foi processado) para obter MOA, categorias terapêuticas e perfil de segurança
 - Verificar se o fármaco está registrado na ANVISA como componente de formulações combinadas (ex.: misturas de ésteres de testosterona)
 - Obter a bula oficial para extrair advertências, contraindicações e interações medicamentosas
 - Reexecutar o pipeline TxGNN com o `drugbank_id` e dados de MOA completos para que o modelo possa gerar previsões de reposicionamento
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “A ausência de registro brasileiro e a indisponibilidade de dados de mecanismo de ação (MOA) e segurança limitam qualquer avaliação aprofunda” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Não há registros ativos de Testosterona Decanoato na ANVISA. A consulta realizada em 26/03/2026 retornou **zero resultados**, indicando que ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “A combinação de ausência de registro regulatório no Brasil, dados de mecanismo de ação indisponíveis e ausência de informações de segurança ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 482
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ocrelizumab: nova indicação prevista, Carcinoma de mama HER2 positivo (HER2 positive breast carcinoma) (nível de evidência L5). Indicação original: Imunossupressores seletivos"
 monitor_inn: "ocrelizumab"
 predicted_indications: ["HER2 positive breast carcinoma", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer"]
@@ -83,11 +83,37 @@ Consulte a bula para advertências e contraindicações.
 - A previsão tem alta pontuação no modelo, mas nenhum ensaio clínico nem publicação a sustenta, e não há plausibilidade mecanística (CD20 não é alvo reconhecido no câncer de mama HER2 positivo). O nível de evidência é L5.
 - Não há dados de segurança da bula.
 
+<!-- review:begin br-lic-20261106-ocrelizumab-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O único registro no Brasil está cancelado, e não há dados de segurança da bula.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ocrelizumab-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter a bula na ANVISA para análise de advertências e contraindicações
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Realizar estudos pré-clínicos que testem se a depleção de células B/CD20 tem papel biológico no câncer de mama HER2 positivo
 - Verificar a situação regulatória atual do produto no Brasil
+
+<!-- review:begin br-lic-20261106-ocrelizumab-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a situação regulatória atual do produto no Brasil, já que o registro consta como cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ocrelizumab-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O único registro no Brasil está cancelado, e n” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que o registro consta como cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

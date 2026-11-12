@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 603
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "TADALAFIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 description: "Tadalafil: nova indicação prevista, Hipertricose universal congênita tipo Ambras (Ambras type hypertrichosis universalis congenita) (nível de evidência L5). Indicação original: Não consta nos dados l…"
@@ -123,11 +123,30 @@ Entre as demais previsões, a única publicação identificada refere-se à enxa
 - A previsão baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. O racional farmacológico sugere inclusive direção oposta à terapêutica, já que vasodilatadores podem causar hipertricose.
 - Há contraindicações extensas segundo o grafo de conhecimento.
 
+<!-- review:begin br-lic-20261106-tadalafil-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A tadalafila não tem registro comercializado no Brasil nos dados compilados, e há contraindicações extensas segundo o grafo de conhecimento.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 49 registros para este medicamento, 26 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tadalafil-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) a partir do DrugBank, para permitir análise mecanística formal.
 - Advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança).
 - Evidência pré-clínica que demonstre plausibilidade biológica da inibição de PDE5 em distúrbios do folículo piloso, o que hoje não existe.
 - Avaliar a priorização de outras previsões com racional mais plausível, como a cardiopatia cifoescoliótica (via hipertensão pulmonar), antes de qualquer investimento nesta indicação.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “A tadalafila não tem registro comercializado no Brasil nos dados compilados, e h” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

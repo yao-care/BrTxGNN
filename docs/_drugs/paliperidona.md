@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 506
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -41,6 +41,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 Paliperidona (PALIPERIDONA) é um antipsicótico atípico registrado no Brasil com 4 licenças ativas na ANVISA.
 O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual de dados, impedindo a análise de novas indicações.
 
+<!-- review:begin br-lic-20261106-paliperidona-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo atual de dados, impedindo a análise de novas indicações. / Os dados de suporte — mecanismo de ação, detalhes dos registros e informações de segurança — estão todos ausentes neste pacote de evidências.” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-paliperidona-1 -->
+
 ---
 
 ## Visão Geral Rápida
@@ -60,6 +66,12 @@ O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco 
 ## Informações de Comercialização no Brasil
 
 Os registros ANVISA foram identificados (4 licenças ativas), porém os campos de detalhe — número de registro, nome comercial, forma farmacêutica e indicação aprovada — estão todos em branco no pacote de evidências recebido.
+
+<!-- review:begin br-lic-20261106-paliperidona-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “> Para completar esta seção, é necessário re-executar a consulta TFDA/ANVISA com retorno dos campos de produto.” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-paliperidona-2 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -83,6 +95,20 @@ O TxGNN não produziu previsões válidas para Paliperidona neste ciclo (campo `
 - **Obter o MOA via DrugBank API**: o `drugbank_id` recuperado deve permitir extrair mecanismo de ação e categorias farmacológicas
 - **Baixar e analisar a bula ANVISA**: necessário para preencher advertências principais e contraindicações (bloqueador DG001)
 - **Re-executar o pipeline TxGNN** após correção do mapeamento para obter previsões de indicações candidatas
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os dados de suporte — mecanismo de ação, detalhes dos registros e informações de segurança — estão todos ausentes neste pacote de evidências” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “> Para completar esta seção, é necessário re-executar a consulta TFDA/ANVISA com retorno dos campos de produto” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

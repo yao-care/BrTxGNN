@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 386
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Lactose: nova indicação prevista, Varizes esofágicas com sangramento (esophageal varices with bleeding) (nível de evidência L5). Indicação original: Intolerância à lactose"
 monitor_inn: "Lactose"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease", "Steel syndrome", "cystinosis", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Immunoerythromyeloid hypoplasia", "familial apolipoprotein C-II deficiency", "hypophosphatasia"]
@@ -73,11 +73,30 @@ Consulte a bula para informações de segurança.
 **Justificativa:**
 - A previsão está no nível L5 (apenas modelo), sem ensaios clínicos, sem literatura e sem mecanismo plausível. Os dados de segurança da bula não estão disponíveis.
 
+<!-- review:begin br-lic-20261106-lactose-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco não tem registro no Brasil, e os dados de segurança da bula não estão disponíveis.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-lactose-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Esclarecer o mecanismo de ação a partir do DrugBank
 - Verificar se a previsão não resulta de confusão com a lactulose ou de semelhanças que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, e não de evidência biológica
 - Identificar estudos pré-clínicos ou observacionais que sustentem alguma relação com a hipertensão portal ou varizes antes de reconsiderar a decisão
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “fármaco não tem registro no Brasil, e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

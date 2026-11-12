@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Milrinone: nova indicação prevista, Alopecia (Alopecia) (nível de evidência L5). Indicação original: Vasodilatadores"
 monitor_inn: "milrinone"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
@@ -133,6 +133,25 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank).
 - Para alopecia: estudos pré-clínicos (por exemplo, modelos de folículo piloso) que testem o efeito da inibição de PDE3, e avaliação de viabilidade de via tópica, já que o uso atual é intravenoso.
 - Se o interesse for cardiovascular, priorizar a análise de insuficiência cardíaca aguda e cor pulmonale, com monitoramento hemodinâmico e restrição a uso de curto prazo.
+
+<!-- review:begin br-lic-20261106-milrinone-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Para alopecia: estudos pré-clínicos (por exemplo, modelos de folículo piloso) que testem o efeito da inibição de PDE3, e avaliação de viabilidade de via tópica, já que o uso atual é intravenoso. / Definir a situação regulatória: como não há registro válido no Brasil, seria necessário novo registro ou reativação.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-milrinone-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Definir a situação regulatória: como não há registro válido no Brasil, seria necessário novo registro ou reativação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 574
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Ropivacaine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
 description: "Ropivacaine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L2). Indicação original: ANESTESICOS LOCAIS"
@@ -118,11 +118,23 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Justificativa:**
 Existe plausibilidade mecanística e algum suporte clínico para bloqueios com ropivacaína na enxaqueca, mas as evidências são frágeis: um RCT de Fase 4 com apenas 10 participantes, um estudo de cefaleia pediátrica não específico para enxaqueca e estudos observacionais. O conjunto não sustenta avançar além de uma pergunta de pesquisa.
 
+<!-- review:begin br-lic-20261106-ropivacaine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Existe plausibilidade mecanística e algum suporte clínico para bloqueios com ropivacaína na enxaqueca, mas as evidências são frágeis: um RCT de Fase 4 com apenas 10 participantes, um estudo de cefaleia pediátrica não específico para enxaqueca e estudos observacionais. Além disso, embora o medicamento esteja comercializado, com 8 registros válidos de 8, faltam dados de bula e de mecanismo de ação.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 13 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ropivacaine-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula oficial da ANVISA (advertências e contraindicações), pois a triagem de segurança não pode ser concluída sem esses dados.
 - Complementar os dados do mecanismo de ação a partir do DrugBank.
 - Realizar ensaios randomizados maiores (Fase 2/3), controlados por placebo, de bloqueios com ropivacaína especificamente em enxaqueca.
 - Avaliar a compatibilidade entre as vias de administração necessárias (bloqueio de gânglio, injeção em pontos-gatilho) e as formas farmacêuticas disponíveis.
+
+<!-- review:begin br-lic-20261106-ropivacaine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a compatibilidade entre as vias de administração necessárias (bloqueio de gânglio, injeção em pontos-gatilho) e as formas farmacêuticas disponíveis. / Verificar a situação regulatória: não há registro válido no Brasil, o que exigiria novo registro ou comercialização por outra via.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 13 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ropivacaine-2 -->
 
 ### Outras indicações previstas (resumo)
 
@@ -133,6 +145,19 @@ Existe plausibilidade mecanística e algum suporte clínico para bloqueios com r
 | Tendinite | L4, evidência indireta e alerta de citotoxicidade em tenócitos | Hold |
 | Bronquite | L4, associação incidental com analgesia pós-cirurgia cardíaca | Hold |
 | Enxaqueca com aura do tronco encefálico, dismorfia distímica, síndrome nefrogênica de antidiurese inapropriada, miosite granulomatosa idiopática, miosite fibrosa | L5, apenas previsão do modelo; vários sem mecanismo plausível | Hold |
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, embora o medicamento esteja comercializado, com 8 registros válidos de 8, faltam dados de bula e de mecanismo de ação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Verificar a situação regulatória: não há registro válido no Brasil, o que exigiria novo registro ou comercialização por outra via” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

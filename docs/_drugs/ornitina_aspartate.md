@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 489
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -40,6 +40,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Ornitina Aspartato (L-ornitina L-aspartato) é um fármaco cujos dados regulatórios e de indicação original não constam no sistema brasileiro.
 O modelo TxGNN **não gerou previsões de reposicionamento** para este composto neste ciclo de análise,
+
+<!-- review:begin br-lic-20261106-ornitina_aspartate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN **não gerou previsões de reposicionamento** para este composto neste ciclo de análise, / pois a ausência de registro nacional e as lacunas críticas de dados (MOA, advertências, indicação original) impediram a execução completa do pipeline.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ornitina_aspartate-1 -->
 
 ---
 
@@ -91,6 +97,19 @@ A ausência total de dados regulatórios brasileiros, de DrugBank ID vinculado e
 - [ ] **Resolver status regulatório**: Verificar se o composto está disponível no Brasil sob outro nome (ex.: "L-ORNITINA L-ASPARTATO", "LOLA") ou como suplemento/hospitalar
 - [ ] **Coletar MOA**: Consultar DrugBank API ou literatura para descrever o mecanismo (ciclo da ureia, síntese de glutamina)
 - [ ] **Re-executar pipeline**: Após resolução das lacunas acima, re-executar a predição TxGNN com o DrugBank ID correto
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “pois a ausência de registro nacional e as lacunas críticas de dados (MOA, advertências, indicação original) impediram a execução completa do” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

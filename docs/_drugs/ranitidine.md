@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 559
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: nova indicação prevista, Peptic ulcer perforation (nível de evidência L3). Indicação original: ANTIULCEROSOS"
@@ -60,6 +60,12 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados comp
 
 Além disso, os inibidores da bomba de prótons (IBPs) substituíram em grande parte os bloqueadores H2, de modo que o valor de reposicionamento é limitado.
 
+<!-- review:begin br-lic-20261106-ranitidine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Vale notar que a ranitidina está comercializada no Brasil, com 20 registros válidos. Além disso, os inibidores da bomba de prótons (IBPs) substituíram em grande parte os bloqueadores H2, de modo que o valor de reposicionamento é limitado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 140 registros para este medicamento, 16 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ranitidine-1 -->
+
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados para esta indicação (doença ulcerosa péptica ativa).
@@ -84,6 +90,12 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 ## Informações de Comercialização no Brasil
 
 Principais registros:
+
+<!-- review:begin br-lic-20261106-ranitidine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros válidos. Principais registros:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 140 registros para este medicamento, 16 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ranitidine-2 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -143,6 +155,20 @@ Para advertências e contraindicações da bula, consulte a bula do medicamento.
 - Esclarecer a situação regulatória e a questão das impurezas de NDMA antes de qualquer reintrodução.
 - Avaliar se há vantagem clínica frente aos IBPs e a outros bloqueadores H2 ainda disponíveis (por exemplo, famotidina).
 - Se o objetivo for reposicionamento genuíno, priorizar indicações com sinais além da doença ulcerosa, como as mastocitoses, hoje apenas com previsão do modelo (nível L5) e sem ensaios nem literatura.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Vale notar que a ranitidina está comercializada no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Há 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

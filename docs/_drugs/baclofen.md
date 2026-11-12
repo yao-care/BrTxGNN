@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 105
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Baclofen: nova indicação prevista, Transtorno de déficit de atenção e hiperatividade (Attention Deficit-… (nível de evidência L5). Indicação original: Não disponível"
 monitor_inn: "Baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
@@ -40,6 +40,12 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 O baclofeno é um agonista do receptor GABA-B, conhecido como relaxante muscular. Não há indicação original registrada nos dados compiladados para este relatório.
 O modelo TxGNN prevê que pode ser eficaz para o **transtorno de déficit de atenção e hiperatividade (Attention Deficit-Hyperactivity Disorder)**, mas esta previsão tem **0 ensaios clínicos** e apenas **9 publicações indiretas** (revisões sobre síndrome de Tourette e estudos pré-clínicos em roedores).
+
+<!-- review:begin br-lic-20261106-baclofen-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há indicação original registrada nos dados compiladados para este relatório. O medicamento é comercializado neste país, com 4 de 7 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-baclofen-1 -->
 
 > **Observação importante:** entre as indicações previstas, a de maior pontuação (TDAH) tem a evidência mais fraca. A **dependência de nicotina** é a candidata com maior sustentação clínica (3 ensaios de Fase 2). Ela é apresentada ao final como alternativa mais promissora.
 
@@ -95,6 +101,12 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 **Justificativa:**
 - Para TDAH, não há ensaios clínicos nem estudos em humanos com baclofeno; a evidência é indireta e pré-clínica (L4).
 
+<!-- review:begin br-lic-20261106-baclofen-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Para TDAH, não há ensaios clínicos nem estudos em humanos com baclofeno; a evidência é indireta e pré-clínica (L4). / O baclofeno não tem registro ativo no Brasil, e as contraindicações do grafo de conhecimento incluem transtornos psiquiátricos, o que exige cautela adicional.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-baclofen-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
 - Obter dados do mecanismo de ação pelo DrugBank.
@@ -108,6 +120,20 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 | 2 | Dependência de nicotina | 0,9919 | L2 | Questão de pesquisa (mais promissora) |
 
 **Destaque, dependência de nicotina:** há 3 ensaios de Fase 2 ([NCT01228994](https://clinicaltrials.gov/study/NCT01228994), terminado com apenas 6 participantes; [NCT00257894](https://clinicaltrials.gov/study/NCT00257894), terminado com 41; [NCT01821560](https://clinicaltrials.gov/study/NCT01821560), concluído com 44). Nenhum fornece dados pivotais de cessação do tabagismo. A literatura sobre transtorno por uso de álcool, em que o baclofeno já é usado off-label, sustenta a plausibilidade biológica. Recomenda-se priorizar esta indicação para um ensaio de Fase 2 adequadamente dimensionado.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O medicamento é comercializado neste país, com 4 de 7 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O baclofeno não tem registro ativo no Brasil, e as contraindicações do grafo de conhecimento incluem transtornos psiquiátricos, o que exige ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

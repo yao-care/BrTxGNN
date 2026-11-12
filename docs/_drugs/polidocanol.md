@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 533
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Polidocanol"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "Immunoerythromyeloid hypoplasia", "pigmented paravenous retinochoroidal atrophy", "progressive bifocal chorioretinal atrophy", "X-linked retinal dysplasia", "monosomy X", "cone dystrophy", "oligocone trichromacy", "retinoschisis of fovea"]
 description: "Polidocanol: nova indicação prevista, Varizes esofágicas com sangramento (esophageal varices with bleeding) (nível de evidência L2). Indicação original: Não consta nos dados locais"
@@ -101,6 +101,25 @@ Há RCTs e estudos comparativos que utilizam polidocanol em varizes esofágicas 
 - Obter advertências e contraindicações da bula e dados do mecanismo de ação
 - Comparar com ligadura elástica e terapias padrão atuais, em literatura mais recente
 - Plano de monitoramento de segurança (estenose, disfagia, ressangramento, função hepática de cirróticos)
+
+<!-- review:begin br-lic-20261106-polidocanol-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a situação regulatória do polidocanol no Brasil (não há registros ativos) e a via de acesso para uso endoscópico” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-polidocanol-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “(não há registros ativos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

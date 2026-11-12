@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 301
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 description: "Estradiol Valerate: nova indicação prevista, Forma sintomática da síndrome do X frágil em mulheres portadoras (sym… (nível de evidência L5). Indicação original: Estrogênios associados a outros fármac…"
 monitor_inn: "ESTRADIOL VALERATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "luteoma of pregnancy", "ovarian dysfunction"]
@@ -134,12 +134,38 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Justificativa:**
 - A previsão principal tem apenas suporte do modelo (L5), sem ensaios nem literatura. A relação plausível (FXPOI) trataria apenas o componente ovariano.
 
+<!-- review:begin br-lic-20261106-estradiol_valerate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A relação plausível (FXPOI) trataria apenas o componente ovariano. Além disso, não há registro válido no Brasil, o que dificulta qualquer avanço regulatório imediato.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 9 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-estradiol_valerate-1 -->
+
 **Para prosseguir, é necessário:**
 - Revisão da literatura específica sobre reposição estrogênica em FXPOI/portadoras da pré-mutação FMR1
 - Dados de mecanismo de ação (MOA), atualmente ausentes
 - Bula e informações de advertências/contraindicações da ANVISA, ainda não obtidas
 - Avaliação da viabilidade regulatória
 - Se houver interesse em indicações com algum apoio (anovulação), aguardar resultados do NCT02186782 e confirmar a formulação de estradiol utilizada
+
+<!-- review:begin br-lic-20261106-estradiol_valerate-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da viabilidade regulatória, pois não há registros válidos e as formas farmacêuticas não constam nos dados” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 9 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-estradiol_valerate-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, não há registro válido no Brasil, o que dificulta qualquer avanço regulatório imediato” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “pois não há registros válidos e as formas farmacêuticas não constam nos dados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

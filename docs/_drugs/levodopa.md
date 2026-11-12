@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 409
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "LEVODOPA"
 predicted_indications: ["Rasmussen subacute encephalitis"]
 description: "Levodopa: nova indicação prevista, Encefalite Subaguda de Rasmussen (Rasmussen subacute encephalitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -91,6 +91,25 @@ A previsão se apoia apenas na pontuação do modelo (L5), sem ensaios clínicos
 - Bula da ANVISA (advertências e contraindicações), em especial sobre risco de convulsões e sintomas neuropsiquiátricos
 - Verificação da situação regulatória no Brasil
 - Avaliação pré-clínica ou em modelos antes de qualquer estudo em humanos
+
+<!-- review:begin br-lic-20261106-levodopa-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificação da situação regulatória no Brasil, pois os dados compilados indicam 0 registros, o que deve ser confirmado” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 27 registros para este medicamento, 13 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-levodopa-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “pois os dados compilados indicam 0 registros, o que deve ser confirmado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

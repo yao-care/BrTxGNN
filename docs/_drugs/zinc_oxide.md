@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 682
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Zinc Oxide: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Emolientes e protetores da pele e mucosas"
 monitor_inn: "Zinc oxide"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
@@ -87,6 +87,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Principais registros:
 
+<!-- review:begin br-lic-20261106-zinc_oxide-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O medicamento está comercializado no Brasil, com 20 registros válidos. Principais registros:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 187 registros para este medicamento, 35 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-zinc_oxide-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101550091 | VITERGAN ZINCO | MARJAN INDÚSTRIA E COMÉRCIO LTDA | Ativo |
@@ -140,12 +146,32 @@ Consulte a bula para advertências e contraindicações oficiais.
 **Justificativa:**
 - A previsão para acne tem pontuação alta no TxGNN (0,9986), mas sem ensaios clínicos e com literatura apenas indireta (nível L4).
 
+<!-- review:begin br-lic-20261106-zinc_oxide-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para acne tem pontuação alta no TxGNN (0,9986), mas sem ensaios clínicos e com literatura apenas indireta (nível L4). Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos, e os dados de segurança da bula não estão disponíveis.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 187 registros para este medicamento, 35 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-zinc_oxide-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar as advertências e contraindicações da bula na ANVISA, etapa necessária antes da triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Buscar estudos clínicos em humanos com óxido de zinco (tópico) em acne e confirmar qual intervenção foi usada no estudo de face dividida.
 - Esclarecer a situação regulatória: não há produto de óxido de zinco com registro válido no Brasil, o que exigiria novo registro ou reativação.
 - Verificar a compatibilidade da via de administração e a forma farmacêutica (não informada nos registros).
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos, e os dados de segurança da bula não estão disponíveis” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

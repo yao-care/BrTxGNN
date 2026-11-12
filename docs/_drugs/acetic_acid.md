@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 20
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Acetic Acid: nova indicação prevista, Transtorno pós-bacteriano (post-bacterial disorder) (nível de evidência L5). Indicação original: Produtos para hemodiálise"
 monitor_inn: "acetic acid"
 predicted_indications: ["post-bacterial disorder", "postinfectious vasculitis", "post-infectious syndrome", "Chagas cardiomyopathy", "infective urethral stricture", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis", "pityriasis simplex", "tinea corporis"]
@@ -123,6 +123,25 @@ Consulte a bula para as demais informações de segurança.
 - Avaliar a compatibilidade de via de administração (hoje pendente), especialmente a via tópica para tinea corporis, já que o produto original é um concentrado para diálise e não de uso direto no paciente.
 - Se for priorizada a tinea corporis: revisar a literatura de forma sistemática e definir concentração, formulação e perfil de segurança cutânea (risco de queimaduras) antes de qualquer estudo clínico.
 - Esclarecer a situação regulatória.
+
+<!-- review:begin br-lic-20261106-acetic_acid-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória, dado que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-acetic_acid-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

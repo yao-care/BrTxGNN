@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 474
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Nitrendipine: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Anti-hipertensivos simples"
 monitor_inn: "nitrendipine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
@@ -119,6 +119,25 @@ Consulte a bula para informações sobre advertências e contraindicações.
 - Realizar revisão sistemática da literatura sobre bloqueadores de canais de cálcio na enxaqueca e comparar o nitrendipino com alternativas já usadas (como a flunarizina).
 - Avaliar a priorização de **hipertensão pulmonar** (seleção de pacientes com resposta vasorreativa) e **angina de Prinzmetal** como direções com maior respaldo.
 - Esclarecer a viabilidade regulatória e comercial.
+
+<!-- review:begin br-lic-20261106-nitrendipine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a viabilidade regulatória e comercial, já que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-nitrendipine-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 588
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Sodium Acetate: nova indicação prevista, Deficiência congênita de protrombina (congenital prothrombin deficien… (nível de evidência L5). Indicação original: Produtos para hemodiálise"
 monitor_inn: "Sodium acetate"
 predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "gonococcal urethritis", "Ureaplasma urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
@@ -74,6 +74,12 @@ Atualmente não há literatura relacionada para a indicação prevista principal
 
 O medicamento está comercializado. Principais registros (5 de 20):
 
+<!-- review:begin br-lic-20261106-sodium_acetate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros válidos no Brasil e o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 41 registros para este medicamento, 13 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-sodium_acetate-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410150 | SMOFKABIVEN | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -123,12 +129,39 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 **Justificativa:**
 - A previsão vem do modelo TxGNN (deep learning) (nível L5), sem ensaios clínicos nem literatura, e sem vínculo mecanístico plausível com a deficiência de protrombina; o escore pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica.
 
+<!-- review:begin br-lic-20261106-sodium_acetate-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão vem do modelo TxGNN (deep learning) (nível L5), sem ensaios clínicos nem literatura, e sem vínculo mecanístico plausível com a deficiência de protrombina; o escore pode refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica. Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 41 registros para este medicamento, 13 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-sodium_acetate-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) a partir de fontes como o DrugBank
 - Advertências e contraindicações da bula na ANVISA, para a triagem de segurança
 - Justificativa biológica para a hipótese de coagulação, com estudos pré-clínicos
 - Reavaliar candidatas com mais respaldo ou vínculo mecanístico mais plausível (por exemplo, infecção do trato urinário, ainda que apenas especulativa, via alcalinização urinária)
 - Esclarecer a situação regulatória
+
+<!-- review:begin br-lic-20261106-sodium_acetate-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória, já que não há registro válido no país” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 41 registros para este medicamento, 13 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-sodium_acetate-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há 20 registros válidos no Brasil e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no país” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

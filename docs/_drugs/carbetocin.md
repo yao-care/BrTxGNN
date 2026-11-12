@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
 description: "Carbetocin: nova indicação prevista, Síndrome semelhante à isotretinoína (isotretinoin-like syndrome) (nível de evidência L5). Indicação original: PREPARAÇÕES HORMONAIS PARA USO SISTÊMICO…"
@@ -84,12 +84,38 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 **Justificativa:**
 - A previsão está no nível L5: baseia-se apenas no modelo, sem ensaios clínicos nem literatura, e a biologia da doença (malformação congênita por perturbação de retinoides) não oferece alvo plausível para um agonista de oxitocina.
 
+<!-- review:begin br-lic-20261106-carbetocin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão está no nível L5: baseia-se apenas no modelo, sem ensaios clínicos nem literatura, e a biologia da doença (malformação congênita por perturbação de retinoides) não oferece alvo plausível para um agonista de oxitocina. Além disso, os dois registros brasileiros estão cancelados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-carbetocin-1 -->
+
 **Para prosseguir, é necessário:**
 - Evidência independente (pré-clínica ou clínica) que sustente um vínculo mecanístico entre a sinalização do receptor de oxitocina e a doença prevista
 - Dados detalhados do mecanismo de ação (MOA) da carbetocina
 - Advertências e contraindicações da bula da ANVISA, ainda não disponíveis
 - Avaliação de viabilidade regulatória
 - Reavaliação de outras indicações previstas, ou das direções já exploradas clinicamente para a carbetocina (como a síndrome de Prader-Willi), que têm racionalidade farmacológica mais clara
+
+<!-- review:begin br-lic-20261106-carbetocin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação de viabilidade regulatória, dado que não há registro vigente no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-carbetocin-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, os dois registros brasileiros estão cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

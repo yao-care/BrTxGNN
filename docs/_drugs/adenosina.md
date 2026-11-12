@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 30
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -43,6 +43,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 No entanto, o modelo TxGNN **não gerou predições de novas indicações** para este fármaco no ciclo atual de análise, o que impede a condução completa do relatório de reposicionamento.
 Existem **duas lacunas de dados críticas** — ausência de mecanismo de ação e de dados regulatórios detalhados — que precisam ser resolvidas antes de prosseguir.
 
+<!-- review:begin br-lic-20261106-adenosina-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Adenosina é um nucleosídeo endógeno com presença consolidada no mercado brasileiro, contando com **20 registros ativos**. / No entanto, o modelo TxGNN **não gerou predições de novas indicações** para este fármaco no ciclo atual de análise, o que impede a condução completa do relatório de reposicionamento.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 23 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-adenosina-1 -->
+
 ---
 
 ## Visão Geral Rápida
@@ -73,6 +79,12 @@ Para que esta seção seja completada em versão futura, é necessário: (1) exe
 
 Esses detalhes devem ser obtidos diretamente junto à ANVISA para possibilitar a análise regulatória completa.
 
+<!-- review:begin br-lic-20261106-adenosina-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco possui **20 registros ativos** no mercado brasileiro, confirmando disponibilidade comercial ampla. Contudo, os detalhes individuais dos registros — número de licença, nome comercial, forma farmacêutica e texto da indicação aprovada — não estão disponíveis nos dados atuais (todos os campos retornaram vazios na consulta ao TFDA).” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-adenosina-2 -->
+
 ---
 
 ## Considerações de Segurança
@@ -94,6 +106,20 @@ O modelo TxGNN não gerou predições de novas indicações para adenosina, e h�
 - Reexecutar o pipeline TxGNN com o DrugBank ID correto para gerar predições de novas indicações
 - Completar os detalhes dos 20 registros ANVISA: número de registro, nome comercial, forma farmacêutica e indicação aprovada
 - Após resolução das lacunas, regenerar o Evidence Pack e um novo ciclo de relatório
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Adenosina é um nucleosídeo endógeno com presença consolidada no mercado brasileiro, contando com **20 registros ativos**” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O fármaco possui **20 registros ativos** no mercado brasileiro, confirmando disponibilidade comercial ampla. Contudo, os detalhes individuai” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

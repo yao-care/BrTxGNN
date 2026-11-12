@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Etoricoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Etoricoxib: nova indicação prevista, Transtorno de enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -76,6 +76,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Os dados de registro disponíveis são parciais. A lista detalhada de registros não está disponível nos dados compilados.
 
+<!-- review:begin br-lic-20261106-etoricoxib-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a lista detalhada de registros não está disponível nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 32 registros para este medicamento, 29 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-etoricoxib-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: o alvo farmacológico registrado é a COX-2 (gene PTGS2), sem interações com outros fármacos detalhadas.
@@ -94,6 +100,19 @@ Para as demais informações de segurança, consulte a bula.
 - Dados detalhados do mecanismo de ação.
 - Advertências e contraindicações extraídas da bula na ANVISA, em especial riscos cardiovasculares e renais.
 - Se houver avanço, estudo clínico controlado em enxaqueca, com plano de monitoramento de segurança.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “situação de comercialização consta como comercializado, com 17 registros válidos e 3 cancelados, mas a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

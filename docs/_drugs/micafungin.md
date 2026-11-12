@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 456
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Micafungin: nova indicação prevista, Infecção do Trato Urinário (urinary tract infection) (nível de evidência L3). Indicação original: Antifúngicos"
 monitor_inn: "micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
@@ -117,6 +117,25 @@ Há plausibilidade biológica e evidência clínica consistente, porém limitada
 - Avaliar a segurança em pacientes com doença renal, dada a sinalização do modelo TxGNN (deep learning), que pode refletir similaridades aprendidas pelo modelo entre doenças relacionadas, não evidência biológica
 - Definir critérios de seleção de pacientes (candidúria sintomática, resistência ao fluconazol), evitando o tratamento de candidúria assintomática
 - Considerar ensaio prospectivo e esclarecer a situação regulatória e a disponibilidade do produto no Brasil
+
+<!-- review:begin br-lic-20261031-micafungin-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Considerar ensaio prospectivo e esclarecer a situação regulatória (registros cancelados) e a disponibilidade do produto no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-micafungin-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

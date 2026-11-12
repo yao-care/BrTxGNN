@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Carisoprodol: nova indicação prevista, Insônia (insomnia) (nível de evidência L5). Indicação original: Relaxante muscular esquelético de ação central"
 monitor_inn: "CARISOPRODOL"
 predicted_indications: ["insomnia (disease)"]
@@ -89,12 +89,31 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 **Justificativa:**
 A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos e com uma única publicação indireta.
 
+<!-- review:begin br-lic-20261106-carisoprodol-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão baseia-se apenas no modelo (nível L5), sem ensaios clínicos e com uma única publicação indireta. Além disso, o fármaco não está registrado no Brasil e apresenta importantes preocupações de segurança (dependência, sedação e interações com depressores do SNC).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 52 registros para este medicamento, 18 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-carisoprodol-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula (advertências e contraindicações) para a triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Buscar evidências clínicas diretas do carisoprodol ou do meprobamato na insônia.
 - Avaliar o risco de dependência e abuso frente aos hipnóticos já disponíveis.
 - Verificar a situação regulatória do fármaco no Brasil, já que não há registros.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o fármaco não está registrado no Brasil e apresenta importantes preocupações de segurança (dependência, sedação e interações com” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

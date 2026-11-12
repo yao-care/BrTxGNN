@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Metamizole: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L5). Indicação original: Analgésicos não narcóticos"
 monitor_inn: "Metamizole"
 predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
@@ -133,6 +133,12 @@ Para advertências e contraindicações formais, consulte a bula.
 **Justificativa:**
 - Não há ensaios clínicos nem estudos de eficácia para artrite reumatoide; a pontuação alta do modelo não é corroborada por dados clínicos, e há um sinal de segurança (agranulocitose com metotrexato) relevante nessa população.
 
+<!-- review:begin br-lic-20261106-metamizole-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos nem estudos de eficácia para artrite reumatoide; a pontuação alta do modelo não é corroborada por dados clínicos, e há um sinal de segurança (agranulocitose com metotrexato) relevante nessa população. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 496 registros para este medicamento, 171 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-metamizole-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) a partir do DrugBank
 - Bula da ANVISA com advertências e contraindicações, para triagem de segurança
@@ -140,6 +146,19 @@ Para advertências e contraindicações formais, consulte a bula.
 - Estudos clínicos que avaliem o metamizol como analgésico adjuvante na AR, com avaliação do risco hematológico
 
 **Observação sobre outras previsões:** a enxaqueca (*migraine disorder*, pontuação 0,9972) tem evidência de nível L3, incluindo um estudo randomizado comparativo de dipirona intravenosa versus clonixinato de lisina em crises graves (PMID 18545786) e uso real em serviços de emergência no Brasil. Pode ser uma hipótese de pesquisa mais promissora do que a artrite reumatoide, embora sem ensaios registrados e com o mesmo risco de agranulocitose. As demais previsões (exostose, gota, tendinite, deficiência de antitrombina, entre outras) não têm literatura nem ensaios e parecem ser artefatos do modelo.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

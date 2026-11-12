@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 488
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Orlistat: nova indicação prevista, Hipervitaminose (Hypervitaminosis) (nível de evidência L5). Indicação original: Moduladores do metabolismo e da digestão (orlistate)"
 monitor_inn: "orlistat"
 predicted_indications: ["hypervitaminosis"]
@@ -72,6 +72,12 @@ Essa relação é **teórica**: nenhum estudo testou o orlistate como estratégi
 
 O medicamento está comercializado. Principais registros (5 de 20):
 
+<!-- review:begin br-lic-20261106-orlistat-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Foram encontrados 20 registros **válidos**; o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 41 registros para este medicamento, 17 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-orlistat-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431295 | CORPORE | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -127,12 +133,39 @@ Consulte a bula para informações complementares de segurança.
 **Justificativa:**
 A previsão se baseia somente no modelo (L5), sem ensaios clínicos nem literatura, e o vínculo mecanístico é teórico.
 
+<!-- review:begin br-lic-20261106-orlistat-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão se baseia somente no modelo (L5), sem ensaios clínicos nem literatura, e o vínculo mecanístico é teórico. Além disso, o orlistate não tem registro válido no Brasil, e o manejo padrão da hipervitaminose (suspender a fonte) já é simples e eficaz.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 41 registros para este medicamento, 17 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-orlistat-2 -->
+
 **Para prosseguir, é necessário:**
 - Estudos pré-clínicos ou observacionais que avaliem o efeito do orlistate na carga corporal de vitaminas lipossolúveis em excesso
 - Dados formais de mecanismo de ação
 - Advertências e contraindicações da bula na ANVISA, que ainda não foram analisadas
 - Avaliação da situação regulatória
 - Avaliação do risco de deficiência vitamínica e de outras contraindicações apontadas pelo grafo de conhecimento
+
+<!-- review:begin br-lic-20261106-orlistat-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da situação regulatória, dado que o medicamento está comercializado com 20 registros válidos” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 41 registros para este medicamento, 17 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-orlistat-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Foram encontrados 20 registros **válidos**; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o orlistate não tem registro válido no Brasil, e o manejo padrão da hipervitaminose (suspender a fonte) já é simples e eficaz” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que o medicamento está comercializado com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

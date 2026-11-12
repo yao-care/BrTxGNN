@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 292
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Epinephrine: nova indicação prevista, Doença pulmonar obstrutiva (Obstructive Lung Disease) (nível de evidência L5). Indicação original: Vasoconstritores e hipertensores"
 monitor_inn: "epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
@@ -127,6 +127,25 @@ Há vários ensaios de Phase 3 concluídos com epinefrina inalatória em asma, o
 - Confirmar o mecanismo de ação em fonte consolidada (DrugBank).
 - Estabelecer plano de monitoramento cardiovascular e de interações, em especial com antidepressivos tricíclicos e betabloqueadores.
 - Distinguir o uso inalatório (asma) do uso em bronquiolite, cuja evidência é mista.
+
+<!-- review:begin br-lic-20261106-epinephrine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar o mecanismo de ação em fonte consolidada (DrugBank). / Definir a situação regulatória: não há registro vigente no Brasil, e seria preciso verificar a via para uma formulação inalatória.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 16 registros para este medicamento, 16 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-epinephrine-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Definir a situação regulatória: não há registro vigente no Brasil, e seria preciso verificar a via para uma formulação inalatória” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

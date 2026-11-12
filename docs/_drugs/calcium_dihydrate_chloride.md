@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -68,6 +68,12 @@ A ausência de indicação original registrada e de registros na ANVISA reforça
 
 > **Nota:** Recomenda-se nova consulta com nomenclatura padronizada: "cloreto de cálcio" ou "calcium chloride" para verificar registros de formulações contendo este componente.
 
+<!-- review:begin br-lic-20261106-calcium_dihydrate_chloride-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Nenhum registro encontrado na base ANVISA para "CALCIUM DIHYDRATE CHLORIDE".” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-calcium_dihydrate_chloride-1 -->
+
 ---
 
 ## Considerações de Segurança
@@ -90,6 +96,26 @@ O pipeline TxGNN não gerou nenhuma previsão de reposicionamento para este fár
 - **Reexecutar o pipeline TxGNN**: Com o DrugBank ID correto, o modelo de grafo de conhecimento poderá gerar previsões de reposicionamento
 - **Levantar indicação original**: Consultar a bula de referência da ANVISA ou base DrugBank para registrar a indicação aprovada principal
 - **Sanar DG001** e **DG002 (MOA)**: Obter dados de advertências e mecanismo de ação antes de qualquer avaliação de segurança
+
+<!-- review:begin br-lic-20261106-calcium_dihydrate_chloride-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “**Sanar DG001 (TFDA/ANVISA)** e **DG002 (MOA)**: Obter dados de advertências e mecanismo de ação antes de qualquer avaliação de segurança” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-calcium_dihydrate_chloride-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Nenhum registro encontrado na base ANVISA para "CALCIUM DIHYDRATE CHLORIDE"” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(TFDA/ANVISA)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

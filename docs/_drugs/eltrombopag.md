@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 286
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Eltrombopag: nova indicação prevista, Infecção por HIV (HIV infectious disease) (nível de evidência L3). Indicação original: Outros produtos anti-hemorrágicos"
 monitor_inn: "eltrombopag"
 predicted_indications: ["HIV infectious disease"]
@@ -102,6 +102,12 @@ Para advertências e contraindicações formais, consulte a bula.
 **Justificativa:**
 - A previsão tem pontuação alta (0,9926), mas a evidência se limita a relatos e séries de casos em complicações hematológicas do HIV (L3). O único ensaio clínico não é em HIV e foi encerrado. Não há indício de efeito antiviral.
 
+<!-- review:begin br-lic-20261106-eltrombopag-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há indício de efeito antiviral, e o fármaco não tem registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-eltrombopag-1 -->
+
 **Para prosseguir, é necessário:**
 - Definir se o objetivo é tratar a trombocitopenia ou citopenias associadas ao HIV (suporte) ou buscar efeito antiviral, que hoje só tem respaldo pré-clínico.
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
@@ -109,6 +115,26 @@ Para advertências e contraindicações formais, consulte a bula.
 - Verificar o motivo do encerramento do ensaio NCT00678587.
 - Avaliar a segurança em pacientes com HIV e hepatopatia ou coinfecção por hepatite, dadas as contraindicações indicadas no grafo de conhecimento.
 - Gerar evidência prospectiva (ensaio clínico em PTI associada ao HIV).
+
+<!-- review:begin br-lic-20261106-eltrombopag-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar o motivo do encerramento do ensaio NCT00678587. / Esclarecer a situação regulatória: ambos os registros estão cancelados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-eltrombopag-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o fármaco não tem registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Esclarecer a situação regulatória: ambos os registros estão cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

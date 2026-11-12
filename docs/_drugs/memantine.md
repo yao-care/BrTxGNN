@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 442
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Memantine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 description: "Memantine: nova indicação prevista, Hipertensão pulmonar (pulmonary hypertension) (nível de evidência L5). Indicação original: OUTROS PRODUTOS QUE ATUAM SOBRE O SISTEMA NERVOSO"
@@ -108,6 +108,12 @@ Para hipertensão pulmonar, atualmente não há ensaios clínicos relacionados r
 
 O medicamento é comercializado. Principais registros (5 de 20):
 
+<!-- review:begin br-lic-20261106-memantine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros **válidos**; o medicamento é comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 41 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-memantine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330159 | ZIDER | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -159,11 +165,38 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 - Hipertensão pulmonar: a pontuação do modelo é alta (0,9954), mas não há ensaios nem literatura direta; o único elo é teórico (NMDA na vasculatura pulmonar).
 - Enxaqueca: há um ensaio de Fase 3 concluído e várias metanálises e revisões sistemáticas. Porém, o ensaio é pequeno (33 participantes), a eficácia segue descrita como controversa e há poucos ensaios robustos.
 
+<!-- review:begin br-lic-20261106-memantine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Porém, o ensaio é pequeno (33 participantes), a eficácia segue descrita como controversa e há poucos ensaios robustos. Além disso, não há registro válido no Brasil, e os dados de segurança da bula estão ausentes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 41 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-memantine-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança.
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank).
 - Para enxaqueca: examinar os resultados completos do NCT04698525 e as metanálises (PMID 33961371 e 35467554) e planejar ensaio de maior porte, com plano de monitoramento de segurança (função renal e hepática, interações com anticolinérgicos).
 - Para hipertensão pulmonar: gerar evidência pré-clínica direta com memantina antes de qualquer avanço.
+
+<!-- review:begin br-lic-20261106-memantine-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Complementar os dados de mecanismo de ação (consulta ao DrugBank). / Avaliar a situação regulatória: o medicamento é comercializado e há 20 registros válidos, de modo que seria preciso verificar a via de acesso para a nova indicação.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 41 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-memantine-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há 20 registros **válidos**; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, não há registro válido no Brasil, e os dados de segurança da bula estão ausentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Avaliar a situação regulatória: o medicamento é comercializado e há 20 registros válidos, de modo que seria preciso verificar a via de acess” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

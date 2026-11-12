@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 317
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
 description: "Filgrastim: nova indicação prevista, Distúrbio de liberação primário das plaquetas (primary release disorder of platelets) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -115,6 +115,25 @@ Para advertências e contraindicações, consulte a bula.
 - Realizar revisão sistemática da literatura e estudos pré-clínicos que sustentem um papel do filgrastim em distúrbios plaquetários
 - Esclarecer a situação regulatória no Brasil
 - Se houver interesse em outra indicação, priorizar o distúrbio hemorrágico do tipo plaquetário (posição 10, L4), embora a evidência seja apenas indireta, via contexto de transplante
+
+<!-- review:begin br-lic-20261106-filgrastim-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória no Brasil, já que não há registros ativos” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 14 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-filgrastim-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registros ativos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

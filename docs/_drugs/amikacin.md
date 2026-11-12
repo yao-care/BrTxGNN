@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 50
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Amikacin: nova indicação prevista, Febre paratifoide (paratyphoid fever) (nível de evidência L5). Indicação original: Aminoglicosídeos"
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
@@ -121,6 +121,25 @@ Também há um estudo de sensibilidade de *S. typhi* (PMID 8354556, 1993) em que
 - Gerar dados clínicos comparativos de amicacina na febre paratifoide ou entérica, incluindo a penetração intracelular e o desempenho frente a esquemas padrão.
 - Definir via de administração e forma farmacêutica compatíveis e verificar a situação regulatória atual.
 - Avaliar o perfil de risco de nefrotoxicidade e ototoxicidade e o plano de monitoramento, dadas as contraindicações indicadas.
+
+<!-- review:begin br-lic-20261106-amikacin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Definir via de administração e forma farmacêutica compatíveis e verificar a situação regulatória atual (não há registro vigente no Brasil).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 18 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-amikacin-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “(não há registro vigente no Brasil)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

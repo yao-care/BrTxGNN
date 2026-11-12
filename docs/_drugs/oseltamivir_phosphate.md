@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 493
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -39,6 +39,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 ## Resumo
 
 Oseltamivir fosfato é um antiviral inibidor de neuraminidase, amplamente conhecido como Tamiflu®, indicado para o tratamento e profilaxia da influenza (gripe) A e B. O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta execução, impossibilitando a análise de reposicionamento.
+
+<!-- review:begin br-lic-20261106-oseltamivir_phosphate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta execução, impossibilitando a análise de reposicionamento. A avaliação está bloqueada por lacunas críticas de dados: ausência de registros regulatórios na base consultada, sem informações de segurança e sem candidatos de reposicionamento gerados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-oseltamivir_phosphate-1 -->
 
 ---
 
@@ -88,6 +94,19 @@ Sem previsões geradas pelo TxGNN e sem registros regulatórios localizados, nã
 - Baixar e parsear a bula aprovada pela ANVISA para extrair advertências, contraindicações e posologia
 - Reexecutar o modelo TxGNN com o DrugBank ID mapeado para gerar candidatos de reposicionamento
 - Após geração de candidatos, retornar ao pipeline padrão de avaliação de evidências (ensaios clínicos + literatura)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “A avaliação está bloqueada por lacunas críticas de dados: ausência de registros regulatórios na base consultada, sem informações de seguranç” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

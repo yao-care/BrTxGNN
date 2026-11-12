@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 78
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Artemether: nova indicação prevista, Angioedema adquirido (acquired angioedema) (nível de evidência L5). Indicação original: Antimaláricos"
 monitor_inn: "artemether"
 predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
@@ -139,11 +139,37 @@ Não aplicável: o artemeter é um antimalárico, não um antineoplásico. Esta 
 - A previsão de maior pontuação (angioedema adquirido, 0,9990) não tem ensaios, literatura nem vínculo mecanístico plausível, ficando em L5.
 - As evidências robustas (L1) dizem respeito à malária, indicação original, e não constituem reposicionamento.
 
+<!-- review:begin br-lic-20261106-artemether-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “As evidências robustas (L1) dizem respeito à malária, indicação original, e não constituem reposicionamento. Além disso, o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-artemether-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
 - Obter dados do mecanismo de ação no DrugBank.
 - Para qualquer hipótese de reposicionamento (por exemplo, esclerodermia), gerar evidências pré-clínicas e justificar o mecanismo antes de avançar.
 - Avaliar o risco cardíaco (QT) e o plano de manejo das interações graves, especialmente com inibidores de CYP3A4 e antirretrovirais.
+
+<!-- review:begin br-lic-20261106-artemether-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Obter dados do mecanismo de ação no DrugBank. / Esclarecer a situação regulatória: o registro COARTEM está cancelado, sem registro válido de monoterapia ou combinação.” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-artemether-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Esclarecer a situação regulatória: o registro COARTEM está cancelado, sem registro válido de monoterapia ou combinação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

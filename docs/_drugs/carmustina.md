@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -85,11 +85,30 @@ Consulte a bula para informações de segurança.
 **Justificativa:**
 O modelo TxGNN não gerou previsões de reposicionamento para Carmustina neste ciclo de avaliação, inviabilizando a análise comparativa de indicações.
 
+<!-- review:begin br-lic-20261106-carmustina-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN não gerou previsões de reposicionamento para Carmustina neste ciclo de avaliação, inviabilizando a análise comparativa de indicações. Adicionalmente, os detalhes dos registros regulatórios brasileiros (indicações aprovadas, advertências, contraindicações) não foram recuperados, impossibilitando a avaliação completa de segurança.” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-carmustina-1 -->
+
 **Para prosseguir, é necessário:**
 - Mapear o **DrugBank ID** de Carmustina (BCNU) e reexecutar a previsão TxGNN para obter candidatos de reposicionamento
 - Recuperar os detalhes dos **6 registros** na ANVISA: números de registro, nomes comerciais, formas farmacêuticas e indicações aprovadas
 - Baixar e analisar a **bula oficial** para extrair advertências, contraindicações e interações medicamentosas
 - Consultar o **DrugBank** para obter dados completos de mecanismo de ação (MOA) e perfil de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Adicionalmente, os detalhes dos registros regulatórios brasileiros (indicações aprovadas, advertências, contraindicações) não foram recupera” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

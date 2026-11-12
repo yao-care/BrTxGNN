@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 270
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Dimenhydrinate: nova indicação prevista, Urticária Alérgica (Allergic Urticaria) (nível de evidência L5). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
@@ -78,6 +78,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 O medicamento é comercializado no país. Os cinco principais:
 
+<!-- review:begin br-lic-20261106-dimenhydrinate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 14 registros encontrados estão **válidos**; o medicamento é comercializado no país.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 34 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-dimenhydrinate-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 103920092 | DIMENIDRIN | VITAMEDIC INDUSTRIA FARMACEUTICA LTDA | Ativo |
@@ -129,12 +135,32 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 **Justificativa:**
 - A previsão é mecanisticamente plausível e tem pontuação alta, mas se apoia em um único estudo farmacocinético veterinário, sem ensaios clínicos em humanos (nível L4).
 
+<!-- review:begin br-lic-20261106-dimenhydrinate-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão é mecanisticamente plausível e tem pontuação alta, mas se apoia em um único estudo farmacocinético veterinário, sem ensaios clínicos em humanos (nível L4). Além disso, o produto não tem registro válido no Brasil e existem alternativas de segunda geração com melhor perfil de tolerabilidade.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 34 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-dimenhydrinate-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a lacuna atual impede a triagem de segurança.
 - Obter dados do mecanismo de ação no DrugBank.
 - Buscar estudos clínicos em humanos que avaliem eficácia em urticária, em comparação com anti-histamínicos de segunda geração.
 - Avaliar a viabilidade regulatória, considerando que o medicamento é comercializado, com 14 registros válidos de 14.
 - Revisar a carga anticolinérgica e sedativa em populações vulneráveis (idosos, pacientes com glaucoma, hiperplasia prostática ou doença cardiovascular).
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os 14 registros encontrados estão **válidos**; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o produto não tem registro válido no Brasil e existem alternativas de segunda geração com melhor perfil de tolerabilidade” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 297
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Erythromycin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
@@ -92,12 +92,31 @@ Para advertências e contraindicações formais, consulte a bula.
 **Justificativa:**
 - A previsão se baseia quase só no modelo e em uma revisão pediátrica indireta, sem ensaios clínicos (nível L4).
 
+<!-- review:begin br-lic-20261106-erythromycin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão se baseia quase só no modelo e em uma revisão pediátrica indireta, sem ensaios clínicos (nível L4). Além disso, o único registro brasileiro está cancelado, o que limita a relevância prática imediata.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-erythromycin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter a bula na ANVISA para análise de advertências e contraindicações, etapa necessária para a triagem de segurança.
 - Obter os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Buscar evidência clínica direta (ensaios ou estudos comparativos) de eritromicina na ceratoconjuntivite epitelial punctata.
 - Definir a via de administração (por exemplo, pomada oftálmica) e verificar sua disponibilidade no Brasil, dado que não há produto vigente.
 - Avaliar também as demais indicações previstas. A linfogranuloma venéreo (pontuação de 0,9905, com revisões e diretrizes que listam macrolídeos como alternativa à doxiciclina) corresponde mais a um uso antibiótico já plausível do que a um reposicionamento inovador.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado, o que limita a relevância prática imediata” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

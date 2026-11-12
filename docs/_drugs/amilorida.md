@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 52
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -40,6 +40,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Sem previsões de nova indicação geradas, **não é possível realizar uma avaliação de reposicionamento neste momento**. A coleta de dados complementares é necessária antes de prosseguir.
 
+<!-- review:begin br-lic-20261106-amilorida-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Amilorida (AMILORIDA) é um fármaco com **20 registros ativos** no mercado brasileiro, porém este pacote de evidências não contém dados de indicação original, mecanismo de ação nem previsões do modelo TxGNN. Sem previsões de nova indicação geradas, **não é possível realizar uma avaliação de reposicionamento neste momento**.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 21 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-amilorida-1 -->
+
 ---
 
 ## Visão Geral Rápida
@@ -61,6 +67,18 @@ Sem previsões de nova indicação geradas, **não é possível realizar uma ava
 O modelo TxGNN **não gerou nenhuma previsão de reposicionamento** para Amilorida neste pacote de evidências. Sem uma indicação candidata, não é possível avaliar a coerência mecanística entre indicação original e nova indicação.
 
 Adicionalmente, não há dados sobre o mecanismo de ação (MOA) neste pacote. Segundo as lacunas identificadas (`DG002`), a consulta ao DrugBank é necessária para recuperar essas informações. Da mesma forma, as indicações originais aprovadas constam nos 20 registros regulatórios.
+
+<!-- review:begin br-lic-20261106-amilorida-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Da mesma forma, as indicações originais aprovadas constam nos 20 registros regulatórios, mas os detalhes individuais de cada registro (nome comercial, forma farmacêutica, indicação aprovada) estão ausentes neste pacote — sendo necessário processar os registros via ANVISA/TFDA para completá-los.” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-amilorida-2 -->
+
+<!-- review:begin br-lic-20261106-amilorida-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco possui status **Comercializado** com **20 registros ativos**. Os detalhes individuais dos registros (nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis neste pacote de evidências — o preenchimento requer consulta direta às bulas registradas na ANVISA.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 21 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-amilorida-3 -->
 
 ---
 
@@ -86,6 +104,21 @@ O modelo TxGNN não gerou previsões de reposicionamento para Amilorida, e os da
 - Consultar a API do DrugBank para recuperar o mecanismo de ação (MOA) e categorias farmacológicas
 - Processar os 20 registros regulatórios via ANVISA para obter nome comercial, forma farmacêutica e indicação aprovada
 - Baixar e analisar as bulas em PDF para extrair advertências principais, contraindicações e interações medicamentosas (`DG001`, severidade: Blocking)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Amilorida (AMILORIDA) é um fármaco com **20 registros ativos** no mercado brasileiro, porém este pacote de evidências não contém dados de in” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “mas os detalhes individuais de cada registro (nome comercial, forma farmacêutica, indicação aprovada) estão ausentes neste pacote — sendo ne” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O fármaco possui status **Comercializado** com **20 registros ativos**. Os detalhes individuais dos registros (nome comercial, forma farmacê” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

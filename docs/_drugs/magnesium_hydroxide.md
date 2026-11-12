@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MAGNESIUM HYDROXIDE"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 description: "Magnesium Hydroxide: nova indicação prevista, Doença do estômago (nível de evidência L5). Indicação original: Antiácido"
 ---
 
@@ -97,6 +97,12 @@ Selecionei as publicações mais pertinentes. Nenhuma é um ensaio controlado ra
 
 Abaixo, os 5 principais. A forma farmacêutica não consta nos dados compilados.
 
+<!-- review:begin br-lic-20261106-magnesium_hydroxide-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 13 registros válidos, todos de produtos de ingrediente único. Abaixo, os 5 principais.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 13 registros para este medicamento, 12 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-magnesium_hydroxide-1 -->
+
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
 | Registro nº 155840396 | Gastrol | Não informada | Antiácido |
@@ -129,6 +135,19 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Definir um subtipo gástrico específico (gastrite, dispepsia, úlcera) que represente de fato uma indicação nova e não já registrada.
 - Buscar ensaios clínicos ou estudos com hidróxido de magnésio isolado nesse subtipo.
 - Avaliar o risco de interações medicamentosas, em especial com dolutegravir, e a segurança em pacientes com doença renal.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há 13 registros válidos, todos de produtos de ingrediente único” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

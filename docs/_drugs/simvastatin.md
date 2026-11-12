@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 586
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: nova indicação prevista, Brain stem infarction (nível de evidência L5). Indicação original: ANTILIPEMICOS"
@@ -97,6 +97,12 @@ Observação: apenas dois ensaios (NCT00552097 e NCT00129402) têm a sinvastatin
 
 Os cinco principais:
 
+<!-- review:begin br-lic-20261106-simvastatin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O medicamento está comercializado, com **20 registros válidos** atualmente. Os cinco principais:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 110 registros para este medicamento, 39 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-simvastatin-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290135 | VYTORIN | ORGANON FARMACÊUTICA LTDA. | Ativo |
@@ -150,13 +156,40 @@ Para advertências formais de uso, consulte a bula.
 - Há vários ensaios de Phase 3 concluídos em hipercolesterolemia familiar, com dois deles incluindo a sinvastatina diretamente (ENHANCE e o estudo em adolescentes), além de revisões Cochrane e diretrizes. Trata-se, na prática, de uso já consolidado e próximo da indicação original, e não de reposicionamento genuíno.
 - Faltam dados de bula; por isso a decisão exige cautela. Note-se também que o ENHANCE não mostrou benefício adicional da ezetimiba sobre a progressão da aterosclerose, o que não questiona o efeito da sinvastatina sobre o LDL-C.
 
+<!-- review:begin br-lic-20261106-simvastatin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O mercado brasileiro não tem registros válidos, e faltam dados de bula; por isso a decisão exige cautela.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 110 registros para este medicamento, 39 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-simvastatin-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois os dados atuais de segurança vêm só de grafo de conhecimento e de interações.
 - Confirmar o mecanismo de ação em fonte oficial (DrugBank).
 - Definir guardrails de segurança: monitoramento de miopatia e função hepática, controle de doses, revisão de interações via CYP3A4 e protocolo para uso pediátrico sob especialista.
 - Esclarecer o papel isolado da sinvastatina nos ensaios em que ela é apenas terapia de base.
 
+<!-- review:begin br-lic-20261106-simvastatin-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar o mecanismo de ação em fonte oficial (DrugBank). / Verificar a situação regulatória: o medicamento está comercializado, com 20 registros válidos no Brasil.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 110 registros para este medicamento, 39 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-simvastatin-3 -->
+
 **Observação sobre as demais previsões do modelo:** as outras indicações previstas (infarto de tronco encefálico, deficiência da proteína de transferência de ésteres de colesterol, hipercolesterolemia por deficiência de colesterol 7-alfa-hidroxilase, amiloidose ABri e um transtorno do neurodesenvolvimento raro) não têm ensaios clínicos nem literatura direta e permanecem em **Hold**. Para HIV, as evidências tratam de dislipidemia e interações medicamentosas, não de eficácia antiviral, e um estudo piloto não detectou atividade anti-HIV da sinvastatina. A hipercolesterolemia autossômica dominante tem respaldo equivalente ao da hipercolesterolemia familiar (Proceed with Guardrails).
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O medicamento está comercializado, com **20 registros válidos** atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O mercado brasileiro não tem registros válidos, e f” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Verificar a situação regulatória: o medicamento está comercializado, com 20 registros válidos no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

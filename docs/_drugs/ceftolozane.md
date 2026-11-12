@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ceftolozane: nova indicação prevista, Uretrite por Ureaplasma (Ureaplasma urethritis) (nível de evidência L5). Indicação original: Outras cefalosporinas e penêmicos"
 monitor_inn: "ceftolozane"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "urogenital tuberculosis", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease"]
@@ -96,11 +96,30 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 - A previsão se baseia apenas no modelo (L5), sem ensaios clínicos nem literatura. Além disso, a ausência de parede celular no *Ureaplasma* torna o mecanismo da ceftolozana biologicamente implausível.
 
+<!-- review:begin br-lic-20261106-ceftolozane-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Além disso, a ausência de parede celular no *Ureaplasma* torna o mecanismo da ceftolozana biologicamente implausível. O único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ceftolozane-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação confirmados (DrugBank)
 - Advertências e contraindicações extraídas da bula na ANVISA
 - Dados de sensibilidade *in vitro* de *Ureaplasma* à ceftolozana, que provavelmente refutariam a hipótese
 - Se houver interesse em reposicionamento, priorizar indicações com plausibilidade biológica, como infecções urinárias complicadas ou intra-abdominais por Gram-negativos, e não as previsões de maior pontuação
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

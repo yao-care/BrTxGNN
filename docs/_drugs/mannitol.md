@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Mannitol: nova indicação prevista, Síndrome nefrogênica de antidiurese inapropriada (nephrogenic syndrom… (nível de evidência L5). Indicação original: Reposição hidroeletrolítica e alimentação parent…"
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
@@ -76,6 +76,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Principais registros (máximo de 5):
 
+<!-- review:begin br-lic-20261106-mannitol-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros válidos. Principais registros (máximo de 5):” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 42 registros para este medicamento, 21 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-mannitol-2 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410052 | PURISOLE SM | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -126,12 +132,39 @@ Consulte a bula para as advertências e contraindicações oficiais, pois não e
 **Justificativa:**
 A previsão se baseia apenas na pontuação do modelo (nível L5): não há ensaios clínicos, a única publicação não é específica do manitol, e o mecanismo da doença (ganho de função do AVPR2) não é plausivelmente tratável por diurese osmótica, com risco de piora da hiponatremia.
 
+<!-- review:begin br-lic-20261106-mannitol-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão se baseia apenas na pontuação do modelo (nível L5): não há ensaios clínicos, a única publicação não é específica do manitol, e o mecanismo da doença (ganho de função do AVPR2) não é plausivelmente tratável por diurese osmótica, com risco de piora da hiponatremia. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 42 registros para este medicamento, 21 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-mannitol-3 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
 - Obter dados do mecanismo de ação do manitol (por exemplo, via DrugBank).
 - Realizar revisão mecanística e pré-clínica que justifique um papel do manitol na NSIAD, considerando o risco de agravar a hiponatremia.
 - Confirmar a situação regulatória e a disponibilidade de formas farmacêuticas e vias de administração compatíveis.
 - Considerar priorizar outras previsões com evidência indireta mais plausível, como a doença cardíaca pulmonar aguda (nível L4), embora também careça de ensaios diretos.
+
+<!-- review:begin br-lic-20261031-mannitol-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Confirmar a situação regulatória (registros cancelados) e a disponibilidade de formas farmacêuticas e vias de administração compatíveis.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 42 registros para este medicamento, 21 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-mannitol-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Há 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

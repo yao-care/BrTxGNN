@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 147
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Bosentan: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L4). Indicação original: Anti-hipertensivos"
 monitor_inn: "bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
@@ -109,12 +109,37 @@ As advertências e contraindicações oficiais da bula brasileira não estavam d
 **Justificativa:**
 - A previsão tem pontuação alta no TxGNN (0,9980), mas não há ensaios clínicos nem dados de eficácia em humanos com artrite reumatoide; o suporte se limita a modelos animais (nível L4).
 
+<!-- review:begin br-lic-20261106-bosentan-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão tem pontuação alta no TxGNN (0,9980), mas não há ensaios clínicos nem dados de eficácia em humanos com artrite reumatoide; o suporte se limita a modelos animais (nível L4). / Dos 5 registros brasileiros, todos os 5 estão válidos (mercado: comercializado) e o perfil de segurança exige atenção (especialmente toxicidade hepática).” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 12 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-bosentan-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação consolidados (via DrugBank)
 - Advertências e contraindicações da bula na ANVISA
 - Estudos clínicos iniciais (por exemplo, fase 2) em artrite reumatoide
 - Avaliação da viabilidade regulatória
 - Plano de monitoramento hepático e hematológico para eventual estudo
+
+<!-- review:begin br-lic-20261106-bosentan-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da viabilidade regulatória, dado que não há registro vigente no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 12 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-bosentan-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Dos 5 registros brasileiros, todos os 5 estão válidos (mercado: comercializado) e o perfil de segurança exige atenção (especialmente toxicid” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

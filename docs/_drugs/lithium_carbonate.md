@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 422
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Lithium Carbonate: nova indicação prevista, Pseudoacondroplasia (pseudoachondroplasia) (nível de evidência L5). Indicação original: Antidepressivos"
 monitor_inn: "Lithium carbonate"
 predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]
@@ -84,6 +84,12 @@ Atualmente não há literatura relacionada para a pseudoacondroplasia.
 
 Os 10 registros encontram-se válidos (10 de 10 licenças válidas). A forma farmacêutica não consta nos dados compilados.
 
+<!-- review:begin br-lic-20261106-lithium_carbonate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “*Mostrados os 5 primeiros de 10 registros, todos cancelados.*” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-lithium_carbonate-1 -->
+
 | Número de Registro | Nome Comercial | Indicação Aprovada |
 |---------|------|-----------|
 | Registro nº 113430167 | Carbonato de Lítio | Antidepressivos |
@@ -119,6 +125,26 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 - Realizar estudos pré-clínicos (por exemplo, modelos celulares ou animais com mutação em COMP) para testar a hipótese.
 - Avaliar o perfil de segurança do lítio (janela terapêutica estreita, função renal e tireoidiana) na população-alvo, em geral pediátrica.
 - Esclarecer a situação regulatória do produto no Brasil.
+
+<!-- review:begin br-lic-20261106-lithium_carbonate-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória do produto no Brasil, já que não há registro vigente.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-lithium_carbonate-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “*Mostrados os 5 primeiros de 10 registros, todos cancelados.*” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 555
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Pseudoephedrine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos (em associação)"
 monitor_inn: "PSEUDOEPHEDRINE"
 predicted_indications: ["nasal cavity disease", "allergic urticaria"]
@@ -82,6 +82,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Principais exemplos:
 
+<!-- review:begin br-lic-20261106-pseudoephedrine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros válidos. Principais exemplos:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 127 registros para este medicamento, 30 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-pseudoephedrine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290187 | DESALEX D12 | ORGANON FARMACÊUTICA LTDA. | Ativo |
@@ -132,11 +138,31 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 - A previsão é mecanisticamente coerente, mas sobrepõe-se quase totalmente à indicação original (descongestão nasal), portanto não constitui reposicionamento genuíno. As evidências são majoritariamente pré-clínicas (L4), não há ensaios clínicos.
 - O perfil de segurança cardiovascular e metabólico, indicado pelo grafo de conhecimento e pelas interações com antidiabéticos, exige cautela.
 
+<!-- review:begin br-lic-20261106-pseudoephedrine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “As evidências são majoritariamente pré-clínicas (L4), não há ensaios clínicos e o medicamento é comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 127 registros para este medicamento, 30 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-pseudoephedrine-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pois a falta desses dados bloqueia a triagem de segurança.
 - Obter dados do mecanismo de ação no DrugBank.
 - Esclarecer o motivo do cancelamento dos registros e a viabilidade regulatória de um novo registro.
 - Gerar evidência clínica específica para a doença da cavidade nasal, se houver interesse em seguir adiante.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e o medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

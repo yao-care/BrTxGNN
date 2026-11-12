@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 326
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Folic Acid: nova indicação prevista, Doença metabólica da biotina (biotin metabolic disease) (nível de evidência L4). Indicação original: Antianêmicos"
 monitor_inn: "FOLIC ACID"
 predicted_indications: ["biotin metabolic disease"]
@@ -96,6 +96,12 @@ Foram compiladas 19 publicações, quase todas revisões narrativas ou estudos i
 
 Principais exemplos:
 
+<!-- review:begin br-lic-20261106-folic_acid-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros válidos no Brasil. Principais exemplos:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 213 registros para este medicamento, 22 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-folic_acid-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431603 | DEXFER FÓLICO | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -149,11 +155,38 @@ Consulte a bula para advertências e contraindicações oficiais, pois esses dad
 **Justificativa:**
 - A previsão se apoia apenas no modelo e em literatura indireta (nível L4), sem ensaios clínicos. Não há mecanismo plausível de benefício direto, já que o ácido fólico não substitui a biotina.
 
+<!-- review:begin br-lic-20261106-folic_acid-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há mecanismo plausível de benefício direto, já que o ácido fólico não substitui a biotina. O medicamento é comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 213 registros para este medicamento, 22 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-folic_acid-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
 - Complementar os dados de mecanismo de ação no DrugBank.
 - Realizar revisão sistemática específica sobre folato e deficiência de biotinidase ou de holocarboxilase sintetase, para confirmar se existe algum benefício, ainda que indireto.
 - Avaliar a situação regulatória atual.
+
+<!-- review:begin br-lic-20261106-folic_acid-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a situação regulatória atual, pois não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 213 registros para este medicamento, 22 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-folic_acid-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há 20 registros válidos no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “pois não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

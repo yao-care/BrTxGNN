@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 443
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Mepolizumab: nova indicação prevista, Trombocitopenia por destruição imune (thrombocytopenia due to immune… (nível de evidência L5). Indicação original: Outros medicamentos antiasmáticos"
 monitor_inn: "mepolizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
@@ -89,12 +89,38 @@ Consulte a bula para informações de segurança.
 **Justificativa:**
 A previsão baseia-se quase exclusivamente em um escore computacional, com apenas um relato de caso confundido por terapia concomitante e sem ensaios clínicos.
 
+<!-- review:begin br-lic-20261106-mepolizumab-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão baseia-se quase exclusivamente em um escore computacional, com apenas um relato de caso confundido por terapia concomitante e sem ensaios clínicos. Além disso, o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-mepolizumab-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (MOA) em fonte confiável, como o DrugBank
 - Obter e analisar a bula na ANVISA (advertências e contraindicações) para a triagem de segurança
 - Esclarecer a situação regulatória do produto no Brasil
 - Buscar estudos que avaliem diretamente o mepolizumabe em trombocitopenia imune, para além do contexto hipereosinofílico
 - Considerar que as demais indicações previstas (distúrbio de liberação plaquetária, pseudo-doença de von Willebrand, trombocitopenia autoimune e trombastenia de Glanzmann) têm apenas predição computacional e plausibilidade biológica baixa ou nula
+
+<!-- review:begin br-lic-20261106-mepolizumab-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória do produto no Brasil, já que o registro está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-mepolizumab-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

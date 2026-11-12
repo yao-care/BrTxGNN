@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "HALOPERIDOL"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Haloperidol: nova indicação prevista, Doença congênita de glicosilação com fucosilação defeituosa (congenital disorder of glycosylation with defective fucosy… (nível de evidência L5). Indicação origi…"
 ---
 
@@ -74,6 +74,12 @@ Atualmente não há literatura relacionada.
 
 A lista de registros pode estar incompleta.
 
+<!-- review:begin br-lic-20261106-haloperidol-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os dados compilados indicam 5 registros válidos e 15 cancelados, e a lista de registros pode estar incompleta. Os detalhes de cada registro não estão disponíveis nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 30 registros para este medicamento, 13 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-haloperidol-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram registradas 100 interações; entre as exemplificadas, as de gravidade **maior** incluem bupropiona, morfina, claritromicina e dolasetrona. Há ainda várias de gravidade moderada (por exemplo, famotidina, epinefrina, hidrocortisona, anfotericina B, atropina, loperamida e bisacodil).
@@ -92,6 +98,19 @@ Para advertências e contraindicações em bula, consulte a bula aprovada pela A
 - Obter dados do mecanismo de ação e das advertências e contraindicações da bula na ANVISA.
 - Verificar a lista completa de registros no Brasil.
 - Avaliar o perfil de segurança (prolongamento do QT, sintomas extrapiramidais, interações) antes de qualquer estudo em população com doença metabólica rara.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os dados compilados indicam 5 registros válidos e 15 cancelados, e a Os detalhes de cada registro não estão disponíveis nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

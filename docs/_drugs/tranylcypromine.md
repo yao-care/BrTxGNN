@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 650
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Tranylcypromine: nova indicação prevista, Torcicolo paroxístico benigno da infância (benign paroxysmal torticol… (nível de evidência L5). Indicação original: Antidepressivos"
 monitor_inn: "tranylcypromine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
@@ -96,12 +96,38 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 **Justificativa:**
 A previsão de maior pontuação (torcicolo paroxístico benigno da infância) não tem nenhum ensaio, publicação ou ligação mecanística plausível, e o perfil de risco do fármaco é incompatível com o uso em lactentes.
 
+<!-- review:begin br-lic-20261106-tranylcypromine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão de maior pontuação (torcicolo paroxístico benigno da infância) não tem nenhum ensaio, publicação ou ligação mecanística plausível, e o perfil de risco do fármaco é incompatível com o uso em lactentes. O único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tranylcypromine-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA com advertências e contraindicações oficiais
 - Complementar os dados de mecanismo de ação (DrugBank)
 - Priorizar, se houver interesse, indicações com literatura (por exemplo, agorafobia e transtorno de pânico refratário), que hoje têm apenas revisões e relatos de caso (nível L4) e exigiriam estudos controlados
 - Confirmar a situação regulatória atual do fármaco no Brasil
 - Elaborar um plano de segurança específico para crise hipertensiva, síndrome serotoninérgica e interações medicamentosas antes de qualquer desenvolvimento
+
+<!-- review:begin br-lic-20261106-tranylcypromine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar a situação regulatória atual do fármaco no Brasil, já que o registro está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tranylcypromine-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

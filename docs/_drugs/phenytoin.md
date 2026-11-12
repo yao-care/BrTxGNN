@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 524
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Phenytoin: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "PHENYTOIN"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -106,6 +106,25 @@ Para as demais advertências, consulte a bula.
 - Complementar os dados de mecanismo de ação.
 - Se houver interesse, redirecionar a avaliação para neuralgia do trigêmeo, com revisão sistemática da evidência de fenitoína versus carbamazepina/oxcarbazepina e eventual ensaio de resgate IV.
 - Verificar a situação regulatória atual no Brasil, e planejar monitoramento de níveis séricos e de interações medicamentosas.
+
+<!-- review:begin br-lic-20261106-phenytoin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a situação regulatória atual no Brasil, já que não há registro válido, e planejar monitoramento de níveis séricos e de interações medicamentosas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 12 registros para este medicamento, 12 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-phenytoin-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registro válido” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

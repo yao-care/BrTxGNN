@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 519
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "pheniramine"
 predicted_indications: ["nasal cavity disease"]
 description: "Pheniramine: nova indicação prevista, Nasal cavity disease (nível de evidência L5). Indicação original: DESCONGESTIONATES OFTALMICOS"
@@ -114,6 +114,25 @@ Consulte a bula para as advertências e interações medicamentosas oficiais; n�
 - Realizar busca dirigida por estudos de eficácia da feniramina em urticária (ensaios clínicos e revisões sistemáticas).
 - Avaliar a compatibilidade de via de administração, já que os produtos registrados são oftálmicos e a urticária costuma exigir uso sistêmico.
 - Verificar se há interesse regulatório e comercial.
+
+<!-- review:begin br-lic-20261106-pheniramine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar se há interesse regulatório e comercial, dado que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-pheniramine-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

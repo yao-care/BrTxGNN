@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 649
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
 description: "Tramadol: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (nível de evidência L5). Indicação original: Não consta nos dados loca…"
@@ -102,12 +102,38 @@ Consulte a bula para as advertências e contraindicações oficiais.
 **Justificativa:**
 - A previsão se baseia somente na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura, e não há mecanismo plausível de modificação da doença.
 
+<!-- review:begin br-lic-20261106-tramadol-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão se baseia somente na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura, e não há mecanismo plausível de modificação da doença. O fármaco não está registrado no Brasil e tem perfil de segurança que exige cautela.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 111 registros para este medicamento, 55 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tramadol-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank) para analisar a ligação mecanística.
 - Obter e analisar a bula na ANVISA (advertências e contraindicações oficiais), etapa bloqueante para a triagem de segurança.
 - Realizar revisão da literatura específica sobre tramadol nas doenças previstas, especialmente como analgesia sintomática em displasias esqueléticas e artrites.
 - Esclarecer a situação regulatória no Brasil.
 - Definir, caso se avance, uma avaliação de segurança para populações específicas (pediatria, insuficiência hepática, risco de dependência e de síndrome serotoninérgica).
+
+<!-- review:begin br-lic-20261106-tramadol-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória no Brasil, já que não há registros vigentes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 111 registros para este medicamento, 55 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tramadol-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O fármaco não está registrado no Brasil e tem perfil de segurança que exige cautela” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registros vigentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

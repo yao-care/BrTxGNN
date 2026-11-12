@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 184
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -88,6 +88,25 @@ O Evidence Pack não contém previsões do modelo TxGNN, dados regulatórios nac
 - Re-executar o **pipeline TxGNN** com o DrugBank ID validado para gerar previsões de indicação
 - Obter **dados de MOA** completos via DrugBank API (severidade: Alta)
 - Coletar **informações de segurança** da bula: advertências, contraindicações e interações medicamentosas (severidade: Bloqueante)
+
+<!-- review:begin br-lic-20261106-canagliflozin_hemihydrate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Coletar **informações de segurança** da bula: advertências, contraindicações e interações medicamentosas (severidade: Bloqueante) / Verificar registros no **Brasil/ANVISA** diretamente — a consulta atual foi realizada na base TFDA (Taiwan), o que pode explicar o resultado zero para um composto com presença internacional” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-canagliflozin_hemihydrate-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Verificar registros no **Brasil/ANVISA** diretamente — a consulta atual foi realizada na base TFDA (Taiwan), o que pode explicar o resultado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

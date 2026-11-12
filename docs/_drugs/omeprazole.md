@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 486
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole: nova indicação prevista, Duodenal obstruction (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -111,9 +111,28 @@ Há um sinal de segurança (carcinogênese em modelos animais). A pontuação al
 - Realizar ensaios clínicos randomizados que avaliem desfechos de refluxo duodenogástrico (sintomas, exposição biliar, histologia da mucosa).
 - Avaliar o risco de carcinogênese gástrica com o bloqueio ácido prolongado nesse contexto.
 
+<!-- review:begin br-lic-20261106-omeprazole-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar a situação regulatória do omeprazol no Brasil, já que os dados compilados indicam 0 registros.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 128 registros para este medicamento, 40 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-omeprazole-1 -->
+
 ---
 
 **Nota sobre a segunda previsão (obstrução duodenal; pontuação TxGNN 0,9964; nível L4; recomendação Hold):** a obstrução duodenal é uma condição principalmente mecânica, tratada com dilatação endoscópica ou cirurgia. O omeprazol poderia ter apenas papel de apoio indireto na cicatrização de úlceras. A literatura disponível se limita a relatos de caso e revisões, e o único ensaio (NCT00557921, Fase 3, encerrado, clopidogrel + omeprazol para eventos gastrointestinais) não avalia obstrução. Esta direção é menos sustentada que a primeira.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que os dados compilados indicam 0 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

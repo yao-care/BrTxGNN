@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 313
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "felypressin"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "esotropia", "diabetic retinopathy", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "chondroid hamartoma", "non-seminomatous lesion", "tumor of testis and paratestis", "pre-malignant neoplasm"]
 description: "Felypressin: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: ANESTESICOS LOCAIS"
@@ -84,11 +84,30 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 **Justificativa:**
 Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5), o mecanismo de ação é desconhecido e não há plausibilidade biológica evidente.
 
+<!-- review:begin br-lic-20261106-felypressin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5), o mecanismo de ação é desconhecido e não há plausibilidade biológica evidente. Além disso, os dois registros no Brasil estão cancelados, o que reduz a viabilidade regulatória.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-felypressin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (por exemplo, consultando o DrugBank) e avaliar a plausibilidade da sinalização de vasopressina/receptores V1 no osso
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem esses dados
 - Realizar revisão sistemática da literatura e estudos pré-clínicos para a indicação de maior pontuação, antes de qualquer investimento clínico
 - Avaliar a compatibilidade de via de administração (hoje apenas injetável em anestésicos locais) com a nova indicação e esclarecer a situação dos registros cancelados
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, os dois registros no Brasil estão cancelados, o que reduz a viabilidade regulatória” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

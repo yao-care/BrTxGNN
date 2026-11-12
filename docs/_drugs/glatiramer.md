@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 343
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Glatiramer: nova indicação prevista, Hemoglobinopatia (hemoglobinopathy) (nível de evidência L5). Indicação original: Imunomodulador"
 monitor_inn: "glatiramer"
 predicted_indications: ["hemoglobinopathy"]
@@ -101,6 +101,25 @@ Para advertências e contraindicações, consulte a bula.
 - Realizar busca sistemática de literatura e estudos pré-clínicos que sustentem a hipótese.
 - Esclarecer a situação regulatória e a compatibilidade de via de administração e forma farmacêutica.
 - Avaliar o risco da interação de gravidade maior com o natalizumabe, em especial em pacientes com esclerose múltipla.
+
+<!-- review:begin br-lic-20261031-glatiramer-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória (registros cancelados) e a compatibilidade de via de administração e forma farmacêutica.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-glatiramer-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

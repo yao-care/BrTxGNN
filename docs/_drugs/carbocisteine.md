@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 194
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Carbocisteine: nova indicação prevista, Gota (Gout) (nível de evidência L5). Indicação original: Expectorantes"
 monitor_inn: "Carbocisteine"
 predicted_indications: ["gout"]
@@ -88,6 +88,12 @@ Para referência, a literatura disponível para a previsão de **bronquite** (2�
 
 O medicamento é comercializado atualmente. Principais registros:
 
+<!-- review:begin br-lic-20261106-carbocisteine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 14 registros estão válidos; o medicamento é comercializado atualmente.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 60 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-carbocisteine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102350461 | CARBOCISTEÍNA | EMS S/A | Ativo |
@@ -139,11 +145,31 @@ Consulte a bula para as demais informações de segurança.
 - Para a gota, não há ensaios, literatura nem mecanismo plausível (nível L5). A pontuação alta vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, possivelmente doenças do metabolismo de purinas, não evidência biológica.
 - A única previsão com respaldo real é a bronquite (L3, "Proceed with Guardrails"), mas ela é basicamente a indicação original.
 
+<!-- review:begin br-lic-20261106-carbocisteine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A única previsão com respaldo real é a bronquite (L3, "Proceed with Guardrails"), mas ela é basicamente a indicação original. Além disso, não há registro ativo no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 60 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-carbocisteine-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (consulta à API do DrugBank).
 - Baixar e analisar as bulas na ANVISA para advertências e contraindicações (lacuna bloqueante para a triagem de segurança).
 - Para a gota: gerar evidência pré-clínica de um elo com o metabolismo do urato ou a inflamação gotosa antes de qualquer avanço.
 - Para a bronquite: verificar fase e tamanhos de efeito dos estudos (apenas títulos e resumos parciais estavam disponíveis) e esclarecer o motivo do cancelamento dos registros.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os 14 registros estão válidos; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, não há registro ativo no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

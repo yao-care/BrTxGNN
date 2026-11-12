@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 189
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Carbamazepine: nova indicação prevista, Neoplasia do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L4). Indicação original: Anticonvulsivantes"
 monitor_inn: "CARBAMAZEPINE"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
@@ -97,6 +97,12 @@ As 18 publicações recuperadas são, em sua maioria, relatos de caso e revisõe
 
 Seguem os 5 primeiros da lista.
 
+<!-- review:begin br-lic-20261106-carbamazepine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 18 registros estão válidos (18 de 18). Seguem os 5 primeiros da lista.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 67 registros para este medicamento, 16 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-carbamazepine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100630280 | CARBAMAZEPINA | INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA | Ativo |
@@ -161,12 +167,39 @@ Além da neoplasia do nervo trigêmeo, o modelo prevê outras indicações. Quas
 **Justificativa:**
 - Não há ensaios clínicos, e a literatura mostra apenas alívio sintomático da dor neurálgica em pacientes com tumores, sem evidência de efeito antineoplásico.
 
+<!-- review:begin br-lic-20261106-carbamazepine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos, e a literatura mostra apenas alívio sintomático da dor neurálgica em pacientes com tumores, sem evidência de efeito antineoplásico. Além disso, os 18 registros brasileiros estão válidos (18 de 18) e há dados de segurança relevantes, como risco hematológico, hepático e cardíaco.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 67 registros para este medicamento, 16 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-carbamazepine-2 -->
+
 **Para prosseguir, é necessário:**
 - Definir se o objetivo é tratar a dor associada ao tumor (manejo sintomático, já coberto pelo uso em neuralgia do trigêmeo) ou ter efeito antitumoral, caso em que seriam necessários estudos pré-clínicos de mecanismo
 - Obter dados do mecanismo de ação detalhado
 - Obter a bula atualizada junto à ANVISA (advertências e contraindicações)
 - Esclarecer a situação regulatória atual (motivo dos cancelamentos e eventual novo registro)
 - Se houver interesse nas epilepsias reflexas, avaliar a indicação "epilepsia do susto" como questão de pesquisa, por ter uma série clínica de apoio
+
+<!-- review:begin br-lic-20261106-carbamazepine-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Obter a bula atualizada junto à ANVISA (advertências e contraindicações), já que não há registro válido no mercado brasileiro” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 67 registros para este medicamento, 16 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-carbamazepine-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os 18 registros estão válidos (18 de 18)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, os 18 registros brasileiros estão válidos (18 de 18) e há dados de segurança relevantes, como risco hematológico, hepático e car” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no mercado brasileiro” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Oxacillin: nova indicação prevista, Epiglotite (Epiglottitis) (nível de evidência L5). Indicação original: Penicilinas resistentes à penicilinase"
 monitor_inn: "oxacillin"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
@@ -131,7 +131,26 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 - Verificar a disponibilidade comercial atual.
 - Avaliar a via de administração e a forma farmacêutica necessárias.
 
+<!-- review:begin br-lic-20261106-oxacillin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a disponibilidade comercial atual, dado que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 27 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-oxacillin-1 -->
+
 **Observação sobre outras indicações previstas:** "artrite bacteriana" (pontuação 0,9950, nível L4) tem plausibilidade mecanística maior, pois a oxacilina é tratamento estabelecido para infecções osteoarticulares por MSSA. Contudo, a literatura recuperada é majoritariamente descritiva (revisões, séries de casos, epidemiologia), sem ensaios diretos de eficácia, e trata-se de uso já dentro da indicação antibacteriana existente. "Laringite" (0,9973, L5) e "infecção do trato urinário" (0,9903, L4) são pouco plausíveis clinicamente: a laringite é majoritariamente viral, e a oxacilina não cobre as enterobactérias, principais causadoras de ITU. Ambas permanecem em Hold.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

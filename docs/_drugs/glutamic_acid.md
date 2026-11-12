@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 346
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Glutamic Acid: nova indicação prevista, Osteoporose pós-menopausa (postmenopausal osteoporosis) (nível de evidência L4). Indicação original: Polivitamínicos com minerais"
 monitor_inn: "GLUTAMIC ACID"
 predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated osteoporosis", "primary hereditary glaucoma", "gastroparesis (disease)"]
@@ -94,6 +94,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Dos 10 registros, 10 estão válidos; o medicamento está comercializado no Brasil.
 
+<!-- review:begin br-lic-20261106-glutamic_acid-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “(Listados os 5 principais, de um total de 10 registros cancelados.)” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-glutamic_acid-1 -->
+
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
 | Registro 104440053 | Organoneuro Cerebral | — | Polivitamínicos com minerais |
@@ -128,7 +134,27 @@ Para advertências e contraindicações formais, consulte a bula.
 - Avaliação da viabilidade regulatória, e da via de administração
 - Avaliação de segurança em pacientes com doença renal ou cardiovascular
 
+<!-- review:begin br-lic-20261106-glutamic_acid-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da viabilidade regulatória, dado que não há registro válido no Brasil, e da via de administração” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-glutamic_acid-2 -->
+
 **Observação sobre outras indicações previstas:** osteoporose associada à gravidez, glaucoma hereditário primário e gastroparesia têm nível de evidência L5 e recomendação Hold. Para o glaucoma, a excitotoxicidade do glutamato sugere risco, e não benefício. Para a gastroparesia, a literatura recuperada (anticorpos anti-GAD) não tem relação com o ácido glutâmico como fármaco.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “(Listados os 5 principais, de um total de 10 registros cancelados.)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

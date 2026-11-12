@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 557
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Quetiapine: nova indicação prevista, Retinopatia distrófica com ou sem anomalias extraoculares (retinal dy… (nível de evidência L5). Indicação original: Antipsicóticos"
 monitor_inn: "quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
@@ -86,6 +86,12 @@ Os resultados são heterogêneos: há relatos favoráveis, mas também um relato
 
 Principais registros:
 
+<!-- review:begin br-lic-20261106-quetiapine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros válidos no mercado brasileiro. Principais registros:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 73 registros para este medicamento, 40 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-quetiapine-2 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431108 | HEMIFUMARATO DE QUETIAPINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -136,12 +142,39 @@ Não há texto de bula disponível para advertências e contraindicações forma
 **Justificativa:**
 - A previsão de maior pontuação (distrofia retiniana com ou sem anomalias extraoculares) e as demais previsões de doenças genéticas ou congênitas não têm ensaios, literatura nem vínculo mecanístico (nível L5). A tricotilomania tem apenas relatos de caso e revisões (L4), sem estudo controlado.
 
+<!-- review:begin br-lic-20261106-quetiapine-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A tricotilomania tem apenas relatos de caso e revisões (L4), sem estudo controlado, e o medicamento é comercializado no Brasil com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 73 registros para este medicamento, 40 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-quetiapine-3 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança.
 - Complementar os dados de mecanismo de ação.
 - Para tricotilomania: realizar revisão sistemática da literatura e, se houver interesse, planejar ensaio controlado randomizado, avaliando o risco de agravamento de sintomas obsessivo-compulsivos.
 - Esclarecer a situação regulatória e a disponibilidade de formas farmacêuticas no Brasil.
 - Elaborar plano de monitoramento metabólico, cardíaco (QT) e hematológico, além de revisão de interações medicamentosas.
+
+<!-- review:begin br-lic-20261031-quetiapine-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória (registros cancelados) e a disponibilidade de formas farmacêuticas no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 73 registros para este medicamento, 40 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-quetiapine-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Há 20 registros válidos no mercado brasileiro” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e o medicamento é comercializado no Brasil com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ethosuximide: nova indicação prevista, Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrom… (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "ethosuximide"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
@@ -86,6 +86,12 @@ As advertências e contraindicações da bula brasileira não foram obtidas nos 
 **Justificativa:**
 A previsão tem apenas a pontuação do modelo como suporte (nível L5), sem ensaios clínicos nem literatura, e não há ligação mecanística plausível entre a etosuximida e a fisiopatologia da NSIAD.
 
+<!-- review:begin br-lic-20261106-ethosuximide-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão tem apenas a pontuação do modelo como suporte (nível L5), sem ensaios clínicos nem literatura, e não há ligação mecanística plausível entre a etosuximida e a fisiopatologia da NSIAD. Além disso, o único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ethosuximide-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter o mecanismo de ação documentado (por exemplo, via DrugBank) e avaliar uma possível ligação com a via do receptor V2/AVPR2.
 - Fazer busca sistemática de literatura e de ensaios clínicos sobre etosuximida em NSIAD ou hiponatremia relacionada.
@@ -93,6 +99,26 @@ A previsão tem apenas a pontuação do modelo como suporte (nível L5), sem ens
 - Realizar validação pré-clínica independente do mecanismo, caso se deseje seguir adiante.
 - Avaliar a viabilidade regulatória e comercial.
 - Considerar o perfil de segurança (sinais hematológicos, hepáticos e renais) antes de qualquer uso em população com NSIAD.
+
+<!-- review:begin br-lic-20261106-ethosuximide-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a viabilidade regulatória e comercial, dado que o registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ethosuximide-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que o registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 141
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -40,6 +40,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Biperideno cloridrato é um anticolinérgico clássico (antagonista muscarínico M1), tradicionalmente utilizado no tratamento da doença de Parkinson e de reações extrapiramidais induzidas por antipsicóticos.
 O modelo TxGNN **não gerou nenhuma previsão de reposicionamento** para este fármaco na rodada atual de análise, impossibilitando a avaliação de novas indicações terapêuticas.
+
+<!-- review:begin br-lic-20261106-biperiden_hydrochloride-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN **não gerou nenhuma previsão de reposicionamento** para este fármaco na rodada atual de análise, impossibilitando a avaliação de novas indicações terapêuticas. / A ausência de registros no mercado brasileiro e os dados de segurança incompletos reforçam a necessidade de complementação de informações antes de qualquer avanço.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-biperiden_hydrochloride-1 -->
 
 ---
 
@@ -82,12 +88,32 @@ Consulte a bula para informações de segurança.
 **Justificativa:**
 O modelo TxGNN não gerou previsões de reposicionamento para biperideno cloridrato nesta rodada em razão de lacunas críticas de dados (DrugBank ID ausente, MOA não estruturado), e as informações de segurança estão indisponíveis.
 
+<!-- review:begin br-lic-20261106-biperiden_hydrochloride-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN não gerou previsões de reposicionamento para biperideno cloridrato nesta rodada em razão de lacunas críticas de dados (DrugBank ID ausente, MOA não estruturado), e as informações de segurança estão indisponíveis. A ausência de registro no mercado brasileiro elimina o ponto de entrada regulatório imediato.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-biperiden_hydrochloride-2 -->
+
 **Para prosseguir, é necessário:**
 - Localizar e registrar o **DrugBank ID** correto para biperideno cloridrato (buscar por "biperiden" em [drugbank.com](https://go.drugbank.com/))
 - Complementar os dados de **MOA** a partir do DrugBank API (DG002 — severidade High)
 - Baixar e analisar a **bula aprovada** (ANVISA, EMA ou FDA) para preencher advertências e contraindicações (DG001 — severidade Blocking)
 - **Re-executar o pipeline TxGNN** com os dados complementados para gerar previsões de reposicionamento
 - Repetir a consulta regulatória com a grafia **"biperideno"** (sem especificação do sal) para verificar possíveis registros ANVISA não capturados
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “A ausência de registros no mercado brasileiro e os dados de segurança incompletos reforçam a necessidade de complementação de informações an” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “A ausência de registro no mercado brasileiro elimina o ponto de entrada regulatório imediato” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

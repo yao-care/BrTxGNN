@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Isotretinoin: nova indicação prevista, Doença Renal Hipertensiva Maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -66,6 +66,12 @@ Como não há estudo clínico nem publicação que avalie diretamente esta doen�
 
 A lista detalhada de registros não está disponível nos dados compilados.
 
+<!-- review:begin br-lic-20261106-isotretinoin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados, os 3 registros existentes no Brasil estão cancelados e não há registro válido. A lista detalhada de registros não está disponível nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 44 registros para este medicamento, 13 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-isotretinoin-1 -->
+
 ## Considerações de Segurança
 
 - **Contraindicações (relatadas nos dados compilados, não extraídas de bula):** os dados apontam relação de contraindicação com condições como doença renal, doença hepática, pancreatite, doenças da vesícula biliar, doença inflamatória intestinal, osteoporose, lúpus eritematoso sistêmico, transtornos psicóticos e outros transtornos mentais, ansiedade, diabetes mellitus e cetoacidose diabética, neutropenia e agranulocitose, angioedema (incluindo o hereditário) e condições hipotensivas. Isso exige verificação na bula.
@@ -81,12 +87,32 @@ Consulte a bula para informações de segurança complementares.
 **Justificativa:**
 - A previsão se sustenta apenas na pontuação do modelo, sem ensaios clínicos nem literatura sobre esta doença. Há contraindicações e interações relevantes.
 
+<!-- review:begin br-lic-20261106-isotretinoin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os registros no Brasil estão todos cancelados, e há contraindicações e interações relevantes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 44 registros para este medicamento, 13 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-isotretinoin-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) da isotretinoína
 - Revisão da indicação original registrada, por possível erro de mapeamento
 - Bula da ANVISA com advertências e contraindicações
 - Estudos pré-clínicos e clínicos que avaliem diretamente a doença renal hipertensiva maligna
 - Avaliação do perfil de segurança (teratogenicidade, lipídios, função hepática e renal) em pacientes com hipertensão e comprometimento renal
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Segundo os dados compilados, os 3 registros existentes no Brasil estão cancelados e não há registro válido” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Os registros no Brasil estão todos cancelados, e h” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

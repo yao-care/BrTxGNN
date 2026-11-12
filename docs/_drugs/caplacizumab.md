@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 187
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Caplacizumab: nova indicação prevista, Transtorno primário de liberação plaquetária (primary release disorde… (nível de evidência L5). Indicação original: Antitrombótico"
 monitor_inn: "caplacizumab"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "hemophilia", "platelet-type bleeding disorder"]
@@ -102,13 +102,39 @@ Para advertências e contraindicações, consulte a bula.
 - Não há ensaios clínicos nem publicações para esta indicação (nível L5).
 - O mecanismo de ação (inibição da adesão plaquetária mediada por vWF) sugere possível piora de um distúrbio hemorrágico, o que contraria a previsão do modelo.
 
+<!-- review:begin br-lic-20261106-caplacizumab-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O mecanismo de ação (inibição da adesão plaquetária mediada por vWF) sugere possível piora de um distúrbio hemorrágico, o que contraria a previsão do modelo. / O único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-caplacizumab-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados detalhados do mecanismo de ação e uma justificativa biológica que explique como bloquear vWF-GPIb poderia beneficiar um defeito de secreção plaquetária.
 - Estudos pré-clínicos que mostrem benefício e não piora do fenótipo hemorrágico.
 - Avaliação de segurança, com análise específica do risco de sangramento, e consulta à bula para advertências e contraindicações.
 - Esclarecimento do status regulatório no Brasil.
 
+<!-- review:begin br-lic-20261031-caplacizumab-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecimento do status regulatório no Brasil (registro cancelado).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-caplacizumab-1 -->
+
 **Observação:** na mesma lista de previsões, a **púrpura trombocitopênica trombótica (PTT)** aparece como o 5º alvo, com 8 ensaios clínicos (incluindo os Phase 3 HERCULES e Post-HERCULES) e 20 publicações, nível de evidência L1 e recomendação *Proceed with Guardrails*. Trata-se, porém, da indicação já aprovada do fármaco e não de um reposicionamento propriamente dito. Se o objetivo é avaliar o potencial real de caplacizumabe, vale analisar o relatório dessa indicação, com atenção ao risco hemorrágico, ao uso concomitante de troca plasmática e imunossupressão e à duração guiada pela atividade de ADAMTS13.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Cefazolin"
 predicted_indications: ["infectious otitis media", "bronchitis", "middle ear disease", "chronic otitis media", "suppurative otitis media", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Cefazolin: nova indicação prevista, Otite média infecciosa (infectious otitis media) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -75,6 +75,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 A lista pode ser parcial. Os dados compilados não trazem o detalhamento dos registros (número, nome comercial, forma farmacêutica), por isso a tabela não é apresentada.
 
+<!-- review:begin br-lic-20261106-cefazolin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os registros locais, há 5 registros válidos e 15 cancelados, e a lista pode ser parcial.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 32 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cefazolin-1 -->
+
 ## Considerações de Segurança
 
 - **Interações medicamentosas** (100 interações registradas; principais de nível moderado):
@@ -96,6 +102,19 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Dados do mecanismo de ação e da bula (advertências e contraindicações) para triagem de segurança.
 - Estudos clínicos que avaliem diretamente a cefazolina na otite média, com comparação contra os tratamentos padrão.
 - Dados de sensibilidade dos patógenos da otite média à cefazolina e análise de viabilidade da via de administração.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Segundo os registros locais, há 5 registros válidos e 15 cancelados, e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

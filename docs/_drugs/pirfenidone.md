@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 528
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Pirfenidone: nova indicação prevista, Mastocitoma extracutâneo (extracutaneous mastocytoma) (nível de evidência L5). Indicação original: Outros produtos para o aparelho respiratório"
 monitor_inn: "pirfenidone"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
@@ -117,6 +117,12 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 **Justificativa:**
 - A previsão tem pontuação alta, mas é apenas computacional (L5), sem ensaios nem literatura, sem vínculo mecanístico com a doença impulsionada por KIT.
 
+<!-- review:begin br-lic-20261031-pirfenidone-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “A previsão tem pontuação alta, mas é apenas computacional (L5), sem ensaios nem literatura, sem vínculo mecanístico com a doença impulsionada por KIT, e o fármaco não tem registro vigente no Brasil (apenas registros cancelados).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-pirfenidone-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), uma lacuna que bloqueia a triagem de segurança.
@@ -124,6 +130,26 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 - Realizar estudos pré-clínicos que testem a hipótese em modelos de neoplasias de mastócitos.
 - Confirmar a situação regulatória.
 - Considerar, como alternativa de pesquisa, a indicação "neoplasia fibroblástica" (L4), somente após a avaliação de segurança.
+
+<!-- review:begin br-lic-20261106-pirfenidone-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar a situação regulatória, já que o medicamento está comercializado no Brasil, com 3 registros válidos de 3.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-pirfenidone-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “e o fármaco não tem registro vigente no Brasil (apenas registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que o medicamento está comercializado no Brasil, com 3 registros válidos de 3” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

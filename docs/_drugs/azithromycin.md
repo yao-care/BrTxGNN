@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 100
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Azithromycin: nova indicação prevista, Hiperamilasemia (Hyperamylasemia) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 monitor_inn: "Azithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -83,6 +83,12 @@ Atualmente não há literatura relacionada.
 
 Principais registros:
 
+<!-- review:begin br-lic-20261106-azithromycin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Foram encontrados 20 registros válidos. Principais registros:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 134 registros para este medicamento, 53 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-azithromycin-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430902 | AZITROMICINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -139,13 +145,40 @@ Consulte a bula para as advertências e contraindicações oficiais, pois esses 
 **Justificativa:**
 A previsão para hiperamilasemia tem pontuação alta no modelo, mas não conta com nenhum ensaio clínico, nenhuma publicação nem mecanismo plausível (nível L5).
 
+<!-- review:begin br-lic-20261106-azithromycin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para hiperamilasemia tem pontuação alta no modelo, mas não conta com nenhum ensaio clínico, nenhuma publicação nem mecanismo plausível (nível L5). O medicamento está comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 134 registros para este medicamento, 53 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-azithromycin-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da azitromicina e justificativa biológica para a indicação prevista
 - Bula da ANVISA com advertências e contraindicações oficiais
 - Definição de que a hiperamilasemia, sendo um achado laboratorial, constitui um alvo terapêutico clinicamente relevante
 - Confirmação da situação regulatória atual no Brasil
 
+<!-- review:begin br-lic-20261106-azithromycin-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmação da situação regulatória atual no Brasil (medicamento comercializado, com 20 registros válidos)” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 134 registros para este medicamento, 53 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-azithromycin-3 -->
+
 **Observação sobre outras indicações previstas:** entre as demais previsões, a de **doença hematológica congênita** (ligada a complicações da doença falciforme, como a síndrome torácica aguda) é a que reúne mais respaldo (nível L3), mas os dois únicos ensaios identificados foram retirados sem inclusão de participantes. A previsão de **gamopatia monoclonal** (L4) conta com apenas um estudo pré-clínico in vitro em mieloma. Ambas poderiam ser consideradas questões de pesquisa em avaliações futuras, mas não alteram a decisão para a indicação principal deste relatório.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Foram encontrados 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(medicamento comercializado, com 20 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

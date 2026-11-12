@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 385
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Lactic Acid: nova indicação prevista, Coarctação atípica da aorta (atypical coarctation of aorta) (nível de evidência L5). Indicação original: Demulcentes e outros medicamentos de uso oral para trata…"
 monitor_inn: "lactic acid"
 predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "non-syndromic esophageal malformation", "amenorrhea (disease)", "dry eye syndrome"]
@@ -110,11 +110,30 @@ Não há dados de advertências e contraindicações da bula para este produto. 
 **Justificativa:**
 - A previsão principal tem apenas suporte computacional (L5), sem ensaios clínicos nem literatura pertinente, e não há vínculo mecanístico plausível entre o ácido lático e uma malformação vascular estrutural.
 
+<!-- review:begin br-lic-20261106-lactic_acid-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão principal tem apenas suporte computacional (L5), sem ensaios clínicos nem literatura pertinente, e não há vínculo mecanístico plausível entre o ácido lático e uma malformação vascular estrutural. Além disso, o único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-lactic_acid-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank).
 - Obter a bula na ANVISA para avaliar advertências e contraindicações, etapa que bloqueia a triagem de segurança.
 - Se houver interesse em explorar hipóteses, priorizar a **síndrome do olho seco** (L4) como questão de pesquisa, com avaliação prévia de segurança ocular, dado o potencial irritante do ácido lático na superfície ocular.
 - Verificar a compatibilidade de via de administração entre o uso original (oral) e qualquer nova indicação.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

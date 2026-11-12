@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 73
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Arginine: nova indicação prevista, Gastroparesia (Gastroparesis) (nível de evidência L4). Indicação original: Vitaminas e suplementos minerais"
 monitor_inn: "ARGININE"
 predicted_indications: ["gastroparesis (disease)"]
@@ -140,12 +140,38 @@ Consulte a bula para advertências e contraindicações oficiais, pois estas nã
 **Justificativa:**
 A previsão se apoia apenas em estudos pré-clínicos em roedores e em uma pontuação computacional do modelo (nível L4), sem nenhum ensaio clínico. Além disso, embora o medicamento seja comercializado no Brasil, o perfil de segurança oficial não está disponível, o que impede a triagem de segurança.
 
+<!-- review:begin br-lic-20261106-arginine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Além disso, embora o medicamento seja comercializado no Brasil (18 registros válidos de 18), o perfil de segurança oficial não está disponível, o que impede a triagem de segurança.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 73 registros para este medicamento, 24 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-arginine-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Verificar se a suplementação de arginina reverte a gastroparesia em modelos animais e, em seguida, avaliar estudos exploratórios em humanos
 - Avaliar o impacto das contraindicações sugeridas pelo grafo de conhecimento (renal, cardiovascular, metabólicas) em pacientes com gastroparesia, como os diabéticos
 - Avaliar a viabilidade regulatória e comercial
+
+<!-- review:begin br-lic-20261106-arginine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a viabilidade regulatória e comercial, dado que não há registro válido no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 73 registros para este medicamento, 24 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-arginine-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “(18 registros válidos de 18)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

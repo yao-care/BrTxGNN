@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 382
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ketoconazole: nova indicação prevista, Acne (acne (disease)) (nível de evidência L4). Indicação original: Antimicótico"
 monitor_inn: "KETOCONAZOLE"
 predicted_indications: ["acne (disease)"]
@@ -86,6 +86,12 @@ A pontuação elevada do TxGNN é apenas uma previsão computacional. Parte da l
 
 O medicamento está comercializado. Os cinco primeiros são listados abaixo (a forma farmacêutica não consta nos dados compilados).
 
+<!-- review:begin br-lic-20261106-ketoconazole-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros válidos e o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 259 registros para este medicamento, 69 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ketoconazole-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430797 | CETOCONAZOL + DIPROPIONATO DE BETAMETASONA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -134,11 +140,38 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 **Justificativa:**
 - A previsão se apoia apenas no modelo, em dados in vitro e em um ensaio pequeno sem resultados (nível L4). O perfil de segurança sistêmico é desfavorável.
 
+<!-- review:begin br-lic-20261106-ketoconazole-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há registro válido no Brasil, e o perfil de segurança sistêmico é desfavorável.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 259 registros para este medicamento, 69 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ketoconazole-2 -->
+
 **Para prosseguir, é necessário:**
 - Resultados do ensaio NCT07237763 (cetoconazol 2% vs. adapaleno 2%) e, se positivos, ensaios randomizados maiores de fase 2/3 na via tópica
 - Dados de bula da ANVISA sobre advertências e contraindicações, atualmente ausentes
 - Dados detalhados de mecanismo de ação a partir do DrugBank
 - Distinção clara entre acne vulgar e foliculite por *Malassezia* nos estudos futuros
+
+<!-- review:begin br-lic-20261106-ketoconazole-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Dados detalhados de mecanismo de ação a partir do DrugBank / Avaliação da viabilidade regulatória de um novo registro tópico, considerando que há 20 registros válidos atualmente” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 259 registros para este medicamento, 69 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ketoconazole-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há 20 registros válidos e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Não há registro válido no Brasil, e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Avaliação da viabilidade regulatória de um novo registro tópico, considerando que há 20 registros válidos atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

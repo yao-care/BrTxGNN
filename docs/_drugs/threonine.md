@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 634
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Threonine: nova indicação prevista, Gastroparesia (Gastroparesis) (nível de evidência L5). Indicação original: Produtos para dietas especiais"
 monitor_inn: "THREONINE"
 predicted_indications: ["gastroparesis (disease)"]
@@ -115,11 +115,37 @@ Para advertências e contraindicações completas, consulte a bula.
 **Justificativa:**
 A previsão para gastroparesia tem apenas respaldo computacional (nível L5), sem ensaios clínicos ou literatura, e sem mecanismo plausível documentado. O escore de 0.9932 vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica.
 
+<!-- review:begin br-lic-20261106-threonine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O escore de 0.9932 vem do modelo TxGNN (deep learning) e pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. O medicamento está comercializado no Brasil, com 17 registros válidos de 17.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 33 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-threonine-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da treonina e de uma possível relação com a motilidade gástrica
 - Busca sistemática de ensaios clínicos e literatura sobre treonina em gastroparesia
 - Bulas da ANVISA com advertências e contraindicações, para a triagem de segurança
 - Esclarecimento da situação regulatória atual e das vias de administração compatíveis com a nova indicação
+
+<!-- review:begin br-lic-20261106-threonine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecimento da situação regulatória atual (medicamento comercializado, com 17 registros válidos de 17) e das vias de administração compatíveis com a nova indicação” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 33 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-threonine-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O medicamento está comercializado no Brasil, com 17 registros válidos de 17” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(medicamento comercializado, com 17 registros válidos de 17)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

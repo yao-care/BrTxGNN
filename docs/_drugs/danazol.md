@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Danazol: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -87,6 +87,12 @@ Nenhuma das publicações é um ensaio randomizado que estude a amenorreia como 
 
 Segundo os dados compilados para este relatório, o danazol consta como comercializado no Brasil, com 4 registros no total, dos quais 1 válido e 3 cancelados.
 
+<!-- review:begin br-lic-20261106-danazol-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados para este relatório, o danazol consta como comercializado no Brasil, com 4 registros no total, dos quais 1 válido e 3 cancelados. Os detalhes individuais dos registros (número, nome comercial e forma farmacêutica) não estão disponíveis nos dados compilados.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-danazol-1 -->
+
 ## Considerações de Segurança
 
 - **Interações medicamentosas**: foram identificadas 100 interações no total. Entre as listadas, a de maior gravidade é com **cisaprida (Major)**. Há várias interações de nível moderado com antidiabéticos (acarbose, glimepirida, glipizida, glibenclamida, clorpropamida, insulina humana, inibidores de SGLT2 como dapagliflozina, empagliflozina e canagliflozina, e agonistas de GLP-1 como exenatida e dulaglutida), com budesonida e com eliglustate. A literatura também descreve interação clinicamente relevante com carbamazepina (aumento de quase duas vezes nos níveis séricos) e rabdomiólise com pancreatite na coadministração com lovastatina.
@@ -108,6 +114,18 @@ Consulte a bula para as advertências e contraindicações oficiais.
 - Obter da ANVISA a bula com advertências e contraindicações
 - Dados detalhados do mecanismo de ação
 - Plano de monitoramento de segurança (interações medicamentosas, efeitos androgênicos, risco na gravidez)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os detalhes individuais dos registros (número, nome comercial e forma farmacêutica) não estão disponíveis nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

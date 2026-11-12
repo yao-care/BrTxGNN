@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 459
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "miglustat"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
 description: "Miglustat: nova indicação prevista, Autosomal ichthyosis syndrome with fatal disease course (nível de evidência L5). Indicação original: OUTROS PRODS NAO ENQUADRADOS EM CLASSE TERAPEUTICA ESPECIF"
@@ -127,6 +127,12 @@ Para advertências e contraindicações formais, consulte a bula.
 **Justificativa:**
 Há racional mecanístico coerente e ensaios clínicos reais em gangliosidose GM2, mas os estudos são pequenos, vários foram encerrados precocemente e os resultados de eficácia são inconsistentes. Os dados de segurança da bula brasileira estão ausentes.
 
+<!-- review:begin br-lic-20261106-miglustat-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os dados de segurança da bula brasileira estão ausentes e o único registro no Brasil está cancelado, de modo que só se justifica avançar como questão de pesquisa, com salvaguardas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-miglustat-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
 - Complementar os dados oficiais de mecanismo de ação (DrugBank).
@@ -151,6 +157,18 @@ Todas com nível L5 e recomendação **Hold**, sem ensaios clínicos ou literatu
 | 8 | Neoplasia benigna da glândula adrenal | 0,9974 | Nenhum mecanismo plausível identificado |
 | 9 | Ictiose recessiva ligada ao X | 0,9973 | Vínculo especulativo |
 | 10 | Neurodegeneração associada à hidroxilase de ácidos graxos | 0,9972 | Direção do efeito incerta |
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o único registro no Brasil está cancelado, de modo que só se justifica avançar como questão de pesquisa, com salvaguardas” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

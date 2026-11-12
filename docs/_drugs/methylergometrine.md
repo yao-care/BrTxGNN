@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 452
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "methylergometrine"
 predicted_indications: ["hypertrichosis (disease)", "pulmonary hypertension", "migraine disorder", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "kyphoscoliotic heart disease", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Methylergometrine: nova indicação prevista, Hipertricose (hypertrichosis (disease)) (nível de evidência L5). Indicação original: OCITOCICOS NAO HORMONAIS"
@@ -101,11 +101,37 @@ As advertências e contraindicações oficiais da bula não estavam disponíveis
 **Justificativa:**
 - A previsão para hipertricose é apenas um resultado do modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível.
 
+<!-- review:begin br-lic-20261106-methylergometrine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para hipertricose é apenas um resultado do modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, o único registro no Brasil está cancelado e há preocupações de segurança relevantes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-methylergometrine-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (MOA) do fármaco.
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem esses dados.
 - Caso se deseje explorar alguma direção, a enxaqueca é a única com racional biológico (via metisergida). Seria necessária uma revisão de literatura específica e uma avaliação de segurança vascular, tratando-a como questão de pesquisa e não como candidata a desenvolvimento.
 - Esclarecer a situação regulatória.
+
+<!-- review:begin br-lic-20261106-methylergometrine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória, já que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-methylergometrine-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado e há preocupações de segurança relevantes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

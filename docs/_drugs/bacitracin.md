@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bacitracin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Bacitracin: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconjunctivitis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -66,6 +66,12 @@ Há, porém, uma limitação importante: a ceratoconjuntivite epitelial punctata
 
 A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.
 
+<!-- review:begin br-lic-20261106-bacitracin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados para este relatório, a situação de mercado é **comercializado**, com **8 registros válidos** e **12 registros cancelados**. A lista de registros pode estar incompleta (registros parciais), e os detalhes individuais (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados recebidos.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 75 registros para este medicamento, 30 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-bacitracin-1 -->
+
 ## Considerações de Segurança
 
 - **Interações medicamentosas** (84 interações registradas; principais exemplos):
@@ -87,6 +93,19 @@ Para advertências e contraindicações formais, consulte a bula, pois esses dad
 - Dados do mecanismo de ação (MOA) do fármaco.
 - Texto da bula da ANVISA com advertências e contraindicações, para a triagem de segurança.
 - Confirmação da compatibilidade de via de administração e formulação oftálmica disponíveis no Brasil.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Segundo os dados compilados para este relatório, a situação de mercado é **comercializado**, com **8 registros válidos** e **12 registros ca” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Methotrexate: nova indicação prevista, Blastoma Pulmonar (Pulmonary Blastoma) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
@@ -93,6 +93,18 @@ Atualmente não há literatura relacionada para Blastoma Pulmonar.
 
 O metotrexato está atualmente comercializado.
 
+<!-- review:begin br-lic-20261106-methotrexate-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 10 registros encontrados estão **válidos**; o metotrexato está atualmente comercializado (10 registros válidos de 10).” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 28 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-methotrexate-2 -->
+
+<!-- review:begin br-lic-20261106-methotrexate-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “*(Exibidos os 5 primeiros de 10 registros, todos cancelados.)*” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 28 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-methotrexate-3 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330137 | FAULDMETRO | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -160,12 +172,40 @@ Consulte a bula para advertências e contraindicações oficiais.
 - A previsão para Blastoma Pulmonar tem apenas a pontuação do modelo (nível L5), sem ensaios clínicos nem literatura.
 - Entre as indicações previstas, Linfoma de Hodgkin e Rabdomiossarcoma têm evidência um pouco mais robusta (L3), mas ainda indireta ou antiga, por isso são classificadas como questões de pesquisa.
 
+<!-- review:begin br-lic-20261106-methotrexate-4 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para Blastoma Pulmonar tem apenas a pontuação do modelo (nível L5), sem ensaios clínicos nem literatura. Por outro lado, o medicamento está comercializado no Brasil, com 10 registros válidos de 10.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 28 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-methotrexate-4 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
 - Complementar os dados de mecanismo de ação (DrugBank).
 - Realizar revisão de literatura e de relatos de caso específicos de blastoma pulmonar.
 - Esclarecer a situação regulatória e a disponibilidade de formulações.
 - Avaliar o risco de toxicidade pulmonar do metotrexato em contexto de tumor pulmonar.
+
+<!-- review:begin br-lic-20261031-methotrexate-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória (registros cancelados) e a disponibilidade de formulações.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 28 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-methotrexate-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Todos os 10 registros encontrados estão **válidos**; o (10 registros válidos de 10)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “*(Exibidos os 5 primeiros de 10 registros, todos cancelados.)*” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Por outro lado, o medicamento está comercializado no Brasil, com 10 registros válidos de 10” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

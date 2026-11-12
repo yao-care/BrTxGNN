@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 571
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Rivaroxaban: nova indicação prevista, Artrite Reumatoide (Rheumatoid Arthritis) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Rivaroxaban"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
@@ -84,12 +84,31 @@ Atualmente não há ensaios clínicos relacionados registrados.
 **Justificativa:**
 A previsão é apenas do modelo (L5): não há ensaios clínicos e a literatura recuperada não testa a rivaroxabana na artrite reumatoide.
 
+<!-- review:begin br-lic-20261106-rivaroxaban-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão é apenas do modelo (L5): não há ensaios clínicos e a literatura recuperada não testa a rivaroxabana na artrite reumatoide. Além disso, o fármaco não tem registro vigente no Brasil nos dados compilados, e a segurança em artrite reumatoide (risco de sangramento, interações) não foi avaliada.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 59 registros para este medicamento, 49 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-rivaroxaban-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança)
 - Obter dados do mecanismo de ação do fármaco (DrugBank)
 - Confirmar a situação regulatória no Brasil e a indicação original
 - Realizar estudos pré-clínicos ou de prova de conceito que testem a inibição do fator Xa/trombina na artrite reumatoide
 - Avaliar o risco de sangramento e as interações medicamentosas em pacientes com artrite reumatoide (por exemplo, uso concomitante de AINEs e corticoides)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o fármaco não tem registro vigente no Brasil nos dados compilados, e a segurança em artrite reumatoide (risco de sangramento, in” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

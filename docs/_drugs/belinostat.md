@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 113
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Belinostat: nova indicação prevista, Leucemia Mieloide (Myeloid Leukemia) (nível de evidência L2). Indicação original: Antineoplásico"
 monitor_inn: "belinostat"
 predicted_indications: ["myeloid leukemia", "plasma cell myeloma", "indolent plasma cell myeloma"]
@@ -41,6 +41,12 @@ Nível de evidência: **L2** | Indicações previstas: **3**
 Belinostat é um inibidor de histona desacetilase (HDAC), registrado no Brasil apenas com a indicação genérica de "antineoplásico".
 O modelo TxGNN prevê que pode ser eficaz para **Leucemia Mieloide (Myeloid Leukemia)**,
 atualmente com **6 ensaios clínicos** e **20 publicações** relacionadas a esta direção (das quais 4 são estudos clínicos de Fase 1/2 diretamente relevantes).
+
+<!-- review:begin br-lic-20261106-belinostat-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Belinostat é um inibidor de histona desacetilase (HDAC), registrado no Brasil apenas com a indicação genérica de "antineoplásico" (registro atualmente cancelado).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-belinostat-1 -->
 
 ---
 
@@ -134,12 +140,39 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 - Apesar da pontuação TxGNN muito alta (0,9953) e da plausibilidade biológica, as evidências clínicas se limitam a um Fase 2 pequeno (n=12) e a estudos de Fase 1 de combinação, sem sinal claro de eficácia. Não há dados de bula (advertências e contraindicações) para a triagem de segurança.
 
+<!-- review:begin br-lic-20261106-belinostat-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O único registro brasileiro está cancelado e não há dados de bula (advertências e contraindicações) para a triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-belinostat-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter a bula na ANVISA para advertências e contraindicações (lacuna bloqueante da triagem de segurança)
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank)
 - Revisar os resultados de eficácia (taxas de resposta) dos estudos de Fase 1/2 e definir qual combinação tem sinal mais promissor
 - Avaliar a viabilidade regulatória e de acesso
 - Planejar monitoramento cardíaco (QTc) e hematológico, além de revisão das interações medicamentosas relevantes
+
+<!-- review:begin br-lic-20261106-belinostat-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a viabilidade regulatória e de acesso, dado que o registro no Brasil está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-belinostat-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “(registro atualmente cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O único registro brasileiro está cancelado e n” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que o registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

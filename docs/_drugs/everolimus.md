@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 306
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Everolimus: nova indicação prevista, Lipossarcoma (liposarcoma) (nível de evidência L2). Indicação original: Agente imunossupressor"
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
@@ -132,7 +132,26 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 - Esclarecer a situação regulatória e a viabilidade de comercialização no Brasil.
 - Planejar um estudo comparativo ou com braço de everolimo isolado para definir a contribuição do fármaco.
 
+<!-- review:begin br-lic-20261031-everolimus-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória (registros cancelados) e a viabilidade de comercialização no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 14 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-everolimus-1 -->
+
 **Observação:** entre as demais previsões, o **carcinoma de células renais não classificado** apresenta evidências mais robustas (diversos estudos de Fase 2, incluindo os randomizados ASPEN e ESPN, nível L2, recomendação "Proceed with Guardrails"), mas em populações mistas de carcinoma de células não claras. Vale considerá-lo como candidato prioritário em avaliação paralela.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 472
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Nitisinone: nova indicação prevista, Acidose tubular renal (renal tubular acidosis) (nível de evidência L5). Indicação original: Outros produtos para o trato alimentar e metabolismo"
 monitor_inn: "nitisinone"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
@@ -84,12 +84,24 @@ Para advertências e contraindicações da bula, consulte a bula aprovada, pois 
 **Justificativa:**
 - A previsão se baseia apenas no modelo (L5), sem ensaios clínicos ou literatura, e o mecanismo proposto é indireto.
 
+<!-- review:begin br-lic-20261031-nitisinone-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “A previsão se baseia apenas no modelo (L5), sem ensaios clínicos ou literatura, e o mecanismo proposto é indireto. Além disso, no Brasil só há registros cancelados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-nitisinone-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter os dados do mecanismo de ação (MOA) por meio do DrugBank.
 - Baixar e analisar a bula da ANVISA para a triagem de segurança, hoje bloqueante.
 - Realizar revisão sistemática da literatura sobre nitisinona e tubulopatia renal/acidose tubular.
 - Avaliar estudos pré-clínicos que testem a hipótese de proteção tubular.
 - Esclarecer a situação regulatória atual e a disponibilidade do produto no país.
+
+<!-- review:begin br-lic-20261031-nitisinone-2 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória atual (registros cancelados) e a disponibilidade do produto no país.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-nitisinone-2 -->
 
 ---
 
@@ -106,6 +118,19 @@ Para advertências e contraindicações da bula, consulte a bula aprovada, pois 
 | 8 | Síndrome de Griscelli | 0,9987 | L5 | Ligação tênue pela via da tirosina/melanina; a nitisinona eleva a tirosina e não corrige o defeito |
 | 9 | Doença granulomatosa crônica ligada ao X | 0,9987 | L5 | Sem relação mecanística conhecida |
 | 10 | Fenótipo ermine | 0,9987 | L5 | Ligação especulativa pela via tirosina/melanina |
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “Além disso, no Brasil só há registros cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

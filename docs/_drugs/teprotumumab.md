@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 613
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Teprotumumab: nova indicação prevista, Monossomia do X (Monosomy X) (nível de evidência L5). Indicação original: Imunossupressor"
 monitor_inn: "teprotumumab"
 predicted_indications: ["monosomy X", "esophageal varices with bleeding", "esophageal varices without bleeding", "mixed gonadal dysgenesis", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Turner syndrome due to structural X chromosome anomalies", "mosaic monosomy X", "sex chromosome disorder of sex development", "varicose disease", "X chromosome number anomaly"]
@@ -97,12 +97,38 @@ Para demais informações de segurança, consulte a bula.
 **Justificativa:**
 Não há ensaios clínicos nem literatura para nenhuma das indicações previstas (nível L5). Além disso, o mecanismo conhecido (inibição do IGF-1R) é contrário ao benefício esperado em doenças com déficit de crescimento.
 
+<!-- review:begin br-lic-20261106-teprotumumab-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Além disso, o mecanismo conhecido (inibição do IGF-1R) é contrário ao benefício esperado em doenças com déficit de crescimento, e o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-teprotumumab-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação detalhado, obtidos de fontes como o DrugBank
 - Bula do ANVISA com advertências e contraindicações, hoje ausente e que impede a triagem de segurança
 - Evidências pré-clínicas ou clínicas que sustentem qualquer das indicações previstas
 - Avaliação de compatibilidade de via de administração e de similaridade com a indicação original
 - Reavaliação do status regulatório
+
+<!-- review:begin br-lic-20261106-teprotumumab-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Reavaliação do status regulatório, já que o registro está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-teprotumumab-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

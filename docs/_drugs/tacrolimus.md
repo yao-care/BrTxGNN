@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 602
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: nova indicação prevista, Dermatite seborreica (seborrheic dermatitis) (nível de evidência L1). Indicação original: Não consta nos dados locais"
@@ -99,11 +99,37 @@ Consulte a bula para as advertências e contraindicações oficiais.
 **Justificativa:**
 - Há um ensaio de Fase 3 concluído (n=120), um estudo de Fase 4 concluído (n=104) e um estudo clínico publicado de manutenção, todos diretamente voltados à dermatite seborreica facial com tacrolimo 0,1% pomada.
 
+<!-- review:begin br-lic-20261031-tacrolimus-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há um ensaio de Fase 3 concluído (n=120), um estudo de Fase 4 concluído (n=104) e um estudo clínico publicado de manutenção, todos diretamente voltados à dermatite seborreica facial com tacrolimo 0,1% pomada. Contudo, o tacrolimo não possui registro comercializado no Brasil e as preocupações de classe (malignidade, linfoma) exigem cautela.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 30 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-tacrolimus-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), atualmente ausente.
 - Complementar os dados de mecanismo de ação na base do fármaco.
 - Confirmar resultados publicados dos ensaios NCT02004860 e NCT01591070 (eficácia e taxa de recaída).
 - Avaliar a via regulatória no Brasil, e definir plano de monitoramento de segurança de longo prazo (risco de malignidade, infecções cutâneas) para uso de manutenção.
+
+<!-- review:begin br-lic-20261106-tacrolimus-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a via regulatória no Brasil, já que não há registro vigente, e definir plano de monitoramento de segurança de longo prazo (risco de malignidade, infecções cutâneas) para uso de manutenção.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 30 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tacrolimus-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Contudo, o tacrolimo não possui registro comercializado no Brasil e as preocupações de classe (malignidade, linfoma) exigem cautela” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

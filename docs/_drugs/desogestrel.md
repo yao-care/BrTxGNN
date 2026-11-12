@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 258
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Desogestrel: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Desogestrel"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "acne (disease)", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
@@ -107,6 +107,12 @@ As advertências e contraindicações da bula brasileira não foram obtidas; con
 **Justificativa:**
 A pontuação do modelo é alta, mas a evidência direta é limitada: o único ensaio (Phase 3) não demonstra que o desogestrel seja a intervenção avaliada, e a literatura é composta sobretudo por revisões e estudos indiretos com contraceptivos combinados.
 
+<!-- review:begin br-lic-20261106-desogestrel-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A pontuação do modelo é alta, mas a evidência direta é limitada: o único ensaio (Phase 3) não demonstra que o desogestrel seja a intervenção avaliada, e a literatura é composta sobretudo por revisões e estudos indiretos com contraceptivos combinados. Além disso, o fármaco não tem registro ativo no Brasil e faltam dados de bula e de mecanismo, o que impede avançar na triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 80 registros para este medicamento, 40 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-desogestrel-1 -->
+
 **Para prosseguir, é necessário:**
 - Verificar os braços de intervenção do NCT00946192 para confirmar se o desogestrel é avaliado.
 - Obter a bula da ANVISA (advertências e contraindicações) e dados de mecanismo de ação (DrugBank).
@@ -114,7 +120,27 @@ A pontuação do modelo é alta, mas a evidência direta é limitada: o único e
 - Buscar estudos que avaliem desogestrel (isolado ou combinado) em amenorreia, separando o efeito do progestágeno do efeito do estrogênio.
 - Definir a similaridade com a indicação original e analisar a relação risco-benefício, dadas as contraindicações (p. ex., risco tromboembólico, hipertensão, doença hepática).
 
+<!-- review:begin br-lic-20261106-desogestrel-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória no Brasil (ausência de registros) e a viabilidade de vias de administração.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 80 registros para este medicamento, 40 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-desogestrel-2 -->
+
 **Outras indicações previstas (contexto):** acne (L3; ensaio de fase 4 com norgestimato, não desogestrel, além de estudos específicos de desogestrel como PMID 8894800 e 8689881) é a segunda direção com mais evidências. As demais previsões (adenose mamária, abscesso mamário, necrose gordurosa da mama, doença da lactação, insuficiência ovariana primária e síndrome do X frágil em portadoras) têm apenas previsão do modelo ou evidência indireta (L4–L5), e a recomendação para elas é Hold.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o fármaco não tem registro ativo no Brasil e faltam dados de bula e de mecanismo, o que impede avançar na triagem de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(ausência de registros)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 457
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Miconazole: nova indicação prevista, Acne (acne vulgaris) (nível de evidência L4). Indicação original: Antimicótico"
 monitor_inn: "Miconazole"
 predicted_indications: ["acne (disease)"]
@@ -64,6 +64,12 @@ O suporte clínico é pequeno: um estudo de face dividida em acne catamenial inf
 ## Evidências de Ensaios Clínicos
 
 Atualmente não há ensaios clínicos relacionados registrados.
+
+<!-- review:begin br-lic-20261106-miconazole-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 131 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-miconazole-2 -->
 
 ## Evidências da Literatura
 
@@ -131,6 +137,12 @@ Consulte a bula para advertências e contraindicações formais, pois os dados d
 **Justificativa:**
 - A previsão para acne tem pontuação alta (0,9954), mas as evidências são de nível L4: nenhum ensaio registrado, apenas um estudo pequeno, uma revisão e dados in vitro.
 
+<!-- review:begin br-lic-20261106-miconazole-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para acne tem pontuação alta (0,9954), mas as evidências são de nível L4: nenhum ensaio registrado, apenas um estudo pequeno, uma revisão e dados in vitro. Além disso, o miconazol está comercializado no Brasil, com 16 registros válidos de 16, e não há dados de bula para avaliação de segurança.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 131 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-miconazole-3 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados.
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank).
@@ -138,7 +150,28 @@ Consulte a bula para advertências e contraindicações formais, pois os dados d
 - Verificar a disponibilidade de produtos e a via de administração (tópica) compatível com a nova indicação.
 - Avaliar o perfil de interações medicamentosas, sobretudo se houver absorção sistêmica relevante.
 
+<!-- review:begin br-lic-20261031-miconazole-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Verificar a disponibilidade de produtos e a via de administração (tópica) compatível com a nova indicação, dado o status de registros apenas cancelados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 131 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-miconazole-1 -->
+
 **Observação sobre outras indicações previstas:** a indicação de maior suporte nos dados é **micose superficial** (nível L3, "Proceed with Guardrails"), mas ela corresponde essencialmente ao uso antifúngico já conhecido da classe, e não a um reposicionamento verdadeiro. As demais previsões (blastomicose, dermatofitose do couro cabeludo, granuloma de Majocchi, entre outras) têm evidência limitada ou apenas computacional.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “dado o status de registros apenas cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Todos os 16 registros encontrados estão válidos; abaixo, os 5 principais” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o miconazol está comercializado no Brasil, com 16 registros válidos de 16, e não há dados de bula para avaliação de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

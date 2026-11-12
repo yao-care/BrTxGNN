@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 505
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -72,6 +72,12 @@ Adicionalmente, o dado de mecanismo de ação (MOA) está ausente (DG002), o que
 
 O fármaco está registrado no Brasil com **7 registros ativos** confirmados pela ANVISA.
 
+<!-- review:begin br-lic-20261106-palbociclibe-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco está registrado no Brasil com **7 registros ativos** confirmados pela ANVISA. Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não foram recuperados na coleta atual.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-palbociclibe-1 -->
+
 > Para visualizar os registros completos, consulte diretamente o portal da ANVISA em [consultas.anvisa.gov.br](https://consultas.anvisa.gov.br/) pesquisando por "palbociclibe".
 
 ---
@@ -104,6 +110,19 @@ O Evidence Pack está incompleto em dois itens críticos: ausência de indicaç�
 - **Executar o pipeline TxGNN** para gerar `predicted_indications` e habilitar a análise de reposicionamento
 - **Recuperar detalhes dos 7 registros** ANVISA (número, nome comercial, forma farmacêutica, indicação aprovada)
 - **Verificar a grafia do INN** no sistema: padronizar de `"PALBOCICLIBE"` para `"palbociclibe"` (conforme INN em português brasileiro)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os detalhes individuais de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não foram recuperados na coleta a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

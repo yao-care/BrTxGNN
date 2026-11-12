@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 565
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Rifampicin: nova indicação prevista, Conjuntivite (conjunctivitis) (nível de evidência L3). Indicação original: RIFAMPICINAS"
@@ -140,12 +140,31 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 - Realizar revisão sistemática do uso ocular de rifampicina (tracoma, clamídia, conjuntivite bacteriana) e comparar com os tratamentos atuais.
 - Avaliar o risco de resistência (uso reservado para tuberculose) e as interações medicamentosas.
 
+<!-- review:begin br-lic-20261106-rifampicin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Definir a viabilidade de uma formulação oftálmica tópica, pois não há dados de forma farmacêutica nos registros (todos cancelados).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 33 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-rifampicin-1 -->
+
 ## Observações sobre Outras Indicações Previstas
 
 - **Acne (disease), 0.9974, L3:** a evidência recuperada refere-se sobretudo à hidradenite supurativa (acne inversa), em que a combinação clindamicina + rifampicina é usada. Para acne vulgar, a evidência é indireta. Recomendação: Hold, com atenção à interação com contraceptivos orais.
 - **Artrite reumatoide, 0.9945, L3:** estudos pequenos dos anos 1980-1990 mostraram benefício limitado e inconsistente; o único ensaio registrado é de farmacocinética (Fase 1). Recomendação: Hold.
 - **Infecção pelo HIV, 0.9959, L1 (ressalva):** os ensaios de Fase 3 tratam da tuberculose em pacientes com HIV, ou seja, a indicação original em uma subpopulação, e não ação anti-HIV da rifampicina. Não constitui reposicionamento real.
 - **Neoplasia endócrina múltipla, transtorno do neurodesenvolvimento raro, conjuntivite contagiosa aguda, infecção por SIV e síndrome da imunodeficiência adquirida felina:** sem evidência clínica relevante e sem justificativa mecanística plausível. Recomendação: Hold.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “pois não há dados de forma farmacêutica nos registros (todos cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

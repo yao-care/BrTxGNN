@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 608
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Tegaserod: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L5). Indicação original: Outros produtos para o aparelho digestivo e metabolismo"
 monitor_inn: "tegaserod"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -93,11 +93,30 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Justificativa:**
 A pontuação vem do modelo TxGNN (deep learning) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica; não há ensaios clínicos e há uma única revisão geral. O registro do medicamento no Brasil está cancelado (1 de 1), e o perfil de segurança sugerido (eventos cardiovasculares e cerebrovasculares) é particularmente preocupante em uma população com enxaqueca.
 
+<!-- review:begin br-lic-20261031-tegaserod-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “O medicamento está comercializado no Brasil, com 1 registro válido de 1, e o perfil de segurança sugerido (eventos cardiovasculares e cerebrovasculares) é particularmente preocupante em uma população com enxaqueca.” Corrigido: a afirmação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31) e foi substituída pelo texto atual. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-tegaserod-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança
 - Obter dados do mecanismo de ação (MOA) no DrugBank
 - Buscar evidências diretas de tegaserod na enxaqueca (estudos pré-clínicos ou clínicos)
 - Avaliar o risco cardiovascular e cerebrovascular em pacientes com enxaqueca, e a viabilidade regulatória diante do registro cancelado
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | O medicamento está comercializado no Brasil, com 1 registro válido de 1, e o perfil de segurança sugerido (eventos cardiovasculares e cerebr | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

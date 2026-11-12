@@ -3,7 +3,7 @@ layout: default
 title: Norethisterone
 parent: Apenas usos conhecidos (sem novas previsões)
 nav_order: 479
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Norethisterone: usos conhecidos e situação de mercado no Brasil; atualmente sem nova indicação candidata"
 monitor_inn: "NORETHISTERONE"
 predicted_indications: []
@@ -47,6 +47,12 @@ Nível de evidência: **N/A** | Indicações previstas: **0**
 ## Informações de Comercialização no Brasil
 
 Principais exemplos:
+
+<!-- review:begin br-lic-20261111-norethisterone-1 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Todos os 18 registros estão vigentes (18 de 18 licenças válidas). Principais exemplos:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 61 registros para este medicamento, 18 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-norethisterone-1 -->
 
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
@@ -93,6 +99,18 @@ Não aplicável: a noretisterona não é um fármaco antineoplásico, portanto e
 - **Interações Medicamentosas**: foram identificadas 100 interações, e as 20 listadas são de gravidade moderada. Destacam-se os antidiabéticos (acarbose, alogliptina, dapagliflozina, metformina, nateglinida), os agonistas de GLP-1 (albiglutida, dulaglutida, exenatida, lixisenatida), as insulinas (asparte, degludeca, detemir, humana), além de pramlintida, metreleptina, aprepitanto, clotrimazol e prucaloprida. O efeito mais relevante é a possível redução do controle glicêmico.
 
 As advertências e contraindicações da bula aprovada pela ANVISA não estavam disponíveis; consulte a bula para informações de segurança completas.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-11 | Removido: “Todos os 18 registros estão vigentes (18 de 18 licenças válidas)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

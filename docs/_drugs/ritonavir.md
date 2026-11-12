@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "RITONAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ritonavir: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficiency virus infection) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -88,6 +88,12 @@ Nenhuma das publicações é ensaio clínico randomizado; a maioria é pré-clí
 
 Os registros não trazem texto de indicação aprovada nem forma farmacêutica nos dados compilados. Abaixo, os registros válidos de ritonavir isolado; o registro de Kaletra e o de lopinavir + ritonavir são produtos de associação, e o de Paxlovid é uma associação com nirmatrelvir, portanto não descrevem a aprovação do ritonavir isolado.
 
+<!-- review:begin br-lic-20261111-ritonavir-1 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Há 20 registros no total, dos quais 5 válidos e 15 cancelados. Os registros não trazem texto de indicação aprovada nem forma farmacêutica nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 15 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-ritonavir-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101830153 | RITONAVIR | LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO G | Ativo |
@@ -127,6 +133,19 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 - Dados do mecanismo de ação do fármaco
 - Texto de bula da ANVISA com advertências e contraindicações
 - Estudos que avaliem diretamente o ritonavir na doença prevista
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-11 | Removido: “Há 20 registros no total, dos quais 5 válidos e 15 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

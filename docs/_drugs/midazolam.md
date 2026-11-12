@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 458
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: nova indicação prevista, Insônia (insomnia (disease)) (nível de evidência L3). Indicação original: Não consta nos dados locais"
@@ -100,12 +100,31 @@ Consulte a bula para as advertências e contraindicações formais, que não est
 **Justificativa:**
 - Há RCTs antigos (1981-1990) que apoiam o midazolam como hipnótico, mas os ensaios clínicos registrados são apenas indiretos.
 
+<!-- review:begin br-lic-20261106-midazolam-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há RCTs antigos (1981-1990) que apoiam o midazolam como hipnótico, mas os ensaios clínicos registrados são apenas indiretos, o fármaco não tem registro no Brasil e faltam dados de bula e de mecanismo, o que impede a triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 32 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-midazolam-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações)
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Confirmar a situação regulatória do midazolam oral como hipnótico em outros países e no Brasil, e a viabilidade de uma forma farmacêutica oral
 - Avaliar o balanço risco-benefício frente a hipnóticos já disponíveis, considerando dependência, depressão respiratória e interações com inibidores da CYP3A4
 - Considerar, para populações com DPOC, cirrose, glaucoma de ângulo fechado ou doença renal, um plano específico de monitoramento de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “o fármaco não tem registro no Brasil e faltam dados de bula e de mecanismo, o que impede a triagem de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

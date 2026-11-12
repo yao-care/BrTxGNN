@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 473
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "NITRAZEPAM"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
 description: "Nitrazepam: nova indicação prevista, Wernicke-Korsakoff syndrome (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -99,6 +99,25 @@ Para advertências e contraindicações formais, consulte a bula.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Definir se há interesse real em uma nova indicação, além da insônia já estabelecida; se não houver, o caso tende a ser arquivado.
 - Classificar a gravidade das interações medicamentosas, hoje sem nível definido.
+
+<!-- review:begin br-lic-20261106-nitrazepam-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Complementar os dados de mecanismo de ação (por exemplo, via DrugBank). / Avaliar a viabilidade regulatória: não há registro vigente no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 13 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-nitrazepam-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Avaliar a viabilidade regulatória: não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

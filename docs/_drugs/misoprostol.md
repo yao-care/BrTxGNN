@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 463
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Misoprostol: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "MISOPROSTOL"
 predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
@@ -108,12 +108,31 @@ Consulte a bula para informações adicionais de advertências e contraindicaç�
 **Justificativa:**
 - Não há ensaios clínicos e a literatura disponível trata de aborto medicamentoso, não do tratamento da amenorreia. A pontuação do TxGNN (0,9964) é apenas uma previsão computacional.
 
+<!-- review:begin br-lic-20261106-misoprostol-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A pontuação do TxGNN (0,9964) é apenas uma previsão computacional, e o fármaco não possui registro ativo no Brasil nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-misoprostol-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Esclarecer a situação regulatória e as indicações aprovadas do misoprostol no Brasil.
 - Buscar estudos que avaliem diretamente o misoprostol no tratamento da amenorreia (por exemplo, sangramento de privação), com análise de risco-benefício em mulheres em idade fértil.
 - Avaliar a segunda previsão do modelo (coarctação atípica da aorta), que não tem ensaios nem literatura (nível L5) e para a qual o perfil de segurança do misoprostol desfavorece o uso; ela não deve avançar sem evidências novas.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o fármaco não possui registro ativo no Brasil nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

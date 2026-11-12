@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 514
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 description: "Pemetrexed: nova indicação prevista, Pleural adenomatoid tumor (nível de evidência L5). Indicação original: ANTINEOPLASICO"
@@ -93,6 +93,12 @@ Não há ensaio de fase 3 específico para a doença peritoneal. A evidência ve
 
 O pemetrexede está comercializado neste país.
 
+<!-- review:begin br-lic-20261106-pemetrexed-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os 3 registros encontrados estão **válidos** (3 licenças válidas de 3); o pemetrexede está comercializado neste país.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 27 registros para este medicamento, 20 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-pemetrexed-2 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330166 | ATRED | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -147,11 +153,23 @@ Consulte a bula para advertências e contraindicações formais.
 **Justificativa:**
 Há ensaios randomizados de fase 2 e séries clínicas com pemetrexede + platina no mesotelioma peritoneal, além de forte respaldo no mesotelioma pleural (fase 3 pivotal, Vogelzang 2003). Contudo, não há ensaio de fase 3 específico para a doença peritoneal.
 
+<!-- review:begin br-lic-20261106-pemetrexed-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Contudo, não há ensaio de fase 3 específico para a doença peritoneal e os registros brasileiros estão todos cancelados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 27 registros para este medicamento, 20 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-pemetrexed-3 -->
+
 **Para prosseguir, é necessário:**
 - Verificar a situação regulatória e a disponibilidade atual do pemetrexede no Brasil, incluindo possíveis registros de outros fabricantes.
 - Obter a bula na ANVISA para advertências e contraindicações formais.
 - Acompanhar os resultados dos ensaios de fase 2 em andamento (NCT05001880, NCT06543069, NCT06057935).
 - Definir plano de monitoramento hematológico, renal e de interações (anti-inflamatórios, nefrotóxicos), com suplementação de folato e vitamina B12 conforme a bula.
+
+<!-- review:begin br-lic-20261031-pemetrexed-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Verificar a situação regulatória e a disponibilidade atual do pemetrexede no Brasil (registros cancelados), incluindo possíveis registros de outros fabricantes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 27 registros para este medicamento, 20 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-pemetrexed-1 -->
 
 ---
 
@@ -161,6 +179,21 @@ Há ensaios randomizados de fase 2 e séries clínicas com pemetrexede + platina
 - **Mesotelioma pleural epitelioide, sarcomatoide e bifásico** (L1 a L2): evidência derivada de subgrupos de ensaios de mesotelioma pleural. O subtipo sarcomatoide é menos quimiossensível, e a imunoterapia costuma ser preferida.
 - **Câncer de pericárdio** (L4, questão de pesquisa): apenas relatos de caso e revisão de casos publicados.
 - **Tumor adenomatoide pleural e iminoglicinúria** (L4 a L5, Hold): sem suporte clínico credível; os escores altos vêm do modelo TxGNN (deep learning) e podem refletir similaridades que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “s 3 registros encontrados estão **válidos** (3 licenças válidas de 3); o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e os registros brasileiros estão todos cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

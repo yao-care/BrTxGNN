@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 413
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -86,6 +86,12 @@ Atualmente não há literatura relacionada.
 
 Os dados de identificação dos produtos estão em branco no Evidence Pack.
 
+<!-- review:begin br-lic-20261106-levometionina-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco possui **20 registros ativos** no Brasil. No entanto, os detalhes individuais de cada registro (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não foram retornados na consulta à TFDA. Os dados de identificação dos produtos estão em branco no Evidence Pack.” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-levometionina-1 -->
+
 Para obter as informações completas de comercialização, consulte diretamente o portal de consulta de medicamentos da ANVISA.
 
 ---
@@ -107,6 +113,26 @@ O fármaco não gerou previsões de reposicionamento e possui lacunas críticas 
 - **Resolver DG001 (Bloqueante):** Baixar a bula da ANVISA e extrair indicação aprovada, advertências e contraindicações
 - **Resolver DG002 (Alta prioridade):** Obter o DrugBank ID de LEVOMETIONINA via DrugBank API para habilitar o mapeamento no Knowledge Graph
 - **Reprocessar no pipeline TxGNN** após associação do DrugBank ID para gerar previsões de reposicionamento
+
+<!-- review:begin br-lic-20261106-levometionina-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “**Reprocessar no pipeline TxGNN** após associação do DrugBank ID para gerar previsões de reposicionamento / **Verificar dados TFDA:** Investigar por que os 20 registros retornaram sem detalhes de produto (possível problema de parsing ou codificação no pipeline)” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-levometionina-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O fármaco possui **20 registros ativos** no Brasil. No entanto, os detalhes individuais de cada registro (número de registro, nome comercial” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “**Verificar dados TFDA:** Investigar por que os 20 registros retornaram sem detalhes de produto (possível problema de parsing ou codificação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 498
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "OXCARBAZEPINE"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: nova indicação prevista, Restless legs syndrome (nível de evidência L4). Indicação original: ANTICONVULSIVANTES"
@@ -69,6 +69,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Todas as publicações são gerais sobre epilepsia ou antiepilépticos; nenhuma aborda especificamente a epilepsia visual.
 
+<!-- review:begin br-lic-20261106-oxcarbazepine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 8 registros encontrados estão válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 24 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-oxcarbazepine-1 -->
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Diretriz | Neurology | Atualização da diretriz AAN/AES sobre eficácia e tolerabilidade dos novos antiepilépticos em epilepsia de início recente |
@@ -127,12 +133,39 @@ Para advertências e contraindicações da bula, consulte a bula do medicamento.
 **Justificativa:**
 - A previsão do modelo TxGNN (deep learning) é alta (0,9989), mas não há ensaios clínicos nem literatura específica sobre a Síndrome das Pernas Inquietas (nível L4). O escore pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica.
 
+<!-- review:begin br-lic-20261106-oxcarbazepine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O escore pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. No Brasil, os 8 registros encontrados estão válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 24 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-oxcarbazepine-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).
 - Complementar os dados de mecanismo de ação (MOA) via DrugBank.
 - Realizar busca dirigida por evidências clínicas em epilepsia fotossensível/reflexa visual e avaliar a diferença em relação a valproato e levetiracetam.
 - Verificar a situação regulatória atual no Brasil.
 - Avaliar se outras indicações previstas com algum sinal clínico (síndrome das pernas inquietas, estado de mal epiléptico) merecem priorização, ainda que com evidência limitada a relatos de caso.
+
+<!-- review:begin br-lic-20261106-oxcarbazepine-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a situação regulatória atual no Brasil, já que não há registros vigentes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 24 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-oxcarbazepine-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os 8 registros encontrados estão válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “No Brasil, os 8 registros encontrados estão válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registros vigentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

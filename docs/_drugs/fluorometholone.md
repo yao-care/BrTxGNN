@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 323
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Fluorometholone: nova indicação prevista, Vasculite pós-infecciosa (postinfectious vasculitis) (nível de evidência L5). Indicação original: Glicocorticoides tópico oftalmológico simples"
 monitor_inn: "fluorometholone"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
@@ -76,6 +76,12 @@ Outras indicações previstas também têm pontuação semelhante (de 0,9982 a 0
 
 As demais previsões (pós-bacteriano, otite externa, estenose uretral infecciosa, síndrome pós-infecciosa, síndrome hemolítico-urêmica associada a infecção e cardiomiopatia chagásica) carecem de evidências e de vínculo mecanístico convincente. Na cardiomiopatia chagásica, a imunossupressão pode inclusive ser prejudicial.
 
+<!-- review:begin br-lic-20261106-fluorometholone-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há registro válido atualmente, o que limita a viabilidade prática.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fluorometholone-1 -->
+
 ---
 
 ## Informações de Comercialização no Brasil
@@ -108,11 +114,31 @@ Consulte a bula para advertências e contraindicações formais.
 **Justificativa:**
 Para a indicação principal (vasculite pós-infecciosa), há apenas previsão do modelo (L5), sem ensaios nem literatura, com vínculo mecanístico fraco devido à exposição sistêmica mínima da forma oftálmica.
 
+<!-- review:begin br-lic-20261106-fluorometholone-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Para a indicação principal (vasculite pós-infecciosa), há apenas previsão do modelo (L5), sem ensaios nem literatura, com vínculo mecanístico fraco devido à exposição sistêmica mínima da forma oftálmica. Além disso, o único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fluorometholone-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações) para a triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Se houver interesse em direção mais plausível, priorizar indicações oculares (ceratoconjuntivite epitelial punctata, uveítes anteriores) e buscar estudos que avaliem diretamente a fluorometolona.
 - Avaliar compatibilidade de via de administração e viabilidade comercial, dado o status cancelado.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Não há registro válido atualmente, o que limita a viabilidade prática” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

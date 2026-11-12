@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 539
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Potassium Chloride: nova indicação prevista, Acidose Tubular Renal (Renal Tubular Acidosis) (nível de evidência L5). Indicação original: Reposição hidroeletrolítica e alimentação parenteral"
 monitor_inn: "POTASSIUM CHLORIDE"
 predicted_indications: ["renal tubular acidosis"]
@@ -69,6 +69,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 ## Evidências da Literatura
 
 Foram selecionadas as publicações mais relevantes. Não há ensaios clínicos randomizados; os achados abaixo são descritivos.
+
+<!-- review:begin br-lic-20261106-potassium_chloride-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O medicamento está comercializado, com 20 registros válidos (principais 5 de 20).” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 231 registros para este medicamento, 61 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-potassium_chloride-1 -->
 
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
@@ -136,12 +142,39 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 **Justificativa:**
 - A previsão é plausível como terapia adjuvante da hipopotassemia associada à ATR distal, mas não há ensaios clínicos nem estudos controlados; a literatura se resume a relatos de caso e revisões. Além disso, o fármaco não trata o defeito subjacente.
 
+<!-- review:begin br-lic-20261106-potassium_chloride-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Além disso, o fármaco não trata o defeito subjacente, e o medicamento está comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 231 registros para este medicamento, 61 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-potassium_chloride-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a segurança ainda não pôde ser triada de forma adequada.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Definir o papel do fármaco em relação ao citrato de potássio e ao bicarbonato, com revisão sistemática ou estudos comparativos.
 - Delimitar os subtipos de ATR elegíveis (excluindo tipo 4 e hiperpotassemia) e um plano de monitoramento de potássio sérico e função renal.
 - Verificar a viabilidade regulatória, e as formas farmacêuticas e vias de administração necessárias.
+
+<!-- review:begin br-lic-20261106-potassium_chloride-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a viabilidade regulatória, já que não há registro válido no Brasil, e as formas farmacêuticas e vias de administração necessárias.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 231 registros para este medicamento, 61 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-potassium_chloride-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O medicamento está comercializado, com 20 registros válidos (principais 5 de 20)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e o medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

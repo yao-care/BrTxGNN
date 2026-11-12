@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Bimatoprost: nova indicação prevista, Síndrome malformativa com componente dentário e/ou periodontal (malformation syndrome with odontal and/or periodontal c… (nível de evidência L5). Indicação origi…"
 ---
 
@@ -73,6 +73,12 @@ Atualmente não há literatura relacionada.
 
 A lista de registros pode estar incompleta e não há detalhamento individual (nome comercial, forma farmacêutica) disponível neste relatório.
 
+<!-- review:begin br-lic-20261106-bimatoprost-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os dados compilados indicam situação de comercialização "Comercializado", com 11 registros válidos e 9 cancelados. A lista de registros pode estar incompleta e não há detalhamento individual (nome comercial, forma farmacêutica) disponível neste relatório.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 35 registros para este medicamento, 18 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-bimatoprost-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 66 possíveis interações em base de consulta, sem classificação de gravidade (nível "desconhecido"). Entre as listadas estão calcitriol, fentermina, pantoprazol, morfina, metformina, omeprazol, palonossetrona, rosiglitazona, lansoprazol e vancomicina.
@@ -91,6 +97,19 @@ Para advertências e contraindicações, consulte a bula.
 - Estudos pré-clínicos que sustentem a hipótese
 - Obtenção e análise da bula da ANVISA (advertências e contraindicações)
 - Lista completa e detalhada dos registros locais
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os dados compilados indicam situação de comercialização "Comercializado", com 11 registros válidos e 9 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

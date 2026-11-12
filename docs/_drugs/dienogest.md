@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Dienogest"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Dienogest: nova indicação prevista, Amenorreia (amenorrhea (disease)) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -78,6 +78,12 @@ Pela regra de teto de evidência, nenhuma das publicações citadas estuda a ame
 
 A lista pode estar parcial. A tabela de registros é gerada pelo programa e não está detalhada aqui.
 
+<!-- review:begin br-lic-20261106-dienogest-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados locais, há 13 registros válidos e 7 cancelados, e a lista pode estar parcial.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 36 registros para este medicamento, 23 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-dienogest-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 37 interações, e as principais de gravidade maior incluem sugamadex, griseofulvina, bexaroteno, brigatinibe, dabrafenibe e encorafenibe. Há também interações moderadas, por exemplo com linaclotida, metreleptina, prucaloprida, adalimumabe e anakinra.
@@ -95,6 +101,19 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 - Definir se há um objetivo clínico real (por exemplo, supressão de sangramento) distinto da amenorreia como condição a tratar
 - Obter dados do mecanismo de ação e da bula (advertências e contraindicações) na ANVISA
 - Buscar estudos que avaliem diretamente a amenorreia como desfecho terapêutico
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Segundo os dados locais, há 13 registros válidos e 7 cancelados, e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

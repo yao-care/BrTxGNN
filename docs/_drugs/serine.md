@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 584
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Serine: nova indicação prevista, Miopatia visceral familiar (familial visceral myopathy) (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "Serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
@@ -86,6 +86,12 @@ Observação: para outras indicações previstas (obstrução intestinal e glauc
 
 Principais registros:
 
+<!-- review:begin br-lic-20261106-serine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os 16 registros estão válidos (16 de 16). Principais registros:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 28 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-serine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -135,11 +141,38 @@ Consulte a bula para advertências e contraindicações oficiais.
 **Justificativa:**
 - Não há ensaios clínicos nem literatura que sustentem o uso da serina na miopatia visceral familiar, e não existe mecanismo plausível. A previsão é puramente computacional (L5).
 
+<!-- review:begin br-lic-20261106-serine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão é puramente computacional (L5), e o medicamento é comercializado no Brasil, com 16 registros válidos de 16.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 28 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-serine-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) e uma hipótese biológica plausível que ligue a serina à doença
 - Revisão de literatura curada, para descartar coincidências de palavras-chave
 - Informações de segurança da bula da ANVISA (advertências e contraindicações), bloqueio atual para a triagem de segurança
 - Avaliação da compatibilidade de via de administração e da situação regulatória
+
+<!-- review:begin br-lic-20261106-serine-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da compatibilidade de via de administração e da situação regulatória, dado que não há registros vigentes no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 28 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-serine-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os 16 registros estão válidos (16 de 16)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e o medicamento é comercializado no Brasil, com 16 registros válidos de 16” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registros vigentes no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

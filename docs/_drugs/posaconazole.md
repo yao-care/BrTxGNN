@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 535
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Posaconazole: nova indicação prevista, Pneumocistose (Pneumocystosis) (nível de evidência L5). Indicação original: Antimicóticos sistêmicos"
 monitor_inn: "posaconazole"
 predicted_indications: ["pneumocystosis"]
@@ -111,11 +111,37 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 - A pontuação do modelo é muito alta, mas o mecanismo do azol não se aplica ao *Pneumocystis* (ausência de ergosterol), não há ensaio clínico com posaconazol para essa indicação e a literatura é apenas geral. O nível de evidência é L4.
 
+<!-- review:begin br-lic-20261106-posaconazole-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O nível de evidência é L4, e o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-posaconazole-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação confirmados em fonte primária (DrugBank).
 - Estudos pré-clínicos ou clínicos que avaliem diretamente o posaconazol contra *Pneumocystis*, incluindo comparação com sulfametoxazol-trimetoprima.
 - Bula da ANVISA com advertências e contraindicações, hoje ausentes e que impedem a triagem de segurança.
 - Esclarecimento da situação regulatória e das formas farmacêuticas disponíveis.
+
+<!-- review:begin br-lic-20261031-posaconazole-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecimento da situação regulatória (registro cancelado) e das formas farmacêuticas disponíveis.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-posaconazole-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

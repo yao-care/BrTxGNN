@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 375
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Isoleucine: nova indicação prevista, Gastroparesia (Gastroparesis) (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "ISOLEUCINE"
 predicted_indications: ["gastroparesis (disease)"]
@@ -122,12 +122,31 @@ Para advertências e contraindicações formais, consulte a bula.
 **Justificativa:**
 Além disso, faltam dados de advertências e contraindicações da bula, o que impede a triagem de segurança.
 
+<!-- review:begin br-lic-20261106-isoleucine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura e sem mecanismo estabelecido, embora o medicamento seja comercializado no Brasil, com 16 registros válidos de 16. Além disso, faltam dados de advertências e contraindicações da bula, o que impede a triagem de segurança.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 31 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-isoleucine-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna considerada bloqueante
 - Obter dados de mecanismo de ação (MOA) no DrugBank
 - Realizar revisão sistemática da literatura sobre aminoácidos de cadeia ramificada e gastroparesia
 - Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original
 - Avaliar a relevância das contraindicações renais, cardiovasculares e metabólicas apontadas pelo grafo de conhecimento, em especial em pacientes com gastroparesia
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos nem literatura e sem mecanismo estabelecido, embora o medicamento seja come” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

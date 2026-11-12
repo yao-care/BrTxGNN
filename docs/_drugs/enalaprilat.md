@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Enalaprilat: nova indicação prevista, Glaucoma Hereditário Primário (Primary Hereditary Glaucoma) (nível de evidência L5). Indicação original: Anti-hipertensivos"
 monitor_inn: "enalaprilat"
 predicted_indications: ["primary hereditary glaucoma"]
@@ -90,6 +90,12 @@ Para as demais informações de segurança, consulte a bula.
 **Justificativa:**
 - A única sustentação é a alta pontuação do modelo (0,9909), sem nenhum ensaio clínico ou publicação. O mecanismo é especulativo e pouco conectado às causas genéticas do glaucoma hereditário primário.
 
+<!-- review:begin br-lic-20261106-enalaprilat-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O mecanismo é especulativo e pouco conectado às causas genéticas do glaucoma hereditário primário. Além disso, o produto está com registro cancelado no Brasil e é de uso intravenoso.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-enalaprilat-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter dados do mecanismo de ação (por exemplo, via DrugBank) e avaliar a relevância do sistema renina-angiotensina ocular no glaucoma hereditário.
 - Realizar estudos pré-clínicos e revisão da literatura sobre inibidores da ECA e pressão intraocular.
@@ -97,6 +103,26 @@ Para as demais informações de segurança, consulte a bula.
 - Avaliar a viabilidade de via de administração e formulação adequadas ao uso ocular, já que o enalaprilato é intravenoso.
 - Considerar o risco de angioedema, contraindicação registrada no grafo de conhecimento.
 - Esclarecer a situação regulatória.
+
+<!-- review:begin br-lic-20261106-enalaprilat-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória, dado que o único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-enalaprilat-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o produto está com registro cancelado no Brasil e é de uso intravenoso” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

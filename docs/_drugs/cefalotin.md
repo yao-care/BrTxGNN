@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 description: "Cefalotin: nova indicação prevista, Uretrite gonocócica (Gonococcal urethritis) (nível de evidência L5). Indicação original: Cefalosporinas / antibióticos sistêmicos simples"
 monitor_inn: "cefalotin"
 predicted_indications: ["gonococcal urethritis", "Ureaplasma urethritis", "bronchitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "congenital analbuminemia"]
@@ -77,6 +77,18 @@ Além disso, o produto está cancelado no mercado brasileiro e é de uso exclusi
 
 O medicamento é comercializado.
 
+<!-- review:begin br-lic-20261106-cefalotin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 9 registros encontrados estão válidos; o medicamento é comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 9 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cefalotin-1 -->
+
+<!-- review:begin br-lic-20261106-cefalotin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há ainda outros 4 registros cancelados (Cefariston, Cefalotina Sódica ×2 e Keflin Neutro).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 9 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cefalotin-2 -->
+
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
 | Registro 116370100 | Cefalotina Sódica | Não informada | Cefalosporinas |
@@ -102,11 +114,39 @@ Para advertências e contraindicações, consulte a bula.
 - Não há ensaios clínicos nem literatura apoiando a previsão; a evidência é apenas indireta (L4).
 - O fármaco tem atividade limitada contra *N. gonorrhoeae*, existem alternativas padrão (ceftriaxona) e o medicamento é comercializado no Brasil.
 
+<!-- review:begin br-lic-20261106-cefalotin-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco tem atividade limitada contra *N. gonorrhoeae*, existem alternativas padrão (ceftriaxona) e o medicamento é comercializado no Brasil (9 de 9 registros válidos).” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 9 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cefalotin-3 -->
+
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação (MOA) e do perfil de sensibilidade de *N. gonorrhoeae* à cefalotina.
 - Bula da ANVISA com advertências e contraindicações, para triagem de segurança.
 - Estudos in vitro ou clínicos que mostrem vantagem sobre os tratamentos atuais.
 - Avaliação da viabilidade regulatória.
+
+<!-- review:begin br-lic-20261106-cefalotin-4 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da viabilidade regulatória, dado que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 9 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cefalotin-4 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os 9 registros encontrados estão válidos; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Há ainda outros 4 registros cancelados (Cefariston, Cefalotina Sódica ×2 e Keflin Neutro)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(9 de 9 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 648
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Trabectedin: nova indicação prevista, Carcinoma de mama feminino (female breast carcinoma) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "trabectedin"
 predicted_indications: ["female breast carcinoma"]
@@ -113,12 +113,38 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 - O único ensaio clínico registrado não avalia eficácia em câncer de mama, e as evidências de fase 2 estão na literatura, sem confirmação de fase 3. As advertências e contraindicações da bula não estão disponíveis, o que impede a triagem de segurança.
 
+<!-- review:begin br-lic-20261106-trabectedin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O registro brasileiro está cancelado e as advertências e contraindicações da bula não estão disponíveis, o que impede a triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-trabectedin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações)
 - Obter dados oficiais do mecanismo de ação (por exemplo, no DrugBank)
 - Revisar os resultados completos dos estudos de fase 2 em câncer de mama (PMIDs 25239225, 24692579, 27266804) e definir subpopulações-alvo (BRCA1/2, triplo-negativo)
 - Esclarecer a situação regulatória e a disponibilidade do produto no Brasil
 - Verificar a forma farmacêutica e a via de administração
+
+<!-- review:begin br-lic-20261106-trabectedin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória e a disponibilidade do produto no Brasil, já que o único registro está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-trabectedin-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O registro brasileiro está cancelado e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que o único registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

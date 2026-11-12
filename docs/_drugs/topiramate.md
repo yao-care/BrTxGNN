@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Topiramate: nova indicação prevista, Neoplasma do nervo trigêmeo (trigeminal nerve neoplasm) (nível de evidência L5). Indicação original: Anticonvulsivantes"
 monitor_inn: "TOPIRAMATE"
 predicted_indications: ["trigeminal nerve neoplasm"]
@@ -114,6 +114,12 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 
 Há outros 15 registros cancelados (por exemplo, Toduze, Ritop, Têmpora e Vidmax), todos com a mesma indicação.
 
+<!-- review:begin br-lic-20261106-topiramate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O medicamento está comercializado no país, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 38 registros para este medicamento, 21 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-topiramate-1 -->
+
 ---
 
 ## Considerações de Segurança
@@ -134,10 +140,22 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 **Justificativa:**
 - A previsão para neoplasma do nervo trigêmeo é apenas do modelo (L5), sem ensaios, sem literatura e sem plausibilidade mecanística.
 
+<!-- review:begin br-lic-20261106-topiramate-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para neoplasma do nervo trigêmeo é apenas do modelo (L5), sem ensaios, sem literatura e sem plausibilidade mecanística. Além disso, o medicamento não tem registro vigente no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 38 registros para este medicamento, 21 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-topiramate-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação e bulas da ANVISA (advertências e contraindicações).
 - Evidência pré-clínica ou clínica de atividade antitumoral, se houver interesse nesta indicação.
 - Esclarecer a situação regulatória.
+
+<!-- review:begin br-lic-20261106-topiramate-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória (o medicamento está comercializado, com 20 registros válidos).” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 38 registros para este medicamento, 21 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-topiramate-3 -->
 
 ### Outras previsões do modelo (para priorização)
 
@@ -145,6 +163,21 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 |---|---|---|---|
 
 Essas indicações são extensões do uso original em epilepsia e merecem ser tratadas como **perguntas de pesquisa**. Contudo, nenhuma tem ensaio clínico registrado, e a literatura recuperada é indireta.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O medicamento está comercializado no país, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o medicamento não tem registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(o medicamento está comercializado, com 20 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

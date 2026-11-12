@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 246
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Cyclosporine: nova indicação prevista, Doença granulomatosa crônica autossômica recessiva (Granulomatous dis… (nível de evidência L4). Indicação original: Outros medicamentos com ação no aparelho vis…"
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
@@ -132,9 +132,27 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 - Avaliação do risco de infecção em pacientes com DGC.
 - Esclarecimento da situação regulatória no Brasil.
 
+<!-- review:begin br-lic-20261106-cyclosporine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecimento da situação regulatória no Brasil, já que não há registro válido.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 19 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cyclosporine-1 -->
+
 ---
 
 ### Observação sobre outras indicações previstas
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registro válido” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

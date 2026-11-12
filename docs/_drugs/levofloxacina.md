@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 412
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -61,6 +61,12 @@ O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco 
 
 Foram identificados **4 registros** da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa.
 
+<!-- review:begin br-lic-20261106-levofloxacina-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Foram identificados **4 registros** da Levofloxacina na base regulatória brasileira, confirmando que o fármaco está em situação de comercialização ativa. No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação aprovada) não foram recuperados nesta execução do pipeline — os campos retornaram vazios.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 78 registros para este medicamento, 38 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-levofloxacina-1 -->
+
 É necessário complementar a consulta à base ANVISA para obter esses dados antes de qualquer análise regulatória comparativa.
 
 ---
@@ -78,6 +84,19 @@ O pipeline identificou 4 registros da Levofloxacina no mercado brasileiro, poré
 - Recuperar os detalhes dos 4 registros ANVISA: número de registro, nome comercial, forma farmacêutica e indicação aprovada
 - Baixar e analisar a bula em PDF disponível no portal ANVISA para extrair advertências, contraindicações e instruções de segurança (atualmente classificadas como bloqueantes — DG001)
 - Obter dados de interações medicamentosas (DDI) — a consulta atual retornou `not_found`, o que pode indicar divergência no nome utilizado na busca
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “No entanto, os detalhes individuais de cada registro (número de registro ANVISA, nome comercial, forma farmacêutica e texto de indicação apr” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

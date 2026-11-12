@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 345
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 monitor_inn: "GLUCAGON"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: nova indicação prevista, Síndrome do intestino irritável (irritable bowel syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -88,6 +88,12 @@ Nenhuma publicação testou o glucagon na síndrome do intestino irritável. A l
 
 Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com 2 registros, dos quais 1 está válido e 1 cancelado.
 
+<!-- review:begin br-lic-20261106-glucagon-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados para este relatório, o glucagon consta como comercializado no Brasil, com 2 registros, dos quais 1 está válido e 1 cancelado. Os detalhes dos registros (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-glucagon-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 25 interações, todas de nível leve (fonte: DDInter) nos dados exibidos, sobretudo com betabloqueadores (acebutolol, atenolol, bisoprolol, carvedilol, metoprolol, nadolol, propranolol, sotalol, timolol, entre outros) e com varfarina.
@@ -106,6 +112,18 @@ Para advertências e contraindicações, consulte a bula.
 - Estudos pré-clínicos ou clínicos com o próprio glucagon na síndrome do intestino irritável
 - Informações da bula sobre advertências e contraindicações
 - Avaliação de via de administração e formulação compatíveis com uso crônico ou em crises
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os detalhes dos registros (número, nome comercial, forma farmacêutica) não estão disponíveis nos dados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

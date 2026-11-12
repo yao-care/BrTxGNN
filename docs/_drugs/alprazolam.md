@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 43
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Alprazolam: nova indicação prevista, Insônia (insomnia) (nível de evidência L4). Indicação original: Transtorno de ansiedade"
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
@@ -94,12 +94,31 @@ Foram selecionadas as publicações mais relevantes entre as disponíveis (nenhu
 **Justificativa:**
 A previsão baseia-se apenas no modelo e em um elo mecanístico plausível, sem ensaios clínicos nem estudos de eficácia do alprazolam em insônia. Somam-se a isso os riscos conhecidos de dependência e quedas, o grande número de interações.
 
+<!-- review:begin br-lic-20261106-alprazolam-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Somam-se a isso os riscos conhecidos de dependência e quedas, o grande número de interações e a ausência de registro no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 52 registros para este medicamento, 17 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-alprazolam-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados detalhados do mecanismo de ação (MOA)
 - Estudos controlados de eficácia e segurança do alprazolam especificamente em insônia
 - Bula e informações de segurança (advertências e contraindicações) do registro na ANVISA
 - Verificação da situação de comercialização no Brasil
 - Comparação com alternativas já estabelecidas para insônia (por exemplo, terapia cognitivo-comportamental e hipnóticos aprovados)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e a ausência de registro no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

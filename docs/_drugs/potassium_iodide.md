@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 541
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Potassium Iodide: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L4). Indicação original: Outros produtos não enquadrados em classe terapêutica específic"
 monitor_inn: "Potassium Iodide"
 predicted_indications: ["nasal cavity disease"]
@@ -102,12 +102,38 @@ Todos os 11 registros encontrados estão válidos. Os 5 principais:
 **Justificativa:**
 - Apesar da pontuação TxGNN muito alta (0,9995), as evidências se limitam a quatro relatos de caso, três deles veterinários, sem ensaios clínicos e sem dados controlados em humanos.
 
+<!-- review:begin br-lic-20261106-potassium_iodide-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Apesar da pontuação TxGNN muito alta (0,9995), as evidências se limitam a quatro relatos de caso, três deles veterinários, sem ensaios clínicos e sem dados controlados em humanos. Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados) e as informações de segurança da bula estão ausentes, o que impede avançar para a triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-potassium_iodide-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que atualmente bloqueia a avaliação de segurança.
 - Obter dados de mecanismo de ação (por exemplo, via DrugBank).
 - Delimitar a indicação a micoses nasais granulomatosas específicas (zigomicose, esporotricose), em vez de "doença da cavidade nasal" em geral.
 - Buscar estudos em humanos, como séries de casos ou estudos observacionais, sobre doença nasal fúngica ou granulomatosa.
 - Avaliar a situação regulatória e a compatibilidade de via de administração e formulação.
+
+<!-- review:begin br-lic-20261031-potassium_iodide-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Avaliar a situação regulatória (registro cancelado) e a compatibilidade de via de administração e formulação.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-potassium_iodide-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o iodeto de potássio não tem registro válido no Brasil (todos os 11 estão cancelados) e as informações de segurança da bula estã” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

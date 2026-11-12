@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 549
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Prilocaine: nova indicação prevista, Conjuntivite papilar (papillary conjunctivitis) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "Prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
@@ -137,6 +137,25 @@ Os dados de advertências e contraindicações da bula da ANVISA não estavam di
 - Se houver interesse em neuralgia, tratá-la como pergunta de pesquisa: revisão sistemática e ensaio controlado moderno que isole o efeito da prilocaína (ou justifique a combinação), com plano de monitoramento de metemoglobinemia.
 - Verificar a viabilidade regulatória, e definir via de administração e forma farmacêutica adequadas.
 - Para conjuntivite papilar e demais indicações sem evidência, não priorizar investimento sem nova justificativa mecanística.
+
+<!-- review:begin br-lic-20261106-prilocaine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a viabilidade regulatória, dado que não há registro válido de prilocaína no Brasil, e definir via de administração e forma farmacêutica adequadas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 14 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-prilocaine-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “dado que não há registro válido de prilocaína no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

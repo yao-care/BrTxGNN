@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 502
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -67,6 +67,12 @@ No entanto, esta análise apresentou três limitações críticas que impediram 
 1. **Ausência de DrugBank ID**: O identificador DrugBank é o ponto de entrada obrigatório para o mapeamento do fármaco no grafo de conhecimento (Knowledge Graph). Sem ele, o modelo não consegue localizar o nó correspondente ao fármaco e, portanto, não produz previsões de reposicionamento.
 3. **Dados de MOA não estruturados**: Sem dados de mecanismo de ação no formato esperado pelo sistema, a etapa de análise de relevância mecanística não pôde ser executada.
 
+<!-- review:begin br-lic-20261106-oxycodone_hydrochloride-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Sem ele, o modelo não consegue localizar o nó correspondente ao fármaco e, portanto, não produz previsões de reposicionamento. / **Nenhum registro encontrado na ANVISA**: A consulta ao banco de dados regulatório brasileiro com o termo exato "OXYCODONE HYDROCHLORIDE" retornou 0 resultados. Isso pode indicar que o fármaco está registrado sob grafia alternativa (por exemplo, "Oxicodona") ou que a consulta não cobriu todos os registros vigentes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-oxycodone_hydrochloride-1 -->
+
 A combinação desses fatores resultou em `predicted_indications: []`, inviabilizando qualquer análise de reposicionamento nesta execução.
 
 ---
@@ -90,6 +96,26 @@ Sem previsões geradas pelo modelo TxGNN e sem registros localizados na ANVISA, 
 - Baixar e analisar a bula disponível na ANVISA para preencher os dados de advertências e contraindicações
 - Consultar a DrugBank API para obter dados estruturados de MOA e categorias farmacológicas
 - Reanalisar com o pacote de dados completo para permitir a geração de previsões pelo TxGNN
+
+<!-- review:begin br-lic-20261106-oxycodone_hydrochloride-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Baixar e analisar a bula disponível na TFDA/ANVISA para preencher os dados de advertências e contraindicações” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-oxycodone_hydrochloride-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “2. **Nenhum registro encontrado na ANVISA**: A consulta ao banco de dados regulatório brasileiro com o termo exato "OXYCODONE HYDROCHLORIDE"” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “TFDA/” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

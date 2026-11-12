@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 536
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 monitor_inn: "Potassium"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
 description: "Potassium: nova indicação prevista, Transtorno hipertensivo (hypertensive disorder) (nível de evidência L1). Indicação original: OUTROS PRODUTOS COM ACAO NO TRATO URINARIO"
@@ -120,12 +120,38 @@ Consulte a bula para as demais informações de segurança.
 **Justificativa:**
 Para transtorno hipertensivo há meta-análises de ensaios randomizados e ensaios de Fase 3 concluídos com potássio, o que sustenta nível L1 e uma direção plausível. Porém, os ensaios diretamente relevantes são pequenos ou antigos e a evidência refere-se à ingestão/suplementação de potássio, não a um medicamento específico.
 
+<!-- review:begin br-lic-20261106-potassium-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Porém, os ensaios diretamente relevantes são pequenos ou antigos, os registros brasileiros estão todos cancelados e a evidência refere-se à ingestão/suplementação de potássio, não a um medicamento específico.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-potassium-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar as bulas na ANVISA (advertências e contraindicações), hoje ausentes nos dados compilados
 - Complementar os dados de mecanismo de ação (DrugBank)
 - Definir formulação, dose e via de administração e verificar a possibilidade de novo registro
 - Estabelecer plano de monitoramento do potássio sérico e critérios de exclusão (insuficiência renal, uso de IECA/BRA/ARNI, antagonistas de mineralocorticoides ou diuréticos poupadores de potássio)
 - Realizar ensaios controlados maiores e com desfecho claro para o uso de potássio em hipertensão
+
+<!-- review:begin br-lic-20261106-potassium-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Definir formulação, dose e via de administração e verificar a possibilidade de novo registro, já que não há registro válido” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-potassium-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “os, os registros brasileiros estão todos cancelad” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

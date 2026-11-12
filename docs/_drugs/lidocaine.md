@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Lidocaine: nova indicação prevista, Ceratoconjuntivite epitelial punctata (nível de evidência L5). Indicação original: Anestésicos locais"
 ---
 
@@ -97,6 +97,12 @@ Atualmente não há literatura relacionada para a ceratoconjuntivite epitelial p
 
 Os principais:
 
+<!-- review:begin br-lic-20261106-lidocaine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Foram listados 20 registros válidos, todos de medicamentos de ingrediente único (lista possivelmente parcial). Os principais:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 182 registros para este medicamento, 55 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-lidocaine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101000132 | ROCEFIN | PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. | Ativo |
@@ -159,6 +165,19 @@ Consulte a bula para advertências e contraindicações formais, pois não estav
 - Obter dados do mecanismo de ação a partir do DrugBank.
 - Realizar estudos pré-clínicos ou clínicos que avaliem a lidocaína diretamente nessa doença, incluindo a segurança da superfície ocular.
 - Definir a via de administração e a formulação oftálmica compatíveis.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Foram listados 20 registros válidos, todos de medicamentos de ingrediente único (lista possivelmente parcial)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

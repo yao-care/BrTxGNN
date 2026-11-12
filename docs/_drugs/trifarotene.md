@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 654
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Trifarotene: nova indicação prevista, Zinco plasmático elevado (zinc, elevated plasma) (nível de evidência L5). Indicação original: Retinoides para tratamento da acne (uso tópico)"
 monitor_inn: "trifarotene"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
@@ -81,12 +81,38 @@ Para demais informações de segurança (advertências e contraindicações), co
 **Justificativa:**
 - A previsão para zinco plasmático elevado baseia-se exclusivamente na pontuação do modelo, sem ensaios clínicos, literatura ou vínculo mecanístico plausível (nível de evidência L5).
 
+<!-- review:begin br-lic-20261106-trifarotene-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para zinco plasmático elevado baseia-se exclusivamente na pontuação do modelo, sem ensaios clínicos, literatura ou vínculo mecanístico plausível (nível de evidência L5). Além disso, o único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-trifarotene-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
 - Complementar os dados de mecanismo de ação a partir do DrugBank.
 - Demonstrar uma hipótese biológica que ligue a sinalização por receptores do ácido retinoico ao metabolismo do zinco, com estudos pré-clínicos.
 - Avaliar a compatibilidade da via de administração (tópica) com a nova indicação, pois a exposição sistêmica é limitada.
 - Esclarecer a situação regulatória do produto no Brasil antes de qualquer desenvolvimento local.
+
+<!-- review:begin br-lic-20261031-trifarotene-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória do produto no Brasil (registro cancelado) antes de qualquer desenvolvimento local.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-trifarotene-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

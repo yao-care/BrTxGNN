@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 122
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Benzocaine: nova indicação prevista, Conjuntivite Papilar (Papillary Conjunctivitis) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "BENZOCAINE"
 predicted_indications: ["papillary conjunctivitis"]
@@ -65,6 +65,12 @@ Além disso, todas as indicações originais são de uso orofaríngeo ou anesté
 
 Os 5 principais:
 
+<!-- review:begin br-lic-20261106-benzocaine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 10 registros encontrados são de produtos isolados (monofármaco) e estão cancelados. Os 5 principais:” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-benzocaine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431409 | ANDOLBA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -115,12 +121,32 @@ Consulte a bula para informações de segurança completas; as advertências e c
 **Justificativa:**
 - A previsão se apoia apenas na pontuação do modelo TxGNN (deep learning, nível L5), sem ensaios clínicos nem literatura. O mecanismo anestésico não atinge a causa imunoalérgica da doença, há risco de toxicidade corneana, não há uso oftálmico aprovado.
 
+<!-- review:begin br-lic-20261106-benzocaine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O mecanismo anestésico não atinge a causa imunoalérgica da doença, há risco de toxicidade corneana, não há uso oftálmico aprovado e o medicamento está comercializado no Brasil, com 10 registros válidos de 10.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 49 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-benzocaine-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula oficial na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
 - Complementar os dados do mecanismo de ação a partir do DrugBank e analisar a ligação mecanística com a conjuntivite papilar.
 - Realizar revisão sistemática da literatura e de registros de ensaios clínicos sobre anestésicos tópicos em conjuntivite.
 - Avaliar a compatibilidade de via de administração e formulação (uso oftálmico) e a segurança ocular, incluindo risco de toxicidade corneana.
 - Considerar alternativas já estabelecidas para a condição (anti-histamínicos tópicos, estabilizadores de mastócitos) antes de qualquer investimento em desenvolvimento.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os 10 registros encontrados são de produtos isolados (monofármaco) e estão cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e o medicamento está comercializado no Brasil, com 10 registros válidos de 10” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

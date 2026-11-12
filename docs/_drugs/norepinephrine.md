@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 478
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Norepinephrine: nova indicação prevista, Doença Pulmonar Obstrutiva (Obstructive Lung Disease) (nível de evidência L4). Indicação original: Vasoconstritores e hipertensores"
 monitor_inn: "norepinephrine"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
@@ -120,6 +120,12 @@ Há ressalvas importantes: a norepinefrina não tem papel estabelecido como bron
 
 A tabela mostra apenas os 5 primeiros. Entre os demais constam produtos como Hyponor, Noradrem, Epikabi (vasoconstritores) e Xylestesin e Xylestesin com norepinefrina (anestésicos locais).
 
+<!-- review:begin br-lic-20261106-norepinephrine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Observação: os 10 registros encontrados estão válidos; a tabela mostra apenas os 5 primeiros.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 20 registros para este medicamento, 9 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-norepinephrine-1 -->
+
 ---
 
 ## Considerações de Segurança
@@ -138,11 +144,23 @@ Para advertências e contraindicações da bula, consulte a bula aprovada pela A
 **Justificativa:**
 - Não há ensaios clínicos que testem a norepinefrina em doença pulmonar obstrutiva e a literatura é basicamente fisiológica ou de revisão. Além disso, a norepinefrina é um vasopressor sistêmico sem papel broncodilatador, com risco cardiovascular relevante.
 
+<!-- review:begin br-lic-20261106-norepinephrine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Além disso, a norepinefrina é um vasopressor sistêmico sem papel broncodilatador, com risco cardiovascular relevante, e está comercializada no Brasil, com 10 registros válidos de 10.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 20 registros para este medicamento, 9 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-norepinephrine-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados detalhados do mecanismo de ação (MOA) e análise da plausibilidade mecanística frente aos agonistas beta-2 já disponíveis
 - Informações de segurança da bula (advertências e contraindicações) para triagem de segurança
 - Estudos pré-clínicos ou clínicos que avaliem a norepinefrina (ou via de administração alternativa, como a inalatória) em doença pulmonar obstrutiva
 - Avaliação da viabilidade regulatória
+
+<!-- review:begin br-lic-20261106-norepinephrine-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da viabilidade regulatória, dado que não há registros válidos no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 20 registros para este medicamento, 9 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-norepinephrine-3 -->
 
 ---
 
@@ -151,6 +169,21 @@ Para advertências e contraindicações da bula, consulte a bula aprovada pela A
 As outras duas indicações previstas têm evidência ainda mais fraca e também recebem decisão **Hold**:
 - **Malformação respiratória** (pontuação 0,9984, nível L5): sem ensaios clínicos; a literatura trata de controle neural da respiração e de risco de anomalias congênitas por fármacos psicotrópicos, sem justificativa terapêutica plausível.
 - **Síndrome de Rienhoff** (pontuação 0,9983, nível L5): sem ensaios clínicos nem literatura; não é possível estabelecer relação mecanística.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Observação: os 10 registros encontrados estão válidos; a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e está comercializada no Brasil, com 10 registros válidos de 10” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registros válidos no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

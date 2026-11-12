@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 173
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -76,6 +76,25 @@ O pipeline TxGNN não produziu previsões de reposicionamento para CAFFEINE ANHY
 - Reexecutar o pipeline TxGNN com o mapeamento corrigido para gerar `predicted_indications`
 - Obter dados de **MOA** (mecanismo de ação) via DrugBank API para preencher a lacuna DG002
 - Baixar e analisar a **bula da ANVISA** para obter advertências e contraindicações (lacuna DG001, severidade Blocking)
+
+<!-- review:begin br-lic-20261106-caffeine_anhydrous-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Baixar e analisar a **bula da ANVISA** para obter advertências e contraindicações (lacuna DG001, severidade Blocking) / Verificar o **status regulatório vigente** no Brasil: o registro retornou 0 licenças — confirmar se houve erro de busca ou se o fármaco de fato não possui registro ativo” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-caffeine_anhydrous-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Verificar o **status regulatório vigente** no Brasil: o registro retornou 0 licenças — confirmar se houve erro de busca ou se o fármaco de f” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

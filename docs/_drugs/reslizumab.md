@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 563
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Reslizumab: nova indicação prevista, Trombocitopenia por destruição imune (thrombocytopenia due to immune… (nível de evidência L5). Indicação original: Outros medicamentos antiasmáticos"
 monitor_inn: "reslizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets"]
@@ -83,12 +83,38 @@ Consulte a bula para informações de segurança.
 **Justificativa:**
 - A previsão tem pontuação alta no modelo, mas não há ensaios clínicos nem literatura direta (nível L5).
 
+<!-- review:begin br-lic-20261106-reslizumab-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão tem pontuação alta no modelo, mas não há ensaios clínicos nem literatura direta (nível L5). Além disso, o único registro brasileiro está cancelado e faltam dados de mecanismo e de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-reslizumab-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Realizar busca de literatura e de ensaios clínicos sobre o bloqueio de IL-5 em trombocitopenia imune
 - Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original
 - Verificar a viabilidade regulatória
+
+<!-- review:begin br-lic-20261106-reslizumab-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a viabilidade regulatória, dado que o registro no Brasil está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-reslizumab-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado e faltam dados de mecanismo e de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que o registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

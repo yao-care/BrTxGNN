@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 561
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ravulizumab: nova indicação prevista, Neutropenia congênita grave autossômica recessiva por deficiência de G6PC3 (nível de evidência L5). Indicação original: Outros produtos não enquadrados em classe tera…"
 monitor_inn: "ravulizumab"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
@@ -84,12 +84,31 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - A previsão tem nível de evidência L5: não há ensaios clínicos nem literatura, e a análise não encontrou ligação mecanística plausível entre a inibição de C5 e a neutropenia por deficiência de G6PC3.
 - Há sinal de contraindicação com infecção meningocócica.
 
+<!-- review:begin br-lic-20261106-ravulizumab-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O único registro brasileiro está cancelado, e há sinal de contraindicação com infecção meningocócica.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ravulizumab-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados.
 - Complementar os dados de mecanismo de ação a partir do DrugBank.
 - Realizar revisão sistemática da literatura e estudos pré-clínicos que testem o papel do complemento C5 na deficiência de G6PC3.
 - Reavaliar a viabilidade regulatória e comercial, dada a situação do registro (cancelado) e a compatibilidade de vias de administração (ainda pendente).
 - Caso haja interesse em priorizar outras candidatas da lista, tratar a hiperoxalúria primária como a única hipótese secundária especulativa, ainda dependente de evidência pré-clínica.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O único registro brasileiro está cancelado, e h” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

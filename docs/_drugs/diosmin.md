@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Diosmin: nova indicação prevista, Amenorreia (amenorrhea) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Diosmin"
 predicted_indications: ["amenorrhea (disease)"]
@@ -91,11 +91,30 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 **Justificativa:**
 A previsão para amenorreia tem pontuação alta no modelo, mas não conta com ensaios clínicos, literatura nem vínculo mecanístico plausível (nível L5).
 
+<!-- review:begin br-lic-20261106-diosmin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para amenorreia tem pontuação alta no modelo, mas não conta com ensaios clínicos, literatura nem vínculo mecanístico plausível (nível L5). Além disso, a diosmina não possui registro ativo no Brasil nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 49 registros para este medicamento, 37 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-diosmin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (MOA) em fonte como o DrugBank
 - Obter as advertências e contraindicações da bula na ANVISA, o que bloqueia a triagem de segurança
 - Esclarecer a indicação original e a situação regulatória da diosmina no Brasil
 - Realizar uma revisão sistemática da literatura e estudos pré-clínicos que sustentem uma ligação entre diosmina e amenorreia
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, a diosmina não possui registro ativo no Brasil nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

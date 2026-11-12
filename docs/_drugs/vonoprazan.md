@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 674
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "vonoprazan"
 predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "pylorospasm", "Dieulafoy lesion", "cascade stomach", "gastric dilatation", "hemorrhagic duodenitis"]
 description: "Vonoprazan: nova indicação prevista, Peptic ulcer perforation (nível de evidência L5). Indicação original: MEDICAMENTOS PARA ÚLCERA PÉPTICA E DOENÇAS DE REFLUXO GASTRESOFÁGICO"
@@ -115,11 +115,30 @@ Para as demais informações de segurança (advertências e contraindicações),
 **Justificativa:**
 - A pontuação do modelo é alta (0,9997), mas não há ensaios nem publicações diretas para "perfuração de úlcera péptica" (L5).
 
+<!-- review:begin br-lic-20261106-vonoprazan-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A pontuação do modelo é alta (0,9997), mas não há ensaios nem publicações diretas para "perfuração de úlcera péptica" (L5). Além disso, o medicamento é comercializado no Brasil, com 1 registro válido de 1.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-vonoprazan-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a ausência desses dados impede a triagem de segurança.
 - Complementar os dados do mecanismo de ação (DrugBank).
 - Buscar evidência direta (ensaios clínicos e literatura) para doença ulcerosa péptica ativa, avaliando os ensaios fase 3 em úlcera gástrica/duodenal já publicados.
 - Esclarecer o motivo do cancelamento do registro e a situação regulatória atual no Brasil.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 1 registro válido de 1” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

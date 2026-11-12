@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 365
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Inclisiran: nova indicação prevista, Deficiência de potássio (potassium deficiency disease) (nível de evidência L5). Indicação original: Antilipêmicos"
 monitor_inn: "inclisiran"
 predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
@@ -89,12 +89,31 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 **Justificativa:**
 - A previsão para deficiência de potássio não tem ensaios, literatura nem mecanismo plausível (nível L5).
 
+<!-- review:begin br-lic-20261106-inclisiran-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para deficiência de potássio não tem ensaios, literatura nem mecanismo plausível (nível L5). Além disso, o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-inclisiran-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados.
 - Confirmar o mecanismo de ação no DrugBank.
 - Realizar revisão sistemática da literatura sobre PCSK9/inclisirana e homeostase do potássio para verificar se há alguma hipótese biológica.
 - Confirmar os registros no ClinicalTrials.gov para descartar erro de mapeamento nos ensaios associados à malformação aórtica.
 - Esclarecer a situação regulatória (cancelamento do registro) e a disponibilidade comercial do produto no Brasil.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

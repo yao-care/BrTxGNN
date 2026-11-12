@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 636
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
 description: "Ticagrelor: nova indicação prevista, Arteriosclerose Intracraniana (intracranial arteriosclerosis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -101,6 +101,25 @@ Consulte a bula para as demais informações de segurança.
 - Obter dados detalhados do mecanismo de ação.
 - Definir plano de mitigação do risco de hemorragia intracraniana e das interações medicamentosas (especialmente inibidores potentes de CYP3A4, como a claritromicina).
 - Avaliar a viabilidade regulatória no Brasil.
+
+<!-- review:begin br-lic-20261106-ticagrelor-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a viabilidade regulatória no Brasil, dado que não há registro vigente.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 9 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ticagrelor-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “dado que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

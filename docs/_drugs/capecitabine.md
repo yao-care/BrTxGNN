@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Capecitabine: nova indicação prevista, Adenocarcinoma gástrico e polipose proximal do estômago (gastric adenocarcinoma and proximal polyposis of the stomach) (nível de evidência L5). Indicação origin…"
 ---
 
@@ -62,6 +62,12 @@ Mecanisticamente, esse efeito citotóxico é plausível para o adenocarcinoma g�
 
 A pontuação do TxGNN é muito alta (0,9994), mas é apenas uma saída do modelo, sem estudos clínicos ou publicações que a sustentem nos dados compilados.
 
+<!-- review:begin br-lic-20261106-capecitabine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 11 registros válidos de produtos de agente único, sem registros cancelados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 16 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-capecitabine-1 -->
+
 ## Informações de Comercialização no Brasil
 
 | Registro | Produto | Empresa detentora | Situação |
@@ -114,6 +120,19 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 - Complementar os dados de mecanismo de ação (MOA).
 - Buscar estudos que avaliem diretamente a síndrome de adenocarcinoma gástrico e polipose proximal do estômago.
 - Confirmar, na bula, a relação entre as indicações em oncologia gástrica e a previsão, para verificar se há de fato reposicionamento.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há 11 registros válidos de produtos de agente único, sem registros cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

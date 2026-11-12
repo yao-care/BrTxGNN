@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 593
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 description: "Sofosbuvir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L3). Indicação original: Não consta nos dados locais"
@@ -110,11 +110,30 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 - Não há plausibilidade mecanística para ação direta contra o HBV. Os ensaios e as publicações recuperados tratam do HCV, e o HBV aparece como questão de segurança (reativação) e não como alvo terapêutico.
 
+<!-- review:begin br-lic-20261106-sofosbuvir-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os ensaios e as publicações recuperados tratam do HCV, e o HBV aparece como questão de segurança (reativação) e não como alvo terapêutico. O fármaco também não tem registro ativo no Brasil, segundo os dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 9 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-sofosbuvir-1 -->
+
 **Para prosseguir, é necessário:**
 - Resultados completos do ensaio de fase 2 NCT03312023 (PMID 36045503), com análise dos desfechos HBsAg e HBV DNA.
 - Dados de bula da ANVISA (advertências e contraindicações) e dados de mecanismo de ação, hoje ausentes.
 - Verificar a situação regulatória do sofosbuvir no Brasil, pois os registros compilados indicam zero licenças.
 - Se houver interesse em reposicionamento viral, considerar indicações com maior plausibilidade mecanística, como a infecção pelo vírus da hepatite E (rank 2), que tem um piloto de fase 2 (NCT03282474, n=10) e dados in vitro. O piloto não mostrou resposta virológica sustentada, portanto também exige cautela.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O fármaco também não tem registro ativo no Brasil, segundo os dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

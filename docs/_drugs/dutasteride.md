@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 281
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Dutasteride: nova indicação prevista, Hipertricose universal congênita do tipo Ambras (Ambras type hypertri… (nível de evidência L5). Indicação original: Inibidor da alfa-redutase"
 monitor_inn: "Dutasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
@@ -119,12 +119,31 @@ Advertências e contraindicações da bula não estavam disponíveis; consulte a
 **Justificativa:**
 A previsão tem pontuação alta, mas nível de evidência L5: não há ensaios clínicos nem literatura, e o mecanismo (redução da DHT) não explica a síndrome de Ambras, de origem genética.
 
+<!-- review:begin br-lic-20261106-dutasteride-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão tem pontuação alta, mas nível de evidência L5: não há ensaios clínicos nem literatura, e o mecanismo (redução da DHT) não explica a síndrome de Ambras, de origem genética. Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 21 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-dutasteride-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem ela
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank)
 - Realizar revisão de literatura e estudos pré-clínicos que testem um vínculo entre a via da DHT e a regulação de *TRPS1*
 - Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original
 - Caso o interesse seja em queda de cabelo, priorizar indicações com maior plausibilidade (por exemplo, alopecia androgenética) e formular a hipotricose simples do couro cabeludo como pergunta de pesquisa
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 13 registros válidos de 13” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

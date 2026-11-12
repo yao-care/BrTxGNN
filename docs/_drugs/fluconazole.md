@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 319
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Fluconazole: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antimicóticos sistêmicos"
 monitor_inn: "Fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
@@ -75,6 +75,12 @@ Atualmente não há ensaios clínicos relacionados registrados para ceratoconjun
 
 Principais registros (5 de 20):
 
+<!-- review:begin br-lic-20261106-fluconazole-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O medicamento é comercializado, com 20 registros válidos. Principais registros (5 de 20):” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 98 registros para este medicamento, 31 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fluconazole-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410157 | FLUCONAZOL | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -127,12 +133,39 @@ Consulte a bula para advertências e contraindicações formais, que não estava
 **Justificativa:**
 - A previsão para ceratoconjuntivite epitelial punctata é puramente computacional (L5), sem ensaios ou literatura, e sem mecanismo plausível, já que a doença é tipicamente viral ou inflamatória.
 
+<!-- review:begin br-lic-20261106-fluconazole-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para ceratoconjuntivite epitelial punctata é puramente computacional (L5), sem ensaios ou literatura, e sem mecanismo plausível, já que a doença é tipicamente viral ou inflamatória. Além disso, não há registro vigente do fármaco no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 98 registros para este medicamento, 31 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fluconazole-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter os dados do mecanismo de ação (por exemplo, via DrugBank) e avaliar a relação mecanística com a doença.
 - Baixar e analisar a bula na ANVISA para advertências e contraindicações, etapa que bloqueia a triagem de segurança.
 - Realizar busca sistemática de literatura e ensaios sobre fluconazol em ceratoconjuntivite epitelial punctata.
 - Esclarecer a situação regulatória e a compatibilidade de via de administração (oftálmica vs. sistêmica).
 - Se houver interesse em alternativas, a malária por *P. falciparum* (L4) poderia ser priorizada para estudos pré-clínicos, mas com baixa expectativa de eficácia.
+
+<!-- review:begin br-lic-20261106-fluconazole-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória (medicamento comercializado, com 20 registros válidos) e a compatibilidade de via de administração (oftálmica vs. sistêmica).” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 98 registros para este medicamento, 31 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fluconazole-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O medicamento é comercializado, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, não há registro vigente do fármaco no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(medicamento comercializado, com 20 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

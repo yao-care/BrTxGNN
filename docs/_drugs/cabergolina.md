@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 169
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -41,6 +41,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 Cabergolina é um agonista dopaminérgico utilizado principalmente no tratamento da hiperprolactinemia e da doença de Parkinson.
 O presente Evidence Pack **não contém previsões TxGNN** para novas indicações — o campo `predicted_indications` está vazio — portanto não é possível avaliar candidatos de reposicionamento neste ciclo.
 
+<!-- review:begin br-lic-20261106-cabergolina-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O presente Evidence Pack **não contém previsões TxGNN** para novas indicações — o campo `predicted_indications` está vazio — portanto não é possível avaliar candidatos de reposicionamento neste ciclo. / Existem **20 registros** da substância no mercado brasileiro, porém os detalhes dos registros não foram recuperados nesta execução.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 25 registros para este medicamento, 15 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cabergolina-1 -->
+
 ---
 
 ## Visão Geral Rápida
@@ -60,6 +66,12 @@ O presente Evidence Pack **não contém previsões TxGNN** para novas indicaçõ
 ## Por que Este Relatório Está Incompleto?
 
 Há dois bloqueios críticos identificados no `meta.data_gaps`:
+
+<!-- review:begin br-lic-20261106-cabergolina-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Este Evidence Pack foi gerado com **dados parciais**: apenas a consulta ao banco regulatório brasileiro (TFDA/ANVISA) e ao DrugBank foram executadas, mas os campos de retorno dos registros estão em branco (campos `license_number`, `product_name_zh`, `approved_indication_text` todos vazios).” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cabergolina-2 -->
 
 | ID | Item Faltante | Severidade | Impacto |
 |----|--------------|-----------|---------|
@@ -120,6 +132,20 @@ O Evidence Pack não contém previsões de novas indicações e os dados regulat
 3. **Preencher o MOA (DG002)** — consultar DrugBank API com o ID recuperado para obter o mecanismo de ação e categorias do fármaco
 4. **Baixar e parsear a bula (DG001)** — obter advertências e contraindicações do PDF da bula ANVISA para liberar a avaliação de segurança
 5. **Reprocessar o pack** — após as correções acima, gerar novo Evidence Pack versão v5 com dados completos
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Existem **20 registros** da substância no mercado brasileiro, porém os detalhes dos registros não foram recuperados nesta execução” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Este Evidence Pack foi gerado com **dados parciais**: apenas a consulta ao banco regulatório brasileiro (TFDA/ANVISA) e ao DrugBank foram ex” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

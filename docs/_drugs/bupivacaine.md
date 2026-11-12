@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 162
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Bupivacaine: nova indicação prevista, Acrodermatite crônica atrófica (Acrodermatitis chronica atrophicans) (nível de evidência L5). Indicação original: Anestésicos locais"
 monitor_inn: "BUPIVACAINE"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
@@ -74,6 +74,12 @@ A pontuação alta (0,9923) vem do modelo TxGNN (deep learning) e pode refletir 
 
 A indicação aprovada em todos é "Anestésicos locais". Principais registros:
 
+<!-- review:begin br-lic-20261106-bupivacaine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 12 registros estão válidos (12 de 12). A indicação aprovada em todos é "Anestésicos locais".” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 23 registros para este medicamento, 12 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-bupivacaine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102980053 | NEOCAINA | CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. | Ativo |
@@ -118,6 +124,19 @@ A indicação aprovada em todos é "Anestésicos locais". Principais registros:
 - Obter dados de mecanismo de ação (por exemplo, via DrugBank) para avaliar qualquer vínculo mecanístico
 - Realizar estudos pré-clínicos ou revisão da literatura que sustentem alguma das indicações previstas
 - Avaliar a compatibilidade de vias de administração e a situação regulatória, dado que o medicamento está comercializado, com 12 registros válidos de 12
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os 12 registros estão válidos (12 de 12)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

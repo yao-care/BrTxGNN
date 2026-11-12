@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 601
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Sunitinib: nova indicação prevista, Lipossarcoma (Liposarcoma) (nível de evidência L2). Indicação original: Agentes antineoplásicos"
 monitor_inn: "sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
@@ -84,6 +84,12 @@ A indicação original é genérica (antineoplásico), e o sunitinibe é usado e
 
 O medicamento é comercializado.
 
+<!-- review:begin br-lic-20261106-sunitinib-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O medicamento é comercializado; todos os 7 registros encontrados estão válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-sunitinib-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 121100466 | SUTENT | PFIZER BRASIL LTDA | Ativo |
@@ -120,6 +126,12 @@ Observação: o texto da bula aprovado pela ANVISA não estava disponível, de m
 **Justificativa:**
 Há dois estudos de Fase 2 concluídos e um estudo publicado de Fase 2 com sinal clínico direto, porém limitado, em sarcomas de partes moles. Faltam dados confirmatórios específicos de lipossarcoma.
 
+<!-- review:begin br-lic-20261106-sunitinib-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Faltam dados confirmatórios específicos de lipossarcoma, e todos os registros brasileiros do sunitinibe estão cancelados, o que impede o uso imediato no país.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-sunitinib-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), pendência bloqueante para a triagem de segurança
 - Complementar os dados do mecanismo de ação via DrugBank
@@ -127,11 +139,32 @@ Há dois estudos de Fase 2 concluídos e um estudo publicado de Fase 2 com sinal
 - Comparar com terapias estabelecidas para lipossarcoma e definir o desenho de um estudo confirmatório
 - Verificar a viabilidade regulatória no Brasil
 
+<!-- review:begin br-lic-20261106-sunitinib-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a viabilidade regulatória no Brasil, dado que não há registro válido atualmente” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-sunitinib-3 -->
+
 ---
 
 ### Nota sobre outras indicações previstas
 
 Entre as demais indicações previstas, o **dermatofibrossarcoma protuberans** (especialmente após falha do imatinibe) apresenta evidências moderadas a limitadas. As demais indicações, como lipossarcoma mixoide ovariano, angiolipoma e fibrossarcoma cardíaco, contam com evidência mínima ou apenas com a previsão do modelo.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “todos os 7 registros encontrados estão válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e todos os registros brasileiros do sunitinibe estão cancelados, o que impede o uso imediato no país” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro válido atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

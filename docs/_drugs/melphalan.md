@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 description: "Melphalan: nova indicação prevista, Female breast carcinoma (nível de evidência L5). Indicação original: ANTINEOPLASICOS CITOTOXICOS"
@@ -110,12 +110,38 @@ Consulte a bula para informações complementares de segurança.
 **Justificativa:**
 Há um ensaio de Phase 2 concluído em tumores germinativos recidivados, mas o melfalano é apenas um componente de um regime combinado, e a única publicação é antiga e pouco relevante.
 
+<!-- review:begin br-lic-20261106-melphalan-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há um ensaio de Phase 2 concluído em tumores germinativos recidivados, mas o melfalano é apenas um componente de um regime combinado, e a única publicação é antiga e pouco relevante. Além disso, o único registro brasileiro está cancelado e as informações de bula não estão disponíveis, o que impede a triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-melphalan-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a avaliação de segurança
 - Obter dados detalhados do mecanismo de ação (MOA) no DrugBank
 - Buscar literatura específica sobre melfalano em altas doses em tumores germinativos, para isolar o efeito do fármaco dentro dos regimes combinados
 - Esclarecer a situação regulatória e a disponibilidade de formulações no Brasil
 - Definir plano de monitoramento hematológico, renal, hepático e pulmonar para uso em altas doses com resgate de células-tronco
+
+<!-- review:begin br-lic-20261031-melphalan-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória (registro cancelado) e a disponibilidade de formulações no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-melphalan-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado e as informações de bula não estão disponíveis, o que impede a triagem de segurança” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

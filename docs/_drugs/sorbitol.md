@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 596
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Sorbitol"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
 description: "Sorbitol: nova indicação prevista, Hipertermia maligna induzida por exercício (exercise-induced malignant hyperthermia) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -92,12 +92,38 @@ Para advertências e contraindicações formais, consulte a bula.
 **Justificativa:**
 - Não há ensaios clínicos nem literatura que apoiem o sorbitol na hipertermia maligna induzida por exercício, e não existe vínculo mecanístico plausível. A previsão (L5) baseia-se apenas no modelo.
 
+<!-- review:begin br-lic-20261106-sorbitol-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco não possui registro como medicamento no Brasil, e a previsão (L5) baseia-se apenas no modelo.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 33 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-sorbitol-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação que justifiquem a hipótese, caso ela seja mantida.
 - Obtenção e análise da bula (advertências e contraindicações) para a triagem de segurança.
 - Estudos pré-clínicos que testem a hipótese antes de qualquer avanço.
 - Reavaliação do conjunto de candidatas, pois outras indicações previstas (insuficiência cardíaca e otite média) também carecem de evidência direta e não justificam priorização.
 - Definição da situação regulatória no Brasil.
+
+<!-- review:begin br-lic-20261106-sorbitol-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Definição da situação regulatória no Brasil, já que não há registro vigente.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 33 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-sorbitol-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O fármaco não possui registro como medicamento no Brasil, e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

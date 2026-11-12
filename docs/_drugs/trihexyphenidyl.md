@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 655
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Trihexyphenidyl: nova indicação prevista, Transtorno de Déficit de Atenção e Hiperatividade (attention deficit-… (nível de evidência L5). Indicação original: Antiparkinsonianos"
 monitor_inn: "Trihexyphenidyl"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
@@ -91,6 +91,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 **Justificativa:**
 - Não há ensaios clínicos nem literatura que testem o triexifenidil no TDAH; a pontuação alta do modelo é apenas computacional. Além disso, os efeitos adversos cognitivos dos anticolinérgicos podem agravar a desatenção.
 
+<!-- review:begin br-lic-20261106-trihexyphenidyl-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Além disso, os efeitos adversos cognitivos dos anticolinérgicos podem agravar a desatenção, e o único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-trihexyphenidyl-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação (MOA) detalhados, a partir do DrugBank.
 - Bula do ANVISA com advertências e contraindicações, para a triagem de segurança.
@@ -98,7 +104,27 @@ Atualmente não há ensaios clínicos relacionados registrados.
 - Avaliação de estudos pré-clínicos ou de um ensaio exploratório antes de qualquer avanço.
 - Avaliação da viabilidade regulatória.
 
+<!-- review:begin br-lic-20261106-trihexyphenidyl-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da viabilidade regulatória, já que não há registro vigente no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-trihexyphenidyl-2 -->
+
 **Observação sobre outras previsões:** as demais indicações previstas (síndrome faciodigitogenital, TDAH tipo desatento, encefalite de Rasmussen, neurodegeneração associada ao PLA2G6, entre outras) também carecem de evidência clínica. A neurodegeneração associada ao PLA2G6 foi classificada como "questão de pesquisa", pelo possível benefício sintomático em distonia e tremor, com base em um único relato de caso.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

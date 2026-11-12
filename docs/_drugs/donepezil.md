@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "DONEPEZIL"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Donepezil: nova indicação prevista, Transtornos de movimento psicogênicos (psychogenic movement disorders) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -66,6 +66,12 @@ Assim, a previsão deve ser tratada apenas como um sinal gerado pelo modelo, a s
 
 A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.
 
+<!-- review:begin br-lic-20261106-donepezil-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados, o medicamento consta como comercializado, com 10 registros válidos. A lista de registros pode estar incompleta (registros parciais), e o detalhamento por registro não está disponível nos dados deste relatório.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 66 registros para este medicamento, 50 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-donepezil-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 100 interações no total. Entre as listadas, a de nível **Maior** é com bupropiona. As de nível **Moderado** incluem famotidina, ranitidina, cimetidina, atropina, hioscina (hiosciamina), glicopirrônio, clidínio, dicicloverina (diciclomina), loperamida, dexametasona, metronidazol, dolasetrona, picossulfato e polietilenoglicol com eletrólitos. As de nível **Menor** incluem aprepitanto, ácido acetilsalicílico, lorcasserina e claritromicina. Vários dos moderados são anticolinérgicos, cujo efeito pode se opor ao da donepezila.
@@ -85,6 +91,19 @@ Para advertências e contraindicações da bula, consulte a bula aprovada pela A
 - Obtenção das advertências e contraindicações da bula na ANVISA
 - Avaliação de segurança, considerando relatos de que inibidores da colinesterase podem se associar a distúrbios do movimento
 - Se houver sinal consistente, planejar estudo piloto controlado
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Segundo os dados compilados, o medicamento consta como comercializado, com 10 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

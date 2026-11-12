@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 300
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Estradiol Cypionate: nova indicação prevista, Forma sintomática da síndrome do X frágil em mulheres portadoras (sym… (nível de evidência L5). Indicação original: Anticoncepcionais"
 monitor_inn: "Estradiol cypionate"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "partial trisomy/tetrasomy of the short arm of chromosome 12", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "blepharophimosis-epicanthus inversus-ptosis", "partial autosomal trisomy/tetrasomy", "luteoma of pregnancy"]
@@ -99,6 +99,25 @@ Consulte a bula para advertências, contraindicações e interações medicament
 - Realizar revisão da literatura sobre reposição estrogênica em FXPOI/portadoras da pré-mutação de FMR1
 - Verificar a viabilidade regulatória, e a compatibilidade de via de administração
 - Avaliar se o foco deve migrar para indicações com plausibilidade biológica mais direta, em vez de condições cromossômicas sem vínculo estrogênico
+
+<!-- review:begin br-lic-20261106-estradiol_cypionate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a viabilidade regulatória, dado que não há registro vigente no país, e a compatibilidade de via de administração” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-estradiol_cypionate-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “dado que não há registro vigente no país” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

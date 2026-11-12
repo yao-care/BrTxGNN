@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -39,6 +39,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 ## Resumo
 
 No entanto, o Evidence Pack recebido não contém indicações originais registradas, mecanismo de ação (MOA) nem previsões de novas indicações pelo modelo TxGNN. Sem o campo `predicted_indications` preenchido, não é possível gerar um relatório completo de reposicionamento neste momento.
+
+<!-- review:begin br-lic-20261106-leflunomida-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Leflunomida (LEFLUNOMIDA) é um fármaco com 19 registros ativos no Brasil, confirmado como comercializado. No entanto, o Evidence Pack recebido não contém indicações originais registradas, mecanismo de ação (MOA) nem previsões de novas indicações pelo modelo TxGNN.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 19 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-leflunomida-1 -->
 
 ## Visão Geral Rápida
 
@@ -74,6 +80,19 @@ O Evidence Pack não contém previsões TxGNN (`predicted_indications` está vaz
 - **[Alta prioridade — DG002]** Recuperar o `drugbank_id` correto e obter o MOA via DrugBank API (a consulta retornou 1 resultado, mas o ID não foi capturado)
 - **[Bloqueante para o relatório]** Executar o pipeline TxGNN para gerar `predicted_indications` com pontuações, ensaios clínicos e literatura associada — sem esse campo, o relatório de reposicionamento não pode ser produzido
 - Reprocessar o Evidence Pack com os dados complementados e resubmeter para geração do relatório completo
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Leflunomida (LEFLUNOMIDA) é um fármaco com 19 registros ativos no Brasil, confirmado como comercializado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 684
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan: nova indicação prevista, Atrophoderma vermiculata (nível de evidência L5). Indicação original: ANALGESICOS CONTRA ENXAQUECA"
@@ -58,7 +58,6 @@ mas atualmente há **0 ensaios clínicos** e **apenas literatura indireta** (pub
 
 Atualmente, não há dados detalhados sobre o mecanismo de ação nos dados compilados para este relatório. Segundo a literatura revisada, a zolmitriptana é um agonista parcial dos receptores 5-HT1B/1D com ação central e periférica, capaz de inibir a ativação trigeminovascular. Sua eficácia na enxaqueca aguda, com ou sem aura, está bem documentada.
 
-
 Há, porém, ressalvas importantes. A literatura fornecida trata de enxaqueca em geral (revisões, farmacologia, diretrizes) e não contém nenhum estudo específico sobre aura do tronco encefálico. Os triptanos historicamente exigem cautela em enxaqueca hemiplégica e com aura do tronco encefálico, por preocupações teóricas de vasoconstrição. Além disso, há um relato de caso de infarto do miocárdio associado à zolmitriptana. A evidência é, portanto, indireta.
 
 ## Evidências de Ensaios Clínicos
@@ -108,6 +107,25 @@ Há uma lista extensa de contraindicações cardiovasculares e cerebrovasculares
 - Dados do mecanismo de ação a partir de fontes como o DrugBank
 - Bula oficial da ANVISA com advertências e contraindicações
 - Esclarecimento da situação regulatória no Brasil e de eventual nova formulação
+
+<!-- review:begin br-lic-20261031-zolmitriptan-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecimento da situação regulatória no Brasil (registro cancelado) e de eventual nova formulação” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-zolmitriptan-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

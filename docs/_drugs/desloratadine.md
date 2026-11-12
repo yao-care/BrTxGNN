@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Desloratadine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: ANTI-HISTAMINICOS SISTEMICOS"
 ---
 
@@ -77,6 +77,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Principais:
 
+<!-- review:begin br-lic-20261111-desloratadine-1 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Há 20 registros de produtos de desloratadina isolada nos dados compilados (a lista pode estar incompleta). Principais:” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-desloratadine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290187 | DESALEX D12 | ORGANON FARMACÊUTICA LTDA. | Ativo |
@@ -131,6 +137,19 @@ Consulte a bula para advertências e contraindicações oficiais.
 - Obter dados do mecanismo de ação e o texto da bula com advertências e contraindicações.
 - Buscar ou conduzir estudos clínicos com desloratadina na condição escolhida.
 - Verificar a situação dos registros no Brasil, pois os dados de validade são inconsistentes.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-11 | Removido: “Há 20 registros de produtos de desloratadina isolada nos dados compilados (a lista pode estar incompleta)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 240
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Cobimetinib: nova indicação prevista, Esclerose Lateral Amiotrófica (amyotrophic lateral sclerosis) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "cobimetinib"
 predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "Mills syndrome", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "amyotrohpic lateral sclerosis type 22", "monomelic amyotrophy"]
@@ -92,12 +92,38 @@ As demais previsões entre as 10 primeiras são, em sua maioria, variantes ou do
 **Justificativa:**
 A previsão tem pontuação alta, mas é puramente computacional (L5), sem ensaios clínicos nem literatura. Somando-se a isso a limitada penetração no sistema nervoso central, o perfil de toxicidade desfavorável em doenças do neurônio motor, não há base para avançar.
 
+<!-- review:begin br-lic-20261106-cobimetinib-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Somando-se a isso a limitada penetração no sistema nervoso central, o perfil de toxicidade desfavorável em doenças do neurônio motor e o registro cancelado no Brasil, não há base para avançar.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cobimetinib-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação a partir do DrugBank e análise do vínculo mecanístico com a ELA
 - Advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança)
 - Estudos pré-clínicos em modelos de ELA, incluindo exposição no SNC
 - Avaliação da viabilidade regulatória e comercial
 - Plano de monitoramento de segurança (oftalmológico, CPK, cardíaco) caso se avance
+
+<!-- review:begin br-lic-20261106-cobimetinib-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da viabilidade regulatória e comercial, dado que o único registro está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cobimetinib-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o registro cancelado no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que o único registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

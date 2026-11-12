@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Entacapone: nova indicação prevista, Neurodegeneração associada ao PLA2G6 (PLA2G6-associated neurodegenera… (nível de evidência L5). Indicação original: Antiparkinsonianos"
 monitor_inn: "ENTACAPONE"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
@@ -69,6 +69,12 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 Atualmente não há literatura relacionada.
 
+<!-- review:begin br-lic-20261106-entacapone-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os registros de entacapona no Brasil constam como cancelados; não há registro válido atualmente.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 14 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-entacapone-1 -->
+
 ## Informações de Comercialização no Brasil
 
 | Registro | Produto | Empresa detentora | Situação |
@@ -120,6 +126,26 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Evidências de literatura ou relatos de caso em PLAN, especialmente em fenótipos com distonia-parkinsonismo.
 - Avaliação de viabilidade regulatória e comercial.
 - Análise de risco-benefício frente às contraindicações do grafo, em especial as cardiovasculares, hepáticas e psiquiátricas.
+
+<!-- review:begin br-lic-20261106-entacapone-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação de viabilidade regulatória e comercial, dado que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 14 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-entacapone-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os registros de entacapona no Brasil constam como cancelados; não há registro válido atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

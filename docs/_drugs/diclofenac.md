@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Diclofenac: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -66,6 +66,12 @@ A pontuação alta do TxGNN reflete apenas um padrão de previsão do modelo, se
 
 A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.
 
+<!-- review:begin br-lic-20261106-diclofenac-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados. A lista de registros pode estar incompleta, e por isso os registros individuais não são detalhados aqui.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 397 registros para este medicamento, 103 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-diclofenac-1 -->
+
 ## Considerações de Segurança
 
 Os dados de advertências e contraindicações da bula não estão disponíveis nos dados compilados. Consulte a bula para as informações de segurança oficiais.
@@ -86,6 +92,19 @@ Os dados de advertências e contraindicações da bula não estão disponíveis 
 - Estudos pré-clínicos em modelos de folículo piloso ou de hipotricose hereditária
 - Revisão da bula brasileira para advertências e contraindicações
 - Confirmação da lista completa de registros na ANVISA
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Segundo os dados de registro compilados, o diclofenaco consta como **comercializado** no Brasil, com 6 registros válidos e 14 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

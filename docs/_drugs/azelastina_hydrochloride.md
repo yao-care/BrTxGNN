@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 99
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -70,6 +70,12 @@ As formulações mais comuns são a solução nasal (spray) para rinite alérgic
 
 Possíveis razões:
 
+<!-- review:begin br-lic-20261106-azelastina_hydrochloride-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Nenhum registro foi encontrado na base de dados regulatória com o termo de busca **"AZELASTINA HYDROCHLORIDE"**. Possíveis razões:” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-azelastina_hydrochloride-1 -->
+
 - O fármaco pode estar registrado sob nomenclatura em português: **"Cloridrato de Azelastina"** ou simplesmente **"Azelastina"**
 - Pode haver registro apenas por nome comercial (ex.: Allergodil®, Azedine®)
 - O registro pode ter sido feito apenas para a combinação com fluticasona (Dymista®), sem entrada isolada
@@ -89,6 +95,19 @@ O modelo TxGNN não produziu nenhuma indicação candidata para este fármaco, e
 - Com o DrugBank ID confirmado, **reexecutar o modelo TxGNN** para gerar previsões de reposicionamento
 - Coletar dados de **MOA** e **advertências/contraindicações** a partir do DrugBank e da bula registrada
 - Verificar se há dados de interações medicamentosas relevantes (DDI retornou `not_found`)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Nenhum registro foi encontrado na base de dados regulatória com o termo de busca **"AZELASTINA HYDROCHLORIDE"**” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

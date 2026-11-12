@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Felodipine: nova indicação prevista, Hipertensão pulmonar de mecanismo multifatorial incerto (pulmonary hy… (nível de evidência L5). Indicação original: Anti-hipertensivos – associações medicamentosa"
 monitor_inn: "felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
@@ -114,12 +114,38 @@ Para advertências e contraindicações da bula, consulte a bula aprovada, pois 
 - A previsão principal (hipertensão pulmonar de mecanismo incerto) tem apenas suporte computacional (L5), sem ensaios ou publicações, e há ressalvas fisiopatológicas (benefício limitado dos bloqueadores de cálcio fora do subgrupo vasorreativo; risco na hipoxia).
 - As melhores evidências são para o cor pulmonale crônico (L4, apenas estudos hemodinâmicos agudos), classificado como questão de pesquisa.
 
+<!-- review:begin br-lic-20261106-felodipine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão principal (hipertensão pulmonar de mecanismo incerto) tem apenas suporte computacional (L5), sem ensaios ou publicações, e há ressalvas fisiopatológicas (benefício limitado dos bloqueadores de cálcio fora do subgrupo vasorreativo; risco na hipoxia). Além disso, o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-felodipine-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação a partir do DrugBank
 - Bula do ANVISA com advertências e contraindicações (lacuna bloqueante para a triagem de segurança)
 - Confirmação do desenho dos estudos (randomização, desfechos) na angina de Prinzmetal e definição de vantagem frente aos bloqueadores de cálcio já disponíveis
 - Avaliação da viabilidade regulatória e comercial
 - Se houver interesse em hipertensão pulmonar, evidências específicas (ensaios) em subgrupos vasorreativos e avaliação da via de administração e formulação
+
+<!-- review:begin br-lic-20261106-felodipine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da viabilidade regulatória e comercial, dado que o registro está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-felodipine-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

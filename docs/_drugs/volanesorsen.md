@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 673
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Volanesorsen: nova indicação prevista, Anemia megaloblástica (Megaloblastic Anemia) (nível de evidência L5). Indicação original: Outros agentes modificadores de lipídios"
 monitor_inn: "volanesorsen"
 predicted_indications: ["megaloblastic anemia (disease)", "sclerosing cholangitis", "sickle cell disease and related diseases", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "meningococcal infection", "paroxysmal nocturnal hemoglobinuria"]
@@ -92,12 +92,31 @@ Para as demais informações de segurança (advertências e contraindicações),
 - A previsão tem nível de evidência L5, sem ensaios clínicos nem literatura, e sem vínculo mecanístico plausível com a anemia megaloblástica.
 - Há risco de trombocitopenia, o que desfavorece o uso em doenças hematológicas.
 
+<!-- review:begin br-lic-20261106-volanesorsen-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O único registro no Brasil está cancelado, e há risco de trombocitopenia, o que desfavorece o uso em doenças hematológicas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-volanesorsen-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que é bloqueante para a triagem de segurança.
 - Complementar os dados do mecanismo de ação a partir do DrugBank.
 - Realizar uma busca ativa de literatura e de ensaios clínicos que justifiquem qualquer vínculo biológico.
 - Avaliar a compatibilidade de vias de administração e o risco de trombocitopenia em populações hematológicas.
 - Considerar a priorização de outras indicações, pois nenhuma das 10 previsões apresenta evidências no momento.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O único registro no Brasil está cancelado, e h” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

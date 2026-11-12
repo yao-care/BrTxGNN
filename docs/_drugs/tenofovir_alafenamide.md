@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 611
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Tenofovir Alafenamide: nova indicação prevista, Infecção pelo vírus da imunodeficiência símia (simian immunodeficienc… (nível de evidência L4). Indicação original: Associações de antivirais para o tr…"
 monitor_inn: "tenofovir alafenamide"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -106,6 +106,12 @@ Para demais informações de segurança (advertências e contraindicações), co
 **Justificativa:**
 - As evidências são exclusivamente pré-clínicas (L4), com modelos de SIV/SHIV em macacos que representam pesquisa translacional sobre o HIV, e não uma nova indicação em humanos.
 
+<!-- review:begin br-lic-20261106-tenofovir_alafenamide-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “As evidências são exclusivamente pré-clínicas (L4), com modelos de SIV/SHIV em macacos que representam pesquisa translacional sobre o HIV, e não uma nova indicação em humanos. Além disso, não há registro válido do produto no Brasil no momento.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tenofovir_alafenamide-1 -->
+
 **Para prosseguir, é necessário:**
 - Esclarecer se o objetivo é um uso humano novo; se não for, tratar o resultado como validação de modelo para HIV, e não como reposicionamento.
 - Obter e analisar as advertências e contraindicações da bula na ANVISA.
@@ -114,6 +120,19 @@ Para demais informações de segurança (advertências e contraindicações), co
 - Confirmar a situação regulatória atual no Brasil; os 4 registros constam como válidos (4 de 4).
 
 *Observação: as demais previsões do modelo (síndrome de imunodeficiência adquirida felina e um transtorno do neurodesenvolvimento com marcha atáxica, ausência de fala e redução da substância branca cortical) não têm ensaios nem literatura nos dados compilados e são nível L5. A primeira é uma indicação veterinária fora do escopo humano, e a segunda não tem vínculo mecanístico identificado. As pontuações vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica. Ambas permanecem em **Hold**.*
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, não há registro válido do produto no Brasil no momento” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

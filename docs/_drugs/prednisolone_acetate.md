@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PREDNISOLONE ACETATE"
 predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Prednisolone Acetate: nova indicação prevista, Foliculose conjuntival (nível de evidência L5). Indicação original: Glicocorticoides tópicos oftalmológicos simples"
 ---
 
@@ -86,6 +86,12 @@ Atualmente não há literatura relacionada à foliculose conjuntival.
 
 Como contexto, a única publicação identificada que avalia o acetato de prednisolona em modelo de conjuntivite alérgica é pré-clínica, e não se refere à doença prevista:
 
+<!-- review:begin br-lic-20261106-prednisolone_acetate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há ainda mais dois registros válidos (PREDOPTIC e ZYPRED, este classificado como anti-infeccioso tópico em associações medicamentosas), totalizando 7.” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-prednisolone_acetate-1 -->
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [24055903](https://pubmed.ncbi.nlm.nih.gov/24055903/) | 2013 | RCT (modelo experimental) | Cornea | Compara ciclosporina A 0,05% e 2%, epinastina 0,05% e acetato de prednisolona 1% na inflamação alérgica em modelo experimental de conjuntivite alérgica |
@@ -127,6 +133,19 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Bula oficial da ANVISA, com advertências e contraindicações, e dados de forma farmacêutica e via de administração.
 - Estudos clínicos que avaliem diretamente o acetato de prednisolona na doença-alvo, com monitoramento de pressão intraocular.
 - Antes de qualquer uso, descartar etiologia infecciosa, dada a contraindicação em infecções oculares.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há ainda mais dois registros válidos (PREDOPTIC e ZYPRED, este classificado como anti-infeccioso tópico em associações medicamentosas), tota” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

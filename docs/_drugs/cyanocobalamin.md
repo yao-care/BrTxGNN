@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 243
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Cyanocobalamin: nova indicação prevista, Doença metabólica da biotina (biotin metabolic disease) (nível de evidência L5). Indicação original: Vitamina B12 (cianocobalamina e análogos)"
 monitor_inn: "CYANOCOBALAMIN"
 predicted_indications: ["biotin metabolic disease"]
@@ -75,6 +75,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Os cinco principais estão listados abaixo.
 
+<!-- review:begin br-lic-20261106-cyanocobalamin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Foram encontrados 20 registros válidos no Brasil. Os cinco principais estão listados abaixo.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 358 registros para este medicamento, 35 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cyanocobalamin-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431326 | NEO B | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -128,6 +134,26 @@ A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos e com u
 - Evidências pré-clínicas ou clínicas de que a B12 traga benefício em distúrbios do metabolismo da biotina (por exemplo, deficiência de biotinidase ou de holocarboxilase sintetase)
 - Bula da ANVISA com advertências e contraindicações, para a triagem de segurança
 - Esclarecimento da situação regulatória, e avaliação da compatibilidade de vias de administração
+
+<!-- review:begin br-lic-20261106-cyanocobalamin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecimento da situação regulatória, já que não há registro válido no Brasil, e avaliação da compatibilidade de vias de administração” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 358 registros para este medicamento, 35 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cyanocobalamin-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Foram encontrados 20 registros válidos no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

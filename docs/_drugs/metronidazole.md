@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 455
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Metronidazole: nova indicação prevista, Pneumocistose (Pneumocystosis) (nível de evidência L5). Indicação original: Amebicidas, giardicidas e tricomonicidas"
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
@@ -96,6 +96,12 @@ Prioridade para os tipos de estudo mais robustos; nenhum é RCT.
 
 O medicamento está comercializado. Listados os cinco principais:
 
+<!-- review:begin br-lic-20261106-metronidazole-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Foram encontrados 20 registros válidos; o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 141 registros para este medicamento, 41 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-metronidazole-2 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410129 | ENDONIDAZOL | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -152,11 +158,38 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Justificativa:**
 - Não há ensaios clínicos, a literatura é indireta e não sustenta eficácia contra *Pneumocystis*, e o mecanismo do metronidazol é incompatível com um fungo; a pontuação alta vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica.
 
+<!-- review:begin br-lic-20261106-metronidazole-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos, a literatura é indireta e não sustenta eficácia contra *Pneumocystis*, e o mecanismo do metronidazol é incompatível com um fungo; a pontuação alta vem do modelo TxGNN (aprendizado profundo) e pode refletir semelhanças que o modelo aprendeu entre doenças relacionadas, não evidência biológica. Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 141 registros para este medicamento, 41 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-metronidazole-3 -->
+
 **Para prosseguir, é necessário:**
 - Obter dados de mecanismo de ação e das advertências e contraindicações da bula (ANVISA), hoje ausentes.
 - Verificar se há atividade in vitro/in vivo contra *Pneumocystis* antes de qualquer avanço (hoje não há base para isso).
 - Reorientar a avaliação para indicações com plausibilidade maior (pôliposis em capuz, proctossigmoidite ulcerativa, úlcera vulvar de Crohn/amebiana), que exigem revisão sistemática e estudos controlados.
 - Esclarecer a situação regulatória e formas farmacêuticas disponíveis.
+
+<!-- review:begin br-lic-20261031-metronidazole-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória (registros cancelados) e formas farmacêuticas disponíveis.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 141 registros para este medicamento, 41 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-metronidazole-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Foram encontrados 20 registros válidos; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

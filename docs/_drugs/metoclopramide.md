@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Metoclopramide: nova indicação prevista, Gastroduodenite (nível de evidência L5). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
@@ -154,6 +154,12 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 **Justificativa:**
 - A única evidência clínica é um ensaio de fase 4 pequeno, de status desconhecido, sobre visualização endoscópica, que não avalia tratamento da úlcera. A literatura é indireta, o fármaco não tem ação cicatrizante ou antissecretora.
 
+<!-- review:begin br-lic-20261106-metoclopramide-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A literatura é indireta, o fármaco não tem ação cicatrizante ou antissecretora, e não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 83 registros para este medicamento, 20 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-metoclopramide-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), hoje indisponível.
 - Obter dados formais de mecanismo de ação (por exemplo, via DrugBank).
@@ -161,6 +167,19 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 - Definir se o objetivo é tratar a úlcera ou apenas sintomas associados, como dispepsia e esvaziamento retardado.
 - Realizar estudos controlados com desfechos de cicatrização de úlcera, se a hipótese for mantida.
 - Verificar a situação regulatória atual, já que há 20 registros válidos e o medicamento é comercializado.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

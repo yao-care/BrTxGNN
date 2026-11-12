@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 394
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Latanoprostene Bunod: nova indicação prevista, Calcifilaxia visceral (visceral calciphylaxis) (nível de evidência L5). Indicação original: Análogos da prostaglandina"
 monitor_inn: "latanoprostene bunod"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
@@ -114,6 +114,12 @@ Para as demais informações de segurança, consulte a bula.
 **Justificativa:**
 - A previsão para calcifilaxia visceral tem pontuação alta no TxGNN (0,9976), mas não conta com ensaios clínicos nem publicações (nível L5). O mecanismo é pouco plausível, dada a via tópica ocular e a exposição sistêmica mínima.
 
+<!-- review:begin br-lic-20261106-latanoprostene_bunod-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O mecanismo é pouco plausível, dada a via tópica ocular e a exposição sistêmica mínima. Além disso, o único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-latanoprostene_bunod-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA, com advertências e contraindicações, que ainda não estão disponíveis
 - Complementar os dados do mecanismo de ação em fontes como o DrugBank
@@ -121,6 +127,26 @@ Para as demais informações de segurança, consulte a bula.
 - Avaliar a viabilidade de via sistêmica ou formulação alternativa, já que a via ocular não gera exposição sistêmica relevante
 - Esclarecer a situação regulatória no Brasil
 - Se houver interesse em uma direção com maior plausibilidade, priorizar o glaucoma hereditário primário, que é uma extensão da indicação aprovada, com confirmação em populações geneticamente definidas
+
+<!-- review:begin br-lic-20261106-latanoprostene_bunod-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória no Brasil, já que o registro está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-latanoprostene_bunod-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

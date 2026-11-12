@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Guaifenesin"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Guaifenesin: nova indicação prevista, doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -75,6 +75,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Os detalhes de cada registro não constam nos dados compilados para este relatório.
 
+<!-- review:begin br-lic-20261106-guaifenesin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os dados locais indicam que o medicamento está comercializado, com 5 registros válidos e 15 cancelados (a lista pode estar incompleta, pois os registros são parciais). Os detalhes de cada registro não constam nos dados compilados para este relatório.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 128 registros para este medicamento, 30 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-guaifenesin-1 -->
+
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança.
@@ -91,6 +97,19 @@ Consulte a bula para informações de segurança.
 - Dados do mecanismo de ação (MOA)
 - Bula brasileira com advertências, contraindicações e interações medicamentosas para avaliação de segurança
 - Definição da via de administração e da forma farmacêutica adequadas à nova indicação
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os dados locais indicam que o medicamento está comercializado, com 5 registros válidos e 15 cancelados (a lista pode estar incompleta, pois ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

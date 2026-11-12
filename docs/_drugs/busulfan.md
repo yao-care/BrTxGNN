@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 167
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Busulfan: nova indicação prevista, Síndrome Mielodisplásica (Myelodysplastic Syndrome) (nível de evidência L1). Indicação original: Antineoplásicos citotóxicos"
 monitor_inn: "busulfan"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "simian immunodeficiency virus infection"]
@@ -135,17 +135,43 @@ Foram compilados 20 estudos. Abaixo estão os 10 mais relevantes.
 **Justificativa:**
 Há vários ensaios de Fase 2, Fase 2/3 e Fase 3, além de comparações randomizadas, que sustentam o busulfano como base do condicionamento em SMD. Contudo, o papel é exclusivamente de condicionamento pré-transplante, a evidência de Fase 3 específica para SMD é limitada.
 
+<!-- review:begin br-lic-20261106-busulfan-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Contudo, o papel é exclusivamente de condicionamento pré-transplante, a evidência de Fase 3 específica para SMD é limitada e o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-busulfan-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois esta lacuna impede a triagem de segurança.
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank).
 - Definir plano de monitoramento de segurança (mielotoxicidade, toxicidade hepática, convulsões, interações) para o contexto de transplante.
 - Aguardar resultados dos ensaios de Fase 2/3 em andamento (NCT04708054, NCT05453552).
 
+<!-- review:begin br-lic-20261106-busulfan-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank). / Esclarecer a situação regulatória: o registro está cancelado, sendo necessário verificar a disponibilidade de produto vigente (por exemplo, busulfano injetável de outros titulares).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-busulfan-2 -->
+
 ### Observação sobre outras indicações previstas
 
 - **Condições com evidência de transplante, porém indireta:** doença refratária de citopenia da infância (L2, Proceed with Guardrails) e anemia aregenerativa (L1 com ressalvas; o ensaio de Fase 3 não é específico para anemia aplástica).
 - **Apenas pesquisa:** síndrome mielodisplásica não classificada (L3) e infecção por HIV (L3, busulfano apenas como condicionamento para terapia celular/gênica).
 - **Hold (sem evidência):** deleção parcial do braço longo do cromossomo 5, anemia hipocrômica congênita grave com sideroblastos em anel, transtorno do neurodesenvolvimento com marcha atáxica, queratose seborreica e infecção pelo vírus da imunodeficiência símia.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Esclarecer a situação regulatória: o registro está cancelado, sendo necessário verificar a disponibilidade de produto vigente (por exemplo, ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

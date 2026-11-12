@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 description: "Fosfomycin: nova indicação prevista, Doença inflamatória uterina (uterine inflammatory disease) (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples"
 ---
 
@@ -91,6 +91,12 @@ Os dois estudos foram avaliados como de relevância baixa (grau C) para a indica
 
 A tabela mostra os 5 primeiros.
 
+<!-- review:begin br-lic-20261106-fosfomycin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 9 registros são de produtos com fosfomicina isolada e estão válidos. A tabela mostra os 5 primeiros.” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fosfomycin-1 -->
+
 | Número de Registro | Nome Comercial | Indicação Aprovada |
 |---------|------|-----------|
 | Registro nº 100840139 | Monuril | Antibióticos sistêmicos simples |
@@ -127,6 +133,19 @@ Consulte a bula para as advertências e contraindicações oficiais.
 - Dados de penetração tecidual no útero e no trato genital feminino, e de atividade sobre os patógenos típicos dessas infecções.
 - Revisão das advertências e contraindicações na bula aprovada pela ANVISA.
 - Verificação da via de administração necessária, já que a fosfomicina oral de dose única é estabelecida apenas para infecção urinária baixa não complicada.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os 9 registros são de produtos com fosfomicina isolada e estão válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

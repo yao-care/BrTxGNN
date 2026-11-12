@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "eplerenone"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Eplerenone: nova indicação prevista, hipertensão pulmonar devida a doença pulmonar e/ou hipóxia (pulmonary hypertension owing to lung disease and/or hypoxia) (nível de evidência L5). Indicação origin…"
 ---
 
@@ -66,6 +66,12 @@ Contudo, o vínculo é indireto: os estudos tratam de lesão em órgãos-alvo as
 
 Nenhum dos estudos citados investiga diretamente, em humanos, a hipertensão pulmonar devida a doença pulmonar e/ou hipóxia. Por isso, o nível de evidência é L5.
 
+<!-- review:begin br-lic-20261111-eplerenone-1 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Há 2 registros de produtos de princípio ativo único, ambos para eplerenona.” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-eplerenone-1 -->
+
 | PMID | Ano | Tipo | Periódico | Principais Achados |
 |------|-----|------|------|---------|
 | [27230560](https://pubmed.ncbi.nlm.nih.gov/27230560/) | 2016 | Estudo clínico pequeno | Pol Arch Med Wewn | Avaliou o efeito da eplerenona na gravidade da apneia obstrutiva do sono e na rigidez arterial em hipertensão resistente |
@@ -109,6 +115,19 @@ Consulte a bula para as advertências e contraindicações oficiais.
 - Estudos pré-clínicos específicos em modelos de hipertensão pulmonar por hipóxia/doença pulmonar e, depois, ensaios clínicos exploratórios.
 - Obtenção das advertências e contraindicações da bula na ANVISA.
 - Plano de monitoramento de potássio e função renal, dadas as interações com suplementos de potássio e outros fármacos.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-11 | Removido: “Há 2 registros de produtos de princípio ativo único, ambos para eplerenona” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

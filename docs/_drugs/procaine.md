@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 551
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Procaine"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis"]
 description: "Procaine: nova indicação prevista, Metemoglobinemia (methemoglobinemia) (nível de evidência L4). Indicação original: ANESTESICOS LOCAIS"
@@ -148,12 +148,38 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 - A indicação com maior pontuação (metemoglobinemia) é, segundo a literatura, um efeito adverso da procaína, e não uma oportunidade terapêutica. Não há ensaios clínicos para nenhuma das indicações previstas.
 - Apenas fibromialgia e tendinite merecem investigação como questões de pesquisa, para alívio sintomático da dor.
 
+<!-- review:begin br-lic-20261106-procaine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos para nenhuma das indicações previstas, e os registros no Brasil estão todos cancelados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 40 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-procaine-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar as advertências e contraindicações da bula na ANVISA (lacuna bloqueante para a triagem de segurança).
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Descartar formalmente a metemoglobinemia e indicações correlatas como alvos terapêuticos e tratá-las como alerta de segurança.
 - Se houver interesse em dor musculoesquelética, revisar sistematicamente as evidências de infiltração de procaína e planejar ensaios randomizados modernos (injeção em pontos-gatilho ou anestésicos intravenosos), verificando o desenho do estudo de terapia neural de 2022.
 - Avaliar a viabilidade regulatória.
+
+<!-- review:begin br-lic-20261106-procaine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a viabilidade regulatória, já que não há registro vigente no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 40 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-procaine-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e os registros no Brasil estão todos cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

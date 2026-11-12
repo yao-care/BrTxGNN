@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 121
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -72,6 +72,12 @@ Para que uma análise de reposicionamento seja possível, é necessário primeir
 
 Os dados de registro precisam ser complementados via consulta direta à base de dados da ANVISA.
 
+<!-- review:begin br-lic-20261106-benznidazol-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco possui **2 registros ativos** no Brasil, porém os detalhes individuais (número de registro, nome comercial, forma farmacêutica e indicação aprovada) não foram recuperados neste ciclo de coleta. Os dados de registro precisam ser complementados via consulta direta à base de dados da ANVISA.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-benznidazol-1 -->
+
 > ℹ️ Nota: O Benznidazol é fabricado no Brasil pelo **LAFEPE** (Laboratório Farmacêutico do Estado de Pernambuco), sendo um medicamento estratégico para o Programa Nacional de Controle da Doença de Chagas do Ministério da Saúde.
 
 ---
@@ -95,6 +101,19 @@ O Evidence Pack está incompleto em itens críticos — não há previsões TxGN
 - [ ] **[Alta prioridade]** Re-executar o pipeline `run_kg_prediction.py` após mapear o fármaco ao DrugBank ID
 - [ ] Complementar os campos dos 2 registros ANVISA (número, nome comercial, forma farmacêutica, indicação aprovada)
 - [ ] Verificar se há ensaios clínicos em andamento no ClinicalTrials.gov para Benznidazol em indicações não-Chagas (ex.: outras infecções parasitárias, uso profilático)
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O fármaco possui **2 registros ativos** no Brasil, porém os detalhes individuais (número de registro, nome comercial, forma farmacêutica e i” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

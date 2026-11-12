@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 439
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Megestrol acetate"
 predicted_indications: ["hereditary breast ovarian cancer syndrome", "borderline epithelial tumor of ovary", "uterine carcinosarcoma", "placenta cancer", "ovarian clear cell adenocarcinoma", "ovarian cancer", "malignant dysgerminomatous germ cell tumor of ovary"]
 description: "Megestrol Acetate: nova indicação prevista, Hereditary breast ovarian cancer syndrome (nível de evidência L5). Indicação original: ANTINEOPLASICO"
@@ -97,15 +97,41 @@ O ensaio disponível (NCT00729586) é um estudo Phase 2 randomizado e concluído
 **Justificativa:**
 - Há um ensaio Phase 2 randomizado e concluído em câncer endometrial com regime que inclui megestrol, e a progestina tem fundamento hormonal plausível nessa doença. Contudo, a evidência é indireta (braço combinado), não há literatura específica para esta indicação.
 
+<!-- review:begin br-lic-20261106-megestrol_acetate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Contudo, a evidência é indireta (braço combinado), não há literatura específica para esta indicação, e o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-megestrol_acetate-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar os resultados do NCT00729586, especialmente a contribuição do braço com megestrol.
 - Obter a bula da ANVISA para avaliar advertências e contraindicações (lacuna de dados bloqueante para a triagem de segurança).
 - Confirmar o mecanismo de ação em fontes como o DrugBank.
 - Estabelecer plano de monitoramento para pacientes com diabetes, hipertensão e doença hepática/renal, além de avaliar interações com antidiabéticos.
 
+<!-- review:begin br-lic-20261106-megestrol_acetate-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar o mecanismo de ação em fontes como o DrugBank. / Definir a situação regulatória: o registro está cancelado, e seria necessário um novo registro ou outra via de acesso.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-megestrol_acetate-2 -->
+
 ## Outras Previsões do Modelo (Contexto)
 
 A previsão com melhor sustentação é a de câncer de ovário, que tem um ensaio Phase 3 concluído (NCT00005975, n=288) e estudos Phase 2 de megestrol em doença refratária à platina (PMID 11593052, PMID 9856656). No entanto, o ensaio Phase 3 avaliou fogachos em mulheres tratadas para câncer de mama, não atividade antitumoral, e resultados não foram fornecidos; por isso, esse nível L1 deve ser interpretado com cautela e a recomendação é tratá-la como questão de pesquisa. As demais previsões (por exemplo, carcinossarcoma uterino, com evidência apenas indireta, e tumores raros) permanecem em **Hold**, com evidência limitada à previsão do modelo.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Definir a situação regulatória: o registro está cancelado, e seria necessário um novo registro ou outra via de acesso” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

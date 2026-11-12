@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 583
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Selumetinib: nova indicação prevista, Lentiginose generalizada familiar (familial generalized lentiginosis) (nível de evidência L5). Indicação original: Agentes antineoplásicos e imunomoduladores"
 monitor_inn: "selumetinib"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "trigeminal schwannoma"]
@@ -123,11 +123,37 @@ Para advertências e contraindicações, consulte a bula.
 - Para lentiginose generalizada familiar, a evidência é apenas a previsão do modelo (L5), sem ensaios nem literatura. Não há dados de bula.
 - A indicação com evidência mais avançada, schwannoma de nervo periférico (L3), segue como questão de pesquisa: o único ensaio com selumetinibe nessa área foi encerrado com 10 participantes, sem resultados fornecidos.
 
+<!-- review:begin br-lic-20261106-selumetinib-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O registro brasileiro está cancelado, e não há dados de bula.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-selumetinib-1 -->
+
 **Para prosseguir, é necessário:**
 - Complementar os dados do mecanismo de ação.
 - Buscar evidências específicas para lentiginose generalizada familiar (relatos de caso, estudos pré-clínicos).
 - Acompanhar os resultados dos estudos de fase 2 em NF2 e avaliar priorizar o schwannoma como indicação-alvo.
 - Avaliar compatibilidade de via de administração e formas farmacêuticas disponíveis.
+
+<!-- review:begin br-lic-20261106-selumetinib-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “**Para prosseguir, é necessário:** / Obter a bula da ANVISA (advertências e contraindicações) e esclarecer a situação do registro cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-selumetinib-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O registro brasileiro está cancelado, e n” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Obter a bula da ANVISA (advertências e contraindicações) e esclarecer a situação do registro cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

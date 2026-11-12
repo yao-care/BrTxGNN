@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 183
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Camphor: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L5). Indicação original: Descongestionantes nasais tópicos"
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
@@ -109,7 +109,26 @@ Nota adicional: a literatura compilada sugere que óleos essenciais com propried
 - Avaliação da compatibilidade de vias de administração e de formulação
 - Estudos de segurança e de prova de conceito em humanos antes de qualquer ensaio clínico
 
+<!-- review:begin br-lic-20261106-camphor-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da compatibilidade de vias de administração e de formulação, já que não há registros vigentes no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 16 registros para este medicamento, 16 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-camphor-1 -->
+
 **Observação sobre as demais previsões:** as outras indicações previstas (enxaqueca com aura do tronco encefálico, disfunção erétil, hipertensão pulmonar, doença de Raynaud, síndrome de Tourette, entre outras) não têm evidência de eficácia e permanecem como "Hold". Em particular, as publicações sobre hipertensão pulmonar tratam do questionário CAMPHOR (Cambridge Pulmonary Hypertension Outcome Review), uma coincidência de nome sem relação com o fármaco.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registros vigentes no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

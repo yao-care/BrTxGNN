@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 22
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Acetylcysteine: nova indicação prevista, Doença trombótica (thrombotic disease) (nível de evidência L2). Indicação original: Expectorantes balsâmicos e mucolítico"
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
@@ -93,6 +93,12 @@ Esse mecanismo é mais relevante para microangiopatias mediadas por VWF, como a 
 
 O medicamento está comercializado. Principais registros:
 
+<!-- review:begin br-lic-20261106-acetylcysteine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Foram encontrados 20 registros válidos; o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 68 registros para este medicamento, 33 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-acetylcysteine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -142,6 +148,12 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 **Justificativa:**
 - Há um ensaio de Phase 3 concluído (NCT03252925) e um de Phase 2/3 em andamento na TA-TMA, mais revisões sistemáticas e coorte na PTT, o que corresponde ao nível L2. Faltam resultados publicados dos ensaios, e o único Phase 3 não atinge o critério de dois ensaios para L1.
 
+<!-- review:begin br-lic-20261106-acetylcysteine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Faltam resultados publicados dos ensaios, e o único Phase 3 não atinge o critério de dois ensaios para L1. / O produto não tem registro válido no Brasil, o que exige regularização regulatória antes de qualquer uso na nova indicação.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 68 registros para este medicamento, 33 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-acetylcysteine-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar os resultados do NCT03252925 e acompanhar o NCT07279610
 - Obter a bula da ANVISA (advertências e contraindicações) e dados do mecanismo de ação no DrugBank
@@ -150,12 +162,33 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 - Revisar as interações medicamentosas e as contraindicações sugeridas (asma, úlcera péptica, hipotensão, varizes esofágicas)
 - Esclarecer o benefício da NAC isolada, já que vários ensaios usam combinações (atorvastatina, danazol, dexametasona)
 
+<!-- review:begin br-lic-20261106-acetylcysteine-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a situação regulatória: há 20 registros válidos e o medicamento está comercializado” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 68 registros para este medicamento, 33 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-acetylcysteine-3 -->
+
 ### Outras indicações previstas (resumo)
 
 - **Síndrome do olho seco** (TxGNN 0,9987, L2, Proceed with Guardrails): ensaios de Phase 2 concluídos com colírio de quitosana-NAC (NCT01753752) e ensaio randomizado em sintomas de secura da síndrome de Sjögren (NCT04793646), além de ECRs publicados (PMID 28441068, 39360368). É uma alternativa com boa sustentação e coerente com a ação mucolítica.
 - **Doença da cavidade nasal, faringite, doença traqueal**: evidências indiretas ou pré-clínicas (L4); recomendação Hold ou questão de pesquisa.
 - **Glaucoma de ângulo fechado (duas entradas duplicadas), laringofaringite aguda e laringotraqueíte**: apenas previsão do modelo (L5), sem estudos; Hold. Para o glaucoma, não há base mecanística plausível.
 - **Ataque isquêmico transitório**: somente estudos pré-clínicos de AVC (L4); Hold.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Foram encontrados 20 registros válidos; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O produto não tem registro válido no Brasil, o que exige regularização regulatória antes de qualquer uso na nova indicação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Avaliar a situação regulatória: há 20 registros válidos e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

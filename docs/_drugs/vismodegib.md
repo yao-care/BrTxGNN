@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 671
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "vismodegib"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
 description: "Vismodegib: nova indicação prevista, Medulloblastoma with extensive nodularity (nível de evidência L5). Indicação original: ANTINEOPLASICO"
@@ -107,6 +107,12 @@ Foram selecionadas as 10 publicações mais relevantes, priorizando diretrizes e
 
 A disponibilidade deve ser verificada antes de qualquer iniciativa.
 
+<!-- review:begin br-lic-20261106-vismodegib-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O único registro do vismodegibe na ANVISA consta como **cancelado**, portanto não há produto com registro válido no Brasil nos dados compilados. A disponibilidade deve ser verificada antes de qualquer iniciativa.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-vismodegib-2 -->
+
 ## Citotoxicidade
 
 | Item | Conteúdo |
@@ -131,6 +137,12 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Justificativa:**
 O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há ensaios de Phase 2, diretrizes e revisões na área.
 
+<!-- review:begin br-lic-20261106-vismodegib-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há ensaios de Phase 2, diretrizes e revisões na área. Contudo, a indicação coincide com o uso oncológico original, o registro brasileiro está cancelado e não há dados de bula, então a decisão exige salvaguardas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-vismodegib-3 -->
+
 **Para prosseguir, é necessário:**
 - Verificar a situação regulatória e a disponibilidade real do produto no Brasil.
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna considerada bloqueante para a triagem de segurança.
@@ -138,7 +150,28 @@ O mecanismo é sólido (inibição de SMO em tumor dependente de Hedgehog) e há
 - Definir um plano de gestão de risco: programa de contracepção e prevenção de gravidez, monitoramento de espasmos musculares, peso e paladar, e cautela com população pediátrica.
 - Revisar o nível de evidência, já que nenhum Phase 3 concluído consta na lista e os ensaios Phase 2 têm amostras pequenas.
 
+<!-- review:begin br-lic-20261031-vismodegib-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Verificar a situação regulatória e a disponibilidade real do produto no Brasil (registro cancelado).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-vismodegib-1 -->
+
 **Observação sobre as demais candidatas:** xeroderma pigmentoso (0,9991) tem apenas relatos de caso de vismodegibe em CBCs múltiplos (L4), sendo uma questão de pesquisa; meduloblastoma com nodularidade extensa tem plausibilidade mecanística (subgrupo SHH), mas sem evidência (L5, Hold). As demais (ictiose epidermolítica anular, epidermólise bolhosa simples, tumor de Brenner, carcinoma adenocístico cutâneo, leiomioma de próstata e neoplasia benigna de glândula sudorípara) dependem apenas do escore do modelo e permanecem em Hold.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O único registro do vismodegibe na ANVISA consta como **cancelado**, portanto não há produto com registro válido no Brasil nos dados compila” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Contudo, a indicação coincide com o uso oncológico original, o registro brasileiro está cancelado e não há dados de bula, então a decisão ex” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

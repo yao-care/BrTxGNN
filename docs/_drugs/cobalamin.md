@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 238
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Cobalamin: nova indicação prevista, Hiperfosfatemia (hyperphosphatemia) (nível de evidência L5). Indicação original: Monovitaminas, exceto vitamina K"
 monitor_inn: "cobalamin"
 predicted_indications: ["hyperphosphatemia (disease)", "cystinosis"]
@@ -98,12 +98,38 @@ Para advertências e contraindicações formais, consulte a bula.
 **Justificativa:**
 A previsão para hiperfosfatemia tem pontuação alta, porém sem nenhum ensaio clínico, sem literatura e sem relação mecanística plausível (nível L5).
 
+<!-- review:begin br-lic-20261106-cobalamin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para hiperfosfatemia tem pontuação alta, porém sem nenhum ensaio clínico, sem literatura e sem relação mecanística plausível (nível L5). Além disso, o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cobalamin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pendência que bloqueia a triagem de segurança
 - Obter dados do mecanismo de ação via DrugBank
 - Realizar revisão de literatura e estudos pré-clínicos que testem uma possível ligação entre a cobalamina e o metabolismo do fosfato
 - Avaliar a relevância das contraindicações do grafo de conhecimento (p. ex., hipertensão e deficiência de potássio)
 - Esclarecer a situação regulatória e as formas farmacêuticas disponíveis
+
+<!-- review:begin br-lic-20261106-cobalamin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória e as formas farmacêuticas disponíveis, dado que o registro está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cobalamin-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que o registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

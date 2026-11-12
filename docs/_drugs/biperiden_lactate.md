@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 142
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -42,6 +42,12 @@ Biperiden Lactato é um fármaco anticolinérgico utilizado no tratamento da doe
 O Evidence Pack recebido **não contém previsões de novas indicações geradas pelo modelo TxGNN**.
 Para avançar na análise, são necessários o processamento das previsões do modelo e a obtenção dos dados regulatórios e de segurança identificados como lacunas.
 
+<!-- review:begin br-lic-20261106-biperiden_lactate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O Evidence Pack recebido **não contém previsões de novas indicações geradas pelo modelo TxGNN**, e o fármaco não possui registro ativo no Brasil, tornando inviável uma avaliação completa de reposicionamento neste momento.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-biperiden_lactate-1 -->
+
 ---
 
 ## Visão Geral Rápida
@@ -75,6 +81,12 @@ O mecanismo de ação detalhado (MOA formal via DrugBank) foi identificado como 
 
 Nenhuma licença foi localizada sob esta denominação salina.
 
+<!-- review:begin br-lic-20261106-biperiden_lactate-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Biperiden Lactato **não possui registros ativos na ANVISA** conforme os dados consultados (data de corte: 05/04/2026). Nenhuma licença foi localizada sob esta denominação salina.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-biperiden_lactate-2 -->
+
 > **Nota importante:** O biperideno está disponível em alguns mercados sob a forma de **cloridrato de biperideno** (Biperiden HCl). Recomenda-se verificar se há registros ativos na ANVISA sob denominações alternativas antes de concluir pela ausência total do fármaco no mercado brasileiro.
 
 ---
@@ -91,11 +103,32 @@ Consulte a bula para informações de segurança.
 
 **Justificativa:**
 
+<!-- review:begin br-lic-20261106-biperiden_lactate-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “**Justificativa:** / O Evidence Pack não contém previsões de novas indicações pelo TxGNN, não há registros ANVISA ativos e os dados de segurança (advertências, contraindicações e interações) estão ausentes — condições que impossibilitam qualquer avaliação de reposicionamento neste momento.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-biperiden_lactate-3 -->
+
 **Para prosseguir, é necessário:**
 - Executar o pipeline TxGNN para gerar previsões de novas indicações para Biperiden Lactato e popular o campo `predicted_indications`
 - Processar o resultado já obtido do DrugBank (1 resultado retornado) e extrair MOA, categorias terapêuticas e dados de segurança
 - Verificar registros ANVISA sob denominações alternativas (ex.: Biperideno, Biperiden Cloridrato, Biperiden HCl)
 - Obter advertências e contraindicações via bula (ANVISA, FDA ou EMA) para preencher as lacunas de segurança classificadas como **Blocking (DG001)**
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o fármaco não possui registro ativo no Brasil, tornando inviável uma avaliação completa de reposicionamento neste momento” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Biperiden Lactato **não possui registros ativos na ANVISA** conforme os dados consultados (data de corte: 05/04/2026)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O Evidence Pack não contém previsões de novas indicações pelo TxGNN, não há registros ANVISA ativos e os dados de segurança (advertências, c” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

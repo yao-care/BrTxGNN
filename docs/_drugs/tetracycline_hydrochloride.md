@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -66,6 +66,12 @@ O pipeline de coleta de dados apresentou as seguintes lacunas críticas que impe
 
 A consulta ao DrugBank retornou 1 resultado (status: *success*), mas as informações não foram integradas ao Evidence Pack.
 
+<!-- review:begin br-lic-20261106-tetracycline_hydrochloride-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “**Dados regulatórios brasileiros ausentes:** A consulta à ANVISA retornou 0 registros para "TETRACYCLINE HYDROCHLORIDE". Isso não significa necessariamente que o fármaco seja inexistente no Brasil — pode haver divergência no nome de busca (e.g., "Tetraciclina", "Tetracycline base") ou registros sob nomes de combinações. A consulta ao DrugBank retornou 1 resultado (status: *success*), mas as informações não foram integradas ao Evidence Pack.” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tetracycline_hydrochloride-1 -->
+
 **Mecanismo de ação e segurança não disponíveis:** Sem o DrugBank ID vinculado e sem o PDF da bula processado, os campos de MOA, advertências e contraindicações permanecem em branco.
 
 ---
@@ -83,6 +89,19 @@ O Evidence Pack está incompleto em seus campos mais críticos — não há prev
 - **[Alta prioridade]** Ampliar a busca na ANVISA com variações do nome: "Tetraciclina", "Tetracycline", "Tetracycline HCl", incluindo combinações (ex.: pomadas, colírios)
 - **[Média prioridade]** Processar a bula oficial (ANVISA ou DrugBank) para preencher advertências, contraindicações e interações medicamentosas
 - Verificar se o fármaco deve ser pesquisado como componente de combinação (ex.: com bismuto, metronidazol) que poderia alterar o escopo da análise
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “**Dados regulatórios brasileiros ausentes:** A consulta à ANVISA retornou 0 registros para "TETRACYCLINE HYDROCHLORIDE". Isso não significa ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

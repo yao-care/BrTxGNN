@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 244
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Cyclobenzaprine: nova indicação prevista, Síndrome de Dor Miofascial (Myofascial Pain Syndrome) (nível de evidência L2). Indicação original: Relaxantes musculares"
 monitor_inn: "Cyclobenzaprine"
 predicted_indications: ["myofascial pain syndrome", "neuralgia", "papillary conjunctivitis"]
@@ -91,6 +91,12 @@ A indicação original (espasmo e relaxamento muscular) está muito próxima da 
 
 O medicamento está comercializado no Brasil. Principais exemplos:
 
+<!-- review:begin br-lic-20261106-cyclobenzaprine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os 20 registros localizados estão **válidos**; o medicamento está comercializado no Brasil.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 33 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cyclobenzaprine-2 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430945 | CLORIDRATO DE CICLOBENZAPRINA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -141,17 +147,43 @@ As advertências e contraindicações da bula não estavam disponíveis; consult
 **Justificativa:**
 - A dor miofascial está muito próxima da indicação original, e há ensaios randomizados pequenos em dor miofascial e distensão muscular. A evidência direta, porém, é limitada: os ensaios de Fase 3 são em fibromialgia.
 
+<!-- review:begin br-lic-20261106-cyclobenzaprine-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A evidência direta, porém, é limitada: os ensaios de Fase 3 são em fibromialgia, e o medicamento está comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 33 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cyclobenzaprine-3 -->
+
 **Para prosseguir, é necessário:**
 - Confirmar a condição e a intervenção de cada ensaio listado, separando os ensaios em fibromialgia dos de dor miofascial.
 - Obter as advertências e contraindicações da bula da ANVISA e os dados detalhados do mecanismo de ação (DrugBank).
 - Esclarecer a situação regulatória no Brasil e definir a via de nova submissão.
 - Elaborar um plano de segurança para glaucoma, doenças cardíacas, hepatopatia, idosos e polimedicação.
 
+<!-- review:begin br-lic-20261031-cyclobenzaprine-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória no Brasil (registros cancelados) e definir a via de nova submissão.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 33 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-cyclobenzaprine-1 -->
+
 ### Outras indicações previstas (resumo)
 
 | Indicação | Pontuação TxGNN | Nível | Recomendação |
 |------|------|------|------|
 | Neuralgia | 0,9908 | L4 | Questão de pesquisa |
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “s 20 registros localizados estão **válidos**; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e o medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

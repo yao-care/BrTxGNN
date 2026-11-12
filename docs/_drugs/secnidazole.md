@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Secnidazole"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "leukoplakia of vagina", "vulvovaginal candidiasis"]
 description: "Secnidazole: nova indicação prevista, Postmenopausal atrophic vaginitis (nível de evidência L5). Indicação original: AMEBICIDAS, GIARDICIDAS E TRICOMONICIDAS"
@@ -101,6 +101,12 @@ Importante: as evidências disponíveis referem-se à vaginose bacteriana e à t
 
 O medicamento está comercializado no Brasil. Os 5 principais:
 
+<!-- review:begin br-lic-20261106-secnidazole-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros válidos de secnidazol nos dados compilados, e o medicamento está comercializado no Brasil.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 61 registros para este medicamento, 22 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-secnidazole-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100380096 | SECTIL | BRASTERAPICA PHARMACEUTICA LTDA. | Ativo |
@@ -159,6 +165,12 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 - Há ensaios de Fase 3 concluídos e controlados por placebo, além de revisões sistemáticas, para vaginose bacteriana e tricomoníase, as principais causas de corrimento vaginal. Trata-se, porém, de uma extensão da indicação original.
 
+<!-- review:begin br-lic-20261106-secnidazole-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Trata-se, porém, de uma extensão da indicação original, e o medicamento está comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 61 registros para este medicamento, 22 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-secnidazole-2 -->
+
 **Para prosseguir, é necessário:**
 - Confirmar a disponibilidade local do produto e a situação regulatória
 - Obter a bula da ANVISA para advertências e contraindicações
@@ -167,9 +179,30 @@ Para advertências e contraindicações, consulte a bula.
 - Considerar a alta taxa de recorrência da vaginose bacteriana (PMID 31403349)
 - Revisar as interações medicamentosas
 
+<!-- review:begin br-lic-20261106-secnidazole-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar a disponibilidade local do produto e a situação regulatória, já que não há registro válido” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 61 registros para este medicamento, 22 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-secnidazole-3 -->
+
 **Outras previsões do modelo (não recomendadas no momento):**
 - **Candidíase vulvovaginal** (0.9916): evidência L3; o secnidazol não tem atividade antifúngica relevante, e o único sinal vem de um estudo de combinação com fluconazol; pergunta de pesquisa.
 - **Vaginite atrófica pós-menopausa** (0.9970), **úlcera vulvar**, **neoplasia vulvar**, **leucoplasia vaginal**, **vulvovaginite herpética** e **impetigo bolhoso**: sem evidência (L5), sem mecanismo plausível; Hold.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há 20 registros válidos de secnidazol nos dados compilados, e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e o medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

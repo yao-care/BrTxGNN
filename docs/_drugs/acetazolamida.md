@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 19
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -64,6 +64,12 @@ O campo `predicted_indications` está vazio. Isso pode decorrer de falha no mape
 
 **2. Detalhes regulatórios incompletos**
 
+<!-- review:begin br-lic-20261106-acetazolamida-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Detalhes regulatórios incompletos** / Embora o sistema confirme **5 registros ativos** na ANVISA, todos os campos de detalhe (número de registro, nome comercial, forma farmacêutica, indicação aprovada) constam como vazios. Os dados foram coletados do portal TFDA/ANVISA, mas a extração dos metadados dos registros individuais não foi concluída.” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-acetazolamida-1 -->
+
 **3. Dados de segurança e mecanismo ausentes**
 As advertências, contraindicações e o mecanismo de ação (MOA) são classificados como lacunas de dados com severidade **Bloqueante (DG001)** e **Alta (DG002)**, respectivamente, impedindo a avaliação de segurança preliminar.
 
@@ -92,6 +98,19 @@ O pipeline TxGNN não gerou candidatos de reposicionamento para Acetazolamida ne
 - **Baixar e processar a bula ANVISA** para advertências e contraindicações (remediar DG001)
 - **Consultar DrugBank API** para obter o mecanismo de ação completo (remediar DG002)
 - Após reprocessamento, verificar se `predicted_indications` foi populado e reemitir o relatório completo
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Embora o sistema confirme **5 registros ativos** na ANVISA, todos os campos de detalhe (número de registro, nome comercial, forma farmacêuti” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

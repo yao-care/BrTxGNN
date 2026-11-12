@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ketoprofen: nova indicação prevista, Displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasi… (nível de evidência L5). Indicação original: Anti-inflamatórios e antirreumáticos"
 monitor_inn: "KETOPROFEN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
@@ -74,6 +74,12 @@ Atualmente não há literatura relacionada.
 
 Principais registros (5 de 20):
 
+<!-- review:begin br-lic-20261106-ketoprofen-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O medicamento está comercializado, com 20 registros válidos. Principais registros (5 de 20):” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 92 registros para este medicamento, 45 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ketoprofen-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430722 | CETOPROFENO | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -130,11 +136,38 @@ As advertências e contraindicações da bula não estavam disponíveis nos dado
 **Justificativa:**
 - A previsão tem pontuação alta, mas não há nenhum ensaio clínico nem publicação (nível L5), e não existe vínculo mecanístico plausível entre a inibição da COX e a deficiência de GDF5/CDMP1.
 
+<!-- review:begin br-lic-20261106-ketoprofen-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão tem pontuação alta, mas não há nenhum ensaio clínico nem publicação (nível L5), e não existe vínculo mecanístico plausível entre a inibição da COX e a deficiência de GDF5/CDMP1. Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 92 registros para este medicamento, 45 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ketoprofen-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula do ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Realizar busca sistemática da literatura e de ensaios; entre as dez indicações previstas, a suscetibilidade a espondiloartropatia e a artrite juvenil associada a LACC1 são as mais coerentes com o uso original e podem ser priorizadas, ciente de que seriam benefício sintomático de classe, não um achado de reposicionamento inédito.
 - Verificar a situação regulatória atual.
+
+<!-- review:begin br-lic-20261106-ketoprofen-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a situação regulatória atual, pois não há registro vigente no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 92 registros para este medicamento, 45 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ketoprofen-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O medicamento está comercializado, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o medicamento está comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “pois não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

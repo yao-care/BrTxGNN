@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Lansoprazole: nova indicação prevista, obstrução duodenal (duodenal obstruction) (nível de evidência L5). Indicação original: ANTIULCEROSOS"
 ---
 
@@ -66,6 +66,12 @@ Portanto, a previsão deve ser tratada com cautela: não há estudo que a susten
 
 Os dados de situação dos registros são inconsistentes entre si, por isso a situação individual de cada um deve ser confirmada diretamente na ANVISA. Principais registros:
 
+<!-- review:begin br-lic-20261111-lansoprazole-1 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Há 18 registros nos dados compilados, entre produtos isolados e associações (por exemplo, com claritromicina e amoxicilina para erradicação de *H. pylori*). Os dados de situação dos registros são inconsistentes entre si, por isso a situação individual de cada um deve ser confirmada diretamente na ANVISA.” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-lansoprazole-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 102351114 | LANSOPRAZOL | EMS S/A | Ativo |
@@ -118,6 +124,19 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 - Dados de mecanismo de ação e justificativa biológica plausível
 - Advertências e contraindicações da bula da ANVISA
 - Confirmação da situação atual dos registros na ANVISA
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-11 | Removido: “Há 18 registros nos dados compilados, entre produtos isolados e associações (por exemplo, com claritromicina e amoxicilina para erradicação ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

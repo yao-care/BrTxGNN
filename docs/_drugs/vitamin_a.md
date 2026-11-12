@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 672
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Vitamin A: nova indicação prevista, Deficiência congênita de protrombina (congenital prothrombin deficien… (nível de evidência L5). Indicação original: Distúrbio de deficiência vitamínica / deficiênc…"
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "radiation or chemically induced disorder"]
@@ -127,6 +127,25 @@ Para advertências e contraindicações em bula, consulte a bula do produto, poi
 - Obter os dados do mecanismo de ação no DrugBank.
 - Se houver interesse em reposicionamento, priorizar a direção com mais respaldo (doença perinatal / displasia broncopulmonar em recém-nascidos de muito baixo peso), definindo dose, via de administração (intramuscular vs. oral) e limites de segurança quanto a toxicidade e teratogenicidade.
 - Confirmar a viabilidade regulatória e de via de administração.
+
+<!-- review:begin br-lic-20261106-vitamin_a-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar a viabilidade regulatória e de via de administração, já que não há registro vigente no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 30 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-vitamin_a-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

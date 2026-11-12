@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 659
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Tyrosine: nova indicação prevista, Síndrome da cauda equina (cauda equina syndrome) (nível de evidência L5). Indicação original: Produtos para dietas especiais"
 monitor_inn: "Tyrosine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma"]
@@ -73,6 +73,12 @@ Atualmente não há literatura relacionada para síndrome da cauda equina.
 
 Os 10 registros abaixo estão válidos (10 de 10); o medicamento está comercializado no Brasil.
 
+<!-- review:begin br-lic-20261106-tyrosine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há ainda outros cinco registros cancelados (SMOFKABIVEN, OLIMEL, NUMETA PED, NUMETA NEO e AMINOVEN), totalizando 10.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tyrosine-1 -->
+
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
 | Registro 100419923 | KETOSTERIL | Não informada | Produtos para dietas especiais |
@@ -94,6 +100,12 @@ Observação: para o hipertireoidismo e a hipertiroxinemia (outras indicações 
 **Justificativa:**
 - A previsão para síndrome da cauda equina baseia-se apenas no modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível.
 
+<!-- review:begin br-lic-20261106-tyrosine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para síndrome da cauda equina baseia-se apenas no modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, não há registro válido da tirosina no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tyrosine-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) da tirosina
 - Advertências e contraindicações da bula na ANVISA
@@ -101,6 +113,20 @@ Observação: para o hipertireoidismo e a hipertiroxinemia (outras indicações 
 - Estudos pré-clínicos que sustentem a hipótese, antes de qualquer ensaio clínico
 - Avaliação regulatória, dado que o medicamento é comercializado no Brasil, com 10 registros válidos de 10
 - Reavaliação das demais indicações previstas, priorizando aquelas com racional biológico (por exemplo, disfunção autonômica), com atenção ao risco no hipertireoidismo
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há ainda outros cinco registros cancelados (SMOFKABIVEN, OLIMEL, NUMETA PED, NUMETA NEO e AMINOVEN), totalizando 10” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, não há registro válido da tirosina no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

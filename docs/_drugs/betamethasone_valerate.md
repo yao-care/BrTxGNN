@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 130
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -41,6 +41,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 Betamethasone Valerate é um corticosteroide tópico de potência média a alta, classicamente utilizado no tratamento de condições inflamatórias da pele, como eczema, psoríase e dermatites.
 O modelo TxGNN **não gerou previsões de reposicionamento** para este fármaco no ciclo de análise atual, possivelmente por ausência do identificador DrugBank ID no grafo de conhecimento.
 Os dados de segurança apresentam lacunas críticas.
+
+<!-- review:begin br-lic-20261106-betamethasone_valerate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O medicamento **não possui registros ativos** no mercado brasileiro, e os dados de segurança apresentam lacunas críticas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-betamethasone_valerate-1 -->
 
 ---
 
@@ -77,6 +83,19 @@ O modelo TxGNN não produziu previsões de reposicionamento para este fármaco �
 - **Verificar o status ANVISA**: confirmar se há registros com denominação alternativa (ex.: Betametasona Valerato, Betamethasone 17-valerate)
 - **Coletar dados de MOA**: utilizar o DrugBank ID recuperado para consultar mecanismo de ação via API
 - **Obter advertências e contraindicações**: baixar bula de referência (ANVISA, EMA ou FDA) para completar o perfil de segurança
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “medicamento **não possui registros ativos** no mercado brasileiro, e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 406
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -40,6 +40,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 Levobunolol cloridrato é um beta-bloqueador não seletivo de uso oftálmico, classicamente utilizado no tratamento do glaucoma e da hipertensão ocular. O Evidence Pack consultado **não contém previsões do modelo TxGNN** para novas indicações. Sem previsões e sem dados regulatórios, a avaliação de reposicionamento não pode ser concluída nesta etapa.
 
+<!-- review:begin br-lic-20261106-levobunolol_hydrochloride-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O Evidence Pack consultado **não contém previsões do modelo TxGNN** para novas indicações, e o fármaco não possui registro vigente no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-levobunolol_hydrochloride-1 -->
+
 ---
 
 ## Visão Geral Rápida
@@ -67,6 +73,19 @@ O Evidence Pack retornou vazio em todas as dimensões analíticas críticas — 
 - **Obter indicação original e MOA** a partir do DrugBank (DB já localizado)
 - **Verificar situação ANVISA** — confirmar se há registro no Brasil sob nome comercial alternativo (ex.: *Betagan*)
 - **Coletar dados de segurança** (advertências, contraindicações) via bula ANVISA ou FDA label
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o fármaco não possui registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

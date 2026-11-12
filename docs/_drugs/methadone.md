@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 448
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Methadone: nova indicação prevista, Síndrome de Tourette (Tourette syndrome) (nível de evidência L4). Indicação original: Analgésicos narcóticos"
 monitor_inn: "Methadone"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
@@ -96,6 +96,12 @@ Consulte a bula para advertências e contraindicações oficiais, pois os dados 
 **Justificativa:**
 A previsão se baseia em um único relato clínico antigo (1992), sem ensaios registrados, e o perfil de risco da metadona (dependência, QT longo, depressão respiratória) pesa fortemente contra o uso em uma condição crônica, frequentemente pediátrica.
 
+<!-- review:begin br-lic-20261106-methadone-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão se baseia em um único relato clínico antigo (1992), sem ensaios registrados, e o perfil de risco da metadona (dependência, QT longo, depressão respiratória) pesa fortemente contra o uso em uma condição crônica, frequentemente pediátrica. Além disso, o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-methadone-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), atualmente indisponível
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank)
@@ -106,6 +112,19 @@ A previsão se baseia em um único relato clínico antigo (1992), sem ensaios re
 ---
 
 **Observação sobre outras indicações previstas:** as demais previsões do modelo (síndrome nefrogênica de antidiurese inapropriada, tricotilomania, cefaleia, transtorno bipolar maníaco, cefaleia autonômica trigeminal, resfriado comum, enxaqueca, fibromialgia e miosite fibrosa) também receberam recomendação *Hold*. Para várias delas a literatura não sustenta eficácia: na cefaleia autonômica trigeminal há sinal de que a metadona pode induzir ou piorar a cefaleia em salvas, e no resfriado comum os artigos recuperados tratam de sensibilidade à dor pelo frio, sem relação com a doença.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

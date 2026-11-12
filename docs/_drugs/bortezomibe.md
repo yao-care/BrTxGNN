@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 146
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -82,6 +82,12 @@ Atualmente não há previsão de nova indicação, portanto não foram coletadas
 
 O bortezomibe possui **20 registros** com status "Comercializado".
 
+<!-- review:begin br-lic-20261106-bortezomibe-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O bortezomibe possui **20 registros** com status "Comercializado". No entanto, os detalhes dos registros (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram preenchidos no Evidence Pack atual**.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 26 registros para este medicamento, 23 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-bortezomibe-1 -->
+
 > ⚠️ É necessário complementar os dados de registro junto à ANVISA para completar esta seção.
 
 ---
@@ -129,6 +135,19 @@ O Evidence Pack apresenta lacunas críticas que impedem a avaliação de reposic
 - Obter dados de segurança: advertências, contraindicações e interações medicamentosas a partir da bula aprovada
 - Obter e registrar o mecanismo de ação (MOA) detalhado via DrugBank API
 - Após completar os dados acima, reexecutar a geração do Evidence Pack e reavaliação
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “No entanto, os detalhes dos registros (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram preenchidos no Evidence ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Larotrectinib: nova indicação prevista, Neoplasia Endócrina Múltipla (Multiple Endocrine Neoplasia) (nível de evidência L5). Indicação original: Agentes antineoplásicos"
 monitor_inn: "larotrectinib"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
@@ -108,11 +108,30 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 Não há alvo em comum entre o larotrectinibe (TRK) e o principal motor da MEN2 (RET), e as evidências são apenas indiretas (um ensaio basket tumor-agnóstico e literatura sobre outros inibidores).
 
+<!-- review:begin br-lic-20261106-larotrectinib-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há alvo em comum entre o larotrectinibe (TRK) e o principal motor da MEN2 (RET), e as evidências são apenas indiretas (um ensaio basket tumor-agnóstico e literatura sobre outros inibidores). Além disso, os registros do produto no Brasil estão cancelados e faltam dados de segurança da bula.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-larotrectinib-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Identificar evidências específicas de tumores relacionados à MEN com fusão de NTRK, ou dados pré-clínicos diretos
 - Esclarecer a situação regulatória e a disponibilidade do produto no Brasil, dado o cancelamento dos registros
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, os registros do produto no Brasil estão cancelados e faltam dados de segurança da bula” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

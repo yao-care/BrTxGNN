@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Dexpanthenol: nova indicação prevista, Estenose anorretal (anorectal stricture) (nível de evidência L5). Indicação original: Outros produtos com ação na pele e mucosas"
 monitor_inn: "dexpanthenol"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
@@ -93,6 +93,25 @@ A previsão para estenose anorretal tem pontuação alta (0,9972), mas é purame
 - Esclarecer a relevância da hemofilia como contraindicação no grafo de conhecimento
 - Definir a via de administração e a forma farmacêutica, e verificar a situação regulatória
 - Avaliar, como alternativa, indicações com maior plausibilidade biológica (proctite, ceratoconjuntivite epitelial punctata) ou com ensaio indireto (exantema, após confirmar a condição estudada em NCT01136005)
+
+<!-- review:begin br-lic-20261106-dexpanthenol-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Definir a via de administração e a forma farmacêutica, e verificar a situação regulatória, já que não há registro vigente” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 54 registros para este medicamento, 16 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-dexpanthenol-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

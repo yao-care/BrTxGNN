@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 378
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Itraconazole: nova indicação prevista, Pneumocistose (Pneumocystosis) (nível de evidência L5). Indicação original: Antimicóticos sistêmicos"
 monitor_inn: "ITRACONAZOLE"
 predicted_indications: ["pneumocystosis"]
@@ -144,6 +144,25 @@ As advertências e contraindicações oficiais da bula da ANVISA não estavam di
 - Evidência pré-clínica ou clínica direta de atividade do itraconazol contra *Pneumocystis*, que justifique reconsiderar a decisão.
 - Avaliação do perfil de segurança (QT, hepático, cardíaco e interações) em pacientes imunossuprimidos, população-alvo típica.
 - Esclarecimento da situação regulatória.
+
+<!-- review:begin br-lic-20261106-itraconazole-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecimento da situação regulatória, já que não há registro vigente no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 49 registros para este medicamento, 13 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-itraconazole-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

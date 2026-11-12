@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 3
 monitor_inn: "Ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ketorolac: nova indicação prevista, Transtorno de cefaleia (headache disorder) (nível de evidência L1). Indicação original: Não consta nos dados locais"
 ---
 
@@ -112,6 +112,25 @@ Dos 16 ensaios compilados, os 10 mais relevantes são:
 - Esclarecer a situação regulatória das formulações parenterais e nasais do fármaco.
 - Documentar o mecanismo de ação a partir do DrugBank.
 - Definir limites de dose e de duração do tratamento, especialmente em crianças e idosos, com monitoramento de risco gastrointestinal, renal e hemorrágico.
+
+<!-- review:begin br-lic-20261031-ketorolac-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória: os dados indicam apenas um registro cancelado, embora existam formulações parenterais e nasais do fármaco.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 76 registros para este medicamento, 52 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-ketorolac-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “: os do indicam apenas um registro cancelado, embora existam” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

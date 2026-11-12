@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 24
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "acitretin"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
 description: "Acitretin: nova indicação prevista, Acne (acne (disease)) (nível de evidência L3). Indicação original: CERATOLITICOS E CERATOPLASTICOS"
@@ -108,6 +108,12 @@ Os dados de bula da ANVISA não estavam disponíveis nos dados compilados; consu
 **Justificativa:**
 - A pontuação do TxGNN é alta, mas a evidência real é indireta: o único ensaio é de fase 4 em hidradenite supurativa, e a literatura é composta por revisões, diretrizes e relatos de caso. A acitretina não é terapia padrão para acne, o perfil de segurança é muito restritivo (teratogenicidade).
 
+<!-- review:begin br-lic-20261106-acitretin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A acitretina não é terapia padrão para acne, o perfil de segurança é muito restritivo (teratogenicidade) e os dois registros brasileiros estão cancelados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-acitretin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), uma lacuna que bloqueia a triagem de segurança.
 - Complementar os dados do mecanismo de ação (por exemplo, via DrugBank).
@@ -115,7 +121,27 @@ Os dados de bula da ANVISA não estavam disponíveis nos dados compilados; consu
 - Definir um plano de gestão de risco de gravidez (contracepção e período de washout) e de monitoramento hepático e lipídico.
 - Avaliar a situação regulatória.
 
+<!-- review:begin br-lic-20261106-acitretin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a situação regulatória, já que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-acitretin-2 -->
+
 **Outras previsões do modelo (todas com decisão Hold, nível L5, sem ensaios nem literatura):** lúpus eritematoso sistêmico pediátrico (0.9935), eritroblastose fetal (0.9928, sem vínculo mecanístico plausível e incompatível com a contraindicação na gravidez) e síndrome de predisposição a câncer com telangiectasia cutânea familiar e orofaríngea (0.9910).
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e os dois registros brasileiros estão cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

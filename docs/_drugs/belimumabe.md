@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 112
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -68,6 +68,12 @@ Atualmente, não há dados detalhados sobre o mecanismo de ação disponíveis n
 
 O fármaco possui **1 registro ativo** com status "Já Comercializado".
 
+<!-- review:begin br-lic-20261106-belimumabe-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco possui **1 registro ativo** com status "Já Comercializado". Os detalhes individuais do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram populados** no Evidence Pack atual e precisam ser recuperados via download da bula na ANVISA.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-belimumabe-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101070295 | BENLYSTA | GLAXOSMITHKLINE BRASIL LTDA | Ativo |
@@ -88,6 +94,19 @@ O Evidence Pack está estruturalmente incompleto — ausência de previsões TxG
 - **\[Alta prioridade\]** Reexecutar o pipeline TxGNN para gerar previsões de novas indicações — verificar se o fármaco está presente no vocabulário do modelo (`drugbank_vocab.csv`)
 - **\[Médio\]** Popular os campos de registro regulatório: número de registro ANVISA, nome comercial, forma farmacêutica e texto completo da indicação aprovada
 - **\[Médio\]** Revisar a busca de DDI (resultado `not_found`) — confirmar se a ausência é real ou se o identificador usado na busca estava incorreto
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os detalhes individuais do registro (número, nome comercial, forma farmacêutica e indicação aprovada) **não foram populados** no Evidence Pa” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

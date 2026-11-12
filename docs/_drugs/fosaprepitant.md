@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 327
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Fosaprepitant: nova indicação prevista, Síndrome Nefrogênica de Antidiurese Inapropriada (Nephrogenic Syndrom… (nível de evidência L5). Indicação original: Antieméticos e antinauseantes"
 monitor_inn: "fosaprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "pneumocystosis", "leprosy", "Cryptococcal meningitis", "multiple endocrine neoplasia", "intracranial abscess", "retinitis", "Plasmodium falciparum malaria", "echinococcus granulosus infectious disease", "hyperargininemia"]
@@ -80,6 +80,12 @@ A pontuação elevada do TxGNN (0,9992) vem do modelo TxGNN (deep learning) e po
 
 Observação: são 8 registros no total; a tabela mostra os 5 primeiros. Entre os demais estão Emend Injetável (101710225) e Foza (155370085).
 
+<!-- review:begin br-lic-20261106-fosaprepitant-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Observação: são 8 registros no total, todos com situação cancelada; a tabela mostra os 5 primeiros.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fosaprepitant-1 -->
+
 ---
 
 ## Considerações de Segurança
@@ -112,6 +118,19 @@ A previsão não tem nenhum ensaio clínico ou publicação de suporte e nenhum 
 ### Nota sobre outras indicações previstas
 
 Entre as demais previsões do modelo, apenas **retinite** (L4) tem algum suporte: um estudo pré-clínico em camundongos (PMID 32058829, 2021, *Ocular Immunology and Inflammation*) indica que o fosaprepitant bloqueou a expressão do receptor NK1 induzida por radiação UVR-B em tecidos oculares. Trata-se de evidência indireta, sem estudos em pacientes com retinite, classificada como "questão de pesquisa". As outras previsões (pneumocistose, hanseníase, meningite criptocócica, neoplasia endócrina múltipla, abscesso intracraniano, malária por *P. falciparum*, equinococose e hiperargininemia) não têm evidência e permanecem em Hold.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “todos com situação cancelada” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

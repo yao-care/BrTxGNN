@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 111
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -63,8 +63,11 @@ A ausência de previsões de reposicionamento nesta execução tem três causas 
 **1. Falha no mapeamento ao DrugBank**
 A busca pelo nome "BEDAQUILINA FUMARATE" (grafia em português/espanhol) pode não ter encontrado correspondência ao identificador canônico no DrugBank. Sem um `drugbank_id` válido, o modelo TxGNN não consegue posicionar o fármaco no grafo de conhecimento para gerar predições.
 
-**2.
-Isso reduz a cobertura de dados de indicações aprovadas, que alimenta parte do pipeline de predição.
+<!-- review:begin br-lic-20261106-bedaquilina_fumarate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “**2. Ausência de registro regulatório** / O fármaco não possui registros ativos na base regulatória consultada (total de registros: 0). Isso reduz a cobertura de dados de indicações aprovadas, que alimenta parte do pipeline de predição.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Na primeira correção a frase foi cortada em «2.», deixando um resto de texto; como todo o item (título e as duas frases) parte da premissa incorreta de que não há registro, em 2026-11-12 o item foi removido por inteiro. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-bedaquilina_fumarate-1 -->
 
 **3. Lacunas críticas de dados**
 O mecanismo de ação (MOA) não foi recuperado nesta execução. Embora o log indique que a consulta ao DrugBank retornou 1 resultado, os dados não foram populados no Evidence Pack, configurando uma lacuna de dados de severidade "High" que afeta diretamente a análise de relacionamento mecanístico.
@@ -84,6 +87,26 @@ O pipeline TxGNN não produziu previsões de reposicionamento por falhas de mape
 - Verificar o status de disponibilização no Brasil via canais de saúde pública (SUS/RENAME), que pode diferir do registro comercial ANVISA
 - Obter as advertências, contraindicações e interações medicamentosas da bula oficial
 - Re-executar o pipeline TxGNN com o mapeamento corrigido para gerar predições válidas
+
+<!-- review:begin br-lic-20261106-bedaquilina_fumarate-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Obter as advertências, contraindicações e interações medicamentosas da bula oficial (TFDA/ANVISA/EMA)” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-bedaquilina_fumarate-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Ausência de registro regulatório** O fármaco não possui registros ativos na base regulatória consultada (total de registros: 0)” | Corrigido (revisado em 2026-11-12; versão anterior guardada no registro) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(TFDA/ANVISA/EMA)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

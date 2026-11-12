@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 483
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ofloxacin: nova indicação prevista, Polyclonal hyperviscosity syndrome (síndrome de hiperviscosidade poli… (nível de evidência L5). Indicação original: Antiinfecciosos"
 monitor_inn: "ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
@@ -106,6 +106,12 @@ Outros trabalhos recuperados tratam de resistência em outros organismos (por ex
 
 O medicamento é comercializado no Brasil.
 
+<!-- review:begin br-lic-20261111-ofloxacin-3 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Todos os 8 registros estão vigentes (8 licenças válidas de 8); o medicamento é comercializado no Brasil.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 30 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-ofloxacin-3 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 101470027 | OFLOX | ALLERGAN PRODUTOS FARMACÊUTICOS LTDA | Ativo |
@@ -154,12 +160,39 @@ Consulte a bula para advertências principais e contraindicações oficiais; os 
 - A previsão principal (síndrome de hiperviscosidade policlonal) é apenas uma previsão do modelo (L5), sem ensaios, sem literatura e sem mecanismo plausível. Além disso, o medicamento é comercializado no Brasil, e o perfil de segurança exige cautela em várias condições.
 - A peste septicêmica (L4) é a hipótese mais defensável, mas é uma extensão do uso antibacteriano existente e se apoia apenas em dados in vitro e em animais. Pode ser tratada como questão de pesquisa, não como candidata a reposicionamento imediato.
 
+<!-- review:begin br-lic-20261106-ofloxacin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Além disso, o medicamento é comercializado no Brasil (8 registros válidos de 8), e o perfil de segurança exige cautela em várias condições.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 30 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ofloxacin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), hoje um bloqueio para a triagem de segurança.
 - Obter dados detalhados do mecanismo de ação (por exemplo, via DrugBank).
 - Para peste septicêmica: revisar diretrizes e dados clínicos de fluoroquinolonas e avaliar a viabilidade de estudos em humanos.
 - Para qualquer nova indicação: confirmar a compatibilidade de via de administração e a situação regulatória.
 - Descartar ou despriorizar as previsões hematológicas sem respaldo mecanístico.
+
+<!-- review:begin br-lic-20261106-ofloxacin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Para qualquer nova indicação: confirmar a compatibilidade de via de administração e a situação regulatória, já que não há registro vigente no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 30 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ofloxacin-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “(8 registros válidos de 8)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-11 | Removido: “Todos os 8 registros estão vigentes (8 licenças válidas de 8); o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

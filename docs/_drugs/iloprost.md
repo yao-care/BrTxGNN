@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 361
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Iloprost: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the s… (nível de evidência L5). Indicação original: PROSTAGLANDINAS"
 monitor_inn: "iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
@@ -118,12 +118,38 @@ A HAP associada a cardiopatia congênita e a HAP associada a doença do tecido c
 **Justificativa:**
 - Para a indicação principal prevista (hipotricose simples do couro cabeludo), não há ensaios, literatura nem vínculo mecanístico plausível; a previsão é exclusivamente computacional (nível L5).
 
+<!-- review:begin br-lic-20261106-iloprost-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Para a indicação principal prevista (hipotricose simples do couro cabeludo), não há ensaios, literatura nem vínculo mecanístico plausível; a previsão é exclusivamente computacional (nível L5). / O único registro brasileiro da iloprosta (VENTAVIS) está cancelado, e os dados de bula (advertências e contraindicações) não estavam disponíveis, o que impede a triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-iloprost-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).
 - Complementar os dados de mecanismo de ação no DrugBank.
 - Verificar a situação regulatória atual da iloprosta no Brasil.
 - Considerar priorizar os subgrupos de HAP (cardiopatia congênita e doença do tecido conjuntivo) como questões de pesquisa, por terem maior suporte (L3).
 - Para hipotricose simples, gerar evidência pré-clínica de mecanismo antes de qualquer avanço.
+
+<!-- review:begin br-lic-20261106-iloprost-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a situação regulatória atual da iloprosta no Brasil, já que o único registro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-iloprost-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O único registro brasileiro da iloprosta (VENTAVIS) está cancelado, e os dados de bula (advertências e contraindicações) não estavam disponí” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que o único registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

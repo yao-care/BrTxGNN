@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 566
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Rifaximin: nova indicação prevista, Candidíase oral (oral candidiasis) (nível de evidência L5). Indicação original: RIFAXIMINA"
 monitor_inn: "rifaximin"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
@@ -92,11 +92,30 @@ Para advertências e contraindicações formais, consulte a bula.
 **Justificativa:**
 - Não há ensaios clínicos nem mecanismo antifúngico plausível, e a única publicação indica que a rifaximina pode favorecer candidíase.
 
+<!-- review:begin br-lic-20261106-rifaximin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos nem mecanismo antifúngico plausível, e a única publicação indica que a rifaximina pode favorecer candidíase. Além disso, o único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-rifaximin-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) e evidência de atividade antifúngica ou de efeito benéfico sobre a candidíase oral.
 - Bula da ANVISA com advertências e contraindicações, para a triagem de segurança.
 - Avaliação do risco de candidíase associado ao uso de rifaximina, incluindo a seleção de *Candida* resistente.
 - Esclarecimento da situação regulatória do registro cancelado e da forma farmacêutica.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

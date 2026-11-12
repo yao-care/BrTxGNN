@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Caspofungin: nova indicação prevista, Anormalidade da secreção de gastrina (gastrin secretion abnormality) (nível de evidência L5). Indicação original: Antifúngicos (ANTI-FUNGICOS)"
 monitor_inn: "caspofungin"
 predicted_indications: ["gastrin secretion abnormality"]
@@ -92,12 +92,38 @@ Para advertências e contraindicações formais, consulte a bula.
 **Justificativa:**
 A previsão se baseia apenas no modelo (L5), sem ensaios clínicos, sem literatura e sem vínculo mecanístico plausível. Além disso, o medicamento está comercializado no Brasil e há interação medicamentosa de gravidade maior com a dexametasona.
 
+<!-- review:begin br-lic-20261106-caspofungin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Além disso, o medicamento está comercializado no Brasil (5 de 5 registros válidos) e há interação medicamentosa de gravidade maior com a dexametasona.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-caspofungin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança.
 - Complementar os dados de mecanismo de ação via DrugBank.
 - Realizar revisão de literatura e busca de estudos pré-clínicos que sustentem uma hipótese mecanística para a secreção de gastrina.
 - Avaliar a compatibilidade de vias de administração (a caspofungina é de uso intravenoso) e a similaridade com a indicação original.
 - Esclarecer a situação regulatória.
+
+<!-- review:begin br-lic-20261106-caspofungin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória, já que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-caspofungin-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “(5 de 5 registros válidos)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

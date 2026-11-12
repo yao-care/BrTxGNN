@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 679
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Zanubrutinib: nova indicação prevista, Leucemia Mieloide (Myeloid Leukemia) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "zanubrutinib"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
@@ -115,12 +115,38 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 - A previsão para leucemia mieloide não tem apoio clínico específico: o único ensaio é de Fase 1, com relevância indireta, e a literatura trata de neoplasias linfoides.
 
+<!-- review:begin br-lic-20261106-zanubrutinib-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para leucemia mieloide não tem apoio clínico específico: o único ensaio é de Fase 1, com relevância indireta, e a literatura trata de neoplasias linfoides. Além disso, o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-zanubrutinib-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados detalhados do mecanismo de ação e análise da dependência de BTK em modelos de leucemia mieloide (estudos pré-clínicos)
 - Evidência clínica específica do zanubrutinibe em leucemia mieloide
 - Bula da ANVISA com advertências e contraindicações, para a triagem de segurança
 - Esclarecimento da situação regulatória no Brasil
 - Avaliação das interações medicamentosas relevantes (inibidores/indutores de CYP3A, antiagregantes e anticoagulantes) em populações específicas
+
+<!-- review:begin br-lic-20261031-zanubrutinib-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecimento da situação regulatória no Brasil (registro cancelado)” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-zanubrutinib-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

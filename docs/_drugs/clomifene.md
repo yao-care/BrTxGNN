@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 233
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "clomifene"
 predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12"]
 description: "Clomifene: nova indicação prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -101,6 +101,18 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 - Levantar dados de mecanismo de ação em fontes como o DrugBank.
 - Realizar revisão sistemática da literatura sobre o defeito da esteroidogênese testicular e o uso de moduladores do receptor de estrogênio.
 - Avaliar, com especialistas em endocrinologia, a plausibilidade biológica antes de qualquer estudo pré-clínico ou clínico.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros hoje apenas cancelados) outros” | Não aparece mais após a regeneração do relatório (2026-11-12: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

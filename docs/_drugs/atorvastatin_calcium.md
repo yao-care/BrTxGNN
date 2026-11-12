@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -62,6 +62,12 @@ Atorvastatin Calcium é uma estatina (inibidor da HMG-CoA redutase) amplamente c
 
 **Justificativa:**
 
+<!-- review:begin br-lic-20261106-atorvastatin_calcium-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “**Justificativa:** / O Evidence Pack apresenta duas lacunas bloqueantes: ausência total de previsões TxGNN (`predicted_indications: []`) e ausência de registros regulatórios, o que impede qualquer análise de reposicionamento ou avaliação de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-atorvastatin_calcium-1 -->
+
 **Para prosseguir, é necessário:**
 
 - **[Crítico]** Verificar o termo de busca no banco de dados regulatório — tentar variantes como `"atorvastatina"`, `"atorvastatin"` (sem "calcium") ou pelo nome comercial `"Lipitor"`, pois a consulta atual retornou 0 resultados para um fármaco amplamente comercializado
@@ -73,6 +79,26 @@ Atorvastatin Calcium é uma estatina (inibidor da HMG-CoA redutase) amplamente c
 ---
 
 > É provável que a busca tenha falhado por incompatibilidade de nomenclatura. Recomenda-se revisão manual antes de qualquer conclusão sobre status de comercialização.
+
+<!-- review:begin br-lic-20261106-atorvastatin_calcium-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “> ⚠️ **Nota sobre os dados recebidos:** A ausência de registros regulatórios para Atorvastatin Calcium é incomum, dado que este é um dos fármacos mais prescritos globalmente. É provável que a busca tenha falhado por incompatibilidade de nomenclatura.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-atorvastatin_calcium-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O Evidence Pack apresenta duas lacunas bloqueantes: ausência total de previsões TxGNN (`predicted_indications: []`) e ausência de registros ” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “⚠️ **Nota sobre os dados recebidos:** A ausência de registros regulatórios para Atorvastatin Calcium é incomum, dado que este é um dos fárma” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

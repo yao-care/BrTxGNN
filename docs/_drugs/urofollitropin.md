@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 661
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Urofollitropin: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Hormônio gonadotrófico"
 monitor_inn: "urofollitropin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
@@ -84,11 +84,30 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 A previsão se baseia apenas na pontuação do modelo (L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível.
 
+<!-- review:begin br-lic-20261106-urofollitropin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão se baseia apenas na pontuação do modelo (L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível. Além disso, o único registro no Brasil está cancelado, e não há produto comercializado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-urofollitropin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Complementar os dados do mecanismo de ação via DrugBank
 - Realizar revisão de literatura sobre FSH/gonadotrofinas e enxaqueca (por exemplo, enxaqueca menstrual) para verificar se há base mínima
 - Avaliar a viabilidade regulatória e comercial, dado o cancelamento do registro e a ausência de dados de via de administração
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado, e não há produto comercializado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

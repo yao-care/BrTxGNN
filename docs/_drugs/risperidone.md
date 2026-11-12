@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 569
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Risperidone: nova indicação prevista, Paralisia do olhar horizontal familiar com escoliose progressiva (gaz… (nível de evidência L5). Indicação original: Neurolépticos (antipsicótico)"
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
@@ -74,6 +74,12 @@ Atualmente não há literatura relacionada.
 
 Abaixo estão 5 dos registros, incluindo os nomes comerciais distintos.
 
+<!-- review:begin br-lic-20261106-risperidone-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Dos 20 registros localizados, todos estão cancelados. Não há registro vigente de risperidona isolada nem em associação. Abaixo estão 5 dos registros, incluindo os nomes comerciais distintos.” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-risperidone-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431002 | RISS | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -127,10 +133,22 @@ Não há advertências nem contraindicações de bula nas fontes compiladas. Con
 - Não há ensaios clínicos nem publicações, e o nível de evidência é L5.
 - Não existe vínculo mecanístico plausível entre a ação da risperidona e a fisiopatologia da doença.
 
+<!-- review:begin br-lic-20261106-risperidone-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não existe vínculo mecanístico plausível entre a ação da risperidona e a fisiopatologia da doença. / O medicamento é comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 54 registros para este medicamento, 27 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-risperidone-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação documentados e uma justificativa biológica para a doença ligada ao ROBO3.
 - Estudos pré-clínicos ou relatos de casos que indiquem algum benefício.
 - Bula e informações de segurança atualizadas, e confirmação de disponibilidade regulatória.
+
+<!-- review:begin br-lic-20261106-risperidone-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Bula e informações de segurança atualizadas, e confirmação de disponibilidade regulatória, já que não há registro vigente no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 54 registros para este medicamento, 27 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-risperidone-3 -->
 
 **Observação sobre outras previsões do modelo:** para o mesmo fármaco, o TxGNN apontou indicações com evidência bem mais robusta.
   - Os ensaios são NCT00095134 (630 participantes) e NCT00044681 (258 participantes), ambos sobre risperidona como adjuvante a antidepressivos.
@@ -139,6 +157,21 @@ Não há advertências nem contraindicações de bula nas fontes compiladas. Con
 - A **síndrome de Phelan-McDermid** tem nível L4, com revisão e estudo pré-clínico em peixe-zebra.
 
 Se o objetivo é reposicionar a risperidona, essas indicações merecem prioridade sobre a paralisia do olhar horizontal familiar.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Dos 20 registros localizados, todos estão cancelados. Não há registro vigente de risperidona isolada nem em associação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “O medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

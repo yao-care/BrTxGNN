@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 33
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Alanine: nova indicação prevista, Gastroparesia (Gastroparesis) (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "ALANINE"
 predicted_indications: ["gastroparesis (disease)"]
@@ -77,6 +77,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 São listados os 5 principais:
 
+<!-- review:begin br-lic-20261106-alanine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 16 registros estão válidos. São listados os 5 principais:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 30 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-alanine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100410133 | AMINOSTERIL N-HEPA 8% | FRESENIUS KABI BRASIL LTDA | Ativo |
@@ -123,12 +129,39 @@ Para advertências, contraindicações e interações medicamentosas formais, co
 **Justificativa:**
 - A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos e sem literatura que avalie a alanina na gastroparesia.
 
+<!-- review:begin br-lic-20261106-alanine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão baseia-se apenas no modelo (L5), sem ensaios clínicos e sem literatura que avalie a alanina na gastroparesia. Além disso, o medicamento está comercializado no Brasil, com 16 registros válidos de 16.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 30 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-alanine-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da alanina e análise de uma ligação mecanística plausível com a fisiopatologia da gastroparesia
 - Estudos pré-clínicos ou clínicos que avaliem diretamente a alanina na gastroparesia
 - Obtenção e análise das bulas na ANVISA (advertências e contraindicações), etapa bloqueante para a triagem de segurança
 - Avaliação da compatibilidade de vias de administração e da viabilidade regulatória
 - Análise cuidadosa das contraindicações sugeridas pelo grafo de conhecimento, especialmente doença renal e cardiovascular, que são comuns na população-alvo
+
+<!-- review:begin br-lic-20261106-alanine-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da compatibilidade de vias de administração e da viabilidade regulatória, dado que não há registro vigente no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 30 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-alanine-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os 16 registros estão válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o medicamento está comercializado no Brasil, com 16 registros válidos de 16” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro vigente no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 172
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Caffeine: nova indicação prevista, Doença da cavidade nasal (nasal cavity disease) (nível de evidência L5). Indicação original: Estimulantes respiratórios"
 monitor_inn: "Caffeine"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
@@ -77,6 +77,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 O medicamento está comercializado. Os cinco principais são:
 
+<!-- review:begin br-lic-20261106-caffeine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 20 registros válidos e o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 281 registros para este medicamento, 76 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-caffeine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431230 | CARISOPRODOL + DICLOFENACO DE SÓDIO + PARACETAMOL+ CAFEÍNA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -132,6 +138,26 @@ A previsão se apoia apenas no modelo e em literatura indireta, sem ensaios clí
 - Realizar estudos pré-clínicos e clínicos específicos de doença nasal (por exemplo, papel dos receptores TAS2R no epitélio nasal)
 - Avaliar a viabilidade de via de administração (intranasal ou outra) e a situação regulatória
 - Considerar alternativas com evidência mais forte entre as demais previsões (por exemplo, cefaleia hípnica, cuja literatura relata o uso de cafeína como terapia de primeira linha em séries pequenas e relatos de casos)
+
+<!-- review:begin br-lic-20261106-caffeine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a viabilidade de via de administração (intranasal ou outra) e a situação regulatória, dado que não há registros vigentes no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 281 registros para este medicamento, 76 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-caffeine-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há 20 registros válidos e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registros vigentes no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

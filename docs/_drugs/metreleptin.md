@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Metreleptin: nova indicação prevista, Lentiginose generalizada familiar (familial generalized lentiginosis) (nível de evidência L5). Indicação original: Outros produtos para o aparelho digestivo e me…"
 monitor_inn: "metreleptin"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "Moynahan syndrome", "rhabdoid tumor", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "benign neoplasm of adrenal gland", "peripheral nerve schwannoma"]
@@ -87,12 +87,31 @@ Para advertências e contraindicações, consulte a bula, pois essas informaçõ
 **Justificativa:**
 A previsão baseia-se apenas em inferência computacional (nível L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível.
 
+<!-- review:begin br-lic-20261106-metreleptin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão baseia-se apenas em inferência computacional (nível L5), sem ensaios clínicos, sem literatura e sem mecanismo plausível. Além disso, o único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-metreleptin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Complementar os dados de mecanismo de ação via DrugBank
 - Realizar revisão sistemática da literatura e de registros de ensaios para identificar qualquer base biológica entre a sinalização da leptina e distúrbios pigmentares
 - Avaliar a situação regulatória e a disponibilidade do produto no Brasil, dado o registro cancelado
 - Considerar priorizar outras indicações com maior plausibilidade biológica, como condições associadas à resistência à insulina
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

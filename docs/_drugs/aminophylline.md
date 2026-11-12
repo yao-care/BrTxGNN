@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 55
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 description: "Aminophylline: nova indicação prevista, Enxaqueca (Migraine Disorder) (nível de evidência L4). Indicação original: Broncodilatadores"
 monitor_inn: "Aminophylline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
@@ -79,6 +79,18 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 O medicamento está comercializado.
 
+<!-- review:begin br-lic-20261106-aminophylline-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Foram encontrados 9 registros válidos de 9 no Brasil; o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 9 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-aminophylline-1 -->
+
+<!-- review:begin br-lic-20261106-aminophylline-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há mais 4 registros cancelados (nº 113430165, 110850024, 103700445 e Asmafin nº 107150067), todos com a mesma indicação.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 9 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-aminophylline-2 -->
+
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
 | Registro nº 113430118 | Aminofilina | Não informada | Broncodilatadores |
@@ -104,12 +116,24 @@ Para advertências e contraindicações formais, consulte a bula.
 **Justificativa:**
 - A pontuação do TxGNN é alta (0,9988), mas a evidência sustentadora é L4: apenas uma revisão e relatos de caso, sem ensaios clínicos.
 
+<!-- review:begin br-lic-20261106-aminophylline-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A pontuação do TxGNN é alta (0,9988), mas a evidência sustentadora é L4: apenas uma revisão e relatos de caso, sem ensaios clínicos. Além disso, os 9 registros no Brasil estão válidos (9 de 9) e os dados de bula (advertências e contraindicações) não estão disponíveis, o que impede a triagem de segurança.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 9 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-aminophylline-3 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa bloqueante para a avaliação de segurança.
 - Complementar os dados do mecanismo de ação (consulta ao DrugBank).
 - Realizar uma revisão sistemática ou estudos clínicos (fase 2) de aminofilina em enxaqueca, incluindo a cefaleia pós-punção dural como modelo.
 - Definir via de administração e formulação viáveis.
 - Elaborar plano de gerenciamento das interações (em especial com bupropiona) e da janela terapêutica estreita das xantinas.
+
+<!-- review:begin br-lic-20261106-aminophylline-4 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Definir via de administração e formulação viáveis, já que não há produto com registro válido no país.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 9 registros para este medicamento, 8 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-aminophylline-4 -->
 
 ## Outras Indicações Previstas (Resumo)
 
@@ -125,6 +149,22 @@ Para advertências e contraindicações formais, consulte a bula.
 | 10 | Cardiopatia cifoescoliótica | 0,9901 | L5 | Hold |
 
 Entre as alternativas, a **hipertensão pulmonar** tem o maior nível de evidência (L3), com estudos hemodinâmicos em humanos e animais, mas sem ensaios de fase 2/3 que comprovem eficácia.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Foram encontrados 9 registros válidos de 9 no Brasil; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Há mais 4 registros cancelados (nº 113430165, 110850024, 103700445 e Asmafin nº 107150067), todos com a mesma indicação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, os 9 registros no Brasil estão válidos (9 de 9) e os dados de bula (advertências e contraindicações) não estão disponíveis, o qu” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há produto com registro válido no país” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

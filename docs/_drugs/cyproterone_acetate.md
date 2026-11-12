@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 247
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Cyproterone Acetate: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L4). Indicação original: Progestágenos simples"
 monitor_inn: "Cyproterone acetate"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
@@ -105,9 +105,28 @@ A previsão se apoia apenas na pontuação do modelo TxGNN (deep learning) e em 
 - Avaliação do perfil de risco tromboembólico e vascular, especialmente em enxaqueca com aura
 - Esclarecimento da situação regulatória no Brasil
 
+<!-- review:begin br-lic-20261106-cyproterone_acetate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecimento da situação regulatória no Brasil, já que não há registro vigente” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cyproterone_acetate-1 -->
+
 ### Observação sobre outras previsões
 
 Outras previsões do modelo foram analisadas e também recomendadas como Hold. Entre elas, a **amenorreia / irregularidade menstrual** é a que tem maior suporte (nível L3): há um ensaio de Fase 4 (NCT01103518, n=100, status desconhecido) com preparações de etinilestradiol + acetato de ciproterona em irregularidade menstrual de origem hiperandrogênica, mas isso está mais próximo do uso já existente do fármaco do que de um reposicionamento verdadeiro. As previsões ligadas a trombofilia e deficiências de fatores de coagulação provavelmente refletem similaridades que o modelo TxGNN (deep learning) aprendeu entre doenças relacionadas, e não evidência biológica nem oportunidade terapêutica.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

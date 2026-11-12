@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 155
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Brolucizumab: nova indicação prevista, Transtorno mitocondrial da fosforilação oxidativa por anomalias do DNA nuclear (nível de evidência L5). Indicação original: Outros medicamentos com ação no aparelho vis…"
 monitor_inn: "brolucizumab"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency"]
@@ -89,12 +89,31 @@ Para as demais informações de segurança, consulte a bula.
 **Justificativa:**
 Todas as indicações previstas têm apenas previsão do modelo (L5), sem ensaios clínicos nem literatura, e sem ligação mecanística plausível.
 
+<!-- review:begin br-lic-20261106-brolucizumab-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todas as indicações previstas têm apenas previsão do modelo (L5), sem ensaios clínicos nem literatura, e sem ligação mecanística plausível. Além disso, o único registro no Brasil está cancelado e a via de administração (intravítrea) é incompatível com doenças sistêmicas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-brolucizumab-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank)
 - Demonstrar uma ligação mecanística plausível e evidências pré-clínicas para a indicação prevista
 - Avaliar a compatibilidade de via de administração e a exposição sistêmica necessária, com análise de risco hemorrágico e vascular
 - Esclarecer o motivo do cancelamento do registro e a situação comercial atual no Brasil
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado e a via de administração (intravítrea) é incompatível com doenças sistêmicas” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

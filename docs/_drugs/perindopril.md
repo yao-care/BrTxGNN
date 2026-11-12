@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 518
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Perindopril: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disea… (nível de evidência L5). Indicação original: Anti-hipertensivos"
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
@@ -109,6 +109,25 @@ Há ainda um sexto registro (TRIPLIXAM, inibidores da ECA, associações), tamb�
 - Realizar revisão sistemática da literatura clínica sobre IECA em nefropatia hipertensiva maligna.
 - Avaliar o risco renal (estenose de artéria renal, hiperpotassemia) e a situação regulatória.
 - Se o interesse for mantido, considerar a indicação alternativa: hipertensão pulmonar por doença pulmonar e/ou hipóxia (há apenas estudos pré-clínicos em ratos, nível L4), também em *Hold*.
+
+<!-- review:begin br-lic-20261106-perindopril-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar o risco renal (estenose de artéria renal, hiperpotassemia) e a situação regulatória, já que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 11 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-perindopril-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

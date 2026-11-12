@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 517
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: nova indicação prevista, Beta-ketothiolase deficiency (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -104,6 +104,25 @@ Para a deficiência de beta-cetotiolase, as evidências se limitam à previsão 
 - Para estado de mal epiléptico: acompanhar os resultados do ensaio de fase 2 NCT06401707 e avaliar um ensaio randomizado adequadamente dimensionado.
 - Avaliar a situação regulatória no Brasil e as formas farmacêuticas disponíveis, incluindo a via de administração necessária em contexto agudo.
 - Definir plano de monitoramento de eventos psiquiátricos e de interações medicamentosas.
+
+<!-- review:begin br-lic-20261106-perampanel-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a situação regulatória no Brasil (sem registro vigente) e as formas farmacêuticas disponíveis, incluindo a via de administração necessária em contexto agudo.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-perampanel-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “(sem registro vigente)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

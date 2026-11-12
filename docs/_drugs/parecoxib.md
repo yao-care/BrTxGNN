@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 510
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Parecoxib: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L3). Indicação original: Antiinflamatórios"
 monitor_inn: "parecoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
@@ -78,6 +78,12 @@ Para outras indicações previstas (subtipos de enxaqueca), a literatura adicion
 
 O medicamento está comercializado.
 
+<!-- review:begin br-lic-20261106-parecoxib-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os 8 registros estão válidos (8 de 8); o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-parecoxib-2 -->
+
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
 | Registro 100431460 | PAXIBE | Não informada | Antiinflamatórios |
@@ -99,6 +105,12 @@ Observação: pelo mecanismo de inibição seletiva da COX-2, que reduz a prosta
 **Justificativa:**
 Apesar da pontuação alta e do mecanismo plausível, a evidência clínica se resume a um estudo piloto de desenho não confirmado, sem ensaios registrados. O medicamento é comercializado, mas a forma é apenas injetável. Os dados de segurança da bula também não estão disponíveis, o que impede a triagem de segurança.
 
+<!-- review:begin br-lic-20261106-parecoxib-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os 8 registros no Brasil estão válidos (8 de 8) e o medicamento é comercializado, mas a forma é apenas injetável.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-parecoxib-3 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações)
 - Confirmar o desenho, o desfecho e os resultados do estudo PMID 21996647
@@ -106,6 +118,27 @@ Apesar da pontuação alta e do mecanismo plausível, a evidência clínica se r
 - Avaliar a viabilidade da via injetável para enxaqueca e a situação regulatória
 - Buscar ensaios controlados e randomizados que sustentem a eficácia em enxaqueca
 - Avaliar o risco cardiovascular da inibição seletiva da COX-2
+
+<!-- review:begin br-lic-20261031-parecoxib-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Avaliar a viabilidade da via injetável para enxaqueca e a situação regulatória (registros cancelados)” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 8 registros para este medicamento, 7 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-parecoxib-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros cancelados)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “s 8 registros estão válidos (8 de 8); o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “s 8 registros no Brasil estão válidos (8 de 8) e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

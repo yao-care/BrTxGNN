@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ibuprofen: nova indicação prevista, displasia acromesomélica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (nível de evidência L5). Indicação original: Não consta nos dados loc…"
 ---
 
@@ -74,6 +74,12 @@ Atualmente não há literatura relacionada.
 
 Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.
 
+<!-- review:begin br-lic-20261106-ibuprofen-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados, o ibuprofeno consta como comercializado no Brasil, com 13 registros válidos e 7 cancelados. Os dados de registro são parciais, e a lista detalhada de registros não está disponível neste relatório.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 218 registros para este medicamento, 101 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-ibuprofen-1 -->
+
 ## Considerações de Segurança
 
 - **Contraindicações registradas nos dados de segurança (não extraídas da bula)**: hipertensão, insuficiência hepática, doença renal, doença hepática, úlcera péptica, doença inflamatória intestinal, trombocitopenia, distúrbios da coagulação sanguínea, acidente vascular cerebral e infarto do miocárdio, entre outras condições (por exemplo, epilepsia, DPOC, lúpus eritematoso sistêmico, diabetes mellitus, hipotireoidismo e hiperplasia prostática benigna).
@@ -96,6 +102,19 @@ As advertências e contraindicações da bula aprovada pela ANVISA não estavam 
 - Estudos pré-clínicos que demonstrem algum efeito sobre a patologia da doença
 - Obtenção e análise da bula da ANVISA (advertências e contraindicações) para a triagem de segurança
 - Avaliação de que o uso se limitaria, no máximo, ao alívio sintomático da dor, o que não configura reposicionamento
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Segundo os dados compilados, o ibuprofeno consta como comercializado no Brasil, com 13 registros válidos e 7 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

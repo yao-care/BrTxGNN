@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 678
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Zanamivir: nova indicação prevista, Pielonefrite (Pyelonephritis) (nível de evidência L5). Indicação original: Influenza"
 monitor_inn: "Zanamivir"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
@@ -91,11 +91,37 @@ Para as demais informações de segurança, consulte a bula.
 **Justificativa:**
 - A pontuação do TxGNN é alta, mas não há ensaios clínicos, literatura ou mecanismo plausível que sustentem o uso do zanamivir na pielonefrite.
 
+<!-- review:begin br-lic-20261106-zanamivir-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A pontuação do TxGNN é alta, mas não há ensaios clínicos, literatura ou mecanismo plausível que sustentem o uso do zanamivir na pielonefrite. O fármaco também não está registrado no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-zanamivir-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) para avaliar o vínculo mecanístico.
 - Bula da ANVISA com advertências e contraindicações, atualmente ausente e que impede a triagem de segurança.
 - Evidência pré-clínica ou clínica de atividade em pielonefrite, ou a reavaliação de outras previsões com maior plausibilidade biológica.
 - Análise de compatibilidade de via de administração. O zanamivir é usado principalmente por via inalatória, o que pode não ser adequado para infecção renal.
+
+<!-- review:begin br-lic-20261106-zanamivir-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O zanamivir é usado principalmente por via inalatória, o que pode não ser adequado para infecção renal. / Avaliação regulatória sobre a ausência de registro no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-zanamivir-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O fármaco também não está registrado no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Avaliação regulatória sobre a ausência de registro no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

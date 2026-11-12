@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 509
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "PANTOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: nova indicação prevista, Duodenal obstruction (nível de evidência L5). Indicação original: ANTIULCEROSOS"
@@ -95,6 +95,12 @@ Obstrução duodenal (pontuação de 0,9921) não tem vínculo mecanístico crí
 
 O medicamento está comercializado no Brasil. Abaixo, os 5 primeiros:
 
+<!-- review:begin br-lic-20261106-pantoprazole-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 20 registros encontrados estão válidos; o medicamento está comercializado no Brasil.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 103 registros para este medicamento, 48 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-pantoprazole-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100430026 | PANTOPRAZOL | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -152,11 +158,38 @@ As advertências e contraindicações da bula da ANVISA não estavam disponívei
 **Justificativa:**
 - Há ensaio de Phase 3 concluído e vários ensaios comparativos de pantoprazol na úlcera duodenal, o que sustenta o nível L1. Porém, trata-se de uma indicação já estabelecida da classe, sem novidade terapêutica.
 
+<!-- review:begin br-lic-20261106-pantoprazole-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Porém, trata-se de uma indicação já estabelecida da classe, sem novidade terapêutica, e há 20 registros válidos no Brasil, com o medicamento comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 103 registros para este medicamento, 48 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-pantoprazole-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA (advertências e contraindicações), que é uma lacuna bloqueante para a triagem de segurança.
 - Confirmar o mecanismo de ação em fonte primária (DrugBank).
 - Avaliar o risco em pacientes com osteoporose, risco de fratura ou deficiência de vitamina B12, e revisar as interações de maior gravidade (atazanavir, acalabrutinibe).
 - Confirmar a população exata do ensaio NCT02084420, cujo título não deixa claro se se trata de úlcera péptica ativa.
+
+<!-- review:begin br-lic-20261106-pantoprazole-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar o mecanismo de ação em fonte primária (DrugBank). / Verificar a situação regulatória atual: os 20 registros estão cancelados, então é preciso confirmar se há outro registro vigente ou se seria necessário um novo registro.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 103 registros para este medicamento, 48 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-pantoprazole-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os 20 registros encontrados estão válidos; o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “e há 20 registros válidos no Brasil, com o medicamento comercializado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Verificar a situação regulatória atual: os 20 registros estão cancelados, então é preciso confirmar se há outro registro vigente ou se seria” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

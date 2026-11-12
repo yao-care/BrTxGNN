@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 615
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -68,11 +68,29 @@ O registro de consultas (`query_log`) revela uma inconsistência importante: a c
 
 Adicionalmente, o campo `original_indications` está vazio, o que impede o TxGNN de calcular similaridade entre indicação de origem e candidatos de reposicionamento.
 
+<!-- review:begin br-lic-20261106-terbinafine_hydrochloride-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Adicionalmente, o campo `original_indications` está vazio, o que impede o TxGNN de calcular similaridade entre indicação de origem e candidatos de reposicionamento. Por fim, a consulta regulatória foi direcionada à fonte TFDA (Taiwan), retornando 0 registros — o que não reflete necessariamente a situação regulatória no Brasil, onde Terbinafina possui histórico de comercialização.” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-terbinafine_hydrochloride-1 -->
+
 ---
 
 ## Informações de Comercialização no Brasil
 
 > Para confirmar a situação de registro no Brasil, consulte diretamente o portal da ANVISA em [https://consultas.anvisa.gov.br/](https://consultas.anvisa.gov.br/).
+
+<!-- review:begin br-lic-20261106-terbinafine_hydrochloride-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “> **Atenção:** A fonte de dados regulatórios consultada neste ciclo parece ser a base TFDA (Taiwan Food and Drug Administration), não a ANVISA. Para confirmar a situação de registro no Brasil, consulte diretamente o portal da ANVISA em [https://consultas.anvisa.gov.br/](https://consultas.anvisa.gov.br/).” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-terbinafine_hydrochloride-2 -->
+
+<!-- review:begin br-lic-20261106-terbinafine_hydrochloride-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Nenhum registro foi encontrado na consulta atual.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 17 registros para este medicamento, 17 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-terbinafine_hydrochloride-3 -->
 
 ---
 
@@ -94,6 +112,28 @@ O pipeline não completou o mapeamento DrugBank para Terbinafina Cloridrato nest
 - **Preencher `original_indications`**: mapear as indicações aprovadas a partir do DrugBank ou da bula ANVISA
 - **Re-executar o pipeline completo** após as correções acima para obter previsões TxGNN válidas
 - **Coletar dados de MOA e segurança**: obter advertências e contraindicações da bula ANVISA após confirmação do registro
+
+<!-- review:begin br-lic-20261106-terbinafine_hydrochloride-4 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “**Preencher `original_indications`**: mapear as indicações aprovadas a partir do DrugBank ou da bula ANVISA / **Apontar a consulta regulatória para ANVISA**: substituir a fonte TFDA pela base brasileira e re-executar a coleta” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-terbinafine_hydrochloride-4 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Por fim, a consulta regulatória foi direcionada à fonte TFDA (Taiwan), retornando 0 registros — o que não reflete necessariamente a situação” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “**Atenção:** A fonte de dados regulatórios consultada neste ciclo parece ser a base TFDA (Taiwan Food and Drug Administration), não a ANVISA” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Nenhum registro foi encontrado na consulta atual” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “**Apontar a consulta regulatória para ANVISA**: substituir a fonte TFDA pela base brasileira e re-executar a coleta” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

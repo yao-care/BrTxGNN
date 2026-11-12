@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 576
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "sacituzumab govitecan"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
 description: "Sacituzumab Govitecan: nova indicação prevista, Osteoporose induzida por fármacos (drug-induced osteoporosis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -92,11 +92,30 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 - A previsão é apenas computacional (L5), sem ensaios clínicos nem literatura, sem vínculo mecanístico plausível e com perfil de toxicidade desfavorável para uso sistêmico em condições não oncológicas.
 
+<!-- review:begin br-lic-20261106-sacituzumab_govitecan-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão é apenas computacional (L5), sem ensaios clínicos nem literatura, sem vínculo mecanístico plausível e com perfil de toxicidade desfavorável para uso sistêmico em condições não oncológicas. Além disso, o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-sacituzumab_govitecan-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada
 - Complementar os dados do mecanismo de ação via DrugBank
 - Realizar validação pré-clínica de um mecanismo plausível antes de qualquer estudo clínico
 - Confirmar a indicação original e a situação regulatória do produto no Brasil
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

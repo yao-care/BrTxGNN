@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
 description: "Prasugrel: nova indicação prevista, Hipertensão Pulmonar (pulmonary hypertension) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -112,12 +112,31 @@ Consulte a bula para advertências e contraindicações oficiais; o risco hemorr
 **Justificativa:**
 - Para hipertensão pulmonar, a previsão é apenas computacional (L5), sem ensaios e com literatura não relacionada. A bula da ANVISA não foi obtida. A enxaqueca associada ao FOP é a direção mais promissora (L3), mas o apoio vem de estudos de classe, retrospectivos e pequenos, e pode ser tratada como pergunta de pesquisa.
 
+<!-- review:begin br-lic-20261106-prasugrel-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O prasugrel não tem registro no Brasil, e a bula da ANVISA não foi obtida.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-prasugrel-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações) e confirmar a situação regulatória do prasugrel no Brasil.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Para hipertensão pulmonar: estudos pré-clínicos ou observacionais que sustentem o elo entre antagonismo de P2Y12 e remodelamento vascular pulmonar.
 - Para enxaqueca: verificar se o NCT07629635 inclui braço antiplaquetário e extrair dados específicos do prasugrel na revisão retrospectiva (PMID 30478066).
 - Avaliação do equilíbrio entre risco hemorrágico e benefício em populações sem doença coronariana.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O prasugrel não tem registro no Brasil, e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 61
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -83,6 +83,12 @@ Consulte a bula para informações de segurança completas. Nenhum dado de adver
 **Justificativa:**
 O modelo TxGNN não produziu previsões de reposicionamento para este fármaco. Sem um `drugbank_id` válido integrado ao pipeline, não é possível gerar ou validar candidatos de reposicionamento.
 
+<!-- review:begin br-lic-20261106-amorolfina_hydrochloride-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O modelo TxGNN não produziu previsões de reposicionamento para este fármaco, e os dados regulatórios brasileiros indicam ausência de registros na ANVISA.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-amorolfina_hydrochloride-1 -->
+
 **Para prosseguir, é necessário:**
 
 - **Resolver DG002 (Crítico):** Obter e integrar o `drugbank_id` correto para Amorolfina — a consulta ao DrugBank encontrou 1 resultado (`result_count: 1`), mas o ID não foi inserido no registro; revisar o pipeline de mapeamento
@@ -90,6 +96,26 @@ O modelo TxGNN não produziu previsões de reposicionamento para este fármaco. 
 - **Reexecutar o modelo TxGNN** após integração do DrugBank ID para gerar previsões válidas
 - **Verificar o status regulatório brasileiro** diretamente na base da ANVISA usando o nome AMOROLFINA, CLORIDRATO DE AMOROLFINA e o nome comercial Loceryl® (comercializado em outros mercados)
 - **Avaliar barreira farmacocinética:** dado que a formulação padrão é tópica (esmalte ungueal), documentar se há formulações sistêmicas disponíveis que tornariam o reposicionamento clinicamente viável
+
+<!-- review:begin br-lic-20261106-amorolfina_hydrochloride-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “**Resolver DG001 (Bloqueante):** Baixar e analisar a bula ANVISA/TFDA para extrair advertências e contraindicações” Removido: texto residual do modelo taiwanês (TFDA), que não se aplica a esta página. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-amorolfina_hydrochloride-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e os dados regulatórios brasileiros indicam ausência de registros na ANVISA” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “/TFDA” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

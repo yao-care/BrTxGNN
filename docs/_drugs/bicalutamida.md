@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 134
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -83,12 +83,31 @@ Consulte a bula para informações de segurança.
 **Justificativa:**
 O Evidence Pack está estruturalmente incompleto — `predicted_indications` retornou lista vazia.
 
+<!-- review:begin br-lic-20261106-bicalutamida-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O Evidence Pack está estruturalmente incompleto — `predicted_indications` retornou lista vazia e os dados de registro ANVISA não foram populados, tornando inviável qualquer análise de reposicionamento ou avaliação de segurança nesta versão.” Removido: a afirmação contradizia os dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 10 registros para este medicamento, 6 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-bicalutamida-1 -->
+
 **Para prosseguir, é necessário:**
 - **[Blocking]** Obter informações de segurança da bula ANVISA (advertências e contraindicações) — fazer download do PDF da bula no portal da ANVISA e extrair os dados relevantes
 - **[High]** Mapear o DrugBank ID de bicalutamida e consultar o MOA via DrugBank API (campo `drugbank_id` atualmente nulo)
 - Re-executar o pipeline TxGNN com o DrugBank ID correto para gerar as previsões de reposicionamento (`predicted_indications`)
 - Re-popular os campos detalhados das 10 licenças ANVISA (número de registro, nome comercial, forma farmacêutica e indicação aprovada estão todos ausentes no pacote atual)
 - Após resolução das lacunas acima, reprocessar o Evidence Pack em nova versão para obter relatório completo
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e os dados de registro ANVISA não foram populados, tornando inviável qualquer análise de reposicionamento ou avaliação de segurança nesta ve” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

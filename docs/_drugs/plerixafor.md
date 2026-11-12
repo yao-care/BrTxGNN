@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 531
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "PLERIXAFOR"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
 description: "Plerixafor: nova indicação prevista, CMM7 (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -83,12 +83,38 @@ Atualmente não há literatura relacionada.
 - A previsão para o mieloma indolente é apenas computacional (L5), sem ensaios clínicos nem literatura. O plerixafor atua hoje no mieloma como mobilizador de células-tronco, não como terapia contra a doença.
 - As advertências e contraindicações da bula da ANVISA não estão disponíveis.
 
+<!-- review:begin br-lic-20261106-plerixafor-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O medicamento não tem registro no Brasil, e as advertências e contraindicações da bula da ANVISA não estão disponíveis.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-plerixafor-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula (advertências e contraindicações), pois isso bloqueia a triagem de segurança.
 - Obter dados detalhados do mecanismo de ação (MOA) em fonte curada.
 - Realizar estudos pré-clínicos ou clínicos que testem o bloqueio de CXCR4 no mieloma indolente.
 - Avaliar o cenário regulatório no Brasil.
 - Considerar outra indicação prevista para o mesmo fármaco com evidências muito mais robustas: a **leucemia mieloide**, com 24 ensaios clínicos de fase 1 e 2 (por exemplo NCT00512252 e NCT00906945). Ela atingiu nível L2, mas sem ensaios de fase 3, e merece avaliação em separado.
+
+<!-- review:begin br-lic-20261106-plerixafor-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar o cenário regulatório no Brasil, já que não há registro vigente.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-plerixafor-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O medicamento não tem registro no Brasil, e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

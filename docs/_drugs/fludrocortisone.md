@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 320
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Fludrocortisone: nova indicação prevista, Linfoma cutâneo primário de células T (primary cutaneous T-cell lymph… (nível de evidência L5). Indicação original: Mineralocorticoides"
 monitor_inn: "fludrocortisone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "cystic teratoma", "spinal cord dermoid cyst", "dermoid cyst of ovary", "disease of orbital part of eye adnexa", "eye disease", "disease of orbital region", "exostosis"]
@@ -103,6 +103,12 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 - Não há ensaios clínicos nem literatura para linfoma cutâneo primário de células T, e o elo mecanístico é apenas especulativo. Não há dados de segurança de bula.
 
+<!-- review:begin br-lic-20261106-fludrocortisone-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O registro brasileiro está cancelado e não há dados de segurança de bula.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fludrocortisone-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna bloqueante para a triagem de segurança
 - Obter dados do mecanismo de ação (MOA) no DrugBank
@@ -110,6 +116,19 @@ Para advertências e contraindicações, consulte a bula.
 - Avaliar a compatibilidade de vias de administração e a similaridade com a indicação original
 
 **Observação sobre outras previsões:** as demais indicações previstas também têm apenas evidência de nível L5, sem mecanismo plausível (cisto teratoma, cisto dermoide espinhal e ovariano, doenças da região orbital e exostose). A exceção é "doença ocular (eye disease)", com nível L4: há um estudo pré-clínico (PMID 34509498) sobre efeito anti-inflamatório e neuroprotetor da fludrocortisona na degeneração retiniana e um estudo de fase 1B (PMID 36161841) de segurança da injeção intravítrea na atrofia geográfica. Por ser uma categoria muito ampla, essa direção pode ser considerada uma questão de pesquisa, mas exige análise dos resumos completos.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O registro brasileiro está cancelado e n” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Letermovir"
 predicted_indications: ["vulvovaginal candidiasis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Letermovir: nova indicação prevista, candidíase vulvovaginal (vulvovaginal candidiasis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -65,6 +65,12 @@ Não foram encontrados ensaios clínicos nem publicações sobre letermovir ness
 
 Segundo os dados locais, o fármaco consta como comercializado, com 2 registros válidos e 1 cancelado.
 
+<!-- review:begin br-lic-20261106-letermovir-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados locais, o fármaco consta como comercializado, com 2 registros válidos e 1 cancelado. Os detalhes de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis nos dados compilados.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 3 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-letermovir-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 100 interações no total; abaixo, as de gravidade maior entre as listadas:
@@ -84,6 +90,19 @@ A previsão tem pontuação alta (0,9988), mas não conta com ensaios clínicos,
 - Obter e analisar a bula aprovada pela ANVISA (advertências e contraindicações)
 - Esclarecer o mecanismo de ação e verificar se existe alguma hipótese biológica plausível para atividade antifúngica
 - Realizar estudos pré-clínicos *in vitro* contra espécies de *Candida* antes de qualquer avanço clínico
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os detalhes de cada registro (número, nome comercial, forma farmacêutica e indicação aprovada) não estão disponíveis nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

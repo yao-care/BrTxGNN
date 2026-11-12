@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Mometasone: nova indicação prevista, Linfoma cutâneo primário de células T (primary cutaneous T-cell lymph… (nível de evidência L5). Indicação original: Produtos para terapia nasal de ação específica"
 monitor_inn: "Mometasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
@@ -123,12 +123,38 @@ Consulte a bula para as demais informações de segurança (advertências e cont
 **Justificativa:**
 - A previsão tem pontuação alta e plausibilidade de classe, mas não há ensaios clínicos nem estudos com mometasona nessa indicação, apenas dois relatos de caso indiretos (nível L4).
 
+<!-- review:begin br-lic-20261106-mometasone-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão tem pontuação alta e plausibilidade de classe, mas não há ensaios clínicos nem estudos com mometasona nessa indicação, apenas dois relatos de caso indiretos (nível L4). Além disso, não há registro vigente no Brasil, e as informações de segurança da bula não estão disponíveis.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 28 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-mometasone-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa necessária para a triagem de segurança.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
 - Revisar a literatura sobre corticosteroides tópicos na micose fungoide em estágio inicial, buscando dados específicos de mometasona.
 - Avaliar a compatibilidade de via e formulação (tópica) e a situação regulatória.
 - Considerar um estudo exploratório de fase inicial, caso a revisão sustente a hipótese.
+
+<!-- review:begin br-lic-20261111-mometasone-2 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Avaliar a compatibilidade de via e formulação (tópica) e a situação regulatória, dado que o medicamento é comercializado no Brasil, com 9 registros vigentes de 9.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 58 registros para este medicamento, 28 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-mometasone-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, não há registro vigente no Brasil, e as informações de segurança da bula não estão disponíveis” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-11 | Removido: “dado que o medicamento é comercializado no Brasil, com 9 registros vigentes de 9” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

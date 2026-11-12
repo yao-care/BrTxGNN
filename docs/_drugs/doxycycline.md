@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 278
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Doxycycline: nova indicação prevista, Ceratoconjuntivite epitelial punctata (punctate epithelial keratoconj… (nível de evidência L5). Indicação original: Antibióticos sistêmicos simples (classe das t…"
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
@@ -102,6 +102,12 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
   - Acitretina
   - Ácido aminolevulínico
 
+<!-- review:begin br-lic-20261106-doxycycline-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os quatro registros constam como cancelados; não há registro válido nos dados compilados.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-doxycycline-1 -->
+
   Há ainda interações moderadas (por exemplo, hidróxido de alumínio, aminofilina, amoxicilina, ampicilina, bedaquilina, balsalazida, atracúrio, anisindiona, asparaginases e atapulgita) e menores (por exemplo, acetazolamida, amilorida e bendroflumetiazida).
 - **Sinal de segurança específico de outras indicações**: um estudo in vitro (PMID 37026784) indica que tetraciclinas são menos citotóxicas que quinolonas em fibroblastos da membrana timpânica humana, o que é relevante apenas para a otite externa.
 
@@ -122,6 +128,12 @@ Para advertências e demais contraindicações, consulte a bula.
 - Definir a via e a formulação (sistêmica ou oftálmica), pois a compatibilidade de via não foi avaliada.
 - Esclarecer a situação regulatória.
 
+<!-- review:begin br-lic-20261106-doxycycline-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória, já que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-doxycycline-2 -->
+
 **Outras indicações previstas, para priorização:**
 
 | Indicação | Nível de evidência | Recomendação nos dados | Comentário |
@@ -131,6 +143,19 @@ Para advertências e demais contraindicações, consulte a bula.
 | Síndrome pós-infecciosa | L2 (dados) | Research Question | O único ensaio de fase 3 (NCT07658976) ainda não iniciou o recrutamento, e a literatura é heterogênea |
 | Otite externa, vasculite pós-infecciosa, estenose uretral infecciosa, cardiomiopatia chagásica, ceratite por exposição | L5 | Hold | Evidência indireta; na cardiomiopatia chagásica, o estudo pré-clínico não mostrou efeito aditivo sobre o benznidazol |
 | Síndrome hemolítico-urêmica associada a infecção | L5 | Hold | Sem estudos. Antibióticos costumam ser evitados na SHU associada a STEC, por poderem aumentar a liberação da toxina Shiga, o que representa risco de segurança |
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os quatro registros constam como cancelados; não há registro válido nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

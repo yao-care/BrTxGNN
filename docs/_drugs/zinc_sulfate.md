@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 monitor_inn: "ZINC SULFATE"
 predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "congenital prothrombin deficiency"]
 description: "Zinc Sulfate: nova indicação prevista, Faringite (pharyngitis) (nível de evidência L5). Indicação original: OUTROS SUPLEMS MINERAIS EXCETO DE FERRO E P/ REHIDRATACAO"
@@ -106,6 +106,18 @@ Para advertências e contraindicações, consulte a bula.
 - Ensaios clínicos randomizados em faringite aguda (infecciosa) que mostrem benefício consistente.
 - Dados de mecanismo de ação e definição de via, forma farmacêutica e dose adequadas para uso local na garganta.
 - Revisão das advertências e contraindicações da bula brasileira, além do plano de manejo das interações medicamentosas moderadas.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registros cancelados)” | Não aparece mais após a regeneração do relatório (2026-11-12: o relatório foi regenerado em novembro de 2026 e não contém mais esta afirmação; antes: Corrigido) | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

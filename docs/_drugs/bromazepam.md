@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Bromazepam: nova indicação prevista, Enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Não informada nos dados compilados"
 monitor_inn: "BROMAZEPAM"
 predicted_indications: ["migraine disorder"]
@@ -72,12 +72,31 @@ Consulte a bula para informações de segurança. Não há dados de interações
 **Justificativa:**
 A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos nem literatura.
 
+<!-- review:begin br-lic-20261106-bromazepam-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão se apoia apenas no modelo (nível L5), sem ensaios clínicos nem literatura. O fármaco não tem registro ativo no Brasil e o perfil de risco dos benzodiazepínicos pesa contra o uso na enxaqueca.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 55 registros para este medicamento, 13 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-bromazepam-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter a bula da ANVISA, com advertências e contraindicações, para a triagem de segurança.
 - Confirmar a situação regulatória do bromazepam no Brasil e a indicação original aprovada.
 - Obter dados de mecanismo de ação, por exemplo no DrugBank, para analisar a ligação mecanística com a enxaqueca.
 - Fazer busca sistemática de ensaios clínicos e literatura sobre benzodiazepínicos na enxaqueca.
 - Avaliar a viabilidade frente às alternativas já estabelecidas e ao risco de dependência e de cefaleia por uso excessivo de medicamentos.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O fármaco não tem registro ativo no Brasil e o perfil de risco dos benzodiazepínicos pesa contra o uso na enxaqueca” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

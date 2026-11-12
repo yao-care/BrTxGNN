@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "candesartan cilexetil"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Candesartan Cilexetil: nova indicação prevista, Doença renal hipertensiva maligna (malignant hypertensive renal disease) (nível de evidência L5). Indicação original: ANTI-HIPERTENSIVOS SIMPLES"
 ---
 
@@ -64,6 +64,12 @@ Contudo, essa nova indicação se sobrepõe em grande parte ao uso anti-hiperten
 
 Abaixo estão os 5 primeiros; a lista não é exaustiva.
 
+<!-- review:begin br-lic-20261111-candesartan_cilexetil-1 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Segundo os dados compilados, há 17 registros, todos de produtos com candesartana cilexetila isolada ou associada à hidroclorotiazida. Abaixo estão os 5 primeiros; a lista não é exaustiva.” Removido: a indicação de produtos de princípio ativo único ou em associação não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-candesartan_cilexetil-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100330177 | CANDESARTANA CILEXETILA+HIDROCLOROTIAZIDA | LIBBS FARMACÊUTICA LTDA | Ativo |
@@ -118,6 +124,19 @@ Consulte a bula para advertências e contraindicações oficiais, pois esses dad
 - Complementar os dados de mecanismo de ação.
 - Buscar estudos clínicos ou observacionais de candesartana em doença renal hipertensiva maligna.
 - Avaliar o ganho real em relação ao uso anti-hipertensivo já existente, incluindo a segurança renal em pacientes com comprometimento da função renal.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-11 | Removido: “Segundo os dados compilados, há 17 registros, todos de produtos com candesartana cilexetila isolada ou associada à hidroclorotiazida” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

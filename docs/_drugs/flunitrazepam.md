@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Flunitrazepam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Flunitrazepam: nova indicação prevista, enxaqueca (migraine disorder) (nível de evidência L5). Indicação original: Indicação aprovada não registrada nos dados locais"
 ---
 
@@ -74,6 +74,12 @@ Atualmente não há literatura relacionada.
 
 Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação aprovada.
 
+<!-- review:begin br-lic-20261106-flunitrazepam-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados. Os dados locais não trazem o detalhamento de nomes comerciais, formas farmacêuticas ou textos de indicação aprovada.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 7 registros para este medicamento, 3 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-flunitrazepam-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram registradas 4 interações de natureza farmacológica, todas com os alvos do fármaco, as subunidades α1, α2, α3 e α5 do receptor GABA-A (genes GABRA1, GABRA2, GABRA3 e GABRA5). Não há interações com outros medicamentos especificados.
@@ -93,6 +99,19 @@ Consulte a bula para advertências e contraindicações detalhadas.
 - Dados do mecanismo de ação detalhado
 - Texto de bula da ANVISA com advertências e contraindicações
 - Avaliação de risco-benefício frente a alternativas já estabelecidas e mais bem toleradas
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O fármaco consta como comercializado no Brasil, com 6 registros no total: 3 válidos e 3 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

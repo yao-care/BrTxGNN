@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Clopidogrel: nova indicação prevista, enxaqueca com aura de tronco encefálico (migraine with brainstem aura) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -87,6 +87,12 @@ Atualmente não há ensaios clínicos relacionados registrados para esta indica�
 
 A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.
 
+<!-- review:begin br-lic-20261106-clopidogrel-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados. A lista de registros pode estar incompleta, e os dados não trazem a relação detalhada de registros, nomes comerciais e formas farmacêuticas.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 68 registros para este medicamento, 30 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-clopidogrel-1 -->
+
 ## Considerações de Segurança
 
 - **Interações medicamentosas** (100 interações encontradas; principais exemplos):
@@ -109,6 +115,19 @@ Consulte a bula para as advertências e contraindicações oficiais.
 - Dados do mecanismo de ação e da bula (advertências e contraindicações) vindos da ANVISA.
 - Avaliação do risco de sangramento e das interações (em especial com inibidores da bomba de prótons) em pacientes com enxaqueca.
 - Leitura completa do ensaio COMPETE (PMID 42526943), que é voltado à enxaqueca em geral com FOP, para julgar a relevância ao subtipo.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Segundo os dados compilados, o clopidogrel consta como comercializado no Brasil, com 9 registros válidos e 11 cancelados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

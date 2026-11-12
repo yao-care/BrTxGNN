@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Avelumab: nova indicação prevista, Tumor relacionado ao herpesvírus humano 8 (human herpesvirus 8-relate… (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "avelumab"
 predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "kidney pelvis sarcomatoid transitional cell carcinoma"]
@@ -112,12 +112,38 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 Para a indicação principal (tumor relacionado ao HHV-8), a previsão está no nível L5, sem nenhum ensaio clínico ou publicação. Embora o mecanismo seja biologicamente plausível, a evidência é insuficiente para avançar.
 
+<!-- review:begin br-lic-20261106-avelumab-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Para a indicação principal (tumor relacionado ao HHV-8), a previsão está no nível L5, sem nenhum ensaio clínico ou publicação, e o registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-avelumab-1 -->
+
 **Para prosseguir, é necessário:**
 - Realizar busca sistemática de ensaios e literatura sobre avelumabe em sarcoma de Kaposi e outros tumores associados ao HHV-8
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), uma lacuna bloqueante para a triagem de segurança
 - Completar os dados de mecanismo de ação no DrugBank
 - Esclarecer a situação regulatória
 - Se houver interesse em oncologia, considerar priorizar as indicações uroteliais (posições 9 e 10), que têm evidência indireta mais robusta
+
+<!-- review:begin br-lic-20261106-avelumab-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória, já que o único registro está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-avelumab-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que o único registro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

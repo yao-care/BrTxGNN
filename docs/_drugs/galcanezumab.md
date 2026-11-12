@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 333
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Galcanezumab: nova indicação prevista, Deficiência de Cofator 2 da Heparina (Heparin Cofactor 2 Deficiency) (nível de evidência L5). Indicação original: Outras preparações antienxaqueca"
 monitor_inn: "galcanezumab"
 predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
@@ -88,11 +88,37 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 **Justificativa:**
 Não há ensaios clínicos nem literatura, e o mecanismo do galcanezumabe (bloqueio do CGRP) não tem relação plausível com a deficiência de cofator 2 da heparina.
 
+<!-- review:begin br-lic-20261106-galcanezumab-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos nem literatura, e o mecanismo do galcanezumabe (bloqueio do CGRP) não tem relação plausível com a deficiência de cofator 2 da heparina. Além disso, o único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-galcanezumab-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois essa lacuna impede a triagem de segurança
 - Complementar os dados do mecanismo de ação via DrugBank
 - Apresentar justificativa biológica ou dados pré-clínicos que sustentem a hipótese, caso se queira reavaliar
 - Esclarecer a situação regulatória atual do produto no Brasil
+
+<!-- review:begin br-lic-20261031-galcanezumab-1 -->
+
+> **Correção de verificação (2026-10-31)**: Texto original: “Esclarecer a situação regulatória atual do produto no Brasil (registro cancelado)” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-10-31). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261031-galcanezumab-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Removido: “(registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

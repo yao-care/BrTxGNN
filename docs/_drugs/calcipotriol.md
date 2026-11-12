@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 175
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Calcipotriol: nova indicação prevista, Queratose seborreica (Seborrheic Keratosis) (nível de evidência L3). Indicação original: Não registrada nos dados da ANVISA compilados para este relatório"
 monitor_inn: "CALCIPOTRIOL"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
@@ -82,6 +82,12 @@ A base de evidências é, porém, fraca: consiste em pequenas séries clínicas 
 **Justificativa:**
 - A evidência é limitada a séries pequenas e relatos de casos (L3), sem ensaios clínicos registrados. As informações de segurança da bula não estão disponíveis.
 
+<!-- review:begin br-lic-20261106-calcipotriol-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O fármaco não possui registro ativo no Brasil nos dados compilados, e as informações de segurança da bula não estão disponíveis.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 2 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-calcipotriol-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações) e confirmar a situação regulatória do calcipotriol no Brasil.
 - Complementar os dados de mecanismo de ação (por exemplo, via DrugBank).
@@ -89,6 +95,19 @@ A base de evidências é, porém, fraca: consiste em pequenas séries clínicas 
 - Avaliar a segurança de uso tópico, em especial o risco de hipercalcemia, e revisar as interações medicamentosas.
 
 *Observação: as demais indicações previstas (queratose folicular invertida vulvar, vulvovaginite, vulvite, neoplasias vulvares, úlcera vulvar, vaginite atrófica pós-menopausa, doença de Paget óssea e doença fibrocística da mama) têm evidência nula ou indireta (L4–L5) e recebem decisão **Hold**.*
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O fármaco não possui registro ativo no Brasil nos dados compilados, e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

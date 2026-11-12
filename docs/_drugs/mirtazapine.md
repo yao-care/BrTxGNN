@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 462
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Mirtazapine: nova indicação prevista, Síndrome de Ohdo e variantes (Ohdo syndrome and variants) (nível de evidência L5). Indicação original: Antidepressivos"
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
@@ -70,6 +70,12 @@ Outras previsões do modelo seguem a mesma lógica:
 
 Todos os 20 registros encontrados são de medicamentos de componente único e estão **cancelados**. Exibem-se os 5 primeiros.
 
+<!-- review:begin br-lic-20261106-mirtazapine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 20 registros encontrados são de medicamentos de componente único e estão **cancelados**; não há registro válido atualmente.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 36 registros para este medicamento, 30 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-mirtazapine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100290224 | REMERON | ORGANON FARMACÊUTICA LTDA. | Ativo |
@@ -124,12 +130,39 @@ Para advertências e contraindicações oficiais, consulte a bula.
 **Justificativa:**
 - A previsão baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura, e sem plausibilidade mecanística.
 
+<!-- review:begin br-lic-20261106-mirtazapine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão baseia-se apenas na pontuação do modelo (nível L5), sem ensaios clínicos nem literatura, e sem plausibilidade mecanística. Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 36 registros para este medicamento, 30 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-mirtazapine-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação da mirtazapina (DrugBank) e análise de sua ligação com a biologia da síndrome de Ohdo
 - Advertências e contraindicações da bula na ANVISA, para a triagem de segurança
 - Revisão sistemática da literatura e de registros de ensaios, incluindo evidências pré-clínicas
 - Justificativa clínica para um possível uso sintomático (sono ou humor), com avaliação de segurança em crianças
 - Verificação da situação regulatória
+
+<!-- review:begin br-lic-20261106-mirtazapine-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificação da situação regulatória, dado que não há registro válido no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 36 registros para este medicamento, 30 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-mirtazapine-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “não há registro válido atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, o medicamento é comercializado no Brasil, com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

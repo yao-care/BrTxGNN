@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Finasteride: nova indicação prevista, Hipertricose universal congênita tipo Ambras (Ambras type hypertricho… (nível de evidência L5). Indicação original: Inibidor da alfa-redutase"
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
@@ -136,12 +136,38 @@ Consulte a bula para as advertências e contraindicações oficiais, que não es
 - A previsão tem pontuação alta, mas é apenas um resultado de rede (nível L5), sem ensaios ou publicações e sem mecanismo plausível, já que a síndrome de Ambras não depende de DHT.
 - O risco fetal agrava a preocupação.
 
+<!-- review:begin br-lic-20261106-finasteride-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Os 20 registros brasileiros estão cancelados, e o risco fetal agrava a preocupação.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 86 registros para este medicamento, 27 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-finasteride-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter os dados de mecanismo de ação (MOA) no DrugBank.
 - Baixar e analisar as bulas na ANVISA (advertências e contraindicações) para a triagem de segurança.
 - Buscar evidências pré-clínicas ou relatos de caso que sustentem um papel da via androgênica na síndrome de Ambras.
 - Avaliar separadamente indicações vizinhas mais plausíveis, dependentes de andrógenos, como o hirsutismo.
 - Confirmar a situação regulatória atual no Brasil.
+
+<!-- review:begin br-lic-20261106-finasteride-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Confirmar a situação regulatória atual no Brasil, já que o medicamento está comercializado com 20 registros válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 86 registros para este medicamento, 27 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-finasteride-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “s 20 registros brasileiros estão cancelados, e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que o medicamento está comercializado com 20 registros válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

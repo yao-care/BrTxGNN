@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 351
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Hemin: nova indicação prevista, Púrpura Trombocitopênica (Thrombocytopenic Purpura) (nível de evidência L5). Indicação original: Outros derivados do sangue e substitutos"
 monitor_inn: "hemin"
 predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor deficiency", "acquired coagulation factor deficiency", "serpinopathy with toxic serpin polymerization", "hereditary angioedema with C1Inh deficiency", "inherited thrombophilia", "symptomatic form of hemophilia in female carriers", "hereditary von Willebrand disease", "congenital factor XI deficiency"]
@@ -107,12 +107,31 @@ Observação: para a segunda previsão (hemofilia), foram recuperadas três publ
 - A previsão baseia-se apenas em pontuação computacional (nível L5), sem ensaios clínicos nem literatura, e sem mecanismo plausível demonstrado.
 - Faltam dados de segurança da bula.
 
+<!-- review:begin br-lic-20261106-hemin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O único registro no Brasil está cancelado, e faltam dados de segurança da bula.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-hemin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações).
 - Complementar os dados do mecanismo de ação (por exemplo, consultando o DrugBank).
 - Realizar busca dirigida de literatura sobre a hemina em púrpura trombocitopênica e em outros distúrbios hematológicos.
 - Avaliar o risco anticoagulante e trombótico antes de qualquer estudo.
 - Fazer estudos pré-clínicos ou de mecanismo, caso a hipótese seja mantida.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O único registro no Brasil está cancelado, e f” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

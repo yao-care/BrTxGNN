@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Enflurane: nova indicação prevista, Transtorno Afetivo Bipolar Maníaco (Manic Bipolar Affective Disorder) (nível de evidência L5). Indicação original: Anestésicos gerais voláteis e gasosos"
 monitor_inn: "enflurane"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "dysthymic disorder", "Prinzmetal angina", "myofascial pain syndrome", "migraine disorder", "bipolar disorder"]
@@ -62,6 +62,12 @@ A ligação com o transtorno bipolar é especulativa: a modulação gabaérgica 
 
 Há ainda fatores que limitam a viabilidade: o enflurano tem perfil pró-convulsivante no EEG.
 
+<!-- review:begin br-lic-20261106-enflurane-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há ainda fatores que limitam a viabilidade: o enflurano tem perfil pró-convulsivante no EEG e seu registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-enflurane-1 -->
+
 ### Outras indicações previstas (todas nível L5, decisão Hold)
 
 | Posição | Doença prevista | Pontuação TxGNN | Observação |
@@ -113,6 +119,19 @@ A previsão é puramente computacional (L5), sem ensaios clínicos nem publicaç
 - Realizar estudos pré-clínicos ou revisão da literatura que sustentem a ligação com o transtorno bipolar
 - Avaliar a compatibilidade de via de administração e a justificativa para um anestésico inalatório em condição crônica
 - Considerar alternativas já comercializadas com mecanismo semelhante, dado o cancelamento do registro
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e seu registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

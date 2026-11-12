@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Potassium Acetate: nova indicação prevista, Acidose Tubular Renal (Renal Tubular Acidosis) (nível de evidência L5). Indicação original: Nutrientes parenterais"
 monitor_inn: "POTASSIUM ACETATE"
 predicted_indications: ["renal tubular acidosis"]
@@ -95,6 +95,25 @@ Os quatro registros constam como válidos; o medicamento está comercializado no
 - Avaliar a compatibilidade de via de administração (oral vs. parenteral), já que as vias necessárias para a ATR ainda não foram definidas.
 - Avaliar o risco de hipercalemia e definir um plano de monitoramento (potássio sérico, função renal e equilíbrio ácido-base), sobretudo com inibidores da ECA, bloqueadores dos receptores da angiotensina e diuréticos poupadores de potássio.
 - Verificar a viabilidade regulatória.
+
+<!-- review:begin br-lic-20261106-potassium_acetate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a viabilidade regulatória, dado que não há registro válido no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 4 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-potassium_acetate-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “dado que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

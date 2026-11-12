@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 643
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Tobramycin: nova indicação prevista, Ceratite por Exposição (Exposure Keratitis) (nível de evidência L4). Indicação original: Antiinfecciosos tópicos para uso oftálmico"
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
@@ -84,6 +84,12 @@ Nenhum desses trabalhos testa a tobramicina na ceratite por exposição.
 
 O medicamento é comercializado. Os cinco principais:
 
+<!-- review:begin br-lic-20261111-tobramycin-2 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Há 20 registros vigentes no Brasil e o medicamento é comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 60 registros para este medicamento, 18 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-tobramycin-2 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100580112 | BRAMITOB | CHIESI FARMACÊUTICA LTDA | Ativo |
@@ -134,13 +140,40 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 **Justificativa:**
 - A previsão tem pontuação alta no modelo (0,9993), mas não há ensaios clínicos nem estudos que testem a tobramicina na ceratite por exposição (nível L4). Além disso, existe sinal de toxicidade para o epitélio corneano.
 
+<!-- review:begin br-lic-20261111-tobramycin-3 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Além disso, existe sinal de toxicidade para o epitélio corneano. No Brasil, o medicamento é comercializado, com 20 registros vigentes.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 60 registros para este medicamento, 18 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-tobramycin-3 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula/informações de segurança da ANVISA (advertências e contraindicações), uma lacuna que impede a triagem de segurança.
 - Obter dados do mecanismo de ação (MOA) para fortalecer a análise mecanística.
 - Gerar evidência clínica ou pré-clínica direta da tobramicina na ceratite por exposição, avaliando o risco de toxicidade epitelial em superfície ocular comprometida.
 - Verificar a situação regulatória atual de produtos oftálmicos com tobramicina no Brasil.
 
+<!-- review:begin br-lic-20261106-tobramycin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a situação regulatória atual de produtos oftálmicos com tobramicina no Brasil, já que não há registro vigente.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 60 registros para este medicamento, 18 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tobramycin-1 -->
+
 **Observação sobre outras previsões:** a otite externa (pontuação 0,9981, nível L4) é a candidata mais plausível entre as demais, com relatos históricos do uso de tobramicina, mas se aproxima de um uso já existente e exige atenção à ototoxicidade; ela merece avaliação própria. As demais previsões (por exemplo, doença animal não humana, vasculite pós-infecciosa, cardiomiopatia chagásica, síndrome hemolítico-urêmica relacionada a infecção) não têm suporte clínico ou mecanístico, e a última apresenta ainda um sinal de segurança contrário.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-11 | Removido: “Há 20 registros vigentes no Brasil e o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-11 | Removido: “No Brasil, o medicamento é comercializado, com 20 registros vigentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 526
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 description: "Piperacillin: nova indicação prevista, Artrite Reumatoide (rheumatoid arthritis) (nível de evidência L5). Indicação original: Penicilinas penicilinase-resistentes"
 monitor_inn: "piperacillin"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
@@ -96,6 +96,12 @@ Nenhum dos artigos abaixo é RCT; todos são relatos de caso, coortes ou revisõ
 
 O medicamento está comercializado. Os 5 principais:
 
+<!-- review:begin br-lic-20261106-piperacillin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todos os 12 registros estão **válidos** (12 de 12); o medicamento está comercializado.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 12 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-piperacillin-1 -->
+
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|
 | Registro 100470621 | Piperacilina sódica + tazobactam sódico | Não informada | Penicilinas penicilinase-resistentes |
@@ -126,10 +132,37 @@ Para advertências e contraindicações, consulte a bula.
 - A previsão para artrite reumatoide é apenas um resultado do modelo TxGNN (aprendizado profundo) (nível L5), que pode refletir semelhanças aprendidas pelo modelo entre doenças relacionadas, não evidência biológica, sem ensaios clínicos, sem plausibilidade mecanística e com literatura que reflete apenas o tratamento de infecções em pacientes com AR.
 - As demais indicações previstas (síndromes genéticas raras, colangite esclerosante, osteoartrite, nefropatia diabética, síndrome WHIM) também não têm evidência de suporte e igualmente recebem recomendação Hold.
 
+<!-- review:begin br-lic-20261106-piperacillin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há registro válido no Brasil. As demais indicações previstas (síndromes genéticas raras, colangite esclerosante, osteoartrite, nefropatia diabética, síndrome WHIM) também não têm evidência de suporte e igualmente recebem recomendação Hold.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 12 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-piperacillin-2 -->
+
 **Para prosseguir, é necessário:**
 - Dados de mecanismo de ação que sustentem uma hipótese biologicamente plausível (por exemplo, efeito imunomodulador ou sobre o microbioma).
 - Dados de pré-clínicos ou estudos de mecanismo, caso a hipótese seja considerada.
 - Obtenção e análise da bula (advertências e contraindicações) para a triagem de segurança.
+
+<!-- review:begin br-lic-20261106-piperacillin-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Obtenção e análise da bula (advertências e contraindicações) para a triagem de segurança. / Reavaliação da situação regulatória, considerando que os 12 registros estão válidos.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 12 registros para este medicamento, 11 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-piperacillin-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Todos os 12 registros estão **válidos** (12 de 12); o” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Reavaliação da situação regulatória, considerando que os 12 registros estão válidos” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

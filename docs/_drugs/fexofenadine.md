@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Fexofenadine: nova indicação prevista, Conjuntivite da rosácea (rosacea conjunctivitis) (nível de evidência L5). Indicação original: Anti-histamínicos sistêmicos"
 monitor_inn: "Fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -73,6 +73,12 @@ Todas as demais previsões também estão no nível L5, sem ensaios ou literatur
 
 Principais registros:
 
+<!-- review:begin br-lic-20261106-fexofenadine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Foram encontrados 20 registros **válidos** atualmente. Principais registros:” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 62 registros para este medicamento, 35 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fexofenadine-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431273 | ALTIVA | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -125,12 +131,39 @@ Advertências e contraindicações da bula brasileira não estavam disponíveis;
 **Justificativa:**
 - Todas as previsões estão no nível L5, sem ensaios clínicos nem literatura.
 
+<!-- review:begin br-lic-20261106-fexofenadine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Todas as previsões estão no nível L5, sem ensaios clínicos nem literatura. Além disso, não há registro válido da fexofenadina no Brasil (todos os 20 estão cancelados), e a via oral sistêmica é pouco adequada para doenças da superfície ocular.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 62 registros para este medicamento, 35 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fexofenadine-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula da ANVISA (advertências e contraindicações), lacuna que bloqueia a triagem de segurança.
 - Obter dados detalhados do mecanismo de ação (MOA) via DrugBank.
 - Realizar revisão da literatura sobre anti-histamínicos na rosácea ocular e em doenças alérgicas palpebrais.
 - Avaliar a compatibilidade de via de administração (formulação oftálmica/tópica versus oral) e a situação regulatória.
 - Considerar priorizar indicações com maior plausibilidade biológica (dermatoses alérgicas da pálpebra, componente alérgico da blefaroconjuntivite) para uma eventual reavaliação.
+
+<!-- review:begin br-lic-20261106-fexofenadine-3 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a compatibilidade de via de administração (formulação oftálmica/tópica versus oral) e a situação regulatória, dado que não há registro válido.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 62 registros para este medicamento, 35 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fexofenadine-3 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Foram encontrados 20 registros **válidos** atualmente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “Além disso, não há registro válido da fexofenadina no Brasil (todos os 20 estão cancelados), e a via oral sistêmica é pouco adequada para do” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro válido” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

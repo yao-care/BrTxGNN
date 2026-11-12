@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 31
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -40,6 +40,12 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta versão do Evidence Pack,
 e há lacunas de dados críticas — incluindo ausência de MOA e dados de segurança — que impedem a avaliação completa de reposicionamento.
+
+<!-- review:begin br-lic-20261106-aflibercepte-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Aflibercepte (AFLIBERCEPTE) é um fármaco atualmente comercializado no Brasil com 4 registros ativos na ANVISA. / O modelo TxGNN **não gerou previsões de novas indicações** para este fármaco nesta versão do Evidence Pack,” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 6 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-aflibercepte-1 -->
 
 ---
 
@@ -78,6 +84,19 @@ O Evidence Pack atual carece dos três pilares mínimos para avaliação de repo
 - **[Alta Prioridade — DG002]** Consultar DrugBank API para recuperar MOA — a query já retornou 1 resultado com sucesso, verificar integração dos dados no pipeline
 - **[Essencial]** Executar o modelo TxGNN para gerar previsões de novas indicações para aflibercepte
 - **[Complementar]** Recuperar os detalhes completos das 4 licenças brasileiras: número de registro, nome comercial, forma farmacêutica e texto da indicação aprovada
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Aflibercepte (AFLIBERCEPTE) é um fármaco atualmente comercializado no Brasil com 4 registros ativos na ANVISA” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

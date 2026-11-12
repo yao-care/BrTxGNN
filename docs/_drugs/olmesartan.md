@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 485
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Olmesartan: nova indicação prevista, Angina de Prinzmetal (Prinzmetal angina) (nível de evidência L5). Indicação original: Não disponível nos dados compilados"
 monitor_inn: "Olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
@@ -98,6 +98,12 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 - A previsão para angina de Prinzmetal baseia-se apenas no modelo (L5), sem ensaios clínicos nem publicações, e o tratamento padrão já é bem estabelecido.
 
+<!-- review:begin br-lic-20261106-olmesartan-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão para angina de Prinzmetal baseia-se apenas no modelo (L5), sem ensaios clínicos nem publicações, e o tratamento padrão já é bem estabelecido. Além disso, o fármaco não possui registro no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-olmesartan-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação e da indicação original do fármaco
 - Informações de bula (advertências e contraindicações) para a triagem de segurança
@@ -109,6 +115,19 @@ Para advertências e contraindicações, consulte a bula.
 ### Nota sobre outras previsões
 
 Entre as demais indicações previstas, a **enxaqueca (migraine disorder)** é a que tem apoio mais consistente (nível L3: dois estudos de 2006 e uma revisão sistemática de 2019, com ARBs; a candesartana é o ARB mais bem sustentado). A **hipertensão pulmonar** tem apenas dados pré-clínicos em animais (L4). Ambas poderiam ser priorizadas como questões de pesquisa em uma avaliação futura, caso seja desejado reorientar a análise.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o fármaco não possui registro no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

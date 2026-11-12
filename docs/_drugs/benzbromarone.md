@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 119
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Benzbromarone: nova indicação prevista, Hipouricemia Renal (Hypouricemia, renal) (nível de evidência L5). Indicação original: Antigotoso"
 monitor_inn: "benzbromarone"
 predicted_indications: ["hypouricemia, renal"]
@@ -103,11 +103,30 @@ Para as demais informações de segurança (advertências, contraindicações), 
 **Justificativa:**
 - Não há ensaios clínicos nem estudos de eficácia, e o nível de evidência é L5. O mecanismo (inibição do URAT1) vai contra o objetivo terapêutico, pois reproduziria o defeito da doença.
 
+<!-- review:begin br-lic-20261106-benzbromarone-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O mecanismo (inibição do URAT1) vai contra o objetivo terapêutico, pois reproduziria o defeito da doença, e o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-benzbromarone-1 -->
+
 **Para prosseguir, é necessário:**
 - Confirmar se a previsão é um artefato de associação gene/via, e não de benefício terapêutico, antes de qualquer investimento adicional.
 - Obter os dados de mecanismo de ação via DrugBank.
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança está bloqueada sem esses dados.
 - Reavaliar a relevância da literatura, hoje classificada como "pendente", distinguindo uso diagnóstico de uso terapêutico.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

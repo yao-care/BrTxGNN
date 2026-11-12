@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Mebendazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Mebendazole: nova indicação prevista, Acne (acne (disease)) (nível de evidência L5). Indicação original: ANTI-HELMINTICOS DO TRATO GASTRINTESTINAL"
 ---
 
@@ -75,6 +75,12 @@ Atualmente não há ensaios clínicos relacionados registrados.
 
 Segundo os dados compilados, o status de comercialização é "Comercializado".
 
+<!-- review:begin br-lic-20261111-mebendazole-1 -->
+
+> **Correção de verificação (2026-11-11)**: Texto original: “Há 11 registros, todos de produtos de ingrediente único. Segundo os dados compilados, o status de comercialização é "Comercializado".” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-11). Nos dados (dados abertos de medicamentos da ANVISA) constam 121 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261111-mebendazole-1 -->
+
 | Registro | Produto | Empresa detentora | Situação |
 |------|------|------|------|
 | 100431253 | HELMIBEN MEB | EUROFARMA LABORATORIOS S.A. | Ativo |
@@ -129,6 +135,19 @@ A tabela mostra até 30 registros (os ativos primeiro). A lista completa está n
 - Estudos pré-clínicos ou clínicos que avaliem diretamente o mebendazol na acne.
 - Advertências e contraindicações da bula na ANVISA, para a triagem de segurança.
 - Avaliação de viabilidade de via de administração (por exemplo, uso tópico versus oral) e de segurança hepática.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-11 | Removido: “Há 11 registros, todos de produtos de ingrediente único” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 610
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "TENECTEPLASE"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
 description: "Tenecteplase: nova indicação prevista, Congenital coronary artery anomaly (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -94,12 +94,38 @@ Nenhuma delas fornece evidência direta de eficácia para o infarto posteroinfer
 **Justificativa:**
 - A previsão principal é um subtipo anatômico de uma indicação já existente (infarto do miocárdio), sem ensaios clínicos nem publicações específicas; o nível de evidência é L5 e a pontuação alta do modelo não é respaldada por dados reais.
 
+<!-- review:begin br-lic-20261106-tenecteplase-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão principal é um subtipo anatômico de uma indicação já existente (infarto do miocárdio), sem ensaios clínicos nem publicações específicas; o nível de evidência é L5 e a pontuação alta do modelo não é respaldada por dados reais. O fármaco não possui registro comercializado no Brasil.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tenecteplase-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (MOA) detalhados a partir do DrugBank
 - Bula da ANVISA com advertências e contraindicações, hoje indisponível e que bloqueia a triagem de segurança
 - Esclarecer a situação regulatória no Brasil
 - Evidências clínicas específicas para o infarto posteroinferior, ou confirmação de que a indicação já está coberta pela indicação geral de infarto do miocárdio
 - Entre as demais previsões, apenas a estenose coronariana (nível L3, estudo de viabilidade de tenecteplase intracoronária) justifica uma questão de pesquisa; as previsões de doenças hematológicas e cromossômicas devem ser descartadas, pois os scores vêm do modelo TxGNN (deep learning) e podem refletir semelhanças aprendidas entre doenças relacionadas, não evidência biológica
+
+<!-- review:begin br-lic-20261106-tenecteplase-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Esclarecer a situação regulatória no Brasil (não há registros vigentes)” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tenecteplase-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O fármaco não possui registro comercializado no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(não há registros vigentes)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

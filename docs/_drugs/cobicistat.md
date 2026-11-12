@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 239
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Cobicistat: nova indicação prevista, Síndrome da imunodeficiência adquirida felina (feline acquired immuno… (nível de evidência L5). Indicação original: Associações de antivirais para o tratamento de…"
 monitor_inn: "cobicistat"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -96,12 +96,38 @@ Consulte a bula para informações adicionais de segurança (advertências e con
 **Justificativa:**
 - Não há ensaios clínicos nem literatura que sustentem nenhuma das indicações previstas (nível L5). O cobicistat não tem atividade antiviral própria, as indicações previstas são veterinárias ou de pesquisa, ou sem vínculo biológico evidente.
 
+<!-- review:begin br-lic-20261106-cobicistat-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O cobicistat não tem atividade antiviral própria, as indicações previstas são veterinárias ou de pesquisa, ou sem vínculo biológico evidente, e o único registro brasileiro está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cobicistat-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), pois a triagem de segurança não pode avançar sem esses dados
 - Complementar os dados de mecanismo de ação (consulta ao DrugBank)
 - Buscar dados veterinários ou pré-clínicos (FIV/SIV) e definir o antiviral parceiro ativo
 - Avaliar se há interesse regulatório e de mercado
 - Descartar ou reavaliar a previsão para o transtorno do neurodesenvolvimento, por ausência de racional mecanístico
+
+<!-- review:begin br-lic-20261106-cobicistat-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar se há interesse regulatório e de mercado, dado que o registro no Brasil está cancelado” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-cobicistat-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “e o único registro brasileiro está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que o registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

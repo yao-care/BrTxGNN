@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 626
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Tetracycline: nova indicação prevista, Ceratoconjuntivite epitelial punctata (Punctate Epithelial Keratoconj… (nível de evidência L5). Indicação original: Classe das tetraciclinas"
 monitor_inn: "Tetracycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
@@ -126,6 +126,12 @@ Advertências e contraindicações da bula não estavam disponíveis; consulte a
 **Justificativa:**
 A previsão tem pontuação alta no TxGNN (0,9958), mas o único suporte é um relato de casos indireto, sem ensaios clínicos.
 
+<!-- review:begin br-lic-20261106-tetracycline-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão tem pontuação alta no TxGNN (0,9958), mas o único suporte é um relato de casos indireto, sem ensaios clínicos. Além disso, não há registro válido da tetraciclina no Brasil (todos cancelados), e os dados de segurança da bula estão ausentes.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 71 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tetracycline-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula (advertências e contraindicações) na ANVISA
 - Obter dados do mecanismo de ação (MOA) no DrugBank
@@ -133,7 +139,27 @@ A previsão tem pontuação alta no TxGNN (0,9958), mas o único suporte é um r
 - Avaliar a viabilidade regulatória e de via de administração
 - Comparar com alternativas já estabelecidas (por exemplo, lubrificantes, corticoides tópicos e outros anti-infecciosos oftálmicos)
 
+<!-- review:begin br-lic-20261106-tetracycline-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a viabilidade regulatória e de via de administração, dado que não há registro vigente no país” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 71 registros para este medicamento, 10 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-tetracycline-2 -->
+
 **Outras previsões do modelo (resumo):** as demais indicações previstas apresentam evidências ainda mais fracas ou indiretas. Rinossinusite crônica (L4, apoio de revisões sobre a classe, sobretudo doxiciclina) e as condições pós-infecciosas (L3, ensaio de fase 2 NCT05219929 sobre tolerabilidade no pós-tratamento da doença de Lyme, sem dados de eficácia) são as mais relevantes como perguntas de pesquisa.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, não há registro válido da tetraciclina no Brasil (todos cancelados), e os dados de segurança da bula estão ausentes” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “dado que não há registro vigente no país” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

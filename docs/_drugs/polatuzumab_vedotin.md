@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 532
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Polatuzumab Vedotin: nova indicação prevista, Carcinoma de mama HER2-positivo (HER2 positive breast carcinoma) (nível de evidência L5). Indicação original: Antineoplásico"
 monitor_inn: "polatuzumab vedotin"
 predicted_indications: ["HER2 positive breast carcinoma"]
@@ -98,12 +98,31 @@ Para advertências e contraindicações, consulte a bula.
 **Justificativa:**
 A previsão é sustentada apenas pelo modelo (L5), sem ensaios clínicos nem literatura, e não há vínculo mecanístico plausível entre o alvo CD79b e o câncer de mama HER2-positivo.
 
+<!-- review:begin br-lic-20261106-polatuzumab_vedotin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A previsão é sustentada apenas pelo modelo (L5), sem ensaios clínicos nem literatura, e não há vínculo mecanístico plausível entre o alvo CD79b e o câncer de mama HER2-positivo. Além disso, o único registro no Brasil está cancelado e há alternativas já estabelecidas dirigidas ao HER2.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 2 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-polatuzumab_vedotin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA, para advertências e contraindicações (lacuna que bloqueia a triagem de segurança)
 - Obter dados do mecanismo de ação no DrugBank
 - Avaliar a expressão de CD79b em tumores de mama (validação pré-clínica)
 - Comparar com os ADCs HER2-dirigidos já aprovados, para justificar o valor adicional
 - Esclarecer a situação regulatória no Brasil, dado o registro cancelado
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado e há alternativas já estabelecidas dirigidas ao HER2” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

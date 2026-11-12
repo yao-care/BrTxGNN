@@ -5,7 +5,7 @@ parent: Evidência Moderada (L3-L4)
 nav_order: 675
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "VOXILAPREVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "chronic hepatitis B virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Voxilaprevir: nova indicação prevista, Infecção pelo vírus da hepatite B (hepatitis B virus infection) (nível de evidência L4). Indicação original: Não consta nos dados locais"
@@ -119,7 +119,26 @@ Para advertências e contraindicações, consulte a bula.
 - Revisão do perfil de interações medicamentosas, especialmente as de gravidade maior.
 - Definição da situação regulatória no Brasil.
 
+<!-- review:begin br-lic-20261106-voxilaprevir-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Definição da situação regulatória no Brasil, já que não há registro vigente.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-voxilaprevir-1 -->
+
 **Observação sobre as outras indicações previstas:** hepatite E, hepatite A, febre hemorrágica de Omsk, doença da floresta de Kyasanur, HIV, hepatite B crônica e outras também receberam recomendação *Hold*, com nível de evidência L4 ou L5. Os ensaios associados à hepatite A e ao HIV são estudos de HCV vinculados apenas pelo nome do fármaco e não avaliam essas doenças.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

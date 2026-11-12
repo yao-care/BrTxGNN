@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 330
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Fusidic Acid: nova indicação prevista, Ceratite de exposição (exposure keratitis) (nível de evidência L5). Indicação original: Antiinfecciosos tópicos"
 monitor_inn: "fusidic acid"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
@@ -103,6 +103,25 @@ Para advertências e contraindicações oficiais, consulte a bula.
 - Buscar evidências específicas do uso de ácido fusídico oftálmico em ceratite de exposição ou em suas infecções secundárias.
 - Avaliar a compatibilidade de via de administração e formulação oftálmica, além da situação regulatória.
 - Considerar a análise de outras indicações previstas, como a otite externa (rank 3), cuja plausibilidade biológica é maior (infecção por *S. aureus*), embora a literatura disponível seja indireta (bacteriologia e vigilância de resistência, em grande parte veterinária) e exija revisão dos dados de resistência.
+
+<!-- review:begin br-lic-20261106-fusidic_acid-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliar a compatibilidade de via de administração e formulação oftálmica, além da situação regulatória, já que não há registro vigente.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 5 registros para este medicamento, 5 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-fusidic_acid-1 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “já que não há registro vigente” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

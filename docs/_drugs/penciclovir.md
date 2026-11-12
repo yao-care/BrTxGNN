@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 516
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Penciclovir"
 predicted_indications: ["fascioliasis"]
 description: "Penciclovir: nova indicação prevista, fascioliase (fascioliasis) (nível de evidência L5). Indicação original: Não consta nos dados locais"
@@ -65,6 +65,12 @@ A pontuação alta (0,9906) é apenas uma previsão computacional. Não há ensa
 
 Segundo os dados compilados para este relatório, o penciclovir consta como **comercializado** no Brasil, com 4 registros no total: 1 válido e 3 cancelados.
 
+<!-- review:begin br-lic-20261106-penciclovir-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Segundo os dados compilados para este relatório, o penciclovir consta como **comercializado** no Brasil, com 4 registros no total: 1 válido e 3 cancelados. Os detalhes individuais dos registros (número, nome comercial e forma farmacêutica) não estão disponíveis nos dados compilados.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 4 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-penciclovir-1 -->
+
 ## Considerações de Segurança
 
 Consulte a bula para informações de segurança. Não foram encontradas interações medicamentosas nos dados compilados.
@@ -81,6 +87,18 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 - Dados de mecanismo de ação que justifiquem a aplicabilidade em parasitoses
 - Bula do ANVISA com advertências e contraindicações, para a triagem de segurança
 - Avaliação da compatibilidade de vias de administração com o uso proposto
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Os detalhes individuais dos registros (número, nome comercial e forma farmacêutica) não estão disponíveis nos dados compilados” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
 
 ## Aviso de isenção de responsabilidade
 

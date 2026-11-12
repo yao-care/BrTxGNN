@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Diazoxide: nova indicação prevista, Hipotricose simples do couro cabeludo (hypotrichosis simplex of the s… (nível de evidência L5). Indicação original: Vasodilatadores"
 monitor_inn: "diazoxide"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
@@ -40,6 +40,12 @@ Nível de evidência: **L5** | Indicações previstas: **9**
 
 Diazóxido foi originalmente registrado no Brasil como vasodilatador.
 O modelo TxGNN prevê que pode ser eficaz para **Hipotricose simples do couro cabeludo (hypotrichosis simplex of the scalp)**, a previsão de maior pontuação, mas sem nenhum ensaio clínico ou publicação direta que a sustente. A indicação com algum respaldo indireto é a **Alopecia (alopecia)**, com **6 publicações** (sobretudo revisões, relatos de caso e um estudo em primatas) e **nenhum ensaio clínico**.
+
+<!-- review:begin br-lic-20261106-diazoxide-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Diazóxido foi originalmente registrado no Brasil como vasodilatador (produto TENSURIL, atualmente com registro cancelado).” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-diazoxide-1 -->
 
 ## Visão Geral Rápida
 
@@ -97,12 +103,32 @@ As publicações abaixo referem-se à indicação **Alopecia** (rank 4), a únic
 **Justificativa:**
 - Todas as previsões estão em nível L5, exceto alopecia (L4, apenas com dados pré-clínicos em primatas e relatos indiretos). Não há ensaios clínicos em humanos e a segurança sistêmica é desfavorável. Alopecia é, no máximo, uma questão de pesquisa a investigar por via tópica.
 
+<!-- review:begin br-lic-20261106-diazoxide-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Não há ensaios clínicos em humanos, o produto não está mais comercializado no Brasil e a segurança sistêmica é desfavorável.” Removido: a descrição dos produtos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-diazoxide-2 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), lacuna que impede a triagem de segurança.
 - Confirmar o mecanismo de ação em fonte dedicada (por exemplo, DrugBank).
 - Avaliar a viabilidade de formulação tópica e estudos de absorção sistêmica, já que não há rota compatível definida.
 - Realizar estudos pré-clínicos e ensaios de fase inicial em alopecia androgenética, comparando com o minoxidil.
 - Descartar previsões com direção provavelmente invertida (hipertricose, hipertricose de Ambras) e verificar em fontes especializadas a previsão de hiperinsulinismo por deficiência de Kir6.2, já que a resposta ao diazóxido depende de canais funcionais.
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “(produto TENSURIL, atualmente com registro cancelado)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “o produto não está mais comercializado no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

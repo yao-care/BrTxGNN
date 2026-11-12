@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Zinc acetate"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "urinary tract infection (disease)"]
 description: "Zinc Acetate: nova indicação prevista, Retinopatia diabética não proliferativa grave (severe nonproliferative diabetic retinopathy) (nível de evidência L5). Indicação original: SOLUÇÕES QUE AJUSTAM O…"
@@ -116,12 +116,31 @@ As advertências principais e as contraindicações de bula não estavam dispon�
 **Justificativa:**
 - A previsão é puramente computacional (L5), sem ensaios clínicos nem literatura para a indicação principal. Faltam dados de segurança de bula.
 
+<!-- review:begin br-lic-20261106-zinc_acetate-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “O único registro brasileiro está cancelado, e faltam dados de segurança de bula.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-zinc_acetate-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula na ANVISA (advertências e contraindicações), etapa que impede a triagem de segurança
 - Obter dados do mecanismo de ação no DrugBank
 - Fazer revisão sistemática da literatura sobre zinco e retinopatia diabética
 - Definir via de administração e formulação compatíveis com uso oftalmológico/sistêmico, já que o único registro é de solução eletrolítica
 - Avaliar a contraindicação sugerida em porfiria e as interações com bisfosfonatos e tetraciclina
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “O único registro brasileiro está cancelado, e f” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

@@ -5,7 +5,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 268
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Diethylcarbamazine: nova indicação prevista, Linfedema sindrômico (syndromic lymphedema) (nível de evidência L5). Indicação original: Antiparasitários"
 monitor_inn: "diethylcarbamazine"
 predicted_indications: ["syndromic lymphedema", "primary lymphedema"]
@@ -93,11 +93,37 @@ Consulte a bula para informações de segurança. Não foram encontradas intera�
 **Justificativa:**
 - Não há ensaios clínicos nem estudos diretos na nova indicação. A literatura trata apenas de filariose, e o linfedema sindrômico é genético e não infeccioso, o que torna o mecanismo implausível.
 
+<!-- review:begin br-lic-20261106-diethylcarbamazine-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A literatura trata apenas de filariose, e o linfedema sindrômico é genético e não infeccioso, o que torna o mecanismo implausível. Além disso, o único registro no Brasil está cancelado.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-diethylcarbamazine-1 -->
+
 **Para prosseguir, é necessário:**
 - Dados do mecanismo de ação (consulta ao DrugBank)
 - Bula da ANVISA com advertências e contraindicações, para a triagem de segurança
 - Estudos pré-clínicos ou de mecanismo que justifiquem o uso em linfedema não infeccioso
 - Avaliação da situação regulatória
+
+<!-- review:begin br-lic-20261106-diethylcarbamazine-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Avaliação da situação regulatória, já que não há registro válido no Brasil” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 1 registros para este medicamento, 1 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-diethylcarbamazine-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Além disso, o único registro no Brasil está cancelado” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “já que não há registro válido no Brasil” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

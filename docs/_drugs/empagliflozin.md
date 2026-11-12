@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Empagliflozin: nova indicação prevista, Síndrome do membro rígido focal (focal stiff limb syndrome) (nível de evidência L5). Indicação original: Não consta nos dados locais"
 ---
 
@@ -98,6 +98,12 @@ A pontuação alta (0,9903) vem do modelo TxGNN (deep learning) e pode refletir 
 
 São listados os 5 principais. Os registros constam como produto isolado nos dados compilados.
 
+<!-- review:begin br-lic-20261106-empagliflozin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Há 8 registros válidos no total; são listados os 5 principais.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 27 registros para este medicamento, 27 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-empagliflozin-1 -->
+
 ## Considerações de Segurança
 
 - **Interações Medicamentosas**: foram identificadas 100 interações no total; a maioria dos exemplos é de gravidade moderada. Entre as principais: fenilefrina, acebutolol, acetazolamida, formoterol, pseudoefedrina, nifedipino, epinefrina, etinilestradiol, hidrocortisona, salbutamol, etanol, furosemida e fosinopril. Há também interações menores com corticoides tópicos (hidrocortisona tópica e alclometasona tópica).
@@ -116,6 +122,19 @@ Para advertências e contraindicações, consulte a bula.
 - Baixar e analisar a bula na ANVISA (advertências e contraindicações), etapa que bloqueia a triagem de segurança
 - Realizar revisão da literatura e estudos pré-clínicos que abordem diretamente a síndrome do membro rígido focal
 - Avaliar a plausibilidade clínica frente a alternativas terapêuticas imunomoduladoras já utilizadas nessas síndromes
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Há 8 registros válidos no total; s” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

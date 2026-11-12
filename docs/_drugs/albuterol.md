@@ -7,7 +7,7 @@ parent: Apenas Predição do Modelo (L5)
 nav_order: 35
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -60,6 +60,12 @@ O Evidence Pack recebido apresenta `drugbank_id: null`, o que provavelmente impe
 
 No Brasil, este fármaco é registrado sob o nome INN adotado pela OMS — **salbutamol** — utilizado amplamente em produtos como Aerolin®, Salbutamol Sandoz® e similares. A divergência de nomenclatura explica o resultado negativo da consulta regulatória.
 
+<!-- review:begin br-lic-20261106-albuterol-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Adicionalmente, a busca realizada na base da ANVISA com o termo "ALBUTEROL" retornou 0 registros. No Brasil, este fármaco é registrado sob o nome INN adotado pela OMS — **salbutamol** — utilizado amplamente em produtos como Aerolin®, Salbutamol Sandoz® e similares.” Removido: o número ou a situação dos registros informado não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 15 registros para este medicamento, 14 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-albuterol-1 -->
+
 ## Conclusão e Próximos Passos
 
 **Decisão: Hold**
@@ -72,6 +78,19 @@ A ausência do `drugbank_id` bloqueou a geração de previsões pelo TxGNN, e a 
 - Repetir a busca na ANVISA utilizando o nome INN alternativo **salbutamol**
 - Baixar as bulas dos produtos registrados na ANVISA para extrair advertências, contraindicações e interações medicamentosas
 - Após reprocessamento, verificar se o mecanismo beta-2 agonista apresenta relevância para alguma indicação alvo identificada pelo modelo
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “Adicionalmente, a busca realizada na base da ANVISA com o termo "ALBUTEROL" retornou 0 registros” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.

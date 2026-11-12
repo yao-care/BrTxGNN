@@ -5,7 +5,7 @@ parent: Evidência Alta (L1-L2)
 nav_order: 497
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 description: "Oxaliplatin: nova indicação prevista, Mesotelioma Pleural Maligno (malignant pleural mesothelioma) (nível de evidência L2). Indicação original: Não consta nos dados locais"
@@ -113,11 +113,37 @@ As advertências e contraindicações da bula brasileira não estavam disponíve
 **Justificativa:**
 - Há dois estudos de Fase 2 diretamente relevantes (ambos com 29 participantes; um concluído, outro com status desconhecido) e vários estudos de Fase 2 publicados, mas sem Fase 3, com resultados heterogêneos (inclusive um estudo de segunda linha negativo) e sem demonstração de superioridade sobre o padrão. As informações de segurança da bula estão ausentes, o que impede avançar para a triagem de segurança.
 
+<!-- review:begin br-lic-20261106-oxaliplatin-1 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “A oxaliplatina também não tem registro no Brasil e as informações de segurança da bula estão ausentes, o que impede avançar para a triagem de segurança.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 35 registros para este medicamento, 17 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-oxaliplatin-1 -->
+
 **Para prosseguir, é necessário:**
 - Obter e analisar a bula aprovada (advertências e contraindicações) na ANVISA.
 - Complementar os dados de mecanismo de ação via DrugBank.
 - Avaliar os resultados do NCT00859469 (concluído) e comparar com o esquema padrão cisplatina/pemetrexede.
 - Verificar a viabilidade regulatória no Brasil antes de qualquer plano de desenvolvimento.
+
+<!-- review:begin br-lic-20261106-oxaliplatin-2 -->
+
+> **Correção de verificação (2026-11-06)**: Texto original: “Verificar a viabilidade regulatória no Brasil (ausência de registro vigente) antes de qualquer plano de desenvolvimento.” Removido: a afirmação de que os registros estariam cancelados, vencidos ou inválidos não correspondia aos dados de registro (dados abertos de medicamentos da ANVISA, em 2026-11-06). Nos dados (dados abertos de medicamentos da ANVISA) constam 35 registros para este medicamento, 17 válidos; os números atualizados estão no resumo rápido e nas informações de comercialização. Fonte: [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv).
+
+<!-- review:end br-lic-20261106-oxaliplatin-2 -->
+
+<!-- review:begin log -->
+
+## Registro de verificação
+
+Abaixo está o registro de verificação desta página: afirmações conferidas com os dados oficiais de registro (dados abertos de medicamentos da ANVISA). As correções se limitam a fatos básicos; as previsões do modelo, os níveis de evidência e as conclusões não foram reescritos.
+
+| Data da verificação | Item | Ação | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Removido: “oxaliplatina também não tem registro no Brasil e a” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+| 2026-11-06 | Removido: “(ausência de registro vigente)” | Corrigido | [ANVISA – Dados abertos de medicamentos](https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv) |
+
+<!-- review:end log -->
+
 ## Aviso de isenção de responsabilidade
 
 Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
